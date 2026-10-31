@@ -131,6 +131,8 @@ new_motifs:
   god-creates-the-gods: {label: "The god is said to have created the great gods and to render their verdicts", cluster: theology}
   gods-kneel-and-praise-high-god: {label: "All the Igigi kneel before the god and the Anunnaki praise his name from their sanctuaries", cluster: theology}
   god-heaps-up-mountains: {label: "The high god heaps up the mountains and releases heaven and earth", cluster: creation}
+  goddess-judge-my-case: {label: "The petitioner asks the healing goddess to judge his case and hand down his verdict, because saving, sparing and rescuing belong to her", cluster: theology}
+  healed-to-see-the-light: {label: "The sick man prays that his severe illness be removed so that he may see the light (live)", cluster: theology}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -1009,3 +1011,39 @@ units:
     read: ["Shuila Guanna SB 1:1", "Shuila Gud SB 1:1"]
     tags:
       - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Guanna SB 1:1", "Shuila Gud SB 1:1"], note: "only the incipits survive: en2 bēlu [...]; en2 aplu gašru [...]"}
+  - id: ane-shuila-gula-sb-1a
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Gula, merciful mother and intercessor (šuʾila Gula 1a)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Gula SB 1a:1-28"]
+    tags:
+      - {motif: seize-hem-of-gods-garment, refs: ["Shuila Gula SB 1a:3"], note: "same formula as the Bēlet-ilī prayer: sissiktaki aṣbat"}
+      - {motif: goddess-judge-my-case, refs: ["Shuila Gula SB 1a:4-6"], note: "aššu dīna dânu purussâ parāsu ... eṭēra gamāla u šūzuba tīdî"}
+      - {motif: god-reconciles-angry-personal-god, refs: ["Shuila Gula SB 1a:11-19"], note: "ilī šabsu litūra ištarī zenītu lissahra ... ša īziza linūha"}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Gula SB 1a:13-14"], note: "ina bīri u šutti ittanaškanam-ma palhākū-ma"}
+      - {motif: goddess-intercedes-with-high-god, refs: ["Shuila Gula SB 1a:20-22"], note: "ṣābitat abbūt enši ana marduk ... abbūtī ṣabtī qibî dameqtī"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Gula SB 1a:26-28"], note: "šikara rēša tanaqqi šipta annīta šalāšīšu tamannū-ma teslīssu iššemmi"}
+    hints:
+      - "Compare the intercessor who 'stands in the breach', Ezek 22:30; Ps 106:23; and Job 33:23-24 (an angel mediator)."
+  - id: ane-shuila-gula-sb-1b-2
+    tradition: ane-akkadian
+    title: "Lifted-hand prayers to Gula and Baba against illness, eclipse and frightening dreams (šuʾila Gula 1b and 2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Gula SB 1b:1-32", "Shuila Gula SB 1b:10'-17'", "Shuila Gula SB 2:1'-6'"]
+    tags:
+      - {motif: goddess-judge-my-case, refs: ["Shuila Gula SB 1b:5-9", "Shuila Gula SB 1b:12'"], note: "dīna dīnī purussâ pursī hibilta šullimī"}
+      - {motif: seize-hem-of-gods-garment, refs: ["Shuila Gula SB 1b:6"], note: "variant: kīma qanni ilīya"}
+      - {motif: king-prays-against-eclipse-evil, refs: ["Shuila Gula SB 1b:15a-15c"]}
+      - {motif: god-reconciles-angry-personal-god, refs: ["Shuila Gula SB 1b:13-21"], note: "il ālīya marduk ša īguga linūha"}
+      - {motif: goddess-intercedes-with-high-god, refs: ["Shuila Gula SB 1b:22-24"], note: "ana marduk bēli rēmēnî māri reštê ša ea abbūtī ṣabtī"}
+      - {motif: healed-to-see-the-light, refs: ["Shuila Gula SB 1b:10'-15'"], note: "murṣu dannu linnassih-ma namirta lūmur; addressed to Baba"}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Gula SB 2:2'-3'"], note: "[šunātūya] pardā yâši"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Gula SB 1b:30-31", "Shuila Gula SB 2:5'-6'"]}
+    hints:
+      - "Compare Ps 43:1 ('judge me, O God, and plead my cause'); Ps 56:14 and Job 33:28-30 (to see the light of life)."

@@ -755,3 +755,128 @@ units:
       - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 009 r:4'-7'"], note: "ša pî Dunnaša-āmur mārat Arbail, dated Nisan 18, eponymy of Bēl-šaddûa governor of Tyre (650 BC)"}
     hints:
       - "The tireless guardian and intercessor: Isa 62:6-7, Isa 40:28-31; the shepherd searching mountains and rivers: Ezek 34:11-16. Advocate in the divine council: Zech 3, Job 33:23."
+  - id: ane-saa20-055-sargon-sacrificial-table
+    tradition: ane-akkadian
+    title: "Record of a rite in the Aššur temple, Sargon II year 9: the basalt seat, the sacrificial table and the scribes' portions (SAA 20 55)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 055 o:1-27", "SAA 20 055 r:1'-23'"]
+    tags:
+      - {motif: substitute-throne-rite-of-temple, refs: ["SAA 20 055 o:3-5"], note: "šubtu ša atbari ša šapal nimri erê ina Bēt-Aššur usēribū kī šubtu išaddadūni maškittu ina libbi šubti idaʾʾupū ina pān šarri ṭēmu utirrū 'when they dragged the basalt seat (under the copper leopard) into the temple, they knocked the sacrificial table; they reported to the king'"}
+      - {motif: altar-repaired-with-offerings, refs: ["SAA 20 055 o:7-18"], note: "the royal scribe and city scribe perform 'the work done on the sacrificial table': a sheep torn out before Aššur, silver of the temple, beer, wine, oil from the palace, plaster mixed by brewers; 'the temple was cleared (passuk)'"}
+      - {motif: priestly-portions-of-sacrifice, refs: ["SAA 20 055 r:12'-14'"], note: "ša pān Šamaš adi silqišu ṭupšar šarri ekkal ... ṭupšar āli ekkal ... unūt libbi nuhatimmu ekkal"}
+      - {motif: lamentation-priest-sings-at-sacrifice, refs: ["SAA 20 055 r:9'"], note: "yābilu ina muhhi maškitte inakkis kalû izammur"}
+      - {motif: sacrificial-leftovers-cast-into-river, refs: ["SAA 20 055 r:10'-11'"], note: "the slaughtered ram on the table ... ana nāri ... ikarrurū"}
+      - {motif: scribal-colophon, refs: ["SAA 20 055 r:16'-23'"], note: "hand of Zazaya city scribe, son of ... descendant of Etel-pî-Marduk; Tebet 22, eponymy of Issār-dūri, 9th year of Sargon"}
+    hints:
+      - "Rededication of a damaged altar and the priests' portions: 2 Chr 29:18-24, Lev 7:31-36, 1 Sam 2:13-16. Offerings of oil, honey, milk, beer, wine on the table: contrast Lev 2:11 (no honey on the altar)."
+  - id: ane-saa20-053-akitu-gods-chariot
+    tradition: ane-akkadian
+    title: "Assur cultic calendar: gods at Aššur's right and left at the akītu; the chariot procession (SAA 20 53 obv.)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 053 o.i:1'-29'", "SAA 20 053 o.ii:1'-31'"]
+    tags:
+      - {motif: gods-seated-right-and-left-of-chief-god, refs: ["SAA 20 053 o.i:6'-15'"], note: "ilāni akīti ša imitti šumēli ša Aššur ... PAB 14 ilāni ša imitti ... PAB 11 ilāni ša šumēli"}
+      - {motif: akitu-procession-of-gods, refs: ["SAA 20 053 o.i:1'-5'", "SAA 20 053 o.i:16'-21'"], note: "Ninurta ina arkat Aššur ina akīte illukū ... Nusku Kakka ina pānāt Aššur illukū; mugerru ana akīte unammaš illak; sisê peṣûti urâte 'white horses, teams'"}
+      - {motif: white-horses-draw-gods-chariot, refs: ["SAA 20 053 o.i:20'"]}
+      - {motif: king-rules-by-cult-duties, refs: ["SAA 20 053 o.ii:6'-12'"], note: "šarru ina pān apti ... mê qātē ana Aššur uqarrab 'the king brings hand-water to Aššur'"}
+      - {motif: divine-council-scene, refs: ["SAA 20 053 o.i:6'-15'"]}
+    hints:
+      - "The god's chariot and horses: 2 Kgs 23:11 (horses dedicated to the sun, chariots of the sun), Hab 3:8, Ps 68:18. Gods at right and left: 1 Kgs 22:19."
+  - id: ane-saa20-053-bit-dagan-seating-baths
+    tradition: ane-akkadian
+    title: "Assur cultic calendar: seating in the Dagan temple tested by oracle; baths and drums of the gods (SAA 20 53 rev.)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 053 r.v:1'-27'", "SAA 20 053 r.vi:1'-29'"]
+    tags:
+      - {motif: cult-reform-tested-by-extispicy-good-not-good, refs: ["SAA 20 053 r.v:12'-17'"], note: "Mullissu ištu nāmeri ša imitti ana ušābi ṭāb ... Šeruʾa ana imitti ušābu lā ṭāb Šeruʾa ana šumēli ušābu ṭāb 'Šeruʾa sitting at the right: not good; at the left: good'"}
+      - {motif: gods-seated-right-and-left-of-chief-god, refs: ["SAA 20 053 r.vi:9'-11'"], note: "Mullissu Šeruʾa Kippat-māti Kakka Madānu ina imitti Haya Kusu ina šumēli ina pūt Aššur uššubū"}
+      - {motif: bath-days-of-gods, refs: ["SAA 20 053 r.vi:17'-26'"], note: "rimkāni eššūti ša Aššur ... ša Anu ... ša Adad"}
+      - {motif: kettledrums-for-rising-of-gods, refs: ["SAA 20 053 r.vi:6'", "SAA 20 053 r.vi:12'", "SAA 20 053 r.vi:27'-29'"], note: "kalû lilissu išakkunū ... lilissāti ša tabûti ilāni ša kal šatti"}
+      - {motif: gods-of-subartu-ferried-before-god, refs: ["SAA 20 053 r.vi:14'-15'"], note: "Haya illak ina rēš eleppi izzaz ilāni Subarti ina pānišu ušebbur"}
+      - {motif: sun-gate-of-temple, refs: ["SAA 20 053 r.v:23'-24'"], note: "kīma Aššur ištu Bēt-Dagan ittuṣi ina bāb ṣīt šamši uššab"}
+    hints:
+      - "East gate of the temple where the glory enters: Ezek 43:1-4, 44:1-2. Drums and music at the rising of the deity: Ps 68:25-26, Ps 150:5."
+  - id: ane-saa20-005-procession-to-palace
+    tradition: ane-akkadian
+    title: "Fragment of a royal ritual: gods enter the palace, priests in sedan chairs (SAA 20 5)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 005 o:1'-10'", "SAA 20 005 r:1-9"]
+    tags:
+      - {motif: akitu-procession-of-gods, refs: ["SAA 20 005 o:4'-8'"], note: "Šeruʾa Kippat-māti Tašmētu ina ekalli illaka ina Bēt-Labbūni uššab ... Aššur-ša-sasûti ina abulli Aššur illaku"}
+      - {motif: priests-carried-in-sedan-chairs, refs: ["SAA 20 005 r:7-9"], note: "šangû ša Anu šangû ša Adad ... šangû ša Nabû ina ša-šadādi"}
+      - {motif: roast-kid-at-city-gate, refs: ["SAA 20 005 o:8'-9'"], note: "nīqu ... unīqu qalû harû petû 'a roasted kid, the vat opened'"}
+  - id: ane-saa20-006-mouth-washing-dagan
+    tradition: ane-akkadian
+    title: "Fragment of a royal ritual: mouth-washing on the 23rd; the king in the Dagan temple (SAA 20 6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 006 o:1-16", "SAA 20 006 r:1'-8'"]
+    tags:
+      - {motif: mouth-washing-of-divine-image, refs: ["SAA 20 006 o:1"], note: "UD 23 šarru ina bēt danni mīs pî eppaš 'the king performs the mouth-washing in the Strong House'"}
+      - {motif: kings-face-of-god-made-to-shine, refs: ["SAA 20 006 o:5"], note: "zīmu ušanmar 'he makes the (god's) face shine'"}
+      - {motif: incense-and-torch-offered-by-king, refs: ["SAA 20 006 o:2-4"], note: "nignakku burāši ana qāt šarri iddunū ... nignakku gizillâ uqarrab"}
+      - {motif: salt-on-offering-table, refs: ["SAA 20 006 o:14"], note: "ṭabtu ikarrar"}
+    hints:
+      - "Salt with every offering: Lev 2:13; incense and torch before the deity: Exod 30:7-8. 'Make your face shine': Num 6:25, Ps 80:4."
+  - id: ane-saa20-007-coronation-1
+    tradition: ane-akkadian
+    title: "Middle Assyrian coronation ritual: 'Aššur is king!'; the crown blessing (SAA 20 7 i-ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 007 i:19'-46'", "SAA 20 007 ii:1-49"]
+    tags:
+      - {motif: aššur-is-king-acclamation, refs: ["SAA 20 007 i:26'-29'"], note: "men carrying the king's chair on their necks; the priest of Aššur goes before them ... akia iqabbi Aššur šarru Aššur šarru adi bāb Azue iqabbi 'thus he says: Aššur is king! Aššur is king! as far as the Anzu gate'"}
+      - {motif: yhwh-reigns-forever, refs: ["SAA 20 007 i:29'"]}
+      - {motif: king-carried-on-chair, refs: ["SAA 20 007 i:26'", "SAA 20 007 ii:43'-49'"], note: "kussû ša šarri ina labiānišunu išakkanū ... šarru ... ina kussî ina labiāni naṣṣu"}
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 007 i:31'-32'"], note: "uškân iggarrar 'he prostrates himself, rolls on the ground'"}
+      - {motif: king-strikes-or-is-struck-on-cheek, refs: ["SAA 20 007 i:28'"], note: "lemmatized lēt šarri imahhaṣ 'he strikes the king's cheek'; reading uncertain (some read 'beats the drum')"}
+      - {motif: gifts-placed-at-feet-of-god, refs: ["SAA 20 007 i:32'-37'"], note: "a golden bowl with oil, a mina of silver, a mina of gold, a garment ina šēp ili išakkan"}
+      - {motif: stones-as-offerings-for-each-god, refs: ["SAA 20 007 i:41'-46'", "SAA 20 007 ii:1-13"], note: "NA4 'one stone' per god: Aššur, Šeruʾa, Nusku, Enlil and Dagan, the Judges of the dais, Sîn, Šamaš ... ilāni tarsūte 'the deposed gods', Lahmu, Kusarikku, Pû-lišānu 'Mouth-and-Tongue' ... ana qīšāte iddan"}
+      - {motif: crown-of-god-set-on-throne, refs: ["SAA 20 007 ii:15-16"], note: "agâ ša Aššur u kakkē ša Mullissu inašši ina šēp parakki ina muhhi kussî ušešab"}
+      - {motif: crown-blessing-on-new-king, refs: ["SAA 20 007 ii:26'-36'"], note: "kulūli ša qaqqadika Aššur Mullissu bēlū ša kulūlika 1 me šanāti lippirūka šēpka ina Ekurri u qātāka ina irat Aššur ilika lū ṭāb ... ina išarti haṭṭaka mātka rapiš qabâ šemâ magāra kitta u salīma Aššur liddinakka"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["SAA 20 007 ii:35'"]}
+      - {motif: prayer-for-kings-long-life, refs: ["SAA 20 007 ii:31'"], note: "1 me šanāti lippirūka 'may they crown you for a hundred years'"}
+      - {motif: officials-kiss-feet-of-king, refs: ["SAA 20 007 ii:37'-38'"], note: "rabûti ša-rēš šarrāni ... ultanaknanū šēpē ša šarri unaššuqū"}
+    hints:
+      - "'YHWH is king' (YHWH malakh): Ps 93:1, Ps 96:10, Ps 97:1, Ps 99:1; acclamation 'Long live the king': 1 Sam 10:24, 1 Kgs 1:39. Crown and testimony: 2 Kgs 11:12. Sceptre of equity: Ps 45:7. 'Kiss the son': Ps 2:12."
+  - id: ane-saa20-007-coronation-2
+    tradition: ane-akkadian
+    title: "Middle Assyrian coronation ritual: enthronement, gifts, the officials lay down their staffs; offerings to all gods (SAA 20 7 iii-iv)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 007 r.iii:1-42", "SAA 20 007 r.iv:1-7"]
+    tags:
+      - {motif: goddess-takes-king-by-hand-to-throne, refs: ["SAA 20 007 r.iii:1"], note: "ina kussî ša šarrūte ušeššubūšu 'they seat him on the throne of kingship'"}
+      - {motif: officials-kiss-feet-of-king, refs: ["SAA 20 007 r.iii:2-4"], note: "nārū izammurū rabûti ... ina pān šarri ultanaknanū šēpē ša šarri unaššuqū"}
+      - {motif: greeting-gifts-to-new-king, refs: ["SAA 20 007 r.iii:4-8"], note: "šulmānāte ana šarri uqṭanarrubū"}
+      - {motif: officials-lay-down-staffs-reappointed, refs: ["SAA 20 007 r.iii:8-14"], note: "sukkallu rabû sukkallu šanû haṭṭāte ana pān šarri ikarrurū ... bēl pīhāte ... mazzaltašunu uššurū ... šarru iqabbiaššunu mā yamattu pāhassu lūkaʾʾil 'the officials lay their staffs before the king and leave their posts; the king says: let each hold his office'"}
+      - {motif: catalogue-of-gods-of-temple, refs: ["SAA 20 007 r.iii:15-42", "SAA 20 007 r.iv:1-5"], note: "PAB 110 abnē ilāni ša Bēt-Aššur 'in all 110 stones for the gods of the Aššur temple' (incl. Allatum, Išhara, Išum, Maliku, Lamassu upper and lower, Tigris, Twins, Pleiades)"}
+    hints:
+      - "Officials confirmed by the new king: 1 Kgs 4:1-6, 2 Sam 8:15-18; Saul at Gilgal 1 Sam 11:15. Enthronement with music and homage: 1 Kgs 1:39-48."
+  - id: ane-saa20-029-mouth-and-tongue-secret
+    tradition: ane-akkadian
+    title: "Ritual in the Bit-Eqi of Ištar: offering to 'Mouth-and-Tongue' and the charge to keep Ištar's secret (SAA 20 29)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 029 o:1-15", "SAA 20 029 r:1'-10'"]
+    tags:
+      - {motif: deified-mouth-and-tongue, refs: ["SAA 20 029 o:2-9"], note: "paššuru ša pān Pû-lišānu 'the table before Mouth-and-Tongue'; incense, a loaf broken, beer, a tin model womb (sassurtu) set before him"}
+      - {motif: model-womb-offered, refs: ["SAA 20 029 o:8-9"], note: "1 sassurtu ša 1-2 MA.NA annaki"}
+      - {motif: guard-set-over-mouth, refs: ["SAA 20 029 r:8'"], note: "mā Issār pîka lišānka lū taṣṣur 'may Ištar guard your mouth and tongue'"}
+      - {motif: secret-of-goddess-on-pain-of-death, refs: ["SAA 20 029 o:14-15", "SAA 20 029 r:5'-7'"], note: "abata u pirilta ša Issār uṣur mā abata ša Issār tulteṣīma lā taballaṭ u pirilta lā tattaṣarma lā tašallim 'guard the word and secret of Ištar; if you let out her word you will not live; if you do not keep her secret you will not be well'"}
+      - {motif: torch-blessing-shine-as-this-torch, refs: ["SAA 20 029 o:12-13", "SAA 20 029 r:3'-4'"], note: "kī ziqqu annītu namratuni namāra u šalāma Issār lū tašīmakku"}
+      - {motif: priest-blesses-offerer, refs: ["SAA 20 029 o:10-11"], note: "šangû ana bēl nīqi ikarrab mā Pû-lišānu damqātēka ana Issār liqbi abbūtaka ana Issār liṣbat 'may Mouth-and-Tongue speak good of you to Ištar and intercede for you'"}
+    hints:
+      - "Guard your mouth: Ps 141:3, Prov 13:3, Prov 21:23; revealing a secret: Prov 11:13, Prov 20:19. 'Whoever reveals the mysteries ... shall die': compare Deut 29:28 (secret things belong to YHWH). Lamp/light blessing: Num 6:25, Prov 4:18."

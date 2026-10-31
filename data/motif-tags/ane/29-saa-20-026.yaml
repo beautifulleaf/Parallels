@@ -1,0 +1,836 @@
+# Full read, chunk 29: SAA 20 026, 024, 027, 008, 049, 048 (Assyrian royal rituals and the Aššur
+# divine directory), Cyrus II 01 (the Cyrus Cylinder), Sennacherib 022 (Chicago/Taylor prism),
+# Esarhaddon 001 (Nineveh prism A), Esarhaddon 104 and 105 (Babylon inscriptions).
+# Read from ORACC lemmatized transliteration (saao/saa20, ribo/babylon8, rinap/rinap3, rinap/rinap4).
+new_motifs:
+  king-establishes-rite-for-god: {label: "A ritual text is headed with the claim that a named king performed and fixed this rite (parṣu) for a god", cluster: cult}
+  hymn-incipit-sung-at-each-offering: {label: "A ritual prescribes, after each strewn offering and libation, a named hymn or prayer incipit to be sung", cluster: cult}
+  offerings-to-gods-before-ritual-bed: {label: "Offerings are set before the Igigi and Anunnaki gods 'before the bed' (mayyālu) prepared in a rite", cluster: cult}
+  seven-metals-laid-out-in-ritual: {label: "One mina each of iron, lead, gold, silver, bronze, tin and glass (with coloured wools) is laid out as ritual material", cluster: cult}
+  ritual-twice-performed-seed-prospers: {label: "Ritual promise: whoever performs this rite twice before the god, his seed (offspring) will prosper", cluster: cult}
+  ritual-loosens-anger-of-personal-god: {label: "A rite asks that the heart of a man's angry god and goddess be 'loosened' and his evil released; the angry protective spirit of the house is reconciled", cluster: cult}
+  funerary-offering-to-netherworld-gods: {label: "A funerary offering (kispu) is made to the netherworld gods (Anunnaki) within a royal rite", cluster: cult}
+  offering-to-sun-god-on-roof: {label: "Part of the rite is performed on the roof before the sun god, with oil and a censer lifted up", cluster: cult}
+  divine-directory-of-city: {label: "A list assigns every god and divine symbol of a city to its temple, shrine or courtyard, with totals per temple", cluster: cult}
+  deified-justice-and-truth: {label: "Justice (Mišaru) and Truth (Kittu) are worshipped as gods with places in a temple", cluster: cult}
+  ceremonial-names-of-city-gates: {label: "The gates of a city each bear a sentence-name praising a god or the king (e.g. 'Aššur subdues the rebels')", cluster: cult}
+  temple-names-glossed: {label: "A list gives each temple's Sumerian ceremonial name with an Akkadian rendering ('House of life', 'House of the secret of heaven and earth')", cluster: cult}
+  royal-statue-housed-among-gods: {label: "A statue of a king stands among the divine images in a temple", cluster: kingship}
+  impious-king-perverts-cult: {label: "An impious king makes a counterfeit of the chief temple, introduces improper rites, stops the regular offerings and ends the fear of the chief god", cluster: kingship}
+  oppressor-yoke-without-rest: {label: "The tyrant ruins his own city's people under a corvée yoke without rest, daily", cluster: kingship}
+  god-angered-by-peoples-complaint: {label: "The people's complaint (tazzimtu) reaches the chief god, who becomes furious at the ruler", cluster: kingship}
+  god-searches-lands-for-righteous-ruler: {label: "The god surveys all the lands looking for an upright ruler after his own heart", cluster: kingship}
+  god-grasps-hand-of-chosen-foreign-king: {label: "The god takes a foreign king by the hand, calls his name and names him to rule the whole world", cluster: kingship}
+  god-walks-beside-king-as-friend: {label: "The god goes at the king's side like a friend and companion on his march", cluster: kingship}
+  army-countless-as-river-water: {label: "The king's army is as countless as the water of a river", cluster: war}
+  city-entered-without-battle: {label: "The conqueror enters the enemy capital without battle or fighting, by the god's will", cluster: war}
+  subjects-kiss-feet-of-king: {label: "Subject peoples or vassal kings come and kiss the king's feet in submission", cluster: kingship}
+  royal-genealogy-to-dynastic-founder: {label: "The king traces his line through father and grandfather to a dynastic founder, 'eternal seed of kingship'", cluster: kingship}
+  king-lifts-yoke-from-citizens: {label: "The new king relieves the city's weariness and frees its people from an unfitting yoke", cluster: kingship}
+  captured-gods-returned-to-their-sanctuaries: {label: "The king returns the deported statues of gods to their own cities and settles them in an eternal dwelling", cluster: cult}
+  deported-peoples-returned-to-their-homes: {label: "The king gathers deported or scattered peoples and returns them to their settlements", cluster: kingship}
+  gods-asked-to-intercede-for-king: {label: "The king asks the gods he has restored to speak daily before the chief god for his long life and good name", cluster: cult}
+  kings-of-west-in-tents-bring-tribute: {label: "All the kings of the west (Amurru), from the upper to the lower sea, including those who live in tents, bring heavy tribute", cluster: kingship}
+  predecessors-inscription-found-in-rebuilding: {label: "While rebuilding, the king finds an inscription of an earlier king and honours it", cluster: kingship}
+  royal-epithet-chain: {label: "A royal inscription opens with a chain of titles (great king, mighty king, king of the world, king of Assyria, king of the four quarters, shepherd)", cluster: kingship}
+  defeated-king-flees-alone-like-bird: {label: "A defeated king abandons his army and flees alone like a bird to save his life", cluster: war}
+  enemy-palace-treasure-and-women-carried-off: {label: "The conqueror opens the enemy palace treasury and carries off gold, silver, palace women, courtiers and musicians as booty", cluster: war}
+  king-climbs-mountains-on-foot: {label: "Where the chariot cannot go, the king climbs steep mountains on foot like a wild bull, resting on rocks and drinking from a waterskin", cluster: war}
+  conquered-city-renamed-for-king: {label: "A conquered city is rebuilt and renamed after the conquering king (Kar-Sennacherib, Kar-Esarhaddon)", cluster: war}
+  victory-stela-set-up-in-conquered-city: {label: "The king has a stela inscribed with his victory set up in the conquered city", cluster: war}
+  vassal-king-installed-on-throne: {label: "The overlord sets a loyal king on the throne of a conquered city and imposes yearly tribute", cluster: kingship}
+  western-kings-bring-tribute-list: {label: "A list of named kings of the Levant (Sidon, Arwad, Byblos, Ashdod, Ammon, Moab, Edom ...) who bring tribute and kiss the king's feet", cluster: kingship}
+  rebel-king-deported-with-family-gods: {label: "A rebel king is deported with the gods of his father's house, his wife, sons, daughters and brothers", cluster: war}
+  loyal-king-handed-over-in-iron-fetters: {label: "Rebels put their loyal, treaty-bound king in iron fetters and hand him over to a hostile neighbouring king", cluster: war}
+  rebels-executed-innocent-spared: {label: "The conqueror kills the guilty officials and deports the sinners, but releases the rest who bore no guilt", cluster: war}
+  besieged-king-shut-up-like-caged-bird: {label: "The besieged king is shut up in his royal city 'like a bird in a cage'", cluster: war}
+  fortified-cities-of-judah-captured: {label: "The invader besieges and takes forty-six walled cities of Judah and countless villages", cluster: war}
+  conquered-land-given-to-neighbour-kings: {label: "Cities taken from a rebel are cut off and given to loyal neighbouring kings, so his land is diminished", cluster: war}
+  besieged-king-sends-tribute-and-daughters: {label: "The besieged king sends gold, silver, precious goods, his daughters, palace women and musicians after the conqueror to his capital", cluster: war}
+  terror-of-kings-radiance-overwhelms: {label: "The fearsome radiance (pulhi melamme) of the king's lordship overwhelms the enemy", cluster: war}
+  king-of-judah-named-in-foreign-record: {label: "A king of Judah (Hezekiah, Manasseh) is named in a foreign royal inscription", cluster: war}
+  enemy-flees-by-sea-with-gods: {label: "A defeated king loads his gods into boats and flees across the sea to a distant city", cluster: war}
+  kings-son-set-over-conquered-land: {label: "The conqueror sets his own son on the throne of the conquered land", cluster: kingship}
+  cities-like-eagles-nests-on-peaks: {label: "Mountain cities are set on the peaks like the nests of the eagle, prince of birds", cluster: war}
+  army-crosses-sea-in-ships: {label: "The king has his army cross the sea in ships built by western shipwrights to attack the enemy", cluster: war}
+  winter-storm-forces-retreat: {label: "Bitter cold, heavy rain and snow in the winter month force the king to turn back", cluster: war}
+  enemy-king-dies-before-his-time: {label: "By the god's command an enemy king dies suddenly within months, 'on a day not his fate'", cluster: war}
+  enemy-armies-like-locust-swarm: {label: "The allied enemy armies advance like a great swarm of locusts in spring", cluster: war}
+  king-prays-to-gods-before-battle: {label: "Before battle the king prays to his gods for victory and they hear his prayer at once", cluster: war}
+  king-arms-and-roars-like-storm-god: {label: "The king puts on armour and helmet, mounts his chariot in fury and roars like the storm god", cluster: war}
+  battlefield-blood-like-river: {label: "The blood of the slain flows like a river over the plain and the chariot wheels are steeped in blood and gore", cluster: war}
+  enemies-soil-themselves-in-terror: {label: "Fleeing enemies in terror urinate and defecate in their chariots", cluster: war}
+  palace-without-rival-built: {label: "The king builds a 'palace without rival' on a raised terrace with cedar beams, bronze-bound doors and colossal guardian figures", cluster: kingship}
+  future-king-to-anoint-inscription: {label: "A future king who restores the building is to find the inscription, anoint it with oil, sacrifice and return it to its place", cluster: kingship}
+  younger-son-chosen-heir-by-gods: {label: "Though the youngest of his brothers, the son is named heir by the gods and his father in the assembly of his brothers", cluster: kingship}
+  people-swear-loyalty-to-crown-prince: {label: "The people and the brothers are made to swear an oath by the gods (with water and oil) to protect the designated heir", cluster: treaty}
+  brothers-slander-chosen-heir: {label: "Jealous brothers spread slander and falsehood against the chosen heir and turn the father's heart against him", cluster: kingship}
+  gods-hide-chosen-in-secret-place: {label: "The gods remove the threatened heir to a secret place and spread their protection over him", cluster: kingship}
+  brothers-fight-for-throne: {label: "After the father's fall the brothers rebel and butt each other like young goats for the kingship", cluster: kingship}
+  king-rends-garment-and-cries-woe: {label: "Hearing of the revolt, the king cries 'woe', tears his princely garment and rages like a lion", cluster: kingship}
+  king-marches-in-midwinter-without-delay: {label: "The king sets out at once in the cold of winter without waiting a day or preparing his troops", cluster: war}
+  goddess-breaks-enemies-bows: {label: "The war goddess stands at the king's side and breaks his enemies' bows", cluster: war}
+  enemy-troops-acclaim-rival-as-king: {label: "The opposing troops declare 'this is our king' and go over to him", cluster: kingship}
+  defeated-pretenders-flee-abroad: {label: "The defeated rival princes abandon their troops and flee to an unknown land", cluster: kingship}
+  prophetic-messages-encourage-king: {label: "Messages of ecstatic prophets (mahhû), sent by gods and goddesses, constantly reach and encourage the king", cluster: prophecy}
+  favourable-signs-in-heaven-and-earth: {label: "Favourable signs appear in heaven and on earth for the king's rule or work", cluster: prophecy}
+  conspirators-and-their-seed-destroyed: {label: "The king gathers the guilty who incited the rebellion, punishes them and destroys their seed", cluster: kingship}
+  oath-breaker-slain-in-exile: {label: "A rebel who broke the oath of the great gods flees abroad and is killed there by the sword", cluster: treaty}
+  king-caught-like-fish-from-sea: {label: "A king who fled to the sea is caught 'like a fish' from the midst of the sea and beheaded", cluster: war}
+  severed-heads-hung-on-nobles-necks: {label: "The severed heads of rebel kings are hung round the necks of their nobles, paraded through the capital with singers and lyre", cluster: war}
+  captive-kept-at-gate-with-animals: {label: "A captive king (or rebel) is kept chained at the city gate with a bear, a dog and a pig, or in a kennel", cluster: war}
+  gods-of-defeated-renewed-and-returned: {label: "The king renews captured gods, writes the might of his god and his own name on them, and gives them back to their people", cluster: cult}
+  desert-of-thirst-snakes-and-scorpions: {label: "A far desert land of salt and thirst, where snakes and scorpions fill the ground like ants", cluster: war}
+  vassal-kings-haul-cedars-of-lebanon: {label: "Twenty-two vassal kings of the west and the islands (including Judah) are made to haul cedar beams from Lebanon and Sirara for the king's building", cluster: kingship}
+  palace-inauguration-feast: {label: "At the inauguration the gods are invited and given offerings, and the officials and people are feasted with wine and their heads anointed with oil", cluster: kingship}
+  builders-work-with-song-and-joy: {label: "The workers carry hoe and basket in joy and song, the mortar mixed with beer and wine", cluster: kingship}
+  citizens-say-yes-for-no: {label: "In the days of a former king the citizens answer one another 'yes' for 'no' and speak lies", cluster: kingship}
+  people-neglect-gods-and-rites: {label: "The people neglect their gods, abandon their goddesses and their rites, and go other ways", cluster: cult}
+  chief-god-plans-to-destroy-land: {label: "The chief god, enraged, plans evil to flatten the land and destroy its people", cluster: kingship}
+  city-destroyed-by-river-flood-like-deluge: {label: "A raging canal flood, like the deluge (abūbu), sweeps over the city and turns it to a ruin heap", cluster: kingship}
+  gods-fly-from-city-like-birds: {label: "The gods dwelling in the city fly up to heaven like birds", cluster: cult}
+  citizens-scattered-and-enslaved-abroad: {label: "The city's people flee elsewhere and go into slavery in a foreign land", cluster: kingship}
+  seventy-years-of-desolation-written: {label: "The god writes down seventy years as the term of a city's desolation", cluster: prophecy}
+  merciful-god-shortens-term-of-punishment: {label: "The merciful god, his heart calmed, overturns the decreed term (seventy turned upside down into eleven years) and orders resettlement", cluster: prophecy}
+  king-commissioned-to-restore-holy-city: {label: "The gods charge the chosen king to return the gods, rebuild the holy city and its temple and reconcile the angry gods", cluster: kingship}
+  extispicy-approves-temple-rebuilding: {label: "The king kneels before the gods and the diviners' extispicy gives a firm 'yes' to rebuild the temple", cluster: cult}
+  bricks-moulded-with-oil-honey-wine: {label: "The bricks or mortar of the temple are mixed with oil, honey, ghee, wine and beer", cluster: cult}
+  temple-rebuilt-exactly-on-old-foundation: {label: "The temple is rebuilt on its old foundations, not deviating a cubit or half a cubit from the old plan", cluster: cult}
+  temple-as-replica-of-cosmic-abode: {label: "The rebuilt temple is a replica of the Apsû, a counterpart of the heavenly Ešarra and of a constellation", cluster: cosmology}
+  damaged-divine-images-renewed: {label: "The king renews the divine images damaged by water and mud and resettles them on their daises forever", cluster: cult}
+  freed-citizens-clothed-and-led-home: {label: "The city's citizens who were sold into slavery are gathered, clothed and set back on the road home", cluster: kingship}
+  returnees-encouraged-to-build-and-plant: {label: "The king encourages the returned citizens to build houses, plant orchards and dig canals", cluster: kingship}
+  exemption-tablets-rewritten: {label: "The king rewrites the tablets of the holy city's exemptions and opens its roads to the four winds", cluster: kingship}
+  kingship-pleasing-like-plant-of-life: {label: "Prayer that the king's rule be pleasing to the people like the plant of life", cluster: kingship}
+  blessing-rain-flood-harvest-for-king: {label: "Blessing on the king's reign: rains, floods, good harvests and grain heaped on the threshing floors", cluster: kingship}
+  curse-on-violator-of-holy-city-privilege: {label: "Curse on whoever alters the king's inscription or abolishes the holy city's privileges: may the chief god look on him in anger and decree his death", cluster: kingship}
+units:
+  # ---------------- SAA 20 (rituals) ----------------
+  - id: ane-saa-20-026-sin-natu-ritual
+    tradition: ane-akkadian
+    title: Tukulti-Ninurta I's nāṭu rite for Sîn (SAA 20 26)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 026 o:1-l.e:2"]
+    tags:
+      - {motif: king-establishes-rite-for-god, refs: ["SAA 20 026 o:1-2"], note: "epuš-ma Tukulti-Ninurta šar māt Aššur parṣī ana Sîn ... ukīn-ma iddin"}
+      - {motif: seven-metals-laid-out-in-ritual, refs: ["SAA 20 026 o:18-19"]}
+      - {motif: offerings-to-gods-before-ritual-bed, refs: ["SAA 20 026 o:41", "SAA 20 026 o:47-48", "SAA 20 026 o:52-r:1", "SAA 20 026 r:16-18"], note: "ina pān Igigi ina pān mayyāli"}
+      - {motif: hymn-incipit-sung-at-each-offering, refs: ["SAA 20 026 o:36-51", "SAA 20 026 r:13-19"], note: "e.g. 'Anu abu ilī bānû kalāma rašubbu' (Anu, father of the gods, creator of all) tazammur; 'Nanna attā rāʾim šamê' tazammur"}
+      - {motif: libation-of-oil-honey-beer-wine, refs: ["SAA 20 026 o:44-49"]}
+      - {motif: ritual-twice-performed-seed-prospers, refs: ["SAA 20 026 r:42"], note: "2-šu dullu annû ina mahar Sîn ušallam-ma ēpaš zēršu išir"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 20 026 r:43"]}
+    hints:
+      - "The repeated strew-offering, libation and song at each station recalls the psalm-singing at sacrifices in 2 Chr 29:27-28."
+  - id: ane-saa-20-024-lady-of-mountain-natu
+    tradition: ane-akkadian
+    title: Tukulti-Ninurta I's nāṭu rite for the Lady of the Mountain, in a tent by the river (SAA 20 24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 024 o:1-r:45'"]
+    tags:
+      - {motif: king-establishes-rite-for-god, refs: ["SAA 20 024 o:1-2"]}
+      - {motif: tent-pitched-for-rite-by-river, refs: ["SAA 20 024 o:3"], note: "maškanu ina kišād nāri tamahhaṣ bābšu ana pān Šamaš tašakkan: the tent is pitched on the river bank with its door toward the sun"}
+      - {motif: seven-metals-laid-out-in-ritual, refs: ["SAA 20 024 o:13-14"]}
+      - {motif: hymn-incipit-sung-at-each-offering, refs: ["SAA 20 024 o:36'-43'", "SAA 20 024 r:5-6", "SAA 20 024 r:12-18"]}
+      - {motif: offerings-to-gods-before-ritual-bed, refs: ["SAA 20 024 o:37'", "SAA 20 024 o:44'", "SAA 20 024 r:15"]}
+      - {motif: ritual-loosens-anger-of-personal-god, refs: ["SAA 20 024 r:7-10"], note: "libbi ilīka libbi šīmtika qātā ilīka ištarīka lippaṭṭirka ... lumunšu ipaṭṭar ... šēdu bīti zenû ana awīli isallim"}
+      - {motif: ritual-twice-performed-seed-prospers, refs: ["SAA 20 024 r:44'"], note: "performed 'in the midst of the mountain' (ina qereb šadê)"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 20 024 r:45'"]}
+    hints:
+      - "A rite in a tent pitched for a deity can be set beside the tent of meeting (Exod 33:7-11)."
+  - id: ane-saa-20-027-nusku-ritual
+    tradition: ane-akkadian
+    title: Tukulti-Ninurta I's rite for Nusku in the temple of Sîn (SAA 20 27)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 027 o:1-r:41'"]
+    tags:
+      - {motif: king-establishes-rite-for-god, refs: ["SAA 20 027 o:1"]}
+      - {motif: hymn-incipit-sung-at-each-offering, refs: ["SAA 20 027 r:3", "SAA 20 027 r:33'-34'", "SAA 20 027 r:37'"]}
+      - {motif: funerary-offering-to-netherworld-gods, refs: ["SAA 20 027 r:26'"], note: "kispī ana Anunnaki takassap"}
+      - {motif: offering-to-sun-god-on-roof, refs: ["SAA 20 027 r:33'-34'"], note: "ina ūri elû ... šamnu ina ūri ina mahar Šamaš tuqarrab"}
+      - {motif: counter-figurine-of-witch-drawn-before-sun, refs: ["SAA 20 027 o:18", "SAA 20 027 o:20", "SAA 20 027 r:36'"], note: "only partly fitting: here a drawing (uṣurtu) is drawn in flour and sealed; its purpose is lost in the breaks"}
+      - {motif: ritual-twice-performed-seed-prospers, refs: ["SAA 20 027 r:39'"]}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 20 027 r:41'"]}
+    hints:
+      - "Seven pure men (r:31') and messengers kept within the gate while bread, meat and water are consumed (r:35'); compare the purity rules for a sacred meal, Lev 7:19-21."
+  - id: ane-saa-20-008-assur-brazier-rite
+    tradition: ane-akkadian
+    title: Fire rite before Aššur on the evening of the 16th (SAA 20 8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 008 1'-14'"]
+    tags:
+      - {motif: fire-kindled-in-temple-at-evening, refs: ["SAA 20 008 4'-7'", "SAA 20 008 10'-11'"], note: "UD 16-KAM ša bādi išātu ina Bēt-Aššur ušahhuzu; kinūnu ina pān Aššur; a ram on the brazier; a torch (zīqtu). Fragmentary"}
+      - {motif: bed-set-up-for-god, refs: ["SAA 20 008 13'"], note: "eršu tašakkan; broken context"}
+    hints:
+      - "A ram burnt on a brazier before the god in the evening: compare the evening burnt offering (Exod 29:38-42)."
+  - id: ane-saa-20-049-assur-gods-in-temples
+    tradition: ane-akkadian
+    title: Divine directory of Assur, part 1 (gods in the Aššur temple and the other temples) (SAA 20 49)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 049 1-119"]
+    tags:
+      - {motif: divine-directory-of-city, refs: ["SAA 20 049 13", "SAA 20 049 53", "SAA 20 049 58", "SAA 20 049 109"], note: "totals: PAB ina papāhi; PAB ilāni ina Bēt-Aššur; PAB 9 ilāni ina Bēt-Anu; PAB 19 ilāni ša Bēt-Mēme"}
+      - {motif: royal-statue-housed-among-gods, refs: ["SAA 20 049 12", "SAA 20 049 57", "SAA 20 049 60", "SAA 20 049 80"], note: "ṣalam Tukulti-apil-Ešarra; ilu Ṣalam-šarri (the king's statue as a deity)"}
+      - {motif: deified-justice-and-truth, refs: ["SAA 20 049 24", "SAA 20 049 28", "SAA 20 049 34-42", "SAA 20 049 65", "SAA 20 049 71"], note: "Mišaru, Kittu, and ten divine judges (Dayyānū) named Išme-karābu ('he heard the prayer'), Pišu-kīna ('his mouth is firm') etc."}
+      - {motif: divine-weapons-worshipped, refs: ["SAA 20 049 9-10"], note: "Kašidūti, Kakku, Kalappu: Aššur's weapons as gods"}
+      - {motif: dumuzi-tammuz-cult, refs: ["SAA 20 049 77", "SAA 20 049 86", "SAA 20 049 97"], note: "Dumuzi has a place in several Ištar temples of Assur"}
+      - {motif: gatekeeper-gods, refs: ["SAA 20 049 44-48"]}
+    hints:
+      - "Tammuz worshipped in the temple of the goddess: compare the women weeping for Tammuz at the temple gate, Ezek 8:14."
+      - "Justice and Truth as attendants of the god: compare Ps 85:11-14 and Ps 89:15."
+  - id: ane-saa-20-049-assur-gates-and-temples
+    tradition: ane-akkadian
+    title: Divine directory of Assur, part 2 (gates, city guardians, temple names, ziggurats, colophon) (SAA 20 49)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 049 120-201"]
+    tags:
+      - {motif: ceremonial-names-of-city-gates, refs: ["SAA 20 049 120-133", "SAA 20 049 191-196"], note: "e.g. 'Aššur mukanniš šabsūti' (Aššur subdues the angry) = Aššur gate; 'Šamaš nēr multarhi' = Šamaš gate; PAB 13 abullāti Baltil"}
+      - {motif: god-as-night-watchman-of-streets, refs: ["SAA 20 049 134-138"], note: "gods named as guard of the city (maṣṣar ālišu), of its wall, its outer wall"}
+      - {motif: temple-names-glossed, refs: ["SAA 20 049 144-185"], note: "e.g. E-zida bīt napište māti; E-namtila bīt balāṭi; E-hal-anki bīt pirišti šamê erṣeti; E-sabad bīt pētât uzni ('house opening the ear', of Gula)"}
+      - {motif: house-of-life-enamtila, refs: ["SAA 20 049 176"]}
+      - {motif: ziggurats-of-city-listed, refs: ["SAA 20 049 186-188"]}
+      - {motif: scribal-colophon, refs: ["SAA 20 049 199-201"], note: "šaṭar Kiṣir-Aššur mašmaš Bēt-Ešarra, son of Nabû-bēssunu"}
+    hints:
+      - "A temple called 'house where one weeps for the wronged' (line 170) and 'house of the guardian of graves' (175): compare the temple as place of the oppressed's cry, Ps 9:10-13."
+  - id: ane-saa-20-048-god-list-fragment
+    tradition: ane-akkadian
+    title: Fragment of a list of gods (SAA 20 48)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 048 o.i:1'-r.ii:1"]
+    tags:
+      - {motif: divine-directory-of-city, refs: ["SAA 20 048 r.i:1-4"], note: "only a few names survive: the deified river Balih, Madanu, two Bison-men (kusarikku); the rest is broken"}
+  # ---------------- Cyrus Cylinder ----------------
+  - id: ane-cyrus-ii-01-marduk-chooses-cyrus
+    tradition: ane-akkadian
+    title: Nabonidus' impiety, Marduk's anger and pity, and the call of Cyrus (Cyrus Cylinder 1-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Cyrus II 01 1-19"]
+    tags:
+      - {motif: impious-king-perverts-cult, refs: ["Cyrus II 01 3-8"], note: "a maṭû ('weakling', unnamed Nabonidus) is set over the land; tamšīli Esagil ītepuš (a copy of Esagil); parṣu lā simātišunu; sattukku ušabṭil; palāh Marduk ... igmur"}
+      - {motif: oppressor-yoke-without-rest, refs: ["Cyrus II 01 8"], note: "ina abšāni lā tapšuhti uhalliq kullassin"}
+      - {motif: god-angered-by-peoples-complaint, refs: ["Cyrus II 01 9"], note: "ana tazzimtišina Enlil ilī ezziš īgug-ma"}
+      - {motif: gods-desert-their-cities, refs: ["Cyrus II 01 9-10"], note: "ilū āšib libbišunu īzibū atmanšun ... ušēribi ana qereb Šuanna: the gods left their shrines (brought into Babylon)"}
+      - {motif: god-relents, refs: ["Cyrus II 01 10-11"], note: "Marduk ... ussahra ana naphar dadmī ... irtaši tayyāra: he turned back and had pity on the people who had become like corpses (šalamtaš)"}
+      - {motif: god-searches-lands-for-righteous-ruler, refs: ["Cyrus II 01 11-12"], note: "kullat mātāta kališina ihīṭ ibrē-ma ištēʾē-ma malki išaru bibil libbiša"}
+      - {motif: god-grasps-hand-of-chosen-foreign-king, refs: ["Cyrus II 01 12"], note: "ittamah qātuššu Kuraš šar Anšan ittabi nibīssu ana malikūti kullata naphar izzakra šumšu"}
+      - {motif: god-chooses-king-from-multitude, refs: ["Cyrus II 01 11-12"]}
+      - {motif: nations-subdued-before-chosen-king, refs: ["Cyrus II 01 13"], note: "Gutium and all the Umman-manda bow at his feet; the black-headed people"}
+      - {motif: god-walks-beside-king-as-friend, refs: ["Cyrus II 01 15"], note: "kīma ibri u tappê ittallaka idāšu"}
+      - {motif: army-countless-as-river-water, refs: ["Cyrus II 01 16"]}
+      - {motif: city-entered-without-battle, refs: ["Cyrus II 01 17"], note: "balu qabli u tāhāzi ušēribaš qereb Šuanna"}
+      - {motif: subjects-kiss-feet-of-king, refs: ["Cyrus II 01 18"]}
+      - {motif: god-who-revives-the-dead, refs: ["Cyrus II 01 19"], note: "bēlu ša ina tukultiša uballiṭu mītūtan"}
+    hints:
+      - "Marduk grasps Cyrus' hand and calls his name: Isa 45:1-4 ('Cyrus, whose right hand I have grasped ... I call you by your name'); Isa 44:28 ('my shepherd')."
+      - "The god stirs up and leads Cyrus: Isa 41:2-3, 41:25, Ezra 1:1 (YHWH stirred up the spirit of Cyrus); 2 Chr 36:22-23."
+      - "God searches the earth for one after his heart: 1 Sam 13:14; 2 Chr 16:9."
+      - "Peaceful surrender of Babylon and the fall of its last king: Dan 5:30-31; Isa 47."
+  - id: ane-cyrus-ii-01-cyrus-restores
+    tradition: ane-akkadian
+    title: Cyrus' titles, peace in Babylon, return of the gods and peoples (Cyrus Cylinder 20-36)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Cyrus II 01 20-36"]
+    tags:
+      - {motif: royal-epithet-chain, refs: ["Cyrus II 01 20"]}
+      - {motif: king-of-the-four-quarters, refs: ["Cyrus II 01 20"]}
+      - {motif: royal-genealogy-to-dynastic-founder, refs: ["Cyrus II 01 21-22"], note: "son of Cambyses, grandson of Cyrus, descendant of Teišpeš; zēru dārû ša šarrūti"}
+      - {motif: king-lifts-yoke-from-citizens, refs: ["Cyrus II 01 25-26"], note: "anhūssun upaššiha ušapṭir sarmāšunu"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["Cyrus II 01 28-29"], note: "ištu tâmtim elīti adi tâmtim šaplīti"}
+      - {motif: kings-of-west-in-tents-bring-tribute, refs: ["Cyrus II 01 29-30"], note: "šarrāni māt Amurrî āšib kuštāri"}
+      - {motif: subjects-kiss-feet-of-king, refs: ["Cyrus II 01 30"]}
+      - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Cyrus II 01 30-34"], note: "ilū āšib libbišunu ana ašrišunu utēr-ma ušarmâ šubat dārâta; also the gods of Sumer and Akkad that Nabonidus had brought into Babylon"}
+      - {motif: deported-peoples-returned-to-their-homes, refs: ["Cyrus II 01 32"], note: "kullat nišīšunu upahhiram-ma utēr dadmīšun"}
+      - {motif: gods-asked-to-intercede-for-king, refs: ["Cyrus II 01 35"]}
+      - {motif: dynasty-promise-sons-grandsons-rule, refs: ["Cyrus II 01 27", "Cyrus II 01 35"], note: "Marduk blesses Cyrus and Cambyses his son"}
+    hints:
+      - "Return of the exiles and of the temple vessels under Cyrus: Ezra 1:1-11, Ezra 6:3-5, 2 Chr 36:22-23; Isa 44:28, 45:13."
+      - "The cylinder's return of gods to their sanctuaries, beside the return of the vessels of YHWH's house (Ezra 1:7-11) and the restoration of Jerusalem (Isa 44:26-28)."
+      - "Babylon's fall to Cyrus prophesied: Jer 25:11-12 (seventy years then punish Babylon), Jer 51; Isa 45:1-3."
+      - "Kings bring tribute and lick the dust of the feet: Isa 49:23, Ps 72:9-11."
+  - id: ane-cyrus-ii-01-offerings-and-wall
+    tradition: ane-akkadian
+    title: Offerings increased, the Imgur-Enlil wall rebuilt, Ashurbanipal's inscription found (Cyrus Cylinder 37-46)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Cyrus II 01 37-46"]
+    tags:
+      - {motif: bird-offerings-geese-ducks-doves, refs: ["Cyrus II 01 37-38"], note: "kurkû, paspasu, sukannīnu offered daily"}
+      - {motif: city-wall-rebuilt, refs: ["Cyrus II 01 38-41"], note: "Imgur-Enlil dūru rabû ša Bābili ... eššiš ēpuš-ma ušaklil šipiršin, with bitumen and baked brick"}
+      - {motif: cedar-doors-bronze-bound, refs: ["Cyrus II 01 42-43"]}
+      - {motif: predecessors-inscription-found-in-rebuilding, refs: ["Cyrus II 01 43"], note: "šiṭir šumu ša Aššur-bāni-apli šarru ālik mahriya ... appalsa"}
+      - {motif: kings-years-marked-on-tablet-of-life, refs: ["Cyrus II 01 44-45"], note: "only loosely: prayer to Marduk for long life, a firm throne and a long reign"}
+      - {motif: colophon-copied-and-collated, refs: ["Cyrus II 01 46"], note: "kī pî ... šaṭir bari: tablet of Qišti-Marduk (colophon of the fragment)"}
+    hints:
+      - "Rebuilding Babylon's wall here; rebuilding Jerusalem's wall and gates in Neh 2-6."
+  # ---------------- Sennacherib 022 ----------------
+  - id: ane-sennacherib-022-titulary
+    tradition: ane-akkadian
+    title: Sennacherib's titles and world rule (Sennacherib 22 i 1-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Chicago and Taylor prisms (691 BCE)
+    read: ["Sennacherib 022 i:1-19"]
+    tags:
+      - {motif: royal-epithet-chain, refs: ["Sennacherib 022 i:1-9"], note: "rēʾû itpēšu ... nāṣir kitti rāʾim mīšari ... ālik tappût akî"}
+      - {motif: king-loves-justice-hates-wicked-speech, refs: ["Sennacherib 022 i:4-6"], note: "nāṣir kitti rāʾim mīšari ... ālik tappūt akî sāhiru damqāti (who goes to the aid of the weak)"}
+      - {motif: king-of-the-four-quarters, refs: ["Sennacherib 022 i:3"]}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["Sennacherib 022 i:13-15"], note: "from the upper sea of the setting sun to the lower sea of the rising sun"}
+      - {motif: defeated-king-flees-alone-like-bird, refs: ["Sennacherib 022 i:16-19"], note: "kīma sutinni nigiṣṣi ēdiš ipparšū: like bats of the crevices they fled alone to inaccessible places"}
+    hints:
+      - "The Assyrian king's boast of world conquest: Isa 10:13-14 and 2 Kgs 19:11-13."
+  - id: ane-sennacherib-022-first-campaign
+    tradition: ane-akkadian
+    title: First campaign against Merodach-baladan and the Arameans (Sennacherib 22 i 20-64)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 i:20-64"]
+    tags:
+      - {motif: defeated-king-flees-alone-like-bird, refs: ["Sennacherib 022 i:23-24"], note: "Marduk-apla-iddina ēzib karassu ēdiš ipparšid-ma napištuš ēṭir"}
+      - {motif: enemy-palace-treasure-and-women-carried-off, refs: ["Sennacherib 022 i:27-35"]}
+      - {motif: deportation-to-assyria, refs: ["Sennacherib 022 i:39-53"]}
+      - {motif: deportation-numbers, refs: ["Sennacherib 022 i:50-53"], note: "208,000 people, young and old, male and female, with horses, mules, donkeys, camels, oxen and sheep"}
+      - {motif: aramean-tribes-listed, refs: ["Sennacherib 022 i:43-49"], note: "Tuʾumuna, Rihihu, Yadaqqu ... Hagaranu, Nabatu, Liʾtaʾu"}
+      - {motif: corpse-hung-on-hook, refs: ["Sennacherib 022 i:58-60"], note: "pagrīšun ina gašīši alul: their corpses hung on stakes around the city of Hirimmu"}
+      - {motif: offerings-instituted-for-gods-from-conquest, refs: ["Sennacherib 022 i:61-64"], note: "one ox, ten sheep, ten homers of wine, twenty of dates as first-fruits (rēšēti) to the gods of Assyria"}
+    hints:
+      - "Merodach-baladan is the Babylonian who sends envoys to Hezekiah: 2 Kgs 20:12-19, Isa 39."
+      - "The Hagarites (Hagaranu) and Nabateans appear among Arab and Aramean tribes: 1 Chr 5:10,19-20; Gen 25:13 (Nebaioth)."
+  - id: ane-sennacherib-022-second-campaign
+    tradition: ane-akkadian
+    title: Second campaign to the Kassites, Ellipi and the Medes (Sennacherib 22 i 65 - ii 36)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 i:65-ii:36"]
+    tags:
+      - {motif: king-climbs-mountains-on-foot, refs: ["Sennacherib 022 i:68-71"], note: "where it was too steep, ina šēpēya rīmāniš attaggiš, the chariot carried on necks"}
+      - {motif: deportation-to-assyria, refs: ["Sennacherib 022 i:74-76", "Sennacherib 022 ii:19-22"]}
+      - {motif: peoples-of-conquered-lands-resettled, refs: ["Sennacherib 022 ii:1-5", "Sennacherib 022 ii:30-31"], note: "nišē mātāti kišitti qātiya ina libbi ušēšib"}
+      - {motif: victory-stela-set-up-in-conquered-city, refs: ["Sennacherib 022 ii:7-10"]}
+      - {motif: defeated-king-flees-alone-like-bird, refs: ["Sennacherib 022 ii:12-14"], note: "Ispabara abandons his strong cities and flees far away"}
+      - {motif: conquered-city-renamed-for-king, refs: ["Sennacherib 022 ii:27-30"], note: "Elenzaš renamed Kar-Sennacherib"}
+      - {motif: distant-land-never-heard-of-brings-tribute, refs: ["Sennacherib 022 ii:33-36"], note: "the far Medes 'of whom none of my fathers had heard the name'"}
+    hints:
+      - "Assyrian resettlement of conquered peoples in other lands: 2 Kgs 17:6, 17:24."
+  - id: ane-sennacherib-022-third-campaign-phoenicia
+    tradition: ane-akkadian
+    title: Third campaign, part 1 - Lulî of Sidon, the tribute of the western kings, Ṣidqâ of Ashkelon (Sennacherib 22 ii 37-72)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 ii:37-72"]
+    tags:
+      - {motif: terror-of-kings-radiance-overwhelms, refs: ["Sennacherib 022 ii:38-40", "Sennacherib 022 ii:45-46"], note: "pulhi melammē bēlūtiya ishupūšu"}
+      - {motif: defeated-king-flees-alone-like-bird, refs: ["Sennacherib 022 ii:38-40"], note: "Lulî flees far away into the midst of the sea and dies (šaddašu ēmid)"}
+      - {motif: vassal-king-installed-on-throne, refs: ["Sennacherib 022 ii:47-49", "Sennacherib 022 ii:65-68"], note: "Tubaʾlu set on Sidon's throne; Šarru-lū-dāri son of Rukibtu over Ashkelon"}
+      - {motif: western-kings-bring-tribute-list, refs: ["Sennacherib 022 ii:50-60"], note: "Minhimmu of Samsimuruna, Tubaʾlu of Sidon, Abdi-liʾti of Arwad, Uru-milki of Byblos, Mitinti of Ashdod, Budu-ilu of Beth-Ammon, Kammusu-nadbi of Moab, Aya-rammu of Edom"}
+      - {motif: subjects-kiss-feet-of-king, refs: ["Sennacherib 022 ii:59-60"]}
+      - {motif: rebel-king-deported-with-family-gods, refs: ["Sennacherib 022 ii:60-64"], note: "Ṣidqâ king of Ashkelon: ilāni bīt abišu šâšu aššassu mārēšu mārātišu ahhēšu zēr bīt abišu assuha-ma ana māt Aššur urašu"}
+      - {motif: idols-stolen-by-conquerors, refs: ["Sennacherib 022 ii:62-64"]}
+      - {motif: philistine-cities-taken, refs: ["Sennacherib 022 ii:68-72"], note: "Beth-Dagon, Joppa, Bene-berak, Azor: cities of Ṣidqâ"}
+    hints:
+      - "Moab, Ammon, Edom, Ashdod, Sidon and Tyre in the prophets' oracles of the Assyrian age: Isa 15-16, 20, 23; Amos 1:6-2:3."
+      - "A god's statue carried off with the deported king: Jer 48:7 (Chemosh into exile), Jer 49:3, Isa 46:1-2."
+      - "Joppa, Bene-berak, Azor and Beth-Dagon: Josh 19:45-46 (Dan's allotment), Josh 15:41."
+  - id: ane-sennacherib-022-third-campaign-judah
+    tradition: ane-akkadian
+    title: Third campaign, part 2 - Ekron, the Egyptians at Eltekeh, Hezekiah shut up in Jerusalem (Sennacherib 22 ii 73 - iii 49)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 ii:73-iii:49"]
+    tags:
+      - {motif: loyal-king-handed-over-in-iron-fetters, refs: ["Sennacherib 022 ii:73-77"], note: "the officials and people of Ekron put Padî, bēl adê u māmīt ša māt Aššur, in birētu parzilli and gave him to Hazaqiyau of Judah (Yaudaya)"}
+      - {motif: king-of-judah-named-in-foreign-record, refs: ["Sennacherib 022 ii:76", "Sennacherib 022 iii:18", "Sennacherib 022 iii:37"], note: "Ha-za-qi-a-u KUR Ia-u-da-a-a"}
+      - {motif: reliance-on-egypt-condemned, refs: ["Sennacherib 022 ii:78-iii:6"], note: "the kings of Egypt (Muṣur) and the king of Meluhha (Kush) come with bowmen, chariots and horses to help Ekron; defeated in the plain of Eltekeh; Egyptian charioteers and princes taken alive"}
+      - {motif: rebels-impaled, refs: ["Sennacherib 022 iii:8-10"], note: "ina dimāti sihirti āli alul pagrīšun: corpses hung on poles around Ekron"}
+      - {motif: rebels-executed-innocent-spared, refs: ["Sennacherib 022 iii:8-14"], note: "ša arānšunu lā ibšû uššuršun aqbi"}
+      - {motif: vassal-king-installed-on-throne, refs: ["Sennacherib 022 iii:14-17"], note: "Padî brought out of Jerusalem (ultu qereb Ursalimmu) and restored"}
+      - {motif: fortified-cities-of-judah-captured, refs: ["Sennacherib 022 iii:18-23"], note: "46 cities; ina šukbus arammē u qitrub šupî mithuṣ zūk šēpē pilši nikse u kalbannāte"}
+      - {motif: siege-ramps, refs: ["Sennacherib 022 iii:21-23"], note: "šukbus arammē: trodden-down ramps; also battering rams, foot-soldiers, mines, breaches"}
+      - {motif: deportation-numbers, refs: ["Sennacherib 022 iii:24-27"], note: "200,150 people, young and old, male and female"}
+      - {motif: besieged-king-shut-up-like-caged-bird, refs: ["Sennacherib 022 iii:27-29"], note: "šâšu kīma iṣṣūr quppi qereb Ursalimmu āl šarrūtišu ēsiršu"}
+      - {motif: siege-earthworks-around-city, refs: ["Sennacherib 022 iii:29-30"], note: "birāti elišu urakkis-ma āṣê abulli ālišu utera ikkibuš: whoever came out of the city gate he made taboo"}
+      - {motif: conquered-land-given-to-neighbour-kings, refs: ["Sennacherib 022 iii:30-34"], note: "to Mitinti of Ashdod, Padî of Ekron, Ṣilli-Bēl of Gaza"}
+      - {motif: terror-of-kings-radiance-overwhelms, refs: ["Sennacherib 022 iii:37-38"]}
+      - {motif: elite-troops-desert-besieged-city, refs: ["Sennacherib 022 iii:39-41"], note: "the urbi and his elite troops whom he had brought in to strengthen Jerusalem iršû tillâti (deserted / took leave); reading of urbi and tillātu debated"}
+      - {motif: besieged-king-sends-tribute-and-daughters, refs: ["Sennacherib 022 iii:41-49"], note: "30 talents of gold, 800 talents of silver, antimony, ivory beds and chairs, elephant hides, ebony, boxwood, his daughters, palace women, male and female singers, sent to Nineveh; his messenger to do obeisance"}
+      - {motif: temple-treasure-paid-as-tribute, refs: ["Sennacherib 022 iii:41-45"], note: "the Akkadian names palace treasure (niṣirtu kabittu), not temple treasure; tagged for the HB match"}
+    hints:
+      - "2 Kgs 18:13-16: Sennacherib takes all the fortified cities of Judah; Hezekiah pays 300 talents of silver and 30 talents of gold (the gold figure agrees). Also Isa 36:1, 2 Chr 32:1-9."
+      - "2 Kgs 18:17-19:37 and Isa 36-37: the Rabshakeh at Jerusalem, Hezekiah's prayer, the angel striking the camp, Sennacherib's return to Nineveh; the prism records no capture of Jerusalem."
+      - "2 Kgs 19:9 and Isa 37:9: Tirhakah king of Kush marches out; Isa 30:1-7, 31:1-3, 36:6 (Egypt a broken reed) condemn reliance on Egypt."
+      - "Isa 1:7-9: daughter Zion left 'like a booth in a vineyard, like a besieged city'; Isa 10:28-32 the Assyrian advance; Mic 1:10-16 the towns of the Shephelah (Lachish)."
+      - "Lachish is not named in this prism; its siege is shown on Sennacherib's palace reliefs. Compare 2 Kgs 18:14,17, 19:8 (Sennacherib at Lachish) and 2 Chr 32:9."
+      - "2 Chr 32:2-5,30: Hezekiah strengthens Jerusalem's defences and water supply; 2 Chr 32:23 gifts brought to Hezekiah."
+  - id: ane-sennacherib-022-fourth-campaign
+    tradition: ane-akkadian
+    title: Fourth campaign to Bīt-Yakin; Merodach-baladan flees with his gods by sea (Sennacherib 22 iii 50-74)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 iii:50-74"]
+    tags:
+      - {motif: defeated-king-flees-alone-like-bird, refs: ["Sennacherib 022 iii:55-57"], note: "Šūzubu: ittarku libbušu kīma azzari ēdiš ipparšid-ma ul innamir ašaršu (his heart pounded, he fled alone like a wild cat)"}
+      - {motif: enemy-flees-by-sea-with-gods, refs: ["Sennacherib 022 iii:59-66"], note: "ilāni mērak mātišu ina šubtišunu idkē-ma qereb elippāti ušarkib-ma ana Nagite-raqqi ša qabal tâmtim iṣṣūriš ipparriš"}
+      - {motif: deportation-to-assyria, refs: ["Sennacherib 022 iii:66-69"]}
+      - {motif: kings-son-set-over-conquered-land, refs: ["Sennacherib 022 iii:71-74"], note: "Aššur-nādin-šumi, mārū rēštû tarbīt birkiya, on the throne of Babylon"}
+    hints:
+      - "Gods loaded and carried away as a burden: Isa 46:1-2 (Bel bows, Nebo stoops, their images on beasts)."
+  - id: ane-sennacherib-022-fifth-campaign
+    tradition: ane-akkadian
+    title: Fifth campaign to Mount Nipur and Ukku (Sennacherib 22 iii 75 - iv 31)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 iii:75-iv:31"]
+    tags:
+      - {motif: cities-like-eagles-nests-on-peaks, refs: ["Sennacherib 022 iii:75-79"], note: "ša kīma qinni erî ašarēd iṣṣūrāti ṣēr zuqti Nipur šubassun šitkunat"}
+      - {motif: king-climbs-mountains-on-foot, refs: ["Sennacherib 022 iv:2-10"], note: "carried on a sedan chair, then on foot like a mountain goat; sat on a rock and drank cold water from a waterskin"}
+      - {motif: road-no-king-before-travelled, refs: ["Sennacherib 022 iv:15-17"], note: "urhī lā petûti ... ša ... mamman lā illiku šarrāni pāni"}
+      - {motif: defeated-king-flees-alone-like-bird, refs: ["Sennacherib 022 iv:23-25"], note: "Maniyae abandons Ukku and flees far away"}
+      - {motif: deportation-to-assyria, refs: ["Sennacherib 022 iv:26-31"]}
+    hints:
+      - "Though you build your nest high as the eagle's, I will bring you down: Obad 1:3-4, Jer 49:16."
+      - "The Assyrian boast of climbing the heights of the mountains: 2 Kgs 19:23, Isa 37:24."
+  - id: ane-sennacherib-022-sixth-campaign
+    tradition: ane-akkadian
+    title: Sixth campaign across the sea to Nagitu in Elam; Šūzubu captured (Sennacherib 22 iv 32-53)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 iv:32-53"]
+    tags:
+      - {motif: enemy-flees-by-sea-with-gods, refs: ["Sennacherib 022 iv:32-36"], note: "the rest of Bīt-Yakin, like wild asses (serrēme), gathered the gods and crossed the great eastern sea"}
+      - {motif: army-crosses-sea-in-ships, refs: ["Sennacherib 022 iv:37-44"], note: "ina elippāti Hatti tâmtum lū ēbir"}
+      - {motif: deportation-to-assyria, refs: ["Sennacherib 022 iv:40-44"], note: "with their gods (adi ilānišunu)"}
+      - {motif: idols-stolen-by-conquerors, refs: ["Sennacherib 022 iv:40-41"]}
+      - {motif: captive-in-foot-hand-neck-stocks, refs: ["Sennacherib 022 iv:49-51"], note: "Šūzubu taken alive: šummannu u birētu parzilli addīšu-ma"}
+    hints:
+      - "Ships of Hatti (western shipwrights) on the Gulf: compare Solomon's fleet with Phoenician sailors, 1 Kgs 9:26-28."
+  - id: ane-sennacherib-022-seventh-campaign
+    tradition: ane-akkadian
+    title: Seventh campaign against Elam; the Elamite king dies before his time (Sennacherib 22 iv 54 - v 16)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 iv:54-v:16"]
+    tags:
+      - {motif: list-of-conquered-towns, refs: ["Sennacherib 022 iv:61-76"], note: "34 strong cities named"}
+      - {motif: smoke-of-burning-cities-covers-sky, refs: ["Sennacherib 022 iv:79-81"], note: "qutur naqmūtišunu kīma imbari kabti pān šamê rapšūti ušaktim"}
+      - {motif: fear-falls-on-enemy-king, refs: ["Sennacherib 022 iv:81-v:5"], note: "Kudur-Nahhunte: imqussu hattum; abandons Madaktu and flees to Hidalu in the mountains"}
+      - {motif: winter-storm-forces-retreat, refs: ["Sennacherib 022 v:6-10"], note: "in Tamhīru, severe cold, heavy rain, rain and snow; I feared the mountain torrents"}
+      - {motif: enemy-king-dies-before-his-time, refs: ["Sennacherib 022 v:11-14"], note: "ina qibīt Aššur ... 3 months ul umalli-ma ina ūme lā šīmtišu urruhiš imtūt"}
+      - {motif: foolish-successor-without-sense, refs: ["Sennacherib 022 v:14-16"], note: "Umman-menanu lā rāš ṭēme u milki"}
+    hints:
+      - "A tyrant cut off before his day: Ps 55:24, Job 22:16, Eccl 7:17; Sennacherib's own death in 2 Kgs 19:37."
+  - id: ane-sennacherib-022-halule
+    tradition: ane-akkadian
+    title: Eighth campaign - Babylon's bribe to Elam and the battle of Halule (Sennacherib 22 v 17 - vi 35)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 v:17-vi:35"]
+    tags:
+      - {motif: rebel-leader-gathers-outlaws, refs: ["Sennacherib 022 v:20-24"], note: "Šūzubu, a fugitive slave of the governor of Lahiru; hab-bilu, runaway Arameans, murderers gather round him in the marshes"}
+      - {motif: temple-treasure-used-to-buy-alliance, refs: ["Sennacherib 022 v:31-37"], note: "bīt makkūri ša Esagil iptû ... ṭātu sent to Umman-menanu: 'gather your army, come to Babylon, stand at our side, be our trust'"}
+      - {motif: enemy-armies-like-locust-swarm, refs: ["Sennacherib 022 v:56-57"], note: "kīma tibût aribi maʾdi ša pān šatti"}
+      - {motif: army-like-flood-and-dust-to-heaven, refs: ["Sennacherib 022 v:58-59"], note: "the dust of their feet like a heavy cloud covering the sky"}
+      - {motif: king-prays-to-gods-before-battle, refs: ["Sennacherib 022 v:62-67"], note: "suppēya urruhiš išmû illiku rēṣūti"}
+      - {motif: king-arms-and-roars-like-storm-god, refs: ["Sennacherib 022 v:67-75"], note: "labbiš annadir-ma attalbiša siriyam ... kīma Adad ašgum"}
+      - {motif: bow-of-god-given-to-king, refs: ["Sennacherib 022 v:71-73"], note: "qašta dannatu ša Aššur ušatlima ina qātiya aṣbat"}
+      - {motif: battlefield-blood-like-river, refs: ["Sennacherib 022 vi:3-10"], note: "their blood made to flow like the high flood of the season; chariot wheels and horses' hooves steeped in blood and gore"}
+      - {motif: corpses-fill-plain-like-grass, refs: ["Sennacherib 022 vi:9-10"], note: "pagrī qurādišunu kīma urqīti umallâ ṣēru"}
+      - {motif: enemies-soil-themselves-in-terror, refs: ["Sennacherib 022 vi:29-32"], note: "šīnātišun uṣarrapu qereb narkabātišunu umaššeru zûšun; hearts pounding like a chased young pigeon"}
+      - {motif: mutilation-of-enemy-dead, refs: ["Sennacherib 022 vi:2", "Sennacherib 022 vi:11-15"], note: "throats cut, hands cut off, bracelets and daggers taken"}
+    hints:
+      - "Armies as numerous as locusts: Judg 6:5, 7:12; Nah 3:15-17; Joel 2:1-11."
+      - "Hearts melt and knees give way before the conqueror: Nah 2:11, Isa 13:7-8."
+      - "Treasures of the temple sent to buy a foreign ally: 1 Kgs 15:18-19, 2 Kgs 16:8."
+  - id: ane-sennacherib-022-palace
+    tradition: ane-akkadian
+    title: The rear palace (ekal kutalli) at Nineveh; blessing and curse for a future king (Sennacherib 22 vi 36-85B)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Sennacherib 022 vi:36-85B"]
+    tags:
+      - {motif: palace-without-rival-built, refs: ["Sennacherib 022 vi:36-72"]}
+      - {motif: cedars-from-amanus-for-building, refs: ["Sennacherib 022 vi:58-61"], note: "cedar beams tarbīt Hamānim šadî elli"}
+      - {motif: palace-of-hittite-style-bit-hilani, refs: ["Sennacherib 022 vi:53-55"], note: "ekal pīli u erēni nēpešti māt Hatti"}
+      - {motif: protective-colossi-at-palace-gates, refs: ["Sennacherib 022 vi:64-65"]}
+      - {motif: future-king-to-anoint-inscription, refs: ["Sennacherib 022 vi:76-80"]}
+      - {motif: curse-on-who-removes-kings-name, refs: ["Sennacherib 022 vi:80-83"], note: "mu-nakkir šiṭriya u šumiya: may Aššur take away his sceptre and throne and overthrow his reign"}
+      - {motif: eponym-date-formula, refs: ["Sennacherib 022 vi:84A-85B"]}
+    hints:
+      - "Cedar-built palace: 1 Kgs 7:1-12 (House of the Forest of Lebanon); Jer 22:14-15."
+  # ---------------- Esarhaddon 001 ----------------
+  - id: ane-esarhaddon-001-accession
+    tradition: ane-akkadian
+    title: Esarhaddon chosen over his elder brothers; their revolt; his march on Nineveh (Esarhaddon 1 i 1 - ii 11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Nineveh A prism
+    read: ["Esarhaddon 001 i:1-ii:11"]
+    tags:
+      - {motif: younger-son-chosen-heir-by-gods, refs: ["Esarhaddon 001 i:8-12"], note: "ša ahhēya rabûti ahhūšunu ṣehru anāku ... ina puhur ahhēya ... ullīma umma annû māru riddūtiya"}
+      - {motif: younger-preferred-over-elder, refs: ["Esarhaddon 001 i:8-12"]}
+      - {motif: king-chosen-by-extispicy, refs: ["Esarhaddon 001 i:13-14"], note: "Šamaš u Adad ina bīri išal-ma annu kēnu īpulūšu-ma umma šū tēnûka"}
+      - {motif: people-swear-loyalty-to-crown-prince, refs: ["Esarhaddon 001 i:15-19", "Esarhaddon 001 i:50-52"], note: "zikiršunu kabtu ušazkiršunūti; ina mê u šamni itmû"}
+      - {motif: brothers-slander-chosen-heir, refs: ["Esarhaddon 001 i:23-31"], note: "lišān lemutti karṣī tašgirti ... ze-rāti; they alienated the father's heart, though secretly his heart had pity"}
+      - {motif: gods-hide-chosen-in-secret-place, refs: ["Esarhaddon 001 i:38-40"], note: "ašar niṣirti ušēšibūni-ma ṣulūlšunu ṭāba elīya itruṣū"}
+      - {motif: brothers-fight-for-throne, refs: ["Esarhaddon 001 i:41-44"], note: "immahû-ma ... kakkī ina qereb Ninua balu ilāni ana epēš šarrūti itti ahāmeš ittakkipū lalâʾiš (butted each other like kids)"}
+      - {motif: king-rends-garment-and-cries-woe, refs: ["Esarhaddon 001 i:55-57"], note: "ua aqbi-ma ṣubāt rubûtiya ušarriṭ-ma ... labbiš annadir-ma"}
+      - {motif: extispicy-confirms-word, refs: ["Esarhaddon 001 i:60-62"], note: "šīr takilti ... 'ālik lā kalâta idāka nittallak-ma ninâra gārêka' (go, do not hold back, we will go at your side and kill your enemies)"}
+      - {motif: king-marches-in-midwinter-without-delay, refs: ["Esarhaddon 001 i:63-69"], note: "one day, two days I did not wait ... snow, cold of Šabāṭu, hard winter I did not fear"}
+      - {motif: goddess-breaks-enemies-bows, refs: ["Esarhaddon 001 i:74-76"], note: "Ištar bēlet qabli u tāhāzi ... idāya tazziz-ma qaššunu tašbir"}
+      - {motif: enemy-troops-acclaim-rival-as-king, refs: ["Esarhaddon 001 i:77-81"], note: "ina puhrišunu iqbû umma annû šarrāni"}
+      - {motif: defeated-pretenders-flee-abroad, refs: ["Esarhaddon 001 i:82-84"], note: "ana māti lā īdû innabtū"}
+      - {motif: army-crosses-river-as-ditch, refs: ["Esarhaddon 001 i:84-86"], note: "Idiqlat rapaštu atappiš ušašhiṭ"}
+      - {motif: favourable-signs-in-heaven-and-earth, refs: ["Esarhaddon 001 ii:3-5"], note: "the south wind, the breeze of Ea, blew; idāt dumqi ina šamāmī u qaqqari"}
+      - {motif: prophetic-messages-encourage-king, refs: ["Esarhaddon 001 ii:6-7"], note: "šipir mahhê našparti ilāni u Ištar kayyān usaddirūni ušarhiṣūni libbu"}
+      - {motif: conspirators-and-their-seed-destroyed, refs: ["Esarhaddon 001 ii:8-11"]}
+    hints:
+      - "2 Kgs 19:37 and Isa 37:38: Sennacherib's sons Adrammelech and Sharezer kill him and escape to the land of Ararat; Esarhaddon his son reigns in his place. Here the brothers fight in Nineveh and flee to an unknown land, and the battle is in Hanigalbat (i:70)."
+      - "The youngest son chosen over his brothers: David (1 Sam 16:6-13), Solomon over Adonijah (1 Kgs 1), Joseph and his brothers' hatred (Gen 37:4-11)."
+      - "The king tears his garment on hearing bad news: 2 Kgs 19:1, 22:11."
+      - "Prophetic oracles of encouragement before battle: 1 Kgs 22:6, 2 Kgs 19:6-7 (Isaiah's 'do not be afraid')."
+  - id: ane-esarhaddon-001-titulary
+    tradition: ane-akkadian
+    title: Esarhaddon's titles, the restorer of the gods, and the gifts of the gods (Esarhaddon 1 ii 12-39)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 ii:12-39"]
+    tags:
+      - {motif: royal-epithet-chain, refs: ["Esarhaddon 001 ii:12-18"]}
+      - {motif: royal-genealogy-to-dynastic-founder, refs: ["Esarhaddon 001 ii:14-15"], note: "son of Sennacherib, son of Sargon"}
+      - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Esarhaddon 001 ii:22-26"], note: "ilāni mātāti šallūti ultu qereb Aššur ana ašrišunu uterrū-ma ušēšibū šubtu nēhtu"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["Esarhaddon 001 ii:27-28"]}
+      - {motif: gods-give-king-weapons-and-gifts, refs: ["Esarhaddon 001 ii:32-39"], note: "Nergal gives fury, terror and splendour; Ištar gives a strong bow and fierce arrow"}
+    hints:
+      - "The king who restores the deported gods: compare Cyrus' return of the vessels and exiles, Ezra 1:7-11."
+  - id: ane-esarhaddon-001-sealand
+    tradition: ane-akkadian
+    title: Nabû-zēr-kitti-līšir breaks his oath, flees to Elam and is killed there (Esarhaddon 1 ii 40-64)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 ii:40-64"]
+    tags:
+      - {motif: oath-breaker-slain-in-exile, refs: ["Esarhaddon 001 ii:55-57"], note: "aššu māmīt ilāni rabûti ša ētiqu ... annu kabtu ēmidūšu-ma qereb Elamti inārūš ina kakki"}
+      - {motif: rebel-ignores-good-treaty-forgets-salt, refs: ["Esarhaddon 001 ii:41-42"], note: "lā nāṣir adê lā hāsis ṭābti ša māt Aššur; ṭābtu abiya inši"}
+      - {motif: brother-defects-to-overlord, refs: ["Esarhaddon 001 ii:58-64"], note: "Naʾid-Marduk his brother flees from Elam, comes to serve, and is given the Sealand"}
+    hints:
+      - "2 Kgs 19:7: 'I will make him fall by the sword in his own land' (of Sennacherib); Ezek 17:15-19 (the king who broke his oath will die in Babylon)."
+  - id: ane-esarhaddon-001-sidon-and-west
+    tradition: ane-akkadian
+    title: Sidon destroyed, Abdi-milkutti and Sanduarri beheaded, Arzâ by the Brook of Egypt (Esarhaddon 1 ii 65 - iii 42)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 ii:65-iii:42"]
+    tags:
+      - {motif: island-city-trusts-in-sea, refs: ["Esarhaddon 001 ii:67-68"], note: "ša eli tâmtim gallatim ittaklū-ma islû nīr Aššur"}
+      - {motif: city-swept-away-like-deluge-into-sea, refs: ["Esarhaddon 001 ii:68-70"], note: "abūbiš aspun dūršu u šubassu assuh-ma qereb tâmtim addi-ma"}
+      - {motif: king-caught-like-fish-from-sea, refs: ["Esarhaddon 001 ii:71-74"], note: "kīma nūni ultu qereb tâmtim abāršu-ma akkisa qaqqassu"}
+      - {motif: enemy-palace-treasure-and-women-carried-off, refs: ["Esarhaddon 001 ii:74-77"]}
+      - {motif: conquered-city-renamed-for-king, refs: ["Esarhaddon 001 ii:80-82"], note: "Kar-Esarhaddon"}
+      - {motif: deportation-to-assyria, refs: ["Esarhaddon 001 ii:78-80", "Esarhaddon 001 iii:10-11"]}
+      - {motif: enemies-caught-like-animals-in-net, refs: ["Esarhaddon 001 iii:30-31"], note: "Sanduarri kīma iṣṣūri ultu qereb šadî abāršu-ma"}
+      - {motif: severed-heads-hung-on-nobles-necks, refs: ["Esarhaddon 001 iii:32-38"], note: "ina kišād rabûtišun alul-ma itti nâri u sammî ina rebīt Ninua ētettiq"}
+      - {motif: brook-of-egypt, refs: ["Esarhaddon 001 iii:39"], note: "Arzâ ša pāṭi nahal Muṣur"}
+      - {motif: captive-kept-at-gate-with-animals, refs: ["Esarhaddon 001 iii:40-42"], note: "Asuhili ... itti asi kalbi u šahî ušēšibšunūti kamîš at the middle gate of Nineveh"}
+    hints:
+      - "Tyre and Sidon who trusted in the sea: Isa 23, Ezek 26-28 (Tyre cast into the midst of the sea), Zech 9:2-4."
+      - "Fishermen and hooks to catch the people like fish: Hab 1:14-17, Amos 4:2, Ezek 29:4."
+      - "Heads displayed at the gate: 2 Kgs 10:7-8; Saul's head and body displayed, 1 Sam 31:9-10."
+  - id: ane-esarhaddon-001-north-and-babylonia
+    tradition: ane-akkadian
+    title: Cimmerians, Hilakku, Mannea, Bīt-Dakkūri and Gambulu (Esarhaddon 1 iii 43-83)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 iii:43-83"]
+    tags:
+      - {motif: northern-horde-gomer-cimmerians, refs: ["Esarhaddon 001 iii:43-46"], note: "Teušpâ the Gimirrāya, ummān-manda ša ašaršu rūqu"}
+      - {motif: deportation-to-assyria, refs: ["Esarhaddon 001 iii:52-53"]}
+      - {motif: holy-city-lands-restored-to-citizens, refs: ["Esarhaddon 001 iii:62-68"], note: "Šamaš-ibni of Bīt-Dakkūri, ishappu habbilu, who had seized the fields of Babylon and Borsippa; Esarhaddon returns them to their owners"}
+      - {motif: submission-in-terror-tribute-brought, refs: ["Esarhaddon 001 iii:71-79"], note: "Bēl-iqīša of Gambulu: hattu ramānišu imqussu-ma; brings bulls and white mules, kisses my feet"}
+      - {motif: fortress-as-door-against-enemy, refs: ["Esarhaddon 001 iii:80-83"], note: "kīma dalti ina pān Elamti ēdilšu"}
+    hints:
+      - "Gomer (the Cimmerians) among the northern hordes: Gen 10:2-3, Ezek 38:6."
+  - id: ane-esarhaddon-001-arabs
+    tradition: ane-akkadian
+    title: The gods of the Arabs returned to Hazael; Tabūa made queen; Uabu caged at the gate (Esarhaddon 1 iv 1-31)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 iv:1-31"]
+    tags:
+      - {motif: idols-stolen-by-conquerors, refs: ["Esarhaddon 001 iv:1-5"], note: "Sennacherib took Adummatu, its goods and gods with Apkallatu queen of the Arabs"}
+      - {motif: gods-of-defeated-renewed-and-returned, refs: ["Esarhaddon 001 iv:6-16"], note: "Hazael begs for his gods; Atar-samayin, Dāya, Nuhāya, Ruldāwu, Abirillu, Atar-qurumâ: anhūssunu uddiš-ma dannān Aššur bēliya u šiṭir šumiya elišunu ašṭur-ma utter-ma addinšu"}
+      - {motif: arab-queens, refs: ["Esarhaddon 001 iv:4", "Esarhaddon 001 iv:15-16"], note: "Apkallatu šarrat Aribi; Tabūa tarbīt ekal abiya set over them as queen"}
+      - {motif: subjects-kiss-feet-of-king, refs: ["Esarhaddon 001 iv:6-8"]}
+      - {motif: captive-kept-at-gate-with-animals, refs: ["Esarhaddon 001 iv:29-31"], note: "Uabu put in a kennel (šigaru) and tied up beside my gate"}
+    hints:
+      - "The queen of Sheba and Arabian queens: 1 Kgs 10:1-13; Dumah/Adummatu among Ishmael's sons, Gen 25:14, Isa 21:11."
+      - "Captured idols returned: compare the Philistines returning the ark, 1 Sam 6."
+  - id: ane-esarhaddon-001-medes-bazu
+    tradition: ane-akkadian
+    title: Median chiefs, Patušarri, and the desert land of Bāzu (Esarhaddon 1 iv 32-77)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 iv:32-77"]
+    tags:
+      - {motif: distant-land-never-heard-of-brings-tribute, refs: ["Esarhaddon 001 iv:35-39"], note: "Medes ša ašaršunu rūqu ... brought great horses and lapis lazuli and kissed my feet"}
+      - {motif: subjects-kiss-feet-of-king, refs: ["Esarhaddon 001 iv:39", "Esarhaddon 001 iv:75"]}
+      - {motif: desert-of-thirst-snakes-and-scorpions, refs: ["Esarhaddon 001 iv:53-58"], note: "mišit nabali qaqqar ṭābti ašar ṣumāmē ... ašar ṣēru u zuqaqīpu kīma kulbābi malû ugāru"}
+      - {motif: road-no-king-before-travelled, refs: ["Esarhaddon 001 iv:59-61"]}
+      - {motif: kings-and-queens-of-desert-killed, refs: ["Esarhaddon 001 iv:62-70"], note: "eight kings and queens (Iapaʾ of Dihrani, Baslu of Ihilum) killed; corpses spread out like malt"}
+      - {motif: deportation-to-assyria, refs: ["Esarhaddon 001 iv:71-72"]}
+    hints:
+      - "Deut 8:15: the great and terrible wilderness with fiery serpents and scorpions and thirsty ground; Isa 30:6."
+  - id: ane-esarhaddon-001-summary-of-power
+    tradition: ane-akkadian
+    title: Kings of the sea tremble; enemies scattered; envoys sue for peace (Esarhaddon 1 iv 78 - v 39)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 iv:78-v:39"]
+    tags:
+      - {motif: enemies-sway-like-reeds-in-storm, refs: ["Esarhaddon 001 iv:80-81"], note: "kīma qanê mehê išubbu"}
+      - {motif: island-kings-tremble, refs: ["Esarhaddon 001 iv:82-v:1"], note: "kings of the sea whose walls are the sea ... ride ships instead of chariots; their hearts flutter, their gall dissolves"}
+      - {motif: enemies-caught-like-animals-in-net, refs: ["Esarhaddon 001 v:9-14", "Esarhaddon 001 v:18-19"], note: "kīma iṣṣūri ... ina gišparriya ... ina saparriya ayyumma ul ūṣi"}
+      - {motif: corpses-left-unburied-for-vultures, refs: ["Esarhaddon 001 v:6"], note: "pagar qurādišun ina lā qebēri ušākil zību"}
+      - {motif: people-of-sea-and-mountain-exchanged, refs: ["Esarhaddon 001 v:20"], note: "ša tâmti ana šadî ša šadî ana tâmtim ašābšunu aqbi"}
+      - {motif: envoys-seek-peace-and-swear, refs: ["Esarhaddon 001 v:26-35"], note: "Elam and Gutium send messengers of friendship and peace and swear by the great gods"}
+      - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Esarhaddon 001 v:38-39"], note: "only that he rebuilt the shrines of Assyria and Akkad with silver and gold"}
+    hints:
+      - "Ships of Tarshish and the coastlands tremble: Isa 23:1-2, Ezek 26:15-18."
+  - id: ane-esarhaddon-001-ekal-masharti
+    tradition: ane-akkadian
+    title: The arsenal palace of Nineveh, built with cedars hauled by twenty-two western kings including Manasseh (Esarhaddon 1 v 40 - vi 75G)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 001 v:40-vi:75G"]
+    tags:
+      - {motif: forced-labor-imposed-by-king, refs: ["Esarhaddon 001 v:47-49"], note: "captives (hubut qaštiya) made to carry hoe and basket and mould bricks"}
+      - {motif: vassal-kings-haul-cedars-of-lebanon, refs: ["Esarhaddon 001 v:54-vi:1"], note: "Baʾalu of Tyre, Menasî šar Yaudi, Qaušgabri of Edom, Muṣurî of Moab, Ṣil-Bēl of Gaza, Mitinti of Ashkelon, Ikausu of Ekron ... ten kings of Iadnana (Cyprus): beams from Sirara and Labnana"}
+      - {motif: king-of-judah-named-in-foreign-record, refs: ["Esarhaddon 001 v:55"], note: "me-na-si-i LUGAL URU ia-u2-di"}
+      - {motif: western-kings-bring-tribute-list, refs: ["Esarhaddon 001 v:55-72"]}
+      - {motif: palace-without-rival-built, refs: ["Esarhaddon 001 vi:2-27"]}
+      - {motif: protective-colossi-at-palace-gates, refs: ["Esarhaddon 001 vi:15-21"]}
+      - {motif: royal-garden-replica-of-mountain, refs: ["Esarhaddon 001 vi:30-31"], note: "kirimahhu tamšil Hamāni with all aromatics and fruit trees"}
+      - {motif: builders-work-with-song-and-joy, refs: ["Esarhaddon 001 vi:36-41"], note: "šallaruša ina šikari mahṣu ballu kalakkuša ina karāni ... ina elēli ulṣi"}
+      - {motif: dinner-of-gods-at-temple-inauguration, refs: ["Esarhaddon 001 vi:44-48"], note: "gods of Assyria invited (aqrē-ma), pure offerings made; they bless the kingship"}
+      - {motif: palace-inauguration-feast, refs: ["Esarhaddon 001 vi:49-53"], note: "šaman rūšti ... muhhašunu ušašqi: their heads drenched with fine oil"}
+      - {motif: future-king-to-anoint-inscription, refs: ["Esarhaddon 001 vi:65-74"]}
+      - {motif: eponym-date-formula, refs: ["Esarhaddon 001 vi:75A-75G"]}
+    hints:
+      - "Manasseh as Assyrian vassal: 2 Kgs 21:1-18; 2 Chr 33:11-13 (taken to Babylon in fetters, then restored)."
+      - "Cedars of Lebanon hauled by vassal kings for a building: 1 Kgs 5:6-18 (Hiram), Ezra 3:7, Isa 14:8 (no woodcutter comes up)."
+      - "Anointing the head with oil at a feast: Ps 23:5, Ps 133:2."
+  # ---------------- Esarhaddon 104 ----------------
+  - id: ane-esarhaddon-104-marduks-anger
+    tradition: ane-akkadian
+    title: Babylon's sin, Marduk's anger, the flood, and seventy years reduced to eleven (Esarhaddon 104 i 1 - ii 9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Babylon A
+    read: ["Esarhaddon 104 i:1-ii:9"]
+    tags:
+      - {motif: royal-epithet-chain, refs: ["Esarhaddon 104 i:1-18"], note: "šakkanakku Bābili, rēʾû kēnu, beloved of Zarpanītu, who from his youth feared their lordship"}
+      - {motif: citizens-say-yes-for-no, refs: ["Esarhaddon 104 i:19-24"], note: "anna u ulla ahāmeš ētappalū edabbubā surrāte"}
+      - {motif: people-neglect-gods-and-rites, refs: ["Esarhaddon 104 i:25-28"], note: "ilānišina ībukā-ma īmešâ ištaršin parṣīšina ēzibā-ma šanâti-ma irkabā"}
+      - {motif: temple-treasure-used-to-buy-alliance, refs: ["Esarhaddon 104 i:28-33"], note: "to the property of Esagil they laid hands; silver, gold and gems they paid (ipšurū) to Elam"}
+      - {motif: chief-god-plans-to-destroy-land, refs: ["Esarhaddon 104 i:33-37"], note: "īgug-ma Enlil ilāni Marduk ana sapān māti hulluqu nišēša iktapud lemuttim"}
+      - {motif: city-destroyed-by-river-flood-like-deluge, refs: ["Esarhaddon 104 i:38-43"], note: "Arahtu ... tamšīl abūbu ibbablam-ma ... ušēme karmeš"}
+      - {motif: gods-fly-from-city-like-birds, refs: ["Esarhaddon 104 i:43-46"], note: "ilāni āšib libbišu iṣṣūriš ipparšū-ma ēlû šamāmeš"}
+      - {motif: gods-desert-their-cities, refs: ["Esarhaddon 104 i:43-46"]}
+      - {motif: citizens-scattered-and-enslaved-abroad, refs: ["Esarhaddon 104 i:46-ii:2"], note: "ašar šanamma innarqū-ma ina erṣeti lā īdû īhuzū marqīti"}
+      - {motif: seventy-years-of-desolation-written, refs: ["Esarhaddon 104 ii:2-4"], note: "70 šanāti minût nidûtišu išṭur-ma"}
+      - {motif: merciful-god-shortens-term-of-punishment, refs: ["Esarhaddon 104 ii:4-9"], note: "rēmēnû Marduk surriš libbašu inūh-ma eliš ana šapliš ušbalkit-ma ana 11 šanāti ašābšu iqbi: the cuneiform sign for 70 turned upside down reads 11"}
+      - {motif: god-relents, refs: ["Esarhaddon 104 ii:4-6"]}
+    hints:
+      - "Seventy years of desolation for Judah and Babylon: Jer 25:11-12, Jer 29:10, 2 Chr 36:21, Zech 1:12, Dan 9:2; seventy years for Tyre, Isa 23:15-17."
+      - "God's anger shortened for mercy's sake: Isa 54:7-8 ('for a brief moment I forsook you'), Ps 30:6, Mark 13:20; Dan 9:24 reinterprets the seventy years."
+      - "The glory of God departs the sinful city: Ezek 10:18-19, 11:22-23; the city sinned by lying and false speech, Jer 9:2-8."
+      - "Temple treasure sent to a foreign king: 2 Kgs 16:8, 18:15-16."
+  - id: ane-esarhaddon-104-rebuilding
+    tradition: ane-akkadian
+    title: Esarhaddon chosen to rebuild; signs, Ea's wisdom, extispicy; the king carries the basket and rebuilds Esagil (Esarhaddon 104 ii 10 - iii 53)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 104 ii:10-iii:53"]
+    tags:
+      - {motif: younger-son-chosen-heir-by-gods, refs: ["Esarhaddon 104 ii:10-14"], note: "ina puhur ahhēya rabûti kēniš tutannī-ma (addressed to Marduk)"}
+      - {motif: king-commissioned-to-restore-holy-city, refs: ["Esarhaddon 104 ii:10-12", "Esarhaddon 104 ii:41-44"], note: "aššu epšēti šināti ana ašrišina turri"}
+      - {motif: king-commissioned-to-rebuild-temple, refs: ["Esarhaddon 104 ii:41-44"]}
+      - {motif: favourable-signs-in-heaven-and-earth, refs: ["Esarhaddon 104 ii:24-40"], note: "Jupiter (Sagmegar) approaches the place of Šamaš in Simanu and stands in his place in Abu; gisgimmuš ilāni zenûti sullumi"}
+      - {motif: god-reconciled-with-city, refs: ["Esarhaddon 104 ii:29-30"], note: "ilāni zenûti sullumi"}
+      - {motif: sin-and-shamash-answer-yes-monthly, refs: ["Esarhaddon 104 ii:45-49"], note: "monthly Sîn and Šamaš at their appearance answer a firm 'yes' about avenging Akkad (turru gimil māt Akkadi)"}
+      - {motif: wisdom-given-by-ea, refs: ["Esarhaddon 104 ii:49-iii:7"], note: "uznu rapaštu hasīs palkî ša išruka apkal ilāni rubû Nudimmud"}
+      - {motif: extispicy-approves-temple-rebuilding, refs: ["Esarhaddon 104 iii:9-17"], note: "aktamis maharšun ina makalti bārûti ... ušašṭira amūtu"}
+      - {motif: king-carries-builders-basket, refs: ["Esarhaddon 104 iii:26-31"], note: "kudurru ina qaqqadiya aššī-ma ušazbil ramānī"}
+      - {motif: bricks-moulded-with-oil-honey-wine, refs: ["Esarhaddon 104 iii:23-25"], note: "ina šamni ṭābi dišpi himēti kurunni mutinni šikar šadî elli ablula tarahhuš"}
+      - {motif: temple-rebuilt-exactly-on-old-foundation, refs: ["Esarhaddon 104 iii:41-46"], note: "1 ammatu ul ašeṭ 1/2 ammatu ul uttir kī pî uṣurtišu mahrīti attadi temmēnšu"}
+      - {motif: temple-as-replica-of-cosmic-abode, refs: ["Esarhaddon 104 iii:47-51"], note: "Esagil ... maṭlat apsî tamšīl Ešarra mehret šubat Ea tamšīl Ikû"}
+    hints:
+      - "Cyrus' charge to rebuild Jerusalem's temple (Ezra 1:2-4, 6:3-5; Isa 44:28) beside Marduk's charge to Esarhaddon."
+      - "Rebuilding on the old foundations: Ezra 3:3,10-12, 5:15, 6:7 ('build the house of God on its site')."
+      - "The sanctuary made after a heavenly pattern: Exod 25:9,40; 1 Chr 28:11-19."
+      - "The king himself carrying the basket and the people with free-will offerings: 1 Chr 29:1-9; Hag 1:8."
+  - id: ane-esarhaddon-104-gods-and-citizens-restored
+    tradition: ane-akkadian
+    title: The temple adorned, the gods renewed, Babylon's citizens freed and led home (Esarhaddon 104 iv 1 - v 38)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 104 iv:1-v:38"]
+    tags:
+      - {motif: cedars-from-amanus-for-building, refs: ["Esarhaddon 104 iv:1-8"]}
+      - {motif: damaged-divine-images-renewed, refs: ["Esarhaddon 104 iv:9-17"], note: "ša mê butuqtu u rādu ubilūšunūti-ma ... uddiš zīmēšunu ... ina parakkīšunu dāriš ušarmēšunūti"}
+      - {motif: city-wall-rebuilt, refs: ["Esarhaddon 104 v:1-9"], note: "Imgur-Enlil and Nēmet-Enlil, 30 ropes long"}
+      - {motif: citizens-of-holy-city-privileged-freedom, refs: ["Esarhaddon 104 v:10-15"], note: "ṣābē kidinni šubarê Anim u Enlil andurāršunu eššiš aškun"}
+      - {motif: king-grants-amargi-release, refs: ["Esarhaddon 104 v:14-15"], note: "andurāru"}
+      - {motif: freed-citizens-clothed-and-led-home, refs: ["Esarhaddon 104 v:15-24"], note: "šāmūtu ša ana rēšūti šulukū ša ana ṣindi u birti zuʾʾuzū upahhir-ma ... mirânūti lubuštu ulabbiš harrān Bābili ušaškin šēpušun"}
+      - {motif: returnees-encouraged-to-build-and-plant, refs: ["Esarhaddon 104 v:25-28"], note: "ana ašābi āli epēš bīti zaqāp ṣippāti herê pattāti ušarhissunūti libbu"}
+      - {motif: exemption-tablets-rewritten, refs: ["Esarhaddon 104 v:29-38"], note: "kidinnūssunu baṭiltu ... ṭuppi zakûtišunu eššiš ašṭur; roads opened to the four winds"}
+    hints:
+      - "Jer 29:5-7: build houses and live in them, plant gardens; Isa 65:21, Amos 9:14 (rebuild ruined cities, plant vineyards)."
+      - "Release of slaves and return of people to their land: Lev 25:10 (deror), Jer 34:8-17, Isa 61:1."
+      - "Returnees gathered from where they were scattered: Ezra 2:1, Neh 7:6; Isa 43:5-7."
+      - "The temple vessels and images renewed: compare Ezra 1:7-11 (vessels returned) and Isa 46:1-7 (idols that must be carried)."
+  - id: ane-esarhaddon-104-blessings-and-curse
+    tradition: ane-akkadian
+    title: Prayers for the king's reign, the inscribed stones, and the curse on whoever annuls Babylon's privilege (Esarhaddon 104 vi 1 - vii 46)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 104 vi:1-vii:46"]
+    tags:
+      - {motif: kingship-pleasing-like-plant-of-life, refs: ["Esarhaddon 104 vi:4-8"], note: "šarrūtī kīma šammi balāṭi eli šīr nišē liṭīb-ma"}
+      - {motif: dynasty-promise-sons-grandsons-rule, refs: ["Esarhaddon 104 vi:1-4", "Esarhaddon 104 vi:20-24"], note: "my priestly seed firm with the foundation of Esagil; my reign firm with heaven and earth"}
+      - {motif: just-man-lives-long, refs: ["Esarhaddon 104 vi:8-14"], note: "ina kitti u mīšari lurteʾâ ... šībūtu lullik littūtu lukšud"}
+      - {motif: blessing-rain-flood-harvest-for-king, refs: ["Esarhaddon 104 vi:43-vii:3"]}
+      - {motif: foundation-deposit-inscriptions, refs: ["Esarhaddon 104 vii:4-18"], note: "stelae of silver, gold, bronze, lapis, alabaster, basalt, limestone and clay inscriptions placed in the foundation"}
+      - {motif: future-king-to-anoint-inscription, refs: ["Esarhaddon 104 vii:19-29"]}
+      - {motif: curse-on-violator-of-holy-city-privilege, refs: ["Esarhaddon 104 vii:30-43"], note: "pāsis kidinnūtu Bābili pāṭir rikis ... may Marduk ezziš likkilmešu ... in Ubšu-ukkinakku, the court of the gods' assembly, decree that he not live a single day"}
+      - {motif: scribal-colophon, refs: ["Esarhaddon 104 vii:44-46"], note: "MU.SAG.NAM.LUGAL.LA: accession year of Esarhaddon"}
+    hints:
+      - "A king's reign as life-giving: Ps 72:6-7,16 (like rain on the mown grass), 2 Sam 23:3-4."
+      - "Old age and long reign for the righteous king: Ps 21:5, 61:7, Prov 16:31."
+  # ---------------- Esarhaddon 105 ----------------
+  - id: ane-esarhaddon-105-marduks-anger
+    tradition: ane-akkadian
+    title: Babylon's sin and Marduk's anger; seventy years turned to eleven (Esarhaddon 105 i 1 - ii 22)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Babylon C (duplicate of Esarhaddon 104 with variants)
+    read: ["Esarhaddon 105 i:1-ii:22"]
+    tags:
+      - {motif: royal-epithet-chain, refs: ["Esarhaddon 105 i:1-19"]}
+      - {motif: citizens-say-yes-for-no, refs: ["Esarhaddon 105 i:20-26"]}
+      - {motif: people-neglect-gods-and-rites, refs: ["Esarhaddon 105 i:27-30"]}
+      - {motif: temple-treasure-used-to-buy-alliance, refs: ["Esarhaddon 105 i:31-36"]}
+      - {motif: chief-god-plans-to-destroy-land, refs: ["Esarhaddon 105 i:36-41"]}
+      - {motif: city-destroyed-by-river-flood-like-deluge, refs: ["Esarhaddon 105 i:41-ii:7"], note: "variant: the flood covers 'the city and its sanctuaries' (ālam ešrētišu)"}
+      - {motif: gods-fly-from-city-like-birds, refs: ["Esarhaddon 105 ii:8-11"], note: "variant: ilāni u ištarāti (gods and goddesses)"}
+      - {motif: citizens-scattered-and-enslaved-abroad, refs: ["Esarhaddon 105 ii:12-15"]}
+      - {motif: seventy-years-of-desolation-written, refs: ["Esarhaddon 105 ii:16-18"]}
+      - {motif: merciful-god-shortens-term-of-punishment, refs: ["Esarhaddon 105 ii:18-22"], note: "eliš ana šapliš ušbalkit-ma ana 11 šanāti ašābšu iqbi"}
+      - {motif: god-relents, refs: ["Esarhaddon 105 ii:18-20"]}
+    hints:
+      - "Jer 25:11-12 and 29:10 (seventy years for Babylon), 2 Chr 36:20-23 (the land's sabbaths, then Cyrus), Dan 9:2,24."
+      - "Ezek 10:18-19 and 11:22-23: the glory departs the temple and city."
+  - id: ane-esarhaddon-105-rebuilding
+    tradition: ane-akkadian
+    title: Esarhaddon chosen; signs and extispicy; the basket and the foundation of Esagil (Esarhaddon 105 ii 23 - iv 41)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 105 ii:23-iv:41"]
+    tags:
+      - {motif: younger-son-chosen-heir-by-gods, refs: ["Esarhaddon 105 ii:23-28"]}
+      - {motif: king-commissioned-to-restore-holy-city, refs: ["Esarhaddon 105 ii:25-27", "Esarhaddon 105 iii:19-23"]}
+      - {motif: favourable-signs-in-heaven-and-earth, refs: ["Esarhaddon 105 ii:41-iii:18"]}
+      - {motif: god-reconciled-with-city, refs: ["Esarhaddon 105 iii:4-5"]}
+      - {motif: sin-and-shamash-answer-yes-monthly, refs: ["Esarhaddon 105 iii:24-29"]}
+      - {motif: wisdom-given-by-ea, refs: ["Esarhaddon 105 iii:29-37"]}
+      - {motif: extispicy-approves-temple-rebuilding, refs: ["Esarhaddon 105 iii:40-iv:8"]}
+      - {motif: bricks-moulded-with-oil-honey-wine, refs: ["Esarhaddon 105 iv:17-20"]}
+      - {motif: king-carries-builders-basket, refs: ["Esarhaddon 105 iv:21-25"]}
+      - {motif: temple-rebuilt-exactly-on-old-foundation, refs: ["Esarhaddon 105 iv:34-41"]}
+    hints:
+      - "Ezra 3:10-13 and 6:3-7: the foundation of the house of God laid on its old site."
+  - id: ane-esarhaddon-105-temple-gods-citizens
+    tradition: ane-akkadian
+    title: Esagil completed, deep foundation, gods' images, personnel, Etemenanki and the wall; the gods of the lands and Babylon's citizens restored (Esarhaddon 105 v 1 - vii 43)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 105 v:1-vii:43"]
+    tags:
+      - {motif: temple-as-replica-of-cosmic-abode, refs: ["Esarhaddon 105 v:1-8"]}
+      - {motif: cedars-from-amanus-for-building, refs: ["Esarhaddon 105 v:9-14"]}
+      - {motif: temple-foundations-reach-abzu, refs: ["Esarhaddon 105 v:23-35"], note: "16 cubits of terrace dug out until akšuda mê nagbi (the waters of the deep); built up with bitumen and baked brick; 'heaped up like a mountain'"}
+      - {motif: damaged-divine-images-renewed, refs: ["Esarhaddon 105 v:44-vi:4"], note: "ṣalam ilāni rabûti uddiš ina parakkīšunu ušarmâ šubat dārât"}
+      - {motif: temple-vessels-made-of-gold-and-silver, refs: ["Esarhaddon 105 vi:5-12"], note: "utensils of gold and silver of fifty minas each"}
+      - {motif: king-restores-neglected-rites, refs: ["Esarhaddon 105 vi:13-20"], note: "parṣī Esagil qašdūti ana ašrišunu utēr ... sattukkīšunu baṭlūti ukīn"}
+      - {motif: temple-personnel-reinstated, refs: ["Esarhaddon 105 vi:21-29"], note: "ramku, pašīšu, išippu, kalû and nāru priests and singers stationed before the gods"}
+      - {motif: ziggurat-rebuilt, refs: ["Esarhaddon 105 vi:29-34"], note: "Etemenanki, one rope by one rope, on its old site"}
+      - {motif: city-wall-rebuilt, refs: ["Esarhaddon 105 vi:35-vii:4"]}
+      - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Esarhaddon 105 vii:5-9"], note: "ilāni mātāti šallūte ultu qereb Aššur u Elamti ana ašrišunu utēr"}
+      - {motif: citizens-of-holy-city-privileged-freedom, refs: ["Esarhaddon 105 vii:12-17"]}
+      - {motif: freed-citizens-clothed-and-led-home, refs: ["Esarhaddon 105 vii:18-28"]}
+      - {motif: returnees-encouraged-to-build-and-plant, refs: ["Esarhaddon 105 vii:29-33"]}
+      - {motif: exemption-tablets-rewritten, refs: ["Esarhaddon 105 vii:33-43"]}
+    hints:
+      - "Restoration of temple personnel and singers: Ezra 2:40-42, 3:10-11, Neh 12:27-47; restored daily offerings, Ezra 3:3-5."
+      - "Jer 29:5 (build houses, plant gardens) and Isa 65:21."
+      - "The tower whose top is in heaven (Etemenanki, 'House, foundation of heaven and earth'): Gen 11:4."
+  - id: ane-esarhaddon-105-blessings-and-curse
+    tradition: ane-akkadian
+    title: Prayers for the king, the inscribed foundation stones, and the curse (Esarhaddon 105 viii 1 - x 36)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Esarhaddon 105 viii:1-x:36"]
+    tags:
+      - {motif: kingship-pleasing-like-plant-of-life, refs: ["Esarhaddon 105 viii:9-13"]}
+      - {motif: dynasty-promise-sons-grandsons-rule, refs: ["Esarhaddon 105 viii:6-9", "Esarhaddon 105 viii:26-29"]}
+      - {motif: just-man-lives-long, refs: ["Esarhaddon 105 viii:14-20"]}
+      - {motif: blessing-rain-flood-harvest-for-king, refs: ["Esarhaddon 105 ix:14-20"]}
+      - {motif: foundation-deposit-inscriptions, refs: ["Esarhaddon 105 ix:21-36"]}
+      - {motif: future-king-to-anoint-inscription, refs: ["Esarhaddon 105 ix:37-x:15"]}
+      - {motif: curse-on-violator-of-holy-city-privilege, refs: ["Esarhaddon 105 x:16-33"]}
+      - {motif: scribal-colophon, refs: ["Esarhaddon 105 x:34-36"]}
+    hints:
+      - "Ps 72:6-7,16; 2 Sam 23:4 (the righteous ruler like rain on the grass)."
