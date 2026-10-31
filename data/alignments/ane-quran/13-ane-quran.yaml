@@ -1,0 +1,1533 @@
+# ANE x Quran side-by-side pass, chunk 13 (Poor Man of Nippur, Poplar, Queen of Nippur, Sagba, Great Hymn to Shamash, shuila prayers, Spider, Babylonian Theodicy, Wren, SAA 2 treaties and loyalty oaths, SAA 3 14/20/25/26/29). Judged blind, from the originals.
+new_motifs:
+  nearness-of-the-hearing-god:
+    label: The deity is near to the one who prays and hears (answers) him
+    cluster: deity
+  do-not-look-behind-on-leaving:
+    label: 'Command: on leaving, do not look behind you (ana arkīka lā tappallas / lā yaltafit minkum aḥad)'
+    cluster: ritual
+  witch-s-knot:
+    label: Witchcraft worked by a (female) witch through knots or bonds, from which release or refuge is sought
+    cluster: magic
+  sun-s-resting-place-at-the-end-of-its-course:
+    label: The sun ends its daily course at a resting place (the bedchamber where it is told 'Rest!', or its mustaqarr)
+    cluster: nature
+  god-lengthens-night-and-shortens-day:
+    label: The god changes the length of day and night (shortens days, lengthens nights; makes night enter into day)
+    cluster: nature
+  divine-object-measured-against-heaven-and-earth:
+    label: 'A divine object is measured against heaven and earth: the heavens too small for the god''s cup, or his seat (kursī) spanning the heavens and the earth'
+    cluster: deity
+  seafarers-surrounded-by-waves-saved:
+    label: Those surrounded by the waves at sea are saved by the god they call on; what follows the rescue
+    cluster: nature
+  loss-of-the-principal-in-usury:
+    label: What becomes of the usurer's profit and his principal (kīsu / ruʾūs amwālikum)
+    cluster: law
+  two-measures-taking-full-giving-short:
+    label: 'Fraud with two standards: taking by the full measure and giving by the short one'
+    cluster: law
+  orphaned-speaker-without-a-carer:
+    label: 'The speaker was orphaned of father (and mother): left with no one to rear him, or found an orphan and sheltered'
+    cluster: family
+  makers-put-falsehood-or-wickedness-into-humans:
+    label: The makers of humankind themselves gave it lying speech, or the shaper of the soul inspired it with its wickedness and its piety
+    cluster: creation
+  modest-walk-and-lowered-voice:
+    label: 'Humility in public: walking modestly, keeping the voice low, not holding the head (cheek) high'
+    cluster: wisdom
+  strength-of-the-spider:
+    label: 'The spider and its strength: it boasts it is the strongest, or its house is the weakest of houses'
+    cluster: animals
+  let-the-trusters-trust:
+    label: 'Formula on trust: let whoever trusts, trust; we trust in our god / on God let the trusters trust'
+    cluster: deity
+  pray-to-no-other-god:
+    label: Command not to pray to (call on) any other deity besides the one worshipped
+    cluster: deity
+  praise-in-the-mouths-of-later-people:
+    label: Petition that the petitioner's good name (praise, 'a tongue of truth') be set in the mouths of people, or of later generations
+    cluster: wisdom
+  lightning-and-hail-strike-at-gods-will:
+    label: Lightning, thunderbolts or hail sent from heaven at the god's command strike what he wills
+    cluster: nature
+  light-of-heaven-and-earth:
+    label: The god titled 'light of heaven(s) and earth' (nūr šamāmī u qaqqari / nūru l-samāwāti wa-l-arḍ), and those deprived of light walk in darkness
+    cluster: deity
+  affliction-worn-as-a-garment:
+    label: A punishment (skin disease; hunger and fear) put on the guilty like a garment
+    cluster: judgment
+  pitch-on-the-bodies-of-the-damned:
+    label: Pitch, bitumen or naphtha as the bodily covering (ointment, garment) of the cursed or damned, with a foul drink
+    cluster: judgment
+  blood-and-pus-of-the-punished:
+    label: 'Blood and pus as the water of the punished: bathed in, or drunk'
+    cluster: judgment
+  woe-we-have-sinned-cry-of-the-punished:
+    label: The punished cry 'woe (ahula / yā waylanā), we have sinned (been wrongdoers)'
+    cluster: judgment
+  secret-messages-to-the-enemy:
+    label: 'Forbidden: sending secret messages to the overlord''s (God''s) enemy'
+    cluster: kingship
+  ruler-kills-and-keeps-alive:
+    label: A ruler holds the power to kill and to keep alive, and to bring down the strong and raise the low
+    cluster: kingship
+  limit-of-blood-vengeance:
+    label: 'Blood vengeance for a murdered person: blood for blood, or the heir''s authority not to exceed in killing'
+    cluster: law
+  kin-not-exempt-from-loyalty:
+    label: 'Loyalty to the sovereign overrides kin: brothers, fathers, sons, clan are named and not exempted'
+    cluster: kingship
+  oath-with-lips-not-heart:
+    label: An oath or profession spoken with the lips (tongues) only, not with the whole heart
+    cluster: law
+  hands-and-feet-cut-for-sinning-against-god:
+    label: Cutting off hands and feet as the punishment of those who sin against (wage war on) the god
+    cluster: law
+  love-ruler-as-own-self:
+    label: The ruler (crown prince, prophet) is to be loved as, or to be closer than, one's own self
+    cluster: kingship
+  oath-binding-the-unborn-generations:
+    label: An oath or covenant that binds descendants not yet born
+    cluster: law
+  refer-what-you-hear-to-the-ruler:
+    label: Whatever word or news one hears is to be referred to the ruler (and those in authority), not concealed or spread
+    cluster: kingship
+reviewed:
+- unit: ane-poorman-sb-1-goat-and-mayor
+  checked:
+  - quran-2-charity
+  - quran-90-city
+  - quran-10-messenger-per-nation
+  matches: []
+- unit: ane-poorman-sb-2-chariot-and-gold-box
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-5-two-sons-of-adam
+  - quran-5-war-on-god-theft
+  matches: []
+- unit: ane-poorman-sb-3-physician-and-decoy
+  checked:
+  - quran-12-joseph-full
+  - quran-15-abraham-guests-lot
+  - quran-7-opening-scales
+  matches: []
+- unit: ane-poplar-sb-1-dispute
+  checked:
+  - quran-2-talut-jalut
+  - quran-53-najm-vision-and-lote-tree
+  - quran-14-parables-and-satans-speech
+  matches: []
+- unit: ane-queennippur-sb-1-exhortation
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-2-throne-verse
+  - quran-41-steadfast-and-repel-evil
+  - quran-7-closing-recitation
+  - quran-72-jinn
+  matches:
+  - with: quran-72-jinn
+    motif: pray-to-no-other-god
+    refs:
+    - QueenNippur SB –:11-12
+    - QueenNippur SB –:16
+    with_refs:
+    - '72:18'
+    relation: parallel
+    record:
+      recipient:
+      - the worshippers
+      - the worshippers
+      action:
+      - must not pray to another goddess
+      - must not call on anyone with God
+      quoted:
+      - ē tashurā ana ili mamman ē tazzakrā teslīta ana šanītim-ma ilti
+      - fa-lā tadʿū maʿa llāhi aḥadā
+    note: –:11-12 ē tashurā [ana] ili mamman / ē tazzakrā teslīta [ana šan]ītim-ma ilti, 'do not turn to any other god, do not say a prayer to any other goddess', 16 [tan]aššiqā qaqqara, 'kiss the ground'; Q 72:18 wa-anna l-masājida li-llāhi fa-lā tadʿū maʿa llāhi aḥadā, 'the places of prostration are God's, so call on no one with God'. The same prohibition of prayer to another, joined to prostration, inside a hymn to Ištar.
+- unit: ane-queennippur-sb-2-impious-man
+  checked:
+  - quran-16-parables-and-justice
+  - quran-7-adam-iblis
+  - quran-4-satan-vows-share
+  matches: []
+- unit: ane-queennippur-sb-3-no-one-but-she
+  checked:
+  - quran-2-abraham-king
+  - quran-16-daughters-and-the-bee
+  - quran-39-death-and-sleep
+  - quran-23-death-barzakh-judgment
+  matches: []
+- unit: ane-queennippur-sb-4-names
+  checked:
+  - quran-4-satan-vows-share
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-23-lordship-arguments
+  matches: []
+- unit: ane-queennippur-sb-5-nippur-and-assembly
+  checked:
+  - quran-2-throne-verse
+  - quran-17-polemic-and-resurrection
+  - quran-23-lordship-arguments
+  matches: []
+- unit: ane-queennippur-sb-6-feast-and-cities
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-sagba-sb-1-curse-incantation
+  checked:
+  - quran-35-originator
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-112-114-unity-and-refuge
+  matches: []
+- unit: ane-shamashhymn-sb-1-illuminator
+  checked:
+  - quran-6-poor-keys-of-unseen
+  - quran-36-cosmic-signs
+  - quran-11-opening-throne-on-water
+  - quran-24-light-verse
+  matches: []
+- unit: ane-shamashhymn-sb-2-judge-and-rescuer
+  checked:
+  - quran-22-signs-and-rites
+  - quran-35-originator
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-shamashhymn-sb-3-justice-ethics
+  checked:
+  - quran-2-usury
+  - quran-83-defrauders
+  - quran-4-israel-indictment-crucifixion
+  - quran-26-shuayb-ayka
+  matches:
+  - with: quran-2-usury
+    motif: loss-of-the-principal-in-usury
+    refs:
+    - ShamashHymn SB –:103-104
+    with_refs:
+    - 2:276
+    - 2:279
+    relation: divergence
+    record:
+      agent:
+      - the exploitative lender
+      - the one who takes usury
+      action:
+      - lends silver at interest
+      - takes usury
+      outcome:
+      - loses profit and principal
+      - God blots out usury; on repentance he keeps his principal
+      quoted:
+      - uštakaṣṣab ana nēmelim-ma uhallaq kīsa
+      - yamḥaqu llāhu l-ribā ... fa-lakum ruʾūsu amwālikum
+    note: –:103-104 nādin kaspi ana ṣibti hābilu mīnâ uttar / uštakaṣṣab ana nēmelim-ma uhallaq kīsa, 'what does the exploitative lender gain? he cuts his profit and loses the principal'; Q 2:276 yamḥaqu llāhu l-ribā wa-yurbī l-ṣadaqāt and 2:279 wa-in tubtum fa-lakum ruʾūsu amwālikum lā taẓlimūna wa-lā tuẓlamūn. The same reckoning of the usurer's gain; the Babylonian lender forfeits even the capital, the Quranic one who repents keeps it.
+  - with: quran-83-defrauders
+    motif: two-measures-taking-full-giving-short
+    refs:
+    - ShamashHymn SB –:107-115
+    with_refs:
+    - '83:1'
+    - '83:2'
+    - '83:3'
+    relation: parallel
+    record:
+      agent:
+      - the cheat with scales and dry measure
+      - the defrauders (muṭaffifūn)
+      action:
+      - lends by the medium standard, takes repayment by the extra standard
+      - take full measure from people, give them short
+      instrument:
+      - scales, weights and dry measure
+      - measure and weight
+      outcome:
+      - the people's curse overtakes him before his time
+      - woe (wayl) to them
+      quoted:
+      - nādin šīqāti ana birīyi mušaddin atri
+      - idhā ktālū ʿalā l-nāsi yastawfūn wa-idhā kālūhum aw wazanūhum yukhsirūn
+    note: –:107-108 ṣābit zibānīti ēpiš ṣilipti / muštēnû aban kīsi ušaqqa u ušappal, 'who cheats holding the scales, switching weights'; 112-113 ṣābit sūti ... nādin šīqāti ana birīyi mušaddin atri, 'who lends by the medium standard and collects by the extra standard', 114 arrat nišī ikaššassu; Q 83:1-3 waylun li-l-muṭaffifīn alladhīna idhā ktālū ʿalā l-nāsi yastawfūn wa-idhā kālūhum aw wazanūhum yukhsirūn. The double standard, full when taking and short when giving, is the named fraud on both sides.
+- unit: ane-shamashhymn-sb-4-all-turn-to-him
+  checked:
+  - quran-13-signs-of-creation
+  - quran-27-is-there-a-god-with-god
+  - quran-2-throne-verse
+  - quran-10-ingratitude-sea
+  matches:
+  - with: quran-10-ingratitude-sea
+    motif: seafarers-surrounded-by-waves-saved
+    refs:
+    - ShamashHymn SB –:159-166
+    with_refs:
+    - '10:22'
+    - '10:23'
+    relation: divergence
+    record:
+      agent:
+      - Šamaš
+      - God
+      action:
+      - saves those surrounded by the mighty wave
+      - saves those the waves surround
+      recipient:
+      - those surrounded by waves
+      - those in the ship
+      outcome:
+      - they pour libations and praise his name forever
+      - once saved they transgress in the earth
+      quoted:
+      - ša lamûšināti dannu agû tušēzib attā
+      - wa-jāʾahumu l-mawju min kulli makānin wa-ẓannū annahum uḥīṭa bihim
+    note: –:159 ša lamûšināti dannu agû tušēzib attā, 'you save the one whom the mighty wave surrounds', then 160-166 they bring libations and 'praise your greatness forever'; Q 10:22-23 jāʾahumu l-mawju min kulli makānin wa-ẓannū annahum uḥīṭa bihim daʿawu llāha mukhliṣīn ... fa-lammā anjāhum idhā hum yabghūna fī l-arḍ, 'the waves come at them from every side and they think they are surrounded; they call on God ... and when he has saved them, they transgress'. Same rescue of the wave-surrounded; the ending turns from lasting praise to broken vows.
+  - with: quran-2-throne-verse
+    motif: divine-object-measured-against-heaven-and-earth
+    refs:
+    - ShamashHymn SB –:154-155
+    with_refs:
+    - 2:255
+    relation: divergence
+    record:
+      object:
+      - the god's divining cup and seer's bowl
+      - God's seat (kursī)
+      action:
+      - the heavens and all lands are too small to be it
+      - it spans the heavens and the earth
+      quoted:
+      - mala kappi niṭil īnīka ul imṣû šamāmū
+      - wasiʿa kursiyyuhu l-samāwāti wa-l-arḍ
+    note: –:154-155 mala kappi niṭil īnīka ul imṣû šamāmū / mala mākalti bārûti ul imṣâ gimiršina mātātu, 'the heavens are too small to be the cup of your gaze, all the lands too small to be your seer's bowl'; Q 2:255 wasiʿa kursiyyuhu l-samāwāti wa-l-arḍa wa-lā yaʾūduhu ḥifẓuhumā, 'his seat encompasses the heavens and the earth'. One divine implement measured against heaven and earth; the diviner's cup becomes the throne-seat.
+- unit: ane-shamashhymn-sb-5-closing-praise
+  checked:
+  - quran-39-mercy-and-last-day
+  - quran-79-pharaoh-and-cosmos
+  - quran-13-signs-of-creation
+  - quran-36-cosmic-signs
+  - quran-3-sovereignty
+  matches:
+  - with: quran-36-cosmic-signs
+    motif: sun-s-resting-place-at-the-end-of-its-course
+    refs:
+    - ShamashHymn SB –:200
+    with_refs:
+    - '36:38'
+    relation: divergence
+    record:
+      agent:
+      - Aya the bride
+      - the Mighty, the Knowing
+      object:
+      - the sun god
+      - the sun
+      place:
+      - the bedchamber (bīt mayyāli)
+      - its resting place (mustaqarr)
+      quoted:
+      - ina bīt mayyāli maštakīša nūh liqbīka
+      - wa-l-shamsu tajrī li-mustaqarrin lahā
+    note: '–:200 [u ay]a kallātu rabītu ina bīt mayyāli maštakīša nūh liqbīka, ''may Aya, the great bride, say to you in the bedchamber: Rest!''; Q 36:38 wa-l-shamsu tajrī li-mustaqarrin lahā dhālika taqdīru l-ʿazīzi l-ʿalīm, ''the sun runs to a resting place of its own; that is the decree of the Mighty, the Knowing''. Both end the sun''s daily run at a place of rest; the consort who bids the sun god rest becomes a fixed course decreed for a created sun.'
+  - with: quran-3-sovereignty
+    motif: god-lengthens-night-and-shortens-day
+    refs:
+    - ShamashHymn SB –:180
+    with_refs:
+    - '3:27'
+    relation: echo
+    record:
+      agent:
+      - Šamaš
+      - God
+      action:
+      - shortens days and lengthens nights
+      - makes night enter into day and day into night
+      quoted:
+      - mukarrû ūmī murrik mušâti
+      - tūliju l-layla fī l-nahāri wa-tūliju l-nahāra fī l-layl
+    note: –:180 mukarrû ūmī murrik mušâti, 'who shortens days, who lengthens nights'; Q 3:27 tūliju l-layla fī l-nahāri wa-tūliju l-nahāra fī l-layl, 'you make the night pass into the day and the day into the night'. The seasonal change in the length of day and night as the god's act, in a hymn of praise on both sides.
+- unit: ane-shuila-adad-sb-1a-sargon-eclipse
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-17-prayer-spirit-and-challenge
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-shuila-adad-sb-1b-mercy-and-witchcraft
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-1-fatiha
+  - quran-44-dukhan-blessed-night-and-smoke
+  matches: []
+- unit: ane-shuila-adad-sb-2-rain-praise
+  checked:
+  - quran-7-creation-signs
+  - quran-13-signs-of-creation
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-shuila-adad-sb-3-4-lightning-strike
+  checked:
+  - quran-24-light-verse
+  - quran-13-signs-of-creation
+  - quran-17-prayer-spirit-and-challenge
+  - quran-79-pharaoh-and-cosmos
+  matches:
+  - with: quran-13-signs-of-creation
+    motif: lightning-and-hail-strike-at-gods-will
+    refs:
+    - Shuila Adad SB 4:23-26
+    with_refs:
+    - '13:13'
+    relation: divergence
+    record:
+      agent:
+      - Adad
+      - God
+      action:
+      - sends fire from heaven by his command
+      - sends thunderbolts
+      object:
+      - rain, hailstones, lightning and fire
+      - thunderbolts (ṣawāʿiq)
+      outcome:
+      - a temple wall falls and the god of the city is burned
+      - strike whom he wills, while they dispute about God
+      quoted:
+      - ina qabīka išātu ištu šamê turdam-ma
+      - wa-yursilu l-ṣawāʿiqa fa-yuṣību bihā man yashāʾ
+    note: 4:23-26 [ina] qab[īka išātu ištu] šamê turda[m-ma] ... [zun]ni u abnī berqu išātu [i]l ālīya ... uqallû[šu], 'at your command fire came down from heaven ... rain and hailstones, lightning and fire burned the god of my city'; Q 13:13 wa-yusabbiḥu l-raʿdu bi-ḥamdihi ... wa-yursilu l-ṣawāʿiqa fa-yuṣību bihā man yashāʾu wa-hum yujādilūna fī llāh. The storm's bolts strike as the god wills; in the šuʾila they burn another god's image, in the Quran they strike those who dispute about God.
+  - with: quran-24-light-verse
+    motif: lightning-and-hail-strike-at-gods-will
+    refs:
+    - Shuila Adad SB 4:25
+    with_refs:
+    - '24:43'
+    relation: parallel
+    record:
+      agent:
+      - Adad
+      - God
+      object:
+      - hailstones and lightning
+      - hail and lightning
+      action:
+      - come down from heaven
+      - sends down hail from heaven
+      outcome:
+      - burn the city god
+      - strikes with it whom he wills
+      quoted:
+      - zunni u abnī berqu išātu
+      - yunazzilu mina l-samāʾi min jibālin fīhā min baradin fa-yuṣību bihi man yashāʾ
+    note: 4:25 [zun]ni u abnī berqu išātu, 'rain and hailstones, lightning and fire' (sent at Adad's command, 4:23); Q 24:43 yunazzilu mina l-samāʾi min jibālin fīhā min baradin fa-yuṣību bihi man yashāʾu ... yakādu sanā barqihi yadhhabu bi-l-abṣār. Hail with lightning from heaven, hitting whom the god wills.
+- unit: ane-shuila-anu-sb-1
+  checked:
+  - quran-3-sovereignty
+  - quran-6-deliverance-trumpet
+  - quran-1-fatiha
+  matches: []
+- unit: ane-shuila-beletili-sb-1-shamash-shuma-ukin
+  checked:
+  - quran-3-sovereignty
+  - quran-74-cloaked
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-shuila-beletili-sb-2
+  checked:
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-25-signs-shadow-seas
+  - quran-78-the-tiding
+  matches: []
+- unit: ane-shuila-damkina-sb-1-ashurbanipal
+  checked:
+  - quran-17-prayer-spirit-and-challenge
+  - quran-74-cloaked
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches: []
+- unit: ane-shuila-dilbat-sb-1
+  checked:
+  - quran-74-cloaked
+  - quran-17-prayer-spirit-and-challenge
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-shuila-ea-sb-1a-banitu-teresh
+  checked:
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-13-signs-of-creation
+  - quran-35-originator
+  - quran-112-114-unity-and-refuge
+  matches:
+  - with: quran-112-114-unity-and-refuge
+    motif: witch-s-knot
+    refs:
+    - Shuila Ea SB 1a:23-26
+    with_refs:
+    - '113:4'
+    relation: parallel
+    record:
+      agent:
+      - warlock and witch (kaššāpu u kaššaptu)
+      - women who blow on knots
+      object:
+      - bond (rikis)
+      - knots (ʿuqad)
+      action:
+      - the incantation of Eridu releases the bond
+      - refuge sought from their evil
+      quoted:
+      - rikis kaššāpi u kaššapti lipaṭṭir šipti ša eridu
+      - wa-min sharri l-naffāthāti fī l-ʿuqad
+    note: 1a:25-26 rikis kaššāpi u kaššapti lipaṭṭir šipti ša eridu / riksīšunu lemnūti lipaṭṭir, 'may the incantation of Eridu release the bond of warlock and witch, may Marduk release their evil bonds'; Q 113:4 wa-min sharri l-naffāthāti fī l-ʿuqad, '(I seek refuge) from the evil of the women who blow on knots'. Witchcraft as knotting by a female witch; the Babylonian remedy unties it by incantation, the Quranic one is refuge in the Lord of daybreak.
+- unit: ane-shuila-ea-sb-1b-2
+  checked:
+  - quran-6-signs-in-nature
+  - quran-23-lordship-arguments
+  - quran-2-abrogation-polemic
+  - quran-27-is-there-a-god-with-god
+  - quran-26-abraham
+  matches:
+  - with: quran-26-abraham
+    motif: praise-in-the-mouths-of-later-people
+    refs:
+    - Shuila Ea SB 1b:4'-5'
+    with_refs:
+    - 26:84
+    relation: echo
+    record:
+      agent:
+      - the petitioner
+      - Abraham
+      action:
+      - asks that his praise be placed in the mouth of the people
+      - asks for a tongue of truth among the later ones
+      quoted:
+      - ina pī nišī liššakin tanitta
+      - wa-jʿal lī lisāna ṣidqin fī l-ākhirīn
+    note: 1b:4'-5' [l]īpuš āmirī ... [i]na pī nišī liššak[in tanitta], 'may whoever sees me speak (my praise), may my praise be placed in the mouth of the people'; Q 26:84 wa-jʿal lī lisāna ṣidqin fī l-ākhirīn, 'grant me a tongue of truth among the later ones'. A petition for one's good name in other people's mouths (praise restored on the Akkadian side).
+- unit: ane-shuila-enlil-sb-1a
+  checked:
+  - quran-3-sovereignty
+  - quran-17-prayer-spirit-and-challenge
+  - quran-11-opening-throne-on-water
+  matches: []
+- unit: ane-shuila-enlil-sb-1b-2
+  checked:
+  - quran-3-sovereignty
+  - quran-17-prayer-spirit-and-challenge
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-shuila-guanna-gud-incipits
+  checked:
+  - quran-44-dukhan-blessed-night-and-smoke
+  - quran-74-cloaked
+  - quran-52-tur-oaths-and-judgment
+  matches: []
+- unit: ane-shuila-gula-sb-1a
+  checked:
+  - quran-74-cloaked
+  - quran-17-prayer-spirit-and-challenge
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-shuila-gula-sb-1b-2
+  checked:
+  - quran-17-prayer-spirit-and-challenge
+  - quran-74-cloaked
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-shuila-istar-1-valiant-ishtar
+  checked:
+  - quran-2-fasting
+  - quran-41-steadfast-and-repel-evil
+  - quran-17-polemic-and-resurrection
+  - quran-17-prayer-spirit-and-challenge
+  matches:
+  - with: quran-2-fasting
+    motif: nearness-of-the-hearing-god
+    refs:
+    - Shuila Ištar SB 1:21
+    with_refs:
+    - 2:186
+    relation: echo
+    record:
+      agent:
+      - Ištar
+      - God
+      action:
+      - hears prayer
+      - answers the call of the caller
+      quoted:
+      - kī ṭābu suppûki kī qerub našmûki
+      - fa-innī qarībun ujību daʿwata l-dāʿi idhā daʿāni
+    note: 1:21 kī ṭābu suppûki kī qerub našmûki, 'how sweet it is to pray to you, how near is your hearing'; Q 2:186 wa-idhā saʾalaka ʿibādī ʿannī fa-innī qarībun ujību daʿwata l-dāʿi idhā daʿāni, 'I am near, I answer the call of the caller when he calls me'. The nearness (qerub / qarīb, the same Semitic root) of the god who hears prayer.
+- unit: ane-shuila-istar-2-lady-of-ladies
+  checked:
+  - quran-15-abraham-guests-lot
+  - quran-11-lot
+  - quran-40-throne-bearers
+  - quran-74-cloaked
+  matches:
+  - with: quran-15-abraham-guests-lot
+    motif: do-not-look-behind-on-leaving
+    refs:
+    - Shuila Ištar SB 2:110
+    with_refs:
+    - 15:65
+    relation: divergence
+    record:
+      action:
+      - do not look behind you
+      - let none of you turn round
+      place:
+      - on the way home from the rite
+      - leaving the doomed town by night
+      quoted:
+      - ana arkīka lā tappallas
+      - wa-lā yaltafit minkum aḥadun wa-mḍū ḥaythu tuʾmarūn
+    note: 2:110 šalāšīšu tamannu tuškên-ma ana arkīka lā tappallas, 'you recite it three times, prostrate, and do not look behind you' (on going home after the rite); Q 15:65 fa-asri bi-ahlika bi-qiṭʿin mina l-layli ... wa-lā yaltafit minkum aḥadun wa-mḍū ḥaythu tuʾmarūn (also 11:81). The same prohibition on looking back when leaving, attached to a ritual site on one side and to the town under judgment on the other.
+- unit: ane-shuila-istar-3-sublime-ishtar
+  checked:
+  - quran-1-fatiha
+  - quran-26-abraham
+  - quran-17-prayer-spirit-and-challenge
+  matches: []
+- unit: ane-shuila-istar-4-woman-prays-for-child
+  checked:
+  - quran-3-imran-mary-zechariah
+  - quran-19-zechariah-and-john
+  - quran-74-cloaked
+  - quran-17-prayer-spirit-and-challenge
+  matches: []
+- unit: ane-shuila-istar-5-9-fragments
+  checked:
+  - quran-4-satan-vows-share
+  - quran-13-signs-of-creation
+  - quran-39-mercy-and-last-day
+  - quran-22-communities-prostration-hell-paradise
+  matches: []
+- unit: ane-shuila-istar-10-ishtar-of-the-stars
+  checked:
+  - quran-40-throne-bearers
+  - quran-74-cloaked
+  - quran-17-prayer-spirit-and-challenge
+  matches: []
+- unit: ane-shuila-istar-11-innin-status
+  checked:
+  - quran-23-lordship-arguments
+  - quran-41-steadfast-and-repel-evil
+  - quran-27-is-there-a-god-with-god
+  matches: []
+- unit: ane-shuila-istar-12-she-is-splendid
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-37-hell-and-garden
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches: []
+- unit: ane-shuila-istar-13-man-with-opponent
+  checked:
+  - quran-17-polemic-and-resurrection
+  - quran-17-prayer-spirit-and-challenge
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-shuila-istar-23-30-lady-of-heaven-and-earth
+  checked:
+  - quran-17-prayer-spirit-and-challenge
+  - quran-13-signs-of-creation
+  - quran-41-steadfast-and-repel-evil
+  matches: []
+- unit: ane-shuila-istar-31-lady-of-cities
+  checked:
+  - quran-4-satan-vows-share
+  - quran-74-cloaked
+  - quran-17-polemic-and-resurrection
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-shuila-ninlil-incipits
+  checked:
+  - quran-35-heirs-of-book
+  - quran-67-mulk-heavens-lamps-and-hell
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-shuila-shamash-1-heir-of-namrasit
+  checked:
+  - quran-6-poor-keys-of-unseen
+  - quran-11-opening-throne-on-water
+  - quran-13-signs-of-creation
+  - quran-41-steadfast-and-repel-evil
+  matches: []
+- unit: ane-shuila-shamash-2-ashurbanipal
+  checked:
+  - quran-41-steadfast-and-repel-evil
+  - quran-7-closing-recitation
+  - quran-1-fatiha
+  matches: []
+- unit: ane-shuila-shamash-3-4-brilliant-one
+  checked:
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-4-creation-kinship-orphans
+  - quran-5-jesus-miracles-table
+  - quran-19-resurrection-and-the-son
+  matches: []
+- unit: ane-shuila-shamash-5-yes-means-yes
+  checked:
+  - quran-17-prayer-spirit-and-challenge
+  - quran-41-steadfast-and-repel-evil
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-shuila-shamash-6-seizing-of-the-chest
+  checked:
+  - quran-74-cloaked
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-44-dukhan-blessed-night-and-smoke
+  matches: []
+- unit: ane-spider-contest-of-creatures
+  checked:
+  - quran-29-spider
+  - quran-16-blessings-of-creation
+  - quran-35-originator
+  - quran-30-signs
+  matches:
+  - with: quran-29-spider
+    motif: strength-of-the-spider
+    refs:
+    - Spider SB –:7-8
+    with_refs:
+    - '29:41'
+    relation: divergence
+    record:
+      agent:
+      - the spider
+      - the spider
+      action:
+      - boasts among the creatures
+      - takes a house
+      outcome:
+      - claims to be the strongest of its kind
+      - its house is the weakest of houses
+      quoted:
+      - ina puhri kimtīya pugg[ul]āku emūqī
+      - wa-inna awhana l-buyūti la-baytu l-ʿankabūt
+    note: '–:7-8 [ina pu]hri nammašti ... [ettūtu uštar]rah maʾdiš ... ina puhri kimtīya pu[gg]ulāku emūqī, ''among all the creatures the Spider boasted greatly: in my kind I am the strongest''; Q 29:41 ka-mathali l-ʿankabūti ttakhadhat baytan wa-inna awhana l-buyūti la-baytu l-ʿankabūt. The spider and its strength: the boast of the strongest becomes the byword of the weakest house (spider partly restored on the Babylonian side, named in 24).'
+- unit: ane-theod-1-orphan-sufferer-and-friend
+  checked:
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-93-94-forenoon-and-expansion
+  - quran-19-zechariah-and-john
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: orphaned-speaker-without-a-carer
+    refs:
+    - Theod SB –:9-11
+    with_refs:
+    - '93:6'
+    relation: divergence
+    record:
+      agent:
+      - fate
+      - God
+      recipient:
+      - the sufferer
+      - the Prophet
+      action:
+      - carried off his father and mother
+      - found him an orphan
+      outcome:
+      - left with no one to rear him
+      - sheltered him
+      quoted:
+      - abī u bāntī īzibūʾinnī-ma bal(i) tārûʾa
+      - a-lam yajidka yatīman fa-āwā
+    note: –:9-11 ahurrâkū-ma zārûʾā šīmatu ubtil ... abī u bāntī īzibūʾinnī-ma bal(i) tārûʾa, 'I was the youngest when fate carried off my begetter ... father and mother left me with no one to rear me'; Q 93:6 a-lam yajidka yatīman fa-āwā, 'did he not find you an orphan and give you shelter?'. The speaker's orphanhood opens both; the sufferer complains of having no carer, the Quran answers that God sheltered the orphan.
+- unit: ane-theod-2-beasts-prosper-without-offerings
+  checked:
+  - quran-23-sects-and-the-heedless
+  - quran-92-night
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-37-hell-and-garden
+  matches: []
+- unit: ane-theod-3-divine-plan-far-as-heaven
+  checked:
+  - quran-2-community-trials
+  - quran-23-sects-and-the-heedless
+  - quran-22-disputers-and-waverers
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-theod-4-sufferer-renounces
+  checked:
+  - quran-93-94-forenoon-and-expansion
+  - quran-80-frowned
+  - quran-29-emigrate-and-trust
+  matches: []
+- unit: ane-theod-5-world-upside-down
+  checked:
+  - quran-93-94-forenoon-and-expansion
+  - quran-71-noah
+  - quran-92-night
+  matches: []
+- unit: ane-theod-6-firstborn-and-demon
+  checked:
+  - quran-23-sects-and-the-heedless
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-93-94-forenoon-and-expansion
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches: []
+- unit: ane-theod-7-gods-gave-lies
+  checked:
+  - quran-91-sun
+  - quran-71-noah
+  - quran-7-adam-iblis
+  - quran-6-creation-rejecters
+  - quran-31-luqman
+  matches:
+  - with: quran-91-sun
+    motif: makers-put-falsehood-or-wickedness-into-humans
+    refs:
+    - Theod SB –:276-280
+    with_refs:
+    - '91:7'
+    - '91:8'
+    - '91:9'
+    - '91:10'
+    relation: divergence
+    record:
+      agent:
+      - Enlil, Ea and Mami, who made humankind
+      - he who shaped the soul
+      action:
+      - gave humankind twisted speech
+      - inspired the soul
+      object:
+      - lies and falsehood
+      - its wickedness and its god-fearing
+      outcome:
+      - endowed with lies forever
+      - he succeeds who purifies it, fails who corrupts it
+      quoted:
+      - šarkū ana amēlūti etgura dabāba / sarrāti u lā kināti išrukūši santakku
+      - fa-alhamahā fujūrahā wa-taqwāhā
+    note: –:276-280 Enlil 'who created teeming humankind', Ea 'who pinched off their clay', Mami 'who fashioned them' šarkū ana amēlūti etgura dabāba / sarrāti u lā kināti išrukūši santakku, 'gave perverse speech to humankind, endowed them forever with lies and untruth'; Q 91:7-10 wa-nafsin wa-mā sawwāhā fa-alhamahā fujūrahā wa-taqwāhā qad aflaḥa man zakkāhā wa-qad khāba man dassāhā. The shapers put the bent into humans at their making; the Babylonian gods give only falsehood, the Quranic shaper both wickedness and god-fearing, and the choice decides.
+  - with: quran-31-luqman
+    motif: modest-walk-and-lowered-voice
+    refs:
+    - Theod SB –:291-293
+    with_refs:
+    - '31:18'
+    - '31:19'
+    relation: parallel
+    record:
+      action:
+      - walks unobtrusively, keeps his voice low, does not hold his head high
+      - walks modestly, lowers his voice, does not turn his cheek
+      place:
+      - the square of my city
+      - in the earth
+      quoted:
+      - rigmu ul iššapu iššapil atmûʾa / rēšīya ul ulli qaqqara anaṭṭal
+      - wa-qṣid fī mashyika wa-ghḍuḍ min ṣawtika ... wa-lā tuṣaʿʿir khaddaka li-l-nās
+    note: '–:291-293 rebīt ālīya abâʾ nēhiš / rigmu ul iššapu iššapil atmûʾa / rēšīya ul ulli qaqqara anaṭṭal, ''I passed quietly through my city''s square, my voice was not raised, my speech was low, I did not hold my head high, I looked at the ground''; Q 31:18-19 wa-lā tuṣaʿʿir khaddaka li-l-nāsi wa-lā tamshi fī l-arḍi maraḥan ... wa-qṣid fī mashyika wa-ghḍuḍ min ṣawtika. The same three marks of humility: the gait, the lowered voice, the head (cheek) not lifted.'
+- unit: ane-wren-and-eagle
+  checked:
+  - quran-41-steadfast-and-repel-evil
+  - quran-6-prophet-consoled-signs
+  - quran-71-noah
+  matches: []
+- unit: ane-saa-02-009-ashurbanipal-babylonian-allies
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-3-sovereignty
+  - quran-3-badr-uhud
+  matches: []
+- unit: ane-saa-02-001-shamshi-adad-marduk-zakir-shumi
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-7-towns-pattern
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches: []
+- unit: ane-saa-02-011-sin-sharru-ishkun
+  checked:
+  - quran-10-ingratitude-sea
+  - quran-9-baraa-treaties
+  - quran-3-sovereignty
+  - quran-58-mujadila-zihar-and-secret-counsel
+  matches: []
+- unit: ane-saa-02-004-esarhaddon-oath-first-person
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-38-job
+  matches: []
+- unit: ane-saa-02-008-zakutu-treaty
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-4-trusts-obedience
+  - quran-23-believers-succeed
+  matches: []
+- unit: ane-saa-02-002-a-lamb-ritual
+  checked:
+  - quran-9-baraa-treaties
+  - quran-5-oaths-wine-game
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-saa-02-002-b-clauses-curses-witnesses
+  checked:
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-17-iblis-and-adam
+  - quran-21-heedless-and-doomed-towns
+  matches:
+  - with: quran-21-heedless-and-doomed-towns
+    motif: woe-we-have-sinned-cry-of-the-punished
+    refs:
+    - SAA 02 002 r.v:14-15
+    with_refs:
+    - '21:14'
+    - '21:15'
+    relation: echo
+    record:
+      agent:
+      - Matiʾ-il and his people
+      - the people of the destroyed towns
+      action:
+      - lament 'woe, we have sinned'
+      - cry 'woe to us, we were wrongdoers'
+      quoted:
+      - mā ahula mā ina adê ... nihtiṭi
+      - yā waylanā innā kunnā ẓālimīn
+    note: 'r.v:14-15 limrur bikīssunu mā ahula mā ina adê ša Aššur-nērārī ... nihtiṭi, ''may their weeping be bitter: Woe! we have sinned against the treaty of Aššur-nērārī''; Q 21:14-15 qālū yā waylanā innā kunnā ẓālimīn fa-mā zālat tilka daʿwāhum ḥattā jaʿalnāhum ḥaṣīdan khāmidīn. The punished speak their own confession, a cry of woe and ''we have sinned''.'
+- unit: ane-saa-02-012-nergal-blood-in-channel
+  checked:
+  - quran-37-sacrifice-of-son
+  - quran-16-daughters-and-the-bee
+  - quran-89-dawn
+  matches: []
+- unit: ane-saa-02-005-esarhaddon-baal-of-tyre
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-baraa-treaties
+  - quran-3-badr-uhud
+  - quran-14-moses-and-messengers
+  matches:
+  - with: quran-14-moses-and-messengers
+    motif: blood-and-pus-of-the-punished
+    refs:
+    - SAA 02 005 r.iv:3'-4'
+    with_refs:
+    - '14:16'
+    relation: divergence
+    record:
+      object:
+      - blood and pus
+      - water of pus (ṣadīd)
+      action:
+      - bathe in it as in water
+      - is given it to drink
+      recipient:
+      - the oath-breakers
+      - the obstinate tyrant in Hell
+      quoted:
+      - dāmu u šarku kīma mê runkā
+      - wa-yusqā min māʾin ṣadīd
+    note: 'r.iv:3''-4'' Gula ... simmu lazzu ina zumrikunu liškun dāmu u šarku kīma mê runkā, ''may Gula put a lasting wound in your body; bathe in blood and pus as in water''; Q 14:16 min warāʾihi jahannamu wa-yusqā min māʾin ṣadīd, ''he is given to drink of water of pus'' (cf. 69:36 ghislīn). Blood and pus in place of water for the punished: bathed in by the oath-breaker, drunk by the damned.'
+- unit: ane-saa-02-014-succession-treaty-literary
+  checked:
+  - quran-3-sovereignty
+  - quran-40-throne-bearers
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-saa-02-010-yauta-of-qedar
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-baraa-treaties
+  - quran-8-treaties-peace
+  matches: []
+- unit: ane-saa-02-007-esarhaddon-fragment
+  checked:
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-4-satan-vows-share
+  - quran-6-final-reckoning
+  matches: []
+- unit: ane-saa-02-013-arab-treaty-messages
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-5-oaths-wine-game
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: secret-messages-to-the-enemy
+    refs:
+    - SAA 02 013 o.ii:3'-4'
+    - SAA 02 013 r.iii:1-7
+    with_refs:
+    - '60:1'
+    relation: parallel
+    record:
+      recipient:
+      - the king's enemy
+      - God's enemy and yours
+      action:
+      - must not send messages to the enemy secretly or come to terms with him
+      - must not secretly convey affection to the enemy or take him as ally
+      instrument:
+      - by the hand of a fish of the sea or a bird of the sky
+      - null
+      quoted:
+      - lū ina qāt nūni ša tâmti lū ina qāt iṣṣūri ša šamê lā tašappar
+      - tusirrūna ilayhim bi-l-mawaddati wa-anā aʿlamu bi-mā akhfaytum
+    note: 'o.ii:3''-4'' issišu lā tasallim pî issišu lā tašakkan, ''do not make peace with him, do not put your mouth with him''; r.iii:1-7 lū ina qāt nūni ša tâmti lū ina qāt iṣṣūri ša šamê lā tašappar ... mā alik ana šarri ammiʾe qibi mā annūrig šar māt Aššur ina muhhika illaka, ''do not send by the hand of a fish of the sea or a bird of the sky ... saying: go tell that king, now the king of Assyria is coming against you''; Q 60:1 lā tattakhidhū ʿaduwwī wa-ʿaduwwakum awliyāʾa ... in kuntum kharajtum jihādan fī sabīlī ... tusirrūna ilayhim bi-l-mawaddati wa-anā aʿlamu bi-mā akhfaytum. The secret message to the enemy while the campaign is under way is the forbidden act on both sides.'
+- unit: ane-saa-02-003-sennacherib-succession
+  checked:
+  - quran-9-baraa-treaties
+  - quran-3-sovereignty
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-saa-02-015-a-preamble-witnesses
+  checked:
+  - quran-99-earthquake
+  - quran-9-baraa-treaties
+  - quran-24-obedience-and-succession
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-7-primordial-covenant
+  matches:
+  - with: quran-7-primordial-covenant
+    motif: oath-binding-the-unborn-generations
+    refs:
+    - SAA 02 015 o:9_T_i_13-10_and_6_T_i_14
+    with_refs:
+    - 7:172
+    - 7:173
+    relation: divergence
+    record:
+      recipient:
+      - those who will exist after the treaty in future days
+      - the offspring of the children of Adam
+      action:
+      - bound by the treaty
+      - made to testify about themselves
+      quoted:
+      - ša arki adê ina ūmē ṣâti ibbaššûni
+      - min ẓuhūrihim dhurriyyatahum ... alastu bi-rabbikum
+    note: Tayinat i 13-14 issišunu ṣābēšunu ša arki adê ina ūmē ṣâti ibbaššûni, 'with their people who will exist after the treaty in days to come'; Q 7:172-173 akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum ... aw taqūlū innamā ashraka ābāʾunā min qablu. The unborn bound by the oath (see SAA 2 6:9-10).
+- unit: ane-saa-02-015-b-no-other-king-kin-reports
+  checked:
+  - quran-10-ingratitude-sea
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-20-moses-pharaoh-magicians
+  matches:
+  - with: quran-58-mujadila-zihar-and-secret-counsel
+    motif: kin-not-exempt-from-loyalty
+    refs:
+    - SAA 02 015 o:73_T_i_80'-77–78_T_ii_4
+    with_refs:
+    - '58:22'
+    relation: divergence
+    record:
+      name:
+      - his brothers, uncles, cousins, the seed of his father's house
+      - their fathers, sons, brothers, clan
+      action:
+      - an evil word from them must be reported
+      - opponents of God are not to be loved
+      quoted:
+      - lū ina pî ahhēšu ahhē abbēšu ... zēr bīt abīšu
+      - wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+    note: Tayinat ii 3 lū ina pî ahhēšu ahhē abbēšu mār ahhē abbēšu ... qinnīšu zēr bīt abīšu (as SAA 2 6:76-77); Q 58:22 wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum. The kin list that loyalty overrides.
+- unit: ane-saa-02-015-c-poison-love-as-yourselves
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-moses-pharaoh
+  - quran-28-qarun
+  - quran-33-adoption-and-zihar
+  matches:
+  - with: quran-33-adoption-and-zihar
+    motif: love-ruler-as-own-self
+    refs:
+    - SAA 02 015 o:266_T_iv_8-268_T_iv_11
+    with_refs:
+    - '33:6'
+    relation: divergence
+    record:
+      recipient:
+      - Assurbanipal the crown prince
+      - the Prophet
+      action:
+      - love him as your own lives
+      - he is closer to the believers than their own selves
+      quoted:
+      - kī napšātekunu lā tarʾamāni
+      - al-nabiyyu awlā bi-l-muʾminīna min anfusihim
+    note: Tayinat iv 8-11 kī napšātekunu lā tarʾamāni (as SAA 2 6:266-268); Q 33:6 al-nabiyyu awlā bi-l-muʾminīna min anfusihim.
+- unit: ane-saa-02-015-d-brothers-oath-tablet
+  checked:
+  - quran-10-ingratitude-sea
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-24-obedience-and-succession
+  - quran-48-fath-clear-victory-and-pledge
+  matches:
+  - with: quran-48-fath-clear-victory-and-pledge
+    motif: oath-with-lips-not-heart
+    refs:
+    - SAA 02 015 o:385_T_v_49-387_T_v_52
+    with_refs:
+    - '48:11'
+    relation: parallel
+    record:
+      agent:
+      - the sworn vassals
+      - the bedouin who stayed behind
+      action:
+      - swear with the talk of the lips, not the whole heart
+      - say with their tongues what is not in their hearts
+      quoted:
+      - tamītu ša dababti šapti tatammâni ina gummurti libbikunu lā tatammâni
+      - yaqūlūna bi-alsinatihim mā laysa fī qulūbihim
+    note: Tayinat v 49-52 tamītu ša dababti šapti tatammâni ina gummurti libbikunu lā tatammâni (as SAA 2 6:385-387); Q 48:11 yaqūlūna bi-alsinatihim mā laysa fī qulūbihim.
+- unit: ane-saa-02-015-e-curses-by-the-gods
+  checked:
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-89-dawn
+  - quran-90-city
+  - quran-14-day-of-reckoning
+  matches:
+  - with: quran-14-day-of-reckoning
+    motif: pitch-on-the-bodies-of-the-damned
+    refs:
+    - SAA 02 015 o:490_T_vi_73-492_T_vi_75
+    with_refs:
+    - '14:50'
+    relation: divergence
+    record:
+      object:
+      - naphtha as ointment, bitumen as food
+      - pitch (qaṭirān) as garments
+      recipient:
+      - the oath-breakers
+      - the guilty on the Day
+      quoted:
+      - qīru kupru lū mākalākunu ... napṭu lū piššatkunu
+      - sarābīluhum min qaṭirān
+    note: Tayinat vi 73-75 qīru kupru lū mākalākunu / šīnāt imēri lū mašqītkunu napṭu lū piššatkunu / elapû ša nāri lū taktīmkunu (pitch your food, donkey's urine your drink, naphtha your ointment, river weed your covering); Q 14:50 sarābīluhum min qaṭirānin. Same curse as SAA 2 6:490-492; pitch on the body of the cursed.
+- unit: ane-saa-02-015-f-we-swear-first-person
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-23-believers-succeed
+  matches: []
+- unit: ane-saa-02-015-g-simile-curses-1
+  checked:
+  - quran-90-city
+  - quran-5-contracts-food-laws
+  - quran-7-adam-iblis
+  matches: []
+- unit: ane-saa-02-015-h-simile-curses-2-colophon
+  checked:
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-90-city
+  - quran-9-closing
+  - quran-5-war-on-god-theft
+  matches:
+  - with: quran-5-war-on-god-theft
+    motif: hands-and-feet-cut-for-sinning-against-god
+    refs:
+    - SAA 02 015 o:626_T_viii_19-629–630_T_viii_23
+    with_refs:
+    - '5:33'
+    relation: divergence
+    record:
+      agent:
+      - the curser who sinned against Bēl
+      - those who wage war on God and his messenger
+      action:
+      - had hands and feet cut off and eyes blinded
+      - have hands and feet cut off from opposite sides
+      quoted:
+      - kī ša arrāru ana Bēl ihṭûni kappī ša ahīšunu šēpēšunu ubattiqūni
+      - an tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāf
+    note: Tayinat viii 19-23 kī ša arrāru ana {d}EN ihṭûni kappī ša ahīšunu šēpēšunu ubattiqūni īnēšunu ugallilūni (as SAA 2 6:626-629); Q 5:33 tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāf. Hands and feet cut for sinning against the god.
+- unit: ane-saa02-006-o-seal-preamble-witnesses
+  checked:
+  - quran-7-primordial-covenant
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-2-patience-signs
+  matches:
+  - with: quran-7-primordial-covenant
+    motif: oath-binding-the-unborn-generations
+    refs:
+    - SAA 02 006 o:9-12
+    with_refs:
+    - 7:172
+    - 7:173
+    relation: divergence
+    record:
+      agent:
+      - Esarhaddon
+      - your Lord
+      recipient:
+      - the vassals with their sons and grandsons who will exist after the treaty
+      - the offspring of the children of Adam taken from their loins
+      action:
+      - makes the treaty with them
+      - makes them testify about themselves
+      outcome:
+      - the unborn are bound by their fathers' oath
+      - no one may plead 'our fathers associated before us and we were their offspring'
+      quoted:
+      - is-si-kunu ... mārēkunu mār mārēkunu ša arki adê ana ūmē ṣâti ibbaššûni
+      - akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum ... alastu bi-rabbikum
+    note: 'o:9-12 issikunu mārēkunu mār mārēkunu ša arki adê ana ūmē ṣâti ibbaššûni, ''with you, your sons and your grandsons who will come into being after the treaty, in days to come''; Q 7:172-173 wa-idh akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum wa-ashhadahum ʿalā anfusihim alastu bi-rabbikum qālū balā ... aw taqūlū innamā ashraka ābāʾunā min qablu wa-kunnā dhurriyyatan min baʿdihim. A covenant that reaches descendants not yet born: bound by their fathers'' oath in the treaty; made to swear themselves in the Quran, which rules out pleading the fathers.'
+- unit: ane-saa02-006-o-protect-and-enthrone-crown-prince
+  checked:
+  - quran-3-sovereignty
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-23-believers-succeed
+  matches: []
+- unit: ane-saa02-006-o-report-seditious-word
+  checked:
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-4-false-accusation
+  - quran-4-fighting-and-death
+  matches:
+  - with: quran-58-mujadila-zihar-and-secret-counsel
+    motif: kin-not-exempt-from-loyalty
+    refs:
+    - SAA 02 006 o:73-80
+    with_refs:
+    - '58:22'
+    relation: divergence
+    record:
+      name:
+      - his brothers, his father's brothers, their sons, the seed of his father's house
+      - their fathers, their sons, their brothers, their clan
+      action:
+      - an evil word from them must be reported, not concealed
+      - those who oppose God are not to be loved
+      quoted:
+      - lū ina pî ahhēšu ahhē abbēšu mār ahhē abbēšu ... zēr bīt abīšu
+      - wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+    note: 'o:73-80 an improper word about the crown prince lū ina pî ahhēšu ahhē abbēšu mār ahhē abbēšu qinnīšu zēr bīt abīšu ... tašammâni tupazzarāni, ''whether from the mouth of his brothers, uncles, cousins, family, the seed of his father''s house ... if you hear it and conceal it''; Q 58:22 lā tajidu qawman yuʾminūna bi-llāhi ... yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum. A named list of kin who are not exempt from the loyalty owed: to the crown prince, to God and his messenger.'
+  - with: quran-4-fighting-and-death
+    motif: refer-what-you-hear-to-the-ruler
+    refs:
+    - SAA 02 006 o:73-82
+    with_refs:
+    - 4:83
+    relation: divergence
+    record:
+      action:
+      - report every evil word heard to the crown prince, do not conceal it
+      - refer news of security or fear to the Messenger and those in authority
+      recipient:
+      - Assurbanipal
+      - the Messenger and those in authority
+      quoted:
+      - tašammâni tupazzarāni
+      - wa-law raddūhu ilā l-rasūli wa-ilā ulī l-amri minhum
+    note: o:73-82 abutu lā ṭābtu ... mala bašû tašammâni tupazzarāni, 'any improper word you hear and conceal' (instead of reporting it to the crown prince); Q 4:83 wa-idhā jāʾahum amrun mina l-amni awi l-khawfi adhāʿū bihi wa-law raddūhu ilā l-rasūli wa-ilā ulī l-amri minhum la-ʿalimahu lladhīna yastanbiṭūnahu minhum. What one hears is to go to the ruler; the treaty forbids hiding it, the Quran blames spreading it.
+- unit: ane-saa02-006-o-seize-rebels-conspiracy-ritual
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  - quran-3-badr-uhud
+  matches: []
+- unit: ane-saa02-006-o-coups-and-false-message
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-3-sovereignty
+  - quran-2-talut-jalut
+  - quran-2-abraham-king
+  matches:
+  - with: quran-2-abraham-king
+    motif: ruler-kills-and-keeps-alive
+    refs:
+    - SAA 02 006 o:191-194
+    with_refs:
+    - 2:258
+    relation: divergence
+    record:
+      agent:
+      - the crown prince (as king)
+      - the king who disputed with Abraham
+      action:
+      - kills whom he will, keeps alive whom he will
+      - gives life and causes death
+      outcome:
+      - the sworn must acknowledge it and obey
+      - Abraham refutes him with the sun from the west
+      quoted:
+      - ša dûki idukkūni ša bulluṭi uballaṭūni
+      - anā uḥyī wa-umīt
+    note: o:191-194 (do not say) šū lā šarrakunu ... dannu lā ušappalūni šaplu lā imattahūni ša dûki lā idukkūni ša bulluṭi lā uballaṭūni, 'he is not our king ... he does not bring down the strong, raise the low, kill the one to be killed, keep alive the one to be kept alive'; Q 2:258 alladhī ḥājja ibrāhīma fī rabbihi an ātāhu llāhu l-mulka ... qāla anā uḥyī wa-umīt. The king's power to kill and keep alive is the ground of obedience in the treaty and the king's empty boast in the Quran, answered by God who brings the sun from the east.
+  - with: quran-3-sovereignty
+    motif: ruler-kills-and-keeps-alive
+    refs:
+    - SAA 02 006 o:192
+    with_refs:
+    - '3:26'
+    relation: divergence
+    record:
+      agent:
+      - the crown prince
+      - God
+      action:
+      - brings down the strong and raises the low
+      - exalts whom he wills and abases whom he wills
+      quoted:
+      - dannu ušappalūni šaplu imattahūni
+      - tuʿizzu man tashāʾu wa-tudhillu man tashāʾ
+    note: 'o:192 dannu lā ušappalūni šaplu lā imattahūni, ''he does not bring down the strong, does not raise the low'' (the sworn may not deny the heir this power); Q 3:26 tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾu wa-tuʿizzu man tashāʾu wa-tudhillu man tashāʾ. Raising and lowering as the sovereign''s prerogative: the Assyrian heir''s, or God''s alone, who also gives and takes kingship.'
+- unit: ane-saa02-006-o-usurpers-minority-poison
+  checked:
+  - quran-17-commandments
+  - quran-3-sovereignty
+  - quran-6-final-reckoning
+  matches:
+  - with: quran-17-commandments
+    motif: limit-of-blood-vengeance
+    refs:
+    - SAA 02 006 o:254-259
+    with_refs:
+    - '17:33'
+    relation: divergence
+    record:
+      agent:
+      - the sworn
+      - the heir (walī) of the slain
+      action:
+      - shed blood for blood and avenge the crown prince
+      - has authority over the killer
+      outcome:
+      - destroy the instigators' name and seed in the land
+      - must not exceed in killing
+      quoted:
+      - dāmē kūm dāmē ... tabāku gimillu ... turru
+      - fa-qad jaʿalnā li-waliyyihi sulṭānan fa-lā yusrif fī l-qatl
+    note: 'o:254-259 ēpišānūti ša bārti ... lā tadukāni šumšunu zēršunu ina māti lā tuhallaqāni dāmē kūm dāmē lā tatabbakāni gimillu ša Aššur-bāni-apli lā turrāni, ''if you do not kill the instigators, destroy their name and seed, pour out blood for blood and avenge Assurbanipal''; Q 17:33 wa-man qutila maẓlūman fa-qad jaʿalnā li-waliyyihi sulṭānan fa-lā yusrif fī l-qatl. Blood vengeance demanded: unlimited, to name and seed, in the treaty; granted to the heir and capped in the Quran.'
+- unit: ane-saa02-006-o-love-as-yourselves-future-generations
+  checked:
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-17-commandments
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-33-adoption-and-zihar
+  matches:
+  - with: quran-33-adoption-and-zihar
+    motif: love-ruler-as-own-self
+    refs:
+    - SAA 02 006 o:266-268
+    with_refs:
+    - '33:6'
+    relation: divergence
+    record:
+      recipient:
+      - Assurbanipal the crown prince
+      - the Prophet
+      action:
+      - love him as your own lives
+      - he is closer to the believers than their own selves
+      quoted:
+      - kī napšātekunu lā tarʾamāni
+      - al-nabiyyu awlā bi-l-muʾminīna min anfusihim
+    note: 'o:266-268 šumma attunu ana Aššur-bāni-apli ... kī napšātekunu lā tarʾamāni, ''if you do not love Assurbanipal as your own lives''; Q 33:6 al-nabiyyu awlā bi-l-muʾminīna min anfusihim wa-azwājuhu ummahātuhum. The ruler measured against the subject''s own self (napištu / nafs): loved as oneself in the treaty, closer than oneself in the Quran.'
+- unit: ane-saa02-006-o-usurper-slander-brothers
+  checked:
+  - quran-4-false-accusation
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-12-joseph-full
+  matches: []
+- unit: ane-saa02-006-o-oath-release-magic-whole-heart-tablet
+  checked:
+  - quran-3-sovereignty
+  - quran-63-munafiqun-propped-timbers
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-48-fath-clear-victory-and-pledge
+  matches:
+  - with: quran-48-fath-clear-victory-and-pledge
+    motif: oath-with-lips-not-heart
+    refs:
+    - SAA 02 006 o:385-388
+    with_refs:
+    - '48:11'
+    relation: parallel
+    record:
+      agent:
+      - the sworn vassals
+      - the bedouin who stayed behind
+      action:
+      - swear with the talk of the lips, not the whole heart
+      - say with their tongues what is not in their hearts
+      quoted:
+      - tamītu ša dababti šapti tatammâni ina gummurti libbikunu lā tatammâni
+      - yaqūlūna bi-alsinatihim mā laysa fī qulūbihim
+    note: o:385-388 tamītu ša dababti šapti tatammâni ina gummurti libbikunu lā tatammâni, 'if you swear the oath with the talk of the lips and do not swear with your whole heart', and do not teach it to your sons; Q 48:11 sa-yaqūlu laka l-mukhallafūna mina l-aʿrābi ... yaqūlūna bi-alsinatihim mā laysa fī qulūbihim (beside the pledge of 48:10). The sworn profession of loyalty made by the mouth and not the heart.
+- unit: ane-saa02-006-o-curses-by-the-gods
+  checked:
+  - quran-16-abrogation-food-abraham-sabbath
+  - quran-24-light-verse
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-90-city
+  - quran-14-day-of-reckoning
+  matches:
+  - with: quran-24-light-verse
+    motif: light-of-heaven-and-earth
+    refs:
+    - SAA 02 006 o:422-424
+    with_refs:
+    - '24:35'
+    - '24:40'
+    relation: echo
+    record:
+      name:
+      - Šamaš, light of heaven and earth
+      - God, light of the heavens and the earth
+      action:
+      - takes away their eyesight
+      - gives no light
+      outcome:
+      - they walk about in darkness
+      - darkness upon darkness, he has no light
+      quoted:
+      - Šamaš nūr šamāmī u qaqqari ... ina ekleti ittallakā
+      - allāhu nūru l-samāwāti wa-l-arḍ ... wa-man lam yajʿali llāhu lahu nūran fa-mā lahu min nūr
+    note: o:422-424 {d}UTU nu-ur₂ ša₂-ma-mi u kaq-qar ... niṭil īnēkunu lišīma ina ekleti ittallakā, 'may Šamaš, light of heaven and earth, not judge you justly, may he take away your eyesight, walk about in darkness'; Q 24:35 allāhu nūru l-samāwāti wa-l-arḍ and 24:40 ẓulumātun baʿḍuhā fawqa baʿḍin ... wa-man lam yajʿali llāhu lahu nūran fa-mā lahu min nūr. The same title, 'light of heaven and earth', and the one cut off from that light left in darkness.
+  - with: quran-16-abrogation-food-abraham-sabbath
+    motif: affliction-worn-as-a-garment
+    refs:
+    - SAA 02 006 o:419-421
+    with_refs:
+    - 16:112
+    relation: echo
+    record:
+      agent:
+      - Sîn
+      - God
+      recipient:
+      - the oath-breakers
+      - the ungrateful town
+      object:
+      - leprosy (saharšubbû)
+      - hunger and fear
+      action:
+      - clothes them with it
+      - makes them taste its garment
+      quoted:
+      - ina saharšubbê lihallipkunu
+      - fa-adhāqahā llāhu libāsa l-jūʿi wa-l-khawf
+    note: o:419-421 Sîn ... ina saharšubbê lihallipkunu ... kī sirrimi ṣabīti ina ṣēri rupdā, 'may Sîn clothe you in leprosy, roam the open country like the wild ass and gazelle'; Q 16:112 qaryatan kānat āminatan ... fa-kafarat bi-anʿumi llāhi fa-adhāqahā llāhu libāsa l-jūʿi wa-l-khawf, 'God made it taste the garment of hunger and fear'. The punishment of the faithless put on them as a garment.
+  - with: quran-14-day-of-reckoning
+    motif: pitch-on-the-bodies-of-the-damned
+    refs:
+    - SAA 02 006 o:490-492
+    with_refs:
+    - '14:50'
+    relation: divergence
+    record:
+      object:
+      - naphtha as ointment, river weed as covering, bitumen as food
+      - pitch (qaṭirān) as garments
+      recipient:
+      - the oath-breakers
+      - the guilty on the Day
+      quoted:
+      - qīru kupru lū mākalākunu ... napṭu lū piššatkunu
+      - sarābīluhum min qaṭirānin wa-taghshā wujūhahumu l-nār
+    note: o:490-492 qīru kupru lū mākalākunu / šīnāt imēri lū mašqītkunu napṭu lū piššatkunu / elapû ša nāri lū taktīmkunu, 'may pitch and bitumen be your food, donkey's urine your drink, naphtha your ointment, river weed your covering'; Q 14:50 sarābīluhum min qaṭirānin wa-taghshā wujūhahumu l-nār, 'their garments of pitch, and fire covers their faces' (14:16 their drink ṣadīd, pus). Pitch put on the bodies of the cursed; ointment in the curse, garment in the judgment.
+- unit: ane-saa02-006-o-self-curse-and-further-curses
+  checked:
+  - quran-17-iblis-and-adam
+  - quran-6-deliverance-trumpet
+  - quran-5-oaths-wine-game
+  matches: []
+- unit: ane-saa02-006-o-analogical-curses-1
+  checked:
+  - quran-13-covenant-and-paradise
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-17-commandments
+  - quran-90-city
+  matches: []
+- unit: ane-saa02-006-o-analogical-curses-2
+  checked:
+  - quran-6-commandments
+  - quran-4-fighting-and-death
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-90-city
+  - quran-5-war-on-god-theft
+  matches:
+  - with: quran-5-war-on-god-theft
+    motif: hands-and-feet-cut-for-sinning-against-god
+    refs:
+    - SAA 02 006 o:626-629
+    with_refs:
+    - '5:33'
+    relation: divergence
+    record:
+      agent:
+      - the curser who sinned against Bēl
+      - those who wage war on God and his messenger
+      action:
+      - had hands and feet cut off and eyes blinded
+      - have hands and feet cut off from opposite sides, or are killed, crucified or banished
+      outcome:
+      - so may they finish you off
+      - disgrace in this world, great punishment in the next
+      quoted:
+      - kī ša arrāri ana Bēl ihṭûni kappī ša ahīšunu šēpēšunu ubattiqūni
+      - an tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāf
+    note: o:626-629 kī ša arrāri ana {d}EN ihṭûni kappī ša ahīšunu šēpēšunu ubattiqūni īnēšunu ugallilūni kī hannê ligmurūkunu, 'as the curser who sinned against Bēl had hands and feet cut off and eyes blinded, so may they finish you'; Q 5:33 innamā jazāʾu lladhīna yuḥāribūna llāha wa-rasūlahu ... an yuqattalū aw yuṣallabū aw tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāf. Cutting off hands and feet as the penalty for sin against the god; blinding on one side, the cross-wise cut and crucifixion on the other.
+- unit: ane-saa02-006-o-colophon
+  checked:
+  - quran-9-baraa-treaties
+  - quran-9-months-nasi
+  - quran-4-kalala-ruling
+  matches: []
+- unit: ane-saa03-014-nabu-tashmetu-love-lyrics
+  checked:
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-20-adam-iblis
+  - quran-39-pure-religion
+  - quran-14-moses-and-messengers
+  matches:
+  - with: quran-14-moses-and-messengers
+    motif: let-the-trusters-trust
+    refs:
+    - SAA 03 014 o:1-2
+    with_refs:
+    - '14:12'
+    relation: echo
+    record:
+      agent:
+      - we (the singers)
+      - we (the messengers)
+      action:
+      - trust in Nabû
+      - put our trust in God
+      quoted:
+      - mannu ana ša takilu lū takil anīnu ana Nabû taklāni
+      - wa-mā lanā allā natawakkala ʿalā llāh ... wa-ʿalā llāhi fa-l-yatawakkali l-mutawakkilūn
+    note: 'o:1-2 man-nu ana ša takilu lū takil / anīnu ana Nabû taklāni, ''let whoever trusts (in whom he trusts) trust; we trust in Nabû''; Q 14:12 wa-mā lanā allā natawakkala ʿalā llāhi ... wa-ʿalā llāhi fa-l-yatawakkali l-mutawakkilūn (also 39:38). A two-part formula: a general ''let the trusters trust'' and a first-person plural ''we trust in our god''.'
+- unit: ane-saa03-020-elamite-affairs-fragment
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-26-moses-and-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-saa03-029-satire-on-bel-etir
+  checked:
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-7-noah
+  - quran-10-noah
+  matches: []
+- unit: ane-saa03-025-blessings-to-assurbanipal
+  checked:
+  - quran-3-sovereignty
+  - quran-2-talut-jalut
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa03-026-address-to-assurbanipal-fragment
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-23-lordship-arguments
+  matches: []
