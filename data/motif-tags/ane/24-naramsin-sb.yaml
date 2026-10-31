@@ -39,6 +39,11 @@ new_motifs:
   divine-weapon-hears-no-prayer: {label: "The god's weapon is merciless: it accepts no supplication and hears no prayer", cluster: war}
   divine-weapon-drinks-sea-melts-mountains: {label: "The god's weapon swallows the sea like gruel, melts mountains like tallow, and turns stone mountains to ashes", cluster: war}
   bow-shakes-heaven-and-netherworld: {label: "The divine bow's upper limb shakes heaven and its lower limb rouses the netherworld; its arrow is a star", cluster: war}
+  god-reverses-fortunes-of-weak-and-strong: {label: "The god lets the crawling outrun the swift, the powerless strike down the armed warrior, and the cripple fly free from battle", cluster: theology}
+  god-frees-trapped-bird-gazelle-onager: {label: "The god frees the bird tied by the fowler, the gazelle from the net and the onager from the enclosure, images of the rescued sufferer", cluster: theology}
+  god-saves-boat-without-skipper: {label: "The god sends a favourable wind to a skipperless ship swept by storm and brings it on its way", cluster: theology}
+  god-preserves-remnant: {label: "The god in the midst of destruction leaves a remnant (rēhu) and is asked to preserve a city's seed", cluster: theology}
+  learned-scribe-poor-ignorant-clerk-rich: {label: "The learned scholar earns not even chaff while an ordinary accountant set over him earns a mina of gold a day", cluster: wisdom}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -307,3 +312,28 @@ units:
       - "Compare God's bow and arrows, Hab 3:9-11; Ps 7:13-14; Lam 2:4; 3:12-13; and the bow in the cloud, Gen 9:13."
       - "Compare mountains melting like wax, Ps 97:5; Mic 1:4; and reed shaken by wind, 1 Kgs 14:15."
       - "Compare 'I will not pity nor spare', Ezek 5:11; 7:4; Lam 3:44 (a cloud so that no prayer passes)."
+  - id: ane-ninurtasavior-sb-1-savior-of-weak
+    tradition: ane-akkadian
+    title: "Ninurta who reverses fortunes and rescues the helpless (Hymn to Ninurta as Savior)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NinurtaSavior SB –:1-55"]
+    tags:
+      - {motif: god-reverses-fortunes-of-weak-and-strong, refs: ["NinurtaSavior SB –:3-10"], note: "pāšila ina mahar lāsimi tašakkan; ina daʾummati dunnamâ mahrāšu tušetteq"}
+      - {motif: race-not-to-swift, refs: ["NinurtaSavior SB –:9-10"], note: "munnarbu ... ša lā-anīhā birkāšu: the weakling outruns him"}
+      - {motif: god-gives-light-in-darkness, refs: ["NinurtaSavior SB –:15-16"], note: "ina qereb ekleti tukallamšu nūra"}
+      - {motif: god-frees-trapped-bird-gazelle-onager, refs: ["NinurtaSavior SB –:21-26"], note: "iṣṣūr ... ša kāmû ikṣuru ... ištu libbi quppi šubarrâšu tašakkan; ṣabīt ... ina gišparri; serrēm ... ṣubbutu mūṣûšu"}
+      - {motif: soul-escaped-like-bird-from-snare, refs: ["NinurtaSavior SB –:21-24"]}
+      - {motif: god-preserves-remnant, refs: ["NinurtaSavior SB –:20", "NinurtaSavior SB –:31", "NinurtaSavior SB –:53-54"], note: "ša ina naspanti īzibu rēhānī; ālka nippuru ... ezib zērašū-ma lā ihalliqa rēhu"}
+      - {motif: rivers-to-desert-desert-to-pools, refs: ["NinurtaSavior SB –:27-28"], note: "ša ina namî īpušu amma, ina ublīti kīma gatti ušqalappâ makūra (reverse direction: river in the steppe)"}
+      - {motif: god-saves-boat-without-skipper, refs: ["NinurtaSavior SB –:17-18", "NinurtaSavior SB –:34-35"], note: "eleppu ša lā malāhi ša mehû ibaʾʾūšu ... manīt mīšari tadekkâššum-ma"}
+      - {motif: god-hymn-without-you-no, refs: ["NinurtaSavior SB –:29-30", "NinurtaSavior SB –:36-37", "NinurtaSavior SB –:46-47"], note: "ela kâtu mannu mīnâ ippuš"}
+      - {motif: learned-scribe-poor-ignorant-clerk-rich, refs: ["NinurtaSavior SB –:39-45"], note: "ummânu mūdû ... tupšar bandê elīšu tašakkan-ma ūmu ištēn manâ uṣṣab urqa (text difficult)"}
+      - {motif: shepherd-duties-weak-sick-injured-strayed-lost, refs: ["NinurtaSavior SB –:19", "NinurtaSavior SB –:36"], note: "rēʾi enšūti musahhir akûti; mudannin dunnamê"}
+    hints:
+      - "Compare Eccl 9:11 (race not to the swift) and 1 Sam 2:4-8 (bows of the mighty broken, the feeble girded with strength)."
+      - "Compare Ps 124:7 (bird escaped from the fowler's snare); Ps 107:23-30 (storm-tossed sailors brought to their haven); Ps 107:35 and Isa 43:19-20 (rivers in the desert)."
+      - "Compare John 15:5 / Ps 127:1 ('apart from me you can do nothing'); Isa 1:9 (a small remnant)."
+      - "Compare Eccl 9:15-16 and 10:5-7 (the poor wise man forgotten, folly set on high)."

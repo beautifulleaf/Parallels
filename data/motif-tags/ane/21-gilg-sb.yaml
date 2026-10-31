@@ -147,6 +147,25 @@ new_motifs:
   travellers-ford-perilous-rivers: {label: "The far traveller is asked how he crossed the many rivers whose crossing is perilous", cluster: travel}
   weathered-face-of-wanderer: {label: "The wanderer's face is burnt by frost and sun, his cheeks hollow, his heart sorrowful from the long road", cluster: death}
   tree-pleasant-to-sight: {label: "A tree in the divine garden is lovely to look at and bears fruit", cluster: paradise}
+  ale-wife-at-edge-of-world: {label: "A veiled ale-wife (tavern-keeper) lives in an inn by the shore of the ocean at the edge of the world", cluster: immortality}
+  woman-bars-gate-against-stranger: {label: "Seeing the wild-looking stranger, the woman bars her gate and climbs to the roof; he threatens to break the door", cluster: travel}
+  repeated-question-why-are-your-cheeks-hollow: {label: "Each person the wanderer meets asks why his cheeks are hollow and his face burnt, and he answers with the same lament in the same words", cluster: death}
+  corpse-kept-until-maggot-falls: {label: "The mourner refused to give his friend up for burial until a maggot fell from his nostril", cluster: death}
+  friend-turned-to-clay: {label: "The beloved friend has turned to clay; shall I not lie down like him never to rise again?", cluster: death}
+  only-the-sun-crosses-the-ocean: {label: "No one but the sun god has ever crossed the ocean at the end of the world", cluster: cosmology}
+  waters-of-death: {label: "The Waters of Death lie across the ocean between the living world and the immortal's home; touching them is fatal", cluster: cosmology}
+  ferryman-to-the-immortal: {label: "A boatman with mysterious Stone Ones ferries travellers across the Waters of Death to the immortal flood hero", cluster: immortality}
+  hero-smashes-what-he-needs: {label: "In his rage the hero smashes the Stone Ones that alone could carry him, and must cut punting-poles instead", cluster: heroes}
+  punting-poles-across-waters-of-death: {label: "The hero crosses the Waters of Death using poles one by one so his hand never touches the water, then a garment as sail", cluster: immortality}
+  immortal-watches-stranger-approach: {label: "The immortal, watching from the far shore, wonders aloud who the stranger in the boat is", cluster: immortality}
+  seal-gate-of-sorrow-with-bitumen: {label: "Wish that the gate of sorrow be barred and sealed with pitch and bitumen", cluster: death}
+  sleepless-toil-brings-nothing: {label: "The hero's sleepless toil and wandering only fills his sinews with pain and brings his end nearer: what has he achieved?", cluster: wisdom}
+  fool-gets-dregs-not-throne: {label: "Saying: no one builds a palace or sets a throne in the council for a fool; he gets dregs instead of ghee, bran instead of flour, rags instead of garments", cluster: wisdom}
+  man-snapped-like-reed: {label: "Man's name (progeny) is snapped off like a reed in the canebrake; death abducts the comely youth and maiden", cluster: death}
+  no-one-sees-face-of-death: {label: "No one sees death, sees its face or hears its voice, yet savage death cuts man down", cluster: death}
+  mayfly-on-the-river: {label: "Image of human life: the mayfly floating on the flood gazes at the sun and is suddenly gone", cluster: death}
+  at-some-time-litany: {label: "Litany 'at some time we build a house, at some time we start a family, at some time brothers divide, at some time the river floods' on the transience of all things", cluster: wisdom}
+  gods-fix-death-and-life-hide-the-day: {label: "The great gods and the mother of destinies established death and life, but did not reveal the day of death", cluster: death}
 units:
   - id: ane-gilg-sb-i-prologue
     tradition: ane-akkadian
@@ -997,3 +1016,112 @@ units:
     hints:
       - "The garden of God with every precious stone, walking among stones of fire: Ezek 28:13-14; trees 'pleasant to the sight and good for food' Gen 2:9, 3:6; the gold and onyx of Havilah Gen 2:11-12."
       - "Thorns and briars replaced by crystal: compare the curse 'thorns and thistles' (Gen 3:18) reversed; the jewelled city Rev 21:18-21, Isa 54:11-12."
+
+  - id: ane-gilg-sb-x-shiduri
+    tradition: ane-akkadian
+    title: "Šiduri the ale-wife bars her gate; 'my friend has turned to clay' (Gilgameš SB X)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB X:1-71"]
+    tags:
+      - {motif: ale-wife-at-edge-of-world, refs: ["Gilg SB X:1-4"], note: "šiduri sābītu ša ina sapan tâmti ašbat ... kutummi kuttumat-ma"}
+      - {motif: mourner-wears-lion-skin-roams-wild, refs: ["Gilg SB X:6", "Gilg SB X:45"], note: "maška labiš; pān labbi šaknātā-ma tarappud ṣēra"}
+      - {motif: woman-bars-gate-against-stranger, refs: ["Gilg SB X:13-24"], note: "īmuršū-ma sābītu ītedil bābša ... ītelâ ana ūri; amahhaṣ dalta sikkūra ašebber"}
+      - {motif: repeated-question-why-are-your-cheeks-hollow, refs: ["Gilg SB X:40-52"], note: "ammēni aklā lētāti quddudū pānūka ... ina šarbi u ṣēti qummû pānūka (largely restored from X:113-118)"}
+      - {motif: weathered-face-of-wanderer, refs: ["Gilg SB X:8-9", "Gilg SB X:40-44"]}
+      - {motif: hero-laments-dead-companion, refs: ["Gilg SB X:53-58"], note: "restored: ibrī kūdanu ṭardu ...; šeššet urrī u sebe mūšāti elīšu abki"}
+      - {motif: corpse-kept-until-maggot-falls, refs: ["Gilg SB X:59-60"], note: "restored here from X:136-137, X:236-237: ul addinšu ana qebēri adi tûltu imquta ina appīšu"}
+      - {motif: body-eaten-by-worms-in-grave, refs: ["Gilg SB X:60"]}
+      - {motif: friend-turned-to-clay, refs: ["Gilg SB X:67-71"], note: "kīkī luskut kīkī luqūl; ibrī ša arammu ītemi ṭiṭṭiš; anāku ul kī šâšū-mâ anillam-ma ul atebbâ dūr dār"}
+      - {motif: dust-to-dust, refs: ["Gilg SB X:68-69"]}
+      - {motif: friends-death-brings-fear-of-own-death, refs: ["Gilg SB X:62"]}
+    hints:
+      - "Return to clay/dust and never rise: Gen 3:19, Job 10:9, 14:10-12 (man lies down and does not rise till the heavens are no more), Ps 103:14; Eccl 3:20."
+      - "Seven days of mourning: Gen 50:10, Job 2:13; the corpse and worms Isa 14:11, Job 21:26."
+      - "'How can I keep silent?': Job 7:11, Jer 4:19."
+
+  - id: ane-gilg-sb-x-waters-of-death
+    tradition: ane-akkadian
+    title: "The way across the ocean and the Waters of Death; Ur-šanabi and the Stone Ones (Gilgameš SB X)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB X:72-111"]
+    tags:
+      - {motif: hero-seeks-immortal-ancestor-for-secret-of-life, refs: ["Gilg SB X:73-77"], note: "mīnû harrānu ša ūta-napišti, mīnû ittaša"}
+      - {motif: only-the-sun-crosses-the-ocean, refs: ["Gilg SB X:79-82"], note: "ēbir tâmti šamaš qurādum-ma, balu šamaš ēbir tâmti mannu"}
+      - {motif: waters-of-death, refs: ["Gilg SB X:83-86"], note: "birâ mê mūti ša pānāssa parkū"}
+      - {motif: ferryman-to-the-immortal, refs: ["Gilg SB X:87-91"], note: "ur-šanabi malāhu ša ūta-napišti, u šūt abnī ittīšu"}
+      - {motif: god-journeys-to-underworld, refs: ["Gilg SB X:84-88"], note: "loose: an impassable water and its ferryman on the way to the other world"}
+      - {motif: hero-smashes-what-he-needs, refs: ["Gilg SB X:92-108"], note: "kīma šiltāhi ana bīrīšunu imqut ... uhtappû šūt abni ittabak ana nāri"}
+    hints:
+      - "The waters no one has crossed: Deut 30:13 ('who will cross the sea for us and bring it?'); Q 18:60-61 (Moses at the meeting of the two seas, majmaʿ al-baḥrayn) and 55:19-20 (two seas with a barrier between)."
+      - "Charon and the Styx in Greek myth."
+
+  - id: ane-gilg-sb-x-crossing
+    tradition: ane-akkadian
+    title: "Ur-šanabi's questions; three hundred punting-poles; the crossing; Ūta-napišti watches (Gilgameš SB X)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB X:112-203"]
+    tags:
+      - {motif: repeated-question-why-are-your-cheeks-hollow, refs: ["Gilg SB X:113-148"]}
+      - {motif: corpse-kept-until-maggot-falls, refs: ["Gilg SB X:136-137"], note: "restored"}
+      - {motif: friend-turned-to-clay, refs: ["Gilg SB X:145-148"], note: "ibrī ša arammu ītemi ṭiṭṭiš"}
+      - {motif: hero-smashes-what-he-needs, refs: ["Gilg SB X:156-158"], note: "qātāka gilgāmeš iklâ ... tuhtappi šūt abnī"}
+      - {motif: punting-poles-across-waters-of-death, refs: ["Gilg SB X:159-183"], note: "pārisī ša hamšat nindanā ... mê mūti qātka ay iltapit ... ina šinā šūši ugdammera parīsī ... ina kappīšu karâ ušaqqi"}
+      - {motif: journey-stages-formula, refs: ["Gilg SB X:171"], note: "mālak arhi u šapatti ina šalši ūme"}
+      - {motif: immortal-watches-stranger-approach, refs: ["Gilg SB X:184-201"], note: "ūta-napišti ana rūqi inaṭṭalaššum-ma ... ša illakam-ma ul yāʾu amēlu"}
+    hints:
+      - "Ark/boat imagery prefigured; the improvised sail of a garment: compare Jonah's sea voyage (Jonah 1)."
+
+  - id: ane-gilg-sb-x-meets-uta-napishti
+    tradition: ane-akkadian
+    title: "Gilgameš meets Ūta-napišti and tells of his toil (Gilgameš SB X)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB X:204-265"]
+    tags:
+      - {motif: hero-visits-flood-survivor, refs: ["Gilg SB X:204-210"], note: "libluṭ ūta-napišti mār ubar-tutu ... arki abūbi"}
+      - {motif: repeated-question-why-are-your-cheeks-hollow, refs: ["Gilg SB X:212-248"]}
+      - {motif: friend-turned-to-clay, refs: ["Gilg SB X:245-248"]}
+      - {motif: sleepless-toil-brings-nothing, refs: ["Gilg SB X:250-257"], note: "šitta ṭābta ul išbû pānūʾa, uštēziq ramānī ina dalāpi ... minâ aktešir ina mānahtīya"}
+      - {motif: mourner-wears-lion-skin-roams-wild, refs: ["Gilg SB X:258-261"], note: "lubuštī iqti; killed bear, hyena, lion ... šīrīšunu akkal maškīšunu uṭabbah"}
+      - {motif: seal-gate-of-sorrow-with-bitumen, refs: ["Gilg SB X:262-263"], note: "ša nissati līdilū bābša, ina kupri u ittê liphû (restored)"}
+    hints:
+      - "What profit has a man of all his toil? Eccl 1:3, 2:22-23 (his days are pain, even at night his heart does not rest); Ps 127:2."
+
+  - id: ane-gilg-sb-x-uta-napishti-on-death
+    tradition: ane-akkadian
+    title: "Ūta-napišti's discourse: the fool's lot, man snapped like a reed, the mayfly, the hidden day of death (Gilgameš SB X)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Gilg SB X:266-322"]
+    tags:
+      - {motif: hero-two-thirds-god, refs: ["Gilg SB X:268"], note: "ša ina šīr ilī u amēlūti ballāta"}
+      - {motif: fool-gets-dregs-not-throne, refs: ["Gilg SB X:270-277"], note: "matīma ana lilli īpuš ēkalla, kussâ ina puhri iddû ... nadnaššu ana lilli šuršummī ... labiš mašhanda"}
+      - {motif: poor-wise-youth-better-than-old-foolish-king, refs: ["Gilg SB X:270-277"], note: "loose: sayings on the fool's lack of counsel"}
+      - {motif: tireless-sleepless-walker, refs: ["Gilg SB X:282-284"], note: "ina mūši sîn illak, dalpū-ma ilū, ēru lā sākipu (fragmentary)"}
+      - {motif: sleepless-toil-brings-nothing, refs: ["Gilg SB X:297-300"], note: "taddalip mīnâ talqe ... rūqūti tuqarrab ūmīka"}
+      - {motif: man-snapped-like-reed, refs: ["Gilg SB X:301-303"], note: "amēlūtu ša kīma qanê api haṣpu šumšu ... išallal mūtu"}
+      - {motif: all-flesh-is-grass, refs: ["Gilg SB X:301-303"]}
+      - {motif: no-one-sees-face-of-death, refs: ["Gilg SB X:304-307"], note: "ul mamma mūta immar ... aggu mūtu hāṣip amēlūti"}
+      - {motif: at-some-time-litany, refs: ["Gilg SB X:308-312"], note: "im-matī-ma nippuša bīta, im-matī-ma niqannana qinna, im-matī-ma ahhū izuzzū"}
+      - {motif: time-for-everything, refs: ["Gilg SB X:308-312"]}
+      - {motif: mayfly-on-the-river, refs: ["Gilg SB X:312-315"], note: "kulīlu iqqeleppâ ina nāri, pānūša inaṭṭalū pān šamši, ultu ullânum-ma ul ibašši mimma"}
+      - {motif: gods-fix-death-and-life-hide-the-day, refs: ["Gilg SB X:319-322"], note: "mammītu bānât šīmti ... ištaknū mūta u balāṭa, ša mūti ul uddû ūmīšu"}
+      - {motif: no-power-over-day-of-death, refs: ["Gilg SB X:322"]}
+      - {motif: death-the-great-leveler, refs: ["Gilg SB X:316-318"], note: "šallu u mītu kī ahāmiš-ma"}
+    hints:
+      - "A time for everything: Eccl 3:1-8; transience Eccl 1:4, 9:11-12; Ps 90:5-6, 103:15-16, Isa 40:6-8, Job 14:1-2 (man flees like a shadow)."
+      - "The hidden hour of death: Eccl 8:8, 9:12; Q 31:34 (no soul knows in what land it will die), 7:34 and 16:61 (an appointed term, ajal, neither delayed nor advanced)."
+      - "Folly honoured: Prov 26:1 (honour is not fitting for a fool), Eccl 10:5-7."

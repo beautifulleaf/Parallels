@@ -148,6 +148,23 @@ new_motifs:
   salt-food-of-the-gods: {label: "Salt, created in a pure place and destined by Enlil as food of the great gods, without which no meal is set out and no incense smelled, is asked to release the bewitched", cluster: magic}
   bed-guarded-against-witch: {label: "The speaker guards himself: a watch on his roof, a protective emblem at his gate, coloured twine around his bed, asafoetida or twelve figurines at the head of his bed", cluster: magic}
   pure-mountain-piled-in-courtyard: {label: "The speaker heaps up a 'pure mountain' (of earth) in his courtyard against the witch", cluster: magic}
+  speaker-shines-like-rainbow: {label: "The speaker (whose hand is the Rainbow and the Scorpion) shines forth against the witch like the rainbow in the heavens", cluster: magic}
+  night-sleep-of-ford-and-quay-doors-locked: {label: "At night the ford, the quay and all the sailors are asleep, locks are set on door and bolt and sealed with an incantation so that sorcery cannot enter the house", cluster: magic}
+  witch-not-escape-grasp-of-god-and-king: {label: "May god, king, noble and prince glower at the witches, and may the witch not escape their grasp", cluster: magic}
+  spell-impregnates-own-body: {label: "Fertility analogy: as Šakkan impregnated his herd and the plough the earth, so the speaker casts the spell on himself to 'impregnate' his body and expel the evil", cluster: magic}
+  healing-oil-of-incantation: {label: "Pure oil that purifies the body of the gods and soothes the sinews of mankind, the oil of Ea's incantation, is rubbed on the patient to expel disease", cluster: healing}
+  immune-as-tin-and-iron: {label: "As sorcery cannot touch tin and iron (or the shining gods), so it cannot approach the speaker", cluster: magic}
+  counter-figurine-of-witch-drawn-before-sun: {label: "Sent by Ea, the speaker draws the witch's likeness before Šamaš, copying her form and features (in flour) exactly as she copied his, and binds its limbs", cluster: magic}
+  ominous-encounter-transferred: {label: "The ominous encounter (mihru) and the vengeance the witch caused are passed back to her; a female substitute or chance comer is to take it over", cluster: magic}
+  substitute-figurine-bears-sin: {label: "The washing water from the speaker's body and hands carries the evil onto a substitute figurine (ṣalam nigsagilê) which bears his sin in his place; street and way undo his sins", cluster: magic}
+  day-month-year-blessing: {label: "Blessing formula: may the day bring well-being, the month joy, the year its prosperity", cluster: blessing}
+  witch-hunts-young-men-and-women: {label: "The witch, 'huntress of huntresses', casts her net in the streets and roams the squares seeking the young men and women of the city", cluster: magic}
+  witch-mouth-filled-with-earth-tongue-gagged: {label: "May the witch's evil mouth be filled with earth and her evil tongue bound with a gag", cluster: curse}
+  ritual-washing-transfers-all-evils: {label: "The speaker washes his hands and body in pure Eridu spring water, removing every evil: bad dreams, signs, portents, bad entrails, demons, illness, curses and witchcraft", cluster: magic}
+  evil-dreams-and-omens-washed-away: {label: "The evil consequences of bad dreams, signs and portents and of ominous entrails seen in extispicy are washed away", cluster: divination}
+  earth-receives-my-sin: {label: "'Rise up, morning, wash my hands; open up, earth, and receive my sin'", cluster: magic}
+  cleansed-by-the-rising-sun: {label: "At dawn the doors open and the traveller sets out; the speaker is cleansed by the rising of the sun and the night's sorcery turns back on the witch", cluster: magic}
+  bad-dream-made-favourable: {label: "Prayer at dawn: may the dream I dreamt be made favourable, may a good beginning begin for me, may I attain whatever I seek", cluster: divination}
 units:
   # ================= Maqlû Tablet I =================
   - id: ane-maqlu-sb-i-gods-of-night
@@ -1185,7 +1202,8 @@ units:
       - {motif: daughters-of-anu-descend-by-rope, refs: ["Maqlu SB VI:87"]}
       - {motif: sorcery-returned-on-the-sorcerer, refs: ["Maqlu SB VI:88-89"]}
       - {motif: rise-like-fish-from-water, refs: ["Maqlu SB VI:90-94"]}
-      - {motif: witch-defiles-heaven-and-binds-gods, refs: ["Maqlu SB VI:95-97"], note: "'you of the Baliḫ' who shook out your hair at me are told to hide in the ground (interpretive grouping)"}
+    hints:
+      - "VI:95-97 ('Ha, you of the Baliḫ ... hide in the ground, you who shook out your hair at me') is obscure; compare Isa 2:10, 19 (go into the rocks, hide in the dust)."
   - id: ane-maqlu-sb-vi-river-is-my-head
     tradition: ane-akkadian
     title: "Maqlû VI 98-105: 'River is my head, Sulphur my physique'"
@@ -1294,3 +1312,208 @@ units:
       - {motif: witch-roams-streets-and-enters-houses, refs: ["Maqlu SB VI:152-153"]}
       - {motif: bed-guarded-against-witch, refs: ["Maqlu SB VI:154-155"]}
       - {motif: pure-mountain-piled-in-courtyard, refs: ["Maqlu SB VI:156"], note: "partly restored [ina tarbaṣīy]a; rest of the column broken (l. 157)"}
+  # ================= Maqlû Tablet VII =================
+  - id: ane-maqlu-sb-vii-my-hand-is-the-rainbow
+    tradition: ane-akkadian
+    title: "Maqlû VII 1-21: 'My hand is the Rainbow, the Scorpion' — the ford and quay asleep, locks on the door"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:1-21"]
+    tags:
+      - {motif: speaker-shines-like-rainbow, refs: ["Maqlu SB VII:1", "Maqlu SB VII:3"], note: "anappahkim-ma kīma manzât ina šamê"}
+      - {motif: body-parts-identified-with-gods, refs: ["Maqlu SB VII:1"], note: "rittī manzât zuqaqīpi"}
+      - {motif: witch-cloud-scattered-by-north-wind, refs: ["Maqlu SB VII:2-6"]}
+      - {motif: sorcery-before-moon-and-stars, refs: ["Maqlu SB VII:7"], note: "našparāt zikurudâ"}
+      - {motif: night-sleep-of-ford-and-quay-doors-locked, refs: ["Maqlu SB VII:8-13"], note: "ṣalil nēberu ṣalil kāru; eli dalti u sikkūri nadû hargullū"}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VII:15"]}
+      - {motif: witch-not-escape-grasp-of-god-and-king, refs: ["Maqlu SB VII:16-17"]}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB VII:18-19"]}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VII:21"]}
+    hints:
+      - "Compare Gen 9:13-16 (the bow in the cloud) and Ezek 1:28 for the rainbow; Ps 121:4 (the keeper of Israel neither slumbers nor sleeps) against the sleeping ford."
+      - "Compare Neh 7:3 and Song 5:5 (bolts on the door) for VII:10."
+  - id: ane-maqlu-sb-vii-i-impregnate-my-self
+    tradition: ane-akkadian
+    title: "Maqlû VII 22-28: 'I am impregnating you, my self, my body' — as Šakkan his herd, the plough the earth"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:22-28"]
+    tags:
+      - {motif: spell-impregnates-own-body, refs: ["Maqlu SB VII:22-27"], note: "epinnu erṣeta irhû erṣetu imhuru zēraša"}
+      - {motif: begone-from-my-body-litany, refs: ["Maqlu SB VII:27-28"], note: "lišēṣi lumna ... kišpī ša zumrīya lissuhū"}
+    hints:
+      - "Compare Isa 55:10-11 (as the rain makes the earth bring forth, so my word shall not return empty) for the analogy of seed and word."
+  - id: ane-maqlu-sb-vii-pure-oil
+    tradition: ane-akkadian
+    title: "Maqlû VII 29-46: 'Pure oil, clear oil, bright oil' — anointing to soothe the sinews"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:29-46"]
+    tags:
+      - {motif: healing-oil-of-incantation, refs: ["Maqlu SB VII:29-39"], note: "šamnu mullil zumri ša ilī šamnu mupašših šerʾāni ša amēlūti; apšuška šaman balāṭi"}
+      - {motif: named-demons-beset-mankind, refs: ["Maqlu SB VII:37"], note: "Asakku expelled"}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["Maqlu SB VII:45"]}
+      - {motif: seven-spirits-of-wisdom, refs: ["Maqlu SB VII:46"]}
+    hints:
+      - "Compare Jas 5:14 and Mark 6:13 (anointing the sick with oil) and Isa 1:6 (wounds not softened with oil); Ps 133:2 (precious oil)."
+  - id: ane-maqlu-sb-vii-enlil-my-head-sirius-my-form
+    tradition: ane-akkadian
+    title: "Maqlû VII 47-54: 'Enlil is my head, Sirius my form' — as tin and iron, sorcery cannot approach"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:47-54"]
+    tags:
+      - {motif: body-parts-identified-with-gods, refs: ["Maqlu SB VII:47-50"], note: "pūtī šamaš naphu; šēpāya lahmu mukabbis šīr lahme"}
+      - {motif: immune-as-tin-and-iron, refs: ["Maqlu SB VII:51-54"], note: "metal words uncertain (annaku? parzillu?)"}
+    hints:
+      - "Compare Jer 1:18 (an iron pillar and bronze walls against the land) and Ezek 3:8-9 (forehead hard as diamond)."
+  - id: ane-maqlu-sb-vii-counter-figurine-substitute
+    tradition: ane-akkadian
+    title: "Maqlû VII 55-79: 'Whoever you are, O witch, who has made a figurine of me' — I draw your likeness before Šamaš; the substitute bears my sin"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:55-79a"]
+    tags:
+      - {motif: witch-makes-victims-figurine, refs: ["Maqlu SB VII:55-61"], note: "iṭṭulu lānī ibnû lamassī ... umaššilu bunnannîya"}
+      - {motif: exorcist-sent-by-god, refs: ["Maqlu SB VII:62"], note: "ea mašmaš ilī umaʾʾirannī"}
+      - {motif: counter-figurine-of-witch-drawn-before-sun, refs: ["Maqlu SB VII:63-68"], note: "ina mahar šamaš ṣalamki ēṣir ... ina nissaba elleti"}
+      - {motif: sorcery-returned-on-the-sorcerer, refs: ["Maqlu SB VII:69-71"], note: "gimil tagmilīnni utīr agmilki"}
+      - {motif: ominous-encounter-transferred, refs: ["Maqlu SB VII:70", "Maqlu SB VII:79-79a"]}
+      - {motif: catalogue-of-kinds-of-witchcraft, refs: ["Maqlu SB VII:72-76"]}
+      - {motif: substitute-figurine-bears-sin, refs: ["Maqlu SB VII:77-77d"], note: "ll. 77a-h restored from the parallel VII:130-140: ṣalam nigsagilê arnī dinānī lizbil"}
+      - {motif: day-month-year-blessing, refs: ["Maqlu SB VII:77e"], note: "restored"}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VII:78"]}
+    hints:
+      - "Compare Lev 16:21-22 (the goat bears their iniquities) and Isa 53:4-6, 12 (he bore the sin of many) for the substitute bearing sin."
+      - "Compare Deut 32:35, 41 (I will render vengeance to my adversaries) for gimillu returned."
+  - id: ane-maqlu-sb-vii-huntress-of-huntresses
+    tradition: ane-akkadian
+    title: "Maqlû VII 80-100: 'Huntress of huntresses, witch of witches, whose net is cast in the streets'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:80-100"]
+    tags:
+      - {motif: witch-hunts-young-men-and-women, refs: ["Maqlu SB VII:80-87"], note: "bāʾirtu ša bāʾirāti ... ša ina sūqāti nadât šēssa"}
+      - {motif: women-soul-hunters-with-bands, refs: ["Maqlu SB VII:80-85"], note: "the witch as huntress (bāʾirtu) with a net seeking persons"}
+      - {motif: witch-roams-streets-and-enters-houses, refs: ["Maqlu SB VII:82-83"]}
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB VII:88-95"], note: "kurgarrû, eššebû, naršindû, mušlahhū, agugillū set against her"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VII:88-95"], note: "refrain rikiski aheppe"}
+      - {motif: gods-tear-out-witchs-tongue-erase-name, refs: ["Maqlu SB VII:96-97"], note: "here the speaker himself: amahhaṣ lētki ašallapa lišānki"}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VII:100"]}
+    hints:
+      - "Compare Ezek 13:18-21 (women who hunt souls with bands; I will tear them from your arms) and Prov 6:26 (the adulteress hunts for the precious life); Prov 7:12."
+  - id: ane-maqlu-sb-vii-mouth-full-of-earth
+    tradition: ane-akkadian
+    title: "Maqlû VII 101-113: 'Your sorcery ... Ea undoes'; 'Your tightly knotted knots' — may your mouth be full of earth"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:101-113"]
+    tags:
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VII:103", "Maqlu SB VII:110"], note: "upaṭṭir-ma mê uštābil (var. ušābil šāra)"}
+      - {motif: women-blowing-on-knots, refs: ["Maqlu SB VII:107"], note: "kiṣrīki kuṣṣurūti: your tightly knotted knots"}
+      - {motif: witch-mouth-filled-with-earth-tongue-gagged, refs: ["Maqlu SB VII:104-105", "Maqlu SB VII:111-112"], note: "pûki lemnu epera limla"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB VII:106", "Maqlu SB VII:113"], note: "Enbilulu, lord of life"}
+    hints:
+      - "Compare Q 113:4 (blowers on knots); Ps 63:12 (the mouth of liars shall be stopped), Ps 72:9 and Mic 7:17 (lick the dust)."
+  - id: ane-maqlu-sb-vii-i-wash-my-hands
+    tradition: ane-akkadian
+    title: "Maqlû VII 114-140: 'I wash my hands, I cleanse my body in pure Eridu spring water' — bad dreams, entrails and curses onto the substitute"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:114-140h"]
+    tags:
+      - {motif: ritual-washing-transfers-all-evils, refs: ["Maqlu SB VII:114-117", "Maqlu SB VII:130"], note: "amsi qātīya ubbiba zumrī ina mê nagbi ellūti ša ina eridu ibbanû"}
+      - {motif: evil-dreams-and-omens-washed-away, refs: ["Maqlu SB VII:118-122"]}
+      - {motif: named-demons-beset-mankind, refs: ["Maqlu SB VII:123"]}
+      - {motif: sufferer-cannot-eat-or-drink, refs: ["Maqlu SB VII:124-127"], note: "illness, headache, sleeplessness, woe and alas, terror (a list of distresses rather than of food)"}
+      - {motif: ominous-encounter-transferred, refs: ["Maqlu SB VII:134-135"]}
+      - {motif: substitute-figurine-bears-sin, refs: ["Maqlu SB VII:131-133"]}
+      - {motif: day-month-year-blessing, refs: ["Maqlu SB VII:136"]}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VII:138-140"], note: "māmītu littaṣi ša zumrīya"}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VII:140c-140g"], note: "ašhuṭ (uncertain) mimma lemnu ... ana muhhīki: I strip off every evil of my body onto you; fragmentary"}
+    hints:
+      - "Compare Ps 26:6 and Ps 73:13 (I wash my hands in innocence), Deut 21:6-8 (elders wash hands over the heifer), Matt 27:24."
+      - "Compare Lev 16:21-22 and Lev 14:4-7 (the living bird released carries off impurity) for the substitute."
+  - id: ane-maqlu-sb-vii-rise-morning-open-earth
+    tradition: ane-akkadian
+    title: "Maqlû VII 141-144: 'Rise up, morning, wash my hands; open up, earth, receive my sin'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:141-144"]
+    tags:
+      - {motif: earth-receives-my-sin, refs: ["Maqlu SB VII:141-142", "Maqlu SB VII:144"], note: "pite qaqqaru muhur arnīya"}
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB VII:143"], note: "eššebû usalliʾanni: the ecstatic sprinkled me"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Maqlu SB VII:144"], note: "šamaš piširta lībilam"}
+    hints:
+      - "Compare Gen 4:11 (the earth opened its mouth to receive your brother's blood) and Num 16:32; Ps 51:4 (wash me from my iniquity)."
+  - id: ane-maqlu-sb-vii-dawn-has-broken
+    tradition: ane-akkadian
+    title: "Maqlû VII 145-152: 'Dawn has broken, doors are opened' — cleansed by the rising sun"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:145-152"]
+    tags:
+      - {motif: cleansed-by-the-rising-sun, refs: ["Maqlu SB VII:145-147", "Maqlu SB VII:150"], note: "ūtallil ina napāh šamši"}
+      - {motif: adversary-catalogue-male-and-female, refs: ["Maqlu SB VII:148-149"]}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VII:151-152"]}
+    hints:
+      - "Compare Ps 30:6 (weeping lodges at evening, joy comes in the morning), Ps 46:6 (God helps her at break of dawn) and Mal 3:20 (sun of righteousness with healing in its wings)."
+  - id: ane-maqlu-sb-vii-morning-palil-at-door
+    tradition: ane-akkadian
+    title: "Maqlû VII 153-161: 'It is morning, yea morning' — Pālil at my door, Lugaledina at my bed's head"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:153-161"]
+    tags:
+      - {motif: cleansed-by-the-rising-sun, refs: ["Maqlu SB VII:153-155"], note: "the witches rose playing their niʾu-instrument like musicians"}
+      - {motif: guardian-gods-posted-at-door, refs: ["Maqlu SB VII:156-159"]}
+      - {motif: bed-guarded-against-witch, refs: ["Maqlu SB VII:157"]}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VII:160-161"]}
+  - id: ane-maqlu-sb-vii-at-dawn-hands-washed
+    tradition: ane-akkadian
+    title: "Maqlû VII 162-169: 'At dawn my hands are washed' — may the dream I dreamt be made favourable"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:162-169"]
+    tags:
+      - {motif: ritual-washing-transfers-all-evils, refs: ["Maqlu SB VII:162"]}
+      - {motif: bad-dream-made-favourable, refs: ["Maqlu SB VII:163-166"], note: "[šu]tti āmuru ana damiqti liššakna"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB VII:169"]}
+    hints:
+      - "Compare Gen 41:25-32 and Dan 2 (dream interpreted) and the later rabbinic prayer for a dream to be turned to good (b. Ber. 55b) on Deut 23:6 (God turned the curse into a blessing)."
+  - id: ane-maqlu-sb-vii-flood-foam-wash-mouth
+    tradition: ane-akkadian
+    title: "Maqlû VII 170-179: 'I wash my mouth ... with the foam of the flood waters' — catchline to Tablet VIII"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VII:170-179"]
+    tags:
+      - {motif: ritual-washing-transfers-all-evils, refs: ["Maqlu SB VII:170-173"], note: "hurhummat mê mīli rašubbat nāri"}
+      - {motif: impossibility-analogy-chaff-cannot-be-twined, refs: ["Maqlu SB VII:174-177"], note: "as sorcery cannot approach these waters, so it shall not approach me"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Maqlu SB VII:178"], note: "catchline: adi tappuha uqâka bēlī šamaš"}
