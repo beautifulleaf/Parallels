@@ -1,5 +1,6 @@
 # ANE x Quran side-by-side pass, chunk 8 (ETCSL 2.5.1.2 - 5.7.a, Adapa, Advice to a Prince, Angim, Anzu). Judged blind, from the originals.
 new_motifs:
+  sufferer-afflicted-by-a-demon-and-relieved-by-god: {label: An innocent sufferer's affliction is the touch of a demon, and his god hears and removes it, cluster: theology}
   no-one-sinless-from-the-womb: {label: 'No human is sinless from birth: the claim of purity is refused with reference to the mother''s womb', cluster: theology}
   in-plenty-forgets-god-in-trouble-prays: {label: A man in plenty neglects his god and calls on him only when affliction comes, cluster: ethics}
   record-of-deeds-at-judgment: {label: A written record (tablet, book) of a person's deeds decides his judgment, cluster: judgment}
@@ -487,8 +488,21 @@ reviewed:
           outcome: ["the sufferer asks to be shown his sin", "God knows best who is God-fearing"]
         note: "Both tie the denial of human sinlessness to the mother's womb: the sages' saying 'never has a sinless child been born to its mother; no sinless workman has existed from of old' against 'he knows you best ... when you were embryos in your mothers' bellies, so do not claim purity for yourselves'. 53:32 adds God's wide forgiveness (wāsiʿ al-maghfira) and the exception of small faults (al-lamam)."
   - unit: ane-etcsl-5-2-4-d-restoration
-    checked: [quran-13-signs-of-creation, quran-40-throne-bearers, quran-43-zukhruf-abraham-and-silver-roofs, quran-6-poor-keys-of-unseen]
-    matches: []
+    checked: [quran-13-signs-of-creation, quran-40-throne-bearers, quran-43-zukhruf-abraham-and-silver-roofs, quran-6-poor-keys-of-unseen, quran-38-job]
+    matches:
+      - with: quran-38-job
+        motif: sufferer-afflicted-by-a-demon-and-relieved-by-god
+        refs: ["ETCSL 5.2.4 120", "ETCSL 5.2.4 125", "ETCSL 5.2.4 129", "ETCSL 5.2.4 130"]
+        with_refs: ["38:41", "38:42", "38:43"]
+        relation: divergence
+        record:
+          agent: ["the young man's god", "God"]
+          action: ["hears his weeping and tears the demon out of his body", "answers his call and gives him a spring to wash and drink"]
+          recipient: ["a righteous young man", "Ayyūb"]
+          object: ["Namtar lodged in his body and his toil (du-lum)", "the touch of al-shayṭān with toil (nuṣb) and torment"]
+          quoted: ["nam-tar-ra su-a-na mu-un-ŋal2-la bu3 mu-na-an-ak / ŋuruš-a du-lum-ma-ni hul2-la mu-ni-in-kur9", "annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb / urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb"]
+          outcome: ["good spirits set to guard him", "his family given back and as many again"]
+        note: "The innocent sufferer's affliction is a demonic presence and a 'toil': Namtar 'lodged in his body' is torn out and his du-lum 'toil' is turned to joy; Ayyūb says 'Satan has touched me with nuṣb (toil) and torment'. The cure differs: the god sets a good udug and lamma to guard him; God gives Ayyūb a cool spring to wash in and drink and restores his household (ahlahu wa-mithlahum maʿahum)."
   - unit: ane-etcsl-5-6-6-old-man-young-girl
     checked: [quran-19-zechariah-and-john, quran-4-creation-kinship-orphans, quran-4-marriage-forbidden-degrees, quran-4-women-orphans-justice]
     matches:
