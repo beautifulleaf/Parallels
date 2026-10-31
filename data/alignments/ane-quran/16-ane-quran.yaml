@@ -1,0 +1,1040 @@
+# ANE x Quran side-by-side pass, chunk 16 (GKAB Sultantepe and Uruk tablets; Nabonidus 2001). Judged blind, from the originals.
+new_motifs:
+  mother-commits-child-to-god-s-keeping: {label: "A mother commits her child to her god's keeping, against sin or against the evil one", cluster: family}
+  defeated-foe-kept-as-a-sign-for-posterity: {label: "The defeated enemy's form (image or body) is kept as a sign (Akk. ittu, Ar. āya) for those who come after", cluster: judgment}
+  wind-carries-good-tidings: {label: "The wind carries good news (Akk. bussurtu, Ar. bushr, mubashshirāt)", cluster: nature}
+  king-s-letter-demands-submission: {label: "A king's letter to another ruler, opening with the sender's name, demands submission and threatens to march on his cities", cluster: kingship}
+  god-gives-an-heir-to-the-childless: {label: "The deity gives an heir (son) to a man who has none", cluster: family}
+  short-measure-given-full-measure-taken: {label: "Giving with the small measure and taking with the large: short weight to others, full weight for oneself", cluster: law}
+  withholding-known-testimony: {label: "Knowing the matter and not speaking: withholding testimony as a sin", cluster: law}
+  bribing-the-judge: {label: "Making the judge take a bribe to win a case", cluster: law}
+  hands-washed-before-prayer: {label: "Hands must be washed before they are raised in prayer or before prayer", cluster: ritual}
+  evil-plot-recoils-on-its-author: {label: "The evil plot or sorcery turns back upon its own author", cluster: wisdom}
+  adversary-becomes-a-friend: {label: "The adversary is reconciled and becomes a friend; who spoke evil speaks good", cluster: wisdom}
+  liability-for-another-s-guilt: {label: "Whether one person's guilt (a parent's, another's) comes upon someone else", cluster: theology}
+  power-by-which-the-dead-are-revived: {label: "By whose power a healer revives the dead and heals the sick", cluster: deity}
+  the-dead-and-clay-or-dust: {label: "The dead man and his turning into clay or dust", cluster: death}
+  bird-omen-attached-to-a-person: {label: "Augury: a bird's flight or alighting is an omen bound to a person", cluster: magic}
+  do-not-look-back-when-leaving: {label: "Not looking back when leaving behind the doomed place or the banished evil", cluster: ritual}
+  hostile-being-ordered-out: {label: "A hostile spirit is commanded 'go out' of the dwelling", cluster: magic}
+  stairway-between-the-realms: {label: "A stairway or ascending ways join the realms; divine messengers go up by them", cluster: cosmos}
+  relenting-and-merciful-epithet-pair: {label: "The paired divine epithet 'relenting (who turns back) and merciful' (Akk. tayyāru u rēmēnû, Ar. al-tawwāb al-raḥīm)", cluster: deity}
+  good-name-asked-of-the-deity: {label: "The petitioner asks the deity to set truth on his tongue so that he is well spoken of", cluster: wisdom}
+  declaration-of-belonging-to-god: {label: "In affliction the person declares 'I belong to (the god)'", cluster: ritual}
+  wiping-away-evil-kuppuru-kaffara: {label: "Evil or sin is 'wiped away' (Akk. kuppuru, Ar. kaffara ʿan)", cluster: ritual}
+  reconciling-estranged-spouses: {label: "How a man and woman who have become estranged are brought together again", cluster: family}
+reviewed:
+  - unit: ane-nabonidus-2001-ii-iii-104-years-and-kispu
+    checked: [quran-3-imran-mary-zechariah, quran-19-mary-and-jesus, quran-66-tahrim-wives-and-the-four-women, quran-13-signs-of-creation]
+    matches:
+      - with: quran-3-imran-mary-zechariah
+        motif: mother-commits-child-to-god-s-keeping
+        refs: ["Nabonidus 2001 ii:36", "Nabonidus 2001 ii:37", "Nabonidus 2001 ii:39", "Nabonidus 2001 ii:40"]
+        with_refs: ["3:35", "3:36"]
+        relation: echo
+        record:
+          agent: [the mother (Adad-guppi), the mother (wife of ʿImrān)]
+          action: [commits her child to her god's keeping, commits her child to God's keeping]
+          object: [her son Nabonidus, her daughter Mary and her offspring]
+          recipient: [Sîn, God]
+          quoted: ["mārī ana Sîn bēliya apqid ... ina qāti hīṭi ... eṭiršu", "innī uʿīdhuhā bika wa-dhurriyyatahā mina sh-shayṭāni r-rajīm"]
+          outcome: [kept from sin against the god, kept from the accursed Satan]
+        note: "Adad-guppi: mārī ana Sîn bēliya apqid adi balṭu lā ihaṭṭakka ... ina qāti hīṭi ša ilūtika rabīti eṭiršu (I entrusted my son to Sîn my lord; while he lives may he not sin against you; save him from guilt); ʿImrān's wife: nadhartu laka mā fī baṭnī muḥarraran ... innī uʿīdhuhā bika wa-dhurriyyatahā. The same act by a mother; the danger named differs: sin against the god vs. the accursed Satan."
+      - with: quran-13-signs-of-creation
+        motif: guardian-beings-flank-a-person
+        refs: ["Nabonidus 2001 ii:37", "Nabonidus 2001 ii:38"]
+        with_refs: ["13:11"]
+        relation: echo
+        record:
+          agent: [the god, God]
+          action: [assigns protective spirits to a person, assigns guardians to a person]
+          object: [the good šēdu and lamassu, muʿaqqibāt]
+          quoted: ["šēdu dumqi lamassu dumqi ša ittiya tapqiduma", "lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāh"]
+          outcome: [they bring her to old age, they guard him by God's command]
+        note: "Adad-guppi: the good šēdu and lamassu 'you entrusted (paqādu) to me' brought her to old age, and she asks Sîn to entrust them to her son; 13:11: each has followers before and behind who guard him min amri llāh. The ANE spirits are named lesser deities; the Quranic guardians act by God's command."
+  - unit: ane-nabonidus-2001-iii-death-and-mourning
+    checked: [quran-36-trumpet-and-judgment, quran-23-death-barzakh-judgment, quran-89-dawn]
+    matches: []
+  - unit: ane-gkab-p273162-gilg-8-lament-for-enkidu
+    checked: [quran-12-joseph-full, quran-100-chargers, quran-2-the-cow]
+    matches: []
+  - unit: ane-gkab-p273163-gilg-7-enkidu-door-and-curse
+    checked: [quran-22-signs-and-rites, quran-71-noah, quran-79-pharaoh-and-cosmos, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: no-one-changes-the-spoken-word
+        refs: ["GKAB P273163 r:5", "GKAB P273163 r:6", "GKAB P273163 r:7"]
+        with_refs: ["50:29"]
+        relation: echo
+        record:
+          agent: [Enlil, God]
+          object: [what Enlil said, the word with God]
+          action: [is not turned back or erased, is not changed]
+          quoted: ["ša Ellil iqbû ... ul itur ul ipšiṭ", "mā yubaddalu l-qawlu ladayya"]
+        note: "Gilg VII: [ša] Ellil iqbû ... ul itur ul ipšiṭ (what Enlil said does not turn back, is not erased), said of the decree of Enkidu's death; 50:29: mā yubaddalu l-qawlu ladayya wa-mā ana bi-ẓallāmin li-l-ʿabīd, said of the sentence on the Day. The same formula of the unalterable divine word."
+  - unit: ane-gkab-p273200-gilg-1-prologue
+    checked: [quran-23-noah, quran-11-noah, quran-12-joseph-full, quran-18-dhul-qarnayn, quran-18-moses-and-the-servant]
+    matches:
+      - with: quran-18-dhul-qarnayn
+        motif: traveller-reaches-sunrise-and-sunset-places
+        refs: ["GKAB P273200 o.i:22'"]
+        with_refs: ["18:90"]
+        relation: echo
+        record:
+          agent: [Gilgameš, Dhū l-Qarnayn]
+          action: [travels to the sun's rising, reaches the sun's rising]
+          place: [beyond the wide sea at the sunrise, the rising-place of the sun]
+          quoted: ["ēbir ayabba tâmati rapašti adi ṣīt šamši", "ḥattā idhā balagha maṭliʿa sh-shamsi"]
+        note: "Gilg I: ēbir ayabba tâmati rapašti adi ṣīt šamši (who crossed the wide sea as far as the sun's rising); 18:90: ḥattā idhā balagha maṭliʿa sh-shamsi wajadahā taṭluʿu ʿalā qawmin. ṣīt šamši and maṭliʿ al-shams both name the place where the sun comes out. Gilgameš goes there seeking life; Dhū l-Qarnayn finds a people without shelter from the sun."
+      - with: quran-18-dhul-qarnayn
+        motif: barrier-between-two-mountains-against-invaders
+        refs: ["GKAB P273200 o.i:20'", "GKAB P273200 o.i:21'"]
+        with_refs: ["18:93", "18:95", "18:96"]
+        relation: divergence
+        record:
+          agent: [Gilgameš, Dhū l-Qarnayn]
+          place: [the mountains, between the two mountain walls]
+          action: [opens the passes of the mountains, closes the gap between the mountains]
+          quoted: ["pētû nērebēti ša huršāni", "ajʿal baynakum wa-baynahum radmā ... sāwā bayna ṣ-ṣadafayn"]
+        note: "The far-travelling king at the mountains: Gilgameš is pētû nērebēti ša huršāni, hērû būri ša kišād šadî (opener of the mountain passes, digger of wells on the mountain slope); Dhū l-Qarnayn reaches bayna s-saddayn and fills the gap with iron and molten copper (radm, sāwā bayna ṣ-ṣadafayn). One opens the mountain ways, the other seals them."
+      - with: quran-18-moses-and-the-servant
+        motif: sage-dwells-where-the-waters-meet
+        refs: ["GKAB P273200 o.i:22'", "GKAB P273200 o.i:23'", "GKAB P273200 o.i:24'"]
+        with_refs: ["18:60"]
+        relation: echo
+        record:
+          agent: [Gilgameš, Moses]
+          action: [journeys to a distant sage, journeys to a distant servant of God]
+          place: [across the wide sea, the meeting place of the two seas]
+          name: [Uta-napišti the distant, "ʿabd min ʿibādinā (18:65)"]
+          quoted: ["mušteʾʾû balāṭi ... ana Uta-napišti rūqi", "lā abraḥu ḥattā ablugha majmaʿa l-baḥrayni aw amḍiya ḥuqubā"]
+        note: "Gilg I: ēbir ayabba ... mušteʾʾû balāṭi kāšid dannūssu ana Uta-napišti rūqi (crossed the sea, seeking life, reached by his strength Uta-napišti the distant); 18:60: Moses will not stop until he reaches majmaʿ al-baḥrayn or travels for ages. The quest across the sea to a far sage is shared; Gilgameš seeks life, Moses seeks knowledge (18:66)."
+  - unit: ane-gkab-p273248-gilg-3-ninsun-prayer
+    checked: [quran-13-signs-of-creation, quran-17-polemic-and-resurrection, quran-31-luqman]
+    matches: []
+  - unit: ane-gkab-p273249-gilg-2-enkidu-and-elders
+    checked: [quran-2-talut-jalut, quran-21-noah-david-solomon, quran-17-iblis-and-adam]
+    matches: []
+  - unit: ane-gkab-p273250-gilg-1-shamhat-and-uruk
+    checked: [quran-15-iblis, quran-7-adam-iblis, quran-17-iblis-and-adam, quran-11-noah]
+    matches: []
+  - unit: ane-gkab-p296523-anu-akitu-procession
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-79-pharaoh-and-cosmos, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p338317-ee-1-apsu-plot-and-marduk-birth
+    checked: [quran-17-polemic-and-resurrection, quran-73-enwrapped, quran-35-originator, quran-2-throne-verse]
+    matches:
+      - with: quran-2-throne-verse
+        motif: whether-the-deity-sleeps
+        refs: ["GKAB P338317 o:22'", "GKAB P338317 o:24'", "GKAB P338317 o:25'"]
+        with_refs: ["2:255"]
+        relation: divergence
+        record:
+          agent: [Ea, null]
+          action: [puts the primeval god to sleep with a spell, null]
+          object: [Apsû, God]
+          quoted: ["ušaṣlilma Apsâ rehi", "lā taʾkhuduhu sinatun wa-lā nawm"]
+          outcome: [Apsû is bound and killed while asleep, no slumber or sleep takes him]
+        note: "Enūma eliš I: Ea makes a spell (tû), ušaṣlilma Apsâ rehi (he made Apsû lie in sleep, drenched [with it]) and kills him; the plot itself began because Apsû could not sleep for the gods' noise. 2:255: al-ḥayy al-qayyūm lā taʾkhuduhu sinatun wa-lā nawm. A god overcome by sleep against one whom sleep never takes."
+  - unit: ane-gkab-p338321-ee-4-battle-with-tiamat
+    checked: [quran-21-cosmic-signs-and-scales, quran-35-originator, quran-25-signs-shadow-seas, quran-13-signs-of-creation, quran-57-hadid-iron-and-monasticism]
+    matches:
+      - with: quran-21-cosmic-signs-and-scales
+        motif: heaven-and-earth-separated-at-the-beginning
+        refs: ["GKAB P338321 r:37'", "GKAB P338321 r:38'", "GKAB P338321 r:39'", "GKAB P338321 r:40'"]
+        with_refs: ["21:30"]
+        relation: divergence
+        record:
+          agent: [Marduk, God]
+          action: [splits in two to make the heavens, splits apart]
+          object: [the corpse of Tiāmat, heaven and earth that were one mass (ratq)]
+          quoted: ["šalamtaš ibarri ... mašṭê ana šinišu ... šamāmī uṣṣallil", "kānatā ratqan fa-fataqnāhumā"]
+        note: "Enūma eliš IV: Marduk looks at her corpse (šalamtaš ibarri), splits her in two like a fish for drying (mešṭû ana šinišu) and roofs the heavens with one half; 21:30: anna s-samāwāti wa-l-arḍa kānatā ratqan fa-fataqnāhumā. The same act, splitting one mass into sky and earth; what is split is a slain enemy in EE, an undivided closed mass (ratq) in the Quran."
+      - with: quran-25-signs-shadow-seas
+        motif: wind-carries-good-tidings
+        refs: ["GKAB P338321 r:34'", "GKAB P338321 r:35'"]
+        with_refs: ["25:48"]
+        relation: divergence
+        record:
+          agent: [the wind, God]
+          action: [carries good news, sends the winds as good news]
+          object: [Tiāmat's blood, rain (God's mercy)]
+          quoted: ["ana bussurāti uštabil", "arsala r-riyāḥa bushran bayna yaday raḥmatihi"]
+          outcome: [the fathers rejoice at the victory, pure water comes down]
+        note: "Enūma eliš IV: (the north wind) ana bussurāti uštabil, carried her blood as good news, and the fathers rejoiced (ihdû irīšu); 25:48: arsala r-riyāḥa bushran bayna yaday raḥmatihi. bussurtu and bushr are the same Semitic root b-s/š-r, both borne by the wind; the tidings are of a slain enemy in EE, of coming rain in the Quran."
+      - with: quran-57-hadid-iron-and-monasticism
+        motif: destinies-written-in-advance
+        refs: ["GKAB P338321 r:23'", "GKAB P338321 r:24'"]
+        with_refs: ["57:22"]
+        relation: divergence
+        record:
+          object: [the tablet of destinies, a book (kitāb)]
+          action: [seized from Qingu and sealed to Marduk's breast, holds every calamity before creation]
+          quoted: ["ṭuppi šīmāti lā simatišu ... iknukamma irtuš itmuh", "illā fī kitābin min qabli an nabraʾahā"]
+          outcome: [the fates pass to whoever holds the tablet, nothing befalls that is not written beforehand]
+        note: "Enūma eliš IV: Marduk takes from Qingu ṭuppi šīmāti lā simatišu (the tablet of destinies, not his by right), seals it and fastens it to his breast; 57:22: mā aṣāba min muṣībatin ... illā fī kitābin min qabli an nabraʾahā. A written record of fates in both; in EE it is an object that can be stolen and recaptured, in 57:22 a book fixed before creation."
+  - unit: ane-gkab-ee-4-duplicates
+    checked: [quran-35-originator, quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos, quran-21-cosmic-signs-and-scales]
+    matches:
+      - with: quran-21-cosmic-signs-and-scales
+        motif: heaven-and-earth-separated-at-the-beginning
+        refs: ["GKAB P338324 r:15'", "GKAB P338324 r:16'", "GKAB P338324 r:17'", "GKAB P338324 r:18'"]
+        with_refs: ["21:30"]
+        relation: divergence
+        record:
+          agent: [the lord (Marduk), God]
+          action: [divides in two and roofs the sky, splits apart]
+          object: [the corpse of Tiāmat, heaven and earth that were one mass (ratq)]
+          quoted: ["šalamtaš ibarri ... uzaʾʾaza ... mašṭê ana šinišu ... uṣṣallil", "kānatā ratqan fa-fataqnāhumā"]
+        note: "Sultantepe duplicate: inūhma bēlu šalamtaš ibarri ... uzaʾʾaza ... mašṭê ana šinišu ... uṣṣallil (the lord rested, looked at her corpse, divided [her] in two like a drying fish, roofed [the sky]); 21:30 fatq of the ratq. Same split into heaven and earth; a slain monster against a closed undivided mass."
+  - unit: ane-gkab-p338328-ee-5-cosmos-and-babylon
+    checked: [quran-23-lordship-arguments, quran-27-is-there-a-god-with-god, quran-25-signs-shadow-seas, quran-10-moses-pharaoh, quran-21-cosmic-signs-and-scales]
+    matches:
+      - with: quran-10-moses-pharaoh
+        motif: defeated-foe-kept-as-a-sign-for-posterity
+        refs: ["GKAB P338328 o:22'", "GKAB P338328 o:23'"]
+        with_refs: ["10:92"]
+        relation: divergence
+        record:
+          agent: [Marduk, God]
+          object: [images of Tiāmat's eleven creatures, Pharaoh's body]
+          action: [sets them at the gate of the Apsû as a sign, preserves it as a sign]
+          recipient: [the gods who see it, those who come after]
+          quoted: ["ibnima ṣalmīšunu ... ahrâtaš lā immaša šī lū ittu", "nunajjīka bi-badanika li-takūna li-man khalfaka āyatan"]
+        note: "Enūma eliš V: Marduk makes images (ṣalmū) of the defeated monsters at the gate of the Apsû: ahrâtaš lā immaša šī lū ittu (let it be a sign never to be forgotten); 10:92: fa-l-yawma nunajjīka bi-badanika li-takūna li-man khalfaka āyatan. Akk. ittu and Ar. āya are cognate words for 'sign'. A made image of the enemy against the enemy's own body."
+      - with: quran-21-cosmic-signs-and-scales
+        motif: heaven-and-earth-separated-at-the-beginning
+        refs: ["GKAB P338328 o:11'", "GKAB P338328 o:12'"]
+        with_refs: ["21:30"]
+        relation: divergence
+        record:
+          agent: [Marduk, God]
+          object: [Tiāmat's body, heaven and earth that were one mass (ratq)]
+          action: [fixes the heavens with one part and roofs the earth, splits apart]
+          quoted: ["hallaša retât šamāmī uṣṣallila erṣeti uktinna", "kānatā ratqan fa-fataqnāhumā"]
+        note: "Enūma eliš V: hallaša retât šamāmī uṣṣallila erṣeti uktinna (her thigh fixed the heavens, he roofed and established the earth): heaven and earth made from the two parts of one body; 21:30 heaven and earth split from one closed mass."
+  - unit: ane-gkab-p338325-ee-6-humanity-and-esagil
+    checked: [quran-7-names-and-hour, quran-23-lordship-arguments, quran-2-throne-verse, quran-57-hadid-first-and-last-and-the-loan, quran-51-dhariyat-flee-to-god]
+    matches:
+      - with: quran-51-dhariyat-flee-to-god
+        motif: why-humans-were-created
+        refs: ["GKAB P338325 o:2'", "GKAB P338325 r:40", "GKAB P338325 r:41"]
+        with_refs: ["51:56", "51:57"]
+        relation: divergence
+        record:
+          agent: [Marduk, God]
+          action: [creates humankind, creates jinn and humankind]
+          outcome: [humans bear the gods' toil and the gods rest, they are to worship; God wants no provision or food from them]
+          quoted: ["amēlūta īmid dulli ilīma ilī umtaššir ... dulli ilī īmidma šunu ippašhu", "wa-mā khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūn"]
+        note: "Enūma eliš VI: amēlūta īmid dulli ilīma ilī umtaššir (he imposed the gods' toil on humankind and set the gods free), nišī ... dulli ilī īmidma šunu ippašhu (they rested); 51:56-57: illā li-yaʿbudūn, mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūn. The purpose of creating humans, with the provision of the gods denied outright."
+      - with: quran-7-names-and-hour
+        motif: the-names-of-the-god-and-who-gives-them
+        refs: ["GKAB P338325 r:13", "GKAB P338325 r:14"]
+        with_refs: ["7:180"]
+        relation: divergence
+        record:
+          agent: [the gods (Anšar), God]
+          object: [the names of Marduk, the most beautiful names]
+          action: [proclaim his fifty names, the names belong to God; call him by them]
+          number: [50, null]
+          quoted: ["inimbima hamšā šumēšu", "wa-li-llāhi l-asmāʾu l-ḥusnā fa-dʿūhu bihā"]
+        note: "Enūma eliš VI: Anšar names him Asalluhi, and the gods say inimbima hamšā šumēšu (let us name his fifty names), conferring them one by one; 7:180: wa-li-llāhi l-asmāʾu l-ḥusnā fa-dʿūhu bihā wa-dharū lladhīna yulḥidūna fī asmāʾih. A god's set of names: bestowed by an assembly and counted, or God's own and uncounted."
+  - unit: ane-gkab-p338331-ee-6-fragment
+    checked: [quran-17-polemic-and-resurrection, quran-21-against-other-gods, quran-19-resurrection-and-the-son]
+    matches: []
+  - unit: ane-gkab-p338327-ee-7-names-of-marduk
+    checked: [quran-31-signs-and-unseen, quran-23-lordship-arguments, quran-2-throne-verse, quran-27-is-there-a-god-with-god]
+    matches:
+      - with: quran-31-signs-and-unseen
+        motif: hidden-time-or-place-of-death
+        refs: ["GKAB P338327 r:19", "GKAB P338327 r:20"]
+        with_refs: ["31:34"]
+        relation: echo
+        record:
+          object: [the reckoning of the days of the black-headed, the Hour and where each soul dies]
+          action: [known to no god but him, known to God alone]
+          quoted: ["ela šâšu ṭēmi ūmēšina lā iyadda ilu mamman", "inna llāha ʿindahu ʿilmu s-sāʿati ... wa-mā tadrī nafsun bi-ayyi arḍin tamūt"]
+        note: "Enūma eliš VII: of the black-headed (ṣalmāt qaqqadi, r:19), ela šâšu ṭēmi ūmēšina lā iyadda ilu mamman (apart from him no god knows the reckoning of their days); 31:34: ʿilm al-sāʿa is with God, and no soul knows in what land it will die. The span of human days is knowledge held by the one god; in EE it is withheld from the other gods, in the Quran from every soul."
+  - unit: ane-gkab-p338334-erra-2
+    checked: [quran-79-pharaoh-and-cosmos, quran-43-zukhruf-abraham-and-silver-roofs, quran-3-sovereignty]
+    matches: []
+  - unit: ane-gkab-anzu-2-battle
+    checked: [quran-13-signs-of-creation, quran-25-signs-shadow-seas, quran-35-originator]
+    matches: []
+  - unit: ane-gkab-anzu-3-victory
+    checked: [quran-3-badr-uhud, quran-79-pharaoh-and-cosmos, quran-73-enwrapped, quran-25-signs-shadow-seas]
+    matches:
+      - with: quran-25-signs-shadow-seas
+        motif: wind-carries-good-tidings
+        refs: ["GKAB P338340 r:6", "GKAB P338340 r:7", "GKAB P338340 r:9"]
+        with_refs: ["25:48"]
+        relation: divergence
+        record:
+          agent: [the north wind, God]
+          action: [carries good news, sends the winds as good news]
+          object: [the slain Anzû's feathers, rain (God's mercy)]
+          quoted: ["ištānu ... bussurte Anzî", "arsala r-riyāḥa bushran bayna yaday raḥmatihi"]
+          outcome: [Enlil learns of the victory, pure water comes down]
+        note: "Anzû III: ana ištāni ... bussurte Anzî ina hamutte (to the north wind ... the good news of Anzû, in haste), the wind bearing the slain bird's feathers to Enlil; 25:48: arsala r-riyāḥa bushran. The same root b-s/š-r carried by the wind; victory news in Anzû, the herald of rain in the Quran. Lines partly broken."
+  - unit: ane-gkab-p338344-ludlul-4
+    checked: [quran-23-death-barzakh-judgment, quran-6-poor-keys-of-unseen, quran-39-death-and-sleep]
+    matches: []
+  - unit: ane-gkab-p338345-ne-i-kakka-to-the-underworld
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-81-folding-up, quran-6-slaughter-chest-jinn, quran-15-iblis, quran-23-death-barzakh-judgment]
+    matches:
+      - with: quran-15-iblis
+        motif: seven-gates-of-the-netherworld
+        refs: ["GKAB P338345 o.i:34'", "GKAB P338345 o.i:41'", "GKAB P338345 o.i:42'"]
+        with_refs: ["15:44"]
+        relation: parallel
+        record:
+          place: [the netherworld, Gehenna]
+          object: [gates, gates]
+          number: [7, 7]
+          quoted: ["pitânni bāba ... 7 bābu ušēriba", "lahā sabʿatu abwābin"]
+          outcome: [the envoy is let in gate by gate, each gate has its allotted portion]
+        note: "Nergal and Ereškigal: pitânni bāba (open the gate for me) ... 6 bābu ... 7 bābu ušēriba ilu Kakka (through the sixth, the seventh gate he let Kakka in); 15:44: lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm. Seven gates of the realm below in both; in the Quran each gate has its assigned share of the damned."
+      - with: quran-23-death-barzakh-judgment
+        motif: the-dead-cannot-return
+        refs: ["GKAB P338345 o.i:47'", "GKAB P338345 o.i:48'", "GKAB P338345 o.i:49'", "GKAB P338345 o.i:50'"]
+        with_refs: ["23:99", "23:100"]
+        relation: echo
+        record:
+          place: [the netherworld, behind the dead]
+          action: [cannot come up to the world above, cannot go back]
+          quoted: ["attīma ul ša elî ... nīnuma ul ša arādi", "rabbi rjiʿūni ... kallā ... wa-min warāʾihim barzakhun"]
+        note: "Anu's message to Ereškigal: attīma ul ša elî ina šattiki ul telî ... nīnuma ul ša arādi (you cannot come up, not even in your year; we cannot go down): the realms of the dead and the living are sealed off; 23:99-100: the dying man asks rabbi rjiʿūni, is told kallā, and behind them is a barzakh until the day they are raised."
+  - unit: ane-gkab-p338345-ne-ii-iii-ea-instructs-nergal
+    checked: [quran-15-iblis, quran-38-adam-iblis, quran-78-the-tiding, quran-44-dukhan-zaqqum-and-garden]
+    matches:
+      - with: quran-44-dukhan-zaqqum-and-garden
+        motif: food-and-drink-of-the-netherworld
+        refs: ["GKAB P338345 o.iii:1", "GKAB P338345 o.iii:2", "GKAB P338345 o.iii:3"]
+        with_refs: ["44:43", "44:44"]
+        relation: divergence
+        record:
+          agent: [the dead in the house of no return, the sinner (al-athīm)]
+          object: [clay, the tree of zaqqūm]
+          action: [eat it as their bread, eat it as their food]
+          quoted: ["bubūssina akalšina ṭiṭṭi", "inna shajarata z-zaqqūmi ṭaʿāmu l-athīm"]
+        note: "Nergal and Ereškigal: [house] ša lā tayyārat ... zummû nūra ... bubūssina akalšina ṭiṭṭi (deprived of light, their food is clay), the common lot of all the dead; 44:43-44: inna shajarata z-zaqqūmi ṭaʿāmu l-athīm, the food of the sinner only. Clay against the zaqqūm tree, all the dead against the sinner."
+  - unit: ane-gkab-p338345-ne-r-i-ii-lovers-and-namtars-mission
+    checked: [quran-16-daughters-and-the-bee, quran-50-qaf-two-recorders-and-hell-asks-more, quran-35-originator, quran-70-ascending-stairways]
+    matches:
+      - with: quran-70-ascending-stairways
+        motif: stairway-between-the-realms
+        refs: ["GKAB P338345 r.ii:16", "GKAB P338345 r.ii:47"]
+        with_refs: ["70:3", "70:4"]
+        relation: echo
+        record:
+          agent: [Namtar (the queen's messenger), the angels and the spirit]
+          action: [goes up the stairway of heaven, ascend by the stairways]
+          instrument: [the long stairway of heaven, the ascending ways (maʿārij)]
+          quoted: ["elâ Namtar arkat simmilat šamāmī", "dhī l-maʿāriji taʿruju l-malāʾikatu wa-r-rūḥu ilayhi"]
+        note: "Nergal and Ereškigal: elâ Namtar arkat simmilat šamāmī (Namtar went up the long stairway of heaven), twice; 70:3-4: God dhū l-maʿārij, by which taʿruju l-malāʾikatu wa-r-rūḥu ilayhi in a day of fifty thousand years. A stairway joins the realms and divine messengers climb it; Namtar goes from the underworld to the gods' assembly, the angels go up to God."
+  - unit: ane-gkab-p338345-ne-r-iii-nergal-returns
+    checked: [quran-78-the-tiding, quran-15-iblis, quran-35-originator]
+    matches:
+      - with: quran-15-iblis
+        motif: seven-gates-of-the-netherworld
+        refs: ["GKAB P338345 r.iii:22", "GKAB P338345 r.iii:30"]
+        with_refs: ["15:44"]
+        relation: parallel
+        record:
+          place: [the netherworld, Gehenna]
+          object: [gates, gates]
+          number: [7, 7]
+          quoted: ["atû pitânni bāba", "lahā sabʿatu abwābin"]
+          outcome: [Nergal storms them one by one, each gate has its allotted portion]
+        note: "Nergal returns: atû pitânni bāba (gatekeeper, open the gate!), and gate after gate bāba ilulšuma ana tērubti ul iddin (he knocked down the gatekeeper and let none stop his entry), the seven gates of the earlier columns; 15:44 lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm."
+  - unit: ane-gkab-p338349-o-ludlul-god-abandons
+    checked: [quran-5-two-sons-of-adam, quran-3-badr-uhud, quran-3-sovereignty]
+    matches: []
+  - unit: ane-gkab-p338349-r-ludlul-social-death
+    checked: [quran-12-joseph-full, quran-5-two-sons-of-adam, quran-93-94-forenoon-and-expansion]
+    matches: []
+  - unit: ane-gkab-p338356-poor-man-of-nippur
+    checked: [quran-36-people-of-the-town, quran-74-cloaked, quran-19-zechariah-and-john]
+    matches: []
+  - unit: ane-gkab-p338358-gilgamesh-letter
+    checked: [quran-7-moses-pharaoh, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians, quran-27-solomon-ants-hoopoe-sheba]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: king-s-letter-demands-submission
+        refs: ["GKAB P338358 r:11", "GKAB P338358 r:12", "GKAB P338358 r:13"]
+        with_refs: ["27:31", "27:34", "27:37"]
+        relation: parallel
+        record:
+          agent: [Gilgameš, Solomon]
+          action: [threatens by letter to send an army on the ruler's cities, threatens to come with armies and expel them]
+          recipient: [a foreign king, the queen of Sheba]
+          quoted: ["ašapparakkam-ma ālānīka imarraq ēkallātīka imaššaʾ ... ina libbi ušab", "la-naʾtiyannahum bi-junūdin lā qibala lahum bihā wa-la-nukhrijannahum minhā adhillatan"]
+          outcome: [he will crush the cities and dwell in them, they will be driven out humbled]
+        note: "Gilgameš Letter: if the king does not comply, ašapparakkam-ma ālānīka imarraq ēkallātīka imaššaʾ kirâtīka ... Gilgameš ina libbi ušab (I will send and he will crush your cities, plunder your palaces, [cut] your gardens; Gilgameš will dwell there); 27:37: la-naʾtiyannahum bi-junūdin lā qibala lahum bihā wa-la-nukhrijannahum minhā adhillatan, with the queen's own warning 27:34 inna l-mulūka idhā dakhalū qaryatan afsadūhā."
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: foreign-ruler-s-gifts-to-a-king
+        refs: ["GKAB P338358 o:2'", "GKAB P338358 o:3'"]
+        with_refs: ["27:35", "27:36"]
+        relation: divergence
+        record:
+          agent: [Gilgameš, Solomon]
+          object: ["horses, asses, gold and precious stones", the queen's gift (hadiyya)]
+          action: [demands the wealth by letter, refuses the wealth sent]
+          quoted: ["ašpurakkam-ma ... ūmu ṭuppī šuāti tāmuru", "a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum"]
+        note: "Gilgameš Letter: Enkidu ibrīya ... ašpurakkam-ma ... ūmu ṭuppī šuāti tāmuru (the day you see this tablet), then the demand for thousands of horses, asses, gold and stones; 27:35-36: the queen sends a hadiyya and Solomon answers a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum. The king's letter brings wealth in both; one king demands it, the other refuses it."
+  - unit: ane-gkab-p338359-gilgamesh-letter-duplicate
+    checked: [quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-62-jumua-unlettered-donkey-and-friday, quran-27-solomon-ants-hoopoe-sheba]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: king-s-letter-demands-submission
+        refs: ["GKAB P338359 o:1", "GKAB P338359 o:2", "GKAB P338359 o:3"]
+        with_refs: ["27:29", "27:30", "27:31"]
+        relation: divergence
+        record:
+          agent: [Gilgameš, Solomon]
+          action: [opens his letter with his own name and divine pedigree, opens his letter with his name and the name of God]
+          recipient: [a king of the lands, the queen of Sheba and her council]
+          name: [binût Anu (creation of Anu), bismi llāhi r-raḥmāni r-raḥīm]
+          quoted: ["ana ... umma Gilgameš binût Anu", "innahu min sulaymāna wa-innahu bismi llāhi r-raḥmāni r-raḥīm"]
+        note: "Second copy: ana [X] umma Gilgameš binût Anu (to X, thus says Gilgameš, creation of Anu), before whom kings kiss the dais; 27:29-31: a kitāb karīm, innahu min sulaymāna wa-innahu bismi llāhi r-raḥmāni r-raḥīm allā taʿlū ʿalayya waʾtūnī muslimīn. The same letter form (sender named at the head, then the demand); the sender's warrant changes from his own descent from Anu to the name of God."
+  - unit: ane-gkab-p338373-shuila-colophon
+    checked: [quran-84-splitting, quran-36-ya-sin-opening, quran-2-debt-contract]
+    matches: []
+  - unit: ane-gkab-p338378-shuila-shamash
+    checked: [quran-13-signs-of-creation, quran-39-mercy-and-last-day, quran-50-qaf-two-recorders-and-hell-asks-more, quran-19-zechariah-and-john]
+    matches:
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: guardian-beings-flank-a-person
+        refs: ["GKAB P338378 r:14", "GKAB P338378 r:15"]
+        with_refs: ["50:17"]
+        relation: echo
+        record:
+          agent: [Truth and Justice; a safe-keeping god, the two receivers]
+          place: [at my right and at my left, at the right and at the left]
+          action: [stand beside the person, sit beside the person]
+          number: [2, 2]
+          quoted: ["Kittu lizziz ina imittiya Mīšaru izziz ina šumēliya", "ʿani l-yamīni wa-ʿani sh-shimāli qaʿīd"]
+          outcome: [they protect the suppliant, they record his words]
+        note: "Šuʾila to Šamaš: Kittu lizziz ina imittiya Mīšaru izziz ina šumēliya, littallak ilu mušallimu ina idiya (Truth at my right, Justice at my left, a safe-keeping god at my side); 50:17: idh yatalaqqā l-mutalaqqiyāni ʿani l-yamīni wa-ʿani sh-shimāli qaʿīd. Two beings at a person's right and left; personified virtues who guard, against angels who record."
+      - with: quran-19-zechariah-and-john
+        motif: god-gives-an-heir-to-the-childless
+        refs: ["GKAB P338378 o:10", "GKAB P338378 o:11"]
+        with_refs: ["19:5", "19:6", "19:7"]
+        relation: echo
+        record:
+          agent: [Šamaš, God]
+          action: [gives an heir, gives an heir]
+          recipient: [the man who is impotent, Zechariah whose wife is barren]
+          object: [an heir (aplu), a son who will inherit (waliyy yarithunī)]
+          quoted: ["ana lā išari tanamdin apla", "fa-hab lī min ladunka waliyyan yarithunī"]
+        note: "Šuʾila to Šamaš: eṭla ēda tappâ tušarši ana lā išari tanamdin apla (you give the lone man a companion, to the impotent man an heir); 19:5-7: Zechariah, his wife ʿāqir, asks fa-hab lī min ladunka waliyyan yarithunī and is given Yaḥyā. A hymn's general claim against one man's answered prayer."
+  - unit: ane-gkab-p338379-shuila-shamash-aplutu
+    checked: [quran-6-poor-keys-of-unseen, quran-3-sovereignty, quran-13-signs-of-creation, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: guardian-beings-flank-a-person
+        refs: ["GKAB P338379 r:9", "GKAB P338379 r:10", "GKAB P338379 r:11"]
+        with_refs: ["50:17"]
+        relation: echo
+        record:
+          agent: [Truth and a second power; a safe-keeping god, the two receivers]
+          action: [stand beside the person, sit beside the person]
+          number: [2, 2]
+          quoted: ["Kittu lizziz ... lizziz ... littallak ilu mušallim", "ʿani l-yamīni wa-ʿani sh-shimāli qaʿīd"]
+        note: "Second copy, damaged: Kittu lizziz [ina imittiya] ... lizziz ... littallak ilu mušallim[u ina idiya]; the sides are lost here but preserved in the first copy (STT 1 60 r:14). 50:17 the two receivers at right and left."
+  - unit: ane-gkab-p338385-shuila-ea
+    checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-3-sovereignty, quran-35-originator]
+    matches: []
+  - unit: ane-gkab-p338401-shurpu-4-colophon
+    checked: [quran-84-splitting, quran-36-ya-sin-opening, quran-2-debt-contract]
+    matches: []
+  - unit: ane-gkab-p338429-dream-ritual-lump-of-earth
+    checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-27-is-there-a-god-with-god, quran-35-originator]
+    matches: []
+  - unit: ane-gkab-p338442-shuila-shamash-fragment
+    checked: [quran-24-light-verse, quran-20-closing-exhortation, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-gkab-p338452-shuila-marduk
+    checked: [quran-74-cloaked, quran-58-mujadila-zihar-and-secret-counsel, quran-6-deliverance-trumpet]
+    matches: []
+  - unit: ane-gkab-p338462-shurpu-4-fragment
+    checked: [quran-22-disputers-and-waverers, quran-2-charity, quran-26-abraham]
+    matches: []
+  - unit: ane-gkab-p338492-udug-hul-namtar-and-substitute
+    checked: [quran-74-cloaked, quran-44-dukhan-zaqqum-and-garden, quran-6-poor-keys-of-unseen, quran-36-people-of-the-town, quran-23-death-barzakh-judgment]
+    matches:
+      - with: quran-36-people-of-the-town
+        motif: bird-omen-attached-to-a-person
+        refs: ["GKAB P338492 17", "GKAB P338492 18", "GKAB P338492 19", "GKAB P338492 20"]
+        with_refs: ["36:18", "36:19"]
+        relation: divergence
+        record:
+          agent: [the exorcist, the townspeople]
+          action: [releases a dove and reads its flight as an omen, draw an evil omen from the messengers]
+          object: [the bird of heaven, the omen (ṭāʾir)]
+          quoted: ["iṣṣūr šamê summatu šamê muššir-ma šumma ana ṣīt šamši ittapriš", "innā taṭayyarnā bikum ... ṭāʾirukum maʿakum"]
+          outcome: [the bird's direction decides the sick man's case, the messengers say your omen is with you]
+        note: "Udug-hul: iṣṣūr šamê summatu šamê muššir-ma / šumma ana ṣīt šamši ittapriš ana pān ereb šamši lā ittapriš (release the bird of heaven, the dove: if it flies to the sunrise and not to the sunset ...); 36:18-19: the town says innā taṭayyarnā bikum and the messengers answer ṭāʾirukum maʿakum. Augury from a bird's flight is practised in the ritual and turned back on the augurers in the Quran (Ar. ṭāʾir 'bird' = 'omen')."
+      - with: quran-23-death-barzakh-judgment
+        motif: the-dead-cannot-return
+        refs: ["GKAB P338492 1", "GKAB P338492 2"]
+        with_refs: ["23:99", "23:100"]
+        relation: echo
+        record:
+          place: [the land of no return, behind the dead (barzakh)]
+          quoted: ["kur nu-gi4-gi4 = erṣeti lā târi", "rabbi rjiʿūni ... kallā ... wa-min warāʾihim barzakhun"]
+          action: [no one returns from it, the dead man's plea to return is refused]
+        note: "Udug-hul: Namtar utukku rabû ša qabri erṣeti lā târi (Sum. kur nu-gi4-gi4), the land of no return; 23:99-100: rabbi rjiʿūni ... kallā ... wa-min warāʾihim barzakhun ilā yawmi yubʿathūn. The name of the netherworld states as a fact what the Quran stages as a refused request."
+  - unit: ane-gkab-p338499-ninurta-return-to-nippur
+    checked: [quran-9-bargain-abraham, quran-19-mary-and-jesus, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-gkab-p338550-namburbi-ominous-entrails
+    checked: [quran-15-abraham-guests-lot, quran-11-lot, quran-41-steadfast-and-repel-evil, quran-74-cloaked]
+    matches:
+      - with: quran-11-lot
+        motif: do-not-look-back-when-leaving
+        refs: ["GKAB P338550 r:25'", "GKAB P338550 r:26'"]
+        with_refs: ["11:81"]
+        relation: divergence
+        record:
+          agent: [the client, Lot's household]
+          action: [does not look behind him, none of them is to look back]
+          object: [the evil sent away, the doomed town]
+          quoted: ["annâm iqabbī-ma ana arkišu ul ippallas", "wa-lā yaltafit minkum aḥadun illā mraʾataka"]
+        note: "Namburbi: the evil is told ana ašrišu ai itūr (not to return to its place), then annâm iqabbī-ma ana arkišu ul ippallas (he says this and does not look behind him); 11:81: fa-asri bi-ahlika bi-qiṭʿin mina l-layli wa-lā yaltafit minkum aḥadun illā mraʾatak. A ritual rule after banishing evil against a command for leaving a doomed town; the Quran names one who fails it."
+      - with: quran-15-abraham-guests-lot
+        motif: do-not-look-back-when-leaving
+        refs: ["GKAB P338550 r:26'"]
+        with_refs: ["15:65"]
+        relation: divergence
+        record:
+          agent: [the client, Lot's household]
+          action: [does not look behind him, none of them is to look back]
+          quoted: ["ana arkišu ul ippallas", "wa-lā yaltafit minkum aḥadun wa-mḍū ḥaythu tuʾmarūn"]
+        note: "Namburbi: ana arkišu ul ippallas; 15:65: wa-ttabiʿ adbārahum wa-lā yaltafit minkum aḥadun wa-mḍū ḥaythu tuʾmarūn. The same rule of not looking back at what is left behind."
+  - unit: ane-gkab-p338554-namburbi-hole-birds
+    checked: [quran-112-114-unity-and-refuge, quran-16-blessings-of-creation, quran-13-signs-of-creation, quran-36-people-of-the-town, quran-17-book-of-deeds]
+    matches:
+      - with: quran-36-people-of-the-town
+        motif: bird-omen-attached-to-a-person
+        refs: ["GKAB P338554 o:1", "GKAB P338554 o:2", "GKAB P338554 o:3"]
+        with_refs: ["36:18", "36:19"]
+        relation: divergence
+        record:
+          object: [hole-birds that alight on a man, the omen (ṭāʾir) drawn from the messengers]
+          action: [their evil is undone by a namburbi, the omen is declared to be the people's own]
+          quoted: ["iṣṣūr hurri ... ina muhhi awīli innendū ... namburbi lumun iṣṣūr hurri", "innā taṭayyarnā bikum ... ṭāʾirukum maʿakum"]
+        note: "Namburbi: iṣṣūr hurri iṣṣūr hurri eli awīli izzizzū ... ina muhhi awīli innendū (hole-birds stood, alighted on a man), the evil to be dissolved by ritual; 36:18-19: taṭayyarnā bikum, answered ṭāʾirukum maʿakum. The bird as an evil omen on a person, ritually removed in one text, thrown back as the people's own deeds in the other."
+      - with: quran-17-book-of-deeds
+        motif: bird-omen-attached-to-a-person
+        refs: ["GKAB P338554 o:1", "GKAB P338554 o:2"]
+        with_refs: ["17:13"]
+        relation: divergence
+        record:
+          object: [birds that land upon a man, each man's bird (ṭāʾir)]
+          place: [on the man, on his neck]
+          action: [alight and bring evil, is fastened to him by God]
+          quoted: ["ina muhhi awīli innendū", "wa-kulla insānin alzamnāhu ṭāʾirahu fī ʿunuqihi"]
+          outcome: [removed by the namburbi, brought out as his book on the Day]
+        note: "Namburbi: the hole-birds ina muhhi awīli innendū (alighted upon the man); 17:13: kulla insānin alzamnāhu ṭāʾirahu fī ʿunuqihi wa-nukhriju lahu yawma l-qiyāmati kitāban. The ominous bird sits on the person in both; the Quran makes it his own fixed record, not something to wash away."
+  - unit: ane-gkab-p338555-namburbi-birds-bilingual
+    checked: [quran-100-chargers, quran-17-prayer-spirit-and-challenge, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-gkab-p338557-bed-wetting-ninmah
+    checked: [quran-16-daughters-and-the-bee, quran-17-polemic-and-resurrection, quran-19-mary-and-jesus]
+    matches: []
+  - unit: ane-gkab-p338564-dream-ritual-clod
+    checked: [quran-74-cloaked, quran-77-sent-forth, quran-75-resurrection]
+    matches: []
+  - unit: ane-gkab-p338578-namburbi-dog
+    checked: [quran-6-poor-keys-of-unseen, quran-39-pure-religion, quran-3-sovereignty]
+    matches: []
+  - unit: ane-gkab-p338598-oi-shaziga-amulets
+    checked: [quran-4-prayer-intoxication-purity, quran-2-the-cow, quran-23-creation-of-man-and-gifts]
+    matches: []
+  - unit: ane-gkab-p338598-oii-shaziga-ishtar-dumuzi
+    checked: [quran-74-cloaked, quran-50-qaf-two-recorders-and-hell-asks-more, quran-53-najm-goddesses-and-scrolls]
+    matches: []
+  - unit: ane-gkab-p338598-ri-shaziga-nanaya
+    checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-76-the-human, quran-7-moses-pharaoh]
+    matches:
+      - with: quran-112-114-unity-and-refuge
+        motif: women-who-bind-knots-in-sorcery
+        refs: ["GKAB P338598 r.i:39", "GKAB P338598 r.i:40", "GKAB P338598 r.i:41"]
+        with_refs: ["113:4"]
+        relation: divergence
+        record:
+          agent: [the exorcist, the women who blow on knots]
+          action: [ties knots in wool with an incantation, blow on knots]
+          object: [seven and seven knots, knots (ʿuqad)]
+          quoted: ["7 u 7 kiṣrī tarakkas ... šiptu ina muhhi", "wa-min sharri n-naffāthāti fī l-ʿuqad"]
+          outcome: [part of a potency rite, refuge is sought from it]
+        note: "Ša-zi-ga: šīpāti peṣâti šīpāti sāmāti taṭawwi ... 7 u 7 kiṣrī tarakkas ... šiptu ina muhhi (you spin white and red wool, tie seven and seven knots, [recite] the incantation over it); 113:4: wa-min sharri n-naffāthāti fī l-ʿuqad. Knots worked with spoken spells: here the healer's own procedure, in the Quran the sorcery one seeks refuge from."
+  - unit: ane-gkab-p338598-rii-shaziga-wind-garden
+    checked: [quran-76-the-human, quran-54-qamar-ad-thamud-lot-pharaoh, quran-83-defrauders]
+    matches: []
+  - unit: ane-gkab-p338675-tammuz-elegies
+    checked: [quran-19-mary-and-jesus, quran-36-trumpet-and-judgment, quran-68-qalam-companions-of-the-garden]
+    matches: []
+  - unit: ane-gkab-p348422-nergal-and-ereshkigal
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-40-throne-bearers, quran-35-originator, quran-15-iblis]
+    matches:
+      - with: quran-15-iblis
+        motif: seven-gates-of-the-netherworld
+        refs: ["GKAB P348422 o.iii:13'", "GKAB P348422 o.iii:14'", "GKAB P348422 r.i:1", "GKAB P348422 r.i:2"]
+        with_refs: ["15:44"]
+        relation: parallel
+        record:
+          place: [the netherworld, Gehenna]
+          object: [named gates, gates]
+          number: [7, 7]
+          quoted: ["1 bābu ša Bidu ... 6 bābu ša Endukuga ina erēbišu", "lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm"]
+        note: "Uruk copy: the gates numbered and named as Nergal enters, ištēn bābu ša Bidu, 2 bābu ša Enkišar, šalšu bābu ša Endašurimma, 4 Nerulla, 5 Nerubanda, 6 Endukuga (and the seventh, Ennugigi); 15:44 seven gates, each with its portion."
+  - unit: ane-gkab-p348424-uruk-prophecy
+    checked: [quran-7-moses-pharaoh, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-gkab-p348425-adapa-and-enmerkar
+    checked: [quran-27-solomon-ants-hoopoe-sheba, quran-2-talut-jalut, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-gkab-p348427-namburbi-catalogue
+    checked: [quran-74-cloaked, quran-2-war-pilgrimage, quran-54-qamar-moon-split-and-noah]
+    matches: []
+  - unit: ane-gkab-p348430-shaziga-figurines
+    checked: [quran-7-adam-iblis, quran-4-prayer-intoxication-purity, quran-75-resurrection]
+    matches: []
+  - unit: ane-gkab-p348431-shaziga-who-took-my-desire
+    checked: [quran-56-waqia-three-classes-and-the-garden, quran-2-wine-marriage, quran-5-contracts-food-laws]
+    matches: []
+  - unit: ane-gkab-p348432-against-angry-gods
+    checked: [quran-16-daughters-and-the-bee, quran-74-cloaked, quran-66-tahrim-wives-and-the-four-women]
+    matches: []
+  - unit: ane-gkab-p348434-ushburruda-rainbow-witch
+    checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-74-cloaked, quran-93-94-forenoon-and-expansion]
+    matches: []
+  - unit: ane-gkab-p348436-ushburruda-stones
+    checked: [quran-36-ya-sin-opening, quran-83-defrauders, quran-82-cleaving]
+    matches: []
+  - unit: ane-gkab-p348437-namburbi-bilingual-fragment
+    checked: [quran-25-servants-of-the-merciful, quran-9-hypocrites-vow, quran-29-trial-of-believers]
+    matches: []
+  - unit: ane-gkab-p348438-bleeding-teeth
+    checked: [quran-38-sad-opening, quran-2-abrogation-polemic, quran-36-ya-sin-opening]
+    matches: []
+  - unit: ane-gkab-p348439-incantation-fragment
+    checked: [quran-2-abrogation-polemic, quran-3-imran-mary-zechariah, quran-66-tahrim-wives-and-the-four-women]
+    matches: []
+  - unit: ane-gkab-p348440-ushburruda-burning
+    checked: [quran-23-creation-of-man-and-gifts, quran-44-dukhan-zaqqum-and-garden, quran-16-daughters-and-the-bee]
+    matches: []
+  - unit: ane-gkab-p348590-mushshuu-sinews
+    checked: [quran-36-ya-sin-opening, quran-86-night-comer, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p348609-house-exorcism-bilingual
+    checked: [quran-37-ranks-and-guarded-heaven, quran-15-iblis, quran-77-sent-forth]
+    matches: []
+  - unit: ane-gkab-p348616-shuila-marduk-gashri
+    checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-1-fatiha, quran-74-cloaked, quran-26-abraham]
+    matches:
+      - with: quran-26-abraham
+        motif: good-name-asked-of-the-deity
+        refs: ["GKAB P348616 flake:16'", "GKAB P348616 flake:17'", "GKAB P348616 flake:18'"]
+        with_refs: ["26:84"]
+        relation: echo
+        record:
+          agent: [the suppliant, Abraham]
+          action: [asks the god to set truth in his mouth, asks God for a tongue of truth]
+          object: [truth (kittu) in my mouth, a tongue of truthfulness (lisān ṣidq)]
+          quoted: ["šuškin kitti ina pîya ... tīru u nanzāzu liqbû damiqti", "wa-jʿal lī lisāna ṣidqin fī l-ākhirīn"]
+          outcome: [courtiers speak well of him, he is spoken of truly by later generations]
+        note: "Šuʾila to Marduk: šuškin kitti ina pîya šubši damiqti ina libbiya tīru u nanzāzu liqbû damiqti (set truth in my mouth, goodness in my heart; may courtier and attendant speak good of me); 26:84: wa-jʿal lī lisāna ṣidqin fī l-ākhirīn. Truth on the speaker's tongue and a good name in others' mouths; at court in the šuʾila, among later generations for Abraham."
+  - unit: ane-gkab-p348617-o-bit-rimki-king-washed
+    checked: [quran-3-community, quran-41-steadfast-and-repel-evil, quran-3-sovereignty, quran-69-haqqa-books-in-right-and-left-hands]
+    matches:
+      - with: quran-69-haqqa-books-in-right-and-left-hands
+        motif: record-of-deeds-at-judgment
+        refs: ["GKAB P348617 o.ii:10", "GKAB P348617 o.ii:11", "GKAB P348617 o.ii:12"]
+        with_refs: ["69:25", "69:26"]
+        relation: divergence
+        record:
+          agent: [the prince, the man given his book in his left hand]
+          object: [the tablet of my guilt, my book (kitābiyah)]
+          action: [prays that it be broken, wishes he had never been given it]
+          quoted: ["lū hepû ṭuppi arnīya", "yā laytanī lam ūta kitābiyah"]
+          outcome: [his sins are released and scattered, he must face his reckoning]
+        note: "Bīt rimki: rubû ... uštahhat-ma kīam iqabbi: lū hepû ṭuppi arnīya lū puṭṭurū lumnūa (the prince washes and says: may the tablet of my guilt be broken, my evils released); 69:25-26: yā laytanī lam ūta kitābiyah wa-lam adri mā ḥisābiyah. A written record of one's sins; the ritual breaks it, the Quranic sinner can only wish it away."
+  - unit: ane-gkab-p348617-r-bit-rimki-scapegoat-and-birds
+    checked: [quran-16-daughters-and-the-bee, quran-6-pagan-offerings-cattle, quran-2-the-cow]
+    matches: []
+  - unit: ane-gkab-p348618-oi-shurpu-2-catalogue-of-sins
+    checked: [quran-83-defrauders, quran-7-shuayb-midian, quran-6-commandments, quran-69-haqqa-books-in-right-and-left-hands, quran-2-debt-contract, quran-2-fasting, quran-90-city]
+    matches:
+      - with: quran-83-defrauders
+        motif: short-measure-given-full-measure-taken
+        refs: ["GKAB P348618 o.i:32'"]
+        with_refs: ["83:2", "83:3"]
+        relation: parallel
+        record:
+          agent: [the sinner, the defrauders (al-muṭaffifūn)]
+          action: [gives with the small measure and takes with the large, take full measure and give short]
+          quoted: ["ina ṣehherti ittadin ina rabīti imtahar", "idhā ktālū ʿalā n-nāsi yastawfūn wa-idhā kālūhum aw wazanūhum yukhsirūn"]
+          outcome: [an offence that brought the curse on him, woe to them]
+        note: "Šurpu II: ina ṣehherti ittadin ina rabīti imtahar (he gave with the small, received with the large); 83:2-3: alladhīna idhā ktālū ʿalā n-nāsi yastawfūn wa-idhā kālūhum aw wazanūhum yukhsirūn. The same two-sided fraud, short to others and full to oneself, in a catalogue of offences in both."
+      - with: quran-2-debt-contract
+        motif: withholding-known-testimony
+        refs: ["GKAB P348618 o.i:7'"]
+        with_refs: ["2:283"]
+        relation: parallel
+        record:
+          agent: [the sinner, whoever conceals it]
+          action: [knew and did not speak, conceals the testimony]
+          quoted: ["īdû lā iqbû", "wa-lā taktumū sh-shahādata wa-man yaktumhā fa-innahu āthimun qalbuh"]
+          outcome: [an offence that brought the curse on him, his heart is sinful]
+        note: "Šurpu II: īdû lā iqbû / iqbû uttaru (he knew but did not say; he said but exaggerated); 2:283: wa-lā taktumū sh-shahādata wa-man yaktumhā fa-innahu āthimun qalbuh. Keeping silent about what one knows is the sin named in both."
+      - with: quran-2-fasting
+        motif: bribing-the-judge
+        refs: ["GKAB P348618 o.i:4'", "GKAB P348618 o.i:5'"]
+        with_refs: ["2:188"]
+        relation: parallel
+        record:
+          agent: [the sinner, you]
+          recipient: [the judge, the judges (al-ḥukkām)]
+          action: [made the judge take a bribe, offer property to the judges]
+          quoted: ["ṣalipta ušadbibū dayyāna ušāhizū", "wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm"]
+        note: "Šurpu II: ṣalipta ušadbibū dayyāna ušāhizū (he made one speak falsehood, made the judge take [a bribe]); 2:188: wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithmi wa-antum taʿlamūn. Corrupting the judge with payment."
+      - with: quran-90-city
+        motif: release-of-a-bound-captive
+        refs: ["GKAB P348618 o.i:19'", "GKAB P348618 o.i:20'", "GKAB P348618 o.i:21'"]
+        with_refs: ["90:11", "90:13"]
+        relation: echo
+        record:
+          object: [the captive and the bound man, a neck (raqaba)]
+          action: [did not release or loosen, freeing (fakk)]
+          quoted: ["ṣabta lā umaššiū kasâ lā urammû", "wa-mā adrāka mā l-ʿaqabah fakku raqabah"]
+          outcome: [an offence that brought the curse on him, the steep path of the righteous]
+        note: "Šurpu II: ṣabta lā umaššiū kasâ lā urammû ša bīt ṣibitti lā ukallimū nūra (did not release the captive, did not loosen the bound, did not show light to the prisoner); 90:11-13: fa-lā qtaḥama l-ʿaqabah ... fakku raqabah. Loosening the bound is the duty; failing it is a sin in Šurpu, doing it is the 'steep path' in 90."
+  - unit: ane-gkab-p348618-rii-shurpu-2-gods-release
+    checked: [quran-9-closing, quran-79-pharaoh-and-cosmos, quran-53-najm-goddesses-and-scrolls]
+    matches: []
+  - unit: ane-gkab-p348619-shurpu-3-mamit-litany
+    checked: [quran-2-fasting, quran-90-city, quran-44-dukhan-blessed-night-and-smoke, quran-37-hell-and-garden, quran-5-ablution-covenant-justice, quran-4-prayer-intoxication-purity]
+    matches:
+      - with: quran-5-ablution-covenant-justice
+        motif: hands-washed-before-prayer
+        refs: ["GKAB P348619 o.i:26'"]
+        with_refs: ["5:6"]
+        relation: parallel
+        record:
+          object: [hands, hands]
+          action: [lifted in prayer unwashed, washed before prayer]
+          quoted: ["māmīt nīš qātī lā mesâti", "idhā qumtum ilā ṣ-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum"]
+          outcome: [brings a curse that the exorcist must release, prayer is made in purity]
+        note: "Šurpu III: māmīt nīš qātī lā mesâti u nīš ilī zakāri (the curse of lifting unwashed hands and invoking the gods' name); 5:6: idhā qumtum ilā ṣ-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum ilā l-marāfiq. Hands must be washed before they are raised to the divine; an offence listed in Šurpu, a command in 5:6."
+      - with: quran-2-fasting
+        motif: bribing-the-judge
+        refs: ["GKAB P348619 o.i:6'"]
+        with_refs: ["2:188"]
+        relation: parallel
+        record:
+          object: [a judgment for a bribe, property offered to the judges]
+          quoted: ["māmīt dīni ṭāti", "wa-tudlū bihā ilā l-ḥukkām"]
+        note: "Šurpu III: māmīt dīni ṭāti (the curse of a judgment [bought with] a bribe); 2:188: wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nās."
+  - unit: ane-gkab-p348620-shurpu-8-curse-catalogue
+    checked: [quran-83-defrauders, quran-7-shuayb-midian, quran-6-commandments, quran-17-commandments]
+    matches:
+      - with: quran-7-shuayb-midian
+        motif: short-measure-given-full-measure-taken
+        refs: ["GKAB P348620 r.i:15", "GKAB P348620 r.i:16", "GKAB P348620 r.i:17"]
+        with_refs: ["7:85"]
+        relation: parallel
+        record:
+          object: [the seah and the shekel, the measure and the balance]
+          action: [giving with the small and taking with the large, give full measure and weight]
+          quoted: ["ina sūti ṣehherti nadānu ina sūti rabīti ... ina šiqli ṣehheri nadānu", "fa-awfū l-kayla wa-l-mīzāna wa-lā tabkhasū n-nāsa ashyāʾahum"]
+        note: "Šurpu VIII: itti māmīt ina sūti ṣehherti nadānu ina sūti rabīti [mahāru], ina šiqli ṣehheri nadānu ina šiqli rabî, and with the mina; 7:85: Shuʿayb, fa-awfū l-kayla wa-l-mīzāna wa-lā tabkhasū n-nāsa ashyāʾahum. Dry measure and weight, both named."
+      - with: quran-17-commandments
+        motif: insolent-speech-to-a-parent
+        refs: ["GKAB P348620 r.i:10"]
+        with_refs: ["17:23"]
+        relation: parallel
+        record:
+          object: [father and mother, the parents]
+          action: [cursing and estranging them, saying 'uff' or rebuking them]
+          quoted: ["abi u ummi nazāri u nakāri", "fa-lā taqul lahumā uffin wa-lā tanharhumā"]
+        note: "Šurpu VIII: itti māmīt ahi rabî ahāti rabīti abi u ummi nazāri u nakāri (the curse of cursing and estranging elder brother, elder sister, father and mother); 17:23: fa-lā taqul lahumā uffin wa-lā tanharhumā wa-qul lahumā qawlan karīmā. Harsh speech to parents as an offence."
+      - with: quran-17-commandments
+        motif: short-measure-given-full-measure-taken
+        refs: ["GKAB P348620 r.i:15", "GKAB P348620 r.i:16"]
+        with_refs: ["17:35"]
+        relation: parallel
+        record:
+          object: [the seah and the shekel, the measure and the balance]
+          action: [giving with the small and taking with the large, give full measure and weigh straight]
+          quoted: ["ina sūti ṣehherti nadānu ina sūti rabīti", "wa-awfū l-kayla idhā kiltum wa-zinū bi-l-qisṭāsi l-mustaqīm"]
+        note: "Šurpu VIII false measures; 17:35 wa-awfū l-kayla idhā kiltum wa-zinū bi-l-qisṭāsi l-mustaqīm, in the same list as 17:23 on parents, as in Šurpu VIII r.i:10 and r.i:15-17."
+  - unit: ane-gkab-p348621-o-house-building-kulla-enters
+    checked: [quran-17-night-journey-and-israel, quran-15-iblis, quran-37-ranks-and-guarded-heaven]
+    matches:
+      - with: quran-15-iblis
+        motif: hostile-being-ordered-out
+        refs: ["GKAB P348621 o.ii:9'"]
+        with_refs: ["15:34"]
+        relation: echo
+        record:
+          agent: [the ritualists, God]
+          object: [the hostile one (huldub), Iblīs]
+          action: [shout at it to go out, orders him out]
+          quoted: ["hul-dub2 e3-ba-ra-ab", "fa-khruj minhā fa-innaka rajīm"]
+          place: [the new house, the Garden (heavenly company)]
+        note: "House ritual: hul-dub2 e3-ba-ra-ab hul-dub2 e3-ba-ra-ab iraggumū (they shout 'Hostile one, go out! Hostile one, go out!'); 15:34: qāla fa-khruj minhā fa-innaka rajīm. The same imperative of expulsion to a hostile spirit; the exorcists drive out an unknown evil from a house, God casts out Iblīs."
+  - unit: ane-gkab-p348621-r-house-building-kulla-adjured
+    checked: [quran-15-abraham-guests-lot, quran-11-lot, quran-54-qamar-ad-thamud-lot-pharaoh, quran-81-folding-up]
+    matches: []
+  - unit: ane-gkab-p348622-house-building-fragment
+    checked: [quran-2-war-pilgrimage, quran-3-food-bakka, quran-22-abraham-house-pilgrimage]
+    matches: []
+  - unit: ane-gkab-p348625-ghost-necromancy
+    checked: [quran-79-pharaoh-and-cosmos, quran-16-daughters-and-the-bee, quran-74-cloaked, quran-78-the-tiding]
+    matches:
+      - with: quran-78-the-tiding
+        motif: the-dead-and-clay-or-dust
+        refs: ["GKAB P348625 r:12"]
+        with_refs: ["78:40"]
+        relation: divergence
+        record:
+          agent: [the dead man, the disbeliever]
+          action: [complains that he was turned into clay, wishes he were dust]
+          quoted: ["mīna ahṭi ṭīdiš tušēme", "yā laytanī kuntu turābā"]
+          outcome: [a lament against the gods, a wish to escape judgment]
+        note: "Necromancy ritual: mīna ahṭi ṭīdiš tušēme (what sin did I commit that you turned me into clay?); 78:40: yawma yanẓuru l-marʾu mā qaddamat yadāhu wa-yaqūlu l-kāfiru yā laytanī kuntu turābā. Becoming clay or dust: the dead man protests it as a punishment, the disbeliever on the Day longs for it."
+  - unit: ane-gkab-p348626-dream-ritual-colophon
+    checked: [quran-8-emigrants-kin, quran-7-primordial-covenant, quran-23-believers-succeed]
+    matches: []
+  - unit: ane-gkab-p348627-oi-amulet-stones-frightened-man
+    checked: [quran-74-cloaked, quran-43-zukhruf-abraham-and-silver-roofs, quran-40-throne-bearers, quran-2-patience-signs]
+    matches:
+      - with: quran-2-patience-signs
+        motif: declaration-of-belonging-to-god
+        refs: ["GKAB P348627 o.i:18", "GKAB P348627 o.i:19", "GKAB P348627 o.i:20"]
+        with_refs: ["2:156"]
+        relation: echo
+        record:
+          agent: [a man who keeps seeing flashes, those struck by misfortune]
+          action: [says he belongs to the gods, say they belong to God]
+          quoted: ["ša Ellil u Ninlil anāku ša Ištar u Nanāya anāku", "innā li-llāhi wa-innā ilayhi rājiʿūn"]
+          number: [3 times, null]
+          outcome: [he will live, they receive blessings and mercy]
+        note: "Amulet tablet: awīlu inūma birṣī ītanammaru kīam iqabbi: ša Ellil u Ninlil anāku ša Ištar u Nanāya anāku ša Uraš u Bēlet-ekalli anāku, 3-šu iqabbī-ma iballuṭ; 2:156: alladhīna idhā aṣābathum muṣībatun qālū innā li-llāhi wa-innā ilayhi rājiʿūn. A spoken formula of belonging to the divine, said in affliction; pairs of gods against God alone, and a protective spell against patience."
+  - unit: ane-gkab-p348627-oii-amulet-gula-incantation
+    checked: [quran-41-steadfast-and-repel-evil, quran-16-parables-and-justice, quran-71-noah, quran-35-heirs-of-book]
+    matches:
+      - with: quran-35-heirs-of-book
+        motif: evil-plot-recoils-on-its-author
+        refs: ["GKAB P348627 o.ii:39", "GKAB P348627 o.ii:40", "GKAB P348627 o.ii:41"]
+        with_refs: ["35:43"]
+        relation: parallel
+        record:
+          object: [the evil deeds of my adversary, the evil plot (al-makr al-sayyiʾ)]
+          action: [turn back upon his own head, encompasses only its authors]
+          quoted: ["epšētūšu lemnētu libbalkitūšū-ma ana muhhišu u lānišu lillik", "wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi"]
+        note: "Gula incantation: ša bēl dabābiya epšētūšu lemnētu libbalkitūšū-ma ana muhhišu u lānišu lillik (may my adversary's evil deeds cross over and go upon his own head and body); 35:43: wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlih. The evil scheme returns on the schemer; wished for in the prayer, stated as law in the Quran."
+  - unit: ane-gkab-p348627-ri-amulet-shamash-judge
+    checked: [quran-41-steadfast-and-repel-evil, quran-17-prayer-spirit-and-challenge, quran-17-iblis-and-adam]
+    matches:
+      - with: quran-41-steadfast-and-repel-evil
+        motif: adversary-becomes-a-friend
+        refs: ["GKAB P348627 r.i:15", "GKAB P348627 r.i:16"]
+        with_refs: ["41:34"]
+        relation: divergence
+        record:
+          object: [my male and female adversary, the one between whom and you is enmity]
+          action: [is reconciled with me and speaks good, becomes a warm friend]
+          instrument: [amulet stones and a prayer to Šamaš, repelling evil with what is better]
+          quoted: ["bēl dabābiya u bēlet dabābiya lislim ittiya ša lemutta iqbû liqbi damiqta", "fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm"]
+        note: "Amulet tablet: bēl dabābiya u bēlet dabābiya lislim ittiya ša lemutta iqbû liqbi damiqta (may my adversary be at peace with me, who spoke evil speak good); 41:34: idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm. The enemy turned friend in both; by stones and a god in the ritual, by one's own better answer in the Quran."
+  - unit: ane-gkab-p348627-rii-amulet-stones-for-every-need
+    checked: [quran-6-final-reckoning, quran-37-hell-and-garden, quran-74-cloaked, quran-25-servants-of-the-merciful, quran-112-114-unity-and-refuge]
+    matches:
+      - with: quran-6-final-reckoning
+        motif: liability-for-another-s-guilt
+        refs: ["GKAB P348627 r.ii:7", "GKAB P348627 r.ii:8"]
+        with_refs: ["6:164"]
+        relation: contrast
+        record:
+          object: [the guilt of father and mother, the burden of another]
+          action: [is kept from reaching the man by amulets, cannot be borne by another]
+          quoted: ["arni abi u ummi lā ṭehêšu", "wa-lā taziru wāziratun wizra ukhrā"]
+        note: "Amulet tablet: (stones and plants in leather) ana awīli ... arni abi u ummi lā ṭehêšu (so that the guilt of father and mother does not come near the man): the parents' guilt can reach the son and must be warded off; 6:164: wa-lā taksibu kullu nafsin illā ʿalayhā wa-lā taziru wāziratun wizra ukhrā. Inherited guilt as a danger against its denial."
+      - with: quran-112-114-unity-and-refuge
+        motif: women-who-bind-knots-in-sorcery
+        refs: ["GKAB P348627 b.e:1"]
+        with_refs: ["113:4"]
+        relation: divergence
+        record:
+          agent: [the exorcist, the women who blow on knots]
+          action: [ties seven knots with an incantation at each, blow on knots]
+          object: [seven knots in white wool, knots (ʿuqad)]
+          quoted: ["7 kiṣrī tarakkas ēma kiṣri šiptu", "wa-min sharri n-naffāthāti fī l-ʿuqad"]
+          outcome: [protection from evil, refuge is sought from it]
+        note: "Amulet tablet: šīpāti peṣâti taṭawwi ... 7 kiṣrī tarakkas ēma kiṣri šiptu (spin white wool, tie seven knots, at every knot the incantation); 113:4: wa-min sharri n-naffāthāti fī l-ʿuqad. Spells spoken over knots: protective practice in the amulet text, the sorcery refuge is taken from in the Quran."
+  - unit: ane-gkab-p348628-shudua-claw-of-anzu
+    checked: [quran-84-splitting, quran-82-cleaving, quran-86-night-comer]
+    matches: []
+  - unit: ane-gkab-p348629-well-wishers-incantations
+    checked: [quran-74-cloaked, quran-40-throne-bearers, quran-37-hell-and-garden]
+    matches: []
+  - unit: ane-gkab-p348653-epilepsy-pig-ritual
+    checked: [quran-5-ablution-covenant-justice, quran-2-the-cow, quran-16-daughters-and-the-bee]
+    matches: []
+  - unit: ane-gkab-p348662-gilgamesh-v-colophon
+    checked: [quran-84-splitting, quran-36-ya-sin-opening, quran-2-debt-contract]
+    matches: []
+  - unit: ane-gkab-p348673-shurpu-3-mamit-gods
+    checked: [quran-44-dukhan-blessed-night-and-smoke, quran-90-city, quran-9-closing]
+    matches: []
+  - unit: ane-gkab-p348674-shurpu-4-asalluhi-powers
+    checked: [quran-3-annunciation-jesus, quran-35-originator, quran-17-iblis-and-adam, quran-22-signs-and-rites]
+    matches:
+      - with: quran-3-annunciation-jesus
+        motif: power-by-which-the-dead-are-revived
+        refs: ["GKAB P348674 r.i:10'"]
+        with_refs: ["3:49"]
+        relation: divergence
+        record:
+          agent: [Asalluhi, Jesus]
+          action: [makes the dead live and the sick rise, heals and revives the dead]
+          instrument: [his own incantation (tû), God's leave (idhn Allāh)]
+          quoted: ["ša ina têšu mītu iballuṭ itebbû marṣu", "wa-ubriʾu l-akmaha wa-l-abraṣa wa-uḥyī l-mawtā bi-idhni llāh"]
+        note: "Šurpu IV: lizziz Asalluhi mašmaš ilī rabûti ša ina têšu mītu iballuṭ itebbû marṣu (Asalluhi, exorcist of the great gods, by whose incantation the dead lives and the sick rises); 3:49: wa-ubriʾu l-akmaha wa-l-abraṣa wa-uḥyī l-mawtā bi-idhni llāh. The same pair, healing the sick and reviving the dead; by the healer's own spell against 'by God's leave', repeated in the verse."
+  - unit: ane-gkab-p348675-shurpu-varia-ancestors-of-enlil
+    checked: [quran-53-najm-goddesses-and-scrolls, quran-17-polemic-and-resurrection, quran-21-against-other-gods]
+    matches: []
+  - unit: ane-gkab-p348680-shuila-ishtar-of-the-stars
+    checked: [quran-40-throne-bearers, quran-74-cloaked, quran-17-prayer-spirit-and-challenge, quran-2-adam-iblis]
+    matches:
+      - with: quran-2-adam-iblis
+        motif: relenting-and-merciful-epithet-pair
+        refs: ["GKAB P348680 b.e:1", "GKAB P348680 r:1"]
+        with_refs: ["2:37"]
+        relation: echo
+        record:
+          agent: [Ištar, God]
+          name: [tayyārāti u rēmēnâti, al-tawwāb al-raḥīm]
+          quoted: ["tayyārāti u rēmēnâti ennenêti u muppašrāti", "innahu huwa t-tawwābu r-raḥīm"]
+          outcome: [the penitent asks her anger to be released, Adam is forgiven]
+        note: "Šuʾila to Ištar: tayyārāti u rēmēnâti ennenêti u muppašrāti (you are relenting and merciful, compassionate and forgiving); 2:37: fa-tāba ʿalayhi innahu huwa t-tawwābu r-raḥīm. The same epithet pair: tayyāru from târu 'to turn back' and tawwāb from tāba 'to turn back', joined to rēmēnû and raḥīm, which share the Semitic root of mercy (r-ḥ-m)."
+  - unit: ane-gkab-p348681-shuila-ishtar-sublime
+    checked: [quran-1-fatiha, quran-26-abraham, quran-17-prayer-spirit-and-challenge, quran-3-sovereignty]
+    matches:
+      - with: quran-26-abraham
+        motif: good-name-asked-of-the-deity
+        refs: ["GKAB P348681 o:10", "GKAB P348681 o:11", "GKAB P348681 o:12"]
+        with_refs: ["26:84"]
+        relation: echo
+        record:
+          agent: [the suppliant, Abraham]
+          action: [asks the goddess to set truth in his mouth, asks God for a tongue of truth]
+          object: [truth (kittu) in my mouth, a tongue of truthfulness (lisān ṣidq)]
+          quoted: ["ana pîya kitti ana šaptiya šalimta šukun", "wa-jʿal lī lisāna ṣidqin fī l-ākhirīn"]
+          outcome: [slanderers do not speak against him, he is spoken of truly by later generations]
+        note: "Šuʾila to Ištar: ana pîya kitti ana šaptiya šalimta šukun / dābibū amātūa ṭapilta ai iqbi (set truth in my mouth, wholeness on my lips; may my adversaries speak no slander); 26:84: wa-jʿal lī lisāna ṣidqin fī l-ākhirīn."
+      - with: quran-3-sovereignty
+        motif: deity-gives-kingship-and-raises-and-lowers
+        refs: ["GKAB P348681 o:4", "GKAB P348681 o:5"]
+        with_refs: ["3:26"]
+        relation: parallel
+        record:
+          agent: [Ištar, God]
+          action: [gives the crown to kings and raises the fallen, gives kingship and honours whom he wills]
+          quoted: ["nādinat agê ana šarrāni ... mušatbatat maqti", "tuʾtī l-mulka man tashāʾ ... wa-tuʿizzu man tashāʾ"]
+        note: "Šuʾila to Ištar: nādinat agê ana šarrāni, mušēširat tubbuki u tubbukti mušatbatat maqti (giver of the crown to kings, who sets right the lame man and woman, who raises the fallen); 3:26: allāhumma mālika l-mulki tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾ, wa-tuʿizzu man tashāʾu wa-tudhillu man tashāʾ. A litany addressed to the deity who gives kingship and lifts the low; the Quran adds the taking away and the lowering."
+  - unit: ane-gkab-p348682-shuilas-ea-and-marduk
+    checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-74-cloaked, quran-1-fatiha, quran-35-heirs-of-book]
+    matches:
+      - with: quran-35-heirs-of-book
+        motif: evil-plot-recoils-on-its-author
+        refs: ["GKAB P348682 o:3'", "GKAB P348682 o:4'"]
+        with_refs: ["35:43"]
+        relation: parallel
+        record:
+          object: [the sorcery of sorcerer and sorceress, the evil plot]
+          action: [turns back upon their own breast, encompasses only its authors]
+          quoted: ["kišpīšunu ruhêšunu rusêšunu lemnūti ... linê irassun", "wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi"]
+        note: "Šuʾila to Ea: kaššāpu u kaššaptu kišpīšunu ruhêšunu rusêšunu lemnūti ... linê irassun (may their evil sorcery turn back on their breast); 35:43: wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlih."
+  - unit: ane-gkab-p348683-namburbi-estranged-couple
+    checked: [quran-24-light-verse, quran-50-qaf-two-recorders-and-hell-asks-more, quran-30-signs, quran-4-wealth-household]
+    matches:
+      - with: quran-4-wealth-household
+        motif: reconciling-estranged-spouses
+        refs: ["GKAB P348683 o:1", "GKAB P348683 o:5", "GKAB P348683 o:6", "GKAB P348683 o:10"]
+        with_refs: ["4:35"]
+        relation: divergence
+        record:
+          object: [a man and woman estranged, a couple in discord (shiqāq)]
+          instrument: [a linen cloth and three broken flasks between them before Šamaš and Asalluhi, an arbiter from his family and one from hers]
+          action: [brings them near again, God reconciles them]
+          quoted: ["zikari u sinništi rūqūti ana ahāmiš qurrubu", "fa-bʿathū ḥakaman min ahlihi wa-ḥakaman min ahlihā in yurīdā iṣlāḥan yuwaffiqi llāhu baynahumā"]
+        note: "Namburbi: lumun zikari u sinništi rūqūti ana ahāmiš qurrubu (to bring together a man and woman estranged), a cloth stretched and three flasks broken between them, Šamaš and Marduk muqerribū ahāmiš rūqūti; 4:35: wa-in khiftum shiqāqa baynihimā fa-bʿathū ḥakaman min ahlihi wa-ḥakaman min ahlihā in yurīdā iṣlāḥan yuwaffiqi llāhu baynahumā. The same aim; ritual acts before the gods against two family arbiters, with God bringing about the agreement."
+  - unit: ane-gkab-p348717-r-ii-enkidu-warns
+    checked: [quran-57-hadid-iron-and-monasticism, quran-21-abraham-idols-fire, quran-3-badr-uhud, quran-26-noah, quran-14-parables-and-satans-speech]
+    matches:
+      - with: quran-14-parables-and-satans-speech
+        motif: works-carried-off-by-the-wind
+        refs: ["GKAB P348717 r.ii:19'", "GKAB P348717 r.ii:20'"]
+        with_refs: ["14:18"]
+        relation: divergence
+        record:
+          agent: [humankind, those who disbelieve]
+          object: [all that man does, their deeds]
+          action: [is but wind, are like ashes the wind blows away]
+          quoted: ["awīlūtti manû ūmūša mimmû īteppušu šārū-ma", "aʿmāluhum ka-ramādin shtaddat bihi r-rīḥu fī yawmin ʿāṣif"]
+          outcome: [so the hero seeks fame, they have no power over what they earned]
+        note: "Gilgameš II: awīlūtti manû [ūmūša] mimmû īteppušu šārū-ma (mankind, its days are numbered; whatever it does is wind), with šārū preserved on this tablet; 14:18: mathalu lladhīna kafarū bi-rabbihim aʿmāluhum ka-ramādin shtaddat bihi r-rīḥu fī yawmin ʿāṣif. Human works come to wind: for all mankind, which drives Gilgameš to win a name, against for the disbelievers only."
+  - unit: ane-gkab-p348717-r-iii-elders-counsel
+    checked: [quran-33-trench, quran-53-najm-vision-and-lote-tree, quran-105-elephant]
+    matches: []
+  - unit: ane-gkab-p348728-r-ghost-dreams
+    checked: [quran-6-poor-keys-of-unseen, quran-16-daughters-and-the-bee, quran-22-signs-and-rites]
+    matches: []
+  - unit: ane-gkab-p348729-sha-zi-ga
+    checked: [quran-2-war-pilgrimage, quran-74-cloaked, quran-75-resurrection]
+    matches: []
+  - unit: ane-gkab-p348730-namburbi-snake
+    checked: [quran-41-steadfast-and-repel-evil, quran-112-114-unity-and-refuge, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-gkab-p348820-flakes
+    checked: [quran-6-pagan-offerings-cattle, quran-2-the-cow, quran-68-qalam-companions-of-the-garden]
+    matches: []
+  - unit: ane-gkab-p348821-ashar-stone
+    checked: [quran-17-prayer-spirit-and-challenge, quran-74-cloaked, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-gkab-p348822-udug-hul-wiping
+    checked: [quran-15-iblis, quran-40-throne-bearers, quran-91-sun, quran-66-tahrim-wives-and-the-four-women, quran-5-oaths-wine-game]
+    matches:
+      - with: quran-66-tahrim-wives-and-the-four-women
+        motif: wiping-away-evil-kuppuru-kaffara
+        refs: ["GKAB P348822 r:6", "GKAB P348822 o:4'"]
+        with_refs: ["66:8"]
+        relation: divergence
+        record:
+          agent: [the exorcist, God]
+          action: [wipes the sick man clean, wipes away your evil deeds]
+          instrument: ["dough loaves, a sheep's heart and clay lumps", sincere repentance]
+          quoted: ["adi 7-šu marṣa tukappar", "ʿasā rabbukum an yukaffira ʿankum sayyiʾātikum"]
+        note: "Udug-hul ritual: dough loaves of flour, honey and ghee ... marṣa tukappar (you wipe the patient, seven times), U.ME.TE.GUR.GUR = kuppuru; 66:8: tūbū ilā llāhi tawbatan naṣūḥan ʿasā rabbukum an yukaffira ʿankum sayyiʾātikum. Akk. kuppuru and Ar. kaffara ʿan share the root k-p/f-r 'wipe off'; the exorcist wipes evil off a body with dough, God wipes away sins after repentance."
+  - unit: ane-gkab-p348825-shuila-shamash
+    checked: [quran-2-qibla, quran-74-cloaked, quran-17-prayer-spirit-and-challenge, quran-13-signs-of-creation, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-13-signs-of-creation
+        motif: guardian-beings-flank-a-person
+        refs: ["GKAB P348825 r:11'", "GKAB P348825 r:12'"]
+        with_refs: ["13:11"]
+        relation: echo
+        record:
+          agent: [Justice and Well-being, the followers (muʿaqqibāt)]
+          place: [at my left and behind me, before him and behind him]
+          action: [stand by the person, guard the person]
+          quoted: ["Mīšaru lizziz ina šumēliya ... šulmu ina warkiya", "min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu"]
+        note: "Šuʾila to Šamaš: [Kittu at my right], Mīšaru lizziz ina šumēliya ... šulmu ina warkiya (Justice stand at my left, well-being behind me); 13:11: lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāh. Powers posted around the person, at the side and behind; personified virtues against guardians sent by God."
+  - unit: ane-gkab-p348831-amulet-stones
+    checked: [quran-76-the-human, quran-74-cloaked, quran-22-disputers-and-waverers]
+    matches: []
