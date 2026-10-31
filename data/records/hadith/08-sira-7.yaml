@@ -1,0 +1,1797 @@
+# Observation records for hadith chunk 8 (Jamiʿ 48:5683-5812), one per narrative or ritual detail.
+records:
+- id: h-5683.2-shod
+  ref: Jāmiʿ 48:5683.2
+  unit: hadith-48-drinking-standing-and-sitting
+  agent: the Prophet
+  action: drinks standing and sitting
+  quoted:
+  - yashrabu qaʾiman wa-qaʾidan
+  - yusalli muntaʿilan wa-hafiyan
+- id: h-5683.3-fingers
+  ref: Jāmiʿ 48:5683.3
+  unit: hadith-48-eating-with-three-fingers
+  agent: the Prophet
+  action: eats and licks his fingers
+  number: 3
+  instrument: three fingers
+  quoted: yaʾkulu bi-thalath asabiʿ
+- id: h-5684.1-morsel
+  ref: Jāmiʿ 48:5684.1
+  unit: hadith-48-eating-with-three-fingers
+  agent: the Prophet
+  action: orders a fallen morsel cleaned and eaten
+  object: fallen morsel
+  recipient: Satan (denied it)
+  quoted:
+  - wa-la yadaʿha li-l-shaytan
+  - la tadruna fi ayyi taʿamikum al-baraka
+- id: h-5684.3-squat
+  ref: Jāmiʿ 48:5684.3
+  unit: hadith-48-eating-with-three-fingers
+  agent: the Prophet
+  action: eats dates squatting
+  object: dates
+  quoted: muqʿiyan
+- id: h-5684.4-cushion
+  ref: Jāmiʿ 48:5684.4
+  unit: hadith-48-reclining-on-left-side
+  agent: the Prophet
+  action: reclines on a cushion
+  place: his house
+  quoted: muttakiʿan ʿala wisada ʿala yasarihi
+- id: h-5685.1-sukka
+  ref: Jāmiʿ 48:5685.1
+  unit: hadith-48-perfume-and-new-garment
+  agent: the Prophet
+  action: perfumes himself
+  instrument: a perfume box (sukka)
+  quoted: sukka yatatayyabu minha
+- id: h-5685.2-garment
+  ref: Jāmiʿ 48:5685.2
+  unit: hadith-48-perfume-and-new-garment
+  agent: the Prophet
+  action: prays on putting on a new garment
+  object: new garment
+  quoted: asʾaluka min khayrihi wa-min khayri ma suniʿa lahu
+- id: h-5686.1-kohl
+  ref: Jāmiʿ 48:5686.1
+  unit: hadith-48-kohl-in-odd-numbers
+  agent: the Prophet
+  action: applies kohl
+  instrument: antimony (ithmid)
+  number:
+  - 3
+  - 2
+  quoted: al-yumna thalatha qarawid wa-l-yusra qirwadayn
+- id: h-5686.2-odd
+  ref: Jāmiʿ 48:5686.2
+  unit: hadith-48-kohl-in-odd-numbers
+  agent: the Prophet
+  action: forbids cautery and applies kohl and stones in odd numbers
+  object:
+  - cautery
+  - hot drink
+  - kohl
+  - stone-wiping
+  quoted:
+  - naha ʿan al-kayy
+  - iktahala witran
+  - istajmara witran
+- id: h-5687.1-supine
+  ref: Jāmiʿ 48:5687.1
+  unit: hadith-48-postures-lying-and-sitting
+  agent: the Prophet
+  action: lies on his back with one leg over the other
+  place: the mosque
+  quoted: mustalqiyan ... wadiʿan ihda rijlayhi ʿala al-ukhra
+- id: h-5687.3-hasan
+  ref: Jāmiʿ 48:5687.3
+  unit: hadith-48-postures-lying-and-sitting
+  agent: the Prophet
+  action: calls the child and puts the child's mouth in his own
+  recipient: al-Hasan
+  place: mosque after the market of Banu Qaynuqaʾ
+  name:
+  - lukaʿ
+  - Hasan
+  quoted:
+  - ayna lukaʿ
+  - allahumma inni uhibbuhu fa-ahibbahu
+- id: h-5688.1-qayla
+  ref: Jāmiʿ 48:5688.1
+  unit: hadith-48-postures-lying-and-sitting
+  agent: Qayla bint Makhrama
+  action: trembles with fear
+  object: the Prophet sitting humbly (qurfusa')
+  quoted: urʿidtu min al-faraq
+- id: h-5688.2-halt
+  ref: Jāmiʿ 48:5688.2
+  unit: hadith-48-sleep-and-bedtime
+  agent: the Prophet
+  action: sleeps on his right side; before dawn props head on palm
+  time:
+  - night halt
+  - shortly before dawn
+  quoted: nasaba dhiraʿayhi wa-wadaʿa raʾsahu ʿala kaffihi
+- id: h-5689.2-nafth
+  ref: Jāmiʿ 48:5689.2
+  unit: hadith-48-sleep-and-bedtime
+  agent: the Prophet
+  action: blows into his joined palms
+  recites and wipes his body: null
+  object:
+  - Q 112
+  - Q 113
+  - Q 114
+  number: 3
+  time: every night at bedtime
+  quoted: jamaʿa kaffayhi thumma nafatha fihima
+- id: h-5689.4-mend
+  ref: Jāmiʿ 48:5689.4
+  unit: hadith-48-work-in-the-house
+  agent: the Prophet
+  action: mends his sandal and sews his garment
+  place: his house
+  quoted: yakhsifu naʿlahu wa-yakhitu thawbahu
+- id: h-5690.1-madd
+  ref: Jāmiʿ 48:5690.1
+  unit: hadith-48-recitation-and-weeping
+  agent: the Prophet
+  action: draws out the recitation
+  object: bismillah al-rahman al-rahim
+  quoted: kanat maddan
+- id: h-5690.2-tears
+  ref: Jāmiʿ 48:5690.2
+  unit: hadith-48-recitation-and-weeping
+  agent: Ibn Masʿud
+  action: recites surat al-Nisaʾ to the Prophet
+  recipient: the Prophet
+  object: Q 4:41
+  outcome: the Prophet's tears flow
+  quoted:
+  - iqraʾ ʿalayya
+  - fa-raʾaytu dumuʿahu tasil
+- id: h-5690.4-trotter
+  ref: Jāmiʿ 48:5690.4
+  unit: hadith-48-night-talk-and-small-gifts
+  agent: the Prophet
+  action: would accept an invitation or gift
+  object:
+  - foreleg (dhira')
+  - trotter (kura')
+  quoted: law duʿitu ila dhiraʿin aw kuraʿin la-ajabtu
+- id: h-5691.2-thrice
+  ref: Jāmiʿ 48:5691.2
+  unit: hadith-48-manner-of-speech
+  agent: the Prophet
+  action: repeats each word and greeting
+  number: 3
+  quoted: aʿadaha thalathan hatta tufham ʿanhu
+- id: h-5692.3-jubba
+  ref: Jāmiʿ 48:5692.3
+  unit: hadith-48-garments
+  agent: the Prophet
+  action: draws his arm out from beneath a narrow-sleeved cloak to wash
+  object: Syrian jubba
+  recipient: al-Mughira (pours water)
+  instrument: water-skin (idawa)
+  outcome: wipes over his leather socks and prays
+  quoted: jubba shamiyya dayyiqat al-kummayn
+- id: h-5692.4-mirt
+  ref: Jāmiʿ 48:5692.4
+  unit: hadith-48-garments
+  agent: the Prophet
+  action: goes out wearing a wrap
+  object: mirt murahhal of black hair
+  time: one morning
+  quoted: mirtun murahhalun min shaʿrin aswad
+- id: h-5693.1-buttons
+  ref: Jāmiʿ 48:5693.1
+  unit: hadith-48-garments
+  agent: Qurra b. Iyas
+  action: puts his hand into the Prophet's open shirt collar and touches the seal
+  object: the seal (al-khatam)
+  outcome: Muʿawiya b. Qurra and his son never fasten their buttons
+  quoted: fa-masistu al-khatam
+- id: h-5695.2-sibti
+  ref: Jāmiʿ 48:5695.2
+  unit: hadith-48-sleeve-and-sandals
+  agent: Ibn ʿUmar
+  action: wears hairless sandals as the Prophet did
+  object: sibti sandals
+  quoted: al-naʿl allati laysa fiha shaʿr wa-yatawaddaʾu fiha
+- id: h-5695.4-ring
+  ref: Jāmiʿ 48:5695.4
+  unit: hadith-48-the-signet-ring
+  agent: the Prophet
+  action: has a silver ring made to seal letters
+  recipient: the Byzantines (al-Rum)
+  object: silver ring
+  quoted:
+  - innahum la yaqraʾuna kitaban illa makhtuman
+  - naqshuhu muhammad rasul allah
+- id: h-5696.1-aris
+  ref: Jāmiʿ 48:5696.1
+  unit: hadith-48-the-signet-ring
+  agent: the ring
+  action: passes to Abu Bakr
+  ʿUmar: null
+  ʿUthman: null
+  place: the well of Aris
+  outcome: falls into the well
+  name:
+  - Abu Bakr
+  - ʿUmar
+  - ʿUthman
+  - biʾr aris
+- id: h-5696.2-gold
+  ref: Jāmiʿ 48:5696.2
+  unit: hadith-48-the-signet-ring
+  agent: the Prophet
+  action: throws away his gold ring when people copy it
+  object: gold ring
+  outcome: takes a silver one; people take silver rings
+  quoted: la albasuhu abadan
+- id: h-5697.1-cast
+  ref: Jāmiʿ 48:5697.1
+  unit: hadith-48-ring-cast-off-and-its-stone
+  agent: the Prophet
+  action: casts off his ring
+  time: after one day
+  outcome: the people cast off theirs
+  quoted: fa-taraha rasul allah khatamahu fa-taraha al-nas khawatimahum
+- id: h-5697.3-lines
+  ref: Jāmiʿ 48:5697.3
+  unit: hadith-48-ring-cast-off-and-its-stone
+  agent: Abu Bakr
+  action: seals a letter with the ring
+  recipient: Anas sent to Bahrain
+  number: 3
+  object: engraving in three lines
+  quoted: muhammad satr wa-rasul satr wa-llah satr
+- id: h-5698.4-finger
+  ref: Jāmiʿ 48:5698.4
+  unit: hadith-48-ring-hand-and-finger
+  agent: Anas
+  action: points to where the ring was worn
+  object: little finger of the left hand
+  quoted: wa-ashara ila al-khinsir min yadihi al-yusra
+- id: h-5701.1-pommel
+  ref: Jāmiʿ 48:5701.1
+  unit: hadith-48-sword-armour-turban
+  object: the Prophet's sword
+  quoted: qabiʿat sayf rasul allah min fidda
+- id: h-5702.1-talha
+  ref: Jāmiʿ 48:5702.1
+  unit: hadith-48-sword-armour-turban
+  agent: the Prophet
+  action: climbs the rock standing on Talha
+  instrument: Talha crouching beneath
+  place: the rock at Uhud
+  time: day of Uhud
+  number: 2
+  object: two mail coats
+  quoted: awjaba talha
+- id: h-5702.2-turban
+  ref: Jāmiʿ 48:5702.2
+  unit: hadith-48-sword-armour-turban
+  agent: the Prophet
+  action: enters Mecca
+  object: black turban
+  quoted: '''imama sawdaʾ bi-ghayr ihram'
+- id: h-5703.2-abtah
+  ref: Jāmiʿ 48:5703.2
+  unit: hadith-48-wrap-and-death-garments
+  agent: Bilal
+  action: brings out the Prophet's ablution water
+  recipient: the people
+  place: al-Abtah
+  in a red leather tent: null
+  outcome: some take it and some sprinkle
+  quoted: fa-min naʾil wa-nadih
+- id: h-5704.1-death-clothes
+  ref: Jāmiʿ 48:5704.1
+  unit: hadith-48-wrap-and-death-garments
+  agent: ʿAʾisha
+  action: brings out the garments and swears he died in them
+  object:
+  - coarse Yemeni wrap
+  - patched cloak (mulabbada)
+  number: 2
+  quoted: qubida fi hadhayn al-thawbayn
+- id: h-5705.1-cup
+  ref: Jāmiʿ 48:5705.1
+  unit: hadith-48-cup-bed-pillow
+  agent: Anas
+  action: mends the cracked cup with silver
+  object: wooden cup (nudar)
+  instrument: silver chain
+  outcome: Abu Talha forbids replacing the iron ring
+  quoted: la tughayyiranna shayʿan sanaʿahu rasul allah
+- id: h-5705.2-four
+  ref: Jāmiʿ 48:5705.2
+  unit: hadith-48-cup-bed-pillow
+  agent: Anas
+  action: gives the Prophet drink from his cup
+  object:
+  - honey
+  - nabidh
+  - water
+  - milk
+  number: 4
+- id: h-5705.3-bed
+  ref: Jāmiʿ 48:5705.3
+  unit: hadith-48-cup-bed-pillow
+  object: the Prophet's bed and pillow
+  instrument: leather stuffed with palm fibre
+  quoted: adaman hashwuhu lif
+- id: h-5706.1-retch
+  ref: Jāmiʿ 48:5706.1
+  unit: hadith-48-the-tooth-stick
+  agent: the Prophet
+  action: cleans his mouth with a tooth-stick
+  instrument: siwak
+  quoted: uʿ uʿ ... ka-annahu yatahawwaʿ
+- id: h-5706.4-siwak
+  ref: Jāmiʿ 48:5706.4
+  unit: hadith-48-the-tooth-stick
+  agent: ʿAʾisha
+  action: chews a tooth-stick soft and gives it to the dying Prophet
+  object: the siwak of ʿAbd al-Rahman b. Abi Bakr
+  place: ʿAʾisha's house
+  time: his last illness
+  on her day: null
+  outcome: he cleans his teeth leaning on her chest and dies
+  quoted:
+  - ayna ana ghadan
+  - bayna nahri wa-sahri
+  - khalata riquhu riqi
+- id: h-5707.1-winds
+  ref: Jāmiʿ 48:5707.1
+  unit: hadith-48-given-what-no-prophet-was
+  agent: God
+  action: helps the Prophet by a wind and destroys ʿAd by another
+  instrument:
+  - east wind (saba)
+  - west wind (dabur)
+  name: ʿAd
+  quoted: nusirtu bi-l-saba wa-uhlikat ʿad bi-l-dabur
+- id: h-5707.2-keys
+  ref: Jāmiʿ 48:5707.2
+  unit: hadith-48-given-what-no-prophet-was
+  agent: unnamed (passive)
+  action: places keys in the sleeping Prophet's hand
+  object: keys of the treasuries of the earth
+  time: in sleep
+  quoted: utitu bi-mafatih khazaʾin al-ard fa-wudiʿat fi yadi
+- id: h-5708.1-five
+  ref: Jāmiʿ 48:5708.1
+  unit: hadith-48-given-what-no-prophet-was
+  agent: the Prophet
+  action: lists five things given him
+  recipient: companions guarding him
+  place: Tabuk campaign
+  time: at night after prayer
+  number:
+  - 5
+  - a month's journey
+  object:
+  - sent to all people
+  - terror
+  - spoils lawful
+  - earth a mosque and purifier
+  - request deferred to resurrection
+  quoted:
+  - kanu yuhriqunaha
+  - innama kanu yusallun fi kanaʾisihim wa-biyaʿihim
+  - fa-akhkhartu masʿalati ila yawm al-qiyama
+- id: h-5709.1-red-black
+  ref: Jāmiʿ 48:5709.1
+  unit: hadith-48-given-what-no-prophet-was
+  agent: the Prophet
+  action: is sent
+  recipient: the red and the black
+  number: 5
+  quoted:
+  - buʿithtu ila al-ahmar wa-l-aswad
+  - wa-khtabaʾtu daʿwati shafaʿatan li-ummati
+- id: h-5709.2-lie
+  ref: Jāmiʿ 48:5709.2
+  unit: hadith-48-lying-about-the-prophet
+  agent: one who lies about the Prophet deliberately
+  outcome: takes his seat in the Fire
+  quoted: fa-l-yatabawwaʾ maqʿadahu min al-nar
+- id: h-5710.3-covenant
+  ref: Jāmiʿ 48:5710.3
+  unit: hadith-48-curse-made-purification
+  agent: the Prophet
+  action: asks God to turn his insults into expiation
+  recipient: any believer he harmed
+  object:
+  - harming
+  - insulting
+  - flogging
+  time: day of resurrection
+  quoted:
+  - innama muhammad bashar yaghdabu kama yaghdabu al-bashar
+  - ittakhadhtu ʿindaka ʿahdan lan tukhlifanihi
+- id: h-5710.4-two-men
+  ref: Jāmiʿ 48:5710.4
+  unit: hadith-48-curse-made-purification
+  agent: the Prophet
+  action: curses and insults two men who angered him
+  recipient: two men
+  outcome: explains to ʿAʾisha his stipulation with God
+  quoted: a-wa-ma ʿalimti ma sharattu ʿalayhi rabbi
+- id: h-5711.1-orphan
+  ref: Jāmiʿ 48:5711.1
+  unit: hadith-48-curse-made-purification
+  agent: the Prophet
+  action: says to an orphan girl 'may your age not grow'
+  recipient: orphan girl in Umm Sulaym's care
+  outcome: he laughs and explains his stipulation; the curse becomes purification
+  quoted:
+  - laqad kabirti la kabira sinnuki
+  - talutu khimaraha
+- id: h-5712.1-behind
+  ref: Jāmiʿ 48:5712.1
+  unit: hadith-48-sees-behind-his-back
+  agent: the Prophet
+  action: sees those praying behind him
+  place: in prayer
+  quoted: inni la-arakum min wara'i zahri
+- id: h-5712.3-dream
+  ref: Jāmiʿ 48:5712.3
+  unit: hadith-48-satan-cannot-take-his-form
+  agent: Satan
+  action: cannot take the Prophet's likeness
+  outcome: seeing him in a dream is seeing him
+  quoted: la yatamaththalu al-shaytan bi
+- id: h-5713.1-46
+  ref: Jāmiʿ 48:5713.1
+  unit: hadith-48-satan-cannot-take-his-form
+  object: the believer's dream
+  number: 46
+  quoted: juzʾ min sitta wa-arbaʿin juzʾan min al-nubuwwa
+- id: h-5713.3-spit
+  ref: Jāmiʿ 48:5713.3
+  unit: hadith-48-satan-cannot-take-his-form
+  agent: one who has a bad dream
+  action: spits to the left and seeks refuge from Satan
+  number: 3
+  outcome: it does not harm him
+  quoted:
+  - al-ruʾya al-saliha min allah wa-l-hulm min al-shaytan
+  - fa-l-yanfuth ʿan shimalihi thalathan
+- id: h-5715.1-see
+  ref: Jāmiʿ 48:5715.1
+  unit: hadith-48-longing-to-see-him
+  agent: a believer
+  action: will long to see the Prophet
+  outcome: dearer than family and wealth
+  quoted: la-an yarani ahabbu ilayhi min ahlihi wa-malihi
+- id: h-5716.1-light
+  ref: Jāmiʿ 48:5716.1
+  unit: hadith-48-signs-at-his-birth-and-the-opened-breast
+  agent: the Prophet's mother
+  action: sees a light come out of her
+  time: when she conceived him
+  place: palaces of Busra in Syria
+  quoted: kharaja minha nur adaʾat lahu qusur busra
+- id: h-5716.1-breast
+  ref: Jāmiʿ 48:5716.1
+  unit: hadith-48-signs-at-his-birth-and-the-opened-breast
+  agent: two men in white
+  action: open his belly
+  take out the heart and remove a black clot: null
+  recipient: the child Muhammad
+  instrument: golden basin full of snow
+  place: among the Banu Saʿd b. Bakr
+  with the lambs: null
+  outcome: heart and belly washed and restored
+  quoted:
+  - tast min dhahab mamluʾa thaljan
+  - ʿalaqa sawdaʾ
+- id: h-5716.1-weigh
+  ref: Jāmiʿ 48:5716.1
+  unit: hadith-48-signs-at-his-birth-and-the-opened-breast
+  agent: one of the two men
+  action: weighs the child against his community
+  number:
+  - 10
+  - 100
+  - 1000
+  outcome: he outweighs them all
+  quoted: law wazantahu bi-ummatihi la-wazanahum
+- id: h-5717.1-birds
+  ref: Jāmiʿ 48:5717.1
+  unit: hadith-48-signs-at-his-birth-and-the-opened-breast
+  agent: two white birds like vultures
+  action: lay him on his back
+  split his belly and remove two black clots: null
+  instrument:
+  - snow water
+  - hail water
+  - al-sakina
+  - seal of prophethood
+  number:
+  - 2
+  - 1000
+  outcome: weighed against a thousand who seem about to fall on him; foster-mother returns him to his mother
+  quoted:
+  - ahuwa huwa
+  - khatama ʿalayhi bi-khatam al-nubuwwa
+- id: h-5717.2-clay
+  ref: Jāmiʿ 48:5717.2
+  unit: hadith-48-signs-at-his-birth-and-the-opened-breast
+  agent: the Prophet
+  action: declares himself seal of the prophets with God
+  time: while Adam was still lying in his clay
+  name:
+  - Ibrahim
+  - ʿIsa
+  quoted: wa-inna adam la-munjadil fi tinatihi
+- id: h-5718.2-stone
+  ref: Jāmiʿ 48:5718.2
+  unit: hadith-48-the-quran-as-sign-and-the-greeting-stone
+  agent: a stone
+  action: greets the Prophet
+  place: Mecca
+  time: before his mission
+  quoted: kana yusallimu ʿalayya qabla an ubʿath
+- id: h-5718.3-moon
+  ref: Jāmiʿ 48:5718.3
+  unit: hadith-48-splitting-of-the-moon
+  agent: the moon
+  action: splits in two
+  place: Mina
+  number: 2
+  outcome: the Prophet says 'bear witness'
+  quoted:
+  - inshaqqa al-qamar ... shiqqayn
+  - ishhadu
+- id: h-5719.1-sorcery
+  ref: Jāmiʿ 48:5719.1
+  unit: hadith-48-splitting-of-the-moon
+  agent: unbelievers of Quraysh
+  action: call the split moon sorcery and ask the travellers
+  place: Mecca
+  name: Ibn Abi Kabsha
+  outcome: every traveller saw it too
+  quoted: hadha sihr saharana bihi ibn abi kabsha
+- id: h-5719.2-hira
+  ref: Jāmiʿ 48:5719.2
+  unit: hadith-48-splitting-of-the-moon
+  agent: the Prophet
+  action: shows the moon in two halves
+  recipient: people of Mecca who asked for a sign
+  place: Hira between the halves
+  number: 2
+  quoted: hatta raʾaw hiraʾ baynahuma
+- id: h-5720.2-trees
+  ref: Jāmiʿ 48:5720.2
+  unit: hadith-48-the-two-trees-and-two-graves
+  agent: the Prophet
+  action: leads two trees by a branch and joins them as a screen
+  recipient: two trees
+  place: a broad valley
+  number: 2
+  outcome: they part and stand each on its trunk
+  quoted:
+  - inqadi ʿalayya bi-idhn allah
+  - ka-l-baʿir al-makhshush
+- id: h-5720.2-graves
+  ref: Jāmiʿ 48:5720.2
+  unit: hadith-48-the-two-trees-and-two-graves
+  agent: Jabir
+  action: sets a green branch to right and left where the Prophet stood
+  object: two branches
+  recipient: two people punished in their graves
+  number: 2
+  outcome: torment lightened while the branches stay green
+  quoted: an yurfaha ʿanhuma ma dama al-ghusnan ratbayn
+- id: h-5722.1-boy
+  ref: Jāmiʿ 48:5722.1
+  unit: hadith-48-three-wonders-of-yala
+  agent: the Prophet
+  action: blows into a possessed boy's mouth three times
+  recipient: a boy seized many times a day
+  instrument: breath (nafth)
+  number: 3
+  quoted: bismillah, ana ʿabd allah, ikhsaʾ ʿaduww allah
+  outcome: the boy is not seized again; the mother gives three sheep
+  one is kept: null
+- id: h-5722.1-trees
+  ref: Jāmiʿ 48:5722.1
+  unit: hadith-48-three-wonders-of-yala
+  agent: Yaʿla b. Murra
+  action: tells two trees the Prophet orders them to come together
+  place: the open ground (al-jabbana)
+  number: 2
+  outcome: they join
+  then each returns to its place: null
+- id: h-5722.1-camel
+  ref: Jāmiʿ 48:5722.1
+  unit: hadith-48-three-wonders-of-yala
+  agent: a camel
+  action: lowers its neck before the Prophet and weeps
+  recipient: the Prophet
+  outcome: the Prophet takes it from the Ansari owner who meant to slaughter it and brands it for alms
+  quoted:
+  - thumma dharafat ʿaynahu
+  - fa-wasamahu bi-simat al-sadaqa
+- id: h-5723.1-cluster
+  ref: Jāmiʿ 48:5723.1
+  unit: hadith-48-palm-cluster-and-walking-tree
+  agent: the Prophet
+  action: calls a date-cluster down from a palm
+  recipient: a bedouin asking for proof
+  outcome: it falls to him
+  returns at 'go back'; the bedouin accepts Islam: null
+  quoted: fa-jaʿala yanzilu min al-nakhla hatta saqata
+- id: h-5723.2-tree
+  ref: Jāmiʿ 48:5723.2
+  unit: hadith-48-palm-cluster-and-walking-tree
+  agent: Gabriel
+  action: has the Prophet call a tree from across the valley
+  recipient: the Prophet bloodied by Meccans
+  outcome: the tree walks to him and returns; he says 'enough for me'
+  quoted:
+  - qad khudiba bi-l-dimaʾ
+  - hasbi
+- id: h-5724.1-sleep
+  ref: Jāmiʿ 48:5724.1
+  unit: hadith-48-the-woman-with-water-skins
+  agent: ʿUmar
+  action: wakes the sleeping Prophet by crying takbir
+  time: after sunrise
+  number: 4 (ʿUmar the fourth to wake)
+  quoted: la dayra
+- id: h-5724.1-skins
+  ref: Jāmiʿ 48:5724.1
+  unit: hadith-48-the-woman-with-water-skins
+  agent: the Prophet
+  action: pours from a woman's two water-skins for the army
+  recipient: thirsty army and the man in janaba
+  instrument:
+  - two water-skins (mazadatayn)
+  - a vessel
+  name: al-sabiʾ
+  outcome: skins fuller than before; she is given food and says he is the greatest sorcerer or truly God's messenger; her clan accept Islam
+  quoted:
+  - innahu la-ashar al-nas ... aw innahu la-rasul allah haqqan
+  - ma raziʾna min maʾiki shayʾan
+- id: h-5725.1-fingers
+  ref: Jāmiʿ 48:5725.1
+  unit: hadith-48-water-at-hudaybiya-and-tabuk
+  agent: the Prophet
+  action: puts his hand in a leather bowl
+  instrument: rakwa
+  place: al-Hudaybiya
+  number: 1500
+  outcome: water wells from between his fingers like springs; all drink and wash
+  quoted: law kunna miʾata alfin la-kafana
+- id: h-5725.2-well
+  ref: Jāmiʿ 48:5725.2
+  unit: hadith-48-water-at-hudaybiya-and-tabuk
+  agent: the Prophet
+  action: rinses his mouth
+  prays and pours the water into a drained well: null
+  place: the well of al-Hudaybiya
+  number: 1400
+  outcome: the well waters them and their mounts
+  quoted: fa-lam natruk fiha qatra
+- id: h-5726.1-tabuk
+  ref: Jāmiʿ 48:5726.1
+  unit: hadith-48-water-at-hudaybiya-and-tabuk
+  agent: the Prophet
+  action: washes his hand and face in gathered water and returns it to the spring
+  place: the spring of Tabuk
+  time: forenoon
+  outcome: the spring gushes; he foretells gardens there
+  quoted:
+  - wa-l-ʿayn mithl al-shirak tabiddu
+  - an tara ma hahuna qad muliʾa jinanan
+- id: h-5726.2-asr
+  ref: Jāmiʿ 48:5726.2
+  unit: hadith-48-water-from-between-fingers
+  agent: the Prophet
+  action: puts his hand in a vessel of water
+  time: time of the ʿasr prayer
+  outcome: water springs from under his fingers; all make ablution
+  quoted: yanbaʿu min taht asabiʿihi
+- id: h-5727.1-tasbih
+  ref: Jāmiʿ 48:5727.1
+  unit: hadith-48-water-from-between-fingers
+  agent: the food
+  action: glorifies God while eaten
+  quoted:
+  - hayya ʿala al-tahur al-mubarak wa-l-baraka min allah
+  - kunna nasmaʿu tasbih al-taʿam wa-huwa yuʾkal
+- id: h-5727.2-drop
+  ref: Jāmiʿ 48:5727.2
+  unit: hadith-48-the-drop-in-the-dry-skin
+  agent: the Prophet
+  action: squeezes a drop of water while speaking
+  then spreads his fingers in a bowl: null
+  object: a drop in a worn water-skin
+  instrument: the riders' great bowl (jafna)
+  outcome: water wells from between his fingers until the bowl is full and all drink
+  quoted:
+  - ya jafnat al-rakb
+  - bismillah
+  - fa-raʾaytu al-maʾ yafuru min bayn asabiʿ rasul allah
+- id: h-5729.1-spit
+  ref: Jāmiʿ 48:5729.1
+  unit: hadith-48-spittle-in-the-well-of-hudaybiya
+  agent: the Prophet
+  action: prays or spits into the well
+  place: the well of al-Hudaybiya
+  number:
+  - 1400
+  - 50 sheep
+  outcome: the well surges
+  quoted: fa-immā daʿa wa-immā basaqa fiha fa-jashat
+- id: h-5729.2-loaves
+  ref: Jāmiʿ 48:5729.2
+  unit: hadith-48-multiplying-food
+  agent: the Prophet
+  action: has the bread crumbled and admits guests ten at a time
+  object: a few barley loaves with butter squeezed from a skin
+  place: house of Abu Talha
+  number:
+  - 10
+  - 70 or 80
+  outcome: all eat their fill
+  quoted: iʾdhan li-ʿashara
+- id: h-5730.1-hays
+  ref: Jāmiʿ 48:5730.1
+  unit: hadith-48-multiplying-food
+  agent: the Prophet
+  action: invites named men and whoever Anas meets to eat from a small bowl
+  object: hays in a stone pot (tawr)
+  number:
+  - about 300
+  - 10
+  time: his wedding
+  outcome: all eat; the dish seems fuller when lifted; Q 33:53 revealed when guests linger
+  quoted: fa-ma adri hina wadaʿtu kana akthar am hina rafaʿtu
+- id: h-5731.1-guests
+  ref: Jāmiʿ 48:5731.1
+  unit: hadith-48-multiplying-food
+  agent: Abu Bakr
+  action: swears not to eat
+  then eats: null
+  calling the oath Satan's: null
+  recipient: three guests from the Suffa
+  number:
+  - 3
+  - 10
+  - 12
+  outcome: the food grows to three times its size and is shared among twelve men's groups
+  quoted:
+  - ya ghunthar
+  - innama kana al-shaytan
+- id: h-5732.1-liver
+  ref: Jāmiʿ 48:5732.1
+  unit: hadith-48-feeding-the-army
+  agent: the Prophet
+  action: has a bought sheep's liver roasted and cut for every man
+  number:
+  - 130
+  - 1 saʿ
+  - 2 bowls
+  outcome: all eat; the remainder carried on a camel
+  quoted: illa qad hazza lahu hazzatan min sawad batniha
+- id: h-5732.2-trench
+  ref: Jāmiʿ 48:5732.2
+  unit: hadith-48-feeding-the-army
+  agent: the Prophet
+  action: spits into the dough and the pot and blesses them
+  object: a kid and a saʿ of barley
+  place: the Trench
+  number: 1000
+  outcome: all eat; pot still bubbling
+  dough still baking: null
+  quoted:
+  - ya ahl al-khandaq inna jabiran qad sanaʿa suran
+  - fa-basaqa fiha wa-baraka
+- id: h-5732.3-mat
+  ref: Jāmiʿ 48:5732.3
+  unit: hadith-48-feeding-the-army
+  agent: the Prophet
+  action: has provisions pooled on a leather mat
+  object: provisions the size of a crouching goat
+  number:
+  - 1400
+  - 8
+  outcome: all eat and fill their bags; all make ablution from a drop; eight latecomers told the water is finished
+  quoted:
+  - ka-rabdat al-ʿanz
+  - furigha al-wudūʾ
+- id: h-5733.1-dates
+  ref: Jāmiʿ 48:5733.1
+  unit: hadith-48-dates-of-the-debt-and-the-cup-of-milk
+  agent: the Prophet
+  action: sits on the heap of dates while Jabir measures to the creditors
+  recipient: creditors of ʿAbd Allah b. ʿAmr b. Haram
+  object: dates sorted (ʿajwa
+  ʿidhq zayd): null
+  outcome: debt paid; the dates as if not diminished
+  quoted: ka-annahu lam yanqus minhu shayʾ
+- id: h-5734.1-butter
+  ref: Jāmiʿ 48:5734.1
+  unit: hadith-48-blessed-vessels-that-fail-when-measured
+  agent: Umm Malik
+  action: squeezes out her butter-skin
+  object: skin (ʿukka) of clarified butter
+  outcome: it stops giving
+  quoted: law taraktiha ma zala qaʾiman
+- id: h-5735.1-barley
+  ref: Jāmiʿ 48:5735.1
+  unit: hadith-48-blessed-vessels-that-fail-when-measured
+  agent: a man
+  action: measures the barley the Prophet gave
+  object: half a wasq of barley
+  outcome: it runs out
+  quoted: law lam takilhu la-akaltum minhu wa-la-qama lakum
+- id: h-5735.2-tabuk
+  ref: Jāmiʿ 48:5735.2
+  unit: hadith-48-pooled-provisions-blessed
+  agent: the Prophet
+  action: prays for blessing over pooled leftover provisions
+  object:
+  - wheat
+  - dates
+  - date-stones
+  - millet
+  - crusts
+  instrument: leather mat (nitʿ)
+  place: Tabuk campaign
+  outcome: every vessel in the camp filled; he pronounces the double testimony
+  quoted: la yalqa allah bihima ʿabd ghayr shakk fihima illa dakhala al-janna
+- id: h-5736.2-foreleg
+  ref: Jāmiʿ 48:5736.2
+  unit: hadith-48-the-third-foreleg
+  agent: the Prophet
+  action: asks three times for the foreleg
+  recipient: Abu ʿUbayd
+  number: 3
+  outcome: a sheep has only two; had he kept silent a third would have come
+  quoted: law sakatta la-aʿtatka dhiraʿan ma daʿawtu bihi
+- id: h-5737.1-bowl
+  ref: Jāmiʿ 48:5737.1
+  unit: hadith-48-bowl-fed-from-heaven
+  object: a bowl (qasʿa)
+  time: from morning till night
+  number: 10
+  outcome: refilled from the sky
+  quoted: ma kanat tumaddu illa min hahuna
+- id: h-5738.1-bag
+  ref: Jāmiʿ 48:5738.1
+  unit: hadith-48-abu-hurayras-date-bag
+  agent: Abu Hurayra
+  action: keeps blessed dates in a bag at his waist
+  object: a few dates
+  time: until the day ʿUthman was killed
+  outcome: many wasqs carried in God's path; the bag lost
+  quoted: wa-la tanthurhu nathran
+- id: h-5738.2-store
+  ref: Jāmiʿ 48:5738.2
+  unit: hadith-48-abu-hurayras-date-bag
+  agent: ʿUmar
+  action: opens the storeroom at the Prophet's order
+  recipient: 440 riders of Muzayna
+  number: 440
+  outcome: all take what they like; not a date seems gone
+  quoted:
+  - shibh al-fasil al-rabid min tamr
+  - ka-anna lam narzaʾ tamra
+- id: h-5739.2-trunk
+  ref: Jāmiʿ 48:5739.2
+  unit: hadith-48-food-glorifies-and-the-weeping-trunk
+  agent: a palm trunk
+  action: cries out like pregnant she-camels
+  time: when the pulpit was set up
+  outcome: quiet when the Prophet lays his hand on it
+  quoted: mithl aswat al-ʿishar
+- id: h-5740.1-trunk
+  ref: Jāmiʿ 48:5740.1
+  unit: hadith-48-the-yearning-trunk
+  agent: a palm trunk
+  action: yearns (hanna)
+  time: when the Prophet moves to the pulpit
+  outcome: still when he strokes it
+  quoted: fa-hanna al-jidhʿ
+- id: h-5740.3-rain
+  ref: Jāmiʿ 48:5740.3
+  unit: hadith-48-rain-at-his-prayer
+  agent: the Prophet
+  action: raises his hands and prays for rain
+  recipient: a man complaining of drought
+  place: the pulpit in Medina
+  time:
+  - a Friday sermon
+  - one week
+  outcome: rain until the next Friday; then the cloud splits round Medina like a crown
+  quoted:
+  - wa-inna al-samaʾ la-mithl al-zujaja
+  - hawalayna wa-la ʿalayna
+  - ka-annahu iklil
+- id: h-5741.1-beard
+  ref: Jāmiʿ 48:5741.1
+  unit: hadith-48-rain-at-his-prayer
+  agent: the Prophet
+  action: prays for rain from the pulpit
+  outcome: clouds like mountains; rain drips from his beard before he descends; the valley of Qanat flows a month
+  time: one month
+  quoted: hatta raʾaytu al-matar yatahadaru ʿala lihyatihi
+- id: h-5742.1-dust
+  ref: Jāmiʿ 48:5742.1
+  unit: hadith-48-blessing-on-urwa-and-the-swift-mounts
+  agent: ʿUrwa al-Bariqi
+  action: buys two sheep with one dinar and sells one for a dinar
+  number:
+  - 1 dinar
+  - 2 sheep
+  outcome: the Prophet blesses his trade; he would profit on dust
+  quoted: law ishtara al-turab la-rabiha fihi
+- id: h-5742.3-horse
+  ref: Jāmiʿ 48:5742.3
+  unit: hadith-48-blessing-on-urwa-and-the-swift-mounts
+  agent: the Prophet
+  action: rides out alone on a slow horse at an alarm
+  object: horse of Abu Talha
+  outcome: never outrun afterwards
+  quoted:
+  - lam turaʿu
+  - innahu la-bahr
+- id: h-5742.4-ibn-salam
+  ref: Jāmiʿ 48:5742.4
+  unit: hadith-48-questions-only-a-prophet-knows
+  agent: ʿAbd Allah b. Salam
+  action: asks three questions only a prophet knows
+  recipient: the Prophet
+  number: 3
+  object:
+  - first sign of the Hour
+  - first food of paradise
+  - child's resemblance
+  outcome: he accepts Islam; the Jews call him best then worst of them
+  quoted:
+  - dhaka ʿaduww al-yahud min al-malaʾika
+  - ziyadat kabid al-hut
+  - khayruna wa-bnu khayrina ... sharruna wa-bnu sharrina
+- id: h-5743.1-rabbi
+  ref: Jāmiʿ 48:5743.1
+  unit: hadith-48-questions-only-a-prophet-knows
+  agent: a rabbi
+  action: questions the Prophet
+  recipient: the Prophet
+  instrument: a stick the Prophet scratches the ground with
+  object:
+  - where people are when the earth is changed
+  - first to cross
+  - gift on entering paradise
+  - their food after
+  - their drink
+  - the child
+  name:
+  - thawr al-janna
+  - salsabil
+  - fuqaraʾ al-muhajirin
+  outcome: the rabbi confirms; the Prophet says he knew none of it until God brought it
+  quoted:
+  - fi al-zulma duna al-jisr
+  - ziyadat kabid al-nun
+  - yunharu lahum thawr al-janna alladhi kana yaʾkulu min atrafiha
+  - maʾ al-rajul abyad wa-maʾ al-marʾa asfar
+- id: h-5744.1-earth
+  ref: Jāmiʿ 48:5744.1
+  unit: hadith-48-the-earth-casts-out-the-apostate
+  agent: the earth
+  action: casts out the buried apostate
+  recipient: a Christian convert scribe who returned to Christianity
+  number: 3
+  outcome: left unburied
+  quoted:
+  - ma yadri muhammad illa ma katabtu lahu
+  - fa-asbaha wa-qad lafazathu al-ard
+- id: h-5744.2-suraqa
+  ref: Jāmiʿ 48:5744.2
+  unit: hadith-48-the-hijra-and-suraqa
+  agent: the Prophet
+  action: prays against the pursuer
+  recipient: Suraqa b. Malik
+  instrument: Suraqa's horse
+  place: hard ground
+  outcome: horse sinks to its belly; Suraqa asks for prayer
+  is freed and turns back all pursuers: null
+  quoted:
+  - la tahzan inna allah maʿana
+  - fa-irtatamat bihi farasuhu ila batniha
+- id: h-5744.2-milk
+  ref: Jāmiʿ 48:5744.2
+  unit: hadith-48-the-hijra-and-suraqa
+  agent: Abu Bakr
+  action: has a shepherd milk a sheep and cools the milk with water
+  recipient: the sleeping Prophet
+  place: shade of a long rock
+  time: noon of the second day
+  instrument:
+  - wooden bowl (qaʿb)
+  - water-skin
+  - fur spread for sleeping
+  quoted: unfud al-darʿ min al-turab wa-l-shaʿr wa-l-qadha
+- id: h-5745.1-abu-rafi
+  ref: Jāmiʿ 48:5745.1
+  unit: hadith-48-healing-by-touch-and-breath
+  agent: ʿAbd Allah b. ʿAtik
+  action: enters the fortress disguised and kills Abu Rafiʿ in the dark
+  recipient: Abu Rafiʿ the Jew
+  instrument: sword
+  place: fortress in the Hijaz
+  upper chamber: null
+  time: night after sunset; cockcrow
+  outcome: falls from the stair and breaks his leg; the Prophet strokes it and it is whole
+  quoted:
+  - anʿa aba rafiʿ tajir ahl al-hijaz
+  - ubsut rijlaka
+  - fa-ka-annaha lam ashtakiha qattu
+- id: h-5746.1-salama
+  ref: Jāmiʿ 48:5746.1
+  unit: hadith-48-healing-by-touch-and-breath
+  agent: the Prophet
+  action: breathes on a wound
+  recipient: Salama b. al-Akwaʿ
+  time: day of Khaybar
+  number: 3
+  outcome: never pained him again
+  quoted: fa-nafatha fihi thalath nafathat
+- id: h-5746.2-cloak
+  ref: Jāmiʿ 48:5746.2
+  unit: hadith-48-blessings-on-persons
+  agent: the Prophet
+  action: scoops with his hand into a spread cloak
+  recipient: Abu Hurayra
+  instrument: his cloak (ridaʾ)
+  outcome: forgets no hadith after
+  quoted:
+  - ubsut ridaʾaka
+  - dummahu
+- id: h-5747.1-amr
+  ref: Jāmiʿ 48:5747.1
+  unit: hadith-48-blessings-on-persons
+  agent: the Prophet
+  action: strokes head and beard and prays for beauty
+  recipient: Abu Zayd ʿAmr b. Akhtab
+  number: over 100 years
+  outcome: hardly a white hair; face never wrinkled
+  quoted: allahumma jammilhu wa-adim jamalahu
+- id: h-5747.2-saib
+  ref: Jāmiʿ 48:5747.2
+  unit: hadith-48-blessings-on-persons
+  agent: the Prophet
+  action: prays for a sick boy
+  recipient: al-Saʾib b. Yazid
+  brought by his maternal aunt: null
+  number: 94
+  outcome: sound hearing and sight at 94
+  quoted: sammʿi wa-basari
+- id: h-5747.3-qatada
+  ref: Jāmiʿ 48:5747.3
+  unit: hadith-48-blessings-on-persons
+  agent: the Prophet
+  action: strokes a man's face
+  recipient: Qatada b. Milhan
+  time: Qatada's death-bed
+  outcome: a man far off in the house is seen reflected in his face
+  quoted: ka-anna ʿala wajhihi al-dihan
+- id: h-5748.1-ali
+  ref: Jāmiʿ 48:5748.1
+  unit: hadith-48-spittle-heals-ali-and-amr
+  agent: the Prophet
+  action: prays for ʿAli's sore eyes and gives him the banner
+  recipient: ʿAli b. Abi Talib
+  place: Khaybar
+  outcome: cured as if never pained
+  quoted: la-uʿtiyanna hadhihi al-raya rajulan yaftahu allah ʿala yadayhi
+- id: h-5748.3-leg
+  ref: Jāmiʿ 48:5748.3
+  unit: hadith-48-spittle-heals-ali-and-amr
+  agent: the Prophet
+  action: spits on a severed leg
+  recipient: ʿAmr b. Muʿadh
+  instrument: spittle
+  outcome: healed
+  quoted: tafala fi rijl ʿamr b. muʿadh hina qutiʿat rijluhu fa-baraʾa
+- id: h-5749.1-fatima
+  ref: Jāmiʿ 48:5749.1
+  unit: hadith-48-foretold-deaths-in-his-house
+  agent: the Prophet
+  action: whispers twice to his daughter
+  recipient: Fatima
+  time: his last illness
+  number: 2
+  outcome: weeps at his coming death; laughs at being first of his family to follow
+  quoted: anni awwal ahl baytihi atbaʿuhu
+- id: h-5749.3-arm
+  ref: Jāmiʿ 48:5749.3
+  unit: hadith-48-foretold-deaths-in-his-house
+  agent: the Prophet's wives
+  action: measure their arms with a reed
+  instrument: a reed (qasaba)
+  name:
+  - Sawda
+  - Zaynab
+  outcome: the longest 'arm' meant almsgiving
+  quoted: atwalukunna yadan
+- id: h-5750.2-mutah
+  ref: Jāmiʿ 48:5750.2
+  unit: hadith-48-news-of-mutah-and-hasan-the-peacemaker
+  agent: the Prophet
+  action: announces the deaths of the commanders before the news comes
+  name:
+  - Zayd
+  - Jaʿfar
+  - Ibn Rawaha
+  - sayf min suyuf allah
+  number: 3
+  outcome: weeps; victory under 'a sword of God's swords'
+  quoted: wa-ʿaynahu tadhrifan
+- id: h-5750.3-hasan
+  ref: Jāmiʿ 48:5750.3
+  unit: hadith-48-news-of-mutah-and-hasan-the-peacemaker
+  agent: the Prophet
+  action: foretells al-Hasan will reconcile two factions
+  recipient: al-Hasan b. ʿAli
+  place: the pulpit
+  number: 2
+  quoted: inna ibni hadha sayyid
+- id: h-5751.1-umayya
+  ref: Jāmiʿ 48:5751.1
+  unit: hadith-48-umayya-foretold-death
+  agent: Umayya b. Khalaf
+  action: hobbles his camel at every halt
+  place:
+  - Mecca
+  - Badr
+  name:
+  - Saʿd b. Muʿadh
+  - Abu Jahl
+  - Abu Safwan
+  - Umm Safwan
+  - al-yathribi
+  outcome: killed at Badr
+  quoted:
+  - 'innahum qatiluka. qala: bi-makka? qala: la adri'
+  - akhadha la yanzilu manzilan illa ʿaqala baʿirahu
+- id: h-5752.1-sword
+  ref: Jāmiʿ 48:5752.1
+  unit: hadith-48-the-brave-fighter-of-the-fire
+  agent: a fighter praised above all
+  action: falls on his own sword
+  instrument: sword
+  point between his breasts: null
+  outcome: the Prophet's word 'of the people of the Fire' confirmed
+  quoted:
+  - amma innahu min ahl al-nar
+  - fima yabdu li-l-nas
+- id: h-5753.1-arrow
+  ref: Jāmiʿ 48:5753.1
+  unit: hadith-48-the-brave-fighter-of-the-fire
+  agent: a man claiming Islam
+  action: kills himself with an arrow from his quiver
+  place: Khaybar
+  outcome: Bilal told to proclaim 'none enters paradise but a believer'
+  quoted: inna allah la-yuʾayyidu hadha al-din bi-l-rajul al-fajir
+- id: h-5756.1-poison
+  ref: Jāmiʿ 48:5756.1
+  unit: hadith-48-the-poisoned-sheep
+  agent: Jews of Khaybar
+  action: poison a sheep given to the Prophet
+  recipient: the Prophet
+  object: sheep
+  place: Khaybar
+  outcome: they admit it
+  quoted:
+  - nakunu fiha yasiran thumma takhlufuna fiha
+  - ikhsaʾu fiha
+  - in kunta nabiyyan lam yadurrak
+- id: h-5756.3-wind
+  ref: Jāmiʿ 48:5756.3
+  unit: hadith-48-tabuk-wind-and-return
+  agent: the Prophet
+  action: foretells a night wind and estimates a garden's yield
+  place:
+  - Wadi al-Qura
+  - Tabuk
+  - mountains of Tayyiʾ
+  number: 10 wasqs
+  outcome: a man who stood up is carried to the mountains of Tayyiʾ; the yield is exactly ten wasqs
+  quoted:
+  - fa-hamalathu al-rih hatta alqathu bi-jabalay tayyiʾ
+  - hadha uhud wa-huwa jabal yuhibbuna wa-nuhibbuhu
+- id: h-5757.1-arrow
+  ref: Jāmiʿ 48:5757.1
+  unit: hadith-48-dhul-khuwaysira-and-the-kharijites
+  agent: Dhu l-Khuwaysira of Tamim
+  action: tells the Prophet to be just
+  name: Dhu l-Khuwaysira
+  instrument:
+  - arrowhead
+  - binding
+  - shaft
+  - feathers
+  outcome: ʿAli fights them; the described man found
+  quoted:
+  - yamruquna min al-din kama yamruqu al-sahm min al-ramiyya
+  - mithl thady al-marʾa
+- id: h-5758.3-hira
+  ref: Jāmiʿ 48:5758.3
+  unit: hadith-48-kisra-qaysar-and-security
+  agent: the Prophet
+  action: foretells safety
+  treasure and abundance: null
+  recipient: ʿAdi b. Hatim
+  place:
+  - al-Hira
+  - the Kaʿba
+  name: Kisra b. Hurmuz
+  outcome: ʿAdi sees the woman travel and helps open Kisra's treasures
+  quoted:
+  - la-tarayanna al-zaʿina tartahilu min al-hira
+  - laysa baynahu wa-baynahu tarjuman
+- id: h-5759.2-saw
+  ref: Jāmiʿ 48:5759.2
+  unit: hadith-48-sawn-and-combed-martyrs
+  agent: persecutors of earlier believers
+  action: saw a believer in two and comb his flesh with iron
+  instrument:
+  - saw (minshar)
+  - iron combs
+  place: a pit in the ground
+  outcome: he does not turn from his religion
+  quoted:
+  - fa-yushaqqu bi-ithnatayn
+  - yumshatu bi-amshat al-hadid
+  - wa-lakinnakum tastaʿjilun
+- id: h-5759.3-asma
+  ref: Jāmiʿ 48:5759.3
+  unit: hadith-48-liar-and-destroyer-of-thaqif
+  agent: Asmaʾ bint Abi Bakr
+  action: tells al-Hajjaj he is the destroyer foretold
+  recipient: al-Hajjaj
+  name:
+  - dhat al-nitaqayn
+  - Abu Khubayb
+  - kadhdhab
+  - mubir
+  outcome: he leaves without reply
+  quoted: inna fi thaqif kadhdhaban wa-mubiran
+- id: h-5760.1-bracelets
+  ref: Jāmiʿ 48:5760.1
+  unit: hadith-48-the-two-gold-bracelets
+  agent: the Prophet
+  action: blows on two gold bracelets in a dream
+  object: two gold bracelets
+  number: 2
+  name:
+  - al-ʿAnsi
+  - Musaylima
+  outcome: they fly away; read as two liars after him
+  quoted:
+  - an unfukhhuma fa-nafakhtuhuma fa-tara
+  - law saʾaltani hadhihi al-qitʿa ma aʿtaytukaha
+- id: h-5761.2-wind
+  ref: Jāmiʿ 48:5761.2
+  unit: hadith-48-wind-for-a-hypocrite-and-the-pinch
+  agent: God
+  action: sends a violent wind
+  place: near Medina
+  outcome: a great hypocrite found dead
+  quoted: buʿithat hadhihi al-rih li-mawt munafiq
+- id: h-5761.3-pinch
+  ref: Jāmiʿ 48:5761.3
+  unit: hadith-48-wind-for-a-hypocrite-and-the-pinch
+  agent: the Prophet
+  action: withholds his hand from the pledge
+  recipient: Abu Shahm
+  outcome: pledges after Abu Shahm swears not to repeat it
+  quoted: sahib al-jabdha
+- id: h-5762.1-seventy
+  ref: Jāmiʿ 48:5762.1
+  unit: hadith-48-seventy-thousand-thrice
+  agent: a man reading Torah and Gospel
+  action: says the expected prophet has seventy thousand without reckoning
+  recipient: the Prophet
+  place: the mosque
+  number:
+  - 70000
+  - 3
+  quoted: la-aktharu min sabʿina alfan wa-sabʿina alfan wa-sabʿina alfan
+- id: h-5762.2-sheep
+  ref: Jāmiʿ 48:5762.2
+  unit: hadith-48-the-stolen-sheep-and-the-ansar
+  agent: the Prophet
+  action: chews a morsel and cannot swallow it
+  object: meat of a sheep taken without its owners' leave
+  place: a Qurashi woman's house after a funeral
+  name: ʿAmir b. Abi Waqqas
+  outcome: spits it out; orders it fed to the captives
+  quoted:
+  - ajidu lahm shatin ukhidhat bi-ghayr idhn ahliha
+  - atʿimuha al-asara
+- id: h-5763.1-salt
+  ref: Jāmiʿ 48:5763.1
+  unit: hadith-48-the-stolen-sheep-and-the-ansar
+  agent: the Prophet
+  action: preaches his last sermon
+  place: the pulpit
+  time: his final illness
+  object: the Ansar
+  outcome: his last sitting
+  quoted: bi-manzilat al-milh fi al-taʿam
+- id: h-5763.2-hundred
+  ref: Jāmiʿ 48:5763.2
+  unit: hadith-48-hundred-years-and-the-conquests
+  agent: God
+  action: sends a wind that takes every believer's soul
+  time: at the head of a hundred years
+  number: 100
+  quoted: la yanqusuni miʾat sana wa-ʿayn tatrif
+- id: h-5763.3-four
+  ref: Jāmiʿ 48:5763.3
+  unit: hadith-48-hundred-years-and-the-conquests
+  agent: the Prophet
+  action: foretells four conquests
+  object:
+  - Arabia
+  - Persia
+  - Rome
+  - the Dajjal
+  number: 4
+  place: a hillock
+  men from the west in wool: null
+  quoted: aʿudduhunna fi yadi
+- id: h-5764.2-egypt
+  ref: Jāmiʿ 48:5764.2
+  unit: hadith-48-hundred-years-and-the-conquests
+  agent: the Prophet
+  action: foretells the conquest of Egypt
+  recipient: Abu Dharr
+  name:
+  - al-qirat
+  - ʿAbd al-Rahman b. Shurahbil b. Hasana
+  - Rabiʿa
+  outcome: Abu Dharr leaves Egypt seeing two brothers quarrel over a brick's space
+  quoted:
+  - dhimma wa-rahim
+  - fi mawdiʿ labina
+- id: h-5764.3-woman
+  ref: Jāmiʿ 48:5764.3
+  unit: hadith-48-a-woman-ruler-and-jerusalem-shown
+  agent: the Prophet
+  action: hears the Persians crowned Kisra's daughter
+  recipient: Persians
+  outcome: Abu Bakra kept out of the Battle of the Camel
+  quoted: lan yufliha qawm wallaw amrahum imraʾa
+- id: h-5765.2-jerusalem
+  ref: Jāmiʿ 48:5765.2
+  unit: hadith-48-a-woman-ruler-and-jerusalem-shown
+  agent: God
+  action: raises Jerusalem before the Prophet's eyes
+  recipient: the Prophet questioned by Quraysh
+  place: the Hijr at the Kaʿba
+  time: after the night journey
+  outcome: he answers every question
+  quoted:
+  - fa-karibtu kurbatan ma karibtu mithlahu qattu
+  - fa-rafaʿahu allah li anzuru ilayhi
+- id: h-5765.3-badr
+  ref: Jāmiʿ 48:5765.3
+  unit: hadith-48-death-places-at-badr
+  agent: the Prophet
+  action: lays his hand on the ground where each chief will fall
+  place: Badr
+  name:
+  - Abu Jahl
+  - ʿUtba
+  - Shayba
+  - Umayya b. Khalaf
+  - Saʿd b. ʿUbada
+  - bark al-ghimad
+  outcome: none fell away from the spot
+  quoted:
+  - hadha masraʿ fulan
+  - fa-ma mata ahaduhum ʿan mawdiʿ yad rasul allah
+- id: h-5766.3-forty
+  ref: Jāmiʿ 48:5766.3
+  unit: hadith-48-the-earth-folded-and-wealth-refused
+  agent: one man
+  action: is followed by women seeking refuge
+  number: 40
+  outcome: alms of gold find no taker
+  quoted: yatbaʿuhu arbaʿun imraʾa yaludhna bihi
+- id: h-5767.1-fire
+  ref: Jāmiʿ 48:5767.1
+  unit: hadith-48-hijaz-fire-and-long-life
+  agent: a fire
+  action: comes out of the Hijaz
+  place:
+  - Hijaz
+  - Busra
+  outcome: lights the necks of camels at Busra
+  quoted: tudiʾu aʿnaq al-ibil bi-busra
+- id: h-5767.2-mole
+  ref: Jāmiʿ 48:5767.2
+  unit: hadith-48-hijaz-fire-and-long-life
+  agent: the Prophet
+  action: puts his finger on a mole
+  recipient: ʿAbd Allah b. Busr
+  number: 100 years
+  quoted: la-tablughanna qarnan
+- id: h-5768.2-camel
+  ref: Jāmiʿ 48:5768.2
+  unit: hadith-48-india-and-the-camel-that-knows
+  agent: a savage camel
+  action: kneels with its lip on the ground
+  recipient: the Prophet
+  place: a garden of the Banu al-Najjar
+  outcome: haltered and returned to its owner
+  quoted: illa ʿasi al-jinn wa-l-ins
+- id: h-5769.1-abu-lahab
+  ref: Jāmiʿ 48:5769.1
+  unit: hadith-48-tariq-and-the-moon-faced-buyer
+  agent: Abu Lahab ʿAbd al-ʿUzza
+  action: follows the Prophet throwing stones and calling him a liar
+  recipient: the Prophet in a red hulla
+  place: market of Dhu l-Majaz
+  instrument: stones
+  outcome: his heels and ankles bleed
+  quoted:
+  - qulu la ilaha illa allah tuflihu
+  - la tutiʿuhu fa-innahu kadhdhab
+- id: h-5769.1-camel
+  ref: Jāmiʿ 48:5769.1
+  unit: hadith-48-tariq-and-the-moon-faced-buyer
+  agent: a man in two white garments
+  action: buys a camel and leaves without paying
+  recipient: travellers from al-Rabadha
+  outcome: his messenger brings dates beyond the price; he is the Prophet
+  quoted:
+  - ashbah bi-l-qamar laylat al-badr min wajhihi
+  - la tajni umm ʿala walad
+- id: h-5771.1-bedouin
+  ref: Jāmiʿ 48:5771.1
+  unit: hadith-48-the-bedouin-who-adjures-him
+  agent: a bedouin (Dimam b. Thaʿlaba)
+  action: adjures the Prophet by the creator of sky
+  earth and mountains: null
+  object:
+  - five prayers
+  - zakat
+  - fast of Ramadan
+  - pilgrimage
+  number: 5
+  outcome: will enter paradise if truthful
+  quoted: la azidu ʿalayhinna wa-la anqusu minhunna
+- id: h-5772.1-chant
+  ref: Jāmiʿ 48:5772.1
+  unit: hadith-48-ashariyyun-and-abu-hurayras-arrival
+  agent: the Ashʿaris
+  action: chant approaching Medina and shake hands
+  name: Abu Musa al-Ashʿari
+  outcome: first to shake hands
+  quoted: ghadan nalqa al-ahibba muhammadan wa-hizbahu
+- id: h-5772.2-slave
+  ref: Jāmiʿ 48:5772.2
+  unit: hadith-48-ashariyyun-and-abu-hurayras-arrival
+  agent: Abu Hurayra
+  action: frees his runaway slave on his return
+  time: on arrival to pledge
+  outcome: freed 'for God's face'
+  quoted: huwa li-wajh allah
+- id: h-5773.1-hands
+  ref: Jāmiʿ 48:5773.1
+  unit: hadith-48-tufayl-and-daws
+  agent: a Dawsi emigrant
+  action: cuts his finger joints with arrowheads
+  instrument: broad arrowheads (mashaqis)
+  place: Medina
+  outcome: bleeds to death; seen in a dream forgiven with covered hands; the Prophet prays for his hands
+  quoted:
+  - lan nuslih minka ma afsadta
+  - allahumma wa-li-yadayhi fa-ghfir
+- id: h-5773.2-daws
+  ref: Jāmiʿ 48:5773.2
+  unit: hadith-48-tufayl-and-daws
+  agent: the Prophet
+  action: prays for guidance when asked to curse
+  recipient: the tribe of Daws
+  quoted: allahumma hdi dawsan wa-ʾti bihim
+- id: h-5774.1-naqir
+  ref: Jāmiʿ 48:5774.1
+  unit: hadith-48-abd-al-qays-four-and-four
+  agent: the Prophet
+  action: forbids four vessels and permits tied leather skins
+  recipient: the delegation of ʿAbd al-Qays
+  object:
+  - dubbaʾ
+  - hantam
+  - muzaffat
+  - naqir
+  number:
+  - 4
+  - 4
+  - 3
+  name: Ashajj ʿAbd al-Qays
+  outcome: a wounded man among them hides his wound
+  quoted:
+  - la-yadribu ibn ʿammihi bi-l-sayf
+  - wa-in akalatha al-jirdhan
+- id: h-5776.1-fever
+  ref: Jāmiʿ 48:5776.1
+  unit: hadith-48-abd-al-qays-vessels-and-the-fevered-land
+  agent: the Prophet
+  action: permits the delegation to drink what suits them
+  recipient: delegation of ʿAbd al-Qays
+  outcome: they had become yellow
+  swollen-bellied and veined after the ban: null
+  quoted:
+  - isfarrat alwanukum wa-ʿazumat butunukum
+  - fa-shrabu ma taba lakum
+- id: h-5777.1-asad
+  ref: Jāmiʿ 48:5777.1
+  unit: hadith-48-banu-asad-boast-of-their-islam
+  agent: delegation of Banu Asad
+  action: claim credit for not fighting him
+  recipient: the Prophet
+  outcome: Q 49:17 sent down
+  quoted:
+  - wa-inna al-shaytan la-yantiqu ʿala lisanihim
+  - yamunnuna ʿalayka an aslamu
+- id: h-5779.1-hamdan
+  ref: Jāmiʿ 48:5779.1
+  unit: hadith-48-hamdan-and-najran
+  agent: ʿAli
+  action: leads prayer and reads the Prophet's letter
+  recipient: Hamdan in Yemen
+  instrument: the Prophet's letter
+  outcome: all Hamdan accept Islam; the Prophet prostrates on reading ʿAli's letter
+  quoted: al-salam ʿala hamdan
+- id: h-5780.1-mubahala
+  ref: Jāmiʿ 48:5780.1
+  unit: hadith-48-hamdan-and-najran
+  agent: al-ʿAqib and al-Sayyid of Najran
+  action: come to curse mutually and back down
+  recipient: the Prophet
+  name:
+  - al-ʿAqib
+  - al-Sayyid
+  - Abu ʿUbayda b. al-Jarrah
+  outcome: offer tribute; Abu ʿUbayda sent as the trustworthy man
+  quoted:
+  - la nuflihu nahnu wa-la ʿaqibuna min baʿdina
+  - hadha amin hadhihi al-umma
+- id: h-5780.2-treaty
+  ref: Jāmiʿ 48:5780.2
+  unit: hadith-48-hamdan-and-najran
+  agent: the Prophet
+  action: makes peace with Najran
+  recipient: people of Najran
+  object:
+  - 2000 robes
+  - 30 coats of mail
+  - 30 horses
+  - 30 camels
+  - 30 of each weapon
+  number:
+  - 2000
+  - 30
+  time:
+  - Safar
+  - Rajab
+  outcome: churches kept
+  priests not expelled: null
+  unless they innovate or eat usury: null
+  quoted: an la tuhdama lahum biʿa wa-la yukhraja lahum qass
+- id: h-5782.1-tamim
+  ref: Jāmiʿ 48:5782.1
+  unit: hadith-48-tamim-and-the-yemenis
+  agent: the Prophet
+  action: offers good news
+  recipient:
+  - Banu Tamim
+  - people of Yemen
+  outcome: Tamim ask for gifts; the Yemenis accept
+  quoted: aqbalu al-bushra idh lam yaqbalha banu tamim
+- id: h-5782.2-yemen
+  ref: Jāmiʿ 48:5782.2
+  unit: hadith-48-tamim-and-the-yemenis
+  agent: the Prophet
+  action: praises the Yemenis
+  object:
+  - camel-owners
+  - sheep-owners
+  quoted:
+  - al-iman yaman wa-l-hikma yamaniyya
+  - al-sakina wa-l-waqar fi ahl al-ghanam
+- id: h-5782.3-voices
+  ref: Jāmiʿ 48:5782.3
+  unit: hadith-48-raised-voices-of-abu-bakr-and-umar
+  agent:
+  - Abu Bakr
+  - ʿUmar
+  action: quarrel over who should command Tamim
+  name:
+  - al-Qaʿqaʿ b. Maʿbad
+  - al-Aqraʿ b. Habis
+  outcome: Q 49:1-3 sent down; ʿUmar thereafter speaks so low he must be asked to repeat
+  quoted:
+  - ma aradta illa khilafi
+  - ka-akhi al-sirar
+- id: h-5783.1-nadr
+  ref: Jāmiʿ 48:5783.1
+  unit: hadith-48-kinda-sons-of-al-nadr
+  agent: al-Ashʿath b. Qays
+  action: claims kinship with the Prophet
+  recipient: the Prophet
+  name: al-Nadr b. Kinana
+  outcome: the Prophet refuses descent through the mother
+  quoted: la naqfu ummana wa-la nantafi min abina
+- id: h-5785.2-qadib
+  ref: Jāmiʿ 48:5785.2
+  unit: hadith-48-musaylima-and-the-bracelets-again
+  agent: the Prophet
+  action: refuses Musaylima even his rod
+  recipient: Musaylima
+  instrument: a rod (qadib)
+  place: house of Bint al-Harith
+  name:
+  - Thabit b. Qays b. Shammas
+  - khatib rasul allah
+  quoted: law saʾaltani hadha al-qadib ma aʿtaytukahu
+- id: h-5786.1-envoys
+  ref: Jāmiʿ 48:5786.1
+  unit: hadith-48-envoys-are-not-killed
+  agent: the Prophet
+  action: spares the envoys who affirm Musaylima
+  recipient: two envoys of Musaylima
+  number: 2
+  quoted: law la anna al-rusul la tuqtal la-darabtu aʿnaqakuma
+- id: h-5789.1-leper
+  ref: Jāmiʿ 48:5789.1
+  unit: hadith-48-thaqif-and-the-leper
+  agent: the Prophet
+  action: accepts a pledge by message
+  recipient: a leper in the delegation of Thaqif
+  outcome: told to go back without coming
+  quoted: inna qad bayaʿnaka fa-rjiʿ
+- id: h-5790.1-omen
+  ref: Jāmiʿ 48:5790.1
+  unit: hadith-48-qaylas-journey
+  agent: Hudayba
+  Qayla's little daughter: null
+  action: reads the hare and the fox as omens and prescribes a counter-rite
+  object:
+  - hare
+  - fox
+  - camel seized by trembling
+  instrument: garments turned inside out
+  saddle-cloths reversed: null
+  name:
+  - Athwab b. Azhar
+  - Hurayth b. Hassan
+  outcome: the camel shakes itself
+  rises and urinates: null
+  quoted:
+  - adrakatki ... akhdhatu athwab
+  - iqlibi thiyabaki zuhuraha li-butuniha
+- id: h-5790.1-row
+  ref: Jāmiʿ 48:5790.1
+  unit: hadith-48-qaylas-journey
+  agent: Qayla
+  action: stands in the men's row at the dawn prayer
+  time: dawn
+  the stars still interlaced: null
+  outcome: told by the man beside her to pray with the women behind
+  quoted: innaki qad kidti taftinini
+- id: h-5790.1-dahna
+  ref: Jāmiʿ 48:5790.1
+  unit: hadith-48-qaylas-journey
+  agent: the Prophet
+  action: stops the scribe writing the grant of al-Dahna
+  recipient: Hurayth b. Hassan of Bakr b. Waʾil
+  place: al-Dahna
+  outcome: Qayla is given a charter on red leather
+  quoted:
+  - ya miskina ʿalayki al-sakina
+  - al-muslim akhu al-muslim yasaʿuhuma al-maʾ wa-l-shajar
+  - hatfaha tahmilu daʾnun bi-azlafiha
+- id: h-5793.1-hundred
+  ref: Jāmiʿ 48:5793.1
+  unit: hadith-48-laqit-and-the-hundred-sheep
+  agent: the Prophet
+  action: has a sheep slaughtered for each lamb born
+  recipient: delegation of Banu al-Muntafiq
+  number: 100
+  object:
+  - khazira
+  - platter of dates
+  outcome: flock never exceeds a hundred
+  quoted:
+  - lana ghanam miʾa la nuridu an tazid
+  - la tadrib zaʿinataka ka-darbika umayyataka
+- id: h-5794.1-sayyid
+  ref: Jāmiʿ 48:5794.1
+  unit: hadith-48-the-sayyid-is-god
+  agent: the Prophet
+  action: refuses the title 'our lord'
+  recipient: delegation of Banu ʿAmir
+  quoted: al-sayyid allah
+- id: h-5797.1-heraclius
+  ref: Jāmiʿ 48:5797.1
+  unit: hadith-48-heraclius-and-abu-sufyan
+  agent: Heraclius
+  action: questions Abu Sufyan through an interpreter and reads the Prophet's letter
+  recipient: Abu Sufyan and Qurashi traders
+  place:
+  - Iliyaʾ
+  - Hims
+  name:
+  - Dihya
+  - ʿazim Busra
+  - Ibn al-Natur
+  - al-arisiyyin
+  - Ibn Abi Kabsha
+  - Bani al-Asfar
+  outcome: the Romans bolt for the locked doors; he says he was testing them; they prostrate to him
+  quoted:
+  - fa-sa-yamliku mawdiʿ qadamayya hatayn
+  - malik al-khitan qad zahara
+  - fa-hasu haysat humur al-wahsh ila al-abwab
+- id: h-5800.1-caesar
+  ref: Jāmiʿ 48:5800.1
+  unit: hadith-48-caesar-feigns-islam-and-chosroes-tears-the-letter
+  agent: an envoy
+  action: throws the letter on Caesar's private carpet
+  recipient: Caesar
+  place: on the road to Jerusalem
+  instrument: a carpet no one else walks on
+  outcome: Caesar feigns Islam
+  tests his troops: null
+  sends dinars; the Prophet calls him a liar and divides the dinars: null
+  quoted: kadhaba ʿaduww allah laysa bi-muslim
+- id: h-5800.2-kisra
+  ref: Jāmiʿ 48:5800.2
+  unit: hadith-48-caesar-feigns-islam-and-chosroes-tears-the-letter
+  agent: Chosroes
+  action: tears up the Prophet's letter
+  recipient: ʿAbd Allah b. Hudhafa al-Sahmi via the governor of Bahrain
+  outcome: the Prophet prays they be torn to pieces
+  quoted: an yumazzaqu kulla mumazzaq
+- id: h-5801.2-muqawqis
+  ref: Jāmiʿ 48:5801.2
+  unit: hadith-48-muqawqis-and-letters-to-tribes
+  agent: al-Muqawqis
+  action: honours the letter and sends gifts
+  recipient: the Prophet via Hatib b. Abi Baltaʿa
+  object:
+  - clothing
+  - a grey mule with saddle
+  - two slave girls
+  number: 2
+  name:
+  - umm ibrahim
+  - Jahm b. Qays
+  place: Alexandria
+- id: h-5803.2-reader
+  ref: Jāmiʿ 48:5803.2
+  unit: hadith-48-muqawqis-and-letters-to-tribes
+  agent: the Prophet
+  action: writes to Bakr b. Waʾil
+  recipient: Bakr b. Waʾil
+  outcome: only one man of Banu Dubayʿa can read it; they are called Banu al-Katib
+  quoted: aslimu taslamu

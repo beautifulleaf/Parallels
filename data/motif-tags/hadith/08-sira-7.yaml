@@ -1,0 +1,3751 @@
+# Hadith chunk 8: al-Jamiʿ al-Kamil, book 48 (kitab sirat al-nabi), Shamela pages 5683-5812, read in full from the Arabic.
+# Shamail (habits, dress, ring, sword), khasaʾis, dalaʾil al-nubuwwa (miracles, prophecies), the delegations and the letters to rulers.
+new_motifs:
+  prophet-drinks-standing-and-sitting:
+    label: Prophet drinks standing and sitting
+    cluster: sira
+  prays-shod-and-barefoot:
+    label: Prays shod and barefoot
+    cluster: sira
+  leaves-prayer-turning-right-or-left:
+    label: Leaves prayer turning right or left
+    cluster: sira
+  eats-with-three-fingers-and-licks-them:
+    label: Eats with three fingers and licks them
+    cluster: sira
+  fallen-morsel-not-left-for-satan:
+    label: Fallen morsel not left for satan
+    cluster: sira
+  blessing-hidden-in-unknown-part-of-food:
+    label: Blessing hidden in unknown part of food
+    cluster: sira
+  eats-dates-squatting:
+    label: Eats dates squatting
+    cluster: sira
+  reclines-on-cushion-on-left-side:
+    label: Reclines on cushion on left side
+    cluster: sira
+  prophet-perfume-container-sukka:
+    label: Prophet perfume container sukka
+    cluster: sira
+  prayer-for-good-of-new-garment-and-its-making:
+    label: Prayer for good of new garment and its making
+    cluster: sira
+  kohl-three-in-right-eye-two-in-left:
+    label: Kohl three in right eye two in left
+    cluster: sira
+  kohl-and-stone-wiping-in-odd-numbers:
+    label: Kohl and stone wiping in odd numbers
+    cluster: sira
+  cautery-forbidden:
+    label: Cautery forbidden
+    cluster: sira
+  dislikes-hot-drink:
+    label: Dislikes hot drink
+    cluster: sira
+  lies-on-back-one-leg-over-other-in-mosque:
+    label: Lies on back one leg over other in mosque
+    cluster: sira
+  sits-clasping-knees-with-hands:
+    label: Sits clasping knees with hands
+    cluster: sira
+  grandson-called-lukaa-runs-into-lap:
+    label: Grandson called lukaa runs into lap
+    cluster: sira
+  puts-childs-mouth-in-his-mouth:
+    label: Puts childs mouth in his mouth
+    cluster: sira
+  prayer-i-love-him-so-love-him:
+    label: Prayer i love him so love him
+    cluster: sira
+  visitor-trembles-at-humble-prophet:
+    label: Visitor trembles at humble prophet
+    cluster: sira
+  sleeps-on-right-side-on-journey-halt:
+    label: Sleeps on right side on journey halt
+    cluster: ritual
+  before-dawn-rests-head-on-raised-palm:
+    label: Before dawn rests head on raised palm
+    cluster: ritual
+  bedtime-praise-for-food-drink-shelter:
+    label: Bedtime praise for food drink shelter
+    cluster: ritual
+  blows-into-palms-reciting-three-surahs-and-wipes-body:
+    label: Blows into palms reciting three surahs and wipes body
+    cluster: ritual
+  prophet-serves-his-household:
+    label: Prophet serves his household
+    cluster: sira
+  prophet-mends-sandal-and-sews-garment:
+    label: Prophet mends sandal and sews garment
+    cluster: sira
+  recitation-drawn-out-on-basmala:
+    label: Recitation drawn out on basmala
+    cluster: ritual
+  prophet-asks-companion-to-recite-to-him:
+    label: Prophet asks companion to recite to him
+    cluster: ritual
+  tears-at-verse-of-witness-over-nations:
+    label: Tears at verse of witness over nations
+    cluster: ritual
+  night-talk-on-public-affairs:
+    label: Night talk on public affairs
+    cluster: sira
+  would-accept-even-a-trotter:
+    label: Would accept even a trotter
+    cluster: sira
+  speech-so-measured-words-could-be-counted:
+    label: Speech so measured words could be counted
+    cluster: sira
+  repeats-word-three-times-greets-three-times:
+    label: Repeats word three times greets three times
+    cluster: sira
+  aisha-rebukes-rapid-narration:
+    label: Aisha rebukes rapid narration
+    cluster: sira
+  favourite-garment-striped-yemeni-hibara:
+    label: Favourite garment striped yemeni hibara
+    cluster: sira
+  none-handsomer-in-red-hulla:
+    label: None handsomer in red hulla
+    cluster: sira
+  narrow-sleeved-syrian-jubba-arm-drawn-out-below:
+    label: Narrow sleeved syrian jubba arm drawn out below
+    cluster: sira
+  wipes-over-leather-socks:
+    label: Wipes over leather socks
+    cluster: sira
+  wool-wrap-of-black-hair-with-saddle-pattern:
+    label: Wool wrap of black hair with saddle pattern
+    cluster: sira
+  sick-prophet-leans-on-usama-in-qitri-cloth:
+    label: Sick prophet leans on usama in qitri cloth
+    cluster: sira
+  shirt-buttons-left-open-hand-touches-seal:
+    label: Shirt buttons left open hand touches seal
+    cluster: sira
+  shirt-the-most-beloved-garment:
+    label: Shirt the most beloved garment
+    cluster: sira
+  shirt-sleeve-to-the-wrist:
+    label: Shirt sleeve to the wrist
+    cluster: sira
+  sandal-with-two-thongs:
+    label: Sandal with two thongs
+    cluster: sira
+  hairless-sibti-sandals-worn-for-ablution:
+    label: Hairless sibti sandals worn for ablution
+    cluster: sira
+  ring-made-because-foreign-kings-read-only-sealed-letters:
+    label: Ring made because foreign kings read only sealed letters
+    cluster: sira
+  ring-engraved-muhammad-rasul-allah:
+    label: Ring engraved muhammad rasul allah
+    cluster: sira
+  ring-passes-to-successors-then-lost-in-well:
+    label: Ring passes to successors then lost in well
+    cluster: sira
+  gold-ring-thrown-away-for-silver:
+    label: Gold ring thrown away for silver
+    cluster: sira
+  ring-stone-worn-toward-palm:
+    label: Ring stone worn toward palm
+    cluster: sira
+  ring-cast-off-and-people-cast-theirs:
+    label: Ring cast off and people cast theirs
+    cluster: sira
+  ring-stone-abyssinian:
+    label: Ring stone abyssinian
+    cluster: sira
+  ring-engraving-in-three-lines:
+    label: Ring engraving in three lines
+    cluster: sira
+  caliph-seals-letter-with-prophets-ring:
+    label: Caliph seals letter with prophets ring
+    cluster: sira
+  ring-worn-on-right-hand:
+    label: Ring worn on right hand
+    cluster: sira
+  ring-on-little-finger-of-left-hand:
+    label: Ring on little finger of left hand
+    cluster: sira
+  none-may-engrave-the-prophets-seal-text:
+    label: None may engrave the prophets seal text
+    cluster: sira
+  sword-pommel-of-silver:
+    label: Sword pommel of silver
+    cluster: sira
+  two-mail-coats-at-uhud:
+    label: Two mail coats at uhud
+    cluster: sira
+  companion-crouches-as-step-to-the-rock:
+    label: Companion crouches as step to the rock
+    cluster: sira
+  deed-earns-paradise-awjaba:
+    label: Deed earns paradise awjaba
+    cluster: sira
+  enters-mecca-in-black-turban-without-ihram:
+    label: Enters mecca in black turban without ihram
+    cluster: sira
+  last-sermon-with-greasy-black-headband:
+    label: Last sermon with greasy black headband
+    cluster: sira
+  red-leather-tent-and-red-hulla-at-abtah:
+    label: Red leather tent and red hulla at abtah
+    cluster: sira
+  people-take-the-prophets-ablution-water:
+    label: People take the prophets ablution water
+    cluster: sira
+  died-in-coarse-wrap-and-patched-cloak:
+    label: Died in coarse wrap and patched cloak
+    cluster: sira
+  wrap-hem-to-instep-in-front-raised-behind:
+    label: Wrap hem to instep in front raised behind
+    cluster: sira
+  prophets-cup-mended-with-silver-chain:
+    label: Prophets cup mended with silver chain
+    cluster: sira
+  do-not-change-what-the-prophet-made:
+    label: Do not change what the prophet made
+    cluster: sira
+  four-drinks-from-one-cup:
+    label: Four drinks from one cup
+    cluster: sira
+  bed-of-leather-stuffed-with-palm-fibre:
+    label: Bed of leather stuffed with palm fibre
+    cluster: sira
+  tooth-stick-sound-a-a-like-retching:
+    label: Tooth stick sound a a like retching
+    cluster: ritual
+  tooth-stick-first-on-entering-house:
+    label: Tooth stick first on entering house
+    cluster: ritual
+  scrubs-mouth-on-rising-at-night:
+    label: Scrubs mouth on rising at night
+    cluster: ritual
+  where-am-i-tomorrow-asks-the-dying-prophet:
+    label: Where am i tomorrow asks the dying prophet
+    cluster: ritual
+  dies-with-head-between-wifes-chest-and-throat:
+    label: Dies with head between wifes chest and throat
+    cluster: ritual
+  wife-chews-tooth-stick-for-dying-prophet:
+    label: Wife chews tooth stick for dying prophet
+    cluster: ritual
+  sent-with-comprehensive-words:
+    label: Sent with comprehensive words
+    cluster: prophecy
+  helped-by-terror-a-months-journey:
+    label: Helped by terror a months journey
+    cluster: prophecy
+  named-ahmad:
+    label: Named ahmad
+    cluster: prophecy
+  earth-made-mosque-and-means-of-purification:
+    label: Earth made mosque and means of purification
+    cluster: prophecy
+  earlier-communities-prayed-only-in-churches-and-synagogues:
+    label: Earlier communities prayed only in churches and synagogues
+    cluster: prophecy
+  earlier-communities-burned-the-spoils:
+    label: Earlier communities burned the spoils
+    cluster: prophecy
+  sent-to-all-people-not-only-his-own:
+    label: Sent to all people not only his own
+    cluster: prophecy
+  each-prophet-had-one-granted-request-his-kept-for-intercession:
+    label: Each prophet had one granted request his kept for intercession
+    cluster: prophecy
+  his-community-made-best-of-nations:
+    label: His community made best of nations
+    cluster: prophecy
+  companions-guard-the-prophet-at-night-prayer:
+    label: Companions guard the prophet at night prayer
+    cluster: prophecy
+  lying-about-the-prophet-earns-seat-in-fire:
+    label: Lying about the prophet earns seat in fire
+    cluster: ethics
+  dead-punished-for-wailing-over-them:
+    label: Dead punished for wailing over them
+    cluster: ethics
+  prophet-stipulates-his-curses-become-blessing:
+    label: Prophet stipulates his curses become blessing
+    cluster: prayer
+  i-am-only-human-angry-as-humans-are:
+    label: I am only human angry as humans are
+    cluster: prayer
+  covenant-with-god-that-he-will-not-break:
+    label: Covenant with god that he will not break
+    cluster: prayer
+  insult-turned-into-nearness-on-resurrection-day:
+    label: Insult turned into nearness on resurrection day
+    cluster: prayer
+  orphan-girl-fears-curse-may-your-age-not-grow:
+    label: Orphan girl fears curse may your age not grow
+    cluster: prayer
+  mother-runs-winding-her-veil:
+    label: Mother runs winding her veil
+    cluster: prayer
+  prophet-sees-behind-his-back-in-prayer:
+    label: Prophet sees behind his back in prayer
+    cluster: sira
+  you-see-my-qibla-here:
+    label: You see my qibla here
+    cluster: sira
+  seeing-prophet-in-dream-is-true-sight:
+    label: Seeing prophet in dream is true sight
+    cluster: dreams
+  do-not-tell-satans-play-in-dreams:
+    label: Do not tell satans play in dreams
+    cluster: dreams
+  seeing-prophet-dearer-than-family-and-wealth:
+    label: Seeing prophet dearer than family and wealth
+    cluster: sira
+  mothers-of-prophets-see-such-visions:
+    label: Mothers of prophets see such visions
+    cluster: infancy
+  breast-opened-heart-washed-with-snow:
+    label: Breast opened heart washed with snow
+    cluster: infancy
+  two-white-birds-like-vultures-take-the-child:
+    label: Two white birds like vultures take the child
+    cluster: infancy
+  sakina-sprinkled-into-heart-and-sealed:
+    label: Sakina sprinkled into heart and sealed
+    cluster: infancy
+  child-weighed-against-ten-hundred-thousand-of-his-community:
+    label: Child weighed against ten hundred thousand of his community
+    cluster: infancy
+  foster-mother-fears-child-is-possessed:
+    label: Foster mother fears child is possessed
+    cluster: infancy
+  stone-in-mecca-greeted-him-before-mission:
+    label: Stone in mecca greeted him before mission
+    cluster: prophecy
+  moon-halves-on-either-side-of-mountain:
+    label: Moon halves on either side of mountain
+    cluster: miracle
+  prophet-calls-bear-witness-at-sign:
+    label: Prophet calls bear witness at sign
+    cluster: miracle
+  unbelievers-ask-for-a-sign:
+    label: Unbelievers ask for a sign
+    cluster: miracle
+  sign-dismissed-as-sorcery-checked-with-travellers:
+    label: Sign dismissed as sorcery checked with travellers
+    cluster: miracle
+  prophet-called-ibn-abi-kabsha:
+    label: Prophet called ibn abi kabsha
+    cluster: miracle
+  trees-obey-and-come-to-screen-the-prophet:
+    label: Trees obey and come to screen the prophet
+    cluster: miracle
+  trees-part-and-return-each-to-its-trunk:
+    label: Trees part and return each to its trunk
+    cluster: miracle
+  green-branches-lighten-grave-torment:
+    label: Green branches lighten grave torment
+    cluster: miracle
+  branch-set-to-right-and-left-at-his-standing-place:
+    label: Branch set to right and left at his standing place
+    cluster: miracle
+  prophet-spits-into-possessed-boys-mouth:
+    label: Prophet spits into possessed boys mouth
+    cluster: miracle
+  grateful-mother-brings-three-sheep-one-taken:
+    label: Grateful mother brings three sheep one taken
+    cluster: miracle
+  camel-weeps-and-complains-to-prophet:
+    label: Camel weeps and complains to prophet
+    cluster: miracle
+  worn-out-camel-saved-from-slaughter:
+    label: Worn out camel saved from slaughter
+    cluster: miracle
+  date-cluster-comes-down-and-returns-at-call:
+    label: Date cluster comes down and returns at call
+    cluster: miracle
+  gabriel-consoles-bloodied-prophet-with-walking-tree:
+    label: Gabriel consoles bloodied prophet with walking tree
+    cluster: miracle
+  army-oversleeps-sun-wakes-them:
+    label: Army oversleeps sun wakes them
+    cluster: miracle
+  prophet-not-woken-from-sleep:
+    label: Prophet not woken from sleep
+    cluster: miracle
+  earth-suffices-for-the-impure-without-water:
+    label: Earth suffices for the impure without water
+    cluster: miracle
+  water-skins-poured-out-yet-fuller-than-before:
+    label: Water skins poured out yet fuller than before
+    cluster: miracle
+  prophet-called-the-sabi:
+    label: Prophet called the sabi
+    cluster: miracle
+  we-took-nothing-of-your-water-god-gave-us-drink:
+    label: We took nothing of your water god gave us drink
+    cluster: miracle
+  greatest-sorcerer-or-truly-gods-messenger:
+    label: Greatest sorcerer or truly gods messenger
+    cluster: miracle
+  spared-clan-follows-woman-into-islam:
+    label: Spared clan follows woman into islam
+    cluster: miracle
+  water-springs-from-between-the-prophets-fingers:
+    label: Water springs from between the prophets fingers
+    cluster: miracle
+  fifteen-hundred-at-hudaybiya:
+    label: Fifteen hundred at hudaybiya
+    cluster: miracle
+  the-true-conquest-was-the-pledge-of-ridwan:
+    label: The true conquest was the pledge of ridwan
+    cluster: miracle
+  rinse-water-poured-into-dry-well-refills-it:
+    label: Rinse water poured into dry well refills it
+    cluster: miracle
+  joining-prayers-on-campaign:
+    label: Joining prayers on campaign
+    cluster: miracle
+  forbidden-to-touch-spring-before-prophet-comes:
+    label: Forbidden to touch spring before prophet comes
+    cluster: miracle
+  trickle-spring-made-to-gush-by-washing-water:
+    label: Trickle spring made to gush by washing water
+    cluster: miracle
+  barren-place-will-be-filled-with-gardens:
+    label: Barren place will be filled with gardens
+    cluster: miracle
+  signs-counted-as-blessing-not-warning:
+    label: Signs counted as blessing not warning
+    cluster: miracle
+  come-to-the-blessed-purification:
+    label: Come to the blessed purification
+    cluster: miracle
+  food-heard-glorifying-god-as-eaten:
+    label: Food heard glorifying god as eaten
+    cluster: miracle
+  single-drop-squeezed-with-unknown-words:
+    label: Single drop squeezed with unknown words
+    cluster: miracle
+  call-three-times-for-water-in-camp:
+    label: Call three times for water in camp
+    cluster: miracle
+  well-could-not-water-fifty-sheep:
+    label: Well could not water fifty sheep
+    cluster: miracle
+  hunger-heard-in-the-prophets-voice:
+    label: Hunger heard in the prophets voice
+    cluster: miracle
+  bread-hidden-under-arm-wrapped-in-veil:
+    label: Bread hidden under arm wrapped in veil
+    cluster: miracle
+  guests-admitted-ten-at-a-time-all-satisfied:
+    label: Guests admitted ten at a time all satisfied
+    cluster: miracle
+  food-left-as-much-as-before-eating:
+    label: Food left as much as before eating
+    cluster: miracle
+  small-gift-of-hays-feeds-three-hundred:
+    label: Small gift of hays feeds three hundred
+    cluster: miracle
+  lingering-wedding-guests-and-the-verse-of-the-screen:
+    label: Lingering wedding guests and the verse of the screen
+    cluster: miracle
+  whoever-has-food-for-two-take-a-third:
+    label: Whoever has food for two take a third
+    cluster: miracle
+  food-grew-from-beneath-each-morsel:
+    label: Food grew from beneath each morsel
+    cluster: miracle
+  host-breaks-oath-not-to-eat-calling-it-satans:
+    label: Host breaks oath not to eat calling it satans
+    cluster: miracle
+  abu-bakr-scolds-son-ya-ghunthar:
+    label: Abu bakr scolds son ya ghunthar
+    cluster: miracle
+  liver-portion-kept-for-each-of-130:
+    label: Liver portion kept for each of 130
+    cluster: miracle
+  tall-polytheist-sells-a-sheep:
+    label: Tall polytheist sells a sheep
+    cluster: miracle
+  hunger-at-the-trench-prophet-with-hollow-belly:
+    label: Hunger at the trench prophet with hollow belly
+    cluster: miracle
+  thousand-eat-and-pot-still-bubbles:
+    label: Thousand eat and pot still bubbles
+    cluster: miracle
+  wife-fears-disgrace-before-the-guests:
+    label: Wife fears disgrace before the guests
+    cluster: miracle
+  pooled-provisions-on-a-leather-mat:
+    label: Pooled provisions on a leather mat
+    cluster: miracle
+  drop-in-a-skin-washes-1400-and-ends-for-latecomers:
+    label: Drop in a skin washes 1400 and ends for latecomers
+    cluster: miracle
+  debt-paid-from-dates-that-do-not-diminish:
+    label: Debt paid from dates that do not diminish
+    cluster: miracle
+  one-cup-of-milk-for-the-people-of-the-suffa:
+    label: One cup of milk for the people of the suffa
+    cluster: miracle
+  blessed-store-fails-once-squeezed-or-measured:
+    label: Blessed store fails once squeezed or measured
+    cluster: miracle
+  gift-vessel-returned-still-full:
+    label: Gift vessel returned still full
+    cluster: miracle
+  umar-advises-against-slaughtering-the-mounts:
+    label: Umar advises against slaughtering the mounts
+    cluster: miracle
+  date-stones-sucked-against-hunger:
+    label: Date stones sucked against hunger
+    cluster: miracle
+  two-testimonies-without-doubt-bar-hell:
+    label: Two testimonies without doubt bar hell
+    cluster: miracle
+  prophet-laughs-till-molars-show:
+    label: Prophet laughs till molars show
+    cluster: miracle
+  third-foreleg-had-servant-kept-silent:
+    label: Third foreleg had servant kept silent
+    cluster: miracle
+  bowl-replenished-from-heaven:
+    label: Bowl replenished from heaven
+    cluster: miracle
+  blessed-dates-taken-by-hand-never-poured-out:
+    label: Blessed dates taken by hand never poured out
+    cluster: miracle
+  blessed-store-ends-on-day-uthman-was-killed:
+    label: Blessed store ends on day uthman was killed
+    cluster: miracle
+  date-heap-like-a-crouching-young-camel-undiminished:
+    label: Date heap like a crouching young camel undiminished
+    cluster: miracle
+  palm-trunk-weeps-when-pulpit-replaces-it:
+    label: Palm trunk weeps when pulpit replaces it
+    cluster: miracle
+  pulpit-of-tamarisk-from-the-ghaba:
+    label: Pulpit of tamarisk from the ghaba
+    cluster: miracle
+  rain-from-clear-sky-at-prophets-prayer:
+    label: Rain from clear sky at prophets prayer
+    cluster: miracle
+  rain-lasts-from-friday-to-friday:
+    label: Rain lasts from friday to friday
+    cluster: miracle
+  around-us-not-upon-us:
+    label: Around us not upon us
+    cluster: miracle
+  blessed-trader-profits-even-on-dust:
+    label: Blessed trader profits even on dust
+    cluster: miracle
+  tired-camel-prodded-and-blessed-leads-the-herd:
+    label: Tired camel prodded and blessed leads the herd
+    cluster: miracle
+  slow-horse-found-to-be-a-sea:
+    label: Slow horse found to be a sea
+    cluster: miracle
+  whose-fluid-prevails-decides-resemblance-or-sex:
+    label: Whose fluid prevails decides resemblance or sex
+    cluster: eschatology
+  convert-praised-then-reviled-by-his-people:
+    label: Convert praised then reviled by his people
+    cluster: eschatology
+  rabbi-calls-him-by-the-name-his-family-gave:
+    label: Rabbi calls him by the name his family gave
+    cluster: eschatology
+  people-in-darkness-below-the-bridge-when-earth-is-changed:
+    label: People in darkness below the bridge when earth is changed
+    cluster: eschatology
+  poor-emigrants-cross-first:
+    label: Poor emigrants cross first
+    cluster: eschatology
+  ox-of-paradise-slaughtered-for-the-blessed:
+    label: Ox of paradise slaughtered for the blessed
+    cluster: eschatology
+  spring-salsabil-drink-of-paradise:
+    label: Spring salsabil drink of paradise
+    cluster: eschatology
+  apostate-scribe-claims-he-wrote-the-revelation:
+    label: Apostate scribe claims he wrote the revelation
+    cluster: punishment
+  earth-casts-out-the-buried-three-times:
+    label: Earth casts out the buried three times
+    cluster: punishment
+  shepherd-milks-for-fugitives-at-noon-rock:
+    label: Shepherd milks for fugitives at noon rock
+    cluster: sira
+  grieve-not-god-is-with-us:
+    label: Grieve not god is with us
+    cluster: sira
+  pursuers-horse-sinks-into-hard-ground:
+    label: Pursuers horse sinks into hard ground
+    cluster: sira
+  pursuer-turned-protector-sends-others-back:
+    label: Pursuer turned protector sends others back
+    cluster: sira
+  intruder-hides-in-fortress-and-takes-keys-from-peg:
+    label: Intruder hides in fortress and takes keys from peg
+    cluster: healing
+  locks-each-door-behind-him-while-climbing:
+    label: Locks each door behind him while climbing
+    cluster: healing
+  assassin-finds-victim-in-dark-by-calling-his-name:
+    label: Assassin finds victim in dark by calling his name
+    cluster: healing
+  sword-point-through-belly-to-back:
+    label: Sword point through belly to back
+    cluster: healing
+  death-announced-from-wall-at-cockcrow:
+    label: Death announced from wall at cockcrow
+    cluster: healing
+  broken-leg-healed-by-prophets-stroke:
+    label: Broken leg healed by prophets stroke
+    cluster: healing
+  memory-scooped-into-a-spread-cloak:
+    label: Memory scooped into a spread cloak
+    cluster: healing
+  blessing-keeps-hair-dark-past-a-hundred:
+    label: Blessing keeps hair dark past a hundred
+    cluster: healing
+  blessing-keeps-senses-sound-at-ninety-four:
+    label: Blessing keeps senses sound at ninety four
+    cluster: healing
+  face-stroked-by-prophet-reflects-like-oil:
+    label: Face stroked by prophet reflects like oil
+    cluster: healing
+  severed-leg-healed-by-spittle:
+    label: Severed leg healed by spittle
+    cluster: healing
+  daughter-weeps-then-laughs-at-two-secrets:
+    label: Daughter weeps then laughs at two secrets
+    cluster: prophecy
+  longest-arm-first-to-follow-him:
+    label: Longest arm first to follow him
+    cluster: prophecy
+  deaths-announced-before-news-arrives:
+    label: Deaths announced before news arrives
+    cluster: prophecy
+  banner-passes-from-fallen-to-fallen:
+    label: Banner passes from fallen to fallen
+    cluster: prophecy
+  grandson-will-reconcile-two-great-factions:
+    label: Grandson will reconcile two great factions
+    cluster: prophecy
+  guest-friends-across-enemy-cities:
+    label: Guest friends across enemy cities
+    cluster: prophecy
+  threat-to-close-the-caravan-road:
+    label: Threat to close the caravan road
+    cluster: prophecy
+  foretold-death-place-unknown:
+    label: Foretold death place unknown
+    cluster: prophecy
+  doomed-man-tries-to-avoid-the-march:
+    label: Doomed man tries to avoid the march
+    cluster: prophecy
+  abu-jahl-shames-the-chief-into-marching:
+    label: Abu jahl shames the chief into marching
+    cluster: prophecy
+  suicide-by-falling-on-sword-point-between-breasts:
+    label: Suicide by falling on sword point between breasts
+    cluster: prophecy
+  suicide-with-arrow-from-own-quiver:
+    label: Suicide with arrow from own quiver
+    cluster: prophecy
+  companion-shadows-the-man-to-see-the-end:
+    label: Companion shadows the man to see the end
+    cluster: prophecy
+  deeds-of-paradise-as-they-appear-to-people:
+    label: Deeds of paradise as they appear to people
+    cluster: prophecy
+  god-supports-religion-by-a-wicked-man:
+    label: God supports religion by a wicked man
+    cluster: prophecy
+  poisoned-sheep-gift-at-khaybar:
+    label: Poisoned sheep gift at khaybar
+    cluster: prophecy
+  prophet-names-their-true-father:
+    label: Prophet names their true father
+    cluster: prophecy
+  claim-of-a-short-stay-in-the-fire:
+    label: Claim of a short stay in the fire
+    cluster: prophecy
+  prophets-estimate-of-harvest-proves-exact:
+    label: Prophets estimate of harvest proves exact
+    cluster: prophecy
+  storm-foretold-man-carried-to-distant-mountains:
+    label: Storm foretold man carried to distant mountains
+    cluster: prophecy
+  ruler-of-ayla-gifts-white-mule:
+    label: Ruler of ayla gifts white mule
+    cluster: prophecy
+  ranking-of-the-clans-of-the-ansar:
+    label: Ranking of the clans of the ansar
+    cluster: prophecy
+  man-tells-prophet-be-just:
+    label: Man tells prophet be just
+    cluster: prophecy
+  recite-quran-not-past-their-throats:
+    label: Recite quran not past their throats
+    cluster: prophecy
+  pass-through-religion-like-arrow-through-game:
+    label: Pass through religion like arrow through game
+    cluster: prophecy
+  sign-man-with-arm-like-a-womans-breast:
+    label: Sign man with arm like a womans breast
+    cluster: prophecy
+  no-chosroes-or-caesar-after-them:
+    label: No chosroes or caesar after them
+    cluster: prophecy
+  woman-travels-alone-fearing-only-god:
+    label: Woman travels alone fearing only god
+    cluster: prophecy
+  none-will-accept-alms-of-gold:
+    label: None will accept alms of gold
+    cluster: prophecy
+  god-speaks-to-man-without-interpreter:
+    label: God speaks to man without interpreter
+    cluster: prophecy
+  shield-from-fire-even-half-a-date:
+    label: Shield from fire even half a date
+    cluster: prophecy
+  treasure-of-chosroes-in-the-white-palace:
+    label: Treasure of chosroes in the white palace
+    cluster: prophecy
+  prophet-reclining-on-cloak-in-kabas-shade:
+    label: Prophet reclining on cloak in kabas shade
+    cluster: martyrdom
+  ibn-umar-greets-crucified-ibn-zubayr-three-times:
+    label: Ibn umar greets crucified ibn zubayr three times
+    cluster: prophecy
+  body-taken-from-stake-thrown-in-jewish-graves:
+    label: Body taken from stake thrown in jewish graves
+    cluster: prophecy
+  mother-refuses-summons-drag-me-by-my-locks:
+    label: Mother refuses summons drag me by my locks
+    cluster: prophecy
+  she-of-the-two-belts:
+    label: She of the two belts
+    cluster: prophecy
+  in-thaqif-a-liar-and-a-destroyer:
+    label: In thaqif a liar and a destroyer
+    cluster: prophecy
+  claimant-asks-to-succeed-the-prophet:
+    label: Claimant asks to succeed the prophet
+    cluster: prophecy
+  not-even-this-palm-stalk:
+    label: Not even this palm stalk
+    cluster: prophecy
+  storm-sent-for-death-of-a-hypocrite:
+    label: Storm sent for death of a hypocrite
+    cluster: prophecy
+  prophet-knows-the-unseen-sin-refuses-pledge:
+    label: Prophet knows the unseen sin refuses pledge
+    cluster: prophecy
+  prophet-and-community-described-in-torah-and-gospel:
+    label: Prophet and community described in torah and gospel
+    cluster: eschatology
+  seventy-thousand-without-reckoning:
+    label: Seventy thousand without reckoning
+    cluster: eschatology
+  prophet-cannot-swallow-unlawfully-taken-meat:
+    label: Prophet cannot swallow unlawfully taken meat
+    cluster: prophecy
+  doubtful-meat-given-to-captives:
+    label: Doubtful meat given to captives
+    cluster: prophecy
+  companions-sit-like-boys-before-fathers:
+    label: Companions sit like boys before fathers
+    cluster: prophecy
+  ansar-dwindle-like-salt-in-food:
+    label: Ansar dwindle like salt in food
+    cluster: prophecy
+  none-now-living-remains-after-a-hundred-years:
+    label: None now living remains after a hundred years
+    cluster: prophecy
+  four-conquests-counted-on-hand:
+    label: Four conquests counted on hand
+    cluster: prophecy
+  men-in-wool-from-the-west-guard-against-assassination:
+    label: Men in wool from the west guard against assassination
+    cluster: prophecy
+  world-poured-out-the-real-danger:
+    label: World poured out the real danger
+    cluster: prophecy
+  egypt-land-of-the-qirat-has-kinship-claim:
+    label: Egypt land of the qirat has kinship claim
+    cluster: prophecy
+  leave-when-two-quarrel-over-a-bricks-space:
+    label: Leave when two quarrel over a bricks space
+    cluster: prophecy
+  jerusalem-raised-before-him-to-answer-quraysh:
+    label: Jerusalem raised before him to answer quraysh
+    cluster: prophecy
+  ansari-pledge-to-plunge-into-the-sea:
+    label: Ansari pledge to plunge into the sea
+    cluster: prophecy
+  captive-beaten-for-the-truth-spared-for-lies:
+    label: Captive beaten for the truth spared for lies
+    cluster: prophecy
+  death-places-marked-before-battle:
+    label: Death places marked before battle
+    cluster: prophecy
+  earth-folded-to-show-east-and-west:
+    label: Earth folded to show east and west
+    cluster: prophecy
+  forty-women-follow-one-man:
+    label: Forty women follow one man
+    cluster: prophecy
+  fire-in-hijaz-lights-camels-necks-at-busra:
+    label: Fire in hijaz lights camels necks at busra
+    cluster: prophecy
+  finger-on-mole-promises-a-century:
+    label: Finger on mole promises a century
+    cluster: prophecy
+  expedition-to-sind-and-hind:
+    label: Expedition to sind and hind
+    cluster: prophecy
+  savage-camel-kneels-before-the-prophet:
+    label: Savage camel kneels before the prophet
+    cluster: prophecy
+  all-creation-knows-him-but-rebel-jinn-and-men:
+    label: All creation knows him but rebel jinn and men
+    cluster: prophecy
+  kinsman-follows-preacher-stoning-him-calling-liar:
+    label: Kinsman follows preacher stoning him calling liar
+    cluster: sira
+  giving-hand-is-the-upper-hand:
+    label: Giving hand is the upper hand
+    cluster: sira
+  no-mother-bears-her-childs-crime:
+    label: No mother bears her childs crime
+    cluster: sira
+  companions-forbidden-to-question-glad-of-bedouin:
+    label: Companions forbidden to question glad of bedouin
+    cluster: sira
+  tender-hearted-people-arrive-tomorrow:
+    label: Tender hearted people arrive tomorrow
+    cluster: sira
+  arrivals-chant-tomorrow-we-meet-the-beloved:
+    label: Arrivals chant tomorrow we meet the beloved
+    cluster: sira
+  first-to-shake-hands:
+    label: First to shake hands
+    cluster: sira
+  runaway-slave-returns-freed-for-gods-face:
+    label: Runaway slave returns freed for gods face
+    cluster: sira
+  offer-of-tribal-fortress-refused-for-the-ansar:
+    label: Offer of tribal fortress refused for the ansar
+    cluster: sira
+  suicide-forgiven-but-hands-stay-covered:
+    label: Suicide forgiven but hands stay covered
+    cluster: sira
+  dead-man-reports-his-state-in-a-dream:
+    label: Dead man reports his state in a dream
+    cluster: sira
+  and-his-hands-too-forgive:
+    label: And his hands too forgive
+    cluster: sira
+  prayer-for-guidance-instead-of-curse:
+    label: Prayer for guidance instead of curse
+    cluster: sira
+  welcome-without-disgrace-or-regret:
+    label: Welcome without disgrace or regret
+    cluster: law
+  four-commands-four-prohibitions:
+    label: Four commands four prohibitions
+    cluster: law
+  four-forbidden-vessels-for-nabidh:
+    label: Four forbidden vessels for nabidh
+    cluster: law
+  drink-from-hollowed-trunk-makes-man-strike-cousin:
+    label: Drink from hollowed trunk makes man strike cousin
+    cluster: law
+  drink-from-tied-leather-skins-even-if-rats-eat-them:
+    label: Drink from tied leather skins even if rats eat them
+    cluster: law
+  forbearance-and-deliberation-loved-by-god:
+    label: Forbearance and deliberation loved by god
+    cluster: law
+  can-come-only-in-sacred-month:
+    label: Can come only in sacred month
+    cluster: law
+  forbidden-drink-left-delegation-sick-in-fever-land:
+    label: Forbidden drink left delegation sick in fever land
+    cluster: law
+  tribe-counts-its-islam-a-favour:
+    label: Tribe counts its islam a favour
+    cluster: sira
+  satan-speaks-on-their-tongues:
+    label: Satan speaks on their tongues
+    cluster: sira
+  do-not-count-your-islam-a-favour-to-me:
+    label: Do not count your islam a favour to me
+    cluster: sira
+  whole-tribe-converts-on-reading-of-letter:
+    label: Whole tribe converts on reading of letter
+    cluster: sira
+  prostration-of-thanks-at-good-news:
+    label: Prostration of thanks at good news
+    cluster: sira
+  christian-leaders-decline-the-mutual-curse:
+    label: Christian leaders decline the mutual curse
+    cluster: sira
+  trustworthy-one-of-this-community:
+    label: Trustworthy one of this community
+    cluster: sira
+  treaty-two-thousand-robes-in-two-instalments:
+    label: Treaty two thousand robes in two instalments
+    cluster: sira
+  churches-not-demolished-priests-not-expelled:
+    label: Churches not demolished priests not expelled
+    cluster: sira
+  good-news-answered-with-demand-for-gifts:
+    label: Good news answered with demand for gifts
+    cluster: sira
+  faith-is-yemeni-wisdom-is-yemeni:
+    label: Faith is yemeni wisdom is yemeni
+    cluster: sira
+  pride-with-camel-owners-calm-with-shepherds:
+    label: Pride with camel owners calm with shepherds
+    cluster: sira
+  two-elders-quarrel-over-a-tribal-commander:
+    label: Two elders quarrel over a tribal commander
+    cluster: sira
+  verse-against-raising-voices-above-the-prophet:
+    label: Verse against raising voices above the prophet
+    cluster: sira
+  speaks-like-a-whisperer-after-the-verse:
+    label: Speaks like a whisperer after the verse
+    cluster: sira
+  we-do-not-trace-descent-through-mother:
+    label: We do not trace descent through mother
+    cluster: sira
+  spokesman-answers-for-the-prophet:
+    label: Spokesman answers for the prophet
+    cluster: sira
+  envoys-not-killed:
+    label: Envoys not killed
+    cluster: letters
+  converts-exempted-from-alms-and-war-will-do-both:
+    label: Converts exempted from alms and war will do both
+    cluster: letters
+  leper-pledge-taken-at-a-distance:
+    label: Leper pledge taken at a distance
+    cluster: letters
+  hare-and-fox-crossing-as-omens:
+    label: Hare and fox crossing as omens
+    cluster: sira
+  spell-broken-by-turning-clothes-inside-out:
+    label: Spell broken by turning clothes inside out
+    cluster: sira
+  uncle-seizes-orphan-girls-with-sword:
+    label: Uncle seizes orphan girls with sword
+    cluster: sira
+  woman-in-mens-row-sent-back:
+    label: Woman in mens row sent back
+    cluster: sira
+  prophet-in-worn-saffron-rags-with-palm-stalk:
+    label: Prophet in worn saffron rags with palm stalk
+    cluster: sira
+  grant-of-pasture-revoked-on-womans-objection:
+    label: Grant of pasture revoked on womans objection
+    cluster: sira
+  proverb-sheep-carries-its-death-in-its-hooves:
+    label: Proverb sheep carries its death in its hooves
+    cluster: sira
+  do-not-torment-the-dead-by-weeping:
+    label: Do not torment the dead by weeping
+    cluster: sira
+  charter-on-red-leather-women-not-forced-to-marry:
+    label: Charter on red leather women not forced to marry
+    cluster: sira
+  flock-kept-at-a-hundred-slaughter-for-each-birth:
+    label: Flock kept at a hundred slaughter for each birth
+    cluster: letters
+  do-not-beat-wife-as-you-beat-slave-girl:
+    label: Do not beat wife as you beat slave girl
+    cluster: letters
+  ablution-thorough-between-fingers-snuffing-unless-fasting:
+    label: Ablution thorough between fingers snuffing unless fasting
+    cluster: letters
+  the-lord-is-god-refusal-of-title:
+    label: The lord is god refusal of title
+    cluster: letters
+  letters-to-every-tyrant:
+    label: Letters to every tyrant
+    cluster: letters
+  king-interrogates-enemy-about-the-prophet:
+    label: King interrogates enemy about the prophet
+    cluster: letters
+  marks-of-a-true-messenger-by-question:
+    label: Marks of a true messenger by question
+    cluster: letters
+  shame-of-being-reported-a-liar:
+    label: Shame of being reported a liar
+    cluster: letters
+  he-will-rule-where-my-feet-stand:
+    label: He will rule where my feet stand
+    cluster: letters
+  accept-islam-and-be-safe-reward-twice:
+    label: Accept islam and be safe reward twice
+    cluster: letters
+  common-word-between-us-and-you:
+    label: Common word between us and you
+    cluster: letters
+  astrologer-king-sees-king-of-the-circumcised:
+    label: Astrologer king sees king of the circumcised
+    cluster: letters
+  courtiers-bolt-like-wild-asses-to-locked-doors:
+    label: Courtiers bolt like wild asses to locked doors
+    cluster: letters
+  letter-bearer-promised-paradise-even-if-not-killed:
+    label: Letter bearer promised paradise even if not killed
+    cluster: letters
+  letter-thrown-on-the-kings-private-carpet:
+    label: Letter thrown on the kings private carpet
+    cluster: letters
+  king-proclaims-conversion-to-test-troops:
+    label: King proclaims conversion to test troops
+    cluster: letters
+  false-claim-of-islam-exposed:
+    label: False claim of islam exposed
+    cluster: letters
+  king-tears-letter-and-is-torn-apart:
+    label: King tears letter and is torn apart
+    cluster: letters
+  ruler-of-egypt-sends-gifts-and-two-slave-girls:
+    label: Ruler of egypt sends gifts and two slave girls
+    cluster: letters
+  letter-on-red-leather-carried-by-bedouin:
+    label: Letter on red leather carried by bedouin
+    cluster: letters
+  share-of-the-prophet-and-the-safi:
+    label: Share of the prophet and the safi
+    cluster: letters
+  only-one-man-could-read-the-letter:
+    label: Only one man could read the letter
+    cluster: letters
+units:
+- id: hadith-48-drinking-standing-and-sitting
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Prophet drinks standing and sitting, prays shod and barefoot, turns right and left
+  read:
+  - Jāmiʿ 48:5683.1-5683.2
+  quran: []
+  tags:
+  - motif: prophet-drinks-standing-and-sitting
+    refs:
+    - Jāmiʿ 48:5683.1
+    - Jāmiʿ 48:5683.2
+    note: يشرب قائمًا وقاعدًا
+  - motif: prays-shod-and-barefoot
+    refs:
+    - Jāmiʿ 48:5683.2
+    note: ويصلي منتعلا وحافيًا
+  - motif: leaves-prayer-turning-right-or-left
+    refs:
+    - Jāmiʿ 48:5683.2
+    note: وينصرف من الصلاة عن يمينه وعن يساره
+- id: hadith-48-eating-with-three-fingers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Eating with three fingers, licking them, the fallen morsel, wiping the bowl, squatting over dates
+  read:
+  - Jāmiʿ 48:5683.3-5684.3
+  quran: []
+  tags:
+  - motif: eats-with-three-fingers-and-licks-them
+    refs:
+    - Jāmiʿ 48:5683.3
+    - Jāmiʿ 48:5684.1
+    note: كان يأكل بثلاث أصابع، فإذا فرغ لعقها ... ويلعق يده قبل أن يمسحها
+  - motif: fallen-morsel-not-left-for-satan
+    refs:
+    - Jāmiʿ 48:5684.1
+    note: إذا سقطت لقمة أحدكم فليمط عنها الأذى وليأكلها، ولا يدعها للشيطان
+  - motif: blessing-hidden-in-unknown-part-of-food
+    refs:
+    - Jāmiʿ 48:5684.1
+    - Jāmiʿ 48:5684.2
+    note: أمرنا أن نسلت القصعة ... فإنكم لا تدرون في أي طعامكم البركة؛ لا يدري في أيتهن البركة
+  - motif: eats-dates-squatting
+    refs:
+    - Jāmiʿ 48:5684.3
+    note: رأيت النبي ﷺ مقعيًا يأكل تمرًا
+- id: hadith-48-reclining-on-left-side
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Reclining on a cushion on his left side
+  read:
+  - Jāmiʿ 48:5684.4
+  quran: []
+  tags:
+  - motif: reclines-on-cushion-on-left-side
+    refs:
+    - Jāmiʿ 48:5684.4
+    note: متكئًا على وسادة ... على يساره
+- id: hadith-48-perfume-and-new-garment
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The perfume box (sukka); the prayer on putting on a new garment
+  read:
+  - Jāmiʿ 48:5685.1-5685.2
+  quran: []
+  tags:
+  - motif: prophet-perfume-container-sukka
+    refs:
+    - Jāmiʿ 48:5685.1
+    note: كان لرسول الله ﷺ سكة يتطيب منها
+  - motif: prayer-for-good-of-new-garment-and-its-making
+    refs:
+    - Jāmiʿ 48:5685.2
+    note: اللهم إني أسألك من خيره، ومن خير ما صنع له، وأعوذ بك من شره، وشر ما صنع له
+- id: hadith-48-kohl-in-odd-numbers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Kohl of antimony in odd numbers; cautery forbidden; hot drink disliked
+  read:
+  - Jāmiʿ 48:5686.1-5686.2
+  quran: []
+  tags:
+  - motif: kohl-three-in-right-eye-two-in-left
+    refs:
+    - Jāmiʿ 48:5686.1
+    note: يكتحل بالإثمد، ويكتحل اليمنى ثلاثَ قراود، واليُسْرى قِرْودين (mursal)
+  - motif: kohl-and-stone-wiping-in-odd-numbers
+    refs:
+    - Jāmiʿ 48:5686.2
+    note: إذا اكتحل اكتحل وترا، وإذا استجمر استجمر وترا
+  - motif: cautery-forbidden
+    refs:
+    - Jāmiʿ 48:5686.2
+    note: نهى رسول الله ﷺ عن الكيّ
+  - motif: dislikes-hot-drink
+    refs:
+    - Jāmiʿ 48:5686.2
+    note: وكان يكره شرب الحميم
+- id: hadith-48-postures-lying-and-sitting
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Lying on his back with one leg over the other; sitting with knees clasped; Hasan in his lap; Qayla trembles
+  read:
+  - Jāmiʿ 48:5687.1-5688.1
+  quran: []
+  tags:
+  - motif: lies-on-back-one-leg-over-other-in-mosque
+    refs:
+    - Jāmiʿ 48:5687.1
+    note: مستلقيًا في المسجد، واضعًا إحدى رجليه على الأخرى
+  - motif: sits-clasping-knees-with-hands
+    refs:
+    - Jāmiʿ 48:5687.2
+    - Jāmiʿ 48:5687.3
+    - Jāmiʿ 48:5688.1
+    note: بفناء الكعبة محتبيًا بيده هكذا؛ فجلس فاحتبى؛ قاعد القُرفُصاء
+  - motif: grandson-called-lukaa-runs-into-lap
+    refs:
+    - Jāmiʿ 48:5687.3
+    note: أين لكاع؟ ادع لي لكاع، فجاء حسن يشتد فوقع في حجره
+  - motif: puts-childs-mouth-in-his-mouth
+    refs:
+    - Jāmiʿ 48:5687.3
+    note: يفتح فاه، فيدخل فاه في فيه
+  - motif: prayer-i-love-him-so-love-him
+    refs:
+    - Jāmiʿ 48:5687.3
+    note: اللهم إني أُحِبُّه فأَحِبَّه وأَحِبَّ من يحبه
+  - motif: visitor-trembles-at-humble-prophet
+    refs:
+    - Jāmiʿ 48:5688.1
+    note: فلما رأيت رسول الله ﷺ المتخشع في الجلسة، أرعدت من الفرق
+- id: hadith-48-sleep-and-bedtime
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sleeping on journeys; the bedtime praise; blowing into the palms with the last three surahs
+  read:
+  - Jāmiʿ 48:5688.2-5689.2
+  quran:
+  - '112:1'
+  - '113:1'
+  - '114:1'
+  tags:
+  - motif: sleeps-on-right-side-on-journey-halt
+    refs:
+    - Jāmiʿ 48:5688.2
+    note: فعرس بليل، اضطجع على يمينه
+  - motif: before-dawn-rests-head-on-raised-palm
+    refs:
+    - Jāmiʿ 48:5688.2
+    note: وإذا عرس قبيل الصبح نصب ذراعيه، ووضع رأسه على كفه
+  - motif: bedtime-praise-for-food-drink-shelter
+    refs:
+    - Jāmiʿ 48:5689.1
+    note: الحمد لله الذي أطعمنا وسقانا وكفانا وآوانا، فكم ممن لا كافي له ولا مؤوي
+  - motif: blows-into-palms-reciting-three-surahs-and-wipes-body
+    refs:
+    - Jāmiʿ 48:5689.2
+    note: 'جمع كفيه ثم نفث فيهما، فقرأ فيهما: قل هو الله أحد، قل أعوذ برب الفلق، قل أعوذ برب الناس ... يفعل ذلك ثلاث مرات'
+- id: hadith-48-work-in-the-house
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Serving his household, mending his sandal, sewing his garment
+  read:
+  - Jāmiʿ 48:5689.3-5689.4
+  quran: []
+  tags:
+  - motif: prophet-serves-his-household
+    refs:
+    - Jāmiʿ 48:5689.3
+    note: كان يكون في مهنة أهله ... فإذا حضرت الصلاة خرج إلى الصلاة
+  - motif: prophet-mends-sandal-and-sews-garment
+    refs:
+    - Jāmiʿ 48:5689.4
+    note: كان رسول الله ﷺ يخصف نعله، ويخيط ثوبه
+- id: hadith-48-recitation-and-weeping
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Drawn-out recitation of the basmala; weeping at Q 4:41 recited by Ibn Masʿud
+  read:
+  - Jāmiʿ 48:5690.1-5690.2
+  quran:
+  - '1:1'
+  - '4:41'
+  tags:
+  - motif: recitation-drawn-out-on-basmala
+    refs:
+    - Jāmiʿ 48:5690.1
+    note: كانت مدا ... يمد ببسم الله، ويمد بالرحمن، ويمد بالرحيم
+  - motif: prophet-asks-companion-to-recite-to-him
+    refs:
+    - Jāmiʿ 48:5690.2
+    note: 'اقرأ علي القرآن ... أقرأ عليك وعليك أنزل؟ قال: إني أشتهي أن أسمعه من غيري'
+  - motif: tears-at-verse-of-witness-over-nations
+    refs:
+    - Jāmiʿ 48:5690.2
+    note: 'حتى إذا بلغت: فكيف إذا جئنا من كل أمة بشهيد ... فرأيت دموعه تسيل'
+- id: hadith-48-night-talk-and-small-gifts
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Night talk with Abu Bakr on public affairs; accepting even a trotter
+  read:
+  - Jāmiʿ 48:5690.3-5690.4
+  quran: []
+  tags:
+  - motif: night-talk-on-public-affairs
+    refs:
+    - Jāmiʿ 48:5690.3
+    note: كان رسول الله ﷺ يسمر مع أبي بكر في الأمر من أمور المسلمين وأنا معهما
+  - motif: would-accept-even-a-trotter
+    refs:
+    - Jāmiʿ 48:5690.4
+    note: لو دعيت إلى ذراع أو كراع لأجبت، ولو أهدي إلي ذراع أو كراع لقبلت
+- id: hadith-48-manner-of-speech
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Speech that could be counted; words repeated three times; not run together
+  read:
+  - Jāmiʿ 48:5691.1-5691.3
+  quran: []
+  tags:
+  - motif: speech-so-measured-words-could-be-counted
+    refs:
+    - Jāmiʿ 48:5691.1
+    note: كان يحدث حديثًا لو عده العاد لأحصاه
+  - motif: repeats-word-three-times-greets-three-times
+    refs:
+    - Jāmiʿ 48:5691.2
+    note: إذا تكلم بكلمة أعادها ثلاثًا حتى تفهم عنه ... سلم عليهم ثلاثًا
+  - motif: aisha-rebukes-rapid-narration
+    refs:
+    - Jāmiʿ 48:5691.3
+    note: إن رسول الله ﷺ لم يكن يسرد الحديث كسردكم ... بكلام بيّن فصل يحفظه من جلس إليه
+- id: hadith-48-garments
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: His garments - the striped hibara, the red hulla, the narrow-sleeved Syrian jubba, the black-hair mirt, the qitri cloth, the shirt
+  read:
+  - Jāmiʿ 48:5692.1-5693.2
+  quran: []
+  tags:
+  - motif: favourite-garment-striped-yemeni-hibara
+    refs:
+    - Jāmiʿ 48:5692.1
+    note: كان أحب الثياب إلى النبي ﷺ الحبرة
+  - motif: none-handsomer-in-red-hulla
+    refs:
+    - Jāmiʿ 48:5692.2
+    note: ما رأيت أحدًا أحسن في حلة حمراء من النبي ﷺ
+  - motif: narrow-sleeved-syrian-jubba-arm-drawn-out-below
+    refs:
+    - Jāmiʿ 48:5692.3
+    note: جبة شامية ضيقة الكمين ... فأخرج يده من أسفلها
+  - motif: wipes-over-leather-socks
+    refs:
+    - Jāmiʿ 48:5692.3
+    note: ثم مسح على خفيه ثم صلى
+  - motif: wool-wrap-of-black-hair-with-saddle-pattern
+    refs:
+    - Jāmiʿ 48:5692.4
+    note: مرط مرحّل من شعر أسود
+  - motif: sick-prophet-leans-on-usama-in-qitri-cloth
+    refs:
+    - Jāmiʿ 48:5692.5
+    note: كان شاكيًا، فخرج يتوكأ على أسامة بن زيد، وعليه ثوب قطري قد توشح به
+  - motif: shirt-buttons-left-open-hand-touches-seal
+    refs:
+    - Jāmiʿ 48:5693.1
+    note: وإن قميصه لمطلق الأزرار ... أدخلت يدي في جيب قميصه، فمسست الخاتم
+  - motif: shirt-the-most-beloved-garment
+    refs:
+    - Jāmiʿ 48:5693.2
+    note: كان أحب الثياب إلى رسول الله ﷺ القميص
+- id: hadith-48-sleeve-and-sandals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sleeves to the wrist; sandals with two thongs, hairless leather
+  read:
+  - Jāmiʿ 48:5694.1-5695.3
+  quran: []
+  tags:
+  - motif: shirt-sleeve-to-the-wrist
+    refs:
+    - Jāmiʿ 48:5694.1
+    - Jāmiʿ 48:5694.2
+    note: كان قميص رسول الله ﷺ إلى رسغه؛ كانت يد كمّ قميص رسول الله ﷺ إلى الرسغ
+  - motif: sandal-with-two-thongs
+    refs:
+    - Jāmiʿ 48:5694.3
+    - Jāmiʿ 48:5695.1
+    - Jāmiʿ 48:5695.3
+    note: كان لها قبالان ... نعلين جرداوين؛ قبالان، مثْنيّ شراكهما
+  - motif: hairless-sibti-sandals-worn-for-ablution
+    refs:
+    - Jāmiʿ 48:5695.2
+    note: يلبس النعل التي ليس فيها شعر ويتوضأ فيها
+- id: hadith-48-the-signet-ring
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The silver ring engraved 'Muhammad rasul Allah', made to seal letters to Rome; the gold ring thrown away; lost in the well of Aris
+  read:
+  - Jāmiʿ 48:5695.4-5696.2
+  quran: []
+  tags:
+  - motif: ring-made-because-foreign-kings-read-only-sealed-letters
+    refs:
+    - Jāmiʿ 48:5695.4
+    note: 'لما أراد رسول الله ﷺ أن يكتب إلى الروم، قال: قالوا: إنهم لا يقرؤون كتابًا إلا مختومًا'
+  - motif: ring-engraved-muhammad-rasul-allah
+    refs:
+    - Jāmiʿ 48:5695.4
+    - Jāmiʿ 48:5696.1
+    - Jāmiʿ 48:5696.2
+    note: خاتمًا من فضة ... نقشه محمد رسول الله
+  - motif: ring-passes-to-successors-then-lost-in-well
+    refs:
+    - Jāmiʿ 48:5696.1
+    - Jāmiʿ 48:5696.2
+    note: ثم كان بعد في يد أبي بكر، ثم ... عمر، ثم ... عثمان، حتى وقع بعد في بئر أريس
+  - motif: gold-ring-thrown-away-for-silver
+    refs:
+    - Jāmiʿ 48:5696.2
+    note: 'فلما رآهم قد اتخذوها رمى به، وقال: لا ألبسه أبدًا ثم اتخذ خاتمًا من فضة'
+  - motif: ring-stone-worn-toward-palm
+    refs:
+    - Jāmiʿ 48:5696.2
+    note: وجعل فصه مما يلي كفه
+  hints:
+  - The ring of authority passing hand to hand from the ruler to his successors (Abu Bakr, ʿUmar, ʿUthman) and then lost in a well, against Esth 3:10 / 8:2, where the king's signet passes from Haman to
+    Mordecai.
+- id: hadith-48-ring-cast-off-and-its-stone
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The ring worn one day and cast off when people copied it; its Abyssinian stone; the three-line engraving
+  read:
+  - Jāmiʿ 48:5697.1-5697.3
+  quran: []
+  tags:
+  - motif: ring-cast-off-and-people-cast-theirs
+    refs:
+    - Jāmiʿ 48:5697.1
+    note: خاتمًا من ورق يومًا واحدًا ... فطرح رسول الله خاتمه، فطرح الناس خواتيمهم
+  - motif: ring-stone-abyssinian
+    refs:
+    - Jāmiʿ 48:5697.2
+    - Jāmiʿ 48:5697.4
+    note: 'وكان فصه حبشيًا. وفي رواية: كان فصه منه'
+  - motif: ring-engraving-in-three-lines
+    refs:
+    - Jāmiʿ 48:5697.3
+    note: 'وكان نقش الخاتم ثلاثة أسطر: محمد سطر، ورسول سطر والله سطر'
+  - motif: caliph-seals-letter-with-prophets-ring
+    refs:
+    - Jāmiʿ 48:5697.3
+    note: أن أبا بكر لما استخلف بعثه إلى البحرين، وكتب له هذا الكتاب وختمه
+- id: hadith-48-ring-hand-and-finger
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The ring on the right hand, on the left little finger; no one to copy its engraving
+  read:
+  - Jāmiʿ 48:5697.4-5699.1
+  quran: []
+  tags:
+  - motif: ring-worn-on-right-hand
+    refs:
+    - Jāmiʿ 48:5697.4
+    - Jāmiʿ 48:5698.1
+    - Jāmiʿ 48:5698.2
+    - Jāmiʿ 48:5698.3
+    note: لبس خاتم فضة في يمينه؛ يتختم في يمينه
+  - motif: ring-on-little-finger-of-left-hand
+    refs:
+    - Jāmiʿ 48:5698.4
+    - Jāmiʿ 48:5699.1
+    note: وأشار إلى الخنصر من يده اليسرى؛ فإني لأرى بريقه في خنصره
+  - motif: none-may-engrave-the-prophets-seal-text
+    refs:
+    - Jāmiʿ 48:5699.1
+    note: فلا ينقش أحد على نقشه
+- id: hadith-48-sword-armour-turban
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The silver pommel of the sword; two mail coats at Uhud and Talha as a step; the black turban at the conquest
+  read:
+  - Jāmiʿ 48:5701.1-5703.1
+  quran: []
+  tags:
+  - motif: sword-pommel-of-silver
+    refs:
+    - Jāmiʿ 48:5701.1
+    note: كانت قبيعة سيف رسول الله ﷺ من فضة
+  - motif: two-mail-coats-at-uhud
+    refs:
+    - Jāmiʿ 48:5702.1
+    note: كان على النبي ﷺ درعان يوم أحد
+  - motif: companion-crouches-as-step-to-the-rock
+    refs:
+    - Jāmiʿ 48:5702.1
+    note: فنهض إلى الصخرة فلم يستطع، فأقعد طلحة تحته، فصعد النبي ﷺ عليه
+  - motif: deed-earns-paradise-awjaba
+    refs:
+    - Jāmiʿ 48:5702.1
+    note: أوجب طلحة
+  - motif: enters-mecca-in-black-turban-without-ihram
+    refs:
+    - Jāmiʿ 48:5702.2
+    note: دخل مكة وعليه عمامة سوداء بغير إحرام
+  - motif: last-sermon-with-greasy-black-headband
+    refs:
+    - Jāmiʿ 48:5703.1
+    note: وعليه ملحفة متعطفًا بها على منكبيه، وعليه عصابة دسماء
+- id: hadith-48-wrap-and-death-garments
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The red hulla at al-Abtah; the coarse Yemeni wrap and patched cloak he died in; the wrap low in front
+  read:
+  - Jāmiʿ 48:5703.2-5704.2
+  quran: []
+  tags:
+  - motif: red-leather-tent-and-red-hulla-at-abtah
+    refs:
+    - Jāmiʿ 48:5703.2
+    note: وهو بالأبطح في قبة له حمراء من أدم ... عليه حلة حمراء كأني أنظر إلى بياض ساقيه
+  - motif: people-take-the-prophets-ablution-water
+    refs:
+    - Jāmiʿ 48:5703.2
+    note: فخرج بلال بوضوئه فمن نائل وناضح
+  - motif: died-in-coarse-wrap-and-patched-cloak
+    refs:
+    - Jāmiʿ 48:5704.1
+    note: إزارًا غليظًا مما يصنع باليمن، وكساء من التي يسمونها الملبّدة ... قبض في هذين الثوبين
+  - motif: wrap-hem-to-instep-in-front-raised-behind
+    refs:
+    - Jāmiʿ 48:5704.2
+    note: فيضع حاشية إزاره من مقدمه على ظهور قدميه، ويرفع من مؤخره
+- id: hadith-48-cup-bed-pillow
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The cracked wooden cup mended with silver, from which he drank honey, nabidh, water and milk; bed and pillow of leather stuffed with fibre
+  read:
+  - Jāmiʿ 48:5705.1-5705.4
+  quran: []
+  tags:
+  - motif: prophets-cup-mended-with-silver-chain
+    refs:
+    - Jāmiʿ 48:5705.1
+    note: رأيت قدح النبي ﷺ عند أنس بن مالك، وكان قد انصدع، فسلسله بفضة ... من نضار
+  - motif: do-not-change-what-the-prophet-made
+    refs:
+    - Jāmiʿ 48:5705.1
+    note: لا تغيّرن شيئًا صنعه رسول الله ﷺ
+  - motif: four-drinks-from-one-cup
+    refs:
+    - Jāmiʿ 48:5705.2
+    note: العسل والنبيذ، والماء، واللبن
+  - motif: bed-of-leather-stuffed-with-palm-fibre
+    refs:
+    - Jāmiʿ 48:5705.3
+    - Jāmiʿ 48:5705.4
+    note: فراش رسول الله ﷺ الذي ينام عليه، أدما حشوه ليف؛ وسادة ... من أدم حشوها ليف
+- id: hadith-48-the-tooth-stick
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The tooth-stick - gagging 'u' 'u', first act on entering the house, scrubbing at night, the last siwak chewed by ʿAʾisha
+  read:
+  - Jāmiʿ 48:5706.1-5706.4
+  quran: []
+  tags:
+  - motif: tooth-stick-sound-a-a-like-retching
+    refs:
+    - Jāmiʿ 48:5706.1
+    note: 'وهو يستنُّ بسواكٍ بيده، ويقول: أعْ أعْ والسواك في فيه، كأنه يتهوَّع'
+  - motif: tooth-stick-first-on-entering-house
+    refs:
+    - Jāmiʿ 48:5706.2
+    note: كان إذا دخل بيته بدأ بالسواك
+  - motif: scrubs-mouth-on-rising-at-night
+    refs:
+    - Jāmiʿ 48:5706.3
+    note: إذا قام من الليل يَشُوص فاه بالسواك
+  - motif: where-am-i-tomorrow-asks-the-dying-prophet
+    refs:
+    - Jāmiʿ 48:5706.4
+    note: أين أنا غدا؟ أين أنا غدا؟ يريد يوم عائشة
+  - motif: dies-with-head-between-wifes-chest-and-throat
+    refs:
+    - Jāmiʿ 48:5706.4
+    note: وإن رأسه لبين نحري وسحري، وخالط ريقه ريقي
+  - motif: wife-chews-tooth-stick-for-dying-prophet
+    refs:
+    - Jāmiʿ 48:5706.4
+    note: فقضمته، ثم مضغته، فأعطيته رسول الله ﷺ، فاستن به وهو مستند إلى صدري
+- id: hadith-48-given-what-no-prophet-was
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Helped by the east wind; by terror a month's journey; the keys of earth's treasures; five things given to no prophet before
+  read:
+  - Jāmiʿ 48:5707.1-5709.1
+  quran: []
+  tags:
+  - motif: helped-by-east-wind-ad-destroyed-by-west-wind
+    refs:
+    - Jāmiʿ 48:5707.1
+    note: نصرت بالصبا، وأهلكت عاد بالدبور
+  - motif: sent-with-comprehensive-words
+    refs:
+    - Jāmiʿ 48:5707.2
+    note: بعثت بجوامع الكلم
+  - motif: helped-by-terror-a-months-journey
+    refs:
+    - Jāmiʿ 48:5707.2
+    - Jāmiʿ 48:5707.3
+    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5708.2
+    - Jāmiʿ 48:5709.1
+    note: نصرت بالرعب ... ولو كان بيني وبينهم مسيرة شهر لملئ منه رعبًا
+  - motif: keys-of-earths-treasures-placed-in-hand
+    refs:
+    - Jāmiʿ 48:5707.2
+    - Jāmiʿ 48:5707.3
+    note: فبينا أنا نائم أتيت بمفاتيح خزائن الأرض، فوضعت في يدي ... وأنتم تنتثلونها
+  - motif: named-ahmad
+    refs:
+    - Jāmiʿ 48:5707.3
+    note: وسميت أحمد
+  - motif: earth-made-mosque-and-means-of-purification
+    refs:
+    - Jāmiʿ 48:5707.3
+    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5708.2
+    - Jāmiʿ 48:5709.1
+    note: وجعلت لي الأرض مساجد وطهورًا، أينما أدركتني الصلاة تمسحت وصليت
+  - motif: earlier-communities-prayed-only-in-churches-and-synagogues
+    refs:
+    - Jāmiʿ 48:5708.1
+    note: إنما كانوا يصلون في كنائسهم وبيعهم
+  - motif: earlier-communities-burned-the-spoils
+    refs:
+    - Jāmiʿ 48:5708.1
+    note: وأحلت لي الغنائم آكلها، وكان من قبلي يعظمون أكلها، كانوا يحرقونها
+  - motif: spoils-lawful-only-for-this-community
+    refs:
+    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5708.2
+    - Jāmiʿ 48:5709.1
+    note: وأحلت لي الغنائم، ولم تحل لأحد قبلي
+  - motif: sent-to-all-people-not-only-his-own
+    refs:
+    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5708.2
+    - Jāmiʿ 48:5709.1
+    note: فأرسلت إلى الناس كلهم عامة، وكان من قبلي إنما يرسل إلى قومه؛ بعثت إلى الأحمر والأسود
+  - motif: each-prophet-had-one-granted-request-his-kept-for-intercession
+    refs:
+    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5709.1
+    note: 'قيل لي: سل، فإن كل نبي قد سأل، فأخرت مسألتي إلى يوم القيامة؛ واختبأت دعوتي شفاعة لأمتي'
+  - motif: his-community-made-best-of-nations
+    refs:
+    - Jāmiʿ 48:5707.3
+    note: وجعلت أمتي خير الأمم
+  - motif: companions-guard-the-prophet-at-night-prayer
+    refs:
+    - Jāmiʿ 48:5707.4
+    note: عام غزوة تبوك قام من الليل يصلي، فاجتمع وراءه رجال من أصحابه يحرسونه
+  hints:
+  - Earlier communities burning the spoils (kanu yuhriqunaha) against Deut 13:16-17 and Josh 6:24 / 7:15, where captured goods are burned as herem.
+- id: hadith-48-lying-about-the-prophet
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Lying about the Prophet is not like lying about anyone; the wailed-over dead punished
+  read:
+  - Jāmiʿ 48:5709.2-5709.3
+  quran: []
+  tags:
+  - motif: lying-about-the-prophet-earns-seat-in-fire
+    refs:
+    - Jāmiʿ 48:5709.2
+    - Jāmiʿ 48:5709.3
+    note: إن كذبا علي ليس ككذب على أحد، من كذب علي متعمدًا فليتبوّأ مقعده من النار؛ فليلج النار
+  - motif: dead-punished-for-wailing-over-them
+    refs:
+    - Jāmiʿ 48:5709.2
+    note: من نيح عليه يعذّب بما نيح عليه
+- id: hadith-48-curse-made-purification
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Prophet's condition with his Lord - whomever he curses or insults undeservedly, let it be purification and nearness
+  read:
+  - Jāmiʿ 48:5710.1-5711.1
+  quran: []
+  tags:
+  - motif: prophet-stipulates-his-curses-become-blessing
+    refs:
+    - Jāmiʿ 48:5710.1
+    - Jāmiʿ 48:5710.3
+    - Jāmiʿ 48:5710.4
+    - Jāmiʿ 48:5711.1
+    note: إني اشترطت على ربي ... أي عبد من المسلمين سببتُه أو شتمتُه أن يكون ذلك له زكاةً وأجرًا
+  - motif: i-am-only-human-angry-as-humans-are
+    refs:
+    - Jāmiʿ 48:5710.3
+    - Jāmiʿ 48:5711.1
+    note: اللهم إنما محمد بشر يغضب كما يغضب البشر؛ أرضى كما يرضى البشر، وأغضب كما يغضب البشر
+  - motif: covenant-with-god-that-he-will-not-break
+    refs:
+    - Jāmiʿ 48:5710.3
+    note: وإني قد اتخذت عندك عهدًا لن تخلفنيه
+  - motif: insult-turned-into-nearness-on-resurrection-day
+    refs:
+    - Jāmiʿ 48:5710.2
+    - Jāmiʿ 48:5710.3
+    note: فاجعلْ ذلك له قربة إليك يوم القيامة؛ آذيتُه، أو سببتُه، أو جلدتُه
+  - motif: orphan-girl-fears-curse-may-your-age-not-grow
+    refs:
+    - Jāmiʿ 48:5711.1
+    note: 'لقد كبِرت لا كبِر سنك ... فالآن لا يكبر سني أبدا -أو قالت: قرني'
+  - motif: mother-runs-winding-her-veil
+    refs:
+    - Jāmiʿ 48:5711.1
+    note: فخرجتْ أمُّ سليم مستعجلة تلوث خمارها
+- id: hadith-48-sees-behind-his-back
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: He sees those praying behind him as he sees in front
+  read:
+  - Jāmiʿ 48:5712.1-5712.2
+  quran: []
+  tags:
+  - motif: prophet-sees-behind-his-back-in-prayer
+    refs:
+    - Jāmiʿ 48:5712.1
+    - Jāmiʿ 48:5712.2
+    note: إني لأراكم من وراء ظهري ... إني والله لأبصر من ورائي كما أبصر من بين يدي
+  - motif: you-see-my-qibla-here
+    refs:
+    - Jāmiʿ 48:5712.1
+    note: أترون قبلتي ها هنا؟ فوالله ما يخفى عليّ خشوعكم ولا ركوعكم
+- id: hadith-48-satan-cannot-take-his-form
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whoever sees him in a dream has seen him; Satan cannot take his likeness; good dreams from God, bad from Satan
+  read:
+  - Jāmiʿ 48:5712.3-5714.3
+  quran: []
+  tags:
+  - motif: seeing-prophet-in-dream-is-true-sight
+    refs:
+    - Jāmiʿ 48:5712.3
+    - Jāmiʿ 48:5713.1
+    - Jāmiʿ 48:5713.2
+    - Jāmiʿ 48:5714.1
+    - Jāmiʿ 48:5714.2
+    - Jāmiʿ 48:5714.3
+    note: من رآني في المنام فسيراني في اليقظة، أو لكأنّما رآني في اليقظة؛ من رآني فقد رأى الحق
+  - motif: satan-cannot-take-the-prophets-form-in-dream
+    refs:
+    - Jāmiʿ 48:5712.3
+    - Jāmiʿ 48:5713.1
+    - Jāmiʿ 48:5713.2
+    - Jāmiʿ 48:5713.3
+    - Jāmiʿ 48:5714.1
+    - Jāmiʿ 48:5714.2
+    - Jāmiʿ 48:5714.3
+    note: لا يتمثل الشيطان بي؛ لا يتخيّل بي؛ لا يتكوّنني؛ لا يتزايا بي؛ لا يستطيع أن يتمثل بي
+  - motif: good-dream-one-of-forty-six-parts-of-prophecy
+    refs:
+    - Jāmiʿ 48:5713.1
+    note: ورؤيا المؤمن جزء من ستة وأربعين جزءًا من النبوة
+  - motif: good-dream-from-god-bad-dream-from-satan
+    refs:
+    - Jāmiʿ 48:5713.3
+    note: الرؤيا الصالحة من الله والحلم من الشيطان
+  - motif: spit-to-left-three-times-after-bad-dream
+    refs:
+    - Jāmiʿ 48:5713.3
+    note: فمن رأى شيئًا يكرهه فلينفث عن شماله ثلاثًا وليتعوذ من الشيطان فإنها لا تضره
+  - motif: do-not-tell-satans-play-in-dreams
+    refs:
+    - Jāmiʿ 48:5714.1
+    note: إذا حلم أحدكم فلا يخبر أحدًا بتلعّب الشيطان به في المنام
+  hints:
+  - Dreams sorted into those from God and those from a deceiving power (al-hulm min al-shaytan) against Zech 10:2 and Jer 23:25-28, where false dreams are set against God's word.
+- id: hadith-48-longing-to-see-him
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A day will come when seeing him is dearer than family and wealth
+  read:
+  - Jāmiʿ 48:5715.1
+  quran: []
+  tags:
+  - motif: seeing-prophet-dearer-than-family-and-wealth
+    refs:
+    - Jāmiʿ 48:5715.1
+    note: ليأتين على أحدكم يوم ولا يراني، ثم لأن يراني أحب إليه من أهله وماله معهم
+- id: hadith-48-signs-at-his-birth-and-the-opened-breast
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abraham's prayer, Jesus's tidings, his mother's light over the palaces of Busra; two men in white open his breast, wash the heart with snow, and weigh him against his community
+  read:
+  - Jāmiʿ 48:5716.1-5717.2
+  quran:
+  - 2:129
+  - '61:6'
+  tags:
+  - motif: prayer-of-abraham-tidings-of-jesus-mothers-vision
+    refs:
+    - Jāmiʿ 48:5716.1
+    - Jāmiʿ 48:5717.2
+    note: دعوة أبي إبراهيم وبشرى عيسى ﵉؛ دعوة أبي إبراهيم، وبشارة عيسى بي
+  - motif: light-from-mother-lights-syrian-palaces
+    refs:
+    - Jāmiʿ 48:5716.1
+    - Jāmiʿ 48:5717.1
+    - Jāmiʿ 48:5717.2
+    note: ورأت أمي حين حملت بي أنه خرج منها نور أضاءت له قصور بصرى من أرض الشام
+  - motif: mothers-of-prophets-see-such-visions
+    refs:
+    - Jāmiʿ 48:5717.2
+    note: ورؤيا أمي التي رأت، وكذلك أمهات النبيين ترين
+  - motif: breast-opened-heart-washed-with-snow
+    refs:
+    - Jāmiʿ 48:5716.1
+    - Jāmiʿ 48:5717.1
+    note: رجلان عليهما ثياب بيض معهما طست من ذهب مملوءة ثلجا فأضجعاني فشقا بطني ثم استخرجا قلبي فشقاه فأخرجا منه علقة سوداء
+  - motif: two-white-birds-like-vultures-take-the-child
+    refs:
+    - Jāmiʿ 48:5717.1
+    note: 'فأقبل طيران أبيضان كأنهما نسْران، فقال أحدهما لصاحبه: أهو هو؟ قال: نعم'
+  - motif: sakina-sprinkled-into-heart-and-sealed
+    refs:
+    - Jāmiʿ 48:5717.1
+    note: ائتني بالسكينة، فذرّاها في قلبي ... حُصْه ... وختم عليه بخاتم النبوة
+  - motif: child-weighed-against-ten-hundred-thousand-of-his-community
+    refs:
+    - Jāmiʿ 48:5716.1
+    - Jāmiʿ 48:5717.1
+    note: زنه بعشرة من أمته فوزنني بعشرة فوزنتهم ... بمائة ... بألف ... فلو وزنته بأمته لوزنهم
+  - motif: foster-mother-fears-child-is-possessed
+    refs:
+    - Jāmiʿ 48:5717.1
+    note: 'فأشفقت عليّ أن يكون ألبس بي، قالت: أعيذك بالله ... أوَ أَديت أمانتي وذمتي؟'
+  - motif: seal-of-prophets-while-adam-in-clay
+    refs:
+    - Jāmiʿ 48:5717.2
+    note: إني عند الله لخاتم النبيين وإن آدم ﵇ لمنجدل في طينته
+  hints:
+  - The hero weighed on a scale against ten, a hundred, a thousand of his people and outweighing them, against Ps 62:10 (Heb), where men of rank put on the scales (be-moznayim la-ʿalot) weigh less than
+    a breath.
+- id: hadith-48-the-quran-as-sign-and-the-greeting-stone
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Each prophet given a sign; his is revelation; a stone in Mecca greeted him before his mission
+  read:
+  - Jāmiʿ 48:5718.1-5718.2
+  quran: []
+  tags:
+  - motif: each-prophet-given-a-convincing-sign
+    refs:
+    - Jāmiʿ 48:5718.1
+    note: ما من الأنبياء نبي إلا أعطي ما مثله آمن عليه البشر، وإنما الذي أوتيت وحيا
+  - motif: prophet-hopes-most-followers-on-judgment-day
+    refs:
+    - Jāmiʿ 48:5718.1
+    note: فأرجو أن أكون أكثرهم تابعًا يوم القيامة
+  - motif: stone-in-mecca-greeted-him-before-mission
+    refs:
+    - Jāmiʿ 48:5718.2
+    note: إني لأعرف حجرًا بمكة كان يسلم عليّ قبل أن أبعث، إني لأعرفه الآن
+- id: hadith-48-splitting-of-the-moon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The moon split in two over Mina, Hira between the halves; 'bear witness'; Quraysh call it sorcery and ask the travellers
+  read:
+  - Jāmiʿ 48:5718.3-5720.1
+  quran:
+  - '54:1'
+  tags:
+  - motif: hour-near-moon-split
+    refs:
+    - Jāmiʿ 48:5718.3
+    - Jāmiʿ 48:5719.1
+    - Jāmiʿ 48:5719.2
+    - Jāmiʿ 48:5719.3
+    - Jāmiʿ 48:5720.1
+    note: انشق القمر على عهد رسول الله ﷺ شقين؛ انفلق القمر
+  - motif: moon-halves-on-either-side-of-mountain
+    refs:
+    - Jāmiʿ 48:5718.3
+    - Jāmiʿ 48:5719.2
+    note: فكانت فلقة وراء الجبل، وفلقة دونه؛ فأراهم القمر شقتين، حتى رأوا حراء بينهما
+  - motif: prophet-calls-bear-witness-at-sign
+    refs:
+    - Jāmiʿ 48:5718.3
+    - Jāmiʿ 48:5720.1
+    note: 'فقال النبي ﷺ: اشهدوا'
+  - motif: unbelievers-ask-for-a-sign
+    refs:
+    - Jāmiʿ 48:5719.2
+    note: أن أهل مكة سألوا رسول الله ﷺ أن يريهم آية
+  - motif: sign-dismissed-as-sorcery-checked-with-travellers
+    refs:
+    - Jāmiʿ 48:5719.1
+    note: هذا سحر سحرنا به ابن أبي كبشة، فانظروا إلى السفار يأتونكم ... فما جاءهم أحد ... إلا أخبرهم أنهم رأوا مثل ما رأوا
+  - motif: prophet-called-ibn-abi-kabsha
+    refs:
+    - Jāmiʿ 48:5719.1
+    note: سحرنا به ابن أبي كبشة
+  hints:
+  - The sun and moon halted or turned back as a sign at a prophet's word (Josh 10:12-13; Isa 38:8, the shadow going back ten steps) against the moon split in two halves over the mountain with the call 'ishhadu'.
+- id: hadith-48-the-two-trees-and-two-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Two trees led like nose-roped camels to screen him, joined and parted; branches set by two graves to lighten their torment while green
+  read:
+  - Jāmiʿ 48:5720.2
+  quran: []
+  tags:
+  - motif: trees-obey-and-come-to-screen-the-prophet
+    refs:
+    - Jāmiʿ 48:5720.2
+    note: انقادي علي بإذن الله فانقادت معه كالبعير المخشوش، الذي يصانع قائده ... التئما علي بإذن الله فالتأمتا
+  - motif: trees-part-and-return-each-to-its-trunk
+    refs:
+    - Jāmiʿ 48:5720.2
+    note: وإذا الشجرتان قد افترقتا، فقامت كل واحدة منهما على ساق
+  - motif: green-branches-lighten-grave-torment
+    refs:
+    - Jāmiʿ 48:5720.2
+    note: إني مررت بقبرين يعذبان، فأحببت بشفاعتي أن يرفه عنهما ما دام الغصنان رطبين
+  - motif: branch-set-to-right-and-left-at-his-standing-place
+    refs:
+    - Jāmiʿ 48:5720.2
+    note: حتى إذا قمت مقامي فأرسل غصنا عن يمينك وغصنا عن يسارك
+- id: hadith-48-three-wonders-of-yala
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Three things Yaʿla saw - the possessed boy healed by spittle, two trees joined and parted, the weeping camel saved from slaughter
+  read:
+  - Jāmiʿ 48:5722.1
+  quran: []
+  tags:
+  - motif: prophet-spits-into-possessed-boys-mouth
+    refs:
+    - Jāmiʿ 48:5722.1
+    note: 'ثم فَغَر فاه، فنفث فيه ثلاثا، وقال: بسم الله، أنا عبد الله، اخسأ عدو الله'
+  - motif: grateful-mother-brings-three-sheep-one-taken
+    refs:
+    - Jāmiʿ 48:5722.1
+    note: معها شياه ثلاث ... انزل فخذ منها واحدة، ورد البقية
+  - motif: trees-obey-and-come-to-screen-the-prophet
+    refs:
+    - Jāmiʿ 48:5722.1
+    note: إن رسول الله ﷺ يأمركما أن تجتمعا بإذن الله ... أن ترجع كل واحدة منكما إلى مكانها
+  - motif: camel-weeps-and-complains-to-prophet
+    refs:
+    - Jāmiʿ 48:5722.1
+    note: إذ جاءه جمل يخبب، حتى صوب بجرانه بين يديه، ثم ذرفت عيناه ... إن له لشأنا
+  - motif: worn-out-camel-saved-from-slaughter
+    refs:
+    - Jāmiʿ 48:5722.1
+    note: حتى عجز عن السقاية، فأتمرنا البارحة أن ننحره ... فلا تفعل، هبه لي أو بعنيه ... فوسمه بسمة الصدقة
+  hints:
+  - The beast that sees and protests its mistreatment before the master is told (Num 22:28-30, Balaam's ass) against the camel that bows its neck and weeps before the Prophet, who asks its owner about it.
+- id: hadith-48-palm-cluster-and-walking-tree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A date-cluster comes down at his call to convince a bedouin; Gabriel has a tree walk to the bloodied Prophet as a sign
+  read:
+  - Jāmiʿ 48:5723.1-5723.2
+  quran: []
+  tags:
+  - motif: date-cluster-comes-down-and-returns-at-call
+    refs:
+    - Jāmiʿ 48:5723.1
+    note: 'إن دعوت هذا العذق من هذه النخلة تشهد أني رسول الله؟ فدعاه ... ثم قال: ارجع فعاد، فأسلم الأعرابي'
+  - motif: gabriel-consoles-bloodied-prophet-with-walking-tree
+    refs:
+    - Jāmiʿ 48:5723.2
+    note: 'وهو جالس حزينًا قد خضب بالدماء ... ادع بتلك الشجرة، فدعاها فجاءت تمشي ... فقال رسول الله ﷺ: حسبي'
+- id: hadith-48-the-woman-with-water-skins
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The sleep past sunrise; the man in janaba told to use earth; the woman's water-skins pour for the army yet stay fuller; she and her clan accept Islam
+  read:
+  - Jāmiʿ 48:5724.1
+  quran: []
+  tags:
+  - motif: army-oversleeps-sun-wakes-them
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: فما أيقظنا إلا حر الشمس ... فكبر ورفع صوته بالتكبير ... حتى استيقظ بصوته النبي ﷺ
+  - motif: prophet-not-woken-from-sleep
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: وكان النبي ﷺ إذا نام لم يوقظ حتى يكون هو يستيقظ، لأنا لا ندري ما يحدث له في نومه
+  - motif: earth-suffices-for-the-impure-without-water
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: 'أصابتني جنابة ولا ماء، قال: عليك بالصعيد، فإنه يكفيك'
+  - motif: water-skins-poured-out-yet-fuller-than-before
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: 'ونودي في الناس: اسقوا واستقوا ... وإنه ليخيل إلينا أنها أشد مِلأة منها حين ابتدأ فيها'
+  - motif: prophet-called-the-sabi
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: 'قالت: الذي يقال له الصابئ؟'
+  - motif: we-took-nothing-of-your-water-god-gave-us-drink
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: تعلمين ما رزئنا من مائك شيئا، ولكن الله هو الذي أسقانا
+  - motif: greatest-sorcerer-or-truly-gods-messenger
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: إنه لأسحر الناس من بين هذه وهذه ... أو إنه لرسول الله حقا
+  - motif: spared-clan-follows-woman-into-islam
+    refs:
+    - Jāmiʿ 48:5724.1
+    note: ولا يصيبون الصِّرم الذي هي منه ... فهل لكم في الإسلام؟ فأطاعوها
+  hints:
+  - Vessels that keep giving water or oil beyond their measure (1 Kgs 17:14-16, the jar of flour and jug of oil; 2 Kgs 4:2-6) against the water-skins that are fuller after the whole army has drawn from
+    them.
+- id: hadith-48-water-at-hudaybiya-and-tabuk
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Water gushing from between his fingers at Hudaybiya; the drained well refilled by his rinsing water; the spring of Tabuk made to flow
+  read:
+  - Jāmiʿ 48:5725.1-5726.1
+  quran: []
+  tags:
+  - motif: water-springs-from-between-the-prophets-fingers
+    refs:
+    - Jāmiʿ 48:5725.1
+    note: فَوَضَعَ النَّبِيُّ ﷺ يَدَهُ فِي الرَّكْوَةِ، فَجَعَلَ الْمَاءُ يَفُورُ مِنْ بَيْنِ أَصَابِعِهِ كَأَمْثَالِ الْعُيُونِ
+  - motif: fifteen-hundred-at-hudaybiya
+    refs:
+    - Jāmiʿ 48:5725.1
+    - Jāmiʿ 48:5725.2
+    note: لَوْ كُنَّا مِائَةَ أَلْفٍ لَكَفَانَا، كُنَّا خَمْسَ عَشْرَةَ مِائَةً؛ أَرْبَعَ عَشْرَةَ مِائَةً
+  - motif: the-true-conquest-was-the-pledge-of-ridwan
+    refs:
+    - Jāmiʿ 48:5725.2
+    note: وَنَحْنُ نَعُدُّ الْفَتْحَ بَيْعَةَ الرُّضوَانِ يَوْمَ الْحُدَيْبِيَةِ
+  - motif: rinse-water-poured-into-dry-well-refills-it
+    refs:
+    - Jāmiʿ 48:5725.2
+    note: فَجَلَسَ عَلَى شَفِيرِهَا، ثُمَّ دَعَا بِإِنَاءٍ مِنْ مَاءٍ فَتَوَضَّأَ ثُمَّ مَضْمَض وَدَعَا، ثُمَّ صبَّهُ فِيهَا ... ثُمَّ إِنَّهَا أَصْدَرَتْنَا مَا شِئْنَا
+  - motif: joining-prayers-on-campaign
+    refs:
+    - Jāmiʿ 48:5726.1
+    note: فصلى الظهر والعصر جميعا، والمغرب والعشاء جميعا
+  - motif: forbidden-to-touch-spring-before-prophet-comes
+    refs:
+    - Jāmiʿ 48:5726.1
+    note: فمن جاءها منكم فلا يمس من مائها شيئا حتى آتي ... فسبهما النبي ﷺ
+  - motif: trickle-spring-made-to-gush-by-washing-water
+    refs:
+    - Jāmiʿ 48:5726.1
+    note: والعين مثل الشراك تبض بشيء من ماء ... وغسل رسول الله ﷺ فيه يده ووجهه، ثم أعاده فيها، فجرت العين بماء منهمر
+  - motif: barren-place-will-be-filled-with-gardens
+    refs:
+    - Jāmiʿ 48:5726.1
+    note: يوشك يا معاذ! إن طالت بك حياة، أن ترى ما ههنا قد ملئ جنانا
+  hints:
+  - A spoiled or failing spring healed by what the prophet puts into it (2 Kgs 2:19-22, Elisha's salt) against the trickle at Tabuk that gushes when the water he washed his hands and face in is poured back.
+- id: hadith-48-water-from-between-fingers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The whole company makes ablution from water springing under his fingers; signs counted as blessing; the food heard glorifying God
+  read:
+  - Jāmiʿ 48:5726.2-5727.1
+  quran: []
+  tags:
+  - motif: water-springs-from-between-the-prophets-fingers
+    refs:
+    - Jāmiʿ 48:5726.2
+    - Jāmiʿ 48:5727.1
+    note: فرأيت الماء ينبع من تحت أصابعه، فتوضأ الناس حتى توضئوا من عند آخرهم
+  - motif: signs-counted-as-blessing-not-warning
+    refs:
+    - Jāmiʿ 48:5727.1
+    note: كنا نعد الآيات بركة، وأنتم تعدونها تخويفا
+  - motif: come-to-the-blessed-purification
+    refs:
+    - Jāmiʿ 48:5727.1
+    note: حيّ على الطهور المبارك، والبركة من الله
+  - motif: food-heard-glorifying-god-as-eaten
+    refs:
+    - Jāmiʿ 48:5727.1
+    note: ولقد كنا نسمع تسبيح الطعام وهو يؤكل
+- id: hadith-48-the-drop-in-the-dry-skin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: One drop in a dried water-skin, squeezed with words he speaks, fills the riders' great bowl from between his spread fingers
+  read:
+  - Jāmiʿ 48:5727.2
+  quran: []
+  tags:
+  - motif: single-drop-squeezed-with-unknown-words
+    refs:
+    - Jāmiʿ 48:5727.2
+    note: فلم أجد فيها إلا قطرة في عزلاء شجب منها، لو أني أفرغه لشربه يابسه ... فجعل يتكلم بشيء لا أدري ما هو، ويغمزه بيديه
+  - motif: water-springs-from-between-the-prophets-fingers
+    refs:
+    - Jāmiʿ 48:5727.2
+    note: فبسطها وفرق بين أصابعه، ثم وضعها في قعر الجفنة ... فرأيت الماء يفور من بين أصابع رسول الله ﷺ، ثم فارت الجفنة ودارت حتى امتلأت
+  - motif: call-three-times-for-water-in-camp
+    refs:
+    - Jāmiʿ 48:5727.2
+    note: 'يا جابر، ناد بوضوء فقلت: ألا وضوء؟ ألا وضوء؟ ألا وضوء؟'
+- id: hadith-48-spittle-in-the-well-of-hudaybiya
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: He spits or prays into the drained well of al-Hudaybiya and it surges
+  read:
+  - Jāmiʿ 48:5728.1-5729.1
+  quran: []
+  tags:
+  - motif: rinse-water-poured-into-dry-well-refills-it
+    refs:
+    - Jāmiʿ 48:5728.1
+    - Jāmiʿ 48:5729.1
+    note: 'فمضمض ومج في البئر ... ثم استقينا حتى روينا؛ فإما دعا، وإما بسق فيها، قال: فجاشت'
+  - motif: fifteen-hundred-at-hudaybiya
+    refs:
+    - Jāmiʿ 48:5728.1
+    - Jāmiʿ 48:5729.1
+    note: كنا يوم الحديبية أربع عشرة مائة
+  - motif: well-could-not-water-fifty-sheep
+    refs:
+    - Jāmiʿ 48:5729.1
+    note: وعليها خمسون شاة لا ترويها
+- id: hadith-48-multiplying-food
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Loaves of Abu Talha fed to tens until seventy or eighty ate; the hays of Umm Sulaym for some three hundred; the guests of Abu Bakr and the food that grew
+  read:
+  - Jāmiʿ 48:5729.2-5731.1
+  quran:
+  - '33:53'
+  tags:
+  - motif: hunger-heard-in-the-prophets-voice
+    refs:
+    - Jāmiʿ 48:5729.2
+    note: لقد سمعت صوت رسول الله ﷺ ضعيفا، أعرف فيه الجوع
+  - motif: bread-hidden-under-arm-wrapped-in-veil
+    refs:
+    - Jāmiʿ 48:5729.2
+    note: ثم أخذت خمارا لها، فلفَّت الخبز ببعضه، ثم دسته تحت يدي وردتني ببعضه
+  - motif: guests-admitted-ten-at-a-time-all-satisfied
+    refs:
+    - Jāmiʿ 48:5729.2
+    - Jāmiʿ 48:5730.1
+    note: ائذن لعشرة بالدخول ... حتى أكل القوم كلهم وشبعوا، والقوم سبعون أو ثمانون رجلا؛ ليتحلق عشرة عشرة وليأكل كل إنسان مما يليه
+  - motif: food-left-as-much-as-before-eating
+    refs:
+    - Jāmiʿ 48:5730.1
+    - Jāmiʿ 48:5731.1
+    note: فما أدري حين وضعت كان أكثر أم حين رفعت؟؛ لهي الآن أكثر مما قبل بثلاث مرات
+  - motif: small-gift-of-hays-feeds-three-hundred
+    refs:
+    - Jāmiʿ 48:5730.1
+    note: فصنعت أمي أم سليم حيسا فجعلته في تور ... إن هذا لك منا قليل ... زهاء ثلاثمائة
+  - motif: lingering-wedding-guests-and-the-verse-of-the-screen
+    refs:
+    - Jāmiʿ 48:5730.1
+    note: وجلس طوائف منهم يتحدثون في بيت رسول الله ﷺ ... وزوجته مولية وجهها إلى الحائط ... أرخى الستر ... وأنزلت هذه الآية
+  - motif: whoever-has-food-for-two-take-a-third
+    refs:
+    - Jāmiʿ 48:5731.1
+    note: من كان عنده طعام اثنين فليذهب بثالث، ومن كان عنده طعام أربعة فليذهب بخامس أو سادس
+  - motif: food-grew-from-beneath-each-morsel
+    refs:
+    - Jāmiʿ 48:5731.1
+    note: ما كنا نأخذ من اللقمة إلا ربا من أسفلها أكثر منها
+  - motif: host-breaks-oath-not-to-eat-calling-it-satans
+    refs:
+    - Jāmiʿ 48:5731.1
+    note: 'وقال: لا أطعمه أبدا ... فأكل منها أبو بكر وقال: إنما كان الشيطان، يعني يمينه'
+  - motif: abu-bakr-scolds-son-ya-ghunthar
+    refs:
+    - Jāmiʿ 48:5731.1
+    note: 'فذهبت فاختبأت، فقال: يا غنثر، فجدع وسب'
+  hints:
+  - Food that feeds a crowd and leaves more over (2 Kgs 4:42-44, twenty barley loaves for a hundred men, 'they shall eat and leave thereof'; Mark 6:39-44, the crowd seated in groups) against guests admitted
+    ten by ten until seventy or eighty are fed from a few barley loaves.
+- id: hadith-48-feeding-the-army
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A sheep's liver cut for each of 130; Jabir's kid and a saʿ of barley feed a thousand at the trench; the pooled provisions like a crouching goat feed 1400
+  read:
+  - Jāmiʿ 48:5732.1-5732.3
+  quran: []
+  tags:
+  - motif: liver-portion-kept-for-each-of-130
+    refs:
+    - Jāmiʿ 48:5732.1
+    note: ما من الثلاثين ومائة إلا قد حز له حزة من سواد بطنها، إن كان شاهدًا أعطاه إياه، وإن كان غائبا خبأها له
+  - motif: tall-polytheist-sells-a-sheep
+    refs:
+    - Jāmiʿ 48:5732.1
+    note: رجل مشرك مشعان طويل، بغنم يسوقها ... أبيع أم عطية ... لا، بل بيع
+  - motif: hunger-at-the-trench-prophet-with-hollow-belly
+    refs:
+    - Jāmiʿ 48:5732.2
+    note: لما حفر الخندق رأيت بالنبي ﷺ خمَصا شديدًا
+  - motif: prophet-spits-into-dough-and-pot
+    refs:
+    - Jāmiʿ 48:5732.2
+    note: فبصق فيها وبارك، ثم عمد إلى برمتنا فبصق فيها وبارك
+  - motif: thousand-eat-and-pot-still-bubbles
+    refs:
+    - Jāmiʿ 48:5732.2
+    note: وهم ألف ... وإن برمتنا لتغط كما هي، وإن عجيننا ... لتخبز كما هو
+  - motif: wife-fears-disgrace-before-the-guests
+    refs:
+    - Jāmiʿ 48:5732.2
+    note: 'لا تفضحني برسول الله ﷺ وبمن معه ... فقالت: بك وبك'
+  - motif: pooled-provisions-on-a-leather-mat
+    refs:
+    - Jāmiʿ 48:5732.3
+    note: فجمعنا مزاودنا. فبسطنا له نطعا ... فحزرته كربضة العنز. ونحن أربع عشرة مائة
+  - motif: drop-in-a-skin-washes-1400-and-ends-for-latecomers
+    refs:
+    - Jāmiʿ 48:5732.3
+    note: بإداوة له، فيها نطفة ... فتوضأنا كلنا ... أربع عشرة مائة ... ثم جاء بعد ذلك ثمانية ... فرغ الوضوء
+- id: hadith-48-dates-of-the-debt-and-the-cup-of-milk
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Dates sorted by kind, the debt paid and nothing gone; the bowl of milk for the people of the Suffa
+  read:
+  - Jāmiʿ 48:5733.1-5733.2
+  quran: []
+  tags:
+  - motif: debt-paid-from-dates-that-do-not-diminish
+    refs:
+    - Jāmiʿ 48:5733.1
+    note: فصنف تمرك أصنافًا، العجوة على حدة، وعذق زيد على حدة ... فجلس على أعلاه ... وبقي تمري، كأنه لم ينقص منه شيء
+  - motif: one-cup-of-milk-for-the-people-of-the-suffa
+    refs:
+    - Jāmiʿ 48:5733.2
+    note: 'فوجد لبنًا في قدح، فقال: يا أبا هريرة، الْحَقْ أهل الصفة، فادعهم إليّ'
+  hints:
+  - The widow's debt paid from oil that keeps flowing until the creditors are satisfied (2 Kgs 4:1-7) against the dead man's dates measured out to his creditors with nothing diminished.
+- id: hadith-48-blessed-vessels-that-fail-when-measured
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Umm Malik's butter-skin that kept giving until she squeezed it; the half-wasq of barley that lasted until measured
+  read:
+  - Jāmiʿ 48:5734.1-5735.1
+  quran: []
+  tags:
+  - motif: blessed-store-fails-once-squeezed-or-measured
+    refs:
+    - Jāmiʿ 48:5734.1
+    - Jāmiʿ 48:5735.1
+    note: فما زال يقيم لها أدم بيتها حتى عصرته ... لو تركتيها ما زال قائمًا؛ فما زال الرجل يأكل منه ... حتى كاله ... لو لم تكله لأكلتم منه ولقام لكم
+  - motif: gift-vessel-returned-still-full
+    refs:
+    - Jāmiʿ 48:5734.1
+    note: فتعمد إلى الذي كانت تهدي فيه للنبي ﷺ فتجد فيه سمنًا
+  hints:
+  - The oil and flour that do not fail until the rain (1 Kgs 17:14-16) against the butter-skin and barley that last only so long as no one squeezes or measures them.
+- id: hadith-48-pooled-provisions-blessed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Leftover provisions gathered on a mat, prayed over, fill every vessel in the army; the double testimony said over it
+  read:
+  - Jāmiʿ 48:5735.2
+  - Jāmiʿ 48:5737.2
+  quran: []
+  tags:
+  - motif: pooled-provisions-on-a-leather-mat
+    refs:
+    - Jāmiʿ 48:5735.2
+    - Jāmiʿ 48:5737.2
+    note: فدعا بنطع فبسطه. ثم دعا بفضل أزوادهم ... حتى ما تركوا في العسكر وعاء إلا ملأوه
+  - motif: umar-advises-against-slaughtering-the-mounts
+    refs:
+    - Jāmiʿ 48:5735.2
+    - Jāmiʿ 48:5737.2
+    note: إن فعلت قل الظهر. ولكن ادعهم بفضل أزوادهم؛ كيف بنا إذا نحن لقينا القوم غدا جِياعا رجالا
+  - motif: date-stones-sucked-against-hunger
+    refs:
+    - Jāmiʿ 48:5735.2
+    note: وذو النواة بنواه ... كانوا يمصونه ويشربون عليه الماء
+  - motif: two-testimonies-without-doubt-bar-hell
+    refs:
+    - Jāmiʿ 48:5735.2
+    - Jāmiʿ 48:5737.2
+    note: أشهد أن لا إله إلا الله وأني رسول الله. لا يلقى الله بهما عبد، غير شاك فيهما، إلا دخل الجنة؛ إلا حجبت عنه النار
+  - motif: prophet-laughs-till-molars-show
+    refs:
+    - Jāmiʿ 48:5737.2
+    note: فضحك رسول الله ﷺ حتى بدت نواجذه
+- id: hadith-48-the-third-foreleg
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Give me the foreleg'' three times - had you kept silent you would have found another'
+  read:
+  - Jāmiʿ 48:5736.1-5736.2
+  quran: []
+  tags:
+  - motif: third-foreleg-had-servant-kept-silent
+    refs:
+    - Jāmiʿ 48:5736.1
+    - Jāmiʿ 48:5736.2
+    note: 'إنما للشاة ذراعان! قال: أما إنك لو التمستها لوجدتها؛ لو سكتّ لأعطتك ذراعًا ما دعوت به'
+- id: hadith-48-bowl-fed-from-heaven
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A bowl passed from morning to night, ten rising and ten sitting, refilled from the sky
+  read:
+  - Jāmiʿ 48:5737.1
+  quran: []
+  tags:
+  - motif: bowl-replenished-from-heaven
+    refs:
+    - Jāmiʿ 48:5737.1
+    note: نتداول من قصعة من غُدوة حتى الليل، تقوم عشرة، ويقعد عشرة ... ما كانت تمد إلا من ها هنا. وأشار بيده إلى السماء
+- id: hadith-48-abu-hurayras-date-bag
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Hurayra's blessed dates - take by hand, do not scatter; the bag lasted until ʿUthman was killed; the storeroom of dates for 440 riders
+  read:
+  - Jāmiʿ 48:5738.1-5738.2
+  quran: []
+  tags:
+  - motif: blessed-dates-taken-by-hand-never-poured-out
+    refs:
+    - Jāmiʿ 48:5738.1
+    note: كلما أردت أن تأخذ منه شيئا فأدخل فيه يدك فخذه ولا تنثره نثرا
+  - motif: blessed-store-ends-on-day-uthman-was-killed
+    refs:
+    - Jāmiʿ 48:5738.1
+    note: وكان لا يفارق حقوي حتى كان يوم قتل عثمان فإنه انقطع
+  - motif: date-heap-like-a-crouching-young-camel-undiminished
+    refs:
+    - Jāmiʿ 48:5738.2
+    note: أربعين راكبا وأربع مائة ... فإذا شبه الفصيل الرابض من تمر ... وكَأَنَّا لم نرزأْ تمرة
+- id: hadith-48-food-glorifies-and-the-weeping-trunk
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The food heard glorifying God; the palm trunk that cried like she-camels when the pulpit was made
+  read:
+  - Jāmiʿ 48:5739.1-5739.2
+  quran: []
+  tags:
+  - motif: food-heard-glorifying-god-as-eaten
+    refs:
+    - Jāmiʿ 48:5739.1
+    note: كنا نسمع تسبيح الطعام وهو يؤكل
+  - motif: palm-trunk-weeps-when-pulpit-replaces-it
+    refs:
+    - Jāmiʿ 48:5739.2
+    note: فلما وضع له المنبر سمعنا للجذع مثل أصوات العشار، حتى نزل النبي ﷺ فوضع يده عليه
+- id: hadith-48-the-yearning-trunk
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The trunk he preached against yearns when he moves to the tamarisk pulpit; he strokes it until it is still
+  read:
+  - Jāmiʿ 48:5740.1-5740.2
+  quran: []
+  tags:
+  - motif: palm-trunk-weeps-when-pulpit-replaces-it
+    refs:
+    - Jāmiʿ 48:5740.1
+    - Jāmiʿ 48:5740.2
+    note: فلما اتخذ المنبر تحول إليه فحنّ الجذع، فأتاه فمسح يده عليه؛ فأتاه رسول الله ﷺ فوطده ... حتى سكن
+  - motif: pulpit-of-tamarisk-from-the-ghaba
+    refs:
+    - Jāmiʿ 48:5740.2
+    note: هو من أثل الغابة، وعمله فلان -مولى فلانة
+- id: hadith-48-rain-at-his-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Rain from a glass-clear sky at his Friday prayer, a week of rain, then 'around us, not on us' and the cloud parts like a crown
+  read:
+  - Jāmiʿ 48:5740.3-5741.1
+  quran: []
+  tags:
+  - motif: rain-from-clear-sky-at-prophets-prayer
+    refs:
+    - Jāmiʿ 48:5740.3
+    - Jāmiʿ 48:5741.1
+    note: وإن السماء لمثل الزجاجة، فهاجت ريح أنشأت سحابًا ... ثم أرسلت السماء عزاليها؛ وما في السماء قزعة ... حتى رأيت المطر يتحادر على لحيته
+  - motif: rain-lasts-from-friday-to-friday
+    refs:
+    - Jāmiʿ 48:5740.3
+    - Jāmiʿ 48:5741.1
+    note: فلم نزل نمطر إلى الجمعة الأخرى
+  - motif: around-us-not-upon-us
+    refs:
+    - Jāmiʿ 48:5740.3
+    - Jāmiʿ 48:5741.1
+    note: حوالينا ولا علينا ... فنظرت إلى السحاب تصدّع حول المدينة كأنه إكليل؛ حتى صارت المدينة في مثل الجوبة
+  hints:
+  - Rain brought by a prophet's prayer out of a clear sky, the cloud rising quickly (1 Kgs 18:44-45, the cloud 'like a man's hand' from the sea) against the wind that raises a cloud from a sky 'like glass'
+    while the Prophet still stands on the pulpit.
+- id: hadith-48-blessing-on-urwa-and-the-swift-mounts
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿUrwa's dinar that became two sheep - he would profit even on dust; Jabir's tired camel made to lead; Abu Talha's slow horse that was never outrun
+  read:
+  - Jāmiʿ 48:5742.1-5742.3
+  quran: []
+  tags:
+  - motif: blessed-trader-profits-even-on-dust
+    refs:
+    - Jāmiʿ 48:5742.1
+    note: فاشترى له به شاتين، فباع إحداهما بدينار، وجاءه بدينار وشاة، فدعا له بالبركة في بيعه، وكان لو اشترى التراب لربح فيه
+  - motif: tired-camel-prodded-and-blessed-leads-the-herd
+    refs:
+    - Jāmiʿ 48:5742.2
+    note: فزجره ودعا له فما زال بين يدي الإبل قدامها
+  - motif: slow-horse-found-to-be-a-sea
+    refs:
+    - Jāmiʿ 48:5742.3
+    note: فركب رسول الله ﷺ فرسًا لأبي طلحة بطيئًا ... لم تراعوا إنه لبحر فما سبق بعد ذلك اليوم
+- id: hadith-48-questions-only-a-prophet-knows
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn Salam's three questions and the Jews' two verdicts on him; the rabbi's questions on the day the earth is changed, the gift of the fish's liver, the ox of paradise, and the child's sex
+  read:
+  - Jāmiʿ 48:5742.4-5743.1
+  quran:
+  - '14:48'
+  - '76:18'
+  tags:
+  - motif: three-questions-only-a-prophet-knows
+    refs:
+    - Jāmiʿ 48:5742.4
+    - Jāmiʿ 48:5743.1
+    note: إني سائلك عن ثلاث لا يعلمهن إلا نبي؛ شيء لا يعلمه أحد من أهل الأرض، إلا نبي أو رجل أو رجلان
+  - motif: gabriel-enemy-of-jews-among-angels
+    refs:
+    - Jāmiʿ 48:5742.4
+    note: 'أخبرني به جبريل آنفا. قال ابن سلام: ذاك عدو اليهود من الملائكة'
+  - motif: fire-drives-people-east-to-west-first-sign
+    refs:
+    - Jāmiʿ 48:5742.4
+    note: أما أول أشراط الساعة فنار تحشرهم من المشرق إلى المغرب
+  - motif: first-food-of-paradise-fish-liver-lobe
+    refs:
+    - Jāmiʿ 48:5742.4
+    - Jāmiʿ 48:5743.1
+    note: فزيادة كبد الحوت؛ زيادة كبد النون
+  - motif: whose-fluid-prevails-decides-resemblance-or-sex
+    refs:
+    - Jāmiʿ 48:5742.4
+    - Jāmiʿ 48:5743.1
+    note: إذا سبق ماء الرجل ماء المرأة نزع الولد؛ ماء الرجل أبيض وماء المرأة أصفر ... فعلا مني الرجل مني المرأة، أذكرا بإذن الله
+  - motif: convert-praised-then-reviled-by-his-people
+    refs:
+    - Jāmiʿ 48:5742.4
+    note: 'خيرنا وابن خيرنا ... فخرج إليهم عبد الله فقال: أشهد ... قالوا: شرنا وابن شرنا'
+  - motif: rabbi-calls-him-by-the-name-his-family-gave
+    refs:
+    - Jāmiʿ 48:5743.1
+    note: 'إنما ندعوه باسمه الذي سماه به أهله، فقال رسول الله ﷺ: إن اسمي محمد الذي سماني به أهلي'
+  - motif: people-in-darkness-below-the-bridge-when-earth-is-changed
+    refs:
+    - Jāmiʿ 48:5743.1
+    note: 'أين يكون الناس يوم تبدل الأرض غير الأرض والسماوات؟ فقال: هم في الظلمة دون الجسر'
+  - motif: poor-emigrants-cross-first
+    refs:
+    - Jāmiʿ 48:5743.1
+    note: 'فمن أول الناس إجازة؟ قال: فقراء المهاجرين'
+  - motif: ox-of-paradise-slaughtered-for-the-blessed
+    refs:
+    - Jāmiʿ 48:5743.1
+    note: ينحر لهم ثور الجنة الذي كان يأكل من أطرافها
+  - motif: spring-salsabil-drink-of-paradise
+    refs:
+    - Jāmiʿ 48:5743.1
+    note: من عين فيها تسمى سلسبيلا
+  hints:
+  - The great fish and the ox of the world to come served at the feast of the righteous (b. Bava Batra 74b-75a, Leviathan's flesh and the wild ox; 2 Bar 29:4) against the first food of paradise as the lobe
+    of the fish's liver and the ox of paradise that grazed its borders.
+  - 'Sex of the child decided by which parent''s seed comes first or prevails (b. Niddah 31a: ''if the woman emits seed first she bears a male'') against ''when the man''s fluid rises over the woman''s,
+    they produce a male'', the reverse assignment.'
+- id: hadith-48-the-earth-casts-out-the-apostate
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The apostate scribe who said Muhammad knew only what he wrote; the earth casts him out three times
+  read:
+  - Jāmiʿ 48:5744.1
+  quran: []
+  tags:
+  - motif: apostate-scribe-claims-he-wrote-the-revelation
+    refs:
+    - Jāmiʿ 48:5744.1
+    note: 'فكان يكتب للنبي ﷺ، فعاد نصرانيا، فكان يقول: ما يدري محمد إلا ما كتبت له'
+  - motif: earth-casts-out-the-buried-three-times
+    refs:
+    - Jāmiʿ 48:5744.1
+    note: 'فأصبح وقد لفظته الأرض ... فحفروا له وأعمقوا له في الأرض ما استطاعوا، فأصبح وقد لفظته الأرض، فعلموا: أنه ليس من الناس فألقوه'
+- id: hadith-48-the-hijra-and-suraqa
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The noon halt under the rock, milk cooled with water; Suraqa's horse sinks in hard ground at the Prophet's prayer, and he turns back the pursuers
+  read:
+  - Jāmiʿ 48:5744.2
+  quran:
+  - '9:40'
+  tags:
+  - motif: shepherd-milks-for-fugitives-at-noon-rock
+    refs:
+    - Jāmiʿ 48:5744.2
+    note: فإذا أنا براع مقبل بغنمه إلى الصخرة ... انفض الضرع من التراب والشعر والقذى ... فصببت من الماء على اللبن حتى برد أسفله
+  - motif: grieve-not-god-is-with-us
+    refs:
+    - Jāmiʿ 48:5744.2
+    note: 'واتبعنا سراقة بن مالك، فقلت: أتينا يا رسول الله، فقال: لا تحزن إن الله معنا'
+  - motif: pursuers-horse-sinks-into-hard-ground
+    refs:
+    - Jāmiʿ 48:5744.2
+    note: فدعا عليه النبي ﷺ فارتطمت به فرسه إلى بطنها -أرى- في جلد من الأرض
+  - motif: pursuer-turned-protector-sends-others-back
+    refs:
+    - Jāmiʿ 48:5744.2
+    note: 'فادعوا لي، فالله لكما أن أرد عنكما الطلب ... فلا يلقى أحدًا إلا رده، قال: ووفى لنا'
+- id: hadith-48-healing-by-touch-and-breath
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn ʿAtik's broken leg made whole by the Prophet's stroke after killing Abu Rafiʿ; Salama's wound breathed on three times
+  read:
+  - Jāmiʿ 48:5745.1-5746.1
+  quran: []
+  tags:
+  - motif: intruder-hides-in-fortress-and-takes-keys-from-peg
+    refs:
+    - Jāmiʿ 48:5745.1
+    note: ثُمَّ تَقَنَّعَ بِثَوْبِهِ كَأَنَّهُ يَقْضي حَاجَةً ... ثُمَّ عَلَّقَ الأَغَالِيقَ عَلَى وَتَدٍ قَالَ فَقُمْتُ إِلَى الأَقَالِيدِ
+  - motif: locks-each-door-behind-him-while-climbing
+    refs:
+    - Jāmiʿ 48:5745.1
+    note: فَجَعَلْتُ كُلَّمَا فَتَحْتُ بَابًا أَغْلَقْتُ عَلَيَّ مِنْ دَاخِلٍ
+  - motif: assassin-finds-victim-in-dark-by-calling-his-name
+    refs:
+    - Jāmiʿ 48:5745.1
+    note: 'فَإِذَا هُوَ فِي بَيْتٍ مُظْلِمٍ وَسْطَ عِيَالِهِ ... فَقُلْتُ: يَا أَبَا رَافِعٍ. قَالَ: مَنْ هَذَا؟ فَأَهْوَيْتُ نَحْوَ الصَّوْتِ'
+  - motif: sword-point-through-belly-to-back
+    refs:
+    - Jāmiʿ 48:5745.1
+    note: ثُمَّ وَضَعْتُ ضبيب السَّيْفِ فِي بَطْنِهِ حَتَّى أَخَذَ فِي ظَهْرِهِ
+  - motif: death-announced-from-wall-at-cockcrow
+    refs:
+    - Jāmiʿ 48:5745.1
+    note: 'فَلَمَّا صَاحَ الدِّيكُ قَامَ النَّاعِي عَلَى السُّورِ فَقَالَ: أَنْعَى أَبَا رَافِعٍ تَاجِرَ أَهْلِ الْحِجَازِ'
+  - motif: broken-leg-healed-by-prophets-stroke
+    refs:
+    - Jāmiʿ 48:5745.1
+    note: فَانْكَسَرَتْ سَاقِي، فَعَصَبْتُهَا بِعِمَامَةٍ ... ابْسُطْ رِجْلَكَ فَبَسَطْتُ رِجْلِي، فَمَسَحَهَا، فَكَأَنَّهَا لَمْ أَشْتَكِهَا قَطُّ
+  - motif: three-breaths-heal-wound
+    refs:
+    - Jāmiʿ 48:5746.1
+    note: هذه ضربة أصابتني يوم خيبر ... فنفث فيه ثلاث نفثات، فما اشتكيتها حتى الساعة
+  hints:
+  - Entry by deception, the doors locked behind him and the blade driven into the belly of the enemy alone in his upper chamber (Judg 3:20-25, Ehud and Eglon) against Ibn ʿAtik locking each door from within
+    and thrusting the sword-point through the belly to the back.
+- id: hadith-48-blessings-on-persons
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Hurayra's spread cloak and never forgetting; ʿAmr b. Akhtab kept handsome past a hundred; al-Saʾib's sound hearing and sight at 94; the shine on Qatada's face
+  read:
+  - Jāmiʿ 48:5746.2-5747.3
+  quran: []
+  tags:
+  - motif: memory-scooped-into-a-spread-cloak
+    refs:
+    - Jāmiʿ 48:5746.2
+    note: 'ابسط رداءك فبسطت فغرف بيده فيه ثم قال: ضمه فضممت، فما نسيت حديثا بعد'
+  - motif: blessing-keeps-hair-dark-past-a-hundred
+    refs:
+    - Jāmiʿ 48:5747.1
+    note: اللهم جمله، وأدم جماله ... فلقد بلغ بضعا ومئة سنة وما في رأسه ولحيته بياض إلا نبذ يسير
+  - motif: blessing-keeps-senses-sound-at-ninety-four
+    refs:
+    - Jāmiʿ 48:5747.2
+    note: رأيت السائب بن يزيد ابن أربع وتسعين جلدًا معتدلًا ... ما متعت به -سمعي وبصري- إلا بدعاء رسول الله ﷺ
+  - motif: face-stroked-by-prophet-reflects-like-oil
+    refs:
+    - Jāmiʿ 48:5747.3
+    note: 'فمر رجل في أقصى الدار قال: فأبصرته في وجه قتادة ... كأن على وجهه الدهان ... وكان رسول الله ﷺ مسح على وجهه'
+  hints:
+  - The face that shines after contact with the holy (Exod 34:29-35, Moses's skin of the face shining, qaran ʿor panav) against Qatada's face, stroked by the Prophet, in which a man across the house could
+    be seen as in oil.
+- id: hadith-48-spittle-heals-ali-and-amr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿAli's sore eyes cured by the Prophet's spittle on the day of Khaybar; ʿAmr b. Muʿadh's severed leg healed
+  read:
+  - Jāmiʿ 48:5748.1-5748.3
+  quran: []
+  tags:
+  - motif: banner-to-the-man-god-loves
+    refs:
+    - Jāmiʿ 48:5748.1
+    note: لأعطين هذه الراية رجلا يفتح الله على يديه، يحب الله ورسوله، ويحبه الله ورسوله ... فبات الناس يدوكون ليلتهم
+  - motif: spittle-heals-sore-eyes
+    refs:
+    - Jāmiʿ 48:5748.1
+    - Jāmiʿ 48:5748.2
+    note: يشتكي عينيه، فدعا له فبرأ؛ ما رمدت ولا صدعت منذ مسح رسول الله ﷺ وجهي، وتفل في عيني يوم خيبر
+  - motif: severed-leg-healed-by-spittle
+    refs:
+    - Jāmiʿ 48:5748.3
+    note: تفل في رِجْلِ عمرو بن معاذ حين قطعت رجله فبرأ
+- id: hadith-48-foretold-deaths-in-his-house
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Fatima weeps and laughs at two secrets; the wife with the longest arm will follow him first
+  read:
+  - Jāmiʿ 48:5749.1-5749.3
+  quran: []
+  tags:
+  - motif: daughter-weeps-then-laughs-at-two-secrets
+    refs:
+    - Jāmiʿ 48:5749.1
+    note: فسارها بشيء فبكت، ثم دعاها فسارها فضحكت ... أني أول أهل بيته أتبعه فضحكت
+  - motif: longest-arm-first-to-follow-him
+    refs:
+    - Jāmiʿ 48:5749.2
+    - Jāmiʿ 48:5749.3
+    note: أسرعكن لحاقا بي أطولكن يدا ... فأخذوا قصبة يذرعونها ... أنما كانت طول يدها الصدقة
+- id: hadith-48-news-of-mutah-and-hasan-the-peacemaker
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: He announces the deaths of Zayd, Jaʿfar and Ibn Rawaha before the news comes, eyes streaming; 'this son of mine is a sayyid'
+  read:
+  - Jāmiʿ 48:5750.1-5750.3
+  quran: []
+  tags:
+  - motif: deaths-announced-before-news-arrives
+    refs:
+    - Jāmiʿ 48:5750.1
+    - Jāmiʿ 48:5750.2
+    note: نعى جعفرًا، وزيدًا قبل أن يجيء خبرهم، وعيناه تذرفان
+  - motif: banner-passes-from-fallen-to-fallen
+    refs:
+    - Jāmiʿ 48:5750.2
+    note: أَخَذَ الرَّايَةَ زَيْدٌ فَأُصِيبَ، ثُمَّ أَخَذَ جَعْفَرٌ فَأُصِيبَ، ثُمَّ أَخَذَ ابْنُ رَوَاحَةَ فَأُصِيبَ ... حَتَّى أَخَذَ الرَّايَةَ سَيْفٌ مِنْ سُيُوفِ اللَّهِ
+  - motif: grandson-will-reconcile-two-great-factions
+    refs:
+    - Jāmiʿ 48:5750.3
+    note: إن ابني هذا سيد، ولعل الله أن يصلح به بين فئتين عظيمتين من المسلمين
+- id: hadith-48-umayya-foretold-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Saʿd tells Umayya b. Khalaf the Prophet said they would kill him; Umayya hobbles his camel at every halt until killed at Badr
+  read:
+  - Jāmiʿ 48:5751.1
+  quran: []
+  tags:
+  - motif: guest-friends-across-enemy-cities
+    refs:
+    - Jāmiʿ 48:5751.1
+    note: كَانَ أُمَيَّةُ إِذَا مَرَّ بِالْمَدِينَةِ نَزَلَ عَلَى سَعْدٍ، وَكَانَ سَعْدٌ إِذَا مَرَّ بِمَكَّةَ نَزَلَ عَلَى أُمَيَّةَ
+  - motif: threat-to-close-the-caravan-road
+    refs:
+    - Jāmiʿ 48:5751.1
+    note: 'لَئِنْ مَنَعْتَنِي هَذَا لأَمْنَعَنَّكَ مَا هُوَ أَشَدُّ عَلَيْكَ مِنْهُ: طَرِيقَكَ عَلَى الْمَدِينَةِ'
+  - motif: foretold-death-place-unknown
+    refs:
+    - Jāmiʿ 48:5751.1
+    note: 'إِنَّهُمْ قَاتِلُوكَ. قَالَ: بِمَكَّةَ؟ قَالَ: لَا أَدْرِي'
+  - motif: doomed-man-tries-to-avoid-the-march
+    refs:
+    - Jāmiʿ 48:5751.1
+    note: وَاللَّهِ لَا أَخْرُجُ مِنْ مَكَّةَ ... لأَشْتَرِيَنَّ أَجْوَدَ بَعِيرٍ بِمَكَّةَ ... أَخَذَ لَا يَنْزِلُ مَنْزِلًا إِلَّا عَقَلَ بَعِيرَهُ، فَلَمْ يَزَلْ بِذَلِكَ حَتَّى قَتَلَهُ اللَّهُ ﷿ بِبَدْرٍ
+  - motif: abu-jahl-shames-the-chief-into-marching
+    refs:
+    - Jāmiʿ 48:5751.1
+    note: إِنَّكَ مَتَى مَا يَرَاكَ النَّاسُ قَدْ تَخَلَّفْتَ وَأَنْتَ سَيِّدُ أَهْلِ الْوَادِي تَخَلَّفُوا مَعَكَ
+  hints:
+  - A man told by a prophet he will die in a coming battle, who takes precautions yet goes and is killed (1 Kgs 22:17-37, Ahab disguising himself at Ramoth-gilead) against Umayya hobbling his camel at each
+    halt to be ready to flee, and killed at Badr.
+- id: hadith-48-the-brave-fighter-of-the-fire
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The bravest fighter declared of the people of the Fire; he falls on his sword or stabs himself with an arrow; deeds as they appear to people
+  read:
+  - Jāmiʿ 48:5752.1-5753.2
+  quran: []
+  tags:
+  - motif: brave-fighter-of-the-fire
+    refs:
+    - Jāmiʿ 48:5752.1
+    - Jāmiʿ 48:5753.1
+    - Jāmiʿ 48:5753.2
+    note: 'مَا أَجْزَأَ مِنًّا الْيَوْمَ أَحَدٌ كَمَا أَجْزَأَ فُلَانٌ. فَقَالَ ...: أَمَا إِنَّهُ مِنْ أَهْلِ النَّارِ'
+  - motif: suicide-by-falling-on-sword-point-between-breasts
+    refs:
+    - Jāmiʿ 48:5752.1
+    note: فَوَضَعَ سَيْفَهُ بِالأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ، ثُمَّ تَحَامَلَ عَلَى سَيْفِهِ، فَقَتَلَ نَفْسَهُ
+  - motif: suicide-with-arrow-from-own-quiver
+    refs:
+    - Jāmiʿ 48:5753.1
+    - Jāmiʿ 48:5753.2
+    note: فأهوى بيده إلى كنانته فانتزع منها سهما فانتحر بها
+  - motif: companion-shadows-the-man-to-see-the-end
+    refs:
+    - Jāmiʿ 48:5752.1
+    note: أَنَا صَاحِبُهُ أبدًا ... كُلَّمَا وَقَفَ وَقَفَ مَعَهُ، وَإِذَا أَسْرَعَ أَسْرَعَ مَعَهُ
+  - motif: deeds-of-paradise-as-they-appear-to-people
+    refs:
+    - Jāmiʿ 48:5752.1
+    note: إِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ الْجَنَّةِ، فِيمَا يَبْدُو لِلنَّاسِ، وَهْوَ مِنَ أَهْلِ النَّارِ
+  - motif: god-supports-religion-by-a-wicked-man
+    refs:
+    - Jāmiʿ 48:5753.1
+    note: 'يا بلال، قم فأذن: لا يدخل الجنة إلا مؤمن، وإن الله ليؤيد هذا الدين بالرجل الفاجر'
+  hints:
+  - Death by falling on one's own sword when wounded in battle (1 Sam 31:4-5, Saul and his armour-bearer) against the wounded fighter who sets the hilt in the ground and the point between his breasts.
+- id: hadith-48-the-poisoned-sheep
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The poisoned sheep at Khaybar; the Jews admit a false ancestor and a few days in the Fire; 'if you are a prophet it will not harm you'
+  read:
+  - Jāmiʿ 48:5756.1
+  quran: []
+  tags:
+  - motif: poisoned-sheep-gift-at-khaybar
+    refs:
+    - Jāmiʿ 48:5756.1
+    note: لَمَّا فُتِحَتْ خَيْبَرُ أُهْدِيَتْ لِلنَّبِيِّ ﷺ شَاةٌ فِيهَا سُمٌّ
+  - motif: prophet-names-their-true-father
+    refs:
+    - Jāmiʿ 48:5756.1
+    note: 'مَنْ أَبُوكُمْ؟ قَالُوا: فُلَانٌ، فَقَالَ: كَذَبْتُمْ، بَلْ أَبُوكُمْ فُلَانٌ'
+  - motif: claim-of-a-short-stay-in-the-fire
+    refs:
+    - Jāmiʿ 48:5756.1
+    note: 'نَكُونُ فِيهَا يَسِيرًا ثُمَّ تَخْلُفُونَا فِيهَا. فَقَالَ ...: اخْسَئُوا فِيهَا'
+  - motif: poisoned-sheep-test-of-prophethood
+    refs:
+    - Jāmiʿ 48:5756.1
+    note: أَرَدْنَا إِنْ كُنْتَ كَاذِبًا نَسْتَرِيحُ، وَإِنْ كُنْتَ نَبِيًّا لَمْ يَضُرَّكَ
+- id: hadith-48-tabuk-wind-and-return
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Now we raid them''; the garden''s yield estimated at ten wasqs; the night wind that carried a man to the mountains of Tayyiʾ; Uhud loves us; the ranking of the Ansar'
+  read:
+  - Jāmiʿ 48:5756.2-5756.3
+  quran: []
+  tags:
+  - motif: now-we-raid-them
+    refs:
+    - Jāmiʿ 48:5756.2
+    note: الآن نغزوهم، ولا يغزوننا، نحن نسير إليهم
+  - motif: prophets-estimate-of-harvest-proves-exact
+    refs:
+    - Jāmiʿ 48:5756.3
+    note: 'وخرصها رسول الله ﷺ عشرة أوسق ... كم بلغ ثمرها؟ فقالت: عشرة أوسق'
+  - motif: storm-foretold-man-carried-to-distant-mountains
+    refs:
+    - Jāmiʿ 48:5756.3
+    note: ستهب عليكم الليلة ريح شديدة ... فمن كان له بعير فليشد عقاله فهبت ريح شديدة، فقام رجل فحملته الريح حتى ألقته بجبلي طيء
+  - motif: ruler-of-ayla-gifts-white-mule
+    refs:
+    - Jāmiʿ 48:5756.3
+    note: وجاء رسول ابن العلماء، صاحب أيلة ... وأهدى له بغلة بيضاء ... وأهدى له بردا
+  - motif: mountain-that-loves-us
+    refs:
+    - Jāmiʿ 48:5756.3
+    note: هذه طابة، وهذا أحد، وهو جبل يحبنا ونحبه
+  - motif: ranking-of-the-clans-of-the-ansar
+    refs:
+    - Jāmiʿ 48:5756.3
+    note: إن خير دور الأنصار دار بني النجار، ثم دار بني عبد الأشهل ... وفي كل دور الأنصار خير
+- id: hadith-48-dhul-khuwaysira-and-the-kharijites
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '"Be just!" - those who pass through religion like an arrow through game; their sign a black man with an arm like a breast'
+  read:
+  - Jāmiʿ 48:5757.1
+  quran: []
+  tags:
+  - motif: man-tells-prophet-be-just
+    refs:
+    - Jāmiʿ 48:5757.1
+    note: 'أتاه ذو الخويصرة ... فقال: يا رسول الله اعدل، فقال: ويلك، ومن يعدل إذا لم أعدل'
+  - motif: recite-quran-not-past-their-throats
+    refs:
+    - Jāmiʿ 48:5757.1
+    note: يحقر أحدكم صلاته مع صلاتهم ... يقرؤون القرآن لا يجاوز تراقيهم
+  - motif: pass-through-religion-like-arrow-through-game
+    refs:
+    - Jāmiʿ 48:5757.1
+    note: يمرقون من الدين كما يمرق السهم من الرمية، ينظر إلى نصله ... رصافه ... نضيه ... قذذه فلا يوجد فيه شيء، قد سبق الفرث والدم
+  - motif: sign-man-with-arm-like-a-womans-breast
+    refs:
+    - Jāmiʿ 48:5757.1
+    note: آيتهم رجل أسود، إحدى عضديه مثل ثدي المرأة، أو مثل البضعة تدردر ... فأمر بذلك الرجل فالتمس فأتي به
+- id: hadith-48-kisra-qaysar-and-security
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No Chosroes after Chosroes; their treasures spent in God's path; the litter-woman from al-Hira to the Kaʿba; gold no one will take; the White Palace
+  read:
+  - Jāmiʿ 48:5758.1-5759.1
+  quran: []
+  tags:
+  - motif: no-chosroes-or-caesar-after-them
+    refs:
+    - Jāmiʿ 48:5758.1
+    - Jāmiʿ 48:5758.2
+    note: إذا هلك كسرى فلا كسرى بعده، وإذا هلك قيصر فلا قيصر بعده ... لتنفقنّ كنوزهما في سبيل الله
+  - motif: woman-travels-alone-fearing-only-god
+    refs:
+    - Jāmiʿ 48:5758.3
+    - Jāmiʿ 48:5759.2
+    note: لترين الظعينة ترتحل من الحيرة، حتى تطوف بالكعبة لا تخاف أحدا إلا الله؛ حتى يسير الراكب من صنعاء إلى حضرموت، لا يخاف إلا الله، أو الذئب على غنمه
+  - motif: none-will-accept-alms-of-gold
+    refs:
+    - Jāmiʿ 48:5758.3
+    note: لترين الرجل يخرج ملء كفه من ذهب أو فضة، يطلب من يقبله منه فلا يجد أحدا يقبله منه
+  - motif: god-speaks-to-man-without-interpreter
+    refs:
+    - Jāmiʿ 48:5758.3
+    note: وليس بينه وبينه ترجمان يترجم له ... فينظر عن يمينه فلا يرى إلا جهنم، وينظر عن يساره فلا يرى إلا جهنم
+  - motif: shield-from-fire-even-half-a-date
+    refs:
+    - Jāmiʿ 48:5758.3
+    note: اتقوا النار ولو بشق تمرة، فمن لم يجد شق تمرة، فبكلمة طيبة
+  - motif: treasure-of-chosroes-in-the-white-palace
+    refs:
+    - Jāmiʿ 48:5759.1
+    note: لتفتحن عصابة من المسلمين ... كنز آل كسرى الذي في الأبيض
+- id: hadith-48-sawn-and-combed-martyrs
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Earlier believers sawn in two and combed with iron combs did not turn back; 'but you are hasty'
+  read:
+  - Jāmiʿ 48:5759.2
+  quran: []
+  tags:
+  - motif: earlier-believers-combed-with-iron-sawn-in-two
+    refs:
+    - Jāmiʿ 48:5759.2
+    note: كان الرجل فيمن قبلكم يحفر له في الأرض، فيجعل فيه، فيجاء بالمنشار فيوضع على رأسه فيشق باثنتين، وما يصده ذلك عن دينه; ويمشط بأمشاط الحديد ما دون لحمه من عظم أو عصب
+  - motif: prophet-reclining-on-cloak-in-kabas-shade
+    refs:
+    - Jāmiʿ 48:5759.2
+    note: وهو متوسد بردة له في ظل الكعبة ... ولكنكم تستعجلون
+  hints:
+  - Believers 'sawn in two' for their faith (Heb 11:37, epristhēsan; Mart. Isa. 5:1-14, Isaiah sawn with a wood saw) against the earlier believer set in a pit and split in two with a saw laid on his head.
+  - Torture by iron combs (2 Macc 7, the seven brothers' scalps torn; b. Berakhot 61b, Rabbi Akiva's flesh combed with iron combs, masreqot shel barzel) against 'combed with combs of iron down to bone and
+    sinew'.
+- id: hadith-48-liar-and-destroyer-of-thaqif
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Asmaʾ, 'she of the two belts', tells al-Hajjaj he is the destroyer of Thaqif foretold beside its liar
+  read:
+  - Jāmiʿ 48:5759.3
+  quran: []
+  tags:
+  - motif: ibn-umar-greets-crucified-ibn-zubayr-three-times
+    refs:
+    - Jāmiʿ 48:5759.3
+    note: السلام عليك، أبا خبيب ... ثلاث ... أما والله! لقد كنت أنهاك عن هذا ... صواما، قواما، وصولا للرحم
+  - motif: body-taken-from-stake-thrown-in-jewish-graves
+    refs:
+    - Jāmiʿ 48:5759.3
+    note: فأنزل عن جذعه، فألقي في قبور اليهود
+  - motif: mother-refuses-summons-drag-me-by-my-locks
+    refs:
+    - Jāmiʿ 48:5759.3
+    note: لتأتيني أو لأبعثن إليك من يسحبك بقرونك ... والله! لا آتيك حتى تبعث إلي من يسحبني بقروني
+  - motif: she-of-the-two-belts
+    refs:
+    - Jāmiʿ 48:5759.3
+    note: أنا، والله! ذات النطاقين، أما أحدهما فكنت أرفع به طعام رسول الله ﷺ وطعام أبي بكر من الدواب
+  - motif: in-thaqif-a-liar-and-a-destroyer
+    refs:
+    - Jāmiʿ 48:5759.3
+    note: أن في ثقيف كذابا ومبيرا فأما الكذاب فرأيناه، وأما المبير فلا إخالك إلا إياه
+- id: hadith-48-the-two-gold-bracelets
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Musaylima refused even a palm stalk; two gold bracelets in a dream blown away - the two liars of Sanʿaʾ and al-Yamama
+  read:
+  - Jāmiʿ 48:5760.1-5761.1
+  quran: []
+  tags:
+  - motif: claimant-asks-to-succeed-the-prophet
+    refs:
+    - Jāmiʿ 48:5760.1
+    note: إِنْ جَعَلَ لِي مُحَمَّدٌ مِنْ بَعْدِهِ تَبِعْتُهُ
+  - motif: not-even-this-palm-stalk
+    refs:
+    - Jāmiʿ 48:5760.1
+    note: وَفِي يَدِ رَسُول اللَّهِ ﷺ قِطْعَةُ جَرِيدٍ ... لَوْ سَأَلْتَنِي هَذِهِ الْقِطْعَةَ مَا أَعْطَيْتُكَهَا ... وَلَئِنْ أَدْبَرْتَ لَيَعْقِرَنَّكَ اللَّهُ
+  - motif: gold-bracelets-blown-away-are-two-liars
+    refs:
+    - Jāmiʿ 48:5760.1
+    - Jāmiʿ 48:5761.1
+    note: رَأَيْتُ فِي يَدَىَّ سِوَارَيْنِ مِنْ ذَهَبِ ... أَنِ انْفُخْهُمَا، فَنَفَخْتُهُمَا فَطَارَا، فَأَوَّلْتُهُمَا كَذَّابَيْنِ يَخْرُجَانِ بَعْدِي
+  - motif: keys-of-earths-treasures-placed-in-hand
+    refs:
+    - Jāmiʿ 48:5761.1
+    note: بينا أنا نائم أتيت بخزائن الأرض
+- id: hadith-48-wind-for-a-hypocrite-and-the-pinch
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A wind that nearly buries the rider sent for a hypocrite's death; the man who pinched a girl refused the pledge
+  read:
+  - Jāmiʿ 48:5761.2-5761.3
+  quran: []
+  tags:
+  - motif: storm-sent-for-death-of-a-hypocrite
+    refs:
+    - Jāmiʿ 48:5761.2
+    note: هاجت ريح شديدة تكاد أن تدفن الراكب ... بعثت هذه الريح لموت منافق
+  - motif: prophet-knows-the-unseen-sin-refuses-pledge
+    refs:
+    - Jāmiʿ 48:5761.3
+    note: 'مرت بي جارية بالمدينة فأخذت بكشحها ... فلم يبايعني، فقال: صاحب الجبذة! قال: قلت: والله لا أعود، قال: فبايعني'
+- id: hadith-48-seventy-thousand-thrice
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The scripture-reader who finds him in the Torah and Gospel but expected seventy thousand without reckoning; 'they are more than seventy thousand thrice'
+  read:
+  - Jāmiʿ 48:5762.1
+  quran: []
+  tags:
+  - motif: prophet-and-community-described-in-torah-and-gospel
+    refs:
+    - Jāmiʿ 48:5762.1
+    note: 'تجدني في التوراة والإنجيل؟ قال: نجد مثلك ومثل أمتك ومثل مخرجك، وكنا نرجو أن تكون فينا'
+  - motif: seventy-thousand-without-reckoning
+    refs:
+    - Jāmiʿ 48:5762.1
+    note: إن معه من أمته سبعين ألفا ليس عليهم حساب ولا عقاب ... وإنهم لأكثر من سبعين ألفا وسبعين ألفا، وسبعين ألفا
+- id: hadith-48-the-stolen-sheep-and-the-ansar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: He chews but cannot swallow meat of a sheep taken without its owners' leave - 'feed it to the captives'; the Ansar will become like salt in food
+  read:
+  - Jāmiʿ 48:5762.2-5763.1
+  quran: []
+  tags:
+  - motif: prophet-cannot-swallow-unlawfully-taken-meat
+    refs:
+    - Jāmiʿ 48:5762.2
+    note: 'وهو يلوك لقمته لا يُجيزها ... فلفظها، فألقاها، فقال: أجد لحم شاة أخذت بغير إذن أهلها'
+  - motif: doubtful-meat-given-to-captives
+    refs:
+    - Jāmiʿ 48:5762.2
+    note: 'فقال رسول الله ﷺ: أطعموها الأسارى'
+  - motif: companions-sit-like-boys-before-fathers
+    refs:
+    - Jāmiʿ 48:5762.2
+    note: فجلسنا مجالس الغلمان من آبائهم بين أيديهم
+  - motif: ansar-dwindle-like-salt-in-food
+    refs:
+    - Jāmiʿ 48:5763.1
+    note: فإن الناس يكثرون، ويقل الأنصار، حتى يكونوا في الناس بمنزلة الملح في الطعام ... فليقبل من محسنهم، ويتجاوز عن مسيئهم
+  - motif: last-sermon-with-greasy-black-headband
+    refs:
+    - Jāmiʿ 48:5763.1
+    note: في مرضه الذي مات فيه، بملحفة، قد عصب بعصابة دسماء ... فكان ذلك آخر مجلس جلس فيه
+- id: hadith-48-hundred-years-and-the-conquests
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No eye now blinking at the turn of a hundred years; four conquests counted on the hand - Arabia, Persia, Rome, the Dajjal; the world poured out; Egypt and the place of a brick
+  read:
+  - Jāmiʿ 48:5763.2-5764.2
+  quran: []
+  tags:
+  - motif: none-now-living-remains-after-a-hundred-years
+    refs:
+    - Jāmiʿ 48:5763.2
+    note: لا ينقصني مائة سنة وعين تطرف ... إن لله ﵎ ريحًا يبعثها عند رأس مائة سنة فتقبض روح كل مؤمن
+  - motif: four-conquests-counted-on-hand
+    refs:
+    - Jāmiʿ 48:5763.3
+    note: فحفظت منه أربع كلمات، أعدهن في يدي ... جزيرة العرب ... ثم فارس ... ثم تغزون الروم ... ثم تغزون الدجال، فيفتحه الله
+  - motif: men-in-wool-from-the-west-guard-against-assassination
+    refs:
+    - Jāmiʿ 48:5763.3
+    note: قوم من قبل المغرب، عليهم ثياب الصوف ... ائتهم فقم بينهم وبينه، لا يغتالونه
+  - motif: world-poured-out-the-real-danger
+    refs:
+    - Jāmiʿ 48:5764.1
+    note: الفقر تخافون ... فإن الله فاتح لكم أرض فارس والروم، وتصب عليكم الدنيا صبّا، لا يزيغكم بعدي إن أزاغكم إلا هي
+  - motif: egypt-land-of-the-qirat-has-kinship-claim
+    refs:
+    - Jāmiʿ 48:5764.2
+    note: 'إنكم ستفتحون مصر، وهي أرض يسمى فيها القراط ... فإن لهم ذمة ورحمًا -أو قال: ذمة وصهرًا'
+  - motif: leave-when-two-quarrel-over-a-bricks-space
+    refs:
+    - Jāmiʿ 48:5764.2
+    note: فإذا رأيت رجلين يختصمان فيهما في موضع لبنة فاخرج منها
+- id: hadith-48-a-woman-ruler-and-jerusalem-shown
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A people who give rule to a woman will not prosper; Jerusalem raised before his eyes in the Hijr when Quraysh question his night journey
+  read:
+  - Jāmiʿ 48:5764.3-5765.2
+  quran:
+  - '17:1'
+  tags:
+  - motif: people-ruled-by-a-woman-will-not-prosper
+    refs:
+    - Jāmiʿ 48:5764.3
+    note: 'لما بلغ رسول الله ﷺ أن أهل فارس قد ملّكوا عليهم بنت كسرى قال: لن يفلح قوم ولوا أمرهم امرأة'
+  - motif: jerusalem-raised-before-him-to-answer-quraysh
+    refs:
+    - Jāmiʿ 48:5765.1
+    - Jāmiʿ 48:5765.2
+    note: 'فجلا الله لي بيت المقدس، فطفقت أخبرهم عن آياته، وأنا أنظر إليه؛ فكربت كربة ما كربت مثله قط، قال: فرفعه الله لي أنظر إليه'
+- id: hadith-48-death-places-at-badr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Before Badr he marks with his hand where each Qurayshi chief will fall; the beaten water-boy; 'we would plunge the sea for you'
+  read:
+  - Jāmiʿ 48:5765.3
+  quran: []
+  tags:
+  - motif: ansari-pledge-to-plunge-into-the-sea
+    refs:
+    - Jāmiʿ 48:5765.3
+    note: لو أمرتنا أن نخيضها البحر لأخضناها. ولو أمرتنا أن نضرب أكبادها إلى برك الغماد لفعلنا
+  - motif: captive-beaten-for-the-truth-spared-for-lies
+    refs:
+    - Jāmiʿ 48:5765.3
+    note: لتضربوه إذا صدقكم. وتتركوه إذا كذبكم
+  - motif: death-places-marked-before-battle
+    refs:
+    - Jāmiʿ 48:5765.3
+    note: 'هذا مصرع فلان قال: ويضع يده على الأرض، ها هنا وها هنا. قال: فما ماط أحدهم عن موضع يد رسول الله ﷺ'
+- id: hadith-48-the-earth-folded-and-wealth-refused
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The earth folded for him east and west; a time when alms find no taker, forty women follow one man, Arabia returns to meadows and rivers
+  read:
+  - Jāmiʿ 48:5766.1-5766.4
+  quran: []
+  tags:
+  - motif: earth-folded-to-show-east-and-west
+    refs:
+    - Jāmiʿ 48:5766.1
+    note: إن الله زوى لي الأرض فرأيت مشارقها ومغاربها، وإن أمتي سيبلغ ملكها ما زوي لي منها
+  - motif: none-will-accept-alms-of-gold
+    refs:
+    - Jāmiʿ 48:5766.2
+    - Jāmiʿ 48:5766.3
+    - Jāmiʿ 48:5766.4
+    note: لو جئتنا بها بالأمس قبلتها؛ يطوف الرجل فيه بالصدقة من الذهب، ثم لا يجد أحدًا يأخذها منه؛ لا أرب لي
+  - motif: forty-women-follow-one-man
+    refs:
+    - Jāmiʿ 48:5766.3
+    note: ويرى الرجل الواحد يتبعه أربعون امرأة يلذن به من قلة الرجال وكثرة النساء
+  hints:
+  - Women clinging to one man for want of men (Isa 4:1, 'seven women shall take hold of one man') against forty women taking refuge with a single man when men are few.
+- id: hadith-48-hijaz-fire-and-long-life
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A fire from the Hijaz lighting the camels' necks at Busra; the mole on Ibn Busr's head - 'you will live a century'
+  read:
+  - Jāmiʿ 48:5767.1-5767.2
+  quran: []
+  tags:
+  - motif: fire-in-hijaz-lights-camels-necks-at-busra
+    refs:
+    - Jāmiʿ 48:5767.1
+    note: لا تقوم الساعة حتى تخرج نار من أرض الحجاز تضيء أعناق الإبل ببصرى
+  - motif: finger-on-mole-promises-a-century
+    refs:
+    - Jāmiʿ 48:5767.2
+    note: 'أراني عبد الله بن بسر شامة في قرنه ... وضع رسول الله ﷺ إصبعه عليها، ثم قال: لتبلغن قرنًا'
+- id: hadith-48-india-and-the-camel-that-knows
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: An expedition to Sind and India - Abu Hurayra 'the freed from the Fire'; the savage camel kneels, and everything between heaven and earth knows him but rebel jinn and men
+  read:
+  - Jāmiʿ 48:5768.1-5768.2
+  quran: []
+  tags:
+  - motif: expedition-to-sind-and-hind
+    refs:
+    - Jāmiʿ 48:5768.1
+    note: يكون في هذه الأمة بعث إلى السند والهند ... رجعت وأنا أبو هريرة المحرر قد أعتقني من النار
+  - motif: savage-camel-kneels-before-the-prophet
+    refs:
+    - Jāmiʿ 48:5768.2
+    note: إذا فيه جمل لا يدخل الحائط أحد إلا شد عليه ... فجاء واضعًا مشفره إلى الأرض، حتى برك بين يديه
+  - motif: all-creation-knows-him-but-rebel-jinn-and-men
+    refs:
+    - Jāmiʿ 48:5768.2
+    note: إنه ليس شيء بين السماء والأرض، إلا يعلم أني رسول الله، إلا عاصي الجن والإنس
+  hints:
+  - The ox knows its owner and the ass its master's crib, but Israel does not know (Isa 1:3) against everything between heaven and earth knowing he is God's messenger except the rebels among jinn and men.
+- id: hadith-48-tariq-and-the-moon-faced-buyer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Lahab stoning him at Dhu l-Majaz; the stranger who buys a camel on credit with a face like the full moon; the giving hand is the upper; no mother bears her child's crime
+  read:
+  - Jāmiʿ 48:5769.1
+  quran: []
+  tags:
+  - motif: kinsman-follows-preacher-stoning-him-calling-liar
+    refs:
+    - Jāmiʿ 48:5769.1
+    note: يا أيها الناس، قولوا لا إله إلا الله تفلحوا، ورجل يتبعه يرميه بالحجارة، وقد أدمى عرقوبيه وكعبيه ... هذا عبد العزى أبو لهب
+  - motif: stranger-buys-camel-on-trust-face-like-full-moon
+    refs:
+    - Jāmiʿ 48:5769.1
+    note: قد أخذتُه، ثم توارى بحيطان المدينة، فتلاومنا ... أعطيتم جملكم رجلا لا تعرفونه؟; فإني رأيت وجه رجل لم يكن ليحْقِركم، ما رأيت شيئا أشبه بالقمر ليلة البدر من وجهه
+  - motif: giving-hand-is-the-upper-hand
+    refs:
+    - Jāmiʿ 48:5769.1
+    note: 'يد المعطي يد العليا، وابدأ بمن تعول: أمك وأباك، أختك وأخاك، ثم أدناك أدناك'
+  - motif: no-mother-bears-her-childs-crime
+    refs:
+    - Jāmiʿ 48:5769.1
+    note: 'فخذ لنا بثأرنا منه، فرفع رسول الله ﷺ يديه حتى رأيت بياض إبطيه، وقال: ألا لا تجني أم على ولد'
+  hints:
+  - 'No one bears another''s guilt in a blood-feud (Deut 24:16, fathers not put to death for children nor children for fathers) against the refusal of vengeance for a pre-Islamic killing: ''no mother bears
+    the crime of her child''.'
+- id: hadith-48-the-bedouin-who-adjures-him
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The bedouin of the desert adjures him by the maker of sky, earth and mountains on prayer, alms, fast and pilgrimage - 'I will add nothing nor take away'
+  read:
+  - Jāmiʿ 48:5771.1
+  quran:
+  - 3:97
+  tags:
+  - motif: companions-forbidden-to-question-glad-of-bedouin
+    refs:
+    - Jāmiʿ 48:5771.1
+    note: نُهينا أن نسأل رسول الله ﷺ عن شيءٍ، فكان يعجبنا أن يجيء الرّجلُ من أهل البادية العاقلُ
+  - motif: oath-by-maker-of-sky-earth-mountains
+    refs:
+    - Jāmiʿ 48:5771.1
+    note: 'فبالذي خلق السّماء وخلق الأرض ونصب هذه الجبال، آلله أرسلك؟ قال: نعم'
+  - motif: neither-add-nor-subtract-gains-paradise
+    refs:
+    - Jāmiʿ 48:5771.1
+    note: 'والذي بعثك بالحق لا أزيد عليهن ولا أنقص منهنّ، فقال النّبيُّ ﷺ: لئن صَدقَ لَيَدْخُلَنَّ الجنَّةَ'
+  hints:
+  - The formula 'you shall not add to it nor take from it' (Deut 4:2; 13:1) against the bedouin's oath 'I will neither add to them nor take from them' of the five duties.
+- id: hadith-48-ashariyyun-and-abu-hurayras-arrival
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Ashʿaris come chanting 'tomorrow we meet the beloved' and begin the handshake; Abu Hurayra's night verse and the runaway slave he frees
+  read:
+  - Jāmiʿ 48:5772.1-5772.2
+  quran: []
+  tags:
+  - motif: tender-hearted-people-arrive-tomorrow
+    refs:
+    - Jāmiʿ 48:5772.1
+    note: يقدم عليكم غدا أقوام، هم أرق قلوبا للإسلام منكم
+  - motif: arrivals-chant-tomorrow-we-meet-the-beloved
+    refs:
+    - Jāmiʿ 48:5772.1
+    note: 'جعلوا يرتجزون يقولون: غدا نلقى الأحِبّه ... محمدًا وحِزبه'
+  - motif: first-to-shake-hands
+    refs:
+    - Jāmiʿ 48:5772.1
+    note: فلما أن قدموا تصافحوا، فكانوا هم أول من أحدث المصافحة
+  - motif: runaway-slave-returns-freed-for-gods-face
+    refs:
+    - Jāmiʿ 48:5772.2
+    note: 'يا ليلة من طولها وعنائها ... وأبق غلام لي في الطريق ... هذا غلامك فقلت: هو لوجه الله، فأعتقته'
+- id: hadith-48-tufayl-and-daws
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Dawsi emigrant who cut his finger-joints and died - forgiven but told 'we will not mend what you spoiled'; 'O God, guide Daws'
+  read:
+  - Jāmiʿ 48:5773.1-5773.2
+  quran: []
+  tags:
+  - motif: offer-of-tribal-fortress-refused-for-the-ansar
+    refs:
+    - Jāmiʿ 48:5773.1
+    note: هل لك في حِصْنٍ حَصِيْنٍ ومنعةٍ؟ ... فأبى ذلك النبي ﷺ للذي ذخر الله للأنصار
+  - motif: suicide-forgiven-but-hands-stay-covered
+    refs:
+    - Jāmiʿ 48:5773.1
+    note: 'فأخذ مشاقص له، فقطع بها براجمه ... غفر لي بهجرتي إلى نبيه ﷺ ... ما لي أراك مغطيا يديك؟ قال: قيل لي: لن نصلح منك ما أفسدت'
+  - motif: dead-man-reports-his-state-in-a-dream
+    refs:
+    - Jāmiʿ 48:5773.1
+    note: 'فرآه الطفيل بن عمرو في منامه ... فقال له: ما صنع بك ربك؟'
+  - motif: and-his-hands-too-forgive
+    refs:
+    - Jāmiʿ 48:5773.1
+    note: اللهم وليديه فاغفر
+  - motif: prayer-for-guidance-instead-of-curse
+    refs:
+    - Jāmiʿ 48:5773.2
+    note: إن دوسا قد كفرت، وأبت فادع الله عليها ... اللهم اهْدِ دوسا وَأْتِ بهم
+- id: hadith-48-abd-al-qays-four-and-four
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿAbd al-Qays - four commands and four vessels forbidden; the hollowed trunk that makes a man strike his cousin; 'even if the rats eat them'; forbearance and deliberation
+  read:
+  - Jāmiʿ 48:5773.3-5774.2
+  quran: []
+  tags:
+  - motif: welcome-without-disgrace-or-regret
+    refs:
+    - Jāmiʿ 48:5773.3
+    note: مرحبا بالقوم -أو بالوفد- غير خزايا ولا ندامى
+  - motif: four-commands-four-prohibitions
+    refs:
+    - Jāmiʿ 48:5773.3
+    - Jāmiʿ 48:5774.1
+    note: 'فأمرهم بأربع، ونهاهم عن أربع ... وأنْ تُعطوا من المغنم الخمس. ونهاهم عن أربع: عن الحنتم، والدُّباء، والنّقير، والمزفّت'
+  - motif: four-forbidden-vessels-for-nabidh
+    refs:
+    - Jāmiʿ 48:5773.3
+    - Jāmiʿ 48:5774.1
+    - Jāmiʿ 48:5774.2
+    note: الحنتم، والدُّباء، والنّقير، والمزفّت ... المقير
+  - motif: drink-from-hollowed-trunk-makes-man-strike-cousin
+    refs:
+    - Jāmiʿ 48:5774.1
+    note: جِذعٌ تنقرونه فتقذفون فيه من القُطَيْعاء ... حتى إنّ أحدكم ... ليضربُ ابنَ عمِّه بالسّيف ... وفي القوم رجل أصابته جراحة كذلك
+  - motif: drink-from-tied-leather-skins-even-if-rats-eat-them
+    refs:
+    - Jāmiʿ 48:5774.1
+    note: في أَسْقِية الأَدَم التي يُلاثُ على أفواهها ... وإن أكلتها الجرذانُ، وإن أكلتها الجِرذانُ، وإن أكلتها الجرذان
+  - motif: forbearance-and-deliberation-loved-by-god
+    refs:
+    - Jāmiʿ 48:5774.1
+    note: إنّ فيك لخصلتين يحبُّهما الله الحِلْمُ والأَنَاة
+  - motif: can-come-only-in-sacred-month
+    refs:
+    - Jāmiʿ 48:5773.3
+    - Jāmiʿ 48:5774.1
+    note: إنّا لا نستطيع أن نأتيك إلا في الشّهر الحرام، وبيننا وبينك هذا الحيُّ من كفار مُضر
+  hints:
+  - Vessel material that determines whether a liquid is permitted or contaminated (Lev 11:32-33; m. Kelim on earthenware versus leather) against the four forbidden vessels (glazed jar, gourd, hollowed trunk,
+    pitched) and the permitted tied leather skins.
+- id: hadith-48-abd-al-qays-vessels-and-the-fevered-land
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn ʿUmar names three vessels and Ibn al-Musayyab is unsure of the fourth; ʿAbd al-Qays come back yellow and swollen - 'drink what is good for you'
+  read:
+  - Jāmiʿ 48:5775.1-5776.1
+  quran: []
+  tags:
+  - motif: four-forbidden-vessels-for-nabidh
+    refs:
+    - Jāmiʿ 48:5775.1
+    note: 'فنهاهم عن الدباء والنقير والحنتم، فقلت له: يا أبا محمد، والمزفت ... لم أسمعه يومئذ من عبد الله بن عمر، وقد كان يكره'
+  - motif: forbidden-drink-left-delegation-sick-in-fever-land
+    refs:
+    - Jāmiʿ 48:5776.1
+    note: 'ما لكم قد اصفرت ألوانكم، وعظمت بطونكم، وظهرت عروقكم؟ ... وكنا بأرض محمة، قال: فاشربوا ما طاب لكم'
+- id: hadith-48-banu-asad-boast-of-their-islam
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Banu Asad remind him they did not fight him - 'Satan speaks on their tongues'; Q 49:17 sent down
+  read:
+  - Jāmiʿ 48:5777.1
+  quran:
+  - '49:17'
+  tags:
+  - motif: tribe-counts-its-islam-a-favour
+    refs:
+    - Jāmiʿ 48:5777.1
+    note: قاتلتك مضر كلها، ولم نقاتلك، ولسنا بأقلهم عددا، ولا أَكَلِّهم شوكة، وصلنا رحمك
+  - motif: satan-speaks-on-their-tongues
+    refs:
+    - Jāmiʿ 48:5777.1
+    note: إن فقههم لقليل، وإن الشيطان لينطق على لسانهم
+  - motif: do-not-count-your-islam-a-favour-to-me
+    refs:
+    - Jāmiʿ 48:5777.1
+    note: يمنون عليك أن أسلموا قل لا تمنوا علي إسلامكم بل الله يمن عليكم أن هداكم للإيمان
+- id: hadith-48-hamdan-and-najran
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: All Hamdan accept Islam on ʿAli's reading of the letter - the Prophet falls prostrate, 'peace on Hamdan'; Najran's leaders decline the mutual curse; the trustworthy one of this community; the treaty
+    of two thousand robes
+  read:
+  - Jāmiʿ 48:5779.1-5780.2
+  quran:
+  - 3:61
+  tags:
+  - motif: whole-tribe-converts-on-reading-of-letter
+    refs:
+    - Jāmiʿ 48:5779.1
+    note: فقرأ عليهم كتاب رسول الله ﷺ، فأسلمت همدان جميعا
+  - motif: prostration-of-thanks-at-good-news
+    refs:
+    - Jāmiʿ 48:5779.1
+    note: 'فلما قرأ رسول الله ﷺ الكتاب خر ساجدًا، ثم رفع رأسه، فقال: السلام على همدان، السلام على همدان'
+  - motif: christian-leaders-decline-the-mutual-curse
+    refs:
+    - Jāmiʿ 48:5780.1
+    note: جاء العاقب والسيد صاحبا نجران ... يريدان أن يلاعناه ... لئن كان نبيا فلاعنَّا لا نفلحُ نحن، ولا عَقِبُنا من بعدنا
+  - motif: trustworthy-one-of-this-community
+    refs:
+    - Jāmiʿ 48:5780.1
+    note: 'لأبعثن معكم رجلا أمينا حق أمين فاستشرف له أصحاب رسول الله ﷺ، فقال: قم يا أبا عبيدة بن الجراح ... هذا أمين هذه الأمة'
+  - motif: treaty-two-thousand-robes-in-two-instalments
+    refs:
+    - Jāmiʿ 48:5780.2
+    note: 'على ألفي حلة: النصف في صفر والنصف في رجب ... وعاريةٍ ثلاثين درعا، وثلاثين فرسا، وثلاثين بعيرا'
+  - motif: churches-not-demolished-priests-not-expelled
+    refs:
+    - Jāmiʿ 48:5780.2
+    note: على أن لا تهدم لهم بيعة، ولا يخرج لهم قس، ولا يفتنوا عن دينهم ما لم يحدثوا حدثا أو يأكلوا الربا
+- id: hadith-48-tamim-and-the-yemenis
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Banu Tamim answer good news with 'then give us'; the Yemenis accept it - faith is Yemeni; pride among camel-owners, calm among shepherds
+  read:
+  - Jāmiʿ 48:5782.1-5782.2
+  quran: []
+  tags:
+  - motif: good-news-answered-with-demand-for-gifts
+    refs:
+    - Jāmiʿ 48:5782.1
+    note: أبشروا يا بني تميم قالوا أما إذ بشرتنا فأعطنا. فتغير وجه رسول الله ﷺ ... اقبلوا البشرى إذ لم يقبلها بنو تميم
+  - motif: faith-is-yemeni-wisdom-is-yemeni
+    refs:
+    - Jāmiʿ 48:5782.2
+    note: هم أرق أفئدة، وألين قلوبا، الإيمان يمان، والحكمة يمانية
+  - motif: pride-with-camel-owners-calm-with-shepherds
+    refs:
+    - Jāmiʿ 48:5782.2
+    note: والفخر والخيلاء في أصحاب الإبل، والسكينة والوقار في أهل الغنم
+- id: hadith-48-raised-voices-of-abu-bakr-and-umar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Bakr and ʿUmar quarrel over a commander for Tamim and raise their voices - the opening verses of al-Hujurat; ʿUmar afterwards speaks like one whispering
+  read:
+  - Jāmiʿ 48:5782.3-5782.4
+  quran:
+  - '49:1'
+  - 49:2-3
+  tags:
+  - motif: two-elders-quarrel-over-a-tribal-commander
+    refs:
+    - Jāmiʿ 48:5782.3
+    - Jāmiʿ 48:5782.4
+    note: 'أمِّر القعقاع بن معبد بن زرارة. قال عمر: بل أمِّر الأقرع بن حابس. قال أبو بكر: ما أردت إلا خلافي'
+  - motif: verse-against-raising-voices-above-the-prophet
+    refs:
+    - Jāmiʿ 48:5782.3
+    - Jāmiʿ 48:5782.4
+    note: 'فتماريا حتى ارتفعت أصواتهما، فنزل في ذلك: يا أيها الذين آمنوا لا تقدموا؛ لا ترفعوا أصواتكم فوق صوت النبي'
+  - motif: speaks-like-a-whisperer-after-the-verse
+    refs:
+    - Jāmiʿ 48:5782.4
+    note: فكان عمر بعد ... إذا حدث النبي ﷺ بحديث حدثه كأخي السرار، لم يسمعه حتى يستفهمه
+- id: hadith-48-kinda-sons-of-al-nadr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Al-Ashʿath asks 'are you not of us?' - 'we are the sons of al-Nadr b. Kinana; we do not trace descent through our mother nor disown our father'
+  read:
+  - Jāmiʿ 48:5783.1
+  quran: []
+  tags:
+  - motif: we-do-not-trace-descent-through-mother
+    refs:
+    - Jāmiʿ 48:5783.1
+    note: 'ألستم منا؟ فقال: نحن بنو النضر بن كنانة، لا نقفو أمنا، ولا ننتفي من أبينا'
+- id: hadith-48-musaylima-and-the-bracelets-again
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Musaylima and the palm-stalk; the dream of two gold bracelets (repeated in the chapter on delegations), and the report of his lodging with Bint al-Harith
+  read:
+  - Jāmiʿ 48:5784.1-5785.2
+  quran: []
+  tags:
+  - motif: claimant-asks-to-succeed-the-prophet
+    refs:
+    - Jāmiʿ 48:5784.1
+    - Jāmiʿ 48:5785.2
+    note: إن جعل لي محمد الأمر من بعده تبعته؛ إن شئت خليت بيننا وبين الأمر ثم جعلته لنا بعدك
+  - motif: not-even-this-palm-stalk
+    refs:
+    - Jāmiʿ 48:5784.1
+    - Jāmiʿ 48:5785.2
+    note: لو سألتني هذه القطعة ما أعطيتكها؛ لو سألتني هذا القضيب ما أعطيتكه
+  - motif: gold-bracelets-blown-away-are-two-liars
+    refs:
+    - Jāmiʿ 48:5784.1
+    - Jāmiʿ 48:5785.1
+    note: رأيت في يدي سوارين من ذهب ... أن انفخهما، فنفختهما فطارا؛ صاحب صنعاء، وصاحب اليمامة
+  - motif: spokesman-answers-for-the-prophet
+    refs:
+    - Jāmiʿ 48:5784.1
+    - Jāmiʿ 48:5785.2
+    note: وهذا ثابت يجيبك عني ... وهو الذي يقال له خطيب رسول الله ﷺ
+- id: hadith-48-envoys-are-not-killed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Musaylima's two envoys say 'as he says' - 'were envoys not exempt from killing I would strike your necks'
+  read:
+  - Jāmiʿ 48:5786.1
+  quran: []
+  tags:
+  - motif: envoys-not-killed
+    refs:
+    - Jāmiʿ 48:5786.1
+    note: 'فما تقولان أنتما؟ قالا: نقول كما قال. فقال رسول الله ﷺ: أما والله لولا أن الرسل لا تقتل لضربت أعناقكما'
+- id: hadith-48-thaqif-and-the-leper
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Thaqif stipulate no alms and no jihad - 'they will give and fight once Muslim'; the leper in the delegation told 'we have taken your pledge, go back'
+  read:
+  - Jāmiʿ 48:5788.1-5789.1
+  quran: []
+  tags:
+  - motif: converts-exempted-from-alms-and-war-will-do-both
+    refs:
+    - Jāmiʿ 48:5788.1
+    note: 'اشترطت على النبي ﷺ: أن لا صدقة عليها، ولا جهاد ... سيتصدقون ويجاهدون إذا أسلموا'
+  - motif: leper-pledge-taken-at-a-distance
+    refs:
+    - Jāmiʿ 48:5789.1
+    note: 'كان في وفد ثقيف رجل مجذوم فأرسل إليه النبي ﷺ: إنا قد بايعناك فارجع'
+  hints:
+  - The leper kept outside the camp (Lev 13:46; Num 5:2-3) against the leper of Thaqif whose pledge is accepted by message without his coming near.
+- id: hadith-48-qaylas-journey
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Qayla flees her husband's brother with her daughter; omens of hare and fox, the camel's shivering cured by turning clothes inside out; she prays in the men's row; 'O poor woman, be calm'; al-Dahna
+    denied to Hurayth
+  read:
+  - Jāmiʿ 48:5790.1
+  quran: []
+  tags:
+  - motif: hare-and-fox-crossing-as-omens
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: 'إذ انتفجت الأرنب، فقالت الحديباء القَصِيّة: والله لا يزال كعبك أعلى من كعب أثؤب ... ثم سنح الثعلب'
+  - motif: spell-broken-by-turning-clothes-inside-out
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: 'إذ برك الجمل، فأخذته رعدة، فقالت الحديباء: أدركتك والأمانةِ أَخْذةُ أثؤب ... اقلبي ثيابك ظهورها لبطونها، وادَّحرجي ظهرك لبطنك، واقلبي أحلاس جملك ... فلما فعلت ما أمرتني به انتفض الجمل'
+  - motif: uncle-seizes-orphan-girls-with-sword
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: 'فإذا أثؤب يسعى وراءنا بالسيف صلتًا ... فأصابت ظبته طائفة من قروني، ثم قال: ألقي إلي بنت أخي يا دفار'
+  - motif: woman-in-mens-row-sent-back
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: فصففت مع الرجال ... امرأة أنتِ أم رجل؟ ... إنك قد كدت تفتنيني، فصلِّي مع النساء وراءك
+  - motif: prophet-in-worn-saffron-rags-with-palm-stalk
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: وعليه ... أسمال ملببتين كانتا بزعفران فقد نفضتا، ومعه عسيب نخلة مقشور غير خوصتين من أعلاه، وهو قاعد القرفصاء
+  - motif: visitor-trembles-at-humble-prophet
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: فلما رأيت رسول الله ﷺ متخشعًا في الجلسة أرعدتُ من الفرق ... يا مسكينة عليك السكينة
+  - motif: grant-of-pasture-revoked-on-womans-objection
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: يا غلام، اكتب له بالدهناء ... إنما هذه الدهناء عندك مقيد الجمل ومرعى الغنم ... أمسك يا غلام، صدقت المسكينة، المسلم أخو المسلم، يسعهما الماء والشجر
+  - motif: proverb-sheep-carries-its-death-in-its-hooves
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: 'كنتُ أنا وأنت كما قيل: حتفها تحمل ضأن بأظلافها'
+  - motif: do-not-torment-the-dead-by-weeping
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: إن أحيدكم ليبكي فيستعبر إليه صويحبه، فيا عباد الله لا تعذبوا إخوانكم
+  - motif: charter-on-red-leather-women-not-forced-to-marry
+    refs:
+    - Jāmiʿ 48:5790.1
+    note: 'وكتب لها في قطعة من أديم أحمر لقيلة وللنسوة بنات قيلة: أن لا يظلمن حقًا، ولا يكرهن على منكح'
+- id: hadith-48-laqit-and-the-hundred-sheep
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Laqit's delegation - a flock kept at a hundred, a sheep slaughtered for each lamb born; the sharp-tongued wife; ablution between the fingers
+  read:
+  - Jāmiʿ 48:5793.1
+  quran: []
+  tags:
+  - motif: flock-kept-at-a-hundred-slaughter-for-each-birth
+    refs:
+    - Jāmiʿ 48:5793.1
+    note: لا تحسِبَنَّ أنا من أجلك ذبحناها، لنا غنم مائة لا نريد أن تزيد، فإذا ولد الراعي بهمة ذبحنا مكانها شاة
+  - motif: do-not-beat-wife-as-you-beat-slave-girl
+    refs:
+    - Jāmiʿ 48:5793.1
+    note: 'إن في لسانها شيئا يعني: البذاء ... فطلِّقْها إذا ... فمرها ... ولا تضرب ظعينتك كضربك أميتك'
+  - motif: ablution-thorough-between-fingers-snuffing-unless-fasting
+    refs:
+    - Jāmiʿ 48:5793.1
+    note: أسبغ الوضوء، وخلِّل بين الأصابع، وبالغ في الاستنشاق إلَّا أن تكون صائمًا
+- id: hadith-48-the-sayyid-is-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''You are our lord'' - ''the Lord (al-sayyid) is God''; do not let Satan draw you on'
+  read:
+  - Jāmiʿ 48:5794.1
+  quran: []
+  tags:
+  - motif: the-lord-is-god-refusal-of-title
+    refs:
+    - Jāmiʿ 48:5794.1
+    note: 'فقلنا: أنت سيدنا، فقال: السيد الله ﵎ ... قولوا بقولكم أو بعض قولكم، ولا يستجرنّكم الشّيطان'
+- id: hadith-48-letters-to-kings-and-the-seal
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Letters to Chosroes, Caesar, the Negus and every tyrant; the silver seal made because kings read only sealed letters
+  read:
+  - Jāmiʿ 48:5796.1-5796.2
+  quran: []
+  tags:
+  - motif: letters-to-every-tyrant
+    refs:
+    - Jāmiʿ 48:5796.1
+    note: كتب إلى كسرى، وإلى قيصر، وإلى النجاشي، وإلى كل جبار. يدعوهم إلى الله تعالى، وليس بالنجاشي الذي صلى عليه
+  - motif: ring-made-because-foreign-kings-read-only-sealed-letters
+    refs:
+    - Jāmiʿ 48:5796.2
+    note: 'إنهم لا يقرؤون كتابا إلا أن يكون مختوما، فاتخذ خاتما من فضة ... ونقش فيه: محمد رسول الله'
+- id: hadith-48-heraclius-and-abu-sufyan
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Heraclius questions Abu Sufyan point by point and draws the marks of a messenger; the letter with Q 3:64; the star-gazer's 'king of the circumcised'; the doors of the palace at Hims shut on the
+    fleeing Romans
+  read:
+  - Jāmiʿ 48:5797.1
+  quran:
+  - 3:64
+  tags:
+  - motif: king-interrogates-enemy-about-the-prophet
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: أيكم أقرب نسبا بهذا الرجل ... أدنوه مني، وقربوا أصحابه فاجعلوهم عند ظهره ... فإن كَذَبَني فكَذِّبوه
+  - motif: marks-of-a-true-messenger-by-question
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: فكذلك الرسل تبعث في نسب قومها ... وهم أتباع الرسل ... وكذلك الإيمان حين تخالط بشاشته القلوب ... وكذلك الرسل لا تغدر
+  - motif: shame-of-being-reported-a-liar
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: فوالله لولا الحياء من أن يأثروا علي كذبا لكذبت عنه
+  - motif: he-will-rule-where-my-feet-stand
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: فسيملك موضع قدمي هاتين ... ولو كنت عنده لغَسَلْتُ عن قدمه
+  - motif: accept-islam-and-be-safe-reward-twice
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: أسلم تسلم، يؤتك الله أجرك مرتين، فإن توليت فإن عليك إثم الأريسيين
+  - motif: common-word-between-us-and-you
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: يا أهل الكتاب تعالوا إلى كلمة سواء بيننا وبينكم ألا نعبد إلا الله
+  - motif: astrologer-king-sees-king-of-the-circumcised
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: وكان هرقل حَزَّاءً ينظر في النجوم ... إني رأيت الليلة حين نظرت في النجوم ملك الختان قد ظهر ... ليس يختتن إلا اليهود
+  - motif: courtiers-bolt-like-wild-asses-to-locked-doors
+    refs:
+    - Jāmiʿ 48:5797.1
+    note: ثم أمر بأبوابها فغُلِّقت ... فحاصوا حيصة حمر الوحش إلى الأبواب، فوجدوها قد غُلِّقَت ... إني قلت مقالتي آنفا أختبر بها شدتكم على دينكم
+  hints:
+  - A star seen at the rise of a new king of the Jews read by those who watch the stars (Matt 2:1-2) against Heraclius reading in the stars that 'the king of the circumcision' has appeared.
+- id: hadith-48-caesar-feigns-islam-and-chosroes-tears-the-letter
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The letter thrown on Caesar's carpet; Caesar's feigned conversion tested on his troops; Chosroes tears the letter - 'may they be torn to pieces'; a people ruled by a woman
+  read:
+  - Jāmiʿ 48:5800.1-5801.1
+  quran: []
+  tags:
+  - motif: letter-bearer-promised-paradise-even-if-not-killed
+    refs:
+    - Jāmiʿ 48:5800.1
+    note: 'من ينطلق بصحيفتي هذه إلى قيصر وله الجنة؟ فقال رجل من القوم: وإن لم أقتل؟ قال: وإن لم تقتل'
+  - motif: letter-thrown-on-the-kings-private-carpet
+    refs:
+    - Jāmiʿ 48:5800.1
+    note: قد جعل له بساط لا يمشي عليه غيره، فرمى بالكتاب على البساط وتنحى
+  - motif: king-proclaims-conversion-to-test-troops
+    refs:
+    - Jāmiʿ 48:5800.1
+    note: ألا إن قيصر قد اتبع محمدًا ﷺ وترك النصرانية، فأقبل جنده وقد تسلحوا ... وإنما خبركم لينظر كيف صبركم على دينكم
+  - motif: false-claim-of-islam-exposed
+    refs:
+    - Jāmiʿ 48:5800.1
+    note: 'وكتب قيصر إلى رسول الله ﷺ: إني مسلم وبعث إليه بدنانير، فقال ...: كذب عدو الله ليس بمسلم، وهو على النصرانية'
+  - motif: king-tears-letter-and-is-torn-apart
+    refs:
+    - Jāmiʿ 48:5800.2
+    note: فلما قرأه مزقه ... فدعا عليهم رسول الله ﷺ أن يمزقوا كل ممزق
+  - motif: people-ruled-by-a-woman-will-not-prosper
+    refs:
+    - Jāmiʿ 48:5801.1
+    note: 'قد ملكوا عليهم بنت كسرى قال: لن يُفلح قوم ولوا أمرهم امرأة'
+  hints:
+  - A king who cuts up and burns a prophet's scroll (Jer 36:23-31, Jehoiakim; judgment then pronounced on him) against Chosroes tearing the letter and the prayer that his people be torn to pieces.
+- id: hadith-48-muqawqis-and-letters-to-tribes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Muqawqis honours the letter and sends clothes, a grey mule and two slave girls, one the mother of Ibrahim; the red-leather letter to Banu Zuhayr; Bakr b. Wa'il find one reader, the 'sons of
+    the scribe'
+  read:
+  - Jāmiʿ 48:5801.2-5803.2
+  quran: []
+  tags:
+  - motif: ruler-of-egypt-sends-gifts-and-two-slave-girls
+    refs:
+    - Jāmiʿ 48:5801.2
+    note: فقَبَّلَ كتابه وأكرم حاطبا ... وأهدى له مع حاطب كسوة وبغلة شهباء بسرجها وجاريتين، إحداهما أم إبراهيم
+  - motif: letter-on-red-leather-carried-by-bedouin
+    refs:
+    - Jāmiʿ 48:5803.1
+    note: رجل أشعث الرأس بيده قطعة أديم أحمر ... من محمد رسول الله إلى بنى زهير بن أقيش
+  - motif: share-of-the-prophet-and-the-safi
+    refs:
+    - Jāmiʿ 48:5803.1
+    note: وأديتم الخمس من المغنم وسهم النبى ﷺ وسهم الصفي أنتم آمنون بأمان الله ورسوله
+  - motif: only-one-man-could-read-the-letter
+    refs:
+    - Jāmiʿ 48:5803.2
+    note: أسلموا تسلموا ... فما وجدنا من يقرؤه إلا رجل من بني ضبيعة، فهم يُسَمون بني الكاتب
