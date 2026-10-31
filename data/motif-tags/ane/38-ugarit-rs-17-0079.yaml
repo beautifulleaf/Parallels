@@ -101,6 +101,15 @@ new_motifs:
   queen-asked-for-news-of-kings-illness: {label: "A courtier writes to the queen that his heart pounds over the king's illness and asks her to send news of it", cluster: kingship}
   search-for-seven-days: {label: "A search or inspection is to be carried out over seven days (e.g. along the sea) and word sent back", cluster: numbers}
   gods-give-wish-in-letter: {label: "A letter wishes that the gods may grant (give) something to the addressee", cluster: letters}
+  suteans-raid-border: {label: "Sutean nomads strike a land's borders, and troops and chariots are sent against them", cluster: war}
+  gods-of-land-witness-against-slanderer: {label: "Letter close: 'may the gods of Ugarit know (judge) whoever speaks an evil word'", cluster: letters}
+  gold-overlaid-chariot-for-great-king: {label: "A king promises a chariot overlaid with gold for the Great King (the Sun) and asks for fine stones in return", cluster: kingship}
+  treaty-sworn-by-god-of-mount-hazzi: {label: "A king proposes to bind a treaty under (or by) the god of Mount Hazzi (Ṣapon)", cluster: treaty}
+  news-of-nations-hatti-babylon-assyria: {label: "A king tells another of news about peoples moving in all the lands: Hatti, Babylonia and Assyria", cluster: war}
+  craftsmen-lent-between-courts: {label: "A king or queen asks another court to send its craftsmen (dyers) or to let its own return", cluster: crafts}
+  rivers-in-flood-block-journey: {label: "A messenger cannot travel because the rivers are greatly swollen, and turns back", cluster: travel}
+  vassal-reproached-for-not-sending-envoys: {label: "A king or official reproaches another: 'why have you not sent your messengers (as the other kings did)?' or 'why have you held back your messengers?'", cluster: letters}
+  do-not-be-sick-at-heart: {label: "Letter reassurance: 'my lord, do not let your heart be sick (troubled) about anything'", cluster: letters}
 units:
   - id: ane-ugarit-rs-17-0079-mursili-niqmepa-treaty
     tradition: ane-akkadian
@@ -1176,3 +1185,90 @@ units:
       - {motif: famine-king-asks-ally-for-barley, refs: ["Ugarit RS 94.2287 o:11-r:2"], note: "šeʾu ina libbi mātīya yānu ... šeʾa liddina u anāku immerī ana niqê ... lišēbil"}
     hints:
       - "Famine in the land and grain sought from a neighbour compare Gen 42:1-5, 43:1-2 and 1 Kgs 5:25 (wheat for Hiram's household)."
+
+  - id: ane-ugarit-rs-94-2288-suteans-uriyanni
+    tradition: ane-akkadian
+    title: "Kin-[...] to the prefect, 'my brother': why have you not given camp troops and chariots? the Suteans struck their borders; why did your king send no messengers to the crown prince as Kadesh and Amurru did? may the gods of Ugarit know the slanderer (RS 94.2288+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter; reverse partly broken"
+    read: ["Ugarit RS 94.2288 + RS 94.2289"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2288 + RS 94.2289 o:4-5"], note: "ilānū ana šulmāni liṣṣurūka u lišallimūka"}
+      - {motif: suteans-raid-border, refs: ["Ugarit RS 94.2288 + RS 94.2289 o:6-17"], note: "ammīni ṣābē karāši narkabāti lā tattadan-mi ... pāṭātišunu Sutû imḫaṣ-mi ... 1-en awīla ina libbi mātišunu lā natamar-mi ṣilta ittīni ē tēpuš-mi"}
+      - {motif: vassal-reproached-for-not-sending-envoys, refs: ["Ugarit RS 94.2288 + RS 94.2289 o:18-r:11"], note: "The kings of Kadesh and Amurru sent messengers to the uriyanni (crown prince or high official); why has your brother not? uriyanni says the camp troops of the king of Ugarit bring nothing for the ilku-service"}
+      - {motif: gods-of-land-witness-against-slanderer, refs: ["Ugarit RS 94.2288 + RS 94.2289 t.e:1-l.e:3"], note: "ilānū ša māt Ugarit lū īdū mamman ša awâta lā banīta iqabbi; Madi-Dagan from Tuttul in r:12-13"}
+
+  - id: ane-ugarit-rs-94-2350-sold-troops
+    tradition: ane-akkadian
+    title: "Letter: your man sold my troops for 20 shekels; I send the scribe Kam-[...] about his case; settle it on the road; if you say 'I will not release him', send word (RS 94.2350)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, beginning lost"
+    read: ["Ugarit RS 94.2350"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2350 o:2'-3'"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 94.2350 o:4'-r:12"], note: "awīlka ša ṣābīya ana šīmi ittadnū ... 20 shekels; dīnšu ina ḫarrāni šukunšu; ḫīṭa mimma ana ayyāši yānu 'I have no fault'; ammīni ṣābīya ana šīmi tattanandin-mi"}
+    hints:
+      - "Selling people taken from another land compare Amos 1:6, 9 (Gaza and Tyre handed over whole communities) and Joel 4:6."
+
+  - id: ane-ugarit-rs-94-2364-gold-chariot-hazzi
+    tradition: ane-akkadian
+    title: "Tutu-[...] king of [...] to the king of Ugarit: a chariot overlaid with gold for the Sun; send fine ankle-stones; by the god of Mount Hazzi let us bind a treaty; send the prefect (RS 94.2364)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter; obverse right side broken (o:4-22 fragmentary)"
+    read: ["Ugarit RS 94.2364"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2364 o:2-3"]}
+      - {motif: gold-overlaid-chariot-for-great-king, refs: ["Ugarit RS 94.2364 b.e:1-r:7"], note: "narkabta ina ḫurāṣi uḫḫuza eleʾʾe ana dŠamši narkabta anaddin ... abnātu ša kiṣallāti damqūti"}
+      - {motif: treaty-sworn-by-god-of-mount-hazzi, refs: ["Ugarit RS 94.2364 r:8-12"], note: "dUTU-ši ša ḫursag Ḫazziyama i riksa lū nirkus: the glosses read Šamaš of Hazzi; possibly 'the Sun (= Hittite king)' or the god of Ṣapon; interpretive"}
+    hints:
+      - "Gold-overlaid chariots compare 1 Kgs 10:29 and the gold-plated objects of Exod 25:11; Mount Ṣapon compare Ps 48:3."
+
+  - id: ane-ugarit-rs-94-2369-sidon-news
+    tradition: ane-akkadian
+    title: "Yapaʿ-Haddu king of Sidon to the king of Ugarit, 'my brother': you know the news of the people of [...] how in all lands, in Hatti, Babylonia and Assyria ... (RS 94.2369)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Sidon to Ugarit; lower half lost"
+    read: ["Ugarit RS 94.2369"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2369 o:3-4"]}
+      - {motif: news-of-nations-hatti-babylon-assyria, refs: ["Ugarit RS 94.2369 o:5-11"], note: "attā tīde ṭēma mārī māt [...] kī ina gabba mātāti itta[...] ina māt Ḫatti ina māt Karduniaš ina māt Aššur; context broken"}
+    hints:
+      - "A king of Sidon in the north Levantine world compare Gen 10:15, 19 and 1 Kgs 16:31 (Ethbaal king of the Sidonians)."
+
+  - id: ane-ugarit-rs-94-2374-wife-of-king-dyers
+    tradition: ane-akkadian
+    title: "Letter to the wife of the king: why have you and the king of Ugarit held back your messengers? my dyers, men of Aleppo, may disturb the palace; let your dyers come with them (RS 94.2374)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter to a queen; sender broken"
+    read: ["Ugarit RS 94.2374"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2374 o:4-5"], note: "ilānū ana šulmi u balāṭi liṣṣurūka"}
+      - {motif: craftsmen-lent-between-courts, refs: ["Ugarit RS 94.2374 o:14-r:10"], note: "ṣāripūtīya awīlū Ḫalba ... ṣāripūtuka ittišunu littallakamma"}
+      - {motif: vassal-reproached-for-not-sending-envoys, refs: ["Ugarit RS 94.2374 o:8-12"], note: "ammīni šar Ugarit u attā akanna tēpušanni u mārī šiprika ana muḫḫīya taktala"}
+
+  - id: ane-ugarit-rs-94-2387-servant-bread-rivers
+    tradition: ane-akkadian
+    title: "A servant to his lord: twice seven times I fall; the gods of the king and Nin-egalla keep you well; bread, flour, fish, oil and the merchants' donkeys sent; the rivers are swollen; do not be sick at heart (RS 94.2387)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, sender broken; r:13-15 broken"
+    read: ["Ugarit RS 94.2387"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["Ugarit RS 94.2387 o:2'-3'"], note: "ana šēpē bēlīya 2-šu 7-šu amqut"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2387 o:4'-7'"], note: "ilānū ša šarri dNin-egalla lišallimūka liṣṣurūka napištaka liballiṭū elīya adi dārīti"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2387 o:8'-b.e:3", "Ugarit RS 94.2387 r:5'-8'"], note: "akalu mirqu, fish, oil, the donkeys of the merchants, bread and beer sent by Puṣu"}
+      - {motif: rivers-in-flood-block-journey, refs: ["Ugarit RS 94.2387 r:1-4"], note: "ītaḫsa ištu ʾAppi mā nārātu raḫbānu magal u lā ileʾʾu ana alāki"}
+      - {motif: do-not-be-sick-at-heart, refs: ["Ugarit RS 94.2387 r:9-12"], note: "u attā bēlī libbaka mimma lū lā tušamraṣ"}
+    hints:
+      - "Bowing seven times compare Gen 33:3; rivers in flood blocking passage compare Josh 3:15 (Jordan overflowing its banks at harvest)."
