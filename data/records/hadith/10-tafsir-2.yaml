@@ -1,0 +1,1571 @@
+# Observation records, hadith chunk 10 (al-Jāmiʿ al-Kāmil book 60, tafsir 2:271-5:67).
+records:
+- id: h-6820.1-shade
+  ref: Jāmiʿ 60:6820.1
+  unit: hadith-60-secret-alms-and-kin-of-polytheists
+  agent: God
+  action: shades seven kinds of people in his shade
+  time: day with no shade but his
+  number: 7
+  quoted: sabʿa yuzilluhum allah fi zillihi yawma la zilla illa zilluh
+- id: h-6820.1-lefthand
+  ref: Jāmiʿ 60:6820.1
+  unit: hadith-60-secret-alms-and-kin-of-polytheists
+  agent: a man
+  action: gives alms in secret
+  instrument: right hand
+  outcome: his left hand does not know what his right spends
+  quoted: hatta la taʿlama shimaluhu ma tunfiqu yaminuh
+- id: h-6820.2-kin
+  ref: Jāmiʿ 60:6820.2
+  unit: hadith-60-secret-alms-and-kin-of-polytheists
+  agent: believers
+  action: give small gifts to polytheist relatives
+  recipient: polytheist kin
+  outcome: verse 2:272 revealed
+  quoted: yardakhu li-ansibaʾihim min al-mushrikin
+- id: h-6821.1-poor
+  ref: Jāmiʿ 60:6821.1
+  unit: hadith-60-true-poor-and-lawful-begging
+  agent: the true poor man
+  action: refrains from asking
+  object:
+  - a date or two
+  - a morsel or two
+  quoted: innama al-miskin alladhi yataʿaffaf
+- id: h-6821.2-forty
+  ref: Jāmiʿ 60:6821.2
+  unit: hadith-60-true-poor-and-lawful-begging
+  agent: a beggar
+  action: begs while owning forty dirhams
+  number: 40
+  outcome: he is importunate (mulhif); like swallowing hot sand
+  quoted: man saʾala wa-lahu arbaʿun dirhaman fa-huwa mulhif
+- id: h-6821.3-three
+  ref: Jāmiʿ 60:6821.3
+  unit: hadith-60-true-poor-and-lawful-begging
+  agent: Qabisa
+  action: asks for help with a blood-debt
+  number: 3
+  object:
+  - one who shouldered a debt (hamala)
+  - one whose property a disaster (jaʾiha) swept away
+  - one in want attested by three men of sense
+  quoted: inna al-masʾala la tahillu illa li-ahadi thalatha
+- id: h-6822.1-wine
+  ref: Jāmiʿ 60:6822.1
+  unit: hadith-60-usury-curses-and-punishments
+  agent: the prophet
+  action: recites the usury verses in the mosque then forbids trade in wine
+  place: mosque
+  quoted: fa-qaraʾahunna ʿala al-nas thumma harrama tijarat al-khamr
+- id: h-6822.2-curse
+  ref: Jāmiʿ 60:6822.2
+  unit: hadith-60-usury-curses-and-punishments
+  agent: the prophet
+  action: curses the parties to usury
+  object:
+  - eater
+  - payer
+  - scribe
+  - two witnesses
+  number: 4
+  quoted: humm sawaʾ
+- id: h-6823.1-dog
+  ref: Jāmiʿ 60:6823.1
+  unit: hadith-60-usury-curses-and-punishments
+  agent: the prophet
+  action: forbids price of dogs and of blood; curses tattooer and image-maker
+  object:
+  - dog price
+  - blood price
+  - tattooer
+  - tattooed
+  - usury
+  - image-maker
+- id: h-6823.2-river
+  ref: Jāmiʿ 60:6823.2
+  unit: hadith-60-usury-curses-and-punishments
+  agent: a man on the bank
+  action: throws a stone into the swimmer's mouth each time he tries to leave
+  object: man standing in a river of blood
+  instrument: stone
+  outcome: driven back to where he was
+  name: Jibril
+  quoted: nahr min dam ... akilu al-riba
+- id: h-6823.3-paucity
+  ref: Jāmiʿ 60:6823.3
+  unit: hadith-60-usury-curses-and-punishments
+  agent: the usurer
+  action: multiplies usury
+  outcome: his affair ends in scarcity
+  quoted: kana ʿaqibatu amrihi ila qilla
+- id: h-6824.1-foal
+  ref: Jāmiʿ 60:6824.1
+  unit: hadith-60-alms-grown-like-a-foal
+  agent: God
+  action: takes alms in his right hand and raises it
+  object: alms of a date's worth from good earnings
+  instrument: right hand
+  outcome: grows like a mountain
+  quoted: kama yurabbi ahadukum falwahu hatta takuna mithla al-jabal
+- id: h-6824.2-angels
+  ref: Jāmiʿ 60:6824.2
+  unit: hadith-60-respite-for-the-insolvent
+  agent: angels
+  action: meet a dead man's soul and ask if he did any good
+  recipient: a man of earlier peoples
+  quoted: aʿamilta min al-khayri shayʾan? ... tadhakkar
+- id: h-6824.2-forgive
+  ref: Jāmiʿ 60:6824.2
+  unit: hadith-60-respite-for-the-insolvent
+  agent: a lender
+  action: told his young men to give respite to the insolvent and let off the solvent
+  outcome: 'God says: let him off'
+  quoted: tajawwazu ʿanhu
+- id: h-6825.1-alcove
+  ref: Jāmiʿ 60:6825.1
+  unit: hadith-60-respite-for-the-insolvent
+  agent: a debtor
+  action: hides in his wife's curtained couch
+  place: arikat ummi
+  outcome: comes out and pleads poverty
+  quoted: khashitu an uhaddithaka fa-akdhibaka
+- id: h-6825.1-wipe
+  ref: Jāmiʿ 60:6825.1
+  unit: hadith-60-respite-for-the-insolvent
+  agent: Abu l-Yasar
+  action: wipes out the written debt with his hand
+  instrument: sahifa
+  outcome: debtor released
+  quoted: fa-ataa bi-sahifatihi fa-mahaha bi-yadihi
+- id: h-6825.1-oath
+  ref: Jāmiʿ 60:6825.1
+  unit: hadith-60-respite-for-the-insolvent
+  agent:
+  - Abu l-Yasar
+  - debtor
+  action: exchange 'By God?' - 'By God'
+  number: 3
+  quoted: allah, qala allah
+- id: h-6825.1-eyes
+  ref: Jāmiʿ 60:6825.1
+  unit: hadith-60-respite-for-the-insolvent
+  agent: Abu l-Yasar
+  action: puts two fingers on his eyes and points to his heart as witness
+  instrument:
+  - two fingers
+  - eyes
+  - heart
+  quoted: fa-ashhadu basaru ʿaynayya hatayn
+- id: h-6825.2-qatada
+  ref: Jāmiʿ 60:6825.2
+  unit: hadith-60-respite-for-the-insolvent
+  agent: Abu Qatada
+  action: finds his hiding debtor and has him swear he is insolvent
+  outcome: hadith on relieving the insolvent
+  quoted: man sarrahu an yunjiyahu allah min kurab yawm al-qiyama
+- id: h-6825.3-double
+  ref: Jāmiʿ 60:6825.3
+  unit: hadith-60-respite-for-the-insolvent
+  agent: one who gives respite
+  action: earns alms each day
+  number:
+  - 1
+  - 2
+  time:
+  - before the debt is due
+  - after it is due
+  quoted: bi-kulli yawmin mithlayhi sadaqa
+- id: h-6826.1-last
+  ref: Jāmiʿ 60:6826.1
+  unit: hadith-60-last-verse-revealed
+  agent: Ibn Abbas
+  action: names the last verse revealed
+  object: 2:281
+  quoted: akhir shayʾ nazala min al-qurʾan
+- id: h-6826.2-last
+  ref: Jāmiʿ 60:6826.2
+  unit: hadith-60-last-verse-revealed
+  agent: Ibn Abbas
+  action: names the last verse revealed
+  object: the usury verse
+  quoted: akhir aya nazalat ... ayat al-riba
+- id: h-6826.3-three
+  ref: Jāmiʿ 60:6826.3
+  unit: hadith-60-last-verse-revealed
+  agent: Umar
+  action: wishes the prophet had settled three matters
+  object:
+  - the grandfather
+  - kalala
+  - kinds of usury
+  place: the prophet's pulpit
+  number: 3
+- id: h-6827.1-abrogate
+  ref: Jāmiʿ 60:6827.1
+  unit: hadith-60-debt-writing-and-pledge
+  agent: Abu Said
+  action: says the trust clause abrogates the writing of debts
+  object: 2:283
+  quoted: hadhihi nasakhat ma qablaha
+- id: h-6827.2-armour
+  ref: Jāmiʿ 60:6827.2
+  unit: hadith-60-debt-writing-and-pledge
+  agent: the prophet
+  action: buys food on credit and pawns his armour
+  recipient: a Jew
+  object:
+  - food
+  - coat of mail
+  quoted: wa-rahanahu dirʿahu
+- id: h-6828.1-kneel
+  ref: Jāmiʿ 60:6828.1
+  unit: hadith-60-thoughts-not-reckoned
+  agent: the companions
+  action: kneel and protest the verse
+  object: 2:284
+  quoted: baraku ʿala al-rukab
+- id: h-6828.1-hear
+  ref: Jāmiʿ 60:6828.1
+  unit: hadith-60-thoughts-not-reckoned
+  agent: the prophet
+  action: tells them not to say 'we hear and disobey' as the two scripture peoples said
+  quoted: samiʿna wa-ʿasayna ... bal qulu samiʿna wa-ataʿna
+- id: h-6828.1-yes
+  ref: Jāmiʿ 60:6828.1
+  unit: hadith-60-thoughts-not-reckoned
+  agent: God
+  action: answers each petition of 2:286
+  outcome: na'am
+  number: 4
+  quoted: qala naʿam
+- id: h-6829.1-done
+  ref: Jāmiʿ 60:6829.1
+  unit: hadith-60-thoughts-not-reckoned
+  agent: God
+  action: answers each petition of 2:286
+  quoted: qad faʿaltu
+- id: h-6829.2-weep
+  ref: Jāmiʿ 60:6829.2
+  unit: hadith-60-thoughts-not-reckoned
+  agent: Ibn Umar
+  action: weeps aloud on reciting 2:284
+  outcome: 'Ibn Abbas: the verse was eased by 2:286'
+  quoted: la-in akhadhana allah bi-hadha la-nahlikanna
+- id: h-6830.1-thoughts
+  ref: Jāmiʿ 60:6830.1
+  unit: hadith-60-thoughts-not-reckoned
+  agent: God
+  action: overlooks what souls whisper
+  outcome: until they act or speak
+  quoted: ma lam taʿmal aw tatakallam
+- id: h-6831.1-ambiguous
+  ref: Jāmiʿ 60:6831.1
+  unit: hadith-60-followers-of-ambiguous-verses
+  agent: the prophet
+  action: warns against those who follow the ambiguous verses
+  quoted: fa-ulaʾika alladhina samma allah fa-hdharuhum
+- id: h-6832.1-fingers
+  ref: Jāmiʿ 60:6832.1
+  unit: hadith-60-heart-between-two-fingers
+  agent: God
+  action: holds every heart between two of his fingers
+  instrument: two fingers of the Lord of the worlds
+  outcome: sets it straight or makes it swerve
+  quoted: bayna isbaʿayni min asabiʿ rabb al-ʿalamin
+- id: h-6832.1-scale
+  ref: Jāmiʿ 60:6832.1
+  unit: hadith-60-heart-between-two-fingers
+  agent: the Merciful
+  action: lowers and raises the scale
+  instrument: scale in his hand
+  quoted: wa-l-mizan bi-yad al-rahman
+- id: h-6832.2-pot
+  ref: Jāmiʿ 60:6832.2
+  unit: hadith-60-heart-between-two-fingers
+  object: heart of the son of Adam
+  action: turns faster than a pot at full boil
+  instrument: cooking pot
+  quoted: asraʿu taqalluban min al-qidr idha stajmaʿat ghalayanan
+- id: h-6833.1-clan
+  ref: Jāmiʿ 60:6833.1
+  unit: hadith-60-worst-of-men-feared-for-obscenity
+  agent: the prophet
+  action: calls a visitor bad then speaks gently to him
+  recipient: a man
+  outcome: worst is one shunned for his obscenity
+  quoted: biʾsa ibn al-ʿashira
+- id: h-6834.1-touch
+  ref: Jāmiʿ 60:6834.1
+  unit: hadith-60-mary-and-son-untouched-by-satan
+  agent: Satan
+  action: touches every newborn at birth
+  outcome: it cries out; except Mary and her son
+  name:
+  - Maryam
+  - her son
+  quoted: fa-yastahillu sarikhan min massi al-shaytan
+- id: h-6835.1-cradle
+  ref: Jāmiʿ 60:6835.1
+  unit: hadith-60-mary-and-son-untouched-by-satan
+  agent: three infants
+  action: speak in the cradle
+  number: 3
+  name:
+  - ʿIsa
+  - the boy of Jurayj
+  quoted: lam yatakallam fi al-mahd illa thalatha
+- id: h-6836.1-family
+  ref: Jāmiʿ 60:6836.1
+  unit: hadith-60-mubahala-family
+  agent: the prophet
+  action: calls four of his household at the mutual-curse verse
+  object:
+  - Ali
+  - Fatima
+  - Hasan
+  - Husayn
+  number: 4
+  quoted: allahumma haʾulaʾ ahli
+- id: h-6837.1-letter
+  ref: Jāmiʿ 60:6837.1
+  unit: hadith-60-letter-to-heraclius
+  agent: the prophet
+  action: writes to Heraclius
+  recipient: Heraclius, great one of Rum
+  instrument: letter carried by Dihya al-Kalbi
+  place: Syria
+  quoted: aslim taslam ... yuʾtika allah ajraka marratayn
+- id: h-6837.2-well
+  ref: Jāmiʿ 60:6837.2
+  unit: hadith-60-false-oath-for-property
+  agent: al-Ashʿath b. Qays
+  action: disputes a well with his cousin
+  object: well in his cousin's land
+  outcome: '''your proof or his oath'''
+  quoted: bayyinatuka aw yaminuh
+- id: h-6837.2-angry
+  ref: Jāmiʿ 60:6837.2
+  unit: hadith-60-false-oath-for-property
+  agent: one who swears a false binding oath
+  action: cuts off a Muslim's property
+  outcome: meets God angry with him
+  quoted: laqiya allah wa-huwa ʿalayhi ghadban
+- id: h-6838.1-market
+  ref: Jāmiʿ 60:6838.1
+  unit: hadith-60-false-oath-for-property
+  agent: a seller
+  action: swears falsely he was offered a higher price
+  place: market
+  outcome: verse 3:77 revealed
+- id: h-6838.2-awl
+  ref: Jāmiʿ 60:6838.2
+  unit: hadith-60-false-oath-for-property
+  agent: two women sewing
+  action: one accuses the other of piercing her hand with an awl
+  instrument: awl (ishfa)
+  outcome: reminded of God and the verse, the accused confesses
+  name: Ibn Abbas
+  quoted: al-yamin ʿala al-muddaʿa ʿalayh
+- id: h-6838.3-apostate
+  ref: Jāmiʿ 60:6838.3
+  unit: hadith-60-apostate-returns-penitent
+  agent: an Ansari apostate
+  action: returns penitent after his people send him the verse
+  outcome: the prophet accepts and releases him
+- id: h-6839.1-bayruha
+  ref: Jāmiʿ 60:6839.1
+  unit: hadith-60-bayruha-given
+  agent: Abu Talha
+  action: gives his dearest garden as alms
+  object: Bayruha, facing the mosque
+  outcome: divided among his kin and cousins
+  name:
+  - Bayruha
+  - Hassan
+  - Ubayy
+  quoted: bakh dhalika mal rabih
+- id: h-6840.1-camel
+  ref: Jāmiʿ 60:6840.1
+  unit: hadith-60-what-israel-forbade-himself
+  agent: Israel (Yaʿqub)
+  action: vows in grave illness to forbid his dearest food and drink
+  object:
+  - camel meat
+  - camel milk
+  quoted: la-in shafahu allah ... la-yuharrimanna ahabba al-sharab ilayhi wa-ahabba al-taʿam
+- id: h-6840.1-covenant
+  ref: Jāmiʿ 60:6840.1
+  unit: hadith-60-what-israel-forbade-himself
+  agent: the prophet
+  action: binds the Jews by God's covenant and what Jacob took from his sons
+  recipient: a band of Jews
+  quoted: ijʿalu li dhimmat allah wa-ma akhadha yaʿqub ʿala banih
+- id: h-6840.2-sciatica
+  ref: Jāmiʿ 60:6840.2
+  unit: hadith-60-what-israel-forbade-himself
+  agent: Israel
+  action: vows not to eat veins if cured
+  object: the veins (al-ʿuruq)
+  quoted: akhadhahu ʿirq al-nasa ... alla yakula al-ʿuruq
+- id: h-6841.1-forty
+  ref: Jāmiʿ 60:6841.1
+  unit: hadith-60-first-house-and-hajj
+  agent: the prophet
+  action: names the first mosque on earth and the second
+  object:
+  - al-Masjid al-Haram
+  - al-Masjid al-Aqsa
+  number: 40
+  time: forty years between them
+  quoted: arbaʿun sana
+- id: h-6841.2-hajj
+  ref: Jāmiʿ 60:6841.2
+  unit: hadith-60-first-house-and-hajj
+  agent: a man
+  action: asks 'every year?'
+  number: 3
+  outcome: had I said yes it would be binding
+  quoted: law qultu naʿam la-wajabat
+- id: h-6842.1-aws
+  ref: Jāmiʿ 60:6842.1
+  unit: hadith-60-aws-and-khazraj-quarrel
+  agent:
+  - Aws
+  - Khazraj
+  action: recall their old war and take up weapons
+  outcome: 3:101 revealed
+- id: h-6842.2-zaqqum
+  ref: Jāmiʿ 60:6842.2
+  unit: hadith-60-drop-of-zaqqum
+  agent: the prophet
+  action: describes a drop of zaqqum
+  object: drop of zaqqum
+  place: earth
+  outcome: spoils the life of earth's people
+  quoted: law anna qatratan min al-zaqqum qutirat
+- id: h-6843.1-death
+  ref: Jāmiʿ 60:6843.1
+  unit: hadith-60-drop-of-zaqqum
+  agent: Abdallah b. Amr
+  action: teaches in the shade of the Kaaba
+  quoted: wa-l-yaʾti ila al-nas alladhi yuhibbu an yuʾta ilayh
+- id: h-6843.2-death
+  ref: Jāmiʿ 60:6843.2
+  unit: hadith-60-drop-of-zaqqum
+  agent: the prophet
+  action: commands to die thinking well of God
+  time: three days before his death
+  number: 3
+- id: h-6843.3-chains
+  ref: Jāmiʿ 60:6843.3
+  unit: hadith-60-best-community-in-chains
+  agent: the best community
+  action: brings people in chains on their necks
+  outcome: they enter Islam
+  quoted: taʾtuna bihim fi al-salasil fi aʿnaqihim
+- id: h-6844.1-isha
+  ref: Jāmiʿ 60:6844.1
+  unit: hadith-60-late-night-prayer
+  agent: the prophet
+  action: delays the night prayer and finds people waiting
+  place: mosque
+  quoted: laysa min hadhihi al-adyan ahad yadhkuru allah hadhihi al-saʿa ghayrukum
+- id: h-6844.2-isha
+  ref: Jāmiʿ 60:6844.2
+  unit: hadith-60-late-night-prayer
+  agent: Umar
+  action: 'calls the prophet: the women and children are asleep'
+  time: from the setting of twilight to the first third of the night
+  quoted: nama al-nisaʾ wa-l-sibyan
+- id: h-6845.1-bitana
+  ref: Jāmiʿ 60:6845.1
+  unit: hadith-60-two-inner-circles
+  agent:
+  - every prophet
+  - every caliph
+  action: has two inner circles
+  number: 2
+  object:
+  - one urging good
+  - one urging evil
+  quoted: kanat lahu bitanatan
+- id: h-6845.2-clans
+  ref: Jāmiʿ 60:6845.2
+  unit: hadith-60-two-clans-nearly-faltered
+  agent:
+  - Banu Salima
+  - Banu Haritha
+  action: nearly falter at Uhud and are glad of the verse
+  quoted: wa-ma nuhibbu annaha lam tanzil
+- id: h-6846.1-qunut
+  ref: Jāmiʿ 60:6846.1
+  unit: hadith-60-not-yours-the-matter
+  agent: the prophet
+  action: curses tribes and prays for captives after bowing
+  time: dawn prayer, after the rukuʿ
+  name:
+  - al-Walid b. al-Walid
+  - Salama b. Hisham
+  - ʿAyyash b. Abi Rabiʿa
+  - Mudar
+  quoted: sinina ka-sini yusuf
+- id: h-6846.2-curse
+  ref: Jāmiʿ 60:6846.2
+  unit: hadith-60-not-yours-the-matter
+  agent: the prophet
+  action: curses three named men
+  number: 3
+  time: last raka of the dawn prayer
+  outcome: 3:128 revealed
+- id: h-6846.3-blood
+  ref: Jāmiʿ 60:6846.3
+  unit: hadith-60-not-yours-the-matter
+  agent: the prophet
+  action: wipes blood from his face
+  place: Uhud
+  object:
+  - broken tooth
+  - head wound
+  quoted: kayfa yuflihu qawmun shajju nabiyyahum
+- id: h-6847.1-archers
+  ref: Jāmiʿ 60:6847.1
+  unit: hadith-60-uhud-archers
+  agent: the archers
+  action: leave their post for booty
+  number: 50
+  name: ʿAbdallah b. Jubayr
+  outcome: rout; twelve stay with the prophet; seventy killed
+  quoted: in raʾaytumuna takhtafuna al-tayr fa-la tabrahu
+- id: h-6847.1-hubal
+  ref: Jāmiʿ 60:6847.1
+  unit: hadith-60-uhud-archers
+  agent: Abu Sufyan
+  action: calls three times for Muhammad, Ibn Abi Quhafa and Ibn al-Khattab, then exalts Hubal
+  name:
+  - Hubal
+  - al-ʿUzza
+  outcome: answered 'God is higher and more majestic', 'God is our protector'
+  quoted: uʿlu hubal ... allah aʿla wa-ajall
+- id: h-6847.1-badr
+  ref: Jāmiʿ 60:6847.1
+  unit: hadith-60-uhud-archers
+  object: casualties
+  number:
+  - 70
+  - 140
+  - 70
+  - 70
+  quoted: sabʿina asiran wa-sabʿina qatilan
+- id: h-6848.1-sword
+  ref: Jāmiʿ 60:6848.1
+  unit: hadith-60-drowsiness-at-uhud
+  agent: Abu Talha
+  action: drops his sword again and again from drowsiness
+  place: the battle line at Uhud
+  quoted: fa-jaʿala sayfi yasqutu min yadi
+- id: h-6848.2-shields
+  ref: Jāmiʿ 60:6848.2
+  unit: hadith-60-drowsiness-at-uhud
+  agent: the fighters
+  action: sway under their shields from drowsiness
+  instrument: hajafa (shield)
+- id: h-6848.3-face
+  ref: Jāmiʿ 60:6848.3
+  unit: hadith-60-martyrs-alive
+  agent: God
+  action: revives Jabir's father and speaks to him face to face
+  recipient: ʿAbdallah b. ʿAmr b. Haram
+  outcome: 'he asks to be killed again; refused: they do not return'
+  quoted: fa-kallamahu kifahan
+- id: h-6849.1-birds
+  ref: Jāmiʿ 60:6849.1
+  unit: hadith-60-martyrs-alive
+  agent: God
+  action: puts the martyrs' spirits in green birds
+  place:
+  - rivers of paradise
+  - golden lamps in the shade of the Throne
+  outcome: 'they ask who will tell their brothers; God: I will'
+  quoted: fi jawfi tayrin khudr ... qanadil min dhahab
+- id: h-6850.1-thrice
+  ref: Jāmiʿ 60:6850.1
+  unit: hadith-60-martyrs-alive
+  agent: God
+  action: asks the martyrs three times what they desire
+  number: 3
+  outcome: they ask their spirits be returned to be killed again
+  quoted: hal tashtahuna shayʾan
+- id: h-6851.1-seventy
+  ref: Jāmiʿ 60:6851.1
+  unit: hadith-60-hamra-al-asad
+  agent: seventy men
+  action: volunteer to pursue the enemy after Uhud
+  number: 70
+  name:
+  - Abu Bakr
+  - al-Zubayr
+- id: h-6851.2-rawha
+  ref: Jāmiʿ 60:6851.2
+  unit: hadith-60-hamra-al-asad
+  agent: the Meccans
+  action: regret leaving and propose to return
+  place:
+  - al-Rawha
+  - Hamraʾ al-Asad
+  - Biʾr Abi ʿInaba
+  quoted: la muhammadan qataltum wa-la al-kawaʿib ardaftum
+- id: h-6852.1-fire
+  ref: Jāmiʿ 60:6852.1
+  unit: hadith-60-hasbuna-allah
+  agent:
+  - Ibrahim
+  - Muhammad
+  action: say 'God suffices us'
+  time:
+  - when thrown into the fire
+  - when told the people have gathered
+  quoted: hasbuna allah wa-niʿma al-wakil
+- id: h-6852.2-last
+  ref: Jāmiʿ 60:6852.2
+  unit: hadith-60-hasbuna-allah
+  agent: Ibrahim
+  action: last words when thrown into the fire
+  quoted: hasbiya allah wa-niʿma al-wakil
+- id: h-6853.1-serpent
+  ref: Jāmiʿ 60:6853.1
+  unit: hadith-60-hoard-as-bald-serpent
+  agent: hoarded wealth
+  action: becomes a bald serpent collared on its owner and grips his jaws
+  object: shujaʿ aqraʿ with two black spots
+  time: Day of Resurrection
+  quoted: ana maluka ana kanzuk
+- id: h-6853.2-loan
+  ref: Jāmiʿ 60:6853.2
+  unit: hadith-60-hoard-as-bald-serpent
+  agent: the Jews
+  action: mock the verse of the loan to God
+  quoted: a-faqirun rabbuka yasʾalu ʿibadahu al-qard
+- id: h-6853.3-whip
+  ref: Jāmiʿ 60:6853.3
+  unit: hadith-60-whip-space-in-paradise
+  object: the space of a whip in paradise
+  outcome: better than the world and what is in it
+  quoted: mawdiʿu sawti ahadikum
+- id: h-6854.1-dust
+  ref: Jāmiʿ 60:6854.1
+  unit: hadith-60-ibn-ubayy-and-the-dust
+  agent: ʿAbdallah b. Ubayy
+  action: covers his nose with his cloak against the donkey's dust
+  place: a mixed gathering of Muslims, idolaters and Jews
+  quoted: la tughabbiru ʿalayna
+- id: h-6854.1-crown
+  ref: Jāmiʿ 60:6854.1
+  unit: hadith-60-ibn-ubayy-and-the-dust
+  agent: the people of the town
+  action: had agreed to crown Ibn Ubayy
+  instrument: turban (ʿisaba)
+  outcome: he chokes with envy
+  quoted: ʿala an yutawwijuhu fa-yuʿassibunahu bi-l-ʿisaba
+- id: h-6855.1-stayers
+  ref: Jāmiʿ 60:6855.1
+  unit: hadith-60-praised-for-what-they-did-not-do
+  agent: hypocrites
+  action: stay behind from raids then swear excuses
+  outcome: want praise for what they did not do
+- id: h-6855.2-marwan
+  ref: Jāmiʿ 60:6855.2
+  unit: hadith-60-praised-for-what-they-did-not-do
+  agent: Marwan
+  action: sends his doorkeeper Rafiʿ to ask Ibn Abbas
+  outcome: the verse is about scripture people who concealed
+  name: Rafiʿ
+- id: h-6856.1-sky
+  ref: Jāmiʿ 60:6856.1
+  unit: hadith-60-night-vigil-and-closing-verses
+  agent: the prophet
+  action: looks at the sky and recites 3:190, prays eleven rakas
+  time: last third of the night
+  number: 11
+  place: house of Maymuna
+- id: h-6856.2-weep
+  ref: Jāmiʿ 60:6856.2
+  unit: hadith-60-night-vigil-and-closing-verses
+  agent: the prophet
+  action: weeps until lap, beard and ground are wet
+  outcome: '''shall I not be a grateful servant?'''
+  quoted: afala akunu ʿabdan shakuran
+- id: h-6856.2-visit
+  ref: Jāmiʿ 60:6856.2
+  unit: hadith-60-night-vigil-and-closing-verses
+  agent: ʿUbayd b. ʿUmayr
+  action: quotes a proverb to Aisha
+  quoted: zur ghibban tazdad hubban
+- id: h-6856.3-ear
+  ref: Jāmiʿ 60:6856.3
+  unit: hadith-60-night-vigil-and-closing-verses
+  agent: the prophet
+  action: places his right hand on the boy's head and twists his right ear
+  recipient: Ibn Abbas
+  number:
+  - 6
+  - 2
+  outcome: six pairs of rakas then witr
+  instrument: water-skin (shann)
+- id: h-6857.1-women
+  ref: Jāmiʿ 60:6857.1
+  unit: hadith-60-women-not-mentioned-in-hijra
+  agent: Umm Salama
+  action: asks why women are not mentioned in the emigration
+  outcome: 3:195 revealed
+- id: h-6858.1-negus
+  ref: Jāmiʿ 60:6858.1
+  unit: hadith-60-prayer-for-the-negus
+  agent: the prophet
+  action: orders prayer for the dead Negus
+  outcome: '''an Abyssinian slave?''; 3:199 revealed'
+  quoted: nusalli ʿala ʿabdin habashi
+- id: h-6858.2-ribat
+  ref: Jāmiʿ 60:6858.2
+  unit: hadith-60-ribat
+  object:
+  - full ablution in hardship
+  - many steps to mosques
+  - waiting prayer after prayer
+  outcome: that is the ribat
+  number: 3
+- id: h-6859.1-frontier
+  ref: Jāmiʿ 60:6859.1
+  unit: hadith-60-ribat
+  action: a day and night on the frontier
+  outcome: better than a month of fasting and vigil; safe from the tester
+  time: a day and a night
+  quoted: ribatu yawmin wa-layla
+- id: h-6860.3-ghaylan
+  ref: Jāmiʿ 60:6860.3
+  unit: hadith-60-orphan-girls-and-four-wives
+  agent: Ghaylan b. Salama
+  action: converts with ten wives
+  number:
+  - 10
+  - 4
+  outcome: keeps four
+- id: h-6862.2-orphan
+  ref: Jāmiʿ 60:6862.2
+  unit: hadith-60-orphans-guardian-eats-fairly
+  agent: a poor guardian
+  action: told to eat of the orphan's property without excess
+  quoted: kul min mali yatimika ghayra musrif
+- id: h-6862.3-two
+  ref: Jāmiʿ 60:6862.3
+  unit: hadith-60-kin-at-the-division
+  agent: Ibn Abbas
+  action: denies 4:8 is abrogated
+  object:
+  - guardian who inherits and gives
+  - guardian who does not inherit and speaks kindly
+  number: 2
+- id: h-6863.1-seven
+  ref: Jāmiʿ 60:6863.1
+  unit: hadith-60-seven-destroyers
+  object: the seven destroyers
+  number: 7
+  name: al-sabʿ al-mubiqat
+- id: h-6864.1-daughters
+  ref: Jāmiʿ 60:6864.1
+  unit: hadith-60-daughters-of-sad-inherit
+  agent: widow of Saʿd b. al-Rabiʿ
+  action: brings his two daughters to the prophet
+  place: after Uhud
+  outcome:
+  - daughters two-thirds
+  - mother an eighth
+  - uncle the rest
+  number:
+  - 2
+  - 2/3
+  - 1/8
+- id: h-6865.1-shares
+  ref: Jāmiʿ 60:6865.1
+  unit: hadith-60-daughters-of-sad-inherit
+  agent: God
+  action: replaces bequest to parents with fixed shares
+  object:
+  - son two shares
+  - parents a sixth or third
+  - wife an eighth or quarter
+  - husband half or quarter
+- id: h-6866.1-way
+  ref: Jāmiʿ 60:6866.1
+  unit: hadith-60-the-way-for-adulterers
+  agent: the prophet
+  action: announces the way for adulterers
+  object:
+  - 'unmarried: a hundred lashes and a year''s exile'
+  - 'married: a hundred lashes and stoning'
+  number:
+  - 100
+  - 1
+  quoted: khudhu ʿanni ... jald miʾa wa-nafy sana
+- id: h-6866.1-revelation
+  ref: Jāmiʿ 60:6866.1
+  unit: hadith-60-the-way-for-adulterers
+  agent: the prophet
+  action: is distressed and his face darkens under revelation
+  quoted: kuriba li-dhalika wa-tarabbada lahu wajhuh
+- id: h-6867.1-gargle
+  ref: Jāmiʿ 60:6867.1
+  unit: hadith-60-repentance-before-death-rattle
+  agent: God
+  action: accepts repentance
+  time: until the death rattle
+  quoted: ma lam yugharghir
+- id: h-6868.1-satan
+  ref: Jāmiʿ 60:6868.1
+  unit: hadith-60-repentance-before-death-rattle
+  agent:
+  - Satan
+  - God
+  action: swear counter-oaths by God's might
+  outcome: Satan to mislead while spirits are in bodies; God to forgive while they ask
+  quoted: wa-ʿizzati wa-jalali la azalu aghfiru lahum
+- id: h-6868.2-widow
+  ref: Jāmiʿ 60:6868.2
+  unit: hadith-60-widow-inherited
+  agent: a dead man's heirs
+  action: hold his widow
+  object: the widow
+  outcome: marry her, marry her off or keep her unmarried
+- id: h-6868.3-dower
+  ref: Jāmiʿ 60:6868.3
+  unit: hadith-60-widow-inherited
+  agent: the kinsman heir
+  action: keeps the inherited woman from marrying
+  outcome: until she dies or returns her dower
+- id: h-6869.2-father
+  ref: Jāmiʿ 60:6869.2
+  unit: hadith-60-fathers-wives
+  agent: the pre-Islamic Arabs
+  action: permitted the father's wife and two sisters together
+  number: 2
+- id: h-6870.1-awtas
+  ref: Jāmiʿ 60:6870.1
+  unit: hadith-60-captives-of-awtas
+  agent: companions
+  action: hesitate to approach captive women whose pagan husbands live
+  place: Awtas
+  time: after the waiting period
+- id: h-6871.1-cold
+  ref: Jāmiʿ 60:6871.1
+  unit: hadith-60-amr-tayammum-in-cold
+  agent: ʿAmr b. al-ʿAs
+  action: does tayammum instead of bathing and leads the dawn prayer
+  time: freezing night
+  place: Dhat al-Salasil
+  outcome: the prophet laughs and says nothing
+  quoted: wa-la taqtulu anfusakum
+- id: h-6872.1-suicide
+  ref: Jāmiʿ 60:6872.1
+  unit: hadith-60-amr-tayammum-in-cold
+  agent: the suicide
+  action: repeats his act in hell forever
+  instrument:
+  - fall from a mountain
+  - poison
+  - iron blade
+- id: h-6873.1-umm
+  ref: Jāmiʿ 60:6873.1
+  unit: hadith-60-women-and-equal-shares
+  agent: Umm Salama
+  action: complains men fight and women have half the inheritance
+  outcome: 4:32 revealed
+- id: h-6874.1-half
+  ref: Jāmiʿ 60:6874.1
+  unit: hadith-60-women-and-equal-shares
+  agent: a woman
+  action: asks whether a woman's good deed is written as half
+  outcome: '4:32: ''it is justice from me'''
+- id: h-6874.2-brothers
+  ref: Jāmiʿ 60:6874.2
+  unit: hadith-60-brotherhood-inheritance-ended
+  agent: Emigrants
+  action: inherit from Ansar brothers instead of kin
+  outcome: ended by 4:33; aid and bequest remain
+- id: h-6875.1-wives
+  ref: Jāmiʿ 60:6875.1
+  unit: hadith-60-striking-wives
+  agent: the prophet
+  action: commands husbands about wives in the farewell pilgrimage
+  outcome: strike without injury; owe food and clothing
+  quoted: darban ghayra mubarrih
+- id: h-6876.1-slave
+  ref: Jāmiʿ 60:6876.1
+  unit: hadith-60-striking-wives
+  agent: a husband
+  action: flogs his wife like a slave then lies with her at evening
+  quoted: jalda al-ʿabid
+- id: h-6876.2-never
+  ref: Jāmiʿ 60:6876.2
+  unit: hadith-60-striking-wives
+  agent: the prophet
+  action: never strikes a woman or servant with his hand
+- id: h-6876.3-right
+  ref: Jāmiʿ 60:6876.3
+  unit: hadith-60-rights-of-god-and-neighbour
+  agent: the prophet
+  action: asks Muʿadh what God's right on servants is
+  recipient: Muʿadh
+  outcome:
+  - to worship him alone
+  - not to be punished
+- id: h-6877.1-neighbour
+  ref: Jāmiʿ 60:6877.1
+  unit: hadith-60-rights-of-god-and-neighbour
+  agent: Jibril
+  action: keeps urging the neighbour
+  outcome: the prophet thought he would make him an heir
+- id: h-6877.2-jew
+  ref: Jāmiʿ 60:6877.2
+  unit: hadith-60-rights-of-god-and-neighbour
+  agent: ʿAbdallah b. ʿAmr
+  action: asks twice whether his Jewish neighbour was sent meat
+  object: slaughtered sheep
+  recipient: Jewish neighbour
+- id: h-6877.3-ten
+  ref: Jāmiʿ 60:6877.3
+  unit: hadith-60-rights-of-god-and-neighbour
+  agent: the prophet
+  action: compares sins against a neighbour
+  number: 10
+  object:
+  - adultery with a neighbour's wife
+  - theft from a neighbour
+- id: h-6878.1-rabadha
+  ref: Jāmiʿ 60:6878.1
+  unit: hadith-60-slaves-as-brothers
+  agent: Abu Dharr
+  action: wears the same garment as his slave
+  place: al-Rabadha
+  outcome: '''your servants are your brothers'''
+  quoted: ikhwanukum khawalukum
+- id: h-6878.2-three
+  ref: Jāmiʿ 60:6878.2
+  unit: hadith-60-slaves-as-brothers
+  agent: Abu Dharr
+  action: reports God loves three and hates three
+  number: 3
+  object:
+  - the swaggering boaster
+  - the swaggering reminder of favours
+- id: h-6879.1-hem
+  ref: Jāmiʿ 60:6879.1
+  unit: hadith-60-slaves-as-brothers
+  agent: the prophet
+  action: counsels a man of Bal-Hujaym
+  object:
+  - mid-shin hem
+  - not trailing the waist-wrapper
+  quoted: isbal al-izar min al-makhila
+- id: h-6880.1-faith
+  ref: Jāmiʿ 60:6880.1
+  unit: hadith-60-atoms-weight-of-faith
+  agent: God
+  action: orders those with a grain of faith brought out of the fire
+  object:
+  - a dinar's weight
+  - a mustard seed's weight
+  - an atom's weight
+- id: h-6881.1-tears
+  ref: Jāmiʿ 60:6881.1
+  unit: hadith-60-tears-at-the-witness-verse
+  agent: Ibn Masʿud
+  action: recites al-Nisaʾ to the prophet
+  recipient: the prophet
+  outcome: at 4:41 the prophet's tears flow
+- id: h-6881.2-drunk
+  ref: Jāmiʿ 60:6881.2
+  unit: hadith-60-wine-in-stages
+  agent: ʿAbd al-Rahman b. ʿAwf
+  action: leads the sunset prayer drunk and confuses al-Kafirun
+  outcome: 4:43 revealed
+- id: h-6882.1-jawbone
+  ref: Jāmiʿ 60:6882.1
+  unit: hadith-60-wine-in-stages
+  agent: a man
+  action: strikes Saʿd with a camel's jawbone
+  instrument: jaw of a roast camel's head
+  outcome: Saʿd's nose split; 5:90 revealed
+  place: a garden (hashsh)
+- id: h-6882.2-umar
+  ref: Jāmiʿ 60:6882.2
+  unit: hadith-60-wine-in-stages
+  agent: Umar
+  action: prays three times for a clear word on wine
+  number: 3
+  outcome: '''we desist'''
+  quoted: allahumma bayyin lana fi al-khamr bayanan shifaʾan
+- id: h-6882.2-herald
+  ref: Jāmiʿ 60:6882.2
+  unit: hadith-60-wine-in-stages
+  agent: the prophet's herald
+  action: cries that no drunk may come near the prayer
+  time: when the prayer is called
+- id: h-6883.1-ten
+  ref: Jāmiʿ 60:6883.1
+  unit: hadith-60-tayammum
+  object: clean earth
+  action: serves as ablution
+  number: 10
+  time: ten years without water
+- id: h-6883.3-necklace
+  ref: Jāmiʿ 60:6883.3
+  unit: hadith-60-tayammum
+  agent: Aisha
+  action: loses her necklace
+  place:
+  - al-Baydaʾ
+  - Dhat al-Jaysh
+  outcome: tayammum verse; necklace found under the camel
+- id: h-6884.2-two
+  ref: Jāmiʿ 60:6884.2
+  unit: hadith-60-all-but-shirk-forgiven
+  agent: God
+  action: may forgive every sin but two
+  object:
+  - dying an unbeliever
+  - deliberately killing a believer
+  number: 2
+- id: h-6884.3-intercession
+  ref: Jāmiʿ 60:6884.3
+  unit: hadith-60-all-but-shirk-forgiven
+  agent: the prophet
+  action: stores his prayer as intercession
+  recipient: grave sinners of his community
+- id: h-6886.1-molar
+  ref: Jāmiʿ 60:6886.1
+  unit: hadith-60-skin-of-the-damned-and-shade-tree
+  object: unbeliever in hell
+  action: molar like Uhud, skin three days thick
+  number: 3
+  name: Uhud
+- id: h-6886.2-tree
+  ref: Jāmiʿ 60:6886.2
+  unit: hadith-60-skin-of-the-damned-and-shade-tree
+  object: a tree in paradise
+  action: a rider travels in its shade
+  number: 100
+  time: a hundred years
+- id: h-6886.4-key
+  ref: Jāmiʿ 60:6886.4
+  unit: hadith-60-key-of-the-kaaba
+  agent: the prophet
+  action: takes the Kaaba key, breaks a wooden dove, returns the key
+  recipient: ʿUthman b. Talha
+  object:
+  - key
+  - dove of wood
+  quoted: al-yawm yawm birr wa-wafaʾ
+- id: h-6886.4-circuit
+  ref: Jāmiʿ 60:6886.4
+  unit: hadith-60-key-of-the-kaaba
+  agent: the prophet
+  action: circles the House on his mount
+  number: 7
+  instrument: mihjan (crooked staff)
+- id: h-6887.1-ear
+  ref: Jāmiʿ 60:6887.1
+  unit: hadith-60-key-of-the-kaaba
+  agent: the prophet
+  action: puts thumb on ear and finger on eye reciting 'hearing, seeing'
+  instrument:
+  - thumb
+  - forefinger
+- id: h-6888.1-raid
+  ref: Jāmiʿ 60:6888.1
+  unit: hadith-60-obey-those-in-authority
+  object: '4:59'
+  action: revealed about a raid commander
+  name: ʿAbdallah b. Hudhafa
+- id: h-6888.2-kahin
+  ref: Jāmiʿ 60:6888.2
+  unit: hadith-60-obey-those-in-authority
+  agent: Abu Barza (Abu Burda) the soothsayer
+  action: judges disputes
+  recipient:
+  - Jews
+  - men of Aslam
+- id: h-6889.1-hand
+  ref: Jāmiʿ 60:6889.1
+  unit: hadith-60-two-who-prayed-in-camp
+  agent: Yazid b. al-Aswad
+  action: presses the prophet's hand to his face
+  place: Masjid al-Khayf
+  outcome: nothing sweeter or cooler
+- id: h-6889.1-repeat
+  ref: Jāmiʿ 60:6889.1
+  unit: hadith-60-two-who-prayed-in-camp
+  agent: two men
+  action: prayed in their tents and are brought trembling
+  outcome: pray again with the congregation as voluntary
+- id: h-6891.1-water
+  ref: Jāmiʿ 60:6891.1
+  unit: hadith-60-zubayrs-water
+  agent: the prophet
+  action: judges a water dispute
+  recipient:
+  - al-Zubayr
+  - an Ansari
+  place: channel of the Harra
+  outcome: water then hold until it reaches the walls
+  quoted: ihbis al-maʾ hatta yarjiʿa ila al-jadr
+- id: h-6893.1-choice
+  ref: Jāmiʿ 60:6893.1
+  unit: hadith-60-with-the-prophets-in-paradise
+  agent: the prophet
+  action: is given the choice between this world and the next
+  time: his last illness
+  outcome: recites 4:69
+- id: h-6893.2-lover
+  ref: Jāmiʿ 60:6893.2
+  unit: hadith-60-with-the-prophets-in-paradise
+  agent: a man
+  action: fears he will not see the prophet in paradise
+  outcome: Jibril brings 4:69
+- id: h-6893.3-prostration
+  ref: Jāmiʿ 60:6893.3
+  unit: hadith-60-with-the-prophets-in-paradise
+  agent: Rabiʿa b. Kaʿb
+  action: asks for the prophet's company in paradise
+  outcome: '''help me with much prostration'''
+- id: h-6894.1-spy
+  ref: Jāmiʿ 60:6894.1
+  unit: hadith-60-with-the-prophets-in-paradise
+  agent: the prophet
+  action: asks three times for a man to bring news of the enemy
+  number: 3
+  time: night of the Confederates
+  name: Hudhayfa
+- id: h-6894.2-mother
+  ref: Jāmiʿ 60:6894.2
+  unit: hadith-60-the-oppressed-excused
+  agent: Ibn Abbas
+  action: counts himself and his mother among the oppressed
+  object:
+  - children
+  - women
+- id: h-6895.1-pardon
+  ref: Jāmiʿ 60:6895.1
+  unit: hadith-60-the-oppressed-excused
+  agent: ʿAbd al-Rahman b. ʿAwf and companions
+  action: ask to fight at Mecca
+  place:
+  - Mecca
+  - Medina
+  outcome: told to pardon; at Medina they hold back
+- id: h-6896.1-dust
+  ref: Jāmiʿ 60:6896.1
+  unit: hadith-60-quarrelling-over-scripture
+  agent: the prophet
+  action: throws dust at elders disputing a verse
+  outcome: '''nations perished thus'''
+  quoted: darbihim al-kutub baʿdaha bi-baʿd
+- id: h-6897.3-greeting
+  ref: Jāmiʿ 60:6897.3
+  unit: hadith-60-intercede-and-greet
+  agent: three men
+  action: greet in rising forms
+  number:
+  - 10
+  - 20
+  - 30
+- id: h-6898.1-leave
+  ref: Jāmiʿ 60:6898.1
+  unit: hadith-60-intercede-and-greet
+  agent: a man
+  action: leaves a gathering without greeting
+  outcome: greet on leaving as on arriving
+  number:
+  - 10
+  - 20
+  - 30
+- id: h-6899.1-dross
+  ref: Jāmiʿ 60:6899.1
+  unit: hadith-60-medina-expels-dross
+  agent: Medina
+  action: expels men
+  instrument: fire
+  object: dross of iron
+  time: after the return from Uhud
+- id: h-6899.3-furqan
+  ref: Jāmiʿ 60:6899.3
+  unit: hadith-60-no-repentance-for-murder
+  agent: Ibn Abbas
+  action: assigns the Furqan verse to pagans and 4:93 to Muslims
+  outcome: 'Mujahid: ''unless he repented'''
+- id: h-6900.3-six
+  ref: Jāmiʿ 60:6900.3
+  unit: hadith-60-no-repentance-for-murder
+  agent: Zayd b. Thabit
+  action: dates the hard verse after the soft
+  number: 6
+  time: six months
+- id: h-6901.1-greet
+  ref: Jāmiʿ 60:6901.1
+  unit: hadith-60-killed-after-greeting
+  agent: Muslims
+  action: kill a man who greeted them and take his flock
+- id: h-6901.2-idam
+  ref: Jāmiʿ 60:6901.2
+  unit: hadith-60-killed-after-greeting
+  agent: Muhallim b. Jaththama
+  action: kills ʿAmir al-Ashjaʿi who greeted them
+  place: Batn Idam
+  object:
+  - camel
+  - goods
+  - skin of milk
+- id: h-6902.2-thigh
+  ref: Jāmiʿ 60:6902.2
+  unit: hadith-60-except-those-with-impairment
+  agent: Zayd b. Thabit
+  action: writes as revelation comes
+  instrument: the prophet's thigh on his
+  outcome: '''except those with impairment'' added'
+  name: Ibn Umm Maktum
+- id: h-6903.3-eyes
+  ref: Jāmiʿ 60:6903.3
+  unit: hadith-60-except-those-with-impairment
+  agent: the prophet
+  action: at revelation eyes stay open and staring
+  name: al-Falatan b. ʿAsim
+  outcome: the blind man fears the prophet's anger
+- id: h-6904.1-sawad
+  ref: Jāmiʿ 60:6904.1
+  unit: hadith-60-muslims-in-the-pagan-ranks
+  agent: Muslims in the pagan army
+  action: are killed by arrows
+  outcome: 4:97 revealed
+- id: h-6904.2-letters
+  ref: Jāmiʿ 60:6904.2
+  unit: hadith-60-muslims-in-the-pagan-ranks
+  agent: Muslims of Medina
+  action: write the verses to believers in Mecca
+  number: 3
+  outcome:
+  - 4:97
+  - '29:10'
+  - 16:110
+- id: h-6905.2-najji
+  ref: Jāmiʿ 60:6905.2
+  unit: hadith-60-save-the-oppressed
+  agent: the prophet
+  action: prays by name for the oppressed
+  time: night prayer, before prostrating
+  name:
+  - ʿAyyash
+  - Salama b. Hisham
+  - al-Walid b. al-Walid
+  - Mudar
+- id: h-6905.3-damra
+  ref: Jāmiʿ 60:6905.3
+  unit: hadith-60-muslims-in-the-pagan-ranks
+  agent: Damra of Banu Bakr
+  action: asks to be carried out of Mecca and points to Medina
+  outcome: 4:100 revealed
+- id: h-6906.1-four
+  ref: Jāmiʿ 60:6906.1
+  unit: hadith-60-shortened-prayer
+  agent: God
+  action: prescribes the prayer
+  number:
+  - 4
+  - 2
+  - 1
+  object:
+  - home
+  - journey
+  - fear
+- id: h-6907.1-charity
+  ref: Jāmiʿ 60:6907.1
+  unit: hadith-60-shortened-prayer
+  agent: Umar
+  action: asks why shortening when safe
+  outcome: '''a charity God has given you'''
+  name: Yaʿla b. Umayya
+- id: h-6907.3-usfan
+  ref: Jāmiʿ 60:6907.3
+  unit: hadith-60-fear-prayer-at-usfan
+  agent: the prophet
+  action: leads the fear prayer in two ranks
+  place:
+  - ʿUsfan
+  - land of Banu Sulaym
+  name: Khalid b. al-Walid
+  number: 2
+  time: between noon and afternoon prayers
+- id: h-6908.1-wounded
+  ref: Jāmiʿ 60:6908.1
+  unit: hadith-60-fear-prayer-at-usfan
+  agent: ʿAbd al-Rahman b. ʿAwf
+  action: wounded, may lay down his weapon in prayer
+- id: h-6909.1-always
+  ref: Jāmiʿ 60:6909.1
+  unit: hadith-60-remembering-god-at-all-times
+  agent: the prophet
+  action: remembers God at all his moments
+- id: h-6912.1-shaver
+  ref: Jāmiʿ 60:6912.1
+  unit: hadith-60-discord-the-shaver
+  object: discord between people
+  outcome: the shaver of religion
+  quoted: hiya al-haliqa
+- id: h-6913.1-error
+  ref: Jāmiʿ 60:6913.1
+  unit: hadith-60-community-not-on-error
+  agent: God
+  action: will not gather this community on error
+  quoted: yad allah ʿala al-jamaʿa
+- id: h-6915.1-mother
+  ref: Jāmiʿ 60:6915.1
+  unit: hadith-60-mother-of-abraham
+  agent: a man in the congregation
+  action: cries out when Muʿadh recites 4:125
+  place: Yemen
+  quoted: la-qad qarrat ʿaynu ummi ibrahim
+- id: h-6915.2-palm
+  ref: Jāmiʿ 60:6915.2
+  unit: hadith-60-orphan-girls-fatwa
+  agent: a guardian
+  action: keeps his ward unmarried to keep her share
+  object: her property, even the date palm (ʿidhq)
+- id: h-6917.1-sawda
+  ref: Jāmiʿ 60:6917.1
+  unit: hadith-60-sawda-gives-her-day
+  agent: Sawda bint Zamʿa
+  action: gives her day to Aisha
+  time: when she grew old
+- id: h-6917.2-round
+  ref: Jāmiʿ 60:6917.2
+  unit: hadith-60-sawda-gives-her-day
+  agent: the prophet
+  action: approaches each wife daily without intercourse and sleeps with the one whose day it is
+- id: h-6917.4-rafi
+  ref: Jāmiʿ 60:6917.4
+  unit: hadith-60-sawda-gives-her-day
+  agent: Rafiʿ b. Khadij
+  action: divorces his older wife and takes her back on terms
+  number: 2
+  outcome: she bears his preference for the young wife
+- id: h-6918.1-side
+  ref: Jāmiʿ 60:6918.1
+  unit: hadith-60-leaning-to-one-wife
+  agent: a husband of two wives
+  action: favours one
+  time: Day of Resurrection
+  outcome: comes with one side drooping
+- id: h-6919.2-horns
+  ref: Jāmiʿ 60:6919.2
+  unit: hadith-60-hypocrites-prayer
+  agent: the hypocrite
+  action: pecks four rakas
+  time: when the sun is between Satan's horns
+  number: 4
+- id: h-6920.1-sheep
+  ref: Jāmiʿ 60:6920.1
+  unit: hadith-60-hypocrites-prayer
+  agent: the hypocrite
+  action: strays like a ewe between two flocks
+  number: 2
+- id: h-6921.1-pebbles
+  ref: Jāmiʿ 60:6921.1
+  unit: hadith-60-hypocrisy-on-better-men
+  agent: Hudhayfa
+  action: throws pebbles to call al-Aswad
+  outcome: hypocrisy came on better men who repented
+- id: h-6922.1-descend
+  ref: Jāmiʿ 60:6922.1
+  unit: hadith-60-son-of-mary-descends
+  agent: the son of Mary
+  action: descends as just judge
+  object:
+  - the cross
+  - the swine
+  - the poll-tax
+  number: 40
+  outcome: dies and Muslims pray over him
+  quoted: fa-yaksiru al-salib wa-yaqtulu al-khinzir
+- id: h-6923.1-extol
+  ref: Jāmiʿ 60:6923.1
+  unit: hadith-60-do-not-overpraise-me
+  agent: the prophet
+  action: forbids extolling him as Christians extolled the son of Mary
+  quoted: ʿabd allah wa-rasuluh
+- id: h-6923.2-abraham
+  ref: Jāmiʿ 60:6923.2
+  unit: hadith-60-do-not-overpraise-me
+  agent: the prophet
+  action: 'answers ''best of creation'': that is Abraham'
+  name: Ibrahim
+- id: h-6924.2-ablution
+  ref: Jāmiʿ 60:6924.2
+  unit: hadith-60-kalala
+  agent: the prophet
+  action: pours his ablution water on the unconscious Jabir
+  outcome: Jabir comes to; the kalala verse revealed
+- id: h-6925.1-sixth
+  ref: Jāmiʿ 60:6925.1
+  unit: hadith-60-kalala
+  agent: Ibn Masʿud
+  action: divides the estate
+  object:
+  - daughter half
+  - son's daughter a sixth
+  - sister the rest
+  outcome: 'Abu Musa: ''do not ask me while this learned man is among you'''
+- id: h-6926.2-miʿrad
+  ref: Jāmiʿ 60:6926.2
+  unit: hadith-60-forbidden-flesh
+  agent: the prophet
+  action: rules on game hit by a throwing-stick
+  instrument: miʿrad
+  outcome:
+  - 'edge: eat'
+  - 'flat: waqidh'
+- id: h-6927.1-blood
+  ref: Jāmiʿ 60:6927.1
+  unit: hadith-60-forbidden-flesh
+  agent: Abu Umama
+  action: refuses to eat from a bowl of blood
+  recipient: his tribe
+  outcome: recites 5:3
+- id: h-6927.2-images
+  ref: Jāmiʿ 60:6927.2
+  unit: hadith-60-forbidden-flesh
+  agent: the prophet
+  action: has the gods taken out of the House
+  object: images of Ibrahim and Ismaʿil holding divining arrows
+  quoted: la-qad ʿalimu ma staqsama biha qattu
+- id: h-6928.1-arafa
+  ref: Jāmiʿ 60:6928.1
+  unit: hadith-60-religion-perfected-on-arafa
+  agent: a Jew
+  action: says Jews would take the day of 5:3 as a feast
+  recipient: Umar
+  time:
+  - Friday
+  - day of ʿArafa
+  place: ʿArafat
+- id: h-6929.1-miqdad
+  ref: Jāmiʿ 60:6929.1
+  unit: hadith-60-not-like-israel-to-moses
+  agent: al-Miqdad
+  action: refuses to say what Israel said to Moses
+  place: Badr
+  quoted: fa-dhhab anta wa-rabbuka fa-qatila
+- id: h-6930.2-adam
+  ref: Jāmiʿ 60:6930.2
+  unit: hadith-60-be-like-the-son-of-adam
+  agent: the prophet
+  action: tells Saʿd in civil strife to be like the son of Adam
+  quoted: kun ka-bni adam
+- id: h-6931.1-scorpion
+  ref: Jāmiʿ 60:6931.1
+  unit: hadith-60-saving-a-life-by-charm
+  agent: a man
+  action: asks to charm a scorpion sting
+  outcome: '''whoever can benefit his brother, let him'''
+- id: h-6931.2-urayna
+  ref: Jāmiʿ 60:6931.2
+  unit: hadith-60-uraniyyun
+  agent: desert visitors
+  action: drink camels' milk and urine, recover, kill the herdsman and drive off the camels
+  outcome: judged as war on God and his messenger
+- id: h-6932.1-rajm
+  ref: Jāmiʿ 60:6932.1
+  unit: hadith-60-the-jews-and-stoning
+  agent: a Jewish scholar
+  action: admits stoning when adjured by the Torah
+  outcome: the prophet has the man stoned
+  quoted: nashadtuka bi-llah alladhi anzala al-tawrat ʿala musa
+- id: h-6933.1-diya
+  ref: Jāmiʿ 60:6933.1
+  unit: hadith-60-the-jews-and-stoning
+  agent:
+  - the mighty tribe
+  - the lowly tribe
+  action: pay unequal blood-price
+  number:
+  - 100
+  - 50
+  object: wasq
+- id: h-6934.1-tooth
+  ref: Jāmiʿ 60:6934.1
+  unit: hadith-60-tooth-for-tooth
+  agent: al-Rubayyiʿ
+  action: breaks a girl's front tooth
+  outcome: her people accept compensation (arsh)
+  quoted: kitab allah al-qisas
+- id: h-6935.1-choice
+  ref: Jāmiʿ 60:6935.1
+  unit: hadith-60-judge-between-them
+  agent: the prophet
+  action: was free to judge or turn away until 5:49
+- id: h-6935.2-yemen
+  ref: Jāmiʿ 60:6935.2
+  unit: hadith-60-people-he-loves
+  agent: the prophet
+  action: points to Abu Musa at 5:54
+  outcome: '''they are this man''s people'''
+- id: h-6936.1-seven
+  ref: Jāmiʿ 60:6936.1
+  unit: hadith-60-people-he-loves
+  agent: the prophet
+  action: gives Abu Dharr seven commands
+  number: 7
+  quoted: la hawla wa-la quwwata illa bi-llah ... min kanzin taht al-ʿarsh
+- id: h-6936.2-feared
+  ref: Jāmiʿ 60:6936.2
+  unit: hadith-60-people-he-loves
+  agent: God
+  action: asks why the servant did not oppose wrong
+  outcome: '''I trusted you and feared people'''
+- id: h-6937.1-mice
+  ref: Jāmiʿ 60:6937.1
+  unit: hadith-60-the-mice-a-lost-nation
+  agent: the prophet
+  action: suggests a lost nation of Israel became the mice
+  object:
+  - camels' milk refused
+  - sheep's milk drunk
+  name: Kaʿb
+  quoted: a-fa-aqraʾu al-tawrat
+- id: h-6937.3-zayd
+  ref: Jāmiʿ 60:6937.3
+  unit: hadith-60-convey-what-was-sent-down
+  agent: Aisha
+  action: says he would have concealed the verse on Zayd's wife
+  quoted: amsik ʿalayka zawjak
+- id: h-6938.2-sheet
+  ref: Jāmiʿ 60:6938.2
+  unit: hadith-60-convey-what-was-sent-down
+  agent: ʿAli
+  action: names what is in his sheet
+  object:
+  - blood-money
+  - freeing captives
+  - no Muslim killed for an unbeliever
+  instrument: sahifa
+- id: h-6939.1-witness
+  ref: Jāmiʿ 60:6939.1
+  unit: hadith-60-convey-what-was-sent-down
+  agent: the prophet
+  action: raises his forefinger to the sky and points at the crowd
+  number: 3
+  quoted: allahumma shhad
+- id: h-6939.2-guard
+  ref: Jāmiʿ 60:6939.2
+  unit: hadith-60-guard-before-protection
+  agent: Saʿd b. Abi Waqqas
+  action: comes armed to guard the sleepless prophet
+  outcome: the prophet sleeps and snores
