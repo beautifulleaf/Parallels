@@ -1,0 +1,1963 @@
+new_motifs:
+  deeds-judged-by-intention: {label: "Deeds count only by their intentions; each person gets what he intended", cluster: ethics}
+  emigration-for-a-woman-counts-as-such: {label: "One who emigrates for worldly gain or to marry a woman has emigrated only for that", cluster: ethics}
+  true-dreams-like-daybreak-before-revelation: {label: "Revelation begins with true dreams that come true like the breaking of dawn (falaq al-subh)", cluster: revelation}
+  solitary-devotion-in-mountain-cave: {label: "The prophet secludes himself for nights of devotion (tahannuth) in a mountain cave, taking provisions", cluster: revelation}
+  angel-commands-recite-prophet-cannot-read: {label: "The angel says 'Recite!' and the prophet answers 'I am not one who recites (ma ana bi-qari')'", cluster: revelation}
+  angel-squeezes-prophet-three-times: {label: "The angel seizes and presses the prophet until he is exhausted, three times, before the first verses", cluster: revelation}
+  prophet-trembling-asks-to-be-wrapped: {label: "Trembling after the vision, the prophet asks his household to wrap or cover him (zammiluni, daththiruni)", cluster: revelation}
+  wife-reassures-by-listing-his-virtues: {label: "The wife reassures the frightened prophet that God will not disgrace him, listing his kindnesses to kin, the weak and guests", cluster: revelation}
+  christian-kinsman-recognizes-the-namus-of-moses: {label: "An aged blind Christian kinsman who copied the Gospel in Hebrew identifies the visitor as the namus sent to Moses", cluster: revelation}
+  every-bringer-of-such-message-met-hostility: {label: "No one ever brought such a message without being met with enmity; his people will drive him out", cluster: prophecy}
+  each-prophet-given-a-convincing-sign: {label: "Every prophet was given a sign of the kind people believed in; this prophet was given revelation (the Quran)", cluster: prophecy}
+  prophet-hopes-most-followers-on-judgment-day: {label: "The prophet hopes to have the most followers of all prophets on the day of resurrection", cluster: eschatology}
+  revelation-like-ringing-of-a-bell: {label: "Revelation sometimes comes like the ringing (salsala) of a bell, the hardest kind", cluster: revelation}
+  angel-takes-form-of-a-man: {label: "The angel takes the likeness of a man and speaks to the prophet", cluster: angels}
+  prophet-sweats-in-cold-at-revelation: {label: "Under revelation the prophet's brow streams with sweat like pearls even on a cold day", cluster: revelation}
+  prophet-covered-with-cloth-during-revelation: {label: "The prophet is screened with a cloth while revelation descends; a companion lifts its edge to look", cluster: revelation}
+  prophet-snores-like-young-camel-at-revelation: {label: "Under revelation the prophet makes a snoring sound like a young camel (ghatit al-bakr)", cluster: revelation}
+  pilgrim-told-to-wash-off-saffron-and-remove-robe: {label: "A man in umra is told to wash off the saffron scent and take off his robe, and do in umra what he does in hajj", cluster: ritual}
+  face-darkens-and-heads-bow-at-revelation: {label: "At revelation the prophet's face darkens with distress and he and his companions bow their heads", cluster: revelation}
+  weight-of-revelation-on-a-companions-thigh: {label: "Revelation descends while the prophet's thigh lies on a scribe's thigh, pressing it nearly to breaking", cluster: revelation}
+  camel-sinks-under-weight-of-revelation: {label: "When revelation comes while he rides, his camel strikes the ground with its neck (jiran) under the weight", cluster: revelation}
+  angel-seated-on-throne-between-heaven-and-earth: {label: "The prophet hears a voice and sees the angel of the cave seated on a throne (kursi, 'arsh) between sky and earth", cluster: revelation}
+  voice-calls-from-all-sides-none-seen: {label: "He is called, looks in front, behind, right and left and sees no one, until he raises his head", cluster: revelation}
+  retreat-of-a-month-at-hira: {label: "The prophet keeps a month's retreat (jiwar) at Hira before the call", cluster: revelation}
+  rujz-glossed-as-idols: {label: "The 'filth' (rujz) to be shunned is glossed as the idols (al-awthan)", cluster: idolatry}
+  prophet-moves-lips-to-hold-revelation: {label: "The prophet moves his lips hurrying to retain the revelation; a transmitter imitates the movement", cluster: revelation}
+  god-gathers-revelation-in-the-prophets-breast: {label: "God undertakes to gather the revelation in the prophet's breast; he is to listen in silence and recite after the angel leaves", cluster: revelation}
+  devils-sent-east-and-west-to-find-cause: {label: "Devils barred from heaven's news are sent across the east and west of the earth to find what new thing caused it", cluster: jinn}
+  jinn-hear-quran-at-dawn-prayer: {label: "A band of jinn hears the prophet reciting the Quran at the dawn prayer and recognizes the cause of their exclusion", cluster: jinn}
+  prophet-concealed-nothing-of-revelation: {label: "Whoever says the prophet concealed any of the revelation is not to be believed", cluster: revelation}
+  angels-beat-wings-sound-like-chain-on-rock: {label: "When God speaks a decree the angels beat their wings in submission with a sound like a chain dragged on smooth rock", cluster: angels}
+  angels-swoon-at-gods-speech-until-gabriel-comes: {label: "The heavenly beings fall stunned at God's speech until Gabriel comes; they ask 'what did your Lord say?' and answer 'The truth'", cluster: angels}
+  eavesdroppers-stacked-one-above-another: {label: "Stealers of hearing stand one above another, passing a heard word down to the earth", cluster: jinn}
+  one-stolen-word-mixed-with-hundred-lies: {label: "A soothsayer mixes one word stolen from heaven with a hundred lies and is believed for the true one", cluster: divination}
+  scribe-called-with-tablet-inkwell-shoulder-blade: {label: "The prophet calls his scribe to bring the tablet, inkwell and shoulder-blade to write a verse", cluster: revelation}
+  revelation-most-frequent-before-prophets-death: {label: "Revelation came most densely in the period just before the prophet's death", cluster: revelation}
+  weeping-that-revelation-from-heaven-has-ceased: {label: "After the prophet's death a woman weeps not for him but because revelation from heaven has been cut off", cluster: revelation}
+  sermon-from-creation-to-final-abodes: {label: "The prophet stands and tells everything from the beginning of creation to the Hour and the final abodes; some remember, some forget", cluster: prophecy}
+  man-denies-and-insults-god: {label: "Divine saying: the son of Adam belies me (saying I will not recreate him) and insults me (saying God took a son)", cluster: theology}
+  first-creation-not-easier-than-repeating-it: {label: "The first creation is no easier for God than its repetition", cluster: eschatology}
+  all-creatures-made-from-water: {label: "Asked what creation was made from, the prophet answers: from water; everything was created from water", cluster: cosmology}
+  greeting-feeding-kinship-night-prayer-enter-paradise: {label: "Spread greeting, feed others, keep kinship ties, pray at night while people sleep, and enter paradise in peace", cluster: ethics}
+  devil-prompts-question-who-created-god: {label: "Satan leads a person through 'who created this?' until 'who created your Lord?'; one must seek refuge and stop", cluster: demonology}
+  sermon-interrupted-only-by-the-prayers: {label: "A sermon from the dawn prayer to sunset, broken only by descending for the noon and afternoon prayers", cluster: prophecy}
+  forgotten-prediction-recognized-like-a-face: {label: "A forgotten prediction is recalled when it happens, as one recognizes the face of a man long absent", cluster: prophecy}
+  god-alone-before-anything: {label: "God was, and nothing was before him (or besides him)", cluster: cosmology}
+  all-things-written-in-the-dhikr: {label: "God wrote everything in the Record (al-dhikr) at the beginning", cluster: cosmology}
+  pen-first-created-and-told-to-write: {label: "The first thing God created was the Pen; he told it 'Write!' and it wrote the measures of everything until the Hour", cluster: cosmology}
+  pen-taken-in-gods-right-hand: {label: "God takes the first-created pen in his right hand, 'and both his hands are right'", cluster: cosmology}
+  deeds-copied-from-a-finished-record: {label: "Human deeds are 'transcribed' (nastansikh), and a copy can only be made from something already complete", cluster: theology}
+  what-strikes-you-could-not-miss-you: {label: "What befell you could never have missed you, and what missed you could never have befallen you", cluster: theology}
+  lost-camel-beyond-the-mirage: {label: "A listener leaves to chase his strayed camel, the mirage cutting off his view, and regrets missing the rest", cluster: narrative-frame}
+  god-in-a-cloud-with-air-above-and-below: {label: "Before creating, God was in a cloud ('ama'), with air beneath it and air above it", cluster: cosmology}
+  seventy-thousand-angels-daily-never-returning: {label: "Seventy thousand angels enter (pray in) the heavenly house each day and never return to it", cluster: angels}
+  heavenly-house-directly-above-the-kaba: {label: "The heavenly house (al-durah) is built like the Ka'ba and stands directly above it: if it fell it would fall on it", cluster: sacred-space}
+  abraham-met-in-seventh-heaven: {label: "On the ascent the prophet meets Abraham in the seventh heaven, his back against the frequented House", cluster: ascent}
+  lote-tree-of-the-boundary-shown: {label: "On the ascent the Lote-Tree of the Boundary is raised up before the prophet", cluster: ascent}
+  stolen-land-hung-as-collar-through-seven-earths: {label: "Whoever takes a handspan of land unjustly has it hung round his neck as a collar from seven earths", cluster: eschatology}
+  land-thief-sunk-through-seven-earths: {label: "Whoever takes land without right is sunk on resurrection day down through seven earths", cluster: eschatology}
+  time-returned-to-its-form-at-creation: {label: "Time has come round to its form on the day God created heaven and earth", cluster: calendar}
+  blood-property-honour-sacred-as-this-day: {label: "Your blood, property and honour are sacred as this day, in this land, in this month", cluster: law}
+  present-to-inform-the-absent: {label: "Let the one present convey to the one absent; the hearer may understand better than the witness", cluster: transmission}
+  decrees-written-fifty-thousand-years-before-creation: {label: "God wrote the measures of creatures fifty thousand years before creating heaven and earth", cluster: cosmology}
+  lord-of-gabriel-michael-israfil: {label: "Night prayer opening: 'O God, Lord of Gabriel, Michael and Israfil, originator of heaven and earth'", cluster: prayer}
+  gods-right-hand-full-unspent: {label: "God's right hand is full; spending night and day has not diminished it; in the other hand is the scale that raises and lowers", cluster: theology}
+  oath-by-maker-of-sky-earth-mountains: {label: "A bedouin adjures the prophet by the one who made the sky, earth and set up the mountains: did God send you?", cluster: prophecy}
+  five-prayers-zakat-ramadan-pilgrimage-listed: {label: "The duties listed: five daily prayers, alms on property, fast of Ramadan, pilgrimage for whoever is able", cluster: law}
+  neither-add-nor-subtract-gains-paradise: {label: "One who swears to do these duties without adding or subtracting will enter paradise if truthful", cluster: law}
+  sun-prostrates-under-throne-each-night: {label: "Each night the sun goes to its resting place under the Throne and falls prostrate until told to return and rise", cluster: cosmology}
+  sun-ordered-to-rise-from-the-west: {label: "One day the sun is told: rise from your setting place, and it rises in the west", cluster: eschatology}
+  faith-unaccepted-after-sign-of-the-end: {label: "When the sun rises from the west, faith not believed before will no longer profit a soul", cluster: eschatology}
+  sun-and-moon-rolled-up-at-resurrection: {label: "Sun and moon will be rolled up (mukawwaran) on the day of resurrection", cluster: eschatology}
+  eclipse-not-for-anyones-death-or-life: {label: "Sun and moon do not eclipse for anyone's death or life; they are two signs of God", cluster: cosmology}
+  eclipse-on-the-day-the-prophets-son-died: {label: "The sun eclipsed the day the prophet's son Ibrahim died and people said it was for his death", cluster: cosmology}
+  prayer-and-remembrance-at-eclipse: {label: "When you see an eclipse, pray, remember and call on God until it clears", cluster: ritual}
+  eclipse-sent-to-frighten-gods-servants: {label: "God frightens his servants by eclipses of sun and moon", cluster: cosmology}
+  helped-by-east-wind-ad-destroyed-by-west-wind: {label: "The prophet was helped by the east wind (saba) and 'Ad were destroyed by the west wind (dabur)", cluster: punishment-stories}
+  prophet-alarmed-by-wind-and-cloud: {label: "At strong wind or a gathering cloud the prophet paces, goes in and out, his face changes, until rain falls", cluster: piety}
+  angels-created-from-light: {label: "The angels were created from light (nur)", cluster: angels}
+  adam-made-of-what-was-described: {label: "Adam was created 'from what has been described to you'", cluster: primeval}
+  three-kinds-of-jinn: {label: "Three kinds of jinn: winged ones that fly in the air, snakes (and dogs), and those who camp and move on", cluster: jinn}
+  prophet-taken-by-summoner-of-the-jinn: {label: "A summoner of the jinn takes the prophet away by night to recite the Quran to them; next day he shows their traces and fires", cluster: jinn}
+  companions-fear-prophet-snatched-by-jinn: {label: "Companions search valleys all night fearing the prophet was carried off (ustutir) or assassinated", cluster: jinn}
+  bones-and-dung-food-of-jinn: {label: "Bones over which God's name was said are food of the jinn, refleshed; dung is fodder for their animals", cluster: jinn}
+  no-cleansing-with-bone-or-dung: {label: "Do not clean yourself after relieving yourself with bone or dung, for they are your brothers' food", cluster: purity}
+  prophet-neither-saw-nor-recited-to-jinn: {label: "Report that the prophet did not recite to the jinn nor see them; they overheard him", cluster: jinn}
+  nine-jinn-one-named-zawba-a: {label: "The jinn who listened at Nakhla were nine; one was named Zawba'a; they said 'hush' (sah)", cluster: jinn}
+  jinn-delegation-of-nisibin: {label: "A delegation of the jinn of Nisibin ('excellent jinn') comes asking provision", cluster: jinn}
+  gods-name-at-door-and-meal-bars-devil: {label: "If God is named on entering the house and at supper, the devil tells his fellows: no lodging, no supper", cluster: demonology}
+  privies-frequented-by-jinn: {label: "Privies are haunted; on entering say 'I seek refuge with God from the male and female foul ones (khubth, khaba'ith)'", cluster: demonology}
+  all-within-earshot-of-adhan-testify: {label: "No jinn, human or thing within reach of the muezzin's voice hears it but will testify for him at resurrection", cluster: ritual}
+  jinni-clucks-word-into-soothsayers-ear: {label: "The jinni cackles the snatched word into the ear of his human ally like a hen clucking (qarqarat al-dajaja)", cluster: divination}
+  bridegroom-and-snake-die-together: {label: "A newly married man spears a great snake coiled on his bed; it writhes on the spear and both die, none knows which first", cluster: jinn}
+  house-snakes-are-muslim-jinn-warned-three-days: {label: "Some snakes in houses are jinn who became Muslim; warn them for three days, then kill as a devil", cluster: jinn}
+  two-striped-and-tailless-snakes-blind-and-abort: {label: "The two-striped (dhu l-tufyatayn) and tailless (abtar) snakes are to be killed: they blind the eye and make women miscarry", cluster: law}
+  young-husband-returns-at-noon-from-the-trench: {label: "A newly wed youth asks leave from the Trench at midday to visit his wife and is told to take his weapons", cluster: narrative-frame}
+  black-dog-with-two-spots-is-devil: {label: "The jet-black dog with two spots (above the eyes) is a devil and may be killed", cluster: demonology}
+  killing-of-dogs-ordered-then-restricted: {label: "The order to kill dogs, even a desert woman's dog, is later withdrawn except for the black one", cluster: law}
+  thief-caught-three-times-pleads-family: {label: "A night thief at the alms store, caught three times, pleads need and dependants and is let go each time", cluster: demonology}
+  prophet-foretells-the-thief-will-return: {label: "The prophet tells the guard 'he lied to you and will return' before it happens", cluster: prophecy}
+  captive-devil-teaches-throne-verse-as-protection: {label: "To be released the captive devil teaches the Throne Verse (ayat al-kursi): recited at bedtime, a guardian stays till morning", cluster: demonology}
+  he-told-you-truth-though-a-liar: {label: "'He told you the truth, though he is a liar' - the prophet reveals the night visitor was a devil", cluster: demonology}
+  jinni-with-dogs-hand-and-hair: {label: "A jinni like an adolescent boy has a dog's hand and dog's hair: 'thus are the jinn created'", cluster: jinn}
+  ghoul-steals-dates-from-store: {label: "A ghoul (ghul) comes to steal dates from a storage alcove", cluster: demonology}
+  devil-enters-as-elephant-through-door-crack: {label: "A great shadow covers the door, enters through its crack and turns into the form of an elephant eating the dates", cluster: demonology}
+  jinn-expelled-from-town-at-prophets-coming: {label: "The thief-jinni says the town was theirs until the prophet was sent and they were driven out", cluster: jinn}
+  end-of-baqara-keeps-devil-from-house: {label: "Reciting the end of the Cow (2:284-286) keeps the devil from entering the house", cluster: demonology}
+  captive-told-in-gods-name-answer-the-prophet: {label: "The householder is told to say to the ghoul 'In God's name, answer the Messenger of God', and so seizes her", cluster: demonology}
+  devil-despairs-of-worship-in-arabia: {label: "Satan despairs of being worshipped by those who pray in Arabia, but works by setting them against one another", cluster: demonology}
+  iblis-throne-on-the-water: {label: "Iblis sets his throne on the water (the sea)", cluster: demonology}
+  iblis-sends-troops-and-praises-who-splits-a-couple: {label: "Iblis sends out troops; he brings nearest the one who caused the greatest trial, praising the one who parted a man from his wife", cluster: demonology}
+  false-seer-sees-throne-on-water: {label: "Ibn Sayyad says he sees a throne on the water; the prophet: you see Iblis's throne on the sea", cluster: demonology}
+  no-sitting-between-sun-and-shade: {label: "Prohibition of sitting partly in sun and partly in shade", cluster: demonology}
+  children-kept-in-at-nightfall-when-devils-spread: {label: "At nightfall keep children in, for devils spread abroad; let them out after an hour", cluster: demonology}
+  devil-cannot-open-closed-door: {label: "Close doors naming God, for the devil does not open a closed door; tie waterskins, cover vessels, put out lamps", cluster: demonology}
+  devil-walks-in-one-sandal: {label: "Walking in one sandal is forbidden: the devil walks in one sandal", cluster: demonology}
+  gabriel-sent-to-inspect-paradise-and-hell: {label: "After creating paradise and hell God sends Gabriel to look at each and at what is prepared for its people", cluster: eschatology}
+  paradise-ringed-with-hardships-hell-with-desires: {label: "God surrounds paradise with hardships (makarih) and hell with desires (shahawat)", cluster: eschatology}
+  none-will-enter-none-will-escape: {label: "Gabriel fears that now no one will enter paradise, and no one escape hell", cluster: eschatology}
+  paradise-and-hell-each-created-with-its-people: {label: "God created paradise and hell and created for each its people; a dead child is not to be called a sparrow of paradise", cluster: theology}
+  human-made-of-360-joints: {label: "Every human is created with three hundred and sixty joints; a charity for each saves from the fire", cluster: anatomy}
+  forty-between-the-two-trumpet-blasts: {label: "Between the two blasts are 'forty'; the narrator refuses to say forty days, months or years", cluster: eschatology}
+  rain-makes-the-dead-sprout-like-herbs: {label: "God sends down water from the sky and the dead sprout as herbs sprout", cluster: eschatology}
+  tailbone-never-decays-man-rebuilt-from-it: {label: "All of a man decays but one bone, the tailbone ('ajb al-dhanab): from it he was made and from it he is reassembled", cluster: eschatology}
+  embryo-forty-days-each-as-drop-clot-lump: {label: "The embryo is gathered forty days, then is a clot for the like, then a lump for the like", cluster: anatomy}
+  angel-writes-four-things-for-the-embryo: {label: "An angel is sent to the embryo to write four things: deeds, provision, term, and wretched or blessed", cluster: theology}
+  spirit-breathed-in-after-embryo-stages: {label: "After the embryo's stages the spirit is breathed into it", cluster: anatomy}
+  decree-overtakes-one-a-cubit-from-the-end: {label: "One works till a cubit from paradise, then the written decree overtakes him and he does the deeds of hell, and the reverse", cluster: theology}
+  parents-make-child-jew-or-christian: {label: "Every child is born on the fitra; its parents make it a Jew or a Christian", cluster: theology}
+  newborn-beast-whole-until-ears-cut: {label: "As a beast is born whole and people cut its ears, so the child is born sound", cluster: parable}
+  god-knows-what-dead-children-would-have-done: {label: "Of children who die young: God knows best what they would have done", cluster: theology}
+  devils-drive-hanif-servants-from-their-religion: {label: "Divine saying: I created my servants all hanifs; devils came and turned them from their religion, forbade what I allowed, commanded shirk", cluster: theology}
+  souls-mustered-troops-that-recognize-each-other: {label: "Souls are mustered troops: those that knew each other (before) are drawn together, those that did not are at odds", cluster: anthropology}
+  crooked-rib-breaks-if-straightened: {label: "The rib's most crooked part is its top; straighten it and it breaks, leave it and it stays crooked - so treat women well", cluster: ethics}
+  god-makes-every-maker-and-his-work: {label: "God makes every maker and what he makes", cluster: theology}
+  mercy-in-hundred-parts-one-on-earth: {label: "God made mercy in a hundred parts; one he sent down among all creatures, ninety-nine he kept", cluster: theology}
+  mare-lifts-hoof-from-her-foal: {label: "From that one part of mercy the mare lifts her hoof from her foal lest she hurt it", cluster: theology}
+  each-mercy-fills-space-of-heaven-and-earth: {label: "Each of the hundred mercies fills what lies between heaven and earth", cluster: theology}
+  ninety-nine-mercies-completed-at-resurrection: {label: "On resurrection day God completes the ninety-nine mercies with the one on earth", cluster: eschatology}
+  unbeliever-would-not-despair-believer-not-feel-safe: {label: "If the unbeliever knew God's mercy he would not despair of paradise; if the believer knew his punishment he would not feel safe", cluster: theology}
+  refusal-of-meat-slaughtered-on-cult-stones: {label: "A pre-Islamic monotheist refuses to eat what is slaughtered on the cult stones (ansab), only what God's name was said over", cluster: idolatry}
+  god-made-sheep-and-its-rain-and-pasture: {label: "God made the sheep, sent rain for it and grew its pasture - yet you slaughter it in another's name", cluster: idolatry}
+  ridden-cow-protests-made-for-ploughing: {label: "A man rides and beats a cow; it speaks: we were not created for this, only for ploughing", cluster: animals}
+  wolf-claims-the-sheep-on-the-day-of-the-beast: {label: "A wolf robbed of its sheep says: who will guard her on the day of the beast (yawm al-sab'), when she has no shepherd but me?", cluster: animals}
+  prophet-believes-it-with-abu-bakr-and-umar: {label: "The prophet answers wonder at a speaking animal: I believe it, and Abu Bakr and 'Umar - though they were not present", cluster: narrative-frame}
+  ablution-after-camel-meat-not-mutton: {label: "Ablution is required after eating camel meat but not mutton", cluster: purity}
+  no-prayer-in-camel-pens-pray-in-sheepfolds: {label: "Do not pray in camels' resting places, which are of the devils; pray in sheepfolds, which are blessing", cluster: purity}
+  devil-on-every-camels-hump: {label: "On the hump of every camel is a devil: name God when you mount", cluster: demonology}
+  jesus-kills-dajjal-at-gate-of-lydda: {label: "Jesus overtakes the Dajjal at the eastern gate of Lydda and kills him with a blow he had foretold", cluster: eschatology}
+  stones-and-trees-speak-except-gharqad: {label: "At the end every stone, tree, wall and beast that hides a Jew speaks to betray him, except the gharqad, 'their tree'", cluster: eschatology}
+  god-is-the-physician: {label: "Told 'I am a physician', the prophet answers: God is the physician; you are a gentle one; its physician is he who made it", cluster: theology}
+  lump-between-the-prophets-shoulders: {label: "A visitor sees a lump like a growth (sil'a) between the prophet's shoulders and offers to cut it", cluster: prophecy}
+  fixed-terms-days-and-provisions: {label: "Terms of life are set, days counted, provisions apportioned; nothing comes before or after its time", cluster: theology}
+  transformed-people-left-no-offspring: {label: "God gave no progeny to people he transformed (maskh); apes and pigs existed before them", cluster: punishment-stories}
+  lost-israelite-nation-perhaps-the-mice: {label: "A nation of Israel went missing; the prophet thinks they became the mice", cluster: punishment-stories}
+  mouse-refuses-camels-milk-drinks-sheeps: {label: "The sign: the mouse will not drink camels' milk but drinks sheep's milk", cluster: punishment-stories}
+  do-i-read-the-torah-retort-to-kab: {label: "Asked by Ka'b whether he heard it from the prophet, Abu Hurayra retorts: do I read the Torah? / was the Torah sent down to me?", cluster: transmission}
+  convey-even-a-single-verse: {label: "Convey from me even if it is one verse", cluster: transmission}
+  narrate-from-israelites-no-harm: {label: "Narrate from the Children of Israel, and there is no harm", cluster: transmission}
+  liar-against-prophet-takes-seat-in-fire: {label: "Whoever deliberately lies about the prophet, let him take his seat in the fire", cluster: transmission}
+  meat-rots-because-of-israel: {label: "Were it not for the Children of Israel food would not go bad nor meat rot", cluster: primeval}
+  eves-betrayal-inherited-by-women: {label: "Were it not for Eve no female would ever betray her husband", cluster: primeval}
+  zamzam-would-have-been-flowing-spring: {label: "Had Ishmael's mother not hurried (scooping the water), Zamzam would have been a flowing spring", cluster: abraham}
+  buyer-and-seller-each-refuse-found-treasure: {label: "A buyer finds a jar of gold in land he bought; he and the seller each insist it belongs to the other", cluster: law}
+  judge-marries-their-son-and-daughter-with-the-treasure: {label: "The arbiter asks whether they have children and has the one's son marry the other's daughter, the treasure spent on them and in charity", cluster: law}
+  god-accepted-as-witness-and-surety-for-loan: {label: "A lender accepts God alone as witness and as guarantor for a loan of a thousand dinars", cluster: law}
+  debt-sent-sealed-in-hollow-log-on-the-sea: {label: "Finding no ship, the debtor seals the money and a letter in a hollowed log and commits it to the sea, entrusting it to God", cluster: providence}
+  lender-finds-the-log-as-firewood: {label: "The lender takes the drifting log home as firewood and finds the money and letter when he saws it", cluster: providence}
+  debtor-pays-twice-lender-returns-it: {label: "The debtor arrives with a second thousand; the lender says God has delivered what you sent, and sends him away with it", cluster: providence}
+  thirsty-dog-watered-from-a-shoe-earns-forgiveness: {label: "A thirsty dog is given water drawn in a shoe (khuff, muq), and God forgives the one who did it", cluster: ethics}
+  hermit-chooses-prayer-over-mothers-call: {label: "A monk in his cell, called by his mother while praying, says 'my mother or my prayer?' and keeps praying", cluster: holy-men}
+  mother-curses-son-to-see-prostitutes-faces: {label: "The slighted mother prays that her son not die until he sees the faces of prostitutes", cluster: holy-men}
+  hermit-falsely-named-father-of-shepherds-child: {label: "A woman who conceived by a shepherd names the monk as father; the people pull down his cell and beat him", cluster: holy-men}
+  infant-names-his-real-father: {label: "The accused prays, pokes the infant and asks 'who is your father?'; the infant names the shepherd", cluster: holy-men}
+  hermitage-rebuilt-of-clay-not-gold: {label: "Offered a cell rebuilt of gold, the vindicated monk asks it be rebuilt of mud as before", cluster: holy-men}
+  only-three-spoke-in-the-cradle: {label: "Only three spoke in the cradle: Jesus son of Mary, the child in Jurayj's story, and a suckling infant", cluster: wonder-children}
+  suckling-infant-rejects-tyrant-chooses-slandered-slave: {label: "A suckling infant prays not to be like a splendid rider (a tyrant) but to be like a slave-girl beaten as an adulteress and thief, who is innocent", cluster: wonder-children}
+  prophet-mimics-suckling-with-finger: {label: "The prophet acts out the infant's sucking with his forefinger in his mouth", cluster: narrative-frame}
+  kings-sorcerer-asks-for-a-boy-to-train: {label: "An aging court sorcerer asks the king for a boy to teach sorcery", cluster: martyrdom}
+  boy-tests-monk-against-sorcerer-by-a-stone: {label: "The boy throws a stone at a great beast blocking the road, praying it die if the monk's way is dearer to God than the sorcerer's", cluster: martyrdom}
+  healing-the-blind-and-leper-by-gods-name: {label: "He heals the born-blind and the leper, saying 'I heal no one; God heals'", cluster: martyrdom}
+  martyrs-sawn-in-half-from-the-parting: {label: "Those who will not leave their religion are sawn in two with a saw set at the parting of the hair", cluster: martyrdom}
+  mountain-shakes-and-ship-capsizes-on-executioners: {label: "Taken to be thrown from a mountain and drowned at sea, the boy prays 'suffice me against them' and the executioners fall and drown", cluster: martyrdom}
+  boy-dictates-his-own-execution-in-gods-name: {label: "The boy tells the king he can kill him only by gathering the people, crucifying him and shooting his own arrow 'in the name of God, Lord of the boy'", cluster: martyrdom}
+  crowd-believes-in-the-lord-of-the-boy: {label: "Seeing the boy die, the crowd cries three times 'We believe in the Lord of the boy'", cluster: martyrdom}
+  believers-thrown-into-fire-trenches: {label: "The king digs trenches at the road-mouths, lights fires and throws in whoever will not recant", cluster: martyrdom}
+  infant-tells-mother-be-patient-enter-fire: {label: "A woman hesitates before the fire with her infant; the child says 'Mother, be steadfast, you are in the right'", cluster: martyrdom}
+  rock-seals-cave-mouth-on-three-men: {label: "Three men shelter from rain in a mountain cave and a rock falls over its mouth", cluster: parable}
+  each-pleads-a-deed-and-rock-moves-a-third: {label: "Each prays by a deed done for God's face and the rock moves a little, until all are freed", cluster: parable}
+  son-holds-milk-all-night-by-sleeping-parents: {label: "A son stands all night with the milk at his sleeping parents' heads, unwilling to wake them or feed his crying children first", cluster: parable}
+  man-leaves-cousin-at-the-last-moment: {label: "A man who paid his cousin a hundred dinars leaves her when she says 'fear God, do not break the seal without right'", cluster: parable}
+  hired-mans-wage-grown-into-herd: {label: "An employer invests a refused wage of rice until it becomes cattle and herdsmen, and gives them all to the worker", cluster: parable}
+  people-ruled-by-a-woman-will-not-prosper: {label: "On the Persians crowning Chosroes' daughter: a people who give their affairs to a woman will not prosper", cluster: politics}
+  khidr-named-for-ground-turning-green: {label: "Khidr ('the green') was so named because he sat on bare white ground and it stirred green behind him", cluster: khidr}
+  moses-says-he-is-most-learned-and-is-rebuked: {label: "Asked who is most learned, Moses says 'I', and God reproaches him for not referring knowledge to God", cluster: khidr}
+  lost-fish-marks-the-place: {label: "Moses takes a fish in a basket: where he loses the fish, there the servant will be", cluster: khidr}
+  fish-revives-and-water-stands-like-arch: {label: "The fish stirs, leaps into the sea, and the water's flow is held round its path like an arch (taq)", cluster: khidr}
+  servant-named-joshua-son-of-nun: {label: "Moses' young servant on the journey is named: Joshua son of Nun", cluster: khidr}
+  sage-lying-covered-with-a-cloth: {label: "Moses finds the sage lying wrapped in a garment; he answers the greeting 'whence peace in your land?'", cluster: khidr}
+  bird-pecks-sea-measure-of-human-knowledge: {label: "A sparrow pecks once or twice from the sea: our knowledge takes from God's no more than its beak from the sea", cluster: khidr}
+  boat-plank-pulled-out-with-adze: {label: "Carried free of fare, the sage pulls out a plank of the ship with an adze", cluster: khidr}
+  wall-straightened-by-a-touch-without-pay: {label: "In a town that refused them food the sage straightens a falling wall with a gesture of his hand, taking no wage", cluster: khidr}
+  variant-reading-every-sound-ship: {label: "Ibn Abbas reads 'before them a king seizing every sound ship' and 'the boy was an unbeliever'", cluster: khidr}
+  wish-that-moses-had-been-patient: {label: "The prophet wishes Moses had been patient so that more of their story were told", cluster: khidr}
+  none-now-living-survives-a-century: {label: "In a hundred years none of those now on the earth will remain alive", cluster: eschatology}
+  prayer-as-light-proof-and-rescue: {label: "Prayer kept faithfully is light, proof and rescue on resurrection day", cluster: ritual}
+  sun-held-back-for-joshua: {label: "The sun was held back for no human but Joshua as he marched on the Holy House: 'you are commanded and I am commanded'", cluster: conquest}
+  newly-wed-builder-and-herd-owner-barred-from-campaign: {label: "A prophet bars from his campaign the man who married and has not consummated, who built and has not roofed, who awaits his flocks' young", cluster: warfare}
+  fire-from-heaven-consumes-the-spoils: {label: "Fire comes to consume the gathered spoils and refuses until the stolen part is returned, then consumes all", cluster: warfare}
+  thief-found-by-hand-sticking-tribe-by-tribe: {label: "One man of each tribe pledges by hand; a hand sticks, then that tribe pledges and two or three hands stick", cluster: warfare}
+  stolen-golden-cow-head: {label: "The concealed spoil is gold the size of a cow's head", cluster: warfare}
+  spoils-lawful-only-for-this-community: {label: "Spoils were lawful to none before us; God saw our weakness and made them lawful", cluster: law}
+  angel-heals-and-enriches-three-to-test-them: {label: "God sends an angel to a leper, a bald man and a blind man; he heals each by touch and gives them flocks", cluster: parable}
+  healed-given-camel-cow-and-sheep: {label: "The three receive a pregnant she-camel, a pregnant cow and a ewe with young, which become valleys of each", cluster: parable}
+  angel-returns-disguised-as-their-former-self: {label: "The angel returns to each in the form he had before, a poor stranded traveller asking for help", cluster: parable}
+  ingrate-claims-inherited-wealth: {label: "The ungrateful says 'I inherited it from generation to generation' and is returned to his former state", cluster: parable}
+  grateful-one-told-keep-your-wealth-it-was-a-test: {label: "The grateful one says take what you want; the angel says keep it, you were only tested; God is pleased with you", cluster: parable}
+  sinner-orders-body-burnt-ashes-scattered: {label: "A sinner orders his sons to burn him, grind him and scatter him in wind and sea, lest God punish him", cluster: eschatology}
+  earth-ordered-to-give-back-what-it-took: {label: "God tells the earth 'give back what you took' (or says 'Be') and the man stands whole", cluster: eschatology}
+  forgiven-for-fear-of-god-alone: {label: "Asked why he did it, he answers 'fear of you', and God forgives him for that", cluster: theology}
+  dying-father-takes-oaths-from-sons: {label: "The dying father asks 'what father was I?' and binds his sons by oath to carry out his order", cluster: narrative-frame}
+  four-best-women-mary-asiya-khadija-fatima: {label: "The best women of the worlds: Mary daughter of Imran, Asiya wife of Pharaoh, Khadija, Fatima", cluster: women}
+  few-women-perfected: {label: "Many men were perfected, of women only Asiya and Mary", cluster: women}
+  aisha-over-women-as-tharid-over-food: {label: "Aisha's excellence over women is like tharid over other food", cluster: women}
+  newborns-cry-from-satans-touch-except-mary-and-son: {label: "Satan touches every newborn and it cries out, except Mary and her son", cluster: mary}
+  quraysh-women-best-of-camel-riders: {label: "Women of Quraysh are the best who ride camels, kindest to children, most careful of a husband's means", cluster: women}
+  mary-never-rode-a-camel: {label: "Mary daughter of Imran never rode a camel (so is not counted among camel-riders)", cluster: mary}
+  named-after-earlier-prophets-and-saints: {label: "People were named after their prophets and righteous ones before them", cluster: polemic}
+  wrong-in-verse-means-shirk: {label: "The 'wrong' (zulm) in 'those who did not mix their faith with wrong' is shirk, not self-wrong", cluster: exegesis}
+  woman-in-fire-for-starving-a-cat: {label: "A woman entered the fire for a cat she tied up, neither feeding it nor letting it eat the vermin of the earth", cluster: ethics}
+  cat-claws-its-tormentor-in-hell: {label: "In the vision of the fire the prophet sees the cat clawing the woman who starved it", cluster: eschatology}
+  lenient-creditor-forgiven: {label: "A trader who gave the solvent respite and let off the insolvent is forgiven: God lets him off", cluster: ethics}
+  dying-man-asked-for-any-good-deed: {label: "The angel of death asks the dying man if he did any good; he knows of none but his leniency in trade", cluster: eschatology}
+  killer-of-ninety-nine-kills-the-monk-too: {label: "A man who killed ninety-nine asks a monk if he may repent, is told no, and kills him to make a hundred", cluster: repentance}
+  scholar-sends-penitent-to-a-land-of-worshippers: {label: "A scholar says nothing bars repentance and sends him to a land where people worship God, not to return to his own", cluster: repentance}
+  angels-of-mercy-and-punishment-dispute-a-soul: {label: "The angels of mercy and of punishment dispute over the soul of a man who died on the road", cluster: eschatology}
+  dead-mans-place-measured-between-two-lands: {label: "An angel in human form rules: measure between the two lands; he is found nearer the good land and taken by mercy", cluster: eschatology}
+  reward-in-every-moist-liver: {label: "There is reward in (kindness to) every creature with a moist liver", cluster: ethics}
+  seeker-told-jews-share-wrath-christians-curse: {label: "A seeker of religion is told by a Jewish scholar he must take his share of God's wrath, by a Christian his share of God's curse", cluster: polemic}
+  seeker-raises-hands-declaring-abrahams-religion: {label: "Leaving both, the seeker raises his hands: 'O God, I bear witness I am on the religion of Abraham'", cluster: abraham}
+  only-one-on-abrahams-religion-against-kaba: {label: "Leaning against the Ka'ba, a man tells Quraysh none of them is on Abraham's religion but he", cluster: abraham}
+  rescuer-of-girls-about-to-be-buried: {label: "He saved girls from being buried alive, raising them and offering them back to their fathers grown", cluster: ethics}
+  short-woman-walks-on-wooden-legs: {label: "A short woman walking with two tall women makes herself legs of wood", cluster: vanity}
+  hollow-gold-ring-filled-with-musk: {label: "She fills a closed gold ring with musk, the best of perfumes", cluster: vanity}
+  monkey-throws-diluted-wine-profit-into-sea: {label: "A monkey takes the wine-seller's purse up the mast and throws a dinar into the sea and a dinar into the ship until it is divided", cluster: parable}
+  watering-wine-before-sale: {label: "The merchant mixes his wine with water before selling it", cluster: parable}
+  adam-created-in-his-image: {label: "God created Adam in his image (ʿala suratihi; variants 'the image of his face', 'the image of the Merciful')", cluster: primeval}
+  adam-sixty-cubits-tall: {label: "Adam's height was sixty cubits", cluster: primeval}
+  adam-sent-to-greet-angels-greeting-of-descendants: {label: "God sends Adam to greet a group of angels: their reply is his and his descendants' greeting; they add 'and the mercy of God'", cluster: primeval}
+  stature-diminishing-since-adam: {label: "People have kept diminishing in stature since Adam; all who enter paradise will have Adam's form", cluster: primeval}
+  face-spared-in-fighting-because-of-the-image: {label: "When fighting, avoid the face (do not disfigure it), for God created Adam in his image", cluster: law}
+  adam-created-entered-and-expelled-on-friday: {label: "Friday: on it Adam was created, entered paradise, was put out (sent down), was forgiven, and died", cluster: primeval}
+  hour-will-come-on-a-friday: {label: "The Hour will come on a Friday", cluster: eschatology}
+  iblis-circles-adams-hollow-form: {label: "Adam's formed body lies in the garden; Iblis circles it, sees it is hollow and knows it is a creature without self-control", cluster: primeval}
+  adam-a-prophet-spoken-to-by-god: {label: "Adam was a prophet, one addressed by God (mukallam)", cluster: primeval}
+  ten-generations-from-adam-to-noah: {label: "Between Adam and Noah were ten generations (qurun)", cluster: primeval}
+  boasting-ancestors-coal-of-hell-or-dung-beetle: {label: "Those who boast of dead fathers who are coal of hell will be lower than the dung beetle rolling filth with its nose", cluster: ethics}
+  all-people-sons-of-adam-adam-from-dust: {label: "All people are sons of Adam and Adam is from dust; only the pious believer and wretched sinner differ", cluster: ethics}
+  progeny-drawn-from-adams-back: {label: "God strokes Adam's back and every soul he will create to the end falls out of it", cluster: primeval}
+  gleam-of-light-between-the-eyes-of-each-soul: {label: "Between the eyes of each pre-existent soul God puts a gleam of light (wabis)", cluster: primeval}
+  adam-gives-david-years-of-his-life: {label: "Adam, shown David with a short life (sixty years), gives him forty years of his own", cluster: primeval}
+  adam-denies-the-gift-when-death-comes: {label: "When the angel of death comes Adam says forty years remain to him, denying he gave them to David", cluster: primeval}
+  adams-denial-forgetting-sin-inherited: {label: "Adam denied, forgot and erred, and so his offspring deny, forget and err", cluster: primeval}
+  adam-sneezes-when-spirit-reaches-his-head: {label: "When the spirit reached Adam's head he sneezed and said 'praise be to God, Lord of the worlds'; God answered 'God have mercy on you'", cluster: primeval}
+  adam-from-soil-of-whole-earth-children-of-every-colour: {label: "God made Adam from a handful of all the earth's surface, so his children are white, black, red, between, smooth, rough, bad and good", cluster: primeval}
+  adam-chooses-between-gods-closed-hands: {label: "God holds out his two closed hands and tells Adam to choose; Adam chooses the right ('both his hands are right')", cluster: primeval}
+  adam-shown-descendants-with-lifespans-written: {label: "In the opened hand are Adam and his descendants, each with his lifespan written by him", cluster: primeval}
+  devil-weeps-at-human-prostration: {label: "When a man prostrates at a verse of prostration, the devil withdraws weeping: he was told to prostrate and refused, so the fire is his", cluster: demonology}
+  adam-told-to-send-out-the-share-of-the-fire: {label: "At resurrection Adam is called first and told to send out of his offspring the contingent for the fire", cluster: eschatology}
+  nine-hundred-ninety-nine-of-every-thousand-to-fire: {label: "Of every thousand, nine hundred and ninety-nine go to the fire and one to paradise", cluster: eschatology}
+  ninety-nine-of-every-hundred-to-fire: {label: "Variant: of every hundred, ninety-nine to the fire", cluster: eschatology}
+  believers-like-white-hair-on-black-ox: {label: "The believers among the nations are like a white hair on a black ox, a mole on a camel's flank, or a mark on a donkey's foreleg", cluster: eschatology}
+  gog-and-magog-make-up-the-numbers: {label: "Gog and Magog (and the damned of men and jinn) fill out the count: a thousand of them for one of you", cluster: eschatology}
+  hope-to-be-quarter-third-half-of-paradise: {label: "The prophet hopes his community will be a quarter, then a third, then half of paradise", cluster: eschatology}
+  dajjal-forty-then-jesus-kills-him: {label: "The Dajjal stays 'forty' (days, months or years); God sends Jesus, who looks like 'Urwa b. Mas'ud, and he destroys him", cluster: eschatology}
+  cold-wind-from-syria-takes-every-believer: {label: "A cold wind from Syria takes the soul of everyone with an atom of good or faith, even inside a mountain", cluster: eschatology}
+  first-to-hear-trumpet-plastering-his-camels-trough: {label: "The first to hear the trumpet is a man plastering his camels' trough; he falls stunned and the people with him", cluster: eschatology}
+  dying-adam-craves-fruit-of-paradise: {label: "Dying, Adam tells his sons he craves fruit of paradise, and they go to seek it", cluster: primeval}
+  angels-come-with-shroud-spices-and-spades: {label: "Angels meet the sons carrying Adam's shroud and embalming spices with axes, spades and baskets: 'go back, your father's end is decreed'", cluster: primeval}
+  adam-pushes-eve-away-at-death: {label: "Eve clings to Adam on seeing the angels; he says 'away from me, I was afflicted through you'", cluster: primeval}
+  angels-bury-adam-as-model-for-his-sons: {label: "The angels take, wash, shroud, embalm, dig a niche-grave, pray over and bury Adam and say 'children of Adam, this is your practice (sunna)'", cluster: primeval}
+  beasts-listen-anxiously-every-friday-dawn: {label: "Every beast listens anxiously each Friday from dawn to sunrise, fearing the Hour, except jinn and humans", cluster: eschatology}
+  hour-of-answered-prayer-on-friday: {label: "On Friday is an hour in which a praying Muslim is given whatever he asks", cluster: ritual}
+  companion-exchanges-hadith-for-torah-with-kab: {label: "At the Mount (al-Tur) a companion sits with Ka'b al-Ahbar, who tells him of the Torah while he tells of the prophet", cluster: transmission}
+  prophets-breast-split-washed-with-zamzam: {label: "The roof opens; Gabriel splits the prophet's breast, washes it with Zamzam water and fills it from a gold basin full of wisdom and faith", cluster: ascent}
+  gatekeeper-of-heaven-asks-who-is-with-you: {label: "At each heaven the gatekeeper asks 'who is it? who is with you? has he been sent for?' before opening", cluster: ascent}
+  adam-laughs-right-weeps-left-at-offspring: {label: "In the lowest heaven Adam looks at the shadowy souls of his offspring: laughing at those on his right (paradise), weeping at those on his left (fire)", cluster: ascent}
+  prophets-placed-in-the-heavens: {label: "On the ascent prophets are met in particular heavens (Adam first; Idris fourth or second; Abraham sixth or seventh)", cluster: ascent}
+  welcome-as-righteous-brother-or-son: {label: "Prophets welcome Muhammad 'righteous prophet and righteous brother'; Adam and Abraham say 'righteous son'", cluster: ascent}
+  a-prophet-who-divined-by-drawing-lines: {label: "A prophet used to draw lines (in the sand); whoever's lines agree with his, that is right", cluster: divination}
+  noah-first-messenger-to-people-of-earth: {label: "Noah is the first messenger God sent to the people of the earth", cluster: flood}
+  noah-called-a-grateful-servant: {label: "God named Noah 'a grateful servant' ('abdan shakuran)", cluster: flood}
+  prophets-decline-intercession-citing-a-fault: {label: "At resurrection people ask prophet after prophet to intercede; each says 'myself, myself', recalls a fault and sends them on", cluster: eschatology}
+  noah-ashamed-of-asking-what-he-had-no-knowledge-of: {label: "Noah declines to intercede, ashamed of having asked his Lord about what he had no knowledge of", cluster: flood}
+  every-prophet-warned-of-the-dajjal-noah-first: {label: "Every prophet warned his people of the Dajjal; Noah warned his", cluster: eschatology}
+  dajjal-one-eyed-god-not: {label: "The Dajjal is one-eyed, and your Lord is not one-eyed", cluster: eschatology}
+  dajjals-paradise-is-fire: {label: "The Dajjal brings a likeness of paradise and fire; what he calls paradise is the fire", cluster: eschatology}
+  noahs-people-deny-he-delivered-the-message: {label: "At judgment Noah says he delivered the message; his people say 'no prophet came to us'", cluster: flood}
+  muhammads-community-testifies-for-noah: {label: "Asked for witnesses, Noah names Muhammad and his community, who testify that he delivered it", cluster: flood}
+  noahs-idols-passed-to-arab-tribes: {label: "Noah's people's idols later belonged to Arab tribes: Wadd to Kalb at Dumat al-Jandal, Suwa' to Hudhayl, Yaghuth to Murad, Ya'uq to Hamdan, Nasr to Himyar", cluster: idolatry}
+  idols-began-as-memorial-statues-of-righteous-men: {label: "The idols were named for righteous men; at Satan's prompting statues were set up in their places, and worshipped once knowledge was forgotten", cluster: idolatry}
+  ten-named-in-paradise: {label: "Ten named men promised paradise, the narrator the ninth and the prophet the tenth", cluster: community}
+  one-battle-outweighs-noahs-lifespan: {label: "One battle with the prophet, face dusted, outweighs the deeds of a life as long as Noah's", cluster: warfare}
+  noahs-deathbed-charge-two-and-two: {label: "Dying, Noah charges his son with two commands and two prohibitions", cluster: flood}
+  no-god-but-god-outweighs-seven-heavens-and-earths: {label: "Seven heavens and seven earths in one pan of the scale, 'no god but God' in the other, outweighs them; if a ring it would break them", cluster: theology}
+  subhan-allah-prayer-of-all-things-and-their-provision: {label: "'Glory to God and praise' is the prayer of every thing and by it creatures are provided for", cluster: piety}
+  pride-is-rejecting-truth-and-despising-people: {label: "Pride is not fine sandals, robes, a mount or friends but rejecting the truth and despising people", cluster: ethics}
+  killing-as-ad-were-killed: {label: "Of those who will go out of Islam like an arrow through its game: 'if I meet them I will kill them as 'Ad were killed', leaving none", cluster: punishment-stories}
+  reciters-whose-quran-passes-no-further-than-throats: {label: "From this man's stock come people who recite the Quran without it passing their throats, kill Muslims and leave idolaters", cluster: eschatology}
+  prayer-for-the-good-of-the-wind: {label: "In a storm: 'I ask you for its good and the good of what it is sent with, and seek refuge from its evil'", cluster: prayer}
+  prophet-smiles-never-laughs-open-mouthed: {label: "The prophet was never seen laughing so his uvula showed; he only smiled", cluster: prophecy}
+  drought-stricken-people-send-an-envoy-to-pray-for-rain: {label: "Struck by drought, 'Ad send an envoy (qayl) to pray for rain", cluster: punishment-stories}
+  envoy-delays-a-month-drinking-with-two-singing-girls: {label: "The envoy stays a month with Bakr drinking wine while two singing girls, 'the two locusts' (al-jaradatan), sing to him", cluster: punishment-stories}
+  envoy-prays-water-ad-as-you-used-to: {label: "On the mountains of Mahra he prays: I have not come for a sick man to cure or a captive to ransom - water 'Ad as you used to", cluster: punishment-stories}
+  black-cloud-announces-ashes-for-ad: {label: "Black clouds pass and a voice from them says: take it as ashes, leave none of 'Ad", cluster: punishment-stories}
+  destroying-wind-no-more-than-a-ring-hole: {label: "The wind sent on 'Ad was no more than would pass through a signet ring", cluster: punishment-stories}
+  proverb-like-the-envoy-of-ad: {label: "Proverb: 'do not be like the envoy of 'Ad'", cluster: proverbs}
+  proverb-goat-carried-its-own-death: {label: "Proverb: 'a goat that carried its own death' (mi'za hamalat hatfan)", cluster: proverbs}
+  camel-killer-a-mighty-man-of-his-clan: {label: "The one who hamstrung the she-camel was a mighty, wicked man, powerful in his clan, like Abu Zam'a", cluster: punishment-stories}
+  wife-flogged-like-a-slave-then-bedded: {label: "Rebuke: one of you flogs his wife like a slave and may lie with her at the end of the day", cluster: ethics}
+  why-laugh-at-a-breaking-of-wind: {label: "Why do you laugh at what you yourselves do (breaking wind)?", cluster: ethics}
+  enter-dwellings-of-the-destroyed-only-weeping: {label: "Do not enter the dwellings of those who wronged themselves unless weeping, lest what struck them strike you", cluster: punishment-stories}
+  prophet-veils-head-and-hurries-through-valley: {label: "Passing the ruins of Thamud the prophet covers his head with his cloak and hastens through the valley", cluster: punishment-stories}
+  water-of-destroyed-town-poured-out-dough-to-camels: {label: "Water drawn from Thamud's wells is poured out, dough made with it fed to camels; water is taken only from the she-camel's well", cluster: purity}
+  do-not-ask-for-signs-like-salihs-people: {label: "Do not ask for signs: Salih's people asked, and the she-camel came", cluster: punishment-stories}
+  she-camel-came-and-went-by-two-paths: {label: "The she-camel came down to water by one mountain pass and went out by another", cluster: punishment-stories}
+  alternate-days-water-and-milk: {label: "The she-camel drank their water one day, and they drank her milk the next", cluster: punishment-stories}
+  thamud-destroyed-by-the-shout: {label: "A shout (sayha) seized Thamud and silenced all under the sky", cluster: punishment-stories}
+  one-sheltered-in-sanctuary-struck-on-leaving: {label: "One man escaped by being in God's sanctuary (Abu Righal); when he left it he was struck like his people", cluster: punishment-stories}
+  abraham-reminds-god-of-promise-not-to-disgrace-him: {label: "Abraham pleads: you promised not to disgrace me on the day they are raised - what disgrace greater than my father?", cluster: abraham}
+  azar-turned-into-a-hyena: {label: "Abraham's father is turned into a filth-smeared male hyena (dhikh) and thrown by its legs into the fire", cluster: abraham}
+  father-says-today-i-will-not-disobey: {label: "On resurrection day Abraham's father, his face dusty and dark, says 'today I will not disobey you'", cluster: abraham}
+  joseph-prophet-son-of-prophets-of-gods-friend: {label: "The noblest is Joseph, prophet, son of a prophet, son of a prophet, son of God's friend", cluster: patriarchs}
+  best-in-jahiliyya-best-in-islam: {label: "The best of you in the Jahiliyya are the best in Islam if they understand", cluster: community}
+  muhammad-taken-as-friend-like-abraham: {label: "God took Muhammad as friend (khalil) as he took Abraham; had he taken a human friend it would be Abu Bakr", cluster: abraham}
+  graves-of-prophets-taken-as-places-of-worship: {label: "Those before you made the graves of their prophets and saints into places of worship; do not do so", cluster: polemic}
+  gecko-blew-on-abrahams-fire: {label: "The gecko blew on the fire in which Abraham was thrown; so geckos are to be killed", cluster: abraham}
+  frog-tried-to-put-out-abrahams-fire: {label: "The frog (and every beast) tried to put out Abraham's fire; so frogs may not be killed", cluster: abraham}
+  we-have-more-right-to-doubt-than-abraham: {label: "'We have more right to doubt than Abraham' (said of his asking to see the dead raised)", cluster: abraham}
+  joseph-declined-release-from-prison: {label: "Had I stayed in prison as long as Joseph I would have answered the summoner (Joseph declined release till cleared)", cluster: patriarchs}
+  abraham-circumcised-at-eighty-with-adze: {label: "Abraham circumcised himself at eighty years old with an adze (al-qadum)", cluster: abraham}
+  sister-in-religion-justifies-the-claim: {label: "Abraham's 'sister' is justified: she is his sister in Islam, they being the only believers in the land", cluster: abraham}
+  sarah-prays-and-the-king-is-seized: {label: "Sarah performs ablution and prays; the king reaching for her is choked till he kicks (or his hand is seized)", cluster: abraham}
+  king-seized-three-times-and-released-at-her-prayer: {label: "Three times the king is seized and three times released at her prayer, promising not to harm her", cluster: abraham}
+  king-says-you-brought-me-a-devil: {label: "The king says to his men: you brought me a devil, not a human; send her back", cluster: abraham}
+  king-gives-hagar-to-sarah: {label: "The king gives Sarah Hagar (Ajar) as a servant: 'God thwarted the wicked and gave a maid'", cluster: abraham}
+  abrahams-three-lies: {label: "Abraham told only three lies: two for God ('I am sick', 'the biggest of them did it') and one about Sarah", cluster: abraham}
+  arabs-sons-of-the-water-of-heaven: {label: "Abu Hurayra: 'that is your mother (Hagar), sons of the water of heaven'", cluster: abraham}
+  abraham-asks-mahyam-what-news: {label: "Abraham asks Sarah 'mahyam?' (what news?) and she answers 'good'", cluster: abraham}
+  hagar-first-to-wear-the-girdle: {label: "Women first took the girdle (mintaq) from Ishmael's mother, who wore it to hide her tracks from Sarah", cluster: abraham}
+  mother-and-child-left-with-skin-of-water-and-dates: {label: "Abraham leaves the mother and nursing child with a bag of dates and a skin of water", cluster: abraham}
+  hagar-asks-did-god-command-this: {label: "Hagar follows Abraham asking why he leaves them; 'Did God command you?' 'Yes.' 'Then he will not abandon us'", cluster: abraham}
+  mother-turns-away-not-to-watch-child-die: {label: "When the water runs out the mother goes off so as not to watch her writhing child die", cluster: abraham}
+  seven-runs-between-safa-and-marwa: {label: "She climbs Safa, runs across the valley bottom to Marwa looking for anyone, seven times: 'so is the people's running between them'", cluster: abraham}
+  angel-strikes-ground-with-heel-and-water-gushes: {label: "An angel (Gabriel) digs with his heel (or wing) at the place of Zamzam and water gushes", cluster: abraham}
+  angel-says-father-and-boy-will-build-the-house: {label: "The angel tells her: fear no ruin, here is God's House which this boy and his father will build", cluster: abraham}
+  circling-bird-shows-travellers-water: {label: "Travellers of Jurhum see a bird circling and reason it must circle over water", cluster: abraham}
+  settlers-allowed-but-no-right-to-the-water: {label: "Hagar lets Jurhum settle by her but grants them no right in the water", cluster: abraham}
+  ishmael-learns-arabic-from-jurhum-and-marries-among-them: {label: "Ishmael grows up among Jurhum, learns Arabic from them and marries one of their women", cluster: abraham}
+  abraham-tests-sons-wives-change-the-threshold: {label: "Abraham visits in Ishmael's absence: the complaining wife is to tell him 'change your threshold'; the grateful one, 'keep your threshold'", cluster: abraham}
+  abraham-blesses-meat-and-water-of-mecca: {label: "Told they live on meat and water, Abraham blesses their meat and water; they had no grain, or he would have blessed it", cluster: abraham}
+  medina-made-sacred-as-abraham-made-mecca: {label: "The prophet makes sacred what lies between Medina's two mountains as Abraham made Mecca sacred, and blesses its measures", cluster: sacred-space}
+  mountain-that-loves-us: {label: "Uhud: 'a mountain that loves us and we love it'", cluster: sacred-space}
+  refuge-from-eight-afflictions: {label: "Prayer for refuge from worry, grief, incapacity, laziness, miserliness, cowardice, the burden of debt and being overpowered by men", cluster: prayer}
+  kaba-rebuilt-short-of-abrahams-foundations: {label: "Quraysh rebuilt the Ka'ba short of Abraham's foundations; the prophet would restore them but for his people's recent unbelief", cluster: sacred-space}
+  two-corners-by-the-hijr-not-touched: {label: "The prophet did not touch the two corners next to the Hijr because the House was not complete on Abraham's foundations", cluster: ritual}
+  abraham-resembles-muhammad: {label: "Abraham looks like Muhammad: 'look at your companion'; 'I am the most like him of his children'", cluster: abraham}
+  moses-like-a-man-of-shanua: {label: "Moses is tall, brown, curly-haired, like a man of Shanu'a, riding a red camel and calling the talbiya", cluster: prophecy}
+  jesus-ruddy-as-if-from-a-bath: {label: "Jesus is of middle height, ruddy as if just out of a bath (dimas), most like 'Urwa b. Mas'ud", cluster: prophecy}
+  gabriel-resembles-dihya: {label: "Gabriel most resembles Dihya b. Khalifa", cluster: angels}
+  milk-chosen-over-wine-is-the-fitra: {label: "Offered a vessel of milk and one of wine, the prophet takes the milk: 'you are guided to the fitra; had you taken wine your community would have strayed'", cluster: ascent}
+  dajjal-has-kafir-written-between-eyes: {label: "The Dajjal has 'kafir' written between his eyes", cluster: eschatology}
+  abraham-the-best-of-creation: {label: "Addressed as 'best of creation', the prophet says: that is Abraham", cluster: abraham}
+
+units:
+  - id: hadith-1-deeds-by-intentions
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Deeds are by intentions; the emigrant to a woman or to the world
+    read: ["Jāmiʿ 1:106.1"]
+    quran: []
+    tags:
+      - {motif: deeds-judged-by-intention, refs: ["Jāmiʿ 1:106.1"], note: "إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى"}
+      - {motif: emigration-for-a-woman-counts-as-such, refs: ["Jāmiʿ 1:106.1"], note: "ومن كانت هجرته إلى دنيا يصيبها، أو إلى امرأة ينكحها، فهجرته إلى ما هاجر إليه"}
+  - id: hadith-1-first-revelation-hira
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The first revelation in the cave of Hira, Khadija and Waraqa
+    read: ["Jāmiʿ 1:107.1"]
+    quran: ["96:1-5", "4:163"]
+    tags:
+      - {motif: true-dreams-like-daybreak-before-revelation, refs: ["Jāmiʿ 1:107.1"], note: "الرؤيا الصالحة في النوم، فكان لا يرى رؤيا إلا جاءت مثل فلق الصبح"}
+      - {motif: solitary-devotion-in-mountain-cave, refs: ["Jāmiʿ 1:107.1"], note: "يخلو بغار حراء فيتحنث فيه -وهو التعبد- الليالي ذوات العدد"}
+      - {motif: angel-commands-recite-prophet-cannot-read, refs: ["Jāmiʿ 1:107.1"], note: "فقال: اقرأ، قال: ما أنا بقارئ"}
+      - {motif: angel-squeezes-prophet-three-times, refs: ["Jāmiʿ 1:107.1"], note: "فأخذني فغطني حتى بلغ مني الجهد ... الثانية ... الثالثة"}
+      - {motif: prophet-trembling-asks-to-be-wrapped, refs: ["Jāmiʿ 1:107.1"], note: "يرجف فؤاده ... زملوني زملوني"}
+      - {motif: wife-reassures-by-listing-his-virtues, refs: ["Jāmiʿ 1:107.1"], note: "كلا والله ما يخزيك الله أبدا، إنك لتصل الرحم وتحمل الكل ..."}
+      - {motif: christian-kinsman-recognizes-the-namus-of-moses, refs: ["Jāmiʿ 1:107.1"], note: "ورقة ... تنصر في الجاهلية ... يكتب من الإنجيل بالعبرانية ... هذا الناموس الذي نزل الله على موسى"}
+      - {motif: every-bringer-of-such-message-met-hostility, refs: ["Jāmiʿ 1:107.1"], note: "لم يأت رجل قط بمثل ما جئت به إلا عودي ... إذ يخرجك قومك"}
+    hints:
+      - "The answer 'I am not a reader' (ma ana bi-qari') against Isa 29:12, where the book is given to one who says 'I do not know writing' (lo yada'ti sefer)."
+  - id: hadith-1-prophets-signs-and-the-quran
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Each prophet given a sign; the Prophet given revelation
+    read: ["Jāmiʿ 1:108.1"]
+    quran: []
+    tags:
+      - {motif: each-prophet-given-a-convincing-sign, refs: ["Jāmiʿ 1:108.1"], note: "ما من الأنبياء نبي إلا أعطي ما مثله آمن عليه البشر"}
+      - {motif: prophet-hopes-most-followers-on-judgment-day, refs: ["Jāmiʿ 1:108.1"], note: "وإنما الذي أوتيت وحيا ... فأرجو أن أكون أكثرهم تابعا يوم القيامة"}
+  - id: hadith-1-manner-and-weight-of-revelation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: How revelation came - the bell, the angel as a man, sweat, snoring, bowed heads, the weight on camel and thigh
+    read: ["Jāmiʿ 1:108.2-110.2"]
+    quran: ["73:5", "4:95"]
+    tags:
+      - {motif: revelation-like-ringing-of-a-bell, refs: ["Jāmiʿ 1:108.2"], note: "أحيانا يأتيني مثل صلصلة الجرس وهو أشد علي"}
+      - {motif: angel-takes-form-of-a-man, refs: ["Jāmiʿ 1:108.2"], note: "وأحيانا يتمثل لي الملك رجلا فيكلمني"}
+      - {motif: prophet-sweats-in-cold-at-revelation, refs: ["Jāmiʿ 1:108.2", "Jāmiʿ 1:109.2"], note: "في اليوم الشديد البرد ... وإن جبينه ليتفصد عرقا؛ مثل الجمان وهو في يوم شات"}
+      - {motif: prophet-covered-with-cloth-during-revelation, refs: ["Jāmiʿ 1:108.3"], note: "فستر بثوب ... فرفع عمر طرف الثوب"}
+      - {motif: prophet-snores-like-young-camel-at-revelation, refs: ["Jāmiʿ 1:108.3"], note: "له غطيط كغطيط البكر"}
+      - {motif: pilgrim-told-to-wash-off-saffron-and-remove-robe, refs: ["Jāmiʿ 1:108.3"], note: "اغسل عنك أثر الصفرة ... واخلع عنك جبتك، واصنع في عمرتك ما أنت صانع في حجك"}
+      - {motif: face-darkens-and-heads-bow-at-revelation, refs: ["Jāmiʿ 1:109.1", "Jāmiʿ 1:110.1"], note: "كرب لذلك وتربد وجهه ... نكس رأسه ونكس أصحابه رؤوسهم"}
+      - {motif: heavy-word-cast-on-prophet, refs: ["Jāmiʿ 1:109.2", "Jāmiʿ 1:110.2"], note: "من ثقل القول الذي أنزل عليه"}
+      - {motif: weight-of-revelation-on-a-companions-thigh, refs: ["Jāmiʿ 1:109.3"], note: "وفخذه على فخذي، فثقلت علي حتى خفت أن ترض فخذي"}
+      - {motif: disabled-exempt-from-fighting, refs: ["Jāmiʿ 1:109.3"], note: "غير أولي الضرر - sent down for the blind Ibn Umm Maktum"}
+      - {motif: camel-sinks-under-weight-of-revelation, refs: ["Jāmiʿ 1:110.2"], note: "إن كان ليوحى إليه وهو على راحلته فتضرب بجرانها"}
+  - id: hadith-1-pause-and-the-muddaththir
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The pause in revelation; the angel on a throne between sky and earth; "O you wrapped"
+    read: ["Jāmiʿ 1:111.1-112.1"]
+    quran: ["74:1-5", "96:1"]
+    tags:
+      - {motif: angel-seated-on-throne-between-heaven-and-earth, refs: ["Jāmiʿ 1:111.1", "Jāmiʿ 1:112.1"], note: "فإذا الملك الذي جاءني بحراء جالسا على كرسي بين السماء والأرض؛ على العرش في الهواء"}
+      - {motif: voice-calls-from-all-sides-none-seen, refs: ["Jāmiʿ 1:112.1"], note: "فنوديت فنظرت أمامي وخلفي وعن يميني وعن شمالي فلم أر أحدا"}
+      - {motif: prophet-trembling-asks-to-be-wrapped, refs: ["Jāmiʿ 1:111.1", "Jāmiʿ 1:112.1"], note: "زملوني ... دثروني ... فصبوا علي ماء"}
+      - {motif: retreat-of-a-month-at-hira, refs: ["Jāmiʿ 1:112.1"], note: "جاورت بحراء شهرا"}
+      - {motif: rujz-glossed-as-idols, refs: ["Jāmiʿ 1:111.1"], note: "والرجز فاهجر وهي الأوثان"}
+  - id: hadith-1-hastening-the-tongue
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Moving the lips with the revelation; Ibn Abbas shows how
+    read: ["Jāmiʿ 1:113.1"]
+    quran: ["75:16-19"]
+    tags:
+      - {motif: prophet-moves-lips-to-hold-revelation, refs: ["Jāmiʿ 1:113.1"], note: "كان مما يحرك شفتيه ... فأنا أحركهما لكم كما كان رسول الله يحركهما"}
+      - {motif: god-gathers-revelation-in-the-prophets-breast, refs: ["Jāmiʿ 1:113.1"], note: "جمعه لك في صدرك ... فاستمع له وأنصت"}
+  - id: hadith-1-jinn-hear-the-quran
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Devils barred from heaven's news search the earth and hear the dawn prayer at Nakhla
+    read: ["Jāmiʿ 1:113.2"]
+    quran: ["72:1-2"]
+    tags:
+      - {motif: spirits-eavesdrop-on-heaven-repelled-by-meteors, refs: ["Jāmiʿ 1:113.2"], note: "حيل بين الشياطين وبين خبر السماء وأرسلت عليهم الشهب"}
+      - {motif: devils-sent-east-and-west-to-find-cause, refs: ["Jāmiʿ 1:113.2"], note: "فاضربوا مشارق الأرض ومغاربها فانظروا ما هذا الذي حال بينكم"}
+      - {motif: jinn-hear-quran-at-dawn-prayer, refs: ["Jāmiʿ 1:113.2"], note: "وهو بنخلة ... يصلي بأصحابه صلاة الفجر، فلما سمعوا القرآن استمعوا له"}
+  - id: hadith-1-nothing-concealed
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Whoever says Muhammad concealed any revelation lies
+    read: ["Jāmiʿ 1:114.1"]
+    quran: ["5:67"]
+    tags:
+      - {motif: prophet-concealed-nothing-of-revelation, refs: ["Jāmiʿ 1:114.1"], note: "من حدثك أن محمدا كتم شيئا من الوحي فلا تصدقه"}
+  - id: hadith-1-heaven-at-the-word
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Angels beat their wings at God's decree; the stacked eavesdroppers and the soothsayer's hundred lies
+    read: ["Jāmiʿ 1:115.1-115.2"]
+    quran: ["34:23"]
+    tags:
+      - {motif: angels-beat-wings-sound-like-chain-on-rock, refs: ["Jāmiʿ 1:115.1", "Jāmiʿ 1:115.2"], note: "ضربت الملائكة بأجنحتها خضعانا لقوله كالسلسلة على صفوان؛ صلصلة كجر السلسلة على الصفا"}
+      - {motif: angels-swoon-at-gods-speech-until-gabriel-comes, refs: ["Jāmiʿ 1:115.2"], note: "فيصعقون ... حتى يأتيهم جبريل ... ماذا قال ربك؟ فيقول: الحق"}
+      - {motif: eavesdroppers-stacked-one-above-another, refs: ["Jāmiʿ 1:115.1"], note: "مسترقو السمع هكذا واحد فوق آخر -ووصف سفيان بيده"}
+      - {motif: devils-eavesdrop-pelted-with-shooting-stars, refs: ["Jāmiʿ 1:115.1"], note: "فربما أدرك الشهاب المستمع قبل أن يرمي بها إلى صاحبه فيحرقه"}
+      - {motif: one-stolen-word-mixed-with-hundred-lies, refs: ["Jāmiʿ 1:115.1"], note: "فتلقى على فم الساحر فيكذب معها مائة كذبة"}
+  - id: hadith-1-verse-sent-in-two-parts
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The blind man's objection and the exemption added to the verse
+    read: ["Jāmiʿ 1:117.1-117.2"]
+    quran: ["4:95"]
+    tags:
+      - {motif: scribe-called-with-tablet-inkwell-shoulder-blade, refs: ["Jāmiʿ 1:117.1", "Jāmiʿ 1:117.2"], note: "ادع لي زيدا وليجئ معه باللوح والدواة والكتف"}
+      - {motif: disabled-exempt-from-fighting, refs: ["Jāmiʿ 1:117.1", "Jāmiʿ 1:117.2"], note: "عمرو بن أم مكتوم الأعمى ... فنزلت مكانها: غير أولي الضرر"}
+  - id: hadith-1-revelation-dense-then-cut
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Revelation densest before his death; Umm Ayman weeps that it is cut off
+    read: ["Jāmiʿ 1:117.3-118.1"]
+    quran: []
+    tags:
+      - {motif: revelation-most-frequent-before-prophets-death, refs: ["Jāmiʿ 1:117.3"], note: "تابع على رسوله الوحي قبل وفاته حتى توفاه أكثر ما كان الوحي"}
+      - {motif: weeping-that-revelation-from-heaven-has-ceased, refs: ["Jāmiʿ 1:118.1"], note: "ولكن أبكي أن الوحي قد انقطع من السماء؛ فهيجتهما على البكاء"}
+  - id: hadith-45-sermon-on-the-beginning
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A sermon from the beginning of creation to the people of paradise and hell; man's denial and insult of God
+    read: ["Jāmiʿ 45:4856.1-4856.2"]
+    quran: ["112:1-4"]
+    tags:
+      - {motif: sermon-from-creation-to-final-abodes, refs: ["Jāmiʿ 45:4856.1"], note: "فأخبرنا عن بدء الخلق حتى دخل أهل الجنة منازلهم وأهل النار منازلهم، حفظ ذلك من حفظه ونسيه من نسي"}
+      - {motif: man-denies-and-insults-god, refs: ["Jāmiʿ 45:4856.2"], note: "كذبني ابن آدم ... وشتمني ... فأما تكذيبه إياي فقوله: لن يعيدني كما بدأني ... وأما شتمه إياي فقوله: اتخذ الله ولدا"}
+      - {motif: first-creation-not-easier-than-repeating-it, refs: ["Jāmiʿ 45:4856.2"], note: "وليس أول الخلق بأهون علي من إعادته"}
+      - {motif: god-has-no-son, refs: ["Jāmiʿ 45:4856.2"], note: "وأنا الأحد الصمد لم ألد ولم أولد"}
+  - id: hadith-45-everything-from-water
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Everything was created from water; four deeds that enter paradise
+    read: ["Jāmiʿ 45:4857.1-4857.2"]
+    quran: ["21:30"]
+    tags:
+      - {motif: all-creatures-made-from-water, refs: ["Jāmiʿ 45:4857.1", "Jāmiʿ 45:4857.2"], note: "ممّ خلق الخلق؟ فقال: من الماء؛ كل شيء خلق من ماء"}
+      - {motif: greeting-feeding-kinship-night-prayer-enter-paradise, refs: ["Jāmiʿ 45:4857.2"], note: "أفش السلام، وأطعم الطعام، وصل الأرحام، وقم بالليل والناس نيام"}
+  - id: hadith-45-who-created-god
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Satan's chain of questions ending in "who created your Lord?"
+    read: ["Jāmiʿ 45:4858.1-4858.2"]
+    quran: []
+    tags:
+      - {motif: devil-prompts-question-who-created-god, refs: ["Jāmiʿ 45:4858.1", "Jāmiʿ 45:4858.2"], note: "من خلق كذا؟ من خلق كذا؟ حتى يقول: من خلق ربك؟ فإذا بلغه فليستعذ بالله ولينته"}
+  - id: hadith-45-sermon-to-the-hour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A day-long sermon from dawn to sunset on all that was and will be
+    read: ["Jāmiʿ 45:4858.3-4858.4"]
+    quran: []
+    tags:
+      - {motif: sermon-from-creation-to-final-abodes, refs: ["Jāmiʿ 45:4858.3", "Jāmiʿ 45:4858.4"], note: "فأخبرنا بما كان وبما هو كائن؛ ما ترك شيئا يكون ... إلى قيام الساعة إلا حدث به"}
+      - {motif: sermon-interrupted-only-by-the-prayers, refs: ["Jāmiʿ 45:4858.3"], note: "صلى بنا الفجر ... فخطبنا حتى حضرت الظهر ... حتى حضرت العصر ... حتى غربت الشمس"}
+      - {motif: forgotten-prediction-recognized-like-a-face, refs: ["Jāmiʿ 45:4858.4"], note: "فأراه فأذكره كما يذكر الرجل وجه الرجل إذا غاب عنه ثم إذا رآه عرفه"}
+  - id: hadith-45-first-creation-and-the-pen
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: God before all things, his throne on the water; the pen first created and told to write
+    read: ["Jāmiʿ 45:4859.1-4861.2"]
+    quran: ["30:27", "10:4", "32:7", "10:34", "45:29"]
+    tags:
+      - {motif: god-alone-before-anything, refs: ["Jāmiʿ 45:4859.1"], note: "كان الله ولم يكن شيء قبله"}
+      - {motif: throne-on-the-water, refs: ["Jāmiʿ 45:4859.1"], note: "وكان عرشه على الماء، ثم خلق السموات والأرض"}
+      - {motif: all-things-written-in-the-dhikr, refs: ["Jāmiʿ 45:4859.1", "Jāmiʿ 45:4861.2"], note: "وكتب في الذكر كل شيء؛ فأحصاه عنده في الذكر"}
+      - {motif: pen-first-created-and-told-to-write, refs: ["Jāmiʿ 45:4860.1", "Jāmiʿ 45:4861.1", "Jāmiʿ 45:4861.2"], note: "إن أول ما خلق الله القلم، فقال له: اكتب. قال: رب، ماذا أكتب؟ قال: اكتب مقادير كل شيء حتى تقوم الساعة"}
+      - {motif: pen-taken-in-gods-right-hand, refs: ["Jāmiʿ 45:4861.2"], note: "فأخذه بيمينه - وكلتا يديه يمين"}
+      - {motif: deeds-copied-from-a-finished-record, refs: ["Jāmiʿ 45:4861.2"], note: "إنا كنا نستنسخ ما كنتم تعملون ... فهل تكون النسخة إلا من شيء قد فرغ منه"}
+      - {motif: what-strikes-you-could-not-miss-you, refs: ["Jāmiʿ 45:4860.1"], note: "أن ما أصابك لم يكن ليخطئك، وما أخطأك لم يكن ليصيبك"}
+      - {motif: lost-camel-beyond-the-mirage, refs: ["Jāmiʿ 45:4859.1"], note: "أدرك ناقتك فقد ذهبت ... فإذا السراب ينقطع دونها"}
+    hints:
+      - "The pen made first and ordered to write: compare m. Avot 5:6, where 'the writing and the stylus' (ha-ketav ve-ha-mikhtav) are among the things created at twilight of the sixth day."
+      - "The throne on the water before heaven and earth: compare Gen 1:2, the spirit of God over the face of the waters."
+  - id: hadith-45-cloud-before-creation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Where was our Lord before creation? In a cloud with air below and above
+    read: ["Jāmiʿ 45:4861.3"]
+    quran: ["43:82", "11:7"]
+    tags:
+      - {motif: god-in-a-cloud-with-air-above-and-below, refs: ["Jāmiʿ 45:4861.3"], note: "كان في عماء، ما تحته هواء، وما فوقه هواء"}
+      - {motif: throne-on-the-water, refs: ["Jāmiʿ 45:4861.3"], note: "وخلق عرشه على الماء"}
+  - id: hadith-45-frequented-house
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The frequented House in the seventh heaven, entered daily by seventy thousand angels who never return
+    read: ["Jāmiʿ 45:4862.1-4863.1"]
+    quran: ["52:1-4"]
+    tags:
+      - {motif: frequented-house-heavenly-temple, refs: ["Jāmiʿ 45:4862.1", "Jāmiʿ 45:4862.2", "Jāmiʿ 45:4863.1"], note: "البيت المعمور في السماء السابعة"}
+      - {motif: seventy-thousand-angels-daily-never-returning, refs: ["Jāmiʿ 45:4862.1", "Jāmiʿ 45:4862.2", "Jāmiʿ 45:4863.1"], note: "يصلي فيه كل يوم سبعون ألف ملك إذا خرجوا لم يعودوا إليه آخر ما عليهم"}
+      - {motif: heavenly-house-directly-above-the-kaba, refs: ["Jāmiʿ 45:4863.1"], note: "يقال له: الضراح، وهو مثل بناء هذا البيت الحرام، ولو سقط لسقط عليه"}
+      - {motif: abraham-met-in-seventh-heaven, refs: ["Jāmiʿ 45:4862.1"], note: "فأتيت على إبراهيم ... مرحبا بك من ابن ونبي فرفع لي البيت المعمور"}
+      - {motif: lote-tree-of-the-boundary-shown, refs: ["Jāmiʿ 45:4862.1"], note: "ورفعت لي سدرة المنتهى"}
+    hints:
+      - "A heavenly house set exactly over the earthly sanctuary, 'if it fell it would fall on it': compare the heavenly Jerusalem and temple corresponding to the earthly one (b. Hagigah 12b, Zevul with its altar where Michael offers; b. Taanit 5a)."
+  - id: hadith-45-seven-earths-and-stolen-land
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A handspan of land taken unjustly hung as a collar through seven earths
+    read: ["Jāmiʿ 45:4864.1-4865.1"]
+    quran: ["65:12", "7:54"]
+    tags:
+      - {motif: seven-heavens-and-seven-earths, refs: ["Jāmiʿ 45:4864.1", "Jāmiʿ 45:4864.2", "Jāmiʿ 45:4864.3", "Jāmiʿ 45:4865.1"], note: "من سبع أرضين"}
+      - {motif: stolen-land-hung-as-collar-through-seven-earths, refs: ["Jāmiʿ 45:4864.1", "Jāmiʿ 45:4864.3", "Jāmiʿ 45:4865.1"], note: "من ظلم قيد شبر طوقه من سبع أرضين"}
+      - {motif: land-thief-sunk-through-seven-earths, refs: ["Jāmiʿ 45:4864.2"], note: "من أخذ شيئا من الأرض بغير حقه خسف به يوم القيامة إلى سبع أرضين"}
+  - id: hadith-45-time-come-round
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Time has come round as on the day of creation; twelve months, four sacred
+    read: ["Jāmiʿ 45:4865.2"]
+    quran: ["65:12", "7:54"]
+    tags:
+      - {motif: time-returned-to-its-form-at-creation, refs: ["Jāmiʿ 45:4865.2"], note: "الزمان قد استدار كهيئته يوم خلق الله السموات والأرض"}
+      - {motif: four-sacred-months, refs: ["Jāmiʿ 45:4865.2"], note: "السنة اثنا عشر شهرا، منها أربعة حرم، ثلاث متواليات ... ورجب مضر الذي بين جمادى وشعبان"}
+      - {motif: blood-property-honour-sacred-as-this-day, refs: ["Jāmiʿ 45:4865.2"], note: "فإن دماءكم وأموالكم ... وأعراضكم عليكم حرام كحرمة يومكم هذا في بلدكم هذا في شهركم هذا"}
+      - {motif: present-to-inform-the-absent, refs: ["Jāmiʿ 45:4865.2"], note: "ألا ليبلغ الشاهد الغائب"}
+  - id: hadith-45-decrees-and-the-full-hand
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Decrees written fifty thousand years before creation; the night prayer to the Lord of Gabriel, Michael and Israfil; God's full right hand
+    read: ["Jāmiʿ 45:4865.3-4866.2"]
+    quran: ["65:12", "7:54"]
+    tags:
+      - {motif: decrees-written-fifty-thousand-years-before-creation, refs: ["Jāmiʿ 45:4865.3"], note: "كتب الله مقادير الخلائق قبل أن يخلق السماوات والأرض بخمسين ألف سنة"}
+      - {motif: throne-on-the-water, refs: ["Jāmiʿ 45:4865.3", "Jāmiʿ 45:4866.2"], note: "وعرشه على الماء"}
+      - {motif: lord-of-gabriel-michael-israfil, refs: ["Jāmiʿ 45:4866.1"], note: "اللهم رب جبرائيل وميكائيل وإسرافيل فاطر السماوات والأرض"}
+      - {motif: gods-right-hand-full-unspent, refs: ["Jāmiʿ 45:4866.2"], note: "إن يمين الله ملأى لا يغيضها نفقة سحاء الليل والنهار ... وبيده الأخرى الفيض أو القبض يرفع ويخفض"}
+  - id: hadith-45-bedouin-swears-the-prophet
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The bedouin asks by the Maker of sky, earth and mountains; five prayers, zakat, Ramadan, pilgrimage
+    read: ["Jāmiʿ 45:4867.1"]
+    quran: ["65:12", "7:54"]
+    tags:
+      - {motif: oath-by-maker-of-sky-earth-mountains, refs: ["Jāmiʿ 45:4867.1"], note: "فمن خلق السماء؟ ... الأرض؟ ... فمن نصب هذه الجبال؟ ... فبالذي خلق السماء ... آلله أرسلك؟"}
+      - {motif: five-prayers-zakat-ramadan-pilgrimage-listed, refs: ["Jāmiʿ 45:4867.1"], note: "خمس صلوات في يومنا وليلتنا ... زكاة ... صوم شهر رمضان ... حج البيت من استطاع إليه سبيلا"}
+      - {motif: neither-add-nor-subtract-gains-paradise, refs: ["Jāmiʿ 45:4867.1"], note: "لا أزيد عليهن ولا أنقص منهن ... لئن صدق ليدخلن الجنة"}
+  - id: hadith-45-sun-prostrates-under-throne
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Where the sun goes - prostration under the throne; rising from the west; sun and moon rolled up
+    read: ["Jāmiʿ 45:4868.1-4869.1"]
+    quran: ["36:38", "6:158", "21:33", "41:37"]
+    tags:
+      - {motif: sun-s-resting-place-at-the-end-of-its-course, refs: ["Jāmiʿ 45:4868.1"], note: "تجري حتى تنتهي إلى مستقرها تحت العرش"}
+      - {motif: sun-prostrates-under-throne-each-night, refs: ["Jāmiʿ 45:4868.1"], note: "فتخر ساجدة، فلا تزال كذلك حتى يقال لها: ارتفعي ارجعي من حيث جئت"}
+      - {motif: sun-ordered-to-rise-from-the-west, refs: ["Jāmiʿ 45:4868.1"], note: "فيقال لها: ارتفعي أصبحي طالعة من مغربك فتصبح طالعة من مغربها"}
+      - {motif: faith-unaccepted-after-sign-of-the-end, refs: ["Jāmiʿ 45:4868.1"], note: "ذاك حين لا ينفع نفسا إيمانها لم تكن آمنت من قبل"}
+      - {motif: sun-and-moon-rolled-up-at-resurrection, refs: ["Jāmiʿ 45:4869.1"], note: "الشمس والقمر مكوران يوم القيامة"}
+    hints:
+      - "The sun that each night must ask leave to rise again: compare 3 Baruch 6-8, where angels take the sun's crown at sunset and renew it before it rises, and 1 Enoch 72 on the sun's gates."
+  - id: hadith-45-eclipse-not-for-a-death
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sun and moon do not eclipse for anyone's death; pray and remember God
+    read: ["Jāmiʿ 45:4869.2-4869.5"]
+    quran: ["41:37"]
+    tags:
+      - {motif: eclipse-not-for-anyones-death-or-life, refs: ["Jāmiʿ 45:4869.2", "Jāmiʿ 45:4869.3", "Jāmiʿ 45:4869.4", "Jāmiʿ 45:4869.5"], note: "إن الشمس والقمر لا يخسفان لموت أحد ولا لحياته ولكنهما آيتان من آيات الله"}
+      - {motif: eclipse-on-the-day-the-prophets-son-died, refs: ["Jāmiʿ 45:4869.3"], note: "كسفت الشمس ... يوم مات إبراهيم فقال الناس: كسفت الشمس لموت إبراهيم"}
+      - {motif: prayer-and-remembrance-at-eclipse, refs: ["Jāmiʿ 45:4869.2", "Jāmiʿ 45:4869.3", "Jāmiʿ 45:4869.4", "Jāmiʿ 45:4869.5"], note: "فإذا رأيتموهما فصلوا؛ فاذكروا الله؛ وادعوا الله حتى يكشف ما بكم"}
+      - {motif: eclipse-sent-to-frighten-gods-servants, refs: ["Jāmiʿ 45:4869.5"], note: "يخوف الله بهما عباده"}
+  - id: hadith-45-winds
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Victory by the east wind, Ad destroyed by the west wind; the prophet's fear at wind and cloud
+    read: ["Jāmiʿ 45:4870.1-4870.3"]
+    quran: ["25:48", "33:9", "30:46", "69:6", "46:24"]
+    tags:
+      - {motif: helped-by-east-wind-ad-destroyed-by-west-wind, refs: ["Jāmiʿ 45:4870.1"], note: "نصرت بالصبا، وأهلكت عاد بالدبور"}
+      - {motif: prophet-alarmed-by-wind-and-cloud, refs: ["Jāmiʿ 45:4870.2", "Jāmiʿ 45:4870.3"], note: "كانت الريح الشديدة إذا هبت عرف ذلك في وجه النبي؛ إذا رأى مخيلة ... أقبل وأدبر ودخل وخرج وتغير وجهه"}
+      - {motif: doom-cloud-mistaken-for-rain, refs: ["Jāmiʿ 45:4870.3"], note: "لعله كما قال قوم: هذا عارض ممطرنا بل هو ما استعجلتم به ريح فيها عذاب أليم"}
+  - id: hadith-45-angels-jinn-adam-matter
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Angels from light, jinn from a flame of fire, Adam from what you were told
+    read: ["Jāmiʿ 45:4871.1-4871.2"]
+    quran: ["55:15", "15:27", "38:76"]
+    tags:
+      - {motif: angels-created-from-light, refs: ["Jāmiʿ 45:4871.1", "Jāmiʿ 45:4871.2"], note: "خلقت الملائكة من نور"}
+      - {motif: jinn-created-from-fire, refs: ["Jāmiʿ 45:4871.1", "Jāmiʿ 45:4871.2"], note: "وخلق الجان من مارج من نار"}
+      - {motif: adam-made-of-what-was-described, refs: ["Jāmiʿ 45:4871.1", "Jāmiʿ 45:4871.2"], note: "وخلق آدم مما وصف لكم"}
+    hints:
+      - "Angels made of light beside jinn of fire: compare 2 Enoch 29:1-3, where the angelic hosts are made from fire cut from the rock."
+  - id: hadith-45-three-kinds-of-jinn
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Three kinds of jinn - winged fliers, snakes (and dogs), settlers and travellers
+    read: ["Jāmiʿ 45:4872.1"]
+    quran: []
+    tags:
+      - {motif: three-kinds-of-jinn, refs: ["Jāmiʿ 45:4872.1"], note: "الجن على ثلاثة أصناف: صنف لهم أجنحة يطيرون في الهواء، وصنف حيات، وصنف يحلون ويظعنون"}
+  - id: hadith-45-night-of-the-jinn
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The night of the jinn, their traces and fires, their food; Ibn Abbas's denial; nine jinn at Nakhla; the delegation of Nisibin
+    read: ["Jāmiʿ 45:4873.1-4875.2"]
+    quran: ["72:1-2", "46:29-32"]
+    tags:
+      - {motif: prophet-taken-by-summoner-of-the-jinn, refs: ["Jāmiʿ 45:4873.1"], note: "أتاني داعي الجن، فذهبت معه، فقرأت عليهم القرآن ... فأرانا آثارهم وآثار نيرانهم"}
+      - {motif: companions-fear-prophet-snatched-by-jinn, refs: ["Jāmiʿ 45:4873.1"], note: "ففقدناه ... فقلنا: استطير، أو اغتيل! فبتنا بشر ليلة بات بها قوم"}
+      - {motif: bones-and-dung-food-of-jinn, refs: ["Jāmiʿ 45:4873.1", "Jāmiʿ 45:4875.2"], note: "لكم كل عظم ذكر اسم الله عليه ... وكل بعرة علف لدوابكم ... فلا تستنجوا بهما فإنهما طعام إخوانكم"}
+      - {motif: no-cleansing-with-bone-or-dung, refs: ["Jāmiʿ 45:4873.1", "Jāmiʿ 45:4875.2"], note: "ابغني أحجارا أستنفض بها، ولا تأتني بعظم ولا بروثة"}
+      - {motif: prophet-neither-saw-nor-recited-to-jinn, refs: ["Jāmiʿ 45:4874.1"], note: "ما قرأ رسول الله على الجن وما رآهم"}
+      - {motif: jinn-hear-quran-at-dawn-prayer, refs: ["Jāmiʿ 45:4874.1", "Jāmiʿ 45:4875.1"], note: "وهو يصلي بأصحابه صلاة الفجر فلما سمعوا القرآن استمعوا له؛ هبطوا على النبي وهو يقرأ القرآن ببطن نخلة"}
+      - {motif: nine-jinn-one-named-zawba-a, refs: ["Jāmiʿ 45:4875.1"], note: "قالوا: صه وكانوا تسعة أحدهم زوبعة"}
+      - {motif: jinn-delegation-of-nisibin, refs: ["Jāmiʿ 45:4875.2"], note: "أتاني وفد جن نصيبين - ونعم الجن - فسألوني الزاد"}
+  - id: hadith-45-where-devils-lodge
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Naming God at the door and the meal denies the devil lodging and supper; privies are haunted
+    read: ["Jāmiʿ 45:4876.1-4876.2"]
+    quran: []
+    tags:
+      - {motif: gods-name-at-door-and-meal-bars-devil, refs: ["Jāmiʿ 45:4876.1"], note: "قال الشيطان: لا مبيت لكم ولا عشاء ... أدركتم المبيت والعشاء"}
+      - {motif: privies-frequented-by-jinn, refs: ["Jāmiʿ 45:4876.2"], note: "إن هذه الحشوش محتضرة، فإذا أتى أحدكم الخلاء فليقل: أعوذ بالله من الخبث والخبائث"}
+  - id: hadith-45-all-who-hear-the-adhan-testify
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Jinn, humans and every thing within reach of the caller's voice testify for him
+    read: ["Jāmiʿ 45:4876.3"]
+    quran: []
+    tags:
+      - {motif: all-within-earshot-of-adhan-testify, refs: ["Jāmiʿ 45:4876.3"], note: "لا يسمع مدى صوت المؤذن جن ولا إنس ولا شيء إلا شهد له يوم القيامة"}
+  - id: hadith-45-soothsayers-word
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The jinni cackles the snatched word into his ally's ear like a hen
+    read: ["Jāmiʿ 45:4876.4"]
+    quran: []
+    tags:
+      - {motif: one-stolen-word-mixed-with-hundred-lies, refs: ["Jāmiʿ 45:4876.4"], note: "تلك الكلمة من الحق يخطفها الجني ... فيخلطون أكثر من مائة كذبة"}
+      - {motif: jinni-clucks-word-into-soothsayers-ear, refs: ["Jāmiʿ 45:4876.4"], note: "فيقرقرها في أذن وليه كقرقرة الدجاجة"}
+  - id: hadith-45-house-snakes
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The bridegroom and the snake on the bed; Muslim jinn in Medina; house snakes warned three days
+    read: ["Jāmiʿ 45:4877.1-4878.1"]
+    quran: []
+    tags:
+      - {motif: bridegroom-and-snake-die-together, refs: ["Jāmiʿ 45:4877.1"], note: "فإذا بحية عظيمة منطوية على الفراش فأهوى إليها بالرمح فانتظمها ... فما يدرى أيهما كان أسرع موتا الحية أم الفتى"}
+      - {motif: house-snakes-are-muslim-jinn-warned-three-days, refs: ["Jāmiʿ 45:4877.1", "Jāmiʿ 45:4878.1"], note: "إن بالمدينة جنا قد أسلموا، فإذا رأيتم منهم شيئا فآذنوه ثلاثة أيام، فإن بدا لكم بعد ذلك فاقتلوه، فإنما هو شيطان"}
+      - {motif: two-striped-and-tailless-snakes-blind-and-abort, refs: ["Jāmiʿ 45:4878.1"], note: "وأمر بقتل الأبتر وذي الطفيتين ... يلتمعان البصر، ويطرحان أولاد النساء"}
+      - {motif: young-husband-returns-at-noon-from-the-trench, refs: ["Jāmiʿ 45:4877.1"], note: "فتى منا حديث عهد بعرس ... يستأذن رسول الله بأنصاف النهار ... خذ عليك سلاحك فإني أخشى عليك قريظة"}
+  - id: hadith-45-devils-in-animal-form
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The jet-black dog with two spots is a devil; jinn as snakes and dogs
+    read: ["Jāmiʿ 45:4878.2-4879.1"]
+    quran: []
+    tags:
+      - {motif: black-dog-with-two-spots-is-devil, refs: ["Jāmiʿ 45:4878.2"], note: "عليكم بالأسود البهيم ذي النقطتين فإنه شيطان"}
+      - {motif: killing-of-dogs-ordered-then-restricted, refs: ["Jāmiʿ 45:4878.2"], note: "أمرنا رسول الله بقتل الكلاب ... ثم نهى النبي عن قتلها"}
+      - {motif: three-kinds-of-jinn, refs: ["Jāmiʿ 45:4879.1"], note: "صنف حيات وكلاب"}
+  - id: hadith-45-thief-of-the-alms-store
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The thief caught three nights at the dates, who teaches the Throne Verse
+    read: ["Jāmiʿ 45:4879.2-4882.1"]
+    quran: ["2:255", "2:284-286"]
+    tags:
+      - {motif: thief-caught-three-times-pleads-family, refs: ["Jāmiʿ 45:4879.2", "Jāmiʿ 45:4881.1", "Jāmiʿ 45:4882.1"], note: "إني محتاج وعلي عيال ... فخليت سبيله ... وهذا آخر ثلاث مرات"}
+      - {motif: prophet-foretells-the-thief-will-return, refs: ["Jāmiʿ 45:4879.2", "Jāmiʿ 45:4881.1", "Jāmiʿ 45:4882.1", "Jāmiʿ 45:4881.2"], note: "أما إنه قد كذبك وسيعود؛ كذبت وهي معاودة للكذب"}
+      - {motif: captive-devil-teaches-throne-verse-as-protection, refs: ["Jāmiʿ 45:4879.2", "Jāmiʿ 45:4880.1", "Jāmiʿ 45:4881.1", "Jāmiʿ 45:4882.1"], note: "إذا أويت إلى فراشك فاقرأ آية الكرسي ... لن يزال عليك من الله حافظ ولا يقربك شيطان حتى تصبح"}
+      - {motif: he-told-you-truth-though-a-liar, refs: ["Jāmiʿ 45:4879.2", "Jāmiʿ 45:4881.1", "Jāmiʿ 45:4882.1"], note: "أما إنه قد صدقك وهو كذوب ... ذاك شيطان"}
+      - {motif: jinni-with-dogs-hand-and-hair, refs: ["Jāmiʿ 45:4880.1"], note: "دابة شبه الغلام المحتلم ... فإذا يده يد كلب وشعره شعر كلب، قال: هكذا خلق الجن"}
+      - {motif: ghoul-steals-dates-from-store, refs: ["Jāmiʿ 45:4881.1", "Jāmiʿ 45:4882.1"], note: "فكانت تجيء الغول فتأخذ منه؛ فإذا غول قد سقطت عليه"}
+      - {motif: devil-enters-as-elephant-through-door-crack, refs: ["Jāmiʿ 45:4881.2"], note: "فجاء سواد عظيم فغشي الباب، ثم دخل من شق الباب، فتحول في صورة فيل"}
+      - {motif: jinn-expelled-from-town-at-prophets-coming, refs: ["Jāmiʿ 45:4881.2"], note: "وقد كانت لنا هذه القرية قبل أن يبعث محمد ... فلما بعث أخرجنا منها، ونحن من جن نصيبين"}
+      - {motif: end-of-baqara-keeps-devil-from-house, refs: ["Jāmiʿ 45:4881.2"], note: "إذا قلته لم يدخل الشيطان البيت: لله ما في السماوات وما في الأرض إلى آخر السورة"}
+      - {motif: captive-told-in-gods-name-answer-the-prophet, refs: ["Jāmiʿ 45:4881.1"], note: "فقل: بسم الله أجيبي رسول الله"}
+  - id: hadith-45-iblis-throne-on-the-sea
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Iblis's throne on the water and his raiding parties; Ibn Sayyad sees it
+    read: ["Jāmiʿ 45:4883.1-4884.2"]
+    quran: []
+    tags:
+      - {motif: devil-despairs-of-worship-in-arabia, refs: ["Jāmiʿ 45:4883.1"], note: "إن الشيطان قد أيس أن يعبده المصلون في جزيرة العرب، ولكن في التحريش بينهم"}
+      - {motif: iblis-throne-on-the-water, refs: ["Jāmiʿ 45:4883.1", "Jāmiʿ 45:4884.1", "Jāmiʿ 45:4884.2"], note: "إن إبليس يضع عرشه على الماء؛ عرش إبليس على البحر"}
+      - {motif: iblis-sends-troops-and-praises-who-splits-a-couple, refs: ["Jāmiʿ 45:4883.1", "Jāmiʿ 45:4884.1"], note: "ثم يبعث سراياه ... ما تركته حتى فرقت بينه وبين امرأته ... فيدنيه منه ويقول: نعم أنت"}
+      - {motif: false-seer-sees-throne-on-water, refs: ["Jāmiʿ 45:4884.2"], note: "قال: أرى عرشا على الماء ... ترى عرش إبليس على البحر ... لبس عليه دعوه"}
+  - id: hadith-45-devils-seat-door-sandal
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sitting between sun and shade; the closed door, tied skins and covered vessels; the devil walks in one sandal
+    read: ["Jāmiʿ 45:4884.3-4885.2"]
+    quran: []
+    tags:
+      - {motif: no-sitting-between-sun-and-shade, refs: ["Jāmiʿ 45:4884.3"], note: "أنه نهى أن يقعد بين الشمس والظل"}
+      - {motif: children-kept-in-at-nightfall-when-devils-spread, refs: ["Jāmiʿ 45:4885.1"], note: "إذا كان جنح الليل أو أمسيتم فكفوا صبيانكم، فإن الشياطين تنتشر حينئذ"}
+      - {motif: devil-cannot-open-closed-door, refs: ["Jāmiʿ 45:4885.1"], note: "فأغلقوا الأبواب واذكروا اسم الله فإن الشيطان لا يفتح بابا مغلقا، وأوكوا قربكم ... وخمروا آنيتكم ... وأطفئوا مصابيحكم"}
+      - {motif: devil-walks-in-one-sandal, refs: ["Jāmiʿ 45:4885.2"], note: "نهى عن المشي في النعل الواحدة وقال: إن الشيطان يمشي بالنعل الواحدة"}
+  - id: hadith-45-paradise-and-hell-surrounded
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Gabriel sent to look at paradise ringed with hardships and hell ringed with desires; each made for its people
+    read: ["Jāmiʿ 45:4886.1-4886.2"]
+    quran: ["3:133", "79:40"]
+    tags:
+      - {motif: gabriel-sent-to-inspect-paradise-and-hell, refs: ["Jāmiʿ 45:4886.1"], note: "أرسل جبريل إلى الجنة فقال: انظر إليها وإلى ما أعددت لأهلها فيها"}
+      - {motif: paradise-ringed-with-hardships-hell-with-desires, refs: ["Jāmiʿ 45:4886.1"], note: "فأمر بها فحفت بالمكاره ... فأمر بها فحفت بالشهوات"}
+      - {motif: none-will-enter-none-will-escape, refs: ["Jāmiʿ 45:4886.1"], note: "وعزتك لقد خفت أن لا يدخلها أحد ... لقد خشيت أن لا ينجو منها أحد إلا دخلها"}
+      - {motif: paradise-and-hell-each-created-with-its-people, refs: ["Jāmiʿ 45:4886.2"], note: "طوبى له عصفور من عصافير الجنة ... إن الله خلق الجنة وخلق النار فخلق لهذه أهلا ولهذه أهلا"}
+  - id: hadith-45-joints-and-tailbone
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Three hundred and sixty joints; forty between the two blasts; the tailbone from which man is rebuilt
+    read: ["Jāmiʿ 45:4887.1-4887.3"]
+    quran: []
+    tags:
+      - {motif: human-made-of-360-joints, refs: ["Jāmiʿ 45:4887.1"], note: "خلق كل إنسان من بني آدم على ستين وثلاثمائة مفصل ... عدد تلك الستين والثلاثمائة السلامى"}
+      - {motif: forty-between-the-two-trumpet-blasts, refs: ["Jāmiʿ 45:4887.2"], note: "ما بين النفختين أربعون ... أربعون يوما؟ قال: أبيت"}
+      - {motif: rain-makes-the-dead-sprout-like-herbs, refs: ["Jāmiʿ 45:4887.2"], note: "ثم ينزل الله من السماء ماء فينبتون كما ينبت البقل"}
+      - {motif: tailbone-never-decays-man-rebuilt-from-it, refs: ["Jāmiʿ 45:4887.2", "Jāmiʿ 45:4887.3"], note: "ليس من الإنسان شيء إلا يبلى إلا عظما واحدا وهو عجب الذنب ومنه يركب الخلق يوم القيامة"}
+    hints:
+      - "The one bone that never decays and from which the body is rebuilt (ʿajb al-dhanab) against the 'luz' of the spine that R. Joshua b. Hananiah showed Hadrian could not be ground, burnt or crushed, from which God makes man sprout at the resurrection (Gen. Rab. 28:3; Lev. Rab. 18:1)."
+      - "Rain from heaven making the dead sprout like herbs: compare the 'dew of lights' by which the dead revive (Isa 26:19) and the dew of resurrection in b. Hagigah 12b and b. Shabbat 88b."
+  - id: hadith-45-embryo-and-the-angel
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Forty days as drop, clot and lump; an angel writes four words; the decree overtakes
+    read: ["Jāmiʿ 45:4887.4"]
+    quran: []
+    tags:
+      - {motif: embryo-forty-days-each-as-drop-clot-lump, refs: ["Jāmiʿ 45:4887.4"], note: "يجمع خلقه في بطن أمه أربعين يوما ثم يكون علقة مثل ذلك ثم يكون مضغة مثل ذلك"}
+      - {motif: embryo-stages-dust-drop-clot-lump, refs: ["Jāmiʿ 45:4887.4"], note: "يجمع خلقه في بطن أمه ... ثم يكون علقة ... ثم يكون مضغة (no drop named)"}
+      - {motif: angel-writes-four-things-for-the-embryo, refs: ["Jāmiʿ 45:4887.4"], note: "ثم يبعث الله ملكا فيؤمر بأربع كلمات ... اكتب عمله ورزقه وأجله وشقي أو سعيد"}
+      - {motif: spirit-breathed-in-after-embryo-stages, refs: ["Jāmiʿ 45:4887.4"], note: "ثم ينفخ فيه الروح"}
+      - {motif: decree-overtakes-one-a-cubit-from-the-end, refs: ["Jāmiʿ 45:4887.4"], note: "حتى ما يكون بينه وبين الجنة إلا ذراع فيسبق عليه كتابه"}
+    hints:
+      - "The angel set over the embryo who writes its lot: compare b. Niddah 16b, where the angel Layla takes the drop before God and asks 'strong or weak, wise or foolish, rich or poor?', and m. Niddah 3:7 / b. Niddah 30b on forty days for the formation of the male embryo."
+  - id: hadith-45-born-on-the-fitra
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Every child born on the fitra; the parents make him a Jew or Christian; devils lead the hanifs astray
+    read: ["Jāmiʿ 45:4888.1-4888.2"]
+    quran: ["30:30"]
+    tags:
+      - {motif: fitra-primordial-nature, refs: ["Jāmiʿ 45:4888.1"], note: "ما من مولود إلا يولد على الفطرة"}
+      - {motif: parents-make-child-jew-or-christian, refs: ["Jāmiʿ 45:4888.1"], note: "فأبواه يهودانه وينصرانه"}
+      - {motif: newborn-beast-whole-until-ears-cut, refs: ["Jāmiʿ 45:4888.1"], note: "كما تنتجون البهيمة هل تجدون فيها من جدعاء حتى تكونوا أنتم تجدعونها"}
+      - {motif: god-knows-what-dead-children-would-have-done, refs: ["Jāmiʿ 45:4888.1"], note: "أفرأيت من يموت وهو صغير قال: الله أعلم بما كانوا عاملين"}
+      - {motif: devils-drive-hanif-servants-from-their-religion, refs: ["Jāmiʿ 45:4888.2"], note: "خلقت عبادي حنفاء كلهم وإنهم أتتهم الشياطين فاجتالتهم عن دينهم وحرمت عليهم ما أحللت لهم"}
+  - id: hadith-45-souls-as-ranked-troops
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Souls are mustered troops; those that knew each other agree
+    read: ["Jāmiʿ 45:4888.3"]
+    quran: []
+    tags:
+      - {motif: souls-mustered-troops-that-recognize-each-other, refs: ["Jāmiʿ 45:4888.3"], note: "الأرواح جنود مجندة، فما تعارف منها ائتلف، وما تناكر منها اختلف"}
+  - id: hadith-45-woman-from-a-rib
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Woman created from a rib whose top is most crooked
+    read: ["Jāmiʿ 45:4889.1"]
+    quran: []
+    tags:
+      - {motif: woman-from-rib, refs: ["Jāmiʿ 45:4889.1"], note: "فإن المرأة خلقت من ضلع"}
+      - {motif: crooked-rib-breaks-if-straightened, refs: ["Jāmiʿ 45:4889.1"], note: "وإن أعوج شيء في الضلع أعلاه فإن ذهبت تقيمه كسرته وإن تركته لم يزل أعوج فاستوصوا بالنساء"}
+    hints:
+      - "The rib (ḍilʿ) against Gen 2:21-22 (tsela'), where no crookedness is said; Gen. Rab. 18:2 makes God choose the part to avoid faults in the woman."
+  - id: hadith-45-maker-and-his-making
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: God makes every maker and his making
+    read: ["Jāmiʿ 45:4889.2"]
+    quran: ["37:96"]
+    tags:
+      - {motif: god-makes-every-maker-and-his-work, refs: ["Jāmiʿ 45:4889.2"], note: "إن الله يصنع كل صانع وصنعته"}
+  - id: hadith-45-hundred-parts-of-mercy
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Mercy in a hundred parts, one sent to earth, ninety-nine kept for the day of resurrection
+    read: ["Jāmiʿ 45:4889.3-4890.5"]
+    quran: ["21:84", "17:24"]
+    tags:
+      - {motif: mercy-in-hundred-parts-one-on-earth, refs: ["Jāmiʿ 45:4889.3", "Jāmiʿ 45:4890.1", "Jāmiʿ 45:4890.2", "Jāmiʿ 45:4890.3", "Jāmiʿ 45:4890.4", "Jāmiʿ 45:4890.5"], note: "جعل الله الرحمة مائة جزء فأمسك عنده تسعة وتسعين جزءا وأنزل في الأرض جزءا واحدا"}
+      - {motif: mare-lifts-hoof-from-her-foal, refs: ["Jāmiʿ 45:4889.3"], note: "حتى ترفع الفرس حافرها عن ولدها خشية أن تصيبه"}
+      - {motif: each-mercy-fills-space-of-heaven-and-earth, refs: ["Jāmiʿ 45:4890.4"], note: "كل رحمة طباق ما بين السماء والأرض"}
+      - {motif: ninety-nine-mercies-completed-at-resurrection, refs: ["Jāmiʿ 45:4890.2", "Jāmiʿ 45:4890.4", "Jāmiʿ 45:4890.5"], note: "فإذا كان يوم القيامة أكملها بهذه الرحمة"}
+      - {motif: unbeliever-would-not-despair-believer-not-feel-safe, refs: ["Jāmiʿ 45:4890.1"], note: "فلو يعلم الكافر بكل الذي عند الله من الرحمة لم ييئس من الجنة، ولو يعلم المؤمن بكل الذي عند الله من العذاب لم يأمن من النار"}
+  - id: hadith-45-zayd-refuses-idol-sacrifices
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Zayd b. Amr refuses meat sacrificed on the stones; God made the sheep and its pasture
+    read: ["Jāmiʿ 45:4891.1"]
+    quran: ["24:45", "45:4", "16:4-8"]
+    tags:
+      - {motif: refusal-of-meat-slaughtered-on-cult-stones, refs: ["Jāmiʿ 45:4891.1"], note: "إني لست آكل مما تذبحون على أنصابكم ولا آكل إلا ما ذكر اسم الله عليه"}
+      - {motif: god-made-sheep-and-its-rain-and-pasture, refs: ["Jāmiʿ 45:4891.1"], note: "الشاة خلقها الله وأنزل لها من السماء الماء وأنبت لها من الأرض ثم تذبحونها على غير اسم الله"}
+  - id: hadith-45-cow-and-wolf-speak
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The ridden cow says it was made for ploughing; the wolf asks who will guard the sheep on the day of the beast
+    read: ["Jāmiʿ 45:4892.1"]
+    quran: ["24:45", "45:4", "16:4-8"]
+    tags:
+      - {motif: ridden-cow-protests-made-for-ploughing, refs: ["Jāmiʿ 45:4892.1"], note: "بينا رجل يسوق بقرة إذ ركبها فضربها فقالت: إنا لم نخلق لهذا إنما خلقنا للحرث"}
+      - {motif: wolf-claims-the-sheep-on-the-day-of-the-beast, refs: ["Jāmiʿ 45:4892.1"], note: "فمن لها يوم السبع يوم لا راعي لها غيري"}
+      - {motif: prophet-believes-it-with-abu-bakr-and-umar, refs: ["Jāmiʿ 45:4892.1"], note: "فإني أومن بهذا أنا وأبو بكر وعمر وما هما ثم"}
+    hints:
+      - "The beast that speaks to rebuke its rider: compare Balaam's she-ass (Num 22:28-30, 'am I not your ass on which you have ridden?')."
+  - id: hadith-45-camels-and-devils
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Ablution after camel meat; no prayer in camel pens; a devil on every camel's hump
+    read: ["Jāmiʿ 45:4892.2-4893.1"]
+    quran: ["24:45", "45:4", "16:4-8"]
+    tags:
+      - {motif: ablution-after-camel-meat-not-mutton, refs: ["Jāmiʿ 45:4892.2"], note: "توضئوا منها ... لحوم الغنم فقال: لا تتوضئوا منها"}
+      - {motif: no-prayer-in-camel-pens-pray-in-sheepfolds, refs: ["Jāmiʿ 45:4892.2"], note: "لا تصلوا في مبارك الإبل فإنها من الشياطين ... صلوا فيها فإنها بركة"}
+      - {motif: devil-on-every-camels-hump, refs: ["Jāmiʿ 45:4893.1"], note: "ما من بعير لنا إلا في ذروته شيطان فاذكروا اسم الله عليها إذا ركبتموها"}
+  - id: hadith-45-stones-and-trees-speak-but-the-gharqad
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Jesus kills the Dajjal at the gate of Lydda; every created thing speaks but the gharqad
+    read: ["Jāmiʿ 45:4893.2"]
+    quran: []
+    tags:
+      - {motif: jesus-kills-dajjal-at-gate-of-lydda, refs: ["Jāmiʿ 45:4893.2"], note: "ويقول عيسى: إن لي فيك ضربة لن تسبقني بها فيدركه عند باب اللد الشرقي فيقتله"}
+      - {motif: stones-and-trees-speak-except-gharqad, refs: ["Jāmiʿ 45:4893.2"], note: "إلا أنطق الله ذلك الشيء لا حجر ولا شجر ولا حائط ولا دابة - إلا الغرقدة فإنها من شجرهم لا تنطق"}
+  - id: hadith-45-god-is-the-physician
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The physician offers to treat the lump on the prophet's back; its physician is the one who made it
+    read: ["Jāmiʿ 45:4894.1"]
+    quran: []
+    tags:
+      - {motif: god-is-the-physician, refs: ["Jāmiʿ 45:4894.1"], note: "قال: الله الطبيب بل أنت رجل رفيق طبيبها الذي خلقها"}
+      - {motif: lump-between-the-prophets-shoulders, refs: ["Jāmiʿ 45:4894.1"], note: "ثم نظر إلى مثل السلعة بين كتفيه ... فأرني هذه السلعة التي بظهرك ... أقطعها"}
+  - id: hadith-45-transformed-have-no-offspring
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Lifespans are fixed; God gave no descendants to the transformed; apes and pigs existed before
+    read: ["Jāmiʿ 45:4894.2"]
+    quran: []
+    tags:
+      - {motif: fixed-terms-days-and-provisions, refs: ["Jāmiʿ 45:4894.2"], note: "قد سألت الله لآجال مضروبة وأيام معدودة وأرزاق مقسومة لن يعجل شيئا قبل حله"}
+      - {motif: transformed-people-left-no-offspring, refs: ["Jāmiʿ 45:4894.2"], note: "إن الله لم يجعل لمسخ نسلا ولا عقبا وقد كانت القردة والخنازير قبل ذلك"}
+  - id: hadith-45-lost-israelites-as-mice
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A lost nation of Israel thought to be the mice, who refuse camels' milk and drink sheep's milk
+    read: ["Jāmiʿ 45:4895.1-4895.2"]
+    quran: []
+    tags:
+      - {motif: lost-israelite-nation-perhaps-the-mice, refs: ["Jāmiʿ 45:4895.1", "Jāmiʿ 45:4895.2"], note: "فقدت أمة من بني إسرائيل لا يدرى ما فعلت ولا أراها إلا الفأر؛ الفأرة مسخ"}
+      - {motif: mouse-refuses-camels-milk-drinks-sheeps, refs: ["Jāmiʿ 45:4895.1", "Jāmiʿ 45:4895.2"], note: "إذا وضع لها ألبان الإبل لم تشربه وإذا وضع لها ألبان الشاء شربته"}
+      - {motif: do-i-read-the-torah-retort-to-kab, refs: ["Jāmiʿ 45:4895.1", "Jāmiʿ 45:4895.2"], note: "فحدثت هذا الحديث كعبا فقال: آنت سمعته من رسول الله؟ ... أأقرأ التوراة؟؛ أفأنزلت علي التوراة؟"}
+    hints:
+      - "The test of camel's milk turns on the camel being forbidden to Israel: Lev 11:4 and Deut 14:7 (the camel chews the cud but does not part the hoof)."
+  - id: hadith-46-narrate-from-israel
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Convey from me even a verse; narrate from the Children of Israel without harm
+    read: ["Jāmiʿ 46:4896.1-4896.3"]
+    quran: []
+    tags:
+      - {motif: convey-even-a-single-verse, refs: ["Jāmiʿ 46:4896.1"], note: "بلغوا عني ولو آية"}
+      - {motif: narrate-from-israelites-no-harm, refs: ["Jāmiʿ 46:4896.1", "Jāmiʿ 46:4896.2", "Jāmiʿ 46:4896.3"], note: "وحدثوا عن بني إسرائيل ولا حرج"}
+      - {motif: liar-against-prophet-takes-seat-in-fire, refs: ["Jāmiʿ 46:4896.1", "Jāmiʿ 46:4896.2"], note: "ومن كذب علي متعمدا فليتبوأ مقعده من النار"}
+  - id: hadith-46-eve-and-the-spoiling-meat
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: But for Israel meat would not rot; but for Eve no woman would betray her husband
+    read: ["Jāmiʿ 46:4896.4"]
+    quran: []
+    tags:
+      - {motif: meat-rots-because-of-israel, refs: ["Jāmiʿ 46:4896.4"], note: "لولا بنو إسرائيل لم يخبث الطعام ولم يخنز اللحم"}
+      - {motif: eves-betrayal-inherited-by-women, refs: ["Jāmiʿ 46:4896.4"], note: "ولولا حواء لم تخن أنثى زوجها الدهر"}
+    hints:
+      - "Food that spoils because Israel stored it: compare the manna kept overnight that bred worms and stank (Exod 16:20, va-yarum tola'im va-yiv'ash), which the commentary of Ibn Hajar cited by the compiler reads as hoarding of meat."
+  - id: hadith-46-umm-ismail-and-zamzam
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Had Ismail's mother not hurried, Zamzam would be a flowing spring
+    read: ["Jāmiʿ 46:4897.1"]
+    quran: []
+    tags:
+      - {motif: zamzam-would-have-been-flowing-spring, refs: ["Jāmiʿ 46:4897.1"], note: "يرحم الله أم إسماعيل لولا أنها عجلت لكان زمزم عينا معينا"}
+  - id: hadith-46-gold-in-the-bought-land
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Buyer and seller each refuse the jar of gold; the judge marries their children with it
+    read: ["Jāmiʿ 46:4897.2"]
+    quran: []
+    tags:
+      - {motif: buyer-and-seller-each-refuse-found-treasure, refs: ["Jāmiʿ 46:4897.2"], note: "خذ ذهبك مني إنما اشتريت منك الأرض ولم أبتع منك الذهب ... إنما بعتك الأرض وما فيها"}
+      - {motif: judge-marries-their-son-and-daughter-with-the-treasure, refs: ["Jāmiʿ 46:4897.2"], note: "ألكما ولد؟ ... لي غلام ... لي جارية، قال: أنكحوا الغلام الجارية وأنفقوا على أنفسكما منه وتصدقا"}
+    hints:
+      - "Close match: Gen. Rab. 33:1 (also y. Bava Metzia 2:5, Lev. Rab. 27:1, Pesiqta de-Rav Kahana 9): before Alexander, King Qatsia judges two men - one bought a ruin and found a treasure, each says it belongs to the other; the king asks if they have a son and a daughter and marries them, the treasure going to the couple."
+  - id: hadith-46-thousand-dinars-in-a-log
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The loan with God as witness and surety; the money sent in a hollowed log across the sea
+    read: ["Jāmiʿ 46:4897.3"]
+    quran: []
+    tags:
+      - {motif: god-accepted-as-witness-and-surety-for-loan, refs: ["Jāmiʿ 46:4897.3"], note: "ائتني بالشهداء ... كفى بالله شهيدا ... فائتني بالكفيل ... كفى بالله كفيلا"}
+      - {motif: debt-sent-sealed-in-hollow-log-on-the-sea, refs: ["Jāmiʿ 46:4897.3"], note: "فأخذ خشبة فنقرها فأدخل فيها ألف دينار وصحيفة ... ثم زجج موضعها ... وإني أستودعكها فرمى بها في البحر"}
+      - {motif: lender-finds-the-log-as-firewood, refs: ["Jāmiʿ 46:4897.3"], note: "فإذا بالخشبة التي فيها المال فأخذها لأهله حطبا فلما نشرها وجد المال والصحيفة"}
+      - {motif: debtor-pays-twice-lender-returns-it, refs: ["Jāmiʿ 46:4897.3"], note: "فأتى بالألف دينار ... فإن الله قد أدى عنك الذي بعثت في الخشبة فانصرف بالألف الدينار راشدا"}
+  - id: hadith-46-prostitute-and-the-dog
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: An Israelite prostitute waters a thirsty dog with her shoe and is forgiven
+    read: ["Jāmiʿ 46:4898.1"]
+    quran: []
+    tags:
+      - {motif: thirsty-dog-watered-from-a-shoe-earns-forgiveness, refs: ["Jāmiʿ 46:4898.1"], note: "إذ رأته بغي من بغايا بني إسرائيل فنزعت موقها فاستقت له به فسقته إياه فغفر لها به"}
+  - id: hadith-46-jurayj-and-the-cradle
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Jurayj chooses his prayer over his mother; the infant names his father; three spoke in the cradle
+    read: ["Jāmiʿ 46:4898.2-4899.1"]
+    quran: []
+    tags:
+      - {motif: hermit-chooses-prayer-over-mothers-call, refs: ["Jāmiʿ 46:4898.2", "Jāmiʿ 46:4899.1"], note: "يا جريج أنا أمك كلمني ... اللهم أمي وصلاتي فاختار صلاته"}
+      - {motif: mother-curses-son-to-see-prostitutes-faces, refs: ["Jāmiʿ 46:4898.2", "Jāmiʿ 46:4899.1"], note: "اللهم لا تمته حتى تريه المومسات؛ حتى ينظر إلى وجوه المومسات"}
+      - {motif: hermit-falsely-named-father-of-shepherds-child, refs: ["Jāmiʿ 46:4898.2", "Jāmiʿ 46:4899.1"], note: "فوقع عليها الراعي فحملت ... قالت: من صاحب هذا الدير؛ هو من جريج ... هدموا صومعته"}
+      - {motif: infant-names-his-real-father, refs: ["Jāmiʿ 46:4898.2", "Jāmiʿ 46:4899.1"], note: "فطعن في بطنه وقال: يا غلام من أبوك؟ قال: فلان الراعي"}
+      - {motif: hermitage-rebuilt-of-clay-not-gold, refs: ["Jāmiʿ 46:4898.2", "Jāmiʿ 46:4899.1"], note: "نبني لك صومعتك من ذهب، قال: لا أعيدوها من طين كما كانت"}
+      - {motif: only-three-spoke-in-the-cradle, refs: ["Jāmiʿ 46:4899.1"], note: "لم يتكلم في المهد إلا ثلاثة: عيسى بن مريم وصاحب جريج ..."}
+      - {motif: jesus-speaks-in-cradle-and-maturity, refs: ["Jāmiʿ 46:4899.1"], note: "عيسى بن مريم among those who spoke in the cradle"}
+      - {motif: suckling-infant-rejects-tyrant-chooses-slandered-slave, refs: ["Jāmiʿ 46:4899.1"], note: "اللهم لا تجعلني مثله ... اللهم اجعلني مثلها ... إن ذاك الرجل كان جبارا ... وإن هذه يقولون لها زنيت ولم تزن"}
+      - {motif: prophet-mimics-suckling-with-finger, refs: ["Jāmiʿ 46:4899.1"], note: "وهو يحكي ارتضاعه بإصبعه السبابة في فمه فجعل يمصها"}
+  - id: hadith-46-boy-the-monk-and-the-king
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The sorcerer's apprentice, the monk, and the king who could kill the boy only in the name of the boy's Lord; the trench of fire
+    read: ["Jāmiʿ 46:4900.1"]
+    quran: ["85:4-8"]
+    tags:
+      - {motif: kings-sorcerer-asks-for-a-boy-to-train, refs: ["Jāmiʿ 46:4900.1"], note: "إني قد كبرت فابعث إلي غلاما أعلمه السحر"}
+      - {motif: boy-tests-monk-against-sorcerer-by-a-stone, refs: ["Jāmiʿ 46:4900.1"], note: "اللهم إن كان أمر الراهب أحب إليك من أمر الساحر فاقتل هذه الدابة ... فرماها فقتلها"}
+      - {motif: healing-the-blind-and-leper-by-gods-name, refs: ["Jāmiʿ 46:4900.1"], note: "وكان الغلام يبرئ الأكمه والأبرص ... إني لا أشفي أحدا إنما يشفي الله"}
+      - {motif: martyrs-sawn-in-half-from-the-parting, refs: ["Jāmiʿ 46:4900.1"], note: "فدعا بالمئشار فوضع المئشار في مفرق رأسه فشقه حتى وقع شقاه"}
+      - {motif: mountain-shakes-and-ship-capsizes-on-executioners, refs: ["Jāmiʿ 46:4900.1"], note: "فرجف بهم الجبل فسقطوا ... فانكفأت بهم السفينة فغرقوا"}
+      - {motif: boy-dictates-his-own-execution-in-gods-name, refs: ["Jāmiʿ 46:4900.1"], note: "تجمع الناس في صعيد واحد وتصلبني على جذع ثم خذ سهما من كنانتي ... ثم قل: باسم الله رب الغلام ثم ارمني"}
+      - {motif: crowd-believes-in-the-lord-of-the-boy, refs: ["Jāmiʿ 46:4900.1"], note: "فقال الناس: آمنا برب الغلام آمنا برب الغلام آمنا برب الغلام"}
+      - {motif: believers-thrown-into-fire-trenches, refs: ["Jāmiʿ 46:4900.1"], note: "فأمر بالأخدود في أفواه السكك فخدت وأضرم النيران"}
+      - {motif: infant-tells-mother-be-patient-enter-fire, refs: ["Jāmiʿ 46:4900.1"], note: "فقال لها الغلام: يا أمه اصبري فإنك على الحق"}
+    hints:
+      - "The mother hesitating before the fire with her child, told by the child to be steadfast: compare the mother and seven sons (2 Macc 7; 4 Macc 15-17; b. Gittin 57b)."
+      - "Sawn in half: compare Isaiah sawn asunder (Martyrdom of Isaiah 5:1-14; b. Yevamot 49b; Heb 11:37)."
+  - id: hadith-46-three-in-the-cave
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Three men sealed in a cave by a rock each plead a deed done for God's face
+    read: ["Jāmiʿ 46:4902.1"]
+    quran: []
+    tags:
+      - {motif: rock-seals-cave-mouth-on-three-men, refs: ["Jāmiʿ 46:4902.1"], note: "أخذهم المطر فأووا إلى غار في جبل فانحطت على فم غارهم صخرة من الجبل فانطبقت عليهم"}
+      - {motif: each-pleads-a-deed-and-rock-moves-a-third, refs: ["Jāmiʿ 46:4902.1"], note: "فإن كنت تعلم أني فعلت ذلك ابتغاء وجهك فافرج لنا منها فرجة ... ففرج الله ما بقي"}
+      - {motif: son-holds-milk-all-night-by-sleeping-parents, refs: ["Jāmiʿ 46:4902.1"], note: "فقمت عند رؤوسهما أكره أن أوقظهما ... والصبية يتضاغون عند قدمي ... حتى طلع الفجر"}
+      - {motif: man-leaves-cousin-at-the-last-moment, refs: ["Jāmiʿ 46:4902.1"], note: "فأبت حتى آتيها بمائة دينار ... قالت: يا عبد الله اتق الله ولا تفتح الخاتم إلا بحقه فقمت عنها"}
+      - {motif: hired-mans-wage-grown-into-herd, refs: ["Jāmiʿ 46:4902.1"], note: "استأجرت أجيرا بفرق أرز ... فلم أزل أزرعه حتى جمعت منه بقرا ورعاءها ... خذ ذلك البقر ورعاءها"}
+  - id: hadith-46-daughter-of-chosroes
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Persians crown Chosroes' daughter; a people ruled by a woman will not prosper
+    read: ["Jāmiʿ 46:4903.1"]
+    quran: []
+    tags:
+      - {motif: people-ruled-by-a-woman-will-not-prosper, refs: ["Jāmiʿ 46:4903.1"], note: "أن أهل فارس قد ملكوا عليهم بنت كسرى، قال: لن يفلح قوم ولوا أمرهم امرأة"}
+  - id: hadith-46-why-khidr-is-green
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Khidr is named the Green because barren ground turned green where he sat
+    read: ["Jāmiʿ 46:4904.1"]
+    quran: []
+    tags:
+      - {motif: khidr-named-for-ground-turning-green, refs: ["Jāmiʿ 46:4904.1"], note: "إنما سمي الخضر أنه جلس على فروة بيضاء فإذا هي تهتز من خلفه خضراء"}
+  - id: hadith-46-moses-and-khidr
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Moses claims to be most learned and is sent to the servant at the meeting of the seas; the fish, the boat, the boy and the wall
+    read: ["Jāmiʿ 46:4904.2"]
+    quran: ["18:60-82"]
+    tags:
+      - {motif: moses-says-he-is-most-learned-and-is-rebuked, refs: ["Jāmiʿ 46:4904.2"], note: "فسئل أي الناس أعلم؟ فقال: أنا، فعتب الله عليه إذ لم يرد العلم إليه"}
+      - {motif: journey-to-meeting-of-two-seas, refs: ["Jāmiʿ 46:4904.2"], note: "بلى لي عبد بمجمع البحرين هو أعلم منك"}
+      - {motif: lost-fish-marks-the-place, refs: ["Jāmiʿ 46:4904.2"], note: "تأخذ حوتا فتجعله في مكتل حيثما فقدت الحوت فهو ثم"}
+      - {motif: fish-revives-and-water-stands-like-arch, refs: ["Jāmiʿ 46:4904.2"], note: "واضطرب الحوت فخرج فسقط في البحر ... فأمسك الله عن الحوت جرية الماء فصار مثل الطاق"}
+      - {motif: servant-named-joshua-son-of-nun, refs: ["Jāmiʿ 46:4904.2"], note: "ثم انطلق هو وفتاه يوشع بن نون"}
+      - {motif: sage-lying-covered-with-a-cloth, refs: ["Jāmiʿ 46:4904.2"], note: "فإذا رجل مسجى بثوب فسلم موسى فرد عليه فقال: وأنى بأرضك السلام؟"}
+      - {motif: bird-pecks-sea-measure-of-human-knowledge, refs: ["Jāmiʿ 46:4904.2"], note: "ما نقص علمي وعلمك من علم الله إلا مثل ما نقص هذا العصفور بمنقاره من البحر"}
+      - {motif: boat-plank-pulled-out-with-adze, refs: ["Jāmiʿ 46:4904.2"], note: "حملوه بغير نول ... إذ أخذ الفأس فنزع لوحا ... قلع لوحا بالقدوم"}
+      - {motif: child-killed-to-spare-believing-parents, refs: ["Jāmiʿ 46:4904.2"], note: "فأخذ الخضر برأسه فقلعه بيده ... وأما الغلام فكان كافرا وكان أبواه مؤمنين"}
+      - {motif: wall-straightened-by-a-touch-without-pay, refs: ["Jāmiʿ 46:4904.2"], note: "جدارا يريد أن ينقض ... أومأ بيده هكذا ... لو شئت لاتخذت عليه أجرا"}
+      - {motif: variant-reading-every-sound-ship, refs: ["Jāmiʿ 46:4904.2"], note: "وقرأ ابن عباس: أمامهم ملك يأخذ كل سفينة صالحة غصبا"}
+      - {motif: wish-that-moses-had-been-patient, refs: ["Jāmiʿ 46:4904.2"], note: "يرحم الله موسى لو كان صبر يقص علينا من أمرهما"}
+    hints:
+      - "The dried fish that revives at the water of a spring and marks the place: the Alexander Romance (Ps.-Callisthenes, recension beta 2.39), where the cook's salted fish comes alive in the Water of Life."
+      - "A prophet companion of a mysterious righteous man whose acts he cannot bear: R. Joshua b. Levi and Elijah (Nissim of Kairouan, Hibbur Yafeh), with the cow killed, the wall rebuilt for the miser."
+  - id: hadith-46-none-alive-after-a-century
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: No soul now on earth will be alive in a hundred years (read against the life of Khidr)
+    read: ["Jāmiʿ 46:4906.1-4907.2"]
+    quran: ["21:34"]
+    tags:
+      - {motif: none-now-living-survives-a-century, refs: ["Jāmiʿ 46:4906.1", "Jāmiʿ 46:4907.1", "Jāmiʿ 46:4907.2"], note: "فإن على رأس مائة سنة منها لا يبقى ممن هو على ظهر الأرض أحد"}
+      - {motif: hour-known-only-to-god, refs: ["Jāmiʿ 46:4907.1"], note: "تسألوني عن الساعة؟ وإنما علمها عند الله"}
+  - id: hadith-46-neglecters-of-prayer-with-qarun
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Who neglects the prayer will be with Qarun, Pharaoh, Haman and Ubayy b. Khalaf
+    read: ["Jāmiʿ 46:4908.1"]
+    quran: ["28:76-81"]
+    tags:
+      - {motif: prayer-as-light-proof-and-rescue, refs: ["Jāmiʿ 46:4908.1"], note: "من حافظ عليها كانت له نورا وبرهانا ونجاة يوم القيامة"}
+      - {motif: korah-pharaoh-haman-trio, refs: ["Jāmiʿ 46:4908.1"], note: "وكان يوم القيامة مع قارون وفرعون وهامان وأبي بن خلف"}
+  - id: hadith-46-sun-held-back-for-joshua
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The sun held for Joshua; the prophet who barred three kinds of men; fire refuses the stolen spoil
+    read: ["Jāmiʿ 46:4908.2-4908.3"]
+    quran: []
+    tags:
+      - {motif: sun-held-back-for-joshua, refs: ["Jāmiʿ 46:4908.2", "Jāmiʿ 46:4908.3"], note: "إن الشمس لم تحبس على بشر إلا ليوشع ليالي سار إلى بيت المقدس؛ أنت مأمورة وأنا مأمور اللهم احبسها علي"}
+      - {motif: newly-wed-builder-and-herd-owner-barred-from-campaign, refs: ["Jāmiʿ 46:4908.3"], note: "لا يتبعني رجل قد ملك بضع امرأة ... ولا آخر قد بنى بنيانا ولما يرفع سقفها ولا آخر قد اشترى غنما أو خلفات وهو منتظر ولادها"}
+      - {motif: fire-from-heaven-consumes-the-spoils, refs: ["Jāmiʿ 46:4908.3"], note: "فأقبلت النار لتأكله فأبت أن تطعمه ... فأقبلت النار فأكلته"}
+      - {motif: thief-found-by-hand-sticking-tribe-by-tribe, refs: ["Jāmiʿ 46:4908.3"], note: "فليبايعني من كل قبيلة رجل ... فلصقت يد رجل بيده ... فلتبايعني قبيلتك ... فلصقت بيد رجلين أو ثلاثة"}
+      - {motif: stolen-golden-cow-head, refs: ["Jāmiʿ 46:4908.3"], note: "فأخرجوا له مثل رأس بقرة من ذهب"}
+      - {motif: spoils-lawful-only-for-this-community, refs: ["Jāmiʿ 46:4908.3"], note: "فلم تحل الغنائم لأحد من قبلنا ذلك بأن الله رأى ضعفنا وعجزنا فطيبها لنا"}
+    hints:
+      - "The sun stopped for Joshua: Josh 10:12-13 (at Gibeon, not on the way to Jerusalem)."
+      - "The three barred from the campaign against Deut 20:5-7 (he who built a house and not dedicated it, planted a vineyard, betrothed a wife): the hadith has the house without a roof and pregnant flocks in place of the vineyard."
+      - "The hidden theft found by drawing lots tribe by tribe against Josh 7:14-21 (Achan's mantle, silver and gold ingot); fire as the sign of accepted spoil against Lev 9:24 and 1 Kgs 18:38."
+  - id: hadith-46-leper-bald-blind
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: An angel heals a leper, a bald man and a blind man, enriches them, and returns in their old guise to beg
+    read: ["Jāmiʿ 46:4909.1"]
+    quran: []
+    tags:
+      - {motif: angel-heals-and-enriches-three-to-test-them, refs: ["Jāmiʿ 46:4909.1"], note: "إن ثلاثة في بني إسرائيل أبرص وأقرع وأعمى فأراد الله أن يبتليهم فبعث إليهم ملكا"}
+      - {motif: healed-given-camel-cow-and-sheep, refs: ["Jāmiʿ 46:4909.1"], note: "فأعطى ناقة عشراء ... بقرة حاملا ... شاة والدا ... فكان لهذا واد من إبل ولهذا واد من بقر ولهذا واد من الغنم"}
+      - {motif: angel-returns-disguised-as-their-former-self, refs: ["Jāmiʿ 46:4909.1"], note: "ثم إنه أتى الأبرص في صورته وهيئته فقال: رجل مسكين قد تقطعت بي الحبال في سفري"}
+      - {motif: ingrate-claims-inherited-wealth, refs: ["Jāmiʿ 46:4909.1"], note: "فقال: لقد ورثت لكابر عن كابر فقال: إن كنت كاذبا فصيرك الله إلى ما كنت"}
+      - {motif: grateful-one-told-keep-your-wealth-it-was-a-test, refs: ["Jāmiʿ 46:4909.1"], note: "فخذ ما شئت ... فقال: أمسك مالك فإنما ابتليتم فقد رضي الله عنك وسخط على صاحبيك"}
+  - id: hadith-46-burn-me-and-scatter-the-ashes
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A sinner orders his body burnt and the ashes scattered on wind and sea; God reassembles and forgives him
+    read: ["Jāmiʿ 46:4910.1-4911.1"]
+    quran: []
+    tags:
+      - {motif: sinner-orders-body-burnt-ashes-scattered, refs: ["Jāmiʿ 46:4910.1", "Jāmiʿ 46:4910.2", "Jāmiʿ 46:4911.1"], note: "إذا أنا مت فأحرقوني ثم اسحقوني ثم ذروني في الريح في البحر؛ في يوم ريح عاصف؛ فذروني في اليم"}
+      - {motif: earth-ordered-to-give-back-what-it-took, refs: ["Jāmiʿ 46:4910.1", "Jāmiʿ 46:4910.2"], note: "فقال للأرض: أدي ما أخذت فإذا هو قائم؛ فقال الله: كن فإذا هو رجل قائم"}
+      - {motif: forgiven-for-fear-of-god-alone, refs: ["Jāmiʿ 46:4910.1", "Jāmiʿ 46:4910.2", "Jāmiʿ 46:4911.1"], note: "ما حملك على ما صنعت؟ فقال: خشيتك يا رب، أو قال: مخافتك فغفر له"}
+      - {motif: dying-father-takes-oaths-from-sons, refs: ["Jāmiʿ 46:4910.2"], note: "أي أب كنت لكم؟ قالوا: خير أب ... فأخذ مواثيقهم على ذلك"}
+  - id: hadith-46-perfect-women
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Mary, Asiya, Khadija and Fatima the best of women
+    read: ["Jāmiʿ 46:4911.2-4912.2"]
+    quran: []
+    tags:
+      - {motif: four-best-women-mary-asiya-khadija-fatima, refs: ["Jāmiʿ 46:4911.2", "Jāmiʿ 46:4911.3", "Jāmiʿ 46:4912.1", "Jāmiʿ 46:4912.2"], note: "حسبك من نساء العالمين: مريم بنت عمران وخديجة بنت خويلد وفاطمة بنت رسول الله وآسية امرأة فرعون"}
+      - {motif: few-women-perfected, refs: ["Jāmiʿ 46:4911.3"], note: "كمل من الرجال كثير ولم يكمل من النساء إلا آسية امرأة فرعون ومريم بنت عمران"}
+      - {motif: aisha-over-women-as-tharid-over-food, refs: ["Jāmiʿ 46:4911.3"], note: "وإن فضل عائشة على النساء كفضل الثريد على سائر الطعام"}
+  - id: hadith-46-mary-and-son-untouched-by-devil
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Every newborn cries at Satan's touch except Mary and her son
+    read: ["Jāmiʿ 46:4912.3"]
+    quran: ["3:36"]
+    tags:
+      - {motif: newborns-cry-from-satans-touch-except-mary-and-son, refs: ["Jāmiʿ 46:4912.3"], note: "ما من بني آدم مولود إلا يمسه الشيطان حين يولد فيستهل صارخا من مس الشيطان غير مريم وابنها"}
+  - id: hadith-46-mary-never-rode-a-camel
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Quraysh women the best who ride camels; Mary never rode a camel
+    read: ["Jāmiʿ 46:4912.4"]
+    quran: []
+    tags:
+      - {motif: quraysh-women-best-of-camel-riders, refs: ["Jāmiʿ 46:4912.4"], note: "نساء قريش خير نساء ركبن الإبل أحناه على طفل وأرعاه على زوج في ذات يده"}
+      - {motif: mary-never-rode-a-camel, refs: ["Jāmiʿ 46:4912.4"], note: "ولم تركب مريم بنت عمران بعيرا قط"}
+  - id: hadith-46-sister-of-aaron
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Christians of Najran object to "sister of Aaron"; people were named after earlier prophets
+    read: ["Jāmiʿ 46:4913.1"]
+    quran: ["19:28"]
+    tags:
+      - {motif: mary-called-sister-of-aaron, refs: ["Jāmiʿ 46:4913.1"], note: "إنكم تقرؤون: يا أخت هارون وموسى قبل عيسى بكذا وكذا"}
+      - {motif: named-after-earlier-prophets-and-saints, refs: ["Jāmiʿ 46:4913.1"], note: "إنهم كانوا يسمون بأنبيائهم والصالحين قبلهم"}
+    hints:
+      - "Miriam is called 'the sister of Aaron' (Exod 15:20); the Najran objection turns on the identification."
+  - id: hadith-46-luqman-and-shirk
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The wrong in "who did not mix their faith with wrong" is shirk, as Luqman told his son
+    read: ["Jāmiʿ 46:4913.2"]
+    quran: ["6:82", "31:13"]
+    tags:
+      - {motif: luqman-the-wise, refs: ["Jāmiʿ 46:4913.2"], note: "ألم تسمعوا ما قال لقمان لابنه وهو يعظه"}
+      - {motif: wrong-in-verse-means-shirk, refs: ["Jāmiʿ 46:4913.2"], note: "أينا لا يظلم نفسه؟ قال: ليس ذلك إنما هو الشرك ... إن الشرك لظلم عظيم"}
+  - id: hadith-46-woman-and-the-cat
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A woman enters the fire for a cat she tied up; the prophet sees it clawing her
+    read: ["Jāmiʿ 46:4914.1-4914.4"]
+    quran: []
+    tags:
+      - {motif: woman-in-fire-for-starving-a-cat, refs: ["Jāmiʿ 46:4914.1", "Jāmiʿ 46:4914.2", "Jāmiʿ 46:4914.3", "Jāmiʿ 46:4914.4"], note: "دخلت امرأة النار في هرة ربطتها فلا هي أطعمتها ولا هي أرسلتها تأكل من خشاش الأرض"}
+      - {motif: cat-claws-its-tormentor-in-hell, refs: ["Jāmiʿ 46:4914.4"], note: "ودنت مني النار ... فإذا امرأة تخدشها هرة"}
+  - id: hadith-46-lenient-creditor
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A man who gave debtors respite and remitted the poor is forgiven
+    read: ["Jāmiʿ 46:4914.5-4915.1"]
+    quran: []
+    tags:
+      - {motif: lenient-creditor-forgiven, refs: ["Jāmiʿ 46:4914.5", "Jāmiʿ 46:4915.1"], note: "فأنظر الموسر وأتجاوز عن المعسر فأدخله الله الجنة؛ إذا أتيت معسرا فتجاوز عنه لعل الله أن يتجاوز عنا"}
+      - {motif: dying-man-asked-for-any-good-deed, refs: ["Jāmiʿ 46:4914.5"], note: "أتاه الملك ليقبض روحه فقيل له: هل عملت من خير؟ قال: ما أعلم"}
+  - id: hadith-46-cow-and-wolf-speak
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The speaking cow and wolf (second report)
+    read: ["Jāmiʿ 46:4915.2"]
+    quran: []
+    tags:
+      - {motif: ridden-cow-protests-made-for-ploughing, refs: ["Jāmiʿ 46:4915.2"], note: "إني لم أخلق لهذا ولكني إنما خلقت للحرث"}
+      - {motif: wolf-claims-the-sheep-on-the-day-of-the-beast, refs: ["Jāmiʿ 46:4915.2"], note: "من لها يوم السبع يوم ليس لها راع غيري"}
+      - {motif: prophet-believes-it-with-abu-bakr-and-umar, refs: ["Jāmiʿ 46:4915.2"], note: "فإني أؤمن بذلك أنا وأبو بكر وعمر"}
+  - id: hadith-46-killer-of-a-hundred
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The man who killed ninety-nine and the monk; the angels of mercy and punishment measure the road
+    read: ["Jāmiʿ 46:4915.3"]
+    quran: []
+    tags:
+      - {motif: killer-of-ninety-nine-kills-the-monk-too, refs: ["Jāmiʿ 46:4915.3"], note: "قتل تسعة وتسعين نفسا ... فهل له من توبة؟ فقال: لا فقتله فكمل به مائة"}
+      - {motif: scholar-sends-penitent-to-a-land-of-worshippers, refs: ["Jāmiʿ 46:4915.3"], note: "ومن يحول بينه وبين التوبة؟ انطلق إلى أرض كذا وكذا فإن بها أناسا يعبدون الله"}
+      - {motif: angels-of-mercy-and-punishment-dispute-a-soul, refs: ["Jāmiʿ 46:4915.3"], note: "فاختصمت فيه ملائكة الرحمة وملائكة العذاب"}
+      - {motif: dead-mans-place-measured-between-two-lands, refs: ["Jāmiʿ 46:4915.3"], note: "قيسوا ما بين الأرضين فإلى أيتهما كان أدنى فهو له فقاسوه فوجدوه أدنى إلى الأرض التي أراد"}
+    hints:
+      - "Measuring from the corpse to the nearest town to settle who is answerable: Deut 21:2-3 (the elders measure to the cities around the slain; the nearest brings the heifer), here measured to decide which angels take the soul."
+  - id: hadith-46-man-waters-a-dog
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A man fills his shoe from a well for a panting dog; reward in every living liver
+    read: ["Jāmiʿ 46:4916.1"]
+    quran: []
+    tags:
+      - {motif: thirsty-dog-watered-from-a-shoe-earns-forgiveness, refs: ["Jāmiʿ 46:4916.1"], note: "فنزل البئر فملأ خفه ماء ثم أمسكه بفيه حتى رقي فسقى الكلب فشكر الله له فغفر له"}
+      - {motif: reward-in-every-moist-liver, refs: ["Jāmiʿ 46:4916.1"], note: "في كل ذات كبد رطبة أجر"}
+  - id: hadith-46-zayd-on-the-religion-of-abraham
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Zayd b. Amr refuses idol meat, seeks a religion in Syria, rejects God's wrath and curse, and takes Abraham's; he saves buried daughters
+    read: ["Jāmiʿ 46:4916.2-4918.1"]
+    quran: []
+    tags:
+      - {motif: refusal-of-meat-slaughtered-on-cult-stones, refs: ["Jāmiʿ 46:4916.2"], note: "إني لست آكل مما تذبحون على أنصابكم"}
+      - {motif: god-made-sheep-and-its-rain-and-pasture, refs: ["Jāmiʿ 46:4916.2"], note: "الشاة خلقها الله وأنزل لها من السماء الماء"}
+      - {motif: seeker-told-jews-share-wrath-christians-curse, refs: ["Jāmiʿ 46:4917.1"], note: "لا تكون على ديننا حتى تأخذ بنصيبك من غضب الله ... حتى تأخذ بنصيبك من لعنة الله"}
+      - {motif: abraham-hanif-not-jew-or-christian, refs: ["Jāmiʿ 46:4917.1"], note: "ما أعلمه إلا أن يكون حنيفا ... دين إبراهيم لم يكن يهوديا ولا نصرانيا ولا يعبد إلا الله"}
+      - {motif: seeker-raises-hands-declaring-abrahams-religion, refs: ["Jāmiʿ 46:4917.1"], note: "فلما برز رفع يديه فقال: اللهم إني أشهد أني على دين إبراهيم"}
+      - {motif: only-one-on-abrahams-religion-against-kaba, refs: ["Jāmiʿ 46:4918.1"], note: "مسندا ظهره إلى الكعبة يقول: يا معشر قريش ما منكم اليوم أحد على دين إبراهيم غيري"}
+      - {motif: rescuer-of-girls-about-to-be-buried, refs: ["Jāmiʿ 46:4918.1"], note: "وكان يحيي الموءودة ... لا تقتلها أنا أكفيك مؤونتها"}
+  - id: hadith-46-short-woman-on-wooden-legs
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A short Israelite woman makes wooden legs and a musk-filled gold ring
+    read: ["Jāmiʿ 46:4919.1"]
+    quran: []
+    tags:
+      - {motif: short-woman-walks-on-wooden-legs, refs: ["Jāmiʿ 46:4919.1"], note: "كانت امرأة من بني إسرائيل قصيرة تمشي مع امرأتين طويلتين فاتخذت رجلين من خشب"}
+      - {motif: hollow-gold-ring-filled-with-musk, refs: ["Jāmiʿ 46:4919.1"], note: "وخاتما من ذهب مغلق مطبق ثم حشته مسكا وهو أطيب الطيب"}
+  - id: hadith-46-monkey-divides-the-wine-money
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A wine-seller who watered his wine; his monkey throws half the purse into the sea
+    read: ["Jāmiʿ 46:4920.1"]
+    quran: []
+    tags:
+      - {motif: monkey-throws-diluted-wine-profit-into-sea, refs: ["Jāmiʿ 46:4920.1"], note: "فأخذ القرد الكيس فصعد به فوق الدقل فجعل يطرح دينارا في البحر ودينارا في السفينة حتى قسمه"}
+      - {motif: watering-wine-before-sale, refs: ["Jāmiʿ 46:4920.1"], note: "فكان الرجل إذا باع الخمر شابه بالماء ثم باعه"}
+  - id: hadith-47-adam-sixty-cubits
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam created in his image sixty cubits tall; the first greeting; mankind diminishing since
+    read: ["Jāmiʿ 47:4921.1"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-created-in-his-image, refs: ["Jāmiʿ 47:4921.1"], note: "خلق الله آدم على صورته"}
+      - {motif: adam-sixty-cubits-tall, refs: ["Jāmiʿ 47:4921.1"], note: "طوله ستون ذراعا"}
+      - {motif: adam-sent-to-greet-angels-greeting-of-descendants, refs: ["Jāmiʿ 47:4921.1"], note: "اذهب فسلم على أولئك النفر من الملائكة ... فإنها تحيتك وتحية ذريتك ... فزادوه ورحمة الله"}
+      - {motif: stature-diminishing-since-adam, refs: ["Jāmiʿ 47:4921.1"], note: "فكل من يدخل الجنة على صورة آدم فلم يزل الخلق ينقص بعد حتى الآن"}
+    hints:
+      - "Adam's original great stature, later reduced: b. Hagigah 12a and b. Sanhedrin 38b (Adam reached from earth to the firmament; after the sin God laid his hand on him and diminished him); Gen. Rab. 12:6."
+  - id: hadith-47-adam-image-and-the-face
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Avoid striking the face, for God created Adam in his image ("in the image of the Merciful")
+    read: ["Jāmiʿ 47:4922.1-4922.3"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-created-in-his-image, refs: ["Jāmiʿ 47:4922.1", "Jāmiʿ 47:4922.2", "Jāmiʿ 47:4922.3"], note: "فإن الله خلق آدم على صورته؛ على صورة وجهه؛ على صورة الرحمن"}
+      - {motif: face-spared-in-fighting-because-of-the-image, refs: ["Jāmiʿ 47:4922.1", "Jāmiʿ 47:4922.2", "Jāmiʿ 47:4922.3"], note: "إذا قاتل أحدكم أخاه فليجتنب الوجه؛ لا تقبحوا الوجه"}
+    hints:
+      - "A ruling about striking a person grounded in the divine image: Gen 9:6 (whoever sheds man's blood, 'for in the image of God he made man')."
+  - id: hadith-47-adam-on-friday
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Friday - Adam created, admitted to and put out of the garden; Iblis circles the hollow form
+    read: ["Jāmiʿ 47:4925.1-4925.3"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-created-entered-and-expelled-on-friday, refs: ["Jāmiʿ 47:4925.1"], note: "خير يوم طلعت عليه الشمس يوم الجمعة فيه خلق آدم وفيه أدخل الجنة وفيه أخرج منها"}
+      - {motif: hour-will-come-on-a-friday, refs: ["Jāmiʿ 47:4925.1"], note: "ولا تقوم الساعة إلا في يوم الجمعة"}
+      - {motif: angels-created-from-light, refs: ["Jāmiʿ 47:4925.2"], note: "خلقت الملائكة من نور"}
+      - {motif: jinn-created-from-fire, refs: ["Jāmiʿ 47:4925.2"], note: "وخلق الجان من مارج من نار"}
+      - {motif: iblis-circles-adams-hollow-form, refs: ["Jāmiʿ 47:4925.3"], note: "لما صور الله آدم في الجنة تركه ما شاء الله ... فجعل إبليس يطيف به ينظر ما هو فلما رآه أجوف عرف أنه خلق خلقا لا يتمالك"}
+    hints:
+      - "Adam created, brought in and expelled on one day: b. Sanhedrin 38b (the twelve hours of the sixth day: dust gathered, formed, given the soul, put in the garden, commanded, sinned, expelled)."
+  - id: hadith-47-adam-a-prophet-ten-generations
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam a prophet spoken to; ten generations between him and Noah
+    read: ["Jāmiʿ 47:4925.4"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-a-prophet-spoken-to-by-god, refs: ["Jāmiʿ 47:4925.4"], note: "أنبي كان آدم؟ قال: نعم مكلم"}
+      - {motif: ten-generations-from-adam-to-noah, refs: ["Jāmiʿ 47:4925.4"], note: "فكم بينه وبين نوح؟ قال: عشرة قرون"}
+    hints:
+      - "Ten generations from Adam to Noah: m. Avot 5:2 ('ten generations from Adam to Noah') and the genealogy of Gen 5."
+  - id: hadith-47-all-sons-of-adam-from-dust
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: No boasting of dead fathers; all are sons of Adam and Adam is from dust
+    read: ["Jāmiʿ 47:4925.5"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: boasting-ancestors-coal-of-hell-or-dung-beetle, refs: ["Jāmiʿ 47:4925.5"], note: "إنما هم فحم جهنم أو ليكونن أهون على الله من الجعل الذي يدهده الخرء بأنفه"}
+      - {motif: all-people-sons-of-adam-adam-from-dust, refs: ["Jāmiʿ 47:4925.5"], note: "الناس كلهم بنو آدم وآدم خلق من تراب"}
+  - id: hadith-47-adam-gives-years-to-david
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam's progeny drawn from his back; he gives David forty of his years, then denies it
+    read: ["Jāmiʿ 47:4926.1"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: progeny-drawn-from-adams-back, refs: ["Jāmiʿ 47:4926.1"], note: "لما خلق الله آدم مسح ظهره فسقط من ظهره كل نسمة هو خالقها من ذريته إلى يوم القيامة"}
+      - {motif: gleam-of-light-between-the-eyes-of-each-soul, refs: ["Jāmiʿ 47:4926.1"], note: "وجعل بين عيني كل إنسان منهم وبيصا من نور"}
+      - {motif: adam-gives-david-years-of-his-life, refs: ["Jāmiʿ 47:4926.1"], note: "يقال له داود ... كم جعلت عمره؟ قال: ستين سنة قال: أي رب زده من عمري أربعين سنة"}
+      - {motif: adam-denies-the-gift-when-death-comes, refs: ["Jāmiʿ 47:4926.1"], note: "جاءه ملك الموت فقال: أولم يبق من عمري أربعون سنة؟ قال: أولم تعطها ابنك داود؟"}
+      - {motif: adams-denial-forgetting-sin-inherited, refs: ["Jāmiʿ 47:4926.1"], note: "فجحد آدم فجحدت ذريته ونسي آدم فنسيت ذريته وخطئ آدم فخطئت ذريته"}
+    hints:
+      - "Close match with a number changed: in Jewish tradition Adam is shown David, destined to live no time at all, and gives him seventy years of his thousand, so that Adam lives 930 (Gen 5:5) and David seventy (Pirqe de-R. Eliezer 19; Num. Rab. 14:12; Zohar I 55a, 140a; Yalqut Shimoni Bereshit 41). The hadith has David given sixty and receiving forty."
+  - id: hadith-47-adam-sneezes
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: When the spirit reached Adam's head he sneezed and praised God; God answered "God have mercy on you"
+    read: ["Jāmiʿ 47:4926.2"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-sneezes-when-spirit-reaches-his-head, refs: ["Jāmiʿ 47:4926.2"], note: "لما نفخ في آدم فبلغ الروح رأسه عطس فقال: الحمد لله رب العالمين فقال له: يرحمك الله"}
+  - id: hadith-47-adam-from-all-the-earth
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam from a handful of all the earth; his offspring white, black, red, smooth and rough
+    read: ["Jāmiʿ 47:4927.1"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-from-soil-of-whole-earth-children-of-every-colour, refs: ["Jāmiʿ 47:4927.1"], note: "خلق الله آدم من أديم الأرض كلها فخرجت ذريته على حسب ذلك منهم الأبيض والأسود والأسمر والأحمر ... والسهل والحزن والخبيث والطيب"}
+    hints:
+      - "Adam's dust gathered from the whole earth: b. Sanhedrin 38a-b (R. Meir: his dust gathered from all the world) and Pirqe de-R. Eliezer 11 (dust of four colours, red, black, white and green)."
+  - id: hadith-47-adam-chooses-the-right-hand
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam chooses the right of God's closed hands and sees his offspring with their lifespans written
+    read: ["Jāmiʿ 47:4927.2"]
+    quran: ["2:30-38", "38:71-85"]
+    tags:
+      - {motif: adam-chooses-between-gods-closed-hands, refs: ["Jāmiʿ 47:4927.2"], note: "قال بيده وهما مقبوضتان: خذ أيهما شئت يا آدم فقال: يمين ربي - وكلتا يداه يمين مباركة"}
+      - {motif: adam-shown-descendants-with-lifespans-written, refs: ["Jāmiʿ 47:4927.2"], note: "ثم بسطها فإذا فيها آدم وذريته وإذا كل إنسان منهم عنده عمره مكتوب"}
+  - id: hadith-47-devil-weeps-at-prostration
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: When a man prostrates at the verse of prostration the devil withdraws weeping
+    read: ["Jāmiʿ 47:4928.1"]
+    quran: ["2:34"]
+    tags:
+      - {motif: devil-weeps-at-human-prostration, refs: ["Jāmiʿ 47:4928.1"], note: "اعتزل الشيطان يبكي يقول: يا ويله أمر ابن آدم بالسجود فسجد فله الجنة وأمرت بالسجود فأبيت فلي النار"}
+      - {motif: angels-bow-to-adam-iblis-refuses, refs: ["Jāmiʿ 47:4928.1"], note: "وأمرت بالسجود فأبيت"}
+  - id: hadith-47-adam-sends-out-the-share-of-the-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: At resurrection Adam is told to send out the share of the fire, 999 of every thousand; the believers like a white hair on a black ox
+    read: ["Jāmiʿ 47:4929.1-4932.2"]
+    quran: ["22:1-2", "37:24", "73:17", "68:42"]
+    tags:
+      - {motif: adam-told-to-send-out-the-share-of-the-fire, refs: ["Jāmiʿ 47:4929.1", "Jāmiʿ 47:4929.2", "Jāmiʿ 47:4930.1", "Jāmiʿ 47:4931.1", "Jāmiʿ 47:4932.1", "Jāmiʿ 47:4932.2"], note: "يا آدم ... أخرج بعث النار؛ أول من يدعى يوم القيامة آدم"}
+      - {motif: nine-hundred-ninety-nine-of-every-thousand-to-fire, refs: ["Jāmiʿ 47:4929.1", "Jāmiʿ 47:4929.3", "Jāmiʿ 47:4930.1", "Jāmiʿ 47:4931.1", "Jāmiʿ 47:4932.1", "Jāmiʿ 47:4932.2"], note: "من كل ألف تسعمائة وتسعة وتسعين"}
+      - {motif: ninety-nine-of-every-hundred-to-fire, refs: ["Jāmiʿ 47:4929.2"], note: "أخرج من كل مائة تسعة وتسعين"}
+      - {motif: believers-like-white-hair-on-black-ox, refs: ["Jāmiʿ 47:4929.1", "Jāmiʿ 47:4929.2", "Jāmiʿ 47:4932.2"], note: "كمثل الشعرة البيضاء في جلد الثور الأسود أو الرقمة في ذراع الحمار"}
+      - {motif: gog-and-magog-make-up-the-numbers, refs: ["Jāmiʿ 47:4929.1", "Jāmiʿ 47:4930.1", "Jāmiʿ 47:4931.1", "Jāmiʿ 47:4932.1"], note: "أبشروا فإن من يأجوج ومأجوج ألفا ومنكم رجل؛ إنكم لمع خليقتين ما كانتا مع شيء إلا كثرتاه يأجوج ومأجوج"}
+      - {motif: hope-to-be-quarter-third-half-of-paradise, refs: ["Jāmiʿ 47:4929.1", "Jāmiʿ 47:4932.1"], note: "إني لأطمع أن تكونوا ثلث أهل الجنة ... شطر أهل الجنة؛ ربع أهل الجنة"}
+      - {motif: dajjal-forty-then-jesus-kills-him, refs: ["Jāmiʿ 47:4929.3"], note: "يخرج الدجال في أمتي فيمكث أربعين ... فيبعث الله عيسى بن مريم كأنه عروة بن مسعود فيطلبه فيهلكه"}
+      - {motif: cold-wind-from-syria-takes-every-believer, refs: ["Jāmiʿ 47:4929.3"], note: "ثم يرسل الله ريحا باردة من قبل الشام فلا يبقى على وجه الأرض أحد في قلبه مثقال ذرة من خير أو إيمان إلا قبضته"}
+      - {motif: first-to-hear-trumpet-plastering-his-camels-trough, refs: ["Jāmiʿ 47:4929.3"], note: "وأول من يسمعه رجل يلوط حوض إبله قال: فيصعق ويصعق الناس"}
+      - {motif: rain-makes-the-dead-sprout-like-herbs, refs: ["Jāmiʿ 47:4929.3"], note: "ثم يرسل الله مطرا كأنه الطل أو الظل فتنبت منه أجساد الناس"}
+    hints:
+      - "One saved of a thousand: compare 4 Ezra 7:47-61 and 8:1-3 ('many have been created, but few will be saved'; the few as precious metal among clay)."
+  - id: hadith-47-death-of-adam
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam's sons seek fruit of paradise; angels meet them with shroud and spade, bury Adam and say "this is your custom"
+    read: ["Jāmiʿ 47:4933.1"]
+    quran: []
+    tags:
+      - {motif: dying-adam-craves-fruit-of-paradise, refs: ["Jāmiʿ 47:4933.1"], note: "أي بني إني أشتهي من ثمار الجنة فذهبوا يطلبون له"}
+      - {motif: angels-come-with-shroud-spices-and-spades, refs: ["Jāmiʿ 47:4933.1"], note: "فاستقبلتهم الملائكة ومعهم أكفانه وحنوطه ومعهم الفؤوس والمساحي والمكاتل ... ارجعوا فقد قضي قضاء أبيكم"}
+      - {motif: adam-pushes-eve-away-at-death, refs: ["Jāmiʿ 47:4933.1"], note: "فلما رأتهم حواء عرفتهم فلاذت بآدم فقال: إليك إليك عني فإني إنما أوتيت من قبلك"}
+      - {motif: angels-bury-adam-as-model-for-his-sons, refs: ["Jāmiʿ 47:4933.1"], note: "فقبضوه وغسلوه وكفنوه وحنطوه وحفروا له وألحدوا له وصلوا عليه ... يا بني آدم هذه سنتكم"}
+    hints:
+      - "Close match: Life of Adam and Eve - Seth and Eve sent to paradise for the oil of mercy are turned back by Michael, Adam dies (Vita 36-44); angels wrap and bury Adam and tell Seth 'bury every man who dies like this' (Apocalypse of Moses 40-43). Adam blaming Eve 'what have you done?' (Apoc. Mos. 14, 21)."
+      - "The compiler himself notes that Ubayy b. Kaʿb took this from the books of the People of the Book; it is mawquf on Ubayy."
+  - id: hadith-47-friday-adam-dies
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abu Hurayra meets Kaʿb at the Mount; Friday - Adam created, sent down, forgiven, died; every beast listens anxiously at dawn
+    read: ["Jāmiʿ 47:4933.2"]
+    quran: []
+    tags:
+      - {motif: adam-created-entered-and-expelled-on-friday, refs: ["Jāmiʿ 47:4933.2"], note: "فيه خلق آدم وفيه أهبط من الجنة وفيه تيب عليه وفيه مات وفيه تقوم الساعة"}
+      - {motif: hour-will-come-on-a-friday, refs: ["Jāmiʿ 47:4933.2"], note: "وفيه تقوم الساعة"}
+      - {motif: beasts-listen-anxiously-every-friday-dawn, refs: ["Jāmiʿ 47:4933.2"], note: "وما من دابة إلا وهي مصيخة يوم الجمعة من حين تصبح حتى تطلع الشمس شفقا من الساعة إلا الجن والإنس"}
+      - {motif: hour-of-answered-prayer-on-friday, refs: ["Jāmiʿ 47:4933.2"], note: "وفيه ساعة لا يصادفها عبد مسلم وهو يصلي يسأل الله شيئا إلا أعطاه إياه"}
+      - {motif: companion-exchanges-hadith-for-torah-with-kab, refs: ["Jāmiʿ 47:4933.2"], note: "خرجت إلى الطور فلقيت كعب الأحبار فجلست معه فحدثني عن التوراة وحدثته عن رسول الله"}
+  - id: hadith-47-idris-in-the-heavens
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The ascent - breast washed in Zamzam water; Adam weeping and laughing at his offspring; Idris greets "the righteous brother"
+    read: ["Jāmiʿ 47:4935.1-4937.1"]
+    quran: []
+    tags:
+      - {motif: prophets-breast-split-washed-with-zamzam, refs: ["Jāmiʿ 47:4935.1"], note: "فرج سقف بيتي وأنا بمكة فنزل جبريل ففرج صدري ثم غسله بماء زمزم ثم جاء بطست من ذهب ممتلئ حكمة وإيمانا فأفرغها في صدري"}
+      - {motif: gatekeeper-of-heaven-asks-who-is-with-you, refs: ["Jāmiʿ 47:4935.1", "Jāmiʿ 47:4936.1", "Jāmiʿ 47:4937.1"], note: "قال جبريل لخازن السماء افتح قال: من هذا؟ ... معك أحد؟ ... أرسل إليه؟"}
+      - {motif: adam-laughs-right-weeps-left-at-offspring, refs: ["Jāmiʿ 47:4935.1"], note: "إذا رجل عن يمينه أسودة وعن يساره أسودة فإذا نظر قبل يمينه ضحك وإذا نظر قبل شماله بكى ... نسم بنيه"}
+      - {motif: prophets-placed-in-the-heavens, refs: ["Jāmiʿ 47:4935.1", "Jāmiʿ 47:4936.1", "Jāmiʿ 47:4937.1"], note: "وجد في السموات إدريس وموسى وعيسى وإبراهيم ... آدم في السماء الدنيا وإبراهيم في السادسة؛ إدريس في الرابعة؛ إدريس في الثانية"}
+      - {motif: idris-raised-to-high-place, refs: ["Jāmiʿ 47:4936.1"], note: "فأتينا السماء الرابعة ... فأتيت على إدريس فسلمت عليه فقال: مرحبا بك من أخ ونبي"}
+      - {motif: welcome-as-righteous-brother-or-son, refs: ["Jāmiʿ 47:4935.1", "Jāmiʿ 47:4936.1"], note: "مرحبا بالنبي الصالح والأخ الصالح ... مرحبا بالنبي الصالح والابن الصالح"}
+    hints:
+      - "Idris met in a heaven: compare Enoch taken by God (Gen 5:24) and shown the heavens (1 Enoch 14; 2 Enoch 3-22), which the compiler cites for Idris."
+  - id: hadith-47-prophet-who-drew-lines
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A prophet used to draw lines; whoever matches his lines, so be it
+    read: ["Jāmiʿ 47:4938.1"]
+    quran: []
+    tags:
+      - {motif: a-prophet-who-divined-by-drawing-lines, refs: ["Jāmiʿ 47:4938.1"], note: "ومنا رجال يخطون، قال: كان نبي من الأنبياء يخط فمن وافق خطه فذاك"}
+  - id: hadith-47-noah-first-messenger
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: In the intercession Noah, first messenger to the people of the earth, a grateful servant, declines for his request
+    read: ["Jāmiʿ 47:4938.2-4939.1"]
+    quran: ["17:3", "10:71-73", "11:25-28"]
+    tags:
+      - {motif: noah-first-messenger-to-people-of-earth, refs: ["Jāmiʿ 47:4938.2", "Jāmiʿ 47:4939.1"], note: "يا نوح أنت أول الرسل إلى أهل الأرض؛ ائتوا نوحا أول رسول بعثه الله"}
+      - {motif: noah-called-a-grateful-servant, refs: ["Jāmiʿ 47:4938.2"], note: "وسماك الله عبدا شكورا"}
+      - {motif: prophets-decline-intercession-citing-a-fault, refs: ["Jāmiʿ 47:4938.2", "Jāmiʿ 47:4939.1"], note: "إن ربي غضب اليوم غضبا لم يغضب قبله مثله ... نفسي نفسي؛ لست هناكم فيذكر خطيئته التي أصاب"}
+      - {motif: noah-ashamed-of-asking-what-he-had-no-knowledge-of, refs: ["Jāmiʿ 47:4939.1"], note: "ويذكر سؤاله ربه ما ليس له به علم فيستحي"}
+      - {motif: noah-pleads-for-drowned-son, refs: ["Jāmiʿ 47:4939.1"], note: "سؤاله ربه ما ليس له به علم"}
+  - id: hadith-47-noah-warned-of-the-dajjal
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Every prophet warned of the Dajjal, Noah too; he is one-eyed and God is not
+    read: ["Jāmiʿ 47:4939.2-4939.3"]
+    quran: []
+    tags:
+      - {motif: every-prophet-warned-of-the-dajjal-noah-first, refs: ["Jāmiʿ 47:4939.2", "Jāmiʿ 47:4939.3"], note: "وما من نبي إلا أنذره قومه لقد أنذر نوح قومه"}
+      - {motif: dajjal-one-eyed-god-not, refs: ["Jāmiʿ 47:4939.2", "Jāmiʿ 47:4939.3"], note: "تعلمون أنه أعور وأن الله ليس بأعور"}
+      - {motif: dajjals-paradise-is-fire, refs: ["Jāmiʿ 47:4939.3"], note: "يجيء معه بمثال الجنة والنار فالتي يقول إنها الجنة هي النار"}
+  - id: hadith-47-noah-and-his-witnesses
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Noah's people deny he conveyed; Muhammad and his community testify for him
+    read: ["Jāmiʿ 47:4940.1"]
+    quran: ["2:143"]
+    tags:
+      - {motif: noahs-people-deny-he-delivered-the-message, refs: ["Jāmiʿ 47:4940.1"], note: "فيقول لأمته: هل بلغكم؟ فيقولون: لا ما جاءنا من نبي"}
+      - {motif: muhammads-community-testifies-for-noah, refs: ["Jāmiʿ 47:4940.1"], note: "فيقول لنوح: من يشهد لك؟ فيقول: محمد وأمته فنشهد أنه قد بلغ"}
+      - {motif: middle-community-witnesses, refs: ["Jāmiʿ 47:4940.1"], note: "وكذلك جعلناكم أمة وسطا ... والوسط العدل"}
+  - id: hadith-47-noahs-idols-among-the-arabs
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Noah's idols were statues of righteous men; afterwards they belonged to Arab tribes
+    read: ["Jāmiʿ 47:4940.2"]
+    quran: ["71:23"]
+    tags:
+      - {motif: five-idols-of-noahs-people, refs: ["Jāmiʿ 47:4940.2"], note: "ود ... سواع ... يغوث ... يعوق ... نسر"}
+      - {motif: noahs-idols-passed-to-arab-tribes, refs: ["Jāmiʿ 47:4940.2"], note: "أما ود فكانت لكلب بدومة الجندل وأما سواع كانت لهذيل وأما يغوث فكانت لمراد ثم لبني غطيف ... يعوق فكانت لهمدان ... نسر فكانت لحمير لآل ذي الكلاع"}
+      - {motif: idols-began-as-memorial-statues-of-righteous-men, refs: ["Jāmiʿ 47:4940.2"], note: "أسماء رجال صالحين من قوم نوح فلما هلكوا أوحى الشيطان إلى قومهم أن انصبوا إلى مجالسهم ... فلم تعبد حتى إذا هلك أولئك وتنسخ العلم عبدت"}
+    hints:
+      - "Idolatry beginning with images of the dead honoured and later worshipped: Wisdom of Solomon 14:15-16 (a father makes an image of his dead child, later honoured as a god)."
+  - id: hadith-47-ten-promised-paradise
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Said b. Zayd names the ten in paradise; a battle with the Prophet outweighs a life as long as Noah's
+    read: ["Jāmiʿ 47:4940.3"]
+    quran: ["29:14"]
+    tags:
+      - {motif: ten-named-in-paradise, refs: ["Jāmiʿ 47:4940.3"], note: "أبو بكر في الجنة وعمر في الجنة وعلي ... وتاسع المؤمنين في الجنة ... أنا تاسع المؤمنين ورسول الله العاشر"}
+      - {motif: one-battle-outweighs-noahs-lifespan, refs: ["Jāmiʿ 47:4940.3"], note: "لمشهد شهده رجل يغبر فيه وجهه مع رسول الله أفضل من عمل أحدكم ولو عمر عمر نوح"}
+  - id: hadith-47-ten-generations-adam-to-noah
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Adam a prophet spoken to; ten generations to Noah (second report)
+    read: ["Jāmiʿ 47:4942.1"]
+    quran: []
+    tags:
+      - {motif: adam-a-prophet-spoken-to-by-god, refs: ["Jāmiʿ 47:4942.1"], note: "أنبي كان آدم؟ قال: نعم مكلم"}
+      - {motif: ten-generations-from-adam-to-noah, refs: ["Jāmiʿ 47:4942.1"], note: "فكم كان بينه وبين نوح؟ قال: عشرة قرون"}
+  - id: hadith-47-noahs-testament
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Noah's deathbed charge to his son - two commands and two prohibitions
+    read: ["Jāmiʿ 47:4943.1"]
+    quran: []
+    tags:
+      - {motif: noahs-deathbed-charge-two-and-two, refs: ["Jāmiʿ 47:4943.1"], note: "لما حضرته الوفاة قال لابنه: إني قاص عليك الوصية آمرك باثنتين وأنهاك عن اثنتين"}
+      - {motif: no-god-but-god-outweighs-seven-heavens-and-earths, refs: ["Jāmiʿ 47:4943.1"], note: "فإن السموات السبع والأرضين السبع لو وضعت في كفة ووضعت لا إله إلا الله في كفة رجحت بهن لا إله إلا الله"}
+      - {motif: subhan-allah-prayer-of-all-things-and-their-provision, refs: ["Jāmiʿ 47:4943.1"], note: "وسبحان الله وبحمده فإنها صلاة كل شيء وبها يرزق الخلق"}
+      - {motif: pride-is-rejecting-truth-and-despising-people, refs: ["Jāmiʿ 47:4943.1"], note: "وأنهاك عن الشرك والكبر ... الكبر: سفه الحق وغمص الناس"}
+    hints:
+      - "Noah's testament to his sons before death: Jubilees 7:20-39 (he commands them to do righteousness, cover their shame, bless their creator, honour parents, and forbids fornication, uncleanness and bloodshed)."
+  - id: hadith-47-ad-and-the-wind
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Ad destroyed by the west wind; "I would kill them as Ad were killed"; the cloud mistaken for rain
+    read: ["Jāmiʿ 47:4944.1-4945.2"]
+    quran: ["51:41-42", "54:18-22", "69:6-8", "46:24"]
+    tags:
+      - {motif: helped-by-east-wind-ad-destroyed-by-west-wind, refs: ["Jāmiʿ 47:4944.1"], note: "نصرت بالصبا وأهلكت عاد بالدبور"}
+      - {motif: killing-as-ad-were-killed, refs: ["Jāmiʿ 47:4944.2"], note: "يمرقون من الإسلام كما يمرق السهم من الرمية لئن أدركتهم لأقتلنهم قتل عاد"}
+      - {motif: reciters-whose-quran-passes-no-further-than-throats, refs: ["Jāmiʿ 47:4944.2"], note: "إن من ضئضئ هذا قوما يقرأون القرآن لا يجاوز حناجرهم يقتلون أهل الإسلام ويدعون أهل الأوثان"}
+      - {motif: doom-cloud-mistaken-for-rain, refs: ["Jāmiʿ 47:4945.1", "Jāmiʿ 47:4945.2"], note: "عذب قوم بالريح وقد رأى قوم العذاب فقالوا: هذا عارض ممطرنا"}
+      - {motif: prophet-alarmed-by-wind-and-cloud, refs: ["Jāmiʿ 47:4945.1", "Jāmiʿ 47:4945.2"], note: "وكان إذا رأى غيما أو ريحا عرف في وجهه؛ إذا تخيلت السماء تغير لونه وخرج ودخل"}
+      - {motif: prayer-for-the-good-of-the-wind, refs: ["Jāmiʿ 47:4945.2"], note: "اللهم إني أسألك خيرها وخير ما فيها وخير ما أرسلت به وأعوذ بك من شرها"}
+      - {motif: prophet-smiles-never-laughs-open-mouthed, refs: ["Jāmiʿ 47:4945.1"], note: "ما رأيت رسول الله ضاحكا حتى أرى منه لهواته إنما كان يتبسم"}
+  - id: hadith-47-envoy-of-ad
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The envoy of Ad, drinking a month with two singing girls, chooses the black cloud - "ashes, leave none of Ad"
+    read: ["Jāmiʿ 47:4946.1"]
+    quran: []
+    tags:
+      - {motif: drought-stricken-people-send-an-envoy-to-pray-for-rain, refs: ["Jāmiʿ 47:4946.1"], note: "إن عادا قحطوا فبعثوا قيلا وافدا فنزل على بكر"}
+      - {motif: envoy-delays-a-month-drinking-with-two-singing-girls, refs: ["Jāmiʿ 47:4946.1"], note: "فسقاه الخمر شهرا وتغنيه جاريتان يقال لهما الجرادتان"}
+      - {motif: envoy-prays-water-ad-as-you-used-to, refs: ["Jāmiʿ 47:4946.1"], note: "إني لم أجئ لمريض فأداويه ولا لأسير فأفاديه اللهم فاسق عادا ما كنت تسقيه"}
+      - {motif: black-cloud-announces-ashes-for-ad, refs: ["Jāmiʿ 47:4946.1"], note: "فمرت به سحابات سود فنودي منها: خذها رمادا رمددا لا تبقي من عاد أحدا"}
+      - {motif: destroying-wind-no-more-than-a-ring-hole, refs: ["Jāmiʿ 47:4946.1"], note: "فما بلغني أنه أرسل عليهم من الريح ... إلا قدر ما يجري في خاتمي"}
+      - {motif: proverb-like-the-envoy-of-ad, refs: ["Jāmiʿ 47:4946.1"], note: "أعوذ بالله ورسوله أن أكون كوافد عاد ... لا تكن كوافد عاد"}
+      - {motif: proverb-goat-carried-its-own-death, refs: ["Jāmiʿ 47:4946.1"], note: "أنا كما قالوا: معزى حملت حتفا"}
+  - id: hadith-47-thamud-camel-killer
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The she-camel's killer was a mighty man like Abu Zamʿa
+    read: ["Jāmiʿ 47:4947.1"]
+    quran: ["91:12", "7:73-79"]
+    tags:
+      - {motif: she-camel-of-god-hamstrung, refs: ["Jāmiʿ 47:4947.1"], note: "وذكر الناقة والذي عقر ... إذ انبعث أشقاها"}
+      - {motif: camel-killer-a-mighty-man-of-his-clan, refs: ["Jāmiʿ 47:4947.1"], note: "انبعث لها رجل عزيز عارم منيع في رهطه مثل أبي زمعة"}
+      - {motif: wife-flogged-like-a-slave-then-bedded, refs: ["Jāmiʿ 47:4947.1"], note: "يعمد أحدكم فيجلد امرأته جلد العبد فلعله يضاجعها من آخر يومه"}
+      - {motif: why-laugh-at-a-breaking-of-wind, refs: ["Jāmiʿ 47:4947.1"], note: "ثم وعظهم في ضحكهم من الضرطة وقال: لم يضحك أحدكم مما يفعل؟"}
+  - id: hadith-47-at-al-hijr
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Passing al-Hijr - enter only weeping, veil the head, pour out the water, feed the dough to camels, drink from the camel's well; Abu Righal
+    read: ["Jāmiʿ 47:4948.1-4949.1"]
+    quran: ["7:73-79", "15:80-84"]
+    tags:
+      - {motif: enter-dwellings-of-the-destroyed-only-weeping, refs: ["Jāmiʿ 47:4948.1"], note: "لا تدخلوا مساكن الذين ظلموا أنفسهم إلا أن تكونوا باكين أن يصيبكم ما أصابهم"}
+      - {motif: prophet-veils-head-and-hurries-through-valley, refs: ["Jāmiʿ 47:4948.1"], note: "ثم تقنع بردائه وهو على الرحل ... ثم قنع رأسه وأسرع السير حتى أجاز الوادي"}
+      - {motif: water-of-destroyed-town-poured-out-dough-to-camels, refs: ["Jāmiʿ 47:4948.2"], note: "أن يهريقوا ما استقوا من بئرها وأن يعلفوا الإبل العجين وأمرهم أن يستقوا من البئر التي كانت تردها الناقة"}
+      - {motif: do-not-ask-for-signs-like-salihs-people, refs: ["Jāmiʿ 47:4949.1"], note: "لا تسألوا الآيات وقد سألها قوم صالح"}
+      - {motif: she-camel-came-and-went-by-two-paths, refs: ["Jāmiʿ 47:4949.1"], note: "فكانت ترد من هذا الفج وتصدر من هذا الفج"}
+      - {motif: alternate-days-water-and-milk, refs: ["Jāmiʿ 47:4949.1"], note: "فكانت تشرب ماءهم يوما ويشربون لبنها يوما"}
+      - {motif: thamud-destroyed-by-the-shout, refs: ["Jāmiʿ 47:4949.1"], note: "فأخذتهم صيحة أهمد الله من تحت أديم السماء منهم"}
+      - {motif: one-sheltered-in-sanctuary-struck-on-leaving, refs: ["Jāmiʿ 47:4949.1"], note: "إلا رجلا واحدا كان في حرم الله ... هو أبو رغال فلما خرج من الحرم أصابه ما أصاب قومه"}
+  - id: hadith-47-abraham-and-azar
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abraham meets Azar at resurrection; his father becomes a hyena smeared with filth and is thrown in the fire
+    read: ["Jāmiʿ 47:4950.1"]
+    quran: ["6:74", "26:87"]
+    tags:
+      - {motif: father-named-azar, refs: ["Jāmiʿ 47:4950.1"], note: "يلقى إبراهيم أباه آزر يوم القيامة"}
+      - {motif: abraham-reminds-god-of-promise-not-to-disgrace-him, refs: ["Jāmiʿ 47:4950.1"], note: "يا رب إنك وعدتني أن لا تخزيني يوم يبعثون فأي خزي أخزى من أبي الأبعد"}
+      - {motif: azar-turned-into-a-hyena, refs: ["Jāmiʿ 47:4950.1"], note: "فينظر فإذا هو بذيخ ملتطخ فيؤخذ بقوائمه فيلقى في النار"}
+      - {motif: father-says-today-i-will-not-disobey, refs: ["Jāmiʿ 47:4950.1"], note: "ألم أقل لك لا تعصني فيقول أبوه: فاليوم لا أعصيك"}
+  - id: hadith-47-abraham-the-friend
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Joseph four generations of prophets back to God's Friend; Abraham declines intercession for his lies; Muhammad also taken as friend
+    read: ["Jāmiʿ 47:4950.2-4951.3"]
+    quran: ["4:125"]
+    tags:
+      - {motif: abraham-friend-of-god, refs: ["Jāmiʿ 47:4950.2", "Jāmiʿ 47:4951.1", "Jāmiʿ 47:4951.2", "Jāmiʿ 47:4951.3"], note: "ابن خليل الله؛ أنت نبي الله وخليله من الأرض؛ الذي اتخذه الله خليلا"}
+      - {motif: joseph-prophet-son-of-prophets-of-gods-friend, refs: ["Jāmiʿ 47:4950.2"], note: "فأكرم الناس يوسف نبي الله ابن نبي الله ابن نبي الله ابن خليل الله"}
+      - {motif: best-in-jahiliyya-best-in-islam, refs: ["Jāmiʿ 47:4950.2"], note: "فخياركم في الجاهلية خياركم في الإسلام إذا فقهوا"}
+      - {motif: prophets-decline-intercession-citing-a-fault, refs: ["Jāmiʿ 47:4951.1", "Jāmiʿ 47:4951.2"], note: "فيقول - فذكر كذباته - نفسي نفسي اذهبوا إلى موسى؛ لست هناكم ويذكر خطيئته"}
+      - {motif: muhammad-taken-as-friend-like-abraham, refs: ["Jāmiʿ 47:4951.3"], note: "فإن الله تعالى قد اتخذني خليلا كما اتخذ إبراهيم خليلا ولو كنت متخذا من أمتي خليلا لاتخذت أبا بكر"}
+      - {motif: graves-of-prophets-taken-as-places-of-worship, refs: ["Jāmiʿ 47:4951.3"], note: "إن من كان قبلكم كانوا يتخذون قبور أنبيائهم وصالحيهم مساجد ألا فلا تتخذوا القبور مساجد"}
+  - id: hadith-47-abraham-gecko-and-frog
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The gecko blew on Abraham's fire and the frog put it out; "God suffices us" said in the fire
+    read: ["Jāmiʿ 47:4952.1-4953.1"]
+    quran: ["3:173", "37:97-98", "21:68-70"]
+    tags:
+      - {motif: gecko-blew-on-abrahams-fire, refs: ["Jāmiʿ 47:4952.1", "Jāmiʿ 47:4952.2"], note: "أمر بقتل الوزغ وقال: كان ينفخ على إبراهيم"}
+      - {motif: frog-tried-to-put-out-abrahams-fire, refs: ["Jāmiʿ 47:4952.2"], note: "كانت الضفدع تطفئ النار عن إبراهيم وكان الوزغ ينفخ فيه فنهى عن قتل هذا وأمر بقتل هذا"}
+      - {motif: god-suffices-best-guardian, refs: ["Jāmiʿ 47:4953.1"], note: "حسبنا الله ونعم الوكيل قالها إبراهيم حين ألقي في النار وقالها محمد حين قالوا: إن الناس قد جمعوا لكم"}
+    hints:
+      - "Frogs that go into the fire: the frogs of the plague entered the ovens (Exod 7:28), and from them Hananiah, Mishael and Azariah reasoned that they too should enter the furnace (b. Pesahim 53b); the furnace of Abraham in Gen. Rab. 38:13."
+  - id: hadith-47-abraham-and-the-dead
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: '"We have more right to doubt than Abraham"; Lot''s strong support; Joseph''s long prison'
+    read: ["Jāmiʿ 47:4954.1"]
+    quran: ["2:260", "11:80", "12:50"]
+    tags:
+      - {motif: four-birds-cut-and-recalled, refs: ["Jāmiʿ 47:4954.1"], note: "رب أرني كيف تحيي الموتى قال أولم تؤمن قال بلى ولكن ليطمئن قلبي"}
+      - {motif: we-have-more-right-to-doubt-than-abraham, refs: ["Jāmiʿ 47:4954.1"], note: "نحن أحق بالشك من إبراهيم"}
+      - {motif: lot-wishes-for-strong-support, refs: ["Jāmiʿ 47:4954.1"], note: "ويرحم الله لوطا لقد كان يأوي إلى ركن شديد"}
+      - {motif: joseph-declined-release-from-prison, refs: ["Jāmiʿ 47:4954.1"], note: "ولو لبثت في السجن طول ما لبث يوسف لأجبت الداعي"}
+  - id: hadith-47-abraham-circumcised
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abraham circumcised himself at eighty with an adze
+    read: ["Jāmiʿ 47:4954.2"]
+    quran: []
+    tags:
+      - {motif: abraham-circumcised-at-eighty-with-adze, refs: ["Jāmiʿ 47:4954.2"], note: "اختتن إبراهيم النبي وهو ابن ثمانين سنة بالقدوم"}
+    hints:
+      - "Divergent number: Gen 17:24 has Abraham circumcised at ninety-nine (Ishmael at thirteen); the compiler notes a reading of 120 years as shadhdh. The instrument qadum (adze, or the place Qadum) has no counterpart in Genesis."
+  - id: hadith-47-abraham-sarah-and-the-tyrant
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sarah taken to the tyrant; his hand seized three times; Hagar given; Abraham's three lies
+    read: ["Jāmiʿ 47:4954.3-4955.1"]
+    quran: ["37:89", "21:63"]
+    tags:
+      - {motif: wife-passed-off-as-sister, refs: ["Jāmiʿ 47:4954.3", "Jāmiʿ 47:4955.1"], note: "من هذه التي معك؟ قال: أختي ... لا تكذبي حديثي فإني أخبرتهم أنك أختي"}
+      - {motif: sister-in-religion-justifies-the-claim, refs: ["Jāmiʿ 47:4954.3", "Jāmiʿ 47:4955.1"], note: "فإنك أختي في الإسلام فإني لا أعلم في الأرض مسلما غيري وغيرك"}
+      - {motif: sarah-prays-and-the-king-is-seized, refs: ["Jāmiʿ 47:4954.3", "Jāmiʿ 47:4955.1"], note: "فقامت توضأ وتصلي ... فلا تسلط علي الكافر فغط حتى ركض برجله؛ فقبضت يده قبضة شديدة"}
+      - {motif: king-seized-three-times-and-released-at-her-prayer, refs: ["Jāmiʿ 47:4954.3", "Jāmiʿ 47:4955.1"], note: "ادعي الله أن يطلق يدي ولا أضرك ففعلت فعاد فقبضت أشد من القبضة الأولى ... الثانية أو الثالثة"}
+      - {motif: king-says-you-brought-me-a-devil, refs: ["Jāmiʿ 47:4954.3", "Jāmiʿ 47:4955.1"], note: "إنك إنما أتيتني بشيطان ولم تأتني بإنسان"}
+      - {motif: king-gives-hagar-to-sarah, refs: ["Jāmiʿ 47:4954.3", "Jāmiʿ 47:4955.1"], note: "وأعطوها آجر ... وأعطها هاجر ... كبت الكافر وأخدم وليدة"}
+      - {motif: abrahams-three-lies, refs: ["Jāmiʿ 47:4955.1"], note: "لم يكذب إبراهيم قط إلا ثلاث كذبات: ثنتين في ذات الله قوله: إني سقيم وقوله: بل فعله كبيرهم هذا وواحدة في شأن سارة"}
+      - {motif: arabs-sons-of-the-water-of-heaven, refs: ["Jāmiʿ 47:4955.1"], note: "قال أبو هريرة: فتلك أمكم يا بني ماء السماء"}
+      - {motif: abraham-asks-mahyam-what-news, refs: ["Jāmiʿ 47:4955.1"], note: "فقال لها: مهيم قالت: خيرا كف الله يد الفاجر"}
+    hints:
+      - "Gen 12:10-20 and 20:1-18 (wife-sister episodes; Pharaoh and Abimelech struck by God); Gen 20:12 'she is indeed my sister, daughter of my father' - the hadith justifies the word as 'sister in Islam'."
+      - "Sarah's prayer and the king's paralysis: Genesis Apocryphon 20:12-29 (Abram prays, a spirit afflicts Pharaoh who cannot approach her; released when Abram lays hands on him); Gen. Rab. 41:2 (an angel strikes Pharaoh at Sarah's word). Hagar given to Sarah by the king: Gen. Rab. 45:1 (Pharaoh gives his daughter Hagar as maid)."
+  - id: hadith-47-hagar-ismail-and-the-house
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Hagar and Ishmael left at the House; the run between Safa and Marwa; Zamzam struck by the angel; Jurhum; the two wives and the threshold; the building of the House
+    read: ["Jāmiʿ 47:4956.1-4958.1"]
+    quran: ["14:37", "2:127"]
+    tags:
+      - {motif: hagar-first-to-wear-the-girdle, refs: ["Jāmiʿ 47:4956.1"], note: "أول ما اتخذ النساء المنطق من قبل أم إسماعيل اتخذت منطقا لتعفي أثرها على سارة"}
+      - {motif: offspring-settled-in-barren-valley-at-sacred-house, refs: ["Jāmiʿ 47:4956.1"], note: "حتى وضعهما عند البيت عند دوحة فوق زمزم ... وليس بمكة يومئذ أحد وليس بها ماء ... ربنا إني أسكنت من ذريتي بواد غير ذي زرع"}
+      - {motif: mother-and-child-left-with-skin-of-water-and-dates, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "ووضع عندهما جرابا فيه تمر وسقاء فيه ماء؛ ومعهم شنة فيها ماء"}
+      - {motif: hagar-asks-did-god-command-this, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "آلله الذي أمرك بهذا؟ قال: نعم قالت: إذن لا يضيعنا؛ إلى من تتركنا؟ قال: إلى الله. قالت: رضيت بالله"}
+      - {motif: mother-turns-away-not-to-watch-child-die, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "وجعلت تنظر إليه يتلوى ... فانطلقت كراهية أن تنظر إليه؛ كأنه ينشغ للموت"}
+      - {motif: seven-runs-between-safa-and-marwa, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "ففعلت ذلك سبع مرات قال النبي: فذلك سعي الناس بينهما"}
+      - {motif: safa-and-marwa, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "فوجدت الصفا أقرب جبل ... ثم أتت المروة"}
+      - {motif: angel-strikes-ground-with-heel-and-water-gushes, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "فإذا هي بالملك عند موضع زمزم فبحث بعقبه - أو قال بجناحه - حتى ظهر الماء؛ فإذا جبريل ... وغمز عقبه على الأرض فانبثق الماء"}
+      - {motif: zamzam-would-have-been-flowing-spring, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "لو تركت زمزم ... لكانت زمزم عينا معينا؛ لو تركته كان الماء ظاهرا"}
+      - {motif: angel-says-father-and-boy-will-build-the-house, refs: ["Jāmiʿ 47:4956.1"], note: "لا تخافوا الضيعة فإن ها هنا بيت الله يبني هذا الغلام وأبوه"}
+      - {motif: circling-bird-shows-travellers-water, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "فرأوا طائرا عائفا فقالوا: إن هذا الطائر ليدور على ماء"}
+      - {motif: settlers-allowed-but-no-right-to-the-water, refs: ["Jāmiʿ 47:4956.1"], note: "أتأذنين لنا أن ننزل عندك؟ فقالت: نعم ولكن لا حق لكم في الماء"}
+      - {motif: ishmael-learns-arabic-from-jurhum-and-marries-among-them, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "وشب الغلام وتعلم العربية منهم ... فلما أدرك زوجوه امرأة منهم"}
+      - {motif: abraham-tests-sons-wives-change-the-threshold, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "نحن بشر نحن في ضيق وشدة ... وقولي له يغير عتبة بابه ... نحن بخير وسعة ... ومريه يثبت عتبة بابه"}
+      - {motif: abraham-blesses-meat-and-water-of-mecca, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "ما طعامكم؟ قالت: اللحم ... الماء قال: اللهم بارك لهم في اللحم والماء ... ولم يكن لهم يومئذ حب"}
+      - {motif: abraham-ishmael-raise-foundations-of-house, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "فعند ذلك رفعا القواعد من البيت فجعل إسماعيل يأتي بالحجارة وإبراهيم يبني ... ربنا تقبل منا إنك أنت السميع العليم"}
+      - {motif: station-of-abraham, refs: ["Jāmiʿ 47:4956.1", "Jāmiʿ 47:4958.1"], note: "جاء بهذا الحجر فوضعه له فقام عليه وهو يبني؛ فقام على حجر المقام"}
+    hints:
+      - "Gen 21:14-19: bread and a skin of water (hemet), the child cast under a bush, the mother sits a bowshot away 'let me not look on the death of the child', an angel calls and God opens her eyes to a well - in the wilderness of Beersheba, not at a sacred house."
+      - "Abraham's two visits to Ishmael's wives with the message about the tent: Pirqe de-R. Eliezer 30 (the first wife 'Ayesha refuses bread and water and he tells her to say 'change the tent peg'; the second, Fatima, gives bread and he tells her the peg is good)."
+  - id: hadith-47-abraham-made-mecca-sacred
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Returning from Khaybar with Safiyya; Uhud loves us; Medina made sacred as Abraham made Mecca
+    read: ["Jāmiʿ 47:4960.1"]
+    quran: []
+    tags:
+      - {motif: medina-made-sacred-as-abraham-made-mecca, refs: ["Jāmiʿ 47:4960.1"], note: "اللهم إني أحرم ما بين جبليها مثل ما حرم به إبراهيم مكة اللهم بارك لهم في مدهم وصاعهم"}
+      - {motif: mountain-that-loves-us, refs: ["Jāmiʿ 47:4960.1"], note: "حتى إذا بدا له أحد قال: هذا جبل يحبنا ونحبه"}
+      - {motif: refuge-from-eight-afflictions, refs: ["Jāmiʿ 47:4960.1"], note: "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل والبخل والجبن وضلع الدين وغلبة الرجال"}
+  - id: hadith-47-kaba-short-of-abrahams-foundations
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Quraysh built the Kaba short of Abraham's foundations; the prophet would restore it but for his people's recent unbelief
+    read: ["Jāmiʿ 47:4960.2"]
+    quran: []
+    tags:
+      - {motif: kaba-rebuilt-short-of-abrahams-foundations, refs: ["Jāmiʿ 47:4960.2"], note: "إن قومك حين بنوا الكعبة اقتصروا عن قواعد إبراهيم ... لولا حدثان قومك بالكفر لفعلت"}
+      - {motif: two-corners-by-the-hijr-not-touched, refs: ["Jāmiʿ 47:4960.2"], note: "ما أرى رسول الله ترك استلام الركنين اللذين يليان الحجر إلا أن البيت لم يتمم على قواعد إبراهيم"}
+  - id: hadith-47-what-the-prophets-looked-like
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abraham looks like your companion; Moses tall and curly on a red camel; Jesus ruddy as from a bath; Gabriel like Dihya; milk chosen over wine
+    read: ["Jāmiʿ 47:4961.1-4961.3"]
+    quran: []
+    tags:
+      - {motif: abraham-resembles-muhammad, refs: ["Jāmiʿ 47:4961.1", "Jāmiʿ 47:4961.2", "Jāmiʿ 47:4961.3"], note: "أما إبراهيم فانظروا إلى صاحبكم؛ وأنا أشبه ولده به؛ فإذا أقرب من رأيت به شبها صاحبكم"}
+      - {motif: moses-like-a-man-of-shanua, refs: ["Jāmiʿ 47:4961.1", "Jāmiʿ 47:4961.2", "Jāmiʿ 47:4961.3"], note: "وأما موسى فرجل آدم جعد على جمل أحمر مخطوم بخلبة ... يلبي؛ كأنه من رجال شنوءة"}
+      - {motif: jesus-ruddy-as-if-from-a-bath, refs: ["Jāmiʿ 47:4961.2", "Jāmiʿ 47:4961.3"], note: "فإذا ربعة أحمر كأنما خرج من ديماس يعني حماما؛ أقرب من رأيت به شبها عروة بن مسعود"}
+      - {motif: gabriel-resembles-dihya, refs: ["Jāmiʿ 47:4961.3"], note: "ورأيت جبريل فإذا أقرب من رأيت به شبها دحية"}
+      - {motif: milk-chosen-over-wine-is-the-fitra, refs: ["Jāmiʿ 47:4961.2"], note: "فأتيت بإناءين في أحدهما لبن وفي الآخر خمر ... فأخذت اللبن ... هديت الفطرة ... لو أخذت الخمر غوت أمتك"}
+      - {motif: dajjal-has-kafir-written-between-eyes, refs: ["Jāmiʿ 47:4961.1"], note: "إنه مكتوب بين عينيه كافر"}
+  - id: hadith-47-best-of-creation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Called "best of creation", the prophet answers "that is Abraham"
+    read: ["Jāmiʿ 47:4962.1"]
+    quran: []
+    tags:
+      - {motif: abraham-the-best-of-creation, refs: ["Jāmiʿ 47:4962.1"], note: "يا خير البرية فقال رسول الله: ذاك إبراهيم"}
+  - id: hadith-47-abraham-in-the-seventh-heaven
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abraham met in the seventh heaven, his back against the frequented House (or the sixth)
+    read: ["Jāmiʿ 47:4962.2-4962.4"]
+    quran: []
+    tags:
+      - {motif: abraham-met-in-seventh-heaven, refs: ["Jāmiʿ 47:4962.2", "Jāmiʿ 47:4962.3"], note: "ثم عرج بي إلى السماء السابعة ... فإذا أنا بإبراهيم مسندا ظهره إلى البيت المعمور"}
+      - {motif: frequented-house-heavenly-temple, refs: ["Jāmiʿ 47:4962.2", "Jāmiʿ 47:4962.3"], note: "فرفع لي البيت المعمور"}
+      - {motif: prophets-placed-in-the-heavens, refs: ["Jāmiʿ 47:4962.4"], note: "وجد آدم في السماء الدنيا وإبراهيم في السماء السادسة"}
+      - {motif: gatekeeper-of-heaven-asks-who-is-with-you, refs: ["Jāmiʿ 47:4962.2", "Jāmiʿ 47:4962.3"], note: "فاستفتح جبريل فقيل من هذا قال: جبريل قيل: ومن معك؟"}
