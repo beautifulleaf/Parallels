@@ -1,264 +1,1421 @@
-# ANE x Quran side-by-side pass, chunk 27 (Hittite: CTH 264 temple instructions, Illuyanka, vanished-god myths CTH 322-334). Judged blind, from the originals.
-new_motifs: {}
+# ANE x Quran side-by-side pass, chunk 27 (Hittite: CTH 264 instructions for temple personnel, Illuyanka CTH 321, the vanished-god myths CTH 322-334). Judged blind, from the originals.
+new_motifs:
+  god-portion-of-offering-diverted:
+    label: The portion of crops or livestock set aside for the deity is split off and diverted to others
+    cluster: ritual
+  clergy-consume-sacred-goods:
+    label: Religious personnel eat up goods that are not theirs (the god's offerings, people's wealth)
+    cluster: ritual
+  punishment-deferred-misread-as-inaction:
+    label: Wrongdoers take the deity's delay to mean he does nothing; he defers, then seizes
+    cluster: judgment
+  divine-seizing-severe-once-it-falls:
+    label: The deity's seizing (of the guilty) is slow to come but severe and final once it falls
+    cluster: judgment
+  transfer-recorded-with-witnesses:
+    label: A transfer of goods (gift, sale, debt) is to be written down and witnessed
+    cluster: law
+  misappropriation-of-entrusted-goods:
+    label: Embezzlement of goods held in trust (the god's goods, war spoils)
+    cluster: law
+  sacred-time-shifted-forbidden:
+    label: Moving a sacred festival or month out of its fixed time is forbidden
+    cluster: ritual
+  excuse-to-leave-city-defence:
+    label: An excuse of guarding one's own place to avoid the city's defence when an enemy threatens
+    cluster: law
+  drink-causes-quarrel-at-worship:
+    label: Drunkenness produces quarrels that disrupt worship
+    cluster: ritual
+  quarrel-forbidden-at-festival:
+    label: Quarrelling is forbidden during the sacred festival
+    cluster: ritual
+  punishment-of-offenders-kin:
+    label: Whether an offender's family is punished with him
+    cluster: law
+  washing-after-intercourse-before-worship:
+    label: One who has had intercourse must wash before approaching the deity's service or prayer
+    cluster: ritual
+  pig-as-impure:
+    label: The pig as impure in matters of food
+    cluster: ritual
+  foul-food-as-retribution-for-food-offence:
+    label: An offence concerning food is repaid with foul food and drink
+    cluster: judgment
+  due-of-harvest-given-at-once:
+    label: The due from crops and young animals is given at once, at harvest time
+    cluster: ritual
+  self-curse-on-liars-with-wives-and-children:
+    label: Parties to a dispute call down divine punishment on the liar, with their wives and children
+    cluster: law
+  inferior-substituted-for-the-due:
+    label: An inferior thing is given in place of the good one owed to God or the god
+    cluster: ritual
+  prohibition-on-looking:
+    label: A protected person is forbidden to look out or turn round, and one does
+    cluster: narrative
+  son-sides-with-enemy-and-perishes:
+    label: A son sides with his father's enemies and perishes with them
+    cluster: narrative
+  sacred-office-assigned-by-lot:
+    label: A sacred charge is assigned by casting lots
+    cluster: ritual
+  offering-graded-by-means:
+    label: 'What one gives is graded by one''s means: the rich much, the poor little'
+    cluster: ritual
+  mothers-abandon-their-young:
+    label: In catastrophe mothers abandon their young and pregnancy fails
+    cluster: judgment
+  smoke-envelops-as-calamity:
+    label: Smoke envelops house or people as a calamity
+    cluster: judgment
+  eating-that-does-not-still-hunger:
+    label: Food that is eaten but does not still hunger
+    cluster: afterlife
+  seven-gates-of-the-underworld:
+    label: The underworld or hell has seven doors or gates
+    cluster: afterlife
+  no-coming-out-of-the-underworld:
+    label: What goes into the place below cannot come out again
+    cluster: afterlife
+  sealed-over-in-the-underworld:
+    label: The evil is shut in below under a closed cover
+    cluster: afterlife
+  bee-sent-through-mountains:
+    label: The bee, sent or inspired by the deity, goes through the mountains
+    cluster: animals
+  deity-and-sleep:
+    label: Whether the deity sleeps
+    cluster: deity
+  keepers-open-the-gates-below:
+    label: A gatekeeper opens the gates of the place below
+    cluster: afterlife
+  fig-and-olive-paired:
+    label: The fig and the olive named together
+    cluster: ritual
+  good-word-bad-word:
+    label: Good words and bad words set against each other, with plant imagery
+    cluster: wisdom
 reviewed:
 - unit: ane-cth-264-c-festivals-and-offerings
-  checked: [quran-9-uzayr-clergy, quran-6-pagan-offerings-cattle, quran-22-abraham-house-pilgrimage, quran-9-mosques-and-kin]
-  matches: []
+  checked:
+  - quran-9-uzayr-clergy
+  - quran-6-pagan-offerings-cattle
+  - quran-22-abraham-house-pilgrimage
+  - quran-9-mosques-and-kin
+  matches:
+  - with: quran-6-pagan-offerings-cattle
+    motif: god-portion-of-offering-diverted
+    refs:
+    - CTH 264 W15:Vs._I_46'-Vs._I_59'
+    with_refs:
+    - 6:136
+    relation: divergence
+    record:
+      agent:
+      - temple staff
+      - the idolaters
+      action:
+      - split the god's offering and keep part
+      - split a portion between God and the partners
+      object:
+      - the god's cattle, sheep, bread, beer and wine
+      - a portion of crops and cattle
+      recipient:
+      - their wives, children, servants, kin or a stranger
+      - the partners
+      quoted:
+      - takšan šarraš takšan šarran pešteni ... kuiš-at-kan šarrai-ma naš aku
+      - hādhā li-llāhi bi-zaʿmihim wa-hādhā li-shurakāʾinā ... fa-huwa yaṣilu ilā shurakāʾihim
+      outcome:
+      - the one who divides it dies, no turning back
+      - sāʾa mā yaḥkumūn
+    note: 'The god''s share is halved and partly diverted. CTH 264: staff who ''divide it in half'' (takšan šarra-) and give it to wives, children, a kinsman or a stranger shall die. Q 6:136: the idolaters set apart a portion of tilth and cattle, ''this is for God, by their claim, and this for our partners'', and what is God''s reaches the partners. Who takes the diverted half changes: the priest''s household against the false gods.'
+  - with: quran-9-uzayr-clergy
+    motif: clergy-consume-sacred-goods
+    refs:
+    - CTH 264 W15:Vs._I_46'-Vs._I_55'
+    with_refs:
+    - '9:34'
+    relation: divergence
+    record:
+      agent:
+      - the temple staff
+      - many of the rabbis and monks
+      action:
+      - eat up
+      - eat up
+      object:
+      - the gods' offerings
+      - people's wealth
+      quoted:
+      - ar-ḫa e-ez-za-a-i (they eat it up)
+      - la-yaʾkulūna amwāla n-nāsi bi-l-bāṭil
+    note: 'Religious personnel ''eat up'' what is not theirs: CTH 264 the temple men take the gods'' offerings home where wives, children and servants eat them up (arḫa ezzai); Q 9:34 rabbis and monks ''eat up people''s wealth in vanity'' (yaʾkulūna amwāla n-nās). The goods eaten change from the god''s offerings to the people''s property.'
 - unit: ane-cth-264-d-silent-god-strong-will
-  checked: [quran-11-pharaoh-leads, quran-85-constellations, quran-35-heirs-of-book, quran-3-misers-mockers]
-  matches: []
+  checked:
+  - quran-11-pharaoh-leads
+  - quran-85-constellations
+  - quran-35-heirs-of-book
+  - quran-3-misers-mockers
+  - quran-14-day-of-reckoning
+  matches:
+  - with: quran-14-day-of-reckoning
+    motif: punishment-deferred-misread-as-inaction
+    refs:
+    - CTH 264 W15:Vs._II_18'-Vs._II_24'
+    with_refs:
+    - '14:42'
+    relation: parallel
+    record:
+      agent:
+      - wrongdoers
+      - the wrongdoers
+      action:
+      - think the god does nothing to them
+      - think God unaware of what they do
+      quoted:
+      - DINGIR-LIM-waraš kuit nu-wa UL kuitki memai nu-wa-nnaš UL kuitki iyazi ... eppuwanzi UL nuntarnuzi
+      - wa-lā taḥsabanna llāha ghāfilan ʿammā yaʿmalu ẓ-ẓālimūna innamā yuʾakhkhiruhum
+      outcome:
+      - the god does not hasten to seize, but seizes at his time
+      - he only defers them to a day when eyes stare
+    note: 'The same reasoning refuted: CTH 264 the offenders say ''because he is a god he says nothing and does nothing to us'', but the gods'' will ''does not hasten to seize'' (eppuwanzi UL nuntarnuzi); Q 14:42 ''do not think God unaware of what the wrongdoers do, he only defers them (yuʾakhkhiruhum)''.'
+  - with: quran-11-pharaoh-leads
+    motif: divine-seizing-severe-once-it-falls
+    refs:
+    - CTH 264 W15:Vs._II_22'-Vs._II_24'
+    with_refs:
+    - 11:102
+    relation: echo
+    record:
+      agent:
+      - the gods' will
+      - your Lord
+      action:
+      - seizes and does not let go
+      - seizes the towns
+      quoted:
+      - eppzi-ma kuedani mēḫuni nu namma arḫa UL tarnai
+      - wa-kadhālika akhdhu rabbika idhā akhadha l-qurā ... inna akhdhahū alīmun shadīd
+    note: 'The divine ''seizing'': CTH 264 ''when it seizes (ep-), it does not let go again''; Q 11:102 ''such is the seizing (akhdh) of your Lord when he seizes the towns ... his seizing is painful, severe''. Same verb image, applied to the town rather than the individual.'
 - unit: ane-cth-264-e-temple-valuables
-  checked: [quran-3-badr-uhud, quran-9-bargain-abraham, quran-26-abraham, quran-3-misers-mockers]
-  matches: []
+  checked:
+  - quran-3-badr-uhud
+  - quran-9-bargain-abraham
+  - quran-26-abraham
+  - quran-3-misers-mockers
+  - quran-2-debt-contract
+  matches:
+  - with: quran-2-debt-contract
+    motif: transfer-recorded-with-witnesses
+    refs:
+    - CTH 264 W15:Vs._II_32'-Vs._II_44'
+    with_refs:
+    - 2:282
+    relation: parallel
+    record:
+      action:
+      - records the gift or sale
+      - write the debt down
+      instrument:
+      - a wooden tablet (GIŠ.ḪUR)
+      - a scribe writing
+      quoted:
+      - lamniyan ēšdu ... kutruš-ša EGIR-an iyanteš ašandu ... GIŠ.ḪUR iyandu
+      - fa-ktubūhu ... wa-stashhidū shahīdayni ... wa-ashhidū idhā tabāyaʿtum
+      number:
+      - null
+      - 2 witnesses
+      outcome:
+      - sale only in public before the lords of Hatti
+      - fairer for testimony and less cause to doubt
+    note: 'A transfer must be written and witnessed. CTH 264: a palace gift is ''named'' with its weight and festival, ''and witnesses (kutruš) shall be present''; it may be sold only openly before the lords of Hatti, who ''make a wooden tablet'' of the price. Q 2:282: write the debt (fa-ktubūhu), call two witnesses, ''and take witnesses when you sell (tabāyaʿtum)''.'
+  - with: quran-3-badr-uhud
+    motif: misappropriation-of-entrusted-goods
+    refs:
+    - CTH 264 W15:Vs._II_45'-Vs._II_51'
+    with_refs:
+    - 3:161
+    relation: divergence
+    record:
+      action:
+      - sells the god's goods for himself
+      - embezzles (ghulūl)
+      object:
+      - silver, gold, garments, bronze vessels of the god
+      - what he embezzled
+      quoted:
+      - ZI-azza-ma ḫappirāezzi nat-ši SAG.DU-aš ÚŠ-tar ... 2-aš-pat ... akkandu
+      - wa-man yaghlul yaʾti bi-mā ghalla yawma l-qiyāma
+      outcome:
+      - he and the one who hid him are both put to death
+      - he brings what he embezzled on the day of resurrection
+    note: 'Misappropriating goods held in trust. CTH 264: who sells the god''s goods for himself, and who catches him but hides him, ''both shall die''. Q 3:161: ''whoever embezzles will bring what he embezzled on the day of resurrection''. The penalty moves from immediate execution to the last day, and the object from temple valuables to spoils.'
 - unit: ane-cth-264-f-festivals-on-time
-  checked: [quran-9-months-nasi, quran-2-war-pilgrimage, quran-24-light-verse, quran-62-jumua-unlettered-donkey-and-friday]
-  matches: []
+  checked:
+  - quran-9-months-nasi
+  - quran-2-war-pilgrimage
+  - quran-24-light-verse
+  - quran-62-jumua-unlettered-donkey-and-friday
+  matches:
+  - with: quran-9-months-nasi
+    motif: sacred-time-shifted-forbidden
+    refs:
+    - CTH 264 W15:Vs._II_52'-Vs._II_63'
+    with_refs:
+    - '9:36'
+    - '9:37'
+    relation: parallel
+    record:
+      agent:
+      - temple staff at the festival-giver's request
+      - the unbelievers
+      action:
+      - shift the festival out of its season
+      - postpone the sacred month
+      object:
+      - spring and autumn festivals
+      - the sacred months
+      quoted:
+      - EZEN4 ḫamešḫandaš INA zēni iyatteni EZEN4 zenandaš-ma ḫamešḫi eššatteni
+      - innamā n-nasīʾu ziyādatun fi l-kufri yuḥillūnahū ʿāman wa-yuḥarrimūnahū ʿāman
+      outcome:
+      - 'forbidden: do the gods'' will, not man''s'
+      - 'forbidden: an increase in unbelief'
+    note: 'Both forbid moving sacred time. CTH 264: you hold the spring festival in autumn and the autumn festival in spring because the giver pleads harvest, marriage or a journey; do not act by a man''s wish. Q 9:37: the nasīʾ, ''they make it lawful one year and forbidden another'', is ''an increase in unbelief''. Both have a fixed sacred calendar shifted for human convenience.'
 - unit: ane-cth-264-g-night-in-temple
-  checked: [quran-72-jinn, quran-4-prayer-intoxication-purity, quran-3-world-and-witness, quran-22-abraham-house-pilgrimage]
+  checked:
+  - quran-72-jinn
+  - quran-4-prayer-intoxication-purity
+  - quran-3-world-and-witness
+  - quran-22-abraham-house-pilgrimage
   matches: []
 - unit: ane-cth-264-h-city-watch-humiliation
-  checked: [quran-7-children-of-adam, quran-9-mosques-and-kin, quran-9-hunayn-jizya, quran-22-abraham-house-pilgrimage]
-  matches: []
+  checked:
+  - quran-7-children-of-adam
+  - quran-9-mosques-and-kin
+  - quran-9-hunayn-jizya
+  - quran-22-abraham-house-pilgrimage
+  - quran-33-trench
+  matches:
+  - with: quran-33-trench
+    motif: excuse-to-leave-city-defence
+    refs:
+    - CTH 264 W15:Rs._III_21-Rs._III_30
+    with_refs:
+    - '33:13'
+    relation: divergence
+    record:
+      agent:
+      - a temple servant
+      - a party of them
+      action:
+      - excuses himself from the city watch
+      - ask leave to quit the defence
+      quoted:
+      - ammuk-wa-za É DINGIR-LIM-ya paḫḫašḫi apiya-ma-wa UL paimi
+      - inna buyūtanā ʿawratun wa-mā hiya bi-ʿawratin in yurīdūna illā firāran
+      place:
+      - Hattusa threatened by an enemy
+      - Yathrib under siege
+      outcome:
+      - 'forbidden: he must go to the watch'
+      - 'exposed: they only wanted to flee'
+    note: 'The excuse of guarding one''s own place when the city''s defence is due: CTH 264 ''let no one say: I guard the temple, I will not go there (to the watch)'', when an enemy seeks to violate Hattusa; Q 33:13 a party ask the Prophet''s leave saying ''our houses are exposed'', ''and they were not exposed''. The excuse shifts from the temple to private houses; the Quran exposes it as a pretext for flight.'
 - unit: ane-cth-264-i-quarrel-and-fire
-  checked: [quran-22-abraham-house-pilgrimage, quran-11-pharaoh-leads, quran-43-zukhruf-abraham-and-silver-roofs]
-  matches: []
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-11-pharaoh-leads
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-5-oaths-wine-game
+  - quran-2-war-pilgrimage
+  - quran-6-final-reckoning
+  matches:
+  - with: quran-5-oaths-wine-game
+    motif: drink-causes-quarrel-at-worship
+    refs:
+    - CTH 264 W15:Rs._III_35-Rs._III_43
+    with_refs:
+    - 5:90
+    - 5:91
+    relation: parallel
+    record:
+      action:
+      - gets drunk and makes a quarrel
+      - wine and gambling sow enmity
+      place:
+      - in the temple
+      - null
+      quoted:
+      - kuiški nikzi naš-kan mān ŠÀ É DINGIR-LIM nininktari nu ḫalluwain iyazi naš-ta EZEN4 zaḫzi
+      - yūqiʿa baynakumu l-ʿadāwata wa-l-baghḍāʾa fi l-khamri wa-l-maysiri wa-yaṣuddakum ʿan dhikri llāhi wa-ʿani ṣ-ṣalāh
+      outcome:
+      - he disrupts the festival and must redo it with cattle, sheep, bread and beer
+      - 'it turns you from remembrance of God and from prayer: will you desist?'
+    note: 'Drink leading to a quarrel that breaks off worship: CTH 264 one who gets drunk (nink-) in the temple and starts a quarrel ''disturbs the festival'' (EZEN4 zaḫzi) and must provide it again; Q 5:91 Satan would cast enmity among you ''through wine'' and hinder you ''from the remembrance of God and from prayer''. The Hittite fines the offender; the Quran bans the wine.'
+  - with: quran-2-war-pilgrimage
+    motif: quarrel-forbidden-at-festival
+    refs:
+    - CTH 264 W15:Rs._III_35-Rs._III_43
+    with_refs:
+    - 2:197
+    relation: echo
+    record:
+      action:
+      - quarrels during the festival
+      - quarrelling
+      time:
+      - the god's festival
+      - the months of the pilgrimage
+      quoted:
+      - ḫalluwain iyazi ... ḫalluwaya-za mekki naḫḫanteš ēštēn
+      - fa-lā rafatha wa-lā fusūqa wa-lā jidāla fi l-ḥajj
+    note: 'No quarrel at the feast: CTH 264 a quarrel (ḫalluwai-) in the temple spoils the festival, ''be very fearful of quarrels''; Q 2:197 ''no intercourse, no wickedness, no quarrelling (jidāl) in the pilgrimage''.'
+  - with: quran-6-final-reckoning
+    motif: punishment-of-offenders-kin
+    refs:
+    - CTH 264 W15:Rs._III_51-Rs._III_53
+    with_refs:
+    - 6:164
+    relation: contrast
+    record:
+      agent:
+      - the offender
+      - every soul
+      recipient:
+      - he and his seed
+      - itself only
+      quoted:
+      - waštul kuiš iyazi naš QADU NUMUN-ŠU ḫarakzi-pat
+      - wa-lā taziru wāziratun wizra ukhrā
+      outcome:
+      - his whole family perishes with him
+      - no bearer bears another's burden
+    note: 'Opposite rulings on the offender''s kin: CTH 264 ''who commits the offence perishes together with his seed (QADU NUMUN-ŠU)'', not one spared; Q 6:164 ''no burdened soul bears another''s burden''.'
 - unit: ane-cth-264-j-kitchen-purity
-  checked: [quran-4-prayer-intoxication-purity, quran-6-pagan-offerings-cattle, quran-16-abrogation-food-abraham-sabbath, quran-41-steadfast-and-repel-evil]
-  matches: []
+  checked:
+  - quran-4-prayer-intoxication-purity
+  - quran-6-pagan-offerings-cattle
+  - quran-16-abrogation-food-abraham-sabbath
+  - quran-41-steadfast-and-repel-evil
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches:
+  - with: quran-4-prayer-intoxication-purity
+    motif: washing-after-intercourse-before-worship
+    refs:
+    - CTH 264 W15:Rs._III_68-Rs._III_73
+    with_refs:
+    - '4:43'
+    relation: parallel
+    record:
+      agent:
+      - one who has slept with a woman
+      - one in a state of janāba, or who has touched women
+      action:
+      - bathes before coming to the gods' meal
+      - washes before approaching prayer
+      time:
+      - before the sun rises
+      - null
+      quoted:
+      - MUNUS-i kuiš GAM-an šešzi ... kuitman dUTU-uš šarā ... ḫūdāk warapdu
+      - wa-lā junuban ... ḥattā taghtasilū ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū
+      outcome:
+      - one who comes unbathed incurs death
+      - without water, wipe with clean earth
+    note: 'Washing after intercourse before approaching the deity. CTH 264: who has lain with a woman must bathe quickly before sunrise and come to the gods'' meal; one who comes unbathed incurs death. Q 4:43: do not approach prayer junub ''until you have washed'', and if you have touched women and find no water, use clean earth. The rule is the same; the sanction for lacking a bath changes from death to a substitute rite.'
+  - with: quran-16-abrogation-food-abraham-sabbath
+    motif: pig-as-impure
+    refs:
+    - CTH 264 W15:Rs._III_59-Rs._III_67
+    with_refs:
+    - 16:115
+    relation: divergence
+    record:
+      object:
+      - pig and dog
+      - the flesh of swine
+      action:
+      - must not cross the kitchen threshold or touch the vessels
+      - forbidden as food
+      quoted:
+      - ŠAḪ-aš UR.GI7-aš GIŠkattaluzzi lē šarreškitta
+      - innamā ḥarrama ʿalaykumu l-maytata wa-d-dama wa-laḥma l-khinzīr
+    note: 'The pig as impure: CTH 264 ''pig and dog must not cross the threshold'' of the gods'' kitchen, and food they touch is impure; Q 16:115 God has forbidden ''the flesh of swine''. In the Hittite the pig pollutes the god''s food by contact; in the Quran its flesh is forbidden to the believer.'
+  - with: quran-69-haqqa-books-in-right-and-left-hands
+    motif: foul-food-as-retribution-for-food-offence
+    refs:
+    - CTH 264 W15:Rs._III_64-Rs._III_68
+    with_refs:
+    - '69:34'
+    - '69:35'
+    - '69:36'
+    relation: divergence
+    record:
+      agent:
+      - the gods
+      - null
+      action:
+      - give him dung and urine to eat and drink
+      - he has no food but ghislīn
+      recipient:
+      - the cook who served polluted food to the gods
+      - one who did not urge feeding the poor
+      quoted:
+      - apēdani-ma DINGIR.MEŠ-eš zakkar dūr adanna akuwanna pianzi
+      - wa-lā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn ... wa-lā ṭaʿāmun illā min ghislīn
+    note: 'An offence over food repaid in food: CTH 264 the cook who gives the gods polluted food is given by the gods ''dung and urine to eat and drink'' (zakkar dūr); Q 69:34-36 he who ''did not urge the feeding of the poor'' has ''no food except ghislīn''. The food offence changes from serving the gods impure food to neglecting the poor.'
 - unit: ane-cth-264-k-ploughmen
-  checked: [quran-6-pagan-offerings-cattle, quran-68-qalam-companions-of-the-garden, quran-51-dhariyat-flee-to-god, quran-6-mercy-judgment]
-  matches: []
+  checked:
+  - quran-6-pagan-offerings-cattle
+  - quran-68-qalam-companions-of-the-garden
+  - quran-51-dhariyat-flee-to-god
+  - quran-6-mercy-judgment
+  matches:
+  - with: quran-6-pagan-offerings-cattle
+    motif: due-of-harvest-given-at-once
+    refs:
+    - CTH 264 W15:Rs._IV_2-Rs._IV_7
+    with_refs:
+    - 6:141
+    relation: divergence
+    record:
+      action:
+      - bring the first fruits at once
+      - give its due on the day of harvest
+      object:
+      - first bread and young animals
+      - the fruit and crops
+      recipient:
+      - the gods
+      - null
+      time:
+      - at their time, before any man eats
+      - yawma ḥaṣādihi
+      quoted:
+      - kuit ḫuelpi ... ḫūdāk mēḫunaš mēḫuni pē ḫartēn kuitman-at UN-aš nāwi ezzāi
+      - kulū min thamarihī idhā athmara wa-ātū ḥaqqahū yawma ḥaṣādihī
+    note: 'The harvest due without delay: CTH 264 the gods'' ploughmen bring the first (ḫuelpi) ''at once, at its time'', before any man eats of it; Q 6:141 ''eat of its fruit when it bears and give its due on the day of its harvest''. The Quran lets the owner eat first, and the due goes to no god.'
 - unit: ane-cth-264-l-herdsmen-ordeal-colophon
-  checked: [quran-2-charity, quran-6-pagan-offerings-cattle, quran-6-mercy-judgment, quran-51-dhariyat-flee-to-god]
-  matches: []
+  checked:
+  - quran-2-charity
+  - quran-6-pagan-offerings-cattle
+  - quran-6-mercy-judgment
+  - quran-51-dhariyat-flee-to-god
+  - quran-3-annunciation-jesus
+  matches:
+  - with: quran-3-annunciation-jesus
+    motif: self-curse-on-liars-with-wives-and-children
+    refs:
+    - CTH 264 W15:Rs._IV_47-Rs._IV_55
+    - CTH 264 W15:Rs._IV_68-Rs._IV_77
+    with_refs:
+    - 3:61
+    relation: parallel
+    record:
+      agent:
+      - accused temple herdsmen
+      - the Prophet and his disputants
+      action:
+      - drink from the god's rhyton and call on the god to pursue the liar
+      - pray and lay God's curse on the liars
+      recipient:
+      - themselves with their wives and children
+      - our sons and yours, our women and yours, ourselves and yourselves
+      quoted:
+      - zik DINGIR-LUM ... QADU DAM.MEŠ-NI DUMU.MEŠ-NI parḫeške
+      - nadʿu abnāʾanā wa-abnāʾakum wa-nisāʾanā wa-nisāʾakum ... fa-najʿal laʿnata llāhi ʿala l-kādhibīn
+      outcome:
+      - if impure they perish with wives and children
+      - God's curse on the liars
+    note: 'A self-curse that brings in wives and children: CTH 264 the accused drink from the god''s rhyton and say ''if we lied, you, god, pursue us together with our wives and our children'' (QADU DAM.MEŠ-NI DUMU.MEŠ-NI); Q 3:61 the mubāhala: ''let us call our sons and your sons, our women and your women ... and lay the curse of God on the liars''. The Quran has no drink and no rhyton, and both parties take part.'
+  - with: quran-2-charity
+    motif: inferior-substituted-for-the-due
+    refs:
+    - CTH 264 W15:Rs._IV_56-Rs._IV_67
+    with_refs:
+    - 2:267
+    relation: divergence
+    record:
+      agent:
+      - the herdsman
+      - the believers
+      action:
+      - exchanges the fattened animal and lets in a lean one
+      - must not pick out the bad to give
+      object:
+      - a fattened ox or sheep
+      - al-khabīth
+      recipient:
+      - the gods
+      - God's cause
+      quoted:
+      - GU4 NIGA našma UDU NIGA waḫnuzi ... pedešši-ma maklantan tarnanzi
+      - wa-lā tayammamū l-khabītha minhu tunfiqūna wa-lastum bi-ākhidhīhi illā an tughmiḍū fīhi
+      outcome:
+      - capital sin
+      - God is free of need
+    note: 'The inferior given in place of the good: CTH 264 the herdsman swaps the gods'' fattened ox or sheep and puts a lean (maklant-) one in its place; Q 2:267 ''do not pick out the bad (al-khabīth) to spend from it, which you would not take yourselves except with eyes closed''. The Hittite is fraud against the god''s flock; the Quran is a rule on almsgiving, with no penalty.'
 - unit: ane-cth-264-w16-w19-fragments
-  checked: [quran-9-mosques-and-kin, quran-41-steadfast-and-repel-evil, quran-3-sovereignty]
+  checked:
+  - quran-9-mosques-and-kin
+  - quran-41-steadfast-and-repel-evil
+  - quran-3-sovereignty
   matches: []
 - unit: ane-cth-321-1-purulli-incipit
-  checked: [quran-7-creation-signs, quran-80-frowned, quran-16-blessings-of-creation]
+  checked:
+  - quran-7-creation-signs
+  - quran-80-frowned
+  - quran-16-blessings-of-creation
   matches: []
 - unit: ane-cth-321-2-inaras-feast-and-the-serpent
-  checked: [quran-16-blessings-of-creation, quran-20-moses-call, quran-5-oaths-wine-game, quran-2-harut-marut]
+  checked:
+  - quran-16-blessings-of-creation
+  - quran-20-moses-call
+  - quran-5-oaths-wine-game
+  - quran-2-harut-marut
   matches: []
 - unit: ane-cth-321-3-hupasiya-and-the-window
-  checked: [quran-11-lot, quran-2-adam-iblis, quran-13-covenant-and-paradise, quran-66-tahrim-wives-and-the-four-women]
-  matches: []
+  checked:
+  - quran-11-lot
+  - quran-2-adam-iblis
+  - quran-13-covenant-and-paradise
+  - quran-66-tahrim-wives-and-the-four-women
+  matches:
+  - with: quran-11-lot
+    motif: prohibition-on-looking
+    refs:
+    - CTH 321 §11:43-47
+    - CTH 321 §12:48-50
+    with_refs:
+    - 11:81
+    relation: divergence
+    record:
+      agent:
+      - Inara
+      - the messengers
+      action:
+      - forbids him to look out of the window
+      - forbid any to turn round
+      recipient:
+      - Hupasiya
+      - Lot's household
+      quoted:
+      - zigga-waraš-ta GIŠluttanza arḫa lē autti ... nu-wa-za DAM-KA DUMU.MEŠ-KA autti
+      - wa-lā yaltafit minkum aḥadun illa mraʾataka
+      name:
+      - his wife and children (what he would see)
+      - your wife (the exception)
+      outcome:
+      - after 20 days he looks and begs to go home
+      - the wife is struck by what struck them
+    note: 'A prohibition on looking, broken: Inara tells Hupasiya ''do not look out of the window'', for ''you will see your wife and children''; after twenty days he looks and begs to go home. Q 11:81: ''let none of you turn round, except your wife''. The wife moves from what must not be seen to the one who turns.'
 - unit: ane-cth-321-4-king-and-rain
-  checked: [quran-71-noah, quran-79-pharaoh-and-cosmos, quran-25-signs-shadow-seas, quran-73-enwrapped]
+  checked:
+  - quran-71-noah
+  - quran-79-pharaoh-and-cosmos
+  - quran-25-signs-shadow-seas
+  - quran-73-enwrapped
   matches: []
 - unit: ane-cth-321-5-second-version-heart-eyes
-  checked: [quran-11-noah, quran-37-sacrifice-of-son, quran-2-three-groups, quran-19-zechariah-and-john]
-  matches: []
+  checked:
+  - quran-11-noah
+  - quran-37-sacrifice-of-son
+  - quran-2-three-groups
+  - quran-19-zechariah-and-john
+  matches:
+  - with: quran-11-noah
+    motif: son-sides-with-enemy-and-perishes
+    refs:
+    - CTH 321 §23:96-97
+    - CTH 321 §24:98-100
+    with_refs:
+    - '11:42'
+    - '11:43'
+    - '11:45'
+    - '11:46'
+    relation: divergence
+    record:
+      agent:
+      - the storm god's son
+      - Noah's son
+      action:
+      - sides with the serpent's house
+      - refuses to board and stays with the unbelievers
+      quoted:
+      - ammuggaz-apa anda ep lē-mu genzuwaiši
+      - yā bunayya rkab maʿanā wa-lā takun maʿa l-kāfirīn ... innahū laysa min ahlik
+      outcome:
+      - the father kills the serpent and his son together
+      - 'drowned; God: he is not of your family'
+    note: 'A son who sides with his father''s enemies and perishes with them: in Illuyanka the son, married into the serpent''s house, cries up to his father ''include me too, do not spare me!'', and the storm god kills the serpent ''and his son''. In Q 11:42-46 Noah calls ''ride with us, do not be with the unbelievers'', the son refuses and drowns, and Noah pleads ''my son is of my family''. The plea is reversed: the Hittite son asks not to be spared; Noah asks for his son, and is told he is not of his family.'
 - unit: ane-cth-321-6-kellas-gods-ranks-colophon
-  checked: [quran-56-waqia-three-classes-and-the-garden, quran-3-imran-mary-zechariah, quran-37-lot-and-jonah, quran-79-pharaoh-and-cosmos]
-  matches: []
+  checked:
+  - quran-56-waqia-three-classes-and-the-garden
+  - quran-3-imran-mary-zechariah
+  - quran-37-lot-and-jonah
+  - quran-79-pharaoh-and-cosmos
+  matches:
+  - with: quran-3-imran-mary-zechariah
+    motif: sacred-office-assigned-by-lot
+    refs:
+    - CTH 321 §29:113-114
+    - CTH 321 §30:117-118
+    with_refs:
+    - '3:44'
+    relation: parallel
+    record:
+      agent:
+      - the GUDU priests; the gods
+      - they (the temple men)
+      action:
+      - cast the lot
+      - cast their pens
+      object:
+      - which priest will hold the god Zaliyanu
+      - which of them would take charge of Mary
+      quoted:
+      - LÚGUDU12 mān pūl tianzi LÚGUDU12 dZaliyanun kuiš ḫarzi
+      - idh yulqūna aqlāmahum ayyuhum yakfulu maryam
+    note: 'A sacred charge assigned by lot: the GUDU priests ''cast the lot'' (pūl tianzi) to decide which priest ''will hold'' the god Zaliyanu; Q 3:44 ''when they cast their pens, which of them would take charge of Mary''. The charge is a god in the Hittite and a girl given to the sanctuary in the Quran.'
 - unit: ane-cth-322-1-telipinu-and-daughter-of-sea
-  checked: [quran-45-jathiya-signs-and-israel, quran-4-creation-kinship-orphans, quran-31-signs-and-unseen, quran-25-signs-shadow-seas]
+  checked:
+  - quran-45-jathiya-signs-and-israel
+  - quran-4-creation-kinship-orphans
+  - quran-31-signs-and-unseen
+  - quran-25-signs-shadow-seas
   matches: []
 - unit: ane-cth-322-2-telipinu-angry-hides
-  checked: [quran-21-prophets-answered, quran-79-pharaoh-and-cosmos, quran-71-noah, quran-17-iblis-and-adam]
+  checked:
+  - quran-21-prophets-answered
+  - quran-79-pharaoh-and-cosmos
+  - quran-71-noah
+  - quran-17-iblis-and-adam
   matches: []
 - unit: ane-cth-322-3-fragment
-  checked: [quran-31-signs-and-unseen, quran-36-cosmic-signs, quran-16-daughters-and-the-bee]
+  checked:
+  - quran-31-signs-and-unseen
+  - quran-36-cosmic-signs
+  - quran-16-daughters-and-the-bee
   matches: []
 - unit: ane-cth-322-4-fragment
-  checked: [quran-31-signs-and-unseen, quran-36-cosmic-signs, quran-16-daughters-and-the-bee]
+  checked:
+  - quran-31-signs-and-unseen
+  - quran-36-cosmic-signs
+  - quran-16-daughters-and-the-bee
   matches: []
 - unit: ane-cth-323-1-a-sea-traps-sun
-  checked: [quran-38-solomon-horses-throne, quran-24-light-verse, quran-7-creation-signs, quran-25-signs-shadow-seas]
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-24-light-verse
+  - quran-7-creation-signs
+  - quran-25-signs-shadow-seas
   matches: []
 - unit: ane-cth-323-1-b-frost-paralyses
-  checked: [quran-2-adam-iblis, quran-2-abraham-king, quran-36-bones-and-be, quran-71-noah]
+  checked:
+  - quran-2-adam-iblis
+  - quran-2-abraham-king
+  - quran-36-bones-and-be
+  - quran-71-noah
   matches: []
 - unit: ane-cth-323-1-c-allotment-of-the-sun
-  checked: [quran-65-talaq-divorce-and-seven-earths, quran-57-hadid-iron-and-monasticism, quran-25-destroyed-peoples, quran-71-noah]
-  matches: []
+  checked:
+  - quran-65-talaq-divorce-and-seven-earths
+  - quran-57-hadid-iron-and-monasticism
+  - quran-25-destroyed-peoples
+  - quran-71-noah
+  matches:
+  - with: quran-65-talaq-divorce-and-seven-earths
+    motif: offering-graded-by-means
+    refs:
+    - CTH 323.1 §11:128-133
+    with_refs:
+    - '65:7'
+    relation: echo
+    record:
+      agent:
+      - one the god does good to; a poor man
+      - the man of means; one whose provision is straitened
+      action:
+      - gives nine sheep; gives one sheep
+      - spends from his plenty; spends from what God gave him
+      number:
+      - 9 and 1
+      - null
+      quoted:
+      - tuga 9-an pāu kuiš LÚMAŠDA nu-tta 1 UDU pāu
+      - li-yunfiq dhū saʿatin min saʿatihī wa-man qudira ʿalayhi rizquhū fa-l-yunfiq mimmā ātāhu llāh
+    note: 'Giving graded by means: the mother goddess answers the sun god: one you do good to gives you nine (sheep), ''whoever is poor (MAŠDA) gives one sheep''; Q 65:7 ''let the man of plenty spend from his plenty, and he whose provision is restricted spend from what God gave him''. The Hittite counts sheep for the god; the Quran is about maintenance and gives no number.'
 - unit: ane-cth-323-1-d-ritual-for-sun-and-telipinu
-  checked: [quran-5-jesus-miracles-table, quran-76-the-human, quran-56-waqia-left-hand-and-proofs, quran-35-originator]
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-76-the-human
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-35-originator
   matches: []
 - unit: ane-cth-323-2-fragment
-  checked: [quran-7-creation-signs, quran-79-pharaoh-and-cosmos, quran-59-hashr-banu-nadir-and-fay]
+  checked:
+  - quran-7-creation-signs
+  - quran-79-pharaoh-and-cosmos
+  - quran-59-hashr-banu-nadir-and-fay
   matches: []
 - unit: ane-cth-324-1-a-telipinu-angry-departs
-  checked: [quran-21-prophets-answered, quran-22-quake-and-resurrection-proofs, quran-81-folding-up, quran-16-daughters-and-the-bee]
-  matches: []
+  checked:
+  - quran-21-prophets-answered
+  - quran-22-quake-and-resurrection-proofs
+  - quran-81-folding-up
+  - quran-16-daughters-and-the-bee
+  - quran-44-dukhan-blessed-night-and-smoke
+  matches:
+  - with: quran-22-quake-and-resurrection-proofs
+    motif: mothers-abandon-their-young
+    refs:
+    - CTH 324.1 §4:25-26
+    with_refs:
+    - '22:2'
+    relation: divergence
+    record:
+      agent:
+      - the ewe; the cow
+      - every nursing mother
+      action:
+      - rejects her young
+      - forgets what she nursed
+      time:
+      - when the god departs in anger
+      - the day of the Hour's quake
+      quoted:
+      - UDU-uš-za SILA4-SÚ mimmaš GU4-ma AMAR-ŠU mimmaš
+      - tadhhalu kullu murḍiʿatin ʿammā arḍaʿat wa-taḍaʿu kullu dhāti ḥamlin ḥamlahā
+    note: 'Mothers turning from their young as the sign of catastrophe: in the Telipinu myth ''the ewe rejected her lamb, the cow rejected her calf''; Q 22:2 at the quake of the Hour ''every nursing mother will forget what she nursed and every pregnant one drop her load''. Animals in the god''s absence, human mothers at the end.'
+  - with: quran-44-dukhan-blessed-night-and-smoke
+    motif: smoke-envelops-as-calamity
+    refs:
+    - CTH 324.1 §4:19-24
+    with_refs:
+    - '44:10'
+    - '44:11'
+    relation: divergence
+    record:
+      agent:
+      - smoke
+      - the sky
+      action:
+      - chokes the house
+      - brings a visible smoke covering the people
+      object:
+      - the house, hearth, altar, fold and pen
+      - the people
+      quoted:
+      - É-er tuḫḫuiš wišuriyattati
+      - yawma taʾtī s-samāʾu bi-dukhānin mubīnin yaghshā n-nās
+      outcome:
+      - the land withers until the god returns
+      - hādhā ʿadhābun alīm; they ask for it to be lifted
+    note: 'Smoke as the calamity: when Telipinu departs ''mist seized the windows, smoke (tuḫḫuiš) choked the house'', and the logs, gods, sheep and cattle choke; Q 44:10-11 ''the day the sky brings a visible smoke (dukhān) enveloping the people: this is a painful punishment''. A god''s anger, not a punishment sent by God, and the house, not the people.'
 - unit: ane-cth-324-1-b-vanishing-and-dearth
-  checked: [quran-7-moses-pharaoh, quran-12-joseph-full, quran-2-patience-signs, quran-88-overwhelming]
-  matches: []
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-12-joseph-full
+  - quran-2-patience-signs
+  - quran-88-overwhelming
+  matches:
+  - with: quran-88-overwhelming
+    motif: eating-that-does-not-still-hunger
+    refs:
+    - CTH 324.1 §6:42-47
+    with_refs:
+    - '88:6'
+    - '88:7'
+    relation: echo
+    record:
+      agent:
+      - the thousand gods at the Sun god's feast
+      - the damned
+      action:
+      - eat and drink without being satisfied
+      - eat ḍarīʿ
+      quoted:
+      - eter ne UL išpier ekuer-ma ne-za UL ḫaššikker
+      - lā yusminu wa-lā yughnī min jūʿ
+      outcome:
+      - hunger and thirst not stilled
+      - neither nourishes nor avails against hunger
+    note: 'Eating that does not still hunger: at the Sun god''s feast during the dearth ''they ate but did not still their hunger, drank but did not still their thirst''; Q 88:7 the food of ḍarīʿ ''neither nourishes nor avails against hunger''. The Hittite feast fails because a god has gone; the Quranic food is the punishment of hell.'
 - unit: ane-cth-324-1-c-search-eagle-bee
-  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-5-two-sons-of-adam, quran-16-daughters-and-the-bee, quran-2-call-to-worship]
+  checked:
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-5-two-sons-of-adam
+  - quran-16-daughters-and-the-bee
+  - quran-2-call-to-worship
   matches: []
 - unit: ane-cth-324-1-d-telipinu-roused
-  checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-47-muhammad-battle-and-rivers, quran-71-noah, quran-79-pharaoh-and-cosmos]
+  checked:
+  - quran-69-haqqa-destroyed-peoples-and-the-throne
+  - quran-47-muhammad-battle-and-rivers
+  - quran-71-noah
+  - quran-79-pharaoh-and-cosmos
   matches: []
 - unit: ane-cth-324-1-e-analogic-offerings
-  checked: [quran-22-abraham-house-pilgrimage, quran-24-light-verse, quran-3-sovereignty, quran-6-poor-keys-of-unseen]
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-24-light-verse
+  - quran-3-sovereignty
+  - quran-6-poor-keys-of-unseen
   matches: []
 - unit: ane-cth-324-1-f-kamrusepa-removes-anger
-  checked: [quran-9-baraa-treaties, quran-3-badr-uhud, quran-7-calf, quran-92-night]
+  checked:
+  - quran-9-baraa-treaties
+  - quran-3-badr-uhud
+  - quran-7-calf
+  - quran-92-night
   matches: []
 - unit: ane-cth-324-1-g-anger-to-the-netherworld
-  checked: [quran-15-iblis, quran-23-death-barzakh-judgment, quran-32-sajda, quran-102-104-rivalry-time-slanderer]
-  matches: []
+  checked:
+  - quran-15-iblis
+  - quran-23-death-barzakh-judgment
+  - quran-32-sajda
+  - quran-102-104-rivalry-time-slanderer
+  matches:
+  - with: quran-15-iblis
+    motif: seven-gates-of-the-underworld
+    refs:
+    - CTH 324.1 §37:233-234
+    with_refs:
+    - '15:43'
+    - '15:44'
+    relation: parallel
+    record:
+      place:
+      - the dark earth
+      - Jahannam
+      number:
+      - 7 doors and 7 bolts
+      - 7 gates
+      quoted:
+      - ḫāšta LÚNI.DUḪ 7 GIŠIG āppa ḫuittiyat 7 GIŠḫattalu
+      - lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūm
+    note: 'Seven gates below: ''the doorkeeper opened the seven doors, drew back the seven bolts'' of the dark earth; Q 15:44 hell ''has seven gates, for each gate a portion of them assigned''. The Hittite sends a god''s anger through them; the Quran assigns Iblis''s followers to them.'
+  - with: quran-32-sajda
+    motif: no-coming-out-of-the-underworld
+    refs:
+    - CTH 324.1 §37:235-242
+    with_refs:
+    - '32:20'
+    relation: divergence
+    record:
+      object:
+      - 'what goes into the bronze vessels: the god''s anger, wrath, sin and sullenness'
+      - those who sinned
+      place:
+      - vessels in the dark earth
+      - the Fire
+      quoted:
+      - kuit andan paizzi naš-ta namma šarā UL uezzi andan-dan ḫarakzi
+      - kullamā arādū an yakhrujū minhā uʿīdū fīhā
+    note: 'No way out from below: of the vessels in the dark earth, ''what goes in does not come up again; it perishes in there''; Q 32:20 ''whenever they want to come out of it, they are returned into it''. What is shut in changes: a god''s anger against wrongdoers; the Quranic damned also want to come out.'
+  - with: quran-102-104-rivalry-time-slanderer
+    motif: sealed-over-in-the-underworld
+    refs:
+    - CTH 324.1 §37:235-237
+    with_refs:
+    - '104:8'
+    - '104:9'
+    relation: echo
+    record:
+      object:
+      - bronze palḫi-vessels with lids of lead and fastenings of iron
+      - the fire
+      action:
+      - shut in below
+      - closed down over them
+      quoted:
+      - ZABAR palḫi arta ištappulliš-met A.BÁR-aš zakkiš-meš AN.BAR-aš
+      - innahā ʿalayhim muʾṣadatun fī ʿamadin mumaddada
+    note: 'Closed in under a cover: bronze vessels in the dark earth, ''their lids of lead, their fastenings of iron''; Q 104:8-9 the fire ''closed down over them (muʾṣada), in extended columns''.'
 - unit: ane-cth-324-1-h-return-and-blessing
-  checked: [quran-14-parables-and-satans-speech, quran-30-winds-and-rain, quran-42-shura-signs-and-ethics, quran-50-qaf-two-recorders-and-hell-asks-more]
+  checked:
+  - quran-14-parables-and-satans-speech
+  - quran-30-winds-and-rain
+  - quran-42-shura-signs-and-ethics
+  - quran-50-qaf-two-recorders-and-hell-asks-more
   matches: []
 - unit: ane-cth-324-2-a-dearth-and-bee
-  checked: [quran-16-daughters-and-the-bee, quran-27-solomon-ants-hoopoe-sheba, quran-2-throne-verse, quran-28-destroyed-towns-and-judgment]
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-2-throne-verse
+  - quran-28-destroyed-towns-and-judgment
   matches: []
 - unit: ane-cth-324-2-b-analogies-and-vessels
-  checked: [quran-5-oaths-wine-game, quran-37-hell-and-garden, quran-92-night, quran-3-misers-mockers]
+  checked:
+  - quran-5-oaths-wine-game
+  - quran-37-hell-and-garden
+  - quran-92-night
+  - quran-3-misers-mockers
   matches: []
 - unit: ane-cth-324-3-1-bee-finds-telipinu
-  checked: [quran-5-two-sons-of-adam, quran-27-solomon-ants-hoopoe-sheba, quran-16-daughters-and-the-bee, quran-2-throne-verse]
-  matches: []
+  checked:
+  - quran-5-two-sons-of-adam
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-16-daughters-and-the-bee
+  - quran-2-throne-verse
+  matches:
+  - with: quran-16-daughters-and-the-bee
+    motif: bee-sent-through-mountains
+    refs:
+    - CTH 324.3 §3:11-16
+    with_refs:
+    - 16:68
+    - 16:69
+    relation: divergence
+    record:
+      agent:
+      - the bee
+      - the bee
+      action:
+      - searches the high mountains, deep valleys and waters
+      - makes homes in the mountains and trees and goes the paths of its Lord
+      place:
+      - high mountains
+      - al-jibāl
+      quoted:
+      - NIM.LÀL-aš parkamuš ḪUR.SAG.MEŠ-uš šānaḫta ... LÀL-it zinnet
+      - wa-awḥā rabbuka ila n-naḥli ani ttakhidhī mina l-jibāli buyūtan ... fa-slukī subula rabbiki dhululā
+      outcome:
+      - honey and wax used up; it finds and stings the god
+      - honey comes from it, a healing for people
+    note: 'The bee sent by a deity through the mountains: the bee ''searched the high mountains'', the deep valleys and the waters until ''the honey ran out, the wax ran out'', then found Telipinu; Q 16:68-69 ''your Lord inspired the bee: take homes in the mountains ... then follow the ways of your Lord''. A search that uses up the honey against a journey that produces it.'
 - unit: ane-cth-324-3-2-telipinu-rages
-  checked: [quran-11-lot, quran-2-adam-iblis, quran-28-destroyed-towns-and-judgment, quran-3-badr-uhud]
-  matches: []
+  checked:
+  - quran-11-lot
+  - quran-2-adam-iblis
+  - quran-28-destroyed-towns-and-judgment
+  - quran-3-badr-uhud
+  - quran-2-throne-verse
+  matches:
+  - with: quran-2-throne-verse
+    motif: deity-and-sleep
+    refs:
+    - CTH 324.3 §4:20-24
+    with_refs:
+    - 2:255
+    relation: divergence
+    record:
+      agent:
+      - Telipinu
+      - God
+      action:
+      - was sleeping and is roused
+      - is seized by neither drowsiness nor sleep
+      quoted:
+      - šumeš-a-wa-mu šašandan ... šāntan kuwat memanutten
+      - lā taʾkhudhuhū sinatun wa-lā nawm
+    note: 'Whether the god sleeps: woken Telipinu complains ''why did you rouse me, the sleeping one? why did you make me, the angry one, speak?''; Q 2:255 ''neither drowsiness nor sleep seizes him''.'
 - unit: ane-cth-324-3-3-evil-sent-off-fertility-brought-out
-  checked: [quran-15-prologue-and-heavens, quran-112-114-unity-and-refuge, quran-92-night, quran-22-signs-and-rites]
+  checked:
+  - quran-15-prologue-and-heavens
+  - quran-112-114-unity-and-refuge
+  - quran-92-night
+  - quran-22-signs-and-rites
   matches: []
 - unit: ane-cth-324-3-4-telipinu-returns
-  checked: [quran-14-parables-and-satans-speech, quran-71-noah, quran-3-sovereignty, quran-43-zukhruf-abraham-and-silver-roofs]
+  checked:
+  - quran-14-parables-and-satans-speech
+  - quran-71-noah
+  - quran-3-sovereignty
+  - quran-43-zukhruf-abraham-and-silver-roofs
   matches: []
 - unit: ane-cth-324-4-mugawar-and-analogies
-  checked: [quran-52-tur-garden-and-challenge, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-3-misers-mockers, quran-22-signs-and-rites]
+  checked:
+  - quran-52-tur-garden-and-challenge
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-3-misers-mockers
+  - quran-22-signs-and-rites
   matches: []
 - unit: ane-cth-324-5-fragment
-  checked: [quran-5-jesus-miracles-table, quran-6-mercy-judgment, quran-28-destroyed-towns-and-judgment]
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-6-mercy-judgment
+  - quran-28-destroyed-towns-and-judgment
   matches: []
 - unit: ane-cth-324-6-fragment
-  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-47-muhammad-battle-and-rivers
   matches: []
 - unit: ane-cth-324-7-1-eagle-and-gods-counsel
-  checked: [quran-28-destroyed-towns-and-judgment, quran-5-jesus-miracles-table, quran-3-misers-mockers]
+  checked:
+  - quran-28-destroyed-towns-and-judgment
+  - quran-5-jesus-miracles-table
+  - quran-3-misers-mockers
   matches: []
 - unit: ane-cth-324-7-2-anger-into-iron-vessels
-  checked: [quran-90-city, quran-23-death-barzakh-judgment, quran-22-signs-and-rites, quran-3-misers-mockers]
-  matches: []
+  checked:
+  - quran-90-city
+  - quran-23-death-barzakh-judgment
+  - quran-22-signs-and-rites
+  - quran-3-misers-mockers
+  matches:
+  - with: quran-90-city
+    motif: sealed-over-in-the-underworld
+    refs:
+    - CTH 324.7 §8:42-49
+    with_refs:
+    - '90:20'
+    relation: echo
+    record:
+      object:
+      - iron palḫi-vessels with lids of lead
+      - a fire
+      action:
+      - shut in below
+      - closed over them
+      quoted:
+      - dankuwai taknī AN.BAR-aš DUGpalḫiš kianda ištappulliš-mit A.BÁR-aš ... namma šarā lē uezzi
+      - ʿalayhim nārun muʾṣada
+    note: 'Closed over below: in the dark earth lie iron vessels with lead lids, and Telipinu''s anger, evil tongue and evil sole go in ''and shall not come up again''; Q 90:20 the companions of the left have ''a fire closed over them'' (muʾṣada).'
 - unit: ane-cth-324-8-departure-and-ritual
-  checked: [quran-88-overwhelming, quran-22-signs-and-rites, quran-3-misers-mockers, quran-28-destroyed-towns-and-judgment]
+  checked:
+  - quran-88-overwhelming
+  - quran-22-signs-and-rites
+  - quran-3-misers-mockers
+  - quran-28-destroyed-towns-and-judgment
   matches: []
 - unit: ane-cth-324-9-fleece-fragment
-  checked: [quran-16-daughters-and-the-bee, quran-20-adam-iblis, quran-6-pagan-offerings-cattle]
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-20-adam-iblis
+  - quran-6-pagan-offerings-cattle
   matches: []
 - unit: ane-cth-325-1-before-departure
-  checked: [quran-11-abraham-guests, quran-5-jesus-miracles-table, quran-6-mercy-judgment, quran-28-destroyed-towns-and-judgment]
+  checked:
+  - quran-11-abraham-guests
+  - quran-5-jesus-miracles-table
+  - quran-6-mercy-judgment
+  - quran-28-destroyed-towns-and-judgment
   matches: []
 - unit: ane-cth-325-2-storm-god-departs
-  checked: [quran-7-moses-pharaoh, quran-2-patience-signs, quran-30-winds-and-rain, quran-21-prophets-answered]
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-2-patience-signs
+  - quran-30-winds-and-rain
+  - quran-21-prophets-answered
   matches: []
 - unit: ane-cth-325-3-feast-search-blame
-  checked: [quran-38-solomon-horses-throne, quran-37-lot-and-jonah, quran-6-final-reckoning, quran-7-towns-pattern]
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-37-lot-and-jonah
+  - quran-6-final-reckoning
+  - quran-7-towns-pattern
   matches: []
 - unit: ane-cth-325-4-hannahanna-sends-bee
-  checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-29-lot, quran-20-moses-pharaoh-magicians, quran-16-daughters-and-the-bee]
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-29-lot
+  - quran-20-moses-pharaoh-magicians
+  - quran-16-daughters-and-the-bee
   matches: []
 - unit: ane-cth-325-5-water-of-turning-and-return
-  checked: [quran-12-joseph-full, quran-3-misers-mockers, quran-51-dhariyat-flee-to-god, quran-29-emigrate-and-trust]
+  checked:
+  - quran-12-joseph-full
+  - quran-3-misers-mockers
+  - quran-51-dhariyat-flee-to-god
+  - quran-29-emigrate-and-trust
   matches: []
 - unit: ane-cth-325-6-kamrusepa-purges-anger
-  checked: [quran-7-calf, quran-22-signs-and-rites, quran-35-originator, quran-17-polemic-and-resurrection]
+  checked:
+  - quran-7-calf
+  - quran-22-signs-and-rites
+  - quran-35-originator
+  - quran-17-polemic-and-resurrection
   matches: []
 - unit: ane-cth-325-7-oven-and-herbs
-  checked: [quran-54-qamar-moon-split-and-noah, quran-92-night, quran-56-waqia-left-hand-and-proofs, quran-3-misers-mockers]
+  checked:
+  - quran-54-qamar-moon-split-and-noah
+  - quran-92-night
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-3-misers-mockers
   matches: []
 - unit: ane-cth-325-8-anger-to-netherworld-return
-  checked: [quran-71-noah, quran-15-iblis, quran-79-pharaoh-and-cosmos, quran-3-sovereignty]
-  matches: []
+  checked:
+  - quran-71-noah
+  - quran-15-iblis
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-39-mercy-and-last-day
+  matches:
+  - with: quran-39-mercy-and-last-day
+    motif: keepers-open-the-gates-below
+    refs:
+    - CTH 325 §32:227-236
+    with_refs:
+    - 39:71
+    - 39:72
+    relation: echo
+    record:
+      agent:
+      - the doorkeeper (LÚNI.DUḪ)
+      - its keepers (khazanatuhā)
+      action:
+      - opens the doors
+      - the gates are opened
+      object:
+      - the doors of the dark earth
+      - the gates of Jahannam
+      quoted:
+      - ḫāšta LÚNI.DUḪ
+      - futiḥat abwābuhā wa-qāla lahum khazanatuhā
+    note: 'A gatekeeper at the doors below: ''the doorkeeper opened'' the doors of the dark earth so the Storm god''s anger goes down to the vessels; Q 39:71 the unbelievers are driven to Jahannam, ''its gates are opened and its keepers say to them...''. The keepers speak to the damned; the Hittite doorkeeper only lets the anger in.'
 - unit: ane-cth-326-1-asmunikal-departure
-  checked: [quran-9-three-left-behind, quran-22-signs-and-rites, quran-79-pharaoh-and-cosmos, quran-3-sovereignty]
+  checked:
+  - quran-9-three-left-behind
+  - quran-22-signs-and-rites
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
   matches: []
 - unit: ane-cth-326-2-asmunikal-return
-  checked: [quran-37-sacrifice-of-son, quran-46-ahqaf-hud-and-the-jinn, quran-3-misers-mockers, quran-73-enwrapped]
+  checked:
+  - quran-37-sacrifice-of-son
+  - quran-46-ahqaf-hud-and-the-jinn
+  - quran-3-misers-mockers
+  - quran-73-enwrapped
   matches: []
 - unit: ane-cth-327-1-harapsili
-  checked: [quran-3-imran-mary-zechariah, quran-3-sovereignty, quran-22-abraham-house-pilgrimage, quran-5-jesus-miracles-table]
+  checked:
+  - quran-3-imran-mary-zechariah
+  - quran-3-sovereignty
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
   matches: []
 - unit: ane-cth-327-2-fragment
-  checked: [quran-56-waqia-left-hand-and-proofs, quran-92-night, quran-87-most-high]
+  checked:
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-92-night
+  - quran-87-most-high
   matches: []
 - unit: ane-cth-327-3-fragment
-  checked: [quran-29-emigrate-and-trust, quran-25-signs-shadow-seas, quran-22-signs-and-rites]
+  checked:
+  - quran-29-emigrate-and-trust
+  - quran-25-signs-shadow-seas
+  - quran-22-signs-and-rites
   matches: []
 - unit: ane-cth-328-pirwa
-  checked: [quran-3-imran-mary-zechariah, quran-21-prophets-answered, quran-22-signs-and-rites, quran-28-destroyed-towns-and-judgment]
+  checked:
+  - quran-3-imran-mary-zechariah
+  - quran-21-prophets-answered
+  - quran-22-signs-and-rites
+  - quran-28-destroyed-towns-and-judgment
   matches: []
 - unit: ane-cth-331-1-1-eye-illness-removed
-  checked: [quran-3-annunciation-jesus, quran-12-joseph-full, quran-16-daughters-and-the-bee, quran-22-signs-and-rites]
+  checked:
+  - quran-3-annunciation-jesus
+  - quran-12-joseph-full
+  - quran-16-daughters-and-the-bee
+  - quran-22-signs-and-rites
   matches: []
 - unit: ane-cth-331-1-2-storm-god-in-lihzina
-  checked: [quran-2-sleeper-hundred-years, quran-18-companions-of-the-cave, quran-28-moses-in-midian, quran-28-destroyed-towns-and-judgment]
+  checked:
+  - quran-2-sleeper-hundred-years
+  - quran-18-companions-of-the-cave
+  - quran-28-moses-in-midian
+  - quran-28-destroyed-towns-and-judgment
   matches: []
 - unit: ane-cth-331-2-illness-dissolves
-  checked: [quran-16-daughters-and-the-bee, quran-75-resurrection, quran-22-quake-and-resurrection-proofs]
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-75-resurrection
+  - quran-22-quake-and-resurrection-proofs
   matches: []
 - unit: ane-cth-332-1-eagle-and-bee
-  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-16-daughters-and-the-bee, quran-7-creation-signs, quran-35-originator]
+  checked:
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-16-daughters-and-the-bee
+  - quran-7-creation-signs
+  - quran-35-originator
   matches: []
 - unit: ane-cth-332-2-woken-god-and-return
-  checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-22-signs-and-rites, quran-16-daughters-and-the-bee]
+  checked:
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-22-signs-and-rites
+  - quran-16-daughters-and-the-bee
   matches: []
 - unit: ane-cth-332-3-1-offerings
-  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-47-muhammad-battle-and-rivers
   matches: []
 - unit: ane-cth-332-3-2-fig-olive-analogies
-  checked: [quran-95-fig, quran-24-light-verse, quran-2-fasting, quran-14-parables-and-satans-speech]
-  matches: []
+  checked:
+  - quran-95-fig
+  - quran-24-light-verse
+  - quran-2-fasting
+  - quran-14-parables-and-satans-speech
+  matches:
+  - with: quran-95-fig
+    motif: fig-and-olive-paired
+    refs:
+    - CTH 332.3 §7:30-33
+    - CTH 332.3 §9:40-41
+    with_refs:
+    - '95:1'
+    relation: echo
+    record:
+      object:
+      - fig; olive
+      - fig; olive
+      action:
+      - 'set out as analogies: the fig holds a thousand seeds, the olive holds its oil'
+      - sworn by
+      quoted:
+      - GIŠPÈŠ ... LI-IM NUMUN-an ḫarzi ... GIŠSE20-ERDUM ... Ì-ŠU ŠÀ-it ḫarzi
+      - wa-t-tīni wa-z-zaytūn
+    note: 'Fig and olive together: in the Storm god mugawar the fig ''holds a thousand seeds inside'' and the olive ''holds its oil inside'', so may the god hold good within; Q 95:1 ''by the fig and the olive''. Analogies to soothe a god against an oath.'
+  - with: quran-14-parables-and-satans-speech
+    motif: good-word-bad-word
+    refs:
+    - CTH 332.3 §7:32-33
+    - CTH 332.3 §8:37-38
+    with_refs:
+    - '14:24'
+    - '14:25'
+    - '14:26'
+    relation: echo
+    record:
+      action:
+      - throw away the bad words, take the good words
+      - a good word likened to a good tree, a bad word to a bad tree
+      instrument:
+      - the fig that holds a thousand seeds
+      - a tree with firm roots that gives fruit at every season
+      quoted:
+      - idālu uddār arḫa peššiya nu-za aššu uddār dā
+      - kalimatan ṭayyibatan ka-shajaratin ṭayyibatin ... kalimatin khabīthatin ka-shajaratin khabīthatin
+    note: 'Good and bad words with plant imagery: ''as the fig holds a thousand seeds inside, so hold the good inside through the words ... throw away the bad words, Storm god, and take the good words''; Q 14:24-26 a good word is like a good tree whose fruit comes at every season, a bad word like a bad tree uprooted. The Hittite asks a god to choose words; the Quran compares words to trees.'
 - unit: ane-cth-332-4-ritual-and-bee
-  checked: [quran-16-daughters-and-the-bee, quran-47-muhammad-battle-and-rivers, quran-25-signs-shadow-seas]
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-47-muhammad-battle-and-rivers
+  - quran-25-signs-shadow-seas
   matches: []
 - unit: ane-cth-332-5-colophon
-  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-47-muhammad-battle-and-rivers
   matches: []
 - unit: ane-cth-332-6-sweet-analogy
-  checked: [quran-56-waqia-left-hand-and-proofs, quran-92-night, quran-87-most-high]
+  checked:
+  - quran-56-waqia-left-hand-and-proofs
+  - quran-92-night
+  - quran-87-most-high
   matches: []
 - unit: ane-cth-332-7-soothing-and-sheep
-  checked: [quran-37-sacrifice-of-son, quran-92-night, quran-47-muhammad-battle-and-rivers, quran-44-dukhan-zaqqum-and-garden]
+  checked:
+  - quran-37-sacrifice-of-son
+  - quran-92-night
+  - quran-47-muhammad-battle-and-rivers
+  - quran-44-dukhan-zaqqum-and-garden
   matches: []
 - unit: ane-cth-332-8-god-seated
-  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-47-muhammad-battle-and-rivers
   matches: []
 - unit: ane-cth-333-1-ritual-and-departure
-  checked: [quran-21-prophets-answered, quran-79-pharaoh-and-cosmos, quran-16-daughters-and-the-bee, quran-6-mercy-judgment]
+  checked:
+  - quran-21-prophets-answered
+  - quran-79-pharaoh-and-cosmos
+  - quran-16-daughters-and-the-bee
+  - quran-6-mercy-judgment
   matches: []
 - unit: ane-cth-333-2-return-of-anzili-and-zukki
-  checked: [quran-3-misers-mockers, quran-22-abraham-house-pilgrimage, quran-16-daughters-and-the-bee, quran-22-signs-and-rites]
+  checked:
+  - quran-3-misers-mockers
+  - quran-22-abraham-house-pilgrimage
+  - quran-16-daughters-and-the-bee
+  - quran-22-signs-and-rites
   matches: []
 - unit: ane-cth-334-1-1-hannahanna-anger-and-departure
-  checked: [quran-22-quake-and-resurrection-proofs, quran-79-pharaoh-and-cosmos, quran-22-signs-and-rites, quran-59-hashr-banu-nadir-and-fay]
+  checked:
+  - quran-22-quake-and-resurrection-proofs
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-signs-and-rites
+  - quran-59-hashr-banu-nadir-and-fay
   matches: []
 - unit: ane-cth-334-1-2-hawthorn-and-mugawar
-  checked: [quran-47-muhammad-battle-and-rivers, quran-22-abraham-house-pilgrimage, quran-76-the-human]
+  checked:
+  - quran-47-muhammad-battle-and-rivers
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
   matches: []
 - unit: ane-cth-334-1-3-sweetness-and-children
-  checked: [quran-95-fig, quran-3-sovereignty, quran-76-the-human, quran-92-night]
+  checked:
+  - quran-95-fig
+  - quran-3-sovereignty
+  - quran-76-the-human
+  - quran-92-night
   matches: []
 - unit: ane-cth-334-2-1-fire-water-cloud
-  checked: [quran-30-winds-and-rain, quran-16-daughters-and-the-bee, quran-39-sincere-servant, quran-92-night]
+  checked:
+  - quran-30-winds-and-rain
+  - quran-16-daughters-and-the-bee
+  - quran-39-sincere-servant
+  - quran-92-night
   matches: []
 - unit: ane-cth-334-2-2-invocation-and-fleece
-  checked: [quran-5-jesus-miracles-table, quran-15-iblis, quran-40-throne-bearers, quran-3-sovereignty]
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-15-iblis
+  - quran-40-throne-bearers
+  - quran-3-sovereignty
   matches: []
 - unit: ane-cth-334-3-storm-god-raging
-  checked: [quran-79-pharaoh-and-cosmos, quran-21-prophets-answered, quran-40-throne-bearers]
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-21-prophets-answered
+  - quran-40-throne-bearers
   matches: []
 - unit: ane-cth-334-4-invocation-and-analogies
-  checked: [quran-95-fig, quran-80-frowned, quran-11-abraham-guests, quran-92-night]
+  checked:
+  - quran-95-fig
+  - quran-80-frowned
+  - quran-11-abraham-guests
+  - quran-92-night
   matches: []
 - unit: ane-cth-334-5-olive-raisin-samama
-  checked: [quran-14-parables-and-satans-speech, quran-92-night, quran-87-most-high]
+  checked:
+  - quran-14-parables-and-satans-speech
+  - quran-92-night
+  - quran-87-most-high
   matches: []
 - unit: ane-cth-334-6-return-and-eya-tree
-  checked: [quran-2-adam-iblis, quran-16-daughters-and-the-bee, quran-40-throne-bearers, quran-3-sovereignty]
+  checked:
+  - quran-2-adam-iblis
+  - quran-16-daughters-and-the-bee
+  - quran-40-throne-bearers
+  - quran-3-sovereignty
   matches: []
 - unit: ane-cth-334-7-galaktar-fig-olive-raisin
-  checked: [quran-95-fig, quran-92-night, quran-76-the-human, quran-56-waqia-left-hand-and-proofs]
+  checked:
+  - quran-95-fig
+  - quran-92-night
+  - quran-76-the-human
+  - quran-56-waqia-left-hand-and-proofs
   matches: []
 - unit: ane-cth-334-8-storm-god-raging-pot-and-spoon
-  checked: [quran-79-pharaoh-and-cosmos, quran-35-originator, quran-27-is-there-a-god-with-god]
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-35-originator
+  - quran-27-is-there-a-god-with-god
   matches: []
 - unit: ane-cth-334-9-all-good-of-the-land
-  checked: [quran-3-sovereignty, quran-40-throne-bearers, quran-50-qaf-two-recorders-and-hell-asks-more]
+  checked:
+  - quran-3-sovereignty
+  - quran-40-throne-bearers
+  - quran-50-qaf-two-recorders-and-hell-asks-more
   matches: []
