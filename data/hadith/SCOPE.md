@@ -9,8 +9,11 @@
   ranges in `books.yaml`.
 - **Not read:** pages 5–105 are the compiler's introduction and page 8687 the conclusion. They hold
   no hadith.
-- **Publication data:** edition, editor and publisher are not recorded in Shamela. They are not
-  supplied here.
+- **Publication data:** Shamela's catalogue records no edition, editor or publisher. The book's own
+  front matter, at the title pages of volumes 8 and 9 (Shamela pp. 5021–5024 and 5809–5812), prints:
+  Dār al-Salām, Riyadh, first edition, Rabīʿ II 1437 / January 2016, with ISBNs. That is the
+  edition read here, as reported independently by the readers of chunks 2 and 8. No editor is
+  named.
 - **What the book is:** a gathering of the reports the compiler judged ṣaḥīḥ or ḥasan, each followed
   by his grade and takhrij. The grades are his, recorded as his. The project grades nothing.
 - **What is not in it:** *isrāʾīliyyāt* (reports drawn from Jewish and Christian lore) are largely
