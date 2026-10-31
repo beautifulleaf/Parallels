@@ -1,0 +1,574 @@
+# ANE x Quran side-by-side pass, chunk 20 (Amarna and Ugarit letters, deeds and treaties). Judged blind, from the originals.
+new_motifs:
+  ruler-told-not-to-heed-slanderer: {label: 'The ruler is told not to listen to, or obey, the slanderer', cluster: kingship}
+  egyptian-king-called-god: {label: 'The king of Egypt is called god (by his vassals, or by himself)', cluster: kingship}
+  falling-down-before-the-ruler-of-egypt: {label: Petitioners fall down to the ground before the ruler of Egypt, cluster: kingship}
+  report-of-the-leader-s-death-and-defection: {label: 'The leader''s death, reported or supposed, is the occasion for his people to turn away from him', cluster: kingship}
+  royal-letter-summons-ruler-to-come-in-submission: {label: 'A king''s letter orders another ruler to come to him in submission, with a threat if he does not', cluster: kingship}
+  my-enemy-not-your-friend: {label: 'The sovereign party of a bond requires the other to treat ''my enemy'' as an enemy, not as a friend', cluster: law}
+  return-of-those-who-flee-to-the-other-side: {label: Whether people who flee from the other side of a treaty are handed back, cluster: law}
+  covenant-forecloses-plea-of-ignorance: {label: A covenant is framed so that the bound party cannot later say 'I did not know', cluster: law}
+  compensation-for-a-man-killed-from-a-treaty-people: {label: Blood compensation paid to the kin of a man killed who belongs to a people bound by treaty, cluster: law}
+  killing-by-unknown-hand: {label: 'A man is found killed and the killer is unknown: how the case is settled', cluster: law}
+  cutting-down-the-other-side-s-trees: {label: Vines or palms of a hostile neighbour are cut down, cluster: war}
+  fixing-the-shares-of-the-sons: {label: Who fixes the shares of a man's children in his estate, cluster: law}
+  whoever-alters-a-written-disposition: {label: Clause on whoever alters a sealed grant or a bequest, cluster: law}
+  a-gift-sent-to-a-king-scorned: {label: A king receives a gift and scorns it in a speech to the sender's side, cluster: kingship}
+reviewed:
+- unit: ane-ea-309-slaves-sent
+  checked: [quran-22-communities-prostration-hell-paradise, quran-43-zukhruf-jesus-and-paradise, quran-39-mercy-and-last-day]
+  matches: []
+- unit: ane-ea-173-amqu
+  checked: [quran-22-abraham-house-pilgrimage, quran-9-hunayn-jizya, quran-8-ratio-captives]
+  matches: []
+- unit: ane-ea-210-zishamimi
+  checked: [quran-6-pagan-offerings-cattle, quran-9-alms-recipients, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-ea-332-shipti-baal-lachish
+  checked: [quran-20-taha-prologue, quran-79-pharaoh-and-cosmos, quran-39-mercy-and-last-day]
+  matches:
+  - with: quran-79-pharaoh-and-cosmos
+    motif: egyptian-king-called-god
+    refs: ['EA 332 o:1-2']
+    with_refs: ['79:24']
+    relation: divergence
+    record:
+      agent: [Šipṭi-Baʿlu of Lachish, Pharaoh]
+      action: [hails the king of Egypt as his gods and the Sun from heaven, proclaims himself the highest lord]
+      name: ['Šamšīya ilānīya, Šamaš ša ištu šamê', rabbukumu l-aʿlā]
+      quoted: [ana šarri bēli Šamšīya ilānīya Šamaš ša ištu šamê, fa-qāla anā rabbukumu l-aʿlā]
+    note: The vassal of Lachish gives the king of Egypt divine titles, 'my Sun, my gods, the Sun from heaven'; in 79:23-24 Pharaoh gathers and proclaims (fa-ḥashara fa-nādā) 'I am your lord most high'. Divine status for the king of Egypt is a courtesy from below in the letter, a self-claim in the Quran, and the claim is punished (79:25).
+- unit: ane-ea-338-fragment
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-69-haqqa-books-in-right-and-left-hands]
+  matches: []
+- unit: ane-ea-163-king-well-like-sun
+  checked: [quran-55-rahman-creation-and-the-two-seas, quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-ea-312-fragment
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-172-fragment
+  checked: [quran-6-pagan-offerings-cattle, quran-9-alms-recipients, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-ea-339-fragment
+  checked: [quran-10-moses-pharaoh, quran-26-moses-and-pharaoh, quran-28-pharaohs-tower-and-end]
+  matches:
+  - with: quran-28-pharaohs-tower-and-end
+    motif: egyptian-king-called-god
+    refs: ['EA 339 o:1-2']
+    with_refs: ['28:38']
+    relation: divergence
+    record:
+      agent: [a vassal ruler, Pharaoh]
+      action: [addresses the king of Egypt as his gods, claims to know no god for his people but himself]
+      name: ['ilānīya Šamšīya (my gods, my Sun)', ilāhin ghayrī (a god other than me)]
+      quoted: [ana šarri bēlīya ilānīya Šamšīya qibīma, mā ʿalimtu lakum min ilāhin ghayrī]
+    note: 'In the Amarna letters it is the vassal who calls the king of Egypt ''my gods (DINGIR.MEŠ-ia), my Sun''; in 28:38 Pharaoh says it of himself to his council: ''I know no god for you but me'', and orders a tower to climb up to the god of Moses.'
+- unit: ane-ea-240-fragment
+  checked: [quran-23-believers-succeed, quran-2-talut-jalut, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-164-aziru-oath-by-aten
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-166-aziru-to-haya
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-ea-144-zimreddi-head-lifted
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge, quran-23-believers-succeed]
+  matches: []
+- unit: ane-ea-076-rib-addi-habiru
+  checked: [quran-8-fifth-and-badr-vision, quran-68-qalam-the-pen-and-the-slanderer, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-165-aziru-to-king
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-167-aziru-to-tutu
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-ea-170-baaluya-betili
+  checked: [quran-8-fifth-and-badr-vision, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-ea-204-qanu
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-20-moses-pharaoh-magicians, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ea-258-baal-meher
+  checked: [quran-19-resurrection-and-the-son, quran-6-deliverance-trumpet, quran-5-jesus-miracles-table]
+  matches: []
+- unit: ane-ea-203-abdi-milki
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-20-moses-pharaoh-magicians, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ea-202-amayashe
+  checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-302-shubandu
+  checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-ea-255-mut-baal-caravans
+  checked: [quran-3-sovereignty, quran-28-qarun, quran-23-believers-succeed]
+  matches: []
+- unit: ane-ea-239-baduzana
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-69-haqqa-books-in-right-and-left-hands, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-ea-254-labaya
+  checked: [quran-89-dawn, quran-68-qalam-the-pen-and-the-slanderer, quran-17-iblis-and-adam, quran-49-hujurat-etiquette-and-brotherhood]
+  matches:
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: slander-as-eating
+    refs: ['EA 254 o:16-18']
+    with_refs: ['49:12']
+    relation: echo
+    record:
+      agent: [hostile men, one of you]
+      action: [eat a man's 'pieces' (slander him), eat the flesh of his dead brother (backbite him)]
+      object: [Labaya's 'pieces', a brother's flesh]
+      quoted: [anumma yikalū karṣīya habālu-ma, wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan]
+      outcome: [the king does not examine my guilt, fa-kariḥtumūhu (you would loathe it)]
+    note: 'Akkadian akālu karṣī ''to eat (someone''s) pieces'' is the ordinary idiom for slander: Labaya complains ''now they eat my pieces wrongfully'' (yikalū karṣīya habālu-ma). Q 49:12 builds its ban on backbiting (ghība) on the same image, made literal and repellent: ''would one of you like to eat the flesh of his dead brother (an yaʾkula laḥma akhīhi maytan)?'' In both slander of an absent man is eating his body.'
+- unit: ane-ea-189-etakkama
+  checked: [quran-7-moses-pharaoh, quran-3-badr-uhud, quran-3-sovereignty]
+  matches: []
+- unit: ane-ea-156-aziru-sons
+  checked: [quran-3-sovereignty, quran-22-abraham-house-pilgrimage, quran-7-idol-request]
+  matches: []
+- unit: ane-ea-201-artamanya
+  checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-283-shuwardata
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ea-221-yiktasu
+  checked: [quran-10-moses-pharaoh, quran-3-sovereignty, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-060-abdi-ashirta
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-3-sovereignty]
+  matches: []
+- unit: ane-ea-106-rib-addi-footstool
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-7-idol-request]
+  matches: []
+- unit: ane-ea-108-rib-addi-hostile-words
+  checked: [quran-8-ratio-captives, quran-8-fifth-and-badr-vision, quran-3-badr-uhud]
+  matches: []
+- unit: ane-ea-107-rib-addi-true-servant
+  checked: [quran-28-qarun, quran-48-fath-clear-victory-and-pledge, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-ea-162-pharaoh-to-aziru
+  checked: [quran-85-constellations, quran-37-abraham-idols-fire, quran-29-abraham-preaches, quran-43-zukhruf-pharaoh-claims, quran-49-hujurat-etiquette-and-brotherhood, quran-27-solomon-ants-hoopoe-sheba, quran-26-moses-and-pharaoh]
+  matches:
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: slander-as-eating
+    refs: ['EA 162 o:14-16']
+    with_refs: ['49:12']
+    relation: contrast
+    record:
+      agent: [the king of Egypt, God]
+      action: [reproaches Aziru for not 'eating the pieces' of a man before the king, forbids eating the flesh of a dead brother]
+      recipient: [Aziru, the believers]
+      quoted: [ammīni lā takul karṣīšu ana pāni šarri bēlika, wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan]
+    note: 'The same idiom with opposite rulings. Pharaoh''s letter demands the denunciation: ''if you are a true servant of the king, why did you not eat his pieces (lā takul karṣīšu) before the king your lord?'', i.e. why did you not inform on the man of Byblos. Q 49:12 forbids it as eating a dead brother''s flesh (an yaʾkula laḥma akhīhi maytan), next to the ban on spying (wa-lā tajassasū).'
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: royal-letter-summons-ruler-to-come-in-submission
+    refs: ['EA 162 o:1-2', 'EA 162 o:33-39', 'EA 162 r:46-54']
+    with_refs: ['27:28', '27:29', '27:30', '27:31', '27:37']
+    relation: parallel
+    record:
+      agent: [the king (of Egypt), Sulaymān]
+      action: [writes to a ruler ordering him to come to the king, writes to a ruler ordering her to come to him]
+      recipient: [Aziru of Amurru, the queen (of Sabaʾ) and her people]
+      instrument: [a tablet, a letter (kitāb)]
+      quoted: [umma šarru bēlka ... alka attā šumma mārka šupur u tāmar šarra, innahu min Sulaymāna ... allā taʿlū ʿalayya waʾtūnī muslimīn]
+      outcome: [refusal means death by the king's axe with all your family, refusal means armies they cannot face and expulsion in humiliation]
+    note: 'A royal letter, opening with the sender''s name (''thus says the king your lord'' / ''it is from Sulaymān''), orders a ruler to come: ''come yourself, or send your son, and see the king'' (alka attā šumma mārka šupur) against ''do not exalt yourselves against me and come to me in submission'' (waʾtūnī muslimīn). Both letters frame obedience as the way to survive: ''serve the king and live ... or die by the king''s axe (haṣṣinni ša šarri tamât) with all your family''; Sulaymān''s answer to the gift is ''we will come on them with armies they cannot face and drive them out humbled'' (27:37).'
+  - with: quran-26-moses-and-pharaoh
+    motif: rule-from-sunrise-to-sunset
+    refs: ['EA 162 r:78-81']
+    with_refs: ['26:28']
+    relation: divergence
+    record:
+      agent: [the king of Egypt (of himself), Moses (to Pharaoh)]
+      name: ['the king, well like the sun in heaven', rabbu l-mashriqi wa-l-maghribi]
+      place: [from sunrise to sunset, the east and the west and what is between]
+      quoted: [šalim šarru kīma Šamši ina šamê ... ṣīt šamši adi ereb šamši, rabbu l-mashriqi wa-l-maghribi wa-mā baynahumā]
+    note: The span from the rising to the setting of the sun belongs, in the Egyptian king's own letter, to the king, who is 'well like the sun in heaven' with his troops 'from sunrise to sunset' (ṣīt šamši adi ereb šamši). In 26:28 Moses answers Pharaoh's 'what is the Lord of the worlds?' with 'the Lord of the east and the west and what is between them'. The same title is taken from the king of Egypt and given to his challenger's Lord, and Pharaoh replies with a threat (26:29).
+- unit: ane-ea-119-rib-addi-guard-yourself
+  checked: [quran-12-joseph-full, quran-48-fath-clear-victory-and-pledge, quran-28-qarun, quran-7-moses-pharaoh, quran-68-qalam-the-pen-and-the-slanderer]
+  matches:
+  - with: quran-12-joseph-full
+    motif: falling-down-before-the-ruler-of-egypt
+    refs: ['EA 119 o:5-7']
+    with_refs: ['12:100']
+    relation: echo
+    record:
+      agent: [Rib-Addi of Byblos, Joseph's parents and brothers]
+      action: [fall down before the ruler of Egypt, fall down before the ruler of Egypt]
+      recipient: [the king of Egypt, Joseph]
+      number: [seven and seven times, null]
+      quoted: [ana šēpē bēlīya Šamšīya 7-šu 7-tān amqut, wa-kharrū lahu sujjadā]
+    note: 'Akkadian maqātu ''to fall'' and Arabic kharra ''to fall down'' for the same gesture before Egypt''s ruler: the Canaanite vassal ''fell at the feet of my lord, my Sun, seven times and seven times'', and Joseph''s family, arrived from the desert, ''fell down before him prostrate'' (12:100). The Amarna formula counts the falls; the Quran gives no number, and Joseph names the scene as the fulfilment of his dream.'
+  - with: quran-68-qalam-the-pen-and-the-slanderer
+    motif: ruler-told-not-to-heed-slanderer
+    refs: ['EA 119 o:24-29']
+    with_refs: ['68:10', '68:11']
+    relation: echo
+    record:
+      recipient: [the king, the prophet]
+      action: [is asked not to listen to the slander, is told not to obey the slanderer]
+      quoted: [ul yišme šarru karṣī ward kittīšu, wa-lā tuṭiʿ kulla ḥallāfin mahīnin hammāzin mashshāʾin bi-namīm]
+    note: Rib-Addi asks that 'the king not hear slander (karṣī) of his true servant' spoken by hostile men (šārūtu); 68:10-11 tells the prophet 'do not obey any contemptible swearer, backbiter (hammāz) who goes about with slander (namīm)'. Both put the ruler under a prohibition on heeding the slanderer.
+- unit: ane-ea-117-rib-addi-amanappa
+  checked: [quran-8-fifth-and-badr-vision, quran-8-ratio-captives, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-138-rib-addi-in-beirut
+  checked: [quran-28-qarun, quran-8-fifth-and-badr-vision, quran-43-zukhruf-pharaoh-claims, quran-3-badr-uhud]
+  matches:
+  - with: quran-3-badr-uhud
+    motif: report-of-the-leader-s-death-and-defection
+    refs: ['EA 138 o:63-b.e:67', 'EA 138 r:111-113']
+    with_refs: ['3:144']
+    relation: echo
+    record:
+      agent: [the city of Byblos, the believers]
+      action: [says 'our lord is dead' and goes over to Aziru, would turn back on their heels if he died or were killed]
+      name: [Rib-Addi, Muḥammad]
+      quoted: [allû-mi mīt bēlnu ... mīt Rib-Addi kikānu ištu qātīšu, a-fa-in māta aw qutila nqalabtum ʿalā aʿqābikum]
+      outcome: [the city is handed to Aziru, whoever turns back harms God not at all]
+    note: 'Byblos uses the report ''our lord is dead, Rib-Addi is dead: so (we are free) from his hand'' to go over to Aziru while its ruler is away. 3:144 (Uhud, where the prophet was reported killed) asks the believers: ''if he dies or is killed, will you turn back on your heels?'' The leader''s death, real or reported, as the moment of defection; in the Quran the defection is forestalled because Muḥammad ''is only a messenger, messengers have passed before him''.'
+- unit: ane-ea-051-addu-nirari
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-157-aziru-hatti
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-89-dawn, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-092-rib-addi-tyre-sidon
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ea-091-rib-addi-alone
+  checked: [quran-59-hashr-banu-nadir-and-fay, quran-8-ratio-captives, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-rso-07-016-ushnatu-slave
+  checked: [quran-58-mujadila-zihar-and-secret-counsel, quran-14-moses-and-messengers, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-rso-07-018-princess-to-queen
+  checked: [quran-4-kindness-misers-atom, quran-64-taghabun-day-of-loss-and-household-enemies, quran-12-joseph-full]
+  matches: []
+- unit: ane-rso-07-022-ari-kirnihe
+  checked: [quran-24-household-etiquette, quran-12-joseph-full, quran-26-salih-thamud]
+  matches: []
+- unit: ane-rso-07-024-mattenu
+  checked: [quran-40-throne-bearers, quran-112-114-unity-and-refuge, quran-9-closing]
+  matches: []
+- unit: ane-rso-07-026-to-king-of-ugarit
+  checked: [quran-112-114-unity-and-refuge, quran-9-closing, quran-64-taghabun-day-of-loss-and-household-enemies]
+  matches: []
+- unit: ane-rso-07-030-dagan-belu-emar
+  checked: [quran-24-household-etiquette, quran-69-haqqa-books-in-right-and-left-hands, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-rso-07-031-dagan-belu-urtenu
+  checked: [quran-26-salih-thamud, quran-40-throne-bearers, quran-69-haqqa-books-in-right-and-left-hands]
+  matches: []
+- unit: ane-rso-07-032-dagan-baal-urtenu
+  checked: [quran-102-104-rivalry-time-slanderer, quran-68-qalam-the-pen-and-the-slanderer, quran-4-kindness-misers-atom]
+  matches: []
+- unit: ane-rso-07-034-issur-rashap
+  checked: [quran-24-household-etiquette, quran-69-haqqa-books-in-right-and-left-hands, quran-20-moses-call]
+  matches: []
+- unit: ane-rso-07-036-tuna-uzziltu
+  checked: [quran-7-closing-recitation, quran-48-fath-clear-victory-and-pledge, quran-58-mujadila-zihar-and-secret-counsel]
+  matches: []
+- unit: ane-rso-07-037-beirut-to-prefect
+  checked: [quran-5-covenant-twelve-chiefs, quran-38-sad-opening, quran-70-ascending-stairways]
+  matches: []
+- unit: ane-rso-07-046-shalmaneser-nihriya
+  checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-2-talut-jalut]
+  matches: []
+- unit: ane-rso-07-047-hellu-substitute
+  checked: [quran-3-sovereignty, quran-40-throne-bearers, quran-39-mercy-and-last-day]
+  matches: []
+- unit: ane-rih-81-04-maid-lawsuit
+  checked: [quran-58-mujadila-zihar-and-secret-counsel, quran-48-fath-clear-victory-and-pledge, quran-49-hujurat-etiquette-and-brotherhood]
+  matches: []
+- unit: ane-rs-01-0056-halbini-hazilu
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-55-rahman-judgment-and-the-four-gardens, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-rs-06-0198-belubur-ilimilku
+  checked: [quran-4-kindness-misers-atom, quran-64-taghabun-day-of-loss-and-household-enemies, quran-12-joseph-full]
+  matches: []
+- unit: ane-rs-11-0723-sidon
+  checked: [quran-4-kindness-misers-atom, quran-64-taghabun-day-of-loss-and-household-enemies, quran-12-joseph-full]
+  matches: []
+- unit: ane-rs-11-0730-beirut-son
+  checked: [quran-112-114-unity-and-refuge, quran-40-throne-bearers, quran-85-constellations]
+  matches: []
+- unit: ane-rs-12-0005-oath-thrown-behind
+  checked: [quran-38-job, quran-12-joseph-full, quran-48-fath-clear-victory-and-pledge, quran-3-misers-mockers, quran-2-polemic-israel]
+  matches:
+  - with: quran-3-misers-mockers
+    motif: oath-cast-behind-back
+    refs: ['Ugarit RS 12.0005 o:6''-10''']
+    with_refs: ['3:187']
+    relation: echo
+    record:
+      agent: [the addressee, those given the book]
+      action: [throws the oath behind him, throw the covenant behind their backs]
+      object: [the oath (māmītu) he was made to swear before Nabu and the gods, the covenant (mīthāq) God took from them]
+      quoted: [māmītīya ana pāni Nabû u ilānī ša mātika ... utammēka māmītīya warkika tattasuk, wa-idh akhadha llāhu mīthāqa lladhīna ūtū l-kitāba ... fa-nabadhūhu warāʾa ẓuhūrihim]
+    note: 'The same gesture for breaking a sworn bond: Akkadian warkika tattasuk ''you have thrown (it) behind you'' (nasāku ''throw''), Arabic nabadhūhu warāʾa ẓuhūrihim ''they threw it behind their backs'' (nabadha ''throw''). In both the bond was imposed by the superior (''my oath which I made you swear'', ''God took the covenant of those given the book''), and the letter goes on ''you do not remember me'' (lā tahassasanni).'
+  - with: quran-2-polemic-israel
+    motif: oath-cast-behind-back
+    refs: ['Ugarit RS 12.0005 o:6''-10''']
+    with_refs: ['2:100', '2:101']
+    relation: echo
+    record:
+      action: [throws the oath behind him, throw the covenant away / throw God's book behind their backs]
+      object: [the sworn oath (māmītu), the covenant (ʿahd) and God's book]
+      quoted: [māmītīya warkika tattasuk, a-wa-kullamā ʿāhadū ʿahdan nabadhahu farīqun minhum ... nabadha farīqun ... kitāba llāhi warāʾa ẓuhūrihim]
+    note: 2:100 uses nabadha for throwing away a sworn compact (ʿahd), and 2:101 completes the image, 'they threw God's book behind their backs', as the Ugarit letter has the oath thrown 'behind you' (warkika).
+- unit: ane-rs-15-0011-muarihu-ransom
+  checked: [quran-3-covenant-of-prophets, quran-16-parables-and-justice, quran-58-mujadila-zihar-and-secret-counsel]
+  matches: []
+- unit: ane-rs-15-0024-abushkanu
+  checked: [quran-4-kindness-misers-atom, quran-64-taghabun-day-of-loss-and-household-enemies, quran-12-joseph-full]
+  matches: []
+- unit: ane-rs-15-0033-hishmi-kushuh
+  checked: [quran-3-sovereignty, quran-14-moses-and-messengers, quran-58-mujadila-zihar-and-secret-counsel]
+  matches: []
+- unit: ane-rs-15-0063-abiramu-merchants
+  checked: [quran-18-moses-and-the-servant, quran-4-kindness-misers-atom, quran-62-jumua-unlettered-donkey-and-friday]
+  matches: []
+- unit: ane-rs-15-0077-alihesni-borders
+  checked: [quran-9-closing, quran-43-zukhruf-abraham-and-silver-roofs, quran-89-dawn]
+  matches: []
+- unit: ane-rs-15-0109-niqmepa-grant-sinaranu
+  checked: [quran-7-moses-pharaoh, quran-89-dawn, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-2-retaliation-bequest]
+  matches:
+  - with: quran-2-retaliation-bequest
+    motif: whoever-alters-a-written-disposition
+    refs: ['Ugarit RS 15.0109 + RS 16.0296 r:28-29']
+    with_refs: ['2:181']
+    relation: divergence
+    record:
+      agent: [whoever alters this tablet, whoever alters it after hearing it]
+      object: [the sealed royal grant of houses and fields, the bequest (waṣiyya)]
+      outcome: [may the gods destroy his name, the sin is only on those who alter it]
+      quoted: [ša ṭuppu annâm unakkir ilānū šumšu lihalliq, fa-man baddalahu baʿdamā samiʿahu fa-innamā ithmuhu ʿalā lladhīna yubaddilūnahu]
+    note: The closing clause on the man who alters a property disposition, 'whoever alters (unakkir) this tablet' and 'whoever alters it (baddalahu) after hearing it'. The deed calls on the gods to destroy his name; 2:181 puts the sin on the alterers alone, so that those who carry out the altered bequest are not guilty.
+- unit: ane-rs-15-0120-ahi-malku-inheritance
+  checked: [quran-4-kalala-ruling, quran-19-zechariah-and-john, quran-4-inheritance-shares]
+  matches:
+  - with: quran-4-inheritance-shares
+    motif: fixing-the-shares-of-the-sons
+    refs: ['Ugarit RS 15.0120 o:1-5', 'Ugarit RS 15.0120 r:4-12']
+    with_refs: ['4:11']
+    relation: contrast
+    record:
+      agent: [Ahi-malku (the father) before the king, God]
+      action: [fixes the shares of his sons, ordains the shares of your children]
+      outcome: [one son (Tubammu) is cleared out and the estate goes to two sons, every child has a fixed share]
+      quoted: [Ahi-malku iprusa šīmti ša mārīšu ... kīma šamšu zakīti zaki Ṭubʿammu eli abīšu u eli ahhīšu, yūṣīkumu llāhu fī awlādikum ... ābāʾukum wa-abnāʾukum lā tadrūna ayyuhum aqrabu lakum nafʿan farīḍatan mina llāh]
+    note: 'Opposite rulings on who decides the sons'' shares (šīmtu). At Ugarit the father, before the king, ''decided the share of his sons'', cleared one son ''as the sun is clear'' of his father and brothers and gave houses, fields, cattle and slaves to two others. 4:11 takes the decision away from the father: ''God charges you concerning your children ... your fathers and your sons, you do not know which of them is nearer to you in benefit: an ordinance from God''.'
+- unit: ane-rs-16-0111-ulmi-to-queen
+  checked: [quran-102-104-rivalry-time-slanderer, quran-48-fath-clear-victory-and-pledge, quran-51-dhariyat-abrahams-guests-and-the-peoples]
+  matches: []
+- unit: ane-rs-16-0116-reshi
+  checked: [quran-10-moses-pharaoh, quran-85-constellations, quran-3-sovereignty]
+  matches: []
+- unit: ane-rs-16-0133-kushar-abi-fields
+  checked: [quran-4-creation-kinship-orphans, quran-28-qarun, quran-4-kalala-ruling]
+  matches: []
+- unit: ane-rs-16-0173-ishtar-hurri
+  checked: [quran-4-inheritance-shares, quran-4-kalala-ruling, quran-8-emigrants-kin]
+  matches: []
+- unit: ane-rs-17-0039-tyre-tax
+  checked: [quran-43-zukhruf-abraham-and-silver-roofs, quran-48-fath-clear-victory-and-pledge, quran-5-oaths-wine-game]
+  matches: []
+- unit: ane-rs-17-0062-mursili-mukish-borders
+  checked: [quran-79-pharaoh-and-cosmos, quran-13-messengers-and-mother-of-book, quran-19-prophets-remembered]
+  matches: []
+- unit: ane-rs-17-0078-ebinnae
+  checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-4-kindness-misers-atom, quran-24-household-etiquette]
+  matches: []
+- unit: ane-ugarit-rs-17-0079-mursili-niqmepa-treaty
+  checked: [quran-99-earthquake, quran-48-fath-clear-victory-and-pledge, quran-9-baraa-treaties, quran-58-mujadila-zihar-and-secret-counsel, quran-60-mumtahana-abrahams-example-and-the-womens-pledge, quran-7-primordial-covenant]
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: my-enemy-not-your-friend
+    refs: ['Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:13']
+    with_refs: ['60:1']
+    relation: echo
+    record:
+      agent: [the Hittite king, God]
+      recipient: [Niqmepa, the believers]
+      action: [binds him to be hostile to 'my enemy', forbids taking 'my enemy and your enemy' as friends]
+      quoted: [itti salmīya lū salmāta itti nakrīya lū nakrāta, lā tattakhidhū ʿaduwwī wa-ʿaduwwakum awliyāʾa]
+    note: The treaty formula in the sovereign's first person, 'with my friend be friendly, with my enemy (nakrīya) be hostile', against God's first person in 60:1, 'do not take my enemy and your enemy (ʿaduwwī wa-ʿaduwwakum) as friends (awliyāʾ)'. In both the superior party names his enemy as the partner's enemy; 60:1 adds the secret passing of affection to them (tusirrūna ilayhim bi-l-mawadda).
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: return-of-those-who-flee-to-the-other-side
+    refs: ['Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:45-50', 'Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:10-18']
+    with_refs: ['60:10']
+    relation: contrast
+    record:
+      object: [deportees and fugitives (munnabtu) who flee into Ugarit, believing women who come as emigrants]
+      action: [seize them and return them to the king of Hatti, do not return them to the unbelievers]
+      quoted: [Niqmepa liṣbassu u ana šar māt Ḫatti litēršu, fa-lā tarjiʿūhunna ilā l-kuffār]
+      outcome: [keeping one is a breach of the oath, the husbands are paid what they spent]
+    note: 'Opposite rulings on the same clause of a pact between two sides: the treaty orders ''let Niqmepa seize him and return him (litēršu) to the king of Hatti'', and keeping a fugitive ''transgresses the oath'' (ištu māmīti ītetiq); 60:10 orders, for women who come over as believers after examination, ''do not return them (lā tarjiʿūhunna) to the unbelievers'', with what the husbands spent paid back instead.'
+  - with: quran-7-primordial-covenant
+    motif: covenant-forecloses-plea-of-ignorance
+    refs: ['Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:25-29', 'Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:48-49']
+    with_refs: ['7:172']
+    relation: echo
+    record:
+      agent: [the Hittite king, the Lord]
+      recipient: [Niqmepa, the children of Adam]
+      action: [forbids the excuse 'I know nothing', takes the covenant lest they say 'we were unaware']
+      quoted: [kīam lā taqabbi anāku ša riksi u ša māmīti-mi mimma lū lā īde-mi, an taqūlū yawma l-qiyāmati innā kunnā ʿan hādhā ghāfilīn]
+    note: 'Both covenants name in advance the excuse they rule out, in direct speech after ''do not say'' / ''lest you say'': the vassal may not plead ''I am bound by treaty and oath, I know nothing (lū lā īde)'' while fugitives sit in his land; the descendants of Adam are made to witness ''Am I not your Lord?'' ''lest you say on the day of resurrection: we were unaware of this (ghāfilīn)''.'
+- unit: ane-ugarit-rs-17-0083-ari-teshub-father
+  checked: [quran-85-constellations, quran-20-moses-pharaoh-magicians, quran-33-zayd-seal-of-prophets]
+  matches: []
+- unit: ane-ugarit-rs-17-0116-brothers-one-man
+  checked: [quran-4-marriage-forbidden-degrees, quran-49-hujurat-etiquette-and-brotherhood, quran-12-joseph-full]
+  matches: []
+- unit: ane-ugarit-rs-17-0129-amar-baal-refuses-oath
+  checked: [quran-5-bequest-witnesses, quran-2-debt-contract, quran-24-penalties-and-lian]
+  matches: []
+- unit: ane-ugarit-rs-17-0132-suppiluliuma-niqmaddu
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-43-zukhruf-pharaoh-claims, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ugarit-rs-17-0142-lullu-gift
+  checked: [quran-62-jumua-unlettered-donkey-and-friday, quran-85-constellations, quran-40-throne-bearers]
+  matches: []
+- unit: ane-ugarit-rs-17-0143-ari-teshub-emar
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ugarit-rs-17-0144-zulanna-gifts
+  checked: [quran-26-abraham, quran-43-zukhruf-abraham-and-silver-roofs, quran-62-jumua-unlettered-donkey-and-friday]
+  matches: []
+- unit: ane-ugarit-rs-17-0145-aballa-merchants
+  checked: [quran-5-bequest-witnesses, quran-2-debt-contract, quran-4-homicide-law]
+  matches: []
+- unit: ane-ugarit-rs-17-0146-carchemish-ugarit-merchants-treaty
+  checked: [quran-9-baraa-treaties, quran-11-pharaoh-leads, quran-59-hashr-banu-nadir-and-fay, quran-4-homicide-law, quran-2-the-cow]
+  matches:
+  - with: quran-4-homicide-law
+    motif: compensation-for-a-man-killed-from-a-treaty-people
+    refs: ['Ugarit RS 17.0146 o:4-14', 'Ugarit RS 17.0146 r:1-8']
+    with_refs: ['4:92']
+    relation: parallel
+    record:
+      object: [a merchant of the treaty-partner king killed in the land, a man killed from a people with whom you have a covenant]
+      action: [pay blood compensation, pay blood compensation]
+      recipient: [the merchants' brothers, his family (ahlihi)]
+      number: [3 minas of silver per man, null]
+      quoted: [mullâ ša dāmī ... 3 MA.NA kaspa ... ušallamūni, wa-in kāna min qawmin baynakum wa-baynahum mīthāqun fa-diyatun musallamatun ilā ahlihi]
+    note: 'A ruling for a man killed who belongs to the other party of a treaty (rikiltu / mīthāq): compensation ''for the blood'' (mullâ ša dāmī) is paid in full (ušallamūni, D of šalāmu) to the dead man''s brothers, and ''blood money handed over in full (musallama, also from s-l-m) to his family''. The Quran adds the freeing of a believing slave and limits the case to accidental killing; the treaty sets the sum at 3 minas a man and adds the restoring of his goods.'
+  - with: quran-2-the-cow
+    motif: killing-by-unknown-hand
+    refs: ['Ugarit RS 17.0146 o:19-27', 'Ugarit RS 17.0146 r:9-17']
+    with_refs: ['2:72', '2:73']
+    relation: divergence
+    record:
+      agent: [the men of the town where he died, you (the Israelites)]
+      action: [swear that they do not know the killers, disputed over it (pushing it off on one another)]
+      outcome: [they pay 3 minas a man all the same, the slain is struck with part of the cow and God brings out what was hidden]
+      quoted: [šumma dāʾikūtišunu nīde-mi, wa-idh qataltum nafsan fa-ddāraʾtum fīhā wa-llāhu mukhrijun mā kuntum taktumūn]
+    note: 'A man killed, the killers not found: the treaty has the townsmen swear before the dead men''s brothers ''we do not know their killers'' and pay the compensation anyway; in 2:72-73 the community ''disputed over it'' (iddāraʾtum, each repelling it), and God orders the dead man struck with a piece of the cow so that the hidden thing comes out. The oath of ignorance settles the Ugarit case; the Quran case is settled by revealing the killer.'
+- unit: ane-ugarit-rs-17-0148-yabinenshe-pihaddu
+  checked: [quran-62-jumua-unlettered-donkey-and-friday, quran-83-defrauders, quran-100-chargers]
+  matches: []
+- unit: ane-ugarit-rs-17-0152-amurru-parishhu
+  checked: [quran-19-abraham-and-his-father, quran-2-talut-jalut, quran-43-zukhruf-abraham-and-silver-roofs]
+  matches: []
+- unit: ane-ugarit-rs-17-0227-suppiluliuma-tribute-treaty
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-9-baraa-treaties, quran-2-talut-jalut]
+  matches: []
+- unit: ane-ugarit-rs-17-0230-carchemish-murder-triple
+  checked: [quran-4-homicide-law, quran-2-retaliation-bequest, quran-5-war-on-god-theft]
+  matches:
+  - with: quran-2-retaliation-bequest
+    motif: payment-for-a-life
+    refs: ['Ugarit RS 17.0230 o:4-12']
+    with_refs: ['2:178']
+    relation: divergence
+    record:
+      object: [a man killed (the killer seized), the slain]
+      action: [the killer's side pays for the man threefold, retaliation equal for equal or pardon and payment]
+      number: [3 (threefold), null]
+      quoted: [šumma ša idukūšu iṣabbatū awīla 3-šu umalla, kutiba ʿalaykumu l-qiṣāṣu fī l-qatlā l-ḥurru bi-l-ḥurri ... fa-man ʿufiya lahu min akhīhi shayʾun fa-ttibāʿun bi-l-maʿrūfi wa-adāʾun ilayhi bi-iḥsān]
+    note: 'The same case, a killer who is caught: in Ini-Tešub''s agreement ''he pays the man threefold'' (awīla 3-šu umalla) and the goods threefold, with no word of death for the killer; 2:178 prescribes retaliation ''free for free'', with payment only where the dead man''s ''brother'' pardons. Ugarit makes payment the only remedy and triples it; the Quran makes retaliation the rule and payment the remission.'
+- unit: ane-ugarit-rs-17-0239-sakinu-dye-seed
+  checked: [quran-62-jumua-unlettered-donkey-and-friday, quran-83-defrauders, quran-100-chargers]
+  matches: []
+- unit: ane-ugarit-rs-17-0286-amurru-umman-manda
+  checked: [quran-112-114-unity-and-refuge, quran-3-badr-uhud, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-ugarit-rs-17-0288-ushnatu-thieves-araniya
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-58-mujadila-zihar-and-secret-counsel, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-ugarit-rs-17-0339-suppiluliuma-borders
+  checked: [quran-8-fifth-and-badr-vision, quran-48-fath-clear-victory-and-pledge, quran-5-holy-land-refusal]
+  matches: []
+- unit: ane-ugarit-rs-17-0341-siyannu-oaths
+  checked: [quran-5-war-on-god-theft, quran-4-homicide-law, quran-5-oaths-wine-game, quran-59-hashr-banu-nadir-and-fay]
+  matches:
+  - with: quran-59-hashr-banu-nadir-and-fay
+    motif: cutting-down-the-other-side-s-trees
+    refs: ['Ugarit RS 17.0341 o:7''-12''']
+    with_refs: ['59:5']
+    relation: divergence
+    record:
+      action: [cut down the neighbours' vines, cut down the enemy's palms]
+      object: [vines (karānu), palm trees (līna)]
+      outcome: [each side must swear 'we did not cut their vines', it was by God's leave]
+      quoted: [šumma karānīšunu nīnu nakkis-mi, mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāh]
+    note: 'Cutting the other side''s trees is the act in both. In the Hittite verdict it is an offence to be cleared by oath: Ugarit charges that the men of Siyannu cut its vines, and both sides must swear ''we did not cut their vines'' (nakkis). In 59:5 the believers'' cutting of the Banu Nadir''s palms during the siege is declared lawful: ''whatever palms you cut or left standing on their roots, it was by God''s leave''.'
+- unit: ane-ugarit-rs-17-0346-mashanda-broken-tablet
+  checked: [quran-2-debt-contract, quran-5-bequest-witnesses, quran-9-alms-recipients]
+  matches: []
+- unit: ane-ugarit-rs-17-0352-princes-exiled-to-alashiya
+  checked: [quran-58-mujadila-zihar-and-secret-counsel, quran-4-kalala-ruling, quran-23-believers-succeed]
+  matches: []
+- unit: ane-ugarit-rs-17-0365-shaushkamuwa-oath
+  checked: [quran-99-earthquake, quran-9-baraa-treaties, quran-3-sovereignty, quran-58-mujadila-zihar-and-secret-counsel]
+  matches: []
+- unit: ane-ugarit-rs-17-0383-taguhli-lapis
+  checked: [quran-28-qarun, quran-69-haqqa-books-in-right-and-left-hands, quran-48-fath-clear-victory-and-pledge, quran-27-solomon-ants-hoopoe-sheba]
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: a-gift-sent-to-a-king-scorned
+    refs: ['Ugarit RS 17.0383 o:10-r:10']
+    with_refs: ['27:35', '27:36']
+    relation: divergence
+    record:
+      agent: [the king, Sulaymān]
+      action: [scorns the lapis lazuli sent to him, scorns the gift (hadiyya) sent to him]
+      object: [lapis lazuli that is a common stone, wealth (māl)]
+      quoted: [ul ana muhhīya annû ulazzan-mi u abna kâmma ištu qaqqari ittaši, a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum bal antum bi-hadiyyatikum tafraḥūn]
+      outcome: [the king's heart is filled with anger and better lapis must be found, the envoys are sent back with a threat of armies]
+    note: A gift reaches a king and he answers it with scorn. The Ugarit king's 'lapis' is a stone 'just lifted from the ground', and the king says 'is this not a mockery of me?'. The Queen of Sheba's gift is real wealth, and Sulaymān rejects it because 'what God has given me is better than what he has given you; rather you exult in your gift'. The first king is angry that the gift is worthless; the second refuses a gift of value.
+- unit: ane-ugarit-rs-17-0390-thief-rashsha
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-43-zukhruf-pharaoh-claims, quran-40-throne-bearers]
+  matches: []
+- unit: ane-ugarit-rs-17-0429-queen-letter-fragment
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-33-zayd-seal-of-prophets, quran-28-moses-in-midian]
+  matches: []
+- unit: ane-ugarit-rs-17-0459-shaushkamuwa-curse
+  checked: [quran-99-earthquake, quran-9-baraa-treaties, quran-2-patience-signs, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-ugarit-rs-18-0089-urhae-yabninu
+  checked: [quran-8-ratio-captives, quran-112-114-unity-and-refuge, quran-4-strivers-emigration]
+  matches: []
+- unit: ane-ugarit-rs-19-0053-scribe-brother-angry
+  checked: [quran-83-defrauders, quran-62-jumua-unlettered-donkey-and-friday, quran-69-haqqa-books-in-right-and-left-hands]
+  matches: []
+- unit: ane-ugarit-rs-19-0068-niqmaddu-aziru
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-38-sad-opening, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ugarit-rs-19-0070-king-queen-to-kilae
+  checked: [quran-3-sovereignty, quran-33-zayd-seal-of-prophets, quran-9-closing]
+  matches: []
+- unit: ane-ugarit-rs-19-0078-agi-teshub-oath-refused
+  checked: [quran-2-debt-contract, quran-5-bequest-witnesses, quran-24-penalties-and-lian]
+  matches: []
+- unit: ane-ugarit-rs-19-0115-mast
+  checked: [quran-62-jumua-unlettered-donkey-and-friday, quran-83-defrauders, quran-100-chargers]
+  matches: []
