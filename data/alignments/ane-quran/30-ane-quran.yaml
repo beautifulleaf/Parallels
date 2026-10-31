@@ -1,0 +1,577 @@
+# ANE x Quran side-by-side pass, chunk 30 (Hittite: CTH 384-404 prayers of Puduhepa and others, Nerik prayers, Mursili III, and the rituals of Ayatarsa, Ambazzi, Anniwiyani, Ashella, Hantitassu, Hatiya, Hepattarakki, Huwarlu, Jarri, Iriya, Banippi, Alli, Mallidunna, Mashtigga). Judged blind, from the originals.
+new_motifs:
+  prayer-addressed-to-the-sun:
+    label: Prayer or prostration addressed to the sun
+    cluster: ritual
+  where-the-god-is-sunrise-or-sunset:
+    label: The god's whereabouts named as the sunrise and the sunset (east and west)
+    cluster: deity
+  whether-the-deity-hungers-or-is-fed:
+    label: Whether the deity is hungry and thirsty and is fed by worshippers
+    cluster: deity
+  tongue-bound-and-loosed:
+    label: A person's tongue is 'bound' and the binding is asked to be loosed
+    cluster: magic
+  host-notices-one-missing-from-assembly:
+    label: The host of an assembly of gods (or jinn) and mankind notices that one is missing
+    cluster: narrative
+  dog-guards-the-entrance-of-sleepers:
+    label: A dog at the door or threshold guards those who sleep within
+    cluster: animals
+  sorcery-works-by-binding:
+    label: Sorcery is done by binding or knotting
+    cluster: magic
+  setting-of-the-sun:
+    label: What follows when the sun (as deity) goes down
+    cluster: deity
+  recognised-as-parents-recognise-their-sons:
+    label: 'Simile: to recognise someone as father and mother recognise their sons'
+    cluster: family
+reviewed:
+- unit: ane-cth-384-1-1-puduhepa-nerik-history
+  checked: [quran-17-moses-nine-signs-and-close, quran-7-names-and-hour, quran-2-abraham-kaaba, quran-22-abraham-house-pilgrimage, quran-3-imran-mary-zechariah]
+  matches:
+  - with: quran-17-moses-nine-signs-and-close
+    motif: the-names-of-the-god-and-who-gives-them
+    refs: ['CTH 384.1 §2:3', 'CTH 384.1 §2:4', 'CTH 384.1 §2:5']
+    with_refs: ['17:110']
+    relation: divergence
+    record:
+      agent: [the Sun goddess of Arinna, God]
+      action: [takes one name in Ḫatti and another in the cedar land, may be called by either name]
+      name: [Sun goddess of Arinna; Ḫepat, Allāh; al-Raḥmān]
+      quoted: [ŠUM-an daišta (you gave yourself the name), ayyan mā tadʿū fa-lahu l-asmāʾu l-ḥusnā]
+      outcome: [the name changes with the land, all the names are his]
+    note: 'One deity, two names. Puduḫepa: in Ḫatti ''you gave yourself the name (ŠUM-an daišta) Sun goddess of Arinna'', and in the land you made the land of cedar ''you gave yourself the name Ḫepat''. 17:110: ''qul idʿū llāha awi dʿū r-raḥmāna ayyan mā tadʿū fa-lahu l-asmāʾu l-ḥusnā'', call on Allāh or call on al-Raḥmān, whichever you call, his are the most beautiful names. The two names go with two lands in the prayer; in the Quran they are both for the same caller to use.'
+  - with: quran-3-imran-mary-zechariah
+    motif: sacred-office-assigned-by-lot
+    refs: ['CTH 384.1 §2:11']
+    with_refs: ['3:44']
+    relation: divergence
+    record:
+      action: [is allotted by lot to the god's service, lots cast over who will take charge of Mary]
+      object: [the prince Ḫattušili as priest, Mary dedicated to God]
+      instrument: [the lot, their pens]
+      quoted: [pulaz … ḫaptat (was allotted by lot), yulqūna aqlāmahum ayyuhum yakfulu maryam]
+    note: '§2:11: ''that one too (Ḫattušili) was allotted by lot (pu-la-a[z?] … ḫaptat) to the Storm god of Nerik, your beloved son'' as his priest. 3:44: ''idh yulqūna aqlāmahum ayyuhum yakfulu maryam'', when they cast their pens (lots) over which of them would take charge of Mary, who was vowed to God (3:35). On one side the lot picks who serves the god; on the other it picks the guardian of the one dedicated. The Hittite ''by lot'' is partly restored (pu-la-a[z?]).'
+- unit: ane-cth-384-1-6-puduhepa-plea-lelwani
+  checked: [quran-7-single-soul-idols, quran-3-imran-mary-zechariah, quran-19-mary-and-jesus, quran-7-calf]
+  matches: []
+- unit: ane-cth-384-1-10-puduhepa-zintuhi-mezzulla-zippalanda
+  checked: [quran-39-pure-religion, quran-10-ingratitude-sea, quran-2-throne-verse, quran-63-munafiqun-propped-timbers]
+  matches:
+  - with: quran-39-pure-religion
+    motif: intercession-by-the-deity-s-court
+    refs: ['CTH 384.1 §11:127', 'CTH 384.1 §13:133', 'CTH 384.1 §13:137', 'CTH 384.1 §13:138']
+    with_refs: ['39:3']
+    relation: response
+    record:
+      agent: ['Zintuḫi, Mezzulla, the Storm god of Zippalanda', the protectors taken besides God]
+      action: [carry the petition on to the high gods, bring the worshippers near to God]
+      recipient: [the Storm god and the Sun goddess of Arinna, God]
+      quoted: [parā arnut (bring it further), mā naʿbuduhum illā li-yuqarribūnā ilā llāhi zulfā]
+      outcome: [the plea reaches the high gods, God will judge between them; he does not guide the liar]
+    note: 'Puduḫepa asks the lesser deities, children and grandchildren of the high pair, to take her plea further: to Zintuḫi ''to the Storm god, your grandfather, and the Sun goddess of Arinna, your grandmother, bring (it) further (parā arnut)''; to Mezzulla ''transmit them for me and bring them further to the Storm god your father and the Sun goddess your mother''. 39:3 quotes those who take protectors besides God: ''mā naʿbuduhum illā li-yuqarribūnā ilā llāhi zulfā'', we worship them only so that they bring us near to God, and rejects it.'
+  - with: quran-10-ingratitude-sea
+    motif: intercession-by-the-deity-s-court
+    refs: ['CTH 384.1 §13:133', 'CTH 384.1 §13:134', 'CTH 384.1 §13:135', 'CTH 384.1 §13:138']
+    with_refs: ['10:18']
+    relation: response
+    record:
+      agent: [Mezzulla, the beings worshipped besides God]
+      action: [speaks for the petitioner to her father and mother, are called intercessors with God]
+      quoted: [Ú-UL-at-kán waḫnuwanzi (they do not turn it back), hāʾulāʾi shufaʿāʾunā ʿinda llāh]
+      outcome: [the high gods hear and do not refuse, they neither harm nor benefit]
+    note: '''What you, Mezzulla, say to the Storm god your father and the Sun goddess your mother, they hear it; they do not turn it back (Ú-UL-at-kán waḫnuwanzi)''. 10:18: they worship what neither harms nor benefits them ''wa-yaqūlūna hāʾulāʾi shufaʿāʾunā ʿinda llāh'', and say these are our intercessors with God; ''do you inform God of what he does not know?'''
+  - with: quran-2-throne-verse
+    motif: intercession-by-the-deity-s-court
+    refs: ['CTH 384.1 §13:134', 'CTH 384.1 §13:135', 'CTH 384.1 §15:144', 'CTH 384.1 §15:145']
+    with_refs: ['2:255']
+    relation: divergence
+    record:
+      agent: ['Mezzulla, the Storm god of Zippalanda', whoever would intercede]
+      action: [speaks for the petitioner before the high gods, intercedes with God]
+      quoted: [Ú-UL-at-kán waḫnuwanzi (they do not turn it back), man dhā lladhī yashfaʿu ʿindahu illā bi-idhnihi]
+      outcome: [the word of the beloved child is never refused, no one intercedes except by his leave]
+    note: 'The intercessor''s standing before the high god. Puduḫepa: what Mezzulla, and the Storm god of Zippalanda, the ''beloved son'', say to their father and mother ''they hear it, they do not turn it back'' (§13:134-135, §15:144-145). 2:255: ''man dhā lladhī yashfaʿu ʿindahu illā bi-idhnihi'', who is it that intercedes with him except by his leave? The intercessor''s word cannot fail on one side; on the other it can be spoken only if he permits.'
+- unit: ane-cth-384-2-puduhepa-fragment
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-3-sovereignty, quran-3-imran-mary-zechariah]
+  matches: []
+- unit: ane-cth-384-3-puduhepa-fragment
+  checked: [quran-2-abrogation-polemic, quran-5-jesus-miracles-table, quran-17-prayer-spirit-and-challenge]
+  matches: []
+- unit: ane-cth-385-1-prayer-fragment-sin
+  checked: [quran-63-munafiqun-propped-timbers, quran-36-people-of-the-town, quran-8-meccan-plots]
+  matches: []
+- unit: ane-cth-385-2-prayer-hatti-thrive
+  checked: [quran-22-abraham-house-pilgrimage, quran-7-towns-pattern, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-cth-385-3-prayer-fragment-kingship
+  checked: [quran-23-lordship-arguments, quran-2-throne-verse, quran-3-sovereignty]
+  matches: []
+- unit: ane-cth-385-4-prayer-fragment-offerings
+  checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-cth-385-5-prayer-fragment
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-3-sovereignty, quran-3-imran-mary-zechariah]
+  matches: []
+- unit: ane-cth-385-6-prayer-fragment
+  checked: [quran-20-closing-exhortation, quran-17-book-of-deeds, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-cth-385-7-prayer-fragment-ishtar
+  checked: [quran-10-moses-pharaoh, quran-79-pharaoh-and-cosmos, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth-385-8-enemies-covet-temples
+  checked: [quran-2-abrogation-polemic, quran-22-abraham-house-pilgrimage, quran-13-covenant-and-paradise, quran-28-qarun]
+  matches: []
+- unit: ane-cth-385-9-tudhaliya-confession-festivals
+  checked: [quran-9-months-nasi, quran-7-adam-iblis, quran-63-munafiqun-propped-timbers, quran-5-jesus-miracles-table]
+  matches:
+  - with: quran-9-months-nasi
+    motif: sacred-time-shifted-forbidden
+    refs: ['CTH 385.9 §1:5', 'CTH 385.9 §1:13', 'CTH 385.9 §1:14', 'CTH 385.9 §1:15']
+    with_refs: ['9:36', '9:37']
+    relation: parallel
+    record:
+      agent: [the king Tudḫaliya, those who disbelieve]
+      action: [interchanged the spring and autumn festivals, postpone a sacred month]
+      object: [the festivals of the Sun goddess, the sacred months]
+      time: [spring and autumn, one year and another year]
+      quoted: [ḫamešḫandaš … zēnandašša UL namma waḫnummi, innamā n-nasīʾu ziyādatun fī l-kufr … yuḥillūnahu ʿāman wa-yuḥarrimūnahu ʿāman]
+      outcome: [vows to hold each festival only in its own season, the shift is condemned as more unbelief]
+    note: 'Tudḫaliya confesses he took away and cut (karšanunun) the goddess''s festivals and vows: ''the spring festivals and [the autumn festivals] I will no longer exchange (UL namma waḫnummi); the spring festivals only in spring (ḫamešḫi=pat), the autumn festivals only in autumn (zēni=pat) I will celebrate''. 9:36-37: twelve months, four of them sacred, ''innamā n-nasīʾu ziyādatun fī l-kufr'', postponement is an increase in unbelief, ''yuḥillūnahu ʿāman wa-yuḥarrimūnahu ʿāman'', they make it lawful one year and forbidden another. Both treat moving a sacred time out of its season as an offence. ''Autumn festivals'' in §1:13 is restored; §1:15 keeps zé-e-ni-pát.'
+- unit: ane-cth-385-10-labarna-sun-prayer-roof
+  checked: [quran-17-prayer-spirit-and-challenge, quran-5-ablution-covenant-justice, quran-41-steadfast-and-repel-evil, quran-27-solomon-ants-hoopoe-sheba]
+  matches:
+  - with: quran-41-steadfast-and-repel-evil
+    motif: prayer-addressed-to-the-sun
+    refs: ['CTH 385.10 §11:40', 'CTH 385.10 §19:74', 'CTH 385.10 §19:75', 'CTH 385.10 §19:76']
+    with_refs: ['41:37']
+    relation: response
+    record:
+      agent: [the priest of the Sun goddess, the hearers]
+      action: [goes up on the roof at dawn and speaks facing the Sun, are told not to prostrate to the sun]
+      recipient: [the Sun deity of heaven, the sun and the moon]
+      time: [when it grows light, null]
+      quoted: [dUTU-i menaḫḫanda memai; tuwaddu nepišaš dUTU-ui, lā tasjudū li-sh-shamsi wa-lā li-l-qamar wa-sjudū lillāhi lladhī khalaqahunna]
+    note: '§19:74-76: ''when it grows light (māan lukkatta) the priest goes up onto the house of the Sun goddess of Arinna and speaks facing the Sun (dUTU-i menaḫḫanda)''; the prayer opens ''tuwaddu nepišaš dUTU-ui'', mercy, Sun god of heaven (§11:40). 41:37: the night, the day, the sun and the moon are among his signs: ''lā tasjudū li-sh-shamsi wa-lā li-l-qamar'', do not prostrate to the sun or the moon, prostrate to God who created them.'
+- unit: ane-cth-385-11-analogic-sweet-prayer
+  checked: [quran-14-parables-and-satans-speech, quran-76-the-human, quran-22-disputers-and-waverers, quran-63-munafiqun-propped-timbers]
+  matches: []
+- unit: ane-cth-386-1-nerik-storm-god-summoned
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-2-abrogation-polemic, quran-55-rahman-creation-and-the-two-seas, quran-2-throne-verse]
+  matches:
+  - with: quran-2-throne-verse
+    motif: deity-and-sleep
+    refs: ['CTH 386.1 §2:9', 'CTH 386.1 §2:10']
+    with_refs: ['2:255']
+    relation: response
+    record:
+      agent: [the Storm god of Nerik, God]
+      action: [is woken from pleasant dreams, is not seized by slumber or sleep]
+      instrument: [a pleasant message called like a bird, null]
+      quoted: [šanezziyaz tešḫaz šarā arnuddu (let her wake him from pleasant dreams), lā taʾkhudhuhu sinatun wa-lā nawm]
+    note: '§2:9-10: Zaḫpuna is to call a pleasant message to the Storm god of Nerik ''like a bird'' (MUŠEN GIM-an) ''and wake the Storm god of Nerik from pleasant dreams (šanezziyaz tešḫaz šarā arnuddu)''. 2:255: ''al-ḥayyu l-qayyūmu lā taʾkhudhuhu sinatun wa-lā nawm'', neither slumber nor sleep seizes him.'
+  - with: quran-2-abrogation-polemic
+    motif: where-the-god-is-sunrise-or-sunset
+    refs: ['CTH 386.1 §2:11', 'CTH 386.1 §2:12', 'CTH 386.1 §2:13', 'CTH 386.1 §2:14', 'CTH 386.1 §2:15']
+    with_refs: ['2:115']
+    relation: divergence
+    record:
+      agent: [the Storm god of Nerik, God]
+      place: ['sunrise and sunset, heaven, the dark earth, the mountains', the east and the west]
+      action: [must be called to come from wherever he is, is there wherever you turn]
+      quoted: ['eḫu=wa … ṢĒT dUTU-aš ŠÚ.A dUTU-aš (come … from sunrise, from sunset)', wa-lillāhi l-mashriqu wa-l-maghribu fa-aynamā tuwallū fa-thamma wajhu llāh]
+    note: 'The god''s whereabouts given as sunrise and sunset. Nerik prayer: ''come, Storm god of Nerik, (from) sunrise (and from) sunset (ṢĒT dUTU-aš ŠÚ.A dUTU-aš)! come from heaven!'', ''if you are with the Storm god your father, or if you are down in the dark earth with Ereškigal your mother, come in the morning to your festival''. 2:115: ''to God belong the east and the west; wherever you turn, there is the face of God''. The Hittite god is far off and has to be fetched; God is already facing the worshipper wherever he turns.'
+- unit: ane-cth-386-2-nerik-gentle-rain
+  checked: [quran-7-creation-signs, quran-42-shura-signs-and-ethics, quran-56-waqia-left-hand-and-proofs, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-386-3-nerik-oracles-ignored
+  checked: [quran-7-sinai-theophany, quran-5-jesus-miracles-table, quran-3-sovereignty, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-cth-386-4-nerik-fragment
+  checked: [quran-24-light-verse, quran-4-prayer-intoxication-purity, quran-56-waqia-left-hand-and-proofs]
+  matches: []
+- unit: ane-cth-386-5-nerik-fragment
+  checked: [quran-26-moses-and-pharaoh, quran-10-moses-pharaoh, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-cth-386-6-nerik-fragment
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-3-sovereignty, quran-3-imran-mary-zechariah]
+  matches: []
+- unit: ane-cth-386-7-nerik-fragment
+  checked: [quran-79-pharaoh-and-cosmos, quran-71-noah, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-cth-386-8-nerik-gods-thirsty
+  checked: [quran-6-mercy-judgment, quran-51-dhariyat-flee-to-god, quran-22-signs-and-rites, quran-29-emigrate-and-trust]
+  matches:
+  - with: quran-6-mercy-judgment
+    motif: whether-the-deity-hungers-or-is-fed
+    refs: ['CTH 386.8 §2:5']
+    with_refs: ['6:14']
+    relation: response
+    record:
+      agent: [the gods, God]
+      action: [are thirsty and hungry, feeds and is not fed]
+      quoted: ['kanirwandaš kištuwandaš ḫurdandaš išḫaḫruwandaš (thirsty, hungry, wounded, weeping)', wa-huwa yuṭʿimu wa-lā yuṭʿam]
+    note: '§2:5: ''come, Storm god of Nerik, my lord, away from the thirsty, hungry, wounded, weeping gods (kanirwandaš kištuwandaš ḫurdandaš išḫaḫruwandaš)''. 6:14: ''shall I take a protector other than God, originator of the heavens and the earth, wa-huwa yuṭʿimu wa-lā yuṭʿam'', who feeds and is not fed. Fragmentary: whether the adjectives in §2:5 describe the gods is the editor''s reading.'
+  - with: quran-51-dhariyat-flee-to-god
+    motif: whether-the-deity-hungers-or-is-fed
+    refs: ['CTH 386.8 §2:5']
+    with_refs: ['51:56', '51:57', '51:58']
+    relation: response
+    record:
+      agent: [the gods, God]
+      action: [are thirsty and hungry, wants no provision and no feeding from them]
+      quoted: ['kanirwandaš kištuwandaš (thirsty, hungry)', mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūn]
+    note: '''The thirsty, hungry, wounded, weeping gods'' of the Nerik prayer (§2:5) against 51:57: ''mā urīdu minhum min rizqin wa-mā urīdu an yuṭʿimūn'', I want no provision from them and I do not want them to feed me; 51:58 God is the provider (ar-razzāq).'
+- unit: ane-cth-386-9-nerik-fragment
+  checked: [quran-3-sovereignty, quran-26-abraham, quran-3-badr-uhud]
+  matches: []
+- unit: ane-cth-387-1-mursili-iii-slander-father
+  checked: [quran-49-hujurat-etiquette-and-brotherhood, quran-24-ifk-slander, quran-4-women-orphans-justice, quran-6-final-reckoning]
+  matches: []
+- unit: ane-cth-387-2-mursili-iii-fragment
+  checked: [quran-19-abraham-and-his-father, quran-20-moses-pharaoh-magicians, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-cth-387-3-mursili-iii-fragment
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-cth-387-4-mursili-iii-fragment
+  checked: [quran-4-false-accusation, quran-24-penalties-and-lian, quran-19-abraham-and-his-father]
+  matches: []
+- unit: ane-cth-387-5-mursili-iii-tanuhepa
+  checked: [quran-3-badr-uhud, quran-19-abraham-and-his-father, quran-4-false-accusation, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-cth-390-1-ayatarsa-sick-child
+  checked: [quran-26-abraham, quran-16-daughters-and-the-bee, quran-2-the-cow, quran-6-pagan-offerings-cattle]
+  matches: []
+- unit: ane-cth-390-22-wattitti-entrails
+  checked: [quran-112-114-unity-and-refuge, quran-37-ranks-and-guarded-heaven, quran-100-chargers, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches: []
+- unit: ane-cth-390-33-evil-tongues
+  checked: [quran-20-moses-call, quran-112-114-unity-and-refuge, quran-37-hell-and-garden, quran-7-adam-iblis]
+  matches: []
+- unit: ane-cth-390-36-binding-and-loosing
+  checked: [quran-112-114-unity-and-refuge, quran-20-moses-call, quran-40-throne-bearers, quran-13-signs-of-creation]
+  matches:
+  - with: quran-20-moses-call
+    motif: tongue-bound-and-loosed
+    refs: ['CTH 390 §41:210', 'CTH 390 §44:248']
+    with_refs: ['20:27']
+    relation: echo
+    record:
+      agent: [Kamrušepa, God]
+      action: [looses the child's tongue that was bound, is asked to undo a knot from Moses' tongue]
+      object: [the tongue, the tongue]
+      quoted: [EME-ŠU ḫamikta … EME-ŠU KI.MIN (lāu), wa-ḥlul ʿuqdatan min lisānī]
+    note: 'The child ''was bound as to his tongue (EME-ŠU ḫamikta)'' (§41:210), and the goddess ''shall loose (lā-) him as to his tongue'' (§44:248, KI.MIN for lāu). Moses at Ṭuwā, 20:27: ''wa-ḥlul ʿuqdatan min lisānī'', and undo a knot from my tongue, so that they understand my speech. The tongue is bound in the one and knotted in the other, and in both a god is asked to loose it.'
+- unit: ane-cth-390-47-susumaniga-hasammili
+  checked: [quran-2-food-piety, quran-16-abrogation-food-abraham-sabbath, quran-69-haqqa-books-in-right-and-left-hands]
+  matches: []
+- unit: ane-cth-391-1-1-ambazzi-zarniza
+  checked: [quran-74-cloaked, quran-3-community, quran-40-chains-and-late-faith, quran-37-hell-and-garden]
+  matches: []
+- unit: ane-cth-391-1-13-ambazzi-alauwaima
+  checked: [quran-37-sacrifice-of-son, quran-2-throne-verse, quran-20-judgment-day, quran-34-intercession-and-judgment]
+  matches: []
+- unit: ane-cth-391-1-29-ambazzi-tarpatassa
+  checked: [quran-76-the-human, quran-37-hell-and-garden, quran-3-community]
+  matches: []
+- unit: ane-cth-391-1-44-ambazzi-gate-enemy-land
+  checked: [quran-38-job, quran-37-hell-and-garden, quran-74-cloaked, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches: []
+- unit: ane-cth-391-2-ambazzi-second-version
+  checked: [quran-33-prophets-wives, quran-40-throne-bearers, quran-54-qamar-ad-thamud-lot-pharaoh, quran-13-covenant-and-paradise]
+  matches: []
+- unit: ane-cth-393-1-anniwiyani-lulimi-innarawant
+  checked: [quran-2-the-cow, quran-2-four-birds, quran-76-the-human, quran-54-qamar-moon-split-and-noah]
+  matches: []
+- unit: ane-cth-393-19-anniwiyani-kursa-lamma
+  checked: [quran-3-badr-uhud, quran-76-the-human, quran-56-waqia-left-hand-and-proofs, quran-73-enwrapped]
+  matches: []
+- unit: ane-cth-394-1-ashella-rams-woman
+  checked: [quran-37-sacrifice-of-son, quran-22-abraham-house-pilgrimage, quran-2-the-cow, quran-6-pagan-offerings-cattle]
+  matches:
+  - with: quran-37-sacrifice-of-son
+    motif: substitute-for-a-human-life
+    refs: ['CTH 394 §4:26', 'CTH 394 §4:27', 'CTH 394 §4:28', 'CTH 394 §4:29', 'CTH 394 §4:30']
+    with_refs: ['37:102', '37:107']
+    relation: divergence
+    record:
+      agent: [the officers of the army, God]
+      action: [offer rams in place of human flesh, ransoms the son with a great sacrifice]
+      object: [rams, dhibḥ ʿaẓīm]
+      recipient: [the god who caused the plague, null]
+      quoted: [ŠA AMĒLŪTI UZU pugtaru … kēdaš UDU.ŠIR.ḪI.A waršiyaḫḫut, wa-fadaynāhu bi-dhibḥin ʿaẓīm]
+    note: 'Ašḫella: ''whichever god made this plague, now the rams stand here, very fat in liver, heart and member; let the flesh of mankind be hateful to him again (ŠA AMĒLŪTI UZU pugtaru), be content with these rams''. 37:102-107: Abraham sees in a dream that he slaughters his son, and ''wa-fadaynāhu bi-dhibḥin ʿaẓīm'', we ransomed him with a great sacrifice. In both an animal goes in place of a human life; in Ašḫella people offer it to make an angry god leave men alone, in the Quran God himself provides the ransom for a son he had commanded to be offered.'
+- unit: ane-cth-394-6-ashella-days-two-to-four
+  checked: [quran-2-the-cow, quran-5-two-sons-of-adam, quran-22-abraham-house-pilgrimage, quran-3-misers-mockers]
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: who-consumes-the-sacrifice
+    refs: ['CTH 394 §6:46', 'CTH 394 §6:54', 'CTH 394 §6:55', 'CTH 394 §6:56']
+    with_refs: ['22:28', '22:36', '22:37']
+    relation: divergence
+    record:
+      action: [slaughter rams and he-goats in the open field, slaughter the sacrificial camels]
+      recipient: [the deity alone, the offerers and the poor]
+      quoted: ['DINGIR-LIM-nili ezza eku, antuḫši=ma=wa=za kattan lē pešti', fa-kulū minhā wa-aṭʿimū; lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā]
+      outcome: [nothing is left to man, the flesh and blood do not reach God]
+    note: 'Ašḫella, day two: six rams and six he-goats are driven to the open field and ''slaughtered to the ground (tagān ḫattanzi)'', cooked, and set out with bread and beer: ''O deity, eat and drink in a god''s way (DINGIR-LIM-nili ezza eku) and leave nothing to man (antuḫši=ma … lē pešti)''. 22:36: when the camels ''fall on their sides (wajabat junūbuhā) fa-kulū minhā wa-aṭʿimū l-qāniʿa wa-l-muʿtarr'', eat of them and feed the needy (also 22:28); 22:37: ''lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā'', neither their flesh nor their blood reaches God. The god eats all and man gets nothing, against men and the poor eat and God receives none of the flesh.'
+- unit: ane-cth-395-1-1-hantitassu-years-disturbed
+  checked: [quran-3-covenant-of-prophets, quran-5-war-on-god-theft, quran-37-sacrifice-of-son, quran-6-abraham-heavenly-bodies]
+  matches:
+  - with: quran-3-covenant-of-prophets
+    motif: payment-for-a-life
+    refs: ['CTH 395.1 §9:39', 'CTH 395.1 §9:41', 'CTH 395.1 §9:42']
+    with_refs: ['3:91']
+    relation: divergence
+    record:
+      action: [offers the Sun god gold and stones for the patron's life, would offer an earthful of gold as ransom]
+      object: [gold, lapis, carnelian, all seeds, an earthful of gold]
+      recipient: [the Sun god, God]
+      quoted: ['GUŠKIN dā, EN SISKUR=ma=mu EGIR-pa pāi', fa-lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-lawi ftadā bihi]
+      outcome: [the man is to be given back, not accepted]
+    note: 'Ḫantitaššu''s litany to the Sun god: ''take all the seeds'', ''take the gold (GUŠKIN dā), but give the ritual patron back to me (EN SISKUR=ma=mu EGIR-pa pāi)'', and the same for lapis, carnelian and other stones. 3:91: of those who die as unbelievers ''lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-lawi ftadā bihi'', an earthful of gold would not be accepted from any of them even if he offered it as ransom. Gold is offered to the deity for a man''s life on both sides; the Hittite rite expects the god to take it, the verse says it will not be accepted.'
+- unit: ane-cth-395-1-13-hantitassu-pit-old-gods
+  checked: [quran-2-harut-marut, quran-34-david-solomon, quran-72-jinn, quran-6-signs-in-nature]
+  matches: []
+- unit: ane-cth-395-2-1-hantitassu-version
+  checked: [quran-3-sovereignty, quran-22-abraham-house-pilgrimage, quran-2-war-pilgrimage, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-395-2-2-hantitassu-sun-feast
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-22-abraham-house-pilgrimage, quran-16-abrogation-food-abraham-sabbath, quran-6-mercy-judgment]
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: host-notices-one-missing-from-assembly
+    refs: ['CTH 395.2.2 §2:4', 'CTH 395.2.2 §2:5', 'CTH 395.2.2 §2:9', 'CTH 395.2.2 §2:10', 'CTH 395.2.2 §2:11', 'CTH 395.2.2 §2:12', 'CTH 395.2.2 §2:13']
+    with_refs: ['27:17', '27:20']
+    relation: echo
+    record:
+      agent: [the Sun god, Solomon]
+      action: [invites all the gods and all mortals and finds the ritual patron gone, gathers jinn men and birds and misses the hoopoe]
+      quoted: ['kī=wa kuit … EN.SISKUR=ma mertat (what is this? … but the patron has vanished)', mā liya lā arā l-hudhuda am kāna mina l-ghāʾibīn]
+      outcome: [the gods say they will call him, the hoopoe returns with news]
+    note: 'The Sun god ''invited all the gods, invited all mortals''; then ''thus the Sun god: what is this? I invited all the gods, I invited all mortals, [but the ritual patron] has vanished (mertat)''. 27:17, 27:20: Solomon''s hosts of jinn, men and birds are gathered, he inspects the birds and says ''mā liya lā arā l-hudhuda am kāna mina l-ghāʾibīn'', why do I not see the hoopoe, or is he among the absent? The patron''s name in §2:13 is restored; mertat ''vanished'' is preserved.'
+- unit: ane-cth-395-3-1-hantitassu-atta
+  checked: [quran-41-steadfast-and-repel-evil, quran-39-pure-religion, quran-76-the-human]
+  matches: []
+- unit: ane-cth-395-3-2-hantitassu-fragment
+  checked: [quran-75-resurrection, quran-41-steadfast-and-repel-evil, quran-76-the-human]
+  matches: []
+- unit: ane-cth-395-4-hantitassu-fragment
+  checked: [quran-28-destroyed-towns-and-judgment, quran-22-abraham-house-pilgrimage, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-396-1-1-hatiya-wisuriyant
+  checked: [quran-2-harut-marut, quran-112-114-unity-and-refuge, quran-4-prophets-and-trinity, quran-3-food-bakka]
+  matches: []
+- unit: ane-cth-396-1-7-hatiya-meal-return
+  checked: [quran-3-misers-mockers, quran-50-qaf-two-recorders-and-hell-asks-more, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-cth-396-1-2-wishuriyant-offerings
+  checked: [quran-22-abraham-house-pilgrimage, quran-6-pagan-offerings-cattle, quran-16-abrogation-food-abraham-sabbath]
+  matches: []
+- unit: ane-cth-396-2-wishuriyant-river
+  checked: [quran-11-opening-throne-on-water, quran-74-cloaked, quran-82-cleaving]
+  matches: []
+- unit: ane-cth-396-3-wishuriyant-meal
+  checked: [quran-22-abraham-house-pilgrimage, quran-6-pagan-offerings-cattle, quran-16-abrogation-food-abraham-sabbath]
+  matches: []
+- unit: ane-cth-397-1-hepattarakki-dough-figures
+  checked: [quran-35-heirs-of-book, quran-112-114-unity-and-refuge, quran-20-moses-pharaoh-magicians, quran-74-cloaked]
+  matches:
+  - with: quran-35-heirs-of-book
+    motif: evil-plot-recoils-on-its-author
+    refs: ['CTH 397 §4:20', 'CTH 397 §4:21', 'CTH 397 §5:24', 'CTH 397 §5:26', 'CTH 397 §5:27']
+    with_refs: ['35:43']
+    relation: divergence
+    record:
+      agent: [the Old Woman Ḫepattarakki, God's way (sunnat allāh)]
+      action: [throws the sorcery back onto the sorcerer, the evil plot encompasses only its people]
+      object: [sorcery and the fire in the head, the evil plot]
+      quoted: [šarā alwanzeni UN-ši peššiškimi (I throw it up onto the sorcerer), wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi]
+    note: 'Ḫepattarakki: ''the fire in your head I quenched, I made it burn in the head of the sorcerer (alwanzeni UN-ši SAG.DU-i warnunun)''; ''whoever put it on you as evil, now I pull you away, throw it off and throw it up onto the sorcerer''. 35:43: ''wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi'', the evil plot encompasses none but its own authors, this is the way of the ancients that does not change. The evil returns to its doer; in the rite the practitioner sends it back, in the Quran it happens by God''s unchanging way.'
+- unit: ane-cth-397-2-hepattarakki-fragments-colophon
+  checked: [quran-112-114-unity-and-refuge, quran-2-harut-marut, quran-84-splitting, quran-100-chargers]
+  matches: []
+- unit: ane-cth-398-1-huwarlu-clay-birds
+  checked: [quran-17-book-of-deeds, quran-27-salih-nine-plotters, quran-74-cloaked, quran-44-dukhan-zaqqum-and-garden]
+  matches:
+  - with: quran-27-salih-nine-plotters
+    motif: bird-omen-attached-to-a-person
+    refs: ['CTH 398 §1:2', 'CTH 398 §3:20', 'CTH 398 §3:22']
+    with_refs: ['27:47']
+    relation: divergence
+    record:
+      agent: [the augur and the Old Woman, Ṣāliḥ]
+      action: [quench the terrible birds by a rite, answers that the bird-omen is with God]
+      object: [the terrible birds (ill omens), the ill omen (ṭāʾir)]
+      quoted: [ḫatugauš MUŠEN.ḪI.A kištanutten (quench the terrible birds), iṭṭayyarnā bika … ṭāʾirukum ʿinda llāh]
+      outcome: [the evil words and birds are extinguished like the roasted seeds, they are a people being tried]
+    note: 'Ḫuwarlu the augur: ''if there are terrible birds (ḫatugaēš MUŠEN.ḪI.A)'', clay birds are made and sealed in oil bowls, seeds roasted and quenched, and ''quench the terrible birds! as these seeds are quenched, so may the evil words and the terrible birds be quenched''. 27:47: Thamūd say ''iṭṭayyarnā bika'', we take you for an ill omen (literally: we take bird-omen of you), and Ṣāliḥ answers ''ṭāʾirukum ʿinda llāh'', your bird (omen) is with God. Bird as omen on both sides; the rite disposes of it, the prophet places it with God.'
+  - with: quran-17-book-of-deeds
+    motif: bird-omen-attached-to-a-person
+    refs: ['CTH 398 §1:2', 'CTH 398 §3:22']
+    with_refs: ['17:13']
+    relation: divergence
+    record:
+      object: [the terrible birds, each man's bird (ṭāʾir)]
+      action: [are quenched and sent out of the palace, is fastened on his neck]
+      quoted: [ḫatugaēš MUŠEN.ḪI.A, wa-kulla insānin alzamnāhu ṭāʾirahu fī ʿunuqihi]
+      outcome: [removed by the rite, brought out as a book on the Day of Resurrection]
+    note: 'The ''terrible birds'' of ill omen are quenched and thrust out of the palace by the gods'' heralds (§3:16-22). 17:13: ''wa-kulla insānin alzamnāhu ṭāʾirahu fī ʿunuqihi'', every man''s bird we have fastened on his neck, and on the Day of Resurrection it is brought out as a book spread open. The bird-omen that a rite can remove is, in the verse, bound to the person and becomes his record.'
+- unit: ane-cth-398-2-huwarlu-puppy-cords-soap
+  checked: [quran-74-cloaked, quran-8-badr-help, quran-5-ablution-covenant-justice, quran-76-the-human, quran-18-companions-of-the-cave]
+  matches:
+  - with: quran-18-companions-of-the-cave
+    motif: dog-guards-the-entrance-of-sleepers
+    refs: ['CTH 398 §5:26', 'CTH 398 §5:27', 'CTH 398 §5:30', 'CTH 398 §5:31']
+    with_refs: ['18:18']
+    relation: echo
+    record:
+      agent: [a puppy of tallow, their dog]
+      place: [on the bolt-wood of the palace door, at the threshold of the cave]
+      time: [this night, while they sleep]
+      quoted: [GIŠḫatalwaš GIŠ-rui tianzi … GE6-anti … anda lē tarnatti, wa-kalbuhum bāsiṭun dhirāʿayhi bi-l-waṣīd]
+    note: 'Ḫuwarlu: a puppy of tallow is set on the bolt-wood of the palace and told ''you are the table-puppy of the king and queen; as by day you let no other person into the house, so this night do not let the evil matter in''. 18:18: the sleepers seem awake though they sleep, ''wa-kalbuhum bāsiṭun dhirāʿayhi bi-l-waṣīd'', their dog stretching its forelegs at the threshold, and whoever looked on them would flee in terror.'
+- unit: ane-cth-398-3-huwarlu-puppy-carrier
+  checked: [quran-6-final-reckoning, quran-3-sovereignty, quran-15-iblis, quran-100-chargers]
+  matches: []
+- unit: ane-cth-398-4-huwarlu-gates-goat-sun
+  checked: [quran-17-book-of-deeds, quran-27-salih-nine-plotters, quran-41-steadfast-and-repel-evil, quran-15-iblis]
+  matches: []
+- unit: ane-cth-399-jarri-house-impurity
+  checked: [quran-5-two-sons-of-adam, quran-2-the-cow, quran-22-abraham-house-pilgrimage, quran-74-cloaked]
+  matches: []
+- unit: ane-cth-400-1-iriya-riverbank-ancient-gods
+  checked: [quran-2-the-cow, quran-5-two-sons-of-adam, quran-47-muhammad-battle-and-rivers, quran-89-dawn]
+  matches: []
+- unit: ane-cth-400-1-iriya-waters-frog
+  checked: [quran-33-hour-and-trust, quran-41-fussilat-creation, quran-7-moses-pharaoh, quran-54-qamar-moon-split-and-noah]
+  matches: []
+- unit: ane-cth-400-1-iriya-goat-bird-eagle
+  checked: [quran-22-abraham-house-pilgrimage, quran-4-hypocrites-wavering, quran-81-folding-up, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-cth-401-1-banippi-tongue
+  checked: [quran-24-ifk-slander, quran-49-hujurat-etiquette-and-brotherhood, quran-102-104-rivalry-time-slanderer, quran-7-adam-iblis]
+  matches: []
+- unit: ane-cth-401-1-banippi-mountains-answer
+  checked: [quran-33-hour-and-trust, quran-59-hashr-hypocrites-and-the-names, quran-34-david-solomon, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-cth-401-1-banippi-tents-burned
+  checked: [quran-2-war-pilgrimage, quran-67-mulk-heavens-lamps-and-hell, quran-74-cloaked, quran-37-hell-and-garden]
+  matches: []
+- unit: ane-cth-401-2-mountains-tongue-tears
+  checked: [quran-4-hypocrites-wavering, quran-79-pharaoh-and-cosmos, quran-54-qamar-ad-thamud-lot-pharaoh, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-cth-401-2-springs-frog-water
+  checked: [quran-13-signs-of-creation, quran-54-qamar-moon-split-and-noah, quran-47-muhammad-battle-and-rivers, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth-401-2-eagle-falcon-king
+  checked: [quran-5-contracts-food-laws, quran-85-constellations, quran-79-pharaoh-and-cosmos, quran-81-folding-up]
+  matches: []
+- unit: ane-cth-401-3-ancient-gods-goat-bird
+  checked: [quran-35-originator, quran-16-blessings-of-creation, quran-78-the-tiding]
+  matches: []
+- unit: ane-cth-401-4-surasura-fragment
+  checked: [quran-22-signs-and-rites, quran-3-sovereignty, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-401-5-city-plague-gate
+  checked: [quran-7-moses-pharaoh, quran-43-zukhruf-abraham-and-silver-roofs, quran-89-dawn]
+  matches: []
+- unit: ane-cth-401-6-pegs-red-wool
+  checked: [quran-4-fighting-and-death, quran-37-ranks-and-guarded-heaven, quran-39-sincere-servant]
+  matches: []
+- unit: ane-cth-401-7-enlil-tongue
+  checked: [quran-7-towns-pattern, quran-59-hashr-banu-nadir-and-fay, quran-89-dawn]
+  matches: []
+- unit: ane-cth-402-1-alli-figurines-tongues
+  checked: [quran-112-114-unity-and-refuge, quran-2-harut-marut, quran-35-heirs-of-book, quran-6-final-reckoning]
+  matches:
+  - with: quran-35-heirs-of-book
+    motif: evil-plot-recoils-on-its-author
+    refs: ['CTH 402 §4:23', 'CTH 402 §4:24', 'CTH 402 §4:25', 'CTH 402 §6:39']
+    with_refs: ['35:43']
+    relation: divergence
+    record:
+      agent: [the Old Woman Alli, God's way (sunnat allāh)]
+      action: [makes the sorcery go back to its owner, the evil plot encompasses only its people]
+      quoted: [nat EGIR-pa BE-LÍ-ŠU paiddu (let it go back to its owner), illā bi-ahlihi]
+    note: 'Alli: if a man bewitched this person ''he is carrying it all on his back; let him take it back (EGIR-pa dāu)''; ''let it go back to its owner (EGIR-pa BE-LÍ-ŠU paiddu)''. 35:43: ''wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi'', the evil plot encompasses only its own people (ahl, its owners).'
+- unit: ane-cth-402-2-alli-coloured-threads
+  checked: [quran-112-114-unity-and-refuge, quran-2-harut-marut, quran-24-ifk-slander, quran-37-hell-and-garden]
+  matches:
+  - with: quran-112-114-unity-and-refuge
+    motif: sorcery-works-by-binding
+    refs: ['CTH 402 §13:83', 'CTH 402 §13:84', 'CTH 402 §13:85']
+    with_refs: ['113:4']
+    relation: echo
+    record:
+      agent: [whoever bewitched and bound him, the women who blow on knots]
+      action: [bound the patient by sorcery, blow on knots]
+      quoted: ['kuiš=an alwanzaḫḫiškit kuiš=an ašareškit (who bewitched him, who bound him)', an-naffāthāti fī l-ʿuqad]
+      outcome: [the binding is taken off every limb and returned to its owner, refuge is sought from their evil]
+    note: 'Alli, with a white woollen thread: ''whoever bewitched him, whoever bound him (ašareškit), now I take it off all his limbs and give it back to its owner''. 113:4: refuge ''min sharri n-naffāthāti fī l-ʿuqad'', from the evil of those who blow on knots. Sorcery as binding on both sides; the Hittite verb ašare- is rendered ''entraver'' (fetter) by the edition.'
+- unit: ane-cth-402-3-alli-burial-roads-gate
+  checked: [quran-112-114-unity-and-refuge, quran-20-moses-pharaoh-magicians, quran-73-enwrapped, quran-23-death-barzakh-judgment]
+  matches: []
+- unit: ane-cth-402-4-alli-bed-basket-wax
+  checked: [quran-112-114-unity-and-refuge, quran-75-resurrection, quran-15-iblis, quran-76-the-human]
+  matches: []
+- unit: ane-cth-402-5-alli-bath-river-meal
+  checked: [quran-5-ablution-covenant-justice, quran-4-prayer-intoxication-purity, quran-22-abraham-house-pilgrimage, quran-47-muhammad-battle-and-rivers]
+  matches: []
+- unit: ane-cth-403-1-mallidunna-sun-eyes
+  checked: [quran-6-abraham-heavenly-bodies, quran-41-steadfast-and-repel-evil, quran-40-throne-bearers, quran-25-signs-shadow-seas]
+  matches:
+  - with: quran-6-abraham-heavenly-bodies
+    motif: setting-of-the-sun
+    refs: ['CTH 403.1 §6:27', 'CTH 403.1 §6:28', 'CTH 403.1 §8:42', 'CTH 403.1 §8:43', 'CTH 403.1 §8:45']
+    with_refs: ['6:78']
+    relation: divergence
+    record:
+      agent: [the Sun deity, the sun]
+      action: [goes down, sets]
+      quoted: [dUTU-uš=kan paizzi … 9 GIŠzupparu lukkanzi, fa-lammā afalat qāla yā qawmi innī barīʾun mimmā tushrikūn]
+      outcome: [nine torches are lit and the rite goes on, Abraham disowns what they associate with God]
+    note: 'Mallidunna''s rite for the Sun: ''the Sun deity goes (dUTU-uš=kan paizzi); [they] light nine torches (9 GIŠzupparu lukkanzi)'', ''as soon as the Sun deity [goes] down (katta)''. 6:78: Abraham sees the sun rising, ''this is my lord, this is greater'', ''fa-lammā afalat'', and when it set he said ''my people, I am free of what you associate''. The sun-god''s going down is met with torches in the rite and is the reason to reject it as lord in the verse.'
+- unit: ane-cth-403-2-mallidunna-hannahanna
+  checked: [quran-42-shura-judgment-and-divine-speech, quran-16-daughters-and-the-bee, quran-5-jesus-miracles-table, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-cth-403-3-1-sun-offerings-recognise
+  checked: [quran-2-qibla, quran-5-jesus-miracles-table, quran-22-abraham-house-pilgrimage, quran-3-sovereignty]
+  matches:
+  - with: quran-2-qibla
+    motif: recognised-as-parents-recognise-their-sons
+    refs: ['CTH 403.3.1 §3:19', 'CTH 403.3.1 §3:20', 'CTH 403.3.1 §3:21', 'CTH 403.3.1 §3:22']
+    with_refs: ['2:146']
+    relation: echo
+    record:
+      agent: [the Sun god, those given the Book]
+      action: [is to recognise the king, recognise him]
+      quoted: [attaš annaš … DUMU-ŠUNU kaneššanzi (as father and mother recognise their sons), yaʿrifūnahu kamā yaʿrifūna abnāʾahum]
+    note: '''As the sheep recognises (kanešzi) the lamb, as [the cow] recognises its calf, as father and mother recognise their sons (DUMU-ŠUNU kaneššanzi), so you, Sun god, keep the king, [the queen] and the princes recognised''. 2:146: those given the Book ''yaʿrifūnahu kamā yaʿrifūna abnāʾahum'', recognise him as they recognise their own sons, yet some of them hide the truth. The same simile of parents'' recognition of their sons.'
+- unit: ane-cth-403-3-2-sun-offerings-parallel
+  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-5-jesus-miracles-table]
+  matches: []
+- unit: ane-cth-404-1-1-mashtigga-incipit-materials
+  checked: [quran-49-hujurat-etiquette-and-brotherhood, quran-4-wealth-household, quran-8-fifth-and-badr-vision, quran-2-harut-marut]
+  matches: []
+- unit: ane-cth-404-1-1-mashtigga-tongues-cut
+  checked: [quran-49-hujurat-etiquette-and-brotherhood, quran-102-104-rivalry-time-slanderer, quran-20-moses-call, quran-5-ablution-covenant-justice]
+  matches: []
+- unit: ane-cth-404-1-1-mashtigga-sheep-piglet-substitutes
+  checked: [quran-37-sacrifice-of-son, quran-2-the-cow, quran-22-abraham-house-pilgrimage, quran-6-final-reckoning]
+  matches:
+  - with: quran-37-sacrifice-of-son
+    motif: substitute-for-a-human-life
+    refs: ['CTH 404.1.I §20:93', 'CTH 404.1.I §20:94', 'CTH 404.1.I §20:96', 'CTH 404.1.I §20:97']
+    with_refs: ['37:107']
+    relation: divergence
+    record:
+      agent: [the Old Woman, God]
+      action: [declares a sheep the substitute for the patients' persons, ransoms the son with a great sacrifice]
+      object: [a sheep, dhibḥ ʿaẓīm]
+      quoted: [kāša=wa=šmaš tarpalliš … tuekkaš tarpalliš ēštu, wa-fadaynāhu bi-dhibḥin ʿaẓīm]
+      outcome: [the curses go into its mouth and it is slaughtered into a pit, the son is spared]
+    note: '§20:93-97: a sheep is brought, the Old Woman holds it over the two patients and says ''here is your substitute (tarpalliš); let it be the substitute of your persons (tuekkaš tarpalliš)''. 37:107: ''wa-fadaynāhu bi-dhibḥin ʿaẓīm'', we ransomed him with a great sacrifice. An animal for a person in both; the Hittite substitute takes on the curses, the Quranic one is a ransom God gives.'
