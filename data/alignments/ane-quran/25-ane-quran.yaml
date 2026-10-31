@@ -1,5 +1,11 @@
 # ANE x Quran side-by-side pass, chunk 25 (Sinuhe, Two Brothers, Truth and Falsehood, Westcar, Hittite: Anitta, Telipinu, treaties). Judged blind, from the originals.
-new_motifs: {}
+new_motifs:
+  grounds-for-refusing-the-masters-wife: {label: "The grounds the young man gives for refusing his master's wife [neutral]", cluster: narrative}
+  silence-imposed-on-the-seduction: {label: "Someone undertakes or orders that the attempted seduction be kept quiet [neutral]", cluster: narrative}
+  penalty-demanded-by-the-accusing-wife: {label: "The penalty the accusing wife demands for the youth [neutral]", cluster: narrative}
+  evidence-in-the-seduction-charge: {label: "The physical evidence produced in the seduction charge [neutral]", cluster: narrative}
+  prayer-of-the-falsely-accused-youth: {label: "The falsely accused youth prays and his god answers [neutral]", cluster: narrative}
+  husbands-judgment-on-the-lying-wife: {label: "What the husband does to the wife once her lie is known [neutral]", cluster: narrative}
 reviewed:
 - unit: ane-sinuhe-w1-duel-with-champion
   checked: [quran-26-noah, quran-12-joseph-full, quran-10-noah]
@@ -84,22 +90,135 @@ reviewed:
   matches: []
 - unit: ane-twobrothers-seduction-attempt
   checked: [quran-12-joseph-full, quran-20-moses-favors-recalled, quran-4-marriage-forbidden-degrees, quran-7-lot]
-  matches: []
+  matches:
+  - with: quran-12-joseph-full
+    motif: masters-wife-seduces
+    refs: ["TwoBrothers 3_5", "TwoBrothers 3_7", "TwoBrothers 3_7/3"]
+    with_refs: ["12:23"]
+    relation: parallel
+    record:
+      agent: ["the wife of the master of the house", "the wife of the master of the house"]
+      action: ["solicits the young man of the house", "solicits the young man of the house"]
+      recipient: [Bata, Yūsuf]
+      place: ["the house, he alone with her", "her house, the doors locked"]
+      quoted: ["mꜥ~j jry =n n =n wnw,t sḏr =n", "wa-rāwadathu llatī huwa fī baytihā ʿan nafsihi wa-ghallaqati l-abwāba wa-qālat hayta lak"]
+    note: "The wife of Anubis, in whose household Bata lives as son and servant, seizes him (jw =st ḥr mḥ jm =f) and says 'come, let us spend an hour lying together' (3_7/3), promising him fine clothes. Q 12:23: 'she in whose house he was solicited him (rāwadathu) ... locked the doors and said: come (hayta lak)'. Same act by the same figure, the mistress of the house to the young man living in it."
+  - with: quran-12-joseph-full
+    motif: grounds-for-refusing-the-masters-wife
+    refs: ["TwoBrothers 3_9/2", "TwoBrothers 3_10", "TwoBrothers 3_10/2", "TwoBrothers 3_10/3"]
+    with_refs: ["12:23"]
+    relation: divergence
+    record:
+      agent: [Bata, Yūsuf]
+      action: ["refuses, citing the husband's kindness to him", "refuses, citing God and his master's kindness to him"]
+      name: [null, Allāh]
+      quoted: ["ḫr pꜣ ꜥꜣ r =j mntwf sḫpr wj; jḫ pꜣj btꜣ,w ꜥꜣ", "maʿādha llāhi innahu rabbī aḥsana mathwāya innahu lā yufliḥu ẓ-ẓālimūn"]
+    note: "Bata: 'you are like a mother to me, your husband like a father; he who is older than I raised me (sḫpr wj). What is this great crime (btꜣ,w ꜥꜣ)?' (3_9/2-3_10/3). Yūsuf: 'God's refuge! He is my lord (rabbī), he made my lodging good (aḥsana mathwāya); wrongdoers do not prosper' (12:23). Both refusals rest on the husband's past kindness to the youth; the Quran adds the refuge in God, the Egyptian adds the mother-and-father kinship and names no god."
+  - with: quran-12-joseph-full
+    motif: silence-imposed-on-the-seduction
+    refs: ["TwoBrothers 4_1", "TwoBrothers 4_1/2", "TwoBrothers 4_1/3"]
+    with_refs: ["12:29"]
+    relation: divergence
+    record:
+      agent: [Bata, "the husband (al-ʿazīz)"]
+      action: ["promises to tell no one", "tells Yūsuf to let the matter pass"]
+      time: ["at once, before any accusation", "after the shirt has shown her guilt"]
+      quoted: ["m-jri̯ ḏd.ṱ =f n =j ꜥn ḫr nn jw =j r ḏd.ṱ =f n wꜥ", "Yūsufu aʿriḍ ʿan hādhā"]
+    note: "Bata to the wife: 'do not say it to me again, and I will not tell it to anyone' (4_1-4_1/3). In Q 12:29 it is the husband, once the shirt has convicted her, who says 'Yūsuf, turn away from this' and tells her to ask forgiveness. The same hushing of the affair, moved from the youth (before the lie) to the master (after the proof)."
 - unit: ane-twobrothers-false-accusation
   checked: [quran-12-joseph-full, quran-24-penalties-and-lian, quran-24-ifk-slander, quran-4-marriage-forbidden-degrees]
-  matches: []
+  matches:
+  - with: quran-12-joseph-full
+    motif: false-accusation-by-wife
+    refs: ["TwoBrothers 4_7", "TwoBrothers 4_10/4", "TwoBrothers 5_1", "TwoBrothers 5_1/3", "TwoBrothers 5_3/4"]
+    with_refs: ["12:25"]
+    relation: parallel
+    record:
+      agent: ["the wife", "the wife"]
+      action: ["accuses the youth to her husband of seeking to lie with her", "accuses the youth to her husband of intending evil to his wife"]
+      recipient: [Anubis, "her master (sayyidahā)"]
+      quoted: ["m pꜣy =k sn šrj ... mꜥ~j jry =n wnw,t sḏr =n", "mā jazāʾu man arāda bi-ahlika sūʾan"]
+    note: "Anubis's wife puts her own proposal in Bata's mouth ('he said to me: come, let us spend an hour lying together', 5_1/3) and her own refusal in hers; Q 12:25 she turns at once to her husband: 'what is the recompense of one who intended evil to your household?'. The same reversal of the proposition by the wife before the husband."
+  - with: quran-12-joseph-full
+    motif: penalty-demanded-by-the-accusing-wife
+    refs: ["TwoBrothers 5_3/3"]
+    with_refs: ["12:25"]
+    relation: divergence
+    record:
+      agent: ["the wife", "the wife"]
+      action: ["demands the youth's death", "demands prison or a painful punishment"]
+      quoted: ["ḫr jr ḏi̯ =k ꜥnḫ =f jw =j r mt n =j", "illā an yusjana aw ʿadhābun alīm"]
+      outcome: ["the husband goes to kill him", "the husband examines the shirt"]
+    note: "'If you let him live, I will kill myself' (5_3/3): Anubis sharpens his spear. In 12:25 the wife names the sentence herself, 'only that he be imprisoned or a painful punishment', and it is prison that he later gets (12:35). Same demand, death against prison."
+  - with: quran-12-joseph-full
+    motif: evidence-in-the-seduction-charge
+    refs: ["TwoBrothers 4_6", "TwoBrothers 4_6/2", "TwoBrothers 4_8/2"]
+    with_refs: ["12:25", "12:26", "12:27", "12:28"]
+    relation: divergence
+    record:
+      agent: ["the wife", "a witness of her household"]
+      object: ["fat and a bandage: a feigned beating", "the shirt torn from behind"]
+      outcome: ["the husband believes her", "the shirt convicts her"]
+      quoted: ["wn.jn =sst ḥr jni̯ [ꜥ]d,w pd~jrʾ; jw =st ḥr ḫpr mj n,tj qnqn.tj n ꜥḏꜣ,w", "in kāna qamīṣuhu qudda min qubulin fa-ṣadaqat ... wa-in kāna qamīṣuhu qudda min duburin fa-kadhabat"]
+    note: "The wife fakes the evidence: she takes fat (ꜥḏ) and a bandage and makes herself 'like one wrongly beaten' (4_6-4_6/2), lying in the dark when Anubis comes home. In Q 12:25-28 the physical evidence is real and decides against her: the shirt torn from behind (qudda min duburin), read by a witness of her own household. One forged bodily sign that convinces; one true garment sign that acquits."
 - unit: ane-twobrothers-rage-and-flight
   checked: [quran-12-joseph-full, quran-5-two-sons-of-adam, quran-26-noah]
   matches: []
 - unit: ane-twobrothers-gods-intervention
   checked: [quran-12-joseph-full, quran-4-false-accusation, quran-54-qamar-ad-thamud-lot-pharaoh, quran-17-iblis-and-adam]
-  matches: []
+  matches:
+  - with: quran-12-joseph-full
+    motif: accused-hero-gives-his-own-account
+    refs: ["TwoBrothers 7_5/3", "TwoBrothers 7_6", "TwoBrothers 7_6/2"]
+    with_refs: ["12:26"]
+    relation: parallel
+    record:
+      agent: [Bata, Yūsuf]
+      action: ["answers the charge: it was she who solicited him", "answers the charge: it was she who solicited him"]
+      recipient: [Anubis, "her husband"]
+      quoted: ["tꜣy =k ḥm,t ḥr ḏd n =j mꜥ~j jry =n wnw,t sḏr =n ... pnꜥ =st sw n =k m ktḫ", "hiya rāwadatnī ʿan nafsī"]
+    note: "Bata across the water at sunrise: 'your wife said to me: come, let us spend an hour lying together; see, she has turned it round (pnꜥ) for you into something else' (7_5/3-7_6/2). Yūsuf at the door: 'it was she who solicited me' (hiya rāwadatnī ʿan nafsī, 12:26). The youth's one-line counter-charge, turning the accusation back on the wife."
+  - with: quran-12-joseph-full
+    motif: prayer-of-the-falsely-accused-youth
+    refs: ["TwoBrothers 6_4", "TwoBrothers 6_5", "TwoBrothers 6_5/2", "TwoBrothers 6_6"]
+    with_refs: ["12:33", "12:34"]
+    relation: divergence
+    record:
+      agent: [Bata, Yūsuf]
+      recipient: [Re-Harakhti, "his Lord"]
+      action: ["prays for rescue from the pursuer", "prays to be kept from the women's guile, prison being dearer"]
+      quoted: ["pꜣy =j nb nfr mntk pꜣ n,tj ḥr wpw.t pꜣ ꜥḏꜣ,w r pꜣ mꜣꜥ,tj; ꜥḥꜥ.n Pꜣ-Rꜥ ḥr sḏm spr,w =f nb", "rabbi s-sijnu aḥabbu ilayya ... fa-stajāba lahu rabbuhu fa-ṣarafa ʿanhu kaydahunna"]
+      outcome: ["a crocodile-filled water is put between the brothers", "God turns the women's guile away from him"]
+    note: "Bata: 'my good lord, you are the one who separates the wrongdoer from the righteous', and 'Pre heard all his pleas' (6_5-6_5/2) and set a crocodile water between them. Yūsuf: 'my Lord, prison is dearer to me than what they call me to', and 'his Lord answered him (fa-stajāba) and turned their guile from him' (12:33-34). The same answered prayer of the slandered youth; in Egypt it saves him from the husband, in the Quran from the women."
 - unit: ane-twobrothers-oath-mutilation-heart
   checked: [quran-12-joseph-full, quran-5-two-sons-of-adam, quran-26-noah]
-  matches: []
+  matches:
+  - with: quran-12-joseph-full
+    motif: husbands-judgment-on-the-lying-wife
+    refs: ["TwoBrothers 8_7/2", "TwoBrothers 8_8"]
+    with_refs: ["12:28", "12:29"]
+    relation: divergence
+    record:
+      agent: [Anubis, "the husband (al-ʿazīz)"]
+      action: ["kills his wife and throws her to the dogs", "tells his wife to ask forgiveness for her sin"]
+      quoted: ["jw =f ḥr ẖdb tꜣy =f ḥm,t; jw =f ḥr ḫꜣꜥ =st n nꜣ jw.w", "innahu min kaydikunna ... wa-stghfirī li-dhanbiki innaki kunti mina l-khāṭiʾīn"]
+      outcome: ["death", "rebuke only"]
+    note: "Convinced of Bata's innocence, Anubis goes home, 'killed his wife and cast her to the dogs' (8_7/2-8_8). The husband in Q 12:28-29, convinced by the shirt, says 'this is of your guile (kaydikunna)... ask forgiveness for your sin, you were among the sinners', and she stays in the house (12:30-32, 12:51). The same husband's verdict on the false accuser, death against a rebuke."
 - unit: ane-twobrothers-valley-of-cedar-and-new-wife
-  checked: [quran-57-hadid-iron-and-monasticism, quran-16-daughters-and-the-bee, quran-12-joseph-full, quran-4-creation-kinship-orphans]
-  matches: []
+  checked: [quran-57-hadid-iron-and-monasticism, quran-16-daughters-and-the-bee, quran-12-joseph-full, quran-4-creation-kinship-orphans, quran-7-single-soul-idols]
+  matches:
+  - with: quran-7-single-soul-idols
+    motif: origin-and-purpose-of-the-human-mate
+    refs: ["TwoBrothers 9_6", "TwoBrothers 9_6/2", "TwoBrothers 9_7"]
+    with_refs: ["7:189"]
+    relation: divergence
+    record:
+      agent: ["Khnum, at Re-Harakhti's word", God]
+      action: ["fashions a wife for the man, that he not dwell alone", "makes from the one soul its mate, that he may dwell with her"]
+      recipient: [Bata, "the single soul"]
+      quoted: ["jḫ qd =k wꜥ-n s,t-ḥm,t n Bꜣ~tʾ tm =f ḥmsi̯ wꜥi̯", "wa-jaʿala minhā zawjahā li-yaskuna ilayhā"]
+      outcome: ["she betrays him", "the couple ascribe partners to God (7:190)"]
+    note: "Re-Harakhti to Khnum: 'fashion a woman for Bata so that he does not dwell (ḥmsi̯) alone' (9_6/2); Khnum makes her more beautiful than any woman. Q 7:189: God 'made from it its mate that he might dwell (li-yaskuna) with her'. A god makes a wife for a lone man for the purpose of companionship. Here she is made from nothing named, for one hero; in the Quran from the first soul itself, for all humankind. Both couples then go wrong: the wife betrays Bata's heart, and the couple of 7:190 'ascribe partners'."
 - unit: ane-twobrothers-lock-of-hair-and-death
   checked: [quran-27-solomon-ants-hoopoe-sheba, quran-33-marriage-rules, quran-66-tahrim-wives-and-the-four-women]
   matches: []
@@ -108,7 +227,19 @@ reviewed:
   matches: []
 - unit: ane-twobrothers-bull-at-court
   checked: [quran-12-joseph-full, quran-26-noah, quran-18-moses-and-the-servant]
-  matches: []
+  matches:
+  - with: quran-12-joseph-full
+    motif: hero-reveals-identity
+    refs: ["TwoBrothers 15_8/2", "TwoBrothers 15_9", "TwoBrothers 15_9/3", "TwoBrothers 15_9/4", "TwoBrothers 15_10"]
+    with_refs: ["12:89", "12:90"]
+    relation: divergence
+    record:
+      agent: [Bata, Yūsuf]
+      action: ["reveals himself to the one who wronged him, naming the wrong", "reveals himself to those who wronged him, naming the wrong"]
+      recipient: ["his wife", "his brothers"]
+      quoted: ["ptrj tw≡j ꜥnḫ.kwj m-rʾ-ꜥ ... jnk Bꜣ~tʾ", "a-innaka la-anta Yūsufu qāla ana Yūsufu"]
+      outcome: ["she is afraid and plots his death again", "he forgives them (12:92)"]
+    note: "Bata as a bull to his wife: 'See, I am still alive.' 'Who are you?' 'I am Bata. I know that when you had the cedar felled it was to keep me from living' (15_8/2-15_10). Yūsuf to his brothers: 'do you know what you did to Yūsuf?' 'Are you indeed Yūsuf?' 'I am Yūsuf' (12:89-90). The question 'who are you / are you he?', the answer 'I am N.' and the naming of the past wrong are shared; the outcome is opposite: renewed plotting against forgiveness."
 - unit: ane-twobrothers-persea-trees-and-conception
   checked: [quran-19-mary-and-jesus, quran-16-daughters-and-the-bee, quran-20-adam-iblis, quran-54-qamar-ad-thamud-lot-pharaoh]
   matches: []

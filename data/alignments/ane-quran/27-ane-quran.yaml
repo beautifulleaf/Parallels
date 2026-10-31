@@ -1,0 +1,264 @@
+# ANE x Quran side-by-side pass, chunk 27 (Hittite: CTH 264 temple instructions, Illuyanka, vanished-god myths CTH 322-334). Judged blind, from the originals.
+new_motifs: {}
+reviewed:
+- unit: ane-cth-264-c-festivals-and-offerings
+  checked: [quran-9-uzayr-clergy, quran-6-pagan-offerings-cattle, quran-22-abraham-house-pilgrimage, quran-9-mosques-and-kin]
+  matches: []
+- unit: ane-cth-264-d-silent-god-strong-will
+  checked: [quran-11-pharaoh-leads, quran-85-constellations, quran-35-heirs-of-book, quran-3-misers-mockers]
+  matches: []
+- unit: ane-cth-264-e-temple-valuables
+  checked: [quran-3-badr-uhud, quran-9-bargain-abraham, quran-26-abraham, quran-3-misers-mockers]
+  matches: []
+- unit: ane-cth-264-f-festivals-on-time
+  checked: [quran-9-months-nasi, quran-2-war-pilgrimage, quran-24-light-verse, quran-62-jumua-unlettered-donkey-and-friday]
+  matches: []
+- unit: ane-cth-264-g-night-in-temple
+  checked: [quran-72-jinn, quran-4-prayer-intoxication-purity, quran-3-world-and-witness, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-cth-264-h-city-watch-humiliation
+  checked: [quran-7-children-of-adam, quran-9-mosques-and-kin, quran-9-hunayn-jizya, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-cth-264-i-quarrel-and-fire
+  checked: [quran-22-abraham-house-pilgrimage, quran-11-pharaoh-leads, quran-43-zukhruf-abraham-and-silver-roofs]
+  matches: []
+- unit: ane-cth-264-j-kitchen-purity
+  checked: [quran-4-prayer-intoxication-purity, quran-6-pagan-offerings-cattle, quran-16-abrogation-food-abraham-sabbath, quran-41-steadfast-and-repel-evil]
+  matches: []
+- unit: ane-cth-264-k-ploughmen
+  checked: [quran-6-pagan-offerings-cattle, quran-68-qalam-companions-of-the-garden, quran-51-dhariyat-flee-to-god, quran-6-mercy-judgment]
+  matches: []
+- unit: ane-cth-264-l-herdsmen-ordeal-colophon
+  checked: [quran-2-charity, quran-6-pagan-offerings-cattle, quran-6-mercy-judgment, quran-51-dhariyat-flee-to-god]
+  matches: []
+- unit: ane-cth-264-w16-w19-fragments
+  checked: [quran-9-mosques-and-kin, quran-41-steadfast-and-repel-evil, quran-3-sovereignty]
+  matches: []
+- unit: ane-cth-321-1-purulli-incipit
+  checked: [quran-7-creation-signs, quran-80-frowned, quran-16-blessings-of-creation]
+  matches: []
+- unit: ane-cth-321-2-inaras-feast-and-the-serpent
+  checked: [quran-16-blessings-of-creation, quran-20-moses-call, quran-5-oaths-wine-game, quran-2-harut-marut]
+  matches: []
+- unit: ane-cth-321-3-hupasiya-and-the-window
+  checked: [quran-11-lot, quran-2-adam-iblis, quran-13-covenant-and-paradise, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-cth-321-4-king-and-rain
+  checked: [quran-71-noah, quran-79-pharaoh-and-cosmos, quran-25-signs-shadow-seas, quran-73-enwrapped]
+  matches: []
+- unit: ane-cth-321-5-second-version-heart-eyes
+  checked: [quran-11-noah, quran-37-sacrifice-of-son, quran-2-three-groups, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-cth-321-6-kellas-gods-ranks-colophon
+  checked: [quran-56-waqia-three-classes-and-the-garden, quran-3-imran-mary-zechariah, quran-37-lot-and-jonah, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-cth-322-1-telipinu-and-daughter-of-sea
+  checked: [quran-45-jathiya-signs-and-israel, quran-4-creation-kinship-orphans, quran-31-signs-and-unseen, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-cth-322-2-telipinu-angry-hides
+  checked: [quran-21-prophets-answered, quran-79-pharaoh-and-cosmos, quran-71-noah, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-cth-322-3-fragment
+  checked: [quran-31-signs-and-unseen, quran-36-cosmic-signs, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-322-4-fragment
+  checked: [quran-31-signs-and-unseen, quran-36-cosmic-signs, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-323-1-a-sea-traps-sun
+  checked: [quran-38-solomon-horses-throne, quran-24-light-verse, quran-7-creation-signs, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-cth-323-1-b-frost-paralyses
+  checked: [quran-2-adam-iblis, quran-2-abraham-king, quran-36-bones-and-be, quran-71-noah]
+  matches: []
+- unit: ane-cth-323-1-c-allotment-of-the-sun
+  checked: [quran-65-talaq-divorce-and-seven-earths, quran-57-hadid-iron-and-monasticism, quran-25-destroyed-peoples, quran-71-noah]
+  matches: []
+- unit: ane-cth-323-1-d-ritual-for-sun-and-telipinu
+  checked: [quran-5-jesus-miracles-table, quran-76-the-human, quran-56-waqia-left-hand-and-proofs, quran-35-originator]
+  matches: []
+- unit: ane-cth-323-2-fragment
+  checked: [quran-7-creation-signs, quran-79-pharaoh-and-cosmos, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-cth-324-1-a-telipinu-angry-departs
+  checked: [quran-21-prophets-answered, quran-22-quake-and-resurrection-proofs, quran-81-folding-up, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-324-1-b-vanishing-and-dearth
+  checked: [quran-7-moses-pharaoh, quran-12-joseph-full, quran-2-patience-signs, quran-88-overwhelming]
+  matches: []
+- unit: ane-cth-324-1-c-search-eagle-bee
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-5-two-sons-of-adam, quran-16-daughters-and-the-bee, quran-2-call-to-worship]
+  matches: []
+- unit: ane-cth-324-1-d-telipinu-roused
+  checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-47-muhammad-battle-and-rivers, quran-71-noah, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-cth-324-1-e-analogic-offerings
+  checked: [quran-22-abraham-house-pilgrimage, quran-24-light-verse, quran-3-sovereignty, quran-6-poor-keys-of-unseen]
+  matches: []
+- unit: ane-cth-324-1-f-kamrusepa-removes-anger
+  checked: [quran-9-baraa-treaties, quran-3-badr-uhud, quran-7-calf, quran-92-night]
+  matches: []
+- unit: ane-cth-324-1-g-anger-to-the-netherworld
+  checked: [quran-15-iblis, quran-23-death-barzakh-judgment, quran-32-sajda, quran-102-104-rivalry-time-slanderer]
+  matches: []
+- unit: ane-cth-324-1-h-return-and-blessing
+  checked: [quran-14-parables-and-satans-speech, quran-30-winds-and-rain, quran-42-shura-signs-and-ethics, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches: []
+- unit: ane-cth-324-2-a-dearth-and-bee
+  checked: [quran-16-daughters-and-the-bee, quran-27-solomon-ants-hoopoe-sheba, quran-2-throne-verse, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-cth-324-2-b-analogies-and-vessels
+  checked: [quran-5-oaths-wine-game, quran-37-hell-and-garden, quran-92-night, quran-3-misers-mockers]
+  matches: []
+- unit: ane-cth-324-3-1-bee-finds-telipinu
+  checked: [quran-5-two-sons-of-adam, quran-27-solomon-ants-hoopoe-sheba, quran-16-daughters-and-the-bee, quran-2-throne-verse]
+  matches: []
+- unit: ane-cth-324-3-2-telipinu-rages
+  checked: [quran-11-lot, quran-2-adam-iblis, quran-28-destroyed-towns-and-judgment, quran-3-badr-uhud]
+  matches: []
+- unit: ane-cth-324-3-3-evil-sent-off-fertility-brought-out
+  checked: [quran-15-prologue-and-heavens, quran-112-114-unity-and-refuge, quran-92-night, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-324-3-4-telipinu-returns
+  checked: [quran-14-parables-and-satans-speech, quran-71-noah, quran-3-sovereignty, quran-43-zukhruf-abraham-and-silver-roofs]
+  matches: []
+- unit: ane-cth-324-4-mugawar-and-analogies
+  checked: [quran-52-tur-garden-and-challenge, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-3-misers-mockers, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-324-5-fragment
+  checked: [quran-5-jesus-miracles-table, quran-6-mercy-judgment, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-cth-324-6-fragment
+  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  matches: []
+- unit: ane-cth-324-7-1-eagle-and-gods-counsel
+  checked: [quran-28-destroyed-towns-and-judgment, quran-5-jesus-miracles-table, quran-3-misers-mockers]
+  matches: []
+- unit: ane-cth-324-7-2-anger-into-iron-vessels
+  checked: [quran-90-city, quran-23-death-barzakh-judgment, quran-22-signs-and-rites, quran-3-misers-mockers]
+  matches: []
+- unit: ane-cth-324-8-departure-and-ritual
+  checked: [quran-88-overwhelming, quran-22-signs-and-rites, quran-3-misers-mockers, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-cth-324-9-fleece-fragment
+  checked: [quran-16-daughters-and-the-bee, quran-20-adam-iblis, quran-6-pagan-offerings-cattle]
+  matches: []
+- unit: ane-cth-325-1-before-departure
+  checked: [quran-11-abraham-guests, quran-5-jesus-miracles-table, quran-6-mercy-judgment, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-cth-325-2-storm-god-departs
+  checked: [quran-7-moses-pharaoh, quran-2-patience-signs, quran-30-winds-and-rain, quran-21-prophets-answered]
+  matches: []
+- unit: ane-cth-325-3-feast-search-blame
+  checked: [quran-38-solomon-horses-throne, quran-37-lot-and-jonah, quran-6-final-reckoning, quran-7-towns-pattern]
+  matches: []
+- unit: ane-cth-325-4-hannahanna-sends-bee
+  checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-29-lot, quran-20-moses-pharaoh-magicians, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-325-5-water-of-turning-and-return
+  checked: [quran-12-joseph-full, quran-3-misers-mockers, quran-51-dhariyat-flee-to-god, quran-29-emigrate-and-trust]
+  matches: []
+- unit: ane-cth-325-6-kamrusepa-purges-anger
+  checked: [quran-7-calf, quran-22-signs-and-rites, quran-35-originator, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-cth-325-7-oven-and-herbs
+  checked: [quran-54-qamar-moon-split-and-noah, quran-92-night, quran-56-waqia-left-hand-and-proofs, quran-3-misers-mockers]
+  matches: []
+- unit: ane-cth-325-8-anger-to-netherworld-return
+  checked: [quran-71-noah, quran-15-iblis, quran-79-pharaoh-and-cosmos, quran-3-sovereignty]
+  matches: []
+- unit: ane-cth-326-1-asmunikal-departure
+  checked: [quran-9-three-left-behind, quran-22-signs-and-rites, quran-79-pharaoh-and-cosmos, quran-3-sovereignty]
+  matches: []
+- unit: ane-cth-326-2-asmunikal-return
+  checked: [quran-37-sacrifice-of-son, quran-46-ahqaf-hud-and-the-jinn, quran-3-misers-mockers, quran-73-enwrapped]
+  matches: []
+- unit: ane-cth-327-1-harapsili
+  checked: [quran-3-imran-mary-zechariah, quran-3-sovereignty, quran-22-abraham-house-pilgrimage, quran-5-jesus-miracles-table]
+  matches: []
+- unit: ane-cth-327-2-fragment
+  checked: [quran-56-waqia-left-hand-and-proofs, quran-92-night, quran-87-most-high]
+  matches: []
+- unit: ane-cth-327-3-fragment
+  checked: [quran-29-emigrate-and-trust, quran-25-signs-shadow-seas, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-328-pirwa
+  checked: [quran-3-imran-mary-zechariah, quran-21-prophets-answered, quran-22-signs-and-rites, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-cth-331-1-1-eye-illness-removed
+  checked: [quran-3-annunciation-jesus, quran-12-joseph-full, quran-16-daughters-and-the-bee, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-331-1-2-storm-god-in-lihzina
+  checked: [quran-2-sleeper-hundred-years, quran-18-companions-of-the-cave, quran-28-moses-in-midian, quran-28-destroyed-towns-and-judgment]
+  matches: []
+- unit: ane-cth-331-2-illness-dissolves
+  checked: [quran-16-daughters-and-the-bee, quran-75-resurrection, quran-22-quake-and-resurrection-proofs]
+  matches: []
+- unit: ane-cth-332-1-eagle-and-bee
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-16-daughters-and-the-bee, quran-7-creation-signs, quran-35-originator]
+  matches: []
+- unit: ane-cth-332-2-woken-god-and-return
+  checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-22-signs-and-rites, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-cth-332-3-1-offerings
+  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  matches: []
+- unit: ane-cth-332-3-2-fig-olive-analogies
+  checked: [quran-95-fig, quran-24-light-verse, quran-2-fasting, quran-14-parables-and-satans-speech]
+  matches: []
+- unit: ane-cth-332-4-ritual-and-bee
+  checked: [quran-16-daughters-and-the-bee, quran-47-muhammad-battle-and-rivers, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-cth-332-5-colophon
+  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  matches: []
+- unit: ane-cth-332-6-sweet-analogy
+  checked: [quran-56-waqia-left-hand-and-proofs, quran-92-night, quran-87-most-high]
+  matches: []
+- unit: ane-cth-332-7-soothing-and-sheep
+  checked: [quran-37-sacrifice-of-son, quran-92-night, quran-47-muhammad-battle-and-rivers, quran-44-dukhan-zaqqum-and-garden]
+  matches: []
+- unit: ane-cth-332-8-god-seated
+  checked: [quran-22-abraham-house-pilgrimage, quran-76-the-human, quran-47-muhammad-battle-and-rivers]
+  matches: []
+- unit: ane-cth-333-1-ritual-and-departure
+  checked: [quran-21-prophets-answered, quran-79-pharaoh-and-cosmos, quran-16-daughters-and-the-bee, quran-6-mercy-judgment]
+  matches: []
+- unit: ane-cth-333-2-return-of-anzili-and-zukki
+  checked: [quran-3-misers-mockers, quran-22-abraham-house-pilgrimage, quran-16-daughters-and-the-bee, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-cth-334-1-1-hannahanna-anger-and-departure
+  checked: [quran-22-quake-and-resurrection-proofs, quran-79-pharaoh-and-cosmos, quran-22-signs-and-rites, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-cth-334-1-2-hawthorn-and-mugawar
+  checked: [quran-47-muhammad-battle-and-rivers, quran-22-abraham-house-pilgrimage, quran-76-the-human]
+  matches: []
+- unit: ane-cth-334-1-3-sweetness-and-children
+  checked: [quran-95-fig, quran-3-sovereignty, quran-76-the-human, quran-92-night]
+  matches: []
+- unit: ane-cth-334-2-1-fire-water-cloud
+  checked: [quran-30-winds-and-rain, quran-16-daughters-and-the-bee, quran-39-sincere-servant, quran-92-night]
+  matches: []
+- unit: ane-cth-334-2-2-invocation-and-fleece
+  checked: [quran-5-jesus-miracles-table, quran-15-iblis, quran-40-throne-bearers, quran-3-sovereignty]
+  matches: []
+- unit: ane-cth-334-3-storm-god-raging
+  checked: [quran-79-pharaoh-and-cosmos, quran-21-prophets-answered, quran-40-throne-bearers]
+  matches: []
+- unit: ane-cth-334-4-invocation-and-analogies
+  checked: [quran-95-fig, quran-80-frowned, quran-11-abraham-guests, quran-92-night]
+  matches: []
+- unit: ane-cth-334-5-olive-raisin-samama
+  checked: [quran-14-parables-and-satans-speech, quran-92-night, quran-87-most-high]
+  matches: []
+- unit: ane-cth-334-6-return-and-eya-tree
+  checked: [quran-2-adam-iblis, quran-16-daughters-and-the-bee, quran-40-throne-bearers, quran-3-sovereignty]
+  matches: []
+- unit: ane-cth-334-7-galaktar-fig-olive-raisin
+  checked: [quran-95-fig, quran-92-night, quran-76-the-human, quran-56-waqia-left-hand-and-proofs]
+  matches: []
+- unit: ane-cth-334-8-storm-god-raging-pot-and-spoon
+  checked: [quran-79-pharaoh-and-cosmos, quran-35-originator, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-cth-334-9-all-good-of-the-land
+  checked: [quran-3-sovereignty, quran-40-throne-bearers, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches: []
