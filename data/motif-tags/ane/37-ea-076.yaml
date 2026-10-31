@@ -22,6 +22,23 @@ new_motifs:
   city-divided-between-rival-factions: {label: "A city is divided, half of it loving the rebel party and half the rightful lord", cluster: kingship}
   neighbour-kings-refuse-aid: {label: "Neighbouring kings ordered by the overlord to help a besieged vassal do not come or even send to ask after his welfare", cluster: war}
   vassal-messengers-detained-unanswered: {label: "A vassal complains that his letters and messengers go to the palace but no answer or troops come back", cluster: kingship}
+  ransomed-slave-returned-to-master: {label: "A slave redeemed (released for silver) from foreigners is sent back to his master, with a plea that no bad word come between the two rulers", cluster: law}
+  brotherly-greeting-gift-requested: {label: "A letter says all is well here and asks the 'brother' to send back news of his welfare and whatever greeting-gift (šulmānu) he can", cluster: diplomacy}
+  no-greeting-gift-to-house-of-enemy: {label: "Gifts go between brothers and friends; a man does not send a greeting-gift into the house of his enemy ('am I your enemy?')", cluster: diplomacy}
+  urgent-life-and-death-formula: {label: "A letter presses its request with the formula 'it is death and life' (mūtu napšatu): a matter of life and death", cluster: diplomacy}
+  prostration-from-afar: {label: "A writer says he falls at the feet of his addressees 'from afar'", cluster: kingship}
+  scribal-gods-invoked-in-greeting: {label: "A scribe's letter invokes the scribal gods (Ea the honoured lord, Nabû lord of the stylus and tablet, the gods of the tablet-house) to guard or honour the addressee", cluster: scribal}
+  set-good-eyes-on-protege: {label: "A letter asks that the king's (or the addressee's) eyes look favourably on a person, and that he be helped", cluster: diplomacy}
+  messenger-not-sent-empty-handed: {label: "A writer will not send his messenger back empty-handed and asks for goods to be sent with him", cluster: diplomacy}
+  enemy-sends-tablets-of-war-and-peace: {label: "An enemy king's messenger carries two tablets of hostility and one of peace, showing whichever suits the situation", cluster: diplomacy}
+  king-refuses-to-touch-oath-tablet-before-sun: {label: "Challenged to touch a tablet of oath before the sun god to prove his peaceful intent, a king refuses", cluster: treaty}
+  hand-raised-to-sun-god-in-oath: {label: "A king lifts his hand before the sun god and calls him to know (witness) the truth of his words", cluster: treaty}
+  herald-orders-camp-to-arm: {label: "A herald cries to the camp: put on your coats of mail and mount your chariots, the enemy king is drawn up and coming", cluster: war}
+  allies-ask-why-brothers-are-enemies: {label: "A king asks why we, who are brothers, are enemies to one another", cluster: diplomacy}
+  servant-offers-himself-as-substitute-for-lord: {label: "A servant greets his lord with the wish 'may I go as a substitute (dinānu) for my lord', taking any evil on himself", cluster: kingship}
+  disputants-sent-to-be-judged-truly: {label: "A ruler sends disputing parties before his correspondent and asks him to judge their case in truth", cluster: law}
+  towns-swear-oath-together: {label: "The men of two towns make an oath (māmītu) with each other", cluster: treaty}
+  oath-cast-behind-back: {label: "A writer reproaches his addressee: the oath I made you swear before the gods you have thrown behind you", cluster: treaty}
   vassal-alone-in-his-loyalty-none-speaks-for-him: {label: "A vassal complains that no one speaks for his loyalty before the king; he alone is the king's true servant", cluster: kingship}
 units:
   - id: ane-ea-076-rib-addi-habiru
@@ -495,3 +512,256 @@ units:
     hints:
       - "'Why do you sit still?': compare Judg 18:9 and Ps 44:24 ('Awake, why do you sleep, O Lord?'). The besieged city 'left alone like a booth in a vineyard': Isa 1:8."
       - "Orchards and fields cut down: compare Deut 20:19-20 and 2 Kgs 3:19, 25."
+  - id: ane-rso-07-016-ushnatu-slave
+    tradition: ane-akkadian
+    title: "The king of Ushnatu to Uzzenu: your slave whom the son of Heyanu ransomed from the Egyptians I return with the silver; let no bad word come between us (RSO 07, 016)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 016"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 016 o:4-5"], note: "lū šulmu ana muhhika ilānū liṣṣurūka"}
+      - {motif: ransomed-slave-returned-to-master, refs: ["Ugarit Ras Shamra-Ougarit 07, 016 o:6-b.e:2", "Ugarit Ras Shamra-Ougarit 07, 016 r:1-11"], note: "wardka ... qadu kaspi ša ipaššar ... attadinšu; if a slave of mine there is ransomed (ipaššarūni) to the Egyptians, seize him and return him; yānumma awātu lā banītu ina birīni tašakkan, kī awīlu awīl tappâšu"}
+      - {motif: disputants-sent-to-be-judged-truly, refs: ["Ugarit Ras Shamra-Ougarit 07, 016 r:12-l.e:4"], note: "broken: the slave Baliya is sent for a lawsuit (dīnu) with his witnesses (šībūšu); litmê, 'let him swear'"}
+    hints:
+      - "Return of a fugitive or ransomed slave: compare Deut 23:16-17 (do not return an escaped slave) against 1 Kgs 2:39-40, and Lev 25:47-49 (redemption of a slave sold to a foreigner)."
+  - id: ane-rso-07-018-princess-to-queen
+    tradition: ane-akkadian
+    title: "The king's daughter, your sister, to the queen of Ugarit: may the gods guard you; whatever you wish I will give (RSO 07, 018)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 018"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 018 o:4-6"], note: "ilānū ana šulmāni liṣṣurūki lišallimūki"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 018 o:14-15", "Ugarit Ras Shamra-Ougarit 07, 018 r:2-6"], note: "mīnummê mērištika lū anaddinakku, 'whatever your wish, I will give it'; o:7-13 mostly broken"}
+    hints:
+      - "Royal women corresponding as 'sisters': compare 1 Kgs 10:13 ('the king gave the queen of Sheba all she desired')."
+  - id: ane-rso-07-022-ari-kirnihe
+    tradition: ane-akkadian
+    title: "Ari-Kirnihe to his brothers Ewri-huda and Tadie: send blue wool and linen; I will not send my messenger empty-handed (RSO 07, 022)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 022"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 022 o:4-5", "Ugarit Ras Shamra-Ougarit 07, 022 r:7-9"]}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 022 o:6-12", "Ugarit Ras Shamra-Ougarit 07, 022 r:10-12"], note: "inūma ittīya šulmu ašrānu itti ahīya mīnummê šulmānu ṭēma litērūni; the messenger is going to Hatti"}
+      - {motif: messenger-not-sent-empty-handed, refs: ["Ugarit Ras Shamra-Ougarit 07, 022 b.e:1-r:3"], note: "uqniātu u kitê ahī lišēbila mār šiprīya ina rīqūtīšu lā ašappar, 'blue wool and linen let my brother send: I will not send my messenger in emptiness'"}
+    hints:
+      - "Blue-purple wool (uqniātu, Hebrew təkēlet) as prized trade good: compare Exod 25:4, Ezek 27:7, 24 and Num 15:38."
+  - id: ane-rso-07-024-mattenu
+    tradition: ane-akkadian
+    title: "Mattenu to Padiya: guard the messenger of Uzzenu and send him back to me (RSO 07, 024)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 024"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 024 o:4"]}
+      - {motif: set-good-eyes-on-protege, refs: ["Ugarit Ras Shamra-Ougarit 07, 024 o:5-r:3"], note: "kī naṣriš uṣuršu ana muhhīya terrašu, 'guard him safely and return him to me'"}
+    hints:
+      - "Safe-conduct for a messenger: compare Neh 2:7-9 (letters to the governors that they let him pass)."
+  - id: ane-rso-07-026-to-king-of-ugarit
+    tradition: ane-akkadian
+    title: "Fragment: to the king of Ugarit, my brother: may the gods guard you; no one requests; now the messenger... (RSO 07, 026)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 026"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 026 o:3-4"], note: "ahīya ilānū ana šulmāni liṣṣirūka; sender's name and lines o:5-10 broken"}
+  - id: ane-rso-07-030-dagan-belu-emar
+    tradition: ane-akkadian
+    title: "Dagan-belu (of Emar) to Shipti-Baal: may the gods of Ugarit, Ea the honoured lord and the gods of Emar guard you and your wife the king's daughter; may the king's eyes look on you; send oil and linen, I will send a good bow (RSO 07, 030)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 030"]
+    tags:
+      - {motif: scribal-gods-invoked-in-greeting, refs: ["Ugarit Ras Shamra-Ougarit 07, 030 o:6-12"], note: "ilānū ša māt Ugarit Ea bēlu kabtu u ilānū ša māt Emar napištaka u napišti ša mārat šarri aššatika danniš danniš liṣṣurū"}
+      - {motif: set-good-eyes-on-protege, refs: ["Ugarit Ras Shamra-Ougarit 07, 030 o:13-18"], note: "ana šarri bēlīka lū attūka u ina birī ša kinattātīka īnāšu ša šarri lidgulāka, 'may you be the king's own, and among your colleagues may the king's eyes look on you'"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 030 o:19-38"], note: "oil and large fine linen; if a good bow (qaštu damqu) is your wish, write and I will get one; 2 baskets of ullam-plants sent"}
+    hints:
+      - "A royal son-in-law who must win the king's eye: compare 1 Sam 18:18-27 (David as the king's son-in-law) and Gen 39:4."
+  - id: ane-rso-07-031-dagan-belu-urtenu
+    tradition: ane-akkadian
+    title: "Dagan-belu to Urtenu and to Uri-Te: gods of Ugarit, Ea and the gods of Ashtata guard you; send alum, blue and red wool and linen under your seal by the sons of Urtenu: it is death and life (RSO 07, 031)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 031"]
+    tags:
+      - {motif: scribal-gods-invoked-in-greeting, refs: ["Ugarit Ras Shamra-Ougarit 07, 031 o:4-6"], note: "ilānū ša māt Ugarit Ea bēlu kabtu u ilānū ša māt Aštata"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 031 r:4-6"]}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 031 o:7-17", "Ugarit Ras Shamra-Ougarit 07, 031 r:7-t.e:3"], note: "alum (gabû), blue wool, red wool (SAG.GIL.MUD) and spun linen; ištu kunukkika kunkamma, 'seal it with your seal'"}
+      - {motif: urgent-life-and-death-formula, refs: ["Ugarit Ras Shamra-Ougarit 07, 031 l.e:1-2"], note: "mūtu napšatu"}
+    hints:
+      - "Goods sent under seal: compare Jer 32:10-14 (sealed deed). 'Death and life' set before a person: Deut 30:15, 19."
+  - id: ane-rso-07-032-dagan-baal-urtenu
+    tradition: ane-akkadian
+    title: "Dagan-baal to Urtenu, his good brother: may the gods of the king seize your hand before him; the custom between brothers is gifts, but no one sends gifts into the house of his enemy; send tin, copper, wool, alum and oil by Anani-Sharruma: it is death and life (RSO 07, 032)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 032"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 032 o:4-5"]}
+      - {motif: set-good-eyes-on-protege, refs: ["Ugarit Ras Shamra-Ougarit 07, 032 o:5-7"], note: "ilānū ša šarri bēlīka qātka ana pāni šarri bēlīka liṣbatū, 'may the gods of the king your lord take your hand before the king'"}
+      - {motif: no-greeting-gift-to-house-of-enemy, refs: ["Ugarit Ras Shamra-Ougarit 07, 032 o:11-17"], note: "akannā parṣu ša ahi ahīšu u tappêšu ... u kūmê ṣarratka anāku awīlu ina bīt ṣarratīšu šulmāna ul išappar: ṣrt, West Semitic 'enemy, rival' (Hebrew ṣārâ), glossed in the Akkadian"}
+      - {motif: canaanite-gloss-in-akkadian-letter, refs: ["Ugarit Ras Shamra-Ougarit 07, 032 o:15-16"], note: "LU₂ṣa-ra-at-ka, ṣrt 'your enemy'"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 032 o:18-r:3", "Ugarit Ras Shamra-Ougarit 07, 032 r:5-12"], note: "tin, copper, blue wool, alum; there is no oil in my house; 'you said: send your man, not the man of Emar'"}
+      - {motif: urgent-life-and-death-formula, refs: ["Ugarit Ras Shamra-Ougarit 07, 032 r:4"], note: "idnamma mūtu napšatu"}
+    hints:
+      - "ṣārâ 'rival, enemy': compare 1 Sam 1:6 (Peninnah, Hannah's ṣārâ) and Lev 18:18; the enemy's house compare Ps 69:4-5."
+      - "'Gods ... take your hand': compare Ps 73:23 ('you hold my right hand') and Isa 42:6."
+  - id: ane-rso-07-034-issur-rashap
+    tradition: ane-akkadian
+    title: "Issur-Rashap to his big brothers Anani-Sharruma and Baal(?): from afar I fall at my brothers' feet; may the gods of Ugarit and the gods of the tablet-house guard you (RSO 07, 034)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 034"]
+    tags:
+      - {motif: prostration-from-afar, refs: ["Ugarit Ras Shamra-Ougarit 07, 034 o:5"], note: "ana šēpē ahhīya ištu rūqiš amqut"}
+      - {motif: scribal-gods-invoked-in-greeting, refs: ["Ugarit Ras Shamra-Ougarit 07, 034 o:7-10"], note: "ilānū ša māt Ugarit u ilānū ša bīt ṭuppi napšat ša ahhīya liṣṣurū u lišallimū, 'the gods of the tablet-house' (scribal school)"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 034 o:11-r:6"], note: "your sons here are very well (ištu lēt, 'beside me'); send word of your welfare"}
+    hints:
+      - "Worshipping 'from afar': compare Exod 24:1 and Gen 22:4; a school of scribes compare 1 Chr 2:55 (families of scribes)."
+  - id: ane-rso-07-036-tuna-uzziltu
+    tradition: ane-akkadian
+    title: "Tuna to Uzziltu, my son: may the thousand gods, Ea the honoured lord and Nabu lord of stylus and tablet make you honoured before your lords; you are bad, you never ask anything of me; send asafoetida, blue wool and alum (RSO 07, 036)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 036"]
+    tags:
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit Ras Shamra-Ougarit 07, 036 o:4-6"], note: "1 līm ilānū ana šulmāni liṣṣurūka lišallimūka"}
+      - {motif: scribal-gods-invoked-in-greeting, refs: ["Ugarit Ras Shamra-Ougarit 07, 036 o:7-10"], note: "Ea bēlu kabtu Nabû bēl qan ṭuppi ... maʾdā ana pāni bēlīka likabbitūka, 'Nabu lord of the tablet-stylus ... make you greatly honoured before your lords'"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 036 b.e:1-r:18", "Ugarit Ras Shamra-Ougarit 07, 036 l.e:1-4"], note: "attā maškāta ana yâši mērišta lā terišanni, 'you are bad: you do not ask me any wish'; in Hatti there is nothing; nuhurtu, blue wool and alum for the trade goods of my horses"}
+    hints:
+      - "Teacher and pupil as 'father' and 'son': compare Prov 1:8, 2 Kgs 2:12 and the 'sons of the prophets'."
+  - id: ane-rso-07-037-beirut-to-prefect
+    tradition: ane-akkadian
+    title: "The king of Beirut to the prefect of Ugarit: I heard my brother set out from Ugarit; my heart is with him day and night; send me word (RSO 07, 037)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 037"]
+    tags:
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit Ras Shamra-Ougarit 07, 037 o:5"], note: "līm ilānū liṣṣurūka"}
+      - {motif: canaanite-gloss-in-akkadian-letter, refs: ["Ugarit Ras Shamra-Ougarit 07, 037 o:2"], note: "LU₂.GAR.RA lemmatized skn, the West Semitic 'prefect' (sākinu), the title of Hebrew sōkēn"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit Ras Shamra-Ougarit 07, 037 o:6-r:2"], note: "iltemi namāši ahīya ištu māt Ugarit u libbī ittīšu ūma u mūši, 'my heart is with him day and night'; ṭēma terranni"}
+    hints:
+      - "Compare Isa 22:15 (Shebna the sōkēn over the house) and 2 Kgs 10:15 ('is your heart right with my heart?')."
+  - id: ane-rso-07-046-shalmaneser-nihriya
+    tradition: ane-akkadian
+    title: "Shalmaneser I of Assyria to Ibiranu of Ugarit: Tudhaliya of Hatti sent tablets of war and of peace, refused to return fugitives or to touch the oath-tablet before the Sun; at Nihriya I entered the Hittite army and made a great slaughter (RSO 07, 046)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 046"]
+    tags:
+      - {motif: enemy-sends-tablets-of-war-and-peace, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 o:21-30"], note: "2 ṭuppāti ša nukurti u 1 ṭuppa ša šulmi našī; after three days he brings the tablet of peace forward"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 o:30-37"], note: "Addu u Šamaš lū īdû šumma anāku itti šar māt Aššur ahīya nakrāku ... šumma munnabtūti lā uttarrašu, 'let the Storm god and the Sun know: if I am hostile to my brother the king of Assyria'"}
+      - {motif: treaty-return-fugitives, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 o:33-37"], note: "the troops who fled before the king of Assyria and entered Hatti are not sent to the king of Assyria"}
+      - {motif: allies-ask-why-brothers-are-enemies, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 o:38-41"], note: "ammīnê ahhū nīnu itti ahāmeš nakrāni, 'why are we, brothers, enemies to each other?' followed by a broken saying: the lion ... kill, and the hostile one laughs (iṣṣenah)"}
+      - {motif: hand-raised-to-sun-god-in-oath, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 r:14-18"], note: "qāssu ana pāni Šamaš ittaši mā attā Šamaš lū tīdi, 'he lifted his hand before the Sun: you, Sun, know!'"}
+      - {motif: king-refuses-to-touch-oath-tablet-before-sun, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 r:17-20"], note: "ṭuppa ša māmīti altaṭar ... ina kittika ṭuppa annâ ana pāni Šamaš luput ul imangur, 'if you are truthful, touch this tablet before the Sun': he refused"}
+      - {motif: herald-orders-camp-to-arm, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 r:28-33"], note: "ana nāgiri ša karāšīya altasi mā sariyanātekunu hutallipā u narkabātekunu rukbā, 'put on your coats of mail (sariyam) and mount your chariots'"}
+      - {motif: king-first-person-battle-boast, refs: ["Ugarit Ras Shamra-Ougarit 07, 046 r:33-41"], note: "anāku lītānâ narkabtī aṣṣamed ... ana libbi ṣābī ša māt Hatti īterub dīkta rabâ lū addūk, 'I the victorious harnessed my chariot, entered the Hittite army and made a great slaughter'; the palace herald fled from Nihriya"}
+    hints:
+      - "Lifting the hand in oath: compare Gen 14:22 ('I have lifted my hand to YHWH'), Deut 32:40 and Dan 12:7."
+      - "sariyam 'coat of mail' is the word of Hebrew širyôn (1 Sam 17:5, 38; 1 Kgs 22:34)."
+      - "'Why should we be enemies, being brothers?': compare Gen 13:8 ('let there be no strife between us, for we are brothers') and 2 Sam 2:26."
+      - "Return of fugitives between kings: 1 Kgs 2:39-40; the Assyrian claim against Hatti over fugitives compare 2 Kgs 17:4."
+  - id: ane-rso-07-047-hellu-substitute
+    tradition: ane-akkadian
+    title: "Hellu to his lord: may I go as your substitute; may Addu, Dagan and Itur-Mer, the great gods of Mari, guard you; my heart laughed to see you; send good horses for the king's chariot, save my life (RSO 07, 047)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit Ras Shamra-Ougarit 07, 047"]
+    tags:
+      - {motif: servant-offers-himself-as-substitute-for-lord, refs: ["Ugarit Ras Shamra-Ougarit 07, 047 o:1-2"], note: "wardka Hellu ana dinānī bēlīya lullik, 'your servant Hellu: may I go as the substitute of my lord'"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit Ras Shamra-Ougarit 07, 047 o:2-9"], note: "Addu Dagan u Itūr-Mēr ilānū rabûtu ša māt Mari napšāti bēlīya liṣṣurū ... ana bīt bēlīya kibsi u tallakti ša bēlīya šalāma liškunū"}
+      - {motif: vassal-longs-to-see-kings-face, refs: ["Ugarit Ras Shamra-Ougarit 07, 047 o:9-13"], note: "ana amāri ša bēlīya libbī maʾda iṣṣihanni manni pāni banûti ša bēlīya līmur u dabāba ṭāba ša bēlīya lištemmi; later (r:14-t.e:3) bēlī usāta lipušamma napšātīya bēlī liṭīra, 'let my lord help and save my life': before the enemy I was broken and my house is destitute"}
+    hints:
+      - "'May I be your substitute': compare 2 Sam 18:33 ('would I had died instead of you, Absalom'), Exod 32:32 and Gen 44:33 (Judah offers himself in Benjamin's place)."
+      - "'Who will show us good?' / seeing the lord's good face: Ps 4:7 and Gen 33:10."
+  - id: ane-rih-81-04-maid-lawsuit
+    tradition: ane-akkadian
+    title: "To my brother: may the thousand gods, the gods of Beirut and the gods of the queen of Ugarit guard you; I send a woman, my maid, with her brother: judge them truly (RIH 81/04)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RIH 81/04"]
+    tags:
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RIH 81/04 o:4-7"], note: "līm ilānū ilānū māt Biʾruti ilānū šarrat māt Ugarit ana šulmāni liṣṣurūka"}
+      - {motif: disputants-sent-to-be-judged-truly, refs: ["Ugarit RIH 81/04 o:8-r:4"], note: "a woman, my maid (amtu), with her brother, who are fixing her status as slave (amūtu išimmū), stand before you; dīnīšunu kī kitti purussunu, 'decide their case according to truth'"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RIH 81/04 r:5-9"], note: "whatever you need, write to me, and I will do likewise"}
+    hints:
+      - "Judge truly between a man and his brother: Deut 1:16-17, Exod 21:2-11 (status of a slave woman) and Lev 25:39-46."
+  - id: ane-rs-01-0056-halbini-hazilu
+    tradition: ane-akkadian
+    title: "Fragment: servant to king Akihinni(?), prostrating; Hazilu, Panishtayu, Halbini; the bull of the oath; the men of Halbini and Hazilu made an oath with each other (RS 01.0056)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 01.0056"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["Ugarit RS 01.0056 o:4"], note: "ana šēpē šarri bēlīya ušhehin (prostration without the number seven)"}
+      - {motif: towns-swear-oath-together, refs: ["Ugarit RS 01.0056 o:12", "Ugarit RS 01.0056 r:11-14"], note: "GU₄ ša māmīti, 'the bull of the oath' (o:12, broken context); awīlū Halbini u awīl Hazilu māmīta itti ahāmiš ētepšū"}
+    hints:
+      - "Oaths between towns over land and water: compare Gen 21:22-32 and 26:26-33 (the wells of Beersheba and the oath)."
+  - id: ane-rs-06-0198-belubur-ilimilku
+    tradition: ane-akkadian
+    title: "Belu-bur to Ilimilku, his brother: why did Numenu come without your greeting? Speak my good words before the queen (RS 06.0198)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 06.0198"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 06.0198 o:4-6"], note: "ilānū ša māt Ugarita ahīya liṣṣurūka"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 06.0198 o:7-11", "Ugarit RS 06.0198 r:7-t.e:2"], note: "anaʾīni Nuʿmenu ... illikam-ma u šulmaka lā tašpura, 'why did Numenu come and you did not send your greeting?'"}
+      - {motif: consort-intercedes-for-king, refs: ["Ugarit RS 06.0198 b.e:1-r:6"], note: "interpretive: ana pāni šarrati sīsi-ma ... awātīya damqāti ana pāni šarrati dubbu, 'cry out (read) my tablets before the queen and speak my good words before her'"}
+    hints:
+      - "Ilimilku is the name of the Ugaritic scribe of the Baal, Kirta and Aqhat tablets. Compare Esth 4:8 (Esther sent to plead before the king) and 1 Kgs 2:13-19 (Adonijah asks Bathsheba to speak for him)."
+  - id: ane-rs-11-0723-sidon
+    tradition: ane-akkadian
+    title: "Imtu-? king of Sidon to the king of Ugarit, my brother: may the gods guard you; about makuhu-cloths and kilts (RS 11.0723)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 11.0723"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 11.0723 o:5-6"]}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 11.0723 o:7-10"], note: "aššum makūhi ... u sāgāti; the rest broken"}
+    hints:
+      - "Kings of Sidon and Ugarit as 'brothers': compare 1 Kgs 9:13 (Hiram calls Solomon 'my brother')."
+  - id: ane-rs-11-0730-beirut-son
+    tradition: ane-akkadian
+    title: "The king of Beirut to the prefect of Ugarit, my son: I send my messenger for my business in your land; set your good eyes on him (RS 11.0730)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 11.0730"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 11.0730 o:4-6"]}
+      - {motif: set-good-eyes-on-protege, refs: ["Ugarit RS 11.0730 o:7-12"], note: "attā mārī īnēka damqāta ana muhhīšu šukun, 'my son, set your good eyes upon him'"}
+      - {motif: canaanite-gloss-in-akkadian-letter, refs: ["Ugarit RS 11.0730 o:2"], note: "LU₂GAR lemmatized skn, 'prefect'"}
+    hints:
+      - "'Set my eyes on him': compare Gen 44:21 and Jer 39:12, 40:4 ('I will set my eye on you')."
+  - id: ane-rs-12-0005-oath-thrown-behind
+    tradition: ane-akkadian
+    title: "Fragment: I made you swear before Nabu and the gods of your land and of Emar, and you have thrown my oath behind you; you do not remember me, have mercy on me (RS 12.0005)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 12.0005"]
+    tags:
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 12.0005 o:2'-4'"]}
+      - {motif: oath-cast-behind-back, refs: ["Ugarit RS 12.0005 o:6'-10'"], note: "māmītīya ana pāni Nabû u ilānī ša mātika ... ša māt Emar utammēka māmītīya warkika tattasuk, 'my oath which I made you swear before Nabu and the gods of your land ... you have thrown behind you'"}
+      - {motif: petition-for-restoration-of-kings-favour, refs: ["Ugarit RS 12.0005 r:8-13"], note: "interpretive, broken: lā tahassasanni mā mīnu ... rīmanni, 'you do not remember me ... have mercy on me'"}
+    hints:
+      - "'You cast my words behind you': compare Ps 50:17, 1 Kgs 14:9, Neh 9:26 and Ezek 23:35. Remember me / have mercy: Gen 40:14, Neh 13:22."

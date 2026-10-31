@@ -29,6 +29,32 @@ new_motifs:
   overlord-tells-vassal-do-not-fear: {label: "The overlord tells the vassal 'do not fear' the hostile neighbouring kings and promises to deal with them", cluster: treaty}
   treaty-breakers-made-example: {label: "The overlord points the vassal to neighbouring kings who abandoned the treaty: 'later you will see what the great king does to them'", cluster: treaty}
   lawsuit-between-subjects-of-two-kings: {label: "Subjects of two kingdoms in dispute are sent with a letter so that their case may be heard before the other king or his officials, or settled 'on the road'", cluster: law}
+  vassal-refuses-neighbours-pressure-to-rebel: {label: "Neighbouring kings press a vassal to join their revolt against the overlord ('why are you not hostile with us?'), but he refuses and stays loyal", cluster: kingship}
+  vassal-tribute-schedule-to-court: {label: "A treaty fixes the vassal's tribute in gold, gold and silver cups, linen and blue-purple wool, graded for the great king, the queen, the crown prince and named court officials", cluster: kingship}
+  vassal-falls-at-overlords-feet: {label: "The vassal comes in person and throws himself down beneath the feet of the overlord", cluster: kingship}
+  royal-seal-with-queen: {label: "A royal document is sealed with the king's seal together with the seal of the great queen", cluster: kingship}
+  umman-manda-enemy-horde: {label: "The Umman-manda, a hostile horde of uncertain origin, appear as enemies to be pacified or fought", cluster: war}
+  vassal-appeals-to-overlord-save-me-from-enemy: {label: "Attacked by neighbouring kings, the vassal writes to the overlord: 'I am your servant; save me from the hand of the enemy'", cluster: kingship}
+  overlord-gives-vassal-the-booty: {label: "The overlord's army drives out the invaders and he gives all the recovered captives and booty to the loyal vassal", cluster: kingship}
+  overlord-fixes-vassal-borders-by-town-list: {label: "The overlord fixes and seals the vassal's borders for him and his descendants for ever, listing the frontier towns and mountains one by one", cluster: kingship}
+  oath-to-clear-town-of-raid: {label: "The people of a town must swear that they did not strike, rob or harbour raiders, or else pay threefold compensation", cluster: law}
+  vines-cut-down-in-border-dispute: {label: "One people accuses its neighbours of cutting down their vineyards, and the accused must swear they did not", cluster: law}
+  sold-slave-repaid-like-thief: {label: "Whoever, after the tablet, is found to have sold a fugitive slave of the other kingdom must pay compensation like a thief", cluster: law}
+  sealed-debt-tablet-broken: {label: "A sealed tablet recording a debt is broken to cancel the obligation, and the parties dispute which debt the broken tablet recorded", cluster: law}
+  princes-given-share-and-exiled: {label: "Princes who sinned against the king receive their share of the inheritance (silver, gold, goods) from the queen mother and are sent away to a foreign island, with an oath that they and their descendants will never claim more", cluster: kingship}
+  oath-before-goddess-of-steppe: {label: "An oath between royal brothers is laid down before Ištar of the steppe (Ištar-ṣēri)", cluster: law}
+  divorce-of-royal-wife-daughter-of-great-lady: {label: "A king divorces (or harms) his royal wife, 'the daughter of the Great Lady' (a Hittite or Amurrite princess), and the case is decided by the great kings", cluster: kingship}
+  oath-not-to-murder-allied-king: {label: "A king swears not to do murder (nērtu) against a neighbouring king, his ships or his troops; if he does, the gods are to destroy him from his father's house, land and throne", cluster: treaty}
+  letter-mutual-well-being-formula: {label: "Letter formula: 'when all is well with me, with you there may all be well; whatever greetings you have, send me word back'", cluster: letters}
+  overlord-angered-by-worthless-gift: {label: "A gift sent to the king turns out worthless (a common stone sent as lapis lazuli); the king is filled with anger and accuses the sender of mockery", cluster: kingship}
+  sick-man-recovers-and-owes-god-offerings: {label: "A writer reports he was gravely ill, 'a finger from death', has now recovered, and owes the god who requested him offerings and many gifts", cluster: healing}
+  why-angry-with-your-brother-letter: {label: "A letter asks 'why are you angry with your brother? you are not as before toward me; if I have sinned, write my sin on a tablet and send it'", cluster: letters}
+  wax-writing-board: {label: "A wax-covered writing board (ṭuppu ša iškūri) is requested or sent in a letter", cluster: scribal}
+  all-claims-cleared-like-the-sun: {label: "On the day the oath is sworn all past claims between two kings are 'broken'; one party is declared 'clear as the sun' (zakû kīma šamši) of all claims", cluster: law}
+  ally-must-fight-habiru-raiders: {label: "A treaty partner must come with chariots and troops if Habiru raid the other's land or if there is upheaval in it", cluster: treaty}
+  ransom-of-captured-troops: {label: "Silver is paid as ransom (ipṭiru) for one king's captured troops and horses", cluster: war}
+  princess-of-hatti-in-ugarit: {label: "A daughter of the Hittite Great King ('daughter of the Sun') is married into or resides at the court of a vassal king (Ugarit, Amurru) as great queen", cluster: kingship}
+  oath-sun-sees: {label: "The sun god is invoked to watch over or see the oath and its breaker ('may the Sun of that day see him')", cluster: treaty}
 units:
   - id: ane-ugarit-rs-17-0079-mursili-niqmepa-treaty
     tradition: ane-akkadian
@@ -134,3 +160,374 @@ units:
     hints:
       - "'Do not fear them' addressed by a great king to an ally compare the divine 'fear not' in Deut 3:2, Josh 10:8, Isa 41:10, and Ahaz in Isa 7:4."
       - "Neighbouring kings who abandoned the treaty compare Ezek 17:15-19 (Zedekiah broke the covenant)."
+
+  - id: ane-ugarit-rs-17-0142-lullu-gift
+    tradition: ane-ugaritic
+    title: "Lullu to the prefect (sākinu), 'my brother': sheep and cheeses sent as a gift; send me your wish (RS 17.0142)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0142"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 17.0142 o:1-3"], note: "umma Lullu ana sākinni aḫīya qibīma"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0142 o:4-6"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 17.0142 o:7-r:20"], note: "10 sheep, 5 cheeses as provisions (šukulti) sent; lū tappûya attā 'be my partner'; send your wish (mērešta)"}
+
+  - id: ane-ugarit-rs-17-0143-ari-teshub-emar
+    tradition: ane-akkadian
+    title: "Ari-Tešub of Ušnatu to the king of Ugarit, 'my father': the man of Emar sent for trial with the man of Siyannu and Aru (RS 17.0143)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ušnatu to Ugarit"
+    read: ["Ugarit RS 17.0143"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 17.0143 o:2-5"], note: "abīya ... mārūka-ma: 'your son'"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0143 o:6-8"], note: "līm ilānī ana šulmāni liṣṣurūka"}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 17.0143 o:9-r:15"], note: "The king of Carchemish had ordered the case of the man of Emar with the man of Siyannu be settled on the road; the Emarite says his case is with a man of Aru; 'let my father question them'"}
+
+  - id: ane-ugarit-rs-17-0144-zulanna-gifts
+    tradition: ane-ugaritic
+    title: "Zulanna to the prefect, 'my brother': iron dagger, linen, a slave, a horse and a mule; requests for gold, glass and bronze cauldrons (RS 17.0144)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0144"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0144 o:3-4"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 17.0144 o:5-l.e:4"], note: "patru parzilli 'iron dagger' and linen requested; a mare and an 'heir' (IBILA, a youth) sent for slavery (rēšūtu); a good mule promised; kušītu garment; payment; gold, mekku-glass, raw glass (eḫlipakku), bronze cauldrons wanted"}
+      - {motif: kings-call-each-other-brothers-sons-of-one-man, refs: ["Ugarit RS 17.0144 o:2", "Ugarit RS 17.0144 r:15"], note: "Only the 'brother' address and trade between brothers (anāku itti aḫīya šīmī ... eteneppuš); no 'sons of one man'"}
+    hints:
+      - "An iron dagger as a luxury gift in the Late Bronze Age compare Judg 3:16 and 1 Sam 13:19-22 (iron-working monopoly)."
+
+  - id: ane-ugarit-rs-17-0145-aballa-merchants
+    tradition: ane-akkadian
+    title: "Verdict of Ini-Tešub: Aballa's merchants killed in Ugarit; Aballa assigned the oath, then released from it by settlement for 1,200 shekels (RS 17.0145)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal verdict of Carchemish"
+    read: ["Ugarit RS 17.0145"]
+    tags:
+      - {motif: merchants-murdered-blood-compensation, refs: ["Ugarit RS 17.0145 o:2-9"], note: "tamkārū ša qātīya ina māt Ugarit dīkū-mi: 'my merchants were killed in Ugarit'; the Ugaritians shall pay the compensation (mullâ)"}
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 17.0145 o:5-13"], note: "Aballa litmâ-mi 'let Aballa swear'; then imtagrū ... Aballa ištu māmīti utterrū: they agreed and turned him back from the oath; 1,200 shekels paid"}
+      - {motif: tablet-prevails-over-future-claimant, refs: ["Ugarit RS 17.0145 o:13-r:2"]}
+    hints:
+      - "Compensation instead of blood vengeance compare Num 35:31-32 (no ransom for a murderer) and Exod 21:30."
+
+  - id: ane-ugarit-rs-17-0146-carchemish-ugarit-merchants-treaty
+    tradition: ane-akkadian
+    title: "Treaty of Ini-Tešub of Carchemish with Ugarit on murdered merchants: compensation of 3 minas a man, or an oath of the town that it does not know the killers (RS 17.0146)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Interstate agreement, sealed by Ini-Tešub"
+    read: ["Ugarit RS 17.0146"]
+    tags:
+      - {motif: merchants-murdered-blood-compensation, refs: ["Ugarit RS 17.0146 o:6-14", "Ugarit RS 17.0146 r:1-8"], note: "If the killers are caught, the land pays the goods 'as their brothers say' and 3 minas of silver per man; r:8 mullâ ša dāmī 'compensation for the blood'"}
+      - {motif: town-swears-it-does-not-know-killers, refs: ["Ugarit RS 17.0146 o:19-27", "Ugarit RS 17.0146 r:9-17"], note: "If the killers are not caught, men come and swear (ina māmīti itammûni) in Nubanni or Gurʾatu before the merchants' brothers: šumma dāʾikūtišunu nīde-mi 'we do not know their killers' (lit. 'if we know them'), and still pay 3 minas per man"}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["Ugarit RS 17.0146 r:18-26"], note: "mannummê ša rikilta annīta ušašnâ: Storm-god of heaven, Sun of heaven, Lady Kubaba of Carchemish, Nikkal lady of Nubanni and of Gurʾatu lū bēlū māmītišu"}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["Ugarit RS 17.0146 r:22-25"]}
+    hints:
+      - "The town oath of not knowing the killer of an unsolved murder is the closest ANE partner of Deut 21:1-9 (the elders of the nearest city declare 'our hands did not shed this blood, our eyes did not see')."
+      - "Blood requires compensation compare Gen 9:5-6 and Num 35:33."
+
+  - id: ane-ugarit-rs-17-0148-yabinenshe-pihaddu
+    tradition: ane-ugaritic
+    title: "Two letters to the prefect of Ugarit: Lady Yabinenše to 'my son' (garments, red wool, send much silver); Piha-Addu to 'my brother' (a mare for 30 shekels and a cauldron) (RS 17.0148)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Double letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0148"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0148 o:4-6", "Ugarit RS 17.0148 r:4-5"], note: "līm ilānī ana šulmāni liṣṣurūka (twice)"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 17.0148 o:7-14", "Ugarit RS 17.0148 r:6-l.e:3"], note: "Woman writer sends maššiya-sash, multicoloured belt-garment, mašḫuranni garments, 100 red wool; 'send silver in quantity, do not send little'; Piha-Addu's mare 'as a gift' but asks why its price has not been reduced: 30 shekels and a bronze cauldron"}
+
+  - id: ane-ugarit-rs-17-0152-amurru-parishhu
+    tradition: ane-akkadian
+    title: "King of Amurru to the king of Ugarit, 'my son': Addarya sent for parišḫu; whatever you say I will give (RS 17.0152)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Amurru to Ugarit"
+    read: ["Ugarit RS 17.0152"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 17.0152 o:1-3"], note: "Reversed: the king of Amurru calls the king of Ugarit 'my son' (mārīya)"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0152 o:4-5"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 17.0152 o:6-r:4"], note: "parišḫu (unknown commodity); 'whatever you say I will give; let him take it from the merchant and I will pay its price'"}
+
+  - id: ane-ugarit-rs-17-0227-suppiluliuma-tribute-treaty
+    tradition: ane-akkadian
+    title: "Šuppiluliuma I's tribute treaty for Niqmaddu: Ugarit refused to join Nuhašše and Mukiš against Hatti; tribute to king, queen, crown prince and court; the thousand gods know (RS 17.0227)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Hittite edict / treaty, sealed by Šuppiluliuma and Tawananna"
+    read: ["Ugarit RS 17.0227"]
+    tags:
+      - {motif: vassal-refuses-neighbours-pressure-to-rebel, refs: ["Ugarit RS 17.0227 o:3-16"], note: "The kings of Nuhašše and Mukiš uṣaḫḫatūšu 'pressed him': ammīni ittīni ultu muḫḫi dŠamši lā nakrāta-mi 'why are you not hostile to the Sun with us?' Niqmaddu nukurta ... ul imangur; the Sun saw his kittu (loyalty)"}
+      - {motif: vassal-tribute-schedule-to-court, refs: ["Ugarit RS 17.0227 o:20-r:10"], note: "12 minas 21 shekels of gold, a gold cup of 1 mina, linen garments, 500 (shekels of) blue wool and 500 of hašmānu-coloured blue wool for the Sun; graded gifts for the queen, the tartennu (crown prince), tuppanuri, two huburtanuri, sukkallu, antuwašalli"}
+      - {motif: vassal-falls-at-overlords-feet, refs: ["Ugarit RS 17.0227 r:16-19"], note: "kī šū ittalka ana šupāl šēpē ša dŠamši ... iqtarar: he came and threw himself down beneath the feet of the Sun"}
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 17.0227 r:21-24"], note: "aššum awâtē ša libbi ṭuppi annīti šaṭrū 1 līm ilānī lū īdû: let the thousand gods know (witness); Sun of heaven, storm-god (sic for Sun-goddess) of Arinna, Storm-god of heaven and of Hatti"}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["Ugarit RS 17.0227 l.e:1-2"], note: "lū īdû ša awâtē ša ṭuppi annīti ušašnâ: no curse spelled out, only 'let them know' the one who alters"}
+      - {motif: royal-seal-with-queen, refs: ["Ugarit RS 17.0227 seal.1:1-2"], note: "Šuppiluliuma narām dIŠKUR 'beloved of the Storm-god'; Tawananna great queen, daughter of the quay of Babylon"}
+    hints:
+      - "Tyrian blue/purple wool (takiltu, argamannu) as royal tribute compare Exod 25:4, 26:1 (tekhelet and argaman) and Ezek 27:7, 16."
+      - "Loyal vassal under neighbours' pressure to revolt compare 2 Kgs 16:5-7 (Ahaz pressed by Rezin and Pekah, appeals to Assyria) and Isa 7:1-9."
+      - "Tribute graded to the king, queen and officials compare 2 Kgs 18:14-16 and Ezra 7:15."
+
+  - id: ane-ugarit-rs-17-0230-carchemish-murder-triple
+    tradition: ane-akkadian
+    title: "Ini-Tešub's agreement with the men of Ugarit: a man of Carchemish killed in Ugarit is compensated threefold, and his lost goods threefold (RS 17.0230)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Interstate agreement, sealed by Ini-Tešub"
+    read: ["Ugarit RS 17.0230"]
+    tags:
+      - {motif: merchants-murdered-blood-compensation, refs: ["Ugarit RS 17.0230 o:1-12", "Ugarit RS 17.0230 r:1-4"], note: "If the killers are seized, awīla 3-šu umalla: 'they pay the man threefold' and the lost goods threefold; reciprocal for a man of Ugarit killed in Carchemish"}
+      - {motif: town-swears-it-does-not-know-killers, refs: ["Ugarit RS 17.0230 o:13-19"], note: "šumma ša idukūšu lā immarū: if the killers are not found, they pay the life (napišta) threefold and the lost goods as much as was lost (single). No oath is mentioned here; tagged for the undiscovered-killer case"}
+    hints:
+      - "Undiscovered killer compare Deut 21:1-9; multiple restitution compare Exod 21:37-22:3 and 2 Sam 12:6 (fourfold)."
+
+  - id: ane-ugarit-rs-17-0239-sakinu-dye-seed
+    tradition: ane-ugaritic
+    title: "The prefect to Taʾazi: send seed of the hurhurātu dye-plant; return the donkey by my messenger Kurwanu (RS 17.0239)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0239"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0239 o:4-6"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 17.0239 o:7-r:20"], note: "zēr ḫurḫurāti (a red dye plant) requested; a donkey taken from here to be returned to the messenger"}
+
+  - id: ane-ugarit-rs-17-0286-amurru-umman-manda
+    tradition: ane-akkadian
+    title: "King of Amurru to the king of Ugarit, 'my brother': the Umman-manda, enemy lords of your father, made peace and sent on to you (RS 17.0286)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Amurru to Ugarit (Pendi-šena of Amurru)"
+    read: ["Ugarit RS 17.0286"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0286 o:4-5"]}
+      - {motif: umman-manda-enemy-horde, refs: ["Ugarit RS 17.0286 o:6-r:4"], note: "ummān-manda annûtu bēlū nakri ša abīka: your father wrote to Pendi-šena 'take them to me and make peace (šulma) with them'; he made peace and sent them on; 'settle them on the road (ina ḫarrāni šukunšu)'"}
+    hints:
+      - "The Umman-manda as a mysterious northern horde compare the 'foe from the north' in Jer 1:13-15, 6:22 and Gog in Ezek 38:6, 15."
+
+  - id: ane-ugarit-rs-17-0288-ushnatu-thieves-araniya
+    tradition: ane-akkadian
+    title: "King of Ušnatu to the prefect of Ugarit: the men of Araniya with their witnesses should swear; the thieves of my slaves are in Araniya (RS 17.0288)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0288"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0288 o:4-6"]}
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 17.0288 o:7-r:2"], note: "The king and you decided the case of the men of ʾAraniya; the hostile man with the vineyard qadu šībūtīšu litmi u lū zakâ: 'let him swear with his witnesses and be clear (innocent)'"}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 17.0288 r:3-15"], note: "Three thieves (šarrāqū) are in ʾAraniya; why do they not hand them over? my slaves were stolen; you know it; your slave was given into the hand of ʾIli-mulik"}
+    hints:
+      - "An accused clears himself by oath ('be clean', zakû) compare Exod 22:10 and Num 5:19-22."
+
+  - id: ane-ugarit-rs-17-0339-suppiluliuma-borders
+    tradition: ane-akkadian
+    title: "Šuppiluliuma I's edict of Ugarit's borders: Mukiš, Nuhašše and Niya attack Ugarit, Niqmaddu appeals, the Hittites rescue him; the frontier towns sealed for ever (RS 17.0339,a+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Hittite border edict, sealed by Šuppiluliuma and Tawananna"
+    read: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366"]
+    tags:
+      - {motif: vassal-refuses-neighbours-pressure-to-rebel, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 o:2-8"], note: "Itur-Addu of Mukiš, Addu-nirari of Nuhašše and Agi-Tešub of Niya rebel, seize Ugarit's towns, carry off Niqmaddu's people and ruin his land"}
+      - {motif: vassal-appeals-to-overlord-save-me-from-enemy, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 o:9-14"], note: "dŠamšu ... ištu qāti nakri lušēzibanni ... anāku wardu ša dŠamši ... itti nakri ša bēlīya nakrāku u itti salāmi ša bēlīya šalmāku; šarrānū uṣaḫḫatūninni"}
+      - {motif: overlord-gives-vassal-the-booty, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 o:15-24"], note: "The princes and great men drive out the enemy and give all the captives to Niqmaddu; he honours them with silver, gold and copper"}
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 o:1'-r:16"], note: "adi ḫuršānī ša Šimeri ... Magdala ... Ṯamra ... Šalma-Yammi; r:14-16 pāṭī ālāni ḫuršānī annûti ... iknukšunūti u ana mārīšu mār mārīšu adi dāriš. o:30-33 and o:1'-8' fragmentary"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 r:17-19"]}
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 r:21-26"], note: "Whoever alters the words: 1 līm ilānī lū īde: Storm-god of heaven, Sun of heaven, Storm-god of Hatti, Sun of Arinna, Hebat of Kizzuwatna, Ištar of Alalah, Nikkal of Nubanni, Baal of Mount Hazzi"}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 r:21-26"]}
+      - {motif: royal-seal-with-queen, refs: ["Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 seal.1:1-2"]}
+    hints:
+      - "A border traced town by town and mountain by mountain compare Josh 15:1-12, Num 34:1-12 and Ezek 47:15-20."
+      - "'Save me from the hand of the enemy, I am your servant' compare 2 Kgs 16:7 (Ahaz to Tiglath-pileser) and Ps 31:16."
+      - "The place name Magdala (migdal 'tower') compare Exod 14:2 (Migdol) and Magdala in Galilee."
+
+  - id: ane-ugarit-rs-17-0341-siyannu-oaths
+    tradition: ane-ugaritic
+    title: "Hittite verdict between Ugarit and Siyannu: oaths about Habiru of the tower, cut vines, provisions to raiders from Beirut, and the return of slaves (RS 17.0341)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal verdict (Akkadian, though listed as ane-ugaritic); beginning lost"
+    read: ["Ugarit RS 17.0341"]
+    tags:
+      - {motif: oath-to-clear-town-of-raid, refs: ["Ugarit RS 17.0341 o:1'-6'", "Ugarit RS 17.0341 o:13'-r:1'"], note: "The men of Siyannu must swear šumma ḫāpirū ša dimti imḫaṣū nīde-mi: 'we do not know if the Habiru of the tower struck'; if they recede from the oath they pay 3-fold. And that they did not give bread and beer (ṣidīta) to men of Beirut who went out raiding in Ugarit"}
+      - {motif: habiru-sa-gaz, refs: ["Ugarit RS 17.0341 o:2'-3'"], note: "LÚ.MEŠ SA.GAZ ša AN.ZA.GÀR: 'the Habiru of the tower'"}
+      - {motif: vines-cut-down-in-border-dispute, refs: ["Ugarit RS 17.0341 o:7'-12'"], note: "The prefect complains: the men of Siyannu cut our vines; both sides swear šumma karānīšunu nīnu nakkis-mi"}
+      - {motif: treaty-return-fugitives, refs: ["Ugarit RS 17.0341 r:2'-10'", "Ugarit RS 17.0341 l.e:1-5"], note: "Slaves of Ṯabi-ʾilu in Ugarit and of the king of Ugarit in Siyannu to be gathered and returned; each side swears it has not hidden or sold any"}
+      - {motif: sold-slave-repaid-like-thief, refs: ["Ugarit RS 17.0341 r:11'-12'"], note: "kī šarrāqi mullâ umalla"}
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 17.0341 o:4'-6'"], note: "If they swear, the hand of the Ugaritians is to 'go up' (lose); if they recede from the oath (ištu māmīti inaḫḫisū) they pay threefold"}
+    hints:
+      - "The Habiru as raiders compare the ʿibrim of 1 Sam 13:3-7, 14:21 and the outlaw band of Judg 11:3 and 1 Sam 22:2."
+      - "Cutting down vines or trees in conflict compare Judg 15:5 and Deut 20:19-20."
+
+  - id: ane-ugarit-rs-17-0346-mashanda-broken-tablet
+    tradition: ane-ugaritic
+    title: "Verdict of Ini-Tešub: the prefect v. Mašanda over 4,000 shekels and a broken sealed tablet; Mašanda to swear or repay (RS 17.0346)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal verdict of Carchemish (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0346"]
+    tags:
+      - {motif: sealed-debt-tablet-broken, refs: ["Ugarit RS 17.0346 o:2-r:2"], note: "Mašanda says the king of Ugarit kept robbing (ilteneriq) the merchants' caravans; before Urḫi-Tešub accounts were made and 2 talents imposed on the king of Ugarit; ṭuppa kanka ... aḫtapi-mi 'I broke the sealed tablet'; the prefect says the broken tablet was not of the 4,000 but of Talimmu's silver"}
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 17.0346 r:3-9"], note: "Mašanda litma: if he swears he takes the 4 talents and is clear; if he recedes from the oath he repays them to the king of Ugarit"}
+      - {motif: merchant-goods-seized-by-official, refs: ["Ugarit RS 17.0346 o:5-6"], note: "Claim that the king of Ugarit robbed the merchants' caravans"}
+    hints:
+      - "A document of obligation cancelled compare Jer 32:10-14 (sealed deed) and Neh 10:32 (remission of debts)."
+
+  - id: ane-ugarit-rs-17-0352-princes-exiled-to-alashiya
+    tradition: ane-akkadian
+    title: "Before Ini-Tešub: queen Ahat-milku gives her sons Hišmi-Šarruma and ʿAbdi-Šarruma, who sinned against ʿAmmistamru, their share and sends them to Alašiya, under oath before Ištar of the steppe (RS 17.0352)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal verdict of Carchemish"
+    read: ["Ugarit RS 17.0352"]
+    tags:
+      - {motif: princes-given-share-and-exiled, refs: ["Ugarit RS 17.0352 o:4-11"], note: "ḫiṭṭa iḫtaṭû 'they committed a sin' against their brother king ʿAmmistamru; ʾAḫat-milku ummašunu šarrat Ugarit zittašunu ... tittadin u ina māt Alašiya tultellīšunūti: she gave their share and sent them up to Cyprus"}
+      - {motif: oath-before-goddess-of-steppe, refs: ["Ugarit RS 17.0352 o:12-13"], note: "ana pāni dIštar-ṣēri māmīta ina birišunu taltakan"}
+      - {motif: treaty-binds-future-generations, refs: ["Ugarit RS 17.0352 o:14-r:5"], note: "Neither they nor their sons and grandsons shall claim their share from the king or his sons and grandsons adi dārīti"}
+      - {motif: tablet-prevails-over-future-claimant, refs: ["Ugarit RS 17.0352 r:6-8"], note: "ištu ūmi annî zēzū baṣrū: 'from this day they are divided and cut off'"}
+    hints:
+      - "Sons given gifts and sent away so the heir inherits alone compare Gen 25:5-6 (Abraham's sons of the concubines sent east) and Gen 21:10-14."
+      - "Rebel princes and the throne compare 1 Kgs 1-2 (Adonijah) and Judg 11:2 (Jephthah driven out from his inheritance)."
+
+  - id: ane-ugarit-rs-17-0365-shaushkamuwa-oath
+    tradition: ane-akkadian
+    title: "Šauška-muwa of Amurru swears not to do murder against ʿAmmistamru of Ugarit, his ships or troops, over the daughter of the Great Lady; heaven and earth and the gods to know (RS 17.0365+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Oath / agreement, beginning lost"
+    read: ["Ugarit RS 17.0365 + RS 18.0006"]
+    tags:
+      - {motif: oath-not-to-murder-allied-king, refs: ["Ugarit RS 17.0365 + RS 18.0006 o:1'-5'", "Ugarit RS 17.0365 + RS 18.0006 r:1-3"], note: "nērta epaš ... ana ḫulluqi mārat rabīti; li-ḫalliqūšu ištu libbi bīt abīšu ... ištu kussî ša abīšu"}
+      - {motif: divorce-of-royal-wife-daughter-of-great-lady, refs: ["Ugarit RS 17.0365 + RS 18.0006 o:5'", "Ugarit RS 17.0365 + RS 18.0006 r:4-9"], note: "aššum mārat rabīti: the case about 'the daughter of the Great Lady' brought before the king of Hatti, the king of Carchemish and the great kings"}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["Ugarit RS 17.0365 + RS 18.0006 o:6'"], note: "dŠamû u dErṣetu lū īdûni: heaven and earth deified (with divine determinative)"}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["Ugarit RS 17.0365 + RS 18.0006 o:7'-11'"], note: "Baal of the field(?), Ištar of Tunip, Baal of Mount Hazzi, Hebat of Aru, Šamaš of heaven, Kušuh and Išhara bēlū māmīti 'lords of the oath'"}
+      - {motif: treaty-oathbreaker-destroyed-with-household, refs: ["Ugarit RS 17.0365 + RS 18.0006 o:11'-r:3"], note: "ilānū annûtu nērta lippušūnišu u liḫalliqūšu: 'may these gods do murder to him' (talionic curse)"}
+    hints:
+      - "Heaven and earth called to witness compare Deut 30:19 and Deut 32:1."
+      - "A royal wife of foreign birth as a political issue compare 1 Kgs 3:1 and 1 Kgs 11:1-3; a king's divorce of a queen compare Esth 1:19."
+
+  - id: ane-ugarit-rs-17-0383-taguhli-lapis
+    tradition: ane-ugaritic
+    title: "Taguhli to the king of Ugarit: I fall twice seven times; the king is angry at the fake lapis; I was near death but recovered, and owe the god Apšukka offerings; send blue wool (RS 17.0383)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0383"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 17.0383 o:1-3"], note: "ana šar Ugarit bēlīya qibīma umma Taguḫli wardukama"}
+      - {motif: sevenfold-prostration, refs: ["Ugarit RS 17.0383 o:4-5"], note: "ana šēpē bēlīya ištu rūqiš 2-šu 7-šu amqut: 'at my lord's feet from afar twice seven times I fall'"}
+      - {motif: letter-mutual-well-being-formula, refs: ["Ugarit RS 17.0383 o:6-9"]}
+      - {motif: overlord-angered-by-worthless-gift, refs: ["Ugarit RS 17.0383 o:10-r:10"], note: "'I have sent you lapis' ... libbašu ša šarri danniš imtali 'the king's heart was very full (angry)'; ul ana muḫḫīya annû ulazzan-mi 'is this not mockery of me?' a stone just lifted from the ground; 'find lapis anywhere and send it to the king'"}
+      - {motif: sick-man-recovers-and-owes-god-offerings, refs: ["Ugarit RS 17.0383 r:11-20"], note: "anāku danniš amtaraṣ ubān lū lā mītāku: 'I was very ill, a finger from being dead'; ištu murṣīya abtaluṭ; dApšukka ša Irḫanda ētelâ ... erriššanni: the god came up and asked for me; offerings (nīqū) and gifts must be brought"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 17.0383 r:20-26"], note: "uqniātu 'blue wool' requested: if my lord does not send it, who else will give it?"}
+    hints:
+      - "Bowing seven times from a distance compare Gen 33:3 (Jacob bows seven times as he approaches Esau)."
+      - "Near death and recovered, with a vow of offerings compare Isa 38:1-22 (Hezekiah), Ps 116:3, 8, 14 and Ps 66:13-15."
+
+  - id: ane-ugarit-rs-17-0390-thief-rashsha
+    tradition: ane-akkadian
+    title: "Letter fragment: the thief who stole my man's goods is in Raʾš-Šaʿir; let him go, do not hold him; 5 shekels of my man (RS 17.0390)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, beginning lost; r:5 garbled"
+    read: ["Ugarit RS 17.0390"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0390 o:1'-3'"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 17.0390 o:4'-r:9"], note: "šarrāqu ša išarraq unūtē ša awīlīya ... ina Raʾš-Šaʿir ašib; obscure orders (uššira, lā takallāšu); r:5 'GAB TA IR ŠU NU' unglossed; 5 shekels of silver of my man"}
+
+  - id: ane-ugarit-rs-17-0429-queen-letter-fragment
+    tradition: ane-akkadian
+    title: "Fragmentary letter: the gods of Mount Hazzi and Irridu guard you; men of the great queen, the daughter of the Sun; barley for his donkey (RS 17.0429)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, left half lost"
+    read: ["Ugarit RS 17.0429"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0429 o:1'-4'"], note: "[...] gimri ilānī [...] Ḫazzi [...] Irridi [...] ana šulmāni liṣṣurūka: 'all the gods', Mount Hazzi (Ṣapon) and Irridu named in the greeting"}
+      - {motif: princess-of-hatti-in-ugarit, refs: ["Ugarit RS 17.0429 o:5'-8'"], note: "awīlū ša šarrati rabīti ... mārat dŠamši: men of the great queen, the daughter of His Majesty (the Hittite king); context broken"}
+    hints:
+      - "Mount Ṣapon (Hazzi) as divine abode compare Ps 48:3 and Isa 14:13."
+
+  - id: ane-ugarit-rs-17-0459-shaushkamuwa-curse
+    tradition: ane-akkadian
+    title: "Fragment of an oath of Šauška-muwa of Amurru: the gods of heaven and earth are to know; may they overthrow him from his throne (RS 17.0459)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Oath fragment; duplicate in sense of RS 17.0365"
+    read: ["Ugarit RS 17.0459"]
+    tags:
+      - {motif: heaven-and-earth-as-witnesses, refs: ["Ugarit RS 17.0459 r:1'"], note: "ilānū šamê u erṣeti lū īdûšu"}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["Ugarit RS 17.0459 r:2'-4'"], note: "Storm-god of the encirclement(?), Ištar of Tunip, Storm-god of Mount Hazzi, Hebat of Aru, Sun of heaven, Kušuh and Išhara bēlū māmīti"}
+      - {motif: treaty-oathbreaker-destroyed-with-household, refs: ["Ugarit RS 17.0459 r:5'-6'"], note: "ištu kussîšu lišbalkitū: 'may they overturn him from his throne'"}
+
+  - id: ane-ugarit-rs-18-0089-urhae-yabninu
+    tradition: ane-akkadian
+    title: "Urhaʾe to Yabninu, 'my good brother': greetings; my wife's brother said ...; let him seize them and send them to me (RS 18.0089)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, reverse broken"
+    read: ["Ugarit RS 18.0089"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 18.0089 o:4-5"]}
+      - {motif: letter-mutual-well-being-formula, refs: ["Ugarit RS 18.0089 o:6-9"]}
+      - {motif: treaty-return-fugitives, refs: ["Ugarit RS 18.0089 o:10-r:8"], note: "Interpretive: after a lacuna, 'let him seize them and send them to me' (liṣbassunu ... šūbilāšunu)"}
+
+  - id: ane-ugarit-rs-19-0053-scribe-brother-angry
+    tradition: ane-akkadian
+    title: "The scribe Matkali-Nabû to the scribe Naheši-šalmu: why are you angry with your brother? write my sin on a tablet; send peas and lentils; the wax tablet and the sandals (RS 19.0053)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between scribes"
+    read: ["Ugarit RS 19.0053"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 19.0053 o:5-7"]}
+      - {motif: why-angry-with-your-brother-letter, refs: ["Ugarit RS 19.0053 o:8-13"], note: "aḫī ammīni raʾbāta itti aḫīka ul kī ša pānānu pānūka ittīya; šumma ḫīṭuya ina pānīka u ina ṭuppi šukunni"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 19.0053 o:14-18"], note: "No peas (ḫallūru) or lentils (kakkû) in your brother's house: do not withhold this wish"}
+      - {motif: wax-writing-board, refs: ["Ugarit RS 19.0053 r:1-7"], note: "šēnu 'sandals' you gave me; šumma ṭuppa ša iškūri tarâm u ludinakku: 'if you love a wax tablet I will give it to you'; return the tablet that is with you to its owner"}
+    hints:
+      - "'What is my sin?' / 'why is your face fallen?' compare Gen 31:36 (Jacob to Laban: what is my trespass?), 1 Sam 20:1, Gen 4:6 and Gen 31:2, 5 (Laban's face not as before)."
+      - "Lentils and pulses as a desired food compare Gen 25:34 and 2 Sam 17:28."
+
+  - id: ane-ugarit-rs-19-0068-niqmaddu-aziru
+    tradition: ane-akkadian
+    title: "Oath between Niqmaddu of Ugarit and Aziru of Amurru: all old claims broken, Aziru clear as the sun; 5,000 shekels paid; Aziru to fight Ugarit's enemies and Habiru raiders (RS 19.0068)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Treaty / settlement"
+    read: ["Ugarit RS 19.0068"]
+    tags:
+      - {motif: all-claims-cleared-like-the-sun, refs: ["Ugarit RS 19.0068 o:1-19"], note: "ištu ūmi annîm ... māmītam ina birišunu ītepšūnim; the claims of Aziru on Ugarit going back to Niqmepa, ʿAmmistamru, Baʿliya ... lū ultabbarū; kīma dŠamši zakâti zakīma: 'as the Sun is clear, he is clear'; 5,000 shekels nadin ina qātī Aziri"}
+      - {motif: treaty-fight-kings-enemy, refs: ["Ugarit RS 19.0068 r:1-5", "Ugarit RS 19.0068 r:14-19"], note: "If a king makes war on the king of Ugarit, or if Sizzaruwa of ʾUšnatu rebels, Aziru with chariots and troops will fight him"}
+      - {motif: ally-must-fight-habiru-raiders, refs: ["Ugarit RS 19.0068 r:6-13"], note: "šumma ṣābū ḫāpirū mātīya iḫtanabbitūni ... šumma ina libbi mātīya duluḫḫê, Aziru ana rēṣūtīya illak"}
+      - {motif: habiru-sa-gaz, refs: ["Ugarit RS 19.0068 r:6-7"]}
+      - {motif: ransom-of-captured-troops, refs: ["Ugarit RS 19.0068 r:20-21"], note: "33 (shekels) of silver ipṭiru ṣābīya and 40 of silver for my horses"}
+      - {motif: oath-sun-sees, refs: ["Ugarit RS 19.0068 l.e:1-3"], note: "Fragmentary: [whoever ... the] words of the oath, u dŠamšu ūmi šuāti ... lidgulū: 'and the Sun of that day ... may they see/watch'"}
+    hints:
+      - "Aziru of Amurru is the same ruler as in the Amarna letters (EA 156-171); compare the Habiru raiders of the Amarna letters and 1 Sam 13:3-7."
+      - "A covenant ending old claims between neighbours compare Gen 31:44-54 (Jacob and Laban's covenant heap) and Gen 21:22-32 (Abraham and Abimelech at Beersheba)."
