@@ -9,6 +9,11 @@ new_motifs:
   heavenly-tablet-kept-or-stolen: {label: "A single heavenly tablet holding supreme decrees, and whether it is guarded or can be stolen", cluster: revelation}
   heavy-charge-offered-in-turn-and-refused: {label: "A heavy charge is offered to three who refuse it in fear, and a fourth takes it on", cluster: deity}
   wind-brings-good-tidings: {label: "The wind carries good tidings (Akkadian busrātu, Arabic bushrā)", cluster: nature}
+  pharaoh-as-god: {label: "The king of Egypt is called, or calls himself, god or lord", cluster: kingship}
+  speechless-with-fear-before-pharaoh: {label: "A man brought before Pharaoh is afraid and cannot speak", cluster: kingship}
+  woman-likened-to-a-ploughed-field: {label: "A woman (wife) is likened to a field that is ploughed", cluster: marriage}
+  slander-as-eating-a-person-s-flesh: {label: "Slander or backbiting is pictured as eating the slandered person's flesh", cluster: ethics}
+  place-weeps-over-the-afflicted: {label: "A city, or heaven and earth, weeps (or does not weep) over a people in disaster", cluster: judgment}
 reviewed:
   - unit: ane-gkab-p348833-o-ii-enemy-turned-back
     checked: [quran-112-114-unity-and-refuge, quran-3-sovereignty, quran-74-cloaked]
@@ -326,4 +331,237 @@ reviewed:
     matches: []
   - unit: ane-gkab-x900000-fragment
     checked: [quran-5-contracts-food-laws, quran-4-prayer-intoxication-purity, quran-2-closing]
+    matches: []
+  - unit: ane-ea-268-milkilu
+    checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty]
+    matches: []
+  - unit: ane-ea-367-pharaoh-to-intaruta
+    checked: [quran-23-believers-succeed, quran-43-zukhruf-pharaoh-claims, quran-27-solomon-ants-hoopoe-sheba]
+    matches: []
+  - unit: ane-ea-381-fragment
+    checked: [quran-5-contracts-food-laws, quran-4-prayer-intoxication-purity, quran-2-closing]
+    matches: []
+  - unit: ane-ea-209-zishamimi
+    checked: [quran-37-sacrifice-of-son, quran-8-fifth-and-badr-vision, quran-3-sovereignty]
+    matches: []
+  - unit: ane-ea-362-rib-addi-plague
+    checked: [quran-48-fath-clear-victory-and-pledge, quran-7-moses-pharaoh, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-364-ayyab
+    checked: [quran-79-pharaoh-and-cosmos, quran-48-fath-clear-victory-and-pledge, quran-84-splitting]
+    matches: []
+  - unit: ane-ea-366-shuwardata
+    checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh]
+    matches: []
+  - unit: ane-ea-363-abdi-risha
+    checked: [quran-89-dawn, quran-79-pharaoh-and-cosmos, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-ea-365-biridiya
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-48-fath-clear-victory-and-pledge]
+    matches: []
+  - unit: ane-ea-135-fragment
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-idol-request, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-190-guard-qadesh-kumidu
+    checked: [quran-83-defrauders, quran-23-believers-succeed, quran-55-rahman-judgment-and-the-four-gardens]
+    matches: []
+  - unit: ane-ea-236-fragment
+    checked: [quran-8-spoils-and-believers, quran-29-destroyed-nations, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-ea-184-shuttarna
+    checked: [quran-10-moses-pharaoh, quran-79-pharaoh-and-cosmos, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-ea-061-abdi-ashirta
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty, quran-26-moses-and-pharaoh]
+    matches: []
+  - unit: ane-ea-371-sumur-burned
+    checked: [quran-10-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh]
+    matches: []
+  - unit: ane-ea-370-pharaoh-to-yidya
+    checked: [quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty, quran-26-moses-and-pharaoh]
+    matches:
+      - with: quran-26-moses-and-pharaoh
+        motif: dominion-from-sunrise-to-sunset
+        refs: ["EA 370 r:27'-28'"]
+        with_refs: ["26:28"]
+        relation: divergence
+        record:
+          agent: [the king of Egypt, Moses]
+          name: [the king like the Sun in heaven, "rabbu l-mashriqi wa-l-maghrib"]
+          place: [from sunrise to sunset, the east and the west and what is between them]
+          quoted: ["ištu ṣīt šamši adi ereb šamši", "rabbu l-mashriqi wa-l-maghribi wa-mā baynahumā"]
+        note: "The span from sunrise to sunset as the extent of rule, in Pharaoh's court: the king's letter says he is well 'like the Sun in heaven' i-na KUR UGU-ti a-di KUR GAM-ti ṣi-it {d}UTU-aš a-di e-re-eb {d}UTU-aš, from the upper to the lower land, from sunrise to sunset; Moses answers Pharaoh that his Lord is rabbu l-mashriqi wa-l-maghribi wa-mā baynahumā. Pharaoh's own realm against the Lord of east and west named to Pharaoh's face."
+  - unit: ane-ea-118-rib-addi-hupshu
+    checked: [quran-8-ratio-captives, quran-59-hashr-banu-nadir-and-fay, quran-29-destroyed-nations]
+    matches: []
+  - unit: ane-ea-074-rib-addi-ammiya
+    checked: [quran-8-ratio-captives, quran-59-hashr-banu-nadir-and-fay, quran-29-destroyed-nations, quran-2-wine-marriage]
+    matches:
+      - with: quran-2-wine-marriage
+        motif: woman-likened-to-a-ploughed-field
+        refs: ["EA 074 o:17-19"]
+        with_refs: ["2:223"]
+        relation: echo
+        record:
+          object: [my field, your wives]
+          action: [is like a wife without a husband for lack of ploughing, are a tilth for you]
+          quoted: ["eqlīya aššata ša lā muta mašil aššum balu erēšim", "nisāʾukum ḥarthun lakum fa-ʾtū ḥarthakum annā shiʾtum"]
+        note: "Woman and ploughed field identified: Rib-Addi writes A.ŠA₃-ia aš-ša-ta ša la mu-ta ma-ši-il aš-šum ba-li i-re-ši-im 'my field is like a wife without a husband, for lack of ploughing'; 2:223 nisāʾukum ḥarthun lakum fa-ʾtū ḥarthakum annā shiʾtum. The same equation read in opposite directions: the unworked field is a husbandless woman; the wife is a field to be sown."
+  - unit: ane-ea-114-rib-addi-aziru
+    checked: [quran-8-ratio-captives, quran-28-qarun, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-083-rib-addi-lady-of-byblos
+    checked: [quran-7-moses-pharaoh, quran-3-badr-uhud, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-073-rib-addi-to-amanappa
+    checked: [quran-11-shuayb, quran-8-fifth-and-badr-vision, quran-5-holy-land-refusal]
+    matches: []
+  - unit: ane-ea-136-rib-addi-shut-out
+    checked: [quran-28-qarun, quran-48-fath-clear-victory-and-pledge, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-088-rib-addi-dog-abdi-ashirta
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-132-rib-addi-to-new-king
+    checked: [quran-8-fifth-and-badr-vision, quran-29-destroyed-nations, quran-8-ratio-captives]
+    matches: []
+  - unit: ane-ea-125-rib-addi-with-what
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-8-ratio-captives, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-123-rib-addi-sherdan
+    checked: [quran-28-qarun, quran-48-fath-clear-victory-and-pledge, quran-89-dawn, quran-7-lot]
+    matches:
+      - with: quran-7-lot
+        motif: deed-never-done-before
+        refs: ["EA 123 o:9-12"]
+        with_refs: ["7:80"]
+        relation: echo
+        record:
+          action: [a deed never done before is done, you commit an act no one has done before]
+          time: [since eternity (ištu dārīti), before you in all the worlds]
+          quoted: ["ipšu ša lā epiš ištu dārīti epiš ana Gubla", "mā sabaqakum bihā min aḥadin mina l-ʿālamīn"]
+          outcome: [the king is asked to act, the city is destroyed by a rain]
+        note: "The protest formula of an unprecedented deed: ip-šu ša-a la a-pi-iš iš-tu da-ri-ti a-pi-iš a-na {uru}gub-la 'a deed that was never done since eternity has been done to Byblos' (Suteans killed a Sherdan and took three men); Lot: a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin mina l-ʿālamīn."
+  - unit: ane-ea-086-rib-addi-to-amanappa-grain
+    checked: [quran-7-moses-pharaoh, quran-38-sad-opening, quran-22-abraham-house-pilgrimage]
+    matches: []
+  - unit: ane-ea-087-rib-addi-to-amanappa-help
+    checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-26-hud-ad, quran-38-sad-opening]
+    matches: []
+  - unit: ane-ea-102-rib-addi-to-yanhamu
+    checked: [quran-10-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-40-believer-of-pharaohs-family]
+    matches: []
+  - unit: ane-ea-131-rib-addi-nubians
+    checked: [quran-26-hud-ad, quran-29-destroyed-nations, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ea-141-ammunira-breath
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-10-moses-pharaoh]
+    matches: []
+  - unit: ane-ea-142-ammunira-rib-addi-exile
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-28-qarun]
+    matches: []
+  - unit: ane-ea-149-abimilki-tyre-zimrida
+    checked: [quran-7-moses-pharaoh, quran-79-pharaoh-and-cosmos, quran-89-dawn]
+    matches: []
+  - unit: ane-ea-147-abimilki-sun-and-baal
+    checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-17-iblis-and-adam]
+    matches:
+      - with: quran-79-pharaoh-and-cosmos
+        motif: pharaoh-as-god
+        refs: ["EA 147 o:1", "EA 147 o:5-15"]
+        with_refs: ["79:24"]
+        relation: divergence
+        record:
+          agent: [the vassal Abimilki, Pharaoh himself]
+          recipient: [Pharaoh, his people]
+          action: [calls Pharaoh his gods and the Sun, claims to be their highest lord]
+          name: ["ilānīya šamšīya (my gods, my Sun)", "rabbukumu l-aʿlā (your Lord most high)"]
+          quoted: ["ana šarri bēlīya ilānīya šamšīya ... šamaš ša ittaṣi ina muḫḫi mātāti", "anā rabbukumu l-aʿlā"]
+        note: "The king of Egypt as divine: Abimilki of Tyre writes a-na LUGAL EN-li₂-ia DINGIR.MEŠ-ia {d}UTU-ia 'to the king my lord, my gods, my Sun', the Sun who rises over the lands, who gives life by his sweet breath and thunders like Baddu (Baal); in 79:23-24 Pharaoh gathers and proclaims fa-qāla anā rabbukumu l-aʿlā. In the Amarna letters the vassal gives the title; in the Quran Pharaoh claims it for himself and is seized for it (79:25)."
+  - unit: ane-ea-151-abimilki-news-of-canaan
+    checked: [quran-48-fath-clear-victory-and-pledge, quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-ea-155-abimilki-mayati
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-17-iblis-and-adam, quran-89-dawn, quran-26-moses-and-pharaoh]
+    matches:
+      - with: quran-26-moses-and-pharaoh
+        motif: speechless-with-fear-before-pharaoh
+        refs: ["EA 155 b.e:31-r:34"]
+        with_refs: ["26:12", "26:13"]
+        relation: parallel
+        record:
+          agent: [Abimilki of Tyre, Moses]
+          recipient: [Pharaoh, Pharaoh]
+          action: [is afraid and cannot speak before Pharaoh, fears and his tongue is not free before Pharaoh]
+          quoted: ["inūma īterub ina pāni šarri ... u palḫāku (gl. ir-e) u lā eleʾu qabâ", "innī akhāfu ... wa-yaḍīqu ṣadrī wa-lā yanṭaliqu lisānī"]
+          outcome: [null, Aaron is sent with him]
+        note: "Fear and failed speech in the presence of the king of Egypt: e-nu-ma i-te-ru-ub i-na pa-ni LUGAL ... u pal-ha-ku ir-e u la-a e-le-u qa-ba 'when I entered before the king I was afraid (Canaanite gloss yrʾ) and could not speak'; Moses: rabbi innī akhāfu an yukadhdhibūni wa-yaḍīqu ṣadrī wa-lā yanṭaliqu lisānī fa-arsil ilā hārūn."
+      - with: quran-43-zukhruf-pharaoh-claims
+        motif: speechless-with-fear-before-pharaoh
+        refs: ["EA 155 b.e:31-r:34"]
+        with_refs: ["43:52"]
+        relation: divergence
+        record:
+          agent: [Abimilki of Tyre, Moses]
+          action: [cannot speak before Pharaoh, can hardly speak clearly]
+          quoted: ["u lā eleʾu qabâ", "wa-lā yakādu yubīn"]
+          name: [Pharaoh the eternal Sun, "Pharaoh: 'am I not better than this contemptible one?'"]
+        note: "The same inability to speak before Pharaoh, told from the other side: the vassal says of himself la-a e-le-u qa-ba 'I could not speak'; Pharaoh says of Moses huwa mahīnun wa-lā yakādu yubīn 'he is contemptible and can hardly make himself clear'. A confession of the speaker in EA 155 against Pharaoh's taunt in 43:52."
+  - unit: ane-ea-235-satatna
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-26-moses-and-pharaoh]
+    matches: []
+  - unit: ane-ea-064-abdi-ashtarti-women
+    checked: [quran-48-fath-clear-victory-and-pledge, quran-28-qarun, quran-22-abraham-house-pilgrimage]
+    matches: []
+  - unit: ane-ea-063-abdi-ashtarti
+    checked: [quran-84-splitting, quran-7-closing-recitation, quran-17-moses-nine-signs-and-close]
+    matches: []
+  - unit: ane-ea-161-aziru-defence
+    checked: [quran-48-fath-clear-victory-and-pledge, quran-43-zukhruf-pharaoh-claims, quran-9-uzayr-clergy, quran-49-hujurat-etiquette-and-brotherhood]
+    matches:
+      - with: quran-49-hujurat-etiquette-and-brotherhood
+        motif: slander-as-eating-a-person-s-flesh
+        refs: ["EA 161 o:7-9"]
+        with_refs: ["49:12"]
+        relation: echo
+        record:
+          agent: [false men, a backbiter]
+          action: [eat my pieces before the king, eats the flesh of his dead brother]
+          object: [the writer's pieces (karṣū), his brother's flesh]
+          quoted: ["awīlī sarrūti ša ikalūni karṣīya ana pāni šarri", "a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan"]
+        note: "Slander as eating the slandered man: Aziru asks the king not to listen to LU₂.MEŠ sa-ar-ru-ti ša i-ka-lu-u-ni kar-ṣi-ia 'the false men who eat my pieces' (the idiom akālu karṣī, 'to slander'); 49:12 wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan. A dead idiom in the letter; in 49:12 the image is spelled out and turned into a prohibition."
+  - unit: ane-ea-055-akizzi-sun-god-statue
+    checked: [quran-2-talut-jalut, quran-7-idol-request, quran-28-qarun]
+    matches: []
+  - unit: ane-ea-053-akizzi-etakkama
+    checked: [quran-7-idol-request, quran-8-fifth-and-badr-vision, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-ea-303-shubandu
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge, quran-28-qarun]
+    matches: []
+  - unit: ane-ea-304-shubandu
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge, quran-28-qarun]
+    matches: []
+  - unit: ane-ea-306-shubandu-sick
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-48-fath-clear-victory-and-pledge]
+    matches: []
+  - unit: ane-ea-059-citizens-of-tunip
+    checked: [quran-26-hud-ad, quran-15-abraham-guests-lot, quran-28-qarun, quran-44-dukhan-pharaoh-drowned]
+    matches:
+      - with: quran-44-dukhan-pharaoh-drowned
+        motif: place-weeps-over-the-afflicted
+        refs: ["EA 059 r:39-42"]
+        with_refs: ["44:29"]
+        relation: divergence
+        record:
+          agent: [the city of Tunip, heaven and earth]
+          action: [weeps and its tears flow, did not weep over them]
+          quoted: ["Tunip ālka ibakki u dimātēšu illak", "fa-mā bakat ʿalayhimu s-samāʾu wa-l-arḍ"]
+          outcome: [no one takes its hand, they were given no respite]
+        note: "Places personified as weeping: u i-na-an-na {uru}tu-ni-ip URU-ka i-ba-ak-ki u di-ma-te.MEŠ-šu i-la-ak 'now Tunip your city weeps and its tears flow', a subject city of Egypt asking Pharaoh's help; of drowned Pharaoh's people, fa-mā bakat ʿalayhimu s-samāʾu wa-l-arḍu wa-mā kānū munẓarīn. The city weeps for itself; heaven and earth refuse to weep for Pharaoh's people."
+  - unit: ane-ea-100-irqata-and-elders
+    checked: [quran-7-moses-pharaoh, quran-18-dhul-qarnayn, quran-59-hashr-banu-nadir-and-fay]
+    matches: []
+  - unit: ane-ea-197-biryawaza
+    checked: [quran-8-ratio-captives, quran-26-hud-ad, quran-11-shuayb]
     matches: []
