@@ -589,3 +589,344 @@ units:
       - "YHWH's rebuke of the sea compare Ps 104:7, Ps 106:9, Nah 1:4, Isa 50:2; Sea and River in parallel compare Hab 3:8 and Ps 93:3."
       - "'YHWH is king' after the combat compare Ps 93:1, Ps 29:10 (YHWH sits enthroned over the flood), Exod 15:18; the god's victory over the sea compare Job 26:12 and Ps 74:13."
       - "Compare Q 44:24 (leave the sea at rest) for a late echo of the parted, subdued sea."
+
+  - id: ane-ktu-1-3-i-feast-on-zaphon
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 I: a servant feasts Baal, lord of the earth: brisket carved, a holy cup no woman may see, a thousand jars of wine; a youth sings of Baal on the heights of Ṣapan; Baal looks on his daughters"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 I"]
+    tags:
+      - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.3 I:2-17"], note: "ybrd ṯd lpnwh bḥrb mlḥt qṣ mri ... ytn ks bdh krpn bklat ydh ... alp kd yqḥ bḫmr rbt ymsk bmskh"}
+      - {motif: cup-women-may-not-see, refs: ["KTU 1.3 I:12-15"], note: "ks qdš ltphnh aṯt krpn ltʿn aṯrt: 'a holy cup a woman may not see, a goblet Athirat may not behold'"}
+      - {motif: mixed-wine-of-feast, refs: ["KTU 1.3 I:15-17"], note: "1,000 jars of new wine, 10,000 mixed with its mixture (msk)"}
+      - {motif: divine-singer-sings-on-mountain, refs: ["KTU 1.3 I:18-22"], note: "ybd wyšr mṣltm bd nʿm yšr ġzr ṭb ql ʿl bʿl bṣrrt ṣpn"}
+      - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.3 I:21-22"], note: "ṣrrt ṣpn 'the heights of Ṣapan'"}
+      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.3 I:22-25"], note: "pdry bt ar ... ṭly bt rb"}
+      - {motif: zion-in-recesses-of-north, refs: ["KTU 1.3 I:21-22"], note: "ṣrrt ṣpn, the cognate of yarkete ṣafon"}
+    hints:
+      - "Wine mixed in the bowl for a feast compare Prov 9:2, 5 and Isa 5:22; cymbals and the singer before the god compare Ps 150:5, 1 Chr 15:16-19."
+      - "Mount Zion 'in the recesses of Zaphon' compare Ps 48:3."
+
+  - id: ane-ktu-1-3-ii-anat-battle
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 II: Anat shuts her house and slaughters the people of the seashore and the sunrise: heads like balls, hands like locusts, knee-deep in blood; she fights tables and chairs, rejoices, washes her hands and bathes in dew of heaven and oil of earth"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 II"]
+    tags:
+      - {motif: goddess-adorns-for-journey, refs: ["KTU 1.3 II:2-3"], note: "kpr šbʿ bnt rḥ gdm wanhbm: henna of seven girls, scent of coriander and murex"}
+      - {motif: goddess-massacres-in-valley, refs: ["KTU 1.3 II:5-8"], note: "tḫṣ bʿmq tḫtṣb bn qrytm tmḫṣ lim ḫp ym tṣmt adm ṣat špš: 'she fights in the valley, battles between the two cities, smites the people of the seashore, destroys the men of the sunrise'"}
+      - {motif: heads-and-hands-as-goddess-ornaments, refs: ["KTU 1.3 II:9-13"], note: "tḥth kkdrt riš ʿlh kirbym kp ... ʿtkt rišt lbmth šnst kpt bḥbšh"}
+      - {motif: goddess-wades-knee-deep-in-blood, refs: ["KTU 1.3 II:13-15", "KTU 1.3 II:27-28"], note: "brkm tġll bdm ḏmr ḥlqm bmmʿ mhrm"}
+      - {motif: locust-simile, refs: ["KTU 1.3 II:10"], note: "kirbym kp k qṣm: hands 'like locusts', 'like grasshoppers'"}
+      - {motif: goddess-rejoices-in-slaughter, refs: ["KTU 1.3 II:23-27"], note: "tġdd kbdh bṣḥq ymlu lbh bšmḫt kbd ʿnt tšyt"}
+      - {motif: goddess-battles-tables-and-chairs, refs: ["KTU 1.3 II:17-22", "KTU 1.3 II:29-30"]}
+      - {motif: goddess-washes-hands-of-blood, refs: ["KTU 1.3 II:30-35"], note: "ymḥ bbt dm ḏmr yṣq šmn šlm bṣʿ trḥṣ ydh btlt ʿnt uṣbʿth ybmt limm"}
+      - {motif: blessing-of-dew-and-fatness, refs: ["KTU 1.3 II:38-41"], note: "tḥspn mh wtrḥṣ ṭl šmm šmn arṣ rbb rkb ʿrpt: 'dew of heaven, oil of earth', the showers of the Rider of the Clouds -- the pair of Gen 27:28, 39 (miṭal ha-šamayim u-mišmanne ha-areṣ)"}
+      - {motif: rider-of-the-heavens, refs: ["KTU 1.3 II:39-40"], note: "rbb rkb ʿrpt"}
+      - {motif: bow-of-goddess, refs: ["KTU 1.3 II:15-16"], note: "mṭm tgrš šbm bksl qšth mdnt: she drives off captives with the string of her bow"}
+    hints:
+      - "The avenger wades or washes his feet in the blood of the wicked compare Ps 58:11, Ps 68:22-24 and Isa 63:1-6 (garments stained from the winepress)."
+      - "'Dew of heaven and fatness of the earth' compare Gen 27:28, 39 and Deut 33:13, 28."
+      - "Slaughter in the valley compare Joel 4:2, 12-14 (the valley of decision)."
+
+  - id: ane-ktu-1-3-iii-message-on-zaphon
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 III 1-31: Anat perfumes herself; a song of Baal's love; Baal's message: put war from the earth, hasten to me; the word of tree and stone, of heaven to earth and deeps to stars; 'come, I will reveal it in my mountain, divine Ṣapan, the holy mount of my inheritance'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 III:1-31"]
+    tags:
+      - {motif: lyre-song-of-gods-love, refs: ["KTU 1.3 III:4-8"], note: "[knrh bydh] ... mšr l dd aliyn bʿl yd pdry ... ahbt ṭly ... dd arṣy: a lyre song of Baal's love for his daughters/brides (lyre restored)"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.3 III:9-10"]}
+      - {motif: put-war-from-earth-pour-peace, refs: ["KTU 1.3 III:14-17"], note: "qryy barṣ mlḥmt št bʿprm ddym sk šlm lkbd arṣ arbdd lkbd šdm"}
+      - {motif: hasten-to-me-summons, refs: ["KTU 1.3 III:18-20"], note: "ḥšk ʿṣk ʿbṣk ʿmy pʿnk tlsmn ʿmy twtḥ išdk"}
+      - {motif: word-of-tree-whisper-of-stone, refs: ["KTU 1.3 III:20-28"], note: "rgm ʿṣ wlḫšt abn tant šmm ʿm arṣ thmt ʿmn kbkbm abn brq dl tdʿ šmm rgm ltdʿ nšm wltbn hmlt arṣ: 'I understand the lightning the heavens do not know, the word humans do not know'"}
+      - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.3 III:28-31"], note: "atm wank ibġyh btk ġry il ṣpn bqdš bġr nḥlty bnʿm bgbʿ tliyt"}
+      - {motif: mountain-of-god, refs: ["KTU 1.3 III:29"], note: "ġry il ṣpn 'my mountain, divine Ṣapan'"}
+      - {motif: mount-of-assembly-in-north, refs: ["KTU 1.3 III:29-31"]}
+    hints:
+      - "'The mountain of your inheritance, the place you made for your dwelling, the sanctuary' compare Exod 15:17 (be-har naḥalatkha) and Ps 78:54 (his holy border, this mountain)."
+      - "'My holy mountain' compare Ps 2:6 and Ps 48:2-3 (his holy mountain, beautiful in elevation, the recesses of Zaphon)."
+      - "Heavens and deep speaking compare Ps 19:2-5 and Hab 3:10 (the deep gave its voice); a secret word revealed compare Job 4:12 and Amos 3:7."
+
+  - id: ane-ktu-1-3-iii-anat-slain-monsters
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 III 32 - IV 4: Anat trembles at the messengers: what enemy has risen against Baal? 'Did I not smite Yamm, beloved of El, River the great god, muzzle Tunnanu, smite the twisting serpent, Šalyaṭ of seven heads ...'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 III:32-IV:4"]
+    tags:
+      - {motif: goddess-trembles-at-messengers-approach, refs: ["KTU 1.3 III:32-38"], note: "bh pʿnm tṭṭ bʿdn ksl tṯbr ʿln pnh tdʿ tġṣ pnt kslh ... ik mġy gpn wugr mn ib ypʿ lbʿl ṣrt lrkb ʿrpt"}
+      - {motif: god-boasts-monsters-slain, refs: ["KTU 1.3 III:38-47"]}
+      - {motif: catalogue-of-slain-monsters, refs: ["KTU 1.3 III:38-47"], note: "lmḫšt mdd il ym lklt nhr il rbm lištbm tnn ištmdh mḫšt bṯn ʿqltn šlyṭ d šbʿt rašm mḫšt mdd ilm arš ṣmt ʿgl il ʿtk mḫšt klbt ilm išt klt bt il ḏbb"}
+      - {motif: dragon-tunnanu-muzzled, refs: ["KTU 1.3 III:40"], note: "lištbm tnn: 'did I not muzzle Tunnanu'"}
+      - {motif: sea-and-dragon-under-guard, refs: ["KTU 1.3 III:38-40"], note: "Yamm and Tannin (tnn) as the pair named in Job 7:12 ('am I Yamm or Tannin?')"}
+      - {motif: leviathan-fleeing-twisting-serpent, refs: ["KTU 1.3 III:41"], note: "bṯn ʿqltn = Isa 27:1 naḥaš ʿaqallaton"}
+      - {motif: seven-headed-serpent-slain, refs: ["KTU 1.3 III:41-42"], note: "šlyṭ d šbʿt rašm"}
+      - {motif: multi-headed-leviathan-crushed, refs: ["KTU 1.3 III:42"]}
+      - {motif: heads-of-tanninim-broken, refs: ["KTU 1.3 III:40-42"]}
+      - {motif: storm-god-driven-from-zaphon-like-bird, refs: ["KTU 1.3 III:47-IV:3"], note: "ṭrd bʿl bmrym ṣpn mšṣṣ k ʿṣr udnh gršh lksi mlkh lnḫt lkḥṯ drkth: '(the one) who drove Baal from the heights of Ṣapan, chased him like a bird from his nest(?), drove him from the throne of his kingship'"}
+      - {motif: rider-of-the-heavens, refs: ["KTU 1.3 III:38", "KTU 1.3 IV:4"]}
+      - {motif: loins-shake-in-terror-at-news, refs: ["KTU 1.3 III:32-35"]}
+    hints:
+      - "Leviathan the fleeing and twisting serpent, Tannin in the sea compare Isa 27:1; the heads of Leviathan and of the tanninim compare Ps 74:13-14; Rahab and the fleeing serpent compare Job 26:12-13; Isa 51:9-10."
+      - "'Am I Yam or Tannin, that you set a guard over me?' compare Job 7:12; muzzling Leviathan compare Job 40:25-26."
+      - "Loins shaking, knees giving way, face pale at bad news compare Isa 21:3-4, Nah 2:11, Ezek 21:12, Dan 5:6."
+      - "Driven like a bird from its nest compare Isa 16:2 and Prov 27:8."
+
+  - id: ane-ktu-1-3-iv-anat-to-zaphon
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 IV 5-55: the lads repeat Baal's message; Anat agrees to put war from the earth; she crosses a thousand fields to Ṣapan; Baal sends the women away and sets an ox before her; she bathes in dew; lament: Baal has no house like the gods; Anat will make El turn to her"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 IV:5-55"]
+    tags:
+      - {motif: hasten-to-me-summons, refs: ["KTU 1.3 IV:11-12"]}
+      - {motif: word-of-tree-whisper-of-stone, refs: ["KTU 1.3 IV:13-18"]}
+      - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.3 IV:19-20"], note: "btk ġry il ṣpn bqdš bġr nḥlty"}
+      - {motif: put-war-from-earth-pour-peace, refs: ["KTU 1.3 IV:21-31"], note: "Anat consents: an aqry barṣ mlḥmt ašt bʿprm ddym ask šlm lkbd arṣ"}
+      - {motif: storm-god-lightning-horns-kindled, refs: ["KTU 1.3 IV:25-27"], note: "yšt b[šmm] bʿl mdlh ybʿr [rkb ʿr]pt qrnh: 'let Baal set his thunderbolt (or harness) in the heavens, the Rider of the Clouds kindle his horns (rays)'"}
+      - {motif: thousand-fields-ten-thousand-furlongs, refs: ["KTU 1.3 IV:37-38"]}
+      - {motif: guest-honoured-with-fattened-oxen-and-sheep, refs: ["KTU 1.3 IV:40-42"], note: "šrḥq aṯt lpnnh št alp qdmh mria wtk pnh: he sends the women away and sets an ox, a fatling before her"}
+      - {motif: blessing-of-dew-and-fatness, refs: ["KTU 1.3 IV:42-44"], note: "ṭl šmm šmn arṣ ṭl šmm tskh rbb nskh kbkbm: 'dew the heavens pour, showers the stars pour on her'"}
+      - {motif: god-has-no-house-like-the-gods, refs: ["KTU 1.3 IV:47-53"], note: "[wn in bt lbʿl km ilm wḥẓr] kbn a[ṯrt] mṯb il mẓll bnh: Baal must lodge with his father and the daughters (largely restored)"}
+      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.3 IV:50-53"]}
+    hints:
+      - "Dew poured by the heavens compare Deut 33:28, Prov 3:20 and Judg 5:20 (the stars fought from heaven); the god's horns/rays compare Hab 3:4 (rays from his hand)."
+      - "The god without a house compare 2 Sam 7:2-6 (YHWH has dwelt in a tent) and 1 Kgs 8:13."
+
+  - id: ane-ktu-1-3-v-anat-threatens-el
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 V: Anat threatens to bloody El's grey beard unless Baal gets a house; she storms into El's tent; El answers from his seven chambers; 'your word is wise; our king is Baal, our judge, none above him'; Shapsh glows, the heavens weak in Mot's hand"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 V"]
+    tags:
+      - {motif: goddess-threatens-el-grey-beard-blood, refs: ["KTU 1.3 V:1-4", "KTU 1.3 V:19-25"], note: "[a]mṣḫnn kimr larṣ [ašhl]k šbth dmm šbt dqnh [mmʿm] ... al tšmḫ brm hkl[k] ... ašhlk šbtk [dmm] šbt dqnk mmʿm: 'I will drag him like a lamb to the ground, make his grey hair run with blood'"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.3 V:5-8"], note: "[ʿm il] mbk nhrm [qr]b [ap]q [thm]tm tgl ḏd i[l] wtbu [qr]š mlk ab [šnm]"}
+      - {motif: el-answers-from-seven-chambers, refs: ["KTU 1.3 V:10-11", "KTU 1.3 V:25-27"], note: "bšbʿt ḥdrm bṯmnt ap sgrt"}
+      - {motif: sun-glows-heavens-weak-in-deaths-hand, refs: ["KTU 1.3 V:17-18"], note: "nrt ilm špš [ṣḥr]rt la šmm by[d bn ilm m]t (Mot partly restored)"}
+      - {motif: el-wise-forever, refs: ["KTU 1.3 V:30-31"], note: "tḥmk il ḥkm ḥkmk ʿm ʿlm ḥyt ḥẓt tḥmk"}
+      - {motif: our-king-none-above-him, refs: ["KTU 1.3 V:32-34"], note: "mlkn aliyn bʿl ṯpṭn in dʿlnh klnyy qšh nbln klnyy nbl ksh"}
+      - {motif: god-has-no-house-like-the-gods, refs: ["KTU 1.3 V:35-43+1"], note: "any lyṣḥ ṯr il abh il mlk d yknnh: 'he cries to the Bull El his father, El the king who created him'"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.3 V:35-36"], note: "il mlk d yknnh 'El the king who established (created) him'"}
+      - {motif: grey-hair-crown-of-glory, refs: ["KTU 1.3 V:2", "KTU 1.3 V:24-25"], note: "šbt dqn: El's grey beard as the mark of his age, here threatened"}
+    hints:
+      - "El 'the king' who created (kwn) Baal compare Deut 32:6 (is he not your father who created you, who made you and established you, ykhonenekha)."
+      - "'YHWH is our judge, YHWH our lawgiver, YHWH our king' compare Isa 33:22; 'none above him' compare Ps 97:9."
+      - "The God of seven chambers compare Ps 104:3, 13 (his upper chambers) and Amos 9:6."
+
+  - id: ane-ktu-1-3-vi-messengers-to-kothar
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.3 VI: a gift for Athirat; Baal sends Gapn and Ugar across sea, mountains and the heights of heaven to Qudšu-Amrur and on to Kothar in Memphis and Caphtor"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.3 (Baal Cycle tablet 3)"
+    read: ["KTU 1.3 VI"]
+    tags:
+      - {motif: gift-to-goddess-before-request, refs: ["KTU 1.3 VI:1-5"], note: "mgn rbt aṯrt [y]m mġẓ qnyt ilm: 'a gift for Lady Athirat of the Sea, a present for the Creatress of the gods'"}
+      - {motif: mother-of-gods-creatress, refs: ["KTU 1.3 VI:2"], note: "qnyt ilm 'creatress (qny) of the gods'"}
+      - {motif: sea-and-mountains-wrapped-in-darkness, refs: ["KTU 1.3 VI:6-10"], note: "ʿmmym bn ẓlm[t] rmt prʿt"}
+      - {motif: messengers-cross-sea-and-mountains, refs: ["KTU 1.3 VI:15-21"], note: "alp š[ir b]ym rbt [kmn] bnhrm [ʿ]br gbl ʿbr qʿl ʿbr iht np šmm"}
+      - {motif: craftsman-god-from-caphtor-and-memphis, refs: ["KTU 1.3 VI:23-27"], note: "tk ḥkpt il klh kptr ksu ṯbth ḥkpt arṣ nḥlth"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.3 VI:29-31"]}
+      - {motif: thousand-fields-ten-thousand-furlongs, refs: ["KTU 1.3 VI:28-29"]}
+    hints:
+      - "Athirat 'creatress' (qnyt) compare the verb qnh of Gen 14:19, 22 (El Elyon qoneh shamayim va-areṣ) and Gen 4:1."
+
+  - id: ane-ktu-1-4-i-kothar-casts-gifts
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 I: Baal has no house; prepare a gift for Athirat; Kothar goes up to the bellows and pours silver and gold into a canopy, couch, throne, footstool, sandals?, a table full of all the beasts of earth's foundations and a bowl with wild bulls"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 I"]
+    tags:
+      - {motif: god-has-no-house-like-the-gods, refs: ["KTU 1.4 I:4-18"], note: "largely restored at the top; mṯb il mẓll bnh ... mṯb klt knyt"}
+      - {motif: gift-to-goddess-before-request, refs: ["KTU 1.4 I:19-22"], note: "šskn mʿ mgn rbt aṯrt ym mġẓ qnyt ilm"}
+      - {motif: mother-of-gods-creatress, refs: ["KTU 1.4 I:22"]}
+      - {motif: craftsman-casts-gifts-silver-gold, refs: ["KTU 1.4 I:23-37"], note: "hyn ʿly lmpḫm bd ḫss mṣbṭm yṣq ksp yšlḥ ḫrṣ yṣq ksp lalpm ḫrṣ yṣqm lrbbt ... kḥṯ il nḫt ... hdm id ... nʿl il"}
+      - {motif: divine-table-of-all-animals, refs: ["KTU 1.4 I:38-43"], note: "ṯlḥn il dmla mnm dbbm d msdt arṣ ... sʿ il ... dbh rumm lrbbt"}
+      - {motif: master-craftsman-of-all-materials, refs: ["KTU 1.4 I:23-43"]}
+    hints:
+      - "The craftsman casting the sanctuary's gold furnishings (table, lampstand, bowls) compare Exod 25:23-40 and Exod 37 (Bezalel), 1 Kgs 7:48-50 (Hiram)."
+      - "The bronze sea on twelve oxen compare the bowl decorated with wild bulls (1 Kgs 7:23-25)."
+
+  - id: ane-ktu-1-4-ii-athirat-by-sea
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 II: Athirat with her spindle washes her garment in the sea; she trembles at the approach of Baal and Anat, 'have they come to slay my sons?', then sees the gleam of silver and gold and rejoices; she calls her fisherman"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 II"]
+    tags:
+      - {motif: mother-goddess-spinning-by-sea, refs: ["KTU 1.4 II:3-9"], note: "aḫdt plkh bydh ... npynh mks bšrh tmṯʿ mdh bym ṯn npynh bnhrm štt ḫptr lišt"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.4 II:10-11"], note: "ṯr il dpid ... bny bnwt 'the Bull El the Compassionate, creator of creatures'"}
+      - {motif: loins-shake-in-terror-at-news, refs: ["KTU 1.4 II:12-20"]}
+      - {motif: goddess-fears-visitors-come-to-slay-sons, refs: ["KTU 1.4 II:21-26"], note: "ik mġy aliyn bʿl ik mġyt btlt ʿnt mḫṣy hm [m]ḫṣ bny"}
+      - {motif: goddess-won-by-gleam-of-gifts, refs: ["KTU 1.4 II:26-29"], note: "ktʿn ẓl ksp wnrt ḫrṣ šmḫ rbt aṯrt ym"}
+      - {motif: fisherman-of-the-goddess, refs: ["KTU 1.4 II:29-34"], note: "dgy rbt aṯrt ym qḥ rṯt bdk: 'fisherman of Lady Athirat of the Sea, take a net in your hand'"}
+    hints:
+      - "The capable woman with spindle and distaff compare Prov 31:19; the creator 'banah'/'bny bnwt' compare Gen 2:22."
+      - "A gift that opens the way before the great compare Prov 18:16 and Gen 32:21 (Jacob's present to appease Esau)."
+
+  - id: ane-ktu-1-4-iii-baal-insulted
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 III: Baal complains he was mocked and spat on in the assembly of the sons of El; Baal hates three feasts: of shame, of strife and of the handmaids' lewdness; Baal and Anat give gifts to Athirat; feast"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 III"]
+    tags:
+      - {motif: god-insulted-in-assembly, refs: ["KTU 1.4 III:10-16"], note: "qm ydd wyqlṣn yqm wywpṯn btk pḫr bn ilm štt p[gl]t bṯlḥny qlt bks ištynh"}
+      - {motif: divine-council, refs: ["KTU 1.4 III:13-14"], note: "pḫr bn ilm 'the assembly of the sons of El'"}
+      - {motif: divine-council-assembles, refs: ["KTU 1.4 III:13-14"]}
+      - {motif: god-hates-feasts-of-shame-and-lewdness, refs: ["KTU 1.4 III:17-22"], note: "ṯn dbḥm šna bʿl ṯlṯ rkb ʿrpt dbḥ bṯt wdbḥ dnt wdbḥ tdmmt amht"}
+      - {motif: numerical-saying-two-three, refs: ["KTU 1.4 III:17-18"], note: "ṯn ... ṯlṯ: 'two feasts Baal hates, three the Rider of the Clouds'"}
+      - {motif: prophetic-critique-of-sacrifice, refs: ["KTU 1.4 III:17-22"], note: "Interpretive parallel: a god hates certain feasts (dbḥ) for the shame and lewdness at them"}
+      - {motif: gift-to-goddess-before-request, refs: ["KTU 1.4 III:23-36"], note: "tmgnn rbt aṯrt ym tġẓyn qnyt ilm ... hm ġẓtm bny bnwt: 'have you also brought gifts to the Bull El, creator of creatures?'"}
+      - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.4 III:40-44"], note: "[tl]ḥm tšty ... mrġṯm ṯd ... krpnm yn [bks ḫrṣ d]m ʿṣm"}
+      - {motif: messianic-vine-and-ass, refs: ["KTU 1.4 III:44"], note: "dm ʿṣm 'blood of trees' for wine, as Hebrew dam ʿanavim 'blood of grapes'"}
+    hints:
+      - "'Six things YHWH hates, seven are an abomination' compare Prov 6:16-19 and Prov 30:15-31; God hating feasts compare Amos 5:21, Isa 1:13-14, Hos 4:13-14 (sacrifice with temple women)."
+      - "'Blood of grapes' for wine compare Gen 49:11 and Deut 32:14."
+      - "Spitting and mockery in the assembly compare Job 30:9-10 and Isa 50:6."
+
+  - id: ane-ktu-1-4-iv-athirat-before-el
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 IV: Athirat rides a saddled donkey to El at the source of the rivers; El laughs and offers her food, wine or his love; 'our king is Baal'; Baal has no house; El: am I a slave, is Athirat a handmaid, to mould bricks?"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 IV"]
+    tags:
+      - {motif: goddess-rides-saddled-donkey, refs: ["KTU 1.4 IV:2-19"], note: "mdl ʿr ṣmd pḥl št gpnm dt ksp dt yrq nqbnm ... yštn aṯrt lbmt ʿr ... qdš yuḫdm šbʿr amrr kkbkb lpnm aṯr btlt ʿnt"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.4 IV:20-24"], note: "ʿm il mbk nhrm qrb apq thmtm tgly ḏd il wtbu qrš mlk ab šnm"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.4 IV:25-26"]}
+      - {motif: el-laughs-feet-on-footstool, refs: ["KTU 1.4 IV:27-30"], note: "yprq lṣb wyṣḥq pʿnh lhdm yṯpd wykrkr uṣbʿth"}
+      - {motif: el-offers-food-and-love, refs: ["KTU 1.4 IV:31-39"], note: "rġb rġbt ... ġmu gmit ... lḥm hm štym lḥm bṯlḥnt ... hm yd il mlk yḫssk ahbt ṯr tʿrrk"}
+      - {motif: el-wise-forever, refs: ["KTU 1.4 IV:41-42"]}
+      - {motif: our-king-none-above-him, refs: ["KTU 1.4 IV:43-46"]}
+      - {motif: god-has-no-house-like-the-gods, refs: ["KTU 1.4 IV:47-57"]}
+      - {motif: am-i-a-slave-to-mould-bricks, refs: ["KTU 1.4 IV:58-62"], note: "pʿbd an ʿnn aṯrt pʿbd ank aḫd ulṯ hm amt aṯrt tlbn lbnt ybn bt lbʿl"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.4 IV:58"], note: "lṭpn il dpid"}
+    hints:
+      - "Making bricks as the slave's work compare Exod 1:14 and Exod 5:7-8."
+      - "A queen approaching the king who asks 'what is your wish?' compare Esth 5:2-3 and 1 Kgs 2:19-20 (Bathsheba before Solomon)."
+
+  - id: ane-ktu-1-4-v-house-granted
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 V: El's grey beard instructs him; let Baal give his rain, his voice in the clouds and his lightning; let a caravan bring silver, gold and lapis; Anat brings the good news; Kothar arrives and sits at Baal's right; 'shall I put a window in the house?' - 'No'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 V"]
+    tags:
+      - {motif: grey-beard-instructs-high-god, refs: ["KTU 1.4 V:3-5"], note: "rbt ilm lḥkmt šbt dqnk ltsrk"}
+      - {motif: grey-hair-crown-of-glory, refs: ["KTU 1.4 V:4"]}
+      - {motif: storm-gods-season-of-rain-and-thunder, refs: ["KTU 1.4 V:6-9"], note: "wn ap ʿdn mṭrh bʿl yʿdn ʿdn ṯkt bglṯ wtn qlh bʿrpt šrh larṣ brqm"}
+      - {motif: storm-god-voice-shakes-heaven-and-earth, refs: ["KTU 1.4 V:8-9"], note: "qlh bʿrpt ... brqm: his voice in the clouds, lightning to the earth"}
+      - {motif: caravan-brings-silver-gold-lapis, refs: ["KTU 1.4 V:13-19", "KTU 1.4 V:29-40"], note: "ṣḥ ḫrn bbhtk ... tblk ġrm mid ksp gbʿm mḥmd ḫrṣ ... wbn bht ksp wḫrṣ bht ṭhrm iqnim"}
+      - {motif: sapphire-throne, refs: ["KTU 1.4 V:19"], note: "bht ṭhrm iqnim: 'a house of the purest lapis lazuli'"}
+      - {motif: good-news-a-house-is-given, refs: ["KTU 1.4 V:20-28"], note: "ṣḥq btlt ʿnt ... tbšr bʿl bšrtk yblt ytn bt lk km aḫk"}
+      - {motif: beautiful-feet-of-herald, refs: ["KTU 1.4 V:25-27"], note: "bšr 'good news' brought across the mountains"}
+      - {motif: craftsman-seated-at-right-hand, refs: ["KTU 1.4 V:44-48"], note: "št alp qdmh ... tʿdb ksu wyṯṯb lymn aliyn bʿl"}
+      - {motif: god-commissions-king-to-build-temple, refs: ["KTU 1.4 V:50-57"], note: "ḥš bhtm tbnn ḥš trmmn hklm btk ṣrrt ṣpn alp šd aḫd bt"}
+      - {motif: window-in-the-palace-dispute, refs: ["KTU 1.4 V:58-65"], note: "bl ašt urbt bbh[tm] ḥln bqrb hklm ... al tšt urbt"}
+      - {motif: scribal-note-return-to-passage, refs: ["KTU 1.4 V:42-43"], note: "wṯb lmspr ktlakn ġlmm: 'and return to the recitation: when the lads are sent'"}
+    hints:
+      - "Gold, silver, gems gathered for building the temple compare 1 Chr 29:2-8 and Exod 25:3-7, Exod 35:21-29; 'he gives his voice' in thunder compare Ps 18:14, Ps 29:3-9, Jer 10:13."
+      - "The herald's good news across the mountains compare Isa 40:9, Isa 52:7 and Nah 2:1."
+      - "Sit at my right hand compare Ps 110:1."
+
+  - id: ane-ktu-1-4-vi-palace-built-fire
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 VI: 'you will come back to my word'; cedars from Lebanon and Sirion; fire burns in the house six days and on the seventh the silver has become plates and the gold bricks; Baal feasts his brothers, the seventy sons of Athirat"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 VI"]
+    tags:
+      - {motif: window-in-the-palace-dispute, refs: ["KTU 1.4 VI:1-15"], note: "al tšt u[rb]t bbhtm ... al td[d pdr]y ... [m]dd ilym ... qlṣn: the reason given involves the daughters and Yamm, beloved of El, who mocked him"}
+      - {motif: cedars-of-lebanon-and-sirion-for-palace, refs: ["KTU 1.4 VI:16-21"], note: "llbnn wʿṣh l[š]ryn mḥmd arzh"}
+      - {motif: cedars-from-lebanon-via-joppa, refs: ["KTU 1.4 VI:18-21"]}
+      - {motif: fire-burns-in-palace-seven-days, refs: ["KTU 1.4 VI:22-35"], note: "tšt išt bbhtm nblat bhklm hn ym wṯn tikl išt ... ṯlṯ kbʿ ... ḫmš ṯdṯ ym ... mk bšbʿ ymm td išt ... sb ksp lrqm ḫrṣ nsb llbnt"}
+      - {motif: days-pass-formula, refs: ["KTU 1.4 VI:24-32"], note: "Seven-day counting: one, two; three, four; five, six; on the seventh"}
+      - {motif: palace-feast-for-seventy-sons, refs: ["KTU 1.4 VI:38-59"], note: "ṭbḫ alpm ap ṣin ... ṣḥ aḫh bbhth aryh bqrb hklh ṣḥ šbʿm bn aṯrt špq ilm krm yn špq ilht ḫprt ..."}
+      - {motif: seventy-sons, refs: ["KTU 1.4 VI:46"], note: "šbʿm bn aṯrt"}
+      - {motif: nations-divided-by-number-of-sons-of-god, refs: ["KTU 1.4 VI:46"], note: "Interpretive: the seventy sons of the divine mother as the full count of the gods"}
+      - {motif: dedication-at-feast-of-seventh-month, refs: ["KTU 1.4 VI:40-55"], note: "Loose: a temple-completion feast after a seven-day period"}
+      - {motif: massive-dedication-sacrifice, refs: ["KTU 1.4 VI:40-43"]}
+    hints:
+      - "Cedars of Lebanon for the temple compare 1 Kgs 5:20-24 and Ps 29:5-6 (Lebanon and Sirion)."
+      - "Seven days (or seven years) of building and a dedication feast compare 1 Kgs 6:38, 1 Kgs 8:2, 62-66 (fourteen days, 22,000 oxen)."
+      - "Seventy sons of the mother goddess compare Deut 32:8 (LXX/4Q 'sons of God'), Gen 10 (seventy nations), Judg 9:5 (seventy sons of Jerubbaal)."
+
+  - id: ane-ktu-1-4-vii-window-opened-voice
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 VII: Baal takes sixty-six cities; he orders the window opened, a rift in the clouds; he gives his holy voice, the earth quakes, the mountains tremble, his enemies flee to the forests; 'I alone rule the gods'; messengers to Mot"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 VII"]
+    tags:
+      - {motif: storm-god-captures-cities, refs: ["KTU 1.4 VII:7-12"], note: "ṯṯ lṯṯm aḫd ʿr šbʿm šbʿ pdr ṯmnym ... tšʿm"}
+      - {motif: window-in-the-palace-dispute, refs: ["KTU 1.4 VII:14-27"], note: "aštm kṯr bn ym ... yptḥ ḥln bbhtm urbt bqrb hklm ... ṣḥq kṯr ... lrgmt lk ... tṯbn bʿl lhwty"}
+      - {motif: window-opened-rift-in-clouds, refs: ["KTU 1.4 VII:17-19", "KTU 1.4 VII:27-28"], note: "yptḥ bʿl bdqt ʿrpt"}
+      - {motif: windows-of-heaven-opened-foundations-shake, refs: ["KTU 1.4 VII:17-35"], note: "The palace window (ḥln, urbt; Hebrew ʾarubbot) opened in the clouds; the earth quakes"}
+      - {motif: storm-god-voice-shakes-heaven-and-earth, refs: ["KTU 1.4 VII:29-35"], note: "qlh qdš bʿl ytn ... qlh q[dš] trr arṣ ṣat [špt]h ġrm [tḫšn] ... qdmym bmt ar[ṣ] tṭṭn"}
+      - {motif: sevenfold-voice-of-yhwh, refs: ["KTU 1.4 VII:29-31"], note: "qlh qdš 'his holy voice' repeated"}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["KTU 1.4 VII:31-35"]}
+      - {motif: enemies-flee-to-forests, refs: ["KTU 1.4 VII:35-39"], note: "ib bʿl tiḫd yʿrm šnu hd gpt ġr ... lm tḫš nṯq dmrn"}
+      - {motif: cedar-spear-in-gods-right-hand, refs: ["KTU 1.4 VII:40-41"], note: "ʿn bʿl qdm ydh ktġḏ arz bymnh"}
+      - {motif: king-or-no-king-over-earth, refs: ["KTU 1.4 VII:42-44"], note: "umlk ublmlk arṣ drkt yštkn"}
+      - {motif: god-sole-ruler-who-fattens-gods-and-men, refs: ["KTU 1.4 VII:45-52"], note: "aḥdy dymlk ʿl ilm dymru ilm wnšm dyšbʿ hmlt arṣ"}
+      - {motif: sea-and-mountains-wrapped-in-darkness, refs: ["KTU 1.4 VII:52-57"]}
+    hints:
+      - "The voice of YHWH breaking the cedars, shaking the wilderness, and the enemies' flight compare Ps 29:3-9, Ps 18:8-16, Ps 68:2-9, 34; YHWH roars from Zion compare Amos 1:2, Joel 4:16."
+      - "The windows (ʾarubbot) of heaven opened compare Gen 7:11, 2 Kgs 7:2, Mal 3:10, Isa 24:18; death entering through windows compare Jer 9:20."
+      - "'I alone' ruler of gods and men, who satisfies all flesh compare Ps 145:15-16, Ps 104:27-28; 'is there a king or not?' compare 1 Sam 8 and Judg 17:6."
+
+  - id: ane-ktu-1-4-viii-messengers-to-mot
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.4 VIII: Baal's messengers are to go to the mountains at earth's edge, lift them, and go down to the 'house of freedom' and Mot's city Miry: a pit his throne, filth his land; beware lest Mot put you in his mouth like a lamb; colophon of Ilimilku"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.4 (Baal Cycle tablet 4)"
+    read: ["KTU 1.4 VIII"]
+    tags:
+      - {motif: messengers-to-death-lift-mountains, refs: ["KTU 1.4 VIII:1-9"], note: "ʿm ġr trġzz ʿm ġr ṯrmg ʿm tlm ġṣr arṣ ša ġr ʿl ydm ḫlb lẓr rḥtm wrd bt ḫpṯt arṣ tspr byrdm arṣ"}
+      - {motif: counted-among-those-who-descend, refs: ["KTU 1.4 VIII:7-9"], note: "bt ḫpṯt: cf. Hebrew bet ha-ḥofšit (2 Kgs 15:5) and ḥofshi 'free among the dead' (Ps 88:6)"}
+      - {motif: like-those-who-go-down-to-pit, refs: ["KTU 1.4 VIII:8-9"], note: "tspr byrdm arṣ: 'be counted among those who go down into the earth'"}
+      - {motif: death-city-pit-throne-mire-land, refs: ["KTU 1.4 VIII:10-14"], note: "qrth hmry mk ksu ṯbth ḫḫ arṣ nḥlth"}
+      - {motif: death-puts-victims-in-mouth-like-lamb, refs: ["KTU 1.4 VIII:14-20"], note: "al tqrb lbn ilm mt al yʿdbkm kimr bph klli bṯbrn qnh tḫtan"}
+      - {motif: sun-glows-heavens-weak-in-deaths-hand, refs: ["KTU 1.4 VIII:21-24"]}
+      - {motif: prostration-before-deity, refs: ["KTU 1.4 VIII:26-29"]}
+      - {motif: scribe-colophon-names-author, refs: ["KTU 1.4 VIII:49"], note: "[spr ilmlk ṯʿ]y nqmd mlk ugrt (largely restored)"}
+    hints:
+      - "'Free among the dead', 'counted with those who go down to the pit' compare Ps 88:5-7 and the bet ha-ḥofšit of 2 Kgs 15:5."
+      - "The miry pit compare Ps 40:3 (bor shaʾon, ṭiṭ ha-yawen) and Ps 69:3, 15."
+      - "Death swallowing like a beast compare Hab 2:5 and Prov 1:12 (swallow them alive like Sheol)."

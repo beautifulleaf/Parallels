@@ -1,0 +1,119 @@
+# Full read of the ANE corpus, chunk 44: Sinuhe (10 witnesses), Truth and Falsehood (pChester Beatty II),
+# the Tale of the Two Brothers (pD'Orbiney), pWestcar (Khufu and the Magicians), and CTH 1 (Anitta text).
+# Egyptian read from the TLA 2018 export (transliteration, lemmas, German translation); each Sinuhe witness
+# (W1 = B, W2 = R, W3 = BA, W4 = H, W5 = AOS, W6 = L, W7 = Bdt, W8 = C, W9 = S, W10 = G) is its own unit set,
+# later witnesses tagged more briefly with their variants. Hittite read from the TLHdig manuscript transliterations
+# with German lemma glosses (no translation); each manuscript (W1 KBo 22.5, W2 KBo 3.22, W3 KBo 50.1, W4 KBo 61.319,
+# W5 KUB 26.71, W6 KUB 36.98b+) is its own unit set.
+new_motifs:
+  # --- Sinuhe ---
+  courtier-flees-on-kings-death: {label: "A courtier overhears the secret news of the king's death, panics, and flees the country", cluster: exile}
+  fugitive-slips-past-border-fortress: {label: "The fugitive slips past the border fortress built to keep out the Asiatics by crouching in a bush and marching by night", cluster: exile}
+  fugitive-dying-of-thirst-saved-by-nomads: {label: "Dying of thirst in the desert ('this is the taste of death'), the fugitive is found by a nomad chief who gives him water and boiled milk", cluster: exile}
+  fugitive-passed-from-land-to-land: {label: "The fugitive is handed on 'from foreign land to foreign land' until a foreign ruler takes him in", cluster: exile}
+  foreign-ruler-welcomes-fugitive: {label: "A foreign ruler takes in the fugitive ('you will be well with me, you will hear the speech of Egypt') and asks why he came", cluster: exile}
+  fugitive-gives-evasive-account: {label: "Asked why he fled, the fugitive gives an evasive, half-true account and insists he was not accused, spat upon or denounced", cluster: exile}
+  flight-like-a-dream-ordained-by-god: {label: "The fugitive says he does not know what drove him: it was like a dream, a god's plan; the god who ordained the flight drew him away", cluster: providence}
+  eulogy-of-king-to-foreign-ruler: {label: "The exile delivers a hymn in praise of his king to a foreign ruler: incomparable warrior, beloved of his city, conqueror from the egg, advising the foreigner to send to him and stay loyal", cluster: kingship}
+  host-marries-fugitive-to-eldest-daughter: {label: "The foreign host gives the fugitive his eldest daughter in marriage and sets him at the head of his tribe", cluster: exile}
+  foreign-land-of-figs-wine-honey-oil: {label: "A foreign land is praised as unequalled: figs and grapes, more wine than water, abundant honey and oil trees, every fruit, barley and emmer, endless cattle", cluster: geography}
+  exile-prospers-and-children-become-chiefs: {label: "In exile the hero grows rich in food and herds; his children grow into strong men, each a chief of his tribe", cluster: exile}
+  hero-gives-water-to-thirsty-guides-lost: {label: "The good man boasts that he gave water to the thirsty, set the strayed on the road and rescued the robbed, and hosted every messenger", cluster: ethics}
+  strongman-challenges-hero-to-single-combat: {label: "An unequalled strongman challenges the foreign-born hero to single combat in his camp, meaning to plunder his herds; the people fear for the hero", cluster: heroes}
+  stranger-bull-in-another-herd: {label: "The foreigner likens himself to a bull of another herd whom the herd's own bull attacks out of jealousy", cluster: wisdom}
+  hero-kills-champion-with-his-own-axe: {label: "Having let the champion's missiles miss him, the hero shoots him in the neck; the champion falls on his face and the hero finishes him with the champion's own axe, then takes his goods", cluster: heroes}
+  fugitive-sayings-contrast-need-and-wealth: {label: "Sayings contrast the fugitive's past need with his present wealth: the fugitive flees for hunger and nakedness, but now I give bread to my neighbour and wear fine linen", cluster: wisdom}
+  exile-prays-to-return-home-before-death: {label: "The aged exile prays to the god who ordained his flight to bring him home to see the place his heart dwells and to be buried in the land of his birth", cluster: exile}
+  old-age-described-limb-by-limb: {label: "Old age is described limb by limb: eyes heavy, arms weak, legs no longer follow, heart weary, near to departing", cluster: wisdom}
+  king-writes-to-recall-exile: {label: "The king sends a letter to the exile abroad: you did nothing wrong, your own heart drove you; come back to Egypt", cluster: kingship}
+  promise-of-burial-in-egypt-not-in-ramskin: {label: "The exile is promised a full Egyptian burial (embalming, mummy case of gold, mask of lapis, procession, dances, tomb among the pyramids) instead of dying abroad, buried by Asiatics wrapped in a ram's skin", cluster: death}
+  letter-received-with-prostration-and-dust: {label: "On hearing the royal letter read out, the recipient throws himself on his belly, touches the earth and strews it on his chest, then circles his camp rejoicing", cluster: kingship}
+  exile-reply-letter-protests-innocence: {label: "The exile's reply to the king calls his flight unplanned and unknowing, 'like a dream', and declares that the king's power fills the world: the sun rises and the air is breathed at his will", cluster: kingship}
+  departing-hero-wills-goods-to-eldest-son: {label: "Before returning home the hero hands over all his goods, servants and herds to his eldest son, who takes charge of his tribe", cluster: family}
+  returning-exile-swoons-before-king: {label: "Brought before the throne, the returning exile lies prostrate, does not know himself, his ba gone, not knowing whether he is alive or dead", cluster: kingship}
+  royals-fail-to-recognize-returnee-as-asiatic: {label: "The king presents the returned exile to the queen as one 'come back as an Asiatic, a creature of the Bedouin'; she and the royal children shriek and say it is not he", cluster: recognition}
+  princesses-sing-for-pardon-of-exile: {label: "The royal daughters shake their menits and sistra and sing a hymn asking the king to pardon the exile who fled for fear of him", cluster: hymn}
+  returnee-groomed-and-dressed-in-fine-linen: {label: "The returnee's desert years are taken from his body: he is groomed, his foreign clothes given away, dressed in fine linen, anointed with oil and sleeps in a bed", cluster: exile}
+  king-builds-and-endows-tomb-for-courtier: {label: "The king has a stone pyramid tomb built and endowed for his favoured courtier, with gilded statue, funerary priests and fields", cluster: death}
+  wish-to-greet-queen-and-serve-her-children: {label: "The exile hopes to greet the queen ('the lady of the land') in the palace and hear that her children are well", cluster: kingship}
+  # --- Truth and Falsehood ---
+  dagger-of-cosmic-size: {label: "A lent dagger is described in cosmic proportions: its blade the mountain of Yal, its hilt the trees of Coptos, its sheath the god's tomb, its strap the herds of Kar", cluster: myth}
+  younger-brother-blinds-elder: {label: "The younger brother, Falsehood, has his elder brother Truth blinded and made doorkeeper of his house", cluster: primeval}
+  servants-ordered-to-throw-master-to-lions: {label: "The villain orders servants to throw their master to a fierce lion and lionesses; they spare him and report that the lion devoured him", cluster: heroes}
+  lady-desires-blind-stranger-conceives: {label: "A lady sees a beautiful man lying abandoned at the foot of a hill, desires him, sleeps with him and conceives a son that night", cluster: sexuality}
+  boy-mocked-as-fatherless: {label: "Schoolmates mock the boy: 'whose son are you? you have no father!'; he asks his mother his father's name", cluster: childhood}
+  son-avenges-wronged-father: {label: "The son learns his blinded father's story and goes out to avenge him (ꜥn wšb, 'seek redress')", cluster: justice}
+  tall-tale-of-cosmic-bull: {label: "To expose a lie the hero describes a bull of cosmic size: standing on the Isle of Amun, tail in the Delta marshes, horns on the eastern and western mountains, the river his bed, sixty calves born to him daily", cluster: wisdom}
+  liar-swears-his-own-punishment: {label: "The liar swears that if his victim is found alive he himself shall suffer what he did to him; the victim is found alive and the liar receives the punishment he named", cluster: justice}
+  lawsuit-before-divine-tribunal: {label: "The parties are brought to court before the Ennead, which hears the case and judges between them", cluster: law}
+  # --- Two Brothers ---
+  younger-brother-raised-as-son: {label: "A younger brother lives in his elder brother's household 'like a son' and does all its work: ploughing, harvest, herding and making his clothes", cluster: family}
+  cattle-tell-herdsman-where-pasture-good: {label: "The cattle speak to their herdsman and tell him where the pasture is good, and he understands them", cluster: animals}
+  herd-multiplies-under-heros-care: {label: "Under the hero's care the master's cattle thrive exceedingly and multiply their calves", cluster: patriarchs}
+  seducer-offers-fine-clothes: {label: "The temptress promises the young man fine clothes as reward for lying with her", cluster: joseph}
+  hero-likens-seducer-to-mother: {label: "Refusing, the hero tells the woman she is like a mother to him and her husband like a father, and calls her proposal a great crime", cluster: joseph}
+  hero-promises-silence-about-seduction: {label: "The hero promises to tell no one of the woman's proposal and orders her never to speak of it again", cluster: joseph}
+  accuser-feigns-beating: {label: "The woman makes herself look beaten (with fat and bandages), lies feigning sickness, does not pour water on her husband's hands or light the lamp, to support her accusation", cluster: joseph}
+  accuser-puts-her-words-in-heros-mouth: {label: "In her false accusation the woman quotes her own proposal word for word as the hero's, and her own (fictive) refusal citing kinship", cluster: joseph}
+  accuser-threatens-suicide-unless-hero-killed: {label: "The false accuser tells her husband she will kill herself if he lets the accused live", cluster: joseph}
+  enraged-like-leopard: {label: "A man in fury becomes 'like a leopard (of the south)'", cluster: emotions}
+  husband-lies-in-wait-to-kill-hero: {label: "The deceived husband (elder brother) sharpens his spear and waits behind the stable door to kill the hero on his return", cluster: joseph}
+  speaking-cow-warns-of-ambush: {label: "As each cow enters the stable it speaks to its herdsman, warning him that a man stands behind the door to kill him: 'flee!'", cluster: animals}
+  sun-god-separates-wrongdoer-from-righteous: {label: "The persecuted man prays to the sun god as 'the one who separates the wrongdoer from the righteous', and the god hears all his pleas", cluster: justice}
+  god-sets-crocodile-water-between-pursuer-and-pursued: {label: "God makes a great water full of crocodiles appear between the pursuer and the fugitive, so that they stand on opposite sides", cluster: providence}
+  case-to-be-judged-at-sunrise: {label: "The wronged man tells his pursuer to wait until dawn: when the sun disk rises he will plead against him before it, and it will hand over the wrongdoer to the righteous", cluster: justice}
+  self-castration-as-proof-of-innocence: {label: "The falsely accused man swears by the sun god, cuts off his own phallus with a reed knife and throws it into the water, where a catfish swallows it", cluster: joseph}
+  elder-brother-weeps-for-wronged-brother: {label: "Realising the wrong, the elder brother grieves and weeps aloud for his younger brother but cannot cross over to him", cluster: family}
+  remember-good-not-only-evil: {label: "The wronged man reproaches his kinsman: if you remember one bad thing, can you not remember one good thing I did for you?", cluster: ethics}
+  heart-placed-in-tree-external-soul: {label: "The hero takes out his heart and places it on the top of a tree; his life depends on it and he dies when the tree is felled", cluster: magic}
+  heart-revived-in-bowl-of-water: {label: "The dead hero's heart (found as a seed or grape after years of searching) is placed in a bowl of cool water; it drinks, he trembles, drinks it back and lives as before", cluster: magic}
+  beer-foams-sign-of-disaster: {label: "A sign agreed in advance tells the brother of the hero's disaster: a jar of beer foams over and wine turns foul in his hand", cluster: magic}
+  husband-kills-lying-wife-throws-to-dogs: {label: "Convinced of the hero's innocence, the husband goes home, kills his lying wife and throws her to the dogs", cluster: joseph}
+  mourner-hand-on-dust-smeared-head: {label: "A mourner goes home with his hand on his head, which is smeared with dust (earth)", cluster: mourning}
+  wronged-hero-lives-alone-in-valley-of-cedar: {label: "The exiled hero lives alone in the Valley of the Cedar (Pine), hunting desert game and sleeping under the tree that holds his heart; he builds himself a house there", cluster: exile}
+  god-fashions-wife-so-man-not-alone: {label: "A god (the potter Khnum) is told to fashion a wife for a man 'so that he does not live alone'; she is more beautiful than any woman, the seed of every god in her", cluster: creation}
+  seven-hathors-decree-fate: {label: "The Seven Hathors come to see a newborn (or newly made) being and decree its fate 'with one mouth'", cluster: fate}
+  hero-reveals-secret-of-his-life-to-wife: {label: "The hero opens his whole heart to his wife, telling her the secret (his heart in the tree) on which his life depends", cluster: heroes}
+  sea-pursues-woman-takes-lock-of-hair: {label: "The Sea (Yam) surges after a woman; the tree gives it a lock of her hair, which the Sea carries to Egypt", cluster: myth}
+  scent-of-hair-in-kings-linen: {label: "The fragrance of a lock of hair washed up where the royal laundrymen work perfumes the king's linen; the king quarrels with the launderers until the lock is found and brought to him", cluster: court}
+  scholars-identify-divine-daughter: {label: "The king's scribes and wise men declare the lock belongs to a daughter of the sun god in whom is the seed of every god, and advise sending envoys to every land to find her", cluster: court}
+  envoys-sent-to-fetch-beauty: {label: "The king sends messengers and then an army to fetch a beautiful foreign woman; a woman bearing fine jewellery is sent with them to lure her away", cluster: court}
+  wife-betrays-husbands-life-secret: {label: "The hero's wife, now the king's favourite, tells the king to fell the tree that holds her husband's life", cluster: heroes}
+  hero-transforms-into-bull: {label: "The hero turns himself into a great bull of beautiful markings whose nature no one knows; carried to the king, he is hailed as a great wonder", cluster: transformation}
+  finder-rewarded-with-gold-and-silver: {label: "The one who brings the wonder to the king is rewarded with his weight in silver and gold, people and goods", cluster: court}
+  reborn-hero-confronts-betrayer: {label: "In his new form the hero confronts his betrayer: 'Look, I am still alive! I am Bata'; she is afraid", cluster: heroes}
+  woman-makes-king-swear-to-grant-wish: {label: "While serving the king wine, a woman makes him swear by god to grant whatever she will say, and then names a cruel request", cluster: court}
+  wife-asks-to-eat-liver-of-bull: {label: "The wife asks to eat the liver of the sacred bull (her reincarnated husband) so that it will be slaughtered", cluster: court}
+  blood-drops-at-gate-become-trees: {label: "Two drops of the slaughtered bull's blood fall beside the two doorposts of the king's gate and grow overnight into two great persea trees, hailed as a wonder", cluster: transformation}
+  tree-speaks-to-betrayer: {label: "The tree in which the hero lives speaks to his betrayer sitting beneath it: 'You liar! I am Bata; I am alive in spite of you'", cluster: transformation}
+  conception-by-swallowing-splinter: {label: "A splinter from the felled tree flies into the woman's mouth; she swallows it and conceives at once; the hero is reborn as her son", cluster: birth}
+  reborn-hero-becomes-crown-prince-and-king: {label: "The reborn hero is loved by the king, made King's Son of Kush, crown prince, and king when the old king 'flies to heaven'", cluster: kingship}
+  king-judges-wife-before-officials: {label: "On becoming king, the hero has his wife brought, pleads against her before the great officials, tells all that happened, and they agree to her condemnation", cluster: justice}
+  loyal-brother-made-successor: {label: "The king makes his loyal brother crown prince; after reigning thirty years he dies and the brother succeeds him", cluster: kingship}
+  colophon-curse-on-critic-of-book: {label: "Colophon: whoever speaks against this book, Thoth (the scribe god) will be his adversary", cluster: scribal}
+  # --- Westcar ---
+  kings-sons-tell-wonders-of-old: {label: "The king's sons rise one after another to tell the king a wonder (bjꜣ,yt) worked by a magician-priest in the days of a former king", cluster: narrative-form}
+  offerings-for-dead-king-and-his-magician: {label: "After each wonder tale the king orders offerings (a thousand loaves, a hundred jars of beer, an ox, incense) for the dead king and his magician: 'I have seen his deed of knowledge'", cluster: cult}
+  priests-wife-adultery-in-garden-pavilion: {label: "A priest's wife takes a commoner as lover; they spend the day drinking in the pavilion of his garden lake and the caretaker reports it to the husband", cluster: sexuality}
+  wax-crocodile-becomes-living: {label: "A magician makes a crocodile of wax; thrown into the water after the adulterer it becomes a real crocodile of seven cubits and seizes him; picked up again it is wax", cluster: magic}
+  magician-commands-crocodile: {label: "The magician commands the crocodile to bring up the man from the depths and later the king tells it to take away 'what is yours'; no one knows where it took him", cluster: magic}
+  rowing-maidens-in-nets: {label: "A melancholy king is cheered by twenty beautiful young women, clad only in nets, rowing him on the palace lake", cluster: court}
+  magician-folds-back-lake-waters: {label: "The magician lays one half of the lake's water upon the other half, finds a lost amulet lying on a shard on the dry bottom, gives it back, and returns the waters", cluster: magic}
+  sage-of-110-years-with-vast-appetite: {label: "A sage commoner of 110 years still eats 500 loaves, half an ox and drinks 100 jars of beer a day", cluster: wisdom}
+  magician-rejoins-severed-head: {label: "A magician rejoins a severed head to its body by spells, and the goose (bird, ox) stands up alive", cluster: magic}
+  sage-refuses-to-test-magic-on-human: {label: "Offered a condemned prisoner for his beheading-and-revival trick, the sage refuses: not on a human being, the noble flock (of god)", cluster: ethics}
+  three-sons-of-sun-god-prophesied-as-kings: {label: "A seer foretells that a priest's wife is pregnant with three children of the sun god who will become kings, and the reigning king is troubled", cluster: kingship}
+  goddesses-disguised-deliver-divine-children: {label: "Birth goddesses disguised as travelling musician-dancers (with Khnum as porter) deliver a woman of divine children, naming each with a pun and declaring 'a king'", cluster: birth}
+  crowns-hidden-in-sack-make-royal-music: {label: "The goddesses hide three royal crowns in a sack of barley left sealed in a room; from it come the sounds of royal singing and jubilation", cluster: kingship}
+  servant-betrays-royal-birth-seized-by-crocodile: {label: "A punished maidservant sets out to betray the birth of the future kings to the reigning king, but is seized by a crocodile on the way", cluster: providence}
+  # --- Anitta (CTH 1) ---
+  storm-god-of-heaven-favours-king: {label: "The king's success is grounded in his being 'dear to the Storm-god of Heaven'", cluster: kingship}
+  city-taken-by-night-assault: {label: "A king takes an enemy city by a night assault (išpanti nakkit)", cluster: warfare}
+  conqueror-makes-citizens-his-parents: {label: "Having taken the city, the conqueror does no evil to its people but 'makes them his mothers and fathers'", cluster: kingship}
+  inscription-set-at-city-gate-with-curse: {label: "The king sets his words on a tablet at his city gate: whoever damages it in future shall be the enemy of the city", cluster: kingship}
+  destroyed-city-sown-with-weeds: {label: "The conqueror razes the enemy city and sows its site with weeds (ZÀ.AḪ.LI)", cluster: conquest}
+  temples-built-and-booty-dedicated: {label: "The king builds temples to his gods in his capital and dedicates to them the goods he brought back from campaign", cluster: temple}
+  royal-hunt-animals-brought-to-city: {label: "The king boasts of a hunt in one day (lions, wild boars, leopards, deer, wild goats) and of bringing the beasts to his city", cluster: kingship}
+  submitting-king-brings-iron-throne-and-sceptre: {label: "A submitting king brings the conqueror a throne of iron and a sceptre of iron as gift", cluster: kingship}
+  submitted-king-seated-before-conqueror: {label: "The submitted king is brought to the conqueror's capital and given a seat in front of him (at his right) when he enters the inner chamber", cluster: kingship}
+units:

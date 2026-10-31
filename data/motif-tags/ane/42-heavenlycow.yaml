@@ -111,6 +111,22 @@ new_motifs:
   name-endures-on-earth: {label: "Wish that the dead man's corpse endure in the necropolis and his name endure on earth", cluster: afterlife}
   dead-king-receives-offerings: {label: "The gods give the dead king daily breath, cool water and offerings", cluster: afterlife}
   no-enemies-among-men-or-gods: {label: "Declaration that the speaker has no enemies among men, gods, spirits or the dead in the whole land", cluster: magic}
+  rivals-contest-by-strength: {label: "One claimant proposes to settle the dispute by a trial of strength with his rival before the gods", cluster: kingship}
+  high-god-mocks-young-heir: {label: "The high god mocks the young claimant as weak in body, a boy with bad breath, too small for the office", cluster: kingship}
+  god-repels-chaos-serpent-from-sun-barque: {label: "A god boasts that he daily slays the enemy of the sun god (Apophis) from the prow of the sun barque", cluster: cosmology}
+  should-office-go-to-brother-while-son-stands: {label: "Refrain: shall the office be given to the brother while the bodily son stands by (or to the boy while the elder brother stands by)?", cluster: kingship}
+  oath-by-life-of-divine-mother: {label: "A goddess swears 'as my mother lives, as (the creator) lives'", cluster: law}
+  threat-to-kill-one-god-each-day: {label: "An angry god threatens to take his sceptre and kill one of the gods every day", cluster: kingship}
+  refuses-to-litigate-while-woman-present: {label: "A litigant swears he will not plead in court as long as a certain goddess is present, and the court is moved to an island", cluster: law}
+  widow-and-fatherless-son-wronged: {label: "A widow tells how a stranger threatens to beat her fatherless son and seize his father's cattle", cluster: law}
+  ferryman-punished-toes-cut: {label: "The ferryman who disobeyed is punished by having the front of his feet cut off", cluster: law}
+  lie-to-high-god-about-victim: {label: "The attacker tells the high god he has not found his victim, though he has maimed him", cluster: kingship}
+  high-god-orders-feast-for-peace: {label: "The high god orders the quarrelling rivals to eat and drink together and make peace", cluster: kingship}
+  mother-cuts-off-sons-defiled-hands: {label: "The mother cuts off her son's hands defiled by the rival's semen, throws them in the water and makes him new ones", cluster: kingship}
+  verdict-x-is-right-y-is-wrong: {label: "The divine court pronounces 'X is right (mꜣꜥ), Y is wrong (ꜥḏꜣ)'", cluster: law}
+  verdict-repeatedly-won-but-ignored: {label: "The claimant complains that he has been declared right in hall after hall, a thousand times, yet his opponent ignores the verdict", cluster: law}
+  high-god-belittles-other-gods-gift: {label: "The high god retorts that the gift a god boasts of (grain) would have existed even if that god had never been born", cluster: theology}
+  justice-sunk-in-underworld: {label: "The god of the dead complains that justice (Maat) has been allowed to sink into the underworld", cluster: theology}
 units:
   - id: ane-heavenlycow-w1-council-and-eye-sent
     tradition: ane-egyptian
@@ -320,3 +336,180 @@ units:
       - {motif: king-son-of-sun-god, refs: ["HeavenlyCow W5:0/2", "HeavenlyCow W5:0/8"], note: "zꜣ-Rꜥ n ẖ,t =f"}
     hints:
       - "Compare Ps 2:7 ('You are my son, today I have begotten you') for the divine sonship of the king."
+  - id: ane-horusseth-1-tribunal-opens
+    tradition: ane-egyptian
+    title: The lawsuit of Horus and Seth opens before the Lord of All; Ba-neb-Djed counsels writing to Neith (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 1_1-2_13/2"]
+    tags:
+      - {motif: heir-claims-fathers-office-before-tribunal, refs: ["HorusSeth 1_1/2", "HorusSeth 1_11/3", "HorusSeth 1_12-1_12/2"], note: "the child (ms) claims tꜣ jꜣw,t n jt Ws-jr before Nb-r-ḏr; Re-Harakhti wants to give the office to Seth 'great of strength'"}
+      - {motif: divine-council, refs: ["HorusSeth 1_3-1_8/3", "HorusSeth 2_2/2-2_7"], note: "Shu, Thoth, Onuris, Isis, the Ennead; the Lord of All rebukes them for deciding without him and sits silent in anger"}
+      - {motif: rivals-contest-by-strength, refs: ["HorusSeth 1_9-1_10"], note: "Seth: let him go outside with me, my hand will seize his hand before the Ennead"}
+      - {motif: divine-lawsuit-drags-on-eighty-years, refs: ["HorusSeth 2_13"], note: "80 n rnp,t ... jw =sn m tꜣ qnb,t"}
+      - {motif: tribunal-writes-to-oracle-goddess, refs: ["HorusSeth 2_5-2_6", "HorusSeth 2_8-2_9/3"], note: "Ba-neb-Djed: 'let us not make decisions in our ignorance'; Thoth writes to Neith 'the great, god's mother'"}
+      - {motif: letter-address-praises-recipient-with-epithets, refs: ["HorusSeth 2_9/5", "HorusSeth 2_11"], note: "the letter names the sender with royal epithets and 'your servant' (bꜣk-jm)"}
+    hints:
+      - "Compare the divine council of 1 Kgs 22:19-22 and Ps 82:1 (God judges among the gods); and Job 1:6-12."
+      - "A succession dispute between the dead king's son and his brother: compare the struggle of Adonijah and Solomon (1 Kgs 1-2) and the claims of uncle against nephew in Judg 9:1-6."
+  - id: ane-horusseth-3-neith-answers-re-insulted
+    tradition: ane-egyptian
+    title: Neith's letter, the insult of Baba, the sulking of Re and Hathor's exposure (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 3_1-4_3/2"]
+    tags:
+      - {motif: tribunal-writes-to-oracle-goddess, refs: ["HorusSeth 3_1/2-3_2", "HorusSeth 3_5-3_7/2"], note: "'Give the office of Osiris to his son Horus'; Thoth reads it out and the Ennead says with one voice 'this goddess is right'"}
+      - {motif: goddess-threatens-sky-falls-on-earth, refs: ["HorusSeth 3_2/2"], note: "jw =j (r) qnd.t mtw tꜣ p,t ṯḥ〈n〉 pꜣ jw(tn)"}
+      - {motif: loser-compensated-with-foreign-goddesses, refs: ["HorusSeth 3_4-3_4/2"], note: "ꜥntj,t ꜥs~tj~jrʾ~tj,t tꜣy =k šrjw(,t) 2: Anat and Astarte are 'your two daughters'"}
+      - {motif: high-god-mocks-young-heir, refs: ["HorusSeth 3_7/3-3_8"], note: "'You are weak in your body; this office is too great for you, you boy with bad breath'"}
+      - {motif: high-god-insulted-sulks-alone, refs: ["HorusSeth 3_9-3_11", "HorusSeth 3_13/2"], note: "Baba: kꜣrj =k šwj 'your shrine is empty'; Re lies on his back, his heart very sore, alone a whole day"}
+      - {motif: king-sulks-on-bed-refuses-food, refs: ["HorusSeth 3_11", "HorusSeth 3_13/2"], note: "interpretive: the god lies on his back in his pavilion; no refusal of food is mentioned"}
+      - {motif: goddess-exposes-herself-to-cheer-god, refs: ["HorusSeth 4_1-4_3/2"], note: "Hathor, lady of the southern sycomore, jw =st (ḥr) kfꜣ kꜣ,t =st r-ḥr =f; the great god laughs and rises"}
+    hints:
+      - "Ahab sulking on his bed (1 Kgs 21:4) and Jonah angry under the plant (Jonah 4:1-9) compare with the sulking high god."
+      - "Anat and Astarte as Canaanite goddesses given to Seth: compare Judg 2:13 and 10:6 (the Ashtaroth), 1 Kgs 11:5; the place name Beth-anath (Josh 19:38)."
+      - "The threat that heaven will fall: compare Isa 34:4 and Q 22:65 (he holds back the sky from falling on the earth except by his leave)."
+  - id: ane-horusseth-4-claims-and-oaths
+    tradition: ane-egyptian
+    title: Seth's claim of strength, Isis's oath, Seth's threat to kill a god a day (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 4_3/3-5_3"]
+    tags:
+      - {motif: god-repels-chaos-serpent-from-sun-barque, refs: ["HorusSeth 4_4/2"], note: "Seth: 'I kill the enemy of Pre every day, standing at the prow of the barque of millions, which no other god can do'"}
+      - {motif: should-office-go-to-brother-while-son-stands, refs: ["HorusSeth 4_6/4", "HorusSeth 4_7/2"], note: "the refrain question 'shall one give the office to the brother while the bodily son stands (by)?' and its counter 'to the boy while his elder brother stands?'"}
+      - {motif: oath-by-life-of-divine-mother, refs: ["HorusSeth 4_10/2-4_11"], note: "Isis swears 'as my mother Neith lives, as Ptah-Tatenen lives'"}
+      - {motif: threat-to-kill-one-god-each-day, refs: ["HorusSeth 5_1/2"], note: "with his sceptre of 4500 nemset Seth will kill one of the Ennead every day"}
+      - {motif: refuses-to-litigate-while-woman-present, refs: ["HorusSeth 5_2-5_3"], note: "Seth swears not to plead in court while Isis is in it"}
+    hints:
+      - "Compare the right of the firstborn son against a brother in Deut 21:15-17 and the law of inheritance in Num 27:8-11."
+      - "Oath 'as X lives' compare 1 Sam 14:39, 2 Sam 15:21 ('as YHWH lives')."
+  - id: ane-horusseth-5-isis-tricks-seth
+    tradition: ane-egyptian
+    title: The island in the middle, the bribed ferryman, and Isis's parable by which Seth condemns himself (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 5_3/2-8_1"]
+    tags:
+      - {motif: ferryman-bribed-with-gold-ring, refs: ["HorusSeth 5_4-5_4/2", "HorusSeth 5_6/2-6_2"], note: "Nemti is told 'ferry no woman resembling Isis'; Isis comes as a bent old woman with a small gold ring, offers a cake, then the ring"}
+      - {motif: shapeshifting-goddess-entraps-rival, refs: ["HorusSeth 6_4/2-6_5", "HorusSeth 6_13-6_13/3"], note: "she becomes a girl of perfect body 'such as was not in the whole land'; Seth desires her; then she becomes a kite on an acacia"}
+      - {motif: juridical-parable-entraps-king, refs: ["HorusSeth 6_8/2-6_12/2", "HorusSeth 6_14/3-6_14/5", "HorusSeth 7_11/2"], note: "the widow of a herdsman: a stranger threatens to seize her son's cattle; Seth answers 'shall one give the cattle to the stranger while the son stands by?'; Isis: 'your own mouth said it, your own cleverness has judged you'; Re: mntk j:wpw tw ḏs =k"}
+      - {motif: widow-and-fatherless-son-wronged, refs: ["HorusSeth 6_8/2-6_11", "HorusSeth 7_4-7_7"], note: "the parable figure: the dead husband's cattle threatened by a 'stranger' (r(m)ṯ ḏrjḏr)"}
+      - {motif: ferryman-punished-toes-cut, refs: ["HorusSeth 7_12/3-7_13/2"], note: "the Ennead removes the front of Nemti's feet"}
+      - {motif: gold-made-taboo-in-city, refs: ["HorusSeth 7_13/3-8_1"], note: "jri̯ n =j nbw m bw,t n nʾ,t =j"}
+    hints:
+      - "Isis's disguised case makes Seth pronounce his own verdict exactly like Nathan's parable to David, 2 Sam 12:1-7 ('You are the man'), the wise woman of Tekoa, 2 Sam 14:1-20, and the disguised prophet of 1 Kgs 20:38-42; compare also Q 38:21-24 (the two litigants before David)."
+      - "The goddess transformed into a beautiful girl to tempt the enemy compares with Judith 10-12 and with Jael (Judg 4:17-22)."
+  - id: ane-horusseth-8-crowning-and-hippopotami
+    tradition: ane-egyptian
+    title: The white crown for Horus, Seth's protest, the hippopotamus contest, Isis's harpoon and the beheading of Isis (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 8_1/2-10_1/3"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["HorusSeth 8_2/2-8_4"], note: "Re-Harakhti and Atum write to the Ennead: 'Are you going to let the two youths spend their lifetime in court? Put the white crown on Horus'"}
+      - {motif: should-office-go-to-brother-while-son-stands, refs: ["HorusSeth 8_7"]}
+      - {motif: rivals-contest-as-hippopotami, refs: ["HorusSeth 8_9/3-8_11"], note: "m db,w,pl 2 ... whoever surfaces within 3 months loses the office"}
+      - {motif: mother-harpoons-wrong-combatant, refs: ["HorusSeth 8_11/2-9_7/3"], note: "Isis makes a harpoon from a deben of copper and a rope; it hits Horus, who cries 'I am Horus, son of Isis'; then Seth: 'I am your brother of the same mother'; her heart grieves and she releases him"}
+      - {motif: son-beheads-his-mother, refs: ["HorusSeth 9_7/4-9_12"], note: "Horus comes out 'his face fierce like a leopard' with a 16-deben knife, cuts off Isis's head and climbs the mountain; she becomes a headless flint statue"}
+    hints:
+      - "Compare Behemoth and Leviathan in Job 40:15-41:34 and Isa 27:1 for the river beasts; Ezek 29:3-5 (Pharaoh as the monster hooked in the Nile)."
+      - "Compare 2 Sam 14:6-7 (two brothers fight in the field and one kills the other) and Gen 4:8."
+  - id: ane-horusseth-10-eyes-of-horus
+    tradition: ane-egyptian
+    title: Seth tears out Horus's eyes; Hathor heals him with gazelle milk (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 10_2-10_11"]
+    tags:
+      - {motif: eyes-torn-out-become-lotuses, refs: ["HorusSeth 10_2-10_4/2"], note: "under a shenusha-tree in the oasis land Seth seizes Horus, takes out his two Udjat-eyes and buries them on the mountain; the eyeballs become bulbs and lotus flowers"}
+      - {motif: lie-to-high-god-about-victim, refs: ["HorusSeth 10_5/2"], note: "Seth tells Re 'I did not find Horus', though he had (n ꜥḏꜣ, 'falsely')"}
+      - {motif: eyes-healed-with-gazelle-milk, refs: ["HorusSeth 10_6-10_10/2"], note: "Hathor milks a gazelle, puts the milk in the right and left eye: 'open your eyes'; she finds him healed"}
+    hints:
+      - "Cain's lie, Gen 4:9 ('Am I my brother's keeper?') and the brothers' deceit of Jacob, Gen 37:31-33, compare with Seth's lie."
+      - "Blinding of a rival: Judg 16:21 (Samson), 2 Kgs 25:7 (Zedekiah); healing of eyes: Tob 11:10-13; Q 12:93-96 (Jacob's sight restored by Joseph's shirt)."
+  - id: ane-horusseth-10-semen-episode
+    tradition: ane-egyptian
+    title: The feast, Seth's assault, the semen on the lettuce and the golden disk (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 10_11/2-13_2/3"]
+    tags:
+      - {motif: high-god-orders-feast-for-peace, refs: ["HorusSeth 10_12-11_1/2"], note: "'eat and drink, so that we may have peace, and stop quarrelling every day'"}
+      - {motif: rival-attempts-homosexual-domination, refs: ["HorusSeth 11_1/3-11_4/2", "HorusSeth 12_2/5"], note: "Seth invites Horus to a feast day in his house; at night he puts his phallus between Horus's thighs; in court: 'I have done the work of a man (kꜣ,t ꜥḥꜣ,tj) against him'"}
+      - {motif: mother-cuts-off-sons-defiled-hands, refs: ["HorusSeth 11_5/3-11_7"], note: "Isis cuts off Horus's hands, throws them into the water and makes him new ones"}
+      - {motif: semen-on-lettuce-impregnates-rival, refs: ["HorusSeth 11_7/2-11_12"], note: "Isis takes Horus's semen to Seth's garden; the gardener: Seth eats only lettuce (ꜥb,t); Seth eats it and becomes pregnant (jwr)"}
+      - {motif: spitting-in-face-shame, refs: ["HorusSeth 12_3-12_4"], note: "the Ennead spits (bši̯ pgꜣs) in Horus's face; Horus laughs and swears Seth lies"}
+      - {motif: semen-called-forth-in-court, refs: ["HorusSeth 12_5/2-12_11/3"], note: "Thoth lays his hand on each one's shoulder; Seth's semen answers from the water, Horus's will not come out of the ear, 'I am divine water', and comes out of Seth's head as a golden sun-disk"}
+      - {motif: captured-crown-placed-on-victor, refs: ["HorusSeth 12_12/3-13_1"], note: "Thoth takes the golden disk from Seth and sets it as a crown on his own head"}
+      - {motif: verdict-x-is-right-y-is-wrong, refs: ["HorusSeth 13_1/3-13_1/4", "HorusSeth 13_2/2-13_2/3"], note: "mꜣꜥj.ṱ Ḥr,w ꜥḏꜣ,w Stẖ"}
+    hints:
+      - "Sexual domination as humiliation: compare Gen 19:4-9 (Sodom) and Judg 19:22-25; and Ham's offence against Noah, Gen 9:20-25; Q 7:80-81 (Lot's people)."
+      - "Spitting in the face as public shaming: Num 12:14, Deut 25:9, Isa 50:6."
+      - "A hidden thing that speaks from inside to convict the guilty: compare the ordeal of the bitter water, Num 5:11-28."
+  - id: ane-horusseth-13-stone-ships
+    tradition: ane-egyptian
+    title: The race in stone ships and Horus's appeal to Neith at Sais (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 13_2/4-14_4/3"]
+    tags:
+      - {motif: stone-ship-contest, refs: ["HorusSeth 13_2/4-13_9", "HorusSeth 13_9/2-13_10"], note: "Horus makes a ship of pine plastered with gypsum; Seth cuts off a mountain peak and makes a stone ship of 138 cubits, which sinks; Seth becomes a hippopotamus and wrecks Horus's ship"}
+      - {motif: divine-lawsuit-drags-on-eighty-years, refs: ["HorusSeth 13_12"]}
+      - {motif: verdict-repeatedly-won-but-ignored, refs: ["HorusSeth 14_1/2-14_4/3"], note: "Horus has been declared right 'a thousand times' in the halls 'Way of Truth', 'Horus foremost of the horns', 'Field of Reeds', 'Pool of the Field', yet Seth ignores the Ennead"}
+    hints:
+      - "Compare the widow who keeps coming to the unjust judge (Luke 18:1-8) and the long-drawn lawsuit of Job (Job 31:35-37)."
+  - id: ane-horusseth-14-letters-to-osiris
+    tradition: ane-egyptian
+    title: The letters to and from Osiris - barley and emmer, the messengers of the underworld, all go down to the West (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 14_5-15_10/2"]
+    tags:
+      - {motif: letter-to-a-god, refs: ["HorusSeth 14_6/3-14_7"], note: "Thoth's letter to Osiris opens with his five-fold royal titulary: Golden Horus 'who invented humankind at the first time'"}
+      - {motif: god-of-dead-made-grain-for-gods-and-men, refs: ["HorusSeth 14_11"], note: "jnk jri̯ jt bd,tj r sꜥnḫ nṯr.pl mjnꜣ jꜣw,t.pl ḥr-sꜣ nṯr.pl: humans are 'the cattle' after the gods"}
+      - {motif: high-god-belittles-other-gods-gift, refs: ["HorusSeth 15_2/2-15_2/3"], note: "Re: 'if you had never been born, barley and emmer would exist anyway'"}
+      - {motif: justice-sunk-in-underworld, refs: ["HorusSeth 15_3/4"], note: "dd =tw hꜣrp mꜣꜥ,t m-ẖnw dwꜣ,t"}
+      - {motif: messengers-of-underworld-fear-no-god, refs: ["HorusSeth 15_4/2-15_5"], note: "wpw,tj.pl ḥsꜣ ḥr.pl jw bn st snd n nṯr nb; they fetch the heart (ḥꜣ,tj) of every evildoer"}
+      - {motif: all-gods-and-men-go-down-to-west, refs: ["HorusSeth 15_6-15_8"], note: "Ptah told the stars to set in the West where Osiris is; 'after the gods, nobles and commoners also go to rest where you are'"}
+      - {motif: letter-from-god-to-king, refs: ["HorusSeth 15_3-15_3/3", "HorusSeth 15_8/2-15_10/2"], note: "letters exchanged between the god of the dead and the sun god"}
+    hints:
+      - "Grain as the gift that keeps humans alive: compare Gen 1:29, Ps 104:14-15 and Q 80:24-32 (We cause grain to grow ... provision for you and your cattle)."
+      - "The angel of death and messengers who take the souls of evildoers: Q 32:11, Q 6:93 (the angels stretching out their hands: deliver up your souls), Q 8:50; 2 Kgs 19:35."
+      - "All go down to the one place: Eccl 3:20 and 9:10, Job 3:13-19 and 30:23 (the house appointed for all living)."
+  - id: ane-horusseth-15-final-verdict
+    tradition: ane-egyptian
+    title: Seth brought in fetters; Horus crowned king; Seth becomes Re's thunderer; colophon (Contendings of Horus and Seth)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pChester Beatty I recto"
+    read: ["HorusSeth 15_10/3-16_8"]
+    tags:
+      - {motif: defeated-rival-brought-in-fetters, refs: ["HorusSeth 15_11/3-15_13/3"], note: "Isis brings Seth bound with a yoke (qꜣ~ḥꜣ) as a guarded man; Seth: 'let Horus be called and given his father's office'"}
+      - {motif: son-god-avenges-father-receives-kingship, refs: ["HorusSeth 16_1-16_1/6"], note: "the white crown on his head, set on the seat of his father Osiris: 'you are the good king of Egypt ... for ever and ever'"}
+      - {motif: heaven-and-land-rejoice-at-coronation, refs: ["HorusSeth 16_2-16_2/4", "HorusSeth 16_5/2-16_7/2"], note: "Isis cries out for joy; Re rejoices; the Ennead feasts, heaven rejoices, they take up garlands, the whole land jubilates"}
+      - {motif: defeated-rival-becomes-thunderer-with-sun-god, refs: ["HorusSeth 16_3/2-16_4/2"], note: "Re: 'let Seth be given to me, to sit with me as a son, and let him thunder (ḫrw) in the sky and be feared'"}
+      - {motif: scribal-colophon, refs: ["HorusSeth 16_8"], note: "jwi̯≡s-pw nfr m-ẖnw Wꜣs,t tꜣ s,t-mꜣꜥ,t (Deir el-Medina)"}
+    hints:
+      - "Compare Ps 2:6-9 and Ps 110:1-2 for the son enthroned and his enemies subdued; and the reconciled rival given a role, 2 Sam 9 (Mephibosheth at David's table)."
+      - "The storm god thundering in the sky: Ps 29:3-9, Ps 18:13; Job 37:2-5; Q 13:13 (the thunder glorifies his praise)."

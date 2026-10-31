@@ -1,0 +1,1324 @@
+# Full read of the ANE corpus, chunk 41: Book of the Dead 125 (ten witnesses), Doomed Prince,
+# Eloquent Peasant (versions R, B1, B2), Harper's Songs (26 witnesses). Read from the TLA
+# transliteration (2018 open export), with the TLA German translation as a reading aid.
+new_motifs:
+  # --- Book of the Dead 125: hall, judges, confession
+  hall-of-two-truths-judgment: {label: "The dead person comes to the Hall of the Two Truths (Maat) to be judged before the great god and separated from the sins he has committed", cluster: judgment-of-dead}
+  forty-two-judges-of-the-dead: {label: "Forty-two divine judges sit with the god of the dead in the hall of judgment, each addressed by an epithet and a place of origin", cluster: judgment-of-dead}
+  judges-of-dead-drink-blood-of-evildoers: {label: "The divine judges of the dead live on the evildoers and drink their blood on the day of reckoning", cluster: judgment-of-dead}
+  day-of-reckoning-of-characters-before-god-of-dead: {label: "A fixed day on which the characters or deeds of the dead are reckoned up before the god of the dead", cluster: judgment-of-dead}
+  knowing-names-protects-before-judges: {label: "The dead person claims to know the names of the god and his judges, and this knowledge protects him from their harm", cluster: judgment-of-dead}
+  deceased-brings-maat-drives-out-wrong: {label: "The dead person announces to the judge: I have come to you, I have brought you Maat (truth/justice) and driven out wrong", cluster: judgment-of-dead}
+  negative-confession-before-divine-judges: {label: "The dead person recites before the divine judges a long series of denials, 'I have not done X', to prove his innocence", cluster: judgment-of-dead}
+  confession-each-denial-to-named-judge: {label: "Each denial of the confession is addressed to a different named judge ('O Wide-strider who came from Heliopolis, I have done no wrong')", cluster: judgment-of-dead}
+  denial-not-ordered-a-killing: {label: "Denial: the speaker has not ordered anyone to be killed (beside not killing himself)", cluster: ethics}
+  denial-not-caused-hunger-or-weeping: {label: "Denial: the speaker has not made anyone go hungry, made anyone weep, or caused anyone pain", cluster: ethics}
+  denial-not-overworked-laborers: {label: "Denial: the speaker has not imposed on workers more work in a day than could be done", cluster: ethics}
+  denial-not-impoverished-poor-man: {label: "Denial: the speaker has not robbed a poor man of his property or made him poorer", cluster: ethics}
+  denial-not-maligned-servant-to-master: {label: "Denial: the speaker has not maligned a servant before his superior", cluster: ethics}
+  denial-not-diminished-temple-offerings: {label: "Denial: the speaker has not reduced the food offerings in the temples nor taken the offering loaves of the gods or the cakes of the dead", cluster: cult}
+  denial-not-lain-with-male: {label: "Denial: the speaker has not had sexual relations with a male (nk nkk, 'copulate with a catamite')", cluster: ethics}
+  denial-not-falsified-weights-and-measures: {label: "Denial: the speaker has not shortened the grain measure or the land measure nor tampered with the weights or plummet of the balance", cluster: ethics}
+  denial-not-encroached-on-fields: {label: "Denial: the speaker has not diminished (encroached on) fields or interfered with the field survey", cluster: ethics}
+  denial-not-taken-milk-from-infant: {label: "Denial: the speaker has not taken milk from the mouth of a suckling child", cluster: ethics}
+  denial-not-deprived-cattle-of-pasture: {label: "Denial: the speaker has not driven small cattle from their pasture or robbed them of fodder", cluster: ethics}
+  denial-not-poached-birds-or-fish-of-gods: {label: "Denial: the speaker has not trapped birds or caught fish in the gods' marshes and pools", cluster: cult}
+  denial-not-held-back-water-or-dammed-flow: {label: "Denial: the speaker has not held back the (irrigation) water in its season nor built a dam against flowing water", cluster: ethics}
+  denial-not-quenched-fire-in-its-time: {label: "Denial: the speaker has not put out a (sacred) fire at its time", cluster: cult}
+  denial-not-obstructed-god-in-procession: {label: "Denial: the speaker has not driven off the cattle of the god's estate nor blocked a god in his procession", cluster: cult}
+  denial-not-blasphemed-god-king-or-town-god: {label: "Denial: the speaker has not reviled a god, the king or the god of his town", cluster: ethics}
+  denial-of-faults-of-speech: {label: "Denials of faults of speech: not lying, not chattering, not hot or loud speech, not eavesdropping, not slandering, not deaf to words of truth", cluster: ethics}
+  denial-not-greedy-or-arrogant: {label: "Denial: the speaker has not been greedy, puffed up or self-exalting, and his wants were not excessive beyond his own property", cluster: ethics}
+  denial-no-grain-usury: {label: "Denial: the speaker has not practised grain usury (ḥnw.yt)", cluster: ethics}
+  denial-quarrel-only-over-own-property: {label: "Denial with exception: the speaker has not quarrelled, except over his own property", cluster: ethics}
+  denial-did-no-wrong-though-saw-evil: {label: "Denial: the speaker did no wrong although he saw evil", cluster: ethics}
+  fourfold-purity-of-the-phoenix: {label: "The dead declares 'I am pure' four times, his purity being that of the great phoenix (benu) of Herakleopolis", cluster: purity}
+  deceased-witnessed-filling-of-udjat-eye: {label: "The dead claims to have seen the filling of the Udjat (Horus) eye at Heliopolis on a named day, as a credential", cluster: judgment-of-dead}
+  no-witness-against-the-deceased: {label: "The dead declares himself without wrong, without sin and without any witness against him; there is no one he has harmed", cluster: judgment-of-dead}
+  lives-on-maat: {label: "The just one lives on Maat and feeds on Maat; the divine judges too are said to live on Maat, with no lie in their bodies", cluster: judgment-of-dead}
+  did-what-men-praise-and-gods-love: {label: "Self-praise: I did what people speak of and what the gods are pleased with; I satisfied the god with what he loves", cluster: ethics}
+  bread-hungry-water-thirsty-clothes-naked: {label: "Self-praise of the just: I gave bread to the hungry, water to the thirsty, clothes to the naked (and a ferry to the boatless)", cluster: ethics}
+  underworld-devourer-demon: {label: "A demon of the underworld (Babi, the Devouress) lives on the entrails of the great or devours the condemned on the day of reckoning", cluster: judgment-of-dead}
+  merciless-messengers-of-judge: {label: "The judge's messengers inflict slaughter and punishment, and there is no mercy in their faces", cluster: judgment-of-dead}
+  every-limb-pure-of-maat: {label: "The just one's front, back and middle are pure; no limb of his is without Maat", cluster: purity}
+  purification-in-lake-before-judgment: {label: "The dead has purified himself in a sacred lake (the southern pool, the field of locusts) where the gods' crew washes", cluster: purity}
+  interrogation-of-dead-at-gate: {label: "Gate-guardians interrogate the dead: who are you, what is your name, where did you pass, what did you see, what did they give you?", cluster: judgment-of-dead}
+  door-parts-demand-their-secret-names: {label: "Each part of the gate (jambs, lintel, bolt, doorkeeper, floor, even the soles of the feet) refuses passage until the dead says its secret name", cluster: judgment-of-dead}
+  thoth-announces-deceased-to-osiris: {label: "Thoth, the 'interpreter of the Two Lands', receives the purified dead and announces him to Osiris", cluster: judgment-of-dead}
+  hall-of-osiris-fire-serpents-flood: {label: "The dwelling of Osiris has a roof of fire, walls of living uraeus serpents and a floor of flood water", cluster: judgment-of-dead}
+  udjat-eye-as-bread-and-beer-of-dead: {label: "The justified dead is told: your bread is the Udjat eye, your beer is the Udjat eye, your offering on earth is the Udjat eye", cluster: judgment-of-dead}
+  rubric-spell-recited-in-purity: {label: "Rubric: the spell is to be recited clean and pure, dressed in fresh linen, shod in white sandals, eyes painted and anointed with myrrh, after offering", cluster: ritual}
+  ritual-image-on-ground-untrodden-by-pigs: {label: "The ritual image is drawn in ochre on clean ground on which no pig, goat (or lion, horse) has trodden", cluster: ritual}
+  spell-benefits-children-and-favour-with-king: {label: "Whoever has this book made for him prospers with his children, is a confidant of the king and is turned back at no gate of the West", cluster: ritual}
+  efficacy-proven-millions-of-times: {label: "Rubric formula: 'truly effective, (proven) millions of times'", cluster: ritual}
+  heart-weighed-against-maat: {label: "In the judgment of the dead the heart is weighed on a balance against Maat; Anubis checks the plummet and Thoth records the result", cluster: judgment-of-dead}
+  fate-and-birth-deities-at-judgment: {label: "Fate (Shai) and the birth goddesses (Renenet, Meskhenet) stand by the balance at the judgment of the dead", cluster: judgment-of-dead}
+  heart-returned-to-justified: {label: "After the weighing the justified dead is given back his heart to its place", cluster: judgment-of-dead}
+  osiris-enthroned-king-of-eternity: {label: "Osiris sits in his shrine as ruler of eternity, foremost of the West, before whom the dead is presented", cluster: judgment-of-dead}
+  # --- Doomed Prince
+  hathors-decree-fate-at-birth: {label: "Divine birth goddesses (the Hathors) come at a child's birth and pronounce his fate", cluster: fate}
+  three-fates-crocodile-snake-dog: {label: "A prince is fated to die by the crocodile, the snake or the dog", cluster: fate}
+  child-shut-away-from-fate: {label: "A parent tries to evade a child's foretold death by shutting him in a secluded house, which fails", cluster: fate}
+  princess-in-high-window-suitor-contest: {label: "A king's only daughter is shut in a house with a window high above the ground; whoever leaps up to it wins her as wife", cluster: marriage}
+  hero-conceals-royal-identity: {label: "A prince abroad passes himself off as the son of a lesser man (a chariot driver) driven out by a stepmother", cluster: hero}
+  foreign-father-refuses-fugitive-son-in-law: {label: "The bride's father refuses to give his daughter to a fugitive from Egypt and sends men to kill him", cluster: marriage}
+  bride-vows-to-die-with-beloved: {label: "The bride swears by the sun god that she will not eat or drink and will die within the hour if her beloved is taken or killed", cluster: marriage}
+  wife-guards-sleeping-husband-kills-snake: {label: "A wife keeps watch by her sleeping husband, makes the attacking snake drunk with beer and wine, and has it hacked to pieces", cluster: hero}
+  loyal-dog-refused-to-be-killed: {label: "The hero refuses to have his own dog killed although it is one of his fates, because he raised it from a pup", cluster: fate}
+  fate-speaks-i-am-your-fate: {label: "The fated agent itself speaks: 'I am your fate which has come after you'", cluster: fate}
+  god-gives-fate-into-hand: {label: "'Your god has given one of your fates into your hand': a danger overcome is credited to one's god", cluster: fate}
+  # --- Eloquent Peasant
+  powerful-man-schemes-to-rob-poor: {label: "A powerful man covets a poor man's goods and devises a trick to rob him", cluster: justice}
+  path-blocked-pretext-for-seizure: {label: "A trap: a narrow path is blocked by a cloth on one side and grain on the other, so that the traveller's donkey eats a mouthful and is seized", cluster: justice}
+  robbed-man-beaten-and-told-to-be-silent: {label: "The robbed man is beaten and told not to cry out because he is near the domain of the 'Lord of Silence'", cluster: justice}
+  peasant-petitions-high-steward-nine-times: {label: "A robbed peasant petitions the high official again and again (nine times) for justice", cluster: justice}
+  officials-side-with-powerful: {label: "The officials make light of the case: it is only a little natron and salt, let him repay it", cluster: justice}
+  judge-silent-to-prolong-eloquence: {label: "The king orders the official to keep silent and not answer the eloquent petitioner, so that he will go on speaking, and to have his words written down", cluster: wisdom}
+  petitioner-secretly-fed: {label: "The petitioner and his family are fed by order of the authorities without his knowing who provides for them", cluster: justice}
+  official-praised-as-father-of-orphan-husband-of-widow: {label: "The judge is praised as father of the orphan, husband of the widow, brother of the divorced, loincloth of the motherless", cluster: justice}
+  official-as-rudder-beam-plummet: {label: "The official is called the steering oar of heaven, the beam of the earth, the plumb-line that carries the weight; he must not swerve, tilt or waver", cluster: justice}
+  justice-as-scales-tongue-plummet-heart-weight: {label: "Justice as a balance: the judge's tongue is the plummet, his heart the weight, his lips the arms of the scale; the scale must not tilt", cluster: justice}
+  thoth-balance-not-lenient: {label: "Does the balance tilt, does the scale lean, is Thoth lenient? Then neither may the judge do wrong", cluster: justice}
+  maat-is-breath-of-nose: {label: "Doing Maat (justice) is breath for the nose; the poor man's goods are his breath and to take them is to stop his nose", cluster: justice}
+  inverted-officials-catalogue: {label: "Catalogue of officials turned into their opposites: the distributor robs, the dispeller of need causes it, the harbour is a flood, the punisher of evil does wrong", cluster: justice}
+  corrupt-judge-as-predator-and-fisherman: {label: "The corrupt judge is likened to a bird of prey living on the weakest birds, a fisherman or hunter taking whatever he wants, a crocodile at the landing place", cluster: justice}
+  corrupt-judge-as-ferryman-for-fare: {label: "The corrupt judge is a ferryman who carries only the one who can pay the fare", cluster: justice}
+  maat-descends-with-just-to-necropolis: {label: "Maat is for eternity: it goes down with its doer into the necropolis, and his name is not effaced on earth but remembered for his goodness", cluster: justice}
+  liar-has-no-heirs-reaches-no-harbour: {label: "Whoever grows rich by falsehood has no children and no heirs on earth; whoever sails with it never reaches land or harbour", cluster: justice}
+  speech-bursts-like-breached-dam: {label: "The petitioner's speech bursts out of his full belly like water from a breached dyke", cluster: wisdom}
+  petitioner-threatens-to-appeal-to-god-of-dead: {label: "Unheard, the petitioner says he will go and petition Anubis (the god of the dead) against the judge", cluster: justice}
+  death-longed-for-like-water-by-thirsty: {label: "Death is longed for as the thirsty long for water and the infant for milk", cluster: death}
+  oppressor-property-given-to-victim: {label: "In the end the oppressor's whole property is inventoried and given to his victim", cluster: justice}
+  # --- Harper's Songs
+  harpers-song-in-tomb: {label: "A song set in the tomb, sung by a harper before the dead owner, on death and how to live", cluster: death}
+  generations-pass-others-remain: {label: "Generations pass away and others take their place, since the time of the ancestors (or of the god)", cluster: death}
+  tombs-of-builders-vanished: {label: "Even the tombs of those who built great houses have crumbled and vanished, as if they had never been", cluster: death}
+  sayings-of-imhotep-and-hordedef: {label: "The speaker has heard the words of the famous sages Imhotep and Hordedef, yet their own tombs have vanished", cluster: wisdom}
+  no-one-returns-to-tell-of-dead: {label: "No one comes back from the beyond to tell of the dead and comfort our hearts", cluster: death}
+  follow-your-heart-while-you-live: {label: "Follow your heart (desire) while you live: put myrrh on your head, dress in fine linen, do your things on earth", cluster: death}
+  make-holiday-refrain: {label: "Refrain 'Make holiday (a beautiful day)! Do not weary of it!'", cluster: death}
+  wealth-cannot-be-taken-along: {label: "No one can take his goods with him into death; what he owned falls to others", cluster: death}
+  wailing-does-not-save-from-grave: {label: "The mourners' wailing does not save a man from the underworld; the weary-hearted dead does not hear it", cluster: death}
+  death-as-landing-on-shore: {label: "The day of death is called the day of 'landing' (mnj), mooring in the land that loves silence", cluster: death}
+  beloved-wife-beside-you-at-feast: {label: "At the feast of life the beloved wife sits at your side; put singer and harper before you", cluster: death}
+  death-personified-sees-unseen-no-appointment: {label: "Death comes as one who sees but is not seen, keeps no appointment, destroys hearts and makes the house fall", cluster: death}
+  fate-god-counts-days: {label: "The fate god (Shai) counts a man's days and hours; nothing is added to their sum", cluster: death}
+  build-tomb-so-name-endures: {label: "Build yourself a house (tomb) in the necropolis so that your name endures in it", cluster: death}
+  river-north-wind-south-each-to-his-hour: {label: "The Nile flows north and the north wind blows south: each man goes at his hour", cluster: death}
+  song-rejecting-praise-of-earthly-life: {label: "A song rejects the old harper's songs that exalt earthly life and belittle the beyond: the land of eternity is just, without fear or enemies", cluster: death}
+  life-on-earth-like-a-dream: {label: "The time spent on earth is but a dream compared with the land of eternity", cluster: death}
+  all-must-reach-land-of-eternity: {label: "No one can stay in Egypt (the land of the living); everyone, even millions yet unborn, will come to the land of eternity", cluster: death}
+  call-to-sun-god-answered: {label: "Blessing on the dead: you call to Re, Khepri hears and Atum answers you", cluster: death}
+  sun-shines-into-tomb: {label: "The sun disk shines on the dead man's breast and lights up his tomb-cavern", cluster: death}
+  dead-suckled-by-divine-cow: {label: "The dead is led to the breasts of the divine cow (Hesat) to be nourished", cluster: death}
+  dead-takes-forms-at-will: {label: "The blessed dead may take whatever forms he wishes", cluster: death}
+  name-not-forgotten-remembered-for-goodness: {label: "The just dead man's name will not be forgotten for ever; he is remembered for his goodness and spoken in people's mouths", cluster: death}
+  sky-goddesses-mourn-at-door: {label: "The two kites (Isis and Nephthys) sit at the tomb door and lament the dead man's name", cluster: death}
+  you-belong-to-tomorrow-not-yesterday: {label: "Blessing: you belong to the morning (tomorrow), not to yesterday; renew yourself like the frog, the 'repeater of life'", cluster: death}
+  feed-landless-for-good-name: {label: "Give bread to him who has no field, so that you gain a good name for ever", cluster: ethics}
+units:
+  # ===================== BOOK OF THE DEAD 125 =====================
+  - id: ane-bd125-w1-a-introduction-first-confession
+    tradition: ane-egyptian
+    title: "BD 125 (pNu): arrival at the Hall of the Two Truths and the first declaration of innocence"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM EA 10477 (Nu), 18th dynasty"
+    read: ["BD125 W1:1-20"]
+    tags:
+      - {motif: hall-of-two-truths-judgment, refs: ["BD125 W1:1"], note: "ḏd.t ḫft spr r wsḫ,t tn n.t Mꜣꜥ,tj pḫꜣ ... m ḫw,w nb jri̯.n =f: 'to be said on reaching this Hall of the Two Truths, separating NN from every sin he has done, seeing the faces of the gods'"}
+      - {motif: forty-two-judges-of-the-dead, refs: ["BD125 W1:4"], note: "rn n pꜣ nṯr 42 n wnn.yw ḥnꜥ =k m wsḫ,t tn"}
+      - {motif: judges-of-dead-drink-blood-of-evildoers, refs: ["BD125 W1:4"], note: "ꜥnḫ.yw m jr,j.w ḏw,t sꜥm.y m znf =sn: 'who live on those who belong to evil, who swallow their blood' (zꜣw,t emended to jr,j.w by TLA)"}
+      - {motif: day-of-reckoning-of-characters-before-god-of-dead, refs: ["BD125 W1:4"], note: "hrw pwy n ḥsb qdw,w m-bꜣḥ Wnn-nfr,w: 'that day of reckoning the characters before Wennefer (Osiris)'"}
+      - {motif: knowing-names-protects-before-judges, refs: ["BD125 W1:4", "BD125 W1:19/2-20"], note: "jw =j rḫ.kw ṯw rḫ.kw rn =k ... nn ḫpr bw ḏw r =j ... ḥr-n,tt {t}wj rḫ.kw rn n nn n nṯr.pl"}
+      - {motif: deceased-brings-maat-drives-out-wrong, refs: ["BD125 W1:7-7/2"], note: "jni̯.n =j n =k Mꜣꜥ,t dr.n =j n =k jzf,t"}
+      - {motif: negative-confession-before-divine-judges, refs: ["BD125 W1:7/3-17"], note: "the first (A) list: a run of n sḏm =f negations, n jri̯ =j ..."}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["BD125 W1:10/5"], note: "n smꜣ =j 'I have not killed'; theft, lying and adultery follow in the B list"}
+      - {motif: denial-not-ordered-a-killing, refs: ["BD125 W1:11"], note: "n wḏ =j smꜣ"}
+      - {motif: denial-not-caused-hunger-or-weeping, refs: ["BD125 W1:7/3", "BD125 W1:10/2-10/4", "BD125 W1:11/2"], note: "n smr =j, n sḥqr =j, n srm =j; n jri̯ =j mn,t ḥr-nb"}
+      - {motif: denial-not-overworked-laborers, refs: ["BD125 W1:8/4"], note: "n jri̯ =j tp rꜥ,w-nb bꜣk.w m-ḥr.pl jri̯.tn =j 'I did not set, each day, work beyond what (could) be done'"}
+      - {motif: denial-not-impoverished-poor-man, refs: ["BD125 W1:9/2"], note: "n nmḥ =j nmḥ,w m (j)ḫ,t =f"}
+      - {motif: denial-not-maligned-servant-to-master, refs: ["BD125 W1:10"], note: "n sḏw =j ḥm n ḥr,j-tp =f"}
+      - {motif: denial-not-diminished-temple-offerings, refs: ["BD125 W1:11/3-12"], note: "n ḫbi̯ =j šb,w m rʾ.pl-pr,w.pl; n ḥḏi̯ =j pꜣ.w,t nṯr.pl; n nḥm =j ḫnf,w ꜣḫ.pl"}
+      - {motif: denial-not-lain-with-male, refs: ["BD125 W1:12/2"], note: "n nk =j nkk{nkk}"}
+      - {motif: denial-not-falsified-weights-and-measures, refs: ["BD125 W1:12/4-13", "BD125 W1:13/3-13/4"], note: "n ḫbi̯ =j dbḥ (grain measure); n ḫbi̯ =j sṯꜣ,t (land measure); n wꜣḥ =j ḥr mw,t n.t jwsw (weights of the hand balance); n nmḥ =j m tḫ n mḫꜣ,t (plummet of the standing balance)"}
+      - {motif: just-weights-and-measures, refs: ["BD125 W1:13/3-13/4"]}
+      - {motif: denial-not-encroached-on-fields, refs: ["BD125 W1:13/2"], note: "n sjꜣṯ =j ꜣḥ,t.pl 'I have not diminished the fields'"}
+      - {motif: denial-not-taken-milk-from-infant, refs: ["BD125 W1:14"], note: "n nḥm =j jrṯ,t m rʾ nḫn.w"}
+      - {motif: denial-not-deprived-cattle-of-pasture, refs: ["BD125 W1:14/2"], note: "n kfꜣ =j ꜥw,t ḥr sm,w =sn"}
+      - {motif: denial-not-poached-birds-or-fish-of-gods, refs: ["BD125 W1:14/3-15"]}
+      - {motif: denial-not-held-back-water-or-dammed-flow, refs: ["BD125 W1:15/2-15/3"], note: "n ḫsf =j mw m tr =f; n dnj =j dnj,t ḥr mw ꜣs.w"}
+      - {motif: denial-not-quenched-fire-in-its-time, refs: ["BD125 W1:16"], note: "n ꜥḫm =j ḫ,t m ꜣ,t =s"}
+      - {motif: denial-not-obstructed-god-in-procession, refs: ["BD125 W1:16/2-17"], note: "includes not neglecting the dates of choice meat offerings (stp,t) and not driving cattle from god's property"}
+      - {motif: fourfold-purity-of-the-phoenix, refs: ["BD125 W1:17/2-17/3"], note: "jw =j wꜥb.kw zp-4 ... ꜥbw bn,w pwy ꜥꜣ n,tj m Nn-nsw,t"}
+      - {motif: deceased-witnessed-filling-of-udjat-eye, refs: ["BD125 W1:18-19"], note: "dated to ꜣbd 2 pr,t ꜥrq,y, last day of the second winter month; he is also 'the nose of the lord of the winds who gives life to all people'"}
+    hints:
+      - "The A list compares with the 'negative' self-justifications of Job 31:1-40 (esp. 31:5-7, 13, 16-21, 38-39), the entrance liturgies Ps 15:2-5 and Ps 24:3-6, Isa 33:15, the righteous man of Ezek 18:5-9, and the negative tithe declaration Deut 26:13-14."
+      - "Not killing / ordering a killing: Exod 20:13; Deut 5:17; 2 Sam 12:9 (David killed Uriah by order). Quran: Q 17:33, Q 25:68, Q 6:151."
+      - "Overworking labourers and making the poor poorer: Lev 19:13, Lev 25:43, Deut 24:14-15, Exod 22:20-26 (MT), Amos 2:6-7; Q 107:2-3, Q 89:17-20."
+      - "False measures and balances: Lev 19:35-36, Deut 25:13-16, Prov 11:1, 16:11, 20:10, Amos 8:5, Mic 6:10-11; Q 83:1-3, Q 55:7-9, Q 17:35, Q 6:152, Q 11:84-85 (Shu'ayb)."
+      - "Diminishing fields: compare moving a neighbour's boundary, Deut 19:14, 27:17, Prov 22:28, 23:10, Hos 5:10; Mic 2:2."
+      - "Milk from the infant's mouth: compare Job 24:9 (they snatch the orphan from the breast)."
+      - "Not quenching the fire: compare the perpetual altar fire that must not go out, Lev 6:5-6 (MT)."
+      - "Sex with a male: Lev 18:22, 20:13; Q 7:80-81, Q 26:165-166."
+      - "Purity: Ps 24:4 (clean hands, pure heart), Ps 51:9, 12 (MT)."
+  - id: ane-bd125-w1-b-forty-two-addresses
+    tradition: ane-egyptian
+    title: "BD 125 (pNu): the second declaration of innocence, addressed to the 42 judges"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM EA 10477 (Nu)"
+    read: ["BD125 W1:21-62"]
+    tags:
+      - {motif: confession-each-denial-to-named-judge, refs: ["BD125 W1:21-62"], note: "42 lines of the form j <epithet> pri̯ m <place> n jri̯ =j ...; first W1:21 j wsḫ-nmt,t pri̯ m Jwn,w n jri̯ =j jzf,t"}
+      - {motif: negative-confession-before-divine-judges, refs: ["BD125 W1:21-62"]}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["BD125 W1:24", "BD125 W1:25", "BD125 W1:29", "BD125 W1:43"], note: "n ṯꜣw =j 'I have not stolen'; n smꜣ =j rmṯ 'I have killed no man'; n ḏd =j grg 'I have told no lie'; n nk =j ḥm,t-ṯꜣy 'I have not lain with a married woman' (to 'He who sees what he brings, from the Min temple')"}
+      - {motif: adultery-prohibited, refs: ["BD125 W1:43"], note: "ḥm,t-ṯꜣy, literally 'a man's wife'"}
+      - {motif: denial-not-lain-with-male, refs: ["BD125 W1:41"], note: "n nk =j nkk, to 'Whose evil is evil' of Busiris; also n dꜣdꜣ =j 'I have not fornicated' W1:42"}
+      - {motif: denial-not-falsified-weights-and-measures, refs: ["BD125 W1:26"], note: "n ḥḏi̯ =j dbḥ, to Ruti from the sky"}
+      - {motif: denial-not-encroached-on-fields, refs: ["BD125 W1:37"], note: "n ꜥwn =j ḥnb 'I have not robbed (in) the field survey', to the Entrail-eater of the Court of Thirty"}
+      - {motif: denial-no-grain-usury, refs: ["BD125 W1:33"], note: "n jri̯ =j ḥnw,yt"}
+      - {motif: denial-not-greedy-or-arrogant, refs: ["BD125 W1:23", "BD125 W1:58", "BD125 W1:60"], note: "n jri̯ =j ꜥwn-jb 'I was not greedy (covetous)'; n jri̯ =j šfw,t 'I did not puff myself up'; n wr ẖr,t =j n-js ḥr (j)ḫ,t 'my wants were not great except by my own property'"}
+      - {motif: denial-of-faults-of-speech, refs: ["BD125 W1:38-39", "BD125 W1:45-48", "BD125 W1:52", "BD125 W1:56"], note: "n smtmt =j (not eavesdropped), n šmi̯ =j (not babbled), n tꜣ rʾ =j (speech not hot), n zẖi̯ =j ḥr =j ḥr md,t n.t mꜣꜥ,t (not made myself deaf to words of truth), n ṯrm =j ky (not winked at another), n šnṯ =j (not reviled), n ꜥšꜣ-ḫrw =j ḥr md,t, n qꜣi̯ ḫrw =j"}
+      - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W1:54", "BD125 W1:57", "BD125 W1:62"], note: "n jri̯ =j šnṯ r nsw,t (king); n šnṯ =j nṯr (a god); n sꜣt =j nṯr-nʾ,tj (the town god)"}
+      - {motif: denial-quarrel-only-over-own-property, refs: ["BD125 W1:40"], note: "n sḫwn =j n js ḥr (j)ḫ,t =j"}
+      - {motif: denial-did-no-wrong-though-saw-evil, refs: ["BD125 W1:53"], note: "n jri̯ =j jw,yt mꜣꜣ =j bjn"}
+      - {motif: denial-not-obstructed-god-in-procession, refs: ["BD125 W1:28", "BD125 W1:36"], note: "n ṯꜣu̯ =j (j)ḫ,t-nṯr (not stolen god's property); n smꜣ =j jḥ nṯr,j (not slaughtered a sacred bull)"}
+      - {motif: judges-of-dead-drink-blood-of-evildoers, refs: ["BD125 W1:36-37"], note: "judges named wnm znf 'Blood-eater' and wnm bsk.w 'Entrail-eater'; others 'Bone-breaker' (W1:29), 'Shadow-swallower' (W1:24)"}
+    hints:
+      - "The four Decalogue items appear as denials: Exod 20:13-16, Deut 5:17-20; compare Jer 7:9, Hos 4:2, and the women's pledge Q 60:12."
+      - "Adultery with a neighbour's wife: Lev 18:20, 20:10, Job 31:9-11, Ezek 18:6; Q 17:32."
+      - "Greed: Exod 20:17 (covet); Q 59:9 (saved from the avarice of the soul), Q 104:1-3."
+      - "Speech: Ps 15:3 (no slander on his tongue), Ps 34:14 (MT), Prov 10:19, Lev 19:16 (no tale-bearing); eavesdropping/spying Q 49:12; loud voice Q 31:19; Q 25:63, 72."
+      - "Reviling god and king: Exod 22:27 (MT) 'do not revile God nor curse a ruler of your people'; 1 Kgs 21:10, 13 (Naboth accused of cursing God and king); Lev 24:15-16."
+      - "Grain usury: Exod 22:24 (MT), Lev 25:36-37 (food at interest), Deut 23:20, Ps 15:5, Ezek 18:8; Q 2:275-279, Q 3:130."
+      - "Arrogance: Ps 131:1, Prov 16:5, 18; Q 17:37, Q 31:18."
+  - id: ane-bd125-w1-c-address-to-gods-examination
+    tradition: ane-egyptian
+    title: "BD 125 (pNu): address to the gods of the hall, works of mercy, purity and the examination at the gate"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM EA 10477 (Nu)"
+    read: ["BD125 W1:63-88/4"]
+    tags:
+      - {motif: knowing-names-protects-before-judges, refs: ["BD125 W1:63/3-64"], note: "jw =j rḫ.kw ṯn rḫ.kw rn.w =ṯn nn ḫr =j n šꜥ,t =ṯn"}
+      - {motif: hall-of-two-truths-judgment, refs: ["BD125 W1:64/2-65/2"], note: "'you will not report my evil to this god ... my case will not come before you; may you speak Maat about me before the All-Lord'"}
+      - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W1:66-66/2"], note: "n šnṯ =j nṯr; n jwi̯ zp =j ḥr nsw,t 'my case did not come before the reigning king'"}
+      - {motif: lives-on-maat, refs: ["BD125 W1:66/3", "BD125 W1:70/2-70/3"], note: "of the gods: jw,tj.w grg m ẖ,t =sn ꜥnḫ.yw m mꜣꜥ,t; of himself: ꜥnḫ =j m mꜣꜥ,t sꜥm =j m mꜣꜥ,t"}
+      - {motif: underworld-devourer-demon, refs: ["BD125 W1:68"], note: "nḥm =ṯn wj m-ꜥ Bꜣby ꜥnḫ m bsk.w wr.w hrw pwy n jp,t ꜥꜣ.t 'save me from Babi who lives on the entrails of the great on that day of the great reckoning'"}
+      - {motif: day-of-reckoning-of-characters-before-god-of-dead, refs: ["BD125 W1:68"], note: "hrw pwy n jp,t ꜥꜣ.t"}
+      - {motif: no-witness-against-the-deceased, refs: ["BD125 W1:69-70"], note: "nn jzf,t =j nn ḫbn,t =j nn ḏw,t =j nn mtr,w =j nn jri̯.n =j (j)ḫ,t r =f"}
+      - {motif: did-what-men-praise-and-gods-love, refs: ["BD125 W1:70/4-71"], note: "jri̯.n =j ḏd.t r(m)ṯ hrr!.t nṯr.pl ḥr =s; sḥtp.n =j nṯr m mrr!.t =f"}
+      - {motif: bread-hungry-water-thirsty-clothes-naked, refs: ["BD125 W1:71/2"], note: "rḏi̯.n =j tʾ n ḥqr,w mw n jbi̯.w mnḫ,t n ḥꜣw mẖn,t n jwi̯,w: bread to the hungry, water to the thirsty, clothes to the naked, a ferry boat to the boatless"}
+      - {motif: true-fast-is-justice, refs: ["BD125 W1:71/2"]}
+      - {motif: righteous-man-catalogue-of-virtues, refs: ["BD125 W1:71/2"]}
+      - {motif: clean-hands-pure-heart, refs: ["BD125 W1:73/3"], note: "jnk wꜥb rʾ wꜥb ꜥ.wj 'I am pure of mouth, pure of hands', greeted 'welcome' by those who see him"}
+      - {motif: merciless-messengers-of-judge, refs: ["BD125 W1:77"], note: "wpw,tj.w wdd!.yw ṯms.w sḫpr.yw jdr,yt jw,tj.w ṯꜣm,t n.t ḥr =sn"}
+      - {motif: heart-weighed-against-maat, refs: ["BD125 W1:76/2"], note: "jy.n =j ꜥꜣ r smtr mꜣꜥ,t r rḏi̯.t jwsw r ꜥḥꜥ,w =f m-ẖnw jgr,t 'I have come to bear witness to Maat, to set the balance upright in the Igeret'; the weighing itself is not narrated in this witness"}
+      - {motif: every-limb-pure-of-maat, refs: ["BD125 W1:79/2-80/3"], note: "nn ꜥ,t jm =j šwi̯.t m mꜣꜥ,t"}
+      - {motif: purification-in-lake-before-judgment, refs: ["BD125 W1:81-81/2"]}
+      - {motif: interrogation-of-dead-at-gate, refs: ["BD125 W1:82-88/4"], note: "ptr ṯw ... ptr rn =k ... swꜣ.n =k ḥr m ... ptr mꜣꜣ.tn =k jm; answers in cryptic mythological code (a leg and a thigh, a torch of fire and a faience amulet, buried, wept over, fire quenched, amulet broken and thrown in the canal)"}
+    hints:
+      - "'No witness against me / no one I have wronged': 1 Sam 12:3-5 (Samuel: whose ox have I taken? ... the LORD is witness), Job 31:35; Q 36:65, Q 41:20-21 (limbs and skins witness)."
+      - "Bread to the hungry, water to the thirsty, clothes to the naked: Isa 58:7, Ezek 18:7, 16, Job 31:16-20, Job 22:6-7, Prov 25:21; Q 76:8-9, Q 90:11-16, Q 107:1-3, Q 69:34; also Matt 25:35-36."
+      - "Pure mouth and hands: Ps 24:4, Ps 26:6, Job 17:9, Job 31:7."
+      - "Babi, devourer of the guilty on the day of reckoning: Q 101:8-11 (light scales: 'his mother is Hawiya, a blazing fire'), Q 104:4-6 (al-Hutama)."
+      - "Interrogation at the gate: Q 39:71-73 (keepers of hell and paradise question those arriving), Q 67:8-9."
+  - id: ane-bd125-w1-d-gate-names-thoth-osiris
+    tradition: ane-egyptian
+    title: "BD 125 (pNu): the gate demands its names; Thoth announces the dead to Osiris"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM EA 10477 (Nu)"
+    read: ["BD125 W1:89-108"]
+    tags:
+      - {motif: door-parts-demand-their-secret-names, refs: ["BD125 W1:89/4-97/3"], note: "nn ḏi̯! =n ꜥq =k ḥr =n j.n bnš.w n sbꜣ pn n-js ḏd.n =k rn =n; jambs, lintel, door, cross-beams, doorkeeper, then the floor, who asks the names of his feet"}
+      - {motif: heart-weighed-against-maat, refs: ["BD125 W1:90/2", "BD125 W1:91/2"], note: "gate-part names: tḫ pw n b(w) mꜣꜥ 'the plummet in its right place'; ḥnk,w n fꜣi̯.t mꜣꜥ,t 'the scale-pan for weighing Maat'"}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["BD125 W1:98/4"], note: "the doorkeeper's name: sjꜣ jb.pl ḏꜥr ẖ,t.pl 'who perceives the hearts and searches the bodies'"}
+      - {motif: thoth-announces-deceased-to-osiris, refs: ["BD125 W1:99-107/2"], note: "ꜥ,w Tꜣ,du Ḏḥwtj pw; the dead: jw =j wꜥb.kw m ḫw,w ... nn wj m-m =sn; m =k ṯw smj.tj 'see, you are announced'"}
+      - {motif: hall-of-osiris-fire-serpents-flood, refs: ["BD125 W1:105/3-106/2"], note: "hꜣ,yt m sḏ,t jnb.pl m jꜥr.w,t ꜥnḫ.w(t) ... zꜣt,w =f m nwy"}
+      - {motif: udjat-eye-as-bread-and-beer-of-dead, refs: ["BD125 W1:107/3-108"]}
+    hints:
+      - "Gates that admit only the righteous: Ps 118:19-20, Isa 26:2, Ps 24:7-10; Q 39:73 (the gates of paradise opened and its keepers greet the righteous), Q 7:40 (gates of heaven not opened for the deniers)."
+      - "The doorkeeper 'who perceives hearts and searches bodies': Jer 11:20, 17:10, Ps 7:10 (MT), Prov 17:3, 21:2, 24:12; Q 3:29, Q 67:13."
+      - "Dwelling of fire with walls of serpents and floor of flood: compare the divine throne of fire Dan 7:9-10, Ezek 1:27; Ps 29:10 (YHWH enthroned over the flood)."
+  - id: ane-bd125-w1-e-rubric
+    tradition: ane-egyptian
+    title: "BD 125 (pNu): rubric for reciting the spell"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM EA 10477 (Nu)"
+    read: ["BD125 W1:109-115/2"]
+    tags:
+      - {motif: rubric-spell-recited-in-purity, refs: ["BD125 W1:109/2-110"], note: "wꜥb(.w) twr(.w) wnḫ.w m ḥbs,w ṯb.w m ḥḏ,t.j sdm.w m msdm,t wrḥ.w m ꜥntj,w; offer cattle, fowl, incense, bread, beer, vegetables"}
+      - {motif: ritual-image-on-ground-untrodden-by-pigs, refs: ["BD125 W1:111"], note: "n,tj n ḫnd šꜣj ꜥw,t ḥr =f"}
+      - {motif: spell-benefits-children-and-favour-with-king, refs: ["BD125 W1:112-115"], note: "ms.pl =f wꜣḏ(.w) ... mḥ-jb n nsw,t ... n šnꜥ.ntw =f ḥr sbꜣ nb n jmn,t ... m šms,w n Wsjr"}
+      - {motif: efficacy-proven-millions-of-times, refs: ["BD125 W1:115/2"], note: "šs-mꜣꜥ ḥḥ n zp"}
+    hints:
+      - "Purity and clean garments before approaching the deity: Exod 19:10, 14-15, Gen 35:2; pigs as unclean: Lev 11:7, Deut 14:8, Isa 65:4, 66:17; Q 2:173, Q 5:3."
+  - id: ane-bd125-w2-a-introduction-first-confession
+    tradition: ane-egyptian
+    title: "BD 125 (pYuya): arrival in the hall and first declaration of innocence"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pCairo CG 51189 (Yuya)"
+    read: ["BD125 W2:685-707/2"]
+    tags:
+      - {motif: hall-of-two-truths-judgment, refs: ["BD125 W2:685"]}
+      - {motif: forty-two-judges-of-the-dead, refs: ["BD125 W2:688"]}
+      - {motif: judges-of-dead-drink-blood-of-evildoers, refs: ["BD125 W2:688"], note: "ꜥnḫ.yw m zꜣw,t ḏw,t(j).pl 'who live by guarding the evildoers', sꜥm.yw m znf =sn"}
+      - {motif: deceased-brings-maat-drives-out-wrong, refs: ["BD125 W2:692-692/3"], note: "addressed in the plural: nb.w-mꜣꜥ,t 'lords of Maat'"}
+      - {motif: negative-confession-before-divine-judges, refs: ["BD125 W2:692/4-703/2"]}
+      - {motif: denial-not-overworked-laborers, refs: ["BD125 W2:694/3"], note: "variant: 'so that my name reached the office of the overseer of servants'"}
+      - {motif: denial-not-lain-with-male, refs: ["BD125 W2:698/2"], note: "only n nk =j 'I have not copulated'"}
+      - {motif: denial-not-diminished-temple-offerings, refs: ["BD125 W2:697-698"], note: "variant: n nḥm =j sfḫ.w ꜣḫ.w 'clothes (offerings) of the transfigured dead'"}
+      - {motif: denial-not-falsified-weights-and-measures, refs: ["BD125 W2:698/4-699/2"]}
+      - {motif: denial-not-taken-milk-from-infant, refs: ["BD125 W2:699/3"]}
+      - {motif: fourfold-purity-of-the-phoenix, refs: ["BD125 W2:704-704/2"]}
+      - {motif: knowing-names-protects-before-judges, refs: ["BD125 W2:707-707/2"]}
+    hints:
+      - "Same parallels as the Nu witness: Job 31, Ps 15, Ps 24:3-6, Ezek 18:5-9, Deut 26:13-14; Q 83:1-3, Q 17:31-37."
+  - id: ane-bd125-w2-b-forty-two-addresses
+    tradition: ane-egyptian
+    title: "BD 125 (pYuya): the 42 addresses"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pCairo CG 51189 (Yuya)"
+    read: ["BD125 W2:709-750"]
+    tags:
+      - {motif: confession-each-denial-to-named-judge, refs: ["BD125 W2:709-749"], note: "order differs from Nu in places (e.g. W2:718-724); W2:750 'j n' is a broken remnant"}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["BD125 W2:712", "BD125 W2:713", "BD125 W2:717", "BD125 W2:740"]}
+      - {motif: adultery-prohibited, refs: ["BD125 W2:740"]}
+      - {motif: denial-not-lain-with-male, refs: ["BD125 W2:726-726/2"], note: "n nwḥ =j ... n nk =j nk(k)"}
+      - {motif: denial-no-grain-usury, refs: ["BD125 W2:721"]}
+      - {motif: denial-not-greedy-or-arrogant, refs: ["BD125 W2:710-711", "BD125 W2:746-748"], note: "n ꜥwn =j, n ꜥwn-jb =j; n jri̯ =j sṯn,y ḥꜥ =j 'I have not exalted myself'"}
+      - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W2:734", "BD125 W2:745", "BD125 W2:749"], note: "n jri̯ =j šnṯ,t nsw,t; n sꜣt =j nṯr-nʾ,tj =j"}
+      - {motif: denial-of-faults-of-speech, refs: ["BD125 W2:725", "BD125 W2:732", "BD125 W2:736-738", "BD125 W2:744"]}
+      - {motif: denial-quarrel-only-over-own-property, refs: ["BD125 W2:739"]}
+  - id: ane-bd125-w2-c-address-gate-rubric
+    tradition: ane-egyptian
+    title: "BD 125 (pYuya): address to the gods, examination, gate names, Thoth, rubric"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pCairo CG 51189 (Yuya)"
+    read: ["BD125 W2:751-805/2"]
+    tags:
+      - {motif: knowing-names-protects-before-judges, refs: ["BD125 W2:751/3-752"]}
+      - {motif: hall-of-two-truths-judgment, refs: ["BD125 W2:753"], note: "variant: nn ḏd grg r =j m-bꜣḥ-ꜥ nb-r-ḏr 'let no lie be spoken against me before the All-Lord'"}
+      - {motif: underworld-devourer-demon, refs: ["BD125 W2:756"]}
+      - {motif: no-witness-against-the-deceased, refs: ["BD125 W2:757-758"]}
+      - {motif: lives-on-maat, refs: ["BD125 W2:758/2-758/3"], note: "variant sꜥm m mꜣꜥ,t jb =j 'my heart swallows Maat'"}
+      - {motif: bread-hungry-water-thirsty-clothes-naked, refs: ["BD125 W2:759/2"], note: "without the ferry for the boatless"}
+      - {motif: clean-hands-pure-heart, refs: ["BD125 W2:762"]}
+      - {motif: heart-weighed-against-maat, refs: ["BD125 W2:765/2"], note: "r rḏi̯.t jws,w r ꜥḥꜥ,w =f m-ẖnw jgr.yw"}
+      - {motif: every-limb-pure-of-maat, refs: ["BD125 W2:769-770"], note: "variant ḥꜣ,tj =j m ꜥbw 'my heart is in purity'"}
+      - {motif: interrogation-of-dead-at-gate, refs: ["BD125 W2:772-780/2"]}
+      - {motif: door-parts-demand-their-secret-names, refs: ["BD125 W2:781/2-790/2"]}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["BD125 W2:791"]}
+      - {motif: thoth-announces-deceased-to-osiris, refs: ["BD125 W2:791/2-797"]}
+      - {motif: hall-of-osiris-fire-serpents-flood, refs: ["BD125 W2:795/3-796/2"]}
+      - {motif: udjat-eye-as-bread-and-beer-of-dead, refs: ["BD125 W2:797/2-797/4"]}
+      - {motif: rubric-spell-recited-in-purity, refs: ["BD125 W2:799/2"]}
+      - {motif: ritual-image-on-ground-untrodden-by-pigs, refs: ["BD125 W2:801"], note: "variant: n ḫnd mꜣj nb ḥr =f 'on which no lion has trodden'"}
+      - {motif: spell-benefits-children-and-favour-with-king, refs: ["BD125 W2:802-805"], note: "ends 'he will be a confidant of Osiris'"}
+      - {motif: efficacy-proven-millions-of-times, refs: ["BD125 W2:805/2"]}
+  - id: ane-bd125-w3-a-introduction-first-confession
+    tradition: ane-egyptian
+    title: "BD 125 (pMaiherperi): arrival and first declaration of innocence"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pCairo CG 25095 (Maiherperi)"
+    read: ["BD125 W3:383-408"]
+    tags:
+      - {motif: hall-of-two-truths-judgment, refs: ["BD125 W3:383"]}
+      - {motif: forty-two-judges-of-the-dead, refs: ["BD125 W3:385"]}
+      - {motif: day-of-reckoning-of-characters-before-god-of-dead, refs: ["BD125 W3:385"], note: "variant: hrw pwy n ḥsb md.w,t 'that day of reckoning the matters'"}
+      - {motif: negative-confession-before-divine-judges, refs: ["BD125 W3:389/2-401/2"]}
+      - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W3:391/2"], note: "n sꜣt =j"}
+      - {motif: denial-not-falsified-weights-and-measures, refs: ["BD125 W3:395/2", "BD125 W3:396/2-396/3"], note: "n sjꜣṯ =j ḥw.pl mḥ 'I have not cheated in food or the cubit'"}
+      - {motif: denial-not-taken-milk-from-infant, refs: ["BD125 W3:397"]}
+      - {motif: denial-not-held-back-water-or-dammed-flow, refs: ["BD125 W3:399-399/2"]}
+      - {motif: fourfold-purity-of-the-phoenix, refs: ["BD125 W3:401/3-402"]}
+      - {motif: deceased-witnessed-filling-of-udjat-eye, refs: ["BD125 W3:403-406"]}
+  - id: ane-bd125-w3-b-forty-two-addresses
+    tradition: ane-egyptian
+    title: "BD 125 (pMaiherperi): the 42 addresses"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pCairo CG 25095 (Maiherperi)"
+    read: ["BD125 W3:409-450"]
+    tags:
+      - {motif: confession-each-denial-to-named-judge, refs: ["BD125 W3:409-450"]}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["BD125 W3:412", "BD125 W3:413", "BD125 W3:417", "BD125 W3:427"]}
+      - {motif: adultery-prohibited, refs: ["BD125 W3:427"]}
+      - {motif: denial-not-lain-with-male, refs: ["BD125 W3:435-435/2"]}
+      - {motif: denial-no-grain-usury, refs: ["BD125 W3:422"]}
+      - {motif: denial-not-greedy-or-arrogant, refs: ["BD125 W3:440-440/2", "BD125 W3:447"], note: "n thi̯ =j jwn; n jꜥ(r) =j nṯr 'I have not raised myself up to god' (TLA's reading of the sentence that in Nu is 'not washed a god')"}
+      - {motif: denial-of-faults-of-speech, refs: ["BD125 W3:424-425", "BD125 W3:432", "BD125 W3:441", "BD125 W3:445"]}
+      - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W3:443", "BD125 W3:446", "BD125 W3:450"], note: "n sꜣt =j nṯr m nʾ,t =j 'I have not reviled a god in my town'"}
+      - {motif: denial-not-caused-hunger-or-weeping, refs: ["BD125 W3:434"], note: "n srmi̯ =j here addressed to Basti"}
+  - id: ane-bd125-w3-c-address-gate-rubric
+    tradition: ane-egyptian
+    title: "BD 125 (pMaiherperi): address to the gods, doorkeeper and Thoth, rubric"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pCairo CG 25095 (Maiherperi)"
+    read: ["BD125 W3:451-480/2"]
+    tags:
+      - {motif: knowing-names-protects-before-judges, refs: ["BD125 W3:451/2-451/3"]}
+      - {motif: lives-on-maat, refs: ["BD125 W3:454", "BD125 W3:458/5-459"]}
+      - {motif: underworld-devourer-demon, refs: ["BD125 W3:456"]}
+      - {motif: no-witness-against-the-deceased, refs: ["BD125 W3:457/2-458/4"]}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["BD125 W3:460/2"], note: "sjꜣ jb ḏꜥr ḥꜣ,t(j).w 'who perceives the heart and searches the hearts'; the gate dialogue is abridged in this witness: it passes straight from 'you know us' to the doorkeeper"}
+      - {motif: thoth-announces-deceased-to-osiris, refs: ["BD125 W3:461-466/3"]}
+      - {motif: hall-of-osiris-fire-serpents-flood, refs: ["BD125 W3:464/3-466"]}
+      - {motif: udjat-eye-as-bread-and-beer-of-dead, refs: ["BD125 W3:466/4-467"]}
+      - {motif: rubric-spell-recited-in-purity, refs: ["BD125 W3:468-471"]}
+      - {motif: ritual-image-on-ground-untrodden-by-pigs, refs: ["BD125 W3:472"], note: "n ḫnd šꜣi̯ mꜣj ḥr =s 'no pig or lion'"}
+      - {motif: spell-benefits-children-and-favour-with-king, refs: ["BD125 W3:475-480"], note: "ms.w ms.w =f wꜣḏ(.w) 'his children's children flourish'"}
+      - {motif: efficacy-proven-millions-of-times, refs: ["BD125 W3:480/2"]}
+  - id: ane-bd125-w4-version-c
+    tradition: ane-egyptian
+    title: "BD 125 C (pBM 10793): rescue from the messengers, purity, gate names and Thoth"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM 10793, 'another spell'"
+    read: ["BD125 W4"]
+    tags:
+      - {motif: merciless-messengers-of-judge, refs: ["BD125 W4:30_24"]}
+      - {motif: every-limb-pure-of-maat, refs: ["BD125 W4:31_2-31_4"], note: "in the third person: jw =f wꜥb(.w) ḥꜣ,tj =f wꜥb(.w)"}
+      - {motif: purification-in-lake-before-judgment, refs: ["BD125 W4:31_4/2"]}
+      - {motif: interrogation-of-dead-at-gate, refs: ["BD125 W4:31_6-31_13/3"], note: "adds jn-jw šdi̯.n =k sw 'did you call/take it?' about the flint sceptre"}
+      - {motif: door-parts-demand-their-secret-names, refs: ["BD125 W4:31_13/4-31_25"], note: "includes the bolt 'Toe of the Pillar-of-his-mother' and the floor-slabs"}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["BD125 W4:31_26"]}
+      - {motif: thoth-announces-deceased-to-osiris, refs: ["BD125 W4:31_26/2-32_5/4"]}
+      - {motif: hall-of-osiris-fire-serpents-flood, refs: ["BD125 W4:32_3/3"]}
+      - {motif: udjat-eye-as-bread-and-beer-of-dead, refs: ["BD125 W4:32_6-32_6/3"]}
+  - id: ane-bd125-w5-rubric
+    tradition: ane-egyptian
+    title: "BD 125 D (pBM 10793): rubric"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLondon BM 10793"
+    read: ["BD125 W5"]
+    tags:
+      - {motif: rubric-spell-recited-in-purity, refs: ["BD125 W5:32_7"], note: "ḥbs n-mꜣw,t 'a new garment', eyes painted with green and black paint"}
+      - {motif: ritual-image-on-ground-untrodden-by-pigs, refs: ["BD125 W5:32_10"]}
+      - {motif: spell-benefits-children-and-favour-with-king, refs: ["BD125 W5:32_12-32_14/2"]}
+      - {motif: efficacy-proven-millions-of-times, refs: ["BD125 W5:32_15"]}
+  - id: ane-bd125-w6-first-confession-late
+    tradition: ane-egyptian
+    title: "BD 125 (pTurin 1791, Ptolemaic): title and first declaration of innocence"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pTurin Museo Egizio 1791 (Iufankh)"
+    read: ["BD125 W6"]
+    tags:
+      - {motif: hall-of-two-truths-judgment, refs: ["BD125 W6:Titelzeile"], note: "mḏꜣ,t n.t ꜥq r wsḫ,t-Mꜣꜥ,tj pḫꜣ z m ḫw,w jri̯.n =f 'book for entering the Hall of the Two Truths, separating a man from the sins he has done'"}
+      - {motif: forty-two-judges-of-the-dead, refs: ["BD125 W6:1/5"]}
+      - {motif: deceased-brings-maat-drives-out-wrong, refs: ["BD125 W6:3/3-3/4"]}
+      - {motif: negative-confession-before-divine-judges, refs: ["BD125 W6:3/5-11/2"], note: "late witness, negations with nn"}
+      - {motif: denial-not-overworked-laborers, refs: ["BD125 W6:4/5"], note: "made general: 'on no man, on no day, work beyond what he could do'"}
+      - {motif: denial-not-ordered-a-killing, refs: ["BD125 W6:7/2"], note: "nn wḏ =j smꜣ m-grg 'I have not unjustly ordered a killing'"}
+      - {motif: denial-not-lain-with-male, refs: ["BD125 W6:8/2-8/3"], note: "nn djꜣ(dꜣ) =j m wꜥb n nṯr-nʾ,t(j) =j 'not fornicated as pure priest of my town god'"}
+      - {motif: denial-not-falsified-weights-and-measures, refs: ["BD125 W6:8/4-9"], note: "nn wꜣḥ =j nn ḫbi̯ =j dbḥ.w 'I have neither added to nor diminished the measure'"}
+      - {motif: denial-not-taken-milk-from-infant, refs: ["BD125 W6:9/2"]}
+      - {motif: denial-not-held-back-water-or-dammed-flow, refs: ["BD125 W6:10/2-10/3"], note: "nn dnj =j ꜥ ḥr sṯꜣ =f 'not blocked an irrigation canal in its flow'"}
+      - {motif: fourfold-purity-of-the-phoenix, refs: ["BD125 W6:11/3-11/4"]}
+      - {motif: knowing-names-protects-before-judges, refs: ["BD125 W6:13-13/2"], note: "adds kꜣ nḥm =k wj m-ꜥ =sn 'so you will save me from them'"}
+  - id: ane-bd125-w7-forty-two-late
+    tradition: ane-egyptian
+    title: "BD 125 (pTurin 1791): the 42 addresses, late version"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pTurin Museo Egizio 1791"
+    read: ["BD125 W7"]
+    tags:
+      - {motif: confession-each-denial-to-named-judge, refs: ["BD125 W7:14_1-34_2"]}
+      - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["BD125 W7:17_1", "BD125 W7:18_1", "BD125 W7:22_1", "BD125 W7:14_2"], note: "the killing denial is qualified: nn smꜣ =j r(m)ṯ.pl m-grg 'I have not killed men unjustly'"}
+      - {motif: adultery-prohibited, refs: ["BD125 W7:14_2"]}
+      - {motif: curser-of-parents-executed, refs: ["BD125 W7:27_2/2"], note: "added denial: nn šnṯ =j ḥr jti̯ =j 'I have not complained against / reviled my father'; interpretive match, the BD text is a denial, not a law"}
+      - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W7:27_2", "BD125 W7:30_2", "BD125 W7:34_2"], note: "nn zꜣu̯ =j nṯr m jb =j 'I have not wronged a god in my heart' (variants: to his face, in any matter)"}
+      - {motif: denial-of-faults-of-speech, refs: ["BD125 W7:32_1-33_1", "BD125 W7:18_2-19_2", "BD125 W7:25_2"], note: "nn s{š}mtj =j 'I have not spied'"}
+      - {motif: denial-not-obstructed-god-in-procession, refs: ["BD125 W7:29_1", "BD125 W7:24_2"], note: "not slaughtered sacred small cattle, not touched the hide of sacred small cattle"}
+      - {motif: denial-not-diminished-temple-offerings, refs: ["BD125 W7:31_2", "BD125 W7:33_2/2"]}
+    hints:
+      - "Reviling one's father: Exod 21:17, Lev 20:9, Deut 27:16; Q 17:23 (say not 'uff' to parents)."
+      - "Sinning against God in the heart: Job 1:5 (perhaps my sons cursed God in their hearts); Q 2:284."
+  - id: ane-bd125-w8-address-gate-late
+    tradition: ane-egyptian
+    title: "BD 125 (pTurin 1791): address to the gods, works of mercy, gate and Thoth, late version"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pTurin Museo Egizio 1791"
+    read: ["BD125 W8"]
+    tags:
+      - {motif: lives-on-maat, refs: ["BD125 W8:35/2", "BD125 W8:37/6-37/7"], note: "of the judges: sꜥm.w ḥꜣ,tj.pl =sn 'who swallow their (the sinners') hearts'"}
+      - {motif: underworld-devourer-demon, refs: ["BD125 W8:36"]}
+      - {motif: no-witness-against-the-deceased, refs: ["BD125 W8:37-37/5"], note: "in third person; nn jri̯ =tw (j)ḫ,t-nb(,t) r =f 'nothing shall be done against him'"}
+      - {motif: bread-hungry-water-thirsty-clothes-naked, refs: ["BD125 W8:38/2-38/3"]}
+      - {motif: true-fast-is-justice, refs: ["BD125 W8:38/2"]}
+      - {motif: clean-hands-pure-heart, refs: ["BD125 W8:39/4"]}
+      - {motif: heart-weighed-against-maat, refs: ["BD125 W8:42"], note: "jw =f wꜥb(.w) r rḏi̯.t ꜣwsw r ꜥḥꜥ.t =f"}
+      - {motif: merciless-messengers-of-judge, refs: ["BD125 W8:42/2"]}
+      - {motif: every-limb-pure-of-maat, refs: ["BD125 W8:44-44/6"]}
+      - {motif: purification-in-lake-before-judgment, refs: ["BD125 W8:45"], note: "'at the same time as the writing down of the hearts of the gods' (ḥnꜥ zẖꜣ jb.pl nṯr.pl)"}
+      - {motif: interrogation-of-dead-at-gate, refs: ["BD125 W8:46-53/2"]}
+      - {motif: door-parts-demand-their-secret-names, refs: ["BD125 W8:53/6-60/5"], note: "names include ḥn,tj n jp,t jb.pl 'commander of the counting of hearts' (W8:55/2)"}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["BD125 W8:61"]}
+      - {motif: thoth-announces-deceased-to-osiris, refs: ["BD125 W8:61/2-65/3"], note: "Thoth called sṯni̯.w Tꜣ,du 'who distinguishes the Two Lands'"}
+      - {motif: hall-of-osiris-fire-serpents-flood, refs: ["BD125 W8:64/3-65"]}
+      - {motif: udjat-eye-as-bread-and-beer-of-dead, refs: ["BD125 W8:65/4-65/6"], note: "ends mꜣꜥ-ḫrw Wsjr ... ḏ,t 'justified for ever'"}
+    hints:
+      - "Counting/recording of hearts: Mal 3:16 (book of remembrance), Dan 7:10; Q 82:10-12, Q 50:17-18 (recording angels)."
+  - id: ane-bd125-w9-rubric-late
+    tradition: ane-egyptian
+    title: "BD 125 (pTurin 1791): rubric"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pTurin Museo Egizio 1791"
+    read: ["BD125 W9"]
+    tags:
+      - {motif: rubric-spell-recited-in-purity, refs: ["BD125 W9:66-66/2"]}
+      - {motif: ritual-image-on-ground-untrodden-by-pigs, refs: ["BD125 W9:67"], note: "late variant: n ḫnd ḥtr ḥr =f 'on which no horse has trodden'"}
+      - {motif: spell-benefits-children-and-favour-with-king, refs: ["BD125 W9:67/2-69/2"], note: "nn btꜣ,w =f 'he is without fault'"}
+      - {motif: efficacy-proven-millions-of-times, refs: ["BD125 W9:69/3"]}
+  - id: ane-bd125-w10-vignette-weighing-of-heart
+    tradition: ane-egyptian
+    title: "BD 125 vignette (pTurin 1791): captions of the weighing of the heart before Osiris"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pTurin Museo Egizio 1791, vignette captions"
+    read: ["BD125 W10"]
+    tags:
+      - {motif: no-witness-against-the-deceased, refs: ["BD125 W10:Beischrift_zum_Verstorbenen/2-Beischrift_zum_Verstorbenen/5"], note: "m =k wj m-bꜣḥ =k nb-nḥḥ nn ḏw =j nn mtr =j"}
+      - {motif: did-what-men-praise-and-gods-love, refs: ["BD125 W10:Beischrift_zum_Verstorbenen/6"]}
+      - {motif: heart-weighed-against-maat, refs: ["BD125 W10:über_der_linken_Seite_der_Waage-über_der_linken_Seite_der_Waage/3"], note: "Anubis: jb ꜥq(ꜣ.w) r ꜥḥꜥ =f mḫꜣ,t mḥ(.tj) m Wsjr 'the heart is exact according to its (plumb) position; the balance is filled with Osiris NN'"}
+      - {motif: deeds-weighed-in-scales, refs: ["BD125 W10:über_der_linken_Seite_der_Waage/2-über_der_linken_Seite_der_Waage/3"], note: "what is weighed is the heart (jb), not a record of deeds; interpretive match"}
+      - {motif: weighed-in-just-balances, refs: ["BD125 W10:über_der_linken_Seite_der_Waage/2"]}
+      - {motif: heart-returned-to-justified, refs: ["BD125 W10:Beischrift_zu_Thot-Beischrift_zu_Thot/2"], note: "Thoth, lord of divine words: jmm! n =f jb =f r s,t =f"}
+      - {motif: fate-and-birth-deities-at-judgment, refs: ["BD125 W10:Gottheiten_vor_Thot-Gottheiten_vor_Thot/3"], note: "Šꜣy, Rnn,t, Msḫn(,t)"}
+      - {motif: underworld-devourer-demon, refs: ["BD125 W10:Totenfresserin"], note: "dr ḫfti̯.pl (j)n ꜥm,tt nb(,t) jmn,t 'destroying the enemies, by the Devouress, mistress of the West'"}
+      - {motif: osiris-enthroned-king-of-eternity, refs: ["BD125 W10:im_Schrein_des_Osiris"], note: "ḥqꜣ-ḏ,t ... nswt nḥḥ"}
+    hints:
+      - "Weighing in the scales at the judgment: Q 7:8-9, Q 21:47 (just scales on the Day of Resurrection, even a mustard seed), Q 23:102-103, Q 101:6-11; Job 31:6 (let God weigh me in just balances), Dan 5:27, Prov 16:2, 21:2, 24:12 (the weigher of hearts), Ps 62:10 (MT)."
+      - "Fate deities at the judgment: Q 17:13-14 (each man's fate, ta'irahu, fastened on his neck; read your book), Ps 139:16."
+      - "Thoth as recorder: Mal 3:16, Dan 7:10, Ezek 9:2-4 (the man with the scribe's kit); Q 82:10-12."
+      - "The justified heart given back: Ezek 36:26; Ps 51:12 (MT)."
+  # ===================== DOOMED PRINCE =====================
+  - id: ane-doomedprince-birth-fate-secluded
+    tradition: ane-egyptian
+    title: "The Doomed Prince: a son granted, three fates decreed, the prince shut away and set free"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["DoomedPrince 4_1-5_2/2"]
+    tags:
+      - {motif: childless-king-prays-for-heir, refs: ["DoomedPrince 4_1-4_2"], note: "the king's request is restored: [dbḥ].t n =f šrj,w m-ꜥ nṯr.pl n hꜣw =f; preserved: jw =sn ḥr wḏ ḏi̯.t(w) msy.tw n =f"}
+      - {motif: hathors-decree-fate-at-birth, refs: ["DoomedPrince 4_3/2-4_4"], note: "jy.t pw jri̯.n nꜣ-n Ḥw,t-Ḥr,yt.pl r šꜣ n =f šꜣ,y"}
+      - {motif: three-fates-crocodile-snake-dog, refs: ["DoomedPrince 4_4"], note: "mt =f n pꜣ msḥ,w m-rʾ-pw pꜣ ḥfꜣ,w mj,tt pꜣ jw"}
+      - {motif: child-shut-away-from-fate, refs: ["DoomedPrince 4_5/2"], note: "a stone house (pr n jnr) in the desert, furnished with everything from the palace, so the boy need not go out"}
+      - {motif: loyal-dog-refused-to-be-killed, refs: ["DoomedPrince 4_7-4_10/3"], note: "from the roof the boy sees a dog following a man and asks for one; the king gives him a puppy (ktkt šrj) to calm his heart"}
+      - {motif: fate-decreed-cannot-be-altered, refs: ["DoomedPrince 4_12/2-4_12/3"], note: "tw≡j wḏ.kwj n pꜣ šꜣ,y 'I am assigned to the fate'; let me do as I wish until the god does what is in his heart"}
+      - {motif: hero-sets-out-to-wander-abroad, refs: ["DoomedPrince 4_13-5_2/2"], note: "chariot, servant, crossing to the east bank, going north 'after his heart' into the desert living on game"}
+    hints:
+      - "Childless king/father granted a son after asking the gods: Gen 15:2-4, 1 Sam 1:10-20, 2 Kgs 4:14-17; Q 3:38-40, Q 19:2-9 (Zechariah)."
+      - "Fate fixed at birth: Jer 1:5, Ps 139:16; Q 17:13, Q 57:22."
+      - "Shutting the child away cannot stop fate: Q 4:78 ('wherever you are, death will overtake you, even if you are in lofty towers'), Q 3:154 (had you stayed in your houses, those destined to be killed would have gone out to their places of death), Q 62:8."
+  - id: ane-doomedprince-naharina-window-marriage
+    tradition: ane-egyptian
+    title: "The Doomed Prince: the princess in the high window of Naharina"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["DoomedPrince 5_3-7_4/4"]
+    tags:
+      - {motif: princess-in-high-window-suitor-contest, refs: ["DoomedPrince 5_3/2-5_5/3", "DoomedPrince 6_5-6_6/3"], note: "the window is 70 cubits (mḥ 70) from the ground; the princes of Ḫꜣrw (Syria) leap at it daily for three months; the prince leaps and reaches it, and she kisses and embraces him"}
+      - {motif: hero-conceals-royal-identity, refs: ["DoomedPrince 5_11-5_12/2", "DoomedPrince 7_3-7_4/2"], note: "jnk šrj n wꜥ-n snnj n pꜣ tꜣ n Km,t ... jw pꜣy =j jt ḥr jri̯.t n =f k.t ḥm,t ... jw =st ḥr ḫpr ḥr msdd =j"}
+      - {motif: wicked-stepmother-drives-out-son, refs: ["DoomedPrince 5_11/3-5_12/2"], note: "a cover story, not true of the prince"}
+      - {motif: guests-washed-anointed-fed, refs: ["DoomedPrince 5_7-5_9/4"], note: "they wash him, feed his horses, anoint him, bandage his feet, feed his attendant"}
+      - {motif: foreign-father-refuses-fugitive-son-in-law, refs: ["DoomedPrince 6_9/2-6_11/3", "DoomedPrince 6_14"], note: "jn-jw j:ḏi̯ =j tꜣy =j šrj,t n pꜣ wꜥr n Km,t"}
+      - {motif: bride-vows-to-die-with-beloved, refs: ["DoomedPrince 6_12-6_12/3", "DoomedPrince 6_15/2-6_16"], note: "oath wꜣḥ Pꜣ-Rꜥ-Ḥr,w-ꜣḥ,tj ... nn jw =j r wnm nn jw =j r swrj jw =j r mt"}
+      - {motif: diplomatic-marriage-to-foreign-princess, refs: ["DoomedPrince 7_4/3-7_4/4"], note: "the ruler of Naharina gives his daughter with house, fields and cattle"}
+      - {motif: princess-loves-hero, refs: ["DoomedPrince 6_4", "DoomedPrince 6_12"]}
+    hints:
+      - "A king's daughter promised to whoever performs a feat: Josh 15:16-17, Judg 1:12-13 (Caleb's daughter to the taker of Kiriath-sepher), 1 Sam 17:25, 18:17-27."
+      - "An Egyptian fugitive receives the local chief's daughter: Exod 2:15-21 (Moses in Midian, 'an Egyptian man saved us'), Q 28:22-28."
+      - "Love as strong as death: Song 8:6-7; the daughter's hunger oath compare 1 Sam 14:24, Acts 23:12."
+  - id: ane-doomedprince-snake-dog-crocodile
+    tradition: ane-egyptian
+    title: "The Doomed Prince: the wife kills the snake, the dog and the crocodile pursue the prince"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["DoomedPrince 7_5-8_14"]
+    tags:
+      - {motif: three-fates-crocodile-snake-dog, refs: ["DoomedPrince 7_6"], note: "tw≡j wḏ.kwj n 3 šꜣ,y.pl pꜣ msḥ,w pꜣ ḥfꜣ,w pꜣ jw"}
+      - {motif: loyal-dog-refused-to-be-killed, refs: ["DoomedPrince 7_6/3-7_7/3"], note: "nn jw =j r ḏi̯.t ẖdb.tw pꜣy =j jw j:jri̯ =j sḫpr =f jw =f m šrj"}
+      - {motif: wife-guards-sleeping-husband-kills-snake, refs: ["DoomedPrince 7_8", "DoomedPrince 7_15/2-8_3/4"], note: "she fills bowls of wine and beer; the snake drinks, gets drunk (tḫ), lies on its back, and she has it cut to pieces with her axe"}
+      - {motif: god-gives-fate-into-hand, refs: ["DoomedPrince 8_5/3-8_5/4"], note: "ptrj ḏi̯ pꜣy =k nṯr wꜥ m nꜣy =k šꜣ,y.pl m ḏr,t =k"}
+      - {motif: daily-thanks-and-offering-to-sun-god, refs: ["DoomedPrince 8_5/5"], note: "partly restored: [he] offered to Pre and praised his power every day"}
+      - {motif: fate-speaks-i-am-your-fate, refs: ["DoomedPrince 8_10-8_11"], note: "the crocodile: j jnk pꜣy =k šꜣ,y jr{y.t} jwi̯ m-sꜣ =k"}
+      - {motif: crocodile-and-water-spirit-fight, refs: ["DoomedPrince 7_9-7_12/2", "DoomedPrince 8_11/2-8_13/2"], note: "a 'strong one' (nḫt) in the lake fights the crocodile every day for three months; the crocodile asks the prince to kill the nḫt; papyrus breaks off at 8_14, the end is lost"}
+    hints:
+      - "A woman kills a sleeping or drunken enemy: Judg 4:17-21 (Jael), Judg 5:24-27, Judith 13:2-8; the guarded bed and snake compare Tob 8:1-3."
+      - "'Your god has given (him) into your hand': 1 Sam 24:5, 26:8, Judg 3:28, Josh 2:24; Q 8:17."
+      - "Fate catches up: Q 4:78, Q 62:8 ('the death you flee will meet you'), Amos 5:19 (flees a lion and a bear meets him, a snake bites him in the house)."
+      - "Crocodile and water monsters: Job 40:25-41:26 (MT, Leviathan), Ezek 29:3."
+  # ===================== ELOQUENT PEASANT =====================
+  - id: ane-eloquentpeasant-w1-robbery
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version R): the journey, the trap on the path and the robbery"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pRamesseum A (pBerlin P 10499), version R"
+    read: ["EloquentPeasant W1:1_1/alt_1-12_3/alt_80"]
+    tags:
+      - {motif: peasant-leaves-family-provisions, refs: ["EloquentPeasant W1:1_1/alt_1-1_6/alt_6/2"], note: "Khunanup of the Wadi Natrun, wife Meret; 20 measures of barley for wife and children, 6 for himself"}
+      - {motif: catalogue-of-desert-produce, refs: ["EloquentPeasant W1:1_7/alt_7"], note: "his donkeys laden with natron, salt, wood, skins of panther and jackal, plants, stones, doves, birds: 'all the good products of the Wadi Natrun'"}
+      - {motif: powerful-man-schemes-to-rob-poor, refs: ["EloquentPeasant W1:6_7/alt_41-7_2/alt_43"], note: "ḥꜣ n =j šzp nb ꜥwꜣi̯ =j ḥn,w.pl n sḫ,tj pn jm =f 'would that I had some image with which I could steal this peasant's goods'"}
+      - {motif: path-blocked-pretext-for-seizure, refs: ["EloquentPeasant W1:7_3/alt_44-9_6/alt_62"], note: "a narrow path, water on one side and barley on the other; he spreads a sheet so its fringe lies on the water and its hem on the barley; the donkey eats a mouthful of barley"}
+      - {motif: robbed-man-beaten-and-told-to-be-silent, refs: ["EloquentPeasant W1:11_2/alt_72-12_2/alt_79/2"], note: "beaten with a green tamarisk branch; m qꜣi̯ ḫrw =k ... m =k tw r dmj n nb-sgr 'you are near the town of the Lord of Silence'; the peasant: 'you beat me, you steal my goods, and now you take the complaint from my mouth'"}
+      - {motif: weeping-from-pain-of-wrong, refs: ["EloquentPeasant W1:11_4/alt_74"]}
+      - {motif: peasant-petitions-high-steward-nine-times, refs: ["EloquentPeasant W1:12_3/alt_80"], note: "first ten days (hrw 10) pleading with Nemtinakht himself without being heeded"}
+    hints:
+      - "The powerful seizing the poor man's property: 2 Sam 12:1-4 (the poor man's ewe lamb), 1 Kgs 21 (Naboth), Mic 2:1-2, Isa 5:8, Amos 2:6-7; Q 38:21-24 (the litigants and the one ewe)."
+      - "Beaten and silenced: Jer 20:2, Ps 39:2-4; Q 26:167."
+  - id: ane-eloquentpeasant-w1-first-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version R): to Rensi; the officials' advice; the first petition"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pRamesseum A, version R"
+    read: ["EloquentPeasant W1:12_5/alt_82-16_7/alt_116/2"]
+    tags:
+      - {motif: officials-side-with-powerful, refs: ["EloquentPeasant W1:13_5/alt_90-13_8/alt_93"], note: "jn ḫsf pw n Nm,tj-nḫt pn ḥr nh n ḥsmn ḥmꜣ,t"}
+      - {motif: peasant-petitions-high-steward-nine-times, refs: ["EloquentPeasant W1:14_1/alt_96"]}
+      - {motif: official-praised-as-father-of-orphan-husband-of-widow, refs: ["EloquentPeasant W1:15_2/alt_104"], note: "[ntk] [j]t n nmḥ hj n ḫꜣ[r,t] [sn] n wḏꜥ,t šnd,yt n.t jw,[t]w mw.[t] =[f] (partly restored)"}
+      - {motif: father-of-orphans-judge-of-widows, refs: ["EloquentPeasant W1:15_2/alt_104"]}
+      - {motif: just-official-sails-lake-of-maat, refs: ["EloquentPeasant W1:14_2/alt_97-15_1/alt_103"], note: "jr hꜣi̯ =k m š n mꜣꜥ,t sqd.w =k jm =f m mꜣꜥ,w: no squall, no broken mast, no flood, no crocodile; fish and fowl come to you"}
+      - {motif: official-free-of-greed-destroys-falsehood, refs: ["EloquentPeasant W1:15_5/alt_107"], note: "šwi̯ m ꜥwn-jb ... sḥtm grg sḫpr mꜣꜥ,t"}
+      - {motif: examine-me-plea, refs: ["EloquentPeasant W1:16_5/alt_114-16_7/alt_116/2"], note: "dr sꜣjr =j ... jp wj"}
+    hints:
+      - "Father of orphans, husband (protector) of widows: Ps 68:6 (MT), Job 29:12-16, Ps 146:9, Deut 10:18; Q 93:6-10, Q 4:127."
+      - "The just man's prosperity pictured as safe sailing and full nets: Ps 107:23-30, Ps 1:3."
+  - id: ane-eloquentpeasant-w1-king-orders
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version R): the king orders the peasant kept talking and his family fed"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pRamesseum A, version R"
+    read: ["EloquentPeasant W1:16_8/alt_117-19_7/alt_138"]
+    tags:
+      - {motif: judge-silent-to-prolong-eloquence, refs: ["EloquentPeasant W1:17_3/alt_120-17_6/alt_123/2"], note: "sḫ,tj nfr mdw n-wn-mꜣꜥ; the king: detain him, so that his words be brought to us in writing (m-zḫꜣ,w)"}
+      - {motif: petitioner-secretly-fed, refs: ["EloquentPeasant W1:18_1/alt_125-19_7/alt_138"], note: "nn rḫ =f n,tt ntk ḏḏ n =f st; 1 measure of barley daily for the wife, bread and beer for him through his 'friends'"}
+      - {motif: dated-to-reign-of-named-king, refs: ["EloquentPeasant W1:16_8/alt_117"], note: "Nb-kꜣ-Rꜥ"}
+    hints:
+      - "Provision given secretly to the poor: Ruth 2:14-16 (Boaz orders grain dropped for Ruth without rebuking her); Q 2:271 (giving alms secretly is better)."
+      - "Words of a petition written and read to the king: Esth 6:1-2, Ezra 4:18."
+  - id: ane-eloquentpeasant-w1-second-third-petitions
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version R): second and third petitions, fragmentary"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pRamesseum A, version R"
+    read: ["EloquentPeasant W1:20_1/alt_139-31_8/alt_229"]
+    tags:
+      - {motif: official-as-rudder-beam-plummet, refs: ["EloquentPeasant W1:20_5/alt_143-20_7/alt_145"], note: "ḥm[w] [n] p,t sꜣw n tꜣ ...; [ḥ]mw m sbn [sꜣw] m [gsꜣ] ḫꜣy m jri̯ [nwd]; much restored after B1; 14 lines lost after W1:20_7/alt_145/2"}
+      - {motif: corrupt-judge-as-predator-and-fisherman, refs: ["EloquentPeasant W1:31_4/alt_225"], note: "[ṯ]jnḥr bird living on the weakest birds; restored"}
+      - {motif: corrupt-judge-as-ferryman-for-fare, refs: ["EloquentPeasant W1:31_2/alt_223"], note: "largely restored"}
+      - {motif: maat-is-breath-of-nose, refs: ["EloquentPeasant W1:27_7/alt_196/2"], note: "[ṯꜣw] p[w] [n] [fnd] jri̯.t [mꜣꜥ,t]; restored"}
+      - {motif: official-likened-to-sun-and-nile, refs: ["EloquentPeasant W1:27_2/alt_191-27_5/alt_194"], note: "ntk Rꜥ [nb-p,t] ... n[tk] Ḥꜥ[p]j swꜣḏ šꜣ.pl"}
+      - {motif: do-not-lie-to-judge, refs: ["EloquentPeasant W1:25_4/alt_177"], note: "m ḏd grg"}
+    hints:
+      - "Restored text; see the B1 units for the full wording and parallels (Isa 28:17, Amos 5:24, Hab 1:14-17)."
+  - id: ane-eloquentpeasant-w2-robbery
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the journey, the trap and the robbery"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:1/alt_Amherst_I_A_1-62/alt_31"]
+    tags:
+      - {motif: catalogue-of-desert-produce, refs: ["EloquentPeasant W2:1/alt_Amherst_I_A_1"], note: "mostly restored after R"}
+      - {motif: powerful-man-schemes-to-rob-poor, refs: ["EloquentPeasant W2:20/alt_Amherst_I_B_1/2-22/alt_Amherst_I_B_3"], note: "B1 adds mnḫ: 'an efficacious (magic) image'"}
+      - {motif: path-blocked-pretext-for-seizure, refs: ["EloquentPeasant W2:24/alt_Amherst_I_C_1-43/alt_12"]}
+      - {motif: robbed-man-beaten-and-told-to-be-silent, refs: ["EloquentPeasant W2:53/alt_22-61/alt_30"], note: "nḥm =k r =f nḫ,wt m rʾ =j ... nb-sgr ḏi̯ =k r =k n =j ḫ,t =j"}
+      - {motif: lord-of-estate-punishes-thieves, refs: ["EloquentPeasant W2:46/alt_15-49/alt_18"], note: "ntf gr.t ḫsf ꜥwꜣ nb m tꜣ pn r-ḏr =f: the peasant appeals to Rensi's reputation"}
+      - {motif: proverb-poor-mans-name-spoken-for-his-lord, refs: ["EloquentPeasant W2:50/alt_19-52/alt_21"], note: "dm.tw rn n ḥwr,w ḥr nb =f"}
+      - {motif: weeping-from-pain-of-wrong, refs: ["EloquentPeasant W2:55/alt_24"]}
+      - {motif: peasant-petitions-high-steward-nine-times, refs: ["EloquentPeasant W2:62/alt_31"]}
+    hints:
+      - "2 Sam 12:1-4 (the rich man takes the poor man's lamb), 1 Kgs 21:1-16, Mic 2:2, Isa 3:14-15; Q 38:21-24."
+      - "The poor man despised: Eccl 9:16 (the poor man's wisdom is despised), Prov 14:20."
+  - id: ane-eloquentpeasant-w2-first-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): to Rensi; the officials' advice; the first petition"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:63/alt_32-102/alt_71"]
+    tags:
+      - {motif: officials-side-with-powerful, refs: ["EloquentPeasant W2:73/alt_42-79/alt_48"], note: "the officials assume the peasant was a serf of Nemtinakht's who went to another master: 'that is what they do to their peasants'"}
+      - {motif: judge-silent-to-prolong-eloquence, refs: ["EloquentPeasant W2:80/alt_49-82/alt_51"], note: "gr pw jri̯.n (j)m,(j)-rʾ-pr-wr: he answered neither the officials nor the peasant"}
+      - {motif: just-official-sails-lake-of-maat, refs: ["EloquentPeasant W2:84/alt_53-91/alt_60"]}
+      - {motif: official-praised-as-father-of-orphan-husband-of-widow, refs: ["EloquentPeasant W2:91/alt_60/2"], note: "ntk jt n nmḥ hj n ḫꜣr,t sn n wḏꜥ,t šnd,yt n.t jw,tw mw,t =f"}
+      - {motif: father-of-orphans-judge-of-widows, refs: ["EloquentPeasant W2:91/alt_60/2"]}
+      - {motif: official-free-of-greed-destroys-falsehood, refs: ["EloquentPeasant W2:95/alt_64"]}
+      - {motif: examine-me-plea, refs: ["EloquentPeasant W2:100/alt_69-102/alt_71"]}
+    hints:
+      - "Ps 68:6 (MT), Ps 146:9, Job 29:12-17 ('I was eyes to the blind ... a father to the needy'), Isa 1:17, Jer 22:3; Q 93:9-10 ('do not oppress the orphan, do not repel the petitioner'), Q 107:1-2."
+  - id: ane-eloquentpeasant-w2-king-orders
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the king orders silence, writing and secret provision"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:102/alt_71/2-117/alt_86"]
+    tags:
+      - {motif: dated-to-reign-of-named-king, refs: ["EloquentPeasant W2:102/alt_71/2"], note: "Nb-kꜣ.pl-Rꜥ"}
+      - {motif: judge-silent-to-prolong-eloquence, refs: ["EloquentPeasant W2:109/alt_78/2-111/alt_80"], note: "nn wšb r ḏd.t =f nb.t; jn-mr,wt wn =f ḥr ḏd gr 'so that he goes on speaking, be silent!'; then in writing"}
+      - {motif: petitioner-secretly-fed, refs: ["EloquentPeasant W2:112/alt_81-117/alt_86"], note: "10 loaves and 2 jugs of beer daily; 3 measures of barley daily for the wife"}
+    hints:
+      - "Ruth 2:15-16; 1 Kgs 17:4-6 (fed by ravens unseen); Q 76:9 ('we feed you for God's face only')."
+  - id: ane-eloquentpeasant-w2-second-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the second petition (the scales tilt, the officials are inverted)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:119/alt_88-169/alt_138"]
+    tags:
+      - {motif: official-as-rudder-beam-plummet, refs: ["EloquentPeasant W2:121/alt_90-123/alt_92/2"], note: "ḥmw n p,t sꜣw n tꜣ ḫꜣy fꜣi̯ wdn,w; ḥmw m sbn sꜣw m gsꜣ ḫꜣy m jri̯ nwd,w"}
+      - {motif: mortal-official-will-die-like-his-subjects, refs: ["EloquentPeasant W2:126/alt_95-126/alt_95/2"], note: "jn m(w)t m(w)t ḥnꜥ ẖr.pl =f; jn jw =k r z n nḥḥ 'will you be a man of eternity?'"}
+      - {motif: justice-as-scales-tongue-plummet-heart-weight, refs: ["EloquentPeasant W2:126/alt_95/3", "EloquentPeasant W2:159/alt_128"], note: "jws,w gsꜣ.w tḫ nnm 'the balance tilted, the plummet off'; ꜣw spr,w wdn fdq 'the petitioner is long (waiting), the weight is broken off'"}
+      - {motif: maat-flees-from-under-judge, refs: ["EloquentPeasant W2:128/alt_97"], note: "m =k mꜣꜥ,t twḫ =s ẖr =k nš.t(j) m s,t =s"}
+      - {motif: inverted-officials-catalogue, refs: ["EloquentPeasant W2:129/alt_98-133/alt_102/2", "EloquentPeasant W2:135/alt_104/2-138/alt_107"], note: "sr.w.pl ḥr jri̯.t jy,t; rḏi̯ ṯꜣw ḥr gꜣu̯.t; psš.w m ꜥwn.w; dr sꜣjr m wḏ jri̯.t =f; dmj m wḏn,w =f; nm jr =f ḫsf =f bw-ḥwr,w 'who then will punish wrong?'"}
+      - {motif: wickedness-in-place-of-justice, refs: ["EloquentPeasant W2:129/alt_98-130/alt_99"]}
+      - {motif: seeing-blind-hearing-deaf-leader-misleads, refs: ["EloquentPeasant W2:144/alt_113"], note: "mꜣ.w šp.w sḏm.w sḫ.w sšm.w ḫpr m stnm.w"}
+      - {motif: corrupt-judge-as-predator-and-fisherman, refs: ["EloquentPeasant W2:205/alt_174"], note: "see third petition"}
+      - {motif: hungry-man-may-steal-sated-official-may-not, refs: ["EloquentPeasant W2:152/alt_121/2-156/alt_125"], note: "t(w)t ṯꜣw.t n jw,tw ḫ,t =f 'theft is fitting for the one who has nothing' ... jw =k swt sꜣi̯.t(j) m tʾ =k tḫi̯.t(j) m ḥ(n)q,t =k"}
+      - {motif: refuge-whose-landing-place-has-crocodiles, refs: ["EloquentPeasant W2:160/alt_129/2-161/alt_130"], note: "jri̯ jb,w snb mr,yt =k m =k dmj =k šn.w"}
+      - {motif: do-not-lie-to-judge, refs: ["EloquentPeasant W2:163/alt_132-164/alt_133/2"], note: "m ḏd grg; lying is the officials' 'vegetable'"}
+      - {motif: rescuer-of-the-shipwrecked, refs: ["EloquentPeasant W2:167/alt_136-169/alt_138"], note: "mnj mḥ nb šd bgꜣ,w"}
+    hints:
+      - "The judge's mortality: Ps 82:6-7 ('you are gods ... yet you shall die like men'), Ps 49:8-13 (MT)."
+      - "Justice turned upside down: Isa 5:7, 20, 23, Isa 10:1-2, Amos 5:7, 6:12, Hab 1:4, Eccl 3:16; Q 4:135, Q 5:8."
+      - "Theft by the hungry excused: Prov 6:30-31 ('men do not despise a thief if he steals to satisfy his hunger')."
+      - "Eyes that do not see, ears that do not hear: Isa 6:9-10, Jer 5:21, Ezek 12:2; Q 7:179, Q 2:18."
+      - "Truth fled: Isa 59:14-15 ('justice is turned back ... truth has stumbled in the square')."
+  - id: ane-eloquentpeasant-w2-third-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the third petition (Re and Hapi, the balance of Thoth); the peasant is flogged"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:170/alt_139-223/alt_192"]
+    tags:
+      - {motif: official-likened-to-sun-and-nile, refs: ["EloquentPeasant W2:171/alt_140-174/alt_143"], note: "ntk Rꜥ nb p,t ... ntk Ḥꜥp(j) swꜣḏ šꜣ.pl; m ḫpr m wḏn,w r spr.w 'do not become a flood against the petitioner'"}
+      - {motif: maat-is-breath-of-nose, refs: ["EloquentPeasant W2:177/alt_146"], note: "ṯꜣw pw n fnd jri̯.t mꜣꜥ,t"}
+      - {motif: thoth-balance-not-lenient, refs: ["EloquentPeasant W2:179/alt_148-182/alt_151"], note: "jn jw jws,w nnm =f jn jw mḫꜣ,t ḥr rḏi̯.t ḥr gs jn jw r =f Ḏḥwtj sfn =f"}
+      - {motif: do-not-repay-good-with-evil, refs: ["EloquentPeasant W2:182/alt_151/2"], note: "m wšb nfr,t m bjn,t"}
+      - {motif: justice-as-scales-tongue-plummet-heart-weight, refs: ["EloquentPeasant W2:191/alt_160/3-197/alt_166/2"], note: "ntk jws,w ... tḫ pw ns =k dbn pw jb =k rmn.w =f pw sp,t =kj"}
+      - {motif: do-not-lie-to-judge, refs: ["EloquentPeasant W2:190/alt_159-191/alt_160/2"]}
+      - {motif: no-partiality-in-judgment, refs: ["EloquentPeasant W2:198/alt_167"], note: "jr ḥbs =k ḥr =k r nḫt ḥr 'if you veil your face before the violent'"}
+      - {motif: corrupt-judge-as-ferryman-for-fare, refs: ["EloquentPeasant W2:202/alt_171-202/alt_171/2"], note: "sn =f pw jyi̯.y jni̯ n =f 'his brother is he who comes bringing (a gift)'; mẖn,tj ḏꜣi̯ nb hm,t"}
+      - {motif: bribe-blinds-the-wise, refs: ["EloquentPeasant W2:202/alt_171"]}
+      - {motif: corrupt-judge-as-predator-and-fisherman, refs: ["EloquentPeasant W2:205/alt_174-209/alt_178"], note: "ṯnḥr n rḫ,yt ꜥnḫ m ḥwr,w.pl n.w ꜣpd.w.pl; wdp,w whose joy is slaughter; mnj,w; msḥ skn"}
+      - {motif: truth-hidden-found-lie-thrown-down, refs: ["EloquentPeasant W2:213/alt_182"], note: "gmi̯.tw jmn,w mꜣꜥ,t rḏi̯.t(w) sꜣ grg r tꜣ"}
+      - {motif: do-not-plan-for-tomorrow, refs: ["EloquentPeasant W2:214/alt_183-214/alt_183/2"], note: "m grg dwꜣ n jyi̯.t =f n rḫ.n.tw jy,t jm =f"}
+      - {motif: petitioner-flogged-for-persistence, refs: ["EloquentPeasant W2:217/alt_186-217/alt_186/2"], note: "two guards with whips (smj.w) beat every limb of him"}
+      - {motif: leaderless-community-similes, refs: ["EloquentPeasant W2:220/alt_189"], note: "a town without its mayor, a body without its chief, a ship without its pilot, a troop without its leader"}
+      - {motif: inverted-officials-catalogue, refs: ["EloquentPeasant W2:223/alt_192"], note: "a policeman who steals, a mayor who takes (bribes), a district officer who should punish plunder become its model"}
+    hints:
+      - "Justice as line and plummet: Isa 28:17 ('I will make justice the line and righteousness the plummet'), Amos 7:7-8; honest balances are God's: Prov 16:11; Q 55:7-9, Q 57:25 (the Book and the Balance)."
+      - "The judge as Nile/rain giving life: Ps 72:6 (the king like rain on mown grass), 2 Sam 23:3-4; Amos 5:24 ('let justice roll down like waters')."
+      - "Bribes: Exod 23:8, Deut 16:19, Prov 17:23, Isa 1:23, Mic 3:11; Q 2:188."
+      - "Rulers as predators: Ezek 22:27, Zeph 3:3, Mic 3:1-3; fishermen taking men with nets: Hab 1:14-17."
+      - "Do not boast of tomorrow: Prov 27:1; Q 31:34, Q 18:23-24."
+      - "Like sheep without a shepherd, a ship without pilot: Num 27:17, 1 Kgs 22:17, Zech 10:2."
+      - "Do not repay good with evil: Prov 17:13, Ps 35:12, 1 Sam 25:21."
+  - id: ane-eloquentpeasant-w2-fourth-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the fourth petition at the temple of Herishef"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:225/alt_194-256/alt_225"]
+    tags:
+      - {motif: peasant-petitions-high-steward-nine-times, refs: ["EloquentPeasant W2:225/alt_194-225/alt_194/2", "EloquentPeasant W2:255/alt_224"], note: "4.nw sp ꜣ m spr n =k"}
+      - {motif: goodness-destroyed-ferry-sunk, refs: ["EloquentPeasant W2:228/alt_197-232/alt_201/2"], note: "ḥḏi̯ bw-nfr ... jn jw tꜣ mẖn,t sꜥq.t(j) ... ḏꜣi̯.t jtr,w m-sꜣ tbw,tj"}
+      - {motif: corrupt-judge-as-predator-and-fisherman, refs: ["EloquentPeasant W2:236/alt_205"], note: "mḥ,w jꜥi̯ jb =f ... ḫꜣꜥ db.w.pl sti̯ smꜣm.w.pl pḥ rm.w.pl sḫt ꜣpd.w.pl"}
+      - {motif: restraint-of-speech-wise, refs: ["EloquentPeasant W2:239/alt_208-240/alt_209"], note: "nn ḫꜣḫ-rʾ šwi̯ m wꜥr,w"}
+      - {motif: neglected-fault-doubles, refs: ["EloquentPeasant W2:246/alt_215-246/alt_215/2"], note: "swꜣ ḥr sp jw =f r sn.w"}
+      - {motif: proverbs-eater-tastes-sleeper-dreams, refs: ["EloquentPeasant W2:246/alt_215/3-247/alt_216/2"], note: "jn wnm dp ... jn sḏr,w mꜣꜣ rs,wt"}
+      - {motif: judge-titles-reversed-pleas, refs: ["EloquentPeasant W2:252/alt_221-254/alt_223/2"], note: "ḥmy m sbn dp,wt =k; sꜥnḫ,w m-rḏi̯ m(w)t =tw; šw,yt m jri̯ m šw; jb,w m-rḏi̯ jti̯ msḥ"}
+    hints:
+      - "Ps 121:5-6 (YHWH your shade ... the sun shall not strike you), Isa 25:4, 32:2 (a shade from the heat, a refuge); Prov 29:20 (a man hasty in words)."
+  - id: ane-eloquentpeasant-w2-fifth-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the fifth petition (the fishermen; the poor man's goods are his breath)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:256/alt_225/2-269/alt_238/2"]
+    tags:
+      - {motif: corrupt-judge-as-predator-and-fisherman, refs: ["EloquentPeasant W2:257/alt_226-262/alt_231"], note: "a catalogue of fishermen with their nets and harpoons; jw wḥꜥ ḫbꜣ =f jtr,w; m =k tw m mn,t jr,j"}
+      - {motif: maat-is-breath-of-nose, refs: ["EloquentPeasant W2:262/alt_231/2-264/alt_233"], note: "m ꜥwn ḥwr,w ḥr ḫ,t =f ... ṯꜣw pw n mꜣjr ḫ,t =f dbb fnd =f pw nḥm st"}
+      - {motif: judge-appointed-to-hear-and-punish-robber, refs: ["EloquentPeasant W2:265/alt_234-266/alt_235"], note: "rḏi̯.n.tw =k r sḏm md,t r wḏꜥ sn.wj r ḫsf ꜥwꜣi̯ ... fꜣi̯ pw n jṯꜣ"}
+      - {motif: protector-become-flood, refs: ["EloquentPeasant W2:268/alt_237-269/alt_238/2"], note: "rḏi̯.n.t(w) =k r dnj,t n mꜣjr sꜣw mḥi̯ =f m =k tw m š =f stꜣ,w"}
+    hints:
+      - "The poor man's livelihood not to be taken: Deut 24:6 (no millstone as pledge, 'he takes a life in pledge'), Exod 22:25-26 (MT), Sir 34:21-22 (bread of the needy is their life); Q 4:2, 10 (devouring orphans' property is eating fire)."
+      - "Hab 1:14-17 (people like fish, taken by net and hook)."
+  - id: ane-eloquentpeasant-w2-sixth-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the sixth petition (full measure; the gardener of evil)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:270/alt_239-294/alt_263"]
+    tags:
+      - {motif: justice-satisfies-like-food-clothing-fire-water, refs: ["EloquentPeasant W2:271/alt_240-273/alt_242"], note: "like satiety ending hunger, clothing ending nakedness, the sky calming after storm, fire cooking the raw, water quenching thirst"}
+      - {motif: inverted-officials-catalogue, refs: ["EloquentPeasant W2:279/alt_248-280/alt_249/2", "EloquentPeasant W2:293/alt_262/2"]}
+      - {motif: just-weights-and-measures, refs: ["EloquentPeasant W2:281/alt_250-282/alt_251"], note: "jw sjꜣt sšrr =f mꜣꜥ,t; mḥ nfr n hqs n wbn mꜣꜥ,t 'fill (the measure) right, Maat neither short nor overflowing'"}
+      - {motif: share-gain-with-brother, refs: ["EloquentPeasant W2:283/alt_252"], note: "jr jni̯ =k jmi̯ n sn,w =k"}
+      - {motif: none-knows-what-is-in-heart, refs: ["EloquentPeasant W2:287/alt_256"], note: "n rḫ.n.tw wnn.t m jb"}
+      - {motif: gardener-of-evil-waters-plot-with-lies, refs: ["EloquentPeasant W2:294/alt_263"], note: "kꜣn,y n bw-ḥwr,w ḥr ntf ḥsp =f m jw,yt r sḫpr ḥsp =f m grg"}
+    hints:
+      - "Full measure: Lev 19:35-36, Deut 25:15; Q 17:35, Q 6:152, Q 26:181-183, Q 83:1-3."
+      - "Sowing and watering wickedness: Hos 10:13 ('you plowed wickedness, reaped injustice, ate the fruit of lies'), Job 4:8, Prov 22:8."
+      - "Only God knows the heart: 1 Sam 16:7, Jer 17:9-10, 1 Kgs 8:39; Q 67:13."
+  - id: ane-eloquentpeasant-w2-seventh-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the seventh petition (colleague of Thoth; the breached dyke)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:297/alt_266-320/alt_289"]
+    tags:
+      - {motif: official-as-rudder-beam-plummet, refs: ["EloquentPeasant W2:298/alt_267-298/alt_267/2"], note: "ntk ḥmw n tꜣ r-ḏr =f sqdd tꜣ ḫft wḏ =k"}
+      - {motif: no-partiality-in-judgment, refs: ["EloquentPeasant W2:299/alt_268"], note: "ntk sn.nw n Ḏḥwtj wḏꜥ nn rḏi̯.t ḥr gs"}
+      - {motif: do-not-brood-over-future, refs: ["EloquentPeasant W2:302/alt_271-303/alt_272"], note: "m wꜣ n n,tt n jyi̯.t m ḥꜥ.w n n,tt n ḫpr.t"}
+      - {motif: none-knows-what-is-in-heart, refs: ["EloquentPeasant W2:304/alt_273"]}
+      - {motif: speech-bursts-like-breached-dam, refs: ["EloquentPeasant W2:306/alt_275-309/alt_278"], note: "ẖ,t =j mḥ.t(j) jb =j ꜣṯp ... ng.t pw m dnj,t mw =s ꜣs.w wn rʾ =j r md(w)i̯.t"}
+      - {motif: wonder-workers-reversed-silent-made-speak, refs: ["EloquentPeasant W2:316/alt_285-318/alt_287/2"], note: "nn gr rḏi̯.n =k mdwi̯ =f, nn sḏr rḏi̯.n =k rs =f, nn tm rʾ wn.n =k, nn ḫm rḏi̯.n =k rḫ =f"}
+      - {motif: officials-rejoin-severed-head, refs: ["EloquentPeasant W2:319/alt_288-320/alt_289"], note: "ṯs.pl tp ḥsq 'who join on a cut-off head'"}
+    hints:
+      - "Speech bursting out of a full belly: Job 32:18-20 ('I am full of words, the spirit in my belly constrains me; my belly is like wine with no vent'), Jer 20:9."
+      - "Opening the mouth of the mute, making the deaf hear: Isa 35:5-6, Exod 4:11; Q 5:110 (Jesus heals the blind and the leper)."
+      - "Do not worry about tomorrow: Prov 27:1, Eccl 7:14; Q 31:34."
+  - id: ane-eloquentpeasant-w2-eighth-petition
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B1): the eighth petition (Maat goes down to the necropolis with its doer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3023 + pAmherst I, version B1"
+    read: ["EloquentPeasant W2:320/alt_289/2-356/alt_325"]
+    tags:
+      - {motif: greed-leads-to-fall, refs: ["EloquentPeasant W2:321/alt_290-324/alt_293"], note: "jw ḫr =tw n ḥnt wꜣ jw ꜥwn-jb šwi̯ =f m sp ... jw ꜥwn jb =k nn n =k st"}
+      - {motif: sated-official-still-grasps, refs: ["EloquentPeasant W2:325/alt_294-325/alt_294/3", "EloquentPeasant W2:331/alt_300-333/alt_302/2"], note: "ẖ,t =k mḥ.t(j) wbn ḥqꜣ.t ... jw =k ḥr jti̯.t jn jw =k m ꜥwꜣ,y"}
+      - {motif: inverted-officials-catalogue, refs: ["EloquentPeasant W2:327/alt_296"], note: "the officials appointed to repel wrong are a refuge for the aggressor"}
+      - {motif: do-maat-for-lord-of-maat, refs: ["EloquentPeasant W2:334/alt_303"], note: "jri̯ mꜣꜥ,t n nb mꜣꜥ,t"}
+      - {motif: maat-descends-with-just-to-necropolis, refs: ["EloquentPeasant W2:338/alt_307-342/alt_311"], note: "jw swt mꜣꜥ,t r nḥḥ hꜣꜣ =s m-ꜥ jrr s(j) r ẖr,t-nṯr ... n sjn.n.tw rn =f tp tꜣ jw sḫꜣ.tw =f ḥr bw-nfr"}
+      - {motif: name-not-forgotten-remembered-for-goodness, refs: ["EloquentPeasant W2:339/alt_308-341/alt_310"]}
+      - {motif: justice-as-scales-tongue-plummet-heart-weight, refs: ["EloquentPeasant W2:342/alt_311/2-344/alt_313", "EloquentPeasant W2:353/alt_322-355/alt_324"], note: "jn jws,w pw n gsꜣ.n =f jn mḫꜣ,t pw n rḏi̯.n =s ḥr gs"}
+      - {motif: speak-maat-do-maat-for-it-is-great, refs: ["EloquentPeasant W2:351/alt_320-352/alt_321"], note: "ḏd mꜣꜥ,t jri̯ mꜣꜥ,t ḏr-n,tt wr s(j) ꜥꜣ s(j) wꜣḥ s(j)"}
+      - {motif: speech-from-mouth-of-re, refs: ["EloquentPeasant W2:349/alt_318"], note: "md,t tn nfr.t prr.t m rʾ n Rꜥ ḏs =f"}
+      - {motif: writing-tools-of-thoth-addressed, refs: ["EloquentPeasant W2:336/alt_305"], note: "ꜥr šfd,w gstj Ḏḥwtj ḥr.t(j) r jri̯.t jy,t: the official addressed as Thoth's reed, papyrus and palette"}
+    hints:
+      - "Righteousness that endures for ever and the remembered name: Prov 10:7 (the memory of the righteous is a blessing), Ps 112:3, 6, Prov 12:19, Isa 56:5; Q 18:46 (the lasting good deeds are better with your Lord), Q 36:12."
+      - "Righteousness delivers from death: Prov 10:2, 11:4, 12:28."
+      - "Greed brings ruin: Prov 15:27, 28:22, 1 Tim 6:9-10; Q 102:1-2, Q 104:1-3."
+  - id: ane-eloquentpeasant-w3-fifth-to-eighth-petitions
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B2): end of the fifth and the sixth to eighth petitions"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3025 + pAmherst II, version B2"
+    read: ["EloquentPeasant W3:Amherst_II_F_1-89"]
+    tags:
+      - {motif: maat-is-breath-of-nose, refs: ["EloquentPeasant W3:Amherst_II_F_1/2-Amherst_II_F_2"], note: "fragmentary; m ꜥ[wn] [ḥwr,w] restored"}
+      - {motif: justice-satisfies-like-food-clothing-fire-water, refs: ["EloquentPeasant W3:Amherst_II_G_1"]}
+      - {motif: just-weights-and-measures, refs: ["EloquentPeasant W3:3-4"]}
+      - {motif: share-gain-with-brother, refs: ["EloquentPeasant W3:5-5/2"], note: "B2 adds jri̯ twt 'do what is complete'"}
+      - {motif: gardener-of-evil-waters-plot-with-lies, refs: ["EloquentPeasant W3:18"]}
+      - {motif: no-partiality-in-judgment, refs: ["EloquentPeasant W3:23/2"]}
+      - {motif: speech-bursts-like-breached-dam, refs: ["EloquentPeasant W3:32-35"]}
+      - {motif: wonder-workers-reversed-silent-made-speak, refs: ["EloquentPeasant W3:44-47/2"]}
+      - {motif: do-maat-for-lord-of-maat, refs: ["EloquentPeasant W3:69"]}
+      - {motif: maat-descends-with-just-to-necropolis, refs: ["EloquentPeasant W3:72/2-76"]}
+      - {motif: justice-as-scales-tongue-plummet-heart-weight, refs: ["EloquentPeasant W3:76/2-77/2", "EloquentPeasant W3:87-88"]}
+      - {motif: speak-maat-do-maat-for-it-is-great, refs: ["EloquentPeasant W3:84-85"], note: "B2 adds jrr =k n =j m-mꜣꜥ,t 'you shall act justly for me'"}
+    hints:
+      - "As for B1 petitions 5-8: Hos 10:13, Job 32:18-20, Prov 10:7, Isa 28:17; Q 55:7-9, Q 83:1-3."
+  - id: ane-eloquentpeasant-w3-ninth-petition-verdict
+    tradition: ane-egyptian
+    title: "Eloquent Peasant (version B2): the ninth petition, the despairing peasant, the verdict"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3025 + pAmherst II, version B2"
+    read: ["EloquentPeasant W3:91-142"]
+    tags:
+      - {motif: peasant-petitions-high-steward-nine-times, refs: ["EloquentPeasant W3:91"], note: "9.nw sp"}
+      - {motif: justice-as-scales-tongue-plummet-heart-weight, refs: ["EloquentPeasant W3:92-93"], note: "mḫꜣ,t pw n.t r(m)t.pl ns =sn 'the tongue of men is their balance'"}
+      - {motif: liar-has-no-heirs-reaches-no-harbour, refs: ["EloquentPeasant W3:98-102"], note: "jr ḫwd ẖr =f nn ms.w =f nn jwꜥ.w =f tp tꜣ jr sqdd ẖr =f n sꜣḥ.n =f tꜣ"}
+      - {motif: no-partiality-in-judgment, refs: ["EloquentPeasant W3:104/2-106"], note: "m nmꜥ m sḏm n jb m ḥbs ḥr =k ... m nj twꜣ tw 'do not repel the one who appeals to you'"}
+      - {motif: no-friend-for-deaf-to-truth, refs: ["EloquentPeasant W3:109-110/2"], note: "nn ḫnms n sẖi̯ mꜣꜥ,t nn hrw nfr n ꜥwn-jb"}
+      - {motif: petitioner-threatens-to-appeal-to-god-of-dead, refs: ["EloquentPeasant W3:113-114/2"], note: "jw =j r šmi̯.t spr =j ḥr =k n Jnp,w"}
+      - {motif: death-longed-for-like-water-by-thirsty, refs: ["EloquentPeasant W3:119"], note: "the text of W3:119 is difficult; TLA: 'like the approach of a thirsty man to water, like the reaching of the suckling's mouth to milk, so is death whose coming is longed for'"}
+      - {motif: longing-for-death-as-treasure, refs: ["EloquentPeasant W3:119"]}
+      - {motif: petitioner-oath-of-dependence, refs: ["EloquentPeasant W3:124-125"], note: "wnm =j ꜣ m tʾ =k swrj =j ꜣ m ḥ(n)q,t =k r-nḥḥ"}
+      - {motif: petitions-read-from-new-roll-sent-to-king, refs: ["EloquentPeasant W3:128-133"], note: "read from a new roll, sent to Nebkaure; it pleased him more than anything in the land; 'judge yourself, son of Meru'"}
+      - {motif: oppressor-property-given-to-victim, refs: ["EloquentPeasant W3:133/2-139"], note: "an inventory (wp,wt) of Nemtinakht's property: six people, barley, emmer, donkeys, pigs, small cattle; given to the peasant (lacunose)"}
+      - {motif: colophon-copied-as-found, refs: ["EloquentPeasant W3:142"], note: "jwi̯ =f pw, the rest of the colophon restored"}
+    hints:
+      - "Do not repel the petitioner: Q 93:10; Prov 21:13 (who shuts his ear to the cry of the poor), Prov 31:8-9; the importunate widow and unjust judge, Luke 18:1-8."
+      - "Longing for death: Job 3:20-22 ('who long for death ... and dig for it more than for hidden treasures'), Job 6:8-9, 1 Kgs 19:4, Jonah 4:3."
+      - "The wicked man's wealth without heirs: Job 18:19, Ps 109:13, Ps 37:28, Prov 13:22."
+      - "Restitution from the oppressor: Exod 22:3 (MT), 2 Sam 12:6, Luke 19:8; the enemy's goods given to his victim: Esth 8:1-2."
+  # ===================== HARPER'S SONGS =====================
+  - id: ane-harperssongs-w1-antef-song
+    tradition: ane-egyptian
+    title: "Harper's Song of Antef (pHarris 500): generations pass, follow your heart"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHarris 500 recto 6-7 (Text A)"
+    read: ["HarpersSongs W1"]
+    tags:
+      - {motif: harpers-song-in-tomb, refs: ["HarpersSongs W1:6_2"], note: "ḥs,w n,tj m ḥw,t Jni̯.tw≡f ... n,tj m-bꜣḥ pꜣ ḥs,yw m bn,t"}
+      - {motif: generations-pass-others-remain, refs: ["HarpersSongs W1:6_3/2"], note: "ẖ,t ḥr sbi̯.t k,t.pl ḥr mn ḏr rk jm,j-ḥꜣ,t.pl"}
+      - {motif: generations-pass-earth-remains, refs: ["HarpersSongs W1:6_3/2"]}
+      - {motif: tombs-of-builders-vanished, refs: ["HarpersSongs W1:6_4-6_5/2", "HarpersSongs W1:6_7-6_7/2"], note: "qd ḥw,wt.pl nn-wn s,t.pl =sn ... jnb.w.pl =sn fḫ.w ... mj n,tj n ḫpr =sn"}
+      - {motif: sayings-of-imhotep-and-hordedef, refs: ["HarpersSongs W1:VI_6"], note: "jw sḏm.n =j md,t.pl Jy-m-ḥtp ḥnꜥ Ḥr,w-dd≡f"}
+      - {motif: no-one-returns-to-tell-of-dead, refs: ["HarpersSongs W1:6_8", "HarpersSongs W1:7_2/4"], note: "bw jy =tw jm sḏd =f qd =sn ...; nn-wn šmi̯ jwi̯ ꜥnw"}
+      - {motif: underworld-land-of-no-return, refs: ["HarpersSongs W1:7_2/4"]}
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W1:6_9/2-6_12"], note: "šms jb =k wnn =k; jmm ꜥnt,jw ḥr tp =k wnḫ =k m p(ꜣ)q,t"}
+      - {motif: white-garments-and-oil-enjoy-life, refs: ["HarpersSongs W1:6_10-6_10/2"]}
+      - {motif: wailing-does-not-save-from-grave, refs: ["HarpersSongs W1:6_12/2-7_1"], note: "bw sḏm wrd,w-jb sbḥ =sn bw šdi̯ jꜣkb z m jmḥ,t"}
+      - {motif: make-holiday-refrain, refs: ["HarpersSongs W1:7_1/2-7_2/2"], note: "mꜣw,t 'refrain': jri̯ hrw nfr m wrd n =k jm =f"}
+      - {motif: wealth-cannot-be-taken-along, refs: ["HarpersSongs W1:7_2/3"], note: "nn rḏi̯.n jṯi̯.tw (j)ḫ,t.pl =f ḥnꜥ =f"}
+    hints:
+      - "Eccl 1:4 (a generation goes, a generation comes), Eccl 2:16, Ps 49:11-13 (MT) and 49:18 (when he dies he takes nothing), Job 1:21, Eccl 5:14 (MT; naked he goes as he came, nothing in his hand)."
+      - "Follow your heart, oil on the head, fine clothes: Eccl 9:7-10 (white garments, oil on your head, enjoy life with the wife you love), Eccl 11:9 ('walk in the ways of your heart'), Isa 22:13; Wis 2:1-9 rejects this outlook."
+      - "No one returns: Job 7:9-10, Job 10:21, 2 Sam 12:23; Q 23:99-100 (barzakh: 'let me return', 'no!'), Q 36:31."
+      - "Tombs and great houses gone: Q 26:128-129 (monuments on every height, fortresses as if to live for ever), Q 89:6-10, Q 46:25 (nothing seen but their dwellings), Ps 49:12 (MT) (their graves their houses for ever)."
+      - "The worldly life as play and adornment: Q 57:20, Q 102:1-2, Q 3:185, Q 6:94 (you have come to us alone, leaving behind what We gave you)."
+  - id: ane-harperssongs-w2-paatenemheb
+    tradition: ane-egyptian
+    title: "Harper's Song of Antef, Saqqara copy (Paatenemheb)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Paatenemheb, Saqqara (Text A)"
+    read: ["HarpersSongs W2"]
+    tags:
+      - {motif: tombs-of-builders-vanished, refs: ["HarpersSongs W2:2", "HarpersSongs W2:4-5"], note: "largely restored after pHarris 500; W2:1 and W2:7 are empty lines"}
+      - {motif: sayings-of-imhotep-and-hordedef, refs: ["HarpersSongs W2:3/2"]}
+      - {motif: no-one-returns-to-tell-of-dead, refs: ["HarpersSongs W2:5/2"], note: "bn [jy] =[tw] (future negation, against bw of pHarris)"}
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W2:7/2-9/3"], note: "variant m ḥḏi̯ jb =k 'do not grieve your heart'"}
+      - {motif: wailing-does-not-save-from-grave, refs: ["HarpersSongs W2:10-10/2"]}
+    hints:
+      - "Eccl 9:7-10, Eccl 11:9-10 ('remove vexation from your heart')."
+  - id: ane-harperssongs-w3-neferhotep-1
+    tradition: ane-egyptian
+    title: "Harper's Song of Neferhotep, first song (TT 50)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Neferhotep, TT 50, song 1 (Text B)"
+    read: ["HarpersSongs W3"]
+    tags:
+      - {motif: harpers-song-in-tomb, refs: ["HarpersSongs W3:1"]}
+      - {motif: generations-pass-others-remain, refs: ["HarpersSongs W3:2/2-3"], note: "ẖ,t.pl ḥr zbi̯.t ḏr rk nṯr ḏꜣ~mꜥ ḥr jy.t r s,t =sn"}
+      - {motif: generations-pass-earth-remains, refs: ["HarpersSongs W3:2/2-3/2"]}
+      - {motif: sun-rises-and-sets-life-continues, refs: ["HarpersSongs W3:3/2-5"], note: "Rꜥ ḏi̯ =f sw tp dwꜣ,yt Tm ḥtp m Mꜣnw; men beget, women conceive, every nose breathes"}
+      - {motif: make-holiday-refrain, refs: ["HarpersSongs W3:6", "HarpersSongs W3:10", "HarpersSongs W3:17/2"]}
+      - {motif: beloved-wife-beside-you-at-feast, refs: ["HarpersSongs W3:7-8"], note: "sn,t =k jm,j.t jb =k snḏm.ṯ r-gs =k; jmm ḥs šmꜥ r-ḫft-ḥr =k"}
+      - {motif: death-as-landing-on-shore, refs: ["HarpersSongs W3:9"], note: "hrw pfj n mnj jm =f r pꜣ tꜣ mr sgr"}
+      - {motif: tombs-of-builders-vanished, refs: ["HarpersSongs W3:11-11/3"]}
+      - {motif: feed-landless-for-good-name, refs: ["HarpersSongs W3:13"], note: "jmm tʾ.pl n jw,tj šꜣ =f ḫpr n =k rn nfr n m-ḫt nḥḥ"}
+      - {motif: fate-god-counts-days, refs: ["HarpersSongs W3:16/2"], note: "Šꜣy ḥr ḥsb sw =f"}
+      - {motif: death-personified-sees-unseen-no-appointment, refs: ["HarpersSongs W3:21/3"], note: "largely restored: [n,tj ḥr mꜣꜣ jw bn mꜣꜣ =f jw,tj] sw hrw ḥḏi̯ ḥꜣ,t(j).w.pl"}
+      - {motif: underworld-land-of-no-return, refs: ["HarpersSongs W3:23-24/2"], note: "pꜣ tꜣ šbb ... n wn jy.t ꜥnn"}
+      - {motif: mourners-pour-libations-sem-priest, refs: ["HarpersSongs W3:13/2-15"], note: "sem priest in panther skin, libations, women singers in tears, mummies set up before Re"}
+    hints:
+      - "Eccl 1:4-5 (a generation goes ... the sun rises and the sun sets), Eccl 9:9 (enjoy life with the wife you love), Isa 5:12."
+      - "Give bread to the landless for a good name: Prov 22:1, Eccl 7:1, Prov 19:17, Eccl 11:1-2; Q 2:261, Q 76:8."
+      - "Days counted by fate: Ps 39:5-6 (MT), Ps 90:12, Job 14:5; Q 7:34, Q 16:61."
+      - "Death unseen and unannounced: Jer 9:20 (death has climbed into our windows), Prov 27:1; Q 31:34 (no soul knows in what land it will die), Q 63:10-11."
+  - id: ane-harperssongs-w4-paser
+    tradition: ane-egyptian
+    title: "Harper's Song of Paser (TT 106)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Paser, TT 106 (Text C)"
+    read: ["HarpersSongs W4"]
+    tags:
+      - {motif: generations-pass-others-remain, refs: ["HarpersSongs W4:1/2-2"]}
+      - {motif: make-holiday-refrain, refs: ["HarpersSongs W4:4/3-5", "HarpersSongs W4:6/4", "HarpersSongs W4:10/2"]}
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W4:4/5", "HarpersSongs W4:6-6/2"]}
+      - {motif: death-as-landing-on-shore, refs: ["HarpersSongs W4:5/3"], note: "restored: [hrw pfj n mnj]"}
+      - {motif: god-loves-maat, refs: ["HarpersSongs W4:8"], note: "mri̯.t nṯr m Mꜣꜥ,t; Maat 'has not left him a single day' W4:4/2"}
+      - {motif: fate-god-counts-days, refs: ["HarpersSongs W4:11/2-11/3"], note: "bw wꜣḥ.n šꜣ[,y] [ḥsb] [s]w(.w) =f; dmḏ.yt r wnw,t =s n rḏi̯ ḥr =s 'nothing is added to the sum of its hours'"}
+      - {motif: underworld-land-of-no-return, refs: ["HarpersSongs W4:12"]}
+    hints:
+      - "Nothing added to one's span: Ps 39:5-6 (MT), Job 14:5, Matt 6:27; Q 7:34, Q 35:11, Q 63:11."
+  - id: ane-harperssongs-w5-inherkhau
+    tradition: ane-egyptian
+    title: "Harper's Song of Inherkhau (TT 359)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Inherkhau, TT 359 (Text D)"
+    read: ["HarpersSongs W5"]
+    tags:
+      - {motif: generations-pass-others-remain, refs: ["HarpersSongs W5:3-3/2"]}
+      - {motif: build-tomb-so-name-endures, refs: ["HarpersSongs W5:5"], note: "jri̯ n =k ḥw,t m tꜣ-ḏsr,t mn rn =k jm =s"}
+      - {motif: river-north-wind-south-each-to-his-hour, refs: ["HarpersSongs W5:7"], note: "nnw ḫdi̯ mḥ,yw.pl ḫnty z nb r wnw,t =f"}
+      - {motif: make-holiday-refrain, refs: ["HarpersSongs W5:7/2", "HarpersSongs W5:10"]}
+      - {motif: beloved-wife-beside-you-at-feast, refs: ["HarpersSongs W5:8", "HarpersSongs W5:11"]}
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W5:9-10/2", "HarpersSongs W5:12-12/2"]}
+      - {motif: gods-abomination-not-remembered, refs: ["HarpersSongs W5:13"], note: "m-jri̯ sḫꜣ ḏw,t bw,t nṯr"}
+      - {motif: righteous-quiet-man-praised, refs: ["HarpersSongs W5:13/2"], note: "pꜣ ꜥq(ꜣ)j jb pꜣ z mtj mꜣꜥ qbḥ wꜣḥ jb ... tm ḏd bjn"}
+      - {motif: daily-drunkenness-until-death, refs: ["HarpersSongs W5:15"], note: "jmm tḫ(,t) n jb =k m-ẖr,t-hrw r jy.t hrw pꜣfj n mnj"}
+      - {motif: death-as-landing-on-shore, refs: ["HarpersSongs W5:15"]}
+    hints:
+      - "The river and the wind: Eccl 1:6-7 (the wind goes to the south and turns to the north; all rivers run to the sea); each man at his hour: Eccl 3:1-2, Q 7:34, Q 10:49."
+      - "A tomb or monument to keep one's name: 2 Sam 18:18 (Absalom's pillar), Isa 22:16 (Shebna's tomb), Isa 56:5; Q 26:128-129."
+      - "Drink and be merry: Eccl 8:15, 10:19, Isa 22:13, Isa 56:12."
+      - "The quiet, upright man: Ps 37:37, Ps 15:2-3."
+  - id: ane-harperssongs-w6-amunpahapi
+    tradition: ane-egyptian
+    title: "Harper's Song of Amunpahapi (TT 355), fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Amunpahapi, TT 355 (Text E)"
+    read: ["HarpersSongs W6"]
+    tags:
+      - {motif: tombs-of-builders-vanished, refs: ["HarpersSongs W6:1-1/2"], note: "only 'the gods ... rest in their houses, the transfigured and men rest [in their tombs]' survive, partly restored"}
+      - {motif: sayings-of-imhotep-and-hordedef, refs: ["HarpersSongs W6:2"]}
+  - id: ane-harperssongs-w7-amenemheb
+    tradition: ane-egyptian
+    title: "Harper's Song of Amenemheb (TT 364)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Amenemheb, TT 364 (Text F)"
+    read: ["HarpersSongs W7"]
+    tags:
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W7:3"], note: "m-jri̯ wꜣḥ jri̯.t n jb =k r jy.t hrw mnj"}
+      - {motif: death-as-landing-on-shore, refs: ["HarpersSongs W7:3"]}
+      - {motif: generations-pass-others-remain, refs: ["HarpersSongs W7:4-5/2"]}
+      - {motif: wealth-cannot-be-taken-along, refs: ["HarpersSongs W7:6/3"], note: "(j)ḫ,t =w ḫꜣꜥ.w n nꜣ.pl ktḫ 'their goods have fallen to others'"}
+      - {motif: wise-and-fool-die-alike-leave-wealth, refs: ["HarpersSongs W7:6/3"]}
+    hints:
+      - "Ps 49:11 (MT; they leave their wealth to others), Eccl 2:18-21, Ps 39:7 (MT), Luke 12:20; Q 6:94."
+  - id: ane-harperssongs-w8-thothemheb
+    tradition: ane-egyptian
+    title: "Harper's Song of Thothemheb (TT 194)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Thothemheb, TT 194 (Text F)"
+    read: ["HarpersSongs W8"]
+    tags:
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W8:4"]}
+      - {motif: underworld-land-of-no-return, refs: ["HarpersSongs W8:5"], note: "nꜣ.pl šmi̯ ḏr rk nṯr n wḥm =sn jy"}
+      - {motif: tombs-of-builders-vanished, refs: ["HarpersSongs W8:6-6/2"], note: "wḫꜣ =tw rn.pl =sn m nḏnḏ nn db,t n pr.pl =sn 'one seeks their names by asking, but not a brick of their houses is left'"}
+      - {motif: wealth-cannot-be-taken-along, refs: ["HarpersSongs W8:8"]}
+    hints:
+      - "Ps 103:15-16 (the wind passes over it and its place knows it no more), Job 7:10, Ps 37:10, 36; Q 19:98 (do you perceive any one of them or hear from them a whisper?)."
+  - id: ane-harperssongs-w9-tjanefer-1
+    tradition: ane-egyptian
+    title: "Harper's Song of Tjanefer, first song (TT 158)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Tjanefer, TT 158, song 1 (Text F)"
+    read: ["HarpersSongs W9"]
+    tags:
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W9:2/2"], note: "restored"}
+      - {motif: generations-pass-others-remain, refs: ["HarpersSongs W9:3-4/2"]}
+      - {motif: libation-water-for-dead-from-nekropolis-gods, refs: ["HarpersSongs W9:10/2-12"], note: "fragmentary prayer to the lords of the necropolis to give water; flood of seven cubits"}
+  - id: ane-harperssongs-w10-tjay
+    tradition: ane-egyptian
+    title: "Harper's Song of Tjay (TT 23)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Tjay, TT 23 (Text F)"
+    read: ["HarpersSongs W10"]
+    tags:
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W10:2/2"]}
+      - {motif: death-personified-sees-unseen-no-appointment, refs: ["HarpersSongs W10:2/2"], note: "n,tj ḥr mꜣ(ꜣ) jw bn mꜣ(ꜣ) =f jw,tj sw [hrw] ... pꜣ ḏi̯ pr ḥr ptḫ ḥr [tꜣ] spr =f wsf kꜣ,t nb(.t)"}
+      - {motif: underworld-land-of-no-return, refs: ["HarpersSongs W10:6"]}
+    hints:
+      - "Death the unseen visitor: Jer 9:20, Eccl 9:12 (man does not know his time, like fish in a net); Q 4:78, Q 62:8."
+  - id: ane-harperssongs-w11-neferhotep-2
+    tradition: ane-egyptian
+    title: "Harper's Song of Neferhotep, second song (TT 50): against the old songs, praise of the land of eternity"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Neferhotep, TT 50, song 2 (Text G)"
+    read: ["HarpersSongs W11"]
+    tags:
+      - {motif: song-rejecting-praise-of-earthly-life, refs: ["HarpersSongs W11:3-4/3"], note: "jw sḏm.n =(j) nn-n ḥs.pl n,tj m js.w.pl ḏr-ꜥ sḏd.t =sn m sꜥꜣi̯ tp-tꜣ m sꜥnd ẖr,t-nṯr; ḥr-m pw jri̯.t m-mj,tt r pꜣ tꜣ n nḥḥ mtj ꜥqꜣ jw,tj ḥr(,w)"}
+      - {motif: land-of-eternity-without-enemy, refs: ["HarpersSongs W11:4/2-5"], note: "bw,t =f pw ẖnn(,w) ... tꜣ pn jw,tj rq =f"}
+      - {motif: all-must-reach-land-of-eternity, refs: ["HarpersSongs W11:5-6/2"], note: "n,tj(.w) r ḫpr n ḥḥ n ḥḥ jwi̯ =w r =f tm; n ḫpr.n jsq m Tꜣ-mrj; nn wꜥ tm spr n =f"}
+      - {motif: life-on-earth-like-a-dream, refs: ["HarpersSongs W11:6/3"], note: "jr ꜥḥꜥ jrr.t.pl tp tꜣ sp pw n rs,wt"}
+      - {motif: dead-praised-as-living-god-in-west, refs: ["HarpersSongs W11:2"], note: "tj sw m nṯr ꜥnḫ.w r-nḥḥ sꜥꜣ.w m jmn,t"}
+    hints:
+      - "The hereafter better than this life: Q 87:16-17 ('you prefer the life of this world, but the hereafter is better and more lasting'), Q 29:64 (the home of the hereafter is life indeed), Q 93:4; Wis 3:1-3, 2:1-9 (rejects the carpe diem of the ungodly)."
+      - "Life like a dream: Ps 90:5, Ps 73:20, Job 20:8, Isa 29:7-8; Q 23:112-114, Q 10:45 (as if they had stayed but an hour of a day)."
+      - "All go to the one place: Eccl 3:20, 6:6, Job 30:23 (the house appointed for all living); Q 3:185, Q 21:35."
+      - "A land without fear: Isa 11:9, 65:25; Q 10:62, Q 15:46-48 (enter in peace, secure; no rancour)."
+  - id: ane-harperssongs-w12-amenmose
+    tradition: ane-egyptian
+    title: "Harper's Song of Amenmose (TT 373): blessings on the dead"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Amenmose, TT 373 (Text H)"
+    read: ["HarpersSongs W12"]
+    tags:
+      - {motif: call-to-sun-god-answered, refs: ["HarpersSongs W12:2"], note: "ꜥš =k r [Rꜥ] sḏm Ḫpr,j wš[b] n =k Tm"}
+      - {motif: sun-shines-into-tomb, refs: ["HarpersSongs W12:5-6"], note: "psd jtn ḥr šnb,t =k ḥꜣ(y) =f qrr,t =k"}
+      - {motif: dead-suckled-by-divine-cow, refs: ["HarpersSongs W12:7–8"], note: "ḏꜣi̯.tw rʾ =k m mnd Ḥs,t"}
+      - {motif: dead-takes-forms-at-will, refs: ["HarpersSongs W12:10/2"]}
+      - {motif: dead-body-whole-justified, refs: ["HarpersSongs W12:13-13/2"], note: "ꜥ,t.pl =k nb tm; mꜣꜥ-ḫrw =k ḫr Rꜥ"}
+    hints:
+      - "Call and be answered: Isa 58:9, Isa 65:24, Ps 91:15, Jer 33:3; Q 40:60, Q 2:186."
+      - "Light in the darkness of the grave: Ps 139:11-12, Isa 9:1; nursing at the breast of comfort: Isa 66:11-12."
+  - id: ane-harperssongs-w13-neferrenpet
+    tradition: ane-egyptian
+    title: "Harper's Song of Neferrenpet/Kenro (TT 178)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Neferrenpet (Kenro), TT 178 (Text H)"
+    read: ["HarpersSongs W13"]
+    tags:
+      - {motif: call-to-sun-god-answered, refs: ["HarpersSongs W13:2-3"], note: "ꜥš =k r p,t sḏm.tw ḫrw =k; as the divine benu bird"}
+      - {motif: dead-rests-turning-on-either-side, refs: ["HarpersSongs W13:5–6-7"], note: "pnꜥ =k tw ḥr wnm,j =k ḏi̯ =k tw ḥr jꜣb,j =k"}
+  - id: ane-harperssongs-w14-raya
+    tradition: ane-egyptian
+    title: "Harper's Song of Raya (TT 159)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Raya, TT 159 (Text H)"
+    read: ["HarpersSongs W14"]
+    tags:
+      - {motif: call-to-sun-god-answered, refs: ["HarpersSongs W14:0-0/3"], note: "adds: sbḥ =k mj Ngꜣjj-wr 'if you cry like the Great Cackler'"}
+  - id: ane-harperssongs-w15-tjanefer-2
+    tradition: ane-egyptian
+    title: "Harper's Song of Tjanefer, second song (TT 158)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Tjanefer, TT 158, song 2 (Text H)"
+    read: ["HarpersSongs W15"]
+    tags:
+      - {motif: call-to-sun-god-answered, refs: ["HarpersSongs W15:1/2"]}
+      - {motif: sun-shines-into-tomb, refs: ["HarpersSongs W15:3/2-4"]}
+      - {motif: dead-suckled-by-divine-cow, refs: ["HarpersSongs W15:5/2"]}
+      - {motif: dead-takes-forms-at-will, refs: ["HarpersSongs W15:7/2"]}
+      - {motif: dead-body-whole-justified, refs: ["HarpersSongs W15:9-9/3"]}
+      - {motif: dead-eats-as-on-earth, refs: ["HarpersSongs W15:10-10/2"], note: "wnm =k mj,tt tp tꜣ; nḏm jb =k m ẖr,t-nṯr"}
+      - {motif: dead-given-all-in-necropolis-as-reward, refs: ["HarpersSongs W15:12"], note: "r(m)ṯ.pl nb(.pl) n,tj m ẖr,t-nṯr st ḏi̯.tw n =k m fq,w"}
+    hints:
+      - "Eating in the world to come as on earth: Isa 25:6; Q 2:25 ('this is what we were given before'), Q 52:22-24."
+  - id: ane-harperssongs-w16-panniut
+    tradition: ane-egyptian
+    title: "Harper's Song of Panniut (TT 331): sweet to dwell in Thebes"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Panniut, TT 331 (Text I)"
+    read: ["HarpersSongs W16"]
+    tags:
+      - {motif: dwelling-in-holy-city-sweet, refs: ["HarpersSongs W16:2-2/2"], note: "nḏm.wj ḥmsi̯ m Wꜣs,t jb m rš,pl rꜥ-nb"}
+      - {motif: dead-praises-sun-every-morning, refs: ["HarpersSongs W16:5-5/3"]}
+      - {motif: call-to-sun-god-answered, refs: ["HarpersSongs W16:7-8"]}
+      - {motif: dead-soars-to-sky-like-bird, refs: ["HarpersSongs W16:6"], note: "ꜥḫy =k [r] [ḥ]r,t mj nr.w.pl šps,j(.w)"}
+    hints:
+      - "Ps 84:2-5, 11 (how lovely your dwellings; a day in your courts), Ps 122:1-2; rising like eagles: Isa 40:31."
+  - id: ane-harperssongs-w17-neferhotep-3
+    tradition: ane-egyptian
+    title: "Harper's Song of Neferhotep, third song (TT 50): the good journey and the name not forgotten"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Neferhotep, TT 50, song 3 (Text J)"
+    read: ["HarpersSongs W17"]
+    tags:
+      - {motif: death-as-landing-on-shore, refs: ["HarpersSongs W17:1/2", "HarpersSongs W17:2/2"], note: "sḫꜣ jb hrw pf n mnj.t; ḫdi̯ ḫnty m-ẖnw ꜥḥꜥ r mnj r rwd"}
+      - {motif: death-as-rest-and-equalizer, refs: ["HarpersSongs W17:2"], note: "ṯnr ẖsj m qd wꜥ 'the strong and the weak are of one kind'"}
+      - {motif: dead-welcomed-by-gods-of-eternity, refs: ["HarpersSongs W17:3-5"], note: "ḫy pꜣy =k wḏ(j) ẖnm =k nb,pl-(n)ḥḥ ... jy.wj m-ḥtp"}
+      - {motif: sky-goddesses-mourn-at-door, refs: ["HarpersSongs W17:11"], note: "ḏr,t.j.du r rw,tj j(ꜣ)kb =sn ḥr rn =k"}
+      - {motif: anubis-lays-hands-on-dead, refs: ["HarpersSongs W17:9"], note: "Jnp,w ꜥ.du =f ḥr =k; reading wꜣḥ uncertain"}
+      - {motif: name-not-forgotten-remembered-for-goodness, refs: ["HarpersSongs W17:8/2", "HarpersSongs W17:13-14"], note: "nn smḫ.tw rn =k mj ntk mꜣꜥ m ḥw,t Ptḥ"}
+      - {motif: osiris-rites-sokar-barque-djed, refs: ["HarpersSongs W17:6/2-7/2"], note: "he dragged the Sokar barque, raised the djed pillar, read the festival order of Busiris"}
+    hints:
+      - "The name of the righteous remembered: Ps 112:6, Prov 10:7, Isa 56:5; Q 19:50 (a lofty tongue of truth), Q 37:78-81 (We left for him among later generations: peace upon Noah)."
+      - "Death the equalizer: Job 3:17-19, Job 21:23-26, Eccl 9:2-3."
+      - "Welcomed in peace: Q 39:73 ('peace be upon you, you have done well, enter'), Q 16:32, Q 15:46."
+  - id: ane-harperssongs-w18-piay
+    tradition: ane-egyptian
+    title: "Harper's Song of Piay (TT 263)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Piay, TT 263 (Text K)"
+    read: ["HarpersSongs W18"]
+    tags:
+      - {motif: dead-wakes-in-peace-in-tomb, refs: ["HarpersSongs W18:2"], note: "rs.ṯ m-ḥtp m js,j =k"}
+      - {motif: ba-comes-out-at-priests-voice-for-offerings, refs: ["HarpersSongs W18:4"], note: "pri̯ bꜣ =k ḥr ḫrw ḥm-kꜣ r šzp (j)ḫ,t.pl"}
+      - {motif: dead-hears-prayers-of-children, refs: ["HarpersSongs W18:5"]}
+      - {motif: dead-praises-sun-every-morning, refs: ["HarpersSongs W18:6"]}
+      - {motif: dead-joins-followers-of-horus, refs: ["HarpersSongs W18:8–9-9"], note: "šbnw =k šms.pl-Ḥr,w ntk wꜥ jm =sn"}
+    hints:
+      - "Waking in peace: Isa 57:2 (he enters into peace, they rest in their beds), Dan 12:2, Ps 17:15."
+  - id: ane-harperssongs-w19-amenemhet
+    tradition: ane-egyptian
+    title: "Transfiguration song of Amenemhet (TT 163)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Amenemhet, TT 163 (Text L)"
+    read: ["HarpersSongs W19"]
+    tags:
+      - {motif: dead-body-whole-justified, refs: ["HarpersSongs W19:2-2/2", "HarpersSongs W19:4-4/2", "HarpersSongs W19:6-6/2"], note: "ṯsi̯ tw ... ꜥnḫ ḥꜥ,pl =k rwd mt.pl =k ... ꜥ,t.pl =k tm r jr,t =sn"}
+      - {motif: dead-called-to-heaven-by-sun-god, refs: ["HarpersSongs W19:3–4"], note: "njs.tw =k r p,t jn Rꜥ"}
+    hints:
+      - "'Arise' and the living body: Isa 26:19, Ezek 37:5-10, Dan 12:2; Q 75:3-4 (We are able to restore even his fingertips)."
+  - id: ane-harperssongs-w20-kyky
+    tradition: ane-egyptian
+    title: "Harper's Song of Samut/Kyky (TT 409), fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Samut (Kyky), TT 409 (Text M)"
+    read: ["HarpersSongs W20"]
+    tags:
+      - {motif: make-holiday-refrain, refs: ["HarpersSongs W20:3-3/2"], note: "hrw nfr jy jmm ḥr n =f"}
+      - {motif: dead-abides-for-ever-in-city, refs: ["HarpersSongs W20:4"]}
+  - id: ane-harperssongs-w21-sul
+    tradition: ane-egyptian
+    title: "Harper's Song of Sul (Saqqara)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Sul, Saqqara (Text N)"
+    read: ["HarpersSongs W21"]
+    tags:
+      - {motif: dead-wakes-in-peace-in-tomb, refs: ["HarpersSongs W21:1-3/2"], note: "tw≡k ḥtp.tj m jmn,tt; ḥtp bꜣ =k m-ẖnw =s"}
+      - {motif: ba-comes-out-at-priests-voice-for-offerings, refs: ["HarpersSongs W21:4"], note: "called by the lector priest on the day of offering"}
+  - id: ane-harperssongs-w22-djehutimes
+    tradition: ane-egyptian
+    title: "Harper's Song of Djehutimes (TT 32)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Djehutimes, TT 32"
+    read: ["HarpersSongs W22"]
+    tags:
+      - {motif: song-rejecting-praise-of-earthly-life, refs: ["HarpersSongs W22:11-13"], note: "parallel to Neferhotep song 2, much restored"}
+      - {motif: land-of-eternity-without-enemy, refs: ["HarpersSongs W22:13/2-13/3"]}
+      - {motif: all-must-reach-land-of-eternity, refs: ["HarpersSongs W22:14-15/2"]}
+      - {motif: life-on-earth-like-a-dream, refs: ["HarpersSongs W22:15/3"], note: "[pw] [n] [rs,wt] restored"}
+      - {motif: dead-welcomed-by-gods-of-eternity, refs: ["HarpersSongs W22:17-19"]}
+      - {motif: osiris-rites-sokar-barque-djed, refs: ["HarpersSongs W22:20/3-22/3"]}
+      - {motif: sky-goddesses-mourn-at-door, refs: ["HarpersSongs W22:24/2"], note: "restored"}
+      - {motif: name-not-forgotten-remembered-for-goodness, refs: ["HarpersSongs W22:28/2-28/3"]}
+      - {motif: god-protects-from-womb-to-old-age, refs: ["HarpersSongs W22:4-4/2"], note: "tꜣy =k m~[k,t] ḏr pri̯ =k m ẖ,t nfr,yt-r jꜣw 'your protection since you came from the womb until old age'"}
+    hints:
+      - "Protected from the womb to old age: Isa 46:3-4, Ps 22:10-11 (MT), Ps 71:6, 17-18."
+      - "As for Neferhotep song 2: Q 87:16-17, Ps 90:5."
+  - id: ane-harperssongs-w23-nefersekheru
+    tradition: ane-egyptian
+    title: "Harper's Song of Nefersekheru (Zawyet el-Meitin)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Nefersekheru, Zawyet el-Meitin"
+    read: ["HarpersSongs W23"]
+    tags:
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W23:7-7/2"], note: "šms =k jb =k snm =k kꜣ =k"}
+      - {motif: tombs-of-builders-vanished, refs: ["HarpersSongs W23:8/2"], note: "even the gods who were before rest in their ka-houses, smḫ rn.pl =sn 'their names forgotten'"}
+      - {motif: you-belong-to-tomorrow-not-yesterday, refs: ["HarpersSongs W23:10-13"], note: "mj wḥm-ꜥnḫ 'like a frog'; jw =k n dwꜣ,w nn tw n sf ... nm ꜥꜣ n-(n)ḥḥ 'who is here for ever?'"}
+      - {motif: name-not-forgotten-remembered-for-goodness, refs: ["HarpersSongs W23:13/3-14/2"], note: "dm.tw rn =k r-tr.wj ḏdi̯.ṯ m rʾ n rmt.pl"}
+      - {motif: union-with-firmament-after-good-life, refs: ["HarpersSongs W23:9"], note: "zmꜣ =k bjꜣ"}
+    hints:
+      - "Who lives for ever? Ps 89:49 (MT; what man can live and not see death?), Ps 49:8-10 (MT); Q 21:34 ('We granted no man before you immortality'), Q 55:26-27."
+  - id: ane-harperssongs-w24-raja
+    tradition: ane-egyptian
+    title: "Harper's Song of Raja (Saqqara), fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Raja, Saqqara"
+    read: ["HarpersSongs W24"]
+    tags:
+      - {motif: death-as-landing-on-shore, refs: ["HarpersSongs W24:6"], note: "tm =n msd mnj.t 'we do not hate the landing'; the rest is too broken"}
+  - id: ane-harperssongs-w25-roy
+    tradition: ane-egyptian
+    title: "Harper's Song of Roma called Roy (TT 283), fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "Roma-Roy, TT 283"
+    read: ["HarpersSongs W25"]
+    tags:
+      - {motif: underworld-land-of-no-return, refs: ["HarpersSongs W25:3"], note: "restored [nn-wn šmi̯] jy ꜥn"}
+      - {motif: make-holiday-refrain, refs: ["HarpersSongs W25:4-4/2"]}
+      - {motif: follow-your-heart-while-you-live, refs: ["HarpersSongs W25:2"]}
+  - id: ane-harperssongs-w26-unknown
+    tradition: ane-egyptian
+    title: "Harper's Song, unknown owner (private collection), fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "unknown owner, private collection"
+    read: ["HarpersSongs W26"]
+    tags:
+      - {motif: dead-praises-sun-every-morning, refs: ["HarpersSongs W26:x+7"]}
+      - {motif: island-of-the-just, refs: ["HarpersSongs W26:x+5"], note: "jw n mꜣꜥ,tj 'island of the just one' (fragmentary)"}

@@ -1,0 +1,442 @@
+# Full read of the ANE corpus, chunk 43: Neferti, the Great Nile Hymn, Pyramid Texts 213, 217, 219,
+# 273-274, 302, 306, 527, 600, Ptahhotep, the Shipwrecked Sailor. Read from the TLA (2018 open export),
+# Egyptian transliteration with lemmas and German translation; witnesses W1, W2 ... are separate units.
+new_motifs:
+  # Neferti
+  king-summons-sage-for-fine-words: {label: "A king, bored, has his courtiers find him a wise man to entertain him with fine words and choice sayings", cluster: prophecy}
+  seer-asks-past-or-future: {label: "The seer asks the king whether he should speak of what has happened or of what will happen, and the king chooses the future", cluster: prophecy}
+  king-writes-down-prophecy-himself: {label: "The king himself takes papyrus and palette and writes down the seer's words as they are spoken", cluster: prophecy}
+  sage-of-old-foretells-chaos-and-saviour: {label: "A sage of a past reign foretells a coming age of chaos in the land that ends with the rise of a named saviour king (literary prophecy after the event)", cluster: prophecy}
+  prophet-rouses-own-heart-to-weep-for-land: {label: "The prophet addresses his own heart, bidding it stir and weep for the land in which it began", cluster: lament}
+  creator-urged-to-begin-creation-anew: {label: "Since everything made is as if never made, the creator (Re) is urged to begin the creation over again", cluster: creation}
+  land-destroyed-no-remnant: {label: "The land is utterly destroyed; no remnant is left, not even the black of a fingernail", cluster: prophecy}
+  none-cares-for-ruined-land: {label: "The land is ruined, yet no one cares, no one speaks, no one weeps for it", cluster: lament}
+  sun-veiled-gives-no-light: {label: "The sun is veiled by cloud and no longer shines, so that people cannot see or live", cluster: prophecy}
+  winds-in-confusion-south-against-north: {label: "Cosmic disorder: the south wind blows against the north wind and the sky no longer has a single wind", cluster: cosmology}
+  foreign-bird-nests-in-delta: {label: "A strange bird breeds in the Delta marshes, having built its nest beside the people, who let it approach", cluster: prophecy}
+  asiatics-descend-into-egypt: {label: "Asiatics (aamu) come down into Egypt, terrify the harvesters and seize the plough-teams; fortresses are breached", cluster: war}
+  desert-beasts-drink-at-nile: {label: "Desert (or foreign) animals drink at the rivers of Egypt with no one to drive them off", cluster: prophecy}
+  i-show-you-the-land-in-turmoil: {label: "Refrain of the seer: 'I show you the land in sickness' (or 'I show you the son as foe...'), introducing each list of woes", cluster: prophecy}
+  bread-demanded-with-blood: {label: "In the age of chaos men make weapons of copper and demand bread with blood", cluster: prophecy}
+  dead-no-longer-mourned: {label: "No one weeps for the dead or fasts at night for them, mourning customs lapse, because every heart is concerned only with itself", cluster: prophecy}
+  possessions-given-to-strangers: {label: "A man's possessions are taken from him and given to an outsider; the owner grieves while the stranger is content", cluster: prophecy}
+  land-small-rulers-many-taxes-great: {label: "The land is diminished but its rulers are many; it is empty but its taxes are great; grain is scarce but the measure is large", cluster: prophecy}
+  sun-god-withdraws-from-mankind: {label: "The sun god separates himself from humankind: his hour cannot be known, his shadow is not seen, he is in the sky only like the moon", cluster: prophecy}
+  sacred-city-no-longer-exists: {label: "The holy city, birthplace of every god (Heliopolis), no longer exists for the land", cluster: prophecy}
+  saviour-king-from-south-named-in-advance: {label: "A coming king from the south, son of a woman of the southern land, is named in advance (Ameni) as the one who will restore the land", cluster: kingship}
+  king-unites-the-two-crowns: {label: "The coming king receives the White Crown and wears the Red Crown, uniting the Two Powers and pleasing the Two Lords", cluster: kingship}
+  people-of-his-days-rejoice: {label: "'Rejoice, people of his time!': those who live in the coming king's days will rejoice", cluster: kingship}
+  rebels-silenced-by-fear-of-king: {label: "Those who plotted evil and rebellion fall silent for fear of the coming king; rebels belong to his wrath", cluster: kingship}
+  foreign-enemies-fall-to-kings-sword-and-flame: {label: "The foreign enemies (Asiatics, Libyans) fall before the coming king's slaughter and his flame", cluster: kingship}
+  uraeus-subdues-rebels: {label: "The fiery serpent (uraeus) on the king's brow pacifies the rebels", cluster: kingship}
+  justice-returns-wrong-driven-out: {label: "Under the coming king justice (maat) returns to its place and wrong (isfet) is driven out", cluster: kingship}
+  seer-asks-libation-when-word-fulfilled: {label: "The seer asks that the learned man pour water for him when he sees that what he said has come to pass", cluster: prophecy}
+  scribal-colophon-it-has-come-well: {label: "Egyptian colophon: 'it has come (to its end) well and in peace', copied as found in writing, for (or by) a named scribe", cluster: scribal}
+  # Nile Hymn
+  flood-god-comes-forth-to-make-egypt-live: {label: "The Nile-flood god (Hapi) comes forth from the earth to make Egypt live", cluster: fertility}
+  hidden-god-of-unknown-dwelling: {label: "A god whose form is hidden, whose place is unknown, whose cavern is not found in the writings and whose name is not known even in the underworld", cluster: deity}
+  rain-as-nile-from-sky: {label: "Foreign highlands far from the river are watered by the water that comes down from the sky (rain)", cluster: cosmology}
+  flood-shaped-by-potter-god: {label: "The flood is fashioned by the potter god Khnum", cluster: fertility}
+  failure-of-flood-brings-death: {label: "If the flood god is sluggish, the multitudes are impoverished, the gods' offerings dwindle and millions of people perish", cluster: fertility}
+  land-laughs-when-flood-comes: {label: "When the flood rises the land is in jubilation: every belly rejoices, every jaw laughs, every tooth is bared", cluster: fertility}
+  flood-god-hailed-as-king: {label: "The flood god is greeted as king, constant in his laws, coming forth before Upper and Lower Egypt", cluster: fertility}
+  precious-stones-cannot-be-eaten: {label: "Gold and silver make no one rich or drunk and lapis lazuli cannot be eaten; grain is the basis of life", cluster: wisdom}
+  flood-god-feeds-temples-and-gods: {label: "The flood god creates barley and emmer so that the temples may feast; when offerings to the gods fail, men perish", cluster: cult}
+  festival-offerings-for-flood-god: {label: "Catalogue of festival offerings for the flood god: cattle slaughtered, fowl fattened, lions hunted in the desert", cluster: cult}
+  refrain-flourish-come: {label: "Refrain closing a hymn: 'Flourish, O hidden one (or: come)!' repeated three times", cluster: cult}
+  # Pyramid Texts
+  dead-king-departed-alive-not-dead: {label: "The dead king 'did not go away dead; he went away alive'", cluster: afterlife}
+  limbs-of-dead-identified-with-gods: {label: "Each limb of the deceased is identified with a god: arms, shoulders, belly, back, legs are Atum, the face is Anubis", cluster: afterlife}
+  dead-king-enthroned-rules-living-and-dead: {label: "The dead king sits on the throne of Osiris, sceptres in hand, giving orders to the living and to the dead", cluster: afterlife}
+  dead-king-comes-to-creator-as-his-son: {label: "Repeated announcement to the creator: 'Your son comes to you'; the creator is asked to take him into his embrace for ever", cluster: afterlife}
+  gods-sent-to-four-quarters-to-announce-king: {label: "Pairs of gods are sent to the gods of the south, north, west and east to announce the coming of the transfigured king", cluster: afterlife}
+  deceased-shares-life-of-osiris-litany: {label: "Litany: 'If he lives, this king lives; he will not die, this king will not die', addressed in turn to each member of the Ennead about Osiris", cluster: afterlife}
+  mouth-of-dead-opened-by-son: {label: "The dead father's mouth is opened by his son and his limbs counted by the gods", cluster: afterlife}
+  sky-and-earth-quake-at-kings-appearance: {label: "At the king's appearance the sky clouds over, the stars darken, the vault shakes and the bones of the earth gods tremble", cluster: theophany}
+  king-whose-name-mother-does-not-know: {label: "The king (or god) is one whose name not even his mother knows", cluster: deity}
+  king-mightier-than-his-begetter: {label: "The creator begot the king, but the king is mightier than his begetter", cluster: kingship}
+  king-eats-gods-to-absorb-their-power: {label: "The king hunts, lassoes, slaughters and cooks the gods and eats their magic, hearts and wisdom to absorb their power", cluster: afterlife}
+  gods-portioned-into-three-meals: {label: "The great among the eaten gods are for breakfast, the middle ones for supper, the small for the night meal, the old as fuel", cluster: afterlife}
+  wills-and-does: {label: "The king's dignity is that of 'He does what he wills, he does not do what he does not will'", cluster: kingship}
+  dead-king-flies-to-heaven-as-bird: {label: "The dead king flies up to heaven with the face of a falcon, wings of a bird, beating his wing like a kite", cluster: afterlife}
+  no-accusation-on-earth-or-in-heaven: {label: "There is no word against him on earth among men, no accusation against him in heaven among the gods", cluster: judgment}
+  gods-carry-king-on-poles: {label: "The gods of heaven and earth make carrying-poles on their arms for the ascending king", cluster: afterlife}
+  ladder-named-as-way-to-heaven: {label: "The deceased climbs up to heaven on something 'in its name of Ladder'", cluster: afterlife}
+  heaven-and-earth-given-to-king: {label: "'Heaven is given to him, earth is given to him', says the creator", cluster: kingship}
+  creator-begets-first-pair-alone: {label: "The self-created creator produces the first divine pair (Shu and Tefnut) from himself alone, without a partner", cluster: creation}
+  creation-by-masturbation: {label: "The creator puts his penis in his fist and the first pair is born from his pleasure", cluster: creation}
+  creator-spits-out-first-gods: {label: "The creator sneezes or spits out the first gods (Shu and Tefnut), punning on their names", cluster: creation}
+  creator-rises-as-primeval-mound: {label: "The creator rises as the primeval hill and shines as the Benben stone in the House of the Phoenix in Heliopolis", cluster: creation}
+  creator-embraces-children-with-ka-arms: {label: "The creator puts his arms around his first children as ka-arms so that his life-force is in them", cluster: creation}
+  ennead-genealogy-listed: {label: "The Great Ennead of Heliopolis is listed: Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Seth, Nephthys, all Atum's children", cluster: creation}
+  tomb-protected-from-all-harm: {label: "The creator is asked to protect the king and his pyramid for ever as he protected his first children, so that nothing evil happens to it", cluster: afterlife}
+  # Ptahhotep
+  infirmities-of-old-age-catalogue: {label: "Catalogue of old age: eyes weak, ears deaf, mouth silent, heart forgetful, bones aching, nose blocked, all taste gone; good turned to evil", cluster: wisdom}
+  staff-of-old-age-son-as-successor: {label: "The aged official asks the king to appoint a 'staff of old age', his son as successor, so that he may teach him", cluster: wisdom}
+  no-one-born-wise: {label: "No one is born wise; wisdom must be taught", cluster: wisdom}
+  wisdom-found-among-lowly: {label: "Good speech is more hidden than precious green stone, yet it is found among the maidservants at the grindstones", cluster: wisdom}
+  consult-ignorant-as-well-as-wise: {label: "Do not be proud of your knowledge; consult the ignorant as well as the wise, for the limit of skill is never reached", cluster: wisdom}
+  three-kinds-of-disputant: {label: "Instructions for meeting a disputant who is superior, equal or inferior: bow to the first, master the second by silence, let the third punish himself", cluster: wisdom}
+  plans-of-men-fail-gods-command-prevails: {label: "Human scheming never succeeds; what happens is what the god commands", cluster: wisdom}
+  table-manners-before-a-great-man: {label: "As a guest at a great man's table, take what he sets before you, look only at what is before you, do not stare at him, speak only when addressed", cluster: wisdom}
+  faithful-messenger-exact: {label: "A messenger sent by a great man must deliver the message exactly, without slander that sets one great man against another", cluster: wisdom}
+  do-not-boast-of-god-given-harvest: {label: "If god gives you a rich harvest, do not boast of it before your neighbours", cluster: wisdom}
+  do-not-mock-the-childless: {label: "Do not be arrogant toward a man without children, for many a father grieves and many a mother is less content than a childless woman", cluster: wisdom}
+  wealth-comes-from-god-to-his-beloved: {label: "Possessions do not come by themselves; it is the god's law for the one he loves; the god creates a man's ability", cluster: wisdom}
+  follow-your-heart-while-you-live: {label: "Follow your heart as long as you live; do not cut short the time of following the heart", cluster: wisdom}
+  bad-son-doomed-from-womb: {label: "The rebellious son is one whom the gods have rejected, whose misfortune was decreed already in the womb", cluster: wisdom}
+  god-led-cannot-stray-boatless-cannot-cross: {label: "He whom the gods guide cannot go astray; he whom they leave boatless cannot find a crossing", cluster: wisdom}
+  keep-your-rank-in-antechamber: {label: "In the antechamber keep to the place assigned to you; do not push forward; the one who is called has a broad seat", cluster: wisdom}
+  belly-follower-belongs-to-enemy: {label: "He who listens to his belly (his passions) becomes disliked and belongs to the enemy", cluster: wisdom}
+  hear-the-petitioner-out: {label: "A leader should hear a petitioner patiently until he has emptied his belly; a good hearing soothes the heart even if the request fails", cluster: wisdom}
+  avoid-women-of-house-brief-pleasure-death: {label: "Do not approach the women in a house you visit: a thousand men are ruined for a brief moment like a dream, and death comes from knowing it", cluster: wisdom}
+  greed-incurable-disease: {label: "Greed is a grievous incurable sickness that sets fathers, mothers and brothers at odds and drives wife and husband apart", cluster: wisdom}
+  greedy-man-has-no-tomb: {label: "The man who walks by justice can bequeath his house, but the greedy man has no tomb", cluster: wisdom}
+  provide-wife-food-clothing-oil: {label: "Love your wife: fill her belly, clothe her back, ointment is the remedy for her body, gladden her heart as long as you live", cluster: wisdom}
+  do-not-repeat-rumour: {label: "Do not repeat a rumour you have not heard for yourself; it comes from a hot-tempered man", cluster: wisdom}
+  silence-better-than-speech: {label: "Silence is more effective than a costly herb; speak only when you know you have the solution, for speaking is harder than any craft", cluster: wisdom}
+  hot-and-cool-tempers: {label: "The flame of the hot-hearted spreads; master yourself, turn your face away; the gentle man's path is made smooth", cluster: wisdom}
+  do-not-rob-neighbours-house: {label: "Do not rob the house of neighbours or covet the goods of one who is near you", cluster: wisdom}
+  do-not-force-unwilling-partner: {label: "Do not have intercourse with a woman or a child when you have seen that he or she resists", cluster: wisdom}
+  test-friend-alone: {label: "To test a friend's character, do not ask his neighbours; deal with him alone and argue it out with him", cluster: wisdom}
+  generosity-empty-belly-accuses: {label: "Be generous while you live; what leaves the storehouse does not return; the man with an empty belly becomes an accuser", cluster: wisdom}
+  hearing-loved-by-god: {label: "Hearing (obedience) is loved by the god; the one the god hates cannot hear; the heart makes its owner a hearer or a non-hearer", cluster: wisdom}
+  obedient-son-blessed-with-old-age: {label: "How good when a son accepts his father's words: he reaches old age and is remembered by the living", cluster: wisdom}
+  fool-is-living-dead: {label: "The fool who will not listen takes knowledge for ignorance and lives on what kills; the officials call him 'a living dead man every day'", cluster: wisdom}
+  words-of-wisdom-for-posterity: {label: "Good words pass on to posterity and never perish in the land; teaching a man is teaching him to speak to those who come after", cluster: wisdom}
+  wise-man-rises-early: {label: "The wise man rises early to establish himself", cluster: wisdom}
+  disowned-son-not-your-son: {label: "A son who rejects his father's teaching is to be driven away: 'he is not your son, he was not born to you'", cluster: wisdom}
+  partiality-abomination-to-god: {label: "Partiality in judgment is the abomination of the god", cluster: wisdom}
+  # Shipwrecked Sailor
+  tale-within-tale-frame: {label: "A story is told within a story to encourage a listener; the inner speaker tells yet another tale within it", cluster: narrative}
+  mouth-of-man-saves-him: {label: "A man's mouth saves him; his speech wins him indulgence: speak boldly to the king and answer without stammering", cluster: wisdom}
+  ship-and-crew-measured: {label: "A ship is described by exact dimensions in cubits (120 by 40) and the number of its crew (120 picked sailors)", cluster: narrative}
+  sailors-foretell-storm: {label: "The expert sailors could foretell a storm before it came and a tempest before it broke", cluster: narrative}
+  storm-sinks-ship-one-survivor: {label: "A storm with a wave of eight cubits sinks the ship; of all on board only the narrator survives", cluster: narrative}
+  castaway-thrown-on-island-by-wave: {label: "The sole survivor is cast up on an island by a wave of the sea", cluster: narrative}
+  three-days-alone-with-own-heart: {label: "The castaway spends three days alone, his heart his only companion, sleeping in the shade of a tree", cluster: narrative}
+  island-of-plenty: {label: "A remote island lacks nothing: figs, grapes, vegetables, sycomore fruits, cucumbers, fish and fowl in abundance", cluster: paradise}
+  castaway-makes-burnt-offering: {label: "Rescued, the survivor makes fire with a fire-drill and offers a burnt offering to the gods", cluster: cult}
+  divine-serpent-of-gold-and-lapis: {label: "A huge divine serpent appears with thunder, trees breaking and earth quaking; 30 cubits long, bearded, its body overlaid with gold, its brows of lapis lazuli", cluster: theophany}
+  who-brought-you-here-question: {label: "The divine being asks the trembling stranger three times 'Who brought you here?' and threatens to turn him to ashes", cluster: theophany}
+  god-brought-you-to-island-to-live: {label: "'God has let you live and brought you to this island of the ka'", cluster: providence}
+  rescue-ship-foretold: {label: "The divine being foretells the exact time of rescue: after four months a ship with sailors the castaway knows will come and take him home", cluster: prophecy}
+  die-in-your-own-city: {label: "The castaway is promised he will return home and die in his own city, be buried there, embrace his children and kiss his wife", cluster: providence}
+  falling-star-destroys-family: {label: "A star falls from the sky and burns the narrator's whole family (75 serpents) while he is away; he finds them as a single heap of corpses", cluster: narrative}
+  god-laughs-at-offered-gifts-owns-them: {label: "The divine being laughs at the mortal's promise of offerings: 'I am the ruler of Punt; the myrrh is mine'", cluster: providence}
+  island-vanishes-into-water: {label: "Once the visitor leaves, the enchanted island will never be seen again, for it will become water", cluster: paradise}
+  tale-told-to-cheer-sceptic-fails: {label: "The listener rejects the consoling tale with a cynical proverb: who gives water to a bird at dawn that will be slaughtered in the morning?", cluster: wisdom}
+units:
+  # ---------------- Neferti ----------------
+  - id: ane-neferti-1-snefru-summons-seer
+    tradition: ane-egyptian
+    title: Snefru summons Neferti, who chooses to speak of the future (Neferti 1-18)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["Neferti 1-18"]
+    tags:
+      - {motif: king-summons-sage-for-fine-words, refs: ["Neferti 3-4/2", "Neferti 5/3", "Neferti 13"], note: "md,t nfr.t ṯs.w stp.w 'fine words, choice sayings' to entertain His Majesty"}
+      - {motif: seer-asks-past-or-future, refs: ["Neferti 14/2-15/3"], note: "jn jw m ḫpr.t ... jn jw m ḫpr.t(j)=sj: 'of what has happened, or of what will happen?' - 'of what will happen'"}
+      - {motif: king-writes-down-prophecy-himself, refs: ["Neferti 15/4-16/2"]}
+      - {motif: sage-of-old-foretells-chaos-and-saviour, refs: ["Neferti 1", "Neferti 17-18"], note: "set under Snefru (4th dynasty); the seer is a ẖr(,j)-ḥꜣb(,t) 'lector priest' of Bastet, a scholar of the East from the Heliopolitan nome"}
+      - {motif: asiatics-descend-into-egypt, refs: ["Neferti 18"], note: "ꜥꜣm.w with their scimitars terrify the harvesters and seize the oxen at ploughing"}
+    hints:
+      - "Compare Isa 19:1-15 (oracle on Egypt) and the prophet called before a king (1 Kgs 22:5-28; Dan 2:2-11)."
+      - "The king who writes the prophecy: compare Jer 36:2-4 (Baruch writes Jeremiah's words) and Hab 2:2."
+      - "Past or future: compare Isa 41:22-23; 46:9-10 ('declaring the end from the beginning')."
+  - id: ane-neferti-20-lament-cosmic-disorder
+    tradition: ane-egyptian
+    title: Neferti laments the coming ruin of land and cosmos (Neferti 20-38/2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["Neferti 20-38/2"]
+    tags:
+      - {motif: prophet-rouses-own-heart-to-weep-for-land, refs: ["Neferti 20", "Neferti 21/2-22"], note: "ḫwzi̯ jb=j rmi̯.w=k tꜣ pn: 'stir, my heart, weep for this land'"}
+      - {motif: creator-urged-to-begin-creation-anew, refs: ["Neferti 22/3-22/4"], note: "šꜣꜥ {hrw} 〈Rꜥ〉 m grg 'may Re begin with the founding (anew)', an emendation; what was made is as what was not made"}
+      - {motif: land-destroyed-no-remnant, refs: ["Neferti 23-23/3"], note: "n ḫpr ḏꜣ,t: no remnant"}
+      - {motif: none-cares-for-ruined-land, refs: ["Neferti 24-24/2"]}
+      - {motif: sun-veiled-gives-no-light, refs: ["Neferti 24/4-25/3"], note: "jtn ḥbs.w 'the sun disk is covered'"}
+      - {motif: stars-sun-and-moon-darkened, refs: ["Neferti 24/4-25"]}
+      - {motif: nile-dries-up, refs: ["Neferti 26/3-27/3"], note: "jtrw n.w Km,t šwi̯: the rivers of Egypt are dry; one crosses the water on foot; the bank becomes flood and the water-place bank"}
+      - {motif: winds-in-confusion-south-against-north, refs: ["Neferti 28-28/2"]}
+      - {motif: foreign-bird-nests-in-delta, refs: ["Neferti 29"], note: "ꜣpd ḏrḏrj 'a strange bird'; usually read as a figure for foreign settlers"}
+      - {motif: asiatics-descend-into-egypt, refs: ["Neferti 31-34/3"], note: "jw ꜥꜣm,w hꜣi̯ r Km,t; foes rise in the East, fortresses entered by ladder at night"}
+      - {motif: desert-beasts-drink-at-nile, refs: ["Neferti 35/2-36"]}
+      - {motif: i-show-you-the-land-in-turmoil, refs: ["Neferti 26", "Neferti 37-38/2"], note: "'I say only what is before my eyes'; what will happen is hidden"}
+    hints:
+      - "Compare Isa 19:5-8 (the Nile dried, fishermen mourn) and Isa 19:2 (Egyptian against Egyptian); Ezek 30:12 ('I will make the Nile dry')."
+      - "Darkened sun: compare Isa 13:10, Joel 2:10; 3:4 (2:31), Amos 8:9 and Q 81:1-2."
+      - "No one weeps for the land: compare Jer 12:11 ('desolate, and no one lays it to heart') and Isa 57:1."
+      - "Creation undone and begun anew: compare Jer 4:23-26 (tohu wa-bohu returns) and Isa 65:17."
+  - id: ane-neferti-38-social-chaos
+    tradition: ane-egyptian
+    title: The land in sickness - civil war, social reversal, the sun withdrawn (Neferti 38/3-57/2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["Neferti 38/3-57/2"]
+    tags:
+      - {motif: i-show-you-the-land-in-turmoil, refs: ["Neferti 38/3", "Neferti 44/2", "Neferti 47/2", "Neferti 54", "Neferti 55"], note: "di̯=j n=k tꜣ pn m snj mn(.t) 'I show you this land in sickness', repeated"}
+      - {motif: bread-demanded-with-blood, refs: ["Neferti 39/2-40/2"]}
+      - {motif: dead-no-longer-mourned, refs: ["Neferti 41-43"], note: "nn rm.w=tw n m(w)t ... jb n(,j) z m-sꜣ=f ḏs=f: 'a man's heart is for himself'; men also laugh at sickness (41)"}
+      - {motif: prophecy-of-social-collapse-house-against-house, refs: ["Neferti 43/2-44/2"], note: "ky ḥr smꜣm ky; zꜣ m ḫrwy,w sn m ḫft(,j) z ḥr smꜣm jt=f: 'the son as adversary, the brother as enemy, a man killing his father'"}
+      - {motif: family-members-become-enemies, refs: ["Neferti 44/2"]}
+      - {motif: possessions-given-to-strangers, refs: ["Neferti 47-47/2"]}
+      - {motif: social-inversion-rich-and-poor-change-places, refs: ["Neferti 48-48/2", "Neferti 54/2-57"], note: "the idle are full, the worker empty; the weak-armed now strong, the low on top; only the poor eat bread, labourers are haughty"}
+      - {motif: land-small-rulers-many-taxes-great, refs: ["Neferti 50/2-51"]}
+      - {motif: sun-god-withdraws-from-mankind, refs: ["Neferti 51/2-53/3"], note: "jw Rꜥ jwd=f sw r(m)t: Re separates himself from men; noon unknown, no shadow, he is in the sky like the moon"}
+      - {motif: sacred-city-no-longer-exists, refs: ["Neferti 57/2"], note: "nn-wn Ḥqꜣ-ꜥnḏ ... msḫn,t n.t nṯr nb 'the birthplace of every god'"}
+    hints:
+      - "Son against father, brother against brother: compare Mic 7:6, Isa 19:2, Isa 3:5 and Matt 10:21, 35-36."
+      - "Social reversal: compare Lam 5:2-8 ('our inheritance turned over to strangers', 'slaves rule over us'), Isa 3:4-5 and Prov 30:21-22; Deut 28:43."
+      - "Unmourned dead: compare Jer 16:4-7 and Jer 22:18."
+      - "Weapons and blood for bread: compare Lam 5:9."
+  - id: ane-neferti-57-king-ameni
+    tradition: ane-egyptian
+    title: The coming king Ameni restores maat (Neferti 57/3-71)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    read: ["Neferti 57/3-71"]
+    tags:
+      - {motif: saviour-king-from-south-named-in-advance, refs: ["Neferti 57/3-59"], note: "nsw pw r jy.t n(,j) rsj, Jmn,y mꜣꜥ-ḫrw rn=f, zꜣ ḥm,t pw n(,j) Tꜣ-ztj: Ameni (Amenemhat I), son of a woman of Ta-Seti, child of Upper Egypt"}
+      - {motif: prophecy-names-future-king-centuries-ahead, refs: ["Neferti 58"], note: "the king is named by name in a prophecy set under Snefru"}
+      - {motif: king-unites-the-two-crowns, refs: ["Neferti 59/2-61"]}
+      - {motif: people-of-his-days-rejoice, refs: ["Neferti 61/2-61/3", "Neferti 69/2"], note: "rš.y r(m)t n.t hꜣw=f; the son of a man will make his name for ever"}
+      - {motif: rebels-silenced-by-fear-of-king, refs: ["Neferti 62", "Neferti 64"]}
+      - {motif: foreign-enemies-fall-to-kings-sword-and-flame, refs: ["Neferti 63"]}
+      - {motif: uraeus-subdues-rebels, refs: ["Neferti 65"]}
+      - {motif: fortress-wall-against-nomads, refs: ["Neferti 66-67"], note: "jnb.w-ḥqꜣ 'the Walls of the Ruler'; Asiatics must beg for water for their flocks"}
+      - {motif: justice-returns-wrong-driven-out, refs: ["Neferti 68-69"], note: "jw mꜣꜥ,t r jy.t r s,t=s, jsf,t dr.tj r-rw,tj"}
+      - {motif: seer-asks-libation-when-word-fulfilled, refs: ["Neferti 70"], note: "largely restored: [mw] [mꜣꜣ]=[f] [ḏd.t.n]=[j] ḫpr"}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["Neferti 71"]}
+    hints:
+      - "Compare the messianic oracles Isa 9:1-6 (5-6) and Isa 11:1-9 (righteousness, the wicked slain by his breath) and Isa 32:1."
+      - "A deliverer for Egypt after its civil strife: Isa 19:20 ('he will send them a saviour')."
+      - "A future king named in advance: 1 Kgs 13:2 (Josiah) and Isa 44:28-45:1 (Cyrus)."
+      - "Fulfilment as the test of a prophet: Deut 18:21-22; Jer 28:9."
+      - "Justice returning: compare Ps 72:1-7, 12-14 and Jer 23:5-6."
+  # ---------------- Great Nile Hymn ----------------
+  - id: ane-nilehymn-w1-1-hapi-comes-forth
+    tradition: ane-egyptian
+    title: Praise of Hapi who comes forth to make Egypt live (Nile Hymn, pSallier II, 11,6-12,9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pSallier II (pBM EA 10182)"
+    read: ["NileHymn W1:11_6-12_9"]
+    tags:
+      - {motif: flood-god-comes-forth-to-make-egypt-live, refs: ["NileHymn W1:11_6-11_6/2"], note: "j:nḏ ḥr=k Ḥꜥpj pri̯ m tꜣ jyi̯ r sꜥnḫ Km,t"}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["NileHymn W1:11_6/3", "NileHymn W1:12_6/3-12_8/2"], note: "jmn sšm,w 'hidden of form'; nn rḫ=tw bw n,tw=f nn gmi̯ tpḥ,t=f m zẖꜣ,w 'his place is not known, his cavern not found in writings'"}
+      - {motif: rain-as-nile-from-sky, refs: ["NileHymn W1:11_8"], note: "sswrj ḫꜣs,t ... p,t hꜣi̯.yt: he waters the desert highlands, 'the sky that comes down'; obscure line"}
+      - {motif: god-bringer-of-flood-and-abundance, refs: ["NileHymn W1:11_10", "NileHymn W1:12_3/2", "NileHymn W1:12_4/2"], note: "jri̯ jt sḫpr btj: he makes barley and brings emmer into being"}
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W1:11_10/2-12_1/2"], note: "if his fingers are slack, millions are impoverished; if the gods' offering-cakes are reduced, all men perish"}
+      - {motif: flood-shaped-by-potter-god, refs: ["NileHymn W1:12_2"], note: "jw qd sw H̱nm,w"}
+      - {motif: land-laughs-when-flood-comes, refs: ["NileHymn W1:12_2/2-12_3"]}
+      - {motif: goddess-enriches-weak-and-poor, refs: ["NileHymn W1:12_5/2"], note: "here the flood god: mḥ wḏꜣ ... rḏi̯ ꜣḫ,t n nmḥ 'who gives property to the orphan/poor'"}
+      - {motif: flood-god-hailed-as-king, refs: ["NileHymn W1:12_8/3-12_9"], note: "tw r nḏ ḫr,t=k m nsw: one will greet you as king"}
+    hints:
+      - "Rain as a 'Nile in the sky' for foreign lands: compare Deut 11:10-11 (Egypt watered by foot, Canaan drinks rain from heaven) and Ps 104:10-13."
+      - "Compare Ps 65:10-14 and Ps 104:14-15 (God makes grass and grain grow) and Q 16:10-11; Q 80:24-32."
+      - "Hidden god whose way is unknown: compare Isa 45:15, Job 11:7-9 and Ps 77:20 ('your path in the great waters, your footsteps unknown')."
+  - id: ane-nilehymn-w1-2-offerings-and-refrain
+    tradition: ane-egyptian
+    title: Hapi's absence, his gifts and his festival (Nile Hymn, pSallier II, 13,1-14,11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pSallier II (pBM EA 10182)"
+    read: ["NileHymn W1:13_1-14_11/2"]
+    tags:
+      - {motif: land-laughs-when-flood-comes, refs: ["NileHymn W1:13_1/2", "NileHymn W1:14_6"], note: "he who was in distress comes out in joy; the land leaps (ftft)"}
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W1:13_7-13_8/2"], note: "when he is sluggish, every man takes up weapons, none is clothed, the children of nobles go unadorned; obscure"}
+      - {motif: precious-stones-cannot-be-eaten, refs: ["NileHymn W1:14_1/2-14_2"], note: "nn wnmw.tw ḫsbd mꜣꜥ, jt ẖr.j-ḥꜣ,t: true lapis cannot be eaten, grain comes first"}
+      - {motif: festival-offerings-for-flood-god, refs: ["NileHymn W1:14_6/2-14_8"], note: "longhorn cattle slaughtered, fowl fattened, lions caught in the desert; offerings made to every god as for Hapi"}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["NileHymn W1:14_8/2-14_8/3"], note: "jri̯.n Ḥꜥpj tpḥ,t m Wꜣs,t; nn rḫ=tw rn=f m dwꜣ,t 'his name is not known in the underworld'"}
+      - {motif: refrain-flourish-come, refs: ["NileHymn W1:14_10"], note: "wꜣḏ kꜣpw ×3"}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["NileHymn W1:14_11-14_11/2"], note: "for the ka of the treasury scribe Qagabu"}
+    hints:
+      - "Gold and lapis cannot be eaten: compare Job 28:15-19 and Prov 16:16; Ezek 7:19 ('their silver and gold cannot satisfy their hunger')."
+      - "Fear the flood god's majesty, 'O mankind': compare Ps 33:8."
+  - id: ane-nilehymn-w2-odem-1176
+    tradition: ane-egyptian
+    title: The Great Nile Hymn on ostracon Deir el-Medina 1176
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, oDeM 1176"
+    read: ["NileHymn W2"]
+    tags:
+      - {motif: flood-god-comes-forth-to-make-egypt-live, refs: ["NileHymn W2:Rto_1/2"]}
+      - {motif: rain-as-nile-from-sky, refs: ["NileHymn W2:Rto_2"], note: "variant clearer than W1: mw pw hꜣi̯ m p,t 'that is the water that comes down from the sky'"}
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W2:Rto_3/3-Rto_4"]}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["NileHymn W2:Rto_6/3", "NileHymn W2:Rto_8/2", "NileHymn W2:Vso_1"], note: "variant: sw m dwꜣ,t p,t tꜣ r-ḫt=f 'he is in the underworld, heaven and earth are under him'"}
+      - {motif: precious-stones-cannot-be-eaten, refs: ["NileHymn W2:Rto_16/2-Rto_16/3"], note: "variant: 〈nn〉 z tḫ.w n ḥḏ 'no man is drunk on silver'"}
+      - {motif: festival-offerings-for-flood-god, refs: ["NileHymn W2:Rto_20/2-Rto_22/2"]}
+      - {motif: refrain-flourish-come, refs: ["NileHymn W2:Vso_2/2", "NileHymn W2:Vso_4/2"], note: "wꜣḏ ... 'flourish, and come!'"}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["NileHymn W2:Vso_5", "NileHymn W2:Vso_7", "NileHymn W2:Vso_9"], note: "dated year 6, 3rd month of Akhet, day 10; the scribe Taui"}
+  - id: ane-nilehymn-w3-ogolenischeff
+    tradition: ane-egyptian
+    title: The Great Nile Hymn on ostracon Golenischeff 4470 (opening, with date notes)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, oGolenischeff 4470"
+    read: ["NileHymn W3"]
+    tags:
+      - {motif: flood-god-comes-forth-to-make-egypt-live, refs: ["NileHymn W3:1-1/2"]}
+      - {motif: rain-as-nile-from-sky, refs: ["NileHymn W3:3"], note: "variant: yꜣd,t=f pw hꜣi̯ m p,t 'it is his dew that comes down from the sky'"}
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W3:5-5/2"], note: "'millions of people perish'"}
+      - {motif: land-laughs-when-flood-comes, refs: ["NileHymn W3:7/2-7/3"]}
+      - {motif: flood-shaped-by-potter-god, refs: ["NileHymn W3:7"]}
+    hints:
+      - "Dew from heaven: compare Gen 27:28, Deut 33:13 and Hos 14:6. The ostracon interleaves day dates (3_4, 3_6, 3_8, 3_10/2: months of Shemu), perhaps a schoolboy's daily stints."
+  - id: ane-nilehymn-w4-panastasi-vii
+    tradition: ane-egyptian
+    title: The Great Nile Hymn in pAnastasi VII
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W4, pAnastasi VII (pBM EA 10222)"
+    read: ["NileHymn W4"]
+    tags:
+      - {motif: flood-god-comes-forth-to-make-egypt-live, refs: ["NileHymn W4:7_7/2"]}
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W4:8_2-8_3"]}
+      - {motif: god-bringer-of-flood-and-abundance, refs: ["NileHymn W4:8_1/2", "NileHymn W4:8_6"]}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["NileHymn W4:9_2/2", "NileHymn W4:11_9/2"], note: "variant: nn gmi̯ m pḥ,tj n zẖꜣ,w 'he is not found by the power of writings'"}
+      - {motif: precious-stones-cannot-be-eaten, refs: ["NileHymn W4:10_9-10_9/2"]}
+      - {motif: festival-offerings-for-flood-god, refs: ["NileHymn W4:11_6-11_8/2"]}
+      - {motif: refrain-flourish-come, refs: ["NileHymn W4:12_2", "NileHymn W4:12_3"]}
+  - id: ane-nilehymn-w5-pchester-beatty-v
+    tradition: ane-egyptian
+    title: The Great Nile Hymn in pChester Beatty V, with verse-point marks
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W5, pChester Beatty V (pBM EA 10685), recto 1-5"
+    read: ["NileHymn W5"]
+    tags:
+      - {motif: flood-god-comes-forth-to-make-egypt-live, refs: ["NileHymn W5:1_12/2"]}
+      - {motif: rain-as-nile-from-sky, refs: ["NileHymn W5:2_2/2"], note: "variant: swrj.tw mw ḥr ḫꜣs,t ... mw hꜣi̯.y 'water is drunk on the highland ... water that comes down'"}
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W5:2_5-2_6"]}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["NileHymn W5:3_1/2", "NileHymn W5:4_13/2"]}
+      - {motif: precious-stones-cannot-be-eaten, refs: ["NileHymn W5:4_4-4_4/2"]}
+      - {motif: festival-offerings-for-flood-god, refs: ["NileHymn W5:4_10/2-4_12"]}
+      - {motif: refrain-flourish-come, refs: ["NileHymn W5:5_2", "NileHymn W5:5_3", "NileHymn W5:5_4/2"], note: "variant: wꜣḏ kꜣpw.tw=f 'may he flourish, that he be censed'; the scribe marks stanzas with grḥ 'pause'"}
+  - id: ane-nilehymn-w6-pturin
+    tradition: ane-egyptian
+    title: The Great Nile Hymn in a Turin papyrus, dedicated in the house of Ramesses IV
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W6, pTurin Cat. 1968+1890+1878 recto"
+    read: ["NileHymn W6"]
+    tags:
+      - {motif: failure-of-flood-brings-death, refs: ["NileHymn W6:x+2_1/2-x+2_1/3"]}
+      - {motif: land-laughs-when-flood-comes, refs: ["NileHymn W6:x+2_3/2-x+2_4"]}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["NileHymn W6:x+2_9", "NileHymn W6:x+5_3/2"]}
+      - {motif: precious-stones-cannot-be-eaten, refs: ["NileHymn W6:x+4_3-x+4_3/2"]}
+      - {motif: refrain-flourish-come, refs: ["NileHymn W6:x+5_5/2", "NileHymn W6:x+5_7"], note: "column x+3 largely lost"}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["NileHymn W6:x+5_8-x+5_8/2"], note: "for the ka of ... the house of king Heqamaatre-setepenre (Ramesses IV)"}
+  # ---------------- Pyramid Texts ----------------
+  - id: ane-pt213-w1-unas-not-dead
+    tradition: ane-egyptian
+    title: "PT 213 (Unas): 'You did not go away dead, you went away alive'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Unas"
+    read: ["PT213 W1"]
+    tags:
+      - {motif: dead-king-departed-alive-not-dead, refs: ["PT213 W1:206-206/2"], note: "n šmi̯.n=k js m(w)t.tj, šmi̯.n=k ꜥnḫ.t"}
+      - {motif: slain-in-gods-way-are-alive, refs: ["PT213 W1:206-206/2"], note: "only as a parallel formula: the dead declared not dead but alive"}
+      - {motif: dead-king-enthroned-rules-living-and-dead, refs: ["PT213 W1:206/3"], note: "on the throne of Osiris, ꜥbꜣ-sceptre to command the living, lotus-bud sceptre to command 'those of secret places' (the dead)"}
+      - {motif: limbs-of-dead-identified-with-gods, refs: ["PT213 W1:207"]}
+      - {motif: deity-gives-king-crown-sceptre-crook, refs: ["PT213 W1:206/3"], note: "loose fit: sceptres in the king's two hands"}
+    hints:
+      - "Compare Q 2:154 and 3:169 ('do not say of those slain in God's way: dead; rather they are alive') and Wis 3:2-4."
+      - "Ruler over living and dead: Rom 14:9."
+  - id: ane-pt213-w2-pepi-i
+    tradition: ane-egyptian
+    title: PT 213 in the pyramid of Pepi I (fragments)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pyramid of Pepi I"
+    read: ["PT213 W2"]
+    tags:
+      - {motif: dead-king-enthroned-rules-living-and-dead, refs: ["PT213 W2:P/F/Se_1/2"], note: "only the lotus-bud sceptre clause survives"}
+      - {motif: limbs-of-dead-identified-with-gods, refs: ["PT213 W2:P/F/Se_1/3"], note: "'your arms are [Atum]', restored"}
+  - id: ane-pt213-w3-neith
+    tradition: ane-egyptian
+    title: PT 213 in the pyramid of queen Neith
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, pyramid of Neith"
+    read: ["PT213 W3"]
+    tags:
+      - {motif: dead-king-departed-alive-not-dead, refs: ["PT213 W3:Nt/F/Se_I_1_=_493/2"], note: "addressed to a queen: hꜣ N(j),t n šmi̯.n=k js m[(w)t.tj]"}
+      - {motif: dead-king-enthroned-rules-living-and-dead, refs: ["PT213 W3:Nt/F/Se_I_1_=_493/4"]}
+  - id: ane-pt217-w1-unas-comes-to-atum
+    tradition: ane-egyptian
+    title: "PT 217 (Unas): 'Atum, your son comes to you' - the king announced to the four quarters"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Unas"
+    read: ["PT217 W1"]
+    tags:
+      - {motif: dead-king-comes-to-creator-as-his-son, refs: ["PT217 W1:222/2-223", "PT217 W1:232/4-233/3"], note: "(J)tm(,w) jyi̯ n=k zꜣ=k ... šni̯ n=k sw m-ẖnw ꜥ.du=k: 'enfold him in your arms; he is your bodily son for ever'"}
+      - {motif: gods-sent-to-four-quarters-to-announce-king, refs: ["PT217 W1:223/4", "PT217 W1:226", "PT217 W1:228/4", "PT217 W1:231/3"], note: "Seth and Nephthys to the south, Osiris and Isis to the north, Thoth to the west, Horus to the east"}
+      - {motif: god-kills-and-makes-alive, refs: ["PT217 W1:224/2-224/3", "PT217 W1:227/2-227/3", "PT217 W1:230-230/2", "PT217 W1:232/2-232/3"], note: "mri̯.w=f m(w)t=ṯn m(w)t=ṯn, mri̯.w=f ꜥnḫ=ṯn ꜥnḫ=ṯn: whom he wishes to die dies, whom he wishes to live lives (here said of the dead king)"}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["PT217 W1:229"], note: "as Anubis: jp=f jb.pl sḫm=f m ḥꜣ,t(j).pl 'that he may reckon the hearts and have power over the hearts'"}
+    hints:
+      - "Whom he will he kills, whom he will he keeps alive: compare Deut 32:39, 1 Sam 2:6 and Q 2:258 (Abraham and the king: 'I give life and cause death')."
+      - "Received into the father's embrace: compare Ps 2:7 and Ps 73:24."
+  - id: ane-pt217-w2-pepi-i
+    tradition: ane-egyptian
+    title: PT 217 in the pyramid of Pepi I (fragments)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pyramid of Pepi I"
+    read: ["PT217 W2"]
+    tags:
+      - {motif: dead-king-comes-to-creator-as-his-son, refs: ["PT217 W2:P/F/Se_8/5-P/F/Se_8/6", "PT217 W2:P/F/Se_11/5"]}
+      - {motif: god-kills-and-makes-alive, refs: ["PT217 W2:P/F/Se_8/3-P/F/Se_8/4", "PT217 W2:P/F/Se_9/3-P/F/Se_9/4"]}
+      - {motif: god-tests-hearts-and-kidneys, refs: ["PT217 W2:P/F/Se_10"]}
+  - id: ane-pt219-osiris-litany-1
+    tradition: ane-egyptian
+    title: "PT 219: the Osiris litany to the Ennead - 'If he lives, this Unas lives'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pyramid of Unas"
+    read: ["PT219 240-254/4"]
+    tags:
+      - {motif: deceased-shares-life-of-osiris-litany, refs: ["PT219 240/2-241", "PT219 243/5-244/5", "PT219 251/2-252"], note: "ꜥnḫ=f ꜥnḫ Wnjs pn, n m(w)t=f n m(w)t Wnjs pn, repeated to Atum, Shu, Tefnut, Geb, Nut, Isis, Seth, Nephthys, Thoth, Horus, the Great and Little Enneads"}
+      - {motif: dead-king-comes-to-creator-as-his-son, refs: ["PT219 240/2"], note: "'Atum, this is your son Osiris whom you caused to revive and live'"}
+      - {motif: mouth-of-dead-opened-by-son, refs: ["PT219 253/2"], note: "wpi̯ rʾ=f jn zꜣ=f Ḥr(,w) ... ṯnw ꜥ,t=f jn nṯr.pl: Nut wipes his mouth after Horus opened it and the gods counted his limbs"}
+      - {motif: opening-of-the-mouth-for-gods, refs: ["PT219 253/2"]}
+      - {motif: ennead-genealogy-listed, refs: ["PT219 240/2", "PT219 241/2", "PT219 242/3", "PT219 243/5", "PT219 244/6", "PT219 245/6", "PT219 246/6", "PT219 248", "PT219 249", "PT219 250/2"], note: "the litany walks through the gods in genealogical order; Seth and Thoth 'brought to life that he might punish you'"}
+    hints:
+      - "Because he lives, you will live: compare John 14:19; Rom 6:5-8."
+  - id: ane-pt219-osiris-litany-2
+    tradition: ane-egyptian
+    title: "PT 219: Osiris in his names and cult places; his body is the king's body"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pyramid of Unas"
+    read: ["PT219 254/5-268/7"]
+    tags:
+      - {motif: deceased-shares-life-of-osiris-litany, refs: ["PT219 254/5-255/5", "PT219 260-261/4", "PT219 266/5-268/2"], note: "'in your name of He-in-Heliopolis / in Busiris / in the Orion' etc."}
+      - {motif: dead-king-is-seed-of-osiris, refs: ["PT219 260/3"], note: "mtw,t=k pri̯.t jm=k spd.t(j): 'your seed that came forth from you, sharp'"}
+      - {motif: eye-of-horus-eaten-as-food, refs: ["PT219 267-267/2"], note: "wnm.t.n=k jr(,t) ... j:fḫ n=k s(j) zꜣ=k Ḥr(,w) ꜥnḫ=k jm=s"}
+      - {motif: body-of-god-is-body-of-king, refs: ["PT219 268/3-268/7"], note: "ḏ,t=k ḏ,t n.t Wnjs pn ... qs.pl=k qs.pl Wnjs pn"}
+    hints:
+      - "Compare Gen 2:23 ('bone of my bones and flesh of my flesh') and the union formulas of John 6:56."
+      - "Named constellations (Orion): Job 9:9; Amos 5:8."
