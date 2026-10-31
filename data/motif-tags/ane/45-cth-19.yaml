@@ -1,0 +1,968 @@
+# Full read of the ANE corpus, chunk 45: CTH 19 (Telipinu Proclamation, TLHdig manuscripts W1-W10),
+# CTH 25, 26, 41 (Šunaššura treaty, Akkadian and Hittite versions), 42 (Ḫuqqana), 44, 50,
+# 51.I and 52.I (Šattiwazza treaties). Read from hethiter.net / TLHdig transliterations.
+new_motifs:
+  kingdom-strong-while-royal-kin-united: {label: "While the king's sons, brothers, in-laws, kinsmen and troops stood united, the small land grew and the enemy was held subdued", cluster: kingship}
+  enemy-lands-made-borders-of-sea: {label: "The king destroys the enemy lands and makes them the borders of the sea (extends his realm to the sea)", cluster: conquest}
+  princes-sent-to-govern-cities: {label: "Returning from campaign, the king sends each of his sons to govern one of the great cities of the land", cluster: kingship}
+  royal-servants-corrupt-and-conspire: {label: "The servants of the princes grow corrupt, devour their masters' houses, plot against them and shed their blood", cluster: kingship}
+  king-sacks-aleppo-and-babylon: {label: "A Hittite king destroys Aleppo and Babylon and carries their deportees and goods to Hattusa", cluster: conquest}
+  king-murdered-by-courtier-in-law: {label: "A king is murdered by a courtier who is his brother-in-law, together with the courtier's son-in-law, who seize the throne", cluster: kingship}
+  gods-seek-the-kings-blood: {label: "The gods seek out (avenge) the blood of a murdered king or prince on his murderer and his line", cluster: retribution}
+  regicide-remorse: {label: "The murderer of a king, now king himself, laments 'what have I done? I listened to the word of another'", cluster: retribution}
+  king-murdered-by-his-son: {label: "A king is murdered by his own son, who takes the throne", cluster: kingship}
+  land-turns-hostile-campaigns-fail: {label: "Under a bloodguilty king the subject lands turn hostile and wherever his troops go they do not return successful", cluster: retribution}
+  royal-woman-murdered-with-her-sons: {label: "A queen (or royal woman) is murdered together with her sons in a palace intrigue, and the king searches for the killers", cluster: kingship}
+  deposed-rivals-given-houses-to-eat-and-drink: {label: "A new king spares the rival claimants who plotted against him, gives them houses and says 'let them eat and drink; let no one harm them'", cluster: kingship}
+  king-spares-conspirators-sends-them-to-farm: {label: "Instead of the death sentence passed by the council, the king takes the conspirators' weapons from their shoulders and makes them farmers", cluster: kingship}
+  men-of-god-denounce-bloodshed: {label: "Men of the god (seers) declare that bloodshed has become widespread in the capital", cluster: prophecy}
+  assembly-judges-royal-crimes: {label: "The assembly of the realm (Hittite panku, tuliya) is convened to judge crimes within the royal family and to restrain the king", cluster: kingship}
+  succession-law-sons-then-daughters-husband: {label: "Succession law: a first-rank son becomes king; failing him a second-rank son; failing any son, the husband taken for the first-rank daughter", cluster: kingship}
+  king-forbidden-to-kill-royal-kin: {label: "The king and his council are forbidden to kill members of the royal family ('do not say I will purge; you will only entangle yourself')", cluster: kingship}
+  king-told-to-consult-written-precedent: {label: "The council must tell a king plotting against his kin to read the precedent on the tablet: bloodshed in the past and its divine punishment", cluster: kingship}
+  property-of-executed-not-confiscated: {label: "The house, fields, vineyards, servants and herds of an executed prince may not be taken; taking them is not right", cluster: law}
+  executed-plotters-as-warning-sign: {label: "Named conspirators are held up to the officials as a warning sign ('let them be a sign before you')", cluster: law}
+  royal-storehouse-towns-listed: {label: "A list of the royal storehouse towns (seal-houses) is drawn up, the stores heaped up and entrusted to officials", cluster: administration}
+  oppressors-drink-blood-of-land: {label: "Corrupt officials who stretch the measure of the fields are said to 'drink the blood of the land'", cluster: justice}
+  blood-owner-chooses-death-or-compensation: {label: "In a homicide, the 'lord of the blood' decides: if he says 'let him die' the killer dies, if 'let him pay' he pays; the king has no part", cluster: law}
+  sorcery-in-family-brought-to-palace-gate: {label: "Whoever in a family practises sorcery must be seized by his own kin and brought to the palace gate; whoever fails to bring him suffers himself", cluster: law}
+  son-demanding-share-while-parents-live-expelled: {label: "A son who demands division of the estate while father and mother are alive is thrown out of the house and loses his share", cluster: law}
+  treaty-parity-mutual-clauses: {label: "A parity treaty repeats each obligation with the roles of the two kings exchanged ('and for the other the same')", cluster: treaty}
+  border-towns-not-to-be-fortified: {label: "A treaty forbids one or both kings to fortify named border towns; fortifying them breaks the oath", cluster: treaty}
+  fugitive-returned-after-notables-swear: {label: "A fugitive accused of plotting against his lord is returned unless he denies it, in which case notables of the land swear an oath and he is then returned", cluster: treaty}
+  envoy-not-harmed-or-bewitched: {label: "A king's son, servant or envoy sent to the other king must suffer no harm and must not be caught with magic herbs", cluster: treaty}
+  deserted-settlement-returned: {label: "If the population of a settlement migrates with its people, goods and herds to the other kingdom, it is seized and returned", cluster: treaty}
+  theft-repaid-twofold: {label: "A thief must restore the stolen goods twofold to their owner (and pay a further fine)", cluster: law}
+  border-thief-killed: {label: "A man who is no herdsman and crosses the border to steal may be killed", cluster: law}
+  homicide-compensated-person-for-person: {label: "A man who kills (or sells) a man of the other land must give a person in place of the dead ('a man like the man')", cluster: law}
+  treaty-old-oath-tablet-erased-new-made: {label: "The tablet of a vassal's former oath to a rival overlord is erased, the rival's word rejected and a new tablet made", cluster: treaty}
+  messenger-words-must-match-tablet: {label: "The vassal is to trust a messenger only if his spoken words agree with the words written on the tablet he brings", cluster: diplomacy}
+  vassal-sees-kings-face-none-seated-above: {label: "When the vassal comes before the great king he may see the king's face and no grandee sits above him", cluster: kingship}
+  own-words-turned-against-speaker: {label: "A rival is condemned by his own earlier answer ('Just so!') to the very case now turned against him", cluster: diplomacy}
+  vassal-released-andurarum: {label: "The great king releases a land from a former overlord's oath, an act of 'release' (andurāru)", cluster: treaty}
+  overlord-guarantees-vassals-chosen-heir: {label: "Each king will protect in the kingship the son whom the other designates as heir", cluster: treaty}
+  neither-party-crosses-border: {label: "Each party swears not to cross the boundary (a river, a heap) into the other's side", cluster: treaty}
+  border-land-measured-and-divided: {label: "The land between two frontier towns is measured out and divided between the two kings", cluster: treaty}
+  fugitive-hider-gives-twelve-persons: {label: "Whoever hides a fugitive in his house must give twelve persons in compensation, or himself be killed; a hiding slave's master may forfeit him", cluster: law}
+  overlord-raises-vassal-from-last-dog: {label: "The overlord says he took up the vassal as 'the last dog' and treated him well", cluster: kingship}
+  overlord-gives-royal-woman-to-vassal-wife: {label: "The overlord gives his sister or daughter in marriage to the vassal king", cluster: kingship}
+  love-overlord-as-own-soul: {label: "The vassal must love the overlord's head, soul and body as he loves his own and keep his hands around him", cluster: treaty}
+  oath-gods-destroy-oathbreaker: {label: "Treaty curse: 'these oath gods shall not leave you in peace, shall not release you, shall destroy you' (and whoever you side with)", cluster: treaty}
+  foreign-customs-contrasted-with-own-law: {label: "A practice permitted in a foreign, uncouth land is declared a capital crime in one's own land ('in Hattusa it is not right')", cluster: law}
+  kinswoman-welcomed-with-food-not-desired: {label: "When a kinswoman of one's wife visits, give her to eat and drink and rejoice, but do not desire to take her", cluster: law}
+  avoid-palace-women: {label: "Keep far from the women of the palace: do not approach or speak to one, step well off the road and let her pass", cluster: law}
+  man-executed-for-glance-at-palace-maid: {label: "A man is put to death merely for having looked at a palace maid, seen by the king from a window", cluster: law}
+  overlords-kinswoman-must-be-chief-wife: {label: "The vassal may keep concubines but may take no wife above or equal to the overlord's sister or daughter, who must be chief wife", cluster: kingship}
+  king-installs-son-as-vassal-king: {label: "The great king installs his own son as king of a conquered city-state and fixes its borders", cluster: kingship}
+  treaty-duplicate-deposited-before-god: {label: "A copy of the treaty tablet is deposited before the chief god of each party", cluster: treaty}
+  treaty-on-gold-tablet: {label: "The treaty is written on a tablet of gold", cluster: treaty}
+  not-a-straw-taken: {label: "A king insists he took not so much as a straw or a splinter of wood from a land or a person", cluster: kingship}
+  storm-god-decides-lawsuit-by-kings-death: {label: "The death of a king is read as the god's verdict in a lawsuit between rival claimants ('the storm god decided Artatama's case')", cluster: kingship}
+  overlord-revives-dead-kingdom: {label: "The great king says he will bring a dead (ruined) land back to life and restore it to its place", cluster: kingship}
+  overlord-takes-prince-by-hand-sets-on-fathers-throne: {label: "The great king takes an exiled prince by the hand and seats him on his father's throne", cluster: kingship}
+  overlord-adopts-vassal-as-son: {label: "The great king says to a fugitive prince: 'I take you as my son, I will stand at your side'", cluster: kingship}
+  arrogant-king-provokes-war: {label: "A rival king's arrogance (multarriḫūtu) and boastful words provoke the great king's campaign", cluster: war}
+  primeval-and-underworld-gods-as-witnesses: {label: "The primeval and underworld gods (Alalu, Anu, Nara, Namšara, Ereškigal) are named among the treaty witnesses", cluster: treaty}
+  vedic-gods-as-treaty-witnesses: {label: "Mitra, Varuna, Indra and the Nāsatyas are invoked as witnesses of a Mittani treaty", cluster: treaty}
+  curse-oathbreakers-name-and-seed-destroyed: {label: "Treaty curse: may the gods destroy the oath-breaker's name and seed from the earth", cluster: treaty}
+  curse-poverty-and-nakedness: {label: "Treaty curse: may the oath gods give you poverty and nakedness", cluster: treaty}
+  curse-throne-overturned: {label: "Treaty curse: may the gods overturn your throne", cluster: treaty}
+  curse-crushed-like-reed: {label: "Treaty curse: may the oath crush you with your land like a reed", cluster: treaty}
+  curse-ground-slippery-like-ice: {label: "Treaty curse: may the ground be ice so that you slip, and your land a pond in which you sink", cluster: treaty}
+  curse-pursued-by-the-gods: {label: "Treaty curse: you shall be enemies of the thousand gods and they shall hunt you down", cluster: treaty}
+  blessing-land-rich-and-lying-down-in-peace: {label: "Treaty blessing: may the land be restored as of old, grow rich and lie down (rabāṣu) in peace", cluster: treaty}
+  blessing-dynasty-rules-forever: {label: "Treaty blessing: may your sons and grandsons rule as kings for ever and your father's throne grow old", cluster: treaty}
+  suppliant-falls-at-overlords-feet: {label: "A fugitive prince falls at the great king's feet; the king takes him by the hand and rejoices over him", cluster: kingship}
+  kings-word-does-not-return-void: {label: "The words that come out of the great king's mouth do not turn back (go unfulfilled)", cluster: kingship}
+  exile-arrives-with-nothing: {label: "The fugitive prince came with three chariots, two attendants and the one garment he wore, and nothing else", cluster: kingship}
+  gods-go-before-the-army: {label: "The gods of the great king go before the army on campaign", cluster: war}
+  gods-lead-fugitive-on-safe-path: {label: "The fugitive calls on the gods, who lead him on a path of safety to the great king", cluster: prayer}
+  trophy-door-given-to-enemy: {label: "A gold and silver door once taken as a trophy is shamefully handed over to the enemy as tribute", cluster: kingship}
+  king-bows-to-former-servant: {label: "A usurper prostrates himself before a king whose ancestors were his fathers' servants and gives him his treasure", cluster: kingship}
+  curse-barren-as-salt: {label: "Self-curse: as salt has no seed, so may we have no seed; like a dissolved lump of salt may we not be restored", cluster: treaty}
+  curse-no-shoot-like-cut-tree: {label: "Self-curse: as a felled tree (tamarisk/acacia) puts out no shoot, so may we have no seed", cluster: treaty}
+  curse-rise-like-smoke: {label: "Self-curse: may we rise like smoke to heaven", cluster: treaty}
+  vassals-live-in-lords-shade: {label: "The sworn people pray to eat a rich harvest in their lord's shade (ṣillu) while he goes before them", cluster: kingship}
+  treaty-historical-prologue: {label: "A treaty opens with a historical prologue recounting the past relations of the two parties and the overlord's benefits, as the ground of the obligations", cluster: treaty}
+  famine-in-kings-reign: {label: "A famine strikes the lands in a king's reign and he orders ploughing, rationing and storage of grain", cluster: kingship}
+  overlord-loves-vassal-like-his-tablet: {label: "The vassal asks that the great king love him and his land as he loves his own lands, sons and his own tablet", cluster: treaty}
+units:
+  # ---------------------------------------------------------------- CTH 19 Telipinu Proclamation
+  - id: ane-cth-19-w1-fragment
+    tradition: ane-hittite
+    title: "Telipinu Proclamation, fragment W1 (KBo 12.6): officials to guard the towns"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W1, KBo 12.6"
+    read: ["CTH 19 W1"]
+    tags:
+      - {motif: executed-plotters-as-warning-sign, refs: ["CTH 19 W1:3'-6'"], note: "Fragment of the closing exhortation (cf. W6 rev. III 6'-12'): '[seize them with your teeth] k]aripten', the great officials 'who are in charge' (šallaēš) are to take them (šuš daškandu); interpretive, only line ends survive."}
+      - {motif: royal-storehouse-towns-listed, refs: ["CTH 19 W1:7'-9'"], note: "'the towns ... protected' URU.DIDLI.ḪI.A paḫḫašnuwanteš; the rest is lost."}
+  - id: ane-cth-19-w2-founders
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: Labarna, Ḫattusili and Mursili, united, conquer to the sea, Aleppo and Babylon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+ (main manuscript)"
+    read: ["CTH 19 W2:{€1}_obv._I_1'-{€1}_obv._I_29'"]
+    tags:
+      - {motif: kingdom-strong-while-royal-kin-united, refs: ["CTH 19 W2:{€1}_obv._I_1'-{€1}_obv._I_3'", "CTH 19 W2:{€1}_obv._I_12'-{€1}_obv._I_14'", "CTH 19 W2:{€1}_obv._I_23'-{€1}_obv._I_25'"], note: "Refrain for each king: 'napa apel=la DUMU.MEŠ-ŠU ŠEŠ.MEŠ-ŠU LÚ.MEŠ gaenašš(e)eš LÚ.MEŠ ḫaššannaššaš Ù ÉRIN.MEŠ-ŠU taruppanteš ešer' (his sons, brothers, in-laws, kinsmen and troops were united), then 'wherever he went on campaign he held the enemy land subdued by force (kuttanit taruḫḫan ḫarta)'."}
+      - {motif: enemy-lands-made-borders-of-sea, refs: ["CTH 19 W2:{€1}_obv._I_6'-{€1}_obv._I_7'", "CTH 19 W2:{€1}_obv._I_16'-{€1}_obv._I_17'", "CTH 19 W2:{€1}_obv._I_26'"], note: "'nu utnē ḫarninkišket nu utnē arḫa tarranut nuš arunaš irḫuš iyet' - he destroyed the lands, made them powerless and made them the borders of the sea."}
+      - {motif: princes-sent-to-govern-cities, refs: ["CTH 19 W2:{€1}_obv._I_7'-{€1}_obv._I_11'", "CTH 19 W2:{€1}_obv._I_17'-{€1}_obv._I_19'"], note: "When he came back from campaign each of his sons went to a land: Ḫupišna, Tuwanuwa, Nenašša, Landa, Zallara, Paršuḫanta, Lušna; 'utnē maniyaḫḫiškir' (they governed the land) and 'the great cities were settled' (tittiyanteš ešer)."}
+      - {motif: royal-servants-corrupt-and-conspire, refs: ["CTH 19 W2:{€1}_obv._I_20'-{€1}_obv._I_22'"], note: "'ARAD.MEŠ DUMU.MEŠ LUGAL maršešer' - the princes' servants became corrupt, began to devour (karipuwan dāer) their houses, to plot against their lords and 'ešḫar=šummit eššuwan tier' to shed their blood."}
+      - {motif: king-sacks-aleppo-and-babylon, refs: ["CTH 19 W2:{€1}_obv._I_27'-{€1}_obv._I_29'"], note: "Mursili went to Ḫalpa and destroyed it, brought its deportees and goods to Hattusa; then went to Babylon (KÁ.DINGIR.RA) and destroyed it, and also struck the Hurrian troops."}
+      - {motif: dynastic-succession-from-father, refs: ["CTH 19 W2:{€1}_obv._I_12'", "CTH 19 W2:{€1}_obv._I_23'"], note: "EGIR-pa=ma Ḫattušiliš ḫaššuet ... mān Muršiliš Ḫattuši LUGAL-et - each king follows the last in an orderly line."}
+    hints:
+      - "A historical prologue of royal succession and good order before decline: compare Judg 2:6-19 and the cycle of Judges, and 2 Kgs 17:7-23 as retrospective history serving a present law."
+      - "Unity of 'brothers' as the condition of strength: Ps 133:1; Gen 13:8."
+      - "Kings of the past conquering to the sea: 1 Kgs 5:1 [4:21] (Solomon ruled from the River to the land of the Philistines); Ps 72:8 (from sea to sea)."
+      - "Servants who grow fat and turn on their masters: Prov 30:21-22; 1 Kgs 16:9-10 (Zimri, servant, kills his king)."
+  - id: ane-cth-19-w2-hantili-murders-mursili
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: Ḫantili and Zidanta murder Mursili; the gods seek his blood"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+"
+    read: ["CTH 19 W2:{€1}_obv._I_30'-{€1}_obv._I_57'"]
+    tags:
+      - {motif: king-murdered-by-courtier-in-law, refs: ["CTH 19 W2:{€1}_obv._I_30'-{€1}_obv._I_33'"], note: "Ḫantili was cupbearer (LÚ SAGI.A) and had Ḫarapšili, Mursili's sister, as wife; Zidanta 'went up' to Ḫantili, 'ḪUL-lu uttar iēr' they did an evil deed, 'Muršilin kuenner nu ešḫar iēr' killed Mursili and shed blood."}
+      - {motif: regicide-chain, refs: ["CTH 19 W2:{€1}_obv._I_32'-{€1}_obv._I_33'", "CTH 19 W2:{€1}_obv._I_56'"]}
+      - {motif: regicide-remorse, refs: ["CTH 19 W2:{€1}_obv._I_34'", "CTH 19 W2:{€1}_obv._I_38'-{€1}_obv._I_40'"], note: "'Ḫantiliš naḫšariyattati' Ḫantili was afraid; at Tagarama he began to say '[...] kī=wa iyanun kuit nu=wa Zidanta[š ...] ištamaššun' - 'what is this I have done? I listened to Zidanta'; partly restored."}
+      - {motif: gods-seek-the-kings-blood, refs: ["CTH 19 W2:{€1}_obv._I_40'-{€1}_obv._I_41'"], note: "'mān LUGAL-et ... ešḫar DINGIR.MEŠ-iš šanḫer' when he became king the gods sought the blood (of Mursili)."}
+      - {motif: land-turns-hostile-campaigns-fail, refs: ["CTH 19 W2:{€1}_obv._I_35'-{€1}_obv._I_37'", "CTH 19 W2:{€1}_obv._I_42'-{€1}_obv._I_45'"], note: "Fragmentary: campaign towards Aštata, Šukziya(?), Ḫurpana, Karkemiš; the Hurrian troops (ÉRIN.MEŠ ḫurluš) and 'ḫaḫḫallaš' (thornbush) appear; 'the land was turned' (utnē weḫattat). Lines I 46'-57' almost wholly broken."}
+    hints:
+      - "Regicide by a court officer and in-law: 2 Kgs 9-10 (Jehu), 1 Kgs 16:9-10 (Zimri, commander of chariots, kills Elah while drunk); 2 Kgs 12:21 [20] and 14:19 (servants conspire and kill the king)."
+      - "Blood of the slain king sought by God: Gen 9:5-6 ('your blood I will require'); 2 Sam 4:11 ('shall I not require his blood of your hand?'); 2 Kgs 9:7, 26 (blood of Naboth requited on the house of Ahab); Hos 1:4 (blood of Jezreel visited on Jehu's house)."
+      - "Remorse of the murderer 'what have I done?': 2 Sam 24:10 (David's heart smote him); Jer 8:6 ('no man says, what have I done?'); Q 5:31 (Cain becomes one of the remorseful)."
+  - id: ane-cth-19-w2-ammuna-to-telipinu-accession
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: Ammuna's failures, the murders of Zuru and Taruḫšu, Ḫuzziya, Telipinu spares his rivals"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+"
+    read: ["CTH 19 W2:{€1}_obv._II_1-{€1}_obv._II_15"]
+    tags:
+      - {motif: land-turns-hostile-campaigns-fail, refs: ["CTH 19 W2:{€1}_obv._II_1-{€1+2}_obv._II_4"], note: "Ḫagga, Matila, Adaniya, Arzawa, Šallapa, Parduwata became hostile (kururet); 'laḫḫa=ma kuwatta ÉRIN.MEŠ-uš paizzi ne appa UL SIG5-in weškanta' wherever the troops went on campaign they did not come back successful."}
+      - {motif: regicide-chain, refs: ["CTH 19 W2:{€1+2}_obv._II_4-{€1+2}_obv._II_9"], note: "When Ammuna 'became god' (died), Zuru chief of the bodyguard secretly (duddumili) sent his son Taḫurwaili the man of the golden spear, who killed Tittiya's family with his sons; Taruḫšu the courier killed Ḫantili with his sons; Ḫuzziya became king."}
+      - {motif: deposed-rivals-given-houses-to-eat-and-drink, refs: ["CTH 19 W2:{€1}_obv._II_11-{€1}_obv._II_15"], note: "Ḫuzziya planned to kill Telipinu and Ištapariya; the matter became known and Telipinu chased them away; 'his five brothers: he built them houses (taggašta): let them go and live, let them eat and drink (azzikkandu akkuškandu), let no one harm them'; and I say: 'apē=wa=mu idālu iēr ug=a=war=uš ḪUL-lu iyami' - they did evil to me, but I will not do them evil."}
+      - {motif: repay-evil-with-good, refs: ["CTH 19 W2:{€1}_obv._II_14-{€1}_obv._II_15"], note: "The negative 'ḪUL-lu ⌈iyami⌉' is not written; the context (le-e ku-iš-ki tag-gaš-ši, 'let no one harm them') shows Telipinu means he will not do evil to them; the phrasing is a deliberate contrast."}
+    hints:
+      - "Not repaying evil for evil to rival claimants: 1 Sam 24:18-20 [17-19] and 26:21-25 (David spares Saul); 2 Sam 19:23-24 [22-23] (David spares Shimei: 'shall any man be put to death this day?'); Prov 20:22; Q 41:34."
+      - "Deposed royals given food and a place: 2 Kgs 25:27-30 (Jehoiachin eats at the king's table); 2 Sam 9:7-13 (Mephibosheth)."
+      - "A sequence of court killings of kings and princes: 1 Kgs 15:27-16:22 (Baasha, Zimri, Omri) and 2 Kgs 15:10-30."
+  - id: ane-cth-19-w2-telipinu-reign
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: Telipinu's campaigns, the conspiracy, mercy to the conspirators, 'blood has become common'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+"
+    read: ["CTH 19 W2:{€1}_obv._II_16-{€1}_obv._II_33"]
+    tags:
+      - {motif: dynastic-succession-from-father, refs: ["CTH 19 W2:{€1}_obv._II_16"], note: "Accession formula: 'mān=šan Telipinuš INA GIŠ.GU.ZA ABI-IA ešḫat' - when I, Telipinu, sat on the throne of my father."}
+      - {motif: assembly-judges-royal-crimes, refs: ["CTH 19 W2:{€1}_obv._II_27-{€1}_obv._II_28"], note: "Tanuwa, Taḫurwaili and Taruḫšu were brought and 'nu=uš pankuš parā ḫinkani ḫarta' - the panku delivered them to death."}
+      - {motif: king-spares-conspirators-sends-them-to-farm, refs: ["CTH 19 W2:{€1}_obv._II_28-{€1}_obv._II_30"], note: "'LUGAL-uš=a memaḫḫun kuwat=wa=re akkanzi' - I the king said: why should they die? 'IGI.ḪI.A-wa munnanzi' let them hide their eyes; 'nu=uš LUGAL-uš karšauš LÚ.MEŠ APIN.LÁ iyanun GIŠ.TUKUL.ḪI.A-uš=šuš=ta ZAG.UDU-za daḫḫun' I made them real farmers and took their weapons from their shoulders."}
+      - {motif: men-of-god-denounce-bloodshed, refs: ["CTH 19 W2:{€1}_obv._II_31-{€1}_obv._II_33"], note: "'nu šallaš=pat ḫaššannaš ešḫar pangariyattati' the blood of the whole royal family became widespread; queen Ištapariya died, then prince Ammuna died; 'šiunan antuḫšiš=a taršikkanzi kāša=wa Ḫattuši ešḫar pangariyattati' - and the men of the god say: behold, bloodshed has become widespread in Hattusa."}
+    hints:
+      - "Weapons taken away and the men made ploughmen: compare Isa 2:4 and Mic 4:3 (swords into ploughshares), here as a judicial commutation."
+      - "Commuting a death sentence the people demand: 1 Sam 11:12-13 (Saul: no man shall be put to death this day); 2 Sam 19:22-23 [21-22]."
+      - "Prophetic denunciation of bloodshed in the capital: Ezek 22:2-4 (city of blood); 2 Kgs 21:16 and 24:4 (Manasseh filled Jerusalem with innocent blood, which YHWH would not pardon); Mic 3:10."
+      - "Deaths in the royal house as the price of bloodguilt: 2 Sam 12:10-14 (the sword shall never depart from your house); 2 Sam 21:1."
+  - id: ane-cth-19-w2-succession-law
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: the assembly, the law of succession and the law protecting the royal family"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+"
+    read: ["CTH 19 W2:{€1}_obv._II_34-{€1}_obv._II_73"]
+    tags:
+      - {motif: assembly-judges-royal-crimes, refs: ["CTH 19 W2:{€1}_obv._II_34", "CTH 19 W2:{€1}_obv._II_50-{€1}_obv._II_52"], note: "'nu Telipinuš Ḫattuši tuliyan ḫalziḫḫun' I convened the assembly in Hattusa; whoever does evil among brothers and sisters 'nu tuliyan ḫalzišten' - call the assembly; 'if his case goes (against him) SAG.DU-naz šarnikdu' let him pay with his head."}
+      - {motif: king-forbidden-to-kill-royal-kin, refs: ["CTH 19 W2:{€1}_obv._II_34-{€1}_obv._II_35", "CTH 19 W2:{€1}_obv._II_43-{€1}_obv._II_45"], note: "From now on 'ḫaššannaš DUMU-an idālu lē kuiški iyazi nu=šši=šan GÌR-an takkešzi' let no one do evil to a son of the family or draw a dagger on him; 'kiššan=a lē tēši arḫa=wa parkunummi parkunuši=ma=za UL kuitki ... ḫatkišnuši' - do not say 'I will purge', you will purge nothing but entangle yourself; 'ḫaššanna=šan=za=kan lē kuinki kuenti UL SIG5-in'."}
+      - {motif: succession-law-sons-then-daughters-husband, refs: ["CTH 19 W2:{€1}_obv._II_36-{€1}_obv._II_39"], note: "'LUGAL-uš=šan ḫantezziyaš=pat DUMU.LUGAL DUMU-RU kikkištaru' let a first-rank prince become king; if there is none, a son of the second rank (tān pēdaš); if there is no son, 'kuiš DUMU.MUNUS ḫantezziš nu=šši=šan LÚ antiyantan appandu' let them take a husband (in-marrying son-in-law) for the first-rank daughter, and he shall be king."}
+      - {motif: kingdom-strong-while-royal-kin-united, refs: ["CTH 19 W2:{€1}_obv._II_40-{€1}_obv._II_43"], note: "The opening refrain turned into a command for the future: whoever becomes king after me, let brothers, sons, in-laws, kinsmen and troops be united, and you will hold the enemy land subdued."}
+      - {motif: king-told-to-consult-written-precedent, refs: ["CTH 19 W2:{€1}_obv._II_46-{€1}_obv._II_49"], note: "If a king plans evil against brother or sister, 'šumeš=a pankuš nu=šši karši tetten kī=wa ešḫanaš uttar tuppiaz au' you panku tell him plainly: 'look at this matter of blood from the tablet: formerly blood became widespread in Hattusa and the gods took it on the royal family'."}
+      - {motif: individual-responsibility-for-sin, refs: ["CTH 19 W2:{€1}_obv._II_52-{€1}_obv._II_56", "CTH 19 W2:{€1}_obv._II_59-{€1}_obv._II_60"], note: "The guilty prince pays with his head, but 'É-rišši ANA DAM-ŠU DUMU.MEŠ-ŠU idālu lē takkiššanzi' let them do no evil to his house, wife and children; repeated at II 59-60 'kinuna'."}
+      - {motif: sons-of-rebel-spared, refs: ["CTH 19 W2:{€1}_obv._II_54", "CTH 19 W2:{€1}_obv._II_56"]}
+      - {motif: property-of-executed-not-confiscated, refs: ["CTH 19 W2:{€1}_obv._II_56-{€1}_obv._II_61"], note: "Princes perish, but not for their houses, fields, vineyards, servants, slaves, oxen and sheep; 'piyanna=ma ŠA DUMU.MEŠ.LUGAL UL āra' - giving away (the estates) of princes is not right."}
+      - {motif: royal-servants-corrupt-and-conspire, refs: ["CTH 19 W2:{€1}_obv._II_61-{€1}_obv._II_65"], note: "The evil words some speak: the chief of the house, chief of the palace servants, chief of the bodyguard, chief of the wine desire to take the prince's houses and say 'would that this city were mine', and do evil to the lord of the city."}
+      - {motif: executed-plotters-as-warning-sign, refs: ["CTH 19 W2:{€1}_obv._II_66-{€1}_obv._II_69"], note: "To the palace staff (guards, golden grooms, table-men, cooks, staff-bearers, stable-men): 'take this word to heart; Tanuwa, Taḫurwaili and Taruḫšu INA PANI-KUNU GISKIM-iš ešdu' - let them be a sign before you."}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["CTH 19 W2:{€1}_obv._II_70-{€1}_obv._II_73"], note: "If anyone does evil, whether chief of the house, chief of the wine, chief of the bodyguard, chief of the thousand of the field, 'šumaš=a pankuš anda [epten] ... kariptten' - you panku seize him and devour him (with your teeth, as in W4)."}
+    hints:
+      - "Law of the king in writing, to be read and to restrain the king from turning against his brothers: Deut 17:14-20 ('that his heart be not lifted up above his brothers'); 1 Sam 10:25 (Samuel writes the manner of the kingdom in a book)."
+      - "Children not to be put to death for the father: Deut 24:16; 2 Kgs 14:5-6 (Amaziah kills his father's murderers but not their sons); Ezek 18:20; Q 6:164 (no bearer bears another's burden)."
+      - "Royal seizure of an executed man's estate: 1 Kgs 21:15-16 (Ahab takes Naboth's vineyard); 2 Sam 16:4 and 19:30 [29] (Mephibosheth's estate given away); Ezek 46:18 (the prince shall not take the people's inheritance)."
+      - "Succession through a daughter's husband when there is no son: Num 27:1-11 and 36 (daughters of Zelophehad); 1 Chr 2:34-35 (Sheshan gives his daughter to his slave Jarha)."
+      - "Assembly as judge of the royal house: 1 Kgs 12:1-16 (assembly at Shechem); 2 Sam 19:10-15; 2 Kgs 11:4-20."
+      - "Example made of offenders as a warning: Deut 13:12 [11], 17:13 and 21:21 ('all Israel shall hear and fear'); Num 17:25 [17:10] (a sign to rebels)."
+  - id: ane-cth-19-w2-storehouses
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: the list of seal-house towns and the decree on storehouses"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+"
+    read: ["CTH 19 W2:{€3}_rev._III_1'-{€1}_rev._III_55'"]
+    tags:
+      - {motif: royal-storehouse-towns-listed, refs: ["CTH 19 W2:{€3}_rev._III_7'-{€1}_rev._III_44'"], note: "A long roll of towns (Tagalmuḫa, Ḫarkiya, Zelmutta, Tappašpa, Šukziya, Ašurna, Šamuḫa, Marišta, Ḫurma, Šalitta, Šamlušna, Gulpina, Pīša, Wašti(ša), Ḫurniya, Ḫurutta, Terumna, Ulašša, Parminiya, Paršuḫanta, ... the river Ḫulaya), 'ŠU.NÍGIN 1 ŠU-ŠI [...] URU.ḪI.A ŠA É.ḪI.A NA4.KIŠIB' - in total 60+ towns of the seal-houses; then 'nu=kan ḫalkiuš EGIR-an maknunun' I made the grain abundant."}
+      - {motif: oppressors-drink-blood-of-land, refs: ["CTH 19 W2:{€1}_rev._III_45'-{€1}_rev._III_49'"], note: "The farmers are to plough and sow those very fields; formerly officials 'ilašni parā našu 1 gipeššar našma 2 gipeššar ḫaminkiškir našta utnē ešḫar akkuškir' added one or two cubits on to the measure and drank the blood of the land; 'kinuna lē eššanzi' now let them not do so; whoever does it, give him over to evil."}
+      - {motif: curse-on-future-king-who-harms-legacy, refs: ["CTH 19 W2:{€1}_rev._III_50'-{€1}_rev._III_55'"], note: "'UR-RA-AM ŠE-RA-AM kuiš ammel [ḫalkiu]š ŠUM-aš=mit šiēški' - in future whoever seals my grain (stores) with his own name: they will leave you and say 'there is none' ... 'do not seal!' 'seal!' ... they will take it away from you. Fragmentary."}
+    hints:
+      - "Store-cities and royal granaries: Gen 41:34-36, 47-49 (Joseph stores grain in the cities); 1 Kgs 9:19 (Solomon's store-cities); 2 Chr 32:27-29 (Hezekiah's storehouses for grain, wine and oil); Q 12:47-49 and 12:55 ('set me over the storehouses of the land')."
+      - "Falsifying measures; rulers who devour the people: Amos 8:5 (making the ephah small); Mic 3:2-3 (who eat the flesh of my people); Ezek 22:27 (officials like wolves shedding blood); Q 83:1-3 (woe to those who give short measure)."
+  - id: ane-cth-19-w2-laws-fragments
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W2: fragments of the closing laws on deportees, blood and sorcery"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W2, KBo 12.7+"
+    read: ["CTH 19 W2:{€1}_rev._III_57'-{€1}_rev._IV_3''"]
+    tags:
+      - {motif: blood-owner-chooses-death-or-compensation, refs: ["CTH 19 W2:{€5}_rev._IV_1'-{€5}_rev._IV_6'"], note: "Fragment of the law of blood, better preserved in W3 IV 19'-21': '[if he says: let him] compensate (šarnikdu), let him compensate; [to the king nothing]'."}
+      - {motif: sorcery-in-family-brought-to-palace-gate, refs: ["CTH 19 W2:{€5}_rev._IV_7'-{€5}_rev._IV_11'"], note: "Fragment: '[cases of sorc]ery (alwanzatar) [clean up] ... who knows ... to the palace gate ... he will come ... it will go badly'."}
+  - id: ane-cth-19-w3-prologue
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W3: the prologue (duplicate of W2 I), 'the land was small'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W3, KBo 19.96+ (duplicate)"
+    read: ["CTH 19 W3:{€1}_obv._I_1-{€1}_obv._I_39"]
+    tags:
+      - {motif: kingdom-strong-while-royal-kin-united, refs: ["CTH 19 W3:{€1}_obv._I_1-{€1}_obv._I_5"], note: "Opening 'UM-MA tabarna Telipinu LUGAL GAL karū Labarnaš LUGAL GAL ešta' (restored after W5) - Thus says the Tabarna Telipinu, great king: formerly Labarna was great king; 'nu utnē tepu ešta' and the land was small; wherever he went on campaign he held the enemy land subdued."}
+      - {motif: enemy-lands-made-borders-of-sea, refs: ["CTH 19 W3:{€1}_obv._I_6-{€1}_obv._I_7", "CTH 19 W3:{€1}_obv._I_16-{€1}_obv._I_17"]}
+      - {motif: princes-sent-to-govern-cities, refs: ["CTH 19 W3:{€1}_obv._I_8-{€1}_obv._I_11", "CTH 19 W3:{€1}_obv._I_17-{€1}_obv._I_18"], note: "Variant: W3 I 18 'apel=la ŠU-i KUR.KUR.MEŠ GAL-TIM' 'in his hand the great lands' where W2 has 'the great cities'."}
+      - {motif: royal-servants-corrupt-and-conspire, refs: ["CTH 19 W3:{€1}_obv._I_20-{€1}_obv._I_22"]}
+      - {motif: king-sacks-aleppo-and-babylon, refs: ["CTH 19 W3:{€1}_obv._I_27-{€1}_obv._I_30"]}
+      - {motif: king-murdered-by-courtier-in-law, refs: ["CTH 19 W3:{€1}_obv._I_31-{€1}_obv._I_34"], note: "W3 adds a line (I 32) naming a daughter of Ḫantili (DUMU.MUNUS Ḫantili), presumably Zidanta's wife: Zidanta is Ḫantili's son-in-law."}
+    hints:
+      - "Small beginnings made great: Deut 7:7 (you were the fewest of all peoples); Deut 26:5 (few in number, became a great nation); Isa 60:22."
+  - id: ane-cth-19-w3-zidanta-ammuna
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W3: Zidanta killed by his son Ammuna; the gods seek his blood; the land does not prosper"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W3, KBo 19.96+"
+    read: ["CTH 19 W3:{€1+2}_obv._II_1-{€1}_obv._II_31''"]
+    tags:
+      - {motif: gods-seek-the-kings-blood, refs: ["CTH 19 W3:{€1+2}_obv._II_1-{€1+2}_obv._II_2", "CTH 19 W3:{€1}_obv._II_4-{€1}_obv._II_5"], note: "'[Zidantaš=a LUGAL-u]et napa DINGIR.MEŠ [Pišeniyaš ešḫar=š]it šanḫer' - Zidanta became king and the gods sought the blood of Pišeni; then of Ammuna: 'napa DINGIR.MEŠ at[taššaš Zidantaš] ešḫaršet šanḫer' the gods sought the blood of his father Zidanta."}
+      - {motif: king-murdered-by-his-son, refs: ["CTH 19 W3:{€1+2}_obv._II_2-{€1+2}_obv._II_3"], note: "'nu=šši Ammunan DUMU-aššan DINGIR.MEŠ LÚ.KÚR.MEŠ-ŠU iēr nu=kan Zidantan addaššan [kuenta]' - the gods made Ammuna, his own son, his enemy, and he killed Zidanta his father."}
+      - {motif: famine-for-bloodguilt, refs: ["CTH 19 W3:{€1}_obv._II_5-{€1}_obv._II_6"], note: "'nan kiššar[išši ḫalkiuš] GEŠTIN.ḪI.A-uš GU4.ḪI.A-uš UDU.ḪI.A-uš UL [...]' - in his hand grain, vines, cattle and sheep did not [prosper]; ḫalkiuš restored from W9 I 4' (kiššarišši ḫalkiuš)."}
+      - {motif: land-turns-hostile-campaigns-fail, refs: ["CTH 19 W3:{€1}_obv._II_7-{€1}_obv._II_10"], note: "The land became hostile to him: Arzawa, Šallapa ...; wherever the troops went on campaign they did not come back successful."}
+      - {motif: regicide-chain, refs: ["CTH 19 W3:{€1}_obv._II_11-{€1}_obv._II_15"], note: "Zuru chief of the bodyguard, Tittiya, Taruḫšu ... with his sons: the series of murders as in W2 II 5-9; II 24''-31'' only line beginnings (Laḫḫa)."}
+    hints:
+      - "Famine and failure of crops and herds for royal bloodguilt: 2 Sam 21:1-14 (three years of famine for Saul's blood on the Gibeonites); Deut 28:17-18 (cursed your basket, the young of your cattle and flocks); Hag 1:10-11."
+      - "Son who murders his father the king: 2 Kgs 19:37 // Isa 37:38 (Sennacherib killed by his sons); 2 Chr 32:21."
+      - "The murderer's line repaid in kind: 1 Kgs 16:1-13 (the house of Baasha); 1 Kgs 21:19 ('where dogs licked the blood of Naboth')."
+  - id: ane-cth-19-w3-storehouses
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W3: the seal-house towns (34) and the storehouse decree"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W3, KBo 19.96+"
+    read: ["CTH 19 W3:{€1}_rev._III_1-{€1+2}_rev._III_15"]
+    tags:
+      - {motif: royal-storehouse-towns-listed, refs: ["CTH 19 W3:{€1}_rev._III_1-{€1}_rev._III_8"], note: "Kuwanna, Laḫurama, Ḫaraḫara, Mallitaškuriya, Tipala, Kurša-, Tamluta, Pikumiya, Ḫalippaššuwa ... 'ŠU.NÍGIN 34 URU.DIDLI.ḪI.A É [NA4.KIŠIB]' - in total 34 towns of the seal-house; this second list closes with its own total."}
+      - {motif: oppressors-drink-blood-of-land, refs: ["CTH 19 W3:{€1}_rev._III_9-{€1+2}_rev._III_15"], note: "'našta utnē ešḫar akk[uškir] kinuna namma lē eššanzi' - they drank the blood of the land; now let them no longer do so; whoever does it, let them give him evil."}
+  - id: ane-cth-19-w3-laws
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W3: laws on dividing the estate, on blood, and on sorcery in the family"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W3, KBo 19.96+"
+    read: ["CTH 19 W3:{€1}_rev._IV_1'-{€1}_rev._IV_26'"]
+    tags:
+      - {motif: son-demanding-share-while-parents-live-expelled, refs: ["CTH 19 W3:{€1}_rev._IV_9'-{€1}_rev._IV_18'"], note: "Difficult and broken, read with the glosses and the Akkadian W7 rev. IV 19''-23'': 'when fathers and mothers die, the companions (ATḪŪ) ... a festival'; 'later they began to divide (šarriyawan dāer) in the house' and were no longer in awe, 'therefore they went mad (šiuniyaḫḫati?)'; 'kinuna kit pandalaz: mān=aš attiš ḫuišwanteš šarranaš [šer] kuwatka weriyezzi kuit=ašta šarranna KAxU-az weriyezzi našta É-erza parā peššiyandu naš=kan šarranaz=pat šamendu' - now from this time on, if while the fathers are alive one calls for division, whatever he calls for with his mouth: let them throw him out of the house and let him forfeit his share. Interpretive."}
+      - {motif: blood-owner-chooses-death-or-compensation, refs: ["CTH 19 W3:{€1}_rev._IV_19'-{€1}_rev._IV_21'"], note: "'išḫanašša uttar kiššan kuiš ešḫar iēzzi nu kuit ešḫanaš=pat išḫāš tezzi takku tezzi akuwaraš naš aku takku tezzi=ma šarnikdu=wa nu šarnikdu LUGAL-i=ma=pa lē kuitki' - the law of blood: whoever sheds blood, what the lord of the blood says: if he says 'let him die', he shall die; if he says 'let him pay compensation', he shall pay; but to the king nothing."}
+      - {motif: sorcery-in-family-brought-to-palace-gate, refs: ["CTH 19 W3:{€1}_rev._IV_22'-{€1}_rev._IV_26'"], note: "'Ḫattuši alwanzannaš našta uddār parkunuškatten' - in Hattusa clean up the cases of sorcery; 'kuiš=za ḫaššannan ištarna alwanzatar šakki šumeš=an ḫaššannanza epten nan ANA KÁ É.GAL uwatetten' whoever in the family knows sorcery, you of the family seize him and bring him to the palace gate; whoever does not bring him, 'apēdani UN-ši=pat idalaweszi' it will go badly for that very man."}
+    hints:
+      - "A son claiming his share while the father lives: Luke 15:11-13 (the prodigal); Sir 33:20-24 [19-23] (do not give your property to a son while you live; distribute it at the time of death); Deut 21:15-17."
+      - "Homicide and the next of kin who decides: Num 35:19-21, 31 (no ransom for a murderer; contrast the Hittite choice of compensation); Deut 19:12 (the elders hand him to the avenger of blood); 2 Sam 14:5-11 (the woman of Tekoa pleads with the king against the blood avenger); Exod 21:30 (ransom); Q 2:178 (retaliation or compensation remitted by the victim's kin)."
+      - "Sorcery and the duty of kin to hand over the offender: Exod 22:17 [18]; Deut 13:7-12 [6-11] (your brother, son, daughter or wife who entices you: your hand first against him); Deut 18:10-11; Lev 20:27; to the gate: Deut 21:19, 22:24."
+  - id: ane-cth-19-w4-officials
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W4: the exhortation to the palace officials"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W4, KBo 19.97+"
+    read: ["CTH 19 W4"]
+    tags:
+      - {motif: executed-plotters-as-warning-sign, refs: ["CTH 19 W4:{€1+2}_5'-{€1+2}_7'"], note: "'kī uttar šumāš EGIR [...] Taḫurwailiš Ta[ruḫšušša] INA PANI-KUNU GISKIM-iš e[šdu]' - (take) this matter to heart; let Taḫurwaili and Taruḫšu be a sign before you."}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["CTH 19 W4:{€1+2}_8'-{€1+2+3}_12'/4'"], note: "If anyone does evil, whether chief of the house or chief of the palace servants, chief of the bodyguard, chief of the thousand, 'šumāš=a pankuš ... nu=šmaš=šan UZU.KAxUD-it karepten' - you, the panku, devour him with your teeth."}
+      - {motif: assembly-judges-royal-crimes, refs: ["CTH 19 W4:{€1+2+3}_13'/5'-{€2}_18'"], note: "In Hattusa the great men (LÚ.MEŠ GAL-TIM), chief of the house, chief of palace servants, of the wine, of the heralds, of the golden grooms are addressed as the panku."}
+  - id: ane-cth-19-w5-prologue-hantili
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W5: the prologue; the queen of Šukziya murdered, Ḫantili's revenge, Zidanta kills Pišeni"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W5, KBo 3.67+"
+    read: ["CTH 19 W5:{€1}_obv._I_1-{€1}_obv._II_14"]
+    tags:
+      - {motif: kingdom-strong-while-royal-kin-united, refs: ["CTH 19 W5:{€1}_obv._I_1-{€1}_obv._I_6"], note: "'[UM-MA] tabarna Telipinu LUGAL GAL karū Labarnaš LUGAL GAL ešta' ... 'nu utnē tepu ešta' - the best-preserved opening."}
+      - {motif: princes-sent-to-govern-cities, refs: ["CTH 19 W5:{€1+2}_obv._I_8-{€1+2}_obv._I_12"]}
+      - {motif: royal-woman-murdered-with-her-sons, refs: ["CTH 19 W5:{€1}_obv._II_1-{€1}_obv._II_5"], note: "'parā duddumili uiyat' he sent secretly: 'MUNUS.LUGAL Šukziya=wa aku' - 'let the queen of Šukziya die'; when Ḫantili [heard?] he searched: 'kuiš=war=aš=kan k[uenta]' who killed her? The chief of the palace servants brought the news (ḫalugan udaš)."}
+      - {motif: blood-avenger, refs: ["CTH 19 W5:{€1}_obv._II_5-{€1}_obv._II_7"], note: "The killers' family was gathered (anda taruppēr), [taken to] Tagarama, 'nu=šš=an ḫaḫḫallaš parḫer' they chased them into the thornbushes, and they died (še a[ker]); king as avenger of the queen."}
+      - {motif: gods-seek-the-kings-blood, refs: ["CTH 19 W5:{€1}_obv._II_11-{€1}_obv._II_13"], note: "Zidanta killed the son of Ḫantili (Pišeni) with his sons and servants and became king; 'Pišeniyaš išḫar šanḫer' they (the gods) sought the blood of Pišeni, and 'the gods made [his son] his enemy'."}
+      - {motif: regicide-chain, refs: ["CTH 19 W5:{€1}_obv._II_8-{€1}_obv._II_11"], note: "'mān Ḫantiliš=a LÚ.ŠU.GI kikkiššuwan dāiš' when Ḫantili began to grow old (and die) ..."}
+    hints:
+      - "A king avenges a murder in the royal family and executes the killers: 2 Sam 4:5-12 (David executes Ishbaal's murderers); 2 Kgs 14:5."
+      - "Murder of a queen and her sons: 2 Kgs 11:1 (Athaliah destroys the royal seed); Judg 9:5 (Abimelech kills his seventy brothers)."
+  - id: ane-cth-19-w5-storehouses-laws
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W5: seal-houses, the law of blood, sorcery; colophon 'first tablet of Telipinu, complete'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W5, KBo 3.67+"
+    read: ["CTH 19 W5:{€3}_rev._III_1-{€1}_rev._IV_16'"]
+    tags:
+      - {motif: royal-storehouse-towns-listed, refs: ["CTH 19 W5:{€3}_rev._III_1-{€3+4}_rev._III_7/4", "CTH 19 W5:{€1+4}_rev._III_1/5"], note: "Laḫḫurama, Ḫaraḫara, Mallitaškuriya, Ḫaršuwa, Tipala, Šuwanzuwanna, Tamluta, Dammašḫuna, Šiḫarna, Ḫalippaššuwa, Kalašmiya, Ḫulanta: 'ŠU.NÍGIN 34 URU.DIDLI.ḪI.A ŠA É [NA4.KIŠIB]'; 'nu=ššan ḫalkiuš EGIR-an maknunun' I made the grain abundant."}
+      - {motif: oppressors-drink-blood-of-land, refs: ["CTH 19 W5:{€1+4}_rev._III_2/6-{€1}_rev._III_7"], note: "'našta utnē ešḫar akkušker' they drank the blood of the land."}
+      - {motif: curse-on-future-king-who-harms-legacy, refs: ["CTH 19 W5:{€1}_rev._III_8-{€1}_rev._III_11"], note: "'UR-RA-AM ŠE-RA-AM kuiš ammel EGIR-an ... ŠUM-aš=mit šiēški' whoever after me seals (the stores) with his name ... 'kāšma=ddu dāliyanzi' they will leave you."}
+      - {motif: son-demanding-share-while-parents-live-expelled, refs: ["CTH 19 W5:{€1}_rev._IV_1'-{€1}_rev._IV_6'"], note: "'šarri[yawan ...] ne apadda ... mān atte[š] ... weriyezzi ... našta É-erza parā p[eššiyandu] naš=kan šarraz=pat šam[endu]' - fragmentary duplicate of W3 IV 14'-18'."}
+      - {motif: blood-owner-chooses-death-or-compensation, refs: ["CTH 19 W5:{€1}_rev._IV_7'-{€1}_rev._IV_9'"]}
+      - {motif: sorcery-in-family-brought-to-palace-gate, refs: ["CTH 19 W5:{€1}_rev._IV_10'-{€1}_rev._IV_14'"], note: "Adds 'apēdani=pat UN-ši É-rišši=pat i[dalaweszi]' - it will go badly for that very man and his house."}
+  - id: ane-cth-19-w6-fragments
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W6: fragments of the succession law and the charge to the great men"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W6, KBo 7.15+"
+    read: ["CTH 19 W6"]
+    tags:
+      - {motif: king-spares-conspirators-sends-them-to-farm, refs: ["CTH 19 W6:{€1}_obv._II_1'-{€1}_obv._II_3'"], note: "'munnanzi nu=u[š ...] GIŠ.TUKUL-šuš=ta pa[ltanaz]' - weapons from the shoulder (W6 has paltana- where W2 has ZAG.UDU)."}
+      - {motif: men-of-god-denounce-bloodshed, refs: ["CTH 19 W6:{€1}_obv._II_4'-{€1+2}_obv._II_7'/obv._II_1'"]}
+      - {motif: king-forbidden-to-kill-royal-kin, refs: ["CTH 19 W6:{€1+2}_obv._II_9'/obv._II_3'-{€1+2}_obv._II_10'/obv._II_4'"]}
+      - {motif: succession-law-sons-then-daughters-husband, refs: ["CTH 19 W6:{€1+2}_obv._II_11'/obv._II_5'-{€2}_obv._II_9'"], note: "Variant: 'ḫantezziyaš=pat DUMU.LUGAL DUMU.MEŠ.NITA kikkištaru' with the plural of sons."}
+      - {motif: executed-plotters-as-warning-sign, refs: ["CTH 19 W6:{€2}_rev._III_1'-{€2}_rev._III_6'"], note: "'šumāš=a pankuš anda epten UZU.KAxUD-it kariptten' - you panku seize him and devour him with the teeth."}
+      - {motif: royal-storehouse-towns-listed, refs: ["CTH 19 W6:{€2}_rev._III_7'-{€2}_rev._III_14'"], note: "The great officials 'who are great in the (king's) house, later let them take them'; 'Ḫattuši=ma wedanteš URU.DIDLI.ḪI.A paḫḫašnuwanteš nu=š lē tarnatti' in Hattusa the built (fortified) towns are protected, do not abandon them; 'ḫalkiya=ma=at 10-iš 20-iš naešḫut' turn it to the grain ten, twenty times(?)."}
+  - id: ane-cth-19-w7-akkadian-prologue
+    tradition: ane-hittite
+    title: "Telipinu Proclamation, Akkadian version W7: prologue, Hurrian invasion, the murder of Ḫarapšili and her sons"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "W7, KBo 71.215+ (Akkadian version)"
+    read: ["CTH 19 W7:{€1+2}_obv._I_1'-{€5}_obv._II_7''"]
+    tags:
+      - {motif: kingdom-strong-while-royal-kin-united, refs: ["CTH 19 W7:{€1+2}_obv._I_1'-{€1+2}_obv._I_4'"], note: "'umma tabarna Telipinu šarru rabû pānānum Labarna šarru rabû u mārūšu aḫḫūšu ḫatnūšu kimtūšu u ummānātušu paḫru ippašū u mātātum ṣeḫru ibbašû' - his sons, brothers, in-laws, kin and troops were gathered (united), and the lands were small."}
+      - {motif: enemy-lands-made-borders-of-sea, refs: ["CTH 19 W7:{€1+2}_obv._I_7'-{€1+2}_obv._I_8'"], note: "'mātātim uḫtanalliq mātātim urappiš u mātātim ana ZAG A.AB.BA ēpuš' - he destroyed the lands, enlarged the lands and made the lands the border of the sea."}
+      - {motif: princes-sent-to-govern-cities, refs: ["CTH 19 W7:{€1+2}_obv._I_9'-{€1+3}_obv._I_13'/3'"], note: "'u mārū šarri mannu ina manni mātātim illak' - and which of the king's sons goes to which land: Ḫupišna, Landa, Zallara, Lušna."}
+      - {motif: land-turns-hostile-campaigns-fail, refs: ["CTH 19 W7:{€5}_obv._I_3''-{€5}_obv._I_10''"], note: "Blood of Mursili (damma ša Muršili); the Hurrians with donkeys(?) attacked the land of Hatti and roamed inside the land; 'LÚ.MEŠ ḫurri ištu mātiya ukaššidu' the Hurrians were driven from my land."}
+      - {motif: royal-woman-murdered-with-her-sons, refs: ["CTH 19 W7:{€5}_obv._I_11''-{€2+4}_obv._II_10'"], note: "Ḫarapšili with her sons in Šugazziya; the queen fell ill; Ilaliuma, a palace servant; the queen was told 'limmut-mi' (let her die), they seized her with her sons; Ḫantili searched 'who killed them?'; Ilaliuma's family was seized and taken to Tagalaḫa and driven into the kazziru (thorns?)."}
+      - {motif: gods-seek-the-kings-blood, refs: ["CTH 19 W7:{€4}_obv._II_11'-{€3+4}_obv._II._3'/15'"], note: "'Ḫanteli ištīb ana šīmtišu illik' Ḫantili grew old and went to his fate; Pišeni son of Ḫantili with his sons was killed; 'ītelī DINGIR.MEŠ ša Pišeni' the gods of Pišeni rose up (?) - restored."}
+      - {motif: famine-for-bloodguilt, refs: ["CTH 19 W7:{€3}_obv._II_5'-{€3}_obv._II_9'"], note: "Under Ammuna, (the blood) of Zidanta; 'šeʾam GIŠ.GEŠTIN.MEŠ' grain and vines; the lands, Adaniya - the Akkadian parallel to W3 II 5-8, fragmentary."}
+  - id: ane-cth-19-w7-akkadian-famine-laws
+    tradition: ane-hittite
+    title: "Telipinu Proclamation, Akkadian version W7: famine, granaries, sumptuary rules, laws on division and sorcery"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "W7, KBo 71.215+ (Akkadian version)"
+    read: ["CTH 19 W7:{€5}_rev._III_1'-{€2}_rev._IV_31''"]
+    tags:
+      - {motif: famine-in-kings-reign, refs: ["CTH 19 W7:{€2}_rev._III_9''-{€2}_rev._III_21''"], note: "'kīme Teli[pinu ...] u nebrītu ... ibbašû' - when (under) Telipinu famine (nebrītu) came about; towns Ḫaurkina, Kaperuḫa; 'ŠE.ḪI.A-am lā ...' grain not ...; 'kīme nebrītu ana mātātim ibbašû' when famine came on the lands; the king in the cities; 'līrišu ... limḫaṣū ... mātum liḫtû' let them plough ... let the land ..."}
+      - {motif: royal-storehouse-towns-listed, refs: ["CTH 19 W7:{€5}_rev._IV_7'-{€5}_rev._IV_17'"], note: "'É NA4.KIŠIB' seal-house; 'NA4.KIŠIB LÚ.MEŠ AGRIG' the seal of the stewards; '½ PA ŠE umadd[ad]' half a parīsu of grain he shall measure out; rations measured by the stewards."}
+      - {motif: son-demanding-share-while-parents-live-expelled, refs: ["CTH 19 W7:{€6}_rev._IV_13''-{€2}_rev._IV_23''"], note: "'ana zuzzi mammān=ma ilabbiru ana šīmtišunu ... mārūšunu izuzzu' when someone grows old and goes to his fate, their sons shall divide; '... ana abi ummi izzuzzu ... abu ummu balṭū u zuzza ... ša zuzza iqabbi ḪA.LA-šu=ma lū šūtuq' - (if) while father and mother are alive (someone says) 'division!', he who says 'division', his share shall be forfeit."}
+      - {motif: blood-owner-chooses-death-or-compensation, refs: ["CTH 19 W7:{€2}_rev._IV_24''-{€2}_rev._IV_26''"], note: "'[...] dammam eppuš ... [limū]t-mi u limūt ... ana šarri lā mimma' - (who) commits blood ... (if he says) 'let him die', he shall die ... to the king nothing."}
+      - {motif: sorcery-in-family-brought-to-palace-gate, refs: ["CTH 19 W7:{€2}_rev._IV_27''-{€2}_rev._IV_31''"], note: "'[kašš]apūtam īde attunu ša kimtišunu lū tubbalānišu limmut' - (whoever) knows sorcery, you who are of his family must bring him; let him die."}
+    hints:
+      - "Famine in the reign of a king and the royal response: Gen 41:53-57; 2 Kgs 6:25-7:20; 2 Kgs 8:1-6; Ruth 1:1."
+      - "Prodigal son and the forfeited share: Luke 15:12; Sir 33:20-24."
+      - "Sorcerer to be put to death, handed over by kin: Exod 22:17 [18]; Deut 13:7-12 [6-11]."
+  - id: ane-cth-19-w8-w10-fragments
+    tradition: ane-hittite
+    title: "Telipinu Proclamation W8-W10: small duplicates (Zidanta and Ammuna, storehouses, princes' estates, assembly)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "W8 KUB 11.5, W9 KUB 11.6, W10 VBoT 107"
+    read: ["CTH 19 W8", "CTH 19 W9", "CTH 19 W10"]
+    tags:
+      - {motif: gods-seek-the-kings-blood, refs: ["CTH 19 W8:obv._8'-obv._11'", "CTH 19 W9:obv._I_2'-obv._I_4'"], note: "'DINGIR.MEŠ-iš addaš Zidantaš ešḫaršet [šanḫer]' the gods (sought) his father Zidanta's blood; W9 'DINGIR.MEŠ-iš attaššaš Zidantaš ... kiššarišši ḫalkiuš'."}
+      - {motif: famine-for-bloodguilt, refs: ["CTH 19 W8:obv._12'-obv._13'", "CTH 19 W9:obv._I_4'"], note: "'GIŠ.GEŠTIN.ḪI.A-uš GU4.ḪI.A-uš UDU.ḪI.A-uš ... kiššari' vines, cattle, sheep in his hand (did not prosper)."}
+      - {motif: land-turns-hostile-campaigns-fail, refs: ["CTH 19 W8:obv._14'-obv._16'"]}
+      - {motif: curse-on-future-king-who-harms-legacy, refs: ["CTH 19 W8:rev._1-rev._6"], note: "Whoever becomes king after me (and seals) the grain stores: the stewards of the seal-house will say 'there is none'."}
+      - {motif: property-of-executed-not-confiscated, refs: ["CTH 19 W9:obv._II_1'-obv._II_12'"], note: "W9 variant: 'ŠA DUMU.LUGAL izzan GIŠ-ru UL āra' - (to take) a prince's straw or wood is not right; the estates (garden, vineyards, servants) listed as in W2 II 57-58."}
+      - {motif: not-a-straw-taken, refs: ["CTH 19 W9:obv._II_7'"], note: "'izzan GIŠ-ru' 'chaff (and) wood': not even a straw of a prince's property may be taken - the same figure as in CTH 51.I §6:94."}
+      - {motif: executed-plotters-as-warning-sign, refs: ["CTH 19 W9:obv._II_13'-obv._II_17'"]}
+      - {motif: assembly-judges-royal-crimes, refs: ["CTH 19 W10:1'-4'"], note: "'pangariyattati ... tuliyan ... ḫaššannaš' - blood became common, the assembly, the family."}
+    hints:
+      - "Not a thread nor a sandal-strap: Gen 14:23; compare 1 Sam 12:3-4 (whose ox have I taken?)."
+  # ---------------------------------------------------------------- CTH 25
+  - id: ane-cth-25-zidanza-pilliya
+    tradition: ane-hittite
+    title: "Treaty of Zidanza II with Pilliya of Kizzuwatna (CTH 25)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 25 §1", "CTH 25 §2", "CTH 25 §3", "CTH 25 §4", "CTH 25 §5", "CTH 25 §6"]
+    tags:
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 25 §1:1-6"], note: "'dUTU-ŠI LUGAL.GAL Zidanza ... Ù Pilliya LUGAL KUR Kizzuwatna takšul ier ... kiššan takšer' - they made peace (takšul) and agreed thus: the towns I took shall be My Majesty's alone; the towns of Pilliya that I took shall be Pilliya's alone."}
+      - {motif: border-towns-not-to-be-fortified, refs: ["CTH 25 §2:7-13"], note: "Fortified towns (witantuš URU.DIDLI.ḪI.A) that I hold, Pilliya shall not fortify; '[n]ašta lingain šarratti' - (if you do) you break the oath."}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 25 §6:21"], note: "Only 'dTatašš[una ...]' survives from the closing god list."}
+    hints:
+      - "A non-aggression pact over towns between neighbouring kings: 1 Kgs 20:34 (Ben-hadad restores the towns his father took); 1 Kgs 15:19-20."
+  # ---------------------------------------------------------------- CTH 26
+  - id: ane-cth-26-paddatissu-fugitives
+    tradition: ane-hittite
+    title: "Treaty with Paddatiššu of Kizzuwatna (CTH 26): fugitives, envoys, plotters and migrating settlements"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 26 §1", "CTH 26 §2", "CTH 26 §3", "CTH 26 §4", "CTH 26 §5", "CTH 26 §6"]
+    tags:
+      - {motif: treaty-return-fugitives, refs: ["CTH 26 §2:15-22"], note: "'šumma ÌR ša Paddatiššu ana SAG.DU bēlišu ippallas ana KUR Ḫatti irrub ... ibʾiranni-mi lū tēršu-mi' - if a servant plots against his lord's head and enters Hatti, and Paddatiššu writes 'he rebelled against me, give him back!', if the word is true, they return the fugitive."}
+      - {motif: fugitive-returned-after-notables-swear, refs: ["CTH 26 §1:9-14", "CTH 26 §2:23-28"], note: "If the fugitive denies ('I did not rebel'), 'awatum išâr' he lies(?); the notables (LÚ.MEŠ SIG5-ūti) of the land whom the other king demands for the oath 'nīš ilāni ušazkarū' are made to swear, and the fugitive is returned."}
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 26 §1:1-14", "CTH 26 §3:29-32", "CTH 26 §4:33-40", "CTH 26 §5:41-48"]}
+      - {motif: envoy-not-harmed-or-bewitched, refs: ["CTH 26 §3:29-32"], note: "Whether the great king sends his son or his servant, 'lemuttam lā ippuššu' he shall do him no harm, and vice versa."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 26 §4:33-40"], note: "If a servant of one king plots against his lord's life while staying in that land and the other king hears it, 'ana LUGAL GAL iqabbišu' he will name him to the great king."}
+      - {motif: deserted-settlement-returned, refs: ["CTH 26 §5:41-48"], note: "If a town of the great king 'qadu MUNUS.NITA.MEŠ-šu dumqišu GUD.ḪI.A-šu USDUḪA.ḪI.A-šu itebbi' sets out with its people, goods, cattle and sheep and enters Kizzuwatna, Paddatiššu seizes it and returns it."}
+      - {motif: fugitive-returned-after-notables-swear, refs: ["CTH 26 §6:49-66"], note: "Malicious report (ina sarrūtišu iqabbi) that a whole town migrated, when herders remained in it: a notable swears an oath and the people (MUNUS.NITA.MEŠ) are returned."}
+    hints:
+      - "Return of runaways between kings: 1 Kgs 2:39-40 (Shimei's slaves who fled to Achish king of Gath are brought back); contrast Deut 23:16-17 [15-16] (do not hand back a slave who has escaped to you)."
+      - "Envoys mistreated as a cause of war: 2 Sam 10:1-6 (Hanun shames David's envoys)."
+  - id: ane-cth-26-paddatissu-theft-homicide
+    tradition: ane-hittite
+    title: "Treaty with Paddatiššu (CTH 26): cattle theft by herdsmen, thieves, homicide 'a man like the man'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 26 §7", "CTH 26 §8", "CTH 26 §9", "CTH 26 §10", "CTH 26 §11"]
+    tags:
+      - {motif: theft-repaid-twofold, refs: ["CTH 26 §7:67-74", "CTH 26 §8:78-85"], note: "Herdsmen who cross with cattle into the other's territory and steal: '[šu]rqu ša išarriqū 2-šu ana bēlišu umallû u 30 GÍN KÙ.BABBAR inandin' - they shall repay the stolen goods twofold to its owner and give 30 shekels of silver; if he does not pay he is a thief (LÚ.NÍ.ZU) and is seized."}
+      - {motif: border-thief-killed, refs: ["CTH 26 §7:75-77", "CTH 26 §8:86-88"], note: "'lā LÚ.SIPA GUD.ḪI.A ana šarāqi illak u idakkūšu' - one who is no cowherd and goes to steal: they kill him."}
+      - {motif: homicide-compensated-person-for-person, refs: ["CTH 26 §9:89-95", "CTH 26 §10:96-102"], note: "If a man of Hatti kills a man of Kizzuwatna with a bronze lance, dagger or axe, or sells him (ana šīmi inandin), or strikes him with a strong hand and he dies, 'LÚ kīma LÚ inandin' he shall give a man like the man."}
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 26 §7:67", "CTH 26 §8:78", "CTH 26 §9:89", "CTH 26 §10:96"]}
+    hints:
+      - "Double restitution for theft: Exod 22:3 [4] and 22:6-8 [7-9] (the thief pays double); contrast Exod 21:37 [22:1] (five oxen for an ox)."
+      - "Kidnapping and selling a man: Exod 21:16; Deut 24:7 (death penalty). Compensation by a person: Exod 21:23 ('life for life'), 21:30 (ransom), Num 35:31 (no ransom for murder)."
+      - "The thief who may be killed: Exod 22:1-2 [2-3] (the night burglar)."
+  # ---------------------------------------------------------------- CTH 41 Šunaššura
+  - id: ane-cth-41-i-1-sunassura-short
+    tradition: ane-hittite
+    title: "Treaty of Tutḫaliya I with Šunaššura, Akkadian version KBo 28.110 (CTH 41.I.1): the ox and its stall, the tablet, the gods"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "CTH 41.I.1, Akkadian (abbreviated duplicate)"
+    read: ["CTH 41.I.1 §1", "CTH 41.I.1 §2"]
+    tags:
+      - {motif: ox-knows-its-owner, refs: ["CTH 41.I.1 §2:14-17"], note: "'[... Kizzuw]atni-ma Ḫatta GUD É GUD.Ḫ[I.A-šu ...] ana dUTU-ši isḫur' - (Kizzuwatna is) an ox of Hatti, (it knew) its stall, it turned to My Majesty; partly restored after CTH 41.I.2 §7."}
+      - {motif: own-words-turned-against-speaker, refs: ["CTH 41.I.1 §2:8-13"], note: "'lū qatamma-mi' - 'just so!' (restored context)."}
+      - {motif: vassal-released-andurarum, refs: ["CTH 41.I.1 §2:20-25"], note: "'[inan]na dUTU-ši KUR Kizzuwatni ana andurāri ...' and 'the Hurrians call you a servant (ÌR-dam išassûka); now My Majesty has made you truly a king'."}
+      - {motif: vassal-sees-kings-face-none-seated-above, refs: ["CTH 41.I.1 §2:27-29"], note: "No lord or grandee will sit above you from the throne; you shall pay My Majesty no tribute."}
+      - {motif: treaty-old-oath-tablet-erased-new-made, refs: ["CTH 41.I.1 §2:78-82"], note: "'tuppu ša nīš ilim ša ēpiš lū nipaššiṭšu awat LÚ Ḫurri lū ninassuk ... u tuppam šaniyamma nippuš' - the tablet of the oath that was made we erase, the Hurrian's word we reject, and we make another tablet."}
+      - {motif: messenger-words-must-match-tablet, refs: ["CTH 41.I.1 §2:83-90"]}
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 41.I.1 §2:46-77"]}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 41.I.1 §2:95-98"], note: "Sun goddess of Arinna, storm god of Hatti, LAMMA of Hatti, storm god of Aleppo, Ḫebat, the moon god, Ištar, Zababa, gods of Hatti and of Kizzuwatna."}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["CTH 41.I.1 §2:99"], note: "'šamû erṣetum [...] ḪUR.SAG.DIDLI.ḪI.A u ÍD.ḪI.A' - heaven, earth, [...], mountains and rivers."}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["CTH 41.I.1 §2:99"]}
+      - {motif: curse-oathbreakers-name-and-seed-destroyed, refs: ["CTH 41.I.1 §2:95", "CTH 41.I.1 §2:100"], note: "'[ša] awat tuppi annîm ētetiq ... NUMUN-šu šumšu liḫalliqū' - whoever transgresses the words of this tablet, may (the gods) destroy his seed and his name."}
+    hints:
+      - "Ox and its stall: Isa 1:3 ('the ox knows its owner and the ass its master's crib; Israel does not know'): the Hittite uses the image for a people who return to their rightful lord."
+      - "Heaven, earth, mountains as witnesses of a covenant: Deut 4:26, 30:19, 31:28, 32:1; Isa 1:2; Mic 6:1-2 ('hear, you mountains, the controversy of YHWH')."
+      - "Name and seed destroyed: Deut 29:19 [20] (YHWH will blot out his name from under heaven); Ps 21:11 [10]; Ps 109:13; Isa 14:22."
+      - "A new tablet replacing a former covenant: Exod 34:1 (two new tablets in place of the broken ones); Jer 31:31-32."
+  - id: ane-cth-41-i-2-sunassura-prologue
+    tradition: ane-hittite
+    title: "Šunaššura treaty, Akkadian KBo 1.5 (CTH 41.I.2) §1-10: seal, historical prologue, the cattle know their stall, release and status"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "CTH 41.I.2, Akkadian KBo 1.5"
+    read: ["CTH 41.I.2 §1", "CTH 41.I.2 §2", "CTH 41.I.2 §3", "CTH 41.I.2 §4", "CTH 41.I.2 §5", "CTH 41.I.2 §6", "CTH 41.I.2 §7", "CTH 41.I.2 §8", "CTH 41.I.2 §9", "CTH 41.I.2 §10"]
+    tags:
+      - {motif: treaty-historical-prologue, refs: ["CTH 41.I.2 §2:4-6", "CTH 41.I.2 §3:7-14", "CTH 41.I.2 §5:20-25"], note: "Historical prologue: 'pānānum ana pāni abi abiya KUR Kizzuwatni ša KUR Ḫatti ibbaši; arkānum ... iptur ana KUR Ḫurri isḫur' - formerly, in my grandfather's day, Kizzuwatna belonged to Hatti, later it broke away and turned to Hurri; then Išuwa's revolt, the flight of its villagers, the Hurrian's refusal ('ÌR.MEŠ-ya tēr-mi' give back my servants - 'lā!') and his raid."}
+      - {motif: ox-knows-its-owner, refs: ["CTH 41.I.2 §4:18-19", "CTH 41.I.2 §7:33-36"], note: "First in the Hurrian's mouth: 'inanna-mi appunamma GUD.ḪI.A É GUD.ḪI.A-šunu uwaddûnim-mi' - now at last the cattle have recognized their stall (and come to my land); then turned against him: 'inanna KUR Kizzuwatni ša Ḫatti GUD.ḪI.A u É GUD.ḪI.A-šunu uwaddûnim ... ana dUTU-ši isḫurū' - now Kizzuwatna are cattle of Hatti, they recognized their stall, broke from the Hurrian and turned to My Majesty."}
+      - {motif: own-words-turned-against-speaker, refs: ["CTH 41.I.2 §6:27-32"], note: "'šumma-mi ana kâšum KUR-tum ayyumma ištu ittika ipaṭṭar-mi ana KUR Ḫatti isaḫḫur-mi u kī awatum annûmmu-mi' - if a land breaks away from you and turns to Hatti, how is this matter? - the Hurrian replied 'lū qatamma-mi' 'Just so!'."}
+      - {motif: treaty-breaker-punished-by-gods, refs: ["CTH 41.I.2 §6:26", "CTH 41.I.2 §7:37-38"], note: "'LÚ Ḫurri nīš ilāni ītetiq' the Hurrian transgressed the oath of the gods; he sinned (ēḫṭi) against Hatti and very greatly against Kizzuwatna. Here the breach is the legal ground, not yet a punishment."}
+      - {motif: vassal-released-andurarum, refs: ["CTH 41.I.2 §8:39-41"], note: "Kizzuwatna rejoiced greatly at its release (ina piṭrīš irtīšu); 'inanna KUR Ḫatti u KUR Kizzuwatni ištu nīš ilāni lū paṭrū' now they are freed from the oath; 'ana andurāri uttaššeršunušu' My Majesty has set them in release (andurāru)."}
+      - {motif: vassal-sees-kings-face-none-seated-above, refs: ["CTH 41.I.2 §9:42-48"], note: "'LÚ.MEŠ Ḫurri Šunaššura ÌR-dam išassûšu u inanna dUTU-ši kittam LUGAL-am ipussu' the Hurrians call Šunaššura a slave, but My Majesty has made him truly king; when he comes before My Majesty 'IGI.ḪI.A-šu ša dUTU-ši immar' he shall see My Majesty's face, and none of the grandees will sit above him from the throne."}
+    hints:
+      - "Historical prologue of a covenant recounting the overlord's benefits and the partner's past: Deut 1-3; Josh 24:2-13; Exod 20:2 ('who brought you out of the house of slaves'); 1 Sam 12:6-11."
+      - "Cattle recognizing their stall: Isa 1:3; Jer 8:7 (the stork knows her seasons, but my people know not)."
+      - "Judged out of his own mouth: 2 Sam 12:1-7 (Nathan: 'you are the man'); 1 Kgs 20:39-42; Luke 19:22."
+      - "Release (andurāru) from a former master's claim: Lev 25:10 (proclaim liberty, dĕrôr); Jer 34:8-17; Isa 61:1."
+      - "Seeing the king's face, the seat above the other kings: 2 Kgs 25:28 (Jehoiachin's throne set above the kings with him); Esth 1:14 (who saw the king's face and sat first); Gen 43:3; 2 Sam 14:24."
+  - id: ane-cth-41-i-2-sunassura-mutual
+    tradition: ane-hittite
+    title: "Šunaššura treaty CTH 41.I.2 §11-47: mutual protection, enemies, booty, aid, reporting, envoys"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "CTH 41.I.2, Akkadian KBo 1.5"
+    read: ["CTH 41.I.2 §11", "CTH 41.I.2 §12", "CTH 41.I.2 §13", "CTH 41.I.2 §14", "CTH 41.I.2 §15", "CTH 41.I.2 §16", "CTH 41.I.2 §17", "CTH 41.I.2 §18", "CTH 41.I.2 §19", "CTH 41.I.2 §20", "CTH 41.I.2 §21", "CTH 41.I.2 §22", "CTH 41.I.2 §23", "CTH 41.I.2 §24", "CTH 41.I.2 §25", "CTH 41.I.2 §26", "CTH 41.I.2 §27", "CTH 41.I.2 §28", "CTH 41.I.2 §29", "CTH 41.I.2 §30", "CTH 41.I.2 §31", "CTH 41.I.2 §32", "CTH 41.I.2 §33", "CTH 41.I.2 §34", "CTH 41.I.2 §35", "CTH 41.I.2 §36", "CTH 41.I.2 §37", "CTH 41.I.2 §38", "CTH 41.I.2 §39", "CTH 41.I.2 §40", "CTH 41.I.2 §41", "CTH 41.I.2 §42", "CTH 41.I.2 §43", "CTH 41.I.2 §44", "CTH 41.I.2 §45", "CTH 41.I.2 §46", "CTH 41.I.2 §47"]
+    tags:
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 41.I.2 §11:55-60", "CTH 41.I.2 §12:61-66", "CTH 41.I.2 §19:105-107", "CTH 41.I.2 §20:108-110"], note: "Every clause is given twice with the kings' names exchanged, e.g. 'dUTU-ši LUGAL GAL Šunaššura ul ibaʾʾaršu ul inakkiršu' and 'Šunaššura LUGAL GAL ul ibaʾʾaršu ul inakkiršu'."}
+      - {motif: love-overlord-as-own-soul, refs: ["CTH 41.I.2 §11:57-58", "CTH 41.I.2 §12:63-64"], note: "'kīmê dUTU-ši SAG.DU-sú KUR-sú inaṣṣaršu ša Šunaššura KUR-sú SAG.DU-sú qatamma inaṣṣar' - as My Majesty guards his own head and land, so will he guard Šunaššura's; protection, not love, but the 'as his own head' measure."}
+      - {motif: overlord-guarantees-vassals-chosen-heir, refs: ["CTH 41.I.2 §11:59-60", "CTH 41.I.2 §12:65-66"], note: "'ayyumê DUMU.NITA-šu ša Šunaššura ana LUGAL-rūtim ... iqabbišu dUTU-ši šūt ana LUGAL-rūtim inaṣṣaršu' - whichever son Šunaššura names for kingship, My Majesty will protect him in the kingship."}
+      - {motif: treaty-fight-kings-enemy, refs: ["CTH 41.I.2 §13:67-73", "CTH 41.I.2 §23:117-120", "CTH 41.I.2 §37:180-183", "CTH 41.I.2 §38:184-187"], note: "'kīmê ana dUTU-ši LÚ.KÚR-šu ana Šunaššura qatamma LÚ.KÚR-šu itti ḫammiš taḫazzam ippušū' - as he is My Majesty's enemy, so he is Šunaššura's; together they will fight."}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["CTH 41.I.2 §14:74-78", "CTH 41.I.2 §17:93-97", "CTH 41.I.2 §39:188-189", "CTH 41.I.2 §40:190-191"], note: "Rebel against the king's head seized and killed or handed over; 'mannumê itti dUTU-ši bārtam eppuš anāku Šunaššura ubaʾʾāšu' whoever rebels against My Majesty I, Šunaššura, will call to account."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 41.I.2 §19:105-107", "CTH 41.I.2 §21:111-113", "CTH 41.I.2 §43:194-195", "CTH 41.I.2 §44:196-197"]}
+      - {motif: vassal-keeps-booty-from-rebel-neighbours, refs: ["CTH 41.I.2 §24:121-123", "CTH 41.I.2 §25:124-127", "CTH 41.I.2 §31:148-152"], note: "'maršīt URU NAM.RA.ḪI.A ... ileqqe mamma ul imaḫḫaršu; URU epru ša dUTU-ši=ma' - the goods and captives each army takes it keeps, no one opposes; but the town itself is My Majesty's territory."}
+      - {motif: treaty-overlord-promises-military-help, refs: ["CTH 41.I.2 §29:141-142", "CTH 41.I.2 §32:155-156", "CTH 41.I.2 §36:174-179"], note: "If Šunaššura asks My Majesty for auxiliary troops, My Majesty will give them; if he is busy, 'ana pāni ÉRIN.MEŠ ḫurādiya bēlu GAL ašappar' I will send a great lord at the head of my ḫurādu troops."}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["CTH 41.I.2 §35:167-173"], note: "If a strong hostility rises against My Majesty and the enemy enters 'ina nakbatišu' in force, 'Šunaššura qadu ÉRIN.MEŠ ḫurādika ana tillutiya alkam' come to my help with your ḫurādu troops; if you have business, 'DUMU.NITA-ka šupur' send your son."}
+      - {motif: envoy-not-harmed-or-bewitched, refs: ["CTH 41.I.2 §45:198-200", "CTH 41.I.2 §46:201-203"], note: "'ana šammi kišpi mimma ul ibaʾʾaršu' - he will not seize him with any herb of sorcery."}
+      - {motif: brothers-dwell-together-in-unity, refs: ["CTH 41.I.2 §41:192", "CTH 41.I.2 §42:193", "CTH 41.I.2 §47:204-205"], note: "'KUR Ḫatti u KUR Kizzuwatni lū summuḫū atterūtam ina birišunu lū iteneppušū' - Hatti and Kizzuwatna are truly united (mixed), let them keep friendship between them; neither shall stir up evil revolt against the other 'ina arki ūmi' in days to come."}
+      - {motif: treaty-binds-future-generations, refs: ["CTH 41.I.2 §41:192", "CTH 41.I.2 §42:193"]}
+    hints:
+      - "Mutual defence pact: 1 Kgs 22:4 and 2 Kgs 3:7 ('I am as you are, my people as your people, my horses as your horses'); 1 Kgs 15:19 (a covenant between me and you, as between my father and yours)."
+      - "As his own head/soul: 1 Sam 18:1-3 (Jonathan loved him as his own soul and made a covenant); Deut 13:7 [6] (your friend who is as your own soul)."
+      - "Guaranteeing the partner's heir: 2 Sam 7:12-16; 1 Sam 20:14-17, 42 (covenant of Jonathan and David for their descendants)."
+      - "Booty divided, the land reserved: Num 31:25-47; 1 Sam 30:22-25."
+  - id: ane-cth-41-i-2-sunassura-hurri
+    tradition: ane-hittite
+    title: "Šunaššura treaty CTH 41.I.2 §48-60: war on Hurri, refusing Hurrian gifts, a new tablet, trusting messengers"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "CTH 41.I.2, Akkadian KBo 1.5"
+    read: ["CTH 41.I.2 §48", "CTH 41.I.2 §49", "CTH 41.I.2 §50", "CTH 41.I.2 §51", "CTH 41.I.2 §52", "CTH 41.I.2 §53", "CTH 41.I.2 §54", "CTH 41.I.2 §55", "CTH 41.I.2 §56", "CTH 41.I.2 §57", "CTH 41.I.2 §58", "CTH 41.I.2 §59", "CTH 41.I.2 §60"]
+    tags:
+      - {motif: town-granted-to-vassal, refs: ["CTH 41.I.2 §49:212-213", "CTH 41.I.2 §50:214-218"], note: "'epra ša URU šâšu dUTU-ši ana Šunaššura=ma anandin dUTU-ši KUR-sú lū urappaš' - the territory of that town I will give to Šunaššura, I will surely enlarge his land; of the Hurrian towns we strike, each takes what he desires."}
+      - {motif: treaty-no-peace-with-kings-enemy, refs: ["CTH 41.I.2 §50:219", "CTH 41.I.2 §51:220-224", "CTH 41.I.2 §53:229-232"], note: "Kizzuwatna will never turn to Hurri; if the Hurrian king sends gifts on Šunaššura's account, 'šulmānšu ul ammangar' I will not accept his gift, unless he releases Šunaššura 'šapal nīš ilāni' under oath, then I will exchange gifts with him."}
+      - {motif: treaty-return-fugitives, refs: ["CTH 41.I.2 §55:235-240"], note: "Inverted: whatever people of Hurri, merchants or people of Urušša, have been released into Šunaššura's hand, I will never give back to the Hurrian king, even if he asks 'ina rigmi ṭābi' with kind words."}
+      - {motif: treaty-old-oath-tablet-erased-new-made, refs: ["CTH 41.I.2 §59:255-261"], note: "'tuppu ša nīš ilāni ša ēpiš lū nipaššiṭšu awat LÚ Ḫurri lū ninassuk ... tuppam šanêam nippuš' - we erase the tablet of the oath, reject the Hurrian's word, make another tablet; and Šunaššura will no longer send his envoy to the Hurrian or admit the Hurrian envoy."}
+      - {motif: messenger-words-must-match-tablet, refs: ["CTH 41.I.2 §60:262-269"], note: "'šumma awāti ša DUMU šipri ana awāti ša ṭuppi mitḫar DUMU šipra annêam Šunaššura qīpšu; u šumma ... ul mitḫar ... lū lā taqqīpšu' - if the messenger's words agree with the tablet's, trust him; if not, do not trust him, and do not let your heart take offence (mašiktam) because of such words."}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["CTH 41.I.2 §57:244-248", "CTH 41.I.2 §58:249-254"], note: "Šunaššura's fear 'will the troops of Hatti come to my help, or will terror (pulḫutu) be set over my land?' is answered by equal quotas; for campaigns against Hurri or Arzawa he gives 100 teams of horses and 1000 foot soldiers, and My Majesty provisions them."}
+    hints:
+      - "Breaking with a former overlord's envoys and gifts: 2 Kgs 18:7 (Hezekiah rebels against Assyria); 2 Kgs 20:12-19 (envoys of Merodach-baladan); Isa 30:1-7 (envoys to Egypt)."
+      - "Testing a messenger against the written word: Deut 18:21-22 (how shall we know the word?); Jer 29:24-32 (Shemaiah's letters); Gal 1:8."
+      - "Fixed quotas of troops for the overlord: 1 Kgs 4:26-28 [5:6-8]; 2 Kgs 3:7."
+  - id: ane-cth-41-i-2-sunassura-borders
+    tradition: ane-hittite
+    title: "Šunaššura treaty CTH 41.I.2 §61-65: the frontier from the sea, measuring and dividing, the river Šamri not to be crossed"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "CTH 41.I.2, Akkadian KBo 1.5"
+    read: ["CTH 41.I.2 §61", "CTH 41.I.2 §62", "CTH 41.I.2 §63", "CTH 41.I.2 §64", "CTH 41.I.2 §65"]
+    tags:
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["CTH 41.I.2 §61:270", "CTH 41.I.2 §62:274-287", "CTH 41.I.2 §63:288-293"], note: "From the sea: Lamiya is My Majesty's, Pitura Šunaššura's; Aruna, Šaliya, Zinziluwa, Erimma, Anamušta, the mountain of Zabarašna; 'labarmanna ZAG ša killališunu=ma' the border of old belongs to both."}
+      - {motif: border-land-measured-and-divided, refs: ["CTH 41.I.2 §61:271-272", "CTH 41.I.2 §62:275-276", "CTH 41.I.2 §62:280-281", "CTH 41.I.2 §62:285-286"], note: "'ina birišunu ZAG imandadū u izâzu' - between them they will measure the border and divide."}
+      - {motif: border-towns-not-to-be-fortified, refs: ["CTH 41.I.2 §61:273", "CTH 41.I.2 §62:277", "CTH 41.I.2 §62:282", "CTH 41.I.2 §62:287"], note: "'URU Lamiya dUTU-ši ul ibanni' My Majesty will not fortify Lamiya; but Šaliya and Anamušta he may fortify."}
+      - {motif: neither-party-crosses-border, refs: ["CTH 41.I.2 §64:296-298", "CTH 41.I.2 §65:299-302"], note: "'ÍD Šamri ZAG-šu; LUGAL.GAL ina idi KUR Adaniya ÍD Šamri ul ibbir; Šunaššura ina idi KUR Ḫatti ÍD Šamra lā ibbir' - the river Šamri is the border; neither king will cross it towards the other's land."}
+    hints:
+      - "A boundary that neither party will cross: Gen 31:51-52 ('I will not pass over this heap to you, and you will not pass over this heap and this pillar to me for harm'); Judg 11:13-27 (the Arnon and Jabbok as borders)."
+      - "Borders listed town by town and by river: Num 34:1-12; Josh 15:1-12; Ezek 47:15-20."
+      - "Do not move the ancient boundary: Deut 19:14; Prov 22:28."
+  - id: ane-cth-41-i-3-and-4-fragments
+    tradition: ane-hittite
+    title: "Šunaššura treaty, further Akkadian fragments (CTH 41.I.3 and 41.I.4)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "CTH 41.I.3 and 41.I.4, Akkadian fragments"
+    read: ["CTH 41.I.3 §1", "CTH 41.I.3 §2", "CTH 41.I.4 §1", "CTH 41.I.4 §2", "CTH 41.I.4 §3", "CTH 41.I.4 §4", "CTH 41.I.4 §5"]
+    tags:
+      - {motif: treaty-return-fugitives, refs: ["CTH 41.I.3 §2:3-7", "CTH 41.I.4 §1:1"], note: "'šumma SAG.DU dUTU-ši [...] u innabit' if (someone plots against) My Majesty's head and flees ...; 'innešeraššu' ... 'utārūšu' they shall bring him back."}
+      - {motif: treaty-no-peace-with-kings-enemy, refs: ["CTH 41.I.4 §2:6", "CTH 41.I.4 §4:11-13"], note: "'[šulmān]šu ul imang[ar]' he will not accept his gift; '[nī]š ilāni kiam išakkan ... ipaṭṭar' (until) he places it under oath and releases (Kizzuwatna) - as CTH 41.I.2 §51-53."}
+  - id: ane-cth-41-ii-1-sunassura-hittite
+    tradition: ane-hittite
+    title: "Šunaššura treaty, Hittite version (CTH 41.II.1): defectors, fugitives, the penalty of twelve persons"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "CTH 41.II.1, Hittite"
+    read: ["CTH 41.II.1 §1", "CTH 41.II.1 §2", "CTH 41.II.1 §3", "CTH 41.II.1 §4", "CTH 41.II.1 §5", "CTH 41.II.1 §6", "CTH 41.II.1 §7", "CTH 41.II.1 §8", "CTH 41.II.1 §9", "CTH 41.II.1 §10"]
+    tags:
+      - {motif: treaty-return-fugitives, refs: ["CTH 41.II.1 §2:3-5", "CTH 41.II.1 §5:13-15", "CTH 41.II.1 §8:27-30"], note: "'mān=aš=ta LÚ pitteanza Ḫattušaz URU Kizzuwatni paizzi Šunaššuraš=šan ēptu nan ANA dUTU-ŠI āppa pāu' - if a fugitive goes from Hattusa to Kizzuwatna, let Šunaššura seize him and give him back to My Majesty, even if he came via a third land."}
+      - {motif: fugitive-hider-gives-twelve-persons, refs: ["CTH 41.II.1 §5:16-23", "CTH 41.II.1 §6:24-25"], note: "'mān LÚ pitteyantan=ma kuiški munnaizzi nan INA É-ŠU wemiyanzi 12 SAG.DU.ḪI.A pāi' - if anyone hides the fugitive and he is found in his house, he gives twelve persons; if he cannot find twelve, 'apun=pat ku[enzi]' they kill that very man; for a servant, if his master does not compensate, he loses the servant."}
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 41.II.1 §3:6", "CTH 41.II.1 §7:26", "CTH 41.II.1 §9:31"], note: "'Šunaššuraš=a apeniššan' - for Šunaššura (it is) the same."}
+      - {motif: treaty-no-other-king-or-lord, refs: ["CTH 41.II.1 §4:7-12"], note: "If a land, town or troop turns to My Majesty, he writes to Šunaššura 'apāš=wa ammel nu=war=an šāk' - that one is mine, take note; 'nan=kan Šunaššuraš EGIR-anna arḫa lē naiškiši' you shall not turn it away again."}
+      - {motif: treaty-return-fugitives, refs: ["CTH 41.II.1 §10:32-37"], note: "A fugitive coming from a third land who keeps calling out (ḫalziššai) [for] Hattusa: 'nan lē araizzi' he shall not stop him."}
+    hints:
+      - "Penalty for harbouring a fugitive: 1 Sam 22:6-19 (Ahimelech and the priests of Nob killed for helping David); Josh 2:3-6 (Rahab hides the spies); contrast Deut 23:16-17 [15-16]."
+  - id: ane-cth-41-ii-2-sunassura-hittite
+    tradition: ane-hittite
+    title: "Šunaššura treaty, Hittite version (CTH 41.II.2): Mittani, help 'if it suits him', fugitives, wife and children as compensation"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    version: "CTH 41.II.2, Hittite"
+    read: ["CTH 41.II.2 §1", "CTH 41.II.2 §2", "CTH 41.II.2 §3", "CTH 41.II.2 §4", "CTH 41.II.2 §5", "CTH 41.II.2 §6", "CTH 41.II.2 §7", "CTH 41.II.2 §8", "CTH 41.II.2 §9", "CTH 41.II.2 §10", "CTH 41.II.2 §11", "CTH 41.II.2 §12", "CTH 41.II.2 §13"]
+    tags:
+      - {motif: treaty-no-peace-with-kings-enemy, refs: ["CTH 41.II.2 §2:14-18"], note: "If the king of Mittani makes war on the king of Hatti, Šunaššura will give him no [troops] and 'ANA KUR-ŠU ištarna arḫa UL tarnai' will not let him pass through his land."}
+      - {motif: treaty-overlord-promises-military-help, refs: ["CTH 41.II.2 §2:19-22", "CTH 41.II.2 §3:23-27"], note: "Help is conditional: 'mān āššu nu=aš ... uizzi; mān=ši UL=ma āššu na=aš UL uizzi' - if it is good (convenient) for him he comes, if not he does not; and the same for My Majesty."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 41.II.2 §4:28-32"]}
+      - {motif: treaty-return-fugitives, refs: ["CTH 41.II.2 §9:42-45", "CTH 41.II.2 §10:46-48", "CTH 41.II.2 §13:69-72"]}
+      - {motif: fugitive-hider-gives-twelve-persons, refs: ["CTH 41.II.2 §11:49-55", "CTH 41.II.2 §12:56-61"], note: "'DAM-SÚ DUMU.MEŠ-ŠU šarnikzil pianzi' - (if the hider cannot pay) his wife and children are given as compensation."}
+      - {motif: oath-of-yhwh-settles-dispute, refs: ["CTH 41.II.2 §12:62-67"], note: "What the hiding slave owns his master hands over; if he owns nothing, the master swears: 'mān=wa kēl ŠA ÌR-YA ēšzi kuitki ...' - 'if this servant of mine owns anything ...'; an exculpatory oath settles it."}
+      - {motif: treaty-parity-mutual-clauses, refs: ["CTH 41.II.2 §9:45", "CTH 41.II.2 §12:68"]}
+    hints:
+      - "Wife and children handed over for a debt or penalty: 2 Kgs 4:1 (the creditor comes to take her two children as slaves); Neh 5:5; Matt 18:25."
+      - "Exculpatory oath of a keeper: Exod 22:7-10 [8-11] (an oath of YHWH between them both)."
+  # ---------------------------------------------------------------- CTH 42 Ḫuqqana
+  - id: ane-cth-42-huqqana-preamble-loyalty
+    tradition: ane-hittite
+    title: "Treaty of Šuppiluliuma I with Ḫuqqana of Ḫayaša (CTH 42) §1-6: the last dog, the sister given, 'recognize only me', love as your own soul"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 42 §1", "CTH 42 §2", "CTH 42 §3", "CTH 42 §4", "CTH 42 §5", "CTH 42 §6"]
+    tags:
+      - {motif: overlord-raises-vassal-from-last-dog, refs: ["CTH 42 §1:1-4"], note: "'[U]M-MA dUTU-ŠI Šuppiluliuma ... kāša tuk Ḫuqqanān appezzin UR.GE7-an šarā dāḫḫun nu=tta SIG5-in iyanun' - Thus My Majesty: you, Ḫuqqana, I have taken up as the last dog and treated you well, and presented you in Hattusa and among the men of Ḫayaša."}
+      - {motif: overlord-gives-royal-woman-to-vassal-wife, refs: ["CTH 42 §1:5"], note: "'nu=tta ammel NIN9-IA AŠŠUM DAM-UTTIM ADDIN' - I gave you my own sister as wife."}
+      - {motif: treaty-no-other-king-or-lord, refs: ["CTH 42 §2:7", "CTH 42 §3:14-15", "CTH 42 §5:32-34"], note: "'nu=za zik Ḫuqqanaš dUTU-ŠI=pat AŠŠUM BELUTIM šāk' - recognize only My Majesty as lord; 'dammain BELAM ... lē kuinki šākti' recognize no other lord behind My Majesty's back; 'dUTU-ŠIn=za=pat šāk' only My Majesty recognize."}
+      - {motif: overlord-guarantees-vassals-chosen-heir, refs: ["CTH 42 §2:8-11", "CTH 42 §3:12-13"], note: "The son whom I name 'kūn=wa=za ḫūmanza šākdu' - let everyone recognize this one - you too recognize him, and my sons and brothers in brotherhood."}
+      - {motif: love-overlord-as-own-soul, refs: ["CTH 42 §3:19-21", "CTH 42 §4:22-26"], note: "'mān tuel maḫḫan ANA SAG.DU-KA ZI-KA Ù ANA RAMANI-KA genzu ḫarši ŠU.ḪI.A-uš=za araḫzanda ḫarši' - as you hold love (genzu) for your own head, soul and body and keep your hands around them, (if you do) not likewise hold love for My Majesty's head, soul and body ..."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 42 §4:27-31"], note: "If you hear evil concerning My Majesty and hide it, do not tell me, do not point out that man, but even conceal him (munnāši) ..."}
+      - {motif: treaty-binds-future-generations, refs: ["CTH 42 §5:35-37", "CTH 42 §6:38-42"], note: "I will protect you, after you your sons; later your sons will protect my son; 'kattaya ANA DUMU.MEŠ-KA SILIM.BI iyami' I will do good to your sons after you."}
+      - {motif: thousand-gods-of-hatti, refs: ["CTH 42 §6:43-44"], note: "'nu=tta kāša kē uddār ŠAPAL NIŠ DINGIR-LIM teḫḫun nu kāša kēdani uddanī LI-IM DINGIR.MEŠ tuliya ḫalziwen' - I have placed these words under oath for you, and for this word we have called the thousand gods to assembly."}
+    hints:
+      - "Raised from 'a dead dog': 2 Sam 9:8 (Mephibosheth: 'what is your servant that you should look on a dead dog like me?'); 1 Sam 24:15 [14]; 2 Kgs 8:13."
+      - "The overlord's exclusive lordship: Exod 20:3 and Deut 5:7 (no other gods before me); Deut 6:13-14; Josh 24:14-15, 23; Q 112:1-4 and 3:64."
+      - "Love as the language of loyalty: Deut 6:5 (love YHWH with all your heart, soul and might); Deut 10:12, 11:1, 13:4 [3]; 1 Sam 18:1-3; 1 Kgs 5:15 [5:1] (Hiram 'loved' David)."
+      - "Covenant kept for sons after you: Deut 7:9 (keeping covenant and steadfast love to a thousand generations); 2 Sam 9:1, 7."
+      - "The divine council summoned as witnesses: Ps 82:1; 1 Kgs 22:19."
+  - id: ane-cth-42-huqqana-witnesses
+    tradition: ane-hittite
+    title: "Ḫuqqana treaty (CTH 42) §7-8: the list of divine witnesses, mountains, rivers, springs, clouds, heaven, earth and the great sea"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 42 §7", "CTH 42 §8"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 42 §7:45-46", "CTH 42 §8:47-51"], note: "Sun god of heaven, Sun goddess of Arinna, storm gods of heaven, Hatti, Aleppo, Arinna, Zippalanda, Šapinuwa, Nerik, Ḫiššašḫapa ...; LAMMA gods, Zitḫariya, Karzi, Ḫapantaliya, Ea, Ištar of Nineveh and of Ḫattarina, 'IŠTAR MUNUS.LUGAL ŠA-ME-E' (Queen of Heaven), Zababa, the gods of the army camp, Marduk, Allatum, Sun goddess of the Earth, Ḫuwaššanna of Ḫupišna ..., the lulaḫḫi and ḫapiri gods, all the gods of Hatti."}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["CTH 42 §8:52"], note: "'DINGIR.MEŠ ŠA-ME-E DINGIR.MEŠ ER-ṢE-TIM ḪUR.SAG.M[EŠ ...] nepiš tēkan šalliš arunaš' - gods of heaven, gods of earth, the mountains, [rivers, springs, clou]ds, heaven, earth, the great sea; rivers and springs restored."}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["CTH 42 §8:52"], note: "'nepiš tēkan' heaven (and) earth themselves among the witnesses."}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["CTH 42 §8:53-56"], note: "'nat [kutruwaš ašandu nat aušdu]' - let them be witnesses and see; restored; lines 54-56 broken."}
+    hints:
+      - "Heaven and earth summoned as witnesses: Deut 4:26; 30:19; 31:28; 32:1; Isa 1:2; Ps 50:4."
+      - "Mountains and the foundations of the earth as witnesses: Mic 6:1-2; Josh 24:27 (the stone has heard all the words)."
+      - "Queen of Heaven: Jer 7:18; 44:17-25."
+      - "Gods of the Hapiru: compare the 'Hebrews' (ʿibrîm) in Exod 3:18 ('YHWH, the God of the Hebrews') and 1 Sam 14:21."
+  - id: ane-cth-42-huqqana-curses-conditions
+    tradition: ane-hittite
+    title: "Ḫuqqana treaty (CTH 42) §9-26: oath gods destroy the oath-breaker, blessing for the loyal, enemy of the king, no excuse of neutrality"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 42 §9", "CTH 42 §10", "CTH 42 §11", "CTH 42 §12", "CTH 42 §13", "CTH 42 §14", "CTH 42 §15", "CTH 42 §16", "CTH 42 §17", "CTH 42 §18", "CTH 42 §19", "CTH 42 §20", "CTH 42 §21", "CTH 42 §22", "CTH 42 §23", "CTH 42 §24", "CTH 42 §25", "CTH 42 §26"]
+    tags:
+      - {motif: oath-gods-destroy-oathbreaker, refs: ["CTH 42 §10:59-68", "CTH 42 §14:100", "CTH 42 §18:134-137", "CTH 42 §22:175", "CTH 42 §26:206-207"], note: "'nu=tta kē NIŠ DINGIR.MEŠ lē daliyanzi' - these oath gods shall not let you be; 'apūn=a antuḫšan ... ḫarninkandu' and the man you side with they shall destroy; 'nu=šmaš kī uttar NIŠ DINGIR.MEŠ EGIR-an lē tarnanzi nu=šmat=ša lē āra ienzi nu=šmaš takšan ḫarninkandu' - the oath gods shall not release you, not count it as right, destroy you together."}
+      - {motif: treaty-keeper-guarded-with-household, refs: ["CTH 42 §11:70-73", "CTH 42 §23:176-178"], note: "'mān zik=ma Ḫuqqanaš dUTU-ŠI=pat paḫḫašti ... nu=tta kē=ma NIŠ DINGIR.MEŠ aššuli paḫšandaru našta ANA QAT dUTU-ŠI anda āššu lūlu uški' - if you protect only My Majesty, may these oath gods protect you kindly, and in My Majesty's hand may you see good prosperity."}
+      - {motif: blessing-and-curse-set-before, refs: ["CTH 42 §10:61-69", "CTH 42 §11:70-73"], note: "Curse for the disloyal (§10) followed at once by blessing for the loyal (§11): the double sanction of the oath."}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["CTH 42 §13:86-92"], note: "'nu kuiš ANA dUTU-ŠI idāluš tukka apāš idāluš ēšdu; mān=aš ANA dUTU-ŠI LÚ.KÚR tukka=aš LÚ.KÚR ēšdu' - whoever is evil to My Majesty shall be evil to you, my enemy your enemy, a land's hostility to me your hostility."}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["CTH 42 §14:93-100", "CTH 42 §21:157-167", "CTH 42 §22:168-175"], note: "If an enemy comes against My Majesty and I write to you, 'mān ÉRIN.MEŠ-it ANŠE.KUR.RA.ḪI.A-it lammar UL ārti' if you do not come at once (in that hour) with troops and chariots, but even favour him ... let these oath gods destroy you."}
+      - {motif: treaty-vassal-may-not-plead-ignorance, refs: ["CTH 42 §15:101-111", "CTH 42 §16:112-118"], note: "If you hide a Hittite who plans evil against me and say 'ammuk=wa=za linganuwanza nu=wa UL kuitki memaḫḫi iyami=ya=wa UL kuitki aši=ma=wa maḫḫan iēzzi QATAMMA iēddu' - 'I am a sworn man; I say nothing and I do nothing; let that one do as he does' - may these oaths destroy you."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 42 §9:57-58", "CTH 42 §18:127-133", "CTH 42 §19:138-152"], note: "'na=at=mu=kan mān šannatti na=at=mu UL memātti' - if you hide it and do not tell me, hide that man and do not name him ..."}
+      - {motif: love-overlord-as-own-soul, refs: ["CTH 42 §12:81-85"], note: "'nu=za=an mān ANA dUTU-ŠI šēr SAG.DU-KA=pat šēr autti' if you look upon My Majesty as on your own head, and say 'whatever happens to Ḫuqqana, for My Majesty may all be well'. §12 is written with scribal PAP PAP signs marking omitted words."}
+      - {motif: treaty-no-other-king-or-lord, refs: ["CTH 42 §10:59-60", "CTH 42 §25:186-199"], note: "'apēdani imma EGIR-an tiyaši ANA dUTU-ŠI=ma awan arḫa tiyaši' - if you stand behind that one and step away from My Majesty."}
+    hints:
+      - "Curse on the covenant-breaker 'YHWH will not forgive him': Deut 29:18-20 [19-21] (he who says in his heart 'I shall have peace'; YHWH will not pardon him and every curse written in this book will settle on him)."
+      - "Blessing and curse set side by side: Deut 11:26-28; 28:1-68; 30:15-20; Lev 26:3-39; Josh 8:34."
+      - "No neutrality in loyalty: Judg 5:23 (curse Meroz, for they came not to the help of YHWH); Judg 21:8-10 (Jabesh-gilead); Matt 12:30."
+      - "Enemies of my lord are my enemies: Ps 139:21-22; Exod 23:22 ('I will be an enemy to your enemies')."
+      - "Duty to report treason even when one is sworn: Lev 5:1 (the one who hears the adjuration and does not tell bears guilt); Deut 13:9 [8] (do not conceal him)."
+  - id: ane-cth-42-huqqana-palace
+    tradition: ane-hittite
+    title: "Ḫuqqana treaty (CTH 42) §27-28: the customs of the palace, keeping the king's words"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 42 §27", "CTH 42 §28"]
+    tags:
+      - {motif: treaty-keep-kings-secret-words, refs: ["CTH 42 §28:214-231"], note: "If I praise a man ('that man does well, I too will treat him well') or blame him ('that man is evil, I will treat him badly'), or praise or blame a land or town, and you repeat the word to them, 'that too shall be placed under oath for you'."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 42 §27:208-213"], note: "They will bring you up to my palace; the custom (šaklaiš) of the palace is weighty; whatever you see or hear, do not hide it from the palace."}
+    hints:
+      - "Talebearing of the king's words: Prov 11:13 and 20:19 (a talebearer reveals secrets); Eccl 10:20 (do not curse the king even in your thought, a bird will carry the voice); 2 Kgs 6:12."
+  - id: ane-cth-42-huqqana-sexual-laws
+    tradition: ane-hittite
+    title: "Ḫuqqana treaty (CTH 42) §29-32: no intercourse with the wife's sisters and kinswomen; avoid palace women; the death of Mariya for a glance"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 42 §29", "CTH 42 §30", "CTH 42 §31", "CTH 42 §32"]
+    tags:
+      - {motif: incest-prohibitions-list, refs: ["CTH 42 §29:232-241"], note: "My sister whom I gave you has many sisters of her clan and seed; they are now your kin; 'ANA KUR Ḫatti=ma=kan šaklaiš du[qqā]ri ŠEŠ-aš=za NIN9-SÚ MUNUS anniyamin UL dāi UL=at āra' - in Hatti a law is weighty: a brother does not take his sister or female cousin; it is not right; whoever does it does not live in Hattusa but dies."}
+      - {motif: foreign-customs-contrasted-with-own-law, refs: ["CTH 42 §29:242-245"], note: "'šumenzan KUR-e dampupi kuit anda=at za[ḫḫa]n ŠA DAM-ŠU=za NIN-ŠU MUNUS anniyamin daškanzi Ḫattuši=ma=at UL āra' - because your land is uncouth (dampupi) it is customary(?) there that one takes his wife's sister and cousin; in Hattusa it is not right."}
+      - {motif: kinswoman-welcomed-with-food-not-desired, refs: ["CTH 42 §30:246-256"], note: "If your wife's sister, a brother's wife or a cousin comes to you, 'nu=šši adanna akuwanna pāi nu=za ezatten ekutten duškiškitten danna=ma=za lē ilaliyaši UL=at āra apēz=kan uddanaz arḫa akkiškanzi' - give her to eat and drink; eat, drink and rejoice; but do not desire to take her; it is not right; for this matter they die; if another urges you, do not listen."}
+      - {motif: brothers-wife-forbidden, refs: ["CTH 42 §30:246"], note: "'ŠA ŠEŠ DAM-SÚ' - the brother's wife (of your wife) among those forbidden."}
+      - {motif: avoid-palace-women, refs: ["CTH 42 §31:257-268"], note: "'ŠA É.GAL-LIM=ya=za MUNUS-TUM mekki uškaḫḫut' beware greatly of a palace woman, free woman or maid; do not go near her, do not speak a word to her; your servant or maid too; 'ŠA É.GAL-LIM kuwapi MUNUS autti našta KASKAL-az arḫa mekki watqaḫḫut nu=šši KASKAL-an arḫa tuwa tarna' - when you see a palace woman, jump far off the road and leave the way to her."}
+      - {motif: man-executed-for-glance-at-palace-maid, refs: ["CTH 42 §32:269-278"], note: "Who was Mariya, and for what did he die? A maid passed and he looked at her; the father of My Majesty looked through the window and caught him: 'why did you look at her?' For that he died; 'for looking from afar the man perished' - so beware."}
+    hints:
+      - "Forbidden unions with close kinswomen and the foreign custom: Lev 18:3, 6-18, 24-30 ('you shall not do as they do in the land of Egypt and Canaan'); Lev 20:11-21; Deut 27:20-23; Q 4:23 (forbidden to you: two sisters together)."
+      - "Wife's sister forbidden during the wife's life: Lev 18:18; contrast Gen 29:21-30 (Jacob marries the sisters Leah and Rachel)."
+      - "Coveting a neighbour's woman; the look that kills: Exod 20:17; Deut 5:21; Job 31:1 (a covenant with my eyes); Matt 5:28; Q 24:30-31 (lower your gaze)."
+      - "The king at the window sees a woman: 2 Sam 11:2 (David from the roof sees Bathsheba) - inverted: here it is the subject's look that is punished."
+      - "Approaching the king's women as treason: 2 Sam 16:21-22 (Absalom and the concubines); 1 Kgs 2:13-25 (Adonijah asks for Abishag and dies); Esth 2:3, 12-14."
+  - id: ane-cth-42-huqqana-wives-prisoners
+    tradition: ane-hittite
+    title: "Ḫuqqana treaty (CTH 42) §33-34: no brother's wives in Ḫayaša, no further Azzi wives, return the prisoners; colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 42 §33", "CTH 42 §34"]
+    tags:
+      - {motif: brothers-wife-forbidden, refs: ["CTH 42 §33:279-283"], note: "When you go to Ḫayaša you shall no longer take the wives of your brother, your sisters-in-law; in Hattusa it is not right, nor when you come up to the palace."}
+      - {motif: levirate-marriage, refs: ["CTH 42 §33:279-281"], note: "The Ḫayaša custom of taking a brother's wife (probably the widow) is forbidden to the vassal; interpretive: the text says only 'ŠEŠ-KA DAM.MEŠ-ŠU' the wives of your brother."}
+      - {motif: overlords-kinswoman-must-be-chief-wife, refs: ["CTH 42 §33:284-288"], note: "Do not take another woman of Azzi as wife; the one you have up to now, dismiss her (from chief rank), let her rightly be your concubine; do not make her your wife."}
+      - {motif: treaty-return-fugitives, refs: ["CTH 42 §33:291-293", "CTH 42 §34:294-301"], note: "Give back the prisoners of Hatti who went into Ḫayaša and the border lands; seize whoever hides them within the borders and dispute with him: 'why do you not give them back?' - 'let him be angry with you!'"}
+    hints:
+      - "Levirate as the foreign or ancestral custom: Deut 25:5-10; Gen 38:8; Ruth 4:5; contrast Lev 18:16, 20:21."
+      - "A wife's rank guarded by her father: Gen 31:50 (Laban: 'if you take wives besides my daughters ... God is witness'); 1 Kgs 3:1 (Pharaoh's daughter); Deut 17:17 (the king shall not multiply wives)."
+      - "Return of captives as a covenant term: 2 Chr 28:8-15 (the captives of Judah returned from Samaria)."
+  # ---------------------------------------------------------------- CTH 44
+  - id: ane-cth-44-telipinu-priest
+    tradition: ane-hittite
+    title: "Installation of prince Telipinu as 'priest' of Kizzuwatna (CTH 44)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 44 §1", "CTH 44 §2", "CTH 44 §3", "CTH 44 §4", "CTH 44 §5", "CTH 44 §6", "CTH 44 §7", "CTH 44 §8", "CTH 44 §9", "CTH 44 §10", "CTH 44 §11'", "CTH 44 §12'", "CTH 44 §13'", "CTH 44 §14", "CTH 44 §15", "CTH 44 §16", "CTH 44 §17"]
+    tags:
+      - {motif: kings-sons-as-priests, refs: ["CTH 44 §2:2-3", "CTH 44 §3:4"], note: "'Telipinun DUMU-ŠU INA URU Kiz[zuwatna ...] Ù ANA dŠarrumma ANA ÌR-[UTTIM] ... nu=tta LÚ.SANGA iyaw[en]' - Telipinu, Šuppiluliuma's son, given in service to (Teššub, Ḫebat) and Šarrumma in Kizzuwatna: we have made you priest; an išḫiul (binding) is set for him and his descendants."}
+      - {motif: overlord-guarantees-vassals-chosen-heir, refs: ["CTH 44 §4:5-9"], note: "King and queen will recognize Telipinu in priesthood and service, Arnuwanda in brotherhood; we will protect him; he must desire no other (lord) in Hatti."}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["CTH 44 §7:17-20", "CTH 44 §8:24-25"], note: "Whoever sins (waštai) against the king, queen or prince, the priest or his son shall not favour him; 'nan ANA LUGAL maḫḫan LÚ.KÚR-ŠU apēdani=ya=aš QATAMMA LÚ.KÚR-ŠU ēšdu' as he is the king's enemy, so let him be his; whoever is friend (āššuš) to king and queen, let him be friend to the priest."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 44 §9:30-34"], note: "Whoever speaks evil of the king and queen, or makes light (tepnuzi) of the king's administration or law (šaklain), and you hear him: 'nan lē munnāši' do not hide him, tell the palace."}
+      - {motif: assembly-judges-royal-crimes, refs: ["CTH 44 §15:50-51", "CTH 44 §16:52-60"], note: "If his brothers and sisters turn evil against him, they shall have the case judged (DI-NAM ḫannandu) [before the great king]; if someone slanders the priest before a lord, or a lord before the priest, neither shall be seized or take hostile action: [the great king] shall interrogate (punušdu)."}
+    hints:
+      - "The king's sons as priests: 2 Sam 8:18 ('David's sons were priests'); 1 Kgs 4:5; a royal appointee as priest at a provincial sanctuary: 1 Kgs 12:31-32; Judg 17:5."
+      - "Disputes among brothers referred to the king: 2 Sam 15:2-6; 1 Kgs 3:16-28; Deut 17:8-12."
+  # ---------------------------------------------------------------- CTH 50
+  - id: ane-cth-50-sarri-kusuh-carchemish
+    tradition: ane-hittite
+    title: "Šuppiluliuma's decree for his son Šarri-Kušuḫ, king of Karkemiš (CTH 50): borders, the gold tablet, the gods of Karkemiš as witnesses"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Hittite"
+    read: ["CTH 50 §1"]
+    tags:
+      - {motif: king-installs-son-as-vassal-king, refs: ["CTH 50 §1:2"], note: "'nu LU[GAL-d3]0-an a[mmel DUMU-YA] INA KUR Kargamiš L[UGAL-iznani] titnunun' - I installed Šarri-Kušuḫ, my son, as king in Karkemiš (restored)."}
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["CTH 50 §1:3-22"], note: "Facing Gaduma and the land of Mukiš; Mount Ammari[ti]; Pidina; then a litany 'parā=ma=šši ḪUR.SAG ... ZAG-aš' - further, Mount X is his border, ten times; Karkuma; 'kūš ḪUR.SAG.MEŠ Š[A ...]' these mountains are the borders."}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["CTH 50 §1:28-29"], note: "'[n]an=kan waḫnuzi ... ANA DUMU-YA=pat a[rḫ]a dā-' - whoever overturns it and takes (these lands) away from my son ...; the curse itself is lost."}
+      - {motif: treaty-duplicate-deposited-before-god, refs: ["CTH 50 §1:30"], note: "'[ ... dKar]ḫaḫa pē[r]an' - before the deity Karḫuḫa (is the tablet placed); restored."}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 50 §1:31-33"], note: "'dKa[rḫuḫa] dKupapa DINGIR.MEŠ-aš=ša Š[A ...]' - Karḫuḫa, Kubaba and the gods of [Karkemiš] (are witnesses); the people were sworn to my son Šarri-Kušuḫ in Karkemiš."}
+      - {motif: treaty-on-gold-tablet, refs: ["CTH 50 §1:34"], note: "'ṬUPPI GUŠKIN' - a tablet of gold."}
+    hints:
+      - "Tribal or vassal borders traced by mountains: Josh 15:8-11; Num 34:7-8."
+      - "Kubaba, goddess of Karkemiš: Kybele of later Anatolia; compare the gods of the nations in 2 Kgs 17:29-31."
+      - "Tablets of precious material for a covenant: Exod 31:18 and 32:15-16 (tablets written by the finger of God); 1 Macc 8:22 (bronze tablets of the Roman treaty)."
+  # ---------------------------------------------------------------- CTH 51.I Šattiwazza
+  - id: ane-cth-51-i-prologue-tusratta
+    tradition: ane-hittite
+    title: "Šuppiluliuma's treaty with Šattiwazza (CTH 51.I) §1-5: historical prologue, Tušratta's arrogance, the one-year campaign"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 51.I §1", "CTH 51.I §2", "CTH 51.I §3", "CTH 51.I §4", "CTH 51.I §5"]
+    tags:
+      - {motif: treaty-historical-prologue, refs: ["CTH 51.I §1:1-25"], note: "Historical prologue: 'enūma itti dUTU-ši Šuppiluliuma LUGAL GAL UR.SAG ... narām dU Artatama LUGAL KUR Ḫurri ina birišunu riksa irkusu' - when Artatama made a treaty with me, Tušratta of Mittani challenged me; I took the lands of this side of the Euphrat and made Mount Niblani my border."}
+      - {motif: arrogant-king-provokes-war, refs: ["CTH 51.I §1:6-17", "CTH 51.I §2:27", "CTH 51.I §5:83"], note: "Tušratta 'ana pāniya ultarraḫ' boasted before me: 'why do you plunder the far bank of the Euphrat? ... I will cross, if even a lamb or a kid of my land is harmed'; 'ana gummurišu ḫašeḫ' he sought total rule; 'aššum multarriḫūtišu ša Tušratta' because of Tušratta's arrogance I crossed the Euphrat."}
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["CTH 51.I §1:4-5", "CTH 51.I §5:85"], note: "'ultu ḪUR.SAG Niblani ultu ullî ÍD UD.KIB.NUN.NA ana miṣriya utter' - I made Mount Niblani on this side and the Euphrat on that side my border."}
+      - {motif: deportation-to-assyria, refs: ["CTH 51.I §3:47", "CTH 51.I §4:63-65", "CTH 51.I §5:69-70", "CTH 51.I §5:78-79", "CTH 51.I §5:82-84"], note: "Refrain 'ana KUR Ḫatti ulterib' I brought them into the land of Hatti - Šūda with cattle, sheep and horses; Akiya of Araḫati and Akit-Teššub with all their chariot fighters; Qatna; Šarrupše's mother, brothers and sons; Šutatarra and Aitakkama; the king of Abina; all in one year."}
+      - {motif: vassal-king-installed-on-throne, refs: ["CTH 51.I §5:71"], note: "'Takip-šarri ARAD-sú ša Šarrupši ana URU Ugulzat ana LUGAL-ūtti altakanšu' - I set Takip-šarri, Šarrupše's servant, as king in Ugulzat."}
+      - {motif: deported-peoples-returned-to-their-homes, refs: ["CTH 51.I §2:35-40"], note: "Išuwa: 'KUR.KUR.MEŠ ša alqû umteššeršunūti ana ašrišunu=ma ittašbū' - the lands I took I released and they settled in their own places again."}
+    hints:
+      - "Historical prologue grounding the covenant: Deut 1:6-3:29; Josh 24:2-13; 1 Sam 12:7-11; Judg 11:15-27 (Jephthah's history of the land as legal argument)."
+      - "Boastful royal challenge and its punishment: 2 Kgs 14:8-14 (Jehoash to Amaziah, the thistle and the cedar); 2 Kgs 18:19-35; Isa 10:12-15 (the arrogant boasting of the king of Assyria); Isa 37:23-29."
+      - "Borders from a mountain to the Euphrat: Deut 1:7, 11:24 (from the wilderness and Lebanon, from the River, the Euphrat, to the western sea); Gen 15:18; Josh 1:4."
+      - "Campaign that takes many kings in one year: Josh 10:42 ('all these kings and their land Joshua took at one time'); Josh 12."
+  - id: ane-cth-51-i-sattiwazza-installed
+    tradition: ane-hittite
+    title: "CTH 51.I §6-8: Tušratta killed by his son, the storm god's verdict, not a straw taken, Šattiwazza set on his father's throne and given a daughter"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 51.I §6", "CTH 51.I §7", "CTH 51.I §8"]
+    tags:
+      - {motif: king-murdered-by-his-son, refs: ["CTH 51.I §6:86-87"], note: "'enūma DUMU-šu itti ARAD.MEŠ-šu ussemiḫ-ma abūšu Tušratta LUGAL iduk' - his son made common cause with his servants and killed his father, king Tušratta."}
+      - {motif: storm-god-decides-lawsuit-by-kings-death, refs: ["CTH 51.I §6:88-89", "CTH 51.I §6:102"], note: "'kīmê Tušratta LUGAL imtūt dU dīnšu ša Artatama iprus' - when Tušratta died, the storm god decided the case of Artatama; 'dīnšu dU iddinšu' the storm god has given him his verdict."}
+      - {motif: not-a-straw-taken, refs: ["CTH 51.I §6:93-94"], note: "'ḫāma u ḫuṣṣāba ša KUR Mittanni ul ilqe' - I took not a straw nor a splinter of the land of Mittani."}
+      - {motif: overlord-revives-dead-kingdom, refs: ["CTH 51.I §6:90-91", "CTH 51.I §6:105-106"], note: "Artatama's son 'gave life to the dead Artatama' while all Mittani perished (ḫalqa); the great king 'KUR Mittanni aššum DUMU.MUNUS-šu uballissu' brought Mittani to life for his daughter's sake, 'so that Mittani, a great land, should not perish'."}
+      - {motif: overlord-takes-prince-by-hand-sets-on-fathers-throne, refs: ["CTH 51.I §6:98-104", "CTH 51.I §6:107"], note: "Šuttarna and his chariot fighters sought to kill prince Šattiwazza; he escaped (ilṭaḫiṭ) to me; 'kīmê Šattiwazza ... ana ŠU-ia aṣṣabat ina GIŠ.GU.ZA ša abišu ušeššibšu' - since I took Šattiwazza by my hand, I will seat him on his father's throne."}
+      - {motif: overlord-gives-royal-woman-to-vassal-wife, refs: ["CTH 51.I §6:108", "CTH 51.I §7:109-110"], note: "'DUMU.MUNUS ana DAM-ūttišu attadinšu' I gave him a daughter to wife; Šattiwazza shall be king, the Hittite king's daughter queen of Mittani."}
+      - {motif: overlords-kinswoman-must-be-chief-wife, refs: ["CTH 51.I §7:111-116"], note: "'akkâša Šattiwazza MUNUS.MEŠ esrētu lū muššurat u MUNUS-tu šanītu eli DUMU.MUNUS-ia rabītu yānu' - concubines are allowed you, but there is no other woman greater than my daughter; you shall not let another be her equal nor take my daughter elsewhere."}
+      - {motif: treaty-binds-future-generations, refs: ["CTH 51.I §7:117-120"], note: "The sons of Šattiwazza and of my daughter, their sons and grandsons 'ina arki ūmi'; the sons of Mittani shall seek no revolt against them; Šattiwazza and his sons shall be brothers and equals to my sons and grandsons."}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["CTH 51.I §8:121-130"], note: "The sons of Hatti and of Mittani shall not look at one another with an evil eye (ina īni lemutti), nor do evil; the enemy of one is enemy of the other, the friend (salmu) of the king of Hatti friend of the king of Mittani."}
+    hints:
+      - "A king slain by his son: 2 Kgs 19:37 (Sennacherib killed by his sons Adrammelech and Sharezer, who flee to Urartu); 2 Chr 32:21."
+      - "Death of a ruler as divine judgement in a lawsuit: 1 Sam 25:39 ('blessed be YHWH who has judged the case of my reproach from the hand of Nabal'); 1 Sam 24:16 [15] (YHWH judge and plead my cause)."
+      - "Not a thread nor a sandal strap: Gen 14:22-23 (Abram to the king of Sodom); Num 16:15 (not one donkey have I taken); 1 Sam 12:3-4."
+      - "A dead people brought back to life: Ezek 37:1-14; Hos 6:2."
+      - "Taking by the hand and seating on the throne: Isa 42:6 and 45:1 (Cyrus, whose right hand I have grasped); Ps 73:23; 1 Kgs 2:12."
+      - "The overlord's daughter as chief wife: 1 Kgs 3:1, 7:8, 9:16 (Pharaoh's daughter); Gen 31:50."
+  - id: ane-cth-51-i-stipulations
+    tradition: ane-hittite
+    title: "CTH 51.I §9-15: stipulations - the treaty, aid, fugitives returned one way only, the Euphrat border, brotherhood of Piyaššili and Šattiwazza"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 51.I §9", "CTH 51.I §10", "CTH 51.I §11", "CTH 51.I §12", "CTH 51.I §13", "CTH 51.I §14", "CTH 51.I §15"]
+    tags:
+      - {motif: treaty-overlord-promises-military-help, refs: ["CTH 51.I §11:145-150"], note: "Fragmentary: the enemy who has become hostile to you ... 'ša KUR Ḫatti itebbûnikk ana rēṣ[ūti ...]' (the troops) of Hatti will march to you as help; 'ina libbi māmīti lā niššakkan' we do not place it in the oath."}
+      - {motif: treaty-return-fugitives, refs: ["CTH 51.I §12:151-153"], note: "A fugitive from Hatti: the sons of Mittani seize him and bring him back."}
+      - {motif: escaped-slave-not-returned, refs: ["CTH 51.I §12:154-162"], note: "'šumma LÚ munnabittu ša KUR Mittanni ... LUGAL KUR Ḫatti ul iṣabbatsu ul utāršu ul parṣū ša dUTU URU Arinna' - a fugitive of Mittani who comes to Hatti the king of Hatti will not seize nor return; it would not be the rite (parṣu) of the Sun goddess of Arinna; Šattiwazza is to settle him in a town; he belongs to Hatti."}
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["CTH 51.I §13:163-175"], note: "The Euphrat before me and Mount Niblani behind me set as my border; Murmurik, Šipri, Mazuwati, Šurun given to my son [Piyaššili]; the towns of Aštata, Ekalte, Aḫuna, Terqa; the towns of the bank Piyaššili holds are his."}
+      - {motif: overlord-revives-dead-kingdom, refs: ["CTH 51.I §14:176-177"], note: "'u anāku LUGAL.GAL ... KUR Mittanni mīta uballassu ana maškanišu utâr' - I, the great king, will make dead Mittani live and return it to its place."}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["CTH 51.I §14:178-181"], note: "Not a curse but the injunction: 'lā tasaḫḫaramma lā tašallaṭā ištu riksikunu lā tetiqāma miṣrikunu lā tubbaʾā' - do not turn back, do not tear apart, do not transgress your treaty, do not seek (to enlarge) your borders."}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 51.I §14:183-187"], note: "If a town of Piyaššili sends a secret message (puzri) to Šattiwazza, he will expose the secret (pirištašu ušeṣṣi), seize the messenger and send him to Piyaššili his brother."}
+      - {motif: brothers-dwell-together-in-unity, refs: ["CTH 51.I §14:188", "CTH 51.I §15:189-196"], note: "'Piyaššili u Šattiwazza ana aḫḫūtti ana aḫāmiš raksū' - Piyaššili and Šattiwazza are bound to each other in brotherhood; neither shall plot (zapurta) against the other when called to a meeting."}
+      - {motif: neither-party-crosses-border, refs: ["CTH 51.I §15:197-199"], note: "The towns of Šattiwazza on the Euphrat bank he shall keep; he shall not seize another town on the bank."}
+    hints:
+      - "Asylum for the runaway: Deut 23:16-17 [15-16] ('you shall not hand over to his master a slave who has escaped to you'), here as a religious rule of the Sun goddess; contrast 1 Kgs 2:39-40."
+      - "Do not transgress the covenant or turn aside: Deut 5:32 and 17:20 (turn not aside to the right or left); Josh 23:6; Hos 8:1."
+      - "Covenant of brotherhood between rulers: Amos 1:9 (Tyre forgot the covenant of brothers); 1 Kgs 9:13 and 20:32-34 ('he is my brother')."
+  - id: ane-cth-51-i-deposit-witnesses
+    tradition: ane-hittite
+    title: "CTH 51.I §16: deposit before the Sun goddess and the storm god of Kaḫat, repeated public reading, curse on tampering, the divine witnesses"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 51.I §16"]
+    tags:
+      - {motif: treaty-duplicate-deposited-before-god, refs: ["CTH 51.I §16:200-202"], note: "'meḫer ṭuppi anniti ana pāni dUTU URU Arinna šakin kīmê dUTU URU Arinna LUGAL-ūtta u MUNUS.LUGAL-ūtta umaʾʾar u ina KUR Mittanni ana pāni dU bēl kurinni ša URU Kaḫat šakin' - a duplicate of this tablet is placed before the Sun goddess of Arinna, who governs kingship and queenship, and in Mittani before the storm god, lord of the kurinnu of Kaḫat."}
+      - {motif: covenant-read-before-people, refs: ["CTH 51.I §16:203"], note: "'emmūti emmūti=ma ana pāni LUGAL KUR Mittanni u ana pāni DUMU.MEŠ KUR Ḫurri liltassû' - again and again let it be read before the king of Mittani and before the sons of the land of Hurri."}
+      - {motif: public-reading-of-law-to-all, refs: ["CTH 51.I §16:203"]}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["CTH 51.I §16:204-208"], note: "'u mannumê ana pāni dU ... ṭuppa annita unakkar=ma ašar puzri išakkan šumma iḫeppi šumma amāte.MEŠ ša KA ṭuppi ušašna' - whoever before the storm god removes this tablet and puts it in a hidden place, or breaks it, or changes the words of the tablet: (the gods are called)."}
+      - {motif: no-adding-or-subtracting, refs: ["CTH 51.I §16:207"], note: "'amāte ša KA ṭuppi ušašna' changes the wording of the tablet."}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 51.I §16:208-223"], note: "'DINGIR.MEŠ ša puzri u DINGIR.MEŠ ša bēl māmīti niltassi lizzizzū liltemû u lū šībūtu' - we have called the gods of the secret and the gods, lords of the oath: let them stand, listen and be witnesses: the Sun goddess of Arinna, the Sun god lord of heaven, the storm gods of Hatti and the cities, the LAMMA gods, Ea, Damkina, Telipinu, Ištar, Aškašipa, Nisaba, Zababa, Ḫebat, the local goddesses; 'DINGIR.MEŠ lulaḫi DINGIR.MEŠ SA.GAZ' the gods of the mountain-men and of the Hapiru; all the male and female gods of Hatti and Kizzuwatna."}
+      - {motif: storm-god-of-mount-hazzi, refs: ["CTH 51.I §16:214"], note: "'dŠēri dḪurra ḪUR.SAG Nanni ḪUR.SAG Ḫazzi' - the bulls Šeri and Ḫurri and the mountains Nanni and Ḫazzi (Ṣapon) among the witnesses."}
+      - {motif: primeval-and-underworld-gods-as-witnesses, refs: ["CTH 51.I §16:224"], note: "'DINGIR.MEŠ erṣeti dNāra dNamšara dMinki dAmmunki dTuḫuši dAmmizadu dAlalu dAnu dAntu dEnlil dNinlil' - the gods of the underworld and the primeval gods."}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["CTH 51.I §16:225"], note: "'ḪUR.SAG.MEŠ ÍD.MEŠ A.AB.BA ÍD UD.KIB.NUN.NA šamû u erṣeti IM.MEŠ urpatu' - mountains, rivers, the sea, the Euphrat, heaven and earth, winds and clouds."}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["CTH 51.I §16:225"]}
+    hints:
+      - "Deposit of the covenant document in the sanctuary: Deut 10:1-5 and 31:24-26 (the book placed beside the ark as witness); Exod 25:16, 21 and 40:20 (the testimony placed in the ark); 1 Sam 10:25 (laid up before YHWH); Josh 24:26."
+      - "Periodic public reading of the covenant: Deut 31:9-13 (every seven years at Sukkot before all Israel); Josh 8:34-35; 2 Kgs 23:1-3; Neh 8:1-8."
+      - "Not to add to or take away from the words: Deut 4:2 and 13:1 [12:32]; Prov 30:6; Rev 22:18-19; tampering with the scroll: Jer 36:23 (Jehoiakim burns the scroll)."
+      - "Heaven, earth, mountains, rivers as witnesses: Deut 32:1; Isa 1:2; Mic 6:1-2; Jer 2:12; Ps 50:4."
+      - "Gods of the Hapiru: Exod 3:18, 5:3 ('the God of the Hebrews')."
+  - id: ane-cth-51-i-mittani-gods-curses-blessings
+    tradition: ane-hittite
+    title: "CTH 51.I §17-18: the gods of Mittani incl. Mitra, Varuna, Indra; curses on the oath-breaker; blessings for the loyal"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 51.I §17", "CTH 51.I §18"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 51.I §17:226-233"], note: "Storm god lord of heaven and earth, Sîn and Šamaš, Sîn of Ḫarrān, heaven and earth, the storm god of Kaḫat, Ea-šarri lord of wisdom, Anu, Antu, Enlil, Ninlil, ... Nabarbi, Šuruḫi, Ištar, Šala, Damkina, Išḫara: 'ina libbi amāte annûti ša riksi lizzizzū liltemû u lū šībūtu'."}
+      - {motif: vedic-gods-as-treaty-witnesses, refs: ["CTH 51.I §17:228"], note: "'DINGIR.MEŠ Mitraššil DINGIR.MEŠ Uruwanaššil dIndar DINGIR.MEŠ Našattiyanna' - Mitra, Varuna, Indra and the Nāsatya twins."}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["CTH 51.I §17:230"], note: "'ḪUR.SAG.MEŠ u ÍD.MEŠ DINGIR.MEŠ AN DINGIR.MEŠ KI-ti'."}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["CTH 51.I §17:226"], note: "'AN u KI-ti' heaven and earth among the witnesses."}
+      - {motif: treaty-oathbreaker-destroyed-with-household, refs: ["CTH 51.I §17:234-235"], note: "'šumma atta Šattiwazza ... amāte ša riksi annî lā tanaṣṣarā ... qadu KUR-tikunu qadu DAM.MEŠ-kunu u qadu mimmûkunu DINGIR.MEŠ bēl māmīti liḫalliqūnu' - if you do not keep the words of this treaty, the gods, lords of the oath, shall destroy you with your land, wives and property."}
+      - {motif: curse-no-sprouting-like-malt, refs: ["CTH 51.I §17:236-239"], note: "'kīma buqli ištu eltešu išaddadūkunūši kīma ištu ŠÀ bubuwaḫi [Ú ul išû] ... NUMUN lā išû' - like malt from its husk may they draw you out; as no plant comes from bubuwaḫḫu, may you have no seed."}
+      - {motif: curse-poverty-and-nakedness, refs: ["CTH 51.I §17:240"], note: "'muškēnūtta u errišūtta liddinkunūši' - poverty and nakedness may they give you."}
+      - {motif: curse-throne-overturned, refs: ["CTH 51.I §17:241"], note: "'GIŠ.GU.ZA-ka lišbalkittū' - may they overturn your throne."}
+      - {motif: curse-crushed-like-reed, refs: ["CTH 51.I §17:242"], note: "'nīš ilāni annûti qadu KUR-tika kī GI liḫaṣṣiṣṣūka' - may these oaths of the gods break you like a reed with your land."}
+      - {motif: curse-oathbreakers-name-and-seed-destroyed, refs: ["CTH 51.I §17:243-244"], note: "'šumka u NUMUN-ka ša DAM-ti šaniti ... ištu KI-ti (NUMUN-ka liḫalliqū)' - your name and seed by another wife, from the earth (may they destroy)."}
+      - {motif: curse-ground-slippery-like-ice, refs: ["CTH 51.I §17:246-251"], note: "'erṣetu lū šurīpu=ma teḫliṣṣā erṣetu ša KUR-tikunu lū sāḫu ... lū tašallā=ma lā tebbirā' - may the earth be ice that you slip, the soil of your land a pond that you sink and do not cross."}
+      - {motif: curse-pursued-by-the-gods, refs: ["CTH 51.I §17:252-253"], note: "'ana līm ilāni lū LÚ.KÚR.MEŠ attunu likaššidkunūši' - may you be enemies to the thousand gods, may they hunt you down."}
+      - {motif: treaty-keeper-guarded-with-household, refs: ["CTH 51.I §18:254-255"], note: "If you keep this treaty and oath, these gods shall guard you with your wife, the Hittite king's daughter, her sons and grandsons, and you sons of Hurri with your wives and sons."}
+      - {motif: blessing-land-rich-and-lying-down-in-peace, refs: ["CTH 51.I §18:256-258"], note: "'u KUR Mittanni kī labirūti ana ašri[šu ...] [li]šri lirbiṣ' - may Mittani return to its place as of old, grow rich and lie down (in peace)."}
+      - {motif: blessing-dynasty-rules-forever, refs: ["CTH 51.I §18:259-261"], note: "'ana LUGAL-ti dārātim=ma limēʾeršu ... GIŠ.GU.ZA ša [abika lubbir] KUR Mittanni lubbir' - may they rule in an eternal kingship; make the throne of your father grow old, make Mittani grow old."}
+      - {motif: blessing-and-curse-set-before, refs: ["CTH 51.I §17:234", "CTH 51.I §18:254"], note: "'šumma ... lā tanaṣṣarā' / 'šumma ... tanaṣṣarā' - curses if you do not keep, blessings if you keep."}
+    hints:
+      - "Curses of the covenant: Deut 28:15-68 and Lev 26:14-39; poverty and nakedness: Deut 28:48 ('in hunger, thirst, nakedness and want of all things'); the throne overturned: Hag 2:22; crushed like a reed: 1 Kgs 14:15 (smite Israel as a reed is shaken), 2 Kgs 18:21, Isa 42:3; slippery ground: Ps 35:6 and 73:18, Jer 23:12; seed and name: Deut 29:19 [20], Ps 109:13."
+      - "Pursued by the gods: Deut 28:22, 45 (they shall pursue you until you perish); Lev 26:36 (the sound of a driven leaf shall chase them)."
+      - "Blessing of the land at rest: Lev 26:3-6 ('you shall lie down and none shall make you afraid'); Deut 28:1-14; Ezek 34:14-15, 25-28."
+      - "Eternal dynasty for the loyal: 2 Sam 7:16; Ps 89:29-38 [28-37] (if his sons forsake my law ... my covenant I will not break); 1 Kgs 9:4-7."
+  # ---------------------------------------------------------------- CTH 52.I Šattiwazza's oath
+  - id: ane-cth-52-i-suttarna-ruins-mittani
+    tradition: ane-hittite
+    title: "Šattiwazza's treaty with Šuppiluliuma (CTH 52.I) §1-2: Šuttarna ruins the palace, gives the trophy door to Assyria, blinds and impales the nobles; Šattiwazza escapes"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 52.I §1", "CTH 52.I §2"]
+    tags:
+      - {motif: king-bows-to-former-servant, refs: ["CTH 52.I §1:4-12"], note: "Šuttarna ruined the palace of the kings to give (gifts) to Assyria and Alše; Tušratta had filled it with wealth (mašrīta umtelli); 'ana LÚ Aššurāyi ÌR abišu ša mandatta [lā inaddinu] ... maššarissu ana NÍG.BA-šu ittadin' - to the Assyrian, his fathers' servant who did not pay tribute, he (bowed) and gave his treasure as a present."}
+      - {motif: trophy-door-given-to-enemy, refs: ["CTH 52.I §2:14-16"], note: "'GIŠ.IG KÙ.BABBAR u KÙ.SIG17 ša Sauššatar LUGAL abu abiya ... ultu KUR Aššur ... ilqû ina Waššukanni ana É.GAL-šu izzaqapšunu inanna Šuttarna ana qulūlišu ana KUR Aššur ittadin' - the door of silver and gold that my ancestor Sauššatar took from Assyria and set up in his palace at Waššukanni, Šuttarna to his shame has given to Assyria."}
+      - {motif: captive-blinded, refs: ["CTH 52.I §2:22-23"], note: "'LÚ.MEŠ GAL-ti ana KUR Aššur u ana KUR Alše ... uttepilšunu' - the nobles he (handed over) to Assyria and Alše and they were blinded."}
+      - {motif: rebels-impaled, refs: ["CTH 52.I §2:24-26"], note: "'ana URU Taite ana GIŠ.MEŠ izzaqapūšunūti' - at Taide they impaled them on stakes; he destroyed all the Hurrians."}
+      - {motif: gods-lead-fugitive-on-safe-path, refs: ["CTH 52.I §2:32-38"], note: "Akit-Teššub plotted to kill me; 'ina qātišu altaḫiṭ' I escaped his hand; 'ana DINGIR.MEŠ ša dUTU-ši Šuppiluliuma ... ana gerri ša lā [ḫalāq]i irteddûninni' - (I called) to the gods of My Majesty Šuppiluliuma and they led me on a road of not-perishing; the gods of Hatti and of Mittani brought me to the great king."}
+    hints:
+      - "Temple and palace doors stripped as tribute to Assyria: 2 Kgs 18:15-16 (Hezekiah strips the gold from the doors of the temple for the king of Assyria); 2 Kgs 16:8 (Ahaz sends the temple treasure to Tiglath-pileser)."
+      - "Nobles blinded and taken away: 2 Kgs 25:7 (Zedekiah's sons killed before his eyes, his eyes put out); Judg 16:21."
+      - "God leads the fugitive on the way: Gen 24:27 (YHWH led me on the way); Gen 28:15, 20; Ps 23:3; Ps 107:7."
+  - id: ane-cth-52-i-adoption-campaign
+    tradition: ane-hittite
+    title: "CTH 52.I §3-7: Šattiwazza at the great king's feet, adoption as son, the word that does not turn back, the campaign to Irride and Waššukanni"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 52.I §3", "CTH 52.I §4", "CTH 52.I §5", "CTH 52.I §6", "CTH 52.I §6a", "CTH 52.I §7"]
+    tags:
+      - {motif: suppliant-falls-at-overlords-feet, refs: ["CTH 52.I §3:39-43"], note: "'[ina] URU Maraššantiya ana GÌR dUTU-ši Šuppiluliuma ... [amqut] ... ana qātišu iṣṣabtanni=ma ina UGU-ia iḫtadu' - at Maraššantiya (I fell) at My Majesty's feet; the great king took me by his hand and rejoiced over me, and asked about all the affairs of Mittani."}
+      - {motif: overlord-adopts-vassal-as-son, refs: ["CTH 52.I §3:45-49"], note: "'šumma Šuttarna u [LÚ.MEŠ K]UR Mittanni ... anāku ul anassukka ana DUMU-ūttiya eppuškâ-mi ana r[ēšika] azzaz ina GIŠ.GU.ZA ša abika ušeššibka' - I will not cast you off; I make you my son, I stand at your side, I will seat you on your father's throne."}
+      - {motif: kings-word-does-not-return-void, refs: ["CTH 52.I §3:50-51"], note: "Šuppiluliuma - 'the gods know him!' - 'amātu ša ina KA×U-šu uṣṣû ana kutalli [ul ittūrū]' - the words that come out of his mouth do not turn back."}
+      - {motif: overlord-takes-prince-by-hand-sets-on-fathers-throne, refs: ["CTH 52.I §3:49", "CTH 52.I §3:55-59"], note: "Šattiwazza: 'if my lord makes me live (tuballaṭanni) and the gods stand at my side' - let the great king not remove Artatama from his throne; I will stand as his crown prince (terdennūtu) and rule Mittani."}
+      - {motif: exile-arrives-with-nothing, refs: ["CTH 52.I §4:62-63"], note: "When I went to the great king I had three chariots, two Hurrians, two attendants, one set of clothes on my body, and nothing else."}
+      - {motif: gods-go-before-the-army, refs: ["CTH 52.I §5:79"], note: "'u DINGIR.MEŠ ša LUGAL GAL LUGAL KUR Ḫatti ittalkū a[na pānini]' - the gods of the great king of Hatti went before us."}
+      - {motif: envoys-demand-submission, refs: ["CTH 52.I §4:68-75"], note: "At Karkemiš we sent a messenger to Irride; the Hurrians, won over by Tušratta's treasure, replied to Piyaššili: 'why do you come? If you come to fight, come! You shall not go (back) to the land of the great king!'"}
+    hints:
+      - "Adoption formula for the king: Ps 2:7 ('you are my son, today I have begotten you'); 2 Sam 7:14; Ps 89:27-28 [26-27]."
+      - "Falling at the feet of the powerful protector: 1 Sam 25:23-24 (Abigail at David's feet); 2 Kgs 4:27, 37; Esth 8:3."
+      - "The word that does not return void: Isa 55:11 (my word shall not return to me empty); Isa 45:23; Num 23:19."
+      - "Gods (God) going before the army: Deut 1:30, 20:4, 31:8; Judg 4:14; 2 Sam 5:24; Exod 13:21."
+      - "Arriving with nothing but one's staff and clothes: Gen 32:11 [10] ('with my staff I crossed this Jordan'); Job 1:21."
+  - id: ane-cth-52-i-deposit-witnesses-curses
+    tradition: ane-hittite
+    title: "CTH 52.I §8-10: deposit and reading, tampering, the Hittite gods as witnesses, curses and blessings (duplicate of CTH 51.I §16-18)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 52.I §8", "CTH 52.I §9", "CTH 52.I §10"]
+    tags:
+      - {motif: treaty-duplicate-deposited-before-god, refs: ["CTH 52.I §8:128"], note: "'ina KUR [Mittanni ...]' - deposit before the storm god of Kaḫat; restored after CTH 51.I §16."}
+      - {motif: covenant-read-before-people, refs: ["CTH 52.I §8:129"], note: "'[...] ana pāni LUGAL KUR [Mittanni ...]' - (read again and again) before the king; restored."}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["CTH 52.I §8:130-134"]}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 52.I §8:138-151", "CTH 52.I §9:154-156"], note: "Preserved names include the storm god lord of the army, the storm god of Š[amuḫa], Hebat of Kizzuwatna, Zababa of Hatti, Ḫantidaššu, the gods of the nulaḫḫi (mountain-men) and of the SA.GAZ; 'ana aḫāmiš lū šībūtu' together may they be witnesses."}
+      - {motif: primeval-and-underworld-gods-as-witnesses, refs: ["CTH 52.I §8:152"], note: "'dEREŠ.KI.GAL [DINGIR.MEŠ dā]rūti dNarra' - Ereškigal, the eternal (primeval) gods, Narra."}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["CTH 52.I §8:153"], note: "'[... A]N u KI IM.MEŠ u urpatu' - heaven and earth, winds and clouds."}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["CTH 52.I §8:153"]}
+      - {motif: treaty-oathbreaker-destroyed-with-household, refs: ["CTH 52.I §9:157-158"]}
+      - {motif: curse-no-sprouting-like-malt, refs: ["CTH 52.I §9:159-163"], note: "'[kīma buql]i qadu eltišu išaddadūkunūši kīmê ištu pupuwaḫḫi Ú ul išû' ... no seed."}
+      - {motif: curse-poverty-and-nakedness, refs: ["CTH 52.I §9:164"]}
+      - {motif: curse-throne-overturned, refs: ["CTH 52.I §9:165"]}
+      - {motif: curse-crushed-like-reed, refs: ["CTH 52.I §9:166"]}
+      - {motif: curse-oathbreakers-name-and-seed-destroyed, refs: ["CTH 52.I §9:167-168"], note: "'šumka u NUMUN-ka ... ištu [KI] NUMUN-šu liḫalliq' - your name and seed ... from the earth may he destroy his seed."}
+      - {motif: curse-ground-slippery-like-ice, refs: ["CTH 52.I §9:170-175"]}
+      - {motif: curse-pursued-by-the-gods, refs: ["CTH 52.I §9:176-177"]}
+      - {motif: treaty-keeper-guarded-with-household, refs: ["CTH 52.I §10:178-179"]}
+      - {motif: blessing-land-rich-and-lying-down-in-peace, refs: ["CTH 52.I §10:180-182"], note: "'KUR Mittanni [kī] labirūti ana ašrišu litūr lišri lirbiṣ'."}
+      - {motif: blessing-dynasty-rules-forever, refs: ["CTH 52.I §10:183-185"]}
+    hints:
+      - "As for CTH 51.I §16-18: Deut 31:9-13, 24-26 (deposit and reading); Deut 28 and Lev 26 (curses and blessings); Deut 4:2 (no change to the words)."
+  - id: ane-cth-52-i-mittani-gods-self-curses
+    tradition: ane-hittite
+    title: "CTH 52.I §11-12: the gods of Mittani; Šattiwazza and the Hurrians curse themselves - tamarisk, water of the gutter, smoke, salt; their blessing in the lord's shade"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["CTH 52.I §11", "CTH 52.I §12"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 52.I §11:186-189"], note: "Storm god of heaven and earth, Sîn and Šamaš, Sîn of Ḫarrān, Ea lord of wisdom, Šumuqan of Kurda, Anu, Antu, Enlil, Ninlil, the storm gods of Waššukanni and of Irride, Nabarbi, Šuruḫi, Ištar, Šala, Išḫara, Pardaḫi of Šūda."}
+      - {motif: vedic-gods-as-treaty-witnesses, refs: ["CTH 52.I §11:188"], note: "'DINGIR.MEŠ Mitraššil DINGIR.MEŠ Arunaššil dIndar DINGIR.MEŠ Našattiyanna'."}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["CTH 52.I §11:190"], note: "'ḪUR.SAG.MEŠ ÍD.MEŠ u PÚ.MEŠ DINGIR.MEŠ ša AN u KI' - mountains, rivers and springs, gods of heaven and earth."}
+      - {motif: self-curse-oath-first-person, refs: ["CTH 52.I §11:191-207"], note: "'šumma anāku Šattiwazza ... u DUMU.MEŠ Ḫurri amāte ša riksi annî lā ninaṣṣar' - if I and we sons of Hurri do not keep ... (we curse ourselves); 'DINGIR.MEŠ bēl māmīti liḫalliqūnâši' may the gods, lords of the oath, destroy us."}
+      - {motif: curse-no-shoot-like-cut-tree, refs: ["CTH 52.I §11:193-195"], note: "'kīma GIŠ.Ù.TÚK ina niksišu pirʾam lā išû' - as a tamarisk (or acacia) once cut has no shoot, so may we with our lands, wives and sons have no seed."}
+      - {motif: water-spilled-on-ground-cannot-be-gathered, refs: ["CTH 52.I §11:196-197"], note: "'kīma mê GIŠ.PISAN ina ašrišu ayya itūrū u nênu kīma mê GIŠ.PISAN ana ašrini lā nitâr' - as the water of the gutter (drainpipe) does not return to its place, so may we not return to our place."}
+      - {motif: curse-rise-like-smoke, refs: ["CTH 52.I §11:198-199"], note: "'qadu mimmûni kī quṭri ana AN i nilli' - with our goods may we go up like smoke to heaven."}
+      - {motif: curse-barren-as-salt, refs: ["CTH 52.I §11:200-203"], note: "'kīma MUN NUMUN lā išû ... kīma MUN NUMUN [lā nīšu] akī LAG ṭābti ana ašrini lā nitūra' - as salt has no seed, so may we have none; like a lump of salt may we not return to our place."}
+      - {motif: curse-throne-overturned, refs: ["CTH 52.I §11:204-205"], note: "'anāku Šattiwazza šumma DAM-ta šanīta aḫassu GIŠ.GU.ZA-ia lišbalkit' - if I marry another wife, may they overturn my throne."}
+      - {motif: overlords-kinswoman-must-be-chief-wife, refs: ["CTH 52.I §11:192", "CTH 52.I §11:198", "CTH 52.I §11:204"], note: "Each self-curse includes 'qadu DAM-ti šaniti ša aḫassu' - with the other wife whom I might marry: a second wife is itself the breach."}
+      - {motif: treaty-keeper-guarded-with-household, refs: ["CTH 52.I §11:208-213"], note: "'DINGIR.MEŠ ša šumšunu nizkuru littalkūnâši lirēpišūnâši liṣṣurūnâši lidammiqūnâši' - may the gods whose names we have spoken go with us, strengthen us, guard us, do us good."}
+      - {motif: vassals-live-in-lords-shade, refs: ["CTH 52.I §11:214-216"], note: "'bēli Šattiwazza ana pāni lillik nênu ina ṣillišu ebūra mâda lū nīkul dumqa u nuḫta lū nīmur' - may my lord Šattiwazza go before us, may we eat a rich harvest in his shade, may we see good and rest."}
+      - {motif: king-as-protective-shade, refs: ["CTH 52.I §11:215"]}
+      - {motif: blessing-land-rich-and-lying-down-in-peace, refs: ["CTH 52.I §11:216-218"], note: "'dU GÚ.GAL AN u KI ana dārâti lū rēṣṣuni' - may the storm god, canal-inspector of heaven and earth, be our help for ever; joy of heart and peace of mind may we have for ever."}
+      - {motif: overlord-loves-vassal-like-his-tablet, refs: ["CTH 52.I §11:219-220"], note: "'kīmê dUTU-ši Šuppiluliuma ... KUR.KUR.MEŠ-šu ÉRIN.MEŠ-šu DUMU.MEŠ-šu ... kīma ṭuppišu irammu' - as Šuppiluliuma loves his lands, troops, sons and grandsons like his tablet, so may he love me and Mittani."}
+    hints:
+      - "Self-curse formulas of the oath: Num 5:21-22 (the woman says 'Amen, Amen'); Deut 27:15-26 (all the people shall say Amen); Neh 10:30 [29] (they entered into a curse and an oath); Ps 7:4-6 [3-5]."
+      - "A felled tree without a shoot: Job 14:7-9 (there is hope for a tree that it will sprout again) - inverted; Isa 6:13; Mal 3:19 [4:1] (leave them neither root nor branch)."
+      - "Water spilled that cannot be gathered: 2 Sam 14:14; Ps 58:8 [7]."
+      - "Vanishing like smoke: Ps 37:20; 68:3 [2]; 102:4 [3]; Hos 13:3."
+      - "Salt and barrenness: Judg 9:45 (Abimelech sows Shechem with salt); Deut 29:22 [23] (the whole land brimstone and salt, not sown); Jer 17:6; Zeph 2:9."
+      - "Living in the shadow of the anointed: Lam 4:20 ('under his shadow we shall live among the nations'); Judg 9:15 (come, take refuge in my shade); Isa 32:2."

@@ -54,6 +54,10 @@ new_motifs:
   tall-tale-of-cosmic-bull: {label: "To expose a lie the hero describes a bull of cosmic size: standing on the Isle of Amun, tail in the Delta marshes, horns on the eastern and western mountains, the river his bed, sixty calves born to him daily", cluster: wisdom}
   liar-swears-his-own-punishment: {label: "The liar swears that if his victim is found alive he himself shall suffer what he did to him; the victim is found alive and the liar receives the punishment he named", cluster: justice}
   lawsuit-before-divine-tribunal: {label: "The parties are brought to court before the Ennead, which hears the case and judges between them", cluster: law}
+  younger-brother-envies-elders-goodness: {label: "The wicked younger brother looks upon the excellent character of his elder brother and plots against him", cluster: primeval}
+  son-honours-blind-father: {label: "The son seats his blind, despised father on a chair with a footstool and sets food and drink before him", cluster: family}
+  ox-entrusted-to-herdsman-taken-by-villain: {label: "The hero leaves a splendid ox in the care of the villain's herdsman; the villain covets it and takes it to eat, giving the owner one of his own instead", cluster: justice}
+  oath-as-god-and-ruler-endure: {label: "An oath formula 'as Amun endures, as the Ruler endures' binding the swearer to a penalty", cluster: oath}
   # --- Two Brothers ---
   younger-brother-raised-as-son: {label: "A younger brother lives in his elder brother's household 'like a son' and does all its work: ploughing, harvest, herding and making his clothes", cluster: family}
   cattle-tell-herdsman-where-pasture-good: {label: "The cattle speak to their herdsman and tell him where the pasture is good, and he understands them", cluster: animals}
@@ -860,7 +864,7 @@ units:
       - {motif: dagger-of-cosmic-size, refs: ["TruthFalsehood 1_8"], note: "Largely restored from the later quotation at 10_3: pꜣ ḏww n J:jrʾ ... ḥmt ... the god's tomb as sheath, the herds of Kar as strap; Falsehood claims a dagger (lent to Truth?) of impossible size"}
       - {motif: younger-brother-blinds-elder, refs: ["TruthFalsehood 2_1-2_3"], note: "Grg(,j) 'Falsehood' to the Ennead: jmm jni̯ =tw Mꜣꜥ,t(j) mtw =tw kꜣmn =f m jr,t.du =f mtw =tw ḏi̯.t =f r jr,j-ꜥꜣ n pꜣy =j pr 'have Truth brought, blind him in both eyes and make him doorkeeper of my house'; the Ennead does all he says"}
       - {motif: lawsuit-before-divine-tribunal, refs: ["TruthFalsehood 2_1-2_3"]}
-      - {motif: villain-envies-brothers-virtue, refs: ["TruthFalsehood 2_3/2-2_4"], note: "Falsehood looks about and sees bj(ꜣ),t n Mꜣꜥ,t(j) pꜣy =f sn ꜥꜣ 'the excellent character of Truth, his elder brother'"}
+      - {motif: younger-brother-envies-elders-goodness, refs: ["TruthFalsehood 2_3/2-2_4"], note: "Falsehood looks about and sees bj(ꜣ),t n Mꜣꜥ,t(j) pꜣy =f sn ꜥꜣ 'the excellent character of Truth, his elder brother'"}
       - {motif: servants-ordered-to-throw-master-to-lions, refs: ["TruthFalsehood 2_5-3_3"], note: "jṯꜣy =tn pꜣy =tn nb mtw =tn ḫꜣꜥ =f n wꜥ mꜣj ḏw ... 'seize your master and throw him to a fierce lion and many lionesses'; Truth begs them not to and asks for bread; they report: the lion came out and devoured him"}
       - {motif: wild-animal-blamed, refs: ["TruthFalsehood 3_2-3_3"], note: "The servants falsely report that the lion devoured him (restored in part: [ḫꜣꜥ] =[n] =[f] ... ⸮wšꜥ? =f)"}
     hints:
@@ -878,11 +882,8 @@ units:
     tags:
       - {motif: hero-beautiful, refs: ["TruthFalsehood 3_5/2-3_6"], note: "nn-wn mj-qd =f m pꜣ tꜣ r-ḏr =f 'there was none like him in the whole land' (partly restored); the same formula as Bata (TwoBrothers 1_4)"}
       - {motif: lady-desires-blind-stranger-conceives, refs: ["TruthFalsehood 3_6/2-4_5"], note: "jw =st ḥr ꜣbwy.ṱ =f r-jqr zp-2 'she desired him very much'; jw =f (ḥr) rḫ =st m rḫ n ꜥḥꜣ,wtj 'he knew her as a man knows (a woman)'; jw =st ḥr ꜥḥꜥ jwr.tj m pꜣj grḥ m wꜥ ꜥḏd šrj 'she conceived that night a little boy'"}
-      - {motif: blind-man-made-doorkeeper, refs: ["TruthFalsehood 3_7/2"], note: "Her servants propose to bring him and 'make him doorkeeper of our house' (as Falsehood had done)"}
-      - {motif: wondrous-child-like-a-gods-child, refs: ["TruthFalsehood 4_5/2"], note: "She bore a son without equal in the land, 'in the manner of a god's child' (m sḫr,w n ms-nṯr, partly restored)"}
       - {motif: king-educated-in-scribal-school, refs: ["TruthFalsehood 4_7-5_1/3"], note: "Approximate (the label is royal): he is sent to school, learns writing excellently, practises all arts of war and surpasses his older schoolmates"}
-      - {motif: boy-mocked-as-fatherless, refs: ["TruthFalsehood 5_3-5_6"], note: "mntk šrjw nj~mꜥ ... yꜣ mꜥ~nj m-ḏi̯ =k jt 'whose son are you? ... you have no father!'; he asks his mother nj~mꜥ rn n pꜣy =j jt 'what is my father's name?'"}
-      - {motif: mother-reveals-blind-father, refs: ["TruthFalsehood 5_7-5_8"], note: "tw≡k ptrj pꜣj kꜣmn n,tj ḥmsi̯ r-gs pꜣ sbꜣ pꜣy =k jt pꜣj 'do you see this blind man sitting by the door? He is your father'"}
+      - {motif: boy-mocked-as-fatherless, refs: ["TruthFalsehood 5_3-5_8"], note: "His mother shows him the blind man by the door: pꜣy =k jt pꜣj 'he is your father'; mntk šrjw nj~mꜥ ... yꜣ mꜥ~nj m-ḏi̯ =k jt 'whose son are you? ... you have no father!'; he asks his mother nj~mꜥ rn n pꜣy =j jt 'what is my father's name?'"}
     hints:
       - "'Knew her as a man knows': the Hebrew yādaʿ of Gen 4:1, 25 and 19:8; conception in one night: Gen 19:33-36, 38:18."
       - "The son of a disgraced father mocked by his fellows: Jephthah driven out by his half-brothers (Judg 11:1-2); 'is not this the carpenter's son?' (Matt 13:55)."
@@ -897,7 +898,6 @@ units:
     tags:
       - {motif: son-honours-blind-father, refs: ["TruthFalsehood 6_2-6_4/3"], note: "He seats his father on a proper chair (qnjw), puts a footstool under his feet, sets food before him, makes him eat and drink"}
       - {motif: son-avenges-wronged-father, refs: ["TruthFalsehood 6_5-6_7/2"], note: "nj~mꜥ j:kꜣmn tw ꜥn =j n =k wšb,t 'who blinded you? I will seek redress for you'; m pꜣy =j sn šrjw j:kꜣmn =j 'it was my younger brother who blinded me'"}
-      - {motif: hero-sets-out-with-staff-sandals-bread, refs: ["TruthFalsehood 7_1"], note: "10 loaves, a staff, a pair of sandals, a waterskin and a knife"}
       - {motif: ox-entrusted-to-herdsman-taken-by-villain, refs: ["TruthFalsehood 7_2-8_4/2"], note: "He leaves a beautifully coloured ox with Falsehood's herdsman; Falsehood sees it, says jmm.tw n =j pꜣj jḥ wnm =j sw 'give me this ox to eat' and has the herdsman give the owner one of his own instead"}
       - {motif: tall-tale-of-cosmic-bull, refs: ["TruthFalsehood 8_5-9_5/2"], note: "jr wnn =f ꜥḥꜥ m Pꜣ-jw-n-Jmn tꜣ bꜣjr n sd =f ḥr tꜣ mḥ,t jw ꜥb =f wꜥ ḥr pꜣ ḏw jmn,tj ... 'when he stands on the Isle of Amun, the tuft of his tail lies on the papyrus marshes, one horn on the western mountain, the other on the eastern, the great river his resting place, 60 calves born to him daily'"}
       - {motif: lawsuit-before-divine-tribunal, refs: ["TruthFalsehood 9_5/3-9_6/2"], note: "He seizes the herdsman and drags Falsehood to the court (qnb,t) before the Ennead"}
@@ -919,7 +919,7 @@ units:
       - {motif: dagger-of-cosmic-size, refs: ["TruthFalsehood 10_3"]}
       - {motif: liar-swears-his-own-punishment, refs: ["TruthFalsehood 10_6-11_3/2"], note: "jri̯.t ꜥnḫ n nb ꜥnḫ (w)ḏꜣ snb wꜣḥ Jmn wꜣḥ pꜣ ḥqꜣ mtw =tw gmi̯ Mꜣꜥ,t(j) ꜥnḫ mtw =tw kꜣmn =j 'oath by the Lord: as Amun endures, as the Ruler endures, if Truth is found alive, let me be blinded in both eyes and made doorkeeper in Truth's house'; Truth is found alive; Falsehood receives 100 blows and 5 open wounds, is blinded and made doorkeeper (partly restored)"}
       - {motif: deceiver-deceived, refs: ["TruthFalsehood 11_2-11_3/2"]}
-      - {motif: oath-by-life-of-the-king-and-god, refs: ["TruthFalsehood 10_6-10_6/2"], note: "wꜣḥ Jmn wꜣḥ pꜣ ḥqꜣ 'as Amun endures, as the Ruler endures'"}
+      - {motif: oath-as-god-and-ruler-endure, refs: ["TruthFalsehood 10_6-10_6/2"], note: "wꜣḥ Jmn wꜣḥ pꜣ ḥqꜣ 'as Amun endures, as the Ruler endures'"}
       - {motif: scribal-colophon, refs: ["TruthFalsehood 11_5-11_5/2"], note: "Fragmentary end formula [jwi̯ =s pw nfr] and a scribe's name"}
     hints:
       - "The wicked caught in their own trap and given the punishment they devised: Haman (Esth 7:9-10), Daniel's accusers (Dan 6:24), Ps 7:15-16; the lex talionis 'eye for eye' (Exod 21:24; Q 5:45)."

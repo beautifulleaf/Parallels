@@ -223,7 +223,10 @@ def clip(text, n):
 def search_text(lead, rec):
     """Words a reader may search for that the light record does not already carry (finding, note, unit titles)."""
     have = " ".join([rec["f"], rec["n"], rec.get("t", "")]).lower()
-    bits = [lead.get("title") if not lead.get("units") else "", lead.get("summary"), lead.get("direction"),
+    summary = lead.get("summary", "")
+    if re.match(r"^\d+ shared motifs?, found by the separate reads", summary):
+        summary = ""   # the pipeline's stock summary says nothing a search needs
+    bits = [lead.get("title") if not lead.get("units") else "", summary, lead.get("direction"),
             *(lead.get("motifs") or []), *(lead.get("concepts") or []),
             *[m.get("label") for m in lead.get("matches") or []],
             *[x for lx in lead.get("lexical") or [] for x in (lx.get("form"), lx.get("translit"), lx.get("gloss"))],

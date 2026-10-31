@@ -3,7 +3,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Marcellus&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Serif+Hebrew:wght@400;600&display=swap">
 <style>
-/* Layout: a ledger. Filter rail on the left, lead entries as a single reading column; entries open in place. */
+/* Layout: the Quran is the spine. Home is a map of the 114 surahs; a surah page is the Arabic text,
+   annotated verse by verse with the leads anchored there; each lead opens in place, both texts side by side. */
 :root {
   --bg: #f4f5f9;
   --surface: #ffffff;
@@ -25,6 +26,13 @@
   --k-parallel: #2f7a55;
   --k-echo: #2741a3;
   --k-shared: #5b6078;
+  /* partner tradition family (categorical, validated for colour-vision deficiency) */
+  --f-hb: #2a78d6;
+  --f-ane: #eda100;
+  --f-gr: #6250d6;
+  --f-chr: #1baf7a;
+  --f-oth: #a7abbd;
+  --track: #e8eaf2;
   --font-display: "Marcellus", "Trajan Pro", Georgia, serif;
   --font-body: "Source Serif 4", "Noto Naskh Arabic", Georgia, "Times New Roman", serif;
   --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
@@ -37,6 +45,7 @@
     --lapis: #93a8ff; --lapis-soft: #232c52; --gold: #d8b456; --gold-soft: #3a3120;
     --est: #6fc79a; --prop: #93a8ff; --cont: #e3a457; --fringe: #ec8a8a;
     --k-divergence: #e3a457; --k-contrast: #ec8a8a; --k-response: #c3a3f0; --k-parallel: #6fc79a; --k-echo: #93a8ff; --k-shared: #9aa0bd;
+    --f-hb: #3987e5; --f-ane: #c98500; --f-gr: #9085e9; --f-chr: #199e70; --f-oth: #5d6380; --track: #222842;
     color-scheme: dark;
   }
 }
@@ -45,135 +54,237 @@
   --lapis: #93a8ff; --lapis-soft: #232c52; --gold: #d8b456; --gold-soft: #3a3120;
   --est: #6fc79a; --prop: #93a8ff; --cont: #e3a457; --fringe: #ec8a8a;
   --k-divergence: #e3a457; --k-contrast: #ec8a8a; --k-response: #c3a3f0; --k-parallel: #6fc79a; --k-echo: #93a8ff; --k-shared: #9aa0bd;
+  --f-hb: #3987e5; --f-ane: #c98500; --f-gr: #9085e9; --f-chr: #199e70; --f-oth: #5d6380; --track: #222842;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
 body {
-  background: var(--bg); color: var(--fg);
+  margin: 0; background: var(--bg); color: var(--fg);
   font-family: var(--font-body); font-size: 16px; line-height: 1.55;
+  overflow-x: hidden;
 }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+a { color: var(--lapis); }
 .wrap {
   max-width: 1180px; margin: 0 auto;
-  padding-block: 28px 64px;
+  padding-block: 20px 72px;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
-header.top { display: grid; gap: 6px; margin-bottom: 24px; }
-h1 {
-  font-family: var(--font-display); font-weight: 400; font-size: clamp(30px, 5vw, 44px);
-  letter-spacing: 0.04em; margin: 0; text-wrap: balance;
-}
-.lede { color: var(--muted); margin: 0; max-width: 65ch; }
-.layout { display: grid; grid-template-columns: 260px minmax(0, 1fr); gap: 32px; align-items: start; }
-@media (max-width: 820px) { .layout { grid-template-columns: minmax(0, 1fr); gap: 20px; } }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+[lang="ar"], [lang="arc"], [lang="myz"] { font-family: var(--font-arabic); }
+[lang="he"] { font-family: var(--font-hebrew); }
 
-/* Filter rail */
-aside.rail { display: grid; gap: 22px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 16px); }
-@media (max-width: 820px) { aside.rail { position: static; } }
-.rail h2 {
-  font-family: var(--font-mono); font-size: 11px; font-weight: 500; text-transform: uppercase;
-  letter-spacing: 0.12em; color: var(--muted); margin: 0 0 8px;
-}
+/* Top bar: brand, one search box, the two everyday filters; the rest behind "More filters" */
+header.top { display: grid; gap: 12px; margin-bottom: 22px; }
+.brand-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 16px; }
+.brand { font-family: var(--font-display); font-weight: 400; font-size: clamp(26px, 4.4vw, 38px); letter-spacing: 0.04em; margin: 0; }
+.brand a { color: inherit; text-decoration: none; }
+.lede { color: var(--muted); margin: 0; max-width: 70ch; font-size: 15px; }
+.bar { display: grid; gap: 8px; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 12px; position: relative; }
+.bar-row { display: flex; gap: 8px; align-items: center; min-width: 0; }
 .search {
-  width: 100%; font: inherit; font-size: 15px; padding: 10px 12px; border-radius: 6px;
-  border: 1px solid var(--rule); background: var(--surface); color: var(--fg);
+  flex: 1 1 auto; min-width: 0; font: inherit; font-size: 15px; padding: 9px 12px; border-radius: 6px;
+  border: 1px solid var(--rule); background: var(--bg); color: var(--fg);
 }
-.search:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.btn {
+  font-family: var(--font-mono); font-size: 12px; padding: 7px 11px; border-radius: 6px; white-space: nowrap;
+  border: 1px solid var(--rule); background: transparent; color: var(--fg); cursor: pointer;
+}
+.btn[aria-expanded="true"], .btn.on { border-color: var(--lapis); color: var(--lapis); }
+.btn.round { width: 32px; height: 32px; padding: 0; border-radius: 999px; font-size: 14px; }
+.linkbtn { font: inherit; font-size: 13px; color: var(--lapis); background: none; border: 0; padding: 0; cursor: pointer; }
+.frow { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 8px; align-items: start; }
+.frow-label { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); padding-top: 6px; display: flex; gap: 4px; align-items: center; }
+@media (max-width: 640px) {
+  .frow { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .frow-label { padding-top: 0; }
+  .chips.scroll { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+  .chips.scroll .chip { flex: 0 0 auto; }
+}
+.chips { display: flex; flex-wrap: wrap; gap: 6px; min-width: 0; }
 .chip {
   font-family: var(--font-mono); font-size: 12px; padding: 4px 9px; border-radius: 999px;
   border: 1px solid var(--rule); background: transparent; color: var(--fg); cursor: pointer;
 }
+.chip[data-k] { border-color: color-mix(in srgb, var(--k) 45%, var(--rule)); }
 .chip[aria-pressed="true"] { background: var(--lapis); border-color: var(--lapis); color: var(--surface); }
+.chip[data-k][aria-pressed="true"] { background: var(--k); border-color: var(--k); }
 .chip .n { color: var(--muted); margin-left: 4px; }
-.chip[aria-pressed="true"] .n { color: inherit; opacity: 0.75; }
-.tgroup { display: grid; gap: 4px; }
-.tgroup + .tgroup { margin-top: 10px; }
-.tgroup-name { font-family: var(--font-display); font-size: 15px; letter-spacing: 0.03em; }
-.tfamily { font-size: 12px; color: var(--muted); margin-top: 4px; }
-.tlist { display: flex; flex-wrap: wrap; gap: 4px; }
-.reset { font: inherit; font-size: 14px; color: var(--lapis); background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+.chip[aria-pressed="true"] .n { color: inherit; opacity: 0.8; }
+.active-line { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
 
-/* Results */
-.resultbar { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; align-items: baseline; margin-bottom: 12px; }
-.count { font-family: var(--font-mono); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
-.sort { display: flex; gap: 6px; }
-ol.leads { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
-.lead {
-  background: var(--surface); border: 1px solid var(--rule); border-radius: 8px;
-  border-left: 4px solid var(--k, var(--rule));
+/* Popovers: the kinds help and "More filters"; on phones "More filters" is a bottom sheet */
+.pop {
+  position: absolute; z-index: 30; right: 12px; top: calc(100% + 6px); width: min(440px, calc(100vw - 32px));
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; padding: 14px 16px;
+  box-shadow: 0 10px 30px rgba(10, 14, 30, 0.18); display: grid; gap: 14px; max-height: 70vh; overflow: auto;
 }
-.lead > details > summary { list-style: none; cursor: pointer; padding: 14px 16px; display: grid; gap: 6px; }
-.lead > details > summary::-webkit-details-marker { display: none; }
-.lead-title { font-size: 18px; font-weight: 600; line-height: 1.3; margin: 0; text-wrap: balance; }
-.lead-summary { margin: 0; color: var(--muted); font-size: 15px; max-width: 72ch; }
-.meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.pop[hidden] { display: none; }
+.pop h3 { font-family: var(--font-mono); font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); margin: 0 0 6px; }
+.pop-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.pop-head b { font-family: var(--font-display); font-weight: 400; font-size: 18px; }
+.pop.help { left: 12px; right: auto; }
+.kinds-help { display: grid; gap: 6px; font-size: 14px; }
+.kinds-help b { font-weight: 600; color: var(--k); }
+.backdrop { position: fixed; inset: 0; background: rgba(10, 14, 30, 0.35); z-index: 29; }
+.backdrop[hidden] { display: none; }
+@media (min-width: 641px) { .backdrop { background: transparent; } }
+@media (max-width: 640px) {
+  .pop.sheet { position: fixed; left: 0; right: 0; bottom: 0; top: auto; width: auto; max-height: 78vh;
+    border-radius: 14px 14px 0 0; padding: 16px max(16px, env(safe-area-inset-left, 0px)) calc(20px + env(safe-area-inset-bottom, 0px)); }
+  .pop.help { left: 12px; right: 12px; width: auto; }
+}
+
+/* Shared bits */
+.kind {
+  font-family: var(--font-mono); font-size: 11px; padding: 1px 8px; border-radius: 999px;
+  border: 1px solid var(--k); color: var(--k); white-space: nowrap; letter-spacing: 0.02em;
+}
 .tag {
-  font-family: var(--font-mono); font-size: 11px; padding: 2px 7px; border-radius: 4px;
-  background: var(--lapis-soft); color: var(--fg); letter-spacing: 0.02em;
+  font-family: var(--font-mono); font-size: 11px; padding: 1px 7px; border-radius: 4px;
+  background: var(--lapis-soft); color: var(--fg); letter-spacing: 0.02em; white-space: nowrap;
 }
 .tag.standing { background: transparent; border: 1px solid var(--rule); color: var(--muted); }
-.tag.status { background: transparent; border: 1px dashed var(--muted); color: var(--muted); }
-.tag.status[data-status="investigating"] { border-style: solid; color: var(--lapis); border-color: var(--lapis); }
-.tag.status[data-status="promising"] { border-style: solid; color: var(--est); border-color: var(--est); }
-.tag.status[data-status="rejected"] { text-decoration: line-through; }
+.tag.status { background: transparent; border: 1px solid var(--lapis); color: var(--lapis); }
+.tag.status[data-status="promising"] { color: var(--est); border-color: var(--est); }
+.tag.status[data-status="rejected"] { color: var(--muted); border-color: var(--muted); text-decoration: line-through; }
+.tag.checked { background: transparent; border: 1px solid var(--est); color: var(--est); }
 .tag.bench { background: var(--gold-soft); color: var(--gold); }
-.trads { font-size: 13px; color: var(--muted); }
+.hint { font-size: 13px; color: var(--muted); }
+.section-title { font-family: var(--font-display); font-weight: 400; font-size: 22px; letter-spacing: 0.02em; margin: 0; }
+.section-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 16px; margin: 30px 0 12px; }
+.section-head:first-child { margin-top: 0; }
+.count { font-family: var(--font-mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.empty-state { padding: 28px; text-align: center; color: var(--muted); border: 1px dashed var(--rule); border-radius: 8px; }
+.loading { padding: 40px 0; color: var(--muted); font-family: var(--font-mono); font-size: 13px; }
 
-.body { padding: 0 16px 16px; display: grid; gap: 16px; border-top: 1px solid var(--rule); padding-top: 14px; }
-.body h3 {
+/* Home: highlights strip */
+.highlights { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(260px, 300px); gap: 12px; overflow-x: auto;
+  padding: 2px 2px 10px; scroll-snap-type: x proximity; scrollbar-width: thin; }
+@media (max-width: 640px) { .highlights { grid-auto-columns: 82%; } }
+.hl { scroll-snap-align: start; display: grid; gap: 6px; align-content: start; text-decoration: none; color: inherit;
+  background: var(--surface); border: 1px solid var(--rule); border-top: 3px solid var(--k, var(--rule)); border-radius: 8px; padding: 12px 14px; }
+.hl:hover { border-color: var(--lapis); border-top-color: var(--k, var(--lapis)); }
+.hl-title { font-weight: 600; font-size: 16px; line-height: 1.3; text-wrap: balance; }
+.hl-pair { font-size: 13px; color: var(--muted); }
+.hl-where { font-family: var(--font-mono); font-size: 11px; color: var(--lapis); }
+.clamp2 { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.clamp3 { overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; }
+
+/* Home: the map of the Quran */
+.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--muted); }
+.legend span { white-space: nowrap; }
+.legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; background: var(--c); }
+.map { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 6px; }
+@media (max-width: 640px) { .map { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.sura { display: grid; grid-template-columns: 30px minmax(0, 1fr) auto; gap: 2px 8px; align-items: baseline; text-decoration: none; color: inherit;
+  background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 7px 10px 8px; min-width: 0; }
+.sura:hover { border-color: var(--lapis); }
+.sura.none { background: transparent; }
+.sura.none .sura-name, .sura.none .sura-n { color: var(--muted); }
+.sura-n { font-family: var(--font-mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.sura-name { font-size: 15px; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sura-ar { font-family: var(--font-arabic); font-size: 16px; line-height: 1.2; color: var(--muted); }
+.sura-c { grid-column: 1; font-family: var(--font-mono); font-size: 11px; color: var(--fg); font-variant-numeric: tabular-nums; }
+.sura.none .sura-c { color: var(--muted); }
+.sbar { grid-column: 2 / 4; display: flex; gap: 2px; height: 6px; align-self: center; border-radius: 3px; background: var(--track); overflow: hidden; }
+.sbar i { display: block; height: 100%; background: var(--c); min-width: 2px; }
+@media (max-width: 640px) { .sura { grid-template-columns: 26px minmax(0, 1fr); } .sura-ar { display: none; } .sbar { grid-column: 2; } }
+.entry-points { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+.entry { display: grid; gap: 4px; text-decoration: none; color: inherit; background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 14px 16px; }
+.entry:hover { border-color: var(--lapis); }
+.entry b { font-family: var(--font-display); font-weight: 400; font-size: 19px; color: var(--lapis); }
+.entry span { color: var(--muted); font-size: 14px; }
+
+/* Surah page: an annotated Quran */
+.shead { position: sticky; top: 0; z-index: 20; background: var(--bg); padding: 10px 0; border-bottom: 1px solid var(--rule);
+  display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; align-items: center; }
+.shead-mid { text-align: center; min-width: 0; }
+.shead h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(20px, 3.4vw, 28px); margin: 0; letter-spacing: 0.02em; line-height: 1.2; }
+.shead h2 .ar { font-family: var(--font-arabic); font-size: 0.95em; margin-inline-start: 8px; }
+.shead .count { display: block; margin-top: 2px; }
+.nav { font-family: var(--font-mono); font-size: 12px; text-decoration: none; padding: 6px 10px; border: 1px solid var(--rule); border-radius: 6px; white-space: nowrap; }
+.nav:hover { border-color: var(--lapis); }
+.nav.off { visibility: hidden; }
+@media (max-width: 640px) { .nav .nm { display: none; } }
+.stools { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; align-items: center; padding: 10px 0 4px; font-size: 14px; }
+.toggle { display: inline-flex; gap: 8px; align-items: center; cursor: pointer; }
+.toggle input { width: 16px; height: 16px; accent-color: var(--lapis); }
+.verses { display: grid; gap: 0; max-width: 860px; margin: 0 auto; }
+.vrow { scroll-margin-top: 90px; padding: 14px 0 12px; border-bottom: 1px solid var(--rule); }
+.vtext { display: grid; grid-template-columns: 38px minmax(0, 1fr); gap: 10px; align-items: start; }
+.vnum { font-family: var(--font-mono); font-size: 12px; color: var(--lapis); border: 1px solid var(--rule); border-radius: 999px;
+  min-width: 32px; height: 32px; display: grid; place-items: center; margin-top: 8px; font-variant-numeric: tabular-nums; text-decoration: none; }
+.vtext .ar { font-family: var(--font-arabic); font-size: 27px; line-height: 2.05; text-align: right; overflow-wrap: anywhere; }
+@media (max-width: 640px) { .vtext { grid-template-columns: 30px minmax(0, 1fr); gap: 8px; } .vnum { min-width: 28px; height: 28px; font-size: 11px; } .vtext .ar { font-size: 23px; } }
+.vrow.dim { padding: 6px 0; }
+.vrow.dim .vtext .ar { font-size: 19px; line-height: 1.85; color: var(--muted); opacity: 0.8; }
+.vrow.dim .vnum { color: var(--muted); border-color: transparent; height: 24px; margin-top: 4px; }
+.vgap { padding: 8px 0; text-align: center; font-family: var(--font-mono); font-size: 11px; color: var(--muted); border-bottom: 1px solid var(--rule); letter-spacing: 0.04em; }
+.rows { display: grid; gap: 6px; margin: 8px 0 0 48px; }
+@media (max-width: 640px) { .rows { margin-left: 0; } }
+.whole { margin: 12px 0 4px; }
+.whole .rows { margin-left: 0; }
+
+/* A lead row: kinds, partner text, the reader's note; it opens in place */
+.lrow { background: var(--surface); border: 1px solid var(--rule); border-left: 3px solid var(--k, var(--rule)); border-radius: 6px; scroll-margin-top: 90px; }
+.lr-head { display: grid; gap: 3px; width: 100%; text-align: left; font: inherit; color: inherit; background: none; border: 0; padding: 9px 12px; cursor: pointer; text-decoration: none; }
+a.lr-head:hover .lr-title, button.lr-head:hover .lr-title { color: var(--lapis); }
+.lr-top { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+.lr-span { font-family: var(--font-mono); font-size: 11px; color: var(--muted); margin-left: auto; white-space: nowrap; }
+.lr-title { font-size: 15px; font-weight: 600; line-height: 1.35; }
+.lr-trad { font-weight: 400; color: var(--muted); font-size: 13px; }
+.lr-note { font-size: 14px; color: var(--muted); max-width: 80ch; }
+.lr-caret { font-family: var(--font-mono); font-size: 11px; color: var(--lapis); }
+.lrow.open { border-color: var(--lapis); border-left-color: var(--k, var(--lapis)); }
+.lrow.open .lr-note { -webkit-line-clamp: unset; display: block; }
+.lr-body { padding: 4px 14px 16px; border-top: 1px solid var(--rule); display: grid; gap: 16px; }
+.lr-body[hidden] { display: none; }
+.list { display: grid; gap: 6px; }
+.group-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 12px; margin: 22px 0 8px; }
+.group-head:first-child { margin-top: 4px; }
+.group-head h3 { font-family: var(--font-display); font-weight: 400; font-size: 19px; margin: 0; letter-spacing: 0.02em; text-wrap: balance; }
+.group-head h3 a { color: inherit; text-decoration: none; }
+.group-head h3 a:hover { color: var(--lapis); }
+.group-head .sub { font-size: 13px; color: var(--muted); }
+.trad-index { display: grid; gap: 18px; }
+.trad-fam h3 { font-family: var(--font-mono); font-size: 11px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); margin: 0 0 8px; }
+.trad-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.trad-links a { text-decoration: none; background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 8px 12px; color: var(--fg); }
+.trad-links a:hover { border-color: var(--lapis); }
+.trad-links .count { margin-left: 6px; }
+.page-head { display: grid; gap: 6px; margin-bottom: 14px; }
+.crumb { font-family: var(--font-mono); font-size: 12px; }
+.page-head h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(22px, 3.6vw, 30px); margin: 0; letter-spacing: 0.02em; text-wrap: balance; }
+.page-head p { margin: 0; color: var(--muted); max-width: 72ch; }
+.lead-page { background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 6px 16px 16px; display: grid; gap: 16px; }
+
+/* The comparison body (opened rows and lead pages) */
+.lr-body h3, .lead-page h3 {
   font-family: var(--font-mono); font-size: 11px; font-weight: 500; text-transform: uppercase;
   letter-spacing: 0.12em; color: var(--muted); margin: 0 0 6px;
 }
-.body ul { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.lr-body ul, .lead-page ul { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.summary-line { margin: 10px 0 0; font-size: 15px; max-width: 75ch; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 .table-scroll { overflow-x: auto; }
 table { border-collapse: collapse; font-size: 14px; min-width: 100%; }
 th, td { text-align: left; padding: 5px 10px 5px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
 th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
 .form { font-size: 18px; }
-[lang="ar"], [lang="arc"], [lang="myz"] { font-family: var(--font-arabic); }
-[lang="he"] { font-family: var(--font-hebrew); }
-.passage { display: grid; gap: 2px; padding: 8px 0; border-bottom: 1px solid var(--rule); }
-.passage:last-child { border-bottom: 0; }
-.passage .ref { font-family: var(--font-mono); font-size: 12px; color: var(--lapis); }
-.passage .trad { color: var(--muted); }
-.passage .text { font-size: 20px; line-height: 1.9; }
-.passage .text[dir="rtl"] { text-align: right; }
-.passage .translation { font-size: 14px; color: var(--muted); font-style: italic; }
-.passage .src { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
 .basis { font-family: var(--font-mono); font-size: 10px; padding: 1px 6px; border-radius: 4px; margin-right: 6px; border: 1px solid var(--rule); color: var(--muted); white-space: nowrap; }
 .basis[data-basis="original"] { border-color: var(--est); color: var(--est); }
 .basis[data-basis="reading"] { border-color: var(--lapis); color: var(--lapis); }
 .basis[data-basis="gloss"] { border-color: var(--cont); color: var(--cont); }
 .basis[data-basis="scholarship"] { border-color: var(--prop); color: var(--prop); }
-.tag.review { background: transparent; border: 1px dashed var(--cont); color: var(--cont); }
-.tag.review[data-checked="true"] { border-style: solid; border-color: var(--est); color: var(--est); }
 .review-item { font-size: 14px; }
-.hint { font-size: 13px; color: var(--muted); }
-.passage .note { font-size: 14px; color: var(--muted); }
 .notes { font-size: 15px; }
 .notes p { margin: 0 0 6px; }
 .notes h4 { font-family: var(--font-display); font-weight: 400; font-size: 16px; margin: 8px 0 4px; }
-.notes .empty { color: var(--muted); font-style: italic; }
-.path { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
-.body a { color: var(--lapis); }
-.legend { display: grid; gap: 4px; font-size: 13px; color: var(--muted); }
-.legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; background: var(--c); }
-.empty-state { padding: 28px; text-align: center; color: var(--muted); border: 1px dashed var(--rule); border-radius: 8px; }
-@media (prefers-reduced-motion: no-preference) { .lead { transition: border-color 0.15s; } }
-/* Cards: the finding first, then each correspondence with both texts side by side */
-.kind {
-  font-family: var(--font-mono); font-size: 11px; padding: 2px 8px; border-radius: 999px;
-  border: 1px solid var(--k); color: var(--k); white-space: nowrap; letter-spacing: 0.02em;
-}
-.kind .n { opacity: 0.8; margin-left: 3px; }
-.pairline { margin: 0; font-size: 14px; color: var(--muted); }
-.pairline b { font-weight: 600; color: var(--fg); }
-.pairline .arrow { margin: 0 6px; }
-.preview { margin: 0; font-size: 14px; color: var(--muted); font-style: italic; max-width: 80ch;
-  overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-.statusline { font-family: var(--font-mono); font-size: 11px; color: var(--muted); letter-spacing: 0.02em; }
-.statusline .checked { color: var(--est); }
+.path { font-family: var(--font-mono); font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
 .match { display: grid; gap: 8px; padding: 12px 0 14px; border-bottom: 1px solid var(--rule); }
 .match:last-of-type { border-bottom: 0; }
 .match-head { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; }
@@ -184,77 +295,116 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 .side-trad { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); }
 .verse { display: grid; gap: 0; }
 .verse .ref { font-family: var(--font-mono); font-size: 12px; color: var(--lapis); }
-.verse .text { font-size: 19px; line-height: 1.85; }
+.verse .text { font-size: 19px; line-height: 1.85; overflow-wrap: anywhere; }
 .verse .text[dir="rtl"] { text-align: right; }
 .side-note { font-size: 13px; color: var(--muted); }
 .match-note { margin: 0; font-size: 15px; max-width: 75ch; padding: 8px 12px; background: var(--bg); border-radius: 6px; }
 .more > summary { cursor: pointer; font-family: var(--font-mono); font-size: 12px; color: var(--lapis); }
 .more[open] > summary { margin-bottom: 10px; }
 .more-body { display: grid; gap: 14px; }
-li.group { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px; padding: 14px 2px 2px; }
-li.group h2 { font-family: var(--font-display); font-weight: 400; font-size: 20px; margin: 0; letter-spacing: 0.02em; text-wrap: balance; }
-li.group span { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
-.kinds-help { display: grid; gap: 3px; font-size: 13px; color: var(--muted); margin-top: 8px; }
-.kinds-help b { font-weight: 600; color: var(--k); }
+@media (prefers-reduced-motion: no-preference) { .lrow, .sura, .hl, .entry, .chip { transition: border-color 0.15s, background-color 0.15s; } }
 </style>
 
 <div class="wrap">
   <header class="top">
-    <h1>Parallels Ledger</h1>
-    <p class="lede">Parallels, deliberate changes and answers between traditions, read in the original languages. Each card is one pair of passages; open it to see both texts side by side. Every lead is a file in <code>leads/</code>, where review status and notes are kept.</p>
-  </header>
-
-  <div class="layout">
-    <aside class="rail" aria-label="Filters">
-      <div>
-        <label for="q"><h2>Search</h2></label>
-        <input id="q" class="search" type="search" placeholder="yamm, flood, Mani, 20:39…" autocomplete="off">
+    <div class="brand-row">
+      <h1 class="brand"><a href="#/">Parallels Ledger</a></h1>
+      <span class="count" id="total"></span>
+    </div>
+    <div class="bar" id="bar">
+      <div class="bar-row">
+        <label class="sr" for="q">Search the leads</label>
+        <input id="q" class="search" type="search" placeholder="Search: flood, Joseph, yamm, 20:39…" autocomplete="off">
+        <button class="btn" id="more-btn" type="button" aria-expanded="false" aria-controls="more-pop">More filters</button>
       </div>
-      <div><h2>What kind of finding</h2><div class="chips" id="f-kinds"></div>
+      <div class="frow">
+        <div class="frow-label">Kind of finding <button class="btn round" id="help-btn" type="button" aria-expanded="false" aria-controls="help-pop" aria-label="What the kinds mean" style="width:22px;height:22px;font-size:11px">?</button></div>
+        <div class="chips scroll" id="f-kinds"></div>
+      </div>
+      <div class="frow">
+        <div class="frow-label">Partner tradition</div>
+        <div class="chips scroll" id="f-traditions"></div>
+      </div>
+      <div class="active-line" id="active" hidden></div>
+      <div class="pop help" id="help-pop" role="dialog" aria-label="What the kinds mean" hidden>
+        <div class="pop-head"><b>Kinds of finding</b><button class="btn" type="button" data-close>Close</button></div>
         <div class="kinds-help">
-          <span style="--k: var(--k-divergence)"><b>Deliberately changed</b>: same episode, a detail altered</span>
+          <span style="--k: var(--k-divergence)"><b>Deliberately changed</b>: the same episode, a detail altered</span>
           <span style="--k: var(--k-contrast)"><b>Opposite ruling</b>: the laws disagree</span>
-          <span style="--k: var(--k-response)"><b>Answers the other</b>: one text corrects a claim</span>
+          <span style="--k: var(--k-response)"><b>Answers the other</b>: one text corrects a claim of the other</span>
           <span style="--k: var(--k-parallel)"><b>Same element</b>: the same motif or story beat</span>
           <span style="--k: var(--k-echo)"><b>Shared wording</b>: a phrase or image in common</span>
-          <span style="--k: var(--k-shared)"><b>Shared motif</b>: found by the separate reads, not yet compared</span>
+          <span style="--k: var(--k-shared)"><b>Shared motif</b>: found by the separate reads, not yet compared side by side</span>
         </div>
+        <p class="hint" style="margin:0">Each lead is a file in <code>leads/</code>, where review status and notes are kept. Texts are shown in the original; English is a reading aid only.</p>
       </div>
-      <div><h2>Traditions</h2><div id="f-traditions"></div></div>
-      <div><h2>Checked by a reader of the language</h2><div class="chips" id="f-review"></div></div>
-      <div><h2>Your review status</h2><div class="chips" id="f-status"></div></div>
-      <div><h2>Standing in scholarship</h2><div class="chips" id="f-standing"></div></div>
-      <div><h2>Relation</h2><div class="chips" id="f-relations"></div></div>
-      <div><h2>Layer</h2><div class="chips" id="f-layers"></div></div>
-      <button class="reset" id="reset" type="button">Clear all filters</button>
-    </aside>
-
-    <main>
-      <div class="resultbar">
-        <span class="count" id="count"></span>
-        <div class="sort chips" id="sort"></div>
+      <div class="pop sheet" id="more-pop" role="dialog" aria-label="More filters" hidden>
+        <div class="pop-head"><b>More filters</b><button class="btn" type="button" data-close>Done</button></div>
+        <div><h3>Standing in scholarship</h3><div class="chips" id="f-standing"></div></div>
+        <div><h3>Relation</h3><div class="chips" id="f-relations"></div></div>
+        <div><h3>Layer</h3><div class="chips" id="f-layers"></div></div>
+        <div><h3>Checked by a reader of the language</h3><div class="chips" id="f-review"></div></div>
+        <div><h3>Your review status</h3><div class="chips" id="f-status"></div></div>
       </div>
-      <ol class="leads" id="leads"></ol>
-    </main>
-  </div>
+    </div>
+  </header>
+  <div class="backdrop" id="backdrop" hidden></div>
+  <main id="view" tabindex="-1"><p class="loading">Loading the ledger…</p></main>
 </div>
 
 <script id="data" type="application/json">__DATA__</script>
 <script>
 (async function () {
+  "use strict";
   const DATA = JSON.parse(document.getElementById("data").textContent);
-  if (DATA.parts) {   // large ledgers ship their leads as separate files next to the page
-    try {
-      DATA.leads = (await Promise.all(DATA.parts.map(p => fetch(p).then(r => {
-        if (!r.ok) throw new Error(p + ": " + r.status);
-        return r.json();
-      })))).flat();
-    } catch (e) {
-      document.getElementById("count").textContent = "Could not load the leads (" + e.message + ").";
-      return;
-    }
+  const view = document.getElementById("view");
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+  // ------------------------------------------------------------------ data
+  const getJson = p => fetch(p).then(r => { if (!r.ok) throw new Error(p + ": " + r.status); return r.json(); });
+  let INDEX;
+  try {
+    INDEX = await getJson(DATA.index || "data/index.json");
+    if (INDEX.more?.length) INDEX.leads = INDEX.leads.concat(...(await Promise.all(INDEX.more.map(getJson))).map(x => x.leads));
+  } catch (e) {
+    view.innerHTML = `<p class="empty-state">Could not load the leads (${esc(e.message)}).</p>`;
+    return;
   }
+  const LEADS = INDEX.leads;
+  const BY_ID = new Map(LEADS.map(r => [r.id, r]));
+  const UNITS = INDEX.units || {};
   const TRAD = Object.fromEntries(DATA.traditions.map(t => [t.id, t]));
+  const tradName = t => TRAD[t]?.name || t;
+
+  // The 114 surahs: transliterated and Arabic names (standard Tanzil names)
+  const SURA = [
+    ["Al-Fatiha","الفاتحة"],["Al-Baqara","البقرة"],["Aal Imran","آل عمران"],["An-Nisa","النساء"],["Al-Ma'ida","المائدة"],
+    ["Al-An'am","الأنعام"],["Al-A'raf","الأعراف"],["Al-Anfal","الأنفال"],["At-Tawba","التوبة"],["Yunus","يونس"],
+    ["Hud","هود"],["Yusuf","يوسف"],["Ar-Ra'd","الرعد"],["Ibrahim","إبراهيم"],["Al-Hijr","الحجر"],
+    ["An-Nahl","النحل"],["Al-Isra","الإسراء"],["Al-Kahf","الكهف"],["Maryam","مريم"],["Ta-Ha","طه"],
+    ["Al-Anbiya","الأنبياء"],["Al-Hajj","الحج"],["Al-Mu'minun","المؤمنون"],["An-Nur","النور"],["Al-Furqan","الفرقان"],
+    ["Ash-Shu'ara","الشعراء"],["An-Naml","النمل"],["Al-Qasas","القصص"],["Al-Ankabut","العنكبوت"],["Ar-Rum","الروم"],
+    ["Luqman","لقمان"],["As-Sajda","السجدة"],["Al-Ahzab","الأحزاب"],["Saba","سبإ"],["Fatir","فاطر"],
+    ["Ya-Sin","يس"],["As-Saffat","الصافات"],["Sad","ص"],["Az-Zumar","الزمر"],["Ghafir","غافر"],
+    ["Fussilat","فصلت"],["Ash-Shura","الشورى"],["Az-Zukhruf","الزخرف"],["Ad-Dukhan","الدخان"],["Al-Jathiya","الجاثية"],
+    ["Al-Ahqaf","الأحقاف"],["Muhammad","محمد"],["Al-Fath","الفتح"],["Al-Hujurat","الحجرات"],["Qaf","ق"],
+    ["Adh-Dhariyat","الذاريات"],["At-Tur","الطور"],["An-Najm","النجم"],["Al-Qamar","القمر"],["Ar-Rahman","الرحمن"],
+    ["Al-Waqi'a","الواقعة"],["Al-Hadid","الحديد"],["Al-Mujadila","المجادلة"],["Al-Hashr","الحشر"],["Al-Mumtahana","الممتحنة"],
+    ["As-Saff","الصف"],["Al-Jumu'a","الجمعة"],["Al-Munafiqun","المنافقون"],["At-Taghabun","التغابن"],["At-Talaq","الطلاق"],
+    ["At-Tahrim","التحريم"],["Al-Mulk","الملك"],["Al-Qalam","القلم"],["Al-Haqqa","الحاقة"],["Al-Ma'arij","المعارج"],
+    ["Nuh","نوح"],["Al-Jinn","الجن"],["Al-Muzzammil","المزمل"],["Al-Muddaththir","المدثر"],["Al-Qiyama","القيامة"],
+    ["Al-Insan","الإنسان"],["Al-Mursalat","المرسلات"],["An-Naba","النبإ"],["An-Nazi'at","النازعات"],["Abasa","عبس"],
+    ["At-Takwir","التكوير"],["Al-Infitar","الانفطار"],["Al-Mutaffifin","المطففين"],["Al-Inshiqaq","الانشقاق"],["Al-Buruj","البروج"],
+    ["At-Tariq","الطارق"],["Al-A'la","الأعلى"],["Al-Ghashiya","الغاشية"],["Al-Fajr","الفجر"],["Al-Balad","البلد"],
+    ["Ash-Shams","الشمس"],["Al-Layl","الليل"],["Ad-Duha","الضحى"],["Ash-Sharh","الشرح"],["At-Tin","التين"],
+    ["Al-Alaq","العلق"],["Al-Qadr","القدر"],["Al-Bayyina","البينة"],["Az-Zalzala","الزلزلة"],["Al-Adiyat","العاديات"],
+    ["Al-Qari'a","القارعة"],["At-Takathur","التكاثر"],["Al-Asr","العصر"],["Al-Humaza","الهمزة"],["Al-Fil","الفيل"],
+    ["Quraysh","قريش"],["Al-Ma'un","الماعون"],["Al-Kawthar","الكوثر"],["Al-Kafirun","الكافرون"],["An-Nasr","النصر"],
+    ["Al-Masad","المسد"],["Al-Ikhlas","الإخلاص"],["Al-Falaq","الفلق"],["An-Nas","الناس"],
+  ];
+  const VCOUNT = Object.fromEntries((INDEX.surahs || []).map(s => [s.n, s.v]));
+  const suraName = n => SURA[n - 1]?.[0] || `Surah ${n}`;
+
   const ORDER = {
     kinds: ["divergence", "contrast", "response", "parallel", "echo", "shared"],
     relations: ["internal", "inheritance", "transmission", "convergence", "response"],
@@ -267,98 +417,158 @@ li.group span { font-family: var(--font-mono); font-size: 12px; color: var(--mut
     divergence: "Deliberately changed", contrast: "Opposite ruling", response: "Answers the other",
     parallel: "Same element", echo: "Shared wording", shared: "Shared motif",
   };
-  const LABEL = { checked: "checked", unchecked: "not yet checked" };
-  const FILTERS = ["kinds", "review", "status", "standing", "relations", "layers"];
+  const FAM = [["hb", "Hebrew Bible & Judaism"], ["ane", "Ancient Near East"], ["gr", "Greco-Roman"], ["chr", "Christian"], ["oth", "Other, or within the Quran"]];
+  const FAM_NAME = Object.fromEntries(FAM);
+  const LABEL = { checked: "checked in the original", unchecked: "not yet checked" };
+  const MORE = ["standing", "relations", "layers", "review", "status"];
+  const KEYS = ["kinds", "traditions", ...MORE];
   const RTL = new Set(["ar", "he", "arc", "syc", "myz"]);
   const BASIS = { original: "from the original", reading: "a reader's interpretation of the original", lexicon: "from a lexicon", gloss: "relies on English glosses", scholarship: "secondary scholarship" };
-  const state = { q: "", kinds: new Set(), relations: new Set(), standing: new Set(), status: new Set(), layers: new Set(), review: new Set(), traditions: new Set(), sort: "story" };
-  const BY_ID = Object.fromEntries(DATA.leads.map(l => [l.id, l]));
-
-  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const leadValue = (lead, key) => key === "standing" || key === "status" ? [lead[key]]
-    : key === "review" ? [(lead.reviews || []).length ? "checked" : "unchecked"] : (lead[key] || []);
   const kindVar = k => `var(--k-${k})`;
+  const state = { q: "", only: {}, ...Object.fromEntries(KEYS.map(k => [k, new Set()])) };
 
-  function haystack(lead) {
-    if (lead._hay) return lead._hay;
-    const parts = [lead.title, lead.summary, lead.notes, lead.direction, ...(lead.motifs || []), ...(lead.concepts || []), ...(lead.evidence || []).map(e => e.text || e),
-      ...(lead.traditions || []).map(t => TRAD[t]?.name),
-      ...(lead.lexical || []).flatMap(x => [x.form, x.translit, x.gloss]),
-      ...(lead.passages || []).flatMap(p => [p.ref, p.text, p.note]),
-      lead.finding, ...(lead.units || []).map(u => u.title),
-      ...(lead.matches || []).flatMap(m => [m.label, m.note, KIND[m.kind], ...m.sides.flatMap(sd => [sd.note, ...sd.passages.flatMap(v => [v.ref, v.text])])])];
-    lead._hay = parts.filter(Boolean).join(" ").toLowerCase().normalize("NFD").replace(/[̀-ًͯ-ٰٟۖ-ۭ]/g, "");
-    return lead._hay;
-  }
-  const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ًͯ-ٰٟۖ-ۭ]/g, "");
-
-  function matches(lead, skip) {
-    if (state.q && !norm(state.q).split(/\s+/).filter(Boolean).every(w => haystack(lead).includes(w))) return false;
-    for (const key of FILTERS) {
-      if (key === skip || !state[key].size) continue;
-      if (!leadValue(lead, key).some(v => state[key].has(v))) return false;
+  // ------------------------------------------------------------------ filtering
+  const value = (r, key) => {
+    switch (key) {
+      case "kinds": return r.k;
+      case "traditions": return r.tr;
+      case "standing": return [r.sd];
+      case "relations": return r.rel;
+      case "layers": return r.ly;
+      case "review": return [r.rv ? "checked" : "unchecked"];
+      case "status": return [r.st || "new"];
     }
-    if (skip !== "traditions" && state.traditions.size) {
-      for (const t of state.traditions) if (!lead.traditions.includes(t)) return false;
+    return [];
+  };
+  const norm = s => String(s).toLowerCase().normalize("NFD").replace(/[̀-ًͯ-ٰٟۖ-ۭ֑-ׇ]/g, "").replace(/[ʾʿ'’‘]/g, "");
+  function hay(r) {
+    if (r._h) return r._h;
+    r._h = norm([r.id, r.f, r.t, r.n, r.s, ...r.u.map(u => UNITS[u]?.[0]), ...r.tr.map(tradName),
+      ...(r.pp || []).map(p => p[1]), ...r.q.map(([s]) => suraName(s))].filter(Boolean).join(" "));
+    return r._h;
+  }
+  let qTokens = [];
+  function setQuery(q) {
+    state.q = q;
+    qTokens = norm(q).split(/\s+/).filter(Boolean).map(t => {
+      const m = t.match(/^(?:q|quran)?(\d{1,3}):(\d{1,3})$/);
+      return m ? { s: +m[1], v: +m[2] } : t;
+    });
+  }
+  const queryOk = r => qTokens.every(t => typeof t === "string" ? hay(r).includes(t)
+    : r.q.some(([s, a, b]) => s === t.s && (a === 0 || (t.v >= a && t.v <= b))));
+  function pass(r, skip, withQuery) {
+    if (withQuery && qTokens.length && !queryOk(r)) return false;
+    for (const key of KEYS) {
+      if (key === skip || !state[key].size) continue;
+      if (key === "traditions") { for (const t of state.traditions) if (!r.tr.includes(t)) return false; }
+      else if (!value(r, key).some(v => state[key].has(v))) return false;
     }
     return true;
   }
+  const activeCount = () => KEYS.reduce((n, k) => n + state[k].size, 0);
+  const visible = () => { const q = route().name === "search"; return LEADS.filter(r => pass(r, null, q)); };
 
-  function chip(label, value, key, count) {
-    const pressed = state[key].has(value);
-    if (!count && !pressed) return "";   // filters with nothing behind them stay out of the way
-    return `<button type="button" class="chip" data-key="${key}" data-value="${esc(value)}" aria-pressed="${pressed}">${esc(label)}<span class="n">${count}</span></button>`;
+  // ------------------------------------------------------------------ filter bar
+  function chip(label, v, key, n, extra = "") {
+    const on = state[key].has(v);
+    if (!n && !on) return "";
+    return `<button type="button" class="chip" data-key="${key}" data-value="${esc(v)}" aria-pressed="${on}"${extra}>${esc(label)}<span class="n">${n}</span></button>`;
   }
-
-  function renderFilters() {
-    for (const key of FILTERS) {
-      const pool = DATA.leads.filter(l => matches(l, key));
-      const label = v => key === "kinds" ? KIND[v] : LABEL[v] || v;
-      document.getElementById("f-" + key).innerHTML = ORDER[key]
-        .map(v => chip(label(v), v, key, pool.filter(l => leadValue(l, key).includes(v)).length)).join("")
-        || `<span class="hint">None yet</span>`;
+  function tally(key) {
+    const withQ = route().name === "search";
+    const counts = new Map();
+    for (const r of LEADS) {
+      if (!pass(r, key, withQ)) continue;
+      for (const v of value(r, key)) counts.set(v, (counts.get(v) || 0) + 1);
     }
-    const pool = DATA.leads.filter(l => matches(l, "traditions"));
-    const html = DATA.groups.map(g => {
-      const trads = DATA.traditions.filter(t => t.group === g.id);
-      const families = [...new Set(trads.map(t => t.family))];
-      const body = families.map(f => {
-        const items = trads.filter(t => t.family === f)
-          .map(t => chip(t.name, t.id, "traditions", pool.filter(l => l.traditions.includes(t.id)).length)).join("");
-        return items ? (families.length > 1 || f !== g.name ? `<div class="tfamily">${esc(f)}</div>` : "") + `<div class="tlist">${items}</div>` : "";
-      }).join("");
-      return body ? `<div class="tgroup"><div class="tgroup-name">${esc(g.name)}</div>${body}</div>` : "";
-    }).join("");
-    document.getElementById("f-traditions").innerHTML = html;
-    document.getElementById("sort").innerHTML = [["story", "By story"], ["title", "A–Z"], ["standing", "Standing"]]
-      .map(([v, l]) => `<button type="button" class="chip" data-sort="${v}" aria-pressed="${state.sort === v}">${l}</button>`).join("");
+    return counts;
+  }
+  function renderBar() {
+    const kc = tally("kinds");
+    document.getElementById("f-kinds").innerHTML = ORDER.kinds.map(k => chip(KIND[k], k, "kinds", kc.get(k) || 0, ` data-k style="--k: ${kindVar(k)}"`)).join("") || `<span class="hint">None</span>`;
+    const tc = tally("traditions");
+    document.getElementById("f-traditions").innerHTML = DATA.traditions.filter(t => t.id !== "islam")
+      .map(t => chip(t.name.replace(/ \(.*\)$/, ""), t.id, "traditions", tc.get(t.id) || 0)).join("");
+    for (const key of MORE) {
+      if (document.getElementById("more-pop").hidden && !state[key].size) continue;   // counted when the sheet is open
+      const c = tally(key);
+      document.getElementById("f-" + key).innerHTML = ORDER[key].map(v => chip(LABEL[v] || v, v, key, c.get(v) || 0)).join("") || `<span class="hint">None</span>`;
+    }
+    const nMore = MORE.reduce((n, k) => n + state[k].size, 0);
+    const mb = document.getElementById("more-btn");
+    mb.textContent = nMore ? `More filters (${nMore})` : "More filters";
+    mb.classList.toggle("on", nMore > 0);
+    const act = document.getElementById("active");
+    const n = activeCount();
+    act.hidden = !n;
+    if (n) act.innerHTML = `<span>${n} filter${n > 1 ? "s" : ""} on · they apply on every page</span><button type="button" class="linkbtn" id="clear">Clear all filters</button>`;
+    document.getElementById("total").textContent = `${LEADS.length.toLocaleString("en")} leads`;
   }
 
+  // ------------------------------------------------------------------ pieces of a row
+  const quranUnitOf = (r, s) => r.u.find(u => new RegExp(`^quran-${s}(-|$)`).test(u));
+  function partnerOf(r, s) {
+    const units = r.u.map(id => ({ id, title: UNITS[id]?.[0] || id, trad: UNITS[id]?.[1] }));
+    const own = s ? quranUnitOf(r, s) : null;
+    const p = units.find(u => u.id !== own && u.trad !== "islam") || units.find(u => u.id !== own) || null;
+    if (p) return { title: p.title, trad: tradName(p.trad) };
+    const ts = r.tr.filter(t => t !== "islam");
+    return { title: r.t || r.f, trad: (ts.length ? ts : r.tr).map(tradName).join(" · ") };
+  }
+  const anchorIn = (r, s) => r.q.find(a => a[0] === s);
+  const spanText = (a, b) => !a ? "whole surah" : a === b ? `v. ${a}` : `vv. ${a}–${b}`;
+  const whereText = r => {
+    if (!r.q.length) return "Beyond the Quran";
+    const [s, a, b] = r.q[0];
+    return `${s} ${suraName(s)}` + (a ? (a === b ? ` : ${a}` : ` : ${a}–${b}`) : "") + (r.q.length > 1 ? ` +${r.q.length - 1} more surah${r.q.length > 2 ? "s" : ""}` : "");
+  };
+  function noteOf(r) {
+    if (/found by the separate reads/.test(r.n)) return `Shared motif: ${r.f}${r.m > 1 ? `, and ${r.m - 1} more` : ""}. Not yet compared side by side.`;
+    return r.n;
+  }
+  const priority = r => Math.min(...(r.k.length ? r.k : ["shared"]).map(k => ORDER.kinds.indexOf(k)));
+  function badges(r) {
+    const kinds = r.k.map(k => `<span class="kind" style="--k: ${kindVar(k)}">${esc(KIND[k])}</span>`).join("");
+    const plain = r.k.length ? "" : r.ly.map(l => `<span class="tag standing">${esc(l)}</span>`).join("");
+    const status = (r.st && r.st !== "new" ? `<span class="tag status" data-status="${esc(r.st)}">${esc(r.st)}</span>` : "")
+      + (r.rv ? `<span class="tag checked">checked in the original</span>` : "")
+      + (r.b ? `<span class="tag bench">benchmark</span>` : "");
+    return kinds + plain + status;
+  }
+  const kStyle = r => `--k: ${r.k.length ? kindVar(ORDER.kinds[priority(r)]) : "var(--rule)"}`;
+  function rowInner(r, s, where) {
+    const p = partnerOf(r, s);
+    const a = s ? anchorIn(r, s) : null;
+    const span = where ? whereText(r) : a ? spanText(a[1], a[2]) : "";
+    return `<span class="lr-top">${badges(r)}<span class="lr-span">${esc(span)}</span></span>
+      <span class="lr-title">${esc(p.title)} <span class="lr-trad">· ${esc(p.trad)}</span></span>
+      <span class="lr-note clamp2">${esc(noteOf(r))}</span>`;
+  }
+  // a row that links to the lead (lists, search, tradition pages)
+  const linkRow = (r, s) => `<div class="lrow" style="${kStyle(r)}"><a class="lr-head" href="#/lead/${esc(r.id)}">${rowInner(r, s, true)}</a></div>`;
+
+  // ------------------------------------------------------------------ the comparison body (as before)
   function notesHtml(md) {
     const lines = (md || "").split("\n");
-    let out = "", list = false, content = false;
+    let out = "", list = false;
     for (const raw of lines) {
       const line = raw.trimEnd();
       const h = line.match(/^#{1,6}\s+(.*)$/);
       const li = line.match(/^\s*[-*]\s+(.*)$/);
       if (list && !li) { out += "</ul>"; list = false; }
       if (h) out += `<h4>${esc(h[1])}</h4>`;
-      else if (li) { if (!list) { out += "<ul>"; list = true; } out += `<li>${esc(li[1])}</li>`; content = true; }
-      else if (line.trim()) { out += `<p>${esc(line)}</p>`; content = true; }
+      else if (li) { if (!list) { out += "<ul>"; list = true; } out += `<li>${esc(li[1])}</li>`; }
+      else if (line.trim()) out += `<p>${esc(line)}</p>`;
     }
     if (list) out += "</ul>";
-    return content ? out : `<p class="empty">No review notes yet. Add them under the headings in the lead file.</p>`;
+    return /<(p|li)>/.test(out) ? out : "";
   }
-
-  const tradName = t => TRAD[t]?.name || t;
-  const isChecked = lead => (lead.reviews || []).length > 0;
-
   function verseHtml(v) {
     return `<div class="verse"><span class="ref">${esc(v.ref)}</span>
       ${v.text ? `<span class="text" lang="${esc(v.lang || "")}"${RTL.has(v.lang) ? ' dir="rtl"' : ""}>${esc(v.text)}</span>` : ""}
       ${v.text_omitted ? `<span class="hint">Original not shown: ${esc(v.text_omitted)}.</span>` : ""}</div>`;
   }
-
   function matchHtml(m, lead) {
     const sides = m.sides.map((sd, i) => `<div class="side">
         <div class="side-trad">${esc(lead.units?.[i]?.title || tradName(sd.tradition))}</div>
@@ -369,9 +579,7 @@ li.group span { font-family: var(--font-mono); font-size: 12px; color: var(--mut
       <div class="sides">${sides}</div>
       ${m.note ? `<p class="match-note">${esc(m.note)}</p>` : ""}</div>`;
   }
-
   function passagesHtml(lead) {
-    // hand-written and lexical leads: their passages, grouped by tradition into sides
     const byTrad = new Map();
     for (const p of lead.passages || []) {
       if (!byTrad.has(p.tradition)) byTrad.set(p.tradition, []);
@@ -383,8 +591,9 @@ li.group span { font-family: var(--font-mono); font-size: 12px; color: var(--mut
         + (p.note ? `<div class="side-note">${esc(p.note)}</div>` : "")).join("")}</div>`).join("");
     return `<section><h3>Passages</h3><div class="sides">${sides}</div></section>`;
   }
-
   function bodyHtml(lead) {
+    const summary = !lead.matches?.length || !/found by the separate reads/.test(lead.summary)
+      ? `<p class="summary-line">${esc(lead.summary)}</p>` : "";
     const lexical = lead.lexical?.length ? `<section><h3>Words</h3><div class="table-scroll"><table>
         <thead><tr><th>Lang</th><th>Original</th><th>Translit.</th><th>English gloss (aid only)</th></tr></thead><tbody>
         ${lead.lexical.map(x => `<tr><td>${esc(x.lang)}</td><td class="form" lang="${esc(x.lang)}">${esc(x.form)}</td><td><i>${esc(x.translit)}</i></td><td>${esc(x.gloss)}</td></tr>`).join("")}
@@ -397,106 +606,394 @@ li.group span { font-family: var(--font-mono); font-size: 12px; color: var(--mut
     const motifs = tagsList.length ? `<section><h3>Motif ids</h3><div class="meta">${tagsList.map(m => `<span class="tag">${esc(m)}</span>`).join("")}</div></section>` : "";
     const sources = lead.sources?.length ? `<section><h3>Sources</h3><ul>${lead.sources.map(s => `<li>${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>` : esc(s.label)}</li>`).join("")}</ul></section>` : "";
     const direction = lead.direction ? `<section><h3>Direction</h3><div class="path">${esc(lead.direction)}</div></section>` : "";
-    const reviews = (lead.reviews || []).length
-      ? lead.reviews.map(r => `<div class="review-item"><b>${esc(r.verdict)}</b> by ${esc(r.by)}${r.date ? ` · ${esc(r.date)}` : ""}${r.scope ? ` · ${esc(r.scope)}` : ""}${r.note ? `<div class="hint">${esc(r.note)}</div>` : ""}</div>`).join("")
-      : `<p class="hint">No reader of the original languages has checked this yet. Add an entry under <code>reviews</code> in the lead file.</p>`;
-    const meta = [lead.standing, ...(lead.relations || []), lead.benchmark ? "benchmark" : ""].filter(Boolean)
+    const notes = notesHtml(lead.notes);
+    const reviews = (lead.reviews || []).map(r => `<div class="review-item"><b>${esc(r.verdict)}</b> by ${esc(r.by)}${r.date ? ` · ${esc(r.date)}` : ""}${r.scope ? ` · ${esc(r.scope)}` : ""}${r.note ? `<div class="hint">${esc(r.note)}</div>` : ""}</div>`).join("");
+    const review = reviews || notes ? `<section><h3>Review</h3>${reviews}<div class="notes">${notes}</div></section>` : "";
+    const meta = [lead.standing, ...(lead.relations || []), ...(lead.layers || []), lead.benchmark ? "benchmark" : ""].filter(Boolean)
       .map(t => `<span class="tag standing">${esc(t)}</span>`).join("");
-    return `${lexical}${matches}${passagesHtml(lead)}
-      <section><h3>Review</h3>${reviews}<div class="notes">${notesHtml(lead.notes)}</div></section>
+    return `${summary}${lexical}${matches}${passagesHtml(lead)}${review}
       <details class="more"><summary>Details: evidence, motif ids, file</summary><div class="more-body">
         <div class="meta">${meta}</div>${evidence}${direction}${motifs}${sources}
-        <div class="path">leads/${esc(lead.id)}.md · added ${esc(lead.added)} · ${esc(lead.origin)}</div></div></details>`;
+        ${reviews ? "" : `<p class="hint">Not yet checked by a reader of the original languages. Add an entry under <code>reviews</code> in the lead file.</p>`}
+        <div class="path">leads/${esc(lead.id)}.md · added ${esc(lead.added)} · ${esc(lead.origin)} · <a href="#/lead/${esc(lead.id)}">permalink</a></div></div></details>`;
   }
 
-  function leadHtml(lead, open) {
-    const kinds = lead.kinds?.length ? lead.kinds : [];
-    const counts = {};
-    for (const m of lead.matches || []) counts[m.kind] = (counts[m.kind] || 0) + 1;
-    const pills = kinds.map(k => `<span class="kind" style="--k: ${kindVar(k)}">${esc(KIND[k])}${counts[k] > 1 ? `<span class="n">×${counts[k]}</span>` : ""}</span>`).join("")
-      + (lead.benchmark ? `<span class="tag bench">benchmark</span>` : "");
-    const units = lead.units?.length === 2
-      ? `<p class="pairline"><b>${esc(lead.units[0].title)}</b><span class="arrow">↔</span><b>${esc(lead.units[1].title)}</b></p>`
-      : `<p class="pairline">${esc(lead.traditions.map(tradName).join(" · "))}</p>`;
-    const headline = lead.finding || lead.title;
-    const firstNote = (lead.matches || []).find(m => m.note)?.note;
-    const status = `${esc(lead.status === "new" ? "Not yet reviewed" : "Review: " + lead.status)} · `
-      + (isChecked(lead) ? `<span class="checked">checked in the original</span>` : "not yet checked by a reader of the language");
-    return `<li class="lead" id="${esc(lead.id)}" style="--k: ${kinds.length ? kindVar(kinds[0]) : "var(--rule)"}"><details${open ? " open" : ""}>
-      <summary>${pills ? `<div class="meta">${pills}</div>` : ""}<p class="lead-title">${esc(headline)}</p>${units}
-        ${firstNote ? "" : `<p class="lead-summary">${esc(lead.summary)}</p>`}${firstNote ? `<p class="preview">${esc(firstNote)}</p>` : ""}
-        <div class="statusline">${status}</div></summary>
-      <div class="body">${open ? bodyHtml(lead) : ""}</div></details></li>`;
+  // ------------------------------------------------------------------ lazy files
+  const cache = new Map();
+  function load(path) {
+    if (!cache.has(path)) cache.set(path, getJson(path).catch(e => { cache.delete(path); throw e; }));
+    return cache.get(path);
   }
-
-  function storyOf(lead) {
-    const u = (lead.units || []).find(x => x.tradition === "islam") || (lead.units || [])[0];
-    if (!u) return { key: "~other", title: "Other leads", order: 1e9 };
-    const m = u.id.match(/^quran-(\d+)/);
-    return { key: u.id, title: u.title, order: m ? +m[1] : 5e8 };
-  }
-
-  const priority = l => Math.min(...(l.kinds?.length ? l.kinds : ["shared"]).map(k => ORDER.kinds.indexOf(k)));
-
-  function renderLeads() {
-    const rank = s => ORDER.standing.indexOf(s);
-    const list = DATA.leads.filter(l => matches(l));
-    const openId = decodeURIComponent(location.hash.slice(1));
-    document.getElementById("count").textContent = `${list.length} of ${DATA.leads.length} leads`;
-    let html;
-    if (!list.length) {
-      html = `<li class="empty-state">No leads match these filters. Clear a filter or change the search.</li>`;
-    } else if (state.sort === "story") {
-      const groups = new Map();
-      for (const l of list) {
-        const st = storyOf(l);
-        if (!groups.has(st.key)) groups.set(st.key, { ...st, leads: [] });
-        groups.get(st.key).leads.push(l);
-      }
-      html = [...groups.values()].sort((a, b) => a.order - b.order || a.title.localeCompare(b.title)).map(g =>
-        `<li class="group"><h2>${esc(g.title)}</h2><span>${g.leads.length} lead${g.leads.length > 1 ? "s" : ""}</span></li>`
-        + g.leads.sort((a, b) => priority(a) - priority(b) || (b.matches?.length || 0) - (a.matches?.length || 0)
-            || (a.finding || a.title).localeCompare(b.finding || b.title)).map(l => leadHtml(l, l.id === openId)).join("")).join("");
-    } else {
-      html = list.sort((a, b) => state.sort === "standing" ? rank(a.standing) - rank(b.standing) || a.title.localeCompare(b.title)
-        : (a.finding || a.title).localeCompare(b.finding || b.title)).map(l => leadHtml(l, l.id === openId)).join("");
+  async function loadSurah(s) {
+    const head = await load(`data/surah-${String(s).padStart(3, "0")}.json`);
+    if (!head._full) {
+      const extra = await Promise.all((head.more || []).map(load));
+      head._full = new Map([...head.leads, ...extra.flatMap(x => x.leads)].map(l => [l.id, l]));
     }
-    document.getElementById("leads").innerHTML = html;
+    return head;
+  }
+  async function loadOther(r) { const part = await load(r.p); return part.leads.find(l => l.id === r.id); }
+
+  // ------------------------------------------------------------------ routing
+  function route() {
+    const h = decodeURIComponent(location.hash.replace(/^#/, ""));
+    const parts = h.replace(/^\//, "").split("/");
+    if (!h.startsWith("/") && h && BY_ID.has(h)) return { name: "legacy", id: h };
+    switch (parts[0]) {
+      case "surah": return { name: "surah", s: Math.min(114, Math.max(1, +parts[1] || 1)), v: +parts[2] || 0 };
+      case "lead": return { name: "lead", id: parts.slice(1).join("/") };
+      case "tradition": return { name: "tradition", id: parts[1] };
+      case "traditions": return { name: "traditions" };
+      case "beyond": return { name: "beyond" };
+      case "search": return { name: "search", q: parts.slice(1).join("/") };
+      default: return { name: "home" };
+    }
+  }
+  let renderToken = 0;
+  async function render(opts = {}) {
+    const r = route();
+    if (r.name === "legacy") { location.replace("#/lead/" + encodeURIComponent(r.id)); return; }
+    if (r.name === "search" && norm(r.q) !== norm(state.q)) { setQuery(r.q); document.getElementById("q").value = r.q; }
+    if (r.name !== "search" && state.q) { setQuery(""); document.getElementById("q").value = ""; }
+    renderBar();
+    const token = ++renderToken;
+    const keepScroll = opts.keepScroll ? window.scrollY : null;
+    try {
+      if (r.name === "home") renderHome();
+      else if (r.name === "search") renderSearch();
+      else if (r.name === "traditions") renderTraditions();
+      else if (r.name === "tradition") renderTradition(r.id);
+      else if (r.name === "beyond") renderBeyond();
+      else if (r.name === "surah") await renderSurah(r.s, { verse: r.v, token });
+      else if (r.name === "lead") await renderLead(r.id, token);
+    } catch (e) {
+      if (token === renderToken) view.innerHTML = `<p class="empty-state">Could not load this page (${esc(e.message)}).</p>`;
+      console.error(e);
+    }
+    if (keepScroll !== null) window.scrollTo(0, keepScroll);
+    else if (!opts.anchored) window.scrollTo(0, 0);
+  }
+  const setTitle = t => { document.title = t ? `${t} · Parallels Ledger` : "Parallels Ledger"; };
+
+  // ------------------------------------------------------------------ home: a map of the Quran
+  function highlights(list) {
+    const strong = { response: 30, contrast: 24, divergence: 18 };
+    const scored = list.filter(r => r.q.length && r.k.some(k => strong[k]))
+      .map(r => ({ r, score: (r.cf ? 400 : 0) + (r.rv ? 150 : 0) + (r.o === "human" ? 120 : 0) + (r.b ? 100 : 0)
+        + Math.max(...r.k.map(k => strong[k] || 0)) + Math.min(r.m || 0, 12) + (r.k.length > 1 ? 4 : 0) }))
+      .sort((a, b) => b.score - a.score || a.r.id.localeCompare(b.r.id));
+    const out = [], seen = new Set();
+    for (const { r } of scored) {   // one per surah, so the strip ranges across the Quran
+      const key = r.q[0][0];
+      if (seen.has(key)) continue;
+      seen.add(key); out.push(r);
+      if (out.length === 12) break;
+    }
+    return out;
+  }
+  function renderHome() {
+    setTitle("");
+    const list = visible();
+    const per = new Map();
+    let beyond = 0;
+    for (const r of list) {
+      if (!r.q.length) { beyond++; continue; }
+      for (const [s] of r.q) {
+        if (!per.has(s)) per.set(s, { n: 0, fam: {} });
+        const e = per.get(s); e.n++; e.fam[r.fam] = (e.fam[r.fam] || 0) + 1;
+      }
+    }
+    const max = Math.max(1, ...[...per.values()].map(e => e.n));
+    const touched = per.size;
+    const tiles = SURA.map(([name, ar], i) => {
+      const s = i + 1, e = per.get(s) || { n: 0, fam: {} };
+      const segs = FAM.filter(([f]) => e.fam[f]).map(([f]) => `<i style="--c: var(--f-${f}); width: ${(e.fam[f] / max * 100).toFixed(2)}%"></i>`).join("");
+      const tip = e.n ? FAM.filter(([f]) => e.fam[f]).map(([f, l]) => `${l}: ${e.fam[f]}`).join("\n") : "No leads yet";
+      return `<li><a class="sura${e.n ? "" : " none"}" href="#/surah/${s}" title="${esc(`${s} ${name} · ${e.n} lead${e.n === 1 ? "" : "s"}\n${tip}`)}">
+        <span class="sura-n">${s}</span><span class="sura-name">${esc(name)}</span><span class="sura-ar" lang="ar" dir="rtl">${ar}</span>
+        <span class="sura-c">${e.n || "–"}</span><span class="sbar" aria-hidden="true">${segs}</span></a></li>`;
+    }).join("");
+    const hl = highlights(list).map(r => {
+      const p = partnerOf(r, r.q[0][0]);
+      return `<a class="hl" href="#/lead/${esc(r.id)}" style="${kStyle(r)}">
+        <span class="lr-top">${badges(r)}</span>
+        <span class="hl-title">${esc(r.f)}</span>
+        <span class="hl-pair">${esc(p.title)} · ${esc(p.trad)}</span>
+        <span class="lr-note clamp3">${esc(noteOf(r))}</span>
+        <span class="hl-where">Quran ${esc(whereText(r))}</span></a>`;
+    }).join("");
+    const tradCount = new Set(list.flatMap(r => r.tr.filter(t => t !== "islam"))).size;
+    view.innerHTML = `
+      <p class="lede" style="margin-bottom:22px">Parallels, deliberate changes and answers between the Quran and the traditions around it, read in the original languages. Pick a surah to read it with its correspondences beside each verse.</p>
+      ${hl ? `<div class="section-head"><h2 class="section-title">Highlights</h2><span class="count">changed, opposed or answered · checked and benchmark leads first</span></div>
+      <div class="highlights" role="list">${hl}</div>` : ""}
+      <div class="section-head"><h2 class="section-title">The Quran</h2><span class="count">${list.length - beyond} lead${list.length - beyond === 1 ? "" : "s"} across ${touched} of 114 surahs</span></div>
+      <div class="legend" style="margin-bottom:10px" aria-label="Partner tradition">${FAM.map(([f, l]) => `<span style="--c: var(--f-${f})">${esc(l)}</span>`).join("")}<span class="hint" style="white-space:normal">Bar length: leads in the surah, against the busiest surah.</span></div>
+      <ol class="map">${tiles}</ol>
+      <div class="section-head"><h2 class="section-title">Elsewhere</h2></div>
+      <div class="entry-points">
+        <a class="entry" href="#/beyond"><b>Beyond the Quran</b><span>${beyond} lead${beyond === 1 ? "" : "s"} that touch no Quran verse: patterns inside the Hebrew Bible, the Ancient Near East and the Hebrew Bible, Hebrew word studies.</span></a>
+        <a class="entry" href="#/traditions"><b>By tradition</b><span>${tradCount} partner traditions. See each one's texts and where they land in the Quran.</span></a>
+      </div>`;
   }
 
-  function render() { renderFilters(); renderLeads(); }
+  // ------------------------------------------------------------------ surah page: an annotated Quran
+  async function renderSurah(s, { verse = 0, open = null, token }) {
+    const name = suraName(s), ar = SURA[s - 1]?.[1] || "";
+    setTitle(`${s} ${name}`);
+    if (!cache.has(`data/surah-${String(s).padStart(3, "0")}.json`)) view.innerHTML = `<p class="loading">Loading surah ${s}…</p>`;
+    const data = await loadSurah(s);
+    if (token !== renderToken) return;
+    const verses = data.verses || [];
+    const nv = verses.length || VCOUNT[s] || 0;
+    const rows = [...data._full.keys()].map(id => BY_ID.get(id)).filter(r => r && pass(r));
+    const at = new Map();   // verse -> rows anchored there (0 = the surah as a whole)
+    for (const r of rows) {
+      const a = anchorIn(r, s);
+      const v = a && a[1] >= 1 && a[1] <= nv ? a[1] : 0;
+      if (!at.has(v)) at.set(v, []);
+      at.get(v).push(r);
+    }
+    for (const list of at.values()) list.sort((a, b) => priority(a) - priority(b) || (b.m || 0) - (a.m || 0) || a.id.localeCompare(b.id));
+    const withRows = [...at.keys()].filter(v => v > 0).length;
+    const only = state.only[s] ?? nv > 60;
+    const rowHtml = r => {
+      const isOpen = r.id === open;
+      return `<div class="lrow${isOpen ? " open" : ""}" id="row-${esc(r.id)}" style="${kStyle(r)}">
+        <button type="button" class="lr-head" data-row="${esc(r.id)}" aria-expanded="${isOpen}">${rowInner(r, s)}</button>
+        <div class="lr-body"${isOpen ? "" : " hidden"}>${isOpen ? bodyHtml(data._full.get(r.id)) : ""}</div></div>`;
+    };
+    let out = "", gap = 0, gapStart = 0;
+    const flush = end => {
+      if (gap) out += `<div class="vgap">${gap === 1 ? `v. ${gapStart}` : `vv. ${gapStart}–${end}`} · no correspondences</div>`;
+      gap = 0;
+    };
+    for (let v = 1; v <= nv; v++) {
+      const list = at.get(v);
+      if (!list && only) { if (!gap) gapStart = v; gap++; continue; }
+      flush(v - 1);
+      out += `<div class="vrow${list ? "" : " dim"}" id="v-${s}-${v}">
+        <div class="vtext" dir="rtl"><a class="vnum" href="#/surah/${s}/${v}" aria-label="Verse ${v}">${v}</a><div class="ar" lang="ar">${esc(verses[v - 1] || "")}</div></div>
+        ${list ? `<div class="rows">${list.map(rowHtml).join("")}</div>` : ""}</div>`;
+    }
+    flush(nv);
+    const whole = at.get(0);
+    const prev = s > 1 ? s - 1 : null, next = s < 114 ? s + 1 : null;
+    view.innerHTML = `
+      <div class="shead">
+        <a class="nav${prev ? "" : " off"}" href="#/surah/${prev || 1}" aria-label="Previous surah">‹ ${prev || ""} <span class="nm">${prev ? esc(suraName(prev)) : ""}</span></a>
+        <div class="shead-mid"><h2>${s} · ${esc(name)}<span class="ar" lang="ar" dir="rtl">${ar}</span></h2>
+          <span class="count">${nv} verses · ${rows.length} lead${rows.length === 1 ? "" : "s"} at ${withRows} verse${withRows === 1 ? "" : "s"}</span></div>
+        <a class="nav${next ? "" : " off"}" href="#/surah/${next || 114}" aria-label="Next surah"><span class="nm">${next ? esc(suraName(next)) : ""}</span> ${next || ""} ›</a>
+      </div>
+      <div class="stools">
+        <label class="toggle"><input type="checkbox" id="only"${only ? " checked" : ""}> Show only verses with correspondences</label>
+        <span class="hint">${esc(data.source || "")}</span>
+      </div>
+      ${whole ? `<div class="whole"><div class="group-head"><h3>The surah as a whole</h3></div><div class="rows">${whole.map(rowHtml).join("")}</div></div>` : ""}
+      ${!rows.length ? `<p class="empty-state">${activeCount() ? "No leads in this surah match the filters." : "No leads touch this surah yet."}</p>` : ""}
+      <div class="verses">${out}</div>`;
+    document.getElementById("only").addEventListener("change", e => { state.only[s] = e.target.checked; render({ keepScroll: true }); });
+    const target = open ? document.getElementById("row-" + open) : verse ? document.getElementById(`v-${s}-${verse}`) : null;
+    if (target) requestAnimationFrame(() => target.scrollIntoView({ block: "start", behavior: "instant" }));
+    return !!target;
+  }
 
+  // ------------------------------------------------------------------ lead permalink
+  async function renderLead(id, token) {
+    const r = BY_ID.get(id);
+    if (!r) { view.innerHTML = `<p class="empty-state">No lead called “${esc(id)}”. <a href="#/">Back to the Quran</a>.</p>`; return; }
+    if (r.q.length) {
+      const s = r.q[0][0];
+      const shown = await renderSurahWithLead(s, r, token);
+      return shown;
+    }
+    setTitle(r.t || r.f);
+    view.innerHTML = `<p class="loading">Loading…</p>`;
+    const lead = await loadOther(r);
+    if (token !== renderToken) return;
+    const p = partnerOf(r);
+    view.innerHTML = `<div class="page-head"><a class="crumb" href="#/beyond">‹ Beyond the Quran</a>
+      <div class="meta">${badges(r)}</div><h2>${esc(r.f)}</h2>
+      <p>${r.u.length === 2 ? `${esc(UNITS[r.u[0]]?.[0])} ↔ ${esc(UNITS[r.u[1]]?.[0])}` : esc(r.tr.map(tradName).join(" · "))}</p></div>
+      <article class="lead-page">${bodyHtml(lead)}</article>`;
+  }
+  async function renderSurahWithLead(s, r, token) {
+    // the row stays visible even when the filters would hide it: it was asked for by name
+    const saved = KEYS.map(k => [k, state[k]]);
+    const hiddenByFilter = !pass(r);
+    if (hiddenByFilter) for (const k of KEYS) state[k] = new Set();
+    try { await renderSurah(s, { open: r.id, token }); }
+    finally { if (hiddenByFilter) for (const [k, v] of saved) state[k] = v; }
+    if (hiddenByFilter) renderBar();
+  }
+
+  // ------------------------------------------------------------------ grouped lists
+  const groupBlock = (title, sub, rowsHtml, href) => `<div class="group-head"><h3>${href ? `<a href="${href}">${esc(title)}</a>` : esc(title)}</h3>${sub ? `<span class="sub">${esc(sub)}</span>` : ""}</div><div class="list">${rowsHtml}</div>`;
+  const sortRows = list => list.sort((a, b) => priority(a) - priority(b) || (b.m || 0) - (a.m || 0) || a.id.localeCompare(b.id));
+  const PER_GROUP = 25;
+  function capped(list, key, s) {
+    const all = expanded.has(key);
+    const shown = all ? list : list.slice(0, PER_GROUP);
+    return shown.map(r => linkRow(r, s)).join("")
+      + (list.length > shown.length ? `<button type="button" class="linkbtn" data-expand="${esc(key)}">Show all ${list.length}</button>` : "");
+  }
+  const expanded = new Set();
+
+  function renderSearch() {
+    setTitle(`Search: ${state.q}`);
+    const list = visible();
+    const groups = new Map();
+    for (const r of list) {
+      const key = r.q.length ? r.q[0][0] : 999;
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(r);
+    }
+    const html = [...groups.keys()].sort((a, b) => a - b).map(k => {
+      const rows = sortRows(groups.get(k));
+      return k === 999
+        ? groupBlock("Beyond the Quran", `${rows.length} lead${rows.length === 1 ? "" : "s"}`, capped(rows, "s-beyond"), "#/beyond")
+        : groupBlock(`${k} · ${suraName(k)}`, `${rows.length} lead${rows.length === 1 ? "" : "s"}`, capped(rows, "s-" + k, k), `#/surah/${k}`);
+    }).join("");
+    view.innerHTML = `<div class="page-head"><a class="crumb" href="#/">‹ The Quran</a><h2>“${esc(state.q)}”</h2>
+      <p>${list.length} lead${list.length === 1 ? "" : "s"}${groups.size ? `, grouped by the surah they open in` : ""}.</p></div>
+      ${html || `<p class="empty-state">Nothing matches. Try another word, a verse such as 12:23, or clear the filters.</p>`}`;
+  }
+
+  function renderBeyond() {
+    setTitle("Beyond the Quran");
+    const list = visible().filter(r => !r.q.length);
+    const groups = new Map();
+    for (const r of list) {
+      const key = r.tr.map(tradName).join(" ↔ ") + (r.rel.length === 1 && r.rel[0] === "internal" ? " (within)" : "");
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(r);
+    }
+    const html = [...groups].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
+      .map(([k, rows]) => groupBlock(k, `${rows.length}`, capped(sortRows(rows), "b-" + k))).join("");
+    view.innerHTML = `<div class="page-head"><a class="crumb" href="#/">‹ The Quran</a><h2>Beyond the Quran</h2>
+      <p>Leads that touch no Quran verse: patterns inside the Hebrew Bible, the Ancient Near East beside the Hebrew Bible, and Hebrew word studies.</p></div>
+      ${html || `<p class="empty-state">No leads here match the filters.</p>`}`;
+  }
+
+  function renderTraditions() {
+    setTitle("By tradition");
+    const list = visible();
+    const counts = new Map();
+    for (const r of list) for (const t of r.tr) counts.set(t, (counts.get(t) || 0) + 1);
+    const fams = [];
+    for (const t of DATA.traditions) {
+      if (t.id === "islam" || !counts.get(t.id)) continue;
+      let f = fams.find(x => x.name === t.family);
+      if (!f) fams.push(f = { name: t.family, items: [] });
+      f.items.push(t);
+    }
+    view.innerHTML = `<div class="page-head"><a class="crumb" href="#/">‹ The Quran</a><h2>By tradition</h2>
+      <p>Each partner tradition's texts, and the Quran verses they land on.</p></div>
+      <div class="trad-index">${fams.map(f => `<div class="trad-fam"><h3>${esc(f.name)}</h3><div class="trad-links">${f.items.map(t =>
+        `<a href="#/tradition/${esc(t.id)}">${esc(t.name)}<span class="count">${counts.get(t.id)}</span></a>`).join("")}</div></div>`).join("")
+        || `<p class="empty-state">No leads match the filters.</p>`}</div>`;
+  }
+
+  function renderTradition(id) {
+    const t = TRAD[id];
+    setTitle(t ? t.name : id);
+    if (!t) { view.innerHTML = `<p class="empty-state">Unknown tradition “${esc(id)}”. <a href="#/traditions">All traditions</a>.</p>`; return; }
+    const list = visible().filter(r => r.tr.includes(id));
+    const groups = new Map();
+    for (const r of list) {
+      const own = r.u.filter(u => UNITS[u]?.[1] === id);
+      const keys = own.length ? own.map(u => ["u:" + u, UNITS[u][0], ""])
+        : [["l:" + r.id, r.t || r.f, (r.pp || []).filter(p => p[0] === id).map(p => p[1]).join("; ")]];
+      for (const [k, title, sub] of keys) {
+        if (!groups.has(k)) groups.set(k, { title, sub, rows: [] });
+        const g = groups.get(k);
+        if (!g.rows.includes(r)) g.rows.push(r);
+      }
+    }
+    const html = [...groups].sort((a, b) => b[1].rows.length - a[1].rows.length || a[1].title.localeCompare(b[1].title))
+      .map(([k, g]) => groupBlock(g.title, [g.sub, `${g.rows.length} lead${g.rows.length === 1 ? "" : "s"}`].filter(Boolean).join(" · "),
+        capped(sortRows(g.rows), "t-" + k))).join("");
+    view.innerHTML = `<div class="page-head"><a class="crumb" href="#/traditions">‹ By tradition</a><h2>${esc(t.name)}</h2>
+      <p>${list.length} lead${list.length === 1 ? "" : "s"}, grouped by ${esc(t.name)} text. Each row opens where it lands in the Quran.</p></div>
+      ${html || `<p class="empty-state">No ${esc(t.name)} leads match the filters.</p>`}`;
+  }
+
+  // ------------------------------------------------------------------ events
+  const pops = { more: [document.getElementById("more-btn"), document.getElementById("more-pop")], help: [document.getElementById("help-btn"), document.getElementById("help-pop")] };
+  const backdrop = document.getElementById("backdrop");
+  function closePops(except) {
+    for (const [k, [btn, pop]] of Object.entries(pops)) if (k !== except && !pop.hidden) { pop.hidden = true; btn.setAttribute("aria-expanded", "false"); }
+    backdrop.hidden = Object.values(pops).every(([, p]) => p.hidden);
+  }
+  function togglePop(k) {
+    const [btn, pop] = pops[k];
+    const opening = pop.hidden;
+    closePops(k);
+    pop.hidden = !opening;
+    btn.setAttribute("aria-expanded", String(opening));
+    backdrop.hidden = !opening;
+    if (opening) { renderBar(); pop.querySelector("button, [tabindex]")?.focus(); }
+    else btn.focus();
+  }
+  document.getElementById("more-btn").addEventListener("click", () => togglePop("more"));
+  document.getElementById("help-btn").addEventListener("click", () => togglePop("help"));
+  backdrop.addEventListener("click", () => closePops());
+  document.addEventListener("keydown", e => {
+    if (e.key !== "Escape") return;
+    const open = Object.entries(pops).find(([, [, p]]) => !p.hidden);
+    if (open) { closePops(); open[1][0].focus(); }
+  });
   document.addEventListener("click", e => {
+    if (e.target.closest("[data-close]")) { const k = e.target.closest("#more-pop") ? "more" : "help"; togglePop(k); return; }
     const c = e.target.closest("[data-key]");
     if (c) {
       const set = state[c.dataset.key];
       set.has(c.dataset.value) ? set.delete(c.dataset.value) : set.add(c.dataset.value);
-      render(); return;
+      render({ keepScroll: route().name !== "home" ? false : true });
+      return;
     }
-    const s = e.target.closest("[data-sort]");
-    if (s) { state.sort = s.dataset.sort; render(); }
+    if (e.target.id === "clear") { for (const k of KEYS) state[k].clear(); render({ keepScroll: true }); return; }
+    const x = e.target.closest("[data-expand]");
+    if (x) { expanded.add(x.dataset.expand); render({ keepScroll: true }); return; }
+    const row = e.target.closest("[data-row]");
+    if (row) {
+      const box = row.parentElement, body = box.querySelector(".lr-body");
+      const opening = body.hidden;
+      if (opening && !body.innerHTML.trim()) {   // the full comparison renders only when asked for
+        const s = route().name === "surah" ? route().s : BY_ID.get(row.dataset.row)?.q[0]?.[0];
+        const lead = cache.get(`data/surah-${String(s).padStart(3, "0")}.json`);
+        Promise.resolve(lead).then(d => { body.innerHTML = bodyHtml(d._full.get(row.dataset.row)); });
+      }
+      body.hidden = !opening;
+      box.classList.toggle("open", opening);
+      row.setAttribute("aria-expanded", String(opening));
+      const s = currentSurah();
+      history.replaceState(null, "", opening ? "#/lead/" + encodeURIComponent(row.dataset.row) : `#/surah/${s}`);
+    }
   });
-  document.getElementById("leads").addEventListener("toggle", e => {
-    const li = e.target.closest(".lead");
-    if (!li || !e.target.open || e.target.parentElement !== li) return;
-    const body = li.querySelector(".body");
-    if (!body.innerHTML.trim()) body.innerHTML = bodyHtml(BY_ID[li.id]);   // cards render their texts when opened
-    history.replaceState(null, "", "#" + li.id);
-  }, true);
-  document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
-  document.getElementById("reset").addEventListener("click", () => {
-    state.q = ""; document.getElementById("q").value = "";
-    for (const k of [...FILTERS, "traditions"]) state[k].clear();
-    render();
+  function currentSurah() {
+    const r = route();
+    return r.name === "surah" ? r.s : BY_ID.get(r.id)?.q[0]?.[0] || 1;
+  }
+  let qTimer;
+  document.getElementById("q").addEventListener("input", e => {
+    clearTimeout(qTimer);
+    qTimer = setTimeout(() => {
+      const q = e.target.value.trim();
+      const onSearch = route().name === "search";
+      if (!q) { if (onSearch) { setQuery(""); location.hash = "#/"; } return; }
+      setQuery(q);
+      const h = "#/search/" + encodeURIComponent(q);
+      if (onSearch) { history.replaceState(null, "", h); render(); }
+      else location.hash = h;
+    }, 180);
   });
-  window.addEventListener("hashchange", () => {
-    renderLeads();
-    const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
-    if (el) el.scrollIntoView({ block: "start" });
+  document.getElementById("q").addEventListener("keydown", e => {
+    if (e.key === "Enter") { clearTimeout(qTimer); const q = e.target.value.trim(); if (q) { setQuery(q); if (route().name === "search") { history.replaceState(null, "", "#/search/" + encodeURIComponent(q)); render(); } else location.hash = "#/search/" + encodeURIComponent(q); } }
   });
+  window.addEventListener("hashchange", () => { closePops(); render({ anchored: /^#\/(lead|surah\/\d+\/\d+)/.test(location.hash) }); });
 
-  render();
-  const first = document.getElementById(decodeURIComponent(location.hash.slice(1)));
-  if (first) first.scrollIntoView({ block: "start" });
+  render({ anchored: /^#\/(lead|surah\/\d+\/\d+)|^#[a-z0-9]/.test(location.hash) });
 })();
 </script>
