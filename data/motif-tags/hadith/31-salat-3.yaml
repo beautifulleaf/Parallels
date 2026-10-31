@@ -45,9 +45,6 @@ new_motifs:
   sit-upright-before-rising-from-odd-rakaa:
     label: In an odd rak'a he did not rise until he had sat upright (the resting sitting)
     cluster: ritual
-  every-bone-returns-to-its-place:
-    label: He sits on his folded left foot until every bone returns to its place (yaqirr kull ʿaẓm mawḍiʿahu)
-    cluster: ritual
   squatting-on-heels-is-sunna-not-coarseness:
     label: Asked about squatting on the heels (iqʿāʾ) between prostrations, Ibn Abbas says it is the sunna of your prophet, not coarseness to a man
     cluster: ritual
@@ -246,17 +243,11 @@ new_motifs:
   white-of-cheek-seen-at-salam:
     label: He gave the salam to right and left until the white of his cheek was seen
     cluster: ritual
-  hands-like-tails-of-restive-horses:
-    label: 'Seeing them gesture with their hands at the salam: ''why do you wave your hands like the tails of restive horses (khayl shums)?'''
-    cluster: ritual
   where-did-he-pick-it-up:
     label: 'A governor in Mecca gives two salams; Ibn Masud: ''where did he pick that up (annā ʿaliqahā)?'' - the prophet used to do it'
     cluster: ritual
   two-salams-with-wa-barakatuh:
     label: 'To right and left: ''peace be on you and God''s mercy and his blessings'''
-    cluster: ritual
-  takbir-at-every-lowering-and-rising:
-    label: '''God is greatest'' at every lowering and every rising, then the salam right and left'
     cluster: ritual
   one-loud-salam-wakes-household:
     label: At night after the ninth (eighth) rak'a he gives a single salam, 'peace be on you', raising his voice until he wakes us

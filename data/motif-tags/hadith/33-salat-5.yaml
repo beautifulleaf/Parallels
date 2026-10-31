@@ -1,0 +1,1213 @@
+# Hadith chunk 33: al-Jāmiʿ al-Kāmil book 9 (kitāb al-ṣalāt), Shamela pp. 1583-1702 (printed 3/161-280): the series
+# on the prayer screen (sutra: what cuts the prayer, the passer), on what one prays in (one garment, sandals, the mat,
+# the woman's head-cover), on what is forbidden or disliked in prayer (speech, greeting, the sneezer, yawning, the hand
+# on the hip, turning, eyes to the sky, knotted hair, spitting, camel pens, graves), on what is allowed (carrying
+# children, killing snake and scorpion, stepping back, clapping, signs, weeping, blowing, throttling the demon) and the
+# opening of the series on night prayer (bābs 1-21). Read in full from the Arabic (207 hadith). Two hadith are printed
+# without the bullet (1624.2, numbered 1070; 1634.3); both carry the compiler's grade and are saved as lines.
+new_motifs:
+  prays-toward-mount-set-crosswise: {label: 'The prophet sets his riding camel crosswise (yuʿarriḍ rāḥilatahu) and prays toward it; when the mounts are restless he takes the saddle, straightens it and prays toward its back-post (ākhira)', cluster: ritual}
+  short-spear-planted-before-imam: {label: 'At the feast prayer and on journeys a short spear (ḥarba, ʿanaza) is set before the prophet and he prays toward it with the people behind him; ''from this the governors took it''', cluster: ritual}
+  saddle-back-post-as-prayer-screen: {label: A screen the height of the saddle's back-post (muʾkhirat al-raḥl) before the one praying suffices; he need not mind who passes beyond it, cluster: ritual}
+  screen-even-an-arrow: {label: 'Let the one who prays screen himself, even with an arrow (wa-law bi-sahm)', cluster: ritual}
+  seeks-out-pillar-to-pray-at: {label: 'A companion seeks out the pillar by the codex (al-muṣḥaf) to pray at, because he saw the prophet seek it out', cluster: ritual}
+  donkey-woman-black-dog-cut-the-prayer: {label: 'Without a screen like the saddle''s back-post, the donkey, the woman and the black dog cut (yaqṭaʿ) a man''s prayer; ''the black dog is a devil'' (not the red or yellow)', cluster: ritual}
+  menstruating-woman-and-black-dog-cut-prayer: {label: The prayer is cut by the black dog and the menstruating woman (al-marʾa al-ḥāʾiḍ), cluster: ritual}
+  wife-lies-crosswise-before-praying-prophet: {label: The prophet prays while his wife lies crosswise (muʿtariḍa) between him and the qibla on the bed; at prostration he presses her and she draws in her feet; she slips away from the foot of the bed rather than sit up, cluster: ritual}
+  you-likened-us-to-donkeys-and-dogs: {label: 'Told the dog, the donkey and the woman cut the prayer, Aisha retorts ''you have likened us to donkeys and dogs'' and tells how she lay before the praying prophet', cluster: women}
+  are-they-not-your-mothers-and-sisters: {label: 'Praying with Aisha lying crosswise before him, the prophet says ''are they not your mothers, your sisters and your aunts?''', cluster: women}
+  menstruating-wife-touched-by-his-garment-at-prostration: {label: A menstruating wife lies beside the prophet's place of prayer; when he prostrates on his palm-mat his garment touches her, cluster: ritual}
+  forbidden-to-pray-behind-talkers-and-sleepers: {label: '''I was forbidden to pray behind people talking (al-mutaḥaddithīn) and people sleeping''', cluster: ritual}
+  woman-and-donkey-pass-beyond-the-spear: {label: At al-Baṭḥāʾ the prophet prays the noon and afternoon two rakʿas each toward a planted spear (ʿanaza) while a woman and a donkey pass in front, cluster: ritual}
+  boy-on-she-ass-passes-before-the-row: {label: 'Ibn ʿAbbās, near puberty, rides a she-ass past part of the row at Minā, lets it graze and joins the row; no one objects', cluster: ritual}
+  push-back-the-passer-fight-him-he-is-a-devil: {label: 'If someone tries to pass before one praying toward a screen, let him push him back; if he refuses, let him fight him (fa-l-yuqātilhu): ''he is only a devil''', cluster: ritual}
+  passer-has-a-companion-qarin: {label: 'Do not let anyone pass before you in prayer; if he refuses, fight him, ''for the companion (al-qarīn) is with him''', cluster: demonology}
+  animal-crowded-against-the-wall-to-pass-behind: {label: A goat or kid tries to pass before the praying prophet; he presses toward the qibla (or keeps parrying it) until his belly touches the wall and it passes behind him, cluster: ritual}
+  better-to-stand-forty-than-pass-before-prayer: {label: 'If the one passing before a man at prayer knew what he bears, standing still ''forty'' would be better for him than passing; the narrator does not know whether forty days, months or years', cluster: ritual}
+  room-for-a-sheep-between-prayer-place-and-wall: {label: Between the prophet's place of prayer and the wall was room for a sheep to pass (mamarr al-shāt), cluster: ritual}
+  draw-near-the-screen-lest-satan-cut-prayer: {label: 'Whoever prays toward a screen, let him draw near it, so that Satan does not cut his prayer', cluster: demonology}
+  people-rub-themselves-with-his-ablution-water: {label: The prophet performs ablution and the people rub themselves with his leftover ablution water (yatamassaḥūn bi-waḍūʾihi), cluster: prophet-person}
+  does-each-of-you-have-two-garments: {label: 'Asked about praying in a single garment the prophet answers ''does each of you have two garments?'' (a-wa-li-kullikum thawbān)', cluster: ritual}
+  nothing-on-the-shoulders-forbidden-in-one-garment: {label: Let none of you pray in a single garment with nothing of it on his shoulders (ʿātiqayhi), cluster: ritual}
+  one-garment-ends-crossed-over-shoulders: {label: 'Whoever prays in one garment crosses its two ends over (yukhālif bayna ṭarafayhi), wrapping it over his shoulders (multaḥif, mutawashshiḥ, mushtamil), ends on his shoulders', cluster: ritual}
+  cloak-laid-aside-to-teach-the-ignorant: {label: 'Jābir prays in one wrap with his cloak laid on the side: ''I wanted the ignorant like you to see me''', cluster: transmission}
+  rows-of-men-with-wrappers-knotted-at-neck: {label: Men pray with the prophet with their wrappers knotted at their necks like boys; the women are told not to raise their heads until the men sit upright, cluster: ritual}
+  prophet-unties-wrapper-joins-to-cloak-for-one-garment-question: {label: 'Asked about the single garment, the prophet undoes his waist-wrapper, puts his cloak with it, wraps himself in both and leads the prayer, then says ''does each of you find two garments?''', cluster: ritual}
+  one-shirt-buttoned-even-with-a-thorn: {label: 'A hunter may pray in a single shirt: ''button it, even with a thorn (wa-law bi-shawka)''', cluster: ritual}
+  last-prayer-in-one-garment-behind-abu-bakr: {label: 'The last prayer the prophet prayed with the people he prayed in a single garment wrapped about him, behind Abū Bakr', cluster: prophet-person}
+  no-prayer-in-trousers-without-cloak: {label: 'The prophet forbade praying in a blanket one does not wrap over the shoulders, and praying in trousers (sarāwīl) with no cloak on', cluster: ritual}
+  narrow-garment-tied-at-waist-wide-wrapped: {label: 'If the garment is wide, wrap yourself in it (or cross its ends); if narrow, tie it as a waist-wrapper (fa-ttazir bihi, ushdudhu ʿalā ḥiqwika)', cluster: ritual}
+  do-not-wrap-as-the-jews-wrap: {label: 'With only one garment, tie it as a waist-wrapper ''and do not wrap yourself as the Jews wrap themselves'' (ishtimāl al-yahūd)', cluster: ritual}
+  two-forbidden-wrappings-samma-and-ihtiba: {label: 'Two forbidden ways of wearing a garment: ishtimāl al-ṣammāʾ (the garment over one shoulder, one side bare) and iḥtibāʾ (sitting hugging the knees in one garment with nothing over the private part, ''opening it to the sky'')', cluster: ritual}
+  trailing-wrapper-in-prayer-out-of-gods-bounds: {label: Whoever lets his wrapper trail in his prayer out of vanity (khuyalāʾ) is not with God in what is lawful or unlawful (fa-laysa mina llāhi fī ḥillin wa-lā ḥarām), cluster: ritual}
+  letting-garment-hang-and-covering-mouth-forbidden: {label: The prophet forbade sadl (letting the garment hang loose) in prayer and a man's covering his mouth, cluster: ritual}
+  prays-in-red-suit-sleeves-rolled: {label: 'The prophet comes out in a red suit (ḥulla ḥamrāʾ), sleeves tucked up, and leads two rakʿas', cluster: prophet-person}
+  silk-coat-torn-off-not-fit-for-godfearing: {label: 'Given a silk coat (farrūj ḥarīr) the prophet wears it and prays in it, then pulls it off violently as if loathing it: ''this does not befit the God-fearing (al-muttaqīn)''', cluster: ritual}
+  patterned-cloak-distracts-sent-back-to-abu-jahm: {label: 'The prophet prays in a patterned wool cloak (khamīṣa) with marks, glances at them, and sends it back to Abū Jahm for his plain cloak (anbijāniyya): ''it distracted me from my prayer''; ''I feared it would tempt me''', cluster: ritual}
+  sandals-removed-in-prayer-gabriel-said-filth: {label: 'The prophet takes off his sandals in prayer and the people follow; afterward he says Gabriel told him there was filth (qadhar, adhā) on them; let one look at his sandals, wipe them and pray in them', cluster: angelology}
+  differ-from-jews-who-pray-unshod: {label: '''Differ from the Jews, for they do not pray in their sandals or their leather socks''', cluster: ritual}
+  sandals-placed-between-feet-not-to-harm-others: {label: 'Whoever prays should wear his sandals or put them between his feet, not harm others with them; on the day of conquest he put his sandals at his left', cluster: ritual}
+  prays-on-small-palm-mat-khumra: {label: The prophet prays on a small palm-leaf mat (khumra) and prostrates on it, cluster: ritual}
+  blackened-mat-sprinkled-for-two-rakas: {label: 'Invited to eat by Anas''s grandmother Mulayka, the prophet prays two rakʿas on a mat blackened from long use, sprinkled with water; Anas and the orphan stand behind him, the old woman behind them', cluster: ritual}
+  heavy-man-cannot-pray-with-him-invites-to-house: {label: 'A heavy (ḍakhm) Helper who cannot pray with the prophet invites him to eat; he spreads a mat, sprinkles its edge, and the prophet prays two rakʿas; ''I never saw him pray the forenoon prayer but that day''', cluster: ritual}
+  sweat-collected-into-perfume-bottles: {label: The prophet takes his midday rest at Umm Sulaym's on a leather spread; he sweats much and she gathers his sweat into her perfume and bottles, cluster: prophet-person}
+  mat-put-away-lest-it-tempt-the-people: {label: 'Praying on a mat, the prophet tells Aisha ''take this mat of yours away from us, I fear it will tempt the people''', cluster: ritual}
+  no-prayer-of-woman-of-age-without-head-cover: {label: God does not accept the prayer of a woman of age (ḥāʾiḍ) except with a head-cover (khimār), cluster: women}
+  bedouin-prays-mercy-on-me-and-muhammad-only: {label: 'A bedouin prays aloud in the prayer ''O God, have mercy on me and Muhammad and on no one with us''; after the salām the prophet tells him ''you have narrowed what is wide''', cluster: ritual}
+  greeting-unanswered-after-return-from-negus: {label: 'The companions greeted the prophet in prayer and he answered; returning from the Negus they greet him and he does not answer: ''in prayer there is occupation (shughl)''', cluster: ritual}
+  greeting-unanswered-thrice-on-camel-prayer: {label: 'Sent on an errand, Jābir greets the prophet three times as he prays on his mount facing away from the qibla; unanswered, he fears the prophet is angry at his delay; ''only that I was praying kept me from answering''', cluster: ritual}
+  no-deficiency-in-prayer-or-greeting: {label: '''No ghirār (deficiency) in prayer or in greeting'' (Aḥmad: you do not greet and are not greeted in it)', cluster: ritual}
+  we-used-to-return-greeting-in-prayer: {label: 'A man greets the praying prophet who answers by a sign; afterward: ''we used to return the greeting in our prayer, and were forbidden''', cluster: ritual}
+  praying-sneezer-answered-silenced-by-thigh-slaps: {label: 'A new Muslim answers a sneezer in prayer with ''God have mercy on you''; the people stare and slap their thighs to silence him; ''this prayer allows nothing of people''s speech: it is glorification, magnifying and reading the Quran''', cluster: ritual}
+  do-not-go-to-soothsayers: {label: 'Asked about men who go to soothsayers (al-kuhhān), the prophet says ''do not go to them''', cluster: divination}
+  augury-something-felt-in-breasts: {label: 'Of men who take omens from birds (yataṭayyarūn): ''that is something they find in their breasts; let it not turn them back''', cluster: divination}
+  yawn-from-satan-who-laughs-at-ha: {label: 'Yawning is from Satan; let one hold it back as he can, for when he says ''hā'' Satan laughs; God loves the sneeze and dislikes the yawn', cluster: demonology}
+  satan-enters-the-yawning-mouth: {label: 'When one yawns in prayer let him hold it back as he can, ''for Satan enters''', cluster: demonology}
+  hand-on-hip-in-prayer-forbidden-as-crucifixion: {label: 'Praying with the hand on the hip (ikhtiṣār) is forbidden; Ibn ʿUmar strikes a man''s hand away: ''this is the crucifixion (al-ṣalb) in prayer; the prophet forbade it''', cluster: ritual}
+  turning-aside-is-satans-snatch: {label: Turning aside in prayer is a snatch (ikhtilās) Satan snatches from the servant's prayer, cluster: demonology}
+  sitting-imam-stand-not-like-persians-and-romans: {label: 'The sick prophet prays sitting; seeing the people standing behind him he signs them to sit: ''you nearly did what Persia and Rome do, standing over their kings while they sit; if he prays sitting, pray sitting''', cluster: ritual}
+  glances-right-and-left-without-turning-neck: {label: The prophet glanced (yalḥaẓ) right and left in prayer without twisting his neck behind his back, cluster: ritual}
+  looks-to-the-pass-where-sentry-was-sent: {label: In the dawn prayer the prophet keeps looking toward the mountain pass (al-shiʿb), cluster: ritual}
+  eyes-raised-to-sky-in-prayer-will-be-snatched: {label: 'Let people stop raising their eyes to the sky in prayer (at supplication), or their sight will be snatched away (la-tukhṭafanna) / will not return to them', cluster: ritual}
+  tied-hair-in-prayer-like-praying-bound: {label: 'Ibn ʿAbbās unties the hair knotted at the back of a man''s head as he prays: ''this is like one who prays with his arms bound (maktūf)''', cluster: ritual}
+  plait-knot-is-satans-seat: {label: 'Abū Rāfiʿ undoes the plait tucked at al-Ḥasan''s nape: the prophet called it ''the devil''s saddle'' (kifl al-shayṭān), the devil''s seat', cluster: demonology}
+  no-spitting-forward-god-is-before-his-face: {label: 'Seeing spittle on the qibla wall the prophet scrapes it off: let none spit in front of him in prayer, ''for God is before his face when he prays''', cluster: ritual}
+  imam-who-spat-toward-qibla-replaced: {label: A man leading the noon prayer spits toward the qibla; for the afternoon another is sent; 'you spat before you while leading the people and harmed God and his angels', cluster: ritual}
+  prayed-in-sheepfolds-before-mosque-built: {label: Before the mosque was built the prophet prayed in the sheepfolds (marābiḍ al-ghanam), cluster: ritual}
+  no-prayer-toward-graves-or-sitting-on-them: {label: Do not pray toward the graves and do not sit on them, cluster: ritual}
+  earth-all-a-mosque-but-bath-and-graveyard: {label: The whole earth is a place of prayer (masjid) except the bath-house and the graveyard, cluster: ritual}
+  prays-carrying-granddaughter-umama: {label: 'The prophet prays carrying his granddaughter Umāma (daughter of Zaynab and Abū l-ʿĀṣ), putting her down when he prostrates and taking her up when he stands', cluster: prophet-person}
+  long-prostration-grandson-rode-my-back: {label: In one of the two evening prayers the prophet prostrates so long that a companion raises his head and sees the child on his back; 'my son made me his mount (irtaḥalanī) and I disliked to hurry him till he had his fill', cluster: prophet-person}
+  grandsons-leap-on-back-sent-home-by-lightning: {label: 'At the night prayer al-Ḥasan and al-Ḥusayn leap on the prostrating prophet''s back; he sets them down gently, seats them on his thighs; at ''join your mother'' a flash of lightning shines and its light lasts until they are home', cluster: prophet-person}
+  kill-the-two-black-ones-in-prayer: {label: '''Kill the two black ones (al-aswadayn) in prayer: the snake and the scorpion''', cluster: ritual}
+  abu-bakr-steps-back-for-the-prophet: {label: 'The prophet arrives while Abū Bakr leads; the people clap; Abū Bakr, who never turned in prayer, turns, is signed ''stay'', raises his hands praising God and steps backward (al-qahqarā) into the row; the prophet goes forward', cluster: ritual}
+  prays-on-three-step-pulpit-descends-backward: {label: 'A Helper woman''s carpenter slave makes the pulpit of three steps; the prophet prays on it, steps down backward (al-qahqarā) to prostrate at its foot and goes back up: ''that you may follow me and learn my prayer''', cluster: ritual}
+  walks-to-open-door-in-qibla-during-prayer: {label: 'Praying with the door locked, the prophet walks to open it for Aisha and returns to his place; the door was in the qibla', cluster: ritual}
+  old-companion-follows-runaway-horse-in-prayer: {label: 'Abū Barza lets his horse go while praying on a river bank at al-Ahwāz, follows it, catches it and completes his prayer; mocked, he says no one rebuked him since the prophet, whose easing he witnessed in six or seven raids', cluster: ritual}
+  glorification-for-men-clapping-for-women: {label: 'When something happens in prayer: ''glorifying (al-tasbīḥ) is for men, clapping (al-taṣfīq) for women''', cluster: ritual}
+  smoothing-pebbles-only-once: {label: 'Smoothing the pebbles (or the earth) where one prostrates: ''if you must do it, then once''', cluster: ritual}
+  pebbles-cooled-in-palm-for-prostration: {label: In the heat of the noon prayer Jābir takes a handful of pebbles in his palm to cool them and prostrates on them, cluster: ritual}
+  mercy-faces-the-one-praying-do-not-touch-pebbles: {label: 'When one stands to pray, mercy faces him, so let him not wipe (or touch) the pebbles', cluster: ritual}
+  greeting-returned-by-hand-sign-in-prayer: {label: 'Greeted while praying, the prophet answers by a sign of the hand (or finger)', cluster: ritual}
+  aisha-in-eclipse-prayer-points-to-sky: {label: 'During the eclipse Asmāʾ asks Aisha, who is praying, ''what is with the people?''; she points to the sky and says ''glory to God''; ''a sign?'' she signs yes', cluster: ritual}
+  thirty-odd-angels-race-to-carry-sneezers-praise: {label: 'Rifāʿa sneezes in prayer and says ''praise be to God, much, good, blessed''; asked three times who spoke, he owns it: ''some thirty-odd angels raced for it, which of them would take it up''', cluster: angelology}
+  chest-seethes-like-boiling-pot-in-prayer: {label: The prophet prays with a seething in his chest like the seething of a cooking pot (azīz al-mirjal) from weeping, cluster: prophet-person}
+  blows-uff-in-eclipse-prostration-you-promised: {label: 'At the eclipse prayer the prophet weeps in prostration, blows (''uff, uff'') and says ''Lord, did you not promise not to punish them while I am among them, while they seek forgiveness?''', cluster: prophet-person}
+  devil-throttled-cold-of-tongue-on-hand: {label: 'The prophet seizes and throttles the devil who came at him in prayer until he feels the cold of its tongue (or spittle) on his hand, between thumb and forefinger', cluster: demonology}
+  devil-throws-sparks-of-fire-at-prayer: {label: 'In the dawn prayer the prophet makes grasping motions forward: Satan was throwing sparks of fire (sharār al-nār) at him to tempt him from his prayer', cluster: demonology}
+  whole-night-repeating-one-verse-if-you-punish-them: {label: 'The prophet stands a whole night with one verse, repeating it till morning: ''if you punish them, they are your servants; if you forgive them, you are the Mighty, the Wise'' (Q 5:118)', cluster: prophet-person}
+  night-opening-you-are-light-of-heavens-and-earth: {label: 'Rising to keep vigil the prophet says: ''O God, praise is yours, you are the sustainer (qayyim) of the heavens and earth ... the light (nūr) of the heavens and earth ... you are the Truth, your promise is true, meeting you is true, paradise is true, the fire is true, the prophets are true, Muhammad is true, the Hour is true''', cluster: liturgy}
+  waking-formula-then-prayer-answered: {label: 'Whoever wakes in the night (taʿārra) and says ''no god but God alone ... '' then ''O God forgive me'' or prays, is answered; if he performs ablution and prays, his prayer is accepted', cluster: liturgy}
+  ten-each-of-takbir-praise-tasbih-tahlil-istighfar: {label: 'On rising for night prayer the prophet says ''God is greatest'' ten times, praises God ten, glorifies ten, says ''no god but God'' ten, asks forgiveness ten, then ''forgive me, guide me, provide for me'', and seeks refuge from the narrowness of the standing-place on resurrection day', cluster: liturgy}
+  man-is-most-given-to-dispute-slapping-thigh: {label: 'Woken at night and told ''our souls are in God''s hand; if he wills to raise us he raises us'', the prophet turns away striking his thigh and reciting ''man is of all things most given to dispute'' (Q 18:54)', cluster: prophet-person}
+  good-man-if-he-prayed-at-night-dream-of-fire: {label: 'Ibn ʿUmar dreams two angels take him to the fire, cased like a well with two horns, people he knows in it; another angel says ''do not fear''; the prophet: ''what a good man is ʿAbd Allāh, if he prayed at night''; after that he slept little', cluster: dreams}
+  best-prayer-after-obligatory-is-night-prayer: {label: The best fast after Ramaḍān is God's month al-Muḥarram; the best prayer after the obligatory one is prayer at night (in the depth of the night), cluster: ritual}
+  couple-who-wake-each-other-written-among-rememberers: {label: 'If a man wakes his wife at night and they pray two rakʿas together, they are written among the men and women who remember God (Q 33:35)', cluster: ritual}
+  water-sprinkled-on-face-of-sleeping-spouse: {label: 'God have mercy on a man who rises at night, prays and wakes his wife, and if she refuses sprinkles water in her face; and on a woman who does the same to her husband', cluster: ritual}
+  hundred-verses-a-night-not-written-heedless: {label: 'Whoever keeps the obligatory prayers is not written among the heedless; whoever recites a hundred verses in a night is not written among the heedless, or is written among the devout (al-qānitīn)', cluster: ritual}
+  ten-hundred-thousand-verses-heedless-devout-hoarders: {label: 'Whoever stands with ten verses is not written among the heedless, with a hundred among the devout (al-qānitīn), with a thousand among the hoarders of wealth (al-muqanṭirīn)', cluster: ritual}
+  first-words-in-medina-not-the-face-of-a-liar: {label: 'When the prophet arrives in Medina ʿAbd Allāh b. Salām looks at his face and knows it is ''not the face of a liar''; his first words: ''spread the greeting, feed people, pray while people sleep, enter paradise in peace''', cluster: prophet-person}
+  night-vigil-dutiful-practice-of-righteous-before: {label: '''Keep to night prayer: it is the habit (daʾb) of the righteous before you, a nearness to your Lord, an expiation of misdeeds and a restraint from sin''', cluster: ritual}
+  aisha-sick-or-weary-prayed-sitting: {label: '''Do not leave the night prayer: the prophet never left it; when sick or weary he prayed sitting''', cluster: ritual}
+  do-not-be-like-one-who-left-night-prayer: {label: '''O ʿAbd Allāh, do not be like so-and-so: he used to rise at night, then left off the night prayer''', cluster: ritual}
+  devil-urinated-in-ear-of-sleeper-till-morning: {label: 'Of a man who slept till morning without rising to pray: ''that is a man in whose ear (or ears) the devil urinated''', cluster: demonology}
+  devil-ties-three-knots-on-sleepers-nape: {label: 'The devil ties three knots on the nape (qāfiya) of the sleeper''s head, striking each with ''a long night is before you, sleep''; remembering God unties one, ablution another, prayer the rest: he rises lively, or else foul-souled and lazy', cluster: demonology}
+  rope-knotted-thrice-on-every-sleepers-head: {label: 'There is no male or female but has on his head a rope (jarīr) knotted with three knots when he sleeps; waking and naming God, ablution and prayer loose them', cluster: demonology}
+  does-not-make-the-quran-a-pillow: {label: 'Of Shurayḥ al-Ḥaḍramī: ''he does not use the Quran as a pillow'' (lā yatawassad al-qurʾān), he stands with it at night', cluster: ritual}
+  would-sell-property-to-fight-rome-told-of-six: {label: 'Saʿd b. Hishām means to sell his property for arms and fight the Romans till death; told six men wanted the same in the prophet''s life and he forbade them (''have you not a model in me?''), he takes back his wife', cluster: ascetic}
+  vigil-ended-eleven-later-nine-never-whole-night: {label: 'Aisha: he never recited the whole Quran in one night, never prayed a night through to morning, never fasted a whole month but Ramaḍān; if sleep or pain kept him from night prayer he prayed twelve rakʿas by day', cluster: prophet-person}
+  night-prayer-in-hadrami-cloak: {label: 'Ibn ʿAbbās saw the prophet pray at night in a Ḥaḍramī cloak (burd) wrapped about him, nothing else on him', cluster: prophet-person}
+  rises-when-he-hears-the-crier-cockcrow: {label: 'Asked when the prophet rose, Aisha: ''when he heard the crier (al-ṣārikh)'', i.e. the cock', cluster: ritual}
+  dawn-never-found-him-awake-with-her: {label: 'Aisha: the last part of the night (al-saḥar) never found him with me but asleep', cluster: prophet-person}
+  sleeps-first-part-revives-last-bathes-at-first-call: {label: 'He slept the first part of the night and kept the last; if he had need of his wife he had it and slept; at the first call he sprang up and poured water over himself, or did ablution, and prayed the two rakʿas', cluster: ritual}
+  god-woke-him-before-dawn-to-finish-his-portion: {label: 'God would wake him at night, and the pre-dawn did not come before he had finished his portion (ḥizb)', cluster: prophet-person}
+  seen-praying-or-sleeping-whenever-wished: {label: 'We could not wish to see him at night praying but we saw him so, nor sleeping but we saw him so', cluster: prophet-person}
+  watcher-sees-him-wake-thrice-reciting-al-imran: {label: 'A companion on a journey watches: after the night prayer the prophet lies down, wakes, looks at the horizon reciting ''our Lord, you did not create this in vain'' to ''you do not break the promise'', takes a toothstick from his bed, pours water from a skin, prays as long as he slept, sleeps as long as he prayed: three times before dawn', cluster: prophet-person}
+  davids-prayer-sleep-half-stand-third-sleep-sixth: {label: 'The prayer dearest to God is David''s: he slept half the night, stood a third and slept a sixth; the fast dearest to God is David''s, a day on and a day off', cluster: david}
+  lord-nearest-in-last-depth-of-night: {label: The Lord is nearest to the servant in the last depth of the night (jawf al-layl al-ākhir); the prayer is attended and witnessed (maḥḍūra mashhūda) until sunrise, cluster: ritual}
+  hour-every-night-when-asking-is-granted: {label: 'In the night there is an hour that no Muslim meets, asking God good of this world and the next, but he is given it, and that every night', cluster: ritual}
+  night-reciter-reminds-him-of-forgotten-verses: {label: 'Hearing a man reciting at night in the mosque, the prophet says ''God have mercy on him, he reminded me of such-and-such verses I had dropped from such-and-such sura''; ''O God, have mercy on ʿAbbād''', cluster: transmission}
+  recitation-heard-in-the-courtyard-from-the-house: {label: His night recitation could be heard by one in the courtyard (al-ḥujra) while he was in the house; Umm Hāniʾ heard it from her trellis (ʿarīsh), cluster: ritual}
+  recite-as-ibn-umm-abd-fresh-as-revealed: {label: 'Hearing a man pray at night in the mosque, the prophet says ''whoever would read the Quran fresh (raṭban) as it was revealed, let him read it as Ibn Umm ʿAbd reads''; then ''ask and you will be given''; ʿUmar hurries to tell him, but Abū Bakr is there first', cluster: transmission}
+  loud-recitation-cursed-by-polytheists-middle-way: {label: 'Q 17:110 came down while the prophet was hiding in Mecca: when he raised his voice the polytheists reviled the Quran, its sender and its bringer; he is told neither to be loud nor too low with his reading but to seek a way between', cluster: ritual}
+  bilal-mixed-suras-all-have-hit-the-mark: {label: 'Bilāl recites from one sura and another: ''good words that God joins one to another''; ''all of them have hit the mark''', cluster: ritual}
+  loud-reciter-like-open-almsgiver: {label: '''The one who recites the Quran aloud is like the one who gives alms openly; the one who recites quietly is like the one who gives alms secretly''', cluster: ritual}
+  each-confides-in-his-lord-do-not-outvoice: {label: 'In his retreat the prophet hears them reciting loudly, draws back the curtain: ''each of you is confiding with his Lord (munājin rabbahu); do not harm one another, do not raise your voices over one another in the reading''', cluster: ritual}
+  mouth-scoured-with-toothstick-on-rising: {label: When he rose for the night vigil the prophet scoured his mouth with the toothstick (yashūṣ fāhu bi-l-siwāk); his toothstick and water were made ready for him, cluster: ritual}
+  night-prayer-opened-with-two-light-rakas: {label: When he rose at night the prophet opened his prayer with two light rakʿas, cluster: ritual}
+  best-prayer-is-long-standing: {label: '''The best prayer is long qunūt (standing)''', cluster: ritual}
+  so-long-he-thought-to-sit-and-leave-him: {label: 'Ibn Masʿūd prays with the prophet who stands so long that he ''resolved on something bad'': to sit down and leave him', cluster: ritual}
+  baqara-nisa-al-imran-in-one-raka: {label: 'Ḥudhayfa prays at night with the prophet: he reads al-Baqara, al-Nisāʾ and Āl ʿImrān in one rakʿa, slowly, glorifying at a verse of glorification, asking at a verse of asking, seeking refuge at a verse of refuge; bowing, rising and prostration each nearly as long as the standing', cluster: ritual}
+  heard-saying-praise-for-long-stretches: {label: 'Rabīʿa b. Kaʿb, sleeping at the prophet''s door with his ablution water, hears him say ''God hears who praises him'' for a long while of the night (al-hawiyy), and ''praise be to God, Lord of the worlds'' for a long while', cluster: ritual}
+  al-baqara-divided-over-two-rakas: {label: The prophet divided Sūrat al-Baqara over two rakʿas, cluster: ritual}
+units:
+- id: hadith-9-sutra-mount-spear-saddle
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Praying toward a screen: the camel set crosswise, the saddle''s back-post, the planted spear, an arrow, a pillar'
+  read: ['Jāmiʿ 9:1584.1-1586.1']
+  tags:
+  - motif: prays-toward-mount-set-crosswise
+    refs: ['Jāmiʿ 9:1584.1']
+    note: 'كان يُعَرِّضُ راحِلتَه فيُصَلِّي إليها ... أفرأيتَ إذا هبَّتِ الركابُ؟ قال: كان يأخذ هذا الرحلَ فيُعدِّله فيُصلي إلى آخِرَتِه'
+  - motif: short-spear-planted-before-imam
+    refs: ['Jāmiʿ 9:1584.2', 'Jāmiʿ 9:1584.3']
+    note: أمر بالحربة فتوضع بين يديه، فيصلي إليها، والناس وراءه ... فمن ثمَّ اتّخذ الأمراء; ومعنا عُكَّازة أو عصا، أو عنزة، ومعنا إداوة
+  - motif: saddle-back-post-as-prayer-screen
+    refs: ['Jāmiʿ 9:1585.1', 'Jāmiʿ 9:1585.2']
+    note: 'إذا وضع أحدُكم بين يديه مِثل مؤخِرةِ الرحْلِ فليُصلِّ. ولا يبالي من مرَّ وراء ذلك; سئل في غزوة تبوك عن سترة المصلي فقال: كمُؤخِرةِ الرحْل'
+  - motif: screen-even-an-arrow
+    refs: ['Jāmiʿ 9:1585.3']
+    note: إذا صلَّى أحدكم فليستتر الصلاته، ولو بسهم
+  - motif: seeks-out-pillar-to-pray-at
+    refs: ['Jāmiʿ 9:1586.1']
+    note: فيصلي عند الأسطوانة التي عند المصحف ... رأيت النبيَّ ﷺ يتحرَّى الصلاة عندها
+- id: hadith-9-badr-night-prays-to-tree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Night of Badr: all asleep but the prophet, praying toward a tree till morning; al-Miqdad the only horseman'
+  read: ['Jāmiʿ 9:1586.2']
+  tags:
+  - motif: only-horseman-at-badr-al-miqdad
+    refs: ['Jāmiʿ 9:1586.2']
+    note: وما منا إنسان إلا نائم إلا رسول الله ﷺ، فإنه كان يُصلي إلى شجرة، ويدعو حتى أصبح، وما كان منا فارس يوم بدر غير المقداد بن الأسود
+- id: hadith-9-what-cuts-the-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'What cuts the prayer: donkey, woman, black dog (''the black dog is a devil'')'
+  read: ['Jāmiʿ 9:1586.3-1587.2']
+  tags:
+  - motif: donkey-woman-black-dog-cut-the-prayer
+    refs: ['Jāmiʿ 9:1586.3', 'Jāmiʿ 9:1586.4', 'Jāmiʿ 9:1587.2']
+    note: فإنه يقطعُ صلاتَه الحمارُ والمرأةُ والكلب الأسودُ ... ما بالُ الكلب الأسود من الكلب الأحمر من الكلب الأصفر؟ ... الكلب الأسود شيطان
+  - motif: menstruating-woman-and-black-dog-cut-prayer
+    refs: ['Jāmiʿ 9:1587.1']
+    note: يقطعُ الصلاةَ الكلب الأسودُ، والمرأة الحائض
+  hints: ['The woman, the dog and the donkey that ''cut'' the prayer when they pass in front, against b. Pesahim 111a (three must not pass between two men, nor may a man pass between them: a dog, a palm tree and a woman; some add a pig, some a snake).']
+- id: hadith-9-woman-does-not-cut-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The woman does not cut the prayer: wives lying before or beside the praying prophet'
+  read: ['Jāmiʿ 9:1588.1-1590.1']
+  tags:
+  - motif: menstruating-wife-touched-by-his-garment-at-prostration
+    refs: ['Jāmiʿ 9:1588.1']
+    note: كانت تكون حائضًا لا تُصلِّي، وهي مفترشةٌ بحذاءِ مسجد رسولِ الله ﷺ وهو يُصلِّي على خمرته، إذا سجد أصابني بعض ثوبه
+  - motif: you-likened-us-to-donkeys-and-dogs
+    refs: ['Jāmiʿ 9:1588.2']
+    note: شبهتمونا بالحُمر والكلاب. والله! لقد رأيتُ النبي ﷺ يُصلي وإني على السرير، بينه وبين القبلة مضطجعة ... فأنْسِلُّ من عند رجليه
+  - motif: wife-lies-crosswise-before-praying-prophet
+    refs: ['Jāmiʿ 9:1588.2', 'Jāmiʿ 9:1589.1', 'Jāmiʿ 9:1589.2', 'Jāmiʿ 9:1590.1']
+    note: وهي معترضة بين يديه; كان يفرش لي حيال مصلى رسول الله ﷺ فكان يُصلي وأنا حياله; وأنا راقدةٌ معترضةً على فراشه، فإذا أراد أن يوتر أيقظني فأوترتُ
+  - motif: are-they-not-your-mothers-and-sisters
+    refs: ['Jāmiʿ 9:1589.1']
+    note: أليس هُنَّ أمهاتكم وأخواتكم وعماتكم
+- id: hadith-9-behind-talkers-and-sleepers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Forbidden to pray behind talkers and sleepers
+  read: ['Jāmiʿ 9:1590.2']
+  tags:
+  - motif: forbidden-to-pray-behind-talkers-and-sleepers
+    refs: ['Jāmiʿ 9:1590.2']
+    note: نُهيتُ أن أُصَلِّي خلف المتحدِّثين والنِّيام
+- id: hadith-9-imams-screen-covers-those-behind
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The imam''s screen covers those behind: spear at the feast and on journeys, the woman and donkey at al-Baṭḥāʾ, the boy''s she-ass at Minā'
+  read: ['Jāmiʿ 9:1591.1-1592.2']
+  tags:
+  - motif: short-spear-planted-before-imam
+    refs: ['Jāmiʿ 9:1591.1']
+    note: أمر بالحَرْبَةِ فتوضع بين يديه فيصلِّي إليها والناس وراءه ... فمن ثَمَّ اتخذها الأمراءُ
+  - motif: woman-and-donkey-pass-beyond-the-spear
+    refs: ['Jāmiʿ 9:1592.1']
+    note: صلى بهم بالبطحاء - وبين يديه عنزة - الظهرَ ركعتين، والعصر ركعتين، تمر بين يديه المرأةُ والحمارُ
+  - motif: boy-on-she-ass-passes-before-the-row
+    refs: ['Jāmiʿ 9:1592.2']
+    note: أَقبلْتُ راكبًا على أتانٍ، وأنا يومئذ ناهزتُ الاحتلامَ ... فمررتُ بين يدي بعض الصف ... فلم ينكر ذلك عليَّ أحدٌ
+- id: hadith-9-repelling-the-passer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Repelling one who passes before the praying: push, then fight, ''he is a devil''; the goat crowded to the wall'
+  read: ['Jāmiʿ 9:1593.1-1595.2']
+  tags:
+  - motif: push-back-the-passer-fight-him-he-is-a-devil
+    refs: ['Jāmiʿ 9:1593.1']
+    note: فأراد أحد أن يجتاز بين يديه، فليدفَعْه، فإنْ أَبى فَلْيُقَاتِلْهُ، فإنَّما هوَ شيطان; فدفع أبو سعيد في صدْره ... فدَفعَهُ أشد من الأولى
+  - motif: passer-has-a-companion-qarin
+    refs: ['Jāmiʿ 9:1594.1']
+    note: فلا يدعْ أحدًا يمرُّ بين يديه، فإن أبى فليقاتلْه، فإن معه القرينَ
+  - motif: animal-crowded-against-the-wall-to-pass-behind
+    refs: ['Jāmiʿ 9:1595.1', 'Jāmiʿ 9:1595.2']
+    note: فمَرَّت شاةٌ بين يديه، فساعاها إلى القبلة حتى ألزق بطْنَه بالقبلة; فجاءتْ بَهْمةٌ تمر بين يديه. فما زال يُدارِيها حتى لصق بطْنَه بالجدار. ومرتْ من ورائه
+- id: hadith-9-sin-of-the-passer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The passer''s sin: better to wait forty (days, months or years?) than to pass'
+  read: ['Jāmiʿ 9:1596.1']
+  tags:
+  - motif: better-to-stand-forty-than-pass-before-prayer
+    refs: ['Jāmiʿ 9:1596.1']
+    note: 'لو يعلم المارُّ بين يدي المصلي ماذا عليه؟ لكان أن يقِفَ أربعين خيرًا له من أن يمرَّ بين يديه ... لا أدري: قال أربعين يومًا، أو شهرًا، أو سنةً'
+  hints: ['The prohibition on passing in front of one at prayer, against b. Berakhot 31b (R. Joshua b. Levi: it is forbidden to sit within four cubits of one praying), later extended in halakha to passing in front of one standing in the Amidah.']
+- id: hadith-9-distance-to-the-screen
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'How near the screen: room for a sheep; draw close lest Satan cut the prayer'
+  read: ['Jāmiʿ 9:1597.1-1597.2']
+  tags:
+  - motif: room-for-a-sheep-between-prayer-place-and-wall
+    refs: ['Jāmiʿ 9:1597.1']
+    note: كان بين مُصلَّى رسول الله ﷺ وبين الجدار ممرُّ الشاة
+  - motif: draw-near-the-screen-lest-satan-cut-prayer
+    refs: ['Jāmiʿ 9:1597.2']
+    note: إذا صلى أحدكم إلى سترة فليدْنُ منها، لا يقطعُ الشيطانُ عليه صلاته
+- id: hadith-9-screen-at-al-batha
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'At al-Baṭḥāʾ in the midday heat: two rakʿas toward a spear; the people rub themselves with his ablution water'
+  read: ['Jāmiʿ 9:1598.1']
+  tags:
+  - motif: woman-and-donkey-pass-beyond-the-spear
+    refs: ['Jāmiʿ 9:1598.1']
+    note: فصلى بالبطحاء الظهرَ والعصرَ ركعتين، ونصب بين يديه عَنَزَةً
+  - motif: people-rub-themselves-with-his-ablution-water
+    refs: ['Jāmiʿ 9:1598.1']
+    note: وتوضأ فجعل الناس يتمسَّحون بِوَضوئه
+- id: hadith-9-one-garment
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Praying in a single garment: ''does each of you have two?'', the ends crossed over the shoulders'
+  read: ['Jāmiʿ 9:1600.1-1604.1']
+  tags:
+  - motif: does-each-of-you-have-two-garments
+    refs: ['Jāmiʿ 9:1600.1', 'Jāmiʿ 9:1603.2']
+    note: 'سأل رسولَ الله ﷺ عن الصّلاة في ثوب واحد. فقال: أو لِكُلِّكم ثوبان؟; أو كلكم يجد ثوبين؟'
+  - motif: nothing-on-the-shoulders-forbidden-in-one-garment
+    refs: ['Jāmiʿ 9:1600.2']
+    note: لا يُصلِّي أحدكم في الثوب الواحد، ليس على عاتقيه شيء
+  - motif: one-garment-ends-crossed-over-shoulders
+    refs: ['Jāmiʿ 9:1601.1', 'Jāmiʿ 9:1602.2', 'Jāmiʿ 9:1603.1']
+    note: من صلَّى في ثوبٍ واحدٍ فليُخالف بين طرفيه; مشتملًا به في بيت أم سلمة، واضعًا طرفيه على عاتقه; في ثوبٍ واحدٍ متوشِّحًا به
+  - motif: cloak-laid-aside-to-teach-the-ignorant
+    refs: ['Jāmiʿ 9:1601.2']
+    note: يُصَلِّي في ثوب ملتحفًا به، ورداؤه موضوع ... أحببتُ أن يراني الجهالُ مثلكم
+  - motif: eight-rakat-forenoon-prayer
+    refs: ['Jāmiʿ 9:1602.1']
+    note: وفاطمة ابنته نستره بثوب ... مرحبا بأم هانئ ... قام فصلي ثماني ركعات ملتحفًا في ثوب واحد
+  - motif: rows-of-men-with-wrappers-knotted-at-neck
+    refs: ['Jāmiʿ 9:1602.3']
+    note: 'عاقِدي أُزْرِهم على أعناقهم كهيئة الصبيان. وقال للنساء: لا ترفعنَّ رُءوسَكنَّ حتَّى يستوي الرجال جلوسًا'
+  - motif: prophet-unties-wrapper-joins-to-cloak-for-one-garment-question
+    refs: ['Jāmiʿ 9:1603.2']
+    note: فأطلق رسول الله ﷺ إزاره، طارق به رداءَه فاشتمل بهما، ثمّ قام فصلي بنا
+  - motif: one-shirt-buttoned-even-with-a-thorn
+    refs: ['Jāmiʿ 9:1603.3']
+    note: 'إني رجل أصيد أفأصلي في القميص الواحد؟ قال: نعم وازْرُرْه ولو بشوكة'
+  - motif: last-prayer-in-one-garment-behind-abu-bakr
+    refs: ['Jāmiʿ 9:1604.1']
+    note: آخر صلاة صلَّاها النَّبِيّ ﷺ مع القوم، صلّى في ثوب واحد متوشِّحًا به خلف أبي بكر
+- id: hadith-9-wrap-and-cloak
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Wrapper and cloak; a narrow garment tied at the waist, not wrapped 'as the Jews wrap'
+  read: ['Jāmiʿ 9:1605.1-1606.2']
+  tags:
+  - motif: no-prayer-in-trousers-without-cloak
+    refs: ['Jāmiʿ 9:1605.1']
+    note: نهى رسول الله ﷺ أن يصلِّي في لِحاف لا يتوشَّح به، والآخر أن تُصلي في سراويل وليس عليك رداء
+  - motif: narrow-garment-tied-at-waist-wide-wrapped
+    refs: ['Jāmiʿ 9:1606.1']
+    note: ما السُرى يا جابر؟ ... ما هذا الاشتمالُ الذي رأيتُ؟ ... فإن كان واسعًا فالتحف به، وإن كان ضيقًا فاتزر به
+  - motif: do-not-wrap-as-the-jews-wrap
+    refs: ['Jāmiʿ 9:1606.2']
+    note: فإن لم يكن إِلَّا ثوب واحد فليتزر به، ولا يشتمل اشتمال اليهود
+- id: hadith-9-forbidden-wrappings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Forbidden ways of wearing: al-ṣammāʾ, iḥtibāʾ, trailing, sadl, the covered mouth'
+  read: ['Jāmiʿ 9:1607.1-1609.1']
+  tags:
+  - motif: two-forbidden-wrappings-samma-and-ihtiba
+    refs: ['Jāmiʿ 9:1607.1', 'Jāmiʿ 9:1608.1']
+    note: 'اشتمال الصماء، والصماء: أن يجعل ثوبه على أحد عاتقيه، فيبدو أحد شِقَّيه ... احتباؤُه بثوبه وهو جالس، ليس على فرجه منه شيء; يُفْضِي بفرجه إلى السّماء'
+  - motif: trailing-wrapper-in-prayer-out-of-gods-bounds
+    refs: ['Jāmiʿ 9:1608.2']
+    note: من أسبل إزاره في صلاته خيلاء فليس من الله في حِلٍّ ولا حرامٍ
+  - motif: letting-garment-hang-and-covering-mouth-forbidden
+    refs: ['Jāmiʿ 9:1609.1']
+    note: نهى عن السدل في الصّلاة، وأن يُغطي الرّجل فاه
+- id: hadith-9-colour-silk-pattern
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Red suit, a silk coat torn off, a patterned cloak returned to Abū Jahm
+  read: ['Jāmiʿ 9:1610.1-1611.1']
+  tags:
+  - motif: prays-in-red-suit-sleeves-rolled
+    refs: ['Jāmiʿ 9:1610.1']
+    note: خرج النَّبِيّ ﷺ في حلة حمراء مشمِّرًا صلى بالناس ركعتين
+  - motif: silk-coat-torn-off-not-fit-for-godfearing
+    refs: ['Jāmiʿ 9:1610.2']
+    note: 'أهْدِي إلى النَّبِيّ ﷺ فَرُّوج حريرٍ فلبسه، فصلى فيه، ثمّ انصرف فنزعه نزعًا شديدًا كالكاره له وقال: لا ينبغي هذا للمتقين'
+  - motif: patterned-cloak-distracts-sent-back-to-abu-jahm
+    refs: ['Jāmiʿ 9:1611.1']
+    note: اذهبوا بخميصتي هذه إلى أبي جهم، وائتُوني بأنبجانية أبي جهم، فإنها أَلْهَتْنِي آنفًا عن صلاتي ... فأخاف أن تفتِنِّي
+- id: hadith-9-sandals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Praying in sandals: shod and barefoot, sandals removed at Gabriel''s word, ''differ from the Jews'''
+  read: ['Jāmiʿ 9:1612.1-1616.1']
+  tags:
+  - motif: prays-shod-and-barefoot
+    refs: ['Jāmiʿ 9:1612.1', 'Jāmiʿ 9:1613.3', 'Jāmiʿ 9:1614.2', 'Jāmiʿ 9:1615.1', 'Jāmiʿ 9:1615.2']
+    note: 'أكان النَّبِيّ ﷺ يُصلِّي في نعليه؟ قال: نعم; يُصلِّي حافيًا ومنتعِلًا; يصلِّي قائمًا وقاعدًا، وحافيًا ومنتعلًا'
+  - motif: sandals-removed-in-prayer-gabriel-said-filth
+    refs: ['Jāmiʿ 9:1612.2', 'Jāmiʿ 9:1613.1']
+    note: لم يخلع النَّبِيّ ﷺ نعليه في الصّلاة إِلَّا مرة ... إنَّ جبريل ﵇ أخبرني أن بها قذرًا; فلينظر، فإن رأى في نعليه قذرًا، أو أذًى فليمسحه وليصلِّ فيهما
+  - motif: differ-from-jews-who-pray-unshod
+    refs: ['Jāmiʿ 9:1613.2']
+    note: خالفوا اليهود، فإنَّهم لا يصلون في نِعالهم، ولا خِفافهم
+  - motif: sandals-placed-between-feet-not-to-harm-others
+    refs: ['Jāmiʿ 9:1614.1', 'Jāmiʿ 9:1616.1']
+    note: فليلبس نعليه، أو ليخلعهما بين رجليه، ولا يؤذي بهما غيره; يُصلي يوم الفتح، ووضع نعليه عن يساره
+  - motif: prophet-drinks-standing-and-sitting
+    refs: ['Jāmiʿ 9:1615.2']
+    note: رأيت رسول الله ﷺ يشرب قائمًا وقاعدًا
+  - motif: leaves-prayer-turning-right-or-left
+    refs: ['Jāmiʿ 9:1615.2']
+    note: وينصرف من الصّلاة عن يمينه وعن يساره
+  hints: ['''Differ from the Jews, who do not pray in their sandals'', against the rabbinic rule that one may not enter the Temple Mount with one''s staff, shoes or money-belt (m. Berakhot 9:5) and the priests'' barefoot service; behind both, Exod 3:5 and Josh 5:15 (''put off thy shoe from off thy foot'').']
+- id: hadith-9-mats
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Praying on the palm-mat and the blackened reed mat; sweat gathered as perfume
+  read: ['Jāmiʿ 9:1616.2-1619.2']
+  tags:
+  - motif: prays-on-small-palm-mat-khumra
+    refs: ['Jāmiʿ 9:1616.2', 'Jāmiʿ 9:1617.2', 'Jāmiʿ 9:1617.3', 'Jāmiʿ 9:1618.1', 'Jāmiʿ 9:1618.2', 'Jāmiʿ 9:1619.1', 'Jāmiʿ 9:1619.2']
+    note: وهو يُصلِّي على خُمرته; فوجده يُصَلِّي على حصير يسجد عليه; كان رسول الله ﷺ يُصَلِّي على الخُمرة; كان يُصلِّي على الخمرة، ويسجد عليها
+  - motif: menstruating-wife-touched-by-his-garment-at-prostration
+    refs: ['Jāmiʿ 9:1616.2']
+    note: كانت تكون حائضًا لا تُصلي، وهي مفترشةٌ بحذاء مسجد رسول الله ﷺ ... إذا سجد أصابها بعض ثوبه
+  - motif: blackened-mat-sprinkled-for-two-rakas
+    refs: ['Jāmiʿ 9:1616.3']
+    note: قوموا فلأُصلِّي لكم ... فقمتُ إلى حصير لنا قد اسْوَدَّ؛ من طول ما لُبِس فنضحتُه بماء ... وصفَفتُ أنا واليتيم وراءه، والعجوز من ورائنا
+  - motif: heavy-man-cannot-pray-with-him-invites-to-house
+    refs: ['Jāmiʿ 9:1617.1']
+    note: إني لا أستطيع الصّلاة معك - وكان رجلًا ضخمًا - ... فبسط له حصيرًا، ونَضَحَ طرف الحصير، فصلى عليه ركعتين ... ما رأيته صلاها إِلَّا يومئذ
+  - motif: sweat-collected-into-perfume-bottles
+    refs: ['Jāmiʿ 9:1618.1']
+    note: فتبسط له نِطْعًا فيقيل عندها، وكان كثير العَرَقِ، فتجمع عَرقَه، فتجعله في الطيب والقوارير
+  - motif: mat-put-away-lest-it-tempt-the-people
+    refs: ['Jāmiʿ 9:1618.3']
+    note: يا عائشةُ! ارفَعِي عنَّا حصيرَكِ هذا، فقد خشيتُ أن يَفْتِنُ في الناسُ
+- id: hadith-9-womans-head-cover
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No prayer of a grown woman without a head-cover
+  read: ['Jāmiʿ 9:1620.1']
+  tags:
+  - motif: no-prayer-of-woman-of-age-without-head-cover
+    refs: ['Jāmiʿ 9:1620.1']
+    note: لا يقبل الله صلاة حائض إِلَّا بخمار
+- id: hadith-9-speech-abrogated
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Speech in prayer abrogated at Q 2:238; the bedouin who narrowed God's mercy
+  read: ['Jāmiʿ 9:1624.1-1624.2']
+  quran: ['2:238']
+  tags:
+  - motif: speech-in-prayer-forbidden
+    refs: ['Jāmiʿ 9:1624.1']
+    note: 'كنا لنتكلمُ في الصّلاة ... يكلم أحدُنا صاحبَه بحاجته حتَّى نزلت: حَافِظُوا عَلَى الصَّلَوَاتِ ... فأُمرنا بالسّكوت'
+  - motif: bedouin-prays-mercy-on-me-and-muhammad-only
+    refs: ['Jāmiʿ 9:1624.2']
+    note: اللَّهُمَّ! ارحمني ومحمدًا ولا ترحمْ معنا أحدًا ... لقد حجَّرت واسعًا
+- id: hadith-9-no-greeting-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'No returning the greeting in prayer: after the Negus, Jābir greeted thrice, ''no ghirār'''
+  read: ['Jāmiʿ 9:1624.3-1626.1']
+  tags:
+  - motif: greeting-unanswered-after-return-from-negus
+    refs: ['Jāmiʿ 9:1624.3']
+    note: 'كنا نسَلِّم على رسول الله ﷺ وهو في الصّلاة فيردُّ علينا. فلمّا رجعنا من عِنْدِ النجاشي سلَّمنا عليه فلم يرد علينا وقال: إن في الصّلاة شُغلا'
+  - motif: greeting-unanswered-thrice-on-camel-prayer
+    refs: ['Jāmiʿ 9:1625.1']
+    note: فسلَّمتُ عليه فلم يردَّ عليَّ. فوقع في قلبي ما الله أعلم به ... إنما منعني أن أردَّ عليك أنِّي كنتُ أصَلِّي وكان على راحلته متوجهًا إلى غير القبلة
+  - motif: no-deficiency-in-prayer-or-greeting
+    refs: ['Jāmiʿ 9:1625.2']
+    note: لا غِرارَ في صلاة ولا تسليم
+  - motif: we-used-to-return-greeting-in-prayer
+    refs: ['Jāmiʿ 9:1626.1']
+    note: فرد النَّبِيّ ﷺ إشارة ... إنا كنا نرد السّلام في صلاتنا فنُهينا عن ذلك
+- id: hadith-9-sneezer-answered-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Muʿāwiya b. al-Ḥakam answers a sneezer in prayer; soothsayers, omens, line-drawing; the slave girl asked 'where is God?'
+  read: ['Jāmiʿ 9:1627.1']
+  tags:
+  - motif: praying-sneezer-answered-silenced-by-thigh-slaps
+    refs: ['Jāmiʿ 9:1627.1']
+    note: 'إذ عطس رجل من القوم، فقلت: يَرْحَمُكَ الله، فرماني القومُ بأبصارهم ... فجعلوا يضربون بأيديهم على أفخاذِهم ... إنّما هو التسبيح والتكبيرُ وقراءةُ القرآنِ'
+  - motif: do-not-go-to-soothsayers
+    refs: ['Jāmiʿ 9:1627.1']
+    note: 'وإِنَّ منا رجالًا يأتون الكُهَّان، قال: فَلا تَأْتِهِمْ'
+  - motif: augury-something-felt-in-breasts
+    refs: ['Jāmiʿ 9:1627.1']
+    note: 'ومنَّا رجالٌ يتطَيَّرون، قال: ذاكَ شيءٌ يَجِدُونه في صُدُورهم، فلا يصدنَّهم'
+  - motif: a-prophet-who-divined-by-drawing-lines
+    refs: ['Jāmiʿ 9:1627.1']
+    note: 'ومنَّا رجال يخطُّون. قال: كان نبيٌّ من الأنبياء يخط، فمن وافق خطَّه فذاك'
+  - motif: slave-girl-asked-where-is-god-freed-as-believer
+    refs: ['Jāmiʿ 9:1627.1']
+    note: 'فإذا الذئب قد ذهب بشاةٍ من غنمها ... لكني صككتها صكةً ... أينَ الله؟ قالت: في السماء. قال: مَنْ أنا؟ قالت: أنت رسولُ الله، قال اعتقها، فإنها مؤمِنةٌ'
+- id: hadith-9-yawning
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Yawning in prayer is from Satan; sneezing God loves
+  read: ['Jāmiʿ 9:1627.2-1628.1']
+  tags:
+  - motif: yawn-from-satan-who-laughs-at-ha
+    refs: ['Jāmiʿ 9:1627.2']
+    note: 'التثاؤُبُ من الشّيطان، فإذا تثاءَبَ أحدكم فليرُدُّه ما استطاع. فإن أحدكم إذا قال: ها، ضحك الشّيطان ... إن الله يحب العُطاس، ويكره التثاؤُبَ'
+  - motif: satan-enters-the-yawning-mouth
+    refs: ['Jāmiʿ 9:1628.1']
+    note: إذا تثاءب أحدكم في الصّلاة فَلْيَكْظِم ما استطاع، فإن الشّيطان يدخل
+  hints: ['God loving the sneeze and hating the yawn, the yawn being Satan''s, against b. Berakhot 24b (one who sneezes in his prayer, it is a good sign for him; one who belches or yawns in prayer is among the arrogant).']
+- id: hadith-9-hand-on-hip
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Hand on the hip in prayer forbidden; 'this is al-ṣalb'
+  read: ['Jāmiʿ 9:1628.2-1629.1']
+  tags:
+  - motif: hand-on-hip-in-prayer-forbidden-as-crucifixion
+    refs: ['Jāmiʿ 9:1628.2', 'Jāmiʿ 9:1629.1']
+    note: 'نَهى أن يُصَلِّي الرّجل مختصرًا; فوضعتُ يدي على خاصرتي، فلمّا صلَّى قال: هذا الصلبُ في الصّلاة، وكان رسول الله ﷺ ينهى عنه'
+- id: hadith-9-turning-aside
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Turning aside: Satan''s snatch; God faces the servant until he turns'
+  read: ['Jāmiʿ 9:1630.1-1630.3']
+  tags:
+  - motif: turning-aside-is-satans-snatch
+    refs: ['Jāmiʿ 9:1630.1']
+    note: هو اختلاس يختلِسه الشّيطانُ من صلاة العبد
+  - motif: god-sets-his-face-to-praying-servant-unless-he-turns
+    refs: ['Jāmiʿ 9:1630.2', 'Jāmiʿ 9:1630.3']
+    note: فإن الله ينصبُ وجهه لوجه عبده في صلاته ما لم يلتفِتْ; لا يزال الله ﷿ مقبلًا على العبد وهو في صلاته ما لم يلتفِتْ فإذا التفت انصرف عنه
+- id: hadith-9-turning-for-need
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Turning when needed: the patterned cloak, the sitting imam, glances, the look to the pass'
+  read: ['Jāmiʿ 9:1631.1-1632.2']
+  tags:
+  - motif: patterned-cloak-distracts-sent-back-to-abu-jahm
+    refs: ['Jāmiʿ 9:1631.1']
+    note: شغلتني أعلامُ هذه، اذهبوا بها إلى أبي جهم، وائتوني بأنْبَجَانِيةٍ
+  - motif: sitting-imam-stand-not-like-persians-and-romans
+    refs: ['Jāmiʿ 9:1631.2']
+    note: فالتفت إلينا فرآنا قيامًا، فأشار إلينا فقعدنا ... إن كِدتُم آنفًا لتفعلون فعلَ فارسَ والروم، يقومون على ملوكهم، وهم قعود
+  - motif: glances-right-and-left-without-turning-neck
+    refs: ['Jāmiʿ 9:1632.1']
+    note: كان يلحظ في الصّلاة يمينًا وشمالًا، ولا يَلْوي عنقَه خلْف ظهره
+  - motif: looks-to-the-pass-where-sentry-was-sent
+    refs: ['Jāmiʿ 9:1632.2']
+    note: ثُوِّب بالصلاة، يعني صلاة الصبح، فجعل رسولُ الله ﷺ يُصلي، وهو يلتفت إلى الشِّعب
+- id: hadith-9-eyes-to-the-sky
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Raising the eyes to the sky in prayer: they will be snatched'
+  read: ['Jāmiʿ 9:1634.1-1634.4']
+  tags:
+  - motif: eyes-raised-to-sky-in-prayer-will-be-snatched
+    refs: ['Jāmiʿ 9:1634.1', 'Jāmiʿ 9:1634.2', 'Jāmiʿ 9:1634.3', 'Jāmiʿ 9:1634.4']
+    note: لينتهُنَّ عن ذلك، أو لتُخطفنَّ أبصارُهم; عند الدعاء في الصّلاة إلى السماء; أو لا ترجع إليهم; لا ترفعوا أبصارَكم إلى السماء أن تُلْتَمَعَ
+  hints: ['The ban on raising the eyes heavenward in prayer, against b. Yevamot 105b (one who prays must direct his eyes downward and his heart upward).']
+- id: hadith-9-tied-hair
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Hair knotted in prayer: ''like one who prays bound''; the devil''s seat'
+  read: ['Jāmiʿ 9:1636.1-1637.1']
+  tags:
+  - motif: tied-hair-in-prayer-like-praying-bound
+    refs: ['Jāmiʿ 9:1636.1', 'Jāmiʿ 9:1637.1']
+    note: يُصَلِّي ورأسُه معقوص من ورائِه. فقام فجعل يحلُّه ... إن ما مثلُ هذا مثلُ الذي يُصَلِّي وهو مكتوف; نهى أن يُصلِّي الرّجلُ ورأسه معقوص
+  - motif: plait-knot-is-satans-seat
+    refs: ['Jāmiʿ 9:1636.2']
+    note: وقد غرز ضفره في قفاه. فحلَّها أبو رافع ... ذلك كفْل الشّيطان يعني مقعد الشّيطان
+- id: hadith-9-spitting-to-the-qibla
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'No spitting toward the qibla: God before the face; the imam replaced for spitting'
+  read: ['Jāmiʿ 9:1637.2-1638.1']
+  tags:
+  - motif: no-spitting-forward-god-is-before-his-face
+    refs: ['Jāmiʿ 9:1637.2']
+    note: رأى بصاقًا في جدار القبلة، فحكَّه ... فلا يبصق قِبَلَ وجهه، فإن الله ﵎ قِبَل وجهه إذا صَلَّى
+  - motif: imam-who-spat-toward-qibla-replaced
+    refs: ['Jāmiʿ 9:1638.1']
+    note: فتفل في القبلة وهو يُصلِّي للناس. فلمَّا كانت صلاة العصر، أرسل إلى آخر ... أَنَزَل فيَّ؟ ... تفلت بين يديك، وأنت تؤمُّ الناس فآذيت الله وملائكته
+- id: hadith-9-covering-the-mouth
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Covering the mouth in prayer forbidden
+  read: ['Jāmiʿ 9:1638.2']
+  tags:
+  - motif: letting-garment-hang-and-covering-mouth-forbidden
+    refs: ['Jāmiʿ 9:1638.2']
+    note: نهى رسول الله ﷺ أن يُغَطِّيَ الرّجل فاه في الصّلاة
+- id: hadith-9-camel-pens-sheepfolds
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Sheepfolds yes, camel resting-places no: ''they are of the devils'' / ''created from devils'''
+  read: ['Jāmiʿ 9:1639.1-1640.1']
+  tags:
+  - motif: prayed-in-sheepfolds-before-mosque-built
+    refs: ['Jāmiʿ 9:1639.1']
+    note: كان النَّبِيّ ﷺ يُصلِّي قبل أن يبنى المسجد في مَرابِض الغنم
+  - motif: no-prayer-in-camel-pens-pray-in-sheepfolds
+    refs: ['Jāmiʿ 9:1639.2', 'Jāmiʿ 9:1639.3', 'Jāmiʿ 9:1639.4', 'Jāmiʿ 9:1640.1']
+    note: 'أصَلِّي في مبارك الإبل؟ قال: لا; لا تصلّوا في مبارك الإبل، فإنَّها من الشياطين ... صلُّوا فيها فإنها بركة; ولا تُصلوا في أعطانِ الإبل; ويُصلَّى في مُراح الغنم'
+- id: hadith-9-forbidden-places
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Places of prayer forbidden: toward or among graves, the bath-house'
+  read: ['Jāmiʿ 9:1641.1-1642.1']
+  tags:
+  - motif: no-prayer-toward-graves-or-sitting-on-them
+    refs: ['Jāmiʿ 9:1641.1', 'Jāmiʿ 9:1642.1']
+    note: لا تصلوا إلى القبور، ولا تجلسوا عليها; نهى رسول الله ﷺ أن يُصلَّى بين القبور
+  - motif: earth-all-a-mosque-but-bath-and-graveyard
+    refs: ['Jāmiʿ 9:1641.2']
+    note: الأرض كلها مسجد إلا الحمامَ والمقبرة
+- id: hadith-9-children-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Children in prayer: Umāma carried, the grandson riding his back, the lightning that lights their way home'
+  read: ['Jāmiʿ 9:1644.1-1645.1']
+  tags:
+  - motif: prays-carrying-granddaughter-umama
+    refs: ['Jāmiʿ 9:1644.1']
+    note: كان يُصلي وهو حاملٌ أُمامةَ بنت زينب ... فإذا سجد وضعها، وإذا قام حملها
+  - motif: long-prostration-grandson-rode-my-back
+    refs: ['Jāmiʿ 9:1644.2']
+    note: فسجد بين ظهراني صلاته سجدة أطالها ... وإذا الصبي على ظهر رسول الله ﷺ وهو ساجد ... ولكن ابني ارتَحَلَني، فكرهتُ أن أعِجِله حتى يَقْضي حاجته
+  - motif: grandsons-leap-on-back-sent-home-by-lightning
+    refs: ['Jāmiʿ 9:1645.1']
+    note: 'فإذا سجد وثب الحسنُ والحسينُ على ظهره ... فبرقتْ برقة فقال لهما: ألْحِقا بأمكما قال: فمكث ضوؤُها حتى دخلا'
+- id: hadith-9-snake-and-scorpion
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Kill the two black ones in prayer
+  read: ['Jāmiʿ 9:1646.1']
+  tags:
+  - motif: kill-the-two-black-ones-in-prayer
+    refs: ['Jāmiʿ 9:1646.1']
+    note: 'اقتلوا الأسودين في الصّلاة: الحية والعقرب'
+- id: hadith-9-stepping-back
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Stepping back in prayer: Abū Bakr''s retreat, the pulpit, the last Monday, the eclipse vision'
+  read: ['Jāmiʿ 9:1647.1-1648.2']
+  quran: ['5:103']
+  tags:
+  - motif: abu-bakr-steps-back-for-the-prophet
+    refs: ['Jāmiʿ 9:1647.1']
+    note: 'فأخذ الناس بالتصفيح ... وكان أبو بكر لا يلتفتُ في صلاته ... فأشار إليه: مكانك. فرفع أبو بكر يديه فحمِدَ الله ثم رجع القهقَرى وراءه'
+  - motif: prays-on-three-step-pulpit-descends-backward
+    refs: ['Jāmiʿ 9:1647.2']
+    note: مُرِي غلامَكِ النجارَ يعملُ لي أعوادًا ... فعمل هذه الثلاث درجات ... ثم رفع فنزل القَهْقَرَى حتى سجد في أصل المنبر ... إنما فعلتُ هذا لتأتموا بي، ولِتعلَّموا صلاتي
+  - motif: face-like-page-of-mushaf
+    refs: ['Jāmiʿ 9:1648.1']
+    note: كشف رسولُ الله ﷺ سِتْر الحجرةِ. فنظر إلينا وهو قائم كأن وجْهَه ورقةُ مُصحفٍ ... ونكص أبو بكر على عَقِبَيه ... فتوفي رسولُ الله ﷺ من يومه ذلك
+  - motif: grape-cluster-reached-in-eclipse-prayer
+    refs: ['Jāmiʿ 9:1648.2']
+    note: لقد رأيتُي أريد أن آخذ قِطْفًا من الجنة حين رأيتموني جعلتُ أتقدَّمُ، ولقد رأيتُ جهنَّم يَحْطِمُ بعضُها بعضًا حين رأيتموني تأخَّرتُ
+  - motif: amr-b-luhayy-drags-guts-in-fire
+    refs: ['Jāmiʿ 9:1648.2']
+    note: ورأيت فيها عمرو بن لُحيّ، وهو الذي سيَّبَ السوائب
+  - motif: first-to-let-loose-the-saiba
+    refs: ['Jāmiʿ 9:1648.2']
+    note: وهو الذي سيَّبَ السوائب
+- id: hadith-9-walking-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Walking in prayer: the door in the qibla, the runaway horse'
+  read: ['Jāmiʿ 9:1648.3-1649.1']
+  tags:
+  - motif: walks-to-open-door-in-qibla-during-prayer
+    refs: ['Jāmiʿ 9:1648.3']
+    note: يُصَلِّي والباب عليه مغلق، فجئت فاستفتحت، فمشى، ففتح لي، ثم رجع إلى مصلاه. وذُكِرَ أن الباب كان في القبلة
+  - motif: old-companion-follows-runaway-horse-in-prayer
+    refs: ['Jāmiʿ 9:1649.1']
+    note: فصلى وخَلَّى فرسَه، فانطلقتِ الفرَسُ. فترك صلاتَه وتبعها حتى أدركها ... انظروا إلى هذا الشيخ، ترك صلاتَه من أجل فرَسٍ ... وشهدت تيسيره
+- id: hadith-9-tasbih-and-clapping
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Glorification for men, clapping for women
+  read: ['Jāmiʿ 9:1650.1-1650.2']
+  tags:
+  - motif: glorification-for-men-clapping-for-women
+    refs: ['Jāmiʿ 9:1650.1', 'Jāmiʿ 9:1650.2']
+    note: التسبيح للرجال، والتصفيق للنساء; من رَابَهُ شيء في صلاته فليُسَبِّح ... وإنما التصفيق للنساء
+- id: hadith-9-phlegm-scraped-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Phlegm scraped from the qibla while praying: God before the face'
+  read: ['Jāmiʿ 9:1650.3']
+  tags:
+  - motif: no-spitting-forward-god-is-before-his-face
+    refs: ['Jāmiʿ 9:1650.3']
+    note: رأى نُخامةً في قبلة المسجد، وهو يُصلي ... فحتَّها ... فإن الله قِبَل وجهِه، فلا يتنخَّمنَّ أحدٌ قِبل وجهه
+- id: hadith-9-pebbles
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The pebbles of the prostration: once only, cooled in the palm, untouched since mercy faces him'
+  read: ['Jāmiʿ 9:1651.1-1651.3']
+  tags:
+  - motif: smoothing-pebbles-only-once
+    refs: ['Jāmiʿ 9:1651.1']
+    note: 'ذكر النبي ﷺ المسح في المسجد، يعني الحصى فقال: إن كنت لا بدَّ فاعِلًا فواحدة'
+  - motif: pebbles-cooled-in-palm-for-prostration
+    refs: ['Jāmiʿ 9:1651.2']
+    note: فآخذ قبضة من الحصى لتبرد في كفِّي أضعها لجبتهي أسجد عليها لشدة الحرّ
+  - motif: mercy-faces-the-one-praying-do-not-touch-pebbles
+    refs: ['Jāmiʿ 9:1651.3']
+    note: فإنّ الرّحمة تواجهه، فلا يمسح الحصى
+- id: hadith-9-greeting-by-sign
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Greeting answered by a sign: Jābir facing east, the Helpers at Qubāʾ, ʿAmmār'
+  read: ['Jāmiʿ 9:1652.1-1653.1']
+  tags:
+  - motif: greeting-returned-by-hand-sign-in-prayer
+    refs: ['Jāmiʿ 9:1652.1', 'Jāmiʿ 9:1652.2', 'Jāmiʿ 9:1653.1']
+    note: 'فسلَّمتُ عليه. فأشار إليَّ ... وهو موجه حينئذ قبل الشَرق; كيف كان رسول الله ﷺ يرد عليهم؟ قال: كان يشير بيده; سلَّم على النبي ﷺ وهو يُصلي، فردَّ عليه'
+- id: hadith-9-signs-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Signing in prayer: the sitting imam signs ''sit'', Aisha points to the sky at the eclipse'
+  read: ['Jāmiʿ 9:1654.1-1655.1']
+  tags:
+  - motif: sitting-imam-stand-not-like-persians-and-romans
+    refs: ['Jāmiʿ 9:1654.1', 'Jāmiʿ 9:1654.3']
+    note: فصلوا بصلاته قيامًا. فأشار إليهم أن اجلسوا ... وإذا صلَّى جالسًا فصلوا جلوسًا; فأشار إلينا فقعدنا
+  - motif: aisha-in-eclipse-prayer-points-to-sky
+    refs: ['Jāmiʿ 9:1654.2']
+    note: 'فقلت: ما للناس؟ فأشارت بيدها نحو السماء. وقالت: سبحان الله. فقلت: آية؟ فأشارتْ نعم'
+  - motif: greeting-returned-by-hand-sign-in-prayer
+    refs: ['Jāmiʿ 9:1655.1']
+    note: أن النبي ﷺ كان يشير في الصلاة
+- id: hadith-9-sneezer-praises-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The sneezer''s praise in prayer: thirty-odd angels race to take it up'
+  read: ['Jāmiʿ 9:1655.2']
+  tags:
+  - motif: thirty-odd-angels-race-to-carry-sneezers-praise
+    refs: ['Jāmiʿ 9:1655.2']
+    note: 'فعطستُ فقلت: الحمد الله حمدًا كثيرًا طيبًا مباركًا فيه ... من المتكلم في الصلاة؟ ... لقد ابتدرها بضعةٌ وثلاثون ملكًا أيهم يصعد بها'
+  hints: ['Praise said at a sneeze approved, against b. Berakhot 24b (one who sneezes in his prayer: a good sign for him) - and the race of angels to carry a new formula, against the ten angels of the ʿilm book (ten-angels-race-to-write-praise).']
+- id: hadith-9-weeping-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Weeping in prayer: the chest seething like a pot'
+  read: ['Jāmiʿ 9:1657.1']
+  tags:
+  - motif: chest-seethes-like-boiling-pot-in-prayer
+    refs: ['Jāmiʿ 9:1657.1']
+    note: وفي صدره أزيزٌ كأزيز المِرجل من البكاء
+- id: hadith-9-blowing-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Blowing in prayer: ''uff, uff'' and ''did you not promise'' at the eclipse'
+  read: ['Jāmiʿ 9:1657.2']
+  quran: ['8:33']
+  tags:
+  - motif: blows-uff-in-eclipse-prostration-you-promised
+    refs: ['Jāmiʿ 9:1657.2']
+    note: 'وجعل يبكي في سجوده وينفخُ ويقول: رب لم تعِدْني هذا، وأنا استغفرك ... ثم نفخ في آخر سجوده فقال: أف أف ثم قال: ربِّ ألم تعِدْني أن لا تعذِّبهم وأنا فيهم، ألم تعِدْني أن لا تعذبهم وهم يستغفرون'
+- id: hadith-9-demon-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The demon seized in prayer, spared for Solomon's prayer; cold of its tongue; sparks of fire; the firebrand
+  read: ['Jāmiʿ 9:1659.1-1662.1']
+  quran: ['38:35']
+  tags:
+  - motif: prophet-spares-ifrit-for-solomons-prayer
+    refs: ['Jāmiʿ 9:1659.1', 'Jāmiʿ 9:1660.1', 'Jāmiʿ 9:1660.2', 'Jāmiʿ 9:1661.1']
+    note: إنَّ عِفريتا من الجنِّ تفلَّتَ عليَّ البارحةَ ... فأردتُ أن أرْبُطَه على ساريةٍ من سواري المسجد حتى تنظروا إليه كُلُّكم. فذكرْتُ دعوةَ أخي سليمان; ولولا دعوة أخي سليمان ﵇ لأصبح موثقًا حتى يراه الناس; حتى يُناطَ إلى سارية من سواري المسجد، ينظر إليه وِلدانُ أهل المدينة
+  - motif: devil-throttled-cold-of-tongue-on-hand
+    refs: ['Jāmiʿ 9:1660.1', 'Jāmiʿ 9:1661.1']
+    note: فأتاه الشيطان فأخذه، فصرعه فخنقَه ... حتى وجدتُ بردَ لسانه على يدي; فما زلتُ أخْنُقُه حتى وجدتُ برْد لُعابه بين أصْبعيَّ هاتين - الإبهام والتي تليها
+  - motif: devil-throws-sparks-of-fire-at-prayer
+    refs: ['Jāmiʿ 9:1660.2']
+    note: فجعل يَهْوِي بيده ... إن الشيطان هو كان يُلْقِي عَلَيَّ شَرارَ النار ليَفْتِنَنِي عن صلاتي، فتناولتُه
+  - motif: iblis-brings-firebrand-to-prophets-face
+    refs: ['Jāmiʿ 9:1662.1']
+    note: أعوذ بالله منك ... ألْعنُك بلعْنَةِ الله ثلاثًا ... إنّ عدوَّ الله إبليسَ جاء بشهاب من نار ليجعله في وجْهِي ... لولا دعوةُ أخينا سليمان لأصبح مُوثقًا يلعبُ به ولدانُ أهل المدينة
+  hints: ['The prophet holding back from binding the demon to a pillar for all to see because binding demons was Solomon''s alone, against b. Gittin 68a (Benaiah captures Ashmedai for Solomon with a chain and a ring engraved with the Name) and the Testament of Solomon (demons bound by Solomon''s ring and set to build the Temple).']
+- id: hadith-9-feet-swell-grateful-servant
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Standing till the feet swell: ''shall I not be a grateful servant?'''
+  read: ['Jāmiʿ 9:1663.1-1664.1']
+  quran: ['17:79', '25:64', '32:16', '48:2']
+  tags:
+  - motif: prays-until-feet-swell
+    refs: ['Jāmiʿ 9:1663.1', 'Jāmiʿ 9:1663.2', 'Jāmiʿ 9:1663.3', 'Jāmiʿ 9:1664.1']
+    note: حتى تَرِم قدماه - أو ساقاه; حتى تتفطَّر قدماه ... فلما كَثُر لحْمه صلَّى جالسًا، فإذا أراد أن يركع قام فقرأ، ثم ركع; حتَّى تورّمتْ قدماه
+  - motif: shall-i-not-be-a-grateful-servant
+    refs: ['Jāmiʿ 9:1663.1', 'Jāmiʿ 9:1663.2', 'Jāmiʿ 9:1663.3', 'Jāmiʿ 9:1664.1']
+    note: أفلا أكون عبدًا شكورًا; وقد غفر الله لك ما تقدَّم من ذَنْبِكَ وما تأخَّر
+  - motif: night-vigil-prayer
+    refs: ['Jāmiʿ 9:1663.1']
+    note: 'رأس الأبواب: وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ (bāb head, Q 17:79)'
+- id: hadith-9-night-prayer-made-voluntary
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Night prayer obligatory at the start of al-Muzzammil, voluntary after a year
+  read: ['Jāmiʿ 9:1665.1']
+  quran: ['73:1-20']
+  tags:
+  - motif: his-character-was-the-quran
+    refs: ['Jāmiʿ 9:1665.1']
+    note: 'أَنبئِيني عن خُلُقِ رسول الله ﷺ، فقالت: أما تقرأ القرآن؟ ... فإن خلق رسول الله ﷺ كان القرآن'
+  - motif: night-prayer-obligatory-a-year-then-voluntary
+    refs: ['Jāmiʿ 9:1665.1']
+    note: فإن الله افترض القيام في أول هذه السورة، فقام نبي الله ﷺ وأصحابه حولًا، حتى انتفخت أقدامُهم، وأمسك الله خاتمتها اثني عشر شهرًا ... فصار قيام الليل تطوعًا بعد فريضةٍ
+- id: hadith-9-night-on-one-verse
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'A night spent on one verse: ''if you punish them they are your servants'''
+  read: ['Jāmiʿ 9:1666.1-1667.1']
+  quran: ['5:118']
+  tags:
+  - motif: whole-night-repeating-one-verse-if-you-punish-them
+    refs: ['Jāmiʿ 9:1666.1', 'Jāmiʿ 9:1667.1']
+    note: 'قام النبي ﷺ بآية من القرآن ليلةً; قام النبي ﷺ بآية حتى أصبح يردِّدُها. والآية: إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ'
+- id: hadith-9-night-openings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Words on rising for the night: the light of the heavens, the waking formula, the Lord of Gabriel, Michael and Isrāfīl, the tens'
+  read: ['Jāmiʿ 9:1667.2-1669.1']
+  quran: ['39:46']
+  tags:
+  - motif: night-opening-you-are-light-of-heavens-and-earth
+    refs: ['Jāmiʿ 9:1667.2']
+    note: اللهم! لك الحمدُ أنت قَيِّمُ السماوات والأرض ومن فيهن ... أنت نورُ السماوات والأرضِ ... أنت الحق، ووعدك الحق، ولقاءُك حق ... والنبيون حق، ومحمد حق، والساعة حق
+  - motif: waking-formula-then-prayer-answered
+    refs: ['Jāmiʿ 9:1668.1']
+    note: 'من تعارَّ من الليل فقال: لا إله إلا الله وحده لا شريك له ... ثم قال: اللهم! اغفر لي، أو دعا، استُجيب له، فإن توضأ وصلَّى قُبلتْ صلاتُه'
+  - motif: lord-of-gabriel-michael-israfil
+    refs: ['Jāmiʿ 9:1668.2']
+    note: اللهم! ربَّ جَبْرَائيل وميكائيل وإسرافيل. فاطرَ السماوات والأرض، عالمَ الغيب والشهادةِ، أنت تحكم بين عبادك فيما كانوا فيه يختلفون
+  - motif: ten-each-of-takbir-praise-tasbih-tahlil-istighfar
+    refs: ['Jāmiʿ 9:1669.1']
+    note: كان إذا قام كبَّر عَشرًا، وحَمِدَ الله عشرًا، وسبَّح عشرًا، وهلَّل عشرًا، واستغفر عشرًا ... ويتعوذ من ضيق المقام يوم القيامة
+- id: hadith-9-ten-closing-verses-of-al-imran
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Rising at midnight he wipes sleep from his face and recites the last ten verses of Āl ʿImrān
+  read: ['Jāmiʿ 9:1669.2']
+  quran: ['3:190-200']
+  tags:
+  - motif: night-vigil-looks-at-sky-recites-creation-verse
+    refs: ['Jāmiʿ 9:1669.2']
+    note: فجلس يمسح النومَ عن وجهه بيده ثم قرأ العشر الآيات الخواتم من سورة آل عمران ... إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ
+- id: hadith-9-urging-night-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Urging the night prayer: Ali and Fatima woken, Ibn ʿUmar''s dream, the night of trials, the best prayer, the spouses who wake each other, the see-through chamber'
+  read: ['Jāmiʿ 9:1670.1-1679.1']
+  quran: ['18:54', '33:35', '21:30']
+  tags:
+  - motif: man-is-most-given-to-dispute-slapping-thigh
+    refs: ['Jāmiʿ 9:1670.1']
+    note: 'طرقَه وفاطمةَ ... ألا تُصلِّيان؟ ... أنفسنا بيد الله، فإذا شاء أن يَبْعَثَنا بَعَثَنا ... وهو مُوَلٍّ يضرب فخذه وهو يقول: وَكَانَ الْإِنْسَانُ أَكْثَرَ شَيْءٍ جَدَلًا'
+  - motif: good-man-if-he-prayed-at-night-dream-of-fire
+    refs: ['Jāmiʿ 9:1670.2']
+    note: كأنَّ ملكين أخذاني فذهبا بي إلى النار، فإذا هي مطوية كطيّ البئر، وإذا لها قرنان ... لَم تُرَعْ ... نعم الرجل عبد الله لو كان يُصلي من الليل
+  - motif: treasures-and-trials-sent-down-in-a-night
+    refs: ['Jāmiʿ 9:1671.1']
+    note: سبحان الله ماذا أُنزِل الليلة من الفِتن، وماذا فُتح من الخزائن، من يُوقِظُ صواحبَ الحُجُرات؟
+  - motif: clothed-in-world-naked-in-hereafter
+    refs: ['Jāmiʿ 9:1671.1']
+    note: يا رُبَّ كاسيةٍ في الدنيا، عاريةٍ في الآخرةِ
+  - motif: best-prayer-after-obligatory-is-night-prayer
+    refs: ['Jāmiʿ 9:1671.2']
+    note: أفضل الصيام بعد رمضان شهر الله المحرم، وأفضل الصلاة بعد الفريضة صلاةُ الليل
+  - motif: couple-who-wake-each-other-written-among-rememberers
+    refs: ['Jāmiʿ 9:1671.3']
+    note: إذا أيقظ الرجلُ أهلَه من الليل، فصلَّيا، أو صلى ركعتين جميعًا كتبا في الذاكرين والذاكرات
+  - motif: water-sprinkled-on-face-of-sleeping-spouse
+    refs: ['Jāmiʿ 9:1671.4']
+    note: رحم الله رجلًا قام من الليل، فصَلَّى وأيقظ امرأته، فإن أبتْ نضح في وجهها الماءَ، رحم الله امرأة ... فإن أبي نضحتْ في وجهه الماءَ
+  - motif: hundred-verses-a-night-not-written-heedless
+    refs: ['Jāmiʿ 9:1672.1']
+    note: ومن قرأ في ليلة مائة آية لم يكتب من الغافلين، أو كتب من القانتين
+  - motif: ask-me-of-everything-all-from-water
+    refs: ['Jāmiʿ 9:1673.1']
+    note: 'فأنْبِئني عن كل شيء. فقال: كل شيء خُلق من ماء'
+  - motif: greeting-feeding-kinship-night-prayer-enter-paradise
+    refs: ['Jāmiʿ 9:1673.1', 'Jāmiʿ 9:1674.1']
+    note: أفْشِ السلامَ، وأَطْعِم الطعامَ، وصِلِ الأَرْحَام، وقُم بالليلِ والناسُ نِيام، ثم ادخُلِ الجنّةَ بسلامٍ
+  - motif: aisha-sick-or-weary-prayed-sitting
+    refs: ['Jāmiʿ 9:1673.2']
+    note: لا تدعْ قيام الليل، فإن رسول الله ﷺ كان لا يدعُه، وكان إذا مرض أو كسل صلى قاعدًا
+  - motif: first-words-in-medina-not-the-face-of-a-liar
+    refs: ['Jāmiʿ 9:1674.1']
+    note: فلما استثبتُ وجهَ رسول الله ﷺ عرفتُ أن وجهه ليس بوجه كذّاب، وكان أوّلَ شيء تكلم به
+  - motif: see-through-chamber-for-soft-speech-food-fasting-night-prayer
+    refs: ['Jāmiʿ 9:1674.2', 'Jāmiʿ 9:1675.2']
+    note: إن في الجنة غرفةً يُرى ظاهِرُها من باطنها، وباطِنُها من ظاهرها، أعده الله لمن أطعم الطعام، وألانَ الكلام، وتابع الصيامَ، وصلى والناس نيام
+  - motif: ten-hundred-thousand-verses-heedless-devout-hoarders
+    refs: ['Jāmiʿ 9:1675.1']
+    note: من قام بعشر آيات لم يكتب من الغافلين، ومن قام بمائة آية كُتِب من القانتين، ومن قام بألف آية كتب من المقنْطِرين
+  - motif: three-loved-by-god-secret-giver-night-reciter-rearguard
+    refs: ['Jāmiʿ 9:1677.1']
+    note: ثلاثة يحبهم الله ... فأعطاه سِرًّا ... وقوم ساروا ليلتهم ... فقام يتملَّقُني ويتلو آياتي، ورجل كان في سَرِيَّةٍ ... الشيخ الزاني والفقير المختال، والغني الظلوم
+  - motif: night-vigil-dutiful-practice-of-righteous-before
+    refs: ['Jāmiʿ 9:1679.1']
+    note: عليكم بقيام الليل، فإنه دأب الصالحين قبلكم، وهو قُربة إلى ربكم، ومكفرة للسيئات، ومنهاة عن الإثم
+- id: hadith-9-leaving-night-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Leaving the night prayer: the devil''s urine in the ear, the three knots on the nape, the Quran not a pillow'
+  read: ['Jāmiʿ 9:1681.1-1683.2']
+  tags:
+  - motif: do-not-be-like-one-who-left-night-prayer
+    refs: ['Jāmiʿ 9:1681.1']
+    note: يا عبد الله! لا تكن مثلَ فلانٍ كان يقومُ من اللّيل فترك قيام اللّيل
+  - motif: devil-urinated-in-ear-of-sleeper-till-morning
+    refs: ['Jāmiʿ 9:1682.1']
+    note: 'ما زال نائمًا حتى أصبح، ما قام إلى الصلاة. فقال: ذاك رجل بال الشيطانُ في أُذُنِه - أو قال: في أذُنَيه'
+  - motif: devil-ties-three-knots-on-sleepers-nape
+    refs: ['Jāmiʿ 9:1682.2']
+    note: 'يَعقِد الشيطان على قافية رأس أحدكم إذا هو نام ثلاثَ عُقدٍ. يضربُ مكانَ كلِّ عُقدةٍ: عليك ليلٌ طويلٌ فارقد ... وإلا أصبح خبيث النفسِ كسْلان'
+  - motif: rope-knotted-thrice-on-every-sleepers-head
+    refs: ['Jāmiʿ 9:1682.3']
+    note: ما من ذَكَرٍ ولا أُنثى إلا وعلى رأسه جرير معقودٌ ثلاثَ عُقَدٍ حين يرقُد
+  - motif: knots-untied-limb-by-limb-in-night-ablution
+    refs: ['Jāmiʿ 9:1683.1']
+    note: 'يعالج نفسه إلى الطهور، وعليه عُقَدٌ ... فإذا وضَّأ يديه انحلَّتْ عُقدة ... فيقول الله للذين وراء الحجاب: انظروا إلى عبدي هذا'
+  - motif: does-not-make-the-quran-a-pillow
+    refs: ['Jāmiʿ 9:1683.2']
+    note: 'أن شُريحًا الحضرمي ذُكر عند رسول الله ﷺ فقال: لا يتوسد القرآن'
+  hints: ['The devil''s three knots tied on the sleeper and loosed one by one by remembrance, ablution and prayer, against the Mesopotamian anti-witchcraft rites in which the witch''s knots are loosed (Maqlû; knots-tied-in-wool-and-undone) and Q 113:4, the women who blow on knots.']
+- id: hadith-9-comprehensive-night-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Saʿd b. Hishām asks Aisha: his character the Quran, al-Muzzammil, the witr of nine and eleven'
+  read: ['Jāmiʿ 9:1684.1']
+  quran: ['73:1-20']
+  tags:
+  - motif: would-sell-property-to-fight-rome-told-of-six
+    refs: ['Jāmiʿ 9:1684.1']
+    note: أراد أن يبيع عقارًا بها، فيجعله في السلاح والكُراع، ويُجاهد الرُّوم حتى يموتَ ... رَهْطًا سِتَّةً أرادوا ذلك ... أليس لكم فيَّ أسوةٌ؟ فلما حدَّثوه بذلك راجع امرأته
+  - motif: his-character-was-the-quran
+    refs: ['Jāmiʿ 9:1684.1']
+    note: فإن خُلُقَ نبيِّ الله ﷺ كان القرآنَ
+  - motif: night-prayer-obligatory-a-year-then-voluntary
+    refs: ['Jāmiʿ 9:1684.1']
+    note: فقام نبي الله ﷺ وأصحابه حولًا، وأمسك الله خاتمتها اثني عشر شهرًا [في السماء]
+  - motif: witr-nine-sitting-only-at-eighth
+    refs: ['Jāmiʿ 9:1684.1']
+    note: ويصلِّي تسع ركعات، لا يجلس فيها إلا في الثامنة ... ثم يصلِّي ركعتين بعد ما يسلِّمُ وهو قاعد، فتلك إحدى عشرَةَ ركعةً ... أوتر بسبع
+  - motif: vigil-ended-eleven-later-nine-never-whole-night
+    refs: ['Jāmiʿ 9:1684.1']
+    note: صلَّى من النهار ثنتي عشرة ركعة، ولا أعلم نبيّ الله ﷺ قرأ القرآن كلَّه في ليلة، ولا صلَّى ليلة إلى الصبح، ولا صام شهرًا كاملًا غير شهر رمضان
+- id: hadith-9-dress-for-the-night
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Night prayer in a Ḥaḍramī cloak
+  read: ['Jāmiʿ 9:1685.1']
+  tags:
+  - motif: night-prayer-in-hadrami-cloak
+    refs: ['Jāmiʿ 9:1685.1']
+    note: يُصلِّي من اللَّيل في بُرْدٍ له حضرمي متوشِّحًا به، ما عليه غيره
+- id: hadith-9-hours-of-the-night
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'When he rose: at the cock''s crow, never at dawn with Aisha, sleeping first then rising, three times in one night'
+  read: ['Jāmiʿ 9:1686.1-1687.3']
+  quran: ['3:191-194']
+  tags:
+  - motif: rises-when-he-hears-the-crier-cockcrow
+    refs: ['Jāmiʿ 9:1686.1']
+    note: 'أي العمل كان أحبَّ إلى النبي ﷺ؟ قالت: الدائم، قلت: متى كان يقوم؟ قالت: إذا سمع الصارخَ قام فصَلَّى'
+  - motif: dawn-never-found-him-awake-with-her
+    refs: ['Jāmiʿ 9:1686.2']
+    note: ما أَلْفاهُ السَّحَرُ عِنْدي إلَّا نائمًا
+  - motif: sleeps-first-part-revives-last-bathes-at-first-call
+    refs: ['Jāmiʿ 9:1686.3']
+    note: كان ينامُ أَوَّلَه، ويُحيي آخره ... فإذا كان عند النداء الأول وَثَبَ فأفاض عليه الماء; فإذا أذَّن المؤذِّن وثَب، فإن كانت به حاجة اغتسل، وإلا توضأ وخرج
+  - motif: god-woke-him-before-dawn-to-finish-his-portion
+    refs: ['Jāmiʿ 9:1687.1']
+    note: إنْ كان رسولُ الله ﷺ ليوقظه الله ﷿ بالليل، فما يجيءُ السَّحَر حتى يفرغ من حزبه
+  - motif: seen-praying-or-sleeping-whenever-wished
+    refs: ['Jāmiʿ 9:1687.2']
+    note: ما كُنَّا نشاءُ أن نرى رسول الله ﷺ في الليل مصلِّيًا إلا رأيناه، ولا نشاءُ أن نراه نائمًا إلا رأيناه
+  - motif: watcher-sees-him-wake-thrice-reciting-al-imran
+    refs: ['Jāmiʿ 9:1687.3']
+    note: 'لأرقبنَّ رسول الله ﷺ ... ثم استيقظ فنظر في الأفق فقال: رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا ... فاستلَّ منه سواكًا ... حتى قلت: قد صلى قدر ما نام ... ففعل رسول الله ﷺ ثلاث مرات قبل الفجر'
+  - motif: night-vigil-looks-at-sky-recites-creation-verse
+    refs: ['Jāmiʿ 9:1687.3']
+    note: 'ثم استيقظ فنظر في الأفق فقال: رَبَّنَا مَا خَلَقْتَ هَذَا بَاطِلًا'
+  hints: ['Rising when the cock crows, against the morning benediction at cockcrow ''who gave the rooster understanding to distinguish between day and night'' (b. Berakhot 60b) and Job 38:36 as the rabbis read it.']
+- id: hadith-9-prayer-of-david
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'David''s prayer: sleep half, stand a third, sleep a sixth'
+  read: ['Jāmiʿ 9:1688.1-1688.2']
+  tags:
+  - motif: davids-prayer-sleep-half-stand-third-sleep-sixth
+    refs: ['Jāmiʿ 9:1688.1']
+    note: أَحَبُّ الصلاةِ إلى اللهِ صلاةُ داود ﵇ ... وكان ينام نصف الليل، ويقوم ثلثَه، وينام سُدسَه
+  - motif: fast-of-david-alternate-days
+    refs: ['Jāmiʿ 9:1688.1']
+    note: وأحبُ الصيام إلى اللهِ صيامُ داود ... ويصومُ يومًا ويُفطر يومًا
+  - motif: sleeps-first-part-revives-last-bathes-at-first-call
+    refs: ['Jāmiʿ 9:1688.2']
+    note: كان ينامُ أوَّلَه ويقومُ آخره فيُصلِّي، ثم يرجعُ إلى فراشه، فإذا أذَّن المؤذِّن وثَب
+  hints: ['David''s night: asleep for half, rising for a third, as against Ps 119:62 (''at midnight I rise to give thanks to thee'') and b. Berakhot 3b-4a (David''s harp hung over his bed, the north wind at midnight woke him and he studied Torah till dawn; ''midnight never passed him in his sleep'').']
+- id: hadith-9-descent-in-last-third
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The Lord descends to the lowest heaven in the last third of the night
+  read: ['Jāmiʿ 9:1689.1']
+  tags:
+  - motif: lord-descends-in-last-third-of-night
+    refs: ['Jāmiʿ 9:1689.1']
+    note: 'ينزل ربُّنا ﵎ كلَّ ليلة إلى السماء الدنيا حين يبقى ثلث الليل الآخر. فيقول: من يدعوني فأستجيب له؟ من يسألني فأعطِيَه، من يستغفرني فأغفر له'
+- id: hadith-9-depth-of-the-night
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The depth of the night: best prayer after the obligatory, the Lord nearest, an hour of answer'
+  read: ['Jāmiʿ 9:1690.1-1691.1']
+  tags:
+  - motif: best-prayer-after-obligatory-is-night-prayer
+    refs: ['Jāmiʿ 9:1690.1']
+    note: أفضلُ الصلاة بعد الصلاة المكتوبة، الصلاة في جوف الليل، وأفضل الصيام بعد شهر رمضان صيام شهر الله المحرم
+  - motif: lord-nearest-in-last-depth-of-night
+    refs: ['Jāmiʿ 9:1690.2']
+    note: إن أقرب ما يكون الرب ﷿ من العبد جوف الليل الآخر ... فإن الصلاة محضورة مشهودَةٌ إلى طلوع الشمس
+  - motif: hour-every-night-when-asking-is-granted
+    refs: ['Jāmiʿ 9:1691.1']
+    note: إنّ في اللّيل لساعةً، لا يوافقها رجلٌ مسلم يسأل الله خيرًا من أمر الدّنيا والآخرة إلَّا أعطاه إيّاه، وذلك كلّ ليلة
+- id: hadith-9-voice-in-night-recitation
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The voice of night recitation: the forgotten verses, the courtyard, Ibn Umm ʿAbd ''fresh as it was revealed'''
+  read: ['Jāmiʿ 9:1692.1-1693.1']
+  tags:
+  - motif: night-reciter-reminds-him-of-forgotten-verses
+    refs: ['Jāmiʿ 9:1692.1']
+    note: لقد أذكرني كذا وكذا آية أسقطتُهن من سورة كذا وكذا ... أصوتُ عبَّاد هذا؟ ... اللَّهم! ارحم عبَّادًا
+  - motif: recitation-heard-in-the-courtyard-from-the-house
+    refs: ['Jāmiʿ 9:1692.2', 'Jāmiʿ 9:1692.3']
+    note: كانت قراءةُ النبي ﷺ على قدر ما سمعه مَن في الحجرة، وهو في البيت; كنتُ أسمع قراءة النبيّ ﷺ باليل، وأنا على عريشي
+  - motif: recite-as-ibn-umm-abd-fresh-as-revealed
+    refs: ['Jāmiʿ 9:1693.1']
+    note: مَنْ سَرَّه أن يَقرأَ القُرآنَ رَطْبًا كما أُنْزِل، فلْيَقْرأه على قِراءةِ ابن أمِّ عَبْدٍ ... سَلْ تُعْطَهْ، سَلْ تُعْطَهْ ... فوجدتُ أبا بكر قد سبَقني إليه
+- id: hadith-9-loud-or-soft
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Loud or soft at night: both, ''praise be to God who made the matter wide''; Q 17:110'
+  read: ['Jāmiʿ 9:1693.2-1694.2']
+  quran: ['17:110']
+  tags:
+  - motif: bath-witr-recitation-early-or-late-loud-or-soft
+    refs: ['Jāmiʿ 9:1693.2', 'Jāmiʿ 9:1694.1']
+    note: 'ربما جهر، وربَّما أسَرَّ; ربما جهر بصلاته، وربما خافَتَ بها، قلت: الله أكبر، الحمد لله الذي جعل في الأمر سعةً'
+  - motif: loud-recitation-cursed-by-polytheists-middle-way
+    refs: ['Jāmiʿ 9:1694.2']
+    note: نزلتْ ورسول الله ﷺ مختف بمكة، كان إذا صلّى بأصحابه رفع صوته بالقرآن، فإذا سمع المشركون سَبُّوا القرآن، ومن أنزله، ومن جاء به ... وَلَا تُخَافِتْ بِهَا عن أصحابك
+- id: hadith-9-measured-voice
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'A measured voice: Abū Bakr, ʿUmar and Bilāl; the loud reciter as the open almsgiver; each confides in his Lord'
+  read: ['Jāmiʿ 9:1695.1-1698.2']
+  tags:
+  - motif: quiet-and-loud-night-prayer-adjusted
+    refs: ['Jāmiʿ 9:1695.1', 'Jāmiʿ 9:1696.1']
+    note: 'قد أسمعتُ من ناجيتُ يا رسول الله ... أوقظ الوَسْنان، وأطردُ الشيطان ... يا أبا بكر! ارفع من صوتك شيئًا وقال لعمر: اخفِضْ من صوتك شيئًا'
+  - motif: bilal-mixed-suras-all-have-hit-the-mark
+    refs: ['Jāmiʿ 9:1696.1']
+    note: 'وقد سمعتك يا بلال! وأنت تقرأ من هذه السورة، ومن هذه السورة، قال: كلام طيب يجمع الله تعالى بعضه إلى بعض فقال النبي ﷺ: كلُّهم قد أصاب'
+  - motif: loud-reciter-like-open-almsgiver
+    refs: ['Jāmiʿ 9:1696.2']
+    note: الجاهر بالقرآن كالجاهر بالصدقة، والمُسِرُّ بالقرآن كالمْسِرِّ بالصدقة
+  - motif: each-confides-in-his-lord-do-not-outvoice
+    refs: ['Jāmiʿ 9:1697.1', 'Jāmiʿ 9:1698.1', 'Jāmiʿ 9:1698.2']
+    note: أَلّا إنَّ كُلَّكُم مناجٍ ربَّه، فلا يُؤْذِينَّ بعضُكم بعضًا، ولا يَرفعُ بعضُكم على بعض في القراءة; إن المصلِّي يُناجي ربَّه ﷿ فلينظر أحدكم بما يناجي ربَّه، ولا يجهر بعضكم على بعض بالقراءة
+  hints: ['Abū Bakr''s soft night prayer defended as heard by the One he confides in, and ''each of you confides with his Lord, do not raise your voices'', against Hannah''s prayer with lips moving and voice unheard (1 Sam 1:13) and b. Berakhot 31a / 24b (from Hannah: one must not raise his voice in prayer; who makes his voice heard in his prayer is of little faith).']
+- id: hadith-9-toothstick-for-the-vigil
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The toothstick on rising for the vigil
+  read: ['Jāmiʿ 9:1699.1-1699.2']
+  tags:
+  - motif: witr-nine-sitting-only-at-eighth
+    refs: ['Jāmiʿ 9:1699.2']
+    note: ويصلِّي تسعَ ركعات لا يجلس فيها إلا في الثامنةِ
+  - motif: mouth-scoured-with-toothstick-on-rising
+    refs: ['Jāmiʿ 9:1699.1', 'Jāmiʿ 9:1699.2']
+    note: كان إذا قام للتهجد من الليل يشُوص فاه بالسواك; كنا نُعِدُّ له سواكَه وطَهورَه، فيبعثه الله ما شاء ... فيتسوَّكُ، ويتوضأُ
+- id: hadith-9-two-light-rakas
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Opening the night prayer with two light rakʿas
+  read: ['Jāmiʿ 9:1700.1-1700.2']
+  tags:
+  - motif: night-prayer-opened-with-two-light-rakas
+    refs: ['Jāmiʿ 9:1700.1', 'Jāmiʿ 9:1700.2']
+    note: افتح صلاتَه بركعتين خفيفتين; صلّى ركعتين خفيفتين
+- id: hadith-9-long-standing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The long standing: ''best is long qunūt'', Ibn Masʿūd nearly sits, three suras in one rakʿa, praise for long stretches'
+  read: ['Jāmiʿ 9:1701.1-1702.1']
+  quran: ['1:2']
+  tags:
+  - motif: best-prayer-is-long-standing
+    refs: ['Jāmiʿ 9:1701.1']
+    note: أفضل الصّلاة طول القنوت
+  - motif: so-long-he-thought-to-sit-and-leave-him
+    refs: ['Jāmiʿ 9:1701.2']
+    note: فأطال حتَّى هممتُ بأمرِ سوءٍ ... هممتُ أن أجلس وأدعه
+  - motif: baqara-nisa-al-imran-in-one-raka
+    refs: ['Jāmiʿ 9:1701.3']
+    note: فافتتح البقرة ... ثمّ افتتح النساء فقرأها. ثمّ افتح آل عمران فقرأها. يقرأ مترسِّلًا، إذا مرَّ بآية فيها تسبيح سَبَّح. وإذا مرَّ بسُؤَال سأَل، وإذا مرَّ بتعوذٍ تعوَّذَ ... فكان ركوعه نحوًا من قيامه
+  - motif: heard-saying-praise-for-long-stretches
+    refs: ['Jāmiʿ 9:1701.4']
+    note: 'كنت أَبيتُ عند باب النَّبِيّ ﷺ فأُعْطِيه وَضُوءه فأسمعه الهَويَّ من الليل يقول: سمع الله لمن حمده'
+  - motif: al-baqara-divided-over-two-rakas
+    refs: ['Jāmiʿ 9:1702.1']
+    note: قَسَّم سورةَ البقرةِ في ركعتين
