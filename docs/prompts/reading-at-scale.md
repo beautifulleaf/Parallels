@@ -210,8 +210,9 @@ six methods.
    - the Chinese Islamic writings (Han Kitab).
 
    Every match then carries one of three labels: `route` (a documented path whose dates fit),
-   `reception` (the text is later than the Quran) or `convergence` (no route). Convergence is a
-   result, labelled as such. The labels say nothing about the direction of influence.
+   `reception` (the text is later than the Quran) or `no-documented-route`. The labels describe
+   the evidence for contact. They say nothing about the direction of influence, and
+   `no-documented-route` does not mean the texts are unconnected (see below).
 2. **Decoy pairs.** The coordinator slips pairs of units known to be unrelated into each judge's
    chunk, without saying which, and reports the rate at which judges find matches in them. Each
    round states its measured false-match rate beside its match rate.
@@ -230,6 +231,19 @@ six methods.
 6. **Practice in exact terms.** Record the numbers and directions of ritual: prayer times and
    prostrations, fasting rules, purity and what defiles, dietary law, the direction of
    circumambulation (pradakṣiṇa keeps the shrine on the right, ṭawāf keeps the Kaaba on the left).
+
+**Open, not forced.** The Quran addresses all of humanity ("there is no community but a warner
+has passed among it", Q 35:24; "We sent no messenger except in the tongue of his people", Q 14:4), and
+the project reads with that in view.
+- **Don't force a connection.** A match still needs a specific shared element, read in both
+  originals, and the decoys measure how often judges see one that isn't there.
+- **Don't rule one out.** A text far from Arabia, with no documented route, can still hold a real
+  parallel, an echo, or something the Quran answers or corrects. Readers and judges must not dismiss
+  a candidate because of distance, date or the absence of a route.
+- **`response` applies here too.** The Quran answers beliefs and practices wherever they are held,
+  for example claims of a divine son, worship of the sun and moon, or intercessors. Such a match is a
+  `response` if the specific claim and the Quran's specific answer can both be pointed to, with or
+  without a route.
 
 Two more rules for these rounds:
 - **Tag in each tradition's own terms.** Write *tīrthaṅkara*, *bodhisattva*, *kami*, never

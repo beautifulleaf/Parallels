@@ -75,6 +75,16 @@ The Arabic is the Islamic world's own window onto Manichaeism. It is
 | *Haran Gawaita* | |
 | *Diwan Abatur* | Include if available. |
 
+- **The user's Ginza Rabba PDF.** The user has a PDF of the Ginza Rabba in Mandaic. It is too large
+  to upload in chat; they will place it where the session can reach it, for example
+  `data/raw/mandaean/`, which is gitignored. Ask for it at the start if it is not there.
+  - Record its edition (Petermann 1867, or another), and its licence in SCOPE.md.
+  - Never commit the PDF.
+  - Check whether it has a text layer: Mandaic Unicode is U+0840–U+085F. If it is a scan, OCR of
+    Mandaic script is unreliable, so test a page first and report the error rate before reading at
+    scale.
+  - Prefer this original over Lidzbarski's translation wherever its text is usable, and keep
+    Lidzbarski as the reading aid and the fallback.
 - **Original.** Look for an open machine-readable Mandaic text of each.
   - The CAL has a lemmatized Mandaic corpus. It asks not to be scraped, so
     do not scrape it. Its data dumps are available on request: tell the
