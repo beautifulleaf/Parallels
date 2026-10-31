@@ -990,3 +990,71 @@ units:
     read: ["CTH 335.6.2"]
     tags:
       - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.6.2 §1:1-§3:7"], note: "[ga-la-ak-ta]r ki-i[t-ta]; [pár-ḫ]u-e-na-aš ki-it-ta; [ZI-K]A ka-ra-az-ti-iš-ša 'your soul and innards'; ZI-Š[U] ... [mi]-e-nu e-eš-du 'let his soul be mild'"}
+  - id: ane-cth-335-7-1-neglect-and-return
+    tradition: ane-hittite
+    title: Liver and heart on thin bread; cattle and sheep choke; mother, cow and ewe do not care for their young; the deity returns joyfully to Hatti and his temple (CTH 335.7.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.7.1"]
+    tags:
+      - {motif: offerings-placed-at-hearth-throne-window-bedchamber, refs: ["CTH 335.7.1 §1:1-§2:6"], note: "3 NINDA.SIG pár-ši-ya 'he breaks three thin breads'; še-r[a-aš-ša-an] ... [d]a-a-i 'on them he lays (liver and heart)'"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 335.7.1 §3:7-8"], note: "[I-N]A ŠÀ É.GU4-kán GU4.ḪI.A ú-i-šu-r[i-y]a-an-ta-ti; [Š]À TÙR-ma-kán UDU.ḪI.A ú-i-šu-ri-an-ta-ti"}
+      - {motif: ewe-rejects-lamb-cow-rejects-calf, refs: ["CTH 335.7.1 §3:9-11"], note: "[a]n-na-aš-za DUMU-an Ú-UL kap-pu-u-wa-ez-zi 'the mother does not care for her son'; GU4-uš-za AMAR-un Ú-UL kap-pu-u-wa-ez-zi 'the cow ... her calf'; UDU-uš-ma-za SILA4-an Ú-UL kap-pu-u-wa-ez-zi 'the ewe ... her lamb'"}
+      - {motif: god-returns-to-his-temple, refs: ["CTH 335.7.1 §4:12-13"], note: "[du-u]š-ki-iš-kán-za EG[IR-p]a I-NA KUR {URU}PA-ti 'joyfully back to the land of Hatti'; [EGI]R-pa I-NA É.[DING]IR-LIM-ŠU ú-et 'came back into his temple'"}
+      - {motif: god-returns-house-restored, refs: ["CTH 335.7.1 §5:14-17"], note: "É-er túḫ-ḫu-wa-iš 'the smoke (left) the house'; [{GIŠ}kal-mi-š]a-ni-iš 'logs'; altar restored"}
+    hints:
+      - "Mothers no longer caring for their children: compare the Hour when 'every nursing mother will neglect what she nursed' (Q 22:2) and Lam 4:3-4, 10."
+  - id: ane-cth-335-7-2-offerings-and-return
+    tradition: ane-hittite
+    title: Thin bread with liver and heart for the fate goddesses, Tarawa, Kuduili, Kudusahiel, the throne and the window; the deity returns joyfully to Hatti (CTH 335.7.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.7.2"]
+    tags:
+      - {motif: offerings-placed-at-hearth-throne-window-bedchamber, refs: ["CTH 335.7.2 §1:1-§4:20"], note: "{UZU}NÍG.GIG {UZU}ŠÀ 'liver and heart' on thin bread each time; {d}gul-ša-aš {d}ta-ra-ú-i; A-NA {d}10 ŠA É DINGIR.MAḪ {GIŠ}BANŠUR DINGIR-LIM 'for the Storm god of the mother-goddess's temple the god's table'; ḫa-aš-ši-i ZAG-az {d}ku-ú-du-i-li 'on the hearth right for Kuduili'; GÙB-la-az A-NA {d}ku-du-ša-ḫi-e[l] 'left for Kudusahiel'; {GIŠ}DAG-ti da-a-i 'puts on the throne'; [{GIŠ}l]u-ut-ti-ya {d}gul-ša-aš 'in the window for the fate goddesses'"}
+      - {motif: god-returns-to-his-temple, refs: ["CTH 335.7.2 §5:21-22"], note: "[du-uš-ki-i]š-kán-za EGIR-pa ... ú-et ... [I-N]A É.DINGIR-LIM-ŠU ú-et 'came back joyfully ... into his temple'"}
+      - {motif: god-returns-house-restored, refs: ["CTH 335.7.2 §6:23-26"], note: "[{GIŠ}lu-ut-ta]-i kam-ma-ra-aš tar-na-aš; ḫa-aš-ši-iš-ša-an [{GIŠ}kal-mi-ša-n]é-eš ḫa-an-da-an-da-ti; DINGIR.MEŠ-eš"}
+  - id: ane-cth-335-8-fragment
+    tradition: ane-hittite
+    title: Fragment with the windows seized and the hearth logs (CTH 335.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.8"]
+    tags:
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 335.8 §1:1-4"], note: "ku-un-ni-it 'with the right'; [{GI]}Šlu-ud-da-a-uš ... [I]Ṣ-BAT '(mist) seized the windows'"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 335.8 §1:5-§2:10"], note: "GUNNI ... {GIŠ}kal-mi-š[a-ne-eš]; nu i-i[t] 'go!'; SAG.DU 'head'"}
+  - id: ane-cth-335-10-father-and-grandfather
+    tradition: ane-hittite
+    title: The Storm god's father speaks; the grandfather; 'my beloved' and the father's silver (CTH 335.10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.10"]
+    tags:
+      - {motif: gods-blame-each-other-for-sin, refs: ["CTH 335.10 §1:1-14"], note: "[{d}]IM-MA '(thus the father of) the Storm god'; EGIR-pa-wa-r[a-] 'back'; {LÚ}ŠU.GI Ú-U[L] 'the old one not'; ad-da-aš ḫu-u[ḫ-ḫi-iš-ši] 'the father (to) his grandfather', as in CTH 325 §12; RA-’I-I-MI-YA 'my beloved'; [K]Ù.BABBAR ŠA A-B[I] 'silver of the father'; tentative"}
+  - id: ane-cth-335-11-soothing
+    tradition: ane-hittite
+    title: Let your soul and innards be soothed, mild and sweet; the right thigh (CTH 335.11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.11"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.11 §1:1-§5:10"], note: "kar-ra-az-za-ti-iš ka-la-an-ka-za e-eš-tu 'let your innards be soothed'; [ta]l-li-ya-an-za; GIM-an mi-e-nu 'mild as ...', GIM-an mi-e-li- 'sweet as ...'; mi-e-nu-uš 'mild'"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 335.11 §5:11-13"], note: "[wa-al-l]a-aš ki-it-ta '(the right) thigh lies'; pa-a-iš 'gave'; i-wa-ar 'like'"}
+  - id: ane-cth-335-12-calf-cared-for-again
+    tradition: ane-hittite
+    title: Invocation; as (the cow takes back) the calf, the deity cares for him again in goodwill, with life and vigour; gold (CTH 335.12)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 335.12"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 335.12 §1:1-§2:10"], note: "tal-le-eš-ke-ed-du 'let (it) entice'; [kar-di-mi-ya-a]z wa-aš-túl ša-a-u-wa-ar; [m]u-ke-eš-na-aš pa-ra-a 'of the invocation'"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 335.12 §3:11-20"], note: "iš-pár-ri-i-e-ez-zi 'spreads'; ma-aḫ-ḫa-an AMAR-un 'as (the cow) the calf'; EGIR-pa tar-na-i 'lets back'; EGIR-pa kap-pu-u-i-e-zi 'cares for him again' (twice); EGIR-an aš-šu-li ... TI-an-ni in-[na-ra-u-wa-an-ni] 'in goodwill, for life and vigour': the cow-and-calf image applied to the deity and the king"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 335.12 §4:21-§7:31"], note: "1 GÍN GUŠKIN 'one shekel of gold'; ki-it-ta 'lies'; NINDA.ḪI.A 'breads'; DINGIR-LIM"}
+    hints:
+      - "The deity taking back the king as a cow her calf: compare God's compassion like a mother's (Isa 49:15, 66:13) and the divine name al-Rahim from rahim 'womb'."
