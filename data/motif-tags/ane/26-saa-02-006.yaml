@@ -1,0 +1,1295 @@
+# Full read of the ANE corpus, chunk 26: Esarhaddon's Succession Treaty (SAA 2 6) and SAA 3 court poetry, hymns, letters from gods, cultic commentaries, the Marduk Ordeal and the Sin of Sargon.
+# Read from the ORACC lemmatized transliterations (saao/saa02, saao/saa03); word glosses used as reading aids (no translation in the data).
+new_motifs:
+  gods-listed-as-treaty-witnesses: {label: "A long roster of the great gods and the gods of each city and land is named as present at the conclusion of the treaty", cluster: treaty}
+  adjuration-litany-by-each-god: {label: "The sworn are adjured 'swear by X!' god after god, each line repeating 'ditto' (MIN)", cluster: treaty}
+  protect-king-in-field-and-city: {label: "The sworn must guard the king or prince in the country and in the town, falling and dying for him if need be", cluster: treaty}
+  speak-truth-of-heart-good-counsel-to-king: {label: "The sworn must speak with the prince in truth of heart, give him good counsel with their whole heart and set a good way before his feet", cluster: treaty}
+  no-replacement-of-heir-by-brother: {label: "The sworn must not set one of the designated heir's brothers, elder or younger, on the throne in his place", cluster: treaty}
+  kings-word-not-to-be-altered: {label: "The sworn must not change or alter the king's word (his designation of the heir)", cluster: treaty}
+  prophet-ecstatic-dreamer-word-against-king-reported: {label: "A seditious word from the mouth of a prophet (raggimu), an ecstatic (mahhû) or an inquirer of the divine word must be reported to the crown prince", cluster: treaty}
+  brother-installed-as-king-of-babylon: {label: "The crown prince's brother is designated to sit on the throne of Babylon while the heir rules Assyria", cluster: kingship}
+  report-if-unable-to-seize: {label: "If the sworn cannot seize and kill the rebels themselves, they must inform the prince and stand with him", cluster: treaty}
+  conspiracy-oath-ritual-forbidden: {label: "The sworn must not join conspirators who swear one another by setting up gods, a table, a cup, fire, water, oil and touching breasts", cluster: treaty}
+  do-not-side-with-rebel: {label: "If anyone revolts and the sworn are seized by force, they must not side with him but flee to the prince", cluster: treaty}
+  king-who-kills-and-makes-alive: {label: "The king (heir) is described as one who brings down the mighty and raises the lowly, kills whom he will and keeps alive whom he will", cluster: kingship}
+  false-message-king-dying-coup: {label: "A messenger arrives unseasonably saying the king has summoned the prince ('your father has lifted your head'); the prince must not go until a loyal man has seen the king is well", cluster: treaty}
+  rebellion-in-palace-by-day-or-night: {label: "Treaty provision for a revolt in the palace by day or night, on the road or in the land", cluster: treaty}
+  no-assembly-to-elect-king: {label: "The sworn must not form an assembly, swear to one another and give the kingship to one of themselves", cluster: treaty}
+  usurper-kills-heir-during-minority: {label: "If the king dies while his sons are small and a courtier kills the heir and seizes the throne, the sworn must not serve him but kill him and enthrone the heir's son", cluster: treaty}
+  posthumous-heir-in-womb-protected: {label: "The sworn must wait for the king's or prince's pregnant wife, raise the child when born and set him on the throne", cluster: treaty}
+  royal-gifts-to-sons-inalienable: {label: "Fields, houses, orchards, people and livestock the king gave to his sons may not be taken from them", cluster: treaty}
+  word-accepted-by-gods-and-men: {label: "A word (the succession) is declared acceptable before gods and men, and the sworn are asked to accept it too", cluster: treaty}
+  envious-instigators-quoted-speech: {label: "The treaty quotes the envious instigators' persuasive speech ('where is what the gods said about him? ... guard your lives') to forbid it", cluster: treaty}
+  curse-no-old-age: {label: "Curse: may the high god not grant long days, old age and extreme old age", cluster: curse}
+  curse-disease-moaning-sleeplessness: {label: "Curse: may the sky god rain illness, exhaustion, headache, sleeplessness and wailing on all your houses", cluster: curse}
+  curse-no-mercy-from-god: {label: "Curse: may the goddess show you no mercy or favour", cluster: curse}
+  curse-by-aramaean-and-syrian-gods: {label: "Treaty curses invoke western gods (Bethel, Anath-Bethel, Kubaba of Carchemish, Aramiš) alongside the Assyrian pantheon", cluster: treaty}
+  curse-flood-from-earth: {label: "Curse: may an irresistible flood come up from the earth and devastate you", cluster: curse}
+  self-curse-oath-first-person: {label: "The sworn speak in the first person ('if we ...') and call on the named gods to seek out their seed if they rebel", cluster: treaty}
+  curse-water-of-death-dropsy: {label: "Curse: may the god of the deep give you water of death to drink and fill you with dropsy", cluster: curse}
+  curse-water-and-oil-taboo: {label: "Curse: may water and oil become taboo to you", cluster: curse}
+  analogical-treaty-curse: {label: "Simile curse enacted with an object or animal: 'just as this X is ..., so may you be ...'", cluster: treaty}
+  rain-turned-to-burning-coals: {label: "Curse: instead of rain may burning coals rain on your land", cluster: curse}
+  curse-no-sprouting-like-malt: {label: "Simile curse: as malt in the mash does not sprout, may your seed vanish from the land", cluster: curse}
+  curse-entrails-rolled-round-feet: {label: "Simile curse: as these lambs are slit and their entrails rolled round their feet, so may yours and your children's be", cluster: curse}
+  no-peace-between-spouses-like-snake-and-mongoose: {label: "Simile curse: as snake and mongoose do not share a hole but plot each other's death, may husband and wife not share house or bed", cluster: curse}
+  curse-drink-own-blood-sweet-as-honey: {label: "Curse: as honey is sweet, may the blood of your wives and children be sweet in your mouth", cluster: curse}
+  curse-flesh-consumed-like-chameleon: {label: "Simile curse: may your flesh and your family's be consumed like the flesh of a chameleon", cluster: curse}
+  curse-flesh-perforated-like-honeycomb: {label: "Simile curse: as a honeycomb is pierced with holes, may holes be bored in your flesh while you live", cluster: curse}
+  curse-like-fly-in-enemys-hand: {label: "Curse: may you be like a fly in the hand of your enemy, who crushes you", cluster: curse}
+  curse-surrounded-by-fire: {label: "Curse: may an evil fire surround you", cluster: curse}
+  curse-shaken-like-reed-in-water: {label: "Curse: may you be shaken like a reed-bed in water and pulled out like a reed from a bundle", cluster: curse}
+  curse-heart-empty-like-hole: {label: "Simile curse: as the inside of a hole is empty, may your hearts be empty", cluster: curse}
+  trust-in-god-confession: {label: "Confession of trust: 'let whoever trusts, trust (in his own); we trust in our god'", cluster: prayer}
+  lover-shaded-under-cedar-and-cypress: {label: "The lovers' meeting place is the shade of cedar, cypress and juniper", cluster: love}
+  beloved-body-praised-part-by-part: {label: "The beloved's body is praised part by part in similes (thighs a gazelle, ankles an apple, heels obsidian)", cluster: love}
+  lover-eyes-see-plucking-fruit-ears-hear-birds: {label: "The lover wishes his eyes to see the plucking of her fruit and his ears to hear her birds' song (garden imagery for love)", cluster: love}
+  sacred-marriage-festival-of-nabu: {label: "The divine wedding of Nabû and Tašmetu is celebrated with the goddess taken to the cella and bed", cluster: cult}
+  elamite-court-intrigue-fragment: {label: "Fragmentary literary account of Elamite and Assyrian court affairs, eunuchs and magnates", cluster: history}
+  eunuch-official-in-royal-intrigue: {label: "A eunuch official carries out or is caught in a royal intrigue and crawls before the king", cluster: kingship}
+  satire-mocking-upstart-official: {label: "A satirical text mocks a named official as low-born, filthy, sexually degraded and boastful", cluster: wisdom}
+  boaster-who-praises-himself: {label: "The fool praises himself, speaks and boasts, and becomes a byword and taunt among the people", cluster: wisdom}
+  mock-stele-erected-for-enemy: {label: "A mocking monument (stele) is set up 'forever' for a despised person", cluster: wisdom}
+  pazuzu-invoked-in-mockery: {label: "The demon Pazuzu son of Hanbi is named in an invective", cluster: demons}
+  abundance-and-low-prices-in-good-reign: {label: "In the good king's reign the temples are full and grain, oil and wool are cheap (much for one shekel)", cluster: kingship}
+  king-in-days-loved-by-god: {label: "Formula: 'in your days, which the god loves', introducing good signs and blessings", cluster: kingship}
+  god-existed-before-heaven-and-earth: {label: "The deity existed before heaven and earth were created", cluster: creation}
+  king-given-lions-face: {label: "The god gives the king the face (radiance) of a lion", cluster: kingship}
+  i-shall-not-be-ashamed: {label: "The speaker declares 'I shall not be put to shame'", cluster: prayer}
+  royal-prayer-dialogue-with-god: {label: "A king's prayer and the god's answer alternate as a dialogue", cluster: prayer}
+  do-not-abandon-me-among-my-enemies: {label: "Prayer: 'do not abandon me in the assembly of those who wish me ill; do not let my life fall into their hands'", cluster: prayer}
+  devoted-to-god-from-childhood: {label: "The king has lain at the god's feet since he was small", cluster: prayer}
+  life-written-before-god: {label: "The petitioner's life is written before the god", cluster: prayer}
+  king-suckled-by-goddess-four-teats: {label: "The goddess placed her four teats in the infant king's mouth: two he sucked, two he milked", cluster: kingship}
+  lips-not-tired-of-praying: {label: "The god promises the king that his feet will not tire, his hands not tremble and his lips not weary of praying", cluster: prayer}
+  daughter-given-as-diplomatic-gift: {label: "A foreign ruler offers his daughter as a greeting-gift to the overlord", cluster: kingship}
+  goddess-who-created-king-makes-him-proud: {label: "The goddess who created the king grants him kingship and makes him proud over his opponents", cluster: kingship}
+  rebel-who-speaks-lies: {label: "The rebel enemy is characterized as speaking lies", cluster: kingship}
+  hunting-nets-for-enemies: {label: "Hunting nets are spread for the king's enemies", cluster: war}
+  city-praised-as-date-palm-and-stag: {label: "The capital is hailed as a date palm and a stag of the lands", cluster: hymn}
+  bearded-goddess-like-assur: {label: "The goddess (Ištar of Nineveh) wears a beard like the high god Aššur", cluster: hymn}
+  goddess-crowned-with-stars-sun-discs-on-breast: {label: "The goddess's tiara shines like the stars and sun-discs glow on her breast", cluster: hymn}
+  goddess-festival-procession-king-in-chariot: {label: "On the goddess's festival she goes out in procession, the king enters with pure offerings and her chariot is harnessed", cluster: cult}
+  blessing-on-king-who-reveres-god: {label: "A hymn closes by asking the deity to bless the king who reveres her: firm throne, long life, offspring, abundance", cluster: kingship}
+  hymn-of-praise-with-royal-blessing: {label: "A hymn praising a deity is combined with blessings by several gods on the king", cluster: hymn}
+  king-as-priest-of-gods: {label: "The king is called the priest (šangû) of the gods", cluster: kingship}
+  lands-tremble-at-goddess: {label: "All the lands hear of the goddess and tremble in fear", cluster: hymn}
+  goddess-favors-king-with-whole-heart: {label: "The goddess favours the king 'with all her heart'", cluster: kingship}
+  god-binds-tiamat-and-qingu: {label: "The god binds Tiamat (the sea) and her consort Qingu and the rebel gods", cluster: creation}
+  god-gives-rain-and-floods: {label: "The god opens the springs and sends abundant rains and floods", cluster: hymn}
+  astral-names-of-marduk: {label: "Marduk is identified with constellations and with Jupiter", cluster: cosmology}
+  god-as-raging-fire-and-storm-in-battle: {label: "The god is a merciless storm and furious fire that burns up the enemy in battle", cluster: hymn}
+  prayer-that-angry-heart-be-calmed: {label: "Prayer that the god's furious heart rest and his angry liver be calmed and reconciled", cluster: prayer}
+  hymn-line-count-subscript: {label: "A hymn ends with a subscript counting its lines and naming the deities praised", cluster: hymn}
+  hymn-opens-let-me-praise-name: {label: "A hymn opens with the singer's resolve: 'let me magnify the god, make his greatness manifest, extol his name'", cluster: hymn}
+  creator-of-heaven-earth-mountains-gods: {label: "The god is creator of those of heaven and earth, fashioner of the mountains and creator of the gods", cluster: creation}
+  goddess-as-warrior-leading-the-seven: {label: "The goddess bears sword and axe, arrays battle right and left and goes before the seven warrior gods", cluster: hymn}
+  cult-musicians-and-kurgarru-before-goddess: {label: "Musicians with lyres and pipes and cultic performers (kurgarrû) with spindle and whip perform before the goddess", cluster: cult}
+  goddess-wife-of-nabu-daughter-in-law-of-esagil: {label: "The goddess is wife of Nabû and beloved daughter-in-law of Bēl in Esagil", cluster: hymn}
+  whom-has-she-not-led-refrain: {label: "Refrain: the powerful, the exorcist, the physician, each 'whom she has not led' fails; apart from her who can do anything?", cluster: hymn}
+  goddess-enriches-weak-and-poor: {label: "The goddess makes the weak rich and the poor prosperous", cluster: hymn}
+  locusts-driven-from-land-by-god: {label: "The deity is asked to drive away the locusts that devour grain and orchards and make them as wind", cluster: prayer}
+  god-asks-what-do-you-request-sister: {label: "A god asks the petitioning goddess 'what do you request? what shall they give you?' and she names her wish", cluster: myth}
+  refusal-of-sacrificial-food-for-gift-of-healing: {label: "A goddess refuses offerings of oxen, grain and sheep and asks instead for beauty, manliness and the gift of healing", cluster: myth}
+  healing-ritual-oil-on-chest-finger-in-mouth: {label: "Healing rite: the patient's chest is rubbed with oil and a finger is put into his mouth", cluster: magic}
+  women-in-labour-in-house-of-mother-goddess: {label: "In the house of the birth goddess pregnant women are in labour and weep", cluster: birth}
+  dead-woman-as-boat-adrift: {label: "A woman dead in childbirth is pictured as a boat adrift in midstream, its rope cut", cluster: death}
+  joy-of-pregnancy-turned-to-death: {label: "The mother recalls her and her husband's joy in pregnancy, then her clouded face in labour and her death", cluster: death}
+  prayer-to-mother-goddess-in-labour: {label: "A woman in labour prays to the birth goddess 'mother of those who give birth, save my life!'", cluster: birth}
+  god-veils-face-from-suppliant: {label: "Hearing the prayer, the deity veils her face and refuses help", cluster: prayer}
+  death-personified-creeps-into-bedroom: {label: "Death creeps stealthily into the bedroom and takes the person from her house and husband", cluster: death}
+  letter-from-god-to-king: {label: "A god writes a letter to the king in the first person, answering his report or commanding him", cluster: prophecy}
+  angry-god-who-will-appease-me: {label: "The god declares himself distressed, raging and angry and asks who will appease him", cluster: prophecy}
+  qingu-burned-as-ram: {label: "A ram or ox burned on the brazier in the rite is explained as Qingu (and his sons) burned by the god", cluster: cult}
+  child-god-lifted-and-kissed-by-goddess: {label: "A rite is explained as the goddess lifting up the child god and kissing him", cluster: cult}
+  blood-and-dung-of-defeated-gods-sprinkled: {label: "The slain rebel gods are soaked in blood and dung, which is sprinkled over mountains and lands", cluster: cult}
+  body-of-god-catalogued-as-substances: {label: "Esoteric text equates each part of a god's body with a plant, animal, metal or stone", cluster: cosmology}
+  treaty-breaker-punished-by-gods: {label: "A ruler who did not keep the treaty sworn by the gods is punished by them (defeat, death, abandonment)", cluster: treaty}
+  gods-abandon-rebel-king: {label: "Because of his evil deeds the rebel king's gods became angry, abandoned him and went aside", cluster: kingship}
+  god-uproots-throne-of-rebel: {label: "The god tears out the foundation of the rebel's throne and overthrows his reign", cluster: kingship}
+  treaty-curse-fulfilled-in-history: {label: "A historical disaster (siege famine, cannibalism) is presented as the god's punishment matching the treaty curses", cluster: treaty}
+  bow-of-enemy-broken-kings-bow-strengthened: {label: "The god breaks the enemy's bow and strengthens the king's bow", cluster: war}
+  god-appeased-by-kings-prayer-and-restoration: {label: "The king calms the god's heart, makes peace with him and is entrusted with renewing the gods and their shrines", cluster: kingship}
+  good-news-tablet-sent-to-god: {label: "The king sends the god a tablet of good news, joy and reconciliation", cluster: kingship}
+  king-stands-in-battle-god-at-his-side: {label: "At the king's supplication the god stands at his side in battle and pours out the blood of his foes", cluster: war}
+  princes-kneel-and-praise-king: {label: "Princes and governors kneel before the king and praise his heroism", cluster: kingship}
+  king-binds-offerings-before-god: {label: "The king constantly sets out offering arrangements and strews offerings before the god", cluster: cult}
+  god-sends-king-with-weapons-against-enemies: {label: "The god sends the king out with strong weapons and burning arrows to fell the enemies", cluster: war}
+  mourners-wail-like-ecstatics: {label: "Mourners holding their garments wail like ecstatics (mahhû)", cluster: lament}
+  mother-weeps-for-son: {label: "A mother sheds tears for her son", cluster: lament}
+  who-taught-you-kingship: {label: "Question and answer: 'who taught you (kingship / this lament)?' 'her beauty, her weeping taught me'", cluster: lament}
+  burning-in-marduk-cult-fragment: {label: "Fragmentary reference to burning in the cult of Marduk", cluster: cult}
+  enemy-king-boasts-will-not-rest: {label: "The enemy king boasts that he will not rest until he comes and feasts in the midst of the Assyrian capital", cluster: war}
+  king-spreads-hands-to-goddess-in-distress: {label: "Hearing the enemy's insolence, the king opens his hands to the goddess in prayer: 'what is he against me?'", cluster: prayer}
+  goddess-answers-king-oracle: {label: "The goddess answers the king's prayer with an oracle", cluster: prophecy}
+  defeated-king-and-family-brought-before-gods: {label: "The defeated enemy king and all his family are brought in neck-stocks before the goddesses and put to the sword", cluster: war}
+  land-made-to-speak-with-one-mouth: {label: "The conquered land is 'put to one mouth' (unified in submission), settled with Assyrians and given tribute", cluster: war}
+  city-gods-carried-off-as-booty: {label: "The gods dwelling in a conquered city are carried off with its property", cluster: war}
+  people-flee-before-gods-radiance: {label: "Fearing the god's awesome radiance, people abandon their cities and flee to save their lives", cluster: war}
+  hymn-to-goddess-consort-of-nabu: {label: "Hymn to Tašmetu, wife of Nabû, praising her beauty, rank and intercession", cluster: hymn}
+  monthly-procession-of-deity: {label: "A deity processes out of the temple on a fixed day each month", cluster: cult}
+  god-who-raises-and-lowers: {label: "The deity is one who raises up and brings low", cluster: hymn}
+  istar-of-nineveh-is-tiamat-and-wet-nurse-of-bel: {label: "Esoteric identification: Ištar of Nineveh is Tiamat and the wet nurse of Bēl, with four eyes and four ears", cluster: cosmology}
+  royal-chariot-as-mythic-scene: {label: "The king in his chariot with captured Elamite chariot and horses is explained as Ninurta with the corpse of Enmešarra and the ghost of Anzû", cluster: cult}
+  three-earths-humans-ea-anunnaki: {label: "Three earths: the upper holds the spirits of mankind, the middle the god Ea, the lower the 600 Anunnaki", cluster: cosmology}
+  celestial-firmaments-of-precious-stone: {label: "Each heaven is made of a different precious stone (luludānītu, saggilmud, jasper)", cluster: cosmology}
+  sun-and-moon-circuit-measured: {label: "The circuits of the sun and moon are measured in double-hours; gods are said to be 'in' the sun and moon", cluster: cosmology}
+  animals-as-ghosts-of-slain-gods: {label: "Wild animals (onager, wolf, camel, gazelle) are explained as the ghosts or daughters of defeated gods", cluster: cosmology}
+  god-bound-so-that-people-not-forget: {label: "The god bound the defeated monster and showed it so that the people would not forget", cluster: cosmology}
+  son-god-avenges-father-receives-kingship: {label: "The son god avenges his father, shames the elder gods and receives sceptre, throne and reign", cluster: myth}
+  god-gives-king-shepherdship-of-four-quarters: {label: "The sun god raises the king to shepherdship of the four quarters", cluster: kingship}
+  king-speaks-and-hears-justice: {label: "Blessing: may eloquence, understanding, truth and justice be given to the king as a gift", cluster: kingship}
+  small-and-great-speak-and-listen: {label: "Coronation blessing: let the small speak and the great listen, the great speak and the small listen; concord and peace in the land", cluster: kingship}
+  liars-against-king-destroyed: {label: "Whoever speaks lies or plots evil against the king: the important die by the weapon, the rich become poor, their foundation a storm, their hem chaff", cluster: kingship}
+  gods-gather-to-bless-king: {label: "Call to all the gods of heaven and earth to assemble and bless the king", cluster: kingship}
+  city-like-heaven-foundations-firm: {label: "The holy city is high as heaven and its foundations firm as the heavens", cluster: hymn}
+  city-image-of-babylon: {label: "A holy city is called the image of Babylon and the likeness of Assur", cluster: hymn}
+  all-who-enter-and-leave-rejoice: {label: "Those who go out of the holy city and those who enter it rejoice", cluster: hymn}
+  qingu-thrown-down-with-sons: {label: "Rite explained: Qingu and his sons were thrown from the roof; oil and honey on the effigies are their blood", cluster: cult}
+  younger-god-deposes-and-beheads-sky-god: {label: "The younger god binds the sky god Anu, cuts off his neck and takes the kingship", cluster: myth}
+  leprous-thrown-in-river-as-anu: {label: "A leper sunk in the river in a rite is explained as the leprous god Anu", cluster: cult}
+  god-flayed-and-skin-displayed: {label: "The victorious god flays the bound god's skin", cluster: myth}
+  imprisoned-god-in-house-of-confinement: {label: "The chief god is held captive in the 'house of confinement', beaten, his garment gathered in the dungeon", cluster: myth}
+  river-ordeal-of-god: {label: "The captive god is taken to the river ordeal and questioned on its bank", cluster: myth}
+  messenger-of-gods-brings-god-out-of-prison: {label: "A messenger of the gods brings the captive god out of his prison", cluster: myth}
+  god-thirsts-and-weeps: {label: "The captive god becomes thirsty in fear and weeps; the hand-washing water is his tears", cluster: myth}
+  guilty-party-not-sharing-god-fate: {label: "A guard-god denies involvement ('I am not a sinner'), and the high god declares him innocent", cluster: myth}
+  pig-and-reed-offerings-before-nabu: {label: "Pig offerings and reeds are laid on the road of the god coming from Borsippa", cluster: cult}
+  exorcists-weep-and-call-names-before-god: {label: "The exorcists going before the god reciting incantations are his people lamenting him", cluster: cult}
+  evildoers-head-tied-to-goddess-chariot: {label: "The head of the evildoer who counselled against the god is tied to the goddess's chariot", cluster: myth}
+  goddess-nursed-captive-god-shows-compassion: {label: "The goddess who raised (nursed) the captive god shows him compassion; milk is milked before her", cluster: myth}
+  good-news-brought-to-gods: {label: "News of the warrior god's victory is announced to all the gods, who rejoice", cluster: myth}
+  dog-of-gula-goes-around-city: {label: "The dog that crosses Gula's temple is the messenger she sends around the city", cluster: cult}
+  gilgamesh-named-in-later-text: {label: "Gilgameš is named in a later literary or scholarly text", cluster: epic}
+  herald-of-assyria-palace: {label: "The palace of the herald of Assyria is mentioned in a literary text", cluster: kingship}
+  goddess-without-rival-among-gods: {label: "The goddess has no rival among the great gods; her word is fire and firm forever", cluster: hymn}
+  king-created-by-goddesses-from-birth: {label: "The king is the creation of the goddesses and their temples, his kingship made great since the House of Succession", cluster: kingship}
+  gods-lead-king-like-child: {label: "The great gods guided the king like a small child and walked at his right and left", cluster: kingship}
+  not-by-my-strength-but-by-god: {label: "The king declares: not by my own strength nor the strength of my bow, but by the might of my gods I subdued the lands", cluster: kingship}
+  tribute-from-recalcitrant-lands: {label: "Lands that never submitted to the king's fathers now bring tribute yearly and kiss his feet", cluster: kingship}
+  goddess-as-mother-who-bore-king: {label: "The goddess is called the mother who bore the king", cluster: kingship}
+  breaking-the-bow-of-elam: {label: "The bow of Elam is broken", cluster: war}
+  king-campaign-against-elam-fragment: {label: "Fragment of a literary account of an Assyrian king's campaign in the east (Elam, Ellipi, Anzan)", cluster: history}
+  king-treads-path-through-sea: {label: "The king treads the road of the sea and opens the gate of loyalty", cluster: kingship}
+  royal-city-of-enemy-destroyed: {label: "In his anger the king breaks the enemy's royal city", cluster: war}
+  enemy-graves-violated: {label: "The graves of the enemy (Elamite kings) are violated", cluster: war}
+  fugitive-rebel-demanded-from-foreign-king: {label: "A fugitive rebel is demanded from or handed over by the foreign king who sheltered him", cluster: war}
+  sun-god-saves-wronged-rejects-slander: {label: "The sun god revives the righteous, does not accept slander and saves the wronged", cluster: justice}
+  few-made-many: {label: "The few are turned into many", cluster: hymn}
+  lips-sweet-as-honey: {label: "The speaker's lips are sweet", cluster: hymn}
+  luxury-produce-catalogue: {label: "A catalogue of choice products (pomegranates, ghee, aromatics, oils) from distant lands", cluster: trade}
+  parody-of-incantation-genre: {label: "An invective is framed as a mock incantation (beginning with the incantation rubric)", cluster: wisdom}
+  obscene-oath-in-invective: {label: "An invective quotes an obscene oath of its target", cluster: wisdom}
+  king-reflects-on-hidden-will-of-gods: {label: "The king ponders daily in his heart: who can understand the works of the gods?", cluster: wisdom}
+  dynastic-sin-investigated-by-divination: {label: "A king investigates by divination the sin for which his father died a bad death", cluster: divination}
+  independent-diviners-agree: {label: "The diviners, divided into separate groups so they cannot confer, give the same answer 'with one mouth'", cluster: divination}
+  sin-of-favoring-own-gods-over-babylons: {label: "The king's father sinned by honouring the gods of Assyria above the gods of Babylon and not keeping the treaty of the king of the gods", cluster: kingship}
+  obstruction-of-making-gods-statue: {label: "Court scribes prevent the king from making the statue of a god, and his life is cut short", cluster: kingship}
+  goddess-self-presentation-i-am: {label: "A goddess presents herself: 'I am (the Lady of X), the great lady'", cluster: prophecy}
+  god-equips-champion-with-bow-and-arrows: {label: "The chief god draws arrows from his bow-case and has them given to a champion, telling him to set out", cluster: myth}
+  procession-to-arbela: {label: "The god goes up in procession to Arbela", cluster: cult}
+  which-god-can-compare-rhetorical: {label: "Rhetorical question in a divine letter: 'which god is it who ...? which king who ...?'", cluster: prophecy}
+  slanderer-rebuked: {label: "A slanderer is rebuked for 'eating the bread of slander' with his lips", cluster: wisdom}
+  god-who-guards-you-self-declaration: {label: "The deity declares: 'I am your god who guards you'", cluster: prophecy}
+  deity-loves-list-of-cult-cities: {label: "Litany: the deity declares 'I love' each of a long list of cult cities and their gods", cluster: love}
+  love-sickness-as-burning-fire: {label: "The love-sick deity says the fires of each city consume her", cluster: love}
+units:
+  - id: ane-saa02-006-o-seal-preamble-witnesses
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: seal of Aššur, preamble and divine witnesses (SAA 2 6:i-40B)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Neo-Assyrian, Nimrud (Kalhu) copy for the Median city-lord Humbareš, 672 BC
+    read: ["SAA 02 006 o:i-40B"]
+    tags:
+      - {motif: treaty-tablet-sealed-and-guarded-like-god, refs: ["SAA 02 006 o:i-iv"], note: "kunuk Aššur šar ilāni ... ša lā šunnê, kunuk rubê rabê abi ilāni ša lā paqāri: the seal of Aššur, king of the gods, which may not be altered; the seal of the great prince, father of the gods, which may not be contested"}
+      - {motif: royal-decree-cannot-be-revoked, refs: ["SAA 02 006 o:ii", "SAA 02 006 o:iv"], note: "ša lā šunnê / ša lā paqāri"}
+      - {motif: loyalty-oath-imposed-by-assyrian-king, refs: ["SAA 02 006 o:1-5"], note: "adê ša Aššur-aha-iddina ... itti Humbareš bēl āli ša Nahšimarti, with his sons and grandsons, all the Nahšimartians, his men, small and great"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 02 006 o:6-8"], note: "ištu napāh šamši adi rabā šamši: all over whom Esarhaddon exercises kingship"}
+      - {motif: covenant-includes-absent-future-generations, refs: ["SAA 02 006 o:9-10"], note: "with your sons and grandsons who will be born after the treaty, ana ūmē ṣâti, for future days"}
+      - {motif: people-swear-loyalty-to-crown-prince, refs: ["SAA 02 006 o:11-12"], note: "Aššur-bāni-apli mār šarri rabû ša bīt ridûti: the great crown prince of the House of Succession"}
+      - {motif: treaty-gods-and-stars-as-witnesses, refs: ["SAA 02 006 o:13-15"], note: "ina pān Jupiter, Venus, Saturn, Mercury, Mars, Sirius: the treaty is made 'before' the planets and Sirius"}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["SAA 02 006 o:16-24"], note: "Aššur, Anu, Enlil, Ea, Sîn, Šamaš, Adad, Marduk, Nabû, Nusku, Uraš, Nergal, Mullissu, Šerua, Bēlet-ilī, Ištar of Nineveh, Ištar of Arbela, the gods dwelling in heaven and earth"}
+      - {motif: oath-sworn-by-heaven-and-earth, refs: ["SAA 02 006 o:21", "SAA 02 006 o:40A"], note: "ilāni āšibūti šamê u qaqqari; ilāni ša šamê u qaqqari kalîšunu"}
+      - {motif: adjuration-litany-by-each-god, refs: ["SAA 02 006 o:25-40B"], note: "Aššur ... titammâ ('swear!'), then MIN (ditto) after each god or group of gods: of Assur, Nineveh, Kalhu, Arbela, Kilizi, Harran, Babylon, Borsippa, Nippur, all lands"}
+    hints:
+      - "Heaven and earth as witnesses of the covenant: compare Deut 4:26, 30:19, 31:28, 32:1; Isa 1:2."
+      - "An unalterable sealed royal document: compare Esth 8:8 and Dan 6:9,13,16 (law of the Medes and Persians that cannot be altered)."
+      - "Covenant binding sons and grandsons not yet born: Deut 29:13-14 (Heb 29:14-15) and Deut 5:3."
+      - "From the rising of the sun to its setting: Mal 1:11; Ps 50:1, 113:3."
+  - id: ane-saa02-006-o-protect-and-enthrone-crown-prince
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: guard Assurbanipal, enthrone him, swear to no other king (SAA 2 6:41-72)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:41-72"]
+    tags:
+      - {motif: people-swear-loyalty-to-crown-prince, refs: ["SAA 02 006 o:41-48"], note: "when Esarhaddon goes to his fate (ana šīmti ittalak) you shall seat Assurbanipal on the royal throne"}
+      - {motif: protect-king-in-field-and-city, refs: ["SAA 02 006 o:49-51"], note: "ina eqli ina birti āli lā tanaṣṣaršūni, ina muhhišu lā tamaqqutāni lā tamuttāni: guard him in country and town, fall and die for him"}
+      - {motif: speak-truth-of-heart-good-counsel-to-king, refs: ["SAA 02 006 o:51-54"], note: "ina kitti ša libbikunu ... milku damqu ša gammurti libbikunu ... hūlu damqu ina šēpēšu: speak with him in truth of heart, give him good counsel with your whole heart, set a good way at his feet"}
+      - {motif: no-replacement-of-heir-by-brother, refs: ["SAA 02 006 o:55-57", "SAA 02 006 o:69-70"], note: "you shall not change him (nakāru) and seat one of his brothers, elder or younger, on the throne in his place"}
+      - {motif: kings-word-not-to-be-altered, refs: ["SAA 02 006 o:57-58"], note: "šumma abutu ša Aššur-aha-iddina tenâni tušannâni: if you change or alter the word of Esarhaddon"}
+      - {motif: treaty-no-other-king-or-lord, refs: ["SAA 02 006 o:71-72"], note: "šarru šanumma bēlu šanumma ina muhhikunu tašakkanāni; ana šarri šanîmma ... māmīt tatammâni: set another king, another lord over you, or swear an oath to another king or prince"}
+      - {motif: love-god-with-all-heart, refs: ["SAA 02 006 o:51-53"], note: "transferred from god to crown prince: loyalty 'in the truth of your heart' (kitti ša libbikunu) and 'the totality of your heart' (gammurti libbikunu); interpretive alignment with Deut 6:5"}
+    hints:
+      - "No other king beside the designated lord: compare Exod 20:3 / Deut 5:7 (no other gods before me) and Deut 6:14."
+      - "Serve with the whole heart: Deut 6:5, 10:12, 11:13; Josh 24:14 'in sincerity and in truth'; 1 Sam 12:24."
+      - "Do not alter the king's word: Deut 4:2, 13:1 (Heb 13:1) 'do not add to it or take from it'."
+      - "Younger son chosen as heir over elder brothers: 1 Kgs 1 (Solomon over Adonijah), 1 Chr 28:5."
+  - id: ane-saa02-006-o-report-seditious-word
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: report any evil word from kin, officials, prophets or anyone; protect Šamaš-šumu-ukin (SAA 2 6:73-122)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:73-122"]
+    tags:
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 006 o:73-82"], note: "an improper word (abutu lā ṭābtu lā banītu) about Assurbanipal 'from the mouth of his brothers, his uncles, his cousins, his family (qinnišu, 'nest'), the seed of his father's house', officials, eunuchs, scholars, 'all the black-headed': if you hear and conceal it (tašammâni tupazzarāni) and do not come and tell Assurbanipal"}
+      - {motif: kin-enticer-to-idolatry-stoned, refs: ["SAA 02 006 o:76-77", "SAA 02 006 o:113-116"], note: "the closest Assyrian parallel to Deut 13:7: the inciter may be 'your brothers, your sons, your daughters' (ahhēkunu mārēkunu mārātēkunu, 115-116); here sedition against the crown prince, not other gods, and the duty is to report (and in 130-146 to seize and kill)"}
+      - {motif: prophet-ecstatic-dreamer-word-against-king-reported, refs: ["SAA 02 006 o:116-119"], note: "lū ina pî raggimi mahhê mār šāʾili amat ili: 'from the mouth of a prophet (raggimu), an ecstatic (mahhû), or an inquirer of the divine word (mār šāʾili amat ili)': even an oracle must be reported"}
+      - {motif: false-prophet-with-signs, refs: ["SAA 02 006 o:116-117"], note: "the prophet/ecstatic/dream-inquirer who speaks against the crown prince is listed among the inciters; compare Deut 13:2-6 'prophet or dreamer of dreams'"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 006 o:108-122"], note: "second clause adds enemy (nakru) and ally (salmu) and the vassal's own brothers, sons and daughters"}
+      - {motif: brother-installed-as-king-of-babylon, refs: ["SAA 02 006 o:83-91"], note: "if Esarhaddon dies while his sons are minors, Assurbanipal takes Assyria and Šamaš-šumu-ukin, his equal brother (ahu talīmšu), is seated on the throne of Babylon with Sumer, Akkad and Karduniaš; the gifts the father gave him he shall keep"}
+      - {motif: protect-brothers-of-crown-prince, refs: ["SAA 02 006 o:92-107"], note: "the brothers 'sons of his mother' (mār ummišu) are also covered by the treaty"}
+    hints:
+      - "Deut 13:2-6 (prophet or dreamer of dreams urging rebellion) and 13:7-12 (brother, son, daughter, wife or friend who entices secretly; do not conceal him). The ESA's sequence (kin, prophets, all people) is often taken as the model for Deut 13."
+      - "Compare also Deut 18:20-22 and Jer 28-29 (prophets speaking rebellion)."
+      - "Mic 7:5-6 (trust not a friend; enemies are members of one's own household)."
+  - id: ane-saa02-006-o-seize-rebels-conspiracy-ritual
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: do not harm the prince; seize and kill instigators; no conspiracy oath (SAA 2 6:123-161)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:123-161"]
+    tags:
+      - {motif: treaty-no-other-king-or-lord, refs: ["SAA 02 006 o:123-129"], note: "do not seize, kill or hand him to his enemy, or swear an oath to another king or lord"}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["SAA 02 006 o:130-141"], note: "ēpišānūti ša bārti ... lā taṣabbatāni lā tadukāni, šumšunu zeršunu ina māti lā tuhallaqāni: seize and kill the instigators of rebellion and destroy their name and seed from the land"}
+      - {motif: purge-evil-from-midst, refs: ["SAA 02 006 o:140-141", "SAA 02 006 o:159-161"], note: "destroy their name and seed in the land; interpretive comparison"}
+      - {motif: report-if-unable-to-seize, refs: ["SAA 02 006 o:142-146"], note: "if you cannot seize and kill them, 'open the ears' (uznē ... petû) of Assurbanipal and stand with him"}
+      - {motif: conspiracy-oath-ritual-forbidden, refs: ["SAA 02 006 o:147-161"], note: "whether the instigators are few or many: 'those who install gods and conclude a treaty before the gods, by setting a table, drinking from a cup, kindling fire, water, oil, holding breasts (ṣibit tulê), swear to one another'"}
+      - {motif: oath-with-water-oil-touching-throat, refs: ["SAA 02 006 o:154-156"], note: "riksi paššūri šatê kāsi nipih Girra mê šamnī ṣibit tulê: rites of oath-taking: table, cup, fire, water, oil and touching the breasts"}
+    hints:
+      - "Deut 13:9-11 (do not spare or conceal him; your hand shall be first against him) and 13:13-19 (the city that rebels is put to the sword)."
+      - "Covenant meal and cup: Gen 31:46-54; Exod 24:11. Conspiracy sealed by oath: 2 Sam 15:10-12 (Absalom), Ps 2:2."
+  - id: ane-saa02-006-o-coups-and-false-message
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: sieges, desertion, after the king's death, the palace coup and the false message (SAA 2 6:162-211)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:162-211"]
+    tags:
+      - {motif: treaty-fight-kings-enemy, refs: ["SAA 02 006 o:162-172"], note: "whether Assyrian, subject, courtier, eunuch, native or foreigner, 'or any living creature' (šiknat napišti) besieges Assurbanipal in field or city, stand with him and kill the rebels with your whole heart"}
+      - {motif: do-not-side-with-rebel, refs: ["SAA 02 006 o:173-179"], note: "if anyone crosses over (ibbalkitūni) and you are seized by force, flee and go to Assurbanipal"}
+      - {motif: treaty-no-other-king-or-lord, refs: ["SAA 02 006 o:188-197"], note: "on the day Esarhaddon dies you shall not say 'he is not our king': he who can lower the strong and raise the low (dannu ... šaplu), kill the one to be killed and keep alive the one to be kept alive; obey his mouth and seek no other king"}
+      - {motif: king-who-kills-and-makes-alive, refs: ["SAA 02 006 o:192-194"], note: "ša dûki lā idukkūni ša bulluṭi lā uballaṭūni: the crown prince's power over life and death; humbling the mighty, raising the lowly"}
+      - {motif: false-message-king-dying-coup, refs: ["SAA 02 006 o:198-211"], note: "if someone stages a revolt in the palace by day or night and a messenger comes untimely to the crown prince saying 'your father has lifted up your head (rēška ittiši), let my lord come': do not listen, do not let him go, strengthen his guard until one of you who loves his lord goes and sees the king's health"}
+      - {motif: rebellion-in-palace-by-day-or-night, refs: ["SAA 02 006 o:198-202"], note: "lū ina kal ūme lū ina kal mūši, lū ina hūli lū ina qabsi māti"}
+    hints:
+      - "Kills and makes alive, brings low and exalts: 1 Sam 2:6-7; Deut 32:39; 2 Kgs 5:7."
+      - "'Lift up your head' as a message of release or restoration: Gen 40:13,20; 2 Kgs 25:27."
+      - "Palace intrigue at the death of a king and rival heirs: 1 Kgs 1 (Adonijah's feast); 2 Kgs 11 (Athaliah)."
+  - id: ane-saa02-006-o-usurpers-minority-poison
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: no assembly to make a king, usurpers from royal kin, minority of heirs, the pregnant wife, poison and sorcery (SAA 2 6:212-265)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:212-265"]
+    tags:
+      - {motif: no-assembly-to-elect-king, refs: ["SAA 02 006 o:212-213"], note: "puhru tašakkanāni ahāiš tutammâni ana ištēn ina libbikunu šarrūtu tadanāni: hold an assembly, swear to one another and give kingship to one of you"}
+      - {motif: no-replacement-of-heir-by-brother, refs: ["SAA 02 006 o:214-228"], note: "from his brothers, uncles, cousins, the seed of his father's house, those in Assyria or fled abroad, palace people near or far, great or small, nobles or poor (muškēnūti), bearded or eunuch, slave or bought man, any people"}
+      - {motif: usurper-kills-heir-during-minority, refs: ["SAA 02 006 o:237-248"], note: "if Esarhaddon dies while his sons are small and a eunuch or bearded courtier kills Assurbanipal and takes the kingship: do not join him, do not become his servants; seize and kill him and seat a son of Assurbanipal on the throne"}
+      - {motif: posthumous-heir-in-womb-protected, refs: ["SAA 02 006 o:249-253"], note: "ina pān arīti ša Aššur-aha-iddina u aššat Aššur-bāni-apli: wait for the pregnant wife of Esarhaddon or of Assurbanipal; when (the child) is born, raise him and seat him on the throne"}
+      - {motif: blood-avenger, refs: ["SAA 02 006 o:254-259"], note: "dāmē kūm dāmē ... tabāku, gimillu ša Aššur-bāni-apli ... turru: shed blood for blood and avenge Assurbanipal"}
+      - {motif: treaty-no-poisoning-or-sorcery-against-prince, refs: ["SAA 02 006 o:260-265"], note: "šammu ša mu'ātišu tušakkalāšūni tašaqqiāšūni tapaššašāšūni kišpī teppašāšūni: deadly herb to eat, drink or anoint him with, witchcraft, or making god and goddess angry with him"}
+      - {motif: love-god-with-all-heart, refs: ["SAA 02 006 o:212-213"], note: "(negative) collective oath to another; see 266-268 for the love clause"}
+    hints:
+      - "Joash hidden and raised for the throne after the queen's murder of the royal seed: 2 Kgs 11:1-3."
+      - "Blood for blood: Gen 9:6; Num 35:19-33; 2 Kgs 9:7, 26 (avenging the blood of the prophets/Naboth)."
+      - "Conspiracy by servants killing the king: 2 Kgs 12:20-21, 21:23-24 (the people of the land kill the conspirators and enthrone the son)."
+  - id: ane-saa02-006-o-love-as-yourselves-future-generations
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: love him as yourselves; slander and royal gifts; teach this treaty to your sons (SAA 2 6:266-301)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:266-301"]
+    tags:
+      - {motif: love-overlord-as-own-life, refs: ["SAA 02 006 o:266-268"], note: "šumma attunu ana Aššur-bāni-apli ... kī napšātekunu lā tar'amāni: if you do not love him as your own lives"}
+      - {motif: love-god-with-all-heart, refs: ["SAA 02 006 o:268"], note: "covenant love (râmu) demanded of the vassal toward the overlord; cf. Deut 6:5"}
+      - {motif: protect-brothers-of-crown-prince, refs: ["SAA 02 006 o:269-282"], note: "karṣīšunu takkalāni ('eat their slanders') before Assurbanipal, lay hands on their houses, take away the gifts their father gave them: fields, houses, orchards, people, equipment, horses, mules, donkeys, oxen, sheep"}
+      - {motif: royal-gifts-to-sons-inalienable, refs: ["SAA 02 006 o:273-278"], note: "tidintu ša Aššur-aha-iddina ... iddinaššanūni ... qinītu ša šunu iqnûni"}
+      - {motif: teach-children-constantly, refs: ["SAA 02 006 o:283-297"], note: "ana mārēkunu mārē mārēkunu ana zērikunu ana zēr zērikunu ... lā taqabbâni ṭēmu lā tašakkanšūni mā adê annûte uṣrā: if you do not speak to your sons, grandsons, seed and seed's seed and command them 'guard this treaty; do not sin against it, lest you lose your lives, give your land to destruction and your people to deportation'"}
+      - {motif: treaty-binds-future-generations, refs: ["SAA 02 006 o:288-290"], note: "ša arki adê ana ūmē ṣâti ibbaššûni: those who will exist after the treaty for days to come"}
+      - {motif: curse-land-destroyed-people-deported-food-clothes-oil-lost, refs: ["SAA 02 006 o:292-295"], note: "napšātekunu lā tuhallaqā, mātkunu ana hapê nišēkunu ana šalāli lā taddanā: lose your lives, land destroyed, people deported"}
+      - {motif: word-accepted-by-gods-and-men, refs: ["SAA 02 006 o:295-301"], note: "mā abutu annītu ša ina pān ilāni amēlūte mahrat ... lū mahrat: 'may this word, acceptable to gods and men, be acceptable to you'; Assurbanipal be called to kingship; set no other king or lord over you"}
+    hints:
+      - "Deut 6:6-7 and 11:19 (teach these words diligently to your children); Deut 4:9-10; Ps 78:5-6."
+      - "Love as your own soul: Deut 13:7 (Heb; 13:6 Eng) 'your friend who is as your own soul'; 1 Sam 18:1,3 and 20:17 (Jonathan loved David as his own soul); Lev 19:18."
+      - "Lose your life and your land: Deut 4:26-27, 30:17-18; Deut 28:63-64."
+      - "Favour with gods and men: 1 Sam 2:26; Prov 3:4; Luke 2:52."
+  - id: ane-saa02-006-o-usurper-slander-brothers
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: fight a usurper; resist incitement to set the prince against his father and brothers (SAA 2 6:302-372)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:302-372"]
+    tags:
+      - {motif: treaty-fight-kings-enemy, refs: ["SAA 02 006 o:302-317"], note: "if someone revolts against Esarhaddon and sits on his throne: do not rejoice in his kingship (tahaddāni); if you cannot seize him, do not consent to his kingship or swear the oath of servitude; fight him, rouse other lands, plunder him, kill him, destroy his name and seed"}
+      - {motif: treaty-seize-and-deliver-instigators, refs: ["SAA 02 006 o:315"], note: "šumšu zēršu ina māti lā tuhallaqāni"}
+      - {motif: brothers-slander-chosen-heir, refs: ["SAA 02 006 o:318-335"], note: "if any relative, previous king's seed, official or foreigner incites you, saying 'slander Assurbanipal before his father, speak an evil word, cause strife between him and his father, make them hate each other'"}
+      - {motif: envious-instigators-quoted-speech, refs: ["SAA 02 006 o:328-335"], note: "bēl qinʾi 'the envious ones' say: 'let it be his brothers or his servants who cursed him before his father ... where (alē) is that which Aššur, Šamaš and Adad spoke about him? ... without Aššur and Šamaš your father ... honour your brother, guard your lives'"}
+      - {motif: protect-brothers-of-crown-prince, refs: ["SAA 02 006 o:336-346"], note: "'eat the slander of his brothers before him, strike between them, cut off (pursā) his brothers from him': do not do it"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 006 o:347-352"], note: "if you release (turammāšūni) the speaker (qābiānu) of this word and do not go and tell Assurbanipal 'your father imposed a treaty concerning you on us and made us swear'"}
+      - {motif: protect-brothers-of-crown-prince, refs: ["SAA 02 006 o:353-372"], note: "partly broken (354-357); after Assurbanipal's accession do not speak evil of his brothers to him or say 'stretch out your hand against them in evil', nor change the position (mazzaztu) their father assigned them"}
+    hints:
+      - "Instigators who sow discord between a king and his son or brothers: 2 Sam 14-15 (Absalom), 1 Kgs 2:13-25."
+      - "'Where is the word?' mocking a divine promise: Jer 17:15; 2 Pet 3:4; Ps 42:4,11."
+      - "Kingship confirmed by divine word against envious rivals: 2 Sam 7:12-16; Ps 2."
+  - id: ane-saa02-006-o-oath-release-magic-whole-heart-tablet
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: no ritual to annul the oath; swear wholeheartedly; Aššur your god; guard the sealed tablet (SAA 2 6:373-413)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:373-413"]
+    tags:
+      - {motif: ritual-to-annul-oath-forbidden, refs: ["SAA 02 006 o:373-380"], note: "if you anoint face, hands or throat with the tallow (sarbu) of the gods of the assembly, or bind it on your thigh, or perform a rite of 'turning back' (tūrtu turru) and 'releasing the oath' (māmīt pašāri)"}
+      - {motif: oath-with-whole-heart-not-lips-only, refs: ["SAA 02 006 o:385-387"], note: "kī ina qaqqar tamīti annītu tazzazzāni, tamītu ša dababti šapti tatammâni ina gummurti libbikunu lā tatammâni: if, standing on the place of this oath, you swear with the talk of the lips and not with your whole heart"}
+      - {motif: teach-children-constantly, refs: ["SAA 02 006 o:387-388"], note: "ana mārēkunu ša arki adê ibbaššûni lā tušalmadāni: do not teach (lamādu Š) it to your sons who will exist after the treaty"}
+      - {motif: love-god-with-all-heart, refs: ["SAA 02 006 o:387"], note: "ina gummurti libbikunu, 'with all your heart'"}
+      - {motif: fear-god-and-king, refs: ["SAA 02 006 o:389-396"], note: "ana arki ūmē ana ūmē ṣâti Aššur ilkunu, Aššur-bāni-apli ... bēlkunu, mārēkunu ... ana šâšu liplahū: for future days Aššur is your god and Assurbanipal your lord; may your sons and grandsons fear him"}
+      - {motif: covenant-formula-my-people-your-god, refs: ["SAA 02 006 o:393-394"], note: "Aššur ilkunu ... bēlkunu: 'Aššur is your god, Assurbanipal your lord'"}
+      - {motif: treaty-tablet-sealed-and-guarded-like-god, refs: ["SAA 02 006 o:397-409"], note: "this tablet of the treaty is sealed with the seal of Aššur, king of the gods, and set before you; guard it like your god (kī ilkunu ... naṣāru); partly broken 402-406"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["SAA 02 006 o:397-399", "SAA 02 006 o:410-413"], note: "whoever changes, neglects, transgresses or erases the oath of this tablet; if you alter it, consign it to fire, throw it into water, bury it in dust, destroy it by any cunning means"}
+      - {motif: curse-on-who-alters-royal-monument, refs: ["SAA 02 006 o:407-409"], note: "kī ilkunu lā tanaṣṣarāni (guard it like your god); the protective clause on the inscribed object"}
+    hints:
+      - "Lip service vs. whole heart: Isa 29:13; Jer 12:2; Ps 78:36-37; Deut 30:2, 10."
+      - "Covenant formula 'I will be your God': Lev 26:12; Deut 26:17-18; Jer 7:23."
+      - "Fear YHWH and the king: Prov 24:21; 1 Pet 2:17."
+      - "Tablets kept in the ark before God: Deut 10:1-5, 31:24-26; Exod 25:16. Destroying a written scroll in fire: Jer 36:23. Do not add or take away: Deut 4:2, 13:1; Rev 22:18-19."
+  - id: ane-saa02-006-o-curses-by-the-gods
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: curses by the gods one by one (SAA 2 6:414-493)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:414-493"]
+    tags:
+      - {motif: covenant-curses-catalogue, refs: ["SAA 02 006 o:414-493"], note: "each god inflicts a curse fitting his domain"}
+      - {motif: curse-no-old-age, refs: ["SAA 02 006 o:414-416"], note: "Aššur, who decrees fates: an evil fate; arāk ūmī šībūti kišid littūti ay iqīškunu, may he not grant you long days, old age, extreme age"}
+      - {motif: curse-disease-moaning-sleeplessness, refs: ["SAA 02 006 o:418A-418C"], note: "Anu: illness, moaning, diʾu-disease, sleeplessness, wailing rain down on all your houses"}
+      - {motif: curse-skin-disease-as-garment, refs: ["SAA 02 006 o:419-421"], note: "Sîn ... ina saharšubbê lihallipkunu: clothe you with leprosy like a garment; no entry before god or king; roam the open country like the wild ass and the gazelle"}
+      - {motif: boils-of-egypt-hemorrhoids, refs: ["SAA 02 006 o:419-420"], note: "skin disease (saharšubbû) as treaty curse; compare Deut 28:27,35"}
+      - {motif: madness-blindness-groping-at-noon, refs: ["SAA 02 006 o:422-424"], note: "Šamaš, light of heaven and earth: may he not judge you justly; may he take away your eyesight (niṭil īnēkunu lišīma); walk about in darkness (ina ekleti ittallakā)"}
+      - {motif: corpse-food-for-birds-no-one-scares, refs: ["SAA 02 006 o:425-427"], note: "Ninurta fells you with his arrow, fills the plain with your blood, feeds your flesh to the eagle (erû) and the jackal (zību)"}
+      - {motif: betrothed-house-vineyard-taken-by-another, refs: ["SAA 02 006 o:428-430"], note: "Venus: before your eyes may your wives lie in the lap of your enemy (ina sūn nakrikunu lišanīl), your sons not own your house, a stranger (nakru ahû) divide your goods"}
+      - {motif: curse-enemy-divides-your-possessions, refs: ["SAA 02 006 o:430"], note: "nakru ahû lizâʾiz mimmûkun"}
+      - {motif: curse-birth-cut-off-no-childs-cry, refs: ["SAA 02 006 o:433-439"], note: "Marduk: heavy punishment, an oath without release (māmīt lā pašāri); Zarpanitu who gives name and seed destroy your name and seed; Bēlet-ilī cut off birth (tālittu); no cry of baby or toddler in the streets; nursemaids lacking"}
+      - {motif: curse-rivers-dammed-rain-withheld, refs: ["SAA 02 006 o:440-443"], note: "Adad, canal-inspector of heaven and earth: cut off high water (mīlu), deprive the meadows, flood, locust (erbû) the diminisher of the land eat the harvest"}
+      - {motif: locust-worm-cricket-devour, refs: ["SAA 02 006 o:442-443"], note: "erbû muṣahhir māti ebūrkunu lēkul"}
+      - {motif: curse-no-sound-of-mill-and-oven, refs: ["SAA 02 006 o:443-444"], note: "ikkil erî u tinūri ina bītātikunu ay ibši: may the sound of the millstone and oven be absent from your houses"}
+      - {motif: cannibalism-in-siege, refs: ["SAA 02 006 o:444-450"], note: "grain to grind lost: instead of grain may your sons and daughters grind your bones; the mother bar her door to her daughter; in hunger eat the flesh of your sons; man eat man's flesh, man clothe himself in man's skin"}
+      - {motif: curse-mother-bars-door-against-daughter, refs: ["SAA 02 006 o:448"], note: "ummu eli mārtiša bābša lēdil"}
+      - {motif: curse-unburied-corpse-eaten-by-dogs-and-pigs, refs: ["SAA 02 006 o:451"], note: "šīrēkunu kalbē šahê lēkulū"}
+      - {motif: curse-ghost-deprived-of-water, refs: ["SAA 02 006 o:452", "SAA 02 006 o:476-477"], note: "eṭemmakunu pāqidu nāq mê ay irši: may your ghost have no caretaker or water-pourer; above uproot you from the living, below may your ghost thirst for water"}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["SAA 02 006 o:453-454"], note: "Ištar, lady of battle: break your bow, bind your arms, make you sit under your enemy"}
+      - {motif: curse-made-to-kneel-at-enemys-feet, refs: ["SAA 02 006 o:454"], note: "ina šapal nakrikunu lišēšibkunu"}
+      - {motif: curse-plague-ends-people, refs: ["SAA 02 006 o:455-456"], note: "Nergal: extinguish your life with his merciless sword, slaughter and pestilence (mūtānu)"}
+      - {motif: curse-no-mercy-from-god, refs: ["SAA 02 006 o:457-460"], note: "Mullissu bind a flaming sword at your side; Ištar of Arbela not show you mercy and favour (rēmu gimlu)"}
+      - {motif: curse-wound-bathe-in-blood-and-pus, refs: ["SAA 02 006 o:461-463"], note: "Gula, great physician: illness and weariness in your hearts, an unhealing wound (simmu lazzu) in your body; bathe in blood and pus like water"}
+      - {motif: curse-by-aramaean-and-syrian-gods, refs: ["SAA 02 006 o:466-471"], note: "Aramiš (broken); Bethel and Anath-Bethel (Baiti-ili, Anat-Baiti-ili) hand you over to a man-eating lion; Kubaba of Carchemish puts rimṭu-disease in you, your urine drip to the ground like raindrops"}
+      - {motif: curse-handed-to-devouring-lion, refs: ["SAA 02 006 o:467-468"], note: "ina qāt nēši ākili limnûkunu"}
+      - {motif: wicked-uprooted-from-land-of-living, refs: ["SAA 02 006 o:472-479"], note: "may all the gods named on this tablet strike you, frown on you, curse you angrily with a bitter curse; uproot you from the living above; light and shade pursue you so you find no hiding corner; bread and water forsake you"}
+      - {motif: corpse-food-for-birds-no-one-scares, refs: ["SAA 02 006 o:480-484"], note: "famine, want, hunger, plague never leave you; dogs and pigs drag the teats of your girls and penises of your young men in the square of Assur before your eyes; the earth not receive your corpses; the bellies of dogs and pigs be your grave"}
+      - {motif: curse-days-dark-years-of-darkness, refs: ["SAA 02 006 o:485-487"], note: "ūmēkunu lū eṭû šanātēkunu lū eklā: may your days be dim, your years dark; darkness without brightness be your fate; end your life in moaning and sleeplessness"}
+      - {motif: curse-flood-from-earth, refs: ["SAA 02 006 o:488-489"], note: "bibbulu abūbu lā mahru ištu libbi erṣeti: an irresistible flood come up from the earth"}
+      - {motif: curse-dust-for-food-pitch-for-oil-urine-for-drink, refs: ["SAA 02 006 o:489-492"], note: "anything good be taboo to you, anything sick your fate; tar and pitch your food, donkey's urine your drink, naphtha your ointment, river-weed your covering"}
+      - {motif: curse-demons-choose-your-houses, refs: ["SAA 02 006 o:493"], note: "šēdu utukku rābiṣu lemnu bītātikunu lihīrū"}
+    hints:
+      - "Deut 28 curse sequence: disease and boils (28:21-22, 27, 35), blindness and groping in darkness at noon (28:28-29), carrion birds (28:26), wife lain with by another, house and vineyard taken (28:30), stranger takes your goods (28:31-33, 43), locusts (28:38), cannibalism in siege (28:53-57: the delicate woman begrudges her own children)."
+      - "No sound of millstone or lamp: Jer 25:10; Rev 18:22-23. Wild-ass existence: Job 39:5-8; Dan 4:25."
+      - "Dogs licking blood and eating the body in public: 1 Kgs 21:19,23-24; 2 Kgs 9:35-37 (Jezebel); Jer 22:19 (burial of an ass)."
+      - "Bethel as a god: Jer 48:13 ('Moab ashamed of Chemosh as Israel was ashamed of Bethel'). Lion sent: 1 Kgs 13:24; 2 Kgs 17:25."
+      - "Quran: dogs and stripped bodies, or famine and fear as punishment: Q 16:112; disbelievers' deeds as darkness upon darkness: Q 24:40."
+  - id: ane-saa02-006-o-self-curse-and-further-curses
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: the vassals' first-person oath and further curses by Aššur, Palil, Ea, Girra (SAA 2 6:494-525)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:494-525"]
+    tags:
+      - {motif: self-curse-oath-first-person, refs: ["SAA 02 006 o:494-512"], note: "ilāni annûte lidgulū šumma anīnu ... nēppašūni: 'may these gods watch: if we (anīnu) make rebellion, put our mouth with his enemy, hear whispering and lies and conceal them ... as long as we, our sons and grandsons live, Assurbanipal is our king and lord; if we set another king over us, may the gods named seek out (lubaʾʾiū) our seed and our seed's seed from our hand'"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["SAA 02 006 o:500-507"], note: "mušamhiṣūtu mušadbibūtu lihšu ša amat lemutti ... dabāb surrāti: sedition, instigation, whispering of an evil word, lying talk"}
+      - {motif: treaty-no-other-king-or-lord, refs: ["SAA 02 006 o:509-510"], note: "šumma šarru šanumma ... ina muhhini ... nišakkanūni"}
+      - {motif: corpse-food-for-birds-no-one-scares, refs: ["SAA 02 006 o:518-520"], note: "Aššur fells you with his furious weapons; Palil gives your flesh to eagle and jackal"}
+      - {motif: curse-water-of-death-dropsy, refs: ["SAA 02 006 o:521-522"], note: "Ea, king of the Apsû: mê lā balāṭi lišqīkunu agannutillâ limallīkunu, give you water of no-life to drink and fill you with dropsy"}
+      - {motif: curse-water-and-oil-taboo, refs: ["SAA 02 006 o:523"], note: "mê šamnī ana ikkibikunu liškunū"}
+      - {motif: curse-seed-burned-torch-quenched, refs: ["SAA 02 006 o:524-525"], note: "Girra who gives food to small and great burn your name and seed"}
+    hints:
+      - "The people answer 'Amen' to curses on themselves: Deut 27:15-26; Num 5:22; Neh 5:13."
+      - "Water of bitterness causing the belly to swell: Num 5:22-27; compare Ps 109:18."
+  - id: ane-saa02-006-o-analogical-curses-1
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: analogical and simile curses I: iron earth and bronze sky to the stinking bug (SAA 2 6:526-611)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:526-611"]
+    tags:
+      - {motif: analogical-treaty-curse, refs: ["SAA 02 006 o:530-531", "SAA 02 006 o:547-548", "SAA 02 006 o:560-561"], note: "kī ša ... kī hannê: 'just as X ... so may Y': simile curses performed with objects and animals (this ewe, these lambs, this wax figure)"}
+      - {motif: sky-bronze-earth-iron, refs: ["SAA 02 006 o:526-533"], note: "ammar libitti qaqqaru lusīqūnikunu, qaqqarkunu kī parzilli lēpušū ... kī ša ištu libbi šamê ša siparri zunnu lā izannunūni: may they make your ground narrow as a brick, make your ground like iron, so nothing sprouts; as rain does not fall from a bronze sky, so may rain and dew not come on your fields; instead of rain may coals (pēnāti) rain on your land"}
+      - {motif: rain-turned-to-burning-coals, refs: ["SAA 02 006 o:532-533"], note: "kūm zunni pēʾnāti ina mātikunu liznun"}
+      - {motif: curse-like-tin-before-fire-cannot-stand-before-enemy, refs: ["SAA 02 006 o:534-536"], note: "as tin does not stand before fire, you shall not stand before your enemy, nor take your sons and daughters by the hand"}
+      - {motif: curse-sterility-like-mule, refs: ["SAA 02 006 o:537-539"], note: "as a mule has no offspring, may your name and seed and that of your sons and daughters vanish from the land"}
+      - {motif: curse-no-sprouting-like-malt, refs: ["SAA 02 006 o:540-544"], note: "as the shoot of malt in the mash does not sprout: may your seed vanish from the face of the earth (partly broken 541-542)"}
+      - {motif: curse-city-ploughed-with-iron-plough, refs: ["SAA 02 006 o:545-546"], note: "Šamaš ina epinni ša parzilli ālkunu nagîkunu lušabalkit: overturn your city and district with an iron plough"}
+      - {motif: cannibalism-in-siege, refs: ["SAA 02 006 o:547-550"], note: "as this ewe is cut open and the flesh of her young put in her mouth, so may they make you eat in hunger the flesh of your brothers, sons and daughters"}
+      - {motif: curse-entrails-rolled-round-feet, refs: ["SAA 02 006 o:551-554"], note: "as these lambs and kids are slit and their entrails rolled round their feet"}
+      - {motif: no-peace-between-spouses-like-snake-and-mongoose, refs: ["SAA 02 006 o:555A-559"], note: "as snake and mongoose do not enter one hole but plot to cut each other's throats, so you and your wives shall not enter one house or lie on one bed"}
+      - {motif: curse-oath-enters-body-like-food-or-oil, refs: ["SAA 02 006 o:560-562"], note: "as bread and wine enter the intestines, so may this oath enter your intestines and those of your sons and daughters"}
+      - {motif: curse-rivers-and-springs-flow-backward, refs: ["SAA 02 006 o:563-566"], note: "as one blows water out of a reed-tube, so may they blow you away; may your rivers and springs turn backwards (ana qinniš lusahhirū)"}
+      - {motif: curse-bread-for-price-of-gold, refs: ["SAA 02 006 o:567"], note: "akalē ina pitti hurāṣi ina mātikunu lušālikū: make bread cost the same as gold in your land"}
+      - {motif: curse-drink-own-blood-sweet-as-honey, refs: ["SAA 02 006 o:568-569"], note: "as honey is sweet, may the blood of your wives, sons and daughters be sweet in your mouth"}
+      - {motif: curse-worms-eat-living-flesh, refs: ["SAA 02 006 o:570-572"], note: "as the worm eats stored supplies, may the worm eat your flesh while you are still alive (ina balṭūtekunu)"}
+      - {motif: curse-bow-broken-by-war-goddess, refs: ["SAA 02 006 o:573-575"], note: "break your bow, seat you under your enemy, turn the bow in your hand, make your chariots run backwards"}
+      - {motif: blood-avenger, refs: ["SAA 02 006 o:576-578", "SAA 02 006 o:582-584"], note: "as a stag is chased and killed, may the avengers of blood (bēl dāmē) chase and kill you; as a bird is caught in a trap, put you in the hands of your avengers"}
+      - {motif: curse-not-return-to-wife-and-house, refs: ["SAA 02 006 o:579-581"], note: "as the caterpillar does not see and does not return to its cocoon, may you not return to your wives, sons, daughters and houses"}
+      - {motif: curse-flesh-black-as-pitch, refs: ["SAA 02 006 o:585-587"], note: "kī qīri kupri napṭi luṣallimū"}
+      - {motif: enemies-caught-like-animals-in-net, refs: ["SAA 02 006 o:588-590"], note: "(applied to the vassal) as a beast is caught in a snare, may you be seized by your enemy"}
+      - {motif: curse-flesh-consumed-like-chameleon, refs: ["SAA 02 006 o:591-593"], note: "kī šīrē ša hurbabilli ligammurū"}
+      - {motif: curse-flesh-perforated-like-honeycomb, refs: ["SAA 02 006 o:594-598"], note: "as a honeycomb is pierced with holes, may holes be pierced in your flesh while alive"}
+      - {motif: locust-worm-cricket-devour, refs: ["SAA 02 006 o:599-600"], note: "erbû zēru barmu kalmutu mūnu ākilu: locust, larva, louse, caterpillar devour your cities and districts"}
+      - {motif: curse-like-fly-in-enemys-hand, refs: ["SAA 02 006 o:601-602"], note: "kī zumbi ina qāt nakrikunu lēpušūkunu: make you like a fly in the hand of your enemy; may your enemy squash you"}
+      - {motif: curse-breath-stinks-before-gods-and-men, refs: ["SAA 02 006 o:603-605"], note: "as this bug stinks, may your breath stink before god, king and mankind"}
+      - {motif: curse-kin-hunt-and-kill-each-other, refs: ["SAA 02 006 o:606-607"], note: "ina pitilti lihnuqūkunu"}
+      - {motif: curse-melt-like-wax-dissolve-like-clay-figure, refs: ["SAA 02 006 o:608-611"], note: "as a wax figure (ṣalmu ša iškūri) is burned in fire and one of clay dissolved in water, so may your form burn in Girra and sink in water"}
+    hints:
+      - "Deut 28:23-24: 'your heaven over your head shall be bronze, and the earth under you iron; YHWH will make the rain of your land powder and dust'. The ESA order (earth iron, sky bronze) matches Deuteronomy against Lev 26:19 (sky iron, earth bronze)."
+      - "Eating children's flesh: Deut 28:53-57; Lev 26:29; Jer 19:9; Lam 2:20, 4:10; 2 Kgs 6:28-29; Ezek 5:10."
+      - "Zion ploughed like a field: Mic 3:12; Jer 26:18. Cannot stand before enemies: Lev 26:37; Josh 7:12-13; Deut 28:25."
+      - "Curse entering the body like water, like oil into the bones: Ps 109:18; Num 5:22. Drinking own blood like wine: Isa 49:26."
+      - "Worms on the living or the corpse: Isa 14:11, 66:24; Job 7:5; Acts 12:23; Deut 28:39 (worm eats the vine)."
+      - "Avenger of blood: Num 35:19-27; Deut 19:6,12. Bird in a snare: Amos 3:5; Eccl 9:12; Prov 7:23. Flesh black: Lam 4:8, 5:10."
+      - "Melt like wax before fire: Ps 68:3 (Heb), 97:5; Mic 1:4. Rivers turned back: Ps 114:3,5; Isa 19:5-6."
+      - "Quran: those who break the covenant after its ratification are cursed: Q 13:25, 2:27; the hypocrites' saying with their tongues what is not in their hearts: Q 48:11."
+  - id: ane-saa02-006-o-analogical-curses-2
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: analogical curses II: bloody chariot to the overturned throne (SAA 2 6:612A-663)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:612A-663"]
+    tags:
+      - {motif: analogical-treaty-curse, refs: ["SAA 02 006 o:612-615", "SAA 02 006 o:626-629"], note: "kī ša mugerru annītu adi sassiša ina dāmē rahṣatūni: as this chariot is drenched in blood to its floorboard, so may your chariots be drenched in your own blood in the midst of your enemy"}
+      - {motif: warriors-become-women, refs: ["SAA 02 006 o:616A-617"], note: "kī pilaqqi lušaṣbirūkunu, kī sinništi ina pān nakrikunu lēpušūkunu: make you spin like a spindle, make you like a woman before your enemy"}
+      - {motif: curse-move-backward-like-crab, refs: ["SAA 02 006 o:618A-620"], note: "kī alluttu ana qinniš lušadīlūkunu"}
+      - {motif: curse-surrounded-by-fire, refs: ["SAA 02 006 o:621"]}
+      - {motif: curse-oath-enters-body-like-food-or-oil, refs: ["SAA 02 006 o:622-625"], note: "kī ša šamnu ina libbi šīrēkunu errabūni, kī hannê tamītu annītu ina libbi šīrēkunu ... lušēribū: as oil enters your flesh, so may this oath enter your flesh and that of your brothers, sons and daughters"}
+      - {motif: curse-hands-feet-cut-eyes-blinded, refs: ["SAA 02 006 o:626-629"], note: "as the curser (arrāru) who sinned against Bēl had his hands and feet cut off and his eyes blinded, so may they finish you off"}
+      - {motif: curse-shaken-like-reed-in-water, refs: ["SAA 02 006 o:630-631"], note: "kī appāri ina mê lunīšūkunu, kī qanê ina riksi nakrikunu lušallipūkunu: shake you like a reed-bed in water, pull you out like a reed from a bundle"}
+      - {motif: curse-turn-right-or-left-sword-devours, refs: ["SAA 02 006 o:632-636C"], note: "if you abandon Esarhaddon, Assurbanipal, his brothers and the other sons, ana imitti u šumēli tallakāni: go to right or left, may the sword eat whoever goes to the right, the sword eat whoever goes to the left; 636C 'like a spring lamb, a kid' broken"}
+      - {motif: turn-neither-right-nor-left, refs: ["SAA 02 006 o:634-636"], note: "inverted: ana imitti u šumēli tallakāni, going to the right or the left means defecting from the king; compare the Deuteronomic formula"}
+      - {motif: curse-no-rest-no-sleep-bones-apart, refs: ["SAA 02 006 o:637-639"], note: "as these doves moan (ikkillu ... halālu), may you, your wives, sons and daughters have no rest or sleep"}
+      - {motif: curse-no-rest-no-sleep-bones-apart, refs: ["SAA 02 006 o:640"], note: "eṣmātekunu ana ahāiš lū lā iqarribā: may your bones never come near one another"}
+      - {motif: curse-heart-empty-like-hole, refs: ["SAA 02 006 o:641-642"]}
+      - {motif: curse-no-balm-for-wound, refs: ["SAA 02 006 o:643-645"], note: "when your enemy pierces you, may honey, oil, ginger and cedar-resin be unavailable to put on your wound"}
+      - {motif: curse-kin-hunt-and-kill-each-other, refs: ["SAA 02 006 o:646-648"], note: "kī ša martu marratūni: as gall is bitter, may you, your wives, sons and daughters be bitter to one another"}
+      - {motif: curse-sun-gods-net-no-escape, refs: ["SAA 02 006 o:649-651"], note: "Šamaš: may a bronze snare (huhāru ša siparri) cover you and your children; cast you into a trap from which there is no escape, not let your life out"}
+      - {motif: curse-waterskin-split-die-of-thirst, refs: ["SAA 02 006 o:652-655"], note: "as this waterskin is split and its water poured out, may your waterskin break in a land of severe thirst; die of thirst"}
+      - {motif: curse-crawl-on-belly, refs: ["SAA 02 006 o:656-658"], note: "as this sandal is cut, may your sandals be torn in a land of thorns (qaqqar puqutti)"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["SAA 02 006 o:659"], note: "Enlil, lord of the throne, overturn your throne"}
+      - {motif: curse-name-erased-from-tablet-of-fates, refs: ["SAA 02 006 o:660-661"], note: "Nabû, bearer of the tablet of fates of the gods: šumkunu lipšiṭ zērkunu ina māti luhalliq, erase your name, destroy your seed from the land"}
+      - {motif: enemy-seed-destroyed, refs: ["SAA 02 006 o:661"]}
+    hints:
+      - "Do not turn aside to the right or to the left: Deut 5:32, 17:11,20, 28:14; Josh 1:7. Sword devours: Deut 32:42; Jer 46:10."
+      - "Warriors become women: Jer 50:37, 51:30; Nah 3:13; Isa 19:16. Moaning like doves: Isa 38:14, 59:11; Ezek 7:16; Nah 2:8."
+      - "Bones that do not come together (reversed in Ezek 37:7). No balm in Gilead: Jer 8:22, 46:11; Isa 1:6 (wounds not softened with oil)."
+      - "Shaken like a reed in the water: 1 Kgs 14:15. Mutilation of thumbs and toes / blinding: Judg 1:6-7; 2 Kgs 25:7; Judg 16:21."
+      - "Gall and wormwood: Deut 29:17 (Heb 29:17-18), 32:32-33. Blot out his name from under heaven: Deut 29:19 (Heb 29:19); Ps 9:6, 109:13."
+      - "Overturning the throne of kingdoms: Hag 2:22. A snare/net of God: Ezek 12:13, 17:20; Hos 7:12."
+  - id: ane-saa02-006-o-colophon
+    tradition: ane-akkadian
+    title: "Esarhaddon's Succession Treaty: date and subscript (SAA 2 6:664-670)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 02 006 o:664-670"]
+    tags:
+      - {motif: treaty-dated-by-eponym, refs: ["SAA 02 006 o:664-665"], note: "Ayyaru, day 18, eponymy of Nabû-bēlu-uṣur, governor of Dur-Šarrukku (672 BC)"}
+      - {motif: brother-installed-as-king-of-babylon, refs: ["SAA 02 006 o:666-670"], note: "treaty concerning Assurbanipal, crown prince of Assyria, and Šamaš-šumu-ukin, crown prince of Babylon"}
+    hints:
+      - "Dated covenant documents: Jer 32:9-14 (sealed deed); Neh 9:38-10:1 (sealed covenant)."
+  - id: ane-saa03-014-nabu-tashmetu-love-lyrics
+    tradition: ane-akkadian
+    title: "Love lyrics of Nabû and Tašmetu (SAA 3 14)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Neo-Assyrian, Nineveh; copied by the scribe Budi-il
+    read: ["SAA 03 014"]
+    tags:
+      - {motif: love-poetry-dialogue-of-lovers, refs: ["SAA 03 014 o:1-16", "SAA 03 014 r:14-26"], note: "a dialogue song: 'whoever trusts, let him trust; we trust in Nabû, we are devoted to Tašmetu'; Tašmetu says 'my lord, put a ring on me, let me give you pleasure in the garden'; Nabû answers"}
+      - {motif: trust-in-god-confession, refs: ["SAA 03 014 o:1-2"], note: "mannu ana ša takilu lū takil, anīnu ana Nabû taklāni"}
+      - {motif: lover-goes-down-to-garden, refs: ["SAA 03 014 o:13-16", "SAA 03 014 r:16-25"], note: "qereb kirî lulallīka; ana kirî lallikamma ... ana kirî babbanât, 'let me go to the garden, to the excellent garden'; bound day and night for the garden"}
+      - {motif: lover-shaded-under-cedar-and-cypress, refs: ["SAA 03 014 o:9-11"], note: "ṣil erēni ṣil erēni ... puzru šarri, ṣil šurmēni: the shade of cedar is the king's shelter, the shade of cypress his magnates', the shade of juniper Nabû's playground"}
+      - {motif: beloved-body-praised-part-by-part, refs: ["SAA 03 014 r:5-8"], note: "her thighs a gazelle in the steppe, her ankles an apple of Simanu, her heels obsidian, her whole being a tablet of lapis lazuli"}
+      - {motif: consort-goddess-enters-bedchamber, refs: ["SAA 03 014 r:9-13"], note: "Tašmetu entered the bedroom, shut the door with a lapis bolt, washed, went up onto the bed; her tears flow in hands of lapis, wiped with red wool"}
+      - {motif: lover-eyes-see-plucking-fruit-ears-hear-birds, refs: ["SAA 03 014 r:20-21", "SAA 03 014 r.e:30-32"], note: "may my eyes see the plucking of your fruit, may my ears hear the twittering of your birds"}
+      - {motif: sacred-marriage-festival-of-nabu, refs: ["SAA 03 014 o:6-8"], note: "Tašmetu taken to the cella (papāhu), to the dais, with pure juniper: setting of the divine wedding"}
+    hints:
+      - "Song of Songs: 'I went down to the nut garden' 6:11; 'come to his garden and eat its choicest fruits' 4:16-5:1; 'I sat in his shade with great delight' 2:3; praise of the body part by part 7:2-10 (thighs, feet, navel); 'the voice of the turtledove is heard' 2:12."
+      - "'Who trusts' confession: Ps 20:8; Ps 115:9-11. Ring as love token: Song 8:6 (seal on your arm); Gen 24:22."
+  - id: ane-saa03-020-elamite-affairs-fragment
+    tradition: ane-akkadian
+    title: "Fragment on Elamite affairs and a eunuch (SAA 3 20)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 020"]
+    tags:
+      - {motif: elamite-court-intrigue-fragment, refs: ["SAA 03 020 o:8'-26'", "SAA 03 020 r:1-15"], note: "heavily broken: Elam, its magnates, Raši; the eunuch Nazia reached Raši and opened its door; the eunuch Marduk-šarru-uṣur in his cart; 'enemy who is not an enemy'; a eunuch carrying fetters brought to Assurbanipal, the strong king; Milki-rāmu the chief tailor; 'like two magnates, like two brothers'; a eunuch crawls before the king; the king throws (slaps?) the cheek"}
+      - {motif: eunuch-official-in-royal-intrigue, refs: ["SAA 03 020 o:2'-5'", "SAA 03 020 r:10"], note: "ša-rēši ina pān šarri ipšil: the eunuch crawled before the king"}
+    hints:
+      - "Eunuch officials in royal plots and reversal of fortunes: Esth 2:21-23, 6:1-2; Dan 1; 2 Kgs 9:32."
+  - id: ane-saa03-029-satire-on-bel-etir
+    tradition: ane-akkadian
+    title: "Pasquinade against Bēl-ēṭir son of Ibâ (SAA 3 29)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 029"]
+    tags:
+      - {motif: satire-mocking-upstart-official, refs: ["SAA 03 029 o:1-6"], note: "Bēl-ēṭir son of Ibâ who 'shouts like a dog'; low-born, son of a hunter, 'not fit for kingship', 'heap of excrement', 'windbag', 'sexually known' (nīku); boasts: 'in Assyria and Akkad I have no equal ... where is my rival in all the land?'"}
+      - {motif: boaster-who-praises-himself, refs: ["SAA 03 029 r:6-9"], note: "like a fool without understanding he praises himself (ramānšu ittaʾid), he speaks, he praises, he boasts: šūtūma idabbub šūtūma inaʾʾad ... and he has become a byword and taunt in the mouth of the people"}
+      - {motif: mock-stele-erected-for-enemy, refs: ["SAA 03 029 r:3-5"], note: "this inscribed slab which the prostitute erected for the son of Ibâ, the farter, she left forever (ana ahrâtaš)"}
+      - {motif: pazuzu-invoked-in-mockery, refs: ["SAA 03 029 r:2"], note: "the furious Pazuzu son of Hanbi called his name"}
+    hints:
+      - "The boaster who praises himself: Prov 27:2 ('let another praise you and not your own mouth'); 1 Kgs 20:11. Byword and taunt among peoples: Deut 28:37; 1 Kgs 9:7; Jer 24:9."
+      - "Mocking an upstart: Isa 22:15-19 (Shebna's tomb); Quran insult-poetry against an opponent: Q 68:10-13 ('every contemptible swearer, slanderer ... ignoble, besides that, of doubtful birth (zanim)')."
+  - id: ane-saa03-025-blessings-to-assurbanipal
+    tradition: ane-akkadian
+    title: "Prophetic or scholarly blessing-address to Assurbanipal: gods at his right and left, propitious planets, cheap grain (SAA 3 25)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 025"]
+    tags:
+      - {motif: gods-escort-king-on-road, refs: ["SAA 03 025 o.ii:5'-9'"], note: "Adad your trust ... in your right Šamaš goes, in your left Ištar goes; Anunitu with your army"}
+      - {motif: kings-throne-firm-for-long-days, refs: ["SAA 03 025 o.ii:17'-19'", "SAA 03 025 r.i:15'"], note: "may your dwelling be firm, your throne stable, your days long, be sated with extreme old age; may your peace be long"}
+      - {motif: favourable-signs-in-heaven-and-earth, refs: ["SAA 03 025 o.ii:20'-27'"], note: "in your days, which Marduk loves, Jupiter has taken the path of justice in the sky, Mars your star is clothed in radiance like a lion; the gate of heaven which was shut ... (broken)"}
+      - {motif: abundance-and-low-prices-in-good-reign, refs: ["SAA 03 025 r.i:6'-12'"], note: "in your true days which Nabû and Marduk love: plenty and riches, the temples full; a year when barley and emmer have a (good) market price"}
+      - {motif: king-in-days-loved-by-god, refs: ["SAA 03 025 o.i:9'", "SAA 03 025 o.ii:20'", "SAA 03 025 r.i:6'-7'"], note: "ina ūmēka ša Marduk iramušināti"}
+      - {motif: brother-installed-as-king-of-babylon, refs: ["SAA 03 025 o.i:13'-18'"], note: "Šamaš-šumu-ukin, your bud who was led to kingship; in Nisan a golden chariot ... to Babylon"}
+      - {motif: king-of-the-four-quarters, refs: ["SAA 03 025 o.ii:2'-3'", "SAA 03 025 r.i:16'-23'"], note: "king of the four quarters, king of the world, creation of Aššur and Šamaš, beloved of Marduk and Zarpanitu, of wide ear and distant heart"}
+    hints:
+      - "Abundance and cheap grain as royal blessing: Ps 72:3,6-7,16; 2 Kgs 7:1. God at the right hand: Ps 16:8, 110:5, 121:5."
+      - "Long life and firm throne for the king: Ps 21:5, 61:7-8; 2 Sam 7:16."
+  - id: ane-saa03-026-address-to-assurbanipal-fragment
+    tradition: ane-akkadian
+    title: "Fragmentary address to Assurbanipal: Šamaš older than heaven and earth; 'do not fear battle' (SAA 3 26)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 026"]
+    tags:
+      - {motif: god-existed-before-heaven-and-earth, refs: ["SAA 03 026 o:4'-6'"], note: "Šamaš whose face is strong and his light ... who (existed) before heaven and earth were created (ša adi lā šamê u qaqqari ibbanû)"}
+      - {motif: fear-not-oracle, refs: ["SAA 03 026 r:5'-6'"], note: "attā ul nēšu attā ... ana tāhāzi lā tadar: 'you are ... a lion, do not fear battle' (broken context)"}
+      - {motif: king-given-lions-face, refs: ["SAA 03 026 r:8'-9'"], note: "zīmu labbi ašakkanšu: I will give him the face of a lion; Marduk and Zarpanitu have given (him) radiance"}
+      - {motif: i-shall-not-be-ashamed, refs: ["SAA 03 026 r:13'"], note: "anāku lā abâša: 'I shall not be ashamed' (broken context)"}
+    hints:
+      - "God before the mountains were born: Ps 90:2; Prov 8:22-26. 'Fear not' to the king before battle: Isa 7:4; 2 Chr 20:15-17. Not be put to shame: Ps 25:2-3; Isa 50:7."
+  - id: ane-saa03-013-dialogue-assurbanipal-nabu
+    tradition: ane-akkadian
+    title: "Dialogue between Assurbanipal and Nabû: 'Fear not, I will give you long life' (SAA 3 13)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 013"]
+    tags:
+      - {motif: royal-prayer-dialogue-with-god, refs: ["SAA 03 013 o:1-r:11"], note: "alternating speeches: Assurbanipal prays in the assembly of the great gods, Nabû answers, a 'wind' (zāqīqu, dream-spirit) answers from Nabû"}
+      - {motif: do-not-abandon-me-among-my-enemies, refs: ["SAA 03 013 o:2", "SAA 03 013 o:6", "SAA 03 013 o:20-22", "SAA 03 013 r:4-5"], note: "ina puhur haddânūya lā tumaššaranni: do not abandon me in the assembly of those who wish me ill; may my life not fall into their hands"}
+      - {motif: devoted-to-god-from-childhood, refs: ["SAA 03 013 o:5"], note: "ultu ṣehrāku atteʾʾīla ina šēpē Nabû: since I was small I have lain at the feet of Nabû"}
+      - {motif: life-written-before-god, refs: ["SAA 03 013 o:21"], note: "balāṭī ina pānika šaṭir, napšātīya paqda ina sūn Mullissu: my life is written before you, my soul entrusted to the lap of Mullissu"}
+      - {motif: fear-not-i-am-with-you, refs: ["SAA 03 013 o:23-25"], note: "lā tapallah Aššur-bāni-apli, napšāti arkāti addanakka, šārī ṭābūti itti napšātika apaqqid: fear not, Assurbanipal, I will give you long life, I will entrust pleasant breezes to your soul"}
+      - {motif: dream-spirit-brings-message, refs: ["SAA 03 013 o:23"], note: "ētapla zāqīqu ištu pān Nabû bēlišu: a dream-wind (zāqīqu) answered from before Nabû"}
+      - {motif: king-suckled-by-goddess-four-teats, refs: ["SAA 03 013 r:6-8"], note: "ṣehru attā ... ša umaššerūka ina muhhi šarrat Nīnua, lakû attā ... ša ašbāka ina burki šarrat Nīnua; erbe zīzēša ina pîka šaknā, šina teniqqi šina tahallip ana pānika: you were small when I left you to the Queen of Nineveh, weak when you sat on her knees; her four teats were placed in your mouth: two you sucked, two you milked (pulled) to your face"}
+      - {motif: king-nursed-on-goddess-lap, refs: ["SAA 03 013 r:7"]}
+      - {motif: enemies-like-tumbleweed-and-chaff, refs: ["SAA 03 013 r:9-10"], note: "your ill-wishers will fly like sēpu-grain on the water, like burbillātu-insects of the spring they will be crushed before your feet"}
+      - {motif: wicked-as-chaff, refs: ["SAA 03 013 r:9"]}
+      - {motif: lips-not-tired-of-praying, refs: ["SAA 03 013 o:8-11"], note: "your feet will not grow weary, your hands not tremble, your lips not tire of approaching me; your tongue will not falter from your lips"}
+    hints:
+      - "Fear not, I am with you: Isa 41:10-14, 43:1-5, 44:2; Gen 15:1, 26:24; Q 20:46 ('fear not, I am with you both, I hear and see')."
+      - "Reliance on God from the womb and the mother's breasts: Ps 22:10-11, 71:6; Isa 49:1. God as nursing mother: Isa 66:11-13; Num 11:12; Isa 60:16 ('you shall suck the breast of kings')."
+      - "Life written in God's book: Ps 139:16, 69:29; Exod 32:32; Mal 3:16. Do not hand me to my enemies: Ps 27:12, 41:3, 140:9."
+      - "Enemies like chaff before the wind: Ps 1:4, 35:5; Isa 17:13, 29:5; trodden under feet: Mal 3:21 (Eng 4:3)."
+  - id: ane-saa03-024-ummanaldasu-fragment
+    tradition: ane-akkadian
+    title: "Fragment mentioning Ummanaldašu of Elam and a daughter as gift (SAA 3 24)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 024"]
+    tags:
+      - {motif: daughter-given-as-diplomatic-gift, refs: ["SAA 03 024 o:2'-6'"], note: "Ummanaldašu ... to the lord ... the king my lord ... 'let my daughter be a greeting-gift (šulmānu)'; heavily broken"}
+      - {motif: elamite-court-intrigue-fragment, refs: ["SAA 03 024 r:2-8"], note: "fragments: 'pray!', 'now again', 'you killed', 'the remainder', 'the life of the king of ...'"}
+    hints:
+      - "Royal daughters given in diplomatic marriage: 1 Kgs 3:1 (Pharaoh's daughter), 9:16; Dan 11:6,17."
+  - id: ane-saa03-021-nabu-bel-sumati-fragment
+    tradition: ane-akkadian
+    title: "Fragment of a royal text about Nabû-bēl-šumāti and the goddess of Arbela (SAA 3 21)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 021"]
+    tags:
+      - {motif: goddess-who-created-king-makes-him-proud, refs: ["SAA 03 021 o:1'-6'"], note: "at the right ... (she) who created you (ša tabnûka) ... kingship ... made you proud ... opponents ... in Egašankalamma"}
+      - {motif: rebel-who-speaks-lies, refs: ["SAA 03 021 o:13'-14'", "SAA 03 021 r:3'-5'"], note: "Nabû-bēl-šumāti who in lies (ina ṣilipti) ... with his servant ... speaks"}
+      - {motif: hunting-nets-for-enemies, refs: ["SAA 03 021 r:7'"], note: "šētāte: nets"}
+    hints:
+      - "Nets spread for the enemy: Ezek 12:13; Ps 140:6."
+  - id: ane-saa03-007-hymn-to-nineveh-and-mullissu
+    tradition: ane-akkadian
+    title: "Hymn to Nineveh and its goddess, with blessing for Assurbanipal (SAA 3 7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 007"]
+    tags:
+      - {motif: city-praised-as-date-palm-and-stag, refs: ["SAA 03 007 o:1-2"], note: "Nineveh: 'date palm, daughter of Nineveh, stag of the lands', proud, pure among goddesses"}
+      - {motif: bearded-goddess-like-assur, refs: ["SAA 03 007 o:6"], note: "akī Aššur ziqni zaqnat: (Ištar, queen of Nineveh) wears a beard like Aššur, clad in splendour"}
+      - {motif: goddess-crowned-with-stars-sun-discs-on-breast, refs: ["SAA 03 007 o:7-8"], note: "the tiara on her head shines like the stars; sun-discs on her breast glow like the sun"}
+      - {motif: goddess-festival-procession-king-in-chariot, refs: ["SAA 03 007 o:10-17"], note: "on 16 Tebet, the erû-festival, Mullissu goes out; all the gods rejoice; the king in pure garments enters with offerings; sweet wine, beer; the chariot harnessed for her akītu"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 03 007 r:5-7"], note: "may (the kings of) the upper and lower sea come before him; may the princes of the lands bring their tribute; may he receive their loads in great Nineveh"}
+      - {motif: blessing-on-king-who-reveres-god, refs: ["SAA 03 007 r:2-9"], note: "bless Assurbanipal, the true heir who reveres you: abundance be established in your years"}
+    hints:
+      - "Kings of Tarshish and the isles bring tribute: Ps 72:8-11; Isa 60:5-11. A city praised as a woman: Ps 48:2-3; Lam 1:1."
+      - "Woman clothed with the sun, crown of stars: Rev 12:1. Festival procession to the sanctuary: Ps 68:25-28."
+  - id: ane-saa03-005-hymn-to-nanaya-assurbanipal
+    tradition: ane-akkadian
+    title: "Hymn to Nanaya with blessing on Assurbanipal (SAA 3 5)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 005"]
+    tags:
+      - {motif: hymn-of-praise-with-royal-blessing, refs: ["SAA 03 005 o:1-22"], note: "I praise ... Nanaya, lady of the great gods ... Assurbanipal your priest (šangûkunu): Aššur bless his kingship, Nabû his arms, Sîn make his throne secure"}
+      - {motif: king-as-priest-of-gods, refs: ["SAA 03 005 o:4"], note: "Aššur-bāni-apli šangûkunu"}
+      - {motif: lands-tremble-at-goddess, refs: ["SAA 03 005 r:1-4"], note: "she stood in the midst of her city; all who saw praised; all the lands heard and trembled in fear"}
+      - {motif: goddess-favors-king-with-whole-heart, refs: ["SAA 03 005 o:11", "SAA 03 005 o:20"], note: "Nanaya / Mullissu ina gummurti libbiša, 'with all her heart'"}
+    hints:
+      - "Nations hear and tremble: Exod 15:14; Ps 99:1. Priest-king: Ps 110:4; Gen 14:18."
+  - id: ane-saa03-002-hymn-to-marduk
+    tradition: ane-akkadian
+    title: "Assurbanipal's hymn to Marduk: creation, the defeat of Anzû and Tiamat (SAA 3 2:1-44)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 002 o:1-44"]
+    tags:
+      - {motif: supreme-rule-over-heaven-and-earth-given-to-marduk, refs: ["SAA 03 002 o:1-8"], note: "Marduk, canal-inspector of heaven and earth, bearing Anu-ship, Enlil-ship, Ea-ship, lordship and kingship; exalted in heaven, king on earth; founder of all inhabited places, who grasps the circle of heaven and earth"}
+      - {motif: tablet-of-destinies, refs: ["SAA 03 002 o:10"], note: "ṭuppi šīmāti ilāni rabûti ušatmehū rittukka: they placed the tablet of the destinies of the great gods in your hand"}
+      - {motif: gods-kiss-feet-of-deliverer, refs: ["SAA 03 002 o:11", "SAA 03 002 o:26", "SAA 03 002 o:30-31"], note: "they made (the gods) kiss your feet; Igigi and Anunnaki kneel before him; his begetters lie silently at his feet"}
+      - {motif: anzu-defeated-by-warrior-god, refs: ["SAA 03 002 o:15"], note: "māhiṣ muhhi Anzê: who smote the skull of Anzû"}
+      - {motif: chaos-mother-bears-monster-army, refs: ["SAA 03 002 o:16-17"], note: "uridimmu, kusarikku, kulullû (mad dog, bison, fish-man) ... he divided them up"}
+      - {motif: god-binds-tiamat-and-qingu, refs: ["SAA 03 002 o:19-20"], note: "bow, arrow, sword ... takmu tâmtu rapaštu ... ša Qingu harmiša: you bound the wide sea (Tiamat) ... whose lover was Qingu"}
+      - {motif: god-gives-rain-and-floods, refs: ["SAA 03 002 o:22-23"], note: "you open the springs, rain down abundant rains and mighty floods"}
+      - {motif: sun-god-judge-of-heaven, refs: ["SAA 03 002 o:21-22", "SAA 03 002 o:34-35"], note: "in Esagil you judge true judgment and justice; Marduk is a shining sun, bright torch, who makes the dirty clean"}
+      - {motif: astral-names-of-marduk, refs: ["SAA 03 002 o:37-43"], note: "constellations, Cancer (Alluttu), Anunitu; Jupiter (Sagmegar) whose name is shining, foremost of gods; the Pleiades"}
+      - {motif: god-as-raging-fire-and-storm-in-battle, refs: ["SAA 03 002 o:32-33"], note: "ūmu lā pādû, Girra ezzu, nablu muštahmiṭu: merciless storm, furious fire, ever-blazing flame that burns up the enemy in battle"}
+    hints:
+      - "God crushes the sea-monster and the deep: Ps 74:13-14, 89:10-11; Isa 51:9-10; Job 26:12-13. Rahab's helpers bow beneath him: Job 9:13."
+      - "God who opens the windows of heaven and sends rain: Ps 65:10-14; Mal 3:10. All gods bow down to him: Ps 97:7."
+  - id: ane-saa03-002-prayer-and-hymn-to-zarpanitu
+    tradition: ane-akkadian
+    title: "Assurbanipal's hymn to Marduk: prayer for appeasement; hymn to Zarpanitu (SAA 3 2:r 1-25)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 002 r:1-25"]
+    tags:
+      - {motif: personal-god-at-right-goddess-at-left, refs: ["SAA 03 002 r:3-5"], note: "in your net ... your right ..., your left Erragal; before you the Sebettu; right and left Girra burns where you are furious"}
+      - {motif: supreme-rule-over-heaven-and-earth-given-to-marduk, refs: ["SAA 03 002 r:8-11"], note: "Marduk grasped the nose-rope of the Igigi and Anunnaki, the bond of heaven and earth; set the constellations at sunrise and sunset and gave them their paths; gives lots and offerings to the great gods"}
+      - {motif: prayer-that-angry-heart-be-calmed, refs: ["SAA 03 002 r:12-14", "SAA 03 002 r:20-21"], note: "accept my supplication ... may your heart that was furious rest, your liver that was angry calm down (līnuh libbuk ša ēgugu lipšah kabattuk); may he who was angry be reconciled; let me live in your breath"}
+      - {motif: goddess-intercedes-with-high-god, refs: ["SAA 03 002 r:15"], note: "Damkina, the great mother, in Esagil which you love, may she say 'rest!' (nūhu) to you"}
+      - {motif: queen-of-heaven-title, refs: ["SAA 03 002 r:16-19"], note: "Zarpanitu: honoured queen, strong, wife, goddess, lady, proud, great, exalted ... goddess of goddesses, queen of queens, merciful goddess who loves prayer"}
+      - {motif: save-me-that-i-may-praise-you, refs: ["SAA 03 002 r:17"], note: "bulliṭīnīma dalīlīki ludlul: keep me alive, and I will praise you"}
+      - {motif: hymn-line-count-subscript, refs: ["SAA 03 002 r:24-25"], note: "total: 30 lines each, praise-hymn of Marduk ... greatness of Zarpanitu"}
+    hints:
+      - "Turn from your fierce anger: Exod 32:12; Ps 85:4-6; Ps 6:2. Let me live that I may praise you: Ps 6:6, 30:10, 118:17, 119:175; Isa 38:18-19."
+      - "God of gods, lord of lords: Deut 10:17; Ps 136:2-3. Set the stars in their paths: Job 38:31-33; Ps 147:4."
+  - id: ane-saa03-001-hymn-to-assur
+    tradition: ane-akkadian
+    title: "Assurbanipal's hymn to Aššur (SAA 3 1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 001"]
+    tags:
+      - {motif: hymn-opens-let-me-praise-name, refs: ["SAA 03 001 o:5-13"], note: "lušarbi Aššur ... lušāpi narbêšu, tanittašu luštarrah ... lušarbi šumšu: let me magnify Aššur, make his greatness manifest, extol his name; to show it to the people later, for future generations to hear"}
+      - {motif: deity-knows-everything, refs: ["SAA 03 001 o:1-4"], note: "šurbû etel ilāni mūdû kalāma: very great, lord of gods, who knows everything; Enlil of the gods, who decrees fates (Aššur identified with Enlil)"}
+      - {motif: creator-of-heaven-earth-mountains-gods, refs: ["SAA 03 001 o:15-16"], note: "creator of those of heaven and earth, who fashions the mountains, creator of the gods, who begot Ištar"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["SAA 03 001 o:17", "SAA 03 001 o:26-29"], note: "libbu rūqu, karaš niklāti: distant heart, mind of skill; 'no god has learnt your greatness ... the meaning of your plans cannot be grasped'"}
+      - {motif: word-of-high-god-unchangeable, refs: ["SAA 03 001 o:20-25"], note: "whose word, like a mountain, is unshakeable in its foundation, like the writing of the heavens (šiṭir burūmê) does not neglect its appointed time; whose utterance cannot be changed, whose command is firm"}
+      - {motif: anzu-defeated-by-warrior-god, refs: ["SAA 03 001 o:35"], note: "nāʾir Anzê: slayer of Anzû (broken context)"}
+      - {motif: praise-to-unborn-generation, refs: ["SAA 03 001 r:8'-15'"], note: "Assurbanipal, governor of Aššur, alone his provider; among sons, grandsons, great-grandsons, in distant days and long reigns, the praise of Aššur shall not be forgotten (ay immaši), let Ešarra remember it, let it be set in the mouth without ceasing"}
+      - {motif: gods-kneel-and-praise-high-god, refs: ["SAA 03 001 r:6'-7'"], note: "Anu, Enlil, Ea, Bēlet-ilī and Mullissu praised the lordship of Aššur in the court of assembly"}
+    hints:
+      - "Let me proclaim his name to a generation to come: Ps 22:31-32, 78:4-6, 102:19, 145:4. His understanding is unsearchable: Isa 40:28; Ps 145:3; Rom 11:33."
+      - "Word of God stands firm like heaven: Ps 119:89-90; Isa 40:8. The writing of the heavens: Ps 19:2-5."
+  - id: ane-saa03-004-hymn-to-nanaya-sargon
+    tradition: ane-akkadian
+    title: "Hymn to Nanaya with blessing for Sargon II (SAA 3 4)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 004"]
+    tags:
+      - {motif: goddess-as-warrior-leading-the-seven, refs: ["SAA 03 004 o.i:2'-6'"], note: "drawn sword, pointed axe, emblem of the Sebettu; battle arrayed right and left; foremost of gods whose play is battle, who goes before the seven companions"}
+      - {motif: cult-musicians-and-kurgarru-before-goddess, refs: ["SAA 03 004 o.i:7'-11'"], note: "musicians kneel before her with lyres, harps, pipes; kurgarrû with spindle, whip-thong ... soothe her mood"}
+      - {motif: goddess-wife-of-nabu-daughter-in-law-of-esagil, refs: ["SAA 03 004 o.ii:1'-6'"], note: "Nanaya, daughter-in-law of Esagil, wife of Muati (Nabû), beloved of Bēl her father-in-law"}
+      - {motif: refrain-repeated-stanza, refs: ["SAA 03 004 r.i:3'-6'", "SAA 03 004 r.ii:13'-16'"], note: "šimâ kibrāti dalīl šarrati Nanaya: 'hear, O quarters, the praise of queen Nanaya!' repeated as refrain"}
+      - {motif: whom-has-she-not-led-refrain, refs: ["SAA 03 004 r.ii:1'-10'"], note: "the powerful ... whom she has not led (ša šî lā ittarrušu), the bridal gift, the wise exorcist, the knowing physician whom she has not led; before slaves his hand is fallen; apart from her who can do anything?"}
+      - {motif: goddess-enriches-weak-and-poor, refs: ["SAA 03 004 r.ii:11'-12'"], note: "mušašrât katî munahhišat lapni: who makes the weak rich and the poor prosperous"}
+      - {motif: blessing-on-king-who-reveres-god, refs: ["SAA 03 004 r.ii:17'-23'"], note: "rest, daughter of Sîn; bless Sargon who has seized your hem, the shepherd of Assyria who walks behind you; decree long life, make his throne firm, his reign last, keep his team safe, drive off illness from his body"}
+      - {motif: suppliant-seizes-hem-of-god, refs: ["SAA 03 004 r.ii:18'"], note: "ṣābit qannīki"}
+      - {motif: locusts-driven-from-land-by-god, refs: ["SAA 03 004 r.ii:24'-28'"], note: "the evil locust that destroys grain, the zerzerru-locust that dries up orchards, which cuts off the offerings of god and goddess: at your command may they be counted as wind"}
+    hints:
+      - "God raises the poor from the dust: 1 Sam 2:7-8; Ps 113:7-8. Without me you can do nothing / apart from you who can act: Ps 127:1."
+      - "Locusts removed by God: Exod 10:19; Joel 2:20,25; 1 Kgs 8:37. Seizing the hem: Zech 8:23; 1 Sam 15:27."
+  - id: ane-saa03-048-goddess-asks-adad-for-healing-and-birth
+    tradition: ane-akkadian
+    title: "Incantation: a goddess asks her brother Adad for beauty and healing; women in labour (SAA 3 48)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 048"]
+    tags:
+      - {motif: god-asks-what-do-you-request-sister, refs: ["SAA 03 048 o:6'-12'"], note: "kneeling, she opened her hands to the brow of Adad her brother: 'what do you request, sister? what shall they give you? oxen, grain, fat sheep?' 'I do not eat oxen, grain, fat sheep: let them give me the beauty of girls, the manliness of young men; put healing (asûtu) that never ends into my hand'"}
+      - {motif: refusal-of-sacrificial-food-for-gift-of-healing, refs: ["SAA 03 048 o:10'-12'"]}
+      - {motif: healing-ritual-oil-on-chest-finger-in-mouth, refs: ["SAA 03 048 o:13'-b.e:17'"], note: "let the nīṣu fall like a flash of fire from the brow of heaven; you rub his breast with oil, you put her finger into his mouth"}
+      - {motif: women-in-labour-in-house-of-mother-goddess, refs: ["SAA 03 048 r:1-4"], note: "incantation: in the house of Bēlet-ilī, in the courtyard of Bēlet-ekalli, the pregnant ones are pregnant, the women in labour writhe; whoever can, weeps ..."}
+    hints:
+      - "'What shall I give you? Ask!' and the choice of a non-material gift: 1 Kgs 3:5-12; 2 Kgs 2:9; Esth 5:3,6."
+      - "God does not need the flesh of bulls: Ps 50:12-13. Birth pangs imagery: Isa 26:17; Jer 4:31."
+  - id: ane-saa03-015-death-in-childbirth
+    tradition: ane-akkadian
+    title: "Elegy on a woman who died in childbirth (SAA 3 15)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 015"]
+    tags:
+      - {motif: dead-woman-as-boat-adrift, refs: ["SAA 03 015 o:1-4"], note: "'why are you cast adrift like a boat in midstream, your steps broken, your rope cut, your face veiled, crossing the river of the Inner City?' 'How could I not be cast adrift, how could my rope not be cut!'"}
+      - {motif: joy-of-pregnancy-turned-to-death, refs: ["SAA 03 015 o:5-8"], note: "on the day I bore fruit, how glad I was, glad was my husband; on the day of my labour pains my face was clouded, on the day I gave birth my eyes were dimmed"}
+      - {motif: prayer-to-mother-goddess-in-labour, refs: ["SAA 03 015 o:9-12"], note: "I opened my hands to Bēlet-ilī: 'you are the mother of those who give birth, save my life!' When Bēlet-ilī heard, she veiled her face: 'why do you keep praying to me?'"}
+      - {motif: god-veils-face-from-suppliant, refs: ["SAA 03 015 o:11"], note: "tuktallila pānīša"}
+      - {motif: underworld-land-of-no-return, refs: ["SAA 03 015 r:9"], note: "šēpīya issakana ina qaqqar lā tayyārtīya: he set my feet on the land from which I shall not return"}
+      - {motif: death-personified-creeps-into-bedroom, refs: ["SAA 03 015 r:6"], note: "mūtu ina bīt erši hillūta ihlula"}
+    hints:
+      - "Rachel dies in childbirth: Gen 35:16-19; the wife of Phinehas: 1 Sam 4:19-22. Death has come up through our windows: Jer 9:20."
+      - "The land of no return: Job 7:9-10, 10:21, 16:22; 2 Sam 12:23. God hides his face from the suppliant: Ps 13:2, 88:15; Lam 3:44."
+  - id: ane-saa03-047-ninurta-letter-and-colophon
+    tradition: ane-akkadian
+    title: "Literary letter of Ninurta to the king, with Assurbanipal's library colophon (SAA 3 47)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 047"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 047 o:1-5"], note: "the great lord, king of the gods, Ninurta, has sent me to the prince ... to the governor of my hand: say, thus (speaks) Ninurta, son of Enlil"}
+      - {motif: angry-god-who-will-appease-me, refs: ["SAA 03 047 o:6-11"], note: "uššušāku raʾbāku zenâku: I am very distressed, raging, angry; who will ...? to my house who ...? where is the oath (ayyinna tamītu)?"}
+      - {motif: learned-scribe-king, refs: ["SAA 03 047 r:4'-10'"], note: "palace of Assurbanipal, to whom Nabû and Tašmetu granted a wide ear and keen eye, the choice of scribal art which none of the kings before me had learnt; the wisdom of Nabû ... I wrote on tablets, checked, collated and set in my palace for viewing and reading"}
+      - {motif: king-educated-in-scribal-school, refs: ["SAA 03 047 r:6'-8'"]}
+    hints:
+      - "A written message from God/prophet to a king: 2 Chr 21:12-15 (Elijah's letter to Jehoram). God's anger: 'Where is the oath?': Ezek 17:16-19."
+      - "Wise king who collected proverbs and writings: 1 Kgs 5:9-14 (Heb); Prov 25:1 (copied by Hezekiah's men); Eccl 12:9."
+  - id: ane-saa03-037-cultic-commentary-marduk
+    tradition: ane-akkadian
+    title: "Mystical cultic commentary: the king's rites explained as Marduk's victory (SAA 3 37)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 037"]
+    tags:
+      - {motif: cultic-acts-explained-as-myth, refs: ["SAA 03 037 o:2'-34'"], note: "each rite is glossed 'it is Marduk who ...': the king who goes to the cistern = Marduk cast an incantation for Enlil in the Apsû; the ram thrown on the brazier and burned = Qingu burned in fire; torches = Bēl's merciless arrows"}
+      - {motif: qingu-burned-as-ram, refs: ["SAA 03 037 o:9'-10'"], note: "UDU.NITA₂ ina muhhi kinūni ... Qingu šû kī ina išāti iqmû: the ram thrown on the brazier is Qingu when he was burned in fire"}
+      - {motif: god-binds-tiamat-and-qingu, refs: ["SAA 03 037 o:15'", "SAA 03 037 o:18'"], note: "Anzû and Asakku bound inside them; 'Marduk who bound Tiamat with his penis' (ina ušārišu Tiamat ikmû)"}
+      - {motif: child-god-lifted-and-kissed-by-goddess, refs: ["SAA 03 037 o:7'-8'"], note: "the king who kisses the ground before the gods = Marduk whom Mullissu lifted up when small and kissed"}
+      - {motif: blood-and-dung-of-defeated-gods-sprinkled, refs: ["SAA 03 037 o:13'-14'"], note: "smitten, they are soaked in blood and dung; he sprinkled the mountains and lands; the evil gods his fathers and brothers"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 03 037 r:10'-12'"], note: "written and collated according to its original, a copy of a writing-board of Nineveh; tablet of Kiṣir-Nabû, exorcist of the Aššur temple"}
+      - {motif: body-of-god-catalogued-as-substances, refs: ["SAA 03 037 r:2'-5'"], note: "thorn the hair of his armpits, myrrh his moisture, cat (šurānu) his blood, gold his semen, lettuce his breasts"}
+    hints:
+      - "Mythic combat behind cultic acts: Ps 74:13-17, 89:10-11; Isa 27:1, 51:9. The scapegoat/animal standing for an enemy: Lev 16:21-22."
+      - "Typological re-reading of ritual as divine victory: Col 2:15; Heb 9:11-14."
+  - id: ane-saa03-044-assur-letter-on-samas-sumu-ukin
+    tradition: ane-akkadian
+    title: "Letter of Aššur to Assurbanipal on the defeat of Šamaš-šumu-ukin (SAA 3 44)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 044"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 044 o:1-29", "SAA 03 044 r:1-30"], note: "the god speaks in the first person: 'with my great support in which I made you trust ...'"}
+      - {motif: treaty-breaker-punished-by-gods, refs: ["SAA 03 044 o:7-9", "SAA 03 044 r:1-2"], note: "Šamaš-šumu-ukin who did not keep my treaty (adêya lā iṣṣurū) and sinned against the kindness (ṭābtu) of Assurbanipal ... like sheep you seized him and slaughtered him like a lamb"}
+      - {motif: gods-abandon-rebel-king, refs: ["SAA 03 044 o:20-22"], note: "because of these evil deeds, his gods were angry with him, abandoned him and went aside (iṣbatū ahâti)"}
+      - {motif: god-uproots-throne-of-rebel, refs: ["SAA 03 044 o:4"], note: "išdi kussî šarrūtišu assuh palûšu askip: I tore out the foundation of his royal throne, overthrew his reign, ordered the scattering of all Akkad"}
+      - {motif: cannibalism-in-siege, refs: ["SAA 03 044 r:7-10"], note: "the fate of Išdu-kīn (Šamaš-šumu-ukin): in his time famine seized his people, they chewed leather straps ... I made the people of Akkad eat one another's flesh (ušākilšunūti šīra ahāmeš)"}
+      - {motif: treaty-curse-fulfilled-in-history, refs: ["SAA 03 044 r:8-10"], note: "the famine and cannibalism of the ESA curses (SAA 2 6:448-450) presented as the god's punishment of the treaty-breaker"}
+      - {motif: subjects-kiss-feet-of-king, refs: ["SAA 03 044 r:4"], note: "all the kings sitting on daises kneel before you and kiss your feet"}
+      - {motif: bow-of-enemy-broken-kings-bow-strengthened, refs: ["SAA 03 044 r:5"], note: "I broke the bows of Elam and strengthened your bow"}
+      - {motif: god-appeased-by-kings-prayer-and-restoration, refs: ["SAA 03 044 r:19-25"], note: "you calmed my heart, you made peace with me; renovation of those gods and provision of their shrines I entrusted to you; in their assembly they blessed your kingship"}
+      - {motif: good-news-tablet-sent-to-god, refs: ["SAA 03 044 r:28-29"], note: "ṭuppi bussurāt hadê u sulummê tušēbila: you sent the tablet of good news, joy and reconciliation before my divinity"}
+      - {motif: king-stands-in-battle-god-at-his-side, refs: ["SAA 03 044 o:28-29"], note: "at your supplication I stood at your side and poured out the blood of your foes"}
+    hints:
+      - "Fulfilment of covenant curses in history (siege cannibalism): 2 Kgs 6:26-29; Lam 2:20, 4:10; Ezek 5:10 after Deut 28:53-57."
+      - "Breaking the oath sworn in God's name brings judgment: Ezek 17:13-21 (Zedekiah's broken oath to Nebuchadnezzar); 2 Chr 36:13. Gods abandoning their city/king: Ezek 10-11."
+      - "Good news to God and king: 2 Sam 18:19-31; Isa 52:7. Led like a sheep to slaughter: Jer 11:19."
+  - id: ane-saa03-045-assur-letter-elam
+    tradition: ane-akkadian
+    title: "Fragmentary letter of a god to Assurbanipal: Elam's nobles tremble (SAA 3 45)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 045"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 045 o:2'-16'"], note: "I granted you power ... you have no rival on the battlefield; I decreed a good fate for you"}
+      - {motif: enemies-sway-like-reeds-in-storm, refs: ["SAA 03 045 o:6'-8'"], note: "the magnates of Elam keep trembling and quaking before you ... its governors shake like reeds in a storm (kīma qanê mehê išubbū)"}
+      - {motif: princes-kneel-and-praise-king, refs: ["SAA 03 045 o:5'"]}
+      - {motif: king-binds-offerings-before-god, refs: ["SAA 03 045 o:11'-12'", "SAA 03 045 r:3'"], note: "you constantly appeal to my great godhead, prepare offering-arrangements, strew offerings before me; pour libations"}
+    hints:
+      - "A reed shaken by the wind: 1 Kgs 14:15; Matt 11:7. Nations tremble before Israel's king: Ps 2:11, 18:45-46."
+  - id: ane-saa03-046-assur-letter-shepherdship
+    tradition: ane-akkadian
+    title: "Fragmentary letter of Aššur to the king: chosen for shepherdship and sent with arrows (SAA 3 46)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 046"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 046 o:1-12"]}
+      - {motif: deity-chooses-shepherd-king-in-assembly, refs: ["SAA 03 046 o:7-8"], note: "in Ehursaggalkurkurra before my great godhead I desired you and took you for shepherdship (ahtešihka alteqika ana rēʾûti)"}
+      - {motif: god-sends-king-with-weapons-against-enemies, refs: ["SAA 03 046 o:9-10"], note: "with strong weapons, sharp arrows that burn, I sent you to fell the enemies"}
+    hints:
+      - "God took David from the sheepfold to shepherd his people: 2 Sam 7:8; Ps 78:70-72. Arrows sharp in the heart of the king's enemies: Ps 45:6."
+  - id: ane-saa03-023-lament-fragment-ecstatic
+    tradition: ane-akkadian
+    title: "Fragmentary lament: wailing like an ecstatic; 'who taught you kingship?' (SAA 3 23)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 023"]
+    tags:
+      - {motif: mourners-wail-like-ecstatics, refs: ["SAA 03 023 o:2'-7'"], note: "gloom covered ...; holding robes and skirts they moaned like ecstatics (akī mahhê idmumū); she writhed in lamentation"}
+      - {motif: mother-weeps-for-son, refs: ["SAA 03 023 r:2"], note: "his mother shed tears"}
+      - {motif: who-taught-you-kingship, refs: ["SAA 03 023 r:4-6"], note: "... of kingship, who taught you (mannu ulammidka)? her beautiful form, her weeping taught me; lamentation was set on my lips"}
+    hints:
+      - "Prophets/ecstatics wailing: Mic 1:8; 1 Sam 10:5-6. Rachel weeping for her children: Jer 31:15. Lament taught to daughters: Jer 9:19."
+  - id: ane-saa03-027-fragment-burning
+    tradition: ane-akkadian
+    title: "Fragment: burning and prayer for Assurbanipal (SAA 3 27)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 027"]
+    tags:
+      - {motif: blessing-on-king-who-reveres-god, refs: ["SAA 03 027 r:4-7"], note: "heroic king ... I keep blessing you, Assurbanipal; ... they lifted from before me"}
+      - {motif: burning-in-marduk-cult-fragment, refs: ["SAA 03 027 o:2'", "SAA 03 027 r:2"], note: "aqqamû ša Marduk 'I burned ... of Marduk'; libbi iqmû 'burned the heart'"}
+  - id: ane-saa03-031-prayer-to-istar-against-teumman
+    tradition: ane-akkadian
+    title: "Assurbanipal's prayer to Ištar of Arbela against Teumman and the victory (SAA 3 31)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 031"]
+    tags:
+      - {motif: enemy-king-boasts-will-not-rest, refs: ["SAA 03 031 o:5'-13'"], note: "Teumman gathered the forces of Elam; though I had done him no evil, he says 'I will not lie down until I come and eat a banquet in the midst of Nineveh'"}
+      - {motif: king-spreads-hands-to-goddess-in-distress, refs: ["SAA 03 031 o:14'-17'"], note: "when I heard this insolence I opened my hands to Ištar, lady of Arbela: 'I am Assurbanipal whom your father Aššur created; I have come to revere you; what is Teumman against me?'"}
+      - {motif: goddess-answers-king-oracle, refs: ["SAA 03 031 o:18'"], note: "Ištar said to me: 'I ... into the midst ...' (broken)"}
+      - {motif: fear-falls-on-enemy-king, refs: ["SAA 03 031 r:3-6"], note: "when he saw my strength he was afraid; my servants turned ... killed them"}
+      - {motif: defeated-king-and-family-brought-before-gods, refs: ["SAA 03 031 r:8-11"], note: "he with all his family (qinnišu) in neck-stocks they brought before Mullissu and the Lady of Arbela; they put the iron sword to him"}
+      - {motif: land-made-to-speak-with-one-mouth, refs: ["SAA 03 031 r:13-17"], note: "by command of Aššur, Bēl, Nabû, Nergal, Ištar of Nineveh and the Lady of Arbela I put Elam 'to one mouth', settled Assyrians there, imposed tribute"}
+    hints:
+      - "Hezekiah spreads the blasphemous letter before YHWH: 2 Kgs 19:14-19; Isa 37:14-20. Enemy's boast 'I will pursue, I will divide the spoil': Exod 15:9."
+      - "Captured king brought in chains before the god: 1 Sam 15:32-33 (Agag before YHWH at Gilgal); Judg 1:6-7."
+  - id: ane-saa03-041-divine-letter-der-campaign
+    tradition: ane-akkadian
+    title: "God's answering letter on the campaign against Der and the flight to Elam (SAA 3 41)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 041"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 041 o:5'-r:18"], note: "the god quotes the king's report 'what you wrote to me' (ša tašpuranni mā ...) and repeats it back as confirmed 'by the mouth of my great godhead it fell'"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["SAA 03 041 o:5'-15'", "SAA 03 041 r:5-18"], note: "the king's report of Der (great cult city founded like a mountain-knot, besieged and captured, its gods and property, palace, royal bed, women, sons, daughters, 30,000 captives, 476 cities burned) is repeated verbatim in the god's reply"}
+      - {motif: city-gods-carried-off-as-booty, refs: ["SAA 03 041 o:7'-10'", "SAA 03 041 o:14'-15'"], note: "ilāni āšibūt Dēri adi makkūršunu: the gods dwelling in Der together with their property"}
+      - {motif: city-burned, refs: ["SAA 03 041 o:4'", "SAA 03 041 o:11'", "SAA 03 041 r:3-4"], note: "256 / 476 cities of its environs I destroyed, demolished, burned with fire (attapal attaqar ina išāti asarap)"}
+      - {motif: people-flee-before-gods-radiance, refs: ["SAA 03 041 r:5-18"], note: "from the awesome radiance of Aššur (namurrat Aššur) they feared, abandoned their cities and fled to Elam to save their lives, from Parsumaš to Bit-Bunakki"}
+    hints:
+      - "Gods of a city carried off: Jer 48:7, 49:3; Isa 46:1-2; 2 Kgs 18:34. Terror of God's glory makes peoples flee: Exod 23:27; Isa 2:19-21."
+  - id: ane-saa03-006-hymn-to-tasmetu
+    tradition: ane-akkadian
+    title: "Hymn to Tašmetu and the procession of Nabû, with prayer for Assurbanipal (SAA 3 6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 006"]
+    tags:
+      - {motif: hymn-to-goddess-consort-of-nabu, refs: ["SAA 03 006 o:1-7"], note: "Tašmetu, wide of ear, princess, queen, beautiful, alluring, goddess of goddesses, queen of queens, princess of Ešarra, who intercedes (muṣallītu), wife of Nabû; who raises and lowers"}
+      - {motif: goddess-intercedes-with-high-god, refs: ["SAA 03 006 o:6"], note: "muṣallītu, the one who prays (for others)"}
+      - {motif: monthly-procession-of-deity, refs: ["SAA 03 006 o:8-11"], note: "on the 5th day each month Tašmetu processes, Nabû son of Bēl goes out from the tablet-house to the family-head function"}
+      - {motif: god-who-raises-and-lowers, refs: ["SAA 03 006 o:7"], note: "mušaqqītu mušappiltu"}
+      - {motif: procession-through-named-temple-gates, refs: ["SAA 03 006 r:1-13"], note: "gate of Ea, gate of Dunga, courtyard of Ešuburanna, main court of Ekur, cella, gate Kunuš-kadru, to Ehursaggalkurkurra, dais of Enlil-ship; meal of Ekur, pure kurunnu-beer day and night"}
+      - {motif: blessing-on-king-who-reveres-god, refs: ["SAA 03 006 r:14-20"], note: "bless Assurbanipal: make firm the foundation of his throne, long days, his offspring and progeny; make all princes bow to him; this song ..."}
+    hints:
+      - "Liturgy of entrance through the temple gates: Ps 24:7-10, 118:19-20; Ps 68:25. He brings low and lifts up: 1 Sam 2:7; Ps 75:8."
+  - id: ane-saa03-039-mystical-body-and-heavens
+    tradition: ane-akkadian
+    title: "Mystical miscellanea I: the body of a god, Ištar as Tiamat, the three heavens and three earths (SAA 3 39:o)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 039 o:1-38"]
+    tags:
+      - {motif: body-of-god-catalogued-as-substances, refs: ["SAA 03 039 o:1-18"], note: "tamarisk his skull, cedar his knees, apple his ankles, snake his penis, lyre his hand, cat the blood of his heart, scorpion his lip, lion his large limbs, dog his small limbs, date palm his backbone, reeds his fingers, silver his skull, gold his semen, fish his breasts, oil his tears, vine his eyes"}
+      - {motif: istar-of-nineveh-is-tiamat-and-wet-nurse-of-bel, refs: ["SAA 03 039 o:19-23"], note: "Ištar of Durna (Nineveh) is Tiamat; she is the wet nurse of Bēl; four eyes, four ears; her upper parts Bēl, lower parts Mullissu; the Lady of Arbela is the mother of Bēl; also she is Antu who makes funerary offerings to Anu"}
+      - {motif: royal-chariot-as-mythic-scene, refs: ["SAA 03 039 o:24-29"], note: "the chariot of Elam without a seat carries the corpse of Enmešarra; the horses are the ghost of Anzû; the king standing in the chariot is Ninurta; the ecstatic (ša-šēhi) beside him holds the tongues of Anzû"}
+      - {motif: three-heavens, refs: ["SAA 03 039 o:30-33"], note: "upper heaven of luludānītu-stone, of Anu, he settled 300 Igigi in it; middle heaven of saggilmud-stone, of the Igigi, Bēl on a lapis dais in a cella; lower heaven of jasper, of the stars, he drew the constellations of the gods on it"}
+      - {motif: three-earths-humans-ea-anunnaki, refs: ["SAA 03 039 o:34-37"], note: "upper earth: he lay down the spirits of mankind in it; middle earth: he settled Ea his father in it; lower earth: he shut in the 600 Anunnaki"}
+      - {motif: celestial-firmaments-of-precious-stone, refs: ["SAA 03 039 o:30-33"]}
+    hints:
+      - "Heaven and the heaven of heavens: Deut 10:14; 1 Kgs 8:27; 2 Cor 12:2 (third heaven). Sapphire pavement under God's feet: Exod 24:10; Ezek 1:26."
+      - "Seven heavens in layers: Q 67:3, 71:15, 41:12 ('adorned the lowest heaven with lamps'); Q 65:12 (seven earths likewise). Compare 'the lowest heaven of jasper' with the stars drawn on it."
+  - id: ane-saa03-039-tiamat-cut-and-secret-lore
+    tradition: ane-akkadian
+    title: "Mystical miscellanea II: Tiamat split like a dried fish, ghosts of the slain gods, secret colophon (SAA 3 39:r)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 039 r:1-31"]
+    tags:
+      - {motif: monster-split-into-heaven-and-earth, refs: ["SAA 03 039 r:1-2"], note: "Bēl bound Tiamat, seized her, fixed her fate, broke her like a fish for drying into two (kīma nūnī mašṭê ana šinīšu)"}
+      - {motif: rivers-from-monsters-eyes, refs: ["SAA 03 039 r:3"], note: "Tigris her right eye, Euphrates her left eye"}
+      - {motif: sun-and-moon-circuit-measured, refs: ["SAA 03 039 r:4-5"], note: "40 double-hours the circuit of Šamaš, 60 the circuit of Sîn; Marduk is in the sun, Nabû in the moon"}
+      - {motif: animals-as-ghosts-of-slain-gods, refs: ["SAA 03 039 r:9-14"], note: "the wasp ... the onager is the ghost of Enlil, the wolf the ghost of Anu; Bēl made them roam the steppe, the gazelles his daughters; the camel is the ghost of Tiamat: Bēl cut off her horns, feet and tail"}
+      - {motif: god-bound-so-that-people-not-forget, refs: ["SAA 03 039 r:15-16"], note: "Bēl bound her and, that the people might not forget, showed it; the crushing that is said in the mouth of the people, I saw with my own hands"}
+      - {motif: qingu-burned-as-ram, refs: ["SAA 03 039 r:17-19"], note: "the ox and ram roasted alive thrown on the ground = Qingu with his seven sons when he struck them; the dove thrown = Tiamat thrown and killed"}
+      - {motif: son-god-avenges-father-receives-kingship, refs: ["SAA 03 039 r:20-24"], note: "the king who comes out of the temple with the golden crown and sits on the throne = Ninurta who avenged his father, the gods his fathers ashamed; given sceptre, throne, reign; adorned with royal radiance; the cedar burned before them = the smell of the rotting flesh of the evil gods"}
+      - {motif: secret-knowledge-for-initiates-only, refs: ["SAA 03 039 r:26-27"], note: "pirišti ilāni rabûti, mūdû mūdâ likallim, lā mūdû ay īmur; ikkib ilāni rabûti: secret of the great gods: let the knowing show the knowing; the uninitiated shall not see; taboo of the great gods"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 03 039 r:27-31"], note: "written and collated according to its original; tablet of Kiṣir-Aššur, exorcist of the Aššur temple"}
+    hints:
+      - "Do not give what is holy to dogs: Matt 7:6; 'the secret things belong to YHWH': Deut 29:28. Rivers from Eden: Gen 2:10-14."
+      - "The sea monster split: Ps 74:13; Gen 1:6-8 (waters divided). Sun and moon set in their courses: Ps 19:5-7, 104:19; Q 36:38-40 ('the sun runs to its resting place ... the moon we have measured in stations')."
+  - id: ane-saa03-011-coronation-hymn-of-assurbanipal
+    tradition: ane-akkadian
+    title: "Coronation hymn of Assurbanipal: 'Aššur is king!' (SAA 3 11)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 011"]
+    tags:
+      - {motif: god-gives-king-shepherdship-of-four-quarters, refs: ["SAA 03 011 o:1-3"], note: "may Šamaš, king of heaven and earth, elevate you to shepherdship over the four quarters; may Aššur who gave you the sceptre lengthen your days and years; spread your land wide at your feet"}
+      - {motif: yhwh-malakh-proclamation, refs: ["SAA 03 011 o:15"], note: "Aššur šarru, Aššur-ma šarru: 'Aššur is king, indeed Aššur is king! Assurbanipal is the creation of his hands'"}
+      - {motif: king-speaks-and-hears-justice, refs: ["SAA 03 011 o:8"], note: "qabû šemû kitti mīšaru ana širikti lū šarkūšu: may eloquence, understanding, truth and justice be given him as a gift"}
+      - {motif: abundance-and-low-prices-in-good-reign, refs: ["SAA 03 011 o:5-11"], note: "as grain, silver, oil, cattle and salt of Bariku are good, so may Assurbanipal be pleasing to the gods; may the people of Assur buy 30 kor of grain, 3 seah of oil, 30 minas of wool for one shekel of silver"}
+      - {motif: small-and-great-speak-and-listen, refs: ["SAA 03 011 o:12-14"], note: "ṣehru liqbīma rabû lišme, rabû liqbīma ṣehru lišme: let the small speak and the great listen; let the great speak and the small listen; may concord and peace be established in Assyria"}
+      - {motif: blessing-rain-flood-harvest-for-king, refs: ["SAA 03 011 o:20"], note: "in his years may there be constant rain from heaven and floods from the springs"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["SAA 03 011 r:5-8"], note: "Anu gave his crown, Enlil gave his throne, Ninurta gave his weapon, Nergal gave his radiance, Nusku appointed counsellors"}
+      - {motif: liars-against-king-destroyed, refs: ["SAA 03 011 r:9-14"], note: "whoever speaks insolence and lies to the king: if he is important, die by the weapon, if rich, become poor; whoever plots evil against the king, Erra will call his head to account; foundation a storm, hem chaff (išissu mehû sissiktašu hāmu)"}
+      - {motif: wicked-as-chaff, refs: ["SAA 03 011 r:14"]}
+      - {motif: gods-gather-to-bless-king, refs: ["SAA 03 011 r:15-18"], note: "assemble, all you gods of heaven and earth, bless king Assurbanipal, the counsellor, the man; put weapon of battle in his hand; give him the black-headed people to shepherd"}
+    hints:
+      - "'YHWH is king': Ps 93:1, 96:10, 97:1, 99:1; 1 Chr 16:31. Coronation psalms: Ps 2, 72, 110; the king's crown given by God: Ps 21:4."
+      - "Justice and abundance in the king's days: Ps 72:1-7,16. Chaff before the wind: Ps 1:4. Small and great hear alike: Deut 1:17."
+  - id: ane-saa03-008-hymn-to-arbela
+    tradition: ane-akkadian
+    title: "Hymn in praise of Arbela and its goddess (SAA 3 8)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 008"]
+    tags:
+      - {motif: city-hymn-litany-refrain, refs: ["SAA 03 008 o:1-24"], note: "Arbela, Arbela! heaven without rival, city of joyful song, city of festivals, house of joy, exalted tavern, wide temple, dais of laughter, high gate, city of images, house of counsel, bond of the lands"}
+      - {motif: city-like-heaven-foundations-firm, refs: ["SAA 03 008 o:14-16"], note: "kī šamê šaqi Arbail, išdāšu kunnā kī šamāmī: Arbela is high as heaven, its foundations firm as the heavens"}
+      - {motif: city-image-of-babylon, refs: ["SAA 03 008 o:17"], note: "tamšīlšu Babili šinnassu Aššur: its image Babylon, its likeness Assur"}
+      - {motif: wealth-of-lands-brought-to-sacred-city, refs: ["SAA 03 008 o:18-19"], note: "great shrine, dais of fates, gate of heaven: into it enters the tribute of the lands"}
+      - {motif: goddess-rides-lion, refs: ["SAA 03 008 r:5'-7'"], note: "the Lady sits on a lion, strong lions crouch beneath her, the kings of the land hide their faces before her"}
+      - {motif: city-gate-like-sky-sun-rises-through, refs: ["SAA 03 008 o:18"], note: "abul šamê: gate of heaven"}
+      - {motif: cult-musicians-and-kurgarru-before-goddess, refs: ["SAA 03 008 r:11'-16'"], note: "covered drums, spindle of ..., wall of the kurgarrû, songs of the kulmašītu, kettledrums"}
+      - {motif: all-who-enter-and-leave-rejoice, refs: ["SAA 03 008 r:2'-4'", "SAA 03 008 r:18'"], note: "all lands rejoice; those who go out of Arbela and enter it are joyful"}
+    hints:
+      - "Zion praised: Ps 48:2-4,13-14, 87:1-3, 122; 'this is the gate of heaven': Gen 28:17. Founded like the heavens: Ps 78:69."
+      - "Goddess on a lion: the Qudshu iconography; compare the cherubim throne Ezek 1."
+  - id: ane-saa03-040-cultic-calendar-commentary
+    tradition: ane-akkadian
+    title: "Cultic calendar commentary: Marduk binds Anu, Qingu thrown from the roof (SAA 3 40)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 040"]
+    tags:
+      - {motif: cultic-acts-explained-as-myth, refs: ["SAA 03 040 o:1-23", "SAA 03 040 r:13-18"], note: "day by day in Shebat and a following month: 'the day of entry when the lord bound his enemies'; 'the day of silence when Qingu and his 40 sons were thrown from the roof'; day 20 the day of wrath (ibbû) when Marduk bound Anu; day 24 the king lifts the crown = Bēl cut off Anu's neck, took kingship, bathed and put on a cloak"}
+      - {motif: qingu-thrown-down-with-sons, refs: ["SAA 03 040 o:3-4"], note: "oil and honey thrown on the effigies are their blood"}
+      - {motif: god-binds-tiamat-and-qingu, refs: ["SAA 03 040 o:2", "SAA 03 040 o:5-6"], note: "Anu, the Sebettu, sons of Enmešarra bound"}
+      - {motif: younger-god-deposes-and-beheads-sky-god, refs: ["SAA 03 040 o:6", "SAA 03 040 o:13-14", "SAA 03 040 r:16-17"], note: "Marduk the king bound Anu, cut off his head, took kingship, bathed and dressed"}
+      - {motif: leprous-thrown-in-river-as-anu, refs: ["SAA 03 040 o:16"], note: "the leper (garbānu) who is sunk in the river is the leprous Anu"}
+      - {motif: god-flayed-and-skin-displayed, refs: ["SAA 03 040 o:22"], note: "when the lord bound him, he flayed his skin (mašakšu ikūṣ)"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 03 040 r:18"], note: "kīma labīrišu šaṭirma bari"}
+    hints:
+      - "A younger god dethrones the old sky god: compare Ps 82 (God judges the gods), Dan 7:9-14 (Ancient of Days and the one like a son of man)."
+      - "Day of wrath: Zeph 1:15; Isa 13:9."
+  - id: ane-saa03-035-marduk-ordeal-1
+    tradition: ane-akkadian
+    title: "The Marduk Ordeal I: Bēl held in the house of confinement, Nabû searches, Bēl prays for life (SAA 3 35:1-27)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Assyrian version (Assur and Nineveh copies combined)
+    read: ["SAA 03 035 1-27"]
+    tags:
+      - {motif: imprisoned-god-in-house-of-confinement, refs: ["SAA 03 035 4", "SAA 03 035 21", "SAA 03 035 23"], note: "Bēl šû ina bīt ṣabte šûtu kalî: Bēl is held in the house of the captive; the šerʾītu-garment he wears is gathered in the dungeon (kadammu); the red wool under him is the blows struck him, soaked in his blood"}
+      - {motif: river-ordeal-of-god, refs: ["SAA 03 035 7", "SAA 03 035 20"], note: "he rides to the river ordeal (hursān), on the bank of the ordeal they question him; his garments are taken to the ordeal"}
+      - {motif: messenger-of-gods-brings-god-out-of-prison, refs: ["SAA 03 035 5-6"], note: "the messenger of Šamaš and Adad brings him out of the house of confinement: 'who (else) would bring him out?'"}
+      - {motif: son-god-comes-to-ask-after-captive-father, refs: ["SAA 03 035 8", "SAA 03 035 15-16"], note: "Nabû who comes from Borsippa is coming for the well-being of his captive father; he stands over him; the 'sinners' who stood with Bēl"}
+      - {motif: captive-god-prays-asks-what-is-my-sin, refs: ["SAA 03 035 21"], note: "Bēl who looks at the heaven prays to Aššur, Anu, Sîn, Šamaš, Adad: 'keep me alive!' (ballitāni)"}
+      - {motif: goddess-searches-streets-for-captive-god, refs: ["SAA 03 035 19"], note: "Bēlet-ilī who roams the streets looks for Bēl: 'where is he held captive?' (ayyaka ṣabit)"}
+      - {motif: god-thirsts-and-weeps, refs: ["SAA 03 035 24", "SAA 03 035 27"], note: "in fear he quickly gets thirsty; the water of hand-washing is the tears he wept"}
+      - {motif: guilty-party-not-sharing-god-fate, refs: ["SAA 03 035 17-18"], note: "the god who does not go with him is the son of Aššur, the guard appointed over him in Cutha; 'I am not a sinner, I am not involved with him'; Aššur placed the judgment before him: 'he is innocent'"}
+      - {motif: pig-and-reed-offerings-before-nabu, refs: ["SAA 03 035 15"], note: "the reed-shoots of pigs laid on Nabû's road from Borsippa"}
+      - {motif: exorcists-weep-and-call-names-before-god, refs: ["SAA 03 035 22"], note: "the exorcists who go before him reciting incantations are his people lamenting before him"}
+    hints:
+      - "Jeremiah lowered into the cistern/dungeon, drawn out by a messenger: Jer 37:16, 38:6-13. Joseph in the pit and prison: Gen 37:24, 39:20-41:14."
+      - "The bride searching the streets for her beloved: Song 3:1-3, 5:6-8. Prayer from confinement 'keep me alive': Ps 88; Jonah 2."
+      - "Some read the text against Christian passion narratives (seized, beaten, tried, guarded, sought by a woman at the tomb): Mark 15-16; Luke 23-24; the comparison is contested."
+  - id: ane-saa03-035-marduk-ordeal-2
+    tradition: ane-akkadian
+    title: "The Marduk Ordeal II: Enūma eliš recited, Zarpanitu prays, Bēlet-ilī at the grave, Ninurta defeats Anzû, curse colophon (SAA 3 35:28-72)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 035 28-72"]
+    tags:
+      - {motif: enuma-elish-recited-at-new-year, refs: ["SAA 03 035 28"], note: "Enūma eliš which is recited, which they sing before Bēl in Nisan: it is about his being held captive; he prays and supplicates"}
+      - {motif: captive-god-prays-asks-what-is-my-sin, refs: ["SAA 03 035 29"], note: "he speaks before Šamaš: 'I did good things for Aššur; by Aššur's command I waged battle; what is my sin?' (mīnu hīṭāya)"}
+      - {motif: zarpanitu-prays-for-life-of-captive-god, refs: ["SAA 03 035 30"], note: "Zarpanitu, with outstretched hands, prays to Aššur, Anu, Sîn, Šamaš, Adad: 'keep Bēl alive! do not kill him!'"}
+      - {motif: ecstatic-weeps-going-to-goddess, refs: ["SAA 03 035 31"], note: "the ecstatic (mahhû) who goes before the Lady of Babylon is a messenger; he weeps to her breast; she sends him away: 'my brother, my brother'"}
+      - {motif: goddess-searches-streets-for-captive-god, refs: ["SAA 03 035 32"], note: "Bēlet-ilī goes to the gate of the graves, looking for him: 'if he is laid in the grave, let me lift him and bury him'"}
+      - {motif: evildoers-head-tied-to-goddess-chariot, refs: ["SAA 03 035 35-37"], note: "who is the sinner? the head bound to the chariot-pole of the Lady of Babylon is the head of the sinner who stood with him and counselled him"}
+      - {motif: goddess-nursed-captive-god-shows-compassion, refs: ["SAA 03 035 39"], note: "the milk milked before Ištar of Nineveh: because she raised him she showed compassion (rēmu) on him"}
+      - {motif: god-escapes-from-tomb-or-ziggurat, refs: ["SAA 03 035 40-41"], note: "he fled into the 'tomb' on the ziggurat; the gods shut him in, closed the door; they pierced holes in the door and fought there"}
+      - {motif: assur-existed-before-heaven-and-earth, refs: ["SAA 03 035 44-46"], note: "the garment: 'it is waters, lies' — said in Enūma eliš: 'when heaven and earth were not created, Aššur came into being; when city and house came into being, he came into being'; the water over Aššur is the sin of (Bēl) in the dungeon"}
+      - {motif: god-existed-before-heaven-and-earth, refs: ["SAA 03 035 45"], note: "assigned here to Aššur, displacing Marduk"}
+      - {motif: anzu-defeated-by-warrior-god, refs: ["SAA 03 035 51-54"], note: "the Kislev race is Ninurta's: when Aššur sent Ninurta to conquer Anzû, Qingu and Asakku, Nergal said before Aššur 'Anzû, Qingu and Asakku are conquered'; 'go, bring the good news to all the gods!' and they rejoiced"}
+      - {motif: good-news-brought-to-gods, refs: ["SAA 03 035 53-54"], note: "bussir ... upassar: announce the good news"}
+      - {motif: dog-of-gula-goes-around-city, refs: ["SAA 03 035 62-63"], note: "Sakkukutu the wailing woman circles the city; the dog that crosses Esabad is the messenger Gula sends"}
+      - {motif: chariot-without-its-lord, refs: ["SAA 03 035 65"], note: "the chariot going to the akītu-house without its lord, rocking"}
+      - {motif: curse-flesh-to-dogs-name-and-seed-destroyed, refs: ["SAA 03 035 68-72"], note: "whoever erases this tablet, puts it in river or well, or sees it and makes it heard to one who does not know: may the gods of heaven and earth curse him with an unrelenting curse, show him no mercy, remove his name and seed from the land, put his flesh in a dog's mouth"}
+      - {motif: secret-knowledge-for-initiates-only, refs: ["SAA 03 035 68-69"]}
+    hints:
+      - "Women go to the tomb and seek the dead lord: Mark 16:1-6; Luke 24:1-5; John 20:11-15 (contested comparison). 'What is my sin?': 1 Sam 20:1; Job 10:2, 13:23."
+      - "Good news brought to the gods/the city: Isa 40:9, 52:7. Before the mountains God existed: Ps 90:2; Prov 8:23-25."
+      - "Curse on whoever erases the book: Rev 22:18-19; ESA's tablet curses (SAA 2 6:397-413). Name and seed removed, flesh to dogs: 1 Kgs 14:11, 21:24."
+  - id: ane-saa03-049-gilgamesh-scribe-fragment
+    tradition: ane-akkadian
+    title: "Fragment naming Gilgameš, scribes and a goddess with writing reeds (SAA 3 49)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 049"]
+    tags:
+      - {motif: scribal-goddess-holds-tablets, refs: ["SAA 03 049 o:4-6"], note: "writing boards and tablet-reeds bound at their waists; ... established on her knees, tablet-reeds bound at her waist; make firm the tiara of your head"}
+      - {motif: gilgamesh-named-in-later-text, refs: ["SAA 03 049 o:1", "SAA 03 049 o:9"], note: "Gilgameš ... the king's message; the work-assignment of Gilgameš"}
+      - {motif: herald-of-assyria-palace, refs: ["SAA 03 049 o:7", "SAA 03 049 o:10"], note: "the palace of the herald of Assyria ... kingship to the herald"}
+    hints:
+      - "The man clothed in linen with a writer's case at his waist: Ezek 9:2-3,11."
+  - id: ane-saa03-003-assurbanipal-hymn-to-istars
+    tradition: ane-akkadian
+    title: "Assurbanipal's hymn to the Ištars of Nineveh and Arbela: 'I knew no father or mother' (SAA 3 3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 003"]
+    tags:
+      - {motif: goddess-without-rival-among-gods, refs: ["SAA 03 003 o:1-7"], note: "the Lady of Nineveh and the Lady of Arbela, who have no rival among the great gods; their word is fire, their speech firm forever"}
+      - {motif: king-created-by-goddesses-from-birth, refs: ["SAA 03 003 o:8-12", "SAA 03 003 o:23"], note: "I am Assurbanipal, their heart's desire, seed of Baltil, born in Nineveh, creation of Emašmaš and Egašankalamma, whose kingship they made great from the House of Succession"}
+      - {motif: king-nursed-on-goddess-lap, refs: ["SAA 03 003 o:13"], note: "ul īdi abu u ummi ina burki ištarātiya arbâ anāku: I knew no father or mother, I grew up on the knees of my goddesses"}
+      - {motif: gods-lead-king-like-child, refs: ["SAA 03 003 o:14-15"], note: "the great gods guided me like a child (kī laʾê), walked at my right and left"}
+      - {motif: personal-god-at-right-goddess-at-left, refs: ["SAA 03 003 o:15-17"], note: "good šēdu and lamassu set at my side, entrusted my life to guards of well-being"}
+      - {motif: not-by-my-strength-but-by-god, refs: ["SAA 03 003 r:4-6"], note: "ul ina danāniya ul ina danān qaštiya, ina emūq ... u danāni ištarātiya: not by my own strength, not by the strength of my bow, but by the might and strength of my goddesses I subdued the lands to the yoke of Aššur"}
+      - {motif: tribute-from-recalcitrant-lands, refs: ["SAA 03 003 o:20-22", "SAA 03 003 r:7-10"], note: "all the recalcitrant lands that did not submit to my fathers now bring yearly tribute, guard the gates of Aššur and Mullissu daily, seek peace with supplication and kiss my feet"}
+      - {motif: goddess-as-mother-who-bore-king, refs: ["SAA 03 003 r:14-17"], note: "the Lady of Nineveh, the mother who bore me (ummu ālittiya), gave me kingship without equal; the Lady of Arbela, my creator, ordered everlasting life"}
+    hints:
+      - "Not by my bow do I trust: Ps 44:4-7; Hos 1:7; Zech 4:6; 1 Sam 17:47; Ps 20:8. Though father and mother forsake me, YHWH takes me up: Ps 27:10."
+      - "God taught Ephraim to walk, taking them by the arms: Hos 11:1-3. Called from the womb: Isa 49:1,5; Jer 1:5. Q 8:17 ('you did not kill them, but God killed them; you did not throw when you threw')."
+  - id: ane-saa03-018-sargon-elamite-bow-fragment
+    tradition: ane-akkadian
+    title: "Fragment from a Sargonid epic: guards, horsemen, the bow of Elam (SAA 3 18)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 018"]
+    tags:
+      - {motif: monster-guardians-at-temple-gates, refs: ["SAA 03 018 o:2'-4'"], note: "scorpion-man, Šerua and Bēlet-ekalli, at the right and left of the gates"}
+      - {motif: breaking-the-bow-of-elam, refs: ["SAA 03 018 r:8'-12'"], note: "one bow like a bow ... to the Elamite bow; the bow in your grip, Elam (broken)"}
+      - {motif: king-campaign-against-elam-fragment, refs: ["SAA 03 018 r:3'-14'"], note: "the king seized the mountain; Sargon; men of Ellipi and Anzan"}
+    hints:
+      - "'I will break the bow of Elam, the mainstay of their might': Jer 49:35."
+  - id: ane-saa03-019-assurbanipal-and-istar-fragment
+    tradition: ane-akkadian
+    title: "Fragment: Assurbanipal trod the path of the sea; 'ask, ask!' (SAA 3 19)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 019"]
+    tags:
+      - {motif: king-treads-path-through-sea, refs: ["SAA 03 019 o:3'-4'"], note: "girru tiāmat akbusa ... abullu kīnūti apti: I trod the road of the sea ... I opened the gate of loyalty"}
+      - {motif: god-asks-what-do-you-request-sister, refs: ["SAA 03 019 o:5'-8'"], note: "Assurbanipal opened his mouth: 'erši erši ...' (ask, ask, murmur, seek); 'you, Ištar ...'"}
+    hints:
+      - "God's path in the sea: Ps 77:20; Isa 43:16. 'Ask, and it shall be given': Ps 2:8; Matt 7:7."
+  - id: ane-saa03-022-elamite-campaign-epic
+    tradition: ane-akkadian
+    title: "Epic fragment of Assurbanipal's Elamite war: Madaktu broken, graves violated, Nabû-bēl-šumāti (SAA 3 22)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 022"]
+    tags:
+      - {motif: royal-city-of-enemy-destroyed, refs: ["SAA 03 022 o:7'-8'"], note: "the lord of kings in the anger of his heart broke as far as Madaktu"}
+      - {motif: city-gods-carried-off-as-booty, refs: ["SAA 03 022 o:9'"], note: "they plundered their gods"}
+      - {motif: enemy-graves-violated, refs: ["SAA 03 022 o:10'"], note: "qubūrātešunu ih[...]: their graves (broken verb); Assurbanipal's inscriptions record the exhumation of Elamite royal bones"}
+      - {motif: fugitive-rebel-demanded-from-foreign-king, refs: ["SAA 03 022 o:11'-17'", "SAA 03 022 o:24'"], note: "the king of Elam alone; Ummanaldašu cried out; Nabû-bēl-šumāti ... before the king ... 'come!'"}
+      - {motif: treaty-breaker-punished-by-gods, refs: ["SAA 03 022 r:12"], note: "gērûšu ul ibbašši ša ina adêšu ibbalkitu: whoever transgresses his treaty, there is no opponent of his (that survives)"}
+      - {motif: blessing-on-king-who-reveres-god, refs: ["SAA 03 022 r:13-17"], note: "I keep blessing my lord with all my heart: may Šamaš of the lands, Nur of his father's house, Aššur and Bēl bless you, Nabû strengthen your bow, Mullissu and the Lady of Arbela lengthen your kingship forever, grant you the life of the kings of the lands"}
+    hints:
+      - "Bones of kings brought out of their graves: Jer 8:1-2; 2 Kgs 23:16-18; Amos 2:1 (burning the bones of the king of Edom)."
+  - id: ane-saa03-028-praise-and-tribute-fragment
+    tradition: ane-akkadian
+    title: "Fragment of a royal praise poem: Šamaš who does not accept slander; products from the upper sea, Tyre and Elam (SAA 3 28)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 028"]
+    tags:
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 03 028 o:5'-6'", "SAA 03 028 r:5'-7'"], note: "as far as the lower sea of the west ... brought him tribute, pulled his yoke; the upper sea; Tyre (Ṣurri)"}
+      - {motif: sun-god-saves-wronged-rejects-slander, refs: ["SAA 03 028 o:7'-9'"], note: "who revives the righteous, Šamaš who does not accept slander (lā māhir karṣi), who saves the wronged (mušēzib habli)"}
+      - {motif: few-made-many, refs: ["SAA 03 028 o:12'"], note: "īṣāti ana muʾdê utarru: they turn the few into many"}
+      - {motif: lips-sweet-as-honey, refs: ["SAA 03 028 o:11'"], note: "šaptāšu duššupāte: his sweetened lips"}
+      - {motif: luxury-produce-catalogue, refs: ["SAA 03 028 r:3'-15'"], note: "pomegranate, cup of drinking, release-plants of Nisan, ghee of cattle and sheep, opopanax of the mountains, best oil, land of sand of Elam, drums"}
+    hints:
+      - "God raises the righteous and judges the oppressed: Ps 146:7-9; slander not accepted: Ps 15:3, 101:5. The least becomes a thousand: Isa 60:22."
+      - "Tyre's trade catalogue: Ezek 27:12-25."
+  - id: ane-saa03-030-mock-incantation-bel-etir
+    tradition: ane-akkadian
+    title: "Mock incantation against Bēl-ēṭir son of Ibâ (SAA 3 30)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 030"]
+    tags:
+      - {motif: satire-mocking-upstart-official, refs: ["SAA 03 030 o:1-5"], note: "incantation: Bēl-ēṭir, robbery, 'sexually known' twice, swollen-eyed twice, ... son of Ibâ, heap of excrement of a farting woman, low nest, servant of a dead god, house whose star has vanished from heaven, slave of the Balihitu woman, bearded catamite"}
+      - {motif: parody-of-incantation-genre, refs: ["SAA 03 030 o:1"], note: "begins ÉN (šiptu), the incantation rubric, used for invective"}
+      - {motif: obscene-oath-in-invective, refs: ["SAA 03 030 o:6-10"], note: "once, his house dark ... he swore by Bēl: 'when they released ...'; hold your hips; now I have told you; rise against me"}
+    hints:
+      - "Mockery songs against an enemy: Ps 69:13; Lam 3:14,63. Q 111 (curse-sura on Abu Lahab and his wife)."
+  - id: ane-saa03-033-sin-of-sargon
+    tradition: ane-akkadian
+    title: "The Sin of Sargon: Sennacherib divines why his father died unburied (SAA 3 33)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 033"]
+    tags:
+      - {motif: king-reflects-on-hidden-will-of-gods, refs: ["SAA 03 033 o:1'-7'"], note: "I, Sennacherib, cautious prince, who reveres the gods ... daily I pondered in my heart: 'who can understand the works of the gods? their divinity?'"}
+      - {motif: tyrant-denied-burial, refs: ["SAA 03 033 o:8'-9'", "SAA 03 033 o:19'-20'"], note: "the death of Sargon my father, who was killed in enemy land and not buried in his house (ina bītišu lā qebru)"}
+      - {motif: dynastic-sin-investigated-by-divination, refs: ["SAA 03 033 o:10'-16'"], note: "let me investigate by extispicy the sin of Sargon my father ... I gathered the haruspices, divided them into three or four groups so they could not approach or speak with each other; I asked Šamaš and Adad"}
+      - {motif: independent-diviners-agree, refs: ["SAA 03 033 o:21'-22'"], note: "the haruspices whom I had divided into 3 or 4 groups spoke with one mouth and answered me a firm yes"}
+      - {motif: sin-of-favoring-own-gods-over-babylons, refs: ["SAA 03 033 o:17'-19'"], note: "because he exalted the gods of Assyria too much and placed (them above) the gods of Akkad, and did not keep the treaty of the king of the gods (adê šar ilāni lā iṣṣuru), Sargon was killed in enemy land and not buried"}
+      - {motif: treaty-breaker-punished-by-gods, refs: ["SAA 03 033 o:19'"]}
+      - {motif: obstruction-of-making-gods-statue, refs: ["SAA 03 033 r:21'-23'"], note: "after I made the statue of Aššur, the Assyrian scribes blocked me (upparrikūnni) and did not let me make the statue of Marduk, and cut short my life"}
+      - {motif: deathbed-charge-to-successor, refs: ["SAA 03 033 r:1-2", "SAA 03 033 r:11'-28'"], note: "you, my son ... ; as I did, investigate by divination; take my hidden lore into your hand: reconcile the gods of Akkad with your gods; Aššur king of gods went from sunrise to sunset; may the gods make your reign long"}
+      - {motif: oath-by-gods-name, refs: ["SAA 03 033 o:40'-42'"], note: "nīš Aššur šar ilāni ... šarrat Mullissu ... Sîn ... Šamaš: by the life of Aššur, Mullissu, Sîn, Šamaš (oath on the truth of the account)"}
+    hints:
+      - "David inquires why a famine came and learns of Saul's sin against a treaty (the Gibeonites): 2 Sam 21:1-14; also the unburied king: Isa 14:18-20 (often read as Sargon II); Jer 22:18-19, 36:30."
+      - "Sins of the fathers visited on sons: Exod 20:5; 2 Kgs 23:26, 24:3-4. Who can know the work of God: Eccl 3:11, 8:17; Isa 55:8-9."
+      - "Deathbed charge to the successor: 1 Kgs 2:1-9; 1 Chr 22, 28. Witness agreement 'with one mouth': 1 Kgs 22:13; 2 Chr 18:12."
+  - id: ane-saa03-036-assur-and-lahmu-fragment
+    tradition: ane-akkadian
+    title: "Fragment of a mythological-ritual text: the Lady of Kidmuri, Aššur gives arrows to Lahmu (SAA 3 36)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 036"]
+    tags:
+      - {motif: goddess-self-presentation-i-am, refs: ["SAA 03 036 6'-7'"], note: "anāku Bēlet-Kidmuri bēltu rabītu: I am the Lady of Kidmuri, the great lady"}
+      - {motif: god-equips-champion-with-bow-and-arrows, refs: ["SAA 03 036 r:1-6"], note: "Aššur put his arm in his bow-case, drew an arrow ... said to Lahmu: 'give him arrows ... set out, go!'"}
+      - {motif: procession-to-arbela, refs: ["SAA 03 036 9'-15'"], note: "goes to Arbela; Aššur went; brought him up to Arbela"}
+    hints:
+      - "God gives arrows to the king: 2 Kgs 13:15-19 (Elisha and the arrow of victory). God's bow and arrows: Hab 3:9,11; Ps 7:13-14."
+  - id: ane-saa03-042-divine-letter-fragment
+    tradition: ane-akkadian
+    title: "Fragment of a divine letter quoting the king's report (SAA 3 42)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 042"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 042 1-10"], note: "ša tašpuranni (mā): 'what you wrote to me', repeated; kings fled (innabtu)"}
+    hints:
+      - "Compare the divine letter form of SAA 3 41 and 44."
+  - id: ane-saa03-043-divine-letter-which-god
+    tradition: ane-akkadian
+    title: "Fragment of a divine letter: 'Which god is it who ...? Which king ...?' (SAA 3 43)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 043"]
+    tags:
+      - {motif: letter-from-god-to-king, refs: ["SAA 03 043 5'-6'"], note: "what you wrote to me: 'the gods ...'; 'that your gods do not ...'"}
+      - {motif: which-god-can-compare-rhetorical, refs: ["SAA 03 043 8'-9'"], note: "ayyu ilu ša itti ..., ayyu šarru ša ...: which god is it who with ..., which king who ..."}
+      - {motif: four-quarters-bring-tribute-to-temple, refs: ["SAA 03 043 1'-4'"], note: "that land, princes, governors, tribute and payment, first-fruits (rēšāti) in Ehursaggalkurkurra"}
+    hints:
+      - "Which god is like you: Exod 15:11; Mic 7:18; 2 Kgs 18:33-35 (Rabshakeh: which of the gods of the nations delivered?)."
+  - id: ane-saa03-051-slander-fragment
+    tradition: ane-akkadian
+    title: "Fragment of an invective: 'the bread of slander of your lips' (SAA 3 51)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 051"]
+    tags:
+      - {motif: slanderer-rebuked, refs: ["SAA 03 051 1'-6'", "SAA 03 051 r:1-4"], note: "your fate approached; akal karṣē šaptēka: the bread of slander of your lips; darkness, all you did; your friend diminished by a shekel; what did you restore, brazen evil one? he tears the flesh"}
+    hints:
+      - "Slanderous words like delicacies swallowed: Prov 18:8, 26:22. Q 49:12 (backbiting as eating a dead brother's flesh)."
+  - id: ane-saa03-052-herald-fragment
+    tradition: ane-akkadian
+    title: "Fragment: 'I am your god who guards you, the herald of the land' (SAA 3 52)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 052"]
+    tags:
+      - {motif: god-who-guards-you-self-declaration, refs: ["SAA 03 052 o:3'"], note: "ilkā nāṣirka anāku: I am your god, your guardian; the herald of the land"}
+      - {motif: deity-holds-nose-rope-of-peoples, refs: ["SAA 03 052 o:5'-6'"], note: "seize, seize ...; with Šamaš the nose-rope in heaven"}
+    hints:
+      - "Your keeper does not slumber: Ps 121:3-5. I am YHWH your God: Exod 20:2."
+  - id: ane-saa03-009-goddess-love-lyrics-uruk-babylon
+    tradition: ane-akkadian
+    title: "Divine love lyrics: the goddess loves Uruk, Babylon and the cult cities; their fires consume her (SAA 3 9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 009"]
+    tags:
+      - {motif: deity-loves-list-of-cult-cities, refs: ["SAA 03 009 o:1-17"], note: "refrain KI.MIN (I love): I love Uruk, I love Eanna, house of my family; the ziggurat house of my plenty; Babylon house of my father; Esagil house of my bridal veil; Ehiligar house of my joy; Borsippa, Ezida with Nabû; Cutha with Nergal; Der with Ištaran; Kish; Sippar with Šamaš; Assur with Aššur; Nineveh and Arbela with Mullissu; Kalhu with Ninurta; Harran with Sîn"}
+      - {motif: love-sickness-as-burning-fire, refs: ["SAA 03 009 o:19-27", "SAA 03 009 r:1-12"], note: "the fires (išātātu) of Uruk consume me ... of Eanna; I speak in my heart of Uruk, the fires of Babylon, of Marduk and the Lady of Babylon consume me; Ezida with Nabû; Bēl-ṣarbi; Cutha; Kish; the fires of Ištaran and the Lady of Der consume me"}
+      - {motif: refrain-repeated-stanza, refs: ["SAA 03 009 o:22-27", "SAA 03 009 r:1-7"], note: "ša Uruk itti libbiya adabbub ... ultanella"}
+      - {motif: gods-chosen-sacred-city, refs: ["SAA 03 009 o:18"], note: "Uruk hīri ... hīri: 'choose Uruk!' (hiāru 'to choose (as spouse)')"}
+    hints:
+      - "Love strong as death, its flashes flashes of fire: Song 8:6-7; love-sick: Song 2:5, 5:8. God's love for Zion over all the dwellings of Jacob: Ps 87:2, 132:13-14; Zion chosen: Ps 78:68."
