@@ -121,6 +121,13 @@ new_motifs:
   goddesses-disguised-deliver-divine-children: {label: "Birth goddesses disguised as travelling musician-dancers (with Khnum as porter) deliver a woman of divine children, naming each with a pun and declaring 'a king'", cluster: birth}
   crowns-hidden-in-sack-make-royal-music: {label: "The goddesses hide three royal crowns in a sack of barley left sealed in a room; from it come the sounds of royal singing and jubilation", cluster: kingship}
   servant-betrays-royal-birth-seized-by-crocodile: {label: "A punished maidservant sets out to betray the birth of the future kings to the reigning king, but is seized by a crocodile on the way", cluster: providence}
+  king-seeks-diversion-in-boredom: {label: "A king, restless and bored, goes through every room of his palace seeking diversion and summons a sage to cheer him", cluster: court}
+  lost-object-recovered-from-water-by-sage: {label: "A cherished object lost in the water is recovered for its owner by a sage's wonder", cluster: magic}
+  king-seeks-secret-knowledge-of-gods-shrine: {label: "The king seeks the secret number of the chambers of the god's sanctuary for his own monument; the sage knows only where it is kept (a flint chest in Heliopolis)", cluster: kingship}
+  king-troubled-by-prophecy-of-rival-birth: {label: "The reigning king is dismayed on hearing that children who will become kings are about to be born", cluster: kingship}
+  birth-names-from-midwife-puns: {label: "At each birth the midwife goddess addresses the child with a word that puns on his future royal name", cluster: birth}
+  newborns-with-golden-limbs-and-lapis-headdress: {label: "Each divine newborn is a cubit long, with firm bones, limbs overlaid with gold and a headdress of true lapis lazuli", cluster: birth}
+  purification-fourteen-days-after-childbirth: {label: "After giving birth the mother purifies herself for fourteen days", cluster: purity}
   # --- Anitta (CTH 1) ---
   storm-god-of-heaven-favours-king: {label: "The king's success is grounded in his being 'dear to the Storm-god of Heaven'", cluster: kingship}
   city-taken-by-night-assault: {label: "A king takes an enemy city by a night assault (išpanti nakkit)", cluster: warfare}
@@ -925,3 +932,151 @@ units:
       - "The wicked caught in their own trap and given the punishment they devised: Haman (Esth 7:9-10), Daniel's accusers (Dan 6:24), Ps 7:15-16; the lex talionis 'eye for eye' (Exod 21:24; Q 5:45)."
       - "An oath 'as the LORD lives' (1 Sam 14:39; 2 Sam 12:5, where David condemns himself unknowing) and 'as the king lives' (1 Sam 17:55; 2 Sam 15:21)."
       - "Truth (Maat) and Falsehood as personified brothers: compare personified Wisdom and Folly (Prov 8-9) and 'truth has stumbled in the street' (Isa 59:14-15)."
+  # ===================== pWestcar (Khufu and the Magicians) =====================
+  - id: ane-westcar-1-djoser-tale-end
+    tradition: ane-egyptian
+    title: "Westcar: end of the first tale: Khufu orders offerings for Djoser and his lector priest"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar (pBerlin P 3033), Middle Egyptian, Second Intermediate Period copy; beginning lost"
+    read: ["Westcar 1:12-1:16/2"]
+    tags:
+      - {motif: offerings-for-dead-king-and-his-magician, refs: ["Westcar 1:12-1:16/2"], note: "Largely restored on the model of 4:13-4:17: jw mꜣ.n =j sp =f n(,j) rḫ 'I have seen his deed of knowledge'; the wonder itself is lost"}
+      - {motif: kings-sons-tell-wonders-of-old, refs: ["Westcar 1:12"]}
+  - id: ane-westcar-1-ubaoner-wax-crocodile
+    tradition: ane-egyptian
+    title: "Westcar: Khafre's tale: Ubaoner's wife and the commoner; the wax crocodile; the adulteress burned"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 1:17-4:17"]
+    tags:
+      - {motif: kings-sons-tell-wonders-of-old, refs: ["Westcar 1:17-1:18"], note: "ḏi̯ =j sḏm ḥm =k bj(ꜣ),yt ḫpr.t m rk jt =k Nb-kꜣ 'let me tell your majesty a wonder that happened in the time of your forefather Nebka'"}
+      - {motif: priests-wife-adultery-in-garden-pavilion, refs: ["Westcar 1:23-2:18/2"], note: "The wife of the chief lector Ubaoner sends a chest of clothes to a commoner (nḏs); they spend the day drinking in the pavilion (šzp,t) by the garden lake; the caretaker reports: 'it is adultery (?) he has committed twice in your garden lake' (2:18/2, restored)"}
+      - {motif: wax-crocodile-becomes-living, refs: ["Westcar 2:22/2-3:14", "Westcar 4:1/2-4:2/2"], note: "msḥ n(,j) mnḥ 'a crocodile of wax' seven fingers long (restored); thrown into the water behind the commoner: ꜥḥꜥ.n ḫpr.n =f m msḥ n(,j) mḥ 7 'it became a crocodile of seven cubits' and seized him; when Ubaoner takes it up: wn.jn =f m ḏr,t =f msḥ n(,j) mnḥ 'it was in his hand a wax crocodile'"}
+      - {motif: magician-commands-crocodile, refs: ["Westcar 3:21/3-3:25/2", "Westcar 4:5-4:7"], note: "The commoner lies seven days at the bottom of the lake without breathing; the king says smwn msḥ pw nḥꜣ 'this crocodile is dangerous!' and jni̯ n =k pꜣy =k 'take what is yours'; n rḫ.tw bw šm.n =f jm ẖr =f 'no one knows where it went with him'"}
+      - {motif: adulterer-shunned-and-punished, refs: ["Westcar 3:14", "Westcar 4:6/2-4:7"]}
+      - {motif: burning-as-penalty-for-unchastity, refs: ["Westcar 4:8-4:10"], note: "jṯi̯.tw tꜣ ḥm,t Wbꜣ-jnr r šd,w mḥ,tj n(,j) ẖnw ꜥḥꜥ.n rḏi̯.n =f ḫ,t jm =s 'Ubaoner's wife was taken to the north side of the residence and he set fire to her'; her ashes thrown into the river"}
+      - {motif: adultery-both-die, refs: ["Westcar 4:6/2-4:10"]}
+      - {motif: offerings-for-dead-king-and-his-magician, refs: ["Westcar 4:10/2-4:17"]}
+    hints:
+      - "A magician's object turning into a living reptile before the king: Aaron's staff becomes a serpent (tannin) and Pharaoh's magicians do the same (Exod 7:8-12); Q 7:107, 117; 20:66-69; 26:32, 45."
+      - "Adultery punished by death for both (Lev 20:10; Deut 22:22) and burning (Gen 38:24; Lev 21:9)."
+      - "Wonder tales told to the king about the past: the king who has the chronicles read when he cannot sleep (Esth 6:1-3)."
+  - id: ane-westcar-snefru-rowing-maidens
+    tradition: ane-egyptian
+    title: "Westcar: Baufre's tale: Snefru's rowing maidens; Djadjaemankh folds back the lake to recover the fish pendant"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 4:17/2-6:22"]
+    tags:
+      - {motif: kings-sons-tell-wonders-of-old, refs: ["Westcar 4:17/2-4:21"]}
+      - {motif: king-seeks-diversion-in-boredom, refs: ["Westcar 4:22-5:1"], note: "Snefru has gone through every room of the palace seeking a diversion (sḫmḫ-jb, restored) and found none; he summons the chief lector Djadjaemankh"}
+      - {motif: rowing-maidens-in-nets, refs: ["Westcar 5:1/3-5:14"], note: "z,t-ḥm,t 20 m nfr,t n.t ḥꜥ =sn ... n,tj n wpi̯.t =sn m ms,wt 'twenty women beautiful of body, with breasts and braids, not yet opened by childbirth', given nets (jꜣd,t) in place of their clothes"}
+      - {motif: magician-folds-back-lake-waters, refs: ["Westcar 6:7/3-6:12/2"], note: "rḏi̯.n =f rmn n(,j) mw n(,j) pꜣ š ḥr wꜥ =sn gmi̯.n =f pꜣ nḫꜣ,w wꜣḥ ḥr pꜣq,yt 'he put one side of the water of the lake on the other and found the pendant lying on a potsherd'; the water, 12 cubits deep, stood 24 cubits on its fold; he brought the waters back"}
+      - {motif: sea-parts-each-side-like-mountain, refs: ["Westcar 6:8-6:11"], note: "Approximate: the lake's water is folded upon itself and stands doubled in height (24 cubits), the bottom laid dry; no crossing"}
+      - {motif: lost-object-recovered-from-water-by-sage, refs: ["Westcar 5:15-5:23/2", "Westcar 6:10"], note: "The stroke-oarswoman's pendant of new turquoise falls into the water; she refuses a replacement: mri̯ =j ḥnw =j r sn,tj =f 'I want my own thing rather than its like'; Djadjaemankh gives it back to its owner"}
+      - {motif: offerings-for-dead-king-and-his-magician, refs: ["Westcar 6:13-6:22"]}
+    hints:
+      - "The waters folded back to lay the bottom dry: the parting of the sea (Exod 14:21-22, 'the waters a wall to them on the right and on the left'; Exod 15:8 'the floods stood up as a heap'; Q 26:63 'each part like a great mountain'); Elijah and Elisha dividing the Jordan with the mantle (2 Kgs 2:8, 14)."
+      - "A prophet recovers a lost iron axe-head from the water for its owner (2 Kgs 6:1-7)."
+  - id: ane-westcar-djedefhor-fetches-djedi
+    tradition: ane-egyptian
+    title: "Westcar: Djedefhor tells of the living sage Djedi, aged 110; the prince fetches him"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 6:22/2-8:2"]
+    tags:
+      - {motif: kings-sons-tell-wonders-of-old, refs: ["Westcar 6:22/2-6:26/2"], note: "Djedefhor objects that past wonders cannot be checked (n rḫ.n =tw mꜣꜥ,t r grg 'one cannot tell truth from falsehood') and offers a living wonder-worker 'in your own time'"}
+      - {motif: sage-of-110-years-with-vast-appetite, refs: ["Westcar 7:1-7:2"], note: "jw =f m nḏs n(,j) rnp,t 110 jw =f ḥr wnm tʾ 500 rmn n(,j) jwꜣ m jwf ḥnꜥ swrj ḥ(n)q,t ds 100 'he is a commoner of 110 years; he eats 500 loaves, a shoulder of beef and drinks 100 jugs of beer to this day'"}
+      - {motif: patriarch-long-lifespan, refs: ["Westcar 7:1"]}
+      - {motif: magician-rejoins-severed-head, refs: ["Westcar 7:4"], note: "jw =f rḫ ṯ(ꜣ)s tp ḥsq 'he knows how to join a severed head'; he also makes a lion follow him with its leash on the ground"}
+      - {motif: king-seeks-secret-knowledge-of-gods-shrine, refs: ["Westcar 7:5-7:6"], note: "Djedi knows the number of the jp,wt (secret chambers) of the sanctuary of Thoth, which Khufu has long sought for his own horizon (pyramid)"}
+    hints:
+      - "A man of 110 years: the age of Joseph (Gen 50:22, 26) and Joshua (Josh 24:29), the Egyptian ideal lifespan; a sage still vigorous in old age: Moses (Deut 34:7), Caleb (Josh 14:10-11)."
+      - "The king sends for a holy man living in the country: Naaman and Elisha (2 Kgs 5) or Saul and Samuel (1 Sam 9); Pharaoh sending for Joseph (Gen 41:14)."
+  - id: ane-westcar-djedi-at-court
+    tradition: ane-egyptian
+    title: "Westcar: Djedi before Khufu: he refuses to use a prisoner and rejoins the severed heads of a goose, a bird and an ox"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 8:3-8:26"]
+    tags:
+      - {motif: sage-refuses-to-test-magic-on-human, refs: ["Westcar 8:15/2-8:17"], note: "Khufu: bring a prisoner from the prison (ḫnrj n,tj m ḫnr,t) whose execution is due; Djedi: n-js n r(m)t.pl ... n wḏ.tw jri̯.t mn,t jr,j n tꜣ ꜥw,t šps.t 'not on people! ... it is not commanded to do such a thing to the noble cattle'"}
+      - {motif: magician-rejoins-severed-head, refs: ["Westcar 8:17/2-8:26"], note: "A goose's head cut off and laid at the east side, its body at the west; Djedi speaks his spells; the goose stands up and waddles, its head likewise; when one reaches the other the goose stands and cackles; the same with a ḫt-ꜥꜣ bird and an ox, which stands up behind him with its leash on the ground"}
+      - {motif: contest-with-court-magicians, refs: ["Westcar 8:12/3-8:14/2"], note: "Approximate: not a contest but a test of the wonder-worker's claim before the king (jn jw mꜣꜥ,t pw pꜣ ḏd 'is it true what is said?')"}
+    hints:
+      - "Wonders tested before Pharaoh: Moses and Aaron's signs (Exod 7:8-12) and Q 26:30-37."
+      - "Restoring life to the dead by a holy man (1 Kgs 17:21-22; 2 Kgs 4:34-35; 13:21) and Ezekiel's bones joining (Ezek 37:7-8); Abraham's birds cut up and called back to life (Q 2:260); Jesus' 'by God's leave' wonders with birds of clay (Q 3:49)."
+      - "Humans as the 'noble cattle' of God: Merikare's 'well tended are men, the cattle of god'; compare Ps 100:3, 'we are his people and the sheep of his pasture', and the sanctity of human life (Gen 9:6)."
+  - id: ane-westcar-prophecy-of-three-kings
+    tradition: ane-egyptian
+    title: "Westcar: Djedi foretells the three children of Re in the womb of Ruddedet who will rule; Khufu is troubled"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 9:1-9:21"]
+    tags:
+      - {motif: king-seeks-secret-knowledge-of-gods-shrine, refs: ["Westcar 9:1-9:6/3"], note: "Djedi does not know the number of the chambers, but knows where it is: a flint box in a room called 'the Inventory' in Heliopolis; only the eldest of the three children in Ruddedet's womb will bring it"}
+      - {motif: three-sons-of-sun-god-prophesied-as-kings, refs: ["Westcar 9:7-9:11"], note: "ḥm,t wꜥb pw n(,j) Rꜥ nb-Sꜣẖbw jwr.tj m ẖrd.w 3 n(,j) Rꜥ 'she is the wife of a wab-priest of Re, lord of Sakhbu, pregnant with three children of Re'; they will exercise 'this excellent office in this whole land' and the eldest will be high priest in Heliopolis"}
+      - {motif: king-troubled-by-prophecy-of-rival-birth, refs: ["Westcar 9:12-9:14"], note: "wn.jn ḥm =f jb =f wꜣi̯ r ḏw,t ḥr =s 'his majesty's heart fell into sorrow at it'; Djedi comforts: kꜣ zꜣ =k kꜣ zꜣ =f kꜣ wꜥ jm =s 'first your son, then his son, then one of them'"}
+      - {motif: king-grants-every-request, refs: ["Westcar 9:19/2-9:21"], note: "Approximate: Djedi is lodged with the prince and given 1000 loaves, 100 jugs of beer, an ox and 100 bunches of leeks"}
+    hints:
+      - "A king troubled by the foretold birth of a child who will take the throne: Herod and the magi (Matt 2:1-16); Pharaoh's fear of Israel's sons (Exod 1:8-22) and the Jewish and Islamic traditions of Pharaoh's astrologers foretelling Moses; Q 28:4-6."
+      - "Children fathered by the god on a priest's wife: compare the annunciation of a divinely given son to a woman (Judg 13:2-5; Luke 1:26-35)."
+  - id: ane-westcar-birth-of-three-kings
+    tradition: ane-egyptian
+    title: "Westcar: Ruddedet's hard labour; Isis, Nephthys, Meskhenet, Heqet and Khnum come as musicians and deliver the three kings"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 9:21/2-11:9"]
+    tags:
+      - {motif: goddesses-disguised-deliver-divine-children, refs: ["Westcar 9:22/2-10:7/2"], note: "Re sends Isis, Nephthys, Meskhenet, Heqet and Khnum: jri̯.n =sn ḫpr,w =sn m ḫnw,t 'they took the form of musician-dancers', Khnum carrying the luggage; Rawoser stands with his kilt upside down: 'there is a woman in pain, her birth is hard'; Isis before her, Nephthys behind, Heqet hastens the birth"}
+      - {motif: goddess-as-midwife-cuts-cord, refs: ["Westcar 10:11/2-10:13/2"], note: "jꜥi̯.jn =sn sw šꜥd ẖpꜣ =f 'they washed him, his navel cord cut'; Meskhenet: nswt jri̯.t(j) =fj nsw,yt m tꜣ pn r-ḏr =f 'a king who will exercise kingship in this whole land'"}
+      - {motif: birth-names-from-midwife-puns, refs: ["Westcar 10:9", "Westcar 10:16/2", "Westcar 10:23/2"], note: "jmi̯ =k wsr m ẖ,t =s m rn =k pwy n(,j) Wsr-r≡f 'do not be strong (wsr) in her womb, in this your name Userkaf'; likewise 'do not kick (sꜣḥ)' for Sahure, 'do not be dark (kkw)' for Keku (Neferirkare)"}
+      - {motif: newborns-with-golden-limbs-and-lapis-headdress, refs: ["Westcar 10:9/2-10:11", "Westcar 10:17-10:18/3", "Westcar 10:24-10:26"], note: "Each child is a cubit long, his bones firm, ꜥ,t =f m nbw ꜥfn,t =f m ḫsbd mꜣꜥ 'his limbs overlaid with gold, his headdress of true lapis lazuli'"}
+      - {motif: king-named-and-fated-at-birth, refs: ["Westcar 10:13/2", "Westcar 10:21", "Westcar 11:1/2"]}
+      - {motif: secret-or-irregular-birth, refs: ["Westcar 10:7"], note: "The goddesses lock themselves in the room with Ruddedet (ḫtm.n =sn ꜥ,t ḥr =s)"}
+    hints:
+      - "Divine visitors in disguise received in a house and announcing kings: Abraham's three guests (Gen 18:1-15) and the angels of Q 11:69-73; 51:24-30."
+      - "Birth stories with names explained by puns: Gen 25:24-26 (Esau and Jacob), 29:32-30:24 (Jacob's sons), 38:27-30 (Perez and Zerah)."
+      - "Midwives at a perilous royal birth: Exod 1:15-21."
+  - id: ane-westcar-crowns-in-barley
+    tradition: ane-egyptian
+    title: "Westcar: the goddesses make three crowns and hide them in the sack of barley; the sack sounds with royal music"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar"
+    read: ["Westcar 11:10-12:8"]
+    tags:
+      - {motif: crowns-hidden-in-sack-make-royal-music, refs: ["Westcar 11:10-11:17", "Westcar 12:1-12:5"], note: "Isis: 'why did we come without making a wonder for these children?' ꜥḥꜥ.n msi̯.n =sn ḫꜥ,w 3 n nb ꜥnḫ-(w)ḏꜣ-s(nb) rḏi̯.jn =sn st m pꜣ jt 'they fashioned three royal crowns and put them in the barley'; later the servant hears ḫrw ḥsj šmꜥ ḫbi̯.t wꜣg jrr.t nb.t n nswt 'the sound of singing, music, dancing and shouting, all that is done for a king' from the sack"}
+      - {motif: purification-fourteen-days-after-childbirth, refs: ["Westcar 11:18"], note: "R(w)d-ḏd,t wꜥb.n =s m wꜥb n(,j) hrw 14 'Ruddedet purified herself with a purification of fourteen days'"}
+    hints:
+      - "Purification of fourteen days after childbirth: Lev 12:5 (two weeks of impurity for a girl; seven days for a boy, Lev 12:2)."
+      - "Something hidden in a grain sack that will later reveal itself: Joseph's money and cup in the sacks (Gen 42:25-28, 35; 44:1-12; Q 12:70)."
+  - id: ane-westcar-servant-betrayal
+    tradition: ane-egyptian
+    title: "Westcar: the beaten maidservant sets out to betray the royal birth to Khufu and is taken by a crocodile (breaks off)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "pWestcar; the papyrus breaks off here"
+    read: ["Westcar 12:8/2-12:25/3"]
+    tags:
+      - {motif: servant-betrays-royal-birth-seized-by-crocodile, refs: ["Westcar 12:8/2-12:19", "Westcar 12:25/2-12:25/3"], note: "Punished with a beating, the maid says jw msi̯.n =s nsw.yw 3 jw =j r šm.t r ḏd st n ḥm n(,j) nswt-bj,tj Ḫwfw 'she has borne three kings: I will go and tell the majesty of Khufu'; ꜥḥꜥ.n jṯi̯.n sj msḥ 'then a crocodile seized her'"}
+      - {motif: secret-or-irregular-birth, refs: ["Westcar 12:11-12:12"]}
+    hints:
+      - "The threat to newborn future kings from the reigning king, foiled: the infancy of Moses (Exod 1:22-2:10; Q 28:7-13) and of Jesus (Matt 2:13-18)."
+      - "A betrayer struck down: Judas (Matt 27:3-5; Acts 1:18)."

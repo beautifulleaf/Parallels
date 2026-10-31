@@ -1,0 +1,15 @@
+# Full read of the ANE corpus, chunk 50: CTH 346.15-21 (Kumarbi fragments), 347 (Hittite Atramhasis),
+# 348.I (Hedammu), 349 (Teshub cycle), 350-353 (fragments naming Ishtar, Ea, Huranu, daughter of the Pleiades),
+# 360 (Appu), 361.I (Keshshi), 362 (Gurparanzah), 363 (Sun god, cow and fisherman), 364 (Song of Silver),
+# 365 (Euphrates/Mala), 371 (prayer to the Sun goddess of the Earth). Read from hethiter.net / TLHdig.
+new_motifs: {}
+units:
+  - id: ane-cth-346-15-kumarbi-small-fragments
+    tradition: ane-hittite
+    title: Kumarbi myth, four small fragments (CTH 346.15, 346.17, 346.18, 346.20)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 346.15", "CTH 346.17", "CTH 346.18", "CTH 346.20"]
+    tags:
+      - {motif: test-motif, refs: ["CTH 346.15 §2:3"]}

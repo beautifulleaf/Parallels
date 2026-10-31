@@ -1,0 +1,409 @@
+# Full read, chunk 48: the Hittite vanishing-god myths (CTH 324.3 - 335.23).
+# Read from the hethiter.net / TLHdig editions (transliteration by section and Kolon, German translation as a reading aid).
+new_motifs:
+  vanishing-god-departs-in-anger: {label: "An angered god walks out of his house and land and disappears, and with him the land's wellbeing goes", cluster: vanishing-god}
+  shoes-put-on-wrong-feet: {label: "The departing god in his fury puts his right shoe on his left foot (and the left on the right) before going out", cluster: vanishing-god}
+  vanished-god-takes-fertility-with-him: {label: "The departing god carries off with him grain, fertility, growth, thriving and satiety", cluster: vanishing-god}
+  mist-seizes-windows-smoke-the-house: {label: "When the god departs, mist (kammara-) seizes the windows and smoke seizes the house", cluster: vanishing-god}
+  hearth-altar-fold-choke: {label: "In the god's absence the logs in the hearth, the gods on the altar-stands, the sheep in the fold and the cattle in the pen 'choke' (wešuriya-)", cluster: vanishing-god}
+  ewe-rejects-lamb-cow-rejects-calf: {label: "In the god's absence the ewe rejects her lamb and the cow her calf", cluster: vanishing-god}
+  crops-and-wombs-fail-in-gods-absence: {label: "In the god's absence barley and emmer no longer grow, and cattle, sheep and humans no longer conceive, and the pregnant do not give birth", cluster: vanishing-god}
+  mountains-trees-springs-dry-up: {label: "In the god's absence the mountains, trees, meadows and springs dry up and no shoot comes forth", cluster: vanishing-god}
+  famine-in-land-gods-and-men-perish: {label: "Famine arises in the land, so that gods and humans are perishing of hunger", cluster: vanishing-god}
+  gods-feast-without-satiety: {label: "The Sun god gives a feast and calls the thousand gods; they eat and drink but cannot still their hunger and thirst", cluster: vanishing-god}
+  gods-search-for-vanished-god: {label: "The great and small gods set out to search for the vanished god and do not find him", cluster: vanishing-god}
+  eagle-searches-for-vanished-god: {label: "The swift eagle is sent to search the high mountains, the deep valleys and the 'blue' waters, but does not find the vanished god and reports back", cluster: vanishing-god}
+  storm-god-searches-and-breaks-gate: {label: "The Storm god himself goes to the vanished god's town, knocks at the gate, and breaks the bolt with his hammer, but finds no one", cluster: vanishing-god}
+  mother-goddess-sends-bee: {label: "The mother goddess (Hannahanna) sends the little bee to find the vanished god when the great gods have failed", cluster: vanishing-god}
+  bee-finds-sleeping-god-stings-him: {label: "The bee finds the vanished god asleep in a meadow or grove, stings his hands and feet to make him rise, and wipes his eyes and feet with wax", cluster: vanishing-god}
+  bee-searches-mountains-valleys-waters: {label: "The bee searches the high mountains, the deep valleys and the waters, until its honey and wax are used up", cluster: vanishing-god}
+  woken-god-angrier-why-wake-me: {label: "The woken god is angrier still and complains: why did you wake me when I was sleeping, make me speak when I was sulking?", cluster: vanishing-god}
+  roused-god-destroys-rivers-cities-men: {label: "The roused god in his fury diverts the flowing rivers, tears down banks, destroys cities and houses and kills men, cattle and sheep", cluster: vanishing-god}
+  gods-ask-what-shall-we-do: {label: "The gods, at a loss before the angry god, ask one another 'how shall we act, what shall we do?'", cluster: vanishing-god}
+  gods-blame-each-other-for-sin: {label: "Gods argue over whose offence (waštul) caused the god's disappearance: the grandfather blames the father, who denies it", cluster: vanishing-god}
+  mother-goddess-will-set-right-either-way: {label: "The mother goddess reassures: whether it is your sin or not, I will put it right", cluster: vanishing-god}
+  mugawar-invocation-with-offerings: {label: "The ritualist sets food and drink before the angry god and invokes him (mugai-): eat, drink, still your hunger and thirst, come back and be at peace", cluster: vanishing-god}
+  god-asked-to-turn-to-king-in-good: {label: "The returning god is asked to turn back to the king, the queen, the princes and the land of Hatti in goodwill", cluster: vanishing-god}
+  path-sprinkled-with-fine-oil: {label: "The god's road is sprinkled with fine oil and he is told to walk on it back to his house", cluster: vanishing-god}
+  bed-of-sahi-and-happuriya: {label: "The returning god is offered a bed of šaḫi- and ḫappuriya-wood (or leaves) and told to lie down and sleep", cluster: vanishing-god}
+  analogic-spell-against-gods-anger: {label: "Analogic spell: as this substance (malt, firewood, fire, wax, fat, water in a pipe, a felled tree) is treated, so may the god's anger, wrath, sin and sullenness end", cluster: vanishing-god}
+  anger-sealed-in-netherworld-cauldrons: {label: "The god's anger, wrath, sin and sullenness are sent down to the dark earth into cauldrons of bronze or iron with lids of lead; what goes in does not come up but perishes there", cluster: vanishing-god}
+  netherworld-doorkeeper-opens-seven-doors: {label: "The doorkeeper opens the seven doors and draws back the seven bolts so that the god's anger may go down into the dark earth", cluster: vanishing-god}
+  anger-barred-from-fields-garden-forest: {label: "The god's anger must not go into the fruitful field, the garden or the forest, but take the road of the dark earth", cluster: vanishing-god}
+  house-parts-release-the-anger: {label: "Each part of the house is told to let the god's anger go: the house, the window, the hinge, the inner court, the door, the gate, the king's road", cluster: vanishing-god}
+  evil-taken-from-gods-body: {label: "The healer or goddess takes from the god's body his anger, wrath, sin, sullenness, the evil tongue and the evil sole", cluster: vanishing-god}
+  god-singed-with-fire-to-purge-anger: {label: "The goddess singes the god 'here' and 'there' with fire (or the eagle's wings) to burn away his anger", cluster: vanishing-god}
+  god-returns-house-restored: {label: "The god returns to his house: mist leaves the windows, smoke leaves the house, the altar-stands, hearth, fold and pen are set right again", cluster: vanishing-god}
+  mother-ewe-cow-accept-young-again: {label: "On the god's return the mother recognises her son again, the ewe her lamb and the cow her calf", cluster: vanishing-god}
+  gods-eat-and-are-satisfied-on-return: {label: "On the god's return the gods (or people) eat and are satisfied and drink and still their thirst", cluster: vanishing-god}
+  returned-god-cares-for-king: {label: "The returned god cares for the king and queen and provides them with life, vigour and long future", cluster: vanishing-god}
+  eya-tree-with-hanging-fleece: {label: "Before the returned god stands an eya-tree from which a sheep's fleece is hung, holding long years, progeny, growth, satiety, obedience and the right thigh", cluster: vanishing-god}
+  lamb-fleece-holds-mild-message: {label: "Before the hearth or altar a lamb's fleece is hung, holding 'the mild message of the lamb'; may the king and queen be such a mild message before the god", cluster: vanishing-god}
+  queen-asks-sons-daughters-long-years: {label: "Prayer that the god give the king and queen sons, daughters, grandchildren, great-grandchildren and long years", cluster: vanishing-god}
+  divine-assembly-under-hawthorn: {label: "The gods hold assembly under the hatalkešna-tree (hawthorn), where long years lie and all the gods sit", cluster: vanishing-god}
+  god-carried-off-by-wind-to-sea: {label: "A vanished god is carried away into the sea (or by the wind) and must be fetched back", cluster: vanishing-god}
+  vanished-god-hides-in-place-of-concealment: {label: "The vanished deity lies hidden in a named place (the moor, a pit, a grove) from which helpers must bring her or him back", cluster: vanishing-god}
+units:
+  - id: ane-cth-324-3-1-bee-finds-telipinu
+    tradition: ane-hittite
+    title: The bee is sent, searches and wakes Telipinu (Telipinu myth, third version)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Third version (CTH 324.3)"
+    read: ["CTH 324.3 §1:1-§3:19"]
+    tags:
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 324.3 §2:3-10"], note: "instructions to the bee, largely restored: [ša-an-ḫ]a ... ma-a-na-an ú-e-mi-ya-ši 'if you find him', [š]i-i-ya 'sting', nu IGI.ḪI.A-ŠU QA-TI-ŠU '[wipe] his eyes, his hands', [pár-k]u-nu-ut 'purify', na-an am-me-el kat-ta ú-wa-ti 'bring him to me'"}
+      - {motif: mother-goddess-sends-bee, refs: ["CTH 324.3 §2:10"], note: "the sender speaks: 'bring him down to me' (am-me-el katta uwati); the speaker's name is lost"}
+      - {motif: bee-searches-mountains-valleys-waters, refs: ["CTH 324.3 §3:11-16"], note: "NIM.LÀL-aš 'the bee'; [pár-ga-mu-u]š ḪUR.SAG.MEŠ-uš ša-a-an-aḫ-ta 'she searched the high mountains'; LÀL-it zi-in-né-et 'the honey ran out', [wax] ran out"}
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 324.3 §3:17-19"], note: "found [in Liḫz]ina in a meadow in the grove ({GIŠ}TIR); [ši-e-e]t 'stung'; na-aš a-r[a-iš] 'and he rose'"}
+    hints:
+      - "The small creature succeeding where the great gods fail: compare the raven sent to show Cain how to bury (Q 5:31) and the hoopoe who finds what Solomon did not know (Q 27:20-22); the bee itself is honoured as a creature inspired by God (Q 16:68-69)."
+      - "The god asleep and roused: contrast Q 2:255 ('neither slumber nor sleep overtakes him') and Ps 121:4; compare the call 'Awake, why do you sleep, O Lord?' (Ps 44:24)."
+  - id: ane-cth-324-3-2-telipinu-rages
+    tradition: ane-hittite
+    title: Woken Telipinu rages and destroys; the gods take counsel and send the eagle (third version)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Third version (CTH 324.3)"
+    read: ["CTH 324.3 §4:20-§6:49"]
+    tags:
+      - {motif: woken-god-angrier-why-wake-me, refs: ["CTH 324.3 §4:20-24"], note: "[ú-uk-wa-a]z ša-a-nu-un 'I was angry'; šu-me-ša-wa-mu ša-ša-an-da-an ... 'why have you (roused) me, the sleeping one'; ša-a-an-ta-an ku-wa-at me-ma-nu-ut-te-en 'why did you make me, the sulking one, speak?'"}
+      - {motif: roused-god-destroys-rivers-cities-men, refs: ["CTH 324.3 §4:25-§5:33"], note: "ÍD.ḪI.A ar-šar-šu-u-ru-uš ḫu-it-ti-y[a-at] 'he drew off the flowing rivers'; URU.DIDLI.ḪI.A-uš pí-ip-pa-aš 'overturned the cities', É.ḪI.A-TIM pí-ip-pa-aš 'the houses'; DUMU.LÚ.U19.LU ḫar-ni-ik-ta 'destroyed mankind', GU4.ḪI.A UDU.ḪI.A 'cattle and sheep'"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 324.3 §5:35-39"], note: "{d}te-li-pí-nu-uš=wa le-e-la-ni-it-ta-at 'Telipinu has become furious'; [ma-a-a]n-wa i-ya-u-e-ni, [ku-it-wa] i-ya-u-e-ni 'how shall we act? what shall we do?'"}
+      - {motif: god-singed-with-fire-to-purge-anger, refs: ["CTH 324.3 §6:40-47"], note: "very broken: 'call the man(kind)' ... {GIŠ}ḫattaran 'the (bee's) sting/awl'?; [ḫa-a]-ra-aš.MUŠEN 'the eagle shall step forward', [wa-a]r-nu-ud-du 'let him burn (him)'; ḫa-a-r[a-aš ... pár-ta-u-ni-i]t 'the eagle with his wings'; [ša-an] ki-iš-nu-er 'they extinguished (?)'; much of the reading rests on restoration (Trabazo: ar-nu-ud-du 'let him carry')"}
+    hints:
+      - "The awakened god who destroys rivers and cities resembles divine anger let loose on towns overturned (Q 11:82, 'we turned it upside down'; Gen 19:25 'he overthrew those cities')."
+      - "The gods' helplessness 'what shall we do?' contrasts with the Quranic God who needs no counsel (Q 2:30-33 is the closest scene of a divine council)."
+  - id: ane-cth-324-3-3-evil-sent-off-fertility-brought-out
+    tradition: ane-hittite
+    title: Anger driven out of Telipinu's limbs; grain, fertility and good rain brought out of the oven (third version)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Third version (CTH 324.3)"
+    read: ["CTH 324.3 §7:50-§10:64"]
+    tags:
+      - {motif: evil-taken-from-gods-body, refs: ["CTH 324.3 §8:53-57"], note: "[tu-eg-g]a-aš-ša-aš an-dan 'in his limbs'; [ar-ḫ]a pár-aḫ-ta 'drove away'; kar-p[í-in] ... [EM]E-an i-da-a-lu-un pa-ta-a[l-ḫa-an] ... ša-a-ku-wa ar-ša-na-an-d[a] 'anger ... the evil tongue, the (evil) sole, the envious eyes'"}
+      - {motif: vanished-god-takes-fertility-with-him, refs: ["CTH 324.3 §9:58-60"], note: "reversal: [UDUN-ya-a]z pa-ra-a ú-da-aš 'he brought out of the oven' ḫal-ki-in {d}im-mar-ni-in ... a-aš-ša-mu-uš ḫe-e-a-mu-uš a-aš-ša-mu-uš IM.ḪI.A-uš 'grain, fertility, the good rains, the good winds' ... ḫu-u-ma-an pa-ra-a ú-da-aš 'brought out everything'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 324.3 §10:61-64"], note: "fragmentary: the apple-tree ({GIŠ}ḪAŠḪUR) and maršigga-fruit, 'his soul' (ZI-ŠU): the opening of a simile series; tarranuddu 'let it make strong'"}
+    hints:
+      - "Rains and winds released from a store (here an oven): compare God's storehouses of rain and wind (Q 15:21-22, 'there is nothing whose storehouses are not with us ... we send the fertilizing winds'; Job 38:22, Jer 10:13)."
+      - "The 'evil tongue' and 'envious eyes' removed from the god: compare refuge from the envier (Q 113:5)."
+  - id: ane-cth-324-3-4-telipinu-returns
+    tradition: ane-hittite
+    title: Telipinu returns; house and herds set right; the eya-tree with the fleece (third version)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Third version (CTH 324.3)"
+    read: ["CTH 324.3 §11:65-§15:91"]
+    tags:
+      - {motif: god-returns-house-restored, refs: ["CTH 324.3 §11:65-68", "CTH 324.3 §11:70", "CTH 324.3 §11''':69"], note: "{d}[te-li-pí-nu-uš] an-da pa-it 'Telipinu went in'; É-er tú[ḫ-ḫu-iš] 'the smoke (left) the house'; {GIŠ}kal-mi-eš-ša-n[é-eš] 'the logs'; I-NA ŠÀ TÙR, I-NA ŠÀ É.GU4 'in the fold, in the cattle pen' (the rest restored)"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 324.3 §11:71-72"], note: "nu-za GU4.ḪI.A AMAR-[ŠU], UDU.ḪI.A-ma-za SILA4-[SÚ]: 'the cow [recognised its] calf, the ewe its lamb' (verb restored)"}
+      - {motif: returned-god-cares-for-king, refs: ["CTH 324.3 §12:73-§13:75"], note: "Ù KUR {URU}ḫa-at-ti 'and the land of Hatti'; TI-an-ni in-na-ra-[u-wa-an-ni] 'with life, vigour'"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 324.3 §13:76-85"], note: "{GIŠ}e-ya-a[z] ... kán-kán-za 'hung from the eya-tree'; MU.KAM.ḪI.A GÍD.DA 'long years'; DUMU.MEŠ-tar DUMU.NITA.MEŠ DUMU.MUNUS.MEŠ 'progeny, sons, daughters'; LÚ-na-tar tar-ḫu-u-i-li 'manhood and valour'; šal-ḫi-it-ti-iš 'growth'; nu-ú-uš 'assent'"}
+      - {motif: returned-god-cares-for-king, refs: ["CTH 324.3 §14:86-88"], note: "na-an {d}te-li-pí-nu-u[š ...] 'Telipinu [had] it [brought to the king]'; [nu]-uš-ši ḫu-u-ma-an 'to him everything'"}
+    hints:
+      - "The fleece hung on the tree that holds long life and progeny: compare Gideon's fleece as a sign (Judg 6:36-40); the tree of blessing beside the god recalls the 'good tree' whose root is firm and branch in heaven (Q 14:24-25)."
+      - "Return of the god and restoration of the herds: compare the return of rain and blessing after repentance (Q 71:10-12, 'he will send the sky upon you in showers and help you with wealth and sons'; Joel 2:21-26)."
+  - id: ane-cth-324-4-mugawar-and-analogies
+    tradition: ane-hittite
+    title: Offerings and analogic spells to soothe Telipinu (Telipinu myth, fourth version)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fourth version (CTH 324.4)"
+    read: ["CTH 324.4"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.4 §2:3-§4:18"], note: "te-eḫ-ḫu-un 'I placed' (cheese restored); {DUG}KA.GAG gul-ša-an-ta-an 'the engraved beaker'; tar-na-aḫ-ḫu-un 'I let ...'; iš-pa-a-i 'still (your hunger)', ni-in-g(a) 'still (your thirst)'; ḫa-an-da-aḫ-ḫu-ut 'be set right'"}
+      - {motif: god-asked-to-turn-to-king-in-good, refs: ["CTH 324.4 §6:24", "CTH 324.4 §7:27"], note: "[LU]GAL MUNUS.LUGAL ... a-aš-šu-li na-a-iš-ḫu-ut 'turn in goodwill to the king, the queen ...'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 324.4 §6:22", "CTH 324.4 §7:25", "CTH 324.4 §8:28-§9:34"], note: "parḫuena- and galaktar lie here; as malt is dry and is not taken to the field or made seed or bread, [ebens]o te-e-ep-ša-u-e-eš-du 'so let (Telipinu's) anger and wrath dry up'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 324.4 §10:35-40"], note: "ZI-ŠU ... ú-e-šu-ri-ya-at-ta-ti 'the angry one's soul choked'; as firewood is kindled and it grows light in the four corners, so let anger [burn]: [w]a-ra-a-nu; da-an-du-ke-eš-na-aš DUMU-aš 'the child of mortality' made the words"}
+      - {motif: god-singed-with-fire-to-purge-anger, refs: ["CTH 324.4 §11:41-44"], note: "[na-a]k-ki-iš DINGIR-uš 'the weighty god' kindled ([p]a-ra-a-iš) ... iš-ḫu-wa-a-iš 'poured out': fragmentary"}
+    hints:
+      - "Eat and drink and be satisfied: compare the formula of eating and drinking in paradise (Q 52:19, 69:24) and the meal set before divine guests (Gen 18:5-8; Q 51:26-27, where the guests do not eat)."
+      - "Malt that is not sown: compare the seed that falls and does not sprout in Jesus' parable and the curse 'as malt does not sprout' in Akkadian treaties."
+  - id: ane-cth-324-5-fragment
+    tradition: ane-hittite
+    title: Fragment with hunting and the offering formula (Telipinu myth, CTH 324.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fragment CTH 324.5"
+    read: ["CTH 324.5"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.5 §7:21-26"], note: "nu-za e-et š[a-ne-ez-zi] 'eat the finest', nu-za ni-in-ga 'still your thirst', EGIR-pa ḫa-an-[da-aḫ-ḫu-ut] 'be set right again'"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 324.5 §1:4-§2:9"], note: "very broken: [cattle], sheep; pár-ḫu-wa-an da-iš 'began to chase'; a speech begins, {d}te-li-pí-nu-uš-ša 'and Telipinu'; tagged only as the gods' deliberation context, tentatively"}
+  - id: ane-cth-324-6-fragment
+    tradition: ane-hittite
+    title: Small fragment naming Telipinu and the palace (CTH 324.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fragment CTH 324.6"
+    read: ["CTH 324.6"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.6 §1:1-3"], note: "only [te-l]i-pí-nu-un, É.GAL 'palace', and [ ... ]e-du-un 'I ate (?)' survive; the tag is tentative"}
+  - id: ane-cth-324-7-1-eagle-and-gods-counsel
+    tradition: ane-hittite
+    title: The gods' counsel over furious Telipinu; the eagle and the sting (CTH 324.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fragment CTH 324.7"
+    read: ["CTH 324.7 §1:1-§6:37"]
+    tags:
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 324.7 §1:2-5"], note: "[ú]-e-mi-[ya] 'find', [ti-it-t]a-nu-ut 'set up': the finding of the god, fragmentary"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 324.7 §2:14-16"], note: "ma-a-an-w[a i-ya]-u-e-ni 'how shall we act?'; {d}te-li-pí-nu-uš [l]e-e-l[a-ni-ya-at-ta-at] 'Telipinu has become furious'"}
+      - {motif: god-singed-with-fire-to-purge-anger, refs: ["CTH 324.7 §3:17-24"], note: "{ḪUR.SAG}am-mu-na {GIŠ}ḫa-at-ta-ra-a[n] 'the sting/awl to Mount Ammuna'; [nu-wa-r]a-an a-pa-a-aš ar-nu-ud-du 'let him carry it off'; ḫa-ra-aš-š[a-an] ... [p]ár-ta-ú-ni-it ar-nu-ud-du 'let the eagle move (it) with his wings'; ⌈a⌉-ra-nu-ud-du 'let him make (him) rise'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.7 §4:25-§5:33"], note: "ta-an a-ra-a-er 'they stopped him'; kat-ta e-ša-ti 'he sat down'; {d}te-li-pí-[nu] u-i-e-et 'Telipinu sent'; [{NI]}NDAḫar-ši-it iš-pa-a[n-du-uz-zi-it] 'with thick bread and libation'"}
+    hints:
+      - "The eagle's wings bearing something away: compare 'I bore you on eagles' wings' (Ex 19:4) and Deut 32:11."
+  - id: ane-cth-324-7-2-anger-into-iron-vessels
+    tradition: ane-hittite
+    title: Telipinu's anger sent into the iron vessels of the dark earth; the road of fine oil (CTH 324.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fragment CTH 324.7"
+    read: ["CTH 324.7 §7:38-§9:58"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 324.7 §7:38"], note: "[kar-pí-i]š kar-di-[mi-ya-az w]a-aš-túl ... [EGIR-p]a a-pé-e-ni-iš-ša-an le-e 'let anger, wrath, sin not come back as before'"}
+      - {motif: anger-barred-from-fields-garden-forest, refs: ["CTH 324.7 §8:39-41"], note: "[pa-i]d-du i-da-a-lu kar-pí-iš 'let the evil, the anger ... go'; mi-ya-an-te-ya-at ... {GIŠ}TIR {GIŠ}KIRI6 an-da le-e pa-iz-zi 'not into the fruitful (field), the forest and the garden'; da-an-ku-wa-ya-ša-at ták-na-aš KASKAL-an pa-id-du 'let them go the road of the dark earth'"}
+      - {motif: anger-sealed-in-netherworld-cauldrons, refs: ["CTH 324.7 §8:42-49"], note: "da-an-ku-wa-a-i ták-ni-i AN.BAR-aš {DUG}pal-ḫi-iš ki-an-da 'in the dark earth lie palḫi-vessels of IRON' (not bronze as elsewhere); iš-tap-pu-ul-li-iš-mi-it A.BÁR-aš 'their lids of lead'; ku-it-kán an-da pa-iz-zi na-at-kán nam-ma ša-ra-a UL ú-ez-zi 'what goes in does not come up again'; an-da-pát-kán ḫ[ar]-ak-zi 'it perishes in there'; Telipinu's i-da-a-lu-uš kar-pí-iš ... i-da-lu-uš EME-aš i-da-lu-uš pa-tal-ḫa-aš 'evil anger ... evil tongue, evil sole' shall go in"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.7 §9:50-52"], note: "nu-za e-et ša-ne-ez-zi, e-ku-ma ša-ne-ez-zi 'eat the finest, drink the finest'; ka-a-ša Ì.DÙG.GA 'here is fine oil'"}
+      - {motif: path-sprinkled-with-fine-oil, refs: ["CTH 324.7 §9:53-54"], note: "ŠA {d}te-li-pí-nu KASKAL-aš IŠ-TU Ì.DÙG.GA pa-ap-pár-aš-ša-an-za e-eš-du 'let Telipinu's road be sprinkled with fine oil'; nu-uš-ša-an i-ya-aḫ-ḫu-ut 'walk on it'"}
+      - {motif: bed-of-sahi-and-happuriya, refs: ["CTH 324.7 §9:55-56"], note: "{GIŠ}ša-ḫi-iš {GIŠ}ḫa-ap-p[u-ri-ya-aš] ša-aš-za-ti-iš 'šaḫi and ḫappuriya are your bed'; nu-za-kán še-e-eš-ki 'sleep!'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 324.7 §9:57-58"], note: "GI.DÙG.GA ma-aḫ-ḫa-an ḫa-an-da-an-za 'as the sweet reed is constant', so be loyal (ḫa-an-da-an-za e-eš) to the king, queen and land of Hatti"}
+    hints:
+      - "Evil sealed below so that it never comes up: compare the sealed pit of the abyss (Rev 20:1-3) and hell whose gates are closed over the damned (Q 90:20, 104:8 'it is closed in upon them'); the lead lid recalls the woman in the ephah shut with a lead cover (Zech 5:7-8)."
+      - "What enters the dark earth does not come up: compare 'whoever goes down to Sheol does not come up' (Job 7:9) and Q 23:99-100 (a barrier, barzakh, until the day they are raised)."
+  - id: ane-cth-324-8-departure-and-ritual
+    tradition: ane-hittite
+    title: Ritual offerings; the god's departure with shoes reversed; the gods' unsatisfying feast and the search (CTH 324.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fragments CTH 324.8"
+    read: ["CTH 324.8"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.8 §2:5-§3:17"], note: "ritual rubric: šaḫi- and ḫappuriya [P]A-NI DINGIR-LIM da-a-i 'he sets before the deity'; half a measure of emmer flour; marnuwan and walḫi drinks; 9 GI.ḪI.A ša-a-i 'he shoots nine arrows'; a jug of wine, salt; 3 KUŠ UZ6 ... 1 BABBAR 1 GE6 1 SA5 'three goatskins, one white, one black, one red'"}
+      - {motif: shoes-put-on-wrong-feet, refs: ["CTH 324.8 §4:20-22"], note: "ZAG-an GÙB-li šar-ku-et 'he put the right (shoe) on the left'; a-ap-pé-zi-an ... wa-aḫ-nu-ut 'turned the back one'; na-aš-kán pa-ra-a i-ya-an-ni-iš 'and he went out'"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 324.8 §4:22"]}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 324.8 §4:24-29"], note: "iš-ta-na-na-aš ú-i-šu-ri-ya-at-[ta-ti] '(the gods) choked on the altar-stand'; ḫa-a-aš ú-i-šu-u-ri-ya-ta-ti 'the ash choked'; ŠÀ TÙR an-da UDU.ḪI.A KI.MIN 'in the fold the sheep likewise'"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 324.8 §5:30-36"], note: "[GAL-i]š-za {d}UTU-uš EZEN4-an i-e-e[t] 'the great Sun god made a feast'; [i]š-pí-i-e-er Ú-UL 'they did not get full'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 324.8 §5:37-39"], note: "[i-i]t-wa-ra-aš-ta pár-ga-mu-u[š ...] 'go [search] the high [mountains]', [ḫu-w]a-an-ḫu-eš-šar-kán ku-wa-a-[li-ú] 'the blue waves'; the searcher's name lost"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 324.8 §8:45-§9:58"], note: "2 NINDA.GUR4.RA 'two thick breads' for the Storm god; ma-aḫ-ḫa-an mi-ú-uš 'as (the bread) is soft' (analogy); na-iš-ḫu-ut 'turn!'; ZI-KU-NU 'your (pl.) soul'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 324.8 §8:47"], note: "ma-aḫ-ḫa-an mi-ú-uš 'as ... is soft'"}
+    hints:
+      - "A feast at which the guests eat and are not satisfied: compare the covenant curse 'you shall eat and not be satisfied' (Lev 26:26, Hos 4:10, Mic 6:14) and the food of hell that 'neither nourishes nor satisfies hunger' (Q 88:7)."
+  - id: ane-cth-324-9-fleece-fragment
+    tradition: ane-hittite
+    title: Fragment on the sheep and its fleece and the ritual patron (CTH 324.9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Fragment CTH 324.9"
+    read: ["CTH 324.9"]
+    tags:
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 324.9 §1:1-2"], note: "[ ... ] kat-ti-ti ar-ḫa ... e-eš-ri ḫu-e-[ez-ta] '(the sheep runs) past you and you pull out its fleece': the fleece of the rite; [E]N SÍSKUR 'the ritual patron' follows"}
+  - id: ane-cth-325-1-before-departure
+    tradition: ane-hittite
+    title: Fragmentary opening speeches, the iron dagger and the Moon god (Storm god mugawar, CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §1:1-§4:33"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 325 §3:17-18"], note: "[-w]a-mu DUḪ.LÀL pa-iš 'he gave me wax', [-w]a-mu GEŠTIN-an pa-iš 'he gave me wine'"}
+      - {motif: gods-ask-what-shall-we-do, refs: ["CTH 325 §4:21-33"], note: "fragmentary speech: [D]UMU.LÚ.U19.LU-ma-wa ma-aḫ-ḫa-an 'as a man ...'; AN.BAR-aš GÍR-an 'the iron dagger'; {d}ZUEN ši-e-et-ta 'the Moon god shot forth'; {LÚ}ŠU.GI {MUNUS}ŠU.GI 'the old man and old woman'; a-ru-e-eš-kán-du 'let them keep bowing down'; the context is unclear"}
+    hints:
+      - "The old man and old woman (ŠU.GI) as ritual figures: compare the old woman Abraham's wife and old husband told of a son (Q 11:72)."
+  - id: ane-cth-325-2-storm-god-departs
+    tradition: ane-hittite
+    title: The Storm god departs; mist, choking, rejected young, barrenness and drought (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §5:34-§8:53"]
+    tags:
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 325 §5:35-36"], note: "only e-ep-t[a] 'seized' survives; the rest restored from the duplicates"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 325 §5:37-§6:40"], note: "ú-e-šu-ri-y[a-an-ta-ti] 'choked'; TÙR an-da-a[n] 'in the fold'"}
+      - {motif: ewe-rejects-lamb-cow-rejects-calf, refs: ["CTH 325 §6:41-42"], note: "[GU4-m]a AMAR-ŠU me-em-ma-aš 'the cow refused its calf' (the ewe line restored)"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 325 §7:43-45"], note: "'the Storm god of heaven went away' is restored; [ú-e]-el-lu-i 'to the meadow' and [šal-ḫi-it-t]i-in 'growth' survive: he carried growth off to the meadow and moor"}
+      - {motif: vanished-god-takes-fertility-with-him, refs: ["CTH 325 §7:44"]}
+      - {motif: crops-and-wombs-fail-in-gods-absence, refs: ["CTH 325 §7:46-48"], note: "nu nam-ma ḫal-ki-iš 'no more does the grain [thrive]'; [DUMU.L]Ú.U19.LU Ú-UL '(cattle, sheep and) humans do not [conceive]'; those who were pregnant do not give birth"}
+      - {motif: mountains-trees-springs-dry-up, refs: ["CTH 325 §8:49-53"], note: "[ḪUR.SAG.ḪI].A ḫa-a-t[e-er] 'the mountains dried up'; {GIŠ}pár-aš-du-uš 'shoots'; [ú-e-ša-e-e]š 'the pastures'; PÚ.ḪI.A ḫa-az-ta 'the springs dried up'"}
+      - {motif: cattle-mourn-for-state-of-land, refs: ["CTH 325 §6:39-42"], note: "sheep and cattle suffer and reject their young in the god's absence"}
+    hints:
+      - "Barrenness of fields, herds and wombs when God withdraws: compare Joel 1:10-20 (grain destroyed, herds of cattle perplexed, the beasts of the field cry to God), Hos 9:11-14 (no birth, no pregnancy, no conception), and Jer 14:5 (the doe abandons her newborn because there is no grass)."
+      - "Quranic counterpart: drought and loss of crops and offspring sent as a test or warning (Q 7:130, 'we seized Pharaoh's people with years of drought and shortage of fruits'; Q 2:155); the earth reviving only when God sends rain (Q 30:50)."
+      - "The god who departs and is sought: compare Hos 5:15-6:3 ('I will return to my place until they seek my face ... he will come to us like the rain')."
+  - id: ane-cth-325-3-feast-search-blame
+    tradition: ane-hittite
+    title: The gods' unsatisfying feast, the eagle's search, and the quarrel over whose sin it was (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §9:54-§12:90"]
+    tags:
+      - {motif: gods-feast-without-satiety, refs: ["CTH 325 §9:54-59"], note: "GAL-iš-za {d}U[TU-uš] ... [L]I-IM DINGIR.MEŠ ḫal-za-a-iš 'the great Sun god called the thousand gods'; e-te-er-za 'they ate', e-ku-er 'they drank', ne-ez Ú-UL ḫa-aš-ši-ik-ke-er 'they did not still their thirst'"}
+      - {motif: vanished-god-takes-fertility-with-him, refs: ["CTH 325 §9:60-64"], note: "the father: DUMU-YA-wa-kán '[my son is not here]'; [ša]-a-et-wa-ra-an-za 'he became angry'; [ḫal-k]i-in {d}im-mar-ni-in šal-ḫa-an-ti-in [ma-an-ni-i]t-ti-in iš-pí-ya-tar-ra pé-e-da-aš 'he has carried off grain, fertility, growth, thriving and satiety'"}
+      - {motif: gods-search-for-vanished-god, refs: ["CTH 325 §10:65"], note: "[{d}IM-a]n ša-an-ḫi-iš-ki-u-wa-an da-a-er 'they began to search for the Storm god'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 325 §10:66-§11:76"], note: "[ḫa-a-ra-n]a-an li-li-wa-an-da-an [IŠ-PU]R 'he sent the swift eagle'; pár-ga-mu-uš ... ḫa-a-ri-uš ḫal-lu-u-wa-mu-uš ... ḫu-wa-ḫu-eš-šar ku-wa-le-e 'high mountains, deep valleys, blue waves'; Ú-UL-an AK-ŠU-UD ne-pí-ša-aš {d}IM-an 'I did not find him, the Storm god of heaven'"}
+      - {motif: gods-blame-each-other-for-sin, refs: ["CTH 325 §12:77-90"], note: "the father to the grandfather: [ku-iš-w]a ku-iš wa-aš-ta-aš nu-wa NUMUN-an ḫar-ak-ta 'whoever sinned, the seed has perished'; grandfather: Ú-UL ku-iš-ki wa-aš-ta-aš [z]i-ik-pát mi-nu wa-aš-ta-at-ta 'no one sinned: you alone sinned!'; Ú-UL-wa ú-uk wa-aš-ta-aḫ-ḫu-un 'I did not sin'; ki-i ut-tar u-ur-ki-ya-mi nu-ut-ták-kán ku-e-mi 'I will trace this matter and kill you'"}
+      - {motif: drought-as-punishment-for-sin, refs: ["CTH 325 §12:79-81"], note: "the disappearance and drought are assumed to come from an offence (waštul): 'whoever sinned, the seed perished and everything dried up'"}
+    hints:
+      - "Searching for the sinner behind a public disaster: compare Jonah's shipmates casting lots to find on whose account the storm came (Jonah 1:7) and Q 37:141; Achan identified by lot (Josh 7)."
+      - "'You alone sinned' / 'I did not sin': the shifting of blame recalls Adam and Eve (Gen 3:12-13), and its Quranic answer that each soul bears its own burden (Q 6:164, 53:38)."
+  - id: ane-cth-325-4-hannahanna-sends-bee
+    tradition: ane-hittite
+    title: The father goes down to the fate-goddesses and Hannahanna, who reassures him and sends the bee (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §13:91-§15:130"]
+    tags:
+      - {motif: mother-goddess-will-set-right-either-way, refs: ["CTH 325 §13:91-110"], note: "{d}gul-ša-aš {d}NIN.TU 'the fate-goddesses (and) Hannahanna'; the father reports {d}IM-na-aš-za ša-a-et nu-wa ku-it-ta ḫa-a-[az-ta] nu-wa ut-ne-e ḫar-ak-ta 'the Storm god became angry, everything dried up, the land perished'; le-e-wa-at-ta na-a-ḫi 'do not be afraid!'; tu-e-[el-ku wa-aš-ta-iš] ú-ga-at SIG5-zi-ya-mi Ú-UL-ak-ku tu-[e-el] ú-ga-at SIG5-zi-ya-mi 'whether it is your sin or not, I will put it right'"}
+      - {motif: do-not-fear-formula, refs: ["CTH 325 §13:106"], note: "le-e-wa-at-ta na-a-ḫi"}
+      - {motif: mother-goddess-sends-bee, refs: ["CTH 325 §13:111-119"], note: "i-it {d}10-an š[a-an-ḫa] 'go seek the Storm god'; ḫu-uḫ-ḫa-aš-ši-iš na-a-ú-i iš-ta-ma-[aš-zi] 'his grandfather has not yet heard (it)'; ú-uk-wa-ra-an-t[a] 'I (will hand) him to you'; 'bring [the bee]' (restored) ... a-pa-a-aš ša-an-[aḫ-zi] 'it will search'"}
+      - {motif: gods-search-for-vanished-god, refs: ["CTH 325 §14:120-129"], note: "the father: the gods searched and [n]a-at-ta ú-e-mi-[er] 'did not find (him)'; '(the small one) goes ... finds': the restored contrast between the great gods and the small bee"}
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 325 §15:130"], note: "only nu {d}IM-an ... 'the Storm god' survives of the finding"}
+    hints:
+      - "A goddess reassures a frightened petitioner with 'do not fear': compare the angels' 'do not fear' to Abraham (Q 51:28) and to Lot (Q 29:33), and God's to Moses (Q 20:68)."
+  - id: ane-cth-325-5-water-of-turning-and-return
+    tradition: ane-hittite
+    title: The Storm god's instructions, the 'water of turning', and the return of thriving to the father's house (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §16:131-§20:156"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 325 §16:131-§17:139"], note: "the Storm god: nu-wa-mu {d}UTU-ŠI wa-ḫi-i[š-na-aš] ... le-e ú-da-i 'let His Majesty not bring me (the water) of turning'; {d}UTU-ŠI-aš wa-ḫe-eš-na-aš wa-a-tar ... QA-TI-ŠU la-a-aḫ-ḫu-uš 'he poured the water of turning of His Majesty into his hand'; pár-ku-nu-u[m-ma-aš] 'of purification'"}
+      - {motif: vanished-god-takes-fertility-with-him, refs: ["CTH 325 §17:140-141"], note: "reversal: EGIR-pa MA-ḪAR A-BI-ŠU pa-it šal-ḫa-an-ti-in ma-an-ni-it-ti-i[n] 'he went back before his father (with) growth and thriving'"}
+      - {motif: gods-eat-and-are-satisfied-on-return, refs: ["CTH 325 §18:144-150"], note: "DINGIR.MEŠ a[t-t]a-aš-ša-aš É-ri 'the gods in his father's house' ... ne-ez iš-pí-i-e-er 'they ate their fill'; DUMU-YA-wa a-ap-pa ú-et 'my son has come back!'; {d}ḫal-ki-in {d}i[m-mar-ni-in] ... iš-pí-ya-tar-r[a] 'grain, fertility ... satiety'"}
+    hints:
+      - "'My son has come back!' and the feast in the father's house: compare the father's joy at the return of the lost son (Luke 15:24) and Jacob's revival at news of Joseph (Gen 45:27-28; Q 12:96)."
+  - id: ane-cth-325-6-kamrusepa-purges-anger
+    tradition: ane-hittite
+    title: Kamrusepa takes the anger from the Storm god's body; firewood, fire and the water-pipe analogies; assembly under the hawthorn (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §21:157-§26:195"]
+    tags:
+      - {motif: god-singed-with-fire-to-purge-anger, refs: ["CTH 325 §21:157-§22:160"], note: "[Š]A {d}kam-[ru-še-pa] 'of Kamrusepa'; nu {d}IM-ni š[e-er] '(I burned) over the Storm god', the burning formula restored ([du-wa-an-na wa-ar-nu-nu-un])"}
+      - {motif: evil-taken-from-gods-body, refs: ["CTH 325 §22:161-166"], note: "wa-aš-du-ul-še-et da-a[ḫ-ḫu-un] 'I took his sin', wa-ar-ku-uš-ša-an da-a[ḫ-ḫu-un] 'I took his warku-'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 325 §23:167-172"], note: "{d}IM-na-aš kar-di-mi-ya-u-wa-a[z] ... ú-e-šu-ri-ya-at-ta-ti 'the Storm god's angry (soul) choked'; as they burned this firewood, kar-pí-iš kar-tim-mi-ya-z[a] ... [Q]A-TAM-MA wa-ra-a-nu 'so let anger, wrath ... burn'; [ú]-ri-wa-ra-an pa-aḫ-ḫur 'a burning fire'; nu ki-i pa-aḫ-ḫur ma-aḫ-ḫ[a-an] 'as this fire (goes out)', so anger"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 325 §24:173-178"], note: "[{d}I]M-ta kar-pí-in tar-na ... ša-a-u-ar tar-[na] 'Storm god, let go the anger, ... let go the sullenness!'; {GIŠ}ŠEN-aš EGIR-pa pár-za Ú-UL ar-ši-ez-zi 'as (water) of the pipe does not flow backwards', so let anger not come back"}
+      - {motif: divine-assembly-under-hawthorn, refs: ["CTH 325 §24:178-§25:183"], note: "[{GIŠ}ḫa-tal-k]e-eš-ni kat-ta-an tu-li-ya-an 'assembly under the hawthorn' (restored); MU.ḪI.A ki-an-da 'years lie'; DINGIR.MEŠ-ša ḫ[u-u-ma-an-te-eš] 'all the gods'; {d}gul-še-eš DINGIR.M[AḪ.MEŠ] 'fate-goddesses, mother-goddesses', {d}te-li-pí-nu-uš {d}LAMMA-aš {d}ḫ[a-pa-an-ta-li-ya-aš]; ta-lu-ga-aš MU.KAM.ḪI.A-aš 'of long years'"}
+      - {motif: evil-taken-from-gods-body, refs: ["CTH 325 §25:184-§26:195"], note: "[n]a-an pár-ku-nu-nu-un 'I purified him'; [t]u-ug-ga-az-ši-it da-aḫ-ḫu-un 'I took from his body' anger, wrath, wa-aš-du-ul-še-et 'his sin', [i-da-l]u-un EME-an 'the evil tongue', i-da-a-lu-un pa-ta-al-ḫa-an 'the evil sole', ḫa-me-eš-ḫa-an-da-aš a-im-pa-an 'the burden of spring', [summer's burden]"}
+    hints:
+      - "Anger 'let go' (tarna) and not to flow back: compare the prayer that God's wrath be turned back (Ps 85:4-6; Ex 32:12 'turn from your burning anger') and the Quranic God whose mercy outstrips his wrath (Q 7:156)."
+      - "Sin taken off the body and carried away: compare the scapegoat bearing the people's iniquities (Lev 16:21-22)."
+  - id: ane-cth-325-7-oven-and-herbs
+    tradition: ane-hittite
+    title: A god builds a lasting oven; the golden window of the clouds; soapwort, pebbles and the queen's herbs (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §27:196-§30:216"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 325 §27:196-205"], note: "ú-e-da-aš {d}te[- ...] '(Te...) came'; uk-tu-u-ri-in UDUN-in IB-NI 'he built himself a lasting oven'; al-pa-aš-ša-ša {GIŠ}AB-in GUŠKIN 'the window of his clouds of gold'; {GIŠ}kar-ša-ni-i 'soapwort'; [{d}ḫa-pa-an-t]a-li-ša dam-mi-la-az pé-e-da-[az] 'Hapantali from an untouched place'; šu-uḫ-ḫa-aš 'poured in'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 325 §28:206-§30:216"], note: "[wa-aš-š]i-ya-aš MUNUS.LUGAL 'the queen's healing herbs'; {GIŠ}ḫa-ta]l-ki-iš-na-aš {GIŠ}ma-ar-ši-i[q-qa-aš] 'hawthorn, maršikka'; [šu-up]-pí wa-a-tar 'pure water'; QA-TAM-MA 'likewise'"}
+    hints:
+      - "The golden window of the clouds: compare the 'windows of heaven' opened for rain (Gen 7:11; Mal 3:10) and the gates of the sky opened with pouring water (Q 54:11)."
+  - id: ane-cth-325-8-anger-to-netherworld-return
+    tradition: ane-hittite
+    title: The house lets the anger go; seven doors and the cauldrons of the dark earth; the Storm god returns and the eya-tree fleece (CTH 325)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 325 §31:217-§39:274"]
+    tags:
+      - {motif: house-parts-release-the-anger, refs: ["CTH 325 §31:217-224"], note: "pár-n[a-an-za-at] 'the house (shall release) it'; lu-ut-ta-[an-za-at] 'the window'; [ḫ]i-la-aš tar-na-ú 'let the court release'; KÁ-at 'the door'; KASKAL LUGAL-[at tar-n]a-[ú] 'let the king's road release it'"}
+      - {motif: anger-barred-from-fields-garden-forest, refs: ["CTH 325 §31:225-226"], note: "{GIŠ}KIRI6 {GIŠ}T[IR-ni] 'garden, forest'; [tá]k-n[a-ša-at] 'the (road) of the earth'"}
+      - {motif: netherworld-doorkeeper-opens-seven-doors, refs: ["CTH 325 §32:227-228"], note: "ḫa-a-aš-ta {LÚ}NI.DUḪ 'the doorkeeper opened'; 'the seven doors, the seven bolts' restored from the Telipinu myth"}
+      - {motif: anger-sealed-in-netherworld-cauldrons, refs: ["CTH 325 §32:229-236"], note: "kat-ta-an da-an-ku-wa-[i] 'down in the dark (earth)'; the cauldrons themselves restored ('bronze'), the lids AN.BAR-aš 'of iron', za-ak-ki-iš-mi-i[š] 'their bolts'; ša-ra-a Ú-UL ú-e[z-zi] 'does not come up'; [n]a-at a-ap-pa le-e ú-[ez-zi] 'let it not come back'"}
+      - {motif: god-returns-house-restored, refs: ["CTH 325 §33:237-244"], note: "{d}IM-aš a-ap-[pa p]ár-na-aš-š[a ú-et] 'the Storm god came back to his house'; KUR-SÚ kap-pu-u-e-et 'cared for his land'; kam-ma-ra-a-aš t[ar-n]a-aš 'the mist left'; É-e[r] 'the house'; ḫa-an-[d]a-[an-t]a-ti 'were set right'"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 325 §33:245-247"], note: "[pé-e]n-né-eš-ta '(the mother) recognised'?; UDU-[uš] KI.MIN 'the ewe likewise'; GU4-[uš] 'the cow'"}
+      - {motif: returned-god-cares-for-king, refs: ["CTH 325 §33:248-§34:250"], note: "TI-ni in-na-ra-u-[wa-an-ni] 'with life, vigour'; {d}IM-aš-za LUGAL-uš kap-pu-w[a-et] 'the Storm god took care of the king'"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 325 §34:251-§35:263"], note: "{GIŠ}e-ya-az-kán UDU-aš {KUŠ}kur-ša-aš 'from the eya-tree a sheep's fleece'; GU4-aš UDU-a[š] 'cattle and sheep'; [DUMU.NIT]A.MEŠ DUMU.MUNUS.MEŠ 'sons, daughters'; ku-un-na-aš w[a-al-la-aš] 'the right thigh'; [ma-an-n]i-it-ti-iš iš-p[í-ya-tar-ra] 'thriving and satiety'; LUGAL-i kar-pa-n[u-ut] 'he had it carried to the king'"}
+      - {motif: god-returns-to-his-temple, refs: ["CTH 325 §33:237"]}
+    hints:
+      - "Return and blessing on the house: compare God's 'return' (tawwab) to those who repent and the blessing of rain, sons and gardens (Q 71:10-12)."
+      - "The doorkeeper and seven doors of the underworld: compare 'hell has seven gates, for each gate a portion of them' (Q 15:44)."
+  - id: ane-cth-326-1-asmunikal-departure
+    tradition: ane-hittite
+    title: The Storm god of Queen Asmunikal departs with shoes reversed; mist, smoke and choking (CTH 326)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 326 §1:1-§3:26"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 326 §1:1-6"], note: "[š]a-né-ez-z[i] 'finest'; ḫa-a-ra-aš 'the eagle'?; PA-NI DINGIR-LIM ti-ya-zi 'he steps before the deity' and speaks: the ritual frame"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 326 §2:7"], note: "[{d}10] {f}aš-mu-ni-kal ša-a-et 'the Storm god of Asmunikal became angry': the personal god of a queen"}
+      - {motif: shoes-put-on-wrong-feet, refs: ["CTH 326 §2:9-11"], note: "{KUŠ}E.SIR GÙB-la-a[z] 'the shoe on the left'; [wa-aḫ-n]u-ut 'he turned'; na-aš-kán pa-ra-a 'and (went) out'"}
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 326 §2:12-13"], note: "[kam-m]a-ra-aš IṢ-BAT 'mist seized'; GIŠ.ÙR.ḪI.A 'the roof-beams' (dupl.: the house)"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 326 §2:14-§3:21"], note: "[iš-t]a-na-na-aš ú-i-šu-[ri-ya-an-ta-ti]; {GIŠ}kal-mi-ša-n[é-eš] 'logs'; [ḫ]i-[l]i-iš-ša-an an-da UD[U.ḪI.A] 'in the court the sheep'; É.GU4-kán an-da GU4.ḪI.A 'in the pen the cattle'"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 326 §3:23-26"], note: "[az-z]i-kán-zi 'they eat', na-at-za na-[at-ta] '(do) not (get full)'; ḫa-aš-ši-kán-[zi] '(do not) still thirst'; here said of the people or gods of the household"}
+    hints:
+      - "A personal god of a queen who withdraws and must be appeased: compare the god who 'turned away' from a ruler (1 Sam 16:14, 28:15-16) and the Quranic reminder that God turns to whom he wills (Q 9:118)."
+  - id: ane-cth-326-2-asmunikal-return
+    tradition: ane-hittite
+    title: The Storm god of Asmunikal returns; the lamb's fleece and its mild message; the queen's petition; analogies of firewood and the pot (CTH 326)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 326 §4:27-§10:75"]
+    tags:
+      - {motif: god-returns-house-restored, refs: ["CTH 326 §4:27-35"], note: "{GIŠ}šar-pa-aš e-š[a-at] 'he sat on the stool'; iš-ta-na-n[a-aš ḫ]a-an-ta-e[t] 'the altar-stand was set right'; DINGIR.MEŠ ḫa-an-da-a[n-t]a-at; GUNNI-an {GIŠ}kal-m[i-ša-n]i-uš KI.MIN"}
+      - {motif: gods-eat-and-are-satisfied-on-return, refs: ["CTH 326 §4:36-39"], note: "az-zi-kán-zi na-a[t-z]a iš-pí-e-[er] nam-ma 'they eat and were full again'"}
+      - {motif: lamb-fleece-holds-mild-message, refs: ["CTH 326 §5:40-42"], note: "iš-ta-na-ni pé-ra-an SILA4-aš {KUŠ}kur-ša-a[š] 'before the altar-stand a lamb's fleece'; SILA4-aš mi-i-ú-uš ḫa-l[u-ga-aš] 'the mild message of the lamb'; LUGAL MUNUS.LUGAL PA-NI {d}10 ḫar-ša-an-na-aš ... ḫa-lu-ga-aš e-eš-du 'may king and queen be (such) a message before the personal Storm god'"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 326 §5:43-50"], note: "ZAG-aš 'the right (thigh)'; ga-la-ak-tar, pár-ḫu-e-n[a-aš] lie in the fleece; {f}a[š-mu-ni-kal] ... ZAG-aš w[a]-al-[la-aš] 'may Asmunikal be the right thigh before the god'; ga-la-an-ga-za e-eš 'be soothed toward her'; mu-ga-a-an-za e-[eš-du] 'be invoked'"}
+      - {motif: queen-asks-sons-daughters-long-years, refs: ["CTH 326 §5:51"], note: "DUMU.MEŠ DUMU.MU[NUS.MEŠ] ... [ḫa-an-za-aš-š]u-uš ta-lu-ga-u[š] 'sons, daughters, [great-grandchildren], long (years)'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 326 §8:57-62"], note: "PA-NI DINGIR-LIM ... iš-ḫu-a-i 'he pours before the deity'; kar-di-mi-ya-az ... ḪUL-lu-uš me-mi-aš ar-ḫa ... [wa-a]r-ša-ma-aš i-wa-ar kar-ša-an-za 'wrath ... and evil word cut off like firewood'; wa-ar-nu-wa-an-za e-eš-du 'let them be burned'"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 326 §9:63-72"], note: "NINDA.Ì.E.DÉ.A 'cake'; 3-ŠU-pát kiš-an me-ma-i 'three times he speaks'; i-da-lu al-pa-an ú-ez-zi 'the bad cloud comes'; LÚ {d}10 'the man of the Storm god'; [a]l-pa-aš-ša ar-ḫa pa-iz-zi 'the cloud goes away'; {DUG}ÚTUL-aš 'the pot', {GIŠ}ti-e-pa-aš a-ra-a-ez-zi 'the spoon stops it'; so may anger, wrath and the evil word be stopped (a-ar-ra-an-te-eš)"}
+    hints:
+      - "The queen as a 'mild message of the lamb' before her god: compare the offering of a lamb as a 'pleasing odour' (Lev 1:9-10) and the ram that ransomed Abraham's son (Q 37:107)."
+      - "The bad cloud that comes and goes: compare the cloud the people of 'Ad took for rain but which bore punishment (Q 46:24)."
+  - id: ane-cth-327-1-harapsili
+    tradition: ane-hittite
+    title: "The Storm god of Queen Harapsili: choking, invocation, return, lamb's fleece and petition (CTH 327.1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 327.1"]
+    tags:
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 327.1 §3:14-15"], note: "[ḫi]-li-eš-ša-an a[n-da] 'in the court', É.GU4-kán an-d[a] 'in the pen'; the verb restored"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 327.1 §3:16-19"], note: "[a]z-zi-kán-z[i], [a]k-ku-uš-kán-zi 'they eat, they drink' (not satisfied, restored)"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 327.1 §4:22-35"], note: "[t]a-wa-li-it 'with tawal-drink'; [i]š-ta-ma-n[a-aš] 'the ear'; ša-ša-an-da-na 'the sleeping one'; [t]a-wa-la-aš wa-al-ḫi-ya-aš ÍD.MEŠ 'rivers of tawal and walḫi'; ki-it-ta-ma-at-ta 'there lies for you'; nu EGIR-pa wa-aḫ-nu-ut 'turn back!'"}
+      - {motif: god-asked-to-turn-to-king-in-good, refs: ["CTH 327.1 §5:36-38"], note: "[GÉ]ME-KA a-aš-ša-ú-e-et IGI.ḪI.A-[it] '(look on) your maidservant with good eyes'; [ḫu]-u-ma-an-te-et [ka]r-ti 'with all (your) heart'; nu-ú-ti tu-u-ma-a[n-ti-ya] 'in assent and obedience'"}
+      - {motif: god-returns-house-restored, refs: ["CTH 327.1 §5:39-51"], note: "ú-et {d}10 {f}ḫa-r[a-a]p-ši-DINGIR-LIM 'he came, the Storm god of Harapsili'; [{GIŠ}]šar-pa-aš e-ša-at 'sat on the stool'; [{GIŠ}A]B-ya kam-ma-ra-a-aš tar-n[a-aš] 'the mist left the window'; ZAG.GAR.RA-aš ḫa-an-da-at-ta-at 'the altar was set right'; {É}ḫi-li-kán an-da UDU.ḪI.A ḫa-an-ta-ti"}
+      - {motif: gods-eat-and-are-satisfied-on-return, refs: ["CTH 327.1 §5:52-55"], note: "na-at-za iš-pí-i-e-er nam-ma 'they were full again'"}
+      - {motif: lamb-fleece-holds-mild-message, refs: ["CTH 327.1 §5:56-60"], note: "ŠA SILA4 {KUŠ}kur-ša-aš ga-an-[kán-za] 'the lamb's fleece is hung'; SILA4-aš mi-i-ú-uš ḫa-lu-ga-aš; MUNUS.LUGAL ... mi-i]-ú-uš ḫa-lu-ga-aš e-eš-du 'let the queen be a mild message'; [w]a-al-la-aš ki-it-ta 'the thigh lies'"}
+      - {motif: queen-asks-sons-daughters-long-years, refs: ["CTH 327.1 §6:62-§7:65"], note: "[ḫ]a-aš-šu-u[š] 'grandchildren', [M]U.KAM.ḪI.A-u[š] 'years'; the request mostly restored"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 327.1 §1:7-§2:13", "CTH 327.1 §8:66-§9:69"], note: "the departure is lost in the gap: only MU.ḪI.A GÍD.DA 'long years', [ḫa-me-e]š-ḫi ḫar-ki 'white in spring', UDU-aš 'a sheep', and at the end [{GIŠ}]AB-ya EGIR-a[n] 'behind the window' and the god's name survive"}
+    hints:
+      - "'Look on your maidservant with good eyes': compare Hannah's 'if you will look on the affliction of your maidservant' (1 Sam 1:11) and Mary's 'he has looked on the lowliness of his servant' (Luke 1:48); in the Quran Zechariah's and Mary's mother's prayers for offspring (Q 3:35-38, 19:4-6)."
+  - id: ane-cth-327-2-fragment
+    tradition: ane-hittite
+    title: "Fragment of the Harapsili myth: something poured before the deity, the anger away (CTH 327.2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 327.2"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 327.2 §1:1-5"], note: "[PA-N]I DINGIR-LIM ... [i]š-ḫu-wa-a-i 'pours before the deity'; [ŠA] {d}10 {f}ḫ[a-ra-ap-ši-li] ... [ša]-a-u-wa-a[r] ... [a]r-ḫ[a] 'the sullenness of the Storm god of Harapsili ... away'"}
+  - id: ane-cth-327-3-fragment
+    tradition: ane-hittite
+    title: "Fragment of the Harapsili myth: the thigh, the beer vessel, burning before the deity, the eagle (CTH 327.3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 327.3"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 327.3 §1:1-§3:13"], note: "wa-al-la-a[n] 'the thigh'; ki-i ḫ[u-u-ma-an] ... [da]-a-i 'all this he sets'; 1 DUG.KA.GAG NA[G] 'a vessel of beer to drink'; ša-ez-zi 'becomes angry'?; PA-NI DI[NGIR-LIM] ... še-mi-še-ez-zi 'he burns (it)'"}
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 327.3 §3:14"], note: "only [ḫ]a-ra-na-aš-ša 'and the eagle' survives; tentative"}
