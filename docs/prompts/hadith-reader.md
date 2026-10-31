@@ -63,9 +63,15 @@ loses nothing. Its form:
 - **The book:** each line goes in the section of its book (`"name": "<book number>"`), from your
   chunk's page ranges.
 - **`matn`:** the report as printed, from "عن …" to the end of the quoted report. Copy it exactly from
-  the tool output: same spelling and the same diacritics where the text has them. Leave out the
-  compiler's grade, takhrij and discussion.
-- **`companion`:** the first transmitter named after "عن".
+  the tool output: same spelling, the same diacritics where the text has them, and printed typos as
+  they stand. Variants printed before the takhrij line («وفي رواية …») belong to the matn. Leave out
+  the compiler's grade, takhrij and discussion, and transmitters' remarks on the chain.
+  - If the matn runs onto the first page after your chunk, fetch that page only to finish it, and
+    don't record the page.
+  - A hadith the book repeats elsewhere is saved again where it stands.
+  - An ornament such as «• * *» is not a hadith.
+- **`companion`:** the Companion who reports from the Prophet. That is usually the first name after
+  "عن"; where the chain opens with a Successor, it is the Companion further along.
 - **`grade`:** the compiler's label that opens the takhrij line ("متفق عليه", "صحيح", "حسن", …),
   word for word. It is his judgment, recorded as his. Never grade anything yourself.
 - **`takhrij`:** each collection he cites, as `{collection, ref}`.
@@ -75,6 +81,8 @@ loses nothing. Its form:
 - **`quran`:** verses the hadith itself names or explains, or that its bāb cites as what it explains
   ("2:30-38"). A hadith of the tafsir book always has one. This is the tradition's own link between
   hadith and verse.
+  - A verse cited at a bāb head applies to the hadith of that bāb.
+  - Where the printed verse number is wrong, record the correct verse and note it in the unit.
 
 ## 2. Tag the units (`data/motif-tags/hadith/{NN}-{SLUG}.yaml`)
 
