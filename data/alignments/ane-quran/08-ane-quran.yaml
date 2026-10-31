@@ -1,0 +1,501 @@
+# ANE x Quran side-by-side pass, chunk 8 (ETCSL 2.5.1.2 - 5.7.a, Adapa, Advice to a Prince, Angim, Anzu). Judged blind, from the originals.
+new_motifs:
+  works-carried-off-by-the-wind: {label: The wrongdoer's works are carried off by the wind and reckoned as nothing (a breath, ashes, dust), cluster: judgment}
+  payment-to-the-judge: {label: Money or a gift passes to the judge of a case to pervert the verdict, cluster: law}
+  brothers-offerings-and-the-envy-that-follows: {label: Two brothers each bring an offering to the god, and envy of one against the other follows, cluster: law}
+  counsel-about-the-food-of-immortality: {label: Before the offer of a food that gives (or is said to give) eternal life, an adviser tells the human whether to eat it, and names the food, cluster: afterlife}
+  human-holds-fast-to-or-forgets-the-instruction: {label: A human is given an instruction about what not to eat and either holds fast to it or forgets it, cluster: creation}
+  human-sent-down-from-heaven-to-earth: {label: After the episode of the forbidden or refused food, the human is ordered back down to earth, cluster: creation}
+  garment-given-or-stripped-in-the-divine-realm: {label: In the divine realm the human is given a garment to put on, or has his covering stripped, cluster: creation}
+  knowledge-of-heaven-and-earth-given-to-a-human: {label: A god gives a human knowledge of 'heaven and earth' and a higher divine voice remarks on it, cluster: creation}
+  wisdom-without-eternal-life: {label: A god gives the first human (or the human sage) knowledge, while eternal life is withheld or only promised by a tempter, cluster: death}
+reviewed:
+  - unit: ane-etcsl-2-5-1-2-ishbi-erra-and-kindattu
+    checked: [quran-2-sleeper-hundred-years, quran-29-destroyed-nations, quran-89-dawn, quran-105-elephant]
+    matches: []
+  - unit: ane-etcsl-2-5-2-1-nergal-adab-shu-ilishu
+    checked: [quran-79-pharaoh-and-cosmos, quran-71-noah, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-5-2-3-adab-shu-ilishu-fragment
+    checked: [quran-3-sovereignty, quran-7-closing-recitation, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-5-4-08-enlil-adab-ishme-dagan
+    checked: [quran-2-throne-verse, quran-23-lordship-arguments, quran-3-sovereignty, quran-18-companions-of-the-cave]
+    matches:
+      - with: quran-18-companions-of-the-cave
+        motif: no-one-changes-the-spoken-word
+        refs: ['ETCSL 2.5.4.08 sa–gida.A:11', 'ETCSL 2.5.4.08 sa–jara.C:25']
+        with_refs: ['18:27']
+        relation: echo
+        record:
+          agent: [the singer addressing Enlil, God to the Prophet]
+          object: [Enlil's utterance, his words]
+          action: [declares the god's word unalterable, declares the god's words unalterable]
+          quoted: [dug4-ga-ni nu-kam3-me-dam; niŋ2 nu-kur2-ru dug4-ga-zu ki-bi-še3 ŋar, lā mubaddila li-kalimātihi]
+        note: Enlil's utterance 'is not to be altered' (nu-kam3) and 'is set in its place, unchangeable' (nu-kur2); 18:27 lā mubaddila li-kalimātihi of the revealed Book. A formula; recorded here because the adab is to Enlil, the same god as the chunk-1 match.
+  - unit: ane-etcsl-2-5-4-13-nanna-adab-ishme-dagan
+    checked: [quran-3-sovereignty, quran-35-originator, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-etcsl-2-5-4-13-second-manuscript
+    checked: [quran-112-114-unity-and-refuge, quran-3-sovereignty, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-5-4-15-ninurta-tigi-ishme-dagan
+    checked: [quran-27-is-there-a-god-with-god, quran-2-throne-verse, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-5-4-15-version-2
+    checked: [quran-3-sovereignty, quran-17-prayer-spirit-and-challenge, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etcsl-2-5-4-19-statue-of-runner-king
+    checked: [quran-3-sovereignty, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-5-4-21-dagan-adab-ishme-dagan
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-5-4-27-fifty-names-ishme-dagan
+    checked: [quran-7-names-and-hour, quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-5-4-29-enki-junior-enlil-ninurta
+    checked: [quran-2-throne-verse, quran-23-lordship-arguments, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-5-4-a-inana-lament-and-justice
+    checked: [quran-6-commandments, quran-46-ahqaf-parents-and-the-scornful-son, quran-4-kindness-misers-atom, quran-40-throne-bearers]
+    matches: []
+  - unit: ane-etcsl-2-5-4-b-enki-for-ishme-dagan
+    checked: [quran-5-jesus-miracles-table, quran-17-polemic-and-resurrection, quran-43-zukhruf-jesus-and-paradise]
+    matches: []
+  - unit: ane-etcsl-2-5-5-8-ua-di-inana-lipit-eshtar
+    checked: [quran-66-tahrim-wives-and-the-four-women, quran-3-imran-mary-zechariah, quran-19-mary-and-jesus]
+    matches: []
+  - unit: ane-etcsl-2-5-6-1-inana-brings-ur-ninurta-to-ekur
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-taha-prologue, quran-6-signs-would-not-convince]
+    matches:
+      - with: quran-6-signs-would-not-convince
+        motif: no-one-changes-the-spoken-word
+        refs: ['ETCSL 2.5.6.1 :17']
+        with_refs: ['6:115']
+        relation: echo
+        record:
+          agent: [Inana addressing An, God of himself]
+          object: [An's word, the words of your Lord]
+          action: [declares the god's word unalterable, declares the god's words unalterable]
+          quoted: [an gal dug4-ga-zu niŋ2 mah-am3 a-ba-a šu mi-ni-ib-bal-e, wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi]
+        note: '''Great An, your word is lofty, who can overturn it (šu bal)?'' as a rhetorical question; 6:115 states it: ''no changer of his words'' (lā mubaddila). In Sumerian the word is An''s decree of the king''s fate; in 6:115 God''s word ''complete in truth and justice''.'
+  - unit: ane-etcsl-2-5-6-1-fate-unchangeable-inana-spouse
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-5-7-1-ninurta-adab-bur-suen
+    checked: [quran-3-sovereignty, quran-3-badr-uhud, quran-9-closing]
+    matches: []
+  - unit: ane-etcsl-2-6-2-a-nanna-for-gungunum
+    checked: [quran-27-is-there-a-god-with-god, quran-2-throne-verse, quran-57-hadid-first-and-last-and-the-loan]
+    matches: []
+  - unit: ane-etcsl-2-6-6-5-iskur-throne-sin-iddinam
+    checked: [quran-79-pharaoh-and-cosmos, quran-2-talut-jalut, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-6-9-a-rim-sin-throne-of-life
+    checked: [quran-3-sovereignty, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-8-5-a-abi-eshuh-utu-marduk
+    checked: [quran-3-sovereignty, quran-40-throne-bearers, quran-2-throne-verse]
+    matches: []
+  - unit: ane-etcsl-2-8-5-b-marduk-blessing-for-king
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-40-throne-bearers]
+    matches: []
+  - unit: ane-etcsl-2-99-b-royal-praise-fragment
+    checked: [quran-39-mercy-and-last-day, quran-79-pharaoh-and-cosmos, quran-35-originator]
+    matches: []
+  - unit: ane-etcsl-2-99-c-gilgamesh-shade
+    checked: [quran-38-solomon-horses-throne, quran-27-solomon-ants-hoopoe-sheba, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-99-d-nibru-city-of-gods
+    checked: [quran-23-lordship-arguments, quran-17-polemic-and-resurrection, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-3-1-13-1-shulgi-to-aradgu-troops
+    checked: [quran-2-talut-jalut, quran-27-solomon-ants-hoopoe-sheba, quran-55-rahman-judgment-and-the-four-gardens]
+    matches: []
+  - unit: ane-etcsl-3-3-02-lugal-nesage-moon-king
+    checked: [quran-36-trumpet-and-judgment, quran-93-94-forenoon-and-expansion, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches: []
+  - unit: ane-etcsl-3-3-03-lugal-nesage-sun-king
+    checked: [quran-40-throne-bearers, quran-100-chargers, quran-9-closing]
+    matches: []
+  - unit: ane-etcsl-3-3-04-ur-enlila-canal-water
+    checked: [quran-84-splitting, quran-17-moses-nine-signs-and-close, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-3-3-05-governor-field-of-enlil
+    checked: [quran-84-splitting, quran-79-pharaoh-and-cosmos, quran-61-saff-ranks-moses-jesus-ahmad]
+    matches: []
+  - unit: ane-etcsl-3-3-06-aba-tah-lugalga-to-brothers
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-84-splitting, quran-62-jumua-unlettered-donkey-and-friday]
+    matches: []
+  - unit: ane-etcsl-3-3-07-ugubi-to-his-mother
+    checked: [quran-36-people-of-the-town, quran-79-pharaoh-and-cosmos, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-3-3-08-shamash-tab-business
+    checked: [quran-84-splitting, quran-27-solomon-ants-hoopoe-sheba, quran-62-jumua-unlettered-donkey-and-friday]
+    matches: []
+  - unit: ane-etcsl-3-3-09-lugal-nesage-to-enlil-massu
+    checked: [quran-6-commandments, quran-46-ahqaf-parents-and-the-scornful-son, quran-4-kindness-misers-atom, quran-40-throne-bearers]
+    matches: []
+  - unit: ane-etcsl-3-3-10-inanaka-to-nintinuga
+    checked: [quran-74-cloaked, quran-17-polemic-and-resurrection, quran-26-abraham]
+    matches: []
+  - unit: ane-etcsl-3-3-11-inim-inana-to-enlil-massu
+    checked: [quran-62-jumua-unlettered-donkey-and-friday, quran-61-saff-ranks-moses-jesus-ahmad, quran-27-solomon-ants-hoopoe-sheba]
+    matches: []
+  - unit: ane-etcsl-3-3-12-inim-inana-to-lugal-ibila
+    checked: [quran-84-splitting, quran-69-haqqa-books-in-right-and-left-hands, quran-19-zechariah-and-john]
+    matches: []
+  - unit: ane-etcsl-3-3-20-gudea-to-his-god
+    checked: [quran-17-prayer-spirit-and-challenge, quran-47-muhammad-hypocrites, quran-100-chargers]
+    matches: []
+  - unit: ane-etcsl-3-3-27-inim-enlila-to-king
+    checked: [quran-63-munafiqun-propped-timbers, quran-69-haqqa-books-in-right-and-left-hands, quran-61-saff-ranks-moses-jesus-ahmad]
+    matches: []
+  - unit: ane-etcsl-3-3-39-kug-nanna-to-ninshubur
+    checked: [quran-6-poor-keys-of-unseen, quran-72-jinn, quran-17-prayer-spirit-and-challenge]
+    matches: []
+  - unit: ane-etcsl-4-01-1-asarluhi-hymn
+    checked: [quran-3-sovereignty, quran-27-is-there-a-god-with-god, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-etcsl-4-03-1-damgalnuna-sir-sag-hula
+    checked: [quran-17-polemic-and-resurrection, quran-9-bargain-abraham, quran-19-prophets-remembered]
+    matches: []
+  - unit: ane-etcsl-4-06-1-a-night-watchman
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-etcsl-4-06-1-a-seven-creatures
+    checked: [quran-37-daughters-and-ranks, quran-43-zukhruf-book-and-daughters, quran-112-114-unity-and-refuge, quran-72-jinn]
+    matches: []
+  - unit: ane-etcsl-4-06-1-a-gods-stand-beside
+    checked: [quran-2-abrogation-polemic, quran-7-closing-recitation, quran-2-throne-verse]
+    matches: []
+  - unit: ane-etcsl-4-06-1-b-seven-brothers
+    checked: [quran-23-lordship-arguments, quran-17-polemic-and-resurrection, quran-2-call-to-worship]
+    matches: []
+  - unit: ane-etcsl-4-06-1-c-man-without-god
+    checked: [quran-42-shura-signs-and-ethics, quran-3-sovereignty, quran-64-taghabun-day-of-loss-and-household-enemies]
+    matches: []
+  - unit: ane-etcsl-4-06-1-c-utu-at-scales
+    checked: [quran-55-rahman-creation-and-the-two-seas, quran-57-hadid-iron-and-monasticism, quran-3-sovereignty, quran-42-shura-signs-and-ethics]
+    matches: []
+  - unit: ane-etcsl-4-06-1-c-herald-horn
+    checked: [quran-37-daughters-and-ranks, quran-17-polemic-and-resurrection, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches: []
+  - unit: ane-etcsl-4-07-a-inana-hymn
+    checked: [quran-20-taha-prologue, quran-38-sad-opening, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-etcsl-4-08-12-song-fragment
+    checked: [quran-66-tahrim-wives-and-the-four-women, quran-28-moses-in-midian, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-etcsl-4-08-15-balbale-blessings
+    checked: [quran-28-moses-in-midian, quran-55-rahman-judgment-and-the-four-gardens, quran-4-kindness-misers-atom]
+    matches: []
+  - unit: ane-etcsl-4-08-18-milk-of-the-fold
+    checked: [quran-66-tahrim-wives-and-the-four-women, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-etcsl-4-08-18-versions
+    checked: [quran-2-the-cow, quran-6-pagan-offerings-cattle, quran-23-creation-of-man-and-gifts]
+    matches: []
+  - unit: ane-etcsl-4-08-20-jewels-and-bed
+    checked: [quran-88-overwhelming, quran-86-night-comer, quran-55-rahman-judgment-and-the-four-gardens]
+    matches: []
+  - unit: ane-etcsl-4-08-25-beloved-praised
+    checked: [quran-76-the-human, quran-50-qaf-two-recorders-and-hell-asks-more, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-etcsl-4-08-a-churn-sings
+    checked: [quran-6-pagan-offerings-cattle, quran-3-imran-mary-zechariah, quran-2-the-cow]
+    matches: []
+  - unit: ane-etcsl-4-12-1-martu
+    checked: [quran-27-is-there-a-god-with-god, quran-3-sovereignty, quran-53-najm-goddesses-and-scrolls]
+    matches: []
+  - unit: ane-etcsl-4-13-b-nanna-fragment
+    checked: [quran-2-the-cow, quran-6-pagan-offerings-cattle, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-etcsl-4-13-c-nanna-excerpt
+    checked: [quran-25-signs-shadow-seas, quran-2-throne-verse, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etcsl-4-13-d-nanna-boat
+    checked: [quran-22-abraham-house-pilgrimage, quran-7-wilderness-entry, quran-2-war-pilgrimage]
+    matches: []
+  - unit: ane-etcsl-4-15-2-nergal
+    checked: [quran-3-badr-uhud, quran-9-closing, quran-112-114-unity-and-refuge]
+    matches: []
+  - unit: ane-etcsl-4-17-1-ninazu
+    checked: [quran-2-throne-verse, quran-23-lordship-arguments, quran-21-against-other-gods]
+    matches: []
+  - unit: ane-etcsl-4-19-1-ningiszida
+    checked: [quran-3-revelation, quran-53-najm-goddesses-and-scrolls, quran-4-prophets-and-trinity]
+    matches: []
+  - unit: ane-etcsl-4-21-1-ninimma
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-82-cleaving, quran-3-revelation, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-etcsl-4-26-1-nintur
+    checked: [quran-3-imran-mary-zechariah, quran-19-mary-and-jesus, quran-16-daughters-and-the-bee]
+    matches: []
+  - unit: ane-etcsl-4-27-06-ninurta-fertility
+    checked: [quran-56-waqia-three-classes-and-the-garden, quran-79-pharaoh-and-cosmos, quran-2-exodus-calf]
+    matches: []
+  - unit: ane-etcsl-4-27-a-ninurta-fragment
+    checked: [quran-33-zayd-seal-of-prophets, quran-20-taha-prologue, quran-40-call-on-me]
+    matches: []
+  - unit: ane-etcsl-4-28-1-a-prison-house
+    checked: [quran-39-mercy-and-last-day, quran-7-paradise-hell-araf, quran-15-iblis, quran-112-114-unity-and-refuge]
+    matches: []
+  - unit: ane-etcsl-4-28-1-b-nungal-judges
+    checked: [quran-36-trumpet-and-judgment, quran-12-joseph-full, quran-15-abraham-guests-lot, quran-26-lot]
+    matches: []
+  - unit: ane-etcsl-4-28-1-c-nungal-self-praise
+    checked: [quran-17-book-of-deeds, quran-40-throne-bearers, quran-17-polemic-and-resurrection, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches: []
+  - unit: ane-etcsl-4-31-1-a-sulpae-praise
+    checked: [quran-13-signs-of-creation, quran-6-signs-in-nature, quran-39-pure-religion]
+    matches: []
+  - unit: ane-etcsl-4-31-1-b-sulpae-sufferer
+    checked: [quran-96-clot, quran-22-signs-and-rites, quran-23-lordship-arguments, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches: []
+  - unit: ane-etcsl-4-31-1-c-sulpae-version-2
+    checked: [quran-7-closing-recitation, quran-20-closing-exhortation, quran-41-steadfast-and-repel-evil]
+    matches: []
+  - unit: ane-etcsl-4-32-2-utu
+    checked: [quran-7-sinai-theophany, quran-25-signs-shadow-seas, quran-24-light-verse, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etcsl-5-3-3-a-seasons-created
+    checked: [quran-5-two-sons-of-adam, quran-9-months-nasi, quran-7-creation-signs, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-etcsl-5-3-3-b-winter-envies
+    checked: [quran-5-two-sons-of-adam, quran-49-hujurat-etiquette-and-brotherhood, quran-26-abraham, quran-21-noah-david-solomon]
+    matches:
+      - with: quran-5-two-sons-of-adam
+        motif: brothers-offerings-and-the-envy-that-follows
+        refs: [ETCSL 5.3.3 105, ETCSL 5.3.3 106, ETCSL 5.3.3 111, ETCSL 5.3.3 112, ETCSL 5.3.3 113]
+        with_refs: ['5:27']
+        relation: divergence
+        record:
+          agent: [two brothers (Summer and Winter), two sons of Adam]
+          action: [each bring an offering to the god, each bring an offering to God]
+          recipient: [Enlil in the E-namtila, God]
+          quoted: [e2-me-eš en-te-en-bi-da maš2 kadra si ba-ni-in-sa2-sa2-eš ... ur5-da en-te-en-ra ninim mu-na-te e2-me-eš-ra du14 bi2-in-ŋar, idh qarrabā qurbānan fa-tuqubbila min aḥadihimā wa-lam yutaqabbal mina l-ākhar qāla la-aqtulannaka]
+          outcome: [envy and a quarrel (du14) with his brother, threat to kill his brother]
+        note: 'Two brothers (Summer calls Winter šeš-ŋu10 ''my brother'', 113) bring their gifts (maš2 kadra) to Enlil''s house; Winter ''stood aside like an evildoer'' (nu-erim2-gin7 bar-ta im-ta-gub), envy (ninim) came upon him and he started a quarrel. In 5:27 the two sons of Adam each offer a qurbān, one is accepted and the other says la-aqtulannaka. The trigger differs: in Sumerian envy arises at the brother''s gift before any verdict; in the Quran at God''s acceptance of one offering.'
+  - unit: ane-etcsl-5-3-3-c-exchange
+    checked: [quran-25-furqan-and-objections, quran-56-waqia-three-classes-and-the-garden, quran-21-noah-david-solomon]
+    matches: []
+  - unit: ane-etcsl-5-3-3-d-enlil-verdict
+    checked: [quran-13-messengers-and-mother-of-book, quran-53-najm-goddesses-and-scrolls, quran-4-people-of-book-distortion, quran-58-mujadila-zihar-and-secret-counsel, quran-5-two-sons-of-adam, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-5-two-sons-of-adam
+        motif: brothers-offerings-and-the-envy-that-follows
+        refs: [ETCSL 5.3.3 304, ETCSL 5.3.3 307, ETCSL 5.3.3 310, ETCSL 5.3.3 311, ETCSL 5.3.3 312]
+        with_refs: ['5:27', '5:30', '5:31']
+        relation: divergence
+        record:
+          agent: [Enlil, God]
+          action: [decides between the two brothers, accepts the offering of one brother]
+          quoted: [e2-me-eš dumu-ŋu10 en-te-en šeš-zu-da a-na mu-e-da-ab-sa2-e-en; e2-me-eš en-te-en-ra im-ma-an-ši-in-gam, fa-ṭawwaʿat lahu nafsuhu qatla akhīhi fa-qatalahu fa-aṣbaḥa mina l-khāsirīn]
+          outcome: [the loser kneels to his brother and they feast together, one brother kills the other and is left in remorse]
+        note: After the god's verdict ('Summer, my son, how can you compare yourself with your brother Winter?') Summer bows to Winter (im-ma-an-ši-in-gam), pours beer and wine in his house and they pass the day in feasting. In 5:30-31 the rejected brother kills his brother and ends among al-nādimīn. Same pair and rivalry over offerings; opposite ending.
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: no-one-changes-the-spoken-word
+        refs: [ETCSL 5.3.3 299, ETCSL 5.3.3 300, ETCSL 5.3.3 308, ETCSL 5.3.3 309]
+        with_refs: ['50:28', '50:29']
+        relation: echo
+        record:
+          agent: [Enlil, God]
+          action: [ends a dispute brought before him with an unalterable word, ends a dispute brought before him with an unalterable word]
+          recipient: [two disputing brothers, the damned and his companion disputing]
+          quoted: [di dab5-ba-zu niŋ2 nu-kur2-ru-dam a-ba šu mi-ni-ib2-bal-e, lā takhtaṣimū ladayya ... mā yubaddalu l-qawlu ladayya]
+        note: 'In both, two parties dispute before the god and the god''s sentence closes it: ''your judgment once given is not to be changed, who can overturn it?'' (nu-kur2, šu bal) against ''do not dispute before me ... the word is not changed with me'' (mā yubaddalu l-qawl). Enlil hears the debate out; God refuses further dispute because the warning was given beforehand (50:28).'
+  - unit: ane-etcsl-5-5-a-drinking-song
+    checked: [quran-56-waqia-left-hand-and-proofs, quran-76-the-human, quran-56-waqia-three-classes-and-the-garden]
+    matches: []
+  - unit: ane-etcsl-5-6-3-a-preparing-field
+    checked: [quran-18-two-gardens, quran-6-pagan-offerings-cattle, quran-68-qalam-companions-of-the-garden]
+    matches: []
+  - unit: ane-etcsl-5-6-3-b-sowing
+    checked: [quran-2-community-trials, quran-68-qalam-companions-of-the-garden, quran-18-two-gardens, quran-80-frowned]
+    matches: []
+  - unit: ane-etcsl-5-6-3-c-harvest
+    checked: [quran-51-dhariyat-oaths-and-the-righteous, quran-68-qalam-companions-of-the-garden, quran-55-rahman-judgment-and-the-four-gardens, quran-80-frowned]
+    matches: []
+  - unit: ane-etcsl-5-2-4-a-man-afflicted
+    checked: [quran-6-poor-keys-of-unseen, quran-16-parables-and-justice, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-5-2-4-b-lament
+    checked: [quran-42-shura-signs-and-ethics, quran-39-death-and-sleep, quran-93-94-forenoon-and-expansion]
+    matches: []
+  - unit: ane-etcsl-5-2-4-c-confession
+    checked: [quran-5-jesus-miracles-table, quran-63-munafiqun-propped-timbers, quran-39-death-and-sleep]
+    matches: []
+  - unit: ane-etcsl-5-2-4-d-restoration
+    checked: [quran-13-signs-of-creation, quran-40-throne-bearers, quran-43-zukhruf-abraham-and-silver-roofs, quran-6-poor-keys-of-unseen]
+    matches: []
+  - unit: ane-etcsl-5-6-6-old-man-young-girl
+    checked: [quran-19-zechariah-and-john, quran-4-creation-kinship-orphans, quran-4-marriage-forbidden-degrees, quran-4-women-orphans-justice]
+    matches: []
+  - unit: ane-etcsl-5-7-a-lost-seal
+    checked: [quran-100-chargers, quran-74-cloaked, quran-21-heedless-and-doomed-towns]
+    matches: []
+  - unit: ane-adapa-mb-a-south-wind
+    checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples]
+    matches:
+      - with: quran-20-adam-iblis
+        motif: counsel-about-the-food-of-immortality
+        refs: ['Adapa MB –:33''', 'Adapa MB –:34''', 'Adapa MB –:37''']
+        with_refs: ['20:120']
+        relation: divergence
+        record:
+          agent: [Ea, al-shayṭān]
+          action: [advises the human about the food, advises the human about the food]
+          recipient: [Adapa, Ādam]
+          name: [food of death, tree of immortality]
+          quoted: [akala ša mūti ukallūnikkum-ma lā takkal, hal adulluka ʿalā shajarati l-khuldi wa-mulkin lā yablā]
+          outcome: [do not eat, eat]
+        note: 'Ea calls the food Adapa will be offered ''food of death'' (akala ša mūti) and says lā takkal ''do not eat''; Satan calls the forbidden tree shajarat al-khuld, ''the tree of immortality'', and urges eating. Mirror image: in Adapa the life-giving food is misnamed as death by the friendly god; in 20:120 the forbidden tree is misnamed as immortality by the enemy.'
+      - with: quran-7-adam-iblis
+        motif: counsel-about-the-food-of-immortality
+        refs: ['Adapa MB –:33''', 'Adapa MB –:34''', 'Adapa MB –:37''', 'Adapa MB –:38''']
+        with_refs: ['7:20', '7:21']
+        relation: divergence
+        record:
+          agent: [Ea, al-shayṭān]
+          action: [advises the human about the food, advises the human about the food]
+          recipient: [Adapa, Ādam and his wife]
+          name: [food of death, the tree that makes one immortal]
+          quoted: [ṭēma ša aškunūka lā temekki; akala ša mūti ... lā takkal, illā an takūnā malakayni aw takūnā mina l-khālidīn; innī lakumā la-mina n-nāṣiḥīn]
+          outcome: [do not eat, eat]
+        note: 'Both advisers present themselves as the trustworthy counsellor. Ea: ṭēma ša aškunūka lā temekki ''do not neglect the instruction I give you'', ''food of death, do not eat''. Satan swears innī lakumā la-mina n-nāṣiḥīn ''I am a sincere adviser to you'' and says the tree was forbidden only lest they become angels or among al-khālidīn. The advice runs in opposite directions.'
+  - unit: ane-adapa-mb-b-before-anu
+    checked: [quran-20-adam-iblis, quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-39-death-and-sleep, quran-7-adam-iblis]
+    matches:
+      - with: quran-20-adam-iblis
+        motif: counsel-about-the-food-of-immortality
+        refs: ['Adapa MB –:68''', 'Adapa MB –:69''', 'Adapa MB –:70''', 'Adapa MB –:76''']
+        with_refs: ['20:120', '20:121']
+        relation: divergence
+        record:
+          agent: [Adapa, Ādam and his wife]
+          action: [does not eat the offered food, eats from the tree]
+          object: [food and water of life, tree of immortality]
+          quoted: [akal balāṭi ilqûniššum-ma ul īkul, fa-akalā minhā]
+          outcome: [loses eternal life, their nakedness appears and Adam disobeys]
+        note: 'Adapa is brought akal balāṭi ''food of life'' and mê balāṭi ''water of life'' and does not eat or drink, because ''Ea my lord told me: you must not eat'' (lā takkal). Adam and his wife eat (fa-akalā minhā) from what Satan called shajarat al-khuld, against God''s command. The life-food is refused out of obedience to the adviser; the ''immortality'' tree is eaten out of obedience to the adviser.'
+      - with: quran-20-adam-iblis
+        motif: human-sent-down-from-heaven-to-earth
+        refs: ['Adapa MB –:77''']
+        with_refs: ['20:123']
+        relation: parallel
+        record:
+          agent: [Anu, God]
+          action: [orders the human sent down, orders the human sent down]
+          place: [to his earth, from the garden]
+          quoted: [liqâšū-ma terrāšu ana qaqqarīšu, ihbiṭā minhā jamīʿan]
+          outcome: [returned to earth, go down from it]
+        note: 'After the food episode the high god dismisses the human back down: Anu ''take him and return him to his earth'' (terrāšu ana qaqqarīšu; reading partly restored); God ''go down from it, both of you'' (ihbiṭā minhā).'
+      - with: quran-7-adam-iblis
+        motif: garment-given-or-stripped-in-the-divine-realm
+        refs: ['Adapa MB –:71''', 'Adapa MB –:72''']
+        with_refs: ['7:20', '7:22']
+        relation: divergence
+        record:
+          agent: [Anu's attendants, al-shayṭān]
+          action: [give the human a garment, causes their covering to fall away]
+          recipient: [Adapa, Ādam and his wife]
+          quoted: [lubāra ilqûniššum-ma ittalbaš; šamna ilqûniššum-ma ittapšiš, li-yubdiya lahumā mā wūriya ʿanhumā min sawʾātihimā; wa-ṭafiqā yakhṣifāni ʿalayhimā min waraqi l-janna]
+          outcome: [clothed and anointed, naked and sewing leaves]
+        note: 'In the same scene as the food, Adapa accepts a garment (lubāru, ittalbaš) and oil from heaven. In 7:20-22 the eating strips the pair: their sawʾāt appear and they sew leaves of the garden over themselves.'
+      - with: quran-20-adam-iblis
+        motif: human-holds-fast-to-or-forgets-the-instruction
+        refs: ['Adapa MB –:76''']
+        with_refs: ['20:115']
+        relation: divergence
+        record:
+          agent: [Adapa, Ādam]
+          action: [keeps the instruction, forgets the covenant]
+          recipient: [Ea's instruction, God's covenant]
+          quoted: [ea bēlī iqbâ lā takkal lā tašatti, wa-la-qad ʿahidnā ilā ādama min qablu fa-nasiya wa-lam najid lahu ʿazmā]
+          outcome: [does not eat, eats]
+        note: 'Adapa remembers and cites the instruction ''Ea my lord told me: you must not eat, you must not drink'' (cf. MB 37''-38'' lū ṣabtāta ''hold fast''); Adam ''forgot'' the covenant (fa-nasiya) and ''we found no resolve in him''.'
+  - unit: ane-adapa-sb-a-sage
+    checked: [quran-18-moses-and-the-servant, quran-11-opening-throne-on-water, quran-68-qalam-shin-and-jonah, quran-2-adam-iblis]
+    matches:
+      - with: quran-2-adam-iblis
+        motif: wisdom-without-eternal-life
+        refs: ['Adapa SB –:a+3', 'Adapa SB –:a+4', 'Adapa SB –:a+6']
+        with_refs: ['2:31', '2:33']
+        relation: divergence
+        record:
+          agent: [Ea, God]
+          action: [gives the human wisdom, teaches the human all the names]
+          recipient: [Adapa, Ādam]
+          quoted: [ana šuātu nēmeqa iddiššu napišta dārīta ul iddiššu, wa-ʿallama ādama l-asmāʾa kullahā]
+          outcome: [eternal life withheld, Adam's knowledge exceeds the angels']
+        note: Ea perfects Adapa in wisdom (uzna rapašta ušaklilšu) 'to him he gave wisdom, eternal life he did not give'; God 'taught Adam the names, all of them' and displays it to the angels. The Quran's teaching of Adam says nothing of eternal life; immortality appears only as Satan's false promise (20:120, 7:20).
+  - unit: ane-adapa-sb-b-summons
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-29-emigrate-and-trust, quran-35-originator]
+    matches: []
+  - unit: ane-adapa-sb-c-outcome
+    checked: [quran-17-night-journey-and-israel, quran-53-najm-vision-and-lote-tree, quran-2-adam-iblis, quran-12-joseph-full]
+    matches:
+      - with: quran-2-adam-iblis
+        motif: human-sent-down-from-heaven-to-earth
+        refs: ['Adapa SB –:e+1', 'Adapa SB –:e+12', 'Adapa SB –:e+14']
+        with_refs: ['2:36']
+        relation: divergence
+        record:
+          agent: [Adapa, Ādam and his wife]
+          action: [refuses the water of life, slips from the garden through Satan]
+          name: [zēr amīlūti (seed of humankind), Ādam]
+          quoted: [mê balāṭi iqbīšum-ma šū lā išti; adapa zēr amīlūti, fa-azallahumā sh-shayṭānu ʿanhā ... wa-qulnā hbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīn]
+          outcome: [a lordly destiny on earth instead of eternal life, a dwelling and provision on earth for a time]
+        note: Adapa 'the seed of humankind' (zēr amīlūti) refuses the water of life and receives from Anu a destiny on earth (bēlūssu ... išīm); Adam is made to slip and is told 'go down; on earth you have a dwelling and enjoyment for a time' (fī l-arḍi mustaqarr wa-matāʿ ilā ḥīn). Restorations in SB e+1 are the editor's.
+  - unit: ane-advprince-a-king-and-justice
+    checked: [quran-38-david-ewe-parable, quran-9-uzayr-clergy, quran-2-fasting, quran-3-sovereignty]
+    matches:
+      - with: quran-2-fasting
+        motif: payment-to-the-judge
+        refs: ['AdvPrince SB –:8', 'AdvPrince SB –:9']
+        with_refs: ['2:188']
+        relation: parallel
+        record:
+          agent: [the king as judge, those who bring wealth to the judges]
+          action: [takes a gift from the litigants and denies them justice, offer wealth to the judges to consume others' property]
+          recipient: [citizens of Nippur, al-ḥukkām]
+          quoted: [kadrâ ilqē-ma idāssunūti, wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm]
+          outcome: [Enlil raises a foreign enemy against him, forbidden as sin]
+        note: 'Both name money passing to the one who judges a case: the king ''takes the gift (kadrû) and denies them'' justice; 2:188 forbids ''letting it down to the judges'' (tudlū bihā ilā l-ḥukkām). The Akkadian addresses the judge who takes it, the Quran the litigant who gives it.'
+  - unit: ane-advprince-b-privileged-cities
+    checked: [quran-9-hunayn-jizya, quran-2-talut-jalut, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-advprince-c-officials-and-gods
+    checked: [quran-14-parables-and-satans-speech, quran-59-hashr-banu-nadir-and-fay, quran-7-towns-pattern, quran-105-elephant, quran-25-hell-and-the-day-of-angels]
+    matches:
+      - with: quran-14-parables-and-satans-speech
+        motif: works-carried-off-by-the-wind
+        refs: ['AdvPrince SB –:44', 'AdvPrince SB –:46']
+        with_refs: ['14:18']
+        relation: echo
+        record:
+          agent: [the corrupt official, those who disbelieve in their Lord]
+          object: [their works, their works]
+          instrument: [wind, wind on a stormy day]
+          quoted: [arkassunu šāru itabbal epšessunu zāqīqiš immanni, aʿmāluhum ka-ramādin ishtaddat bihi r-rīḥu fī yawmin ʿāṣif]
+          outcome: [reckoned as a puff of air, they have power over nothing they earned]
+        note: 'The wrongdoer''s works (epšētu / aʿmāl) are blown to nothing by wind: ''the wind will carry away their remains, their achievements will be reckoned as a puff of air (zāqīqiš)'' against ''their works are like ashes on which the wind blows hard on a stormy day''. In Advice to a Prince the sentence falls on an official who extorts bribes; in 14:18 on those who disbelieve.'
+      - with: quran-25-hell-and-the-day-of-angels
+        motif: works-carried-off-by-the-wind
+        refs: ['AdvPrince SB –:46']
+        with_refs: ['25:23']
+        relation: echo
+        record:
+          agent: [Ea (by his command), God]
+          object: [their works, the work they did]
+          quoted: [epšessunu zāqīqiš immanni, fa-jaʿalnāhu habāʾan manthūrā]
+          outcome: [reckoned as a puff of air, made into scattered dust]
+        note: epšētu 'achievements' counted zāqīqiš 'as wind, a breath' against ʿamal made habāʾan manthūran 'scattered motes'. 25:23 is at the judgment; the Akkadian is a this-worldly curse.
+  - unit: ane-angim-sb-line
+    checked: [quran-33-zayd-seal-of-prophets, quran-20-taha-prologue, quran-40-call-on-me]
+    matches: []
+  - unit: ane-anzu-na-a-battle
+    checked: [quran-7-sinai-theophany, quran-8-badr-help, quran-73-enwrapped, quran-59-hashr-hypocrites-and-the-names]
+    matches: []

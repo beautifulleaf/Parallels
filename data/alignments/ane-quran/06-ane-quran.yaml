@@ -1,0 +1,591 @@
+# ANE x Quran side-by-side pass, chunk 6 (ETCSL 4.16.2 - 6.1.03). Judged blind, from the originals.
+new_motifs:
+  watercourse-of-wine-and-honey: {label: A watercourse of flowing water in a divine abode yields wine and honey (syrup), cluster: afterlife}
+  heavens-folded-before-the-deity: {label: The heavens are folded like cloth or a scroll before or by the deity, cluster: nature}
+  if-only-they-knew-the-gods-strength: {label: '''If only (the enemy / the wrongdoers) knew or saw'' the god''s strength (formula)', cluster: deity}
+  what-governs-human-sleep-and-rising: {label: What sets the daily sleeping and rising of people, cluster: time}
+  whether-the-deity-sleeps: {label: Whether the god sleeps, cluster: deity}
+  life-span-reckoned-against-one-day: {label: A span of many years is set against a single day, cluster: death}
+  primeval-humans-without-clothing: {label: 'Whether the first humans went naked, and how clothing came to them', cluster: creation}
+  livestock-sent-down-by-the-deity: {label: The deity sends sheep or livestock down to humankind, cluster: creation}
+  braying-donkey-in-fathers-advice: {label: A father's advice to his son names the braying donkey, cluster: wisdom}
+  do-not-speak-harshly-to-a-parent: {label: Do not speak harshly or arrogantly to your parent, cluster: wisdom}
+  obedience-to-parents-and-to-god: {label: How the parents' word stands to the word of God, cluster: wisdom}
+  buried-in-the-earth-and-brought-out-again: {label: People are put into the earth and brought out of it again, cluster: death}
+reviewed:
+- unit: ane-etcsl-4-16-2-nisaba-lament
+  checked: [quran-11-pharaoh-leads, quran-59-hashr-banu-nadir-and-fay, quran-91-sun]
+  matches: []
+- unit: ane-etcsl-4-19-2-ningishzida-balbale
+  checked: [quran-3-revelation, quran-17-polemic-and-resurrection, quran-9-closing, quran-11-opening-throne-on-water]
+  matches:
+  - with: quran-3-revelation
+    motif: gods-word-known-only-to-the-knowing
+    refs: [ETCSL 4.19.2 10-12]
+    with_refs: ['3:7']
+    relation: echo
+    record:
+      object: [the god's holy word, the ambiguous verses of the Book]
+      action: [is known to whoever knows it and unknown to whoever does not, have an interpretation known only to God and the firmly rooted in knowledge]
+      quoted: [šag4-zu a-ba mu-un-zu / inim kug-zu mu-un-zu-ra mu-un-zu nu-mu-un-zu-ra nu-mu-un-zu, wa-mā yaʿlamu taʾwīlahu illā llāhu wa-r-rāsikhūna fī l-ʿilm]
+    note: 'Who knows your heart (šag4-zu a-ba mu-un-zu)? Your holy word is known to the one who knows it, not to the one who does not. 3:7: the mutashābihāt, whose taʾwīl none knows but God (and, on one
+      reading, al-rāsikhūna fī l-ʿilm). In both a divine word whose meaning is closed to all but the knowing; Ninĝišzida''s is a hymn epithet, the Quran''s a statement about its own verses.'
+- unit: ane-etcsl-4-19-3-ningishzida-kirugu
+  checked: [quran-16-blessings-of-creation, quran-79-pharaoh-and-cosmos, quran-85-constellations]
+  matches: []
+- unit: ane-etcsl-4-19-4-ningishzida-song
+  checked: [quran-2-throne-verse, quran-4-prophets-and-trinity, quran-9-bargain-abraham]
+  matches: []
+- unit: ane-etcsl-4-22-1-ninisina-medicine-to-damu
+  checked: [quran-26-abraham, quran-16-daughters-and-the-bee, quran-19-mary-and-jesus]
+  matches: []
+- unit: ane-etcsl-4-22-1-ninisina-incantation-healing
+  checked: [quran-38-adam-iblis, quran-15-iblis, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-etcsl-4-22-1-ninisina-inventions-midwife
+  checked: [quran-39-pure-religion, quran-19-mary-and-jesus, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-etcsl-4-22-1-ninisina-self-praise-house
+  checked: [quran-47-muhammad-battle-and-rivers, quran-25-signs-shadow-seas, quran-78-the-tiding, quran-2-throne-verse]
+  matches:
+  - with: quran-47-muhammad-battle-and-rivers
+    motif: watercourse-of-wine-and-honey
+    refs: [ETCSL 4.22.1 102-104]
+    with_refs: ['47:15']
+    relation: echo
+    record:
+      place: [the goddess's house Isin, the Garden promised to the God-fearing]
+      object: [the Kir-sig watercourse with rising water, rivers of water]
+      action: [its banks grow syrup and wine, there are rivers of wine and of purified honey]
+      quoted: ['id2-ĝu10 {id2}kir11-sig / šag4-ba a zal-le ma-ra-il2-il2 / gu2-gu2-bi lal3 ĝeštin ba-an-mu2', anhārun min māʾin ghayri āsin ... wa-anhārun min khamrin ... wa-anhārun min ʿasalin muṣaffā]
+    note: 'Ninisina''s house, where the Anuna eat with her, has a watercourse whose flowing water (a zal-le) rises and whose banks grow lal3 (date syrup, ''honey'') and ĝeštin (wine). 47:15: rivers of water
+      not stale, of milk, of wine and of purified honey (ʿasal). The same trio of water, wine and honey; in Sumerian they grow on the banks of a real canal, in the Quran the rivers themselves are wine and
+      honey.'
+- unit: ane-etcsl-4-22-1-ninisina-against-rebel-land
+  checked: [quran-39-mercy-and-last-day, quran-21-end-and-inheritance, quran-2-fasting, quran-79-pharaoh-and-cosmos]
+  matches:
+  - with: quran-21-end-and-inheritance
+    motif: heavens-folded-before-the-deity
+    refs: [ETCSL 4.22.1 131]
+    with_refs: ['21:104']
+    relation: echo
+    record:
+      object: [the heavens, the heaven]
+      action: [fold themselves like a garment in the goddess's presence, are folded by God like a scroll for writings]
+      instrument: [like a mourning garment, like the folding of a scroll]
+      time: [whenever the goddess is present, on the day of the end]
+      quoted: [an mu-dur7-ra-gin7 mu-da-gam-e-en, yawma naṭwī s-samāʾa ka-ṭayyi s-sijilli li-l-kutub]
+    note: Sumerian gam 'bend, fold' with a cloth simile (mu-dur7, a garment) against ṭawā 'fold, roll up' with a scroll simile (sijill). In the goddess's self-praise the heavens bend before her now, and
+      the earth goes under as if flooded (132); in 21:104 God folds the heaven at the last day and brings creation back as he began it.
+  - with: quran-39-mercy-and-last-day
+    motif: heavens-folded-before-the-deity
+    refs: [ETCSL 4.22.1 131-132]
+    with_refs: ['39:67']
+    relation: echo
+    record:
+      object: [heaven and earth, the heavens and the whole earth]
+      action: [heaven folds like a garment and the earth is submerged before the goddess, the heavens are folded in God's right hand and the earth is his handful]
+      time: [whenever the goddess is present, on the day of resurrection]
+      quoted: [an mu-dur7-ra-gin7 mu-da-gam-e-en / ki-a a-ĝi6-gin7 mu-da-šub-šub, wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu maṭwiyyātun bi-yamīnihi]
+    note: 'Heaven and earth paired, each undone before the deity: the heaven folds (gam) and the earth sinks as under a flood (a-ĝi6) in Ninisina''s presence; in 39:67 the earth is God''s grip (qabḍa) and
+      the heavens are folded (maṭwiyyāt) in his right hand.'
+- unit: ane-etcsl-4-22-2-ninisina-anointing
+  checked: [quran-5-ablution-covenant-justice, quran-4-satan-vows-share, quran-4-prayer-intoxication-purity]
+  matches: []
+- unit: ane-etcsl-4-22-3-ninisina-journey-to-nibru
+  checked: [quran-22-abraham-house-pilgrimage, quran-5-jesus-miracles-table, quran-9-bargain-abraham]
+  matches: []
+- unit: ane-etcsl-4-22-4-ninisina-hymn
+  checked: [quran-16-daughters-and-the-bee, quran-2-throne-verse, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-etcsl-4-22-5-ninisina-adab
+  checked: [quran-13-signs-of-creation, quran-7-closing-recitation, quran-2-throne-verse]
+  matches: []
+- unit: ane-etcsl-4-22-6-ninisina-and-the-gods
+  checked: [quran-2-throne-verse, quran-25-signs-shadow-seas, quran-57-hadid-first-and-last-and-the-loan]
+  matches: []
+- unit: ane-etcsl-4-23-1-ninkasi-brewing
+  checked: [quran-16-daughters-and-the-bee, quran-76-the-human, quran-78-the-tiding, quran-56-waqia-left-hand-and-proofs]
+  matches: []
+- unit: ane-etcsl-4-24-1-ninlil-adab
+  checked: [quran-13-signs-of-creation, quran-2-throne-verse, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-etcsl-4-25-1-ninshubur-minister
+  checked: [quran-2-throne-verse, quran-3-sovereignty, quran-16-parables-and-justice]
+  matches: []
+- unit: ane-etcsl-4-25-2-ninshubur-wise-suppliant
+  checked: [quran-7-closing-recitation, quran-2-abrogation-polemic, quran-9-bargain-abraham]
+  matches: []
+- unit: ane-etcsl-4-27-01-ninurta-enthroned
+  checked: [quran-3-sovereignty, quran-17-polemic-and-resurrection, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-etcsl-4-27-01-ninurta-light-praise
+  checked: [quran-2-throne-verse, quran-25-signs-shadow-seas, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-etcsl-4-27-02-ninurta-journey-to-eridug
+  checked: [quran-25-signs-shadow-seas, quran-22-abraham-house-pilgrimage, quran-16-blessings-of-creation]
+  matches: []
+- unit: ane-etcsl-4-27-02-ninurta-judge-and-fates
+  checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-2-throne-verse, quran-23-lordship-arguments, quran-27-is-there-a-god-with-god]
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: immutable-divine-word
+    refs: ['ETCSL 4.27.02 C:8-C:9']
+    with_refs: ['50:29']
+    relation: echo
+    record:
+      agent: [the poet of Ninurta, God of himself]
+      object: [Ninurta's word and the fate he decrees, the word spoken before God]
+      action: [declares the god's word unalterable, declares the god's word unalterable]
+      quoted: [inim dug4-ga-zu niĝ2-me-ĝar-am3 / nam tar-ra-zu niĝ2 nu-kur2-ru-dam, mā yubaddalu l-qawlu ladayya]
+    note: nu-kur2 ('not changed') of the fate Ninurta decrees together with An in Eridug; 50:29 mā yubaddalu l-qawlu ladayya, after the damned dispute before God (50:28 lā takhtaṣimū ladayya). Same pairing
+      as chunk 1 had for Enlil (ETCSL 1.2.1).
+- unit: ane-etcsl-4-27-03-ninurta-c
+  checked: [quran-4-prophets-and-trinity, quran-17-polemic-and-resurrection, quran-2-throne-verse]
+  matches: []
+- unit: ane-etcsl-4-27-04-ninurta-tigi
+  checked: [quran-9-closing, quran-8-badr-help, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-etcsl-4-27-07-ninurta-g-kingship
+  checked: [quran-79-pharaoh-and-cosmos, quran-15-prologue-and-heavens, quran-2-throne-verse]
+  matches: []
+- unit: ane-etcsl-4-27-07-ninurta-g-rebel-house
+  checked: [quran-9-closing, quran-59-hashr-banu-nadir-and-fay, quran-16-blessings-of-creation, quran-2-patience-signs]
+  matches:
+  - with: quran-2-patience-signs
+    motif: if-only-they-knew-the-gods-strength
+    refs: ['ETCSL 4.27.07 B:174-B:177']
+    with_refs: ['2:165']
+    relation: echo
+    record:
+      agent: [the enemy, the wrongdoers]
+      action: [if only he knew, if only they saw]
+      object: [Ninurta's outstanding strength, that all strength is God's]
+      quoted: [lugal-ĝu10 ni2 er9 rib-ba-za nu-uš-in-ga-zu-am3, wa-law yarā lladhīna ẓalamū idh yarawna l-ʿadhāba anna l-quwwata lillāhi jamīʿan]
+    note: Refrain nu-uš-in-ga-zu-am3 'if only he knew', with er9 'strength' and ni2 maḫ 'awesomeness', over the rebel enemy; 2:165 law yarā ... anna l-quwwata lillāhi jamīʿan wa-anna llāha shadīdu l-ʿadhāb,
+      over those who take rivals to God. The same unreal wish about the opponent's ignorance of divine strength; Ninurta's is the strength that devours like a lion, God's is shown in the punishment.
+- unit: ane-etcsl-4-29-1-nuska-minister
+  checked: [quran-2-throne-verse, quran-5-jesus-miracles-table, quran-57-hadid-first-and-last-and-the-loan]
+  matches: []
+- unit: ane-etcsl-4-29-1-nuska-gifts-and-judgment
+  checked: [quran-8-badr-help, quran-33-trench, quran-13-signs-of-creation, quran-73-enwrapped]
+  matches: []
+- unit: ane-etcsl-4-29-2-nuska-b
+  checked: [quran-2-abrogation-polemic, quran-5-jesus-miracles-table, quran-43-zukhruf-jesus-and-paradise]
+  matches: []
+- unit: ane-etcsl-4-30-1-shara-balbale
+  checked: [quran-23-lordship-arguments, quran-2-throne-verse, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-etcsl-4-33-1-sadarnuna
+  checked: [quran-2-throne-verse, quran-16-blessings-of-creation, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-etcsl-4-33-2-kusu-purification
+  checked: [quran-22-abraham-house-pilgrimage, quran-56-waqia-left-hand-and-proofs, quran-2-the-cow]
+  matches: []
+- unit: ane-etcsl-4-80-1-eridug
+  checked: [quran-79-pharaoh-and-cosmos, quran-73-enwrapped, quran-39-mercy-and-last-day]
+  matches: []
+- unit: ane-etcsl-4-80-1-nibru
+  checked: [quran-19-resurrection-and-the-son, quran-79-pharaoh-and-cosmos, quran-25-signs-shadow-seas, quran-73-enwrapped]
+  matches: []
+- unit: ane-etcsl-4-80-1-esumesa-dusagdili
+  checked: [quran-2-throne-verse, quran-22-abraham-house-pilgrimage, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-etcsl-4-80-1-kesh
+  checked: [quran-79-pharaoh-and-cosmos, quran-73-enwrapped, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-etcsl-4-80-1-urim
+  checked: [quran-25-signs-shadow-seas, quran-79-pharaoh-and-cosmos, quran-2-throne-verse]
+  matches: []
+- unit: ane-etcsl-4-80-1-kuara-kiabrig-gaes
+  checked: [quran-20-moses-pharaoh-magicians, quran-24-obedience-and-succession, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-etcsl-4-80-1-larsam-enegir-gisbanda
+  checked: [quran-2-throne-verse, quran-22-signs-and-rites, quran-2-call-to-worship]
+  matches: []
+- unit: ane-etcsl-4-80-1-unug-badtibira-akkil-murum
+  checked: [quran-79-pharaoh-and-cosmos, quran-22-abraham-house-pilgrimage, quran-48-fath-tree-hudaybiya-and-seed]
+  matches: []
+- unit: ane-etcsl-4-80-1-eninnu-irikug
+  checked: [quran-79-pharaoh-and-cosmos, quran-22-signs-and-rites, quran-2-call-to-worship]
+  matches: []
+- unit: ane-etcsl-4-80-1-sirara-guaba-kinirsa-umma
+  checked: [quran-3-imran-mary-zechariah, quran-2-throne-verse, quran-5-jesus-miracles-table]
+  matches: []
+- unit: ane-etcsl-4-80-1-zabalam-karkara
+  checked: [quran-25-signs-shadow-seas, quran-79-pharaoh-and-cosmos, quran-24-light-verse]
+  matches: []
+- unit: ane-etcsl-4-80-1-adab-isin-kazallu
+  checked: [quran-22-abraham-house-pilgrimage, quran-73-enwrapped, quran-2-throne-verse]
+  matches: []
+- unit: ane-etcsl-4-80-1-marda-der-esnunna-kis
+  checked: [quran-79-pharaoh-and-cosmos, quran-73-enwrapped, quran-15-prologue-and-heavens]
+  matches: []
+- unit: ane-etcsl-4-80-1-gudua-urum-zimbir-hiza
+  checked: [quran-25-signs-shadow-seas, quran-2-throne-verse, quran-79-pharaoh-and-cosmos]
+  matches:
+  - with: quran-25-signs-shadow-seas
+    motif: what-governs-human-sleep-and-rising
+    refs: [ETCSL 4.80.1 482-483]
+    with_refs: ['25:47']
+    relation: divergence
+    record:
+      agent: [Utu the sun god, God]
+      recipient: [the people, you]
+      action: [sleeps and rises and the people sleep and rise with him, makes the night a garment and sleep a rest and the day a rising]
+      quoted: [en nu2-a-ni uĝ3 nu2-de3 / zi-zi-da-ni uĝ3 zi-zi-de3, jaʿala lakumu l-layla libāsan wa-n-nawma subātan wa-jaʿala n-nahāra nushūran]
+    note: Both tie people's sleep and rising to the daily cycle. In the Zimbir hymn the people sleep because the lord (Utu) sleeps and rise when he rises (nu2 / zi-zi); in 25:47 God appoints night as covering,
+      sleep (nawm) as rest and day as nushūr, 'rising' (also the word of resurrection). The sleeper who sets the rhythm is the god in one, the people alone in the other.
+  - with: quran-2-throne-verse
+    motif: whether-the-deity-sleeps
+    refs: [ETCSL 4.80.1 482]
+    with_refs: ['2:255']
+    relation: divergence
+    record:
+      agent: [Utu the lord of Zimbir, God the Living the Self-subsisting]
+      action: [sleeps, is overtaken by neither slumber nor sleep]
+      quoted: [en nu2-a-ni, lā taʾkhudhuhu sinatun wa-lā nawm]
+    note: en nu2-a-ni 'when the lord lies down (sleeps)' is said of Utu as the sun setting; 2:255 denies sleep (nawm) and slumber (sina) of God, al-ḥayy al-qayyūm. The same attribute affirmed of the god
+      in a temple hymn and denied in the Throne Verse.
+- unit: ane-etcsl-4-80-1-ulmas-agade-eres-colophon
+  checked: [quran-22-signs-and-rites, quran-11-opening-throne-on-water, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-etcsl-4-80-2-kesh-1-2
+  checked: [quran-39-mercy-and-last-day, quran-54-qamar-moon-split-and-noah, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-etcsl-4-80-2-kesh-3
+  checked: [quran-25-signs-shadow-seas, quran-13-signs-of-creation, quran-2-throne-verse]
+  matches: []
+- unit: ane-etcsl-4-80-2-kesh-4-5
+  checked: [quran-43-zukhruf-abraham-and-silver-roofs, quran-17-polemic-and-resurrection, quran-5-jesus-miracles-table]
+  matches: []
+- unit: ane-etcsl-4-80-2-kesh-6-8
+  checked: [quran-22-abraham-house-pilgrimage, quran-24-obedience-and-succession, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-etcsl-4-80-2-kesh-close
+  checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-53-najm-goddesses-and-scrolls, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-etcsl-4-80-4-ekur-hymn
+  checked: [quran-79-pharaoh-and-cosmos, quran-39-mercy-and-last-day, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-etcsl-5-2-5-early-rulers
+  checked: [quran-23-death-barzakh-judgment, quran-20-judgment-day, quran-29-emigrate-and-trust, quran-17-prayer-spirit-and-challenge]
+  matches:
+  - with: quran-23-death-barzakh-judgment
+    motif: life-span-reckoned-against-one-day
+    refs: [ETCSL 5.2.5 8, ETCSL 5.2.5 19]
+    with_refs: ['23:112', '23:113', '23:114']
+    relation: divergence
+    record:
+      agent: [the poet, God asking the dead]
+      number: [36000 years, a number of years]
+      time: [one day of happiness, a day or part of a day]
+      action: [sets one day of joy against 36000 years of silence, has the dead reckon their whole life on earth as a day or part of a day]
+      quoted: [lugal-e mu 36000-am3 in-ak / ud šag4 ḫul2-la X niĝ2-me-ĝar mu 36000-am3 in-ak, kam labithtum fī l-arḍi ʿadada sinīn / labithnā yawman aw baʿḍa yawm]
+      outcome: [enjoy the day, you tarried but a little]
+    note: 'The primeval king reigned mu 36000 ''thirty-six thousand years'', and 36000 years of silence weigh less than ud šag4 ḫul2-la, one day of a happy heart; 23:112-114: ''How many years (ʿadada sinīn)
+      did you stay on earth?'' ''A day or part of a day.'' A great count of years set against one day in both; in the Sumerian poem the day of joy outweighs the years, in the Quran the years themselves
+      shrink to a day (fragmentary lines 17-21).'
+- unit: ane-etcsl-5-3-2-sheep-grain-creation
+  checked: [quran-23-creation-of-man-and-gifts, quran-16-blessings-of-creation, quran-6-pagan-offerings-cattle, quran-7-children-of-adam]
+  matches:
+  - with: quran-7-children-of-adam
+    motif: primeval-humans-without-clothing
+    refs: [ETCSL 5.3.2 20-23]
+    with_refs: ['7:26', '7:27']
+    relation: divergence
+    record:
+      agent: [the people of those days, the first parents]
+      object: [clothing, clothing]
+      action: [did not know about wearing clothes and went with naked limbs, wore garments that Satan pulled off them]
+      outcome: [the gods create Sheep and Uttu's weaving, God sends down clothing to cover their nakedness]
+      quoted: [tug2-ga mu4-mu4-bi nu-mu-un-zu-uš-am3 / kalam ĝiš-gen6-na su-bi mu-un-ĝen, yanziʿu ʿanhumā libāsahumā li-yuriyahumā sawʾātihimā / qad anzalnā ʿalaykum libāsan yuwārī sawʾātikum]
+    note: 'In Sheep and Grain the first humans had never worn clothes: they went naked like sheep and ate grass, until the gods made Sheep and the weaving goddess. 7:26-27: the first parents were clothed
+      and Satan stripped them (yanziʿu ... libāsahumā), and God sends down (anzalnā) libās to cover sawʾāt. Nakedness as the original state against nakedness as the result of a fall; clothing a divine gift
+      in both.'
+- unit: ane-etcsl-5-3-2-sheep-grain-sent-down
+  checked: [quran-2-adam-iblis, quran-56-waqia-three-classes-and-the-garden, quran-16-blessings-of-creation, quran-52-tur-garden-and-challenge, quran-39-pure-religion]
+  matches:
+  - with: quran-39-pure-religion
+    motif: livestock-sent-down-by-the-deity
+    refs: [ETCSL 5.3.2 37-42]
+    with_refs: ['39:6']
+    relation: parallel
+    record:
+      agent: [Enki and Enlil, God]
+      action: [send down, sends down]
+      object: [Sheep and Grain, eight pairs of livestock]
+      recipient: [mankind, you]
+      quoted: ['u8 {d}ezina2-bi du6 kug-ta im-ma-da-ra-an-ed3-de3', wa-anzala lakum mina l-anʿāmi thamāniyata azwāj]
+    note: ed3 'go down, bring down' from the Holy Mound (du6 kug) of the sheep (u8) and grain; anzala 'sent down' of livestock (al-anʿām) in 39:6, an unusual use of the verb of revelation for animals, right
+      after the creation of the first soul and its mate. In Sumerian the gods first eat of Sheep and Grain and are not sated, then send them to men.
+- unit: ane-etcsl-5-3-2-sheep-grain-debate
+  checked: [quran-6-pagan-offerings-cattle, quran-56-waqia-three-classes-and-the-garden, quran-80-frowned]
+  matches: []
+- unit: ane-etcsl-5-3-2-sheep-grain-verdict
+  checked: [quran-12-joseph-full, quran-20-closing-exhortation, quran-52-tur-garden-and-challenge, quran-3-sovereignty]
+  matches: []
+- unit: ane-etcsl-5-3-6-a-silver-copper-opening
+  checked: [quran-9-bargain-abraham, quran-26-abraham, quran-21-noah-david-solomon]
+  matches: []
+- unit: ane-etcsl-5-3-6-b-silver-boast-copper-reply
+  checked: [quran-24-ifk-slander, quran-49-hujurat-etiquette-and-brotherhood, quran-37-hell-and-garden]
+  matches: []
+- unit: ane-etcsl-5-3-6-c-copper-curses-silver
+  checked: [quran-2-charity, quran-22-disputers-and-waverers, quran-90-city]
+  matches: []
+- unit: ane-etcsl-5-3-6-d-copper-created-silver-buried
+  checked: [quran-16-blessings-of-creation, quran-6-pagan-offerings-cattle, quran-80-frowned, quran-9-uzayr-clergy]
+  matches:
+  - with: quran-9-uzayr-clergy
+    motif: silver-hoarded-buried-in-the-house
+    refs: ['ETCSL 5.3.6 D:18-23']
+    with_refs: ['9:34', '9:35']
+    relation: echo
+    record:
+      object: [silver, gold and silver]
+      action: [is sealed in boxes and jars and buried in the cattle-pen or the darkest corner, is hoarded and not spent in God's way]
+      outcome: [Copper mocks it as buried in a grave, the hoard is heated in hell to brand the hoarders]
+      quoted: [pisaĝ tur-tur kalag-kalag-ga ma2-gin7 a-ra-an-du8-uš / ki-tum2 ki saḫ6-saḫ6-a-bi-a lu2-u3 ki a-ra-ni-in-tum2, yaknizūna dh-dhahaba wa-l-fiḍḍata wa-lā yunfiqūnahā / hādhā mā kanaztum]
+    note: 'Copper taunts Silver that men caulk boxes for it, wrap it in rags, dig a hole in the cattle-pen or bury it in the darkest corner like a grave: silver that is hoarded and does no work. 9:34-35
+      kanz, ''buried treasure'', of gold and silver withheld from spending, then heated and pressed on foreheads, sides and backs. Hoarded silver is useless in one, damning in the other.'
+- unit: ane-etcsl-5-3-6-efgh-fragments
+  checked: [quran-7-idol-request, quran-2-exodus-calf, quran-23-creation-of-man-and-gifts]
+  matches: []
+- unit: ane-etcsl-5-3-6-i-verdict-and-ur-namma
+  checked: [quran-3-sovereignty, quran-57-hadid-first-and-last-and-the-loan, quran-73-enwrapped]
+  matches: []
+- unit: ane-etcsl-5-3-7-date-palm-tamarisk
+  checked: [quran-7-single-soul-idols, quran-2-the-cow, quran-55-rahman-judgment-and-the-four-gardens]
+  matches: []
+- unit: ane-etcsl-5-4-12-good-seed-of-a-dog
+  checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-102-104-rivalry-time-slanderer, quran-7-adam-iblis, quran-3-community]
+  matches: []
+- unit: ane-etcsl-5-5-1-ludingira-message-to-mother
+  checked: [quran-19-mary-and-jesus, quran-3-imran-mary-zechariah, quran-12-joseph-full]
+  matches: []
+- unit: ane-etcsl-5-5-2-elegy-nannaya
+  checked: [quran-39-death-and-sleep, quran-23-death-barzakh-judgment, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-etcsl-5-5-3-elegy-nawirtum
+  checked: [quran-16-daughters-and-the-bee, quran-81-folding-up, quran-36-trumpet-and-judgment]
+  matches: []
+- unit: ane-etcsl-5-5-4-song-of-the-hoe
+  checked: [quran-21-cosmic-signs-and-scales, quran-15-iblis, quran-51-dhariyat-flee-to-god, quran-50-qaf-resurrection-proofs-and-peoples, quran-71-noah]
+  matches:
+  - with: quran-71-noah
+    motif: humans-sprout-from-the-earth-like-plants
+    refs: [ETCSL 5.5.4 3, ETCSL 5.5.4 18-20]
+    with_refs: ['71:17']
+    relation: parallel
+    record:
+      agent: [Enlil, God]
+      object: [the human seed of the Land, you]
+      action: [makes come up from the earth, made to grow from the earth as plants]
+      quoted: ['{d}en-lil2 numun kalam-ma ki-ta ed2-de3 / {d}en-lil2-še3 kalam-ma-ni ki mu-un-ši-in-dar-re', wa-llāhu anbatakum mina l-arḍi nabātā]
+    note: Enlil brings numun 'seed' of the Land up ki-ta 'from the earth', and with the hoe the Land breaks through the soil towards him; 71:17 anbatakum ... nabātā, 'made you grow from the earth as a growth'.
+      Chunk 1 recorded the same image for ETCSL 1.1.x with 71:17.
+  - with: quran-71-noah
+    motif: buried-in-the-earth-and-brought-out-again
+    refs: [ETCSL 5.5.4 74-75]
+    with_refs: ['71:18']
+    relation: divergence
+    record:
+      agent: [the hoe, God]
+      object: [people and the dead, you]
+      action: [puts people's heads into the earth and brings the dead up from it, returns you into the earth and brings you out]
+      quoted: ['irigal-am3 {ĝiš}al saĝ ki-a tum2-ma / adx {ĝiš}al-e ki-ta tum2-ma-am3', thumma yuʿīdukum fīhā wa-yukhrijukum ikhrājā]
+    note: 'After the hoe brings humans out of the earth (18-20), lines 74-75 say it lays people in the grave (irigal) and brings the dead (adx) up from the earth (ki-ta), here probably a ghost raised for
+      Gilgameš. 71:17-18 has the same sequence: grown from the earth, returned into it, brought out again (yukhrijukum), as resurrection. The tool does it in one, God in the other.'
+- unit: ane-etcsl-5-5-5-song-of-ploughing-oxen
+  checked: [quran-19-zechariah-and-john, quran-46-ahqaf-parents-and-the-scornful-son, quran-69-haqqa-books-in-right-and-left-hands]
+  matches: []
+- unit: ane-etcsl-5-6-1-shuruppag-prologue
+  checked: [quran-31-luqman, quran-37-sacrifice-of-son, quran-19-zechariah-and-john, quran-19-abraham-and-his-father]
+  matches:
+  - with: quran-31-luqman
+    motif: wise-father-instructs-son
+    refs: [ETCSL 5.6.1 4-13]
+    with_refs: ['31:12', '31:13', '31:16', '31:17']
+    relation: parallel
+    record:
+      agent: [Šuruppag the wise one, Luqman given wisdom]
+      recipient: [his son Zi-ud-sura, his son]
+      action: [gives instructions to his son, admonishes his son]
+      name: [Šuruppag, Luqmān]
+      quoted: ['šuruppag{ki}-e dumu-ni-ra na na-mu-un-de5-de5 / dumu-ĝu10 na ga-de5', wa-idh qāla luqmānu li-bnihi wa-huwa yaʿiẓuhu yā bunayya]
+    note: A named ancient sage, introduced as wise (ĝeštug2 tuku; ātaynā luqmāna l-ḥikma), addresses a sequence of precepts to his own son with the vocative 'my son' (dumu-ĝu10, repeated through the text;
+      yā bunayya, 31:13, 16, 17). Šuruppag's son is the flood hero; Luqman's son is unnamed.
+- unit: ane-etcsl-5-6-1-shuruppag-first-instructions
+  checked: [quran-60-mumtahana-abrahams-example-and-the-womens-pledge, quran-6-commandments, quran-4-wealth-household, quran-24-household-etiquette, quran-31-luqman]
+  matches:
+  - with: quran-31-luqman
+    motif: braying-donkey-in-fathers-advice
+    refs: [ETCSL 5.6.1 14]
+    with_refs: ['31:19']
+    relation: echo
+    record:
+      agent: [Šuruppag to his son, Luqman to his son]
+      object: [a donkey that brays, the voice of donkeys]
+      action: [do not buy a donkey which brays, lower your voice]
+      quoted: ['dur3{ur3} gu3 di na-ab-sa10-sa10', wa-ghḍuḍ min ṣawtika inna ankara l-aṣwāti la-ṣawtu l-ḥamīr]
+    note: 'The first precept of Šuruppag after the prologue: do not buy a dur3 (male donkey) that gu3 di ''makes noise, brays''. The last precept of Luqman: lower your voice, the most hateful of voices
+      is the voice of donkeys (ṣawt al-ḥamīr). The braying donkey in a sage father''s instructions to his son, at the opening of one and the close of the other; in Sumerian a practical warning about livestock,
+      in Arabic a figure for loud speech.'
+- unit: ane-etcsl-5-6-1-shuruppag-second-instructions
+  checked: [quran-13-covenant-and-paradise, quran-50-qaf-two-recorders-and-hell-asks-more, quran-31-luqman, quran-2-charity]
+  matches: []
+- unit: ane-etcsl-5-6-1-shuruppag-third-instructions-a
+  checked: [quran-31-luqman, quran-12-joseph-full, quran-17-commandments, quran-46-ahqaf-parents-and-the-scornful-son]
+  matches: []
+- unit: ane-etcsl-5-6-1-shuruppag-third-instructions-b
+  checked: [quran-17-commandments, quran-6-commandments, quran-46-ahqaf-parents-and-the-scornful-son, quran-4-kindness-misers-atom, quran-31-luqman]
+  matches:
+  - with: quran-17-commandments
+    motif: do-not-speak-harshly-to-a-parent
+    refs: [ETCSL 5.6.1 255]
+    with_refs: ['17:23']
+    relation: parallel
+    record:
+      recipient: [your mother, your parents]
+      action: [do not speak arrogantly, do not say 'uff' nor rebuke]
+      quoted: [ama-zu-ur2 inim dirig nam-ba-na-ab-be2-en, fa-lā taqul lahumā uffin wa-lā tanharhumā wa-qul lahumā qawlan karīmā]
+      outcome: [that causes hatred for you, speak to them a noble word]
+    note: 'A prohibition of a kind of speech to a parent: inim dirig ''excessive, arrogant word'' to the mother; uff and nahr to the parents in old age. Šuruppag gives the reason (it causes hatred, ḫul
+      ... gig), 17:23 the positive counterpart (qawl karīm).'
+  - with: quran-31-luqman
+    motif: obedience-to-parents-and-to-god
+    refs: [ETCSL 5.6.1 256-260]
+    with_refs: ['31:14', '31:15']
+    relation: divergence
+    record:
+      object: [the words of your mother and of your god, the parents' demand]
+      action: [do not question them; the father's word is reliable like a god's and must be obeyed, thank God and your parents but do not obey them if they press you to associate]
+      quoted: [inim ama-za inim diĝir-za ka-še3 nam-bi2-ib-dib2-be2-en / ab-ba diĝir-am3 inim-ma-ni zid-da, ani shkur lī wa-li-wālidayka ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā]
+    note: 'Both join the parents to the deity in one precept: Šuruppag sets the mother''s word beside the personal god''s word, and says the mother is like Utu who gives birth and the father like a god
+      whose word is true. 31:14-15 joins thanks to God and to the parents (with the mother''s bearing, ḥamalathu ummuhu), then limits obedience: if they strive to make you associate, do not obey them. Equal
+      standing of parent and god against a parent''s word subordinated to God''s.'
+- unit: ane-etcsl-5-6-5-three-ox-drivers
+  checked: [quran-21-noah-david-solomon, quran-24-penalties-and-lian, quran-4-creation-kinship-orphans, quran-65-talaq-divorce-and-seven-earths]
+  matches: []
+- unit: ane-etcsl-5-7-1-enlil-namzidtara
+  checked: [quran-102-104-rivalry-time-slanderer, quran-109-111-disbelievers-help-flame, quran-92-night, quran-89-dawn]
+  matches:
+  - with: quran-92-night
+    motif: wealth-useless-on-day-of-wrath
+    refs: [ETCSL 5.7.1 19-23]
+    with_refs: ['92:11']
+    relation: parallel
+    record:
+      agent: [Enlil, God]
+      object: [precious metals stones cattle and sheep, his wealth]
+      time: [the day of a human being drawing near, when he perishes]
+      action: [asks where wealth leads, says wealth will not avail]
+      quoted: [kug ḫe2-tuku za ḫe2-tuku gud ḫe2-tuku udu ḫe2-tuku / ud nam-lu2-u18-lu al-ku-nu / niĝ2-tuku-zu me-še3 e-tum3-ma, wa-mā yughnī ʿanhu māluhu idhā taraddā]
+    note: 'Enlil, disguised as a raven, tells Nam-zid-tara: you may have silver, stones, cattle, sheep, but a man''s day (of death) comes closer, so where does your wealth lead? 92:11: his wealth will not
+      avail him when he falls (taraddā, into death or the pit). The same judgment on wealth at the day of death; in Sumerian it introduces a blessing on a pious man, in the Quran it closes the
+      warning to the miser.'
+  - with: quran-102-104-rivalry-time-slanderer
+    motif: wealth-useless-on-day-of-wrath
+    refs: [ETCSL 5.7.1 19-21]
+    with_refs: ['102:1', '102:2', '104:2', '104:3']
+    relation: echo
+    record:
+      object: [precious metals stones cattle and sheep, abundance and counted wealth]
+      action: [you may acquire them but your day approaches, you are distracted by accumulating until you visit the graves]
+      quoted: [kug ḫe2-tuku za ḫe2-tuku gud ḫe2-tuku udu ḫe2-tuku / ud nam-lu2-u18-lu al-ku-nu, alhākumu t-takāthur ḥattā zurtumu l-maqābir / alladhī jamaʿa mālan wa-ʿaddadah yaḥsabu anna mālahu akhladah]
+    note: The repeated ḫe2-tuku 'you may acquire' of each kind of wealth against the approaching day of death; takāthur 'rivalry in accumulating' up to the graves, and the man who gathers and counts wealth
+      and thinks it makes him immortal (akhladahu). Accumulation set against death in both.
+- unit: ane-etcsl-5-7-2-nintinuga-dog
+  checked: [quran-16-daughters-and-the-bee, quran-3-annunciation-jesus, quran-6-poor-keys-of-unseen]
+  matches: []
+- unit: ane-etcsl-5-7-3-axe-to-nergal
+  checked: [quran-16-daughters-and-the-bee, quran-3-annunciation-jesus, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-etcsl-5-9-1-a-home-of-the-fish-invitation
+  checked: [quran-24-household-etiquette, quran-15-abraham-guests-lot, quran-11-abraham-guests]
+  matches: []
+- unit: ane-etcsl-5-9-1-a-fish-catalogue
+  checked: [quran-5-contracts-food-laws, quran-5-oaths-wine-game, quran-6-pagan-offerings-cattle]
+  matches: []
+- unit: ane-etcsl-5-9-2-a-heron-turtle-reedbeds-and-plea
+  checked: [quran-39-sincere-servant, quran-10-rain-parable-idols-disown, quran-56-waqia-three-classes-and-the-garden]
+  matches: []
+- unit: ane-etcsl-5-9-2-a-enki-intervenes
+  checked: [quran-16-blessings-of-creation, quran-71-noah, quran-23-creation-of-man-and-gifts]
+  matches: []
+- unit: ane-etcsl-6-1-01-a-righteousness-and-possessions
+  checked: [quran-35-heirs-of-book, quran-92-night, quran-26-abraham]
+  matches: []
+- unit: ane-etcsl-6-1-01-a-bread-and-the-poor
+  checked: [quran-2-charity, quran-24-household-etiquette, quran-90-city]
+  matches: []
+- unit: ane-etcsl-6-1-01-b-city-curse-boat-heart
+  checked: [quran-8-obedience-trial, quran-67-mulk-heavens-lamps-and-hell, quran-4-fighting-and-death]
+  matches: []
+- unit: ane-etcsl-6-1-01-b-eating-heart-husband
+  checked: [quran-80-frowned, quran-69-haqqa-books-in-right-and-left-hands, quran-90-city]
+  matches: []
+- unit: ane-etcsl-6-1-01-d-family-and-marriage
+  checked: [quran-42-shura-judgment-and-divine-speech, quran-19-mary-and-jesus, quran-3-imran-mary-zechariah, quran-4-creation-kinship-orphans]
+  matches: []
+- unit: ane-etcsl-6-1-01-d-sayings-and-fragments
+  checked: [quran-19-mary-and-jesus, quran-46-ahqaf-parents-and-the-scornful-son, quran-17-commandments]
+  matches: []
+- unit: ane-etcsl-6-1-02-a-curse-and-fate
+  checked: [quran-4-fighting-and-death, quran-42-shura-signs-and-ethics, quran-14-parables-and-satans-speech]
+  matches: []
+- unit: ane-etcsl-6-1-02-a-the-poor-man
+  checked: [quran-2-charity, quran-18-two-gardens, quran-93-94-forenoon-and-expansion]
+  matches: []
+- unit: ane-etcsl-6-1-02-a-scribes-and-singers
+  checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-14-moses-and-messengers, quran-3-abraham-people-of-book]
+  matches: []
+- unit: ane-etcsl-6-1-02-a-fox-lies-donkey
+  checked: [quran-100-chargers, quran-4-fighting-and-death, quran-40-chains-and-late-faith]
+  matches: []
+- unit: ane-etcsl-6-1-02-a-ox-gala-dog
+  checked: [quran-100-chargers, quran-69-haqqa-books-in-right-and-left-hands, quran-18-two-gardens]
+  matches: []
+- unit: ane-etcsl-6-1-02-b-house-and-palace
+  checked: [quran-18-two-gardens, quran-80-frowned, quran-24-household-etiquette]
+  matches: []
+- unit: ane-etcsl-6-1-02-c-d-birds-fish-offerings
+  checked: [quran-56-waqia-three-classes-and-the-garden, quran-10-rain-parable-idols-disown, quran-51-dhariyat-oaths-and-the-righteous]
+  matches: []
+- unit: ane-etcsl-6-1-03-a-outcast-son-and-time
+  checked: [quran-18-companions-of-the-cave, quran-7-children-of-adam, quran-17-commandments, quran-69-haqqa-books-in-right-and-left-hands, quran-43-zukhruf-jesus-and-paradise]
+  matches:
+  - with: quran-43-zukhruf-jesus-and-paradise
+    motif: friends-become-enemies-at-judgment
+    refs: [ETCSL 6.1.03 A.3.16]
+    with_refs: ['43:67']
+    relation: divergence
+    record:
+      agent: [a man's friend, intimate friends]
+      time: [once the man is dead, on that day]
+      action: [becomes his worst demon, become enemies to one another]
+      quoted: [en-na til3-la gu5-li-ni-im / ud ug5-ga gal5-la2 gal-la-ni-im, al-akhillāʾu yawmaʾidhin baʿḍuhum li-baʿḍin ʿaduwwun illā l-muttaqīn]
+    note: 'While he lives he is his friend (gu5-li); when he is dead he is his great galla-demon. 43:67: the intimate friends (akhillāʾ) on that day are enemies (ʿaduww) to one another, except the God-fearing.
+      Friendship turned to enmity beyond death in both; the proverb sets the turn at death and makes it absolute, the Quran sets it at the Judgment and exempts the muttaqīn.'
+- unit: ane-etcsl-6-1-03-b-quarrels-and-kings
+  checked: [quran-102-104-rivalry-time-slanderer, quran-69-haqqa-books-in-right-and-left-hands, quran-90-city]
+  matches: []
+- unit: ane-etcsl-6-1-03-c-slave-girls-and-merchants
+  checked: [quran-83-defrauders, quran-55-rahman-creation-and-the-two-seas, quran-24-privacy-modesty-marriage, quran-4-wealth-household]
+  matches:
+  - with: quran-83-defrauders
+    motif: merchant-with-false-scales
+    refs: [ETCSL 6.1.03 A.3.64, ETCSL 6.1.03 A.3.65]
+    with_refs: ['83:1', '83:2', '83:3']
+    relation: parallel
+    record:
+      agent: [the merchant, the defrauders]
+      instrument: [weighing scales, measure and weight]
+      action: [makes the silver oil and barley small, gives short when they measure or weigh for others]
+      quoted: [dam-gar3-ra kug ta ba-an-tur i3 u3 še ta ba-an-tur, wa-idhā kālūhum aw wazanūhum yukhsirūn]
+    note: ĝiš-erin2 'scales' that are a trap for the feet, and the merchant who made the silver, oil and barley small (tur); 83:1-3 the muṭaffifīn who take full measure from others and give short (yukhsirūn)
+      when they measure (kāla) or weigh (wazana). The same fraud in weighed and measured goods; the proverb warns against befriending the merchant, the surah threatens woe (wayl) at the Day.
+- unit: ane-etcsl-6-1-03-d-strong-weak-and-trades
+  checked: [quran-22-fly-parable-abraham, quran-16-abrogation-food-abraham-sabbath, quran-42-shura-signs-and-ethics, quran-4-fighting-and-death]
+  matches: []

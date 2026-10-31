@@ -1,0 +1,822 @@
+# ANE x Quran side-by-side pass, chunk 7 (ETCSL catalogues, Dumuzid's dream, Martu, Ninĝišzida, the Lament for Urim, Ur III royal hymns, the Sumerian proverb collections). Judged blind, from the originals.
+new_motifs:
+  dreamer-seeks-dream-interpreter: {label: "A dreamer who cannot read a dream calls for those who know dreams to interpret it", cluster: dreams}
+  telling-the-dream-forbidden: {label: "The dreamer is told not to tell his dream", cluster: dreams}
+  bird-in-dream-foretells-death: {label: "A bird seizing or eating something in a dream is read as the dreamer's death", cluster: dreams}
+  envoys-who-do-not-eat: {label: "Supernatural envoys who come to seize or destroy do not eat the food offered them", cluster: angels}
+  reward-and-daughter-for-the-strong-stranger: {label: "A strong stranger is offered a reward by the girl's father and marries the daughter", cluster: marriage}
+  nomad-ignorant-of-divine-rites: {label: "The desert nomad does not know the gods' place or God's limits, and does not pray", cluster: society}
+  food-and-drink-in-the-realm-of-the-dead: {label: "What the dead are given to eat and drink in the other world", cluster: afterlife}
+  river-of-the-other-world: {label: "The river or rivers of the other world, and whether they give water", cluster: afterlife}
+  plea-to-spare-a-doomed-city: {label: "An intercessor pleads with the divine to spare a city whose destruction is decreed; the decree is not turned back", cluster: judgment}
+  storm-destroys-at-the-god-s-command: {label: "The destroying storm-wind wrecks the land by its god's command", cluster: judgment}
+  people-blown-away-by-the-storm: {label: "The destroying wind carries the people away", cluster: judgment}
+  goods-of-the-dispossessed-pass-to-others: {label: "The wealth of a ruined or expelled people passes to others who did not have it", cluster: judgment}
+  kin-in-the-day-of-catastrophe: {label: "The day of catastrophe is described by the list of kin it overrides: mother, father, wife, child, brother", cluster: judgment}
+  god-given-strength-and-wisdom-of-the-king: {label: "The divine gives the chosen king bodily strength and great wisdom", cluster: kingship}
+  holy-chest-of-the-god: {label: "A holy chest belonging to the god, kept or brought as a sacred object", cluster: cult}
+  testimony-and-knowledge: {label: "A witness may testify only to what he knows", cluster: law}
+  speech-likened-to-a-donkey: {label: "Unruly or loud speech is likened to a donkey", cluster: wisdom}
+  god-holds-up-the-sky: {label: "He holds up the sky (so that it does not fall on the earth)", cluster: creation}
+  sky-and-earth-in-the-god-s-hands: {label: "The sky and the earth are held in the god's hands", cluster: creation}
+  speech-likened-to-a-fruit-bearing-tree: {label: "A spoken word or testimony is like a tree that yields its fruit", cluster: wisdom}
+  unequal-division-of-sheep: {label: "Sheep are divided so that one party takes nine (ninety-nine) and the other one", cluster: animals}
+  parable-of-the-incorrigible-dog: {label: "A dog that is driven off and behaves the same again, as a parable of the incorrigible", cluster: animals}
+  calling-on-god-in-peril-at-sea: {label: "In peril on a boat, the one who calls on god is brought safely to land", cluster: sea}
+  born-without-father-or-mother: {label: "A being conceived without father or mother", cluster: creation}
+  white-hair-of-old-age-image: {label: "An old man's whitened hair described in an image (white gypsum on a black mountain; the head kindled with grey)", cluster: body}
+  favour-repaid-with-favour: {label: "Favour is repaid with favour (goodness with goodness)", cluster: wisdom}
+  children-are-the-gift-of-god: {label: "Children come from the divine, as a gift", cluster: family}
+  wife-and-child-as-affliction: {label: "One's wife or child can be one's worst affliction or enemy", cluster: family}
+  no-one-reaches-the-heights: {label: "No one is tall enough to reach the heights (heaven, the mountains) or to span the earth", cluster: wisdom}
+  heights-and-hollows-levelled: {label: "The heights and the hollows will be levelled", cluster: eschatology}
+  adulterer-excluded-from-the-righteous: {label: "The adulterer is excluded from the company of the just", cluster: law}
+  answering-evil-with-evil: {label: "Whether to answer an evil word or deed with its like", cluster: wisdom}
+  the-mocker-mocked-in-turn: {label: "Those who mocked others are mocked in turn", cluster: wisdom}
+  before-you-existed: {label: "Formula: 'from when you did not exist' / 'when you were nothing'", cluster: creation}
+  god-not-idle-toward-the-wicked: {label: "The god is not idle (heedless) toward what the wicked do", cluster: justice}
+  no-one-sinless-from-the-womb: {label: "No one is sinless (pure) from the mother's womb", cluster: sin}
+  hunger-as-divine-punishment: {label: "The god punishes with hunger", cluster: judgment}
+reviewed:
+  - unit: ane-etcsl-6-1-03-e-mouth-tongue-and-heart
+    checked: [quran-25-servants-of-the-merciful, quran-22-abraham-house-pilgrimage, quran-69-haqqa-books-in-right-and-left-hands, quran-75-resurrection, quran-12-joseph-full, quran-31-luqman]
+    matches:
+      - with: quran-12-joseph-full
+        motif: testimony-and-knowledge
+        refs: ["ETCSL 6.1.03 A.3.118"]
+        with_refs: ["12:81"]
+        relation: echo
+        record:
+          agent: ["a witness", "Joseph's brothers"]
+          action: ["testifies to what he does not know", "testify only to what they know"]
+          quoted: ["niĝ2 nu-zu-am3 lu2-ki-inim-ma ab-ta-e3 / niĝ2-gig {d}suen-na-kam", "wa mā shahidnā illā bi-mā ʿalimnā"]
+          outcome: ["an abomination to Suen", "they disclaim knowledge of the unseen"]
+        note: "The witness who says 'let me tell you what I know' but does not know is niĝ2-gig to Suen; the brothers frame their report 'we testify only to what we know, and we were not guardians of the unseen'."
+      - with: quran-31-luqman
+        motif: speech-likened-to-a-donkey
+        refs: ["ETCSL 6.1.03 A.3.114"]
+        with_refs: ["31:19"]
+        relation: divergence
+        record:
+          object: ["my tongue", "the voice"]
+          instrument: ["a runaway donkey", "the donkey's bray"]
+          quoted: ["eme-ĝu10 anše kar-ra-gin7 eĝer-bi-še3 nu-gi4-gi4", "inna ankara l-aṣwāti la-ṣawtu l-ḥamīr"]
+          outcome: ["it will not turn back", "so lower your voice"]
+        note: "Unruly speech and the donkey: the tongue runs off like a runaway donkey and will not come back; Luqmān's son is to lower his voice, for 'the most hateful of voices is the voice of donkeys'. Running away against braying."
+  - unit: ane-etcsl-6-1-03-f-trades-taboos-and-fate
+    checked: [quran-30-fitra, quran-14-parables-and-satans-speech, quran-4-wealth-household, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-6-1-03-g-fragments
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-83-defrauders, quran-56-waqia-three-classes-and-the-garden]
+    matches: []
+  - unit: ane-etcsl-6-1-04-a-sky-and-winds
+    checked: [quran-30-winds-and-rain, quran-2-patience-signs, quran-69-haqqa-books-in-right-and-left-hands, quran-71-noah, quran-22-signs-and-rites, quran-39-mercy-and-last-day]
+    matches:
+      - with: quran-22-signs-and-rites
+        motif: god-holds-up-the-sky
+        refs: ["ETCSL 6.1.04 A.4.4"]
+        with_refs: ["22:65"]
+        relation: echo
+        record:
+          agent: ["he", "God"]
+          action: ["holds up the sky", "holds back the sky from falling on the earth"]
+          object: ["the sky", "the sky"]
+          quoted: ["an an-guru3", "wa yumsiku s-samāʾa an taqaʿa ʿalā l-arḍi illā bi-idhnihi"]
+        note: "'He holds up the sky' (an an-guru3), an unnamed subject (Enlil in the restored Unug copy) against God who 'holds the sky lest it fall on the earth, except by his leave'."
+      - with: quran-39-mercy-and-last-day
+        motif: sky-and-earth-in-the-god-s-hands
+        refs: ["ETCSL 6.1.04 A.4.4"]
+        with_refs: ["39:67"]
+        relation: divergence
+        record:
+          object: ["the sky and the earth", "the earth and the heavens"]
+          instrument: ["his hands", "his grip and his right hand"]
+          quoted: ["an an-guru3 ki šu-ni-še3 an-la2", "wa l-arḍu jamīʿan qabḍatuhu yawma l-qiyāmati wa s-samāwātu maṭwiyyātun bi-yamīnihi"]
+          time: [null, "the Day of Resurrection"]
+        note: "Sky held up and the earth 'dangling from his hands' (šu-ni-še3 an-la2); on the Day the whole earth is 'his handful' and the heavens are 'rolled up in his right hand'. Suspension against gathering in."
+  - unit: ane-etcsl-6-1-04-b-witness-thief-and-body
+    checked: [quran-14-parables-and-satans-speech, quran-25-servants-of-the-merciful, quran-75-resurrection, quran-100-chargers]
+    matches:
+      - with: quran-14-parables-and-satans-speech
+        motif: speech-likened-to-a-fruit-bearing-tree
+        refs: ["ETCSL 6.1.04 B.4.45"]
+        with_refs: ["14:24", "14:25"]
+        relation: echo
+        record:
+          object: ["a witness's testimony", "a good word"]
+          instrument: ["the prosopis plant whose pods come forth", "a good tree that gives its fruit every season"]
+          quoted: ["{ĝiš}kiši16 nam-lu2-inim-ma / ḫarub-ba-am3 im-ta-e3", "kalimatan ṭayyibatan ka-shajaratin ṭayyibatin ... tuʾtī ukulahā kulla ḥīn"]
+        note: "The witness should be like the prosopis that puts forth its pods; the good word is like a good tree, firmly rooted, that 'gives its fruit every season by its Lord's leave', with the bad word as an uprooted tree (14:26)."
+  - unit: ane-etcsl-6-1-05-a-elephant-bull-ox-horse
+    checked: [quran-27-solomon-ants-hoopoe-sheba, quran-2-the-cow, quran-6-pagan-offerings-cattle, quran-5-contracts-food-laws]
+    matches: []
+  - unit: ane-etcsl-6-1-05-c-donkey
+    checked: [quran-2-four-birds, quran-6-pagan-offerings-cattle, quran-100-chargers]
+    matches: []
+  - unit: ane-etcsl-6-1-05-d-lion
+    checked: [quran-2-the-cow, quran-2-four-birds, quran-100-chargers]
+    matches: []
+  - unit: ane-etcsl-6-1-05-d-wolf-and-fox
+    checked: [quran-10-ingratitude-sea, quran-2-the-cow, quran-6-pagan-offerings-cattle, quran-2-four-birds, quran-38-david-ewe-parable]
+    matches:
+      - with: quran-38-david-ewe-parable
+        motif: unequal-division-of-sheep
+        refs: ["ETCSL 6.1.05 D.5.x5"]
+        with_refs: ["38:23", "38:24"]
+        relation: divergence
+        record:
+          agent: ["the fox", "my brother"]
+          action: ["takes nine sheep and leaves one to the nine wolves", "has ninety-nine ewes and demands the one"]
+          number: ["10 sheep: 9 to the fox, 1 to nine wolves", "99 ewes against 1"]
+          quoted: ["9 za-e-en-ze2-en 1-am3 šu te-ba-ab-ze2-en / ĝe26-e dili-ĝu10-ne 9 šu ga-ba-ab-ti", "lahu tisʿun wa tisʿūna naʿjatan wa liya naʿjatun wāḥida"]
+          outcome: ["told as a clever fox's trick", "judged as wrongdoing (la-qad ẓalamaka)"]
+        note: "Both turn on 9 (99) against 1 in a share of sheep: the fox says 'you nine take one sheep; I alone shall take nine, this is my share'; the disputant before David says 'this my brother has ninety-nine ewes and I one ewe, and he said: entrust her to me'. A joke about a greedy partner, against a case that David judges and that turns out to be his own trial."
+  - unit: ane-etcsl-6-1-05-d-dog-1
+    checked: [quran-7-dog-parable, quran-2-four-birds, quran-100-chargers, quran-2-the-cow]
+    matches:
+      - with: quran-7-dog-parable
+        motif: parable-of-the-incorrigible-dog
+        refs: ["ETCSL 6.1.05 D.5.102"]
+        with_refs: ["7:176"]
+        relation: divergence
+        record:
+          agent: ["the dog", "the dog"]
+          action: ["is struck and driven out and returns for the same again", "pants whether driven off or left alone"]
+          quoted: ["ur-gir15-re e2 ganba-še3 ...", "in taḥmil ʿalayhi yalhath aw tatruk-hu yalhath"]
+          outcome: ["its leg is broken a second time", "it is the likeness of those who deny the signs"]
+        note: "The dog beaten with the door-bolt goes back 'again tonight' and has its leg broken again; the man who sloughed off God's signs is 'like the dog: if you drive at it, it pants, and if you leave it, it pants'. In both, the dog's behaviour does not change whatever is done to it."
+  - unit: ane-etcsl-6-1-05-d-dog-2
+    checked: [quran-6-pagan-offerings-cattle, quran-69-haqqa-books-in-right-and-left-hands, quran-5-contracts-food-laws]
+    matches: []
+  - unit: ane-etcsl-6-1-07-ab-destroyed-place-and-boat
+    checked: [quran-11-opening-throne-on-water, quran-69-haqqa-books-in-right-and-left-hands, quran-4-fighting-and-death, quran-90-city]
+    matches: []
+  - unit: ane-etcsl-6-1-07-c-fate-and-the-reed
+    checked: [quran-10-ingratitude-sea, quran-3-annunciation-jesus, quran-90-city, quran-69-haqqa-books-in-right-and-left-hands]
+    matches:
+      - with: quran-10-ingratitude-sea
+        motif: calling-on-god-in-peril-at-sea
+        refs: ["ETCSL 6.1.07 C.7.77"]
+        with_refs: ["10:22", "10:23"]
+        relation: divergence
+        record:
+          agent: ["the young man", "those in the ship"]
+          action: ["says 'Ah god!'", "call on God sincerely"]
+          instrument: ["a boat", "the ship (al-fulk)"]
+          quoted: ["ĝuruš-e u8-a diĝir-ra-am3 di {ĝiš}ma2 ki-bi ba-te", "daʿawu llāha mukhliṣīna lahu d-dīn la-in anjaytanā ..."]
+          outcome: ["the boat reached its destination", "they are saved and then rebel on the earth"]
+        note: "Three on a boat: one says 'Woe!' and sinks, one 'Alas!' and the rudder breaks, the young man says 'Ah god!' and reaches port. In 10:22-23 those overtaken by the storm call on God alone and are saved, but once delivered 'they transgress on the earth'. The proverb ends at the safe arrival; the Quran continues to the ingratitude."
+      - with: quran-3-annunciation-jesus
+        motif: born-without-father-or-mother
+        refs: ["ETCSL 6.1.07 C.7.93"]
+        with_refs: ["3:47", "3:59"]
+        relation: divergence
+        record:
+          object: ["the reed", "Adam (and Jesus)"]
+          action: ["conceived by no father or mother", "created from dust"]
+          quoted: ["[ad]-da a ḫur nu-ri / [ama-a] a ḫur nu-ri / [{gi}en3-bar] gaba ud-da [e3]-a", "inna mathala ʿīsā ʿinda llāhi ka-mathali ādama khalaqahu min turāb"]
+          outcome: ["it came out of the breast of the storm", "he said to him 'Be' and he was"]
+        note: "A riddle: 'conceived by no father, conceived by no mother, the reed came out of the breast of the storm'. The Quran argues from the being with neither, Adam, to the one with no father, Jesus (lam yamsasnī basharun, 3:47). The fatherless and motherless birth is a riddle about a plant in one text and an argument about a prophet in the other."
+  - unit: ane-etcsl-6-1-08-ab-pig-goat-fox
+    checked: [quran-25-signs-shadow-seas, quran-2-the-cow, quran-100-chargers, quran-6-pagan-offerings-cattle]
+    matches: []
+  - unit: ane-etcsl-6-1-08-cde-birds-trees-furniture
+    checked: [quran-5-jesus-miracles-table, quran-2-the-cow, quran-2-four-birds, quran-100-chargers]
+    matches: []
+  - unit: ane-etcsl-6-1-09-a-authority-and-strength
+    checked: [quran-19-zechariah-and-john, quran-69-haqqa-books-in-right-and-left-hands, quran-4-fighting-and-death, quran-47-muhammad-hypocrites]
+    matches:
+      - with: quran-19-zechariah-and-john
+        motif: white-hair-of-old-age-image
+        refs: ["ETCSL 6.1.09 A.9.a8"]
+        with_refs: ["19:4"]
+        relation: divergence
+        record:
+          agent: ["the old man", "Zechariah"]
+          object: ["my black mountain (the hair)", "the head"]
+          quoted: ["hur-saĝ gig2-ĝu10 im-babbar ba-an-mu2", "wa shtaʿala r-raʾsu shayban"]
+          outcome: ["he laments his lost vigour", "he prays for a son"]
+        note: "The same old man's complaint in the 9th collection: his black mountain has sprouted white gypsum. Zechariah's 'the bone has weakened in me and the head has kindled with grey' is spoken as a prayer for a son, not a lament."
+  - unit: ane-etcsl-6-1-09-b-h-slaves-utu-humility
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-25-servants-of-the-merciful, quran-16-parables-and-justice]
+    matches: []
+  - unit: ane-etcsl-6-1-10-old-man
+    checked: [quran-19-zechariah-and-john, quran-69-haqqa-books-in-right-and-left-hands, quran-17-commandments, quran-31-luqman]
+    matches:
+      - with: quran-19-zechariah-and-john
+        motif: white-hair-of-old-age-image
+        refs: ["ETCSL 6.1.10 10.9", "ETCSL 6.1.10 10.10"]
+        with_refs: ["19:4"]
+        relation: divergence
+        record:
+          agent: ["the old man", "Zechariah"]
+          object: ["my black mountain (the hair)", "the head"]
+          instrument: ["white gypsum sprouting", "grey kindling like fire"]
+          quoted: ["[ḫur-saĝ] gig2-ĝu10 im-babbar ba-an-mu2", "innī wahana l-ʿaẓmu minnī wa shtaʿala r-raʾsu shayban"]
+          outcome: ["his youthful vigour has fled", "he asks God for an heir"]
+        note: "An old man's body in images: vigour fled 'like a runaway donkey', 'my black mountain has sprouted white gypsum'. Zechariah: 'my bones have weakened and my head has caught fire with grey'. White growing on black against grey catching fire; a lament against a prayer."
+  - unit: ane-etcsl-6-1-11-a-d-lies-wood-nanni
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-89-dawn, quran-51-dhariyat-abrahams-guests-and-the-peoples]
+    matches: []
+  - unit: ane-etcsl-6-1-11-e-k-revenge-friend-scribe
+    checked: [quran-42-shura-signs-and-ethics, quran-2-israel-favor, quran-4-kindness-misers-atom, quran-4-fighting-and-death]
+    matches: []
+  - unit: ane-etcsl-6-1-12-a-master-and-steward
+    checked: [quran-24-privacy-modesty-marriage, quran-4-creation-kinship-orphans, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-6-1-12-b-f-man-sayings
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-90-city, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches: []
+  - unit: ane-etcsl-6-1-13-thieves-crafty-lame
+    checked: [quran-100-chargers, quran-54-qamar-ad-thamud-lot-pharaoh, quran-4-fighting-and-death]
+    matches: []
+  - unit: ane-etcsl-6-1-13-ecstatic-debt-immigrant
+    checked: [quran-4-kindness-misers-atom, quran-58-mujadila-zihar-and-secret-counsel, quran-4-creation-kinship-orphans, quran-25-servants-of-the-merciful]
+    matches: []
+  - unit: ane-etcsl-6-1-14-a-favour-and-enlils-city
+    checked: [quran-55-rahman-judgment-and-the-four-gardens, quran-2-charity, quran-42-shura-signs-and-ethics, quran-41-steadfast-and-repel-evil]
+    matches:
+      - with: quran-55-rahman-judgment-and-the-four-gardens
+        motif: favour-repaid-with-favour
+        refs: ["ETCSL 6.1.14 A.14.1"]
+        with_refs: ["55:60"]
+        relation: parallel
+        record:
+          object: ["a favour", "goodness (al-iḥsān)"]
+          action: ["is repaid with a favour", "is rewarded with goodness"]
+          quoted: ["[šu gi4-gi4]-ra šu ḫe2-en-na-gi4", "hal jazāʾu l-iḥsāni illā l-iḥsān"]
+        note: "'Let the favour be repaid (šu gi4) to him who repays a favour' and 'is the reward of goodness anything but goodness?': the same reciprocal formula, a human wish in one and God's reward of the Garden in the other."
+  - unit: ane-etcsl-6-1-14-bc-palace-and-household
+    checked: [quran-42-shura-judgment-and-divine-speech, quran-4-wealth-household, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-4-creation-kinship-orphans, quran-64-taghabun-day-of-loss-and-household-enemies]
+    matches:
+      - with: quran-42-shura-judgment-and-divine-speech
+        motif: children-are-the-gift-of-god
+        refs: ["ETCSL 6.1.14 B.14.39"]
+        with_refs: ["42:49", "42:50"]
+        relation: parallel
+        record:
+          object: ["children", "daughters and sons"]
+          agent: ["the gods", "God"]
+          quoted: ["dam tuku-tuku lu2-ulu3-kam / dumu tuku-tuku diĝir-ra-kam", "yahabu li-man yashāʾu ināthan wa yahabu li-man yashāʾu dh-dhukūr ... wa yajʿalu man yashāʾu ʿaqīmā"]
+        note: "'Having wives is human; having children is from the gods'; God 'grants daughters to whom he wills and sons to whom he wills ... and makes barren whom he wills'. The Sumerian sets marriage against children; the Quran speaks only of the gift and its withholding."
+      - with: quran-64-taghabun-day-of-loss-and-household-enemies
+        motif: wife-and-child-as-affliction
+        refs: ["ETCSL 6.1.14 B.14.40", "ETCSL 6.1.14 B.14.44"]
+        with_refs: ["64:14"]
+        relation: echo
+        record:
+          object: ["a malicious wife and a malicious son", "some of your wives and children"]
+          quoted: ["dam nu-ĝar-ra e2-a til3-la a2-sag3-a2-sag3-a dirig-ga", "inna min azwājikum wa awlādikum ʿaduwwan lakum fa-ḥdharūhum"]
+          outcome: ["the worst of all afflictions", "beware of them", "but pardon"]
+        note: "'A malicious wife living in the house is the worst of all afflictions', with 'when I married a malicious husband, when I bore a malicious son'; 'among your wives and your children is an enemy to you, so beware of them; and if you pardon ... God is forgiving'. The Quran adds the call to pardon."
+  - unit: ane-etcsl-6-1-15-ab-well-wisher-and-enlil
+    checked: [quran-11-noah, quran-89-dawn, quran-47-muhammad-battle-and-rivers]
+    matches: []
+  - unit: ane-etcsl-6-1-15-c-f-sceptre-temple-rivers
+    checked: [quran-7-names-and-hour, quran-4-fighting-and-death, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-6-1-16-a-c-shepherds-and-enlil
+    checked: [quran-9-stayers-exempt, quran-80-frowned, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-6-1-16-d-f-friend-merchant-thief
+    checked: [quran-16-parables-and-justice, quran-70-ascending-stairways, quran-102-104-rivalry-time-slanderer]
+    matches: []
+  - unit: ane-etcsl-6-1-17-heaven-old-age-poor
+    checked: [quran-17-commandments, quran-18-two-gardens, quran-46-ahqaf-parents-and-the-scornful-son, quran-93-94-forenoon-and-expansion]
+    matches:
+      - with: quran-17-commandments
+        motif: no-one-reaches-the-heights
+        refs: ["ETCSL 6.1.17 B.17.b2"]
+        with_refs: ["17:37"]
+        relation: echo
+        record:
+          agent: ["no one", "you (the arrogant walker)"]
+          action: ["is tall enough to reach heaven or broad enough to span the earth", "will reach the mountains in height or pierce the earth"]
+          quoted: ["sukud-de3 an-na šu nu-um-[da-la2] / daĝal-e ki-a <igi> nu-um-ma-an-il2-il2", "innaka lan takhriqa l-arḍa wa lan tablugha l-jibāla ṭūlā"]
+          outcome: ["said to a figure who roars like a storm", "said against walking on earth exultantly"]
+        note: "Human height and breadth measured against the cosmos: 'no one is tall (sukud) enough to touch the heavens, no one broad (daĝal) enough to take in the earth'; 'you will never pierce the earth nor reach the mountains in height (ṭūlā)'. The Quran turns it into a rebuke of the proud walker."
+  - unit: ane-etcsl-6-1-18-idler-talker-agade
+    checked: [quran-20-judgment-day, quran-100-chargers, quran-4-fighting-and-death, quran-79-pharaoh-and-cosmos]
+    matches:
+      - with: quran-20-judgment-day
+        motif: heights-and-hollows-levelled
+        refs: ["ETCSL 6.1.18 A.18.12"]
+        with_refs: ["20:105", "20:106", "20:107"]
+        relation: echo
+        record:
+          object: ["the hills and the depths", "the mountains"]
+          action: ["will be levelled", "are blown to dust and left a level plain"]
+          quoted: ["du6-la2 dul2-bi bi2-ib-sig9-sig9", "fa-yadharuhā qāʿan ṣafṣafā / lā tarā fīhā ʿiwajan wa lā amtā"]
+          time: [null, "the Day of Judgment"]
+        note: "'The hills and the depths will be levelled' (glossed in the collection with 'whenever there is excess, an axe remedies it'); the mountains are scattered and left 'a smooth plain in which you see no crookedness and no rise'. A proverb of social levelling against the end of the world."
+  - unit: ane-etcsl-6-1-19-a-c-old-age-lot-and-marriage
+    checked: [quran-17-commandments, quran-4-creation-kinship-orphans, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-6-1-19-d-h-slave-girl-glutton-river
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-56-waqia-three-classes-and-the-garden, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-etcsl-6-1-21-slave-girls-and-gala
+    checked: [quran-24-privacy-modesty-marriage, quran-56-waqia-three-classes-and-the-garden, quran-25-servants-of-the-merciful]
+    matches: []
+  - unit: ane-etcsl-6-1-22-a-younger-son-good-evil
+    checked: [quran-91-sun, quran-46-ahqaf-parents-and-the-scornful-son, quran-17-commandments, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-6-1-22-b-stranger-raven-merchants
+    checked: [quran-75-resurrection, quran-69-haqqa-books-in-right-and-left-hands, quran-90-city, quran-51-dhariyat-oaths-and-the-righteous]
+    matches: []
+  - unit: ane-etcsl-6-1-22-c-heaven-anger-liar-utu
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-90-city, quran-68-qalam-the-pen-and-the-slanderer, quran-17-commandments]
+    matches:
+      - with: quran-17-commandments
+        motif: no-one-reaches-the-heights
+        refs: ["ETCSL 6.1.22 22.ll.203–206"]
+        with_refs: ["17:37"]
+        relation: echo
+        record:
+          agent: ["no one", "you (the arrogant walker)"]
+          action: ["is tall enough to reach heaven or broad enough to encompass the earth", "will reach the mountains in height or pierce the earth"]
+          quoted: ["sukux-ra2 an-na šu nu-um-la2 / daĝal-e ki-in-du la-ba-an-šu2-šu2", "lan takhriqa l-arḍa wa lan tablugha l-jibāla ṭūlā"]
+        note: "The same saying in collection 22: no one is tall enough to reach heaven or broad enough to cover the earth; 17:37 'you will never pierce the earth nor reach the mountains in height'."
+  - unit: ane-etcsl-6-1-23-adulterer
+    checked: [quran-24-penalties-and-lian, quran-17-commandments, quran-4-wealth-household, quran-4-marriage-forbidden-degrees]
+    matches:
+      - with: quran-24-penalties-and-lian
+        motif: adulterer-excluded-from-the-righteous
+        refs: ["ETCSL 6.1.23 B.23.7", "ETCSL 6.1.23 B.23.8"]
+        with_refs: ["24:3"]
+        relation: divergence
+        record:
+          agent: ["the man who chases after women", "the adulterer"]
+          action: ["no one walks with him and no just man holds him dear", "may marry only an adulteress or idolatress"]
+          quoted: ["nu-mu-un-na-du-du ĝiri3 <nu>-mu-na-ĝa2-ĝa2", "az-zānī lā yankiḥu illā zāniyatan aw mushrikatan wa ḥurrima dhālika ʿalā l-muʾminīn"]
+          outcome: ["thrown away like a worthless coin", "forbidden to the believers"]
+        note: "The portrait of the dishonest man who chases after women's genitals: 'no one walks together with him ... he is dear to no just man', thrown away like a worthless coin. 24:3 makes the exclusion a ruling: the adulterer marries only his like, 'and that is forbidden to the believers'."
+  - unit: ane-etcsl-6-1-24-pigs-house-sunset
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-17-commandments, quran-102-104-rivalry-time-slanderer]
+    matches: []
+  - unit: ane-etcsl-6-1-25-drought-nanni-palace
+    checked: [quran-18-two-gardens, quran-89-dawn, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-6-1-26-abominations-and-fear-of-god
+    checked: [quran-65-talaq-divorce-and-seven-earths, quran-41-steadfast-and-repel-evil, quran-102-104-rivalry-time-slanderer, quran-4-fighting-and-death]
+    matches:
+      - with: quran-41-steadfast-and-repel-evil
+        motif: answering-evil-with-evil
+        refs: ["ETCSL 6.1.26 A.26.a13"]
+        with_refs: ["41:34", "41:35"]
+        relation: divergence
+        record:
+          action: ["does not answer the curse with a curse", "repels the evil deed with what is better"]
+          quoted: ["aš2 dug4-ga-ĝu10 aš2 nu-mu-un-[gi]", "idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa baynahu ʿadāwatun ka-annahu waliyyun ḥamīm"]
+          outcome: ["an answered curse would be answered with another curse", "the enemy becomes a close friend"]
+        note: "Not returning evil for evil, with different reasons: 'I did not answer the curse spoken against me with a curse; my answering a curse would be answered by another curse' (prudence against a chain of curses); 41:34 'repel with what is better, and the one between whom and you was enmity will be as a warm friend' (turning the enemy)."
+  - unit: ane-etcsl-6-1-27-rich-heart-light-burden
+    checked: [quran-24-household-etiquette, quran-102-104-rivalry-time-slanderer, quran-100-chargers]
+    matches: []
+  - unit: ane-etcsl-6-1-28-name-burial-palace
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-90-city, quran-102-104-rivalry-time-slanderer]
+    matches: []
+  - unit: ane-etcsl-6-2-1-1a-nibru-proverbs-fragments-1-3
+    checked: [quran-100-chargers, quran-28-qarun, quran-102-104-rivalry-time-slanderer]
+    matches: []
+  - unit: ane-etcsl-6-2-1-4a-nibru-proverbs-4-8
+    checked: [quran-28-qarun, quran-69-haqqa-books-in-right-and-left-hands, quran-89-dawn]
+    matches: []
+  - unit: ane-etcsl-6-2-1-9-nibru-proverbs-9-19
+    checked: [quran-49-hujurat-etiquette-and-brotherhood, quran-46-ahqaf-parents-and-the-scornful-son, quran-68-qalam-the-pen-and-the-slanderer, quran-83-defrauders]
+    matches:
+      - with: quran-83-defrauders
+        motif: the-mocker-mocked-in-turn
+        refs: ["ETCSL 6.2.1 9:8-10"]
+        with_refs: ["83:29", "83:30", "83:34"]
+        relation: divergence
+        record:
+          agent: ["a clown", "the guilty"]
+          action: ["made fun of the city and was made fun of", "laughed at the believers and are laughed at"]
+          quoted: ["ud-da-tuš-a ugu iri-ke4 a-tar i3-ak-e / ugu-ni a-tar mu-ni-ib-ak-e-eš / er2 i3-še8-še8", "kānū mina lladhīna āmanū yaḍḥakūn ... fa-l-yawma lladhīna āmanū mina l-kuffāri yaḍḥakūn"]
+          time: [null, "on that day"]
+          outcome: ["he wept", "the believers laugh at the unbelievers"]
+        note: "Mockery returned on the mocker: the jester who mocked the city is mocked and weeps; those who laughed at the believers and winked at them are laughed at 'today' by the believers, from couches. A town anecdote against the reversal at the judgment."
+  - unit: ane-etcsl-6-2-1-20-nibru-proverbs-20-44
+    checked: [quran-19-zechariah-and-john, quran-19-mary-and-jesus, quran-49-hujurat-etiquette-and-brotherhood]
+    matches:
+      - with: quran-19-zechariah-and-john
+        motif: before-you-existed
+        refs: ["ETCSL 6.2.1 33:1-2"]
+        with_refs: ["19:9"]
+        relation: echo
+        record:
+          agent: ["the speakers (we)", "God"]
+          recipient: ["the son", "Zechariah"]
+          quoted: ["ĝen za-e dumu-me-e-ke4 / za-e nu-me-en-na-ta", "wa qad khalaqtuka min qablu wa lam taku shayʾā"]
+        note: "'Come, you are our son, even from when you did not exist (nu-me-en-na-ta)'; 'I created you before, when you were not anything (lam taku shayʾā)'. The same formula of prior non-existence, used by parents claiming a son and by God answering doubt about a birth."
+  - unit: ane-etcsl-6-2-2-susa-proverbs
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-42-shura-signs-and-ethics, quran-17-commandments]
+    matches: []
+  - unit: ane-etcsl-6-2-3-1-urim-justice-wealth
+    checked: [quran-16-parables-and-justice, quran-41-steadfast-and-repel-evil, quran-92-night, quran-14-day-of-reckoning]
+    matches:
+      - with: quran-14-day-of-reckoning
+        motif: god-not-idle-toward-the-wicked
+        refs: ["ETCSL 6.2.3 1:3"]
+        with_refs: ["14:42"]
+        relation: parallel
+        record:
+          agent: ["Utu", "God"]
+          object: ["wickedness", "what the wrongdoers do"]
+          quoted: ["niĝ2-erim2-me-e a2-bi ḫe2-eb-kuš2-še {d}utu nu-še-ba", "wa lā taḥsabanna llāha ghāfilan ʿammā yaʿmalu ẓ-ẓālimūn"]
+          outcome: ["Utu will not be idle", "he only defers them to a day when eyes stare"]
+        note: "'Whenever wickedness may cause trouble, Utu will not be idle'; 'do not think God heedless (ghāfil) of what the wrongdoers do; he only defers them to a day when the eyes will stare'. The Quran adds the delay to the day of reckoning."
+  - unit: ane-etcsl-6-2-3-14-urim-cult-fate-scribes
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-68-qalam-the-pen-and-the-slanderer, quran-100-chargers]
+    matches: []
+  - unit: ane-etcsl-6-2-3-24-urim-hands-palace-mouth-god
+    checked: [quran-17-iblis-and-adam, quran-69-haqqa-books-in-right-and-left-hands, quran-47-muhammad-battle-and-rivers]
+    matches: []
+  - unit: ane-etcsl-6-2-3-34-urim-animal-fables
+    checked: [quran-100-chargers, quran-2-the-cow, quran-6-pagan-offerings-cattle]
+    matches: []
+  - unit: ane-etcsl-6-2-3-65-urim-wisdom-justice-sin
+    checked: [quran-16-parables-and-justice, quran-64-taghabun-day-of-loss-and-household-enemies, quran-31-luqman, quran-53-najm-goddesses-and-scrolls]
+    matches:
+      - with: quran-53-najm-goddesses-and-scrolls
+        motif: no-one-sinless-from-the-womb
+        refs: ["ETCSL 6.2.3 81:2-5"]
+        with_refs: ["53:32"]
+        relation: echo
+        record:
+          object: ["a child without sin", "yourselves"]
+          place: ["born of his mother", "embryos in your mothers' bellies"]
+          quoted: ["ud na-me dumu nam-tag-ga nu-tuku / ama-ni ...", "wa idh antum ajinnatun fī buṭūni ummahātikum fa-lā tuzakkū anfusakum"]
+          outcome: ["there was never anyone who was not a sinner", "God knows best who is godfearing"]
+        note: "'A child without sin was never born by his mother; there never was anyone who was not a sinner'; 53:32 grants pardon of small faults (al-lamam) and warns: God knew you 'when you were embryos in your mothers' bellies, so do not claim yourselves pure'. Universal sinfulness from birth against a ban on self-acquittal, with the mother's womb in both."
+  - unit: ane-etcsl-6-2-3-82-urim-personal-god-elders
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-16-parables-and-justice, quran-2-charity]
+    matches: []
+  - unit: ane-etcsl-6-2-3-108-urim-crafts-justice-inheritance
+    checked: [quran-16-parables-and-justice, quran-64-taghabun-day-of-loss-and-household-enemies, quran-39-death-and-sleep]
+    matches: []
+  - unit: ane-etcsl-6-2-4-unug-proverbs
+    checked: [quran-67-mulk-earth-birds-and-water, quran-55-rahman-creation-and-the-two-seas, quran-79-pharaoh-and-cosmos, quran-16-abrogation-food-abraham-sabbath]
+    matches:
+      - with: quran-16-abrogation-food-abraham-sabbath
+        motif: hunger-as-divine-punishment
+        refs: ["ETCSL 6.2.4 1.B:3"]
+        with_refs: ["16:112"]
+        relation: parallel
+        record:
+          agent: ["Enlil", "God"]
+          object: ["hunger", "the garment of hunger and fear"]
+          quoted: ["{d}en-lil2-le šer7-da gu-la-ni šag4-ĝar-ra-am3", "fa-adhāqahā llāhu libāsa l-jūʿi wa l-khawf"]
+          recipient: [null, "a town that was secure and denied God's favours"]
+        note: "'Enlil's greatest punishment is hunger' (šag4-ĝar); God made the ungrateful town 'taste the garment of hunger and fear'. The god's name is restored in the Unug copy."
+  - unit: ane-etcsl-6-2-5-1-unprov-wealth-warrior-slaves
+    checked: [quran-102-104-rivalry-time-slanderer, quran-100-chargers, quran-56-waqia-three-classes-and-the-garden]
+    matches: []
+  - unit: ane-etcsl-6-2-5-4-unprov-enlil-curse-ninurta
+    checked: [quran-45-jathiya-signs-and-israel, quran-3-sovereignty, quran-42-shura-signs-and-ethics, quran-16-parables-and-justice]
+    matches: []
+  - unit: ane-etcsl-6-2-5-6-unprov-righteousness-pig-enlil
+    checked: [quran-16-parables-and-justice, quran-41-steadfast-and-repel-evil, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches: []
+  - unit: ane-etcsl-6-2-5-13-unprov-justice-ordeal-millstone
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-17-iblis-and-adam, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-0-1-ur3-literary-catalogues
+    checked: [quran-84-splitting, quran-69-haqqa-books-in-right-and-left-hands, quran-83-defrauders]
+    matches: []
+  - unit: ane-etcsl-0-2-ob-catalogues-nibru-louvre-urim
+    checked: [quran-84-splitting, quran-85-constellations, quran-82-cleaving]
+    matches: []
+  - unit: ane-etcsl-0-2-ob-catalogues-other
+    checked: [quran-84-splitting, quran-85-constellations, quran-82-cleaving]
+    matches: []
+  - unit: ane-etcsl-1-4-3-a-dumuzid-laments-and-dreams
+    checked: [quran-19-mary-and-jesus, quran-19-zechariah-and-john, quran-3-imran-mary-zechariah, quran-12-joseph-full]
+    matches:
+      - with: quran-12-joseph-full
+        motif: dreamer-seeks-dream-interpreter
+        refs: ["ETCSL 1.4.3 19-24"]
+        with_refs: ["12:43", "12:44"]
+        relation: divergence
+        record:
+          agent: ["Dumuzid", "the king"]
+          action: ["calls for those who know dreams", "calls on the council to interpret his dream"]
+          recipient: ["his sister, the tablet-wise scribe, the singer, the old woman who knows the heart of dreams", "the council (al-malaʾ)"]
+          quoted: ["um-ma šag4 ma-mu2-da zu-ŋu10 tum2-mu-un-ze2-en", "aftūnī fī ruʾyāya in kuntum li-r-ruʾyā taʿburūn"]
+          outcome: ["his sister Ĝeštinana interprets it", "the council say they do not know the interpretation of dreams"]
+        note: "Dumuzid wakes from the dream and calls 'bring, bring' his sister, 'my tablet-knowing scribe, my song-knowing singer, my old woman who knows the heart of dreams'. Pharaoh's king calls 'aftūnī fī ruʾyāya', but the council answer 'aḍghāthu aḥlām wa mā naḥnu bi-taʾwīli l-aḥlāmi bi-ʿālimīn' (12:44), and the reading is left to Joseph."
+  - unit: ane-etcsl-1-4-3-b-dream-told-and-interpreted
+    checked: [quran-5-two-sons-of-adam, quran-40-throne-bearers, quran-54-qamar-ad-thamud-lot-pharaoh, quran-12-joseph-full]
+    matches:
+      - with: quran-12-joseph-full
+        motif: telling-the-dream-forbidden
+        refs: ["ETCSL 1.4.3 42-43"]
+        with_refs: ["12:4", "12:5"]
+        relation: divergence
+        record:
+          agent: ["his sister Ĝeštinana", "his father"]
+          recipient: ["Dumuzid", "Joseph"]
+          action: ["tells him not to tell his dream", "tells him not to tell his dream"]
+          quoted: ["šeš-ŋu10 ma-mu2-zu nu-sag9-sag9 nam-ma-an-bur2-e", "yā bunayya lā taqṣuṣ ruʾyāka ʿalā ikhwatika"]
+          outcome: ["because the dream is not favourable", "because his brothers would plot against him"]
+        note: "Ĝeštinana: 'my brother, your dream is not favourable, do not reveal it (bur2) to me', then reads it as his death. Jacob: 'my son, do not tell your dream to your brothers, lest they plot a plot against you' (fa-yakīdū laka kaydā); the dream is good and the danger is the brothers."
+      - with: quran-12-joseph-full
+        motif: bird-in-dream-foretells-death
+        refs: ["ETCSL 1.4.3 35-36", "ETCSL 1.4.3 60-62"]
+        with_refs: ["12:36", "12:41"]
+        relation: divergence
+        record:
+          agent: ["a bird of prey and a falcon", "birds"]
+          action: ["seizes a lamb from the sheep-house and a sparrow from the reed fence", "eat bread from the dreamer's head"]
+          quoted: ["{d}nin-ninna2{mušen}-ta-e ŋa2 udu-ka sila4 šu ba-ni-ib-ti", "taʾkulu ṭ-ṭayru minhu"]
+          outcome: ["read as the evil man who strikes Dumuzid and his death", "read as the dreamer's crucifixion (fa-yuṣlabu fa-taʾkulu ṭ-ṭayru min raʾsihi)"]
+        note: "In both a bird taking food or prey in a dream is decoded as death: the bird and falcon of Dumuzid's dream are repeated by Ĝeštinana and set beside 'the evil man strikes your cheek'; Joseph reads the birds eating bread from the prisoner's head as his crucifixion."
+  - unit: ane-etcsl-1-4-3-c-demons-approach-hiding
+    checked: [quran-5-two-sons-of-adam, quran-7-dog-parable, quran-12-joseph-full]
+    matches: []
+  - unit: ane-etcsl-1-4-3-d-demons-sister-friend-capture
+    checked: [quran-7-adam-iblis, quran-15-abraham-guests-lot, quran-51-dhariyat-abrahams-guests-and-the-peoples]
+    matches:
+      - with: quran-51-dhariyat-abrahams-guests-and-the-peoples
+        motif: envoys-who-do-not-eat
+        refs: ["ETCSL 1.4.3 110-114"]
+        with_refs: ["51:26", "51:27", "51:28"]
+        relation: divergence
+        record:
+          agent: ["the demons who come for the king", "Abraham's honoured guests"]
+          object: ["flour offering and water", "a fat calf"]
+          action: ["do not eat or drink and take no gift", "do not eat the calf set before them"]
+          quoted: ["zid2 dub-dub-ba nu-gu7-me-eš / a bal-bal-a nu-na8-na8-me-eš", "fa-qarrabahu ilayhim qāla alā taʾkulūn"]
+          outcome: ["they seize Dumuzid", "they announce a son and are sent to destroy a guilty people (51:32-33)"]
+        note: "The beings who come 'for the king' eat no heaped flour, drink no poured water and accept no gift (kadra); the envoys at Abraham's house will not eat the fatted calf, he feels fear (awjasa minhum khīfa), and they turn out to be sent to rain stones of clay on a guilty people."
+  - unit: ane-etcsl-1-4-3-e-utu-transforms-escapes
+    checked: [quran-17-iblis-and-adam, quran-72-jinn, quran-5-two-sons-of-adam]
+    matches: []
+  - unit: ane-etcsl-1-4-3-f-old-woman-belili-sisters-fold
+    checked: [quran-17-iblis-and-adam, quran-72-jinn, quran-7-adam-iblis]
+    matches: []
+  - unit: ane-etcsl-1-4-3-g-sheepfold-death
+    checked: [quran-40-throne-bearers, quran-50-qaf-two-recorders-and-hell-asks-more, quran-23-death-barzakh-judgment]
+    matches: []
+  - unit: ane-etcsl-1-7-1-a-inab-martu-unmarried
+    checked: [quran-19-zechariah-and-john, quran-3-imran-mary-zechariah, quran-19-mary-and-jesus]
+    matches: []
+  - unit: ane-etcsl-1-7-1-b-festival-wrestling-bride-price
+    checked: [quran-12-joseph-full, quran-21-abraham-idols-fire, quran-28-moses-in-midian]
+    matches:
+      - with: quran-28-moses-in-midian
+        motif: reward-and-daughter-for-the-strong-stranger
+        refs: ["ETCSL 1.7.1 76-83"]
+        with_refs: ["28:25", "28:26", "28:27"]
+        relation: divergence
+        record:
+          agent: ["Numušda", "the women's father"]
+          recipient: ["Martu", "Moses"]
+          action: ["offers silver and stones as reward", "calls him to be rewarded for watering"]
+          quoted: ["kug mu-un-na-ba-e šu nu-um-ma-gid2-i-de3 ... dumu-zu ga-ba-ab-tuku", "li-yajziyaka ajra mā saqayta lanā ... innī urīdu an unkiḥaka iḥdā bnatayya"]
+          outcome: ["Martu refuses the silver and himself asks for the daughter", "the father offers a daughter for eight years' hire"]
+        note: "Martu fells all comers in the courtyard; the glad Numušda offers silver and stones three times, and Martu says 'what is your silver for? I want to marry your daughter'. Moses waters the flock; the daughter calls him to his reward (ajr), praises him as al-qawiyy al-amīn, and the father himself proposes the marriage against thamāniya ḥijaj of service."
+  - unit: ane-etcsl-1-7-1-c-gifts-warning-nomad
+    checked: [quran-4-creation-kinship-orphans, quran-6-pagan-offerings-cattle, quran-56-waqia-three-classes-and-the-garden, quran-9-stayers-exempt]
+    matches:
+      - with: quran-9-stayers-exempt
+        motif: nomad-ignorant-of-divine-rites
+        refs: ["ETCSL 1.7.1 128", "ETCSL 1.7.1 133-134"]
+        with_refs: ["9:97"]
+        relation: echo
+        record:
+          agent: ["the Martu nomad", "the Bedouin (al-aʿrāb)"]
+          action: ["offers no prayer and does not know the place of the gods", "are likeliest not to know the limits God sent down"]
+          place: ["tent in wind and rain", "the desert"]
+          quoted: ["sizkur nu-mu-un-dug4-ga / ki diŋir-re-ne nu-zu-a", "ajdaru allā yaʿlamū ḥudūda mā anzala llāh"]
+        note: "The friend's portrait of the nomad: he lives in a tent, makes no prayer, 'does not know the place of the gods', has no house and no grave. 9:97 says the aʿrāb are hardest in disbelief and 'most apt not to know the limits of what God sent down'. In Inab it is a reason not to marry him, and the bride marries him anyway."
+  - unit: ane-etcsl-1-7-3-a-ninjiszida-embarks
+    checked: [quran-3-sovereignty, quran-9-closing, quran-22-signs-and-rites]
+    matches: []
+  - unit: ane-etcsl-1-7-3-b-demon-dialogue-no-food
+    checked: [quran-47-muhammad-battle-and-rivers, quran-11-noah, quran-67-mulk-earth-birds-and-water, quran-88-overwhelming]
+    matches:
+      - with: quran-88-overwhelming
+        motif: food-and-drink-in-the-realm-of-the-dead
+        refs: ["ETCSL 1.7.3 36", "ETCSL 1.7.3 37"]
+        with_refs: ["88:5", "88:6", "88:7"]
+        relation: divergence
+        record:
+          place: ["the nether world (kur)", "the blazing fire"]
+          object: ["water and flour", "water and food"]
+          quoted: ["id2-kur-ra-ke4 a nu-de2 ... a-šag4 kur-ra-ke4 še nu-de2 zid2 nu-mu-un-na-ab-gu7", "tusqā min ʿaynin āniya / laysa lahum ṭaʿāmun illā min ḍarīʿ"]
+          outcome: ["none to drink or eat", "a boiling spring and thorn-food that does not nourish"]
+        note: "The nether world's river yields no water, its field no grain to eat, its sheep no wool, for everyone who goes down, a god included. In 88:5-7 the damned drink from a boiling spring, and their only food is ḍarīʿ, 'which neither fattens nor avails against hunger'. In the nether world drink and food are lacking; in the fire they are given, and they torment."
+      - with: quran-47-muhammad-battle-and-rivers
+        motif: river-of-the-other-world
+        refs: ["ETCSL 1.7.3 36"]
+        with_refs: ["47:15"]
+        relation: divergence
+        record:
+          object: ["the river of the nether world", "rivers of water not stale (and of milk", "wine and honey)"]
+          quoted: ["id2-kur-ra-ke4 a nu-de2 a-bi nu-mu-un-na-na8-na8", "anhārun min māʾin ghayri āsin ... wa suqū māʾan ḥamīman"]
+          outcome: ["gives no water to drink", "flows for the pious while the damned are given boiling water"]
+        note: "One river of the dead that pours no water, against the Garden's rivers of unspoiled water, unchanging milk, wine and pure honey, with the fire's people made to drink scalding water that cuts their bowels."
+  - unit: ane-etcsl-1-7-3-c-sister-offers-jewels-arrival
+    checked: [quran-79-pharaoh-and-cosmos, quran-73-enwrapped, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches: []
+  - unit: ane-etcsl-2-2-2-k1-gods-abandon-folds
+    checked: [quran-7-towns-pattern, quran-59-hashr-banu-nadir-and-fay, quran-11-salih]
+    matches: []
+  - unit: ane-etcsl-2-2-2-k2-bitter-lament-for-shrines
+    checked: [quran-2-sleeper-hundred-years, quran-69-haqqa-destroyed-peoples-and-the-throne, quran-11-shuayb, quran-89-dawn]
+    matches: []
+  - unit: ane-etcsl-2-2-2-k3-ningal-grief
+    checked: [quran-2-sleeper-hundred-years, quran-69-haqqa-destroyed-peoples-and-the-throne, quran-11-salih]
+    matches: []
+  - unit: ane-etcsl-2-2-2-k4-ningal-pleads-an-enlil
+    checked: [quran-53-najm-goddesses-and-scrolls, quran-17-polemic-and-resurrection, quran-2-patience-signs, quran-11-abraham-guests, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-11-abraham-guests
+        motif: plea-to-spare-a-doomed-city
+        refs: ["ETCSL 2.2.2 144-150", "ETCSL 2.2.2 154-160"]
+        with_refs: ["11:74", "11:75", "11:76"]
+        relation: divergence
+        record:
+          agent: ["Ningal", "Abraham"]
+          recipient: ["An and Enlil", "God (through his messengers)"]
+          object: ["her city Urim and its people", "the people of Lot"]
+          action: ["pleads that the city not be destroyed", "disputes for the people of Lot"]
+          number: ["twice", null]
+          quoted: ["uru2-ŋu10 nam-ba-gul-lu he2-em-me-ne-dug4 ... an-ne2 e-ne-eŋ3-bi ba-ra-mu-un-gur", "yujādilunā fī qawmi lūṭ ... ātīhim ʿadhābun ghayru mardūd"]
+          outcome: ["An does not turn back his word", "a punishment that cannot be turned back"]
+        note: "Ningal weeps before An and begs Enlil 'let my city not be destroyed, let its people not perish', twice, in the assembly; 'An did not turn back (gur) his word, Enlil did not soothe my heart'. Abraham 'disputes with us about the people of Lot' and is told 'turn from this; your Lord's command has come; there comes upon them a punishment ghayru mardūd' (not to be turned back). The goddess pleads for her own city and is overruled by her superiors; the prophet pleads for another's people and is praised as ḥalīm awwāh munīb."
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: immutable-divine-word
+        refs: ["ETCSL 2.2.2 167-168"]
+        with_refs: ["50:29"]
+        relation: echo
+        record:
+          agent: ["An and Enlil", "God"]
+          object: ["the command that went out from the mouth", "the word"]
+          quoted: ["an-ne2 dug4-ga-ni hur nu-kur2-ru-dam / {d}mu-ul-lil2-le ka-ta e3-a-ni šu nu-bal-e-de3", "mā yubaddalu l-qawlu ladayya"]
+          outcome: ["it is never changed", "it is not changed"]
+        note: "'An's command is never changed (kur2); what goes out of Enlil's mouth is not overturned (šu bal)', said of the decree to destroy Urim. 50:29: 'the word is not changed (yubaddalu) with me', said at the judgment of the damned."
+  - unit: ane-etcsl-2-2-2-k5-enlil-calls-storm
+    checked: [quran-24-light-verse, quran-71-noah, quran-79-pharaoh-and-cosmos, quran-46-ahqaf-hud-and-the-jinn, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches:
+      - with: quran-46-ahqaf-hud-and-the-jinn
+        motif: storm-destroys-at-the-god-s-command
+        refs: ["ETCSL 2.2.2 172", "ETCSL 2.2.2 202"]
+        with_refs: ["46:24", "46:25"]
+        relation: parallel
+        record:
+          agent: ["the storm", "the wind"]
+          action: ["destroys the land at its god's command", "destroys everything at its Lord's command"]
+          name: ["Enlil", "rabbihā (its Lord)"]
+          quoted: ["ud hul gig dug4-ga {d}en-lil2-la2 ud kalam-ta be4-be4", "tudammiru kulla shayʾin bi-amri rabbihā"]
+          outcome: ["Urim is covered like a garment", "nothing is seen but their dwellings"]
+        note: "Enlil 'called the storm' and it is 'the evil storm commanded (dug4-ga) by Enlil'; the wind that came on ʿĀd 'destroys everything by the command (amr) of its Lord'. In both the destroying wind is the god's spoken order, not a weather event."
+      - with: quran-54-qamar-ad-thamud-lot-pharaoh
+        motif: people-blown-away-by-the-storm
+        refs: ["ETCSL 2.2.2 193"]
+        with_refs: ["54:19", "54:20"]
+        relation: echo
+        record:
+          agent: ["the winds", "a roaring wind (rīḥ ṣarṣar)"]
+          object: ["the black-headed people", "the people"]
+          action: ["blows the people away", "plucks the people out"]
+          quoted: ["saŋ gig2-ga tum9-tum9 ba-an-dal", "tanziʿu n-nāsa ka-annahum aʿjāzu nakhlin munqaʿir"]
+        note: "'The black-headed people were blown away by the winds'; 'it plucked the people out as if they were trunks of uprooted palms'. The Quran adds the simile; the Sumerian line is bare."
+  - unit: ane-etcsl-2-2-2-k6-sack-of-urim
+    checked: [quran-2-sleeper-hundred-years, quran-17-night-journey-and-israel, quran-29-destroyed-nations, quran-11-salih, quran-22-quake-and-resurrection-proofs, quran-21-heedless-and-doomed-towns]
+    matches:
+      - with: quran-22-quake-and-resurrection-proofs
+        motif: family-bonds-dissolve-in-catastrophe
+        refs: ["ETCSL 2.2.2 232-234"]
+        with_refs: ["22:2"]
+        relation: parallel
+        record:
+          agent: ["the mother", "every nursing mother"]
+          object: ["her child", "the child she nursed"]
+          action: ["abandons her child", "forgets the child she nursed"]
+          quoted: ["ama dumu-ni igi-ni ba-ra-e3", "tadhhalu kullu murḍiʿatin ʿammā arḍaʿat"]
+          time: ["the sack of Urim", "the quake of the Hour"]
+        note: "In the sack, 'the mother left her child before her eyes, the father turned from his son, wife and child were abandoned'. In the quake of the Hour 'every nursing mother will forget what she nursed, and every pregnant one drop her burden'. The same sign of utter catastrophe, a historical sack against the last day."
+      - with: quran-21-heedless-and-doomed-towns
+        motif: corpses-heaped-like-grain-piles
+        refs: ["ETCSL 2.2.2 215"]
+        with_refs: ["21:15"]
+        relation: echo
+        record:
+          object: ["the people", "the people of the destroyed town"]
+          action: ["lie like sheaves", "are made a reaped harvest"]
+          quoted: ["uŋ3 zar-re-eš ba-an-du8", "jaʿalnāhum ḥaṣīdan khāmidīn"]
+        note: "The slain of a destroyed city as cut grain: Sumerian zar (sheaves) on the threshing places, Arabic ḥaṣīd (reaped crop), 'extinct' (khāmidīn)."
+  - unit: ane-etcsl-2-2-2-k7-ningal-lament
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-7-towns-pattern, quran-11-salih, quran-44-dukhan-pharaoh-drowned]
+    matches:
+      - with: quran-59-hashr-banu-nadir-and-fay
+        motif: goods-of-the-dispossessed-pass-to-others
+        refs: ["ETCSL 2.2.2 278-281"]
+        with_refs: ["59:7", "59:8"]
+        relation: divergence
+        record:
+          object: ["my silver and my gems", "what God gave from the people of the towns (fayʾ)"]
+          recipient: ["those who never knew silver", "the poor emigrants (al-fuqarāʾ al-muhājirūn)"]
+          quoted: ["kug-ŋu10 lu2 kug nu-zu-u3-ne šu-bi ha-ba-da-ab-si", "kay lā yakūna dūlatan bayna l-aghniyāʾi minkum ... li-l-fuqarāʾi l-muhājirīn"]
+          outcome: ["lamented as plunder by strangers", "ordained so that wealth does not circulate among the rich"]
+        note: "Ningal: 'those who never knew silver have filled their hands with my silver, those who never knew gems have filled their necks with my gems'. The goods of the expelled Banu Nadir go 'to the poor emigrants', expressly so they do not circulate only among the rich. The same transfer to the have-nots is a curse in one text and a rule in the other."
+      - with: quran-44-dukhan-pharaoh-drowned
+        motif: inheritance-turned-to-strangers
+        refs: ["ETCSL 2.2.2 278-281"]
+        with_refs: ["44:25", "44:26", "44:27", "44:28"]
+        relation: echo
+        record:
+          object: ["silver", "gems and stores", "gardens", "springs", "fields and a noble place"]
+          recipient: ["those who never knew silver", "another people (qawman ākharīn)"]
+          quoted: ["kug-ŋu10 lu2 kug nu-zu-u3-ne šu-bi ha-ba-da-ab-si", "wa awrathnāhā qawman ākharīn"]
+        note: "The ruined city's goods are scattered and seized by others; Pharaoh's people leave their gardens and springs and 'We made another people inherit them'. Spoken by the dispossessed goddess against spoken by God."
+  - unit: ane-etcsl-2-2-2-k8-how-can-you-live
+    checked: [quran-2-sleeper-hundred-years, quran-79-pharaoh-and-cosmos, quran-7-towns-pattern, quran-89-dawn]
+    matches: []
+  - unit: ane-etcsl-2-2-2-k9-storm-that-destroys
+    checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-54-qamar-ad-thamud-lot-pharaoh, quran-2-exodus-calf]
+    matches: []
+  - unit: ane-etcsl-2-2-2-k10-storm-knows-no-kin
+    checked: [quran-80-frowned, quran-46-ahqaf-hud-and-the-jinn, quran-69-haqqa-destroyed-peoples-and-the-throne, quran-7-towns-pattern, quran-70-ascending-stairways]
+    matches:
+      - with: quran-80-frowned
+        motif: kin-in-the-day-of-catastrophe
+        refs: ["ETCSL 2.2.2 402-406"]
+        with_refs: ["80:33", "80:34", "80:35", "80:36", "80:37"]
+        relation: divergence
+        record:
+          agent: ["the storm", "each man"]
+          action: ["knows no kin", "flees from his kin"]
+          object: ["mother, father, wife, child, sister, brother, neighbour", "brother, mother, father, wife, sons"]
+          quoted: ["ud ama nu-zu re ud a-a nu-zu re / ud dam nu-zu re ud dumu nu-zu re / ud nin9 nu-zu re ud šeš nu-zu re", "yawma yafirru l-marʾu min akhīhi / wa ummihi wa abīhi / wa ṣāḥibatihi wa banīhi"]
+          outcome: ["wife and child are left fallen", "each has concern enough of his own"]
+        note: "The same list of kin marks the day of disaster: 'the storm that knows no mother, knows no father, knows no wife, knows no child, no sister, no brother, no neighbour'; 'the day a man flees from his brother, his mother and his father, his wife and his sons'. In the lament the storm ignores the kin; in 80:34-36 the man himself abandons them."
+      - with: quran-70-ascending-stairways
+        motif: kin-in-the-day-of-catastrophe
+        refs: ["ETCSL 2.2.2 402-406"]
+        with_refs: ["70:10", "70:11", "70:12", "70:13", "70:14"]
+        relation: divergence
+        record:
+          agent: ["the storm", "the guilty man"]
+          object: ["mother, father, wife, child, sister, brother, neighbour", "sons, wife, brother, the kin that sheltered him"]
+          action: ["knows no kin", "would give his kin as ransom"]
+          quoted: ["ud dam nu-zu re ud dumu nu-zu re ... ud ušur nu-zu re ud ma-la nu-zu re", "yawaddu l-mujrimu law yaftadī ... bi-banīhi wa ṣāḥibatihi wa akhīhi wa faṣīlatihi"]
+        note: "The lament's catalogue of kin and neighbour unknown to the storm; in 70:10-14 'no friend asks after a friend' and the guilty would ransom himself with his sons, wife, brother, clan and everyone on earth."
+  - unit: ane-etcsl-2-2-2-k11-prayer-to-nanna
+    checked: [quran-39-mercy-and-last-day, quran-17-polemic-and-resurrection, quran-13-signs-of-creation, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-etcsl-2-4-1-a-ur-namma-white-mes-tree
+    checked: [quran-3-sovereignty, quran-2-talut-jalut, quran-79-pharaoh-and-cosmos]
+    matches:
+      - with: quran-2-talut-jalut
+        motif: god-given-strength-and-wisdom-of-the-king
+        refs: ["ETCSL 2.4.1.a Seg.B:8", "ETCSL 2.4.1.a Seg.B:11"]
+        with_refs: ["2:247"]
+        relation: parallel
+        record:
+          agent: ["Enlil and Enki", "God"]
+          recipient: ["Ur-Namma", "Ṭālūt"]
+          object: ["strength and great wisdom", "increase in knowledge and body"]
+          quoted: ["lugal {d}en-lil2-le a2 šum2-ma ... {d}en-ki-ke4 ŋeštug2 mah šum2-ma", "wa zādahu basṭatan fī l-ʿilmi wa l-jism"]
+        note: "The king 'to whom Enlil gave strength (a2) ... to whom Enki gave great wisdom (ŋeštug2 mah)'; Ṭālūt, whom God chose over them and 'increased in breadth of knowledge and of body'. The same pair of endowments, from two gods against one."
+  - unit: ane-etcsl-2-4-2-07-enlil-and-the-birth-of-shulgi
+    checked: [quran-3-sovereignty, quran-23-lordship-arguments, quran-2-throne-verse]
+    matches: []
+  - unit: ane-etcsl-2-4-2-07-shulgi-provider-of-ekur
+    checked: [quran-2-talut-jalut, quran-79-pharaoh-and-cosmos, quran-3-sovereignty]
+    matches:
+      - with: quran-2-talut-jalut
+        motif: holy-chest-of-the-god
+        refs: ["ETCSL 2.4.2.07 sa–jara.C:45"]
+        with_refs: ["2:248"]
+        relation: divergence
+        record:
+          object: ["the holy chest of the abzu (dub-šen)", "the chest (al-tābūt)"]
+          place: ["in the heart of Urim", "brought back to Israel"]
+          quoted: ["šag4-bi dub-šen kug abzu igi nu-bar", "yaʾtiyakumu t-tābūtu fīhi sakīnatun min rabbikum ... taḥmiluhu l-malāʾika"]
+          outcome: ["no eye has looked on it", "it comes as the sign of kingship carried by angels"]
+        note: "A sacred chest of the god in each: Urim holds 'the holy chest of the abzu, which no eye has seen'; the tābūt with sakīna from the Lord and relics of Moses' and Aaron's houses is the visible sign (āya) of Ṭālūt's kingship. Hidden against displayed."
+  - unit: ane-etcsl-2-4-2-12-shulgi-physician-shepherd
+    checked: [quran-2-talut-jalut, quran-7-moses-pharaoh, quran-7-idol-request]
+    matches: []
+  - unit: ane-etcsl-2-4-2-14-lullaby-for-shulgis-son
+    checked: [quran-19-mary-and-jesus, quran-3-imran-mary-zechariah, quran-19-zechariah-and-john]
+    matches: []
+  - unit: ane-etcsl-2-4-2-20-ninurta-tigi-for-shulgi
+    checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-85-constellations]
+    matches: []
+  - unit: ane-etcsl-2-4-2-a-shulgi-visits-temples
+    checked: [quran-4-prophets-and-trinity, quran-22-signs-and-rites, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-2-b-shulgi-true-shepherd-run
+    checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-4-4-9-shu-suen-forceful-lord
+    checked: [quran-85-constellations, quran-23-noah, quran-21-abraham-idols-fire]
+    matches: []
+  - unit: ane-etcsl-2-4-4-a-shu-suen-born-of-uras
+    checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh]
+    matches: []

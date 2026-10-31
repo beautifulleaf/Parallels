@@ -1,0 +1,678 @@
+# ANE x Quran side-by-side pass, chunk 3 (ETCSL 2.1.7 Gudea B - 2.4.2.22 Shulgi V). Judged blind, from the originals.
+new_motifs:
+  daughter-inherits-when-there-is-no-son: {label: "What a daughter inherits when her father leaves no son", cluster: law}
+  family-members-turn-away-from-one-another: {label: "In the catastrophe a man turns away from wife, parents and children", cluster: judgment}
+  god-sends-foreign-army-against-his-own-people: {label: "The god himself sends a fierce foreign people against his own city or people", cluster: judgment}
+  kingship-given-and-taken-back: {label: "The high god gives kingship to a city or man and takes it away again: no reign lasts", cluster: kingship}
+  enemy-enters-the-sanctuary: {label: "The enemy sent against the city enters its sanctuary and wrecks what it finds", cluster: judgment}
+  why-the-god-gives-his-city-to-the-enemy: {label: "The reason given for the god's handing his own city over to destruction", cluster: judgment}
+  city-destroyed-a-second-time: {label: "The city is destroyed a second time", cluster: judgment}
+  scattered-people-restored-after-destruction: {label: "After the divinely sent destruction the people are brought back and restored", cluster: judgment}
+  whether-a-righteous-city-is-destroyed: {label: "Whether the god destroys a city whose people do right", cluster: judgment}
+  travel-in-safety-by-night-and-day: {label: "Road stages are measured out so that travellers go safely by night and by day", cluster: kingship}
+  fear-covers-a-town-like-a-garment: {label: "Fear (and hunger) covers a town's people like a garment", cluster: judgment}
+  calamity-that-strikes-not-only-the-wrongdoers: {label: "A destroying calamity does not single out the wrongdoers but strikes all", cluster: judgment}
+  no-one-knows-what-the-deity-is: {label: "No one encompasses or knows what the deity is", cluster: deity}
+  whether-a-decreed-fate-can-be-altered: {label: "Whether a decreed term or fate can be altered after it is fixed", cluster: death}
+  food-and-drink-of-the-netherworld: {label: "The food and the drink of the netherworld (hell): bitter food, foul water", cluster: afterlife}
+  dead-man-regrets-what-he-left-undone: {label: "The dead man laments what he did not do or enjoy in life", cluster: death}
+  the-dead-cannot-return: {label: "The dead cannot go back to the life they left", cluster: death}
+  brick-tower-rising-to-heaven: {label: "A ruler has bricks made for a lofty building that reaches up to heaven", cluster: kingship}
+  stature-of-the-chosen-king: {label: "The king chosen by the god is taller than the others", cluster: kingship}
+  king-covers-a-vast-distance-between-morning-and-evening: {label: "A king covers a journey of many stages in a single day", cluster: kingship}
+  rain-from-heaven-meets-water-from-the-earth: {label: "In the storm the water from heaven meets the water from the earth", cluster: nature}
+  mortal-cannot-ascend-to-heaven: {label: "No mortal goes up to heaven", cluster: death}
+  king-who-understands-foreign-speech: {label: "A king boasts that he understands speech other than his own", cluster: kingship}
+  no-later-king-to-equal-this-one: {label: "No king after the speaker will equal (or be given) what he has", cluster: kingship}
+  enemy-trees-cut-down: {label: "The trees and orchards of the enemy are cut down or left standing", cluster: war}
+  gardens-turned-to-wild-growth: {label: "Fine gardens of fruit are turned into a growth of weeds or bitter shrubs", cluster: judgment}
+  spoil-of-the-enemy-assigned-to-the-god: {label: "What becomes of the spoil taken from the enemy: brought to the god or assigned to God", cluster: war}
+  vessel-of-planks-and-fastenings: {label: "A holy vessel is described by its planks and their fastenings", cluster: flood}
+reviewed:
+  - unit: ane-etcsl-2-1-7-a26-doors-and-praise
+    checked: [quran-22-abraham-house-pilgrimage, quran-22-communities-prostration-hell-paradise, quran-55-rahman-judgment-and-the-four-gardens]
+    matches: []
+  - unit: ane-etcsl-2-1-7-b1-prayers-before-entry
+    checked: [quran-79-pharaoh-and-cosmos, quran-11-opening-throne-on-water, quran-2-throne-verse]
+    matches: []
+  - unit: ane-etcsl-2-1-7-b3-new-year-god-arrives
+    checked: [quran-22-abraham-house-pilgrimage, quran-79-pharaoh-and-cosmos, quran-17-night-journey-and-israel]
+    matches: []
+  - unit: ane-etcsl-2-1-7-b6-divine-staff-installed
+    checked: [quran-5-ablution-covenant-justice, quran-22-abraham-house-pilgrimage, quran-9-mosques-and-kin, quran-3-badr-uhud]
+    matches: []
+  - unit: ane-etcsl-2-1-7-b11-staff-of-fields-and-gods-founding
+    checked: [quran-4-creation-kinship-orphans, quran-9-bargain-abraham, quran-16-blessings-of-creation, quran-22-abraham-house-pilgrimage]
+    matches: []
+  - unit: ane-etcsl-2-1-7-b13-gifts-and-duties
+    checked: [quran-22-signs-and-rites, quran-2-call-to-worship, quran-24-light-verse, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etcsl-2-1-7-b16-temple-glory-justice
+    checked: [quran-4-inheritance-shares, quran-59-hashr-banu-nadir-and-fay, quran-4-creation-kinship-orphans, quran-34-david-solomon]
+    matches:
+      - with: quran-4-inheritance-shares
+        motif: daughter-inherits-when-there-is-no-son
+        refs: ["ETCSL 2.1.7 1228-1229"]
+        with_refs: ["4:11"]
+        relation: divergence
+        record:
+          agent: [Gudea, God]
+          action: [makes the daughter heir in a house without a son, fixes the share of a single daughter]
+          recipient: [daughter, daughter]
+          number: [null, "1/2"]
+          quoted: ["e2 ibila nu-tuku dumu-munus-bi i3-bi-lu-ba mi-ni-kur9", "wa-in kānat wāḥidatan fa-lahā n-niṣf"]
+          outcome: [the daughter takes the estate as heir, the lone daughter takes half]
+        note: "Gudea's justice: in a house with no son (ibila, heir) the daughter becomes heir (Cyl. B 17.12-13, largely restored). 4:11 also rules for the house where daughters alone survive, but gives a lone daughter a fixed half (fa-lahā n-niṣf) and two or more two-thirds, with the parents' shares beside them. A royal measure that makes her sole heir against a divine ordinance that fixes her fraction."
+  - unit: ane-etcsl-2-1-7-b19-banquet-fate-blessing
+    checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-2-3-a-gods-decree-destruction
+    checked: [quran-13-signs-of-creation, quran-2-sleeper-hundred-years, quran-79-pharaoh-and-cosmos, quran-25-destroyed-peoples]
+    matches: []
+  - unit: ane-etcsl-2-2-3-a-storm-gutium
+    checked: [quran-80-frowned, quran-24-light-verse, quran-79-pharaoh-and-cosmos, quran-59-hashr-banu-nadir-and-fay]
+    matches:
+      - with: quran-80-frowned
+        motif: family-members-turn-away-from-one-another
+        refs: ["ETCSL 2.2.3 A:95-98"]
+        with_refs: ["80:34", "80:35", "80:36"]
+        relation: parallel
+        record:
+          agent: [the father; the mother, a man]
+          action: [turns away from his own kin, flees from his own kin]
+          object: ["wife, child, estate", "brother, mother, father, wife, sons"]
+          time: [the day the storm destroys Urim, the day of the Blast]
+          quoted: ["ad-da dam-a-ni-ta ba-da-gur dam-ĝu10 nu im-me; ama dumu-ni-ta ba-da-gur dumu-ĝu10 nu im-me", "yawma yafirru l-marʾu min akhīhi wa-ummihi wa-abīhi wa-ṣāḥibatihi wa-banīh"]
+        note: "The same picture of catastrophe dissolving the family, kin named one by one: 'the father turned away from his wife saying: not my wife; the mother turned away from her child saying: not my child' (A:95-98) against 'the day a man flees from his brother, his mother and his father, his wife and his sons' (80:34-36). The Sumerian day is the historical fall of Urim; the Quranic one is the Day of Judgment, 'each of them that day has business enough' (80:37)."
+  - unit: ane-etcsl-2-2-3-c-city-by-city
+    checked: [quran-17-night-journey-and-israel, quran-59-hashr-banu-nadir-and-fay, quran-105-elephant, quran-11-salih]
+    matches:
+      - with: quran-17-night-journey-and-israel
+        motif: god-sends-foreign-army-against-his-own-people
+        refs: ["ETCSL 2.2.3 C:165-166"]
+        with_refs: ["17:5"]
+        relation: parallel
+        record:
+          agent: [Enlil, God]
+          action: [brings a foreign people down against his land, sends fierce servants against his people]
+          object: ["Elam, the enemy", "ʿibād of great might"]
+          recipient: [Sumer and Urim, the Children of Israel]
+          quoted: ["elam lu2-kur2-ra kur-ta im-ta-an-e3", "baʿathnā ʿalaykum ʿibādan lanā ulī baʾsin shadīd"]
+          outcome: [the cities are sacked, they ravage through the dwellings]
+        note: "In both the destroying army is the god's own instrument against his people: Enlil 'brought Elam, the enemy, down from the highlands' (C:165-166); 'we sent against you servants of ours of great might, and they went through the dwellings (fa-jāsū khilāla d-diyār)' (17:5). Neither names the foreign people beyond that."
+  - unit: ane-etcsl-2-2-3-c-young-men-kisiga-queen
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-7-towns-pattern, quran-11-pharaoh-leads]
+    matches: []
+  - unit: ane-etcsl-2-2-3-e-famine-silence-nanna
+    checked: [quran-7-towns-pattern, quran-59-hashr-banu-nadir-and-fay, quran-29-lot]
+    matches: []
+  - unit: ane-etcsl-2-2-3-g-enlil-answer-siege-sack
+    checked: [quran-3-sovereignty, quran-17-night-journey-and-israel, quran-59-hashr-banu-nadir-and-fay, quran-7-towns-pattern, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-3-sovereignty
+        motif: kingship-given-and-taken-back
+        refs: ["ETCSL 2.2.3 G:366-369"]
+        with_refs: ["3:26"]
+        relation: parallel
+        record:
+          agent: [An and Enlil, God]
+          action: [gives kingship but not an eternal reign, gives kingship and takes it away]
+          object: [kingship, kingship]
+          recipient: [Urim, whom he wills]
+          quoted: ["urim5-ma nam-lugal ḫa-ba-šum2 bal da-ri2 la-ba-an-šum2", "tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾ"]
+        note: "Enlil's answer to Nanna: 'Urim was indeed given kingship (nam-lugal) but it was not given an eternal reign (bal da-ri2); who has ever seen a reign of kingship that would take precedence for ever?' (G:366-369). 3:26: 'O God, owner of kingship (mālik al-mulk), you give kingship (al-mulk) to whom you will and take kingship from whom you will.' Both name the thing given and withdrawn as kingship; the Sumerian adds that every reign's turn (bal) must run out."
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: no-one-changes-the-spoken-word
+        refs: ["ETCSL 2.2.3 G:364-365"]
+        with_refs: ["50:28", "50:29"]
+        relation: parallel
+        record:
+          agent: [Enlil, God]
+          action: [refuses a plea because the word cannot be changed, refuses a dispute because the word is not changed]
+          recipient: [his son Nanna pleading for Urim, the disputing sinner and his companion]
+          quoted: ["di-til-la inim pu-uḫ2-ru-um-ma-ka šu gi4-gi4 nu-ĝal2, inim dug4-ga an den-lil2-la2-ka šu bal-e nu-zu", "lā takhtaṣimū ladayya ... mā yubaddalu l-qawlu ladayya"]
+          outcome: [Urim is not spared, the sentence stands]
+        note: "The same refusal formula in the same setting, a plea before the highest judge: 'the judgment of the assembly cannot be turned back, the word spoken by An and Enlil knows no overturning (šu bal-e nu-zu)' (G:364-365); 'do not dispute before me ... the word is not changed before me (mā yubaddalu l-qawlu ladayya), and I am not unjust to the servants' (50:28-29). The Sumerian word is the council's; the Quranic one is the warning already sent (qaddamtu ilaykum bi-l-waʿīd)."
+      - with: quran-17-night-journey-and-israel
+        motif: enemy-enters-the-sanctuary
+        refs: ["ETCSL 2.2.3 G:407B", "ETCSL 2.2.3 G:420-434", "ETCSL 2.2.3 G:442"]
+        with_refs: ["17:7"]
+        relation: parallel
+        record:
+          agent: [the enemy, the servants sent by God]
+          action: [enters the shrine and destroys it, enters the masjid and destroys]
+          place: [E-kiš-nu-ĝal of Nanna, al-masjid]
+          quoted: ["e2-kiš-nu-ĝal2 dnanna-ka lu2-erim2-e ba-e-dab5", "wa-li-yadkhulū l-masjida ka-mā dakhalūhu awwala marratin wa-li-yutabbirū mā ʿalaw tatbīrā"]
+          outcome: [the house's great door-frames fall and the wall is breached, they utterly destroy what they overrun]
+        note: "The army the god sends does not stop at the city but takes the sanctuary: 'the E-kiš-nu-ĝal of Nanna was seized by the enemy', and the sacred box no one had looked at was seen by the enemy (G:407B, 442); in 17:7 the second army is sent 'to enter the masjid as they entered it the first time, and to destroy utterly whatever they overran (li-yutabbirū)'."
+      - with: quran-17-night-journey-and-israel
+        motif: why-the-god-gives-his-city-to-the-enemy
+        refs: ["ETCSL 2.2.3 G:366-369"]
+        with_refs: ["17:4", "17:5"]
+        relation: divergence
+        record:
+          agent: [Enlil, God]
+          action: [gives his city over to destruction, sends an army against his people]
+          quoted: ["bal nam-lugal-la saĝ-bi-še3 e3-a a-ba-a igi im-mi-in-du8-a", "la-tufsidunna fī l-arḍi marratayn"]
+          outcome: [because its turn of kingship was over, because they would make mischief in the land twice]
+        note: "The motive differs. Enlil gives no sin as the reason for Urim's fall: its reign 'had been long indeed but had to exhaust itself' (G:366-369), and other laments of this group ask what the people did to deserve it. In 17:4-5 the destruction was decreed in the Book because 'you will make mischief in the land twice (la-tufsidunna ... marratayn)', and 17:7-8 ties each army to their own wrongdoing ('if you do evil, it is against yourselves')."
+  - unit: ane-etcsl-2-2-3-g-suen-plea-restoration
+    checked: [quran-2-call-to-worship, quran-15-prologue-and-heavens, quran-43-zukhruf-abraham-and-silver-roofs]
+    matches: []
+  - unit: ane-etcsl-2-2-3-i-storm-return-may-an-not-change
+    checked: [quran-22-signs-and-rites, quran-2-call-to-worship, quran-9-three-left-behind, quran-25-destroyed-peoples]
+    matches: []
+  - unit: ane-etcsl-2-2-4-a-how-haunted
+    checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-11-salih, quran-25-destroyed-peoples]
+    matches: []
+  - unit: ane-etcsl-2-2-4-c-temple-weeps
+    checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-54-qamar-ad-thamud-lot-pharaoh, quran-59-hashr-banu-nadir-and-fay, quran-11-closing]
+    matches:
+      - with: quran-11-closing
+        motif: whether-a-righteous-city-is-destroyed
+        refs: ["ETCSL 2.2.4 C:72-75"]
+        with_refs: ["11:117"]
+        relation: divergence
+        record:
+          agent: [Enlil, your Lord]
+          action: [destroys a city whose people took the true path, does not destroy towns whose people do right]
+          quoted: ["uĝ3 saĝ gig2-ga us2 zid bi2-ib-dab5-ba a-na ib2-ak", "wa-mā kāna rabbuka li-yuhlika l-qurā bi-ẓulmin wa-ahluhā muṣliḥūn"]
+          outcome: [Nibru is destroyed though its people walked rightly, no town is destroyed while its people are righteous]
+        note: "The Nibru lament asks 'what have the black-headed people, who took the true path (us2 zid), done that their lord is enraged?' (C:72-75): a city of the upright has been destroyed. 11:117 states the opposite as a rule: 'your Lord would not destroy the towns unjustly while their people were doing right (wa-ahluhā muṣliḥūn)'."
+  - unit: ane-etcsl-2-2-4-e-lord-despoiled
+    checked: [quran-22-destroyed-towns-satanic-insinuation, quran-50-qaf-two-recorders-and-hell-asks-more, quran-17-prayer-spirit-and-challenge]
+    matches: []
+  - unit: ane-etcsl-2-2-4-g-dirge-singer-say-to-him
+    checked: [quran-19-mary-and-jesus, quran-19-zechariah-and-john, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-etcsl-2-2-4-k-enlil-relents-ishme-dagan
+    checked: [quran-2-sleeper-hundred-years, quran-3-badr-uhud, quran-28-destroyed-towns-and-judgment, quran-22-signs-and-rites]
+    matches: []
+  - unit: ane-etcsl-2-2-4-o-cities-restored
+    checked: [quran-17-night-journey-and-israel, quran-3-badr-uhud, quran-16-deniers-and-angels-of-death]
+    matches:
+      - with: quran-17-night-journey-and-israel
+        motif: scattered-people-restored-after-destruction
+        refs: ["ETCSL 2.2.4 O:214-215", "ETCSL 2.2.4 O:230-231"]
+        with_refs: ["17:6"]
+        relation: parallel
+        record:
+          agent: [the gods, God]
+          action: [return the scattered people and drive the enemy from the temple, give back the turn against the enemy]
+          recipient: [Sumer and Akkad, the Children of Israel]
+          quoted: ["uĝ3 bir-a-bi gud3-bi-še3 gur-ru-dam", "thumma radadnā lakumu l-karrata ʿalayhim wa-amdadnākum bi-amwālin wa-banīn"]
+        note: "After the destruction the gods sent, the same gods reverse it: the scattered people are 'returned to their nests' (gur-ru-dam) and the enemy is removed from the temple (O:214-215, 230-231); 'then we gave you back the turn (radadnā lakumu l-karrata) against them and aided you with wealth and sons' (17:6). Sumerian gur and Arabic radda both 'turn back'."
+  - unit: ane-etcsl-2-2-4-q-good-day-restored
+    checked: [quran-4-creation-kinship-orphans, quran-9-three-left-behind, quran-2-call-to-worship, quran-73-enwrapped]
+    matches: []
+  - unit: ane-etcsl-2-2-4-s-era-of-harmony
+    checked: [quran-17-commandments, quran-20-judgment-day, quran-3-sovereignty, quran-70-ascending-stairways, quran-34-sheba]
+    matches:
+      - with: quran-34-sheba
+        motif: travel-in-safety-by-night-and-day
+        refs: ["ETCSL 2.2.4 S:290-291A"]
+        with_refs: ["34:18"]
+        relation: echo
+        record:
+          agent: [Enlil, God]
+          action: [fixes a time when anyone may travel without fear, sets towns along the road so they may travel safely]
+          place: [from city to foreign city on the plain, between them and the blessed towns]
+          quoted: ["iri-ta iri kur2-še3 du-u3 edin-na ni2 nu-teĝ3-ĝe26-e", "sīrū fīhā layāliya wa-ayyāman āminīn"]
+        note: "A divine gift of safe travel between cities: Enlil decrees 'a time when anyone may go where they will ... from city to foreign city, without fear on the plain' (S:290-291A); God placed visible towns between Saba and the blessed towns, 'and we measured the journey in them: travel in them by night and day, secure (āminīn)' (34:18). In Saba the gift is withdrawn when they ask for longer stages (34:19)."
+  - unit: ane-etcsl-2-2-4-t-ishme-dagan-blessed
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-73-enwrapped]
+    matches: []
+  - unit: ane-etcsl-2-2-5-a-destroyer-created
+    checked: [quran-16-deniers-and-angels-of-death, quran-17-polemic-and-resurrection, quran-3-badr-uhud]
+    matches: []
+  - unit: ane-etcsl-2-2-5-cd-gods-abandon-unug
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-71-noah, quran-54-qamar-ad-thamud-lot-pharaoh, quran-16-abrogation-food-abraham-sabbath]
+    matches:
+      - with: quran-16-abrogation-food-abraham-sabbath
+        motif: fear-covers-a-town-like-a-garment
+        refs: ["ETCSL 2.2.5 D.B:20"]
+        with_refs: ["16:112"]
+        relation: echo
+        record:
+          object: [a hush of fear, the garment of hunger and fear]
+          recipient: [the people of Unug, a town once secure]
+          instrument: [like a cloak, as a garment]
+          quoted: ["niĝ2-me-ĝar tug2-gin7 i-im-dul", "fa-adhāqahā llāhu libāsa l-jūʿi wa-l-khawf"]
+        note: "The ruined town is clothed in its fear: 'a hush settled over the awed hearts of its people like a cloak (tug2-gin7 ... dul)' (D.B:20); 'so God made it taste the garment (libās) of hunger and fear' (16:112). The Quran's town was punished for denying God's favours; Unug's god simply abandoned it."
+  - unit: ane-etcsl-2-2-5-e-enlil-deluge
+    checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-3-badr-uhud, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-2-5-e-gutium-subir
+    checked: [quran-17-book-of-deeds, quran-2-sleeper-hundred-years, quran-29-destroyed-nations, quran-69-haqqa-destroyed-peoples-and-the-throne]
+    matches: []
+  - unit: ane-etcsl-2-2-5-e-siege-of-unug
+    checked: [quran-18-dhul-qarnayn, quran-11-salih, quran-29-destroyed-nations]
+    matches: []
+  - unit: ane-etcsl-2-2-5-h-ishme-dagan-prayer
+    checked: [quran-73-enwrapped, quran-3-sovereignty, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-2-6-1a-storm-over-eridug
+    checked: [quran-8-obedience-trial, quran-7-towns-pattern, quran-71-noah, quran-105-elephant]
+    matches:
+      - with: quran-8-obedience-trial
+        motif: calamity-that-strikes-not-only-the-wrongdoers
+        refs: ["ETCSL 2.2.6 1.A.A:19", "ETCSL 2.2.6 1.A.A:20"]
+        with_refs: ["8:25"]
+        relation: parallel
+        record:
+          agent: [the storm, the trial (fitna)]
+          action: [strikes without distinguishing good and evil, does not strike only the wrongdoers]
+          quoted: ["ud sig5 ḫul nu-ĝal2-la sag9-ga nu-zu ḫul nu-zu-e", "fitnatan lā tuṣībanna lladhīna ẓalamū minkum khāṣṣatan"]
+        note: "The destroying calamity does not sort the guilty from the innocent: 'a storm which possesses neither kindness nor malice, does not distinguish between good and evil' (1.A.A:19-20); 'beware a trial that will not strike only those of you who did wrong' (8:25). In Eridug it is lament over the storm; in 8:25 it is a warning to the community to guard against it."
+  - unit: ane-etcsl-2-2-6-1a-gates-and-ziggurat
+    checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-11-lot, quran-11-salih, quran-17-night-journey-and-israel]
+    matches:
+      - with: quran-17-night-journey-and-israel
+        motif: city-destroyed-a-second-time
+        refs: ["ETCSL 2.2.6 1.A.C:30"]
+        with_refs: ["17:7"]
+        relation: echo
+        record:
+          agent: [the storm, the servants sent by God]
+          action: [destroys the city a second time, enter the masjid as the first time and destroy]
+          number: [2, 2]
+          quoted: ["2-kam-ma-še3 ud-de3 iri mu-un-gul-gul", "fa-idhā jāʾa waʿdu l-ākhirati ... ka-mā dakhalūhu awwala marratin"]
+        note: "A counted second destruction: 'a second time (2-kam-ma-še3) the storm destroyed the city' and broke its gate and door (1.A.C:30-37); in 17:7 'when the promise of the second (al-ākhira) came' the enemy entered the masjid 'as they entered it the first time'. The Quran ties each of the two destructions to one of two corruptions (17:4)."
+  - unit: ane-etcsl-2-2-6-1a-temple-plundered
+    checked: [quran-22-abraham-house-pilgrimage, quran-59-hashr-banu-nadir-and-fay, quran-9-hunayn-jizya]
+    matches: []
+  - unit: ane-etcsl-2-2-6-1b-enki-damgalnuna-lament
+    checked: [quran-105-elephant, quran-11-pharaoh-leads, quran-9-cave-and-call]
+    matches: []
+  - unit: ane-etcsl-2-2-6-1c-gods-destroy-own-cities
+    checked: [quran-11-salih, quran-26-hud-ad, quran-69-haqqa-destroyed-peoples-and-the-throne]
+    matches: []
+  - unit: ane-etcsl-2-2-6-1c-enki-consoled
+    checked: [quran-17-prayer-spirit-and-challenge, quran-73-enwrapped, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-2-6-2-second-manuscript
+    checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-22-abraham-house-pilgrimage, quran-39-sincere-servant]
+    matches: []
+  - unit: ane-etcsl-2-3-1-adab-bau-luma
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-43-zukhruf-jesus-and-paradise, quran-20-judgment-day]
+    matches:
+      - with: quran-20-judgment-day
+        motif: no-one-knows-what-the-deity-is
+        refs: ["ETCSL 2.3.1 B:32"]
+        with_refs: ["20:110"]
+        relation: echo
+        record:
+          agent: [no one, they]
+          action: [knows what the deity is, encompass him in knowledge]
+          object: [Bau, God]
+          quoted: ["niĝ2-zu lu2 nu-zu", "wa-lā yuḥīṭūna bihi ʿilmā"]
+        note: "A short negative formula of the deity's unknowability: 'no one knows what you are (niĝ2-zu lu2 nu-zu)' to Bau (B:32); 'he knows what is before them and behind them, and they do not encompass him in knowledge' (20:110). The Sumerian line stands in the short source B (B:32-34)."
+  - unit: ane-etcsl-2-3-2-tigi-bau-gudea
+    checked: [quran-9-bargain-abraham, quran-43-zukhruf-jesus-and-paradise, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-1-1-1-ur-namma-dies
+    checked: [quran-3-badr-uhud, quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-11-pharaoh-leads, quran-13-messengers-and-mother-of-book]
+    matches:
+      - with: quran-13-messengers-and-mother-of-book
+        motif: whether-a-decreed-fate-can-be-altered
+        refs: ["ETCSL 2.4.1.1 1:8", "ETCSL 2.4.1.1 1:9"]
+        with_refs: ["13:38", "13:39"]
+        relation: divergence
+        record:
+          agent: [An and Enlil, God]
+          action: [alter the fate they had decreed, effaces what he wills and confirms]
+          object: [the king's decreed fate, what is written for each term]
+          quoted: ["an-ne2 inim kug-ga du3-a mu-un-kur2; den-lil2-le nam tar-ra du3-a šu lul mi-ni-ib-bal", "li-kulli ajalin kitāb; yamḥū llāhu mā yashāʾu wa-yuthbitu wa-ʿindahu ummu l-kitāb"]
+          outcome: [the change is a deceit and the gods mourn, the change is God's prerogative and the Mother of the Book is with him]
+        note: "Both texts allow that a fixed fate can be changed by the god who fixed it. In the Death of Ur-Namma An 'altered his holy word' and Enlil 'deceitfully (šu lul) changed the fate he had decreed', so the king dies early and the gods lament (1:8-14). In 13:38-39 'every term has a writing (li-kulli ajalin kitāb); God effaces what he wills and confirms, and with him is the Mother of the Book': the same power, stated as sovereign right, not as betrayal."
+  - unit: ane-etcsl-2-4-1-1-1-death-and-descent
+    checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-4-1-1-1-netherworld-gifts
+    checked: [quran-23-death-barzakh-judgment, quran-2-talut-jalut, quran-3-sovereignty, quran-7-moses-pharaoh, quran-56-waqia-left-hand-and-proofs]
+    matches:
+      - with: quran-56-waqia-left-hand-and-proofs
+        motif: food-and-drink-of-the-netherworld
+        refs: ["ETCSL 2.4.1.1 1:82", "ETCSL 2.4.1.1 1:83"]
+        with_refs: ["56:52", "56:54", "56:56"]
+        relation: divergence
+        record:
+          agent: [Ur-Namma and the dead, those who went astray]
+          action: [sit at a banquet in the netherworld, eat and drink as their welcome-meal]
+          object: ["bitter food, brackish water", "the tree of zaqqum, boiling water"]
+          quoted: ["u2 kur-ra sis-am3 a kur-ra mun4-na-am3", "la-ākilūna min shajarin min zaqqūm ... fa-shāribūna ʿalayhi mina l-ḥamīm ... hādhā nuzuluhum"]
+          outcome: [the food of all the dead, the hospitality (nuzul) of the deniers only]
+        note: "The arrival in the netherworld is a meal: Ur-Namma seats the dead at a huge banquet, and 'the food of the netherworld is bitter (sis), the water of the netherworld is brackish (mun4)' (1:82-83). In 56:52-56 the deniers eat from the zaqqum tree and drink boiling water on top of it: 'this is their welcome-meal (nuzuluhum) on the Day of Judgment'. Same pairing of food and drink; in the Sumerian it is the lot of every dead person, in the Quran only of those who denied."
+  - unit: ane-etcsl-2-4-1-1-1-ur-namma-lament
+    checked: [quran-79-pharaoh-and-cosmos, quran-46-ahqaf-hud-and-the-jinn, quran-89-dawn, quran-23-death-barzakh-judgment]
+    matches:
+      - with: quran-89-dawn
+        motif: dead-man-regrets-what-he-left-undone
+        refs: ["ETCSL 2.4.1.1 1:148-153"]
+        with_refs: ["89:23", "89:24"]
+        relation: divergence
+        record:
+          agent: [Ur-Namma, man]
+          action: [laments after death what he did not do, cries out after the fact what he did not do]
+          object: ["his wall, palace, wife, sons and daughters", "deeds sent ahead for his life"]
+          quoted: ["bad3 urim2-ma nu-mu-un-til-la-ni ... dam-a-ni ur2-ra-na a-la nu-mu-un-gi4-a-ni", "yā laytanī qaddamtu li-ḥayātī"]
+        note: "The dead man's regret, in the first person: Ur-Namma weeps that he could not finish the wall of Urim, enjoy his new palace, embrace his wife or raise his sons on his knees (1:148-153). In 89:23-24, on the day hell is brought near, man remembers 'and he says: would that I had sent ahead (qaddamtu) for my life'. The Sumerian king regrets the life he did not get to enjoy; the Quranic man regrets the good he did not send ahead."
+      - with: quran-23-death-barzakh-judgment
+        motif: the-dead-cannot-return
+        refs: ["ETCSL 2.4.1.1 1:164-165"]
+        with_refs: ["23:99", "23:100"]
+        relation: divergence
+        record:
+          agent: [Ur-Namma, the dying man]
+          action: [cannot turn back to Urim, asks to be sent back]
+          instrument: [like rain from heaven that cannot turn back, a barrier (barzakh)]
+          quoted: ["just as the rain pouring down from heaven cannot turn back, nor can I turn back to brick-built Urim", "rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu kallā ... wa-min warāʾihim barzakhun"]
+          outcome: [no return, no return until the day they are raised]
+        note: "Ur-Namma, with no god to help him, says 'just as the rain pouring down from heaven cannot turn back, alas, nor can I turn back to brick-built Urim' (1:164-165). The dying man of 23:99-100 asks 'my Lord, send me back, that I may do right in what I left', and is refused: 'no! ... and behind them is a barrier (barzakh) until the day they are raised'. Ur-Namma wants to go back to his city; the Quranic man wants to go back to do good. Both are refused; in the Quran the refusal lasts only until the resurrection."
+  - unit: ane-etcsl-2-4-1-1-1-inana-protest
+    checked: [quran-13-messengers-and-mother-of-book, quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-4-1-1-2-second-recension
+    checked: [quran-3-sovereignty, quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-1-2-ekur-rebuilt
+    checked: [quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians, quran-15-prologue-and-heavens, quran-28-pharaohs-tower-and-end]
+    matches:
+      - with: quran-28-pharaohs-tower-and-end
+        motif: brick-tower-rising-to-heaven
+        refs: ["ETCSL 2.4.1.2 A:13", "ETCSL 2.4.1.2 A:20"]
+        with_refs: ["28:38"]
+        relation: divergence
+        record:
+          agent: [Ur-Namma, Haman at Pharaoh's order]
+          action: [prepares the brick mould and makes the E-kur rise to heaven, fires clay to build a tower]
+          object: [the E-kur, a ṣarḥ]
+          quoted: ["giš-u3-šub-ba si am3-mi-in-sa2 ... e2-kur maḫ dur-an-ki-a-ka an-še3 mi-ni-in-mu2", "fa-awqid lī yā hāmānu ʿalā ṭ-ṭīni fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi mūsā"]
+          outcome: [the god's house made to rise heavenward at the god's command, a tower to look up at Moses' God out of defiance]
+        note: "A king's brickwork reaching for heaven: Ur-Namma 'prepared the brick mould' (giš-u3-šub, A:13) and 'made the lofty E-kur grow towards heaven (an-še3) in Dur-an-ki' (A:20) because Enlil told him to. Pharaoh orders 'kindle a fire for me on the clay, Haman, and make me a tower, so that I may look up to the God of Moses' (28:38): fired brick, a tower to heaven, built in defiance of God. Same building technique and aim, opposite relation to the god."
+  - unit: ane-etcsl-2-4-1-3-urim-and-king-justice
+    checked: [quran-2-talut-jalut, quran-79-pharaoh-and-cosmos, quran-38-solomon-horses-throne]
+    matches: []
+  - unit: ane-etcsl-2-4-1-3-birth-and-deeds
+    checked: [quran-20-moses-favors-recalled, quran-3-sovereignty, quran-2-talut-jalut, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-etcsl-2-4-1-4-1-canal-digger-a
+    checked: [quran-16-blessings-of-creation, quran-47-muhammad-battle-and-rivers, quran-20-sea-crossing-sinai, quran-18-dhul-qarnayn]
+    matches: []
+  - unit: ane-etcsl-2-4-1-4-2-canal-digger-b
+    checked: [quran-20-moses-favors-recalled, quran-79-pharaoh-and-cosmos, quran-20-taha-prologue, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-1-4-3-canal-digger-c
+    checked: [quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-4-1-5-urim-shrine-praise
+    checked: [quran-3-sovereignty, quran-17-polemic-and-resurrection, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-4-1-6-urim-shrine-praise-f
+    checked: [quran-2-talut-jalut, quran-13-signs-of-creation, quran-3-sovereignty, quran-79-pharaoh-and-cosmos]
+    matches:
+      - with: quran-2-talut-jalut
+        motif: stature-of-the-chosen-king
+        refs: ["ETCSL 2.4.1.6 6"]
+        with_refs: ["2:247"]
+        relation: parallel
+        record:
+          agent: [Nanna, God]
+          object: [Ur-Namma, Ṭālūt]
+          action: [has him appear tallest among the lords, chose him and increased him in stature]
+          quoted: ["gu2-en-ta en sukud-da", "inna llāha ṣṭafāhu ʿalaykum wa-zādahu basṭatan fī l-ʿilmi wa-l-jism"]
+        note: "The chosen king is marked by his height: Ur-Namma 'is the tallest (sukud) among all the lords, appearing as the noblest among them' (line 6, reading approximate); Ṭālūt is defended against the objection that he lacks wealth: 'God has chosen him over you and increased him in breadth of knowledge and body (al-jism)' (2:247). The Quran pairs the bodily mark with knowledge."
+  - unit: ane-etcsl-2-4-1-7-faithful-farmer
+    checked: [quran-22-signs-and-rites, quran-2-call-to-worship, quran-7-creation-signs, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-4-1-8-ur-namma-h
+    checked: [quran-9-bargain-abraham, quran-4-prophets-and-trinity, quran-61-saff-ranks-moses-jesus-ahmad]
+    matches: []
+  - unit: ane-etcsl-2-4-2-01-i-am-shulgi
+    checked: [quran-9-hypocrites-mockery, quran-20-moses-favors-recalled, quran-20-moses-pharaoh-magicians, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-2-01-roads-and-run
+    checked: [quran-2-talut-jalut, quran-79-pharaoh-and-cosmos, quran-38-solomon-horses-throne, quran-34-sheba, quran-34-david-solomon]
+    matches:
+      - with: quran-34-sheba
+        motif: travel-in-safety-by-night-and-day
+        refs: ["ETCSL 2.4.2.01 28-35"]
+        with_refs: ["34:18"]
+        relation: divergence
+        record:
+          agent: [Šulgi, God]
+          action: [marks out the road stages and builds lodging houses, measures the journey and sets visible towns along it]
+          instrument: [double-hour stations with gardens, towns in plain sight (qurā ẓāhira)]
+          time: [travellers who arrive at night, by night and by day]
+          quoted: ["danna ḫu-mu-gen6 e2 gal-la ḫe2-bi2-du3", "wa-qaddarnā fīhā s-sayra sīrū fīhā layāliya wa-ayyāman āminīn"]
+          outcome: [wayfarers find haven at night as in a well-built city, they travel secure]
+        note: "The same infrastructure of a safe road: Šulgi 'marked out the double-hour distances (danna), built lodging houses there', planted gardens, so that 'travellers and wayfarers who arrive at night can seek haven there' (28-35). In 34:18 God 'measured the journey (qaddarnā s-sayr)' with towns in sight of one another: 'travel in them by night and day, secure'. The king builds it to his own name; in the Quran it is God's gift, withdrawn when Saba asked for longer stages (34:19)."
+      - with: quran-34-david-solomon
+        motif: king-covers-a-vast-distance-between-morning-and-evening
+        refs: ["ETCSL 2.4.2.01 39-41"]
+        with_refs: ["34:12"]
+        relation: divergence
+        record:
+          agent: [Šulgi, the wind subjected to Solomon]
+          action: [runs Nibru to Urim and back in one day, travels a month's journey in a morning and a month's in an evening]
+          instrument: [his own legs, the wind]
+          time: [one day, morning and evening]
+          quoted: ["nibru-ta šeg12 urim2-ma-še3 danna 1-gin7 šu ni10-ni10-da", "wa-li-sulaymāna r-rīḥa ghuduwwuhā shahrun wa-rawāḥuhā shahr"]
+        note: "A king's prodigious day of travel: Šulgi, 'to prove my speed', runs from Nibru to brick-built Urim and back 'as if it were only a double-hour (danna 1-gin7)' (39-41), so that his name is never forgotten. Solomon has the wind, 'its morning course a month and its evening course a month' (34:12). The Sumerian king does it by his own strength for his fame; the Quranic king by a wind God subjected to him."
+  - unit: ane-etcsl-2-4-2-01-urim-storm-return
+    checked: [quran-25-signs-shadow-seas, quran-79-pharaoh-and-cosmos, quran-24-light-verse, quran-54-qamar-moon-split-and-noah]
+    matches:
+      - with: quran-54-qamar-moon-split-and-noah
+        motif: rain-from-heaven-meets-water-from-the-earth
+        refs: ["ETCSL 2.4.2.01 67"]
+        with_refs: ["54:11", "54:12"]
+        relation: echo
+        record:
+          object: [rain of heaven and water of the earth, water from heaven and springs of the earth]
+          action: [mingle, meet]
+          quoted: ["im an-na-ke4 a ki-ta gu2 ḫe2-em-ma-da-ab-la2", "fa-ltaqā l-māʾu ʿalā amrin qad qudir"]
+          outcome: [Šulgi runs on through it unafraid, the flood drowns Noah's people]
+        note: "The same image of the two waters joining: in Šulgi's storm 'the rains of heaven mingled (gu2 ... la2) with the waters of the earth' (67; one manuscript: 'competed with'); in Noah's flood God opened the gates of heaven with pouring water and made the earth gush springs, 'and the water met (fa-ltaqā l-māʾ) for a matter already decreed' (54:11-12). One is a storm on the king's road, the other the flood."
+  - unit: ane-etcsl-2-4-2-01-crown-and-praise
+    checked: [quran-89-dawn, quran-20-moses-pharaoh-magicians, quran-4-prophets-and-trinity, quran-19-prophets-remembered]
+    matches: []
+  - unit: ane-etcsl-2-4-2-02-prologue-scribe
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-4-2-02-warrior
+    checked: [quran-38-solomon-horses-throne, quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-02-hunter
+    checked: [quran-2-talut-jalut, quran-38-solomon-horses-throne, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-etcsl-2-4-2-02-runner-diviner
+    checked: [quran-20-moses-pharaoh-magicians, quran-79-pharaoh-and-cosmos, quran-74-cloaked]
+    matches: []
+  - unit: ane-etcsl-2-4-2-02-musician-mortality
+    checked: [quran-3-misers-mockers, quran-4-fighting-and-death, quran-69-haqqa-books-in-right-and-left-hands, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-4-2-02-judge-languages
+    checked: [quran-30-signs, quran-20-moses-pharaoh-magicians, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-27-solomon-ants-hoopoe-sheba]
+    matches:
+      - with: quran-27-solomon-ants-hoopoe-sheba
+        motif: king-who-understands-foreign-speech
+        refs: ["ETCSL 2.4.2.02 206-220"]
+        with_refs: ["27:16", "27:19"]
+        relation: divergence
+        record:
+          agent: [Šulgi, Solomon]
+          action: [boasts he understands five languages, announces he was taught the speech of birds]
+          object: ["Elamite, the mountain tongue, Martu, Subir", the speech of birds]
+          number: [5, null]
+          quoted: ["5-bi eme-bi ba-ni-ib-gi4-gi4-in", "ʿullimnā manṭiqa ṭ-ṭayri wa-ūtīnā min kulli shayʾ"]
+        note: "A king proclaims to his people the speech he understands: Šulgi can answer in all five languages (eme) when he judges (206-220); Solomon: 'O people, we have been taught the speech of birds (manṭiq al-ṭayr) and given of everything' (27:16), and he understands the ant (27:18-19). Šulgi's are the human languages of his neighbours, learned and his own boast; Solomon's is the speech of birds, taught (ʿullimnā), and he thanks God for it (27:19)."
+  - unit: ane-etcsl-2-4-2-02-old-hymns-future-king
+    checked: [quran-17-prayer-spirit-and-challenge, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-20-moses-pharaoh-magicians]
+    matches:
+      - with: quran-17-prayer-spirit-and-challenge
+        motif: mortal-cannot-ascend-to-heaven
+        refs: ["ETCSL 2.4.2.02 281", "ETCSL 2.4.2.02 282"]
+        with_refs: ["17:93"]
+        relation: echo
+        record:
+          agent: [a mortal, the Prophet]
+          action: [has ever reached heaven, ascend into heaven]
+          quoted: ["a-ba nam-til3 an-na ba-e-e3", "aw tarqā fī s-samāʾi ... hal kuntu illā basharan rasūlā"]
+          outcome: [no mortal has, he answers that he is only a mortal]
+        note: "Going up to heaven as the thing a mortal cannot do: 'Whatever is acquired is destined to be lost. What mortal (nam-til3, a living being) has ever reached the heavens?' (281-282). The Prophet's opponents demand 'or that you ascend (tarqā) into heaven', and he is told to answer: 'Glory to my Lord, am I anything but a mortal (bashar), a messenger?' (17:93)."
+  - unit: ane-etcsl-2-4-2-02-curse-academies
+    checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-38-solomon-horses-throne]
+    matches:
+      - with: quran-38-solomon-horses-throne
+        motif: no-later-king-to-equal-this-one
+        refs: ["ETCSL 2.4.2.02 332-336"]
+        with_refs: ["38:35"]
+        relation: divergence
+        record:
+          agent: [Šulgi, Solomon]
+          action: [declares no king will ever equal his deeds, asks for a kingdom none after him should have]
+          recipient: [future kings, anyone after him]
+          quoted: ["numun ba-i-i-ta zag uĝ3 lu-a-še3 lugal niĝ2-ĝa2 niĝ2 bi2-in-sig10-ga-am3", "wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī"]
+        note: "A king says no one after him will have what he has: Šulgi, at the end of his hymn, claims that from the time the seed of mankind came forth to its full flourishing no king will equal what he achieved (332-336). Solomon, after asking forgiveness, prays 'grant me a kingdom that will befit no one after me (li-aḥadin min baʿdī); you are the Giver' (38:35). One is a boast about his own deeds, the other a request for a gift."
+  - unit: ane-etcsl-2-4-2-02-lions-oath-temple
+    checked: [quran-38-solomon-horses-throne, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-03-a-bull-calf-king
+    checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-etcsl-2-4-2-03-a-scribe-builder-counsel
+    checked: [quran-2-talut-jalut, quran-20-moses-pharaoh-magicians, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-etcsl-2-4-2-03-a-diviner-judge
+    checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-3-sovereignty]
+    matches: []
+  - unit: ane-etcsl-2-4-2-03-a-languages-wrestling
+    checked: [quran-2-talut-jalut, quran-21-abraham-idols-fire, quran-26-noah]
+    matches: []
+  - unit: ane-etcsl-2-4-2-03-b-conqueror
+    checked: [quran-2-sleeper-hundred-years, quran-26-hud-ad, quran-59-hashr-banu-nadir-and-fay, quran-89-dawn]
+    matches: []
+  - unit: ane-etcsl-2-4-2-03-bc-musician-fragments
+    checked: [quran-27-solomon-ants-hoopoe-sheba, quran-38-solomon-horses-throne, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-etcsl-2-4-2-04-epithets
+    checked: [quran-14-parables-and-satans-speech, quran-2-talut-jalut, quran-3-sovereignty, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-etcsl-2-4-2-04-birth-fate
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-etcsl-2-4-2-04-battle-boast
+    checked: [quran-7-moses-pharaoh, quran-29-destroyed-nations, quran-18-dhul-qarnayn]
+    matches: []
+  - unit: ane-etcsl-2-4-2-04-revenge-sumer
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-3-badr-uhud, quran-105-elephant, quran-34-sheba]
+    matches:
+      - with: quran-59-hashr-banu-nadir-and-fay
+        motif: enemy-trees-cut-down
+        refs: ["ETCSL 2.4.2.04 222-227"]
+        with_refs: ["59:5"]
+        relation: divergence
+        record:
+          agent: [Šulgi, the believers]
+          action: [uproots and fells the enemy's trees, cut down palms or leave them standing]
+          object: ["small, thick and tall trees; gardens of honey and figs", palm trees (līna)]
+          instrument: [the axe, null]
+          quoted: ["ĝiš tur-tur-bi ur2-ba ga-mu-bu3-bu3; ĝiš daĝal gal-be2-e tun3 gul ga-am3-dug4", "mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāh"]
+          outcome: [revenge for what was destroyed in Sumer, by God's permission and to disgrace the transgressors]
+        note: "Cutting the enemy's trees in war: Šulgi vows 'I shall uproot their small trees, with the axe I shall destroy their thick and tall trees ... in their gardens where honey and fig trees grew I shall make weeds grow' (222-227), as revenge measure for measure. 59:5, on the siege of the Banu Nadir: 'whatever palm trees you cut down or left standing on their roots, it was by God's permission, and to disgrace the transgressors'. The Sumerian is the king's revenge; the Quran answers an objection to the cutting by referring it to God's permission, and allows leaving them standing."
+      - with: quran-34-sheba
+        motif: gardens-turned-to-wild-growth
+        refs: ["ETCSL 2.4.2.04 226-227"]
+        with_refs: ["34:16"]
+        relation: divergence
+        record:
+          agent: [Šulgi, God]
+          action: [makes weeds grow in the irrigated gardens, replaces their two gardens with gardens of bitter fruit]
+          object: [gardens of honey and figs, two gardens]
+          quoted: ["pu2-ĝiš-kiri6 lal3 ĝiš-peš3 mu2-a-bi a-ri2-na gi4-bi2-i3-mu2 (partly restored)", "wa-baddalnāhum bi-jannatayhim jannatayni dhawātay ukulin khamṭin wa-athlin wa-shayʾin min sidrin qalīl"]
+          outcome: [revenge on the foreign land, recompense for ingratitude]
+        note: "Fruit gardens turned to wild growth: in the irrigated gardens where honey and fig trees (ĝiš-peš3) used to grow Šulgi will 'make weeds grow, so that plants and herbs break through the soil' (226-227). After the flood of al-ʿArim, God 'replaced their two gardens with two gardens of bitter fruit (khamṭ), tamarisk and a few lote trees' (34:16). A conqueror's revenge against God's recompense for Saba's turning away (34:17)."
+  - unit: ane-etcsl-2-4-2-04-gods-walk-with-king
+    checked: [quran-3-badr-uhud, quran-26-noah, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-etcsl-2-4-2-04-booty-barge-nibru
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-105-elephant, quran-7-moses-pharaoh]
+    matches:
+      - with: quran-59-hashr-banu-nadir-and-fay
+        motif: spoil-of-the-enemy-assigned-to-the-god
+        refs: ["ETCSL 2.4.2.04 348-350", "ETCSL 2.4.2.04 375-381"]
+        with_refs: ["59:6", "59:7"]
+        relation: divergence
+        record:
+          agent: [Šulgi, God]
+          action: [brings the plunder of the foreign lands before Enlil, assigns the fayʾ to God and the messenger]
+          object: [silver and lapis lazuli of the foreign lands, what God gave back from the towns' people]
+          recipient: [Enlil in Nibru, "God, the messenger, kin, orphans, the poor, the wayfarer"]
+          quoted: ["kug za-gin3 kur-ra ... niĝ2-gur11 kur-ra-ke4 gu2 1 im-mi-ra ... den-lil2-ra mu-na-da-an-ku4-ku4 (381 restored)", "fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl"]
+          outcome: [the treasure enters the god's temple, it is distributed so it does not circulate among the rich only]
+        note: "The spoil of the enemy belongs to the god: Šulgi moors at Nibru and enters before Enlil with the silver and lapis lazuli of the foreign lands (348-350, 375-381). 59:6-7 assigns 'what God gave back (afāʾa) to his messenger from the people of the towns' to 'God and the messenger', and through them to kin, orphans, the poor and the wayfarer, 'so that it does not circulate among the rich of you'; it was won without horse or camel (59:6). The god's share stays in the temple in Nibru; God's share in 59:7 is given out."
+  - unit: ane-etcsl-2-4-2-04-enlil-blessing
+    checked: [quran-2-talut-jalut, quran-3-sovereignty, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-etcsl-2-4-2-05-hymns-composed
+    checked: [quran-38-solomon-horses-throne, quran-3-sovereignty, quran-43-zukhruf-pharaoh-claims]
+    matches: []
+  - unit: ane-etcsl-2-4-2-05-oath-truth
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-7-closing-recitation, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-05-curse
+    checked: [quran-7-moses-pharaoh, quran-59-hashr-banu-nadir-and-fay, quran-7-towns-pattern]
+    matches: []
+  - unit: ane-etcsl-2-4-2-05-musician-sceptre
+    checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-05-gutium-campaign
+    checked: [quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh]
+    matches: []
+  - unit: ane-etcsl-2-4-2-05-hymns-written
+    checked: [quran-7-closing-recitation, quran-17-moses-nine-signs-and-close, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-15-a-urim-litany
+    checked: [quran-79-pharaoh-and-cosmos, quran-22-abraham-house-pilgrimage, quran-2-call-to-worship]
+    matches: []
+  - unit: ane-etcsl-2-4-2-15-a-gilgamesh-praise
+    checked: [quran-26-noah, quran-2-talut-jalut, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-etcsl-2-4-2-15-a-gilgamesh-huwawa
+    checked: [quran-21-abraham-idols-fire, quran-26-noah, quran-12-joseph-full]
+    matches: []
+  - unit: ane-etcsl-2-4-2-15-b-e-fragments
+    checked: [quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-21-noah-david-solomon]
+    matches: []
+  - unit: ane-etcsl-2-4-2-16-ninsumun-petition
+    checked: [quran-9-bargain-abraham, quran-23-moses-aaron-mary, quran-3-imran-mary-zechariah]
+    matches: []
+  - unit: ane-etcsl-2-4-2-16-an-answer-ninsumun-blessing
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-17-utu-adab
+    checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-2-talut-jalut]
+    matches: []
+  - unit: ane-etcsl-2-4-2-18-boat-described
+    checked: [quran-54-qamar-moon-split-and-noah, quran-16-blessings-of-creation, quran-25-signs-shadow-seas]
+    matches:
+      - with: quran-54-qamar-moon-split-and-noah
+        motif: vessel-of-planks-and-fastenings
+        refs: ["ETCSL 2.4.2.18 A:15", "ETCSL 2.4.2.18 A:16"]
+        with_refs: ["54:13"]
+        relation: echo
+        record:
+          object: [Ninlil's barge, Noah's ark]
+          instrument: [floor-planks and side-planks fastened with wooden rings, planks (alwāḥ) and fastenings (dusur)]
+          quoted: ["giš-eme-sig-zu-u3 ... giš-u3 giš-ḫar-ra keše2-keše2-ra2-zu-u3", "wa-ḥamalnāhu ʿalā dhāti alwāḥin wa-dusur"]
+          outcome: [the boat carries Enlil and Ninlil to Tummal, the ark runs under God's eyes]
+        note: "A holy vessel described by what it is made of: Šulgi R addresses Ninlil's barge part by part, 'your floor-planks (ĝiš-eme-sig) are flood-currents ... your side-planks, fastened (keše2) into their places with wooden rings' (A:15-16). Noah is carried 'on a thing of planks and fastenings (dhāti alwāḥin wa-dusur)' that 'runs under our eyes' (54:13-14). Both vessels were ordered by the deity (Ninlil commanded the barge, A:1-5); the Quran names the ark only by its planks and fastenings, while the hymn turns each part into an image."
+  - unit: ane-etcsl-2-4-2-18-voyage-tummal
+    checked: [quran-79-pharaoh-and-cosmos, quran-22-abraham-house-pilgrimage, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-etcsl-2-4-2-21-nergal
+    checked: [quran-3-badr-uhud, quran-3-sovereignty, quran-9-closing]
+    matches: []
+  - unit: ane-etcsl-2-4-2-22-shulgi-v
+    checked: [quran-20-moses-favors-recalled, quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-79-pharaoh-and-cosmos]
+    matches: []

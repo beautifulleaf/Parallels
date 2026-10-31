@@ -1,0 +1,279 @@
+# ANE x Quran side-by-side pass, chunk 9 (Anzu, Atra-hasis, Bit meseri, Catalogue of Texts and Authors, Counsels of Wisdom, Dialogue of Pessimism, Enuma elish, Elevation of Babylon, Erra I, Etana). Judged blind, from the originals.
+new_motifs: {}
+reviewed:
+  - unit: ane-anzu-na-b-victory
+    checked: [quran-3-badr-uhud, quran-3-sovereignty, quran-2-throne-verse]
+    matches: []
+  - unit: ane-anzu-ob-ii-a-crisis
+    checked: [quran-38-patriarchs-and-fates, quran-37-ranks-and-guarded-heaven, quran-11-opening-throne-on-water, quran-2-throne-verse]
+    matches: []
+  - unit: ane-anzu-ob-ii-b-ningirsu-commissioned
+    checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-anzu-ob-iii-combat
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-8-badr-help]
+    matches: []
+  - unit: ane-anzu-sb-1-prologue
+    checked: [quran-9-bargain-abraham, quran-9-closing, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-anzu-sb-1-anzu-born
+    checked: [quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos, quran-35-originator]
+    matches: []
+  - unit: ane-anzu-sb-1-theft
+    checked: [quran-7-adam-iblis, quran-38-adam-iblis, quran-3-sovereignty, quran-20-moses-pharaoh-magicians]
+    matches: []
+  - unit: ane-anzu-sb-1-gods-refuse
+    checked: [quran-17-polemic-and-resurrection, quran-23-lordship-arguments, quran-15-prologue-and-heavens]
+    matches: []
+  - unit: ane-anzu-sb-1-ea-chooses-ninurta
+    checked: [quran-53-najm-goddesses-and-scrolls, quran-17-polemic-and-resurrection, quran-57-hadid-first-and-last-and-the-loan]
+    matches: []
+  - unit: ane-anzu-sb-2-mothers-orders
+    checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-anzu-sb-2-first-battle
+    checked: [quran-8-badr-help, quran-4-fighting-and-death, quran-33-trench]
+    matches: []
+  - unit: ane-anzu-sb-2-ea-advice
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-17-prayer-spirit-and-challenge]
+    matches: []
+  - unit: ane-anzu-sb-3-anzu-slain
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-anzu-sb-3-birdu-mission
+    checked: [quran-9-closing, quran-40-throne-bearers, quran-17-prayer-spirit-and-challenge]
+    matches: []
+  - unit: ane-anzu-sb-3-names-of-ninurta
+    checked: [quran-7-names-and-hour, quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-atr-ob-1-gods-labor
+    checked: [quran-21-against-other-gods, quran-16-blessings-of-creation, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-atr-ob-1-strike
+    checked: [quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-21-against-other-gods]
+    matches: []
+  - unit: ane-atr-ob-1-debate
+    checked: [quran-22-signs-and-rites, quran-2-throne-verse, quran-53-najm-goddesses-and-scrolls]
+    matches: []
+  - unit: ane-atr-ob-1-creation-of-man
+    checked: [quran-15-iblis, quran-51-dhariyat-flee-to-god, quran-71-noah, quran-7-adam-iblis]
+    matches: []
+  - unit: ane-atr-ob-1-birth-and-marriage
+    checked: [quran-23-creation-of-man-and-gifts, quran-49-hujurat-etiquette-and-brotherhood, quran-42-shura-revelation-one-religion, quran-39-pure-religion]
+    matches: []
+  - unit: ane-atr-mb-bab2-strike
+    checked: [quran-11-pharaoh-leads, quran-16-deniers-and-angels-of-death, quran-59-hashr-banu-nadir-and-fay]
+    matches: []
+  - unit: ane-atr-mb-priv-boat
+    checked: [quran-11-noah, quran-23-noah, quran-54-qamar-moon-split-and-noah, quran-71-noah]
+    matches: []
+  - unit: ane-atr-mb-ug2-birds
+    checked: [quran-54-qamar-moon-split-and-noah, quran-7-creation-signs, quran-24-light-verse]
+    matches: []
+  - unit: ane-atr-sb-1-gods-labor
+    checked: [quran-21-against-other-gods, quran-16-blessings-of-creation, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-atr-sb-1-strike
+    checked: [quran-79-pharaoh-and-cosmos, quran-2-throne-verse, quran-43-zukhruf-jesus-and-paradise]
+    matches: []
+  - unit: ane-atr-sb-2-debate
+    checked: [quran-10-ingratitude-sea, quran-71-noah, quran-25-destroyed-peoples]
+    matches: []
+  - unit: ane-atr-sb-2-creation
+    checked: [quran-15-iblis, quran-23-creation-of-man-and-gifts, quran-32-sajda, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches: []
+  - unit: ane-atr-sb-3-birth
+    checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-49-hujurat-etiquette-and-brotherhood, quran-42-shura-revelation-one-religion]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-marduk-prayer
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-3-sovereignty]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-lugalirra-summoned
+    checked: [quran-67-mulk-heavens-lamps-and-hell, quran-81-folding-up, quran-77-sent-forth, quran-82-cleaving]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-lugalirra-house
+    checked: [quran-37-ranks-and-guarded-heaven, quran-74-cloaked, quran-54-qamar-ad-thamud-lot-pharaoh]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-standards-and-figures
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-40-throne-bearers]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-sebettu-and-sages
+    checked: [quran-19-prophets-remembered, quran-7-towns-pattern, quran-11-hud, quran-71-noah]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-clay-man-and-woman
+    checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-23-creation-of-man-and-gifts, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-watchmen-and-dogs
+    checked: [quran-18-companions-of-the-cave, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-goat-substitute
+    checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-2-the-cow, quran-6-pagan-offerings-cattle]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-nuska-lamp
+    checked: [quran-24-light-verse, quran-6-poor-keys-of-unseen, quran-2-throne-verse]
+    matches: []
+  - unit: ane-bitmeseri-sb-it-dismissal-of-death
+    checked: [quran-35-heirs-of-book, quran-35-originator, quran-3-sovereignty]
+    matches: []
+  - unit: ane-bitmeseri-sb-fi-figurine-list
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-78-the-tiding]
+    matches: []
+  - unit: ane-bitmeseri-sb-rta-ritual
+    checked: [quran-7-single-soul-idols, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
+    matches: []
+  - unit: ane-catauth-na-catalogue
+    checked: [quran-25-furqan-and-objections, quran-53-najm-vision-and-lote-tree, quran-13-messengers-and-mother-of-book, quran-69-haqqa-books-in-right-and-left-hands]
+    matches: []
+  - unit: ane-catauth-nb-catalogue
+    checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-25-furqan-and-objections, quran-2-four-birds]
+    matches: []
+  - unit: ane-counswis-sb-father-counsels
+    checked: [quran-41-steadfast-and-repel-evil, quran-23-death-barzakh-judgment, quran-13-covenant-and-paradise, quran-6-commandments]
+    matches: []
+  - unit: ane-counswis-sb-charity-and-women
+    checked: [quran-76-the-human, quran-90-city, quran-24-privacy-modesty-marriage, quran-4-marriage-forbidden-degrees]
+    matches: []
+  - unit: ane-counswis-sb-steward-and-office
+    checked: [quran-4-wealth-household, quran-4-kindness-misers-atom, quran-25-servants-of-the-merciful]
+    matches: []
+  - unit: ane-counswis-sb-speech-and-piety
+    checked: [quran-17-commandments, quran-5-contracts-food-laws, quran-49-hujurat-etiquette-and-brotherhood, quran-41-steadfast-and-repel-evil]
+    matches: []
+  - unit: ane-dialpess-sb-palace-dine-hunt-house
+    checked: [quran-5-ablution-covenant-justice, quran-29-emigrate-and-trust, quran-2-charity, quran-18-two-gardens]
+    matches: []
+  - unit: ane-dialpess-sb-silence-crime-love
+    checked: [quran-37-hell-and-garden, quran-4-creation-kinship-orphans, quran-7-adam-iblis]
+    matches: []
+  - unit: ane-dialpess-sb-sacrifice-loans-good-deed
+    checked: [quran-2-thousands-revived, quran-30-signs, quran-2-usury, quran-42-shura-signs-and-ethics]
+    matches: []
+  - unit: ane-dialpess-sb-what-is-good
+    checked: [quran-17-commandments, quran-29-emigrate-and-trust, quran-23-death-barzakh-judgment, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches: []
+  - unit: ane-ee-sb-1-theogony
+    checked: [quran-21-cosmic-signs-and-scales, quran-11-opening-throne-on-water, quran-35-originator, quran-31-signs-and-unseen]
+    matches: []
+  - unit: ane-ee-sb-1-apsu-slain
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-35-originator, quran-71-noah]
+    matches: []
+  - unit: ane-ee-sb-1-marduk-born
+    checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-37-sacrifice-of-son, quran-19-zechariah-and-john, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-ee-sb-1-tiamat-musters
+    checked: [quran-12-joseph-full, quran-35-originator, quran-11-opening-throne-on-water, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-ee-sb-2-ea-reports
+    checked: [quran-40-throne-bearers, quran-11-opening-throne-on-water, quran-85-constellations]
+    matches: []
+  - unit: ane-ee-sb-2-ea-anu-fail
+    checked: [quran-17-polemic-and-resurrection, quran-3-badr-uhud, quran-16-parables-and-justice]
+    matches: []
+  - unit: ane-ee-sb-2-marduk-volunteers
+    checked: [quran-8-badr-help, quran-3-badr-uhud, quran-3-sovereignty]
+    matches: []
+  - unit: ane-ee-sb-3-kakka-sent
+    checked: [quran-74-cloaked, quran-19-zechariah-and-john, quran-8-fifth-and-badr-vision]
+    matches: []
+  - unit: ane-ee-sb-3-gods-feast
+    checked: [quran-5-jesus-miracles-table, quran-6-deliverance-trumpet, quran-2-throne-verse]
+    matches: []
+  - unit: ane-ee-sb-4-enthronement
+    checked: [quran-36-bones-and-be, quran-6-deliverance-trumpet, quran-2-abrogation-polemic, quran-2-throne-verse]
+    matches: []
+  - unit: ane-ee-sb-4-arming
+    checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-35-originator]
+    matches: []
+  - unit: ane-ee-sb-4-battle
+    checked: [quran-19-mary-and-jesus, quran-17-iblis-and-adam, quran-40-throne-bearers, quran-9-closing]
+    matches: []
+  - unit: ane-ee-sb-4-cosmos-from-carcass
+    checked: [quran-21-cosmic-signs-and-scales, quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree]
+    matches: []
+  - unit: ane-ee-sb-5-astral-order
+    checked: [quran-6-signs-in-nature, quran-10-opening-creation, quran-36-cosmic-signs, quran-9-months-nasi]
+    matches: []
+  - unit: ane-ee-sb-5-cosmos-from-body
+    checked: [quran-54-qamar-moon-split-and-noah, quran-47-muhammad-battle-and-rivers, quran-35-originator, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-ee-sb-5-homage
+    checked: [quran-3-badr-uhud, quran-8-badr-help, quran-9-closing]
+    matches: []
+  - unit: ane-ee-sb-5-babylon-founded
+    checked: [quran-2-throne-verse, quran-15-prologue-and-heavens, quran-57-hadid-first-and-last-and-the-loan]
+    matches: []
+  - unit: ane-ee-sb-6-humans-created
+    checked: [quran-2-adam-iblis, quran-96-clot, quran-23-creation-of-man-and-gifts, quran-6-deliverance-trumpet]
+    matches: []
+  - unit: ane-ee-sb-6-babylon-built
+    checked: [quran-2-throne-verse, quran-15-prologue-and-heavens, quran-22-abraham-house-pilgrimage]
+    matches: []
+  - unit: ane-ee-sb-6-bow-oath-kingship
+    checked: [quran-17-moses-nine-signs-and-close, quran-7-names-and-hour, quran-23-lordship-arguments, quran-27-is-there-a-god-with-god]
+    matches: []
+  - unit: ane-ee-sb-6-names-1-9
+    checked: [quran-59-hashr-hypocrites-and-the-names, quran-66-tahrim-wives-and-the-four-women, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-5-jesus-miracles-table]
+    matches: []
+  - unit: ane-ee-sb-7-names-10-23
+    checked: [quran-67-mulk-heavens-lamps-and-hell, quran-30-winds-and-rain, quran-6-signs-in-nature, quran-35-originator]
+    matches: []
+  - unit: ane-ee-sb-7-names-24-50
+    checked: [quran-31-signs-and-unseen, quran-26-moses-and-pharaoh, quran-2-exodus-calf, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-ee-sb-7-epilogue
+    checked: [quran-31-luqman, quran-2-abrogation-polemic, quran-4-prophets-and-trinity]
+    matches: []
+  - unit: ane-elevbab-sb-hymn-marduk
+    checked: [quran-11-opening-throne-on-water, quran-27-is-there-a-god-with-god, quran-35-originator, quran-3-sovereignty]
+    matches: []
+  - unit: ane-elevbab-sb-blessing-esagil-eridu
+    checked: [quran-39-mercy-and-last-day, quran-25-signs-shadow-seas, quran-78-the-tiding]
+    matches: []
+  - unit: ane-elevbab-sb-city-and-citizens
+    checked: [quran-47-muhammad-battle-and-rivers, quran-2-call-to-worship, quran-11-noah, quran-7-wilderness-entry]
+    matches: []
+  - unit: ane-erra-sb-1-invocation
+    checked: [quran-74-cloaked, quran-37-ranks-and-guarded-heaven, quran-3-badr-uhud]
+    matches: []
+  - unit: ane-erra-sb-1-seven-born
+    checked: [quran-69-haqqa-destroyed-peoples-and-the-throne, quran-71-noah, quran-91-sun, quran-16-blessings-of-creation]
+    matches: []
+  - unit: ane-erra-sb-1-seven-urge-war
+    checked: [quran-59-hashr-banu-nadir-and-fay, quran-10-rain-parable-idols-disown, quran-11-salih]
+    matches: []
+  - unit: ane-erra-sb-1-erra-resolves
+    checked: [quran-20-moses-call, quran-3-badr-uhud, quran-9-closing, quran-28-destroyed-towns-and-judgment]
+    matches: []
+  - unit: ane-erra-sb-1-marduk-flood
+    checked: [quran-11-noah, quran-2-harut-marut, quran-54-qamar-moon-split-and-noah, quran-71-noah]
+    matches: []
+  - unit: ane-erra-sb-1-erra-takes-over
+    checked: [quran-82-cleaving, quran-77-sent-forth, quran-35-originator, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etana-ma-assur-oath-and-friendship
+    checked: [quran-7-adam-iblis, quran-16-parables-and-justice, quran-20-adam-iblis]
+    matches: []
+  - unit: ane-etana-ma-assur-eagle-seized
+    checked: [quran-41-steadfast-and-repel-evil, quran-7-adam-iblis, quran-18-moses-and-the-servant]
+    matches: []
+  - unit: ane-etana-ma-assur-dream-and-pit
+    checked: [quran-12-joseph-full, quran-19-zechariah-and-john, quran-3-imran-mary-zechariah, quran-93-94-forenoon-and-expansion]
+    matches: []
+  - unit: ane-etana-ma-assur-dreams-and-ascent
+    checked: [quran-17-prayer-spirit-and-challenge, quran-53-najm-vision-and-lote-tree, quran-12-joseph-full, quran-81-folding-up]
+    matches: []
+  - unit: ane-etana-ob-morgan-kingship
+    checked: [quran-2-talut-jalut, quran-3-sovereignty, quran-81-folding-up, quran-35-originator]
+    matches: []
+  - unit: ane-etana-ob-morgan-eagle-pit
+    checked: [quran-52-tur-garden-and-challenge, quran-12-joseph-full, quran-4-fighting-and-death]
+    matches: []
+  - unit: ane-etana-ob-susa-oath-betrayal
+    checked: [quran-16-parables-and-justice, quran-31-luqman, quran-41-steadfast-and-repel-evil]
+    matches: []
+  - unit: ane-etana-sb-1-kish-founded
+    checked: [quran-16-blessings-of-creation, quran-3-sovereignty, quran-13-signs-of-creation]
+    matches: []
+  - unit: ane-etana-sb-2-friendship-betrayal
+    checked: [quran-16-parables-and-justice, quran-13-covenant-and-paradise, quran-7-adam-iblis]
+    matches: []
