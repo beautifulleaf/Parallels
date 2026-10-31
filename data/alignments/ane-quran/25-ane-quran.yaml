@@ -1,0 +1,300 @@
+# ANE x Quran side-by-side pass, chunk 25 (Sinuhe, Two Brothers, Truth and Falsehood, Westcar, Hittite: Anitta, Telipinu, treaties). Judged blind, from the originals.
+new_motifs: {}
+reviewed:
+- unit: ane-sinuhe-w1-duel-with-champion
+  checked: [quran-26-noah, quran-12-joseph-full, quran-10-noah]
+  matches: []
+- unit: ane-sinuhe-w1-reflection-and-prayer
+  checked: [quran-12-joseph-full, quran-19-zechariah-and-john, quran-43-zukhruf-abraham-and-silver-roofs, quran-93-94-forenoon-and-expansion]
+  matches: []
+- unit: ane-sinuhe-w1-royal-letter
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-sinuhe-w1-reply-letter
+  checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-sinuhe-w1-return-and-audience
+  checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-sinuhe-w1-queen-and-princesses
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-sinuhe-w1-rehabilitation-and-tomb
+  checked: [quran-12-joseph-full, quran-2-talut-jalut, quran-38-job]
+  matches: []
+- unit: ane-sinuhe-w2-titles-and-kings-death
+  checked: [quran-12-joseph-full, quran-43-zukhruf-pharaoh-claims, quran-15-abraham-guests-lot]
+  matches: []
+- unit: ane-sinuhe-w2-flight-and-retenu
+  checked: [quran-28-moses-kills-and-flees, quran-33-trench, quran-18-moses-and-the-servant, quran-15-abraham-guests-lot]
+  matches: []
+- unit: ane-sinuhe-w2-eulogy-and-yaa
+  checked: [quran-2-talut-jalut, quran-7-idol-request, quran-12-joseph-full]
+  matches: []
+- unit: ane-sinuhe-w2-duel-fragments
+  checked: [quran-26-noah, quran-12-joseph-full, quran-10-noah]
+  matches: []
+- unit: ane-sinuhe-w2-prayer-fragments
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-3-imran-mary-zechariah, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-sinuhe-w3-audience-fragment
+  checked: [quran-17-iblis-and-adam, quran-43-zukhruf-abraham-and-silver-roofs, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-sinuhe-w4-commander-fragment
+  checked: [quran-8-ratio-captives, quran-8-fifth-and-badr-vision, quran-26-noah]
+  matches: []
+- unit: ane-sinuhe-w5-opening-and-flight
+  checked: [quran-12-joseph-full, quran-43-zukhruf-pharaoh-claims, quran-15-abraham-guests-lot]
+  matches: []
+- unit: ane-sinuhe-w5-retenu-and-eulogy
+  checked: [quran-8-ratio-captives, quran-12-joseph-full, quran-15-abraham-guests-lot]
+  matches: []
+- unit: ane-sinuhe-w5-duel
+  checked: [quran-12-joseph-full, quran-26-noah, quran-10-noah]
+  matches: []
+- unit: ane-sinuhe-w5-reflection-and-prayer
+  checked: [quran-18-moses-and-the-servant, quran-93-94-forenoon-and-expansion, quran-12-joseph-full]
+  matches: []
+- unit: ane-sinuhe-w5-royal-letter
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-sinuhe-w5-reply-letter
+  checked: [quran-3-sovereignty, quran-17-iblis-and-adam, quran-28-qarun]
+  matches: []
+- unit: ane-sinuhe-w5-return-and-audience
+  checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-sinuhe-w6-tomb-and-end
+  checked: [quran-28-pharaohs-tower-and-end, quran-2-talut-jalut, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-sinuhe-w7-opening
+  checked: [quran-12-joseph-full, quran-39-mercy-and-last-day, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-sinuhe-w8-opening-and-flight
+  checked: [quran-12-joseph-full, quran-43-zukhruf-pharaoh-claims, quran-15-abraham-guests-lot]
+  matches: []
+- unit: ane-sinuhe-w9-opening
+  checked: [quran-12-joseph-full, quran-39-mercy-and-last-day, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-sinuhe-w10-opening-flight-eulogy
+  checked: [quran-12-joseph-full, quran-43-zukhruf-pharaoh-claims, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-twobrothers-brothers-and-herds
+  checked: [quran-12-joseph-full, quran-27-solomon-ants-hoopoe-sheba, quran-20-moses-favors-recalled, quran-26-noah]
+  matches: []
+- unit: ane-twobrothers-seduction-attempt
+  checked: [quran-12-joseph-full, quran-20-moses-favors-recalled, quran-4-marriage-forbidden-degrees, quran-7-lot]
+  matches: []
+- unit: ane-twobrothers-false-accusation
+  checked: [quran-12-joseph-full, quran-24-penalties-and-lian, quran-24-ifk-slander, quran-4-marriage-forbidden-degrees]
+  matches: []
+- unit: ane-twobrothers-rage-and-flight
+  checked: [quran-12-joseph-full, quran-5-two-sons-of-adam, quran-26-noah]
+  matches: []
+- unit: ane-twobrothers-gods-intervention
+  checked: [quran-12-joseph-full, quran-4-false-accusation, quran-54-qamar-ad-thamud-lot-pharaoh, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-twobrothers-oath-mutilation-heart
+  checked: [quran-12-joseph-full, quran-5-two-sons-of-adam, quran-26-noah]
+  matches: []
+- unit: ane-twobrothers-valley-of-cedar-and-new-wife
+  checked: [quran-57-hadid-iron-and-monasticism, quran-16-daughters-and-the-bee, quran-12-joseph-full, quran-4-creation-kinship-orphans]
+  matches: []
+- unit: ane-twobrothers-lock-of-hair-and-death
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-33-marriage-rules, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-twobrothers-anubis-revives-bata
+  checked: [quran-2-sleeper-hundred-years, quran-2-four-birds, quran-12-joseph-full, quran-26-noah]
+  matches: []
+- unit: ane-twobrothers-bull-at-court
+  checked: [quran-12-joseph-full, quran-26-noah, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-twobrothers-persea-trees-and-conception
+  checked: [quran-19-mary-and-jesus, quran-16-daughters-and-the-bee, quran-20-adam-iblis, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-twobrothers-bata-king-and-colophon
+  checked: [quran-12-joseph-full, quran-26-noah, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-truthfalsehood-blinding-of-truth
+  checked: [quran-12-joseph-full, quran-5-two-sons-of-adam, quran-4-false-accusation]
+  matches: []
+- unit: ane-truthfalsehood-lady-and-son
+  checked: [quran-20-moses-favors-recalled, quran-12-joseph-full, quran-19-zechariah-and-john, quran-46-ahqaf-parents-and-the-scornful-son]
+  matches: []
+- unit: ane-truthfalsehood-son-avenges-father
+  checked: [quran-12-joseph-full, quran-18-moses-and-the-servant, quran-37-sacrifice-of-son]
+  matches: []
+- unit: ane-truthfalsehood-trial-and-punishment
+  checked: [quran-5-torah-gospel-judgment, quran-84-splitting, quran-81-folding-up, quran-7-opening-scales]
+  matches: []
+- unit: ane-westcar-1-djoser-tale-end
+  checked: [quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-westcar-1-ubaoner-wax-crocodile
+  checked: [quran-7-moses-pharaoh, quran-24-penalties-and-lian, quran-20-moses-pharaoh-magicians, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-westcar-snefru-rowing-maidens
+  checked: [quran-26-moses-and-pharaoh, quran-7-moses-pharaoh, quran-18-moses-and-the-servant, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-westcar-djedefhor-fetches-djedi
+  checked: [quran-20-moses-pharaoh-magicians, quran-7-moses-pharaoh, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-westcar-djedi-at-court
+  checked: [quran-26-moses-and-pharaoh, quran-2-four-birds, quran-3-annunciation-jesus, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-westcar-prophecy-of-three-kings
+  checked: [quran-28-pharaoh-oppression-infant-moses, quran-2-talut-jalut, quran-20-moses-pharaoh-magicians, quran-27-solomon-ants-hoopoe-sheba]
+  matches: []
+- unit: ane-westcar-birth-of-three-kings
+  checked: [quran-11-abraham-guests, quran-20-moses-favors-recalled, quran-3-imran-mary-zechariah, quran-19-mary-and-jesus]
+  matches: []
+- unit: ane-westcar-crowns-in-barley
+  checked: [quran-12-joseph-full, quran-16-daughters-and-the-bee, quran-19-mary-and-jesus, quran-20-moses-favors-recalled]
+  matches: []
+- unit: ane-westcar-servant-betrayal
+  checked: [quran-28-pharaoh-oppression-infant-moses, quran-20-moses-favors-recalled, quran-12-joseph-full]
+  matches: []
+- unit: ane-cth1-w1-nesa-fragment
+  checked: [quran-15-abraham-guests-lot, quran-26-hud-ad, quran-11-lot]
+  matches: []
+- unit: ane-cth1-w2-anitta-takes-nesa
+  checked: [quran-3-sovereignty, quran-28-qarun, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth1-w2-campaigns-and-gate-tablet
+  checked: [quran-44-dukhan-blessed-night-and-smoke, quran-68-qalam-the-pen-and-the-slanderer, quran-26-hud-ad]
+  matches: []
+- unit: ane-cth1-w2-zalpa-and-hattusa
+  checked: [quran-59-hashr-banu-nadir-and-fay, quran-26-hud-ad, quran-105-elephant]
+  matches: []
+- unit: ane-cth1-w2-salatiwara-temples-hunt-purushanda
+  checked: [quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-cth1-w3-hattusa-curse-fragment
+  checked: [quran-29-lot, quran-11-lot, quran-11-pharaoh-leads]
+  matches: []
+- unit: ane-cth1-w4-hunt-fragment
+  checked: [quran-38-solomon-horses-throne, quran-6-pagan-offerings-cattle, quran-27-solomon-ants-hoopoe-sheba]
+  matches: []
+- unit: ane-cth1-w5-temples-hunt-salatiwara-purushanda
+  checked: [quran-3-sovereignty, quran-38-solomon-horses-throne, quran-28-qarun]
+  matches: []
+- unit: ane-cth1-w6-duplicate-fragments
+  checked: [quran-28-qarun, quran-3-sovereignty, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth-19-w1-fragment
+  checked: [quran-26-salih-thamud, quran-21-heedless-and-doomed-towns, quran-24-household-etiquette]
+  matches: []
+- unit: ane-cth-19-w2-founders
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth-19-w2-hantili-murders-mursili
+  checked: [quran-5-two-sons-of-adam, quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-cth-19-w2-ammuna-to-telipinu-accession
+  checked: [quran-41-steadfast-and-repel-evil, quran-7-moses-pharaoh, quran-3-badr-uhud, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-cth-19-w2-telipinu-reign
+  checked: [quran-2-talut-jalut, quran-4-trusts-obedience, quran-7-idol-request]
+  matches: []
+- unit: ane-cth-19-w2-succession-law
+  checked: [quran-6-final-reckoning, quran-53-najm-goddesses-and-scrolls, quran-4-false-accusation, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth-19-w2-storehouses
+  checked: [quran-12-joseph-full, quran-83-defrauders, quran-2-talut-jalut, quran-29-lot]
+  matches: []
+- unit: ane-cth-19-w2-laws-fragments
+  checked: [quran-5-two-sons-of-adam, quran-4-homicide-law, quran-2-retaliation-bequest]
+  matches: []
+- unit: ane-cth-19-w3-prologue
+  checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut]
+  matches: []
+- unit: ane-cth-19-w3-zidanta-ammuna
+  checked: [quran-7-moses-pharaoh, quran-5-two-sons-of-adam, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-cth-19-w3-storehouses
+  checked: [quran-2-talut-jalut, quran-47-muhammad-battle-and-rivers, quran-11-lot]
+  matches: []
+- unit: ane-cth-19-w3-laws
+  checked: [quran-2-retaliation-bequest, quran-5-two-sons-of-adam, quran-4-creation-kinship-orphans, quran-4-kalala-ruling]
+  matches: []
+- unit: ane-cth-19-w4-officials
+  checked: [quran-4-trusts-obedience, quran-29-destroyed-nations, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-cth-19-w5-prologue-hantili
+  checked: [quran-17-commandments, quran-5-two-sons-of-adam, quran-7-moses-pharaoh, quran-12-joseph-full]
+  matches: []
+- unit: ane-cth-19-w5-storehouses-laws
+  checked: [quran-11-lot, quran-26-lot, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-cth-19-w6-fragments
+  checked: [quran-4-trusts-obedience, quran-7-moses-pharaoh, quran-15-abraham-guests-lot]
+  matches: []
+- unit: ane-cth-19-w7-akkadian-prologue
+  checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut]
+  matches: []
+- unit: ane-cth-19-w7-akkadian-famine-laws
+  checked: [quran-4-creation-kinship-orphans, quran-11-lot, quran-26-lot]
+  matches: []
+- unit: ane-cth-19-w8-w10-fragments
+  checked: [quran-7-moses-pharaoh, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-cth-25-zidanza-pilliya
+  checked: [quran-9-baraa-treaties, quran-4-hypocrites-two-factions, quran-8-treaties-peace]
+  matches: []
+- unit: ane-cth-26-paddatissu-fugitives
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-4-false-accusation, quran-36-people-of-the-town]
+  matches: []
+- unit: ane-cth-26-paddatissu-theft-homicide
+  checked: [quran-5-war-on-god-theft, quran-4-wealth-household, quran-2-retaliation-bequest]
+  matches: []
+- unit: ane-cth-41-i-1-sunassura-short
+  checked: [quran-99-earthquake, quran-25-destroyed-peoples, quran-48-fath-clear-victory-and-pledge, quran-9-baraa-treaties]
+  matches: []
+- unit: ane-cth-41-i-2-sunassura-prologue
+  checked: [quran-25-destroyed-peoples, quran-48-fath-clear-victory-and-pledge, quran-2-talut-jalut, quran-28-qarun]
+  matches: []
+- unit: ane-cth-41-i-2-sunassura-mutual
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-8-fifth-and-badr-vision, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-cth-41-i-2-sunassura-hurri
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-8-treaties-peace, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-cth-41-i-2-sunassura-borders
+  checked: [quran-23-believers-succeed, quran-5-holy-land-refusal, quran-18-dhul-qarnayn]
+  matches: []
+- unit: ane-cth-41-i-3-and-4-fragments
+  checked: [quran-8-ratio-captives, quran-48-fath-clear-victory-and-pledge, quran-8-treaties-peace]
+  matches: []
+- unit: ane-cth-41-ii-1-sunassura-hittite
+  checked: [quran-8-ratio-captives, quran-5-war-on-god-theft, quran-4-women-orphans-justice]
+  matches: []
+- unit: ane-cth-41-ii-2-sunassura-hittite
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-9-baraa-treaties, quran-4-false-accusation]
+  matches: []
+- unit: ane-cth-42-huqqana-preamble-loyalty
+  checked: [quran-112-114-unity-and-refuge, quran-23-believers-succeed, quran-48-fath-clear-victory-and-pledge, quran-58-mujadila-zihar-and-secret-counsel]
+  matches: []
+- unit: ane-cth-42-huqqana-witnesses
+  checked: [quran-99-earthquake, quran-9-baraa-treaties, quran-2-patience-signs, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-cth-42-huqqana-curses-conditions
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-3-sovereignty, quran-9-baraa-treaties]
+  matches: []
+- unit: ane-cth-42-huqqana-palace
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-5-bequest-witnesses, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-cth-42-huqqana-sexual-laws
+  checked: [quran-4-marriage-forbidden-degrees, quran-24-privacy-modesty-marriage, quran-58-mujadila-zihar-and-secret-counsel, quran-4-wealth-household]
+  matches: []
+- unit: ane-cth-42-huqqana-wives-prisoners
+  checked: [quran-4-marriage-forbidden-degrees, quran-4-wealth-household, quran-33-marriage-rules]
+  matches: []
+- unit: ane-cth-44-telipinu-priest
+  checked: [quran-23-believers-succeed, quran-2-talut-jalut, quran-4-trusts-obedience]
+  matches: []
+- unit: ane-cth-50-sarri-kusuh-carchemish
+  checked: [quran-9-baraa-treaties, quran-2-talut-jalut, quran-7-idol-request]
+  matches: []
+- unit: ane-cth-51-i-prologue-tusratta
+  checked: [quran-8-ratio-captives, quran-2-talut-jalut, quran-5-holy-land-refusal]
+  matches: []

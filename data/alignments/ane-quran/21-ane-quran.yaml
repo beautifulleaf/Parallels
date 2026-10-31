@@ -1,0 +1,1132 @@
+# ANE x Quran side-by-side pass, chunk 21 (Ugarit: RS letters and deeds; KTU Baal Cycle 1.1-1.5). Judged blind, from the originals.
+new_motifs:
+  house-of-silver-and-gold:
+    label: A dwelling built or roofed with silver and gold
+    cluster: kingship
+  fire-kindled-to-make-bricks-for-a-lofty-house:
+    label: Fire is kindled to make the bricks of a lofty house or tower
+    cluster: kingship
+  six-days-of-building-work:
+    label: A great building work takes six days to complete
+    cluster: creation
+  who-the-sovereign-god-feeds:
+    label: The sole sovereign god is the one who feeds (gods, men, all)
+    cluster: divine
+  speech-of-heaven-and-earth-humans-do-not-understand:
+    label: Heaven, earth and inanimate things have a speech that humans do not understand
+    cluster: nature
+  insatiable-appetite-of-the-underworld:
+    label: The personified underworld speaks of its own unfilled appetite
+    cluster: death
+  seven-and-eight-paired-with-the-wind:
+    label: A storm wind is paired with a seven/eight count
+    cluster: nature
+  refusal-to-bow-in-the-divine-assembly:
+    label: In the divine assembly some withhold the obeisance the others perform
+    cluster: divine
+  gleaming-gift-to-win-favour:
+    label: A gift of silver and gold is sent to win a powerful figure's favour
+    cluster: kingship
+  craftsman-casts-furnishings-for-a-lord:
+    label: A superhuman craftsman casts metal vessels and furniture for a lord
+    cluster: kingship
+  killer-unknown-in-a-community:
+    label: A man is killed within a community and the killer is unknown
+    cluster: law
+  estate-of-a-man-without-a-son:
+    label: Who inherits the estate of a man who dies without a son
+    cluster: law
+  contracted-brother-inherits:
+    label: A partner bound by contract or pact, not by blood, inherits a share
+    cluster: law
+  divination-singles-out-a-man-on-a-ship:
+    label: Divination or lots decide against a particular man at a ship's sailing
+    cluster: ritual
+  travellers-refused-food-by-a-town:
+    label: Travellers or envoys are refused food by the people of a town or land
+    cluster: ethics
+  metal-supplied-to-make-a-god:
+    label: Metal is gathered or requested to make a god
+    cluster: ritual
+  grain-begged-from-a-foreign-ruler-in-famine:
+    label: In famine a party asks a foreign ruler for grain, offering goods
+    cluster: kingship
+reviewed:
+- unit: ane-ktu-1-1-ii-anat-summoned
+  checked:
+  - quran-20-sea-crossing-sinai
+  - quran-79-pharaoh-and-cosmos
+  - quran-2-throne-verse
+  - quran-11-opening-throne-on-water
+  matches: []
+- unit: ane-ktu-1-1-iii-kothar-summoned
+  checked:
+  - quran-19-zechariah-and-john
+  - quran-19-abraham-and-his-father
+  - quran-79-pharaoh-and-cosmos
+  - quran-2-throne-verse
+  matches: []
+- unit: ane-ktu-1-1-iv-el-names-yamm
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-23-moses-aaron-mary
+  matches: []
+- unit: ane-ktu-1-1-v-haddu-bound
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-10-opening-creation
+  matches: []
+- unit: ane-ktu-1-2-i-yamm-embassy
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-19-prophets-remembered
+  - quran-38-adam-iblis
+  matches:
+  - with: quran-38-adam-iblis
+    motif: refusal-to-bow-in-the-divine-assembly
+    refs:
+    - KTU 1.2 I:14-15
+    - KTU 1.2 I:30-31
+    with_refs:
+    - 38:73
+    - 38:74
+    relation: divergence
+    record:
+      agent:
+      - Yamm's two envoys
+      - Iblis
+      action:
+      - do not fall down or bow before the assembly
+      - refuses to prostrate
+      place:
+      - the full assembly of the gods on Mount Ll
+      - among the angels
+      quoted:
+      - lpʿn il ltpl ltštḥwy pḫr mʿd qmm
+      - fa-sajada l-malāʾikatu kulluhum ajmaʿūna illā iblīs istakbara
+      outcome:
+      - they deliver Yamm's demand standing and El yields Baal
+      - Iblis is expelled and cursed
+    note: 'In the divine assembly the expected obeisance is withheld: the envoys are ordered al tpl al tštḥwy pḫr mʿd and arrive lpʿn il ltpl ltštḥwy pḫr mʿd qmm ''at El''s feet they did not fall, did not bow to the assembly; standing they spoke'', while the gods lower their heads to their knees; 38:73-74 fa-sajada l-malāʾikatu kulluhum ajmaʿūn illā iblīs istakbara. By their master''s command and successful in Ugarit; out of pride and punished in Q.'
+- unit: ane-ktu-1-2-ii-fragment
+  checked:
+  - quran-29-emigrate-and-trust
+  - quran-11-noah
+  - quran-25-signs-shadow-seas
+  matches: []
+- unit: ane-ktu-1-2-iii-house-for-yamm-athtar
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-2-throne-verse
+  matches: []
+- unit: ane-ktu-1-2-iv-baal-defeats-yamm
+  checked:
+  - quran-44-dukhan-pharaoh-drowned
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  matches: []
+- unit: ane-ktu-1-3-i-feast-on-zaphon
+  checked:
+  - quran-23-moses-aaron-mary
+  - quran-38-adam-iblis
+  - quran-52-tur-garden-and-challenge
+  - quran-73-enwrapped
+  matches: []
+- unit: ane-ktu-1-3-ii-anat-battle
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-12-joseph-full
+  matches: []
+- unit: ane-ktu-1-3-iii-anat-slain-monsters
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-4-creation-kinship-orphans
+  matches: []
+- unit: ane-ktu-1-3-iii-message-on-zaphon
+  checked:
+  - quran-19-zechariah-and-john
+  - quran-19-abraham-and-his-father
+  - quran-20-sea-crossing-sinai
+  - quran-79-pharaoh-and-cosmos
+  - quran-17-polemic-and-resurrection
+  matches:
+  - with: quran-17-polemic-and-resurrection
+    motif: speech-of-heaven-and-earth-humans-do-not-understand
+    refs:
+    - KTU 1.3 III:22-28
+    with_refs:
+    - '17:44'
+    relation: divergence
+    record:
+      agent:
+      - tree, stone, heaven, earth, deeps, stars
+      - the seven heavens, the earth and all in them
+      action:
+      - speak and whisper to one another
+      - glorify God with praise
+      recipient:
+      - one another
+      - God
+      quoted:
+      - rgm ʿṣ wlḫšt abn tant šmm ʿm arṣ ... rgm ltdʿ nšm wltbn hmlt arṣ
+      - wa-in min shayʾin illā yusabbiḥu bi-ḥamdihi wa-lākin lā tafqahūna tasbīḥahum
+      outcome:
+      - Baal knows it and will reveal it to Anat on Ṣapan
+      - humans do not understand it
+    note: 'Inanimate creation has a speech that humans cannot grasp: rgm ʿṣ wlḫšt abn, tant šmm ʿm arṣ, thmt ʿmn kbkbm ... rgm ltdʿ nšm wltbn hmlt arṣ ''the word of tree and whisper of stone, the sighing of heaven with earth ... a word men do not know and the multitudes of the earth do not understand''; 17:44 tusabbiḥu lahu s-samāwātu s-sabʿu wa-l-arḍu ... wa-lākin lā tafqahūna tasbīḥahum. In Baal it is a secret passing between parts of the cosmos, which the god will reveal; in Q it is praise addressed to God.'
+- unit: ane-ktu-1-3-iv-anat-to-zaphon
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-12-joseph-full
+  matches: []
+- unit: ane-ktu-1-3-v-anat-threatens-el
+  checked:
+  - quran-19-prophets-remembered
+  - quran-20-sea-crossing-sinai
+  - quran-28-call-at-the-tree
+  - quran-4-creation-kinship-orphans
+  matches: []
+- unit: ane-ktu-1-3-vi-messengers-to-kothar
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-25-signs-shadow-seas
+  matches: []
+- unit: ane-ktu-1-4-i-kothar-casts-gifts
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-16-blessings-of-creation
+  - quran-34-david-solomon
+  matches:
+  - with: quran-34-david-solomon
+    motif: craftsman-casts-furnishings-for-a-lord
+    refs:
+    - KTU 1.4 I:23-43
+    with_refs:
+    - '34:12'
+    - '34:13'
+    relation: divergence
+    record:
+      agent:
+      - Kothar-and-Hasis the craftsman god
+      - jinn by permission of their Lord
+      action:
+      - pours molten silver and gold into furnishings
+      - make what he wishes; God makes molten copper flow
+      object:
+      - canopy, couch, throne, footstool, table, a bowl with wild bulls
+      - sanctuaries, statues, basins like reservoirs, fixed cauldrons
+      recipient:
+      - Athirat (as gift for Baal's cause)
+      - Solomon
+      quoted:
+      - yṣq ksp lalpm ḫrṣ yṣqm lrbbt ... sʿ il dqt kamr
+      - wa-asalnā lahu ʿayna l-qiṭr ... wa-jifānin ka-l-jawābi wa-qudūrin rāsiyāt
+    note: 'A superhuman craftsman pours metal into great vessels and furniture for a lord: Kothar at the bellows yṣq ksp ... yšlḥ ḫrṣ ... ṯlḥn il ... sʿ il ... dbh rumm lrbbt ''he poured silver, cast gold ... a god''s table, a god''s bowl with wild bulls by ten-thousands''; for Solomon wa-asalnā lahu ʿayna l-qiṭr and jinn make maḥārība wa-tamāthīla wa-jifānin ka-l-jawāb. A craftsman god in Ugarit; in Q God supplies the molten metal and jinn work under threat of punishment.'
+- unit: ane-ktu-1-4-ii-athirat-by-sea
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-19-prophets-remembered
+  - quran-27-solomon-ants-hoopoe-sheba
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: gleaming-gift-to-win-favour
+    refs:
+    - KTU 1.4 II:26-29
+    with_refs:
+    - '27:35'
+    - '27:36'
+    relation: divergence
+    record:
+      agent:
+      - Baal and Anat
+      - the queen of Sheba
+      object:
+      - gifts gleaming with silver and gold
+      - a gift (hadiyya)
+      recipient:
+      - Athirat
+      - Solomon
+      quoted:
+      - ktʿn ẓl ksp wnrt ḫrṣ šmḫ rbt aṯrt ym
+      - a-tumiddūnani bi-mālin ... bal antum bi-hadiyyatikum tafraḥūn
+      outcome:
+      - the recipient rejoices and is won over
+      - the recipient refuses; the givers are the ones who rejoice in gifts
+    note: 'A gift of wealth sent to win a powerful figure: Athirat, afraid the visitors come to slay her sons, ktʿn ẓl ksp wnrt ḫrṣ šmḫ rbt aṯrt ym ''when she saw the gleam of silver and the glow of gold, Lady Athirat of the Sea rejoiced''; Solomon a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun ... bal antum bi-hadiyyatikum tafraḥūn. The same verb of joy (šmḫ / fariḥa) is the recipient''s in Ugarit, the senders'' in Q.'
+- unit: ane-ktu-1-4-iii-baal-insulted
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-19-zechariah-and-john
+  matches: []
+- unit: ane-ktu-1-4-iv-athirat-before-el
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-7-sabbath-town
+  matches: []
+- unit: ane-ktu-1-4-v-house-granted
+  checked:
+  - quran-19-prophets-remembered
+  - quran-20-sea-crossing-sinai
+  - quran-28-call-at-the-tree
+  - quran-7-lot
+  matches: []
+- unit: ane-ktu-1-4-vi-palace-built-fire
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-28-pharaohs-tower-and-end
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches:
+  - with: quran-43-zukhruf-abraham-and-silver-roofs
+    motif: house-of-silver-and-gold
+    refs:
+    - KTU 1.4 VI:34-38
+    with_refs:
+    - '43:33'
+    - '43:34'
+    - '43:35'
+    relation: divergence
+    record:
+      agent:
+      - Baal
+      - God (hypothetically)
+      object:
+      - a house of silver and a palace of gold
+      - houses with roofs of silver and gold ornament
+      recipient:
+      - Baal himself
+      - those who disbelieve in the Merciful
+      quoted:
+      - bhty bnt dt ksp hkly dtm ḫrṣ
+      - li-buyūtihim suqufan min fiḍḍatin ... wa-zukhrufan
+      outcome:
+      - Baal rejoices and feasts the gods in it
+      - it is only the enjoyment of this world (matāʿ al-ḥayāt al-dunyā)
+    note: 'A dwelling built of silver and gold: sb ksp lrqm ḫrṣ nsb llbnt ... bhty bnt dt ksp hkly dtm ḫrṣ ''my house I have built of silver, my palace of gold'' is the god''s glory and the climax of the cycle; 43:33-35 suqufan min fiḍḍatin wa-maʿārija ... wa-abwāban wa-sururan ... wa-zukhrufan would be granted to unbelievers but for fear that all would become one community, and is mere matāʿ.'
+  - with: quran-28-pharaohs-tower-and-end
+    motif: fire-kindled-to-make-bricks-for-a-lofty-house
+    refs:
+    - KTU 1.4 VI:22-35
+    with_refs:
+    - '28:38'
+    relation: divergence
+    record:
+      action:
+      - fire is set in the house
+      - fire is kindled on the clay
+      instrument:
+      - fire
+      - fire
+      object:
+      - silver and gold become plates and bricks
+      - clay (for baked brick)
+      recipient:
+      - Baal's palace
+      - Pharaoh's lofty tower (ṣarḥ)
+      quoted:
+      - tšt išt bbhtm ... ḫrṣ nsb llbnt
+      - fa-awqid lī yā hāmānu ʿalā ṭ-ṭīni fa-jʿal lī ṣarḥan
+      outcome:
+      - Baal's house is finished and he is acclaimed king
+      - Pharaoh hopes to look up to the god of Moses and is drowned
+    note: 'Fire is the means by which the bricks of a lofty dwelling are made: tšt išt bbhtm nblat bhklm ... ḫrṣ nsb llbnt ''fire was set in the house, flames in the palace ... the gold turned into bricks (lbnt)''; Pharaoh, who knows no god but himself: fa-awqid lī yā hāmānu ʿalā ṭ-ṭīn ''kindle (fire) for me, Haman, upon the clay, and make me a tower''. The god''s palace of fired precious brick against the would-be god''s tower of fired clay.'
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: six-days-of-building-work
+    refs:
+    - KTU 1.4 VI:24-35
+    with_refs:
+    - '50:38'
+    relation: divergence
+    record:
+      object:
+      - Baal's palace
+      - the heavens and the earth and what is between them
+      time:
+      - six days of burning; done on the seventh
+      - six days
+      number:
+      - 6
+      - 6
+      quoted:
+      - ḫmš ṯdṯ ym tikl išt ... mk bšbʿ ymm td išt
+      - fī sittati ayyāmin wa-mā massanā min lughūb
+      outcome:
+      - Baal rejoices and holds a feast
+      - no weariness touched God
+    note: 'A great work counted out in six days: the fire eats in the house hn ym wṯn ... ṯlṯ kbʿ ym ... ḫmš ṯdṯ ym, and mk bšbʿ ymm ''then on the seventh day'' it dies down and the house is complete, followed by Baal''s feast; 50:38 khalaqnā s-samāwāti wa-l-arḍa ... fī sittati ayyāmin wa-mā massanā min lughūb, with no seventh-day sequel. The object (a palace vs. the cosmos) differs; the six-day count and its close do the work.'
+- unit: ane-ktu-1-4-vii-window-opened-voice
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-favors-recalled
+  - quran-20-sea-crossing-sinai
+  - quran-19-prophets-remembered
+  - quran-6-mercy-judgment
+  matches:
+  - with: quran-6-mercy-judgment
+    motif: who-the-sovereign-god-feeds
+    refs:
+    - KTU 1.4 VII:49-52
+    with_refs:
+    - '6:14'
+    relation: divergence
+    record:
+      agent:
+      - Baal
+      - God
+      action:
+      - fattens gods and men and sates the multitudes of earth
+      - feeds and is not fed
+      recipient:
+      - gods and men
+      - unspecified (all)
+      quoted:
+      - aḥdy dymlk ʿl ilm dymru ilm wnšm dyšbʿ hmlt arṣ
+      - wa-huwa yuṭʿimu wa-lā yuṭʿam
+      outcome:
+      - Baal feasts on fatlings with the gods (VI:40-59)
+      - God takes no food
+    note: 'The sole sovereign is defined as the one who feeds: aḥdy dymlk ʿl ilm dymru ilm wnšm dyšbʿ hmlt arṣ ''I alone rule over the gods, who fatten gods and men, who sate the multitudes of the earth''; 6:14 fāṭiri s-samāwāti wa-l-arḍi wa-huwa yuṭʿimu wa-lā yuṭʿam ''he feeds and is not fed''. Q adds the negation; Baal, who feeds the gods, himself feasts in the same tablet.'
+- unit: ane-ktu-1-4-viii-messengers-to-mot
+  checked:
+  - quran-2-the-cow
+  - quran-7-moses-pharaoh
+  - quran-15-prologue-and-heavens
+  - quran-23-moses-aaron-mary
+  matches: []
+- unit: ane-ktu-1-5-i-mot-threatens-baal
+  checked:
+  - quran-12-joseph-full
+  - quran-18-moses-and-the-servant
+  - quran-20-samiri-calf
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: insatiable-appetite-of-the-underworld
+    refs:
+    - KTU 1.5 I:14-22
+    with_refs:
+    - '50:30'
+    relation: divergence
+    record:
+      agent:
+      - Mot (Death)
+      - Jahannam
+      action:
+      - boasts of his insatiable throat
+      - asks for more
+      quoted:
+      - pnpš npš lbim thw hm brlt anḫr bym
+      - hali mtalaʾti wa-taqūlu hal min mazīd
+      outcome:
+      - Baal is to go down into his throat
+      - Hell is never full
+    note: 'The personified underworld speaks of its own unfilled appetite: Mot''s message npš lbim thw ... brlt anḫr bym ... hm šbʿ ydty bṣʿ hm ks ymsk nhr ''is my throat not a lion''s of the steppe, a whale''s in the sea ... seven portions in my bowl, a river to mix my cup?''; 50:30 yawma naqūlu li-jahannama hali mtalaʾti wa-taqūlu hal min mazīd. Mot threatens a god; Gehenna answers God''s question.'
+- unit: ane-ktu-1-5-ii-baal-servant-of-mot
+  checked:
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-44-dukhan-zaqqum-and-garden
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  - quran-29-emigrate-and-trust
+  matches: []
+- unit: ane-ktu-1-5-iii-iv-mot-invited
+  checked:
+  - quran-6-mercy-judgment
+  - quran-44-dukhan-zaqqum-and-garden
+  - quran-47-muhammad-battle-and-rivers
+  matches: []
+- unit: ane-ktu-1-5-v-baal-descends-heifer
+  checked:
+  - quran-7-lot
+  - quran-8-meccan-plots
+  - quran-11-lot
+  - quran-4-prayer-of-fear
+  - quran-69-haqqa-destroyed-peoples-and-the-throne
+  matches:
+  - with: quran-69-haqqa-destroyed-peoples-and-the-throne
+    motif: seven-and-eight-paired-with-the-wind
+    refs:
+    - KTU 1.5 V:6-9
+    with_refs:
+    - '69:6'
+    - '69:7'
+    relation: echo
+    record:
+      object:
+      - wind, with seven lads and eight boars
+      - a roaring wind, for seven nights and eight days
+      number:
+      - 7 and 8
+      - 7 and 8
+      quoted:
+      - qḥ ʿrptk rḥk mdlk mṭrtk ... šbʿt ġlmk ṯmn ḫnzrk
+      - bi-rīḥin ṣarṣarin ʿātiya sakhkharahā ʿalayhim sabʿa layālin wa-thamāniyata ayyāmin
+      outcome:
+      - Baal goes down to death
+      - ʿĀd lie felled like hollow palm trunks
+    note: 'The storm''s wind is paired with a seven/eight count: Baal is told to take ʿrptk rḥk mdlk mṭrtk ... šbʿt ġlmk ṯmn ḫnzrk ''your clouds, your wind, your thunderbolt, your rain ... your seven lads, your eight boars''; ʿĀd perish bi-rīḥin ṣarṣarin ... sabʿa layālin wa-thamāniyata ayyām. The same 7//8 pairing, attendants in Ugarit, nights and days in Q; the tablet repeats it at V:19-21 (77 and 88 times).'
+- unit: ane-ugarit-ktu3-2-42-prostration-gods-of-cyprus
+  checked:
+  - quran-85-constellations
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-ktu3-4-168-garments-list
+  checked:
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-62-jumua-unlettered-donkey-and-friday
+  matches: []
+- unit: ane-ugarit-rs-20-0015-enbiyani-copper-donkeys
+  checked:
+  - quran-85-constellations
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-44-dukhan-blessed-night-and-smoke
+  matches: []
+- unit: ane-ugarit-rs-20-0017-ushnatu-zukuraya
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-20-0021-ushnatu-baaliya-oath
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-10-moses-pharaoh
+  matches: []
+- unit: ane-ugarit-rs-20-0022-carchemish-zibaya-arzigana
+  checked:
+  - quran-24-penalties-and-lian
+  - quran-5-bequest-witnesses
+  - quran-24-ifk-slander
+  - quran-2-the-cow
+  matches:
+  - with: quran-2-the-cow
+    motif: killer-unknown-in-a-community
+    refs:
+    - Ugarit RS 20.0022 r:15-26
+    with_refs:
+    - 2:72
+    - 2:73
+    relation: divergence
+    record:
+      agent:
+      - the men of Arzigana
+      - you (Israel)
+      action:
+      - swear they did not kill him and do not know who did
+      - disputed over the slain man
+      object:
+      - a woman's husband killed in the town
+      - a slain soul
+      quoted:
+      - šumma ... ina āli niddukū yānu-ma ša iddukūšu nīde-mi
+      - wa-idh qataltum nafsan fa-ddāraʾtum fīhā
+      outcome:
+      - an oath of disclaimer, or else compensation into the widow's hand
+      - God brings out what you hid; strike him with part of the cow
+    note: 'A man killed within a community and the killer unknown: the men of Arzigana are to swear (litmû) ''we did not kill the woman''s husband in the town; we do not know who killed him'' (yānu-ma ša iddukūšu nīde-mi), or pay her; 2:72-73 qataltum nafsan fa-ddāraʾtum fīhā wa-llāhu mukhrijun mā kuntum taktumūn, fa-qulnā ḍribūhu bi-baʿḍihā. In Ugarit the oath of disclaimer closes the case; in Q God exposes the hidden killer through the slaughtered cow.'
+- unit: ane-ugarit-rs-20-0023-sakinu-rapanu-patunu
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-83-defrauders
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-20-0033-commander-awaits-pharaoh
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-7-moses-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-ugarit-rs-20-0150-son-to-father-assyrian
+  checked:
+  - quran-3-sovereignty
+  - quran-9-closing
+  - quran-12-joseph-full
+  matches: []
+- unit: ane-ugarit-rs-20-0158-betiilu-garibanu
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-20-0172-kadesh-offerings
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-ugarit-rs-20-0174a-king-ushnatu-border
+  checked:
+  - quran-9-closing
+  - quran-3-sovereignty
+  - quran-36-people-of-the-town
+  matches: []
+- unit: ane-ugarit-rs-20-0178-rapanu-binshipti
+  checked:
+  - quran-33-zayd-seal-of-prophets
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-19-mary-and-jesus
+  matches: []
+- unit: ane-ugarit-rs-20-0200b-kadesh-prefect
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-9-closing
+  - quran-64-taghabun-day-of-loss-and-household-enemies
+  matches: []
+- unit: ane-ugarit-rs-20-0225-baal-haballa-blessing
+  checked:
+  - quran-9-closing
+  - quran-3-sovereignty
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-20-0239-madae-stolen-oxen
+  checked:
+  - quran-89-dawn
+  - quran-15-abraham-guests-lot
+  - quran-100-chargers
+  matches: []
+- unit: ane-ugarit-rs-20-0242-fragment
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-9-closing
+  - quran-64-taghabun-day-of-loss-and-household-enemies
+  matches: []
+- unit: ane-ugarit-rs-20-0255a-stones-and-ships
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-ugarit-rs-21-0007c-ewri-huda
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-9-closing
+  - quran-64-taghabun-day-of-loss-and-household-enemies
+  matches: []
+- unit: ane-ugarit-rs-21-0183-siyannu-shamhu-rashap
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-ugarit-rs-22-0393-urhae-horse
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-100-chargers
+  - quran-51-dhariyat-oaths-and-the-righteous
+  matches: []
+- unit: ane-ugarit-rs-25-0131-arushheba-sash
+  checked:
+  - quran-33-marriage-rules
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-4-kindness-misers-atom
+  - quran-20-samiri-calf
+  matches:
+  - with: quran-20-samiri-calf
+    motif: metal-supplied-to-make-a-god
+    refs:
+    - Ugarit RS 25.0131 b.e:1-r:3
+    with_refs:
+    - 20:87
+    - 20:88
+    relation: divergence
+    record:
+      agent:
+      - Lady Aruš-Heba
+      - the Sāmirī and the people
+      action:
+      - asks for bronze because she is making a godhead
+      - throw in the people's ornaments and bring out a calf
+      object:
+      - bronze
+      - ornaments of the people
+      quoted:
+      - siparra idin inūma ilūta eppaš
+      - ḥummilnā awzāran min zīnati l-qawmi fa-qadhafnāhā ... fa-akhraja lahum ʿijlan jasadan ... hādhā ilāhukum
+      outcome:
+      - none stated
+      - the calf is hailed as god and destroyed (20:97)
+    note: 'Metal is collected to make a god: siparra idin inūma ilūta eppaš ... yānu siparru ''give bronze, since I am making a godhead (ilūtu); there is no bronze in my hand''; 20:87-88 ḥummilnā awzāran min zīnati l-qawmi fa-qadhafnāhā ... fa-akhraja lahum ʿijlan jasadan lahu khuwārun fa-qālū hādhā ilāhukum. A routine request in a widow''s letter against the archetypal sin of Q; the reading ilūta ''godhead'' is the editors''.'
+- unit: ane-ugarit-rs-25-0134-rapanu-abimalku-brotherhood
+  checked:
+  - quran-4-kalala-ruling
+  - quran-4-creation-kinship-orphans
+  - quran-4-inheritance-shares
+  - quran-4-wealth-household
+  matches:
+  - with: quran-4-kalala-ruling
+    motif: estate-of-a-man-without-a-son
+    refs:
+    - Ugarit RS 25.0134 r:10-12
+    with_refs:
+    - 4:176
+    relation: divergence
+    record:
+      agent:
+      - Rapʾanu
+      - a man (imruʾ)
+      action:
+      - dies without a son
+      - perishes without a child
+      recipient:
+      - ʾAbi-malku his contracted brother
+      - his sister (half) or brothers and sisters
+      quoted:
+      - šumma Rapʾanu imūt u māra lā išû ana ʾAbi-malku mimmûšu
+      - ini mruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka wa-huwa yarithuhā in lam yakun lahā walad
+      outcome:
+      - all his goods go to the brother by contract
+      - fixed shares to siblings by kinship
+    note: 'The estate of a man who dies with no son: šumma Rapʾanu imūt u DUMU NU TUKU ana ʾAbi-malku mimmûšu ''if Rapʾanu dies and has no son, all his goods to ʾAbi-malku'', a brother made by deed (ana aḫḫūtišu īpuššu); 4:176 ini mruʾun halaka laysa lahu walad ... fa-lahā niṣfu mā tarak wa-huwa yarithuhā in lam yakun lahā walad. Contract gives the whole estate to an adopted brother; Q gives fixed shares to blood siblings.'
+  - with: quran-4-wealth-household
+    motif: contracted-brother-inherits
+    refs:
+    - Ugarit RS 25.0134 o:1-b.e:1
+    - Ugarit RS 25.0134 r:10-12
+    with_refs:
+    - '4:33'
+    relation: parallel
+    record:
+      agent:
+      - Rapʾanu and ʾAbi-malku
+      - those with whom your right hands have contracted
+      action:
+      - make a contract of brotherhood before the mayor and elders
+      - are bound by a pact
+      outcome:
+      - the partner inherits
+      - give them their share
+      quoted:
+      - ana aḫḫūtišu īpuššu
+      - wa-lladhīna ʿaqadat aymānukum fa-ātūhum naṣībahum
+    note: 'Inheritance through a contracted bond outside blood kinship: Rapʾanu ʾAbi-malku ana aḫḫūtišu īpuššu with 100 shekels and the childless one''s goods pass to the other; 4:33 wa-li-kullin jaʿalnā mawāliya mimmā taraka l-wālidāni wa-l-aqrabūn, wa-lladhīna ʿaqadat aymānukum fa-ātūhum naṣībahum.'
+- unit: ane-ugarit-rs-27-0052-amar-baal-abdu-blood
+  checked:
+  - quran-5-bequest-witnesses
+  - quran-2-debt-contract
+  - quran-24-penalties-and-lian
+  matches: []
+- unit: ane-ugarit-rs-86-2212-beirut-wish
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-26-moses-and-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-ugarit-rs-86-2216-aleppo-lives
+  checked:
+  - quran-5-bequest-witnesses
+  - quran-2-debt-contract
+  - quran-24-penalties-and-lian
+  matches: []
+- unit: ane-ugarit-rs-86-2230-beya-amun-re-seth
+  checked:
+  - quran-10-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-26-moses-and-pharaoh
+  matches: []
+- unit: ane-ugarit-rs-86-2232-urtenu-smiths
+  checked:
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-83-defrauders
+  - quran-38-sad-opening
+  matches: []
+- unit: ane-ugarit-rs-86-2236-shipit-baal-wool-fish
+  checked:
+  - quran-2-talut-jalut
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-ugarit-rs-88-2009-urhi-teshub-hold-city
+  checked:
+  - quran-9-closing
+  - quran-26-noah
+  - quran-26-hud-ad
+  matches: []
+- unit: ane-ugarit-rs-92-2006-dagan-belu-oil-cedar
+  checked:
+  - quran-9-closing
+  - quran-3-closing
+  - quran-112-114-unity-and-refuge
+  matches: []
+- unit: ane-ugarit-rs-92-2017-issur-rashap-urtenu
+  checked:
+  - quran-40-throne-bearers
+  - quran-9-closing
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches: []
+- unit: ane-ugarit-rs-94-2091-amurru-storm-god
+  checked:
+  - quran-11-noah
+  - quran-20-sea-crossing-sinai
+  - quran-29-destroyed-nations
+  matches: []
+- unit: ane-ugarit-rs-94-2174-tyre-baal-dani
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-94-2182-byblos-prison
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  - quran-5-holy-land-refusal
+  matches: []
+- unit: ane-ugarit-rs-94-2187-beirut-cases
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-85-constellations
+  matches: []
+- unit: ane-ugarit-rs-94-2190-yashuta-fragment
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-36-people-of-the-town
+  matches: []
+- unit: ane-ugarit-rs-94-2277-hili-sharruma-kings-illness
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-40-throne-bearers
+  - quran-8-obedience-trial
+  matches: []
+- unit: ane-ugarit-rs-94-2285-ehli-teshub-oil
+  checked:
+  - quran-83-defrauders
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-89-dawn
+  matches: []
+- unit: ane-ugarit-rs-94-2287-kadesh-barley
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-51-dhariyat-oaths-and-the-righteous
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-12-joseph-full
+  matches:
+  - with: quran-12-joseph-full
+    motif: grain-begged-from-a-foreign-ruler-in-famine
+    refs:
+    - Ugarit RS 94.2287 o:11-r:2
+    with_refs:
+    - 12:88
+    relation: parallel
+    record:
+      agent:
+      - the king of Kadesh
+      - Joseph's brothers
+      action:
+      - asks for grain in a famine
+      - ask for full measure of grain
+      recipient:
+      - the king of Ugarit
+      - the ʿazīz of Egypt
+      object:
+      - barley
+      - grain (kayl)
+      quoted:
+      - šeʾu ina libbi mātīya yānu u aḫī šeʾa liddina
+      - massanā wa-ahlanā ḍ-ḍurru wa-jiʾnā bi-biḍāʿatin muzjātin fa-awfi lanā l-kayla
+      outcome:
+      - he will send sheep for offerings in return
+      - they offer scant goods and ask for charity
+    note: 'A famine-struck party asks a foreign ruler for grain and offers goods: ŠE-MEŠ ina libbi KUR-ia yānu u aḫī ŠE-MEŠ liddina u anāku UDU-ḪI.A ana niqê lišēbil ''there is no barley in my land; let my brother give barley, and I will send sheep for offerings''; 12:88 massanā wa-ahlanā ḍ-ḍurr wa-jiʾnā bi-biḍāʿatin muzjātin fa-awfi lanā l-kayl.'
+- unit: ane-ugarit-rs-94-2288-suteans-uriyanni
+  checked:
+  - quran-9-closing
+  - quran-14-moses-and-messengers
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-ugarit-rs-94-2350-sold-troops
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-94-2364-gold-chariot-hazzi
+  checked:
+  - quran-2-talut-jalut
+  - quran-3-sovereignty
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-ugarit-rs-94-2369-sidon-news
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-5-holy-land-refusal
+  matches: []
+- unit: ane-ugarit-rs-94-2374-wife-of-king-dyers
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-ugarit-rs-94-2387-servant-bread-rivers
+  checked:
+  - quran-9-closing
+  - quran-40-throne-bearers
+  - quran-100-chargers
+  matches: []
+- unit: ane-ugarit-rs-94-2390-chariot-toll
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-ugarit-rs-94-2393-ehli-sharruma
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-83-defrauders
+  - quran-100-chargers
+  matches: []
+- unit: ane-ugarit-rs-94-2402-prostrate-to-lady
+  checked:
+  - quran-83-defrauders
+  - quran-100-chargers
+  - quran-84-splitting
+  matches: []
+- unit: ane-ugarit-rs-94-2403-sidon-fragment
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-9-closing
+  - quran-64-taghabun-day-of-loss-and-household-enemies
+  matches: []
+- unit: ane-ugarit-rs-94-2412-ehli-teshub-oil-ships
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-55-rahman-judgment-and-the-four-gardens
+  matches: []
+- unit: ane-ugarit-rs-94-2416-ahimalku-uri-teshub
+  checked:
+  - quran-18-moses-and-the-servant
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-93-94-forenoon-and-expansion
+  matches: []
+- unit: ane-ugarit-rs-94-2419-tag-garment
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-83-defrauders
+  - quran-100-chargers
+  matches: []
+- unit: ane-ugarit-rs-94-2445-ushnatu-elders-ullamu
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-68-qalam-the-pen-and-the-slanderer
+  matches: []
+- unit: ane-ugarit-rs-94-2478-beirut-servant-judged
+  checked:
+  - quran-3-sovereignty
+  - quran-20-moses-pharaoh-magicians
+  - quran-58-mujadila-zihar-and-secret-counsel
+  matches: []
+- unit: ane-ugarit-rs-94-2483-ship-to-tyre-omen
+  checked:
+  - quran-100-chargers
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-37-lot-and-jonah
+  matches:
+  - with: quran-37-lot-and-jonah
+    motif: divination-singles-out-a-man-on-a-ship
+    refs:
+    - Ugarit RS 94.2483 o:12-r:6
+    with_refs:
+    - 37:140
+    - 37:141
+    relation: divergence
+    record:
+      instrument:
+      - extispicy (bārûtu)
+      - casting lots (sāhama)
+      object:
+      - ʾIli-malku the ship's captain
+      - Jonah on the laden ship
+      quoted:
+      - bārûtta ana ʾIli-malku bēl eleppīya ītepuš u bārûssu ul banû
+      - idh abaqa ilā l-fulki l-mashḥūn fa-sāhama fa-kāna mina l-mudḥaḍīn
+      outcome:
+      - the ship is handed to another captain
+      - he is among the losers and the fish swallows him
+    note: 'A divinatory procedure decides against a particular man at a ship''s sailing: bārûtta ana ʾIli-malku bēl eleppīya ītepuš u bārûssu ul banû ''he performed extispicy for Ili-malku, my ship''s captain, and his omen was not good'', so the ship is entrusted to Yabni-ilu; 37:140-141 abaqa ilā l-fulki l-mashḥūn fa-sāhama fa-kāna mina l-mudḥaḍīn. Liver omen before the voyage vs. lots cast aboard; replacement vs. being thrown to the fish.'
+- unit: ane-ugarit-rs-94-2485-oil-for-wool-egypt
+  checked:
+  - quran-3-sovereignty
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches: []
+- unit: ane-ugarit-rs-94-2494-tehi-teshub-to-father
+  checked:
+  - quran-33-zayd-seal-of-prophets
+  - quran-109-111-disbelievers-help-flame
+  - quran-37-sacrifice-of-son
+  matches: []
+- unit: ane-ugarit-rs-94-2511-uriyanni-combat-of-sun
+  checked:
+  - quran-8-fifth-and-badr-vision
+  - quran-89-dawn
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-ugarit-rs-94-2515-sheep-lost
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-85-constellations
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-94-2520-ships-seized-zalhu
+  checked:
+  - quran-10-moses-pharaoh
+  - quran-85-constellations
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-ugarit-rs-94-2524-prefect-dark-heart
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-closing
+  - quran-62-jumua-unlettered-donkey-and-friday
+  matches: []
+- unit: ane-ugarit-rs-94-2559-suteans-ushnatu
+  checked:
+  - quran-8-ratio-captives
+  - quran-8-fifth-and-badr-vision
+  - quran-29-destroyed-nations
+  matches: []
+- unit: ane-ugarit-rs-94-2565-laiya-requests
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-85-constellations
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-ugarit-rs-94-2571-provisions-from-canaan
+  checked:
+  - quran-44-dukhan-pharaoh-drowned
+  - quran-29-abraham-preaches
+  - quran-89-dawn
+  matches: []
+- unit: ane-ugarit-rs-94-2595-clothing-for-copper
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-83-defrauders
+  - quran-100-chargers
+  matches: []
+- unit: ane-ugarit-rs-94-2597-amurru-merchants-killed
+  checked:
+  - quran-3-sovereignty
+  - quran-2-talut-jalut
+  - quran-7-moses-pharaoh
+  - quran-4-homicide-law
+  matches:
+  - with: quran-4-homicide-law
+    motif: payment-for-a-life
+    refs:
+    - Ugarit RS 94.2597 o:6-r:7
+    with_refs:
+    - 4:92
+    relation: divergence
+    record:
+      object:
+      - merchants of Amurru killed in Ugarit
+      - a believer of a people with whom you have a covenant (mīthāq) killed by mistake
+      action:
+      - compensation (šullumu) is demanded
+      - compensation is handed over (diya musallama)
+      recipient:
+      - the king of Amurru
+      - the dead man's family
+      quoted:
+      - tamkārūya ina libbi mātika iddukū ... lā tušallam
+      - fa-diyatun musallamatun ilā ahlihi wa-taḥrīru raqabatin muʾmina
+      outcome:
+      - a threat of the case and a demand to return a man from Egypt
+      - a slave freed or two months' fast
+    note: 'Persons from an allied realm are killed and payment must be made whole: tamkārūya ina libbi mātika iddukkū šunu u sardūšunu lā tušallam ''my merchants were killed in your land and you do not make good (šullumu) them and their packs''; 4:92 wa-in kāna min qawmin baynakum wa-baynahum mīthāqun fa-diyatun musallamatun ilā ahlihi, the same root šlm/slm for handing over the compensation. King to king for merchants in Ugarit; to the family, with a freed slave, for a mistaken killing in Q.'
+- unit: ane-ugarit-rs-94-2598-byblos-bread-and-beer
+  checked:
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-14-moses-and-messengers
+  - quran-18-moses-and-the-servant
+  matches:
+  - with: quran-18-moses-and-the-servant
+    motif: travellers-refused-food-by-a-town
+    refs:
+    - Ugarit RS 94.2598 r:3'-12'
+    with_refs:
+    - 18:77
+    relation: divergence
+    record:
+      agent:
+      - the people of Ugarit
+      - the people of a town
+      action:
+      - do not give bread and beer
+      - refuse to host them
+      recipient:
+      - the king of Byblos's messengers
+      - Moses and the servant of God
+      quoted:
+      - akalu šikaru ina māt Ugarit lā iddannūninnaši
+      - istaṭʿamā ahlahā fa-abaw an yuḍayyifūhumā
+      outcome:
+      - the king protests that he never withheld bread from the other's envoys
+      - the servant rebuilds their falling wall without a wage
+    note: 'Visitors are refused food in a land or town: the messengers report akalu šikaru ina māt Ugarit lā iddannūninnaši ''bread and beer were not given us in Ugarit'', and the king of Byblos invokes reciprocity (šāl šumma anāku akala šikara ana mārī šiprika lā addan); 18:77 istaṭʿamā ahlahā fa-abaw an yuḍayyifūhumā, after which the servant repairs their wall unpaid (law shiʾta la-ttakhadhta ʿalayhi ajran).'
+- unit: ane-ugarit-rs-94-2951-thousand-gods-wine
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-100-chargers
+  - quran-38-solomon-horses-throne
+  matches: []
+- unit: ane-ugarit-rs-94-2996-tarhuntassa-copper
+  checked:
+  - quran-19-abraham-and-his-father
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-ugarit-rs-varia-25-tyre-doors
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-ugarit-rs-varia-27-amurru-prefect
+  checked:
+  - quran-19-abraham-and-his-father
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-ugarit-smea-42-ashkelon-thief
+  checked:
+  - quran-85-constellations
+  - quran-112-114-unity-and-refuge
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  matches: []
