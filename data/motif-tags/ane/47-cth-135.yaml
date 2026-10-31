@@ -365,7 +365,7 @@ units:
     tags:
       - {motif: lean-animal-substituted-for-fattened, refs: ["CTH 264 W7:2'-7'"], note: "mark]an ḫarten[i] ... GU4 naššu arḫ[a ...] ašaun]i anda tarnatt[eni]"}
       - {motif: bathe-after-intercourse-before-serving-god, refs: ["CTH 264 W10:1'-6'"], note: "MUNU]S-i k[uiš ... šak]lain a[ššanuzi ... ITTI M[UNUS-TI ... kui]tman d[UTU-uš]"}
-      - {motif: night-patrols-guard-temple, refs: ["CTH 264 W11:r._Kol._4'-7'"], note: "nu GE6-a[n ...], nu arā[ḫza ...], andu[rza-ma ...], wē[ḫeškandu]"}
+      - {motif: night-patrols-guard-temple, refs: ["CTH 264 W11:r._Kol._4'-r._Kol._7'"], note: "nu GE6-a[n ...], nu arā[ḫza ...], andu[rza-ma ...], wē[ḫeškandu]"}
   - id: ane-cth-264-a-bakers-purity
     tradition: ane-hittite
     title: Instructions for temple personnel, daily bread and the bakers' purity (CTH 264, KUB 13.4 i 1'-20')
