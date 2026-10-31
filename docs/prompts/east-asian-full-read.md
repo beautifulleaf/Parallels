@@ -132,42 +132,18 @@ Tag concepts alongside motifs:
 - sacred kingship
 - the land of the dead (Yomi)
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Hints go in first, with exact `Q surah:verse` references.
+- the Han Kitab ↔ Zhu Xi (gold set)
+- the Nestorian Stele
+- the Kaifeng steles
+- Gun and Yu ↔ the flood
 
-- **The Han Kitab's Quranic and Sufi sources.**
-  - Tag each passage that renders a Quranic verse or a Sufi doctrine:
-    *tawḥīd*, the Names, the "hidden treasure" hadith, the Perfect Human.
-  - Hint the verse: Q 112, 7:180, 57:3, 50:16.
-  - These are the round's strongest **response** leads.
-- **Creation.**
-  - Pangu and the primordial chaos in the *Huainanzi* and the *Kojiki*:
-    heaven and earth separate, and the creating pair stirs the brine.
-  - Compare Q 21:30 and 41:9–12.
-- **The flood.**
-  - Gun and Yu taming the flood (*Shangshu*, *Mengzi*, *Huainanzi*).
-  - Compare Noah: Q 11:25–49, 71. Record what differs: Yu channels the
-    waters, nobody escapes them in an ark, and no sin causes the flood.
-- **The underworld and pollution.**
-  - Izanagi in Yomi and the purification after it.
-  - Compare ablution (Q 5:6) and the barrier between the living and the
-    dead (Q 23:100).
-- **The serpent slain and the sun hidden.**
-  - Susanoo and the eight-headed serpent: compare the Ugaritic and Hittite
-    serpents in the ANE units.
-  - Amaterasu in the cave, the world dark.
-  - The Quran has no serpent combat. Record this as an absence, not a
-    match.
-- **Heaven's mandate.**
-  - Compare kingship given and taken by God (Q 3:26), and the righteous
-    inheriting the earth (Q 21:105).
-- **The Nestorian and Kaifeng steles.**
-  - Christianity and Judaism presented in Daoist, Buddhist and Confucian
-    idiom.
-  - Their Chinese renderings of God, Messiah, scripture and Sabbath set
-    against the Han Kitab's renderings.
-  - These are response leads.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical
 

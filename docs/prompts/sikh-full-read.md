@@ -86,29 +86,18 @@ example:
 - divine judgment (*dargah*, the *lekha* account);
 - the transience of life.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Hints go in first, with exact `Q surah:verse` references.
+- Sheikh Farid's saloks
+- the *Zafarnama*
+- Guru Nanak at Mecca
+- the Arabic and Persian vocabulary of the Guru Granth Sahib
 
-- **Sheikh Farid's saloks.** Death, the grave, the scales, the bridge and the
-  account, with the Gurus' replies set beside them (Q 99:7–8, 101:6–9,
-  82:10–12, the *barzakh*).
-- **Kabir and the Gurus addressing the qazi and the mullah.** What makes a
-  true Muslim; the five prayers re-read; Mecca within. This is response
-  material against Q 2:177 ("righteousness is not that you turn your
-  faces…"), 22:37 and 4:142.
-- **Divine names and attributes in Islamic vocabulary:** Allāh, Raḥīm,
-  Karīm, Khudā, Rabb, Sāhib, *khalq* (creation), *qudrat* (power),
-  *hukam*, *dargāh*. Compare Q 1:1–3, 59:22–24 and 7:180.
-- **The *Zafarnama*.** An oath on the Quran broken; God as witness; the
-  justice owed by a ruler. Compare Q 16:91–92, 2:224 and 4:58.
-- **Guru Nanak at Mecca:** feet toward the Kaʿba; "where is God not?"
-  (Bhai Gurdas Var 1, the janamsakhis). Compare Q 2:115 ("wherever you turn,
-  there is the face of God") and 2:142–150 on the qibla.
-- **The Japji.** The countless worlds and the limits of knowing. Compare
-  Q 31:27, 18:109 ("if the sea were ink"); Japji 22 mentions "the books say
-  eighteen thousand" (*athārah hazār*), against the Islamic "eighteen
-  thousand worlds" tradition and Q 1:2.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical benchmarks (`data/benchmarks/lexical.yaml`)
 
@@ -127,14 +116,12 @@ lemmas, as a loanword list with attestations. These must recover:
 ## After the read
 
 1. **Merge near-duplicate motifs** (and concepts).
-2. **Run the Sikh × Quran comparison**, mainly on the concept layer, with
+2. **Run the Sikh × Quran comparison**, on motifs and concepts alike. A concept match needs a specific shared formulation, argument or image, not a shared or opposed doctrine, with
    neutral ids for divergences, quoting the decisive Gurmukhi (with
    transliteration) and Arabic.
-   - Divergences matter as much as parallels. Examples:
-     - prayer and fasting rejected as external rites, against their command
-       (Q 2:183, 2:238);
-     - transmigration against the single life and resurrection;
-     - the Guru against the Prophet as guide.
+   - Divergences matter as much as parallels, but only specific ones (see
+     "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level
+     contrasts true of whole traditions are not findings: never record them.
 3. **Run the pipeline**, with every benchmark passing.
 4. **Add a dated `docs/CLEANUP.md` entry.** Record the deferred comparisons
    against the Hebrew Bible, the ANE and Hinduism. The Sufi material within

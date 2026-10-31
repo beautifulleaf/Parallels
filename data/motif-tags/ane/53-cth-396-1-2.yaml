@@ -111,6 +111,49 @@ new_motifs:
   five-cups-of-liquids: {label: "Five clay cups are filled with five different liquids for the patient's purification", cluster: purification}
   gods-asked-not-to-let-evil-back-in: {label: "The gods are asked to protect the purified person and not let the evil back into him", cluster: purification}
   blessing-surrounded-by-descendants: {label: "Blessing: may the gods keep the person alive, surrounded by children, grandchildren and descendants", cluster: blessing}
+  as-ewe-recognises-lamb-god-recognise-king: {label: "Analogic prayer: as the ewe recognises her lamb, the cow her calf and father and mother their sons, so may the god recognise (keep favour with) the king, queen and princes", cluster: prayer}
+  black-sheep-burned-whole-with-honey-and-oil: {label: "The black substitute sheep, after the patients have spat into its mouth, is slaughtered, dismembered and burned whole on a hearth with honey and olive oil poured over it", cluster: purification}
+  brick-and-clay-objects-in-inner-room: {label: "A mud brick is laid in the inner room and clay objects and vessels of fat and salt with clay lids are set on it to invoke an angry goddess", cluster: cult}
+  cheese-pleasant-so-may-king-be: {label: "Analogic spell: as this cheese (food and drink) is pleasant, so may it be pleasant for the king and queen", cluster: magic}
+  clay-cumin-dough-never-return-analogy: {label: "Analogic spell: as this clay will not return to the riverbank, black cumin will not turn white nor become another seed, and this dough will not go into the gods' bread, so may the evil tongue not go into the patients' bodies", cluster: magic}
+  clay-tongues-nailed-down-by-sun: {label: "Seven tongues of clay are fixed into the ground and the practitioner declares that father Sun has nailed down the tongues of the day of quarrel (on Mount Amanakkipalu)", cluster: magic}
+  curses-turned-to-the-left-by-sun: {label: "Wax tongues, salt, fat and coriander are waved over the patients and turned with the left hand: may the Sun turn the curses and tongues to the left", cluster: magic}
+  deity-anger-caused-by-human-deed: {label: "The deity is said to be angry because of something a human did against her", cluster: prayer}
+  deity-asked-to-turn-to-king-and-queen: {label: "The deity is asked to turn (her face) towards the king and queen", cluster: prayer}
+  deity-drinks-to-satiety: {label: "The deity is said to drink her fill (niku-) at the offering", cluster: cult}
+  evil-thrown-into-hearth-fire: {label: "Each object that has absorbed the curses (cut wool, fish, wool in fat, wax and clay tongues, dough) is thrown into the hearth fire", cluster: purification}
+  fish-separated-from-sea-analogy: {label: "A fish, 'the bull of the sea', is waved over the quarrelling pair: as it was cut off from the sea, so may the tongues and curses be cut off", cluster: magic}
+  god-image-turned-toward-king: {label: "The god's image is turned with its eyes toward the king, queen and princes", cluster: cult}
+  goddess-vessel-releases-and-hides-evil: {label: "A clay vessel of Šaušga with oil, wool and barley is held under the patients' garment: may it release them to wellbeing and life and hide the evil away in an evil thing", cluster: magic}
+  gods-offered-to-in-turn: {label: "The gods are given offerings one after another in turn (irḫa-)", cluster: cult}
+  hands-and-tongues-of-dough: {label: "Hands and tongues of dough are set on the heads of the quarrelling parties and then broken and waved over them", cluster: magic}
+  huwasi-stones-fall-so-evil-words-fall: {label: "Seven standing stones (huwaši) are set between two fires and kicked over: as these stones fall, so may the words of mouth and tongue that came on the patients fall", cluster: magic}
+  lord-of-the-god-takes-offerings: {label: "At the end of the rite the 'lord of the deity' or the officiant takes what lies before the deity and returns it to the temple", cluster: cult}
+  mother-goddess-withdraws-to-riverbank: {label: "The angry mother goddess (Ḫannaḫanna) has gone back to the riverbank taking the fertility of her womb with her, and is asked why", cluster: myth}
+  nakkussi-carrier-sheep-not-killed: {label: "A sheep is declared the patients' nakkušši (carrier of evil) with mouth and tongue, presented to the Sun, but not killed: the Old Woman takes it for herself", cluster: purification}
+  patient-wiped-with-sun-plant: {label: "The patients' bodies are wiped with a 'plant of the Sun' named tiwariya, wiping off the evil words of mouth and tongue", cluster: purification}
+  patients-cast-off-fine-garments: {label: "After passing through the fire the patients throw off their fine garments and the Old Woman takes them", cluster: purification}
+  patients-lay-hand-on-offering: {label: "The patients place their hand on the bread, cheese and wine before the Old Woman breaks and offers it", cluster: cult}
+  patients-pass-between-fires: {label: "Fires are lit to right and left and the patients pass through the middle of the fire", cluster: purification}
+  patients-spit-curses-into-victims-mouth: {label: "The patients spit into the mouth of the substitute animal: 'you have spat out the evil curses'", cluster: purification}
+  piglet-will-not-see-sky-so-curses-not-see-patients: {label: "A piglet fattened on grass and grain is waved, killed and buried: as it will not see the sky or the other piglets again, so may the evil curses not see the patients again", cluster: magic}
+  ritual-for-quarrelling-kin: {label: "A ritual is prescribed when father and son, husband and wife, or brother and sister quarrel, treating them together", cluster: purification}
+  salamander-carries-off-evil-tongue: {label: "A salamander wrapped in blue and red wool is waved over the patients: may its swift foot carry off the evil tongue on its back and with its teeth", cluster: magic}
+  seven-copper-nails-fix-evil-in-ground: {label: "Seven copper (or bronze) nails are driven into the ground: may the evil be nailed down with its mouth and tongue, with the Sun's help", cluster: magic}
+  seven-vessels-emptied-into-fire-and-broken: {label: "Seven vessels filled with wine, oil, honey, fruit, sinew, salt and fat are emptied one by one into the hearth and broken: may it break with mouth and tongue", cluster: magic}
+  substitute-animal-tarpalli: {label: "An animal (sheep, black sheep, puppy) is held over the patients and declared their substitute (tarpalli-) for their heads and whole persons", cluster: purification}
+  substitute-slaughtered-into-pit: {label: "The substitute animal is slaughtered down into a dug pit, laid in it with sweet bread and wine, and covered with earth", cluster: purification}
+  sun-god-stands-behind-mouth-and-tongue: {label: "The exalted Sun god is declared to stand behind (guarantee the treatment of) mouth and tongue", cluster: magic}
+  sun-god-witnesses-treatment-of-tongues: {label: "The Sun god is told that the quarrelling tongues are set before him and treated today with his help", cluster: magic}
+  sun-let-in-through-window: {label: "The Sun god is let into the house through the window", cluster: cult}
+  three-pairs-of-eyes-of-sun-god: {label: "The Sun god has three pairs of eyes: of watching, of appeasement and of governing and judgment", cluster: theology}
+  tissatwa-wool-in-fat: {label: "White and black wool wrapped in fat, called tiššatwa, is held over the patients to take away what they said with mouth and tongue", cluster: magic}
+  tongues-of-that-day-cut-with-knife: {label: "Red wool is cut with a knife over the quarrelling pair: the god Andaliya has cut off the tongues of the day of quarrel with a knife", cluster: magic}
+  torches-lit-as-sun-departs: {label: "Torches are lit as the Sun deity goes down", cluster: cult}
+  vessel-substitute-broken-underfoot: {label: "A pot waved over the patients is called the substitute for their heads and broken; they smash another vessel with their feet, breaking all the evil words and curses", cluster: magic}
+  washing-with-natron-water: {label: "The patients pour water with natron over their heads and wash their hands and eyes", cluster: purification}
+  water-and-dough-sprinkled-to-purify: {label: "The Old Woman sprinkles the patients with water and waves dough over them: 'be pure again of mouth and tongue'", cluster: purification}
+  water-sealed-in-horn-until-ancient-kings-return: {label: "Water is poured into an ox horn and sealed by the patients: only when the ancient kings return and examine the land and its customs may the seal be broken", cluster: magic}
 units:
   - id: ane-cth-396-1-2-wishuriyant-offerings
     tradition: ane-hittite
@@ -599,3 +642,253 @@ units:
     hints:
       - "Compare Q 5:6 (ablution) and Q 4:43; Lev 14:8-9 and 16:24-28 (washing after the rite)."
       - "Compare Q 22:36-37 (eat of the sacrificed animals; their flesh does not reach God)."
+  - id: ane-cth-403-1-mallidunna-sun-eyes
+    tradition: ane-hittite
+    title: Mallidunna's ritual for the Sun god, the three pairs of eyes of the Sun (CTH 403.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 403.1 §1:1-§8:45"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 403.1 §1:1"], note: "[…-d]unna MUNUSŠU.GI; name and town restored"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 403.1 §1:2", "CTH 403.1 §2:7-9"], note: "mān dUTU-un mugāmi 'when I invoke (rouse) the Sun god'; bread set at the window (GIŠAB-i)"}
+      - {motif: three-pairs-of-eyes-of-sun-god, refs: ["CTH 403.1 §4:12-18"], note: "dUTU-aš IGI.ḪI.A-ŠU 3 TAPAL: eyes of watching (šakuwayauwaš), of appeasement (waršiyattaš), of governing and judgment (maniyaḫ- … ḫanešnaš)"}
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 403.1 §4:17-18"], note: "ḫanešnaš IGI.ḪI.A 'eyes of judgment' by which he decides (arḫa ariškizzi) for Hatti"}
+      - {motif: torches-lit-as-sun-departs, refs: ["CTH 403.1 §6:27-28", "CTH 403.1 §8:42-45"], note: "dUTU-uš=kan paizzi … 9 GIŠzupparu lukkanzi 'the Sun goes … they light nine torches'"}
+      - {motif: deity-drinks-to-satiety, refs: ["CTH 403.1 §6:29"], note: "[dUTU] URUPÚ-na=wa=za nikta 'the Sun goddess of Arinna drinks her fill'"}
+      - {motif: gods-offered-to-in-turn, refs: ["CTH 403.1 §8:40"], note: "DINGIR.MEŠ irḫanzi"}
+    hints:
+      - "Compare Q 6:76-79 (Abraham sees the sun set and says 'I love not those that set') and Q 41:37 (prostrate not to the sun)."
+      - "God who sees: compare Q 40:19 (He knows the treachery of the eyes) and Zech 4:10, 2 Chr 16:9 (the eyes of the LORD range through the earth)."
+  - id: ane-cth-403-2-mallidunna-hannahanna
+    tradition: ane-hittite
+    title: Mallidunna's ritual to rouse the angry Ḫannaḫanna (CTH 403.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 403.2 §1:1-§8:45"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 403.2 §1:2-3", "CTH 403.2 §8:45"], note: "[m]ug[aḫḫi] restored; colophon: dḪannaḫannaš mugauwaš AWAT fMallidunna 'word of Mallidunna for the invocation of Ḫannaḫanna'"}
+      - {motif: brick-and-clay-objects-in-inner-room, refs: ["CTH 403.2 §1:4-6", "CTH 403.2 §2:7-9"], note: "INA É.ŠÀ SIG4 teḫḫi; vessels of fat and salt closed with clay lids"}
+      - {motif: mother-goddess-withdraws-to-riverbank, refs: ["CTH 403.2 §3:11-14", "CTH 403.2 §7:35"], note: "DINGIR.MAḪ kuwat … appa- (to the riverbank, restored) … annittal[watar] … ginuwaš 'the fertility of your womb'; she has brought (it) from the riverbank"}
+      - {motif: deity-anger-caused-by-human-deed, refs: ["CTH 403.2 §3:15-20"], note: "kardimiyatta- 'angered'; DUMU.LÚ.U19.LU-ma kuitki iēt 'what a human did'"}
+      - {motif: deity-asked-to-turn-to-king-and-queen, refs: ["CTH 403.2 §7:34"], note: "anda ne[ya-] restored 'turn to the king and queen'"}
+      - {motif: lord-of-the-god-takes-offerings, refs: ["CTH 403.2 §8:38-43"], note: "BĒL DINGIR-LIM dāi; the queen takes back stool and cloth of the deity; anointed with oil and returned to its place"}
+      - {motif: scribal-colophon, refs: ["CTH 403.2 §8:44-45"]}
+    hints:
+      - "Compare Q 42:49-50 (God gives daughters or sons or makes barren whom He wills) against a goddess who withholds fertility."
+      - "Compare 1 Sam 1 (Hannah's barrenness) and Gen 30:1-2 ('am I in God's place who withheld from you the fruit of the womb?')."
+  - id: ane-cth-403-3-1-sun-offerings-recognise
+    tradition: ane-hittite
+    title: Offerings to the Sun god, 'as the ewe recognises her lamb' (CTH 403.3.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 403.3.1 §1:1-§4:29"]
+    tags:
+      - {motif: sun-let-in-through-window, refs: ["CTH 403.3.1 §2:2"], note: "dUTU-uš [GIŠlutt]anza anda tarnai 'the Sun is let in through the window'; partly restored"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 403.3.1 §2:4-11"], note: "'eat the soft warm soaked bread … may your soul be pleasant (ZI-KA mīeštu), drink wine … step on the upper road, let king, queen and princes be supreme (šarlai)'"}
+      - {motif: drinking-the-god-seated-or-standing, refs: ["CTH 403.3.1 §2:12-13", "CTH 403.3.1 §4:23"], note: "DINGIR-LIM adanzi akuwanzi 'they eat and drink the deity'"}
+      - {motif: god-image-turned-toward-king, refs: ["CTH 403.3.1 §3:14-17"], note: "IGI.ḪI.A-ŠU anda nāi 'she turns him with his eyes inward'; dUTU-uš … anda neyan 'the Sun is turned to king, queen and princes'"}
+      - {motif: as-ewe-recognises-lamb-god-recognise-king, refs: ["CTH 403.3.1 §3:19-22"], note: "UDU-uš māḫḫan SILA4-an kanešzi … attaš annaš DUMU-ŠUNU kaneššanzi … zig=a dUTU-uš … QATAMMA kaneššan ḫ[ark]"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 403.3.1 §3:19-21"], note: "here as an analogy for the Sun's favour to the king, not a god's return"}
+      - {motif: lord-of-the-god-takes-offerings, refs: ["CTH 403.3.1 §4:26-29"], note: "in the evening she lifts up the deity and takes breads, chair, blankets to the temple; tuḫḫušta 'it is finished'"}
+    hints:
+      - "Compare Q 2:146 and 6:20 (they recognise him as they recognise their own sons) for the 'recognition' formula."
+      - "Compare Isa 49:15 (can a woman forget her nursing child?) and Ps 103:13 (as a father has compassion on his children)."
+  - id: ane-cth-403-3-2-sun-offerings-parallel
+    tradition: ane-hittite
+    title: Parallel text to the Sun offerings, cheese, liver and recognition (CTH 403.3.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 403.3.2 §1:1-§5:21"]
+    tags:
+      - {motif: blessing-surrounded-by-descendants, refs: ["CTH 403.3.2 §1:1"], note: "ḫanza[ššuš] 'great-grandchildren'; very fragmentary"}
+      - {motif: cheese-pleasant-so-may-king-be, refs: ["CTH 403.3.2 §3:5-7"], note: "GA.KIN.AG … GIM-an šanizzi 'as this cheese is pleasant' … ANA LUGAL MUNUS.LUGAL QATAMMA šanizzi; ZALAG.GA-an ēšdu 'may it be bright'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 403.3.2 §4:8-10"], note: "NÍG.GIG … DINGIR-LUM zik azzi[kki] 'god, you eat'"}
+      - {motif: as-ewe-recognises-lamb-god-recognise-king, refs: ["CTH 403.3.2 §5:15-19"]}
+      - {motif: drinking-the-god-seated-or-standing, refs: ["CTH 403.3.2 §5:12", "CTH 403.3.2 §5:20"], note: "3-ŠU akuanzi"}
+  - id: ane-cth-404-1-1-mashtigga-incipit-materials
+    tradition: ane-hittite
+    title: Maštigga of Kizzuwatna against family quarrel, incipit and materials (CTH 404.1.I §1-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group I"
+    read: ["CTH 404.1.I §1:1-§5:17"]
+    tags:
+      - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 404.1.I §1:1"], note: "restored from the colophon §46:252"}
+      - {motif: ritual-for-quarrelling-kin, refs: ["CTH 404.1.I §1:2-3"], note: "[ABU DUMU-RU-ya našma LÚMUDU DAM-ZU-ya] našma ŠEŠ NIN-ya: father and son, husband and wife, brother and sister; partly restored"}
+      - {motif: materials-list-of-ritual, refs: ["CTH 404.1.I §2:5-7", "CTH 404.1.I §3:8-9", "CTH 404.1.I §4:10-14", "CTH 404.1.I §5:15-16"], note: "breads, olive oil, figs, raisins, cheeses, blue and red wool, copper hoe and spade, wooden figurines, hands and tongues of dough, wax, natron, tendon, fat, salt, coriander, a fish, a salamander (ḫarziyallaš), 3 white sheep, 1 black sheep, 1 puppy"}
+      - {motif: hands-and-tongues-of-dough, refs: ["CTH 404.1.I §4:12"], note: "ALAM ŠU.ḪI.A EME.ḪI.A kue iyanzi"}
+    hints:
+      - "Compare Q 49:9-10 (make peace between brothers) and Q 4:35, 128 (arbiters to reconcile husband and wife), Q 8:46 (do not quarrel)."
+      - "Compare Q 2:102 (sorcery that separates a man from his wife) and Ps 133:1."
+  - id: ane-cth-404-1-1-mashtigga-tongues-cut
+    tradition: ane-hittite
+    title: Maštigga ritual, the tongues of that day cut, the fish and the tiššatwa thrown into the fire (CTH 404.1.I §6-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group I"
+    read: ["CTH 404.1.I §6:18-§19:92"]
+    tags:
+      - {motif: patients-lay-hand-on-offering, refs: ["CTH 404.1.I §6:19-21"], note: "QATAM tianzi 'they place the hand'"}
+      - {motif: sun-god-witnesses-treatment-of-tongues, refs: ["CTH 404.1.I §7:24-27"], note: "dUTU-i išḫāmi … mantallieš EME.ḪI.A-eš 'the mantalli-tongues' (tongues of dispute) treated today with the Sun"}
+      - {motif: hands-and-tongues-of-dough, refs: ["CTH 404.1.I §8:28-31"], note: "two clothed wooden figures with covered heads at their feet; hands and tongues of dough on their heads"}
+      - {motif: tongues-of-that-day-cut-with-knife, refs: ["CTH 404.1.I §10:34-39"], note: "SÍG mittan … IŠTU GÍR … kuerzi; apēdaš UD-aš EME.ḪI.A dAndaliyaš IŠTU GÍR karšta 'Andaliya has cut off the tongues of those days with a knife'"}
+      - {motif: red-and-white-cord-tied-and-cut, refs: ["CTH 404.1.I §9:32-33", "CTH 404.1.I §10:34-35", "CTH 404.1.I §16:69-70"], note: "blue and red wool thread on their bodies, later removed; red wool cut over them"}
+      - {motif: fish-separated-from-sea-analogy, refs: ["CTH 404.1.I §11:40-46"], note: "kāš KU6-uš arunaš GU4.MAḪ-aš 'this fish is the bull of the sea' … arunaz tuḫḫušta 'cut off from the sea', so may the tongues and curses (ḫurtauš) be cut off"}
+      - {motif: evil-thrown-into-hearth-fire, refs: ["CTH 404.1.I §10:39", "CTH 404.1.I §11:46", "CTH 404.1.I §12:55", "CTH 404.1.I §14:65", "CTH 404.1.I §17:76", "CTH 404.1.I §19:92"], note: "ḫaššī peššiyazzi 'she throws it into the hearth'"}
+      - {motif: tissatwa-wool-in-fat, refs: ["CTH 404.1.I §12:47-55"], note: "white and black wool wrapped in fat, called tiššatwa: 'what you said with mouth and tongue … be cut off from your persons'"}
+      - {motif: curses-turned-to-the-left-by-sun, refs: ["CTH 404.1.I §13:56-61", "CTH 404.1.I §14:62-65"], note: "wax tongues waved over their heads; GÙB-laz kiššaraz 'with the left hand'; dUTU-uš GÙB-la waḫnuddu 'may the Sun turn (curses and tongues) to the left'"}
+      - {motif: clay-tongues-nailed-down-by-sun, refs: ["CTH 404.1.I §18:77-85"], note: "[7 EME.ḪI.A] (restored) katta tarmaizzi … attaš dUTU-uš tarmait 'father Sun has nailed them down'"}
+      - {motif: water-and-dough-sprinkled-to-purify, refs: ["CTH 404.1.I §19:86-92"], note: "šarā papparašzi … šuppiyaḫḫi; parkuweš … ēšten KA×U-it EME-it 'be pure again of mouth and tongue'"}
+    hints:
+      - "Compare Q 49:11-12 (do not defame one another, do not backbite) and Q 104:1; Jas 3:5-8 (the tongue a fire)."
+      - "Compare Ps 64:3 and 120:2-4 (lying tongues and sharp arrows) and Ps 12:3 (the LORD cuts off flattering lips)."
+  - id: ane-cth-404-1-1-mashtigga-sheep-piglet-substitutes
+    tradition: ane-hittite
+    title: Maštigga ritual, sheep and black sheep as substitutes, the patients spit into their mouths, the piglet buried (CTH 404.1.I §20-25)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group I"
+    read: ["CTH 404.1.I §20:93-§25:136"]
+    tags:
+      - {motif: substitute-animal-tarpalli, refs: ["CTH 404.1.I §20:93-98", "CTH 404.1.I §22:108-112"], note: "kāša=wa=šmaš tarpalliš … tuekkaš tarpalliš ēštu; SAG.ḪI.A-aš … ḫūmandaš tarpalliš UDU GE6 'for your heads and whole persons the substitute is a black sheep'"}
+      - {motif: patients-spit-curses-into-victims-mouth, refs: ["CTH 404.1.I §20:98-99", "CTH 404.1.I §21:101", "CTH 404.1.I §23:114"], note: "iššī anda allapaḫḫanzi 'they spit into its mouth'; idālaweš ḫurtauš parā allapaḫten 'you have spat out the evil curses'"}
+      - {motif: substitute-slaughtered-into-pit, refs: ["CTH 404.1.I §21:102-107"], note: "tēkan paddanzi … UDU kattanda ḫattanzi 'they dig the earth and slaughter the sheep down into it', sweet bread and wine, covered over"}
+      - {motif: black-sheep-burned-whole-with-honey-and-oil, refs: ["CTH 404.1.I §23:113-122"], note: "ḫappešnanzi … GUNNI iyanzi … arḫa warnuwanzi … LÀL … Ì SE20-ER-TUM pittalwan šer lāḫuwanzi"}
+      - {motif: ritual-materials-waved-over-patient, refs: ["CTH 404.1.I §23:113", "CTH 404.1.I §25:130"]}
+      - {motif: piglet-will-not-see-sky-so-curses-not-see-patients, refs: ["CTH 404.1.I §24:123-129"], note: "Ú-it ḫalkit warkanza 'fattened with grass and grain' … EGIR nepiš UL aušzi … ŠAḪ.TUR.ḪI.A UL aušzi … ḫurtauš QATAMMA lē uwanzi"}
+      - {motif: evil-buried-in-pit-pegged-down, refs: ["CTH 404.1.I §25:131-136"], note: "the piglet killed and buried in a pit with bread and wine; no pegs here"}
+    hints:
+      - "Compare Q 37:107 (We ransomed him with a great sacrifice) and Q 2:67-73 (the cow slaughtered), Q 22:37 (neither flesh nor blood reaches God)."
+      - "Substitution diverges from Q 6:164, 35:18 (no soul bears another's burden); compare Lev 16:21-22 and Lev 5:5-6."
+  - id: ane-cth-404-1-1-mashtigga-vessels-salamander-carrier
+    tradition: ane-hittite
+    title: Maštigga ritual, clay and cumin, the salamander and puppy, Šaušga's vessel, the carrier sheep and the seven nails (CTH 404.1.I §26-38)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group I"
+    read: ["CTH 404.1.I §26:137-§38:210"]
+    tags:
+      - {motif: clay-cumin-dough-never-return-analogy, refs: ["CTH 404.1.I §26:137-139", "CTH 404.1.I §27:140-146"], note: "[IM-aš] wappui EGIR-pa UL [paizzi] … kappaniya ḫarkiēzzi UL … tamai NUMUN-an UL kišari … DINGIR.MEŠ-aš NINDAḫarši UL paizzi … idāluš lālaš … lē paizzi"}
+      - {motif: salamander-carries-off-evil-tongue, refs: ["CTH 404.1.I §28:147-150", "CTH 404.1.I §29:151-153"], note: "ḫarziyallan … SÍG ZA.GÌN SÍG SA5 … pittalliš GÌR-aš idālun EME-an karapdu … iškišaz … ZU9 'its swift foot carry off the evil tongue, on its back, with its teeth'"}
+      - {motif: substitute-animal-tarpalli, refs: ["CTH 404.1.I §30:154-157"], note: "the puppy: tarpalliš=wa [tuekkaš ḫūma]ndaš"}
+      - {motif: patients-spit-curses-into-victims-mouth, refs: ["CTH 404.1.I §30:158-160"]}
+      - {motif: substitute-slaughtered-into-pit, refs: ["CTH 404.1.I §30:161-162"], note: "UR.TUR kunanzi … ḫariyanzi"}
+      - {motif: water-and-dough-sprinkled-to-purify, refs: ["CTH 404.1.I §31:163-165"]}
+      - {motif: goddess-vessel-releases-and-hides-evil, refs: ["CTH 404.1.I §32:166-171", "CTH 404.1.I §33:172-174"], note: "IM-aš išnūrin with oil, red wool, barley, held under their šeknu-garment: ŠA dIŠTAR išnūriš … aššui TI-anni parā tarnan ḫardu … idālawi … uddanī … munnāiddu"}
+      - {motif: seven-vessels-emptied-into-fire-and-broken, refs: ["CTH 404.1.I §34:175-179", "CTH 404.1.I §35:180-184"], note: "7 DUGḫupuwai with wine, oil, honey, figs, raisins, tendon, salt, fat emptied into the hearth and broken: duwarnattaru=wa=at … KA×U-it EME-it 'let it break with mouth and tongue'; seven flat breads thrown in"}
+      - {motif: nakkussi-carrier-sheep-not-killed, refs: ["CTH 404.1.I §36:185-195"], note: "UDU … nakkuššin ḫalzišša 'she calls it the nakkušši (carrier)'; presented to the Sun: kāša=wa=šmaš nakkuššiš; UDU-ma=kan UL kunanzi 'they do not kill the sheep'; the Old Woman takes it"}
+      - {motif: scapegoat-bears-sins-into-wilderness, refs: ["CTH 404.1.I §36:186-194"], note: "the nakkušši animal is left alive like the Azazel goat, but it is kept by the Old Woman, not sent away"}
+      - {motif: seven-copper-nails-fix-evil-in-ground, refs: ["CTH 404.1.I §37:196-203"], note: "[7 GAG].ḪI.A URUDU … tēkan [tarmai]zzi: [tarm]ān=wa=rat ēštu [KA×]U-it EME-it 'let it be nailed down with mouth and tongue'"}
+      - {motif: patients-lay-hand-on-offering, refs: ["CTH 404.1.I §38:204-206"]}
+      - {motif: sun-god-stands-behind-mouth-and-tongue, refs: ["CTH 404.1.I §38:207-210"], note: "šarlānza=wa dUTU-uš KA×U EME-i EGIR-ŠU 'the exalted Sun is behind mouth and tongue'"}
+    hints:
+      - "Compare Lev 16:8-10, 21-22 (the live goat bears the iniquities) and Lev 14:7; the sheep kept by the practitioner is a divergence."
+      - "Compare Q 37:107, 22:37 and 2:67-73; the substitute and the carrier vs Q 53:38-39 (no bearer bears another's burden; man has only what he strove for)."
+      - "Breaking vessels: compare Jer 19:10-11 (the flask broken before witnesses) and Ps 2:9."
+  - id: ane-cth-404-1-1-mashtigga-fire-vessels-seal
+    tradition: ane-hittite
+    title: Maštigga ritual, through the fire past the fallen huwaši-stones, the vessels broken by foot, washing and the sealed horn (CTH 404.1.I §39-46)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group I"
+    read: ["CTH 404.1.I §39:211-§46:256"]
+    tags:
+      - {motif: patients-pass-between-fires, refs: ["CTH 404.1.I §39:211-212", "CTH 404.1.I §41:222-223"], note: "paḫḫur ZAG-az GÙB-lazziya warnuwanzi; 7 NA4ḫuwaši in the middle; paḫḫur ištarna arḫa paizzi 'he goes through the middle of the fire'"}
+      - {motif: huwasi-stones-fall-so-evil-words-fall, refs: ["CTH 404.1.I §40:218-221", "CTH 404.1.I §41:222"], note: "whole of §40:218-220 restored from duplicates: [kuiš=wa=rat … NA4ḫuwāši … lagāri] 'they are falling'; patients kick them with their feet"}
+      - {motif: patients-cast-off-fine-garments, refs: ["CTH 404.1.I §41:224-226"], note: "TÚG[NÍG.LÀM.MEŠ] restored … arḫa pešš[iyanzi] … MUNUSŠU.GI dāi"}
+      - {motif: vessel-substitute-broken-underfoot, refs: ["CTH 404.1.I §42:227-236"], note: "DUGÚTUL SAG.DU-KUNU tarpalliš 'the pot is substitute for your heads'; the DÍLIM.GAL broken by their feet: duwarnattaru=wa=rat ḫūmanda uddār ḫurtāušša"}
+      - {motif: patient-wiped-with-sun-plant, refs: ["CTH 404.1.I §43:237-241"], note: "dUTU-aš uelku … tiwariya … waršan ēštu idālu uddār KA×U-aš EME-aš"}
+      - {motif: washing-with-natron-water, refs: ["CTH 404.1.I §44:242-245"], note: "NA4nitri anda šuḫḫan … SAG.DU-ŠUNU šarā lāḫuwanzi; ŠU.ḪI.A IGI.ḪI.A arranzi 'hands and eyes'"}
+      - {motif: water-sealed-in-horn-until-ancient-kings-return, refs: ["CTH 404.1.I §45:246-251"], note: "ANA SI.GU4 … šiyanzi; kuwapi karuileš LUGAL.MEŠ EGIR-pa uwanzi … KUR-e šaklinna EGIR-an kappuwanzi … NA4KIŠIB … niniktaru 'when the ancient kings return and examine the land and the customs, then let this seal be broken'"}
+      - {motif: scribal-colophon, refs: ["CTH 404.1.I §46:252-256"], note: "DUB.1.KAM QATI AWAT fMaštigga MUNUS URUKizzuwatni"}
+    hints:
+      - "Passing through fire: compare Q 21:68-69 (fire made cool and safe for Abraham) as a contrast; and Num 31:23, Isa 43:2."
+      - "The seal until the ancient kings return: compare Q 18:9-26 (the sleepers raised in a later age) only loosely; Dan 12:4 (seal the book until the time of the end) and Isa 8:16."
+      - "Compare Q 5:6 (wash faces and hands) for washing hands and eyes."
+  - id: ane-cth-404-1-2-mashtigga-version-ii-a
+    tradition: ane-hittite
+    title: Maštigga ritual, second manuscript group, tiššatwa to the clay and cumin (CTH 404.1.II §1-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group II (Kummanni colophon)"
+    read: ["CTH 404.1.II §1:1-§19:103"]
+    tags:
+      - {motif: ritual-for-quarrelling-kin, refs: ["CTH 404.1.II §1:1-4"], note: "ḫalluwanzi 'they quarrel'; taksan … anda tittanumi 'when I put them together'"}
+      - {motif: tissatwa-wool-in-fat, refs: ["CTH 404.1.II §2:5-13"], note: "black wool only here (SÍG GE6)"}
+      - {motif: curses-turned-to-the-left-by-sun, refs: ["CTH 404.1.II §3:14-19", "CTH 404.1.II §4:20-23"]}
+      - {motif: hands-and-tongues-of-dough, refs: ["CTH 404.1.II §5:24-29", "CTH 404.1.II §6:30-34"], note: "variant: ud-da-a-ar 'words' for 'curses' in §6:33"}
+      - {motif: clay-tongues-nailed-down-by-sun, refs: ["CTH 404.1.II §7:35-42"]}
+      - {motif: water-and-dough-sprinkled-to-purify, refs: ["CTH 404.1.II §8:43-49"]}
+      - {motif: substitute-animal-tarpalli, refs: ["CTH 404.1.II §9:50-55", "CTH 404.1.II §12:65-70"]}
+      - {motif: patients-spit-curses-into-victims-mouth, refs: ["CTH 404.1.II §9:56", "CTH 404.1.II §10:57-58", "CTH 404.1.II §13:71"]}
+      - {motif: substitute-slaughtered-into-pit, refs: ["CTH 404.1.II §10:59-61", "CTH 404.1.II §11:62-64"]}
+      - {motif: black-sheep-burned-whole-with-honey-and-oil, refs: ["CTH 404.1.II §13:72-75", "CTH 404.1.II §14:76-79"]}
+      - {motif: piglet-will-not-see-sky-so-curses-not-see-patients, refs: ["CTH 404.1.II §15:80-86", "CTH 404.1.II §16:87-93"]}
+      - {motif: clay-cumin-dough-never-return-analogy, refs: ["CTH 404.1.II §17:94-98", "CTH 404.1.II §18:99-101", "CTH 404.1.II §19:102-103"], note: "variant: the vessel here is išnura- not ḫupuwai-"}
+    hints:
+      - "As in group I: compare Q 37:107, 22:37 and Lev 16:21-22."
+  - id: ane-cth-404-1-2-mashtigga-version-ii-b
+    tradition: ane-hittite
+    title: Maštigga ritual, second manuscript group, salamander to the sealed horn and colophon of Ḫanikkuili (CTH 404.1.II §20-44)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group II (Kummanni colophon)"
+    read: ["CTH 404.1.II §20:104-§44:215"]
+    tags:
+      - {motif: salamander-carries-off-evil-tongue, refs: ["CTH 404.1.II §20:104-107", "CTH 404.1.II §21:108-110"], note: "variant: IŠTU EME.ḪI.A-ŠU 'with its tongues' for 'teeth'"}
+      - {motif: substitute-animal-tarpalli, refs: ["CTH 404.1.II §22:111-114"]}
+      - {motif: substitute-slaughtered-into-pit, refs: ["CTH 404.1.II §23:115-119"]}
+      - {motif: goddess-vessel-releases-and-hides-evil, refs: ["CTH 404.1.II §25:123-127", "CTH 404.1.II §26:128-131"], note: "variant: blue wool (SÍG ZA.GÌN) instead of red"}
+      - {motif: seven-vessels-emptied-into-fire-and-broken, refs: ["CTH 404.1.II §27:132-134", "CTH 404.1.II §28:135-138", "CTH 404.1.II §29:139-141"], note: "six flat breads here (per translation; numeral lost)"}
+      - {motif: nakkussi-carrier-sheep-not-killed, refs: ["CTH 404.1.II §30:142-144", "CTH 404.1.II §31:145-152"], note: "UDU-ma=kan UL namma kunanzi"}
+      - {motif: seven-copper-nails-fix-evil-in-ground, refs: ["CTH 404.1.II §32:153-156", "CTH 404.1.II §33:157-160"]}
+      - {motif: sun-god-stands-behind-mouth-and-tongue, refs: ["CTH 404.1.II §34:161-163", "CTH 404.1.II §35:164-167"]}
+      - {motif: patients-pass-between-fires, refs: ["CTH 404.1.II §36:168-171", "CTH 404.1.II §39:179-180"]}
+      - {motif: huwasi-stones-fall-so-evil-words-fall, refs: ["CTH 404.1.II §38:175-178"], note: "preserved here: kinun=na … kāša lagāri … apē=ya uddār QATAMMA lagāru"}
+      - {motif: patients-cast-off-fine-garments, refs: ["CTH 404.1.II §39:181-183"]}
+      - {motif: vessel-substitute-broken-underfoot, refs: ["CTH 404.1.II §40:184-193"]}
+      - {motif: patient-wiped-with-sun-plant, refs: ["CTH 404.1.II §41:194-198"]}
+      - {motif: washing-with-natron-water, refs: ["CTH 404.1.II §42:199-203"]}
+      - {motif: water-sealed-in-horn-until-ancient-kings-return, refs: ["CTH 404.1.II §43:204-209"], note: "variant: kinuttaru 'be opened' for niniktaru"}
+      - {motif: scribal-colophon, refs: ["CTH 404.1.II §44:210-215"], note: "Maštigga MUNUS URUKummanni; ŠU IḪan[ikkuili DUB].SAR DUMU INU.GIŠKIRI6"}
+    hints:
+      - "Compare Dan 12:4, 9 (words sealed until the end) and Q 18:9-26."
+  - id: ane-cth-404-1-3-mashtigga-version-iii
+    tradition: ane-hittite
+    title: Maštigga ritual, third manuscript group for a single patient, the tongues nailed on Mount Amanakkipalu (CTH 404.1.III)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Manuscript group III (single patient)"
+    read: ["CTH 404.1.III §1:1-§21:121"]
+    tags:
+      - {motif: clay-tongues-nailed-down-by-sun, refs: ["CTH 404.1.III §1:1-4"], note: "attaš dUTU-uš tarmait … INA ḪUR.SAGAmanakkipalu tarmait 'nailed them on Mount Amanakkipalu'"}
+      - {motif: tissatwa-wool-in-fat, refs: ["CTH 404.1.III §2:5-11"], note: "UDU BABBAR UDU GE6 aniyanun 'I have treated the white and the black sheep'"}
+      - {motif: clay-cumin-dough-never-return-analogy, refs: ["CTH 404.1.III §3:12-19", "CTH 404.1.III §4:20-21"]}
+      - {motif: salamander-carries-off-evil-tongue, refs: ["CTH 404.1.III §5:22-28"]}
+      - {motif: substitute-animal-tarpalli, refs: ["CTH 404.1.III §6:29-32"]}
+      - {motif: patients-spit-curses-into-victims-mouth, refs: ["CTH 404.1.III §6:33-35"], note: "aiišši anda allapaḫḫi (singular)"}
+      - {motif: water-and-dough-sprinkled-to-purify, refs: ["CTH 404.1.III §7:38-40"]}
+      - {motif: goddess-vessel-releases-and-hides-evil, refs: ["CTH 404.1.III §8:41-49"]}
+      - {motif: seven-vessels-emptied-into-fire-and-broken, refs: ["CTH 404.1.III §9:50-58"]}
+      - {motif: nakkussi-carrier-sheep-not-killed, refs: ["CTH 404.1.III §10:59-68"]}
+      - {motif: seven-copper-nails-fix-evil-in-ground, refs: ["CTH 404.1.III §11:69-72", "CTH 404.1.III §12:73-76"], note: "variant: 7 GAG.ḪI.A ZABAR 'bronze' nails; daganzipan tarmaizzi 'nails the earth'"}
+      - {motif: sun-god-stands-behind-mouth-and-tongue, refs: ["CTH 404.1.III §13:77-83"]}
+      - {motif: patients-pass-between-fires, refs: ["CTH 404.1.III §14:84-90", "CTH 404.1.III §16:95-96"]}
+      - {motif: huwasi-stones-fall-so-evil-words-fall, refs: ["CTH 404.1.III §15:91-94"]}
+      - {motif: patients-cast-off-fine-garments, refs: ["CTH 404.1.III §16:97-98"]}
+      - {motif: patient-wiped-with-sun-plant, refs: ["CTH 404.1.III §17:99-103"]}
+      - {motif: washing-with-natron-water, refs: ["CTH 404.1.III §18:104-108"]}
+      - {motif: water-sealed-in-horn-until-ancient-kings-return, refs: ["CTH 404.1.III §19:109-114"]}
+      - {motif: scribal-colophon, refs: ["CTH 404.1.III §20:115-117", "CTH 404.1.III §21:118-121"], note: "SISKUR EN EME 'ritual of the lord of a tongue'; incipit of the next tablet"}

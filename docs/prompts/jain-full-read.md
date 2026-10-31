@@ -78,26 +78,16 @@ Jain texts are largely doctrinal. Tag concepts beside motifs. Examples:
 - **Omniscience** (*kevala-jñāna*).
 - **Rebirth** in the four destinies, among them the hells and the heavens.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Hints go in first, with exact `Q surah:verse` references.
+- the Jain retellings of the Hindu epics
+- Hīravijaya Sūri at Akbar's court
 
-- **No creator.** The Jain cosmos is uncreated, and Haribhadra argues
-  against a creator. Compare Q 2:117, 6:101–102 and 52:35–36 ("were they
-  created by nothing?").
-- **Asceticism.** Monastic renunciation and fasting against Q 57:27
-  ("monasticism they invented"), the fast in Q 2:183–187 and moderation in
-  7:31.
-- **Care for animals and small life.** Compare Q 6:38 ("communities like
-  you"), 27:18–19 (the ants), 5:1–3, 6:145 and 22:36–37 (permitted meat,
-  sacrifice).
-- **The hells and heavens of the cosmos.** Compare the Quranic descriptions
-  of hell and paradise, with their levels and gates (Q 15:44, 39:71–73).
-- **The seers of other traditions honoured** in the *Isibhāsiyāiṃ*. Compare
-  Q 4:164 and 40:78 ("messengers we have not told you of").
-- **The Jain–Mughal encounter.** Akbar's edicts protecting animals on Jain
-  holy days, and the debates at the ʿIbādat-khāna. These are response
-  material.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical
 
@@ -109,13 +99,12 @@ must-recover benchmark. Record what is found.
 ## After the read
 
 1. **Merge** near-duplicate motifs and concepts.
-2. **Compare with the Quran** (Jain × Quran), mainly on the concept layer.
+2. **Compare with the Quran** (Jain × Quran), on motifs and concepts alike. A concept match needs a specific shared formulation, argument or image, not a shared or opposed doctrine.
    - Use neutral ids for divergences, quoting the decisive Prakrit or
      Sanskrit (transliterated) and Arabic.
-   - Record deliberate divergences as carefully as parallels. Examples:
-     - creation by God against an uncreated, eternal world;
-     - the saviour or prophet against the exemplar who has crossed over;
-     - permitted slaughter against *ahiṃsā*.
+   - Divergences matter as much as parallels, but only specific ones (see
+     "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level
+     contrasts true of whole traditions are not findings: never record them.
 3. **Run the pipeline**, with every benchmark passing.
 4. **Add a dated `docs/CLEANUP.md` entry.**
    - Record comparisons against Hinduism, Buddhism and Manichaeism as

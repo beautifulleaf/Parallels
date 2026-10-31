@@ -573,3 +573,433 @@ units:
       - "Divorce initiated by the wife who returns what she received: compare khulʿ, Q 2:229 ('no blame on them for what she gives up to free herself'), and 4:20-21 (do not take back what you gave); HB Deut 24:1-4 (only the husband writes the bill)."
       - "Marrying a slave woman: Q 4:25 (marry believing slave girls with their people's leave and give them their dowries), and the formula 'from this day forever' against Mal 2:16."
       - "The written, witnessed contract: compare Q 2:282 (write the debt, call two witnesses)."
+
+  - id: ane-kai-1-ahiram-coffin-curse
+    tradition: ane-levantine
+    title: Ahiram sarcophagus - the son's coffin for his father and the curse on whoever uncovers it (KAI 1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 1 main:1-11"]
+    tags:
+      - {motif: son-makes-fathers-coffin, refs: ["KAI 1 main:1-2"], note: "ʾrn z pʿl [ʾt]bʿl bn ʾḥrm mlk gbl lʾḥrm ʾbh k šth bʿlm 'this coffin made Ittobaal son of Ahiram ... for Ahiram his father, when he laid him in eternity'"}
+      - {motif: curse-on-tomb-violator, refs: ["KAI 1 main:3-9"], note: "any mlk bmlkm, skn bsknm, commander who uncovers (wygl) this coffin"}
+      - {motif: curse-sceptre-stripped-throne-overturned, refs: ["KAI 1 main:7-9"], note: "tḥtsp ḥṭr mšpṭh thtpk ksʾ mlkh wnḥt tbrḥ ʿl gbl"}
+      - {motif: curse-on-defacer-of-inscription, refs: ["KAI 1 main:10-11"], note: "whʾ ymḥ spr z lpp šbl - meaning of l.11 uncertain"}
+      - {motif: eternal-house-of-the-dead, refs: ["KAI 1 main:2"], note: "bʿlm 'in eternity'"}
+    hints:
+      - "Curse that the sceptre depart: compare Gen 49:10 ('the sceptre shall not depart from Judah'), Hag 2:22 ('I will overturn the throne of kingdoms'), Ezek 19:14."
+      - "The grave as eternal home: compare Eccl 12:5 (bet ʿolam) and Q 102:1-2 (until you visit the graves)."
+
+  - id: ane-kai-4-yehimilk-just-king
+    tradition: ane-levantine
+    title: Yehimilk of Byblos - the temple restored; may the gods prolong the days of a just and upright king (KAI 4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 4 W1:1-7", "KAI 4 W2:1-7"]
+    tags:
+      - {motif: king-restores-ruined-temples, refs: ["KAI 4 W1:1", "KAI 4 W1:2–3", "KAI 4 W2:1-2"], note: "bt z bny yḥmlk ... hʾt ḥwy kl mplt hbtm 'he restored all the ruins of these houses'"}
+      - {motif: gods-prolong-days-of-just-king, refs: ["KAI 4 W1:3–4", "KAI 4 W1:5–6", "KAI 4 W1:6–7", "KAI 4 W2:3-7"], note: "yʾrk bʿlšmm wbʿlt gbl ... ymt yḥmlk wšntw ʿl gbl k mlk ṣdq wmlk yšr lpn ʾl gbl qdšm"}
+      - {motif: assembly-of-holy-gods, refs: ["KAI 4 W1:4–5", "KAI 4 W2:4-5"], note: "wmpḥrt ʾl gbl qdšm 'the assembly of the holy gods of Byblos'"}
+      - {motif: just-and-upright-king, refs: ["KAI 4 W1:6–7", "KAI 4 W1:7"], note: "mlk ṣdq wmlk yšr"}
+    hints:
+      - "'Assembly of the holy ones': compare Ps 89:6-8 (qehal qedoshim), Ps 82:1; the Quran's 'exalted assembly' (al-malaʾ al-aʿla), Q 37:8, 38:69."
+      - "Righteous and upright king: compare Deut 32:4 (God ṣaddiq we-yashar) and Q 38:26 (David as khalifa told to judge with truth)."
+
+  - id: ane-kai-5-abibaal-statue-from-egypt
+    tradition: ane-levantine
+    title: Abibaal of Byblos - (statue) brought from Egypt for the Lady of Byblos (KAI 5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 5 main:1-2"]
+    tags:
+      - {motif: royal-gift-from-egypt-dedicated-to-goddess, refs: ["KAI 5 main:1-2"], note: "[ybʾ] ʾbbʿl mlk [gbl] ... bmṣrm lbʿl[t gbl]; text heavily restored; inscribed on a statue of Shoshenq I"}
+      - {motif: gods-prolong-days-of-just-king, refs: ["KAI 5 main:2"], note: "restored: [tʾrk bʿlt gbl ymt ʾbbʿl wšntw] ʿl gbl"}
+
+  - id: ane-kai-6-elibaal-statue
+    tradition: ane-levantine
+    title: Elibaal of Byblos - statue for the Lady of Byblos (KAI 6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 6 main:1-3"]
+    tags:
+      - {motif: royal-gift-from-egypt-dedicated-to-goddess, refs: ["KAI 6 main:1-2"], note: "mš z pʿl ʾlbʿl ... [lb]ʿlt gbl ʾdtw 'this statue made Elibaal ... for the Lady of Byblos his lady' (on a bust of Osorkon I)"}
+      - {motif: gods-prolong-days-of-just-king, refs: ["KAI 6 main:2-3"], note: "tʾrk bʿlt [gbl ymt ʾ]lbʿl wšntw ʿl [gbl]"}
+
+  - id: ane-kai-7-shipitbaal-wall
+    tradition: ane-levantine
+    title: Shipitbaal of Byblos - the wall built; may the Lady prolong his days (KAI 7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 7 main:1-5"]
+    tags:
+      - {motif: royal-genealogy-three-generations, refs: ["KAI 7 main:1-3"], note: "qr z bny špṭbʿl mlk gbl bn ʾlbʿl mlk gbl byḥmlk mlk gbl 'this wall built Shipitbaal ... son of Elibaal ... son of Yehimilk'"}
+      - {motif: gods-prolong-days-of-just-king, refs: ["KAI 7 main:3-5"], note: "lbʿlt gbl ʾdtw tʾrk bʿlt gbl ymt špṭbʿl wšntw ʿl gbl"}
+    hints:
+      - "Long days as reward: compare Exod 20:12, Deut 5:16 ('that your days may be long'), Prov 3:2; contrast Q 2:96 (the one who wishes to live a thousand years)."
+
+  - id: ane-kai-10-yehawmilk-lady-heard-voice
+    tradition: ane-levantine
+    title: Yehawmilk stele - the Lady of Byblos made him king and heard his voice; altar, gold door, curse (KAI 10)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 10 main:1-16"]
+    tags:
+      - {motif: deity-makes-king, refs: ["KAI 10 main:2"], note: "ʾš pʿltn hrbt bʿlt gbl mmlkt ʿl gbl 'whom the Lady, Baalat of Byblos, made king over Byblos'"}
+      - {motif: deity-heard-my-voice, refs: ["KAI 10 main:2-3", "KAI 10 main:7-8"], note: "wqrʾ ʾnk ʾt rbty bʿlt gbl wšmʿ [..] ql; kmʾš qrʾt ʾt rbty ... wšmʿ ql wpʿl ly nʿm"}
+      - {motif: king-builds-altar-and-gold-door-for-goddess, refs: ["KAI 10 main:3-7"], note: "hmzbḥ nḥšt zn ... whptḥ ḥrṣ zn ... whʿpt ḥrṣ ... hʿrpt zʾ wʿmdh ... 'this bronze altar, this gold doorway, the gold winged disc (?) on the stone, this portico and its pillars'"}
+      - {motif: gods-prolong-days-of-just-king, refs: ["KAI 10 main:8-9"], note: "tbrk bʿlt gbl ʾyt yḥwmlk ... wtḥww wtʾrk ymw wšntw ʿl gbl k mlk ṣdq hʾ"}
+      - {motif: favour-in-eyes-of-gods-and-people, refs: ["KAI 10 main:9-11"], note: "wttn [lw hrbt b]ʿlt gbl ḥn lʿn ʾlnm wlʿn ʿm ʾrṣ z"}
+      - {motif: curse-on-defacer-of-inscription, refs: ["KAI 10 main:11-16"], note: "ʾm tsr mlʾkt zʾ ... wtgl mstrw tsrḥw hrbt bʿlt gbl ʾyt hʾdm hʾ wzrʿw ʾt pn kl ʾln gbl 'may the Lady make that man and his seed stink before all the gods of Byblos'"}
+      - {motif: future-builder-must-keep-founders-name, refs: ["KAI 10 main:11-13"], note: "kl ʾdm ʾš ysp lpʿl mlʾkt ... šm ʾnk yḥwmlk ... tšt ʾtk ʿlt mlʾkt hʾ 'put my name with yours on that work'"}
+    hints:
+      - "'I called and she heard my voice': compare Q 2:186 ('I answer the call of the caller when he calls Me'), Q 40:60, 27:62; HB Ps 18:7, Jonah 2:3."
+      - "Favour in the eyes of God and people: compare Prov 3:4, 1 Sam 2:26; Q 20:39 ('I cast upon you love from Me', Moses)."
+      - "Make him stink before the gods: compare Gen 34:30, Exod 5:21 (hivʾish reiḥenu)."
+
+  - id: ane-kai-13-tabnit-do-not-open
+    tradition: ane-levantine
+    title: Tabnit sarcophagus - priest of Astarte and king; no silver, no gold; do not open me (KAI 13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 13 main:1-11"]
+    tags:
+      - {motif: priest-king-of-sidon, refs: ["KAI 13 main:1-2"], note: "ʾnk tbnt khn ʿštrt mlk ṣdnm bn ʾšmnʿzr khn ʿštrt mlk ṣdnm"}
+      - {motif: tomb-holds-no-treasure, refs: ["KAI 13 main:3-6"], note: "k ʾy ʾr ln ksp ʾy ʾr ln ḥrṣ wkl mnm mšd blt ʾnk škb bʾrn z 'there is no silver with me, no gold, nothing of value; only I lie in this coffin'"}
+      - {motif: curse-on-tomb-violator, refs: ["KAI 13 main:3-4", "KAI 13 main:7", "KAI 13 main:9"], note: "ʾl ʾl tptḥ ʿlty wʾl trgzn 'do not, do not open me and do not disturb me'"}
+      - {motif: tomb-opening-abomination-to-goddess, refs: ["KAI 13 main:8"], note: "k tʿbt ʿštrt hdbr hʾ 'for that thing is an abomination of Astarte' (cf. Hebrew tôʿēbat YHWH)"}
+      - {motif: curse-no-seed-under-sun-no-rest-with-rephaim, refs: ["KAI 13 main:9-11"], note: "ʾl ykn lk zrʿ bḥym tḥt šmš wmškb ʾt rpʾm"}
+      - {motif: rephaim-shades, refs: ["KAI 13 main:11"]}
+    hints:
+      - "'An abomination of the deity': compare the Hebrew formula tôʿēbat YHWH (Deut 7:25, 18:12, Prov 11:1)."
+      - "'Under the sun': compare Eccl 1:3, 9 and passim; 'no rest with the Rephaim': Isa 14:9-10, 26:14, Prov 21:16."
+      - "No treasure in the grave, only the man: compare Q 6:94 ('you have come to Us alone, as We created you the first time, leaving behind what We bestowed on you'), Q 19:80, Job 1:21."
+
+  - id: ane-kai-14-eshmunazar-died-young-curse
+    tradition: ane-levantine
+    title: Eshmunazar II - carried off before his time, the orphan son of a widow; curses on the tomb-opener (KAI 14 Lid 1-13)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 14 Lid:1-13"]
+    tags:
+      - {motif: king-died-young-orphan-son-of-widow, refs: ["KAI 14 Lid:2-3", "KAI 14 Lid:12-13"], note: "ngzlt bl ʿty bn msk ymm ʾzrm ytm bn ʾlmt 'I was snatched away before my time, son of a number of short days, an orphan, son of a widow'"}
+      - {motif: son-of-widow-no-one-cares, refs: ["KAI 14 Lid:3", "KAI 14 Lid:13"], note: "ytm bn ʾlmt; ʾnk nḥn 'I who am to be pitied'"}
+      - {motif: date-by-regnal-year-and-month, refs: ["KAI 14 Lid:1"], note: "byrḥ bl bšnt ʿsr wʾrbʿ 14 lmlky 'in the month Bul, in year fourteen of his reign'"}
+      - {motif: curse-on-tomb-violator, refs: ["KAI 14 Lid:4-8", "KAI 14 Lid:10-11"], note: "qnmy ʾt kl mmlkt wkl ʾdm ʾl yptḥ ʾyt mškb z"}
+      - {motif: tomb-holds-no-treasure, refs: ["KAI 14 Lid:5"], note: "wʾl ybqš bn mnm k ʾy šm bn mnm"}
+      - {motif: do-not-listen-to-those-who-urge-tomb-robbing, refs: ["KAI 14 Lid:6"], note: "ʾp ʾm ʾdmm ydbrnk ʾl tšmʿ bdnm 'even if men speak to you, do not listen to their talk'"}
+      - {motif: curse-no-seed-under-sun-no-rest-with-rephaim, refs: ["KAI 14 Lid:8", "KAI 14 Lid:11-12"], note: "ʾl ykn lm mškb ʾt rpʾm wʾl yqbr bqbr wʾl ykn lm bn wzrʿ tḥtnm"}
+      - {motif: amorite-tall-as-cedars, refs: ["KAI 14 Lid:11-12"], note: "ʾl ykn lm šrš lmṭ wpr lmʿl wtʾr bḥym tḥt šmš 'no root below, no fruit above, no appearance among the living under the sun' - the Amos 2:9 formula as curse"}
+      - {motif: holy-gods-deliver-violator-to-mighty-king, refs: ["KAI 14 Lid:9-10"], note: "wysgrnm hʾlnm hqdšm ʾt mmlk[t] ʾdr ʾš mšl bnm lqṣtnm"}
+    hints:
+      - "Root below and fruit above: Amos 2:9, Isa 37:31, Job 18:16 ('his roots dry up below and his branch withers above'); compare Q 14:26 (the bad tree uprooted, having no stability)."
+      - "Snatched away before his time: compare Ps 102:24-25 ('take me not away in the midst of my days'), Isa 38:10; in the Quran no soul dies before its appointed term, Q 3:145, 63:11."
+      - "The orphan and the widow's son: Q 93:6 ('did He not find you an orphan and shelter you?')."
+
+  - id: ane-kai-14-eshmunazar-temples-dor-joppa
+    tradition: ane-levantine
+    title: Eshmunazar II - temples built with his mother the priestess; Dor and Joppa granted by the lord of kings (KAI 14 Lid 13-22)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 14 Lid:13-22"]
+    tags:
+      - {motif: queen-mother-priestess-co-builder, refs: ["KAI 14 Lid:14-16"], note: "wʾmy ʾmʿštrt khnt ʿštrt rbtn hmlkt ... ʾm bnn ʾyt bt ʾlnm"}
+      - {motif: king-restores-ruined-temples, refs: ["KAI 14 Lid:15-18"], note: "temples of Astarte in Sidon 'land of the sea', of Eshmun 'holy prince' at the spring YDLL in the mountain, of Baal of Sidon"}
+      - {motif: gods-enthroned-in-mighty-heavens, refs: ["KAI 14 Lid:16-17"], note: "wyšrn ʾyt ʿštrt šmm ʾdrm; wyšbny šmm ʾdrm - or a place-name Shamem-Addirim"}
+      - {motif: astarte-name-of-baal, refs: ["KAI 14 Lid:18"], note: "bt lʿštrt šm bʿl 'a temple for Astarte, Name of Baal'"}
+      - {motif: overlord-grants-territory-as-reward, refs: ["KAI 14 Lid:18-20"], note: "ytn ln ʾdn mlkm ʾyt dʾr wypy ʾrṣt dgn hʾdrt ʾš bšd šrn lmdt ʿṣmt ʾš pʿlt ... lʿlm 'the lord of kings (the Persian king) gave us Dor and Joppa, the mighty lands of Dagon in the plain of Sharon'"}
+      - {motif: curse-on-tomb-violator, refs: ["KAI 14 Lid:20-22"], note: "lm ysgrnm ʾlnm hqdšm ... wyqṣn ... wzrʿm lʿlm"}
+    hints:
+      - "God's Name as a divine presence: compare Deut 12:5, 11 (the place where YHWH sets his name) and Exod 23:21 ('my name is in him')."
+      - "Dagon of the coastal plain: compare 1 Sam 5:1-5, Judg 16:23; Sharon in Isa 35:2."
+
+  - id: ane-kai-24-kilamuwa
+    tradition: ane-levantine
+    title: Kilamuwa of Samʾal - kings before achieved nothing; hired Assyria; father and mother to his people; curse (KAI 24)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 24 main:1-16"]
+    tags:
+      - {motif: predecessors-achieved-nothing, refs: ["KAI 24 main:1-5"], note: "mlk gbr ʿl yʾdy wbl pʿl ... wbl pʿl ... wʾnk klmw ... mʾš pʿlt bl pʿl hlpnyhm 'Gabbar ruled and did nothing; BMH did nothing; my father Hayya did nothing; my brother Shaʾil did nothing; what I did, those before did not'"}
+      - {motif: kingdom-consumed-like-fire, refs: ["KAI 24 main:5-7"], note: "bt ʾby bmtkt mlkm ʾdrm wkl šlḥ yd llḥm wkt byd mlkm km ʾš ʾklt zqn wkm ʾš ʾklt yd"}
+      - {motif: hired-foreign-armies, refs: ["KAI 24 main:7-8"], note: "wʾdr ʿly mlk dnnym wškr ʾnk ʿly mlk ʾšr 'the king of the Danunians was mightier than I, and I hired against him the king of Assyria'"}
+      - {motif: girl-sold-for-sheep-man-for-garment, refs: ["KAI 24 main:8"], note: "wʿlmt ytn bš wgbr bswt 'a young woman was given for a sheep and a man for a garment'"}
+      - {motif: king-as-father-mother-brother-to-subjects, refs: ["KAI 24 main:9-11", "KAI 24 main:13"], note: "wʾnk lmy kt ʾb wlmy kt ʾm wlmy kt ʾḥ; the muškabim ytlnn ... km klbm 'lay down like dogs'; tmkt mškbm lyd 'I took the muškabim by the hand'; kms nbš ytm bʾm 'like an orphan's soul toward its mother'"}
+      - {motif: king-makes-poor-rich, refs: ["KAI 24 main:11-13"], note: "wmy bl ḥz pn š štyw bʿl ʿdr ... bʿl bqr wbʿl ksp wbʿl ḥrṣ ... wbymy ksy bṣ 'who never saw a sheep I made lord of a flock ... whoever never saw linen from his youth, in my days was covered with byssus'"}
+      - {motif: curse-on-defacer-of-inscription, refs: ["KAI 24 main:13-16"], note: "wmy yšḥt hspr z yšḥt rʾš bʿl ṣmd ʾš lgbr wyšḥt rʾš bʿl ḥmn ʾš lbmh wrkbʾl bʿl bt"}
+      - {motif: muskabim-and-baaririm-not-to-honour-each-other, refs: ["KAI 24 main:14-15"], note: "mškbm ʾl ykbd lbʿrrm wbʿrrm ʾl ykbd lmškbm - two social classes of Samʾal"}
+      - {motif: sat-on-fathers-throne, refs: ["KAI 24 main:9"], note: "yšbt ʿl ksʾ ʾby"}
+    hints:
+      - "The king as father and mother of the poor: compare Job 29:12-16 ('I was a father to the needy') and Isa 9:5; in the Quran the Prophet is 'closer to the believers than themselves, his wives their mothers', Q 33:6."
+      - "Hiring the king of Assyria against a neighbour: compare Ahaz's appeal to Tiglath-pileser, 2 Kgs 16:7-9, and Isa 7:20 (the razor hired beyond the River)."
+      - "A girl for a sheep, a man for a garment: compare Joel 4:3 ('they gave a boy for a harlot and sold a girl for wine') and Amos 2:6 ('the poor for a pair of sandals')."
+
+  - id: ane-kai-27-arslan-tash-fliers
+    tradition: ane-levantine
+    title: Arslan Tash amulet 1 - incantation against the Fliers and Stranglers; eternal covenant; the doorpost (KAI 27 AT1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 27 W1:1-29"]
+    tags:
+      - {motif: demon-barred-from-house-i-enter, refs: ["KAI 27 W1:4-8"], note: "bt ʾbʾ bl tbʾn wḥṣr ʾdrk bl tdrkn 'the house I enter you shall not enter, the court I tread you shall not tread'"}
+      - {motif: flying-and-strangling-demons, refs: ["KAI 27 W1:1-4", "KAI 27 W1:19-21"], note: "lḥšt lʿptʾ ... wlḥnqt; lʿptʾ bḥdr ḥšk ʿbr pʿm pʿm ll z 'to the fliers in the dark chamber: pass by at once this night'; Sasam son of Padar"}
+      - {motif: eternal-covenant-of-gods-protects-house, refs: ["KAI 27 W1:8-12"], note: "krt ln ʾlt ʿlm ʾšr krt ln wkl bn ʾlm wrb dr kl qdšn 'an eternal covenant Aššur made with us, and all the sons of the gods and the great of the council of all our holy ones'"}
+      - {motif: oath-by-heaven-and-earth, refs: ["KAI 27 W1:13-18"], note: "bʾlt šmm wʾrṣ ʿd ʿlm bʾlt bʿl [zb]l ʾrṣ bʾlt ʾšt ḥwrn ʾš tm py wšbʿ ṣrty wšmnh ʾštm bʿl qdš"}
+      - {motif: doorpost-protected-by-incantation, refs: ["KAI 27 W1:22-26"], note: "mnʿt lpy ptḥy wʾwr lmzzt 'I have denied access to the opening of his door ... to the doorpost' (mzzt, cf. mezuzah)"}
+      - {motif: demon-vanishes-at-sunrise, refs: ["KAI 27 W1:26-29"], note: "yṣʾ šmš kssm ḥlp wldr ʿp 'the sun rises; like a moth vanish and fly away forever'"}
+      - {motif: sons-of-god-as-divine-beings, refs: ["KAI 27 W1:11"], note: "kl bn ʾlm"}
+    hints:
+      - "Refuge from night-time evils: Q 113:3 ('from the evil of darkness when it gathers') and Q 114 (the whisperer who withdraws); Ps 91:5-6 (terror of the night, pestilence stalking in darkness)."
+      - "Words on the doorpost: Deut 6:9, 11:20 (mezuzah); compare Exod 12:23 (the destroyer not allowed to enter)."
+      - "Hauron's wife and her seven rivals: compare the Quranic denial that God has a consort, Q 72:3, 6:101."
+
+  - id: ane-kai-27-arslan-tash-eye
+    tradition: ane-levantine
+    title: "Arslan Tash amulet 2 - against the Splatterers: Baal's chariot, 'Flee, Eye!' (KAI 27 AT2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Phoenician"
+    read: ["KAI 27 W2:1-13"]
+    tags:
+      - {motif: storm-god-harnesses-chariot-against-demon, refs: ["KAI 27 W2:1-5"], note: "bʿl ʾšr mrkbty wrbʿn ʾty ... kʾš bšdh 'Baal harnessed his chariot ... like fire in the field'"}
+      - {motif: evil-eye-banished-by-incantation, refs: ["KAI 27 W2:7-12"], note: "nʿlt mnʿl brḥ ʿyn bdd brʾš mgmr bnt brʾš ḥlm 'I bolted the bolt: flee, Eye! ... from the head of the dreamer'"}
+      - {motif: incantation-matches-written-scroll, refs: ["KAI 27 W2:13"], note: "mnty kmglt 'my incantations correspond to the scroll' (reading uncertain)"}
+    hints:
+      - "The evil eye: compare Q 68:51 ('those who disbelieve would almost strike you down with their eyes') and 113:5 ('the envier when he envies')."
+
+  - id: ane-kai-181-mesha-chemosh-saved-me
+    tradition: ane-levantine
+    title: Mesha Stele - Mesha son of Chemosh-[yat], the high place for Chemosh who saved him (KAI 181 lines 1-4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Moabite"
+    read: ["KAI 181 main:1-4"]
+    tags:
+      - {motif: royal-inscription-first-person-i-am, refs: ["KAI 181 main:1-3"], note: "ʾnk mšʿ bn kmš[yt] mlk mʾb hdybny ʾby mlk ʿl mʾb šlšn št wʾnk mlkty ʾḥr ʾby"}
+      - {motif: high-place-built-for-national-god, refs: ["KAI 181 main:3-4"], note: "wʾʿš hbmt zʾt lkmš bqrḥh b[ns] yšʿ 'I made this high place for Chemosh in Qarḥoh, [a high place of] salvation'"}
+      - {motif: god-saved-king-from-all-assailants, refs: ["KAI 181 main:4"], note: "ky hšʿny mkl hšlkn wky hrʾny bkl śnʾy 'for he saved me from all the kings (?) and let me look (in triumph) on all my enemies'"}
+      - {motif: father-reigned-thirty-years, refs: ["KAI 181 main:2"], note: "šlšn št"}
+    hints:
+      - "Mesha of Moab: 2 Kgs 3:4-27 (Mesha the sheep-breeder rebels after Ahab's death)."
+      - "'He let me look upon my enemies': Ps 54:9, 118:7, 59:11."
+      - "High places for Chemosh: 1 Kgs 11:7 (Solomon builds one); the Quranic polemic against gods of the nations, Q 7:138-140 (Israel asks Moses for a god like theirs)."
+
+  - id: ane-kai-181-mesha-omri-chemosh-angry
+    tradition: ane-levantine
+    title: Mesha Stele - Omri oppressed Moab because Chemosh was angry with his land; Israel perished forever (KAI 181 lines 4-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Moabite"
+    read: ["KAI 181 main:4-9"]
+    tags:
+      - {motif: national-god-angry-with-own-land-gives-it-to-enemy, refs: ["KAI 181 main:5-6"], note: "ʿmry mlk yśrʾl wyʿnw ʾt mʾb ymn rbn ky yʾnp kmš bʾrṣh 'Omri king of Israel oppressed Moab many days, for Chemosh was angry with his land'"}
+      - {motif: king-of-israel-named-in-foreign-record, refs: ["KAI 181 main:4-5", "KAI 181 main:7-8"], note: "ʿmry mlk yśrʾl; wyḥlph bnh 'his son succeeded him' (Ahab, unnamed)"}
+      - {motif: enemy-boast-reversed-by-god, refs: ["KAI 181 main:6-7"], note: "wyʾmr gm hʾ ʾʿnw ʾt mʾb ... wʾrʾ bh wbbth wyśrʾl ʾbd ʾbd ʿlm 'he too said, I will oppress Moab ... but I looked upon him and his house, and Israel perished, perished forever'"}
+      - {motif: god-returns-land-in-kings-days, refs: ["KAI 181 main:7-9"], note: "wyrš ʿmry ʾt [ʾr]ṣ mhdbʾ wyšb bh ymh wḥṣy ymy bnh ʾrbʿn št wyšbh kmš bymy 'Omri possessed the land of Medeba ... forty years, and Chemosh restored it in my days'"}
+      - {motif: forty-years-of-subjection, refs: ["KAI 181 main:8"], note: "ʾrbʿn št"}
+      - {motif: each-nation-possesses-what-its-god-gives, refs: ["KAI 181 main:7-9"], note: "loose: possession (yrš) of land and its restoration by Chemosh"}
+    hints:
+      - "God angry with his own people and handing them to oppressors: the Deuteronomistic pattern of Judg 2:14, 3:8, 2 Kgs 13:3; in the Quran God sends against Israel 'servants of Ours of great might' because of their corruption, Q 17:4-7, and Q 7:167."
+      - "Omri and Ahab: 1 Kgs 16:23-28, 2 Kgs 1:1, 3:4-5 (Moab rebelled after Ahab's death)."
+      - "The enemy's boast and his perishing: compare Pharaoh's 'I am your lord most high' and his drowning, Q 79:24-25, 28:38-40."
+
+  - id: ane-kai-181-mesha-ataroth-nebo-herem
+    tradition: ane-levantine
+    title: Mesha Stele - Ataroth taken, the ariel of Dawdoh; Nebo devoted to Ashtar-Chemosh, the vessels of YHWH dragged before Chemosh; Jahaz (KAI 181 lines 9-21)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Moabite"
+    read: ["KAI 181 main:9-21"]
+    tags:
+      - {motif: king-builds-towns-and-reservoir, refs: ["KAI 181 main:9-10"], note: "wʾbn ʾt bʿlmʿn wʾʿš bh hʾšwḥ wʾbn ʾt qrytn"}
+      - {motif: gadites-dwelt-in-land-of-old, refs: ["KAI 181 main:10-11"], note: "wʾš gd yšb bʾrṣ ʿṭrt mʿlm wybn lh mlk yśrʾl ʾt ʿṭrt 'the men of Gad had dwelt in the land of Ataroth from of old'"}
+      - {motif: city-population-slaughtered-as-spectacle-for-god, refs: ["KAI 181 main:11-12"], note: "wʾhrg ʾt kl hʿm [m]hqr ryt lkmš wlmʾb 'I slew all the people of the city, a satiation (ryt) for Chemosh and Moab'"}
+      - {motif: altar-hearth-ariel, refs: ["KAI 181 main:12-13"], note: "wʾšb mšm ʾt ʾrʾl dwdh wʾ[s]ḥbh lpny kmš bqryt 'I brought back from there the ariel of Dawdoh and dragged it before Chemosh in Qeriyoth'"}
+      - {motif: deportees-resettled-in-conquered-town, refs: ["KAI 181 main:13-14"], note: "wʾšb bh ʾt ʾš šrn wʾt ʾš mḥrt"}
+      - {motif: god-commands-king-go-take-city, refs: ["KAI 181 main:14"], note: "wyʾmr ly kmš lk ʾḥz ʾt nbh ʿl yśrʾl 'Chemosh said to me: Go, take Nebo from Israel'"}
+      - {motif: night-march-battle-dawn-to-noon, refs: ["KAI 181 main:14-15"], note: "wʾhlk bllh wʾltḥm bh mbqʿ hšḥrt ʿd hṣhrm"}
+      - {motif: herem-whole-population-devoted-to-god, refs: ["KAI 181 main:15-17"], note: "wʾhrg klh šbʿt ʾlpn g[b]rn wgrn wgbrt w[gr]t wrḥmt ky lʿštr kmš hḥrmth 'I slew all of it, seven thousand men, boys, women, girls and maidens, for I had devoted it (hḥrmth) to Ashtar-Chemosh'"}
+      - {motif: vessels-of-yhwh-dragged-before-enemy-god, refs: ["KAI 181 main:17-18"], note: "wʾqḥ mšm ʾ[t k]ly yhwh wʾsḥb hm lpny kmš 'I took from there the vessels of YHWH and dragged them before Chemosh' - the earliest extra-biblical YHWH"}
+      - {motif: national-god-drives-out-enemy-king, refs: ["KAI 181 main:18-21"], note: "wmlk yśrʾl bnh ʾt yhṣ ... wygršh kmš mpn[y] 'Chemosh drove him out before me'; 200 men taken to Jahaz and added to Dibon"}
+      - {motif: deity-paired-ashtar-chemosh, refs: ["KAI 181 main:17"], note: "lʿštr kmš - a male Ashtar paired with Chemosh"}
+    hints:
+      - "Ḥērem, the ban: compare Josh 6:17-21 (Jericho devoted to YHWH), 1 Sam 15:3, Deut 7:2, 20:16-17; and Num 21:2-3. The Quran has no ḥērem; it limits fighting to those who fight (Q 2:190-193) and forbids transgression; compare also Q 59:2-5 (expulsion of the Banu Nadir)."
+      - "'Go, take Nebo': compare Judg 4:6-7, 1 Sam 23:2-4 (divine command to attack); Q 5:21-24 (Moses: 'enter the holy land God has written for you')."
+      - "The vessels of YHWH dragged before a foreign god: the ark brought to Dagon's house, 1 Sam 5:1-2; Nebuchadnezzar's removal of the temple vessels, 2 Kgs 25:13-15, Dan 5:2-4; Q 2:248 (the ark returned by angels)."
+      - "Gad in Ataroth: Num 32:3, 34 (the Gadites built Ataroth)."
+
+  - id: ane-kai-181-mesha-building-cisterns-horonen
+    tradition: ane-levantine
+    title: Mesha Stele - Qarḥoh built with Israelite prisoners, a cistern in every house, the highway by the Arnon; Chemosh sends him against Horonen (KAI 181 lines 21-34)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Moabite"
+    read: ["KAI 181 main:21-34"]
+    tags:
+      - {motif: king-builds-walls-gates-towers-palace, refs: ["KAI 181 main:21-23"], note: "ʾnk bnty qrḥh ḥmt hyʿrn wḥmt hʿpl wʾnk bnty šʿryh wʾnk bnty mgdlth wʾnk bnty bt mlk"}
+      - {motif: king-orders-cistern-in-every-house, refs: ["KAI 181 main:23-25"], note: "wbr ʾn bqrb hqr bqrḥh wʾmr lkl hʿm ʿśw lkm ʾš br bbyth 'there was no cistern within the city ... I said to all the people: make yourselves each man a cistern in his house'"}
+      - {motif: prisoners-of-war-as-forced-labour, refs: ["KAI 181 main:25-26"], note: "wʾnk krty hmkrtt lqrḥh bʾsr[y] yśrʾl 'I cut the cuttings for Qarḥoh with prisoners of Israel'"}
+      - {motif: king-builds-highway-by-arnon, refs: ["KAI 181 main:26-27"], note: "ʾnk ʿśty hmslt bʾrnn; Aroer, Beth-bamoth 'for it was destroyed', Bezer 'for it was in ruins' (ʿyn)"}
+      - {motif: loyal-subjects-of-dibon, refs: ["KAI 181 main:28-29"], note: "ky kl dybn mšmʿt 'for all Dibon was obedient (a bodyguard)'; reigned over a hundred towns added to the land"}
+      - {motif: sheep-of-the-land, refs: ["KAI 181 main:30-31"], note: "wʾšʾ šm ʾt nqd[y] ṣʾn hʾrṣ (cf. 2 Kgs 3:4 Mesha the nōqēd)"}
+      - {motif: god-commands-king-go-take-city, refs: ["KAI 181 main:31-33"], note: "wyʾmr ly kmš rd hltḥm bḥwrnn wʾrd ... [wyš]bh kmš bymy"}
+      - {motif: god-returns-land-in-kings-days, refs: ["KAI 181 main:33"]}
+    hints:
+      - "Mesha as sheep-breeder (nōqēd) paying Israel 100,000 lambs: 2 Kgs 3:4; Amos 1:1 (Amos among the nōqedim)."
+      - "Each man his own cistern: 2 Kgs 18:31, Isa 36:16 (the Assyrian promise), Prov 5:15."
+      - "Horonaim of Moab: Isa 15:5, Jer 48:3-5, 34; Chemosh's judgment in Jer 48:7, 13, 46."
+
+  - id: ane-kai-182-gezer-calendar
+    tradition: ane-levantine
+    title: Gezer calendar - the months of the agricultural year
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 182 main:1-8"]
+    tags:
+      - {motif: agricultural-calendar-of-months, refs: ["KAI 182 main:1-7"], note: "yrḥw ʾsp yrḥw zrʿ yrḥw lqš yrḥ ʿṣd pšt yrḥ qṣr śʿrm yrḥ qṣr wkl yrḥw zmr yrḥ qṣ: two months ingathering, two sowing, two late planting, one flax hoeing, one barley harvest, one harvest and measuring (?), two pruning, one summer fruit"}
+      - {motif: scribe-signs-text, refs: ["KAI 182 main:8"], note: "ʾby(h) - the name Abiyah written on the edge"}
+    hints:
+      - "The year as sowing and harvest: Gen 8:22 ('seedtime and harvest, cold and heat, summer and winter'), Exod 23:16 (the feasts of harvest and ingathering, ʾāsîp); Q 6:141 (give its due on the day of harvest), 9:36 (the twelve months with God)."
+
+  - id: ane-kai-189-siloam-tunnel
+    tradition: ane-levantine
+    title: Siloam tunnel inscription - the cutters meet axe to axe; the water flows 1200 cubits
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 189 main:1-6"]
+    tags:
+      - {motif: water-tunnel-into-city, refs: ["KAI 189 main:1", "KAI 189 main:5"], note: "hnqbh wzh hyh dbr hnqbh ... wylkw hmym mn hmwṣʾ ʾl hbrkh bmʾtym wʾlp ʾmh 'the water went from the source to the pool, 1200 cubits'"}
+      - {motif: gihon-tunnel, refs: ["KAI 189 main:5"], note: "hmwṣʾ 'the source' (the Gihon, not named)"}
+      - {motif: tunnellers-dig-from-both-ends-and-meet, refs: ["KAI 189 main:1-4"], note: "bʿwd ... hgrzn ʾš ʾl rʿw ... nšmʿ ql ʾš qrʾ ʾl rʿw ky hyt zdh bṣr ... hkw hḥṣbm ʾš lqrt rʿw grzn ʿl [g]rzn 'the voice of a man calling to his fellow ... the cutters struck each toward his fellow, axe against axe'"}
+      - {motif: height-of-rock-over-cutters, refs: ["KAI 189 main:5-6"], note: "wmʾt ʾmh hyh gbh hṣr ʿl rʾš hḥṣbm 'a hundred cubits was the height of the rock over the head of the cutters'"}
+      - {motif: anonymous-royal-work-no-king-named, refs: ["KAI 189 main:1-6"], note: "interpretive: the inscription names neither king nor god"}
+    hints:
+      - "Hezekiah's tunnel: 2 Kgs 20:20 ('he made the pool and the conduit and brought water into the city'), 2 Chr 32:3-4, 30; Isa 22:9-11; Sir 48:17."
+      - "Water brought through rock: compare Moses striking the rock, Q 2:60, 7:160; and Solomon's flowing spring of molten brass, Q 34:12."
+
+  - id: ane-kai-192-lachish-1-names
+    tradition: ane-levantine
+    title: Lachish ostracon 1 - list of names (Gemariah son of Hissiliah, Mattaniah son of Neriah, Mibtahiah son of Jeremiah)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 192-199 W1:1-5"]
+    tags:
+      - {motif: name-list-with-biblical-names, refs: ["KAI 192-199 W1:1-5"], note: "gmryhw bn hṣlyhw; yʾznyhw bn ṭbšlm; ḥgb bn yʾznyhw; mbṭḥyhw bn yrmyhw; mtnyhw bn nryhw - names shared with Jeremiah's circle (Gemariah, Neriah, Jeremiah, Jaazaniah)"}
+      - {motif: theophoric-yahu-names, refs: ["KAI 192-199 W1:1-5"]}
+    hints:
+      - "Compare Jer 36:10-12 (Gemariah son of Shaphan), Jer 32:12 and 36:4 (Baruch son of Neriah), Jer 35:3 (Jaazaniah)."
+
+  - id: ane-kai-192-lachish-2-servant-dog
+    tradition: ane-levantine
+    title: Lachish ostracon 2 - 'May YHWH let my lord hear news of peace'; 'who is your servant but a dog'
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 192-199 W2:1-6"]
+    tags:
+      - {motif: letter-greeting-yhwh-make-lord-hear-peace, refs: ["KAI 192-199 W2:1-3"], note: "ʾl ʾdny yʾwš yšmʿ yhwh ʾt ʾdny šmʿt šlm ʿt kym ʿt kym"}
+      - {motif: what-is-your-servant-a-dog, refs: ["KAI 192-199 W2:3-5"], note: "my ʿbdk klb ky zkr ʾdny ʾt ʿbdh"}
+      - {motif: may-yhwh-humble-whoever, refs: ["KAI 192-199 W2:5-6"], note: "y[b]kr yhwh ʾt [ʾdny] dbr ʾšr lʾ ydʿth - reading uncertain: 'may YHWH make known (or call to account) a matter which I do not know'"}
+    hints:
+      - "The servant as dog: 2 Sam 9:8 (Mephibosheth: 'what is your servant, that you should look on a dead dog like me?'), 2 Kgs 8:13 (Hazael), 1 Sam 24:15."
+
+  - id: ane-kai-192-lachish-3-reading-letters-egypt-prophet
+    tradition: ane-levantine
+    title: Lachish ostracon 3 - 'As YHWH lives, no one has ever read me a letter'; the commander goes down to Egypt; the prophet's letter 'Beware!'
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 192-199 W3:1-W4:5"]
+    tags:
+      - {motif: letter-greeting-yhwh-make-lord-hear-peace, refs: ["KAI 192-199 W3:1-4"], note: "ʿbdk hwšʿyhw šlḥ ... yšmʿ yhwh ʾt ʾdny šmʿt šlm wšmʿt ṭb"}
+      - {motif: officer-insulted-by-charge-of-illiteracy, refs: ["KAI 192-199 W3:4-13"], note: "ky lb ʿbdk dwh ... wky ʾmr ʾdny lʾ ydʿth qrʾ spr ḥyhwh ʾm nsh ʾyš lqrʾ ly spr lnṣḥ ... ʾm qrʾty ʾth 'my lord said: you do not know how to read a letter. As YHWH lives, no one has ever had to read me a letter ... I read it'"}
+      - {motif: oath-as-yhwh-lives, refs: ["KAI 192-199 W3:9"], note: "ḥyhwh"}
+      - {motif: commander-goes-down-to-egypt, refs: ["KAI 192-199 W3:13-W4:2"], note: "yrd śr hṣbʾ knyhw bn ʾlntn lbʾ mṣrymh 'the commander of the army Coniah son of Elnathan has gone down to come to Egypt'; Hodaviah son of Ahijah and his men sent to fetch from here"}
+      - {motif: prophet-sends-warning-letter, refs: ["KAI 192-199 W4:3-5"], note: "wspr ṭbyhw ʿbd hmlk hbʾ ʾl šlm bn ydʿ mʾt hnbʾ lʾmr hšmr 'the letter of Tobiah servant of the king which came to Shallum son of Yaddua from the prophet, saying: Beware!'"}
+      - {motif: letter-from-prophet, refs: ["KAI 192-199 W4:3-5"]}
+    hints:
+      - "Elnathan and the embassy to Egypt: Jer 26:20-23 (Elnathan son of Achbor sent to Egypt to bring back the prophet Uriah); Judah's reliance on Egypt, Jer 37:5-7, Ezek 17:15."
+      - "The unnamed prophet of Judah's last days: Jeremiah or Uriah (Jer 26:20); in the Quran the Prophet himself is 'the unlettered prophet', Q 7:157-158, a reversal of the officer's pride in reading."
+
+  - id: ane-kai-192-lachish-4-signals-azekah
+    tradition: ane-levantine
+    title: Lachish ostracon 4 - watching for the signals of Lachish; Azekah can no longer be seen
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 192-199 W5:1-W6:5"]
+    tags:
+      - {motif: letter-greeting-yhwh-make-lord-hear-peace, refs: ["KAI 192-199 W5:1-2"]}
+      - {motif: orders-written-on-the-door, refs: ["KAI 192-199 W5:2-4"], note: "kkl ʾšr šlḥ ʾdny kn ʿśh ʿbdk ktbty ʿl hdlt 'I have written on the door (or column of the papyrus) all that my lord sent me'"}
+      - {motif: fire-signals-watched-azekah-not-seen, refs: ["KAI 192-199 W6:1-5"], note: "wydʿ ky ʾl mśʾt lkš nḥnw šmrm kkl hʾtt ʾšr ntn ʾdny ky lʾ nrʾh ʾt ʿzqh 'we are watching for the signal-fires (maśʾōt) of Lachish according to all the signs my lord gave, for we cannot see Azekah'"}
+      - {motif: deserted-house-no-man-there, refs: ["KAI 192-199 W5:4-8"], note: "ʿl dbr byt hrpd ʾyn šm ʾdm; Semachiah taken by Shemaiah up to the city"}
+    hints:
+      - "Lachish and Azekah the last fortified cities: Jer 34:7 ('for these were left of the cities of Judah, fortified cities'); maśʾēt as fire-signal: Jer 6:1 ('raise a signal on Beth-haccherem'), Judg 20:38."
+
+  - id: ane-kai-192-lachish-5-6-weaken-hands
+    tradition: ane-levantine
+    title: Lachish ostraca 5-6 - letters returned; the words of the officials 'weaken the hands of the land'
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 192-199 W7:1-W8:14"]
+    tags:
+      - {motif: what-is-your-servant-a-dog, refs: ["KAI 192-199 W7:3-5", "KAI 192-199 W8:2-4"]}
+      - {motif: letter-greeting-yhwh-make-lord-hear-peace, refs: ["KAI 192-199 W7:1-3", "KAI 192-199 W8:1-2"], note: "yrʾ yhwh ʾt ʾdny ʾt hʿt hzh šlm 'may YHWH let my lord see peace at this time'"}
+      - {motif: prophet-accused-of-weakening-hands, refs: ["KAI 192-199 W8:4-7"], note: "spr hmlk wʾt spry hśrm ... whnh dbry h[śrm] lʾ ṭbm lrpt ydym wlhšqṭ ydy hʾrṣ 'the words of the officials are not good, to weaken the hands and to slacken the hands of the land' - the printed text reads hnbʾ 'the prophet' at W8:5, older reading; the edition-dependent word matters"}
+      - {motif: oath-as-yhwh-lives, refs: ["KAI 192-199 W8:11-12"], note: "wḥy yhwh ʾlhyk"}
+      - {motif: subordinate-urges-lord-to-write-reproof, refs: ["KAI 192-199 W8:7-10"], note: "hlʾ tktb ʾlhm lʾmr lmh tʿśw kzʾt 'will you not write to them: why do you do this?'"}
+      - {motif: letters-returned-to-sender, refs: ["KAI 192-199 W7:4-7"], note: "ky šlḥt ʾl ʿbdk ʾt hsprm ... hšb ʿbdk hsprm ʾl ʾdny"}
+    hints:
+      - "Jer 38:4: the officials say of Jeremiah 'he weakens the hands of the soldiers left in this city and the hands of all the people'. The Lachish letter turns the charge against the officials themselves (or a prophet, depending on the reading)."
+      - "Discouraging the fighters: compare the hypocrites who say 'do not go out in the heat', Q 9:81, and 33:18 (those who hinder others)."
+
+  - id: ane-kai-192-lachish-fragments
+    tradition: ane-levantine
+    title: Lachish ostraca 8-22 - greetings, 'the prophet', rations, the day of the ninth, names and Beth-Achzib
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 192-199 W9:1-W23:10"]
+    tags:
+      - {motif: letter-greeting-yhwh-make-lord-hear-peace, refs: ["KAI 192-199 W9:1-2", "KAI 192-199 W11:1-2", "KAI 192-199 W21:1-3"]}
+      - {motif: what-is-your-servant-a-dog, refs: ["KAI 192-199 W12:1", "KAI 192-199 W13:1", "KAI 192-199 W21:2-3"]}
+      - {motif: oath-as-yhwh-lives, refs: ["KAI 192-199 W13:3-4"], note: "[ḥ]y yhwh ... q[r]ʾty [ʾ]th"}
+      - {motif: prophet-named-in-letters, refs: ["KAI 192-199 W9:3", "KAI 192-199 W15:5"], note: "h-nb-ʾ (No. 8, fragmentary); ]hw hnbʾ '-iah the prophet' (No. 16) - a prophet whose name ended in -yahu (Jeremiah or Uriah?)"}
+      - {motif: rations-issued-to-kittim-mercenaries, refs: ["KAI 192-199 W11:3-4"], note: "loose: tn lḥm 10 wyyn 2 'give 10 bread and 2 wine' - no Kittim mentioned"}
+      - {motif: date-of-issue-written-on-ostracon, refs: ["KAI 192-199 W20:1-2"], note: "btšʿyt bywm 'in the ninth (year), on the day'"}
+      - {motif: name-list-with-biblical-names, refs: ["KAI 192-199 W19:1-7", "KAI 192-199 W23:1-10"], note: "quantities by names (Shemaiah 50); list of persons and lbyt ʾkzy[b] 'to Beth-Achzib'"}
+      - {motif: worker-digs-dung-heap, refs: ["KAI 192-199 W14:1-3"], note: "qm lʿśt mlʾkh ... wsmkyhw yḥprhw ... ʾt ʾšpt - context lost"}
+      - {motif: writing-letter-before-evening, refs: ["KAI 192-199 W18:1-2"], note: "ʿd hʿrb ... yšlḥ ʿbdk hspr; W10, W16, W17, W22 broken: ʾkzb 'Achzib?', šlḥ, ʿbd ʾdny"}
+    hints:
+      - "Achzib: Mic 1:14 ('the houses of Achzib shall be a deceitful brook')."
+
+  - id: ane-kai-200-yavne-yam-garment
+    tradition: ane-levantine
+    title: Yavne-Yam ostracon - the reaper's petition for his seized garment
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hebrew"
+    read: ["KAI 200 main:1-14"]
+    tags:
+      - {motif: worker-petitions-official-for-seized-garment, refs: ["KAI 200 main:1-9", "KAI 200 main:12-14"], note: "yšmʿ ʾdny hśr ʾt dbr ʿbdh ʿbdk qṣr hyh ʿbdk bḥṣr ʾsm ... wybʾ hwšʿyhw bn šby wyqḥ ʾt bgd ʿbdk ... whšb ʾt bgd ʿbdk 'let my lord the governor hear the word of his servant: your servant was reaping at Ḥaṣar-Asam ... Hoshaiah son of Shobai came and took your servant's garment ... return the garment'"}
+      - {motif: pledged-cloak-returned-by-sunset, refs: ["KAI 200 main:8-9", "KAI 200 main:14"], note: "the legal background, not the text: no pledge is named, the worker claims he had finished his quota (kʾšr klt ʾt qṣry)"}
+      - {motif: fellow-workers-testify-for-innocence, refs: ["KAI 200 main:10-11"], note: "wkl ʾḥy yʿnw ly hqṣrm ʾty bḥm ... ʾmn nqty mʾ[šm] 'all my brothers who reap with me in the heat will answer for me: truly I am innocent of guilt'"}
+      - {motif: sabbath-mentioned, refs: ["KAI 200 main:5-6"], note: "lpny šbt 'before Sabbath' (or 'before stopping'); reading disputed"}
+      - {motif: theophoric-yahu-names, refs: ["KAI 200 main:7"], note: "hwšʿyhw bn šby"}
+    hints:
+      - "The poor man's garment: Exod 22:25-26 and Deut 24:12-15 (return the pledge by sunset; pay the hired labourer's wage the same day), Amos 2:8."
+      - "Justice for the labourer: compare Q 83:1-3 (woe to those who give short measure), Q 4:135 (stand firm for justice even against yourselves), and the hadith 'give the worker his wage before his sweat dries'."

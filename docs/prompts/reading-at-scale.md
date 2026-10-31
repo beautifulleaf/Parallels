@@ -3,6 +3,61 @@
 Every full-read prompt points here. Follow it unless the prompt says
 otherwise.
 
+## Discovery, not confirmation
+
+The project exists to surface what nobody has listed yet. The model lead is
+*al-yamm*: the Quran's usual word for the sea is *baḥr*, but *al-yamm*
+appears 8 times across 4 surahs, always in the Moses story, and it is the
+Semitic sea word shared with Hebrew, Ugaritic and Mandaic. That is a
+specific, checkable, surprising detail. Aim for findings like it.
+
+- **Don't lead the readers.** Prompts and reader instructions do not list the
+  parallels to find. Known leads are **benchmarks**: after the read, check
+  that the pipeline surfaces them. They are not reading targets. A reader
+  primed with a list finds the list.
+- **Stay at the level of the passage.** Tag what this line says, concretely:
+  - the word chosen;
+  - an odd number;
+  - a name, an object, a gesture;
+  - a formula that recurs elsewhere;
+  - a detail a retelling adds, drops or changes.
+
+  "Hymn to a god" or "prayer for help" is not a tag; the particular image
+  or turn of phrase in that hymn is.
+- **No surface-level contrasts.** Worldview-level differences between whole
+  traditions are not findings, and are never recorded as divergences:
+  - "Islam affirms a creator, the Jains do not";
+  - "one life against rebirth";
+  - "monotheism against polytheism".
+
+  Every reader knows them, and they are true of the traditions, not of any
+  passage.
+- **Divergence means a specific element changed.** The same story element,
+  formula or ruling appears on both sides, and a detail differs:
+  - who acts or speaks;
+  - a name or title;
+  - a number;
+  - the order of events;
+  - the motive;
+  - the outcome;
+  - what one side leaves out.
+
+  Quote the decisive words on both sides.
+- **Hints are specific too.** Write a hint only when a particular passage on
+  the other side comes to mind for a particular detail, and name both: "the
+  raven sent last and not returning (XI:154–156) against Gen 8:7, where it
+  goes first".
+
+  Don't hint thematic resemblances ("compare the Quran's view of judgment").
+  Don't force hints: a unit with none is fine.
+- **Prefer the rare.** A detail that occurs in one text out of hundreds is
+  worth more than one that occurs everywhere; the motif weights already
+  reflect this. Readers should notice and tag the odd detail even when they
+  know no parallel for it. Unmatched details are tomorrow's leads.
+- **Empty is a result.** A comparison reader who finds nothing specific
+  records an empty match list. A generic match recorded to fill the list is
+  worse than none.
+
 ## Order of work
 
 1. **Probe the sources in parallel.** Send one agent per source family. Each
@@ -78,10 +133,11 @@ otherwise.
 - **Read every line in the original.** Translations and glosses are reading
   aids; tag what the original says, and quote the decisive original words
   in a `note`.
-- **Quran first.** This is a Quran-centred project, and the side-by-side pass
-  is `<corpus> × Quran`. For every unit, the reader asks what in the Quran it
-  might parallel, echo, answer or diverge from, and writes precise
-  `Q surah:verse` hints. Hebrew Bible references are secondary.
+- **Hints, specific and unforced.** The side-by-side pass is
+  `<corpus> × Quran`, and readers' hints written as `Q surah:verse` become
+  its candidates. Write one only when a particular Quran passage comes to
+  mind for a particular detail (see "Discovery, not confirmation"). Hebrew
+  Bible references are welcome as secondary hints.
 - **Reuse motif ids.** The vocabulary holds the HB, Quran, ANE and later
   ids: search by keyword, reuse the Quran readers' ids first, never redefine
   an id with a different label, and define new ones only after searching.

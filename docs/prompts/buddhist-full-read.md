@@ -155,30 +155,17 @@ Tag concepts beside motifs:
 - renunciation and the order of monks and nuns;
 - the gods (*devas*) as beings within saṃsāra.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Readers put hints first, with exact `Q surah:verse` references.
+- the Buddha legend → *Bilawhar wa-Būdhāsf* → Barlaam and Josaphat
+- the *Milindapañha*
+- Dhul-Kifl ↔ the Buddha (fringe)
 
-- **The renouncing prince.** The four sights, the great departure, the
-  awakening under the tree. Compare Abraham's search (Q 6:75–79), the
-  Prophet's seclusion and first revelation (Q 96:1–5, 74:1–7), and the
-  Barlaam chain. Tag each element of the legend so that the chain can be
-  followed: *Lalitavistara*, then *Bilawhar wa-Būdhāsf*, then Barlaam.
-- **The Buddha as one of a line of awakened ones,** each with his own
-  community, against the line of prophets (Q 2:136, 4:163–164, 35:24 "no
-  community but a warner passed among them").
-- **Rebirth, karma and judgment.** The weighing (Q 21:47), the record of
-  deeds (Q 18:49), and the hells and heavens (Q 56). The Chinese *Ten
-  Kings* judgment belongs in phase 3.
-- **Non-self and the creator.** The denial of a creator in the discourses
-  against Q 52:35–36 and 2:255.
-- **Maitreya** against the expected figures. The Mahdi is hadith-based;
-  Quranic anchors are Q 43:61 and 7:187.
-- **The paradise of Amitābha's Pure Land,** with its rivers, jewelled trees
-  and palaces, against the Quranic gardens (Q 47:15, 55:46–76, 76:12–22).
-- **Dhul-Kifl ↔ the Buddha,** via *Kifl* read as Kapilavastu. This is
-  fringe: surface it, labelled fringe.
-- **Monasticism** (Q 57:27).
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical
 
@@ -193,10 +180,9 @@ the linguistic layer.
 2. The Buddhist × Quran comparison for the texts read in that phase, mainly
    on the concept layer, with neutral ids for divergences.
    - Quote the decisive Pali, Sanskrit or Chinese and the Arabic.
-   - Record divergences as carefully as parallels. Examples:
-     - awakening by one's own effort against revelation;
-     - non-self against the soul that is judged;
-     - endless rebirth against the one life and the resurrection.
+   - Divergences matter as much as parallels, but only specific ones (see
+     "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level
+     contrasts true of whole traditions are not findings: never record them.
 3. Running the pipeline, with every benchmark passing. This includes the
    **SuttaCentral parallel benchmark**: known Pali–Chinese parallels must
    rank among each unit's top matches.

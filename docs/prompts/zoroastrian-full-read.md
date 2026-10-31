@@ -84,24 +84,19 @@ original to be read from a public-domain translation, labelled as
 translator named). Prefer the original wherever it exists, even without
 lemmas.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-These go in hints first, with exact `Q surah:verse` references.
-- **The Majūs** (Q 22:17).
-- **The bridge (Chinvat) against the path (*ṣirāṭ*).** The *ṣirāṭ* is
-  hadith-based; Quranic anchors include Q 36:66, 37:23–24 and 19:71–72.
-- **The weighing of deeds** (Q 21:47, 101:6–9).
-- **The tour of heaven and hell** (*Arda Wiraz*) against the night journey
-  and ascension (Q 17:1, 53:1–18).
-- **The renovation of the world** and bodily resurrection (Q 75:3–4,
-  36:78–79).
-- **The adversary:** Angra Mainyu against Iblis (Q 7:11–18, 15:28–42).
-- **The Amesha Spentas** against the angels, and **Harut and Marut**
-  (Q 2:102).
-- **Purity law** (the Vendidad) against Quranic purity (Q 4:43, 5:6).
-- **Fire.**
-- **The ages of the world and the final saviour**, against the Hour and its
-  signs.
+- the Majūs (Q 22:17)
+- Chinvat ↔ the *ṣirāṭ* (contested)
+- *Arda Wiraz* ↔ the Night Journey (contested)
+- Haurvatāt/Amərətāt ↔ Hārūt/Mārūt (Q 2:102)
+- *pairidaēza* ↔ *firdaws*
+
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical benchmarks (`data/benchmarks/lexical.yaml`)
 

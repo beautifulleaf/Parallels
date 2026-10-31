@@ -91,28 +91,18 @@ The Arabic is the Islamic world's own window onto Manichaeism. It is
 
 Measure everything and write both SCOPE files before planning chunks.
 
-## Quran-facing questions for the readers
+## Known leads (benchmarks, not reading targets)
 
-Readers put these in hints first, with exact `Q surah:verse` references.
+- Mani as "seal of the prophets" ↔ Q 33:40 (contested)
+- the Sabians (Q 2:62, 5:69, 22:17) ↔ the Mandaeans (contested)
+- Yahya / John the Baptist
+- *ṣbā* ↔ *ṣibgha* (Q 2:138)
 
-- **Seal of the prophets.** Mani as the "seal of the prophets" against
-  Q 33:40. This is a contested gold-set lead: surface it, and label it
-  contested.
-- **The Sabians** (Q 2:62, 5:69, 22:17) and the Mandaeans. This is a
-  contested identification.
-- **Baptism.** Mandaic *ṣbā* "baptize" against the *ṣibgha* of God
-  (Q 2:138).
-- **John the Baptist (Yahya)** in Q 19:2–15 and 3:38–41, against the Book of
-  John.
-- **Jesus.** The Manichaean Jesus of splendour, and Jesus in both corpora,
-  against Q 4:157–158 (the crucifixion), 3:55 and 5:116–117.
-- **Light imagery** against the Light verse (Q 24:35).
-- **Dualism** against Q 6:1 ("made the darkness and the light") and
-  Q 16:51 ("do not take two gods").
-- **The soul's ascent through watch-houses** against the ascension
-  (Q 70:3–4, 32:5).
-- **The elect and the hearers.**
-- **The zindīq.** Note that the Quran does not name it; the term is later.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical benchmarks (`data/benchmarks/lexical.yaml`)
 

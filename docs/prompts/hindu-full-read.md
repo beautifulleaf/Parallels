@@ -155,31 +155,17 @@ Tag concepts beside motifs. Examples:
 - the divine name and its recitation;
 - creation from the One's desire.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Hints go in first, with exact `Q surah:verse` references.
+- Manu and the fish ↔ the flood
+- Dārā Shikōh's *Majmaʿ al-Baḥrayn* and *Sirr-i Akbar*
+- al-Bīrūnī's *Taḥqīq mā li-l-Hind* and *Kitāb Pātanjal*
 
-- **The flood.** Manu and the fish (ŚB 1.8.1; MBh 3.185; Matsya) against
-  Q 11:25–49, 23:23–30, 54:9–17 and 71. Divergences to record:
-  - who warns, and why;
-  - the fish against the revealed command to build;
-  - who survives;
-  - the repopulation from the offering.
-- **Creation.** The creation hymn ("then there was neither being nor
-  non-being") and the sacrifice of the primordial person, against Q 21:30,
-  41:9–12 and 2:117 ("Be!, and it is"). The cosmic egg against "heavens and
-  earth joined".
-- **The One.** "The One breathed, windless" (RV 10.129.2); "ekaṃ sad viprā
-  bahudhā vadanti" (RV 1.164.46) against Q 112 and 7:180 (the names).
-- **Avatars.** Divine descent against Q 112:3 and the denial of incarnation
-  (Q 5:17, 5:72).
-- **Karma, rebirth and liberation** against the single life, the judgment
-  and the scales (Q 23:99–100, 21:47).
-- **The Gītā on duty and the fruits of action** against intention and deeds
-  (Q 2:225, 53:39–41).
-- **Dārā Shikōh's Quranic proof-texts** for the Upaniṣads: the "hidden
-  book" (*kitāb maknūn*, Q 56:77–79), which he read as the Upaniṣads.
-  This is response material: tag it precisely.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical
 

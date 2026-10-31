@@ -163,46 +163,20 @@ chunks; run several waves, and resume after API limits as
   1913, Cowley's Samaritan liturgy, and Vilmar's Abu'l-Fatḥ. Use OCR text
   where it is good; record corrections.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Hints go in first, with exact `Q surah:verse` references.
+- Genesis Rabbah 38:13 ↔ Abraham and the idols (Q 21:51–70)
+- *Pirqei de-Rabbi Eliezer* 21 ↔ Cain and the raven (Q 5:31)
+- Mishnah Sanhedrin 4:5 ↔ Q 5:32
+- the Watchers ↔ Hārūt and Mārūt (Q 2:102)
+- the mountain held over Sinai (b. Shabbat 88a) ↔ Q 2:63
+- *al-Sāmirī* and the calf (contested)
 
-- **Abraham and the idols**: Gen. Rab. 38:13, Jubilees 12, Apocalypse of
-  Abraham 1–8, and Targum Pseudo-Jonathan to Gen 11:28, the furnace. Compare
-  Q 21:51–70, 6:74–83, 37:83–98, 29:24.
-- **Cain and Abel and the raven**: PRE 21 and Tanhuma Bereshit 9, against
-  Q 5:27–31. **"Whoever saves one life"**: Mishnah Sanhedrin 4:5, against
-  Q 5:32.
-- **The Watchers, the fallen angels and sorcery**: 1 Enoch 6–16, against
-  Harut and Marut (Q 2:102). **Enoch's ascent**, against Idris (Q 19:56–57).
-- **Solomon**: the demons, the ring, Ashmedai (b. Gittin 68a–b), the hoopoe
-  and the queen of Sheba (Targum Sheni to Esther). Compare Q 27:15–44,
-  34:12–14, 38:30–40.
-- **The golden calf**: the calf that came out by itself and lowed (PRE 45,
-  Tanhuma), and the Samaritan / *al-Sāmirī* question. Compare Q 20:83–98,
-  7:148–153.
-- **Moses**:
-  - his infancy and the coal (Exod. Rab. 1:26), against Q 20:27;
-  - the mountain held over Israel at Sinai (b. Shabbat 88a), against
-    Q 2:63, 2:93, 7:171;
-  - the Sabbath-breakers turned into apes, against Q 2:65 and 7:163–166.
-- **Joseph**: the women cutting their hands (Tanhuma Vayeshev 5) against
-  Q 12:31; Joseph's vision of his father, Jacob's grief and his sons' guilt.
-- **Satan's refusal to bow to Adam**: Life of Adam and Eve 12–16, against
-  Q 2:34, 7:11–18, 15:28–42, 38:71–85.
-- **Mary and the Temple**, where Jewish sources bear on Q 3:35–37.
-- **The Sabbath and the People of the Sabbath** (Q 2:65); **the shekhinah
-  and *sakīna*** (Q 2:248, 9:26, 48:4).
-- **Polemic and response**: "Ezra son of God" (Q 9:30) against the Ezra
-  traditions; "the Jews say God's hand is tied" (Q 5:64); the scholars
-  (*aḥbār*, *rabbāniyyūn*, Q 5:44, 5:63). Tag the passages these verses may
-  answer.
-- **Samaritan**:
-  - Moses as the sole prophet;
-  - the Taheb;
-  - Gerizim against the "*qibla*" debates (Q 2:142–150);
-  - "do not touch" (*lā misāsa*, Q 20:97) against Samaritan purity and
-    untouchability practice.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical benchmarks (`data/benchmarks/lexical.yaml`)
 
@@ -228,11 +202,9 @@ Aramaic or Hebrew form.
 2. The `<corpus> × Quran` side-by-side comparison for the corpora read in
    that phase, with neutral ids for divergences.
 
-   Divergences matter as much as parallels. Examples:
-   - who taught the burial: the raven teaches Cain in the Quran, Adam in
-     PRE;
-   - who holds the mountain over Israel, and why;
-   - who made the calf low.
+   Divergences matter as much as parallels, but only specific ones (see
+     "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level
+     contrasts true of whole traditions are not findings: never record them.
 3. The pipeline run, with every benchmark passing.
 4. A dated `docs/CLEANUP.md` entry listing what is deferred to later
    phases.

@@ -158,20 +158,8 @@ The ANE session built a general machinery. Reuse it:
     files as "WIP snapshot" commits.
   - Every chunk still gets its own validated commit. Use `--allow-empty`
     when the snapshot already holds the final file.
-- **Quran-first hints.** Each reader asks of every unit what in the Quran
-  it might parallel, echo, answer or diverge from, and writes precise
-  `Q surah:verse` hints. Some examples:
-  - the Cave (18:9–26) against the Sleepers;
-  - Dhul-Qarnayn (18:83–98) against the *Alexander Romance*;
-  - Idris (19:56–57, 21:85) against Hermes;
-  - the people of Lot against Baucis and Philemon;
-  - the flood;
-  - Iblis's refusal (7:11–18) against Prometheus and the Titans;
-  - the barzakh, the scales and the bridge against Plato's judgment myths;
-  - "He begets not" (112:3) against the theogonies;
-  - the soul's descent and return against Plotinus.
-
-  Hebrew Bible references are secondary.
+- **Hints, specific and unforced,** as `reading-at-scale.md` describes. Known leads
+  (below) are benchmarks: don't give them to the readers.
 - **Reuse ids.** Search the vocabulary by keyword. It holds the HB, Quran
   and ANE ids, about 20,000 in all. Reuse the Quran readers' ids first,
   never redefine an id with a different label, and leave near-duplicates
@@ -189,6 +177,20 @@ The ANE session built a general machinery. Reuse it:
   memory go in `hints`, never in tags. An interpretive reading carries a
   `note` quoting the Greek or Latin.
 
+## Known leads (benchmarks, not reading targets)
+
+- the Seven Sleepers ↔ the People of the Cave (Q 18:9–26)
+- the *Alexander Romance* ↔ Dhul-Qarnayn (Q 18:83–98)
+- Hermes ↔ Idris (Q 19:56–57)
+- Deucalion ↔ the flood
+- Baucis and Philemon ↔ Abraham's guests and Lot's city
+
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
+
 ## After the read
 
 1. **Merge near-duplicate motifs** through `data/motif-aliases.yaml`, using
@@ -202,13 +204,9 @@ The ANE session built a general machinery. Reuse it:
    - Record parallels, echoes, **deliberate divergences**, responses and
      contrasts, quoting the decisive Greek or Latin and Arabic words of
      both sides in the note.
-   - **Divergences matter as much as similarities.** Examples:
-     - the Sleepers' number and the years in the cave, against Q 18:22
-       and 18:25, which itself reports the disputes;
-     - the Alexander of the *Romance* against Dhul-Qarnayn, who acts by
-       God's leave and builds the barrier;
-     - Hermes the thrice-great against Idris raised "to a high place";
-     - divine sonship in the theogonies against Q 112.
+   - Divergences matter as much as parallels, but only specific ones (see
+     "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level
+     contrasts true of whole traditions are not findings: never record them.
    - Use a **neutral motif id** for every divergence, response and contrast,
      naming the shared matter (`number-of-the-sleepers`,
      `builder-of-the-iron-barrier`), never one side's claim. Put this in

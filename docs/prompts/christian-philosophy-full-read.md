@@ -262,35 +262,22 @@ Sources:
   Teilhard) and most 20th-century philosophy are under copyright: list
   them as out of scope.
 
-## Quran-facing questions the readers should keep in mind
+## Known leads (benchmarks, not reading targets)
 
-Hints go in first, with exact `Q surah:verse` references.
+- the Protevangelium ↔ Mary in the Temple (Q 3:35–44)
+- the Infancy Gospel of Thomas ↔ the clay birds (Q 3:49)
+- Pseudo-Matthew ↔ the palm (Q 19:23–26)
+- the Syriac/Arabic Infancy Gospel ↔ the speech in the cradle (Q 19:29–33)
+- the *Life of Adam and Eve* and the *Cave of Treasures* ↔ Satan's refusal to bow
+- the Sleepers and the Alexander Legend ↔ Q 18
+- Q 4:157 ↔ docetic texts (contested)
+- Aḥmad ↔ the Paraclete (contested)
 
-- **Infancy:**
-  - Mary in the Temple, Zechariah and the lots: Q 3:35–44;
-  - the palm and the stream: Q 19:22–26;
-  - the speech in the cradle: Q 19:29–33, 3:46, 5:110;
-  - the clay birds: Q 3:49, 5:110.
-- **Jesus:**
-  - the crucifixion and its denial or appearance, with docetism and Simon of
-    Cyrene: Q 4:157–158;
-  - "son of God" and the Trinity: Q 4:171, 5:72–75, 5:116, 112;
-  - the table from heaven: Q 5:112–115;
-  - "Aḥmad" and the Paraclete: Q 61:6;
-  - the disciples (*ḥawāriyyūn*): Q 3:52, 5:111, 61:14.
-- **Mary:** Mary as "sister of Aaron", Q 19:28; Collyridian Mary worship,
-  Q 5:116.
-- **Satan's refusal to bow:** the *Life of Adam and Eve* and the *Cave of
-  Treasures* against Q 2:34, 7:11–18, 15:28–42, 38:71–85.
-- **The Sleepers of Ephesus,** Q 18:9–26, and the **Alexander Legend**,
-  Q 18:83–98.
-- **The People of the Book's scholars and monks,** Q 5:82–83, 9:31, 57:27
-  ("monasticism they invented").
-- **Theology:**
-  - divine unity and the attributes: Q 112, 42:11, 2:255;
-  - the Logos and "his word": Q 4:171;
-  - prophecy and the seal: Q 33:40;
-  - revelation against reason.
+These are already known. They are **benchmarks**: after the read, check that
+the pipeline surfaces them. Do not give them to the readers, and do not read
+for them. Follow "Discovery, not confirmation" in
+`docs/prompts/reading-at-scale.md`: the aim is the specific detail nobody has
+listed yet.
 
 ## Lexical benchmarks (`data/benchmarks/lexical.yaml`)
 
@@ -313,12 +300,10 @@ branches.
 2. The `<corpus> × Quran` side-by-side comparison.
    - Use neutral ids for divergences, and quote the decisive words of both
      sides.
-   - Divergences matter as much as parallels. Examples:
-     - who dies on the cross;
-     - the Jesus who speaks in the cradle to defend his mother against the
-       infancy gospels' wonder-child;
-     - Satan's reason for refusing.
-   - In phases 3–4, comparison runs mainly on the concept layer.
+   - Divergences matter as much as parallels, but only specific ones (see
+     "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level
+     contrasts true of whole traditions are not findings: never record them.
+   - In phases 3–4, comparison runs on motifs and concepts alike. A concept match needs a specific shared formulation, argument or image, not a shared or opposed doctrine.
 3. Running the pipeline, with every benchmark passing.
 4. A dated `docs/CLEANUP.md` entry, listing what is deferred.
 5. A report:
