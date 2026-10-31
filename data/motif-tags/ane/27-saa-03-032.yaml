@@ -835,7 +835,7 @@ units:
     tagger: "Claude (model), reading the Akkadian"
     read: ["SAA 20 007 i:19'-46'", "SAA 20 007 ii:1-49"]
     tags:
-      - {motif: aššur-is-king-acclamation, refs: ["SAA 20 007 i:26'-29'"], note: "men carrying the king's chair on their necks; the priest of Aššur goes before them ... akia iqabbi Aššur šarru Aššur šarru adi bāb Azue iqabbi 'thus he says: Aššur is king! Aššur is king! as far as the Anzu gate'"}
+      - {motif: assur-is-king-acclamation, refs: ["SAA 20 007 i:26'-29'"], note: "men carrying the king's chair on their necks; the priest of Aššur goes before them ... akia iqabbi Aššur šarru Aššur šarru adi bāb Azue iqabbi 'thus he says: Aššur is king! Aššur is king! as far as the Anzu gate'"}
       - {motif: yhwh-reigns-forever, refs: ["SAA 20 007 i:29'"]}
       - {motif: king-carried-on-chair, refs: ["SAA 20 007 i:26'", "SAA 20 007 ii:43'-49'"], note: "kussû ša šarri ina labiānišunu išakkanū ... šarru ... ina kussî ina labiāni naṣṣu"}
       - {motif: king-kisses-ground-before-god, refs: ["SAA 20 007 i:31'-32'"], note: "uškân iggarrar 'he prostrates himself, rolls on the ground'"}
@@ -880,3 +880,87 @@ units:
       - {motif: priest-blesses-offerer, refs: ["SAA 20 029 o:10-11"], note: "šangû ana bēl nīqi ikarrab mā Pû-lišānu damqātēka ana Issār liqbi abbūtaka ana Issār liṣbat 'may Mouth-and-Tongue speak good of you to Ištar and intercede for you'"}
     hints:
       - "Guard your mouth: Ps 141:3, Prov 13:3, Prov 21:23; revealing a secret: Prov 11:13, Prov 20:19. 'Whoever reveals the mysteries ... shall die': compare Deut 29:28 (secret things belong to YHWH). Lamp/light blessing: Num 6:25, Prov 4:18."
+  - id: ane-saa20-054-akitu-god-list
+    tradition: ane-akkadian
+    title: "List of the gods who go behind and before Aššur to the akītu house (SAA 20 54)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 054 o.i:1'-11'", "SAA 20 054 o.ii:1'-18'"]
+    tags:
+      - {motif: akitu-procession-of-gods, refs: ["SAA 20 054 o.ii:9'-17'"], note: "PAB ša erki Anšar illakūni ... mugerru hurāṣi kakku ... PAB ilāni ša ina pānāt Anšar ana akīti illakūni"}
+      - {motif: catalogue-of-gods-of-temple, refs: ["SAA 20 054 o.i:1'-9'", "SAA 20 054 o.ii:1'-8'"]}
+      - {motif: divine-weapons-as-gods, refs: ["SAA 20 054 o.ii:11'-15'"], note: "the golden chariot, the weapon, Šarur and Šargaz (Ninurta's maces) are listed among the gods"}
+  - id: ane-saa20-041-god-list-adad
+    tradition: ane-akkadian
+    title: "Fragmentary god list: Ebih, Adad, Šala, 'Adad-lightning', 'Light-of-the-image' (SAA 20 41)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 041 o.ii:1-8", "SAA 20 041 r.i:1'-3'"]
+    tags:
+      - {motif: divine-weapons-as-gods, refs: ["SAA 20 041 o.ii:4-6"], note: "Adad-birqu 'Adad-lightning', Girra-birqu, Niphu-ṣalmu, Nūru-ṣalmu: the god's lightning and the statue's glow deified"}
+      - {motif: catalogue-of-gods-of-temple, refs: ["SAA 20 041 o.ii:1-6"]}
+      - {motif: mountain-deified, refs: ["SAA 20 041 o.ii:1"], note: "dEbih, Mount Ebih with the divine determinative"}
+  - id: ane-saa20-043-gates-and-papahu
+    tradition: ane-akkadian
+    title: "List of temple doorkeepers, images and courts: the Papahu holy of holies and the Apsû court (SAA 20 43)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 043 1'-9'"]
+    tags:
+      - {motif: holy-of-holies, refs: ["SAA 20 043 5'-6'"], note: "dPapāhu rabû bēt nakkamāte ... Papāhu lā aṣê 'the great cella, the treasury; the cella not to be left'"}
+      - {motif: temple-gatekeeper-gods, refs: ["SAA 20 043 1'-3'"], note: "Nēš-ili-māti, Niš-Igigāni, Meliu, Lahmu of the Gate of Sunrise, Nusku, Kusarikku, the Judges of the rear"}
+      - {motif: temple-court-called-apsu, refs: ["SAA 20 043 7'"], note: "kisal abāri apsû u mimma šumšu 'the lead court, the Apsû, and everything'"}
+    hints:
+      - "Temple guardians at the gates: Ezek 40-44 (gatekeepers), 1 Chr 26; a basin called 'sea' in the temple court: 1 Kgs 7:23-26."
+  - id: ane-saa20-036-dais-of-destinies-fragment
+    tradition: ane-akkadian
+    title: "Fragment of a ritual: Anu, the Dais of Destinies (SAA 20 36)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 036 o:1'-11'", "SAA 20 036 r:1'-8'"]
+    tags:
+      - {motif: dais-of-destinies, refs: ["SAA 20 036 o:11'"], note: "Parak-šīmāti; o:3'-4' 'not written ... erased' (lā šaṭru ... pašṭu), broken"}
+      - {motif: scribal-colophon, refs: ["SAA 20 036 o:3'-4'"], note: "interpretive: lā šaṭru ... pašṭu may note gaps in the source"}
+  - id: ane-saa20-023-king-rises-stool
+    tradition: ane-akkadian
+    title: "Fragment of a royal ritual: the king rises, the stools (SAA 20 23)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 023 o:1'-6'"]
+    tags:
+      - {motif: king-rules-by-cult-duties, refs: ["SAA 20 023 o:3'-5'"], note: "illaka šarru ... ittabbi ... kitturrāte 'the king goes ... rises ... stools'; too broken for more"}
+  - id: ane-saa20-035-dais-of-destinies-neberu
+    tradition: ane-akkadian
+    title: "Fragment of a ritual: Dais of Destinies, the chief priest, Neberu (SAA 20 35)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 035 o:1'-13'", "SAA 20 035 r:1'-11'"]
+    tags:
+      - {motif: dais-of-destinies, refs: ["SAA 20 035 o:4'"], note: "Parak-šīmāte"}
+      - {motif: jupiter-neberu-named-in-ritual, refs: ["SAA 20 035 o:9'"], note: "dNēbiru"}
+      - {motif: kings-throne-firm-for-long-days, refs: ["SAA 20 035 o:6'"], note: "fragment: ina muhhi sigaru 'on the clamp' (enemy in stocks?), uncertain"}
+  - id: ane-saa20-009-assurbanipal-new-rites
+    tradition: ane-akkadian
+    title: "Assurbanipal's new rites of Shebat-Adar: the king kisses the ground; 'Šeruʾa has given birth!' (SAA 20 9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 20 009 o.i:1-40", "SAA 20 009 o.ii:5-44", "SAA 20 009 o.iii:13-23", "SAA 20 009 r.ii:2'-27'", "SAA 20 009 r.iii:1'-29'", "SAA 20 009 r.iv:13'-23'"]
+    tags:
+      - {motif: new-rites-instituted-by-king, refs: ["SAA 20 009 o.i:1-4"], note: "parṣū eššūti ša ištu UD 16 ša Šabāṭi adi UD 10 ša Addari Aššur-bāni-apli ... ēpušūni"}
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 009 o.i:11-12", "SAA 20 009 o.ii:12"], note: "šarru ina bēt ili ittarda qaqqar ina pān Aššur ittišiq"}
+      - {motif: crown-of-god-set-on-throne, refs: ["SAA 20 009 o.ii:25-28", "SAA 20 009 r.iii:3'-7'"], note: "Aššur Mullissu ina Parak-šīmāti ušešib ... Bēl-agê ina qaqqadišu ittiši 'he lifted Lord Crown from his head'"}
+      - {motif: dais-of-destinies, refs: ["SAA 20 009 o.ii:25"]}
+      - {motif: divine-birth-announced-three-times, refs: ["SAA 20 009 r.iii:22'-24'"], note: "nargallatu tubassar mā Šeruʾa tattalad 3-šu iqabbi 'the chief female musician brings the good news: Šeruʾa has given birth! — she says it three times'"}
+      - {motif: salt-on-offering-table, refs: ["SAA 20 009 o.i:7-8", "SAA 20 009 o.iii:23"]}
+      - {motif: let-city-shine-torch-cry, refs: ["SAA 20 009 o.ii:19-22"], note: "šangû ša Anu zīqtu ša buṣinni ... līmir ālu KI.MIN dūru 'may the city shine, ditto the wall!' he says as far as the stair-gate"}
+      - {motif: king-takes-hand-of-god, refs: ["SAA 20 009 r.ii:23'"], note: "ilāni ussatbi šarru qāt Aššur iṣṣabat 'he made the gods rise; the king took Aššur's hand'"}
+      - {motif: kings-face-of-god-made-to-shine, refs: ["SAA 20 009 o.ii:28", "SAA 20 009 r.iii:27'"]}
+    hints:
+      - "Birth of a divine child proclaimed as good news: Isa 9:5 ('a child is born to us'), Isa 66:7-9, Ps 2:7, Luke 2:10-11. Taking the hand of the god (Marduk) at the New Year: compare Isa 45:1 (Cyrus whose right hand I grasped) and Ps 73:23."

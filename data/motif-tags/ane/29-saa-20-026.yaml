@@ -104,6 +104,58 @@ new_motifs:
   kingship-pleasing-like-plant-of-life: {label: "Prayer that the king's rule be pleasing to the people like the plant of life", cluster: kingship}
   blessing-rain-flood-harvest-for-king: {label: "Blessing on the king's reign: rains, floods, good harvests and grain heaped on the threshing floors", cluster: kingship}
   curse-on-violator-of-holy-city-privilege: {label: "Curse on whoever alters the king's inscription or abolishes the holy city's privileges: may the chief god look on him in anger and decree his death", cluster: kingship}
+  tent-pitched-for-rite-by-river: {label: "A tent is pitched on the river bank with its door facing the sun for a royal rite", cluster: cult}
+  fire-kindled-before-god-at-evening: {label: "On a set evening fire is kindled in the temple and a ram is burnt on a brazier before the god", cluster: cult}
+  bed-set-up-for-god: {label: "A bed is set up for the god in a rite", cluster: cult}
+  gatekeeper-gods: {label: "Named gods serve as the divine gatekeepers of a temple", cluster: cult}
+  ziggurats-of-city-listed: {label: "The ziggurats of a city are listed by their ceremonial names and gods", cluster: cult}
+  nations-subdued-before-chosen-king: {label: "The god makes whole peoples bow at the feet of his chosen king", cluster: kingship}
+  bird-offerings-geese-ducks-doves: {label: "Geese, ducks and turtledoves are offered daily to the gods", cluster: cult}
+  cedar-doors-bound-with-bronze: {label: "The king sets up great cedar doors bound with bronze in the city or temple gates", cluster: kingship}
+  aramean-tribes-listed: {label: "A list of Aramean and Arab tribes (Hagaranu, Nabatu and others) conquered together", cluster: war}
+  offerings-instituted-for-gods-from-conquest: {label: "From a conquered district the king fixes a perpetual yearly offering of first-fruits (oxen, sheep, wine, dates) for his gods", cluster: cult}
+  peoples-of-conquered-lands-resettled: {label: "The king settles peoples from other conquered lands in a captured city and puts it under his governor", cluster: war}
+  distant-land-never-heard-of-brings-tribute: {label: "A distant people whose name the king's fathers had never heard brings tribute and submits", cluster: kingship}
+  philistine-cities-taken: {label: "Coastal cities of Philistia (Joppa, Bene-berak, Azor, Beth-Dagon) are captured", cluster: war}
+  siege-earthworks-around-city: {label: "The besieger throws up fortifications around the city and blocks anyone leaving its gate", cluster: war}
+  elite-troops-desert-besieged-city: {label: "The troops brought in to strengthen the besieged capital desert or leave", cluster: war}
+  road-no-king-before-travelled: {label: "The king goes by untrodden paths where no earlier king had gone", cluster: war}
+  list-of-conquered-towns: {label: "A long list of conquered towns is given by name", cluster: war}
+  smoke-of-burning-cities-covers-sky: {label: "The smoke of the burning cities covers the face of the sky like a heavy cloud", cluster: war}
+  fear-falls-on-enemy-king: {label: "Fear falls on the enemy king and he abandons his capital", cluster: war}
+  foolish-successor-without-sense: {label: "The enemy king's successor is a man without sense or counsel", cluster: kingship}
+  rebel-leader-gathers-outlaws: {label: "A fugitive rebel gathers runaways, outlaws and murderers round him in the marshes and is made king", cluster: kingship}
+  bow-of-god-given-to-king: {label: "The god's mighty bow is put into the king's hand for battle", cluster: war}
+  corpses-fill-plain-like-grass: {label: "The bodies of the slain fill the plain like grass", cluster: war}
+  mutilation-of-enemy-dead: {label: "The victor cuts the throats and hands of the slain and strips their gold ornaments", cluster: war}
+  cedars-from-amanus-for-building: {label: "Great cedar beams grown on Mount Amanus roof the king's palace or temple", cluster: kingship}
+  palace-of-hittite-style-bit-hilani: {label: "A palace of limestone and cedar is built 'in the Hittite (Syrian) style'", cluster: kingship}
+  protective-colossi-at-palace-gates: {label: "Colossal bull and lion guardian figures (šēdu, lamassu) of stone or bronze stand at the palace gates", cluster: kingship}
+  eponym-date-formula: {label: "A text is dated by month and the eponym official (limmu) of the year", cluster: kingship}
+  army-crosses-river-as-ditch: {label: "The king has his whole army leap across a broad river as if it were a ditch", cluster: war}
+  gods-give-king-weapons-and-gifts: {label: "Each great god gives the king a gift: destiny, name, fear of his kingship, fury, a strong bow and arrow", cluster: kingship}
+  rebel-ignores-good-treaty-forgets-salt: {label: "A vassal who did not keep the treaty or remember the 'salt' (kindness) of his overlord rebels", cluster: treaty}
+  brother-defects-to-overlord: {label: "The rebel's brother flees from his refuge to submit to the overlord and is given his brother's land", cluster: kingship}
+  island-city-trusts-in-sea: {label: "An island city trusts in the sea to protect it and throws off the overlord's yoke", cluster: war}
+  city-swept-away-like-deluge-into-sea: {label: "The conqueror levels the city like the deluge and throws its wall and buildings into the sea", cluster: war}
+  northern-horde-gomer-cimmerians: {label: "The Cimmerians (Gimirrāya, Gomer), a horde from far away, are fought", cluster: war}
+  holy-city-lands-restored-to-citizens: {label: "The king returns to the citizens of the holy city the fields a robber chieftain had seized", cluster: kingship}
+  submission-in-terror-tribute-brought: {label: "Struck by terror, a chieftain brings tribute of animals to the king and kisses his feet; the king has mercy on him", cluster: kingship}
+  fortress-as-door-against-enemy: {label: "A fortified city is set up 'like a door' barring the way of the enemy", cluster: war}
+  arab-queens: {label: "Queens rule Arab tribes (Apkallatu, Tabūa, Iapaʾ, Baslu)", cluster: kingship}
+  kings-and-queens-of-desert-killed: {label: "The kings and queens of a far desert land are killed and their corpses spread out", cluster: war}
+  enemies-sway-like-reeds-in-storm: {label: "Hostile rulers sway like reeds in a storm at the king's name", cluster: war}
+  island-kings-tremble: {label: "The kings of the sea, whose walls are the sea and who ride ships instead of chariots, tremble and their hearts flutter", cluster: war}
+  people-of-sea-and-mountain-exchanged: {label: "The king moves the people of the sea to the mountains and of the mountains to the sea", cluster: war}
+  envoys-seek-peace-and-swear: {label: "Distant kings send envoys of friendship and peace and swear by the great gods", cluster: treaty}
+  royal-garden-replica-of-mountain: {label: "A royal park is planted as a replica of a far mountain with all aromatic and fruit trees", cluster: kingship}
+  god-reconciled-with-city: {label: "Signs announce that the angry gods will be reconciled with their city", cluster: kingship}
+  sin-and-shamash-answer-yes-monthly: {label: "Every month moon and sun at their appearance give a firm 'yes' about avenging the land", cluster: prophecy}
+  wisdom-given-by-ea: {label: "The god of wisdom grants the king broad understanding to resettle the city and renew its shrines", cluster: wisdom}
+  foundation-deposit-inscriptions: {label: "Inscribed stelae and clay inscriptions of precious metals and stones are placed in the foundation for the future", cluster: kingship}
+  temple-vessels-made-of-gold-and-silver: {label: "The king makes the temple's utensils of gold and silver of fixed weight", cluster: cult}
+  temple-personnel-reinstated: {label: "The king reinstates the temple's purification priests, lamentation priests and singers before the gods", cluster: cult}
+  ziggurat-rebuilt: {label: "The temple tower is rebuilt on its old site", cluster: cult}
 units:
   # ---------------- SAA 20 (rituals) ----------------
   - id: ane-saa-20-026-sin-natu-ritual
@@ -118,7 +170,7 @@ units:
       - {motif: seven-metals-laid-out-in-ritual, refs: ["SAA 20 026 o:18-19"]}
       - {motif: offerings-to-gods-before-ritual-bed, refs: ["SAA 20 026 o:41", "SAA 20 026 o:47-48", "SAA 20 026 o:52-r:1", "SAA 20 026 r:16-18"], note: "ina pān Igigi ina pān mayyāli"}
       - {motif: hymn-incipit-sung-at-each-offering, refs: ["SAA 20 026 o:36-51", "SAA 20 026 r:13-19"], note: "e.g. 'Anu abu ilī bānû kalāma rašubbu' (Anu, father of the gods, creator of all) tazammur; 'Nanna attā rāʾim šamê' tazammur"}
-      - {motif: libation-of-oil-honey-beer-wine, refs: ["SAA 20 026 o:44-49"]}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 026 o:44-49"]}
       - {motif: ritual-twice-performed-seed-prospers, refs: ["SAA 20 026 r:42"], note: "2-šu dullu annû ina mahar Sîn ušallam-ma ēpaš zēršu išir"}
       - {motif: colophon-copied-and-collated, refs: ["SAA 20 026 r:43"]}
     hints:
@@ -166,7 +218,7 @@ units:
     tagger: "Claude (model), reading the Akkadian"
     read: ["SAA 20 008 1'-14'"]
     tags:
-      - {motif: fire-kindled-in-temple-at-evening, refs: ["SAA 20 008 4'-7'", "SAA 20 008 10'-11'"], note: "UD 16-KAM ša bādi išātu ina Bēt-Aššur ušahhuzu; kinūnu ina pān Aššur; a ram on the brazier; a torch (zīqtu). Fragmentary"}
+      - {motif: fire-kindled-before-god-at-evening, refs: ["SAA 20 008 4'-7'", "SAA 20 008 10'-11'"], note: "UD 16-KAM ša bādi išātu ina Bēt-Aššur ušahhuzu; kinūnu ina pān Aššur; a ram on the brazier; a torch (zīqtu). Fragmentary"}
       - {motif: bed-set-up-for-god, refs: ["SAA 20 008 13'"], note: "eršu tašakkan; broken context"}
     hints:
       - "A ram burnt on a brazier before the god in the evening: compare the evening burnt offering (Exod 29:38-42)."
@@ -181,8 +233,8 @@ units:
       - {motif: divine-directory-of-city, refs: ["SAA 20 049 13", "SAA 20 049 53", "SAA 20 049 58", "SAA 20 049 109"], note: "totals: PAB ina papāhi; PAB ilāni ina Bēt-Aššur; PAB 9 ilāni ina Bēt-Anu; PAB 19 ilāni ša Bēt-Mēme"}
       - {motif: royal-statue-housed-among-gods, refs: ["SAA 20 049 12", "SAA 20 049 57", "SAA 20 049 60", "SAA 20 049 80"], note: "ṣalam Tukulti-apil-Ešarra; ilu Ṣalam-šarri (the king's statue as a deity)"}
       - {motif: deified-justice-and-truth, refs: ["SAA 20 049 24", "SAA 20 049 28", "SAA 20 049 34-42", "SAA 20 049 65", "SAA 20 049 71"], note: "Mišaru, Kittu, and ten divine judges (Dayyānū) named Išme-karābu ('he heard the prayer'), Pišu-kīna ('his mouth is firm') etc."}
-      - {motif: divine-weapons-worshipped, refs: ["SAA 20 049 9-10"], note: "Kašidūti, Kakku, Kalappu: Aššur's weapons as gods"}
-      - {motif: dumuzi-tammuz-cult, refs: ["SAA 20 049 77", "SAA 20 049 86", "SAA 20 049 97"], note: "Dumuzi has a place in several Ištar temples of Assur"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 049 9-10"], note: "Kašidūti, Kakku, Kalappu: Aššur's weapons as gods"}
+      - {motif: dumuzi-receives-offerings-in-state-cult, refs: ["SAA 20 049 77", "SAA 20 049 86", "SAA 20 049 97"], note: "Dumuzi has a place in several Ištar temples of Assur"}
       - {motif: gatekeeper-gods, refs: ["SAA 20 049 44-48"]}
     hints:
       - "Tammuz worshipped in the temple of the goddess: compare the women weeping for Tammuz at the temple gate, Ezek 8:14."
@@ -273,8 +325,8 @@ units:
     read: ["Cyrus II 01 37-46"]
     tags:
       - {motif: bird-offerings-geese-ducks-doves, refs: ["Cyrus II 01 37-38"], note: "kurkû, paspasu, sukannīnu offered daily"}
-      - {motif: city-wall-rebuilt, refs: ["Cyrus II 01 38-41"], note: "Imgur-Enlil dūru rabû ša Bābili ... eššiš ēpuš-ma ušaklil šipiršin, with bitumen and baked brick"}
-      - {motif: cedar-doors-bronze-bound, refs: ["Cyrus II 01 42-43"]}
+      - {motif: wall-rebuilt-and-outer-wall, refs: ["Cyrus II 01 38-41"], note: "Imgur-Enlil dūru rabû ša Bābili ... eššiš ēpuš-ma ušaklil šipiršin, with bitumen and baked brick"}
+      - {motif: cedar-doors-bound-with-bronze, refs: ["Cyrus II 01 42-43"]}
       - {motif: predecessors-inscription-found-in-rebuilding, refs: ["Cyrus II 01 43"], note: "šiṭir šumu ša Aššur-bāni-apli šarru ālik mahriya ... appalsa"}
       - {motif: kings-years-marked-on-tablet-of-life, refs: ["Cyrus II 01 44-45"], note: "only loosely: prayer to Marduk for long life, a firm throne and a long reign"}
       - {motif: colophon-copied-and-collated, refs: ["Cyrus II 01 46"], note: "kī pî ... šaṭir bari: tablet of Qišti-Marduk (colophon of the fragment)"}
@@ -624,7 +676,7 @@ units:
       - {motif: enemies-sway-like-reeds-in-storm, refs: ["Esarhaddon 001 iv:80-81"], note: "kīma qanê mehê išubbu"}
       - {motif: island-kings-tremble, refs: ["Esarhaddon 001 iv:82-v:1"], note: "kings of the sea whose walls are the sea ... ride ships instead of chariots; their hearts flutter, their gall dissolves"}
       - {motif: enemies-caught-like-animals-in-net, refs: ["Esarhaddon 001 v:9-14", "Esarhaddon 001 v:18-19"], note: "kīma iṣṣūri ... ina gišparriya ... ina saparriya ayyumma ul ūṣi"}
-      - {motif: corpses-left-unburied-for-vultures, refs: ["Esarhaddon 001 v:6"], note: "pagar qurādišun ina lā qebēri ušākil zību"}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Esarhaddon 001 v:6"], note: "pagar qurādišun ina lā qebēri ušākil zību"}
       - {motif: people-of-sea-and-mountain-exchanged, refs: ["Esarhaddon 001 v:20"], note: "ša tâmti ana šadî ša šadî ana tâmtim ašābšunu aqbi"}
       - {motif: envoys-seek-peace-and-swear, refs: ["Esarhaddon 001 v:26-35"], note: "Elam and Gutium send messengers of friendship and peace and swear by the great gods"}
       - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Esarhaddon 001 v:38-39"], note: "only that he rebuilt the shrines of Assyria and Akkad with silver and gold"}
@@ -716,7 +768,7 @@ units:
     tags:
       - {motif: cedars-from-amanus-for-building, refs: ["Esarhaddon 104 iv:1-8"]}
       - {motif: damaged-divine-images-renewed, refs: ["Esarhaddon 104 iv:9-17"], note: "ša mê butuqtu u rādu ubilūšunūti-ma ... uddiš zīmēšunu ... ina parakkīšunu dāriš ušarmēšunūti"}
-      - {motif: city-wall-rebuilt, refs: ["Esarhaddon 104 v:1-9"], note: "Imgur-Enlil and Nēmet-Enlil, 30 ropes long"}
+      - {motif: wall-rebuilt-and-outer-wall, refs: ["Esarhaddon 104 v:1-9"], note: "Imgur-Enlil and Nēmet-Enlil, 30 ropes long"}
       - {motif: citizens-of-holy-city-privileged-freedom, refs: ["Esarhaddon 104 v:10-15"], note: "ṣābē kidinni šubarê Anim u Enlil andurāršunu eššiš aškun"}
       - {motif: king-grants-amargi-release, refs: ["Esarhaddon 104 v:14-15"], note: "andurāru"}
       - {motif: freed-citizens-clothed-and-led-home, refs: ["Esarhaddon 104 v:15-24"], note: "šāmūtu ša ana rēšūti šulukū ša ana ṣindi u birti zuʾʾuzū upahhir-ma ... mirânūti lubuštu ulabbiš harrān Bābili ušaškin šēpušun"}
@@ -806,7 +858,7 @@ units:
       - {motif: king-restores-neglected-rites, refs: ["Esarhaddon 105 vi:13-20"], note: "parṣī Esagil qašdūti ana ašrišunu utēr ... sattukkīšunu baṭlūti ukīn"}
       - {motif: temple-personnel-reinstated, refs: ["Esarhaddon 105 vi:21-29"], note: "ramku, pašīšu, išippu, kalû and nāru priests and singers stationed before the gods"}
       - {motif: ziggurat-rebuilt, refs: ["Esarhaddon 105 vi:29-34"], note: "Etemenanki, one rope by one rope, on its old site"}
-      - {motif: city-wall-rebuilt, refs: ["Esarhaddon 105 vi:35-vii:4"]}
+      - {motif: wall-rebuilt-and-outer-wall, refs: ["Esarhaddon 105 vi:35-vii:4"]}
       - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Esarhaddon 105 vii:5-9"], note: "ilāni mātāti šallūte ultu qereb Aššur u Elamti ana ašrišunu utēr"}
       - {motif: citizens-of-holy-city-privileged-freedom, refs: ["Esarhaddon 105 vii:12-17"]}
       - {motif: freed-citizens-clothed-and-led-home, refs: ["Esarhaddon 105 vii:18-28"]}
