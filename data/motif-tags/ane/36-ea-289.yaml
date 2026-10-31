@@ -1,0 +1,1100 @@
+# Full read of the ANE corpus, chunk 36: Amarna letters EA 289 ... EA 144 (in the order of `aneread.py texts 36`).
+# Read from ORACC lemmatized transliterations (aemw/amarna), which carry word glosses only (no translation).
+# One unit per letter. Many tablets are broken; notes say what survives.
+new_motifs:
+  prostration-on-belly-and-back: {label: "A vassal says he falls at the overlord's feet seven and seven times 'on the belly and on the back' (kabattu u ṣēru / ṣuhru)", cluster: kingship}
+  vassal-groom-of-kings-horses: {label: "A vassal calls himself the groom (kartappu) of the overlord king's horses", cluster: kingship}
+  vassal-footstool-of-kings-feet: {label: "A vassal calls himself the footstool of the overlord king's feet", cluster: kingship}
+  overlord-sun-from-heaven: {label: "The overlord is hailed as 'the Sun (god) who is from heaven' or 'like the Sun from heaven'", cluster: kingship}
+  overlord-like-storm-god-and-sun: {label: "A vassal tells the overlord 'you are like Baal (Addu, the storm god) and like the Sun'", cluster: kingship}
+  land-deserts-to-habiru: {label: "The overlord's land or city 'falls away' (paṭārat) or is 'given' to the Habiru (SA.GAZ)", cluster: war}
+  vassal-requests-garrison-troops: {label: "A vassal asks the overlord for a stated number of garrison men (maṣṣartu), or for horses and chariots, to guard the king's city", cluster: war}
+  vassal-denounces-rival-rulers: {label: "A vassal denounces neighbouring rulers to the overlord by name as traitors who have attacked or seized the king's land", cluster: kingship}
+  vassal-says-rivals-slander-him: {label: "A vassal complains that other rulers (mayors) lie about him to the overlord, and asks the king not to trust them", cluster: kingship}
+  shechem-given-to-habiru: {label: "A Canaanite ruler (Labʾaya) is said to have given the land of Shechem to the Habiru", cluster: war}
+  rebel-sons-continue-fathers-revolt: {label: "The sons of a dead rebel ruler (Labʾaya, ʿAbdi-Aširta) carry on their father's hostility against the overlord's loyal vassals", cluster: war}
+  postscript-to-royal-scribe: {label: "A letter ends with a postscript to the overlord's scribe asking him to put the vassal's words well before the king", cluster: scribal}
+  overlord-gives-life-and-death: {label: "A vassal tells the overlord 'you give me life and you cause me to die'", cluster: kingship}
+  overlord-breath-of-life: {label: "A vassal calls the overlord 'the breath of my life', or awaits the breath (wind) of the king's mouth that revives him", cluster: kingship}
+  vassal-head-lifted-eyes-bright-at-kings-word: {label: "On hearing the overlord's word the vassal's heart rejoices, his head is lifted and his eyes shine", cluster: kingship}
+  vassal-neck-in-kings-yoke: {label: "A vassal says he has put his neck into the yoke that he carries for the overlord", cluster: kingship}
+  vassal-serves-as-his-fathers-did: {label: "A vassal says he serves the overlord as his father and forefathers did from of old (ištu dārīti)", cluster: kingship}
+  vassal-has-heard-kings-words-and-obeys: {label: "A vassal answers a royal letter: 'I have heard the words of the king my lord very, very well' and is carrying them out", cluster: kingship}
+  vassal-sends-tribute-goods: {label: "A vassal sends the overlord goods (cattle, birds, gold cups, linen, oil, hides) as tribute or gift", cluster: kingship}
+  kings-gods-and-strong-hands-guard-land: {label: "A vassal prays that the overlord's gods and his two strong hands guard the king's cities and land", cluster: kingship}
+  canaanite-word-in-amarna-letter: {label: "An Akkadian letter from Canaan uses or glosses a Canaanite (West Semitic) word: šamûma 'heavens', lēla 'night', ṣuhru 'back', ḥulli 'yoke', ṣōnu 'flock', sūsîma 'horses', ʿênaya 'eyes'", cluster: scribal}
+  island-city-without-water-or-wood: {label: "An island city has no water to drink or wood; its men who cross to the mainland for water and wood are killed or seized by a hostile neighbour", cluster: war}
+  naval-blockade-cuts-grain-to-city: {label: "Ships of a hostile city are stationed off a coast so that no grain can be brought into a besieged city", cluster: war}
+  neighbour-ruler-harbours-habiru-raiders: {label: "After each city is sacked and burned, the Habiru raiders enter a neighbouring ruler's town and he gives them bread and oil", cluster: war}
+  traitor-flees-by-night-to-habiru: {label: "A ruler asked to hand over the Habiru takes them, flees by night and goes over to the Habiru, knowing his guilt", cluster: war}
+  vassal-ordered-to-guard-himself-asks-how: {label: "Ordered by the overlord 'guard yourself', the vassal asks with what he can guard himself, from his enemies and from his own peasants, if the king sends no troops", cluster: war}
+  vassal-sells-children-and-goods-for-grain: {label: "The besieged vassal's people have given their sons, daughters and the wood of their houses (or their horses) to another land to buy food for their lives", cluster: war}
+  vassal-detained-at-overlord-court: {label: "A vassal ruler is kept at the overlord's court; his son pleads for his quick release while neighbours claim he has been sold and will not return", cluster: kingship}
+  safe-conduct-oath-demanded: {label: "Before travelling to the overlord, a vassal asks that the king's officials swear by his gods and by the overlord's god that they plan no harm against him", cluster: treaty}
+  female-ruler-kings-maidservant: {label: "A woman ruler writes to the overlord as 'your maidservant' (amtu) and reports the land lost", cluster: kingship}
+  city-called-kings-maidservant: {label: "A vassal calls his city 'the maidservant of the king'", cluster: kingship}
+  nubian-troops-requested: {label: "A vassal asks the overlord for troops of Meluhha or Kush (Nubians) to guard his city", cluster: war}
+  vassal-trusts-in-overlords-troops-and-chariots: {label: "A vassal declares he trusts (taklāku) in the overlord's troops and chariots", cluster: war}
+  rhetorical-who-is-the-dog: {label: "Rhetorical question: 'who is the dog that would not obey the words of the king?'", cluster: kingship}
+  accused-vassal-protests-innocence: {label: "A vassal accused of treason answers that he rescued the king's city and its men, and that the officials who accuse him are lying", cluster: kingship}
+  rival-empire-threatens-small-kingdom: {label: "A small kingdom between two empires is threatened by the second (Hatti) for dealing with the first (Egypt), and pleads with its overlord", cluster: war}
+  ruler-curses-defecting-brother: {label: "A ruler retakes his father's city from his brother who went over to the Habiru, and curses the brother", cluster: war}
+  servants-wait-for-overlord: {label: "A vassal says all the king's servants wait for (qwy) the overlord and look to his eyes", cluster: kingship}
+units:
+  - id: ane-ea-289-abdi-heba-shechem
+    tradition: ane-akkadian
+    title: "ʿAbdi-Ḫeba of Jerusalem: Milkilu, the sons of Labʾaya, Shechem given to the Habiru, send 50 men (EA 289)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 289"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["EA 289 o:1-2"], note: "ana šarri bēliya qibima umma IR₃-Ḫeba wardaka-ma"}
+      - {motif: sevenfold-prostration, refs: ["EA 289 o:3-4"], note: "ana 2 šēpē bēliya šarri 7-tān u 7-tān amqut"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 289 o:5-12", "EA 289 r:25-28"], note: "Milkilu (of Gezer), the sons of Labʾaya and the sons of Arzaya, Tagi; Rubbutu taken and 'now Urušalim'"}
+      - {motif: shechem-given-to-habiru, refs: ["EA 289 o:21-b.e:24"], note: "enūma Labʾaya u māt Šakmi iddinu ana LU₂.MEŠ ḫabiri"}
+      - {motif: habiru-sa-gaz, refs: ["EA 289 b.e:24"]}
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 289 o:5-9"], note: "DUMU.MEŠ Labʾaya u DUMU.MEŠ Arzaya"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 289 r:36", "EA 289 r:42-46"], note: "yānu-mi LU₂.MEŠ maṣṣartu šarri ittiya; lumaššer šarru 50 LU₂.MEŠ maṣṣarta; gabbi māt šarri paṭrat"}
+      - {motif: land-deserts-to-habiru, refs: ["EA 289 r:44"], note: "the land 'falls away' (paṭrat); Jerusalem itself: lū nipṭur Urušalim (r:29)"}
+      - {motif: postscript-to-royal-scribe, refs: ["EA 289 t.e:47-l.e:51"], note: "ana ṭupšar šarri bēliya ... awâta banâta idin-mi ana šarri ... ana kâta wardaka anāku"}
+    hints:
+      - "Compare Josh 10:1-5 (Adoni-zedek king of Jerusalem with the kings of Lachish, Eglon, Hebron, Jarmuth) and Josh 10:33 (Horam king of Gezer)."
+      - "Compare Judg 9 (Abimelech and the lords of Shechem; Shechem passing outside central control) and Gen 34; Josh 24:1."
+      - "Compare 1 Sam 13:3, 13:7 and 14:21 (the 'Hebrews' (ʿibrim) who go over to the Philistines) and Gen 14:13 ('Abram the Hebrew')."
+      - "Places named also in the Hebrew Bible: Gaza, Beth-shean (Bit-šani), Gath-carmel, Keilah (Qiltu, 1 Sam 23:1-13), Rabbah (Rubbutu, Josh 15:60)."
+  - id: ane-ea-290-abdi-heba-archers
+    tradition: ane-akkadian
+    title: "ʿAbdi-Ḫeba: Milkilu and Šuwardata gather Gezer, Gath and Keilah; a town of Jerusalem's land lost; send archers (EA 290)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 290"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 290 o:3-4"]}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 290 o:5-11", "EA 290 r:25-27"], note: "Milkilu u Šuwardata ... puḫḫiru ERIN₂.MEŠ Gazri, ERIN₂.MEŠ Gimti, ERIN₂.MEŠ Qilti; 'this deed is by the mouth of Milkilu and the mouth of Šuwardata'"}
+      - {motif: land-deserts-to-habiru, refs: ["EA 290 o:12-13", "EA 290 r:15-17", "EA 290 r:22-24"], note: "paṭrat māt šarri ana ḫabiri; URU māt Urušalim {uru}E₂.{d}NIN.URTA šumuša ... paṭrat"}
+      - {motif: habiru-sa-gaz, refs: ["EA 290 o:13", "EA 290 r:23-24"]}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 290 r:19-24"], note: "lumašer ERIN₂.MEŠ piṭâti u lutîra māt šarri ana šarri; šumma yānu ERIN₂.MEŠ piṭâtu paṭrat māt šarri"}
+    hints:
+      - "The town 'of the land of Jerusalem' written Bit-NIN.URTA is read by some as Bethlehem (Bit-Laḫmi) or Beth-horon; compare Josh 10:10-11 and Ruth 1:1."
+      - "Compare Josh 10:3-5 (a coalition of southern kings) and 1 Sam 23:1-5 (Keilah attacked; David sent to save it)."
+  - id: ane-ea-279-shuwardata-archers
+    tradition: ane-akkadian
+    title: "Šuwardata: the king's land is ruined; send archers against the enemies (EA 279)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 279"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 279 o:1-2", "EA 279 o:6-7"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 279 o:5"], note: "wardaka eper ša šēpēka"}
+      - {motif: sevenfold-prostration, refs: ["EA 279 o:8"]}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 279 o:9-r:23"], note: "gamrat māt šarri ... ana Qilti ... yuššira šarru ERIN₂.MEŠ piṭâta ... nidupur šārūta ištu māt šarri"}
+    hints:
+      - "Compare 1 Sam 23:1-5 (Keilah, Qiltu, under attack)."
+  - id: ane-ea-211-zitri-yarah-sun-from-heaven
+    tradition: ane-akkadian
+    title: "Zitriyara: the king is like the Sun from heaven; we cannot neglect his word (EA 211)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 211"]
+    tags:
+      - {motif: prostration-on-belly-and-back, refs: ["EA 211 o:4-7"], note: "7 u šibitān u {uzu}šašallu-ma u {uzu}kabattu ana šēpē šarri amqut"}
+      - {motif: overlord-sun-from-heaven, refs: ["EA 211 r:15-17"], note: "šarru kīma {d}UTU ištu AN.ḪI.A ša-mu-ma"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 211 r:17"], note: "AN.ḪI.A 'heavens' glossed ša-mu-ma, Canaanite šamûma (Hebrew šāmayim)"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 211 o:10-r:14", "EA 211 r:18-l.e:25"], note: "lā nilaʾu ezēb awāt šarri"}
+    hints:
+      - "Compare Ps 84:12 (YHWH God is a sun and shield) and Mal 3:20 (the sun of righteousness)."
+  - id: ane-ea-246-biridiya-sons-of-labaya
+    tradition: ane-akkadian
+    title: "Biridiya of Megiddo: the two sons of Labʾaya pay silver to the SA.GAZ and Suteans to make war on me (EA 246)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 246"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 246 o:5-7"]}
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 246 r:5'-10'"], note: "2 DUMU.MEŠ Labʾaya tiddinūna kaspīšunu ana LU₂.MEŠ SA.GAZ u ana LU₂.MEŠ Sute ana epēš nukurti eliya; the middle of the tablet is broken"}
+      - {motif: habiru-sa-gaz, refs: ["EA 246 r:7'"], note: "Habiru hired with silver"}
+    hints:
+      - "Compare Judg 9:4 (Abimelech hires 'empty and reckless men' with silver from the temple of Baal-berith) and Judg 11:3."
+  - id: ane-ea-295-baal-shipti-sidon
+    tradition: ane-akkadian
+    title: "A ruler (Baʿlu-ṯipṭi): dust under the king's sandals, servant from head to foot; Yabni-ilu of Sidon did evil (EA 295)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 295"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 295 o:1", "EA 295 o:6"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 295 o:4"], note: "epru ištu šapli 2 {kuš}šēnē šarri"}
+      - {motif: sevenfold-prostration, refs: ["EA 295 o:6-7"]}
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 295 o:8-11"], note: "urrudu šarra ištu qaqqadiya adi šēpēya kīma abbūtiya ištu dāriti"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 295 o:12-16"], note: "Yabni-ilu man of Sidon did lumnu to me; lines broken at the right"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 295 r:5'-7'"], note: "50 LU₂.MEŠ qadu 1 inspector of the guard to guard the city"}
+    hints:
+      - "Compare Ps 60:10 / 108:10 ('upon Edom I cast my sandal') and Isa 1:6 ('from the sole of the foot to the head')."
+  - id: ane-ea-159-aziru-like-baal-and-sun
+    tradition: ane-akkadian
+    title: "ʿAziru: you are like Baal and like the Sun; I am the king's dog, rebuilding Ṣumur; the mayors lie (EA 159)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 159"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 159 o:1", "EA 159 o:4-6"]}
+      - {motif: overlord-like-storm-god-and-sun, refs: ["EA 159 o:7-8"], note: "bēliya attā kīma {d}IŠKUR u attā kīma {d}UTU"}
+      - {motif: vassal-says-rivals-slander-him, refs: ["EA 159 o:9-10", "EA 159 r:39-42"], note: "ukazzibūni ... ḫazannūte ... LU₂.MEŠ sarrūtu, bēliya lā taqīpšunu"}
+      - {motif: vassal-calls-himself-kings-dog, refs: ["EA 159 o:17"], note: "anāku kalbu ša šarri bēliya"}
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 159 r:33-38"], note: "oil, a mina of myrtle, hides of wild cows, sent (ušēbil) to my lord; broken"}
+    hints:
+      - "Compare Ps 18:8-16 and Ps 29 (God as storm god) with Ps 84:12 (sun); and 2 Sam 9:8, 2 Kgs 8:13 (the servant as dog)."
+  - id: ane-ea-168-aziru-arrives-in-peace
+    tradition: ane-akkadian
+    title: "ʿAziru: I have arrived safely to see the king's face; my brothers and sons are the king's servants (EA 168)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 168"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 168 o:1", "EA 168 o:3-4"]}
+      - {motif: sevenfold-prostration, refs: ["EA 168 o:3"]}
+      - {motif: vassal-detained-at-overlord-court, refs: ["EA 168 o:5-11", "EA 168 t.e:13-l.e:16"], note: "kašdāku ina šulmi ana amāri pāni šarri; goods arrived by ship; reverse badly broken; tuballiṭ 'you have given life' (l.e:15)"}
+    hints:
+      - "Compare Gen 43:3-5 and 2 Sam 14:24, 28 (seeing / not seeing the king's face)."
+  - id: ane-ea-169-son-of-aziru
+    tradition: ane-akkadian
+    title: "A son of ʿAziru: you give life and you kill; release ʿAziru quickly, the Suteans and Nuḫašše threaten (EA 169)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 169"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 169 o:4"]}
+      - {motif: overlord-gives-life-and-death, refs: ["EA 169 o:7-11"], note: "ana pāni šarri bēlini nidaggal; attā tuballaṭanni u attā tušmītanni; ana pānika-ma adaggal"}
+      - {motif: vassal-detained-at-overlord-court, refs: ["EA 169 o:12-16", "EA 169 r:22-29", "EA 169 r:37-38"], note: "Aziru ina ašrānu lā tuwaḫḫiršu, arḫiš uššeraššu; the men of Nuḫašše say abūka-mi ina ḫurāṣi tapšuršu ana šarri māt Miṣri"}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 169 r:30-35"], note: "the Suteans break away and say 'your father lives in Egypt; we will make war with you'"}
+    hints:
+      - "Compare Deut 32:39 and 1 Sam 2:6 ('YHWH kills and makes alive'); and Q 2:258 (the king who says 'I give life and cause death')."
+      - "Compare Gen 42-44 (a son kept in Egypt as surety) and Ps 123:2 (eyes of servants to the hand of their master)."
+  - id: ane-ea-090-rib-addi-bird-in-cage
+    tradition: ane-akkadian
+    title: "Rib-Hadda: Byblos alone; ʿAbdi-Aširta the dog; like a bird in a trap; a field like a wife without husband (EA 090)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 090"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 090 o:4-5"]}
+      - {motif: loyal-vassal-alone-among-defectors, refs: ["EA 090 o:6-8", "EA 090 o:22-23", "EA 090 o:27-28"], note: "Gubla ina ēdēniše ritḫat ... anāku ina ēdēniya; kali LU₂.MEŠ ḫazanūti šalmū ana ʿAbdi-Aširta"}
+      - {motif: rival-called-dog-or-snake, refs: ["EA 090 o:21", "EA 090 o:26"], note: "ʿAbdi-Aširta: kalbu šūt"}
+      - {motif: habiru-sa-gaz, refs: ["EA 090 o:24-25"], note: "yilteqûšunu LU₂ GAZ.MEŠ"}
+      - {motif: vassal-sells-children-and-goods-for-grain, refs: ["EA 090 r:36-39"], note: "gamrū mārūnu mārātunu GIŠ.MEŠ bītāti ina nadāni ina māt Yarimmuta ina balāṭ napištini"}
+      - {motif: besieged-king-shut-up-like-caged-bird, refs: ["EA 090 r:39-42"], note: "kīma iṣṣūri ša ina libbi ḫuḫāri šaknat kišūma anāku ina Gubla"}
+      - {motif: field-like-wife-without-husband, refs: ["EA 090 r:42-44"], note: "eqliya aššatu ša lā muta mašlat aššum balī erēši"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 090 r:44-53"], note: "x ME ERIN₂.MEŠ u 30 tāpal ANŠE.KUR.RA; palḫāti napištiya"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 090 t.e:60-l.e:64"], note: "urra mūša pānūya nadnū ana aṣê ERIN₂.MEŠ piṭâti"}
+    hints:
+      - "Compare Ps 124:7 (our soul escaped like a bird from the fowler's snare) and Lam 3:52."
+      - "Compare Isa 54:1, 62:4 (the land 'married' or 'forsaken') and Neh 5:2-5 (sons and daughters given for grain)."
+  - id: ane-ea-093-rib-addi-to-amanappa
+    tradition: ane-akkadian
+    title: "Rib-Hadda to Amanappa: ask the king for 300 men; if no archers this year, ʿAbdi-Aširta will be strong for ever (EA 093)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 093"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["EA 093 o:1-3"], note: "to the Egyptian official Amanappa; ana šēpēka amqut"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 093 o:10-13"], note: "3 ME LU₂.MEŠ"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 093 r:16-28"], note: "šumma MU.KAM annīta yānu ERIN₂.MEŠ piṭâta u dannu adi dāriti"}
+  - id: ane-ea-112-rib-addi-guard-yourself
+    tradition: ane-akkadian
+    title: "Rib-Hadda: 'guard yourself' - with what? from my enemies and my own peasants; a Habiru hired to carry a tablet to Ṣumur (EA 112)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 112"]
+    tags:
+      - {motif: city-goddess-gives-power-to-overlord, refs: ["EA 112 o:3-4"], note: "{d}NIN ša Gubla tiddin dunna ana šarri"}
+      - {motif: sevenfold-prostration, refs: ["EA 112 o:5-7"]}
+      - {motif: vassal-ordered-to-guard-himself-asks-how, refs: ["EA 112 o:7-18"], note: "uṣur-mi lū naṣirta; ištu manni inaṣṣarūna? ištu nakriya u ištu LU₂.MEŠ ḫupšiya"}
+      - {motif: nubian-troops-requested, refs: ["EA 112 o:19-24"], note: "LU₂.MEŠ māt Miṣri u māt Meluḫḫa u ANŠE.KUR.RA.MEŠ"}
+      - {motif: vassal-sells-children-and-goods-for-grain, refs: ["EA 112 o:25-r:30"], note: "horses all gone in giving to Yarimmuta for my life"}
+      - {motif: habiru-sa-gaz, refs: ["EA 112 r:42-50"], note: "13 silver and a pair of garments given as the hire (agrūt) of a GAZ man who brought the tablet into Ṣumur by night"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 112 r:36-39"], note: "yuwaširu ERIN₂.MEŠ piṭâtišu u yušapšiḫu mātātišu, 'and he will give his lands rest'"}
+    hints:
+      - "Compare Judg 3:11, 5:31 ('and the land had rest') with yušapšiḫu mātāti."
+  - id: ane-ea-121-rib-addi-mayors-killed-like-dogs
+    tradition: ane-akkadian
+    title: "Rib-Hadda: my fathers had garrisons; the sons of ʿAbdi-Aširta speak to the GAZ; mayors killed like dogs (EA 121)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 121"]
+    tags:
+      - {motif: city-goddess-gives-power-to-overlord, refs: ["EA 121 o:3-4"]}
+      - {motif: sevenfold-prostration, refs: ["EA 121 o:5-7"]}
+      - {motif: vassal-ordered-to-guard-himself-asks-how, refs: ["EA 121 o:7-17"], note: "uṣur-mi ramānka; mīnu yinaṣṣiranni; my fathers had the king's garrison"}
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 121 o:18-22"], note: "qabû DUMU.MEŠ ʿAbdi-Aširta ana LU₂.MEŠ GAZ.MEŠ"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 121 r:41-53"], note: "yilqû māt šarri ana šarri u šupšiḫ LU₂.MEŠ ḫazanī ... ul tudākū kīma kalbi"}
+    hints:
+      - "Compare 1 Kgs 14:11, 16:4 (dogs and the slain); Q 7:176 (the parable of the dog)."
+  - id: ane-ea-110-rib-addi-ships-of-canaan
+    tradition: ane-akkadian
+    title: "Rib-Hadda: the sons of ʿAbdi-Aširta; ʿAziru; the army's ships must not leave Canaan (EA 110)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 110"]
+    tags:
+      - {motif: city-goddess-gives-power-to-overlord, refs: ["EA 110 o:3-4"]}
+      - {motif: sevenfold-prostration, refs: ["EA 110 o:5-6"]}
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 110 o:8-9"], note: "DUMU.MEŠ ʿAbdi-Aširta kīma libbišunu tipušūna; most of the obverse lost"}
+      - {motif: naval-blockade-cuts-grain-to-city, refs: ["EA 110 r:47-52"], note: "{giš}MA₂ LU₂.MEŠ miši lā tuṣṣāna ištu māt Kinaḫḫi (Canaan); interpretive, broken context"}
+    hints:
+      - "Kinaḫḫi = Canaan; compare Gen 10:15-19 and Num 13:29."
+  - id: ane-ea-133-rib-addi-ten-kushites
+    tradition: ane-akkadian
+    title: "Rib-Hadda: all your cities taken; send ten men of Meluḫḫa-Kush to guard the city (EA 133)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 133"]
+    tags:
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 133 r:6-8"], note: "kali ālānika laqû DUMU.MEŠ ʿAbdi-Aširta; obverse lost"}
+      - {motif: nubian-troops-requested, refs: ["EA 133 r:16-18"], note: "ušširanni 10 LU₂.MEŠ māt Meluḫa Kaši"}
+  - id: ane-ea-095-rib-addi-to-the-great-one
+    tradition: ane-akkadian
+    title: "Rib-Hadda to an Egyptian magnate: Amun and the Lady of Byblos; the king of Mittani looks on Amurru; ʿAbdi-Aširta very sick (EA 095)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 095"]
+    tags:
+      - {motif: city-goddess-gives-power-to-overlord, refs: ["EA 095 o:3-6"], note: "{d}Amana u {d}NIN ša Gubla tiddinū bāštaka ina pāni šarri: here Amun and the Lady of Byblos give the official dignity before the king"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 095 o:16", "EA 095 r:34-40"], note: "leqa ERIN₂.MEŠ piṭâti ... 2 ME LU₂.MEŠ māt Meluḫḫa"}
+      - {motif: nubian-troops-requested, refs: ["EA 095 r:39-40"]}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 095 r:27-33"], note: "šar Mittani: māt Amurri yidaggal u yiqbi mīnu māt annītu māʾdat; broken"}
+    hints:
+      - "ʿAbdi-Aširta marṣu magal, 'who knows whether he has died' (r:41-42): compare 2 Kgs 1:2-4, 8:7-10 (an enemy king's sickness)."
+  - id: ane-ea-243-biridiya-guard-megiddo
+    tradition: ane-akkadian
+    title: "Biridiya: I guard Megiddo day and night, by day with chariots, by night on the walls; the SA.GAZ are strong (EA 243)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 243"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 243 o:2", "EA 243 o:6"]}
+      - {motif: sevenfold-prostration, refs: ["EA 243 o:5-7"]}
+      - {motif: guard-day-and-night, refs: ["EA 243 o:10-r:18"], note: "inaṣṣaru Magidda ... ūma u mūša lēla; ūma ištu eqlēti ina narkabāti u lēla inaṣṣaru dūrāt ali"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 243 o:13", "EA 243 r:16"], note: "GI₆ 'night' glossed le-la, Canaanite lēlā (Hebrew laylâ)"}
+      - {motif: habiru-sa-gaz, refs: ["EA 243 r:19-21"], note: "dannat nukurti LU₂.MEŠ SA.GAZ ina māti"}
+    hints:
+      - "Compare Neh 4:16-17 (guard by night, work by day) and Isa 62:6, Ps 127:1 (watchmen on the walls)."
+  - id: ane-ea-242-biridiya-tribute
+    tradition: ane-akkadian
+    title: "Biridiya: I have given the king's demand, 30 oxen, goats and birds (EA 242)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 242"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 242 o:6-8"], note: "7-šu u 7-tān uš-ḫe-ḫi-in, šukênu in a Canaanite-shaped form"}
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 242 o:9-12"], note: "erišti šarri ... 30 GU₄.MEŠ, goats, iṣṣūrāte; reverse broken"}
+  - id: ane-ea-321-yidya-ashkelon
+    tradition: ane-akkadian
+    title: "Yidya of Ashkelon: the Sun from heaven; groom of your horses; I guard the king's place (EA 321)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 321"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 321 o:2-4", "EA 321 o:11-12", "EA 321 r:18-19"], note: "{d}UTU ša ištu šamê"}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 321 o:7-8"]}
+      - {motif: vassal-groom-of-kings-horses, refs: ["EA 321 o:8-9"], note: "kartappi ša sisêka"}
+      - {motif: sevenfold-prostration, refs: ["EA 321 o:10-14"], note: "lū ištaḫaḫin, Canaanite-shaped šukênu, compare Hebrew hištaḥăwâ"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 321 b.e:15-r:26"], note: "išteme awâtišu magal magal ... anaṣṣaru ašar šarri"}
+  - id: ane-ea-326-yidya-strong-hands
+    tradition: ane-akkadian
+    title: "Yidya of Ashkelon: may the king's gods and his two strong hands guard his land (EA 326)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 326"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 326 o:1-2"]}
+      - {motif: vassal-groom-of-kings-horses, refs: ["EA 326 o:3-5"]}
+      - {motif: prostration-on-belly-and-back, refs: ["EA 326 o:5-8"], note: "lū ištaḫaḫin ṣēru-ma u kabatu-ma"}
+      - {motif: kings-gods-and-strong-hands-guard-land, refs: ["EA 326 o:10-12"], note: "ilānu ša šarri ... liṣṣurū ālānišu u 2 qātā ša šarri dannūtu-ma liṣṣurū gabbi mātišu"}
+      - {motif: guard-day-and-night, refs: ["EA 326 r:22-23"]}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 326 o:13-r:21"], note: "the commissioner Reʿanap; 'whatever comes out of the mouth of the king'"}
+    hints:
+      - "Compare Deut 4:34, 5:15 ('a mighty hand and an outstretched arm') and Ps 121:4-5."
+  - id: ane-ea-329-zimreddi-lachish
+    tradition: ane-akkadian
+    title: "Zimreddi of Lachish: the Sun from heaven; I have heard the messenger's words (EA 329)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 329"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 329 o:3-4", "EA 329 o:10"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 329 o:7-8"]}
+      - {motif: sevenfold-prostration, refs: ["EA 329 o:11-12"], note: "ištiḫaḫin"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 329 o:13-r:20"]}
+    hints:
+      - "Lachish: compare Josh 10:3, 10:31-32 (Japhia king of Lachish)."
+  - id: ane-ea-192-arzawya
+    tradition: ane-akkadian
+    title: "Arzawya: dust of the king's feet; let the king hear and not neglect his land (EA 192)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 192"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 192 o:2", "EA 192 o:8"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 192 o:6"]}
+      - {motif: sevenfold-prostration, refs: ["EA 192 o:7-9"]}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 192 o:10-r:17"], note: "lā yimeki šarru ištu mātišu"}
+  - id: ane-ea-098-yapah-addi-to-yanhamu
+    tradition: ane-akkadian
+    title: "Yapaḫ-Hadda to Yanḫamu: all lands from Byblos to Ugarit hostile; ships of Arwad block grain to Ṣumur (EA 098)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 098"]
+    tags:
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 098 o:3-12"], note: "nakrat gabbi mātāti arki ʿAziri ištu Gubli adi Ugariti"}
+      - {motif: naval-blockade-cuts-grain-to-city, refs: ["EA 098 b.e:13-r:21"], note: "šakan {giš}MA₂.MEŠ Arwada ina Ambi u ina Šigati ana balī šūrubi ŠE.MEŠ ana Ṣumuri"}
+    hints:
+      - "Arwad: compare Gen 10:18 and Ezek 27:8, 11."
+  - id: ane-ea-317-dagan-takala
+    tradition: ane-akkadian
+    title: "Dagan-takala: as my father and grandfather did for the Great King, so I do (EA 317)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 317"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 317 o:4-6"]}
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 317 o:13-r:18"], note: "kīma abiya u abi abiya-ma tipušū ana šarri rabî anāku ... ipuš"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 317 o:10-12", "EA 317 r:19-25"], note: "šime-ma ana rābiṣ ḫazanika ... išme-ma danniš"}
+  - id: ane-ea-178-hibiya
+    tradition: ane-akkadian
+    title: "Ḫibiya to the magnate: we have gone up into the mountains; much grain in Amurru (EA 178)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 178"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["EA 178 o:1-3"]}
+      - {motif: guard-day-and-night, refs: ["EA 178 o:4-11"], note: "nītali ina šadê ... inaṣṣaršu adi kašādu rabî; dannat nukurtu eli ālāni; interpretive"}
+    hints:
+      - "Compare Judg 6:2 (Israel took refuge in the mountains) and 1 Sam 13:6."
+  - id: ane-ea-241-rusmanya-footstool
+    tradition: ane-akkadian
+    title: "Rusmanya of Šaruna: dust of your feet, clay you tread, footstool of my lord's feet (EA 241)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 241"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 241 o:5-6"], note: "SAḪAR.MEŠ ša šēpēka ṭīdi ša kabāšika"}
+      - {motif: vassal-footstool-of-kings-feet, refs: ["EA 241 o:7"], note: "{giš}GIR₃ (gištappu) ša šēpē bēliya"}
+      - {motif: sevenfold-prostration, refs: ["EA 241 o:8"]}
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 241 o:9-11"], note: "anāku ward šarri ištu dāriti"}
+    hints:
+      - "Compare Ps 110:1 ('until I make your enemies your footstool'), Ps 99:5, 132:7 and Isa 66:1."
+      - "Šaruna is perhaps the Sharon (Josh 12:18 'Lasharon')."
+  - id: ane-ea-337-hizziri-provisions
+    tradition: ane-akkadian
+    title: "Ḫizziri: provisions made ready for the great army of archers; may the king come out and learn his lands (EA 337)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 337"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 337 o:2"]}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 337 o:7-13", "EA 337 r:18-23"], note: "šušir-mi āširāti maṭnia ana pāni ERIN₂.MEŠ rabûti piṭâti; vassal answers šušširti; maṭnia is a West Semitic word for gifts/provisions"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 337 r:24-t.e:30"], note: "uṣur-mi ... Maya rābiṣ šarri"}
+      - {motif: kings-gods-and-strong-hands-guard-land, refs: ["EA 337 b.e:14-r:18"], note: "DINGIR ša šarri ... yittaṣa šarru qadu ERIN₂.MEŠ rabî, interpretive: the king's god is to grant that he come out with his army"}
+  - id: ane-ea-062-abdi-ashirta-defence
+    tradition: ane-akkadian
+    title: "ʿAbdi-Aširta to Paḫḫanate: I am no enemy of Egypt; I saved Ṣumur and four men from the Šeḫlali troops; the mayors lie (EA 062)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 062"]
+    tags:
+      - {motif: accused-vassal-protests-innocence, refs: ["EA 062 o:4-23", "EA 062 r:26-34"], note: "attā-mi nakru ša māt Miṣri u teppuš arna; 'if I had not come from Irqata, they would have burned Ṣumur and its palace with fire'; 4 napšāti uwwî, 25 killed"}
+      - {motif: city-burned, refs: ["EA 062 o:16-20"], note: "a threatened burning: lū išarrapūni ina išāti Ṣumura"}
+      - {motif: vassal-says-rivals-slander-him, refs: ["EA 062 r:39-45"], note: "ammīni ikazzibūni ḫazanūtu ana pānika u teštenemme ... Yamaya ... ikazzib"}
+    hints:
+      - "Compare Josh 22:21-29 (the accused tribes protest they meant no rebellion) and 1 Sam 24:10-16."
+  - id: ane-ea-275-yahzib-hadda
+    tradition: ane-akkadian
+    title: "Yaḫzib-Hadda: dust of your feet; the king's word is being carried out (EA 275)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 275"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 275 o:2", "EA 275 o:7-8"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 275 o:5-6"]}
+      - {motif: sevenfold-prostration, refs: ["EA 275 o:8"]}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 275 o:9-r:14"]}
+  - id: ane-ea-222-yiktasu
+    tradition: ane-akkadian
+    title: "Yiktasu: what I have is given to the king (EA 222)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 222"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 222 o:4-6"], note: "7-šu 7-tān uš-ḫe-ḫi-in"}
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 222 o:6-11"], note: "ša ibašši ittiya nadnāti ana šarri"}
+  - id: ane-ea-177-yamiuta
+    tradition: ane-akkadian
+    title: "Yamiuta of Guddašuna: at the dust of the king's feet (EA 177)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 177"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 177 o:4-5"], note: "ana upri šēpē šarri ... amqut"}
+      - {motif: sevenfold-prostration, refs: ["EA 177 o:5"]}
+  - id: ane-ea-065-abdi-ashtarti
+    tradition: ane-akkadian
+    title: "ʿAbdi-Aštarti: fallen on belly and back; the king's cities are guarded and ready for the archers (EA 065)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 065"]
+    tags:
+      - {motif: prostration-on-belly-and-back, refs: ["EA 065 o:4-6"], note: "7 u 7 mila maqtāti u kabatu-ma u ṣuḫru-ma"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 065 o:5"], note: "ṣu-uḫ-ru, Canaanite ẓhr 'back'; also mi-la 'times'"}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 065 o:7-13"], note: "the vassal replies: ālāni šarri ittiya u inaṣṣaru u išuširu ana pāni ERIN₂.MEŠ piṭâti"}
+  - id: ane-ea-273-lady-of-lionesses
+    tradition: ane-akkadian
+    title: "The Lady of the Lionesses, 'your maidservant': the land lost to the SA.GAZ; they were sent to Aijalon and Zorah (EA 273)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 273"]
+    tags:
+      - {motif: female-ruler-kings-maidservant, refs: ["EA 273 o:4-5"], note: "umma {f}NIN-UR.MAḪ.MEŠ GEME₂-ka"}
+      - {motif: sevenfold-prostration, refs: ["EA 273 o:5-7"]}
+      - {motif: land-deserts-to-habiru, refs: ["EA 273 o:8-14"], note: "gamrat māt šarri ina paṭāri ina LU₂.MEŠ SA.GAZ"}
+      - {motif: habiru-sa-gaz, refs: ["EA 273 r:18-21"], note: "šaprū LU₂.MEŠ SA.GAZ ana Ayaluna u ana Ṣarḫa"}
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 273 r:22-24"], note: "ubān lā maḫṣū 2 DUMU.MEŠ Milkili, the two sons of Milkilu were almost killed; interpretive"}
+    hints:
+      - "Aijalon and Zorah: compare Josh 10:12, 19:41-42; Judg 1:35, 13:2 (Zorah, Samson's town)."
+      - "Compare Judg 4-5 (Deborah, a woman leader) and Q 27:29-44 (the queen of Sheba writing to and submitting to Solomon)."
+  - id: ane-ea-127-rib-addi-no-kushites
+    tradition: ane-akkadian
+    title: "Rib-Hadda: Byblos made over to the SA.GAZ; send 100 men of Kush and 30 chariots until the great army comes (EA 127)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 127"]
+    tags:
+      - {motif: land-deserts-to-habiru, refs: ["EA 127 o:17-b.e:21"], note: "tineppša-mi Gubla ana LU₂.MEŠ SA.GAZ.MEŠ"}
+      - {motif: nubian-troops-requested, refs: ["EA 127 b.e:21-22", "EA 127 r:35-37"], note: "yānum ERIN₂.MEŠ Kaša ... 1 ME ERIN₂.MEŠ māt Kaši u 30 {giš}GIGIR.MEŠ"}
+      - {motif: vassal-says-rivals-slander-him, refs: ["EA 127 r:23-25"], note: "Yanḫamu with the king: ana karṣi Gubla ālu kitti-mi"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 127 r:38-t.e:42"], note: "adi aṣê ERIN₂.MEŠ piṭâti rabîti ... pašḫat mātišu"}
+      - {motif: habiru-sa-gaz, refs: ["EA 127 l.e:46"]}
+  - id: ane-ea-263-house-plundered
+    tradition: ane-akkadian
+    title: "A ruler: when I entered my lord's house all was taken, silver, men, sheep; send garrison and horses (EA 263)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 263"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 263 o:4-5"]}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 263 o:6-r:17", "EA 263 l.e:33-34"], note: "laqi kaspu laqi LU₂.MEŠ laqi UDU.UDU.MEŠ ṣu-u-nu ḫasilū ālānū; Tagi and Labʾaya named at the end"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 263 o:12-13", "EA 263 r:25", "EA 263 r:28"], note: "ṣu-u-nu (Hebrew ṣōʾn 'flock') glossing UDU.UDU; ḫa-si-lu (ḥsl); ANŠE.KUR.MEŠ su-u-si-ma (Hebrew sûsîm 'horses')"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 263 r:23-28"]}
+  - id: ane-ea-229-abdi-na
+    tradition: ane-akkadian
+    title: "ʿAbdi-Na...: dust of the feet of the king, my Sun (EA 229)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 229"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 229 o:5-7"], note: "SAḪAR.MEŠ ša šēpē šarri bēliya {d}UTU-ia; tablet ends at o:7"}
+  - id: ane-ea-048-balm-for-the-lady
+    tradition: ane-akkadian
+    title: "...-Ḫeba to her Lady: a jar of balsam (EA 048)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 048"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["EA 048 o:1-4"], note: "a woman to a woman: ana bēltiya ... GEME₂-ki ana šēpē bēltiya amqut; probably queen of Ugarit to the Egyptian queen"}
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 048 o:5-8"], note: "DUG ŠIM ṣu-ur-wa, a jar of aromatic ṣurwa"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 048 o:8"], note: "ṣurwa, compare Hebrew ṣŏrî 'balm'"}
+    hints:
+      - "Compare Gen 37:25, 43:11 (ṣŏrî carried to Egypt as a gift) and Jer 8:22, 46:11 (balm in Gilead)."
+  - id: ane-ea-045-ammistamru-hatti
+    tradition: ane-akkadian
+    title: "ʿAmmiṯtamru of Ugarit: greetings to the Sun; the king of Hatti threatens me over the men of Amurru (EA 045)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 045"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 045 o:1", "EA 045 o:4", "EA 045 o:18-20"], note: "šarru {d}UTU-ši bēliya, 'the king, the Sun, my lord'"}
+      - {motif: sevenfold-prostration, refs: ["EA 045 o:3"]}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 045 o:22-r:35"], note: "šar māt Ḫatte: ammīni mārē šiprišu taṣabbat ... šumma tušebbalšunu anakkir; assurri-mma šar Ḫatte ittiya inakkir"}
+      - {motif: overlord-breath-of-life, refs: ["EA 045 r:32-33"], note: "TI.LA.MEŠ balāṭa ša napištiya ... liqbi TI.LA napištiya {d}UTU-ši: let the Sun speak the life of my soul"}
+  - id: ane-ea-047-ugarit-messengers
+    tradition: ane-akkadian
+    title: "A king of Ugarit: my fathers served your fathers; why do you give tablets to other kings' messengers but not mine? (EA 047)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 047"]
+    tags:
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 047 o:8-11"], note: "abbūya ana abbūka wardūta ipušū; u inanna anāku ana šarri {d}UTU-ši bēliya lū ardu-ma"}
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 047 o:10", "EA 047 r:25"]}
+      - {motif: vassal-says-rivals-slander-him, refs: ["EA 047 r:22-23"], note: "ammīni tešemme ana gabbi awâte ša Ḫanya"}
+  - id: ane-ea-046-ugarit-fathers
+    tradition: ane-akkadian
+    title: "A king of Ugarit: my fathers and the Sun my lord; I am the servant of the Sun (EA 046)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 046"]
+    tags:
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 046 o:1-2", "EA 046 r:22-25"], note: "{lu₂}abbāʾeya ... {d}UTU-ši bēli kīma pānānu ... anāku ward {d}UTU-ši; right half of every line lost"}
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 046 r:25-27"]}
+  - id: ane-ea-145-zimreddi-breath-of-the-king
+    tradition: ane-akkadian
+    title: "Zimreddi to an official: the breath of the king's mouth restored me; all your servants wait for you (EA 145)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 145"]
+    tags:
+      - {motif: overlord-breath-of-life, refs: ["EA 145 o:5-10", "EA 145 b.e:15-r:22"], note: "šāri {uzu}KA pîšu tutīranni; 'the king has neglected his lands and the breath of his mouth does not reach his servants'"}
+      - {motif: servants-wait-for-overlord, refs: ["EA 145 r:27-29"], note: "gabbumi wardūka yaqwūnka; anāku adaggal 2 īnēka"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 145 r:22", "EA 145 r:28"], note: "ṣuḫri (ẓhr); ia-aq-wu-un-ka, Canaanite qwy 'wait for'"}
+    hints:
+      - "Compare Ps 25:3, 37:9, Isa 40:31 (those who wait, qwy, for YHWH) and Ps 123:2 (eyes of servants on the master's hand)."
+      - "Compare Lam 4:20 ('the breath of our nostrils, YHWH's anointed') and Gen 2:7."
+  - id: ane-ea-218-ruler-maya
+    tradition: ane-akkadian
+    title: "A ruler: I am preparing as the king said; I heard Maya well; let the king send troops (EA 218)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 218"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 218 o:5-7"]}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 218 o:7-r:14"], note: "ešušširu kīma qabi šarri"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 218 r:15-17"]}
+  - id: ane-ea-265-tagi-gifts
+    tradition: ane-akkadian
+    title: "Tagi: my man sent to see the king's face; gold cup and 12 pairs of linen received (EA 265)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 265"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 265 o:3-4"], note: "here only 'I fall', no number"}
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 265 o:7-r:13"], note: "a shipment (šu-lu-uḫ-ta) by Taḫmaya: 1 gold cup, 12 pairs of linen; here sent by the king to the vassal"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 265 o:8"], note: "šulūḫta, West Semitic šlḥt 'shipment', compare Hebrew šillûḥîm"}
+  - id: ane-ea-310-fragment
+    tradition: ane-akkadian
+    title: "A ruler: I guard the king's city; the Sun from heaven (EA 310)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 310"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 310 r:12'-13'"], note: "the opening is lost; o:1' x-ḫi-in is the end of the prostration verb"}
+      - {motif: guard-day-and-night, refs: ["EA 310 o:3'-5'"], note: "anaṣṣaru ālu šarri"}
+  - id: ane-ea-208-puhuru
+    tradition: ane-akkadian
+    title: "A fragment: ask Puḫuru whether the king's cities are at peace (EA 208)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 208"]
+    tags:
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 208 o:5'-8'"], note: "Puḫuru šalšu ... inūma šalmū ālāni šarri; opening lost"}
+  - id: ane-ea-237-cities-taken
+    tradition: ane-akkadian
+    title: "A ruler (Bayadi?): Labʾaya('s men) took the king's cities; I guard the one city left (EA 237)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 237"]
+    tags:
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 237 o:2'-8'", "EA 237 b.e:11'-12'"], note: "ilteqû ... Labʾaya u izzazzū eli ālāni ša šarri; opening broken"}
+      - {motif: loyal-vassal-alone-among-defectors, refs: ["EA 237 r:13'-18'"], note: "ālu ša ibaššāti ina libbiši ... naṣrātiši adi atamar 2 īnē"}
+  - id: ane-ea-066-fragment
+    tradition: ane-akkadian
+    title: "A fragment: Ḫaya; strong hostility against my land (EA 066)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 066"]
+    tags:
+      - {motif: vassal-pleads-for-archers, refs: ["EA 066 o:6-10"], note: "dannat nukurti eliya; most of the tablet broken, the plea is implied rather than stated"}
+  - id: ane-ea-179-tubihu-brother
+    tradition: ane-akkadian
+    title: "A ruler: my brother in Tubiḫu went over to the GAZ; the king's god gave and I seized Tubiḫu and cursed my brother (EA 179)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 179"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 179 o:11'", "EA 179 r:21'"]}
+      - {motif: overlord-breath-of-life, refs: ["EA 179 o:11'-13'"], note: "lutēra-mi šarru ... awâta u upša ana ward šarri, interpretive: 'word and breath'"}
+      - {motif: ruler-curses-defecting-brother, refs: ["EA 179 o:14'-r:29'"], note: "aḫiya ša ibašše ana Ṭubiḫi ... ana LU₂.MEŠ GAZ; iddin DINGIR šarri ... u ṣabta Ṭubiḫi u irar aḫiya ... ālu bīt abiya"}
+      - {motif: habiru-sa-gaz, refs: ["EA 179 r:22'"]}
+    hints:
+      - "Compare Judg 9:1-6, 56-57 (Abimelech, his brothers and Jotham's curse) and Gen 49:7."
+  - id: ane-ea-194-biryawaza
+    tradition: ane-akkadian
+    title: "Biryawaza: we serve the king from of old like Šuttarna my father; the caravan to Naharima (EA 194)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 194"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 194 o:3-5"]}
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 194 o:5-10"], note: "nīnu wardū aradu šarri ištu dāriti kīma Šutarna abiya kīma Ḫaš..tar abi abiya"}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 194 r:20-24"], note: "ana naṣār ālāni u KASKAL ša uššerta ana māt Naḫrima; reverse mostly broken"}
+    hints:
+      - "Naḫrima: compare Aram-naharaim, Gen 24:10, Judg 3:8."
+  - id: ane-ea-276-yahzib-hadda
+    tradition: ane-akkadian
+    title: "Yaḫzib-Hadda: dust of your feet; the king's word carried out; the Sun from heaven (EA 276)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 276"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 276 o:5-6"]}
+      - {motif: sevenfold-prostration, refs: ["EA 276 o:6-8"]}
+      - {motif: overlord-sun-from-heaven, refs: ["EA 276 r:14-15"]}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 276 o:9-b.e:13"]}
+  - id: ane-ea-336-hizziri
+    tradition: ane-akkadian
+    title: "Ḫizziri: fallen seven and seven times (EA 336)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 336"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 336 o:4-5"], note: "the rest broken"}
+  - id: ane-ea-080-rib-addi-you-give-life
+    tradition: ane-akkadian
+    title: "Rib-Hadda (fragment): ʿAbdi-Aširta takes; you, the king, the Sun, give life to your loyal servant (EA 080)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 080"]
+    tags:
+      - {motif: overlord-gives-life-and-death, refs: ["EA 080 r:31-34"], note: "attā šarru {d}UTU bēliya u attā tuballiṭ ward kittika u ERIN₂.MEŠ piṭâtika; only the life half"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 080 o:19-20"], note: "ʿAbdi-Aširta ... uššira 1 ME"}
+  - id: ane-ea-072-rib-addi-alone
+    tradition: ane-akkadian
+    title: "Rib-Hadda (fragment): enemies against Byblos like Irqata and Ardata; what can I do alone? send 30 pairs of horses and chariots (EA 072)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 072"]
+    tags:
+      - {motif: loyal-vassal-alone-among-defectors, refs: ["EA 072 o:2'-11'"], note: "mīna ipušūna anāku ina ēdēniya"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 072 r:26'-27'"], note: "30 tāpal ANŠE.KUR.RA.MEŠ u n {giš}GIGIR"}
+      - {motif: habiru-sa-gaz, refs: ["EA 072 r:32'"]}
+  - id: ane-ea-291-fragment
+    tradition: ane-akkadian
+    title: "A fragment: they strike your troops; all the king's men are finished; let the king send (EA 291)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 291"]
+    tags:
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 291 r:13-18", "EA 291 l.e:24-25"], note: "timḫaṣūnani ana ERIN₂.MEŠ-ka ... gamrū gabbi LU₂.MEŠ šarri; lumašer šarru"}
+  - id: ane-ea-056-akizzi-etakkama
+    tradition: ane-akkadian
+    title: "Akizzi of Qaṭna: I trust in my lord's troops and chariots; Etakkama has seized the cities; the kings allied with Hatti (EA 056 + EA 361)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 056 + EA 361"]
+    tags:
+      - {motif: vassal-trusts-in-overlords-troops-and-chariots, refs: ["EA 056 + EA 361 o:9-13"], note: "anāku ištu ša bēliya lā apaṭṭar u ana ša bēliya ṣābīšu u ana narkabātišu taklāku"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 056 + EA 361 o:23-28"], note: "Etakkama ṣabtu gabbi ālānini ... with Arsawya of Ruḫizi"}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 056 + EA 361 r:36-44"], note: "šarrānu 3 u 4 nakrū ana ša šar māt Ḫatte; KUR Ḫurri"}
+    hints:
+      - "Compare Ps 20:8 (some trust in chariots and some in horses), Isa 31:1 and 2 Kgs 18:24 (trusting in Egypt for chariots)."
+  - id: ane-ea-257-baal-mehir-yoke
+    tradition: ane-akkadian
+    title: "Baʿlu-meher: I have put my neck in the yoke I carry; I serve the king very much (EA 257)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 257"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 257 o:5-6"]}
+      - {motif: vassal-neck-in-kings-yoke, refs: ["EA 257 b.e:12-r:16"], note: "anumma šaknāti kišādiya ina ḫu-li ša ubbalu"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 257 r:15"], note: "ḫu-li, Canaanite ʿull/ʿōl 'yoke'"}
+      - {motif: vassal-serves-as-his-fathers-did, refs: ["EA 257 r:17-22"], note: "urradūšu magal magal; here present service only, not his fathers'"}
+    hints:
+      - "Compare Jer 27:8, 11-12 ('bring your neck under the yoke of the king of Babylon and serve him and live') and 1 Kgs 12:4."
+  - id: ane-ea-058-tehu-teshub
+    tradition: ane-akkadian
+    title: "Teḫu-Teššub: the king of Mittani has gone out with chariots and troops; we are afraid (EA 058)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 058"]
+    tags:
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 058 o:4-9"], note: "šar Mittan aṣi qadu narkabti u qadu ERIN₂.MEŠ ... palḫānu ištu šâšu"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 058 r:3'"], note: "ʿAbdi-Aširta named; context broken"}
+  - id: ane-ea-154-abi-milki-water-and-wood
+    tradition: ane-akkadian
+    title: "Abi-Milku of Tyre: dust from the king's sandals; Sidon kills my men who go to the mainland for wood and water (EA 154)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 154"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 154 o:4-5"], note: "anāku epru ištu šēni šarri"}
+      - {motif: sevenfold-prostration, refs: ["EA 154 o:3"]}
+      - {motif: island-city-without-water-or-wood, refs: ["EA 154 o:14-b.e:23"], note: "LU₂ Ṣiduna ... LU₂.MEŠ-ia aradda ana erṣeti ana leqê iṣṣī leqê mê ana šitî; 1 man killed, 1 taken; Zimreddi"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 154 r:24-25"], note: "Zimreddi of Sidon u LU₂ arni ʿAziru"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 154 o:7"], note: "ia-ku-un, Canaanite kwn 'be'"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 154 o:5-10", "EA 154 r:26-27"], note: "ḫadiyāku magal magal; 'the servant who listens to his lord: his city is well, his house is well'"}
+    hints:
+      - "Compare Ezek 26-28 (Tyre in the midst of the sea) and Isa 23."
+      - "Compare Josh 9:21-27 ('hewers of wood and drawers of water')."
+  - id: ane-ea-152-abi-milki-maidservant-city
+    tradition: ane-akkadian
+    title: "Abi-Milku: my city is the king's maidservant; Zimreddi of Sidon is hostile; give me 80 men (EA 152)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 152"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 152 o:1", "EA 152 o:4", "EA 152 r:54"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 152 o:3"], note: "epru ištu šupāli šēni šēpē bēliya"}
+      - {motif: city-called-kings-maidservant, refs: ["EA 152 o:6"], note: "ana ālišu GEME₂-šu"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 152 o:7-8"], note: "nukurtu Zimreddi LU₂ Ṣiduna ana muḫḫiya"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 152 r:47-50"], note: "liddinni 80 LU₂.MEŠ ana naṣār"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 152 r:56"], note: "u-bu-ud, Canaanite ʿbd 'to serve'"}
+    hints:
+      - "Compare Lam 1:1 (the city become a vassal) and Isa 47:1-2."
+  - id: ane-ea-219-gold-cups
+    tradition: ane-akkadian
+    title: "A ruler (fragment): 30 gold cups; let the king send archers (EA 219)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 219"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 219 o:4"]}
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 219 r:25"], note: "30 GAL.ḪI.A KU₃.GI, context broken"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 219 r:29-31"]}
+  - id: ane-ea-319-surashar-who-is-the-dog
+    tradition: ane-akkadian
+    title: "Ṣur-Ašar of Ginti-ašna: groom of your horses; who is the dog that would not obey the king, the Sun from heaven, son of the Sun? (EA 319)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 319"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 319 o:2-3", "EA 319 o:10-11", "EA 319 r:22-23"]}
+      - {motif: vassal-groom-of-kings-horses, refs: ["EA 319 o:6-8"]}
+      - {motif: prostration-on-belly-and-back, refs: ["EA 319 o:12-14"], note: "lū ištaḫaḫin kabattu u ṣēru-ma"}
+      - {motif: rhetorical-who-is-the-dog, refs: ["EA 319 r:19-22"], note: "u mannu-mi {lu₂}kalbu ša lā yišmu ana awâte šarri"}
+      - {motif: king-son-of-sun-god, refs: ["EA 319 r:23"], note: "DUMU {d}UTU, the Egyptian title 'son of Re'"}
+    hints:
+      - "Compare 1 Sam 17:43, 24:15; 2 Sam 9:8, 16:9 and 2 Kgs 8:13 ('what is your servant, a dog?')."
+      - "Compare Ps 2:7 (the king as God's son)."
+  - id: ane-ea-171-aziru-loves-servitude
+    tradition: ane-akkadian
+    title: "ʿAziru: I have long loved to enter the king's service, but Yanḫamu held back my messengers (EA 171)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 171"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 171 o:1-2", "EA 171 o:13"], note: "šarru DINGIR {d}UTU bēliya"}
+      - {motif: vassal-says-rivals-slander-him, refs: ["EA 171 o:3-13"], note: "ištu pānānum-ma irâm ana erēbi ina wardūti ... Yanḫamu lā uwaššaranni ... iktalašunu ina KASKAL"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 171 o:18-21", "EA 171 r:33-37"], note: "mimma erišti ša {d}UTU ... anāku epuš ... ištu awâtišu lā apaṭṭar"}
+  - id: ane-ea-186-mayarzana-habiru-raids
+    tradition: ane-akkadian
+    title: "Mayarzana of Ḫasi: the SA.GAZ sack and burn the king's cities, and Amanḫatpe of Tušulti gives them bread and oil (EA 186)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 186"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 186 o:1", "EA 186 o:4-5"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 186 o:4", "EA 186 o:10-11"], note: "epri šupāl šēpēka; nimūt ana šupāl šēpē šarri, 'we will die beneath the king's feet'"}
+      - {motif: habiru-sa-gaz, refs: ["EA 186 o:13-38", "EA 186 r:44-50"], note: "iṣabbatū-mi SA.GAZ.MEŠ Maḫzibti ... Giluni ... Magdali ... Ušte ... išallalūši u ina IZI išarrapūši"}
+      - {motif: city-burned, refs: ["EA 186 o:16-17", "EA 186 o:23-24", "EA 186 o:30-31", "EA 186 o:37-38"]}
+      - {motif: neighbour-ruler-harbours-habiru-raiders, refs: ["EA 186 o:17-20", "EA 186 o:25-27", "EA 186 o:31-34", "EA 186 r:39-42"], note: "refrain: ana maḫar Amanḫatpe LU₂ Tušulti irrubūna u Amanḫatpe iddinū-mi NINDA.MEŠ qadu I₃.MEŠ ana SA.GAZ.MEŠ"}
+      - {motif: traitor-flees-by-night-to-habiru, refs: ["EA 186 r:55-69"], note: "brothers and sons in chariots: idnā-mi SA.GAZ šāri ša šarri ... u ilqe SA.GAZ ... u iḫliq ana SA.GAZ ... u ide arnašu"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 186 l.e:77"], note: "ia-ri-im, Canaanite rwm 'be high'"}
+    hints:
+      - "Compare 1 Sam 30:1-3, 14 (Ziklag raided and burned with fire) and Judg 18:27."
+      - "Magdali: compare the Migdal- place names (Josh 15:37, 19:38); compare 1 Sam 22:2 (malcontents gather to a leader)."
+  - id: ane-ea-185-mayarzana-second-letter
+    tradition: ane-akkadian
+    title: "Mayarzana of Ḫasi (second letter): the same raids; one house left alive; battle at Ḫasi; Amanḫatpe flees by night to the SA.GAZ (EA 185)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 185"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 185 o:4-6"], note: "epri šupāl šēpē ... qaqqari ša kabāšišu"}
+      - {motif: sevenfold-prostration, refs: ["EA 185 o:8"]}
+      - {motif: habiru-sa-gaz, refs: ["EA 185 o:13-29", "EA 185 r:42-48"], note: "nipuš-mi tāḫāza ina SA.GAZ.MEŠ u nidakšunu"}
+      - {motif: city-burned, refs: ["EA 185 o:18-19", "EA 185 o:23-25", "EA 185 b.e:31-r:34", "EA 185 r:38-39"], note: "E₂ 1-en qarib balṭi-mi ištu Giluni, 'one house nearly survived'"}
+      - {motif: neighbour-ruler-harbours-habiru-raiders, refs: ["EA 185 o:19-20", "EA 185 o:26-27", "EA 185 r:35-36", "EA 185 r:40-41"]}
+      - {motif: traitor-flees-by-night-to-habiru, refs: ["EA 185 r:52-64"], note: "ilqešunu-mi ana mūši-mi u innabit-mi ana SA.GAZ.MEŠ"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 185 t.e:65-l.e:76"], note: "Amanḫatpe šāru ... šumrir ištu šâšu"}
+  - id: ane-ea-057-akizzi-tunip
+    tradition: ane-akkadian
+    title: "Akizzi of Qaṭna (fragment): the king of Barga, Puḫuru, Tunip (EA 057)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 057"]
+    tags:
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 057 o:2'-13'"], note: "only names survive: Akizzi king of Qaṭna, the king of Barga, Puḫuru, the kings of Tunip; interpretive"}
+  - id: ane-ea-281-shuwardata-these-dogs
+    tradition: ane-akkadian
+    title: "Šuwardata: my gods, my suns, my breath; all my cities hostile; who are these dogs that sin against the king? (EA 281)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 281"]
+    tags:
+      - {motif: overlord-breath-of-life, refs: ["EA 281 o:1-3"], note: "ilānūya u {d}UTU.MEŠ u šāriya"}
+      - {motif: prostration-on-belly-and-back, refs: ["EA 281 o:6-7"], note: "kabatu u ṣēru-ma"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 281 o:8-b.e:17", "EA 281 r:27-29"]}
+      - {motif: rival-called-dog-or-snake, refs: ["EA 281 r:22-26"], note: "mīya-mi yipušu arna ana šarri u UR.GI₇.MEŠ annûtu"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 281 r:23"], note: "mi-ia-mi, Canaanite mî 'who?'; also ti-ḫi-lu (r:18) 'they writhe/tremble before the king'"}
+    hints:
+      - "Compare Ps 96:9, 114:7 (ḥîlû, 'tremble before him') and Ps 59:7, 15 (enemies like dogs)."
+  - id: ane-ea-238-bayadi-life-and-death
+    tradition: ane-akkadian
+    title: "Bayadi to the magnate: the cities entrusted to me are taken; send 50 men; you give us life and you kill us (EA 238)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 238"]
+    tags:
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 238 o:4-9", "EA 238 r:23-28"], note: "ālāni ša ipqid rabû ina qātiya ilteqû gabbi ālāni"}
+      - {motif: vassal-requests-garrison-troops, refs: ["EA 238 o:9-14"], note: "50 LU₂.MEŠ maṣṣarta"}
+      - {motif: overlord-gives-life-and-death, refs: ["EA 238 r:31-33"], note: "attunu tušabliṭūnanu u attunu timitūnanu (Canaanite mwt)"}
+    hints:
+      - "Compare Deut 32:39, 1 Sam 2:6, 2 Kgs 5:7; and Q 2:258, Q 53:44."
+  - id: ane-ea-054-akizzi-hatti
+    tradition: ane-akkadian
+    title: "Akizzi of Qaṭna: Etakkama of Qadesh, Arsawya of Ruḫizi and Teuwatti of Lapana have joined the king of Hatti (EA 054)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 054"]
+    tags:
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 054 o:22-b.e:34"], note: "Aiṭugama LU₂ Qinsa ... Arsawya LU₂ Ruḫizi u Teuwatti LU₂ Labana ... itti šar māt Ḫatte iḫḫazūni"}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 054 r:38-55"], note: "the messenger: 'I went to Mittani; three or four kings are hostile on the side of Hatti'; Carchemish named"}
+  - id: ane-ea-223-intaruta
+    tradition: ane-akkadian
+    title: "Intaruta: the Sun from heaven; all the king says is being done (EA 223)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 223"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 223 o:1-2"], note: "{d}UTU ištu sa-me-ma"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 223 o:2"], note: "samêma, lemmatized as West Semitic šmym"}
+      - {motif: sevenfold-prostration, refs: ["EA 223 o:5-6"], note: "ušḫeḫin"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 223 o:7-10"]}
+  - id: ane-ea-146-abi-milki-no-water
+    tradition: ane-akkadian
+    title: "Abi-Milku: you are the Sun, the sweet breath; I guard Tyre awaiting the king's breath; Zimreddi gives us no water (EA 146)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 146"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 146 o:4-5"]}
+      - {motif: overlord-breath-of-life, refs: ["EA 146 o:6-13"], note: "attā {d}UTU ... {im}šēḫu ṭābu ... uqamma šāri šarri ana yâši adi ikaššad"}
+      - {motif: island-city-without-water-or-wood, refs: ["EA 146 o:14-21"], note: "Zimreddi ... ina ūmišam-ma ... A me-ma lā inaddinni ... A me-ma yānu ana šatîšunu"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 146 o:17", "EA 146 o:20"], note: "A glossed me-ma, Canaanite mêma 'water' (Hebrew mayim)"}
+      - {motif: habiru-sa-gaz, refs: ["EA 146 o:22"]}
+    hints:
+      - "Compare Ps 104:30 and Job 33:4 (the breath that gives life); compare Lam 4:20."
+  - id: ane-ea-128-ili-rapih
+    tradition: ane-akkadian
+    title: "Ili-rapiḫ of Byblos (fragment): the deed of the guilty man; ʿAziru (EA 128)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 128"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 128 r:22-23"], note: "ana KI.TA šēpē šarri ... 7-šu 7-tān amqut-ma"}
+      - {motif: vassal-denounces-rival-rulers, refs: ["EA 128 o:10", "EA 128 r:24-25"], note: "ʿAziru; ipiš LU₂ arnišu"}
+  - id: ane-ea-309-slaves-sent
+    tradition: ane-akkadian
+    title: "A ruler: the Sun from heaven; 100 silver, 10 male and 10 female slaves for the king (EA 309)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 309"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 309 o:3", "EA 309 r:27-28"]}
+      - {motif: vassal-sends-people-as-tribute, refs: ["EA 309 r:20-24"], note: "1 ME kaspu ... 10 IR₃.MEŠ u 10 {munus}GEME₂.MEŠ"}
+  - id: ane-ea-173-amqu
+    tradition: ane-akkadian
+    title: "A ruler in ʿAmqu (fragment): chariots fall on ʿAmqu; ten men sent; the king knows the word of his enemies (EA 173)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 173"]
+    tags:
+      - {motif: vassal-pleads-for-archers, refs: ["EA 173 o:1'-6'"], note: "itti narkabāti ana māt ʿAmqi imaqqut ... ERIN₂.MEŠ piṭâti 2 ālāni; broken"}
+      - {motif: vassal-sends-people-as-tribute, refs: ["EA 173 r:13'-14'"], note: "10 {lu₂-meš}ʿašīri uttašer, a category of personnel; interpretive"}
+  - id: ane-ea-210-zishamimi
+    tradition: ane-akkadian
+    title: "Zišamimi to Nibḫuriya (fragment): goods for the king (EA 210)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 210"]
+    tags:
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 210 o:1-6"], note: "ana Nibḫuriya (Tutankhamun's prenomen) ... unūte ana šarri; only six lines"}
+  - id: ane-ea-332-shipti-baal-lachish
+    tradition: ane-akkadian
+    title: "Šipṭi-Baʿlu of Lachish: dust of your feet, groom of your horse (EA 332)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 332"]
+    tags:
+      - {motif: overlord-sun-from-heaven, refs: ["EA 332 o:1-2"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 332 o:4"]}
+      - {motif: vassal-groom-of-kings-horses, refs: ["EA 332 o:5"]}
+    hints:
+      - "Lachish: Josh 10:3; the name Šipṭi-Baʿlu ('Baal judges') compare Shephatiah (2 Sam 3:4)."
+  - id: ane-ea-338-fragment
+    tradition: ane-akkadian
+    title: "A ruler (fragment): troops go out at the magnate's word (EA 338)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 338"]
+    tags:
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 338 o:5-8"], note: "aṣi ERIN₂.MEŠ ištu qabî rabî; mostly broken"}
+  - id: ane-ea-163-king-well-like-sun
+    tradition: ane-akkadian
+    title: "The king's letter (fragment): all lands live by seeing him; the king is well like the Sun in heaven from sunrise to sunset (EA 163)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 163"]
+    tags:
+      - {motif: king-well-like-sun-in-heaven, refs: ["EA 163 r:1'-5'"], note: "šalim šarru kīma {d}UTU-aš ina šamê ERIN₂.MEŠ-šu narkabātišu māʾdu"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["EA 163 r:3'-5'"], note: "ina māti eliti adi māti šapliti ṣīt šamši adi erēb šamši; the king's troops, not his rule, are said to be well over this span"}
+      - {motif: overlord-breath-of-life, refs: ["EA 163 o:2'-3'"], note: "gabbi mātāti iballuṭū ana amārišu, 'all lands live at seeing him'"}
+    hints:
+      - "Compare Ps 113:3, Mal 1:11 (from the rising of the sun to its setting) and Ps 72:5, 8, 17."
+      - "Compare Q 55:17 (Lord of the two easts and the two wests)."
+  - id: ane-ea-312-fragment
+    tradition: ane-akkadian
+    title: "A ruler (fragment): dust of your feet, charioteer of your horses; the city is taken; may the king give his breath (EA 312)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 312"]
+    tags:
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 312 o:3-4"]}
+      - {motif: vassal-groom-of-kings-horses, refs: ["EA 312 o:4-6"], note: "{lu₂}ku-zi ... ša ANŠE.KUR.RA.MEŠ-ka, a West Semitic word for the groom"}
+      - {motif: overlord-breath-of-life, refs: ["EA 312 r:20-21"], note: "liddina šarru šārašu"}
+      - {motif: rebel-sons-continue-fathers-revolt, refs: ["EA 312 o:11-15"], note: "ṣabtat ālu bēliya; who took it is lost; interpretive"}
+  - id: ane-ea-172-fragment
+    tradition: ane-akkadian
+    title: "A fragment of a list of wooden objects (EA 172)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 172"]
+    tags:
+      - {motif: vassal-sends-tribute-goods, refs: ["EA 172 o:1'-5'"], note: "only {giš} items and a number (10,000?) survive; interpretive"}
+  - id: ane-ea-339-fragment
+    tradition: ane-akkadian
+    title: "A ruler (fragment): to the king, my gods, my Sun (EA 339)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 339"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 339 o:1-2"], note: "only the address survives"}
+  - id: ane-ea-240-fragment
+    tradition: ane-akkadian
+    title: "A ruler (fragment): all made ready before the archers and chariots of the king (EA 240)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 240"]
+    tags:
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 240 o:1'-8'"], note: "anumma šušširāti kīma qabi ana pāni ERIN₂.MEŠ piṭâti u ana pāni narkabāti ša šarri"}
+  - id: ane-ea-164-aziru-oath-by-aten
+    tradition: ane-akkadian
+    title: "ʿAziru to Tutu: Ḫatip brought good words; the Hittite king is in Nuḫašše; let Tutu and the magnates swear by my gods and by Aten (EA 164)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 164"]
+    tags:
+      - {motif: overlord-breath-of-life, refs: ["EA 164 o:4-15"], note: "awâte šarri banûta u ṭābta u ḫadiyāku magal magal ... šarru ša šarri eliya"}
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 164 o:14-17"], note: "ištu awâte bēliya ... lā apaṭṭar"}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 164 o:21-b.e:24"], note: "šar māt Ḫatte illakam ina māt Nuḫašše ... lipṭur"}
+      - {motif: safe-conduct-oath-demanded, refs: ["EA 164 r:31-40"], note: "lūtammi Tutu u GAL.MEŠ ... šumma-mi niškuk mimma eli ʿAziri ša lā damiq ... tuttami ana ilāniya u ana {d}A (Aten)"}
+    hints:
+      - "Compare Gen 26:28-31 and 31:44-53 (oaths of non-aggression), 1 Sam 20:42 and 2 Sam 19:23 (oath that no harm will come)."
+  - id: ane-ea-166-aziru-to-haya
+    tradition: ane-akkadian
+    title: "ʿAziru to his 'brother' Ḫaya: I seek the king's good face; I fear the Hittite king in Nuḫašše (EA 166)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 166"]
+    tags:
+      - {motif: vassal-has-heard-kings-words-and-obeys, refs: ["EA 166 o:6-b.e:19"], note: "ubaʾʾi pāni šarri banûta ... ištu awâte bēliya lā apaṭṭar"}
+      - {motif: rival-empire-threatens-small-kingdom, refs: ["EA 166 r:20-29"], note: "šar māt Ḫatte ina māt Nuḫašše ašib u palḫāku ištu pānišu, assurri-mi ina māt Amurri illakam"}
+    hints:
+      - "Compare Ps 27:8, 105:4 (seeking the face) and Prov 29:26."
+  - id: ane-ea-144-zimreddi-head-lifted
+    tradition: ane-akkadian
+    title: "Zimreddi of Sidon: breath of my life; my head was lifted and my eyes shone at the king's word; cities given to the SA.GAZ (EA 144)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["EA 144"]
+    tags:
+      - {motif: overlord-breath-of-life, refs: ["EA 144 o:2", "EA 144 o:6-8"], note: "ilānūya {d}UTU-ia šāri balāṭiya"}
+      - {motif: city-called-kings-maidservant, refs: ["EA 144 o:10-12"], note: "šalmat Ṣiduna amat šarri ša iddin ina qātiya"}
+      - {motif: vassal-head-lifted-eyes-bright-at-kings-word, refs: ["EA 144 o:13-b.e:18"], note: "yiḫdi libbiya u yišaqqi rēšiya u innamrū 2 īnāya ḫe-na-ia ina šemê awât šarri"}
+      - {motif: canaanite-word-in-amarna-letter, refs: ["EA 144 b.e:17"], note: "2 IGI glossed ḫe-na-ia, Canaanite ʿênaya 'my eyes'"}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 144 r:19-21"], note: "šušerāku ina pāni ERIN₂.MEŠ piṭâti"}
+      - {motif: land-deserts-to-habiru, refs: ["EA 144 r:22-34"], note: "gabbi ālāni ša iddin šarru ina qātiya inneppušu ana LU₂.MEŠ SA.GAZ ... tutaršina ina qātiya"}
+    hints:
+      - "Compare Ps 3:4 (the lifter of my head), Ps 19:9 (the commandment enlightening the eyes), 1 Sam 14:27-29 and Ps 13:4."
+      - "Compare Lam 4:20 (the breath of our nostrils)."
