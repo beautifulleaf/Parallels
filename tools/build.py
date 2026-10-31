@@ -220,8 +220,10 @@ def clip(text, n):
     return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0] + "…"
 
 
-def search_text(lead):
-    bits = [lead.get("title"), lead.get("summary"), lead.get("direction"),
+def search_text(lead, rec):
+    """Words a reader may search for that the light record does not already carry (finding, note, unit titles)."""
+    have = " ".join([rec["f"], rec["n"], rec.get("t", "")]).lower()
+    bits = [lead.get("title") if not lead.get("units") else "", lead.get("summary"), lead.get("direction"),
             *(lead.get("motifs") or []), *(lead.get("concepts") or []),
             *[m.get("label") for m in lead.get("matches") or []],
             *[x for lx in lead.get("lexical") or [] for x in (lx.get("form"), lx.get("translit"), lx.get("gloss"))],
@@ -229,10 +231,10 @@ def search_text(lead):
     seen, out = set(), []
     for b in bits:
         b = re.sub(r"\s+", " ", str(b or "")).strip()
-        if b and b.lower() not in seen:
+        if b and b.lower() not in seen and b.lower() not in have:
             seen.add(b.lower())
             out.append(b)
-    return clip(" · ".join(out), 900)
+    return clip(" · ".join(out), 400)
 
 
 def load_verses(leads):
@@ -296,35 +298,46 @@ def write_site(taxonomy, leads):
         s, v = map(int, ref.split(":"))
         verse_count[s] = max(verse_count.get(s, 0), v)
 
-    records, by_surah, others = [], {}, []
+    records, by_surah, others, unit_table = [], {}, [], {}
     for lead in leads:
         anchors = quran_anchors(lead)
         prim = primary_surah(lead, anchors)
         partners = partner_traditions(lead)
         fam = family_of(partners[0], trad_by_id) if partners else "oth"
-        units = [[u.get("id"), u.get("title"), u.get("tradition")] for u in lead.get("units") or []]
+        units = lead.get("units") or []
         rec = {
             "id": lead["id"],
             "f": lead.get("finding") or lead["title"],
-            "t": lead["title"],
             "k": lead.get("kinds") or [],
             "tr": lead["traditions"],
-            "pt": partners,
             "fam": fam,
-            "u": units,
+            "u": [u.get("id") for u in lead.get("units") or []],
             "q": [[s, vs[0] if vs else 0, vs[-1] if vs else 0] for s, vs in sorted(anchors.items(), key=lambda x: x[0] != prim)],
-            "n": clip(first_note(lead), 260),
-            "st": lead["status"],
+            "n": clip(first_note(lead), 200),
             "sd": lead["standing"],
             "rel": lead["relations"],
             "ly": lead["layers"],
-            "rv": 1 if lead.get("reviews") else 0,
-            "cf": 1 if any(r.get("verdict") == "confirmed" for r in lead.get("reviews") or []) else 0,
-            "b": 1 if lead.get("benchmark") else 0,
-            "o": lead["origin"],
-            "m": len(lead.get("matches") or []),
-            "s": search_text(lead),
         }
+        for u in lead.get("units") or []:
+            unit_table.setdefault(u.get("id"), [u.get("title"), u.get("tradition")])
+        # only what differs from the common case is written, to keep the index light
+        if not lead.get("units") and lead["title"] != rec["f"]:
+            rec["t"] = lead["title"]
+        if lead["status"] != "new":
+            rec["st"] = lead["status"]
+        if lead.get("reviews"):
+            rec["rv"] = 1
+            if any(r.get("verdict") == "confirmed" for r in lead["reviews"]):
+                rec["cf"] = 1
+        if lead.get("benchmark"):
+            rec["b"] = 1
+        if lead["origin"] != "pipeline":
+            rec["o"] = lead["origin"]
+        if lead.get("matches"):
+            rec["m"] = len(lead["matches"])
+        extra = search_text(lead, rec)
+        if extra:
+            rec["s"] = extra
         if not units:   # leads without units: their passages stand in for the partner side
             rec["pp"] = [[p.get("tradition"), p.get("ref")] for p in lead.get("passages") or [] if p.get("tradition") != "islam"]
         records.append(rec)
@@ -371,7 +384,7 @@ def write_site(taxonomy, leads):
         entry["fam"] = fams
 
     # the index, split if it ever outgrows one file
-    shell_meta = {"surahs": surahs, "others": other_names, "verseSource": verse_source}
+    shell_meta = {"surahs": surahs, "units": unit_table, "others": other_names, "verseSource": verse_source}
     idx_parts = chunk(records, PART_BYTES - 100_000 - jsize(shell_meta), jsize)
     idx_names = [f"data/index-{i:02d}.json" for i in range(2, len(idx_parts) + 1)]
     write_json(data_dir / "index.json", {**shell_meta, "leads": idx_parts[0] if idx_parts else [], "more": idx_names})
