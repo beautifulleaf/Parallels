@@ -43,6 +43,7 @@ new_motifs:
   tomb-autobiography-titles-opening: {label: "The narrative opens like a tomb autobiography: the hero's string of titles, then 'he says: I was ...'", cluster: narrative-form}
   palace-in-mourning-at-kings-death: {label: "At the king's death the residence falls silent, the great gates are sealed and the courtiers sit head on knee in mourning", cluster: mourning}
   crown-prince-on-campaign-returns-to-claim-throne: {label: "The crown prince, away on campaign, receives secret word of his father's death and hurries home without telling his army", cluster: kingship}
+  host-embraces-and-kisses-victor: {label: "After the hero's victory, his foreign host takes him in his arms, kisses and embraces him", cluster: friendship}
   # --- Truth and Falsehood ---
   dagger-of-cosmic-size: {label: "A lent dagger is described in cosmic proportions: its blade the mountain of Yal, its hilt the trees of Coptos, its sheath the god's tomb, its strap the herds of Kar", cluster: myth}
   younger-brother-blinds-elder: {label: "The younger brother, Falsehood, has his elder brother Truth blinded and made doorkeeper of his house", cluster: primeval}
@@ -343,7 +344,7 @@ units:
     original: true
     tagger: "Claude Opus 5.5, reading the Egyptian"
     version: "W2, pBerlin P 10499 (R)"
-    read: ["Sinuhe W2:24-66"]
+    read: ["Sinuhe W2:24-65"]
     tags:
       - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W2:24-31"], note: "As in B; R:31 n ḏd =j ꜥnḫ r-sꜣ nn 'I did not expect to live after this'"}
       - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W2:41-45"]}
@@ -418,3 +419,188 @@ units:
     tags:
       - {motif: fugitive-made-commander-of-hosts-army, refs: ["Sinuhe W4:x+1-x+3/2"]}
       - {motif: strongman-challenges-hero-to-single-combat, refs: ["Sinuhe W4:x+4"], note: "mṯꜣ.n =f wj m ꜥ[fꜣy] =j 'he challenged me in my camp' (B has jmꜣ 'tent')"}
+  # ===================== Sinuhe W5 (oAshmolean 1945.40, AOS) =====================
+  - id: ane-sinuhe-w5-opening-and-flight
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS): titles, the king's death, the flight and rescue from thirst"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, Ramesside ostracon Ashmolean 1945.40 from Deir el-Medina (AOS); near-complete New Kingdom copy, many scribal errors"
+    read: ["Sinuhe W5:1-19/3"]
+    tags:
+      - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W5:1-2/2"]}
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W5:3/2-4/2"]}
+      - {motif: palace-in-mourning-at-kings-death, refs: ["Sinuhe W5:4/3-5/3"], note: "Variant: pꜥ,t m gr 'the nobles were in silence' (R: in mourning)"}
+      - {motif: crown-prince-on-campaign-returns-to-claim-throne, refs: ["Sinuhe W5:5/4-9"]}
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W5:9/2-12"], note: "Variant W5:11: rdi̯.n =j wj r-jmj-tw bꜣ,tj r jsq ḥr wꜣ,t šm.t =sn 'I put myself between two bushes to wait (out) the road they would take'; W5:12 'I did not expect to live after that excellent god'"}
+      - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W5:15-17"]}
+      - {motif: fugitive-dying-of-thirst-saved-by-nomads, refs: ["Sinuhe W5:17/3-19/3"]}
+  - id: ane-sinuhe-w5-retenu-and-eulogy
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS): Qedem, Ammunenshi, the excuse, the eulogy, Yaa and the years of prosperity"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, oAshmolean 1945.40 (AOS)"
+    read: ["Sinuhe W5:20-43/2"]
+    tags:
+      - {motif: fugitive-passed-from-land-to-land, refs: ["Sinuhe W5:20"]}
+      - {motif: foreign-ruler-welcomes-fugitive, refs: ["Sinuhe W5:20/2-22"]}
+      - {motif: fugitive-gives-evasive-account, refs: ["Sinuhe W5:22/2-24/3"]}
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W5:24/4"], note: "AOS, like R, has the dream simile here: jw mj sšm.w rs,wt mj gmḥ sw jdḥ,j m ꜣbw 'like a dream, like a Delta man seeing himself in Elephantine'"}
+      - {motif: eulogy-of-king-to-foreign-ruler, refs: ["Sinuhe W5:25-35/2"], note: "Variant W5:28: 'while my father was in his palace' (for 'his father'); the scribe omitted a passage (W5:30/2 editorial note)"}
+      - {motif: host-marries-fugitive-to-eldest-daughter, refs: ["Sinuhe W5:36"]}
+      - {motif: foreign-land-of-figs-wine-honey-oil, refs: ["Sinuhe W5:36/3-37/3"]}
+      - {motif: exile-prospers-and-children-become-chiefs, refs: ["Sinuhe W5:38-39/3"]}
+      - {motif: hero-gives-water-to-thirsty-guides-lost, refs: ["Sinuhe W5:40-40/3"]}
+      - {motif: fugitive-made-commander-of-hosts-army, refs: ["Sinuhe W5:41-43/2"]}
+  - id: ane-sinuhe-w5-duel
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS): the strongman's challenge and the duel"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, oAshmolean 1945.40 (AOS)"
+    read: ["Sinuhe W5:43/3-56/2"]
+    tags:
+      - {motif: strongman-challenges-hero-to-single-combat, refs: ["Sinuhe W5:43/3-44/2"], note: "jy nḫt n Rtnw r mṯꜣ =j m jmw =j"}
+      - {motif: stranger-bull-in-another-herd, refs: ["Sinuhe W5:46/2-46/3"]}
+      - {motif: hero-kills-champion-with-his-own-axe, refs: ["Sinuhe W5:52-54"]}
+      - {motif: victor-does-to-foe-what-foe-planned, refs: ["Sinuhe W5:55/3-56/2"]}
+      - {motif: host-embraces-and-kisses-victor, refs: ["Sinuhe W5:55-55/2"], note: "AOS adds: wn.jn =f ḥr sn.ny =j ḥr ḥpt.y =j 'then he kissed me and embraced me'"}
+    hints:
+      - "Compare 1 Sam 17 (David and Goliath) and 1 Sam 18:1-4 (Jonathan's love after the victory)."
+  - id: ane-sinuhe-w5-reflection-and-prayer
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS): the fugitive's sayings, prayer to return, old age"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, oAshmolean 1945.40 (AOS)"
+    read: ["Sinuhe W5:56/3-69"]
+    tags:
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W5:56/4"]}
+      - {motif: fugitive-sayings-contrast-need-and-wealth, refs: ["Sinuhe W5:57/2-59/4"]}
+      - {motif: exile-prays-to-return-home-before-death, refs: ["Sinuhe W5:59/5-63/2"], note: "AOS adds a complaint to the god: ṯzi̯.n =k n =j nn rḫ =j sw sfn =k wj m-mꜣꜥ,t 'you reproached me with what I do not know; will you truly mistreat me?'"}
+      - {motif: father-burial-in-homeland, refs: ["Sinuhe W5:60/4"]}
+      - {motif: old-age-described-limb-by-limb, refs: ["Sinuhe W5:64-67/2"], note: "AOS: 'my feet have ceased to go and to follow my heart to the residence'"}
+      - {motif: wish-to-greet-queen-and-serve-her-children, refs: ["Sinuhe W5:68-69"]}
+  - id: ane-sinuhe-w5-royal-letter
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS verso): the king's decree recalling Sinuhe; Sinuhe's joy"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, oAshmolean 1945.40 (AOS), verso"
+    read: ["Sinuhe W5:Verso_1-Verso_20/2"]
+    tags:
+      - {motif: king-writes-to-recall-exile, refs: ["Sinuhe W5:Verso_1-Verso_12/3"]}
+      - {motif: wish-to-greet-queen-and-serve-her-children, refs: ["Sinuhe W5:Verso_11/2-Verso_11/3"]}
+      - {motif: old-age-described-limb-by-limb, refs: ["Sinuhe W5:Verso_13-Verso_13/2"]}
+      - {motif: promise-of-burial-in-egypt-not-in-ramskin, refs: ["Sinuhe W5:Verso_13/3-Verso_18/3"], note: "AOS variants: a shroud of wool (š n wtꜣ?) for B's embalming oil; the 'dance of the dwarfs' (nmj.w) for B's dance of the mww; 'your coffin of gold as is done for the royal children'"}
+      - {motif: embalming, refs: ["Sinuhe W5:Verso_14"]}
+      - {motif: asiatic-nomad-stereotype, refs: ["Sinuhe W5:Verso_17/3-Verso_18"]}
+      - {motif: letter-received-with-prostration-and-dust, refs: ["Sinuhe W5:Verso_18/4-Verso_19/3"]}
+  - id: ane-sinuhe-w5-reply-letter
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS verso): Sinuhe's reply"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, oAshmolean 1945.40 (AOS), verso"
+    read: ["Sinuhe W5:Verso_21-Verso_37/2"]
+    tags:
+      - {motif: exile-reply-letter-protests-innocence, refs: ["Sinuhe W5:Verso_21-Verso_21/2", "Sinuhe W5:Verso_31/3-Verso_34"], note: "AOS: jn-jw jnk qꜣ-sꜣ ḫft-ḥr =f 'was I arrogant before him?'"}
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W5:Verso_32/3", "Sinuhe W5:Verso_33/8"]}
+      - {motif: overlord-breath-of-life, refs: ["Sinuhe W5:Verso_35-Verso_35/4", "Sinuhe W5:Verso_37"]}
+      - {motif: fear-of-king-on-nations, refs: ["Sinuhe W5:Verso_34/2"]}
+      - {motif: departing-hero-wills-goods-to-eldest-son, refs: ["Sinuhe W5:Verso_36"]}
+      - {motif: what-is-your-servant-a-dog, refs: ["Sinuhe W5:Verso_31/2"], note: "AOS: jnk js mj,tt ṯzm.w =k 'I am the like of your hounds' (B says Retenu belongs to the king like his hounds)"}
+    hints:
+      - "Self-abasement as the king's dog: compare 2 Sam 9:8 ('what is your servant, that you look on a dead dog like me?') and the Amarna and Lachish letters ('who is your servant, a dog?')."
+  - id: ane-sinuhe-w5-return-and-audience
+    tradition: ane-egyptian
+    title: "Sinuhe (AOS verso): the return, the audience, the queen and princesses"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W5, oAshmolean 1945.40 (AOS), verso; breaks off in the princesses' song"
+    read: ["Sinuhe W5:Verso_37/3-Verso_60/3"]
+    tags:
+      - {motif: departing-hero-wills-goods-to-eldest-son, refs: ["Sinuhe W5:Verso_37/4-Verso_38/2"]}
+      - {motif: king-kisses-ground-before-god, refs: ["Sinuhe W5:Verso_43"]}
+      - {motif: returning-exile-swoons-before-king, refs: ["Sinuhe W5:Verso_45-Verso_46/4"], note: "AOS: 'I did not know whether my death was more than my life'"}
+      - {motif: promise-of-burial-in-egypt-not-in-ramskin, refs: ["Sinuhe W5:Verso_47-Verso_48"]}
+      - {motif: subject-yields-life-to-kings-will, refs: ["Sinuhe W5:Verso_51/2-Verso_51/3"]}
+      - {motif: royals-fail-to-recognize-returnee-as-asiatic, refs: ["Sinuhe W5:Verso_52/2-Verso_54"]}
+      - {motif: princesses-sing-for-pardon-of-exile, refs: ["Sinuhe W5:Verso_55-Verso_60"]}
+      - {motif: royal-women-intercede-with-king, refs: ["Sinuhe W5:Verso_59-Verso_59/2"]}
+      - {motif: overlord-tells-vassal-do-not-fear, refs: ["Sinuhe W5:Verso_60/2"]}
+  # ===================== Sinuhe W6-W10 (ostraca and pMoscow) =====================
+  - id: ane-sinuhe-w6-tomb-and-end
+    tradition: ane-egyptian
+    title: "Sinuhe (oBM 5629): the pyramid tomb and the end of the story"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W6, ostracon BM 5629 from Western Thebes (L), parallel to B 300-311"
+    read: ["Sinuhe W6:1-8"]
+    tags:
+      - {motif: king-builds-and-endows-tomb-for-courtier, refs: ["Sinuhe W6:1-6/2"], note: "Variant only in L: jr.n =t(w) nn jnk zꜣ-nswt 'this was done (because) I am a king's son'; and 'rejoicing over me was made in this whole land'; B instead says 'there is no poor man for whom the like was done'"}
+      - {motif: colophon-copied-and-collated, refs: ["Sinuhe W6:8"], note: "jwi̯ =s pw nfr m-ḥtp 'it has come, well and in peace' (closing formula)"}
+  - id: ane-sinuhe-w7-opening
+    tradition: ane-egyptian
+    title: "Sinuhe (oBorchardt): the opening titles and the king's death"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W7, ostracon Borchardt (Bdt), New Kingdom school copy of the opening"
+    read: ["Sinuhe W7:1-11"]
+    tags:
+      - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W7:1-3/2"]}
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W7:7/2-9"]}
+      - {motif: palace-in-mourning-at-kings-death, refs: ["Sinuhe W7:9/2-11"]}
+  - id: ane-sinuhe-w8-opening-and-flight
+    tradition: ane-egyptian
+    title: "Sinuhe (oCairo 25216): the opening to the rescue by the sheikh"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W8, ostracon Cairo CG 25216 from the tomb of Sennedjem TT 1 (C), New Kingdom"
+    read: ["Sinuhe W8:1-9"]
+    tags:
+      - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W8:1-1/6"]}
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W8:2/2-2/4"]}
+      - {motif: palace-in-mourning-at-kings-death, refs: ["Sinuhe W8:2/5-2/9"]}
+      - {motif: crown-prince-on-campaign-returns-to-claim-throne, refs: ["Sinuhe W8:2/10-3/5"]}
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W8:4-5/4"]}
+      - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W8:6/6-7/2"], note: "Variant (with G): Jnb.w-jt =j 'the Walls of my Father' for B's 'Walls of the Ruler'"}
+      - {motif: fugitive-dying-of-thirst-saved-by-nomads, refs: ["Sinuhe W8:7/4-9"]}
+  - id: ane-sinuhe-w9-opening
+    tradition: ane-egyptian
+    title: "Sinuhe (oSenenmut 149): the opening"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W9, ostracon Senenmut 149 recto from TT 71 (S), early 18th Dynasty"
+    read: ["Sinuhe W9:1-6"]
+    tags:
+      - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W9:1/2-2"]}
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W9:3/2-4/2"]}
+      - {motif: palace-in-mourning-at-kings-death, refs: ["Sinuhe W9:4/3-5/3"]}
+  - id: ane-sinuhe-w10-opening-flight-eulogy
+    tradition: ane-egyptian
+    title: "Sinuhe (pMoscow 4657): the opening, the flight, a fragment of the eulogy"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W10, pMoscow 4657 (Golenischeff, G), New Kingdom"
+    read: ["Sinuhe W10:1.1-4.16?"]
+    tags:
+      - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W10:1.1-1.2/3"]}
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W10:1.4/2-1.5/2"]}
+      - {motif: crown-prince-on-campaign-returns-to-claim-throne, refs: ["Sinuhe W10:1.7/2-1.11/2"]}
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W10:1.13-2.1"]}
+      - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W10:2.5-2.7"], note: "Jnb.w-jt =j 'the Walls of my Father'"}
+      - {motif: eulogy-of-king-to-foreign-ruler, refs: ["Sinuhe W10:3.x+1-3.x+5"]}

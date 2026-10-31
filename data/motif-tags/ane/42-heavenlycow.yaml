@@ -171,6 +171,26 @@ new_motifs:
   hands-build-pyramids-dig-canals: {label: "In good times men's hands build pyramids, dig canals and plant trees for the gods", cluster: lament}
   people-drunk-and-happy-in-restored-order: {label: "It is good when people are drunk, drink and their hearts are happy, with jubilation in their mouths", cluster: lament}
   shelter-for-the-homeless: {label: "It is good when every man's need is met with a blanket in the shade and the door shut on him who slept in a bush", cluster: lament}
+  ba-instructs-the-man: {label: "The ba offers to teach the man about the West", cluster: theodicy}
+  speaking-to-ones-own-soul: {label: "A man argues aloud with his own soul (ba), opening his mouth to answer it", cluster: wisdom}
+  make-the-west-pleasant: {label: "The man asks his ba to make the West (the realm of the dead) pleasant for him", cluster: afterlife}
+  day-of-misfortune: {label: "The 'day of difficulty' (hrw qsnt), the day of misfortune or death", cluster: afterlife}
+  ba-mocks-man-clinging-to-life: {label: "The ba mocks the man: 'you are no man; are you even alive? you care for life like a lord of wealth'", cluster: theodicy}
+  dead-but-name-lives: {label: "When you are dead, only your name lives on", cluster: afterlife}
+  west-is-a-landing-place: {label: "The West (realm of the dead) is a mooring place, a resting place for the heart", cluster: afterlife}
+  man-promises-ba-good-burial: {label: "The man promises his ba a well-provided burial and shade over his corpse so that other bas will envy it", cluster: afterlife}
+  warning-ba-will-find-no-rest-in-west: {label: "If the ba drives the man to death prematurely, it will find no resting place in the West", cluster: afterlife}
+  heir-to-perform-funerary-offerings: {label: "The dying man asks for patience until his heir grows up to make offerings and stand at the tomb on the day of burial", cluster: afterlife}
+  pyramids-of-builders-desolate: {label: "The builders of granite pyramids, who became gods, now have altars as bare as those of the unburied dead on the riverbank", cluster: afterlife}
+  peasant-refused-supper-parable: {label: "Parable: a peasant asks for an early meal, is told it is for supper, goes out and comes back changed, deaf to his wife", cluster: wisdom}
+  slandered-wife: {label: "A wife about whom a lie has been told to her husband", cluster: law}
+  brothers-and-friends-false: {label: "Brothers are evil, friends of today do not love, the former partner has become an enemy, and one turns to strangers for honesty", cluster: lament}
+  neighbours-goods-seized: {label: "Hearts are greedy and every man seizes his neighbour's goods", cluster: lament}
+  no-one-to-trust: {label: "There is no intimate (confidant) and no man's heart one can lean on", cluster: lament}
+  no-remembrance-of-yesterday: {label: "Yesterday is not remembered and no one acts for him who acted (no gratitude)", cluster: lament}
+  wrong-roams-land-without-end: {label: "The wrong that strikes the land has no end", cluster: lament}
+  death-as-homecoming-from-captivity: {label: "Death is like a man coming home from an expedition or longing to see his house after years in captivity", cluster: afterlife}
+  dead-punish-the-wrongdoer: {label: "The blessed dead, as a living god, repels wrong against the one who does it", cluster: afterlife}
 units:
   - id: ane-heavenlycow-w1-council-and-eye-sent
     tradition: ane-egyptian
@@ -293,6 +313,7 @@ units:
     read: ["HeavenlyCow W1:74/3-84/2"]
     tags:
       - {motif: ritual-purity-for-reciting-sacred-text, refs: ["HeavenlyCow W1:74/3-77", "HeavenlyCow W1:78/2-79"], note: "anointed with ben-oil, censer on arm, behind the ears cleaned, natron in the mouth, two new linen garments, washed in floodwater, white sandals, Maat drawn on his tongue in green ink; nine-day purification (wꜥb 9 hrw.pl), also for human servants"}
+      - {motif: rubric-spell-recited-in-purity, refs: ["HeavenlyCow W1:74/3-77"]}
       - {motif: reciter-blessed-with-long-life-and-prosperity, refs: ["HeavenlyCow W1:80-83/2"], note: "his eyes and limbs serve him, his affairs do not fail, people say 'he is like Re on the day of his birth', his goods do not shrink"}
       - {motif: proven-a-million-times-formula, refs: ["HeavenlyCow W1:84"], note: "šs-mꜣꜥ ḥḥ n sp"}
     hints:
@@ -802,7 +823,7 @@ units:
     original: true
     tagger: "Claude (model), reading the Egyptian"
     version: "pLeiden I 344 recto"
-    read: ["Ipuwer 14:9-15:12"]
+    read: ["Ipuwer 14:9-15:11/2"]
     tags:
       - {motif: none-to-rescue-from-their-hand, refs: ["Ipuwer 14:12"], note: "n gmi̯.n.tw n,tj r ꜥḥꜥ ḥr mki̯.t st; Asiatics in a broken context"}
       - {motif: each-fights-for-own-and-protects-himself, refs: ["Ipuwer 14:12/2", "Ipuwer 14:14/3"], note: "every man fights for his sister but protects himself; every man slays his brother; the youths raised become bowmen bent on destruction"}
@@ -828,3 +849,147 @@ units:
     hints:
       - "A dialogue in which the complainant answers God and God replies: Job 38-42, Hab 1:2-2:4, Jer 12:1-6."
       - "Do not worry about tomorrow: Matt 6:34; Prov 27:1."
+  - id: ane-manandba-fragments
+    tradition: ane-egyptian
+    title: Empty heading lines and the pAmherst fragments of the Dispute of a Man with his Ba
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pAmherst III fragments (with two empty lines of the TLA heading)"
+    read: ["ManAndBa 0-0/2", "ManAndBa pAmherst.3.Fragm", "ManAndBa pAmherst.3"]
+    tags:
+      - {motif: ba-instructs-the-man, refs: ["ManAndBa pAmherst.3:J–K.2-J–K.3"], note: "fragmentary: [m]j r =k sbꜣ =j tw ... jḫr,w n(,j) jmn,t 'come, that I may teach you ... the hostility (?) of the West'; lines 0 and 0/2 are empty"}
+    hints:
+      - "Too broken for comparison; the beginning of the dialogue is lost."
+  - id: ane-manandba-ba-drags-to-death
+    tradition: ane-egyptian
+    title: The man complains that his ba drags him to death and appeals to the gods as judges (Dispute of a Man with his Ba)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa pBerlin.P.3024:(x+)1", "ManAndBa 2-29"]
+    tags:
+      - {motif: ba-drags-man-toward-death, refs: ["ManAndBa 7-7/2", "ManAndBa 11", "ManAndBa 17/2"], note: "jmi̯ šm bꜣ =j; bꜣ =j ḥr thi̯.t =j ... stꜣ =j r m(w)t n jyi̯.t =〈j〉 n =f ḥr ḫꜣꜥ =〈j〉 ḥr ḫ,t 'he drags me to death before I come to it, he throws me on the fire'"}
+      - {motif: speaking-to-ones-own-soul, refs: ["ManAndBa 3/2", "ManAndBa 5-6/2"], note: "'I opened my mouth to my ba, to answer what he had said': the whole text is a dialogue of a man with his own ba"}
+      - {motif: brevity-of-life, refs: ["ManAndBa 20/2-21"], note: "pẖr,t pw ꜥnḫ 'life is a cycle'; jw ḫt.pl ḫr =sn 'even trees fall'"}
+      - {motif: make-the-west-pleasant, refs: ["ManAndBa 19"], note: "snḏm n =j jmn,t"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["ManAndBa 23-26"], note: "Thoth who pacifies the gods is to judge him, Khonsu the true scribe defend him, Re hear his words, Isdes defend him in the holy chamber"}
+      - {motif: day-of-misfortune, refs: ["ManAndBa 9", "ManAndBa 15"], note: "hrw qsn,t 'the day of difficulty'"}
+    hints:
+      - "Self-address to the soul: Ps 42:6, 12 and 43:5 ('Why are you cast down, O my soul?'), Ps 103:1; Q 75:2 (the self-reproaching soul)."
+      - "Life passes, the tree falls: Job 14:1-2, 7-10, Ps 90:5-6, Eccl 11:3."
+      - "Appeal to God to judge one's case: Ps 7:9, 26:1, 43:1 ('Vindicate me, O God'); Job 16:19-21 (my witness is in heaven)."
+  - id: ane-manandba-ba-replies-name-lives
+    tradition: ane-egyptian
+    title: The ba replies 'you are no man'; the man promises the ba a well-provided burial (Dispute of a Man with his Ba)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 30-51"]
+    tags:
+      - {motif: ba-mocks-man-clinging-to-life, refs: ["ManAndBa 30-32/2"], note: "n ntk js z; jw =k tr ꜥnḫ.t(j); 'you care for life like a lord of wealth'"}
+      - {motif: dead-but-name-lives, refs: ["ManAndBa 36/2-36/3"], note: "jw gr,t =k m(w)t(.tj) rn =k ꜥnḫ"}
+      - {motif: west-is-a-landing-place, refs: ["ManAndBa 37-38"], note: "dmj pw jmn,t 'the West is a mooring place'"}
+      - {motif: man-promises-ba-good-burial, refs: ["ManAndBa 39-47", "ManAndBa 51"], note: "if the ba agrees, he will reach the West like one in his pyramid with a survivor at his coffin; shade over his body so other bas, hot, cold or hungry, envy him; 'be patient, my ba, my brother, until my heir is grown, who will offer and stand at the tomb on burial day'"}
+      - {motif: warning-ba-will-find-no-rest-in-west, refs: ["ManAndBa 49"], note: "if you drive me to death so, you will find nothing to rest on in the West"}
+      - {motif: heir-to-perform-funerary-offerings, refs: ["ManAndBa 51"]}
+    hints:
+      - "The name that survives: Ps 49:12 (they call lands by their names), Prov 10:7, Isa 56:5; 2 Sam 18:18 (Absalom's pillar, 'I have no son to keep my name in remembrance')."
+      - "Burial by the heir: Gen 25:9, 35:29, 50:12-13."
+  - id: ane-manandba-ba-burial-grief-parables
+    tradition: ane-egyptian
+    title: "The ba: burial is heartbreak; 'follow the beautiful day'; two parables of a peasant (Dispute of a Man with his Ba)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 55-84"]
+    tags:
+      - {motif: burial-only-brings-grief, refs: ["ManAndBa 56-58"], note: "jr sḫꜣ =k qrs nḥꜣ,t-jb pw; it brings tears, takes a man from his house and leaves him on the hill"}
+      - {motif: underworld-land-of-no-return, refs: ["ManAndBa 59", "ManAndBa 77"], note: "nn pri̯.n =k r-ḥr,w mꜣ =k Rꜥ 'you will never come up again to see the sun'; nn n =s pri̯.t m jmn,t"}
+      - {motif: pyramids-of-builders-desolate, refs: ["ManAndBa 60"], note: "those who built in granite and made fine pyramids so that the builders became gods: their altars are as bare as those of the dead on the riverbank without survivors, whom flood and sun took and to whom the fish speak"}
+      - {motif: follow-the-beautiful-day, refs: ["ManAndBa 67-68/2"], note: "sḏm r =k n =j ... šms hrw-nfr smḫ mḥ"}
+      - {motif: follow-your-heart-while-you-live, refs: ["ManAndBa 68"]}
+      - {motif: peasant-loses-wife-and-children-parable, refs: ["ManAndBa 68/3-78"], note: "the small man loads his harvest on a boat; a northern storm; his wife and children perish in the crocodile pool at night; he sits and speaks with breaking voice: 'I do not weep for that mother ... I grieve for her children broken in the egg, who saw the face of Khenty before they lived'"}
+      - {motif: peasant-refused-supper-parable, refs: ["ManAndBa 80-84"], note: "the small man asks for an early meal; his wife says 'it is for supper'; he goes out, returns 'like another', and does not listen to her (obscure)"}
+    hints:
+      - "'Follow the beautiful day, forget care': Eccl 9:7-10, 11:9-10 and 2:24; Isa 22:13 ('let us eat and drink, for tomorrow we die'); Q 57:20 (the life of this world is play and amusement)."
+      - "No return to see the sun: Job 7:9-10 and 10:21-22, 2 Sam 12:23, Eccl 6:5; Q 23:99-100 (a barrier until the day they are raised)."
+      - "Children who died before seeing the light: Job 3:16, Eccl 4:3 and 6:3-5, Ps 58:9."
+      - "Even the great builders' monuments perish: Eccl 2:4-11, 16; Job 3:14 (kings who built ruins for themselves); Q 26:128-129 (you build monuments on every height as if you will live for ever)."
+  - id: ane-manandba-my-name-stinks
+    tradition: ane-egyptian
+    title: "'Behold, my name stinks because of you' (Dispute of a Man with his Ba)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 85-101"]
+    tags:
+      - {motif: my-name-stinks-litany, refs: ["ManAndBa 86", "ManAndBa 88", "ManAndBa 91", "ManAndBa 93", "ManAndBa 95", "ManAndBa 97", "ManAndBa 99", "ManAndBa 101"], note: "m =k bꜥḥ rn =j m-ꜥ =k: more than vultures' stench on summer days, fish on a hot fishing day, fowlers in the marsh, fishermen, crocodiles, a wife about whom a lie was told, a brave child said to belong to his rival, a town plotting revolt"}
+      - {motif: slandered-wife, refs: ["ManAndBa 97"], note: "a woman about whom a lie was told to the husband"}
+    hints:
+      - "The stench of one's name: Gen 34:30 ('you have made me stink to the inhabitants'), Exod 5:21, 1 Sam 13:4, 2 Sam 10:6; Eccl 10:1 (dead flies make the perfumer's oil stink)."
+      - "Job's reproach of his reputation among men: Job 30:1-10, Ps 31:12-14, Ps 69:12."
+  - id: ane-manandba-to-whom-shall-i-speak
+    tradition: ane-egyptian
+    title: "'To whom shall I speak today?' (Dispute of a Man with his Ba)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 103-129/2"]
+    tags:
+      - {motif: to-whom-shall-i-speak-today, refs: ["ManAndBa 103", "ManAndBa 104/2", "ManAndBa 108", "ManAndBa 113", "ManAndBa 121/2", "ManAndBa 127", "ManAndBa 129"], note: "ḏd =j n m mjn, sixteen times"}
+      - {motif: brothers-and-friends-false, refs: ["ManAndBa 103/2-104", "ManAndBa 113/2-114", "ManAndBa 117-117/2", "ManAndBa 118/2-119"], note: "sn.w.pl bjn; ḫnms.w.pl n.w mjn n mri̯.nj; the brother one worked with has become an enemy; for honesty one goes to strangers; every man turns his face from his brothers"}
+      - {motif: neighbours-goods-seized, refs: ["ManAndBa 105-105/2", "ManAndBa 112-112/2"], note: "ꜥwn jb.pl; z nb ḥr jṯi̯.t ḫ,t.pl sn.nw.du =fj"}
+      - {motif: universal-corruption-none-good, refs: ["ManAndBa 107-109", "ManAndBa 122-122/2"], note: "gentleness has perished; good is thrown down everywhere; nn mꜣꜥ,tj.pl 'there are no righteous'; the land is left to the wrongdoers"}
+      - {motif: no-one-to-trust, refs: ["ManAndBa 120/2-121", "ManAndBa 123/2-124", "ManAndBa 127/2"], note: "no heart of a man to lean on; there is no intimate (ꜥq-jb); 'I am laden with misery for lack of an intimate'"}
+      - {motif: no-remembrance-of-yesterday, refs: ["ManAndBa 115/2-116"], note: "n sḫꜣ =t(w) sf; one does not act for him who acted"}
+      - {motif: wrong-roams-land-without-end, refs: ["ManAndBa 129/2"], note: "nf ḥwi̯ tꜣ nn-wn pḥ,wj =fj"}
+    hints:
+      - "No one is righteous, all have turned aside: Ps 12:2-3, Ps 14:1-3 and 53:2-4, Mic 7:2-6, Jer 5:1, 9:3-5 (let every one beware of his neighbour, put no trust in any brother)."
+      - "The friend become enemy: Ps 41:10, Ps 55:13-15, Job 19:13-19."
+      - "Compare the 'woe is me' of Mic 7:1-2 and Isa 57:1 (the righteous perish and no one lays it to heart)."
+  - id: ane-manandba-death-before-me
+    tradition: ane-egyptian
+    title: "'Death is before me today' (Dispute of a Man with his Ba)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 130-140"]
+    tags:
+      - {motif: death-before-me-today-like, refs: ["ManAndBa 130", "ManAndBa 132", "ManAndBa 134", "ManAndBa 136", "ManAndBa 138", "ManAndBa 140"], note: "jw m(w)t m ḥr =j mjn mj ...: a sick man's recovery, going out after confinement, the scent of myrrh, sitting under a sail on a windy day, lotus scent, the bank of drunkenness, a beaten path, a man home from an expedition, the clearing of the sky, a man longing for home after years of captivity"}
+      - {motif: death-as-homecoming-from-captivity, refs: ["ManAndBa 136", "ManAndBa 140"]}
+    hints:
+      - "Death longed for as rest: Job 3:13-22 (the weary at rest, the prisoners at ease), Job 7:15, Eccl 4:2, Phil 1:21-23; contrast Eccl 9:4-5."
+      - "Longing for home after captivity: Ps 126:1, Ps 137:1-6."
+  - id: ane-manandba-he-who-is-yonder
+    tradition: ane-egyptian
+    title: "'He who is yonder will be a living god' (Dispute of a Man with his Ba)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 142-145"]
+    tags:
+      - {motif: blessed-dead-as-living-god, refs: ["ManAndBa 142", "ManAndBa 143", "ManAndBa 145"], note: "wnn ms n,tj-jm m nṯr ꜥnḫ ḥr ḫsf jw n jrr sw; standing in the barque, giving choice offerings to the temples; a sage not barred from petitioning Re"}
+      - {motif: dead-punish-the-wrongdoer, refs: ["ManAndBa 142"], note: "he 'repels wrong against him who does it'"}
+    hints:
+      - "The righteous dead with God: Ps 49:16 and 73:24 (afterward you will receive me to glory), Wis 3:1-8, Dan 12:3; Q 3:169 (those slain in God's way are alive with their Lord, provided for)."
+  - id: ane-manandba-ba-final-reply
+    tradition: ane-egyptian
+    title: The ba's last word - cling to life, and we shall make a landing place together; colophon (Dispute of a Man with his Ba)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pBerlin P 3024"
+    read: ["ManAndBa 147-154/2"]
+    tags:
+      - {motif: ba-promises-to-stay-with-man, refs: ["ManAndBa 148-154"], note: "'put lament on the peg, my brother; offer on the brazier, cling to life ... love me here, having set aside the West; but also desire to reach the West when your body touches the ground; I will alight after you are weary, and we shall make a landing place together' (jḫ jri̯ =n dmj n-sp)"}
+      - {motif: scribal-colophon, refs: ["ManAndBa 154/2"], note: "jwi̯ =f pw ḥꜣ,t =f r pḥ(,wj) =fj mj gmi̯.yt m-zẖꜣ,w"}
+    hints:
+      - "Choose life: Deut 30:19; Eccl 9:4 (a living dog is better than a dead lion); and the soul's return to God at death, Eccl 12:7."

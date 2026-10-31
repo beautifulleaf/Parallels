@@ -119,6 +119,38 @@ new_motifs:
   wise-man-rises-early: {label: "The wise man rises early to establish himself", cluster: wisdom}
   disowned-son-not-your-son: {label: "A son who rejects his father's teaching is to be driven away: 'he is not your son, he was not born to you'", cluster: wisdom}
   partiality-abomination-to-god: {label: "Partiality in judgment is the abomination of the god", cluster: wisdom}
+  king-commissions-instruction: {label: "The king commands the aged sage to teach his son the speech of the ancestors, so that he may be an example to the officials' children", cluster: wisdom}
+  ill-gotten-wealth-does-not-last: {label: "Wrongdoing may seize wealth, but it never reaches its goal; at the end only justice remains", cluster: wisdom}
+  god-punishes-in-kind: {label: "Whoever devises a scheme against people is punished by the god in the same manner", cluster: wisdom}
+  contentment-what-gods-give-comes: {label: "Plan to live in contentment: what the gods give comes of itself", cluster: wisdom}
+  eating-is-under-gods-direction: {label: "Eating bread is under the god's direction; only the ignorant complains about his portion", cluster: wisdom}
+  hold-to-maat-do-not-swerve: {label: "Hold fast to justice (maat) and do not swerve from it", cluster: wisdom}
+  speak-ill-of-no-one-great-or-small: {label: "Speak ill of no one, great or small; it is an abomination", cluster: wisdom}
+  rich-man-seizes-like-crocodile-in-court: {label: "A man of character who is also rich seizes like a crocodile in the court", cluster: wisdom}
+  good-son-is-true-son: {label: "The son who follows his father's ways and keeps his property is truly his son, begotten of his ka; do everything good for him", cluster: wisdom}
+  god-promotes-to-office: {label: "It is the god who advances a man's position", cluster: wisdom}
+  good-name-without-speaking: {label: "The trusted man has a good name without having to speak; he is praised even for what he does not know", cluster: wisdom}
+  report-plainly-in-council: {label: "Report on your commission without negligence and give your counsel in your lord's council", cluster: wisdom}
+  hidden-crocodile-of-reproach: {label: "No complaint arises amid praise, but when 'the hidden crocodile' emerges, contempt follows", cluster: wisdom}
+  think-of-days-to-come: {label: "A leader should do lasting deeds, thinking of the days that come after", cluster: wisdom}
+  freedom-from-desire-brings-success: {label: "He who lacks desire for it succeeds in every matter", cluster: wisdom}
+  do-not-be-greedy-toward-kin: {label: "Do not be greedy in the division, nor toward your kin; covet only your own share", cluster: wisdom}
+  keep-wife-from-power: {label: "Keep your wife from power and restrain her, for her eye is her storm", cluster: wisdom}
+  satisfy-dependents-friends-in-trouble: {label: "Satisfy your dependents with what you have; in disaster it is one's own people who are fetched, not strangers", cluster: wisdom}
+  no-one-knows-tomorrow: {label: "No one knows what will happen when he thinks of tomorrow", cluster: wisdom}
+  sad-all-day-or-merry-all-day: {label: "He who is gloomy all day has no happy moment; he who is frivolous all day cannot found a household", cluster: wisdom}
+  do-not-oppose-great-man-in-his-moment: {label: "Do not oppose a great man when he is acting, nor vex the heart of one who is burdened; let him be", cluster: wisdom}
+  teach-the-great-what-profits-him: {label: "Teach a great man what is useful to him and make him accepted among people; your sustenance depends on his ka", cluster: wisdom}
+  do-not-forget-former-poverty-wealth-gift-of-god: {label: "If you have become great after being poor, do not boast of it or trust your riches: they came to you as a gift of god", cluster: wisdom}
+  bow-to-your-superior: {label: "Bend your back to your superior; then your house will endure and your reward be secure", cluster: wisdom}
+  no-escape-from-the-one-who-decreed: {label: "No one escapes the one who fixed his fate; his time will surely come", cluster: wisdom}
+  kindness-remembered-after-office: {label: "A man is remembered for his kindness in the years after his office; a good character is remembered", cluster: wisdom}
+  punish-only-for-real-wrong: {label: "Punish promptly and teach thoroughly, but punishment without a real wrong turns the complainant into an enemy", cluster: wisdom}
+  heart-is-life-of-man: {label: "A man's heart is his life, prosperity and health", cluster: wisdom}
+  justice-makes-children-live: {label: "Make justice firm, so that your children may live", cluster: wisdom}
+  do-not-say-one-thing-then-another: {label: "Do not take away a word and then bring it back, nor put one thing in place of another", cluster: wisdom}
+  conceal-your-heart-guard-your-mouth: {label: "Conceal your heart (thoughts) and control your mouth", cluster: wisdom}
+  father-taught-son-in-womb: {label: "The father spoke to (taught) his son while the son was still in the womb", cluster: wisdom}
   # Shipwrecked Sailor
   tale-within-tale-frame: {label: "A story is told within a story to encourage a listener; the inner speaker tells yet another tale within it", cluster: narrative}
   mouth-of-man-saves-him: {label: "A man's mouth saves him; his speech wins him indulgence: speak boldly to the king and answer without stammering", cluster: wisdom}
@@ -138,6 +170,15 @@ new_motifs:
   god-laughs-at-offered-gifts-owns-them: {label: "The divine being laughs at the mortal's promise of offerings: 'I am the ruler of Punt; the myrrh is mine'", cluster: providence}
   island-vanishes-into-water: {label: "Once the visitor leaves, the enchanted island will never be seen again, for it will become water", cluster: paradise}
   tale-told-to-cheer-sceptic-fails: {label: "The listener rejects the consoling tale with a cynical proverb: who gives water to a bird at dawn that will be slaughtered in the morning?", cluster: wisdom}
+  safe-return-praise-and-embrace: {label: "An expedition returns home without loss: the mooring post is driven in, god is praised and every man embraces his comrade", cluster: narrative}
+  listener-will-not-be-counselled: {label: "The adviser complains that his listener does as he pleases and that it is wearisome to talk to him", cluster: wisdom}
+  serpent-carries-man-in-mouth-unharmed: {label: "A great serpent takes the man into its mouth, carries him to its resting place and sets him down untouched", cluster: narrative}
+  happy-who-tells-what-he-survived: {label: "How happy is the one who can tell what he has tasted (suffered), once the calamity is past", cluster: wisdom}
+  endure-and-you-will-embrace-your-children: {label: "Be brave and firm of heart: you will embrace your children, kiss your wife and see your house again", cluster: providence}
+  castaway-vows-offerings-to-saviour-god: {label: "The rescued man promises to report his saviour's might to the king and to send incense, oils, burnt offerings and laden ships as to a god", cluster: cult}
+  spread-my-good-name-in-your-city: {label: "The divine helper's only request: 'Make my good name known in your city'", cluster: providence}
+  cargo-of-exotic-gifts: {label: "A divine or foreign ruler loads the visitor's ship with exotic goods: myrrh, incense, ivory, giraffe tails, greyhounds, monkeys", cluster: narrative}
+  survivor-rewarded-and-promoted: {label: "The returning survivor presents his gifts to the king, who praises god for him before the council and promotes and endows him", cluster: narrative}
 units:
   # ---------------- Neferti ----------------
   - id: ane-neferti-1-snefru-summons-seer
@@ -949,3 +990,282 @@ units:
       - "110 years: Joseph (Gen 50:22, 26) and Joshua (Josh 24:29), the ideal Egyptian lifespan."
       - "Teach your children: Deut 6:6-7; 11:19; Ps 78:3-6."
       - "Guard your mouth: Prov 13:3; 21:23; Ps 141:3."
+  - id: ane-ptahhotep-w2-l1-1-greed-wife-anger
+    tradition: ane-egyptian
+    title: "Ptahhotep in the London papyrus L1 (Middle Kingdom), maxims 19-27"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pBM EA 10371+10435 (version L1)"
+    read: ["Ptahhotep W2:0-m_3"]
+    tags:
+      - {motif: greed-incurable-disease, refs: ["Ptahhotep W2:a_3-a'_1"], note: "variant: ḫꜣ,t pw qsn.t n.t btꜣw; it embitters the sweet friend"}
+      - {motif: greedy-man-has-no-tomb, refs: ["Ptahhotep W2:a'_1/2-b_3"], note: "variant: wꜣḥ z ꜥqꜣ mtn=f 'the man whose path is straight endures'"}
+      - {motif: provide-wife-food-clothing-oil, refs: ["Ptahhotep W2:c_1-c_4"], note: "variant: jri̯ ḥm,t=k r tp-ḥsb=s; spḫꜣ jb 'open her heart'"}
+      - {motif: wives-as-tilth, refs: ["Ptahhotep W2:c_3"], note: "ꜣḥ,t pw ꜣḫ=s n nb=s"}
+      - {motif: do-not-repeat-rumour, refs: ["Ptahhotep W2:e_1-f_3/2"], note: "variant: jw mskj mj sp n rs,wt 'rumour is like a dream'"}
+      - {motif: silence-better-than-speech, refs: ["Ptahhotep W2:f_4-f_6/2"], note: "variant: ḥn rʾ=k 'control your mouth'"}
+      - {motif: do-not-oppose-great-man-in-his-moment, refs: ["Ptahhotep W2:h_2-i_2/2"]}
+      - {motif: answer-and-do-not-answer-fool, refs: ["Ptahhotep W2:0"], note: "the weak disputant: 'do not answer him, so as neither to relieve yourself nor gladden your opponent'"}
+    hints:
+      - "Compare Prov 15:27; Q 2:223; Prov 18:8; Prov 17:28 as for the pPrisse units."
+  - id: ane-ptahhotep-w2-l1-2-judge-to-epilogue
+    tradition: ane-egyptian
+    title: "Ptahhotep in L1, maxims 28-37 and epilogue (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pBM EA 10371+10435 (version L1)"
+    read: ["Ptahhotep W2:m_4-v''_3"]
+    tags:
+      - {motif: impartial-judgment-neither-poor-nor-great, refs: ["Ptahhotep W2:m_4-m_7"], note: "variant: m [nmꜥ] wpi̯=k [z] [2] 'do not be partial when you judge the two men'"}
+      - {motif: bow-to-your-superior, refs: ["Ptahhotep W2:o_3-o_7"]}
+      - {motif: do-not-rob-neighbours-house, refs: ["Ptahhotep W2:p_3-q_6"], note: "variant adds nn st ꜣḫ n 〈jri̯〉 st 'it profits not the one who does it'"}
+      - {motif: test-friend-alone, refs: ["Ptahhotep W2:r_4-s_6/2"]}
+      - {motif: generosity-empty-belly-accuses, refs: ["Ptahhotep W2:s_7-s_11"], note: "variant adds jri̯ r=k ḥb 'make a feast'"}
+      - {motif: hearing-loved-by-god, refs: ["Ptahhotep W2:t_1/2-t_6/3"], note: "variant: nfr sḏm nfr wḏꜥ-mdw 'good at hearing, good at judging'"}
+      - {motif: wise-man-rises-early, refs: ["Ptahhotep W2:u_1-u_1/2"], note: "variant: 'the fool rises early to go astray'"}
+      - {motif: obedient-son-blessed-with-old-age, refs: ["Ptahhotep W2:v_1-v_3"], note: "variant: zꜣ [sḏm] m šms nṯr 'a follower of the god' for pPrisse's 'of Horus'"}
+      - {motif: hero-age-110, refs: ["Ptahhotep W2:v'_2/3"], note: "restored [1]10"}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["Ptahhotep W2:v''_3"]}
+  - id: ane-ptahhotep-w3-l2-1-prologue
+    tradition: ane-egyptian
+    title: "Ptahhotep in L2 (New Kingdom version): prologue and disputants"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, pBM EA 10509 (version L2+L2G)"
+    read: ["Ptahhotep W3:1_1-2_5/3"]
+    tags:
+      - {motif: infirmities-of-old-age-catalogue, refs: ["Ptahhotep W3:1_2-1_6/4"], note: "variant: sḏr jb rmi̯.w rꜥ-nb 'the heart lies down weeping every day'"}
+      - {motif: staff-of-old-age-son-as-successor, refs: ["Ptahhotep W3:1_7"], note: "explicit: ḏi̯=tw ꜥḥꜥ zꜣ=j m s,t=j 'let my son stand in my place'"}
+      - {motif: no-one-born-wise, refs: ["Ptahhotep W3:1_10/3"], note: "nn msi̯.y sꜣr.w"}
+      - {motif: consult-ignorant-as-well-as-wise, refs: ["Ptahhotep W3:1_14-1_15/2"], note: "addresses 'his son Ptahhotep the younger'; adds m mḥ jb=k 'do not fill your heart'"}
+      - {motif: wisdom-found-among-lowly, refs: ["Ptahhotep W3:1_15/3-1_15/4"]}
+      - {motif: three-kinds-of-disputant, refs: ["Ptahhotep W3:1_16-2_5/3"]}
+  - id: ane-ptahhotep-w3-l2-2-maat-to-petitioner
+    tradition: ane-egyptian
+    title: "Ptahhotep in L2: maat, plans, table manners, the disowned son, the petitioner"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, pBM EA 10509 (version L2+L2G)"
+    read: ["Ptahhotep W3:2_6-4_14"]
+    tags:
+      - {motif: truth-endures-lie-momentary, refs: ["Ptahhotep W3:2_7-2_9"], note: "variant: n ẖnn.tw=s ḏr rk jri̯ sj 'since the time of him who made it' for 'since Osiris'"}
+      - {motif: plans-of-men-fail-gods-command-prevails, refs: ["Ptahhotep W3:2_12/3-2_13/2"]}
+      - {motif: table-manners-before-a-great-man, refs: ["Ptahhotep W3:2_13/3-2_16/4"], note: "variant adds: sbt=k m-ḫt sbt=f 'laugh only after he laughs'; ḥr=k m-ẖrw 'keep your face down'"}
+      - {motif: faithful-messenger-exact, refs: ["Ptahhotep W3:3_1/4-3_4/2"]}
+      - {motif: wealth-comes-from-god-to-his-beloved, refs: ["Ptahhotep W3:3_11/2-3_12/2"]}
+      - {motif: follow-your-heart-while-you-live, refs: ["Ptahhotep W3:3_8-3_8/3"], note: "variant: šms kꜣ=k 'follow your ka'"}
+      - {motif: disowned-son-not-your-son, refs: ["Ptahhotep W3:3_15/2-3_17/5"], note: "rwj=k sw, nn zꜣ=k js pw, nn msi̯.n.tw=f js n=k: 'drive him away; he is not your son, he was not born to you' (not in pPrisse)"}
+      - {motif: stubborn-rebellious-son-stoned, refs: ["Ptahhotep W3:3_15/2-3_17/2"], note: "only the rebellious-son case; here he is expelled, not killed"}
+      - {motif: bad-son-doomed-from-womb, refs: ["Ptahhotep W3:4_1-4_2"], note: "ḥwi̯.n nṯr sḏb=f pw m ẖ,t"}
+      - {motif: keep-your-rank-in-antechamber, refs: ["Ptahhotep W3:4_2/2-4_4/2"]}
+      - {motif: belly-follower-belongs-to-enemy, refs: ["Ptahhotep W3:4_5/3", "Ptahhotep W3:4_8-4_9/2"], note: "variant: tꜣ jb ẖr ḏḏ nṯr 'the hot-hearted suffers under what the god causes'"}
+      - {motif: hear-the-petitioner-out, refs: ["Ptahhotep W3:4_11/3-4_14"]}
+    hints:
+      - "The disowned son: Deut 21:18-21; Gen 21:10-12 (Ishmael sent away); Q 11:45-46 (Noah's son: 'he is not of your family')."
+  - id: ane-ptahhotep-w3-l2-3-greed-to-end
+    tradition: ane-egyptian
+    title: "Ptahhotep in L2: greed, women, wife, rumour, judge ('partiality is the god's abomination'), friends"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, pBM EA 10509 (version L2+L2G)"
+    read: ["Ptahhotep W3:4_14/2-Fragm._3_4"]
+    tags:
+      - {motif: greed-incurable-disease, refs: ["Ptahhotep W3:4_15-5_2"], note: "variant adds: it estranges the trusted man from his lord"}
+      - {motif: greedy-man-has-no-tomb, refs: ["Ptahhotep W3:5_3"]}
+      - {motif: avoid-women-of-house-brief-pleasure-death, refs: ["Ptahhotep W3:5_6-5_8/2"], note: "variant image: swḫꜣ=tw m ꜥ,t n.t tjḥn,t ꜥḥꜥ=s ḫpr.tj m ḥrs,t 'one is fooled by limbs of faience, and then they turn to carnelian'"}
+      - {motif: provide-wife-food-clothing-oil, refs: ["Ptahhotep W3:5_16-6_1/2"]}
+      - {motif: wives-as-tilth, refs: ["Ptahhotep W3:6_1/2"]}
+      - {motif: do-not-repeat-rumour, refs: ["Ptahhotep W3:6_3/2-6_4/3"]}
+      - {motif: silence-better-than-speech, refs: ["Ptahhotep W3:6_5/3-6_8"], note: "ꜣḫ n=k gr r pri̯.t jb"}
+      - {motif: partiality-abomination-to-god, refs: ["Ptahhotep W3:7_2-7_2–3"], note: "bw,t nṯr rḏi̯.t ḥr gs; to favour a friend is to lean to the owner of bribes (not in pPrisse)"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["Ptahhotep W3:7_2/2"]}
+      - {motif: god-takes-no-bribe, refs: ["Ptahhotep W3:7_2–3"], note: "only the link between favouritism and nb ḏbꜣ.w 'a lord of bribes'"}
+      - {motif: adultery-prohibited, refs: ["Ptahhotep W3:7_9/2"], note: "[jmi̯=k nk] ḥm,t-ṯꜣ[y] 'do not sleep with a man's wife', largely restored; pPrisse has 'a woman or a child'"}
+      - {motif: generosity-empty-belly-accuses, refs: ["Ptahhotep W3:8_1-8_1/3"]}
+      - {motif: kindness-remembered-after-office, refs: ["Ptahhotep W3:Fragm._4_1-Fragm._4_2/2"]}
+    hints:
+      - "'Abomination of YHWH': Prov 11:1; 17:15; 20:10, 23; partiality: Prov 24:23; 28:21; Deut 16:19; Exod 23:8."
+      - "The strange woman: Prov 7; Prov 6:26."
+  - id: ane-ptahhotep-w4-odem-1232
+    tradition: ane-egyptian
+    title: Ptahhotep prologue on ostracon Deir el-Medina 1232
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W4, oDeM 1232"
+    read: ["Ptahhotep W4"]
+    tags:
+      - {motif: infirmities-of-old-age-catalogue, refs: ["Ptahhotep W4:5-6/2"], note: "first person: ḥꜥ.pl=j ḏbꜣ 'my body is blocked'"}
+      - {motif: staff-of-old-age-son-as-successor, refs: ["Ptahhotep W4:7"]}
+  - id: ane-ptahhotep-w5-odem-1233
+    tradition: ane-egyptian
+    title: Ptahhotep prologue on ostracon Deir el-Medina 1233
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W5, oDeM 1233"
+    read: ["Ptahhotep W5"]
+    tags:
+      - {motif: infirmities-of-old-age-catalogue, refs: ["Ptahhotep W5:1-6"], note: "variant: sḏr jb m r[my,t] 'the heart sleeps in tears'"}
+  - id: ane-ptahhotep-w6-odem-1234
+    tradition: ane-egyptian
+    title: Ptahhotep title line on ostracon Deir el-Medina 1234
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W6, oDeM 1234"
+    read: ["Ptahhotep W6"]
+    tags:
+      - {motif: wise-father-instructs-son, refs: ["Ptahhotep W6:1"], note: "only the heading, with Ptahhotep mꜣꜥ-ḫrw 'justified'"}
+  - id: ane-ptahhotep-w7-pturin
+    tradition: ane-egyptian
+    title: Ptahhotep prologue in pTurin CGT 54024
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W7, pTurin CGT 54024"
+    read: ["Ptahhotep W7"]
+    tags:
+      - {motif: infirmities-of-old-age-catalogue, refs: ["Ptahhotep W7:3-6/2"]}
+      - {motif: staff-of-old-age-son-as-successor, refs: ["Ptahhotep W7:7"]}
+      - {motif: king-commissions-instruction, refs: ["Ptahhotep W7:9-10"]}
+  - id: ane-ptahhotep-w8-tcarnarvon
+    tradition: ane-egyptian
+    title: Ptahhotep prologue on the Carnarvon writing board (version C)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W8, tCarnarvon 1 verso"
+    read: ["Ptahhotep W8"]
+    tags:
+      - {motif: infirmities-of-old-age-catalogue, refs: ["Ptahhotep W8:vso_1/2-vso_3/9"]}
+      - {motif: staff-of-old-age-son-as-successor, refs: ["Ptahhotep W8:vso_4"]}
+      - {motif: king-commissions-instruction, refs: ["Ptahhotep W8:vso_5/2-vso_5/5"]}
+      - {motif: no-one-born-wise, refs: ["Ptahhotep W8:vso_5/6"]}
+  # ---------------- Shipwrecked Sailor ----------------
+  - id: ane-shipwrecked-1-return-and-advice
+    tradition: ane-egyptian
+    title: "Shipwrecked Sailor: the expedition returns; the follower urges the anxious prince to speak well (1-21)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHermitage 1115"
+    read: ["ShipwreckedSailor 1-21"]
+    tags:
+      - {motif: tale-within-tale-frame, refs: ["ShipwreckedSailor 1-1/2", "ShipwreckedSailor 21"], note: "šms,w jqr 'the able follower' consoles the ḥꜣ,t(j)-ꜥ 'count' with 'something similar that happened to me myself'"}
+      - {motif: safe-return-praise-and-embrace, refs: ["ShipwreckedSailor 2-11"], note: "mooring post driven in, god praised, each man embraces his fellow; no loss in the troop; passed Wawat and Senmut (Bigga)"}
+      - {motif: mouth-of-man-saves-him, refs: ["ShipwreckedSailor 13-18"], note: "jw rʾ n(,j) z(ʾ) nḥm=f sw; wash, put water on your fingers, answer when addressed, speak to the king with your heart in your hand"}
+      - {motif: listener-will-not-be-counselled, refs: ["ShipwreckedSailor 20-20/2"], note: "'you do as you please; it is tiring to talk to you'"}
+    hints:
+      - "Compare Prov 12:14; 18:20-21 ('death and life are in the power of the tongue'); Prov 22:29 (the skilled man stands before kings)."
+  - id: ane-shipwrecked-2-storm-and-island
+    tradition: ane-egyptian
+    title: "Shipwrecked Sailor: the storm, the sinking, three days alone, the island of plenty, the burnt offering"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHermitage 1115"
+    read: ["ShipwreckedSailor 23-55"]
+    tags:
+      - {motif: ship-and-crew-measured, refs: ["ShipwreckedSailor 24-27"], note: "a ship of 120 cubits by 40, 120 sailors, the best of Egypt"}
+      - {motif: sailors-foretell-storm, refs: ["ShipwreckedSailor 28-30–31"], note: "hearts braver than lions; they foretold the storm before it came"}
+      - {motif: storm-sinks-ship-one-survivor, refs: ["ShipwreckedSailor 32-38"], note: "a wave of 8 cubits; the ship 'died' (dp,t m(w)t.tj); not one survived"}
+      - {motif: castaway-thrown-on-island-by-wave, refs: ["ShipwreckedSailor 39"], note: "rḏi̯.kw r jw jn wꜣw n(,j) wꜣḏ-wr"}
+      - {motif: three-days-alone-with-own-heart, refs: ["ShipwreckedSailor 41-42/2"], note: "jri̯.n=j hrw 3 wꜥi̯.kw jb=j m sn,nw=j; he sleeps embracing the shade of a tree"}
+      - {motif: island-of-plenty, refs: ["ShipwreckedSailor 45-52"], note: "figs, grapes, vegetables, sycomore fruit, cucumbers 'as if cultivated', fish and fowl; nn n,t.t nn st m-ẖnw=f"}
+      - {motif: castaway-makes-burnt-offering, refs: ["ShipwreckedSailor 54-55"], note: "fire-drill (ḏꜣ), zbi̯-n-sḏ,t n nṯr.pl"}
+      - {motif: sacrifice-after-flood, refs: ["ShipwreckedSailor 55"], note: "only as the survivor's first act on land"}
+    hints:
+      - "Compare Jonah 1:4-16 (storm, the ship about to break up, the sailors' sacrifice) and Jonah 2:1, 11 (three days, cast out on dry land); Ps 107:23-30."
+      - "Sole survivor: Job 1:15-19 ('I alone escaped to tell you')."
+      - "Island of plenty: Gen 2:9 and the Garden; Q 18:32-33 (the two gardens that lacked nothing)."
+      - "Sacrifice on reaching land: Gen 8:20; Jonah 1:16."
+      - "Ship's dimensions in cubits: Gen 6:15 (300 by 50 by 30)."
+  - id: ane-shipwrecked-3-serpent-encounter
+    tradition: ane-egyptian
+    title: "Shipwrecked Sailor: the golden serpent appears - 'Who brought you here?' - 'Do not fear'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHermitage 1115"
+    read: ["ShipwreckedSailor 56-123"]
+    tags:
+      - {motif: divine-serpent-of-gold-and-lapis, refs: ["ShipwreckedSailor 56-66"], note: "ḫrw qrj 'a noise of thunder'; trees break, earth quakes; ḥfꜣ,w 30 cubits, beard over 2 cubits, limbs overlaid with gold, brows of true lapis"}
+      - {motif: who-brought-you-here-question, refs: ["ShipwreckedSailor 67-70/2", "ShipwreckedSailor 81-84"], note: "(j)n-m jni̯ tw zp-2 nḏs 'who brought you, who brought you, little one?'; threat to make him ash"}
+      - {motif: hero-paralyzed-by-fear, refs: ["ShipwreckedSailor 73-75"], note: "'you speak to me but I do not hear it; I am before you and do not know myself'"}
+      - {motif: serpent-carries-man-in-mouth-unharmed, refs: ["ShipwreckedSailor 76-79"]}
+      - {motif: storm-sinks-ship-one-survivor, refs: ["ShipwreckedSailor 89-109"], note: "the tale repeated nearly verbatim, adding 'not one of my kind survived but me'"}
+      - {motif: do-not-fear-formula, refs: ["ShipwreckedSailor 111/2-112"], note: "m snḏ zp-2 nḏs: 'do not fear, do not fear, little one; let your face not blanch'"}
+      - {motif: god-brought-you-to-island-to-live, refs: ["ShipwreckedSailor 113"], note: "nṯr rḏi̯.n=f ꜥnḫ=k jni̯=f tw r jw pn n(,j) kꜣ 'this island of the ka'"}
+      - {motif: island-of-plenty, refs: ["ShipwreckedSailor 115-116"]}
+      - {motif: rescue-ship-foretold, refs: ["ShipwreckedSailor 117-122"], note: "four months; a ship from the Residence with sailors you know"}
+      - {motif: die-in-your-own-city, refs: ["ShipwreckedSailor 123"], note: "m(w)t=k m nʾ,t=k"}
+    hints:
+      - "God's question to the one who arrives: compare 1 Kgs 19:9, 13 ('What are you doing here, Elijah?') and Gen 16:8."
+      - "Fear not: Gen 15:1; Judg 6:23; Dan 10:12, 19; Q 20:21 and 28:31 (Moses and the serpent: 'take it and do not fear')."
+      - "Swallowed or carried in a creature's mouth and set down unharmed: compare Jonah 2:1, 11 and Q 37:142-145 (the fish swallowed him; cast onto the shore)."
+      - "God brought him to a place of life: compare Q 18:60-82 (Moses' journey to the meeting of the two seas, a divine servant, a fish) and Gen 50:20."
+  - id: ane-shipwrecked-4-serpents-story
+    tradition: ane-egyptian
+    title: "Shipwrecked Sailor: the serpent's own tale - a falling star burned his family of 75"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHermitage 1115"
+    read: ["ShipwreckedSailor 124-136"]
+    tags:
+      - {motif: tale-within-tale-frame, refs: ["ShipwreckedSailor 125"], note: "third level of narration"}
+      - {motif: happy-who-tells-what-he-survived, refs: ["ShipwreckedSailor 124"], note: "rš.wj sḏd dp.t.n=f zni̯ (j)ḫ,t m(ḥ)r: 'how happy is he who tells what he has tasted, when the calamity is past'"}
+      - {motif: falling-star-destroys-family, refs: ["ShipwreckedSailor 127-131/2"], note: "75 serpents with children and siblings; ꜥḥꜥ.n sbꜣ hꜣi̯.w ... pri̯.n nꜣ m ḫ,t; 'a single heap of corpses'; a little daughter brought by prayer (?)"}
+      - {motif: endure-and-you-will-embrace-your-children, refs: ["ShipwreckedSailor 132-135/2"], note: "jr qni̯=k rwḏ jb=k mḥ=k qnj=k m ẖrd.w=k: be brave, your heart firm, you will embrace your children, kiss your wife, see your house"}
+      - {motif: die-in-your-own-city, refs: ["ShipwreckedSailor 133-135/2"]}
+      - {motif: suppliant-grasps-hand-and-prostrates, refs: ["ShipwreckedSailor 136"], note: "only prostration, touching the ground before him"}
+    hints:
+      - "Fire from heaven destroying a family: Job 1:16, 18-19 (fire of God, the house falls on the children); Gen 19:24. Star fallen from heaven: Isa 14:12; Rev 8:10; 9:1."
+      - "Be strong and courageous: Josh 1:6-9; Ps 27:14. The divine being consoling with its own loss: compare Q 12:86 (Jacob: 'I complain of my grief to God')."
+  - id: ane-shipwrecked-5-offerings-and-punt
+    tradition: ane-egyptian
+    title: "Shipwrecked Sailor: the promised offerings; the serpent laughs - 'I am the ruler of Punt'; the ship comes"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHermitage 1115"
+    read: ["ShipwreckedSailor 138-159/2"]
+    tags:
+      - {motif: castaway-vows-offerings-to-saviour-god, refs: ["ShipwreckedSailor 139-146"], note: "he will tell the king of the serpent's bꜣw 'might', send ladanum, oil, incense, slaughter cattle as burnt offering, ships laden 'as one does for a god who loves people in a far land unknown to people'"}
+      - {motif: god-laughs-at-offered-gifts-owns-them, refs: ["ShipwreckedSailor 149-152"], note: "sbt.n=f jm=j; jnk js ḥqꜣ Pwn,t, ꜥntjw n=j jm,(j) sw"}
+      - {motif: island-vanishes-into-water, refs: ["ShipwreckedSailor 153"], note: "n-sp mꜣ=k jw pn ḫpr(.w) m nw,y"}
+      - {motif: rescue-ship-foretold, refs: ["ShipwreckedSailor 154-157/2"], note: "the ship comes 'as he had foretold'; the castaway climbs a tall tree and recognises those on board; the serpent already knows"}
+      - {motif: prophecy-fulfilled-centuries-later, refs: ["ShipwreckedSailor 154"], note: "loose fit: the divine prediction fulfilled exactly"}
+      - {motif: spread-my-good-name-in-your-city, refs: ["ShipwreckedSailor 158/2-159/2"], note: "jmi̯ rn=j nfr m nʾ,t=k: 'that is what I ask of you'"}
+    hints:
+      - "God needs no gifts, all is his: Ps 50:9-13 ('every beast of the forest is mine'), 1 Chr 29:14; Q 22:37 ('neither their flesh nor their blood reaches God') and Q 51:57."
+      - "Vows of the rescued: Jonah 1:16; 2:10 (9); Ps 66:13-15; 107:22."
+      - "Recount God's deeds among the people: Ps 9:12 (11); 96:3; Mark 5:19."
+      - "A vanishing island: compare Q 18:79-82 only as a mysterious encounter whose place is not found again; Rev 16:20 ('every island fled')."
+  - id: ane-shipwrecked-6-gifts-return-promotion
+    tradition: ane-egyptian
+    title: "Shipwrecked Sailor: the cargo of Punt, the return to the Residence, the promotion, the prince's cynical reply"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pHermitage 1115"
+    read: ["ShipwreckedSailor 161-186"]
+    tags:
+      - {motif: cargo-of-exotic-gifts, refs: ["ShipwreckedSailor 162-166"], note: "myrrh, oil, laudanum, balsam, tishepes, shaasekh, eye-paint, giraffe tails, great lumps of incense, elephant tusks, greyhounds, long- and short-tailed monkeys"}
+      - {motif: castaway-makes-burnt-offering, refs: ["ShipwreckedSailor 166/2", "ShipwreckedSailor 171"], note: "here thanksgiving: he lies on his belly to praise god for her; he and the crew praise 'the lord of this island' on the shore"}
+      - {motif: rescue-ship-foretold, refs: ["ShipwreckedSailor 167-168/2", "ShipwreckedSailor 173"], note: "two months to the Residence, 'exactly as she had said'; rnpi̯.y=k 'you will become young again'"}
+      - {motif: survivor-rewarded-and-promoted, refs: ["ShipwreckedSailor 174-177"], note: "the king praises god for him before the council of the whole land; made a follower, endowed with 200 people"}
+      - {motif: mouth-of-man-saves-him, refs: ["ShipwreckedSailor 181-182"], note: "m=k nfr sḏm n r(m)ṯ 'it is good for people to listen'"}
+      - {motif: tale-told-to-cheer-sceptic-fails, refs: ["ShipwreckedSailor 183-184"], note: "m jri̯ jqr ḫnms: 'do not play the clever one, friend'"}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["ShipwreckedSailor 186"], note: "copied by the scribe Ameny son of Amenaa"}
+    hints:
+      - "Gifts of a southern land: 1 Kgs 10:10, 22 (gold, ivory, apes and peacocks from Ophir; the queen of Sheba's spices) and Ps 72:10."
+      - "Rescued man rewarded and promoted before the court: Gen 41:39-43; Esth 6:6-11; Dan 2:48."
+      - "Renewed youth: Ps 103:5; Job 33:25; Isa 40:31."
+      - "The ending refusal of consolation, like Jonah's unresolved last scene (Jonah 4:9-11)."
