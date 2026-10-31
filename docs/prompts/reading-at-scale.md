@@ -116,12 +116,19 @@ specific, checkable, surprising detail. Aim for findings like it.
 - **Keep eight running.** Start the next chunk the moment one finishes.
   - A reader takes 10–25 minutes and 300–500k tokens for 2,000 lines.
   - Lines without a translation, read from word glosses, are slower.
+- **Pilot one chunk before a wave.** In the ANE comparison, the pilot exposed
+  slow tools, a YAML trap and a flag rule that could never fire. Fixing them
+  before the other 30 chunks saved a wave.
+- **Readers build their file in their scratch folder.** They copy it into
+  the repo only when it is complete, then validate it there. The validator
+  needs the repo copy, because it loads the other chunks' motif ids.
+  - In the ANE session, half-written chunk files in the repo broke other
+    chunks' validation and the motif loader.
+  - They also forced about 75 "WIP snapshot" commits to keep the stop hook's
+    tree clean.
 - **Validate and commit each chunk as it arrives**, with a commit message
-  naming its range.
-  - The stop hook wants a clean tree, so commit readers' in-progress files as
-    "WIP snapshot" commits.
-  - Give each validated chunk its own commit; use `--allow-empty` when the
-    snapshot already holds the final file.
+  naming its range. The commit script must stop on a failed validation: use
+  `set -o pipefail`, or don't pipe the validator through `tail`.
 - **Collect each reader's report** (5–10 best details with refs) in one
   scratch findings file; the final report draws on it.
 - **API limits.** A weekly limit cut off a whole wave in the ANE session. The
@@ -142,8 +149,21 @@ specific, checkable, surprising detail. Aim for findings like it.
 - **Reuse motif ids.** The vocabulary holds the HB, Quran, ANE and later
   ids: search by keyword, reuse the Quran readers' ids first, never redefine
   an id with a different label, and define new ones only after searching.
+  The ANE read still left 4,459 of its 7,377 ids used once, so search harder
+  before defining.
+- **Labels describe the line in its own terms.**
+  - Never word a tag label after the parallel the reader has in mind.
+  - ANE examples that did: `yhwh-my-shepherd` on a Sumerian line,
+    `adopt-as-son-perhaps-useful` in the Q 28:9 wording on a Hittite text
+    that lacks the clause.
+  - Such labels leak the reader's hint to blind judges and put on the line
+    words it does not say.
+  - The comparison belongs in `hints`.
 - **Versions and manuscript witnesses are separate units**, with `version`
-  set.
+  set. Mark each copy with `witness_of: <unit id of the best witness>`. The
+  comparison then records a correspondence once, on the best witness. In the
+  ANE pass, BD 125, Sinuhe and the SAA 2 6 / 15 treaty copies counted the
+  same finding several times.
 - **Fragmentary texts:**
   - Tag only what survives.
   - A tag resting on a restoration says so in its note.
@@ -181,9 +201,37 @@ translation**, clearly labelled:
    - Give every divergence, response and contrast a **neutral motif id**
      naming the shared matter, never one side's claim. Put this rule in the
      comparison readers' prompt from the start.
+   - **Use `docs/prompts/comparison-judge.md`** as the judge prompt. It
+     carries the lessons of the ANE pass:
+     - **Judge blind.** Without the readers' hints and candidate reasons,
+       judges found matches no reader had tagged, such as the root ḥ-n-p in
+       EA 288 against *ḥanīf*.
+     - **One `dump` per chunk,** not per-unit tool calls.
+     - **Every match carries an observation record.**
+     - **An empty result is the norm.** About 75% of ANE units had no match.
+   - **Candidates are weak; judges must search.** In the ANE pass, label
+     similarity produced 80% of the candidates, and few of them held up.
+     Many of the best matches were with Quran units no tool had proposed.
+     - Give judges a quick way to list and search every unit of the other
+       side.
+     - Treat lexical-trace candidates with suspicion (*imnu*/*ayman* proposed
+       dozens of unrelated pairs).
+   - **Keep one shared list of new neutral ids** between waves, so parallel
+     judges reuse each other's ids instead of coining overlapping ones
+     (`no-one-changes-the-spoken-word` ~ `immutable-divine-word`).
+   - **Records need shared wording.** Where both texts agree, write the same
+     words on both sides of a slot. The one-slot divergence flag found only
+     3 of 1,105 ANE matches, because judges worded agreeing sides
+     differently.
 3. **Run the pipeline:** `motifs.py --write-leads`, `lexical.py
    --write-leads`, `linguistic.py`, `originals.py`, `coverage.py` and
    `build.py`. All benchmarks must pass, apart from documented expected
    misses.
+   - Run it once with `--write-leads` midway through a session too. In the
+     ANE session a lead-writing bug surfaced only at the end.
+   - Check the leads a new layer writes before committing them. The first
+     run wrote 108 chain leads for ordinary shared Semitic words (*akālu* ~
+     *akala*). Only chains classed `loan` become leads; inherited cognates
+     are background.
 4. **Add a dated entry to `docs/CLEANUP.md`**, and report back as the
    prompt asks.
