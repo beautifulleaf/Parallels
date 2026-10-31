@@ -1,0 +1,1287 @@
+new_motifs:
+  best-man-holds-horse-rein-or-tends-flock: {cluster: ethics, label: 'Best of people: a man holding his horse''s rein in God''s path, and a man in the desert with his flock who hosts his guest and pays its due'}
+  repeated-question-did-he-say-it: {cluster: transmission, label: 'A listener asks three times ''Did he say it?'' and is told ''He said it'', then glorifies God'}
+  raid-destination-concealed-by-feint: {cluster: warfare, label: 'The prophet never announced a raid''s real destination but feigned another (warra bi-ghayriha), except this one'}
+  laggard-postpones-preparation-day-by-day: {cluster: narrative-frame, label: 'A man goes out each morning to prepare for the march, returns having done nothing, and tells himself he can still catch up'}
+  laggard-confesses-truth-refusing-excuse: {cluster: repentance, label: 'Of the men who stayed behind, eighty-odd swear false excuses and are accepted; one tells the truth that he had no excuse and is told to wait for God''s decision'}
+  community-boycott-of-fifty-nights: {cluster: law, label: The community is forbidden to speak to three men; no one returns their greeting for fifty nights until the earth seems strange}
+  greeting-unanswered-by-dearest-kinsman: {cluster: narrative-frame, label: 'The boycotted man climbs his cousin''s garden wall and greets him; the cousin will not answer, only ''God and his messenger know best'''}
+  foreign-king-letter-burned-in-oven: {cluster: narrative-frame, label: A Nabataean trader brings a letter from the king of Ghassan inviting the shunned man over; he calls it a trial and burns it in the oven}
+  boycotted-man-told-to-keep-from-wife: {cluster: law, label: On the fortieth night the shunned men are ordered to keep away from their wives; one wife may still serve her old husband but he may not approach her}
+  glad-tidings-shouted-from-mountain: {cluster: repentance, label: A crier on Mount Sal' shouts the good news of forgiveness; the voice is faster than the horseman sent}
+  messenger-of-good-news-given-garments: {cluster: custom, label: The man forgiven strips off his only two garments to give the bearer of good news and borrows two to wear}
+  prophets-face-like-piece-of-moon: {cluster: prophet-body, label: When the prophet was glad his face shone as though it were a piece of the moon}
+  penitent-keeps-part-of-wealth: {cluster: repentance, label: 'The penitent offers to give away all his property; told to keep some, he keeps his share at Khaybar'}
+  shortening-prayer-twenty-days-at-camp: {cluster: ritual, label: The prophet stayed twenty days at Tabuk shortening the prayer}
+  mountain-loves-us-and-we-love-it: {cluster: sacred-space, label: 'Returning to Medina: ''This is Taba, and this is Uhud, a mountain that loves us and we love it'''}
+  those-held-back-by-excuse-share-reward: {cluster: ethics, label: Men who stayed in Medina held back by an excuse were with the army in every valley it crossed}
+  children-meet-returning-army-at-farewell-pass: {cluster: custom, label: Boys go out to meet the prophet returning from Tabuk at Thaniyyat al-Wada'}
+  napkins-of-saad-in-paradise-better-than-silk: {cluster: eschatology, label: 'Shown a silk robe whose softness amazes people, the prophet says Sa''d b. Mu''adh''s napkins in paradise are better and softer'}
+  gold-woven-gift-of-ruler-returned: {cluster: law, label: 'A Christian ruler''s gift, a gold-woven coat of the kind Chosroes gave, is refused since whoever wears it here is denied it hereafter, then sent to Umar to sell'}
+  no-naked-circumambulation-after-this-year: {cluster: ritual, label: 'Proclamation at the pilgrimage: after this year no polytheist shall make pilgrimage and no one shall circle the House naked'}
+  young-judge-promised-steady-tongue: {cluster: prophecy, label: 'Sent to judge people older than himself, the young envoy is told God will make his tongue firm and guide his heart'}
+  envoy-takes-slave-girl-from-the-fifth: {cluster: law, label: 'The envoy apportions the captives, the best slave-girl falls to the fifth then to his own family, and he comes out with his head dripping from the bath'}
+  share-in-fifth-greater-than-the-girl: {cluster: law, label: 'Do not hate him: his family''s share of the fifth is greater than a slave-girl'}
+  gold-in-its-earth-divided-among-four-chiefs: {cluster: law, label: 'A nugget of gold still in its ore is divided among four Najdi chiefs to win their hearts, angering Quraysh'}
+  objector-with-shaven-head-tells-prophet-fear-god: {cluster: polemic, label: 'A man with thick beard, prominent cheeks, sunken eyes, bulging brow and shaven head tells the prophet ''Fear God, Muhammad!'''}
+  troops-may-return-or-stay-with-new-commander: {cluster: warfare, label: 'When a new commander replaces the old, each soldier may choose to stay on (yu''aqqib) with him or go home'}
+  make-easy-not-hard-give-good-news: {cluster: ethics, label: 'Two governors are told: make things easy not hard, give good news and do not repel, agree and do not differ'}
+  barley-beer-and-honey-mead-named: {cluster: law, label: 'Local drinks are named, mizr from barley and bit'' from honey; answer: every intoxicant is forbidden'}
+  sleep-counted-as-worship-like-vigil: {cluster: piety, label: One governor reads the Quran by snatches day and night; the other sleeps then rises and 'counts my sleep as I count my rising'}
+  apostate-executed-before-dismounting: {cluster: law, label: 'Visiting his colleague, the governor finds a Jew who accepted Islam and apostatized bound, and refuses to dismount until he is killed'}
+  call-to-people-of-book-in-ordered-steps: {cluster: law, label: 'Mission to People of the Book in steps: first the two testimonies, then five daily prayers, then alms taken from the rich and returned to the poor'}
+  oppressed-mans-prayer-no-veil-to-god: {cluster: ethics, label: 'Beware the prayer of the wronged: there is no veil between it and God'}
+  prophet-walks-beside-mounted-envoy: {cluster: narrative-frame, label: 'The prophet walks beneath the mount of the departing envoy, advising him, and says he may next pass only his mosque and grave'}
+  weeping-from-satan: {cluster: demonology, label: '''Do not weep, Mu''adh: weeping is from Satan'''}
+  rival-kaaba-burned-and-broken: {cluster: idolatry, label: 'Dhu l-Khalasa, a house with a worshipped stone called the Yemeni Ka''ba, is burned with fire and broken by 150 riders'}
+  hand-struck-on-chest-for-firm-seat: {cluster: miracle, label: 'A man who cannot sit a horse is struck on the chest, the print of the hand left there, and never falls from a horse again'}
+  diviner-made-to-break-arrows: {cluster: idolatry, label: A man casting divining arrows is made to break them and confess God or lose his head}
+  idol-house-left-like-mangy-camel: {cluster: idolatry, label: 'The messenger reports the idol-house left ''like a mangy (tarred) camel'', blackened'}
+  blessing-five-times-on-horses-and-men: {cluster: ritual, label: The prophet blesses the horses and men of Ahmas five times}
+  jews-would-make-day-of-verse-a-feast: {cluster: polemic, label: 'Jews say: had the verse ''Today I have perfected your religion'' come to us we would take that day as a feast; Umar: it came at Arafa'}
+  one-pilgrimage-after-emigration: {cluster: ritual, label: The prophet made nineteen raids and only one pilgrimage after the emigration}
+  wives-confined-after-this-pilgrimage: {cluster: law, label: 'To his wives: ''This pilgrimage, then the backs of the mats'' (stay home)'}
+  jahiliyya-blood-and-usury-under-my-feet: {cluster: law, label: 'Everything of the Jahiliyya is under my feet: its blood-claims and its usury abolished, beginning with our own'}
+  finger-raised-to-sky-pointed-at-people: {cluster: ritual, label: 'He raises the forefinger to the sky and points it at the people: ''O God, bear witness'' three times'}
+  silent-pause-before-naming-month-and-land: {cluster: narrative-frame, label: 'He asks which month, land and day this is, and falls silent until they think he will rename them'}
+  no-approach-to-house-until-after-arafa: {cluster: ritual, label: 'After the arrival circumambulation and running, he did not approach the Ka''ba until he returned from Arafa'}
+  two-weighty-things-book-and-household: {cluster: prophecy, label: 'At the pool of Khumm: I leave you two weighty things, God''s book and my household (repeated three times)'}
+  household-defined-by-barred-from-alms: {cluster: law, label: 'The household are those barred from alms: the families of Ali, Aqil, Ja''far and Abbas'}
+  young-commander-like-his-father: {cluster: warfare, label: Those who challenge the young commander's appointment challenged his father's before him}
+  dying-prophet-chooses-house-of-favorite-wife: {cluster: death-of-prophet, label: 'In his last illness he asks ''Where am I tomorrow?'', and the wives let him be nursed in Aisha''s house'}
+  died-between-chest-and-throat: {cluster: death-of-prophet, label: 'He died between her chest and throat, her saliva mixed with his through a softened toothstick'}
+  water-from-seven-untied-skins: {cluster: ritual, label: '''Pour on me from seven waterskins whose ties have not been undone'', seated in a tub'}
+  forced-medicine-all-but-one-must-take: {cluster: death-of-prophet, label: 'Dosed against his will (ladd), he orders everyone present dosed except his uncle who was not there'}
+  pleurisy-god-would-not-send: {cluster: death-of-prophet, label: 'Feared to have pleurisy (dhat al-janb), he says it is a disease God would not cast on him'}
+  slave-of-the-stick-after-three: {cluster: death-of-prophet, label: 'Abbas: ''After three days you will be the slave of the stick; I know the faces of Abd al-Muttalib''s sons at death'''}
+  dying-prophet-asks-for-writing: {cluster: death-of-prophet, label: 'Thursday: ''Bring me something to write a document after which you will not go astray''; they dispute and are dismissed'}
+  three-last-bequests-third-forgotten: {cluster: death-of-prophet, label: 'Three bequests: expel the polytheists from Arabia, reward delegations as I did; the third was forgotten'}
+  suffering-sheds-sins-like-leaves: {cluster: theology, label: No Muslim is struck by harm but God sheds his sins as a tree sheds its leaves; the prophet's fever is double}
+  wife-blows-protective-suras-with-his-hand: {cluster: ritual, label: In his last illness his wife breathes the protective suras over him and wipes him with his own hand}
+  last-prayer-recited-al-mursalat: {cluster: death-of-prophet, label: 'The last prayer he led was the sunset prayer, reciting al-Mursalat'}
+  fainting-and-washing-before-prayer-thrice: {cluster: death-of-prophet, label: 'Three times he washes in the tub, tries to rise, faints, wakes and asks ''Have the people prayed?'''}
+  you-are-companions-of-joseph: {cluster: narrative-frame, label: 'Rebuking the wives who urge another prayer leader: ''You are the women of Joseph''s story'''}
+  face-like-page-of-mushaf: {cluster: prophet-body, label: On his last Monday he lifts the curtain and smiles at the rows; his face is like a page of a Quran codex}
+  ansar-my-stomach-and-saddlebag: {cluster: ethics, label: 'The Ansar are ''my stomach and my saddlebag'' (karishi wa-''aybati): accept their good and pass over their wrong'}
+  only-good-dreams-left-of-prophecy: {cluster: dreams, label: Nothing remains of the heralds of prophecy but the good dream a righteous man sees or is shown}
+  last-words-prayer-and-slaves: {cluster: death-of-prophet, label: 'His last words: ''The prayer, the prayer; fear God regarding those your right hands own'''}
+  no-special-bequest-only-gods-book: {cluster: death-of-prophet, label: 'He made no bequest to anyone; asked who was his executor, his wife says he died in her lap; his only bequest was the Book'}
+  prophet-shown-seat-then-given-choice: {cluster: death-of-prophet, label: 'No prophet dies until he is shown his seat in paradise and given the choice; hoarse, he says ''the highest companion'''}
+  servant-chose-what-is-with-god: {cluster: death-of-prophet, label: '''A servant was offered the world''s flower and chose what is with God''; only Abu Bakr understands and weeps'}
+  only-abu-bakrs-door-left-open: {cluster: sacred-space, label: Every small door into the mosque is to be closed except Abu Bakr's}
+  sees-the-basin-from-the-pulpit: {cluster: eschatology, label: 'From the pulpit: ''I am looking at the Basin from where I stand'''}
+  death-has-its-stupors: {cluster: death-of-prophet, label: 'Dipping his hands in water and wiping his face: ''There is no god but God; death has its stupors'''}
+  surat-al-nasr-as-notice-of-death: {cluster: death-of-prophet, label: The sura of help and victory is read as God's notice to the prophet of his term}
+  daughter-weeps-then-laughs-at-secret: {cluster: death-of-prophet, label: 'He whispers to his daughter and she weeps (he will die), whispers again and she laughs (she will be first of his family to follow)'}
+  city-lit-on-arrival-dark-on-death: {cluster: death-of-prophet, label: The day he entered Medina everything in it shone; the day he died everything in it went dark}
+  distant-sage-knows-death-before-news: {cluster: prophecy, label: A Yemeni noble tells the envoy 'your master passed his term three days ago' before the riders bring the news}
+  rule-by-consultation-becomes-kingship-by-sword: {cluster: polity, label: The Arabs will prosper while they choose a new ruler when one dies; when it is by the sword they will be kings with kings' moods}
+  restraint-with-wives-fearing-revelation: {cluster: revelation, label: Companions avoided relaxing with their wives in the prophet's lifetime lest revelation come down about them}
+  died-at-sixty-three: {cluster: chronology, label: 'The prophet died aged sixty-three (thirteen years in Mecca, ten in Medina); Abu Bakr, Umar and Mu''awiya likewise at sixty-three'}
+  daughter-laments-father-in-rhymed-cries: {cluster: mourning, label: 'His daughter laments: ''Father, who answered a Lord who called; whose refuge is Firdaws; to Gabriel we announce his death'''}
+  no-distress-after-today: {cluster: death-of-prophet, label: '''No distress on your father after today'': what has come to him spares no one'}
+  god-will-not-join-two-deaths: {cluster: death-of-prophet, label: 'Kissing the dead prophet: ''God will not join two deaths on you; the death written for you you have died'''}
+  companion-denies-death-awaiting-return: {cluster: death-of-prophet, label: 'Umar denies the prophet has died: his Lord summoned him as Moses was absent forty nights; he will return and cut off hypocrites'}
+  my-head-cry-before-final-illness: {cluster: death-of-prophet, label: 'Aisha complains of her head; the prophet answers ''Rather, oh my head!'' and is soon carried in sick'}
+  cold-drop-from-dying-mouth: {cluster: death-of-prophet, label: A cold drop falls from his mouth onto the hollow of her throat; her skin shivers and she thinks he has fainted}
+  three-kisses-three-cries: {cluster: mourning, label: Abu Bakr kisses his forehead three times crying 'O prophet! O chosen one! O dear friend!'}
+  whoever-worshipped-muhammad-he-is-dead: {cluster: theology, label: 'Whoever worshipped Muhammad, Muhammad is dead; whoever worshipped God, God is alive and does not die'}
+  verse-heard-as-if-never-known: {cluster: revelation, label: People hear the verse 'Muhammad is but a messenger' as if they had never known it; Umar's legs give way}
+  rulers-from-quraysh-helpers-ministers: {cluster: polity, label: 'At the portico of Banu Sa''ida: ''From us a ruler and from you a ruler'' answered by ''We are the rulers, you the ministers'''}
+  stoning-verse-in-gods-book: {cluster: law, label: 'Umar: among what God sent down was the verse of stoning; we read it, the prophet stoned and we stoned; fear people will say it is not in the Book'}
+  do-not-extol-me-as-son-of-mary: {cluster: christology, label: '''Do not extol me as the Christians extolled the son of Mary; I am his servant: say servant of God and his messenger'''}
+  pledge-without-consultation-void: {cluster: polity, label: 'Whoever pledges to a man without consultation of the Muslims, neither he nor the one pledged to is to be followed, lest both be killed'}
+  sick-chief-wrapped-among-his-people: {cluster: narrative-frame, label: 'At the portico the Ansar''s chief lies wrapped up (muzammal), fevered, among them'}
+  rubbed-post-and-propped-palm: {cluster: polity, label: An Ansari boasts 'I am its well-rubbed post and its propped palm' (judhayluha al-muhakkak wa-'udhayquha al-murajjab)}
+  people-had-no-prophet-die-before: {cluster: death-of-prophet, label: 'They were unlettered; no prophet had died among them before, so they asked how to pray over him and where to bury him'}
+  prophet-buried-where-soul-taken: {cluster: death-of-prophet, label: A prophet is buried where his soul is taken; God takes it only in a good place}
+  washers-overcome-by-sleep-and-voice: {cluster: death-of-prophet, label: 'Disputing whether to strip him, the washers fall asleep chins on chests; a speaker from the corner of the house says wash him in his clothes'}
+  washed-in-his-shirt-rubbed-with-it: {cluster: death-of-prophet, label: 'He is washed in his shirt, water poured over it and rubbed through it, not with their hands'}
+  nothing-seen-of-the-dead-in-him: {cluster: death-of-prophet, label: 'The washer looks for what is seen of the dead and sees nothing: ''How good you are, living and dead'''}
+  three-white-cloths-no-shirt-no-turban: {cluster: death-of-prophet, label: Shrouded in three white Sahuli cloths without shirt or turban}
+  living-more-entitled-to-new-cloth: {cluster: ethics, label: 'Shroud me in this worn garment washed: the living have more right to new cloth; it is for the pus'}
+  funeral-prayer-in-groups-without-leader: {cluster: death-of-prophet, label: 'They enter in groups (arsalan), pray over him and leave by the other door, with no one leading'}
+  last-to-touch-the-prophet: {cluster: death-of-prophet, label: Al-Mughira goes down into the grave to touch his feet and boasts 'I am the last of you in contact with the messenger'}
+  niche-digger-arrives-first: {cluster: death-of-prophet, label: 'Two gravediggers, one cutting a side-niche, one a trench; they wait to see who comes first: the niche-digger'}
+  red-velvet-in-grave: {cluster: death-of-prophet, label: A red velvet cloth is put in the prophet's grave}
+  burial-heard-by-shovels-at-night: {cluster: death-of-prophet, label: We knew of his burial only when we heard the shovels in the night of Wednesday}
+  wife-refuses-burial-beside-prophet: {cluster: death-of-prophet, label: 'Aisha asks to be buried with the other wives, not beside the prophet, ''lest I be praised''; she grants the place to Umar'}
+  left-only-mule-weapons-and-land: {cluster: death-of-prophet, label: 'He left no dirham, dinar, slave or thing but his white mule, his weapons and land he made alms'}
+  armour-pawned-with-jew-for-barley: {cluster: death-of-prophet, label: He died with his armour pawned with a Jew for thirty measures of barley}
+  mountain-of-gold-but-two-dinars-for-debt: {cluster: ethics, label: Uhud turned to gold would not please him unless he kept two dinars for a debt}
+  prophets-not-inherited-leave-alms: {cluster: law, label: '''We are not inherited; what we leave is alms; the family of Muhammad eat from this property'''}
+  relic-water-revives-unconscious: {cluster: relics, label: The unconscious man has the prophet's ablution water poured on him and comes to}
+  sweat-collected-in-flasks: {cluster: relics, label: Umm Sulaym collects the sleeping prophet's sweat from a leather mat into flasks for the children's blessing and her perfume}
+  fingers-traced-in-leftover-food: {cluster: relics, label: The host asks where the prophet's fingers touched the food and eats from those places}
+  washed-hands-water-drunk-and-poured-on-face: {cluster: relics, label: He washes his hands and face in a cup and spits in it; two men are to drink and pour it on faces and chests; a wife asks for some}
+  hair-distributed-among-people: {cluster: relics, label: 'After shaving at the pilgrimage, the right half of his hair is given to Abu Talha, the left divided among the people'}
+  hair-in-water-vessel-for-evil-eye: {cluster: relics, label: A silver vessel holds the prophet's red hairs; water from it is sent for anyone struck by the evil eye}
+  cup-and-prayer-place-kept: {cluster: relics, label: A companion offers a drink from a cup the prophet drank from and prayer in a place he prayed}
+  cloak-asked-for-own-shroud: {cluster: relics, label: 'A man asks for the cloak the prophet wore, hoping its blessing, ''that I may be shrouded in it'''}
+  robe-washed-for-sick-to-heal: {cluster: relics, label: The prophet's robe is kept and washed for the sick to seek cure from it}
+  visits-all-wives-in-one-hour: {cluster: marriage, label: 'He went round his wives, eleven (or nine), in one hour; ''he was given the strength of thirty'''}
+  bride-shown-in-dream-in-silk: {cluster: dreams, label: 'Shown her in a dream three nights: an angel brings her in a piece of silk, he uncovers her face: ''if this is from God he will carry it out'''}
+  married-at-seven-brought-at-nine: {cluster: marriage, label: 'Married at seven, brought to him at nine with her toys, widowed at eighteen'}
+  wife-gives-her-day-to-co-wife: {cluster: marriage, label: An aged wife gives her day with the prophet to the youngest}
+  father-offers-widowed-daughter-to-friends: {cluster: marriage, label: 'A father offers his widowed daughter to two friends; one declines, one keeps silent because the prophet had mentioned her'}
+  recompense-prayer-brings-better-husband: {cluster: piety, label: '''To God we belong... recompense me and give me better'': she says it for her dead husband and is given the prophet'}
+  wife-married-by-god-above-seven-heavens: {cluster: marriage, label: '''Your families married you off; God married me from above seven heavens'''}
+  foreign-king-marries-wife-by-proxy: {cluster: marriage, label: The Negus marries the exiled widow to the prophet in Abyssinia and pays her dowry of four thousand himself}
+  rejected-bride-sought-refuge: {cluster: marriage, label: 'A new bride says ''I seek refuge with God from you'': ''You have sought refuge with a Great One; go to your family'''}
+  ruler-sends-two-sister-slave-girls-and-mule: {cluster: marriage, label: 'The Coptic ruler sends two sister slave-girls and a mule; one bears Ibrahim, the other is given to Hassan'}
+  son-nursed-in-smoky-smiths-house: {cluster: family, label: His infant son is nursed by a blacksmith's wife; the house is full of smoke from the bellows}
+  eye-weeps-heart-grieves: {cluster: mourning, label: '''The eye weeps and the heart grieves; we say only what pleases our Lord'''}
+  dead-infant-suckled-in-paradise: {cluster: eschatology, label: His son died at the breast; two wet-nurses complete his suckling in paradise}
+  gravedigger-who-did-not-lie-with-wife: {cluster: mourning, label: 'At his daughter''s grave: ''Is there a man who did not lie with his wife last night?''; Abu Talha goes down'}
+  daughter-too-young-for-elders: {cluster: marriage, label: 'Abu Bakr and Umar ask for Fatima: ''She is young''; Ali asks and is given her'}
+  bride-furnished-with-velvet-waterskin-pillow: {cluster: marriage, label: 'The bride is furnished with a velvet cloth, a waterskin and a leather pillow stuffed with fibre'}
+  daughter-buried-at-night-without-caliph: {cluster: mourning, label: His daughter lived six months after him; her husband buried her at night and did not tell Abu Bakr}
+  neither-tall-nor-short-nor-stark-white: {cluster: prophet-body, label: 'Neither very tall nor short, neither stark white nor brown, hair neither tightly curled nor lank'}
+  fewer-than-twenty-white-hairs: {cluster: prophet-body, label: He died with fewer than twenty white hairs in head and beard; the white was under the lower lip and at the temples}
+  walks-as-if-descending-slope: {cluster: prophet-body, label: 'He walked leaning forward as though coming down a slope (yanhattu min sabab), and turned his whole body'}
+  thick-palms-and-soles: {cluster: prophet-body, label: 'Thick palms and soles (shathn), big head and joints, a long line of hair down the chest'}
+  hair-let-hang-like-people-of-book: {cluster: law, label: 'He let his hair hang like the People of the Book (the polytheists parted it), liking to agree with them where no command came, then parted it'}
+  face-like-moon-not-sword: {cluster: prophet-body, label: 'Asked whether his face was like a sword: ''No, like the moon'', round, like sun and moon'}
+  seal-between-shoulders-like-pigeon-egg: {cluster: prophet-body, label: 'The seal of prophethood between his shoulders, like a pigeon''s egg, a bridal-canopy button, a fist with moles like warts'}
+  softer-than-silk-sweeter-than-musk: {cluster: prophet-body, label: 'No silk or brocade softer than his palm, no musk or ambergris sweeter than his scent'}
+  sweat-like-pearls: {cluster: prophet-body, label: His sweat was like pearls}
+  hand-cool-as-from-perfumers-box: {cluster: prophet-body, label: He stroked a boy's cheeks; his hand felt cool and fragrant as if taken from a perfumer's box}
+  whiteness-of-armpits-seen: {cluster: prophet-body, label: The whiteness of his armpits showed when he spread his arms in prostration and raised his hands in the rain prayer}
+  big-mouth-long-eyes-lean-heels: {cluster: prophet-body, label: 'Wide-mouthed, long-slitted eyes, little flesh on the heels (Simak''s glosses)'}
+  hair-dyed-with-henna-kept: {cluster: relics, label: Dyed hairs of the prophet were kept and shown; one saw him with a henna trace in his locks and two green cloaks}
+  character-was-the-quran: {cluster: ethics, label: '''His character was the Quran'': she recites ''The believers have prospered'' to verse 9'}
+  servant-never-told-why-did-you: {cluster: ethics, label: 'Served him ten years and he never said ''Uff'', nor ''Why did you do this?'' or ''Why did you not?'''}
+  prophet-described-in-torah: {cluster: prophecy, label: 'Described in the Torah: witness, bearer of good news, warner, refuge for the unlettered, ''my servant and messenger'', named al-Mutawakkil'}
+  not-harsh-not-shouting-in-markets: {cluster: prophecy, label: Neither harsh nor coarse nor clamouring in the markets; does not repay evil with evil but pardons}
+  crooked-community-straightened-before-death: {cluster: prophecy, label: 'God will not take him until he straightens the crooked community by ''no god but God'', opening blind eyes, deaf ears and uncircumcised hearts'}
+  dust-on-his-forehead-reproach: {cluster: ethics, label: 'His sharpest reproach: ''What is wrong with him? May his forehead be dusted'''}
+  slave-girl-leads-him-by-hand: {cluster: ethics, label: Any slave-girl of Medina could take his hand and lead him wherever she wished}
+  angel-offers-king-prophet-or-servant-messenger: {cluster: prophecy, label: 'An angel never before descended offers: king-prophet or servant-messenger? Gabriel: be humble; he chooses servant-messenger'}
+  moses-holding-throne-at-resurrection-swoon: {cluster: eschatology, label: 'Do not prefer me over Moses: all swoon at the resurrection, I wake first and find Moses holding the side of the Throne'}
+  more-generous-than-the-sent-wind: {cluster: ethics, label: 'Most generous in Ramadan when Gabriel met him each night to study the Quran: more generous than the sent wind'}
+  successor-pays-dead-prophets-promises: {cluster: law, label: His successor has it cried that whoever had a debt or promise from the prophet should come; he pays out handfuls}
+  flock-between-two-mountains-gift: {cluster: ethics, label: He gave a man a flock filling the space between two mountains; 'Muhammad gives like one who fears no poverty'}
+  stripped-to-carry-stones-falls-senseless: {cluster: purity, label: 'Carrying stones for the Ka''ba with his waist-wrap on his neck, he falls, eyes to the sky; ''My wrap!''; a voice says do not uncover'}
+  shyer-than-virgin-in-seclusion: {cluster: ethics, label: More shy than a virgin in her curtained seclusion; dislike was seen in his face}
+  never-faulted-food: {cluster: food, label: 'He never found fault with food: he ate what he liked and left what he disliked'}
+  rides-bareback-to-alarm-horse-a-sea: {cluster: warfare, label: 'At a night alarm he rides out first on Abu Talha''s unsaddled horse, sword on neck: ''Do not fear''; ''we found it a sea'''}
+  shield-behind-him-in-battle: {cluster: warfare, label: When the fighting grew red they took shelter behind him; he was nearest the enemy at Badr}
+  thorn-tree-snatches-cloak: {cluster: ethics, label: 'Bedouins press him against a thorn tree that snatches his cloak: ''If I had camels as many as these thorn trees I would divide them'''}
+  greets-children-in-passing: {cluster: ethics, label: He greeted boys when passing them}
+  who-shows-no-mercy-gets-none: {cluster: ethics, label: 'A chief with ten children never kissed one: ''Whoever does not show mercy is not shown mercy'''}
+  women-as-glass-vessels: {cluster: ethics, label: 'To the camel-driver singing to the women''s camels: ''Gently, Anjasha, do not break the glass vessels'''}
+  dips-hand-in-servants-water-vessels: {cluster: relics, label: 'After dawn prayer the servants of Medina bring water vessels and he dips his hand in each, even on cold mornings'}
+  walks-any-lane-with-troubled-woman: {cluster: ethics, label: 'To a woman with something in her mind: choose any lane and I will see to your need'}
+  never-struck-woman-or-servant: {cluster: ethics, label: 'He never struck anyone with his hand, woman or servant, except fighting in God''s path'}
+  sword-drawn-over-sleeper-who-protects-you: {cluster: miracle, label: 'A bedouin takes the sleeping prophet''s sword from a thorn tree: ''Who will protect you from me?'' ''God''; he is not punished'}
+  i-know-god-best-and-fear-him-most: {cluster: ethics, label: 'Those who shun a concession he allowed are rebuked: ''I know God best and fear him most'''}
+  jokes-only-with-truth: {cluster: ethics, label: 'He jested but said only the truth: ''I will mount you on a she-camel''s young''; ''O two-eared one''; ''Abu Umayr, what did the little bird do?'''}
+  ugly-bedouin-hugged-sold-as-slave: {cluster: ethics, label: 'He hugs an ugly bedouin from behind in the market: ''Who will buy this slave?'' ''You will find me worthless'' ''With God you are dear'''}
+  laughs-till-molars-show: {cluster: prophet-body, label: He laughed till his back teeth showed}
+  laughs-at-fallen-enemy-exposed: {cluster: warfare, label: A headless arrow fells a polytheist whose nakedness is exposed and the prophet laughs till his molars show}
+  earth-folded-for-his-walk: {cluster: miracle, label: 'No one walked faster: as if the earth were folded for him; we strained and he was unhurried'}
+  sun-runs-in-his-face: {cluster: prophet-body, label: As if the sun ran in his face}
+  lots-cast-among-wives-for-journey: {cluster: marriage, label: Before a journey he cast lots among his wives and took the one whose lot came out}
+  grasps-beard-when-worried: {cluster: prophet-body, label: When something worried him he took hold of his beard}
+  cloak-yanked-leaves-mark-on-neck: {cluster: ethics, label: A bedouin yanks his coarse Najrani cloak leaving its mark on his neck; he laughs and gives}
+  two-black-things-dates-and-water: {cluster: food, label: 'They had their fill only of ''the two black things'', dates and water; he found not even poor dates to fill his belly'}
+  trotters-kept-fifteen-days: {cluster: food, label: The family kept sheep's trotters to eat after fifteen days; never full of wheat bread three days running}
+  three-day-sacrifice-meat-rule-for-famine: {cluster: law, label: 'The ban on keeping sacrificial meat beyond three days was only for a famine year, so the rich would feed the poor'}
+  gourd-picked-from-around-bowl: {cluster: food, label: He picked the pieces of gourd from around the bowl; the servant then always loved gourd}
+  loved-sweets-and-honey: {cluster: food, label: He loved sweets and honey}
+  foreleg-preferred-and-poisoned: {cluster: food, label: The foreleg of the sheep was his favourite; he was poisoned in the foreleg and thought the Jews had done it}
+  hot-and-cold-foods-balanced: {cluster: food, label: 'He ate watermelon with fresh dates: ''we break the heat of this with the cold of that'''}
+  garlic-eater-kept-from-mosque: {cluster: purity, label: Whoever eats garlic or onion keeps away from our mosque; 'I converse with one you do not converse with'}
+  not-forbidden-but-disliked-for-smell: {cluster: food, label: 'Asked if garlic is forbidden: ''No, I dislike it for its smell''; the host: ''I dislike what you dislike'''}
+  lizard-not-of-my-peoples-land: {cluster: food, label: 'Roasted lizard (dabb) is not forbidden: ''it was not in my people''s land and I find myself averse''; Khalid eats it as he watches'}
+  sweet-cold-drink-best: {cluster: food, label: The best drink is the sweet and cold}
+  three-breaths-in-drinking: {cluster: food, label: 'He breathed three times while drinking: more quenching, healthier, more wholesome'}
+  drinks-standing-zamzam-and-waterskin: {cluster: food, label: He drank Zamzam standing; Ali drinks standing at Kufa against those who dislike it}
+  waterskin-mouth-cut-off-kept: {cluster: relics, label: A woman cuts off the mouth of the waterskin he drank from standing and keeps it}
+  no-second-wife-while-first-lived: {cluster: marriage, label: He took no other wife while Khadija lived}
+  married-while-not-in-pilgrim-state: {cluster: law, label: Maymuna reports he married her while he was not in the pilgrim state (wa-huwa halal)}
+  night-of-decree-in-seventh-of-last-ten: {cluster: ritual, label: 'A late emigrant, arriving five days after the burial, learns from Bilal that the Night of Decree is in the seventh of the last ten'}
+  most-beautiful-voice-reciting: {cluster: ritual, label: 'Reciting ''By the fig and the olive'' at the night prayer, no one had a more beautiful voice or reading'}
+  never-said-no-to-a-request: {cluster: ethics, label: He was never asked for anything and said 'No'}
+  chooses-easier-takes-no-personal-revenge: {cluster: ethics, label: 'Given two choices he took the easier unless it was a sin; he never took revenge for himself, only when God''s sanctity was violated'}
+  walks-with-widow-and-poor: {cluster: ethics, label: 'Much remembrance, little idle talk, long prayer, short sermon; not too proud to walk with the widow and the poor to see to their need'}
+  hair-reaching-earlobes-or-shoulders: {cluster: prophet-body, label: 'His hair reached his earlobes, the middle of his ears or his shoulders: above the wafra, below the jumma'}
+  sent-at-forty-ten-years-in-each-city: {cluster: chronology, label: 'Sent at forty, ten years in Mecca and ten in Medina, taken at the head of sixty (round numbers)'}
+units:
+  - id: hadith-48-tabuk-sermon
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Sermon at Tabuk: the horseman and the herdsman'
+    read: ['Jāmiʿ 48:5563.1']
+    quran: []
+    tags:
+      - {motif: best-man-holds-horse-rein-or-tends-flock, note: مثل رجل آخذ بعنان فرسه فيجاهد في سبيل الله ... ومثل رجل باد في غنمه يقري ضيفه ويؤدي حقه, refs: ['Jāmiʿ 48:5563.1']}
+      - {motif: repeated-question-did-he-say-it, note: 'قلت: أقالها؟ قال: قالها (ثلاثا) فكبرت الله', refs: ['Jāmiʿ 48:5563.1']}
+  - id: hadith-48-kab-and-the-three-left-behind
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Ka'b b. Malik and the three who stayed behind from Tabuk
+    read: ['Jāmiʿ 48:5563.2']
+    quran: ['9:117-119', '9:95-96']
+    tags:
+      - {motif: raid-destination-concealed-by-feint, note: لم يكن رسول الله يريد غزوة إلا ورى بغيرها حتى كانت تلك الغزوة, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: laggard-postpones-preparation-day-by-day, note: 'فطفقت أغدو لكي أتجهز معهم فأرجع ولم أقض شيئا فأقول في نفسي: أنا قادر عليه', refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: hypocrites-ask-leave-to-stay-behind, note: جاءه المخلفون فطفقوا يعتذرون إليه ويحلفون له وكانوا بضعة وثمانين رجلا, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: laggard-confesses-truth-refusing-excuse, note: تبسم تبسم المغضب ... لا والله ما كان لي من عذر ... أما هذا فقد صدق فقم حتى يقضي الله فيك, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: community-boycott-of-fifty-nights, note: نهى رسول الله المسلمين عن كلامنا أيها الثلاثة ... حتى تنكرت في نفسي الأرض ... خمسين ليلة, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: greeting-unanswered-by-dearest-kinsman, note: تسورت جدار حائط أبي قتادة ... فوالله ما رد علي السلام ... الله ورسوله أعلم, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: foreign-king-letter-burned-in-oven, note: نبطي من أنباط أهل الشام ... كتابا من ملك غسان ... فتيممت بها التنور فسجرته بها, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: boycotted-man-told-to-keep-from-wife, note: إذا مضت أربعون ليلة من الخمسين ... يأمرك أن تعتزل امرأتك ... لا بل اعتزلها ولا تقربها, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: glad-tidings-shouted-from-mountain, note: 'صوت صارخ أوفى على جبل سلع بأعلى صوته: يا كعب بن مالك أبشر ... وكان الصوت أسرع من الفرس', refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: messenger-of-good-news-given-garments, note: نزعت له ثوبي فكسوته إياهما ببشراه والله ما أملك غيرهما يومئذ واستعرت ثوبين, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: prophets-face-like-piece-of-moon, note: إذا سر استنار وجهه حتى كأنه قطعة قمر, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: penitent-keeps-part-of-wealth, note: أنخلع من مالي صدقة ... أمسك عليك بعض مالك ... فإني أمسك سهمي الذي بخيبر, refs: ['Jāmiʿ 48:5563.2']}
+      - {motif: three-left-behind-forgiven, note: وعلى الثلاثة الذين خلفوا ... إنما هو تخليفه إيانا وإرجاؤه أمرنا, refs: ['Jāmiʿ 48:5563.2']}
+    hints:
+      - "The fifty-night ban in which no one greets the three and they are told to keep from their wives, against the rabbinic niddui (bMoed Qatan 15a-16a), where the banned man is not greeted, others keep four cubits from him, and his marital relations are discussed."
+  - id: hadith-48-return-from-tabuk
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Stay at Tabuk and the return to Medina
+    read: ['Jāmiʿ 48:5567.1-5568.3']
+    quran: []
+    tags:
+      - {motif: shortening-prayer-twenty-days-at-camp, note: أقام رسول الله بتبوك عشرين يوما يقصر الصلاة, refs: ['Jāmiʿ 48:5567.1']}
+      - {motif: mountain-loves-us-and-we-love-it, note: هذه طابة وهذا أحد جبل يحبنا ونحبه, refs: ['Jāmiʿ 48:5568.1']}
+      - {motif: those-held-back-by-excuse-share-reward, note: ما سرتم مسيرا ولا قطعتم واديا إلا كانوا معكم ... حبسهم العذر, refs: ['Jāmiʿ 48:5568.2']}
+      - {motif: children-meet-returning-army-at-farewell-pass, note: خرجت مع الصبيان نتلقى النبي إلى ثنية الوداع, refs: ['Jāmiʿ 48:5568.3']}
+  - id: hadith-48-ukaydir-gifts
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Gifts of Ukaydir of Dumat al-Jandal: silk and a gold-woven coat'
+    read: ['Jāmiʿ 48:5569.1-5570.1']
+    quran: []
+    tags:
+      - {motif: napkins-of-saad-in-paradise-better-than-silk, note: لمناديل سعد بن معاذ في الجنة خير منها وألين, refs: ['Jāmiʿ 48:5569.1']}
+      - {motif: napkins-of-saad-in-paradise-better-than-silk, note: 'أهدي للنبي جبة سندس ... وفي رواية: أن أكيدر دومة الجندل أهدى لرسول الله حلة', refs: ['Jāmiʿ 48:5569.2']}
+      - {motif: gold-woven-gift-of-ruler-returned, note: قباء منسوجا بالذهب مما كان كسرى يكسوهم ... ليس أحد يلبس هذا في الدنيا إلا حرمه في الآخرة ... ولكن تبيعه فتستعين بثمنه, refs: ['Jāmiʿ 48:5570.1']}
+  - id: hadith-48-abu-bakr-pilgrimage-proclamation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The pilgrimage led by Abu Bakr: no polytheist, no naked circumambulation'
+    read: ['Jāmiʿ 48:5571.1']
+    quran: []
+    tags:
+      - {motif: no-naked-circumambulation-after-this-year, note: لا يحج بعد العام مشرك ولا يطوف بالبيت عريان, refs: ['Jāmiʿ 48:5571.1']}
+      - {motif: disavowal-of-polytheists-proclaimed, note: في رهط يؤذن في الناس يوم النحر, refs: ['Jāmiʿ 48:5571.1']}
+  - id: hadith-48-ali-in-yemen
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Ali sent to Yemen: the young judge and the slave-girl from the fifth'
+    read: ['Jāmiʿ 48:5574.1-5575.1']
+    quran: []
+    tags:
+      - {motif: young-judge-promised-steady-tongue, note: تبعثني إلى قوم هم أسن مني لأقضي بينهم ... سيثبت لسانك ويهدي قلبك, refs: ['Jāmiʿ 48:5574.1']}
+      - {motif: envoy-takes-slave-girl-from-the-fifth, note: وفي السبي وصيفة ... فصارت في الخمس ثم صارت في أهل بيت النبي ثم صارت في آل علي ووقعت بها ... ورأسه يقطر, refs: ['Jāmiʿ 48:5575.1']}
+      - {motif: share-in-fifth-greater-than-the-girl, note: لا تبغضه فإن له في الخمس أكثر من ذلك, refs: ['Jāmiʿ 48:5574.2']}
+      - {motif: share-in-fifth-greater-than-the-girl, note: لنصيب آل علي في الخمس أفضل من وصيفة, refs: ['Jāmiʿ 48:5575.1']}
+  - id: hadith-48-gold-nugget-and-the-objector
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Gold from Yemen divided among four chiefs; the objector and his stock
+    read: ['Jāmiʿ 48:5576.1']
+    quran: []
+    tags:
+      - {motif: gold-in-its-earth-divided-among-four-chiefs, note: بذهبة في تربتها ... فقسمها بين أربعة نفر ... لأتألفهم, refs: ['Jāmiʿ 48:5576.1']}
+      - {motif: objector-with-shaven-head-tells-prophet-fear-god, note: 'كث اللحية مشرف الوجنتين غائر العينين ناتئ الجبين محلوق الرأس فقال: اتق الله يا محمد', refs: ['Jāmiʿ 48:5576.1']}
+      - {motif: reciters-whose-quran-passes-no-further-than-throats, note: يقرءون القرآن لا يجاوز حناجرهم ... يمرقون من الإسلام كما يمرق السهم من الرمية, refs: ['Jāmiʿ 48:5576.1']}
+      - {motif: killing-as-ad-were-killed, note: لئن أدركتهم لأقتلنهم قتل عاد, refs: ['Jāmiʿ 48:5576.1']}
+  - id: hadith-48-khalid-and-ali-yemen-troops
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Khalid's troops in Yemen choose to stay with Ali
+    read: ['Jāmiʿ 48:5577.1']
+    quran: []
+    tags:
+      - {motif: troops-may-return-or-stay-with-new-commander, note: من شاء منهم أن يعقب معك فليعقب ومن شاء فليقفل ... فغنمت أواقي ذوات عدد, refs: ['Jāmiʿ 48:5577.1']}
+  - id: hadith-48-abu-musa-and-muadh-in-yemen
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Abu Musa and Mu'adh as governors of Yemen
+    read: ['Jāmiʿ 48:5577.2-5578.3']
+    quran: []
+    tags:
+      - {motif: make-easy-not-hard-give-good-news, note: يسرا ولا تعسرا وبشرا ولا تنفرا وتطاوعا ولا تختلفا, refs: ['Jāmiʿ 48:5578.2']}
+      - {motif: barley-beer-and-honey-mead-named, note: 'المزر من الشعير وشراب يقال له البتع من العسل فقال: كل مسكر حرام', refs: ['Jāmiʿ 48:5578.3']}
+      - {motif: every-intoxicant-is-wine-and-forbidden, note: كل مسكر حرام, refs: ['Jāmiʿ 48:5577.2']}
+      - {motif: sleep-counted-as-worship-like-vigil, note: أتفوقه تفوقا ... أنام أول الليل فأقوم ... فأحتسب نومتي كما أحتسب قومتي, refs: ['Jāmiʿ 48:5578.1']}
+      - {motif: apostate-executed-before-dismounting, note: 'رجل كفر بعد إسلامه قال: لا أنزل حتى يقتل', refs: ['Jāmiʿ 48:5578.1']}
+      - {motif: apostate-executed-before-dismounting, note: 'يهودي أسلم ثم ارتد فقال معاذ: لأضربن عنقه', refs: ['Jāmiʿ 48:5577.2']}
+  - id: hadith-48-muadh-sent-to-people-of-book
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Instructions and farewell to Mu'adh
+    read: ['Jāmiʿ 48:5579.1-5579.2']
+    quran: []
+    tags:
+      - {motif: call-to-people-of-book-in-ordered-steps, note: ستأتي قوما أهل كتاب ... خمس صلوات في كل يوم وليلة ... صدقة تؤخذ من أغنيائهم فترد على فقرائهم, refs: ['Jāmiʿ 48:5579.1']}
+      - {motif: oppressed-mans-prayer-no-veil-to-god, note: فإياك وكرائم أموالهم واتق دعوة المظلوم فإنه ليس بينه وبين الله حجاب, refs: ['Jāmiʿ 48:5579.1']}
+      - {motif: prophet-walks-beside-mounted-envoy, note: ومعاذ راكب ورسول الله يمشي تحت راحلته ... لعلك أن تمر بمسجدي هذا وقبري, refs: ['Jāmiʿ 48:5579.2']}
+      - {motif: weeping-from-satan, note: لا تبك يا معاذ للبكاء أو إن البكاء من الشيطان, refs: ['Jāmiʿ 48:5579.2']}
+  - id: hadith-48-dhul-khalasa-destroyed
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Jarir destroys Dhu l-Khalasa, the 'Yemeni Ka'ba'
+    read: ['Jāmiʿ 48:5579.3-5580.1']
+    quran: []
+    tags:
+      - {motif: rival-kaaba-burned-and-broken, note: ذو الخلصة بيتا باليمن لخثعم وبجيلة فيه نصب تعبد يقال له الكعبة ... فحرقها بالنار وكسرها, refs: ['Jāmiʿ 48:5579.3']}
+      - {motif: rival-kaaba-burned-and-broken, note: يقال له ذو الخلصة والكعبة اليمانية والكعبة الشامية ... فنفرت في مائة وخمسين راكبا, refs: ['Jāmiʿ 48:5580.1']}
+      - {motif: hand-struck-on-chest-for-firm-seat, note: فضرب يده على صدري حتى رأيت أثر يده في صدري ... فما وقعت عن فرس بعد, refs: ['Jāmiʿ 48:5579.3']}
+      - {motif: diviner-made-to-break-arrows, note: رجل يستقسم بالأزلام ... لتكسرنها ولتشهدن أن لا إله إلا الله أو لأضربن عنقك, refs: ['Jāmiʿ 48:5579.3']}
+      - {motif: idol-house-left-like-mangy-camel, note: ما جئت حتى تركتها كأنها جمل أجرب, refs: ['Jāmiʿ 48:5579.3']}
+      - {motif: blessing-five-times-on-horses-and-men, note: فبرك النبي على خيل أحمس ورجالها خمس مرات, refs: ['Jāmiʿ 48:5579.3']}
+    hints:
+      - "The cult house burned with fire and broken, against Deut 12:3 ('burn their Asherim with fire, break their pillars'), with the house itself named a rival 'Ka'ba'."
+  - id: hadith-48-farewell-pilgrimage
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The farewell pilgrimage and the verse of the perfected religion
+    read: ['Jāmiʿ 48:5581.1-5582.1']
+    quran: ['5:3']
+    tags:
+      - {motif: one-pilgrimage-after-emigration, note: غزا تسع عشرة غزوة وأنه حج بعد ما هاجر حجة واحدة, refs: ['Jāmiʿ 48:5581.3']}
+      - {motif: one-pilgrimage-after-emigration, note: مكث تسع سنين لم يحج ثم أذن في الناس في العاشرة, refs: ['Jāmiʿ 48:5581.1']}
+      - {motif: jews-would-make-day-of-verse-a-feast, note: لو نزلت هذه الآية فينا لاتخذنا ذلك اليوم عيدا ... أنزلت ورسول الله واقف بعرفة, refs: ['Jāmiʿ 48:5581.2']}
+      - {motif: wives-confined-after-this-pilgrimage, note: إنما هذه الحجة ثم الزمن ظهور الحصر, refs: ['Jāmiʿ 48:5582.1']}
+  - id: hadith-48-arafa-and-sacrifice-day-sermons
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The sermons at Arafa and on the day of sacrifice
+    read: ['Jāmiʿ 48:5582.2-5583.1']
+    quran: []
+    tags:
+      - {motif: blood-property-honour-sacred-as-this-day, note: إن دماءكم وأموالكم حرام عليكم كحرمة يومكم هذا في شهركم هذا في بلدكم هذا, refs: ['Jāmiʿ 48:5582.2']}
+      - {motif: jahiliyya-blood-and-usury-under-my-feet, note: كل شيء من أمر الجاهلية تحت قدمي موضوع ... أول دم أضع ... دم ابن ربيعة ... وأول ربا أضع ربانا ربا عباس, refs: ['Jāmiʿ 48:5582.2']}
+      - {motif: wives-rights-and-husbands-rights-farewell-sermon, note: أخذتموهن بأمان الله ... فاضربوهن ضربا غير مبرح ولهن عليكم رزقهن وكسوتهن, refs: ['Jāmiʿ 48:5582.2']}
+      - {motif: finger-raised-to-sky-pointed-at-people, note: بإصبعه السبابة يرفعها إلى السماء وينكتها إلى الناس اللهم اشهد ثلاث مرات, refs: ['Jāmiʿ 48:5582.2']}
+      - {motif: time-returned-to-its-form-at-creation, note: الزمان قد استدار كهيئة يوم خلق السموات والأرض, refs: ['Jāmiʿ 48:5583.1']}
+      - {motif: four-sacred-months, note: السنة اثنا عشر شهرا منها أربعة حرم ثلاثة متواليات ... ورجب مضر, refs: ['Jāmiʿ 48:5583.1']}
+      - {motif: silent-pause-before-naming-month-and-land, note: فسكت حتى ظننا أنه سيسميه بغير اسمه, refs: ['Jāmiʿ 48:5583.1']}
+      - {motif: present-to-inform-the-absent, note: ليبلغ الشاهد الغائب فلعل بعض من يبلغه أن يكون أوعى له, refs: ['Jāmiʿ 48:5583.1']}
+  - id: hadith-48-stay-in-mecca
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: In Mecca during the farewell pilgrimage
+    read: ['Jāmiʿ 48:5583.2-5583.3']
+    quran: []
+    tags:
+      - {motif: no-approach-to-house-until-after-arafa, note: ولم يقرب الكعبة بعد طوافه بها حتى رجع من عرفة, refs: ['Jāmiʿ 48:5583.2']}
+      - {motif: shortening-prayer-twenty-days-at-camp, note: 'فصلى ركعتين ركعتين حتى رجع ... كم أقام بمكة؟ قال: عشرا', refs: ['Jāmiʿ 48:5583.3']}
+  - id: hadith-48-khumm-sermon
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The sermon at the pool of Khumm
+    read: ['Jāmiʿ 48:5584.1']
+    quran: []
+    tags:
+      - {motif: two-weighty-things-book-and-household, note: وأنا تارك فيكم ثقلين أولهما كتاب الله ... وأهل بيتي أذكركم الله في أهل بيتي (ثلاثا), refs: ['Jāmiʿ 48:5584.1']}
+      - {motif: household-defined-by-barred-from-alms, note: أهل بيته من حرم الصدقة بعده ... آل علي وآل عقيل وآل جعفر وآل عباس, refs: ['Jāmiʿ 48:5584.1']}
+  - id: hadith-48-usama-command
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Usama's command challenged
+    read: ['Jāmiʿ 48:5585.1']
+    quran: []
+    tags:
+      - {motif: young-commander-like-his-father, note: إن تطعنوا في إمارته فقد طعنتم في إمارة أبيه من قبله, refs: ['Jāmiʿ 48:5585.1']}
+  - id: hadith-48-last-illness-in-aishas-house
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The last illness in Aisha's house
+    read: ['Jāmiʿ 48:5586.1-5586.3']
+    quran: []
+    tags:
+      - {motif: dying-prophet-chooses-house-of-favorite-wife, note: أين أنا غدا؟ أين أنا غدا؟ يريد يوم عائشة, refs: ['Jāmiʿ 48:5586.2']}
+      - {motif: died-between-chest-and-throat, note: إن رأسه لبين نحري وسحري وخالط ريقه ريقي ... فقضمته ثم مضغته, refs: ['Jāmiʿ 48:5586.2']}
+      - {motif: water-from-seven-untied-skins, note: هريقوا علي من سبع قرب لم تحلل أوكيتهن ... فأجلسناه في مخضب لحفصة, refs: ['Jāmiʿ 48:5586.3']}
+  - id: hadith-48-forced-medicine
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The forced dose (ladd) in the last illness
+    read: ['Jāmiʿ 48:5587.1-5587.2']
+    quran: []
+    tags:
+      - {motif: forced-medicine-all-but-one-must-take, note: لددنا رسول الله ... لا يبقى أحد منكم إلا لد غير العباس, refs: ['Jāmiʿ 48:5587.1']}
+      - {motif: forced-medicine-all-but-one-must-take, note: هذا فعل نساء جئن من هؤلاء وأشار إلى أرض الحبشة ... فلقد التدت ميمونة يومئذ وإنها لصائمة, refs: ['Jāmiʿ 48:5587.2']}
+      - {motif: pleurisy-god-would-not-send, note: كنا نتهم بك ذات الجنب ... إن ذلك لداء ما كان الله ليقذفني به, refs: ['Jāmiʿ 48:5587.2']}
+  - id: hadith-48-abbas-and-ali-at-the-end
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Abbas urges Ali to ask about the succession
+    read: ['Jāmiʿ 48:5587.3']
+    quran: []
+    tags:
+      - {motif: slave-of-the-stick-after-three, note: أنت والله بعد ثلاث عبد العصا ... إني لأعرف وجوه بني عبد المطلب عند الموت ... لا أسألها رسول الله, refs: ['Jāmiʿ 48:5587.3']}
+  - id: hadith-48-thursday-writing
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The Thursday: the document not written'
+    read: ['Jāmiʿ 48:5588.1-5588.2']
+    quran: []
+    tags:
+      - {motif: dying-prophet-asks-for-writing, note: ائتوني أكتب لكم كتابا لا تضلوا بعدي فتنازعوا ... ما شأنه أهجر, refs: ['Jāmiʿ 48:5588.1']}
+      - {motif: dying-prophet-asks-for-writing, note: 'حسبنا كتاب الله ... قال: قوموا ... إن الرزية كل الرزية', refs: ['Jāmiʿ 48:5588.2']}
+      - {motif: three-last-bequests-third-forgotten, note: أوصيكم بثلاث أخرجوا المشركين من جزيرة العرب وأجيزوا الوفد ... وسكت عن الثالثة أو قالها فأنسيتها, refs: ['Jāmiʿ 48:5588.1']}
+  - id: hadith-48-fever-and-protective-suras
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Fever, expiation and the protective suras
+    read: ['Jāmiʿ 48:5589.1-5589.3']
+    quran: ['113:1-5', '114:1-6']
+    tags:
+      - {motif: suffering-sheds-sins-like-leaves, note: إن ذاك بأن لك أجرين ... حات الله عنه خطاياه كما تحات ورق الشجر, refs: ['Jāmiʿ 48:5589.1']}
+      - {motif: suffering-sheds-sins-like-leaves, note: المؤمن يشدد عليه ليكون كفارة لخطاياه, refs: ['Jāmiʿ 48:5589.2']}
+      - {motif: wife-blows-protective-suras-with-his-hand, note: طفقت أنفث على نفسه بالمعوذات التي كان ينفث وأمسح بيد النبي عنه, refs: ['Jāmiʿ 48:5589.3']}
+  - id: hadith-48-last-prayers-and-abu-bakr
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The last prayer led and Abu Bakr appointed to lead
+    read: ['Jāmiʿ 48:5590.1-5592.1']
+    quran: ['77:1', '12:30-32']
+    tags:
+      - {motif: last-prayer-recited-al-mursalat, note: يقرأ في المغرب بالمرسلات عرفا ثم ما صلى لنا بعدها حتى قبضه الله, refs: ['Jāmiʿ 48:5590.1']}
+      - {motif: fainting-and-washing-before-prayer-thrice, note: ضعوا لي ماء في المخضب ففعلنا فاغتسل ثم ذهب لينوء فأغمي عليه ... أصلى الناس؟, refs: ['Jāmiʿ 48:5590.2']}
+      - {motif: you-are-companions-of-joseph, note: إنكن لأنتن صواحب يوسف مروا أبا بكر فليصل بالناس, refs: ['Jāmiʿ 48:5591.1']}
+      - {motif: you-are-companions-of-joseph, note: مري أبا بكر فليصل بالناس فإنكن صواحب يوسف, refs: ['Jāmiʿ 48:5592.1']}
+      - {motif: you-are-companions-of-joseph, note: لن يقوم مقامه أحد إلا تشاءم الناس به, refs: ['Jāmiʿ 48:5591.2']}
+  - id: hadith-48-monday-curtain
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'The last Monday: the curtain lifted'
+    read: ['Jāmiʿ 48:5592.2']
+    quran: []
+    tags:
+      - {motif: face-like-page-of-mushaf, note: كشف النبي ستر الحجرة ينظر إلينا وهو قائم كأن وجهه ورقة مصحف ثم تبسم يضحك ... فتوفي من يومه, refs: ['Jāmiʿ 48:5592.2']}
+  - id: hadith-48-last-bequests
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Last bequests: Arabia, graves, the Ansar, dreams'
+    read: ['Jāmiʿ 48:5592.3-5594.2']
+    quran: []
+    tags:
+      - {motif: three-last-bequests-third-forgotten, note: وأوصى عند موته بثلاث ... ونسيت الثالثة, refs: ['Jāmiʿ 48:5592.3']}
+      - {motif: three-last-bequests-third-forgotten, note: أخرجوا يهود أهل الحجاز وأهل نجران من جزيرة العرب, refs: ['Jāmiʿ 48:5593.1']}
+      - {motif: graves-of-prophets-taken-as-places-of-worship, note: شرار الناس الذين اتخذوا قبور أنبيائهم مساجد, refs: ['Jāmiʿ 48:5593.1']}
+      - {motif: graves-of-prophets-taken-as-places-of-worship, note: لعن الله اليهود والنصارى اتخذوا قبور أنبيائهم مساجد ... فلولا ذاك لأبرز قبره, refs: ['Jāmiʿ 48:5593.2']}
+      - {motif: ansar-my-stomach-and-saddlebag, note: أوصيكم بالأنصار فإنهم كرشي وعيبتي ... فاقبلوا من محسنهم وتجاوزوا عن مسيئهم, refs: ['Jāmiʿ 48:5594.1']}
+      - {motif: only-good-dreams-left-of-prophecy, note: لم يبق من مبشرات النبوة إلا الرؤيا يراها العبد الصالح أو ترى له, refs: ['Jāmiʿ 48:5594.2']}
+  - id: hadith-48-last-words-prayer
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Last words: the prayer and those your right hands own'
+    read: ['Jāmiʿ 48:5595.1']
+    quran: []
+    tags:
+      - {motif: last-words-prayer-and-slaves, note: الصلاة الصلاة اتقوا الله فيما ملكت أيمانكم, refs: ['Jāmiʿ 48:5595.1']}
+  - id: hadith-48-no-bequest
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: No special bequest
+    read: ['Jāmiʿ 48:5596.1-5596.2']
+    quran: ['2:180']
+    tags:
+      - {motif: no-special-bequest-only-gods-book, note: متى أوصى إليه؟ ... فدعا بالطست فلقد انخنث في حجري, refs: ['Jāmiʿ 48:5596.1']}
+      - {motif: no-special-bequest-only-gods-book, note: 'هل أوصى رسول الله؟ فقال: لا ... أوصى بكتاب الله', refs: ['Jāmiʿ 48:5596.2']}
+  - id: hadith-48-choice-and-highest-companion
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The choice between this world and the highest companion
+    read: ['Jāmiʿ 48:5596.3-5599.1']
+    quran: ['4:69']
+    tags:
+      - {motif: prophet-shown-seat-then-given-choice, note: 'لن يموت نبي حتى يخير بين الدنيا والآخرة ... وأخذته بحة يقول: مع الذين أنعم الله عليهم', refs: ['Jāmiʿ 48:5596.3']}
+      - {motif: prophet-shown-seat-then-given-choice, note: لم يقبض نبي حتى يرى مقعده من الجنة ثم يخير ... فأشخص بصره إلى سقف البيت ... اللهم الرفيق الأعلى, refs: ['Jāmiʿ 48:5597.1']}
+      - {motif: servant-chose-what-is-with-god, note: إن عبدا خيره الله بين أن يؤتيه من زهرة الدنيا ... فاختار ما عنده فبكى أبو بكر, refs: ['Jāmiʿ 48:5597.2']}
+      - {motif: muhammad-taken-as-friend-like-abraham, note: لو كنت متخذا خليلا من أمتي لاتخذت أبا بكر إلا خلة الإسلام, refs: ['Jāmiʿ 48:5597.2']}
+      - {motif: only-abu-bakrs-door-left-open, note: لا يبقين في المسجد خوخة إلا خوخة أبي بكر, refs: ['Jāmiʿ 48:5597.2']}
+      - {motif: sees-the-basin-from-the-pulpit, note: إني لأنظر إلى الحوض من مقامي هذا ... ثم هبط فما قام عليه حتى الساعة, refs: ['Jāmiʿ 48:5597.3']}
+      - {motif: died-between-chest-and-throat, note: مات النبي وإنه لبين حاقنتي وذاقنتي, refs: ['Jāmiʿ 48:5598.1']}
+      - {motif: death-has-its-stupors, note: 'يدخل يديه في الماء فيمسح بهما وجهه يقول: لا إله إلا الله إن للموت سكرات ... في الرفيق الأعلى حتى قبض ومالت يده', refs: ['Jāmiʿ 48:5598.2']}
+      - {motif: prophet-shown-seat-then-given-choice, note: اللهم اغفر لي وارحمني وألحقني بالرفيق, refs: ['Jāmiʿ 48:5599.1']}
+  - id: hadith-48-nasr-and-fatima
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Surat al-Nasr as notice of his term; Fatima weeps and laughs
+    read: ['Jāmiʿ 48:5600.1-5601.1']
+    quran: ['110:1-3', '39:30']
+    tags:
+      - {motif: surat-al-nasr-as-notice-of-death, note: هو أجل رسول الله أعلمه الله له إذا جاء نصر الله والفتح فتح مكة فذاك علامة أجلك, refs: ['Jāmiʿ 48:5600.1']}
+      - {motif: surat-al-nasr-as-notice-of-death, note: أجل رسول الله أعلمه إياه, refs: ['Jāmiʿ 48:5600.2']}
+      - {motif: surat-al-nasr-as-notice-of-death, note: لما نزلت إذا جاء نصر الله والفتح ... قد نعيت إلي نفسي, refs: ['Jāmiʿ 48:5601.1']}
+      - {motif: daughter-weeps-then-laughs-at-secret, note: فسارها بشيء فبكت ثم دعاها فسارها بشيء فضحكت ... أني أول أهله يتبعه, refs: ['Jāmiʿ 48:5600.3']}
+      - {motif: daughter-weeps-then-laughs-at-secret, note: لا تبكي فإنك أول أهلي لاحق بي فضحكت, refs: ['Jāmiʿ 48:5601.1']}
+  - id: hadith-48-after-the-death
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Medina darkened; the news reaches Yemen; companions after him
+    read: ['Jāmiʿ 48:5601.2-5602.2']
+    quran: ['39:30']
+    tags:
+      - {motif: city-lit-on-arrival-dark-on-death, note: أضاء من المدينة كل شيء فلما كان اليوم الذي مات فيه أظلم منها كل شيء ... حتى أنكرنا قلوبنا, refs: ['Jāmiʿ 48:5601.2']}
+      - {motif: distant-sage-knows-death-before-news, note: لئن كان الذي تذكر من أمر صاحبك لقد مر على أجله منذ ثلاث, refs: ['Jāmiʿ 48:5601.3']}
+      - {motif: rule-by-consultation-becomes-kingship-by-sword, note: إذا هلك أمير تأمرتم في آخر فإذا كانت بالسيف كانوا ملوكا يغضبون غضب الملوك, refs: ['Jāmiʿ 48:5601.3']}
+      - {motif: restraint-with-wives-fearing-revelation, note: كنا نتقي الكلام والانبساط إلى نسائنا ... هيبة أن ينزل فينا شيء, refs: ['Jāmiʿ 48:5602.2']}
+      - {motif: night-of-decree-in-seventh-of-last-ten, note: دفنا النبي منذ خمس ... أخبرني بلال ... أنه في السبع في العشر الأواخر, refs: ['Jāmiʿ 48:5602.1']}
+  - id: hadith-48-place-and-age-at-death
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Where he died and at what age
+    read: ['Jāmiʿ 48:5602.3-5603.2']
+    quran: []
+    tags:
+      - {motif: died-between-chest-and-throat, note: توفي في بيتي وفي يومي وبين سحري ونحري, refs: ['Jāmiʿ 48:5602.3']}
+      - {motif: died-at-sixty-three, note: توفي وهو ابن ثلاث وستين سنة, refs: ['Jāmiʿ 48:5602.4']}
+      - {motif: died-at-sixty-three, note: وأبو بكر وهو ابن ثلاث وستين وعمر هو ابن ثلاث وستين, refs: ['Jāmiʿ 48:5602.5']}
+      - {motif: died-at-sixty-three, note: وأبو بكر وعمر وأنا ابن ثلاث وستين, refs: ['Jāmiʿ 48:5603.1']}
+      - {motif: died-at-sixty-three, note: أقام بمكة ثلاث عشرة سنة يوحى إليه وبالمدينة عشرا, refs: ['Jāmiʿ 48:5603.2']}
+  - id: hadith-48-fatima-laments
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Fatima's lament
+    read: ['Jāmiʿ 48:5603.3-5603.4']
+    quran: []
+    tags:
+      - {motif: daughter-laments-father-in-rhymed-cries, note: يا أبتاه أجاب ربا دعاه يا أبتاه من جنة الفردوس مأواه يا أبتاه إلى جبريل ننعاه ... أطابت أنفسكم أن تحثوا على رسول الله التراب, refs: ['Jāmiʿ 48:5603.3']}
+      - {motif: no-distress-after-today, note: 'واكرب أباه فقال لها: ليس على أبيك كرب بعد اليوم', refs: ['Jāmiʿ 48:5603.3']}
+      - {motif: no-distress-after-today, note: إنه قد حضر من أبيك ما ليس بتارك منه أحدا الموافاة يوم القيامة, refs: ['Jāmiʿ 48:5603.4']}
+  - id: hadith-48-abu-bakr-kisses-umar-denies
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Abu Bakr kisses the dead prophet; Umar denies the death; Abu Bakr's address
+    read: ['Jāmiʿ 48:5604.1-5606.1']
+    quran: ['39:30', '3:144', '7:142', '2:222', '2:156']
+    tags:
+      - {motif: god-will-not-join-two-deaths, note: لا يجمع الله عليك موتتين أما الموتة التي كتبت عليك فقد متها, refs: ['Jāmiʿ 48:5604.2']}
+      - {motif: companion-denies-death-awaiting-return, note: إن رسول الله لم يمت ولكن ربه أرسل إليه كما أرسل إلى موسى فمكث عن قومه أربعين ليلة ... حتى يقطع أيدي رجال من المنافقين, refs: ['Jāmiʿ 48:5604.3']}
+      - {motif: moses-forty-on-the-mountain, note: كما أرسل إلى موسى فمكث عن قومه أربعين ليلة, refs: ['Jāmiʿ 48:5604.3']}
+      - {motif: face-like-page-of-mushaf, note: فنظرت إلى وجهه كأنه ورقة مصحف وهو يتبسم, refs: ['Jāmiʿ 48:5604.3']}
+      - {motif: my-head-cry-before-final-illness, note: 'أشتكي رأسي فقال: أنا وارأساه ... حتى جيء به محمولا في كساء', refs: ['Jāmiʿ 48:5605.1']}
+      - {motif: cold-drop-from-dying-mouth, note: فخرجت من فيه نطفة باردة فوقعت على ثغرة نحري فاقشعر لها جلدي, refs: ['Jāmiʿ 48:5605.1']}
+      - {motif: companion-denies-death-awaiting-return, note: كذبت بل أنت رجل تحوسك فتنة إن رسول الله لا يموت حتى يفني الله المنافقين, refs: ['Jāmiʿ 48:5605.1']}
+      - {motif: three-kisses-three-cries, note: 'فحدر فاه وقبل جبهته ثم قال: وانبياه ... واصفياه ... واخليلاه', refs: ['Jāmiʿ 48:5605.1']}
+      - {motif: whoever-worshipped-muhammad-he-is-dead, note: فمن كان يعبد الله فإن الله حي ومن كان يعبد محمدا فإن محمدا قد مات, refs: ['Jāmiʿ 48:5605.1']}
+      - {motif: whoever-worshipped-muhammad-he-is-dead, note: من كان منكم يعبد محمدا فإن محمدا قد مات ومن كان منكم يعبد الله فإن الله حي لا يموت, refs: ['Jāmiʿ 48:5606.1']}
+      - {motif: verse-heard-as-if-never-known, note: لكأن الناس لم يعلموا أن الله أنزل هذه الآية حتى تلاها أبو بكر ... فعقرت حتى ما تقلني رجلاي, refs: ['Jāmiʿ 48:5606.1']}
+      - {motif: verse-heard-as-if-never-known, note: أو إنها لفي كتاب الله؟ ما شعرت أنها في كتاب الله, refs: ['Jāmiʿ 48:5605.1']}
+    hints:
+      - "Umar's 'his Lord sent for him as for Moses, who stayed away from his people forty nights', against Exod 32:1, where the people say of the absent Moses 'we do not know what has become of him'."
+      - "'Oh my head!' (wa-ra'sah) said by the prophet just before he is carried in sick, against 2 Kgs 4:19-20, where the Shunammite's boy cries 'my head, my head' (roshi roshi) and dies on his mother's knees."
+      - "Abu Bakr bending over the dead man's face to kiss it, against Gen 50:1, Joseph falling on his father's face, weeping and kissing him."
+  - id: hadith-48-saqifa
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The portico of Banu Sa'ida and the pledge to Abu Bakr
+    read: ['Jāmiʿ 48:5606.2-5611.2']
+    quran: ['39:30', '3:144', '9:40', '12:30-32']
+    tags:
+      - {motif: god-will-not-join-two-deaths, note: طبت حيا وميتا والذي نفسي بيده لا يذيقك الله الموتتين أبدا ... أيها الحالف على رسلك, refs: ['Jāmiʿ 48:5606.2']}
+      - {motif: rulers-from-quraysh-helpers-ministers, note: منا أمير ومنكم أمير ... نحن الأمراء وأنتم الوزراء, refs: ['Jāmiʿ 48:5606.2']}
+      - {motif: sick-chief-wrapped-among-his-people, note: فإذا رجل مزمل بين ظهرانيهم ... هذا سعد بن عبادة ... يوعك, refs: ['Jāmiʿ 48:5608.1']}
+      - {motif: rubbed-post-and-propped-palm, note: أنا جذيلها المحكك وعذيقها المرجب منا أمير ومنكم أمير, refs: ['Jāmiʿ 48:5608.1']}
+      - {motif: stoning-verse-in-gods-book, note: فكان مما أنزل الله آية الرجم فقرأناها وعقلناها ووعيناها رجم رسول الله ورجمنا بعده ... إذا قامت البينة أو كان الحبل أو الاعتراف, refs: ['Jāmiʿ 48:5608.1']}
+      - {motif: stoning-verse-in-gods-book, note: ثم إنا كنا نقرأ فيما نقرأ من كتاب الله أن لا ترغبوا عن آبائكم فإنه كفر بكم, refs: ['Jāmiʿ 48:5608.1']}
+      - {motif: do-not-extol-me-as-son-of-mary, note: لا تطروني كما أطري عيسى ابن مريم وقولوا عبد الله ورسوله, refs: ['Jāmiʿ 48:5608.1']}
+      - {motif: pledge-without-consultation-void, note: من بايع رجلا عن غير مشورة من المسلمين فلا يبايع هو ولا الذي بايعه تغرة أن يقتلا ... إنما كانت بيعة أبي بكر فلتة, refs: ['Jāmiʿ 48:5608.1']}
+      - {motif: rulers-from-quraysh-helpers-ministers, note: إن رسول الله كان من المهاجرين وإنما الإمام يكون من المهاجرين ونحن أنصاره, refs: ['Jāmiʿ 48:5610.1']}
+      - {motif: rulers-from-quraysh-helpers-ministers, note: فأيكم تطيب نفسه أن يتقدم أبا بكر؟, refs: ['Jāmiʿ 48:5611.1']}
+      - {motif: second-of-two-in-the-cave, note: وإن أبا بكر صاحب رسول الله ثاني اثنين فإنه أولى المسلمين بأموركم, refs: ['Jāmiʿ 48:5607.1']}
+      - {motif: second-of-two-in-the-cave, note: ثاني اثنين إذ هما في الغار ... لا تحزن إن الله معنا, refs: ['Jāmiʿ 48:5611.2']}
+      - {motif: people-had-no-prophet-die-before, note: وكانوا أميين لم يكن فيهم نبي قبله فقالوا ... كيف نصلي عليه؟, refs: ['Jāmiʿ 48:5611.2']}
+      - {motif: prophet-buried-where-soul-taken, note: في المكان الذي قبض فيه روحه فإنه لم يقبض روحه إلا في مكان طيب, refs: ['Jāmiʿ 48:5611.2']}
+      - {motif: you-are-companions-of-joseph, note: إن أبي رجل أسيف ... إنكن صواحب يوسف, refs: ['Jāmiʿ 48:5611.2']}
+    hints:
+      - "Umar's 'verse of stoning' for whoever commits adultery when muhsan, 'if proof is established or pregnancy or confession', against Deut 22:22-24, stoning of the betrothed girl and the man, with the witnesses' role."
+  - id: hadith-48-washing-the-body
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The washing of the prophet's body
+    read: ['Jāmiʿ 48:5613.1-5614.1']
+    quran: []
+    tags:
+      - {motif: washers-overcome-by-sleep-and-voice, note: فلما اختلفوا ألقى الله عليهم النوم حتى ما منا رجل إلا وذقنه في صدره ثم كلمهم مكلم من ناحية البيت لا يدرون من هو, refs: ['Jāmiʿ 48:5613.1']}
+      - {motif: washed-in-his-shirt-rubbed-with-it, note: يصبون الماء فوق القميص ويدلكونه بالقميص دون أيديهم ... ما غسله إلا نساؤه, refs: ['Jāmiʿ 48:5613.1']}
+      - {motif: nothing-seen-of-the-dead-in-him, note: ولم ير من رسول الله شيء مما يرى من الميت ... بأبي وأمي ما أطيبك حيا وميتا, refs: ['Jāmiʿ 48:5614.1']}
+    hints:
+      - "A dispute settled by an unseen voice speaking from the corner of the house, against the rabbinic bat qol that decides between disputing schools (bEruvin 13b)."
+  - id: hadith-48-shroud
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The shroud
+    read: ['Jāmiʿ 48:5614.2-5615.2']
+    quran: []
+    tags:
+      - {motif: three-white-cloths-no-shirt-no-turban, note: كفن في ثلاثة أثواب بيض سحولية ليس فيها قميص ولا عمامة, refs: ['Jāmiʿ 48:5614.2']}
+      - {motif: three-white-cloths-no-shirt-no-turban, note: كفن رسول الله في ثلاث رباط بيض سحولية, refs: ['Jāmiʿ 48:5615.2']}
+      - {motif: living-more-entitled-to-new-cloth, note: اغسلوا ثوبي هذا وزيدوا عليه ثوبين ... إن الحي أحق بالجديد من الميت إنما هو للمهلة, refs: ['Jāmiʿ 48:5615.1']}
+  - id: hadith-48-funeral-prayer
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The funeral prayer in groups
+    read: ['Jāmiʿ 48:5615.3-5616.1']
+    quran: []
+    tags:
+      - {motif: funeral-prayer-in-groups-without-leader, note: ادخلوا أرسالا أرسالا فكانوا يدخلون من هذا الباب فيصلون عليه ثم يخرجون من الباب الآخر, refs: ['Jāmiʿ 48:5615.3']}
+      - {motif: funeral-prayer-in-groups-without-leader, note: يجيئون عصبا عصبا فيصلون, refs: ['Jāmiʿ 48:5616.1']}
+      - {motif: last-to-touch-the-prophet, note: 'فمس قدميه فقال: أهيلوا علي التراب ... أنا أحدثكم عهدا برسول الله', refs: ['Jāmiʿ 48:5615.3']}
+      - {motif: prophet-buried-where-soul-taken, note: حيث قبض الله روحه فإنه لم يقبض الله روحه إلا في مكان طيب, refs: ['Jāmiʿ 48:5616.1']}
+  - id: hadith-48-the-grave
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The niche-grave and what was put in it
+    read: ['Jāmiʿ 48:5617.1-5618.1']
+    quran: []
+    tags:
+      - {motif: niche-digger-arrives-first, note: رجل يلحد وآخر يضرح ... فأيهما سبق تركناه ... فسبق صاحب اللحد, refs: ['Jāmiʿ 48:5617.1']}
+      - {motif: niche-digger-arrives-first, note: حفاران أحدهما يلحد والآخر يشق ... فجاء الذي يلحد, refs: ['Jāmiʿ 48:5617.4']}
+      - {motif: niche-digger-arrives-first, note: ألحدوا لي لحدا وانصبوا علي اللبن نصبا كما صنع برسول الله, refs: ['Jāmiʿ 48:5617.2']}
+      - {motif: nothing-seen-of-the-dead-in-him, note: فذهبت لأنظر ما يكون من الميت فلم أر شيئا وكان طيبا حيا وميتا ... وولي دفنه وإجنانه دون الناس أربعة, refs: ['Jāmiʿ 48:5617.3']}
+      - {motif: red-velvet-in-grave, note: جعل في قبر النبي قطيفة حمراء, refs: ['Jāmiʿ 48:5618.1']}
+  - id: hadith-48-night-burial-in-aishas-house
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Buried at night in Aisha's house
+    read: ['Jāmiʿ 48:5618.2-5620.1']
+    quran: []
+    tags:
+      - {motif: burial-heard-by-shovels-at-night, note: ما علمنا بدفن رسول الله حتى سمعنا صوت المساحي من جوف الليل ليلة الأربعاء, refs: ['Jāmiʿ 48:5618.2']}
+      - {motif: died-between-chest-and-throat, note: قبضه الله بين سحري ونحري ودفن في بيتي, refs: ['Jāmiʿ 48:5619.1']}
+      - {motif: wife-refuses-burial-beside-prophet, note: 'ادفني مع صواحبي ولا تدفني مع النبي في البيت فإني أكره أن أزكى ... ائذني لي أن أدفن مع صاحبي فقالت: إي والله', refs: ['Jāmiʿ 48:5619.2']}
+      - {motif: prophet-buried-where-soul-taken, note: ما قبض الله نبيا إلا في الموضع الذي يحب أن يدفن فيه, refs: ['Jāmiʿ 48:5620.1']}
+  - id: hadith-48-what-he-left
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'What he left: no inheritance'
+    read: ['Jāmiʿ 48:5623.1-5625.1']
+    quran: []
+    tags:
+      - {motif: left-only-mule-weapons-and-land, note: ما ترك ... درهما ولا دينارا ولا عبدا ولا أمة ولا شيئا إلا بغلته البيضاء وسلاحه وأرضا جعلها صدقة, refs: ['Jāmiʿ 48:5623.1']}
+      - {motif: left-only-mule-weapons-and-land, note: ما ترك دينارا ولا درهما ولا شاة ولا بعيرا ولا أوصى بشيء, refs: ['Jāmiʿ 48:5624.1']}
+      - {motif: armour-pawned-with-jew-for-barley, note: وترك درعه مرهونة عند يهودي على ثلاثين صاعا من شعير, refs: ['Jāmiʿ 48:5624.2']}
+      - {motif: mountain-of-gold-but-two-dinars-for-debt, note: ما يسرني أن أحدا يحول لآل محمد ذهبا ... إلا دينارين أعدهما لدين, refs: ['Jāmiʿ 48:5624.2']}
+      - {motif: mountain-of-gold-but-two-dinars-for-debt, note: وعندي منه دينار أو نصف دينار إلا أن أرصده لغريم, refs: ['Jāmiʿ 48:5624.3']}
+      - {motif: prophets-not-inherited-leave-alms, note: لا نورث ما تركنا صدقة ... فكانت هذه الصدقة بيد علي منعها علي عباسا ... ثم بيد زيد بن حسن, refs: ['Jāmiʿ 48:5624.4']}
+      - {motif: prophets-not-inherited-leave-alms, note: فاطمة والعباس أتيا أبا بكر يلتمسان ميراثهما أرضه من فدك وسهمه من خيبر, refs: ['Jāmiʿ 48:5625.1']}
+  - id: hadith-48-blessing-from-his-body
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Blessing sought from his body, water and spittle
+    read: ['Jāmiʿ 48:5626.1-5627.2']
+    quran: []
+    tags:
+      - {motif: relic-water-revives-unconscious, note: وأنا مريض لا أعقل فتوضأ فصبوا علي من وضوئه فعقلت, refs: ['Jāmiʿ 48:5626.1']}
+      - {motif: sweat-collected-in-flasks, note: استنقع عرقه على قطعة أديم ... فجعلت تنشف ذلك العرق فتعصره في قواريرها ... نرجو بركته لصبياننا, refs: ['Jāmiʿ 48:5626.2']}
+      - {motif: fingers-traced-in-leftover-food, note: سأل عن موضع أصابعه فيتتبع موضع أصابعه, refs: ['Jāmiʿ 48:5626.3']}
+      - {motif: washed-hands-water-drunk-and-poured-on-face, note: 'فغسل يديه ووجهه فيه ومج فيه ثم قال: اشربا منه وأفرغا على وجوهكما ونحوركما ... أفضلا لأمكما', refs: ['Jāmiʿ 48:5626.4']}
+      - {motif: followers-catch-spittle-and-ablution-water, note: ما تنخم رسول الله نخامة إلا وقعت في كف رجل منهم فدلك بها وجهه وجلده ... كادوا يقتتلون على وضوئه, refs: ['Jāmiʿ 48:5627.1']}
+      - {motif: followers-catch-spittle-and-ablution-water, note: فمن أصاب منه شيئا تمسح به ومن لم يصب منه شيئا أخذ من بلل يد صاحبه, refs: ['Jāmiʿ 48:5627.2']}
+  - id: hadith-48-relics
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Relics kept: hair, cup, cloak, robe'
+    read: ['Jāmiʿ 48:5628.1-5629.4']
+    quran: []
+    tags:
+      - {motif: cup-and-prayer-place-kept, note: فأسقيك في قدح شرب فيه رسول الله وتصلي في مسجد صلى فيه النبي, refs: ['Jāmiʿ 48:5628.1']}
+      - {motif: hair-distributed-among-people, note: ناول الحالق شقه الأيمن ... فأعطاه أبا طلحة ... اقسمه بين الناس, refs: ['Jāmiʿ 48:5628.2']}
+      - {motif: hair-in-water-vessel-for-evil-eye, note: بقدح من ماء وفيه شعر من شعر النبي وكان إذا أصاب الإنسان عين أو شيء بعث إليها مخضبه ... فرأيت شعرات حمرا, refs: ['Jāmiʿ 48:5629.1']}
+      - {motif: cup-and-prayer-place-kept, note: فأخرج لنا سهل ذلك القدح فشربنا منه ... ثم استوهبه عمر بن عبد العزيز, refs: ['Jāmiʿ 48:5629.2']}
+      - {motif: cloak-asked-for-own-shroud, note: رجوت بركتها حين لبسها النبي لعلي أكفن فيها, refs: ['Jāmiʿ 48:5629.3']}
+      - {motif: robe-washed-for-sick-to-heal, note: هذه جبة رسول الله ... فنحن نغسلها للمرضى يستشفى بها, refs: ['Jāmiʿ 48:5629.4']}
+    hints:
+      - "The prophet's robe washed for the sick 'to seek cure by it', against Acts 19:11-12, where cloths and aprons touched to Paul's skin are carried to the sick and the diseases leave them."
+  - id: hadith-48-number-of-wives
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The wives visited in one hour
+    read: ['Jāmiʿ 48:5630.1-5630.2']
+    quran: ['33:32-34']
+    tags:
+      - {motif: visits-all-wives-in-one-hour, note: يدور على نسائه في الساعة الواحدة ... وهن إحدى عشرة ... أعطي قوة ثلاثين, refs: ['Jāmiʿ 48:5630.1']}
+      - {motif: visits-all-wives-in-one-hour, note: يطوف على نسائه في الليلة الواحدة وله يومئذ تسع نسوة, refs: ['Jāmiʿ 48:5630.2']}
+  - id: hadith-48-khadija-aisha-sawda
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Khadija, Aisha and Sawda
+    read: ['Jāmiʿ 48:5631.1-5631.4']
+    quran: []
+    tags:
+      - {motif: bride-shown-in-dream-in-silk, note: أريتك في المنام ثلاث ليال جاءني بك الملك في سرقة من حرير ... إن يك هذا من عند الله يمضه, refs: ['Jāmiʿ 48:5631.2']}
+      - {motif: married-at-seven-brought-at-nine, note: تزوجها وهي بنت سبع سنين وزفت إليه وهي بنت تسع سنين ولعبها معها ومات عنها وهي بنت ثمان عشرة, refs: ['Jāmiʿ 48:5631.3']}
+      - {motif: wife-gives-her-day-to-co-wife, note: فلما كبرت جعلت يومها من رسول الله لعائشة, refs: ['Jāmiʿ 48:5631.4']}
+      - {motif: no-second-wife-while-first-lived, note: لم يتزوج النبي على خديجة حتى ماتت, refs: ['Jāmiʿ 48:5631.1']}
+  - id: hadith-48-hafsa-and-umm-salama
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Hafsa and Umm Salama
+    read: ['Jāmiʿ 48:5632.1-5633.1']
+    quran: ['2:156']
+    tags:
+      - {motif: father-offers-widowed-daughter-to-friends, note: أتيت عثمان بن عفان فعرضت عليه حفصة ... فصمت أبو بكر ... علمت أن رسول الله قد ذكرها فلم أكن لأفشي سر رسول الله, refs: ['Jāmiʿ 48:5632.1']}
+      - {motif: recompense-prayer-brings-better-husband, note: إنا لله وإنا إليه راجعون اللهم أجرني في مصيبتي وأخلف لي خيرا منها ... فأخلف الله لي رسول الله ... وأدعو الله أن يذهب بالغيرة, refs: ['Jāmiʿ 48:5633.1']}
+  - id: hadith-48-juwayriya-and-zaynab
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Juwayriya and Zaynab bint Jahsh
+    read: ['Jāmiʿ 48:5634.1-5634.2']
+    quran: ['33:37']
+    tags:
+      - {motif: marriage-frees-captive-tribe, note: أقضي كتابتك وأتزوجك ... أصهار رسول الله فأرسلوا ما بأيديهم ... أعتق بتزويجه إياها مائة أهل بيت, refs: ['Jāmiʿ 48:5634.1']}
+      - {motif: wife-married-by-god-above-seven-heavens, note: زوجكن أهاليكن وزوجني الله تعالى من فوق سبع سموات ... لو كان رسول الله كاتما شيئا لكتم هذه, refs: ['Jāmiʿ 48:5634.2']}
+  - id: hadith-48-umm-habiba-safiyya-maymuna
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Umm Habiba, Safiyya and Maymuna
+    read: ['Jāmiʿ 48:5635.1-5636.1']
+    quran: ['37:177']
+    tags:
+      - {motif: foreign-king-marries-wife-by-proxy, note: فزوجها النجاشي النبي وأمهرها عنه أربعة آلاف ... وكان مهر نسائه أربع مائة درهم, refs: ['Jāmiʿ 48:5635.1']}
+      - {motif: accursed-morning-of-the-warned, note: خربت خيبر إنا إذا نزلنا بساحة قوم فساء صباح المنذرين, refs: ['Jāmiʿ 48:5635.2']}
+      - {motif: wedding-feast-of-hays-on-mat, note: وليمتها التمر والأقط والسمن فحصت الأرض أفاحيص وجيء بالأنطاع, refs: ['Jāmiʿ 48:5635.2']}
+      - {motif: veiling-shows-wife-not-concubine, note: إن حجبها فهي امرأته وإن لم يحجبها فهي أم ولد ... فعثرت الناقة العضباء ... أبعد الله اليهودية, refs: ['Jāmiʿ 48:5635.2']}
+      - {motif: married-while-not-in-pilgrim-state, note: أن رسول الله تزوجها وهو حلال, refs: ['Jāmiʿ 48:5636.1']}
+  - id: hadith-48-mariya-and-ibnat-al-jawn
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Mariya the Copt; the bride who sought refuge
+    read: ['Jāmiʿ 48:5637.1-5637.2']
+    quran: []
+    tags:
+      - {motif: ruler-sends-two-sister-slave-girls-and-mule, note: أهدى أمير القبط لرسول الله جاريتين أختين قبطيتين وبغلة ... وأما الأخرى فأعطاها حسان, refs: ['Jāmiʿ 48:5637.1']}
+      - {motif: rejected-bride-sought-refuge, note: 'أعوذ بالله منك فقال لها: لقد عذت بعظيم الحقي بأهلك', refs: ['Jāmiʿ 48:5637.2']}
+  - id: hadith-48-ibrahim-and-the-daughters
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Ibrahim; a daughter's burial; Fatima
+    read: ['Jāmiʿ 48:5639.1-5641.3']
+    quran: []
+    tags:
+      - {motif: son-nursed-in-smoky-smiths-house, note: دفعه إلى أم سيف امرأة قين ... وهو ينفخ بكيره قد امتلأ البيت دخانا, refs: ['Jāmiʿ 48:5639.1']}
+      - {motif: eye-weeps-heart-grieves, note: تدمع العين ويحزن القلب ولا نقول إلا ما يرضى ربنا والله يا إبراهيم إنا بك لمحزونون, refs: ['Jāmiʿ 48:5639.1']}
+      - {motif: son-nursed-in-smoky-smiths-house, note: كان إبراهيم مسترضعا له في عوالي المدينة ... وإنه ليدخن وكان ظئره قينا, refs: ['Jāmiʿ 48:5639.2']}
+      - {motif: gravedigger-who-did-not-lie-with-wife, note: 'هل منكم رجل لم يقارف الليلة؟ فقال أبو طلحة: أنا', refs: ['Jāmiʿ 48:5640.1']}
+      - {motif: daughter-too-young-for-elders, note: 'خطب أبو بكر وعمر فاطمة فقال: إنها صغيرة فخطبها علي فزوجها منه', refs: ['Jāmiʿ 48:5641.1']}
+      - {motif: bride-furnished-with-velvet-waterskin-pillow, note: جهز رسول الله فاطمة في خميل وقربة ووسادة أدم حشوها ليف الإذخر, refs: ['Jāmiʿ 48:5641.2']}
+      - {motif: daughter-buried-at-night-without-caliph, note: عاشت بعد رسول الله ستة أشهر ... دفنها زوجها علي ليلا ولم يؤذن بها أبا بكر, refs: ['Jāmiʿ 48:5641.3']}
+  - id: hadith-48-stature-and-build
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: His stature, colour and build
+    read: ['Jāmiʿ 48:5642.1-5643.2']
+    quran: []
+    tags:
+      - {motif: neither-tall-nor-short-nor-stark-white, note: ليس بالطويل البائن ولا بالقصير ولا بالأبيض الأمهق ولا بالآدم ولا بالجعد القطط ولا بالسبط, refs: ['Jāmiʿ 48:5642.1']}
+      - {motif: fewer-than-twenty-white-hairs, note: وليس في رأسه ولحيته عشرون شعرة بيضاء, refs: ['Jāmiʿ 48:5642.1']}
+      - {motif: sent-at-forty-ten-years-in-each-city, note: بعثه الله على رأس أربعين سنة فأقام بمكة عشر سنين وبالمدينة عشر سنين وتوفاه الله على رأس ستين سنة, refs: ['Jāmiʿ 48:5642.1']}
+      - {motif: hair-dyed-with-henna-kept, note: 'فرأيت شعرا من شعره فإذا هو أحمر فسألت فقيل: احمر من الطيب', refs: ['Jāmiʿ 48:5642.2']}
+      - {motif: neither-tall-nor-short-nor-stark-white, note: أحسن الناس وجها وأحسنه خلقا ليس بالطويل البائن, refs: ['Jāmiʿ 48:5642.3']}
+      - {motif: thick-palms-and-soles, note: شثن الكفين والقدمين ضخم الرأس ضخم الكراديس طويل المسربة, refs: ['Jāmiʿ 48:5643.1']}
+      - {motif: walks-as-if-descending-slope, note: إذا مشى تكفأ تكفؤا كأنما ينحط من صبب, refs: ['Jāmiʿ 48:5643.1']}
+      - {motif: walks-as-if-descending-slope, note: عظيم العينين هدب الأشفار مشرب العين بحمرة كث اللحية وإذا التفت التفت جميعا, refs: ['Jāmiʿ 48:5643.2']}
+  - id: hadith-48-chin-tuft-and-hair
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The white tuft under the lip; his hair
+    read: ['Jāmiʿ 48:5644.1-5646.1']
+    quran: []
+    tags:
+      - {motif: fewer-than-twenty-white-hairs, note: رأيت بياضا من تحت شفته السفلى العنفقة, refs: ['Jāmiʿ 48:5644.1']}
+      - {motif: fewer-than-twenty-white-hairs, note: كان أبيض قد شمط وأمر لنا النبي بثلاث عشرة قلوصا فقبض قبل أن نقبضها, refs: ['Jāmiʿ 48:5644.2']}
+      - {motif: fewer-than-twenty-white-hairs, note: كان في عنفقته شعرات بيض, refs: ['Jāmiʿ 48:5644.3']}
+      - {motif: hair-reaching-earlobes-or-shoulders, note: مربوعا بعيد ما بين المنكبين له شعر يبلغ شحمه أذنه رأيته في حلة حمراء, refs: ['Jāmiʿ 48:5644.4']}
+      - {motif: neither-tall-nor-short-nor-stark-white, note: كان شعرا رجلا ليس بالجعد ولا السبط بين أذنيه وعاتقه, refs: ['Jāmiʿ 48:5645.1']}
+      - {motif: hair-reaching-earlobes-or-shoulders, note: كان يضرب شعره منكبيه, refs: ['Jāmiʿ 48:5645.2']}
+      - {motif: hair-reaching-earlobes-or-shoulders, note: كان شعر رسول الله إلى أنصاف أذنيه, refs: ['Jāmiʿ 48:5645.3']}
+      - {motif: hair-reaching-earlobes-or-shoulders, note: كان شعر رسول الله فوق الوفرة ودون الجمة, refs: ['Jāmiʿ 48:5645.4']}
+      - {motif: hair-let-hang-like-people-of-book, note: كان المشركون يفرقون رؤوسهم وكان أهل الكتاب يسدلون رؤوسهم وكان رسول الله يحب موافقة أهل الكتاب فيما لم يؤمر فيه بشيء ثم فرق, refs: ['Jāmiʿ 48:5646.1']}
+  - id: hadith-48-hands-and-face
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: His hands and face
+    read: ['Jāmiʿ 48:5646.2-5647.2']
+    quran: []
+    tags:
+      - {motif: thick-palms-and-soles, note: كان النبي ضخم اليدين لم أر بعده مثله, refs: ['Jāmiʿ 48:5646.2']}
+      - {motif: thick-palms-and-soles, note: ضخم اليدين والقدمين حسن الوجه ... وكان بسط الكفين, refs: ['Jāmiʿ 48:5646.3']}
+      - {motif: face-like-moon-not-sword, note: 'أكان وجه النبي مثل السيف؟ قال: لا بل مثل القمر', refs: ['Jāmiʿ 48:5646.4']}
+      - {motif: face-like-moon-not-sword, note: لا بل كان مثل الشمس والقمر وكان مستديرا, refs: ['Jāmiʿ 48:5646.5']}
+      - {motif: seal-between-shoulders-like-pigeon-egg, note: رأيت الخاتم عند كتفه مثل بيضة الحمامة يشبه جسده, refs: ['Jāmiʿ 48:5646.5']}
+      - {motif: prophets-face-like-piece-of-moon, note: إذا سر استنار وجهه حتى كأنه قطعة قمر, refs: ['Jāmiʿ 48:5647.1']}
+      - {motif: neither-tall-nor-short-nor-stark-white, note: وما على وجه الأرض رجل رآه غيري ... كان أبيض مليحا مقصدا, refs: ['Jāmiʿ 48:5647.2']}
+  - id: hadith-48-touch-and-scent
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Soft palm, sweet scent, sweat like pearls
+    read: ['Jāmiʿ 48:5647.3-5649.1']
+    quran: []
+    tags:
+      - {motif: softer-than-silk-sweeter-than-musk, note: ما مسست حريرا ولا ديباجا ألين من كف النبي ولا شممت ريحا قط أو عرفا قط أطيب من ريح ... النبي, refs: ['Jāmiʿ 48:5647.3']}
+      - {motif: sweat-like-pearls, note: كان رسول الله أزهر اللون كأن عرقه اللؤلؤ, refs: ['Jāmiʿ 48:5647.4']}
+      - {motif: softer-than-silk-sweeter-than-musk, note: ولا شممت مسكة ولا عنبرة أطيب من رائحة رسول الله, refs: ['Jāmiʿ 48:5647.4']}
+      - {motif: sweat-collected-in-flasks, note: أخذت من عرقه وشعره فجمعته في قارورة ثم جمعته في سك ... أوصى إلي أن يجعل في حنوطه من ذلك السك, refs: ['Jāmiʿ 48:5648.1']}
+      - {motif: sweat-collected-in-flasks, note: فكانت تجمع عرقه فتجعله في الطيب والقوارير ... عرقك أدوف به طيبي, refs: ['Jāmiʿ 48:5648.2']}
+      - {motif: hand-cool-as-from-perfumers-box, note: فوجدت ليده بردا أو ريحا كأنما أخرجها من جؤنة عطار, refs: ['Jāmiʿ 48:5649.1']}
+  - id: hadith-48-armpits-shanks-voice-mouth
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Armpits, shanks, voice, mouth, eyes and heels
+    read: ['Jāmiʿ 48:5649.2-5650.1']
+    quran: ['95:1']
+    tags:
+      - {motif: whiteness-of-armpits-seen, note: كان إذا صلى فرج بين يديه حتى يبدو بياض إبطيه, refs: ['Jāmiʿ 48:5649.2']}
+      - {motif: whiteness-of-armpits-seen, note: لا يرفع يديه في شيء من دعائه إلا في الاستسقاء فإنه كان يرفع يديه حتى يرى بياض إبطيه, refs: ['Jāmiʿ 48:5649.3']}
+      - {motif: whiteness-of-armpits-seen, note: عليه حلة حمراء كأني أنظر إلى بياض ساقيه, refs: ['Jāmiʿ 48:5649.4']}
+      - {motif: most-beautiful-voice-reciting, note: يقرأ في العشاء والتين والزيتون فما سمعت أحدا أحسن صوتا أو قراءة منه, refs: ['Jāmiʿ 48:5649.5']}
+      - {motif: big-mouth-long-eyes-lean-heels, note: ضليع الفم أشكل العين منهوس العقبين ... طويل شق العينين ... قليل لحم العقب, refs: ['Jāmiʿ 48:5650.1']}
+  - id: hadith-48-grey-hair-and-dye
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: His grey hairs and whether he dyed
+    read: ['Jāmiʿ 48:5650.2-5652.2']
+    quran: []
+    tags:
+      - {motif: fewer-than-twenty-white-hairs, note: إنه لم ير من الشيب إلا قليلا, refs: ['Jāmiʿ 48:5650.2']}
+      - {motif: fewer-than-twenty-white-hairs, note: يكره أن ينتف الرجل الشعرة البيضاء ... إنما كان البياض في عنفقته وفي الصدغين وفي الرأس نبذ, refs: ['Jāmiʿ 48:5650.3']}
+      - {motif: fewer-than-twenty-white-hairs, note: إنه لم يبلغ ما يخضب لو شئت أن أعد شمطاته في لحيته, refs: ['Jāmiʿ 48:5650.4']}
+      - {motif: fewer-than-twenty-white-hairs, note: ما شانه الله ببيضاء, refs: ['Jāmiʿ 48:5650.5']}
+      - {motif: fewer-than-twenty-white-hairs, note: وليس في رأسه ولحيته عشرون شعرة بيضاء, refs: ['Jāmiʿ 48:5651.1']}
+      - {motif: fewer-than-twenty-white-hairs, note: كان إذا دهن رأسه لم ير منه شيء وإذا لم يدهن رئي منه, refs: ['Jāmiʿ 48:5651.2']}
+      - {motif: hair-dyed-with-henna-kept, note: أخرجت إلينا شعرا من شعر النبي مخضوبا, refs: ['Jāmiʿ 48:5651.3']}
+      - {motif: hair-dyed-with-henna-kept, note: رأيت شعر رسول الله عند أنس بن مالك مخضوبا, refs: ['Jāmiʿ 48:5652.1']}
+      - {motif: hair-dyed-with-henna-kept, note: فإذا هو ذو وفرة بها ردع من حناء وعليه بردان أخضران, refs: ['Jāmiʿ 48:5652.2']}
+  - id: hadith-48-seal-of-prophethood
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The seal of prophethood
+    read: ['Jāmiʿ 48:5653.1-5653.3']
+    quran: ['47:19']
+    tags:
+      - {motif: seal-between-shoulders-like-pigeon-egg, note: فنظرت إلى خاتمه بين كتفيه مثل زر الحجلة, refs: ['Jāmiʿ 48:5653.1']}
+      - {motif: followers-catch-spittle-and-ablution-water, note: إن ابن أختي وجع فمسح رأسي ودعا لي بالبركة ثم توضأ فشربت من وضوئه, refs: ['Jāmiʿ 48:5653.1']}
+      - {motif: seal-between-shoulders-like-pigeon-egg, note: رأيت خاتما في ظهر رسول الله كأنه بيضة حمام, refs: ['Jāmiʿ 48:5653.2']}
+      - {motif: seal-between-shoulders-like-pigeon-egg, note: خاتم النبوة بين كتفيه عند ناغض كتفه اليسرى جمعا عليه خيلان كأمثال الثآليل, refs: ['Jāmiʿ 48:5653.3']}
+  - id: hadith-48-best-in-character
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Best in character; his character was the Quran
+    read: ['Jāmiʿ 48:5654.1-5655.2']
+    quran: ['23:1-9']
+    tags:
+      - {motif: servant-never-told-why-did-you, note: خدمت رسول الله عشر سنين والله ما قال لي أفا قط ولا قال لشيء لم فعلت كذا, refs: ['Jāmiʿ 48:5654.2']}
+      - {motif: servant-never-told-why-did-you, note: إن أنسا غلام كيس فليخدمك ... ما قال لشيء صنعته لم صنعت هذا هكذا, refs: ['Jāmiʿ 48:5654.3']}
+      - {motif: jokes-only-with-truth, note: 'قد قبض بقفاي من ورائي ... وهو يضحك فقال: يا أنيس أذهبت حيث أمرتك؟', refs: ['Jāmiʿ 48:5654.4']}
+      - {motif: character-was-the-quran, note: ألست تقرأ القرآن؟ ... فإن خلق نبي الله كان القرآن, refs: ['Jāmiʿ 48:5655.1']}
+      - {motif: character-was-the-quran, note: خلق رسول الله القرآن فقرأت قد أفلح المؤمنون حتى انتهت والذين هم على صلواتهم يحافظون, refs: ['Jāmiʿ 48:5655.2']}
+  - id: hadith-48-described-in-torah-and-gospel
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Described in the Torah and the Gospel
+    read: ['Jāmiʿ 48:5655.3-5655.4']
+    quran: ['33:45']
+    tags:
+      - {motif: prophet-described-in-torah, note: إنه لموصوف في التوراة ببعض صفته في القرآن يا أيها النبي إنا أرسلناك شاهدا ومبشرا ونذيرا وحرزا للأميين أنت عبدي ورسولي سميتك المتوكل, refs: ['Jāmiʿ 48:5655.3']}
+      - {motif: not-harsh-not-shouting-in-markets, note: ليس بفظ ولا غليظ ولا سخاب في الأسواق ولا يدفع السيئة ولكن يعفو ويغفر, refs: ['Jāmiʿ 48:5655.3']}
+      - {motif: crooked-community-straightened-before-death, note: ولن يقبضه الله حتى يقيم به الملة العوجاء بأن يقولوا لا إله إلا الله ويفتح بها أعينا عميا وآذانا صما وقلوبا غلفا, refs: ['Jāmiʿ 48:5655.3']}
+      - {motif: not-harsh-not-shouting-in-markets, note: مكتوب في الانجيل لا فظ ولا غليظ ولا صخاب في الأسواق ولا يجزي بالسيئة مثلها ولكن يعفو ويصفح, refs: ['Jāmiʿ 48:5655.4']}
+    hints:
+      - "The Torah description 'my servant ... not harsh, not clamouring in the markets ... to open blind eyes, deaf ears' against Isa 42:1-7: 'Behold my servant (avdi) ... he shall not cry nor lift up, nor cause his voice to be heard in the street (ba-hus) ... a bruised reed he shall not break ... to open the blind eyes'."
+      - "The Gospel description 'not clamouring in the markets' against Matt 12:18-20, which quotes Isa 42 of Jesus: 'he shall not strive nor cry, neither shall any man hear his voice in the streets (en tais plateiais)'."
+      - "The 'uncircumcised hearts' (qulub ghulf) to be opened, against Deut 10:16 and Jer 4:4, 'circumcise the foreskin of your heart'."
+  - id: hadith-48-not-coarse-or-obscene
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Not obscene, not a curser
+    read: ['Jāmiʿ 48:5656.1-5656.4']
+    quran: []
+    tags:
+      - {motif: dust-on-his-forehead-reproach, note: 'لم يكن النبي سبابا ولا فحاشا ولا لعانا كان يقول لأحدنا عند المعتبة: ماله؟ ترب جبينه', refs: ['Jāmiʿ 48:5656.2']}
+      - {motif: not-harsh-not-shouting-in-markets, note: لم يكن رسول الله فاحشا ولا متفحشا ولا صخابا في الأسواق ولا يجزي بالسيئة السيئة ولكن يعفو ويصفح, refs: ['Jāmiʿ 48:5656.3']}
+      - {motif: not-harsh-not-shouting-in-markets, note: شبح الذراعين أهدب أشفار العينين ... يقبل جميعا ويدبر جميعا ... ولا صخابا في الأسواق, refs: ['Jāmiʿ 48:5656.4']}
+      - {motif: not-harsh-not-shouting-in-markets, note: 'لم يكن النبي فاحشا ولا متفحشا وكان يقول: إن من خياركم أحسنكم أخلاقا', refs: ['Jāmiʿ 48:5656.1']}
+  - id: hadith-48-humility
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Humility: servant and messenger'
+    read: ['Jāmiʿ 48:5657.1-5657.4']
+    quran: ['39:68']
+    tags:
+      - {motif: do-not-extol-me-as-son-of-mary, note: لا تطروني كما أطرت النصارى ابن مريم فإنما أنا عبده فقولوا عبد الله ورسوله, refs: ['Jāmiʿ 48:5657.1']}
+      - {motif: slave-girl-leads-him-by-hand, note: كانت الأمة من إماء أهل المدينة لتأخذ بيد رسول الله فتنطلق به حيث شاءت, refs: ['Jāmiʿ 48:5657.2']}
+      - {motif: angel-offers-king-prophet-or-servant-messenger, note: 'إن هذا الملك ما نزل منذ يوم خلق قبل الساعة ... أفملكا نبيا يجعلك أو عبدا رسولا؟ قال جبريل: تواضع لربك ... بل عبدا رسولا', refs: ['Jāmiʿ 48:5657.3']}
+      - {motif: moses-holding-throne-at-resurrection-swoon, note: لا تخيروني على موسى فإن الناس يصعقون يوم القيامة فأكون أول من يفيق فإذا موسى باطش بجانب العرش ... أو كان ممن استثنى الله, refs: ['Jāmiʿ 48:5657.4']}
+  - id: hadith-48-generosity
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Generosity
+    read: ['Jāmiʿ 48:5658.1-5659.2']
+    quran: []
+    tags:
+      - {motif: more-generous-than-the-sent-wind, note: أجود ما يكون في رمضان حين يلقاه جبريل ... فيدارسه القرآن فلرسول الله أجود بالخير من الريح المرسلة, refs: ['Jāmiʿ 48:5658.1']}
+      - {motif: successor-pays-dead-prophets-promises, note: من كان له عند النبي دين أو عدة فليأتني ... وأي داء أدوأ من البخل ... فوجدتها خمسمائة فقال خذ مثلها مرتين, refs: ['Jāmiʿ 48:5659.1']}
+      - {motif: flock-between-two-mountains-gift, note: فأعطاه غنما بين جبلين ... فإن محمدا يعطي عطاء لا يخشى الفاقة, refs: ['Jāmiʿ 48:5659.2']}
+  - id: hadith-48-guarding-nakedness
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Guarding his nakedness at the building of the Ka'ba
+    read: ['Jāmiʿ 48:5660.1-5660.2']
+    quran: []
+    tags:
+      - {motif: stripped-to-carry-stones-falls-senseless, note: 'اجعل إزارك على رقبتك يقيك من الحجارة فخر إلى الأرض وطمحت عيناه إلى السماء ثم أفاق فقال: إزاري إزاري', refs: ['Jāmiʿ 48:5660.1']}
+      - {motif: stripped-to-carry-stones-falls-senseless, note: 'فأخذ الثوب فوضعه على عاتقه فنودي: لا تكشف عورتك فألقى الحجر ولبس ثوبه', refs: ['Jāmiʿ 48:5660.2']}
+  - id: hadith-48-ease-shyness-food
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: No revenge for himself; shyness; never faulted food
+    read: ['Jāmiʿ 48:5660.3-5661.1']
+    quran: []
+    tags:
+      - {motif: chooses-easier-takes-no-personal-revenge, note: ما خير رسول الله بين أمرين إلا أخذ أيسرهما ما لم يكن إثما ... وما انتقم رسول الله لنفسه إلا أن تنتهك حرمة الله, refs: ['Jāmiʿ 48:5660.3']}
+      - {motif: shyer-than-virgin-in-seclusion, note: أشد حياء من العذراء في خدرها وكان إذا كره شيئا عرفناه في وجهه, refs: ['Jāmiʿ 48:5660.4']}
+      - {motif: never-faulted-food, note: ما عاب رسول الله طعاما قط كان إذا اشتهى شيئا أكله وإن كرهه تركه, refs: ['Jāmiʿ 48:5661.1']}
+  - id: hadith-48-courage
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Courage
+    read: ['Jāmiʿ 48:5661.2-5661.5']
+    quran: []
+    tags:
+      - {motif: rides-bareback-to-alarm-horse-a-sea, note: على فرس لأبي طلحة عري في عنقه السيف وهو يقول لم تراعوا لم تراعوا ... وجدناه بحرا, refs: ['Jāmiʿ 48:5661.2']}
+      - {motif: rides-bareback-to-alarm-horse-a-sea, note: فرسا لأبي طلحة يقال له المندوب ... ما رأينا من شيء وإن وجدنا لبحرا, refs: ['Jāmiʿ 48:5661.3']}
+      - {motif: shield-behind-him-in-battle, note: كنا والله إذا احمر البأس نتقي به وإن الشجاع منا للذي يحاذي به, refs: ['Jāmiʿ 48:5661.4']}
+      - {motif: shield-behind-him-in-battle, note: ونحن نلوذ برسول الله وهو أقربنا إلى العدو, refs: ['Jāmiʿ 48:5661.5']}
+  - id: hadith-48-never-said-no
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Never said no; not stingy
+    read: ['Jāmiʿ 48:5662.1-5662.2']
+    quran: []
+    tags:
+      - {motif: never-said-no-to-a-request, note: 'ما سئل رسول الله شيئا قط فقال: لا', refs: ['Jāmiʿ 48:5662.1']}
+      - {motif: thorn-tree-snatches-cloak, note: حتى اضطروه إلى سمرة فخطفت رداءه ... فلو كان عدد هذه العضاه نعما لقسمته بينكم ثم لا تجدوني بخيلا ولا كذوبا ولا جبانا, refs: ['Jāmiʿ 48:5662.2']}
+  - id: hadith-48-mercy-to-children
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Mercy to children
+    read: ['Jāmiʿ 48:5662.3-5663.4']
+    quran: []
+    tags:
+      - {motif: greets-children-in-passing, note: 'مر على صبيان فسلم عليهم وقال: كان النبي يفعله', refs: ['Jāmiʿ 48:5662.3']}
+      - {motif: eye-weeps-heart-grieves, note: تدمع العين ويحزن القلب ولا نقول إلا ما يرضى ربنا, refs: ['Jāmiʿ 48:5662.4']}
+      - {motif: who-shows-no-mercy-gets-none, note: أتقبلون صبيانكم؟ ... لكنا والله ما نقبل ... وأملك إن كان الله نزع منكم الرحمة, refs: ['Jāmiʿ 48:5663.1']}
+      - {motif: dead-infant-suckled-in-paradise, note: إن إبراهيم ابني وإنه مات في الثدي وإن له لظئرين تكملان رضاعه في الجنة, refs: ['Jāmiʿ 48:5663.2']}
+      - {motif: who-shows-no-mercy-gets-none, note: إن لي عشرة من الولد ما قبلت منهم أحدا ... من لا يرحم لا يرحم, refs: ['Jāmiʿ 48:5663.3']}
+      - {motif: who-shows-no-mercy-gets-none, note: لا يرحم الله من لا يرحم الناس, refs: ['Jāmiʿ 48:5663.4']}
+  - id: hadith-48-widows-and-women
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Walking with the widow; the women as glass
+    read: ['Jāmiʿ 48:5663.5-5664.1']
+    quran: []
+    tags:
+      - {motif: walks-with-widow-and-poor, note: يكثر الذكر ويقل اللغو ويطيل الصلاة ويقصر الخطبة ولا يأنف أن يمشي مع الأرملة والمساكين, refs: ['Jāmiʿ 48:5663.5']}
+      - {motif: women-as-glass-vessels, note: 'حاد يقال له أنجشة ... رويدك يا أنجشة لا تكسر القوارير قال قتادة: يعني ضعفة النساء', refs: ['Jāmiʿ 48:5664.1']}
+  - id: hadith-48-near-to-people
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: 'Near to people: water vessels, needs, hair'
+    read: ['Jāmiʿ 48:5664.2-5665.2']
+    quran: []
+    tags:
+      - {motif: dips-hand-in-servants-water-vessels, note: جاء خدم المدينة بآنيتهم فيها الماء فما يؤتى بإناء إلا غمس يده فيها ... في الغداة الباردة, refs: ['Jāmiʿ 48:5664.2']}
+      - {motif: walks-any-lane-with-troubled-woman, note: امرأة كان في عقلها شيء ... انظري أي السكك شئت حتى أقضي لك حاجتك, refs: ['Jāmiʿ 48:5664.3']}
+      - {motif: hair-distributed-among-people, note: والحلاق يحلقه وأطاف به أصحابه فما يريدون أن تقع شعرة إلا في يد رجل, refs: ['Jāmiʿ 48:5665.1']}
+      - {motif: hair-distributed-among-people, note: أخذ أبو طلحة بشعر أحد شقي رأسه ... فكانت أم سليم تدوفه في طيبها, refs: ['Jāmiʿ 48:5665.2']}
+  - id: hadith-48-never-struck-trust-in-god
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Never struck anyone; trust in God when his sword is drawn
+    read: ['Jāmiʿ 48:5665.3-5666.1']
+    quran: []
+    tags:
+      - {motif: never-struck-woman-or-servant, note: ما ضرب رسول الله شيئا قط بيده ولا امرأة ولا خادما إلا أن يجاهد في سبيل الله, refs: ['Jāmiʿ 48:5665.3']}
+      - {motif: sword-drawn-over-sleeper-who-protects-you, note: 'فعلق بها سيفه ... إن هذا اخترط سيفي وأنا نائم ... من يمنعك مني؟ قلت: الله ... ثم لم يعاقبه', refs: ['Jāmiʿ 48:5665.4']}
+      - {motif: i-know-god-best-and-fear-him-most, note: ما بال رجال بلغهم عني أمر ترخصت فيه فكرهوا وتنزهوا عنه فوالله لأنا أعلمهم بالله وأشدهم له خشية, refs: ['Jāmiʿ 48:5666.1']}
+  - id: hadith-48-jesting
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: His jesting
+    read: ['Jāmiʿ 48:5666.2-5667.4']
+    quran: []
+    tags:
+      - {motif: jokes-only-with-truth, note: يا أبا عمير ما فعل النغير؟, refs: ['Jāmiʿ 48:5666.2']}
+      - {motif: jokes-only-with-truth, note: إني حاملك على ولد الناقة ... وهل تلد الإبل إلا النوق؟, refs: ['Jāmiʿ 48:5666.3']}
+      - {motif: jokes-only-with-truth, note: 'إنك تداعبنا فقال: إني لا أقول إلا حقا', refs: ['Jāmiʿ 48:5667.1']}
+      - {motif: jokes-only-with-truth, note: إني لأمزح ولا أقول إلا حقا, refs: ['Jāmiʿ 48:5667.2']}
+      - {motif: ugly-bedouin-hugged-sold-as-slave, note: إن زاهرا باديتنا ونحن حاضروه ... فاحتضنه من خلفه ... من يشتري العبد ... لكن عند الله أنت غال, refs: ['Jāmiʿ 48:5667.3']}
+      - {motif: jokes-only-with-truth, note: يا ذا الأذنين, refs: ['Jāmiʿ 48:5667.4']}
+  - id: hadith-48-laughter
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Laughter and smiling
+    read: ['Jāmiʿ 48:5669.1-5670.3']
+    quran: []
+    tags:
+      - {motif: laughs-till-molars-show, note: ضحك حتى بدت نواجذه, refs: ['Jāmiʿ 48:5669.1']}
+      - {motif: laughs-till-molars-show, note: ضحك حتى بدت نواجذه, refs: ['Jāmiʿ 48:5669.4']}
+      - {motif: prophet-smiles-never-laughs-open-mouthed, note: ما رأيت رسول الله مستجمعا ضاحكا حتى أرى منه لهواته إنما كان يبتسم, refs: ['Jāmiʿ 48:5669.3']}
+      - {motif: prophet-smiles-never-laughs-open-mouthed, note: ما حجبني رسول الله منذ أسلمت ولا رآني إلا ضحك ... إلا تبسم في وجهي, refs: ['Jāmiʿ 48:5669.2']}
+      - {motif: laughs-at-fallen-enemy-exposed, note: ارم فداك أبي وأمي ... بسهم ليس فيه نصل فأصبت جنبه فسقط فانكشفت عورته فضحك, refs: ['Jāmiʿ 48:5669.5']}
+      - {motif: prophet-smiles-never-laughs-open-mouthed, note: فيأخذون في أمر الجاهلية فيضحكون ويتبسم, refs: ['Jāmiʿ 48:5670.1']}
+      - {motif: prophet-smiles-never-laughs-open-mouthed, note: ما كان ضحك رسول الله إلا تبسما, refs: ['Jāmiʿ 48:5670.2']}
+      - {motif: prophet-smiles-never-laughs-open-mouthed, note: ما رأيت أحدا أكثر تبسما من رسول الله, refs: ['Jāmiʿ 48:5670.3']}
+  - id: hadith-48-gait-lots-beard-forbearance
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: His gait; lots among wives; the beard grasped; forbearance
+    read: ['Jāmiʿ 48:5671.1-5672.1']
+    quran: []
+    tags:
+      - {motif: sun-runs-in-his-face, note: كأنما الشمس تجري في وجهه, refs: ['Jāmiʿ 48:5671.1']}
+      - {motif: earth-folded-for-his-walk, note: وما رأيت أسرع في مشيته من رسول الله كأن الأرض تطوى له إنا لنجهد أنفسنا وإنه لغير مكترث, refs: ['Jāmiʿ 48:5671.1']}
+      - {motif: lots-cast-among-wives-for-journey, note: إذا أراد أن يخرج أقرع بين نسائه فأيتهن خرج سهمها خرج بها, refs: ['Jāmiʿ 48:5671.2']}
+      - {motif: lots-cast-among-wives-for-journey, note: فطارت القرعة على عائشة وحفصة, refs: ['Jāmiʿ 48:5671.3']}
+      - {motif: grasps-beard-when-worried, note: إذا همه شيء أخذ بلحيته هكذا, refs: ['Jāmiʿ 48:5671.4']}
+      - {motif: cloak-yanked-leaves-mark-on-neck, note: رداء نجراني غليظ الحاشية ... فجبذه بردائه جبذة شديدة ... أثرت بها حاشية الرداء ... فضحك ثم أمر له بعطاء, refs: ['Jāmiʿ 48:5672.1']}
+    hints:
+      - "'As if the earth were folded for him' (ka-anna al-ard tutwa lahu), against the rabbinic 'leaping of the way' (qefisat ha-derekh), where the earth shrank for Eliezer, Jacob and Abishai (bSanhedrin 95a-b)."
+  - id: hadith-48-frugal-living
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: His frugal living
+    read: ['Jāmiʿ 48:5673.1-5673.5']
+    quran: []
+    tags:
+      - {motif: two-black-things-dates-and-water, note: وقد شبعنا من الأسودين التمر والماء, refs: ['Jāmiʿ 48:5673.1']}
+      - {motif: two-black-things-dates-and-water, note: وما يجد من الدقل ما يملأ به بطنه, refs: ['Jāmiʿ 48:5673.2']}
+      - {motif: two-black-things-dates-and-water, note: يظل اليوم يلتوي ما يجد دقلا يملأ به بطنه, refs: ['Jāmiʿ 48:5673.3']}
+      - {motif: three-day-sacrifice-meat-rule-for-famine, note: ما فعله إلا في عام جاع الناس فيه فأراد أن يطعم الغني الفقير, refs: ['Jāmiʿ 48:5673.4']}
+      - {motif: trotters-kept-fifteen-days, note: وإن كنا لنرفع الكراع فنأكله بعد خمس عشرة ... ما شبع آل محمد من خبز بر مأدوم ثلاثة أيام, refs: ['Jāmiʿ 48:5673.4']}
+      - {motif: trotters-kept-fifteen-days, note: يبيت الليالي المتتابعة طاويا وأهله لا يجدون عشاء وكان أكثر خبزهم خبز الشعير, refs: ['Jāmiʿ 48:5673.5']}
+  - id: hadith-48-gourd-and-sweets
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Gourd, sweets and honey
+    read: ['Jāmiʿ 48:5674.1-5675.2']
+    quran: []
+    tags:
+      - {motif: gourd-picked-from-around-bowl, note: خبزا من شعير ومرقا فيه دباء ... يتتبع الدباء من حول القصعة فلم أزل أحب الدباء, refs: ['Jāmiʿ 48:5674.1']}
+      - {motif: gourd-picked-from-around-bowl, note: أتي بمرقة فيها دباء وقديد فرأيته يتتبع الدباء, refs: ['Jāmiʿ 48:5674.2']}
+      - {motif: gourd-picked-from-around-bowl, note: فجعلت أتتبعه فأضعه بين يديه لما أعلم أنه يحبه, refs: ['Jāmiʿ 48:5674.3']}
+      - {motif: gourd-picked-from-around-bowl, note: هذا القرع هو الدباء نكثر به طعامنا, refs: ['Jāmiʿ 48:5674.4']}
+      - {motif: gourd-picked-from-around-bowl, note: ثريدة بلحم وقرع ... فجعل يأكل ويقسم حتى فرغ من آخره, refs: ['Jāmiʿ 48:5675.1']}
+      - {motif: loved-sweets-and-honey, note: كان رسول الله يحب الحلواء والعسل, refs: ['Jāmiʿ 48:5675.2']}
+  - id: hadith-48-the-foreleg
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The foreleg
+    read: ['Jāmiʿ 48:5675.3-5676.1']
+    quran: []
+    tags:
+      - {motif: foreleg-preferred-and-poisoned, note: فرفع إليه الذراع وكانت تعجبه فنهس منها نهسة, refs: ['Jāmiʿ 48:5675.3']}
+      - {motif: foreleg-preferred-and-poisoned, note: كان أحب العراق إلى رسول الله الذراع ذراع الشاة وكان قد سم في الذراع وكان يرى أن اليهود هم سموه, refs: ['Jāmiʿ 48:5676.1']}
+      - {motif: poisoned-sheep-test-of-prophethood, note: وكان قد سم في الذراع, refs: ['Jāmiʿ 48:5676.1']}
+  - id: hadith-48-fresh-dates-paired
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Fresh dates eaten with cucumber, watermelon and melon
+    read: ['Jāmiʿ 48:5678.1-5678.3']
+    quran: []
+    tags:
+      - {motif: hot-and-cold-foods-balanced, note: يأكل الرطب بالقثاء, refs: ['Jāmiʿ 48:5678.1']}
+      - {motif: hot-and-cold-foods-balanced, note: كان يأكل البطيخ بالرطب ... نكسر حر هذا ببرد هذا وبرد هذا بحر هذا, refs: ['Jāmiʿ 48:5678.2']}
+      - {motif: hot-and-cold-foods-balanced, note: يجمع بين الرطب والخربز, refs: ['Jāmiʿ 48:5678.3']}
+  - id: hadith-48-garlic-and-the-angel
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: Garlic, onions and the angel
+    read: ['Jāmiʿ 48:5678.4-5679.3']
+    quran: []
+    tags:
+      - {motif: garlic-eater-kept-from-mosque, note: من أكل ثوما أو بصلا فليعتزلنا أو ليعتزل مسجدنا ... كل فإني أناجي من لا تناجي, refs: ['Jāmiʿ 48:5678.4']}
+      - {motif: not-forbidden-but-disliked-for-smell, note: 'أحرام هو؟ قال: لا ولكني أكرهه من أجل ريحه قال: فإني أكره ما كرهت', refs: ['Jāmiʿ 48:5679.1']}
+      - {motif: not-forbidden-but-disliked-for-smell, note: فيه ثوم ... لا ولكني أكرهه من أجل ريحه, refs: ['Jāmiʿ 48:5679.2']}
+      - {motif: garlic-eater-kept-from-mosque, note: كلوه فإني لست كأحدكم إني أخاف أن أوذي صاحبي, refs: ['Jāmiʿ 48:5679.3']}
+  - id: hadith-48-the-lizard
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: The roasted lizard
+    read: ['Jāmiʿ 48:5680.1']
+    quran: []
+    tags:
+      - {motif: lizard-not-of-my-peoples-land, note: 'ضبا محنوذا ... أحرام الضب يا رسول الله؟ قال: لا ولكن لم يكن بأرض قومي فأجدني أعافه ... فاجتررته فأكلته ورسول الله ينظر', refs: ['Jāmiʿ 48:5680.1']}
+    hints:
+      - "The dabb, roasted and eaten as lawful though the prophet is averse, against Lev 11:29, where the cognate sab 'after its kind' heads the unclean swarming creatures."
+  - id: hadith-48-drinking
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: Claude Opus 5.5, reading the Arabic
+    title: How and what he drank
+    read: ['Jāmiʿ 48:5680.2-5682.4']
+    quran: []
+    tags:
+      - {motif: sweet-cold-drink-best, note: 'أي الشراب أطيب؟ قال: الحلو البارد', refs: ['Jāmiʿ 48:5680.2']}
+      - {motif: three-breaths-in-drinking, note: كان يتنفس في الإناء ثلاثا ... إنه أروى وأبرأ وأمرأ, refs: ['Jāmiʿ 48:5681.1']}
+      - {motif: drinks-standing-zamzam-and-waterskin, note: سقيت رسول الله من زمزم فشرب وهو قائم, refs: ['Jāmiʿ 48:5682.1']}
+      - {motif: drinks-standing-zamzam-and-waterskin, note: 'ثم قام فشرب فضله وهو قائم ثم قال: إن ناسا يكرهون الشرب قائما وإن النبي صنع مثل ما صنعت', refs: ['Jāmiʿ 48:5682.2']}
+      - {motif: waterskin-mouth-cut-off-kept, note: فشرب من قربة معلقة قائما فقمت إلى فيها فقطعته, refs: ['Jāmiʿ 48:5682.3']}
+      - {motif: waterskin-mouth-cut-off-kept, note: شرب من فم قربة قائما, refs: ['Jāmiʿ 48:5682.4']}

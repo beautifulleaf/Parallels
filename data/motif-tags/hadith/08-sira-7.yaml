@@ -301,9 +301,6 @@ new_motifs:
   seeing-prophet-dearer-than-family-and-wealth:
     label: Seeing prophet dearer than family and wealth
     cluster: sira
-  mothers-of-prophets-see-such-visions:
-    label: Mothers of prophets see such visions
-    cluster: infancy
   breast-opened-heart-washed-with-snow:
     label: Breast opened heart washed with snow
     cluster: infancy
@@ -715,6 +712,9 @@ new_motifs:
   treasure-of-chosroes-in-the-white-palace:
     label: Treasure of chosroes in the white palace
     cluster: prophecy
+  rider-from-sanaa-to-hadramawt-fears-only-god:
+    label: Rider from sanaa to hadramawt fears only god
+    cluster: martyrdom
   prophet-reclining-on-cloak-in-kabas-shade:
     label: Prophet reclining on cloak in kabas shade
     cluster: martyrdom
@@ -1068,7 +1068,7 @@ units:
     refs:
     - Jāmiʿ 48:5683.3
     - Jāmiʿ 48:5684.1
-    note: كان يأكل بثلاث أصابع، فإذا فرغ لعقها ... ويلعق يده قبل أن يمسحها
+    note: كان يأكل بثلاث أصابع، فإذا فرغ لعقها
   - motif: fallen-morsel-not-left-for-satan
     refs:
     - Jāmiʿ 48:5684.1
@@ -1407,7 +1407,6 @@ units:
   - motif: ring-stone-abyssinian
     refs:
     - Jāmiʿ 48:5697.2
-    - Jāmiʿ 48:5697.4
     note: 'وكان فصه حبشيًا. وفي رواية: كان فصه منه'
   - motif: ring-engraving-in-three-lines
     refs:
@@ -1586,8 +1585,8 @@ units:
     refs:
     - Jāmiʿ 48:5707.2
     - Jāmiʿ 48:5707.3
+    - Jāmiʿ 48:5707.4
     - Jāmiʿ 48:5708.1
-    - Jāmiʿ 48:5708.2
     - Jāmiʿ 48:5709.1
     note: نصرت بالرعب ... ولو كان بيني وبينهم مسيرة شهر لملئ منه رعبًا
   - motif: keys-of-earths-treasures-placed-in-hand
@@ -1602,33 +1601,33 @@ units:
   - motif: earth-made-mosque-and-means-of-purification
     refs:
     - Jāmiʿ 48:5707.3
+    - Jāmiʿ 48:5707.4
     - Jāmiʿ 48:5708.1
-    - Jāmiʿ 48:5708.2
     - Jāmiʿ 48:5709.1
     note: وجعلت لي الأرض مساجد وطهورًا، أينما أدركتني الصلاة تمسحت وصليت
   - motif: earlier-communities-prayed-only-in-churches-and-synagogues
     refs:
-    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5707.4
     note: إنما كانوا يصلون في كنائسهم وبيعهم
   - motif: earlier-communities-burned-the-spoils
     refs:
-    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5707.4
     note: وأحلت لي الغنائم آكلها، وكان من قبلي يعظمون أكلها، كانوا يحرقونها
   - motif: spoils-lawful-only-for-this-community
     refs:
+    - Jāmiʿ 48:5707.4
     - Jāmiʿ 48:5708.1
-    - Jāmiʿ 48:5708.2
     - Jāmiʿ 48:5709.1
     note: وأحلت لي الغنائم، ولم تحل لأحد قبلي
   - motif: sent-to-all-people-not-only-his-own
     refs:
+    - Jāmiʿ 48:5707.4
     - Jāmiʿ 48:5708.1
-    - Jāmiʿ 48:5708.2
     - Jāmiʿ 48:5709.1
     note: فأرسلت إلى الناس كلهم عامة، وكان من قبلي إنما يرسل إلى قومه؛ بعثت إلى الأحمر والأسود
   - motif: each-prophet-had-one-granted-request-his-kept-for-intercession
     refs:
-    - Jāmiʿ 48:5708.1
+    - Jāmiʿ 48:5707.4
     - Jāmiʿ 48:5709.1
     note: 'قيل لي: سل، فإن كل نبي قد سأل، فأخرت مسألتي إلى يوم القيامة؛ واختبأت دعوتي شفاعة لأمتي'
   - motif: his-community-made-best-of-nations
@@ -1713,7 +1712,7 @@ units:
     refs:
     - Jāmiʿ 48:5712.1
     - Jāmiʿ 48:5712.2
-    note: إني لأراكم من وراء ظهري ... إني والله لأبصر من ورائي كما أبصر من بين يدي
+    note: إني لأراكم من وراء ظهري
   - motif: you-see-my-qibla-here
     refs:
     - Jāmiʿ 48:5712.1
@@ -1862,7 +1861,7 @@ units:
   corpus: hadith
   original: true
   tagger: Claude Opus 5.5, reading the Arabic
-  title: The moon split in two over Mina, Hira between the halves; 'bear witness'; Quraysh call it sorcery and ask the travellers
+  title: The moon split in two, Hira between the halves; 'bear witness'; Quraysh call it sorcery and ask the travellers
   read:
   - Jāmiʿ 48:5718.3-5720.1
   quran:
@@ -1878,9 +1877,8 @@ units:
     note: انشق القمر على عهد رسول الله ﷺ شقين؛ انفلق القمر
   - motif: moon-halves-on-either-side-of-mountain
     refs:
-    - Jāmiʿ 48:5718.3
     - Jāmiʿ 48:5719.2
-    note: فكانت فلقة وراء الجبل، وفلقة دونه؛ فأراهم القمر شقتين، حتى رأوا حراء بينهما
+    note: فأراهم القمر شقتين، حتى رأوا حراء بينهما
   - motif: prophet-calls-bear-witness-at-sign
     refs:
     - Jāmiʿ 48:5718.3
@@ -2766,7 +2764,7 @@ units:
     note: 'يا بلال، قم فأذن: لا يدخل الجنة إلا مؤمن، وإن الله ليؤيد هذا الدين بالرجل الفاجر'
   hints:
   - Death by falling on one's own sword when wounded in battle (1 Sam 31:4-5, Saul and his armour-bearer) against the wounded fighter who sets the hilt in the ground and the point between his breasts.
-- id: hadith-48-the-poisoned-sheep
+- id: hadith-48-poisoned-sheep-and-the-days-in-the-fire
   tradition: islam
   corpus: hadith
   original: true
@@ -2870,8 +2868,7 @@ units:
   - motif: woman-travels-alone-fearing-only-god
     refs:
     - Jāmiʿ 48:5758.3
-    - Jāmiʿ 48:5759.2
-    note: لترين الظعينة ترتحل من الحيرة، حتى تطوف بالكعبة لا تخاف أحدا إلا الله؛ حتى يسير الراكب من صنعاء إلى حضرموت، لا يخاف إلا الله، أو الذئب على غنمه
+    note: لترين الظعينة ترتحل من الحيرة، حتى تطوف بالكعبة لا تخاف أحدا إلا الله
   - motif: none-will-accept-alms-of-gold
     refs:
     - Jāmiʿ 48:5758.3
@@ -2902,6 +2899,10 @@ units:
     refs:
     - Jāmiʿ 48:5759.2
     note: كان الرجل فيمن قبلكم يحفر له في الأرض، فيجعل فيه، فيجاء بالمنشار فيوضع على رأسه فيشق باثنتين، وما يصده ذلك عن دينه; ويمشط بأمشاط الحديد ما دون لحمه من عظم أو عصب
+  - motif: rider-from-sanaa-to-hadramawt-fears-only-god
+    refs:
+    - Jāmiʿ 48:5759.2
+    note: والله ليتمن هذا الأمر، حتى يسير الراكب من صنعاء إلى حضرموت، لا يخاف إلا الله، أو الذئب على غنمه
   - motif: prophet-reclining-on-cloak-in-kabas-shade
     refs:
     - Jāmiʿ 48:5759.2
@@ -3140,7 +3141,7 @@ units:
   corpus: hadith
   original: true
   tagger: Claude Opus 5.5, reading the Arabic
-  title: A fire from the Hijaz lighting the camels' necks at Busra; the mole on Ibn Busr's head - 'you will live a century'
+  title: A fire from the Hijaz lighting the camels' necks at Busra; the mole on Ibn Busr's head - 'you will reach a qarn'
   read:
   - Jāmiʿ 48:5767.1-5767.2
   quran: []

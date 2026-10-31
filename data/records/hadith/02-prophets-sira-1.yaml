@@ -1,0 +1,769 @@
+records:
+- id: h-4963.1-heavens
+  ref: Jāmiʿ 47:4963.1
+  unit: hadith-47-prophets-in-the-heavens-sharik
+  agent: the prophet
+  action: meets prophets in the heavens
+  place: [second heaven, fourth heaven, fifth heaven, sixth heaven, seventh heaven]
+  name: [Idris, Harun, Ibrahim, Musa]
+  quoted: wa-musa fi l-sabi'a bi-tafdil kalam allah
+  outcome: the prophet of the fifth heaven is not remembered
+- id: h-4963.2-purities
+  ref: Jāmiʿ 47:4963.2
+  unit: hadith-47-abraham-tested-with-purities
+  agent: God
+  action: tests Abraham with purity practices
+  recipient: Abraham
+  number: [5, 5]
+  object: [toothstick, nose-rinsing, mouth-rinsing, trimming the moustache, parting the hair, paring nails, shaving pubic hair, circumcision, washing after stool and urine, plucking the armpit]
+  quoted: 'ibtalahu llahu bi-l-tahara: khams fi l-ra''s wa-khams fi l-jasad'
+- {id: h-4963.3-gathered, ref: 'Jāmiʿ 47:4963.3', unit: hadith-47-first-clothed-at-resurrection, agent: all people, action: are gathered at the resurrection, time: resurrection day, quoted: hufatan ʿuratan
+    ghurlan, outcome: Abraham is the first clothed}
+- id: h-4963.3-left
+  ref: Jāmiʿ 47:4963.3
+  unit: hadith-47-first-clothed-at-resurrection
+  agent: the angels
+  action: take men of the prophet's companions to the left
+  recipient: the prophet
+  quoted: [ashabi, lam yazalu murtaddin ʿala aʿqabihim mundhu faraqtahum]
+  outcome: the prophet answers with Jesus' words (Q 5:117-118)
+- id: h-4964.1-picture
+  ref: Jāmiʿ 47:4964.1
+  unit: hadith-47-abraham-pictured-in-kaba
+  agent: the prophet
+  action: finds pictures inside the Ka'ba
+  place: the Ka'ba
+  object: [picture of Abraham, picture of Mary]
+  quoted: [al-mala'ika la tadkhulu baytan fihi sura, fa-ma lahu yastaqsim]
+- id: h-4964.2-refuge
+  ref: Jāmiʿ 47:4964.2
+  unit: hadith-47-abrahams-protective-formula
+  agent: Abraham
+  action: recites a protective formula over his sons
+  recipient: [Ishmael, Isaac]
+  quoted: aʿudhu bi-kalimat allah al-tamma min kulli shaytan wa-hamma wa-min kulli ʿayn lamma
+  outcome: the prophet uses it for Hasan and Husayn
+- id: h-4965.1-meadow
+  ref: Jāmiʿ 47:4965.1
+  unit: hadith-47-tall-abraham-in-the-meadow
+  agent: two visitors in a dream
+  action: show the prophet a tall man in a meadow among children
+  place: a dark-green meadow with every spring colour
+  name: Ibrahim
+  quoted: [rajul tawil la akadu ara ra'sahu, kull mawlud mata ʿala l-fitra]
+  outcome: the children of polytheists are included
+- {id: h-4965.2-palace, ref: 'Jāmiʿ 47:4965.2', unit: hadith-47-abrahams-palace, agent: God, action: prepares a palace in paradise, recipient: Abraham, object: palace of pearl without crack or weakness,
+  quoted: aʿaddahu llahu li-khalilihi ibrahim nuzulan}
+- {id: h-4967.1-girdle, ref: 'Jāmiʿ 47:4967.1', unit: hadith-47-hagar-ishmael-and-the-house, agent: Ishmael's mother, action: wears a girdle to hide her tracks, recipient: Sarah, object: girdle (mintaq),
+  quoted: li-tuʿaffi atharaha ʿala sara}
+- id: h-4967.1-left
+  ref: Jāmiʿ 47:4967.1
+  unit: hadith-47-hagar-ishmael-and-the-house
+  agent: Abraham
+  action: leaves mother and nursing child by the House
+  place: [by a great tree above Zamzam, 'Mecca, with no people and no water']
+  object: [bag of dates, skin of water]
+  quoted: [a-llahu amaraka bi-hadha, idhan la yudayyiʿuna]
+- {id: h-4967.1-prayer, ref: 'Jāmiʿ 47:4967.1', unit: hadith-47-hagar-ishmael-and-the-house, agent: Abraham, action: 'faces the House, raises his hands and prays', place: the pass (al-thaniyya) where they
+    cannot see him, quoted: rabbana inni askantu min dhurriyyati bi-wadin ghayri dhi zarʿ}
+- id: h-4967.1-run
+  ref: Jāmiʿ 47:4967.1
+  unit: hadith-47-hagar-ishmael-and-the-house
+  agent: Ishmael's mother
+  action: runs between two hills looking for anyone
+  place: [al-Safa, al-Marwa]
+  number: 7
+  quoted: fa-dhalika saʿyu l-nas baynahuma
+- id: h-4967.1-zamzam
+  ref: Jāmiʿ 47:4967.1
+  unit: hadith-47-hagar-ishmael-and-the-house
+  agent: the angel
+  action: digs with his heel (or wing) until water appears
+  place: site of Zamzam
+  quoted: [sah, qad asmaʿta in kana ʿindaka ghawath, law tarakat zamzam la-kanat ʿaynan maʿinan]
+  outcome: she scoops it into her skin; it would have been a flowing spring
+- {id: h-4967.1-angel, ref: 'Jāmiʿ 47:4967.1', unit: hadith-47-hagar-ishmael-and-the-house, agent: the angel, action: foretells the House, recipient: Ishmael's mother, quoted: ha huna bayt allah yabni hadha
+    l-ghulam wa-abuhu}
+- id: h-4967.1-bird
+  ref: Jāmiʿ 47:4967.1
+  unit: hadith-47-hagar-ishmael-and-the-house
+  agent: a company of Jurhum
+  action: see a circling bird and infer water
+  place: [road of Kada', lower Mecca]
+  instrument: a circling bird (ta'ir ʿa'if)
+  outcome: they settle with no right in the water
+  name: Jurhum
+- {id: h-4967.1-threshold1, ref: 'Jāmiʿ 47:4967.1', unit: hadith-47-hagar-ishmael-and-the-house, agent: Abraham, action: tells Ishmael's complaining wife to have him change his threshold, recipient: Ishmael's
+    first wife, quoted: yughayyir ʿatabat babihi, outcome: Ishmael divorces her}
+- id: h-4967.1-threshold2
+  ref: Jāmiʿ 47:4967.1
+  unit: hadith-47-hagar-ishmael-and-the-house
+  agent: Abraham
+  action: blesses meat and water and tells the content wife to have him keep his threshold
+  recipient: Ishmael's second wife
+  object: [meat, water]
+  quoted: [allahumma barik lahum fi l-lahm wa-l-ma', dhaka abi wa-anti l-ʿataba]
+  outcome: no grain then, or he would have blessed it
+- id: h-4967.1-build
+  ref: Jāmiʿ 47:4967.1
+  unit: hadith-47-hagar-ishmael-and-the-house
+  agent: [Abraham, Ishmael]
+  action: build the House on a raised mound
+  instrument: this stone, on which Abraham stands
+  quoted: rabbana taqabbal minna innaka anta l-samiʿ al-ʿalim
+  place: near Zamzam, under a great tree
+- {id: h-4969.1-arabic, ref: 'Jāmiʿ 47:4969.1', unit: hadith-47-ishmael-first-arabic, agent: God, action: opens Ishmael's tongue, recipient: Ishmael, quoted: awwalu man fataqa llahu lisanahu bi-l-ʿarabiyya
+    al-mubina}
+- {id: h-4971.1-archers, ref: 'Jāmiʿ 47:4971.1', unit: hadith-47-ishmael-the-archer, agent: the prophet, action: urges archers to shoot and joins both sides, recipient: men of Aslam, name: banu isma'il,
+  quoted: irmu bani ismaʿil fa-inna abakum kana raamiyan}
+- {id: h-4971.2-adra, ref: 'Jāmiʿ 47:4971.2', unit: hadith-47-ishmael-the-archer, agent: the prophet, action: 'joins one side, then all', recipient: Aslam, name: Ibn al-Adra', quoted: man kunta maʿahu ghalaba}
+- id: h-4971.3-satan
+  ref: Jāmiʿ 47:4971.3
+  unit: hadith-47-the-sacrifice-and-the-pillars
+  agent: Satan
+  action: bars Abraham's way at the rites
+  recipient: Abraham
+  place: [the course (al-mas'a), Jamrat al-'Aqaba, middle pillar, farthest pillar, Mina]
+  number: 7
+  instrument: seven pebbles
+  name: Jibril
+  outcome: Abraham outruns and pelts him until he goes
+- {id: h-4971.3-shirt, ref: 'Jāmiʿ 47:4971.3', unit: hadith-47-the-sacrifice-and-the-pillars, agent: Ishmael, action: asks his father to take off his white shirt to shroud him, recipient: Abraham, object: white
+    shirt, quoted: laysa li thawb tukaffinuni fihi ghayruhu}
+- id: h-4971.3-ram
+  ref: Jāmiʿ 47:4971.3
+  unit: hadith-47-the-sacrifice-and-the-pillars
+  agent: Abraham
+  action: is called from behind, turns and finds a ram
+  object: white, horned, wide-eyed ram
+  quoted: [fa-nudiya min khalfihi, kabsh abyad aqran aʿyan]
+  outcome: 'Ibn Abbas: we used to sell this kind of ram'
+- id: h-4973.1-noble
+  ref: Jāmiʿ 47:4973.1
+  unit: hadith-47-noblest-joseph
+  agent: the prophet
+  action: names Joseph by four generations
+  name: [Yusuf, Ya'qub, Ishaq, Ibrahim]
+  number: 4
+  quoted: al-karim ibn al-karim ibn al-karim ibn al-karim
+- id: h-4974.1-noblest
+  ref: Jāmiʿ 47:4974.1
+  unit: hadith-47-noblest-joseph
+  agent: the prophet
+  action: answers who is noblest
+  quoted: [atqahum li-llah, yusuf nabiyy allah ibn nabiyy allah ibn nabiyy allah ibn khalil allah, al-nas maʿadin]
+- id: h-4975.1-doubt
+  ref: Jāmiʿ 47:4975.1
+  unit: hadith-47-doubt-lot-and-joseph
+  agent: the prophet
+  action: compares himself with Abraham, Lot and Joseph
+  name: [Ibrahim, Lut, Yusuf]
+  quoted: [nahnu ahaqqu bi-l-shakk min ibrahim, ya'wi ila ruknin shadid, la-ajabtu l-daʿi]
+- {id: h-4976.3-jacob, ref: 'Jāmiʿ 47:4976.3', unit: hadith-47-aisha-and-jacobs-patience, agent: Aisha, action: likens herself to Joseph's father, name: Abu Yusuf, quoted: fa-sabrun jamil, outcome: 'Q 24:11-20
+    revealed'}
+- id: h-4977.2-women
+  ref: Jāmiʿ 47:4977.2
+  unit: hadith-47-women-of-joseph-and-years-of-joseph
+  agent: the dying prophet
+  action: insists Abu Bakr lead the prayer
+  recipient: [Aisha, his wives]
+  name: Abu Bakr
+  number: 3
+  quoted: [innahu rajul raqiq, innakunna sawahib yusuf]
+  outcome: Abu Bakr leads the prayer
+- id: h-4978.3-years
+  ref: Jāmiʿ 47:4978.3
+  unit: hadith-47-women-of-joseph-and-years-of-joseph
+  agent: the prophet
+  action: prays for captive Muslims and against Mudar
+  name: ['''Ayyash b. Abi Rabi''a', Salama b. Hisham, al-Walid b. al-Walid, Mudar]
+  quoted: ijʿalha sinina ka-sini yusuf
+- id: h-4978.4-third
+  ref: Jāmiʿ 47:4978.4
+  unit: hadith-47-joseph-in-third-heaven
+  agent: the prophet
+  action: meets Joseph
+  place: third heaven
+  name: [Jibril, Yusuf]
+  quoted: marhaban bika min akhin wa-nabiyy
+- {id: h-4979.1-beauty, ref: 'Jāmiʿ 47:4979.1', unit: hadith-47-joseph-in-third-heaven, agent: the prophet, action: sees Joseph on the night journey, name: Yusuf, quoted: qad uʿtiya shatr al-husn}
+- id: h-4979.2-locusts
+  ref: Jāmiʿ 47:4979.2
+  unit: hadith-47-job-and-the-golden-locusts
+  agent: God
+  action: lets golden locusts fall on bathing Job
+  recipient: Job
+  object: locusts of gold
+  quoted: [yaghtasilu ʿuryanan, la ghina li ʿan barakatika]
+  outcome: Job scoops them into his garment
+- id: h-4980.1-locusts
+  ref: Jāmiʿ 47:4980.1
+  unit: hadith-47-job-and-the-golden-locusts
+  agent: God
+  action: rains golden locusts on healed Job
+  recipient: Job
+  time: after his healing
+  quoted: [a-ma tashbaʿ, wa-man yashbaʿu min rahmatika]
+- {id: h-4981.2-jonah, ref: 'Jāmiʿ 47:4981.2', unit: hadith-47-not-better-than-jonah, agent: the prophet, action: forbids preferring oneself to Jonah, name: Yunus b. Matta, quoted: la yanbaghi li-ʿabd an
+    yaqul ana khayrun min yunus ibn matta}
+- id: h-4982.5-jonah
+  ref: Jāmiʿ 47:4982.5
+  unit: hadith-47-prophets-passing-in-pilgrimage
+  agent: Jonah
+  action: passes calling the talbiya
+  place: [Wadi al-Azraq, pass of Harsha (or Lift)]
+  instrument: [red she-camel, woollen jubba, halter of palm fibre]
+  name: Yunus b. Matta
+  quoted: ka'anni anzuru ila yunus ibn matta
+- {id: h-4986.1-moses, ref: 'Jāmiʿ 47:4986.1', unit: hadith-47-prophets-passing-in-pilgrimage, agent: Moses, action: 'descends the pass calling the talbiya, fingers in his ears', place: Wadi al-Azraq, quoted: lahu
+    ju'ar ila llah bi-l-talbiya}
+- {id: h-4985.1-moses, ref: 'Jāmiʿ 47:4985.1', unit: hadith-47-prophets-passing-in-pilgrimage, agent: Moses, action: descends into the valley calling the talbiya, instrument: red camel with a palm-fibre
+    halter, quoted: rajul adam jaʿd}
+- {id: h-4984.1-moses, ref: 'Jāmiʿ 47:4984.1', unit: hadith-47-appearance-of-moses, agent: the prophet, action: describes Moses, name: Shanu'a, quoted: ka'annahu min rijal shanu'a}
+- id: h-4985.2-zutt
+  ref: Jāmiʿ 47:4985.2
+  unit: hadith-47-appearance-of-moses
+  agent: the prophet
+  action: describes Jesus and Moses
+  name: ['''Isa', Musa, al-Zutt]
+  quoted: [fa-amma ʿisa fa-ahmar jaʿd ʿarid al-sadr, wa-amma musa fa-adam jasim sabt ka'annahu min rijal al-zutt]
+- id: h-4986.3-stone
+  ref: Jāmiʿ 47:4986.3
+  unit: hadith-47-moses-stone-and-garment
+  agent: a stone
+  action: runs off with Moses' garment
+  recipient: Moses
+  object: garment
+  quoted: [thawbi hajar, innahu adar]
+  outcome: Israel sees him unblemished; he beats the stone
+- id: h-4986.3-marks
+  ref: Jāmiʿ 47:4986.3
+  unit: hadith-47-moses-stone-and-garment
+  agent: Moses
+  action: beats the stone
+  object: the stone
+  number: [6, 7]
+  quoted: innahu bi-l-hajar nadab sitta aw sabʿa
+- id: h-4987.1-staff
+  ref: Jāmiʿ 47:4987.1
+  unit: hadith-47-moses-stone-and-garment
+  agent: Moses
+  action: chases the stone and beats it with his staff
+  instrument: staff
+  number: [3, 4, 5]
+  quoted: [imma baras wa-imma udra wa-imma afa, ahsan ma khalaqa llah]
+  outcome: Q 33:69
+- {id: h-4989.1-term, ref: 'Jāmiʿ 47:4989.1', unit: hadith-47-moses-served-longer-term, agent: a Jew of al-Hira, action: asks which term Moses served, recipient: 'Sa''id b. Jubayr, then Ibn Abbas', name: hibr
+    al-'arab, quoted: qada aktharahuma wa-atyabahuma}
+- id: h-4990.2-ashura
+  ref: Jāmiʿ 47:4990.2
+  unit: hadith-47-ashura
+  agent: the Jews of Medina
+  action: fast a day
+  time: '''Ashura'
+  object: the day God saved Moses and drowned Pharaoh's people
+  quoted: [fa-sama musa shukran li-llah, ana awla bi-musa minhum]
+  outcome: the prophet fasts and commands it
+- {id: h-4991.1-throne, ref: 'Jāmiʿ 47:4991.1', unit: hadith-47-moses-and-the-swoon, agent: Moses, action: holds a leg of the Throne, time: 'resurrection day, after the swoon', instrument: a leg (qa'ima)
+    of the Throne, quoted: am juziya bi-saʿqat al-tur}
+- id: h-4991.3-mountain
+  ref: Jāmiʿ 47:4991.3
+  unit: hadith-47-moses-and-the-swoon
+  agent: the prophet
+  action: shows with his thumb on a fingertip how much was manifested
+  object: the mountain
+  quoted: [fa-sakha l-jabal, wa-kharra musa saʿiqan]
+- id: h-4991.4-hunayn
+  ref: Jāmiʿ 47:4991.4
+  unit: hadith-47-moses-hurt-and-patient
+  agent: the prophet
+  action: favours chiefs in dividing the booty
+  time: day of Hunayn
+  number: 100
+  name: [al-Aqra' b. Habis, '''Uyayna']
+  quoted: yarhamu llahu musa qad udhiya bi-akthara min hadha fa-sabar
+- id: h-4992.1-lowest
+  ref: Jāmiʿ 47:4992.1
+  unit: hadith-47-what-moses-asked-his-lord
+  agent: Moses
+  action: asks the lowest and highest rank in paradise
+  recipient: God
+  number: [5, 10]
+  quoted: [mithla mulki malikin min muluk al-dunya, gharastu karamatahum bi-yadi wa-khatamtu ʿalayha]
+- id: h-4992.2-seven
+  ref: Jāmiʿ 47:4992.2
+  unit: hadith-47-what-moses-asked-his-lord
+  agent: Moses
+  action: asks God about his servants
+  recipient: God
+  number: 7
+  quoted: [alladhi yadhkuru wa-la yansa, alladhi idha qadara ghafara, sahib manqus]
+- {id: h-4994.1-slap, ref: 'Jāmiʿ 47:4994.1', unit: hadith-47-death-of-moses, agent: Moses, action: strikes the angel of death, recipient: the angel of death, quoted: arsaltani ila ʿabdin la yuridu l-mawt,
+  outcome: 'offered a year per hair under his hand on an ox, he chooses death now'}
+- id: h-4994.2-eye
+  ref: Jāmiʿ 47:4994.2
+  unit: hadith-47-death-of-moses
+  agent: Moses
+  action: slaps out the angel's eye
+  recipient: the angel of death
+  instrument: his hand
+  quoted: [fa-faqa'aha, fa-radda llahu ilayhi ʿaynahu, ammitni min al-ard al-muqaddasa ramyatan bi-hajar]
+  place: beside the road at the red sandhill
+  outcome: God restores the eye
+- {id: h-4995.1-grave, ref: 'Jāmiʿ 47:4995.1', unit: hadith-47-moses-praying-in-grave, agent: Moses, action: stands praying in his grave, place: the red sandhill, time: the night journey, quoted: wa-huwa
+    qa'im yusalli fi qabrihi}
+- {id: h-4995.2-weeps, ref: 'Jāmiʿ 47:4995.2', unit: hadith-47-moses-in-sixth-heaven, agent: Moses, action: weeps after the prophet passes, place: sixth heaven, quoted: hadha l-ghulam alladhi buʿitha baʿdi}
+- id: h-4996.2-nations
+  ref: Jāmiʿ 47:4996.2
+  unit: hadith-47-the-communities-shown
+  agent: God
+  action: shows the prophet the communities
+  recipient: the prophet
+  number: 70000
+  name: [Musa, '''Ukkasha b. Mihsan']
+  quoted: [hadha musa wa-qawmuh, la yarquna wa-la yastarquna wa-la yatatayyarun, sabaqaka biha ʿukkasha]
+- id: h-4998.1-fast
+  ref: Jāmiʿ 47:4998.1
+  unit: hadith-47-davids-fast
+  agent: the prophet
+  action: limits 'Abd Allah b. 'Amr's fasting
+  recipient: '''Abd Allah b. ''Amr'
+  number: [3, 5, 7, 9, 11]
+  instrument: leather cushion stuffed with palm fibre
+  quoted: la sawma fawqa sawm dawud shatr al-dahr sum yawman wa-aftir yawman
+- {id: h-4999.1-saddle, ref: 'Jāmiʿ 47:4999.1', unit: hadith-47-davids-recitation-and-handiwork, agent: David, action: recites the scripture while his mounts are saddled, object: his mounts, quoted: fa-yaqra'u
+    l-qur'an qabla an tusraja dawabbuhu}
+- {id: h-5000.1-sad, ref: 'Jāmiʿ 47:5000.1', unit: hadith-47-prostration-of-sad, agent: David, action: prostrates, outcome: the prophet prostrates at Sura Sad, quoted: fa-bi-hudahumu qtadih}
+- {id: h-5000.2-hand, ref: 'Jāmiʿ 47:5000.2', unit: hadith-47-davids-recitation-and-handiwork, agent: David, action: eats from his own work, quoted: kana ya'kulu min ʿamal yadihi}
+- id: h-5001.1-torah
+  ref: Jāmiʿ 47:5001.1
+  unit: hadith-47-davids-plea-in-the-torah
+  agent: Ka'b
+  action: swears he finds David's plea in the Torah
+  name: [Ka'b, Suhayb, Dawud]
+  quoted: [bi-llah alladhi falaqa l-bahr li-musa, aʿudhu bika minka]
+  time: on leaving prayer
+- {id: h-5001.2-flute, ref: 'Jāmiʿ 47:5001.2', unit: hadith-47-flute-of-david, agent: the prophet, action: praises a reciter's voice, recipient: Abu Musa al-Ash'ari, instrument: flute (mizmar), quoted: mizmaran
+    min mazamir al dawud}
+- id: h-5001.3-years
+  ref: Jāmiʿ 47:5001.3
+  unit: hadith-47-adam-gives-david-forty-years
+  agent: Adam
+  action: gives forty years of his life to David
+  recipient: David
+  number: [60, 40]
+  quoted: [wabisan min nur, zidhu min ʿumri arbaʿina sana, fa-jahada adam fa-jahadat dhurriyyatuhu]
+  outcome: Adam denies it when the angel of death comes
+- {id: h-5003.1-ifrit, ref: 'Jāmiʿ 47:5003.1', unit: hadith-47-solomons-prayer-binds-the-jinn, agent: the prophet, action: seizes a demon and refrains from tying it to a pillar, recipient: an 'ifrit of
+    the jinn, instrument: a pillar of the mosque, quoted: fa-dhaʿattuhu, outcome: remembering Solomon's prayer he lets it go}
+- id: h-5003.2-iblis
+  ref: Jāmiʿ 47:5003.2
+  unit: hadith-47-solomons-prayer-binds-the-jinn
+  agent: Iblis
+  action: comes with a firebrand to put in the prophet's face
+  instrument: a firebrand (shihab) of fire
+  number: 3
+  quoted: [aʿudhu bi-llah minka, alʿanuka bi-laʿnat allah al-tamma, la-asbaha muwthaqan yalʿabu bihi wildan ahl al-madina]
+- {id: h-5004.1-wives, ref: 'Jāmiʿ 47:5004.1', unit: hadith-47-solomons-oath-and-wives, agent: Solomon, action: swears to go round his wives in one night, number: 90, object: a horseman from each woman,
+  quoted: fa-lam yaqul in sha'a llah, outcome: one bears half a man}
+- {id: h-5004.2-wives, ref: 'Jāmiʿ 47:5004.2', unit: hadith-47-solomons-oath-and-wives, agent: Solomon, action: swears to go round his wives in one night, number: 70, outcome: one bears a child missing
+    one side}
+- {id: h-5004.3-wives, ref: 'Jāmiʿ 47:5004.3', unit: hadith-47-solomons-oath-and-wives, agent: Solomon, action: swears to go round his wives in one night, number: 100, object: a man who strikes with the
+    sword from each, outcome: one bears half a child}
+- id: h-5005.1-angel
+  ref: Jāmiʿ 47:5005.1
+  unit: hadith-47-solomons-oath-and-wives
+  agent: the angel
+  action: tells Solomon to say 'if God wills'
+  recipient: Solomon
+  number: 100
+  quoted: [fa-qala lahu l-malak qul in sha'a llah, lam yahnath]
+  outcome: he forgets; one bears half a human
+- {id: h-5006.1-sixty, ref: 'Jāmiʿ 47:5006.1', unit: hadith-47-solomons-oath-and-wives, agent: Solomon, action: has sixty wives and swears each will bear a horseman, number: 60, outcome: one bears half
+    a boy}
+- id: h-5006.2-knife
+  ref: Jāmiʿ 47:5006.2
+  unit: hadith-47-solomons-judgment
+  agent: Solomon
+  action: calls for a knife to split the child
+  recipient: [the elder woman, the younger woman]
+  instrument: knife (sikkin)
+  quoted: [ja'a l-dhi'b fa-dhahaba bi-bni ihdahuma, ishuqquhu baynakuma, huwa bnuha]
+  outcome: David had given him to the elder; Solomon gives him to the younger
+- {id: h-5007.1-temple, ref: 'Jāmiʿ 47:5007.1', unit: hadith-47-solomons-three-requests, agent: Solomon, action: asks three things on building the temple, place: Bayt al-Maqdis, number: 3, quoted: an yukhrijahu
+    min khati'atihi ka-yawm waladathu ummuhu}
+- {id: h-5007.2-ant, ref: 'Jāmiʿ 47:5007.2', unit: hadith-47-solomons-three-requests, agent: a prophet, action: goes out to pray for rain, object: an ant lifting some of its legs, quoted: irjiʿu fa-qad
+    ustujiba lakum min ajl hadhihi l-namla}
+- {id: h-5010.1-carpenter, ref: 'Jāmiʿ 47:5010.1', unit: hadith-47-zechariah-carpenter, agent: Zechariah, action: works as a carpenter, quoted: kana zakariyya najjaran}
+- id: h-5010.3-cousins
+  ref: Jāmiʿ 47:5010.3
+  unit: hadith-47-john-and-jesus-cousins
+  agent: the prophet
+  action: meets Jesus and John
+  place: second heaven
+  name: ['''Isa b. Maryam', Yahya b. Zakariyya]
+  quoted: ibnay al-khala
+- id: h-5011.2-five
+  ref: Jāmiʿ 47:5011.2
+  unit: hadith-47-johns-five-words
+  agent: John son of Zechariah
+  action: gathers Israel and teaches five commands
+  place: the temple in Jerusalem (bayt al-maqdis)
+  number: 5
+  name: '''Isa'
+  quoted: [akhsha in sabaqtani biha an yukhsafa bi, inna llah yansibu wajhahu li-wajh ʿabdihi, rih al-sa'im atyab ʿinda llah min rih al-misk]
+  object: [worship without associating, prayer without turning, fasting, charity, remembrance]
+- {id: h-5012.1-sinless, ref: 'Jāmiʿ 47:5012.1', unit: hadith-47-john-never-sinned, agent: John son of Zechariah, action: never intended a sin, quoted: ma hamma bi-khati'a}
+- {id: h-5014.1-touch, ref: 'Jāmiʿ 47:5014.1', unit: hadith-47-mary-and-son-untouched, agent: Satan, action: touches every newborn, time: at birth, quoted: fa-yastahillu sarikhan min mass al-shaytan ghayra
+    maryam wa-bniha, outcome: the newborn cries out}
+- id: h-5014.2-thief
+  ref: Jāmiʿ 47:5014.2
+  unit: hadith-47-jesus-and-the-thief
+  agent: Jesus
+  action: believes a thief's oath over his own eye
+  recipient: a man stealing
+  quoted: [kalla wa-llahi lladhi la ilaha illa huwa, amantu bi-llah wa-kadhdhabtu ʿayni]
+- {id: h-5015.4-brothers, ref: 'Jāmiʿ 47:5015.4', unit: hadith-47-nearest-to-jesus, agent: the prophet, action: claims nearness to Jesus, quoted: al-anbiya' ikhwa min ʿallat wa-ummahatuhum shatta wa-dinuhum
+    wahid}
+- id: h-5016.4-tawaf
+  ref: Jāmiʿ 47:5016.4
+  unit: hadith-47-appearance-of-jesus
+  agent: the Messiah son of Mary
+  action: circles the Ka'ba leaning on two men
+  place: the Ka'ba
+  quoted: [lahu limma ... qad rajjalaha fa-hiya taqturu ma'an, mutakki'an ʿala rajulayn]
+- id: h-5017.2-double
+  ref: Jāmiʿ 47:5017.2
+  unit: hadith-47-double-reward
+  agent: the prophet
+  action: names those who get two rewards
+  number: [3, 2]
+  quoted: idha amana bi-ʿisa thumma amana bi fa-lahu ajran
+- {id: h-5019.1-ants, ref: 'Jāmiʿ 47:5019.1', unit: hadith-47-prophet-burns-the-ant-nest, agent: a prophet, action: has the ant village burned, object: a village of ants, quoted: an qarasatka namla ahraqta
+    umma min al-umam tusabbih, outcome: God reproaches him}
+- {id: h-5019.2-ants, ref: 'Jāmiʿ 47:5019.2', unit: hadith-47-prophet-burns-the-ant-nest, agent: a prophet, action: has his gear moved and the ant nest burned, place: under a tree, quoted: fa-halla namla
+    wahida}
+- id: h-5019.3-exempt
+  ref: Jāmiʿ 47:5019.3
+  unit: hadith-47-sun-held-for-a-prophet
+  agent: a prophet
+  action: forbids three men to follow him to war
+  number: 3
+  object: [a man married not yet consummated, a builder whose roof is not raised, a buyer of pregnant ewes or camels awaiting births]
+- {id: h-5019.3-sun, ref: 'Jāmiʿ 47:5019.3', unit: hadith-47-sun-held-for-a-prophet, agent: a prophet, action: asks the sun to be held back, object: the sun, time: near the afternoon prayer, quoted: anti
+    ma'mura wa-ana ma'mur, outcome: it is held until God gives him the town}
+- id: h-5019.3-fire
+  ref: Jāmiʿ 47:5019.3
+  unit: hadith-47-sun-held-for-a-prophet
+  agent: fire
+  action: refuses the gathered spoils until the theft is returned
+  object: spoils
+  instrument: hands sticking at the pledge, tribe by tribe
+  number: [1, 2, 3]
+  quoted: [fikum ghulul, mithla ra's baqara min dhahab]
+  outcome: the fire consumes all; spoils were lawful to none before us
+- {id: h-5020.1-forgive, ref: 'Jāmiʿ 47:5020.1', unit: hadith-47-forgive-my-people, agent: a prophet, action: wipes blood from his face and prays for his people, recipient: his people who beat him, quoted: allahumma
+    ghfir li-qawmi fa-innahum la yaʿlamun}
+- id: h-5020.2-choice
+  ref: Jāmiʿ 47:5020.2
+  unit: hadith-47-prophet-proud-of-numbers
+  agent: God
+  action: offers a proud prophet's people three punishments
+  object: [an enemy, hunger, death]
+  number: [3, 70000]
+  time: in one night
+  quoted: [lan yaruma ha'ula'i ahad bi-shay', fa-ammal-juʿ wa-l-ʿaduww fa-la taqata lana biha]
+  outcome: they choose death; seventy thousand die
+- id: h-5026.1-stone
+  ref: Jāmiʿ 48:5026.1
+  unit: hadith-48-jahiliyya-stone-worship
+  agent: Abu Raja' and his people
+  action: worship a stone, or a heap of earth milked on and circled
+  object: [stone, heap of earth, ewe's milk]
+  time: month of Rajab
+  quoted: [munsil al-asinna, farrarna ila l-nar ila musaylima]
+- {id: h-5027.1-luhayy, ref: 'Jāmiʿ 48:5027.1', unit: hadith-48-amr-b-luhayy, agent: '''Amr b. Luhayy', action: drags his entrails, place: the Fire, quoted: yajurru qusbahu fi l-nar}
+- id: h-5028.1-chosen
+  ref: Jāmiʿ 48:5028.1
+  unit: hadith-48-lineage
+  agent: God
+  action: chooses tribe within tribe
+  name: [Isma'il, Kinana, Quraysh, Banu Hashim]
+  quoted: wa-stafani min bani hashim
+- {id: h-5029.1-monday, ref: 'Jāmiʿ 48:5029.1', unit: hadith-48-birth-year-and-day, agent: the prophet, action: explains the Monday fast, time: Monday, quoted: dhaka yawmun wulidtu fihi wa-unzila ʿalayya
+    fihi}
+- {id: h-5030.1-elephant, ref: 'Jāmiʿ 48:5030.1', unit: hadith-48-birth-year-and-day, agent: Qays b. Makhrama, action: is born the same year as the prophet, time: the Year of the Elephant, quoted: fa-nahnu
+    lidan}
+- id: h-5031.2-clay
+  ref: Jāmiʿ 48:5031.2
+  unit: hadith-48-signs-at-the-birth
+  agent: the prophet
+  action: declares he was seal of the prophets before Adam's creation
+  name: [Ibrahim, '''Isa']
+  quoted: [inni ʿinda llah la-khatam al-nabiyyin wa-inna adam la-munjadil fi tinatihi, wa-kadhalika ummahat al-nabiyyin yarayna]
+- {id: h-5032.1-light, ref: 'Jāmiʿ 48:5032.1', unit: hadith-48-signs-at-the-birth, agent: the prophet's mother, action: sees a light come out of her when pregnant, place: Busra in Syria, quoted: kharaja
+    minha nur ada'at lahu busra}
+- id: h-5033.1-jew
+  ref: Jāmiʿ 48:5033.1
+  unit: hadith-48-jew-of-mecca-at-the-birth
+  agent: a Jewish trader at Mecca
+  action: announces the birth and examines the child
+  recipient: men of Quraysh
+  time: the night of the birth
+  object: a mark of hairs between the shoulders like a horse's mane
+  number: 2
+  quoted: [dhahabat wa-llahi l-nubuwwa min bani isra'il, adkhala usbuʿahu fi famihi]
+  name: [Amina, Hisham and al-Walid sons of al-Mughira, '''Utba b. Rabi''a']
+  outcome: he faints
+- id: h-5035.2-milk
+  ref: Jāmiʿ 48:5035.2
+  unit: hadith-48-wet-nurses
+  agent: the prophet
+  action: declines to marry Hamza's daughter
+  name: [Thuwayba, Hamza]
+  quoted: innaha bnatu akhi min al-radaʿa
+- id: h-5035.3-chest
+  ref: Jāmiʿ 48:5035.3
+  unit: hadith-48-the-opening-of-the-chest
+  agent: two men in white
+  action: split the child's belly, remove a black clot and wash heart and belly
+  recipient: the prophet as a child
+  place: among the Banu Sa'd b. Bakr, with the lambs
+  instrument: gold basin full of snow
+  number: [10, 100, 1000]
+  quoted: fa-law wazantaha bi-ummatihi la-wazanahum
+- id: h-5037.1-chest
+  ref: Jāmiʿ 48:5037.1
+  unit: hadith-48-the-opening-of-the-chest
+  agent: Gabriel
+  action: splits the boy's chest and removes a clot
+  instrument: gold basin of Zamzam water
+  quoted: [hadha hazz al-shaytan minka, kuntu ara athara dhalika l-mikhyat fi sadrihi]
+  outcome: the boys run to his nurse saying he is killed
+- id: h-5037.2-birds
+  ref: Jāmiʿ 48:5037.2
+  unit: hadith-48-the-opening-of-the-chest
+  agent: two white birds like vultures
+  action: split the boy and wash his heart with snow and hail water
+  instrument: [ice water, hail water, sakina, seal of prophethood, a balance]
+  number: [2, 1000]
+  quoted: [a-huwa huwa, khatama ʿalayhi bi-khatam al-nubuwwa]
+  outcome: the nurse returns him to his mother
+- {id: h-5038.1-roof, ref: 'Jāmiʿ 48:5038.1', unit: hadith-48-the-opening-of-the-chest, agent: Gabriel, action: 'splits the prophet''s chest, washes it and fills it', place: 'his house at Mecca, the roof
+    opened', instrument: gold basin full of wisdom and faith, quoted: furija ʿan saqfi bayti}
+- id: h-5039.1-names
+  ref: Jāmiʿ 48:5039.1
+  unit: hadith-48-names-and-kunya
+  agent: the prophet
+  action: lists his names
+  number: 5
+  name: [Muhammad, Ahmad, al-Mahi, al-Hashir, al-'Aqib]
+  quoted: al-hashir alladhi yuhsharu l-nas ʿala qadami
+- id: h-5040.1-mudhammam
+  ref: Jāmiʿ 48:5040.1
+  unit: hadith-48-names-and-kunya
+  agent: Quraysh
+  action: curse 'Mudhammam'
+  name: [Mudhammam, Muhammad]
+  quoted: yashtimuna mudhammaman ... wa-ana muhammad
+- id: h-5041.1-qasim
+  ref: Jāmiʿ 48:5041.1
+  unit: hadith-48-names-and-kunya
+  agent: the prophet
+  action: forbids using his kunya
+  name: [al-Qasim, Abu l-Qasim]
+  quoted: fa-innama ana qasim
+- {id: h-5041.3-father, ref: 'Jāmiʿ 48:5041.3', unit: hadith-48-the-prophets-parents, agent: the prophet, action: tells a man his father is in the Fire, quoted: inna abi wa-abaka fi l-nar}
+- {id: h-5042.2-grave, ref: 'Jāmiʿ 48:5042.2', unit: hadith-48-the-prophets-parents, agent: the prophet, action: weeps at his mother's grave, time: after the conquest of Mecca, name: '''Umar', quoted: sa'altu
+    rabbi l-ziyara fa-adhina li wa-sa'altuhu l-istighfar fa-lam ya'dhan li}
+- id: h-5043.1-ummayman
+  ref: Jāmiʿ 48:5043.1
+  unit: hadith-48-umm-ayman
+  agent: Umm Ayman
+  action: nurses the prophet, is freed and married to Zayd
+  name: [Umm Ayman, Zayd b. Haritha, '''Abd Allah b. ''Abd al-Muttalib']
+  place: Abyssinia (her origin)
+  time: died five months after the prophet
+- id: h-5047.1-izar
+  ref: Jāmiʿ 48:5047.1
+  unit: hadith-48-nakedness-at-the-kaba-building
+  agent: the prophet as a youth
+  action: puts his loincloth on his neck to carry stones and falls
+  place: the Ka'ba being built
+  name: '''Abbas'
+  quoted: [fa-kharra ila l-ard wa-tamahat ʿaynahu ila l-sama', izari]
+- id: h-5047.2-monk
+  ref: Jāmiʿ 48:5047.2
+  unit: hadith-48-the-monk-on-the-road-to-syria
+  agent: the monk
+  action: takes the boy's hand and recognizes him
+  place: on the way to Syria
+  name: [Abu Talib, Abu Bakr, Bilal]
+  instrument: [cloud, tree's shade, seal below the shoulder cartilage like an apple]
+  number: 7
+  quoted: [hadha sayyid al-ʿalamin, la yasjudani illa li-nabiyy]
+  outcome: the boy is sent back with bread-rings and oil
+- {id: h-5050.1-sheep, ref: 'Jāmiʿ 48:5050.1', unit: hadith-48-shepherding, agent: every prophet, action: herded sheep, place: Mecca, object: sheep, quoted: kuntu arʿaha ʿala qararit li-ahl makka}
+- {id: h-5051.1-pact, ref: 'Jāmiʿ 48:5051.1', unit: hadith-48-pacts-of-quraysh, agent: the prophet, action: attends a pact with his uncles, name: hilf al-mutayyabin, quoted: fa-ma uhibbu anna li humr al-naʿam}
+- {id: h-5053.1-jurash, ref: 'Jāmiʿ 48:5053.1', unit: hadith-48-hired-by-khadija, agent: Khadija, action: hires the prophet for two journeys, place: Jurash, number: 2, object: a young she-camel each journey}
+- id: h-5057.1-stone
+  ref: Jāmiʿ 48:5057.1
+  unit: hadith-48-the-black-stone-and-the-rebuilt-kaba
+  agent: Mujahid's master
+  action: worships a stone he carved and pours milk on it
+  object: carved stone
+  quoted: [fa-yaji'u l-kalb fa-yalhasuhu thumma yashghuru fa-yabul, atakum al-amin]
+- {id: h-5058.1-mirt, ref: 'Jāmiʿ 48:5058.1', unit: hadith-48-the-black-stone-and-the-rebuilt-kaba, agent: the prophet, action: judges the clans' dispute over the Black Stone, instrument: a woollen wrap
+    (mirt), name: al-amin, outcome: all clans lift it and he sets it in place}
+- id: h-5058.2-snake
+  ref: Jāmiʿ 48:5058.2
+  unit: hadith-48-the-black-stone-and-the-rebuilt-kaba
+  agent: a great bird
+  action: seizes the snake guarding the Ka'ba wall
+  object: black-backed white-bellied snake
+  place: [the Ka'ba, toward Ajyad]
+  number: 20
+  quoted: [fa-samiʿu khuwaran fi l-sama', ya muhammad khammir ʿawrataka]
+  outcome: Quraysh rebuild with timber of a wrecked Roman ship
+- {id: h-5059.1-idols, ref: 'Jāmiʿ 48:5059.1', unit: hadith-48-before-the-call, agent: the prophet, action: forbids Zayd to touch the idols, recipient: Zayd b. Haritha, place: circling the Ka'ba, quoted: a-lam
+    tunha ʿan hadha}
+- id: h-5060.1-lat
+  ref: Jāmiʿ 48:5060.1
+  unit: hadith-48-before-the-call
+  agent: the prophet
+  action: swears never to worship al-Lat or al-'Uzza
+  recipient: Khadija
+  name: [al-Lat, al-'Uzza]
+  quoted: khalli l-lat khalli l-ʿuzza
+- {id: h-5060.2-arafat, ref: 'Jāmiʿ 48:5060.2', unit: hadith-48-before-the-call, agent: the prophet, action: stands at 'Arafat with the people, place: '''Arafat', time: before revelation, instrument: his
+    camel, quoted: tawfiqan min allah lahu}
+- {id: h-5061.1-hums, ref: 'Jāmiʿ 48:5061.1', unit: hadith-48-the-hums, agent: Quraysh (the Hums), action: stand at Muzdalifa instead of 'Arafat, place: Muzdalifa, time: eve of 'Arafa, quoted: nahnu qutun
+    al-bayt, outcome: 'Q 2:199 revealed'}
+- id: h-5061.2-naked
+  ref: Jāmiʿ 48:5061.2
+  unit: hadith-48-the-hums
+  agent: a woman
+  action: circles the House naked chanting
+  place: the House
+  quoted: [man yuʿiruni titwafan, al-yawm yabdu baʿduhu aw kulluhu fa-ma bada minhu fa-la uhilluhu]
+  outcome: Q 7:31 revealed
+- {id: h-5062.1-jinniya, ref: 'Jāmiʿ 48:5062.1', unit: hadith-48-the-diviners-jinni, agent: a diviner's female jinni, action: comes in fear with news of the jinn's despair, place: the market, quoted: a-lam
+    tara l-jinn wa-iblasaha, name: '''Umar'}
+- {id: h-5062.1-calf, ref: 'Jāmiʿ 48:5062.1', unit: hadith-48-the-diviners-jinni, agent: a voice, action: cries out from a slaughtered calf, place: before the idols, object: a calf, quoted: ya jalih amrun
+    najih rajulun fasih yaqulu la ilaha illa llah, outcome: 'soon after: ''this is a prophet'''}
+- id: h-5063.1-jew
+  ref: Jāmiʿ 48:5063.1
+  unit: hadith-48-jews-of-medina-and-the-coming-prophet
+  agent: a Jewish neighbour
+  action: foretells resurrection, scales and a prophet from the south
+  recipient: Banu 'Abd al-Ashhal
+  place: toward Mecca and Yemen
+  quoted: [aʿzam tannur fi l-dunya, bala wa-laysa bihi]
+  outcome: he disbelieves when the prophet comes
+- {id: h-5066.2-stone, ref: 'Jāmiʿ 48:5066.2', unit: hadith-48-best-generations-and-the-greeting-stone, agent: a stone in Mecca, action: greets the prophet before his mission, place: Mecca, quoted: inni
+    la-aʿrifuhu l-an}
+- id: h-5067.1-hira
+  ref: Jāmiʿ 48:5067.1
+  unit: hadith-48-hira-and-the-first-revelation
+  agent: the prophet
+  action: spends a month in retreat yearly, feeds the poor, then circles the Ka'ba
+  place: [Hira, the Ka'ba]
+  number: 7
+  time: one month each year
+  quoted: wa-kana dhalika mimma tahannatha bihi quraysh fi l-jahiliyya
+- id: h-5070.2-iqra
+  ref: Jāmiʿ 48:5070.2
+  unit: hadith-48-hira-and-the-first-revelation
+  agent: the angel
+  action: presses the prophet three times and has him recite
+  place: the cave of Hira
+  number: 3
+  quoted: [ma ana bi-qari', hadha l-namus alladhi unzila ʿala musa]
+  name: Waraqa b. Nawfal
+  outcome: Q 96:1-3
+- id: h-5067.2-zayd
+  ref: Jāmiʿ 48:5067.2
+  unit: hadith-48-zayd-b-amr
+  agent: Zayd b. 'Amr b. Nufayl
+  action: asks a Jewish and a Christian scholar about their religion
+  place: Syria
+  quoted: [bi-nasibika min ghadab allah, min laʿnat allah, ashhadu anni ʿala din ibrahim]
+  outcome: raises his hands and declares Abraham's religion
+- {id: h-5068.1-ansab, ref: 'Jāmiʿ 48:5068.1', unit: hadith-48-zayd-b-amr, agent: Zayd b. 'Amr, action: refuses meat slaughtered on altar-stones, place: lower Baldah, quoted: al-shatu khalaqaha llah wa-anzala
+    laha min al-sama' al-ma'}
+- id: h-5069.1-forty
+  ref: Jāmiʿ 48:5069.1
+  unit: hadith-48-sent-at-forty
+  agent: the prophet
+  action: is sent, stays, emigrates and dies
+  number: [40, 13, 10, 63]
+- {id: h-5072.1-kursi, ref: 'Jāmiʿ 48:5072.1', unit: hadith-48-the-muddaththir, agent: the angel of Hira, action: sits on a chair between heaven and earth, place: between heaven and earth, quoted: fa-ju'ithtu
+    minhu ruʿban, outcome: 'Q 74:1-5'}
+- {id: h-5072.2-duha, ref: 'Jāmiʿ 48:5072.2', unit: hadith-48-your-devil-has-left-you, agent: a woman, action: taunts the prophet, time: after two or three nights, quoted: inni la-arju an yakuna shaytanuka
+    qad tarakaka, outcome: 'Q 93:1-3'}
+- {id: h-5073.1-lips, ref: 'Jāmiʿ 48:5073.1', unit: hadith-48-gathering-and-density-of-revelation, agent: Ibn Abbas then Sa'id b. Jubayr, action: move their lips as the prophet did, quoted: ana uharrikuhuma
+    kama kana l-nabiyy yuharrikuhuma, outcome: 'Q 75:16-18'}
+- id: h-5074.1-safa
+  ref: Jāmiʿ 48:5074.1
+  unit: hadith-48-warning-the-near-kin
+  agent: the prophet
+  action: climbs al-Safa and cries the alarm
+  place: al-Safa
+  name: [Banu 'Abd Manaf, Banu 'Abd al-Muttalib, Abu Lahab]
+  quoted: [ya sabahah, inni nadhirun lakum bayna yaday ʿadhabin shadid, tabban laka]
+  outcome: Sura al-Masad
+- id: h-5075.1-buy
+  ref: Jāmiʿ 48:5075.1
+  unit: hadith-48-warning-the-near-kin
+  agent: the prophet
+  action: calls kin by name
+  name: [Quraysh, '''Abbas', Safiyya, Fatima]
+  quoted: ishtaru anfusakum min allah
+- {id: h-5076.1-scout, ref: 'Jāmiʿ 48:5076.1', unit: hadith-48-warning-the-near-kin, agent: the prophet, action: climbs the top of a rock and calls, place: a rock outcrop of a mountain, quoted: ka-mathali
+    rajul ra'a l-ʿaduww fa-ntalaqa yarba'u ahlahu}
+- id: h-5076.2-seven
+  ref: Jāmiʿ 48:5076.2
+  unit: hadith-48-the-first-muslims
+  agent: the polytheists
+  action: put the first Muslims in iron coats in the sun
+  number: 7
+  name: [Abu Bakr, '''Ammar', Sumayya, Suhayb, Bilal, al-Miqdad]
+  quoted: ahad ahad
+  outcome: all but Bilal yield
+- {id: h-5077.2-mother, ref: 'Jāmiʿ 48:5077.2', unit: hadith-48-the-first-muslims, agent: Sa'd's mother, action: 'refuses to speak, eat or drink until he leaves Islam', recipient: Sa'd b. Abi Waqqas, number: 3,
+  name: '''Umara', outcome: 'Q 31:15 revealed'}
+- id: h-5077.3-abasa
+  ref: Jāmiʿ 48:5077.3
+  unit: hadith-48-the-first-muslims
+  agent: '''Amr b. ''Abasa'
+  action: comes to the hidden prophet at Mecca
+  quoted: [arsalani bi-silat al-arham wa-kasr al-awthan, hurrun wa-ʿabd]
+  name: [Abu Bakr, Bilal]
+  outcome: told to return home until he hears the prophet has prevailed
+- id: h-5079.1-sun
+  ref: Jāmiʿ 48:5079.1
+  unit: hadith-48-the-sun-in-my-hand
+  agent: the prophet
+  action: refuses to stop, pointing to the sun
+  recipient: [Quraysh, Abu Talib]
+  name: '''Aqil'
+  quoted: an tastashʿilu li minha shuʿla
+- {id: h-5080.2-moon, ref: 'Jāmiʿ 48:5080.2', unit: hadith-48-signs-demanded, agent: the moon, action: splits in two, time: with the prophet (at Mina), number: 2, quoted: ishhadu ishhadu}
+- id: h-5081.1-safa
+  ref: Jāmiʿ 48:5081.1
+  unit: hadith-48-signs-demanded
+  agent: people of Mecca
+  action: ask that al-Safa become gold and the mountains be moved
+  object: [al-Safa, the mountains]
+  quoted: la bal asta'ni bihim
+  outcome: Q 17:59
+- id: h-5082.1-sala
+  ref: Jāmiʿ 48:5082.1
+  unit: hadith-48-placenta-and-the-curse
+  agent: the most wretched of them
+  action: lays a camel's afterbirth on the prophet's back as he prostrates
+  place: by the House
+  name: [Abu Jahl, '''Utba b. Rabi''a', Shayba b. Rabi'a, al-Walid b. 'Utba, Umayya b. Khalaf, '''Uqba b. Abi Mu''ayt']
+  number: [3, 7]
+  quoted: allahumma ʿalayka bi-quraysh
+  outcome: those named lie dead in the well of Badr
