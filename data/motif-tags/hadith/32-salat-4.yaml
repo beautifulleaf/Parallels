@@ -178,17 +178,8 @@ new_motifs:
   mosque-built-in-darkest-corner-of-house:
     label: Umm Humayd has a mosque built for her in the furthest and darkest part of her house and prays there until she meets God
     cluster: ritual
-  enmity-to-gods-friend-is-war-declared:
-    label: 'God: ''whoever is hostile to a friend (walī) of mine, I have declared war on him'''
-    cluster: ritual
-  god-becomes-hearing-sight-hand-foot-of-beloved:
-    label: The servant draws near by supererogatory works until God loves him and becomes his hearing, his sight, the hand he strikes with and the foot he walks with
-    cluster: ritual
   obligatory-dearest-means-of-nearness:
     label: Nothing by which my servant draws near to me is dearer than what I made obligatory on him
-    cluster: ritual
-  god-hesitates-over-believers-soul:
-    label: 'God hesitates over nothing he does as over taking the believer''s soul: he hates death and God hates to grieve him'
     cluster: ritual
   two-rakas-dearer-to-the-dead-than-world:
     label: 'Passing a grave the prophet asks whose it is: ''two rak''as are dearer to this man than all that remains of your world'''
@@ -945,7 +936,7 @@ units:
   read:
   - Jāmiʿ 9:1513.1
   tags:
-  - motif: enmity-to-gods-friend-is-war-declared
+  - motif: whoever-harms-my-friend-war-declared
     refs:
     - Jāmiʿ 9:1513.1
     note: من عادَى لي وليًّا فقد آذنتُه بالحرب
