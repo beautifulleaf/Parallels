@@ -70,7 +70,6 @@ units:
       - {motif: vassal-pleads-for-archers, refs: ["EA 137 b.e:40-r:46", "EA 137 r:49-51", "EA 137 l.e:97-99"], note: "ṣāb piṭṭāti ... tiṣbatu Gubla ... u tārat ālu ana šarri, 'archers to seize Byblos ... and the city will return to the king'"}
       - {motif: town-granted-to-vassal, refs: ["EA 137 r:63-65", "EA 137 r:84-85"], note: "a request, not a grant: yaddina ālu puruzi ana ašābīya, 'let him give a city (or) an unwalled village for me to dwell in'"}
       - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 137 r:64", "EA 137 r:67", "EA 137 r:81"], note: "puruzu 'unwalled village' = Hebrew pərāzî; yiḥnanunī 'if the king is gracious to me' from ḥnn (Hebrew ḥānan)"}
-      - {motif: vassal-sends-people-as-tribute, refs: ["EA 137 o:36-37", "EA 137 r:78-79"], note: "my son, the king's servant, I have sent before the king: the vassal's son goes to court"}
     hints:
       - "Puruzu (r:64, 67, 85) is the West Semitic word behind Hebrew pərāzôt 'open villages' (Esth 9:19; Ezek 38:11; Zech 2:8) and pərāzî (Deut 3:5; 1 Sam 6:18); the land of Canaan (Kinaʿanu) is named at r:76: compare Gen 12:5."
       - "The aged ruler unable to go before the king: compare 2 Sam 19:35-38 (Barzillai too old to go with the king). Illness as sin against the gods: compare 2 Kgs 1:2-4 and Ps 38:4."
@@ -89,7 +88,6 @@ units:
       - {motif: vassal-swears-perpetual-servitude, refs: ["EA 160 o:6-8", "EA 160 r:29"], note: "anāku wardka u mārūya u aḫḫūya wardū ša šarri adi dārīti, 'I, my sons and my brothers are servants of the king for ever'"}
       - {motif: vassal-promises-to-rebuild-city, refs: ["EA 160 b.e:20-r:28", "EA 160 r:38-40"], note: "ālu lū tabanni mūša u urra ... ina šatti-ma abanni Ṣumur, 'let the city be built night and day ... this very year I will build Sumur'"}
       - {motif: slanderers-eat-pieces-before-king, refs: ["EA 160 r:30-32"], note: "awīlū sarrūti ša ikkalū karṣīya ana pāni bēlīya lā tešemme, 'do not listen to the false men who eat my pieces before my lord'"}
-      - {motif: vassal-sends-weapons-and-garments-as-gift, refs: ["EA 160 o:14-17"], note: "here timber, not arms: 8 ships, boxwood and great timbers, all that came out of the king's mouth"}
     hints:
       - "akālu karṣī 'eat the pieces (of someone)' = slander is the idiom of Aramaic ʾăkalû qarṣêhôn dî yəhûdāyēʾ, Dan 3:8 and 6:25."
       - "Building night and day: compare Neh 4:16-17. Servant 'for ever' (adi dārīti): compare Deut 15:17 ('he shall be your servant for ever')."
@@ -483,7 +481,6 @@ units:
     tags:
       - {motif: letter-greeting-gods-ask-welfare, refs: ["EA 097 o:1-3"], note: "ilānu šulumka lišʾal"}
       - {motif: slanderers-eat-pieces-before-king, refs: ["EA 097 o:4-6"], note: "a warning rather than slander: īde kīma lamin šumka ana pāni šarri, 'I know your name is bad before the king'"}
-      - {motif: habiru-sa-gaz, refs: ["EA 097 r:11-t.e:21"], note: "interpretive: no Habiru named; the lands of the king are 'given to the sons of Abdi-Ashirta'; much of the reverse is broken"}
     hints:
       - "A bad name before the king: compare 1 Sam 27:12 and 2 Sam 10:6 ('they had made themselves odious')."
   - id: ane-ea-231-sun-from-heaven
@@ -755,7 +752,6 @@ units:
       - {motif: overlord-silent-to-vassals-pleas, refs: ["EA 089 o:7-10", "EA 089 o:12-13", "EA 089 r:44-45"], note: "awātūya ul tulqûna ... lā yišaʾalu šarru ana ḫazanišu, 'the king does not ask after his mayor'"}
       - {motif: rulers-murdered-unavenged, refs: ["EA 089 o:18-26"], note: "ḫazanašunu dākū qadu aḫātīya u mārīše ... dākūšu qadu mārīšu mārātišu, 'they killed their mayor together with my sister, her sons and daughters', whom Rib-Addi had sent to Tyre for safety"}
       - {motif: tyre-wealth-like-the-sea, refs: ["EA 089 r:46-53"], note: "inūma māʾid mimmûšu kīma ayyabba ... yānu bīti ḫazanni kīma šuāta kīma bīt Ugarita ibaši, 'his wealth is like the sea ... there is no mayor's house like it: it is like the house of Ugarit'"}
-      - {motif: overlord-envoy-killed-by-rebels, refs: ["EA 089 r:55-t.e:62"], note: "interpretive: a royal commissioner should come and take the lands from the rebels' hands; the sense is partly lost"}
     hints:
       - "Tyre's wealth and the sea: compare Ezek 27:33, Ezek 28:4-5 and Zech 9:3 ('Tyre heaped up silver like dust'); Isa 23:8."
   - id: ane-ea-105-rib-addi-sumur-bird
@@ -833,7 +829,6 @@ units:
       - {motif: enemy-called-slave-and-dog, refs: ["EA 071 b.e:16-r:19"], note: "mīnu Abdi-Aširta ardu kalbu u yilqû māt šarri ana šâšu"}
       - {motif: habiru-sa-gaz, refs: ["EA 071 r:20-22", "EA 071 r:28-30"], note: "u dannu ina GAZ dannu tillatušu, 'his help is strong in the Habiru'"}
       - {motif: vassal-pleads-for-archers, refs: ["EA 071 o:13-b.e:16", "EA 071 r:23-27"], note: "50 pairs of horses and 200 foot soldiers ... adi aṣî ṣāb piṭṭāti"}
-      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 071 o:1"], note: "not Canaanite but Egyptian: the title pa-zi-te (pꜣ ṯꜣty, 'the vizier') transcribed"}
     hints:
       - "Compare Gen 41:33, 39 (a 'discerning and wise man' over Egypt) and Joseph as the official whom petitioners approach (Gen 42:6)."
   - id: ane-ea-084-rib-addi-bedchamber
@@ -899,6 +894,151 @@ units:
     tags:
       - {motif: inventory-of-seized-goods, refs: ["EA 120 o:1-22"], note: "ṭuppi unūte ša itti Yapaʿ-Addu: copper vessels, 100 large and 100 small daggers, 2 beds plated with gold, a chair (kḥṯ, West Semitic) plated with gold, 100 large chairs, garments, maid- and man-servants"}
       - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 120 o:18", "EA 120 o:21"], note: "kaḫšu 'chair' (Ugaritic kḥṯ) and marbadu 'cover' (Hebrew marbaddîm, Prov 7:16)"}
-      - {motif: deed-never-done-before, refs: ["EA 120 r:30-39"], note: "interpretive: yānu ša yipušu dīna ... lā uṣi dīnu, 'there is no one to give judgement ... no verdict has come out'"}
     hints:
       - "Coverlets (marbaddîm): Prov 7:16 and 31:22; a lawsuit over seized goods before the king: compare 2 Kgs 8:3-6."
+  - id: ane-ea-129-rib-addi-dogs-lies
+    tradition: ane-akkadian
+    title: "Rib-Addi: who are they, the sons of Abdi-Ashirta, dogs? Without archers this year Byblos falls; send ships to take me with the living gods to my lord (EA 129)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Byblos"
+    read: ["EA 129"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 129 o:2-3"]}
+      - {motif: enemy-called-slave-and-dog, refs: ["EA 129 o:4-10", "EA 129 r:74-77", "EA 129 r:81"], note: "miya šunu kalbū ... mātāt šarri ana mārī ardī kalbī, 'who are they, dogs? ... the king's lands (given) to the sons of slaves, dogs'"}
+      - {motif: overlord-envoy-killed-by-rebels, refs: ["EA 129 o:13-17", "EA 129 l.e:95-96"], note: "rābiṣu awīl emqu ... u dākūšu, 'the commissioner, a wise man ... and they killed him'; la-qu₂-mi Piwuri u dākūšu"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 129 o:30-41", "EA 129 r:49-50", "EA 129 r:78-80"], note: "šumma yānu ṣāb piṭṭāta šatta annû ... balu aṣî ṣāb piṭṭāti ina šatti annīti u laqû-mi ālāni Gubla"}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 129 o:36-37", "EA 129 o:41"], note: "the rebels say: anumma ṣābu aṣât ... kāmama kazbūtu, 'that the troops have come out is lies' (kzbt = Hebrew kāzāb); šanti 'year' (šnt)"}
+      - {motif: ruler-flees-with-city-gods, refs: ["EA 129 r:50-51"], note: "uššira eleppāti tilqûni qadu ilāni balṭi ana bēlīya, 'send ships to take me with the living gods to my lord'"}
+      - {motif: overlord-silent-to-vassals-pleas, refs: ["EA 129 r:52-54"], note: "lā-mi yiqba šarru minde lā ṣabtat pašḫat, 'let not the king say: perhaps it is not seized, it is at rest'"}
+      - {motif: hereditary-servitude-like-fathers, refs: ["EA 129 r:46-48"], note: "ana abbūtīya šarrū pānû tinaṣṣarūna āl Gubli u attā lā tizibše, 'the former kings guarded Byblos for my fathers; do not you abandon it'"}
+      - {motif: habiru-sa-gaz, refs: ["EA 129 r:86-89"]}
+    hints:
+      - "Compare 1 Sam 17:43 ('am I a dog?') and 2 Sam 3:8. Fleeing with the gods: compare Gen 31:19, 30 (Rachel and the teraphim) and Jer 48:7. The great kings named (r:75-76): Mittani, Kassite Babylonia, Hatti."
+  - id: ane-ea-140-byblos-maid
+    tradition: ane-akkadian
+    title: "Byblos, the king's maid, and Ili-rapih: why did the king release Aziru? He killed the kings of Irqata, Ammiya and Ardata and took Sumur (EA 140)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Byblos"
+    read: ["EA 140"]
+    tags:
+      - {motif: city-as-kings-handmaid, refs: ["EA 140 o:1-2", "EA 140 o:6-7"], note: "umma Gubla amatka umma Ili-rapiḫ wardka: the city itself is a co-sender, 'Byblos your maid'; āl šarri ištu dārīti"}
+      - {motif: sevenfold-prostration, refs: ["EA 140 o:3-4"]}
+      - {motif: overlord-silent-to-vassals-pleas, refs: ["EA 140 o:5-6"], note: "lā yaqūlu šarru bēlīya ina Gubla amatišu"}
+      - {motif: rulers-murdered-unavenged, refs: ["EA 140 o:10-15"], note: "amur Aziru Aduna šar māt Irqata dāk šar māt Ammiya u šar māt Ardata u rabû dāk u laqa ālānišunu ana šâšu"}
+      - {motif: hittite-troops-burn-vassal-cities, refs: ["EA 140 r:24-30"], note: "Aziru sent his men with Etakkama and smote all the lands of Amqu"}
+    hints:
+      - "A city speaking as a woman: compare Lam 1:9-22 and Isa 49:14. Kings of neighbouring cities killed one after another: Josh 10:28-39."
+  - id: ane-ea-232-surata-akko
+    tradition: ane-akkadian
+    title: "Surata of Akko: dust and ground under the king's feet, I prostrate on belly and back; who would not obey the word of the Sun from heaven? (EA 232)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Akko"
+    read: ["EA 232"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 232 o:1", "EA 232 o:7", "EA 232 r:18-19"], note: "šamaš ištu šamê"}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 232 o:5"], note: "epru ša šēpēšu u qaqqaru ša kabāšišu"}
+      - {motif: sevenfold-prostration, refs: ["EA 232 o:8-9"]}
+      - {motif: prostrate-on-belly-and-back, refs: ["EA 232 o:10-11"], note: "ina panṭê baṭnuma u ṣēru ṣuḫruma: Akkadian 'chest' and 'back' each glossed by Canaanite baṭnu 'belly' and ṣuḫru 'back'"}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 232 o:10-11"], note: "baṭnu (Hebrew beṭen) and ẓhr glossing Akkadian"}
+    hints:
+      - "Akko: Judg 1:31. Obedience to what comes out of the king's mouth: compare Eccl 8:2-4 and Deut 8:3."
+  - id: ane-ea-234-satatna-akko
+    tradition: ane-akkadian
+    title: "Satatna of Akko: Zirdamyashda deserted Biryawaza; Akko is like Magdalu in Egypt; Shuta demands him (EA 234)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Akko"
+    read: ["EA 234"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 234 o:2", "EA 234 o:7-8"]}
+      - {motif: vassal-dust-under-kings-feet, refs: ["EA 234 o:5-6"], note: "eperū ša 2 šēpēšu qaqqaru ša kabāšišu"}
+      - {motif: prostrate-on-belly-and-back, refs: ["EA 234 o:8-9"], note: "7-šu 7-tān ušḫeḫin u kabattuma u ṣēruma"}
+      - {motif: vassal-city-likened-to-egyptian-city, refs: ["EA 234 r:28-30"], note: "amur-mi Akka kīma Magdali ina māt Miṣri"}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 234 r:17-21"], note: "the king's troops were at Megiddo (Magidda); the deserter Zirdamyashda went over to the writer"}
+    hints:
+      - "Magdalu = Migdol on Egypt's border (Exod 14:2; Jer 44:1); Megiddo: Josh 12:21 and Judg 5:19. Extradition of a fugitive demanded: compare 1 Kgs 2:39-40 and 1 Kgs 18:10."
+  - id: ane-ea-286-abdi-heba-slander
+    tradition: ane-akkadian
+    title: "Abdi-Heba: what have I done? they slander me; not my father or mother but the king's strong arm set me here; why do you love the Habiru and hate the mayors? (EA 286)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Jerusalem"
+    read: ["EA 286"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 286 o:3-4"]}
+      - {motif: slanderers-eat-pieces-before-king, refs: ["EA 286 o:5-8", "EA 286 o:20-24"], note: "manna epšāti ana šarri bēlīya ikkalū karṣīya ušāru ina pāni šarri, 'what have I done to the king? they eat my pieces, I am slandered before the king: Abdi-Heba has rebelled'"}
+      - {motif: vassal-installed-by-kings-strong-arm, refs: ["EA 286 o:9-13"], note: "amur anāku lā abīya u lā ummīya šaknāni ina ašri annê zuruḫ šarri dannu ušēribanni ana bīt abīya"}
+      - {motif: ruler-without-parentage, refs: ["EA 286 o:9-11"], note: "a claim of appointment, not of birth: 'not my father and not my mother placed me here'"}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 286 o:6", "EA 286 o:12"], note: "zuruḫ 'arm' = Hebrew zərôaʿ; ušāru 'I am maligned' (šwr)"}
+      - {motif: habiru-sa-gaz, refs: ["EA 286 o:18-20", "EA 286 r:56"], note: "ammīni tarayyamu ḫabiri u ḫaziānūti tazayyaru, 'why do you love the Habiru and hate the mayors?'; ḫabiru ḫabat gabbi mātāti šarri, 'the Habiru plunder all the king's lands'"}
+      - {motif: vassal-longs-to-see-kings-eyes, refs: ["EA 286 r:39-47"], note: "erub-mi itti šarri u lāmur-mi 2 īnī šarri ... u lā ileʾʾe erēba"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 286 r:53-60"], note: "šumma ibašši ṣāb piṭṭāti ina šatti annīti ibašši mātāti ... šumma yānu ... ḫalqat mātāti"}
+      - {motif: postscript-to-royal-scribe, refs: ["EA 286 r:61-t.e:64"], note: "ana ṭupšarri šarri ... šērib awāti banâta ana šarri, 'bring in beautiful words to the king: all the king's lands are lost'"}
+    hints:
+      - "The strong arm: compare Deut 26:8, Ps 89:14, 22 and Ps 44:4. Installed not by parentage: compare Ps 2:6-7 and Heb 7:3 (Melchizedek of Salem, 'without father, without mother')."
+      - "Seeing the king's face: compare 2 Sam 14:24, 28 and Ps 42:3 ('when shall I come and see the face of God?')."
+  - id: ane-ea-288-abdi-heba-name
+    tradition: ane-akkadian
+    title: "Abdi-Heba: the king has set his name at sunrise and sunset; I am a soldier, the king's companion; like a ship in the sea; rulers slain at the gate; we will die with the king (EA 288)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Jerusalem"
+    read: ["EA 288"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 288 o:1"]}
+      - {motif: sevenfold-prostration, refs: ["EA 288 o:3-4", "EA 288 t.e:63-64"]}
+      - {motif: kings-name-placed-in-city-forever, refs: ["EA 288 o:5-7"], note: "amur šarru bēlīya šakan šumšu ana mūṣi šamši u erbi šamši, 'the king has placed his name at the rising of the sun and the setting of the sun'"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["EA 288 o:5-7"]}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 288 o:7-8", "EA 288 r:52"], note: "ḫanpa ša iḫnupū ana muḫḫiya, 'the impiety they committed against me' (Hebrew ḥānēp); ḫalqat abadat, 'lost, perished' (ʾbd, Hebrew ʾābad)"}
+      - {motif: vassal-claims-to-be-soldier-not-mayor, refs: ["EA 288 o:9-12"], note: "lā ḫaziānu weʾu ... amur anāku ruʾi šarri u ubil bilti šarri anāku, 'I am a friend (shepherd?) of the king and a bearer of the king's tribute'"}
+      - {motif: vassal-installed-by-kings-strong-arm, refs: ["EA 288 o:13-15"], note: "yānu-mi abīya yānu-mi ummīya zuruḫ šarri dannu šaknanni ina bīt abīya"}
+      - {motif: ruler-without-parentage, refs: ["EA 288 o:13-15"]}
+      - {motif: vassal-sends-people-as-tribute, refs: ["EA 288 o:18-22"], note: "10 slaves; to Shuta the commissioner 21 girls and 80 ʿšr-prisoners as a gift (qīštu) for the king"}
+      - {motif: vassal-longs-to-see-kings-eyes, refs: ["EA 288 b.e:30-r:32"], note: "u lā amār 2 īnī šarri kī nukurtu ana muḫḫiya šaknat"}
+      - {motif: vassal-like-ship-in-midst-of-sea, refs: ["EA 288 r:33"], note: "enūma eleppu ina libbi tiāmti, 'like a ship in the midst of the sea'"}
+      - {motif: habiru-sa-gaz, refs: ["EA 288 o:29", "EA 288 r:37-38", "EA 288 r:44"], note: "ālāni šarri tileqqeʾū ḫabiru"}
+      - {motif: rulers-murdered-unavenged, refs: ["EA 288 r:41-47"], note: "Turbazu dīk ina abulli Silu qāl šarru ... Yaptiḫ-Addu dīk ina abulli Silu qāl šarru ammīni lā išʾalšunu šarru, 'Turbazu was killed in the city gate of Silu, and the king is silent ... why does the king not call them to account?'"}
+      - {motif: king-assassinated-by-servants, refs: ["EA 288 r:43-44"], note: "Zimreda Lakisi iggiʾūšu wardū epšū ana ḫabiri, 'Zimredda of Lachish: slaves who joined the Habiru struck him down'"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 288 r:48-53", "EA 288 r:57-59"]}
+      - {motif: vassal-will-die-with-king, refs: ["EA 288 r:59-61"], note: "lilqeʾani ana kâši adi aḫḫē u nimūtu itti šarri bēlinu, 'let him take me to you with my brothers, and we will die with the king our lord'"}
+      - {motif: postscript-to-royal-scribe, refs: ["EA 288 r:62-t.e:65"], note: "šērib awāta banâti ana šarri"}
+      - {motif: vassal-your-servant-and-son, refs: ["EA 288 l.e:66"], note: "wardka u mārka anāku"}
+    hints:
+      - "The name set at sunrise and sunset: compare Mal 1:11 and Ps 113:3; the place where God sets his name: Deut 12:5, 11 and 1 Kgs 9:3. The strong arm: Exod 6:6 and Deut 4:34."
+      - "Like a ship in the sea: compare Ps 107:23-27 and Jonah 1. Gintikirmil (o:26) is Gath-carmel (compare Josh 15:55 Carmel); Silu = Sile on Egypt's frontier."
+  - id: ane-ea-287-abdi-heba-jerusalem
+    tradition: ane-akkadian
+    title: "Abdi-Heba: Milkilu and the sons of Labaya gave the king's land to the Habiru; the king is righteous to me; Cushites nearly killed me; my caravan was robbed in Ayyalon; the king has set his name in Jerusalem for ever (EA 287)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Jerusalem"
+    read: ["EA 287"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 287 o:3", "EA 287 r:66", "EA 287 t.e:77"]}
+      - {motif: rival-kings-of-lands-conspire, refs: ["EA 287 o:6-16", "EA 287 o:29-31"], note: "Milkilu gave bows and arrows (šiltāḫu) to Tagi; Gezer, Ashkelon and Lachish gave the rebels bread, oil and all they needed (maḫzirāmu); ipši Milkili u ipši mārī Labʾaya ša nadnū māt šarri ana ḫabiri"}
+      - {motif: habiru-sa-gaz, refs: ["EA 287 o:31"]}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 287 o:17-24"], note: "šumma ibašši ina šatti annīti ṣāb piṭṭātu u ibašši mātātu ... šumma yānu ... yānu-mi mātātu"}
+      - {motif: vassal-installed-by-kings-strong-arm, refs: ["EA 287 o:25-28"], note: "amur māt Urušalim annīta lā abīya lā ummīya nadnanni qāt zuruḫ šarri dannu nadnanni ana yâši, 'this land of Jerusalem: not my father, not my mother gave it to me; the hand of the strong arm of the king gave it to me'"}
+      - {motif: ruler-without-parentage, refs: ["EA 287 o:25-28"]}
+      - {motif: king-righteous-toward-servant, refs: ["EA 287 o:32"], note: "amur šarru bēlīya ṣaduq ana yâši, ṣdq the West Semitic root of Hebrew ṣaddîq"}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 287 o:32", "EA 287 o:36-37", "EA 287 r:66", "EA 287 r:69"], note: "ṣaduq 'righteous'; lāqaḫū 'they took' (lqḥ, Hebrew lāqaḥ); ūrê glossed gaggi 'roof' (Hebrew gag); anūki 'I' (Hebrew ʾānōkî)"}
+      - {motif: assassination-attempt-on-vassal, refs: ["EA 287 o:33-37", "EA 287 r:71-75"], note: "the Cushite (Kašiyu) troops tried to commit a great crime: ṣabat ūrê gaggi, 'they seized the roof'; ubāna lā dīkāti ina qāt awīlī māt Kaši ina libbi bītiya, 'by a finger I was not killed by the Cushites inside my house'"}
+      - {motif: kings-caravan-plundered, refs: ["EA 287 r:53-57"], note: "KASKAL.ḪI.A mušērti ana šarri ... 5 līm kaspi u 8 ubilī ḫarrānāti šarri laqiḫū ina ugāri šadê Ayaluna, 'my caravan to the king ... 5000 (shekels) of silver and 8 porters were taken in the fields of Ayyalon'"}
+      - {motif: kings-name-placed-in-city-forever, refs: ["EA 287 r:60-63"], note: "amur šarru šakan šumšu ina Urušalim ana dāriš u lā ileʾʾe ezābiša mātāt Urušalim, 'the king has set his name in Jerusalem for ever; he cannot abandon the lands of Jerusalem'"}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 287 r:41-52"], note: "Haddaya the commissioner withdrew his garrison: amur paṭrānni lā tiziḫši, 'I am leaving; do not abandon it'"}
+      - {motif: vassal-claims-to-be-soldier-not-mayor, refs: ["EA 287 r:69"], note: "weʾe šarri anūki"}
+      - {motif: vassal-will-die-with-king, refs: ["EA 287 r:70"], note: "mātti ana kâta, 'I am dead to you' (I die for you); context difficult"}
+      - {motif: postscript-to-royal-scribe, refs: ["EA 287 r:64-68"], note: "ana ṭupšar šarri bēlīya qibī-ma ... šērib awāta banâta ana šarri"}
+    hints:
+      - "God sets his name in Jerusalem for ever: 1 Kgs 9:3, 11:36, 2 Kgs 21:4, 7 and Ps 132:13-14; the land not given by father or mother: compare Ps 2:6-8."
+      - "Ayyalon: Josh 10:12 ('moon, in the valley of Aijalon') and 1 Sam 14:31; Gezer, Ashkelon, Lachish: Josh 10:3, 33 and Judg 1:18. 'The king is righteous': compare Ps 11:7 and Ps 72:1-2."
