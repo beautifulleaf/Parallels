@@ -1,5 +1,9 @@
 # ANE x Quran side-by-side pass, chunk 8 (ETCSL 2.5.1.2 - 5.7.a, Adapa, Advice to a Prince, Angim, Anzu). Judged blind, from the originals.
 new_motifs:
+  no-one-sinless-from-the-womb: {label: 'No human is sinless from birth: the claim of purity is refused with reference to the mother''s womb', cluster: theology}
+  in-plenty-forgets-god-in-trouble-prays: {label: A man in plenty neglects his god and calls on him only when affliction comes, cluster: ethics}
+  record-of-deeds-at-judgment: {label: A written record (tablet, book) of a person's deeds decides his judgment, cluster: judgment}
+  deity-lifts-the-heavy-burden-of-sin: {label: A deity lifts sin pictured as a heavy load from a person, cluster: theology}
   door-that-opens-for-the-righteous-not-the-wicked: {label: A door or gate of the place of judgment does not open for the wicked and opens for the righteous, cluster: judgment}
   the-accused-brought-in-blind: {label: The accused is led to judgment with eyes covered, or gathered blind, cluster: judgment}
   friends-and-brothers-ignore-each-other-at-judgment: {label: At the judgment friends no longer speak to or recognise each other and brother neglects brother, cluster: judgment}
@@ -29,15 +33,15 @@ reviewed:
     matches:
       - with: quran-18-companions-of-the-cave
         motif: no-one-changes-the-spoken-word
-        refs: ['ETCSL 2.5.4.08 sa–gida.A:11', 'ETCSL 2.5.4.08 sa–jara.C:25']
-        with_refs: ['18:27']
+        refs: ["ETCSL 2.5.4.08 sa–gida.A:11", "ETCSL 2.5.4.08 sa–jara.C:25"]
+        with_refs: ["18:27"]
         relation: echo
         record:
-          agent: [the singer addressing Enlil, God to the Prophet]
-          object: [Enlil's utterance, his words]
-          action: [declares the god's word unalterable, declares the god's words unalterable]
-          quoted: [dug4-ga-ni nu-kam3-me-dam; niŋ2 nu-kur2-ru dug4-ga-zu ki-bi-še3 ŋar, lā mubaddila li-kalimātihi]
-        note: Enlil's utterance 'is not to be altered' (nu-kam3) and 'is set in its place, unchangeable' (nu-kur2); 18:27 lā mubaddila li-kalimātihi of the revealed Book. A formula; recorded here because the adab is to Enlil, the same god as the chunk-1 match.
+          agent: ["the singer addressing Enlil", "God to the Prophet"]
+          object: ["Enlil's utterance", "his words"]
+          action: ["declares the god's word unalterable", "declares the god's words unalterable"]
+          quoted: ["dug4-ga-ni nu-kam3-me-dam; niŋ2 nu-kur2-ru dug4-ga-zu ki-bi-še3 ŋar", "lā mubaddila li-kalimātihi"]
+        note: "Enlil's utterance 'is not to be altered' (nu-kam3) and 'is set in its place, unchangeable' (nu-kur2); 18:27 lā mubaddila li-kalimātihi of the revealed Book. A formula; recorded here because the adab is to Enlil, the same god as the chunk-1 match."
   - unit: ane-etcsl-2-5-4-13-nanna-adab-ishme-dagan
     checked: [quran-3-sovereignty, quran-35-originator, quran-27-is-there-a-god-with-god]
     matches: []
@@ -76,15 +80,15 @@ reviewed:
     matches:
       - with: quran-6-signs-would-not-convince
         motif: no-one-changes-the-spoken-word
-        refs: ['ETCSL 2.5.6.1 :17']
-        with_refs: ['6:115']
+        refs: ["ETCSL 2.5.6.1 :17"]
+        with_refs: ["6:115"]
         relation: echo
         record:
-          agent: [Inana addressing An, God of himself]
-          object: [An's word, the words of your Lord]
-          action: [declares the god's word unalterable, declares the god's words unalterable]
-          quoted: [an gal dug4-ga-zu niŋ2 mah-am3 a-ba-a šu mi-ni-ib-bal-e, wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi]
-        note: '''Great An, your word is lofty, who can overturn it (šu bal)?'' as a rhetorical question; 6:115 states it: ''no changer of his words'' (lā mubaddila). In Sumerian the word is An''s decree of the king''s fate; in 6:115 God''s word ''complete in truth and justice''.'
+          agent: ["Inana addressing An", "God of himself"]
+          object: ["An's word", "the words of your Lord"]
+          action: ["declares the god's word unalterable", "declares the god's words unalterable"]
+          quoted: ["an gal dug4-ga-zu niŋ2 mah-am3 a-ba-a šu mi-ni-ib-bal-e", "wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi"]
+        note: "'Great An, your word is lofty, who can overturn it (šu bal)?' as a rhetorical question; 6:115 states it: 'no changer of his words' (lā mubaddila). In Sumerian the word is An's decree of the king's fate; in 6:115 God's word 'complete in truth and justice'."
   - unit: ane-etcsl-2-5-6-1-fate-unchangeable-inana-spouse
     checked: [quran-3-sovereignty, quran-79-pharaoh-and-cosmos, quran-20-moses-pharaoh-magicians]
     matches: []
@@ -185,8 +189,21 @@ reviewed:
     checked: [quran-55-rahman-creation-and-the-two-seas, quran-57-hadid-iron-and-monasticism, quran-3-sovereignty, quran-42-shura-signs-and-ethics]
     matches: []
   - unit: ane-etcsl-4-06-1-c-herald-horn
-    checked: [quran-37-daughters-and-ranks, quran-17-polemic-and-resurrection, quran-43-zukhruf-abraham-and-silver-roofs]
-    matches: []
+    checked: [quran-37-daughters-and-ranks, quran-17-polemic-and-resurrection, quran-43-zukhruf-abraham-and-silver-roofs, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: herald-blows-horn-to-assemble
+        refs: ["ETCSL 4.06.1 Seg.C:64", "ETCSL 4.06.1 Seg.C:65", "ETCSL 4.06.1 Seg.C:68"]
+        with_refs: ["50:20", "50:41", "50:42"]
+        relation: divergence
+        record:
+          agent: ["the herald (niŋir) of Ḫendursaĝa", "the caller (al-munādī)"]
+          action: ["sounds the horn and raises them", "the horn is blown and the caller calls"]
+          instrument: ["horn (si)", "horn (al-ṣūr)"]
+          recipient: ["the army ready for battle", "all people"]
+          quoted: ["ugnim igi zu2 keše2 me3-ka / niŋir-e si gu3 um-mi-in-ra / niŋir {d}hendur-saŋ-ŋa2-ke4 su-ba zi-zi-de3", "wa-nufikha fī ṣ-ṣūri ... yawma yunādi l-munādi min makānin qarīb ... dhālika yawmu l-khurūj"]
+          outcome: ["the troops rise for battle", "the day of coming forth"]
+        note: "A herald and a horn summon a gathering: the niŋir 'makes the horn sound' (si gu3 ra) over the army set for battle and makes them rise (zi-zi); in 50:20 and 50:41-42 the ṣūr is blown and 'the caller calls' (yunādi l-munādi), and the cry brings 'the day of coming forth' (yawm al-khurūj). The muster of an army becomes the raising of all people."
   - unit: ane-etcsl-4-07-a-inana-hymn
     checked: [quran-20-taha-prologue, quran-38-sad-opening, quran-3-imran-mary-zechariah]
     matches: []
@@ -249,71 +266,116 @@ reviewed:
     matches:
       - with: quran-7-paradise-hell-araf
         motif: door-that-opens-for-the-righteous-not-the-wicked
-        refs: [ETCSL 4.28.1 20, ETCSL 4.28.1 21]
-        with_refs: ['7:40']
+        refs: ["ETCSL 4.28.1 20", "ETCSL 4.28.1 21"]
+        with_refs: ["7:40"]
         relation: divergence
         record:
-          object: [the great door of the house of judgment, the gates of heaven]
-          action: [does not open for the evildoer, are not opened for those who deny]
-          recipient: [lu2-erim2 (the evildoer), alladhīna kadhdhabū bi-āyātinā]
-          quoted: ['{ŋiš}ig-bi hur-saŋ gal lu2-erim2-ra ŋal2 nu-un-ta-da13-da13 / lu2 zid ... ŋal2 mu-un-ta-da13-da13', lā tufattaḥu lahum abwābu s-samāʾi wa-lā yadkhulūna l-jannata]
-          outcome: [it opens for the just man, they do not enter the garden]
-        note: 'The same selective door: Nungal''s door, ''a great mountain'', ''is not opened for the evildoer'' (ŋal2 nu-un-ta-da13) but ''is opened'' (ŋal2 mu-un-ta-da13) for the just man; ''the gates of heaven are not opened for them''. Direction differs: the prison door opens to let the just out; heaven''s gates open to let the righteous in.'
+          object: ["the great door of the house of judgment", "the gates of heaven"]
+          action: ["does not open for the evildoer", "are not opened for those who deny"]
+          recipient: ["lu2-erim2 (the evildoer)", "alladhīna kadhdhabū bi-āyātinā"]
+          quoted: ["{ŋiš}ig-bi hur-saŋ gal lu2-erim2-ra ŋal2 nu-un-ta-da13-da13 / lu2 zid ... ŋal2 mu-un-ta-da13-da13", "lā tufattaḥu lahum abwābu s-samāʾi wa-lā yadkhulūna l-jannata"]
+          outcome: ["it opens for the just man", "they do not enter the garden"]
+        note: "The same selective door: Nungal's door, 'a great mountain', 'is not opened for the evildoer' (ŋal2 nu-un-ta-da13) but 'is opened' (ŋal2 mu-un-ta-da13) for the just man; 'the gates of heaven are not opened for them'. Direction differs: the prison door opens to let the just out; heaven's gates open to let the righteous in."
       - with: quran-39-mercy-and-last-day
         motif: door-that-opens-for-the-righteous-not-the-wicked
-        refs: [ETCSL 4.28.1 20, ETCSL 4.28.1 21]
-        with_refs: ['39:71', '39:73']
+        refs: ["ETCSL 4.28.1 20", "ETCSL 4.28.1 21"]
+        with_refs: ["39:71", "39:73"]
         relation: divergence
         record:
-          object: [the door of the house of judgment, the gates of hell and of the garden]
-          action: [opens for the just man only, are opened for each company as it arrives]
-          quoted: [lu2-erim2-ra ŋal2 nu-un-ta-da13-da13 / lu2 zid ... ŋal2 mu-un-ta-da13-da13, ḥattā idhā jāʾūhā futiḥat abwābuhā ... ḥattā idhā jāʾūhā wa-futiḥat abwābuhā]
-          outcome: [the just man goes free, the righteous enter the garden forever]
-        note: Nungal's single door divides the evildoer from the just by not opening or opening; in 39:71-73 two sets of gates both open (futiḥat), hell's for the disbelievers and the garden's for the God-fearing, with keepers (khazanatuhā) speaking to each.
+          object: ["the door of the house of judgment", "the gates of hell and of the garden"]
+          action: ["opens for the just man only", "are opened for each company as it arrives"]
+          quoted: ["lu2-erim2-ra ŋal2 nu-un-ta-da13-da13 / lu2 zid ... ŋal2 mu-un-ta-da13-da13", "ḥattā idhā jāʾūhā futiḥat abwābuhā ... ḥattā idhā jāʾūhā wa-futiḥat abwābuhā"]
+          outcome: ["the just man goes free", "the righteous enter the garden forever"]
+        note: "Nungal's single door divides the evildoer from the just by not opening or opening; in 39:71-73 two sets of gates both open (futiḥat), hell's for the disbelievers and the garden's for the God-fearing, with keepers (khazanatuhā) speaking to each."
   - unit: ane-etcsl-4-28-1-b-nungal-judges
     checked: [quran-36-trumpet-and-judgment, quran-12-joseph-full, quran-15-abraham-guests-lot, quran-26-lot, quran-17-prayer-spirit-and-challenge, quran-70-ascending-stairways, quran-80-frowned]
     matches:
       - with: quran-17-prayer-spirit-and-challenge
         motif: the-accused-brought-in-blind
-        refs: [ETCSL 4.28.1 44, ETCSL 4.28.1 45]
-        with_refs: ['17:97']
+        refs: ["ETCSL 4.28.1 44", "ETCSL 4.28.1 45"]
+        with_refs: ["17:97"]
         relation: echo
         record:
-          agent: [Nungal, God]
-          action: [leads the accused in with his eyes covered, gathers the misguided blind]
-          place: [into the house of lamentation, on the day of resurrection]
-          quoted: [ŋiri3 mu-un-dab5 e2 a-nir-ra-še3 / tug2 igi-na mu-un-si, wa-naḥshuruhum yawma l-qiyāmati ʿalā wujūhihim ʿumyan wa-bukman wa-ṣummā]
-        note: 'The accused is led to judgment unable to see: the goddess ''takes his foot to the house of lamentation, covers his eyes with a cloth'' (tug2 igi-na mu-un-si); God ''gathers them on the day of resurrection on their faces, blind, dumb and deaf'' (ʿumyan). A prison ordeal in this life against the last gathering.'
+          agent: ["Nungal", "God"]
+          action: ["leads the accused in with his eyes covered", "gathers the misguided blind"]
+          place: ["into the house of lamentation", "on the day of resurrection"]
+          quoted: ["ŋiri3 mu-un-dab5 e2 a-nir-ra-še3 / tug2 igi-na mu-un-si", "wa-naḥshuruhum yawma l-qiyāmati ʿalā wujūhihim ʿumyan wa-bukman wa-ṣummā"]
+        note: "The accused is led to judgment unable to see: the goddess 'takes his foot to the house of lamentation, covers his eyes with a cloth' (tug2 igi-na mu-un-si); God 'gathers them on the day of resurrection on their faces, blind, dumb and deaf' (ʿumyan). A prison ordeal in this life against the last gathering."
       - with: quran-70-ascending-stairways
         motif: friends-and-brothers-ignore-each-other-at-judgment
-        refs: [ETCSL 4.28.1 47, ETCSL 4.28.1 52, ETCSL 4.28.1 53, ETCSL 4.28.1 54]
-        with_refs: ['70:10', '70:11']
+        refs: ["ETCSL 4.28.1 47", "ETCSL 4.28.1 52", "ETCSL 4.28.1 53", "ETCSL 4.28.1 54"]
+        with_refs: ["70:10", "70:11"]
         relation: echo
         record:
-          agent: [the accused's acquaintances, close friends]
-          action: [do not speak to him and do not recognise him, do not ask after each other though they are shown each other]
-          quoted: [lu2 zu-a-ni gu3 nu-mu-un-da-ab-be2 ... šul-e šul-zu-ne nu-mu-un-zu-zu, wa-lā yasʾalu ḥamīmun ḥamīman yubaṣṣarūnahum]
-        note: 'Those brought to judgment are cut off from those who know them: ''his acquaintance does not speak to him, stands aside''; ''the youth does not recognise his fellows''; ''man does not acknowledge man''. In 70:10-11 ''no close friend will ask after a close friend, though they are made to see them''.'
+          agent: ["the accused's acquaintances", "close friends"]
+          action: ["do not speak to him and do not recognise him", "do not ask after each other though they are shown each other"]
+          quoted: ["lu2 zu-a-ni gu3 nu-mu-un-da-ab-be2 ... šul-e šul-zu-ne nu-mu-un-zu-zu", "wa-lā yasʾalu ḥamīmun ḥamīman yubaṣṣarūnahum"]
+        note: "Those brought to judgment are cut off from those who know them: 'his acquaintance does not speak to him, stands aside'; 'the youth does not recognise his fellows'; 'man does not acknowledge man'. In 70:10-11 'no close friend will ask after a close friend, though they are made to see them'."
       - with: quran-80-frowned
         motif: friends-and-brothers-ignore-each-other-at-judgment
-        refs: [ETCSL 4.28.1 52]
-        with_refs: ['80:34', '80:35', '80:36']
+        refs: ["ETCSL 4.28.1 52"]
+        with_refs: ["80:34", "80:35", "80:36"]
         relation: echo
         record:
-          agent: [brother, a man]
-          action: [neglects his brother, flees from his brother]
-          recipient: [his brother, his brother, mother, father, wife and sons]
-          quoted: [šeš šeš-ra ud ha-lam mu-un-da-aŋ2-e, yawma yafirru l-marʾu min akhīhi wa-ummihi wa-abīhi wa-ṣāḥibatihi wa-banīh]
-        note: šeš šeš-ra 'brother to brother' gives a day of forgetting (ud ha-lam) in the house of judgment; 80:34 'the day a man flees from his brother'. The Quran extends it to mother, father, wife and sons.
+          agent: ["brother", "a man"]
+          action: ["neglects his brother", "flees from his brother"]
+          recipient: ["his brother", "his brother, mother, father, wife and sons"]
+          quoted: ["šeš šeš-ra ud ha-lam mu-un-da-aŋ2-e", "yawma yafirru l-marʾu min akhīhi wa-ummihi wa-abīhi wa-ṣāḥibatihi wa-banīh"]
+        note: "šeš šeš-ra 'brother to brother' gives a day of forgetting (ud ha-lam) in the house of judgment; 80:34 'the day a man flees from his brother'. The Quran extends it to mother, father, wife and sons."
   - unit: ane-etcsl-4-28-1-c-nungal-self-praise
-    checked: [quran-17-book-of-deeds, quran-40-throne-bearers, quran-17-polemic-and-resurrection, quran-50-qaf-two-recorders-and-hell-asks-more]
-    matches: []
+    checked: [quran-17-book-of-deeds, quran-40-throne-bearers, quran-17-polemic-and-resurrection, quran-50-qaf-two-recorders-and-hell-asks-more, quran-93-94-forenoon-and-expansion]
+    matches:
+      - with: quran-17-book-of-deeds
+        motif: record-of-deeds-at-judgment
+        refs: ["ETCSL 4.28.1 77", "ETCSL 4.28.1 78"]
+        with_refs: ["17:13", "17:14"]
+        relation: divergence
+        record:
+          agent: ["Nungal", "God"]
+          object: ["the tablet of life", "each man's book"]
+          action: ["holds the record in her own hand and knows the deeds", "fastens it to each man's neck and brings it out for him to read"]
+          quoted: ["im nam-til3-la šu-ŋa2 mu-un-ŋal2 lu2 zid bi2-in-gub-be2-en / erim2-du a2-ŋa2 la-ba-ra-e3 niŋ2 ak-bi mu-zu", "wa-kulla insānin alzamnāhu ṭāʾirahu fī ʿunuqihi wa-nukhriju lahu yawma l-qiyāmati kitāban yalqāhu manshūrā / iqraʾ kitābaka"]
+          outcome: ["the just man is set on his feet and the evildoer does not escape", "each man is his own reckoner"]
+        note: "A written record decides the judged: 'I hold the tablet of life (im nam-til3-la) in my hand, I set the just man upright; the evildoer does not escape my arm, I know what he has done (niŋ2 ak-bi mu-zu)'. In 17:13-14 the record is the person's own: fastened to his neck, unrolled on the day of resurrection, and he reads it himself (kafā bi-nafsika l-yawma ʿalayka ḥasībā)."
+      - with: quran-93-94-forenoon-and-expansion
+        motif: deity-lifts-the-heavy-burden-of-sin
+        refs: ["ETCSL 4.28.1 80"]
+        with_refs: ["94:2", "94:3"]
+        relation: echo
+        record:
+          agent: ["Nungal", "God"]
+          action: ["lightens the heavy sin", "removes the burden"]
+          object: ["heavy sin (nam-tag dugud)", "wizr"]
+          recipient: ["a man", "the Prophet"]
+          quoted: ["nam-tag dugud šu-ta im-sig-ge-en ama arhuš-a-me-en", "wa-waḍaʿnā ʿanka wizraka lladhī anqaḍa ẓahrak"]
+        note: "Sin as a weight the deity takes off: 'I lessen the heavy (dugud) sin from the hand, I am a compassionate mother'; 'we removed from you your burden (wizr) that weighed down your back'. The Sumerian is a general claim of the goddess, 94:2-3 God's word to one person."
   - unit: ane-etcsl-4-31-1-a-sulpae-praise
     checked: [quran-13-signs-of-creation, quran-6-signs-in-nature, quran-39-pure-religion]
     matches: []
   - unit: ane-etcsl-4-31-1-b-sulpae-sufferer
-    checked: [quran-96-clot, quran-22-signs-and-rites, quran-23-lordship-arguments, quran-50-qaf-two-recorders-and-hell-asks-more]
-    matches: []
+    checked: [quran-96-clot, quran-22-signs-and-rites, quran-23-lordship-arguments, quran-50-qaf-two-recorders-and-hell-asks-more, quran-41-steadfast-and-repel-evil]
+    matches:
+      - with: quran-41-steadfast-and-repel-evil
+        motif: in-plenty-forgets-god-in-trouble-prays
+        refs: ["ETCSL 4.31.1 Ver.1:41", "ETCSL 4.31.1 Ver.1:42", "ETCSL 4.31.1 Ver.1:43", "ETCSL 4.31.1 Ver.1:56", "ETCSL 4.31.1 Ver.1:58", "ETCSL 4.31.1 Ver.1:59"]
+        with_refs: ["41:51"]
+        relation: parallel
+        record:
+          agent: ["a man", "al-insān"]
+          action: ["in plenty does not invoke his god and in affliction makes supplication", "in plenty turns away and in affliction prays at length"]
+          quoted: ["u2 tuku u2-na ba-ni-in-gu7 / a tuku a-na ba-ni-in-naŋ / mu diŋir-ra-na li-bi-in-pad3-de3 ... saŋ ŋa2-ŋa2 a-ra-zu ma-ra-ab-be2", "wa-idhā anʿamnā ʿalā l-insāni aʿraḍa wa-naʾā bi-jānibihi wa-idhā massahu sh-sharru fa-dhū duʿāʾin ʿarīḍ"]
+          outcome: ["restored to his god's kindly hand", null]
+        note: "The same two-step: 'who had grass ate his grass, who had water drank his water, he did not call on his god's name', then something heavy 'covered him like a garment' and he offers prayer (a-ra-zu) and supplication (šag4-ne-ša4); 41:51 'when we bless man he turns away and keeps aloof, and when evil touches him he is full of long prayer'. Lines 45-57 are broken. The Sumerian story ends in restoration (64 šu sag9-ga diŋir-ra-na-še3 im-ši-in-gi4-gi4); 41:51 states the pattern as a reproach."
+      - with: quran-96-clot
+        motif: in-plenty-forgets-god-in-trouble-prays
+        refs: ["ETCSL 4.31.1 Ver.1:41", "ETCSL 4.31.1 Ver.1:42", "ETCSL 4.31.1 Ver.1:43"]
+        with_refs: ["96:6", "96:7"]
+        relation: echo
+        record:
+          agent: ["a man", "al-insān"]
+          action: ["eats and drinks his own and does not invoke his god", "transgresses because he sees himself self-sufficient"]
+          quoted: ["u2 tuku u2-na ba-ni-in-gu7 ... mu diŋir-ra-na li-bi-in-pad3-de3", "inna l-insāna la-yaṭghā an raʾāhu staghnā"]
+        note: "Having enough of one's own is the cause of forgetting the god: the man with his own grass and water does not name his god; 'man transgresses when he sees himself self-sufficient (istaghnā)'."
   - unit: ane-etcsl-4-31-1-c-sulpae-version-2
     checked: [quran-7-closing-recitation, quran-20-closing-exhortation, quran-41-steadfast-and-repel-evil]
     matches: []
@@ -328,16 +390,16 @@ reviewed:
     matches:
       - with: quran-5-two-sons-of-adam
         motif: brothers-offerings-and-the-envy-that-follows
-        refs: [ETCSL 5.3.3 105, ETCSL 5.3.3 106, ETCSL 5.3.3 111, ETCSL 5.3.3 112, ETCSL 5.3.3 113]
-        with_refs: ['5:27']
+        refs: ["ETCSL 5.3.3 105", "ETCSL 5.3.3 106", "ETCSL 5.3.3 111", "ETCSL 5.3.3 112", "ETCSL 5.3.3 113"]
+        with_refs: ["5:27"]
         relation: divergence
         record:
-          agent: [two brothers (Summer and Winter), two sons of Adam]
-          action: [each bring an offering to the god, each bring an offering to God]
-          recipient: [Enlil in the E-namtila, God]
-          quoted: [e2-me-eš en-te-en-bi-da maš2 kadra si ba-ni-in-sa2-sa2-eš ... ur5-da en-te-en-ra ninim mu-na-te e2-me-eš-ra du14 bi2-in-ŋar, idh qarrabā qurbānan fa-tuqubbila min aḥadihimā wa-lam yutaqabbal mina l-ākhar qāla la-aqtulannaka]
-          outcome: [envy and a quarrel (du14) with his brother, threat to kill his brother]
-        note: 'Two brothers (Summer calls Winter šeš-ŋu10 ''my brother'', 113) bring their gifts (maš2 kadra) to Enlil''s house; Winter ''stood aside like an evildoer'' (nu-erim2-gin7 bar-ta im-ta-gub), envy (ninim) came upon him and he started a quarrel. In 5:27 the two sons of Adam each offer a qurbān, one is accepted and the other says la-aqtulannaka. The trigger differs: in Sumerian envy arises at the brother''s gift before any verdict; in the Quran at God''s acceptance of one offering.'
+          agent: ["two brothers (Summer and Winter)", "two sons of Adam"]
+          action: ["each bring an offering to the god", "each bring an offering to God"]
+          recipient: ["Enlil in the E-namtila", "God"]
+          quoted: ["e2-me-eš en-te-en-bi-da maš2 kadra si ba-ni-in-sa2-sa2-eš ... ur5-da en-te-en-ra ninim mu-na-te e2-me-eš-ra du14 bi2-in-ŋar", "idh qarrabā qurbānan fa-tuqubbila min aḥadihimā wa-lam yutaqabbal mina l-ākhar qāla la-aqtulannaka"]
+          outcome: ["envy and a quarrel (du14) with his brother", "threat to kill his brother"]
+        note: "Two brothers (Summer calls Winter šeš-ŋu10 'my brother', 113) bring their gifts (maš2 kadra) to Enlil's house; Winter 'stood aside like an evildoer' (nu-erim2-gin7 bar-ta im-ta-gub), envy (ninim) came upon him and he started a quarrel. In 5:27 the two sons of Adam each offer a qurbān, one is accepted and the other says la-aqtulannaka. The trigger differs: in Sumerian envy arises at the brother's gift before any verdict; in the Quran at God's acceptance of one offering."
   - unit: ane-etcsl-5-3-3-c-exchange
     checked: [quran-25-furqan-and-objections, quran-56-waqia-three-classes-and-the-garden, quran-21-noah-david-solomon]
     matches: []
@@ -346,26 +408,26 @@ reviewed:
     matches:
       - with: quran-5-two-sons-of-adam
         motif: brothers-offerings-and-the-envy-that-follows
-        refs: [ETCSL 5.3.3 304, ETCSL 5.3.3 307, ETCSL 5.3.3 310, ETCSL 5.3.3 311, ETCSL 5.3.3 312]
-        with_refs: ['5:27', '5:30', '5:31']
+        refs: ["ETCSL 5.3.3 304", "ETCSL 5.3.3 307", "ETCSL 5.3.3 310", "ETCSL 5.3.3 311", "ETCSL 5.3.3 312"]
+        with_refs: ["5:27", "5:30", "5:31"]
         relation: divergence
         record:
-          agent: [Enlil, God]
-          action: [decides between the two brothers, accepts the offering of one brother]
-          quoted: [e2-me-eš dumu-ŋu10 en-te-en šeš-zu-da a-na mu-e-da-ab-sa2-e-en; e2-me-eš en-te-en-ra im-ma-an-ši-in-gam, fa-ṭawwaʿat lahu nafsuhu qatla akhīhi fa-qatalahu fa-aṣbaḥa mina l-khāsirīn]
-          outcome: [the loser kneels to his brother and they feast together, one brother kills the other and is left in remorse]
-        note: After the god's verdict ('Summer, my son, how can you compare yourself with your brother Winter?') Summer bows to Winter (im-ma-an-ši-in-gam), pours beer and wine in his house and they pass the day in feasting. In 5:30-31 the rejected brother kills his brother and ends among al-nādimīn. Same pair and rivalry over offerings; opposite ending.
+          agent: ["Enlil", "God"]
+          action: ["decides between the two brothers", "accepts the offering of one brother"]
+          quoted: ["e2-me-eš dumu-ŋu10 en-te-en šeš-zu-da a-na mu-e-da-ab-sa2-e-en; e2-me-eš en-te-en-ra im-ma-an-ši-in-gam", "fa-ṭawwaʿat lahu nafsuhu qatla akhīhi fa-qatalahu fa-aṣbaḥa mina l-khāsirīn"]
+          outcome: ["the loser kneels to his brother and they feast together", "one brother kills the other and is left in remorse"]
+        note: "After the god's verdict ('Summer, my son, how can you compare yourself with your brother Winter?') Summer bows to Winter (im-ma-an-ši-in-gam), pours beer and wine in his house and they pass the day in feasting. In 5:30-31 the rejected brother kills his brother and ends among al-nādimīn. Same pair and rivalry over offerings; opposite ending."
       - with: quran-50-qaf-two-recorders-and-hell-asks-more
         motif: no-one-changes-the-spoken-word
-        refs: [ETCSL 5.3.3 299, ETCSL 5.3.3 300, ETCSL 5.3.3 308, ETCSL 5.3.3 309]
-        with_refs: ['50:28', '50:29']
+        refs: ["ETCSL 5.3.3 299", "ETCSL 5.3.3 300", "ETCSL 5.3.3 308", "ETCSL 5.3.3 309"]
+        with_refs: ["50:28", "50:29"]
         relation: echo
         record:
-          agent: [Enlil, God]
-          action: [ends a dispute brought before him with an unalterable word, ends a dispute brought before him with an unalterable word]
-          recipient: [two disputing brothers, the damned and his companion disputing]
-          quoted: [di dab5-ba-zu niŋ2 nu-kur2-ru-dam a-ba šu mi-ni-ib2-bal-e, lā takhtaṣimū ladayya ... mā yubaddalu l-qawlu ladayya]
-        note: 'In both, two parties dispute before the god and the god''s sentence closes it: ''your judgment once given is not to be changed, who can overturn it?'' (nu-kur2, šu bal) against ''do not dispute before me ... the word is not changed with me'' (mā yubaddalu l-qawl). Enlil hears the debate out; God refuses further dispute because the warning was given beforehand (50:28).'
+          agent: ["Enlil", "God"]
+          action: ["ends a dispute brought before him with an unalterable word", "ends a dispute brought before him with an unalterable word"]
+          recipient: ["two disputing brothers", "the damned and his companion disputing"]
+          quoted: ["di dab5-ba-zu niŋ2 nu-kur2-ru-dam a-ba šu mi-ni-ib2-bal-e", "lā takhtaṣimū ladayya ... mā yubaddalu l-qawlu ladayya"]
+        note: "In both, two parties dispute before the god and the god's sentence closes it: 'your judgment once given is not to be changed, who can overturn it?' (nu-kur2, šu bal) against 'do not dispute before me ... the word is not changed with me' (mā yubaddalu l-qawl). Enlil hears the debate out; God refuses further dispute because the warning was given beforehand (50:28)."
   - unit: ane-etcsl-5-5-a-drinking-song
     checked: [quran-56-waqia-left-hand-and-proofs, quran-76-the-human, quran-56-waqia-three-classes-and-the-garden]
     matches: []
@@ -380,29 +442,29 @@ reviewed:
     matches:
       - with: quran-68-qalam-companions-of-the-garden
         motif: the-poor-at-the-harvest
-        refs: [ETCSL 5.6.3 79, ETCSL 5.6.3 82, ETCSL 5.6.3 83]
-        with_refs: ['68:17', '68:24']
+        refs: ["ETCSL 5.6.3 79", "ETCSL 5.6.3 82", "ETCSL 5.6.3 83"]
+        with_refs: ["68:17", "68:24"]
         relation: divergence
         record:
-          agent: [the farmer, the owners of the garden]
-          action: [is instructed about the gleaners at the reaping, plan to reap at dawn with no poor man let in]
-          recipient: [the gleaners and the weak, the miskīn]
-          time: [at the reaping, at dawn of the reaping]
-          quoted: [lu2 še degₓ-degₓ-ga-zu ... usu di4-di4-la2-zu-ne u3 lu2 še degₓ-degₓ-ga-zu-ne ... zar-re-eš2 nu2-a-ab, la-yaṣrimunnahā muṣbiḥīna ... an lā yadkhulannahā l-yawma ʿalaykum miskīn]
-          outcome: [the weak and the gleaners lie among the sheaves, the garden is struck and left like a reaped field]
-        note: At the reaping the Sumerian father has the gleaners (lu2 še deg-deg-ga) and the weak (usu di4-di4-la2) in view and lets them lie among the sheaves (zar-re-eš2 nu2-a-ab); the owners of the garden whisper that 'no poor man shall enter it today'. The exact sense of 79-83 is uncertain (the gleaners may be warned not to damage the grain), but their presence at the harvest is clear.
+          agent: ["the farmer", "the owners of the garden"]
+          action: ["is instructed about the gleaners at the reaping", "plan to reap at dawn with no poor man let in"]
+          recipient: ["the gleaners and the weak", "the miskīn"]
+          time: ["at the reaping", "at dawn of the reaping"]
+          quoted: ["lu2 še degₓ-degₓ-ga-zu ... usu di4-di4-la2-zu-ne u3 lu2 še degₓ-degₓ-ga-zu-ne ... zar-re-eš2 nu2-a-ab", "la-yaṣrimunnahā muṣbiḥīna ... an lā yadkhulannahā l-yawma ʿalaykum miskīn"]
+          outcome: ["the weak and the gleaners lie among the sheaves", "the garden is struck and left like a reaped field"]
+        note: "At the reaping the Sumerian father has the gleaners (lu2 še deg-deg-ga) and the weak (usu di4-di4-la2) in view and lets them lie among the sheaves (zar-re-eš2 nu2-a-ab); the owners of the garden whisper that 'no poor man shall enter it today'. The exact sense of 79-83 is uncertain (the gleaners may be warned not to damage the grain), but their presence at the harvest is clear."
       - with: quran-68-qalam-companions-of-the-garden
         motif: prayer-at-the-harvest
-        refs: [ETCSL 5.6.3 88, ETCSL 5.6.3 103, ETCSL 5.6.3 108]
-        with_refs: ['68:18', '68:28', '68:29']
+        refs: ["ETCSL 5.6.3 88", "ETCSL 5.6.3 103", "ETCSL 5.6.3 108"]
+        with_refs: ["68:18", "68:28", "68:29"]
         relation: divergence
         record:
-          agent: [the farmer, the owners of the garden]
-          action: [says a prayer at each stage of the harvest, omit the exception and the glorification]
-          time: [over the grain heap and before winnowing, at the planned reaping]
-          quoted: [sizkur2 še-zar-ra ud šu2-uš-e ha-ra-ab-dug4; sizkur2 še nu-nir-ra dug4-ga-ab, wa-lā yastathnūn ... a-lam aqul lakum law-lā tusabbiḥūn]
-          outcome: [the harvest is brought in, the harvest is destroyed overnight]
-        note: The farmer is told to say a prayer (sizkur2) over the grain heap, before the grain is winnowed and at evening and night; the owners of the garden swore to reap 'and made no exception' (lā yastathnūn) and are reproached 'did I not tell you, why do you not glorify (tusabbiḥūn)?' The same act at the same moment, performed against omitted.
+          agent: ["the farmer", "the owners of the garden"]
+          action: ["says a prayer at each stage of the harvest", "omit the exception and the glorification"]
+          time: ["over the grain heap and before winnowing", "at the planned reaping"]
+          quoted: ["sizkur2 še-zar-ra ud šu2-uš-e ha-ra-ab-dug4; sizkur2 še nu-nir-ra dug4-ga-ab", "wa-lā yastathnūn ... a-lam aqul lakum law-lā tusabbiḥūn"]
+          outcome: ["the harvest is brought in", "the harvest is destroyed overnight"]
+        note: "The farmer is told to say a prayer (sizkur2) over the grain heap, before the grain is winnowed and at evening and night; the owners of the garden swore to reap 'and made no exception' (lā yastathnūn) and are reproached 'did I not tell you, why do you not glorify (tusabbiḥūn)?' The same act at the same moment, performed against omitted."
   - unit: ane-etcsl-5-2-4-a-man-afflicted
     checked: [quran-6-poor-keys-of-unseen, quran-16-parables-and-justice, quran-3-sovereignty]
     matches: []
@@ -410,8 +472,20 @@ reviewed:
     checked: [quran-42-shura-signs-and-ethics, quran-39-death-and-sleep, quran-93-94-forenoon-and-expansion]
     matches: []
   - unit: ane-etcsl-5-2-4-c-confession
-    checked: [quran-5-jesus-miracles-table, quran-63-munafiqun-propped-timbers, quran-39-death-and-sleep]
-    matches: []
+    checked: [quran-5-jesus-miracles-table, quran-63-munafiqun-propped-timbers, quran-39-death-and-sleep, quran-53-najm-goddesses-and-scrolls]
+    matches:
+      - with: quran-53-najm-goddesses-and-scrolls
+        motif: no-one-sinless-from-the-womb
+        refs: ["ETCSL 5.2.4 103", "ETCSL 5.2.4 104", "ETCSL 5.2.4 105"]
+        with_refs: ["53:32"]
+        relation: echo
+        record:
+          agent: ["the sages", "God"]
+          action: ["say that no child is born sinless", "forbids claiming oneself pure"]
+          object: ["the child born of its mother", "you as embryos in your mothers' wombs"]
+          quoted: ["ud na-me dumu nam-tag nu-tuku ama-a-ni nu-tu-ud", "wa-idh antum ajinnatun fī buṭūni ummahātikum fa-lā tuzakkū anfusakum"]
+          outcome: ["the sufferer asks to be shown his sin", "God knows best who is God-fearing"]
+        note: "Both tie the denial of human sinlessness to the mother's womb: the sages' saying 'never has a sinless child been born to its mother; no sinless workman has existed from of old' against 'he knows you best ... when you were embryos in your mothers' bellies, so do not claim purity for yourselves'. 53:32 adds God's wide forgiveness (wāsiʿ al-maghfira) and the exception of small faults (al-lamam)."
   - unit: ane-etcsl-5-2-4-d-restoration
     checked: [quran-13-signs-of-creation, quran-40-throne-bearers, quran-43-zukhruf-abraham-and-silver-roofs, quran-6-poor-keys-of-unseen]
     matches: []
@@ -420,16 +494,16 @@ reviewed:
     matches:
       - with: quran-19-zechariah-and-john
         motif: old-mans-lament-lost-vigour
-        refs: [ETCSL 5.6.6 34, ETCSL 5.6.6 35, ETCSL 5.6.6 37a]
-        with_refs: ['19:4', '19:8']
+        refs: ["ETCSL 5.6.6 34", "ETCSL 5.6.6 35", "ETCSL 5.6.6 37a"]
+        with_refs: ["19:4", "19:8"]
         relation: echo
         record:
-          agent: [an old man, Zakariyyā]
-          action: [laments his old age, laments his old age]
-          recipient: [the king, his Lord]
-          quoted: [hur-saŋ gegge-ŋu10 im-babbar2 ba-an-mu2; zu2-ŋu10 niŋ2 kala-ge nu-ar3-re, wahana l-ʿaẓmu minnī wa-shtaʿala r-raʾsu shaybā; wa-qad balaghtu mina l-kibari ʿitiyyā]
-          outcome: [the king grants the young wife release, God promises a son]
-        note: 'An old man''s lament in images of the head turned white and the body failing: ''my black mountain has grown white gypsum'', ''my teeth no longer grind hard things'', ''my youth ran off like a runaway donkey'' against ''the bone has weakened in me and the head is ablaze with grey''. Both turn on begetting: the Sumerian old man has married a young girl, Zakariyyā asks for an heir from a barren wife.'
+          agent: ["an old man", "Zakariyyā"]
+          action: ["laments his old age", "laments his old age"]
+          recipient: ["the king", "his Lord"]
+          quoted: ["hur-saŋ gegge-ŋu10 im-babbar2 ba-an-mu2; zu2-ŋu10 niŋ2 kala-ge nu-ar3-re", "wahana l-ʿaẓmu minnī wa-shtaʿala r-raʾsu shaybā; wa-qad balaghtu mina l-kibari ʿitiyyā"]
+          outcome: ["the king grants the young wife release", "God promises a son"]
+        note: "An old man's lament in images of the head turned white and the body failing: 'my black mountain has grown white gypsum', 'my teeth no longer grind hard things', 'my youth ran off like a runaway donkey' against 'the bone has weakened in me and the head is ablaze with grey'. Both turn on begetting: the Sumerian old man has married a young girl, Zakariyyā asks for an heir from a barren wife."
   - unit: ane-etcsl-5-7-a-lost-seal
     checked: [quran-100-chargers, quran-74-cloaked, quran-21-heedless-and-doomed-towns]
     matches: []
@@ -438,96 +512,96 @@ reviewed:
     matches:
       - with: quran-20-adam-iblis
         motif: counsel-about-the-food-of-immortality
-        refs: ['Adapa MB –:33''', 'Adapa MB –:34''', 'Adapa MB –:37''']
-        with_refs: ['20:120']
+        refs: ["Adapa MB –:33'", "Adapa MB –:34'", "Adapa MB –:37'"]
+        with_refs: ["20:120"]
         relation: divergence
         record:
-          agent: [Ea, al-shayṭān]
-          action: [advises the human about the food, advises the human about the food]
-          recipient: [Adapa, Ādam]
-          name: [food of death, tree of immortality]
-          quoted: [akala ša mūti ukallūnikkum-ma lā takkal, hal adulluka ʿalā shajarati l-khuldi wa-mulkin lā yablā]
-          outcome: [do not eat, eat]
-        note: 'Ea calls the food Adapa will be offered ''food of death'' (akala ša mūti) and says lā takkal ''do not eat''; Satan calls the forbidden tree shajarat al-khuld, ''the tree of immortality'', and urges eating. Mirror image: in Adapa the life-giving food is misnamed as death by the friendly god; in 20:120 the forbidden tree is misnamed as immortality by the enemy.'
+          agent: ["Ea", "al-shayṭān"]
+          action: ["advises the human about the food", "advises the human about the food"]
+          recipient: ["Adapa", "Ādam"]
+          name: ["food of death", "tree of immortality"]
+          quoted: ["akala ša mūti ukallūnikkum-ma lā takkal", "hal adulluka ʿalā shajarati l-khuldi wa-mulkin lā yablā"]
+          outcome: ["do not eat", "eat"]
+        note: "Ea calls the food Adapa will be offered 'food of death' (akala ša mūti) and says lā takkal 'do not eat'; Satan calls the forbidden tree shajarat al-khuld, 'the tree of immortality', and urges eating. Mirror image: in Adapa the life-giving food is misnamed as death by the friendly god; in 20:120 the forbidden tree is misnamed as immortality by the enemy."
       - with: quran-7-adam-iblis
         motif: counsel-about-the-food-of-immortality
-        refs: ['Adapa MB –:33''', 'Adapa MB –:34''', 'Adapa MB –:37''', 'Adapa MB –:38''']
-        with_refs: ['7:20', '7:21']
+        refs: ["Adapa MB –:33'", "Adapa MB –:34'", "Adapa MB –:37'", "Adapa MB –:38'"]
+        with_refs: ["7:20", "7:21"]
         relation: divergence
         record:
-          agent: [Ea, al-shayṭān]
-          action: [advises the human about the food, advises the human about the food]
-          recipient: [Adapa, Ādam and his wife]
-          name: [food of death, the tree that makes one immortal]
-          quoted: [ṭēma ša aškunūka lā temekki; akala ša mūti ... lā takkal, illā an takūnā malakayni aw takūnā mina l-khālidīn; innī lakumā la-mina n-nāṣiḥīn]
-          outcome: [do not eat, eat]
-        note: 'Both advisers present themselves as the trustworthy counsellor. Ea: ṭēma ša aškunūka lā temekki ''do not neglect the instruction I give you'', ''food of death, do not eat''. Satan swears innī lakumā la-mina n-nāṣiḥīn ''I am a sincere adviser to you'' and says the tree was forbidden only lest they become angels or among al-khālidīn. The advice runs in opposite directions.'
+          agent: ["Ea", "al-shayṭān"]
+          action: ["advises the human about the food", "advises the human about the food"]
+          recipient: ["Adapa", "Ādam and his wife"]
+          name: ["food of death", "the tree that makes one immortal"]
+          quoted: ["ṭēma ša aškunūka lā temekki; akala ša mūti ... lā takkal", "illā an takūnā malakayni aw takūnā mina l-khālidīn; innī lakumā la-mina n-nāṣiḥīn"]
+          outcome: ["do not eat", "eat"]
+        note: "Both advisers present themselves as the trustworthy counsellor. Ea: ṭēma ša aškunūka lā temekki 'do not neglect the instruction I give you', 'food of death, do not eat'. Satan swears innī lakumā la-mina n-nāṣiḥīn 'I am a sincere adviser to you' and says the tree was forbidden only lest they become angels or among al-khālidīn. The advice runs in opposite directions."
   - unit: ane-adapa-mb-b-before-anu
     checked: [quran-20-adam-iblis, quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-39-death-and-sleep, quran-7-adam-iblis]
     matches:
       - with: quran-20-adam-iblis
         motif: counsel-about-the-food-of-immortality
-        refs: ['Adapa MB –:68''', 'Adapa MB –:69''', 'Adapa MB –:70''', 'Adapa MB –:76''']
-        with_refs: ['20:120', '20:121']
+        refs: ["Adapa MB –:68'", "Adapa MB –:69'", "Adapa MB –:70'", "Adapa MB –:76'"]
+        with_refs: ["20:120", "20:121"]
         relation: divergence
         record:
-          agent: [Adapa, Ādam and his wife]
-          action: [does not eat the offered food, eats from the tree]
-          object: [food and water of life, tree of immortality]
-          quoted: [akal balāṭi ilqûniššum-ma ul īkul, fa-akalā minhā]
-          outcome: [loses eternal life, their nakedness appears and Adam disobeys]
-        note: 'Adapa is brought akal balāṭi ''food of life'' and mê balāṭi ''water of life'' and does not eat or drink, because ''Ea my lord told me: you must not eat'' (lā takkal). Adam and his wife eat (fa-akalā minhā) from what Satan called shajarat al-khuld, against God''s command. The life-food is refused out of obedience to the adviser; the ''immortality'' tree is eaten out of obedience to the adviser.'
+          agent: ["Adapa", "Ādam and his wife"]
+          action: ["does not eat the offered food", "eats from the tree"]
+          object: ["food and water of life", "tree of immortality"]
+          quoted: ["akal balāṭi ilqûniššum-ma ul īkul", "fa-akalā minhā"]
+          outcome: ["loses eternal life", "their nakedness appears and Adam disobeys"]
+        note: "Adapa is brought akal balāṭi 'food of life' and mê balāṭi 'water of life' and does not eat or drink, because 'Ea my lord told me: you must not eat' (lā takkal). Adam and his wife eat (fa-akalā minhā) from what Satan called shajarat al-khuld, against God's command. The life-food is refused out of obedience to the adviser; the 'immortality' tree is eaten out of obedience to the adviser."
       - with: quran-20-adam-iblis
         motif: human-sent-down-from-heaven-to-earth
-        refs: ['Adapa MB –:77''']
-        with_refs: ['20:123']
+        refs: ["Adapa MB –:77'"]
+        with_refs: ["20:123"]
         relation: parallel
         record:
-          agent: [Anu, God]
-          action: [orders the human sent down, orders the human sent down]
-          place: [to his earth, from the garden]
-          quoted: [liqâšū-ma terrāšu ana qaqqarīšu, ihbiṭā minhā jamīʿan]
-          outcome: [returned to earth, go down from it]
-        note: 'After the food episode the high god dismisses the human back down: Anu ''take him and return him to his earth'' (terrāšu ana qaqqarīšu; reading partly restored); God ''go down from it, both of you'' (ihbiṭā minhā).'
+          agent: ["Anu", "God"]
+          action: ["orders the human sent down", "orders the human sent down"]
+          place: ["to his earth", "from the garden"]
+          quoted: ["liqâšū-ma terrāšu ana qaqqarīšu", "ihbiṭā minhā jamīʿan"]
+          outcome: ["returned to earth", "go down from it"]
+        note: "After the food episode the high god dismisses the human back down: Anu 'take him and return him to his earth' (terrāšu ana qaqqarīšu; reading partly restored); God 'go down from it, both of you' (ihbiṭā minhā)."
       - with: quran-7-adam-iblis
         motif: garment-given-or-stripped-in-the-divine-realm
-        refs: ['Adapa MB –:71''', 'Adapa MB –:72''']
-        with_refs: ['7:20', '7:22']
+        refs: ["Adapa MB –:71'", "Adapa MB –:72'"]
+        with_refs: ["7:20", "7:22"]
         relation: divergence
         record:
-          agent: [Anu's attendants, al-shayṭān]
-          action: [give the human a garment, causes their covering to fall away]
-          recipient: [Adapa, Ādam and his wife]
-          quoted: [lubāra ilqûniššum-ma ittalbaš; šamna ilqûniššum-ma ittapšiš, li-yubdiya lahumā mā wūriya ʿanhumā min sawʾātihimā; wa-ṭafiqā yakhṣifāni ʿalayhimā min waraqi l-janna]
-          outcome: [clothed and anointed, naked and sewing leaves]
-        note: 'In the same scene as the food, Adapa accepts a garment (lubāru, ittalbaš) and oil from heaven. In 7:20-22 the eating strips the pair: their sawʾāt appear and they sew leaves of the garden over themselves.'
+          agent: ["Anu's attendants", "al-shayṭān"]
+          action: ["give the human a garment", "causes their covering to fall away"]
+          recipient: ["Adapa", "Ādam and his wife"]
+          quoted: ["lubāra ilqûniššum-ma ittalbaš; šamna ilqûniššum-ma ittapšiš", "li-yubdiya lahumā mā wūriya ʿanhumā min sawʾātihimā; wa-ṭafiqā yakhṣifāni ʿalayhimā min waraqi l-janna"]
+          outcome: ["clothed and anointed", "naked and sewing leaves"]
+        note: "In the same scene as the food, Adapa accepts a garment (lubāru, ittalbaš) and oil from heaven. In 7:20-22 the eating strips the pair: their sawʾāt appear and they sew leaves of the garden over themselves."
       - with: quran-20-adam-iblis
         motif: human-holds-fast-to-or-forgets-the-instruction
-        refs: ['Adapa MB –:76''']
-        with_refs: ['20:115']
+        refs: ["Adapa MB –:76'"]
+        with_refs: ["20:115"]
         relation: divergence
         record:
-          agent: [Adapa, Ādam]
-          action: [keeps the instruction, forgets the covenant]
-          recipient: [Ea's instruction, God's covenant]
-          quoted: [ea bēlī iqbâ lā takkal lā tašatti, wa-la-qad ʿahidnā ilā ādama min qablu fa-nasiya wa-lam najid lahu ʿazmā]
-          outcome: [does not eat, eats]
-        note: 'Adapa remembers and cites the instruction ''Ea my lord told me: you must not eat, you must not drink'' (cf. MB 37''-38'' lū ṣabtāta ''hold fast''); Adam ''forgot'' the covenant (fa-nasiya) and ''we found no resolve in him''.'
+          agent: ["Adapa", "Ādam"]
+          action: ["keeps the instruction", "forgets the covenant"]
+          recipient: ["Ea's instruction", "God's covenant"]
+          quoted: ["ea bēlī iqbâ lā takkal lā tašatti", "wa-la-qad ʿahidnā ilā ādama min qablu fa-nasiya wa-lam najid lahu ʿazmā"]
+          outcome: ["does not eat", "eats"]
+        note: "Adapa remembers and cites the instruction 'Ea my lord told me: you must not eat, you must not drink' (cf. MB 37'-38' lū ṣabtāta 'hold fast'); Adam 'forgot' the covenant (fa-nasiya) and 'we found no resolve in him'."
   - unit: ane-adapa-sb-a-sage
     checked: [quran-18-moses-and-the-servant, quran-11-opening-throne-on-water, quran-68-qalam-shin-and-jonah, quran-2-adam-iblis]
     matches:
       - with: quran-2-adam-iblis
         motif: wisdom-without-eternal-life
-        refs: ['Adapa SB –:a+3', 'Adapa SB –:a+4', 'Adapa SB –:a+6']
-        with_refs: ['2:31', '2:33']
+        refs: ["Adapa SB –:a+3", "Adapa SB –:a+4", "Adapa SB –:a+6"]
+        with_refs: ["2:31", "2:33"]
         relation: divergence
         record:
-          agent: [Ea, God]
-          action: [gives the human wisdom, teaches the human all the names]
-          recipient: [Adapa, Ādam]
-          quoted: [ana šuātu nēmeqa iddiššu napišta dārīta ul iddiššu, wa-ʿallama ādama l-asmāʾa kullahā]
-          outcome: [eternal life withheld, Adam's knowledge exceeds the angels']
-        note: Ea perfects Adapa in wisdom (uzna rapašta ušaklilšu) 'to him he gave wisdom, eternal life he did not give'; God 'taught Adam the names, all of them' and displays it to the angels. The Quran's teaching of Adam says nothing of eternal life; immortality appears only as Satan's false promise (20:120, 7:20).
+          agent: ["Ea", "God"]
+          action: ["gives the human wisdom", "teaches the human all the names"]
+          recipient: ["Adapa", "Ādam"]
+          quoted: ["ana šuātu nēmeqa iddiššu napišta dārīta ul iddiššu", "wa-ʿallama ādama l-asmāʾa kullahā"]
+          outcome: ["eternal life withheld", "Adam's knowledge exceeds the angels'"]
+        note: "Ea perfects Adapa in wisdom (uzna rapašta ušaklilšu) 'to him he gave wisdom, eternal life he did not give'; God 'taught Adam the names, all of them' and displays it to the angels. The Quran's teaching of Adam says nothing of eternal life; immortality appears only as Satan's false promise (20:120, 7:20)."
   - unit: ane-adapa-sb-b-summons
     checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-29-emigrate-and-trust, quran-35-originator]
     matches: []
@@ -536,31 +610,31 @@ reviewed:
     matches:
       - with: quran-2-adam-iblis
         motif: human-sent-down-from-heaven-to-earth
-        refs: ['Adapa SB –:e+1', 'Adapa SB –:e+12', 'Adapa SB –:e+14']
-        with_refs: ['2:36']
+        refs: ["Adapa SB –:e+1", "Adapa SB –:e+12", "Adapa SB –:e+14"]
+        with_refs: ["2:36"]
         relation: divergence
         record:
-          agent: [Adapa, Ādam and his wife]
-          action: [refuses the water of life, slips from the garden through Satan]
-          name: [zēr amīlūti (seed of humankind), Ādam]
-          quoted: [mê balāṭi iqbīšum-ma šū lā išti; adapa zēr amīlūti, fa-azallahumā sh-shayṭānu ʿanhā ... wa-qulnā hbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīn]
-          outcome: [a lordly destiny on earth instead of eternal life, a dwelling and provision on earth for a time]
-        note: Adapa 'the seed of humankind' (zēr amīlūti) refuses the water of life and receives from Anu a destiny on earth (bēlūssu ... išīm); Adam is made to slip and is told 'go down; on earth you have a dwelling and enjoyment for a time' (fī l-arḍi mustaqarr wa-matāʿ ilā ḥīn). Restorations in SB e+1 are the editor's.
+          agent: ["Adapa", "Ādam and his wife"]
+          action: ["refuses the water of life", "slips from the garden through Satan"]
+          name: ["zēr amīlūti (seed of humankind)", "Ādam"]
+          quoted: ["mê balāṭi iqbīšum-ma šū lā išti; adapa zēr amīlūti", "fa-azallahumā sh-shayṭānu ʿanhā ... wa-qulnā hbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīn"]
+          outcome: ["a lordly destiny on earth instead of eternal life", "a dwelling and provision on earth for a time"]
+        note: "Adapa 'the seed of humankind' (zēr amīlūti) refuses the water of life and receives from Anu a destiny on earth (bēlūssu ... išīm); Adam is made to slip and is told 'go down; on earth you have a dwelling and enjoyment for a time' (fī l-arḍi mustaqarr wa-matāʿ ilā ḥīn). Restorations in SB e+1 are the editor's."
   - unit: ane-advprince-a-king-and-justice
     checked: [quran-38-david-ewe-parable, quran-9-uzayr-clergy, quran-2-fasting, quran-3-sovereignty]
     matches:
       - with: quran-2-fasting
         motif: payment-to-the-judge
-        refs: ['AdvPrince SB –:8', 'AdvPrince SB –:9']
-        with_refs: ['2:188']
+        refs: ["AdvPrince SB –:8", "AdvPrince SB –:9"]
+        with_refs: ["2:188"]
         relation: parallel
         record:
-          agent: [the king as judge, those who bring wealth to the judges]
-          action: [takes a gift from the litigants and denies them justice, offer wealth to the judges to consume others' property]
-          recipient: [citizens of Nippur, al-ḥukkām]
-          quoted: [kadrâ ilqē-ma idāssunūti, wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm]
-          outcome: [Enlil raises a foreign enemy against him, forbidden as sin]
-        note: 'Both name money passing to the one who judges a case: the king ''takes the gift (kadrû) and denies them'' justice; 2:188 forbids ''letting it down to the judges'' (tudlū bihā ilā l-ḥukkām). The Akkadian addresses the judge who takes it, the Quran the litigant who gives it.'
+          agent: ["the king as judge", "those who bring wealth to the judges"]
+          action: ["takes a gift from the litigants and denies them justice", "offer wealth to the judges to consume others' property"]
+          recipient: ["citizens of Nippur", "al-ḥukkām"]
+          quoted: ["kadrâ ilqē-ma idāssunūti", "wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm"]
+          outcome: ["Enlil raises a foreign enemy against him", "forbidden as sin"]
+        note: "Both name money passing to the one who judges a case: the king 'takes the gift (kadrû) and denies them' justice; 2:188 forbids 'letting it down to the judges' (tudlū bihā ilā l-ḥukkām). The Akkadian addresses the judge who takes it, the Quran the litigant who gives it."
   - unit: ane-advprince-b-privileged-cities
     checked: [quran-9-hunayn-jizya, quran-2-talut-jalut, quran-7-moses-pharaoh]
     matches: []
@@ -569,27 +643,27 @@ reviewed:
     matches:
       - with: quran-14-parables-and-satans-speech
         motif: works-carried-off-by-the-wind
-        refs: ['AdvPrince SB –:44', 'AdvPrince SB –:46']
-        with_refs: ['14:18']
+        refs: ["AdvPrince SB –:44", "AdvPrince SB –:46"]
+        with_refs: ["14:18"]
         relation: echo
         record:
-          agent: [the corrupt official, those who disbelieve in their Lord]
-          object: [their works, their works]
-          instrument: [wind, wind on a stormy day]
-          quoted: [arkassunu šāru itabbal epšessunu zāqīqiš immanni, aʿmāluhum ka-ramādin ishtaddat bihi r-rīḥu fī yawmin ʿāṣif]
-          outcome: [reckoned as a puff of air, they have power over nothing they earned]
-        note: 'The wrongdoer''s works (epšētu / aʿmāl) are blown to nothing by wind: ''the wind will carry away their remains, their achievements will be reckoned as a puff of air (zāqīqiš)'' against ''their works are like ashes on which the wind blows hard on a stormy day''. In Advice to a Prince the sentence falls on an official who extorts bribes; in 14:18 on those who disbelieve.'
+          agent: ["the corrupt official", "those who disbelieve in their Lord"]
+          object: ["their works", "their works"]
+          instrument: ["wind", "wind on a stormy day"]
+          quoted: ["arkassunu šāru itabbal epšessunu zāqīqiš immanni", "aʿmāluhum ka-ramādin ishtaddat bihi r-rīḥu fī yawmin ʿāṣif"]
+          outcome: ["reckoned as a puff of air", "they have power over nothing they earned"]
+        note: "The wrongdoer's works (epšētu / aʿmāl) are blown to nothing by wind: 'the wind will carry away their remains, their achievements will be reckoned as a puff of air (zāqīqiš)' against 'their works are like ashes on which the wind blows hard on a stormy day'. In Advice to a Prince the sentence falls on an official who extorts bribes; in 14:18 on those who disbelieve."
       - with: quran-25-hell-and-the-day-of-angels
         motif: works-carried-off-by-the-wind
-        refs: ['AdvPrince SB –:46']
-        with_refs: ['25:23']
+        refs: ["AdvPrince SB –:46"]
+        with_refs: ["25:23"]
         relation: echo
         record:
-          agent: [Ea (by his command), God]
-          object: [their works, the work they did]
-          quoted: [epšessunu zāqīqiš immanni, fa-jaʿalnāhu habāʾan manthūrā]
-          outcome: [reckoned as a puff of air, made into scattered dust]
-        note: epšētu 'achievements' counted zāqīqiš 'as wind, a breath' against ʿamal made habāʾan manthūran 'scattered motes'. 25:23 is at the judgment; the Akkadian is a this-worldly curse.
+          agent: ["Ea (by his command)", "God"]
+          object: ["their works", "the work they did"]
+          quoted: ["epšessunu zāqīqiš immanni", "fa-jaʿalnāhu habāʾan manthūrā"]
+          outcome: ["reckoned as a puff of air", "made into scattered dust"]
+        note: "epšētu 'achievements' counted zāqīqiš 'as wind, a breath' against ʿamal made habāʾan manthūran 'scattered motes'. 25:23 is at the judgment; the Akkadian is a this-worldly curse."
   - unit: ane-angim-sb-line
     checked: [quran-33-zayd-seal-of-prophets, quran-20-taha-prologue, quran-40-call-on-me]
     matches: []
