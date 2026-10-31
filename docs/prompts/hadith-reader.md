@@ -42,7 +42,7 @@ loses nothing. Its form:
 
 ```json
 {"siglum": "Jāmiʿ", "chunk": {N},
- "pages": [{"page_id": 4925, "printed_page": "7/ 470", "book": 47}],
+ "pages": [{"page_id": 4925, "printed_page": "7/ 470", "book": 47, "bullets": 5}],
  "sections": [{"name": "47", "title": "كتاب أخبار الأنبياء", "lines": [
    {"n": "4925.1", "printed_page": "7/ 470", "bab": "١ - باب ما جاء في أخبار آدم ﵇",
     "companion": "أبو هريرة", "matn": "<the report, copied exactly>",
@@ -50,8 +50,10 @@ loses nothing. Its form:
     "quran": ["62:9"]}]}]}
 ```
 
-- **`pages`:** every page you read, including pages with no hadith. `python3 tools/hadith.py check
-  {N}` checks that none is missing.
+- **`pages`:** every page you read, including pages with no hadith. For each, `bullets` is the number
+  of "•" that begin on that page. `python3 tools/hadith.py check {N}` checks that no page is missing
+  and that each page has exactly that many hadith saved. Every hadith of the book is saved, none
+  skipped.
 - **One line per hadith.** Each hadith in the book begins with "•". Its id is
   `<page_id>.<k>`: the page where the "•" stands, and k counting the "•" on that page from 1. A hadith
   that runs onto the next page keeps the id of the page it began on.

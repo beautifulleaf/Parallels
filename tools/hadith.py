@@ -152,6 +152,16 @@ def check(n):
         errors.append(f"chunk {n}: pages outside the chunk recorded (e.g. {min(got - want)})")
     book_of = {p: b for b, a, z in plan()[n - 1] for p in range(a, z + 1)}
     seen = set()
+    per_page = {}
+    for s in doc.get("sections") or []:
+        for line in s["lines"]:
+            per_page[str(line.get("n", "")).split(".")[0]] = per_page.get(str(line.get("n", "")).split(".")[0], 0) + 1
+    for p in doc.get("pages") or []:      # every hadith the book marks with "•" is a line
+        if "bullets" not in p:
+            errors.append(f"page {p['page_id']}: no 'bullets' count")
+        elif p["bullets"] != per_page.get(str(p["page_id"]), 0):
+            errors.append(f"page {p['page_id']}: {p['bullets']} hadith marked with • but "
+                          f"{per_page.get(str(p['page_id']), 0)} saved")
     for s in doc.get("sections") or []:
         for line in s["lines"]:
             nid = str(line.get("n", ""))
