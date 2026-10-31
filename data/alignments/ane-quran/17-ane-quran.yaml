@@ -3,6 +3,12 @@ new_motifs:
   evil-spirit-wished-far-away: {label: "An evil spirit attached to a person is wished away to a vast, measured distance", cluster: demons}
   sacrificial-bovine-of-one-colour-without-spot: {label: "A bovine for a rite must be of one colour with no spot of another colour, sound in body", cluster: ritual}
   bovine-for-a-rite-never-worked: {label: "A bovine chosen for a rite has never been put to work (never struck with stick or whip, never yoked to plough or water)", cluster: ritual}
+  lunar-eclipse-as-portent: {label: "An eclipse of the moon as a portent of disaster before which people seek escape or protection", cluster: cosmos}
+  deity-holds-every-creature-by-the-head: {label: "The deity holds all living beings by a hold on the head (nose-rope, forelock), as a herder leads animals", cluster: deity}
+  personal-god-forsakes-the-sufferer: {label: "Whether the speaker's own god has forsaken him", cluster: deity}
+  heavenly-tablet-kept-or-stolen: {label: "A single heavenly tablet holding supreme decrees, and whether it is guarded or can be stolen", cluster: revelation}
+  heavy-charge-offered-in-turn-and-refused: {label: "A heavy charge is offered to three who refuse it in fear, and a fourth takes it on", cluster: deity}
+  wind-brings-good-tidings: {label: "The wind carries good tidings (Akkadian busrātu, Arabic bushrā)", cluster: nature}
 reviewed:
   - unit: ane-gkab-p348833-o-ii-enemy-turned-back
     checked: [quran-112-114-unity-and-refuge, quran-3-sovereignty, quran-74-cloaked]
@@ -27,7 +33,7 @@ reviewed:
         record:
           agent: [the patient, the man with a devil companion]
           action: [wishes the evil away from his body, wishes the devil companion away from himself]
-          object: [all evil (ghost, epilepsy, anything evil), "his qarīn, a shayṭān"]
+          object: ["all evil: ghost, epilepsy, anything evil", "his qarīn, a shayṭān"]
           number: ["3,600 leagues (šār bēr)", "the distance of the two easts"]
           quoted: ["lībir nāra libbalkit šadâ lissi šār bēr ina zumrīya", "yā layta baynī wa-baynaka buʿda l-mashriqayn"]
           outcome: [the foot of evil is cut off (šēp lemutti parsat), the wish is vain on the day he comes to God]
@@ -87,4 +93,237 @@ reviewed:
     matches: []
   - unit: ane-gkab-p363272-kettledrum-commentary
     checked: [quran-85-constellations, quran-25-furqan-and-objections, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p363273-bronze-drum
+    checked: [quran-28-call-at-the-tree, quran-17-night-journey-and-israel, quran-3-misers-mockers]
+    matches: []
+  - unit: ane-gkab-p363274-temple-renovation
+    checked: [quran-22-abraham-house-pilgrimage, quran-55-rahman-judgment-and-the-four-gardens, quran-88-overwhelming]
+    matches: []
+  - unit: ane-gkab-p363277-goddess-list
+    checked: [quran-22-communities-prostration-hell-paradise, quran-27-solomon-ants-hoopoe-sheba, quran-4-satan-vows-share]
+    matches: []
+  - unit: ane-gkab-p363278-new-year-fragment
+    checked: [quran-7-moses-pharaoh, quran-22-abraham-house-pilgrimage, quran-5-ablution-covenant-justice]
+    matches: []
+  - unit: ane-gkab-p363407-o-eclipse-lament
+    checked: [quran-75-resurrection, quran-89-dawn, quran-22-abraham-house-pilgrimage, quran-79-pharaoh-and-cosmos]
+    matches:
+      - with: quran-75-resurrection
+        motif: lunar-eclipse-as-portent
+        refs: ["GKAB P363407 o:14'", "GKAB P363407 o:21'-22'"]
+        with_refs: ["75:8", "75:10", "75:11"]
+        relation: divergence
+        record:
+          object: [the moon (Sîn) eclipsed, the moon eclipsed]
+          action: [people cover their heads and lament until the moon is bright again, man asks where to flee]
+          quoted: ["ana sîn ina antalî ... adi antalû unammaru", "wa-khasafa l-qamar ... ayna l-mafarr ... kallā lā wazar"]
+          outcome: ["prayer that the eclipse's evil not come near Uruk (ai iṭḫû)", no refuge]
+        note: "The eclipse of the moon as a portent of disaster before which people seek protection. Akkadian an-na-a ša a-na {d}30 ina AN.GE₆ iz-za-mi-ir, with laments and the brazier 'until the eclipse clears' (a-di AN.GE₆ u-nam-mar), mourners with covered heads, and the refrain that confinement, murder, rebellion and the eclipse not come near Uruk. Arabic wa-khasafa l-qamar among the signs of the Day; man says ayna l-mafarr, answered kallā lā wazar. A recurring, ritually averted omen in Uruk; a single final sign with no averting in 75:8-11."
+  - unit: ane-gkab-p363407-r-eclipse-drums
+    checked: [quran-81-folding-up, quran-74-cloaked, quran-54-qamar-moon-split-and-noah]
+    matches: []
+  - unit: ane-gkab-p363507-priest-consecration
+    checked: [quran-83-defrauders, quran-68-qalam-shin-and-jonah, quran-20-moses-call]
+    matches: []
+  - unit: ane-gkab-p363508-shurpu-7
+    checked: [quran-2-the-cow, quran-17-polemic-and-resurrection, quran-22-signs-and-rites, quran-17-iblis-and-adam]
+    matches: []
+  - unit: ane-gkab-p363509-o-mushshuu-5
+    checked: [quran-16-daughters-and-the-bee, quran-40-throne-bearers, quran-112-114-unity-and-refuge]
+    matches: []
+  - unit: ane-gkab-p363509-r-mushshuu-5
+    checked: [quran-3-annunciation-jesus, quran-40-throne-bearers, quran-81-folding-up, quran-79-pharaoh-and-cosmos]
+    matches: []
+  - unit: ane-gkab-p363523-lipshur-curse-contact
+    checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-89-dawn, quran-85-constellations]
+    matches: []
+  - unit: ane-gkab-p363524-lipshur-gods-months-days
+    checked: [quran-74-cloaked, quran-9-months-nasi, quran-22-signs-and-rites, quran-2-war-pilgrimage]
+    matches:
+      - with: quran-9-months-nasi
+        motif: divine-ordering-of-months
+        refs: ["GKAB P363524 o:27'-36'", "GKAB P363524 r:1-2"]
+        with_refs: ["9:36"]
+        relation: divergence
+        record:
+          number: [12 months, 12 months]
+          action: [each month is assigned to a god, the count of months is fixed with God]
+          name: [Nisannu of Anu and Enlil ... Addaru of the Seven, "ʿinda llāh, fī kitābi llāh"]
+          quoted: ["{iti}BARA₂.ZA₃.GAR lipšur ša anu ellil ... {iti}ŠE.KIN.KU₅ lipšur ša sebetti", "inna ʿiddata sh-shuhūri ʿinda llāhi thnā ʿashara shahran"]
+          outcome: [each month is asked to release the sufferer's guilt, four of the twelve are sacred]
+        note: "The year as exactly twelve named months, each standing under a divine owner: the Lipšur litany runs from Nisannu 'of Anu and Enlil' to Addaru 'of the Seven, the great gods', twelve lines with no intercalary month, each told lipšur 'may it release'; 9:36 inna ʿiddata sh-shuhūri ʿinda llāhi thnā ʿashara shahran fī kitābi llāhi yawma khalaqa s-samāwāti wa-l-arḍ minhā arbaʿatun ḥurum. Twelve months shared among twelve divine patrons, against twelve held by one God, with four set apart as sacred."
+  - unit: ane-gkab-p363525-lipshur-fragment
+    checked: [quran-2-debt-contract, quran-85-constellations, quran-24-penalties-and-lian]
+    matches: []
+  - unit: ane-gkab-p363541-namburbi-river
+    checked: [quran-54-qamar-moon-split-and-noah, quran-79-pharaoh-and-cosmos, quran-35-originator]
+    matches: []
+  - unit: ane-gkab-p363547-udug-hul-compendium
+    checked: [quran-84-splitting, quran-26-revelation-devils-poets, quran-82-cleaving]
+    matches: []
+  - unit: ane-gkab-p363571-grave-building
+    checked: [quran-88-overwhelming, quran-22-abraham-house-pilgrimage, quran-77-sent-forth]
+    matches: []
+  - unit: ane-gkab-p363572-mushshuu-5
+    checked: [quran-40-throne-bearers, quran-112-114-unity-and-refuge, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p363577-grave-ransom
+    checked: [quran-89-dawn, quran-79-pharaoh-and-cosmos, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-gkab-p363580-shuila-tashmetu
+    checked: [quran-23-lordship-arguments, quran-22-communities-prostration-hell-paradise, quran-21-against-other-gods]
+    matches: []
+  - unit: ane-gkab-p363581-shuila-ea
+    checked: [quran-13-signs-of-creation, quran-17-prayer-spirit-and-challenge, quran-11-opening-throne-on-water]
+    matches: []
+  - unit: ane-gkab-p363582-nisaba-reconciler
+    checked: [quran-9-bargain-abraham, quran-39-death-and-sleep, quran-43-zukhruf-jesus-and-paradise]
+    matches: []
+  - unit: ane-gkab-p363582-nisaba-ninlil
+    checked: [quran-13-signs-of-creation, quran-16-daughters-and-the-bee, quran-2-throne-verse]
+    matches: []
+  - unit: ane-gkab-p363582-ishtar-lady-of-cities
+    checked: [quran-17-polemic-and-resurrection, quran-3-sovereignty, quran-39-pure-religion, quran-11-hud]
+    matches:
+      - with: quran-11-hud
+        motif: deity-holds-every-creature-by-the-head
+        refs: ["GKAB P363582 o.i:60"]
+        with_refs: ["11:56"]
+        relation: divergence
+        record:
+          agent: [Ištar, God]
+          action: [holds them by a lead, holds them by a lead]
+          object: [the peoples (tenēšēti), every creature that moves (dābba)]
+          instrument: ["their nose-rope (ṣerretu), in her right hand", "its forelock (nāṣiya)"]
+          quoted: ["tenēšēti ṣerressunu tukallī imnuki", "mā min dābbatin illā huwa ākhidhun bi-nāṣiyatihā"]
+        note: "The deity holds all living beings as a herder holds animals, by a hold on the head: te-ne-še-ti ṣe-ra-su-nu tu-kal-li ZAG-ki 'your right hand holds the nose-rope of the peoples'; mā min dābbatin illā huwa ākhidhun bi-nāṣiyatihā 'there is no creature but he holds it by its forelock'. Nose-rope against forelock; the peoples against every creature; said to Ištar against said by Hūd of his Lord."
+  - unit: ane-gkab-p363582-tashmetu-1
+    checked: [quran-17-polemic-and-resurrection, quran-66-tahrim-wives-and-the-four-women, quran-3-sovereignty]
+    matches: []
+  - unit: ane-gkab-p363582-tashmetu-2
+    checked: [quran-66-tahrim-wives-and-the-four-women, quran-4-satan-vows-share, quran-16-daughters-and-the-bee]
+    matches: []
+  - unit: ane-gkab-p363582-nanaya
+    checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-66-tahrim-wives-and-the-four-women, quran-39-pure-religion]
+    matches: []
+  - unit: ane-gkab-p363593-shuila-catalogue
+    checked: [quran-19-prophets-remembered, quran-85-constellations, quran-13-messengers-and-mother-of-book]
+    matches: []
+  - unit: ane-gkab-p363614-enuma-elish-2
+    checked: [quran-44-dukhan-blessed-night-and-smoke, quran-8-badr-help, quran-17-prayer-spirit-and-challenge]
+    matches: []
+  - unit: ane-gkab-p363615-ludlul-hymn
+    checked: [quran-57-hadid-first-and-last-and-the-loan, quran-53-najm-goddesses-and-scrolls, quran-44-dukhan-blessed-night-and-smoke, quran-3-badr-uhud]
+    matches: []
+  - unit: ane-gkab-p363615-ludlul-sufferer
+    checked: [quran-93-94-forenoon-and-expansion, quran-37-hell-and-garden, quran-42-shura-signs-and-ethics]
+    matches:
+      - with: quran-93-94-forenoon-and-expansion
+        motif: personal-god-forsakes-the-sufferer
+        refs: ["GKAB P363615 o:43-44"]
+        with_refs: ["93:3"]
+        relation: divergence
+        record:
+          agent: ["my god, my goddess", your Lord]
+          action: [have forsaken me, has not forsaken you]
+          recipient: [the sufferer, the prophet]
+          quoted: ["iddanni ilī ... ipparku ištarī", "mā waddaʿaka rabbuka wa-mā qalā"]
+          outcome: [his protective spirits leave and his misfortunes begin, the later will be better than the first and he will be satisfied]
+        note: "The same statement about the speaker's own god, negated: Ludlul I 43-44 id-da-an-ni DINGIR-i₁₄ ... ip-par-ku {d}iš-ta-ri 'my god has forsaken me, my goddess has gone off'; 93:3 mā waddaʿaka rabbuka wa-mā qalā 'your Lord has not taken leave of you, nor does he hate you'. In Ludlul the abandonment opens the sufferer's catalogue of ruin; in 93 its denial opens a list of past care (93:6-8)."
+  - unit: ane-gkab-p363712-anu-dais-of-destinies
+    checked: [quran-79-pharaoh-and-cosmos, quran-5-jesus-miracles-table, quran-25-signs-shadow-seas]
+    matches: []
+  - unit: ane-gkab-p363713-nocturnal-fire
+    checked: [quran-22-abraham-house-pilgrimage, quran-25-signs-shadow-seas, quran-22-communities-prostration-hell-paradise]
+    matches: []
+  - unit: ane-gkab-p363714-ishtar-akitu
+    checked: [quran-22-abraham-house-pilgrimage, quran-79-pharaoh-and-cosmos, quran-5-jesus-miracles-table]
+    matches: []
+  - unit: ane-gkab-p363722-namburbi-chariot
+    checked: [quran-40-throne-bearers, quran-70-ascending-stairways, quran-74-cloaked]
+    matches: []
+  - unit: ane-gkab-p369109-akitu-procession
+    checked: [quran-25-signs-shadow-seas, quran-3-sovereignty, quran-2-throne-verse]
+    matches: []
+  - unit: ane-gkab-q002769-anzu-prologue
+    checked: [quran-9-bargain-abraham, quran-9-closing, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-gkab-q002769-anzu-born-theft
+    checked: [quran-11-opening-throne-on-water, quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-85-constellations]
+    matches:
+      - with: quran-85-constellations
+        motif: heavenly-tablet-kept-or-stolen
+        refs: ["GKAB Q002769 64", "GKAB Q002769 68", "GKAB Q002769 73", "GKAB Q002769 78-79"]
+        with_refs: ["85:22"]
+        relation: divergence
+        record:
+          object: [the Tablet of Destinies, the tablet]
+          place: [the door of Enlil's inner sanctuary, null]
+          name: [ṭuppi šīmāti, lawḥ maḥfūẓ]
+          quoted: ["lulqē-ma ṭuppi šīmāti ilī anāku", "fī lawḥin maḥfūẓ"]
+          outcome: [Anzu steals it while Enlil bathes, it is guarded]
+        note: "A single heavenly tablet on which supreme decrees stand. Anzu, set by Enlil to guard the door of the sanctuary (ne₂-reb ki-iṣ-ṣi ... i-qip-šu {d}EN.LIL₂), says lul-qe₂-e-ma DUB NAM-MEŠ DINGIR-MEŠ a-na-ku 'I will take the Tablet of Destinies of the gods' and seizes it while Enlil bathes. In 85:21-22 the Quran is fī lawḥin maḥfūẓ, 'in a guarded tablet'. The tablet that can be stolen through its own guardian against one that is guarded."
+  - unit: ane-gkab-q002769-anzu-gods-refuse
+    checked: [quran-17-polemic-and-resurrection, quran-23-lordship-arguments, quran-15-prologue-and-heavens, quran-33-hour-and-trust]
+    matches:
+      - with: quran-33-hour-and-trust
+        motif: heavy-charge-offered-in-turn-and-refused
+        refs: ["GKAB Q002769 104-114", "GKAB Q002769 125-135", "GKAB Q002769 146-156"]
+        with_refs: ["33:72"]
+        relation: divergence
+        record:
+          action: [refuse the charge one after another, refuse the charge together]
+          agent: ["Adad, Girra, Šara", "the heavens, the earth, the mountains"]
+          number: [3, 3]
+          quoted: ["ipsil urḫa lā alāka iqbi", "fa-abayna an yaḥmilnahā wa-ashfaqna minhā"]
+          outcome: [Ninurta takes it on and wins a great name, man bears it and is called ẓalūm jahūl]
+        note: "A burdensome charge is offered to three in turn, refused by each out of fear, and taken on by a fourth. Anzu I: Adad, Girra and Šara, offered the fight with Anzu and a great name, each answer that none can face him and 'refused the road, said he would not go' (ipsil urḫa lā alāka iqbi); Ea then finds Ninurta. 33:72 innā ʿaraḍnā l-amānata ʿalā s-samāwāti wa-l-arḍi wa-l-jibāli fa-abayna an yaḥmilnahā wa-ashfaqna minhā wa-ḥamalahā l-insān. Three gods against heaven, earth and mountains; a warrior god praised against man rebuked as 'very unjust, very ignorant'."
+  - unit: ane-gkab-q002769-anzu-ea-mami
+    checked: [quran-53-najm-goddesses-and-scrolls, quran-57-hadid-first-and-last-and-the-loan, quran-17-polemic-and-resurrection]
+    matches: []
+  - unit: ane-gkab-q002770-mothers-orders
+    checked: [quran-8-badr-help, quran-25-signs-shadow-seas, quran-73-enwrapped]
+    matches:
+      - with: quran-25-signs-shadow-seas
+        motif: wind-brings-good-tidings
+        refs: ["GKAB Q002770 18-19"]
+        with_refs: ["25:48"]
+        relation: echo
+        record:
+          agent: [the wind, the winds]
+          action: [carries good news, are sent as good news]
+          object: [the slain Anzu's feathers, "his mercy (rain, 25:48)"]
+          recipient: [Enlil at Ekur, null]
+          quoted: ["šāru kappīšu ana busrāti liblūni", "arsala r-riyāḥa bushran bayna yaday raḥmatih"]
+        note: "The wind as carrier of good news, with the cognate noun: Akkadian ša₂-a-ru kap-pi-šu ana bu-us-ra-a-ti lib-lu-u-ni 'let the wind bring its feathers as good tidings' to Enlil; Arabic arsala r-riyāḥa bushran bayna yaday raḥmatih. busrātu and bushrā share the root b-s/sh-r. In Anzu the wind brings the token of a victory, in 25:48 it announces rain."
+  - unit: ane-gkab-q002770-first-battle
+    checked: [quran-13-signs-of-creation, quran-8-badr-help, quran-35-originator]
+    matches: []
+  - unit: ane-gkab-q002770-ea-advice
+    checked: [quran-84-splitting, quran-17-prayer-spirit-and-challenge, quran-85-constellations]
+    matches: []
+  - unit: ane-gkab-q002771-anzu-slain
+    checked: [quran-27-is-there-a-god-with-god, quran-35-originator, quran-3-sovereignty]
+    matches:
+      - with: quran-27-is-there-a-god-with-god
+        motif: wind-brings-good-tidings
+        refs: ["GKAB Q002771 22-24"]
+        with_refs: ["27:63"]
+        relation: echo
+        record:
+          agent: [the wind, the winds]
+          action: [carries good news, are sent as good news]
+          object: [Anzu's feathers, his mercy]
+          quoted: ["ana ittī ša busrātīšu kappī anzî ubil šāru", "yursilu r-riyāḥa bushran bayna yaday raḥmatih"]
+          outcome: [Dagan sees the sign and rejoices, "'Is there a god with God?'"]
+        note: "The order is carried out: a-na it-ti ša₂ bu-us-ra-ti-šu₂ kap-pi an-zi-i u₂-bil ša₂-a-ru 'as a sign of his good news the wind carried Anzu's feathers', and Dagan rejoices; 27:63 wa-man yursilu r-riyāḥa bushran bayna yaday raḥmatihi a-ilāhun maʿa llāh. The same cognate busrātu / bushrā carried by the wind."
+  - unit: ane-gkab-q002771-birdu-mission
+    checked: [quran-9-closing, quran-40-throne-bearers, quran-17-prayer-spirit-and-challenge]
+    matches: []
+  - unit: ane-gkab-q002771-names-of-ninurta
+    checked: [quran-59-hashr-hypocrites-and-the-names, quran-2-throne-verse, quran-17-polemic-and-resurrection, quran-23-lordship-arguments]
+    matches: []
+  - unit: ane-gkab-x900000-fragment
+    checked: [quran-5-contracts-food-laws, quran-4-prayer-intoxication-purity, quran-2-closing]
     matches: []

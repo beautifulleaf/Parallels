@@ -1,0 +1,432 @@
+# ANE x Quran side-by-side pass, chunk 19 (Amarna letters). Judged blind, from the originals.
+new_motifs:
+  who-gives-life-and-death:
+    label: "Who is said to give life and cause death, in speech to or about a king [neutral]"
+    cluster: kingship
+  root-hnp-word:
+    label: "A word of the root ḥ-n-p (Canaanite ḥanpa 'impious deed', Arabic ḥanīf) applied to a deed or a person [neutral]"
+    cluster: lexicon
+  outrage-without-precedent:
+    label: "An outrage is denounced as a deed never done before (from of old, or by anyone in the worlds)"
+    cluster: ethics
+reviewed:
+- unit: ane-ea-311-charioteer
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-097-yapah-addu
+  checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-68-qalam-the-pen-and-the-slanderer, quran-89-dawn]
+  matches: []
+- unit: ane-ea-231-sun-from-heaven
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-2-talut-jalut]
+  matches: []
+- unit: ane-ea-285-abdi-heba
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-26-hud-ad, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-ea-308-sun-from-heaven
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-249-baal-ursag
+  checked: [quran-5-holy-land-refusal, quran-43-zukhruf-pharaoh-claims, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-ea-217-dog-who-would-not-listen
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-300-yapahu-gezer
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-3-sovereignty, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-ea-214-man-of-guilt
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-2-talut-jalut]
+  matches: []
+- unit: ane-ea-193-tiwate
+  checked: [quran-2-talut-jalut, quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-334-zuhra
+  checked: [quran-23-believers-succeed, quran-20-moses-pharaoh-magicians, quran-27-solomon-ants-hoopoe-sheba]
+  matches: []
+- unit: ane-ea-226-shipturiza
+  checked: [quran-2-talut-jalut, quran-48-fath-clear-victory-and-pledge, quran-23-believers-succeed]
+  matches: []
+- unit: ane-ea-182-shuttarna
+  checked: [quran-79-pharaoh-and-cosmos, quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-335-lachish-hostile
+  checked: [quran-7-idol-request, quran-48-fath-clear-victory-and-pledge, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-ea-200-ahlamu
+  checked: [quran-38-sad-opening, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-181-fragment
+  checked: [quran-10-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-130-rib-addi-dogs
+  checked: [quran-59-hashr-banu-nadir-and-fay, quran-7-moses-pharaoh, quran-8-ratio-captives]
+  matches: []
+- unit: ane-ea-122-rib-addi-pahura
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-28-qarun, quran-89-dawn, quran-7-lot]
+  matches:
+  - with: quran-7-lot
+    motif: outrage-without-precedent
+    refs: ["EA 122 r:31-44"]
+    with_refs: ["7:80"]
+    relation: echo
+    record:
+      agent: ["Puḫuru", "Lūṭ's people"]
+      action: ["did a great deed (sent Suteans who killed the Sherden)", "commit the fāḥisha"]
+      quoted: ["ipšu ša lā apiš ištu dārīti apiš ana yâšinu", "a-taʾtūna l-fāḥishata mā sabaqakum bihā min aḥadin mina l-ʿālamīn"]
+    note: "Rib-Addi: Puḫuru 'did a great deed (ipša raba)': he let Suteans kill the Sherden; 'a deed that was not done from of old (ištu dārīti) has been done to us' (EA 122 r:31-44). Lūṭ in 7:80: 'do you commit the outrage in which no one in the worlds preceded you?' The same complaint that the crime has no precedent; the crimes differ (a murder of guards, sexual)."
+- unit: ane-ea-085-rib-addi-grain
+  checked: [quran-59-hashr-banu-nadir-and-fay, quran-7-moses-pharaoh, quran-28-qarun]
+  matches: []
+- unit: ane-ea-089-tyre
+  checked: [quran-28-qarun, quran-26-hud-ad, quran-11-lot]
+  matches: []
+- unit: ane-ea-105-rib-addi-sumur-bird
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-29-destroyed-nations, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-109-rib-addi-dogs
+  checked: [quran-8-ratio-captives, quran-8-fifth-and-badr-vision, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-115-sumur-fragment
+  checked: [quran-8-ratio-captives, quran-48-fath-clear-victory-and-pledge, quran-9-hunayn-jizya]
+  matches: []
+- unit: ane-ea-111-akko-water
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-2-talut-jalut]
+  matches: []
+- unit: ane-ea-071-to-haya
+  checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-084-rib-addi-bedchamber
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-ea-079-rib-addi-amanappa
+  checked: [quran-8-ratio-captives, quran-8-fifth-and-badr-vision, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-077-to-amanappa
+  checked: [quran-26-hud-ad, quran-11-shuayb, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-120-inventory
+  checked: [quran-52-tur-oaths-and-judgment, quran-3-abraham-people-of-book, quran-9-alms-recipients]
+  matches: []
+- unit: ane-ea-129-rib-addi-dogs-lies
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-68-qalam-the-pen-and-the-slanderer, quran-8-ratio-captives]
+  matches: []
+- unit: ane-ea-140-byblos-maid
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-29-destroyed-nations, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-232-surata-akko
+  checked: [quran-26-moses-and-pharaoh, quran-20-taha-prologue, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-234-satatna-akko
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-286-abdi-heba-slander
+  checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-49-hujurat-etiquette-and-brotherhood]
+  matches:
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: slander-as-eating-the-victim
+    refs: ["EA 286 o:5-8"]
+    with_refs: ["49:12"]
+    relation: echo
+    record:
+      agent: ["the slanderers", "one who backbites"]
+      action: ["eat the victim (slander)", "eats the flesh of his dead brother (backbites)"]
+      object: ["Abdi-Heba's pieces", "his brother's flesh"]
+      quoted: ["ikkalū karṣīya ušāru ina pāni šarri", "wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan"]
+    note: "Abdi-Heba: 'what have I done to the king my lord? they eat my pieces (i-ka-lu ka-ar-ṣi-ya), I am slandered before the king' (EA 286 o:5-7). Q 49:12 forbids backbiting (lā yaghtab) and pictures it as eating 'the flesh of his dead brother' (laḥma akhīhi maytan). The Akkadian idiom akālu karṣī ('eat the pieces' = slander, Aramaic ʾăkal qarṣîn) is made into an explicit image of eating a corpse."
+- unit: ane-ea-288-abdi-heba-name
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-7-moses-pharaoh, quran-2-talut-jalut, quran-26-moses-and-pharaoh, quran-3-abraham-people-of-book]
+  matches:
+  - with: quran-26-moses-and-pharaoh
+    motif: who-holds-sunrise-and-sunset
+    refs: ["EA 288 o:5-7"]
+    with_refs: ["26:28"]
+    relation: divergence
+    record:
+      agent: ["the king of Egypt", "the Lord of Mūsā"]
+      action: ["has placed his name at the sunrise and the sunset", "is named Lord of the east and the west to Pharaoh"]
+      place: ["the rising and the setting of the sun", "the east and the west and what is between"]
+      quoted: ["šakan šumšu ana mūṣi šamši u erbi šamši", "rabbu l-mashriqi wa-l-maghribi wa-mā baynahumā"]
+    note: "Abdi-Heba to Pharaoh: 'the king my lord has placed his name at the rising of the sun and the setting of the sun' (EA 288 o:5-7). Before Pharaoh in 26:28 Mūsā answers 'what is the Lord of the worlds?' with 'the Lord of the east and the west and what is between them'. The sunrise-sunset dominion that the vassal ascribes to Pharaoh is claimed for Mūsā's Lord to Pharaoh's face."
+  - with: quran-3-abraham-people-of-book
+    motif: root-hnp-word
+    refs: ["EA 288 o:7-8"]
+    with_refs: ["3:67"]
+    relation: divergence
+    record:
+      object: ["the deed done against Abdi-Heba", "Ibrāhīm"]
+      name: ["ḫanpa (Canaanite)", "ḥanīf"]
+      quoted: ["ḫa-an-pa ša iḫ-nu-pu a-na muḫ-ḫi-ia", "wa-lākin kāna ḥanīfan musliman"]
+      outcome: ["condemned as impious", "praised as upright"]
+    note: "EA 288 o:7-8: ḫanpa ša iḫnupū ana muḫḫiya, 'the impious deed (ḥanpa) that they did (ḥanapū) against me', a Canaanite word (cf. Hebrew ḥānēp 'godless') in Abdi-Heba's Akkadian. Q 3:67: 'Ibrāhīm was neither Jew nor Christian but a ḥanīf, a muslim, not of the mushrikūn'. Same root, opposite value: the Canaanite noun names impiety, the Quranic adjective the pure worship of one God."
+- unit: ane-ea-287-abdi-heba-jerusalem
+  checked: [quran-7-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-289-abdi-heba-shechem
+  checked: [quran-5-holy-land-refusal, quran-48-fath-clear-victory-and-pledge, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-290-abdi-heba-archers
+  checked: [quran-26-hud-ad, quran-18-dhul-qarnayn, quran-29-destroyed-nations]
+  matches: []
+- unit: ane-ea-279-shuwardata-archers
+  checked: [quran-79-pharaoh-and-cosmos, quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-211-zitri-yarah-sun-from-heaven
+  checked: [quran-20-taha-prologue, quran-39-mercy-and-last-day, quran-85-constellations]
+  matches: []
+- unit: ane-ea-246-biridiya-sons-of-labaya
+  checked: [quran-29-destroyed-nations, quran-3-badr-uhud, quran-7-hud-ad]
+  matches: []
+- unit: ane-ea-295-baal-shipti-sidon
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-ea-159-aziru-like-baal-and-sun
+  checked: [quran-3-sovereignty, quran-7-idol-request, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-168-aziru-arrives-in-peace
+  checked: [quran-28-qarun, quran-48-fath-clear-victory-and-pledge, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-169-son-of-aziru
+  checked: [quran-2-abraham-king, quran-48-fath-clear-victory-and-pledge, quran-28-qarun, quran-8-fifth-and-badr-vision]
+  matches:
+  - with: quran-2-abraham-king
+    motif: who-gives-life-and-death
+    refs: ["EA 169 o:7-11"]
+    with_refs: ["2:258"]
+    relation: divergence
+    record:
+      agent: ["a vassal", "the king who disputed with Ibrāhīm"]
+      action: ["says 'you give life and you cause death'", "says 'I give life and cause death'"]
+      recipient: ["the king of Egypt", "Ibrāhīm"]
+      quoted: ["attā tuballaṭanni u attā tušmītanni", "anā uḥyī wa-umītu"]
+      outcome: ["the vassal pleads for help", "the king is confounded (fa-buhita)"]
+    note: "The same two-verb formula, life then death (Akkadian balāṭu Š / mâtu Š; Arabic aḥyā / amāta). In EA the vassal ascribes it to his overlord ('attā tuballaṭanni u attā tušmītanni'); in 2:258 the king claims it for himself ('anā uḥyī wa-umītu') against Ibrāhīm's 'my Lord is he who gives life and causes death' (rabbiya lladhī yuḥyī wa-yumītu), and is silenced by the sun challenge. Who holds life and death, and who says so, is what changes."
+- unit: ane-ea-090-rib-addi-bird-in-cage
+  checked: [quran-8-ratio-captives, quran-59-hashr-banu-nadir-and-fay, quran-29-destroyed-nations, quran-2-wine-marriage]
+  matches:
+  - with: quran-2-wine-marriage
+    motif: woman-and-ploughed-field-likened
+    refs: ["EA 090 r:41-44"]
+    with_refs: ["2:223"]
+    relation: echo
+    record:
+      object: ["my field", "your wives"]
+      action: ["is likened to a wife without a husband", "are called a tilth"]
+      quoted: ["eqliya aššatu ša lā muti mašlat aššum balī erēši", "nisāʾukum ḥarthun lakum fa-ʾtū ḥarthakum annā shiʾtum"]
+    note: "Rib-Hadda: 'my field is like a woman without a husband, for lack of ploughing (balī erēši)' (EA 090 r:42-44). Q 2:223: 'your women are a tilth (ḥarth) for you, so come to your tilth as you will'. The same likeness of woman and ploughed field, run in opposite directions: the unploughed field is a husbandless wife; the wife is a field to be ploughed."
+- unit: ane-ea-093-rib-addi-to-amanappa
+  checked: [quran-8-ratio-captives, quran-36-people-of-the-town, quran-5-holy-land-refusal]
+  matches: []
+- unit: ane-ea-112-rib-addi-guard-yourself
+  checked: [quran-8-ratio-captives, quran-59-hashr-banu-nadir-and-fay, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-121-rib-addi-mayors-killed-like-dogs
+  checked: [quran-7-dog-parable, quran-8-fifth-and-badr-vision, quran-48-fath-clear-victory-and-pledge, quran-8-ratio-captives]
+  matches: []
+- unit: ane-ea-110-rib-addi-ships-of-canaan
+  checked: [quran-8-ratio-captives, quran-29-destroyed-nations, quran-8-fifth-and-badr-vision]
+  matches: []
+- unit: ane-ea-133-rib-addi-ten-kushites
+  checked: [quran-5-holy-land-refusal, quran-4-trusts-obedience, quran-7-shuayb-midian]
+  matches: []
+- unit: ane-ea-095-rib-addi-to-the-great-one
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-8-fifth-and-badr-vision, quran-7-shuayb-midian]
+  matches: []
+- unit: ane-ea-243-biridiya-guard-megiddo
+  checked: [quran-85-constellations, quran-44-dukhan-blessed-night-and-smoke, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-ea-242-biridiya-tribute
+  checked: [quran-28-qarun, quran-22-abraham-house-pilgrimage, quran-55-rahman-judgment-and-the-four-gardens]
+  matches: []
+- unit: ane-ea-321-yidya-ashkelon
+  checked: [quran-28-qarun, quran-79-pharaoh-and-cosmos, quran-39-mercy-and-last-day]
+  matches: []
+- unit: ane-ea-326-yidya-strong-hands
+  checked: [quran-3-sovereignty, quran-89-dawn, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-ea-329-zimreddi-lachish
+  checked: [quran-39-mercy-and-last-day, quran-79-pharaoh-and-cosmos, quran-28-qarun]
+  matches: []
+- unit: ane-ea-192-arzawya
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-79-pharaoh-and-cosmos, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-098-yapah-addi-to-yanhamu
+  checked: [quran-8-ratio-captives, quran-29-destroyed-nations, quran-18-dhul-qarnayn]
+  matches: []
+- unit: ane-ea-317-dagan-takala
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-28-qarun, quran-23-believers-succeed]
+  matches: []
+- unit: ane-ea-178-hibiya
+  checked: [quran-97-night-of-decree, quran-84-splitting, quran-44-dukhan-blessed-night-and-smoke]
+  matches: []
+- unit: ane-ea-241-rusmanya-footstool
+  checked: [quran-23-believers-succeed, quran-17-iblis-and-adam, quran-28-qarun]
+  matches: []
+- unit: ane-ea-337-hizziri-provisions
+  checked: [quran-10-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-062-abdi-ashirta-defence
+  checked: [quran-7-shuayb-midian, quran-29-destroyed-nations, quran-26-hud-ad]
+  matches: []
+- unit: ane-ea-275-yahzib-hadda
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-79-pharaoh-and-cosmos, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-222-yiktasu
+  checked: [quran-28-qarun, quran-22-abraham-house-pilgrimage, quran-55-rahman-judgment-and-the-four-gardens]
+  matches: []
+- unit: ane-ea-177-yamiuta
+  checked: [quran-17-iblis-and-adam, quran-28-qarun, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-065-abdi-ashtarti
+  checked: [quran-23-believers-succeed, quran-5-holy-land-refusal, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-ea-273-lady-of-lionesses
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-29-destroyed-nations, quran-89-dawn, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-ea-127-rib-addi-no-kushites
+  checked: [quran-26-hud-ad, quran-11-shuayb, quran-68-qalam-the-pen-and-the-slanderer]
+  matches: []
+- unit: ane-ea-263-house-plundered
+  checked: [quran-5-holy-land-refusal, quran-8-ratio-captives, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-229-abdi-na
+  checked: [quran-89-dawn, quran-43-zukhruf-pharaoh-claims, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-ea-048-balm-for-the-lady
+  checked: [quran-62-jumua-unlettered-donkey-and-friday, quran-85-constellations, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-ea-045-ammistamru-hatti
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-047-ugarit-messengers
+  checked: [quran-10-moses-pharaoh, quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-046-ugarit-fathers
+  checked: [quran-10-moses-pharaoh, quran-6-abraham-heavenly-bodies, quran-2-abraham-kaaba]
+  matches: []
+- unit: ane-ea-145-zimreddi-breath-of-the-king
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-40-throne-bearers, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-ea-218-ruler-maya
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-265-tagi-gifts
+  checked: [quran-22-abraham-house-pilgrimage, quran-62-jumua-unlettered-donkey-and-friday, quran-5-oaths-wine-game]
+  matches: []
+- unit: ane-ea-310-fragment
+  checked: [quran-10-opening-creation, quran-41-steadfast-and-repel-evil, quran-36-cosmic-signs]
+  matches: []
+- unit: ane-ea-208-puhuru
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-2-talut-jalut, quran-69-haqqa-books-in-right-and-left-hands]
+  matches: []
+- unit: ane-ea-237-cities-taken
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-5-holy-land-refusal, quran-7-idol-request]
+  matches: []
+- unit: ane-ea-066-fragment
+  checked: [quran-8-ratio-captives, quran-26-hud-ad, quran-36-people-of-the-town]
+  matches: []
+- unit: ane-ea-179-tubihu-brother
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-194-biryawaza
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-23-believers-succeed, quran-2-talut-jalut]
+  matches: []
+- unit: ane-ea-276-yahzib-hadda
+  checked: [quran-39-mercy-and-last-day, quran-79-pharaoh-and-cosmos, quran-28-qarun]
+  matches: []
+- unit: ane-ea-336-hizziri
+  checked: [quran-8-badr-help, quran-20-judgment-day, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-080-rib-addi-you-give-life
+  checked: [quran-8-ratio-captives, quran-8-fifth-and-badr-vision, quran-36-people-of-the-town]
+  matches: []
+- unit: ane-ea-072-rib-addi-alone
+  checked: [quran-8-ratio-captives, quran-43-zukhruf-pharaoh-claims, quran-5-holy-land-refusal]
+  matches: []
+- unit: ane-ea-291-fragment
+  checked: [quran-38-solomon-horses-throne, quran-8-ratio-captives, quran-43-zukhruf-pharaoh-claims]
+  matches: []
+- unit: ane-ea-056-akizzi-etakkama
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-5-holy-land-refusal, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-257-baal-mehir-yoke
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-2-talut-jalut, quran-20-moses-call]
+  matches: []
+- unit: ane-ea-058-tehu-teshub
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-5-holy-land-refusal]
+  matches: []
+- unit: ane-ea-154-abi-milki-water-and-wood
+  checked: [quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-152-abi-milki-maidservant-city
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-ea-219-gold-cups
+  checked: [quran-8-ratio-captives, quran-28-qarun, quran-48-fath-clear-victory-and-pledge]
+  matches: []
+- unit: ane-ea-319-surashar-who-is-the-dog
+  checked: [quran-20-taha-prologue, quran-3-sovereignty, quran-43-zukhruf-jesus-and-paradise]
+  matches: []
+- unit: ane-ea-171-aziru-loves-servitude
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-26-moses-and-pharaoh]
+  matches: []
+- unit: ane-ea-186-mayarzana-habiru-raids
+  checked: [quran-26-hud-ad, quran-29-destroyed-nations, quran-44-dukhan-blessed-night-and-smoke]
+  matches: []
+- unit: ane-ea-185-mayarzana-second-letter
+  checked: [quran-29-destroyed-nations, quran-26-hud-ad, quran-59-hashr-banu-nadir-and-fay]
+  matches: []
+- unit: ane-ea-057-akizzi-tunip
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-10-moses-pharaoh]
+  matches: []
+- unit: ane-ea-281-shuwardata-these-dogs
+  checked: [quran-68-qalam-the-pen-and-the-slanderer, quran-48-fath-clear-victory-and-pledge, quran-17-iblis-and-adam, quran-28-pharaohs-tower-and-end, quran-79-pharaoh-and-cosmos]
+  matches:
+  - with: quran-28-pharaohs-tower-and-end
+    motif: egyptian-king-as-god-of-his-subjects
+    refs: ["EA 281 o:1-3"]
+    with_refs: ["28:38"]
+    relation: echo
+    record:
+      agent: ["Šuwardata, a vassal", "Pharaoh"]
+      action: ["addresses the king of Egypt as his gods", "says he knows no god for his nobles but himself"]
+      name: ["ilāniya u Šamšiya u šāriya", "ilāhin ghayrī"]
+      quoted: ["ana šarri bēliya ilāniya u Šamšiya u šāriya", "mā ʿalimtu lakum min ilāhin ghayrī"]
+    note: "Šuwardata writes 'to the king my lord, my gods (DINGIR.MEŠ-nu-ia), my Sun(s) and my breath' (EA 281 o:1-3). In 28:38 Pharaoh tells his council 'I know of no god (ilāh) for you other than me'. The divinity of the Egyptian king, offered by the subject in EA, is claimed by Pharaoh himself in the Quran."
+  - with: quran-79-pharaoh-and-cosmos
+    motif: egyptian-king-as-god-of-his-subjects
+    refs: ["EA 281 o:1-3"]
+    with_refs: ["79:24"]
+    relation: echo
+    record:
+      agent: ["Šuwardata, a vassal", "Pharaoh"]
+      action: ["addresses the king of Egypt as lord and gods", "proclaims himself their lord most high"]
+      name: ["bēliya ilāniya", "rabbukumu l-aʿlā"]
+      quoted: ["ana šarri bēliya ilāniya u Šamšiya", "anā rabbukumu l-aʿlā"]
+    note: "EA 281 o:1-3 'to the king my lord (bēliya), my gods (ilāniya), my Sun'; 79:24 Pharaoh gathers the people and proclaims 'I am your lord most high' (anā rabbukumu l-aʿlā). Lord and god of his subjects: said to him in EA, said by him in Q, and punished in 79:25."
+- unit: ane-ea-238-bayadi-life-and-death
+  checked: [quran-2-abraham-king, quran-53-najm-goddesses-and-scrolls, quran-5-holy-land-refusal, quran-8-ratio-captives]
+  matches:
+  - with: quran-2-abraham-king
+    motif: who-gives-life-and-death
+    refs: ["EA 238 r:31-33"]
+    with_refs: ["2:258"]
+    relation: divergence
+    record:
+      agent: ["a vassal", "the king who disputed with Ibrāhīm"]
+      action: ["says 'you give life and you cause death'", "says 'I give life and cause death'"]
+      recipient: ["the Egyptian magnate(s)", "Ibrāhīm"]
+      quoted: ["attunu tušabliṭūnanu u attunu timitūnanu", "anā uḥyī wa-umītu"]
+      outcome: ["the vassal pleads for help", "the king is confounded (fa-buhita)"]
+    note: "The same two-verb formula, life then death (Akkadian balāṭu Š / mâtu Š; Arabic aḥyā / amāta). In EA the vassal ascribes it to his overlord ('attunu tušabliṭūnanu u attunu timitūnanu'); in 2:258 the king claims it for himself ('anā uḥyī wa-umītu') against Ibrāhīm's 'my Lord is he who gives life and causes death' (rabbiya lladhī yuḥyī wa-yumītu), and is silenced by the sun challenge. Who holds life and death, and who says so, is what changes."
+- unit: ane-ea-054-akizzi-hatti
+  checked: [quran-43-zukhruf-pharaoh-claims, quran-26-moses-and-pharaoh, quran-5-holy-land-refusal]
+  matches: []
+- unit: ane-ea-223-intaruta
+  checked: [quran-85-constellations, quran-39-mercy-and-last-day, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-ea-146-abi-milki-no-water
+  checked: [quran-29-destroyed-nations, quran-26-hud-ad, quran-89-dawn]
+  matches: []
+- unit: ane-ea-128-ili-rapih
+  checked: [quran-48-fath-clear-victory-and-pledge, quran-8-ratio-captives, quran-7-hud-ad]
+  matches: []
