@@ -104,6 +104,213 @@ new_motifs:
   demons-told-eat-cattle-not-humans: {label: "The plague demons are told: eat sheep and cattle, but do not eat a human being", cluster: demons}
   father-gods-and-ea-fed-in-houses: {label: "The great Sun god, the father-gods and Ea are invited to feed in the houses", cluster: ritual}
   door-anointed-evil-out-good-in: {label: "The door is shut and anointed with fine oil: 'May it lock the evil out and keep the good inside'", cluster: ritual}
+  agricultural-calendar-of-months: {label: "A calendar lists the months of the farming year by their work: ingathering, sowing, late planting, flax-hoeing, barley harvest, harvest, pruning, summer fruit", cluster: calendar}
+  anonymous-royal-work-no-king-named: {label: "A monumental building inscription names neither king nor god, only the work and the workmen", cluster: kingship}
+  ashtar-and-shagar-named: {label: "The deities Shagar and Ashtar are named together (cf. the 'issue' and 'young' of the flock)", cluster: gods}
+  astarte-name-of-baal: {label: "Astarte is called the 'Name of Baal'", cluster: gods}
+  balaam-son-of-beor-seer-of-gods: {label: "Balaam son of Beor is named in an extra-biblical text as 'a seer of the gods'", cluster: prophecy}
+  blessing-by-yhwh-formula: {label: "Blessing formula 'blessed be X by YHWH' (brk ... lyhwh)", cluster: blessing}
+  blessing-from-every-snare-and-evil: {label: "An amulet speaks of 'the blessing from every snare and from evil'", cluster: blessing}
+  body-brought-home-for-burial: {label: "The body of a king who died abroad is carried back by the overlord for burial", cluster: death}
+  burial-of-the-deity-festival: {label: "A dated festival day called 'the burial of the deity'", cluster: cult}
+  city-population-slaughtered-as-spectacle-for-god: {label: "A conquered city's whole population is slain as a 'satiation' or spectacle for the national god", cluster: war}
+  coalition-of-kings-besieges-city: {label: "A king is besieged by a coalition of many named kings with their armies, who raise a siege wall and dig a moat", cluster: war}
+  commander-goes-down-to-egypt: {label: "A Judahite army commander goes down to Egypt (seeking aid) in the last days of the kingdom", cluster: history}
+  conditional-curse-if-vassal-is-false: {label: "Treaty formula: 'if the vassal is false (šqr) to the overlord, his son or his offspring' followed by curses", cluster: treaty}
+  conqueror-spares-temple-of-yhw: {label: "A conqueror (Cambyses) destroys the temples of the local gods but leaves the temple of YHW untouched", cluster: cult}
+  council-of-shaddayin-decrees-darkness: {label: "The gods (Shaddayin) gather in assembly and order a goddess to close the heavens with cloud: darkness and no light forever", cluster: prophecy}
+  curse-hadad-pours-hail-and-locust: {label: "Treaty curse: the storm god pours hailstones on the land and for seven years locust and worm devour it", cluster: treaty}
+  curse-no-seed-under-sun-no-rest-with-rephaim: {label: "Tomb curse: may the violator have no seed among the living under the sun and no resting-place with the Rephaim", cluster: death}
+  curse-no-sound-of-lyre: {label: "Curse: may the sound of the lyre no longer be heard in the city, but outcry and wailing", cluster: treaty}
+  curse-on-heir-who-neglects-fathers-cult: {label: "Curse on the heir who does not sacrifice and invoke the dead king's name: may the god not accept his offering and withhold sleep from him", cluster: death}
+  curse-on-kin-murderer: {label: "Curse on any of the king's kin who plots or causes the death of a kinsman, by sword, violence or command", cluster: kingship}
+  curse-on-tomb-violator: {label: "Curse on any king, governor or man who opens, disturbs or moves the coffin and the dead in it", cluster: death}
+  curse-sceptre-stripped-throne-overturned: {label: "Tomb curse: may the violator's sceptre of rule be stripped, his royal throne overturned and peace flee from his city", cluster: death}
+  curse-wives-stripped-like-harlot: {label: "Simile curse: as a harlot is stripped, so may the oath-breaker's wives be stripped and struck on the face", cluster: treaty}
+  date-by-regnal-year-and-month: {label: "A text is dated by the king's regnal year and a named month", cluster: calendar}
+  date-of-issue-written-on-ostracon: {label: "The official is told to write down the date of each issue of supplies", cluster: administration}
+  day-and-sea-dried: {label: "A fragmentary text speaks of the sea drying up", cluster: cosmology}
+  deaf-hear-from-afar: {label: "In a prophetic vision the deaf hear from afar (a reversal of the order)", cluster: prophecy}
+  deeds-of-hands-written-on-stele: {label: "The king sets up a stele before his god and writes on it the deeds of his hands", cluster: kingship}
+  deity-heard-my-voice: {label: "The king called on his deity and the deity heard his voice and did good to him", cluster: prayer}
+  deity-makes-king: {label: "A deity made the king king (hmlk-): 'the god made me king'", cluster: kingship}
+  deity-paired-ashtar-chemosh: {label: "A double-named deity, Ashtar-Chemosh, receives the devoted city", cluster: gods}
+  deity-requests-sanctuary-from-king: {label: "A goddess asks a king for a sanctuary, and he builds it", cluster: cult}
+  demon-barred-from-house-i-enter: {label: "Incantation: 'The house I enter you shall not enter, the court I tread you shall not tread'", cluster: magic}
+  demon-vanishes-at-sunrise: {label: "The night demon is told to vanish like a moth when the sun rises", cluster: magic}
+  deportees-resettled-in-conquered-town: {label: "The conqueror settles people of other places in a captured town", cluster: war}
+  deserted-house-no-man-there: {label: "Report that at a named house there is no one any more", cluster: history}
+  divine-warrior-on-day-of-battle: {label: "A god (Baal, El) is blessed or his name invoked on the day of battle", cluster: war}
+  divorce-by-declaring-hate: {label: "Divorce is effected by a spouse rising in the assembly and declaring 'I hate my husband/wife', paying the 'silver of hatred'", cluster: law}
+  do-not-listen-to-those-who-urge-tomb-robbing: {label: "The reader is warned not to listen to people who urge him to open the tomb", cluster: death}
+  doorpost-protected-by-incantation: {label: "An incantation bars the demon from the doorway and the doorpost (mzzt)", cluster: magic}
+  dowry-listed-with-values: {label: "A marriage contract lists the bride's goods (garment, mirror, sandals, oil) with their values in silver", cluster: law}
+  drinking-wine-and-hearing-discipline: {label: "In a vision people drink wine and are told to hear discipline (mûsār)", cluster: prophecy}
+  edom-threatens-judahite-negev: {label: "A Judahite military letter warns that Edom may come against a fort in the Negev", cluster: history}
+  el-and-elyon-paired: {label: "The gods El and Elyon are invoked as a pair", cluster: gods}
+  enemy-boast-reversed-by-god: {label: "The enemy king boasts he will oppress the land, but the king sees his downfall and the enemy perishes forever", cluster: war}
+  eternal-covenant-of-gods-protects-house: {label: "An incantation claims an eternal covenant made with the household by a high god and all the divine beings", cluster: magic}
+  eternal-house-of-the-dead: {label: "The dead is laid down 'for eternity' (the grave as eternal home)", cluster: death}
+  evil-eye-banished-by-incantation: {label: "Incantation: 'Flee, Eye!', driving the evil eye from the head of the sleeper", cluster: magic}
+  false-to-gods-of-treaty: {label: "Refrain: if the vassal does this, 'you will have been false to all the gods of the treaty written in this inscription'", cluster: treaty}
+  famine-and-ruin-under-usurper: {label: "Under a usurper prisons are full, cities ruined and grain dear", cluster: kingship}
+  famine-sword-and-deceit: {label: "A text lists pestilence, famine and sword with destruction, lies and deceit", cluster: prophecy}
+  father-lay-down-and-went-to-his-fathers: {label: "Death formula: 'my father lay down and went to his fathers'", cluster: death}
+  father-reigned-thirty-years: {label: "The king's father reigned thirty years before him", cluster: kingship}
+  favour-in-eyes-of-gods-and-people: {label: "Blessing that the deity grant the king favour in the eyes of the gods and of the people of the land", cluster: blessing}
+  fellow-workers-testify-for-innocence: {label: "A worker appeals to his fellow reapers, who will testify that he is innocent", cluster: law}
+  festival-purity-and-no-work: {label: "Festival instruction: be pure, take heed, do no work", cluster: cult}
+  fire-signals-watched-azekah-not-seen: {label: "A Judahite outpost watches for the fire-signals of Lachish because Azekah can no longer be seen", cluster: war}
+  flying-and-strangling-demons: {label: "Female demons called Fliers and Stranglers attack by night in the dark chamber", cluster: demons}
+  foreign-king-honours-phoenician-goddess: {label: "A non-Phoenician king dedicates a sanctuary to a Phoenician goddess in Phoenician", cluster: cult}
+  forty-years-of-subjection: {label: "A land is held by its enemies for forty years", cluster: history}
+  futility-curse-seven-daughters-seek-bread: {label: "Futility curse: seven daughters go looking for bread and find none (or do not conceive)", cluster: treaty}
+  futility-curse-suckle-and-not-be-satisfied: {label: "Futility curse: seven nurses suckle a child, seven mares a foal, seven cows a calf, seven ewes a lamb, and the young are not satisfied", cluster: treaty}
+  future-builder-must-keep-founders-name: {label: "Any future king who adds to the work must put the founder's name beside his own", cluster: kingship}
+  gadites-dwelt-in-land-of-old: {label: "The men of Gad are said to have lived in the land of Ataroth from of old", cluster: history}
+  girl-sold-for-sheep-man-for-garment: {label: "Image of misery: a young woman given for a sheep and a man for a garment", cluster: kingship}
+  god-answers-through-seers-and-diviners: {label: "The god answers the king's prayer through seers (ḥzyn) and diviners", cluster: prophecy}
+  god-commands-king-go-take-city: {label: "The national god tells the king 'Go, take city X' or 'Go down, fight against X', and he does", cluster: war}
+  god-gives-what-heart-asks: {label: "Whatever a man asks, the god gives him according to his heart", cluster: blessing}
+  god-goes-before-king-in-battle: {label: "The god 'went before' the king in his campaign", cluster: war}
+  god-rebukes-evil: {label: "God is called the helper and the rebuker of evil", cluster: blessing}
+  god-returns-land-in-kings-days: {label: "The god restored (returned) the lost land in the king's days", cluster: war}
+  god-saved-king-from-all-assailants: {label: "The god saved the king (or a man) from all his assailants and let him look in triumph on his enemies", cluster: kingship}
+  gods-come-to-seer-by-night: {label: "The gods come to a seer at night and speak to him", cluster: prophecy}
+  gods-enthroned-in-mighty-heavens: {label: "The king and queen set the deities (Astarte, Eshmun) in the 'mighty heavens' (or a district so named)", cluster: cult}
+  gods-guard-the-days-and-house: {label: "Blessing: may the gods guard the king's days and his house", cluster: blessing}
+  gods-of-heaven-and-earth-invoked: {label: "Curse formula invoking the gods of heaven and the gods of earth", cluster: treaty}
+  gods-of-samal-remember-king: {label: "The memorial is a 'remembrance' before the named gods of the kingdom and before men", cluster: kingship}
+  gods-prolong-days-of-just-king: {label: "Prayer that the gods (or the Lady) prolong the king's days and years over his city, for he is a just king", cluster: blessing}
+  gods-save-king-from-destruction-in-fathers-house: {label: "The gods of the land rescue the young king from the destruction in his father's house", cluster: kingship}
+  gods-send-devourers-snake-scorpion-bear-panther: {label: "Treaty curse: the gods send every devourer, the mouth of the snake, scorpion, bear, panther (lion), moth and louse", cluster: treaty}
+  gods-stood-with-king-gave-sceptre: {label: "The gods stood with the king and put the sceptre in his hand", cluster: kingship}
+  gods-told-open-your-eyes-to-see-treaty: {label: "The witnessing gods are told 'open your eyes to look on the treaty'", cluster: treaty}
+  handmaid-married-with-masters-consent: {label: "A man marries another man's handmaid by agreement with her master, who renounces claim on her", cluster: law}
+  height-of-rock-over-cutters: {label: "The thickness of rock over the tunnellers' heads is recorded (a hundred cubits)", cluster: building}
+  heir-must-remember-fathers-name-at-sacrifice: {label: "The heir who sacrifices to the god must invoke the dead father's name", cluster: death}
+  herem-whole-population-devoted-to-god: {label: "A conquered city's entire population (men, women, children) is slain because it was devoted (ḥrm) to the god", cluster: war}
+  high-place-built-for-national-god: {label: "The king builds a high place (bmh) for the national god in thanks for deliverance", cluster: cult}
+  holy-gods-deliver-violator-to-mighty-king: {label: "Curse: may the holy gods hand the violator over to a mighty king who will cut him off", cluster: death}
+  holy-one-over-the-land: {label: "A broken line speaks of holiness over the land", cluster: gods}
+  holy-place-dedicated-to-astarte: {label: "A holy place (ʾšr qdš) is made and given to Astarte", cluster: cult}
+  house-of-david-named: {label: "The dynasty of Judah is called 'the House of David' (bytdwd) in a foreign inscription", cluster: history}
+  house-of-yhwh-in-letter: {label: "A letter reports that a man stays in 'the house of YHWH'", cluster: cult}
+  humble-man-raised-by-god: {label: "The king calls himself a humble (or lowly) man whom the god saved and made king", cluster: kingship}
+  in-my-days-ate-and-drank: {label: "Prosperity formula: 'in my days the land ate and drank'", cluster: kingship}
+  incantation-matches-written-scroll: {label: "The speaker says his incantations correspond to the written scroll", cluster: magic}
+  jehu-rules-israel: {label: "Jehu is named as ruling over Israel", cluster: history}
+  jewish-garrison-at-elephantine: {label: "The Jewish military colony at Elephantine (Yeb) writes and receives letters as 'the Jewish garrison'", cluster: history}
+  jewish-temple-outside-jerusalem: {label: "Jews maintain a temple of YHW outside Jerusalem (at Elephantine), founded under the kings of Egypt", cluster: cult}
+  just-and-upright-king: {label: "The king calls himself 'a just king and an upright king' (mlk ṣdq wmlk yšr) before the gods", cluster: kingship}
+  king-as-father-mother-brother-to-subjects: {label: "The king says he was father, mother and brother to his people", cluster: kingship}
+  king-builds-altar-and-gold-door-for-goddess: {label: "The king makes a bronze altar, a gold doorway and a portico with pillars for the goddess", cluster: cult}
+  king-builds-highway-by-arnon: {label: "The king makes the highway by the Arnon", cluster: building}
+  king-builds-towns-and-reservoir: {label: "The king builds (rebuilds) towns and makes a reservoir in them", cluster: building}
+  king-builds-walls-gates-towers-palace: {label: "The king builds the city's walls, gates, towers and the royal palace", cluster: building}
+  king-died-young-orphan-son-of-widow: {label: "The dead king says he was snatched away before his time, of few days, an orphan, son of a widow", cluster: death}
+  king-makes-poor-rich: {label: "The king boasts that men who had never seen a sheep, an ox or linen became owners of flocks, herds, silver and gold in his days", cluster: kingship}
+  king-named-son-of-hazael: {label: "Ben-Hadad son of Hazael king of Aram is named", cluster: history}
+  king-of-israel-named-in-foreign-record: {label: "A king of Israel (Omri, Joram, Jehu) is named in a foreign royal inscription", cluster: history}
+  king-orders-cistern-in-every-house: {label: "There being no cistern in the city, the king orders every man to make a cistern in his house", cluster: building}
+  kingdom-consumed-like-fire: {label: "The king's house was among mighty kings and they 'ate' it as fire eats a beard or a hand", cluster: kingship}
+  kingdom-like-kingdom-of-sand: {label: "Curse: may his kingdom be like a kingdom of sand, a kingdom of a dream", cluster: treaty}
+  land-made-desolate-towns-ruined: {label: "The conqueror turns the enemy's towns into ruins and his land into desolation", cluster: war}
+  land-of-barley-wheat-garlic: {label: "The land is praised as a land of barley, wheat and garlic, field and vineyard", cluster: land}
+  leaven-sealed-away-during-festival: {label: "During the festival everything leavened is brought into the chambers and sealed away", cluster: cult}
+  letter-greeting-is-it-well-with-you: {label: "Letter opening asks 'Is it well with you?' (hšlm ʾt)", cluster: letter}
+  letter-greeting-yhwh-ask-welfare: {label: "Letter greeting: 'may YHWH ask after your welfare'", cluster: letter}
+  letter-greeting-yhwh-make-lord-hear-peace: {label: "Letter greeting: 'may YHWH let my lord hear news of peace (and good), now, this very day'", cluster: letter}
+  letter-opening-says-x-say-to-y: {label: "Letter opening: 'thus says X: say to Y'", cluster: letter}
+  letters-returned-to-sender: {label: "An officer reports he has returned the letters sent to him", cluster: letter}
+  lifted-hands-prayer-answered: {label: "The king lifts his hands to the god and the god answers him", cluster: prayer}
+  loyal-subjects-of-dibon: {label: "The king's home city is wholly obedient to him", cluster: kingship}
+  marriage-formula-she-my-wife-i-her-husband: {label: "Marriage formula: 'she is my wife and I am her husband from this day and forever'", cluster: law}
+  may-god-be-with-you: {label: "Blessing: 'may he (YHWH) be with my lord'", cluster: blessing}
+  may-yhwh-humble-whoever: {label: "A letter calls on YHWH to deal with (call to account) a matter or person", cluster: letter}
+  muskabim-and-baaririm-not-to-honour-each-other: {label: "Curse that two social classes of the kingdom (muškabim and baʿririm) shall not honour one another", cluster: kingship}
+  name-list-with-biblical-names: {label: "An ostracon lists persons whose names recur in biblical narratives of the same period", cluster: history}
+  national-god-angry-with-own-land-gives-it-to-enemy: {label: "The national god was angry with his own land, so a foreign king oppressed it for many days", cluster: kingship}
+  national-god-drives-out-enemy-king: {label: "The national god drives the enemy king out before the king", cluster: war}
+  night-march-battle-dawn-to-noon: {label: "The king marches by night and fights from dawn to noon", cluster: war}
+  no-excuse-i-am-bound-by-other-oath: {label: "The vassal must not excuse himself: 'I am a man under oath and cannot raise my hand'", cluster: treaty}
+  no-grass-no-green: {label: "Curse: may no grass come forth and no green be seen", cluster: treaty}
+  oath-as-yhwh-lives: {label: "Oath formula in a letter: 'as YHWH lives' (ḥy yhwh)", cluster: oath}
+  officer-insulted-by-charge-of-illiteracy: {label: "An officer protests that he was accused of not knowing how to read and swears no one ever read him a letter", cluster: letter}
+  orders-written-on-the-door: {label: "An officer writes his lord's orders 'on the door'", cluster: letter}
+  overlord-grants-territory-as-reward: {label: "The imperial overlord grants the vassal king cities or territory as reward for his service", cluster: kingship}
+  overlord-mourns-vassal-killed-on-campaign: {label: "The vassal king dies on his overlord's campaign; the overlord and his whole camp weep for him", cluster: death}
+  overthrown-house-lowest-made-highest: {label: "Curse: may the gods overturn the violator's house and make its lowest part its highest", cluster: treaty}
+  panther-and-destruction: {label: "A broken vision line names the panther and destruction", cluster: prophecy}
+  people-ask-why-do-you-weep: {label: "The seer's people ask why he fasts and weeps, and he tells them what the gods have done", cluster: prophecy}
+  persian-king-authorizes-jewish-festival: {label: "An order 'from the king' (Darius) regulates the Jewish festival of unleavened bread", cluster: cult}
+  poor-and-oppressed-named: {label: "A fragmentary text speaks of the poor, oppressed and needy", cluster: justice}
+  predecessors-achieved-nothing: {label: "The king lists his predecessors one by one, each of whom 'did nothing', and boasts that he did what they did not", cluster: kingship}
+  priest-king-of-sidon: {label: "The king of Sidon is also priest of Astarte", cluster: kingship}
+  prisoners-of-war-as-forced-labour: {label: "The king uses prisoners of war to cut the works for his city", cluster: war}
+  prophet-named-in-letters: {label: "An unnamed or partly named prophet (-yahu the prophet) appears in military letters", cluster: prophecy}
+  prophet-sends-warning-letter: {label: "A letter from a prophet reaches an official with the word 'Beware!'", cluster: prophecy}
+  provisions-sent-to-beersheba: {label: "Provisions (bread, dough) are sent on donkeys to a named fort", cluster: administration}
+  queen-mother-priestess-co-builder: {label: "The king's mother, priestess of Astarte, builds the temples together with him", cluster: cult}
+  rations-issued-to-kittim-mercenaries: {label: "A Judahite storekeeper is ordered to issue wine, flour and bread to the Kittim (foreign mercenaries)", cluster: administration}
+  redemption-is-in-him: {label: "Confession on an amulet: 'for in him is redemption; YHWH is our restorer and rock'", cluster: blessing}
+  royal-genealogy-three-generations: {label: "The king names himself, his father and his grandfather, kings of the same city", cluster: kingship}
+  royal-gift-from-egypt-dedicated-to-goddess: {label: "A king of Byblos dedicates an Egyptian royal statue to the Lady of Byblos", cluster: cult}
+  royal-inscription-first-person-i-am: {label: "Royal inscription opening 'I am X, son of Y, king of Z'", cluster: kingship}
+  royal-pair-builds-temples-of-sidon: {label: "The king and his mother build temples for Astarte, Eshmun and Baal of Sidon", cluster: cult}
+  sabbath-mentioned: {label: "A non-literary Hebrew text mentions the Sabbath (or a 'stopping')", cluster: cult}
+  sat-on-fathers-throne: {label: "The king sat on the throne of his father", cluster: kingship}
+  scribe-signs-text: {label: "A short text bears the name of its writer", cluster: writing}
+  sealed-with-official-seal: {label: "Supplies or a document are sealed with the official's seal", cluster: administration}
+  seer-rises-fasts-and-weeps: {label: "After the night vision the seer rises, cannot eat, fasts and weeps bitterly", cluster: prophecy}
+  seventy-kings-slain: {label: "The conqueror boasts that he killed seventy kings with thousands of chariots and horsemen", cluster: war}
+  sheep-of-the-land: {label: "The king brings the shepherds (nqdm) and sheep of the land to a town", cluster: land}
+  siege-laid: {label: "The conqueror lays siege to a city", cluster: war}
+  silver-amulet-with-scripture: {label: "A rolled silver amulet carries a scriptural blessing for the dead or the wearer", cluster: blessing}
+  simile-curse-calf-cut-in-two: {label: "Simile curse: 'as this calf is cut in two, so may the oath-breaker and his nobles be cut in two'", cluster: treaty}
+  simile-curse-man-of-wax-blinded: {label: "Simile curse: as a man of wax is blinded (or stripped), so may the oath-breaker be", cluster: treaty}
+  son-erects-memorial-for-father: {label: "A son erects a statue or stele as memorial for his dead father", cluster: death}
+  son-makes-fathers-coffin: {label: "A son makes the coffin for his father, the dead king", cluster: death}
+  soul-of-dead-king-eats-and-drinks-with-god: {label: "The heir who sacrifices is to say: 'may the soul (nbš) of the dead king eat and drink with the god'", cluster: death}
+  storm-god-harnesses-chariot-against-demon: {label: "In an incantation the storm god harnesses his chariot and goes out like fire against the demon", cluster: magic}
+  subordinate-urges-lord-to-write-reproof: {label: "A subordinate urges his lord to write a reproof: 'why are you doing this?'", cluster: letter}
+  surviving-spouse-inherits: {label: "Marriage contract: if either spouse dies childless the other inherits all the goods", cluster: law}
+  temple-servitor-of-yhh: {label: "A man is called servitor (lḥn) of YHH the God in Yeb the fortress", cluster: cult}
+  tents-of-israel: {label: "The phrase 'the tents of Israel'", cluster: history}
+  theophoric-yahu-names: {label: "Personal names compounded with the divine name -yahu / -yaw", cluster: names}
+  tiglath-pileser-named: {label: "Tiglath-pileser king of Assyria is named in a vassal inscription", cluster: history}
+  tomb-chamber-ownership-inscription: {label: "A tomb chamber is marked with the owner's name and patronymic", cluster: death}
+  tomb-holds-no-treasure: {label: "The tomb inscription declares there is no silver, gold or treasure in it, only the dead", cluster: death}
+  tomb-opening-abomination-to-goddess: {label: "Opening the tomb is 'an abomination of Astarte' (tʿbt)", cluster: death}
+  treaty-binds-descendants-and-whole-land: {label: "The treaty binds the kings, their sons, grandsons, offspring, nobles and whole lands", cluster: treaty}
+  treaty-cut-gzr: {label: "The treaty is 'cut' (gzr), the Aramaic counterpart of cutting a covenant", cluster: treaty}
+  treaty-extent-from-lebanon-to-yabrud: {label: "The treaty's territory is defined by named limits (from Lebanon to Yabrud, from Damascus to Aroer)", cluster: treaty}
+  treaty-sworn-before-gods-list: {label: "The treaty is concluded before a long list of named gods, paired, ending with heaven and earth, abyss and springs, day and night", cluster: treaty}
+  treaty-words-must-not-be-silenced: {label: "Not one of the words of the treaty inscription is to be silent (unfulfilled)", cluster: treaty}
+  treaty-written-for-remembrance-of-descendants: {label: "The treaty is written as a remembrance for the vassal's son and grandson who will rise after him", cluster: treaty}
+  troops-sent-to-reinforce-fort: {label: "Men are sent from forts to reinforce a threatened outpost", cluster: war}
+  tunnellers-dig-from-both-ends-and-meet: {label: "Two teams cut a tunnel from both ends; hearing each other's voices through the rock they meet axe against axe", cluster: building}
+  turning-good-into-evil: {label: "Curse on whoever 'turns the good into evil' in the inscription", cluster: treaty}
+  urgency-do-not-delay: {label: "A letter adds 'tomorrow; do not delay'", cluster: letter}
+  usurper-kills-seventy-kinsmen: {label: "A usurper kills the king and seventy of his kinsmen", cluster: kingship}
+  vassal-must-avenge-overlords-son: {label: "If anyone kills the overlord's son, the vassal must come and avenge his blood", cluster: treaty}
+  vassal-must-come-with-army: {label: "If an enemy attacks the overlord, the vassal must come with all his army", cluster: treaty}
+  vassal-must-give-bread-to-overlords-men: {label: "The vassal must give food to the overlord's men", cluster: treaty}
+  vassal-runs-at-wheel-of-overlord: {label: "The vassal king 'held fast to the wheel' of his overlord (ran beside his chariot)", cluster: kingship}
+  vessels-of-yhwh-dragged-before-enemy-god: {label: "The cult vessels of YHWH are taken from a conquered sanctuary and dragged before the victor's god", cluster: war}
+  whatever-i-asked-gods-gave: {label: "'Whatever I asked of my gods they gave me'", cluster: prayer}
+  wicked-counsel-to-destroy-kin: {label: "A kinsman counsels destruction to annihilate his kin", cluster: kingship}
+  wife-may-initiate-divorce: {label: "The wife, like the husband, may declare the divorce and leave with what she brought", cluster: law}
+  wise-and-righteous-king-holds-hem-of-overlord: {label: "By his wisdom and righteousness the vassal seizes the hem of his overlord", cluster: kingship}
+  wise-mocked-poor-woman-mixes-myrrh: {label: "In the vision of disorder the wise are mocked and a poor woman prepares myrrh like a priestess", cluster: prophecy}
+  witnesses-and-scribe-of-contract: {label: "A contract ends with its scribe's name and the names of its witnesses", cluster: law}
+  word-of-king-on-your-lives: {label: "A military order stresses 'the word of the king is upon you, upon your lives'", cluster: war}
+  worker-digs-dung-heap: {label: "A broken letter mentions work and digging at the dung-gate (or heap)", cluster: administration}
+  worker-petitions-official-for-seized-garment: {label: "A field labourer petitions the governor because an overseer took his garment though he finished his work", cluster: law}
+  world-reversed-birds-and-beasts: {label: "In a doom vision the animal world is reversed: the swift reproaches the eagle, hares eat grass where ewes were led", cluster: prophecy}
+  writing-letter-before-evening: {label: "An officer promises to send the letter before evening", cluster: letter}
+  yhwh-and-his-asherah: {label: "Blessing 'by YHWH ... and by his asherah' (lyhwh ... wlʾšrth)", cluster: gods}
+  yhwh-of-a-place-local-manifestation: {label: "YHWH is named by a place: YHWH of Samaria, YHWH of Teman", cluster: gods}
 units:
   - id: ane-cth-414-1-1-plaster-long-years
     tradition: ane-hittite
