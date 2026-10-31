@@ -1,0 +1,1137 @@
+# ANE x Quran side-by-side pass, chunk 22 (Baal Cycle KTU 1.5 VI-1.6 VI, KTU 1.7-1.13, Kirta 1.14-1.16, Aqhat 1.17-1.19, KTU 1.23, 1.24, 1.100; Instruction of Amenemope W1-W6; Great Hymn to the Aten; Book of the Dead 125). Judged blind, from the originals.
+new_motifs:
+  burned-then-scattered-on-the-yamm:
+    label: 'An enemy god or idol is burned with fire and its remains winnowed / scattered on the sea (Ug. bym, Ar. fī l-yamm)'
+    cluster: polemic
+  bodily-stature-and-fitness-for-kingship:
+    label: A candidate for kingship is judged by his bodily size or strength (too small for the throne; given increase of body)
+    cluster: kingship
+  wadis-or-rivers-of-honey:
+    label: Wadis or rivers that run with honey (nḫlm tlk nbtm / anhār min ʿasal)
+    cluster: nature
+  good-news-of-a-son-bsr:
+    label: 'Good news (root bšr) of a son born or to be born, brought to the father'
+    cluster: family
+  woman-gives-birth-alone-by-a-tree-in-the-wilderness:
+    label: A woman goes out (or is sent) to a remote place and gives birth there by a tree
+    cluster: family
+  seven-years-of-drought:
+    label: Seven years of drought or hardship in which the land yields nothing
+    cluster: nature
+  multitude-like-locusts:
+    label: A great multitude spread over the land is likened to locusts (irby / jarād)
+    cluster: nature
+  levy-of-the-blind-and-sick:
+    label: Whether the blind and the sick go out with the army (all must march / no blame on them)
+    cluster: war
+  conditional-vow-to-deity:
+    label: 'A man makes a conditional vow: if the deity grants him X, he will give silver, gold or alms'
+    cluster: ritual
+  broken-vow-punished:
+    label: The vow made to the deity is not kept, the deity takes note of the breach and the vower is punished
+    cluster: ritual
+  besieged-ruler-sends-gift-refused:
+    label: 'A threatened ruler sends envoys with a gift of wealth; the king refuses it: why would I want your silver?'
+    cluster: kingship
+  no-other-god-can-remove-the-sickness:
+    label: 'Rhetorical question: who besides (among the gods) can remove the sickness / the harm? None can'
+    cluster: deity
+  king-neglects-feeding-the-orphan:
+    label: 'Second-person accusation: you do not feed (honour) the orphan and the poor'
+    cluster: ethics
+  childless-man-pleads-for-a-son-like-his-kin:
+    label: A childless man pleads with the deity for a son to inherit from him and stand in his house, and is granted one
+    cluster: family
+  promised-son-dutiful-to-his-father:
+    label: The promised son is described by his duty to his father (holds his hand, serves him; barr bi-wālidayhi)
+    cluster: family
+  host-household-prepares-animal-for-divine-guest:
+    label: 'The host, seeing the divine visitor, has his household prepare an animal from the herd (lamb, calf) for the guest'
+    cluster: hospitality
+  divine-guest-eats-the-meal:
+    label: Whether the divine guest eats the meal prepared by the host
+    cluster: hospitality
+  offer-of-immortality-to-a-mortal:
+    label: A divine being offers a mortal deathlessness (blmt / khuld); the mortal sees through it or is deceived
+    cluster: death
+  killer-weeps-after-the-murder:
+    label: The killer weeps or laments after the murder
+    cluster: death
+  bird-and-burial-of-murdered-man:
+    label: A bird stands at the burial of a murdered man's remains (eagles that ate him are opened; a raven shows how to bury him)
+    cluster: death
+  bride-price-paid-to-whom:
+    label: To whom the bride-price is paid and in what (silver and gold to her father; service to her father; the gift to the woman herself)
+    cluster: law
+  return-good-for-evil-to-the-enemy:
+    label: The adversary is met with good (raise him, feed him), so that he is shamed or turned into a friend
+    cluster: ethics
+  good-tree-and-bad-tree-parable:
+    label: 'Parable of two trees: one uprooted / burned, the other firm and fruitful (sweet fruit, fruit in every season)'
+    cluster: wisdom
+  earth-swallows-the-wrongful-rich:
+    label: The earth opens and swallows ill-gotten riches or the wrongful rich man with his house
+    cluster: judgment
+  little-honestly-better-than-much-wrongly:
+    label: A little honestly gained is better than much by wrong, even if the abundance of the bad impresses
+    cluster: wisdom
+  sweet-speech-quarrelsome-heart:
+    label: A man whose speech is sweet (pleasing) but who is a quarreller and sows strife
+    cluster: ethics
+  slanderer-going-about-making-strife:
+    label: The man who goes about (comes and goes) with words, setting brothers / people against each other
+    cluster: ethics
+  heart-and-tongue-at-odds:
+    label: Saying with the tongue (mouth) what is not in the heart
+    cluster: ethics
+  remitting-a-poor-debtors-debt:
+    label: A creditor facing a debtor in hardship remits all or part of the debt
+    cluster: law
+  scribe-writes-with-justice:
+    label: The scribe who writes a debt or account must not cheat with his pen; he writes with justice
+    cluster: law
+  false-testimony-forbidden:
+    label: Do not bear false witness (mtr n mdw n ʿḏꜣ / shahādat al-zūr)
+    cluster: law
+  no-one-knows-tomorrow:
+    label: Man does not know what tomorrow will be / what he will earn tomorrow
+    cluster: wisdom
+  human-plan-for-tomorrow-and-gods-will:
+    label: What man says he will do is one thing, what God does another; do not say 'I will do it tomorrow' without God's will
+    cluster: wisdom
+  do-not-claim-to-be-sinless:
+    label: 'Do not say "I am without sin" / do not claim purity for yourselves; God knows'
+    cluster: ethics
+  bribe-to-the-judge:
+    label: A gift (bribe) from or to the powerful in court, to deprive another of his right
+    cluster: law
+  return-property-to-its-owners:
+    label: Command to hand over possessions / trusts to their owners, in a context of just judgment
+    cluster: ethics
+  confidence-divulged:
+    label: A word heard in confidence in a man's house is repeated outside / disclosed to another
+    cluster: ethics
+  god-raises-and-lowers-as-he-wills:
+    label: 'God tears down and builds up: makes men poor or overseers, gives and takes kingship, exalts and abases as he wills'
+    cluster: deity
+  human-is-clay-shaped-by-god:
+    label: Man is clay (and straw) shaped by God, said where a human is scorned
+    cluster: creation
+  god-prefers-the-poor-over-the-noble:
+    label: Attending to the noble (self-sufficient) over the poor man is rebuked; God loves him who honours the poor
+    cluster: ethics
+  god-set-up-the-balance-do-not-diminish-it:
+    label: The deity made or presides over the balance; do not tamper with it or make it short
+    cluster: law
+  father-instructs-his-son:
+    label: 'An instruction framed as a named father speaking to his son ("for his son" / "Luqmān said to his son")'
+    cluster: wisdom
+  birds-praise-with-their-wings:
+    label: Birds in flight, wings spread, praise the deity
+    cluster: nature
+  night-a-covering-sleep-like-death-day-a-rising:
+    label: 'Night covers the sleepers as a garment, the land as in death; the day is a rising (waking)'
+    cluster: nature
+  human-made-from-fluid-in-the-womb:
+    label: God makes the fluid (seed) in women into a human and forms the child in its mother's belly
+    cluster: creation
+  diversity-of-tongues-and-skins:
+    label: God made human tongues different in speech and their skins (colours) distinct
+    cluster: creation
+  god-provides-each-creature-and-knows-its-place:
+    label: God sets each creature in its place, supplies its sustenance and knows (reckons) its term or abode
+    cluster: creation
+  measure-and-balance-not-diminished:
+    label: 'Not diminishing the measure and not tampering with the weights of the balance, tied to a day of reckoning'
+    cluster: law
+  sworn-list-of-renounced-sins:
+    label: 'A list of renounced sins in fixed form: not stealing, not killing, not lying / slandering, not committing adultery'
+    cluster: law
+  no-eavesdropping-or-spying:
+    label: Denial / prohibition of eavesdropping or spying on others
+    cluster: ethics
+  bread-to-the-hungry-as-righteous-deed:
+    label: Giving food to the hungry (water, clothing, a ferry) as the deed that justifies before the judge
+    cluster: ethics
+  witness-against-the-dead-at-judgment:
+    label: Who witnesses against the dead at the judgment (no witness against me / their own limbs and skins)
+    cluster: judgment
+  balance-set-up-at-the-judgment:
+    label: A balance set upright / just balances set up for the judgment
+    cluster: judgment
+reviewed:
+- unit: ane-ktu-1-5-vi-el-mourns-baal
+  checked: [quran-79-pharaoh-and-cosmos, quran-23-death-barzakh-judgment, quran-36-trumpet-and-judgment]
+  matches: []
+- unit: ane-ktu-1-6-i-anat-buries-baal
+  checked: [quran-44-dukhan-zaqqum-and-garden, quran-16-daughters-and-the-bee, quran-22-abraham-house-pilgrimage]
+  matches: []
+- unit: ane-ktu-1-6-i-athtar-on-throne
+  checked: [quran-2-talut-jalut, quran-23-noah, quran-79-pharaoh-and-cosmos, quran-17-polemic-and-resurrection]
+  matches:
+  - with: quran-2-talut-jalut
+    motif: bodily-stature-and-fitness-for-kingship
+    refs: ["KTU 1.6 I:45", "KTU 1.6 I:50", "KTU 1.6 I:59", "KTU 1.6 I:60", "KTU 1.6 I:62"]
+    with_refs: ["2:246", "2:247"]
+    relation: divergence
+    record:
+      agent: [El and Athirat, the prophet (God)]
+      action: [choose a king, choose a king]
+      object: [Athtar, Ṭālūt]
+      quoted: ["tn aḥd b bnk amlkn ... pʿnh ltmġyn hdm rišh lymġy apsh ... lamlk", "ibʿath lanā malikan ... wa-zādahu basṭatan fī l-ʿilmi wa-l-jism"]
+      outcome: [too small for the throne; steps down, increased in body; made king]
+    note: "Ug. 'give one of your sons, I will make him king' (tn aḥd b bnk amlkn); the first candidate is rejected as a weakling (dq anm), Athtar's feet do not reach the footstool nor his head the top: 'I cannot be king' (lamlk). Q: 'raise for us a king' (ibʿath lanā malikan); Ṭālūt is objected to (no wealth) but God 'increased him in knowledge and body' (basṭatan fī l-ʿilmi wa-l-jism). Body size decides fitness for the throne in both; in one the candidate fails, in the other God enlarges him."
+- unit: ane-ktu-1-6-ii-anat-destroys-mot
+  checked: [quran-7-moses-pharaoh, quran-20-moses-favors-recalled, quran-20-sea-crossing-sinai, quran-20-samiri-calf]
+  matches:
+  - with: quran-20-samiri-calf
+    motif: burned-then-scattered-on-the-yamm
+    refs: ["KTU 1.6 II:32", "KTU 1.6 II:33", "KTU 1.6 II:34", "KTU 1.6 II:35"]
+    with_refs: ["20:97"]
+    relation: echo
+    record:
+      agent: [Anat, Moses]
+      action: [burns and winnows, burns and scatters]
+      object: [Mot (Death), the calf (ilāh)]
+      instrument: [fire; winnowing fork; millstones, fire]
+      place: [the field, the yamm]
+      quoted: ["bḫṯr tdrynn bišt tšrpnn brḥm tṭḥnn bšd tdrʿnn", "la-nuḥarriqannahu thumma la-nansifannahu fī l-yammi nasfā"]
+    note: "Anat winnows Mot (tdrynn), burns him with fire (bišt tšrpnn), grinds him and sows him in the field; Moses: 'we will burn it (nuḥarriqannahu), then scatter it (nansifannahu, the winnowing verb) in the yamm'. Same sequence on a false or enemy god, with the place changed: the field here, the sea in 1.6 V:19 (drʿ bym)."
+- unit: ane-ktu-1-6-iii-iv-el-dream-baal-lives
+  checked: [quran-7-lot, quran-8-meccan-plots, quran-11-lot, quran-4-prayer-of-fear, quran-47-muhammad-battle-and-rivers]
+  matches:
+  - with: quran-47-muhammad-battle-and-rivers
+    motif: wadis-or-rivers-of-honey
+    refs: ["KTU 1.6 III:7", "KTU 1.6 III:13"]
+    with_refs: ["47:15"]
+    relation: echo
+    record:
+      object: [wadis, rivers]
+      quoted: ["šmm šmn tmṭrn nḫlm tlk nbtm", "anhārun min ʿasalin muṣaffā"]
+      outcome: [sign that Baal lives, a feature of the promised garden]
+    note: "'The heavens rain oil, the wadis run with honey' (nḫlm tlk nbtm) in El's dream; Q 47:15 the garden has 'rivers of purified honey' (anhārun min ʿasal) beside rivers of water, milk and wine. A sign of the god's return to life vs. a feature of paradise."
+- unit: ane-ktu-1-6-v-mot-returns-seventh-year
+  checked: [quran-7-moses-pharaoh, quran-20-moses-favors-recalled, quran-20-sea-crossing-sinai, quran-4-creation-kinship-orphans, quran-20-samiri-calf]
+  matches:
+  - with: quran-20-samiri-calf
+    motif: burned-then-scattered-on-the-yamm
+    refs: ["KTU 1.6 V:12", "KTU 1.6 V:13", "KTU 1.6 V:14", "KTU 1.6 V:19"]
+    with_refs: ["20:97"]
+    relation: echo
+    record:
+      agent: [Anat (Mot recalls it), Moses]
+      action: [winnows and burns and sows, burns and scatters]
+      object: [Mot, the calf]
+      place: [the sea (ym), the yamm]
+      quoted: ["pht dry bḥrb ... pht šrp bišt ... drʿ bym", "la-nuḥarriqannahu thumma la-nansifannahu fī l-yammi nasfā"]
+    note: "Mot's litany: 'I suffered winnowing (dry), burning with fire (šrp bišt) ... sowing in the sea (drʿ bym)'; Moses on the calf: burn it, then scatter it in the yamm. Burn, winnow/scatter, sea: all three elements, with the same Semitic sea word ym / yamm."
+- unit: ane-ktu-1-6-vi-baal-mot-combat-shapsh-hymn
+  checked: [quran-3-sovereignty, quran-40-throne-bearers, quran-3-badr-uhud]
+  matches: []
+- unit: ane-ktu-1-7-anat-battle-duplicate
+  checked: [quran-16-daughters-and-the-bee, quran-22-communities-prostration-hell-paradise, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-ktu-1-9-fragment
+  checked: [quran-28-pharaohs-tower-and-end, quran-7-idol-request, quran-2-talut-jalut]
+  matches: []
+- unit: ane-ktu-1-10-i-assembly-of-stars
+  checked: [quran-25-signs-shadow-seas, quran-23-lordship-arguments, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-ktu-1-10-ii-baal-hunts-anat-flies
+  checked: [quran-19-prophets-remembered, quran-20-sea-crossing-sinai, quran-28-call-at-the-tree, quran-73-enwrapped]
+  matches: []
+- unit: ane-ktu-1-10-iii-bull-born-to-baal
+  checked: [quran-27-is-there-a-god-with-god, quran-3-sovereignty, quran-16-blessings-of-creation, quran-19-zechariah-and-john]
+  matches:
+  - with: quran-19-zechariah-and-john
+    motif: good-news-of-a-son-bsr
+    refs: ["KTU 1.10 III:33'", "KTU 1.10 III:34'", "KTU 1.10 III:35'"]
+    with_refs: ["19:7"]
+    relation: echo
+    record:
+      agent: [Anat, God]
+      action: [brings good news of a son, brings good news of a son]
+      recipient: [Baal, Zechariah]
+      quoted: ["bšrt il bšr bʿl ... k ibr lbʿl yld", "innā nubashshiruka bi-ghulāmin ismuhu yaḥyā"]
+      outcome: [Baal rejoices, a son named]
+    note: "Ug. bšrt / bšr 'good news ... rejoice, Baal: for a bull is born to Baal'; Q 19:7 'We give you good news (nubashshiruka) of a boy'. The same root bšr for the tidings of a son to the father; the Ugaritic news comes after the birth, the Quranic before the conception."
+- unit: ane-ktu-1-11-baal-anat-union
+  checked: [quran-16-daughters-and-the-bee, quran-16-blessings-of-creation, quran-39-pure-religion]
+  matches: []
+- unit: ane-ktu-1-12-i-devourers-born
+  checked: [quran-7-moses-pharaoh, quran-10-opening-creation, quran-10-moses-pharaoh, quran-26-salih-thamud, quran-19-mary-and-jesus]
+  matches:
+  - with: quran-19-mary-and-jesus
+    motif: woman-gives-birth-alone-by-a-tree-in-the-wilderness
+    refs: ["KTU 1.12 I:19'", "KTU 1.12 I:25'", "KTU 1.12 I:26'"]
+    with_refs: ["19:22", "19:23"]
+    relation: echo
+    record:
+      agent: [El's handmaid, Maryam]
+      action: [goes out to give birth, withdraws to give birth]
+      place: [the oak(s) of Tkm in the wilderness, a remote place; the palm trunk]
+      quoted: ["ḥtlk wẓi baln tkm ... ḫl ld", "fa-ntabadhat bihi makānan qaṣiyyā fa-ajāʾahā l-makhāḍu ilā jidhʿi l-nakhla"]
+    note: "El sends the handmaid: 'go out to the oak(s) of Tkm (in the midst of the wilderness) ... writhe, give birth' (ḫl ld); Maryam 'withdrew to a remote place, and the pangs drove her to the trunk of the palm'. A woman giving birth alone at a tree away from the settlement; sent by El vs. withdrawing herself, oak vs. palm. The Ugaritic 'to / away from the oak' is uncertain."
+- unit: ane-ktu-1-12-ii-baal-falls-seven-years
+  checked: [quran-79-pharaoh-and-cosmos, quran-7-creation-signs, quran-71-noah, quran-12-joseph-full]
+  matches:
+  - with: quran-12-joseph-full
+    motif: seven-years-of-drought
+    refs: ["KTU 1.12 II:44'"]
+    with_refs: ["12:47", "12:48"]
+    relation: echo
+    record:
+      number: ["7 years (and 8 cycles)", "7 years"]
+      object: [the produce of the fields, the stored harvest]
+      quoted: ["šbʿ šnt il mla wṯmn nqpnt ʿd", "sabʿun shidādun yaʾkulna mā qaddamtum lahunna"]
+    note: "'Seven years El filled, eight cycles of time' while the fields are scorched; Joseph: 'then seven hard years (sabʿun shidād) will come which eat what you stored'. Seven years of dearth; the Ugaritic adds the 7/8 parallelism, the Quran pairs them with seven fat years."
+- unit: ane-ktu-1-13-anat-incantation-hymn
+  checked: [quran-25-signs-shadow-seas, quran-79-pharaoh-and-cosmos, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-ktu-1-14-i-kirta-house-destroyed
+  checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-7-lot, quran-26-lot]
+  matches: []
+- unit: ane-ktu-1-14-i-el-in-dream
+  checked: [quran-43-zukhruf-abraham-and-silver-roofs, quran-37-sacrifice-of-son, quran-3-sovereignty]
+  matches: []
+- unit: ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign
+  checked: [quran-7-moses-pharaoh, quran-20-moses-favors-recalled, quran-20-sea-crossing-sinai, quran-19-zechariah-and-john, quran-48-fath-clear-victory-and-pledge, quran-54-qamar-moon-split-and-noah]
+  matches:
+  - with: quran-48-fath-clear-victory-and-pledge
+    motif: levy-of-the-blind-and-sick
+    refs: ["KTU 1.14 II:45", "KTU 1.14 II:46", "KTU 1.14 II:47"]
+    with_refs: ["48:17"]
+    relation: divergence
+    record:
+      agent: [El (instructing Kirta), God]
+      action: [orders a total levy, exempts from the campaign]
+      object: [the sick and the blind, "the blind, the lame and the sick"]
+      quoted: ["zbl ʿršm yšu ʿwr mzl ymzl", "laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji ḥarajun wa-lā ʿalā l-marīḍi ḥaraj"]
+      outcome: [the sick carries his bed and the blind gropes behind, no blame on them for staying]
+    note: "Kirta's levy: 'the sick (zbl) carries his bed, the blind (ʿwr) gropes along', even the newlywed goes; Q 48:17 'no blame on the blind (aʿmā), the lame, the sick (marīḍ)' for not going out. The same named classes of the unfit before a campaign: all must march vs. all are exempted."
+  - with: quran-54-qamar-moon-split-and-noah
+    motif: multitude-like-locusts
+    refs: ["KTU 1.14 II:50", "KTU 1.14 II:51"]
+    with_refs: ["54:7"]
+    relation: echo
+    record:
+      agent: [Kirta's army, the dead raised]
+      action: [settle on the land, come out of the graves]
+      quoted: ["kirby tškn šd", "ka-annahum jarādun muntashir"]
+    note: "The army 'settles on the field like locusts (kirby)'; the raised dead 'come out of the graves as if they were scattered locusts (jarādun muntashir)'. The same simile for a vast multitude covering the ground."
+- unit: ane-ktu-1-14-iii-kirta-wakes-and-obeys
+  checked: [quran-19-zechariah-and-john, quran-19-mary-and-jesus, quran-12-joseph-full, quran-18-companions-of-the-cave, quran-48-fath-clear-victory-and-pledge]
+  matches:
+  - with: quran-48-fath-clear-victory-and-pledge
+    motif: levy-of-the-blind-and-sick
+    refs: ["KTU 1.14 IV:23", "KTU 1.14 IV:24", "KTU 1.14 IV:25"]
+    with_refs: ["48:17"]
+    relation: divergence
+    record:
+      agent: [Kirta, God]
+      action: [carries out a total levy, exempts from the campaign]
+      object: [the sick and the blind, "the blind, the lame and the sick"]
+      quoted: ["tškr zbl ʿršm yšu ʿwr mzl ymzl", "laysa ʿalā l-aʿmā ḥarajun ... wa-lā ʿalā l-marīḍi ḥaraj"]
+      outcome: [they march, no blame on them for staying]
+    note: "The levy carried out: 'the sick had to carry his bed, the blind grope behind'; Q 48:17 the blind, lame and sick are without blame for staying behind."
+- unit: ane-ktu-1-14-iv-vow-to-athirat
+  checked: [quran-25-signs-shadow-seas, quran-2-war-pilgrimage, quran-66-tahrim-wives-and-the-four-women, quran-9-hypocrites-vow]
+  matches:
+  - with: quran-9-hypocrites-vow
+    motif: conditional-vow-to-deity
+    refs: ["KTU 1.14 IV:36", "KTU 1.14 IV:40", "KTU 1.14 IV:42", "KTU 1.14 IV:43"]
+    with_refs: ["9:75"]
+    relation: parallel
+    record:
+      agent: [Kirta, some of them]
+      action: [vows to the deity, pledges to God]
+      recipient: [Athirat of Tyre, God]
+      object: ["double her weight in silver, triple in gold", alms]
+      quoted: ["hm ḥry bty iqḥ ... ṯnh kspm atn wṯlṯth ḫrṣm", "la-in ātānā min faḍlihi la-naṣṣaddaqanna"]
+    note: "Kirta: 'if (hm) I take Ḥurriya into my house ... I will give twice her (weight) in silver, thrice in gold'; Q 9:75 'if (la-in) He gives us of His bounty, we will surely give alms'. The same conditional vow form: if the deity grants, the vower pays."
+- unit: ane-ktu-1-14-iv-siege-of-udum
+  checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-15-abraham-guests-lot, quran-79-pharaoh-and-cosmos, quran-27-solomon-ants-hoopoe-sheba]
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: besieged-ruler-sends-gift-refused
+    refs: ["KTU 1.14 VI:9'", "KTU 1.14 VI:14'", "KTU 1.14 VI:17'", "KTU 1.14 VI:18'", "KTU 1.14 VI:22'", "KTU 1.14 VI:23'"]
+    with_refs: ["27:35", "27:36"]
+    relation: parallel
+    record:
+      agent: [King Pabil, the queen of Saba]
+      action: [sends envoys with gifts, sends envoys with a gift]
+      recipient: [Kirta, Sulaymān]
+      object: ["silver, gold, slaves, horses, chariot (šlmm)", a gift (hadiyya)]
+      quoted: ["qḥ krt šlmm ... lm ank ksp wyrq ḫrṣ", "a-tumiddūnani bi-mālin fa-mā ātāniya llāhu khayrun mimmā ātākum"]
+      outcome: [refused; he demands the princess Ḥurriya, refused; the queen herself comes]
+    note: "Pabil's messengers: 'take, Kirta, peace-gifts (šlmm) ... silver and yellow gold'; Kirta: 'why should I (want) silver and yellow gold? give what is lacking in my house'. Bilqīs: 'I will send them a gift and see what the envoys bring back'; Sulaymān: 'do you supply me with wealth? What God gave me is better'. In both the threatened ruler buys off the king with wealth, the king spurns it, and the story ends with the woman brought to him."
+- unit: ane-ktu-1-15-i-hurriya-given
+  checked: [quran-27-solomon-ants-hoopoe-sheba, quran-93-94-forenoon-and-expansion, quran-20-moses-favors-recalled]
+  matches: []
+- unit: ane-ktu-1-15-ii-el-blesses-kirta
+  checked: [quran-3-sovereignty, quran-23-lordship-arguments, quran-39-pure-religion]
+  matches: []
+- unit: ane-ktu-1-15-iii-exalted-among-rephaim
+  checked: [quran-9-hypocrites-vow, quran-3-imran-mary-zechariah, quran-16-daughters-and-the-bee, quran-19-mary-and-jesus]
+  matches:
+  - with: quran-9-hypocrites-vow
+    motif: broken-vow-punished
+    refs: ["KTU 1.15 III:25'", "KTU 1.15 III:26'", "KTU 1.15 III:28'", "KTU 1.15 III:29'", "KTU 1.15 III:30'"]
+    with_refs: ["9:76", "9:77"]
+    relation: parallel
+    record:
+      agent: [Athirat, God]
+      action: [remembers the vow, requites the broken pledge]
+      object: [Kirta's vow, their promise]
+      quoted: ["wtḫss aṯrt ndrh ... uṯn ndr ... apr", "fa-aʿqabahum nifāqan ... bimā akhlafū llāha mā waʿadūh"]
+      outcome: [she will break the agreement (Kirta falls sick), hypocrisy in their hearts until they meet Him]
+    note: "Once the children are born, 'Athirat remembered his vow (ndr): has Kirta changed (uṯn) the vow? I will break [the agreement]'; Q 9:76-77 when God gave them of His bounty they were stingy, 'so He made hypocrisy follow in their hearts ... because they broke what they promised God'. The granted vow left unpaid, and the deity's retribution."
+- unit: ane-ktu-1-15-iv-feasts-and-weeping
+  checked: [quran-12-joseph-full, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-19-zechariah-and-john, quran-19-mary-and-jesus]
+  matches: []
+- unit: ane-ktu-1-16-i-son-laments-do-gods-die
+  checked: [quran-2-call-to-worship, quran-2-exodus-calf, quran-7-moses-pharaoh, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-ktu-1-16-ii-sister-laments
+  checked: [quran-2-call-to-worship, quran-2-exodus-calf, quran-7-moses-pharaoh, quran-36-trumpet-and-judgment]
+  matches: []
+- unit: ane-ktu-1-16-iii-drought
+  checked: [quran-7-lot, quran-8-meccan-plots, quran-11-lot, quran-4-prayer-of-fear]
+  matches: []
+- unit: ane-ktu-1-16-iv-el-summons-ilish
+  checked: [quran-22-disputers-and-waverers, quran-13-signs-of-creation, quran-9-closing]
+  matches: []
+- unit: ane-ktu-1-16-v-who-will-heal
+  checked: [quran-23-lordship-arguments, quran-17-polemic-and-resurrection, quran-21-against-other-gods, quran-27-is-there-a-god-with-god]
+  matches:
+  - with: quran-17-polemic-and-resurrection
+    motif: no-other-god-can-remove-the-sickness
+    refs: ["KTU 1.16 V:10", "KTU 1.16 V:11", "KTU 1.16 V:12", "KTU 1.16 V:22"]
+    with_refs: ["17:56"]
+    relation: parallel
+    record:
+      agent: [El, the Prophet (at God's command)]
+      action: [asks who among the gods can remove the sickness, challenges them to call the other gods]
+      object: [the sickness (mrṣ), the harm (al-ḍurr)]
+      quoted: ["my bilm ydy mrṣ gršm zbln ... in bilm ʿnyh", "fa-lā yamlikūna kashfa l-ḍurri ʿankum wa-lā taḥwīlā"]
+      outcome: [none of the gods answers; El makes the healer himself, the others cannot remove or shift it]
+    note: "El asks seven times 'who among the gods will drive out the sickness, expel the illness?' and 'none among the gods answers him'; Q 17:56 'call those you claim besides Him: they have no power to remove the harm from you or shift it'. Only the high god (God) removes the sickness."
+  - with: quran-27-is-there-a-god-with-god
+    motif: no-other-god-can-remove-the-sickness
+    refs: ["KTU 1.16 V:14", "KTU 1.16 V:17", "KTU 1.16 V:20"]
+    with_refs: ["27:62"]
+    relation: echo
+    record:
+      agent: [El, God]
+      action: [repeats a rhetorical question, repeats a rhetorical question]
+      number: [7 times, 5 times (27:60-64)]
+      quoted: ["my bilm ydy mrṣ", "a-man yujību l-muḍṭarra ... wa-yakshifu l-sūʾa a-ilāhun maʿa llāh"]
+    note: "The question 'who among the gods ... will drive out the illness?' repeated seven times (yṯny yṯlṯ ... yḫmš ... yṯdṯ yšbʿ); Q 27:62 'who answers the distressed and removes the evil? Is there a god with God?', a refrain repeated through 27:60-64. Who removes the affliction, asked as a recurring challenge."
+- unit: ane-ktu-1-16-vi-death-defeated
+  checked: [quran-7-moses-pharaoh, quran-21-prophets-answered, quran-18-moses-and-the-servant]
+  matches: []
+- unit: ane-ktu-1-16-vi-yassib-rebukes-father
+  checked: [quran-19-zechariah-and-john, quran-7-moses-pharaoh, quran-37-sacrifice-of-son, quran-89-dawn]
+  matches:
+  - with: quran-89-dawn
+    motif: king-neglects-feeding-the-orphan
+    refs: ["KTU 1.16 VI:46", "KTU 1.16 VI:49", "KTU 1.16 VI:50"]
+    with_refs: ["89:17", "89:18"]
+    relation: parallel
+    record:
+      agent: [Yassib, God]
+      action: [accuses, accuses]
+      recipient: [Kirta, the man who says 'my Lord has honoured me']
+      object: [orphan and widow, orphan and the poor]
+      quoted: ["lpnk ltšlḥm ytm bʿd kslk almnt", "kallā bal lā tukrimūna l-yatīm wa-lā taḥāḍḍūna ʿalā ṭaʿāmi l-miskīn"]
+    note: "Yassib to his father: 'you do not judge the widow's case ... you do not feed the orphan (ltšlḥm ytm) before you, nor the widow behind you'; Q 89:17-18 'no! you do not honour the orphan (al-yatīm) and do not urge the feeding of the poor'. The same second-person charge, with the same word ytm / yatīm and feeding; Yassib uses it to unseat a king."
+- unit: ane-ktu-1-17-i-danel-incubation-and-blessing
+  checked: [quran-23-moses-aaron-mary, quran-38-adam-iblis, quran-2-talut-jalut, quran-23-noah, quran-19-zechariah-and-john]
+  matches:
+  - with: quran-19-zechariah-and-john
+    motif: childless-man-pleads-for-a-son-like-his-kin
+    refs: ["KTU 1.17 I:18'", "KTU 1.17 I:19'", "KTU 1.17 I:20'", "KTU 1.17 I:25'"]
+    with_refs: ["19:4", "19:5", "19:6"]
+    relation: parallel
+    record:
+      agent: [Baal for Danel, Zakariyyā]
+      action: [pleads for a son, pleads for an heir]
+      recipient: [El, his Lord]
+      quoted: ["din bn lh km aḫh wšrš km aryh ... wykn bnh bbt", "khiftu l-mawāliya min warāʾī ... fa-hab lī min ladunka waliyyan yarithunī"]
+      outcome: [El blesses him with a son, given John]
+    note: "Danel 'has no son like his brothers, no root like his kin (aryh)'; may a son stand in his house; Zakariyyā fears 'the kinsmen after me' (al-mawālī), his wife is barren: 'give me from Yourself an heir who will inherit from me'. The childless man's plea is measured against his kin; Baal pleads for Danel, Zakariyyā pleads for himself."
+  - with: quran-19-zechariah-and-john
+    motif: promised-son-dutiful-to-his-father
+    refs: ["KTU 1.17 I:30'", "KTU 1.17 I:31'"]
+    with_refs: ["19:14"]
+    relation: echo
+    record:
+      agent: [the promised son, Yaḥyā]
+      action: [serves his father, is dutiful to his parents]
+      quoted: ["aḫd ydh bškrn mʿmsh kšbʿ yn", "wa-barran bi-wālidayhi wa-lam yakun jabbāran ʿaṣiyyā"]
+    note: "The son granted to Danel is defined by his duties: 'who takes his hand when he is drunk, carries him when sated with wine', sets up his father's stela, plasters his roof; the son granted to Zakariyyā is 'dutiful to his parents, not overbearing or disobedient'. The promised son described by his duty to his father."
+- unit: ane-ktu-1-17-ii-kotharat-pregnancy
+  checked: [quran-9-months-nasi, quran-2-war-pilgrimage, quran-31-signs-and-unseen]
+  matches: []
+- unit: ane-ktu-1-17-v-kothar-brings-bow
+  checked: [quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-11-abraham-guests, quran-43-zukhruf-abraham-and-silver-roofs, quran-18-moses-and-the-servant]
+  matches:
+  - with: quran-51-dhariyat-abrahams-guests-and-the-peoples
+    motif: host-household-prepares-animal-for-divine-guest
+    refs: ["KTU 1.17 V:9'", "KTU 1.17 V:10'", "KTU 1.17 V:15'", "KTU 1.17 V:16'", "KTU 1.17 V:17'", "KTU 1.17 V:22'"]
+    with_refs: ["51:24", "51:25", "51:26", "51:27"]
+    relation: parallel
+    record:
+      agent: [Danel, Ibrāhīm]
+      action: [has a meal prepared for the divine guest, brings a meal for the divine guests]
+      recipient: [Kothar-wa-Hasis, the honoured guests]
+      object: [a lamb from the flock, a fat calf]
+      quoted: ["bnši ʿnh wyphn ... gm laṯth kyṣḥ ... ʿdb imr bpḫd", "fa-rāgha ilā ahlihi fa-jāʾa bi-ʿijlin samīn"]
+    note: "Danel lifts his eyes and sees Kothar coming, calls aloud to his wife: 'prepare a lamb from the flock (ʿdb imr bpḫd) for the appetite of Kothar'; Ibrāhīm 'went quietly to his household and brought a fat calf (ʿijlin samīn)' for the unrecognised guests. The host turns to his wife or household for an animal of the herd for the divine visitor."
+  - with: quran-11-abraham-guests
+    motif: divine-guest-eats-the-meal
+    refs: ["KTU 1.17 V:19'", "KTU 1.17 V:28'", "KTU 1.17 V:29'"]
+    with_refs: ["11:69", "11:70"]
+    relation: divergence
+    record:
+      agent: [Kothar, the messengers]
+      action: [eats and drinks, do not touch the food]
+      object: [the lamb, the roasted calf]
+      quoted: ["tšlḥm tššqy ilm", "fa-lammā raʾā aydiyahum lā taṣilu ilayhi nakirahum"]
+      outcome: [the god is served and honoured and leaves, Ibrāhīm is afraid]
+    note: "Danatiya 'gave food and drink to the god' (tšlḥm tššqy ilm), and Kothar goes home; Ibrāhīm brings a roasted calf (ʿijl ḥanīdh), but 'when he saw their hands not reaching to it he mistrusted them'. The same meal set before divine visitors; one god eats, the angels do not."
+- unit: ane-ktu-1-17-vi-anat-covets-bow
+  checked: [quran-7-adam-iblis, quran-3-misers-mockers, quran-2-call-to-worship, quran-2-exodus-calf]
+  matches:
+  - with: quran-7-adam-iblis
+    motif: offer-of-immortality-to-a-mortal
+    refs: ["KTU 1.17 VI:26'", "KTU 1.17 VI:27'", "KTU 1.17 VI:28'", "KTU 1.17 VI:34'", "KTU 1.17 VI:35'", "KTU 1.17 VI:38'"]
+    with_refs: ["7:20", "7:21", "7:22"]
+    relation: divergence
+    record:
+      agent: [Anat, Satan]
+      action: [offers deathlessness, promises immortality]
+      recipient: [Aqhat, Adam and his wife]
+      quoted: ["irš ḥym ... watnk blmt ... al tšrgn ... mt kl amt wan mtm amt", "aw takūnā mina l-khālidīn ... fa-dallāhumā bi-ghurūr"]
+      outcome: ["Aqhat calls it a lie and refuses: 'I will die the death of all men'", they are deceived and eat]
+    note: "Anat: 'ask for life ... I will give you deathlessness (blmt), I will make you count years with Baal'; Aqhat: 'do not deceive me (al tšrgn), maiden ... I will die the death of every man'. Satan: 'your Lord forbade you this tree only lest you become angels or of the immortals (al-khālidīn)', swears he is a sincere adviser, 'and led them on by deception (bi-ghurūr)'. The same offer of deathlessness; the hero names the deception and refuses, Adam is deceived."
+- unit: ane-ktu-1-18-i-anat-threatens-el
+  checked: [quran-4-creation-kinship-orphans, quran-20-moses-call, quran-27-prologue-moses-fire, quran-105-elephant]
+  matches: []
+- unit: ane-ktu-1-18-iv-aqhat-murdered
+  checked: [quran-18-dhul-qarnayn, quran-34-david-solomon, quran-5-two-sons-of-adam, quran-4-homicide-law]
+  matches:
+  - with: quran-5-two-sons-of-adam
+    motif: killer-weeps-after-the-murder
+    refs: ["KTU 1.18 IV:38'", "KTU 1.18 IV:39'"]
+    with_refs: ["5:31"]
+    relation: echo
+    record:
+      agent: [Anat, the son of Adam]
+      action: [weeps over the slain, laments and regrets]
+      object: [Aqhat, his brother]
+      quoted: ["aqht wtbk", "yā waylatā ... fa-aṣbaḥa mina l-nādimīn"]
+    note: "After Yatpan strikes Aqhat down among the hovering eagles, Anat 'wept (wtbk)' for Aqhat; Cain, after the raven, cries 'woe is me (yā waylatā)' and 'became one of the regretful'. The killer who weeps over the victim; birds are at both scenes."
+- unit: ane-ktu-1-19-i-bow-lost-drought
+  checked: [quran-7-lot, quran-8-meccan-plots, quran-11-lot, quran-4-prayer-of-fear, quran-12-joseph-full]
+  matches:
+  - with: quran-12-joseph-full
+    motif: seven-years-of-drought
+    refs: ["KTU 1.19 I:42"]
+    with_refs: ["12:47", "12:48"]
+    relation: echo
+    record:
+      number: ["7 years (8 for the Rider of the Clouds)", "7 years"]
+      quoted: ["šbʿ šnt yṣrk bʿl ṯmn rkb ʿrpt", "sabʿun shidād"]
+      outcome: ["no dew, no showers", they eat up what was stored]
+    note: "Danel's curse: 'seven years may Baal fail, eight the Rider of the Clouds: no dew, no showers'; Joseph: 'seven hard years' after seven of sowing. The seven-year famine; the Ugaritic one is a curse at a murder."
+- unit: ane-ktu-1-19-ii-danel-kisses-the-ears
+  checked: [quran-4-creation-kinship-orphans, quran-20-moses-call, quran-27-prologue-moses-fire, quran-23-moses-aaron-mary]
+  matches: []
+- unit: ane-ktu-1-19-iii-eagles-and-burial
+  checked: [quran-39-death-and-sleep, quran-35-originator, quran-30-winds-and-rain, quran-36-trumpet-and-judgment, quran-5-two-sons-of-adam]
+  matches:
+  - with: quran-5-two-sons-of-adam
+    motif: bird-and-burial-of-murdered-man
+    refs: ["KTU 1.19 III:38", "KTU 1.19 III:39", "KTU 1.19 III:40", "KTU 1.19 III:41"]
+    with_refs: ["5:31"]
+    relation: divergence
+    record:
+      agent: [Danel, the son of Adam]
+      action: [buries the murdered man, buries the murdered man]
+      object: [Aqhat's fat and bone, his brother's corpse (sawʾa)]
+      instrument: ["the eagle Ṣamal, whose belly he opens", a raven sent by God]
+      quoted: ["ybqʿ kbdh ... iṯ šmt iṯ ʿẓm wyqḥ bhm aqht ybky wyqbr", "fa-baʿatha llāhu ghurāban yabḥathu fī l-arḍi li-yuriyahu kayfa yuwārī sawʾata akhīh"]
+      outcome: [he weeps and buries him, he learns to bury and regrets]
+    note: "Danel breaks the eagles' wings, splits the liver of Ṣamal, finds 'fat and bone', takes Aqhat out of them, 'weeps and buries (yqbr)'; God 'sent a raven scratching the ground to show him how to cover his brother's corpse'. A bird stands between the murdered man and his burial: the eagle had swallowed the body and must give it back; the raven teaches the burial."
+- unit: ane-ktu-1-19-iv-abilum-cursed-mourning
+  checked: [quran-44-dukhan-zaqqum-and-garden, quran-16-daughters-and-the-bee, quran-89-dawn]
+  matches: []
+- unit: ane-ktu-1-19-iv-pughat-avenges
+  checked: [quran-23-moses-aaron-mary, quran-38-adam-iblis, quran-17-commandments, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-ktu-1-23-i-rite-mot-pruned
+  checked: [quran-36-trumpet-and-judgment, quran-40-throne-bearers, quran-56-waqia-three-classes-and-the-garden]
+  matches: []
+- unit: ane-ktu-1-23-i-el-two-women-dawn-dusk
+  checked: [quran-7-moses-pharaoh, quran-10-opening-creation, quran-10-moses-pharaoh, quran-26-salih-thamud]
+  matches: []
+- unit: ane-ktu-1-24-nikkal-and-yarikh
+  checked: [quran-28-moses-in-midian, quran-66-tahrim-wives-and-the-four-women, quran-3-imran-mary-zechariah, quran-4-creation-kinship-orphans]
+  matches:
+  - with: quran-28-moses-in-midian
+    motif: bride-price-paid-to-whom
+    refs: ["KTU 1.24 I:(Vs.)_17", "KTU 1.24 I:(Vs.)_19", "KTU 1.24 I:(Vs.)_20", "KTU 1.24 I:(Vs.)_26"]
+    with_refs: ["28:27"]
+    relation: divergence
+    record:
+      agent: [Yarikh, the old man of Midian]
+      action: [offers a bride-price to the father, sets the bride-price]
+      recipient: [the bride's father, the bride's father]
+      object: ["1000 (shekels) of silver, 10,000 of gold, lapis", "eight years' service (ten if he wills)"]
+      quoted: ["atn mhrh l abh alp ksp wrbt ḫrṣ", "ʿalā an taʾjuranī thamāniya ḥijajin fa-in atmamta ʿashran fa-min ʿindik"]
+    note: "Yarikh: 'give Nikkal ... I will give her bride-price (mhr) to her father: a thousand of silver, ten thousand of gold'; the father first proposes another daughter (Pidray). Midian: 'I wish to marry you to one of these two daughters of mine on condition that you serve me eight years'. The suitor's payment to the bride's father: precious metal by the thousand vs. years of labour; the father in both offers a choice of daughters."
+  - with: quran-4-creation-kinship-orphans
+    motif: bride-price-paid-to-whom
+    refs: ["KTU 1.24 I:(Vs.)_19", "KTU 1.24 I:(Rs.)_33"]
+    with_refs: ["4:4"]
+    relation: divergence
+    record:
+      agent: [Yarikh, the husbands]
+      action: [pays the bride-price, give the bride-gift]
+      recipient: [her father (weighed by her family), the women themselves]
+      quoted: ["atn mhrh l abh", "wa-ātū l-nisāʾa ṣaduqātihinna niḥlatan"]
+    note: "Ug. 'I will give her bride-price (mhrh) to her father (l abh)', and father, mother, brother and sister set up the scales to weigh it; Q 4:4 'give the women their bride-gifts (ṣaduqātihinna) as a free gift', and only if they remit part may the husband take it. Paid to the father and weighed by the family vs. given to the woman as hers."
+- unit: ane-ktu-1-100-mare-appeals-to-gods
+  checked: [quran-17-polemic-and-resurrection, quran-79-pharaoh-and-cosmos, quran-22-signs-and-rites]
+  matches: []
+- unit: ane-ktu-1-100-horon-cures-snakebite
+  checked: [quran-7-moses-pharaoh, quran-7-adam-iblis, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-amenemope-w1-prologue
+  checked: [quran-46-ahqaf-parents-and-the-scornful-son, quran-17-commandments, quran-31-luqman]
+  matches:
+  - with: quran-31-luqman
+    motif: father-instructs-his-son
+    refs: ["Amenemope W1:1.1", "Amenemope W1:2.13"]
+    with_refs: ["31:13"]
+    relation: echo
+    record:
+      agent: [Amenemope, Luqmān]
+      action: [instructs his son, admonishes his son]
+      recipient: ["his son, the youngest of his children", his son]
+      quoted: ["sbꜣ,yt m ꜥnḫ ... n zꜣ =f ktj n ms.wj =f ... ḏd =f", "wa-idh qāla luqmānu li-bnihi wa-huwa yaʿiẓuhu yā bunayya"]
+    note: "'The teaching for life ... for his son, the youngest of his children ... he says'; 'when Luqmān said to his son, admonishing him: my little son'. A wisdom teaching framed as a named sage's words to his son; Luqmān's teaching opens with the ban on shirk, Amenemope's with the aims of the instruction."
+- unit: ane-amenemope-w1-ch01-hear-my-words
+  checked: [quran-86-night-comer, quran-82-cleaving, quran-84-splitting]
+  matches: []
+- unit: ane-amenemope-w1-ch02-do-not-rob-the-wretched
+  checked: [quran-41-steadfast-and-repel-evil, quran-17-commandments, quran-2-charity, quran-90-city]
+  matches:
+  - with: quran-41-steadfast-and-repel-evil
+    motif: return-good-for-evil-to-the-enemy
+    refs: ["Amenemope W1:5.3", "Amenemope W1:5.4", "Amenemope W1:5.5"]
+    with_refs: ["41:34"]
+    relation: parallel
+    record:
+      action: [meet the evildoer with good, repel evil with what is better]
+      object: [the heated man, the one between whom and you there is enmity]
+      quoted: ["ṯs sw jmm n =f ḏr,t =k ... mḥ ẖ,t =f m tʾ m-ḏi̯w =k sꜣwj =f mtw =f ṯm", "idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm"]
+      outcome: [he is sated and ashamed, he becomes as a warm friend]
+    note: "Of the evildoer: 'raise him up, give him your hand, leave him in the hands of God, fill his belly with your bread, that he be sated and ashamed'; Q 41:34 'repel (evil) with what is better, and the one between you and whom there was enmity will be as a close friend'. Repaying the enemy with good to change him; shame vs. friendship as the result."
+- unit: ane-amenemope-w1-ch03-heated-man
+  checked: [quran-41-steadfast-and-repel-evil, quran-3-community, quran-90-city, quran-9-stayers-exempt]
+  matches: []
+- unit: ane-amenemope-w1-ch04-two-trees
+  checked: [quran-14-parables-and-satans-speech, quran-18-two-gardens, quran-80-frowned]
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: good-tree-and-bad-tree-parable
+    refs: ["Amenemope W1:6.1", "Amenemope W1:6.6", "Amenemope W1:6.8", "Amenemope W1:6.9", "Amenemope W1:6.11"]
+    with_refs: ["14:24", "14:25", "14:26"]
+    relation: parallel
+    record:
+      object: [two trees (heated man / silent man), two trees (bad word / good word)]
+      quoted: ["sw mj šꜣ rd m tjḥn,t ... dgꜣ =f bjnr ... tꜣ stꜣ tꜣyw =f qrjs.ṱ", "ka-shajaratin ṭayyibatin aṣluhā thābitun ... tuʾtī ukulahā kulla ḥīn ... ka-shajaratin khabīthatin ujtuththat"]
+      outcome: ["the bad tree drifts from its place, fire is its burial; the good bears sweet fruit, doubles its yield", "the bad tree is uprooted, without stability; the good gives its fruit every season"]
+    note: "Amenemope: the heated man is a tree that soon loses its shoots, is floated far from its place, 'the fire is its burial'; the truly silent is 'like a tree growing in a sunlit garden', doubling its yield, 'its fruit is sweet, its shade pleasant'. Q 14:24-26: a good word like a good tree, firm rooted, 'giving its fruit at every season'; a bad word like a bad tree 'uprooted from the surface of the earth, without any stability'. Two men (speech) as two trees, one torn from its place and one fruitful."
+- unit: ane-amenemope-w1-ch05-temple-greed
+  checked: [quran-56-waqia-three-classes-and-the-garden, quran-18-two-gardens, quran-80-frowned]
+  matches: []
+- unit: ane-amenemope-w1-ch06-boundary-stone
+  checked: [quran-4-creation-kinship-orphans, quran-89-dawn, quran-59-hashr-banu-nadir-and-fay, quran-2-charity, quran-5-oaths-wine-game]
+  matches:
+  - with: quran-5-oaths-wine-game
+    motif: little-honestly-better-than-much-wrongly
+    refs: ["Amenemope W1:8.19", "Amenemope W1:9.5"]
+    with_refs: ["5:100"]
+    relation: echo
+    record:
+      number: ["1 bushel vs. 5000", null]
+      quoted: ["ꜣḫ jp,t jw ḏi̯ s(j) n =k pꜣ nṯr r 5000 m-gꜣ~nj~sꜣ", "lā yastawī l-khabīthu wa-l-ṭayyibu wa-law aʿjabaka kathratu l-khabīth"]
+    note: "'More useful is one bushel that the god gives you than five thousand by wrong'; 'the bad and the good are not equal, even if the abundance of the bad impresses you'. Small honest gain against abundant wrongful gain."
+- unit: ane-amenemope-w1-ch07-riches-fly
+  checked: [quran-2-charity, quran-28-qarun, quran-18-two-gardens]
+  matches:
+  - with: quran-28-qarun
+    motif: earth-swallows-the-wrongful-rich
+    refs: ["Amenemope W1:9.16", "Amenemope W1:9.20", "Amenemope W1:10.3"]
+    with_refs: ["28:81"]
+    relation: echo
+    record:
+      agent: [the earth, God]
+      action: [swallows, causes the earth to swallow]
+      object: [riches from robbery, Qārūn and his house]
+      quoted: ["wn pꜣ jwdn rʾ =f ... ꜥm =f st", "fa-khasafnā bihi wa-bi-dārihi l-arḍa"]
+      outcome: [they sink to the underworld, no one helps him]
+    note: "Riches gained by robbery are gone by morning: 'the ground opened its mouth ... swallowed them, they sank into the underworld' (and flew to heaven like geese); Qārūn, proud of his treasures: 'We caused the earth to swallow him and his house'. The earth swallows ill-gotten wealth vs. swallows the rich man with it."
+- unit: ane-amenemope-w1-ch08-good-name
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-41-steadfast-and-repel-evil, quran-75-resurrection, quran-2-three-groups]
+  matches: []
+- unit: ane-amenemope-w1-ch09-hot-man-portrait
+  checked: [quran-49-hujurat-etiquette-and-brotherhood, quran-2-three-groups, quran-102-104-rivalry-time-slanderer, quran-2-community-trials, quran-68-qalam-the-pen-and-the-slanderer]
+  matches:
+  - with: quran-2-community-trials
+    motif: sweet-speech-quarrelsome-heart
+    refs: ["Amenemope W1:12.10", "Amenemope W1:13.6", "Amenemope W1:13.6/2", "Amenemope W1:13.7"]
+    with_refs: ["2:204"]
+    relation: parallel
+    record:
+      agent: [the heated man, a man among the people]
+      quoted: ["spt =f bnr ns =f ... ḫ,t ḥr ꜥḥꜥ m ẖ,t =f", "yuʿjibuka qawluhu ... wa-huwa aladdu l-khiṣām"]
+      outcome: [fire blazes in his belly, he is the most quarrelsome of adversaries]
+    note: "The heated man 'comes and goes with quarrelling'; 'his lips are sweet, his tongue bitter, fire burns in his belly'; Q 2:204 'one whose speech about this life pleases you ... yet he is the most quarrelsome of adversaries (aladdu l-khiṣām)'. Pleasing speech that hides a quarreller."
+  - with: quran-68-qalam-the-pen-and-the-slanderer
+    motif: slanderer-going-about-making-strife
+    refs: ["Amenemope W1:12.9", "Amenemope W1:12.10", "Amenemope W1:12.19", "Amenemope W1:13.1"]
+    with_refs: ["68:10", "68:11"]
+    relation: echo
+    record:
+      agent: [the heated man, the contemptible swearer]
+      action: [goes about with words and quarrel, goes about with slander]
+      quoted: ["šmi̯ jw =f ḥr ꜥḥꜥ ... sḏi̯ =f sn.w", "hammāzin mashshāʾin bi-namīm"]
+    note: "He plays 'a ferryman who snares with words', 'goes and comes with quarrelling', 'sets brothers quarrelling'; Q 68:11 'a backbiter, going about with slander (mashshāʾin bi-namīm)'. The man who goes about spreading strife by words."
+- unit: ane-amenemope-w1-ch10-heart-and-tongue
+  checked: [quran-16-abrogation-food-abraham-sabbath, quran-2-three-groups, quran-41-steadfast-and-repel-evil, quran-48-fath-clear-victory-and-pledge]
+  matches:
+  - with: quran-48-fath-clear-victory-and-pledge
+    motif: heart-and-tongue-at-odds
+    refs: ["Amenemope W1:13.13", "Amenemope W1:13.17"]
+    with_refs: ["48:11"]
+    relation: parallel
+    record:
+      quoted: ["m-jri̯ pšn ḥꜣ,tj =k r ns =k", "yaqūlūna bi-alsinatihim mā laysa fī qulūbihim"]
+      outcome: [your plans succeed and you are safe in God's hand, who can avail you against God]
+    note: "'Do not separate your heart from your tongue', after 'do not say to him falsely \"be praised\" while fear is in your belly'; Q 48:11 the Bedouin who stayed behind 'say with their tongues what is not in their hearts'. Heart and tongue named as the pair that must agree; a counsel vs. an accusation."
+  - with: quran-2-three-groups
+    motif: heart-and-tongue-at-odds
+    refs: ["Amenemope W1:13.11", "Amenemope W1:13.13"]
+    with_refs: ["2:14"]
+    relation: echo
+    record:
+      action: [greets falsely, greets falsely]
+      quoted: ["m-jri̯ ḏd n =f jꜣw.tw =k n-ꜥḏꜣ", "wa-idhā laqū lladhīna āmanū qālū āmannā wa-idhā khalaw ilā shayāṭīnihim qālū innā maʿakum"]
+    note: "'Do not greet your heated one by forcing yourself; do not say to him falsely \"be praised\"'; the hypocrites 'when they meet the believers say \"we believe\", and when alone with their devils say \"we are with you\"'. The feigned greeting."
+- unit: ane-amenemope-w1-ch11-poor-mans-goods
+  checked: [quran-2-charity, quran-2-food-piety, quran-90-city, quran-4-creation-kinship-orphans]
+  matches:
+  - with: quran-4-creation-kinship-orphans
+    motif: devouring-orphans-property-eats-fire
+    refs: ["Amenemope W1:14.5", "Amenemope W1:14.7", "Amenemope W1:14.8"]
+    with_refs: ["4:10"]
+    relation: echo
+    record:
+      action: [covets the goods and bread, devour the property]
+      object: [the poor dependant's goods, the orphans' property]
+      quoted: ["jr nkt n twꜣ sw ḥr šnꜥ m šnꜥ r jḥdjy", "innamā yaʾkulūna fī buṭūnihim nāran"]
+      outcome: ["it blocks the throat, injures the gullet", fire in their bellies]
+    note: "'Do not covet the goods of a poor dependant, do not hunger for his bread: the goods of a poor man are a blockage to the throat, they wound the gullet'; 'those who devour the property of orphans wrongfully devour only fire into their bellies'. What is taken from the helpless harms the taker's own body when eaten."
+- unit: ane-amenemope-w1-ch12-officials-goods
+  checked: [quran-18-moses-and-the-servant, quran-5-war-on-god-theft, quran-10-messenger-per-nation]
+  matches: []
+- unit: ane-amenemope-w1-ch13-forgive-the-poor
+  checked: [quran-25-servants-of-the-merciful, quran-29-trial-of-believers, quran-24-ifk-slander, quran-2-usury, quran-2-debt-contract]
+  matches:
+  - with: quran-2-usury
+    motif: remitting-a-poor-debtors-debt
+    refs: ["Amenemope W1:16.5", "Amenemope W1:16.7", "Amenemope W1:16.7/2", "Amenemope W1:16.8"]
+    with_refs: ["2:280"]
+    relation: divergence
+    record:
+      recipient: [a poor man with a large arrear, a debtor in hardship]
+      action: [remits two parts of three, grants respite or remits as alms]
+      number: ["2 of 3 parts", null]
+      quoted: ["j:jri̯.w sw m 3 dnj,t ḫꜣꜥ 2.t jmm mn wꜥ", "fa-naẓiratun ilā maysaratin wa-an taṣaddaqū khayrun lakum"]
+      outcome: [you find it the way of life, it is better for you]
+    note: "'If you find a large arrear against a poor man, make it three parts: forgive two, let one stand; you will find it the way of life'; Q 2:280 'if he is in hardship, then respite until ease; and that you remit it as alms is better for you'. The poor debtor's debt reduced: a fixed two-thirds vs. postponement or the whole."
+  - with: quran-2-debt-contract
+    motif: scribe-writes-with-justice
+    refs: ["Amenemope W1:15.20", "Amenemope W1:16.3"]
+    with_refs: ["2:282"]
+    relation: parallel
+    record:
+      agent: [the scribe, the scribe]
+      action: [does not cheat with the pen, writes with justice]
+      instrument: [the reed pen on the scroll, writing]
+      quoted: ["m-jri̯ ḥwrꜥ z m qꜣs ḥr ḏmꜥ", "wa-l-yaktub baynakum kātibun bi-l-ʿadl"]
+    note: "'Do not cheat a man with the pen on the scroll ... do not falsify with your pen' in the chapter on debts of the poor; Q 2:282 on debts: 'let a scribe write between you with justice'. The scribe of the debt bound to honesty."
+  - with: quran-25-servants-of-the-merciful
+    motif: false-testimony-forbidden
+    refs: ["Amenemope W1:16.1"]
+    with_refs: ["25:72"]
+    relation: echo
+    record:
+      quoted: ["m-jri̯ jri̯ mtr n mdw n ꜥḏꜣ", "wa-lladhīna lā yashhadūna l-zūr"]
+    note: "'Do not bear witness with false words'; the servants of the Merciful 'do not bear false witness (lā yashhadūna l-zūr)'."
+- unit: ane-amenemope-w1-ch14-do-not-fawn
+  checked: [quran-9-uzayr-clergy, quran-2-fasting, quran-24-ifk-slander, quran-2-charity]
+  matches: []
+- unit: ane-amenemope-w1-ch15-thoth-the-scribe
+  checked: [quran-69-haqqa-books-in-right-and-left-hands, quran-6-commandments, quran-17-commandments]
+  matches: []
+- unit: ane-amenemope-w1-ch16-scales
+  checked: [quran-26-shuayb-ayka, quran-101-striking, quran-55-rahman-creation-and-the-two-seas]
+  matches:
+  - with: quran-55-rahman-creation-and-the-two-seas
+    motif: god-set-up-the-balance-do-not-diminish-it
+    refs: ["Amenemope W1:17.18", "Amenemope W1:17.22", "Amenemope W1:18.2"]
+    with_refs: ["55:7", "55:8", "55:9"]
+    relation: parallel
+    record:
+      agent: [Thoth, God]
+      action: [invented / presides over the balance, set up the balance]
+      object: [the balance and weights, the balance (mīzān)]
+      quoted: ["m-jri̯ rmni̯ jws,w ... ḥmsi̯ pꜣ jꜥꜥnjj r-gs tꜣ mḫꜣy,t ... Ḏḥwtj pꜣ jri̯ gmi̯ nn", "wa-waḍaʿa l-mīzāna allā taṭghaw fī l-mīzān ... wa-lā tukhsirū l-mīzān"]
+    note: "'Do not tip the scales, do not falsify the weights, do not diminish the parts of the measure'; 'the baboon sits beside the balance, his heart the plummet: which god is as great as Thoth who invented these things?'. Q 55:7-9 'He raised the heaven and set up the balance, that you not transgress in the balance; establish the weight with justice and do not make the balance short'. The balance as the god's institution, with the ban on cheating it."
+  - with: quran-26-shuayb-ayka
+    motif: honest-weights
+    refs: ["Amenemope W1:17.18", "Amenemope W1:18.4"]
+    with_refs: ["26:181", "26:182"]
+    relation: parallel
+    record:
+      quoted: ["m-jri̯ jri̯ n =k qd.pl m ḥḏ", "awfū l-kayla ... wa-zinū bi-l-qisṭāsi l-mustaqīm"]
+    note: "'Do not make for yourself deficient weights'; Shuʿayb: 'give full measure ... and weigh with the straight balance'."
+- unit: ane-amenemope-w1-ch17-measure
+  checked: [quran-83-defrauders, quran-7-shuayb-midian, quran-6-commandments, quran-5-oaths-wine-game]
+  matches:
+  - with: quran-83-defrauders
+    motif: two-measures-taking-full-giving-short
+    refs: ["Amenemope W1:18.15", "Amenemope W1:18.19", "Amenemope W1:18.21"]
+    with_refs: ["83:2", "83:3"]
+    relation: parallel
+    record:
+      object: [the oipe and corn-measure, the measure and the weight]
+      quoted: ["m-jri̯ jri̯ n =k jp,t n ṯꜣ 2", "idhā ktālū ʿalā l-nāsi yastawfūna wa-idhā kālūhum aw wazanūhum yukhsirūn"]
+    note: "'Do not make yourself an oipe-measure that holds two (a measure \"of taking two\")', make it measure its exact size; Q 83:2-3 those who take full measure from people and give short when they measure or weigh for them. One measure for taking and another for giving."
+- unit: ane-amenemope-w1-ch18-god-decides
+  checked: [quran-68-qalam-companions-of-the-garden, quran-18-companions-of-the-cave, quran-75-resurrection, quran-8-obedience-trial, quran-31-signs-and-unseen, quran-53-najm-goddesses-and-scrolls]
+  matches:
+  - with: quran-31-signs-and-unseen
+    motif: no-one-knows-tomorrow
+    refs: ["Amenemope W1:19.11", "Amenemope W1:19.13"]
+    with_refs: ["31:34"]
+    relation: parallel
+    record:
+      agent: [man, no soul]
+      action: [does not know tomorrow, does not know what it will earn tomorrow]
+      quoted: ["pꜣ z ḥr ḫm dwꜣ,w mj-ꜣḫ", "wa-mā tadrī nafsun mādhā taksibu ghadan"]
+    note: "'Do not lie down fearing tomorrow ... man does not know what tomorrow is like'; 'no soul knows what it will earn tomorrow'. The same unknown tomorrow; Amenemope draws calm from it, the Quran God's sole knowledge."
+  - with: quran-18-companions-of-the-cave
+    motif: human-plan-for-tomorrow-and-gods-will
+    refs: ["Amenemope W1:19.14", "Amenemope W1:19.16"]
+    with_refs: ["18:23", "18:24"]
+    relation: parallel
+    record:
+      quoted: ["rwjꜣ.tj nꜣ mdw j:ḏd nꜣ rmṯ rwjꜣ.tw nꜣ jri̯ pꜣ nṯr", "wa-lā taqūlanna li-shayʾin innī fāʿilun dhālika ghadan illā an yashāʾa llāh"]
+    note: "'The words men say are one thing, what the god does is another'; 'never say of anything \"I will do it tomorrow\" except \"if God wills\"'. What a man says he will do set against what God does."
+  - with: quran-68-qalam-companions-of-the-garden
+    motif: human-plan-for-tomorrow-and-gods-will
+    refs: ["Amenemope W1:19.12", "Amenemope W1:19.16"]
+    with_refs: ["68:17", "68:18"]
+    relation: echo
+    record:
+      quoted: ["ḥḏ tꜣ ... rwjꜣ.tw nꜣ jri̯ pꜣ nṯr", "aqsamū la-yaṣrimunnahā muṣbiḥīna wa-lā yastathnūn"]
+    note: "'When the earth grows light, what is tomorrow?'; the owners of the garden swore to harvest it at morning 'and made no exception' (did not say 'if God wills'), and found it destroyed."
+  - with: quran-53-najm-goddesses-and-scrolls
+    motif: do-not-claim-to-be-sinless
+    refs: ["Amenemope W1:19.18", "Amenemope W1:19.20"]
+    with_refs: ["53:32"]
+    relation: parallel
+    record:
+      quoted: ["m-jri̯ ḏd mꜥn m-djw =j btꜣ,w", "fa-lā tuzakkū anfusakum huwa aʿlamu bi-mani ttaqā"]
+    note: "'Do not say \"I have no sin\" ... sin belongs to the god, it is sealed with his finger'; 'do not claim purity for yourselves; He knows best who is god-fearing'."
+- unit: ane-amenemope-w1-ch19-tell-the-truth-in-court
+  checked: [quran-5-bequest-witnesses, quran-2-debt-contract, quran-24-penalties-and-lian]
+  matches: []
+- unit: ane-amenemope-w1-ch20-justice-in-court
+  checked: [quran-9-uzayr-clergy, quran-2-fasting, quran-24-ifk-slander, quran-25-servants-of-the-merciful, quran-4-trusts-obedience]
+  matches:
+  - with: quran-2-fasting
+    motif: bribe-to-the-judge
+    refs: ["Amenemope W1:20.21", "Amenemope W1:21.3"]
+    with_refs: ["2:188"]
+    relation: parallel
+    record:
+      action: [takes a gift from the powerful, offer property to the judges]
+      place: [the court, the judges (al-ḥukkām)]
+      quoted: ["m-jri̯ šzp fqꜣ n nḫt mtw =k gꜣ~wꜣ n =f sꜣw-ꜥ", "wa-tudlū bihā ilā l-ḥukkāmi li-taʾkulū farīqan min amwāli l-nāsi bi-l-ithm"]
+      outcome: [the weak is rejected, part of people's property consumed]
+    note: "In court: 'do not accept a gift from the powerful and reject the weak for his sake'; Q 2:188 'do not ... let it down (as bait) to the judges, to consume a portion of people's property sinfully'. The bribe in the law-court that robs the weaker party; seen from the judge vs. from the briber."
+  - with: quran-4-trusts-obedience
+    motif: return-property-to-its-owners
+    refs: ["Amenemope W1:21.17"]
+    with_refs: ["4:58"]
+    relation: parallel
+    record:
+      action: [hand over goods to their owners, render trusts to their owners]
+      quoted: ["swḏ ꜣḫ,t m nꜣy =w nb.w", "an tuʾaddū l-amānāti ilā ahlihā wa-idhā ḥakamtum bayna l-nāsi an taḥkumū bi-l-ʿadl"]
+    note: "In the chapter on justice in court: 'hand over the possessions to their owners and seek your own living'; 'God commands you to render trusts to their owners and, when you judge between people, to judge with justice'. Restoring property to its owners joined to just judgment."
+- unit: ane-amenemope-w1-ch21-sit-in-gods-arms
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-41-steadfast-and-repel-evil, quran-47-muhammad-hypocrites, quran-11-hud]
+  matches: []
+- unit: ane-amenemope-w1-ch22-do-not-provoke
+  checked: [quran-47-muhammad-hypocrites, quran-41-steadfast-and-repel-evil, quran-33-trench]
+  matches: []
+- unit: ane-amenemope-w1-ch23-dining-with-official
+  checked: [quran-38-job, quran-24-household-etiquette, quran-2-charity]
+  matches: []
+- unit: ane-amenemope-w1-ch24-keep-confidence
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-8-obedience-trial, quran-2-three-groups, quran-42-shura-judgment-and-divine-speech]
+  matches:
+  - with: quran-66-tahrim-wives-and-the-four-women
+    motif: confidence-divulged
+    refs: ["Amenemope W1:23.22", "Amenemope W1:24.2"]
+    with_refs: ["66:3"]
+    relation: echo
+    record:
+      action: [repeats outside what was said in the house, discloses what was confided]
+      quoted: ["m-jri̯ sḏm wšb,t n sr m pr =f mtw =k wḥm sw n ky m-bw-rʾ", "wa-idh asarra l-nabiyyu ilā baʿḍi azwājihi ḥadīthan fa-lammā nabbaʾat bihi"]
+    note: "'Do not listen to an official's reply in his house and repeat it to another outside'; the Prophet confided a matter to one of his wives 'and when she told it (to another)', God informed him. The word heard in confidence in the house and carried out; a precept vs. an incident."
+- unit: ane-amenemope-w1-ch25-do-not-mock-the-blind
+  checked: [quran-24-household-etiquette, quran-2-charity, quran-17-iblis-and-adam, quran-3-sovereignty]
+  matches:
+  - with: quran-3-sovereignty
+    motif: god-raises-and-lowers-as-he-wills
+    refs: ["Amenemope W1:24.15", "Amenemope W1:24.16", "Amenemope W1:24.17"]
+    with_refs: ["3:26"]
+    relation: parallel
+    record:
+      agent: [the god, God]
+      action: [tears down and builds; makes poor and makes overseers, gives and takes kingship; exalts and abases]
+      quoted: ["sw ḥr whnj sw ḥr qd m-mn,t sw ḥr jri̯ ḫꜣ n twꜣ n mri̯ =f", "tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾu wa-tuʿizzu man tashāʾu wa-tudhillu man tashāʾ"]
+    note: "'He tears down and builds up daily, he makes a thousand dependants as he wishes (n mri̯ =f), he makes a thousand men overseers'; 'You give kingship to whom You will and take it from whom You will, You exalt whom You will and abase whom You will'. Raising and lowering men 'as he wills'."
+  - with: quran-17-iblis-and-adam
+    motif: human-is-clay-shaped-by-god
+    refs: ["Amenemope W1:24.9", "Amenemope W1:24.13", "Amenemope W1:24.14"]
+    with_refs: ["17:61"]
+    relation: echo
+    record:
+      object: ["the blind, dwarf and lame", Adam]
+      quoted: ["jr rmṯ ꜥmꜥ,t dḥꜣ pꜣ nṯr pꜣy =f qd", "a-asjudu li-man khalaqta ṭīnā"]
+      outcome: [do not mock him, Iblīs refuses to bow]
+    note: "'Do not laugh at a blind man, do not mock a dwarf ... man is clay and straw, the god is his builder'; Iblīs: 'shall I bow to one You created of clay?'. Man's making from clay invoked where a human is scorned: as the reason not to scorn him vs. as the scorner's argument."
+- unit: ane-amenemope-w1-ch26-respect-elders
+  checked: [quran-24-household-etiquette, quran-17-commandments, quran-37-hell-and-garden]
+  matches: []
+- unit: ane-amenemope-w1-ch27-do-not-curse-elder
+  checked: [quran-17-commandments, quran-41-steadfast-and-repel-evil, quran-24-household-etiquette]
+  matches: []
+- unit: ane-amenemope-w1-ch28-widow-and-stranger
+  checked: [quran-68-qalam-companions-of-the-garden, quran-6-pagan-offerings-cattle, quran-59-hashr-banu-nadir-and-fay, quran-93-94-forenoon-and-expansion, quran-80-frowned]
+  matches:
+  - with: quran-80-frowned
+    motif: god-prefers-the-poor-over-the-noble
+    refs: ["Amenemope W1:26.13"]
+    with_refs: ["80:5", "80:6", "80:8", "80:9", "80:10"]
+    relation: echo
+    record:
+      object: [the poor and the noble, the blind seeker and the self-sufficient]
+      quoted: ["mri̯.n nṯr w(ꜣ)š šwꜣ r tr bwꜣ.y", "ammā mani staghnā fa-anta lahu taṣaddā ... wa-ammā man jāʾaka yasʿā ... fa-anta ʿanhu talahhā"]
+    note: "'God loves him who honours the poor more than him who respects the noble'; Q 80:5-10 'as for him who thinks himself self-sufficient, to him you attend ... but he who came to you striving, fearing, from him you are distracted'. Preferring the great over the poor; a maxim vs. a rebuke of the Prophet."
+- unit: ane-amenemope-w1-ch29-ferry
+  checked: [quran-2-food-piety, quran-24-household-etiquette, quran-2-fasting, quran-9-alms-recipients]
+  matches: []
+- unit: ane-amenemope-w1-ch30-thirty-chapters
+  checked: [quran-3-abraham-people-of-book, quran-69-haqqa-books-in-right-and-left-hands, quran-5-torah-gospel-judgment]
+  matches: []
+- unit: ane-amenemope-w2-louvre-tablet
+  checked: [quran-46-ahqaf-parents-and-the-scornful-son, quran-12-joseph-full, quran-19-zechariah-and-john]
+  matches: []
+- unit: ane-amenemope-w3-cairo-ostracon
+  checked: [quran-17-commandments, quran-24-household-etiquette, quran-2-charity]
+  matches: []
+- unit: ane-amenemope-w4-moscow-tablet
+  checked: [quran-14-parables-and-satans-speech, quran-56-waqia-three-classes-and-the-garden, quran-51-dhariyat-oaths-and-the-righteous]
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: good-tree-and-bad-tree-parable
+    refs: ["Amenemope W4:Rekto_1", "Amenemope W4:Rekto_1/2", "Amenemope W4:Rekto_1/3"]
+    with_refs: ["14:24", "14:25"]
+    relation: echo
+    record:
+      object: [the good tree, the good tree]
+      quoted: ["dgꜣj =f bnrj šwj,t =f nḏm", "tuʾtī ukulahā kulla ḥīnin bi-idhni rabbihā"]
+    note: "The Moscow board preserves the end of the good tree (= W1:6.10-6.11): 'in the sight of its lord; its fruit is sweet, its shade pleasant'; the good tree of 14:24-25 'gives its fruit every season by its Lord's leave'."
+- unit: ane-amenemope-w5-stockholm-papyrus
+  checked: [quran-41-steadfast-and-repel-evil, quran-16-abrogation-food-abraham-sabbath, quran-64-taghabun-day-of-loss-and-household-enemies, quran-48-fath-clear-victory-and-pledge]
+  matches:
+  - with: quran-48-fath-clear-victory-and-pledge
+    motif: heart-and-tongue-at-odds
+    refs: ["Amenemope W5:x+2.13/2"]
+    with_refs: ["48:11"]
+    relation: echo
+    record:
+      quoted: ["m-jri̯ pšn ḥꜣ,tj =k r ns =k", "yaqūlūna bi-alsinatihim mā laysa fī qulūbihim"]
+    note: "The Stockholm copy of ch. 10 (= W1:13.17): 'do not separate your heart from your tongue'; Q 48:11 'they say with their tongues what is not in their hearts'."
+- unit: ane-amenemope-w6-turin-tablet
+  checked: [quran-24-household-etiquette, quran-8-obedience-trial, quran-50-qaf-two-recorders-and-hell-asks-more, quran-2-three-groups, quran-3-sovereignty]
+  matches:
+  - with: quran-3-sovereignty
+    motif: god-raises-and-lowers-as-he-wills
+    refs: ["Amenemope W6:A.10", "Amenemope W6:A.11", "Amenemope W6:A.12"]
+    with_refs: ["3:26"]
+    relation: echo
+    record:
+      quoted: ["sw ḥr whꜣnj sw ḥr qd m-mn,t sw ḥr jri̯ ḫꜣ n twꜣ n mri̯ =f", "tuʿizzu man tashāʾu wa-tudhillu man tashāʾ"]
+    note: "The Turin board's copy of ch. 25 (= W1:24.15-24.17): 'he tears down and builds daily, he makes a thousand dependants as he wishes'; 'You exalt whom You will and abase whom You will'."
+- unit: ane-atenhymn-sunrise-and-titles
+  checked: [quran-79-pharaoh-and-cosmos, quran-39-mercy-and-last-day, quran-25-signs-shadow-seas]
+  matches: []
+- unit: ane-atenhymn-night
+  checked: [quran-30-signs, quran-18-companions-of-the-cave, quran-14-day-of-reckoning, quran-75-resurrection, quran-25-signs-shadow-seas]
+  matches:
+  - with: quran-25-signs-shadow-seas
+    motif: night-a-covering-sleep-like-death-day-a-rising
+    refs: ["AtenHymn 3/4", "AtenHymn 3/5", "AtenHymn 4/3"]
+    with_refs: ["25:47"]
+    relation: echo
+    record:
+      object: [night and the sleepers, night and sleep]
+      quoted: ["tꜣ m kk m sḫr n mwt sḏr.w m šzp tp.w ḥbs ... kk ḥꜣw", "jaʿala lakumu l-layla libāsan wa-l-nawma subātan wa-jaʿala l-nahāra nushūrā"]
+      outcome: [at dawn people wake and stand on their feet, the day is a rising]
+    note: "At sunset 'the land is in darkness, in the manner of death; the sleepers are in their chambers, heads covered ... darkness is a shroud'; Q 25:47 'He made the night a garment for you, sleep a rest, and the day a rising (nushūr)'. Night as covering and as a likeness of death, day as rising (AtenHymn 4/6 'mankind wakes and stands on its feet')."
+- unit: ane-atenhymn-day
+  checked: [quran-24-light-verse, quran-30-signs, quran-2-patience-signs, quran-36-cosmic-signs]
+  matches:
+  - with: quran-24-light-verse
+    motif: birds-praise-with-their-wings
+    refs: ["AtenHymn 5/4", "AtenHymn 5/5"]
+    with_refs: ["24:41"]
+    relation: parallel
+    record:
+      agent: [the birds, the birds]
+      action: [praise with their wings, praise with wings outspread]
+      quoted: ["ꜣpd.w pꜣ.w m sš =sn dnḥ.w =sn m jꜣ,w n kꜣ =k", "wa-l-ṭayru ṣāffātin kullun qad ʿalima ṣalātahu wa-tasbīḥah"]
+    note: "'The birds fly up from their nests, their wings (dnḥ) in praise of your ka'; 'and the birds with wings outspread (ṣāffāt): each knows its prayer and its glorification'. Birds in flight, their wings an act of praise."
+- unit: ane-atenhymn-creation-in-womb-and-egg
+  checked: [quran-39-pure-religion, quran-23-creation-of-man-and-gifts, quran-112-114-unity-and-refuge, quran-2-patience-signs]
+  matches:
+  - with: quran-23-creation-of-man-and-gifts
+    motif: human-made-from-fluid-in-the-womb
+    refs: ["AtenHymn 6/3"]
+    with_refs: ["23:13", "23:14"]
+    relation: parallel
+    record:
+      agent: [the god, God]
+      action: [makes fluid into people, makes the drop into a human]
+      object: [the seed in women, the drop (nuṭfa)]
+      quoted: ["sḫpr mꜣy m ḥm,t.w jri̯ mw m rmṯ.w", "thumma jaʿalnāhu nuṭfatan fī qarārin makīn ... thumma anshaʾnāhu khalqan ākhar"]
+    note: "'Who makes seed grow in women, who makes fluid (mw, water) into people'; 'then We made him a drop in a firm lodging, then We created of the drop a clot ... then brought him forth as another creation'. The deity turning the seed-fluid into a human."
+  - with: quran-39-pure-religion
+    motif: knit-together-in-mothers-womb
+    refs: ["AtenHymn 6/4"]
+    with_refs: ["39:6"]
+    relation: echo
+    record:
+      quoted: ["sꜥnḫ zꜣ m ẖ,t n mwt =f", "yakhluqukum fī buṭūni ummahātikum khalqan min baʿdi khalq"]
+    note: "'Who gives life to the son in the belly of his mother (m ẖ,t n mwt =f)'; 'He creates you in the bellies of your mothers (fī buṭūni ummahātikum), creation after creation, in three darknesses'. The same phrase, the mother's belly as the place of the god's work."
+- unit: ane-atenhymn-creation-of-world-and-nations
+  checked: [quran-30-signs, quran-49-hujurat-etiquette-and-brotherhood, quran-54-qamar-moon-split-and-noah, quran-11-opening-throne-on-water]
+  matches:
+  - with: quran-30-signs
+    motif: diversity-of-tongues-and-skins
+    refs: ["AtenHymn 8/4", "AtenHymn 9"]
+    with_refs: ["30:22"]
+    relation: parallel
+    record:
+      agent: [the god, God]
+      object: [tongues and skins, tongues and colours]
+      quoted: ["ns.w wp m md,t qd =sn m-mj,tt jnm =sn stni̯.w", "wa-khtilāfu alsinatikum wa-alwānikum"]
+    note: "'Tongues (ns.w) are separated in speech, and their natures likewise; their skins (jnm) are distinguished, for you distinguish the foreign peoples'; 'among His signs ... the difference of your tongues (alsina) and your colours'. The same pair, tongue and skin colour, set down as the creator's own work."
+  - with: quran-11-opening-throne-on-water
+    motif: god-provides-each-creature-and-knows-its-place
+    refs: ["AtenHymn 8/3"]
+    with_refs: ["11:6"]
+    relation: echo
+    record:
+      quoted: ["ḏi̯ =k z-nb r s,t =f jri̯ =k ẖr,t =sn wꜥ nb ẖr wnm =f ḥsb =k ꜥḥꜥ,w =f", "wa-mā min dābbatin fī l-arḍi illā ʿalā llāhi rizquhā wa-yaʿlamu mustaqarrahā wa-mustawdaʿahā"]
+    note: "'You set every man in his place, you supply their needs, each has his food, you reckon his lifetime'; 'there is no creature on earth but its provision rests on God, and He knows its dwelling and its repository'. Each creature's place, food and term known and supplied."
+- unit: ane-atenhymn-sole-knower-king
+  checked: [quran-3-sovereignty, quran-35-originator, quran-23-lordship-arguments]
+  matches: []
+- unit: ane-bd125-w1-a-introduction-first-confession
+  checked: [quran-6-commandments, quran-83-defrauders, quran-17-commandments, quran-25-servants-of-the-merciful]
+  matches:
+  - with: quran-83-defrauders
+    motif: measure-and-balance-not-diminished
+    refs: ["BD125 W1:4", "BD125 W1:12/4", "BD125 W1:13", "BD125 W1:13/3", "BD125 W1:13/4"]
+    with_refs: ["83:1", "83:2", "83:3", "83:4", "83:5", "83:6"]
+    relation: parallel
+    record:
+      object: ["the grain measure, land measure and the balance", the measure and the weight]
+      time: [that day of reckoning before Wennefer, a great day when people stand before the Lord of the worlds]
+      quoted: ["n ḫbi̯ =j dbḥ ... n wꜣḥ =j ḥr mw,t n.t jwsw ... hrw pwy n ḥsb qdw,w", "wa-idhā kālūhum aw wazanūhum yukhsirūn ... li-yawmin ʿaẓīm"]
+    note: "'I have not diminished the grain measure, not diminished the land measure, not added to the weights of the hand-balance, not taken from the plummet of the standing balance', spoken on 'that day of reckoning of characters'; Q 83:1-6 woe to those who give short in measure and weight: 'do they not think they will be raised for a great day, a day mankind will stand before the Lord of the worlds?'. Short measure and the balance tied to the day of judgment."
+- unit: ane-bd125-w1-b-forty-two-addresses
+  checked: [quran-60-mumtahana-abrahams-example-and-the-womens-pledge, quran-17-commandments, quran-59-hashr-banu-nadir-and-fay, quran-102-104-rivalry-time-slanderer, quran-49-hujurat-etiquette-and-brotherhood]
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: sworn-list-of-renounced-sins
+    refs: ["BD125 W1:24", "BD125 W1:25", "BD125 W1:29", "BD125 W1:43"]
+    with_refs: ["60:12"]
+    relation: parallel
+    record:
+      action: [declares he has not done them, pledge not to do them]
+      object: ["theft, killing, lying, sleeping with a married woman", "shirk, theft, zinā, killing their children, slander (buhtān)"]
+      quoted: ["n ṯꜣw =j ... n smꜣ =j rmṯ ... n ḏd =j grg ... n nk =j ḥm,t-ṯꜣy", "lā yushrikna ... wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna bi-buhtān"]
+      outcome: [to be found innocent before the judges, the pledge accepted and forgiveness asked for them]
+    note: "Before the 42 judges: 'I have not stolen ... I have killed no man ... I have told no lie ... I have not slept with a married woman'; the women's pledge: 'not to associate anything with God, not to steal, not to commit zinā, not to kill their children, not to bring slander'. A fixed list of negations covering theft, killing, falsehood and sexual sin; a retrospective declaration of innocence vs. a pledge for the future."
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: no-eavesdropping-or-spying
+    refs: ["BD125 W1:38"]
+    with_refs: ["49:12"]
+    relation: echo
+    record:
+      quoted: ["n smtmt =j", "wa-lā tajassasū wa-lā yaghtab baʿḍukum baʿḍā"]
+    note: "'I have not eavesdropped' (with denials of babbling and slander nearby); 'do not spy and do not backbite one another'."
+- unit: ane-bd125-w1-c-address-to-gods-examination
+  checked: [quran-36-trumpet-and-judgment, quran-41-testifying-skins, quran-76-the-human, quran-90-city, quran-21-cosmic-signs-and-scales]
+  matches:
+  - with: quran-90-city
+    motif: bread-to-the-hungry-as-righteous-deed
+    refs: ["BD125 W1:71/2"]
+    with_refs: ["90:14", "90:15", "90:16"]
+    relation: parallel
+    record:
+      action: [gave bread to the hungry, feeding on a day of hunger]
+      recipient: ["the hungry, the thirsty, the naked, the boatless", "a related orphan, a poor man in the dust"]
+      quoted: ["rḏi̯.n =j tʾ n ḥqr,w mw n jbi̯.w mnḫ,t n ḥꜣw mẖn,t n jwi̯,w", "aw iṭʿāmun fī yawmin dhī masghabatin yatīman dhā maqrabatin aw miskīnan dhā matraba"]
+    note: "'I gave bread to the hungry, water to the thirsty, clothes to the naked, a ferry to the boatless'; the steep ascent (al-ʿaqaba) is 'freeing a slave, or feeding on a day of hunger an orphan of kin or a poor man in misery'. Feeding the hungry as the deed that carries one through the judgment."
+  - with: quran-41-testifying-skins
+    motif: witness-against-the-dead-at-judgment
+    refs: ["BD125 W1:69/5", "BD125 W1:80/3"]
+    with_refs: ["41:20", "41:21"]
+    relation: divergence
+    record:
+      agent: [the deceased, the enemies of God]
+      quoted: ["nn mtr,w =j ... nn ꜥ,t jm =j šwi̯.t m mꜣꜥ,t", "shahida ʿalayhim samʿuhum wa-abṣāruhum wa-julūduhum ... wa-qālū li-julūdihim lima shahidtum ʿalaynā"]
+      outcome: ["no witness against him; every limb is full of Maat", "their hearing, eyes and skins witness against them"]
+    note: "The deceased: 'I am without witness (against me)' and 'there is no limb of mine free of Maat'; Q 41:20-21 at the fire 'their hearing, their eyes and their skins bear witness against them', and they ask their skins 'why did you witness against us?'. The witness at the judgment and the body's limbs: none / the limbs themselves."
+  - with: quran-21-cosmic-signs-and-scales
+    motif: balance-set-up-at-the-judgment
+    refs: ["BD125 W1:76/2"]
+    with_refs: ["21:47"]
+    relation: echo
+    record:
+      quoted: ["r rḏi̯.t jwsw r ꜥḥꜥ,w =f m-ẖnw jgr,t", "wa-naḍaʿu l-mawāzīna l-qisṭa li-yawmi l-qiyāma"]
+    note: "'I have come to bear witness to Maat, to set the balance upright in the realm of the dead'; 'We shall set up the just balances for the Day of Resurrection'."
