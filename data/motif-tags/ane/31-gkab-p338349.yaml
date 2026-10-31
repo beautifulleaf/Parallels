@@ -1,3 +1,131 @@
+# Full read of the ANE corpus, chunk 31: Uruk and Sultantepe tablets from ORACC CAMS/GKAB (STT 1-2, SpTU 1-3):
+# Ludlul I, the Gilgameš Letter, šuʾilas, namburbis, dream rituals, Ša-zi-ga potency texts, Tammuz elegies, Nergal and Ereškigal,
+# the Uruk Prophecy, Bīt rimki, Šurpu II-IV and VIII, house-building and necromancy rituals, amulet-stone compendia.
+# Read from ORACC lemmatized transliterations (word glosses only, no translation); tags rest on the Akkadian (and Sumerian of bilinguals).
+new_motifs:
+  ruler-asks-petitioner-his-wish: {label: "A ruler or lord asks a petitioner 'what is your wish?' and the petitioner hopes to attain his desire", cluster: kingship}
+  legendary-king-letter-demands-fabulous-tribute: {label: "A letter in the name of a legendary king (Gilgameš) demands from another king tens of thousands of horses, asses, calves, mules, jars of beer, butter and wine, and precious stones", cluster: kingship}
+  letter-threatens-plunder-of-cities-and-gardens: {label: "A royal letter threatens that if the recipient does not comply, the sender will crush his cities, plunder his palaces and gardens, block his rivers and dwell in his city", cluster: war}
+  precious-boats-on-euphrates-to-babylon: {label: "New processional boats filled with silver and gold are to be floated down the Euphrates to the quay of Babylon so that the gods may see them", cluster: cult}
+  god-brings-flood-and-abundance-to-rivers: {label: "The god bears the high flood and plenty, gladdens the rivers and makes abundance sprout in sea and reed-thicket and life for the people", cluster: divine-attributes}
+  god-gives-counsel-to-great-gods: {label: "The wise god is the one who gives counsel to the great gods, while Anu and Enlil rejoice over him and the Anunnaki pray to him", cluster: divine-attributes}
+  incantation-of-life-keeps-dead-from-dying: {label: "The god's (Ea's or Asalluhi's) incantation of life is such that by it the dead man does not die, or the dead lives again and the sick rises", cluster: life}
+  dream-transferred-to-clod-dissolved-in-water: {label: "An evil dream is told to a lump of earth (or salt or clay), which is then thrown into water to dissolve, so that the dream's evil dissolves with it", cluster: divination}
+  hidden-illness-no-one-knows: {label: "The illness is hidden: no one knows its inside, and its poison cannot be seen", cluster: illness}
+  marduk-ea-incantation-dialogue: {label: "Asalluhi (Marduk) sees the affliction and reports it to his father Ea, who answers 'what I know you know; go, my son' and prescribes the ritual", cluster: magic}
+  bird-released-as-omen-east-or-west: {label: "A bird (dove) of heaven is released and the direction of its flight, toward sunrise or sunset, is taken as an omen", cluster: divination}
+  demons-as-evil-messengers-swarm-like-locusts: {label: "The demons are 'evil messengers' (mārū šipri lemnūtu) who attack the land, fill it like locusts and lay sickness on man", cluster: demons}
+  effigy-taken-to-steppe-at-dawn-before-sun: {label: "At dawn the substitute figure is carried out to the steppe before the sun god, given provisions in a leather bag and set at the root of a thornbush facing sunset", cluster: magic}
+  evil-demon-stands-aside-good-spirits-present: {label: "Closing wish: may the evil demon stand aside and the good protective spirits (šēdu, lamassu) be present", cluster: magic}
+  hero-god-reared-in-the-mountains: {label: "The warrior god, born of the mother goddess, grew up in the mountains (hursaĝ)", cluster: myth}
+  hymnic-call-to-praise-gods-strength: {label: "The singer repeats 'let me praise, let me praise' the god's might and strength", cluster: hymn}
+  kiss-door-frame-of-temple: {label: "Instead of prostrating, the supplicant goes straight to the god's house and kisses its door frame", cluster: cult}
+  penitent-dressed-as-mourner-or-captive: {label: "The client of a ritual is dressed in a strange costume of debasement: grain and silver on the head, jaw bound, rings on fingers and toes, a lead belt, one sandal, wall plaster on the head", cluster: cult}
+  house-exchanged-evil-handed-back: {label: "Circling his house, the client declares 'I change my house: my evils are your evils' and tears out the evil the gods placed", cluster: magic}
+  evil-sent-beyond-river-and-mountain: {label: "Wish that the evil cross the river, cross the mountain and be thousands of double-hours from the body, rise like smoke and like an uprooted tamarisk never return", cluster: magic}
+  evil-transferred-to-outsider-woman: {label: "Part of the ritual beer or grain is handed to a strange (outsider) woman, carrying the evil out of the house", cluster: magic}
+  bird-omen-alighting-on-man: {label: "Ominous birds (hole-birds) stand or alight on a man, an evil requiring a namburbi", cluster: divination}
+  body-wiped-with-dough-to-remove-evil: {label: "The patient's body is wiped with dough or flour paste (kuppuru) to absorb the evil", cluster: magic}
+  clay-images-of-portent-made: {label: "Clay images of the ominous creature (bird, dog) are made and disposed of to remove its evil", cluster: magic}
+  immersion-three-times-in-river: {label: "The client recites the incantation three times and sinks three times into the river water, then is anointed", cluster: cult}
+  illness-attributed-to-hand-or-wrath-of-a-deity: {label: "An illness or affliction is diagnosed as the 'hand' or the wrath of a named deity (Ninmah, Marduk and Ištar, a demon-god)", cluster: illness}
+  merciful-mother-goddess: {label: "The mother goddess (Ninmah) is addressed as merciful mother who has compassion (rēmu, also 'womb')", cluster: divine-attributes}
+  mother-goddess-creator-of-heaven-and-earth: {label: "The mother goddess is hailed as creator of heaven and earth and lady of the gods", cluster: creation}
+  dead-parents-seen-in-dream: {label: "A frightening dream in which the dreamer sees his dead father, dead mother or other dead persons", cluster: divination}
+  dog-omen-in-house: {label: "A dog lying on a man's bed (or entering his house) is an evil portent requiring a namburbi", cluster: divination}
+  amulet-pouch-hung-on-neck: {label: "Stones, plants and animal parts are wrapped in a leather pouch or threaded on wool and hung on the patient's neck (or bound on hand or hips)", cluster: magic}
+  impotence-from-sorcery-with-the-dead: {label: "A man's impotence is diagnosed as sorcery: his semen (or potency) has been 'laid in the ground with a dead man'", cluster: magic}
+  plant-from-grave-used-in-magic: {label: "Roots or dust taken from a grave are used as ritual ingredients", cluster: magic}
+  sympathetic-animal-ingredients-for-virility: {label: "Parts of sexually potent animals (boar bristle, stag's horn, the 'copulation' of a stag, blood of a male bird) are used as potency remedies", cluster: magic}
+  scribe-marks-break-in-original: {label: "The copyist marks gaps with 'broken' (hīpu), showing that he copied from a damaged original", cluster: scribal}
+  divine-love-precedent-in-charm: {label: "A potency or love charm cites divine lovers as precedent: 'as Ištar did for Dumuzi, Nanāya for her husband, Išhara for Almanu, so may so-and-so be aroused'", cluster: magic}
+  offering-to-ishtar-of-the-stars: {label: "A sacrifice with juniper incense is offered to Ištar of the stars (Venus)", cluster: cult}
+  virility-likened-to-donkey-and-stag: {label: "The charm wishes the man's virility to be like a donkey's, a stag's or a ram's", cluster: magic}
+  male-and-female-figurines-anointed: {label: "Clay figurines of a man and a woman are made and anointed with oil in a love or potency rite", cluster: magic}
+  wind-garden-rain-image-of-desire: {label: "Love charm: 'let the wind blow, the orchard sway, the clouds gather and the drops fall; may my desire be flowing river water'", cluster: love}
+  insatiable-lover-formula: {label: "The lover will not be sated with the beloved's charms (lalû)", cluster: love}
+  mother-seeks-son-where-are-your-feet: {label: "A mourning mother (or sister) asks where the dead son's feet went, and how he was turned back alone", cluster: lament}
+  series-of-kings-foretold-each-will-arise: {label: "Prophecy foretells a succession of anonymous kings: 'after him a king will arise ...', each characterised by his rule (just or unjust)", cluster: prophecy}
+  patron-goddess-statue-carried-off-and-brought-back: {label: "A city's patron goddess (her statue) is carried off to another city and a foreign deity set on her dais; a future king brings her back and reseats her", cluster: cult}
+  people-given-away-as-gift: {label: "A bad king gives the people of a city away as a present", cluster: kingship}
+  oppressive-king-ruins-city-and-canals: {label: "An oppressive king lays heavy tribute on a city, ruins it, lets its canals silt up and its meadows lie abandoned, and carries its goods abroad", cluster: kingship}
+  just-king-restores-cult-temples-and-plenty: {label: "The coming just king judges rightly, re-establishes the city's rites, rebuilds its temples, returns the gods to their houses, renews the city with lapis gates and fills canals and fields with plenty", cluster: prophecy}
+  prophecy-sealed-in-writing: {label: "A prophecy is presented as a written document ('this is its writing')", cluster: prophecy}
+  ancient-sage-adapa: {label: "The antediluvian sage Adapa appears beside a primeval king (Enmerkar)", cluster: wisdom}
+  grave-of-the-ancient-dead-violated: {label: "A king disturbs an old corpse and destroys the gate of its tomb, causing an evil noise in the palace", cluster: underworld}
+  snake-in-house-portent: {label: "A snake (or intertwined snakes) seen in a man's house is an evil portent", cluster: divination}
+  sold-fathers-house-needs-ritual: {label: "A man who has sold his father's house for silver needs an apotropaic ritual", cluster: law}
+  child-born-in-ominous-month: {label: "A child born in a certain month (Nisan) is an omen requiring a ritual", cluster: divination}
+  man-carrying-glowing-embers: {label: "A man who carries glowing embers (kurāru) needs a ritual against its evil", cluster: divination}
+  ritual-for-opening-new-canal: {label: "Rituals and incantations for renewing a canal and opening a river gate", cluster: cult}
+  sun-ritual-at-dusk-and-dawn: {label: "A plant is purified at sunset and uprooted in the morning before the sun god", cluster: magic}
+  lovers-bedroom-cool-and-sweet: {label: "The lovers' bedroom is cool and agreeable (Sumerian love-song phrase)", cluster: love}
+  who-took-away-my-desire-complaint: {label: "The impotent man complains: who took away my desire like slack flax? he hates me all day and bewitches me all night", cluster: magic}
+  guilt-releaser-invoked: {label: "A god is invoked as 'releaser of guilt' (pāṭir arni)", cluster: forgiveness}
+  torch-and-censer-carried-through-house: {label: "A censer and a torch are carried around the house (or around the king) to purify it", cluster: cult}
+  white-garment-for-purification: {label: "After the holy-water rite the client is clothed in a white garment", cluster: cult}
+  evil-torn-out-of-house: {label: "Incantation: may the god make the evil tremble in the house and tear it out of the house", cluster: magic}
+  hemerology-favourable-days: {label: "A rite is tied to specific favourable days of the month (e.g. day 7, day 20, day 21) with rules for diet and conduct", cluster: calendar}
+  truth-in-my-mouth-goodness-in-heart: {label: "Petition: set truth in my mouth and goodness in my heart, so that courtiers and attendants speak well of me", cluster: prayer}
+  curse-of-many-mouths-removed: {label: "Purification: may the curse and complaint from the mouth of many people be removed and poured away", cluster: magic}
+  tablet-of-guilt-broken: {label: "Petition: may the tablet (record) of my guilt be broken, my sins cut off and scattered", cluster: forgiveness}
+  life-like-silver-and-beer-in-peoples-mouth: {label: "Wish that the king's life be (as constant) in people's mouths as silver or beer", cluster: blessing}
+  sun-god-guards-life-daily: {label: "The sun god is asked to guard the petitioner's life daily, renew his reign and grant long days", cluster: prayer}
+  bound-sheep-released-as-guilt-released: {label: "A bound sheep is untied before the sun god: 'as I untie this sheep, may my guilt and sin be untied'", cluster: forgiveness}
+  animals-released-after-purification: {label: "After the purification bath, animals are released (fish, goose, duck) or a gazelle is shot, each with its incantation", cluster: cult}
+  catalogue-of-possible-sins-for-release: {label: "A ritual recites a long catalogue of possible offences (social, verbal, cultic, against kin) that may have brought the curse (māmītu), so that it can be released", cluster: sin}
+  lying-knew-but-did-not-say: {label: "Catalogue sin: he knew but did not say, said but exaggerated, said 'there is' for 'there is not'", cluster: sin}
+  separated-father-from-son-sin: {label: "Catalogue sin: he separated son from father, father from son, daughter from mother, daughter-in-law from mother-in-law, brother from brother, friend from friend", cluster: sin}
+  captive-kept-in-darkness-not-released: {label: "Catalogue sin: he did not release the captive or loosen the bound man, and did not show light to the prisoner", cluster: sin}
+  despised-father-and-mother-as-sin: {label: "Catalogue sin: he despised father and mother, was hostile to his elder brother and sinned against his elder sister", cluster: sin}
+  litany-of-gods-asked-to-release-curse: {label: "A litany names god after god and sanctuary after sanctuary, each asked 'may he release' (lipṭur) the curse", cluster: magic}
+  foreign-gods-named-in-invocation: {label: "Gods of a foreign land (Elam: Inšušinak, Humban, Napiriša) are invoked alongside the native gods", cluster: religion}
+  four-winds-blow-to-release: {label: "The four winds (south, north, east, west) are asked to blow and release the curse", cluster: magic}
+  brazier-son-of-ea-invoked: {label: "The Brazier (Kinūnu), deified as son of Ea, is invoked", cluster: cult}
+  mamit-litany-released-by-asalluhi: {label: "A litany names curses (māmītu) contracted through objects and acts, each with the refrain 'the exorcist of the gods, Asalluhi, will release it'", cluster: magic}
+  curse-contracted-by-eating-with-accursed: {label: "A curse is contracted by speaking with an accursed man or a sinner, eating his bread, drinking his water or his leftovers", cluster: sin}
+  friend-sworn-to-and-killed: {label: "Catalogue offence: swearing (friendship) to a friend and then killing him", cluster: sin}
+  oath-by-sun-god-at-sunrise: {label: "An oath sworn by the sun god at his rising", cluster: oath}
+  broken-table-and-cup-as-curse: {label: "Breaking a table, a cup, a dress-pin, or cutting a hem brings on a curse", cluster: magic}
+  brick-god-dwells-in-new-house-then-expelled: {label: "The brick god Kulla is installed in a house under construction and, when it is finished, ritually escorted out to the river bank with provisions and forbidden to return", cluster: cult}
+  god-of-house-and-household-protective-spirits: {label: "Offerings are made to the god of the house, the goddess of the house and the protective spirit of the house", cluster: cult}
+  gods-as-builders-and-decreers-of-fate: {label: "The gods are hailed as builders of city and house, who fix fates and draw the plans of life with their hands", cluster: creation}
+  hostile-spirit-commanded-to-leave-house: {label: "Shouting 'Hostile one, go out!', the ritualists drive the evil spirit from the new house", cluster: magic}
+  storm-and-evil-sworn-away: {label: "A Sumerian incantation adjures the great storm and evil away with the repeated word 'oath'", cluster: magic}
+  offering-to-river: {label: "Bread, cakes and a sacrifice are set out at the river bank and the exorcist addresses the river", cluster: cult}
+  underworld-god-made-to-speak-to-diviner: {label: "A clay figure of Namtar (fate) is anointed with oil and then tells the practitioner whatever he asks", cluster: divination}
+  offerings-for-underworld-gods-before-sun: {label: "Altars before the sun god and an underworld god are set with rations, wine, milk and beer for the rite of the Land of No Return", cluster: underworld}
+  father-and-mother-of-all-gods-invoked: {label: "Primeval divine pairs (Enmešarra and Ninmešarra, Endašurimma and Nindašurimma, Enkum and Ninkum) are invoked as father and mother of all the gods", cluster: theogony}
+  what-is-my-sin-that-i-am-made-clay: {label: "The dead man asks: what sin did I commit that I was turned into clay?", cluster: underworld}
+  plant-uprooted-sent-as-messenger-to-gods: {label: "An uprooted plant goes up and down the mountain, sees the gods its brothers, carries the word and brings back their decision", cluster: magic}
+  namburbi-if-ghost-silent: {label: "If the consulted ghost stays silent and the case is not resolved, an apotropaic ritual is performed", cluster: divination}
+  speaker-declares-he-belongs-to-gods: {label: "The protected person declares (or is declared) to belong to named gods: 'I am of Enlil and Ninlil, of Ištar and Nanāya'", cluster: magic}
+  man-constantly-afraid-slandered-unlucky: {label: "Diagnosis: a man is constantly afraid, groans day and night, loses his profit, is slandered, unwelcome at the palace and sees the dead in dreams", cluster: illness}
+  adversary-and-slanderer-described: {label: "A man has an adversary and slanderer; hatred, injustice, 'cutting of life' and 'seizing of the mouth' surround him", cluster: magic}
+  healing-goddess-creator-and-giver-of-portions: {label: "The healing goddess (Gula) is hailed as creator of mankind and giver of share, ration and offerings, and asked to stand by the petitioner in court", cluster: divine-attributes}
+  bright-days-and-reconciled-superiors: {label: "Petition that bright days shine on me and god, king, noble and prince be reconciled with me and rejoice to see me", cluster: prayer}
+  gift-to-exorcist-before-god: {label: "The client gives a gift to the exorcist (and grains of silver and gold to the sun god) before the god", cluster: cult}
+  enemies-made-to-be-at-peace: {label: "Petition that the male and female adversary be reconciled, and whoever spoke evil speak good", cluster: prayer}
+  cold-water-cools-gods-anger: {label: "A flask of cold water is held so that the cold water may calm the angry god", cluster: magic}
+  knot-of-gods-heart-untied: {label: "Stones are worn so that the knot of the angry god's heart toward the man is untied", cluster: magic}
+  god-detests-blasphemer-who-curses-god: {label: "A man who keeps cursing his god and goddess and speaking lies against them is detestable to his god, who will not accept his prayer", cluster: sin}
+  curse-turned-back: {label: "Stones or rites serve to turn back a curse onto its sender", cluster: magic}
+  speaker-identifies-with-stones-that-break-mountains: {label: "In the incantation the amulet speaks: 'I am lapis lazuli, I break the mountain; I am gold, tribute of Esagil'", cluster: magic}
+  amulet-guards-footsteps-in-battle: {label: "Stones guard a man's footsteps in battle and lengthen his life; 'guard my footsteps, Marduk'", cluster: magic}
+  guilt-of-god-and-king-not-to-approach: {label: "Stones and plants are worn so that the punishment (guilt) of god and king may not approach the man", cluster: magic}
+  claw-of-anzu-amulet-quest: {label: "Incantation: 'who will bring me up to the roof of the Anzu bird and put its sated claw in my hand?'; a goddess answers and the Anzu's claw becomes an amulet of success", cluster: magic}
+  whatever-you-ask-will-be-given: {label: "Holding the amulet, whatever the client requests will be given him", cluster: magic}
+  sun-god-invoked-as-dragon-of-heaven-and-earth: {label: "The sun god is addressed as 'great dragon of heaven and earth', strong heir and offspring of the moon god", cluster: divine-attributes}
+  enemies-as-lions-and-wolves: {label: "The adversaries rise like a lion, rage like a wolf and gather in assembly", cluster: enemies}
+  anointed-so-all-who-see-rejoice: {label: "The client anoints face and arms so that whoever sees him rejoices and he is welcome wherever he goes", cluster: magic}
+  river-turtles-lament-dry-land-turtles: {label: "Incantation image: turtles of the river and of dry land beat their weapons into the river, yet the speaker passes among them unafraid", cluster: magic}
+  love-charm-of-laughter-and-beauty: {label: "Charm: 'placed is the sandal on my foot; laughter, the flower of my face, the charm of my eyes' - to win love or favour", cluster: love}
+  illness-transferred-into-pig: {label: "An illness (epilepsy) is transferred from the patient to a pig, which is released or taken away with his torn garments", cluster: magic}
+  mamit-of-dead-and-wronged: {label: "The curse of a dead man, of a wronged man, and of what is known and not known", cluster: magic}
+  god-brings-up-from-pit-and-saves: {label: "The god raises from illness, pulls out of distress, spares in guilt, saves in hardship, brings up from the pit and rescues from catastrophe", cluster: salvation}
+  gods-stand-each-to-release-in-his-domain: {label: "Litany 'may god X stand': each god (moon, sun, storm, warrior) stands to release the curse or remove illness in his own domain", cluster: magic}
+  divine-numbers-of-gods: {label: "The great gods are assigned mystical numbers (Enlil 50, Ea 40, Sîn 30, Šamaš 20)", cluster: theology}
+  estranged-couple-reconciled-by-ritual: {label: "A ritual before the sun god brings together again a man and woman who have become distant", cluster: love}
 units:
   - id: ane-gkab-p338349-o-ludlul-god-abandons
     tradition: ane-akkadian
@@ -689,8 +817,8 @@ units:
     read: ["GKAB P348618 o.i", "GKAB P348618 o.ii"]
     tags:
       - {motif: catalogue-of-possible-sins-for-release, refs: ["GKAB P348618 o.i:2'-33'", "GKAB P348618 o.ii:1'-13'"], note: "a long list of offences the sufferer may have committed (unknowingly), each a cause of his 'oath' (māmītu): ana banīti lemutta ana lemutti banīta ... ṣalipta ušadbibū ... dayyāna ušāhizū ..."}
-      - {motif: calling-good-evil-and-evil-good, refs: ["GKAB P348618 o.i:2'-3'"], note: "ana banīti lemutta / ana lemutti banīta: (he said) evil for good, good for evil"}
-      - {motif: judge-bribed-to-pervert-justice, refs: ["GKAB P348618 o.i:4'-5'"], note: "ṣalipta ušadbibū dayyāna ušāhizū: made one speak falsehood, made the judge take (a bribe)"}
+      - {motif: calling-evil-good, refs: ["GKAB P348618 o.i:2'-3'"], note: "ana banīti lemutta / ana lemutti banīta: (he said) evil for good, good for evil"}
+      - {motif: bribe-from-bosom-perverts-justice, refs: ["GKAB P348618 o.i:4'-5'"], note: "ṣalipta ušadbibū dayyāna ušāhizū: made one speak falsehood, made the judge take (a bribe)"}
       - {motif: lying-knew-but-did-not-say, refs: ["GKAB P348618 o.i:7'-8'", "GKAB P348618 o.i:33'"], note: "īdû lā iqbû / iqbû uttaru ... ana yānu ibašši iqtabi: knew but did not speak; spoke but exaggerated; said 'there is' for 'there is not'"}
       - {motif: oppression-of-widow-stranger-orphan, refs: ["GKAB P348618 o.i:9'-10'"], note: "enša hablu eništa idâṣu / almatta ina dīni ālišu usahhiru: oppressed the weak man and the wronged weak woman, turned the widow away in his city's court"}
       - {motif: separated-father-from-son-sin, refs: ["GKAB P348618 o.i:11'-19'"], note: "itti abi māra iprus / itti māri aba iprus / itti ummi mārta ... itti mārti umma ... itti emēti kallata ... itti kallati emēta ... itti ahi ahāšu ... itti ibri ibiršu ... itti rūʾa rūʾašu iprusu: separated son from father, father from son, daughter from mother, mother from daughter, daughter-in-law from mother-in-law and back, brother from brother, friend from friend"}
@@ -730,7 +858,7 @@ units:
       - {motif: curse-contracted-by-eating-with-accursed, refs: ["GKAB P348619 r.ii:1-8"], note: "māmīt itti tamî dabāba / akal tamî akāla / mê tamî šatâ / rēhet tamî šatâ ... itti bēl arni dabāba / akal bēl arni akāla / mê bēl arni šatâ: the curse of speaking with an accursed man, eating his bread, drinking his water, drinking his leftovers; the same with a sinner"}
       - {motif: friend-sworn-to-and-killed, refs: ["GKAB P348619 o.i:16'"], note: "māmīt ana ibri tamû u dâkšu: the oath of swearing (friendship) to a friend and killing him"}
       - {motif: unwashed-hands-to-mouth-disgusting, refs: ["GKAB P348619 o.i:26'"], note: "māmīt nīš qātī lā mesâti u nīš ilī zakāri: lifting unwashed hands (in prayer) and invoking the gods' name"}
-      - {motif: judge-bribed-to-pervert-justice, refs: ["GKAB P348619 o.i:6'"], note: "māmīt dīni ṭāti: a judgment (taken for) a bribe"}
+      - {motif: bribe-from-bosom-perverts-justice, refs: ["GKAB P348619 o.i:6'"], note: "māmīt dīni ṭāti: a judgment (taken for) a bribe"}
       - {motif: oath-by-sun-god-at-sunrise, refs: ["GKAB P348619 o.i:25'"], note: "māmīt Šamaš ina niphišu tamû: swearing by Šamaš at his rising"}
     hints:
       - "Do not eat with the wicked / keep no company with the sinner: Ps 1:1, Ps 101:5-7, Prov 23:6, 1 Cor 5:11; Achan's ḥerem contaminates all Israel: Josh 7."
@@ -779,12 +907,12 @@ units:
     version: "Late Babylonian, Akkadian with Sumerian incantations"
     read: ["GKAB P348621 r.i", "GKAB P348621 r.ii"]
     tags:
-      - {motif: brick-god-dwells-in-new-house-then-expelled, refs: ["GKAB P348621 r.i:5'-11'", "GKAB P348621 r.ii:2'"], note: "Kulla ištu bīti kīma ittaṣû ... 7 uṣurāti inneṣṣir 7 silagazû uhteppû 7 libbi gišimmari 7 ēra izzaqqapū / Kulla ana kišād nāri qadu ṣudêšu iredûšu ina ušalli nāri ušeššebūšu: when Kulla has gone out, seven drawings, seven vessels broken, seven palm hearts and seven ēru-staves set up; they lead Kulla with his provisions to the river bank and settle him in the river meadow"}
+      - {motif: brick-god-dwells-in-new-house-then-expelled, refs: ["GKAB P348621 r.i:5-11", "GKAB P348621 r.ii:2"], note: "Kulla ištu bīti kīma ittaṣû ... 7 uṣurāti inneṣṣir 7 silagazû uhteppû 7 libbi gišimmari 7 ēra izzaqqapū / Kulla ana kišād nāri qadu ṣudêšu iredûšu ina ušalli nāri ušeššebūšu: when Kulla has gone out, seven drawings, seven vessels broken, seven palm hearts and seven ēru-staves set up; they lead Kulla with his provisions to the river bank and settle him in the river meadow"}
       - {motif: storm-and-evil-sworn-away, refs: ["GKAB P348621 r.i:1-3"], note: "ud gal usu im mu-un-sug₂-ge-eš-a / niŋ₂-hulu-da Kulla bala ki ra-ah / saŋ-ba saŋ-ba saŋ-ba saŋ-ba: great storm ... evil, Kulla ... oath, oath (Sumerian, 14 incantations counted)"}
-      - {motif: exorcised-by-heaven-and-earth-and-primeval-gods, refs: ["GKAB P348621 r.ii:3'-10'"], note: "Kulla šamê tummât erṣeti tummât / Ea u Marduk ... Dūri u Dāri ... Lahmu u Lahamu ... Alala u Belili tummâta / ilū āšib šamê ... āšib erṣeti ... āšib Dukuga tummâta: adjured by heaven, by earth, by Ea and Marduk, by Duri and Dari, Lahmu and Lahamu, Alala and Belili, the gods of heaven, earth and the Holy Mound"}
-      - {motif: evil-sent-away-on-the-wind, refs: ["GKAB P348621 r.ii:11'-15'"], note: "lū tannassih lū tattallak lū terēq lū tennessi lū tattaṣi ... Ekur u Gar utammīka lā tatūru: be torn out, go, be far, be distant, go out; I adjure you by Ekur and Gar: do not return"}
-      - {motif: do-not-look-back, refs: ["GKAB P348621 r.ii:16'-18'"], note: "wāšipu u itinnu pānīšunu usahharū-ma šumēla ana nāri inassukū ... bīta šuāti lā irrub: exorcist and builder turn their faces back, throw (something) with the left into the river; (Kulla) may not enter that house"}
-      - {motif: offering-to-river, refs: ["GKAB P348621 r.i:12'-16'"], note: "akla mersa ana Ea u Marduk tašakkan nīqu innaqqi ... ana pān Ea u Marduk mašmaššu ana pān nāri kīam iqabbi: bread, cakes and a sacrifice set out at the river"}
+      - {motif: exorcised-by-heaven-and-earth-and-primeval-gods, refs: ["GKAB P348621 r.ii:3-10"], note: "Kulla šamê tummât erṣeti tummât / Ea u Marduk ... Dūri u Dāri ... Lahmu u Lahamu ... Alala u Belili tummâta / ilū āšib šamê ... āšib erṣeti ... āšib Dukuga tummâta: adjured by heaven, by earth, by Ea and Marduk, by Duri and Dari, Lahmu and Lahamu, Alala and Belili, the gods of heaven, earth and the Holy Mound"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["GKAB P348621 r.ii:11-15"], note: "lū tannassih lū tattallak lū terēq lū tennessi lū tattaṣi ... Ekur u Gar utammīka lā tatūru: be torn out, go, be far, be distant, go out; I adjure you by Ekur and Gar: do not return"}
+      - {motif: do-not-look-back, refs: ["GKAB P348621 r.ii:16-18"], note: "wāšipu u itinnu pānīšunu usahharū-ma šumēla ana nāri inassukū ... bīta šuāti lā irrub: exorcist and builder turn their faces back, throw (something) with the left into the river; (Kulla) may not enter that house"}
+      - {motif: offering-to-river, refs: ["GKAB P348621 r.i:12-16"], note: "akla mersa ana Ea u Marduk tašakkan nīqu innaqqi ... ana pān Ea u Marduk mašmaššu ana pān nāri kīam iqabbi: bread, cakes and a sacrifice set out at the river"}
     hints:
       - "Primeval gods in pairs as the oldest witnesses: compare Gen 1:2 (tohu and bohu, deep and darkness); heaven and earth called as witnesses: Deut 30:19, Deut 32:1, Isa 1:2."
       - "The evil sent away 'not to return': Lev 16:22, Zech 5:5-11 (wickedness carried off in a basket to Shinar)."
@@ -832,7 +960,7 @@ units:
     tagger: "Claude (model), reading the Akkadian"
     read: ["GKAB P348627 o.i"]
     tags:
-      - {motif: amulet-pouch-hung-on-neck, refs: ["GKAB P348627 o.i:1'-17'", "GKAB P348627 o.i:31-39"], note: "9 abnū birrat īnī ša qāt imitti ina šīpāti sāmāti tašakkak ... ina qāt imittišu tarakkas ... ina kišādišu tašakkan: sets of nine, eleven, twelve stones threaded on red or blue wool, bound on the right or left hand or hung on the neck"}
+      - {motif: amulet-pouch-hung-on-neck, refs: ["GKAB P348627 o.i:1-17", "GKAB P348627 o.i:31-39"], note: "9 abnū birrat īnī ša qāt imitti ina šīpāti sāmāti tašakkak ... ina qāt imittišu tarakkas ... ina kišādišu tašakkan: sets of nine, eleven, twelve stones threaded on red or blue wool, bound on the right or left hand or hung on the neck"}
       - {motif: speaker-declares-he-belongs-to-gods, refs: ["GKAB P348627 o.i:18-20"], note: "awīlu inūma birṣī ītanammaru kīam iqabbi: ša Ellil u Ninlil anāku ša Ištar u Nanāya anāku ša Uraš u Bēlet-ekalli anāku (3 times) iballuṭ: when a man keeps seeing flashes of light he says: 'I belong to Enlil and Ninlil, to Ištar and Nanāya, to Uraš and Bēlet-ekalli' and he will recover"}
       - {motif: man-constantly-afraid-slandered-unlucky, refs: ["GKAB P348627 o.i:21-30"], note: "awīlu ginâ šūdur urra u mūša inanziq ... išdihu iparras karṣīšu ikkalū dābibūšu itti kitti lā idabbubū ubān lemutti arkišu tarṣat ina ēkallišu lā mahrašu: always frightened, groaning day and night, his profit cut off, slandered, his advocates do not speak truth, an evil finger points behind him, unwelcome at the palace"}
       - {motif: dead-parents-seen-in-dream, refs: ["GKAB P348627 o.i:24-25"], note: "šunātūšu lemnā ina šuttišu mītūti immar ... ina šuttišu kīma ša itti sinništi uštahhû u rihûssu iṣarrur: in his dreams he sees dead people; he dreams of lying with a woman and his semen flows"}
@@ -895,7 +1023,7 @@ units:
       - {motif: amulet-guards-footsteps-in-battle, refs: ["GKAB P348627 r.ii:36-41"], note: "kibis šēp awīli ... ilu inaṣṣar ina tāhāzi ... ūmūšu irrikū balāṭu uttar ... uṣur kibsī Marduk šullim Nabû ana zikir pîya / pû u lišānu idāya alka ittīya izizzi Zarpānītu / qābû awāt lemuttīya limqut: guard my footsteps, Marduk; Nabû keep my word sound; may the speaker of evil against me fall"}
       - {motif: guilt-of-god-and-king-not-to-approach, refs: ["GKAB P348627 r.ii:50", "GKAB P348627 b.e:2-4"], note: "arnu šērtu ili u šarri ana awīli lā ṭehê: that the punishment of god and king not come near the man"}
       - {motif: knots-tied-in-wool-and-undone, refs: ["GKAB P348627 r.ii:46-48", "GKAB P348627 b.e:1"], note: "14 kiṣrī takaṣṣar ēma kiṣru šiptu siškur-ŋu₁₀ tamannu ... šīpāti peṣâti ṭamâti 7 kiṣrī tarakkas: fourteen knots, an incantation at each knot; white wool spun, seven knots"}
-      - {motif: abracadabra-spell, refs: ["GKAB P348627 l.e..i:1-4"], note: "u-ri ša-ab a-ri ša-ab ki-ri-ri ša-ab / us-ki-pu-ut-ra ki-pu-ut-ra: a foreign or nonsense spell for eye disease"}
+      - {motif: incantation-in-foreign-gibberish, refs: ["GKAB P348627 l.e..i:1-4"], note: "u-ri ša-ab a-ri ša-ab ki-ri-ri ša-ab / us-ki-pu-ut-ra ki-pu-ut-ra: a foreign or nonsense spell for eye disease"}
       - {motif: priestly-lineage-in-colophon, refs: ["GKAB P348627 l.e..ii:2-3"], note: "kīma pî lēʾi gabarî Bābili šaṭir-ma bari / ṭuppi Iqīšâ bukur Ištar-šuma-ēreš līpi Ekur-zākir mašmaššu: written and collated according to a writing-board copy from Babylon; tablet of Iqīšâ, son of Ištar-šuma-ēreš, descendant of Ekur-zākir, exorcist"}
       - {motif: colophon-copied-and-collated, refs: ["GKAB P348627 l.e..ii:2"]}
     hints:
@@ -914,7 +1042,7 @@ units:
       - {motif: whatever-you-ask-will-be-given, refs: ["GKAB P348628 o:19-20", "GKAB P348628 o:25-26"], note: "ina qātīka taṣabbat-ma mimma terrišu inamdinūka ... mimma errišu silim liddinū ana yâši: hold it in your hand and whatever you ask they will give you"}
       - {motif: sun-god-invoked-as-dragon-of-heaven-and-earth, refs: ["GKAB P348628 o:21-24"], note: "ušumgallu šamê u erṣeti attā-ma ... Šamaš ... ešš[u] aplu gašru ilitti Nanna ... emqu alsīka: you are the great dragon of heaven and earth, Šamaš, strong heir, offspring of Nanna"}
       - {motif: amulet-pouch-hung-on-neck, refs: ["GKAB P348628 o:2-5", "GKAB P348628 r:2-3", "GKAB P348628 r:17-19"], note: "ebony, 'plant of life' in ox-skin on the neck; a claw of Anzu of seven metals (silver, gold, copper, lead, tin, iron); seven wax hands"}
-      - {motif: abracadabra-spell, refs: ["GKAB P348628 r:21", "GKAB P348628 r:23"], note: "en en en en en en en lu₂ kiŋ₂-gi₄-a ... šu šum₂-mu"}
+      - {motif: incantation-in-foreign-gibberish, refs: ["GKAB P348628 r:21", "GKAB P348628 r:23"], note: "en en en en en en en lu₂ kiŋ₂-gi₄-a ... šu šum₂-mu"}
       - {motif: ritual-tablet-keyed-to-incantations, refs: ["GKAB P348628 r:24"], note: "nēpeš annû ša ritti Anzî ana pî šaṭir: this procedure of the Anzu claw is written from dictation (oral tradition)"}
     hints:
       - "Ask and it will be given: Matt 7:7, John 14:13-14, 1 Kgs 3:5; the eagle's nest and wings: Exod 19:4, Obad 1:4, Job 39:27."
