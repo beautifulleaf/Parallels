@@ -1,5 +1,11 @@
 # ANE x Quran side-by-side pass, chunk 8 (ETCSL 2.5.1.2 - 5.7.a, Adapa, Advice to a Prince, Angim, Anzu). Judged blind, from the originals.
 new_motifs:
+  earth-shakes-when-the-lord-comes: {label: When the lord comes, the earth quakes or is crushed, cluster: theophany}
+  god-sets-the-balance-for-fair-dealing: {label: A god sets up or holds the scales so that weighing in trade is just, cluster: law}
+  god-counts-all-people: {label: A god knows the number of all people, having counted them, cluster: theology}
+  sex-of-the-divine-attendants: {label: Whether the divine attendants (heralds, angels) are female, male or neither, cluster: theology}
+  divine-name-or-refuge-protects-at-night: {label: Calling on a divine name or seeking refuge with God protects a person in the dark of night, cluster: ritual}
+  crescent-moon-fixes-the-times: {label: The crescent moon fixes the months and the reckoning of time, cluster: time}
   sufferer-afflicted-by-a-demon-and-relieved-by-god: {label: An innocent sufferer's affliction is the touch of a demon, and his god hears and removes it, cluster: theology}
   no-one-sinless-from-the-womb: {label: 'No human is sinless from birth: the claim of purity is refused with reference to the mother''s womb', cluster: theology}
   in-plenty-forgets-god-in-trouble-prays: {label: A man in plenty neglects his god and calls on him only when affliction comes, cluster: ethics}
@@ -44,8 +50,28 @@ reviewed:
           quoted: ["dug4-ga-ni nu-kam3-me-dam; niŋ2 nu-kur2-ru dug4-ga-zu ki-bi-še3 ŋar", "lā mubaddila li-kalimātihi"]
         note: "Enlil's utterance 'is not to be altered' (nu-kam3) and 'is set in its place, unchangeable' (nu-kur2); 18:27 lā mubaddila li-kalimātihi of the revealed Book. A formula; recorded here because the adab is to Enlil, the same god as the chunk-1 match."
   - unit: ane-etcsl-2-5-4-13-nanna-adab-ishme-dagan
-    checked: [quran-3-sovereignty, quran-35-originator, quran-27-is-there-a-god-with-god]
-    matches: []
+    checked: [quran-3-sovereignty, quran-35-originator, quran-27-is-there-a-god-with-god, quran-2-war-pilgrimage, quran-36-cosmic-signs]
+    matches:
+      - with: quran-2-war-pilgrimage
+        motif: crescent-moon-fixes-the-times
+        refs: ["ETCSL 2.5.4.13 sa–gida.A:7"]
+        with_refs: ["2:189"]
+        relation: echo
+        record:
+          object: ["the crescent and the month", "the crescents"]
+          action: ["makes firm the month and sets the year in its place", "are appointed times for people and the pilgrimage"]
+          quoted: ["itid ud-sakar gu-a gen6-ne2 mu ki-bi-še3 X-ŋar", "yasʾalūnaka ʿani l-ahillati qul hiya mawāqītu li-n-nāsi wa-l-ḥajj"]
+        note: "The crescent (ud-sakar; Arabic hilāl, pl. ahilla) as the fixer of the calendar: Nanna 'making firm the month and the crescent, setting the year in its place'; 'they ask you about the crescents: say, they are fixed times for people and for the pilgrimage'. In Sumerian the crescent is the god; in 2:189 it is a sign whose purpose is stated."
+      - with: quran-36-cosmic-signs
+        motif: crescent-moon-fixes-the-times
+        refs: ["ETCSL 2.5.4.13 sa–gida.A:19", "ETCSL 2.5.4.13 sa–gida.A:22"]
+        with_refs: ["36:39"]
+        relation: echo
+        record:
+          object: ["the moon", "the moon"]
+          action: ["completes the month and is born again as the crescent", "is measured out in stations until it returns like an old palm stalk"]
+          quoted: ["ud nu2-a itid šu du7-a-zu ... a-a ud-sakar u3-tud", "wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurjūni l-qadīm"]
+        note: "The monthly cycle to the thin crescent: 'on the day of lying down, when you complete the month' and 'father, born as the crescent'; 'the moon, we measured it in stations until it returns (ʿāda) like an old date-stalk'."
   - unit: ane-etcsl-2-5-4-13-second-manuscript
     checked: [quran-112-114-unity-and-refuge, quran-3-sovereignty, quran-79-pharaoh-and-cosmos]
     matches: []
@@ -97,8 +123,18 @@ reviewed:
     checked: [quran-3-sovereignty, quran-3-badr-uhud, quran-9-closing]
     matches: []
   - unit: ane-etcsl-2-6-2-a-nanna-for-gungunum
-    checked: [quran-27-is-there-a-god-with-god, quran-2-throne-verse, quran-57-hadid-first-and-last-and-the-loan]
-    matches: []
+    checked: [quran-27-is-there-a-god-with-god, quran-2-throne-verse, quran-57-hadid-first-and-last-and-the-loan, quran-2-war-pilgrimage]
+    matches:
+      - with: quran-2-war-pilgrimage
+        motif: crescent-moon-fixes-the-times
+        refs: ["ETCSL 2.6.2.a Seg.C:2"]
+        with_refs: ["2:189"]
+        relation: echo
+        record:
+          object: ["the crescent and the month", "the crescents"]
+          action: ["makes firm the crescent and the month", "are appointed times for people and the pilgrimage"]
+          quoted: ["ud-sakar itid gen6-ne2", "qul hiya mawāqītu li-n-nāsi wa-l-ḥajj"]
+        note: "Same formula as Išme-Dagan M: Nanna 'who makes firm the crescent (ud-sakar) and the month (itid)'; 2:189 the crescents (ahilla) as mawāqīt. Fragmentary context."
   - unit: ane-etcsl-2-6-6-5-iskur-throne-sin-iddinam
     checked: [quran-79-pharaoh-and-cosmos, quran-2-talut-jalut, quran-3-sovereignty]
     matches: []
@@ -172,23 +208,82 @@ reviewed:
     checked: [quran-17-polemic-and-resurrection, quran-9-bargain-abraham, quran-19-prophets-remembered]
     matches: []
   - unit: ane-etcsl-4-06-1-a-night-watchman
-    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-11-opening-throne-on-water]
-    matches: []
+    checked: [quran-3-sovereignty, quran-2-throne-verse, quran-11-opening-throne-on-water, quran-50-qaf-two-recorders-and-hell-asks-more]
+    matches:
+      - with: quran-50-qaf-two-recorders-and-hell-asks-more
+        motif: god-escorts-dead-to-netherworld
+        refs: ["ETCSL 4.06.1 Seg.A:40"]
+        with_refs: ["50:21"]
+        relation: divergence
+        record:
+          agent: ["Ḫendursaĝa", "a driver (sāʾiq)"]
+          action: ["drives the dead to the netherworld", "comes driving each soul"]
+          recipient: ["the dead", "every soul"]
+          quoted: ["saŋ ug5-ga kur-ra |DU.DU|-e-da gal5-la2 gal-bi-me-en", "wa-jāʾat kullu nafsin maʿahā sāʾiqun wa-shahīd"]
+          place: ["kur (the netherworld)", "to judgment"]
+        note: "An officer who drives the dead: 'you are the great constable (gal5-la2 gal) for leading the dead (saŋ ug5-ga) to the netherworld'; 'every soul will come with a driver (sāʾiq) and a witness'. In Sumerian one god, the night watchman of the streets, does it for all; in 50:21 each soul has its own driver, and the destination is the judgment, not the kur."
   - unit: ane-etcsl-4-06-1-a-seven-creatures
     checked: [quran-37-daughters-and-ranks, quran-43-zukhruf-book-and-daughters, quran-112-114-unity-and-refuge, quran-72-jinn]
-    matches: []
+    matches:
+      - with: quran-37-daughters-and-ranks
+        motif: sex-of-the-divine-attendants
+        refs: ["ETCSL 4.06.1 Seg.A:49", "ETCSL 4.06.1 Seg.A:85"]
+        with_refs: ["37:150"]
+        relation: divergence
+        record:
+          agent: ["the seven heralds of Ḫendursaĝa", "the angels"]
+          name: ["diŋir (gods)", "al-malāʾika"]
+          quoted: ["7-be2-ne diŋir munus nu-me-eš u3 nitah nu-me-eš", "am khalaqnā l-malāʾikata ināthan wa-hum shāhidūn"]
+          outcome: ["they are neither female nor male", "the claim that they are female is refused"]
+        note: "The sex of a god's attendant beings is the explicit question in both. Ḫendursaĝa's band of seven: 'these seven are gods, they are not female and they are not male'; 37:150 'did we create the angels female while they were witnesses?' (also 43:19). The Sumerian asserts neither sex; the Quran denies the pagan claim of female sex."
+      - with: quran-112-114-unity-and-refuge
+        motif: divine-name-or-refuge-protects-at-night
+        refs: ["ETCSL 4.06.1 Seg.A:44", "ETCSL 4.06.1 Seg.A:45"]
+        with_refs: ["113:1", "113:3"]
+        relation: echo
+        record:
+          agent: ["a man", "the believer"]
+          action: ["takes the god's name", "seeks refuge with the Lord of the daybreak"]
+          time: ["in the silent street at night", "when darkness settles"]
+          quoted: ["mu {d}hendur-saŋ-ŋa2-ka um-mi-in-pad3 / sila sig9-ga ŋi6 u3-na-ka si sa2-bi mi-ni-dab5-be2", "qul aʿūdhu bi-rabbi l-falaq ... wa-min sharri ghāsiqin idhā waqab"]
+          outcome: ["he is kept on the right way", null]
+        note: "Night protection by calling on a divine name: 'when a man has invoked the name of Ḫendursaĝa, in the silent street at night he keeps him on the right course'; 'say: I seek refuge in the Lord of the daybreak ... from the evil of the dark when it settles'."
   - unit: ane-etcsl-4-06-1-a-gods-stand-beside
     checked: [quran-2-abrogation-polemic, quran-7-closing-recitation, quran-2-throne-verse]
     matches: []
   - unit: ane-etcsl-4-06-1-b-seven-brothers
-    checked: [quran-23-lordship-arguments, quran-17-polemic-and-resurrection, quran-2-call-to-worship]
-    matches: []
+    checked: [quran-23-lordship-arguments, quran-17-polemic-and-resurrection, quran-2-call-to-worship, quran-19-resurrection-and-the-son]
+    matches:
+      - with: quran-19-resurrection-and-the-son
+        motif: god-counts-all-people
+        refs: ["ETCSL 4.06.1 Seg.B:3", "ETCSL 4.06.1 Seg.B:4"]
+        with_refs: ["19:94", "19:95"]
+        relation: echo
+        record:
+          agent: ["Ḫendursaĝa", "the Merciful"]
+          action: ["counts the people and leads the dead to the netherworld", "has numbered them and each comes to him alone"]
+          object: ["the black-headed", "all in the heavens and the earth"]
+          quoted: ["saŋ gig2-ga šid-du3-bi za-e-me-en / saŋ ug5-ga kur-ra |DU.DU|-e-bi gal5-la2 gal-bi-me-en", "la-qad aḥṣāhum wa-ʿaddahum ʿaddā wa-kulluhum ātīhi yawma l-qiyāmati fardā"]
+          place: ["the netherworld", "the day of resurrection"]
+        note: "The census of all people joined to their last destination: 'you are the one who counts (šid) the black-headed; you are the great constable who leads the dead to the netherworld'; 'he has enumerated them and counted them exactly, and each of them comes to him on the day of resurrection alone'."
   - unit: ane-etcsl-4-06-1-c-man-without-god
     checked: [quran-42-shura-signs-and-ethics, quran-3-sovereignty, quran-64-taghabun-day-of-loss-and-household-enemies]
     matches: []
   - unit: ane-etcsl-4-06-1-c-utu-at-scales
     checked: [quran-55-rahman-creation-and-the-two-seas, quran-57-hadid-iron-and-monasticism, quran-3-sovereignty, quran-42-shura-signs-and-ethics]
-    matches: []
+    matches:
+      - with: quran-55-rahman-creation-and-the-two-seas
+        motif: god-sets-the-balance-for-fair-dealing
+        refs: ["ETCSL 4.06.1 Seg.C:31", "ETCSL 4.06.1 Seg.C:32", "ETCSL 4.06.1 Seg.C:47"]
+        with_refs: ["55:7", "55:8", "55:9"]
+        relation: echo
+        record:
+          agent: ["Utu", "God"]
+          object: ["the scales (ŋiš-erin2)", "the balance (al-mīzān)"]
+          action: ["stands at the scales and makes firm their arm", "set up the balance"]
+          quoted: ["{d}utu ki ŋiš-erin2-na-ka mu-un-gub ... {d}utu a2 ŋiš-erin2-na-ka mu-un-na-gen6-ne2", "wa-s-samāʾa rafaʿahā wa-waḍaʿa l-mīzān / allā taṭghaw fī l-mīzān / wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān"]
+          outcome: ["purchases of oxen, sheep and slaves are decided fairly", "people are to weigh with justice"]
+        note: "The scales of commerce are a divine institution: when the day has passed Utu 'stands at the place of the scales' and 'makes firm the arm of the scales' for each purchase of an ox, a sheep or a slave; God 'raised the sky and set up the balance', so 'establish weight with justice and do not skimp the balance'. Utu is the sun himself; in 55:7 the balance is set alongside the raised sky."
   - unit: ane-etcsl-4-06-1-c-herald-horn
     checked: [quran-37-daughters-and-ranks, quran-17-polemic-and-resurrection, quran-43-zukhruf-abraham-and-silver-roofs, quran-50-qaf-two-recorders-and-hell-asks-more]
     matches:
@@ -248,8 +343,19 @@ reviewed:
     checked: [quran-2-throne-verse, quran-23-lordship-arguments, quran-21-against-other-gods]
     matches: []
   - unit: ane-etcsl-4-19-1-ningiszida
-    checked: [quran-3-revelation, quran-53-najm-goddesses-and-scrolls, quran-4-prophets-and-trinity]
-    matches: []
+    checked: [quran-3-revelation, quran-53-najm-goddesses-and-scrolls, quran-4-prophets-and-trinity, quran-19-resurrection-and-the-son]
+    matches:
+      - with: quran-19-resurrection-and-the-son
+        motif: god-counts-all-people
+        refs: ["ETCSL 4.19.1 12"]
+        with_refs: ["19:94"]
+        relation: echo
+        record:
+          agent: ["Ninĝišzida", "the Merciful"]
+          action: ["knows the number of the people", "has numbered them exactly"]
+          object: ["the black-headed", "all in the heavens and the earth"]
+          quoted: ["sipad saŋ gig2-ga šid-bi mu-e-zu", "la-qad aḥṣāhum wa-ʿaddahum ʿaddā"]
+        note: "šid 'number, count' of the black-headed known to the shepherd god; aḥṣā and ʿadda 'enumerated and counted'. In Sumerian the image is the shepherd who knows his flock's count (13 seeking the ewes and lambs)."
   - unit: ane-etcsl-4-21-1-ninimma
     checked: [quran-50-qaf-two-recorders-and-hell-asks-more, quran-82-cleaving, quran-3-revelation, quran-25-signs-shadow-seas]
     matches: []
@@ -381,8 +487,19 @@ reviewed:
     checked: [quran-7-closing-recitation, quran-20-closing-exhortation, quran-41-steadfast-and-repel-evil]
     matches: []
   - unit: ane-etcsl-4-32-2-utu
-    checked: [quran-7-sinai-theophany, quran-25-signs-shadow-seas, quran-24-light-verse, quran-13-signs-of-creation]
-    matches: []
+    checked: [quran-7-sinai-theophany, quran-25-signs-shadow-seas, quran-24-light-verse, quran-13-signs-of-creation, quran-89-dawn]
+    matches:
+      - with: quran-89-dawn
+        motif: earth-shakes-when-the-lord-comes
+        refs: ["ETCSL 4.32.2 13", "ETCSL 4.32.2 14"]
+        with_refs: ["89:21", "89:22"]
+        relation: echo
+        record:
+          agent: ["Utu (my king)", "your Lord"]
+          action: ["comes forth", "comes"]
+          quoted: ["ud-ba lugal-ŋu10 ed2-da-ni-ne / an mu-un-da-dub2-dub2 ki mu-un-da-sag3-sag3", "kallā idhā dukkati l-arḍu dakkan dakkā wa-jāʾa rabbuka wa-l-malaku ṣaffan ṣaffā"]
+          outcome: ["heaven trembles and earth quakes", "the earth is pounded to dust"]
+        note: "The lord's coming and the shaking of the earth stated together: 'when my king comes forth, heaven trembles (dub2) with him and the earth quakes (sag3)'; 'when the earth is pounded, pounded, and your Lord comes with the angels rank on rank'. Utu's coming is the daily sunrise; 89:21-22 is the last day."
   - unit: ane-etcsl-5-3-3-a-seasons-created
     checked: [quran-5-two-sons-of-adam, quran-9-months-nasi, quran-7-creation-signs, quran-16-blessings-of-creation]
     matches: []
@@ -683,4 +800,16 @@ reviewed:
     matches: []
   - unit: ane-anzu-na-a-battle
     checked: [quran-7-sinai-theophany, quran-8-badr-help, quran-73-enwrapped, quran-59-hashr-hypocrites-and-the-names]
-    matches: []
+    matches:
+      - with: quran-7-sinai-theophany
+        motif: mountain-humbled-before-the-divine
+        refs: ["Anzu NA –:a+24", "Anzu NA –:a+29"]
+        with_refs: ["7:143"]
+        relation: divergence
+        record:
+          agent: ["Ninurta", "Moses' Lord"]
+          action: ["his terrifying aura overwhelms the mountains", "manifests himself to the mountain"]
+          object: ["mountains and hills", "the mountain"]
+          quoted: ["rašubbat melammēšu usahhip šadê huršāni ... irubbū ilū erṣeti", "fa-lammā tajallā rabbuhu li-l-jabali jaʿalahu dakkan wa-kharra mūsā ṣaʿiqā"]
+          outcome: ["the gods of the earth tremble", "the mountain is levelled and Moses falls senseless"]
+        note: "The divine radiance falls on the mountains: Ninurta's melammu 'covered (usahhip) mountains and hills' and the gods of the earth trembled (irubbū); God 'manifested himself (tajallā) to the mountain, made it level (dakk), and Moses fell senseless'. In Anzû it is a battle against the monster; in 7:143 the answer to Moses' request to see God."

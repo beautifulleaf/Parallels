@@ -1,0 +1,736 @@
+# ANE x Quran side-by-side pass, chunk 11 (Gilgameš SB IX-XII, Gula hymns, Ishtar's Descent, Ishtar hymns, Lipit-Eštar A, Ludlul bēl nēmeqi, Maqlû I-IV). Judged blind, from the originals.
+new_motifs:
+  traveller-reaches-sunrise-and-sunset-places: {label: A far traveller reaches the place where the sun rises and the place where it sets, cluster: cosmos}
+  twin-mountains-at-the-ends-of-the-earth: {label: At the end of his journey the traveller comes to a pair of mountains, cluster: cosmos}
+  gods-fix-death-and-life: {label: Death and life (in that order) are set or created by the divine, cluster: death}
+  hidden-time-or-place-of-death: {label: Humans are not told the day or the place of their death, cluster: death}
+  flood-hero-found-to-be-an-ordinary-man: {label: 'The flood hero is told he is only a man like the speaker(s) [shared matter]', cluster: flood}
+  flood-hero-promises-his-city-rain-of-plenty: {label: 'Before the flood the hero tells his city that heaven will rain plenty on them [shared matter]', cluster: flood}
+  townspeople-at-the-building-of-the-vessel: {label: 'The townspeople come to the flood hero while he builds the vessel [shared matter]', cluster: flood}
+  what-is-loaded-into-the-vessel: {label: 'What the flood hero takes aboard: animals, kin and others [shared matter]', cluster: flood}
+  sign-to-board-the-vessel: {label: 'The deity sets a sign for when the flood hero must board [shared matter]', cluster: flood}
+  who-pilots-the-vessel: {label: 'To whom the vessel''s course is entrusted on boarding [shared matter]', cluster: flood}
+  days-and-nights-of-the-destroying-wind: {label: 'The count of days and nights a destroying wind or flood-storm blows [shared matter]', cluster: flood}
+  how-the-flood-ends: {label: 'How the flood waters stop [shared matter]', cluster: flood}
+  what-the-flood-hero-does-on-landing: {label: 'What happens when the flood hero leaves the vessel on the mountain [shared matter]', cluster: flood}
+  blessing-of-the-flood-hero-after-the-flood: {label: 'The flood hero is blessed after the flood; the content of the blessing [shared matter]', cluster: flood}
+  token-of-remembrance-after-the-flood: {label: 'A token is kept after the flood so that it is remembered [shared matter]', cluster: flood}
+  no-one-to-survive-the-destruction: {label: 'A wish that no one be left alive by the destruction [shared matter]', cluster: flood}
+  sage-dwells-where-the-waters-meet: {label: A sage with divine knowledge or life is found far away where rivers or seas meet, cluster: cosmos}
+  food-marks-the-length-of-a-sleep: {label: 'The sleeper''s food shows how long he slept [shared matter]', cluster: death}
+  sleeper-thinks-he-slept-a-moment: {label: A man woken from a long sleep thinks he slept only a moment or a day, cluster: death}
+  healer-raises-the-dead-in-first-person: {label: 'A speaker says in the first person that he or she heals the sick and brings the dead back [shared matter]', cluster: deity}
+  women-who-bind-knots-in-sorcery: {label: Female sorcerers work their magic with knots and spittle; refuge or release is sought from it, cluster: magic}
+  night-and-dawn-against-sorcery: {label: 'The night and the dawn in a formula against sorcery [shared matter]', cluster: magic}
+  dust-from-a-footprint-in-magic: {label: A sorcerer takes the dirt of someone's footprint for a magical act, cluster: magic}
+  two-heavenly-beings-descend-in-a-sorcery-context: {label: Two heavenly beings come down from heaven in connection with sorcery, cluster: magic}
+reviewed:
+- unit: ane-gilg-sb-ix-scorpion-people
+  checked: [quran-18-dhul-qarnayn, quran-53-najm-vision-and-lote-tree, quran-25-signs-shadow-seas, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches:
+  - with: quran-18-dhul-qarnayn
+    motif: traveller-reaches-sunrise-and-sunset-places
+    refs: ['Gilg SB IX:39', 'Gilg SB IX:45']
+    with_refs: ['18:86', '18:90']
+    relation: parallel
+    record:
+      agent: [Gilgameš, Dhū l-Qarnayn]
+      action: [reaches the places of the sun, reaches the places of the sun]
+      place: [the rising and the setting of the sun, the setting and the rising of the sun]
+      quoted: [ana aṣê šamši u ereb šamši; aṣê šamši, maghriba sh-shams; maṭliʿa sh-shams]
+    note: 'The Māšu mountains guard ''the rising of the sun'' (aṣê šamši) and ''at sunrise and sunset'' (ana aṣê šamši u ereb šamši) the sun; Dhū l-Qarnayn follows a way (fa-atbaʿa sababan) to maghrib ash-shams (18:86) and maṭliʿ ash-shams (18:90). Gilgameš then takes ''the road of the sun'' (harrān šamaš, IX:138). The order differs: rising first in IX:39, setting first in 18:86-90.'
+  - with: quran-18-dhul-qarnayn
+    motif: twin-mountains-at-the-ends-of-the-earth
+    refs: ['Gilg SB IX:38']
+    with_refs: ['18:93', '18:96']
+    relation: echo
+    record:
+      agent: [Gilgameš, Dhū l-Qarnayn]
+      action: [comes to twin mountains, comes between two mountain barriers]
+      place: [šad māši (twin mountains), bayna s-saddayn; bayna ṣ-ṣadafayn]
+      outcome: [scorpion-people guard the gate, he walls the gap against Yaʾjūj and Maʾjūj]
+    note: ana šad māši ina kašādīšu 'when he came to the twin mountains of Māšu' (dual); 18:93 ḥattā idhā balagha bayna s-saddayni, 18:96 sāwā bayna ṣ-ṣadafayni. Both a pair of mountains reached at the far end of the sun's course; in IX guarded by scorpion-people at a gate, in 18 closed with iron and copper.
+- unit: ane-gilg-sb-ix-path-of-sun-and-jewel-garden
+  checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-2-adam-iblis, quran-24-light-verse]
+  matches: []
+- unit: ane-gilg-sb-x-shiduri
+  checked: [quran-71-noah, quran-50-qaf-resurrection-proofs-and-peoples, quran-23-unnamed-messenger-and-succession, quran-80-frowned]
+  matches: []
+- unit: ane-gilg-sb-x-waters-of-death
+  checked: [quran-18-moses-and-the-servant, quran-29-emigrate-and-trust, quran-11-noah, quran-23-noah]
+  matches: []
+- unit: ane-gilg-sb-x-crossing
+  checked: [quran-18-moses-and-the-servant, quran-12-joseph-full, quran-11-noah]
+  matches: []
+- unit: ane-gilg-sb-x-meets-uta-napishti
+  checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-71-noah, quran-26-noah]
+  matches: []
+- unit: ane-gilg-sb-x-uta-napishti-on-death
+  checked: [quran-31-signs-and-unseen, quran-57-hadid-iron-and-monasticism, quran-10-rain-parable-idols-disown, quran-71-noah, quran-67-mulk-heavens-lamps-and-hell]
+  matches:
+  - with: quran-67-mulk-heavens-lamps-and-hell
+    motif: gods-fix-death-and-life
+    refs: ['Gilg SB X:321']
+    with_refs: ['67:2']
+    relation: echo
+    record:
+      agent: [the Anunnaki and Mammītu, God]
+      action: [established death and life, created death and life]
+      object: [death and life, death and life]
+      quoted: [ištaknū mūta u balāṭa, alladhī khalaqa l-mawta wa-l-ḥayāta]
+    note: 'The pair in the same unusual order, death before life: mūta u balāṭa ''death and life they established'' (X:321); al-mawta wa-l-ḥayāta ''who created death and life'' (67:2). Gilgameš: decreed in the gods'' assembly; 67:2: ''to test which of you is best in deed'' (li-yabluwakum).'
+  - with: quran-31-signs-and-unseen
+    motif: hidden-time-or-place-of-death
+    refs: ['Gilg SB X:322']
+    with_refs: ['31:34']
+    relation: echo
+    record:
+      agent: [the gods, God]
+      object: [the day of death, the land where one dies; the Hour]
+      outcome: [not revealed to men, no soul knows]
+      quoted: [ša mūti ul uddû ūmīšu, wa-mā tadrī nafsun bi-ayyi arḍin tamūt]
+    note: '''The day of death they did not reveal'' (ša mūti ul uddû ūmīšu); 31:34 ''no soul knows in which land it will die'', and God alone has knowledge of the Hour (ʿindahu ʿilmu s-sāʿa). The hidden detail differs: the day in Gilgameš, the place (and tomorrow''s earnings) in 31:34.'
+- unit: ane-gilg-sb-xi-how-did-you-find-life
+  checked: [quran-19-prophets-remembered, quran-23-noah, quran-12-joseph-full, quran-26-noah]
+  matches:
+  - with: quran-23-noah
+    motif: flood-hero-found-to-be-an-ordinary-man
+    refs: ['Gilg SB XI:2-4']
+    with_refs: ['23:24']
+    relation: divergence
+    record:
+      agent: [Gilgameš, the chiefs of Noah's people]
+      recipient: ['Ūta-napišti, the flood hero', 'Noah, the flood hero']
+      action: [says he is just like me, says he is only a man like you]
+      quoted: [minâtūka ul šanâ kī yâtī-ma attā, mā hādhā illā basharun mithlukum]
+      outcome: ['wonder: how did you find life?', 'scorn: he wants superiority over you']
+    note: The flood hero is told he is an ordinary man. Gilgameš, expecting a god, says in wonder 'your form is not different, you are just like me' and asks how he found life; Noah's people say in scorn 'he is only a man like you; had God willed he would have sent angels' (23:24; cf. 11:27 mā narāka illā basharan mithlanā).
+- unit: ane-gilg-sb-xi-flood-decision-and-warning
+  checked: [quran-11-noah, quran-71-noah, quran-23-noah]
+  matches:
+  - with: quran-71-noah
+    motif: flood-hero-promises-his-city-rain-of-plenty
+    refs: ['Gilg SB XI:43-47']
+    with_refs: ['71:10-12']
+    relation: divergence
+    record:
+      agent: [Ūta-napišti, Noah]
+      recipient: [the city of Šuruppak, his people]
+      action: [promises that heaven will rain plenty on them, promises that heaven will rain plenty on them]
+      quoted: [ana kâšunu ušaznanakkunūši nuhšam; ina šēr kukkī ina līlâti ušaznanakkunūši šamût kibāti, yursili s-samāʾa ʿalaykum midrāran; wa-yumdidkum bi-amwālin wa-banīna]
+      outcome: ['a cover story: the rain is the flood', 'a true promise on condition of repentance; refused, they drown']
+    note: 'On Ea''s orders Ūta-napišti tells the city ''he will rain down on you plenty (nuhšu) ... in the morning bread-cakes, in the evening a torrent of wheat'': deceit that hides the coming deluge. Noah tells his people ''ask forgiveness: he will send the sky on you in torrents (midrāran) and give you wealth and sons'' (71:10-12), meant truly; they refuse and are drowned (71:25 ughriqū).'
+  - with: quran-11-noah
+    motif: build-vessel-on-instruction
+    refs: ['Gilg SB XI:24', 'Gilg SB XI:28-31']
+    with_refs: ['11:37']
+    relation: parallel
+    record:
+      agent: [Ea, God]
+      recipient: [Ūta-napišti, Noah]
+      action: [orders him to build a boat, orders him to build the ship]
+      instrument: [words spoken to a reed wall, under our eyes and our revelation]
+      quoted: [uqur bīta bini eleppa, wa-ṣnaʿi l-fulka bi-aʿyuninā wa-waḥyinā]
+    note: '''Demolish the house, build a boat'' (uqur bīta bini eleppa), with dimensions (breadth equal to length, roofed like the Apsû); 11:37 ''build the ship under our eyes and our revelation'', no dimensions. Ea speaks through the reed wall to keep the gods'' oath; God speaks to Noah directly and forbids him to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).'
+- unit: ane-gilg-sb-xi-boat-built-and-loaded
+  checked: [quran-11-noah, quran-54-qamar-moon-split-and-noah, quran-23-noah]
+  matches:
+  - with: quran-11-noah
+    motif: townspeople-at-the-building-of-the-vessel
+    refs: ['Gilg SB XI:48-56']
+    with_refs: ['11:38']
+    relation: divergence
+    record:
+      agent: [the population (mātu), chiefs of his people (malaʾun min qawmihi)]
+      action: [gather at his gate and help build, pass by and mock him]
+      quoted: [ina bāb atar-hasīs ipahhur mātu, kullamā marra ʿalayhi malaʾun min qawmihi sakhirū minhu]
+      outcome: ['carpenter, reed-worker, old men, rich and poor bring tools and materials', 'Noah: we will mock you as you mock']
+    note: 'While the boat is built the townspeople come: in XI the whole land assembles at Atra-hasīs''s gate and works on it (axes, palm-fibre rope, bitumen); in 11:38 each group of his people that passes laughs at him (sakhirū minhu).'
+  - with: quran-54-qamar-moon-split-and-noah
+    motif: ark-of-planks-and-palm-fibre
+    refs: ['Gilg SB XI:54']
+    with_refs: ['54:13']
+    relation: echo
+    record:
+      object: [rope of palm-fibre, planks and dusur]
+      action: [carried for the boat, the ark is made of]
+      quoted: [šībūtu izabbilū pitilta, dhāti alwāḥin wa-dusurin]
+      outcome: [null, Noah carried on it]
+    note: The old men bring palm-fibre rope (pitiltu) for the boat; 54:13 calls the ark 'a thing of planks and dusur', a rare word glossed by the exegetes as nails or as palm-fibre cords. The only material named on the Quran side besides planks; the echo holds only on the palm-fibre gloss.
+  - with: quran-11-noah
+    motif: what-is-loaded-into-the-vessel
+    refs: ['Gilg SB XI:84-86']
+    with_refs: ['11:40']
+    relation: divergence
+    record:
+      agent: [Ūta-napišti, Noah]
+      action: [loads the boat, is told to load the ship]
+      object: [seed of all living things; wild animals; all kith and kin; craftsmen of every skill; silver and gold, 'of every kind a pair, two; your family except the one condemned; whoever has believed']
+      quoted: [zēr napšāti kalāma; kala kimtīya u sallatīya; mārī ummânī kalīšunu, min kullin zawjayni thnayni wa-ahlaka illā man sabaqa ʿalayhi l-qawlu wa-man āmana]
+    note: XI loads 'whatever seed of living things' without pairing, all his kin, 'persons of every skill and craft' and his silver and gold; 11:40 'of every kind two, a pair', his family 'except the one against whom the word has gone forth' (the son, 11:42-43) and the believers, 'and only a few believed'. The craftsmen and treasure become the believers; the whole family becomes the family minus one.
+  - with: quran-11-noah
+    motif: sign-to-board-the-vessel
+    refs: ['Gilg SB XI:87-91']
+    with_refs: ['11:40']
+    relation: divergence
+    record:
+      agent: [Šamaš, God]
+      action: [sets the sign for boarding, sets the sign for loading the ship]
+      time: [when he rains bread-cakes in the morning and wheat in the evening, when our command comes and the oven boils]
+      quoted: [adanna šamaš iškunam-ma ina šēr kukkī ina lilâti ušaznanu šamût kibāti erub-ma ana libbi eleppim-ma pihe bābka, ḥattā idhā jāʾa amrunā wa-fāra t-tannūru qulnā ḥmil fīhā]
+    note: 'Both signs come from the bakery: Šamaš''s deadline is the ''rain of bread-cakes (kukkū) and wheat'', then ''go into the boat and seal your hatch''; in 11:40 (and 23:27) it is that ''the oven (al-tannūr) boils'', then ''load it''. tannūr is the Akkadian tinūru (bread oven), though Gilgameš does not use the word here.'
+  - with: quran-11-noah
+    motif: who-pilots-the-vessel
+    refs: ['Gilg SB XI:94-96']
+    with_refs: ['11:41']
+    relation: divergence
+    record:
+      agent: [Ūta-napišti, Noah]
+      action: [entrusts the boat on boarding, entrusts the ship on boarding]
+      recipient: [Puzur-Enlil the boatman, God's name]
+      quoted: [ana puzur-ellil malāhi ēkalla attadin, irkabū fīhā bi-smi llāhi majrāhā wa-mursāhā]
+    note: Having sealed the hatch, Ūta-napišti hands the 'palace' (the boat) and its goods to the boatman Puzur-Enlil; Noah says 'embark, in the name of God its course and its mooring' (11:41), and the ship runs 'under our eyes' (54:14). A named human pilot against the divine name.
+- unit: ane-gilg-sb-xi-the-deluge
+  checked: [quran-54-qamar-moon-split-and-noah, quran-11-noah, quran-71-noah, quran-26-noah, quran-69-haqqa-destroyed-peoples-and-the-throne]
+  matches:
+  - with: quran-69-haqqa-destroyed-peoples-and-the-throne
+    motif: days-and-nights-of-the-destroying-wind
+    refs: ['Gilg SB XI:128-129']
+    with_refs: ['69:7']
+    relation: divergence
+    record:
+      agent: ['wind, deluge and gale (šāru abūbu mehû)', a roaring violent wind (rīḥ ṣarṣar ʿātiya)]
+      action: [blows and flattens the land, is set against ʿĀd]
+      time: [six days and seven nights, seven nights and eight days]
+      number: ['6 days, 7 nights', '7 nights, 8 days']
+      quoted: [šeššet urrī u sebe mušâti illak šāru abūbu mehû, sabʿa layālin wa-thamāniyata ayyāmin ḥusūman]
+    note: 'A destroying wind counted in unequal days and nights: Gilgameš six days and seven nights (nights one more), 69:7 seven nights and eight days (days one more), against ʿĀd, not Noah''s people. In XI:128 ''seven'' is a supplied word in some witnesses. The flood itself has no count in the Quran.'
+  - with: quran-11-noah
+    motif: how-the-flood-ends
+    refs: ['Gilg SB XI:130-133b']
+    with_refs: ['11:44']
+    relation: divergence
+    record:
+      agent: [the sea and the tempest, God (by a command)]
+      action: [grow calm by themselves on the seventh day, earth and sky are commanded]
+      quoted: [inūh tâmtu ušharrir imhullu abūbu ikla, yā arḍu blaʿī māʾaki wa-yā samāʾu aqliʿī wa-ghīḍa l-māʾu]
+    note: In XI the sea 'grew calm' (inūh), the tempest 'grew still' and the Deluge 'stopped' (ikla) on the seventh day; in 11:44 the earth is told 'swallow your water' and the sky 'cease', and the water sank.
+- unit: ane-gilg-sb-xi-landing-birds-sacrifice
+  checked: [quran-11-noah, quran-54-qamar-moon-split-and-noah, quran-23-noah]
+  matches:
+  - with: quran-11-noah
+    motif: vessel-rests-on-mountain
+    refs: ['Gilg SB XI:142-146']
+    with_refs: ['11:44']
+    relation: parallel
+    record:
+      object: [the boat, the ship]
+      action: [comes to rest on a mountain, comes to rest on a mountain]
+      name: [Mount Nimuš, al-Jūdī]
+      quoted: [ana šadî nimuš ītemid eleppu, wa-stawat ʿalā l-jūdiyyi]
+    note: ana šadî nimuš ītemid eleppu 'on Mount Nimuš the boat ran aground', held fast six days; wa-stawat ʿalā l-jūdiyyi 'and it settled on al-Jūdī'. Different names (and Genesis has 'the mountains of Ararat').
+  - with: quran-11-noah
+    motif: what-the-flood-hero-does-on-landing
+    refs: ['Gilg SB XI:157-160']
+    with_refs: ['11:48']
+    relation: divergence
+    record:
+      agent: [Ūta-napišti, God to Noah]
+      action: [brings out an offering and sacrifices on the peak, is told to go down with peace]
+      place: [the peak of the mountain, null]
+      quoted: [ušēṣī-ma ana erbet šārī attaqi niqâ; aškun surqinna ina muhhi ziqqurrat šadî, yā nūḥu hbiṭ bi-salāmin minnā wa-barakātin ʿalayka]
+    note: 'On leaving the boat Ūta-napišti sacrifices to the four winds and strews incense on the mountain top, and the gods gather like flies; 11:48 has no birds and no sacrifice: Noah is told ''go down with peace from us and blessings''.'
+- unit: ane-gilg-sb-xi-necklace-enlil-ea-immortality
+  checked: [quran-6-final-reckoning, quran-11-noah, quran-53-najm-goddesses-and-scrolls, quran-4-false-accusation, quran-54-qamar-moon-split-and-noah, quran-18-moses-and-the-servant, quran-71-noah]
+  matches:
+  - with: quran-6-final-reckoning
+    motif: individual-responsibility-for-sin
+    refs: ['Gilg SB XI:185-186']
+    with_refs: ['6:164']
+    relation: echo
+    record:
+      agent: [Ea to Enlil, God (qul)]
+      action: [lay on the sinner his sin, each soul bears its own]
+      quoted: [bēl arni emid hīṭāšu bēl gillati emid gillassu, wa-lā taksibu kullu nafsin illā ʿalayhā wa-lā taziru wāziratun wizra ukhrā]
+    note: 'Ea''s rebuke after the flood: ''on him who commits a sin, inflict his crime; on him who does wrong, his wrong-doing'', against a flood that killed all; 6:164 ''every soul earns only against itself, and no bearer of burdens bears another''s burden''.'
+  - with: quran-53-najm-goddesses-and-scrolls
+    motif: individual-responsibility-for-sin
+    refs: ['Gilg SB XI:185-186']
+    with_refs: ['53:38-39']
+    relation: echo
+    record:
+      agent: [Ea to Enlil, the scrolls of Moses and Abraham]
+      action: [lay on the sinner his sin, no bearer bears another's burden]
+      quoted: [bēl arni emid hīṭāšu, allā taziru wāziratun wizra ukhrā wa-an laysa li-l-insāni illā mā saʿā]
+    note: The same principle; in 53:36-38 it is quoted as the content of 'the scrolls of Moses and of Abraham who fulfilled'.
+  - with: quran-4-false-accusation
+    motif: individual-responsibility-for-sin
+    refs: ['Gilg SB XI:185']
+    with_refs: ['4:111-112']
+    relation: echo
+    record:
+      object: [his sin (hīṭu), 'a sin (khaṭīʾa, ithm)']
+      action: [is laid on the one who did it, is earned only against oneself]
+      quoted: [bēl arni emid hīṭāšu, wa-man yaksib ithman fa-innamā yaksibuhu ʿalā nafsihi wa-man yaksib khaṭīʾatan aw ithman thumma yarmi bihi barīʾan]
+    note: 'Akkadian hīṭu and Arabic khaṭīʾa are the same root (h-ṭ-ʾ). 4:111-112: the sin is earned against oneself, and casting it on an innocent (barīʾ) is calumny; Ea objects that the flood struck the innocent with the guilty.'
+  - with: quran-71-noah
+    motif: no-one-to-survive-the-destruction
+    refs: ['Gilg SB XI:175-176']
+    with_refs: ['71:26-27']
+    relation: divergence
+    record:
+      agent: [Enlil, Noah]
+      action: [demands that no man survive, asks that no unbeliever be left]
+      object: [every man, the unbelievers]
+      quoted: [ayyānum-ma uṣi napištu ay ibluṭ mamman ina karāši, rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran]
+      outcome: [Ea rebukes him; the hero is made immortal, the prayer stands; they are drowned]
+    note: The wish that the destruction leave no one alive is the angry flood god's in XI, said on seeing the boat; in 71:26-27 it is the flood hero's own prayer, limited to the unbelievers 'for they would beget only the wicked'.
+  - with: quran-11-noah
+    motif: blessing-of-the-flood-hero-after-the-flood
+    refs: ['Gilg SB XI:199-204']
+    with_refs: ['11:48']
+    relation: divergence
+    record:
+      agent: [Enlil, God]
+      recipient: [Ūta-napišti and his wife, Noah and nations from those with him]
+      action: [blesses him after the flood, blesses him after the flood]
+      quoted: [ilput pūtnī-ma ... ikarrabannâši; lū emû kīma ilī nâšim-ma, ihbiṭ bi-salāmin minnā wa-barakātin ʿalayka wa-ʿalā umamin mimman maʿaka]
+      outcome: ['made like the gods, immortal', peace and blessings; other nations will be given enjoyment then punished]
+    note: 'Enlil takes him out of the boat, touches their foreheads and blesses them (ikarrabannâši): ''now Ūta-napišti and his woman shall be like us gods''; 11:48 ''go down with peace from us and blessings (barakāt) on you and on nations from those with you'', and ''nations we will let enjoy, then a painful punishment will touch them''. Immortality for one couple against blessing on a mortal line.'
+  - with: quran-54-qamar-moon-split-and-noah
+    motif: token-of-remembrance-after-the-flood
+    refs: ['Gilg SB XI:165-167']
+    with_refs: ['54:15']
+    relation: divergence
+    record:
+      agent: [Bēlet-ilī, God]
+      object: [her lapis necklace of flies, the ark]
+      action: [keeps a token so the flood is remembered, leaves a sign so the flood is remembered]
+      quoted: [ilū annûtu lū uqnî kišādīya ūmī annûti luhsusam-ma ana dāriš ay amši, wa-laqad taraknāhā āyatan fa-hal min muddakirin]
+      outcome: [the goddess will remember forever, 'is there anyone who will remember?']
+    note: 'Bēlet-ilī lifts the great flies of lapis: ''let these be lapis beads round my neck, that I remember these days and never forget them''; 54:15 ''we left it (the ark) as a sign: is there anyone who will remember (muddakir)?'' (cf. 69:12 tadhkira). The one who must remember is the goddess in XI, mankind in Q 54.'
+  - with: quran-18-moses-and-the-servant
+    motif: sage-dwells-where-the-waters-meet
+    refs: ['Gilg SB XI:205-206']
+    with_refs: ['18:60', '18:65']
+    relation: echo
+    record:
+      agent: [Ūta-napišti, a servant of God]
+      place: [far away at the mouth of the rivers, the meeting place of the two seas]
+      quoted: [ina rūqi ina pî nārāti uštēšibūʾinni, lā abraḥu ḥattā ablugha majmaʿa l-baḥrayni]
+      outcome: [given life like the gods, given mercy and knowledge from us]
+    note: The immortal flood hero is settled 'far away, at the mouth of the rivers' (ina pî nārāti), where Gilgameš seeks him; Moses vows to go on 'until I reach the meeting place of the two seas, or travel for ages', and there finds 'a servant whom we gave mercy and taught knowledge from us' (18:65).
+- unit: ane-gilg-sb-xi-sleep-test
+  checked: [quran-4-fighting-and-death, quran-2-sleeper-hundred-years, quran-18-companions-of-the-cave, quran-39-death-and-sleep]
+  matches:
+  - with: quran-2-sleeper-hundred-years
+    motif: food-marks-the-length-of-a-sleep
+    refs: ['Gilg SB XI:221-230']
+    with_refs: ['2:259']
+    relation: divergence
+    record:
+      agent: [Ūta-napišti's wife, God]
+      object: [a loaf baked for each day, his food and drink]
+      action: [shows the time slept, is shown to the sleeper]
+      number: [7 loaves for 7 days, 100 years]
+      quoted: [ištât šābulat kurummassu šanītu muššukat ... hamuštu šīpa ittadi, fa-nẓur ilā ṭaʿāmika wa-sharābika lam yatasannah]
+      outcome: [the loaves have dried and gone mouldy in turn, the food has not gone stale]
+    note: 'A loaf a day is set by Gilgameš''s head; the first is dried up, the second leathery, the fifth mouldy, the seventh on the coals: decay counts the seven days. In 2:259 the man dead a hundred years is told ''look at your food and drink: it has not changed (lam yatasannah)'', while the donkey''s bones show the time.'
+  - with: quran-2-sleeper-hundred-years
+    motif: sleeper-thinks-he-slept-a-moment
+    refs: ['Gilg SB XI:232-233']
+    with_refs: ['2:259']
+    relation: parallel
+    record:
+      agent: [Gilgameš, the man who passed the town]
+      action: [thinks he slept only a moment, thinks he stayed a day or part of a day]
+      time: [seven days, a hundred years]
+      quoted: [annimiš šittu irhû elīya hanṭiš taltaptannī-ma taddakânni attā, labithtu yawman aw baʿḍa yawmin]
+    note: Woken, Gilgameš says 'no sooner had sleep spilled over me than you touched me and roused me'; the man raised after a hundred years answers 'I stayed a day or part of a day' (2:259). The other side then proves the true length by food (XI:225-230; 2:259 the food and the donkey).
+  - with: quran-18-companions-of-the-cave
+    motif: sleeper-thinks-he-slept-a-moment
+    refs: ['Gilg SB XI:232-233']
+    with_refs: ['18:19', '18:25']
+    relation: parallel
+    record:
+      agent: [Gilgameš, the Companions of the Cave]
+      action: [thinks he slept only a moment, think they stayed a day or part of a day]
+      time: [seven days, three hundred years and nine]
+      quoted: [annimiš šittu irhû elīya, labithnā yawman aw baʿḍa yawmin]
+    note: The same misjudgement of a long sleep; in 18:19 the sleepers then send one of them with their coins to fetch food (ṭaʿām), and 18:25 gives three hundred and nine years.
+- unit: ane-gilg-sb-xi-washing-and-plant
+  checked: [quran-18-moses-and-the-servant, quran-53-najm-vision-and-lote-tree, quran-20-adam-iblis, quran-12-joseph-full]
+  matches: []
+- unit: ane-gilg-sb-xi-snake-and-return
+  checked: [quran-7-adam-iblis, quran-20-adam-iblis, quran-2-adam-iblis, quran-71-noah]
+  matches: []
+- unit: ane-gilg-sb-xii-ball-falls-instructions
+  checked: [quran-7-adam-iblis, quran-51-dhariyat-abrahams-guests-and-the-peoples, quran-35-heirs-of-book]
+  matches: []
+- unit: ane-gilg-sb-xii-enkidu-seized
+  checked: [quran-67-mulk-earth-birds-and-water, quran-34-gods-knowledge, quran-29-destroyed-nations, quran-7-adam-iblis]
+  matches: []
+- unit: ane-gilg-sb-xii-appeal-and-ghost-raised
+  checked: [quran-79-pharaoh-and-cosmos, quran-17-polemic-and-resurrection, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-gilg-sb-xii-order-of-netherworld
+  checked: [quran-23-unnamed-messenger-and-succession, quran-36-trumpet-and-judgment, quran-22-quake-and-resurrection-proofs]
+  matches: []
+- unit: ane-gulahymn-sb-1-nintinugga-and-ninurta
+  checked: [quran-23-lordship-arguments, quran-112-114-unity-and-refuge, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-gulahymn-sb-2-ninmadiriga-bride-and-farmer
+  checked: [quran-66-tahrim-wives-and-the-four-women, quran-3-imran-mary-zechariah, quran-21-prophets-answered]
+  matches: []
+- unit: ane-gulahymn-sb-3-ninazu-and-ninkarrak
+  checked: [quran-2-abrogation-polemic, quran-57-hadid-first-and-last-and-the-loan, quran-23-lordship-arguments, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: no-one-changes-the-spoken-word
+    refs: ['GulaHymn SB –:59-61']
+    with_refs: ['50:29']
+    relation: echo
+    record:
+      agent: [Gula of herself, God of himself]
+      object: [my command; the utterance of my mouth, the word with me]
+      action: [declares her word unalterable, declares his word unalterable]
+      quoted: [amātī ul innenni ṣīt pîya ul uštapella, mā yubaddalu l-qawlu ladayya]
+    note: 'In the first person: ''my command cannot be altered, my decree (ṣīt pîya, what goes out of my mouth) admits no change''; 50:29 ''the word is not changed with me, and I am not unjust to the servants'', said at the judgment.'
+- unit: ane-gulahymn-sb-4-physician-ninigizibara
+  checked: [quran-26-abraham, quran-16-daughters-and-the-bee, quran-76-the-human]
+  matches: []
+- unit: ane-gulahymn-sb-5-zababa-bau-sharrat-nippuri
+  checked: [quran-112-114-unity-and-refuge, quran-53-najm-goddesses-and-scrolls, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-gulahymn-sb-6-heaven-as-tiara-gula
+  checked: [quran-2-throne-verse, quran-20-taha-prologue, quran-23-lordship-arguments, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-gulahymn-sb-7-lugalbanda-ninsun-ninlil
+  checked: [quran-3-annunciation-jesus, quran-57-hadid-first-and-last-and-the-loan, quran-53-najm-goddesses-and-scrolls, quran-44-dukhan-blessed-night-and-smoke]
+  matches:
+  - with: quran-3-annunciation-jesus
+    motif: healer-raises-the-dead-in-first-person
+    refs: ['GulaHymn SB –:179-183']
+    with_refs: ['3:49']
+    relation: divergence
+    record:
+      agent: [Gula of herself, Jesus of himself]
+      action: [heals the sick and brings back the dead, heals the blind and leper and brings the dead to life]
+      quoted: [mīta ultu erṣeti utarra; asâku, wa-ubriʾu l-akmaha wa-l-abraṣa wa-uḥyī l-mawtā bi-idhni llāhi]
+      instrument: ['her scalpel, satchel and spell', God's leave]
+    note: 'A first-person list of powers: ''I fetch up the dead from the netherworld ... I examine the weary, I watch over the sick, I open the sore ... I am physician, diviner, exorcist''; Jesus in 3:49: ''I heal the blind and the leper and give life to the dead by God''s leave (bi-idhni llāh)'', the leave repeated after each wonder.'
+- unit: ane-gulahymn-sb-8-prayer-for-bullussa-rabi
+  checked: [quran-19-zechariah-and-john, quran-74-cloaked, quran-66-tahrim-wives-and-the-four-women]
+  matches: []
+- unit: ane-gulasyncr-sb-1-creatress-endowed-by-great-gods
+  checked: [quran-23-lordship-arguments, quran-20-taha-prologue, quran-2-throne-verse]
+  matches: []
+- unit: ane-gulasyncr-sb-2-litany-of-goddess-names
+  checked: [quran-7-names-and-hour, quran-16-daughters-and-the-bee, quran-25-signs-shadow-seas, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-gulasyncr-sb-3-forgiveness-and-healing
+  checked: [quran-17-polemic-and-resurrection, quran-9-bargain-abraham, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-gulasyncr-sb-4-by-leave-of-the-great-gods
+  checked: [quran-20-closing-exhortation, quran-25-signs-shadow-seas, quran-13-signs-of-creation, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-gulasyncr-sb-5-goddess-in-every-shrine
+  checked: [quran-25-signs-shadow-seas, quran-16-daughters-and-the-bee, quran-2-throne-verse]
+  matches: []
+- unit: ane-gulasyncr-sb-6-col-b-purifier-of-sins
+  checked: [quran-16-daughters-and-the-bee, quran-11-pharaoh-leads, quran-3-sovereignty]
+  matches: []
+- unit: ane-gulasyncr-sb-7-col-c-netherworld-gate
+  checked: [quran-16-blessings-of-creation, quran-6-signs-in-nature, quran-35-heirs-of-book]
+  matches: []
+- unit: ane-ishdesc-na-descent-opening
+  checked: [quran-23-death-barzakh-judgment, quran-78-the-tiding, quran-35-heirs-of-book]
+  matches: []
+- unit: ane-ishdesc-sb-1-land-of-no-return
+  checked: [quran-23-death-barzakh-judgment, quran-22-quake-and-resurrection-proofs, quran-23-unnamed-messenger-and-succession]
+  matches: []
+- unit: ane-ishdesc-sb-2-gate-threat-ereshkigal
+  checked: [quran-16-daughters-and-the-bee, quran-40-throne-bearers, quran-3-sovereignty]
+  matches: []
+- unit: ane-ishdesc-sb-3-seven-gates-and-sixty-diseases
+  checked: [quran-6-prophets-lineage-torah-sheets, quran-15-iblis, quran-16-daughters-and-the-bee, quran-40-throne-bearers]
+  matches:
+  - with: quran-15-iblis
+    motif: seven-gates-of-underworld
+    refs: ['IshDesc SB –:42', 'IshDesc SB –:60']
+    with_refs: ['15:44']
+    relation: parallel
+    record:
+      place: [the netherworld (kurnugi), Gehenna]
+      object: [gates, gates]
+      number: ['7', '7']
+      quoted: [ištēn bāba ... sebâ bāba, lahā sabʿatu abwābin li-kulli bābin minhum juzʾun maqsūmun]
+      outcome: [at each gate one garment or ornament is taken, to each gate an allotted portion of them]
+    note: Ishtar is led through the first to the seventh gate of the netherworld, losing a garment or ornament at each; 15:44 Gehenna 'has seven gates; for each gate a portion of them is assigned'. In both something is apportioned gate by gate.
+- unit: ane-ishdesc-sb-4-fertility-stops-ea-creates-envoy
+  checked: [quran-2-throne-verse, quran-23-lordship-arguments, quran-3-sovereignty]
+  matches: []
+- unit: ane-ishdesc-sb-5-curse-and-water-of-life
+  checked: [quran-21-cosmic-signs-and-scales, quran-16-daughters-and-the-bee, quran-91-sun, quran-40-throne-bearers]
+  matches: []
+- unit: ane-ishdesc-sb-6-return-tammuz-belili
+  checked: [quran-44-dukhan-zaqqum-and-garden, quran-15-iblis, quran-81-folding-up]
+  matches: []
+- unit: ane-ishtar2-sb-1-praise-of-ishtar
+  checked: [quran-56-waqia-three-classes-and-the-garden, quran-23-lordship-arguments, quran-17-polemic-and-resurrection, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-ishtar2-sb-2-sufferer-confesses
+  checked: [quran-39-death-and-sleep, quran-6-deliverance-trumpet, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-ishtar2-sb-3-sick-mans-plight
+  checked: [quran-93-94-forenoon-and-expansion, quran-39-death-and-sleep, quran-43-zukhruf-abraham-and-silver-roofs]
+  matches: []
+- unit: ane-ishtar2-sb-4-ishtar-have-mercy
+  checked: [quran-1-fatiha, quran-40-throne-bearers, quran-20-closing-exhortation, quran-16-daughters-and-the-bee]
+  matches: []
+- unit: ane-ishtarsyncr-sb-1-litany-of-ishtars
+  checked: [quran-7-sinai-theophany, quran-25-signs-shadow-seas, quran-78-the-tiding, quran-13-signs-of-creation]
+  matches: []
+- unit: ane-ishtarsyncr-sb-2-share-of-seven-brothers-colophon
+  checked: [quran-25-signs-shadow-seas, quran-21-noah-david-solomon, quran-17-polemic-and-resurrection]
+  matches: []
+- unit: ane-isindyn-ob-lipit-eshtar-a-1-self-praise
+  checked: [quran-7-idol-request, quran-3-sovereignty, quran-2-talut-jalut]
+  matches: []
+- unit: ane-isindyn-ob-lipit-eshtar-a-2-provider-and-servant
+  checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-16-blessings-of-creation]
+  matches: []
+- unit: ane-ludlul-sb-1-praise-of-marduk
+  checked: [quran-57-hadid-first-and-last-and-the-loan, quran-53-najm-goddesses-and-scrolls, quran-44-dukhan-blessed-night-and-smoke, quran-6-poor-keys-of-unseen]
+  matches: []
+- unit: ane-ludlul-sb-2-gods-abandon-sufferer
+  checked: [quran-3-sovereignty, quran-21-prophets-answered, quran-6-poor-keys-of-unseen]
+  matches: []
+- unit: ane-ludlul-sb-3-social-persecution
+  checked: [quran-5-two-sons-of-adam, quran-12-joseph-full, quran-10-noah]
+  matches: []
+- unit: ane-ludlul-sb-4-lament-and-hope
+  checked: [quran-86-night-comer, quran-93-94-forenoon-and-expansion, quran-75-resurrection]
+  matches: []
+- unit: ane-ludlul-sb-5-pious-yet-punished
+  checked: [quran-2-community-trials, quran-2-harut-marut, quran-12-joseph-full, quran-41-steadfast-and-repel-evil]
+  matches:
+  - with: quran-2-community-trials
+    motif: good-to-man-offense-to-god
+    refs: ['Ludlul SB II:34-38']
+    with_refs: ['2:216']
+    relation: echo
+    record:
+      agent: [the sufferer, God to the believers]
+      object: [what seems good or abominable to oneself, what you dislike or love]
+      quoted: [ša damqat ramānuš ana ili gullultu ša ina libbīšu mussukat eli ilīšu damqat, wa-ʿasā an takrahū shayʾan wa-huwa khayrun lakum wa-ʿasā an tuḥibbū shayʾan wa-huwa sharrun lakum wa-llāhu yaʿlamu wa-antum lā taʿlamūna]
+      outcome: ['who can learn the god''s reasoning?', God knows and you do not]
+    note: '''What is good to oneself could be an offence to a god; what in one''s heart seems abominable could be good to one''s god. Who could learn the reasoning of a god?'' 2:216, of fighting: ''perhaps you dislike a thing that is good for you and love a thing that is bad for you; God knows and you do not''. A complaint in Ludlul, a reason for obedience in 2:216.'
+- unit: ane-ludlul-sb-6-disease-onslaught
+  checked: [quran-75-resurrection, quran-6-poor-keys-of-unseen, quran-50-qaf-two-recorders-and-hell-asks-more]
+  matches: []
+- unit: ane-ludlul-sb-7-heavy-hand
+  checked: [quran-93-94-forenoon-and-expansion, quran-23-death-barzakh-judgment, quran-92-night]
+  matches: []
+- unit: ane-ludlul-sb-8-three-dreams
+  checked: [quran-12-joseph-full, quran-2-four-birds, quran-74-cloaked, quran-75-resurrection]
+  matches: []
+- unit: ane-ludlul-sb-9-marduk-relents
+  checked: [quran-3-sovereignty, quran-42-shura-signs-and-ethics, quran-27-is-there-a-god-with-god]
+  matches: []
+- unit: ane-ludlul-sb-10-healing-limb-by-limb
+  checked: [quran-30-winds-and-rain, quran-50-qaf-two-recorders-and-hell-asks-more, quran-75-resurrection]
+  matches: []
+- unit: ane-ludlul-sb-11-restoration-and-warning
+  checked: [quran-22-signs-and-rites, quran-42-shura-signs-and-ethics, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-ludlul-sb-12-my-lord-rescued-me
+  checked: [quran-21-prophets-answered, quran-38-job, quran-26-abraham, quran-9-closing, quran-37-hell-and-garden]
+  matches:
+  - with: quran-37-hell-and-garden
+    motif: had-it-not-been-for-the-lord
+    refs: ['Ludlul SB V:30-36']
+    with_refs: ['37:56-57']
+    relation: echo
+    record:
+      agent: [the rescued sufferer, a man in the Garden]
+      action: [says he would have gone down, says he would have been brought to Hell]
+      quoted: [lūman lā bēlu umašširanni ... ana erkalli aṭṭarrad, wa-lawlā niʿmatu rabbī la-kuntu mina l-muḥḍarīna]
+      outcome: [to the netherworld as a ghost, among those brought to Hell]
+    note: '''Had it not been that the lord released me ... I would have been sent down to the netherworld (erkallu), I would have departed as a ghost''; the man in the Garden, looking down at his old companion in the midst of Hell: ''by God, you almost ruined me; had it not been for the grace of my lord I would have been among those brought (to it)''.'
+- unit: ane-ludlul-sb-13-through-the-gates-of-esagil
+  checked: [quran-22-abraham-house-pilgrimage, quran-43-zukhruf-abraham-and-silver-roofs, quran-2-war-pilgrimage]
+  matches: []
+- unit: ane-ludlul-sb-14-babylon-praises-marduk
+  checked: [quran-15-iblis, quran-6-creation-rejecters, quran-57-hadid-first-and-last-and-the-loan, quran-53-najm-goddesses-and-scrolls]
+  matches: []
+- unit: ane-maqlu-sb-i-gods-of-night
+  checked: [quran-112-114-unity-and-refuge, quran-37-hell-and-garden, quran-54-qamar-ad-thamud-lot-pharaoh, quran-68-qalam-the-pen-and-the-slanderer]
+  matches:
+  - with: quran-112-114-unity-and-refuge
+    motif: women-who-bind-knots-in-sorcery
+    refs: ['Maqlu SB I:4', 'Maqlu SB I:20', 'Maqlu SB I:34']
+    with_refs: ['113:4']
+    relation: parallel
+    record:
+      agent: [the witch (kaššāptu), women who blow (an-naffāthāt)]
+      instrument: ['knots, spittle and binding', knots]
+      action: [bewitches, blow on knots]
+      quoted: [kišpūša ruhûša rusûša lū pašrū; kiṣrūša puṭṭurū, wa-min sharri n-naffāthāti fī l-ʿuqadi]
+      outcome: [her knots are untied, refuge is sought from their evil]
+    note: Maqlû's sorcerer is a woman (kaššāptu) whose spittle-magic (ruhû) and binding (rusû) are to be loosed and whose knots (kiṣrū) are untied; 113:4 seeks refuge 'from the evil of the women who blow on knots'. Feminine agents, knots and breath or spittle on both sides; Maqlû undoes the knots, 113 takes refuge.
+  - with: quran-112-114-unity-and-refuge
+    motif: night-and-dawn-against-sorcery
+    refs: ['Maqlu SB I:1-3', 'Maqlu SB I:29-30']
+    with_refs: ['113:1', '113:3']
+    relation: divergence
+    record:
+      agent: [the bewitched man, the one taking refuge]
+      recipient: ['Gods of the Night; Twilight, Midnight and Dawn', the Lord of daybreak]
+      action: [calls on the night against the witch, seeks refuge from the night]
+      quoted: [alsīkunūši ilū mušīti ... alsi barārītu qablītu u namārītu, aʿūdhu bi-rabbi l-falaqi ... wa-min sharri ghāsiqin idhā waqaba]
+    note: Against the witch Maqlû calls on the Gods of the Night, Night the veiled bride, and the three watches Twilight, Midnight and Dawn, who are to strike her and loose her spells; 113 seeks refuge with 'the Lord of daybreak (al-falaq)' from 'the evil of darkness when it falls'. The night is the helper in Maqlû and a danger in 113; dawn is invoked in both.
+- unit: ane-maqlu-sb-i-netherworld-gilgamesh-oath
+  checked: [quran-58-mujadila-zihar-and-secret-counsel, quran-69-haqqa-books-in-right-and-left-hands, quran-4-people-of-book-distortion]
+  matches: []
+- unit: ane-maqlu-sb-i-zabban
+  checked: [quran-56-waqia-left-hand-and-proofs, quran-7-creation-signs, quran-14-parables-and-satans-speech]
+  matches: []
+- unit: ane-maqlu-sb-i-ford-and-quay-enclosed
+  checked: [quran-26-revelation-devils-poets, quran-17-polemic-and-resurrection, quran-17-prayer-spirit-and-challenge]
+  matches: []
+- unit: ane-maqlu-sb-i-i-have-been-sent
+  checked: [quran-17-prayer-spirit-and-challenge, quran-41-testifying-skins, quran-2-abrogation-polemic]
+  matches: []
+- unit: ane-maqlu-sb-i-nuska-figurines-girra-judge
+  checked: [quran-37-hell-and-garden, quran-17-polemic-and-resurrection, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-maqlu-sb-i-reed-torch-bewitch-him
+  checked: [quran-37-ranks-and-guarded-heaven, quran-7-adam-iblis, quran-54-qamar-ad-thamud-lot-pharaoh, quran-20-samiri-calf]
+  matches:
+  - with: quran-20-samiri-calf
+    motif: dust-from-a-footprint-in-magic
+    refs: ['Maqlu SB I:132-133']
+    with_refs: ['20:96']
+    relation: echo
+    record:
+      agent: [the sorcerers, al-Sāmirī]
+      action: [take dirt from his footprints, took a handful from the track of the messenger]
+      object: [eper šēpīya (dirt my feet passed over), qabḍa min athari r-rasūl]
+      outcome: ['used against the victim with his spittle, hair and hem', 'cast it, and the calf was made']
+    note: 'The sorcerers ''collected a clump of dirt over which my feet had passed'' (etequ eper šēpīya išbušū) with his spittle, hair and hem; al-Sāmirī: ''I took a handful from the track (athar) of the messenger and threw it'' (20:96), and the lowing calf followed. Dirt of a footprint as magical stuff; the Quran does not say dust, but qabḍa min athar.'
+- unit: ane-maqlu-sb-i-burning-demon-figurines
+  checked: [quran-77-sent-forth, quran-15-iblis, quran-37-ranks-and-guarded-heaven]
+  matches: []
+- unit: ane-maqlu-sb-ii-nuska-hymn
+  checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-17-polemic-and-resurrection, quran-7-closing-recitation]
+  matches: []
+- unit: ane-maqlu-sb-ii-girra-light-hem-bronze
+  checked: [quran-37-ranks-and-guarded-heaven, quran-17-polemic-and-resurrection, quran-15-iblis]
+  matches: []
+- unit: ane-maqlu-sb-ii-girra-renders-judgment
+  checked: [quran-112-114-unity-and-refuge, quran-17-polemic-and-resurrection, quran-39-death-and-sleep]
+  matches: []
+- unit: ane-maqlu-sb-ii-girra-burn-them-plunder
+  checked: [quran-17-polemic-and-resurrection, quran-3-misers-mockers, quran-20-moses-pharaoh-magicians]
+  matches: []
+- unit: ane-maqlu-sb-ii-girra-justice-for-oppressed
+  checked: [quran-3-misers-mockers, quran-17-polemic-and-resurrection, quran-11-pharaoh-leads]
+  matches: []
+- unit: ane-maqlu-sb-ii-girra-as-these-figurines-melt
+  checked: [quran-85-constellations, quran-112-114-unity-and-refuge, quran-17-polemic-and-resurrection, quran-35-originator]
+  matches: []
+- unit: ane-maqlu-sb-ii-kes-libis-gibberish
+  checked: [quran-35-originator, quran-11-opening-throne-on-water, quran-37-ranks-and-guarded-heaven]
+  matches: []
+- unit: ane-maqlu-sb-ii-reed-mat-net-turned-back
+  checked: [quran-7-moses-pharaoh, quran-20-moses-pharaoh-magicians, quran-112-114-unity-and-refuge]
+  matches: []
+- unit: ane-maqlu-sb-ii-clay-from-river-oven
+  checked: [quran-7-adam-iblis, quran-17-polemic-and-resurrection, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-maqlu-sb-ii-i-know-not-your-name-oven-daughter-of-anu
+  checked: [quran-17-polemic-and-resurrection, quran-112-114-unity-and-refuge, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-maqlu-sb-iii-witch-roams-streets
+  checked: [quran-112-114-unity-and-refuge, quran-37-hell-and-garden, quran-7-adam-iblis, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-maqlu-sb-iii-daughters-of-anu
+  checked: [quran-40-throne-bearers, quran-74-cloaked, quran-17-polemic-and-resurrection, quran-2-harut-marut]
+  matches:
+  - with: quran-2-harut-marut
+    motif: two-heavenly-beings-descend-in-a-sorcery-context
+    refs: ['Maqlu SB III:31-35']
+    with_refs: ['2:102']
+    relation: echo
+    record:
+      agent: [the Daughters of Anu, the two angels Hārūt and Mārūt]
+      number: [two (and three), '2']
+      action: [descend from heaven by a rope, were sent down to]
+      place: [from heaven, in Babylon]
+      quoted: [šitta šina mārāt ani ša šamê ... ultu šamê urradāni, wa-mā unzila ʿalā l-malakayni bi-bābila hārūta wa-mārūta]
+      outcome: [they hunt the sorcerers, 'they teach what parts a man from his wife, warning they are a trial']
+    note: '''Two are they, the heavenly Daughters of Anu, three are they ... holding the rope they descend to me from heaven'' to seek out the sorcerers; in III:63 the speaker calls them ''my sorceresses''. 2:102: sorcery and ''what was sent down to the two angels in Babylon, Hārūt and Mārūt'', who teach only after warning ''we are but a trial''. A heavenly pair in a Babylonian setting of sorcery; their role is reversed.'
+- unit: ane-maqlu-sb-iii-witch-titles
+  checked: [quran-54-qamar-ad-thamud-lot-pharaoh, quran-17-polemic-and-resurrection, quran-37-hell-and-garden]
+  matches: []
+- unit: ane-maqlu-sb-iii-pure-river-holy-sun
+  checked: [quran-3-community, quran-39-mercy-and-last-day, quran-81-folding-up, quran-35-originator, quran-35-heirs-of-book]
+  matches:
+  - with: quran-35-heirs-of-book
+    motif: plot-returns-on-plotters-head
+    refs: ['Maqlu SB III:71-73']
+    with_refs: ['35:43']
+    relation: echo
+    record:
+      object: [their witchcraft, the evil plot (al-makr al-sayyiʾ)]
+      action: [turns back onto their own head, encompasses only its authors]
+      quoted: [kišpīšunu libbalkitū-ma ana muhhīšunu u lānīšunu lillikū, wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi]
+    note: '''May their witchcraft turn back and go onto their head and body''; 35:43 ''the evil plot encompasses none but its own people''. A wish in Maqlû, a law (sunnat allāh, with no change) in 35:43.'
+  - with: quran-3-community
+    motif: faces-whitened-and-blackened
+    refs: ['Maqlu SB III:74']
+    with_refs: ['3:106']
+    relation: echo
+    record:
+      agent: [the sorcerers, those who disbelieved after believing]
+      object: [faces, faces]
+      action: [become black, become black]
+      quoted: [kīma ittî liṣlimū pānīšunu, yawma tabyaḍḍu wujūhun wa-taswaddu wujūhun]
+    note: '''Like bitumen may their faces become black'', while the speaker becomes pure and bright like River and Sun (III:68-69, 76); 3:106-107 on the Day ''faces will be white and faces black'', the black-faced punished, the white in God''s mercy.'
+- unit: ane-maqlu-sb-iii-sutean-and-elamite
+  checked: [quran-44-dukhan-zaqqum-and-garden, quran-11-opening-throne-on-water, quran-17-iblis-and-adam]
+  matches: []
+- unit: ane-maqlu-sb-iii-seized-your-mouth
+  checked: [quran-37-hell-and-garden, quran-44-dukhan-zaqqum-and-garden, quran-81-folding-up]
+  matches: []
+- unit: ane-maqlu-sb-iii-o-you-who-have
+  checked: [quran-37-hell-and-garden, quran-17-polemic-and-resurrection, quran-4-satan-vows-share]
+  matches: []
+- unit: ane-maqlu-sb-iii-boat-turns-over
+  checked: [quran-37-hell-and-garden, quran-2-harut-marut, quran-54-qamar-ad-thamud-lot-pharaoh]
+  matches: []
+- unit: ane-maqlu-sb-iii-moon-boat-to-sea
+  checked: [quran-84-splitting, quran-54-qamar-moon-split-and-noah, quran-11-opening-throne-on-water]
+  matches: []
+- unit: ane-maqlu-sb-iii-sherd-i-am-heaven
+  checked: [quran-37-ranks-and-guarded-heaven, quran-37-hell-and-garden, quran-112-114-unity-and-refuge]
+  matches: []
+- unit: ane-maqlu-sb-iii-hand-hand-1
+  checked: [quran-7-moses-pharaoh, quran-9-closing, quran-79-pharaoh-and-cosmos]
+  matches: []
+- unit: ane-maqlu-sb-iii-hand-hand-2
+  checked: [quran-7-adam-iblis, quran-7-moses-pharaoh, quran-5-two-sons-of-adam]
+  matches: []
+- unit: ane-maqlu-sb-iv-burn-burn-litany
+  checked: [quran-37-hell-and-garden, quran-54-qamar-ad-thamud-lot-pharaoh, quran-7-moses-pharaoh]
+  matches: []
+- unit: ane-maqlu-sb-iv-whoever-you-are-friend-or-stranger
+  checked: [quran-37-hell-and-garden, quran-68-qalam-the-pen-and-the-slanderer, quran-2-harut-marut]
+  matches: []
+- unit: ane-maqlu-sb-iv-height-of-heaven
+  checked: [quran-17-polemic-and-resurrection, quran-44-dukhan-zaqqum-and-garden, quran-52-tur-garden-and-challenge]
+  matches: []
+- unit: ane-maqlu-sb-iv-sun-who-is-his-father
+  checked: [quran-25-hell-and-the-day-of-angels, quran-105-elephant, quran-81-folding-up, quran-52-tur-garden-and-challenge]
+  matches: []
