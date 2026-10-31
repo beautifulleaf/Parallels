@@ -3903,8 +3903,8 @@
       "stool",
       "throne"
      ],
-     "skeleton": "kS",
-     "dissimilation": false
+     "skeleton": "krS",
+     "dissimilation": true
     },
     {
      "from": "kussû I",
@@ -3912,7 +3912,7 @@
      "shared": [
       "throne"
      ],
-     "skeleton": "kS",
+     "skeleton": "krS",
      "dissimilation": true
     },
     {
@@ -3922,7 +3922,7 @@
       "seat",
       "throne"
      ],
-     "skeleton": "kS",
+     "skeleton": "krS",
      "dissimilation": true
     },
     {
@@ -3932,7 +3932,7 @@
       "seat",
       "throne"
      ],
-     "skeleton": "kS",
+     "skeleton": "krS",
      "dissimilation": true
     },
     {
@@ -3941,8 +3941,8 @@
      "shared": [
       "throne"
      ],
-     "skeleton": "kS",
-     "dissimilation": true
+     "skeleton": "krS",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -7702,8 +7702,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7711,8 +7711,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7720,8 +7720,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7729,8 +7729,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7738,8 +7738,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7747,8 +7747,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7757,8 +7757,8 @@
       "near",
       "relative"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7767,8 +7767,8 @@
       "near",
       "relative"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7777,8 +7777,8 @@
       "near",
       "soon"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7786,8 +7786,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7795,8 +7795,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7804,8 +7804,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7813,8 +7813,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7823,8 +7823,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7832,8 +7832,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7841,8 +7841,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7850,8 +7850,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7859,8 +7859,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7868,8 +7868,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7878,8 +7878,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7887,8 +7887,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7897,8 +7897,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7908,8 +7908,8 @@
       "kindred",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7917,8 +7917,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7927,8 +7927,8 @@
       "near",
       "short"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7936,8 +7936,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7945,8 +7945,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7954,8 +7954,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7963,8 +7963,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7973,8 +7973,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7982,8 +7982,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7991,8 +7991,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8000,8 +8000,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8009,8 +8009,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8018,8 +8018,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8028,8 +8028,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8037,8 +8037,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8047,8 +8047,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8056,8 +8056,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8065,8 +8065,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8074,8 +8074,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8083,8 +8083,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8092,8 +8092,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8102,8 +8102,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8111,8 +8111,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8121,8 +8121,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8130,8 +8130,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8139,8 +8139,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8148,8 +8148,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8157,8 +8157,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8166,8 +8166,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8176,8 +8176,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8185,8 +8185,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -8327,8 +8327,8 @@
      "shared": [
       "cucumber"
      ],
-     "skeleton": "qS",
-     "dissimilation": false
+     "skeleton": "qnS",
+     "dissimilation": true
     },
     {
      "from": "qiššû I",
@@ -8408,8 +8408,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8417,8 +8417,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8426,8 +8426,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8435,8 +8435,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8444,8 +8444,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8453,8 +8453,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8462,8 +8462,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8471,8 +8471,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8480,8 +8480,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8489,8 +8489,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8498,8 +8498,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8507,8 +8507,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8516,8 +8516,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8526,8 +8526,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8535,8 +8535,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8544,8 +8544,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8553,8 +8553,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8562,8 +8562,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8571,8 +8571,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8581,8 +8581,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8590,8 +8590,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8600,8 +8600,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8611,8 +8611,8 @@
       "kindred",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8620,8 +8620,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8630,8 +8630,8 @@
       "near",
       "short"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8639,8 +8639,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8648,8 +8648,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8657,8 +8657,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8666,8 +8666,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8676,8 +8676,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8685,8 +8685,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8694,8 +8694,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8703,8 +8703,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8712,8 +8712,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8721,8 +8721,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8731,8 +8731,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8740,8 +8740,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8750,8 +8750,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8759,8 +8759,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8768,8 +8768,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8777,8 +8777,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8786,8 +8786,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8795,8 +8795,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8805,8 +8805,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8814,8 +8814,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8824,8 +8824,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8833,8 +8833,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8842,8 +8842,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8851,8 +8851,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8860,8 +8860,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8869,8 +8869,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8879,8 +8879,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8888,8 +8888,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -12999,8 +12999,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "brq",
-     "dissimilation": false
+     "skeleton": "bq",
+     "dissimilation": true
     },
     {
      "from": "berqu I",
@@ -13008,8 +13008,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "brq",
-     "dissimilation": false
+     "skeleton": "bq",
+     "dissimilation": true
     },
     {
      "from": "berqu I",
@@ -13017,8 +13017,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "brq",
-     "dissimilation": false
+     "skeleton": "bq",
+     "dissimilation": true
     },
     {
      "from": "he:H1300",
@@ -13026,8 +13026,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "brq",
-     "dissimilation": false
+     "skeleton": "bq",
+     "dissimilation": true
     },
     {
      "from": "he:H1299",
@@ -13035,8 +13035,8 @@
      "shared": [
       "lightning"
      ],
-     "skeleton": "brq",
-     "dissimilation": false
+     "skeleton": "bq",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -17816,39 +17816,57 @@
    ],
    "sux": [],
    "links": [
-    "he:H4751",
-    "ar:أَمَرّ",
     "he:H4843",
+    "ar:أَمَرّ",
     "he:H4844",
+    "he:H4815",
+    "he:H4846",
+    "he:H4751",
     "he:H4753",
     "he:H3992",
     "he:H4805",
-    "he:H4784",
-    "he:H4815",
-    "he:H4846"
+    "he:H4784"
    ],
    "edges": [
-    {
-     "from": "marāru I",
-     "to": "he:H4751",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
     {
      "from": "marāru I",
      "to": "he:H4843",
      "shared": [
       "bitter"
      ],
-     "skeleton": "mr",
-     "dissimilation": true
+     "skeleton": "mrr",
+     "dissimilation": false
     },
     {
      "from": "marāru I",
      "to": "he:H4844",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mrr",
+     "dissimilation": false
+    },
+    {
+     "from": "marāru I",
+     "to": "he:H4815",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mrr",
+     "dissimilation": false
+    },
+    {
+     "from": "marāru I",
+     "to": "he:H4846",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mrr",
+     "dissimilation": false
+    },
+    {
+     "from": "marāru I",
+     "to": "he:H4751",
      "shared": [
       "bitter"
      ],
@@ -17893,39 +17911,12 @@
     },
     {
      "from": "marāru I",
-     "to": "he:H4815",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "marāru I",
-     "to": "he:H4846",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "marāru I",
      "to": "ar:أَمَرّ",
      "shared": [
       "bitter"
      ],
      "skeleton": "mr",
      "dissimilation": true
-    },
-    {
-     "from": "he:H4751",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": false
     },
     {
      "from": "he:H4843",
@@ -17944,6 +17935,33 @@
      ],
      "skeleton": "mr",
      "dissimilation": true
+    },
+    {
+     "from": "he:H4815",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "he:H4846",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "he:H4751",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": false
     },
     {
      "from": "he:H4753",
@@ -17980,24 +17998,6 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
-    },
-    {
-     "from": "he:H4815",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "he:H4846",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
     }
    ],
    "langs": [
@@ -18007,11 +18007,11 @@
    ],
    "targets": [
     {
-     "key": "he:H4751",
-     "form": "מַר",
-     "gloss": "bitter (literally or figuratively)",
-     "translit": "mar",
-     "n": 36
+     "key": "he:H4843",
+     "form": "מָרַר",
+     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
+     "translit": "mârar",
+     "n": 13
     },
     {
      "key": "ar:أَمَرّ",
@@ -18021,18 +18021,32 @@
      "n": 1
     },
     {
-     "key": "he:H4843",
-     "form": "מָרַר",
-     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
-     "translit": "mârar",
-     "n": 13
-    },
-    {
      "key": "he:H4844",
      "form": "מְרֹר",
      "gloss": "a bitter herb",
      "translit": "mᵉrôr",
      "n": 3
+    },
+    {
+     "key": "he:H4815",
+     "form": "מְרִירִי",
+     "gloss": "bitter, i.e. poisonous",
+     "translit": "mᵉrîyrîy",
+     "n": 1
+    },
+    {
+     "key": "he:H4846",
+     "form": "מְרֹרָה",
+     "gloss": "properly, bitterness",
+     "translit": "mᵉrôrâh",
+     "n": 4
+    },
+    {
+     "key": "he:H4751",
+     "form": "מַר",
+     "gloss": "bitter (literally or figuratively)",
+     "translit": "mar",
+     "n": 36
     },
     {
      "key": "he:H4753",
@@ -18061,20 +18075,6 @@
      "gloss": "to be (causatively, make) bitter (or unpleasant)",
      "translit": "mârâh",
      "n": 44
-    },
-    {
-     "key": "he:H4815",
-     "form": "מְרִירִי",
-     "gloss": "bitter, i.e. poisonous",
-     "translit": "mᵉrîyrîy",
-     "n": 1
-    },
-    {
-     "key": "he:H4846",
-     "form": "מְרֹרָה",
-     "gloss": "properly, bitterness",
-     "translit": "mᵉrôrâh",
-     "n": 4
     }
    ],
    "kind": "chain",
@@ -19950,8 +19950,8 @@
      "shared": [
       "out"
      ],
-     "skeleton": "pS",
-     "dissimilation": true
+     "skeleton": "prS",
+     "dissimilation": false
     },
     {
      "from": "pirištu I",
@@ -19959,8 +19959,8 @@
      "shared": [
       "out"
      ],
-     "skeleton": "pS",
-     "dissimilation": true
+     "skeleton": "prS",
+     "dissimilation": false
     },
     {
      "from": "pirištu I",
@@ -27297,11 +27297,20 @@
    ],
    "sux": [],
    "links": [
+    "he:H8150",
     "he:H8127",
-    "ar:سِنّ",
-    "he:H8150"
+    "ar:سِنّ"
    ],
    "edges": [
+    {
+     "from": "šinnu I",
+     "to": "he:H8150",
+     "shared": [
+      "point"
+     ],
+     "skeleton": "Snn",
+     "dissimilation": true
+    },
     {
      "from": "šinnu I",
      "to": "he:H8127",
@@ -27311,15 +27320,6 @@
      ],
      "skeleton": "Sn",
      "dissimilation": false
-    },
-    {
-     "from": "šinnu I",
-     "to": "he:H8150",
-     "shared": [
-      "point"
-     ],
-     "skeleton": "Sn",
-     "dissimilation": true
     },
     {
      "from": "šinnu I",
@@ -27347,6 +27347,13 @@
    ],
    "targets": [
     {
+     "key": "he:H8150",
+     "form": "שָׁנַן",
+     "gloss": "to point (transitive or intransitive)",
+     "translit": "shânan",
+     "n": 9
+    },
+    {
      "key": "he:H8127",
      "form": "שֵׁן",
      "gloss": "a tooth (as sharp)",
@@ -27359,13 +27366,6 @@
      "gloss": "tooth",
      "translit": "",
      "n": 1
-    },
-    {
-     "key": "he:H8150",
-     "form": "שָׁנַן",
-     "gloss": "to point (transitive or intransitive)",
-     "translit": "shânan",
-     "n": 9
     }
    ],
    "kind": "chain",
@@ -32047,8 +32047,8 @@
      "shared": [
       "cherub"
      ],
-     "skeleton": "kb",
-     "dissimilation": true
+     "skeleton": "krb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -32804,22 +32804,22 @@
    ],
    "sux": [],
    "links": [
-    "he:H436",
-    "he:H437"
+    "he:H437",
+    "he:H436"
    ],
    "edges": [
     {
      "from": "allānu I",
-     "to": "he:H436",
+     "to": "he:H437",
      "shared": [
       "oak"
      ],
-     "skeleton": "ln",
-     "dissimilation": false
+     "skeleton": "nln",
+     "dissimilation": true
     },
     {
      "from": "allānu I",
-     "to": "he:H437",
+     "to": "he:H436",
      "shared": [
       "oak"
      ],
@@ -32833,18 +32833,18 @@
    ],
    "targets": [
     {
-     "key": "he:H436",
-     "form": "אֵלוֹן",
-     "gloss": "an oak or other strong tree",
-     "translit": "ʼêlôwn",
-     "n": 9
-    },
-    {
      "key": "he:H437",
      "form": "אַלּוֹן",
      "gloss": "an oak or other strong tree",
      "translit": "ʼallôwn",
      "n": 8
+    },
+    {
+     "key": "he:H436",
+     "form": "אֵלוֹן",
+     "gloss": "an oak or other strong tree",
+     "translit": "ʼêlôwn",
+     "n": 9
     }
    ],
    "kind": "cognate",
@@ -33271,12 +33271,21 @@
    ],
    "sux": [],
    "links": [
+    "he:H3357",
     "he:H3368",
     "he:H3365",
-    "he:H3366",
-    "he:H3357"
+    "he:H3366"
    ],
    "edges": [
+    {
+     "from": "aqqaru I",
+     "to": "he:H3357",
+     "shared": [
+      "preciou"
+     ],
+     "skeleton": "rqr",
+     "dissimilation": true
+    },
     {
      "from": "aqqaru I",
      "to": "he:H3368",
@@ -33303,15 +33312,6 @@
      ],
      "skeleton": "qr",
      "dissimilation": false
-    },
-    {
-     "from": "aqqaru I",
-     "to": "he:H3357",
-     "shared": [
-      "preciou"
-     ],
-     "skeleton": "qr",
-     "dissimilation": false
     }
    ],
    "langs": [
@@ -33319,6 +33319,13 @@
     "he"
    ],
    "targets": [
+    {
+     "key": "he:H3357",
+     "form": "יַקִּיר",
+     "gloss": "precious",
+     "translit": "yaqqîyr",
+     "n": 1
+    },
     {
      "key": "he:H3368",
      "form": "יָקָר",
@@ -33339,13 +33346,6 @@
      "gloss": "value, i.e. (concretely) wealth",
      "translit": "yᵉqâr",
      "n": 15
-    },
-    {
-     "key": "he:H3357",
-     "form": "יַקִּיר",
-     "gloss": "precious",
-     "translit": "yaqqîyr",
-     "n": 1
     }
    ],
    "kind": "cognate",
@@ -34710,8 +34710,8 @@
      "shared": [
       "lighten"
      ],
-     "skeleton": "brq",
-     "dissimilation": false
+     "skeleton": "bq",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -35336,8 +35336,8 @@
       "tree",
       "wood"
      ],
-     "skeleton": "brS",
-     "dissimilation": false
+     "skeleton": "bS",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -41225,8 +41225,8 @@
      "shared": [
       "figure"
      ],
-     "skeleton": "kb",
-     "dissimilation": true
+     "skeleton": "krb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -41634,8 +41634,8 @@
      "shared": [
       "heart"
      ],
-     "skeleton": "lrb",
-     "dissimilation": true
+     "skeleton": "lb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -41652,7 +41652,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "loan"
+   "class": "inherited"
   },
   {
    "akk": "lubuštu I",
@@ -42413,8 +42413,8 @@
      "shared": [
       "ill"
      ],
-     "skeleton": "mrC",
-     "dissimilation": false
+     "skeleton": "mC",
+     "dissimilation": true
     },
     {
      "from": "marāṣu I",
@@ -42422,8 +42422,8 @@
      "shared": [
       "ill"
      ],
-     "skeleton": "mrC",
-     "dissimilation": false
+     "skeleton": "mC",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -42549,8 +42549,8 @@
      "shared": [
       "sick"
      ],
-     "skeleton": "mrC",
-     "dissimilation": false
+     "skeleton": "mC",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -43053,8 +43053,8 @@
      "shared": [
       "measure"
      ],
-     "skeleton": "md",
-     "dissimilation": false
+     "skeleton": "mrd",
+     "dissimilation": true
     },
     {
      "from": "middatu I",
@@ -43087,7 +43087,7 @@
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "mila I",
@@ -43455,8 +43455,8 @@
      "shared": [
       "disease"
      ],
-     "skeleton": "mrC",
-     "dissimilation": false
+     "skeleton": "mC",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -45902,8 +45902,8 @@
      "shared": [
       "pastry"
      ],
-     "skeleton": "png",
-     "dissimilation": false
+     "skeleton": "pnng",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -46034,8 +46034,8 @@
      "shared": [
       "apart"
      ],
-     "skeleton": "pS",
-     "dissimilation": true
+     "skeleton": "prS",
+     "dissimilation": false
     },
     {
      "from": "parsu I",
@@ -46043,8 +46043,8 @@
      "shared": [
       "separate"
      ],
-     "skeleton": "pS",
-     "dissimilation": true
+     "skeleton": "prS",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -46222,8 +46222,8 @@
      "shared": [
       "breach"
      ],
-     "skeleton": "pC",
-     "dissimilation": true
+     "skeleton": "prC",
+     "dissimilation": false
     },
     {
      "from": "parāṣu I",
@@ -46231,8 +46231,8 @@
      "shared": [
       "breach"
      ],
-     "skeleton": "pC",
-     "dissimilation": true
+     "skeleton": "prC",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -47182,8 +47182,8 @@
      "shared": [
       "battle"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -47315,8 +47315,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerēbu I",
@@ -47324,8 +47324,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -47590,8 +47590,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbūtu I",
@@ -47599,8 +47599,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -47649,8 +47649,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurrubu I",
@@ -47658,8 +47658,8 @@
      "shared": [
       "brought"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurrubu I",
@@ -47668,8 +47668,8 @@
       "brought",
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -49768,19 +49768,10 @@
    ],
    "sux": [],
    "links": [
-    "he:H8305",
-    "he:H8242"
+    "he:H8242",
+    "he:H8305"
    ],
    "edges": [
-    {
-     "from": "saqqu I",
-     "to": "he:H8305",
-     "shared": [
-      "cloth"
-     ],
-     "skeleton": "Srq",
-     "dissimilation": true
-    },
     {
      "from": "saqqu I",
      "to": "he:H8242",
@@ -49790,6 +49781,15 @@
      ],
      "skeleton": "Sq",
      "dissimilation": false
+    },
+    {
+     "from": "saqqu I",
+     "to": "he:H8305",
+     "shared": [
+      "cloth"
+     ],
+     "skeleton": "Sq",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -49798,22 +49798,22 @@
    ],
    "targets": [
     {
-     "key": "he:H8305",
-     "form": "שְׂרִיקָה",
-     "gloss": "hetchelling (or combing flax), i.e. (concretely) tow (by extension, linen cloth)",
-     "translit": "sᵉrîyqâh",
-     "n": 1
-    },
-    {
      "key": "he:H8242",
      "form": "שַׂק",
      "gloss": "properly, a mesh (as allowing a liquid to run through), i.e. coarse loose cloth ",
      "translit": "saq",
      "n": 46
+    },
+    {
+     "key": "he:H8305",
+     "form": "שְׂרִיקָה",
+     "gloss": "hetchelling (or combing flax), i.e. (concretely) tow (by extension, linen cloth)",
+     "translit": "sᵉrîyqâh",
+     "n": 1
     }
    ],
    "kind": "cognate",
-   "class": "loan"
+   "class": "inherited"
   },
   {
    "akk": "sarru I",
@@ -50700,8 +50700,8 @@
      "shared": [
       "dust"
      ],
-     "skeleton": "trb",
-     "dissimilation": false
+     "skeleton": "tb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -50741,8 +50741,8 @@
      "shared": [
       "dust"
      ],
-     "skeleton": "trb",
-     "dissimilation": false
+     "skeleton": "tb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -50780,8 +50780,8 @@
      "shared": [
       "gift"
      ],
-     "skeleton": "tm",
-     "dissimilation": true
+     "skeleton": "trm",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -53469,10 +53469,19 @@
    ],
    "sux": [],
    "links": [
-    "he:H7626",
-    "he:H8275"
+    "he:H8275",
+    "he:H7626"
    ],
    "edges": [
+    {
+     "from": "šabbiṭu I",
+     "to": "he:H8275",
+     "shared": [
+      "sceptre"
+     ],
+     "skeleton": "SrbT",
+     "dissimilation": true
+    },
     {
      "from": "šabbiṭu I",
      "to": "he:H7626",
@@ -53482,15 +53491,6 @@
      ],
      "skeleton": "SbT",
      "dissimilation": false
-    },
-    {
-     "from": "šabbiṭu I",
-     "to": "he:H8275",
-     "shared": [
-      "sceptre"
-     ],
-     "skeleton": "SbT",
-     "dissimilation": true
     }
    ],
    "langs": [
@@ -53499,22 +53499,22 @@
    ],
    "targets": [
     {
-     "key": "he:H7626",
-     "form": "שֵׁבֶט",
-     "gloss": "a scion, i.e. (literally) a stick (for punishing, writing, fighting, ruling, wal",
-     "translit": "shêbeṭ",
-     "n": 178
-    },
-    {
      "key": "he:H8275",
      "form": "שַׁרְבִיט",
      "gloss": "a rod of empire",
      "translit": "sharbîyṭ",
      "n": 3
+    },
+    {
+     "key": "he:H7626",
+     "form": "שֵׁבֶט",
+     "gloss": "a scion, i.e. (literally) a stick (for punishing, writing, fighting, ruling, wal",
+     "translit": "shêbeṭ",
+     "n": 178
     }
    ],
    "kind": "cognate",
-   "class": "inherited"
+   "class": "loan"
   },
   {
    "akk": "šabāhu I",
@@ -55034,8 +55034,8 @@
      "shared": [
       "thief"
      ],
-     "skeleton": "Srq",
-     "dissimilation": false
+     "skeleton": "Sq",
+     "dissimilation": true
     },
     {
      "from": "šarrāqu I",
@@ -55043,8 +55043,8 @@
      "shared": [
       "thief"
      ],
-     "skeleton": "Srq",
-     "dissimilation": false
+     "skeleton": "Sq",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -55352,8 +55352,8 @@
      "shared": [
       "steal"
      ],
-     "skeleton": "Srq",
-     "dissimilation": false
+     "skeleton": "Sq",
+     "dissimilation": true
     },
     {
      "from": "šarāqu I",
@@ -55361,8 +55361,8 @@
      "shared": [
       "steal"
      ],
-     "skeleton": "Srq",
-     "dissimilation": false
+     "skeleton": "Sq",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -55990,8 +55990,8 @@
      "shared": [
       "sixth"
      ],
-     "skeleton": "SS",
-     "dissimilation": false
+     "skeleton": "SnS",
+     "dissimilation": true
     },
     {
      "from": "šeššu I",
@@ -57188,8 +57188,8 @@
      "shared": [
       "sixth"
      ],
-     "skeleton": "SS",
-     "dissimilation": false
+     "skeleton": "SnS",
+     "dissimilation": true
     },
     {
      "from": "šuššu I",
@@ -59501,8 +59501,8 @@
    "shared": [
     "mast"
    ],
-   "skeleton": "tn",
-   "dissimilation": true,
+   "skeleton": "trn",
+   "dissimilation": false,
    "to_form": "תֹּרֶן"
   },
   {

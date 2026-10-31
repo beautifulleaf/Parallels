@@ -71,8 +71,8 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 6.8e-06 | طَفِقَ *ṭafiqa* “began” (root طفق) | Adam and Iblis (2) + Solomon (1) | 3 |
 | 9.0e-06 | أَصْنام *ʾaṣnām* “idol” (root صنم) | Abraham (4) + Moses (1) | 5 |
 | 2.5e-05 | جاوَزَ *jāwaza* “across” (root جوز) | Moses (3) + Saul (Talut) and Goliath (1) | 4 |
-| 2.9e-05 | طَلَعَت *ṭalaʿat* “rose” (root طلع) | People of the Cave (1) + Dhul-Qarnayn (1) | 2 |
 | 2.9e-05 | غَرَبَت *gharabat* “set” (root غرب) | People of the Cave (1) + Dhul-Qarnayn (1) | 2 |
+| 2.9e-05 | طَلَعَت *ṭalaʿat* “rose” (root طلع) | People of the Cave (1) + Dhul-Qarnayn (1) | 2 |
 | 5.8e-05 | مُغْرَق *mughraq* “drowned” (root غرق) | Moses (1) + Noah (3) | 4 |
 | 6.0e-05 | بَصطَة *baṣṭa* “abundantly” (root بسط) | Hud and ʿAd (1) + Saul (Talut) and Goliath (1) | 2 |
 | 8.3e-05 | سَمِين *samīn* “fat” (root سمن) · Hebrew cognate שֶׁמֶן *shemen* H8081 | Abraham (1) + Joseph (2) | 3 |
@@ -231,9 +231,9 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 9.3e-01 | בְּנָא *bᵉnâʼ* “to build” (H1124) | Daniel (Aramaic court tales and vision) (1) + Ezra's Aramaic letters and decrees (18) | 19 |
 | 9.4e-01 | רַב *rab* “abundant” (H7229) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
 | 9.4e-01 | אָתָה *ʼâthâh* “to arrive” (H858) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
-| 9.4e-01 | עָלַם *ʻâlam* “remote time, i.e. the future or past indefinitely” (H5957) | Daniel (Aramaic court tales and vision) (13) + Ezra's Aramaic letters and decrees (2) | 15 |
-| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.4e-01 | יוֹם *yôwm* “a day” (H3118) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
+| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
+| 9.4e-01 | עָלַם *ʻâlam* “remote time, i.e. the future or past indefinitely” (H5957) | Daniel (Aramaic court tales and vision) (13) + Ezra's Aramaic letters and decrees (2) | 15 |
 | 9.5e-01 | חַד *chad* “as card. one” (H2298) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (4) | 14 |
 | 9.5e-01 | שְׁלַח *shᵉlach* “to send away, for, or out (in a great variety of applications)” (H7972) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (10) | 14 |
 | 9.5e-01 | גַּו *gav* “the middle” (H1459) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (3) | 13 |
