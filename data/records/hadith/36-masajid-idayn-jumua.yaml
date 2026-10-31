@@ -1,0 +1,1125 @@
+# Observation records, hadith chunk 36 (al-Jāmiʿ al-Kāmil books 10-12: the last bābs of the mosques, the two feasts, Friday).
+records:
+- id: h-1943.1-spittle
+  ref: Jāmiʿ 10:1943.1
+  unit: hadith-10-spittle-and-arrows-in-mosque
+  action: spits in the mosque
+  place: mosque
+  outcome: spitting a bad deed, burying it a good deed
+  quoted: al-tafl fī l-masjid sayyiʾa wa-dafnuhu ḥasana
+- id: h-1943.2-arrows
+  ref: Jāmiʿ 10:1943.2
+  unit: hadith-10-spittle-and-arrows-in-mosque
+  agent: one passing with arrows
+  action: holds the arrowheads
+  object: arrows (nabl)
+  place: mosque or market
+  outcome: no Muslim is wounded
+  quoted: fa-l-yumsik ʿalā niṣālihā
+- id: h-1944.1-hassan
+  ref: Jāmiʿ 10:1944.1
+  unit: hadith-10-poetry-and-trade-in-mosque
+  agent: Hassan b. Thabit
+  action: recites poetry in the mosque
+  recipient: Umar, who glares at him
+  name: rūḥ al-qudus
+  quoted: ajib ʿannī, allāhumma ayyidhu bi-rūḥ al-qudus
+- id: h-1944.2-bans
+  ref: Jāmiʿ 10:1944.2
+  unit: hadith-10-poetry-and-trade-in-mosque
+  agent: the prophet
+  action: forbids
+  object:
+  - buying and selling
+  - crying lost property
+  - reciting poetry
+  - sitting in circles before Friday prayer
+  place: mosque
+  number: 4
+- id: h-1945.1-lost
+  ref: Jāmiʿ 10:1945.1
+  unit: hadith-10-lost-property-cried-in-mosque
+  action: answers one crying for a lost animal
+  place: mosque
+  quoted: lā raddahā llāhu ʿalayka, fa-inna l-masājid lam tubna li-hādhā
+- id: h-1945.2-redcamel
+  ref: Jāmiʿ 10:1945.2
+  unit: hadith-10-lost-property-cried-in-mosque
+  agent: a man
+  action: calls for his lost red camel
+  place: mosque
+  time: after the dawn prayer
+  quoted: man daʿā ilā l-jamal al-aḥmar ... lā wajadta
+- id: h-1946.1-khaybar
+  ref: Jāmiʿ 10:1946.1
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: the prophet
+  action: bars garlic-eaters from the mosque
+  object: garlic
+  time: campaign of Khaybar
+  quoted: fa-lā yaqrabanna masjidanā
+- id: h-1946.2-converse
+  ref: Jāmiʿ 10:1946.2
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: the prophet
+  action: gives a pot of greens to a companion
+  object: garlic, onion
+  quoted: kul fa-innī unājī man lā tunājī
+- id: h-1946.5-baqi
+  ref: Jāmiʿ 10:1946.5
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: the prophet
+  action: has a man smelling of garlic put out
+  place: al-Baqīʿ
+  time: Umar's Friday sermon
+  quoted: fa-l-yumithumā ṭabkhan
+- id: h-1947.1-notforbid
+  ref: Jāmiʿ 10:1947.1
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: hungry companions
+  action: eat garlic after Khaybar
+  outcome: '''it is not for me to forbid what God allowed me'''
+  quoted: laysa lī taḥrīm mā aḥalla llāhu lī
+- id: h-1947.2-onionfield
+  ref: Jāmiʿ 10:1947.2
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: the prophet
+  action: keeps back the onion-eaters
+  place: an onion field
+  outcome: calls those who did not eat first
+- id: h-1947.3-boundchest
+  ref: Jāmiʿ 10:1947.3
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: al-Mughira b. Shuba
+  action: puts the prophet's hand into his sleeve
+  object: his bound chest
+  outcome: '''you have an excuse'''
+  quoted: fa-idhā anā maʿṣūb al-ṣadr
+- id: h-1948.1-qiblaspit
+  ref: Jāmiʿ 10:1948.1
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  action: spits toward the qibla
+  time: day of resurrection
+  outcome: the spittle between his eyes
+  quoted: jāʾa yawm al-qiyāma tafluhu bayna ʿaynayhi
+- id: h-1948.4-donkeys
+  ref: Jāmiʿ 10:1948.4
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: Abd al-Rahman b. Awf
+  action: proclaims
+  object: domestic donkey meat unlawful
+  place: Khaybar
+  quoted: lā taḥill li-man shahida annī rasūl allāh
+- id: h-1949.1-leftover
+  ref: Jāmiʿ 10:1949.1
+  unit: hadith-10-garlic-and-onion-keep-from-mosque
+  agent: the prophet
+  action: sends back a dish untouched
+  object: garlic
+  recipient: Abu Ayyub
+  quoted: lā wa-lākinnī akrahuhu min ajli rīḥihi
+- id: h-1949.2-ownmosque
+  ref: Jāmiʿ 10:1949.2
+  unit: hadith-10-pray-in-ones-own-mosque
+  action: prays in his own mosque
+  outcome: does not go round the mosques
+  quoted: wa-lā yatatabbaʿ al-masājid
+- id: h-1953.1-buath
+  ref: Jāmiʿ 11:1953.1
+  unit: hadith-11-every-people-has-a-feast
+  agent: two Ansari girls
+  action: sing of the day of Bu'ath
+  recipient: Abu Bakr objects
+  time: a feast day
+  name: mazāmīr al-shayṭān
+  quoted: inna li-kull qawm ʿīdan wa-hādhā ʿīdunā
+- id: h-1953.2-twodays
+  ref: Jāmiʿ 11:1953.2
+  unit: hadith-11-every-people-has-a-feast
+  agent: God
+  action: replaces two days of play
+  object: two Jahiliyya feast days
+  outcome: al-Adha and al-Fitr
+  number: 2
+  place: Medina
+- id: h-1953.3-dates
+  ref: Jāmiʿ 11:1953.3
+  unit: hadith-11-eating-before-the-feast-prayer
+  agent: the prophet
+  action: eats dates before going out
+  time: morning of al-Fitr
+  number: an odd number (witr)
+- id: h-1953.4-adha
+  ref: Jāmiʿ 11:1953.4
+  unit: hadith-11-eating-before-the-feast-prayer
+  agent: the prophet
+  action: eats nothing until after the prayer
+  time: al-Adha
+  outcome: eats on al-Fitr before going out
+- id: h-1954.1-early
+  ref: Jāmiʿ 11:1954.1
+  unit: hadith-11-eating-before-the-feast-prayer
+  agent: Ibn Abbas' people
+  action: eat before going out
+  time: when the forenoon is high
+  object: flat bread, milk or water
+  quoted: naṭʿamu li-allā nuʿjala ʿan ṣalātinā
+- id: h-1954.2-alms
+  ref: Jāmiʿ 11:1954.2
+  unit: hadith-11-eating-before-the-feast-prayer
+  action: gives the alms and eats
+  time: before going out on al-Fitr
+  quoted: min al-sunna
+- id: h-1956.1-robe
+  ref: Jāmiʿ 11:1956.1
+  unit: hadith-11-feast-dress-road-and-hour
+  agent: Umar
+  action: offers to buy a brocade robe
+  object: robe of istabraq
+  recipient: the prophet
+  time: for the feast and delegations
+  outcome: 'refused: ''dress of one with no share'''
+  quoted: innamā hādhihi libās man lā khalāqa lahu
+- id: h-1957.1-road
+  ref: Jāmiʿ 11:1957.1
+  unit: hadith-11-feast-dress-road-and-hour
+  agent: the prophet
+  action: returns by a different road
+  time: feast day
+  quoted: khālafa l-ṭarīq
+- id: h-1958.1-tasbih
+  ref: Jāmiʿ 11:1958.1
+  unit: hadith-11-feast-dress-road-and-hour
+  agent: Abd Allah b. Busr
+  action: protests the imam's delay
+  time: the hour of the forenoon prayer
+  quoted: ḥīn al-tasbīḥ
+- id: h-1959.1-earrings
+  ref: Jāmiʿ 11:1959.1
+  unit: hadith-11-two-rakas-alms-of-women
+  agent: women
+  action: throw jewellery as alms
+  object:
+  - small earrings (khurṣ)
+  - scented necklaces (sikhāb)
+  recipient: Bilal
+  time: after the two rak'as of al-Fitr
+  number: 2
+- id: h-1959.2-expedition
+  ref: Jāmiʿ 11:1959.2
+  unit: hadith-11-two-rakas-alms-of-women
+  agent: the prophet
+  action: prays two rak'as then orders alms
+  outcome: announces an expedition if he has one, else goes home
+  number: 2
+- id: h-1960.1-complete
+  ref: Jāmiʿ 11:1960.1
+  unit: hadith-11-two-rakas-alms-of-women
+  agent: Umar
+  action: lists the two-rak'a prayers
+  object:
+  - al-Adha
+  - al-Fitr
+  - the traveller's
+  - Friday
+  number: 2
+  quoted: tamām laysa bi-qaṣr
+- id: h-1961.1-home
+  ref: Jāmiʿ 11:1961.1
+  unit: hadith-11-two-rakas-alms-of-women
+  agent: the prophet
+  action: prays two rak'as
+  place: at home after the feast
+  number: 2
+- id: h-1961.2-takbirs
+  ref: Jāmiʿ 11:1961.2
+  unit: hadith-11-seven-and-five-takbirs
+  agent: the prophet
+  action: says takbirs
+  time: al-Fitr and al-Adha
+  number:
+  - 7
+  - 5
+- id: h-1962.1-reading
+  ref: Jāmiʿ 11:1962.1
+  unit: hadith-11-seven-and-five-takbirs
+  action: recites after the takbirs
+  number:
+  - 7
+  - 5
+  quoted: wa-l-qirāʾa baʿdahumā kiltayhimā
+- id: h-1965.1-qaf
+  ref: Jāmiʿ 11:1965.1
+  unit: hadith-11-feast-readings
+  agent: the prophet
+  action: recites
+  object:
+  - Qaf
+  - al-Qamar
+  time: the two feasts
+  name: Abū Wāqid al-Laythī
+- id: h-1965.2-alaghashiya
+  ref: Jāmiʿ 11:1965.2
+  unit: hadith-11-feast-readings
+  agent: the prophet
+  action: recites
+  object:
+  - al-A'la
+  - al-Ghashiya
+  time: feasts and Friday, both when they coincide
+- id: h-1966.2-nocall
+  ref: Jāmiʿ 11:1966.2
+  unit: hadith-11-feast-without-call
+  agent: the prophet
+  action: prays the feast
+  outcome: without adhan or iqama
+  quoted: bi-ghayr adhān wa-lā iqāma
+- id: h-1967.3-marwan
+  ref: Jāmiʿ 11:1967.3
+  unit: hadith-11-prayer-before-sermon-and-marwan
+  agent: Marwan b. al-Hakam
+  action: preaches before the prayer
+  instrument: a mud-brick pulpit built by Kathir b. al-Salt
+  recipient: Abu Sa'id tugs his garment
+  place: the prayer-ground
+  quoted: dhahaba mā taʿlam
+- id: h-1968.1-munkar
+  ref: Jāmiʿ 11:1968.1
+  unit: hadith-11-prayer-before-sermon-and-marwan
+  agent: a man
+  action: protests the sermon before prayer
+  recipient: Marwan
+  outcome: 'Abu Sa''id: he has done his duty'
+  quoted: fa-l-yughayyirhu bi-yadihi
+- id: h-1969.1-anaza
+  ref: Jāmiʿ 11:1969.1
+  unit: hadith-11-spear-as-sutra
+  agent: the prophet
+  action: prays toward a planted short spear
+  instrument: ʿanaza
+  place: the prayer-ground (muṣallā)
+  time: feast day
+- id: h-1969.3-awatiq
+  ref: Jāmiʿ 11:1969.3
+  unit: hadith-11-women-and-boys-at-the-feast
+  agent: the prophet
+  action: orders women brought out
+  object:
+  - girls near maturity
+  - secluded women
+  - menstruating women
+  time: both feasts
+  outcome: menstruants keep apart from the prayer-place
+- id: h-1970.1-boy
+  ref: Jāmiʿ 11:1970.1
+  unit: hadith-11-women-and-boys-at-the-feast
+  agent: Ibn Abbas
+  action: attends the feast as a small boy
+  place: the marker by Kathir b. al-Salt's house
+  outcome: women throw jewellery into Bilal's garment
+- id: h-1971.2-camel
+  ref: Jāmiʿ 11:1971.2
+  unit: hadith-11-sermon-from-a-camel
+  agent: the prophet
+  action: preaches on a she-camel
+  recipient: an Abyssinian holds the halter
+- id: h-1972.1-adba
+  ref: Jāmiʿ 11:1972.1
+  unit: hadith-11-sermon-from-a-camel
+  agent: the prophet
+  action: preaches on his camel
+  name: al-ʿAḍbāʾ
+  place: Mina
+  time: day of sacrifice
+- id: h-1973.1-cud
+  ref: Jāmiʿ 11:1973.1
+  unit: hadith-11-sermon-from-a-camel
+  agent: the prophet
+  action: preaches on his camel
+  object: the camel's slaver on the listener's shoulders
+  quoted: lā waṣiyya li-wārith, wa-l-walad li-l-firāsh wa-li-l-ʿāhir al-ḥajar
+- id: h-1973.3-stirrups
+  ref: Jāmiʿ 11:1973.3
+  unit: hadith-11-sermon-from-a-camel
+  agent: the prophet
+  action: preaches standing in the stirrups
+  place: Arafa
+  time: day of Arafa
+- id: h-1975.1-hellfuel
+  ref: Jāmiʿ 11:1975.1
+  unit: hadith-11-women-admonished-at-the-feast
+  agent: the prophet
+  action: preaches to the women leaning on Bilal
+  recipient: women
+  instrument: Bilal's spread garment
+  quoted: fa-inna aktharakunna ḥaṭab jahannam ... tukthirna l-shakāh wa-takfurna l-ʿashīr
+- id: h-1976.1-pledge
+  ref: Jāmiʿ 11:1976.1
+  unit: hadith-11-women-admonished-at-the-feast
+  agent: the prophet
+  action: recites the women's pledge verse
+  recipient: women
+  outcome: one woman alone answers 'yes'
+  quoted: antunna ʿalā dhālik
+- id: h-1977.2-bow
+  ref: Jāmiʿ 11:1977.2
+  unit: hadith-11-leaning-on-bow-or-staff
+  agent: the prophet
+  action: preaches leaning on a bow
+  time: feast day
+- id: h-1977.3-staff
+  ref: Jāmiʿ 11:1977.3
+  unit: hadith-11-leaning-on-bow-or-staff
+  agent: the prophet
+  action: preaches leaning on a staff or bow
+  time: Friday
+  recipient: a delegation of seven or nine
+  quoted: saddidū wa-abshirū
+- id: h-1978.1-zubayr
+  ref: Jāmiʿ 11:1978.1
+  unit: hadith-11-feast-on-a-friday
+  agent: Ibn al-Zubayr
+  action: prays the feast early and skips the Friday prayer
+  time: a feast falling on Friday
+  outcome: 'Ibn Abbas: ''he hit the sunna'''
+  quoted: aṣāba l-sunna
+- id: h-1981.1-slaughter
+  ref: Jāmiʿ 11:1981.1
+  unit: hadith-11-pray-then-slaughter
+  agent: the prophet
+  action: prays then slaughters
+  time: day of sacrifice
+  quoted: an nuṣalliya thumma narjiʿa fa-nanḥara
+- id: h-1982.1-behind
+  ref: Jāmiʿ 11:1982.1
+  unit: hadith-11-takbir-on-the-days
+  agent: menstruating women
+  action: say takbir behind the people
+  time: feast day
+  quoted: yarjūna barakat dhālika l-yawm wa-ṭuhratahu
+- id: h-1982.2-talbiya
+  ref: Jāmiʿ 11:1982.2
+  unit: hadith-11-takbir-on-the-days
+  agent: the pilgrims
+  action: call talbiya or takbir
+  place: from Mina to Arafat
+  outcome: neither is reproved
+- id: h-1983.2-tashriq
+  ref: Jāmiʿ 11:1983.2
+  unit: hadith-11-takbir-on-the-days
+  action: eat, drink and remember God
+  time: days of tashriq
+  quoted: ayyām akl wa-shurb wa-dhikr li-llāh
+- id: h-1985.1-tambourine
+  ref: Jāmiʿ 11:1985.1
+  unit: hadith-11-play-on-the-feast
+  agent: two girls
+  action: beat tambourines
+  place: Aisha's house
+  time: days of Mina
+  outcome: '''leave them, these are feast days'''
+- id: h-1986.1-arfida
+  ref: Jāmiʿ 11:1986.1
+  unit: hadith-11-play-on-the-feast
+  agent: the black men (Banu Arfida)
+  action: play with shields and spears
+  recipient: Aisha watches, cheek on his cheek
+  time: feast day
+  quoted: dūnakum yā banī arfida
+- id: h-1986.2-pebbles
+  ref: Jāmiʿ 11:1986.2
+  unit: hadith-11-play-on-the-feast
+  agent: Umar
+  action: pelts the players with pebbles
+  recipient: Abyssinians playing with spears
+  outcome: '''leave them, Umar'''
+- id: h-1986.3-spearhead
+  ref: Jāmiʿ 11:1986.3
+  unit: hadith-11-weapons-on-the-feast-day
+  agent: Ibn Umar
+  action: is wounded in the sole by a spearhead
+  place: Mina
+  recipient: al-Hajjaj
+  quoted: ḥamalta l-silāḥ fī yawm lam yakun yuḥmal fīhi
+- id: h-1988.1-tomorrow
+  ref: Jāmiʿ 12:1988.1
+  unit: hadith-12-the-day-imposed-and-guided-to
+  agent: God
+  action: guides us to the day
+  object: Friday
+  outcome: Jews tomorrow, Christians the day after
+  quoted: fa-l-yahūd ghadan wa-l-naṣārā baʿda ghad
+- id: h-1988.2-astray
+  ref: Jāmiʿ 12:1988.2
+  unit: hadith-12-the-day-imposed-and-guided-to
+  agent: God
+  action: leads earlier peoples astray from Friday
+  name:
+  - Saturday (Jews)
+  - Sunday (Christians)
+  outcome: we are first judged at resurrection
+- id: h-1989.1-muhtalim
+  ref: Jāmiʿ 12:1989.1
+  unit: hadith-12-the-day-imposed-and-guided-to
+  action: going to Friday made a duty
+  recipient: every pubescent male
+  quoted: rawāḥ al-jumuʿa wājib ʿalā kull muḥtalim
+- id: h-1989.2-four
+  ref: Jāmiʿ 12:1989.2
+  unit: hadith-12-the-day-imposed-and-guided-to
+  action: exempts from Friday
+  object:
+  - owned slave
+  - woman
+  - boy
+  - sick man
+  number: 4
+- id: h-1989.3-sealed
+  ref: Jāmiʿ 12:1989.3
+  unit: hadith-12-leaving-friday
+  agent: God
+  action: seals the hearts
+  recipient: those who leave the Fridays
+  place: the wooden pulpit
+  quoted: aw la-yakhtimanna llāhu ʿalā qulūbihim
+- id: h-1990.2-three
+  ref: Jāmiʿ 12:1990.2
+  unit: hadith-12-leaving-friday
+  agent: God
+  action: seals the heart
+  recipient: whoever leaves three Fridays out of neglect
+  number: 3
+  quoted: ṭabaʿa llāhu ʿalā qalbihi
+- id: h-1992.1-milk
+  ref: Jāmiʿ 12:1992.1
+  unit: hadith-12-leaving-friday
+  agent: the community
+  action: leave congregations and Fridays
+  object:
+  - the Book misinterpreted
+  - milk
+  place: the desert
+  quoted: halāk ummatī fī l-kitāb wa-l-laban
+- id: h-1992.2-hypocrite
+  ref: Jāmiʿ 12:1992.2
+  unit: hadith-12-leaving-friday
+  action: hears the call and does not come
+  number: 3
+  outcome: written among the hypocrites
+- id: h-1992.3-hour
+  ref: Jāmiʿ 12:1992.3
+  unit: hadith-12-the-hour-of-friday
+  agent: a praying Muslim
+  action: asks God
+  time: an hour on Friday
+  outcome: is given it
+  instrument: hand gesture showing it is brief
+- id: h-1993.2-kab
+  ref: Jāmiʿ 12:1993.2
+  unit: hadith-12-the-hour-of-friday
+  agent: Abu Hurayra
+  action: exchanges reports with Ka'b al-Ahbar
+  place: al-Ṭūr
+  name:
+  - Kaʿb al-Aḥbār
+  - ʿAbd Allāh b. Salām
+  - Baṣra b. Abī Baṣra
+  outcome: 'Ka''b reads the Torah: every Friday, not once a year'
+  quoted: fa-qaraʾa kaʿb al-tawrāh fa-qāla ṣadaqa rasūl allāh
+- id: h-1993.2-adam
+  ref: Jāmiʿ 12:1993.2
+  unit: hadith-12-the-hour-of-friday
+  object:
+  - Adam created
+  - sent down
+  - forgiven
+  - died
+  - the Hour
+  time: Friday
+  outcome: every beast listens from dawn to sunrise fearing the Hour, except jinn and humans
+  quoted: mā min dābba illā wa-hiya muṣīkha
+- id: h-1993.2-threemosques
+  ref: Jāmiʿ 12:1993.2
+  unit: hadith-12-the-hour-of-friday
+  action: sets mounts going
+  object:
+  - the Sacred Mosque
+  - the prophet's mosque
+  - the mosque of Iliya'
+  number: 3
+- id: h-1994.1-egg
+  ref: Jāmiʿ 12:1994.1
+  unit: hadith-12-the-hour-of-friday
+  agent: two angels over each person
+  action: write arrivals in order
+  object:
+  - camel
+  - cow
+  - sheep
+  - bird
+  - egg
+  outcome: the sheets folded when the imam sits
+  number: 5
+- id: h-1994.2-imamsits
+  ref: Jāmiʿ 12:1994.2
+  unit: hadith-12-the-hour-of-friday
+  action: locates the hour
+  time: from the imam's sitting until the prayer ends
+- id: h-1997.2-twelve
+  ref: Jāmiʿ 12:1997.2
+  unit: hadith-12-the-hour-of-friday
+  action: seek the answered hour
+  time: the last hour after the afternoon prayer
+  number: 12
+- id: h-1998.1-ibnsalam
+  ref: Jāmiʿ 12:1998.1
+  unit: hadith-12-the-hour-of-friday
+  agent: Abd Allah b. Salam
+  action: cites God's book on the Friday hour
+  outcome: the prophet adds 'or part of an hour'; the last hours of the day
+  quoted: innā la-najidu fī kitāb allāh
+- id: h-2001.1-bodies
+  ref: Jāmiʿ 12:2001.1
+  unit: hadith-12-blessings-on-the-prophet-on-friday
+  agent: God
+  action: forbids the earth the prophets' bodies
+  object:
+  - Adam created and taken
+  - the blast
+  - the swoon
+  time: Friday
+  quoted: ḥarrama ʿalā l-arḍ ajsād al-anbiyāʾ
+- id: h-2003.1-expiate
+  ref: Jāmiʿ 12:2003.1
+  unit: hadith-12-friday-to-friday-expiation
+  object:
+  - five prayers
+  - Friday to Friday
+  - Ramadan to Ramadan
+  action: expiate what lies between
+  outcome: while grave sins are avoided
+- id: h-2003.2-gathered
+  ref: Jāmiʿ 12:2003.2
+  unit: hadith-12-friday-to-friday-expiation
+  agent: Salman
+  action: answers what Friday is
+  outcome: the day your father was gathered
+  quoted: huwa l-yawm alladhī jumiʿa fīhi abūkum
+- id: h-2005.1-hours
+  ref: Jāmiʿ 12:2005.1
+  unit: hadith-12-coming-early-to-friday
+  action: goes to Friday
+  object:
+  - camel
+  - cow
+  - horned ram
+  - hen
+  - egg
+  number: 5
+  time: first to fifth hour
+  outcome: angels come to hear the reminder
+- id: h-2005.3-fourth
+  ref: Jāmiʿ 12:2005.3
+  unit: hadith-12-coming-early-to-friday
+  agent: Ibn Mas'ud
+  action: finds three ahead of him
+  number: 4
+  outcome: people sit near God by order of arrival
+  quoted: rābiʿ arbaʿa wa-mā rābiʿ arbaʿa bi-baʿīd
+- id: h-2006.1-sparrow
+  ref: Jāmiʿ 12:2006.1
+  unit: hadith-12-coming-early-to-friday
+  agent: angels
+  action: write arrivals at the mosque doors
+  object:
+  - camel
+  - cow
+  - sheep
+  - hen
+  - sparrow
+  - egg
+  number: 6
+  outcome: sheets folded when the muezzin calls and the imam sits
+- id: h-2007.1-steps
+  ref: Jāmiʿ 12:2007.1
+  unit: hadith-12-each-step-a-years-reward
+  action: walks to Friday
+  outcome: each step a year's fasting and night prayer
+  quoted: ka-na lahu bi-kull khuṭwa ʿamal sana
+- id: h-2011.1-grave
+  ref: Jāmiʿ 12:2011.1
+  unit: hadith-12-dying-on-friday
+  action: dies
+  time: Friday or its eve
+  outcome: spared the trial of the grave
+  quoted: illā waqāhu llāhu fitnat al-qabr
+- id: h-2012.1-house
+  ref: Jāmiʿ 12:2012.1
+  unit: hadith-12-not-fasting-friday-alone
+  agent: Jabir
+  action: swears
+  place: while circling the House
+  quoted: naʿam wa-rabbi hādhā l-bayt
+- id: h-2012.2-juwayriya
+  ref: Jāmiʿ 12:2012.2
+  unit: hadith-12-not-fasting-friday-alone
+  agent: the prophet
+  action: tells his wife to break her fast
+  recipient: Juwayriya bt. al-Harith
+  time: Friday
+  quoted: a-ṣumti ams ... fa-afṭirī
+- id: h-2013.2-nightvigil
+  ref: Jāmiʿ 12:2013.2
+  unit: hadith-12-not-fasting-friday-alone
+  action: forbids singling out
+  object:
+  - Friday night for prayer
+  - Friday for fasting
+  outcome: unless within a habitual fast
+- id: h-2014.1-newmoon
+  ref: Jāmiʿ 12:2014.1
+  unit: hadith-12-not-fasting-friday-alone
+  agent: the prophet
+  action: fasts
+  number: 3
+  time: from the start of each month
+  outcome: seldom not fasting on Friday
+- id: h-2017.1-bath
+  ref: Jāmiʿ 12:2017.1
+  unit: hadith-12-the-friday-bath
+  action: bathes
+  time: Friday
+  recipient: every pubescent
+  quoted: ghusl yawm al-jumuʿa wājib ʿalā kull muḥtalim
+- id: h-2017.3-ablution
+  ref: Jāmiʿ 12:2017.3
+  unit: hadith-12-the-friday-bath
+  agent: Umar
+  action: rebukes a late-comer from the pulpit
+  recipient: an early Emigrant (Uthman in a variant)
+  outcome: '''the ablution too?'''
+  quoted: wa-l-wuḍūʾ ayḍan
+- id: h-2018.2-seven
+  ref: Jāmiʿ 12:2018.2
+  unit: hadith-12-the-friday-bath
+  action: bathes head and body
+  time: once in every seven days
+  number: 7
+  quoted: ḥaqq li-llāh ʿalā kull muslim
+- id: h-2019.1-wool
+  ref: Jāmiʿ 12:2019.1
+  unit: hadith-12-the-friday-bath
+  agent: Ibn Abbas
+  action: explains the origin of the Friday bath
+  object:
+  - wool clothes
+  - sweat
+  - cramped low-roofed mosque
+  time: a hot day
+  outcome: the cause later removed
+- id: h-2020.2-repeat
+  ref: Jāmiʿ 12:2020.2
+  unit: hadith-12-the-friday-bath
+  agent: Abu Qatada
+  action: tells his son to bathe again for Friday
+  outcome: purity until the next Friday
+- id: h-2021.1-better
+  ref: Jāmiʿ 12:2021.1
+  unit: hadith-12-the-friday-bath
+  action: makes ablution or bathes
+  time: Friday
+  outcome: bathing better
+  quoted: fa-bihā wa-niʿmat
+- id: h-2022.1-siwak
+  ref: Jāmiʿ 12:2022.1
+  unit: hadith-12-perfume-tooth-stick-and-forgiveness
+  object:
+  - bath
+  - tooth-stick
+  - perfume
+  recipient: every pubescent
+  time: Friday
+  number: 3
+- id: h-2022.2-salman
+  ref: Jāmiʿ 12:2022.2
+  unit: hadith-12-perfume-tooth-stick-and-forgiveness
+  action: bathes, oils, goes out, does not separate two, keeps silent
+  outcome: forgiven until the next Friday
+- id: h-2023.2-brother
+  ref: Jāmiʿ 12:2023.2
+  unit: hadith-12-best-clothes-for-friday
+  agent: Umar
+  action: clothes his idolater brother
+  object: a silk robe from the prophet
+  quoted: fa-kasāhā ʿumar akhan lahu mushrikan
+- id: h-2024.1-nap
+  ref: Jāmiʿ 12:2024.1
+  unit: hadith-12-meal-and-nap-after-friday
+  action: takes the midday meal and nap
+  time: only after Friday
+- id: h-2025.2-necks
+  ref: Jāmiʿ 12:2025.2
+  unit: hadith-12-stepping-over-necks
+  agent: a man
+  action: steps over people's necks
+  time: during the sermon
+  outcome: '''sit, you have harmed'''
+  quoted: ijlis fa-qad ādhayta
+- id: h-2026.2-pebbles
+  ref: Jāmiʿ 12:2026.2
+  unit: hadith-12-friday-conduct-and-forgiveness
+  action: touches the pebbles
+  outcome: counts as idle talk
+  quoted: wa-man massa l-ḥaṣā fa-qad laghā
+- id: h-2027.3-zuhr
+  ref: Jāmiʿ 12:2027.3
+  unit: hadith-12-friday-conduct-and-forgiveness
+  action: talks idly and steps over necks
+  outcome: his Friday counts as a noon prayer
+  quoted: kānat lahu ẓuhran
+- id: h-2028.1-threekinds
+  ref: Jāmiʿ 12:2028.1
+  unit: hadith-12-friday-conduct-and-forgiveness
+  object:
+  - one who talks idly
+  - one who prays
+  - one silent
+  number: 3
+  outcome: the silent one expiated to the next Friday and three days
+  quoted: man jāʾa bi-l-ḥasana fa-lahu ʿashr amthālihā
+- id: h-2030.1-twosermons
+  ref: Jāmiʿ 12:2030.1
+  unit: hadith-12-form-of-the-sermon
+  agent: the prophet
+  action: preaches standing, sits, rises again
+  number: 2
+  time: Friday
+- id: h-2030.2-warner
+  ref: Jāmiʿ 12:2030.2
+  unit: hadith-12-form-of-the-sermon
+  agent: the prophet
+  action: preaches with red eyes and raised voice
+  outcome: as if warning of an army
+  quoted: ka-annahu mundhir jaysh yaqūlu ṣabbaḥakum wa-massākum
+- id: h-2032.1-maimed
+  ref: Jāmiʿ 12:2032.1
+  unit: hadith-12-form-of-the-sermon
+  action: preaches without the testimony
+  outcome: like a maimed hand
+  quoted: ka-l-yad al-jadhmāʾ
+- id: h-2032.2-standing
+  ref: Jāmiʿ 12:2032.2
+  unit: hadith-12-form-of-the-sermon
+  agent: Ibn Mas'ud
+  action: proves the standing sermon
+  instrument: Q 62:11
+  quoted: wa-tarakūka qāʾiman
+- id: h-2032.3-market
+  ref: Jāmiʿ 12:2032.3
+  unit: hadith-12-form-of-the-sermon
+  agent: the prophet
+  action: cries 'I warn you of the fire' from the pulpit
+  place: heard at the far end of the market
+  outcome: his cloak falls to his foot
+- id: h-2032.4-scout
+  ref: Jāmiʿ 12:2032.4
+  unit: hadith-12-form-of-the-sermon
+  agent: the prophet
+  action: calls out three times
+  object: parable of the scout who sees the enemy
+  number: 3
+  quoted: ayyuhā l-nās utītum
+- id: h-2033.1-tamarisk
+  ref: Jāmiʿ 12:2033.1
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: a woman's carpenter slave
+  action: makes the pulpit
+  instrument: tamarisk of al-Ghaba
+  outcome: he prays on it and descends backwards to prostrate
+  quoted: li-taʾtammū wa-li-taʿlamū ṣalātī
+- id: h-2034.1-trunk
+  ref: Jāmiʿ 12:2034.1
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: the palm trunk
+  action: yearns (ḥanna)
+  recipient: the prophet, who puts his hand on it
+  outcome: it falls still; buried under the pulpit or put in the roof
+  place: the mosque
+- id: h-2035.1-child
+  ref: Jāmiʿ 12:2035.1
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: the palm trunk
+  action: cries like a child
+  outcome: he embraces it and it moans like a hushed child
+  quoted: kānat tabkī ʿalā mā kānat tasmaʿu min al-dhikr
+- id: h-2035.2-ishar
+  ref: Jāmiʿ 12:2035.2
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: the palm trunk
+  action: sounds like ten-month pregnant camels
+  quoted: mithla aṣwāt al-ʿishār
+- id: h-2036.2-tamim
+  ref: Jāmiʿ 12:2036.2
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: Tamim al-Dari
+  action: makes a pulpit
+  number: 2
+  time: when the prophet grew heavy
+  quoted: yaḥmilu ʿiẓāmak
+- id: h-2036.3-termites
+  ref: Jāmiʿ 12:2036.3
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: Ubayy b. Kaʿb
+  action: keeps the trunk at home
+  outcome: termites eat it to dust
+  number: 3
+  quoted: fa-akalathu l-araḍa
+- id: h-2037.1-resurrection
+  ref: Jāmiʿ 12:2037.1
+  unit: hadith-12-pulpit-and-weeping-trunk
+  agent: the trunk
+  action: yearns
+  outcome: '''would have yearned till the day of resurrection'''
+  quoted: la-ḥanna ilā yawm al-qiyāma
+- id: h-2038.1-sheep
+  ref: Jāmiʿ 12:2038.1
+  unit: hadith-12-pulpit-place
+  place: between pulpit and qibla
+  object: space of a sheep's passage
+  quoted: qadr mamarr al-shāh
+- id: h-2038.2-malik
+  ref: Jāmiʿ 12:2038.2
+  unit: hadith-12-quran-from-the-pulpit
+  agent: the prophet
+  action: recites on the pulpit
+  object: Q 43:77
+  name: Mālik
+- id: h-2038.3-twothousand
+  ref: Jāmiʿ 12:2038.3
+  unit: hadith-12-quran-from-the-pulpit
+  agent: Jabir b. Samura
+  action: swears the prophet preached standing
+  number: 2000
+  quoted: akthar min alfay ṣalāh
+- id: h-2039.1-qafmouth
+  ref: Jāmiʿ 12:2039.1
+  unit: hadith-12-quran-from-the-pulpit
+  agent: Umm Hisham bt. Haritha
+  action: learns Qaf from his mouth
+  place: the pulpit
+  time: every Friday
+- id: h-2039.2-andi
+  ref: Jāmiʿ 12:2039.2
+  unit: hadith-12-imam-answers-the-muezzin
+  agent: Mu'awiya
+  action: answers each phrase of the call
+  place: the pulpit
+  quoted: wa-anā
+- id: h-2040.1-maʾinna
+  ref: Jāmiʿ 12:2040.1
+  unit: hadith-12-long-prayer-short-sermon
+  agent: Ammar
+  action: preaches briefly
+  outcome: long prayer and short sermon a sign of understanding
+  quoted: inna min al-bayān la-siḥran
+- id: h-2041.1-pronoun
+  ref: Jāmiʿ 12:2041.1
+  unit: hadith-12-preacher-rebuked-for-one-pronoun
+  agent: a preacher
+  action: joins God and messenger in one pronoun
+  outcome: '''what a bad speaker you are'''
+  quoted: biʾsa l-khaṭīb anta
+- id: h-2041.2-bishr
+  ref: Jāmiʿ 12:2041.2
+  unit: hadith-12-no-hands-raised-on-pulpit
+  agent: Bishr b. Marwan
+  action: raises both hands on the pulpit
+  recipient: Umara b. Ruwayba curses the hands
+  outcome: the prophet only pointed with the forefinger
+  quoted: qabbaḥa llāhu hātayni l-yadayn
+- id: h-2042.1-pray
+  ref: Jāmiʿ 12:2042.1
+  unit: hadith-12-speech-during-the-sermon
+  agent: the prophet
+  action: tells a late-comer to pray
+  number: 2
+  time: during the Friday sermon
+  quoted: qum fa-ṣalli rakʿatayn
+- id: h-2042.2-shade
+  ref: Jāmiʿ 12:2042.2
+  unit: hadith-12-speech-during-the-sermon
+  agent: the prophet
+  action: has a man moved
+  object: from sun to shade
+  time: during the sermon
+- id: h-2043.2-chair
+  ref: Jāmiʿ 12:2043.2
+  unit: hadith-12-speech-during-the-sermon
+  agent: the prophet
+  action: leaves the sermon to teach a stranger
+  instrument: a chair with legs seemingly of iron
+  outcome: returns and completes the sermon
+- id: h-2044.1-grandsons
+  ref: Jāmiʿ 12:2044.1
+  unit: hadith-12-speech-during-the-sermon
+  agent: the prophet
+  action: comes down from the pulpit and lifts them
+  recipient: al-Hasan and al-Husayn in red shirts
+  instrument: Q 64:15
+  quoted: raʾaytu hādhayni fa-lam aṣbir
+- id: h-2044.2-ansit
+  ref: Jāmiʿ 12:2044.2
+  unit: hadith-12-silence-during-the-sermon
+  action: says 'be quiet' to a companion
+  time: while the imam preaches
+  outcome: idle talk
+  quoted: fa-qad laghawta
+- id: h-2044.3-ubayy
+  ref: Jāmiʿ 12:2044.3
+  unit: hadith-12-silence-during-the-sermon
+  agent: Ubayy b. Kaʿb
+  action: answers the whisperer
+  object: sura Tabarak
+  outcome: '''you have only what you talked'''
+  quoted: ṣadaqa ubayy
+- id: h-2047.1-shade
+  ref: Jāmiʿ 12:2047.1
+  unit: hadith-12-time-of-friday
+  action: leaves the Friday prayer
+  outcome: the walls have no shade
+  quoted: wa-laysa li-l-ḥīṭān ẓill
+- id: h-2047.3-cold
+  ref: Jāmiʿ 12:2047.3
+  unit: hadith-12-time-of-friday
+  agent: the prophet
+  action: prays early in cold, late in heat
+  time: Friday
+- id: h-2048.3-hajjaj
+  ref: Jāmiʿ 12:2048.3
+  unit: hadith-12-time-of-friday
+  agent: Abu Juhayfa
+  action: rebukes al-Hajjaj for delaying Friday
+  outcome: the prophet came out when the sun declined
+- id: h-2050.1-twelve
+  ref: Jāmiʿ 12:2050.1
+  unit: hadith-12-number-for-friday
+  agent: the people
+  action: leave the sermon for a caravan
+  object: a caravan from Syria
+  number: 12
+  instrument: Q 62:11
+- id: h-2050.2-forty
+  ref: Jāmiʿ 12:2050.2
+  unit: hadith-12-number-for-friday
+  agent: Asʿad b. Zurāra
+  action: first gathers them for Friday
+  place:
+  - the hollow of al-Nabit
+  - Harra of Banu Bayada
+  - Naqīʿ al-Khaḍimāt
+  number: 40
+  recipient: Ka'b b. Malik prays mercy on him at each call
+- id: h-2051.3-oneraka
+  ref: Jāmiʿ 12:2051.3
+  unit: hadith-12-two-rakas-and-catching-one
+  action: catches one rak'a of Friday
+  number: 1
+  outcome: has caught it
+- id: h-2053.1-rihal
+  ref: Jāmiʿ 12:2053.1
+  unit: hadith-12-pray-in-your-dwellings
+  agent: Ibn Abbas
+  action: has the muezzin call 'prayer in your dwellings'
+  time: a muddy Friday
+  quoted: al-ṣalāh fī l-riḥāl ... innahā ʿazma
+- id: h-2054.1-sajda
+  ref: Jāmiʿ 12:2054.1
+  unit: hadith-12-friday-readings
+  agent: the prophet
+  action: recites
+  object:
+  - al-Sajda
+  - al-Insan
+  time: Friday dawn prayer
+- id: h-2055.2-munafiqun
+  ref: Jāmiʿ 12:2055.2
+  unit: hadith-12-friday-readings
+  agent: the prophet
+  action: recites al-Jumu'a then al-Munafiqun
+  outcome: rouses believers, strikes hypocrites
+  quoted: fa-yaqraʿu bihi l-munāfiqīn
+- id: h-2055.4-juwatha
+  ref: Jāmiʿ 12:2055.4
+  unit: hadith-12-friday-in-villages
+  action: the first Friday after Medina's is held
+  place: mosque of Abd al-Qays at Juwatha, al-Bahrayn
+  name: Juwāthā
+- id: h-2056.1-zawra
+  ref: Jāmiʿ 12:2056.1
+  unit: hadith-12-the-friday-call
+  agent: Uthman
+  action: adds a third call
+  place: al-Zawrāʾ
+  time: as people multiplied
+  number: 3
+- id: h-2056.2-sulayk
+  ref: Jāmiʿ 12:2056.2
+  unit: hadith-12-two-rakas-during-the-sermon
+  agent: the prophet
+  action: tells Sulayk to pray two light rak'as
+  recipient: Sulayk al-Ghatafani
+  number: 2
+  quoted: wa-tajawwaz fīhimā
+- id: h-2058.1-garments
+  ref: Jāmiʿ 12:2058.1
+  unit: hadith-12-two-rakas-during-the-sermon
+  agent: the prophet
+  action: gives a shabby man two garments from alms
+  outcome: 'next Friday he throws one back and is rebuked: ''take your garment'''
+  number: 2
+- id: h-2059.1-mecca
+  ref: Jāmiʿ 12:2059.1
+  unit: hadith-12-prayer-after-friday
+  agent: Ibn Umar
+  action: prays two then four after Friday
+  place: Mecca
+  number:
+  - 2
+  - 4
+  outcome: at Medina two at home
+- id: h-2060.1-counsels
+  ref: Jāmiʿ 12:2060.1
+  unit: hadith-12-prayer-after-friday
+  agent: Abu Hurayra
+  action: keeps three counsels
+  object:
+  - sleep after witr
+  - three days' fast monthly
+  - two rak'as after Friday
+  number: 3
+  name: khalīlī
+- id: h-2061.1-maqsura
+  ref: Jāmiʿ 12:2061.1
+  unit: hadith-12-prayer-after-friday
+  agent: Mu'awiya
+  action: forbids joining prayer to prayer
+  place: the maqṣūra
+  outcome: speak or go out first
+- id: h-2061.4-makeroom
+  ref: Jāmiʿ 12:2061.4
+  unit: hadith-12-not-raising-a-man-from-his-seat
+  action: forbids raising a brother from his seat
+  time: Friday
+  quoted: wa-lākin yaqūlu ifsaḥū
+- id: h-2062.1-distance
+  ref: Jāmiʿ 12:2062.1
+  unit: hadith-12-draw-near-the-imam
+  action: keeps far from the imam
+  outcome: is put back in paradise though he enters it
+  quoted: ḥattā yuʾakhkhara fī l-janna wa-in dakhalahā
+- id: h-2062.3-hubwa
+  ref: Jāmiʿ 12:2062.3
+  unit: hadith-12-circles-and-knees-drawn-up
+  action: forbids sitting with knees bound
+  time: Friday while the imam preaches
+  name: al-ḥubwa

@@ -1,0 +1,2019 @@
+# Hadith chunk 35: al-Jāmiʿ al-Kāmil book 9 (kitāb al-ṣalāt), pp. 1823-1890 (printed 3/401-468): the last of the
+# forenoon prayer, the rain prayer (istisqāʾ), the eclipse prayer, istikhāra, the prayer of the sick and in a ship,
+# the prayer of need, the recitation and thanksgiving prostrations; and book 10 (kitāb al-masājid), pp. 1891-1942
+# (printed 3/469-520): mosques, waiting in them, building them, the first mosques, the three mosques, Qubāʾ,
+# graves as mosques, sleeping and tents in the mosque, and spitting. Read in full from the Arabic (190 hadith).
+new_motifs:
+  forenoon-prayer-seen-only-once:
+    label: Abu Hurayra never saw the prophet pray the forenoon prayer except once
+    cluster: ritual
+  forenoon-prayer-only-on-return-from-absence:
+    label: The prophet prayed the forenoon prayer only when he came back from an absence or journey
+    cluster: ritual
+  prayer-of-desire-and-dread:
+    label: He calls the forenoon prayer of eight rakʿas on a journey 'a prayer of desire and dread' (raghba wa-rahba)
+    cluster: piety
+  forenoon-prayer-not-prayed-by-prophet-or-first-caliphs:
+    label: 'Asked whether he, Umar, Abu Bakr or the prophet prayed the forenoon prayer, Ibn Umar says no to each (''I think
+      not'' of the prophet); Abu Bakra: a prayer neither the prophet nor most of his companions prayed'
+    cluster: ritual
+  oft-returners-prayer-when-young-camels-feet-burn:
+    label: The prayer of the oft-returning (al-awwābīn) is when the weaned young camels' feet burn in the heat (ramiḍat al-fiṣāl)
+    cluster: ritual
+  better-hour-than-this:
+    label: 'Zayd b. Arqam sees people praying at forenoon: they know prayer at another hour is better'
+    cluster: ritual
+  only-the-oft-returning-keep-forenoon-prayer:
+    label: None keeps up the forenoon prayer but one who is oft-returning (awwāb); it is the prayer of the oft-returning
+    cluster: ritual
+  prayer-after-sun-risen-is-witnessed-and-attended:
+    label: 'Once the sun has risen, pray: the prayer is witnessed and attended (mashhūda maḥḍūra)'
+    cluster: ritual
+  goes-out-for-rain-in-plain-clothes-humble-imploring:
+    label: For the rain prayer the prophet goes out in plain working clothes, humble and imploring (mutabadhdhil mutawāḍiʿ
+      mutaḍarriʿ)
+    cluster: ritual
+  rain-prayer-two-rakas-as-at-the-feast:
+    label: In the rain prayer he does not preach 'these sermons of yours' but keeps to supplication and takbir, and prays
+      two rakʿas as at the feast
+    cluster: ritual
+  cloak-reversed-right-to-left-in-rain-prayer:
+    label: Praying for rain the prophet turns his cloak over, setting right on left
+    cluster: ritual
+  turns-to-qibla-to-pray-for-rain:
+    label: Praying for rain he turns to face the qibla
+    cluster: ritual
+  rain-prayer-recited-aloud:
+    label: In the two rakʿas of the rain prayer he recites aloud
+    cluster: ritual
+  pulpit-set-in-prayer-ground-on-appointed-day:
+    label: People complain of drought; a pulpit is set in the prayer ground and a day appointed; he goes out when the edge
+      of the sun appears
+    cluster: ritual
+  you-are-rich-we-are-poor-send-down-rain:
+    label: 'Rain prayer: ''You are God, no god but you, the Rich, and we are the poor; send down rain and make it strength
+      and sustenance for a time'''
+    cluster: ritual
+  opening-verses-recited-in-rain-sermon:
+    label: In the rain sermon he recites 'praise to God, Lord of the worlds, the Merciful, the Compassionate, master of the
+      day of judgment'
+    cluster: liturgy
+  turns-his-back-to-people-and-cloak-hands-raised:
+    label: Hands still raised he turns his back to the people and turns his cloak, then faces them, comes down and prays two
+      rakʿas
+    cluster: ritual
+  prophet-laughs-at-rush-to-shelter-from-rain:
+    label: Torrents run before he reaches the mosque; seeing their haste to shelter he laughs till his molars show and bears
+      witness that God is able over all
+    cluster: ritual
+  rain-asked-wholesome-abundant-swift-harmless:
+    label: 'The rain asked for is named: ghayth mughīth, marīʾ, marīʿ, ṭabaq, ghadaq, swift not slow (ghayr rāʾith), beneficial
+      not harmful'
+    cluster: ritual
+  weeping-women-come-and-sky-closes-over-them:
+    label: Weeping women (bawākī) come to the prophet; he prays for rain and the sky closes over them
+    cluster: ritual
+  no-herdsman-provisions-no-stallion-stirs:
+    label: 'A bedouin: ''I come from people whose herdsman has nothing to take as provision and whose stallion does not stir
+      its tail'''
+    cluster: ritual
+  water-your-servants-and-beasts-revive-dead-land:
+    label: 'Rain prayer: ''water your servants and your beasts, spread your mercy, revive your dead land'''
+    cluster: ritual
+  prays-for-rain-standing:
+    label: He prays for rain standing (qāʾiman), then faces the qibla and turns his cloak, and they are given rain
+    cluster: ritual
+  hands-raised-only-in-rain-prayer:
+    label: He raised his hands in no supplication except the rain prayer, and then so high the white of his armpits showed
+    cluster: ritual
+  rain-prayer-at-oil-stones-palms-toward-face:
+    label: At Aḥjār al-Zayt near al-Zawrāʾ he prays for rain standing, palms raised no higher than his head, their insides
+      turned to his face
+    cluster: ritual
+  people-raise-hands-with-him-rain-till-next-friday:
+    label: A bedouin cries 'the livestock perish, the families perish'; the people raise their hands with the prophet; it
+      rains till the next Friday
+    cluster: ritual
+  backs-of-hands-to-sky-in-rain-prayer:
+    label: Praying for rain he points to the sky with the backs of his hands
+    cluster: ritual
+  rain-asked-of-preacher-at-friday-sermon:
+    label: 'A man enters during the Friday sermon: ''the livestock perish, the roads are cut, pray God''; the prophet prays
+      on the pulpit'
+    cluster: ritual
+  triple-cry-give-us-rain:
+    label: 'He raises his hands: ''O God give us rain'' three times (aghithnā)'
+    cluster: liturgy
+  cloud-like-a-shield-rises-from-behind-sal:
+    label: A cloud like a shield (turs) rises from behind Mount Salʿ, spreads at mid-sky and rains
+    cluster: ritual
+  no-sun-seen-for-six-days:
+    label: After the prayer they do not see the sun for six days (sittan)
+    cluster: nature
+  rain-dripping-down-his-beard-on-pulpit:
+    label: Before he comes down from the pulpit the rain is dripping down his beard
+    cluster: ritual
+  rain-sent-to-hilltops-valley-beds-and-tree-roots:
+    label: 'To stop the rain on houses: ''O God, on the backs of the mountains and hillocks, the beds of the valleys, the
+      places where trees grow'''
+    cluster: ritual
+  cloud-parts-from-medina-like-a-garment:
+    label: The cloud splits off Medina like a garment torn open (injiyāb al-thawb); wherever he points it opens till the city
+      sits in a gap (jawba)
+    cluster: nature
+  valley-of-qanat-flows-a-month:
+    label: The valley, the wadi Qanāt, flows for a month; all who come tell of abundant rain (al-jawd)
+    cluster: nature
+  people-turn-their-cloaks-with-him:
+    label: When he turns to the qibla and turns his cloak back to front, the people turn with him
+    cluster: ritual
+  black-khamisa-too-heavy-to-turn-upside-down:
+    label: Wearing a black khamīṣa he wants to set its lower edge on top; when it proves heavy he turns it over on his shoulders
+    cluster: ritual
+  long-supplication-much-asking:
+    label: Praying for rain he lengthens the supplication and asks much
+    cluster: ritual
+  rain-sought-through-the-prophets-uncle:
+    label: 'In drought Umar prays: ''we used to seek nearness to you through our prophet and you gave us rain; now through
+      our prophet''s uncle (al-ʿAbbās): give us rain''; and they are given rain'
+    cluster: ritual
+  rain-for-mudar-you-are-bold:
+    label: 'Asked to pray for rain for Mudar: ''for Mudar? you are bold!''; he prays and they get rain, then return to their
+      ways (Q 44:15)'
+    cluster: ritual
+  greatest-assault-is-day-of-badr:
+    label: '''The day we strike the greatest assault'' (Q 44:16) is the day of Badr'
+    cluster: exegesis
+  prophet-fears-eclipse-is-the-hour:
+    label: At the eclipse the prophet rises in alarm, fearing it is the Hour
+    cluster: eschatology
+  god-sends-signs-to-frighten-his-servants:
+    label: God sends these signs (the eclipses) to frighten his servants with them
+    cluster: ritual
+  eclipse-call-the-prayer-gathers:
+    label: At the eclipse the call is 'the prayer is gathering' (al-ṣalātu jāmiʿa)
+    cluster: liturgy
+  two-bowings-in-each-raka-of-eclipse:
+    label: 'In the eclipse prayer each rakʿa has two bowings: ''two bowings in one prostration'', four bowings and four prostrations'
+    cluster: ritual
+  each-standing-shorter-than-the-one-before:
+    label: In the eclipse prayer each standing and each bowing is long but shorter than the one before
+    cluster: ritual
+  eclipse-standing-as-long-as-al-baqara:
+    label: The first standing of the eclipse prayer lasts about the length of Surat al-Baqara
+    cluster: liturgy
+  longest-prostration-ever-made:
+    label: 'Aisha: ''I never prostrated a prostration longer than it'''
+    cluster: ritual
+  fire-most-hideous-sight:
+    label: '''I was shown the fire and never saw a sight more hideous than today'''
+    cluster: eschatology
+  worshippers-fall-down-from-long-standing:
+    label: On a day of severe heat he lengthens the standing until worshippers start falling down
+    cluster: ritual
+  all-you-will-enter-was-shown-to-me:
+    label: '''Everything you will enter was shown to me'': paradise and the fire are presented to him in the eclipse prayer'
+    cluster: eschatology
+  abu-thumama-amr-b-malik-drags-entrails-in-fire:
+    label: In the fire he sees Abū Thumāma ʿAmr b. Mālik dragging his entrails (quṣb)
+    cluster: eschatology
+  eclipse-said-to-be-for-death-of-a-great-man:
+    label: '''They used to say the sun and moon eclipse only for the death of a great man'''
+    cluster: ritual
+  prophet-drags-his-cloak-hurrying-to-mosque:
+    label: At the eclipse he rises dragging his cloak until he enters the mosque
+    cluster: ritual
+  archer-throws-down-arrows-to-watch-prophet:
+    label: ʿAbd al-Raḥmān b. Samura, shooting his arrows, throws them down at the eclipse to see what the prophet will do
+    cluster: ritual
+  two-suras-two-rakas-after-eclipse-clears:
+    label: He stands with raised hands glorifying, praising, saying no god but God and magnifying until the sun clears, then
+      reads two suras and prays two rakʿas
+    cluster: ritual
+  three-bowings-in-each-raka-of-eclipse:
+    label: 'In the eclipse prayer each rakʿa has three bowings: six bowings with four prostrations'
+    cluster: ritual
+  four-bowings-in-each-raka-of-eclipse:
+    label: 'In the eclipse prayer each rakʿa has four bowings: eight bowings with four prostrations'
+    cluster: ritual
+  rows-step-back-to-the-women:
+    label: When he steps back in the prayer the rows step back behind him, as far as the women
+    cluster: ritual
+  pilgrim-thief-with-crook-drags-entrails-in-fire:
+    label: 'In the fire is the man of the crook (miḥjan) dragging his entrails: he stole from pilgrims with his crook and,
+      if noticed, said ''it caught on my crook'''
+    cluster: eschatology
+  everything-promised-seen-in-this-prayer:
+    label: '''There is nothing you are promised but I have seen it in this prayer of mine'''
+    cluster: eschatology
+  reached-for-fruit-then-chose-not-to:
+    label: He stretched out his hand to take of paradise's fruit for them to see, then thought better of it
+    cluster: ritual
+  ali-reads-ya-sin-in-eclipse-prayer:
+    label: At an eclipse ʿAlī leads the people, reads Yā Sīn or the like, bows four times in each rakʿa, and says the prophet
+      did so
+    cluster: ritual
+  eclipse-prayer-recited-aloud:
+    label: He recited aloud in the eclipse prayer
+    cluster: liturgy
+  flee-to-the-mosques-at-eclipse:
+    label: '''When you see them so, flee to the mosques'''
+    cluster: ritual
+  eclipse-recitation-from-surat-ibrahim:
+    label: In one eclipse prayer he read some of 'Alif Lām Rāʾ, a book' (Sūrat Ibrāhīm), with one bowing in each rakʿa
+    cluster: liturgy
+  grabs-a-shift-in-haste-cloak-brought-after:
+    label: In his alarm at the eclipse he takes a woman's shift (dirʿ) by mistake until his cloak is brought after him
+    cluster: ritual
+  latecomer-would-not-know-he-had-bowed:
+    label: The standing is so long that one arriving would not realize he had already bowed
+    cluster: ritual
+  looks-at-older-weaker-woman-to-keep-standing:
+    label: Wanting to sit, Asmāʾ looks at a woman older and a woman sicker than she and keeps standing
+    cluster: ritual
+  praying-aisha-points-to-sky-says-glory-to-god:
+    label: Asked 'what is with the people?', Aisha at prayer points to the sky and says 'glory to God'; 'a sign?' she signals
+      yes
+    cluster: ritual
+  freeing-slaves-ordered-at-eclipse:
+    label: The prophet ordered the freeing of slaves (al-ʿatāqa) at the eclipse of the sun
+    cluster: ritual
+  after-eclipse-prayer-orders-refuge-from-grave-punishment:
+    label: Returning from a ride he passes among the rooms, prays the eclipse prayer, then orders them to seek refuge from
+      the punishment of the grave
+    cluster: ritual
+  sermon-after-eclipse-amma-bad:
+    label: 'After the eclipse prayer, the sun cleared, he preaches: praises God as is his due and says ''ammā baʿd'''
+    cluster: liturgy
+  istikhara-taught-like-a-sura:
+    label: He taught them the istikhāra in all matters as he taught them a sura of the Quran
+    cluster: liturgy
+  you-are-able-i-am-not-you-know-i-do-not:
+    label: 'Istikhāra formula: ''you are able and I am not, you know and I do not, you are the knower of the unseen'''
+    cluster: liturgy
+  religion-livelihood-and-outcome-weighed:
+    label: The matter is weighed as good or bad 'for my religion, my livelihood and the outcome of my affair'; then 'decree
+      the good for me wherever it is and make me content'
+    cluster: ritual
+  sitters-prayer-half-of-standers:
+    label: The prayer of one sitting is half the prayer of one standing; one lying down has half the reward of one sitting
+    cluster: ritual
+  stand-else-sit-else-on-the-side:
+    label: 'To a man with piles: pray standing; if you cannot, sitting; if you cannot, on your side'
+    cluster: ritual
+  prophet-prays-cross-legged:
+    label: Aisha saw the prophet pray sitting cross-legged (mutarabbiʿan)
+    cluster: ritual
+  sick-man-forbidden-to-raise-object-to-forehead:
+    label: 'Who cannot prostrate must not raise something to his forehead to prostrate on; the sick man''s stick and cushion
+      are cast aside: nod, prostration lower than bowing'
+    cluster: ritual
+  aged-prophet-leans-on-pillar-in-prayer-place:
+    label: When he grew old and heavy the prophet set a pillar in his prayer place to lean on; Wābiṣa prays leaning on a staff
+    cluster: ritual
+  pray-standing-in-ship-unless-fearing-drowning:
+    label: 'Asked about prayer in a ship: pray standing in it unless you fear drowning'
+    cluster: ritual
+  blind-man-given-choice-healing-or-patience:
+    label: 'A blind man asks to be healed: ''if you wish I will pray for you, or if you wish I will defer it, and that is
+      better'''
+    cluster: ritual
+  i-turn-to-you-through-your-prophet-accept-his-intercession:
+    label: 'He is told to make ablution and pray: ''I ask you and turn to you through your prophet Muhammad, prophet of mercy
+      ... O God, accept his intercession for me'''
+    cluster: liturgy
+  crowded-recitation-prostration-no-room-for-forehead:
+    label: When he prostrates at a prostration verse they prostrate with him until some find no room for their foreheads
+    cluster: ritual
+  reciter-of-al-najm-not-followed-by-prostration:
+    label: Zayd b. Thābit recited al-Najm to the prophet and he did not prostrate in it
+    cluster: ritual
+  old-man-raises-pebbles-to-forehead-dies-unbeliever:
+    label: 'At al-Najm in Mecca all prostrate except an old man who lifts a handful of pebbles or dust to his forehead: ''this
+      suffices me''; later he is killed an unbeliever'
+    cluster: ritual
+  two-men-refuse-prostration-seeking-fame:
+    label: At al-Najm all prostrate except two men who wanted renown (al-shuhra)
+    cluster: ritual
+  prostration-at-inshiqaq-and-iqra:
+    label: They prostrated with the prophet at 'When the sky is split' and 'Recite'
+    cluster: ritual
+  will-keep-prostrating-until-he-meets-him:
+    label: 'Questioned for prostrating at al-Inshiqāq in the night prayer, Abu Hurayra: ''I prostrated in it behind Abu l-Qāsim
+      and will not stop until I meet him'''
+    cluster: ritual
+  prophet-prostrates-at-sad-following-david:
+    label: 'Asked why he prostrates at Ṣād, Ibn ʿAbbās cites ''follow their guidance'' (Q 6:90): David is among those the
+      prophet was told to follow'
+    cluster: ritual
+  people-ready-to-prostrate-so-he-does:
+    label: Reading Ṣād on the pulpit he comes down and prostrates; on another day the people make ready (tashazzanū) and he
+      prostrates because they had
+    cluster: ritual
+  my-face-prostrates-to-him-who-created-it:
+    label: 'In the night recitation prostration: ''my face prostrates to the one who created it and split its hearing and
+      sight by his might and power'''
+    cluster: liturgy
+  hamdan-converts-prophet-greets-them-twice:
+    label: ʿAlī reads the prophet's letter to Hamdān and they all accept Islam; reading ʿAlī's letter the prophet prostrates
+      and says 'peace on Hamdān' twice
+    cluster: ritual
+  mark-of-the-schismatics-black-man-with-stunted-hand:
+    label: 'Their mark: among them a black man with a stunted hand (mukhdaj al-yad) with black hairs on it; ʿAlī''s men search
+      the slain and find him'
+    cluster: ritual
+  if-not-him-you-killed-the-best-of-men:
+    label: 'ʿAlī: ''if it is he, you have killed the worst of people; if not, you have killed the best of people''; they weep'
+    cluster: ritual
+  prostrate-at-a-sign-death-of-prophets-wife:
+    label: 'Told a wife of the prophet has died, Ibn ʿAbbās falls prostrate: ''when you see a sign, prostrate''; what sign
+      is greater than the passing of the prophet''s wives?'
+    cluster: ritual
+  mosques-dearest-markets-most-hated-places:
+    label: The dearest places to God are their mosques, the most hated their markets
+    cluster: ritual
+  two-rakas-before-sitting-in-mosque:
+    label: Whoever enters the mosque should pray two rakʿas before sitting; a man who entered and did not pray is sent to
+      pray
+    cluster: ritual
+  two-rakas-in-mosque-on-arrival-from-journey:
+    label: Arriving from a journey he goes first to the mosque and prays two rakʿas, arriving only by day in the forenoon;
+      Jabir told to leave his camel and pray
+    cluster: ritual
+  open-for-me-the-doors-of-your-mercy:
+    label: 'Entering the mosque: ''O God open for me the doors of your mercy''; leaving: ''O God I ask you of your bounty'''
+    cluster: liturgy
+  refuge-on-entering-mosque-satan-says-guarded-all-day:
+    label: 'Entering the mosque: ''I seek refuge in God the Mighty, his noble face and his eternal power from Satan the stoned'';
+      Satan says ''he is guarded from me the rest of the day'''
+    cluster: ritual
+  who-comes-to-mosque-for-a-thing-gets-that-thing:
+    label: Whoever comes to the mosque for something, that is his share
+    cluster: ritual
+  waiting-for-prayer-counts-as-prayer:
+    label: You are in prayer as long as you wait for it; the people have prayed and slept
+    cluster: ritual
+  god-welcomes-mosque-goer-as-family-greets-returning-absent:
+    label: God rejoices over the man who makes the mosques his home for prayer and remembrance as a family rejoices over its
+      absent one when he comes back (tabashbash)
+    cluster: ritual
+  friday-hour-last-hour-waiting-counts-as-praying:
+    label: 'ʿAbd Allāh b. Salām places the Friday hour at the last hour of the day; to the objection that no one prays then:
+      one who sits awaiting prayer is in prayer'
+    cluster: ritual
+  mosque-as-home-safe-crossing-of-the-bridge:
+    label: God guarantees to one whose home is the mosques safety and crossing of the bridge (al-ṣirāṭ) on the day of resurrection
+    cluster: eschatology
+  sits-in-place-till-sunrise-companions-laugh-at-jahiliyya:
+    label: He did not rise from his place after the dawn prayer until the sun rose; they would talk of the Jāhiliyya and laugh,
+      and he smiled
+    cluster: ritual
+  sitting-with-rememberers-better-than-freeing-four-of-ismail:
+    label: Sitting with people remembering God from dawn prayer to sunrise, or from afternoon prayer to sunset, is dearer
+      to him than freeing four of the sons of Ismāʿīl
+    cluster: ritual
+  uthman-rebuilds-mosque-against-objections:
+    label: ʿUthmān wants to rebuild the mosque; people dislike it and want it left as it was; he cites the house in paradise
+    cluster: ritual
+  mosque-the-size-of-a-sandgrouse-nest:
+    label: Whoever builds a mosque for God even the size of a sandgrouse's nesting hollow (mafḥaṣ qaṭāt), or smaller, God
+      builds him a house in paradise
+    cluster: ritual
+  hour-not-until-people-vie-in-mosques:
+    label: The Hour will not come until people vie in boasting over mosques
+    cluster: eschatology
+  not-commanded-to-raise-mosques-high:
+    label: '''I was not commanded to raise mosques high (tashyīd)'''
+    cluster: ritual
+  wherever-prayer-overtakes-you-pray-it-is-a-mosque:
+    label: 'Wherever the time of prayer overtakes you, pray: the merit is there, it is a mosque'
+    cluster: ritual
+  prays-inside-kaaba-among-six-pillars:
+    label: He enters the Kaʿba with Usāma, Bilāl and ʿUthmān b. Ṭalḥa, shuts it, and prays with two pillars to his left, one
+      to his right, three behind; the House then stood on six pillars
+    cluster: ritual
+  prays-in-every-corner-of-kaaba-then-outside-this-is-the-qibla:
+    label: 'Inside the House he supplicates in all its sides and does not pray; coming out he prays two rakʿas facing its
+      front: ''this is the qibla'''
+    cluster: ritual
+  you-were-commanded-to-circle-not-enter:
+    label: 'Ibn ʿAbbās: ''you were commanded to circle the House, not to enter it'''
+    cluster: ritual
+  did-not-enter-kaaba-at-the-umra:
+    label: 'At his ʿumra he circled the House and prayed behind the Station, screened from people; asked if he entered the
+      Kaʿba: no'
+    cluster: ritual
+  four-proclamations-till-voice-hoarse:
+    label: 'ʿAlī proclaims four things until his voice is gone: only a believing soul enters paradise, no polytheist pilgrim
+      after this year, none circles naked, treaties run four months'
+    cluster: ritual
+  garden-price-sought-only-from-god:
+    label: Asked to name a price for their walled garden, Banū l-Najjār say 'we seek its price only from God'
+    cluster: ritual
+  prays-where-prayer-overtakes-him-and-in-sheepfolds:
+    label: He liked to pray wherever the prayer found him, and prayed in sheepfolds
+    cluster: ritual
+  builders-chant-no-good-but-good-of-hereafter:
+    label: 'Carrying stones the builders chant, the prophet with them: ''O God, there is no good but the good of the hereafter;
+      forgive the Helpers and the Emigrants'''
+    cluster: liturgy
+  travel-only-to-three-mosques:
+    label: 'Saddles are fastened (lā tushaddu l-riḥāl) only for three mosques: this mosque of mine, the Sacred Mosque, and
+      the Aqsa (Īliyāʾ)'
+    cluster: ritual
+  best-riding-to-my-mosque-and-ancient-house:
+    label: The best goal mounts are ridden to is 'this mosque of mine and the Ancient House'
+    cluster: ritual
+  prayer-in-prophets-mosque-worth-thousand:
+    label: A prayer in the prophet's mosque is better than a thousand elsewhere, except the Sacred Mosque
+    cluster: ritual
+  prayer-in-sacred-mosque-worth-hundred-thousand:
+    label: A prayer in the Sacred Mosque is better than a hundred thousand elsewhere (or than a hundred in the prophet's mosque)
+    cluster: ritual
+  prayer-in-medina-worth-four-in-jerusalem:
+    label: 'Asked which is better, his mosque or that of Jerusalem: a prayer in his mosque is better than four prayers there,
+      ''and how fine a place of prayer it is'''
+    cluster: ritual
+  horse-tether-of-land-in-sight-of-jerusalem:
+    label: A time is near when a plot the length of a man's horse-tether (shaṭan) from which Jerusalem can be seen will be
+      better for him than the whole world
+    cluster: eschatology
+  quba-visited-every-saturday-riding-or-walking:
+    label: The prophet came to Qubāʾ every Saturday, riding or walking, and prayed two rakʿas there; Ibn ʿUmar did the same
+    cluster: ritual
+  prayer-at-quba-equal-to-umra:
+    label: Whoever goes out to the mosque of Qubāʾ and prays in it has the equivalent of an ʿumra
+    cluster: ritual
+  where-would-you-like-me-to-pray-in-your-house:
+    label: Entering ʿItbān's house before sitting the prophet asks 'where would you like me to pray?', prays two rakʿas there,
+      and is kept for a dish of khazīra
+    cluster: ritual
+  mosques-in-quarters-kept-clean-and-scented:
+    label: He ordered mosques built in the quarters (al-dūr), cleaned and scented
+    cluster: ritual
+  church-broken-sprinkled-with-ablution-water-made-mosque:
+    label: 'A delegation is given the prophet''s ablution water in a skin: ''break your church, sprinkle its place with this
+      water and take it as a mosque''; to the water drying: ''add water, it only makes it better'''
+    cluster: ritual
+  monk-hears-the-call-and-vanishes:
+    label: Hearing the call to prayer from the new mosque the monk of Ṭayyiʾ says 'a call of truth', makes for a ravine and
+      is not seen again
+    cluster: ritual
+  prophets-grave-not-exposed-lest-taken-as-mosque:
+    label: 'Aisha: but for that his grave would have been exposed, yet it was feared it would be taken as a mosque'
+    cluster: ritual
+  dying-prophet-throws-cloth-over-face:
+    label: As death comes on he keeps throwing a khamīṣa over his face and uncovering it when it stifles him, saying the curse
+    cluster: ritual
+  church-of-abyssinia-with-pictures-over-righteous-graves:
+    label: 'Umm Ḥabība and Umm Salama tell of a church in Abyssinia with pictures: those people built a mosque over a righteous
+      man''s grave and painted pictures in it; they are the worst of creation before God'
+    cluster: ritual
+  warning-given-five-days-before-death:
+    label: Five days before his death he forbids taking graves as mosques
+    cluster: ritual
+  abu-turab-dust-wiped-from-sleeper-in-mosque:
+    label: After a quarrel with Fāṭima ʿAlī sleeps in the mosque, his cloak fallen, dust on his side; the prophet wipes it
+      saying 'get up, Abu Turāb (father of dust)'
+    cluster: ritual
+  young-bachelor-sleeps-in-mosque:
+    label: Ibn ʿUmar, a young unmarried man without family, slept in the prophet's mosque
+    cluster: ritual
+  abu-dharr-nudged-awake-in-mosque-no-other-home:
+    label: Finding Abu Dharr sprawled asleep in the mosque the prophet nudges him with his foot; 'where should I sleep? have
+      I a house but this?'
+    cluster: ritual
+  tent-in-mosque-for-wounded-sad-blood-flows-to-neighbours:
+    label: Saʿd, hit in the arm-vein at the Trench, is given a tent in the mosque so the prophet can visit; his blood flows
+      to the tent of Banū Ghifār and he dies
+    cluster: ritual
+  kite-takes-red-sash-slave-woman-searched:
+    label: A kite takes a girl's red leather sash thinking it meat; the freed black slave woman is accused and searched to
+      her private parts, until the kite drops it among them
+    cluster: ritual
+  freed-woman-lives-in-tent-in-mosque-recites-verse:
+    label: She becomes Muslim and lives in a tent or hut (khibāʾ, ḥifsh) in the mosque; at every visit to Aisha she recites
+      'the day of the sash is one of our Lord's wonders'
+    cluster: ritual
+  door-left-for-the-women:
+    label: '''Would that we left this door for the women''; Ibn ʿUmar never entered by it until he died'
+    cluster: ritual
+  no-lying-on-back-with-leg-over-leg:
+    label: '''Let none of you lie on his back and put one leg over the other'''
+    cluster: ritual
+  abyssinians-play-in-mosque-aisha-screened-by-cloak:
+    label: The Abyssinians play in the mosque; the prophet at the door of her room screens Aisha with his cloak as she watches
+    cluster: ritual
+  creditor-told-to-drop-half-the-debt:
+    label: Kaʿb presses Ibn Abī Ḥadrad for a debt in the mosque, voices rise; the prophet lifts his curtain, signs 'drop half',
+      and tells the debtor 'pay it'
+    cluster: ritual
+  prays-over-grave-of-mosque-sweeper:
+    label: 'A black man or woman who swept the mosque dies unannounced: ''why did you not tell me? show me the grave'', and
+      he prays over it'
+    cluster: ritual
+  envoy-kneels-camel-in-mosque-asks-by-god-of-each-duty:
+    label: A man rides his camel into the mosque, kneels and hobbles it, asks 'which of you is Muhammad?', and adjures him
+      by God for each duty (five prayers, the month's fast, the alms); 'O God, yes' each time
+    cluster: ritual
+  the-white-man-reclining:
+    label: 'Asked which is Muhammad, they say: ''this white man reclining'''
+    cluster: ritual
+  leans-on-beam-as-if-angry-fingers-interlaced:
+    label: After praying two rakʿas of an afternoon prayer he rises to a beam lying in the mosque and leans on it as if angry,
+      right hand on left, fingers interlaced
+    cluster: ritual
+  people-mixed-like-interlaced-fingers-keep-to-your-house:
+    label: 'When people''s covenants are confused and their trust light and they are like this (fingers interlaced): keep
+      to your house, hold your tongue, mind yourself and leave the common affair'
+    cluster: eschatology
+  no-interlacing-on-way-to-prayer:
+    label: 'Who makes ablution and goes out for prayer is in prayer till he returns home: ''do not do this'' (interlacing
+      the fingers)'
+    cluster: ritual
+  spit-to-left-or-under-left-foot:
+    label: Spit not ahead or to the right but to the left, or under the (left) foot
+    cluster: ritual
+  spit-into-garment-and-fold-it:
+    label: If hurried, spit into the garment and rub its parts together; he shows it, spitting into the edge of his cloak
+      and folding it over
+    cluster: ritual
+  spitting-in-mosque-a-sin-burying-it-the-expiation:
+    label: Spitting in the mosque is a sin and its expiation is burying it; who spits in the mosque should dig and bury it
+    cluster: ritual
+  prophet-scrapes-spittle-off-qibla-wall:
+    label: Seeing sputum on the qibla wall of the mosque he scrapes it off himself, with his hand, a pebble or a palm stalk
+    cluster: ritual
+  perfume-put-where-the-sputum-was:
+    label: 'Where the sputum was scraped off, perfume (khalūq) is smeared: by a woman of the Helpers (''how fine is this!'')
+      or by the prophet on the tip of his palm stalk, the origin of khalūq in the mosques'
+    cluster: ritual
+  would-you-like-to-be-spat-at-in-the-face:
+    label: '''Would any of you like to be spat at in the face?'' / ''Which of you would like God to turn his face from him?'''
+    cluster: ritual
+  unburied-sputum-among-bad-deeds-harm-removed-among-good:
+    label: 'Shown the deeds of his community: among the good, harm removed from the road; among the bad, sputum in the mosque
+      left unburied'
+    cluster: eschatology
+  rubs-sputum-with-left-sandal:
+    label: Praying behind the prophet ʿAbd Allāh b. al-Shikhkhīr sees him spit and rub it out with his (left) sandal
+    cluster: ritual
+  loves-date-stalks-always-one-in-hand:
+    label: He loved palm stalks (ʿarājīn) and always had one in his hand; one of Ibn Ṭāb dates
+    cluster: ritual
+  imam-who-spat-toward-qibla-barred-from-leading:
+    label: 'A man leading his people spits toward the qibla as the prophet watches: ''he shall not lead you in prayer''; confirmed:
+      ''you have harmed God and his messenger'''
+    cluster: ritual
+  god-faces-worshipper-until-he-turns-or-breaks-purity:
+    label: When a man stands to pray God turns his face to him until he turns away or commits a foul breach; Ḥudhayfa rebukes
+      Shabath b. Ribʿī for spitting ahead
+    cluster: ritual
+  hide-sputum-lest-it-touch-a-believer:
+    label: Who spits in the mosque should hide his sputum lest it touch a believer's skin or garment and hurt him
+    cluster: ritual
+units:
+- id: hadith-9-forenoon-prayer-on-return
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The forenoon prayer: seen once, prayed on return from a journey, eight rakʿas of desire and dread, denied by Ibn
+    ʿUmar'
+  read:
+  - Jāmiʿ 9:1823.1-1825.2
+  tags:
+  - motif: forenoon-prayer-seen-only-once
+    refs:
+    - Jāmiʿ 9:1823.1
+    note: ما رأيتُ النبي ﷺ صلى الضُّحي قط إلَّا مرةً واحدةً
+  - motif: forenoon-prayer-only-on-return-from-absence
+    refs:
+    - Jāmiʿ 9:1824.1
+    - Jāmiʿ 9:1824.2
+    note: لا، إلا أن يجيء من مَغِيبِه ... لم يكن يصلي الضَّحى إلا أن يقدم من غَيبةٍ
+  - motif: eight-rakat-forenoon-prayer
+    refs:
+    - Jāmiʿ 9:1824.3
+    note: رأيت رسول الله ﷺ في سفر صلي سُبحة الضُّحى ثمان ركعات
+  - motif: prayer-of-desire-and-dread
+    refs:
+    - Jāmiʿ 9:1824.3
+    note: إنِّي صلَّيتُ صلاة رغبةٍ ورَهْبةٍ
+  - motif: three-asked-two-granted-mutual-violence-refused
+    refs:
+    - Jāmiʿ 9:1824.3
+    note: سألت ربِّي ثلاثًا. فأعطاني ثنتين ومنعني واحدة. سألتُه أن لا يبتلي أمتي بالسنين، ففعل، وسألتُه أن لا يُظهر عليهم
+      عدوَّهم، ففعل، وسألته أن لا يلبِسَهم شيعًا فأبى عليَّ
+  - motif: forenoon-prayer-not-prayed-by-prophet-or-first-caliphs
+    refs:
+    - Jāmiʿ 9:1825.1
+    - Jāmiʿ 9:1825.2
+    note: 'قلت لابن عمر أتصلِّي الضُّحي؟ قال: لا، قلت: فعمر؟ قال: لا، قلت: فأبو بكر؟ قال: لا، قلت: فالنبي ﷺ؟ قال: لا إخاله
+      ... صلاة ما صلاها رسول الله ﷺ ولا عامَّة أصحابه'
+- id: hadith-9-prayer-of-the-oft-returning
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prayer of the oft-returning when the young camels' feet burn; the prayer after the sun has risen
+  read:
+  - Jāmiʿ 9:1825.3-1827.1
+  tags:
+  - motif: oft-returners-prayer-when-young-camels-feet-burn
+    refs:
+    - Jāmiʿ 9:1825.3
+    note: صلاة الأوَّابين حين تَوْمَضُ الفصال ... صلاة الأوابين إذا رَمِضَت الفصالُ
+  - motif: better-hour-than-this
+    refs:
+    - Jāmiʿ 9:1825.3
+    note: أما لقد علموا أنَّ الصلاة في غير هذه الساعة أفضلُ
+  - motif: only-the-oft-returning-keep-forenoon-prayer
+    refs:
+    - Jāmiʿ 9:1826.1
+    note: 'لا يحافظ على صلاة الضُّحى إلا أوَّاب" قال: "وهي صلاة الأوَّابين'
+  - motif: sun-rises-between-satans-horns-unbelievers-bow
+    refs:
+    - Jāmiʿ 9:1827.1
+    note: ثم أقصر عن الصلاة حتى تطلع الشمس، حتى ترتفع، فإنها تطلع حين تطلع بين قرنّي شيطان وحينئذ يسجد لها الكفار
+  - motif: prayer-after-sun-risen-is-witnessed-and-attended
+    refs:
+    - Jāmiʿ 9:1827.1
+    note: ثم صَلِّ، فإن الصلاة مشهودة محضورة
+- id: hadith-9-rain-prayer-form
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The rain prayer: going out humbly, two rakʿas as at the feast, facing the qibla, turning the cloak, reciting aloud'
+  read:
+  - Jāmiʿ 9:1829.1-1832.2
+  tags:
+  - motif: goes-out-for-rain-in-plain-clothes-humble-imploring
+    refs:
+    - Jāmiʿ 9:1829.1
+    note: خرج رسول الله ﷺ مُتبذِّلًا متواضعًا متضرِّعًا
+  - motif: rain-prayer-two-rakas-as-at-the-feast
+    refs:
+    - Jāmiʿ 9:1829.1
+    note: فلم يخطب خُطَبَكم هذه، ولكن لم يزلْ في الدّعاء والتضرع والتكبير، وصَلَّى ركعتين كما يُصلِّي في العيد
+  - motif: cloak-reversed-right-to-left-in-rain-prayer
+    refs:
+    - Jāmiʿ 9:1830.1
+    - Jāmiʿ 9:1831.1
+    - Jāmiʿ 9:1832.1
+    - Jāmiʿ 9:1832.2
+    note: 'وقلب رداءه، قال سفيان: فأخبرني المسعودي، عن أبي بكر قال: جعل اليمين على الشمال ... وحوَّل رداءه ... وحوَّل رداءه
+      حين استقبل القبلة'
+  - motif: turns-to-qibla-to-pray-for-rain
+    refs:
+    - Jāmiʿ 9:1830.1
+    - Jāmiʿ 9:1831.1
+    - Jāmiʿ 9:1832.1
+    note: واستقبل القبلة ... واستقبل القبلة ... فتوجه إلى القبلة، يدعو
+  - motif: rain-prayer-recited-aloud
+    refs:
+    - Jāmiʿ 9:1831.1
+    - Jāmiʿ 9:1832.1
+    note: جهر بالقراءة فيهما ... ثم صلَّى ركعتين جهر فيهما بالقراءة
+- id: hadith-9-rain-prayer-supplications
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Rain-prayer supplications: the pulpit on the appointed day, ''you are rich and we are poor'', the rain words, the
+    prophet laughs at the rush to shelter'
+  read:
+  - Jāmiʿ 9:1833.1-1834.3
+  quran:
+  - 1:2-4
+  tags:
+  - motif: pulpit-set-in-prayer-ground-on-appointed-day
+    refs:
+    - Jāmiʿ 9:1833.1
+    note: فأمر بمنبر، فوُضعَ له في المصلى، ووعد الناس يومًا يخرجون فيه ... فخرج رسول الله ﷺ حين بدا حاجب الشمس
+  - motif: you-are-rich-we-are-poor-send-down-rain
+    refs:
+    - Jāmiʿ 9:1833.1
+    note: اللهم! أنت الله لا إله إلا أنت الغَنيُّ ونحن الفقراء، أنْزِل علينا الغيثَ، واجعل ما أنزلت لنا قُوَّةً وبلاغًا إلى
+      حين
+  - motif: opening-verses-recited-in-rain-sermon
+    refs:
+    - Jāmiʿ 9:1833.1
+    note: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ (٢) الرَّحْمَنِ الرَّحِيمِ (٣) مَالِكِ يَوْمِ الدِّينِ (٤)
+  - motif: whiteness-of-armpits-seen
+    refs:
+    - Jāmiʿ 9:1833.1
+    note: ثم رفع يديه، فلم يزل في الرفع، حتى بدا بياض إبطيه
+  - motif: turns-his-back-to-people-and-cloak-hands-raised
+    refs:
+    - Jāmiʿ 9:1833.1
+    note: ثم حوَّل إلى الناس ظهره، وقلب -أو حوَّل- رداءه وهو رافع يديه، ثم أقبل على الناس ونزل، فصلى ركعتين
+  - motif: prophet-laughs-at-rush-to-shelter-from-rain
+    refs:
+    - Jāmiʿ 9:1833.1
+    note: 'فلم يأتِ المسجد حتى سالت السيول، فلما رأي سُرعتهم إلى الكِنِّ ضَحِك ﷺ حتى بدت نواجذُه فقال: "أشهد أن الله على كل
+      شيء قدير، وأني عبد الله ورسوله"'
+  - motif: rain-asked-wholesome-abundant-swift-harmless
+    refs:
+    - Jāmiʿ 9:1833.2
+    - Jāmiʿ 9:1834.1
+    - Jāmiʿ 9:1834.2
+    note: اللهم اسِقنا غَيثًا مريئًا مريعًا طَبَقًا عاجلًا غير رائثٍ، نافِعًا غَيْرَ ضارٍ ... اللهم اسقنا غيثًا مُغيثًا مَريئًا
+      مَريعًا نافعًا غير ضارٍ، عاجلًا غير آجل ... اللهم اسقِنا غَيثًا مُغيثًا مَريئًا طَبَقًا مَريعًا غَدَقًا، عاجلًا غير
+      رائث
+  - motif: around-us-not-upon-us
+    refs:
+    - Jāmiʿ 9:1833.2
+    note: 'تهدَّمتِ البيوتُ فقال: "اللهمَّ حوالينا ولا علينا" قال: فجعل السحابُ ينقطع يمينًا وشمالًا'
+  - motif: weeping-women-come-and-sky-closes-over-them
+    refs:
+    - Jāmiʿ 9:1834.1
+    note: أتتِ النبي ﷺ بواكي ... فأطبقت عليهم السماء
+  - motif: no-herdsman-provisions-no-stallion-stirs
+    refs:
+    - Jāmiʿ 9:1834.2
+    note: لقد جئتُك من عند قوم ما يتزوَّد لهم راعٍ، ولا يخطِر لهم فحل
+  - motif: water-your-servants-and-beasts-revive-dead-land
+    refs:
+    - Jāmiʿ 9:1834.3
+    note: اللهم اسق عبادَك وبهائمَك، وانشر رحمتَك، وأَحْيِ بلدَك الميتَ
+- id: hadith-9-rain-prayer-hands
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Hands in the rain prayer: standing, raised high only here, palms to the face, the people''s hands with his, the
+    backs of the hands to the sky'
+  read:
+  - Jāmiʿ 9:1835.1-1838.1
+  tags:
+  - motif: prays-for-rain-standing
+    refs:
+    - Jāmiʿ 9:1835.1
+    note: فقام فدعا الله قائمًا، ثم توجه قِبَلَ القبلة، وحوَّل رداءه فأُسقوا
+  - motif: hands-raised-only-in-rain-prayer
+    refs:
+    - Jāmiʿ 9:1835.2
+    note: كان النبي ﷺ لا يرفع يديه في شيء من دعائه إلا في الاستسقاء
+  - motif: whiteness-of-armpits-seen
+    refs:
+    - Jāmiʿ 9:1835.2
+    - Jāmiʿ 9:1835.3
+    note: وإنه يرفع حتى يُري بياضُ إبطيه ... مادًا يديه، حتى رأيت بياض إبطيه
+  - motif: rain-prayer-at-oil-stones-palms-toward-face
+    refs:
+    - Jāmiʿ 9:1835.4
+    note: يستسقي عند أحجار الزيت قريبًا من الزوراء قائمًا يدعو يَستسقي رافعًا كفيه، لا يُجاوزُ بهما رأسَه مُقبل بباطن كفيه
+      إلى وجهه
+  - motif: people-raise-hands-with-him-rain-till-next-friday
+    refs:
+    - Jāmiʿ 9:1837.1
+    note: هلكتِ الماشية، هلك العيالُ، هلك الناسُ، فرفع رسول الله ﷺ يديه يدعو، ورفع الناس أيديهم معه يدعون ... فما زلنا نُمطَر
+      حتى كانت الجمعة الأُخرى
+  - motif: backs-of-hands-to-sky-in-rain-prayer
+    refs:
+    - Jāmiʿ 9:1838.1
+    note: استسقي، فأشار بظهر كفيه إلى السماء
+- id: hadith-9-rain-at-friday-sermon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Rain asked during the Friday sermon: a cloud like a shield from clear sky, six days without sun, rain on the beard,
+    the cloud parting around Medina'
+  read:
+  - Jāmiʿ 9:1838.2-1839.1
+  tags:
+  - motif: rain-asked-of-preacher-at-friday-sermon
+    refs:
+    - Jāmiʿ 9:1838.2
+    - Jāmiʿ 9:1839.1
+    note: هلكتِ المواشي، تقطعتِ السبُلُ فادع الله ... ورسول الله ﷺ قائم يخطب ... هلك المالُ، وجاعَ العِيَالُ، فادْعُ الله
+      لنا أنْ يَسْقينا
+  - motif: triple-cry-give-us-rain
+    refs:
+    - Jāmiʿ 9:1838.2
+    note: اللهم أَغِثنا، اللهم أَغِثنا، اللهم أَغِثنا
+  - motif: rain-from-clear-sky-at-prophets-prayer
+    refs:
+    - Jāmiʿ 9:1838.2
+    - Jāmiʿ 9:1839.1
+    note: 'ما نرى في السماء من سحاب ولا قَزَعةً ... وما في السماء قزَعَةٌ، قال: فثار سحابٌ أمثالُ الجِبال'
+  - motif: cloud-like-a-shield-rises-from-behind-sal
+    refs:
+    - Jāmiʿ 9:1838.2
+    note: فطلعتْ من ورائه سحابةٌ مثلُ التُرسِ، فلما توسطتِ السماءَ انتشرتْ، ثم أمطرتْ
+  - motif: no-sun-seen-for-six-days
+    refs:
+    - Jāmiʿ 9:1838.2
+    note: فلا والله ما رأينا الشمسَ سِتًّا
+  - motif: rain-dripping-down-his-beard-on-pulpit
+    refs:
+    - Jāmiʿ 9:1839.1
+    note: ثم لم يَنْزِلْ عن مِنْبَرِه حتَّى رأيتُ المَطَرَ يتحادَرُ على لِحَيَتِه
+  - motif: around-us-not-upon-us
+    refs:
+    - Jāmiʿ 9:1838.2
+    - Jāmiʿ 9:1839.1
+    note: اللهمَّ حوالينا ولا علينا ... اللَّهمَّ حَوَالَيْنَا ولا علينا
+  - motif: rain-sent-to-hilltops-valley-beds-and-tree-roots
+    refs:
+    - Jāmiʿ 9:1838.2
+    note: اللهم ظهورَ الجبال والآكام، وبطونَ الأودية، ومنابتَ الشجر
+  - motif: cloud-parts-from-medina-like-a-garment
+    refs:
+    - Jāmiʿ 9:1838.2
+    - Jāmiʿ 9:1839.1
+    note: فانجابتْ عن المدينة انجياب الثوب ... فما جعل يُشيرُ بيده إلى ناحيةٍ من السماء إلا تفرَّجتْ، حتى صارتِ المدينةُ في
+      مثل الجَوْبة
+  - motif: valley-of-qanat-flows-a-month
+    refs:
+    - Jāmiʿ 9:1839.1
+    note: 'حتى سالَ الوَادي -وادي قناةَ- شهرًا قال: فلم يجئْ أحد من ناحيةٍ إلا حدَّث بالجَود'
+- id: hadith-9-turning-the-cloak
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Turning the cloak: right on left, back to front, the people turn theirs with him, the black khamīṣa too heavy to
+    invert'
+  read:
+  - Jāmiʿ 9:1841.1-1842.1
+  tags:
+  - motif: cloak-reversed-right-to-left-in-rain-prayer
+    refs:
+    - Jāmiʿ 9:1841.1
+    - Jāmiʿ 9:1841.2
+    - Jāmiʿ 9:1841.3
+    - Jāmiʿ 9:1842.1
+    note: وقَلَبَ رداءه ... جعل اليمين على الشمال ... وحوّل رداءه فقلبه ظهرًا لبطن ... فجعل عِطافه الأيمن على عاتقه الأيسر،
+      وجعل عِطافه الأيسر على عاتقه الأيمن
+  - motif: people-turn-their-cloaks-with-him
+    refs:
+    - Jāmiʿ 9:1841.2
+    note: ثم تحوَّل إلى القبلة، وحوّل رداءه فقلبه ظهرًا لبطن، وتحوّل النّاس معه
+  - motif: black-khamisa-too-heavy-to-turn-upside-down
+    refs:
+    - Jāmiʿ 9:1842.1
+    note: وعليه خميصة سوداء، فأراد أن يأخذ بأسفلها فيجعله أعلاها، فلما ثقُلتْ قَلَبَها على عاتقه
+  - motif: long-supplication-much-asking
+    refs:
+    - Jāmiʿ 9:1841.2
+    note: أطال الدّعاء، وأكثر المسألة
+- id: hadith-9-rain-through-abbas-and-for-mudar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Umar asks for rain through al-ʿAbbās; Quraysh's years like Joseph's, the smoke, rain for Mudar
+  read:
+  - Jāmiʿ 9:1842.2-1842.3
+  quran:
+  - 44:10-16
+  tags:
+  - motif: rain-sought-through-the-prophets-uncle
+    refs:
+    - Jāmiʿ 9:1842.2
+    note: 'اللهم إنا كنا نتوسَّل إليك بنبينا فتسقينا، وإنا نتوسل إليك بعم نبينا فاسقنا. قال: فيسقون'
+  - motif: years-like-the-years-of-joseph
+    refs:
+    - Jāmiʿ 9:1842.3
+    note: دعا عليهم بسنين كَسِنيِّ يوسف، فأصابهم قحطٌ وجَهْدٌ حتى أكلوا العظام
+  - motif: famine-sky-seen-as-smoke
+    refs:
+    - Jāmiʿ 9:1842.3
+    note: فجعل الرجل ينظُر إلى السماء فيرى ما بينه وبينها كهيئة الدخان من الجَهْد
+  - motif: rain-for-mudar-you-are-bold
+    refs:
+    - Jāmiʿ 9:1842.3
+    note: 'اسْتسْقِ الله لِمْضَرَ، فإنها قد هلكتْ، قال: "لِمُضَرَ؟ إنك لجريءٌ" فاستسقى فسُقوا. فنزلت: ﴿إِنَّكُمْ عَائِدُونَ﴾'
+  - motif: greatest-assault-is-day-of-badr
+    refs:
+    - Jāmiʿ 9:1842.3
+    note: 'يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرَى إِنَّا مُنْتَقِمُونَ﴾ قال: يعني يوم بدر'
+- id: hadith-9-eclipse-two-signs
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Sun and moon do not eclipse for anyone''s death: two signs; the prophet fears the Hour'
+  read:
+  - Jāmiʿ 9:1844.1-1844.4
+  tags:
+  - motif: eclipse-not-for-anyones-death-or-life
+    refs:
+    - Jāmiʿ 9:1844.1
+    - Jāmiʿ 9:1844.2
+    - Jāmiʿ 9:1844.3
+    - Jāmiʿ 9:1844.4
+    note: إن الشمس والقمر لا ينكسفان لموت أحد من الناس، ولكنهما آيتان من آيات الله ... لا ينكسفان لموت أحد ولا لحياته ...
+      لا يَخسفان الموت أحد ولا لحياته ... لا تكون لموت أحد ولا لحياته
+  - motif: eclipse-on-the-day-the-prophets-son-died
+    refs:
+    - Jāmiʿ 9:1844.2
+    note: 'انكسفَتِ الشمس يوم مات إبراهيم، فقال الناس: انكسفَتْ لموت إبراهيم'
+  - motif: prayer-and-remembrance-at-eclipse
+    refs:
+    - Jāmiʿ 9:1844.1
+    - Jāmiʿ 9:1844.2
+    - Jāmiʿ 9:1844.4
+    note: فإذا رأيتموهما فقوموا فصلوا ... فادعوا الله، وصلوا حتى ينجلي ... فافزعوا إلى ذكره ودعائه واستغفاره
+  - motif: prophet-fears-eclipse-is-the-hour
+    refs:
+    - Jāmiʿ 9:1844.4
+    note: فقام فزِعًا يخشى أن تكون الساعةُ
+  - motif: god-sends-signs-to-frighten-his-servants
+    refs:
+    - Jāmiʿ 9:1844.4
+    note: ولكن الله ﷿ يرسلها يُخَوِّف بها عبادَه
+- id: hadith-9-eclipse-two-bowings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The eclipse prayer with two bowings in each rakʿa: the call, the falling standings, paradise''s cluster, the fire
+    and its women, the cat, ʿAmr b. Mālik'
+  read:
+  - Jāmiʿ 9:1845.1-1848.2
+  tags:
+  - motif: eclipse-call-the-prayer-gathers
+    refs:
+    - Jāmiʿ 9:1845.1
+    - Jāmiʿ 9:1846.2
+    note: 'نُودِيَ: إنَّ الصلاةَ جامعةٌ ... نُودي: إن الصلاة جامعة'
+  - motif: two-bowings-in-each-raka-of-eclipse
+    refs:
+    - Jāmiʿ 9:1845.1
+    - Jāmiʿ 9:1845.2
+    - Jāmiʿ 9:1846.1
+    - Jāmiʿ 9:1846.2
+    - Jāmiʿ 9:1847.1
+    - Jāmiʿ 9:1847.2
+    note: فركع النبي ﷺ ركعتين في سجدةٍ ... ثم ركع، فأطال الركوع، وهو دون الركوع الأول ... فكانت أربع ركعات وأربع سجداتٍ
+  - motif: each-standing-shorter-than-the-one-before
+    refs:
+    - Jāmiʿ 9:1845.2
+    - Jāmiʿ 9:1846.1
+    - Jāmiʿ 9:1847.2
+    note: فأطال القيام، وهو دون القيام الأول ... فقام قيامًا طويلًا وهو دون القيام الأول ... ثم سجد فأطال السجود، ثم رفع ثم
+      سجد فأطال السجود وهو دون السجود الأول
+  - motif: eclipse-standing-as-long-as-al-baqara
+    refs:
+    - Jāmiʿ 9:1846.1
+    note: فقام قيامًا طويلًا نحوا من قراءة سورة البقرة
+  - motif: eclipse-not-for-death-god-most-jealous
+    refs:
+    - Jāmiʿ 9:1845.2
+    note: 'فادعوا الله، وكِّبروا وتصدَّقوا، ثم قال: "يا أمة محمد! والله! ما من أحد أغْير من الله أن يزني عبدُه، أو تزني أمتُه'
+  - motif: laugh-little-weep-much
+    refs:
+    - Jāmiʿ 9:1845.2
+    note: لو تعلمون ما أعلم لضحكتُم قليلًا ولبكيتُم كثيرًا
+  - motif: longest-prostration-ever-made
+    refs:
+    - Jāmiʿ 9:1845.1
+    note: ما سجدتُ سجودًا قط كان أطول منها
+  - motif: grape-cluster-reached-in-eclipse-prayer
+    refs:
+    - Jāmiʿ 9:1846.1
+    - Jāmiʿ 9:1847.1
+    note: 'رأيناك تناولتَ شيئًا في مقامك، ثم رأيناك كَعْكَعْتَ، قال ﷺ: "إنِّي رأيتُ الجنة، فتناولت عنقودًا، ولو أصبتُه لأكلتُم
+      منه ما بَقِيَتِ الدنيا ... حتى لو تناولْتُ منها قِطْفًا أخَذْتُه (أو قال تناولتُ منها قِطْفًا) فقصُرَتْ يَدِي عنه'
+  - motif: women-most-of-fire-for-ingratitude-to-husband
+    refs:
+    - Jāmiʿ 9:1846.1
+    note: 'ورأيتُ أكثر أهلها النساء" قالوا: لِمَ يا رسول الله؟ قال: "لكُفرِهنَّ" قيل: يكفرن بالله؟ قال: "يكفُرنَ العَشيرَ،
+      ويكفُرنَ الإحسانَ'
+  - motif: fire-most-hideous-sight
+    refs:
+    - Jāmiʿ 9:1846.1
+    note: وأُرِيتُ النار، فلم أَرَ منظرًا كاليوم قط أفظعَ
+  - motif: worshippers-fall-down-from-long-standing
+    refs:
+    - Jāmiʿ 9:1847.1
+    note: في يوم شديد الحرِّ، فصلّى رسولُ الله ﷺ بأصحابه، فأطال القيام، حتى جعلوا يَخِرُّون
+  - motif: all-you-will-enter-was-shown-to-me
+    refs:
+    - Jāmiʿ 9:1847.1
+    note: إنه غُرِضَ عليَّ كل شيء تولَجُونَهُ، فعُرِضَتْ علىَّ الجنةُ
+  - motif: woman-in-fire-for-starving-a-cat
+    refs:
+    - Jāmiʿ 9:1847.1
+    note: فرأيتُ فيها امرأةً من بني إسرائيل تعذَّبُ في هِرَّةٍ لها، ربطتها فلم تُطْعِمْها، ولم تَدَعْهَا تأكلُ من حشَاشِ الأرض
+  - motif: abu-thumama-amr-b-malik-drags-entrails-in-fire
+    refs:
+    - Jāmiʿ 9:1847.1
+    note: ورأيتُ أبا ثُمامة عمرو بن مالك يَجُرُّ قُصْبَهُ في النار
+  - motif: eclipse-said-to-be-for-death-of-a-great-man
+    refs:
+    - Jāmiʿ 9:1847.1
+    note: 'وإنهم كانوا يقولون: إن الشمسَ والقمرَ لا يخسِفان إلا لموتِ عظيمٍ'
+  - motif: prophet-drags-his-cloak-hurrying-to-mosque
+    refs:
+    - Jāmiʿ 9:1848.1
+    note: فقام النبي ﷺ يجرُّ رداءَه حتى دخل المسجد
+  - motif: archer-throws-down-arrows-to-watch-prophet
+    refs:
+    - Jāmiʿ 9:1848.2
+    note: بينما أنا أرمي بأَسْهُمي في حياة رسول الله ﷺ إذ انكسفت الشمسُ فنبذتُهنَّ
+  - motif: two-suras-two-rakas-after-eclipse-clears
+    refs:
+    - Jāmiʿ 9:1848.2
+    note: 'فجعل يُسَبِّح ويحمدُ ويُهلِّل ويُكبِّر ويدعو. حتي حُسر عنها، قال: فلما حُسِر عنها قرأ سورتين، وصَلَّى ركعتين'
+- id: hadith-9-eclipse-three-and-four-bowings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Three and four bowings in each rakʿa; the fire brought near, the thief with the crook, the cat; ʿAlī reads Yā Sīn
+  read:
+  - Jāmiʿ 9:1849.1-1851.1
+  tags:
+  - motif: three-bowings-in-each-raka-of-eclipse
+    refs:
+    - Jāmiʿ 9:1849.1
+    - Jāmiʿ 9:1850.1
+    note: سِتَّ ركعات بأربع سجدات ... ركعتين في ثلاث ركعات، وأربع سجدات
+  - motif: four-bowings-in-each-raka-of-eclipse
+    refs:
+    - Jāmiʿ 9:1850.2
+    - Jāmiʿ 9:1851.1
+    note: قرأ ثم ركع، ثم قرأ ثم ركع، ثم قرأ ثم ركع، ثم قرأ ثم ركع، ثم سجد ... ثمان ركعات في أربع سجدات ... حتى صلي أربع ركعات
+  - motif: eclipse-on-the-day-the-prophets-son-died
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: 'يوم مات إبراهيم بن رسولِ الله ﷺ، فقال الناس: إنما انكسفت لموت إبراهيم'
+  - motif: prophet-steps-back-from-heat-of-fire-in-prayer
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: لقد جيءَ بالنار، وذلكم حين رأيتُموني تأخَّرتُ مخافَةَ أن يُصيبَني من لفْحِها ... ثم جيءَ بالجنة، وذلكم حين رأيتموني
+      تقدمتُ حتى قمتُ في مقامي
+  - motif: rows-step-back-to-the-women
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: 'ثم تأَخَّر وتأَخَّرتِ الصُّفوف خلفه، حتى انتهينا. (وقال أبو بكر: حتى انتهى إلى النساء)'
+  - motif: pilgrim-thief-with-crook-drags-entrails-in-fire
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: 'صاحب المحجَن يَجُرُّ قُصبَه في النار، كان يسرق الحاج بمحْجَنِه، فإن فُطِن له قال: إنما تَعَلَّقَ بمحجني، وإن غُفِلَ
+      عنه ذهب به'
+  - motif: woman-in-fire-for-starving-a-cat
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: صاحبَةَ الهِرَّةِ التي رَبَطتْها فلم تُطْعِمْها، ولم تدَعْها تأكل من خشاش الأرض حتى ماتت جوعًا
+  - motif: everything-promised-seen-in-this-prayer
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: ما من شيء تُوعَدونه إلا قد رأيتُهُ في صلاتي هذه
+  - motif: reached-for-fruit-then-chose-not-to
+    refs:
+    - Jāmiʿ 9:1849.1
+    note: ولقد مددتُ يَدِي وأنا أريد أن أتناول من ثمرها لتنظروا إليه، ثم بدا لي أن لا أفعل
+  - motif: ali-reads-ya-sin-in-eclipse-prayer
+    refs:
+    - Jāmiʿ 9:1851.1
+    note: 'كسفتِ الشمسُ فصلَّى عَلِيٌّ للناس، فقرأ: ﴿يس﴾ أو نحوها ... ثم حدثهم أن رسول الله ﷺ كذلك فعل'
+  - motif: prayer-and-remembrance-at-eclipse
+    refs:
+    - Jāmiʿ 9:1850.1
+    note: فإذا رأيتُم كُسُوفًا فاذكروا الله حتى ينجليا
+- id: hadith-9-eclipse-recitation
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Recitation in the eclipse prayer: aloud; from Sūrat Ibrāhīm; estimated as al-Baqara and Āl ʿImrān'
+  read:
+  - Jāmiʿ 9:1853.1-1855.1
+  quran:
+  - '14:1'
+  tags:
+  - motif: eclipse-prayer-recited-aloud
+    refs:
+    - Jāmiʿ 9:1853.1
+    note: جهر النبي ﷺ في صلاة الخسوف بقراءته
+  - motif: two-bowings-in-each-raka-of-eclipse
+    refs:
+    - Jāmiʿ 9:1853.1
+    note: أربع ركعات في ركعتين، وأربع سجدات
+  - motif: flee-to-the-mosques-at-eclipse
+    refs:
+    - Jāmiʿ 9:1854.1
+    note: فإذا رأيتُموهما كذلك فافزَعوا إلى المساجد
+  - motif: eclipse-on-the-day-the-prophets-son-died
+    refs:
+    - Jāmiʿ 9:1854.1
+    note: 'كسفت الشمسُ يوم مات إبراهيم بن رسول الله ﷺ فقالوا: كسفتِ الشمسُ لموت إبراهيم'
+  - motif: eclipse-recitation-from-surat-ibrahim
+    refs:
+    - Jāmiʿ 9:1854.1
+    note: ثم قام فقرأ فيما ترى بعض ﴿الر كِتَابٌ﴾ [سورة إبراهيم] ثم ركع، ثم اعتدل، ثم سجد سجدتين
+  - motif: eclipse-standing-as-long-as-al-baqara
+    refs:
+    - Jāmiʿ 9:1854.2
+    - Jāmiʿ 9:1855.1
+    note: فقام طويلًا نحوًا من قراءة سورة البقرة ... فحزرتُ قراءته، فرأيتُ أنه قرأ بسورة البقرة ... فحزرتُ قراءتَه فرأيتُ
+      أنه قرأ بسورة آل عمران
+- id: hadith-9-eclipse-asma-and-aisha
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Asmāʾ in the eclipse prayer: the long standing, the faint, the sign to the sky, the trial of the grave; freeing
+    slaves; refuge from the grave; the sermon'
+  read:
+  - Jāmiʿ 9:1856.1-1859.1
+  tags:
+  - motif: grabs-a-shift-in-haste-cloak-brought-after
+    refs:
+    - Jāmiʿ 9:1856.1
+    note: 'فزع النبي ﷺ يومًا -قالت: تعني يوم كسفتِ الشمس- فأخذ دِرْعًا حتى أُدِرك بردائه'
+  - motif: latecomer-would-not-know-he-had-bowed
+    refs:
+    - Jāmiʿ 9:1856.1
+    note: لو أن إنسانًا أتي لم يشعر أن النبي ﷺ ركع ... حتى لو أن رجلًا جاء - خُيّل إليه أنه لم يركع
+  - motif: looks-at-older-weaker-woman-to-keep-standing
+    refs:
+    - Jāmiʿ 9:1856.1
+    note: 'فجعلتُ أَنظر إلى المرأة أَسَنُّ مني، وإلى الأخرى: هي أسقَمْ مني ... ثم أَلتفِتُ إلى المرأة الضعيفة، فأقول: هذه
+      أضعفُ مني، فأقوم'
+  - motif: praying-aisha-points-to-sky-says-glory-to-god
+    refs:
+    - Jāmiʿ 9:1857.1
+    note: 'فقلت: ما للناس؟ فأشارتْ بيدِها إلى السماءِ، وقالت: سُبحانَ الله، فقلتُ: آيةٌ؟ فأشارت: أي نعم'
+  - motif: pours-water-on-head-in-faint
+    refs:
+    - Jāmiʿ 9:1857.1
+    note: فقُمْتُ حتى تجلَّاني الغَشْيُ، فجعلتُ أصُبُّ فوق رأسي الماء
+  - motif: everything-promised-seen-in-this-prayer
+    refs:
+    - Jāmiʿ 9:1857.1
+    note: ما من شيءٍ كُنتُ لَمْ أرَهُ إلا قد رأيتُه في مقامي هذا، حتى الجنَّة والنارَ
+  - motif: tried-in-graves-like-the-dajjal
+    refs:
+    - Jāmiʿ 9:1857.1
+    note: ولقد أوحيَ إليَّ أنكم تُفْتَنُونَ في القُبُور مِثلَ -أو قَريبًا من- فِتْنَةِ الدَّجال
+  - motif: grave-question-about-this-man
+    refs:
+    - Jāmiʿ 9:1857.1
+    note: 'ما عِلْمُكَ بهذا الرَّجُلِ؟ ... فيقال له: نَمْ صالحًا، فقد علمنا إن كنت لموقِنًا ... فيقول: لا أدري، سمعتُ الناس
+      يقولون شيئًا فقلتُه'
+  - motif: freeing-slaves-ordered-at-eclipse
+    refs:
+    - Jāmiʿ 9:1857.2
+    note: أمر النبي ﷺ بالعتاقة في كسوف الشمس
+  - motif: jewish-women-tell-of-grave-punishment
+    refs:
+    - Jāmiʿ 9:1858.1
+    note: 'أن يهودية جاءت تسألها، فقالت: أعاذَكَ الله من عذاب القبر'
+  - motif: after-eclipse-prayer-orders-refuge-from-grave-punishment
+    refs:
+    - Jāmiʿ 9:1858.1
+    note: فمرَّ بين ظهراني الحجر، ثم قام يُصلِّي ... ثم أمرَهم أن يَتَعوذُوا من عذاب القَبْرِ
+  - motif: sermon-after-eclipse-amma-bad
+    refs:
+    - Jāmiʿ 9:1858.2
+    - Jāmiʿ 9:1859.1
+    note: 'ثم قام فأثنى على الله بما هو أهله ... فخطب فحمد الله بما هو أهلُه ثم قال: "أما بعد"'
+  - motif: two-bowings-in-each-raka-of-eclipse
+    refs:
+    - Jāmiʿ 9:1858.1
+    - Jāmiʿ 9:1858.2
+    note: ثم ركعِ ركوعًا طويلًا وهو دونَ الركوع الأول ... فاستكمل أربع ركعات في أربع سجدات
+- id: hadith-9-istikhara
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The istikhāra prayer, taught like a sura of the Quran
+  read:
+  - Jāmiʿ 9:1860.1-1860.2
+  tags:
+  - motif: istikhara-two-rakas-and-prayer-naming-need
+    refs:
+    - Jāmiʿ 9:1860.1
+    note: 'إذا همَّ أحدُكم بالأمرِ فلْيَركعْ رَكعتَين من غَيرِ الفريضةِ، ثمَّ لِيَقُلْ: اللَّهُمَّ إني استخيرُكَ بِعلمكَ،
+      وأستَقْدِرُكَ بقُدرَتِكَ ... قال: ويُسمِّي حاجَتَهُ'
+  - motif: istikhara-taught-like-a-sura
+    refs:
+    - Jāmiʿ 9:1860.1
+    note: كان رسولُ الله ﷺ يُعلِّمُنا الاستخارةَ في الأمُور كما يُعلِّمنا السورة من القرآنِ
+  - motif: you-are-able-i-am-not-you-know-i-do-not
+    refs:
+    - Jāmiʿ 9:1860.1
+    - Jāmiʿ 9:1860.2
+    note: فإنَّكَ تَقدِرُ ولا أقدِرُ، وتَعلَمُ ولا أعلَمُ وأنت علَّامُ الغُيوب ... فإنك تَقْدر ولا أقْدِر، وتعلمُ ولا أعلمُ،
+      وأنت علَّامُ الغُيوب
+  - motif: religion-livelihood-and-outcome-weighed
+    refs:
+    - Jāmiʿ 9:1860.1
+    - Jāmiʿ 9:1860.2
+    note: خيرٌ لي فِي دِيني ومَعاشي وعاقِبةِ أمري ... واقدُرْ لي الخيرَ حيثُ كان، ثمَّ أرضِني ... ورَضِّني بقدرك
+- id: hadith-9-prayer-of-the-sick
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The prayer of the sick: sitting behind the imam, half the reward, standing then sitting then on the side, cross-legged,
+    nodding, the pillar in old age'
+  read:
+  - Jāmiʿ 9:1864.1-1868.1
+  tags:
+  - motif: fell-from-horse-right-side-grazed-prayed-sitting
+    refs:
+    - Jāmiʿ 9:1864.1
+    note: سقط رسول الله ﷺ من فرس فخُدش -أو فجُحش- شِقُّه الأيمن. فدخلنا عليه نعودُه، فحضرتِ الصلاة فصلى قاعدًا فصلينا قعودًا
+  - motif: imam-is-to-be-followed
+    refs:
+    - Jāmiʿ 9:1864.1
+    note: إنما جعل الإمام ليؤتم به، فإذا كبَّر فكبِّروا، وإذا ركع فاركعوا
+  - motif: sitters-prayer-half-of-standers
+    refs:
+    - Jāmiʿ 9:1864.2
+    - Jāmiʿ 9:1864.3
+    note: إن صلاة القاعد على النصف من صلاة القائم ... ومن صلى قاعدًا، فله نصف أجر القائم، ومن صلَّى نائمًا فله نصف أجر القاعد
+  - motif: stand-else-sit-else-on-the-side
+    refs:
+    - Jāmiʿ 9:1864.3
+    note: 'كانت بي بواسير، فسألت النبي ﷺ عن الصلاة فقال: "صَلِّ قائمًا، فإن لم تستطع فقاعدًا، فإن لم تستطع فعلى جنب"'
+  - motif: prophet-prays-cross-legged
+    refs:
+    - Jāmiʿ 9:1865.1
+    note: رأيت النبي ﷺ يصلي متربعًا
+  - motif: sick-man-forbidden-to-raise-object-to-forehead
+    refs:
+    - Jāmiʿ 9:1866.1
+    - Jāmiʿ 9:1866.2
+    note: ومن لم يستطعْ فلا يرفعْ إلى جبهِته شيئًا يسجُد عليه، ولكن ركوعُه وسجوده يؤمِئُ برأسه ... وهو يُصَلِّي على عود، فوضع
+      جبهته على العود، فأومأ إليه فطرح العود، وأخذ وسادةً ... وإلا فأومئ إيماءً، واجعل سجودك أخفض من ركوعك
+  - motif: aged-prophet-leans-on-pillar-in-prayer-place
+    refs:
+    - Jāmiʿ 9:1868.1
+    note: أن رسول الله ﷺ لما أسَنَّ وحمل اللَّحم، اتخذ عمودًا في مصلاه يعتمد عليه ... وإذا هو معتمد على عصا في صلاته
+- id: hadith-9-ship-and-need
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prayer in a ship; the blind man's prayer of need
+  read:
+  - Jāmiʿ 9:1868.2-1869.1
+  tags:
+  - motif: pray-standing-in-ship-unless-fearing-drowning
+    refs:
+    - Jāmiʿ 9:1868.2
+    note: صلِّ فيها قائمًا إلا أن تخاف الغرق
+  - motif: blind-man-given-choice-healing-or-patience
+    refs:
+    - Jāmiʿ 9:1869.1
+    note: إن شئت دعوت لك، وإن شئتَ أخّرتُ ذاك فهو خير
+  - motif: i-turn-to-you-through-your-prophet-accept-his-intercession
+    refs:
+    - Jāmiʿ 9:1869.1
+    note: 'فأمره أن يتوضأ، فيحسن وضوءه، ويدعو بهذا الدعاء: اللهم إني أسألك، وأتوجه إليك بنبيك محمد نبي الرحمة ... اللهم شّفعْه
+      فيَّ'
+- id: hadith-9-recitation-prostration-and-al-najm
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The recitation prostration: crowded foreheads, Satan weeping, Zayd not prostrating at al-Najm, the old man''s pebbles,
+    jinn and idolaters'
+  read:
+  - Jāmiʿ 9:1878.1-1881.3
+  quran:
+  - 53:62
+  tags:
+  - motif: crowded-recitation-prostration-no-room-for-forehead
+    refs:
+    - Jāmiʿ 9:1878.1
+    note: فيسجد ونسجد معه، حتى ما يجدُ بعضُنا موضعًا لمكان جبهته
+  - motif: satan-weeps-when-man-prostrates
+    refs:
+    - Jāmiʿ 9:1878.2
+    note: 'إذا قرأ ابن آدم السَجْدةَ فسجد، اعتزل الشيطانُ يبكي، يقول: يا وَيْلَه أُمِر ابن آدم بالسجود فسجد فله الجنة، وأُمرتُ
+      بالسجود فأبيتُ فَلِي النارُ'
+  - motif: reciter-of-al-najm-not-followed-by-prostration
+    refs:
+    - Jāmiʿ 9:1880.1
+    note: قرأ على النبي ﷺ ﴿وَالنَّجْمِ إِذَا هَوَى﴾ فلم يسجد فيها
+  - motif: old-man-raises-pebbles-to-forehead-dies-unbeliever
+    refs:
+    - Jāmiʿ 9:1881.1
+    note: 'غير شيخ أخذ كفًّا من حصًى، أو ترابٍ فرفعه إلى جَبْهتِه وقال: يكفيني هذا. فرأيتُه بعد ذلك قُتل كافرًا'
+  - motif: jinn-and-idolaters-prostrate-at-surat-al-najm
+    refs:
+    - Jāmiʿ 9:1881.2
+    note: سجد بالنجم، وسجد معه المسلمون والمشركون، والجن والإنس
+  - motif: two-men-refuse-prostration-seeking-fame
+    refs:
+    - Jāmiʿ 9:1881.3
+    note: فسجد، وسجد الناس معه، إلا رجلين أرادا الشُّهرة
+- id: hadith-9-prostration-inshiqaq-iqra-sad
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prostrations at al-Inshiqāq and Iqraʾ; Ṣād the prostration of David's repentance and our thanks
+  read:
+  - Jāmiʿ 9:1882.1-1884.1
+  quran:
+  - '84:21'
+  - '96:19'
+  - '38:24'
+  - 6:84
+  - 6:90
+  tags:
+  - motif: prostration-at-inshiqaq-and-iqra
+    refs:
+    - Jāmiʿ 9:1882.1
+    - Jāmiʿ 9:1882.2
+    - Jāmiʿ 9:1883.1
+    note: 'سجدنا مع النبي ﷺ في ﴿إِذَا السَّمَاءُ انْشَقَّتْ﴾ و ﴿اقْرَأْ﴾ ... قرأ لهم: ﴿إِذَا السَّمَاءُ انْشَقَّتْ﴾ فسجد فيها.
+      فلما انصرف أخبرهم أن رسول الله ﷺ سجد فيها ... فقرأ: ﴿إِذَا السَّمَاءُ انْشَقَّتْ﴾ فسجد'
+  - motif: will-keep-prostrating-until-he-meets-him
+    refs:
+    - Jāmiʿ 9:1883.1
+    note: صليت مع أبي هريرة العتمة ... سجدت بها خلف أبي القاسم، ﷺ فلا أزال أسجد بها حتى ألقاه
+  - motif: sad-prostration-davids-repentance-ours-thanks
+    refs:
+    - Jāmiʿ 9:1883.2
+    - Jāmiʿ 9:1883.4
+    - Jāmiʿ 9:1884.1
+    note: ﴿ص﴾ ليس من عزائم السجود، وقد رأيتُ النبي ﷺ يسجد فيها ... سجدها نبي الله داود توبةً، وسجدناها شكرًا ... إنما هي توبةُ
+      نَبِيٍّ
+  - motif: prophet-prostrates-at-sad-following-david
+    refs:
+    - Jāmiʿ 9:1883.3
+    note: 'أو ما تقرأ: ﴿وَمِنْ ذُرِّيَّتِهِ دَاوُودَ وَسُلَيْمَانَ﴾ ﴿أُولَئِكَ الَّذِينَ هَدَى اللَّهُ فَبِهُدَاهُمُ اقْتَدِهْ﴾
+      فكان داودُ مِمنْ أُمِر نبيُّكم أن يقتدي به'
+  - motif: people-ready-to-prostrate-so-he-does
+    refs:
+    - Jāmiʿ 9:1884.1
+    note: فلما بلغ السجدة نزل فسجد، وسجد الناس معه ... ولكني رأيتكم تشزَّنتُم للسجود" فنزل فسجد، وسجدوا
+- id: hadith-9-prostration-formula-and-thanks
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The words of the recitation prostration; prostrations of thanks (Kaʿb, Hamdān, the mukhdaj); prostration at a sign
+  read:
+  - Jāmiʿ 9:1884.2-1889.1
+  quran:
+  - 9:118
+  tags:
+  - motif: my-face-prostrates-to-him-who-created-it
+    refs:
+    - Jāmiʿ 9:1884.2
+    note: سجد وجهي للذي خلقه، وشق سمعه وبصرَه بحوله وقوته
+  - motif: herald-on-mount-sal-announces-repentance
+    refs:
+    - Jāmiʿ 9:1885.1
+    note: 'قد ضاقت عليَّ نفسي، وضاقت عليَّ الأرض بما رَحُبَتْ، سمعت صوت صارخ أوْفَى على جبل سَلْعٍ بأعلى صوته: يا كعب بن مالك!
+      أبْشِر. قال: فخررتُ ساجدًا'
+  - motif: prostration-of-thanks-at-good-news
+    refs:
+    - Jāmiʿ 9:1885.1
+    - Jāmiʿ 9:1886.1
+    - Jāmiʿ 9:1886.2
+    - Jāmiʿ 9:1888.1
+    note: فخررتُ ساجدًا ... كان إذا أتاه أمر يُسَرُّ به خرَّ ساجدًا ... فلما قرأ رسول الله ﷺ الكتاب خرَّ ساجدًا ... فوجدنا
+      المخدج، فخررنا سجودًا، وخرَّ عليٌّ معنا ساجدًا
+  - motif: hamdan-converts-prophet-greets-them-twice
+    refs:
+    - Jāmiʿ 9:1886.2
+    note: فقرأ عليهم كتاب رسول الله ﷺ، فأسلمتْ همدان جميعًا ... السلام على همدان، السلام على همدان
+  - motif: pass-through-religion-like-arrow-through-game
+    refs:
+    - Jāmiʿ 9:1888.1
+    note: يخرجون من الحق كما يخرج السهم من الرمية
+  - motif: mark-of-the-schismatics-black-man-with-stunted-hand
+    refs:
+    - Jāmiʿ 9:1888.1
+    note: سيماهم أن منهم رجلا أسود مُخْدج اليد في يده شعرات سود ... اطلبوا، فطلبنا، فوجدنا المخدج
+  - motif: if-not-him-you-killed-the-best-of-men
+    refs:
+    - Jāmiʿ 9:1888.1
+    note: إن كان هو فقد قتلتم شرّ الناس، وإن لم يكن هو فقد قتلتم خير الناس، فبكينا
+  - motif: prostrate-at-a-sign-death-of-prophets-wife
+    refs:
+    - Jāmiʿ 9:1889.1
+    note: ماتت فلانة -بعض أزواج النبي ﷺ فخرَّ ساجدًا ... إذا رأيتم آية فاسجدوا" وأيُّ آية أعظم من ذهاب أزواج النبي ﷺ
+- id: hadith-10-mosques-and-markets-entering
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Mosques the dearest places, markets the most hated; two rakʿas on entering and on return from a journey; the words
+    on entering
+  read:
+  - Jāmiʿ 10:1891.1-1894.1
+  quran:
+  - '72:18'
+  tags:
+  - motif: mosques-dearest-markets-most-hated-places
+    refs:
+    - Jāmiʿ 10:1891.1
+    note: أحب البلاد إلى الله مساجدها، وأبغض البلاد إلى الله أسواقُها
+  - motif: two-rakas-before-sitting-in-mosque
+    refs:
+    - Jāmiʿ 10:1891.2
+    - Jāmiʿ 10:1892.1
+    note: 'إذا دخل أحدكم المسجد فليركع ركعتين قبل أن يجلس ... أصليتَ فيه؟ ". قلت: لا. قال: "فاذهب فاركع ركعتين'
+  - motif: two-rakas-in-mosque-on-arrival-from-journey
+    refs:
+    - Jāmiʿ 10:1892.2
+    - Jāmiʿ 10:1892.3
+    - Jāmiʿ 10:1893.1
+    note: فدع جملك. وادخُل فصلِّ ركعتين ... كان لا يقدمُ من سفر إلا نهارًا في الضُّحى، فإذا قَدم بدأ بالمسجد، فصلَّى فيه ركعتين
+      ... فأناخ على باب مسجده، ثم دخله، فركع فيه ركعتين، ثم انصرف إلى بيته
+  - motif: open-for-me-the-doors-of-your-mercy
+    refs:
+    - Jāmiʿ 10:1893.2
+    note: 'اللهم افتح لي أبواب رحمتك، وإذا خرج فليقل: اللهم إني أسألك من فضلك'
+  - motif: refuge-on-entering-mosque-satan-says-guarded-all-day
+    refs:
+    - Jāmiʿ 10:1893.3
+    note: 'أعوذ بالله العظيم، وبوجهه الكريم، وسلطانه القديم، من الشيطان الرجيم ... قال الشيطان: حُفِظ مني سائر اليوم'
+  - motif: who-comes-to-mosque-for-a-thing-gets-that-thing
+    refs:
+    - Jāmiʿ 10:1894.1
+    note: من أتى المسجد لشيء فهو حظُّه
+- id: hadith-10-waiting-in-the-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Waiting for prayer in the mosque: counted as prayer, angels praying, God''s welcome like a family''s for the returning
+    absent, the Friday hour, the bridge; sitting till sunrise'
+  read:
+  - Jāmiʿ 10:1895.1-1899.1
+  tags:
+  - motif: waiting-for-prayer-counts-as-prayer
+    refs:
+    - Jāmiʿ 10:1895.1
+    - Jāmiʿ 10:1895.2
+    - Jāmiʿ 10:1896.1
+    - Jāmiʿ 10:1897.1
+    - Jāmiʿ 10:1897.2
+    note: قد صلَّى الناسُ وناموا، أما إنكم في صلاة ما انتظرتموها ... لا يزال أحدكم في صلاة ما كانت الصلاة تحبِسُه ... من جلس
+      مجلسًا ينتظر فيه الصلاة فهو في صلاة حتى يُصلي ... من كان في المسجد ينتظر الصلاةَ فهو في الصلاة ... صلى الناس ورقدوا،
+      وأنتم تنتظرونها
+  - motif: angels-pray-for-one-awaiting-prayer
+    refs:
+    - Jāmiʿ 10:1895.2
+    note: الملائكة تُصلِّي على أحدكم ما دام في مصلاه الذي صلَّى فيه ما لم يُحدِثْ. اللهم اغفر له، اللهم ارحمه
+  - motif: hadath-is-the-sound
+    refs:
+    - Jāmiʿ 10:1895.2
+    note: ما لم يُحدِثْ
+  - motif: god-welcomes-mosque-goer-as-family-greets-returning-absent
+    refs:
+    - Jāmiʿ 10:1895.3
+    note: ما توطَّنَ رجل مسلم المساجد للصلاة والذكر، إلا تبشبش الله له كما يتبشبش أهل الغائب بغائبِهم إذا قدم عليهم
+  - motif: hour-of-answered-prayer-on-friday
+    refs:
+    - Jāmiʿ 10:1896.1
+    note: قد علمتُ أية ساعة هي ... هي آخر ساعة من يوم الجمعة
+  - motif: friday-hour-last-hour-waiting-counts-as-praying
+    refs:
+    - Jāmiʿ 10:1896.1
+    note: 'كيف تكون آخر ساعة من يوم الجمعة وقد قال رسولُ الله ﷺ: "لا يُصادِفُها عبد مسلم يُصَلِّي" وتلك ساعة لا يُصَلّى فيها؟'
+  - motif: mosque-as-home-safe-crossing-of-the-bridge
+    refs:
+    - Jāmiʿ 10:1897.3
+    note: إن الله ﷿ ضَمن لمن كانت المساجدُ بيتَه الأمنَ والجوازَ على الصراط يوم القيامة
+  - motif: sits-in-place-till-sunrise-companions-laugh-at-jahiliyya
+    refs:
+    - Jāmiʿ 10:1898.1
+    note: كان لا يقوم من مصلاه الذي يُصلي فيه الصبحَ أو الغداة حتى تطلع الشمس ... وكانوا يتحدَّثون، فيأخذون في أمر الجاهلية،
+      فيضحكون ويتبسَّم
+  - motif: sitting-with-rememberers-better-than-freeing-four-of-ismail
+    refs:
+    - Jāmiʿ 10:1898.2
+    note: لأن أقعد مع قوم يذكرون الله تعالى من صلاة الغداة حتى تطلع الشمس أحبُّ إلي من أن أعتق أربعةً من ولد إسماعيل
+  - motif: god-boasts-to-angels-of-those-waiting-for-prayer
+    refs:
+    - Jāmiʿ 10:1899.1
+    note: 'قد حفزه النَّفَسُ، وقد حسر عن رُكبتيه ... هذا ربُّكم قد فتح بابًا من أبواب السماء، يُباهي بكم الملائكة، يقول: انظروا
+      إلى عبادي قد قضوا فريضةً، وهم ينتظرون أُخرى'
+- id: hadith-10-building-mosques
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Building mosques: a house in paradise, even the size of a sandgrouse''s nest; no boasting, no raising high'
+  read:
+  - Jāmiʿ 10:1899.2-1903.1
+  tags:
+  - motif: builder-of-mosque-given-house-in-paradise
+    refs:
+    - Jāmiʿ 10:1899.2
+    - Jāmiʿ 10:1900.1
+    - Jāmiʿ 10:1901.1
+    - Jāmiʿ 10:1901.2
+    - Jāmiʿ 10:1902.1
+    note: من بنى مسجدًا لله بنى الله له في الجنة مثلَه ... من بنى مسجدًا يُذكر فيه اسم الله بنى الله له بيتًا في الجنة ...
+      بنى الله له بيتًا في الجنة ... بني الله ﷿ له بيتًا في الجنة ... بنى الله له بيتًا في الجنة
+  - motif: uthman-rebuilds-mosque-against-objections
+    refs:
+    - Jāmiʿ 10:1899.2
+    note: أن عثمان بن عفان أراد بناء المسجد. فكره الناس ذلك. فأحبوا أن يدعَه على هيئته
+  - motif: mosque-the-size-of-a-sandgrouse-nest
+    refs:
+    - Jāmiʿ 10:1901.1
+    - Jāmiʿ 10:1902.1
+    note: من بنى مسجدًا لله كمفحصِ قطاةٍ، أو أصغر ... ولو قدر مفحص قطاةٍ
+  - motif: hour-not-until-people-vie-in-mosques
+    refs:
+    - Jāmiʿ 10:1902.2
+    note: لا تقوم الساعةُ حتى يَتَبَاهَى الناسُ في المساجد
+  - motif: not-commanded-to-raise-mosques-high
+    refs:
+    - Jāmiʿ 10:1903.1
+    note: ما أُمرت بتشييد المساجد
+- id: hadith-10-first-mosque-and-the-kaaba
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The first mosque on earth; praying inside the Kaʿba among its six pillars, or only at its corners; the proclamation
+    against polytheists and the naked
+  read:
+  - Jāmiʿ 10:1904.1-1906.2
+  quran:
+  - '9:28'
+  - 9:1-3
+  tags:
+  - motif: kaaba-and-aqsa-forty-years-apart
+    refs:
+    - Jāmiʿ 10:1904.1
+    note: 'أي مسجد وُضع في الأرض أولُ، قال: "المسجد الحرام" قلت: ثم أي؟ قال: "المسجد الأقصى" قلت: كم بينهما؟ قال: "أربعون
+      سنة'
+  - motif: wherever-prayer-overtakes-you-pray-it-is-a-mosque
+    refs:
+    - Jāmiʿ 10:1904.1
+    note: 'ثم أينما أدركتك الصلاةُ فصَلِّه، فإن الفضل فيه". وفي لفظ مسلم: "فَصَلِّه فإنه مسجد'
+  - motif: prays-inside-kaaba-among-six-pillars
+    refs:
+    - Jāmiʿ 10:1904.2
+    note: دخل الكعبة، هو وأسامة وبلال وعثمان بن طلحة الحجبيُّ فأغلقها عليه ... جعل عمودَين عن يساره، وعمودًا عن يمينه، وثلاثة
+      أعمدة وراءه. وكان البيتُ يومئذ على ستة أعمدة، ثم صلى
+  - motif: prays-in-every-corner-of-kaaba-then-outside-this-is-the-qibla
+    refs:
+    - Jāmiʿ 10:1905.1
+    note: 'دعا في نواحيه كلها. ولم يُصلِّ فيه، حتى خرج. فلما خرج ركع في قُبُل البيت ركعتين. وقال: "هذه القبلة'
+  - motif: you-were-commanded-to-circle-not-enter
+    refs:
+    - Jāmiʿ 10:1905.1
+    note: إنما أُمِرتُم بالطواف، ولم تؤمروا بدخوله
+  - motif: did-not-enter-kaaba-at-the-umra
+    refs:
+    - Jāmiʿ 10:1906.1
+    note: 'اعتمر رسول الله ﷺ فطاف بالبيت، وصلى خلف المقام ركعتين، ومعه من يستره من الناس، فقال له رجل: أدخل رسول الله ﷺ الكعبة؟
+      قال: لا'
+  - motif: ali-sent-after-to-proclaim-baraa
+    refs:
+    - Jāmiʿ 10:1906.2
+    note: ألا يحج بعد العام مشرك، ولا يطوف بالبيت عُريان ... ثم أردف رسولُ الله ﷺ عليًّا فأمره أن يؤذِّنَ بـ براءة
+  - motif: four-proclamations-till-voice-hoarse
+    refs:
+    - Jāmiʿ 10:1906.2
+    note: فنادى بأربع حتى صَحِلَ صوتُه؟ ألا إنه لا يدخل الجنة إلا نفس مؤمنة، ولا يحجَّنَّ بعد العام مشرك، ولا يطوف بالبيت
+      عريان، ومن كان بينه وبين رسول الله ﷺ عهد فإن أجلَه إلى أربعة أشهر
+- id: hadith-10-building-the-prophets-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Building the prophet''s mosque: the Najjār garden, the graves dug up, the palms as qibla, the verse sung; ʿAmmār''s
+    two bricks; the mosque founded on piety'
+  read:
+  - Jāmiʿ 10:1907.1-1909.1
+  quran:
+  - 9:108
+  tags:
+  - motif: garden-price-sought-only-from-god
+    refs:
+    - Jāmiʿ 10:1907.1
+    note: 'يا بني النجار! ثامنوني بحائطِكم هذا. قالوا: لا والله! لا نطلبُ ثمَنَه إلا إلى الله'
+  - motif: graves-of-idolaters-dug-up-for-mosque
+    refs:
+    - Jāmiʿ 10:1907.1
+    note: قبورُ المشركين، وفيه خربٌ، وفيه نخلٌ، فأمرَ النبي ﷺ بقبورِ المشركين فنُبِشَتْ، ثم بالخرِبِ فسُويت، وبالنخل فقُطِعَ
+      فصَفُّوا النخل قبلة المسجد
+  - motif: prays-where-prayer-overtakes-him-and-in-sheepfolds
+    refs:
+    - Jāmiʿ 10:1907.1
+    note: وكان يحبُّ أن يُصلي حيثُ أدركَتْه الصّلاةُ ويُصلِّي في مَرابض الغَنمِ
+  - motif: builders-chant-no-good-but-good-of-hereafter
+    refs:
+    - Jāmiʿ 10:1907.1
+    note: 'وجعلوا ينقلون الصخْر وهم يرتجزون، والنبي ﷺ معهم وهو يقول: اللهم لا خيرَ إلا خيرُ الآخرهْ ... فاغفِرْ للأنصارِ والمُهاجِرَهْ'
+  - motif: carries-two-bricks-while-others-carry-one
+    refs:
+    - Jāmiʿ 10:1907.2
+    note: كنا نحمل لَبِنَةً لَبِنَةً وعمارٌ لَبِنَتَين
+  - motif: ammar-to-be-killed-by-rebel-party
+    refs:
+    - Jāmiʿ 10:1907.2
+    note: ويحَ عمارٍ تقتلُه الفِئةُ البَاغيةُ يدعوهم إلى الجنة، ويدعونه إلى النار
+  - motif: pebbles-struck-on-ground-naming-the-mosque
+    refs:
+    - Jāmiʿ 10:1908.1
+    note: 'فأخذ كفًّا من حَصْباءَ فضرب به الأرضَ. ثم قال: هو "مسجدكم هذا" لمسجد المدينة'
+  - motif: mosque-founded-on-piety
+    refs:
+    - Jāmiʿ 10:1908.1
+    - Jāmiʿ 10:1909.1
+    note: 'أي المسجدين الذي أسِّس على التقوى ... هو مسجد رسول الله ﷺ، وقال الآخر: هو مسجد قُباء، فأتيا النبي ﷺ فسألاه فقال:
+      "هو مسجدي هذا'
+- id: hadith-10-three-mosques-and-their-prayers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Saddles fastened only for three mosques; a prayer in the prophet's mosque worth a thousand, in the Sacred Mosque
+    a hundred thousand; Solomon's three requests; the Medina prayer worth four in Jerusalem
+  read:
+  - Jāmiʿ 10:1909.2-1918.2
+  quran:
+  - '38:35'
+  tags:
+  - motif: travel-only-to-three-mosques
+    refs:
+    - Jāmiʿ 10:1909.2
+    - Jāmiʿ 10:1910.1
+    - Jāmiʿ 10:1910.2
+    - Jāmiʿ 10:1911.1
+    - Jāmiʿ 10:1911.2
+    note: 'لا تُشَدُّ الرِّحالُ إلا إلى ثلاثة مساجد. مسجدي هذا، والمسجد الحرام، والمسجد الأقصى ... لا تشدوا الرِحال إلَّا
+      إلى ثلاثةِ مساجد ... لا تُشد الرحال إلا إلى ثلاثة مساجد ... لا تضرب المطايا إلا إلى ثلاثة مساجد: المسجد الحرام، ومسجدي
+      هذا، ومسجد إيلياء ... لا تُشد الرِّحال إلا إلى ثلاثة مساجد'
+  - motif: best-riding-to-my-mosque-and-ancient-house
+    refs:
+    - Jāmiʿ 10:1910.3
+    note: إن خير ما رُكِبتْ إليه الرواحلُ مسجدي هذا، والبيت العتيق
+  - motif: prayer-in-prophets-mosque-worth-thousand
+    refs:
+    - Jāmiʿ 10:1912.1
+    - Jāmiʿ 10:1912.2
+    - Jāmiʿ 10:1913.1
+    - Jāmiʿ 10:1913.2
+    - Jāmiʿ 10:1913.3
+    - Jāmiʿ 10:1914.1
+    note: صلاة في مسجدي هذا خير من ألف صلاة فيما سِواه، إلا المسجد الحرام ... صلاة في مسجدي هذا أفضل من ألف صلاةٍ فيما سِواه
+      إلا المسجد الحرام ... صلاة فيه أفضل من ألْف صلاة فيما سواه من المساجد، إلا مسجد الكعبة ... صلاة في مسجدي أفضل من ألف
+      صلاة فيما سِواه إلا المسجد الحرام ... صلاة في مسجدي هذا أفضل من ألف صلاة فيما سواه من المساجد إلا المسجد الحرام ...
+      صلاة في مسجدي هذا خير من ألْفِ صلاةٍ فيما سِواه إلا المسجد الحرام
+  - motif: prayer-in-sacred-mosque-worth-hundred-thousand
+    refs:
+    - Jāmiʿ 10:1913.2
+    - Jāmiʿ 10:1913.3
+    note: وصلاة في المسجد الحرام أفضل من مائة ألْف صلاةٍ فيما سواه ... وصلاة في المسجد الحرام أفضل من مائة صلاة في هذا
+  - motif: solomon-three-requests-at-temple
+    refs:
+    - Jāmiʿ 10:1918.1
+    note: 'إن سليمان بن داود ﷺ لما بنى بيت المقْدِس سأل الله ﷿ خلالًا ثلاثةً: سأل الله ﷿ حكمًا يصادف حكمه فأوتيه، وسأل الله
+      ﷿ مُلكًا لا ينبغي لأحد من بعده فأوتيه، وسأل ﷿ حين فرغ من بناء المسجد أن لا يأتيه أحد لا ينهزه إلا الصلاةُ فيه أن يخرجه
+      من خطيئتَه كيوم ولدته أمه'
+  - motif: prayer-in-medina-worth-four-in-jerusalem
+    refs:
+    - Jāmiʿ 10:1918.2
+    note: صلاة في مسجدي هذا أفضل من أربع صلوات فيه، ولنعم المصلي
+  - motif: horse-tether-of-land-in-sight-of-jerusalem
+    refs:
+    - Jāmiʿ 10:1918.2
+    note: وليوشكن أن لا يكون للرجل مثل شطن فرسه من ... الأرض حيث يرى منه بيت المقدس خير له من الدنيا جميعا
+- id: hadith-10-quba
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Qubāʾ: the mosque founded on piety at the hijra; visited every Saturday riding and walking; a prayer there worth
+    an ʿumra'
+  read:
+  - Jāmiʿ 10:1921.1-1922.3
+  quran:
+  - 9:107-108
+  tags:
+  - motif: mosque-founded-on-piety
+    refs:
+    - Jāmiʿ 10:1921.1
+    note: وأسس المسجد الذي أسِّس على التقوي، وصلَّى فيه رسول الله ﷺ
+  - motif: camel-is-commanded-let-her-go
+    refs:
+    - Jāmiʿ 10:1921.1
+    note: ثم ركب راحلته، فسار يمشي معه الناس، حتي بركت عند مسجد رسول الله بالمدينة
+  - motif: quba-visited-every-saturday-riding-or-walking
+    refs:
+    - Jāmiʿ 10:1921.2
+    - Jāmiʿ 10:1922.1
+    - Jāmiʿ 10:1922.2
+    note: كان رسول الله يأتي مسجد قُباء راكبًا وماشيًا، فيصلي فيه ركعتين ... كان يأتي قُباء راكبًا وماشيًا ... كان النبي ﷺ
+      يأتي قُباء كلَّ سبتٍ ماشيًا وراكبًا، وكان عبد الله يفعله
+  - motif: prayer-at-quba-equal-to-umra
+    refs:
+    - Jāmiʿ 10:1922.3
+    note: من خرج حتى يأتي هذا المسجد مسجد قُباء، فصلى فيه كان له عدلَ عمرةٍ
+- id: hadith-10-house-mosques-and-the-church
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Mosques in houses and quarters, kept clean and scented; the church broken, sprinkled with the prophet's ablution
+    water and made a mosque; the graves dug up
+  read:
+  - Jāmiʿ 10:1923.1-1925.1
+  tags:
+  - motif: blind-man-asks-prophet-to-pray-in-his-house
+    refs:
+    - Jāmiʿ 10:1923.1
+    note: قد أَنكرتُ بَصَرِي وأنا أصلِّي بقومي ... وودِدْتُ يا رسول الله! أنَّك تأتيني فتصلِّي في بيتي فأتخذه مصلًّى
+  - motif: where-would-you-like-me-to-pray-in-your-house
+    refs:
+    - Jāmiʿ 10:1923.1
+    note: أينَ تُحِبُّ أن أصلِّيَ من بيتِكَ؟ ... فصلَّى ركعتين ثم سلَّمَ، قال وحبسناه على خزيرة صَنْعناها له
+  - motif: mosques-in-quarters-kept-clean-and-scented
+    refs:
+    - Jāmiʿ 10:1923.2
+    note: أمر رسول الله ﷺ ببناء المساجد في الدور، وأن تُنَظَّفَ وتُطيب
+  - motif: church-broken-sprinkled-with-ablution-water-made-mosque
+    refs:
+    - Jāmiʿ 10:1924.1
+    note: فدعا بماء فتوضأ، وتمضمض ثم صبَّه في إداوةٍ ... فاكسروا بيعتكم وانضحوا مكانَها بهذا الماء واتخذوها مسجدًا ... مُدُّوه
+      من الماء، فإنه لا يزيده إلا طيبًا
+  - motif: monk-hears-the-call-and-vanishes
+    refs:
+    - Jāmiʿ 10:1924.1
+    note: 'والراهب رجل من طيّء فلما سمع الأذان قال: دعوة حق، ثم استقبل تلعةً من تلاعِنا فلم نره بعد'
+  - motif: graves-of-idolaters-dug-up-for-mosque
+    refs:
+    - Jāmiʿ 10:1925.1
+    note: فأمر النبي ﷺ بقُبورِ المشركين فنُبِشَتْ، ثم بالخرب فسُوِّيتْ، وبالنخل فقُطِعَ، فصَفُّوا النخلَ قِبلَة المسجد
+- id: hadith-10-graves-as-mosques
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Graves taken as mosques: the curse on Jews and Christians, the grave left hidden, the cloth on the dying face, the
+    pictured church of Abyssinia'
+  read:
+  - Jāmiʿ 10:1926.1-1927.3
+  tags:
+  - motif: graves-of-prophets-taken-as-places-of-worship
+    refs:
+    - Jāmiʿ 10:1926.1
+    - Jāmiʿ 10:1926.2
+    - Jāmiʿ 10:1926.3
+    - Jāmiʿ 10:1927.2
+    - Jāmiʿ 10:1927.3
+    note: قاتل الله اليهود اتخذوا قبور أنبيائهم مساجد ... لعن الله اليهود والنصارى اتخذوا قبور أنبيائهم مساجد ... لعنةُ الله
+      على اليهود والنصاري، اتخذوا قبور أنبيائهم مساجد ... ألا وإن من كان قبلكم كانوا يتخذون قبور أنبيائهم وصالحيهم مساجدَ،
+      ألا فلا تتخذوا القبور مساجدَ ... واعلموا أن شرار الناس الذين اتخذوا قبور أنبيائهم مساجدَ
+  - motif: prophets-grave-not-exposed-lest-taken-as-mosque
+    refs:
+    - Jāmiʿ 10:1926.2
+    note: ولولا ذلك لأبرزوا قبره، غير أني أخشى أن يتخذ مسجدًا
+  - motif: dying-prophet-throws-cloth-over-face
+    refs:
+    - Jāmiʿ 10:1926.3
+    note: طَفِق يطرح خَميصةً على وجهه، فإذا اغتمَّ كشفها عن وجهه
+  - motif: church-of-abyssinia-with-pictures-over-righteous-graves
+    refs:
+    - Jāmiʿ 10:1927.1
+    note: ذكرتا كنيسةً رأينَها بالحبشة فيها تصاوير ... إن أولئك إذا كان فيهم الرجل الصالح فمات بنوا على قبره مسجدًا، وصوَّروا
+      فيه تلك الصورَ، فأولئك شرار الخلق عند الله يوم القيامة
+  - motif: warning-given-five-days-before-death
+    refs:
+    - Jāmiʿ 10:1927.2
+    note: قبل أن يموت بخمس وهو يقول
+- id: hadith-10-sleeping-and-tents-in-the-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Sleeping and tents in the mosque: ʿAlī ''Abu Turāb'', Ibn ʿUmar the bachelor, Abu Dharr; Saʿd''s tent and the flowing
+    blood; the freed woman''s tent and the kite; the women''s door'
+  read:
+  - Jāmiʿ 10:1928.1-1931.1
+  tags:
+  - motif: abu-turab-dust-wiped-from-sleeper-in-mosque
+    refs:
+    - Jāmiʿ 10:1928.1
+    note: 'هو في المسجد راقد. فجاء رسول الله ﷺ وهو مضطجع قد سقط رداءَه عن شِقِّه وأصابه تراب فجعل رسول الله ﷺ يمسحه عنه ويقول:
+      "قم أبا تراب، قم أبا تُراب'
+  - motif: young-bachelor-sleeps-in-mosque
+    refs:
+    - Jāmiʿ 10:1929.1
+    note: أنه كان ينام -وهو شاب أعزب لا أهل له- في مسجد النبي ﷺ
+  - motif: abu-dharr-nudged-awake-in-mosque-no-other-home
+    refs:
+    - Jāmiʿ 10:1929.2
+    note: فوجد أبا ذر منجدلًا في المسجد فَنَكَتَهُ رسول الله برجله حتى استوى جالسًا ... فأين أنام وهل لي بيت غيره؟
+  - motif: tent-in-mosque-for-wounded-sad-blood-flows-to-neighbours
+    refs:
+    - Jāmiʿ 10:1930.1
+    note: رماه في الأكحل، فضرب النبي ﷺ خيمةً في المسجد ليعوده من قريب. فلم يَرُعْهُم -وفي المسجد خيمة من بني غِفار- إلا الدمُ
+      يسيلُ إليهم ... فإذا سعد يغذو جُرْحُه دمًا، فمات فيها
+  - motif: kite-takes-red-sash-slave-woman-searched
+    refs:
+    - Jāmiʿ 10:1930.2
+    note: عليها وِشاحٌ أحمرُ من سُيُورٍ ... فمَرّتْ به حُدَيَّاة وهوَ مُلْقى، فحَسِبَتْهُ لحْمًا فخطِفَتْهُ ... فاتَّهَمُوني
+      به ... حتَّى فَتَّشُوا قُبُلَها ... إذ مرت الحدَيّاة فألقته
+  - motif: freed-woman-lives-in-tent-in-mosque-recites-verse
+    refs:
+    - Jāmiʿ 10:1930.2
+    note: فكان لها خِباءٌ في المسجد أو حِفْشٌ ... ويومَ الوِشاح من تعاجيبِ ربِّنا ... ألا إنَّه من بلدةِ الكفرِ أنجاني
+  - motif: door-left-for-the-women
+    refs:
+    - Jāmiʿ 10:1931.1
+    note: 'لو تركنا هذا الباب للنساء" قال نافع: فلم يدخل منه ابن عمر حتى مات'
+- id: hadith-10-lying-play-and-dispute-in-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Lying with one leg over the other, allowed and forbidden; the Abyssinians at play; the debt halved
+  read:
+  - Jāmiʿ 10:1931.2-1932.3
+  tags:
+  - motif: lies-on-back-one-leg-over-other-in-mosque
+    refs:
+    - Jāmiʿ 10:1931.2
+    note: رأى رسول الله ﷺ مستلقيًا في المسجد، واضِعًا إحدى رجليه على الأُخرى
+  - motif: no-lying-on-back-with-leg-over-leg
+    refs:
+    - Jāmiʿ 10:1932.1
+    note: لا يستَلْقِينَّ أحدكم، ثم يضعُ إحدى رجليه على الأخرى
+  - motif: abyssinians-play-in-mosque-aisha-screened-by-cloak
+    refs:
+    - Jāmiʿ 10:1932.2
+    note: والحبشة يلْعبون في المسجد، ورسول الله ﷺ يسترني بردائه أنظر إلى لعبهم
+  - motif: creditor-told-to-drop-half-the-debt
+    refs:
+    - Jāmiʿ 10:1932.3
+    note: 'تقاضي ابنَ أبي حدْردٍ دينًا كان له عليه في المسجد، فارتفعت أصواتُهما ... حتي كشف سِجْفَ حُجرته فنادى: "يا كعب"
+      ... ضَعْ من دينك هذا" وأومأ إليه -أي الشطر ... قُم فاقضه'
+- id: hadith-10-sweeper-captive-and-envoy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The mosque's sweeper prayed over at the grave; Thumāma tied to a pillar; Ḍimām's camel in the mosque and his oath-questions
+  read:
+  - Jāmiʿ 10:1933.1-1934.1
+  quran:
+  - '3:35'
+  tags:
+  - motif: prays-over-grave-of-mosque-sweeper
+    refs:
+    - Jāmiʿ 10:1933.1
+    note: 'أن رجلًا أسود -أو امرأة سوداءَ- كان يَقمُّ المسجدَ، فمات فسأل النبي ﷺ عنه فقالوا: مات، قال: "أفلا كنتم آذنتموني
+      به، دُلُّوني على قبره -أو قال- قبرها" فأتى قبره فصلى عليه'
+  - motif: captive-tied-to-mosque-pillar-three-days
+    refs:
+    - Jāmiʿ 10:1933.2
+    note: ثُمامة بن أُثال، سيد أهل اليمامة، فربطوه بسارية من سواري المسجد
+  - motif: envoy-kneels-camel-in-mosque-asks-by-god-of-each-duty
+    refs:
+    - Jāmiʿ 10:1933.3
+    - Jāmiʿ 10:1934.1
+    note: 'دخل رجل على جمل، فأناخه في المسجد ثم عقله، ثم قال لهم: أيُّكم محمد؟ ... أنْشُدُكَ باللهِ، الله أمركَ أن نُصَلِّي
+      الصلوات الخمس في اليوم والليلة؟ قال: "اللَّهُمَّ نَعَمْ" ... فأناخ بعيره على باب المسجد، ثم عقله'
+  - motif: the-white-man-reclining
+    refs:
+    - Jāmiʿ 10:1933.3
+    note: هذا الرجل الأبيض المُتَّكِئُ
+- id: hadith-10-interlacing-fingers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Interlacing the fingers: believers like a building, after the mistaken prayer, people in confusion; not on the way
+    to prayer'
+  read:
+  - Jāmiʿ 10:1934.2-1935.2
+  tags:
+  - motif: believers-like-building-fingers-interlaced
+    refs:
+    - Jāmiʿ 10:1934.2
+    note: المؤمن للمؤمن كالبنيان، يشدُّ بعضه بعضًا" وشبك بين أصابعه
+  - motif: leans-on-beam-as-if-angry-fingers-interlaced
+    refs:
+    - Jāmiʿ 10:1934.3
+    note: فقام إلى خَشَبةٍ معروضةٍ في المسجد فاتكأ عليها كأنَّه غَضْبانَ ووضع يدَه اليُمنى على يده اليسرى، وشبك بين أصابعه
+  - motif: people-mixed-like-interlaced-fingers-keep-to-your-house
+    refs:
+    - Jāmiʿ 10:1935.1
+    note: إذا رأيتُم الناسَ قد مرجتْ عهودهم، وخفّت أماناتُهم، وكانوا هكذا" وشبك بين أصابعه ... الزم بيتك، وأملك عليك لسانك،
+      وخُذ بما تعرف، ودع ما تنكر، وعليك بأمر خاصة نفسك، ودع عنك أمر العامة
+  - motif: no-interlacing-on-way-to-prayer
+    refs:
+    - Jāmiʿ 10:1935.2
+    note: من توضأ ثم خرج بريد الصلاة فهو في صلاة حتى يرجع إلى بيته فلا تقولوا هكذا" وشبك بين أصابعه
+- id: hadith-10-spitting-in-the-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Spitting in the mosque: not toward the qibla or the right, but left or under the left foot, or into the garment;
+    burial its expiation; the prophet scrapes it off and perfumes the place; the imam who spat deposed'
+  read:
+  - Jāmiʿ 10:1936.1-1942.3
+  tags:
+  - motif: no-spitting-forward-god-is-before-his-face
+    refs:
+    - Jāmiʿ 10:1936.1
+    - Jāmiʿ 10:1938.1
+    - Jāmiʿ 10:1938.3
+    - Jāmiʿ 10:1939.3
+    - Jāmiʿ 10:1940.4
+    - Jāmiʿ 10:1942.1
+    note: إن أحدكم إذا قام في صلاته، فإنه يناجي ربه، أو إن ربه بينه وبين القِبْلَة، فلا يَبْزُقَنَّ أحدكم قِبَلَ قبلتِه ...
+      فلا يبصُق قِبَل وجهه، فإن الله ﵎ قِبَلَ وجهه إذا صلي ... إنَّ أحدكم إذا استقبل القبلة فإنَّما يستقبل ربّه ﷿ ... ما بال
+      أحدكم يقوم مستقبلَ ربِّه فيتنخَّعُ أمامه؟ ... إن أحدكم إذا قام يُصَلِّي فإن الله قِبَل وجهه، فلا يَبْصُقَنَّ قِبَل وجهه
+      ... إن الرجل إذا قام يُصلي أقبل الله عليه بوجهه
+  - motif: no-spitting-ahead-or-right-angel-on-right
+    refs:
+    - Jāmiʿ 10:1938.3
+    - Jāmiʿ 10:1939.2
+    note: والملك عن يمينه، فلا يتفُل عن يمينه، ولا في قبلته ... ولا عن يمينه، فإن عن يمينه ملَكًا
+  - motif: spit-to-left-or-under-left-foot
+    refs:
+    - Jāmiʿ 10:1936.1
+    - Jāmiʿ 10:1938.2
+    - Jāmiʿ 10:1939.1
+    - Jāmiʿ 10:1939.2
+    - Jāmiʿ 10:1940.4
+    - Jāmiʿ 10:1941.2
+    - Jāmiʿ 10:1942.2
+    note: ولكن عن يساره، أو تحت قدميه ... ولكن عن يساره، أو تحت قدمه اليُسرى ... ولْيبصُق عن يساره، أو تحت قدمه اليسرى ...
+      وليبصق عن يساره، أو تحت قدمه فيدفنُها ... وليبصُق عن يساره تحت رجله اليُسرى ... ولكن عن تلقاء يساره إن كان فارغًا، أو
+      تحت قدمه اليُسرى ... ولكن عن يساره، أو تحت قدمه
+  - motif: spit-into-garment-and-fold-it
+    refs:
+    - Jāmiʿ 10:1936.1
+    - Jāmiʿ 10:1938.3
+    - Jāmiʿ 10:1939.3
+    - Jāmiʿ 10:1940.4
+    - Jāmiʿ 10:1940.1
+    note: 'ثم أخذ طرف ردائه فبصق فيه، ثم رد بعضه على بعض فقال: "أو يفعلُ هكذا ... أن يتفل في ثوبه ثم يرد بعضه على بعض ...
+      فتفلَ في ثوبه، ثم مسح بعضَه على بعض ... فليقُل بثوبه هكذا ووضعه على فيه، ثم دَلكه ... فليبزق في ثوبه، ثم ليخرج به'
+  - motif: spitting-in-mosque-a-sin-burying-it-the-expiation
+    refs:
+    - Jāmiʿ 10:1936.2
+    - Jāmiʿ 10:1940.1
+    note: البزاق في المسجد خِطِيئة، وكَفَّارتُها دَفْنُها ... فليحِفر فليدفِنْه
+  - motif: prophet-scrapes-spittle-off-qibla-wall
+    refs:
+    - Jāmiʿ 10:1936.1
+    - Jāmiʿ 10:1937.2
+    - Jāmiʿ 10:1938.1
+    - Jāmiʿ 10:1938.2
+    - Jāmiʿ 10:1939.1
+    - Jāmiʿ 10:1940.4
+    note: فقام فحكَّه بيده ... مُخاطًا أو بُصاقًا، أو نُخامةً فحكَّه ... رأي بصاقًا في جدار القِبلة فحكَّه ... فحكَّها بحصاةٍ
+      ... فتناول حصاة فحكَّها ... فأقبل عليها فحتَّها بالعرجون
+  - motif: perfume-put-where-the-sputum-was
+    refs:
+    - Jāmiʿ 10:1937.1
+    - Jāmiʿ 10:1940.4
+    note: 'فقامت امرأة من الأنصار فحكَّتْها، وجعلت مكانها خلوقًا. فقال رسول الله ﷺ: ما أحسن هذا؟ ... أروني عبيرًا" فقام فتّى
+      من الحي يشتد إلى أهله فجاء بخلوق في راحته، فأخذه رسول الله ﷺ فجعله على رأس العرجون، ثم لطخ به على أثر النُخامة. قال
+      جابر: فمن هنا جعلتم الخلوق في مساجدكم'
+  - motif: would-you-like-to-be-spat-at-in-the-face
+    refs:
+    - Jāmiʿ 10:1938.3
+    - Jāmiʿ 10:1939.3
+    - Jāmiʿ 10:1940.4
+    note: أيسُرّ أحدكم أن يُبصق في وجهه؟ ... أيُحبّ أحدُكم أن يُستقبلَ فَيُتَنَخَّعَ في وجههِ؟ ... أيُّكم يُحب أن يُعرِضَ
+      الله عنه بوجهه؟
+  - motif: unburied-sputum-among-bad-deeds-harm-removed-among-good
+    refs:
+    - Jāmiʿ 10:1940.2
+    note: عُرضت عليَّ أعمال أمتي، حسنُها وسيّئُها، فوجدت في محاسن أعمالِها الأذي يُماط عن الطريق. ووجدت في مساوئِ أعمالها
+      النُخاعةَ تكون في المسجد لا تُدفن
+  - motif: rubs-sputum-with-left-sandal
+    refs:
+    - Jāmiʿ 10:1940.3
+    note: فرأيته تنخَّع فدلكها بنعْلِه
+  - motif: loves-date-stalks-always-one-in-hand
+    refs:
+    - Jāmiʿ 10:1938.3
+    - Jāmiʿ 10:1940.4
+    note: كان يحب العراجين ولا يزال في يده منها ... وفي يده عُرجون ابن طاب
+  - motif: imam-who-spat-toward-qibla-barred-from-leading
+    refs:
+    - Jāmiʿ 10:1941.1
+    note: 'أن رجلًا أمّ قومًا فبصق في القبلة، ورسول الله ﷺ ينظر، فقال رسول الله ﷺ حين فرغ: "لا يُصلِّي لكم" ... إنك آذيت الله
+      ورسوله'
+  - motif: god-faces-worshipper-until-he-turns-or-breaks-purity
+    refs:
+    - Jāmiʿ 10:1942.1
+    note: إن الرجل إذا قام يُصلي أقبل الله عليه بوجهه، حتى ينقلب أو يحدِثَ حدث سُوءٍ
+  - motif: hide-sputum-lest-it-touch-a-believer
+    refs:
+    - Jāmiʿ 10:1942.3
+    note: إذا تنخَّم أحدُكم في المسجد، فليغَيِّبْ نُخامتَه أن تصيب جِلْد مؤمن، أو ثوبَه فتؤذَيَه

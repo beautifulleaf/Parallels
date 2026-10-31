@@ -1,0 +1,946 @@
+# Observation records, hadith chunk 35 (al-Jāmiʿ al-Kāmil book 9 pp. 1823-1890 and book 10 pp. 1891-1942):
+# forenoon, rain and eclipse prayers, prostrations; mosques.
+records:
+- id: h-1823.1-once
+  ref: Jāmiʿ 9:1823.1
+  unit: hadith-9-forenoon-prayer-on-return
+  agent: Abu Hurayra
+  action: saw the prophet pray the forenoon prayer
+  number: 1
+  quoted: illā marratan wāḥidatan
+- id: h-1824.1-absence
+  ref: Jāmiʿ 9:1824.1
+  unit: hadith-9-forenoon-prayer-on-return
+  agent: the prophet
+  action: prays the forenoon prayer
+  time: only on return from an absence
+  quoted: illā an yajīʾa min maghībihi
+- id: h-1824.3-eight
+  ref: Jāmiʿ 9:1824.3
+  unit: hadith-9-forenoon-prayer-on-return
+  agent: the prophet
+  action: prays the forenoon prayer
+  place: on a journey
+  number: 8
+  quoted: ṣalāt raghba wa-rahba
+- id: h-1824.3-three
+  ref: Jāmiʿ 9:1824.3
+  unit: hadith-9-forenoon-prayer-on-return
+  agent: the prophet
+  action: asks his Lord three things for his community
+  outcome: two granted (no famine years, no outside enemy), one refused (that they not be split into factions)
+  number: 3
+  quoted: an lā yalbisahum shiyaʿan fa-abā ʿalayya
+- id: h-1825.1-ibnumar
+  ref: Jāmiʿ 9:1825.1
+  unit: hadith-9-forenoon-prayer-on-return
+  agent: Ibn Umar
+  action: denies praying the forenoon prayer, for himself, Umar, Abu Bakr and the prophet
+  quoted: lā ikhāluhu
+- id: h-1825.3-fisal
+  ref: Jāmiʿ 9:1825.3
+  unit: hadith-9-prayer-of-the-oft-returning
+  agent: Zayd b. Arqam
+  action: names the time of the prayer of the oft-returning
+  time: when the young camels' feet burn on the hot sand
+  place: Quba'
+  quoted: ṣalāt al-awwābīn idhā ramiḍat al-fiṣāl
+- id: h-1827.1-horns
+  ref: Jāmiʿ 9:1827.1
+  unit: hadith-9-prayer-of-the-oft-returning
+  agent: the prophet
+  action: forbids prayer until the sun has risen high
+  object: the rising sun
+  quoted: taṭluʿu bayna qarnay shayṭān wa-ḥīnaʾidhin yasjudu lahā l-kuffār
+- id: h-1829.1-humble
+  ref: Jāmiʿ 9:1829.1
+  unit: hadith-9-rain-prayer-form
+  agent: the prophet
+  action: goes out to pray for rain
+  place: the prayer ground (al-muṣallā)
+  quoted: mutabaddhilan mutawāḍiʿan mutaḍarriʿan
+  number: 2
+- id: h-1830.1-cloak
+  ref: Jāmiʿ 9:1830.1
+  unit: hadith-9-rain-prayer-form
+  agent: the prophet
+  action: turns his cloak over
+  object: his cloak
+  place: the prayer ground
+  quoted: jaʿala l-yamīn ʿalā l-shimāl
+- id: h-1832.1-aloud
+  ref: Jāmiʿ 9:1832.1
+  unit: hadith-9-rain-prayer-form
+  agent: the prophet
+  action: prays two rakʿas reciting aloud after supplicating
+  number: 2
+  quoted: jahara fīhimā bi-l-qirāʾa
+- id: h-1833.1-pulpit
+  ref: Jāmiʿ 9:1833.1
+  unit: hadith-9-rain-prayer-supplications
+  agent: the prophet
+  action: prays for rain from a pulpit set in the prayer ground
+  time: the appointed day, when the edge of the sun appears
+  quoted: anta l-ghaniyyu wa-naḥnu l-fuqarāʾ
+- id: h-1833.1-laughs
+  ref: Jāmiʿ 9:1833.1
+  unit: hadith-9-rain-prayer-supplications
+  agent: the prophet
+  action: laughs till his molars show
+  object: the people's haste to shelter (al-kinn)
+  outcome: testifies God is able over all things
+  quoted: ḍaḥika ḥattā badat nawājidhuhu
+- id: h-1833.2-rain
+  ref: Jāmiʿ 9:1833.2
+  unit: hadith-9-rain-prayer-supplications
+  agent: the prophet
+  action: prays for rain
+  outcome: rain until houses fall; 'around us, not upon us'; the cloud breaks off right and left
+  quoted: ḥawālaynā wa-lā ʿalaynā
+- id: h-1834.2-bedouin
+  ref: Jāmiʿ 9:1834.2
+  unit: hadith-9-rain-prayer-supplications
+  agent: a bedouin
+  action: complains of drought
+  object: herdsman with no provision, stallion that does not stir
+  outcome: all who come say 'we have been revived'
+  quoted: mā yatazawwadu lahum rāʿin wa-lā yakhṭiru lahum faḥl
+- id: h-1834.3-beasts
+  ref: Jāmiʿ 9:1834.3
+  unit: hadith-9-rain-prayer-supplications
+  agent: the prophet
+  action: prays for rain
+  recipient: God's servants and beasts
+  quoted: wa-aḥyi baladaka l-mayyit
+- id: h-1835.2-hands
+  ref: Jāmiʿ 9:1835.2
+  unit: hadith-9-rain-prayer-hands
+  agent: the prophet
+  action: raises his hands
+  time: only in the rain prayer
+  outcome: the white of his armpits is seen
+  quoted: lā yarfaʿu yadayhi fī shayʾin min duʿāʾihi illā fī l-istisqāʾ
+- id: h-1835.4-zayt
+  ref: Jāmiʿ 9:1835.4
+  unit: hadith-9-rain-prayer-hands
+  agent: the prophet
+  action: prays for rain standing, palms toward his face
+  place: Aḥjār al-Zayt near al-Zawrāʾ
+  name: Aḥjār al-Zayt
+  quoted: lā yujāwizu bihimā raʾsahu
+- id: h-1838.1-backs
+  ref: Jāmiʿ 9:1838.1
+  unit: hadith-9-rain-prayer-hands
+  agent: the prophet
+  action: points to the sky
+  instrument: the backs of his hands
+  quoted: fa-ashāra bi-ẓahr kaffayhi ilā l-samāʾ
+- id: h-1838.2-shield
+  ref: Jāmiʿ 9:1838.2
+  unit: hadith-9-rain-at-friday-sermon
+  agent: a cloud
+  action: rises and spreads
+  place: from behind Mount Salʿ
+  outcome: rain; no sun for six days
+  number: 6
+  quoted: saḥābatun mithlu l-turs
+- id: h-1838.2-aghithna
+  ref: Jāmiʿ 9:1838.2
+  unit: hadith-9-rain-at-friday-sermon
+  agent: the prophet
+  action: cries for rain three times
+  place: the pulpit, at the Friday sermon
+  number: 3
+  quoted: allāhumma aghithnā
+- id: h-1838.2-hilltops
+  ref: Jāmiʿ 9:1838.2
+  unit: hadith-9-rain-at-friday-sermon
+  agent: the prophet
+  action: redirects the rain
+  object: the rain
+  recipient: hilltops, valley beds, tree roots
+  outcome: the cloud splits off Medina like a garment
+  quoted: ẓuhūr al-jibāl wa-l-ākām wa-buṭūn al-awdiya wa-manābit al-shajar
+- id: h-1839.1-beard
+  ref: Jāmiʿ 9:1839.1
+  unit: hadith-9-rain-at-friday-sermon
+  agent: the prophet
+  action: sees the rain run down his beard
+  place: the pulpit
+  quoted: yataḥādaru ʿalā liḥyatihi
+- id: h-1839.1-qanat
+  ref: Jāmiʿ 9:1839.1
+  unit: hadith-9-rain-at-friday-sermon
+  agent: the valley of Qanāt
+  action: flows
+  time: a month
+  name: Qanāt
+  quoted: sāla l-wādī wādī qanāt shahran
+- id: h-1841.2-people
+  ref: Jāmiʿ 9:1841.2
+  unit: hadith-9-turning-the-cloak
+  agent: the people
+  action: turn their cloaks with the prophet
+  time: when he turns to the qibla
+  quoted: wa-taḥawwala l-nās maʿahu
+- id: h-1842.1-khamisa
+  ref: Jāmiʿ 9:1842.1
+  unit: hadith-9-turning-the-cloak
+  agent: the prophet
+  action: tries to set the lower edge of his cloak on top
+  object: a black khamīṣa
+  outcome: too heavy, he turns it over on his shoulders
+  quoted: fa-lammā thaqulat qalabahā ʿalā ʿātiqihi
+- id: h-1842.2-abbas
+  ref: Jāmiʿ 9:1842.2
+  unit: hadith-9-rain-through-abbas-and-for-mudar
+  agent: Umar b. al-Khattab
+  action: asks God for rain through the prophet's uncle
+  name: al-ʿAbbās b. ʿAbd al-Muṭṭalib
+  outcome: they are given rain
+  quoted: natawassalu ilayka bi-ʿammi nabiyyinā
+- id: h-1842.3-smoke
+  ref: Jāmiʿ 9:1842.3
+  unit: hadith-9-rain-through-abbas-and-for-mudar
+  agent: Quraysh
+  action: see the sky as smoke from hunger
+  time: years like the years of Joseph
+  outcome: they eat bones
+  quoted: ka-hayʾat al-dukhān min al-jahd
+- id: h-1842.3-mudar
+  ref: Jāmiʿ 9:1842.3
+  unit: hadith-9-rain-through-abbas-and-for-mudar
+  agent: the prophet
+  action: prays for rain for Mudar
+  outcome: rain, then they return to their ways; the great assault is Badr
+  name: Muḍar
+  quoted: li-muḍar? innaka la-jarīʾ
+- id: h-1844.2-ibrahim
+  ref: Jāmiʿ 9:1844.2
+  unit: hadith-9-eclipse-two-signs
+  agent: the people
+  action: say the sun eclipsed for a death
+  time: the day Ibrāhīm the prophet's son died
+  name: Ibrāhīm
+  outcome: 'the prophet: sun and moon do not eclipse for anyone''s death or life'
+  quoted: lā yankasifāni li-mawti aḥadin wa-lā li-ḥayātihi
+- id: h-1844.4-hour
+  ref: Jāmiʿ 9:1844.4
+  unit: hadith-9-eclipse-two-signs
+  agent: the prophet
+  action: rises in alarm and goes to the mosque
+  time: a solar eclipse
+  outcome: prays with the longest standing, bowing and prostration
+  quoted: yakhshā an takūna l-sāʿa
+- id: h-1845.1-call
+  ref: Jāmiʿ 9:1845.1
+  unit: hadith-9-eclipse-two-bowings
+  agent: a crier
+  action: calls to the eclipse prayer
+  quoted: al-ṣalātu jāmiʿa
+  outcome: two bowings in each prostration
+- id: h-1846.1-cluster
+  ref: Jāmiʿ 9:1846.1
+  unit: hadith-9-eclipse-two-bowings
+  agent: the prophet
+  action: reaches for a cluster of grapes in paradise, then steps back
+  object: a cluster of grapes (ʿunqūd)
+  outcome: had he taken it they would eat from it as long as the world lasts
+  quoted: la-akaltum minhu mā baqiyat al-dunyā
+- id: h-1846.1-women
+  ref: Jāmiʿ 9:1846.1
+  unit: hadith-9-eclipse-two-bowings
+  agent: the prophet
+  action: sees most of the fire's people are women
+  outcome: for ingratitude to the husband and to kindness
+  quoted: yakfurna l-ʿashīr wa-yakfurna l-iḥsān
+- id: h-1847.1-cat
+  ref: Jāmiʿ 9:1847.1
+  unit: hadith-9-eclipse-two-bowings
+  agent: a woman of the Israelites
+  action: is punished in the fire
+  object: a cat she tied up and did not feed
+  place: the fire
+  quoted: rabaṭathā fa-lam tuṭʿimhā
+- id: h-1847.1-amr
+  ref: Jāmiʿ 9:1847.1
+  unit: hadith-9-eclipse-two-bowings
+  agent: Abū Thumāma ʿAmr b. Mālik
+  action: drags his entrails
+  place: the fire
+  name: Abū Thumāma ʿAmr b. Mālik
+  quoted: yajurru quṣbahu fī l-nār
+- id: h-1847.1-fall
+  ref: Jāmiʿ 9:1847.1
+  unit: hadith-9-eclipse-two-bowings
+  agent: worshippers
+  action: fall down from the long standing
+  time: a day of severe heat
+  number: 4
+  quoted: ḥattā jaʿalū yakhirrūn
+- id: h-1848.2-arrows
+  ref: Jāmiʿ 9:1848.2
+  unit: hadith-9-eclipse-two-bowings
+  agent: ʿAbd al-Raḥmān b. Samura
+  action: throws down his arrows
+  object: his arrows
+  time: when the sun eclipses
+  quoted: fa-nabadhtuhunna
+- id: h-1849.1-six
+  ref: Jāmiʿ 9:1849.1
+  unit: hadith-9-eclipse-three-and-four-bowings
+  agent: the prophet
+  action: prays the eclipse prayer
+  number: 6 bowings, 4 prostrations
+  time: the day Ibrāhīm died
+  quoted: sitta rakaʿātin bi-arbaʿi sajadāt
+- id: h-1849.1-mihjan
+  ref: Jāmiʿ 9:1849.1
+  unit: hadith-9-eclipse-three-and-four-bowings
+  agent: the man of the crook
+  action: drags his entrails in the fire
+  instrument: a crook (miḥjan)
+  object: pilgrims' goods
+  quoted: innamā taʿallaqa bi-miḥjanī
+- id: h-1849.1-rows
+  ref: Jāmiʿ 9:1849.1
+  unit: hadith-9-eclipse-three-and-four-bowings
+  agent: the prophet
+  action: steps back for fear of the fire's blast; the rows step back to the women
+  outcome: steps forward again when paradise is brought
+  quoted: makhāfata an yuṣībanī min lafḥihā
+- id: h-1850.2-eight
+  ref: Jāmiʿ 9:1850.2
+  unit: hadith-9-eclipse-three-and-four-bowings
+  agent: the prophet
+  action: prays the eclipse prayer
+  number: 8 bowings, 4 prostrations
+  quoted: thamāniya rakaʿātin fī arbaʿi sajadāt
+- id: h-1851.1-yasin
+  ref: Jāmiʿ 9:1851.1
+  unit: hadith-9-eclipse-three-and-four-bowings
+  agent: ʿAlī b. Abī Ṭālib
+  action: leads the eclipse prayer, four bowings in each rakʿa
+  object: Yā Sīn
+  quoted: fa-qaraʾa yā sīn aw naḥwahā
+- id: h-1855.1-estimated
+  ref: Jāmiʿ 9:1855.1
+  unit: hadith-9-eclipse-recitation
+  agent: Aisha
+  action: estimates the length of his recitation
+  object: Sūrat al-Baqara, then Āl ʿImrān
+  quoted: fa-ḥazartu qirāʾatahu
+- id: h-1854.1-mosques
+  ref: Jāmiʿ 9:1854.1
+  unit: hadith-9-eclipse-recitation
+  agent: the prophet
+  action: orders flight to the mosques at eclipse
+  quoted: fa-fzaʿū ilā l-masājid
+- id: h-1856.1-dir
+  ref: Jāmiʿ 9:1856.1
+  unit: hadith-9-eclipse-asma-and-aisha
+  agent: the prophet
+  action: takes a woman's shift by mistake
+  object: a shift (dirʿ)
+  outcome: his cloak is brought after him
+  quoted: fa-akhadha dirʿan ḥattā udrika bi-ridāʾihi
+- id: h-1856.1-older
+  ref: Jāmiʿ 9:1856.1
+  unit: hadith-9-eclipse-asma-and-aisha
+  agent: Asmāʾ bint Abī Bakr
+  action: keeps standing by looking at weaker women
+  recipient: a woman older and one sicker than she
+  quoted: hādhihi aḍʿafu minnī fa-aqūm
+- id: h-1857.1-water
+  ref: Jāmiʿ 9:1857.1
+  unit: hadith-9-eclipse-asma-and-aisha
+  agent: Asmāʾ bint Abī Bakr
+  action: pours water over her head
+  time: in the eclipse prayer, as a faint covers her
+  instrument: water
+  quoted: ḥattā tajallānī l-ghashy
+- id: h-1857.1-grave
+  ref: Jāmiʿ 9:1857.1
+  unit: hadith-9-eclipse-asma-and-aisha
+  agent: the prophet
+  action: announces the trial of the grave
+  object: '''what do you know of this man?'''
+  outcome: the believer told 'sleep, righteous'; the doubter says 'I heard people say something and said it'
+  quoted: nam ṣāliḥan fa-qad ʿalimnā in kunta la-mūqinan
+- id: h-1857.2-freeing
+  ref: Jāmiʿ 9:1857.2
+  unit: hadith-9-eclipse-asma-and-aisha
+  agent: the prophet
+  action: orders the freeing of slaves
+  time: the eclipse of the sun
+  quoted: amara bi-l-ʿatāqa fī kusūf al-shams
+- id: h-1858.1-jewess
+  ref: Jāmiʿ 9:1858.1
+  unit: hadith-9-eclipse-asma-and-aisha
+  agent: a Jewish woman
+  action: wishes Aisha refuge from the grave's punishment
+  recipient: Aisha
+  outcome: after the eclipse prayer the prophet orders refuge from the punishment of the grave
+  quoted: aʿādhaki llāhu min ʿadhāb al-qabr
+- id: h-1860.1-istikhara
+  ref: Jāmiʿ 9:1860.1
+  unit: hadith-9-istikhara
+  agent: one who intends a matter
+  action: prays two rakʿas beyond the obligatory and asks God's choice
+  number: 2
+  quoted: astakhīruka bi-ʿilmika wa-astaqdiruka bi-qudratika
+  outcome: names his need
+- id: h-1864.3-piles
+  ref: Jāmiʿ 9:1864.3
+  unit: hadith-9-prayer-of-the-sick
+  agent: the prophet
+  action: rules on the prayer of the sick
+  recipient: ʿImrān b. Ḥuṣayn, who had piles
+  outcome: standing, else sitting, else on the side; sitter half the stander's reward, lier half the sitter's
+  quoted: ṣalli qāʾiman fa-in lam tastaṭiʿ fa-qāʿidan fa-in lam tastaṭiʿ fa-ʿalā janb
+- id: h-1866.2-stick
+  ref: Jāmiʿ 9:1866.2
+  unit: hadith-9-prayer-of-the-sick
+  agent: the prophet
+  action: makes a sick man throw away the stick and the cushion he prostrates on
+  object: a stick (ʿūd) and a cushion
+  outcome: nod, prostration lower than bowing
+  quoted: wa-jʿal sujūdaka akhfaḍa min rukūʿika
+- id: h-1868.1-pillar
+  ref: Jāmiʿ 9:1868.1
+  unit: hadith-9-prayer-of-the-sick
+  agent: the prophet
+  action: sets up a pillar to lean on
+  place: his prayer place
+  time: when he grew old and heavy
+  quoted: lammā asanna wa-ḥamala l-laḥm
+- id: h-1868.1-wabisa
+  ref: Jāmiʿ 9:1868.1
+  unit: hadith-9-prayer-of-the-sick
+  agent: Wābiṣa
+  action: prays leaning on a staff
+  instrument: a staff
+  place: al-Raqqa
+  quoted: qalansuwa lāṭiʾa dhāt udhunayn wa-burnus khazz aghbar
+- id: h-1868.2-ship
+  ref: Jāmiʿ 9:1868.2
+  unit: hadith-9-ship-and-need
+  agent: the prophet
+  action: rules on prayer in a ship
+  place: a ship
+  outcome: pray standing unless you fear drowning
+  quoted: illā an takhāfa l-gharaq
+- id: h-1869.1-blind
+  ref: Jāmiʿ 9:1869.1
+  unit: hadith-9-ship-and-need
+  agent: a blind man
+  action: asks the prophet to pray for his healing
+  outcome: told to make ablution and pray through the prophet
+  quoted: atawajjahu ilayka bi-nabiyyika muḥammad nabiyyi l-raḥma
+- id: h-1878.2-satan
+  ref: Jāmiʿ 9:1878.2
+  unit: hadith-9-recitation-prostration-and-al-najm
+  agent: Satan
+  action: withdraws weeping
+  time: when a man prostrates at a prostration verse
+  outcome: '''he was ordered and obeyed and has paradise; I was ordered and refused and have the fire'''
+  quoted: yā waylah
+- id: h-1880.1-zayd
+  ref: Jāmiʿ 9:1880.1
+  unit: hadith-9-recitation-prostration-and-al-najm
+  agent: Zayd b. Thābit
+  action: recites al-Najm to the prophet
+  outcome: no prostration
+  quoted: fa-lam yasjud fīhā
+- id: h-1881.1-pebbles
+  ref: Jāmiʿ 9:1881.1
+  unit: hadith-9-recitation-prostration-and-al-najm
+  agent: an old man
+  action: raises a handful of pebbles or dust to his forehead instead of prostrating
+  place: Mecca
+  outcome: later killed an unbeliever
+  quoted: yakfīnī hādhā
+- id: h-1881.2-jinn
+  ref: Jāmiʿ 9:1881.2
+  unit: hadith-9-recitation-prostration-and-al-najm
+  agent: Muslims, idolaters, jinn and men
+  action: prostrate with the prophet
+  object: Sūrat al-Najm
+  quoted: wa-l-jinnu wa-l-ins
+- id: h-1883.1-atama
+  ref: Jāmiʿ 9:1883.1
+  unit: hadith-9-prostration-inshiqaq-iqra-sad
+  agent: Abu Hurayra
+  action: prostrates at al-Inshiqāq
+  time: the night prayer (al-ʿatama)
+  outcome: '''I will not stop until I meet him'''
+  quoted: lā azālu asjudu bihā ḥattā alqāhu
+- id: h-1883.4-david
+  ref: Jāmiʿ 9:1883.4
+  unit: hadith-9-prostration-inshiqaq-iqra-sad
+  agent: David
+  action: prostrated at Ṣād
+  outcome: in repentance; 'we prostrate in it in thanks'
+  name: Dāwūd
+  quoted: sajadahā nabiyyu llāhi dāwūdu tawbatan wa-sajadnāhā shukran
+- id: h-1884.1-pulpit
+  ref: Jāmiʿ 9:1884.1
+  unit: hadith-9-prostration-inshiqaq-iqra-sad
+  agent: the prophet
+  action: comes down from the pulpit to prostrate at Ṣād
+  place: the pulpit
+  quoted: innamā hiya tawbatu nabiyyin
+- id: h-1885.1-sal
+  ref: Jāmiʿ 9:1885.1
+  unit: hadith-9-prostration-formula-and-thanks
+  agent: a crier
+  action: shouts good news from the top of Mount Salʿ
+  recipient: Kaʿb b. Mālik
+  outcome: Kaʿb falls prostrate
+  place: Mount Salʿ
+  quoted: yā kaʿb ibn mālik abshir
+- id: h-1886.2-hamdan
+  ref: Jāmiʿ 9:1886.2
+  unit: hadith-9-prostration-formula-and-thanks
+  agent: the prophet
+  action: prostrates on reading ʿAlī's letter
+  object: the conversion of Hamdān
+  outcome: says 'peace on Hamdān' twice
+  name: Hamdān
+  number: 2
+  quoted: al-salāmu ʿalā hamdān
+- id: h-1888.1-mukhdaj
+  ref: Jāmiʿ 9:1888.1
+  unit: hadith-9-prostration-formula-and-thanks
+  agent: ʿAlī b. Abī Ṭālib and his men
+  action: fall prostrate on finding the man with the stunted hand
+  place: among the slain Khārijites
+  quoted: rajulan aswada mukhdaj al-yad fī yadihi shaʿarāt sūd
+- id: h-1889.1-sign
+  ref: Jāmiʿ 9:1889.1
+  unit: hadith-9-prostration-formula-and-thanks
+  agent: Ibn ʿAbbās
+  action: falls prostrate
+  time: when told a wife of the prophet has died
+  quoted: idhā raʾaytum āyatan fa-sjudū
+- id: h-1891.1-markets
+  ref: Jāmiʿ 10:1891.1
+  unit: hadith-10-mosques-and-markets-entering
+  agent: God
+  action: loves and hates places
+  object: mosques (dearest), markets (most hated)
+  quoted: aḥabbu l-bilād ilā llāh masājiduhā wa-abghaḍu l-bilād ilā llāh aswāquhā
+- id: h-1892.3-arrival
+  ref: Jāmiʿ 10:1892.3
+  unit: hadith-10-mosques-and-markets-entering
+  agent: the prophet
+  action: prays two rakʿas in the mosque before going home
+  time: on arrival from a journey, by day in the forenoon
+  number: 2
+  quoted: lā yaqdamu min safarin illā nahāran fī l-ḍuḥā
+- id: h-1893.3-satan
+  ref: Jāmiʿ 10:1893.3
+  unit: hadith-10-mosques-and-markets-entering
+  agent: Satan
+  action: says the man is guarded from him for the day
+  time: when one says the refuge formula entering the mosque
+  quoted: ḥufiẓa minnī sāʾir al-yawm
+- id: h-1895.3-bashbasha
+  ref: Jāmiʿ 10:1895.3
+  unit: hadith-10-waiting-in-the-mosque
+  agent: God
+  action: rejoices over the mosque-goer
+  recipient: one who settles in the mosques for prayer and remembrance
+  quoted: kamā yatabashbashu ahlu l-ghāʾib bi-ghāʾibihim
+- id: h-1896.1-hour
+  ref: Jāmiʿ 10:1896.1
+  unit: hadith-10-waiting-in-the-mosque
+  agent: ʿAbd Allāh b. Salām
+  action: names the Friday hour
+  time: the last hour of Friday
+  recipient: Abu Hurayra
+  quoted: hiya ākhiru sāʿatin min yawm al-jumʿa
+- id: h-1897.3-sirat
+  ref: Jāmiʿ 10:1897.3
+  unit: hadith-10-waiting-in-the-mosque
+  agent: God
+  action: guarantees safety and crossing of the bridge
+  recipient: one whose home is the mosques
+  place: al-ṣirāṭ
+  quoted: al-amna wa-l-jawāza ʿalā l-ṣirāṭ
+- id: h-1898.2-ismail
+  ref: Jāmiʿ 10:1898.2
+  unit: hadith-10-waiting-in-the-mosque
+  agent: the prophet
+  action: prefers sitting with those who remember God
+  object: freeing four of the sons of Ismāʿīl
+  number: 4
+  time: dawn prayer to sunrise; afternoon prayer to sunset
+  quoted: an uʿtiqa arbaʿatan min wuldi ismāʿīl
+- id: h-1899.1-boasts
+  ref: Jāmiʿ 10:1899.1
+  unit: hadith-10-waiting-in-the-mosque
+  agent: God
+  action: opens a gate of heaven and boasts to the angels
+  recipient: those waiting after the sunset prayer for the next
+  quoted: yubāhī bikum al-malāʾika
+- id: h-1901.1-qata
+  ref: Jāmiʿ 10:1901.1
+  unit: hadith-10-building-mosques
+  agent: God
+  action: builds a house in paradise
+  recipient: one who builds a mosque even as small as a sandgrouse's nest
+  quoted: ka-mafḥaṣi qaṭātin aw aṣghar
+- id: h-1899.2-uthman
+  ref: Jāmiʿ 10:1899.2
+  unit: hadith-10-building-mosques
+  agent: ʿUthmān b. ʿAffān
+  action: rebuilds the mosque against the people's dislike
+  outcome: cites the house in paradise
+  quoted: fa-karih al-nās dhālika
+- id: h-1902.2-boast
+  ref: Jāmiʿ 10:1902.2
+  unit: hadith-10-building-mosques
+  action: people vie in boasting over mosques
+  time: before the Hour
+  quoted: ḥattā yatabāhā l-nās fī l-masājid
+- id: h-1904.1-forty
+  ref: Jāmiʿ 10:1904.1
+  unit: hadith-10-first-mosque-and-the-kaaba
+  agent: the prophet
+  action: names the first mosques set on earth
+  object: the Sacred Mosque, then the Aqsa
+  time: forty years apart
+  number: 40
+  quoted: arbaʿūna sana
+- id: h-1904.2-pillars
+  ref: Jāmiʿ 10:1904.2
+  unit: hadith-10-first-mosque-and-the-kaaba
+  agent: the prophet
+  action: prays inside the Kaʿba
+  place: the Kaʿba, door shut
+  number: '6 pillars: 2 left, 1 right, 3 behind'
+  name: Usāma, Bilāl, ʿUthmān b. Ṭalḥa
+  quoted: wa-kāna l-baytu yawmaʾidhin ʿalā sittati aʿmida
+- id: h-1905.1-qibla
+  ref: Jāmiʿ 10:1905.1
+  unit: hadith-10-first-mosque-and-the-kaaba
+  agent: the prophet
+  action: supplicates in all the Kaʿba's sides without praying, then prays two rakʿas outside facing it
+  outcome: '''this is the qibla'''
+  quoted: hādhihi l-qibla
+- id: h-1906.2-four
+  ref: Jāmiʿ 10:1906.2
+  unit: hadith-10-first-mosque-and-the-kaaba
+  agent: ʿAlī b. Abī Ṭālib
+  action: proclaims four things at Minā
+  time: the day of sacrifice
+  number: 4
+  outcome: his voice goes hoarse
+  quoted: lā yaṭūfu bi-l-bayti ʿuryān
+- id: h-1907.1-garden
+  ref: Jāmiʿ 10:1907.1
+  unit: hadith-10-building-the-prophets-mosque
+  agent: the prophet
+  action: orders the site cleared for the mosque
+  object: graves of idolaters, ruins, palms
+  outcome: graves dug up, ruins levelled, palms cut and set as the qibla
+  quoted: fa-ṣaffū l-nakhla qiblata l-masjid
+- id: h-1907.1-chant
+  ref: Jāmiʿ 10:1907.1
+  unit: hadith-10-building-the-prophets-mosque
+  agent: the builders and the prophet
+  action: chant while carrying stones
+  quoted: allāhumma lā khayra illā khayru l-ākhira
+- id: h-1907.2-ammar
+  ref: Jāmiʿ 10:1907.2
+  unit: hadith-10-building-the-prophets-mosque
+  agent: ʿAmmār b. Yāsir
+  action: carries two bricks at a time
+  number: 2
+  outcome: '''the rebel party will kill him'''
+  quoted: tuqtuluhu l-fiʾa l-bāghiya
+- id: h-1908.1-pebbles
+  ref: Jāmiʿ 10:1908.1
+  unit: hadith-10-building-the-prophets-mosque
+  agent: the prophet
+  action: strikes the ground with a handful of pebbles
+  object: the mosque founded on piety
+  outcome: '''this mosque of yours'' (Medina)'
+  quoted: huwa masjidukum hādhā
+- id: h-1909.2-saddles
+  ref: Jāmiʿ 10:1909.2
+  unit: hadith-10-three-mosques-and-their-prayers
+  agent: the prophet
+  action: limits journeys of devotion
+  object: 'three mosques: his own, the Sacred Mosque, the Aqsa'
+  number: 3
+  quoted: lā tushaddu l-riḥālu illā ilā thalāthati masājid
+- id: h-1911.1-iliya
+  ref: Jāmiʿ 10:1911.1
+  unit: hadith-10-three-mosques-and-their-prayers
+  agent: Ḥumayl b. Baṣra
+  action: names the three mosques
+  name: Masjid Īliyāʾ
+  number: 3
+  quoted: lā tuḍrabu l-maṭāyā illā ilā thalāthati masājid
+- id: h-1913.2-thousand
+  ref: Jāmiʿ 10:1913.2
+  unit: hadith-10-three-mosques-and-their-prayers
+  agent: the prophet
+  action: ranks prayers by place
+  object: 'his mosque: a thousand; the Sacred Mosque: a hundred thousand'
+  number: 1000; 100000
+  quoted: afḍalu min miʾati alfi ṣalātin fīmā siwāh
+- id: h-1918.1-solomon
+  ref: Jāmiʿ 10:1918.1
+  unit: hadith-10-three-mosques-and-their-prayers
+  agent: Solomon son of David
+  action: asks God three things on finishing the temple
+  place: Jerusalem (bayt al-maqdis)
+  number: 3
+  outcome: judgment that hits the mark; a kingdom none after him should have; that whoever comes only to pray leave sinless
+    as the day his mother bore him
+  quoted: ka-yawmi waladathu ummuhu
+- id: h-1918.2-four
+  ref: Jāmiʿ 10:1918.2
+  unit: hadith-10-three-mosques-and-their-prayers
+  agent: the prophet
+  action: ranks a prayer in his mosque against Jerusalem
+  number: 4
+  quoted: afḍalu min arbaʿi ṣalawātin fīhi
+- id: h-1918.2-tether
+  ref: Jāmiʿ 10:1918.2
+  unit: hadith-10-three-mosques-and-their-prayers
+  action: a plot of land the length of a horse-tether in sight of Jerusalem is worth more than the world
+  object: a horse-tether's length of land (shaṭan farasihi)
+  place: in sight of Jerusalem
+  quoted: khayrun lahu min al-dunyā jamīʿan
+- id: h-1922.2-saturday
+  ref: Jāmiʿ 10:1922.2
+  unit: hadith-10-quba
+  agent: the prophet
+  action: visits Qubāʾ
+  time: every Saturday
+  instrument: riding or walking
+  place: Qubāʾ
+  quoted: kulla sabtin māshiyan wa-rākiban
+- id: h-1922.3-umra
+  ref: Jāmiʿ 10:1922.3
+  unit: hadith-10-quba
+  agent: one who prays at Qubāʾ
+  action: earns the equivalent of an ʿumra
+  place: the mosque of Qubāʾ
+  quoted: kāna lahu ʿadla ʿumra
+- id: h-1923.1-itban
+  ref: Jāmiʿ 10:1923.1
+  unit: hadith-10-house-mosques-and-the-church
+  agent: ʿItbān b. Mālik
+  action: asks the prophet to pray in his house to take the spot as his place of prayer
+  time: when he went blind and the valley flooded
+  outcome: the prophet prays two rakʿas there; khazīra served
+  quoted: ayna tuḥibbu an uṣalliya min baytika
+- id: h-1924.1-church
+  ref: Jāmiʿ 10:1924.1
+  unit: hadith-10-house-mosques-and-the-church
+  agent: the delegation of Banū Ḥanīfa (Ṭalq b. ʿAlī)
+  action: break their church and sprinkle its site with the prophet's ablution water
+  instrument: the prophet's ablution water in a skin (idāwa)
+  outcome: the church becomes a mosque; the monk says 'a call of truth' and vanishes
+  quoted: fa-ksirū bīʿatakum wa-nḍaḥū makānahā bi-hādhā l-māʾ
+- id: h-1926.2-curse
+  ref: Jāmiʿ 10:1926.2
+  unit: hadith-10-graves-as-mosques
+  agent: the prophet
+  action: curses Jews and Christians
+  object: graves of their prophets taken as mosques
+  time: in his last illness
+  outcome: his grave was not exposed
+  quoted: ittakhadhū qubūra anbiyāʾihim masājid
+- id: h-1926.3-khamisa
+  ref: Jāmiʿ 10:1926.3
+  unit: hadith-10-graves-as-mosques
+  agent: the prophet
+  action: throws a khamīṣa over his face and uncovers it
+  time: as death comes on
+  quoted: ṭafiqa yaṭraḥu khamīṣatan ʿalā wajhihi
+- id: h-1927.1-church
+  ref: Jāmiʿ 10:1927.1
+  unit: hadith-10-graves-as-mosques
+  agent: Umm Ḥabība and Umm Salama
+  action: describe a church with pictures
+  place: Abyssinia
+  name: Māriya (in Muslim's version, in the takhrij)
+  outcome: '''the worst of creation before God'''
+  quoted: banaw ʿalā qabrihi masjidan wa-ṣawwarū fīhi tilka l-ṣuwar
+- id: h-1927.2-five
+  ref: Jāmiʿ 10:1927.2
+  unit: hadith-10-graves-as-mosques
+  agent: the prophet
+  action: forbids taking graves as mosques
+  time: five days before his death
+  number: 5
+  quoted: innī anhākum ʿan dhālika
+- id: h-1928.1-turab
+  ref: Jāmiʿ 10:1928.1
+  unit: hadith-10-sleeping-and-tents-in-the-mosque
+  agent: the prophet
+  action: wipes dust off ʿAlī asleep in the mosque
+  recipient: ʿAlī b. Abī Ṭālib
+  name: Abū Turāb
+  quoted: qum abā turāb
+- id: h-1930.1-sad
+  ref: Jāmiʿ 10:1930.1
+  unit: hadith-10-sleeping-and-tents-in-the-mosque
+  agent: the prophet
+  action: pitches a tent in the mosque for Saʿd
+  place: the mosque
+  outcome: Saʿd's blood flows to the tent of Banū Ghifār; he dies there
+  name: Ḥibbān b. al-ʿAriqa (the archer)
+  quoted: fa-ḍaraba l-nabiyyu khaymatan fī l-masjid
+- id: h-1930.2-kite
+  ref: Jāmiʿ 10:1930.2
+  unit: hadith-10-sleeping-and-tents-in-the-mosque
+  agent: a kite (ḥudayyā)
+  action: snatches a red sash, taking it for meat
+  object: a girl's red leather sash
+  outcome: the slave woman accused and searched; the kite drops the sash; she becomes Muslim
+  quoted: fa-ḥasibathu laḥman fa-khaṭifathu
+- id: h-1931.1-door
+  ref: Jāmiʿ 10:1931.1
+  unit: hadith-10-sleeping-and-tents-in-the-mosque
+  agent: the prophet
+  action: sets a door aside for women
+  outcome: Ibn ʿUmar never entered by it
+  quoted: law taraknā hādhā l-bāb li-l-nisāʾ
+- id: h-1932.2-abyssinians
+  ref: Jāmiʿ 10:1932.2
+  unit: hadith-10-lying-play-and-dispute-in-mosque
+  agent: the Abyssinians
+  action: play in the mosque
+  recipient: Aisha watching
+  instrument: the prophet's cloak as a screen
+  quoted: yasturunī bi-ridāʾihi
+- id: h-1932.3-debt
+  ref: Jāmiʿ 10:1932.3
+  unit: hadith-10-lying-play-and-dispute-in-mosque
+  agent: the prophet
+  action: tells the creditor to drop half the debt
+  recipient: Kaʿb b. Mālik and Ibn Abī Ḥadrad
+  place: the mosque
+  outcome: half remitted, the rest paid
+  quoted: ḍaʿ min daynika hādhā
+- id: h-1933.1-sweeper
+  ref: Jāmiʿ 10:1933.1
+  unit: hadith-10-sweeper-captive-and-envoy
+  agent: the prophet
+  action: prays over the grave of the mosque's sweeper
+  recipient: a black man or woman who swept the mosque
+  place: the grave
+  quoted: a-fa-lā kuntum ādhantumūnī
+- id: h-1933.2-thumama
+  ref: Jāmiʿ 10:1933.2
+  unit: hadith-10-sweeper-captive-and-envoy
+  agent: the Muslims' horsemen
+  action: tie a captive chief to a pillar of the mosque
+  recipient: Thumāma b. Uthāl, lord of al-Yamāma
+  instrument: a pillar of the mosque
+  name: Thumāma b. Uthāl
+  quoted: fa-rabaṭūhu bi-sāriya min sawārī l-masjid
+- id: h-1933.3-dimam
+  ref: Jāmiʿ 10:1933.3
+  unit: hadith-10-sweeper-captive-and-envoy
+  agent: Ḍimām b. Thaʿlaba
+  action: rides into the mosque and adjures the prophet by God on each duty
+  place: the mosque
+  name: Ḍimām b. Thaʿlaba of Banū Saʿd b. Bakr
+  outcome: '''O God, yes''; he believes as envoy of his people'
+  quoted: anshuduka bi-llāh ... allāhumma naʿam
+- id: h-1934.2-building
+  ref: Jāmiʿ 10:1934.2
+  unit: hadith-10-interlacing-fingers
+  agent: the prophet
+  action: interlaces his fingers
+  object: believers as a building bracing itself
+  quoted: yashuddu baʿḍuhu baʿḍan
+- id: h-1935.1-fitna
+  ref: Jāmiʿ 10:1935.1
+  unit: hadith-10-interlacing-fingers
+  agent: the prophet
+  action: interlaces his fingers to show people in confusion
+  outcome: '''keep to your house, hold your tongue'''
+  quoted: wa-kānū hākadhā
+- id: h-1935.2-nointerlace
+  ref: Jāmiʿ 10:1935.2
+  unit: hadith-10-interlacing-fingers
+  agent: the prophet
+  action: forbids interlacing the fingers
+  time: on the way to prayer after ablution
+  quoted: fa-lā taqūlū hākadhā
+- id: h-1936.1-rida
+  ref: Jāmiʿ 10:1936.1
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: spits into the edge of his cloak and folds it over
+  instrument: his cloak
+  outcome: '''or let him do thus'''
+  quoted: thumma akhadha ṭarafa ridāʾihi fa-baṣaqa fīhi
+- id: h-1936.2-kaffara
+  ref: Jāmiʿ 10:1936.2
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: names spitting in the mosque a sin
+  outcome: its expiation is burying it
+  quoted: al-buzāq fī l-masjid khaṭīʾa wa-kaffāratuhā dafnuhā
+- id: h-1937.1-khaluq
+  ref: Jāmiʿ 10:1937.1
+  unit: hadith-10-spitting-in-the-mosque
+  agent: a woman of the Helpers
+  action: scrapes sputum off the qibla and puts perfume in its place
+  instrument: khalūq perfume
+  outcome: '''how fine is this!'''
+  quoted: wa-jaʿalat makānahā khalūqan
+- id: h-1939.2-angel
+  ref: Jāmiʿ 10:1939.2
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: forbids spitting ahead or to the right
+  outcome: spit left or under the foot and bury it
+  quoted: fa-inna ʿan yamīnihi malakan
+- id: h-1940.2-deeds
+  ref: Jāmiʿ 10:1940.2
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: is shown his community's deeds
+  object: harm removed from the road (good); unburied sputum in the mosque (bad)
+  quoted: al-nukhāʿa takūnu fī l-masjid lā tudfan
+- id: h-1940.3-sandal
+  ref: Jāmiʿ 10:1940.3
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: rubs out his sputum
+  instrument: his left sandal
+  quoted: fa-dalakahā bi-naʿlihi
+- id: h-1940.4-urjun
+  ref: Jāmiʿ 10:1940.4
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: scrapes sputum with a palm stalk and smears perfume on the spot
+  instrument: a palm stalk of Ibn Ṭāb dates; khalūq
+  outcome: '''from here you put khalūq in your mosques'''
+  place: the mosque of Banū Salima (Jābir's mosque)
+  quoted: arūnī ʿabīran
+- id: h-1941.1-imam
+  ref: Jāmiʿ 10:1941.1
+  unit: hadith-10-spitting-in-the-mosque
+  agent: the prophet
+  action: bars an imam who spat toward the qibla from leading
+  outcome: '''you have harmed God and his messenger'''
+  quoted: lā yuṣallī lakum
+- id: h-1942.1-shabath
+  ref: Jāmiʿ 10:1942.1
+  unit: hadith-10-spitting-in-the-mosque
+  agent: Ḥudhayfa
+  action: forbids Shabath b. Ribʿī to spit ahead
+  outcome: God faces the worshipper until he turns or commits a foul breach
+  quoted: aqbala llāhu ʿalayhi bi-wajhihi

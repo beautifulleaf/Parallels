@@ -1,0 +1,1518 @@
+# Hadith chunk 37: al-Jāmiʿ al-Kāmil book 12 (kitāb al-jumuʿa), its last hadith (p. 2063), and book 13 (kitāb al-janāʾiz),
+# Shamela pp. 2069-2182 (printed 4/5-118): patience under the death of children and in illness, sickness as expiation,
+# visiting the sick and the charms said over them, the dying (prompting, the qibla, the last word, the angels who take
+# the soul, loving the meeting with God), wishing for death, sudden death, closing the eyes, announcing a death and
+# condolence. Read in full from the Arabic (182 hadith). Pp. 2065-2068 are the title and imprint pages of vol. 4.
+new_motifs:
+  dozing-on-friday-change-seat:
+    label: Whoever dozes on Friday (during the sermon) should move from that seat of his
+    cluster: ritual
+  fire-touches-only-to-fulfil-the-oath:
+    label: One who loses three children is touched by the fire only 'to fulfil the oath' (taḥillat al-qasam)
+    cluster: eschatology
+  dead-infants-tadpoles-of-paradise-pull-parent-in:
+    label: 'Dead little children are the ''tadpoles of paradise'' (daʿāmīṣ al-janna): one meets his father, takes hold of his garment''s hem and does not let go until God brings him and his father into paradise'
+    cluster: eschatology
+  buried-three-fenced-from-fire:
+    label: A mother who has buried three children has 'fenced herself with a strong fence (ḥiẓār) from the fire' / they are 'a fortified shield' (junna ḥaṣīna)
+    cluster: eschatology
+  parents-enter-paradise-by-mercy-for-children:
+    label: Parents of three children who died before puberty enter paradise (are forgiven) 'by the grace of his mercy toward them' (the children)
+    cluster: eschatology
+  woman-wishes-she-had-asked-about-one:
+    label: Told 'three, and two', the woman says 'would that I had said one!'
+    cluster: women
+  dead-son-opens-paradise-gate-for-father:
+    label: 'The man''s dead little son will be found at every gate of paradise, running to open it for his father; asked ''is it for him alone?'': ''for all of you'''
+    cluster: eschatology
+  no-reward-but-paradise-for-patient-loss:
+    label: God is content with no reward less than paradise (lam arḍa lahu thawāban dūna l-janna) for the servant who loses his beloved (ṣafiyy) or his two eyes and is patient
+    cluster: piety
+  raqub-redefined:
+    label: '''Whom do you count the bereaved (al-raqūb)?'' The one with no child: ''no, it is the one who has sent no child ahead (lā faraṭa lahu)'' / ''the raqūb is she whose children live'''
+    cluster: piety
+  children-refuse-paradise-without-parents:
+    label: On judgment day the children told to enter paradise refuse until their fathers and mothers enter; God sees them 'swollen with vexation' (muḥbanṭiʾīn) and says 'enter, you and your parents'
+    cluster: eschatology
+  prophet-forerunner-for-the-childless:
+    label: 'Two dead children (faraṭān) bring a man into paradise, or one; for one with none: ''I am the forerunner of my community; they will never be struck by a loss like me'''
+    cluster: eschatology
+  patience-at-first-blow:
+    label: 'A woman weeping at a grave rebuffs the prophet (''you were not struck by my calamity''); learning who he was she finds no doorkeepers at his door: ''patience is only at the first blow (al-ṣadma al-ūlā)'''
+    cluster: piety
+  sick-and-traveller-credited-usual-deeds:
+    label: When the servant falls ill or travels, there is written for him what he used to do when resident and healthy
+    cluster: piety
+  illness-as-gods-fetter-keep-writing:
+    label: God tells the guardian angels to keep writing the sick man's former good deeds 'as long as he is in my fetter (wathāqī)' / 'until I release him or gather him to me (akfitahu)'
+    cluster: angelology
+  patient-sufferer-rises-sinless-as-day-born:
+    label: The tried servant who praises God rises from his sickbed free of sins 'as the day his mother bore him'
+    cluster: piety
+  new-flesh-and-blood-for-uncomplaining-sick:
+    label: 'God: if my tried servant does not complain of me to his visitors I release him from my bonds and give him flesh and blood better than his own'
+    cluster: piety
+  mother-hides-sons-death-till-morning:
+    label: 'Abū Ṭalḥa''s son dies while he is out; his wife lays the body aside, answers ''his soul has calmed'', and tells him only after the night together; the prophet blesses their night: nine sons, all reciters of the Quran'
+    cluster: women
+  prophet-fevers-as-two-men:
+    label: '''I suffer fever as two men of you suffer'' (ūʿak ka-mā yūʿak rajulān); trial and reward are doubled for the prophets'
+    cluster: prophet-person
+  prophets-tried-by-poverty-and-lice:
+    label: A prophet would wear only a coarse cloak (ʿabāʾa) from need; a prophet was killed by lice; they rejoiced in trial as others in ease
+    cluster: prophecy
+  waterskin-hung-to-drip-on-feverish-prophet:
+    label: Women visiting the sick prophet find a waterskin hung over him dripping on him from the heat of fever
+    cluster: prophet-person
+  even-the-thorn-expiates:
+    label: No harm strikes the believer, even a thorn pricking him (ḥattā l-shawka yushākuhā), but God expiates his sins by it (and raises him a degree)
+    cluster: piety
+  worry-itself-expiates:
+    label: Fatigue, lasting pain, care, grief, harm and distress, 'even the worry he worries' (al-hamm yuhimmuhu), expiate the Muslim's sins
+    cluster: piety
+  god-was-sick-and-not-visited:
+    label: On judgment day God says 'son of Adam, I was sick and you did not visit me; I asked you for food and you did not feed me; I asked you to drink...'; 'had you visited him you would have found me with him'
+    cluster: theology
+  evil-recompensed-by-worldly-distress:
+    label: 'When ''whoever does evil is recompensed for it'' (Q 4:123) distresses the Muslims: every misfortune, even a stumble (nakba) or a thorn, is an expiation'
+    cluster: piety
+  trial-till-meets-god-without-sin:
+    label: Trial stays with the believer in self, child and wealth until he meets God with no sin on him
+    cluster: piety
+  fever-sent-to-the-dearest-people:
+    label: Fever comes to the prophet / asks leave ('Umm Mildam'); he sends it to the Helpers or to Qubāʾ; six days of it; they complain and he offers to pray it away or let it be a purification
+    cluster: prophet-person
+  choice-between-healing-and-paradise:
+    label: Offered 'if you wish I pray God to heal you, if you wish be patient and paradise is yours', the sufferer chooses patience
+    cluster: piety
+  headache-and-fever-leave-no-mustard-seed:
+    label: Fever in the bones (al-malīla) and headache stay with the servant whose sins are like Uḥud until not a mustard-seed's weight remains
+    cluster: piety
+  fever-removes-sins-as-bellows-dross:
+    label: '''Do not curse fever'': it removes the sins of the children of Adam as the bellows (al-kīr) removes the dross of iron / as fire the dross of gold and silver'
+    cluster: piety
+  illness-as-iron-in-fire:
+    label: 'The believer touched by fever is like a piece of iron put into the fire: its dross goes and its good remains'
+    cluster: piety
+  easy-reckoning-sins-shown-then-passed-over:
+    label: 'The easy reckoning: the man''s sins are shown him and then passed over; ''whoever is cross-examined in the reckoning perishes'''
+    cluster: eschatology
+  ubayy-prays-for-lifelong-fever:
+    label: Told that sicknesses are expiations 'even a thorn', Ubayy prays that fever never leave him, yet not keep him from pilgrimage, jihad or congregational prayer; whoever touched him felt its heat till he died
+    cluster: piety
+  afflicted-paid-without-scale-healthy-wish-skins-cut:
+    label: The martyr and the alms-giver stand for reckoning; for the afflicted no scale or register is set up and the reward is poured on them, till the healthy wish their bodies had been cut with shears
+    cluster: eschatology
+  epileptic-woman-chooses-patience-asks-not-to-be-uncovered:
+    label: A black woman who has seizures and becomes uncovered asks for prayer; she chooses patience and paradise and asks only that she not be uncovered, and he prays for that
+    cluster: women
+  seizure-sends-servant-up-pure:
+    label: No servant has a seizure from illness but God raises him from it pure
+    cluster: piety
+  two-beloveds-the-eyes:
+    label: 'God: ''when I try my servant in his two beloveds (ḥabībatayhi, his eyes) / two precious ones (karīmatayhi) and he is patient, I give him paradise in their stead'''
+    cluster: piety
+  rank-reached-by-trial-not-works:
+    label: A man has a rank with God he does not reach by works; God keeps trying him with what he hates until he brings him to it
+    cluster: piety
+  whom-god-wills-good-he-afflicts:
+    label: 'Whom God wills good for, he afflicts (yuṣib minhu); when God loves a people he tries them: who is patient has patience, who frets has fretting'
+    cluster: piety
+  punishment-hastened-for-whom-god-wills-good:
+    label: 'A man pawing a former prostitute is rebuffed (''God has taken away paganism''), turns and strikes his face on a wall: God hastens punishment for the one he wills good; the other comes on judgment day with his sin ''like a wild ass (ʿayr)'''
+    cluster: piety
+  rewarded-for-morsel-to-wifes-mouth:
+    label: The believer is rewarded in everything, 'even the morsel he raises to his wife's mouth'
+    cluster: piety
+  believer-tender-stalk-hypocrite-cedar:
+    label: The believer is like the tender stalk of grain (khāma, sunbula) the winds bend down and set upright; the hypocrite/unbeliever is like the firm cedar (arza) that nothing shakes until it is uprooted once
+    cluster: parable
+  oh-my-head-exchange:
+    label: 'Aisha cries ''oh my head!''; the prophet: ''if it happened while I live I would pray for you''; she: ''you would spend your last day with another wife''; he: ''rather, oh my head!'' and he thought to name Abu Bakr'
+    cluster: prophet-person
+  never-ill-man-of-the-fire:
+    label: 'A bedouin who never knew fever (''heat between skin and flesh'') or headache (''veins beating in the head''): ''whoever would see a man of the fire, let him look at this one'''
+    cluster: piety
+  never-ill-bride-declined:
+    label: 'A mother offers the prophet her beautiful daughter, adding that she has never had a headache or any illness: ''I have no need of your daughter'''
+    cluster: prophet-person
+  no-vein-twitches-but-for-sin:
+    label: No vein or eye twitches but for a sin, and what God wards off is more
+    cluster: piety
+  prophets-pain-severest:
+    label: Aisha never saw anyone on whom pain was harder than the prophet; after his death she dislikes hard death for no one
+    cluster: prophet-person
+  death-has-agonies:
+    label: 'Dying, the prophet dips his hands in a vessel of water, wipes his face and says ''no god but God; death has agonies (sakarāt)'', then raises his hand: ''in the highest companion'''
+    cluster: prophet-person
+  need-leads-man-to-land-of-death:
+    label: When a man's term is in a land, need makes him leap to it; at his furthest trace God takes him, and the earth says on judgment day 'Lord, this is what you deposited with me'
+    cluster: eschatology
+  visitor-of-sick-in-harvest-of-paradise:
+    label: Whoever visits a sick man stays in the fruit-gathering (khurfa) of paradise until he returns
+    cluster: piety
+  seventy-thousand-angels-pray-for-visitor:
+    label: Whoever visits his sick brother walks in paradise's harvest; seated, mercy covers him; seventy thousand angels pray for him till evening (or till morning)
+    cluster: angelology
+  visitor-wades-in-mercy:
+    label: The visitor of the sick wades in mercy, and when he sits he settles (is immersed) in it
+    cluster: piety
+  five-deeds-guaranteed-by-god:
+    label: 'Five whose doer has a guarantee on God: visiting the sick, going out with a funeral, raiding in God''s path, entering on a ruler to honour him, staying at home so people are safe from him'
+    cluster: piety
+  seven-commanded-seven-forbidden:
+    label: Seven commanded (following funerals, visiting the sick, answering the inviter, helping the wronged, fulfilling oaths, returning greetings, blessing the sneezer) and seven forbidden (silver vessels, gold ring, silk, brocade, qassī, istabraq)
+    cluster: law
+  rights-of-muslim-on-muslim:
+    label: 'The Muslim''s due from the Muslim, five (or four): return the greeting, visit the sick, follow funerals, answer invitations, bless the sneezer'
+    cluster: law
+  abu-bakr-four-deeds-one-day:
+    label: '''Who fasted today? followed a funeral? fed a poor man? visited a sick man?'' Abu Bakr: ''I'' each time; ''they never gather in a man but he enters paradise'''
+    cluster: piety
+  better-than-one-who-did-not-visit-sick:
+    label: 'Asked how he is: ''well, better than a man who did not wake fasting, did not visit a sick man, did not follow a funeral'''
+    cluster: piety
+  feed-hungry-visit-sick-free-captive:
+    label: '''Feed the hungry, visit the sick, free the captive (al-ʿānī)'''
+    cluster: law
+  funerals-remind-of-hereafter:
+    label: 'Visit the sick and walk with funerals: they remind you of the hereafter'
+    cluster: piety
+  tent-in-mosque-for-wounded-sad:
+    label: Saʿd is shot in the median arm-vein (al-akḥal) at the Trench by Ḥibbān b. al-ʿIriqa; the prophet pitches a tent in the mosque to visit him from near
+    cluster: prophet-person
+  visit-on-foot-without-shoes-or-caps:
+    label: Over ten companions go to visit Saʿd b. ʿUbāda with no sandals, socks, caps or shirts, walking the salt flats
+    cluster: piety
+  remove-the-harm-lord-of-people:
+    label: Visiting the sick, the prophet strokes with his right hand and says 'remove the harm, Lord of the people; heal, you are the Healer; no healing but yours, a healing that leaves no sickness'
+    cluster: ritual
+  earth-of-our-land-spittle-of-one-of-us:
+    label: 'For a wound or sore he touches his finger to the ground: ''in God''s name, the earth of our land with the spittle of one of us, our sick is healed by our Lord''s leave'''
+    cluster: ritual
+  burned-arm-spat-on-and-charmed:
+    label: A child whose arm is scalded by a cooking pot is brought by his mother; the prophet spits on it and says 'remove the harm, Lord of the people'
+    cluster: ritual
+  no-harm-purification-fever-boils:
+    label: '''No harm: a purification, God willing''; the sick bedouin: ''no, a fever boiling on an old man, that will make him visit the graves''; ''then yes'' (the prophet leaves him)'
+    cluster: prophet-person
+  seven-times-lord-of-the-mighty-throne:
+    label: Whoever sits at a sick man's head and says seven times 'I ask God the Mighty, Lord of the Mighty Throne, to heal you' is healed, unless his term has come
+    cluster: ritual
+  heal-him-to-wound-enemy-or-walk-to-funeral:
+    label: 'Visitor''s prayer: ''O God heal your servant: he will wound an enemy for you or walk for you to a funeral (prayer)'''
+    cluster: ritual
+  head-stroked-blessing-lasting-sight:
+    label: The prophet strokes the sick boy's head and prays for blessing; at ninety-four al-Sāʾib, still upright, credits his hearing and sight to that prayer
+    cluster: prophet-person
+  hand-on-forehead-coolness-on-liver:
+    label: 'The prophet puts his hand on Saʿd''s forehead, wipes his face and belly: ''O God heal Saʿd and complete his emigration''; Saʿd still feels its coolness on his liver'
+    cluster: prophet-person
+  hand-on-pain-seven-times-refuge-in-gods-might:
+    label: Put your hand where it hurts, say 'in God's name' three times and seven times 'I seek refuge in God's might and power from the evil of what I feel (and fear)', lifting and repeating it an odd number of times
+    cluster: ritual
+  ablution-water-poured-on-unconscious:
+    label: Finding Jābir unconscious the prophet performs ablution and pours his water on him; he wakes and asks about his property; no answer until the inheritance verse is revealed
+    cluster: prophet-person
+  visited-for-eye-ailment:
+    label: The prophet visits Zayd b. Arqam for pain in his eye
+    cluster: piety
+  prayer-for-punishment-in-this-world-rebuked:
+    label: 'A man wasted like a chick had prayed ''what you would punish me with in the hereafter, hasten it in this world''; ''Glory to God! you could not bear it; why not say: our Lord give us good in this world and good in the hereafter'''
+    cluster: piety
+  jewish-boy-converts-at-deathbed:
+    label: A sick Jewish boy (who served the prophet) is told 'become Muslim'; at his father's word 'obey Abu l-Qāsim' he does; 'praise God who saved him from the fire'; another dies after the two testimonies and the Muslims wash and bury him
+    cluster: polemic
+  prophet-attended-dying-then-dead-brought:
+    label: At first the prophet was called to the dying and waited for each death; to spare him they called him after death, then carried their dead to his house
+    cluster: ritual
+  teach-dying-no-god-but-god:
+    label: '''Prompt your dying (mawtākum / halkākum): no god but God'''
+    cluster: ritual
+  believers-soul-oozes-unbelievers-from-jaw:
+    label: The believer's soul comes out like sweat (rashḥan); the unbeliever's from his jaw as a donkey's soul comes out
+    cluster: eschatology
+  dying-man-faced-to-qibla:
+    label: 'al-Barāʾ b. Maʿrūr, dying before the prophet came, asks to be turned to the qibla and leaves him a third: ''he hit the natural way (al-fiṭra)''; the prophet returns the third to his children and prays over him'
+    cluster: ritual
+  last-word-no-god-but-god:
+    label: Whoever's last words are 'no god but God' enters paradise; a word that is light for his record and a rest (rawḥ) for body and soul at death
+    cluster: eschatology
+  maternal-uncle-say-no-god-but-god:
+    label: 'Visiting a man of Banū l-Najjār: ''Uncle (yā khāl), say no god but God''; ''am I maternal or paternal uncle?'' ''maternal''; ''is it good for me?'' ''yes'''
+    cluster: prophet-person
+  believer-dies-with-sweat-on-brow:
+    label: The believer dies with sweat on the brow (bi-ʿaraq al-jabīn)
+    cluster: eschatology
+  hope-and-fear-at-death:
+    label: 'A dying youth hopes in God and fears his sins: the two never meet in a heart at such a moment but God gives what he hopes and secures him from what he fears'
+    cluster: piety
+  kins-death-throes-are-his-good-deeds:
+    label: 'Aisha distressed over a relative strangled by death: ''do not grieve for him, that is among his good deeds'''
+    cluster: piety
+  prophet-covers-nose-at-stench-of-soul:
+    label: When the unbeliever's foul soul is described, the prophet draws his thin cloak (rayṭa) over his nose
+    cluster: eschatology
+  pray-ease-death-and-scant-world-for-believer:
+    label: O God, make meeting you dear to whoever believes in you and bears witness I am your messenger, ease your decree for him, give him little of the world; for the other the reverse
+    cluster: piety
+  death-better-than-trial-scant-wealth-less-reckoning:
+    label: 'Two things the son of Adam hates: death (better for the believer than trial, fitna) and little wealth (less to be reckoned for)'
+    cluster: piety
+  world-prison-of-believer:
+    label: '''The world is the believer''s prison and the unbeliever''s paradise'''
+    cluster: piety
+  remember-the-destroyer-of-pleasures:
+    label: '''Remember often the destroyer of pleasures (hādim al-ladhdhāt)'', that is death; said to Helpers laughing'
+    cluster: piety
+  brother-dead-later-prayers-as-heaven-and-earth:
+    label: Of two brothered men one is killed, the other dies a week later; 'where are his prayers after the other's prayers, his works after his works? between them is as between heaven and earth'
+    cluster: piety
+  if-wish-say-give-me-life-while-good:
+    label: Let none wish for death for a harm; if he must, let him say 'keep me alive while life is better for me and take me when death is better for me'
+    cluster: piety
+  cauterized-seven-times-would-pray-for-death:
+    label: Khabbāb, cauterized seven times, would pray for death but for the prophet's prohibition; the earlier companions went without the world diminishing their reward, 'we have got what finds no place but the dust'
+    cluster: piety
+  no-reward-for-what-is-put-in-the-earth:
+    label: The Muslim is rewarded for all he spends except what he puts in this dust (building beyond need)
+    cluster: piety
+  death-cuts-off-work:
+    label: 'Do not wish or pray for death before it comes: when one dies his work is cut off, and the believer''s life adds only good'
+    cluster: piety
+  terror-of-the-lookout:
+    label: 'Do not wish for death: ''the terror of the lookout (hawl al-muṭṭalaʿ) is severe''; happiness is a long life with turning back to God'
+    cluster: eschatology
+  alms-for-mother-who-died-suddenly:
+    label: '''My mother''s soul was snatched (uftulitat); I think had she spoken she would have given alms; has she a reward if I give for her?'' ''Yes'''
+    cluster: law
+  sudden-death-seizure-of-wrath:
+    label: '''Sudden death is a seizure of wrath (akhdhat asaf)'''
+    cluster: eschatology
+  soul-forced-out-unwilling:
+    label: 'God says to the soul ''go out!''; it: ''I will not go out except unwilling''; ''go out, even unwilling'''
+    cluster: eschatology
+  sight-follows-the-departing-soul:
+    label: 'The prophet closes Abu Salama''s staring eyes: ''when the spirit is taken, the sight follows it'' / ''that is when his sight follows his soul'''
+    cluster: eschatology
+  prayer-for-abu-salama:
+    label: '''O God forgive Abu Salama, raise his rank among the guided, be his successor among those left behind, widen his grave and light it'''
+    cluster: ritual
+  negus-death-announced-prayed-over-absent:
+    label: 'The prophet announces the Negus''s death on the day he died, goes to the prayer-ground, ranks the people and says four takbirs: ''ask forgiveness for your brother'''
+    cluster: ritual
+  deaths-of-commanders-announced-with-tears:
+    label: The prophet announces from the pulpit the deaths of Zayd, Jaʿfar and Ibn Rawāḥa in turn, eyes streaming, asking forgiveness for each; then Khālid took the banner unappointed
+    cluster: sira
+  pity-for-sad-ibn-khawla:
+    label: '''But the pitiable one is Saʿd b. Khawla'' (al-bāʾis), lamented by the prophet for having died in Mecca'
+    cluster: sira
+  three-days-then-no-weeping-orphans-heads-shaved:
+    label: 'The prophet leaves Jaʿfar''s family three days, then: ''weep no more for my brother after today''; the boys are brought ''like chicks'' and he calls a barber to shave their heads; ''I am their guardian in this world and the next'''
+    cluster: ritual
+  die-only-thinking-well-of-god:
+    label: '''Let none of you die except thinking well of God''; a companion asks the dying man ''how is your opinion of your Lord?'''
+    cluster: piety
+  hand-that-pledged-rubbed-on-eyes:
+    label: A dying man takes the right hand of a companion and rubs it over his eyes and face because with it he pledged allegiance to the prophet
+    cluster: prophet-person
+units:
+- id: hadith-12-dozing-friday-change-seat
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whoever dozes on Friday should change his seat
+  read:
+  - Jāmiʿ 12:2063.1
+  tags:
+  - motif: dozing-on-friday-change-seat
+    refs:
+    - Jāmiʿ 12:2063.1
+    note: إذا نعس أحدكم يوم الجمعة فليتحوَّل من مجلسه ذلك
+- id: hadith-13-three-children-screen-from-fire
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Three (or two) children who die are a screen from the fire; the women's own day; the tadpoles of paradise
+  read:
+  - Jāmiʿ 13:2069.1-2071.2
+  quran:
+  - 19:71
+  tags:
+  - motif: women-ask-a-day-of-their-own
+    refs:
+    - Jāmiʿ 13:2069.1
+    note: ذهب الرجالُ بحديثك، فاجعل لنا من نفسك يومًا نأتيكَ فيه
+  - motif: three-children-a-screen-from-fire-and-two
+    refs:
+    - Jāmiʿ 13:2069.1
+    - Jāmiʿ 13:2070.1
+    - Jāmiʿ 13:2070.2
+    note: ثلاثةً إلَّا كان لها حجابًا من النار ... واثنتين، واثنين، واثنين; لم يبلغوا الحِنثَ
+  - motif: fire-touches-only-to-fulfil-the-oath
+    refs:
+    - Jāmiʿ 13:2069.2
+    note: فتمسَّه النارُ إلَّا تحلَّة القسم
+  - motif: dead-infants-tadpoles-of-paradise-pull-parent-in
+    refs:
+    - Jāmiʿ 13:2070.3
+    note: صغارهم دعاميص الجنة، يتلقَّى أحدهم أباه ... فيأخذ بثوبه ... فلا ينتهي حتَّى يُدخِلَه الله وأباه الجنَّة
+  - motif: buried-three-fenced-from-fire
+    refs:
+    - Jāmiʿ 13:2071.1
+    note: فلقد دفنتُ ثلاثةً ... لقد احتظرتِ بحظارٍ شديدٍ من النار
+  - motif: parents-enter-paradise-by-mercy-for-children
+    refs:
+    - Jāmiʿ 13:2071.2
+    note: إلَّا أدخله الله الجنَّة بفضل رحمته إياهم
+- id: hadith-13-children-dead-more-reports
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Losing children: ''would I had said one'', the son at paradise''s gate, the raqub, the children who refuse paradise without their parents'
+  read:
+  - Jāmiʿ 13:2072.1-2077.1
+  tags:
+  - motif: woman-wishes-she-had-asked-about-one
+    refs:
+    - Jāmiʿ 13:2072.1
+    note: 'قالت المرأة: يا ليتني قلت واحدا'
+  - motif: dead-son-opens-paradise-gate-for-father
+    refs:
+    - Jāmiʿ 13:2072.2
+    note: ما يسرُّك أن لا تأتي بابًا من أبواب الجنَّة إلَّا وجدتَه عنده يسعى يفتح لك
+  - motif: no-reward-but-paradise-for-patient-loss
+    refs:
+    - Jāmiʿ 13:2072.3
+    note: إذا ذهب بصفيِّه من أهل الأرض، فصبر واحتسب ... بثواب دون الجنَّة
+  - motif: parents-enter-paradise-by-mercy-for-children
+    refs:
+    - Jāmiʿ 13:2073.1
+    note: ما من مسلمَين يموت بينهما ثلاثة أولادٍ لم يبلغوا الحِنْثَ إلَّا غَفَر الله لهما بفضل رحمته إياهم
+  - motif: three-children-dead-meet-parent-at-eight-gates
+    refs:
+    - Jāmiʿ 13:2073.2
+    note: إلَّا تلقَّوه من أبوابِ الجنَّة الثمانية، من أيِّها شاءَ دخلَ
+  - motif: buried-three-fenced-from-fire
+    refs:
+    - Jāmiʿ 13:2073.3
+    note: فإنَّه قد توفي لي ثلاثةٌ ... أمُنذ أَسلمْتِ؟
+  - motif: three-children-a-screen-from-fire-and-two
+    refs:
+    - Jāmiʿ 13:2074.1
+    - Jāmiʿ 13:2074.2
+    - Jāmiʿ 13:2075.2
+    note: 'من أُثْكِل ثلاثةً من صُلبه فاحتسبهم على الله; واثنان؟ قال: "واثنان"; فهم له سترٌ من النار'
+  - motif: raqub-redefined
+    refs:
+    - Jāmiʿ 13:2075.1
+    note: 'وأنا رقوب، لا يعيش لي ولد، فقال رسول الله ﷺ: "إنَّما الرَّقوب الذي يعيش ولدها'
+  - motif: children-refuse-paradise-without-parents
+    refs:
+    - Jāmiʿ 13:2077.1
+    note: يا ربِّ حتَّى يدخلَ آباؤنا وأمُّهاتنا ... ما لي أراهم مُحبنطِئين؟ ... ادخلوا الجنَّة أنتم وآباؤكم
+- id: hadith-13-one-child-forerunner-raqub
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: One child suffices; the prophet as forerunner of the childless; the raqub is the one with no forerunner
+  read:
+  - Jāmiʿ 13:2082.1-2083.3
+  tags:
+  - motif: no-reward-but-paradise-for-patient-loss
+    refs:
+    - Jāmiʿ 13:2082.1
+    note: ما لعبدي المؤمن عندي جزاء إذا قبضتُ صفيَّه من أهل الدنيا، ثمَّ احتسبه إلَّا الجنَّة
+  - motif: prophet-forerunner-for-the-childless
+    refs:
+    - Jāmiʿ 13:2082.2
+    note: من كان له فرطان من أمَّتي ... ومن كان له فرطٌ يا موفَّقة ... فأنا فرط أمَّتي، لن يُصابوا بمثلي
+  - motif: three-children-a-screen-from-fire-and-two
+    refs:
+    - Jāmiʿ 13:2083.1
+    note: ما من امرأةٍ تدفن ثلاثة أفراطٍ إلاّ كانوا لها حجابًا من النار ... ولم تسأله عن الواحد
+  - motif: raqub-redefined
+    refs:
+    - Jāmiʿ 13:2083.2
+    - Jāmiʿ 13:2083.3
+    note: ما تعُدُّون الرقوب فيكم؟ ... لا، بل الذي لا فرط له
+- id: hadith-13-patience-at-first-blow
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The woman weeping at the grave: patience is at the first blow'
+  read:
+  - Jāmiʿ 13:2084.1
+  tags:
+  - motif: patience-at-first-blow
+    refs:
+    - Jāmiʿ 13:2084.1
+    note: إليك عني، فإنَّك لم تُصب بمصيبتي ... فلم تجد عنده بوَّابين ... إنَّما الصبر عند الصدمة الأولى
+- id: hadith-13-umm-salama-replace-better
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Umm Salama's formula at calamity and Abu Salama replaced by the prophet
+  read:
+  - Jāmiʿ 13:2085.1
+  quran:
+  - 2:156
+  tags:
+  - motif: replace-for-me-better-at-calamity
+    refs:
+    - Jāmiʿ 13:2085.1
+    note: اللهم أجرني في مصيبتي، وأعقبني خيرًا منها ... ومن خير من أبي سلمة؟ . فأعقبها الله رسولَ الله ﷺ فتزوَّجها; فندعو الله أن يُغنيها عنها، وأدعو الله أن يذهب بالغيرة
+- id: hadith-13-sick-credited-former-deeds
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The sick and the traveller credited with their usual deeds; illness as God's fetter
+  read:
+  - Jāmiʿ 13:2086.1-2089.1
+  tags:
+  - motif: sick-and-traveller-credited-usual-deeds
+    refs:
+    - Jāmiʿ 13:2086.1
+    - Jāmiʿ 13:2088.1
+    note: إذا مرِض العبد أو سافر، كُتب له مثل ما كان يعمل مُقيمًا صحيحًا; اكتب له صالح عمله الذي كان يعمله
+  - motif: illness-as-gods-fetter-keep-writing
+    refs:
+    - Jāmiʿ 13:2087.1
+    - Jāmiʿ 13:2087.2
+    - Jāmiʿ 13:2088.2
+    note: اكتبوا لعبدي في كلِّ يومٍ وليلةٍ ما كان يعمل من خيرٍ، ما كان في وِثاقي; حتَّى أُطلِقَه أو أَكفِتَه إليَّ; اختموا له على مثل عمله حتَّى يبرأ أو يموت
+  - motif: patient-sufferer-rises-sinless-as-day-born
+    refs:
+    - Jāmiʿ 13:2088.3
+    note: فإنَّه يقوم من مضجعه ذلك كيوم ولدته أُمُّه من الخطايا ... أنا قيَّدتُ عبدي
+  - motif: new-flesh-and-blood-for-uncomplaining-sick
+    refs:
+    - Jāmiʿ 13:2089.1
+    note: ولم يشكني إلى عُوَّاده أطلقته من إِساري، ثمَّ أبدلته لحمًا خيرًا من لحمه، ودمًا خيرًا من دمه
+  - motif: suffering-sheds-sins-like-leaves
+    refs:
+    - Jāmiʿ 13:2088.1
+    note: فإن شفاه غسله وطهَّره، وإن قبضه غفر له ورحِمَه
+- id: hadith-13-abu-talha-son-dies
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Abū Ṭalḥa''s son dies: his wife conceals it till morning; the blessed night'
+  read:
+  - Jāmiʿ 13:2089.2
+  quran:
+  - 12:86
+  tags:
+  - motif: mother-hides-sons-death-till-morning
+    refs:
+    - Jāmiʿ 13:2089.2
+    note: قد هدأت نفسُه، وأرجو أن يكون قد استراح ... لعلَّ الله أن يُبارك لكما في ليلتكما ... فرأيتُ لهما تسعة أولادٍ كلُّهم قد قرأ القرآن
+  hints:
+  - The wife who hides her sons' death from her husband until he has eaten and rested, then breaks it gently, against Midrash Mishlei 31:10 (Beruriah and R. Meir's two sons, broken to him after the Sabbath meal with the parable of a returned deposit); the deposit parable is in Muslim's version, which the compiler quotes in his discussion, not in this matn.
+- id: hadith-13-prophets-most-tried
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prophets most severely tried; the prophet's double fever
+  read:
+  - Jāmiʿ 13:2091.1-2094.1
+  tags:
+  - motif: hardest-trial-prophets-then-the-next-best
+    refs:
+    - Jāmiʿ 13:2091.1
+    - Jāmiʿ 13:2092.2
+    - Jāmiʿ 13:2093.1
+    - Jāmiʿ 13:2093.2
+    note: الأنبياء، ثمَّ الأمثل، فالأمثل، فيبتلى الرجل على حسب دينه ... حتَّى يتركه يمشي على الأرض ما عليه خطيئة
+  - motif: prophet-fevers-as-two-men
+    refs:
+    - Jāmiʿ 13:2092.1
+    - Jāmiʿ 13:2092.2
+    - Jāmiʿ 13:2094.1
+    note: إنِّي أُوعَك كما يوعَك رجلان منكم ... ذلك أنَّ لك أجرين؟; إنَّا كذلك يُضعَّف لنا البلاء، ويُضعَّف لنا الأجر
+  - motif: suffering-sheds-sins-like-leaves
+    refs:
+    - Jāmiʿ 13:2092.1
+    note: شوكةٌ فما فوقها إلَّا كفَّر الله بها سيِّئآته كما تحطُّ الشجر ورقها
+  - motif: waterskin-hung-to-drip-on-feverish-prophet
+    refs:
+    - Jāmiʿ 13:2093.1
+    note: فإذا سقاء معلق نحوه، يقطر ماؤه عليه من شدة ما يجد من حرِّ الحمَّى
+  - motif: prophets-tried-by-poverty-and-lice
+    refs:
+    - Jāmiʿ 13:2092.2
+    - Jāmiʿ 13:2093.2
+    note: إن كان النبي من الأنبياء ليدرع العباءة من الحاجة ... إن كان النبي من الأنبياء ليقتله القمل; إن كانوا ليفرحون بالبلاء كما تفرحون بالرّخاء
+- id: hadith-13-sickness-expiates-1
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Every harm expiates: worry, the thorn, the God who was sick and not visited, Q 4:123'
+  read:
+  - Jāmiʿ 13:2095.1-2096.2
+  quran:
+  - 4:123
+  tags:
+  - motif: worry-itself-expiates
+    refs:
+    - Jāmiʿ 13:2095.1
+    note: ما يُصيب المسلمَ من نصبٍ، ولا وَصبٍ، ولا همٍّ, ولا حزنٍ، ولا أذىً، ولا غمٍّ، حتَّى الشوكة يُشاكها
+  - motif: even-the-thorn-expiates
+    refs:
+    - Jāmiʿ 13:2095.1
+    - Jāmiʿ 13:2095.3
+    note: حتَّى الشوكة يُشاكها إلَّا كفَّر الله بها من خطاياه; حتَّى النكبة يُنكبها، والشوكة يُشاكها
+  - motif: god-was-sick-and-not-visited
+    refs:
+    - Jāmiʿ 13:2095.2
+    note: يا ابن آدم! مَرِضتُ فلم تعُدني؟ ... أما علِمتَ أنَّك لو عُدتَه لوجدتَّني عنده؟ ... استطعمتُكَ فلم تُطعِمني؟ ... استسقيتُك فلم تَسقني؟
+  - motif: evil-recompensed-by-worldly-distress
+    refs:
+    - Jāmiʿ 13:2095.3
+    note: 'لمَّا نزلت: ﴿مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ﴾ ... قاربوا وسدِّوا، ففي كلِّ ما يُصاب به المسلم كفَّارةٌ'
+  - motif: trial-till-meets-god-without-sin
+    refs:
+    - Jāmiʿ 13:2096.1
+    - Jāmiʿ 13:2095.4
+    - Jāmiʿ 13:2096.2
+    note: ما يزال البلاء بالمؤمن والمؤمنة في نفسه وولده وماله، حتَّى يلقى الله وما عليه خطيئةٌ; وصب المؤمن كفَّارةٌ لخطاياه; ليبتلي عبدَه بالسقم، حتَّى يُكفِّر ذلك عنه كلَّ ذنبٍ
+  hints:
+  - '''I was sick and you did not visit me ... I asked you for food ... I asked you to drink'', God identifying with the sick, hungry and thirsty servant, against Matthew 25:35-45 (the Son of Man: ''I was hungry ... thirsty ... sick and you did not visit me''; ''as you did it not to one of the least of these'').'
+- id: hadith-13-fever-expiates
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Fever: sent to the Helpers and to Quba, the choice of patience, the bellows that removes dross'
+  read:
+  - Jāmiʿ 13:2096.3-2098.3
+  tags:
+  - motif: fever-sent-to-the-dearest-people
+    refs:
+    - Jāmiʿ 13:2096.3
+    - Jāmiʿ 13:2097.3
+    note: 'جاءت الحمَّى إلى النبي ﷺ فقالت: ابعثي إلى آثر أهلك عندك. فبعثها إلى الأنصار. بقيت عليهم ستة أيام ولياليهم; استأْذَنَت الحُمَّي على النبي ﷺ، فقال: "من هذه؟ ". قالت: أُمُّ مِلْدَم. قال: فأمر بها إلى أهلِ قباء'
+  - motif: choice-between-healing-and-paradise
+    refs:
+    - Jāmiʿ 13:2096.3
+    - Jāmiʿ 13:2097.3
+    note: 'إن شئتِ دعوت الله أن يُعافيكِ، وإن شئتِ صبرتِ ولكِ الجنَّة". قالت: بل أصبر، ولا أجعل الجنَّة خطرًا; وإن شئتم أن تكون لكم طَهورًا'
+  - motif: headache-and-fever-leave-no-mustard-seed
+    refs:
+    - Jāmiʿ 13:2097.1
+    note: لا تزال المليلةُ والصداع بالعبد والأَمة، وإنَّ عليهما من الخطايا مثل أحدٍ، فما يدعهما وعليهما مثقال خردلةٍ
+  - motif: fever-removes-sins-as-bellows-dross
+    refs:
+    - Jāmiʿ 13:2097.2
+    note: لا تسُبِّي الحمَّى؛ فإنَّها تُذِهب خطايا بني آدم كما يُذهِب الكير خَبَثَ الحديدِ
+  - motif: even-the-thorn-expiates
+    refs:
+    - Jāmiʿ 13:2098.1
+    - Jāmiʿ 13:2098.2
+    - Jāmiʿ 13:2098.3
+    note: يمرض مرضًا إلَّا حطَّ الله عنه من خطاياه; حتَّى الشوكة إلَّا قُصَّ بها، أو كفِّر بها من خطاياه; فُلانٌ خرَّ على طُنُبِ فُسطاط ... لا تضحكوا ... إلَّا كُتِبت له بها درجةٌ، ومُحِيَت عنه بها خطيئةٌ
+- id: hadith-13-sickness-expiates-2
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Aisha's reports on sickness and expiation; fire and bellows; Ubayy's prayer for fever
+  read:
+  - Jāmiʿ 13:2101.1-2107.1
+  tags:
+  - motif: easy-reckoning-sins-shown-then-passed-over
+    refs:
+    - Jāmiʿ 13:2101.1
+    note: الرجل تُعرَض عليه ذنوبه، ثمَّ يُتجاوز له عنها، إنَّه من نوقش الحساب هلكَ
+  - motif: even-the-thorn-expiates
+    refs:
+    - Jāmiʿ 13:2101.1
+    - Jāmiʿ 13:2103.1
+    - Jāmiʿ 13:2103.2
+    - Jāmiʿ 13:2105.1
+    - Jāmiʿ 13:2107.1
+    note: ولا يُصيبُ عبدًا شوكةٌ فما فوقها، إلَّا قاصّ الله ﷿ بها من خطاياه; إنَّ الصالحين يُشدَّد عليهم; ما ضرب على مؤمن عرق قط، إلَّا حطَّ الله عنه به خطيئة; صداع المؤمن، أو شوكة يشتاكها
+  - motif: suffering-sheds-sins-like-leaves
+    refs:
+    - Jāmiʿ 13:2102.1
+    note: إنَّ الحُمَّى تحطُّ الخطايا كما تحطُّ الشجر ورقها
+  - motif: fever-removes-sins-as-bellows-dross
+    refs:
+    - Jāmiʿ 13:2102.2
+    - Jāmiʿ 13:2104.1
+    note: أَخلصه ذلك كما يُخلص الكيرُ خَبَثَ الحديد; كما تُذهب النار خبث الذهب والفضَّة
+  - motif: illness-as-iron-in-fire
+    refs:
+    - Jāmiʿ 13:2104.2
+    note: كمثل حديدة تُدخل النارَ، فيذهب خبثها، ويبقى طيبها
+  - motif: prophets-pain-severest
+    refs:
+    - Jāmiʿ 13:2103.1
+    note: 'طرقه وجَعٌ، فجعل يشتكي ويتقلَّب على فراشه. فقالت عائشة: لو صنع هذا بعضنا لوجدتَ عليه'
+  - motif: ubayy-prays-for-lifelong-fever
+    refs:
+    - Jāmiʿ 13:2106.1
+    note: فدعا أبيٌّ على نفسه أن لا يفارقه الوعك حتَّى يموت، في أن لا يشغله عن حجٍّ ولا عمرةٍ ولا جهادٍ ... فما مسَّه إنسانٌ إلَّا وجد حرَّه حتَّى ماتَ
+  hints:
+  - Fever and illness as the smith's fire and bellows that leave the iron's or gold's good and remove its dross, against Malachi 3:2-3 and Zechariah 13:9 (refining and testing as silver and gold in the fire) and Proverbs 17:3.
+- id: hadith-13-afflicted-reward-poured
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The afflicted rewarded without scale or register
+  read:
+  - Jāmiʿ 13:2110.1
+  tags:
+  - motif: afflicted-paid-without-scale-healthy-wish-skins-cut
+    refs:
+    - Jāmiʿ 13:2110.1
+    note: ثمَّ يُؤتى بأهل البلاء، فلا يُنصب لهم ميزان، ولا يُنصب لهم ديوان، فيُصبُّ عليهم الأجر صبًّا، حتَّى إنَّ أهل العافية يتمنَّون أنَّ أجسادهم قرضت بالمقاريض
+- id: hadith-13-epilepsy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The woman with seizures who chose patience; the seizure that raises one pure
+  read:
+  - Jāmiʿ 13:2111.1-2112.2
+  tags:
+  - motif: epileptic-woman-chooses-patience-asks-not-to-be-uncovered
+    refs:
+    - Jāmiʿ 13:2111.1
+    - Jāmiʿ 13:2112.1
+    note: هذه المرأة السوداء ... إنِّي أُصرع، وإنِّي أتكشَّف ... فادع الله أن لا أتكشَّف، فدعا لها; بها لمم ... بل أصبر، ولا حسابَ عليَّ
+  - motif: choice-between-healing-and-paradise
+    refs:
+    - Jāmiʿ 13:2111.1
+    - Jāmiʿ 13:2112.1
+    note: إن شئتِ صبرتِ ولك الجنَّة، وإن شئت دعوتُ الله أن يُعافيكِ; وإن شئتِ فاصبري ولا حسابَ عليك
+  - motif: seizure-sends-servant-up-pure
+    refs:
+    - Jāmiʿ 13:2112.2
+    note: ما من عبد يُصرع صرعة من مرضٍ إلَّا بعثه الله منها طاهرًا
+- id: hadith-13-blindness-patience
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Patience over the loss of the two eyes
+  read:
+  - Jāmiʿ 13:2113.1-2115.1
+  tags:
+  - motif: two-beloveds-the-eyes
+    refs:
+    - Jāmiʿ 13:2113.1
+    - Jāmiʿ 13:2113.2
+    - Jāmiʿ 13:2114.2
+    - Jāmiʿ 13:2115.1
+    note: 'إذا ابتليتُ عبدي بحبيبتيه فصبر عوضته منهما الجنة". يريد: عينيه; إذا أخذتُ كريمتي عبدي; إذا سلبت من عبدي ⏎ كريمتيه، وهو بهما ضنين'
+  - motif: no-reward-but-paradise-for-patient-loss
+    refs:
+    - Jāmiʿ 13:2113.2
+    - Jāmiʿ 13:2114.1
+    - Jāmiʿ 13:2114.2
+    - Jāmiʿ 13:2115.1
+    note: لم أرض له ثوابًا دون الجنَّة; إنْ صبرتَ واحتسبتَ عند الصدمة الأولى لم أرض ثوابًا دون الجنَّة; إذا حمدني عليهما
+- id: hadith-13-rank-by-trial
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A rank reached by trial, not by works
+  read:
+  - Jāmiʿ 13:2116.1
+  tags:
+  - motif: rank-reached-by-trial-not-works
+    refs:
+    - Jāmiʿ 13:2116.1
+    note: إنَّ الرجل لتكون له عند الله المنزلة فما يبلغها بعمل، فما يزال الله يبتليه بما يكره حتَّى يُبلِّغه إيَّاها
+- id: hadith-13-god-tries-whom-he-loves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whom God loves he tries; punishment hastened in this world
+  read:
+  - Jāmiʿ 13:2118.1-2118.3
+  tags:
+  - motif: whom-god-wills-good-he-afflicts
+    refs:
+    - Jāmiʿ 13:2118.1
+    - Jāmiʿ 13:2118.2
+    note: من يرد الله منه خيرًا يُصب منه; إنَّ الله إذا أحبَّ قومًا ابتلاهم، فمن صبر فله الصبرُ، ومن جزع فله الجزعُ
+  - motif: punishment-hastened-for-whom-god-wills-good
+    refs:
+    - Jāmiʿ 13:2118.3
+    note: 'فقالت المرأة: مه! فإنَّ الله ﷿ قد ذهب بالشرك ... فأصاب وجهه الحائط، فشجَّه ... إذا أراد الله ﷿ بعبد خيرًا عجَّل له عقوبة ذنبه ... حتى يوافي به يوم القيامة كأنه عَيْرٌ'
+  hints:
+  - '''When God loves a people he tries them'', against Proverbs 3:12 (''whom the LORD loves he reproves'') and the rabbinic ''chastisements of love'' (yissurin shel ahavah, b. Berakhot 5a).'
+- id: hadith-13-believers-affair-all-good
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Wondrous is the believer's affair; rewarded even for the morsel to his wife's mouth
+  read:
+  - Jāmiʿ 13:2120.1-2120.3
+  tags:
+  - motif: believers-affair-all-good-thanks-and-patience
+    refs:
+    - Jāmiʿ 13:2120.1
+    - Jāmiʿ 13:2120.2
+    - Jāmiʿ 13:2120.3
+    note: عجبًا لأمر المؤمن، إنَّ أمره كلَّه خير ... إن أصابته سرَّاءُ شكر ... وإن أصابته ضرَّاء صبر; إنَّ الله لم يقض له قضاء إِلَّا كان خيرًا له
+  - motif: rewarded-for-morsel-to-wifes-mouth
+    refs:
+    - Jāmiʿ 13:2120.2
+    note: المؤمن يؤجر في كلِّ شيءٍ حتّى في اللقمة يرفعها إلى في امرأته
+- id: hadith-13-stalk-and-cedar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The believer like the bending stalk, the hypocrite like the cedar
+  read:
+  - Jāmiʿ 13:2121.1-2122.2
+  tags:
+  - motif: believer-tender-stalk-hypocrite-cedar
+    refs:
+    - Jāmiʿ 13:2121.1
+    - Jāmiʿ 13:2122.1
+    - Jāmiʿ 13:2122.2
+    note: مثل المؤمن كمثل الخامة من الزرع، تُفيئها الرياح، تصرعها مرة، وتعدلها ... ومثل المنافق مثل الأرزة المُجذية ... حتَّى يكون انجعافها مرَّة واحدة; مثل المؤمن كمثل السنبلة تخرُّ مرَّةً وتستقيم مرَّةً
+  hints:
+  - 'The believer as the stalk the wind bends and the hypocrite as the cedar that is uprooted at once, against b. Taanit 20a (''a man should always be soft as a reed and not hard as a cedar'': all winds move the reed and it returns to its place, the south wind uproots the cedar) and the fable of the oak and the reed (Aesop/Avianus 16).'
+- id: hadith-13-oh-my-head
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Oh my head!'': Aisha and the prophet'
+  read:
+  - Jāmiʿ 13:2123.1
+  tags:
+  - motif: oh-my-head-exchange
+    refs:
+    - Jāmiʿ 13:2123.1
+    note: 'وا رأساه! فقال النَّبِيّ ﷺ: "ذاك لو كان وأنا حيٌّ فأستغفر لكِ ... لظَلِلْتَ آخر يومكَ مُعرِّسًا ببعض أزواجك ... بل أنا وار أساه، لقد هممتُ أو أردتُ أن أُرسِل إلى أبي بكر وابنه، وأعهد'
+- id: hadith-13-never-ill
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The man never ill is of the fire; the never-ill bride declined
+  read:
+  - Jāmiʿ 13:2123.2-2124.1
+  tags:
+  - motif: never-ill-man-of-the-fire
+    refs:
+    - Jāmiʿ 13:2123.2
+    note: أخذتك أم ملدم قط؟ ... حر يكون بين الجلد واللحم ... عروق تضرب على الإنسان في رأسه ... من أحبَّ أن ينظر إلى رجلٍ من أهل النّار فلينظر إلى هذا
+  - motif: never-ill-bride-declined
+    refs:
+    - Jāmiʿ 13:2124.1
+    note: 'حتّى ذكرت أنَّها لم تُصدَّع، ولم تشتكِ شيئًا قطُّ. قال: "لا حاجة لي في ابنتك"'
+- id: hadith-13-vein-twitch-sin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No vein twitches but for a sin
+  read:
+  - Jāmiʿ 13:2125.1
+  tags:
+  - motif: no-vein-twitches-but-for-sin
+    refs:
+    - Jāmiʿ 13:2125.1
+    note: ما اختلج عِرق ولا عين إِلَّا بذنبٍ، وما يدفع الله عنه أكثر
+- id: hadith-13-prophets-pain-and-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prophet's pain and the agonies of his death
+  read:
+  - Jāmiʿ 13:2125.2-2126.1
+  tags:
+  - motif: prophets-pain-severest
+    refs:
+    - Jāmiʿ 13:2125.2
+    - Jāmiʿ 13:2125.3
+    note: ما رأيت أحدًا أشدَّ عليه الوجع من رسول الله ﷺ; فلا أَكره شدة الموت لأحد أبدًا بعد النَّبِيّ ﷺ
+  - motif: died-between-chest-and-throat
+    refs:
+    - Jāmiʿ 13:2125.3
+    - Jāmiʿ 13:2126.1
+    note: مات النَّبِيّ ﷺ وإنه لبين حاقِنَتي وذاقِنَتي; وبين سَحْري ونحري، وأنَّ الله جمع بين ريقي وريقه عند موته ... وبيده سواك ... فليَّنته
+  - motif: death-has-agonies
+    refs:
+    - Jāmiʿ 13:2126.1
+    note: 'فجعل يُدخل يديه في الماء، فيمسح بهما وجهه ويقول: "لا إله إِلَّا الله، إنَّ للموت سكرات". ثمَّ نصب يده فجعل يقول: "في الرفيق الأعلى"'
+- id: hadith-13-land-of-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Need leads a man to the land where he is to die; the earth returns its deposit
+  read:
+  - Jāmiʿ 13:2126.2
+  tags:
+  - motif: need-leads-man-to-land-of-death
+    refs:
+    - Jāmiʿ 13:2126.2
+    note: 'إذا كان أجل أحدكم بأرض أوثبته إليها الحاجة، فإذا بلغ أقصى أثره قبضه الله سبحانه، فتقول الأرض يوم القيامة: ربّ هذا ما استودعتني'
+  hints:
+  - 'The man''s appointed place of death drawing him there by need, against the rabbinic saying that a man''s feet are his guarantors, bringing him to the place where he is wanted (b. Sukkah 53a: the two Cushites of Solomon sent to Luz).'
+- id: hadith-13-visiting-sick-merit
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The merit of visiting the sick: paradise''s harvest, wading in mercy, seventy thousand angels'
+  read:
+  - Jāmiʿ 13:2128.1-2130.2
+  tags:
+  - motif: visitor-of-sick-in-harvest-of-paradise
+    refs:
+    - Jāmiʿ 13:2128.1
+    - Jāmiʿ 13:2128.2
+    note: 'من عاد مريضًا لم يزل في خُرْفَةِ الجنّة حتّى يرجع ... وما خُرْفَةِ الجنّة؟ قال: "جناها"; مشى في خِرافة الجنّة حتّى يجلس'
+  - motif: seventy-thousand-angels-pray-for-visitor
+    refs:
+    - Jāmiʿ 13:2128.2
+    note: فإذا جلس غَمَرَتْه الرحمةُ، فإن كان غدوةً صلي عليه سبعون ألف ملك حتّى يُمسى
+  - motif: five-deeds-guaranteed-by-god
+    refs:
+    - Jāmiʿ 13:2130.1
+    note: 'عهد إلينا رسول الله ﷺ في خمس من فعل منهن كان ضامنا على الله: "من عاد مريضًا، أو خرج مع جنازة، أو خرج غازيًا في سبيل الله، أو دخل على إمام يُريد بذلك تعزيره وتوقيره، أو قعد في بيته'
+  - motif: visitor-wades-in-mercy
+    refs:
+    - Jāmiʿ 13:2130.2
+    note: من عاد مريضًا خاض في الرحمة، حتّى إذا قعد استقرَّ فيها
+- id: hadith-13-visiting-sick-duty
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Visiting the sick among the Muslim''s duties: the seven and seven, the five rights, Abu Bakr''s day'
+  read:
+  - Jāmiʿ 13:2134.1-2138.1
+  tags:
+  - motif: seven-commanded-seven-forbidden
+    refs:
+    - Jāmiʿ 13:2134.1
+    note: 'أمرنا النَّبِيّ ﷺ بسبع، ونهانا عن سبع: أمرنا باتباع الجنائز، وعيادة المريض ... ونهانا عن آنية الفضة، وخاتم الذهب، والحرير، والديباج، والقَسِّي، والاستبرق'
+  - motif: rights-of-muslim-on-muslim
+    refs:
+    - Jāmiʿ 13:2134.2
+    - Jāmiʿ 13:2135.4
+    note: 'حق المسلم على المسلم خمس: رد السّلام، وعيادة المريض، واتباع الجنائز، وإجابة الدعوة، وتشميت العاطس; للمسلم على المسلم أربع خِلال'
+  - motif: abu-bakr-four-deeds-one-day
+    refs:
+    - Jāmiʿ 13:2134.3
+    note: من أصبح منكم اليوم صائمًا؟ ... فمن تبع منكم اليومَ جِنازة؟ ... فمن أطعم منكم اليوم مسكينًا؟ ... فمن عاد منكم اليوم مريضًا؟ ... ما اجتمعن في امرئ إِلَّا دخل الجنّة
+  - motif: better-than-one-who-did-not-visit-sick
+    refs:
+    - Jāmiʿ 13:2135.1
+    - Jāmiʿ 13:2138.1
+    note: صالحًا بخير من رجل لم يُصبح صائمًا، ولم يعد مريضًا، ولم يتبع جنازة; بخير من قوم لم يعودوا مريضًا ولم يشهدوا جِنازة
+  - motif: feed-hungry-visit-sick-free-captive
+    refs:
+    - Jāmiʿ 13:2135.2
+    note: أطعموا الجائع، وعودوا المريض، وفكوُّا العاني
+  - motif: funerals-remind-of-hereafter
+    refs:
+    - Jāmiʿ 13:2135.3
+    note: عودوا المريض، وامشُوا مع الجنائز تذكركم الآخرة
+- id: hadith-13-visits-sad
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Visiting Saʿd b. Muʿādh in a tent in the mosque and Saʿd b. ʿUbāda on foot
+  read:
+  - Jāmiʿ 13:2138.2-2138.3
+  tags:
+  - motif: tent-in-mosque-for-wounded-sad
+    refs:
+    - Jāmiʿ 13:2138.2
+    note: 'رماه رجل من قريش يقال له: حِبَّان ⏎ ابن العِرَقة، رماه في الأكحل، فضرب النَّبِيّ ﷺ خيمةً في المسجد ليعوده من قريب'
+  - motif: visit-on-foot-without-shoes-or-caps
+    refs:
+    - Jāmiʿ 13:2138.3
+    note: ونحن بضعةَ عشرَ، ما علينا نعال ولا خفاف ولا قلانس ولا ... قُمص. نمشي في تلك السِبَاخ
+- id: hadith-13-say-good-at-sickbed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Say good at the sick and the dead, for the angels say amen
+  read:
+  - Jāmiʿ 13:2139.1
+  tags:
+  - motif: angels-say-amen-at-sickbed-and-deathbed
+    refs:
+    - Jāmiʿ 13:2139.1
+    note: إذا حضرتم المريض أو الميتَ، فقولوا خيرًا، فإن الملائكة يؤمنون على ما تقولون ... وأعقِبْني منه عُقْبى حسنةً
+- id: hadith-13-ruqya-for-the-sick
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Charms and prayers for the sick: ''remove the harm'', the earth and spittle, Gabriel''s charm, seven times'
+  read:
+  - Jāmiʿ 13:2140.1-2146.3
+  tags:
+  - motif: remove-the-harm-lord-of-people
+    refs:
+    - Jāmiʿ 13:2140.1
+    - Jāmiʿ 13:2140.4
+    - Jāmiʿ 13:2141.1
+    note: أَذْهِب البأس رب النَّاس، اشف وأنت الشافي، لا شفاءَ إلَّا شِفاءُك، شفاءً لا يُغادِرُ سَقَمًا
+  - motif: earth-of-our-land-spittle-of-one-of-us
+    refs:
+    - Jāmiʿ 13:2140.2
+    note: بسم الله، تُرْبةُ أرضِنا، بريقةِ بعضِنا يُشْفى سَقِيمُنا، بإذن ربنا
+  - motif: gabriel-recites-ruqya-over-sick-prophet
+    refs:
+    - Jāmiʿ 13:2140.3
+    - Jāmiʿ 13:2142.1
+    note: 'رقاه جبريل قال: باسم الله ⏎ يُبريك، من كل داء يَشْفيك، ومن شر حاسد إذا حسد، وشر كل ذي عين; باسم الله أَرْقيك، من كل شيء يُؤذيك، من شر كل نفس أو عين حاسدٍ'
+  - motif: burned-arm-spat-on-and-charmed
+    refs:
+    - Jāmiʿ 13:2141.1
+    note: 'انصبت على يدي من قِدْرٍ، فذهبتْ بي أمي إلى رسول الله ﷺ ... قال: كان يتفُلُ'
+  - motif: no-harm-purification-fever-boils
+    refs:
+    - Jāmiʿ 13:2143.1
+    - Jāmiʿ 13:2144.1
+    note: 'لا بأس، طهور إن شاء الله" فقال: كلا، بل هي حُمي تفور على شيخ كبير حتى تُزِيره القبور; فقام رسول الله ﷺ وتركهـ'
+  - motif: seven-times-lord-of-the-mighty-throne
+    refs:
+    - Jāmiʿ 13:2143.2
+    note: 'فقال عنده سبع مرار: أسأل الله العظيم رب العرش العظيم أن يشفيك، إلا عافاه الله; جلس عند رأسه'
+  - motif: heal-him-to-wound-enemy-or-walk-to-funeral
+    refs:
+    - Jāmiʿ 13:2145.1
+    note: اللهم اشف عبدك ينكأ لك عَدُوًا، أو يمشي لك إلى جنازة
+  - motif: head-stroked-blessing-lasting-sight
+    refs:
+    - Jāmiʿ 13:2145.2
+    note: إن ابن أختي وَجِعٌ، فمسح رأسي ودعا لي بالبركة
+  - motif: hand-on-forehead-coolness-on-liver
+    refs:
+    - Jāmiʿ 13:2146.1
+    note: 'فوضع يَدَه على جبهتي، ثم مسح يديه على وجهي وبطني، ثم قال: "اللَّهم اشف سعدًا، وأتمم له هجرته" فمازلت أجد بردَه على كبدي'
+  - motif: hand-on-pain-seven-times-refuge-in-gods-might
+    refs:
+    - Jāmiʿ 13:2146.2
+    - Jāmiʿ 13:2146.3
+    note: امسحه بيمينك سبع مرات. وقل أعوذ بعزة الله وقدرته من شَرِّ ما أجد; فليضع يده حيث يشتكي ... ثم يرفع يده ثم يُعيد ذلك وترًا
+  hints:
+  - The healing formula with earth and spittle on the finger ('the earth of our land with the spittle of one of us'), against Mark 7:33 and John 9:6 (Jesus spits and makes clay of the ground to anoint the blind man's eyes); the rabbis forbid whispering over a wound with spitting (m. Sanhedrin 10:1, b. Sanhedrin 101a).
+- id: hadith-13-unconscious-and-eye
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Visiting the unconscious Jābir and Zayd's sore eye
+  read:
+  - Jāmiʿ 13:2147.1-2148.1
+  tags:
+  - motif: ablution-water-poured-on-unconscious
+    refs:
+    - Jāmiʿ 13:2147.1
+    note: فوجداني أغمي عليَّ، فتوضأ النبي ﷺ ثم صَبَّ وَضوءه عليَّ، فأفقتُ ... فلم يُجبني بشيء حتى نزلت آية الميراث
+  - motif: visited-for-eye-ailment
+    refs:
+    - Jāmiʿ 13:2147.2
+    - Jāmiʿ 13:2148.1
+    note: عادني رسول الله ﷺ من وجعٍ كان بعيني; عاد النبي ﷺ زيد بن أرقم من رمد كان به
+- id: hadith-13-punishment-hastened-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The man who asked his punishment hastened
+  read:
+  - Jāmiʿ 13:2148.2
+  quran:
+  - 2:201
+  tags:
+  - motif: prayer-for-punishment-in-this-world-rebuked
+    refs:
+    - Jāmiʿ 13:2148.2
+    note: قد خَفَتَ فصار مثل الفَرْخ ... اللهم ما كنتَ معاقبي به في الآخرة فعَجِّله لي في الدنيا ... سبحان الله لا تُطيقه ... اللَّهم! آتنا في الدنيا حسنةً، وفي الآخرة حسنةً وقِنا عذاب النار
+- id: hadith-13-dying-prophet-writing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Get up from me'': the document not written'
+  read:
+  - Jāmiʿ 13:2149.1
+  tags:
+  - motif: dying-prophet-asks-for-writing
+    refs:
+    - Jāmiʿ 13:2149.1
+    note: هَلُمَّ أَكتبْ لكم كتابًا لا تضلوا بعده ... حسبنا كتابُ الله ... قوموا عني، ولا ينبغي عندي التنازع ... إن الرزية كل الرزية
+- id: hadith-13-visiting-women
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The prophet visits sick women: do not curse the fever'
+  read:
+  - Jāmiʿ 13:2149.2-2150.1
+  tags:
+  - motif: fever-removes-sins-as-bellows-dross
+    refs:
+    - Jāmiʿ 13:2149.2
+    - Jāmiʿ 13:2149.3
+    - Jāmiʿ 13:2150.1
+    note: لا تَسُبِّي الحُمَّى، فإنها تُذهب خطايا بني آدم كما يُذهب الكيرُ خبَثَ الحديد; كما تُذهب النارُ خبث الذهب والفِضَّة; وقد بَرَّحت بي أم ملدم -تريد الحُمَّي-
+- id: hadith-13-fever-of-medina
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Bakr and Bilal's fever verses; Medina's fever moved to al-Juhfa
+  read:
+  - Jāmiʿ 13:2150.2
+  tags:
+  - motif: feverish-companions-yearn-in-verse-for-mecca
+    refs:
+    - Jāmiʿ 13:2150.2
+    note: كل امرئٍ مُصبَّحٌ في أهله ... والموت أدنى من شِراك نعله; ألا ليتَ شِعري هل أبيتنَّ ليلةً ... بوادٍ وحولي إذْخِرٌ وجَليلُ
+  - motif: fever-of-medina-moved-to-juhfa
+    refs:
+    - Jāmiʿ 13:2150.2
+    note: اللَّهم! حَبِّبْ إلينا المدينة كحبِّنا مكة أو أشدَّ ... وانقُل حمَّاها فاجعلها بالجحفة
+- id: hadith-13-jewish-boy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Visiting the sick Jewish boy: he becomes Muslim'
+  read:
+  - Jāmiʿ 13:2151.1
+  tags:
+  - motif: jewish-boy-converts-at-deathbed
+    refs:
+    - Jāmiʿ 13:2151.1
+    note: أن غلامًا ليهود كان يخدم النبي ﷺ فمرض ... أطِع أبا القاسم ﷺ. فأسلم ... الحمد لله الذي أنقذه من النار
+- id: hadith-13-attending-the-dying
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prophet attending the dying, then the dead brought to him
+  read:
+  - Jāmiʿ 13:2152.1
+  tags:
+  - motif: prophet-attended-dying-then-dead-brought
+    refs:
+    - Jāmiʿ 13:2152.1
+    note: فيأتيه قبل أن يموتَ فيحضُرُه ويستغفرُ له، وينتظرُ مَوْتَهُ ... أن نَحْمِلَ مَوتانا إلى بيته، ولا نُشْخِصُهُ ولا نُعَنِّيه
+- id: hadith-13-prompt-the-dying
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prompt your dying 'no god but God'; how the souls go out
+  read:
+  - Jāmiʿ 13:2152.2-2153.3
+  tags:
+  - motif: teach-dying-no-god-but-god
+    refs:
+    - Jāmiʿ 13:2152.2
+    - Jāmiʿ 13:2153.1
+    - Jāmiʿ 13:2153.2
+    - Jāmiʿ 13:2153.3
+    note: 'لقِّنوا موتاكم: لا إله إلا الله; لقنوا هَلْكاكم قول لا إله إلا الله'
+  - motif: believers-soul-oozes-unbelievers-from-jaw
+    refs:
+    - Jāmiʿ 13:2153.3
+    note: فإن نفس المؤمن تخرج رشحًا، ونفس الكافر تخرج من شدقه كما تخرج نفس الحمار
+  hints:
+  - 'The believer''s soul leaving like sweat and the unbeliever''s from the jaw like a donkey''s, against b. Berakhot 8a (903 kinds of death: the hardest, askara, like a thorn in wool or ropes through a narrow hole; the easiest, the kiss, like a hair drawn from milk).'
+- id: hadith-13-faced-to-qibla
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: al-Barāʾ b. Maʿrūr turned to the qibla at death
+  read:
+  - Jāmiʿ 13:2155.1
+  tags:
+  - motif: dying-man-faced-to-qibla
+    refs:
+    - Jāmiʿ 13:2155.1
+    note: 'أوصى أن يوجه إلى القبلة لما احتضر، فقال رسول الله: "أصاب الفطرة، وقد رددت ثلثه على ولده"'
+- id: hadith-13-last-word
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whose last word is 'no god but God'
+  read:
+  - Jāmiʿ 13:2156.1-2157.3
+  tags:
+  - motif: last-word-no-god-but-god
+    refs:
+    - Jāmiʿ 13:2156.1
+    - Jāmiʿ 13:2157.2
+    - Jāmiʿ 13:2157.3
+    note: لا يقولُها أحد عند موته إلَّا كانت نورًا لصحيفته، وإن جسدَه ورُوحَه ليجدان لها رَوْحًا عند الموت ... هي التي أراد عمَّه عليها; من كان آخر كلامه لا إله إلا الله دخل الجنة
+  - motif: maternal-uncle-say-no-god-but-god
+    refs:
+    - Jāmiʿ 13:2156.2
+    note: 'يا خال؛ قل: لا إله إلا الله" فقال: أو خال أنا، أو عم؟ فقال النبي: "لا، بل خال"'
+  - motif: jewish-boy-converts-at-deathbed
+    refs:
+    - Jāmiʿ 13:2157.1
+    note: دخل رسول الله ﷺ على غلام من اليهود وهو مريض ... ثم قبض، فوليه رسول الله ﷺ والمسلمون فغسلوه ودفنوه
+- id: hadith-13-signs-at-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The believer''s death: sweat on the brow, hope and fear, the throes as good deeds'
+  read:
+  - Jāmiʿ 13:2158.1-2160.1
+  tags:
+  - motif: believer-dies-with-sweat-on-brow
+    refs:
+    - Jāmiʿ 13:2158.1
+    - Jāmiʿ 13:2159.1
+    note: المؤمن يموت بعَرقِ الجَبين
+  - motif: hope-and-fear-at-death
+    refs:
+    - Jāmiʿ 13:2159.2
+    note: إني أرجو الله، وإني أخاف ذنوبي ... لا يجتمعان في قلب عبد في مثل هذا الموطن إلا أعطاه الله ما يرجو، وآمنه مما يخاف
+  - motif: kins-death-throes-are-his-good-deeds
+    refs:
+    - Jāmiʿ 13:2160.1
+    note: وعندها حميم لها يخنقُه الموت ... لا تَبْتَثِسي على حميمكِ فإن ذلك من حسناته
+- id: hadith-13-angels-take-the-soul
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Angels take the good and the foul soul; the gate of heaven opened and shut
+  read:
+  - Jāmiʿ 13:2160.2
+  quran:
+  - '7:40'
+  - 38:57-58
+  - 56:89
+  tags:
+  - motif: two-angels-carry-good-soul-up-scent-of-musk
+    refs:
+    - Jāmiʿ 13:2160.2
+    note: إذا خرجتْ روح المؤمن تلقاه ملكان يُصْعِدانها ... وذكر المسك ... روح طيبة جاءت من قبل الأرض، صلى الله عليك وعلى جسد كنتِ تعمرنيه
+  - motif: wicked-soul-refused-entry-at-heavens-gate
+    refs:
+    - Jāmiʿ 13:2160.2
+    note: ارجعي ذميمة، فإنها لا تُفتح لك أبواب السماء، فَيُرْسَلُ بها من السماء، ثم تَصِيرُ إلى القبر
+  - motif: prophet-covers-nose-at-stench-of-soul
+    refs:
+    - Jāmiʿ 13:2160.2
+    note: فرد رسول الله ﷺ رَيْطَةً كانت عليه على أنفه هكذا
+- id: hadith-13-love-of-meeting-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Who loves meeting God; the deathbed tidings explain it
+  read:
+  - Jāmiʿ 13:2161.1-2164.1
+  tags:
+  - motif: love-of-meeting-god-returned
+    refs:
+    - Jāmiʿ 13:2161.1
+    - Jāmiʿ 13:2162.1
+    - Jāmiʿ 13:2162.2
+    - Jāmiʿ 13:2163.1
+    - Jāmiʿ 13:2163.2
+    note: من أحب لقاء الله أحب الله لقاءَه، ومن كره لقاء الله كره الله لقاءَه; ولكن المؤمن إذا حضره الموتُ بُشِّر برضوان الله وكرامته; جاءه البشيرُ من الله بما هو صائر إليه
+  - motif: pray-ease-death-and-scant-world-for-believer
+    refs:
+    - Jāmiʿ 13:2164.1
+    note: فحَبِّبْ إليه لقاءَك، وسَهِّل عليه قضاءك، وأقلل له من الدنيا
+- id: hadith-13-death-better-than-trial
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Death better than trial; the world the believer's prison
+  read:
+  - Jāmiʿ 13:2165.1-2165.2
+  tags:
+  - motif: death-better-than-trial-scant-wealth-less-reckoning
+    refs:
+    - Jāmiʿ 13:2165.1
+    note: 'اثنتان يكرههما ابن آدم: الموت، والموتُ خير للمؤمن من الفتنة، ويكره قلة المال، وقلةُ المال أقلُّ للحساب'
+  - motif: world-prison-of-believer
+    refs:
+    - Jāmiʿ 13:2165.2
+    note: الدنيا سجن المؤمن، وجنة الكافر
+  hints:
+  - '''The world is the believer''s prison and the unbeliever''s paradise'', against m. Avot 4:16 (''this world is like a vestibule before the world to come'').'
+- id: hadith-13-prophets-choice-at-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prophets are given the choice; 'the highest companion'
+  read:
+  - Jāmiʿ 13:2166.1-2167.3
+  quran:
+  - 4:69
+  tags:
+  - motif: prophet-shown-seat-then-given-choice
+    refs:
+    - Jāmiʿ 13:2166.1
+    - Jāmiʿ 13:2167.1
+    - Jāmiʿ 13:2167.2
+    - Jāmiʿ 13:2167.3
+    note: لا يموت نبي حتى يخير بين الدنيا والآخرة ... وأخذتْه بحة; لم يُقبض نبي قط حتى يرى مقعده من الجنة، ثم يُحَيَّا أو يُخيَّر ... اللهم في الرفيق الأعلى; وألحِقْني بالرفيق الأعلى
+  - motif: remove-the-harm-lord-of-people
+    refs:
+    - Jāmiʿ 13:2167.3
+    note: 'أذهب الباسَ ربَّ الناس ... فنزع يده مني ثم قال: "رب اغفر لي، وألحقني بالرفيق"'
+- id: hadith-13-good-opinion-of-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Die thinking well of God; 'I am as my servant thinks of me'
+  read:
+  - Jāmiʿ 13:2168.1-2169.1
+  tags:
+  - motif: die-only-thinking-well-of-god
+    refs:
+    - Jāmiʿ 13:2168.1
+    - Jāmiʿ 13:2168.2
+    note: لا يموتن أحدكم إلا وهو يحسن بالله الظنَّ; كيف ظنك بربك؟
+  - motif: i-am-as-my-servant-thinks-of-me
+    refs:
+    - Jāmiʿ 13:2168.2
+    - Jāmiʿ 13:2169.1
+    note: أنا عند ظن عبدي بي فليظن بي ما شاء; أنا عند ظن عبدي بي، وأنا معه إذا دعاني
+  - motif: hand-that-pledged-rubbed-on-eyes
+    refs:
+    - Jāmiʿ 13:2168.2
+    note: فأخذ أبو الأسود يَمِينَ واثلةَ فمسح بها على عينَيه ووجهه لبيعته بها رسولَ الله ﷺ
+- id: hadith-13-remember-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Remember the destroyer of pleasures
+  read:
+  - Jāmiʿ 13:2169.2-2170.1
+  tags:
+  - motif: remember-the-destroyer-of-pleasures
+    refs:
+    - Jāmiʿ 13:2169.2
+    - Jāmiʿ 13:2170.1
+    note: أكثروا ذكر هادِم اللّذات" يعني الموت; مر النبي ﷺ بقوم من الأنصار يضحكون
+- id: hadith-13-clothes-at-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The dead raised in the clothes he dies in
+  read:
+  - Jāmiʿ 13:2172.1
+  tags:
+  - motif: dead-raised-in-clothes-he-died-in
+    refs:
+    - Jāmiʿ 13:2172.1
+    note: لما حضره الموت دعا بثياب جدد فلبسها ... إن الميت يُبعث في ثيابه الذي يموت فيها
+  hints:
+  - 'The dead rising in the clothes he died in, against b. Sanhedrin 90b and b. Ketubot 111b (R. Meir: as the wheat-grain buried naked comes up in many garments, the righteous rise in their clothes) and the custom of burial in one''s own garments.'
+- id: hadith-13-long-life-good-deeds
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The brother who died a week later: his prayers after the other''s'
+  read:
+  - Jāmiʿ 13:2172.2
+  tags:
+  - motif: brother-dead-later-prayers-as-heaven-and-earth
+    refs:
+    - Jāmiʿ 13:2172.2
+    note: آخى رسول الله ﷺ بين رجلين، فقتل أحدهما، ومات الآخر بعده بجمعة أو نحوها ... فأين صلاته بعد صلاته ... إن بينهما كما بين السماء والأرض
+- id: hadith-13-do-not-wish-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Do not wish for death
+  read:
+  - Jāmiʿ 13:2173.1-2174.3
+  tags:
+  - motif: if-wish-say-give-me-life-while-good
+    refs:
+    - Jāmiʿ 13:2173.1
+    note: لا يتمنَّينَّ أحد منكم الموت لضُرٍّ نزل به ... اللهم أحْيني ما كانت الحياة خيرًا لي وتوفني إذا كانت الوفاةُ خيرًا لي
+  - motif: cauterized-seven-times-would-pray-for-death
+    refs:
+    - Jāmiʿ 13:2173.2
+    note: وقد اكتوى سبع كيَّات ... وإنا أصبنا ما لا نجد موضِعا إلا التراب، ولولا أن النبي ﷺ نهانا أن ندعو بالموت لدعوت به
+  - motif: no-reward-for-what-is-put-in-the-earth
+    refs:
+    - Jāmiʿ 13:2173.2
+    note: 'وهو يبنى حائطًا له، فقال: إن المسلم ليُؤجر في كل شيء يُنفِقُه إلا في شيء يجعله في هذا التراب'
+  - motif: none-enters-paradise-by-deeds-not-even-prophet
+    refs:
+    - Jāmiʿ 13:2174.1
+    note: 'لن يُدخل أحدًا عملُه الجنة" قالوا: ولا أنت يا رسول الله؟ قال: "لا، ولا أنا، إلا أن يتغمدني الله بفضلٍ ورحمةٍ'
+  - motif: do-not-wish-for-death-good-may-increase-bad-may-repent
+    refs:
+    - Jāmiʿ 13:2174.1
+    note: ولا يتمنينَّ أحدكم الموت، إما محسنًا فلعله أن يزداد خيرًا، وإما مُسيئًا فلعله أن يستعتِب
+  - motif: death-cuts-off-work
+    refs:
+    - Jāmiʿ 13:2174.2
+    note: لا يتمنَّى أحدكم الموتَ، ولا يدْعُ به من قبل أن يأتيه، إنه إذا مات أحدكم انقطع عملُه
+  - motif: terror-of-the-lookout
+    refs:
+    - Jāmiʿ 13:2174.3
+    note: لا تمنوا الموت، فإن هول المطَّلع شديد، وإن من السعادة أن يطولَ عمرُ العبد، ويرزقه الله الإنابة
+- id: hadith-13-sudden-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Sudden death: alms for the mother; ''a seizure of wrath'''
+  read:
+  - Jāmiʿ 13:2175.1-2175.2
+  tags:
+  - motif: alms-for-mother-who-died-suddenly
+    refs:
+    - Jāmiʿ 13:2175.1
+    note: 'إن أمي افْتُلِتَتْ نفسُهَا، وأظنها لو تكلمتْ تصدقتْ، فهل لها أجر إن تصدقتُ عنها؟ قال: "نعم"'
+  - motif: sudden-death-seizure-of-wrath
+    refs:
+    - Jāmiʿ 13:2175.2
+    note: موت الفجأة أخْذةُ أسَفٍ
+- id: hadith-13-soul-unwilling
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The soul goes out unwilling
+  read:
+  - Jāmiʿ 13:2177.1
+  tags:
+  - motif: soul-forced-out-unwilling
+    refs:
+    - Jāmiʿ 13:2177.1
+    note: 'قال الله ﵎ للنفس: اخرجي. قالت: لا أخرج إلا كارهة. قال: اخرجي وإن كرهت'
+  hints:
+  - The soul that refuses to leave the body and is ordered out, against the midrash of Moses' death (Deuteronomy Rabbah 11:10; Petirat Moshe), where Moses' soul refuses to go out until God takes it with a kiss.
+- id: hadith-13-closing-the-eyes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Closing the dead man''s eyes: the sight follows the soul'
+  read:
+  - Jāmiʿ 13:2177.2-2178.1
+  tags:
+  - motif: sight-follows-the-departing-soul
+    refs:
+    - Jāmiʿ 13:2177.2
+    - Jāmiʿ 13:2178.1
+    note: 'وقد شق بصره فأغمضه، ثم قال: "إن الرُوح إذا قُبض تبعه البصر"; ألم تروا الإنسان إذا مات شَخَصَ بصرُه؟ ... فذلك حين يتبع بصرُه نفْسَه'
+  - motif: angels-say-amen-at-sickbed-and-deathbed
+    refs:
+    - Jāmiʿ 13:2177.2
+    note: لا تدعوا على أنفسكم إلا بخير، فإن الملائكة يؤمنون على ما تقولون
+  - motif: prayer-for-abu-salama
+    refs:
+    - Jāmiʿ 13:2177.2
+    note: اللهم اغفر لأبي سلمة، وارفع درجته في المهديين، واخلفْه في عقِبه في الغابرين ... وافسح له في قبره، ونور له فيه
+  hints:
+  - Closing the eyes of the dead, against Genesis 46:4 ('Joseph shall put his hand on your eyes') and m. Shabbat 23:5 (on the Sabbath one may not close a dead man's eyes).
+- id: hadith-13-announcing-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Announcing a death: the Negus prayed over; the three commanders of Muʾta'
+  read:
+  - Jāmiʿ 13:2178.2-2179.1
+  tags:
+  - motif: negus-death-announced-prayed-over-absent
+    refs:
+    - Jāmiʿ 13:2178.2
+    - Jāmiʿ 13:2178.3
+    - Jāmiʿ 13:2178.4
+    note: نعى النجاشيَّ في اليوم الذي مات فيه، خرج إلى المصلى فصف بهم، وكبَّر أربعًا; استغفروا لأخيكم; إن أخًا لكم قد مات، فقوموا فصلوا عليه
+  - motif: deaths-of-commanders-announced-with-tears
+    refs:
+    - Jāmiʿ 13:2178.5
+    - Jāmiʿ 13:2179.1
+    note: 'أخذ الراية زيد فأُصيبَ، ثم أخذها ... جعفر فأُصيب، ثم أخذها عبد الله بن رواحة فأُصيبَ، -وإن عيني رسول الله ﷺ لتذرفان-; صَعِدَ المِنبر وأَمَرَ أن يُنادَى: الصَّلاةُ جَامِعَة'
+  - motif: three-commanders-named-in-succession
+    refs:
+    - Jāmiʿ 13:2179.1
+    note: عليكم زيدُ بن حارثةَ، فإنْ أُصيبَ زيدٌ، فجَعْفَرٌ، فإنْ أُصِيبَ جعفرٌ، فعبد الله بن رواحةَ الأنصاريُّ
+  - motif: sword-of-gods-swords
+    refs:
+    - Jāmiʿ 13:2179.1
+    note: اللهمَّ هو سَيْفٌ مِن سُيوفِك فانصره" ... فيومئذ سُمي خالد سيف الله
+- id: hadith-13-sad-ibn-khawla
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Saʿd''s illness at the farewell pilgrimage: the third; the pitiable Saʿd b. Khawla'
+  read:
+  - Jāmiʿ 13:2180.1
+  tags:
+  - motif: bequest-limited-to-third-third-is-much
+    refs:
+    - Jāmiʿ 13:2180.1
+    note: 'أفأَتَصدَّقُ بثُلُثَي مَالِي؟ قال رسول الله ﷺ: "لا" فقلت: فالشَّطْرُ؟ قال: "لا" ... الثُّلُثُ، والثلث كثير، إنك أنْ تَذر ورثتك أغنياء خير من أن تذرَهم عالة يتكفَّفُون الناس'
+  - motif: rewarded-for-morsel-to-wifes-mouth
+    refs:
+    - Jāmiʿ 13:2180.1
+    note: إلَّا أُجرتَ، حتى ما تجعل في فِي امرأتِكَ
+  - motif: pity-for-sad-ibn-khawla
+    refs:
+    - Jāmiʿ 13:2180.1
+    note: لكن البائسُ سعد بن خولة"، يَرْثِي له رسولُ الله ﷺ أنْ ماتَ بمَكَّة
+- id: hadith-13-condolence
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Condolence: Jaʿfar''s orphans; the father of the dead little boy'
+  read:
+  - Jāmiʿ 13:2181.1-2182.1
+  tags:
+  - motif: three-days-then-no-weeping-orphans-heads-shaved
+    refs:
+    - Jāmiʿ 13:2181.1
+    note: 'أمهل آل جعفر ثلاثًا أن يأتيهم، ثم أتاهم فقال: "لا تبكوا على أخي بعد اليوم" ... فجئ بنا كأنَّا أفْرخ، فقال: "ادعو لي الحلاق" فأمره فحلق رؤوسنا ... وأنا وَلِيُّهم في الدّنيا والآخرة'
+  - motif: dead-son-opens-paradise-gate-for-father
+    refs:
+    - Jāmiʿ 13:2182.1
+    note: أو لا تأتي غدًا إلى باب من أبواب الجنة إلا وجَدْته قد سبقك إليه يفتحه لك

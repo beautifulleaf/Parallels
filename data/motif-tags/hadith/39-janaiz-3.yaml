@@ -1,0 +1,1978 @@
+# Hadith chunk 39: al-Jāmiʿ al-Kāmil book 13 (kitāb al-janāʾiz), Shamela pp. 2303-2416 (printed 4/239-352): the end of
+# the series on the funeral prayer (prayer at the grave, the self-slayer, the stoned, hypocrites and polytheists, the
+# debtor, whoever did good), the martyrs (not washed, prayed over or not, buried where they fell), the children of
+# Muslims and polytheists, burial (hours, night burial, lowering into the grave, the side-niche, several in one grave,
+# exhumation, the grave marker, the prophet's grave), the graves (no sacrifice, no building, plaster or sitting,
+# sandals), the state of the dead in the grave (hearing the sandals, the well of Badr, the punishment of the grave, the
+# questioning by the two angels, the squeeze, those spared), and the visiting of graves. Read in full from the Arabic
+# (169 hadith). One hadith (2401.2) lost its grade and takhrij line at a page break.
+new_motifs:
+  poor-woman-buried-by-night-prophet-prays-at-her-grave:
+    label: 'A poor sick woman dies; they bury her by night rather than wake the prophet; in the morning: ''did I not order you to tell me?'', and he lines the people up at her grave and says four takbirs'
+    cluster: ritual
+  my-prayer-over-them-is-a-mercy:
+    label: '''Let none of you die while I am among you without your telling me: my prayer over him is a mercy (raḥma) for him'''
+    cluster: ritual
+  prophet-refuses-prayer-over-self-slaughterer:
+    label: 'A man who cut his own throat with broad arrowheads (mashāqiṣ) is not prayed over by the prophet: ''then I will not pray over him'''
+    cluster: ritual
+  death-reported-thrice-he-has-not-died:
+    label: A neighbour reports the sick man dead three times; each time the prophet says 'he has not died', until the man is found to have cut his own throat; the neighbour curses him
+    cluster: narrative
+  confessor-turned-away-four-times-asked-if-mad-or-married:
+    label: A man of Aslam confesses fornication; the prophet turns away until he has testified against himself four times, then asks 'are you mad?' and 'are you married (aḥṣanta)?'
+    cluster: law
+  stoned-man-flees-when-stones-bite:
+    label: The confessed adulterer is stoned at the place of prayer (al-muṣallā); when the stones bite (adhlaqathu) he flees, is caught and stoned until he dies; the prophet speaks well of him and does
+      not pray over him
+    cluster: law
+  pregnant-adulteress-stoned-after-birth-and-prayed-over:
+    label: A pregnant woman of Juhayna asks for the penalty; her guardian is told to treat her well until she delivers; her clothes are bound on her, she is stoned, and the prophet prays over her
+    cluster: law
+  repentance-enough-for-seventy-of-medina:
+    label: '''She has repented a repentance that, divided among seventy of the people of Medina, would suffice them; is there better repentance than giving her life for God?'''
+    cluster: theology
+  god-gave-choice-i-will-add-to-seventy:
+    label: Told by Umar that God forbade praying over the hypocrite, the prophet answers that God gave him a choice ('ask forgiveness or not; if seventy times...') 'and I will add beyond seventy'
+    cluster: theology
+  umar-seizes-garment-to-stop-funeral-prayer:
+    label: Umar stands and takes hold of the prophet's garment to stop him praying over Abd Allah b. Ubayy; later he wonders at his own boldness
+    cluster: narrative
+  i-will-ask-forgiveness-for-you-until-forbidden:
+    label: At Abu Talib's death the prophet says 'I will surely ask forgiveness for you as long as I am not forbidden'; the Muslims begin to ask forgiveness for their dead polytheists; a verse forbids it
+    cluster: theology
+  say-it-and-i-will-plead-for-you-with-god:
+    label: '''Uncle, say: there is no god but God, a word by which I will plead for you (uḥājju laka) with God'' (or ''testify for you on the day of resurrection'')'
+    cluster: theology
+  forgiveness-for-polytheist-parents-defended-by-abraham:
+    label: A man asks forgiveness for his polytheist parents, arguing that Abraham asked forgiveness for his father; Ali reports it and the verse on Abraham's promise is revealed
+    cluster: theology
+  is-there-debt-before-funeral-prayer:
+    label: Before praying over a bier the prophet asks 'is there a debt on him? did he leave anything?'; over a debtor who left nothing he says 'pray over your companion' and does not pray himself
+    cluster: ritual
+  companion-assumes-dead-mans-debt:
+    label: A companion (Abu Qatada) takes on the dead man's debt ('it is on me'), and the prophet then prays over him
+    cluster: law
+  paid-debt-cools-dead-mans-skin:
+    label: 'Told the next day that the two dinars are now paid: ''now you have cooled his skin for him (al-āna barradta ʿalayhi jildahu)'''
+    cluster: eschatology
+  coins-in-waist-wrapper-two-brands:
+    label: 'A dead man without a shroud: in the inner fold of his waist-wrapper one or two dinars are found: ''two brands (kayyatān)'''
+    cluster: eschatology
+  one-night-of-guard-duty-earns-funeral-prayer:
+    label: Asked not to pray over a man, the prophet asks whether anyone saw him do any good; told he stood guard one night, he prays over him, throws earth on his grave and says 'your companions think
+      you are of the people of the fire; I testify you are of the people of paradise'
+    cluster: eschatology
+  you-are-not-asked-about-peoples-deeds:
+    label: 'To Umar: ''you will not be asked about people''s deeds, only about the ghība'' (variant: ''about the fiṭra'')'
+    cluster: theology
+  martyr-wrapped-in-his-clothes-as-he-was:
+    label: A man shot by an arrow in his chest or throat dies and is wrapped in his own clothes as he is
+    cluster: ritual
+  prophet-fears-world-not-shirk:
+    label: '''I do not fear that you will associate (others with God) after me, but I fear for you this world, that you vie for it'''
+    cluster: ethics
+  bedouin-refuses-share-wants-arrow-in-throat:
+    label: 'A bedouin convert given his share of spoils refuses it: ''not for this did I follow you, but to be shot here'' (pointing to his throat) ''by an arrow, and die and enter paradise''; ''if you
+      are true to God, God will be true to you'''
+    cluster: narrative
+  shot-where-he-pointed-shrouded-in-prophets-cloak:
+    label: 'He is brought shot exactly where he pointed: ''is it he? He was true to God and God was true to him''; the prophet shrouds him in his own cloak (jubba) and prays over him: ''this is your servant,
+      who went out an emigrant in your way and was killed a martyr; I am witness to that'''
+    cluster: ritual
+  slain-carried-back-to-their-death-places:
+    label: 'The slain of Uhud being carried off to be buried are brought back on the prophet''s order, called out by his herald: ''bury the slain where they lie (fī maḍājiʿihim)'''
+    cluster: ritual
+  animal-born-whole-ears-cut-later:
+    label: 'The fitra likened to a beast born whole (jamʿāʾ): do you find any with cropped ears (jadʿāʾ), until you crop them yourselves?'
+    cluster: theology
+  rider-behind-bier-walker-on-any-side:
+    label: The rider goes behind the bier; the walker walks behind it, before it, to its right and to its left, close to it
+    cluster: ritual
+  miscarried-fetus-prayed-over-parents-prayed-for:
+    label: The miscarried fetus (al-siqṭ) is prayed over, and forgiveness and mercy are asked for its parents
+    cluster: ritual
+  ibrahim-would-have-been-a-siddiq:
+    label: 'Asked whether the prophet prayed over his son Ibrahim, Anas says ''I do not know; God''s mercy on Ibrahim: had he lived he would have been a ṣiddīq'''
+    cluster: prophet-person
+  prophet-turns-away-to-the-right-after-prayer:
+    label: 'Asked whether to turn away to the right or the left after prayer: ''I saw the messenger of God turn to his right'''
+    cluster: ritual
+  jewish-servant-boy-converts-at-deathbed:
+    label: The prophet visits a sick Jewish boy who served him, sits at his head and says 'become Muslim'; the boy looks at his father, who says 'obey Abu l-Qasim'; he does, and the prophet leaves saying
+      'praise God who saved him from the fire'
+    cluster: narrative
+  three-hours-no-prayer-or-burial:
+    label: 'Three hours in which the prophet forbade praying or burying the dead: as the sun rises until it is high, at the noon standing until it declines, and as it inclines to set until it sets'
+    cluster: ritual
+  fire-in-the-graveyard-prophet-in-the-grave:
+    label: 'People see a fire (light) in the graveyard at night: the prophet is down in the grave saying ''hand me your companion'' - the man who used to raise his voice in remembrance of God'
+    cluster: narrative
+  no-night-burial-before-prayer-shroud-him-well:
+    label: Rebuking a man shrouded in a poor shroud and buried by night, the prophet forbids burying by night before he is prayed over, unless forced, and says 'when one of you shrouds his brother let him
+      make his shroud good'
+    cluster: ritual
+  dead-lowered-from-the-foot-of-the-grave:
+    label: 'The dead man is let into the grave from the side of its foot end (min qibal rijlay al-qabr): ''this is of the sunna'''
+    cluster: ritual
+  in-gods-name-and-on-the-sunna-of-his-messenger:
+    label: Laying the dead in the grave the prophet says 'In the name of God, and on the practice (sunna) of the messenger of God'
+    cluster: ritual
+  ask-firmness-for-him-he-is-now-questioned:
+    label: 'When the burial is done the prophet stands over the grave: ''ask forgiveness for your brother and ask for him firmness (al-tathbīt), for he is now being questioned'''
+    cluster: eschatology
+  prophet-weeps-at-daughters-grave:
+    label: The prophet sits by his daughter's grave and his eyes stream with tears
+    cluster: prophet-person
+  enemy-chiefs-thrown-in-a-stone-lined-well:
+    label: After Badr the prophet orders the twenty-odd (twenty-four) chiefs of Quraysh thrown into one of the stone-lined wells (ṭawī) of Badr; they are dragged by their feet
+    cluster: narrative
+  son-told-to-bury-polytheist-father-then-wash:
+    label: Ali tells the prophet 'your uncle the misguided old man has died'; 'go and cover (wāri) your father, then do nothing until you come to me'; he buries him, comes back, is told to wash, and the
+      prophet prays for him
+    cluster: ritual
+  breaking-dead-mans-bone-like-breaking-living:
+    label: '''Breaking the bone of the dead is like breaking it while he is alive'''
+    cluster: law
+  no-hamstringing-at-graves:
+    label: '''No hamstringing (ʿaqr) in Islam''; Abd al-Razzaq: they used to hamstring a cow or a sheep at the grave'
+    cluster: ritual
+  church-with-images-over-righteous-mans-grave:
+    label: 'In his illness wives who had been in Abyssinia describe a church called Māriya, its beauty and its images; he raises his head: ''when a righteous man among them died they built a place of worship
+      over his grave and painted those images in it; they are the worst of creation before God'''
+    cluster: ritual
+  graves-not-plastered-sat-on-or-built-over:
+    label: The prophet forbade that a grave be plastered (yujaṣṣaṣ), sat upon, or built upon (and, in a variant, written upon)
+    cluster: ritual
+  raised-grave-levelled-image-effaced:
+    label: '''Leave no image but you efface it and no raised grave (qabran mushrifan) but you level it'': the errand the prophet sent Ali on'
+    cluster: ritual
+  graves-levelled-unlike-raised-graves-of-jews-and-christians:
+    label: Levelling the graves is sunna; 'the Jews and Christians raised theirs, so do not resemble them'
+    cluster: ritual
+  better-sit-on-ember-than-on-grave:
+    label: Better that one sit on a live coal that burns his clothes through to his skin than sit on a grave
+    cluster: ritual
+  rather-walk-on-ember-or-sword-than-a-grave:
+    label: '''To walk on a live coal or a sword, or to sew my sandal with my foot, is dearer to me than to walk on a Muslim''s grave; and I do not mind whether I relieve myself amid the graves or in the
+      middle of the market'''
+    cluster: ritual
+  sibti-sandals-thrown-off-among-graves:
+    label: 'Walking among graves the prophet sees a man in sandals: ''you with the two tanned-hide sandals (al-sibtiyyatayn), woe to you, throw off your sandals''; he takes them off and throws them away'
+    cluster: ritual
+  pagans-missed-much-good-muslims-reached-it:
+    label: 'Passing the polytheists'' graves: ''these have missed much good'' (three times); passing the Muslims'' graves: ''these have reached much good'''
+    cluster: eschatology
+  name-zahm-changed-to-bashir:
+    label: 'A man named Zaḥm (''crowding'') in the jahiliyya is renamed by the prophet: ''no, you are Bashīr'''
+    cluster: naming
+  dead-hears-tread-of-departing-mourners-sandals:
+    label: The dead man, laid in his grave as his companions turn away, hears the knock (qarʿ, khafq, ḥiss) of their sandals
+    cluster: eschatology
+  dead-sat-up-shroud-on-his-neck-then-questioned:
+    label: The dead hears the sandals as the people turn away, then is made to sit up with his shroud put on his neck, and is questioned
+    cluster: eschatology
+  dig-wide-and-deep-bury-two-or-three-together:
+    label: 'Uhud wounds: ''dig, widen and do well, bury two and three in one grave, and put forward the one who has most Quran''; the narrator''s father was third of three and was put first'
+    cluster: ritual
+  gravedigger-told-widen-at-feet-and-head:
+    label: At a funeral the prophet on the grave tells the digger 'widen it on the side of his feet, widen it on the side of his head'
+    cluster: ritual
+  niche-grave-with-bricks-set-upright:
+    label: A side-niche (laḥd) is dug and unbaked bricks are set upright over the body (nuṣiba ʿalayhi al-labin naṣban), as was done for the prophet
+    cluster: ritual
+  washer-found-nothing-on-the-dead-prophet:
+    label: 'Ali washes the dead prophet and looks for what is usual from the dead, and sees nothing: ''he was good (ṭayyib) living and dead''; four (Ali, al-Abbas, al-Fadl, Salih) alone bury him'
+    cluster: prophet-person
+  martyrs-niche-digger-dug-prophets-niche:
+    label: Al-Abbas, Ali and al-Fadl went down into the prophet's grave; his niche was cut by an Ansari who used to cut the niches of the martyrs' graves
+    cluster: prophet-person
+  hypocrite-taken-from-grave-spat-on-dressed-in-shirt:
+    label: 'The prophet comes to Abd Allah b. Ubayy after he was put in his pit, has him taken out, sets him on his knees, blows his spittle on him and dresses him in his shirt; Sufyan: ''they think it
+      repaid him for clothing al-Abbas'''
+    cluster: ritual
+  stone-at-head-marks-brothers-grave:
+    label: 'At Uthman b. Maz''un''s burial the prophet bares his forearms, carries a stone a man could not lift and sets it at the head: ''by it I will know my brother''s grave and bury beside him those
+      of my family who die'''
+    cluster: ritual
+  mecca-sanctity-no-cutting-or-chasing:
+    label: 'Mecca made sacred by God, lawful to the prophet for an hour of a day only: its grass not cut, its trees not lopped, its game not startled, its lost property not picked up except by one who announces
+      it'
+    cluster: ritual
+  sat-at-grave-as-if-birds-on-heads:
+    label: Waiting at an unfinished grave the prophet sits, they sit around him 'as if birds were on our heads', and he scratches the ground with a stick, then says 'seek refuge with God from the punishment
+      of the grave' two or three times
+    cluster: eschatology
+  asks-where-am-i-tomorrow-awaiting-aishas-day:
+    label: In his illness the prophet keeps asking 'where am I today? where am I tomorrow?', impatient for Aisha's day; he dies between her chest and throat and is buried in her house
+    cluster: prophet-person
+  grave-kept-inside-lest-it-become-a-mosque:
+    label: 'Aisha: but for his curse on Jews and Christians who took their prophets'' graves as mosques, his grave would have been set in the open; it was feared it would be taken as a mosque'
+    cluster: ritual
+  umar-asks-aisha-for-burial-beside-two-companions:
+    label: The dying Umar sends to Aisha to ask to be buried with his two companions; she gives up the place she wanted for herself; he orders that permission be asked again after his death and, if refused,
+      that he be taken to the Muslims' cemetery
+    cluster: narrative
+  aisha-asks-burial-with-co-wives-lest-praised:
+    label: 'Aisha to Ibn al-Zubayr: ''bury me with my companions (co-wives), not with the prophet in the house; I dislike to be praised (uzakkā) for it'''
+    cluster: narrative
+  prophets-grave-humped:
+    label: The prophet's grave was seen humped (musannaman)
+    cluster: ritual
+  grave-raised-a-span:
+    label: The prophet was buried in a side-niche with bricks set upright, and his grave raised about a span (shibr) from the ground
+    cluster: ritual
+  umar-names-six-electors:
+    label: 'The dying Umar names six with whom the prophet was pleased at his death to choose the successor: Uthman, Ali, Talha, al-Zubayr, Abd al-Rahman b. Awf, Saad b. Abi Waqqas'
+    cluster: narrative
+  umar-wishes-to-come-out-even:
+    label: 'Told he will have precedence, a just rule and martyrdom, the dying Umar: ''I wish it were just enough, neither against me nor for me (kafāfan)'''
+    cluster: ethics
+  grave-first-station-of-the-hereafter:
+    label: 'Uthman weeps at a grave till his beard is wet, not at the mention of paradise and hell: the prophet said ''the grave is the first of the stations of the hereafter: if one is saved from it, what
+      follows is easier; if not, what follows is harder'' and ''I never saw a sight but the grave was more terrible'''
+    cluster: eschatology
+  victor-stays-three-nights-on-field:
+    label: When the prophet overcame a people he stayed in the open ground (al-ʿarṣa) three nights; on the third day at Badr he has his camel saddled and walks to the rim of the well
+    cluster: narrative
+  jews-heard-punished-in-graves-at-sunset:
+    label: 'Going out after the sun had set the prophet hears a sound: ''Jews being punished in their graves'''
+    cluster: eschatology
+  muslims-cry-out-at-mention-of-grave-trial:
+    label: When the prophet preaches on the trial of the grave the Muslims raise a great clamour (ḍajja)
+    cluster: eschatology
+  but-for-fear-you-would-not-bury:
+    label: '''Were it not that you would stop burying one another (lawlā an lā tadāfanū) I would ask God to let you hear (some) of the punishment of the grave'''
+    cluster: eschatology
+  only-jews-are-tried-then-revealed:
+    label: 'Told by a Jewish woman that ''you are tried in the graves'', the prophet, alarmed, says ''only the Jews are tried''; nights later: ''it has been revealed to me that you are tried in the graves'''
+    cluster: eschatology
+  jews-lie-then-grave-punishment-proclaimed-with-red-eyes:
+    label: 'Of a Jewish servant who blesses Aisha ''God guard you from the punishment of the grave'': ''the Jews lie, no punishment before the day of resurrection''; later he comes out at midday wrapped
+      in his garment, eyes red, crying ''trials have overshadowed you like pieces of the dark night ... seek refuge from the punishment of the grave, it is true'''
+    cluster: eschatology
+  mule-shies-at-pagan-graves:
+    label: In a Banu l-Najjar garden the prophet's mule shies and almost throws him at five or six graves of men who died in idolatry
+    cluster: eschatology
+  pagan-graves-heard-punished-refuge-sequence:
+    label: Hearing graves of the jahiliyya dead punished, the prophet has the people seek refuge in turn from the fire, the grave's punishment, the trials outward and inward, and the Dajjal's trial, each
+      answered aloud
+    cluster: ritual
+  hammer-blow-scream-heard-by-all-but-two-weighty:
+    label: The unbeliever who says 'I said what people said' is struck between the ears with an iron hammer (miṭraq, mirzabba); he screams a scream all creatures hear except the two weighty ones (al-thaqalayn,
+      men and jinn)
+    cluster: eschatology
+  house-in-fire-replaced-by-house-in-paradise:
+    label: 'The believer is taken to the house he had in the fire: ''this was your house in the fire, but God protected you and gave you instead a house in paradise'''
+    cluster: eschatology
+  let-me-go-tell-my-family-told-be-still:
+    label: The approved dead says 'let me go and give my family the good news'; he is told 'be still (uskun)'
+    cluster: eschatology
+  glad-it-died-in-jahiliyya:
+    label: Hearing a voice from a grave he asks when the man died; told 'in the jahiliyya', he is glad (surra bi-dhālika)
+    cluster: eschatology
+  do-you-hear-what-i-hear-bilal:
+    label: 'Walking with Bilal (who walks behind out of respect): ''Bilal, do you hear what I hear?'' - ''I hear nothing'' - ''the man in the grave is punished''; he is found to be a Jew'
+    cluster: eschatology
+  two-stalks-at-head-and-feet-of-one-grave:
+    label: 'At one grave the prophet asks for two palm stalks and sets one at the head and one at the feet: ''some of the punishment of the grave will be lightened so long as there is moisture in them'''
+    cluster: ritual
+  whole-punishment-of-grave-from-urine:
+    label: '''The bulk (ʿāmma) of the punishment of the grave is from urine, so keep clear of urine'''
+    cluster: ritual
+  slave-gift-named-midam-killed-by-stray-arrow:
+    label: A black slave named Mid'am, a gift from Rifa'a b. Zayd, is killed by a stray arrow (sahm ʿāʾir) while unloading the prophet's saddle in Wadi l-Qura; the people say 'paradise be his'
+    cluster: narrative
+  grave-squeezes-even-a-child:
+    label: '''If anyone escaped the squeeze (ḍamma) of the grave, this boy would have escaped it'', said at a child''s burial'
+    cluster: eschatology
+  good-deeds-guard-the-four-sides-of-the-grave:
+    label: In the believer's grave prayer stands at his head, fasting at his right, alms at his left, and good works (charity, kinship, kindness) at his feet; approached from each side, each says 'there
+      is no entry on my side'; the unbeliever has nothing on any side
+    cluster: eschatology
+  dead-shown-setting-sun-says-let-me-pray:
+    label: The dead believer is sat up with the sun shown to him near setting; he says 'leave me so I can pray'; 'you will do so; answer what we ask'
+    cluster: eschatology
+  believers-soul-among-good-souls-as-birds:
+    label: The believer's body is restored as it began and his soul (nasama) put among the good souls, birds that hang in the trees of paradise
+    cluster: eschatology
+  unbeliever-cannot-recall-the-name:
+    label: Asked about 'this man who was among you', the unbeliever asks 'which man?' and cannot find his name until told 'Muhammad'; then 'I do not know; I heard people say a thing'
+    cluster: eschatology
+  seat-in-other-abode-increases-joy-or-regret:
+    label: The believer is shown his seat in paradise, then his seat in the fire 'had you disobeyed', and grows in joy; the unbeliever is shown the reverse and grows in regret and ruin
+    cluster: eschatology
+  soul-flows-out-like-drop-from-waterskin:
+    label: The good soul comes out flowing as a drop flows from the mouth of a waterskin
+    cluster: eschatology
+  bad-soul-dragged-out-like-skewer-from-wet-wool:
+    label: The wicked soul scatters through the body and is dragged out as a skewer (saffūd) is dragged out of wet wool
+    cluster: eschatology
+  deeds-come-as-handsome-or-ugly-man:
+    label: In the grave a man comes, handsome, well dressed and fragrant ('I am your good deed') or ugly, ill dressed and stinking ('I am your foul deed')
+    cluster: eschatology
+  lord-establish-the-hour-or-do-not:
+    label: The approved dead prays 'Lord, establish the Hour, that I may return to my family and wealth'; the damned prays 'Lord, do not establish the Hour'
+    cluster: eschatology
+  black-faced-angels-with-sackcloth:
+    label: For the unbeliever angels with black faces come down from heaven carrying sackcloth (al-musūḥ) and sit as far as the eye reaches
+    cluster: eschatology
+  bad-soul-refused-at-heaven-and-thrown-down:
+    label: The wicked soul is not let through heaven's gate; God says 'write his record in Sijjin in the lowest earth' and his soul is thrown down
+    cluster: eschatology
+  dead-answers-ha-ha-i-do-not-know:
+    label: Asked 'who is your Lord? what is your religion? who is this man?', the unbeliever says each time 'hāh hāh, I do not know'
+    cluster: eschatology
+  i-created-them-from-it-return-them-to-it:
+    label: 'God: ''write my servant''s record in ʿIlliyyin and return him to the earth, for from it I created them, into it I return them and from it I bring them out once more'''
+    cluster: eschatology
+  sleep-like-a-bridegroom-woken-by-dearest:
+    label: The approved dead is told 'sleep like the bridegroom whom only the dearest of his family wakes, until God raises him from that resting place'
+    cluster: eschatology
+  earth-told-to-close-on-him-ribs-interlock:
+    label: 'Of the hypocrite: the earth is told ''close upon him (iltaʾimī)''; it closes and his ribs interlock, and he is punished there until raised'
+    cluster: eschatology
+  sleep-of-the-righteous-or-sleep-bitten:
+    label: '''Sleep the sleep of the righteous believers''; to the wicked ''sleep bitten (manhūshan)'': there is no beast but has a share of his body'
+    cluster: eschatology
+  by-me-you-are-tried-about-me-asked:
+    label: '''As for the trial of the grave: by me you are tried, and about me you are asked'''
+    cluster: eschatology
+  window-to-fire-crushing-itself:
+    label: An opening (furja) is made toward the fire and he sees it crushing itself (yaḥṭimu baʿḍuhā baʿḍan); then toward paradise and its splendour
+    cluster: eschatology
+  raised-as-he-died-believer-or-hypocrite:
+    label: '''Every servant in the grave is raised as he died: the believer on his faith, the hypocrite on his hypocrisy'''
+    cluster: eschatology
+  jewish-woman-begs-food-invoking-refuge-from-grave:
+    label: 'A Jewish woman begs food at Aisha''s door: ''feed me, God protect you from the trial of the Dajjal and the trial of the punishment of the grave''; the prophet then raises his hands to seek refuge
+      from both'
+    cluster: eschatology
+  any-would-be-stunned-by-angel-with-mallet:
+    label: Told of the angel with a mallet in his hand, a man says 'no one has an angel stand over him with a mallet but he would be stunned'; the prophet recites 'God makes firm those who believe with
+      the firm word'
+    cluster: eschatology
+  unbelievers-wits-taken-god-leads-wrongdoers-astray:
+    label: 'The unbeliever, sat up by two fiercely rebuking angels, says ''I do not know'' to each question: ''that is God''s word: and God leads the wrongdoers astray'''
+    cluster: eschatology
+  flash-of-swords-over-head-suffices-as-trial:
+    label: Why are believers tried in their graves but not the martyr? 'The flash of the swords over his head is trial enough'
+    cluster: eschatology
+  killed-by-belly-not-punished-in-grave:
+    label: '''Whoever is killed by his belly (disease of the belly) will not be punished in his grave'': two companions recall it and long to attend such a man''s funeral'
+    cluster: eschatology
+  dying-friday-spared-grave-trial:
+    label: '''No Muslim dies on the eve of Friday but he is freed from the trial of the grave'''
+    cluster: eschatology
+  believers-souls-ask-newcomer-about-acquaintances:
+    label: The believer's soul rising to heaven is met by the souls of believers asking about acquaintances on earth; glad to hear 'I left so-and-so alive'; at 'so-and-so died' they say 'he was not brought
+      to us'
+    cluster: eschatology
+  dying-believer-wishes-soul-out-god-loves-meeting:
+    label: The dying believer sees what he sees and wishes his soul would come out, and God loves to meet him; God's enemy wishes it never would, and God hates to meet him
+    cluster: eschatology
+  dead-woken-like-sleeper-starting-up:
+    label: When the two angels rebuke him the believer starts up as a sleeper starts up (yahubbu kamā yahubbu al-nāʾim) and answers
+    cluster: eschatology
+  tailbone-like-a-mustard-seed:
+    label: 'Asked what the tailbone (''ajb al-dhanab) that the earth does not eat is like: ''like a mustard seed (ḥabbat khardal); from it you will sprout'''
+    cluster: eschatology
+  three-prohibitions-lifted-graves-meat-vessels:
+    label: '''I forbade you to visit graves: visit them; I forbade you sacrificial meat beyond three days: keep what you wish; I forbade nabidh except in skins: drink from all vessels, but drink nothing
+      intoxicating'''
+    cluster: law
+  grave-visits-soften-heart-remind-of-hereafter:
+    label: 'Visit the graves: they soften the heart, make the eye weep and remind of the hereafter; ''and do not say foul words (hujran)'''
+    cluster: ritual
+  aisha-visits-brothers-grave:
+    label: 'Aisha returns from the cemetery, from the grave of her brother Abd al-Rahman b. Abi Bakr: ''he had forbidden the visiting of graves, then he ordered it'''
+    cluster: ritual
+  curse-on-women-who-frequent-graves:
+    label: '''The messenger of God cursed the women who frequent the graves (zawwārāt al-qubūr)'''
+    cluster: ritual
+  night-visit-to-baqi-at-gods-command:
+    label: 'On Aisha''s nights the prophet goes out at the end of the night to al-Baqiʿ; Gabriel calls him, hiding from Aisha: ''your Lord commands you to go to the people of al-Baqiʿ and ask forgiveness
+      for them'''
+    cluster: ritual
+  aisha-follows-him-to-baqi-and-races-back:
+    label: 'Aisha, thinking him asleep, follows him to al-Baqiʿ veiled; he stands long and raises his hands three times; on the way back they hasten, trot, run, and she gets in first and lies down breathless;
+      ''were you the black shape I saw ahead of me?'' - he strikes her chest: ''did you think God and his messenger would wrong you?'''
+    cluster: narrative
+  tell-me-or-the-subtle-the-aware-will-tell-me:
+    label: '''You tell me, or the Subtle, the Aware will tell me'''
+    cluster: theology
+  baqi-greeting-ask-wellbeing-for-us-and-you:
+    label: 'The prophet taught them to say at the graves: ''peace on you, people of the abodes, believers and Muslims; we will join you if God wills; you are our forerunners and we follow; I ask God well-being
+      (al-ʿāfiya) for us and you'''
+    cluster: ritual
+  raises-hands-thrice-at-baqi:
+    label: At al-Baqiʿ the prophet stands long, then raises his hands three times
+    cluster: ritual
+  gabriel-hides-from-undressed-wife:
+    label: Gabriel would not come in to Aisha once she had put off her clothes, so he called the prophet outside, hiding from her
+    cluster: angelology
+  give-unbelievers-grave-tidings-of-fire:
+    label: 'A bedouin asks ''where is my father?'' - ''in the fire''; ''where is yours?'' - ''wherever you pass the grave of an unbeliever, give him tidings of the fire''; he becomes Muslim and says ''he
+      set me a toil: I never pass an unbeliever''s grave but I give him tidings of the fire'''
+    cluster: eschatology
+units:
+- id: hadith-13-prayer-at-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prayer at the grave of the poor woman buried by night; four takbirs; 'call me to your funerals'
+  read:
+  - Jāmiʿ 13:2303.1-2303.3
+  tags:
+  - motif: poor-woman-buried-by-night-prophet-prays-at-her-grave
+    refs:
+    - Jāmiʿ 13:2303.1
+    - Jāmiʿ 13:2303.2
+    - Jāmiʿ 13:2303.3
+    note: 'كرهنا أن نُخرجَك ليلًا، ونوقظك، فخرج رسول الله ﷺ حتي صفَّ بالناس على قبرها، وكبَّر أربع تكبيرات; صلى على قبر امرأةٍ بعد ما دُفنتْ; كنت نائمًا، فكرهنا أن نُوقظك، قال: "فلا تفعلوا فادعوني لجنائزكم"'
+  - motif: my-prayer-over-them-is-a-mercy
+    refs:
+    - Jāmiʿ 13:2303.1
+    note: كان رسول الله ﷺ يعود المساكين، ويسأل عنهم
+- id: hadith-13-self-slaughterer-not-prayed-over
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The man who slaughtered himself with arrowheads: ''he has not died'' thrice, then ''I will not pray over him'''
+  read:
+  - Jāmiʿ 13:2305.1
+  tags:
+  - motif: prophet-refuses-prayer-over-self-slaughterer
+    refs:
+    - Jāmiʿ 13:2305.1
+    note: أتي النبي ﷺ برجل قتل نفسه بمشاقص، فلم يُصَلّ عليه ... "إذًا لا أصلي عليه"
+  - motif: death-reported-thrice-he-has-not-died
+    refs:
+    - Jāmiʿ 13:2305.1
+    note: '"إنَّه لم يمت" ... فقال الرجل: اللهم! العنه ... فرآه قد نحر نفسه بمشْقَص معه'
+- id: hadith-13-stoned-not-prayed-over-and-prayed-over
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The stoned man of Aslam not prayed over; the stoned woman of Juhayna prayed over
+  read:
+  - Jāmiʿ 13:2306.1-2307.1
+  tags:
+  - motif: confessor-turned-away-four-times-asked-if-mad-or-married
+    refs:
+    - Jāmiʿ 13:2306.1
+    note: 'فأعرض عنه النبي ﷺ حتى شهد على نفسه أربع مرات، قال له النبي ﷺ: "أبك جنون"؟ قال: لا، قال: "أحصنت؟ "'
+  - motif: stoned-man-flees-when-stones-bite
+    refs:
+    - Jāmiʿ 13:2306.1
+    note: فرجم بالمصلي، فلما أذلقتْه الحجارة فرَّ، فأُدرك فرجم حتى مات، فقال النبي ﷺ خيرًا، ولم يُصَلِّ عليه
+  - motif: pregnant-adulteress-stoned-after-birth-and-prayed-over
+    refs:
+    - Jāmiʿ 13:2307.1
+    note: '"أحسن إليها، فإذا وضعت فائتني بها" ففعل. فأمر بها نبي الله ﷺ فشكتْ عليها ثيابُها، ثم أمر بها فرجمتْ، ثم صلَّى عليها'
+  - motif: repentance-enough-for-seventy-of-medina
+    refs:
+    - Jāmiʿ 13:2307.1
+    note: لقد تابتْ توبة لو قُسِمت بين سبعين من أهل المدينة لوسعتْهم
+  hints:
+  - The confessed adulterer stoned outside the place of prayer and the woman's clothes bound on her before stoning, against m. Sanhedrin 6:1-4 (the condemned led out from the court, stripped, the woman
+    left covered) and Deut 22:21-24.
+- id: hadith-13-no-prayer-over-hypocrites-and-polytheists
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn Ubayy's funeral and the verse forbidding it; Abu Talib's death and the verse forbidding forgiveness for polytheists
+  read:
+  - Jāmiʿ 13:2307.2-2309.1
+  quran:
+  - 9:80
+  - 9:84
+  - 9:113
+  - 9:114
+  - '28:56'
+  tags:
+  - motif: shirt-given-to-shroud-ibn-ubayy
+    refs:
+    - Jāmiʿ 13:2307.2
+    note: وسأله أن يُعطيه قميصَه يُكفِّنُ فيه أباه فأعطاه
+  - motif: umar-seizes-garment-to-stop-funeral-prayer
+    refs:
+    - Jāmiʿ 13:2307.2
+    note: 'فقام عمر فأخذ بثوب رسول الله ﷺ فقال: يا رسول الله! تصلي عليه، وقد نهاك ربك أن تصلي عليه؟'
+  - motif: god-gave-choice-i-will-add-to-seventy
+    refs:
+    - Jāmiʿ 13:2307.2
+    note: إنما خيَّرني الله ... وسأزيده على سبعين
+  - motif: no-funeral-prayer-for-hypocrites
+    refs:
+    - Jāmiʿ 13:2307.2
+    note: وَلَا تُصَلِّ عَلَى أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا وَلَا تَقُمْ عَلَى قَبْرِهِ
+  - motif: say-it-and-i-will-plead-for-you-with-god
+    refs:
+    - Jāmiʿ 13:2308.1
+    - Jāmiʿ 13:2308.2
+    note: '"أي عم! قل: لا إله إلا الله. أحاج لك بها عند الله"; "قل: لا إله إلا الله. أشهد لك بها يوم القيامة" فأبى'
+  - motif: dying-uncle-chooses-religion-of-his-father
+    refs:
+    - Jāmiʿ 13:2308.1
+    note: يا أبا طالب! أترغب عن ملة عبد المطلب؟
+  - motif: i-will-ask-forgiveness-for-you-until-forbidden
+    refs:
+    - Jāmiʿ 13:2308.1
+    - Jāmiʿ 13:2308.3
+    note: '"لأستغفرن لك ما لم أُنه عنك"; فأخذ المسلمون يستغفرون لموتاهم الذين ماتوا وهم مشركون'
+  - motif: no-forgiveness-prayer-for-polytheist-kin
+    refs:
+    - Jāmiʿ 13:2308.1
+    - Jāmiʿ 13:2308.3
+    note: مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَنْ يَسْتَغْفِرُوا لِلْمُشْرِكِينَ وَلَوْ كَانُوا أُولِي قُرْبَى
+  - motif: forgiveness-for-polytheist-parents-defended-by-abraham
+    refs:
+    - Jāmiʿ 13:2309.1
+    note: 'سمعت رجلًا يستغفر لأبويه وهما مشركان ... فقال: أو لم يستغفر إبراهيم لأبيه'
+- id: hadith-13-debtor-not-prayed-over
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The debtor''s bier: three funerals and three dinars; Abu Qatada''s guarantee; ''now you have cooled his skin''; abrogated by ''I am nearer to the believers'''
+  read:
+  - Jāmiʿ 13:2309.2-2312.2
+  quran:
+  - '33:6'
+  tags:
+  - motif: is-there-debt-before-funeral-prayer
+    refs:
+    - Jāmiʿ 13:2309.2
+    - Jāmiʿ 13:2310.1
+    - Jāmiʿ 13:2310.2
+    - Jāmiʿ 13:2311.1
+    - Jāmiʿ 13:2312.2
+    note: '"هل عليه دَيْنٌ؟ " ... قالوا: ثلاثة دنانير، قال: "صلُّوا على صاحبكم"; فخطا خطىً ثم قال: "أعليه دين؟ " قلنا: ديناران، فانصرف'
+  - motif: companion-assumes-dead-mans-debt
+    refs:
+    - Jāmiʿ 13:2309.2
+    - Jāmiʿ 13:2310.1
+    - Jāmiʿ 13:2310.2
+    - Jāmiʿ 13:2310.3
+    - Jāmiʿ 13:2311.1
+    - Jāmiʿ 13:2312.2
+    note: 'قال أبو قتادة: صلِّ عليه يا رسول الله! وعليَّ دينُه، فصلى عليه; "بالوفاء؟ " قال: بالوفاء; وفي رواية كان عليه ثمانية عشر، أو تسعة عشر درهما'
+  - motif: paid-debt-cools-dead-mans-skin
+    refs:
+    - Jāmiʿ 13:2310.2
+    note: '"حق الغريم، وبَرِئَ منهما الميت؟ " ... "الآن برَّدْتَ عليه جِلْده"'
+  - motif: coins-in-waist-wrapper-two-brands
+    refs:
+    - Jāmiʿ 13:2310.3
+    note: '"انظروا إلى داخلة إزاره" فأصيب دينار، أو ديناران فقال: "كَيَّتَانِ، صلوا على صاحبكم"'
+  - motif: prophet-pays-dead-believers-debts
+    refs:
+    - Jāmiʿ 13:2312.1
+    - Jāmiʿ 13:2312.2
+    note: 'فلما فتح الله عليه الفتوح قال: "أنا أولى بالمؤمنين من أنفسهم، فمن تُوفي من المؤمنين فترك دينا فعلي قضاؤُه، ومن ترك مالا فلورثته"'
+  hints:
+  - The dead debtor's skin 'cooled' only when the creditor is paid, against the rabbinic view that the dead are not released while debts remain (cf. the Talmudic case of a debt collected from orphans, b.
+    Ketubot 91b-92a), which is a looser analogue.
+- id: hadith-13-prayer-over-whoever-did-good
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The man who guarded one night: prayed over and declared of paradise'
+  read:
+  - Jāmiʿ 13:2313.1
+  tags:
+  - motif: one-night-of-guard-duty-earns-funeral-prayer
+    refs:
+    - Jāmiʿ 13:2313.1
+    note: 'حرس معنا ليلة كذا وكذا، قال: فصلَّى عليه رسول الله ﷺ، ثم مشى إلى قبره ثم حثا عليه ويقول: "إن أصحابك يظنون أنك من أهل النار، وأنا أشهد أنك من أهل الجنة"'
+  - motif: you-are-not-asked-about-peoples-deeds
+    refs:
+    - Jāmiʿ 13:2313.1
+    note: '"إنك لا تسأل عن أعمال الناس، وإنما تسأل عن الغيبة". وفي رواية: "وإنما تسأل عن الفطرة"'
+- id: hadith-13-martyrs-not-washed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The martyrs of Uhud buried in their blood; Julaybib; Hanzala washed by the angels; the man wrapped in his clothes
+  read:
+  - Jāmiʿ 13:2315.1-2319.1
+  tags:
+  - motif: martyrs-buried-two-in-a-cloth-quran-first
+    refs:
+    - Jāmiʿ 13:2315.1
+    note: 'يجمع بين الرجلين من قتلى أُحد في ثوب واحد، ثم يقول: "أيهم أكثر أخذًا للقرآن؟ " ... وأمر بدفنهم في دمائهم، ولم يُغَسِّلُوا، ولم يُصَلِّ عليهم'
+  - motif: julaybib-killed-seven-buried-on-prophets-forearms
+    refs:
+    - Jāmiʿ 13:2318.1
+    note: فوجدوه إلى جنب سبعة قد قتلهم، ثم قتلوه ... هذا مني، وأنا منه ... فوضعه على ساعديه، ليس له إلا ساعدا النبي ﷺ ... ولم يذكر غُسْلًا
+  - motif: martyr-washed-by-angels-went-out-in-janaba
+    refs:
+    - Jāmiʿ 13:2318.2
+    note: '"إن صاحبكم حنظلة تُغَسِّله الملائكة، فسلوا صاحبتَه". فقالت: خرج وهو جنب لما سمع الهائعة'
+  - motif: martyr-wrapped-in-his-clothes-as-he-was
+    refs:
+    - Jāmiʿ 13:2319.1
+    note: رمي رجل بسهم في صدره، أو في حلقه فمات، فأدرج في ثيابه كما هو
+- id: hadith-13-prayer-over-uhud-after-eight-years
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Eight years after Uhud: prayer over its dead as a farewell; the forerunner at the basin'
+  read:
+  - Jāmiʿ 13:2319.2
+  tags:
+  - motif: prays-over-uhud-dead-after-eight-years-as-farewell
+    refs:
+    - Jāmiʿ 13:2319.2
+    note: صلَّى رسولُ الله ﷺ على قَتْلى أُحُد بعد ثماني سنين كالمودِّع للأحياء والأموات
+  - motif: prophet-forerunner-at-the-basin
+    refs:
+    - Jāmiʿ 13:2319.2
+    note: '"إني بين أيديكم فَرَطٌ، وأنا عليكم شهيد، وإن موعدكم الحوض، وإني لأنظر إليه من مقامي هذا"'
+  - motif: sees-the-basin-from-the-pulpit
+    refs:
+    - Jāmiʿ 13:2319.2
+    note: وإني لأنظر إليه من مقامي هذا
+  - motif: prophet-fears-world-not-shirk
+    refs:
+    - Jāmiʿ 13:2319.2
+    note: وإني لستُ أخشى عليكم أن تُشركوا، ولكني أخشى عليكم الدنيا أن تنافسوا
+- id: hadith-13-bedouin-martyr-prayed-over
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The bedouin who wanted an arrow in the throat: shrouded in the prophet''s cloak and prayed over'
+  read:
+  - Jāmiʿ 13:2320.1
+  tags:
+  - motif: bedouin-refuses-share-wants-arrow-in-throat
+    refs:
+    - Jāmiʿ 13:2320.1
+    note: 'ما على هذا اتَّبَعتُكَ، ولكني اتَّبَعتُك على أن أُرمي إلى ههنا. وأشار إلى حَلقه بسهم فأمُوتَ فأدخلَ الجنَّة، فقال: "إن تَصدُق الله يصدقكُ"'
+  - motif: shot-where-he-pointed-shrouded-in-prophets-cloak
+    refs:
+    - Jāmiʿ 13:2320.1
+    note: وقد أصابه سهمٌ حيث أشار ... "صدق الله فصدقَه"، ثم كفَّنه النبيُّ ﷺ في جُبَّةِ النبي ﷺ ثم قدَّمه فصَلَّى عليه
+- id: hadith-13-martyrs-buried-where-they-fell
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The herald''s call after Uhud: return the slain to where they fell'
+  read:
+  - Jāmiʿ 13:2320.2-2321.1
+  tags:
+  - motif: slain-carried-back-to-their-death-places
+    refs:
+    - Jāmiʿ 13:2320.2
+    - Jāmiʿ 13:2321.1
+    note: '"إن رسول الله ﷺ يأمركم أن تدفنوا القتلى في مضاجعهم" فرددناهم; نادي منادي رسول الله ﷺ أن رُدوا القتلى إلى مضاجعهم'
+- id: hadith-13-children-of-the-muslims
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibrahim's wet-nurse in paradise; every child born on the fitra; 'a sparrow of paradise' rebuked
+  read:
+  - Jāmiʿ 13:2322.1-2322.3
+  quran:
+  - '30:30'
+  tags:
+  - motif: dead-infant-suckled-in-paradise
+    refs:
+    - Jāmiʿ 13:2322.1
+    note: 'لما توفي إبراهيم ﵇ قال رسول الله ﷺ: "إن له مرضعًا في الجنة"'
+  - motif: parents-make-child-jew-or-christian
+    refs:
+    - Jāmiʿ 13:2322.2
+    note: كل مولود يُولد على الفطرة، فأبواه يُهودانه أو ينصرانه ... ويُمَجِّسانه
+  - motif: animal-born-whole-ears-cut-later
+    refs:
+    - Jāmiʿ 13:2322.2
+    note: كما تُنَاتَجُ الإبلُ من بهيمةٍ جمعاءَ، هل تُحِسُّ فيها من جَدعَاء؟ ... حتى تكونوا أنتم تجدعونها
+  - motif: god-knows-what-dead-children-would-have-done
+    refs:
+    - Jāmiʿ 13:2322.2
+    note: 'أرأيت الذي يموت وهو صغير؟ قال: "الله أعلم بما كانوا عاملين"'
+  - motif: newborns-cry-from-satans-touch-except-mary-and-son
+    refs:
+    - Jāmiʿ 13:2322.2
+    note: كل إنسان تلده أمه يَلكزه الشيطان في حِضنَه، إلا مريم وابنها
+  - motif: paradise-and-hell-each-created-with-its-people
+    refs:
+    - Jāmiʿ 13:2322.3
+    note: طوبي له, عُصفور من عَصافير الجنة ... خلقهم لها وهم في أَصلاب آبائهم
+- id: hadith-13-prayer-over-children-and-fetus
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The miscarried fetus is prayed over; where the walker and rider go with the bier
+  read:
+  - Jāmiʿ 13:2323.1
+  tags:
+  - motif: rider-behind-bier-walker-on-any-side
+    refs:
+    - Jāmiʿ 13:2323.1
+    note: الراكب يسير خلف الجنازة، والماشي يمشي خلفَها وأمامَها، وعن يمينها وعن يسارها قريبًا منها
+  - motif: miscarried-fetus-prayed-over-parents-prayed-for
+    refs:
+    - Jāmiʿ 13:2323.1
+    note: والسِقطُ يُصَلَّي عليه، ويُدعى لوالديه بالمغفرة والرحمة
+- id: hadith-13-prayer-over-ibrahim
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Anas does not know whether the prophet prayed over Ibrahim
+  read:
+  - Jāmiʿ 13:2324.1
+  tags:
+  - motif: ibrahim-would-have-been-a-siddiq
+    refs:
+    - Jāmiʿ 13:2324.1
+    note: 'قال: لا أدري، رحمةُ الله على إبراهيم، لو عاش كان صديقًا بينًّا'
+  - motif: prophet-turns-away-to-the-right-after-prayer
+    refs:
+    - Jāmiʿ 13:2324.1
+    note: أما أنا فرأيتُ رسول الله ﷺ ينصرف عن يمينه
+- id: hadith-13-children-of-the-polytheists
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The children of the polytheists: ''God knows best what they would have done''; the boy al-Khadir killed'
+  read:
+  - Jāmiʿ 13:2326.1-2326.3
+  quran:
+  - 18:80
+  tags:
+  - motif: god-knows-what-dead-children-would-have-done
+    refs:
+    - Jāmiʿ 13:2326.1
+    - Jāmiʿ 13:2326.2
+    note: '"الله إذ خلقهم أعلمُ بما كانوا عاملين"; سئل النبي ﷺ عن ذَراري المشركين'
+  - motif: boy-killed-by-khidr-stamped-unbeliever
+    refs:
+    - Jāmiʿ 13:2326.3
+    note: '"إن الغلام الذي قتله الخَضِرُ طُبع كافرًا، ولو عاش لأَرهقَ أبويه طغيانًا وكفرًا"'
+- id: hadith-13-islam-offered-to-dying-boy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The dying Jewish boy: ''obey Abu l-Qasim'''
+  read:
+  - Jāmiʿ 13:2327.1
+  tags:
+  - motif: jewish-servant-boy-converts-at-deathbed
+    refs:
+    - Jāmiʿ 13:2327.1
+    note: 'فقعد عند رأسه فقال له: "أسلم" فنظر إلى أبيه وهو عنده فقال له: أطع أبا القاسم ﷺ، فأسلم ... "الحمد لله الذي أنقذه من النار"'
+- id: hadith-13-moses-asks-for-the-holy-land
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Moses slaps the angel of death and asks to be brought a stone's throw from the Holy Land
+  read:
+  - Jāmiʿ 13:2328.1
+  tags:
+  - motif: moses-slaps-angel-of-death
+    refs:
+    - Jāmiʿ 13:2328.1
+    note: أُرسل ملك الموت إلى موسى ﵇، فلما جاءه صكَّه ... فرد الله عليه عينه
+  - motif: a-year-for-each-hair-under-hand-on-ox
+    refs:
+    - Jāmiʿ 13:2328.1
+    note: 'يضع يَده على متن ثور، فله بكل ما غطَّت به يدُه بكل شعرة سنة ... ثم الموت، قال: فالآن'
+  - motif: moses-asks-to-die-stone-throw-from-holy-land
+    refs:
+    - Jāmiʿ 13:2328.1
+    note: فسأل الله أن يُدنِيه من الأرض المقدسة رميةً بحجرٍ ... لأريتُكم قبره إلى جانب الطريق عند الكثيب الأحمر
+  hints:
+  - Moses' grave shown 'by the road at the red sandhill', near but outside the Holy Land, against Deut 34:6 ('no one knows his burial place to this day') and his being shown the land without entering it
+    (Deut 34:4).
+- id: hadith-13-hours-forbidden-for-burial
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The three hours when prayer and burial are forbidden
+  read:
+  - Jāmiʿ 13:2328.2
+  tags:
+  - motif: three-hours-no-prayer-or-burial
+    refs:
+    - Jāmiʿ 13:2328.2
+    note: 'ثلاث ساعات كان رسول الله ﷺ ينهانا أن نصلي فيهن، أو نَقبر فيهن موتانا: حين تطلع الشمس بازغة حتى ترتفع، وحين يقوم قائم الظهيرة حتى تميل الشمس، وحين تَضيَّفُ الشمسُ للغروب حتى تغربَ'
+- id: hadith-13-burial-by-night
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Burial by night: prayer over a man buried the night before; the fire in the graveyard; the rebuke for a poor shroud'
+  read:
+  - Jāmiʿ 13:2329.1-2330.1
+  tags:
+  - motif: poor-woman-buried-by-night-prophet-prays-at-her-grave
+    refs:
+    - Jāmiʿ 13:2329.1
+    note: 'صلى النبي ﷺ على رجل بعد ما دُفِن بليلة ... فقالوا: فلان، دُفن البارحة، فصلوا عليه'
+  - motif: fire-in-the-graveyard-prophet-in-the-grave
+    refs:
+    - Jāmiʿ 13:2329.2
+    note: 'رأى ناس نارًا في المقبرة، فأتوها، فإذا رسول الله ... في القبر، وإذا يقول: "ناولوني صاحبكم" فإذا هو الرجل الذي كان يرفع صوته بالذكر'
+  - motif: no-night-burial-before-prayer-shroud-him-well
+    refs:
+    - Jāmiʿ 13:2330.1
+    note: فكفِّن في كفن غير طائل، وقُبر ليلًا، فزجر النبي ﷺ أن يُقبر الرجلُ بالليل حتى يصلي عليه، إلا أن يضطر إنسان إلى ذلك ... "إذا كفَّن أحدكم أخاه فليُحسِن كفَنَه"
+- id: hadith-13-laying-the-dead-in-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: From the foot of the grave; the man who did not lie with his wife goes down; 'in the name of God'; 'ask firmness for him'
+  read:
+  - Jāmiʿ 13:2331.1-2335.1
+  tags:
+  - motif: dead-lowered-from-the-foot-of-the-grave
+    refs:
+    - Jāmiʿ 13:2331.1
+    note: 'ثم أدخله القبر من قبل رجلي القبر. وقال: "هذا من السنة"'
+  - motif: gravedigger-who-did-not-lie-with-wife
+    refs:
+    - Jāmiʿ 13:2332.1
+    note: '"هل فيكم من أحد لم يقارف الليلة؟ " فقال أبو طلحة: أنا، قال: "فأنزل في قبرها"'
+  - motif: prophet-weeps-at-daughters-grave
+    refs:
+    - Jāmiʿ 13:2332.1
+    note: ورسول الله ﷺ جالس على القبر، فرأيت عينيه تدمعان
+  - motif: in-gods-name-and-on-the-sunna-of-his-messenger
+    refs:
+    - Jāmiʿ 13:2333.1
+    note: 'كان إذا وضع الميت في القبر قال: "بسم الله، وعلى سنة رسول الله"'
+  - motif: ask-firmness-for-him-he-is-now-questioned
+    refs:
+    - Jāmiʿ 13:2335.1
+    note: '"استغفروا لأخيكم، وسَلُوا له التثبيتَ، فإنه الآن يُسأل"'
+- id: hadith-13-pagans-buried-apart-the-well-of-badr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The slain of Badr thrown into the well, one on another; Umayya too swollen to move
+  read:
+  - Jāmiʿ 13:2338.1-2338.3
+  tags:
+  - motif: enemy-chiefs-thrown-in-a-stone-lined-well
+    refs:
+    - Jāmiʿ 13:2338.1
+    - Jāmiʿ 13:2338.2
+    note: بأربعة وعشرين رجلًا من صناديد قريش، فأُلقوا في طَوِيٍّ من أطواء بدرٍ; فجعلوا في بئر بعضهم على بعض
+  - motif: death-places-marked-before-battle
+    refs:
+    - Jāmiʿ 13:2338.2
+    note: '"هذا مصرع فلان غدًا إن شاء الله" قال: فوالذي بعثه بالحق ما أخطؤوا الحدود التي حدَّ رسول الله ﷺ'
+  - motif: body-too-swollen-for-the-well
+    refs:
+    - Jāmiʿ 13:2338.3
+    note: إلَّا ما كان من أميَّة بن خلف، فإنَّهُ انتفخَ في دِرعِه فملأها، فذهبوا ليحركوه، فتزايلَ (لحمه) فأقرُّوه وألقَوا عليه ما غيَّبه من التُّراب والحجارة
+- id: hadith-13-burying-the-polytheist
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ali buries Abu Talib and is told to wash
+  read:
+  - Jāmiʿ 13:2339.1
+  tags:
+  - motif: son-told-to-bury-polytheist-father-then-wash
+    refs:
+    - Jāmiʿ 13:2339.1
+    note: 'إن عمك الشيخ الضال قد مات، قال: "اذهب فوار أباك، ثم لا تحدثَنَّ شيئًا حتى تأتيني" فذهبت فواريتُه وجئتُه، فأمرني فاغتسلت، ودعا لي'
+  hints:
+  - 'Burying a dead relative then washing: the corpse defiles by contact and overshadowing and the one defiled washes (Num 19:11-19); here the washing follows burying a polytheist father, and the report
+    is about the son, not the corpse.'
+- id: hadith-13-respect-for-the-dead-body
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Breaking a dead man's bone
+  read:
+  - Jāmiʿ 13:2340.1
+  tags:
+  - motif: breaking-dead-mans-bone-like-breaking-living
+    refs:
+    - Jāmiʿ 13:2340.1
+    note: '"كسر عظْم الميت ككسْره حيًّا"'
+  hints:
+  - The dead body's bones not to be broken, against the rabbinic rule that disgrace of the dead (nivvul ha-met) forbids opening or harming a corpse (b. Bava Batra 154a) and Exod 12:46 / John 19:36 (no bone
+    broken), the latter of the Passover lamb.
+- id: hadith-13-no-sacrifice-at-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No hamstringing of beasts at graves
+  read:
+  - Jāmiʿ 13:2341.1
+  tags:
+  - motif: no-hamstringing-at-graves
+    refs:
+    - Jāmiʿ 13:2341.1
+    note: '"لا عَقْر في الإسلام". قال عبد الرزاق: كانوا يَعْقِرون عند القبر ببقرةٍ أو شاةٍ'
+  hints:
+  - A cow or sheep slaughtered at the grave, against the funeral sacrifices of oxen and sheep for the dead in Mesopotamian burial texts (vocab funeral-sacrifice-of-oxen-and-sheep).
+- id: hadith-13-no-mosque-over-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The church of Mariya in Abyssinia: images over a righteous man''s grave'
+  read:
+  - Jāmiʿ 13:2341.2
+  tags:
+  - motif: church-with-images-over-righteous-mans-grave
+    refs:
+    - Jāmiʿ 13:2341.2
+    note: كنيسةً رأينَها بأرض الحبشة يقال لها مارية ... فذكرتا من حسنها وتصاوير فيها ... "أولئك إذا مات منهم الرجل الصالح بنوا على قبره مسجدًا، ثم صوَّروا فيه تلك الصورة، أولئك شِرار الخلق عند الله"
+  - motif: graves-of-prophets-taken-as-places-of-worship
+    refs:
+    - Jāmiʿ 13:2341.2
+    note: بنوا على قبره مسجدًا
+  hints:
+  - A church in Abyssinia with images over a holy man's tomb, against the Christian cult of saints' tombs with painted martyria (e.g. the Ethiopian and Byzantine martyrium churches built over relics).
+- id: hadith-13-plastering-levelling-sitting-on-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Graves not plastered, built on or sat on; raised graves levelled; the live coal
+  read:
+  - Jāmiʿ 13:2342.1-2344.3
+  tags:
+  - motif: graves-not-plastered-sat-on-or-built-over
+    refs:
+    - Jāmiʿ 13:2342.1
+    - Jāmiʿ 13:2344.2
+    note: نهى رسول الله ﷺ أن يُجصَّص القبرُ، وأن يُقْعد عليه، وأن يبُنى عليه
+  - motif: raised-grave-levelled-image-effaced
+    refs:
+    - Jāmiʿ 13:2343.1
+    - Jāmiʿ 13:2343.2
+    note: 'فأمر فضالة بن عبيد بقبره فسُوِّيَ ثم قال: "سمعت رسول الله ﷺ يأمر بتسويتها"; أن لا تَدَعَ تمثالًا إلا طمستَه، ولا قبرًا مشرقًا إلا سوَّيته'
+  - motif: graves-levelled-unlike-raised-graves-of-jews-and-christians
+    refs:
+    - Jāmiʿ 13:2343.3
+    note: إن تسوية القبور من السنة، وقد رفعت اليهود والنصارى فلا تُشبهوا بهما
+  - motif: better-sit-on-ember-than-on-grave
+    refs:
+    - Jāmiʿ 13:2343.4
+    note: '"لأن يجلس أحدكم على جَمْرة فَتحْرِق ثيابُه، فتخلص إلى جلده، خير له من أن يجلس على قبر"'
+  - motif: no-prayer-toward-graves-or-sitting-on-them
+    refs:
+    - Jāmiʿ 13:2344.1
+    note: '"لا تجلسوا على القبور، ولا تُصلوا إليها"'
+  - motif: rather-walk-on-ember-or-sword-than-a-grave
+    refs:
+    - Jāmiʿ 13:2344.3
+    note: '"لأن أمشي على جمرةٍ أو سيفٍ، أو أخصف نعلي برجلي، أحب إلي من أن أمشي على قبر مسلم، وما أبالي أوسط القبور قضيت حاجتي، أو وسط السوق"'
+  hints:
+  - Sitting or walking on graves forbidden, against m. Megillah 3:3 / b. Megillah 29a and b. Berakhot 18a (no levity in a cemetery, not walking with tefillin among graves) and the rabbinic marking of graves
+    with lime (m. Maaser Sheni 5:1) - there whitewash marks the grave to warn of impurity, here plaster is forbidden.
+- id: hadith-13-sandals-among-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Bashir b. al-Khasasiyya: ''throw off your sibti sandals'''
+  read:
+  - Jāmiʿ 13:2345.1
+  tags:
+  - motif: name-zahm-changed-to-bashir
+    refs:
+    - Jāmiʿ 13:2345.1
+    note: 'وكان اسمه في الجاهلية زحم بن معبد ... قال: زحم، قال: "بل أنت بشير"'
+  - motif: pagans-missed-much-good-muslims-reached-it
+    refs:
+    - Jāmiʿ 13:2345.1
+    note: '"لقد سبق هؤلاء خيرًا كثيرًا" ثلاثًا، ثم مر بقبور المسلمين فقال: "لقد أدرك هؤلاء خيرًا كثيرًا"'
+  - motif: sibti-sandals-thrown-off-among-graves
+    refs:
+    - Jāmiʿ 13:2345.1
+    note: '"يا صاحب السَّبْتّيِتينِ ويحك ألْقِ سَبْتّيتيك" فنظر الرجل، فلما عرف رسول الله ﷺ خَلعهما فرمى بهما'
+  hints:
+  - Sandals taken off at a holy place, against Exod 3:5 and Josh 5:15 ('put off your sandals, the place on which you stand is holy'); here the place is a cemetery and the sandals are of tanned hide.
+- id: hadith-13-dead-hears-the-sandals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The dead hears the sandals of those who leave
+  read:
+  - Jāmiʿ 13:2346.1-2346.2
+  tags:
+  - motif: dead-hears-tread-of-departing-mourners-sandals
+    refs:
+    - Jāmiʿ 13:2346.1
+    - Jāmiʿ 13:2346.2
+    note: '"إن العبد إذا وضع في قبره، وتولى عنه أصحابه إنه يسمع قرعَ نعالهم"; "إن الميت يسمع حِس النعال إذا ولَّوا عنه الناس مدبرين"'
+  - motif: dead-sat-up-shroud-on-his-neck-then-questioned
+    refs:
+    - Jāmiʿ 13:2346.2
+    note: ثم يُجلس ويوضع كفنُه في عنقه، ثم يسأل
+- id: hadith-13-deep-and-wide-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Dig wide and deep; widen at feet and head
+  read:
+  - Jāmiʿ 13:2346.3-2347.1
+  tags:
+  - motif: dig-wide-and-deep-bury-two-or-three-together
+    refs:
+    - Jāmiʿ 13:2346.3
+    note: '"احفروا وأوسعوا وأحسنوا وادفنوا الاثنين والثلاثة في قبر واحد، وقدِّموا أكثرهم قرآنا" ... فكان أبي ثالث ثلاثةِ، وكان أكثرهم قرآنّا فقُدِّم'
+  - motif: gravedigger-told-widen-at-feet-and-head
+    refs:
+    - Jāmiʿ 13:2347.1
+    note: 'وهو على القبر يُوصي الحافر: "أوسع من قبل رجليه، أوسع من قبل رأسه"'
+- id: hadith-13-the-side-niche
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Niche and upright bricks; Ali washing the prophet; the two gravediggers
+  read:
+  - Jāmiʿ 13:2348.1-2349.2
+  tags:
+  - motif: niche-grave-with-bricks-set-upright
+    refs:
+    - Jāmiʿ 13:2348.1
+    - Jāmiʿ 13:2348.2
+    note: أَلْحِدُوا لي لَحْدًا، وانْصِبُوا عليَّ اللَّبِنَ نصْبًا، كما صُنِع برسول الله ﷺ
+  - motif: washer-found-nothing-on-the-dead-prophet
+    refs:
+    - Jāmiʿ 13:2348.2
+    note: فذهبتُ لأنظر ما يكون من الميت، فلم أر شيئًا، وكان طيبًا ﷺ حيًا وميتًا، وولي دفنه وإجنانه دون الناس أربعة
+  - motif: niche-digger-arrives-first
+    refs:
+    - Jāmiʿ 13:2348.3
+    - Jāmiʿ 13:2349.1
+    note: 'كان بالمدينة رجل يَلْحَدُ، وآخر يُصَرِّحُ فقالوا: نستخير ربَّنا ونبعث إليهما، فأيهما سبق تركناه'
+  - motif: martyrs-niche-digger-dug-prophets-niche
+    refs:
+    - Jāmiʿ 13:2349.2
+    note: وشق لحدَه رجل من الأنصار، وهو الذي يشُق لحود قبور الشّهداء
+- id: hadith-13-several-in-one-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Two of the slain of Uhud in one cloth and one grave, the one with more Quran first
+  read:
+  - Jāmiʿ 13:2351.1
+  tags:
+  - motif: martyrs-buried-two-in-a-cloth-quran-first
+    refs:
+    - Jāmiʿ 13:2351.1
+    note: 'فإذا أشير له إلى أحدهما قدمه في اللحد، وقال: "أنا شهيد على هؤلاء"'
+- id: hadith-13-taking-the-dead-out-of-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn Ubayy taken out of his grave for the shirt; Jabir's father taken out after six months
+  read:
+  - Jāmiʿ 13:2352.1-2353.1
+  tags:
+  - motif: hypocrite-taken-from-grave-spat-on-dressed-in-shirt
+    refs:
+    - Jāmiʿ 13:2352.1
+    note: بعد ما أُدْخل حُفْرتَه، فأمر به فأخرج، فوضعه على رُكْبتيه، ونَفَثَ عليه من ريقة، وألبسه قميصه ... وكان (أي عبد الله بن أُبيّ) كسا عبَّاسًا قميصًا
+  - motif: martyr-foresees-death-and-charges-son
+    refs:
+    - Jāmiʿ 13:2353.1
+    note: ما أُراني إلا مقتولًا في أولِ من يُقتل من أصحاب النبي ﷺ ... وإن عليَّ دينا فاقض، واستَوصِ بأخواتِك خيرًا
+  - motif: body-unchanged-after-six-months
+    refs:
+    - Jāmiʿ 13:2353.1
+    note: فاستخرجتُه بعد ستة أشهر، فإذا هو كيوم وضعتُه هُنيَّةً، غير أُذنِه
+- id: hadith-13-grave-marker
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The stone set at Uthman b. Maz'un's head
+  read:
+  - Jāmiʿ 13:2353.2
+  tags:
+  - motif: stone-at-head-marks-brothers-grave
+    refs:
+    - Jāmiʿ 13:2353.2
+    note: 'فأمر النبي ﷺ رجلًا أن يأتيه بحجر، فلم يستطع حمله ... كأني أنظر إلى بياض ذراعي رسول الله ﷺ حين حسر عنهما، ثم حملها فوضعها عند رأسه وقال: "أَتَعَلَّمُ بها قبر أخي، وأُدفن إليه من مات من أهلي"'
+  hints:
+  - A stone set up as a grave marker, against Jacob setting a pillar (maṣṣeba) on Rachel's grave (Gen 35:20).
+- id: hadith-13-idhkhir-and-red-velvet
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Idhkhir for graves excepted from the sanctity of Mecca; the red velvet in the prophet's grave
+  read:
+  - Jāmiʿ 13:2354.1-2354.2
+  tags:
+  - motif: idhkhir-grass-excepted
+    refs:
+    - Jāmiʿ 13:2354.1
+    note: 'فقال العباس: يا رسول الله! إلا الإذْخِر لصاغتنا وقبورنا، فقال: "إلا الإذْخِر"'
+  - motif: mecca-sanctity-no-cutting-or-chasing
+    refs:
+    - Jāmiʿ 13:2354.1
+    note: لا يُختلي خلاها، ولا يُعْضَدُ شجرها، ولا يُنَفَّر صيدُها، ولا تُلْتقط لُقَطَتُها إلا لمعرف
+  - motif: red-velvet-in-grave
+    refs:
+    - Jāmiʿ 13:2354.2
+    note: جُعل في قبر النبي ﷺ قطيفةٌ حمراءُ
+- id: hadith-13-sitting-at-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sitting at the grave 'as if birds were on our heads'
+  read:
+  - Jāmiʿ 13:2355.1
+  tags:
+  - motif: sat-at-grave-as-if-birds-on-heads
+    refs:
+    - Jāmiʿ 13:2355.1
+    note: 'فجلس رسول الله ﷺ وجلسنا حوله كأنما على رؤوسنا الطير، وفي يده عود ينكت به في الأرض، فرفع رأسه فقال: "استعيذوا بالله من عذاب القبر"'
+- id: hadith-13-graves-of-the-prophet-abu-bakr-and-umar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prophet's grave in Aisha's house; Umar's request; Aisha's refusal of the place; the humped grave raised a span
+  read:
+  - Jāmiʿ 13:2355.2-2358.1
+  tags:
+  - motif: asks-where-am-i-tomorrow-awaiting-aishas-day
+    refs:
+    - Jāmiʿ 13:2355.2
+    note: '"أين أنا اليوم؟ ، أين أنا غدًا؟ " استبطاءً ليوم عائشة، فلما كان يومي قبضه الله بين سَحْري ونَحْري، ودُفِن في بيتي'
+  - motif: graves-of-prophets-taken-as-places-of-worship
+    refs:
+    - Jāmiʿ 13:2356.1
+    note: '"لعن الله اليهود والنصارى اتخذوا قبور أنبيائهم مسجدًا"'
+  - motif: grave-kept-inside-lest-it-become-a-mosque
+    refs:
+    - Jāmiʿ 13:2356.1
+    note: ولولا ذلك لأبرزوا قبره غير أني أخشى أن يتخذ مسجدًا
+  - motif: umar-asks-aisha-for-burial-beside-two-companions
+    refs:
+    - Jāmiʿ 13:2356.2
+    note: 'ثم سلها أن أُدْفن مع صاحبيّ، قالت: كنتُ أريد لنفسي، فلأوثِرنَّه اليومَ على نفسي ... فإن أذِنَتْ لي فادفنوني، وإلا فرُدُّوني إلى مقابر المسلمين'
+  - motif: umar-names-six-electors
+    refs:
+    - Jāmiʿ 13:2356.2
+    note: فسمَّى عثمان وعليّا وطلحة والزبير وعبد الرحمن بن عوف وسعد بن أبي وقَّاص
+  - motif: umar-wishes-to-come-out-even
+    refs:
+    - Jāmiʿ 13:2356.2
+    note: ليتَني يا ابن أخي وذلك كفافًا لا عليَّ ولا لي
+  - motif: aisha-asks-burial-with-co-wives-lest-praised
+    refs:
+    - Jāmiʿ 13:2357.1
+    note: ادفني مع صواحبي، ولا تدفِني مع النبي ﷺ في البيت، فإنّي أكره أن أُزكَّى
+  - motif: prophets-grave-humped
+    refs:
+    - Jāmiʿ 13:2357.2
+    note: أنه رأى قبر النبي ﷺ مُسَنَّمًا
+  - motif: grave-raised-a-span
+    refs:
+    - Jāmiʿ 13:2358.1
+    note: أُلحِد، ونُصب عليه اللَّبنُ نَصْبًا، ورفع قبره من الأرض نحوًا من شبرٍ
+- id: hadith-13-prophets-bodies-and-prayer-in-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Friday blessings shown to the prophet: the earth forbidden the prophets'' bodies; Moses praying in his grave; the prophets alive in their graves'
+  read:
+  - Jāmiʿ 13:2358.2-2359.2
+  tags:
+  - motif: friday-adam-created-and-taken-trumpet-and-swoon
+    refs:
+    - Jāmiʿ 13:2358.2
+    note: '"إنَّ من أفضل أيامكم يوم الجمعة، فيه خلق آدم، وفيه قبض، وفيه النفخة، وفيه الصعقة'
+  - motif: earth-forbidden-to-consume-prophets-bodies
+    refs:
+    - Jāmiʿ 13:2358.2
+    note: 'كيف تُعرض صلاتنا عليك وقد أَرِمتَ؟ يقولون: بَليتَ؟ فقال: "إنَّ الله ﷿ حرَّمَ على الأرض أجسادَ الأنبياء"'
+  - motif: moses-praying-in-his-grave
+    refs:
+    - Jāmiʿ 13:2359.1
+    note: '"مررتُ على موسى ليلة أُسري بي عند الكثيب الأحمر - وهو قائم يُصَلِّي في قبره"'
+  - motif: prophets-alive-in-graves-praying
+    refs:
+    - Jāmiʿ 13:2359.2
+    note: '"الأنبياء أحياء في قبورهم يصلون"'
+  hints:
+  - The prophets' bodies not consumed by the earth, against the rabbinic tradition that the bodies of the righteous (seven named, incl. Moses, Aaron, Miriam) are not ruled over by worm and maggot (b. Bava
+    Batra 17a; b. Shabbat 152b on the righteous' bodies not decaying).
+- id: hadith-13-grave-first-station
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Uthman weeping at graves: ''the grave is the first station of the hereafter'''
+  read:
+  - Jāmiʿ 13:2361.1
+  tags:
+  - motif: grave-first-station-of-the-hereafter
+    refs:
+    - Jāmiʿ 13:2361.1
+    note: كان عثمان بن عفّان إذا وقف على قَبْرٍ يبكي حتّى يَبُلَّ لحيتُه ... "إن القبر أولُ منازل الآخرة، فإن نجا منه مما بعده أيسر منه" ... "ما رأيت منظرًا قط إِلَّا والقبر أفظع منه
+- id: hadith-13-dead-hears-tread
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The dead hears the beat of the sandals as the people leave
+  read:
+  - Jāmiʿ 13:2362.1-2363.1
+  tags:
+  - motif: dead-hears-tread-of-departing-mourners-sandals
+    refs:
+    - Jāmiʿ 13:2362.1
+    - Jāmiʿ 13:2362.2
+    - Jāmiʿ 13:2363.1
+    note: 'حتّى إنه ليسمع قرع نعالهم; "وإنه ليسمع خفْقَ نعالهم إذا ولَّوا مدبرين حين يقال له: يا هذا من ربَّك؟ وما دينك؟ ومن نبيك؟ "; "إنَّ الميت يسمع خفق نعالهم إذا ولَّوا عنه"'
+  - motif: sat-at-grave-as-if-birds-on-heads
+    refs:
+    - Jāmiʿ 13:2362.2
+    note: فجلس رسول الله ﷺ وجلسنا حوله كأنما على رؤوسنا الطير، وفي يده عُود ينكتُ به في الأرض
+- id: hadith-13-the-well-of-badr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Speaking to the dead of Badr in the well; Aisha''s correction: they now know, they do not hear'
+  read:
+  - Jāmiʿ 13:2364.1-2366.1
+  quran:
+  - '7:44'
+  - 27:80
+  - '35:22'
+  tags:
+  - motif: victor-stays-three-nights-on-field
+    refs:
+    - Jāmiʿ 13:2364.1
+    note: وكان إذا ظهر على قوم أقام بالعرصة ثلاث ليال، فلمّا كان ببدر اليوم الثالث أمر براحلته فشُد عليها رحلُها
+  - motif: dead-addressed-in-the-well
+    refs:
+    - Jāmiʿ 13:2364.1
+    - Jāmiʿ 13:2364.3
+    - Jāmiʿ 13:2364.4
+    - Jāmiʿ 13:2366.1
+    note: 'فجعل يُناديهم بأسمائهم وأسماء آبائهم: يا فلان بن فلان ... فإنا قد وجدنا ما وعدنا ربنا حقًا، فهل وجدتم ما وعد ربكم حقًا; "يا أبا جهل بن هشام، يا أمية بن خلف، يا عتبة بن ربيعة، يا شيبة ابن ربيعة"'
+  - motif: dead-hear-better-than-the-living
+    refs:
+    - Jāmiʿ 13:2364.1
+    - Jāmiʿ 13:2364.2
+    - Jāmiʿ 13:2364.3
+    - Jāmiʿ 13:2364.4
+    note: '"والذي نفس محمد بيده ما أنتم بأسمع لما أقول منهم"; "ما أنتم بأسمع منهم، ولكن لا يجيبون"; وقد جيَّفوا'
+  - motif: dead-know-not-hear-aishas-correction
+    refs:
+    - Jāmiʿ 13:2365.1
+    - Jāmiʿ 13:2366.1
+    note: 'وقد وَهِل، إنّما قال: "إنَّهم الآن ليعلمون أن ما كنت أقول لهم حق" ثمّ قرأت: ﴿إِنَّكَ لَا تُسْمِعُ الْمَوْتَى﴾'
+  - motif: dead-punished-for-wailing-over-them
+    refs:
+    - Jāmiʿ 13:2365.1
+    note: '"إن الميت يُعذَّب في قبره ببكاء أهله عليه" فقالت: وَهِل، إنما قال رسول الله ﷺ: "إنه لَيُعذَّب بخطيئته وذنبه'
+- id: hadith-13-proof-of-grave-punishment
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Jews heard in their graves; the eclipse sermon; the Jewish women and Aisha; 'were it not that you would not bury'
+  read:
+  - Jāmiʿ 13:2367.1-2369.1
+  quran:
+  - 9:101
+  - 40:45-46
+  tags:
+  - motif: jews-heard-punished-in-graves-at-sunset
+    refs:
+    - Jāmiʿ 13:2367.1
+    note: 'خرج النَّبِيّ ﷺ وقد وجبتْ الشّمس فسمع صوتًا فقال: "يهود تُعذبُ في قبورها"'
+  - motif: aisha-in-eclipse-prayer-points-to-sky
+    refs:
+    - Jāmiʿ 13:2367.2
+    note: 'فأشارتْ بيدها إلى السماء، وقالت: سبحان الله، فقلت: آيَةٌ؟ فأشارت: أي نعم، قالتْ: فقُمْتُ حتى تجلَّاني الغَشْيُ'
+  - motif: tried-in-graves-like-the-dajjal
+    refs:
+    - Jāmiʿ 13:2367.2
+    note: أَنَّكُمْ تُفْتَون في القُبُور مِثْل -أو قريبًا من- فِتْنَةٍ الدَّجَّال
+  - motif: grave-question-about-this-man
+    refs:
+    - Jāmiʿ 13:2367.2
+    note: 'ما عِلْمُكَ بهذا الرّجُلِ؟ ... فيقال له: نمْ صالحًا ... فيقول: لا أدري، سمعتُ الناس يقولون شيْئًا فقلتُه'
+  - motif: muslims-cry-out-at-mention-of-grave-trial
+    refs:
+    - Jāmiʿ 13:2368.1
+    note: فذكر فتنة القبر التي يفتتِن فيها المرأ، فلمّا ذكر ذلك ضَجَّ المسلمون ضجَّةً
+  - motif: but-for-fear-you-would-not-bury
+    refs:
+    - Jāmiʿ 13:2368.2
+    note: '"لولا أن لا تدافَنُوا لدعوتُ الله أن يُسمعكم من عذاب القبر"'
+  - motif: jewish-women-tell-of-grave-punishment
+    refs:
+    - Jāmiʿ 13:2368.3
+    - Jāmiʿ 13:2368.4
+    - Jāmiʿ 13:2369.1
+    note: 'دخل عليَّ عجوزان من عُجْز يهود المدينة فقالتا لي: إن أهل القبور يعذَّبون في قبورهم، فكذبتُهما'
+  - motif: beasts-hear-the-punished-in-graves
+    refs:
+    - Jāmiʿ 13:2368.3
+    note: '"صدقَتَا إنهم يعذبون عذبًا تسمعه البهائم كلُّها"'
+  - motif: only-jews-are-tried-then-revealed
+    refs:
+    - Jāmiʿ 13:2368.4
+    note: 'فارتاع رسول الله ﷺ وقال: "إنما تُفْتَنُ يهود" ... "هل شعرتِ أنه أُوحي إليَّ أنكم تُفْتَنون في القبور؟ "'
+  - motif: jews-lie-then-grave-punishment-proclaimed-with-red-eyes
+    refs:
+    - Jāmiʿ 13:2369.1
+    note: '"كذَبَتْ يهُودُ، وهم عَلى الله ﷿ أكذبُ، لا عذاب دون يَوْمِ القيامة ... فخرج ذاتَ يوم نصفَ النهار مشتملًا بثوبه، محمَّرة عيناه ... أظَلَّتْكُمُ الفِتَنُ كقطِعِ الليل المُظْلِم'
+  hints:
+  - The punishment of the grave first reported by Jewish women and denied, then confirmed, against the rabbinic ḥibbuṭ ha-qever (the beating of the grave, Massekhet Ḥibbuṭ ha-Qever; Pirqei de-R. Eliezer
+    34), the angel striking the dead in the grave.
+- id: hadith-13-jahiliyya-dead-punished
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The graves of the Banu l-Najjar: the mule shies, the dead heard punished; the hammer; ''let me tell my family'''
+  read:
+  - Jāmiʿ 13:2370.1-2372.3
+  tags:
+  - motif: mule-shies-at-pagan-graves
+    refs:
+    - Jāmiʿ 13:2370.1
+    note: في حائط لبني النجار على بغلة له ... إذ حادثْ به، فكادتْ تُلقيه، وإذا أَقْبرٌ ستةٌ أو خمسةٌ أو أربعةٌ ... ماتوا في الإشراك
+  - motif: but-for-fear-you-would-not-bury
+    refs:
+    - Jāmiʿ 13:2370.1
+    - Jāmiʿ 13:2371.1
+    note: فلولا أن لا تدافنوا لدعوتُ الله أن يُسمعكم من عذاب القبر الذي أسمع منه
+  - motif: pagan-graves-heard-punished-refuge-sequence
+    refs:
+    - Jāmiʿ 13:2370.1
+    - Jāmiʿ 13:2370.2
+    - Jāmiʿ 13:2372.2
+    - Jāmiʿ 13:2372.3
+    note: '"تعوذُوا بالله من عذاب النّار" قالوا: نعوذ بالله من عذاب النّار ... "تعوذوا بالله من الفتن ما ظهر منها وما بطن" ... "تعوذوا بالله من فتنة الدجال"'
+  - motif: house-in-fire-replaced-by-house-in-paradise
+    refs:
+    - Jāmiʿ 13:2370.2
+    note: 'فيُنْطَلَقُ به إلى بيتٍ كانَ له في النّار، فيُقال له: هذا بَيْتُكَ كانَ في النّار، ولكِنَّ الله عَصَمَكَ ورَحِمَكَ، فأَبدَلَكَ به بيتًا في الجَنَّةِ'
+  - motif: let-me-go-tell-my-family-told-be-still
+    refs:
+    - Jāmiʿ 13:2370.2
+    note: 'فيقولُ: دَعُوني حتَّى أذهبَ فأُبَشِّرَ أَهلِي، فيُقالُ له: اسْكُنْ'
+  - motif: hammer-blow-scream-heard-by-all-but-two-weighty
+    refs:
+    - Jāmiʿ 13:2370.2
+    note: فيضربه بمطراق من حديد بين أُذُنيه، فيصيح صيحة فيسمعها الخلق غير الثقلين
+  - motif: glad-it-died-in-jahiliyya
+    refs:
+    - Jāmiʿ 13:2371.1
+    note: 'قالوا: مات في الجاهليّة، فسُرَّ بذلك'
+  - motif: do-you-hear-what-i-hear-bilal
+    refs:
+    - Jāmiʿ 13:2371.2
+    - Jāmiʿ 13:2372.1
+    note: '"يا بلال! ، هل تسمع ما أسمع؟ " قال: لا والله! يا رسول الله، ما أسمعه; وبلال يمشي وراءَه، يُكرم نبيَّ الله ﷺ أن يمشي إلى جنبه ... فسئل عنه فوُجد يهوديًا'
+  - motif: beasts-hear-the-punished-in-graves
+    refs:
+    - Jāmiʿ 13:2372.2
+    note: 'قال: "نعم، عذابًا تسمعه البهائم"'
+- id: hadith-13-urine-and-tale-bearing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The two graves punished for tale-bearing and urine; the split stalk; Abu Bakra races for the stalk; 'most of the grave's punishment is from urine'
+  read:
+  - Jāmiʿ 13:2373.1-2375.2
+  tags:
+  - motif: two-graves-talebearer-and-urine
+    refs:
+    - Jāmiʿ 13:2373.1
+    - Jāmiʿ 13:2375.1
+    note: '"أما إنهما لَيُعذَّبان، وما يُعذَّبان في كبير، أمَّا أحدهما فكان يمشي بالنميمة، وأمّا الآخر فكان لا يستتر من بوله"'
+  - motif: fresh-stalk-split-and-planted-on-two-graves
+    refs:
+    - Jāmiʿ 13:2373.1
+    - Jāmiʿ 13:2373.2
+    - Jāmiʿ 13:2375.1
+    note: فدعا بعسيب رطْبٍ فشقَّه باثنين، ثمّ غرس على هذا واحدًا، وعلى هذا واحدًا ... "لعلّه يُخفَّف عنهما ما لم ييبسا"
+  - motif: intercession-for-grave-sinners
+    refs:
+    - Jāmiʿ 13:2373.2
+    note: '"إني مررت بقبرين يعذبان، فأحببت بشفاعتي أن يُرَفَّه عنهما ما دام الغصنان رطبين"'
+  - motif: graves-punished-for-urine-and-backbiting
+    refs:
+    - Jāmiʿ 13:2373.3
+    note: '"فأيكم يأتيني بجريدة؟ " فاستبقنا، فسبقتُه ... "وما يُعدَّبان إِلَّا في البول والغيبة"'
+  - motif: whole-punishment-of-grave-from-urine
+    refs:
+    - Jāmiʿ 13:2374.1
+    note: '"إنَّ عامة عذاب القبر من البول فتنزهوا من البول"'
+  - motif: most-punishment-of-grave-from-urine
+    refs:
+    - Jāmiʿ 13:2374.2
+    note: '"أكثر عذاب القبر من البول"'
+  - motif: hears-graves-colour-changes-sleeve-trembles
+    refs:
+    - Jāmiʿ 13:2375.1
+    note: فجعل لونه يتغير حتّى رعد كُمُّ قميصه ... "ما تسمعون ما أسمع؟ "
+  - motif: two-stalks-at-head-and-feet-of-one-grave
+    refs:
+    - Jāmiʿ 13:2375.2
+    note: '"ائتوني بجريدتين" فجعل إحداهما عند رأسه، والأخرى عند رجليه ... "لن يزال يُخفَّف عنه بعض عذاب القبر ما كان فيهما نُدوٌّ"'
+- id: hadith-13-grave-punishment-for-plunder
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Mid'am's stolen cloak blazes on him; the sandal-strap of fire
+  read:
+  - Jāmiʿ 13:2376.1
+  tags:
+  - motif: stolen-cloak-burns-in-fire
+    refs:
+    - Jāmiʿ 13:2376.1
+    note: إن الشملة التي أخذ يوم خيبر من المغانم لم تُصبها المقاسم، لتشتعل عليه نارًا" ... "شراك أو شراكان من نار"
+  - motif: slave-gift-named-midam-killed-by-stray-arrow
+    refs:
+    - Jāmiʿ 13:2376.1
+    note: 'فأهدي رفاعة بن زيد لرسول الله ﷺ غلامًا أسود، يقالُ له: مِدْعَمٌ ... بينما مِدْعَمٌ يَحُطُّ رحلَ رسول الله ﷺ، إذ جاءه سهم عائرٌ، فأصابه فقتله، فقال الناس، هنيئًا له الجنّة'
+- id: hadith-13-squeeze-of-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The grave''s squeeze: Saad b. Muadh, for whom the throne moved; the child'
+  read:
+  - Jāmiʿ 13:2377.1-2378.3
+  tags:
+  - motif: grave-pressed-on-righteous-man-then-relieved
+    refs:
+    - Jāmiʿ 13:2377.1
+    - Jāmiʿ 13:2378.1
+    note: '"للقبر ضغطةٌ لو نجا منها أحد لنجا منها سعد ابن معاذ"; "هذا الذي تحرك له العرش، وفُتِحتْ له أبوابُ السماء، وشهِده سبعون ألْفًا من الملائكة، لقد ضُمَّ ضمةُ ثمّ فُرِّج عنه"'
+  - motif: grave-squeezes-even-a-child
+    refs:
+    - Jāmiʿ 13:2378.2
+    - Jāmiʿ 13:2378.3
+    note: '"لو أفلت أحد من ضمة القبر لأفلت هذا الصبي"; صلَّى على صبيّ، أو صَبية'
+  hints:
+  - The squeezing of the grave from which even the righteous is not spared, against the rabbinic ḥibbuṭ ha-qever, said in later midrash to spare none but those dying in the Land of Israel or on the Sabbath
+    eve (cf. Massekhet Ḥibbuṭ ha-Qever).
+- id: hadith-13-deeds-guard-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The believer's works at his head, right, left and feet; the setting sun; the straitened life
+  read:
+  - Jāmiʿ 13:2380.1
+  quran:
+  - '14:27'
+  - 20:124
+  tags:
+  - motif: good-deeds-guard-the-four-sides-of-the-grave
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: 'كانت الصلاة عند رأسه، وكان الصيام عن يمينه، وكانت الزكاة عن شماله، وكان فعل الخيرات من الصدقة والصلة والمعروف والإحسان إلى الناس عند رجليه. فيؤتي من قبل رأسه، فتقول الصلاةُ: ما قِبَلي مَدْخل'
+  - motif: dead-shown-setting-sun-says-let-me-pray
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: 'وقد مُثِّلتْ له الشمس، وقد أُدْنِيَتْ للغروب ... فيقولُ: دعوني حتى أصلي، فيقولون: إنك ستفعلُ'
+  - motif: seat-in-other-abode-increases-joy-or-regret
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: هذا مَقْعَدُك منها وما أعدَّ الله لك فيها لو عَصَيْتَهُ، فيزدادُ غبطةً وسرورًا
+  - motif: believers-grave-green-garden-widened-seventy-cubits
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: ثم يُفسحُ له في قبره سبعون ذراعًا، ويُنوَّر له فيه
+  - motif: believers-soul-among-good-souls-as-birds
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: ويُعادُ الجسد كما بدأ منه، فتجعل نَسْمَتُهُ في النَّسَم الطيب، وهي طير يعلقُ في شجر الجنة
+  - motif: unbeliever-cannot-recall-the-name
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: 'فيقول: أيُّ رجل؟ فيقال: الذي كان فيكم، فلا يهتدي لاسمِه حتى يقال له: محمد'
+  - motif: straitened-life-is-grave-torment
+    refs:
+    - Jāmiʿ 13:2380.1
+    note: ثم يُضَيَّقُ عليه قبرُهُ حتى تختلِفَ فيه أضلاعُه، فتلك المعيشةُ الضَّنْكَة
+- id: hadith-13-the-straitened-life
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''A straitened life'' is the punishment of the grave; ninety-nine dragons'
+  read:
+  - Jāmiʿ 13:2381.1-2382.1
+  quran:
+  - 20:124
+  tags:
+  - motif: straitened-life-is-grave-torment
+    refs:
+    - Jāmiʿ 13:2381.1
+    - Jāmiʿ 13:2381.2
+    - Jāmiʿ 13:2382.1
+    note: '﴿فَإِنَّ لَهُ مَعِيشَةً ضَنْكًا﴾. قال: "عذاب القبر"; "معيشة ضنكا - قال: عذاب القبر"'
+  - motif: believers-grave-green-garden-widened-seventy-cubits
+    refs:
+    - Jāmiʿ 13:2381.2
+    note: '"إن المؤمن في قبره لفي روضةٍ خضراء، ويُرْحَبُ له قبرُه سبعون ذراعًا، وينور له كالقمر ليلة البدر'
+  - motif: ninety-nine-dragons-in-unbelievers-grave
+    refs:
+    - Jāmiʿ 13:2381.2
+    note: إنه يسلَّط عليه تسعة وتسعون تِنِّينًا، أتدرون ما التِّنيِّنُ؟ سبعون حيةٌ، لكل حيةٍ سبع رؤوس يلسعونه، ويخدشونه إلى يوم القيامة
+- id: hadith-13-both-questioned-seats-shown
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The two angels; the seat shown morning and evening; al-Bara's long account of the soul's ascent, the questioning, the deeds as a man
+  read:
+  - Jāmiʿ 13:2383.1-2383.3
+  quran:
+  - '7:40'
+  - '20:55'
+  - '22:31'
+  tags:
+  - motif: grave-question-what-did-you-say-of-this-man
+    refs:
+    - Jāmiʿ 13:2383.1
+    note: 'أتاه ملكان فيقعدانه فيقولان: ما كنت تقول في هذا الرجل لمحمد ﷺ؟'
+  - motif: each-shown-other-seat-in-hell-or-paradise
+    refs:
+    - Jāmiʿ 13:2383.1
+    note: انظر إلى مقعدك من النار، قد أبدلك الله به مقعدًا من الجنة فيراهما جميعًا
+  - motif: hammer-blow-scream-heard-by-all-but-two-weighty
+    refs:
+    - Jāmiʿ 13:2383.1
+    note: 'فيقال: لا دَريتَ ولا تليتَ، ويضربُ بمطارق من حديد ضربةً، فيصيحُ صيحةً يسمعها من يليه غيرَ الثقلين'
+  - motif: dead-shown-their-seat-morning-and-evening
+    refs:
+    - Jāmiʿ 13:2383.2
+    note: '"إن أحدكم إذا مات عرض عليه مقْعَدُه بالغداة والعشيِّ ... يقال له: هذا مقعدك حتى يبعثك الله إلى يوم القيامة"'
+  - motif: sun-faced-angels-with-shroud-and-balm-of-paradise
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: نزل إليه ملائكة من السماء بيضُ الوجوه، كأنَّ وجوهَهُمُ الشمسُ، معهم كَفَنٌ مِن أكْفَانِ الجَنَّةِ، وحَنُوطٌ مِن حَنُوطِ الجنَّة، حتى يجلِسُوا منه مَدَّ البصر
+  - motif: angel-of-death-sits-at-the-head
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: 'ثم يجئُ ملكُ الموت ﵇ حتى يجلس عند رأسه، فيقول: أيَّتُها النفس الطيِّبة، اخْرُجي إلى مغفرة من الله ورضوان'
+  - motif: soul-flows-out-like-drop-from-waterskin
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: فتخرجُ تسيل كما تسيل القطرة من في السقاء
+  - motif: good-soul-welcomed-gate-by-gate-up-to-god
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: 'فلا يمُرُّون -يعني بها- على ملأ من الملائكة إلا قالوا: ما هذا الروحُ الطيب؟ ! فيقولون: فلان بن فلان، بأحسن أسمائه ... حتى يُنْتَهَى به إلى السماء السابعة'
+  - motif: believers-soul-raised-to-seventh-heaven-written-in-illiyyin
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: اكتبوا كتاب عبدي في عِلِّيين
+  - motif: i-created-them-from-it-return-them-to-it
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: وأَعيدُوه إلى الأرض، فإني منها خلقتُهم، وفيها أعيدُهُم، ومنها أُخرجُهُمْ تارة أخرى
+  - motif: soul-returned-to-body-two-angels-question
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: 'فتعاد روحُه في جَسَدِه، فيأتيه مَلَكان، فَيُجْلِسَانِه، فيقولان له: من رَبُّكَ؟'
+  - motif: deeds-come-as-handsome-or-ugly-man
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: 'ويأْتيه رجل حسن الوجه، وحسن الثياب، طيبُ الريح ... فيقول: أنا عملُكَ الصالحُ; ويأتيه رجل قبيحُ الوجه، قبيحُ الثياب، مُنْتِنُ الريح ... فيقول: أنا عملُك الخبيثُ'
+  - motif: lord-establish-the-hour-or-do-not
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: 'فيقول: ربِّ أقِم الساعة حتى أرجعَ إلى أهلي ومالي; فيقول: ربِّ لا تُقِم الساعة'
+  - motif: black-faced-angels-with-sackcloth
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: نزل إليه من السماء ملائكةٌ سُودُ الوجوه، معهم المُسُوحُ، فيجلسُون منه مَدَّ البصر
+  - motif: bad-soul-dragged-out-like-skewer-from-wet-wool
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: فتفرَّقُ في جسده، فينتَزِعُها كما يُنْتَزَعُ السُّفُّودُ من الصُّوفِ المبلول
+  - motif: bad-soul-refused-at-heaven-and-thrown-down
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: فيُسْتَفْتَح له، فلا يفتح له" ... اكتبوا كتابَهُ في سجِّين في الأرض السُّفْلي، فتُطْرَحُ رُوحُه طرحًا
+  - motif: dead-answers-ha-ha-i-do-not-know
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: 'فيقول: هاه هاه لا أدري'
+  - motif: believers-grave-green-garden-widened-seventy-cubits
+    refs:
+    - Jāmiʿ 13:2383.3
+    note: ويُفْسَحُ له في قبره مَدَّ بصره
+  hints:
+  - 'The good soul drawn out gently and the wicked soul dragged out ''like a skewer from wet wool'', against b. Berakhot 8a (903 kinds of death: the gentlest like drawing a hair from milk, the hardest like
+    a thorn-ball pulled from wool, or a rope through a narrow opening).'
+  - The deeds meeting the dead as a handsome, fragrant figure ('I am your good deed') or an ugly, stinking one, against the Zoroastrian daēnā met at the Chinvat bridge as a beautiful fragrant maiden or
+    a hideous hag (Hadokht Nask 2-3; Mēnōg ī Xrad 2.125-180).
+- id: hadith-13-munkar-and-nakir
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Munkar and Nakir; the sleep of the bridegroom; 'by me you are tried'; the fierce angel
+  read:
+  - Jāmiʿ 13:2386.1-2387.1
+  tags:
+  - motif: sleep-of-the-righteous-or-sleep-bitten
+    refs:
+    - Jāmiʿ 13:2386.1
+    note: '"ارقد رقدة المتقين المؤمنين" ويقال للفاجر: "ارقد منهوشًا". قال: "فما من دابة إلا ولها في جسده نصيب"'
+  - motif: munkar-and-nakir-black-and-blue
+    refs:
+    - Jāmiʿ 13:2386.2
+    note: 'أتاه ملكان أسودان أزرقان، يقال لأحدهما: المنكرُ والآخرُ النكيرُ'
+  - motif: believers-grave-green-garden-widened-seventy-cubits
+    refs:
+    - Jāmiʿ 13:2386.2
+    note: ثم يُفْسَحُ له في قبره سبعون ذراعًا في سبعينَ، ثم يُنوَّرُ له فيه
+  - motif: sleep-like-a-bridegroom-woken-by-dearest
+    refs:
+    - Jāmiʿ 13:2386.2
+    note: نَمْ كنومَةِ العروسِ الذي لا يُوقِضُهُ إلا أحبُّ أهله إليه، حتى يبْعثَهُ الله من مَضْجَعِه ذلك
+  - motif: let-me-go-tell-my-family-told-be-still
+    refs:
+    - Jāmiʿ 13:2386.2
+    - Jāmiʿ 13:2387.1
+    note: 'فيقولُ أرْجعُ إلى أهلي فأخْبرُهُم؟; فيقولُ المُؤْمِنُ: دَعُوني أُبَشِّرْ أهلي، فيُقالُ له: اسْكُنْ'
+  - motif: earth-told-to-close-on-him-ribs-interlock
+    refs:
+    - Jāmiʿ 13:2386.2
+    note: 'فيقالُ للأرضِ: التَثمي عليه. فتلْتَئمُ عليه. فتختلفُ أضلاعُهُ'
+  - motif: dajjal-one-eyed-god-not
+    refs:
+    - Jāmiʿ 13:2386.3
+    note: 'إنه أعورُ، والله ﷿ ليس بأعور، مكتوبٌ بين عينيه: كافر، يقرؤُه كلُّ مؤمن'
+  - motif: jewish-woman-begs-food-invoking-refuge-from-grave
+    refs:
+    - Jāmiʿ 13:2386.3
+    note: 'جاءت يهودية، فاستطعمتْ على بابي، فقالت: أطْعِموني، أعاذكم الله من فتنة الدّجال، ومن فتنة عذاب القبر'
+  - motif: by-me-you-are-tried-about-me-asked
+    refs:
+    - Jāmiʿ 13:2386.3
+    note: فأمَّا فتنة القبر، فبي تُفْتَنُون، وعَنّي تُسْألون
+  - motif: window-to-fire-crushing-itself
+    refs:
+    - Jāmiʿ 13:2386.3
+    note: 'فيُفْرَجُ له فرجة قبل النار، فينظر إليها يحطِمُ بعضُها بعضًا، فيقال له: انظر إلى ما وقاك الله'
+  - motif: raised-as-he-died-believer-or-hypocrite
+    refs:
+    - Jāmiʿ 13:2387.1
+    note: '"يُبْعَثُ كُلُّ عَبْدٍ في القبرِ على ما مات: المؤمنُ على إيمانه، والمنافقُ على نفاقِه"'
+  - motif: house-in-fire-replaced-by-house-in-paradise
+    refs:
+    - Jāmiʿ 13:2387.1
+    note: انظُرْ إلى مَقْعَدِكَ الذي كان لك في النار قد أنجاكَ الله منه، وأبدَلَكَ بمَقْعَدِكَ الذي تَرَى من النار، مَقْعَدَكَ الذي تَرَى من الجنة
+  hints:
+  - The two grave angels named Munkar and Nakir, black and blue, against the angel of death or the 'angel who stands over the grave' that strikes the dead in Massekhet Ḥibbuṭ ha-Qever.
+- id: hadith-13-the-firm-word
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The firm word in the grave and the wrongdoers led astray
+  read:
+  - Jāmiʿ 13:2390.1-2391.2
+  quran:
+  - '14:27'
+  tags:
+  - motif: questioning-in-grave-firm-word
+    refs:
+    - Jāmiʿ 13:2390.1
+    - Jāmiʿ 13:2391.1
+    note: '"إذا أُقْعِد المؤمن في قبره، أُتي ثم شهد أن لا إله إلا الله وأن محمدًا رسول الله فذلك قوله; ذلك إذا قيل له في القبر: من ربك؟ وما دينك؟ ومن نبيك؟'
+  - motif: hammer-blow-scream-heard-by-all-but-two-weighty
+    refs:
+    - Jāmiʿ 13:2390.2
+    note: ثم يَقْمعه قمعةً بالمطراق يَسْمَعُها خلقُ الله كلُّهم غير الثقلين
+  - motif: any-would-be-stunned-by-angel-with-mallet
+    refs:
+    - Jāmiʿ 13:2390.2
+    note: ما أحد يقوم عليه مَلَك في يده مطراق إلا هيل عند ذلك
+  - motif: house-in-fire-replaced-by-house-in-paradise
+    refs:
+    - Jāmiʿ 13:2390.2
+    note: هذا كان منزِلَكَ لو كفَرْت بربِّك، فأما إذ آمَنتَ فهذا منزِلُك
+  - motif: unbelievers-wits-taken-god-leads-wrongdoers-astray
+    refs:
+    - Jāmiʿ 13:2391.2
+    note: 'فيأتيه ملكان شديد الانتهار فيجلسانه فيتهرانه ... فيقولان: لا دريتَ قال: وذلك قول الله: ﴿وَيُضِلُّ اللَّهُ الظَّالِمِينَ'
+- id: hadith-13-martyr-spared-the-trial
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The martyr is not tried in the grave; his gifts at the first drop of blood
+  read:
+  - Jāmiʿ 13:2392.1-2393.1
+  tags:
+  - motif: flash-of-swords-over-head-suffices-as-trial
+    refs:
+    - Jāmiʿ 13:2392.1
+    note: 'ما بال المؤمنين يُفْتتَنُونَ في قبورهم إلَّا الشهيد؟ قال: "كفى ببارقة السيوف على رأسه فتنة"'
+  - motif: martyr-gifts-at-first-drop-of-blood
+    refs:
+    - Jāmiʿ 13:2392.2
+    - Jāmiʿ 13:2393.1
+    note: '"يُعطى الشهيد ست خصال عند أول قطرةٍ من دمه: يُكَفَّر عنه كلُّ خطيئةٍ، ويُرَى مقعَده من الجنة، ويُزَوَّج من الحُور العِين، ويُؤْمَن من الفَزَعِ الأكبر، ومن عذاب القبر، ويُحَلَّى حُلَّة الإيمان"'
+- id: hadith-13-spared-the-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Spared the grave''s trial: the belly-sick, the Friday dead, the frontier guard'
+  read:
+  - Jāmiʿ 13:2394.1-2396.2
+  tags:
+  - motif: killed-by-belly-not-punished-in-grave
+    refs:
+    - Jāmiʿ 13:2394.1
+    note: مات ببطْنِه فإذاهما يشتهيان أن يكونا شهداءَ جنازته ... "من يقتله بَطْنُه فلن يُعذَّب في قبره"
+  - motif: dying-friday-spared-grave-trial
+    refs:
+    - Jāmiʿ 13:2394.2
+    note: '"ما من مسلمٍ يموتُ في ليلة الجمعة إلَّا بُرِئَ من فتنة القبر"'
+  - motif: frontier-watch-day-better-than-month-fast
+    refs:
+    - Jāmiʿ 13:2395.1
+    note: '"رباط يوم وليلة خير من صيام شهر وقيامه، وإن مات جرى عليه عملُه الذي كان يعمله، وأجري عليه رزقُه، وأمن الفُتَّان"'
+  - motif: dying-on-guard-reward-runs-to-resurrection
+    refs:
+    - Jāmiʿ 13:2395.2
+    - Jāmiʿ 13:2396.1
+    - Jāmiʿ 13:2396.2
+    note: '"كل الميت يُختم على عمله إلا المرابطُ، فإنه ينمو له عملُه إلى يوم القيامة، ويُؤَمَّنُ من فُتَّانِ القبر"; وبعثه الله يوم القيامة آمنًا من الفَزَع'
+- id: hadith-13-souls-ask-after-the-living
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Works guard the grave; the souls of believers ask the newcomer for news
+  read:
+  - Jāmiʿ 13:2397.1-2397.2
+  tags:
+  - motif: good-deeds-guard-the-four-sides-of-the-grave
+    refs:
+    - Jāmiʿ 13:2397.1
+    note: 'فيؤتي من قبل رأسه فتقول الصلاة: ما قبلي مدخل، ثم يؤتى عن يمينه فيقول الصيام: ما قبلي مدخل'
+  - motif: dying-believer-wishes-soul-out-god-loves-meeting
+    refs:
+    - Jāmiʿ 13:2397.2
+    note: 'إن المؤمن ينزل به الموت ويعاين ما يعاين، فود لو خرجت -يعني: نفسه- والله يحب لقاءه'
+  - motif: believers-souls-ask-newcomer-about-acquaintances
+    refs:
+    - Jāmiʿ 13:2397.2
+    note: 'فتأتيه أرواح المؤمنين، فيستخبرونه عن معارفهم من أهل الأرض، فإذا قال: تركت فلانا في الدنيا أعجبهم ذلك، وإذا قال: إن فلانا قد مات، قالوا: ما جيء به إلينا'
+  - motif: sleep-of-the-righteous-or-sleep-bitten
+    refs:
+    - Jāmiʿ 13:2397.2
+    note: 'ثم يقال له: نم كما ينام المنهوش". فقلت لأبي هريرة: ما المنهوش؟ قال: الذي تنهشه الدواب والحيات'
+  - motif: hammer-blow-scream-heard-by-all-but-two-weighty
+    refs:
+    - Jāmiʿ 13:2397.2
+    note: ثم يضرب ضربة تسمع كل دابة إلا الثقلين
+  hints:
+  - The newly dead asked by those already dead for news of the living, against the tale of the pious man who overhears two dead girls' spirits converse in a cemetery and the dead asking about the living
+    (b. Berakhot 18b).
+- id: hadith-13-setting-sun-and-glad-tidings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The setting sun shown to the dead; 'let me tell my family'; raised as he died
+  read:
+  - Jāmiʿ 13:2399.1-2400.1
+  tags:
+  - motif: dead-shown-setting-sun-says-let-me-pray
+    refs:
+    - Jāmiʿ 13:2399.1
+    note: '"إذا دخل الميت القبر، مُثِّلتْ له الشّمس عند غروبها، فيقول: دعوني أصلي"'
+  - motif: dead-woken-like-sleeper-starting-up
+    refs:
+    - Jāmiʿ 13:2399.2
+    note: فأتاه ملكان فانتهراه فيقوم يهب كما يهب النائم
+  - motif: let-me-go-tell-my-family-told-be-still
+    refs:
+    - Jāmiʿ 13:2399.2
+    - Jāmiʿ 13:2400.1
+    note: 'فيقول: دعوني حتى آتي أهلي، فيقولان: اسكن; فيقولُ المُؤْمِنُ: دَعُوني أُبَشِّرْ أهلي، فيُقالُ له: اسْكُنْ'
+  - motif: raised-as-he-died-believer-or-hypocrite
+    refs:
+    - Jāmiʿ 13:2400.1
+    note: يُبْعَثُ كُلُّ عَبْدٍ في القبرِ على ما مات، المؤمنُ على إيمانِه، والمنافقُ على نفاقِه
+- id: hadith-13-the-tailbone
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Forty'' between the blasts; all decays but the tailbone'
+  read:
+  - Jāmiʿ 13:2400.2-2401.2
+  tags:
+  - motif: forty-between-the-two-trumpet-blasts
+    refs:
+    - Jāmiʿ 13:2400.2
+    note: '"بين النفختين أربعون" قالوا: يا أبا هريرة! أربعون يومًا؟ قال: أبيتُ'
+  - motif: tailbone-never-decays-man-rebuilt-from-it
+    refs:
+    - Jāmiʿ 13:2400.2
+    - Jāmiʿ 13:2401.1
+    - Jāmiʿ 13:2401.2
+    note: '"ويَبلى كل شيء من الإنسان إلا عجْب ذنبه، فيه يُرَكَّبُ الخلق"; "كل ابن آدم تأكله الأرض إلا عَجْبَ الذَّنَب، منه خُلق، وفيه يُركَّبُ"'
+  - motif: tailbone-like-a-mustard-seed
+    refs:
+    - Jāmiʿ 13:2401.2
+    note: 'قيل: مثل ما هو يا رسول الله؟ قال: "مثل حبة خردل، منه تنبتُون"'
+  hints:
+  - The one bone that does not decay and from which man is rebuilt, against the rabbinic luz bone of the spine from which God makes man sprout at the resurrection (Genesis Rabbah 28:3; Leviticus Rabbah
+    18:1).
+- id: hadith-13-visiting-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Visiting graves allowed: three prohibitions lifted; the visit to his mother''s grave; Aisha at her brother''s grave'
+  read:
+  - Jāmiʿ 13:2403.1-2406.1
+  tags:
+  - motif: three-prohibitions-lifted-graves-meat-vessels
+    refs:
+    - Jāmiʿ 13:2403.1
+    - Jāmiʿ 13:2404.1
+    note: '"نهيتكم عن زيارة القبور فزورها، ونهيتكم عن لحوم الأضاحي فوق ثلاث فأمسكوا ما بدا لكم، ونهيتكم عن النبيذ إلا في سقاء فاشرَبُوا في الأسقية كلها، ولا تشربوا مسكرًا"'
+  - motif: mothers-grave-visit-allowed-forgiveness-not
+    refs:
+    - Jāmiʿ 13:2403.2
+    note: '"استأذنتُ ربي أن أستغفر لأمي فلم يأْذَنْ لي، واستأذنْتُه أن أزورَ قبرها فأذن لي" ... زار النبي ﷺ قبر أمه، فبكى وأبكى من حوله'
+  - motif: grave-visits-soften-heart-remind-of-hereafter
+    refs:
+    - Jāmiʿ 13:2403.2
+    - Jāmiʿ 13:2404.1
+    - Jāmiʿ 13:2404.2
+    note: فزوروا القبور، فإنها تذكر الموت; فإن فيها عِبرةً; فإنه يرق القلب، وتدمع العين، وتذكر الآخرة، ولا تقولوا هجرًا
+  - motif: aisha-visits-brothers-grave
+    refs:
+    - Jāmiʿ 13:2405.1
+    note: 'قالت: من قبر أخي عبد الرحمن بن أبي بكر ... قالت: نعم كان نهى، ثم أمر بزيارتها'
+  - motif: greeting-the-abode-of-believing-dead
+    refs:
+    - Jāmiʿ 13:2406.1
+    note: '"قولي: السلام على أهل الديار من المؤمنين والمسلمين، ويرحم الله المستقدمين والمستأخرين، وإنا إن شاء الله بكم للاحقون"'
+- id: hadith-13-women-visiting-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The curse on women who frequent the graves
+  read:
+  - Jāmiʿ 13:2408.1
+  tags:
+  - motif: curse-on-women-who-frequent-graves
+    refs:
+    - Jāmiʿ 13:2408.1
+    note: لعن رسول الله ﷺ زوَّارات القبور
+- id: hadith-13-greeting-the-dead-at-baqi
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The prophet at al-Baqiʿ by night; Aisha follows; the greetings for the people of the graves; hands raised three times
+  read:
+  - Jāmiʿ 13:2411.1-2415.1
+  tags:
+  - motif: greets-graveyard-as-abode-of-believers
+    refs:
+    - Jāmiʿ 13:2411.1
+    - Jāmiʿ 13:2413.2
+    note: '"السلام عليكم دار قومٍ مؤمنين، وأتاكم ما توعدون غدًا مؤجَّلون، وإنا إن شاء الله بكم لاحقون، اللهم! اغفر لأهل بقيع الغرقد"'
+  - motif: night-visit-to-baqi-at-gods-command
+    refs:
+    - Jāmiʿ 13:2411.1
+    - Jāmiʿ 13:2411.2
+    - Jāmiʿ 13:2412.1
+    note: يخرج من آخر الليل إلى البقيع; "إنَّ رَبَّكَ يَأمُرُكَ أنْ تأتيَ أهلَ البَقيع فتَسْتَغْفِرَ لَهُم"; "بعثْتُ إلى أهل البقيع لأُصَلِّي عليهم"
+  - motif: aisha-follows-him-to-baqi-and-races-back
+    refs:
+    - Jāmiʿ 13:2411.2
+    note: 'فأَسرع وأسرعتُ، فهرْوَلَ فَهَرْوَلتُ، فأحضرَ فأحضرْتُ، فسَبَقتُه فدخلتُ ... "فأنتِ السَّوَادُ الذي رأيتُه أَمَامي؟ " قلتُ: نعم، فلَهَدَني في صَدْرِي لَهْدَةً أوجَعَتْنِي'
+  - motif: tell-me-or-the-subtle-the-aware-will-tell-me
+    refs:
+    - Jāmiʿ 13:2411.2
+    note: '"لتُخبريني أو ليُخْبِرَنِّي اللَّطيفُ الخبيرُ"'
+  - motif: gabriel-hides-from-undressed-wife
+    refs:
+    - Jāmiʿ 13:2411.2
+    note: ولم يكن يَدْخُلُ عَليكِ وقَدْ وَضَعْتِ ثِيَابَكِ
+  - motif: raises-hands-thrice-at-baqi
+    refs:
+    - Jāmiʿ 13:2411.2
+    - Jāmiʿ 13:2412.1
+    - Jāmiʿ 13:2415.1
+    note: فقام فأطال القيام، ثم رفع يديه ثلاث مرَّات; فوقف في أدنى البقيع، ثم رفع يديه
+  - motif: baqi-greeting-ask-wellbeing-for-us-and-you
+    refs:
+    - Jāmiʿ 13:2413.1
+    note: السلام عليكم أهل الدّيار من المؤمنين والمسلمين، وإنا إن شاء الله لَلاحقون، أسأل الله لنا ولكم العافية
+- id: hadith-13-tidings-at-unbelievers-graves
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Wherever you pass an unbeliever''s grave, give him tidings of the fire'''
+  read:
+  - Jāmiʿ 13:2416.1-2416.2
+  tags:
+  - motif: give-unbelievers-grave-tidings-of-fire
+    refs:
+    - Jāmiʿ 13:2416.1
+    - Jāmiʿ 13:2416.2
+    note: '"حيث ما مررت بقبر كافر فبشره بالنار"; لقد كلَّفني رسولُ الله ﷺ تعبًا ما مررتُ بقبر كافر إلا بشرته بالنار'
+  - motif: my-father-and-yours-in-the-fire
+    refs:
+    - Jāmiʿ 13:2416.1
+    - Jāmiʿ 13:2416.2
+    note: 'يا رسول الله! أين أبي؟ فقال: "في النار" قال: فأين أبوك؟; إنّ أبي كان يصلُ الرَّحم، وكان وكان، فأين هو؟ قال: "في النار"'
