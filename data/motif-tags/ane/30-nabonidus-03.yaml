@@ -68,9 +68,53 @@ new_motifs:
   underworld-queen-invited-by-gods-sends-envoy: {label: "Because the underworld queen cannot go up to the gods' banquet, the gods send a messenger to her, and she sends her vizier up to receive her portion", cluster: underworld}
   stairway-between-heaven-and-underworld: {label: "A long stairway of heaven (simmiltu šamāmī) joins heaven and the underworld; messengers go up and down it", cluster: underworld}
   god-fails-to-rise-for-underworld-envoy: {label: "Only one god in the assembly does not stand up before the underworld queen's envoy, causing offence", cluster: underworld}
-  underworld-queen-never-knew-girlhood-play: {label: "The underworld queen complains that since she was a little girl she has not known the play of maidens or the games of young girls", cluster: underworld}
   queen-demands-lover-or-threatens-dead-rise: {label: "The underworld queen demands that the god who slept with her be sent back as her husband, or she will raise the dead to eat the living", cluster: underworld}
   god-seizes-underworld-queen-by-hair-and-marries: {label: "The god forces his way through the gates, seizes the underworld queen by her hair, and they embrace and become husband and wife", cluster: underworld}
+  days-fulfilled-road-of-fate: {label: "When a man's days are full he 'takes the road of fate', i.e. dies", cluster: underworld}
+  dynastic-claim-as-heir-of-great-predecessors: {label: "A usurping king presents himself as the strong envoy and true heir of the great kings before him, unlike their own sons", cluster: kingship}
+  heavenly-body-calls-dreamer-by-name: {label: "In a dream the great star or god in heaven calls the dreamer by his name", cluster: revelation}
+  young-man-at-dreamers-side-explains-sign: {label: "A young man (eṭlu) stands at the dreamer's side and explains that the sign he fears portends no evil", cluster: revelation}
+  offerings-to-stars-for-long-life: {label: "The king sets out offerings to the planets and stars of heaven and prays to them for long life and a firm throne", cluster: cult}
+  gods-dressed-in-ceremonial-garments: {label: "The king provides the gods' statues with new ceremonial garments (tēdīqu) befitting their divinity", cluster: cult}
+  king-visits-ancient-cult-cities-with-offerings: {label: "The king travels to the ancient cult cities (Uruk, Larsa, Ur, Keš) and brings silver, gold, stones and fattened bulls before their gods", cluster: cult}
+  king-of-the-four-quarters: {label: "The king bears the titles great king, mighty king, king of the universe, king of the four quarters", cluster: kingship}
+  god-shows-king-ancient-foundation: {label: "The god himself shows the king the long-lost ancient foundation of his temple on an auspicious day", cluster: revelation}
+  warrior-goddess-with-bow-and-quiver: {label: "The goddess of battle carries bow and quiver, flattens the enemy, destroys the wicked and marches before the gods", cluster: cult}
+  unprecedented-divine-deed-never-written: {label: "A wonder of the god is proclaimed that no one had known since distant days, that had never come to the land nor been written on a tablet", cluster: revelation}
+  god-comes-down-from-heaven: {label: "The god himself comes down from heaven to the land before the king", cluster: revelation}
+  gods-guard-wandering-king: {label: "The gods entrust a guard of well-being and life to the king while he wanders far from his city", cluster: kingship}
+  god-uproots-land-whose-heart-forsakes-him: {label: "The land the god chooses stands firm for ever; the land he decides to break, he removes his fear from it and casts it down", cluster: prophecy}
+  no-light-without-gods-word: {label: "Without the god's command no land is founded and no light exists in the land", cluster: creation}
+  gods-return-to-favour-after-withdrawing: {label: "The gods and goddesses who had turned away and gone far return and speak favour for the king", cluster: cult}
+  prayer-for-gods-return-to-city: {label: "The devotee prays day and night that the angry god return to his city so that the people may revere him", cluster: cult}
+  dream-fulfilled-exactly: {label: "The dreamer heeds the god's word spoken in a dream and lives to see it fulfilled", cluster: revelation}
+  god-lifts-head-and-gives-good-name: {label: "The god lifts up the devotee's head and gives her a good name in the land with long days", cluster: cult}
+  loyal-servant-of-successive-kings: {label: "A courtier faithfully serves a series of kings for decades, keeping watch over them day and night and is honoured like their own daughter", cluster: kingship}
+  mourners-sent-home-with-oil-and-food: {label: "At the end of mourning the mourners are fed, anointed with sweet oil on their heads, their faces brightened and sent home", cluster: underworld}
+  rite-repeated-seven-times: {label: "A prayer or incantation is recited seven times at each station of a rite", cluster: cult}
+  tablet-opens-with-blessing-of-gods-word: {label: "A tablet is headed with the wish 'by the word of god X may it go well'", cluster: cult}
+  four-winds-created: {label: "The high god creates the four winds and gives them to his young son to play with", cluster: creation}
+  gods-incite-mother-to-avenge-father: {label: "Restless gods rebuke the primeval mother for sitting silent when her husband was killed and urge her to take revenge", cluster: creation}
+  constellation-made-to-vanish-and-reappear: {label: "To test the new champion's word, a constellation is destroyed and recreated at his command", cluster: creation}
+  primeval-mother-in-ecstatic-frenzy: {label: "Hearing the challenge, the primeval sea-mother becomes like an ecstatic (mahhû) and shrieks", cluster: creation}
+  rain-and-clouds-from-monsters-body: {label: "From the slain monster's spittle and body the god makes rain, clouds and fog", cluster: creation}
+  images-of-defeated-monsters-set-as-reminder: {label: "The victor makes images of the defeated monsters and sets them at the temple gate as a sign never to be forgotten", cluster: cult}
+  fates-fixed-by-seven-gods: {label: "Seven gods of destinies are appointed in the assembly to decide fates", cluster: cosmology}
+  sun-son-of-the-gods-in-whose-light-they-walk: {label: "The god is the shining 'son, the sun of the gods', in whose bright light the gods walk for ever", cluster: cult}
+  who-incited-the-battle-question: {label: "The high god asks the assembly who instigated the strife and made the battle", cluster: creation}
+  deity-rides-the-sea-as-vehicle: {label: "The vanquished sea is the god's vehicle and he its sailor", cluster: creation}
+  god-enthroned-in-house-of-prayer-receives-gifts: {label: "The god sits high in the 'house of prayer' and the gods bring their gifts before him", cluster: cult}
+  warrior-god-stands-guard-day-and-night: {label: "The warrior god is set to stand guard before the god's image night and day without ceasing", cluster: cult}
+  families-scattered-in-catastrophe: {label: "In the catastrophe people are driven from city to city, fathers and sons separated, mothers mock daughters, wild beasts roam", cluster: prophecy}
+  blood-rains-death-clouds: {label: "In the divine battle armour is bathed in blood, clouds of death rain down and arrows flash like lightning", cluster: kingship}
+  hero-sends-report-to-wise-god-for-advice: {label: "The hero sends his messenger back to the wise god to report his failure and ask for new instructions", cluster: kingship}
+  theophany-envelops-land-in-radiance: {label: "The warrior god's fierce radiance and awe-inspiring glow cover the land and envelop all countries", cluster: kingship}
+  underworld-gods-tremble-at-warriors-shout: {label: "At the warrior's battle-cry the gods of the underworld quake and the dwelling of Arallu darkens", cluster: underworld}
+  warrior-god-praised-as-incomparable: {label: "The victorious warrior god's fame is boundless; there is none like him", cluster: kingship}
+  namtar-recognises-the-god-who-did-not-rise: {label: "The underworld vizier sees the arriving god in the shadow of the door and turns pale, recognising the one who did not rise for him", cluster: underworld}
+  god-keeps-underworld-taboos-at-first: {label: "The visiting god refuses the underworld chair, bread, meat, beer and foot-water until the queen shows him her body", cluster: underworld}
+  purification-water-sprinkled-on-house: {label: "Pure water is sprinkled through a house to purify it", cluster: cult}
+  underworld-queen-grants-rule-to-husband: {label: "The underworld queen offers her divine husband to share the throne and the rites of the great Underworld", cluster: underworld}
 units:
   # ---------------- Nabonidus 03 (Babylon stele) ----------------
   - id: ane-nabonidus-03-i-assyria-wrath-on-babylon
@@ -132,7 +176,7 @@ units:
       - {motif: goddess-departs-in-anger-from-shrine, refs: ["Nabonidus 03 iv:14'-23'"], note: "Anunītu of Sippar-Anunītu, whose seat had been moved to Arrapha before the enemy and whose rites the Gutians disrupted"}
       - {motif: wrong-cult-image-replaced-by-proper, refs: ["Nabonidus 03 iv:24'-33'"], note: "Neriglissar renewed her, clothed her in the garment of divinity (tēdīq ilūti), returned her seat and fixed her offerings"}
       - {motif: ignorant-child-king-on-throne-against-gods-will, refs: ["Nabonidus 03 iv:37'-42'"], note: "Lā-abāši-Marduk mārušu ṣehru lā āhiz rīdi kīma lā libbi ilīma ina kussî šarrūti ūšimma: his young son, who had not learned proper conduct, sat on the royal throne as though against the gods' will"}
-      - {motif: kings-days-full-he-dies, refs: ["Nabonidus 03 iv:34'-36'"], note: "ištu ūmū imlû iṣbatu uruh šīmti: when his days were full he took the road of fate (Neriglissar's death)"}
+      - {motif: days-fulfilled-road-of-fate, refs: ["Nabonidus 03 iv:34'-36'"], note: "ištu ūmū imlû iṣbatu uruh šīmti: when his days were full he took the road of fate (Neriglissar's death)"}
     hints:
       - "Woe to the land whose king is a child: Eccl 10:16; Isa 3:4, 12."
       - "Dying 'when his days were fulfilled': 2 Sam 7:12; 1 Chr 17:11."
@@ -162,8 +206,8 @@ units:
       - {motif: conjunction-of-great-star-and-moon-reassuring-dream, refs: ["Nabonidus 03 vi:4'-12'"], note: "ana ṭehûti kakkabi rabî u Sîn atame ina libbiya ištēn eṭlu ina idiya izzizma ... ṭehûti mimma idāti lumni ul ibašši: I was pondering the conjunction of the great star and the moon; a young man stood at my side and said: the conjunction holds no evil sign"}
       - {motif: dead-king-appears-in-dream-and-asks-its-meaning, refs: ["Nabonidus 03 vi:12'-30'"], note: "ina šuttimma šuāti Nabû-kudurri-uṣur šarru pāni mahrâ ... mīnâ dumqi ša taṭṭulu qibâ yâši: in that same dream Nebuchadnezzar, an earlier king, with an attendant in a chariot ... 'tell me what good thing you have seen'"}
       - {motif: dream-reported-to-king, refs: ["Nabonidus 03 vi:29'-36'"], note: "inverted: the living king tells his dream to the dead king: kakkabu rabû Sîn u Marduk ina qereb šamāmē šūlûtu ... ina šumiya ilsânnīme: the great star, Sîn and Marduk high in heaven ... called me by my name"}
-      - {motif: god-calls-by-name, refs: ["Nabonidus 03 vi:36'"], note: "ina šumiya ilsânnīme: [the star] called me by my name"}
-      - {motif: young-man-in-white-angel-figure-in-dream, refs: ["Nabonidus 03 vi:6'-8'"], note: "ištēn eṭlu ina idiya izzizma: a young man stood at my side and spoke to me"}
+      - {motif: heavenly-body-calls-dreamer-by-name, refs: ["Nabonidus 03 vi:36'"], note: "ina šumiya ilsânnīme: [the star] called me by my name"}
+      - {motif: young-man-at-dreamers-side-explains-sign, refs: ["Nabonidus 03 vi:6'-8'"], note: "ištēn eṭlu ina idiya izzizma: a young man stood at my side and spoke to me"}
     hints:
       - "Nebuchadnezzar's dreams and their interpretation: Dan 2 and 4; a king of Babylon troubled by heavenly signs, Dan 5. The 'young man' standing beside the dreamer: Dan 8:15-17; 10:5-11; Zech 1:8-11."
       - "Being called by name in revelation: 1 Sam 3:4-10; Isa 43:1; 45:3-4 (Cyrus called by name)."
@@ -180,7 +224,7 @@ units:
       - {motif: god-turns-face-away-in-anger, refs: ["Nabonidus 03 vii:17'-19'"], note: "reversed: ana suhhuru pānišu usallīšu: I prayed that she turn her face (back to me)"}
       - {motif: god-gives-king-crown-sceptre-crook, refs: ["Nabonidus 03 vii:23'-29'"], note: "Nabû ... haṭṭi išarti ušparu kīnu murappišat māti ušatmihu qātāya: Nabû made my hands grasp the straight sceptre and the true staff that widens the land"}
       - {motif: king-raised-to-throne-not-seeking-kingship, refs: ["Nabonidus 03 vii:38'-56'"], note: "ša šarrūtu ina libbiya lā tabšû yâti lā mūdâka ša attā bēl bēlī tumallû qātāya: I, in whose heart kingship was not, who did not know you, whose hands you, lord of lords, filled above the kings you named from of old"}
-      - {motif: prayer-for-long-life-of-king, refs: ["Nabonidus 03 vii:54'-56'"], note: "šurik ūmīya lilbirā šanātiya lupušma zāninūtu: lengthen my days, let my years grow old, that I may act as provider"}
+      - {motif: prayer-for-kings-long-life, refs: ["Nabonidus 03 vii:54'-56'"], note: "šurik ūmīya lilbirā šanātiya lupušma zāninūtu: lengthen my days, let my years grow old, that I may act as provider"}
     hints:
       - "A king lifted from obscurity who did not seek the throne: 1 Sam 9:21; 10:22; Ps 78:70-72; Isa 45:4-5 ('I call you by name though you do not know me', to Cyrus)."
       - "Astral offerings for long life contrast Deut 4:19; 2 Kgs 23:5; Jer 7:18. Hezekiah granted added years: 2 Kgs 20:1-6; Isa 38."
@@ -196,8 +240,8 @@ units:
       - {motif: king-provisions-temple-kitchens, refs: ["Nabonidus 03 viii:25'-30'"], note: "zāninūti Esagil u Ezida qaqdâ putuqqūma ūmišam lā naparkû anāku: I am the provider of Esagil and Ezida, constantly attentive, daily without ceasing"}
       - {motif: king-dedicates-weapon-and-cult-objects, refs: ["Nabonidus 03 viii:16'-24'"], note: "a throne (arattû) of red gold for Ea, which no former king had made, set in Ekarzagina"}
       - {motif: temple-doors-of-cedar-clad-in-silver, refs: ["Nabonidus 03 viii:31'-54'"], note: "doors of Ehalanki, 'house of the secrets of Marduk and Zarpanītu', of Dukisikil and of the gate of Bēltiya: kaspa ebba ušalbiš ... daltāt erēni eššiš abni ešmarâ uhhiz unammir ūmiš: clad in shining silver, new cedar doors overlaid with silver alloy, made bright as day"}
-      - {motif: guardian-figures-at-temple-gate, refs: ["Nabonidus 03 viii:55'-59'"], note: "mušhuššu werî ... u suhurmāšu werî: copper serpent-dragons and copper goat-fish set on the footing of the main court"}
-      - {motif: god-ritual-clothing-ceremony, refs: ["Nabonidus 03 viii:13'-15'"], note: "ana tēdīq ilūtišunu rabīti asmiš ušālik: I made the ceremonial garments of their great divinity fittingly"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["Nabonidus 03 viii:55'-59'"], note: "mušhuššu werî ... u suhurmāšu werî: copper serpent-dragons and copper goat-fish set on the footing of the main court"}
+      - {motif: gods-dressed-in-ceremonial-garments, refs: ["Nabonidus 03 viii:13'-15'"], note: "ana tēdīq ilūtišunu rabīti asmiš ušālik: I made the ceremonial garments of their great divinity fittingly"}
     hints:
       - "Temple doors of olivewood or cypress overlaid with gold: 1 Kgs 6:31-35; the bronze serpent in the temple: 2 Kgs 18:4."
   - id: ane-nabonidus-03-ix-akitu-gifts-and-captives
@@ -256,7 +300,7 @@ units:
     tags:
       - {motif: king-destined-in-mothers-womb-for-kingship, refs: ["Nabonidus 28 i:4-5"], note: "ša Sîn u Ningal ina libbi ummišu ana šīmat šarrūti išīmū šīmassu: whose destiny Sîn and Ningal fixed for kingship in his mother's womb"}
       - {motif: fate-decreed-in-the-true-womb, refs: ["Nabonidus 28 i:4-5"]}
-      - {motif: king-of-four-quarters-title, refs: ["Nabonidus 28 i:1-3"], note: "šarru rabû šarru dannu šar kiššati šar Babili šar kibrāt erbetti zānin Esagil u Ezida"}
+      - {motif: king-of-the-four-quarters, refs: ["Nabonidus 28 i:1-3"], note: "šarru rabû šarru dannu šar kiššati šar Babili šar kibrāt erbetti zānin Esagil u Ezida"}
     hints:
       - "Called from the womb: Jer 1:5; Isa 44:2, 24; 49:1, 5; Ps 22:10-11; Gal 1:15."
   - id: ane-nabonidus-28-i-dream-of-marduk-and-sin
@@ -286,15 +330,15 @@ units:
     tagger: "Claude (model), reading the Akkadian"
     read: ["Nabonidus 28 i:34-43", "Nabonidus 28 ii:1-46"]
     tags:
-      - {motif: workforce-mustered-from-gaza-to-gulf, refs: ["Nabonidus 28 i:33-38"], note: "ummānīya rapšāti ištu Hazzati pāṭ Muṣur tâmtim elīti ebirti Purattu adi tâmtim šaplīti: my wide army from Gaza on the border of Egypt, the Upper Sea across the Euphrates, to the Lower Sea"}
-      - {motif: king-chosen-by-extispicy, refs: ["Nabonidus 28 i:41-43"], note: "ina arhi šalmi ina ūmi šemî ša ina bīri uaddûni Šamaš u Adad: in a favourable month, on a propitious day that Šamaš and Adad made known by extispicy (the building date, not the king)"}
+      - {motif: workforce-mustered-from-gaza-to-gulf, refs: ["Nabonidus 28 i:34-38"], note: "ummānīya rapšāti ištu Hazzati pāṭ Muṣur tâmtim elīti ebirti Purattu adi tâmtim šaplīti: my wide army from Gaza on the border of Egypt, the Upper Sea across the Euphrates, to the Lower Sea"}
+      - {motif: extispicy-for-cultic-and-military-decisions, refs: ["Nabonidus 28 i:41-43"], note: "ina arhi šalmi ina ūmi šemî ša ina bīri uaddûni Šamaš u Adad: in a favourable month, on a propitious day that Šamaš and Adad made known by extispicy, the foundation is laid by the craft of Ea, Asalluhi and Kulla"}
       - {motif: foundation-mortar-mixed-with-beer-wine-oil-honey, refs: ["Nabonidus 28 ii:1-6"], note: "ukīn libnassu ina šikari karāni šamni dišpi šallaršu amhaṣ: I laid its brickwork, plastered it with beer, wine, oil and honey"}
       - {motif: king-digs-to-ancient-foundation-deposit, refs: ["Nabonidus 28 ii:3-4"], note: "on the foundation of Ashurbanipal, who had seen the foundation of Shalmaneser son of Ashurnasirpal"}
       - {motif: heroes-fell-sacred-cedars-for-temple-door, refs: ["Nabonidus 28 ii:10-12"], note: "cedar beams from the Amanus for the roof; cedar doors with a sweet scent in its gates"}
-      - {motif: guardian-figures-at-temple-gate, refs: ["Nabonidus 28 ii:14-17"], note: "a wild bull of shining zahalû goring the foe in the cella; two lahmu of silver alloy at the east gate, right and left"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["Nabonidus 28 ii:14-17"], note: "a wild bull of shining zahalû goring the foe in the cella; two lahmu of silver alloy at the east gate, right and left"}
       - {motif: god-returns-to-his-temple, refs: ["Nabonidus 28 ii:18-25"], note: "qāti Sîn Ningal Nusku u Sadarnunna ... ištu Šuanna ... aṣbatma ina hidâti u rišâti šubat ṭūb libbi qerbašu ušēšib: I took the hand of Sîn, Ningal, Nusku and Sadarnunna from Babylon and with joy and rejoicing seated them in the dwelling of their heart's delight"}
-      - {motif: temple-shines-like-moonlight, refs: ["Nabonidus 28 ii:23-25"], note: "Harran ana pāṭ gimrišu kīma ṣēt arhi unammir šarūrušu: I made Harran in all its extent shine like moonlight"}
-      - {motif: prayer-for-long-life-of-king, refs: ["Nabonidus 28 ii:26-41"], note: "Sîn ... ina nīš īnišu damqāti hadîš lippalsannima ... ūmīya lišarik šanātiya lišandil lukīn palûya: may Sîn look on me with joy ... lengthen my days, widen my years, make my reign firm"}
+      - {motif: new-moon-image-of-temple, refs: ["Nabonidus 28 ii:23-25"], note: "Harran ana pāṭ gimrišu kīma ṣēt arhi unammir šarūrušu: I made Harran in all its extent shine like moonlight"}
+      - {motif: prayer-for-kings-long-life, refs: ["Nabonidus 28 ii:26-41"], note: "Sîn ... ina nīš īnišu damqāti hadîš lippalsannima ... ūmīya lišarik šanātiya lišandil lukīn palûya: may Sîn look on me with joy ... lengthen my days, widen my years, make my reign firm"}
       - {motif: inscription-of-predecessor-anointed-and-replaced, refs: ["Nabonidus 28 ii:42-46"], note: "mušarû šiṭir šum Aššur-bani-apli āmurma lā unakkir šamna apšuš nīqa aqqi itti mušarêya aškunma: I found Ashurbanipal's inscription, did not alter it, anointed it with oil, offered a sacrifice, and placed it with my own inscription"}
     hints:
       - "Temple foundations relaid in joy: Ezra 3:10-13; Solomon's cedar from Lebanon, 1 Kgs 5:6-10; 6:15-18."
@@ -310,9 +354,9 @@ units:
       - {motif: king-afraid-at-collapsing-temple-wall, refs: ["Nabonidus 28 ii:51-55"], note: "ina 45 šanāti ... iqūpū igārūšu akkud ašhut naqutti aršēma dulluhū pānūya: after 45 years its walls caved in; I trembled, I feared, I was anxious and pale; I took Šamaš out and seated him in another house"}
       - {motif: king-digs-to-ancient-foundation-deposit, refs: ["Nabonidus 28 ii:49-50", "Nabonidus 28 ii:56-58", "Nabonidus 28 ii:64-65"], note: "Nebuchadnezzar sought its old foundation but did not see it; I dug 18 cubits deep and found the foundation of Naram-Sin son of Sargon ... ubānu lā aṣê ubānu lā erēbi: not a finger's breadth out or in"}
       - {motif: time-span-back-to-ancient-king-counted, refs: ["Nabonidus 28 ii:57-58"], note: "ša 3,200 šanāti manāma šarru ālik mahriya lā īmuru: which for 3,200 years no king before me had seen"}
-      - {motif: god-reveals-temple-plan-to-king, refs: ["Nabonidus 28 ii:59-61"], note: "Šamaš ... ukallimanni yâši: Šamaš showed it to me, in Tašrītu, in a favourable month, on a propitious day revealed by extispicy"}
+      - {motif: god-shows-king-ancient-foundation, refs: ["Nabonidus 28 ii:59-61"], note: "Šamaš ... ukallimanni yâši: Šamaš showed it to me, in Tašrītu, in a favourable month, on a propitious day revealed by extispicy"}
       - {motif: inscription-of-predecessor-anointed-and-replaced, refs: ["Nabonidus 28 iii:8-10"], note: "šiṭir šum Naram-Sin ... āmurma lā unakkir šamna apšuš"}
-      - {motif: prayer-for-long-life-of-king, refs: ["Nabonidus 28 iii:11-21"], note: "Šamaš ... nūr ilī abbēšu ... unnīnīya leqēma mugur taṣlīti haṭṭu u šibirru kīnu ... lubēl ana dūr dāri: accept my prayer ... may I wield the sceptre and true staff for ever"}
+      - {motif: prayer-for-kings-long-life, refs: ["Nabonidus 28 iii:11-21"], note: "Šamaš ... nūr ilī abbēšu ... unnīnīya leqēma mugur taṣlīti haṭṭu u šibirru kīnu ... lubēl ana dūr dāri: accept my prayer ... may I wield the sceptre and true staff for ever"}
     hints:
       - "The temple plan shown to the builder: Exod 25:9, 40; 1 Chr 28:11-19; Ezek 40-43."
       - "Founding exactly on the old site: Ezra 2:68; 3:3 ('on its foundations', al-mekhonotav); 6:7."
@@ -341,7 +385,7 @@ units:
     read: ["Nabonidus 47 i:1-22"]
     tags:
       - {motif: unprecedented-divine-deed-never-written, refs: ["Nabonidus 47 i:1-7"], note: "epišti Sîn rabīti ... mamman lā īdûšu ša ištu ūmī rūqūti ana māti lā urīdu ... ina ṭuppi lā išṭurūma: the great deed of Sîn which no one knew, which since distant days had not come down to the land, which the people had not seen or written on a tablet: Sîn came down from heaven before Nabonidus"}
-      - {motif: god-descends-from-heaven, refs: ["Nabonidus 47 i:5-7"], note: "ultu šamê tallikū: [Sîn] came from heaven"}
+      - {motif: god-comes-down-from-heaven, refs: ["Nabonidus 47 i:5-7"], note: "ultu šamê tallikū: [Sîn] came from heaven"}
       - {motif: king-raised-to-throne-not-seeking-kingship, refs: ["Nabonidus 47 i:7-11"], note: "māru ēdu ša mamman lā išû ša šarrūtu ina libbiya lā tabšû: an only son who has no one, in whose heart kingship was not; the gods prayed for me and Sîn called me to kingship"}
       - {motif: god-in-dream-orders-temple-rebuilt, refs: ["Nabonidus 47 i:11-14"], note: "ina šāt mūši šutta ušabrânni umma Ehulhul ... hamṭiš epuš mātāti kalâšina ana qātīka lumalla: in the night he showed me a dream: build Ehulhul quickly, I will fill your hands with all the lands"}
       - {motif: all-kingdoms-given-by-god, refs: ["Nabonidus 47 i:13-14"]}
@@ -361,10 +405,10 @@ units:
     read: ["Nabonidus 47 i:23-48", "Nabonidus 47 ii:1-2"]
     tags:
       - {motif: king-withdraws-to-arabian-oases-ten-years, refs: ["Nabonidus 47 i:23-28"], note: "ultu āliya Babili ušēriqannima urhu Tema Dadanu Padakku Hibra Yadihu u adi Yatribu 10 šanāti attallaku ... ana āliya Babili lā ērub: he removed me from my city Babylon; on the road of Tema, Dedan, Fadak, Khaybar, Yadiʿ as far as Yathrib I went about for ten years and did not enter Babylon"}
-      - {motif: drought-relieved-at-gods-word, refs: ["Nabonidus 47 i:36-38"], note: "ina qibīt Sîn Adad gugal šamê u erṣeti mê zunni išaqqīšunūti: at Sîn's command Adad, canal-inspector of heaven and earth, gave them rain to drink"}
+      - {motif: god-gives-rain-and-floods, refs: ["Nabonidus 47 i:36-38"], note: "ina qibīt Sîn Adad gugal šamê u erṣeti mê zunni išaqqīšunūti: at Sîn's command Adad, canal-inspector of heaven and earth, gave them rain to drink"}
       - {motif: arabs-raid-and-are-subdued, refs: ["Nabonidus 47 i:45-48", "Nabonidus 47 ii:1-2"], note: "nišī Aribi ša kakku ... ana habāti u leqê ša būšê izzizūma; ina amat Sîn Nergal kakkīšunu ušabbirma napharšunu iknušū ana šēpīya: the Arabs stood to plunder goods; at the word of Sîn, Nergal broke their weapons and all bowed at my feet"}
       - {motif: kings-of-arabia-tribute, refs: ["Nabonidus 47 i:42-45"], note: "šar Muṣur Madaya Aribi u naphar šarrī nakrūti ana sulummê u ṭubbāti išapparūnu: kings of Egypt, Media, Arabia and all hostile kings send to me for peace and friendship"}
-      - {motif: gods-protect-king-in-exile, refs: ["Nabonidus 47 i:28-31"], note: "Šamaš, Ištar, Adad and Nergal maṣṣarti šulmi u balāṭi ipqidū ittiya: entrusted a guard of well-being and life with me"}
+      - {motif: gods-guard-wandering-king, refs: ["Nabonidus 47 i:28-31"], note: "Šamaš, Ištar, Adad and Nergal maṣṣarti šulmi u balāṭi ipqidū ittiya: entrusted a guard of well-being and life with me"}
     hints:
       - "Dan 4:22, 29-30 (Aram. 4:25, 32-33): the king driven away from men for 'seven times'; the Prayer of Nabonidus (4Q242) sets the king's illness and healing in Tema."
       - "Tema, Dedan and the Arabian caravans: Isa 21:13-14; Jer 25:23; Gen 25:15. Yathrib (Medina) is named in Q 33:13."
@@ -382,7 +426,7 @@ units:
       - {motif: god-says-his-word-not-twice, refs: ["Nabonidus 47 ii:21-22"], note: "ša ana qibītišu lā iturru u amassu lā taqabbû šinīšu"}
       - {motif: immutable-divine-word, refs: ["Nabonidus 47 ii:21-22", "Nabonidus 47 ii:41-42"]}
       - {motif: god-uproots-land-whose-heart-forsakes-him, refs: ["Nabonidus 47 ii:25-31"], note: "mātu ša libbaka ašābšu ... ištakkanma ana ūmī rūqūti išdūšu ikunnu; mātu ša libbaka hapûšu ... ultu libbišu tanessēmu tanandiš: the land in which you choose to dwell, its foundations stand for ever; the land your heart would break, you withdraw your fear from it and cast it down"}
-      - {motif: gods-tremble-like-reeds, refs: ["Nabonidus 47 ii:40-42"], note: "ilū kīma qanê išubbū inarruṭū Anunnakī ša lapāni qibīt ilūtišu: the gods quake like reeds and sway, the Anunnaki before his command"}
+      - {motif: heaven-earth-shake-at-gods-name, refs: ["Nabonidus 47 ii:40-42"], note: "ilū kīma qanê išubbū inarruṭū Anunnakī ša lapāni qibīt ilūtišu: the gods quake like reeds and sway, the Anunnaki before his command"}
       - {motif: no-light-without-gods-word, refs: ["Nabonidus 47 ii:36-39"], note: "ša balu qibītišu ... mātu lā tannadû u nūru ina māti lā ibbaššû: without his command no land is founded and no light exists in the land"}
     hints:
       - "God's word does not return void and is not spoken twice: Num 23:19; Isa 45:23; 55:11; Ps 62:12 ('once God has spoken, twice I heard')."
@@ -452,7 +496,7 @@ units:
       - {motif: god-returns-to-his-temple, refs: ["Nabonidus 2001 ii:12-21"], note: "parṣī mašûti ša Sîn ... ušaklil Ehulhul eššiš īpušma ... ina hidâti u rišâti ušēšib: the forgotten rites he completed, built Ehulhul anew and seated the gods in joy"}
       - {motif: hero-restores-forgotten-rites, refs: ["Nabonidus 2001 ii:13-15"], note: "parṣī mašûti: forgotten rites"}
       - {motif: dream-fulfilled-exactly, refs: ["Nabonidus 2001 ii:12-13"], note: "amat Sîn ... iqbâ attaʾidma āmur anāku: the word Sîn spoke I heeded and I myself saw (it fulfilled)"}
-      - {motif: god-gives-good-name, refs: ["Nabonidus 2001 ii:23-25"], note: "rēšiya ullīma šuma ṭāba ina māti iškunanni ūmī arkūti šanāti ṭūb libbi uṣṣipamma: he raised my head, gave me a good name in the land, added long days and years of heart's joy"}
+      - {motif: god-lifts-head-and-gives-good-name, refs: ["Nabonidus 2001 ii:23-25"], note: "rēšiya ullīma šuma ṭāba ina māti iškunanni ūmī arkūti šanāti ṭūb libbi uṣṣipamma: he raised my head, gave me a good name in the land, added long days and years of heart's joy"}
     hints:
       - "God raises the head and gives a good name: Gen 12:2; 2 Sam 7:9; Ps 3:4; Gen 40:13, 20."
       - "A promise of restoration in a dream fulfilled in the dreamer's lifetime: Gen 15:12-16 contrast; Luke 2:26-30 (Simeon sees what was promised)."
@@ -481,7 +525,7 @@ units:
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Akkadian"
-    read: ["Nabonidus 2001 iii:5-55"]
+    read: ["Nabonidus 2001 iii:5-56"]
     tags:
       - {motif: death-old-and-full-of-days, refs: ["Nabonidus 2001 iii:5-7"], note: "ina šatti 9 Nabû-naʾid ... šīmtu ramānišu ubilšuma: in the 9th year of Nabonidus her own fate carried her off (the narrative passes from first to third person here)"}
       - {motif: queen-mother-buried-with-royal-honours, refs: ["Nabonidus 2001 iii:8-23"], note: "šalamtaša ukammisma lubūšī damqūti kitû nawri ... hurāṣu ... abnī nisiqti ... šamni ṭābi šalamtaša upaššišma iškunū ina niṣirti: he wrapped her corpse in fine garments of bright linen, gold, choice stones, anointed it with sweet oil and laid it in a hidden place; oxen and sheep were slaughtered; people of Babylon, Borsippa, distant princes and governors from Egypt to the Lower Sea were gathered"}
@@ -626,11 +670,11 @@ units:
       - {motif: new-year-procession-of-anu-with-incantations, refs: ["GKAB P296523 o:1-27", "GKAB P296523 r:1-4"], note: "kīma ša Anu ištu Enamena papāha ittaṣâ ... mašmaššū šipta šarru ittaṣâ 3-šu imannû: when Anu goes out of his cella ... the exorcists recite 'The king has gone out' three times; then at the Street of the Gods, the Holy Quay, the causeway of the barque of Anu, the King's Gate, the akītu house"}
       - {motif: king-goes-to-akitu-house, refs: ["GKAB P296523 o:24", "GKAB P296523 r:1"]}
       - {motif: litany-of-gods-blessing-the-god, refs: ["GKAB P296523 r:5-11"], note: "Anu rabû šamû u erṣetu likrubūka; Ellil Ea u Bēlet-ilī hadîš likrubūka ... Igigū ša šamê u Anunnakū ša erṣeti ... ilū ša apsî u ilū ša Duku ... ūmu arhu u šattu ūmišam likrubūka: may heaven and earth, ... the gods of the Apsu, day, month and year bless you"}
-      - {motif: seven-fold-repetition, refs: ["GKAB P296523 o:14", "GKAB P296523 o:21", "GKAB P296523 o:27", "GKAB P296523 r:14"], note: "7-TA.AM₃ / 7-šu imannû: recited seven times; the blessing is said seven times from the Rēš to the akītu house"}
+      - {motif: rite-repeated-seven-times, refs: ["GKAB P296523 o:14", "GKAB P296523 o:21", "GKAB P296523 o:27", "GKAB P296523 r:14"], note: "7-TA.AM₃ / 7-šu imannû: recited seven times; the blessing is said seven times from the Rēš to the akītu house"}
       - {motif: colophon-copied-and-collated, refs: ["GKAB P296523 r:16"], note: "kīma labīrišu šaṭirma bari u uppuš gabarî lēʾi labīri makkūr Anu u Antu"}
       - {motif: priestly-lineage-in-colophon, refs: ["GKAB P296523 r:17-21"], note: "tablet of Anu-ah-ušabši son of Kidin-Anu, descendant of Ekur-zakir, exorcist of Anu and Antu ... Uruk, Duʾuzu 24, year 61 (SE), Antiochus king of the lands"}
       - {motif: tablet-curse-against-erasing-or-showing, refs: ["GKAB P296523 r:20"], note: "pālih Anu u Antu ina šurqi lā itabbalšu: who reveres Anu and Antu shall not take it away by theft"}
-      - {motif: ritual-blessing-formula-at-top-edge, refs: ["GKAB P296523 t.e:1"], note: "ina amat Anu u Antu lišlim: by the word of Anu and Antu may it go well"}
+      - {motif: tablet-opens-with-blessing-of-gods-word, refs: ["GKAB P296523 t.e:1"], note: "ina amat Anu u Antu lišlim: by the word of Anu and Antu may it go well"}
     hints:
       - "Processions of the ark into the sanctuary with song: 2 Sam 6:12-15; Ps 24:7-10; 68:24-27; 132:8."
       - "All creation and all times called to bless God: Ps 103:20-22; 148; Dan 3:57-90 (LXX, Song of the Three)."
@@ -666,7 +710,7 @@ units:
       - {motif: supreme-rule-over-heaven-and-earth-given-to-marduk, refs: ["GKAB P338321 o:5'-8'"], note: "Marduk šarru ... kussû u palû: kingship, throne and reign"}
       - {motif: god-rides-storm-chariot, refs: ["GKAB P338321 o:27'-31'"], note: "iššima bēlu abūba kakkašu rabâ ūmu lā mahhiru galitta irkab: the lord raised the flood-weapon, mounted the irresistible fearsome storm-chariot; four steeds, Killer, Pitiless, Trampler, Flyer"}
       - {motif: net-from-which-none-escapes, refs: ["GKAB P338321 o:19'-22'"], note: "sapara ... lawû qerbiš Tiāmat ... šārī uštēṣbita lā aṣê mimmiša: he made a net to enclose Tiāmat, set the winds so nothing of her could escape"}
-      - {motif: lightning-before-the-god, refs: ["GKAB P338321 o:17'-18'"], note: "berqa ina pānišu ... muštahmiṭa zumuršu umtalli: lightning before him, his body filled with blazing flame"}
+      - {motif: storm-god-arms-for-combat, refs: ["GKAB P338321 o:17'-18'"], note: "berqa ina pānišu ... muštahmiṭa zumuršu umtalli: lightning before him, his body filled with blazing flame"}
       - {motif: seven-winds-storm, refs: ["GKAB P338321 o:23'-26'"], note: "imhullu šāru lemnu mehû ašamšūtu šāru 7-bi imsuhhu ... ušēṣâmma šārī ša ibnû sebettišunu"}
       - {motif: monster-split-into-heaven-and-earth, refs: ["GKAB P338321 r:1'-6'", "GKAB P338321 r:37'-45'"], note: "ihtepa karassu ušalliṭ libba napšatuš uballi ... šalamtaš ibarri ibanna niklāti ... mašṭê ana šinišu ... šamāmī uṣṣallil: he split her belly, slit her heart, extinguished her life ... he looked at her corpse, devised marvels, [split her] in two like a dried fish, roofed the heavens"}
       - {motif: chaos-mother-bears-monster-army, refs: ["GKAB P338321 r:17'-20'"], note: "ištēnšeret nabnītsa šūt pulhāti zaʾinū: her eleven creatures laden with terror, led by nose-ropes, trampled under him"}
@@ -685,8 +729,8 @@ units:
     version: "Standard Babylonian, Sultantepe manuscripts"
     read: ["GKAB P338322", "GKAB P338323", "GKAB P338324"]
     tags:
-      - {motif: woman-ecstatic-rage, refs: ["GKAB P338322 o:6'-9'"], note: "Tiāmat annīta ... mahhûtiš ītemi ... issima Tiāmat šuršiš malmališ: when Tiāmat heard this she became like one in a frenzy (mahhûtiš) and cried out loud to her roots"}
-      - {motif: storm-god-harnesses-storms-as-chariot, refs: ["GKAB P338322 r:4'-8'"], note: "ušparirma bēlu ... imhulla ṣābit arkāti ... iptema pîša imhulla uštēriba: the lord spread [the net], the evil wind that followed he let loose in her face; she opened her mouth and he drove in the evil wind"}
+      - {motif: primeval-mother-in-ecstatic-frenzy, refs: ["GKAB P338322 o:6'-9'"], note: "Tiāmat annīta ... mahhûtiš ītemi ... issima Tiāmat šuršiš malmališ: when Tiāmat heard this she became like one in a frenzy (mahhûtiš) and cried out loud to her roots"}
+      - {motif: storm-god-harnesses-storms-as-chariot, refs: ["GKAB P338322 r:4-8"], note: "ušparirma bēlu ... imhulla ṣābit arkāti ... iptema pîša imhulla uštēriba: the lord spread [the net], the evil wind that followed he let loose in her face; she opened her mouth and he drove in the evil wind"}
       - {motif: earthly-temple-counterpart-of-cosmic, refs: ["GKAB P338323 r:5'-7'"], note: "mihret Apsî ... bēlu ša Apsî tamšīlašu ukīn: opposite the Apsû ... the lord fixed its replica (Ešarra)"}
       - {motif: monster-split-into-heaven-and-earth, refs: ["GKAB P338323 r:2'-3'", "GKAB P338324 r:15'-19'"], note: "mašku maṣṣara ... lā šuṣâ: he stretched a skin, posted guards, ordered them not to let her waters out; P338324: inūhma bēlu šalamtaš ibarri ... ana šinišu ... uṣṣallil"}
       - {motif: dead-gods-of-tiamat-counted, refs: ["GKAB P338324 r:1'-2'"]}
@@ -736,7 +780,7 @@ units:
       - {motif: fifty-names-of-god, refs: ["GKAB P338325 r:13-47"], note: "inimbima hamšā šumēšu: let us proclaim his fifty names; Marduk, Marutukku, Asalluhi named"}
       - {motif: temple-on-earth-made-like-its-heavenly-image, refs: ["GKAB P338325 r:24"], note: "tamšīl ina šamê ītepušu ina erṣeti lītepuš: what he did in heaven let him do likewise on earth"}
       - {motif: black-headed-people, refs: ["GKAB P338325 r:19", "GKAB P338325 r:25", "GKAB P338325 r:30"], note: "rēʾût ṣalmāt qaqqadi: shepherdship of the black-headed; ṣalmāt qaqqadi divided among gods"}
-      - {motif: god-who-creates-and-destroys-forgives-and-punishes, refs: ["GKAB P338325 r:42"], note: "bānû abātu napšura enēna: creator, destroyer, releaser (forgiver) and punisher"}
+      - {motif: maker-creates-and-unmakes, refs: ["GKAB P338325 r:42"], note: "bānû abātu napšura enēna: creator, destroyer, releaser (forgiver) and punisher"}
       - {motif: sun-son-of-the-gods-in-whose-light-they-walk, refs: ["GKAB P338325 r:38-39"], note: "lū māru Šamši ša ilī nebû šūma ina nūrišu namri littallakū šunu kayyān: let him be the shining son, the sun of the gods; in his bright light may they walk for ever"}
     hints:
       - "Humanity made to labour: Gen 2:15; 3:17-19. The bow set in the clouds: Gen 9:13-16. 'On earth as it is in heaven': Matt 6:10."
@@ -767,11 +811,11 @@ units:
       - {motif: fifty-names-of-god, refs: ["GKAB P338327 o:18'-25'", "GKAB P338327 r:2-23"], note: "Gilima, Agilima, Zulum, Mummu, Zulummu, Gišnumunab, Lugalabdubur, Pagalguenna, Lugaldurmah, Aranuna, Dumuduku, Lugalšuanna, Irugga, Irqingu, Kinma, Esiskur, Gibil, Addu ... each name glossed with a deed"}
       - {motif: monster-slayer-as-farmer-and-provider, refs: ["GKAB P338327 o:4'-13'", "GKAB P338327 o:18'"], note: "mukinnu šerʾi ... palga uštēššeru uṣṣiru apkisa ... gugal miṭrat ilī ... ša hengalli ṭuhdi išpikkī ... mudeššû urqīti ... bānû ašnan u lahru nādin zēr māti: who establishes the furrow, sets ditches straight, irrigation lord of the gods, giver of plenty, grain and sheep and the seed of the land"}
       - {motif: deity-rides-the-sea-as-vehicle, refs: ["GKAB P338327 o:16'"], note: "Tiāmat rukūbšuma šū malāhša: Tiāmat is his vehicle and he her sailor"}
-      - {motif: god-creator-of-heaven-and-earth, refs: ["GKAB P338327 o:22'", "GKAB P338327 o:24'-25'"], note: "bānû erṣeti eliš mê mukīn elâti ... Mummu bān šamê u erṣeti: creator of earth above the waters, establisher of the heights ... creator of heaven and earth, purifier of heaven and earth"}
+      - {motif: maker-of-heaven-and-earth, refs: ["GKAB P338327 o:22'", "GKAB P338327 o:24'-25'"], note: "bānû erṣeti eliš mê mukīn elâti ... Mummu bān šamê u erṣeti: creator of earth above the waters, establisher of the heights ... creator of heaven and earth, purifier of heaven and earth"}
       - {motif: humans-created-to-bear-gods-labor, refs: ["GKAB P338327 r:2-3"], note: "Gišnumunab bānû naphar nišī ēpišu kibrāti ābit ilī ša Tiāmat ēpiš nišī ina mimmêšun: creator of all people, who made the world regions, destroyer of Tiāmat's gods, who made people from their substance"}
-      - {motif: gods-tremble-like-reeds, refs: ["GKAB P338327 r:16"], note: "ša ana šumišu ilū kīma mehê išubbū palhiš: at whose name the gods quake in fear as in a storm"}
-      - {motif: none-but-god-knows-the-days, refs: ["GKAB P338327 r:19-22"], note: "mamman ilī lā ibanna niklāti ... ela šâšu ṭēmi ūmēšina lā iyadda ilu mamman ... libbu rūqu ša lā ilammadū ilū gimrassun: none of the gods makes marvels ... apart from him no god knows the reckoning of their days ... a distant heart that all the gods cannot learn"}
-      - {motif: god-of-incense-and-prayer-house, refs: ["GKAB P338327 r:17-18"], note: "Esiskur šaqîš ina bīt ikribī lišibma ilū mahruššu lišēribū kadrâšun: Esiskur, may he sit high in the house of prayer; the gods bring their gifts before him"}
+      - {motif: heaven-earth-shake-at-gods-name, refs: ["GKAB P338327 r:16"], note: "ša ana šumišu ilū kīma mehê išubbū palhiš: at whose name the gods quake in fear as in a storm"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["GKAB P338327 r:19-22"], note: "mamman ilī lā ibanna niklāti ... ela šâšu ṭēmi ūmēšina lā iyadda ilu mamman ... libbu rūqu ša lā ilammadū ilū gimrassun: none of the gods makes marvels ... apart from him no god knows the reckoning of their days ... a distant heart that all the gods cannot learn"}
+      - {motif: god-enthroned-in-house-of-prayer-receives-gifts, refs: ["GKAB P338327 r:17-18"], note: "Esiskur šaqîš ina bīt ikribī lišibma ilū mahruššu lišēribū kadrâšun: Esiskur, may he sit high in the house of prayer; the gods bring their gifts before him"}
     hints:
       - "God who made heaven and earth: Gen 14:19; Ps 121:2; 146:6. No one knows the day but God: Matt 24:36; Q 31:34."
       - "God rides on the waters: Ps 29:10; 104:3. Gives rain and seed: Isa 55:10; Ps 65:10-14. 'My house shall be a house of prayer': Isa 56:7."
@@ -787,7 +831,7 @@ units:
     tags:
       - {motif: sanctuary-loses-its-radiance, refs: ["GKAB P338334 o:4-6"], note: "šarūrišu ušamqitma ... ūmu nawru ana daʾummati uttīr: his brilliance fell ... the bright day was turned to gloom"}
       - {motif: craftsmen-endowed-and-images-refurbished, refs: ["GKAB P338334 o:3'-10'"], note: "Ea šarru ... ṣalmīšunu ša ina nišī abnû ... ana ummânī šunūti libba rapša iddinšunūti uzni išrukšunūtima qātīšunu ullili šukutta šuāša ušanbiṭūma šumsuqat eli ša mahri: Ea the king ... gave those craftsmen a broad heart and wisdom, enriched their hands; they made the adornment shine brighter than before"}
-      - {motif: god-who-sleeps-not-attends-image, refs: ["GKAB P338334 o:11'"], note: "qurādu Erra mūša u urra lā naparkâ uzuzz pānišu: warrior Erra, stand before him night and day without ceasing"}
+      - {motif: warrior-god-stands-guard-day-and-night, refs: ["GKAB P338334 o:11'"], note: "qurādu Erra mūša u urra lā naparkâ uzuzz pānišu: warrior Erra, stand before him night and day without ceasing"}
       - {motif: families-scattered-in-catastrophe, refs: ["GKAB P338334 r:2'-8'"], note: "ištu āli ana āli ... māru ša abu zārû ... ummu ša mārti ina ṣīhāti ... umāmī nasīkāti ... ālu innammaru: from city to city; the son of the father who begot him ... the mother laughs at the daughter; wild beasts of far lands; the city is seen [deserted]"}
     hints:
       - "Bezalel filled with wisdom and skill by God to make the sanctuary: Exod 31:1-6; 35:30-35."
@@ -828,9 +872,9 @@ units:
       - {motif: theophany-envelops-land-in-radiance, refs: ["GKAB P338340 o:19'-22'", "GKAB P338342 o:18'-21'"], note: "melammē ezzūti hurbāše qardūti ... ezzat namurratšu māta iktum rašubbat melammēšu usahhipa mātāti naphar: fierce radiance, heroic frost; his awe-inspiring glow covered the land, his terrifying radiance overwhelmed all lands"}
       - {motif: underworld-gods-tremble-at-warriors-shout, refs: ["GKAB P338340 o:25'-29'", "GKAB P338342 o:25'-28'"], note: "ina rigim qarrādi išāte ultahiz irūbbū ilū erṣeti ana šubat Aralle ... šubat bēlūtišu uhtadir: at the hero's cry fire took hold; the gods of the underworld quaked, Arallu's dwelling was darkened"}
       - {motif: monster-feathers-carried-as-glad-tidings, refs: ["GKAB P338340 r:6-9", "GKAB P338342 r:6-9"], note: "ištānu ... bussurte Anzî: the north wind carried [his feathers] as the good news of Anzû"}
-      - {motif: high-god-rejoices-at-victory, refs: ["GKAB P338340 r:12-13", "GKAB P338342 r:12-13"], note: "išmēma Ekur ūtallaṣ Enlil Ninlil ihtadû: Ekur heard and swelled with joy, Enlil and Ninlil rejoiced"}
-      - {motif: storm-reverses-high-and-low, refs: ["GKAB P338340 r:2-5", "GKAB P338342 r:3-5"], note: "elēnûte ana šaplûtima aškun ... ušaqqi rēšišunu: the upper ones I set low, the lower I raised high"}
-      - {motif: victor-praised-incomparable, refs: ["GKAB P338340 r:26-32"], note: "kīma Ninurta zikrašu lā malit ... kī šâšu lā bašî ... ṣiāt ūme lilbir: like Ninurta, whose fame is unbounded, there is none like him ... may it last to distant days"}
+      - {motif: victory-news-brings-joy-to-gods, refs: ["GKAB P338340 r:12-13", "GKAB P338342 r:12-13"], note: "išmēma Ekur ūtallaṣ Enlil Ninlil ihtadû: Ekur heard and swelled with joy, Enlil and Ninlil rejoiced"}
+      - {motif: god-who-raises-and-lowers, refs: ["GKAB P338340 r:2-5", "GKAB P338342 r:3-5"], note: "elēnûte ana šaplûtima aškun ... ušaqqi rēšišunu: the upper ones I set low, the lower I raised high"}
+      - {motif: warrior-god-praised-as-incomparable, refs: ["GKAB P338340 r:26-32"], note: "kīma Ninurta zikrašu lā malit ... kī šâšu lā bašî ... ṣiāt ūme lilbir: like Ninurta, whose fame is unbounded, there is none like him ... may it last to distant days"}
     hints:
       - "The Lord's theophany in storm and fire: Ps 18:8-16; 97:2-5; Hab 3:3-12. God brings low the high and raises the low: 1 Sam 2:7-8; Ezek 21:31; Luke 1:52."
   # ---------------- GKAB: Ludlul IV ----------------
@@ -843,7 +887,7 @@ units:
     version: "Standard Babylonian, Sultantepe manuscript"
     read: ["GKAB P338344"]
     tags:
-      - {motif: only-god-revives-from-the-grave, refs: ["GKAB P338344 flake:1'-5'"], note: "[ša] āmar šamšišu ... [ela?] Marduk ... ela Zarpanītu napšassu ... Marduk ina qabri ... ileʾʾi: [who could make him see] his sun, if not Marduk? who but Zarpanītu [gives] his life? Marduk is able [to restore] from the grave"}
+      - {motif: god-who-revives-the-dead, refs: ["GKAB P338344 flake:1'-5'"], note: "[ša] āmar šamšišu ... [ela?] Marduk ... ela Zarpanītu napšassu ... Marduk ina qabri ... ileʾʾi: [who could make him see] his sun, if not Marduk? who but Zarpanītu [gives] his life? Marduk is able [to restore] from the grave"}
       - {motif: let-me-live-that-i-may-praise, refs: ["GKAB P338344 flake:1'"], note: "āmar šamšišu: seeing his sun (again), i.e. restored to life"}
     hints:
       - "God brings down to Sheol and brings up: 1 Sam 2:6; Deut 32:39; Ps 30:4; Job 33:28-30 ('he will see the light'); Hos 6:2."
@@ -874,15 +918,15 @@ units:
     version: "Standard Babylonian, Sultantepe manuscript"
     read: ["GKAB P338345 o.ii", "GKAB P338345 o.iii"]
     tags:
-      - {motif: god-fails-to-rise-for-underworld-envoy, refs: ["GKAB P338345 o.ii:17'-21'"], note: "ina pānišu ammīni lā takammis ... qaqqaramma inaṭṭal ēnāka: why did you not kneel before him? ... your eyes look at the ground"}
-      - {motif: ea-gives-throne-to-take-down, refs: ["GKAB P338345 o.ii:34'-46'"], note: "Ea to Nergal: descend to the forest of mēsu trees, cut mēsu, white cedar and juniper ... he made a chair (kussû) of copies in lapis and gold"}
-      - {motif: god-warned-not-to-sit-eat-drink-wash-or-desire-in-underworld, refs: ["GKAB P338345 o.ii:47'-58'"], note: "kussâ našûnikka ē tāmirma ē tušib ina muhhi; nuhatimmu akalī našika ē tāmirma ... ul takkal; ṭābihu šīra ... šikara ... mesīt šēpē ... šī ana narmaki īrumma lubbuši illabiš zumurša uštabarrakka attā zikar u sinniš ē ta[...]: they bring you a chair, do not sit; the baker brings bread, do not eat; the butcher meat, the brewer beer, foot-water, do not; when she goes to bathe and shows you her body, do not [desire] as man and woman"}
+      - {motif: god-fails-to-rise-for-underworld-envoy, refs: ["GKAB P338345 o.ii:17-21"], note: "ina pānišu ammīni lā takammis ... qaqqaramma inaṭṭal ēnāka: why did you not kneel before him? ... your eyes look at the ground"}
+      - {motif: ea-gives-throne-to-take-down, refs: ["GKAB P338345 o.ii:34-46"], note: "Ea to Nergal: descend to the forest of mēsu trees, cut mēsu, white cedar and juniper ... he made a chair (kussû) of copies in lapis and gold"}
+      - {motif: god-warned-not-to-sit-eat-drink-wash-or-desire-in-underworld, refs: ["GKAB P338345 o.ii:47-58"], note: "kussâ našûnikka ē tāmirma ē tušib ina muhhi; nuhatimmu akalī našika ē tāmirma ... ul takkal; ṭābihu šīra ... šikara ... mesīt šēpē ... šī ana narmaki īrumma lubbuši illabiš zumurša uštabarrakka attā zikar u sinniš ē ta[...]: they bring you a chair, do not sit; the baker brings bread, do not eat; the butcher meat, the brewer beer, foot-water, do not; when she goes to bathe and shows you her body, do not [desire] as man and woman"}
       - {motif: dead-eat-dust-and-clay-in-darkness, refs: ["GKAB P338345 o.iii:1-7"], note: "ša lā tayyārat ... zummû nūra ... bubūssina akalšina ṭiṭṭi ... iṣṣūri ṣubāt agappu ... eṭûti ašbā ... kīma summe: [house] of no return ... deprived of light ... clay their bread ... clothed like birds in wings ... they dwell in darkness ... [moaning] like doves"}
-      - {motif: deity-demands-gatekeeper-open, refs: ["GKAB P338345 o.iii:9'-21'"], note: "Nergal at the outer gate: let me report to my lady (fragmentary)"}
-      - {motif: namtar-recognises-the-god-who-did-not-rise, refs: ["GKAB P338345 o.iii:22'-29'"], note: "Namtar illikma ina ṣilli dalti ippalaššu Erra ... kīma nikis bīni irqū pānūš kīma šapti kunninni iṣlima šaptašu: Namtar saw Erra in the shade of the door; his face went pale like a cut tamarisk, his lips dark like the rim of a kunninu-vessel"}
-      - {motif: seven-gates-of-underworld, refs: ["GKAB P338345 o.iii:42'-49'"], note: "named gates of Bidu, Enkišar, Endukuga, Ennugigi"}
-      - {motif: messenger-kisses-ground-before-lord, refs: ["GKAB P338345 o.iii:50'-52'"]}
-      - {motif: god-keeps-underworld-taboos-at-first, refs: ["GKAB P338345 o.iii:53'-65'"], note: "tišab kussâ annî ... ē tāmirma ... akalī ul īkul ... šīrušu ul īkul ... šikarušu ul išti ... narmaki īrumma ... sinniš ... libbišu: [offered] the chair, bread, meat, beer, foot-water, he refused; she went to bathe ... [and he gave in to] his heart"}
+      - {motif: deity-demands-gatekeeper-open, refs: ["GKAB P338345 o.iii:9-21"], note: "Nergal at the outer gate: let me report to my lady (fragmentary)"}
+      - {motif: namtar-recognises-the-god-who-did-not-rise, refs: ["GKAB P338345 o.iii:22-29"], note: "Namtar illikma ina ṣilli dalti ippalaššu Erra ... kīma nikis bīni irqū pānūš kīma šapti kunninni iṣlima šaptašu: Namtar saw Erra in the shade of the door; his face went pale like a cut tamarisk, his lips dark like the rim of a kunninu-vessel"}
+      - {motif: seven-gates-of-underworld, refs: ["GKAB P338345 o.iii:42-49"], note: "named gates of Bidu, Enkišar, Endukuga, Ennugigi"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["GKAB P338345 o.iii:50-52"]}
+      - {motif: god-keeps-underworld-taboos-at-first, refs: ["GKAB P338345 o.iii:53-65"], note: "tišab kussâ annî ... ē tāmirma ... akalī ul īkul ... šīrušu ul īkul ... šikarušu ul išti ... narmaki īrumma ... sinniš ... libbišu: [offered] the chair, bread, meat, beer, foot-water, he refused; she went to bathe ... [and he gave in to] his heart"}
     hints:
       - "Food of the underworld forbidden: compare Prov 9:17-18 (Folly's stolen bread whose guests are in Sheol); the man of God forbidden to eat or drink at Bethel: 1 Kgs 13:8-9, 16-22."
       - "The dead in darkness and dust: Job 10:21-22; Ps 88:7, 13; Isa 14:9-11; 29:4 (voice like a ghost from the dust)."
@@ -898,12 +942,12 @@ units:
       - {motif: lovers-in-bed-six-days-then-god-slips-away, refs: ["GKAB P338345 r.i:12-23"], note: "innadrūma ina mayyāli šitmuriš ištēn ūmu šanû ūmu ṣallū ... 6 ūmu ... Nergal ina lā bašî ... muššerinnima ahāti ... lullikma ana Erṣet lā tāri: they embraced, went passionately to bed; one day, two days they lay ... [on the seventh] Nergal [rose]: let me go, my sister ... (lie) I will go to the land of no return [and return]"}
       - {motif: stairway-between-heaven-and-underworld, refs: ["GKAB P338345 r.ii:16", "GKAB P338345 r.ii:47"], note: "elâ Namtar arkat simmilat šamāmī: Namtar went up the long stairway of heaven"}
       - {motif: god-disguised-so-envoy-cannot-find-him, refs: ["GKAB P338345 r.i:34-36", "GKAB P338345 r.ii:41-46"], note: "Ea abūšu mê kuppi sulluhšuma qubbuhu ṣundur pussul: Ea his father sprinkled him with spring water, so he was bald, squinting, lame, sitting in the assembly of all the gods"}
-      - {motif: underworld-queen-never-knew-girlhood-play, refs: ["GKAB P338345 r.ii:5-7", "GKAB P338345 r.ii:21-23"], note: "ultu ṣehrākuma mārtuku ul ide mēlulu ša ardāti ul ide dakāka ša ṣehrāti: since I was little, a daughter, I have not known the play of maidens, nor the romp of little girls"}
+      - {motif: jilted-goddess-weeps-for-departed-lover, refs: ["GKAB P338345 r.ii:5-7", "GKAB P338345 r.ii:21-23"], note: "ultu ṣehrākuma mārtuku ul ide mēlulu ša ardāti ul ide dakāka ša ṣehrāti: since I was little, a daughter, I have not known the play of maidens, nor the romp of little girls"}
       - {motif: queen-demands-lover-or-threatens-dead-rise, refs: ["GKAB P338345 r.ii:8-15", "GKAB P338345 r.ii:24-30"], note: "ilu šâšu ša tašpurānašu urtahhanni lītatil ittiya šuppurānaššuma lū hāmeri libīt ittiya ... musukkākuma ul ebbek ... šumma ilu šâšu lā taltaprāšu ... ušellâma mītūti ikkalū balṭūti eli balṭūti umaʾʾad mītūti: send me that god who lay with me, let him be my husband and spend the night with me; I am unclean, not pure, I cannot judge the great gods ... if you do not send him I will raise the dead to eat the living, the dead will outnumber the living"}
       - {motif: threat-to-raise-dead-to-devour-living, refs: ["GKAB P338345 r.ii:14-15", "GKAB P338345 r.ii:29-30"]}
-      - {motif: underworld-queen-weeps-for-lost-lover, refs: ["GKAB P338345 r.i:1'-7'"], note: "dimātu izannun eli dūr appiša illaka dimāsa Erra hāmer lalêya ul ašbâ lalāšu ittatalkanni: tears rained down her cheeks: Erra, the husband of my delight, I had not had my fill of his charms and he has left me"}
+      - {motif: jilted-goddess-weeps-for-departed-lover, refs: ["GKAB P338345 r.i:1'-7'"], note: "dimātu izannun eli dūr appiša illaka dimāsa Erra hāmer lalêya ul ašbâ lalāšu ittatalkanni: tears rained down her cheeks: Erra, the husband of my delight, I had not had my fill of his charms and he has left me"}
       - {motif: message-repeated-verbatim, refs: ["GKAB P338345 r.ii:20-30"], note: "Namtar repeats Ereškigal's speech word for word before Anu, Enlil and Ea"}
-      - {motif: searching-envoy-passes-over-disguised-god, refs: ["GKAB P338345 r.ii:32-38", "GKAB P338345 r.ii:52-56"], note: "ištēn ... ēmur ilu šâšu ... šalšu išīramma ul ēmur ilu šâšu: [he looked at] the first ... the third and did not see that god"}
+      - {motif: god-disguised-so-envoy-cannot-find-him, refs: ["GKAB P338345 r.ii:32-38", "GKAB P338345 r.ii:52-56"], note: "ištēn ... ēmur ilu šâšu ... šalšu išīramma ul ēmur ilu šâšu: [he looked at] the first ... the third and did not see that god"}
       - {motif: purification-water-sprinkled-on-house, refs: ["GKAB P338345 r.i:44-47"], note: "mê ... sulluh bīta mê elli sulluh bīta: sprinkle the house with water, with pure water (the underworld palace prepared)"}
     hints:
       - "The dead rising: Isa 26:19; Ezek 37; Dan 12:2. 'Many waters cannot quench love': Song 8:6-7 ('love is strong as death, jealousy cruel as Sheol')."
