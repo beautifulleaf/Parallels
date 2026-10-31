@@ -39,6 +39,21 @@ new_motifs:
   disputants-sent-to-be-judged-truly: {label: "A ruler sends disputing parties before his correspondent and asks him to judge their case in truth", cluster: law}
   towns-swear-oath-together: {label: "The men of two towns make an oath (māmītu) with each other", cluster: treaty}
   oath-cast-behind-back: {label: "A writer reproaches his addressee: the oath I made you swear before the gods you have thrown behind you", cluster: treaty}
+  no-debt-between-us-we-are-one-man: {label: "A creditor asks that the account be settled so that there be no debt between the two, 'for we are one man'", cluster: diplomacy}
+  agent-exempt-from-tolls: {label: "A letter or decree orders that a ruler's agent or merchant not be hindered on his way and that no toll-collector (mākisu) levy customs on him", cluster: law}
+  ask-the-elders-about-old-custom: {label: "A ruler tells his correspondent to ask the elders ('fathers') of the city whether a tax was ever taken, appealing to custom from of old", cluster: law}
+  sealed-consignment-weighed-for-silver: {label: "Goods sent under the sender's seal are to be weighed and paid for in silver, and the seal kept intact until he arrives", cluster: law}
+  royal-land-grant-sealed-for-ever: {label: "The king transfers houses and fields to a servant by sealed tablet, for him, his sons and grandsons for ever, no one to take them from his hand", cluster: law}
+  granted-house-closed-to-strangers-messengers-habiru: {label: "A royal grant decrees that no stranger, no royal messenger and no Habiru may enter the grantee's house", cluster: law}
+  curse-gods-destroy-name-of-tablet-alterer: {label: "Whoever alters this tablet, may the gods destroy his name", cluster: law}
+  grantee-released-from-feudal-service: {label: "A royal deed clears purchased land from feudal service (pilku) and forbids anyone to take it from the buyer or his sons", cluster: law}
+  father-fixes-inheritance-shares-before-king: {label: "Before the king a father decides the shares (šīmtu) of his sons, giving property to some and clearing another of all claims", cluster: law}
+  heir-cleared-pure-as-sun: {label: "A legal release formula: a son or party is 'clear as the sun is clear' of claims from his father and brothers", cluster: law}
+  el-great-god-creator-of-man: {label: "The high god (El) is called the great god, creator of man", cluster: creation}
+  household-gods-pass-with-estate: {label: "The gods of a man's house (his Ishtar, his gods) pass with his house and inheritance share to another", cluster: cult}
+  writer-reports-house-burned: {label: "The writer tells her correspondent that her whole house has been put to fire", cluster: war}
+  storm-god-of-mount-hazzi: {label: "The storm god of Mount Hazzi (Ṣapon, Jebel Aqra) is invoked as a witness god", cluster: cult}
+  false-rumour-of-rulers-death: {label: "A rumour that the absent ruler is dead ('our lord is dead') is used to hand his city over to his rival", cluster: kingship}
   vassal-alone-in-his-loyalty-none-speaks-for-him: {label: "A vassal complains that no one speaks for his loyalty before the king; he alone is the king's true servant", cluster: kingship}
 units:
   - id: ane-ea-076-rib-addi-habiru
@@ -319,7 +334,6 @@ units:
       - {motif: sevenfold-prostration, refs: ["EA 106 o:2-3"], note: "7-šu u 7-tān amqut ištu dārīti"}
       - {motif: vassal-footstool-of-kings-feet, refs: ["EA 106 o:6-7"], note: "anāku gištappu ša šēpī šarri bēlīya, 'I am the footstool (gištappu, a Canaanite-type word) of the feet of the king'"}
       - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 106 o:4-5"], note: "Gubla āl kitti ša bēlīya šamaš mātāti, 'Byblos, loyal city of my lord the Sun of the lands'"}
-      - {motif: besieged-king-shut-up-like-caged-bird, refs: ["EA 106 o:10-13"], note: "Ṣumur is attacked up to its gate (adi abullīša); they can attack it but not seize it"}
       - {motif: overlord-envoy-killed-by-rebels, refs: ["EA 106 o:22"], note: "mīt rābiṣša, 'its commissioner is dead' (no killer named)"}
       - {motif: vassal-pleads-for-archers, refs: ["EA 106 b.e:26-r:28", "EA 106 r:41-45"], note: "send the commissioner with troops quickly; 20 pairs of good horses"}
       - {motif: wise-official-loved-by-all, refs: ["EA 106 r:36-40"], note: "Yanhamu muṣallil šarri ... ištu pî awīlūti awīlu emqu šūt u gabbi awīlī irāʾamūšu, 'the king's fan-bearer: from the mouth of men, he is a wise man and all men love him'"}
@@ -437,7 +451,7 @@ units:
       - {motif: loyal-vassal-alone-among-defectors, refs: ["EA 138 o:25-31"], note: "yānu hazannu šarri kīma yâši ana šarri ša yamūtu eli bēlīya, 'there is no mayor like me, who would die for my lord'; I guard the city alone (ana ēdēnīya)"}
       - {motif: vassal-expelled-by-brother-at-city-gate, refs: ["EA 138 o:44-50", "EA 138 o:56-58"], note: "the city said 'leave him, let us join Aziru'; ahūya yitmi ana āli, 'my brother swore (an oath) to the city', and the lords of the city went over to the sons of Abdi-Ashirta; when I and Api came to the city they did not let me in"}
       - {motif: city-divided-between-rival-factions, refs: ["EA 138 r:71-73"], note: "anumma ālu mišilši rāʾim ana mārī ʿAbdi-Aširti u mišilši ana bēlīya, 'half the city loves the sons of Abdi-Ashirta and half my lord'"}
-      - {motif: false-report-all-sons-dead, refs: ["EA 138 o:63-b.e:67", "EA 138 r:111-113"], note: "allû-mi mīt bēlnu ... mīt Rib-Addi, 'our lord is dead, Rib-Addi is dead': the city uses the rumour to go over to Aziru"}
+      - {motif: false-rumour-of-rulers-death, refs: ["EA 138 o:63-b.e:67", "EA 138 r:111-113"], note: "allû-mi mīt bēlnu ... mīt Rib-Addi, 'our lord is dead, Rib-Addi is dead': the city uses the rumour to go over to Aziru"}
       - {motif: what-is-your-servant-a-dog, refs: ["EA 138 r:95-97"], note: "inanna ana Biʾruta ašbāti kī kalbi lā tušmû awātī, 'now I sit in Beirut like a dog, and you do not hear my words'"}
       - {motif: canaanite-gloss-in-akkadian-letter, refs: ["EA 138 r:118-119", "EA 138 r:126"], note: "ul aqtabi kazbūta (kzbt, 'lies', Hebrew kāzāb); yapu hamudu (yph ḥmd, 'beautiful, precious', Hebrew yāpeh, ḥemed) for the king's gifts not given"}
       - {motif: vassal-messengers-detained-unanswered, refs: ["EA 138 r:77-81"], note: "I sent my son to the palace; for four months he has not seen the king's face (ul yimur pāni šarri)"}
@@ -723,8 +737,7 @@ units:
     read: ["Ugarit RS 06.0198"]
     tags:
       - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 06.0198 o:4-6"], note: "ilānū ša māt Ugarita ahīya liṣṣurūka"}
-      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 06.0198 o:7-11", "Ugarit RS 06.0198 r:7-t.e:2"], note: "anaʾīni Nuʿmenu ... illikam-ma u šulmaka lā tašpura, 'why did Numenu come and you did not send your greeting?'"}
-      - {motif: consort-intercedes-for-king, refs: ["Ugarit RS 06.0198 b.e:1-r:6"], note: "interpretive: ana pāni šarrati sīsi-ma ... awātīya damqāti ana pāni šarrati dubbu, 'cry out (read) my tablets before the queen and speak my good words before her'"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 06.0198 o:7-11", "Ugarit RS 06.0198 r:7-t.e:2"], note: "anaʾīni Nuʿmenu ... illikam-ma u šulmaka lā tašpura, 'why did Numenu come and you did not send your greeting?'; b.e:1-r:6 ask him to read out (sīsi) the tablets before the queen and speak my good words before her"}
     hints:
       - "Ilimilku is the name of the Ugaritic scribe of the Baal, Kirta and Aqhat tablets. Compare Esth 4:8 (Esther sent to plead before the king) and 1 Kgs 2:13-19 (Adonijah asks Bathsheba to speak for him)."
   - id: ane-rs-11-0723-sidon
@@ -765,3 +778,191 @@ units:
       - {motif: petition-for-restoration-of-kings-favour, refs: ["Ugarit RS 12.0005 r:8-13"], note: "interpretive, broken: lā tahassasanni mā mīnu ... rīmanni, 'you do not remember me ... have mercy on me'"}
     hints:
       - "'You cast my words behind you': compare Ps 50:17, 1 Kgs 14:9, Neh 9:26 and Ezek 23:35. Remember me / have mercy: Gen 40:14, Neh 13:22."
+  - id: ane-rs-15-0011-muarihu-ransom
+    tradition: ane-ugaritic
+    title: "Muarihu to the prefect: you bought back my slaves for 400 silver from Hehea the Egyptian; you swore in the house of the gods; give me their ransom silver and the rest, let there be no debt between us, we are one man (RS 15.0011)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0011"]
+    tags:
+      - {motif: ransomed-slave-returned-to-master, refs: ["Ugarit RS 15.0011 o:5-10", "Ugarit RS 15.0011 r:1-5"], note: "ina 4 meʾat kaspi elteqi wardīka ištu qāti Hehea awīl māt Miṣri; kaspu ipṭerīšunu, 'the silver of their ransom'"}
+      - {motif: oath-before-the-altar, refs: ["Ugarit RS 15.0011 o:11-14"], note: "interpretive: īterub attā ana bīt ilāni u lū ittami, 'you entered the house of the gods and swore' (in a dispute over the slaves)"}
+      - {motif: no-debt-between-us-we-are-one-man, refs: ["Ugarit RS 15.0011 r:6-10"], note: "lā tašakkan hubullam-mi ina birīni ištēn awīlū nīnu, 'do not let there be a debt between us: we are one man'"}
+    hints:
+      - "'As one man': compare Judg 20:8, 11 and Num 14:15. Redemption of slaves from a foreigner: Lev 25:47-49 and Neh 5:8."
+      - "Oath in the temple: compare 1 Kgs 8:31-32 (an oath before your altar in this house)."
+  - id: ane-rs-15-0024-abushkanu
+    tradition: ane-ugaritic
+    title: "Abushkanu to the prefect, his brother: may the gods of Amurru, of Ugarit and of the king your lord guard you; as man to companion, write your wish and I will give it (RS 15.0024 + RS 15.0050)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0024 + RS 15.0050"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 15.0024 + RS 15.0050 o:4-8"], note: "ilānū ša māt Amurri ilānū ša māt Ugarit u ilānū ša šarri bēlīka ana šulmāni liṣṣurūka"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 15.0024 + RS 15.0050 o:9-r:5"], note: "kīmê awīlu ana tappîšu iltanappar ... ana mērištika u ṣibûtika šupra, 'as a man writes to his companion'; and let your lord know"}
+    hints:
+      - "Compare Exod 33:11 ('as a man speaks to his companion', kəʾăšer yədabbēr ʾîš ʾel-rēʿēhû)."
+  - id: ane-rs-15-0033-hishmi-kushuh
+    tradition: ane-ugaritic
+    title: "Hishmi-Kushuh to the prefect: I sent no gift because I was in Hatti; the Sun has treated Iltahmu well; my father's man comes to buy: let no one block him and no toll-collector tax him (RS 15.0033)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0033"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 15.0033 o:4-6"]}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 15.0033 o:7-15"], note: "aššum šulmāna immatīma lā ašpurakku annakanu ul ašbāku ina māt Hatti ašbāku, 'I never sent you a greeting-gift because I was not here, I was in Hatti'"}
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["Ugarit RS 15.0033 o:16-r:2"], note: "the Hittite king as 'the Sun' (šamšu): Šamši kī ṭābi danniš iltakanšu, 'the Sun has set him (Iltahmu) very well'"}
+      - {motif: agent-exempt-from-tolls, refs: ["Ugarit RS 15.0033 r:5-14"], note: "mamma ina pānīšu lū lā iparrik mamma mākisu lū lā imakkissu, 'let no one obstruct him, let no toll-collector levy toll on him'; kī ṭābi dugulšu"}
+    hints:
+      - "Compare Ezra 4:13, 20 and 7:24 (mindâ, bəlô and hălāk: tribute, custom and toll) and Num 20:17-19 (passage through a land)."
+  - id: ane-rs-15-0063-abiramu-merchants
+    tradition: ane-akkadian
+    title: "Abiramu to Silabanu, his brother: take 45 silver from Pilsu son of Ebe for the merchants; the stones sealed with my seal, weigh and pay; guard my seal until I come (RS 15.0063)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0063"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 15.0063 o:4"]}
+      - {motif: sealed-consignment-weighed-for-silver, refs: ["Ugarit RS 15.0063 o:5-r:12"], note: "45 kaspa ištu qāti Pilsi ... ana tamkārī; abnī ša aktanak ina kunukkīya ... šuqultašunu kaspa idin u kunukkī uṣur adi kašādīya"}
+    hints:
+      - "The sender's name ʾAbi-rāmu is the name Abram (Gen 11:26). Silver weighed for merchants: Gen 23:16 ('current with the merchant'); sealed goods: Deut 32:34, Jer 32:10-14."
+  - id: ane-rs-15-0077-alihesni-borders
+    tradition: ane-akkadian
+    title: "Prince Alihešni to the king of Ugarit: the palace writes that the borders Arma-ziti set for you stay in place, no one may alter them; Ebinnae and Kurkalli come to set your borders (RS 15.0077)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0077"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 15.0077 o:4-6"]}
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["Ugarit RS 15.0077 o:7-r:10"], note: "mīnummê pāṭātuka ša Arma-ziti iškunakku ašaršunu-mi lū ṣabtū mamma lū lā unakkaršunūti-mi, 'let no one alter them'"}
+    hints:
+      - "Do not move a neighbour's boundary: Deut 19:14, 27:17, Prov 22:28 and 23:10."
+  - id: ane-rs-15-0109-niqmepa-grant-sinaranu
+    tradition: ane-akkadian
+    title: "Deed of Niqmepa, sealed with the dynastic seal of Yaqaru: Ammistamru transfers to Sinaranu son of Siginu houses and fields in Mahraba and Atallig, each for its silver, for ever; no stranger, royal messenger or Habiru may enter his house; whoever alters the tablet, may the gods destroy his name (RS 15.0109 + RS 16.0296)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0109 + RS 16.0296"]
+    tags:
+      - {motif: royal-land-grant-sealed-for-ever, refs: ["Ugarit RS 15.0109 + RS 16.0296 o:1-5", "Ugarit RS 15.0109 + RS 16.0296 r:20-24"], note: "ištu ūmi annîm ... ištu mārīšu mār mārīšu ... ana dāri dūri nidnu annû nadin, 'a gift for ever'; the seal is that of the dynastic founder Yaqaru son of Niqmaddu (seal.1)"}
+      - {motif: granted-house-closed-to-strangers-messengers-habiru, refs: ["Ugarit RS 15.0109 + RS 16.0296 r:25-27"], note: "awīlu ubru ana bītīšu lā irub ina mārī šipri šarri lā illak LU₂.MEŠ SA.GAZ ana bītīšu lā irub"}
+      - {motif: habiru-sa-gaz, refs: ["Ugarit RS 15.0109 + RS 16.0296 r:26"], note: "SA.GAZ.ZA (hāpiru) among those barred from the house"}
+      - {motif: curse-gods-destroy-name-of-tablet-alterer, refs: ["Ugarit RS 15.0109 + RS 16.0296 r:28-29"], note: "ša ṭuppu annâm unakkir ilānū šumšu lihalliq"}
+    hints:
+      - "A royal estate given for ever to a servant and his descendants: compare 1 Sam 22:7, 2 Sam 9:7-10 (Mephibosheth's fields) and 1 Kgs 21:3 (Naboth's ancestral inheritance)."
+      - "'May his name perish': Ps 109:13 and Deut 29:19; the curse on altering a document: Deut 4:2 and Ezra 6:11-12."
+      - "The resident stranger (ubru) excluded: compare Exod 12:43-45 (no foreigner or tôšāb shall eat)."
+  - id: ane-rs-15-0120-ahi-malku-inheritance
+    tradition: ane-akkadian
+    title: "Before Niqmaddu son of Ammistamru, Ahi-malku fixes the shares of his sons: Tubammu is clear of his father and brothers as the pure sun; houses, fields, cattle and slaves go to Mashshu and Sheniyanu (RS 15.0120)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 15.0120"]
+    tags:
+      - {motif: father-fixes-inheritance-shares-before-king, refs: ["Ugarit RS 15.0120 o:1-5", "Ugarit RS 15.0120 r:7-12"], note: "ištu ūmi annītu ... ṭuppa u kunukka ša šarri Niqmaddu ... Ahi-malku iprusa šīmti ša mārīšu; houses, remaining fields, cattle, flocks, slaves and maids go to Maššuʾu and Šeniyanu, no one to reclaim"}
+      - {motif: el-great-god-creator-of-man, refs: ["Ugarit RS 15.0120 o:6-7"], note: "broken: serdu ša Anu ... ilu rabû bānî awīlim, 'the great god, creator of man'; the context (an olive grove, an oath?) is lost"}
+      - {motif: heir-cleared-pure-as-sun, refs: ["Ugarit RS 15.0120 r:4-6"], note: "kīma šamšu zakīti zaki Ṭubʿammu eli abīšu u eli ahhīšu, 'as the sun is clear, Tubammu is clear of his father and his brothers'"}
+    hints:
+      - "A father settles one son apart with a share and the inheritance on the others: Gen 25:5-6 (sons of the concubines sent away with gifts), Judg 11:2 (Jephthah driven out) and Deut 21:15-17."
+      - "'Clear as the sun': compare Song 6:10 ('clear as the sun') and Ps 37:6 ('he will make your righteousness shine like the light'). El as creator: Gen 14:19 ('El Elyon, creator of heaven and earth')."
+  - id: ane-rs-16-0111-ulmi-to-queen
+    tradition: ane-akkadian
+    title: "Ulmi to the queen of Ugarit, my daughter: may the gods of Ugarit and Amurru guard you; you know my whole house was put to fire; chairs for my daughter and the king (RS 16.0111)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 16.0111"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 16.0111 o:4-6"], note: "ilānū ša māt Ugarit u ilānū ša māt Amurri ana šulmāni liṣṣurūki"}
+      - {motif: writer-reports-house-burned, refs: ["Ugarit RS 16.0111 o:10-14"], note: "mārtī attī-ma tīde kīmê gabba bītīya ina libbi išāti altakanšu, 'my daughter, you know that my whole house I have put in the fire' (or 'has been put')"}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 16.0111 o:7-9", "Ugarit RS 16.0111 r:3-15"], note: "chairs (kussû) sent for my daughter and the king of Ugarit; if my daughter does not agree to take them, let her servants take them; r:1-2, r:8 broken"}
+    hints:
+      - "An Amorite mother writing to her daughter the queen: compare 1 Kgs 3:1 and 2 Kgs 8:18, 26 (dynastic marriages); the house burned: Judg 12:1, 15:6."
+  - id: ane-rs-16-0116-reshi
+    tradition: ane-akkadian
+    title: "Reshi-? to the king of Ugarit, my lord: to my Sun, well-being; may the gods of Ugarit guard you; (broken) let him not take (RS 16.0116)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 16.0116"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["Ugarit RS 16.0116 o:6", "Ugarit RS 16.0116 o:9"], note: "ana šamšīya šulmu: the king of Ugarit addressed as 'my Sun'"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 16.0116 o:7-8"], note: "o:10-15 broken; o:16 lū lā ilaqqe; r:1 PAP only"}
+  - id: ane-rs-16-0133-kushar-abi-fields
+    tradition: ane-akkadian
+    title: "Deed of Niqmaddu son of Ammistamru: Kushar-abi son of Taiya bought fields on the Rahbanu river; Abdi-ilimu redeemed with silver; the king clears them of feudal service; no one may take them from him or his sons (RS 16.0133)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 16.0133"]
+    tags:
+      - {motif: royal-land-grant-sealed-for-ever, refs: ["Ugarit RS 16.0133 o:1-11", "Ugarit RS 16.0133 r:15-17"], note: "30 iku of field of Šumu-Addu in the Raḥbanu (wadi); mamman ištu qāt Kušar-abi u ištu qāt mārīšu lā ileqqešunu; seal of the great king; witness Šapšu-malku"}
+      - {motif: grantee-released-from-feudal-service, refs: ["Ugarit RS 16.0133 r:12-14"], note: "ṭēmšunu uzakki ištu pilki, 'he cleared them from the pilku-service'"}
+      - {motif: ransomed-slave-returned-to-master, refs: ["Ugarit RS 16.0133 r:6-8"], note: "interpretive: ʿAbdi-ilimu ana šarri ina kaspi ipšur-ma u šarru iddinšu ana Kušar-abi, 'Abdi-ilimu was released (redeemed) to the king for silver and the king gave him (his field) to Kushar-abi'"}
+    hints:
+      - "The buyer's name Kušar-ʾabi contains Kothar, the Ugaritic craftsman god. Land redemption and royal sale: Lev 25:23-28, Jer 32:6-15 and Ruth 4:3-9; Rahbanu compare Rehoboth (Gen 26:22)."
+  - id: ane-rs-16-0173-ishtar-hurri
+    tradition: ane-akkadian
+    title: "Fragment of a deed: in feudal service, the post of administrator; he gave Ishtar-Hurri, the gods of Harganu, and his house and share, and that of Attanu (RS 16.0173)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 16.0173"]
+    tags:
+      - {motif: household-gods-pass-with-estate, refs: ["Ugarit RS 16.0173 r:1-7"], note: "ina pilki šatammūti u ittadin Ištar Hurri ilānī ša Harganu u bīt zittīšu, 'he gave the Hurrian Ishtar, the gods of Harganu, and the house of his share'; obverse broken"}
+      - {motif: grantee-released-from-feudal-service, refs: ["Ugarit RS 16.0173 r:1-2"], note: "the pilku-service of the administrator's office mentioned; whether released is lost"}
+    hints:
+      - "Household gods passing with the inheritance: compare Gen 31:19, 30-35 (Laban's teraphim) and Judg 17:5, 18:14-20 (Micah's gods)."
+  - id: ane-rs-17-0039-tyre-tax
+    tradition: ane-akkadian
+    title: "Baal-danu (?) king of Tyre to Baal-zakaptu, prefect of Ugarit: Abdu son of Ayahhu, overseer of the quay, took a tax of silver on 14 jars of oil from my man; my own merchants never paid tax from of old: ask the elders of Ugarit (RS 17.0039 + RS 17.0397,b + RS 17.0424)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 17.0039 + RS 17.0397,b + RS 17.0424"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0039 + RS 17.0397,b + RS 17.0424 o:6-7"]}
+      - {motif: agent-exempt-from-tolls, refs: ["Ugarit RS 17.0039 + RS 17.0397,b + RS 17.0424 o:9-r:10"], note: "Abdu son of Ayahhu, wakil kāri (overseer of the quay) took silver as miksu on 14 jars of oil; miksa tamkāru ša šēpīšu ultu dārīti lā ilaqqi, 'from of old no tax was taken from the merchant of his (the king's) foot'"}
+      - {motif: ask-the-elders-about-old-custom, refs: ["Ugarit RS 17.0039 + RS 17.0397,b + RS 17.0424 r:10-13"], note: "šaʾal abbūti Ugarit kī ilqâ miksa ištu qāti tamkāri ša šēpīšu, 'ask the fathers of Ugarit whether he (ever) took tax from the merchant of his foot'"}
+    hints:
+      - "Tyre's merchant shipping: Ezek 27; 'ask your father and your elders': Deut 32:7 and Job 8:8. Customs on royal merchants: 1 Kgs 10:15."
+  - id: ane-rs-17-0062-mursili-mukish-borders
+    tradition: ane-akkadian
+    title: "Mursili II, great king of Hatti, gives Niqmepa of Ugarit the border towns of Mukish named in Suppiluliuma's treaty, town by town and mountain by mountain, for ever; whoever contests or changes these words, may the thousand gods, the Storm god of Mount Hazzi and the others know it (RS 17.0062 + RS 17.0237)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 17.0062 + RS 17.0237"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["Ugarit RS 17.0062 + RS 17.0237 o:1"], note: "umma Šamši Muršili šarru rabû: the Hittite king's title 'My Sun'"}
+      - {motif: disputants-sent-to-be-judged-truly, refs: ["Ugarit RS 17.0062 + RS 17.0237 o:7-13"], note: "the sons of Mukish seized Niqmepa in a lawsuit over these towns; Mursili inquired into the case (dīna annâ išʾalu): the towns are the ancient property (labirtu) of Ugarit"}
+      - {motif: overlord-fixes-vassal-borders-by-town-list, refs: ["Ugarit RS 17.0062 + RS 17.0237 o:14-r:15"], note: "Bit-hilu with its fields and mountains, up to the border (miṣru) of Zimmaru, to the waters of Hunduraši ... Magdala, Yakunaʿamu, ʿEn-Zuriya ... Maraʾil and Himullu 'in the midst of the sea', as Suppiluliuma gave them"}
+      - {motif: royal-land-grant-sealed-for-ever, refs: ["Ugarit RS 17.0062 + RS 17.0237 r:16-23"], note: "to Niqmepa, his sons and grandsons adi dārīti; urra šēra, 'tomorrow or later', the sons of Mukish shall not raise a claim; whoever claims, this tablet answers him"}
+      - {motif: treaty-curse-on-whoever-alters-it, refs: ["Ugarit RS 17.0062 + RS 17.0237 r:24-30"], note: "mannumme ša awâte annûti ušašnâ 1 līm ilānī lū īdûšu: Storm god of heaven, Sun of heaven, Storm god of Hatti, Sun goddess of Arinna, Hebat of Kizzuwatna, Ishtar of Alalah, Nikkal of Nubanni, Storm god of Mount Hazzi"}
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 17.0062 + RS 17.0237 r:25"]}
+      - {motif: storm-god-of-mount-hazzi, refs: ["Ugarit RS 17.0062 + RS 17.0237 r:30"], note: "Teššub huršān Hazzi, the mountain called Ṣapānu in Ugaritic"}
+    hints:
+      - "Border description town by town and to waters and mountains: compare Josh 15-19 and Num 34:1-12. Magdala = Migdal (Josh 19:38); ʿEn-Zuriya with the many ʿEn- names of Josh 15."
+      - "Mount Hazzi is Ṣāpôn: compare Ps 48:3 ('Mount Zion, the heights of Zaphon') and Isa 14:13; Baal-zephon Exod 14:2."
+      - "'Tomorrow' a claim: compare Josh 22:24, 27-28 ('in time to come your sons may say ...') and Gen 30:33."
+  - id: ane-rs-17-0078-ebinnae
+    tradition: ane-ugaritic
+    title: "Ebinnae to the prefect, my good son: I send my man to my son; let him take what he needs, let no one obstruct him and no toll-collector levy toll on him; look on him kindly while he stays (RS 17.0078)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["Ugarit RS 17.0078"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0078 o:4-5"]}
+      - {motif: brotherly-greeting-gift-requested, refs: ["Ugarit RS 17.0078 o:6-7"]}
+      - {motif: agent-exempt-from-tolls, refs: ["Ugarit RS 17.0078 o:8-15"], note: "mamma ina pānīšu lū lā iparrik mākisu miksušu lū lā imakkis"}
+      - {motif: set-good-eyes-on-protege, refs: ["Ugarit RS 17.0078 o:16-18"], note: "adi ašrānu ašib kī ṭābi dugulšu, 'while he stays there, look on him kindly'"}
+    hints:
+      - "Ebinnaʾe is one of the two officials sent to fix Ugarit's borders in RS 15.0077. Compare Ezra 7:24 and Neh 2:7-8."
