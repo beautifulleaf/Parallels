@@ -2,7 +2,6 @@
 new_motifs:
   offering-set-before-the-deity: {label: "The ritual practitioner sets bread, meat or drink 'before the deity' (PANI DINGIR-LIM tehhi) and the participants eat and drink", cluster: cult}
   drinking-the-god-seated-or-standing: {label: "The participants 'drink' a deity a set number of times, standing or sitting, as a ritual act of communion", cluster: cult}
-  ritual-remains-thrown-into-river: {label: "The ritual materials that carry the evil are thrown into a river to be carried away", cluster: purification}
   practitioner-introduces-self-um-ma: {label: "A ritual opens 'Thus (says) N., the Old Woman / augur / man of town X', naming the practitioner who speaks the rite in the first person", cluster: cult}
   bewitched-person-released-loosed: {label: "The practitioner 'releases' or 'loosens back' (EGIR-pa la-) a bewitched person from sorcery", cluster: magic}
   dough-figures-set-on-shoulders: {label: "Figures made of barley dough mixed with dog dung, herbs and plants are placed on the patient's right and left shoulders and the dough is pressed against him", cluster: magic}
@@ -154,6 +153,70 @@ new_motifs:
   washing-with-natron-water: {label: "The patients pour water with natron over their heads and wash their hands and eyes", cluster: purification}
   water-and-dough-sprinkled-to-purify: {label: "The Old Woman sprinkles the patients with water and waves dough over them: 'be pure again of mouth and tongue'", cluster: purification}
   water-sealed-in-horn-until-ancient-kings-return: {label: "Water is poured into an ox horn and sealed by the patients: only when the ancient kings return and examine the land and its customs may the seal be broken", cluster: magic}
+  arrow-shot-against-oath-and-curse: {label: "The ritual priest shoots an arrow from a bow in a rite against oath and curse", cluster: magic}
+  azu-priest-officiates: {label: "The AZU priest (diviner-exorcist of Hurrian-Babylonian tradition) leads the incantation ritual", cluster: cult}
+  bird-bound-at-side-of-gate: {label: "A bird is tied up at one side of the ritual gate", cluster: purification}
+  black-iron-from-heaven: {label: "Black iron 'of heaven' (meteoric iron) is said to have been brought from heaven for the foundation", cluster: cosmology}
+  bread-thrown-into-hearth-for-gods: {label: "Flat bread is thrown into the hearth for the gods so that they may be appeased", cluster: cult}
+  builder-to-be-eternal-before-gods: {label: "Blessing: may the one who built this temple be eternal before the gods, with grandchildren and great-grandchildren", cluster: blessing}
+  coloured-wool-drawn-from-kings-mouth: {label: "Red, yellow-green, black and white wool is drawn out of the king's mouth, removing the colours of disease he has taken on", cluster: magic}
+  copper-foxes-in-gate: {label: "Two copper foxes are set in the gate as a foundation deposit", cluster: cult}
+  copper-nailed-down-as-durable-as-temple: {label: "Copper is laid in a pit at the place of the pillar, nailed round with pegs and struck with an iron hammer: as the copper is protective and eternal, so may the temple be on the dark earth", cluster: cult}
+  deity-asked-to-bring-moon-stars-sun-of-earth: {label: "The invoked goddess is asked to bring the Moon god, the stars and the Sun goddess of the earth with her", cluster: prayer}
+  deity-asked-to-turn-in-friendship-to-hatti: {label: "The appeased foreign god is asked to turn again in friendship to the king, the princes, the lords, the army and the land of Hatti", cluster: prayer}
+  deity-show-your-divinity: {label: "The deity is asked to show her divinity (DINGIR-LIM-tar tekkušnut) so that the man may see it and make her his personal deity", cluster: prayer}
+  deity-summoned-from-mountain-meadow-valley: {label: "Whether the deity is in the mountain, the meadow or the valley, wherever she is, she is summoned to come", cluster: prayer}
+  dream-reported-to-practitioner: {label: "The patient reports to the practitioner the dreams he sees during the days of invocation", cluster: divination}
+  evil-tongue-pulled-down-and-bound: {label: "The practitioner declares she has pulled down the tongue of evil and of sorcery and bound it with a cord", cluster: magic}
+  foundation-deposit-of-metals-and-stones: {label: "Under each corner, pillar, pedestal, hearth and door of a new temple, small foundation stones or models of silver, gold, lapis, quartz, alabaster, iron, copper, bronze and rock are laid", cluster: cult}
+  four-corners-unmoving-so-welfare-unchanged: {label: "Analogic blessing: as the four corners of the house are eternal on the earth and do not move, so may the patron's wellbeing not turn away", cluster: blessing}
+  goat-to-seven-gods-sheep-to-sun: {label: "A goat is offered to the Seven gods and a sheep to the Sun, another sheep slaughtered and cooked", cluster: cult}
+  goddess-installed-as-vessel-stone-or-image: {label: "After the goddess has appeared, the man establishes her as a vessel, a standing stone (huwaši) or an image, and the new table becomes her altar", cluster: cult}
+  goddess-invoked-three-days: {label: "A goddess is invoked (mugai-) for three days with offerings", cluster: cult}
+  goddess-lies-with-man-in-dream: {label: "In an incubation the patient may see the goddess's body in a dream and she comes and sleeps with him", cluster: divination}
+  goddess-to-be-his-wife-for-children: {label: "The goddess is told 'you are his wife for children': entrust him your maidservant, let him take his wife and beget sons and daughters", cluster: prayer}
+  gods-of-heaven-and-earth-addressed: {label: "The gods of heaven and earth are addressed: the offering is for you, may the land be sated", cluster: prayer}
+  gold-eternal-pure-so-temple: {label: "Analogic blessing: as gold is eternal, pure and strong, good for gods and men, so may this temple be eternal and good for the god", cluster: blessing}
+  golden-lion-and-iron-oxen-with-silver-yoke: {label: "A golden lion and two pairs of iron oxen yoked with a silver yoke on a base are set under the first middle pillar", cluster: cult}
+  horses-of-the-god-fed-chariot-greased: {label: "Fodder and sheep fat are brought for the god's harnessed horses: may they be sated, and may his chariot be greased with fat", cluster: cult}
+  house-plastered-and-scraped: {label: "In a building rite the house is plastered or scraped", cluster: cult}
+  human-substitute-adorned-sent-to-enemy-god: {label: "A war captive and a woman of the enemy land are dressed in the king's garments and given to the enemy god as an adorned substitute to carry the plague back to the enemy land", cluster: purification}
+  incubation-before-deitys-table: {label: "The patient sleeps on a bed set before the deity's new table, with the garments that lay on the offering bread spread under him", cluster: divination}
+  invocation-at-dawn-noon-and-evening: {label: "The deity is invoked three times a day, at dawn, midday and evening, with breads broken each time", cluster: cult}
+  king-may-delegate-the-rite: {label: "If it does not suit the king, he may send another to perform the rite in his place", cluster: kingship}
+  kupti-offered-to-each-hurrian-god: {label: "A kupti- offering is given in turn to the Storm god, Ninurta, Kumarbi, Aya, the Moon, the Sun, Aštawe, Ḫebat and others", cluster: cult}
+  man-of-excrement-and-urine: {label: "The mortal is described as made of excrement and urine (a child of mortality)", cluster: anthropology}
+  materials-brought-from-named-lands: {label: "The materials of the temple are said to have been brought from named lands and mountains: gold, silver, lapis, alabaster, quartz, copper", cluster: cult}
+  new-table-set-for-goddess: {label: "A new table is set up in the house where the goddess is invoked and later becomes her altar", cluster: cult}
+  not-we-built-it-the-gods-built-it: {label: "The builders declare to the deity: 'not we built this temple; all the gods built it'", cluster: cult}
+  oath-in-presence-of-king-ritual-called-out: {label: "In the oath rite before the king the ritual is called out repeatedly", cluster: cult}
+  offering-cut-in-halves: {label: "Something in the rite is divided into halves together", cluster: cult}
+  offering-to-god-of-the-road: {label: "Cheese, bread, wine, beer and fruit are prepared for the god of the road", cluster: cult}
+  offerings-on-soldier-bread: {label: "Small portions of breads, figs, raisins, poppy and drink are set on a large 'soldier bread' carried in the rite", cluster: cult}
+  patient-washed-before-rite: {label: "The patient has washed before the rite", cluster: purification}
+  patron-declared-pure: {label: "The practitioner declares 'now may the ritual patron be pure'", cluster: purification}
+  pegs-of-silver-gold-iron-bronze: {label: "Pegs of silver, gold, iron and bronze, one shekel each, are laid under the pedestal, the pillars and the corners", cluster: cult}
+  plague-from-enemy-gods-after-campaign: {label: "When the king returns from campaign or people are dying, a plague is attributed to an angry god of the enemy land", cluster: purification}
+  practitioner-takes-patients-garment: {label: "The practitioner takes the patient's garment for himself", cluster: purification}
+  precious-metal-apple-trees: {label: "Sixteen apple trees of gold, silver, iron and bronze are laid as foundation deposits", cluster: cult}
+  pure-girl-carries-offerings: {label: "A 'girl of purity' carries the offerings in the procession", cluster: cult}
+  ram-brought-for-peace-with-plague-god: {label: "A ram is driven to the plague god 'for peace': as the strong herd makes peace with this ram, so may the god make peace with Hatti", cluster: purification}
+  ringed-bull-and-ewe-carry-plague-back: {label: "A bull with ringed ears and an adorned ewe are given to the enemy god (male or female) to carry the plague back to the enemy land", cluster: purification}
+  rite-in-uncultivated-place: {label: "The rite is performed in open, untrodden (dammeli) country", cluster: cult}
+  rite-repeated-until-sign-comes: {label: "If the sign (dream) does not come, the practitioner keeps on performing the rite", cluster: divination}
+  ritual-against-impotence: {label: "A ritual is prescribed for a man who lacks procreative power or 'is not a man' towards a woman", cluster: magic}
+  ritual-against-slander: {label: "A ritual treats a person for the effects of slander (lala- 'tongue')", cluster: magic}
+  seven-fires-on-each-side: {label: "Seven fires are kindled on one side and seven on the other", cluster: purification}
+  seven-oaths-made-one: {label: "Spell: if the Sun and Storm god (swore) the oath, may it be one; with seven oaths … with fire; may the patron be pure", cluster: magic}
+  seven-tongues-burned-in-hearth: {label: "Seven tongues are thrown with flat bread into the hearth", cluster: magic}
+  sinew-plaited-tied-to-reed-cut-burned: {label: "A sinew plaited with cords is tied to a reed, cut through and thrown into the flame", cluster: magic}
+  sorcerer-protects-the-evil-ones: {label: "Obscure spell: may the evil sorcerer protect the evil ones behind the shoulders", cluster: magic}
+  spindle-taken-bow-given-manhood-restored: {label: "The impotent man holds spindle and distaff, passes through a gate, and receives bow and arrows: 'I have taken your womanhood and given you back manhood'", cluster: magic}
+  substitute-great-in-head-heart-limb: {label: "The human substitute is praised as great in head, heart and limb, worthy of the god", cluster: purification}
+  suppliant-comes-on-knees-seeks-deity: {label: "The suppliant has come on his knees and seeks the deity for her divinity, though he did not know her before", cluster: prayer}
+  temple-built-on-untouched-ground: {label: "A new temple or house is built on untouched (dammeli) ground", cluster: cult}
+  vow-to-give-goddess-house-servants-cattle: {label: "Vow: the man will make the goddess his deity, give her a place, a house, servants, cattle and sheep and votive gifts", cluster: cult}
+  wreathed-ram-driven-onto-enemy-road: {label: "A ram crowned with a wreath of five-coloured wool is driven onto the road to the enemy land", cluster: purification}
 units:
   - id: ane-cth-396-1-2-wishuriyant-offerings
     tradition: ane-hittite
@@ -986,6 +1049,7 @@ units:
       - {motif: practitioner-introduces-self-um-ma, refs: ["CTH 410 §1:1"], note: "UM-MA mUḫḫamuwa LÚ URUArzawa"}
       - {motif: plague-from-enemy-gods-after-campaign, refs: ["CTH 410 §1:2-3"], note: "ŠÀ KUR-TI akkiškittari … kururaš kuiški DINGIR-LUM iyan ḫarzi 'dying in the land … an enemy god has caused it'"}
       - {motif: wreathed-ram-driven-onto-enemy-road, refs: ["CTH 410 §2:5-9", "CTH 410 §2:18"], note: "blue, red, green, black and white wool plaited into a wreath (SÍGKILILU); UDU.NÍTA ḫaršanalanzi 'they crown the ram'; ANA KASKAL LÚKÚR parā penniyanzi"}
+      - {motif: garlanded-sacrificial-animals, refs: ["CTH 410 §2:8", "CTH 410 §2:12"], note: "the ram is wreathed (ḫaršanalant-) with a five-coloured wool wreath, but as a peace-offering driven to the enemy god, not kept inviolable"}
       - {motif: ram-brought-for-peace-with-plague-god, refs: ["CTH 410 §2:10-17"], note: "takšulanni unnummen 'we have driven it to you for peace'; as the herd (KÉŠ) though strong makes peace with this ram, so make peace with Hatti; ḫenkan 'pestilence'"}
       - {motif: deity-asked-to-turn-in-friendship-to-hatti, refs: ["CTH 410 §2:17", "CTH 410 §3:25-26"]}
       - {motif: horses-of-the-god-fed-chariot-greased, refs: ["CTH 410 §3:19-24"], note: "ANA ANŠE.KUR.RA.MEŠ DINGIR-LIM ŠÀ.GAL … išpiyanteš ašandu … GIŠGIGIR … IŠTU Ì.UDU iškiyan ēšdu"}
@@ -1027,7 +1091,7 @@ units:
       - {motif: four-corners-unmoving-so-welfare-unchanged, refs: ["CTH 413.1 §4:17-20"], note: "4 ḫalḫaltumarieš … uktūrieš … UL ueḫandari 'do not move'"}
       - {motif: foundation-deposit-of-metals-and-stones, refs: ["CTH 413.1 §5:21-23", "CTH 413.1 §6:24-25"], note: "in each corner and under each pillar: silver, gold, lapis, quartz, alabaster, iron, copper, bronze, rock"}
       - {motif: not-we-built-it-the-gods-built-it, refs: ["CTH 413.1 §7:27-31"], note: "UL anzāš uetummen, DINGIR.MEŠ=wa=rat ḫūmanteš ueter 'not we built it; all the gods built it'"}
-      - {motif: gods-as-builders-of-temple, refs: ["CTH 413.1 §8:32-36"], note: "male gods as carpenter; Telipinu laid the foundations; Ea, king of wisdom, built the walls; mountains brought wood and stone; female gods brought clay"}
+      - {motif: temple-built-by-gods-together, refs: ["CTH 413.1 §8:32-36"], note: "male gods as carpenter; Telipinu laid the foundations; Ea, king of wisdom, built the walls; mountains brought wood and stone; female gods brought clay"}
       - {motif: materials-brought-from-named-lands, refs: ["CTH 413.1 §9:37-45"], note: "gold from Pirundummeya, silver from Kuzza, lapis from Mount Takniyara, alabaster from Kanišḫa, quartz from Ilamda, rock from the earth, copper and bronze from Alašiya (Mount Taggata)"}
       - {motif: black-iron-from-heaven, refs: ["CTH 413.1 §9:44"], note: "AN.BAR GE6 nepišaš nepišaz uter 'black iron of heaven they brought from heaven' (meteoric iron)"}
       - {motif: gold-eternal-pure-so-temple, refs: ["CTH 413.1 §10:46-50"], note: "GUŠKIN … uktūri … parkui daššu; ŠA-MA-NA-AN-NI 'as foundation gift'"}
