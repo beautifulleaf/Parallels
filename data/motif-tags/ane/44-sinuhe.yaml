@@ -36,6 +36,10 @@ new_motifs:
   returnee-groomed-and-dressed-in-fine-linen: {label: "The returnee's desert years are taken from his body: he is groomed, his foreign clothes given away, dressed in fine linen, anointed with oil and sleeps in a bed", cluster: exile}
   king-builds-and-endows-tomb-for-courtier: {label: "The king has a stone pyramid tomb built and endowed for his favoured courtier, with gilded statue, funerary priests and fields", cluster: death}
   wish-to-greet-queen-and-serve-her-children: {label: "The exile hopes to greet the queen ('the lady of the land') in the palace and hear that her children are well", cluster: kingship}
+  fugitive-made-commander-of-hosts-army: {label: "The foreign ruler makes the fugitive commander of his army; he raids the ruler's enemies, takes their herds, wells and people", cluster: exile}
+  victor-does-to-foe-what-foe-planned: {label: "What the enemy planned to do to the hero, the hero did to him", cluster: justice}
+  subject-yields-life-to-kings-will: {label: "Before the king the subject says: 'Here I am before you; life is yours; let your majesty do as he wishes'", cluster: kingship}
+  royal-women-intercede-with-king: {label: "Royal women (the queen, the princesses) intercede with the king for a man who fears his punishment", cluster: court}
   # --- Truth and Falsehood ---
   dagger-of-cosmic-size: {label: "A lent dagger is described in cosmic proportions: its blade the mountain of Yal, its hilt the trees of Coptos, its sheath the god's tomb, its strap the herds of Kar", cluster: myth}
   younger-brother-blinds-elder: {label: "The younger brother, Falsehood, has his elder brother Truth blinded and made doorkeeper of his house", cluster: primeval}
@@ -117,3 +121,298 @@ new_motifs:
   submitting-king-brings-iron-throne-and-sceptre: {label: "A submitting king brings the conqueror a throne of iron and a sceptre of iron as gift", cluster: kingship}
   submitted-king-seated-before-conqueror: {label: "The submitted king is brought to the conqueror's capital and given a seat in front of him (at his right) when he enters the inner chamber", cluster: kingship}
 units:
+  # ===================== Sinuhe W1 (pBerlin 3022 + pAmherst, B) =====================
+  - id: ane-sinuhe-w1-a-opening-fragments
+    tradition: ane-egyptian
+    title: "Sinuhe (B): Amherst fragments of the opening: the king's death and the falcon's flight"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 with pAmherst m-q (B); beginning lost, only fragments"
+    read: ["Sinuhe W1:Am.1-Aq"]
+    tags:
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W1:Am.2/2"], note: "Fragmentary: only ⸢sḥri̯⸣ =⸢f⸣ 'he had ascended' survives; the full sentence (sḥri̯ r p,t, 'ascended to heaven') is preserved in W2:6/2"}
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W1:Ap.2", "Sinuhe W1:Aq"], note: "bjk ꜥḫi̯ =f ḥnꜥ šms,w =f 'the falcon flew off with his followers' (the crown prince hurrying home); then njs.n =tw n wꜥ jm jst wj ꜥḥꜥ.kw 'one of them was called while I was standing there'"}
+    hints:
+      - "Most of the opening is lost in B; the full text is in W2 (R) and W5 (AOS)."
+  - id: ane-sinuhe-w1-flight
+    tradition: ane-egyptian
+    title: "Sinuhe (B): the flight from Egypt across the border to the desert, rescue from thirst"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:1-27"]
+    tags:
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W1:1-7"], note: "pzḫ jb =j zš ꜥ.wj =j 'my heart was distraught, my arms spread out'; n kꜣi̯ =j spr r ẖnw pn ḫmt.n =j ḫpr ḥꜣꜥ,yt 'I did not plan to reach this residence, for I expected strife to break out'; he fears not to survive the succession"}
+      - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W1:15-19"], note: "Jnb.w-ḥqꜣ 'the Walls of the Ruler, made to repel the Asiatics'; he crouches in a bush for fear the watchman on the wall see him, and marches by night"}
+      - {motif: fugitive-dying-of-thirst-saved-by-nomads, refs: ["Sinuhe W1:21-27"], note: "ḫḫ =j ḫm.w ḏd.n =j dp,t m(w)t nn 'my throat was parched; I said: this is the taste of death'; the cattle's lowing revives him; the sheikh who had been in Egypt recognises him, gives water and boils milk (psi̯.n =f n =j jrt,t)"}
+      - {motif: alone-no-one-to-be-seen, refs: ["Sinuhe W1:9-10"], note: "Interpretive: he spends the day at the edge of the fields, then meets a man at the road-head who greets him respectfully; the solitude of the fugitive"}
+    hints:
+      - "Flight of a courtier after a crisis at court: compare Moses' flight from Pharaoh (Exod 2:15) and Jacob's flight from Esau (Gen 27:41-45; 28:10), and especially Hadad the Edomite and Jeroboam fleeing to Egypt (1 Kgs 11:17-22, 40)."
+      - "Rescue from thirst in the desert: compare Hagar and Ishmael (Gen 21:15-19) and Israel at Marah and Massah (Exod 15:22-25; 17:1-7); Q 28:22-24 Moses arrives exhausted at the water of Midian."
+  - id: ane-sinuhe-w1-ammunenshi-and-eulogy
+    tradition: ane-egyptian
+    title: "Sinuhe (B): passed from land to land to Qedem; Ammunenshi of Retenu receives him; the eulogy of Senwosret I"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:28-77"]
+    tags:
+      - {motif: fugitive-passed-from-land-to-land, refs: ["Sinuhe W1:28"], note: "rdi̯.n wj ḫꜣs,t n ḫꜣs,t 'foreign land gave me to foreign land'; he leaves Byblos (Kpn) and reaches Qedem (Qdm)"}
+      - {motif: foreign-ruler-welcomes-fugitive, refs: ["Sinuhe W1:29-34", "Sinuhe W1:77"], note: "Ammunenshi, ruler of Upper Retenu: nfr tw ḥnꜥ =j sḏm =k rʾ n Km,t 'you will be well with me, you will hear the speech of Egypt'; mk tw ꜥꜣ wnn =k ḥnꜥ =j 'see, you are here, you will stay with me'"}
+      - {motif: fugitive-gives-evasive-account, refs: ["Sinuhe W1:36-41"], note: "ḏd.n =j swt m jwms 'but I said it as a half-truth': he claims he heard the news returning from Libya; n wfꜣ.tw =j n psg =tw m ḥr =j n sḏm =j ṯz-ḥwrw 'I was not accused, no one spat in my face, I heard no slander'"}
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W1:38", "Sinuhe W1:42"], note: "jb =j ꜣd.w ... jni̯.n =f wj ḥr wꜣ,t wꜥr,t 'my heart failed and brought me on the way of flight'; n rḫ =j jni̯ wj r ḫꜣs,t tn jw mj sḫr nṯr 'I do not know who brought me to this land; it was like the plan of a god'"}
+      - {motif: eulogy-of-king-to-foreign-ruler, refs: ["Sinuhe W1:45-74"]}
+      - {motif: incomparable-king, refs: ["Sinuhe W1:47"], note: "nṯr pw gr,t nn sn,nw =f 'he is a god indeed, who has no second'"}
+      - {motif: fate-decreed-in-the-true-womb, refs: ["Sinuhe W1:68"], note: "jṯi̯.n =f m swḥ,t 'he conquered (already) in the egg', his face set on it since birth"}
+    hints:
+      - "Compare the foreign hosts of Israel's fugitives: Laban receiving Jacob (Gen 29:13-14), Jethro/Reuel receiving Moses (Exod 2:20), Achish receiving David (1 Sam 21:10-15; 27:1-7), Pharaoh receiving Hadad (1 Kgs 11:18-19)."
+      - "'You will hear the speech of Egypt': compare Joseph's use of an interpreter (Gen 42:23)."
+      - "The eulogy of the king to a foreign ruler: compare the royal psalms (Ps 2; 72; 110) and the conqueror-from-the-womb idea in Ps 110:3 and Jer 1:5."
+  - id: ane-sinuhe-w1-life-in-retenu
+    tradition: ane-egyptian
+    title: "Sinuhe (B): married to the ruler's eldest daughter; the land of Yaa; prosperity, hospitality and command in Retenu"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:78-107"]
+    tags:
+      - {motif: host-marries-fugitive-to-eldest-daughter, refs: ["Sinuhe W1:78"], note: "rdi̯.n =f wj m ḥꜣ,t wḥy,t =f m(j)nj.n =f wj m zꜣ,t =f wr.t 'he set me at the head of his tribe and married me to his eldest daughter'"}
+      - {motif: foreign-land-of-figs-wine-honey-oil, refs: ["Sinuhe W1:79-84"], note: "tꜣ pw nfr Jꜣꜣ rn =f ... jw dꜣb.pl jm =f ḥnꜥ jꜣrr,t wr n =f jrp r mw ꜥꜣ bj,t =f ꜥšꜣ bꜣq.pl =f 'a good land named Yaa: figs were in it and grapes, it had more wine than water, plentiful its honey, many its oil trees'; jt and bd,t (barley and emmer), cattle without end"}
+      - {motif: exile-prospers-and-children-become-chiefs, refs: ["Sinuhe W1:85-92"], note: "Daily bread, wine, cooked meat, roast fowl, desert game, milk dishes; jri̯.n =j rnp,t.pl ꜥšꜣ.t ... ẖrd.w =j ḫpr m nḫt.w 'I spent many years; my children became strong men, each a master of his tribe'"}
+      - {motif: hero-gives-water-to-thirsty-guides-lost, refs: ["Sinuhe W1:94-96"], note: "rdi̯.n =j mw n jb 'I gave water to the thirsty', rdi̯.n =j tnm ḥr wꜣ,t 'I set the strayed on the road', nḥm.n =j ꜥwꜣ 'I rescued the robbed'; the messengers to and from the residence stayed with me"}
+      - {motif: hospitality-to-strangers, refs: ["Sinuhe W1:94-95"]}
+      - {motif: fugitive-made-commander-of-hosts-army, refs: ["Sinuhe W1:97-107"], note: "The ruler makes him commander of his army; he raids lands, drives them from their pastures and wells, takes their cattle and people 'with my strong arm, my bow, my movements and my good plans'"}
+    hints:
+      - "Marriage to the host's daughter: compare Moses and Zipporah, daughter of the priest of Midian (Exod 2:21; Q 28:27) and Jacob and the daughters of Laban (Gen 29:15-30); Hadad married to Pharaoh's sister-in-law (1 Kgs 11:19)."
+      - "The land of Yaa: compare the promised land of wheat, barley, vines, figs, pomegranates, olive oil and honey (Deut 8:7-9) and 'flowing with milk and honey' (Exod 3:8); the spies' report (Num 13:23-27)."
+      - "Prosperity in exile and children multiplied: compare Jacob in Laban's service (Gen 30:43) and Moses in Midian (Exod 2:22; 18:3-4)."
+      - "Giving water to the thirsty and guiding the lost: compare Job 31:16-21, 31-32 and Isa 58:7."
+  - id: ane-sinuhe-w1-duel-with-champion
+    tradition: ane-egyptian
+    title: "Sinuhe (B): the strongman of Retenu challenges Sinuhe; the duel and the victory"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:109-146"]
+    tags:
+      - {motif: strongman-challenges-hero-to-single-combat, refs: ["Sinuhe W1:109-112"], note: "jwi̯.t nḫt n (R)tnw mṯꜣ.n =f wj m jmꜣ =j 'a strongman of Retenu came and challenged me in my tent'; pr,y pw nn sn,nw =f 'a champion without a second'; he means to plunder my cattle on his tribe's advice"}
+      - {motif: stranger-bull-in-another-herd, refs: ["Sinuhe W1:118-123"], note: "nḥm,n wj mj kꜣ n ḥw,t m-ḫnw k,t mnmn,t 'I am like a bull of a roaming herd amid another herd'; hd sw kꜣ-n-jdr,t 'the bull of the herd attacks him'; also 'no Bowman is ally of a Delta man: who can fix the papyrus to the mountain?'"}
+      - {motif: hero-kills-champion-with-his-own-axe, refs: ["Sinuhe W1:134-140"], note: "The champion takes his shield, axe and armful of javelins; Sinuhe lets them miss, shoots: ꜥḥꜣ,w =j mn m nḥb,t =f 'my arrow stuck in his neck'; ḫr.n =f ḥr fnd =f sḫr.n =j sw m mjnb =f 'he fell on his nose and I felled him with his own axe'; war cry on his back while all the Asiatics bellow"}
+      - {motif: victor-does-to-foe-what-foe-planned, refs: ["Sinuhe W1:143-146"], note: "kꜣi̯.t.n =f jri̯.t st r =j jri̯.n =j st r =f 'what he planned to do to me I did to him'; he takes his goods, herds and tent"}
+    hints:
+      - "The duel is the closest ANE parallel to David and Goliath (1 Sam 17): an unequalled champion (1 Sam 17:4, 8-10), the people's fear (17:11, 24), the hero who has no armour, the missile that strikes the head/neck (17:49), the champion falls on his face (17:49) and is finished with his own weapon (17:51), followed by the plunder of his tent (17:54)."
+      - "'What he planned to do to me I did to him': compare Haman hanged on his own gallows (Esth 7:10) and Ps 7:15-16."
+  - id: ane-sinuhe-w1-reflection-and-prayer
+    tradition: ane-egyptian
+    title: "Sinuhe (B): the god who ordained the flight is appeased; sayings of the fugitive; prayer to return and to be buried at home; old age"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:147-172/2"]
+    tags:
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W1:147-149", "Sinuhe W1:156/2"], note: "ḫr jri̯.n nṯr nn r ḥtp n ṯzi̯.n =f jm =f thi̯.n =f r k(y).t ḫꜣs,t 'so god has done this, to be gracious to the one he blamed, whom he led astray to another land'; nṯr nb šꜣ wꜥr,t tn 'whatever god ordained this flight'"}
+      - {motif: fugitive-sayings-contrast-need-and-wealth, refs: ["Sinuhe W1:149/2-156"], note: "wꜥr wꜥr n hꜣw =f ... rww z tꜣ =f n ḥꜣ,yt jnk ḥḏ,t pꜣq,t 'a fugitive flees from his surroundings ... a man leaves his land for nakedness: I have bright clothes and fine linen'"}
+      - {motif: exile-prays-to-return-home-before-death, refs: ["Sinuhe W1:156/2-165"], note: "ptr wr.t r ꜥb,t-ẖꜣ,t =j m tꜣ msi̯.kw jm =f 'what is greater than that my corpse be buried in the land where I was born?'"}
+      - {motif: father-burial-in-homeland, refs: ["Sinuhe W1:159"], note: "Here the exile himself, not a dying father, longs to be buried in his birthplace"}
+      - {motif: wish-to-greet-queen-and-serve-her-children, refs: ["Sinuhe W1:165", "Sinuhe W1:172"]}
+      - {motif: old-age-described-limb-by-limb, refs: ["Sinuhe W1:167-170/3"], note: "jr,t.du =j dns ꜥ,wj =j nw rd.du =j fḫ.n =sn šms jb wrd tkn wj n wḏꜣ 'my eyes are heavy, my arms weak, my legs have ceased to follow, the heart is weary, I am near to departing'"}
+      - {motif: god-hears-prayer-of-righteous, refs: ["Sinuhe W1:162"], note: "jn mjn rf n,tt =f ḥtp sḏm =f spr,t wꜣ 'is it today that he is gracious and hears the prayer of the one far away?'"}
+    hints:
+      - "God's hidden guidance of an exile: compare Joseph's 'it was not you who sent me here but God' (Gen 45:5-8; 50:20) and Q 12:100."
+      - "Longing for burial in the homeland: compare Jacob (Gen 47:29-30; 49:29-32), Joseph's bones (Gen 50:24-25; Exod 13:19), Barzillai (2 Sam 19:37) and Nehemiah's 'the city of my fathers' graves' (Neh 2:3-5)."
+      - "Old age limb by limb: compare Eccl 12:1-7 and Barzillai's complaint (2 Sam 19:35); Q 19:4 Zechariah's 'my bones have weakened and my head is aflame with grey'."
+  - id: ane-sinuhe-w1-royal-letter
+    tradition: ane-egyptian
+    title: "Sinuhe (B): Senwosret's decree recalling Sinuhe and promising burial in Egypt; Sinuhe's joy"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:173-203"]
+    tags:
+      - {motif: king-writes-to-recall-exile, refs: ["Sinuhe W1:173-188"], note: "mj,t(j) n wḏ,w jni̯.y n bꜣk-jm 'copy of the decree brought to this servant about bringing him to Egypt'; ptr jri̯.t.n =k jri̯ =t(w) r =k 'what have you done that one should act against you?'; sḫr =k pn jni̯.n =f jb =k n ntf m jb =j r =k 'this plan of yours carried off your heart; it was not in my heart against you'"}
+      - {motif: wish-to-greet-queen-and-serve-her-children, refs: ["Sinuhe W1:185/3-187/2"], note: "p,t =k tn n,t.t m ꜥḥ 'this heaven of yours who is in the palace' (the queen) endures; her children are in the audience hall"}
+      - {motif: old-age-described-limb-by-limb, refs: ["Sinuhe W1:189-190"], note: "šꜣꜥ.n =k tnj fḫ.n =k bꜣꜣ,wt 'you have begun to grow old, you have lost your virility'"}
+      - {motif: promise-of-burial-in-egypt-not-in-ramskin, refs: ["Sinuhe W1:190/2-199"], note: "wj m nbw tp m ḫsbd 'a mummy case of gold, a mask of lapis'; oxen draw the sledge, singers, the dance of the mww; nn m(w)t =k ḥr ḫꜣs,t nn bsi̯ tw ꜥꜣm.w nn di̯.t(w) =k m jnm n zr 'you shall not die abroad, the Asiatics shall not bury you, you shall not be put in a ram's skin'; mḥi̯ ḥr ḫꜣ,t =k jwi̯ 'care for your corpse and come!'"}
+      - {motif: embalming, refs: ["Sinuhe W1:191"], note: "sfṯ 'embalming oil' and wrappings from the hands of Tait for the night (of mummification)"}
+      - {motif: asiatic-nomad-stereotype, refs: ["Sinuhe W1:197/2-198"]}
+      - {motif: letter-received-with-prostration-and-dust, refs: ["Sinuhe W1:199/2-201"], note: "šdi̯.n.tw =f n =j di̯.n =j wj ḥr ẖ,t =j dmj.n =j zꜣṯ,w di̯.n =j sw ḥr šnb,t =j 'when it was read to me I put myself on my belly, I touched the soil and spread it on my chest'"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["Sinuhe W1:200-200/2"], note: "Prostration before the king's letter as before the king himself"}
+    hints:
+      - "Royal recall of an exile: compare David recalling Absalom (2 Sam 14:21-24, 33) and Pharaoh's letting Hadad go home (1 Kgs 11:21-22); Jacob told by God to return to the land of his birth (Gen 31:3, 13)."
+      - "Burial abroad versus burial at home and Egyptian embalming: compare Joseph's embalming and coffin in Egypt (Gen 50:2-3, 26) and Jacob's wish not to be buried in Egypt (Gen 47:29-30)."
+      - "Prostration and earth on the body at a royal message: compare the bowing to the ground of Gen 33:3 and 2 Sam 14:4, 22, 33."
+  - id: ane-sinuhe-w1-reply-letter
+    tradition: ane-egyptian
+    title: "Sinuhe (B): Sinuhe's reply to the decree"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:204-237"]
+    tags:
+      - {motif: exile-reply-letter-protests-innocence, refs: ["Sinuhe W1:204-205", "Sinuhe W1:223-229/2"], note: "wꜥr,t tn jri̯.t.n bꜣk-jm m ḫm =f 'this flight the servant made in his ignorance'; n qmd =j s(j) 'I had not planned it'; jw mj sšm-rs,wt mj mꜣꜣ sw jdḥ,y m Ꜣbw z n ḫꜣ,t m Tꜣ-ztj 'it was like a dream, like a Delta man seeing himself in Elephantine, a marsh man in Nubia'; rd.du =j ḥr hwhw jb =j ḥr ḫrp =j nṯr šꜣ wꜥr,t tn ḥr stꜣ =j 'my feet ran, my heart led me, the god who ordained the flight drew me'"}
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W1:224/2-224/3", "Sinuhe W1:229/2"]}
+      - {motif: overlord-breath-of-life, refs: ["Sinuhe W1:233-234", "Sinuhe W1:236/3"], note: "wbn jtn n mrw,t =k mw m jtr,w swr.t(w) =f mr =k ṯꜣw m p,t ḫnm.t(w) =f ḏd =k 'the sun rises for love of you, the water in the river is drunk when you wish, the air in the sky is breathed when you say'; ꜥnḫ =tw m ṯꜣw n dd =k 'one lives on the breath you give'"}
+      - {motif: departing-hero-wills-goods-to-eldest-son, refs: ["Sinuhe W1:234/2"], note: "jw bꜣk-jm r swḏ.t jwꜥ,t n sꜣ =f ... 'this servant will hand over the inheritance to his fledglings whom he begot in this place'"}
+      - {motif: fear-of-king-on-nations, refs: ["Sinuhe W1:231-232"], note: "di̯.n Rꜥ snḏ =k ḫt tꜣ ḥr,yt =k m ḫꜣs,t nb.t 'Re has set fear of you throughout the land, dread of you in every foreign land'"}
+    hints:
+      - "'The god who ordained the flight drew me': compare Jonah fleeing yet driven by God (Jonah 1:3-4) and Ps 139:7-10."
+      - "'One lives on the breath you give': compare the Amarna vassals' 'the breath of my life' and Lam 4:20, 'the breath of our nostrils, the LORD's anointed'."
+  - id: ane-sinuhe-w1-return-and-audience
+    tradition: ane-egyptian
+    title: "Sinuhe (B): the return to Egypt; reception at the palace; Sinuhe swoons before the king"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:238-263/3"]
+    tags:
+      - {motif: departing-hero-wills-goods-to-eldest-son, refs: ["Sinuhe W1:238/2-240"], note: "zꜣ =j wr m-sꜣ wḥy,t =j (j)ḫ,t =j nb.t m-ꜥ =f 'my eldest son was in charge of my tribe, all my goods in his hand: my serfs, all my cattle, my fruit, every tree'"}
+      - {motif: king-kisses-ground-before-god, refs: ["Sinuhe W1:249"], note: "dhn.n =j tꜣ jmj-t(w) šzp,w 'I touched the ground with my forehead between the sphinxes'"}
+      - {motif: returning-exile-swoons-before-king, refs: ["Sinuhe W1:252/2-255/4"], note: "dwn.kw ḥr ẖ,t =j ḫmi̯.n =j wj m-bꜣḥ =f ... bꜣ =j zbi̯.w ḥꜥ.w =j ꜣd.w ḥꜣ,tj =j n ntf m ẖ,t =j n rḫ =j ꜥnḫ r mt 'stretched on my belly I did not know myself before him ... my ba was gone, my limbs trembled, my heart was not in my body, I did not know life from death'"}
+      - {motif: prostration-before-deity, refs: ["Sinuhe W1:252/2"], note: "The king is called nṯr pn 'this god' (W1:253)"}
+      - {motif: subject-yields-life-to-kings-will, refs: ["Sinuhe W1:263-263/3"], note: "mk wj m-bꜣḥ =k ntk ꜥnḫ jrr ḥm =k m mrw,t =f 'here I am before you; life is yours; let your majesty do as he wills'"}
+    hints:
+      - "The exile's return and reception: compare Jacob's return and fear before Esau (Gen 32:3-21; 33:1-4), Moses' return to Egypt (Exod 4:18-20) and Absalom's return (2 Sam 14:33)."
+      - "'Here I am; do as you wish': compare David before Absalom's rebellion (2 Sam 15:26) and Jer 26:14."
+  - id: ane-sinuhe-w1-queen-and-princesses
+    tradition: ane-egyptian
+    title: "Sinuhe (B): the queen and royal children fail to recognise 'the Asiatic'; the princesses' hymn for his pardon; the king receives him as courtier"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:263/4-282"]
+    tags:
+      - {motif: royals-fail-to-recognize-returnee-as-asiatic, refs: ["Sinuhe W1:264-267"], note: "m =t Zꜣ-nh,t jwi̯.w m ꜥꜣm qmꜣ n St,tjw 'look, Sinuhe has come back as an Asiatic, a creation of the Bedouin'; the queen gives a great cry, the children shriek: n ntf js pw mꜣꜥ 'it is not really he'; the king: ntf pw mꜣꜥ 'it is really he'"}
+      - {motif: princesses-sing-for-pardon-of-exile, refs: ["Sinuhe W1:268-279"], note: "With menits and sistra they sing to the king (Hathor, the Lady of the Stars, the crowns, the uraeus) and ask: nft ꜥb =k sfḫ šsr =k jmi̯ ṯꜣw n n,tj m jtḥ 'slacken your bow, lay down your arrow, give breath to him who is stifled'; mtn n m zꜣ mḥ,yt pḏ,tj msi̯.w m Tꜣ-mrj 'reward us with this son of the North wind, the bowman born in Egypt'"}
+      - {motif: royal-women-intercede-with-king, refs: ["Sinuhe W1:275-277/2"], note: "jri̯.n =f wꜥr,t n snḏ =k 'he made the flight out of fear of you'"}
+      - {motif: overlord-tells-vassal-do-not-fear, refs: ["Sinuhe W1:279/2-280"], note: "nn snḏ =f nn ꜥꜥj =f r ḥr,yt 'he shall not fear, he shall not be in dread'"}
+    hints:
+      - "Non-recognition of the man returned from abroad in foreign guise: compare Joseph unrecognised by his brothers (Gen 42:7-8) and Jacob's 'are you really my son Esau?' (Gen 27:21-24); here the queen and children say 'it is not he' and the king insists 'it is he'."
+      - "Royal women interceding before the king: compare Esther (Esth 4:11-16; 5:1-3; 8:3-6) and the wise woman of Tekoa (2 Sam 14:1-20)."
+  - id: ane-sinuhe-w1-rehabilitation-and-tomb
+    tradition: ane-egyptian
+    title: "Sinuhe (B): Sinuhe made new: bathed, dressed in linen, given a house, and a pyramid tomb among the royal children; colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W1, pBerlin P 3022 (B)"
+    read: ["Sinuhe W1:283-311"]
+    tags:
+      - {motif: returnee-groomed-and-dressed-in-fine-linen, refs: ["Sinuhe W1:290/2-294"], note: "rdi̯ swꜣ rnp,t.pl ḥr ḥꜥ.w =j 'the years were made to pass from my body'; ṯꜣi̯.kw ꜥꜥb šnw =j 'I was groomed, my hair cleaned' (often rendered 'I was shaved'); zb,t given to the desert, ḥbs.w to the sand-farers; sd.kw m pꜣq,t gs.kw m tp,t sḏr.kw ḥr ḥnk,yt 'clad in fine linen, anointed with fine oil, I slept on a bed'; di̯.n =j šꜥy n nmj.w =f 'I gave the sand to those who live in it'"}
+      - {motif: shaved-and-changed-clothes-before-king, refs: ["Sinuhe W1:291-292"], note: "The grooming follows the audience rather than preceding it; the TLA renders ṯꜣi̯.kw as 'I was clothed'"}
+      - {motif: hero-washes-and-dons-clean-garments, refs: ["Sinuhe W1:286/2-293"]}
+      - {motif: king-builds-and-endows-tomb-for-courtier, refs: ["Sinuhe W1:300-309"], note: "jw ḫwzi̯.w n =j mr m jnr m-qꜣb mr.w 'a pyramid of stone was built for me among the pyramids'; funerary priests, a funerary domain, fields, twt =j sẖr m nbw 'my statue overlaid with gold'; nn šwꜣ,w jri̯.y n =f mj,tt 'there is no poor man for whom the like was done'"}
+      - {motif: colophon-copied-and-collated, refs: ["Sinuhe W1:311"], note: "jwi̯ =f pw ḥꜣ,t =f r pḥ,wj =f mj gmi̯.t m zẖꜣ 'it has come from beginning to end as found in writing'"}
+    hints:
+      - "Change of clothes and new status at the foreign court: compare Joseph shaved, changed and later clothed in fine linen by Pharaoh (Gen 41:14, 42), Jehoiachin's prison clothes changed (2 Kgs 25:29) and Q 12:54-56."
+      - "A tomb prepared by royal favour: compare Joseph's burial (Gen 50:26) and the burial privileges of Jehoiada among the kings (2 Chr 24:16)."
+  # ===================== Sinuhe W2 (pBerlin 10499, R) =====================
+  - id: ane-sinuhe-w2-titles-and-kings-death
+    tradition: ane-egyptian
+    title: "Sinuhe (R): Sinuhe's titles; year 30: King Amenemhat ascends to his horizon; the crown prince hears and flies home"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W2, pBerlin P 10499 (R), the best witness for the opening"
+    read: ["Sinuhe W2:1-23"]
+    tags:
+      - {motif: tomb-autobiography-titles-opening, refs: ["Sinuhe W2:1-2/3"], note: "(j)r,(j)-pꜥ,t ḥꜣ,tj-ꜥ ... šms,w Zꜣ-nh,t ḏd =f jnk šms,w šms nb =f 'the noble and count ... the follower Sinuhe says: I was a follower who followed his lord', servant of the royal harem of the queen"}
+      - {motif: king-ascends-to-heaven, refs: ["Sinuhe W2:6-7"], note: "ꜥr nṯr r ꜣḫ,t =f ... sḥri̯ r p,t ẖnm m jtn ḥꜥ nṯr ꜣbḫ m jri̯ sw 'the god ascended to his horizon ... flew to heaven, united with the sun disk, the god's body merged with him who made him'"}
+      - {motif: death-dated-by-regnal-year, refs: ["Sinuhe W2:5"], note: "rnp,t-zp 30 ꜣbd 3 ꜣḫ,t sw 7 'year 30, third month of Inundation, day 7'"}
+      - {motif: palace-in-mourning-at-kings-death, refs: ["Sinuhe W2:8-10/2"], note: "jw ẖnw m sgr jb.pl m gm,w rw,tj-wr,tj ḫtm šny,t m tp-ḥr-mꜣs,t 'the residence was in silence, hearts in grief, the great double gate sealed, the court head on knee'"}
+      - {motif: crown-prince-on-campaign-returns-to-claim-throne, refs: ["Sinuhe W2:11-21"], note: "Senwosret is leading the army against the Tjemehu Libyans; messengers reach him at night; n-zp sjni̯ =f rssy bjk ꜥḫi̯ =f ḥnꜥ šms,w =f 'he did not wait a moment; the falcon flew off with his followers' without telling his army"}
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W2:22"], note: "Messengers were also sent to the king's sons in the army (setting up the secret message Sinuhe overhears)"}
+    hints:
+      - "A succession crisis at the king's death with a prince hurrying back while a rival party is informed: compare 1 Kgs 1 (Adonijah and Solomon) and 2 Kgs 11:1-3."
+      - "The court in silence and the gates sealed at the king's death: compare 2 Sam 19:1-4 and the mourning for Jacob in Egypt (Gen 50:3)."
+  - id: ane-sinuhe-w2-flight-and-retenu
+    tradition: ane-egyptian
+    title: "Sinuhe (R): the flight, rescue by the sheikh, Ammunenshi and the excuse"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W2, pBerlin P 10499 (R)"
+    read: ["Sinuhe W2:24-66"]
+    tags:
+      - {motif: courtier-flees-on-kings-death, refs: ["Sinuhe W2:24-31"], note: "As in B; R:31 n ḏd =j ꜥnḫ r-sꜣ nn 'I did not expect to live after this'"}
+      - {motif: fugitive-slips-past-border-fortress, refs: ["Sinuhe W2:41-45"]}
+      - {motif: fugitive-dying-of-thirst-saved-by-nomads, refs: ["Sinuhe W2:46/2-51/2"]}
+      - {motif: fugitive-passed-from-land-to-land, refs: ["Sinuhe W2:52"]}
+      - {motif: foreign-ruler-welcomes-fugitive, refs: ["Sinuhe W2:54-58"]}
+      - {motif: fugitive-gives-evasive-account, refs: ["Sinuhe W2:59-64"]}
+      - {motif: flight-like-a-dream-ordained-by-god, refs: ["Sinuhe W2:65"], note: "Variant: R places the 'like a dream ... a Delta man in Elephantine' simile already here in the conversation with Ammunenshi, where B has 'like the plan of a god'"}
+    hints:
+      - "Compare Moses' flight to Midian (Exod 2:15) and Q 28:21-22 ('he left it fearful, watchful; he said: my Lord, save me from the wrongdoing people')."
+  - id: ane-sinuhe-w2-eulogy-and-yaa
+    tradition: ane-egyptian
+    title: "Sinuhe (R): eulogy of Senwosret; the land of Yaa (to the lacuna)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W2, pBerlin P 10499 (R)"
+    read: ["Sinuhe W2:67-118"]
+    tags:
+      - {motif: eulogy-of-king-to-foreign-ruler, refs: ["Sinuhe W2:67-99"]}
+      - {motif: incomparable-king, refs: ["Sinuhe W2:71"]}
+      - {motif: foreign-ruler-welcomes-fugitive, refs: ["Sinuhe W2:102-103"], note: "Restored largely: [ḏd.jn =f ...] jmi̯ tw ꜥꜣ [ḥnꜥ =j] 'stay here with me'"}
+      - {motif: host-marries-fugitive-to-eldest-daughter, refs: ["Sinuhe W2:104"], note: "Mostly restored: [rdi̯.n =f wj] m [ḥꜣ,t wḥy,t =f]; the marriage clause is lost"}
+      - {motif: foreign-land-of-figs-wine-honey-oil, refs: ["Sinuhe W2:107-112"]}
+      - {motif: exile-prospers-and-children-become-chiefs, refs: ["Sinuhe W2:113-118"], note: "Fragmentary; lines after W2:118 lost until W2:133"}
+  - id: ane-sinuhe-w2-duel-fragments
+    tradition: ane-egyptian
+    title: "Sinuhe (R): fragments of the challenge and duel"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W2, pBerlin P 10499 (R), fragmentary"
+    read: ["Sinuhe W2:133-171/2"]
+    tags:
+      - {motif: strongman-challenges-hero-to-single-combat, refs: ["Sinuhe W2:135-139"], note: "[nḫt] n Rtnw ... nn sn,nw =f; fragmentary"}
+      - {motif: stranger-bull-in-another-herd, refs: ["Sinuhe W2:142-144"]}
+      - {motif: hero-kills-champion-with-his-own-axe, refs: ["Sinuhe W2:159-166"], note: "R adds that his shield, axe and javelins fell before me 'after I had escaped his weapons'; ḫꜥm.n =f wj 'he charged me'; ḥr fnḏ =f ... m mjnb =f 'on his nose ... with his axe'; lacuna W2:146/2-156"}
+      - {motif: victor-does-to-foe-what-foe-planned, refs: ["Sinuhe W2:171"]}
+    hints:
+      - "Compare 1 Sam 17:48-51 (David runs to meet Goliath, the stone, the fall on his face, Goliath's own sword)."
+  - id: ane-sinuhe-w2-prayer-fragments
+    tradition: ane-egyptian
+    title: "Sinuhe (R): fragments of Sinuhe's prayer for return"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W2, pBerlin P 10499 (R), fragmentary"
+    read: ["Sinuhe W2:188-202"]
+    tags:
+      - {motif: exile-prays-to-return-home-before-death, refs: ["Sinuhe W2:188/2", "Sinuhe W2:193"], note: "R variant: wdb =f ꜥ wj m ḥw.n =j tꜣ r bw jṯi̯.n =f wj jm 'will he return me to where I shook the land, to the place from which he took me?'; the rest is mostly lost"}
+      - {motif: wish-to-greet-queen-and-serve-her-children, refs: ["Sinuhe W2:193"]}
+  # ===================== Sinuhe W3, W4 =====================
+  - id: ane-sinuhe-w3-audience-fragment
+    tradition: ane-egyptian
+    title: "Sinuhe (pBuenos Aires): Sinuhe swoons before the king"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W3, pBuenos Aires (BA), fragment parallel to B 250-256"
+    read: ["Sinuhe W3:x+1-x+10/2"]
+    tags:
+      - {motif: returning-exile-swoons-before-king, refs: ["Sinuhe W3:x+3-x+9/2"], note: "BA variant: [n rḫ =j wj r] mt n rḫ =j wj r ꜥnḫ 'I did not know myself as to death, I did not know myself as to life', a doubled form of B's 'I did not know life from death'"}
+      - {motif: prostration-before-deity, refs: ["Sinuhe W3:x+3"]}
+  - id: ane-sinuhe-w4-commander-fragment
+    tradition: ane-egyptian
+    title: "Sinuhe (pUC 32773, Harageh): Sinuhe's raids for the ruler; the challenge"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Egyptian"
+    version: "W4, pUC 32773 (Harageh 1, H), a Middle Kingdom fragment parallel to B 103-109"
+    read: ["Sinuhe W4:x+1-x+4"]
+    tags:
+      - {motif: fugitive-made-commander-of-hosts-army, refs: ["Sinuhe W4:x+1-x+3/2"]}
+      - {motif: strongman-challenges-hero-to-single-combat, refs: ["Sinuhe W4:x+4"], note: "mṯꜣ.n =f wj m ꜥ[fꜣy] =j 'he challenged me in my camp' (B has jmꜣ 'tent')"}

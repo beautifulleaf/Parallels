@@ -930,3 +930,254 @@ units:
       - "'Free among the dead', 'counted with those who go down to the pit' compare Ps 88:5-7 and the bet ha-ḥofšit of 2 Kgs 15:5."
       - "The miry pit compare Ps 40:3 (bor shaʾon, ṭiṭ ha-yawen) and Ps 69:3, 15."
       - "Death swallowing like a beast compare Hab 2:5 and Prov 1:12 (swallow them alive like Sheol)."
+
+  - id: ane-ktu-1-5-i-mot-threatens-baal
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.5 I: Mot's message: though you smote Lotan the fleeing serpent, the twisting serpent, Šalyaṭ of seven heads, you shall go down into my throat; my appetite is the lion's of the steppe, the whale's in the sea; you did not invite me to the feast"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.5 (Baal Cycle tablet 5)"
+    read: ["KTU 1.5 I"]
+    tags:
+      - {motif: leviathan-fleeing-twisting-serpent, refs: ["KTU 1.5 I:1-3"], note: "ktmḫṣ ltn bṯn brḥ tkly bṯn ʿqltn šlyṭ d šbʿt rašm: ltn = Leviathan, bṯn brḥ = naḥaš bariaḥ, bṯn ʿqltn = naḥaš ʿaqallaton (Isa 27:1)"}
+      - {motif: leviathan, refs: ["KTU 1.5 I:1", "KTU 1.5 I:27"], note: "ltn (Lôtānu)"}
+      - {motif: seven-headed-serpent-slain, refs: ["KTU 1.5 I:3"]}
+      - {motif: multi-headed-leviathan-crushed, refs: ["KTU 1.5 I:1-3"]}
+      - {motif: heavens-wither-and-droop, refs: ["KTU 1.5 I:4"], note: "tṯkḥ ttrp šmm: 'the heavens will wither, droop' (uncertain)"}
+      - {motif: sheol-opens-its-throat, refs: ["KTU 1.5 I:6-8"], note: "lyrt bnpš bn ilm mt bmhmrt ydd il ġzr: 'you shall go down into the throat (npš) of Mot, into the gullet of the beloved of El'"}
+      - {motif: mot-appetite-like-lion-and-sea-monster, refs: ["KTU 1.5 I:14-22"], note: "pnpš npš lbim thw hm brlt anḫr bym hm brky tkšd rumm ... hm šbʿ ydty bṣʿ hm ks ymsk nhr"}
+      - {motif: greed-wide-as-sheol, refs: ["KTU 1.5 I:14-22"]}
+      - {motif: death-not-invited-to-feast, refs: ["KTU 1.5 I:22-25"], note: "k lṣḥn bʿl ʿm aḫy qran hd ʿm aryy wlḥmm ʿm aḫy lḥm wštm ʿm aḫy yn"}
+      - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.5 I:10-11"], note: "mrym ṣpn"}
+    hints:
+      - "Leviathan, the fleeing serpent, the twisting serpent compare Isa 27:1; Job 26:13 (naḥaš bariaḥ) and Job 3:8."
+      - "Sheol enlarging its throat (nafsheh) compare Isa 5:14 and Hab 2:5 (his appetite like Sheol, like Death never sated); Prov 30:15-16."
+      - "The lion of the steppe and the monster of the sea for an insatiable devourer compare Ezek 32:2 and Jer 51:34."
+
+  - id: ane-ktu-1-5-ii-baal-servant-of-mot
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.5 II: Mot's lip to earth, lip to heaven, tongue to the stars; Baal fears him and sends word: 'hail, Mot, I am your slave for ever'; Mot rejoices"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.5 (Baal Cycle tablet 5)"
+    read: ["KTU 1.5 II"]
+    tags:
+      - {motif: death-lip-to-earth-lip-to-heaven, refs: ["KTU 1.5 II:2-3"], note: "[št špt la]rṣ špt lšmm [ ] lšn lkbkbm (first lip restored)"}
+      - {motif: sheol-opens-its-throat, refs: ["KTU 1.5 II:2-5"], note: "yʿrb bʿl bkbdh bph yrd kḥrr zt ybl arṣ wpr ʿṣm: Baal will enter his innards, go down his mouth, as the olive, the produce of earth and fruit of the trees are scorched"}
+      - {motif: storm-god-fears-death, refs: ["KTU 1.5 II:6-7"], note: "yraun aliyn bʿl ṯtʿnn rkb ʿrpt"}
+      - {motif: monster-cannot-be-caught-with-hook, refs: ["KTU 1.5 II:12", "KTU 1.5 II:19-20"], note: "ʿbdk an wd ʿlmk: 'I am your slave, yours for ever' -- the phrase ʿeved ʿolam of Job 40:28, said here by the god to Death"}
+      - {motif: slave-for-life-formula, refs: ["KTU 1.5 II:12", "KTU 1.5 II:19-20"], note: "ʿbdk an wd ʿlmk"}
+      - {motif: death-city-pit-throne-mire-land, refs: ["KTU 1.5 II:15-16"], note: "tk qrth hmry mk ksu ṯbt ḫḫ arṣ nḥlth"}
+      - {motif: death-not-invited-to-feast, refs: ["KTU 1.5 II:20-22"], note: "šmḫ bn ilm mt ... ik yṣḥn [bʿl ʿm aḫy] yqrun hd"}
+    hints:
+      - "Their mouth set against heaven, their tongue walks the earth compare Ps 73:9; Death swallowing compare Isa 25:8."
+      - "'Will he make a covenant with you, that you take him as a slave for ever (ʿeved ʿolam)?' compare Job 40:28 and Deut 15:17, Exod 21:6."
+      - "A covenant with Death compare Isa 28:15, 18."
+
+  - id: ane-ktu-1-5-iii-iv-mot-invited
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.5 III-IV: fragments of a message to Mot (a broad seat; flocks in great number; 'I will call Mot'); 'where is Baal, where is Haddu?'; the gods eat and drink"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.5 (Baal Cycle tablet 5), fragmentary"
+    read: ["KTU 1.5 III", "KTU 1.5 IV"]
+    tags:
+      - {motif: death-not-invited-to-feast, refs: ["KTU 1.5 III:9-10", "KTU 1.5 III:18-19", "KTU 1.5 III:25-26"], note: "dm mt aṣḥ ydd bqrb: 'I will surely call Mot, the beloved, into ...' (refrain)"}
+      - {motif: funeral-sacrifice-of-oxen-and-sheep, refs: ["KTU 1.5 III:16-17", "KTU 1.5 III:22-24"], note: "Interpretive: šgr mud ... bmud ṣin ... iṯm mud: young of animals and flocks in great number"}
+      - {motif: furrows-of-fields-parched, refs: ["KTU 1.5 IV:7-8"], note: "i ap bʿ[l] i hd: 'where is Baal? where is Haddu?' -- the question of 1.6 IV"}
+      - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.5 IV:12-19"], note: "ʿd lḥm ... ṯd bḥrb ... krpnm bks ḫrṣ ks ksp"}
+    hints:
+      - "'Where is (the god)?' compare Ps 42:4, 11 and Ps 115:2; Joel 2:17."
+
+  - id: ane-ktu-1-5-v-baal-descends-heifer
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.5 V: 'take your clouds, your wind, your rain, your seven lads, your eight boars, Pidray and Tallay, and go down; be counted among those who go down to the earth'; Baal loves a heifer in the field at the shore of death, seventy-seven times; she bears a boy"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.5 (Baal Cycle tablet 5)"
+    read: ["KTU 1.5 V"]
+    tags:
+      - {motif: storm-god-descends-with-clouds-and-rain, refs: ["KTU 1.5 V:6-11"], note: "wat qḥ ʿrptk rḥk mdlk mṭrtk ʿmk šbʿt ġlmk ṯmn ḫnzrk ʿmk pdry bt ar ʿmk ṭly bt rb"}
+      - {motif: storm-gods-daughters-dew-light-earth, refs: ["KTU 1.5 V:10-11"]}
+      - {motif: messengers-to-death-lift-mountains, refs: ["KTU 1.5 V:11-15"], note: "tk ġr knkny ša ġr ʿl ydm ḫlb lẓr rḥtm wrd bt ḫpṯt arṣ"}
+      - {motif: counted-among-those-who-descend, refs: ["KTU 1.5 V:15-17"], note: "tspr byrdm arṣ wtdʿ ilm kmtt"}
+      - {motif: like-those-who-go-down-to-pit, refs: ["KTU 1.5 V:15-16"]}
+      - {motif: grave-goods-for-netherworld-gods, refs: ["KTU 1.5 V:5-6"], note: "Interpretive: aštn bḫrt ilm arṣ 'I will put (him) in the pit of the gods of the earth'"}
+      - {motif: storm-god-mates-heifer-before-descent, refs: ["KTU 1.5 V:17-22"], note: "yuhb ʿglt bdbr prt bšd šḥlmmt škb ʿmnh šbʿ lšbʿm tš[ʿ]ly ṯmn lṯmnym wt[ḥ]rn wtld mṯ"}
+      - {motif: sevenfold-vengeance, refs: ["KTU 1.5 V:20-21"], note: "Only the numerical pattern šbʿ lšbʿm 'seven and seventy' (77) as in Gen 4:24"}
+      - {motif: storm-god-obeys-command, refs: ["KTU 1.5 V:17"], note: "yšmʿ aliyn bʿl"}
+    hints:
+      - "The god of the storm going down with his clouds compare Ps 18:10-12; the 'shore of death' (šḥlmmt) compare Ps 107:18 (gates of death)."
+      - "Seventy-seven and eighty-eight compare Gen 4:24 and Judg 8:30; a calf idol connected with Baal compare Hos 13:1-2 and 1 Kgs 12:28."
+
+  - id: ane-ktu-1-5-vi-el-mourns-baal
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.5 VI: the messengers found Baal fallen in the land of the shore of death: 'mighty Baal is dead'; El comes down from throne to footstool to earth, pours dust on his head, gashes cheek and chin, ploughs his chest: 'Baal is dead, what of the peoples?'; Anat roams every mountain"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.5 (Baal Cycle tablet 5)"
+    read: ["KTU 1.5 VI"]
+    tags:
+      - {motif: baal-is-dead-what-of-the-peoples, refs: ["KTU 1.5 VI:8-10", "KTU 1.5 VI:22-25"], note: "mġny lbʿl npl larṣ mt aliyn bʿl ḫlq zbl bʿl arṣ ... bʿl mt my lim bn dgn my hmlt aṯr bʿl ard barṣ"}
+      - {motif: high-god-mourns-on-ground, refs: ["KTU 1.5 VI:11-16"], note: "yrd lksi yṯb lhdm wl hdm yṯb larṣ yṣq ʿmr un lrišh ʿpr plṯt lqdqdh"}
+      - {motif: king-leaves-throne-sits-in-ashes, refs: ["KTU 1.5 VI:11-16"]}
+      - {motif: princes-of-sea-descend-from-thrones-mourning, refs: ["KTU 1.5 VI:11-14"]}
+      - {motif: mourning-in-dust, refs: ["KTU 1.5 VI:14-16"]}
+      - {motif: mourner-ploughs-chest-like-garden, refs: ["KTU 1.5 VI:16-22"], note: "lpš yks mizrtm ġr babn ydy psltm byʿr yhdy lḥm wdqn yṯlṯ qn ḏrʿh yḥrṯ kgn aplb kʿmq yṯlṯ bmt"}
+      - {motif: baldness-and-gashing-in-mourning, refs: ["KTU 1.5 VI:17-22"]}
+      - {motif: cuttings-for-dead-and-tattoos-forbidden, refs: ["KTU 1.5 VI:17-21"], note: "ydy psltm 'he cut (his skin) with a knife'"}
+      - {motif: sackcloth-loincloth-in-mourning, refs: ["KTU 1.5 VI:16-17", "KTU 1.5 VI:31"], note: "lpš yks mizrtm: he covers himself with a loincloth"}
+      - {motif: goddess-searches-streets-for-captive-god, refs: ["KTU 1.5 VI:25-30"], note: "ʿnt ttlk wtṣd kl ġr lkbd arṣ kl gbʿ lkbd šdm"}
+      - {motif: land-of-pleasant-steppe-shore-of-death, refs: ["KTU 1.5 VI:5-7", "KTU 1.5 VI:28-30"], note: "lnʿmy arṣ dbr lysmt šd šḥlmmt"}
+    hints:
+      - "Coming down from the throne, sitting on the ground, dust on the head compare Jonah 3:6, Ezek 26:16, Job 2:8, 12-13, Lam 2:10."
+      - "Gashing for the dead compare Lev 19:28, Deut 14:1, Jer 16:6, Jer 41:5, Jer 47:5 and 1 Kgs 18:28 (the prophets of Baal gash themselves)."
+      - "'He is dead; what of the people?' compare 2 Sam 1:19-27 and the lament for Tammuz, Ezek 8:14."
+
+  - id: ane-ktu-1-6-i-anat-buries-baal
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.6 I 1-31: Anat mourns, drinks her tears like wine; Shapsh lifts Baal onto Anat's shoulder; she carries him up to Ṣapan, weeps and buries him in the pit of the gods of the earth; seventy wild bulls, oxen, sheep, deer, ibex and roebucks are slaughtered"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.6 (Baal Cycle tablet 6)"
+    read: ["KTU 1.6 I:1-31"]
+    tags:
+      - {motif: mourner-ploughs-chest-like-garden, refs: ["KTU 1.6 I:2-5"]}
+      - {motif: baldness-and-gashing-in-mourning, refs: ["KTU 1.6 I:2-5"]}
+      - {motif: baal-is-dead-what-of-the-peoples, refs: ["KTU 1.6 I:6-8"]}
+      - {motif: goddess-drinks-tears-like-wine, refs: ["KTU 1.6 I:9-10"], note: "ʿd tšbʿ bk tšt kyn udmʿt"}
+      - {motif: eating-ashes-as-bread, refs: ["KTU 1.6 I:9-10"], note: "Comparable image: tears drunk like wine"}
+      - {motif: sun-goddess-helps-carry-dead-god, refs: ["KTU 1.6 I:8-17"], note: "ʿmh trd nrt ilm špš ... ʿms mʿ ly aliyn bʿl ... tšu aliyn bʿl lktp ʿnt ... tšʿlynh bṣrrt ṣpn tbkynh wtqbrnh tštnn bḫrt ilm arṣ"}
+      - {motif: seventy-of-each-animal-funeral-sacrifice, refs: ["KTU 1.6 I:18-29"], note: "tṭbḫ šbʿm rumm kgmn aliyn bʿl ... alpm ... ṣin ... aylm ... yʿlm ... ḥmrm"}
+      - {motif: funeral-sacrifice-of-oxen-and-sheep, refs: ["KTU 1.6 I:18-29"]}
+      - {motif: sun-deity-lamp-of-gods, refs: ["KTU 1.6 I:8-9", "KTU 1.6 I:13"]}
+    hints:
+      - "Tears as food and drink day and night compare Ps 42:4, Ps 80:6, Ps 102:10."
+      - "A funeral burning or offering for a king compare Jer 34:5 and 2 Chr 16:14; burial on the mountain compare Deut 34:6."
+
+  - id: ane-ktu-1-6-i-athtar-on-throne
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.6 I 32-67: Anat tells El 'let Athirat rejoice, Baal is dead'; El asks Athirat for one of her sons to make king; Athtar the Terrible ascends Ṣapan, but his feet do not reach the footstool nor his head the top: 'I cannot be king on Ṣapan'; he rules the earth"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.6 (Baal Cycle tablet 6)"
+    read: ["KTU 1.6 I:32-67"]
+    tags:
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.6 I:32-36"]}
+      - {motif: prostration-before-deity, refs: ["KTU 1.6 I:36-38"]}
+      - {motif: enemies-rejoice-at-gods-death, refs: ["KTU 1.6 I:39-43"], note: "tšmḫ ht aṯrt wbnh ilt wṣbrt aryh k mt aliyn bʿl"}
+      - {motif: high-god-orders-rival-driven-from-throne, refs: ["KTU 1.6 I:43-52"], note: "Inverse: tn aḥd b bnk amlkn: 'give one of your sons, I will make him king'; El rejects ydʿ ylḥn: dq anm lyrq ʿm bʿl 'the weakling cannot run with Baal'"}
+      - {motif: substitute-king-too-small-for-throne, refs: ["KTU 1.6 I:53-65"], note: "ymlk ʿṯtr ʿrẓ ... yṯb lkḥṯ aliyn bʿl pʿnh ltmġyn hdm rišh lymġy apsh ... lamlk bṣrrt ṣpn yrd ... wymlk barṣ il klh"}
+      - {motif: mount-of-assembly-in-north, refs: ["KTU 1.6 I:56-63"], note: "ʿṯtr yʿl bṣrrt ṣpn ... yrd: Athtar goes up to the heights of Ṣapan and comes down"}
+      - {motif: water-drawn-in-jars, refs: ["KTU 1.6 I:66-67"], note: "tšabn brḥbt ... bkknt: they draw (water) in jars"}
+    hints:
+      - "'You said in your heart, I will ascend ... I will sit on the mount of assembly in the recesses of Zaphon ... but you are brought down to Sheol' compare Isa 14:12-15 (Helel ben Shaḥar) with Athtar ascending and descending."
+      - "A throne too large for the would-be king compare Saul's armour too big for David (1 Sam 17:38-39), loosely."
+
+  - id: ane-ktu-1-6-ii-anat-destroys-mot
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.6 II: like a cow's heart for her calf, Anat's heart longs for Baal; she seizes Mot by the hem: 'give me my brother'; Mot: 'I put him in my mouth like a lamb'; Anat splits Mot with a blade, winnows, burns, grinds and sows him; birds eat him"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.6 (Baal Cycle tablet 6)"
+    read: ["KTU 1.6 II"]
+    tags:
+      - {motif: days-pass-formula, refs: ["KTU 1.6 II:4-5", "KTU 1.6 II:26-27"], note: "ym ymm yʿtqn lymm lyrḫm: 'a day, days passed, to days, to months'"}
+      - {motif: goddess-seeks-god-like-cow-for-calf, refs: ["KTU 1.6 II:6-9", "KTU 1.6 II:28-30"], note: "klb arḫ lʿglh klb ṯat limrh km lb ʿnt aṯr bʿl"}
+      - {motif: cow-bereaved-of-calf, refs: ["KTU 1.6 II:6-9"]}
+      - {motif: goddess-seizes-death-by-garment, refs: ["KTU 1.6 II:9-12"], note: "tiḫd mt bsin lpš tšṣqnh bqṣ all ... at mt tn aḫy"}
+      - {motif: grasping-garment-hem-in-plea, refs: ["KTU 1.6 II:9-11"]}
+      - {motif: death-puts-victims-in-mouth-like-lamb, refs: ["KTU 1.6 II:21-23"], note: "ʿdbnn ank [k]imr bpy klli bṯbrn qy ḫtu hw"}
+      - {motif: mot-appetite-like-lion-and-sea-monster, refs: ["KTU 1.6 II:17-19"], note: "npš ḫsrt bn nšm npš hmlt arṣ: 'my throat lacked humans, my throat the multitudes of the earth'"}
+      - {motif: land-of-pleasant-steppe-shore-of-death, refs: ["KTU 1.6 II:19-20"]}
+      - {motif: sun-glows-heavens-weak-in-deaths-hand, refs: ["KTU 1.6 II:24-25"]}
+      - {motif: death-split-winnowed-burned-ground-sown, refs: ["KTU 1.6 II:30-37"], note: "bḥrb tbqʿnn bḫṯr tdrynn bišt tšrpnn brḥm tṭḥnn bšd tdrʿnn širh ltikl ʿṣrm mnth ltkly npr[m]"}
+      - {motif: calf-burned-scattered-in-sea, refs: ["KTU 1.6 II:30-35"], note: "The sequence burn - grind - scatter as in Exod 32:20 (the calf burned, ground to powder, scattered on the water)"}
+      - {motif: death-swallowed-forever, refs: ["KTU 1.6 II:30-37"], note: "Interpretive: Death himself destroyed"}
+      - {motif: corpse-eaten-by-birds, refs: ["KTU 1.6 II:35-37"]}
+    hints:
+      - "Moses burns the calf, grinds it to powder, scatters it on the water compare Exod 32:20 and Deut 9:21; Josiah burns and grinds the Asherah 2 Kgs 23:6."
+      - "God will swallow Death for ever compare Isa 25:8; 'O Death, where are your plagues?' Hos 13:14."
+      - "As a cow longs for her calf compare Hos 4:16 and Isa 49:15 (can a woman forget her nursing child?)."
+      - "Winnowing the enemy compare Jer 15:7, Jer 51:2, Isa 41:15-16."
+
+  - id: ane-ktu-1-6-iii-iv-el-dream-baal-lives
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.6 III-IV: in El's dream the heavens rain oil and the wadis run with honey; El laughs: 'Baal lives, the prince, lord of the earth, exists'; 'the furrows of the fields are parched, O Shapsh: where is mighty Baal?'; Shapsh will seek him"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.6 (Baal Cycle tablet 6)"
+    read: ["KTU 1.6 III", "KTU 1.6 IV"]
+    tags:
+      - {motif: dream-heavens-rain-oil-wadis-honey, refs: ["KTU 1.6 III:4-13"], note: "bḥlm lṭpn il dpid bḏrt bny bnwt šmm šmn tmṭrn nḫlm tlk nbtm"}
+      - {motif: mountains-drip-wine-hills-flow-milk, refs: ["KTU 1.6 III:6-7", "KTU 1.6 III:12-13"], note: "nḫlm tlk nbtm 'the wadis run with honey' as Joel 4:18 (the wadis of Judah run with water) and Job 20:17 (naḥale nahare devash)"}
+      - {motif: dream-revelation-of-god, refs: ["KTU 1.6 III:4-5", "KTU 1.6 III:10-11"], note: "bḥlm ... bḏrt: 'in a dream ... in a vision', the Hebrew pair ḥalom // ḥezyon"}
+      - {motif: el-laughs-feet-on-footstool, refs: ["KTU 1.6 III:14-17"], note: "šmḫ lṭpn il dpid pʿnh lhdm yṯpd wyprq lṣb wyṣḥq"}
+      - {motif: god-alive-again-joy, refs: ["KTU 1.6 III:2-3", "KTU 1.6 III:8-9", "KTU 1.6 III:18-21"], note: "aṯbn ank wanḫn wtnḫ birty npš kḥy aliyn bʿl kiṯ zbl bʿl arṣ: 'I will sit and rest, my soul shall rest in my breast, for mighty Baal lives'"}
+      - {motif: furrows-of-fields-parched, refs: ["KTU 1.6 IV:1-5", "KTU 1.6 IV:12-16"], note: "pl ʿnt šdm yšpš pl ʿnt šdm il yštk bʿl ʿnt mḥrṯt iy aliyn bʿl iy zbl bʿl arṣ"}
+      - {motif: animals-cry-to-god, refs: ["KTU 1.6 IV:1-3"], note: "Loose: the parched fields await the storm god's watering"}
+      - {motif: sun-deity-lamp-of-gods, refs: ["KTU 1.6 IV:8", "KTU 1.6 IV:17"]}
+      - {motif: libation-before-search, refs: ["KTU 1.6 IV:18-20"], note: "Uncertain: šdyn ʿn bqbʿt ... bl lyt ʿl umtk wabqṯ aliyn bʿl"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["KTU 1.6 IV:22-24"], note: "an l an yšpš an l an il yġr[k] tġrk šlm: 'wherever you are, may El guard you, may (the gods) guard you in peace' -- the letter formula in myth"}
+    hints:
+      - "The rains (or mountains) dripping with sweet wine and wadis with milk and honey compare Joel 4:18, Amos 9:13, Exod 3:8 and Job 20:17; oil from heaven compare Ps 133:2-3."
+      - "'In a dream, a vision of the night' compare Job 33:15, Gen 20:3, Num 12:6."
+      - "'Where is the God of Elijah?' and a god sought in drought compare 1 Kgs 18:27 (perhaps he is asleep) and 1 Kgs 18:41-45; the cracked furrows compare Jer 14:4 and Joel 1:10-20."
+      - "'As YHWH lives' and 'my redeemer lives' compare Job 19:25 and Ps 18:47 (ḥay YHWH)."
+
+  - id: ane-ktu-1-6-v-mot-returns-seventh-year
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.6 V: Baal strikes the sons of Athirat and sits on his throne; in the seventh year Mot returns: 'because of you I suffered shame, winnowing, burning, grinding, sifting, scorching, sowing in the sea; give me one of your brothers to eat'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.6 (Baal Cycle tablet 6)"
+    read: ["KTU 1.6 V"]
+    tags:
+      - {motif: storm-god-smites-sons-of-athirat, refs: ["KTU 1.6 V:1-4"], note: "yiḫd bʿl bn aṯrt rbm ymḫṣ bktp dkym ymḫṣ bṣmd ṣġrm ymṣḫ larṣ"}
+      - {motif: storm-god-reenthroned, refs: ["KTU 1.6 V:5-6"], note: "[yṯb] bʿl lksi mlkh l[nḫt] lkḥṯ drkth"}
+      - {motif: god-returns-in-seventh-year, refs: ["KTU 1.6 V:7-10"], note: "lymm lyrḫm lyrḫm lšnt ... bšbʿ šnt wrk bn ilm mt"}
+      - {motif: seven-years-plenty-seven-famine, refs: ["KTU 1.6 V:8-9"], note: "Loose: a seven-year cycle ending in Death's return"}
+      - {motif: death-gods-litany-of-suffering, refs: ["KTU 1.6 V:11-19"], note: "ʿlk bʿlm pht qlt ʿlk pht dry bḥrb ʿlk pht šrp bišt ... bkbrt ... ġly bšdm ... drʿ bym"}
+      - {motif: death-demands-substitute-to-eat, refs: ["KTU 1.6 V:19-25"], note: "tn aḥd b aḫk ispa wyṯb ap dan ... akly [bnnšm] akly hml[t arṣ]: 'give one of your brothers that I may eat; otherwise I will consume humankind, the multitudes of the earth'"}
+    hints:
+      - "Seven-year cycles of plenty and famine compare Gen 41:25-36, 2 Kgs 8:1; the sabbatical year Lev 25:2-7."
+      - "The adversary's fury that will 'turn back' (yṯb ap) compare Hebrew šuv ʾaf (Isa 5:25, Hos 14:5)."
+
+  - id: ane-ktu-1-6-vi-baal-mot-combat-shapsh-hymn
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.6 VI: Mot eats his own brothers; Baal and Mot fight like wild bulls, serpents, stallions; both fall; Shapsh warns Mot that El will overturn his throne; Mot fears; Baal is enthroned; hymn: Shapsh rules the Rephaim, the dead gods; Kothar drives off Arš and Tunnanu in the sea; colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.6 (Baal Cycle tablet 6)"
+    read: ["KTU 1.6 VI"]
+    tags:
+      - {motif: death-demands-substitute-to-eat, refs: ["KTU 1.6 VI:9-16"], note: "phn aḫym ytn bʿl spuy bnm umy klyy: 'Baal has given me my own brothers to eat, the sons of my mother to consume'"}
+      - {motif: gods-fight-like-wild-bulls-and-serpents, refs: ["KTU 1.6 VI:16-22"], note: "ytʿn kgmrm mt ʿz bʿl ʿz yngḥn krumm ... ynṯkn kbṯnm ... ymṣḫn klsmm mt ql bʿl ql"}
+      - {motif: throne-pillars-uprooted-sceptre-broken, refs: ["KTU 1.6 VI:22-29"], note: "Shapsh: ik al yšmʿk ṯr il abk lysʿ alt ṯbtk lyhpk ksa mlkk lyṯbr ḫṭ mṯpṭk"}
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["KTU 1.6 VI:27-29"]}
+      - {motif: storm-god-fears-death, refs: ["KTU 1.6 VI:30-32"], note: "Reversed: yru bn ilm mt ṯtʿ ydd il ġzr: now Mot fears"}
+      - {motif: storm-god-reenthroned, refs: ["KTU 1.6 VI:33-35"], note: "bʿl yṯṯbn [lksi] mlkh"}
+      - {motif: offering-bread-and-libation-wine, refs: ["KTU 1.6 VI:42-45"], note: "ltlḥm lḥm trmmt ltšt yn tġẓyt: 'eat the bread of offering (trmmt, cf. terumah), drink the wine of libation'"}
+      - {motif: sun-rules-the-rephaim, refs: ["KTU 1.6 VI:45-48"], note: "špš rpim tḥtk špš tḥtk ilnym ʿdk ilm hn mtm"}
+      - {motif: rephaim-shades, refs: ["KTU 1.6 VI:45-46"], note: "rpim"}
+      - {motif: sun-god-judges-dead-in-underworld, refs: ["KTU 1.6 VI:45-48"]}
+      - {motif: monsters-in-sea-driven-off, refs: ["KTU 1.6 VI:51-53"], note: "bym arš wtnn kṯr wḫss yd ytr kṯr wḫss"}
+      - {motif: leviathan-as-gods-plaything, refs: ["KTU 1.6 VI:51"], note: "tnn in the sea: cf. the tanninim and Leviathan in the sea, Ps 104:26"}
+      - {motif: scribe-colophon-names-author, refs: ["KTU 1.6 VI:54-58"], note: "spr ilmlk šbny lmd atn prln rb khnm rb nqdm ṯʿy nqmd mlk ugrt adn yrgb bʿl ṯrmn: Ilimilku, pupil of Attenu the diviner, chief of priests (khnm) and chief of herdsmen (nqdm)"}
+      - {motif: chief-of-priests-and-herdsmen, refs: ["KTU 1.6 VI:55-56"], note: "rb khnm rb nqdm: 'chief of priests, chief of herdsmen' -- nqd as in Amos 1:1 and 2 Kgs 3:4"}
+    hints:
+      - "The Rephaim, the shades, compare Isa 14:9, Isa 26:14, 19, Ps 88:11, Job 26:5, Prov 2:18; the Sun over the dead compare Job 26:5-6 (Sheol naked before him)."
+      - "The dragon (tannin) in the sea compare Isa 27:1, Ps 74:13, Ezek 29:3 and Ezek 32:2."
+      - "Bread of offering, terumah, and libation wine compare Num 15:5-10, Num 18:8-11."
+      - "Amos 'among the herdsmen (noqdim) of Tekoa' compare Amos 1:1 with rb nqdm; Mesha the noqed 2 Kgs 3:4."

@@ -73,6 +73,15 @@ new_motifs:
   dead-king-is-seed-of-osiris: {label: "The dead king is the seed (semen) that came forth from Osiris", cluster: afterlife}
   eye-of-horus-eaten-as-food: {label: "The dead god eats the Eye (of Horus), given him by his son, and lives by it; his belly is round with it", cluster: afterlife}
   body-of-god-is-body-of-king: {label: "Union formula: 'your body is this king's body, your flesh his flesh, your bones his bones; when you go he goes'", cluster: afterlife}
+  deity-is-bull-of-heaven: {label: "The king or god is called 'Bull of the sky', fierce of heart", cluster: deity}
+  king-older-than-the-eldest: {label: "The king is a god older than the eldest; thousands serve him and hundreds offer to him", cluster: kingship}
+  evildoers-cannot-destroy-kings-place: {label: "Evildoers will never have power to destroy the king's favoured place among the living for ever", cluster: afterlife}
+  eternal-throne-not-given-to-another: {label: "The king's house in heaven and his throne on earth will never perish, and he will give his throne to no other", cluster: kingship}
+  nut-bares-her-arms-for-king: {label: "The sky goddess Nut uncovers (opens) her arms to receive the ascending king", cluster: afterlife}
+  murdered-god-endures-as-wild-bull: {label: "The god whom his enemy killed has, against him, become the Enduring One of the wild bulls: 'Endure, endure!'", cluster: afterlife}
+  dead-king-placed-among-gods-in-field-of-offerings: {label: "The first divine pair are asked to set the dead king between them, among the gods at the head of the Field of Offerings", cluster: afterlife}
+  pyramid-is-osiris: {label: "The king's pyramid and his building work are identified with Osiris, and Horus is told not to be far from it", cluster: afterlife}
+  gods-brought-as-reeds-to-lighten-face: {label: "Horus brings the gods to the dead as reeds (torches?) to light his face in the white chapels", cluster: afterlife}
   # Ptahhotep
   infirmities-of-old-age-catalogue: {label: "Catalogue of old age: eyes weak, ears deaf, mouth silent, heart forgetful, bones aching, nose blocked, all taste gone; good turned to evil", cluster: wisdom}
   staff-of-old-age-son-as-successor: {label: "The aged official asks the king to appoint a 'staff of old age', his son as successor, so that he may teach him", cluster: wisdom}
@@ -443,3 +452,500 @@ units:
     hints:
       - "Compare Gen 2:23 ('bone of my bones and flesh of my flesh') and the union formulas of John 6:56."
       - "Named constellations (Orion): Job 9:9; Amos 5:8."
+  - id: ane-pt273-w1-cannibal-hymn-1
+    tradition: ane-egyptian
+    title: "Cannibal Hymn (Unas) I: the sky quakes; the king, mightier than Atum, has the gods hunted"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Unas (PT 273-274)"
+    read: ["PT273-274 W1:496-511/2"]
+    tags:
+      - {motif: sky-and-earth-quake-at-kings-appearance, refs: ["PT273-274 W1:496"], note: "gp p,t jḥy sbꜣ.pl nmnm pḏ,t.pl sdꜣ qs.pl ꜣkr.w: the sky clouds, the stars darken, the vault shakes, the bones of the earth gods tremble"}
+      - {motif: king-whose-name-mother-does-not-know, refs: ["PT273-274 W1:500"], note: "ḫm.n mʾw,t=f rn=f"}
+      - {motif: king-mightier-than-his-begetter, refs: ["PT273-274 W1:501-502/2"], note: "jw msi̯.n=f sw, wsr sw r=f"}
+      - {motif: king-eats-gods-to-absorb-their-power, refs: ["PT273-274 W1:496", "PT273-274 W1:505/2", "PT273-274 W1:509-511/2"], note: "ꜥnḫ m jt(j).pl=f wšb m mʾw,t.pl=f 'who lives on his fathers and feeds on his mothers'; wnm rmṯ ꜥnḫ m nṯr.pl 'who eats men and lives on gods'; the gods are lassoed, guarded, bound, stabbed, disembowelled and cooked by Shesemu"}
+      - {motif: hidden-god-of-unknown-dwelling, refs: ["PT273-274 W1:508"], note: "the king judges with jmn rn=f 'He-whose-name-is-hidden' on the day of slaughtering the eldest"}
+      - {motif: deity-is-bull-of-heaven, refs: ["PT273-274 W1:505/2"], note: "Wnjs pj kꜣ p,t 'Unas is the Bull of the sky'"}
+    hints:
+      - "Theophany shaking heaven and earth: compare Judg 5:4-5, Ps 18:8-16 and Ps 68:9."
+      - "A name no one knows: compare Rev 19:12 and Judg 13:18; Gen 32:30."
+      - "Gods eaten: contrast Ps 50:12-13 ('do I eat the flesh of bulls?') and the mocking of gods who eat, Bel and the Dragon; Deut 32:38."
+  - id: ane-pt273-w1-cannibal-hymn-2
+    tradition: ane-egyptian
+    title: "Cannibal Hymn (Unas) II: the gods as meals; the king swallows their wisdom and gains eternity"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Unas (PT 273-274)"
+    read: ["PT273-274 W1:512-524/2"]
+    tags:
+      - {motif: gods-portioned-into-three-meals, refs: ["PT273-274 W1:512/2-513/3"], note: "the great for breakfast, the middle for supper, the small for the night meal, old men and women for fuel, cauldrons heated with the thighs of their eldest"}
+      - {motif: king-eats-gods-to-absorb-their-power, refs: ["PT273-274 W1:512", "PT273-274 W1:517/3-521", "PT273-274 W1:523"], note: "eats their ḥkꜣ (magic), swallows their ꜣḫ; breaks the spines, takes the hearts, eats the Red Crown/blood, swallows the Green; jw ꜥm.n=f sjꜣ n(,j) nṯr nb 'he has swallowed the knowledge (Sia) of every god'"}
+      - {motif: king-ascends-to-heaven, refs: ["PT273-274 W1:514-514/2", "PT273-274 W1:517-517/2"], note: "he has circled the two skies; appears again in the sky, crowned as lord of the horizon"}
+      - {motif: wills-and-does, refs: ["PT273-274 W1:520/3"], note: "Mrr≡f-jrr≡f msḏḏ≡f-n-jri̯,n≡f; his lifetime is nḥḥ, his limit ḏ,t"}
+      - {motif: king-older-than-the-eldest, refs: ["PT273-274 W1:516-516/4"], note: "nṯr sms r sms,w; thousands serve him, hundreds offer to him; Orion, father of the gods, gave him power"}
+      - {motif: evildoers-cannot-destroy-kings-place, refs: ["PT273-274 W1:524/2"]}
+    hints:
+      - "Eating to gain knowledge: compare Gen 3:5-6, 22 (the fruit that makes 'like gods, knowing')."
+      - "He does whatever he pleases: compare Ps 115:3, Ps 135:6, Dan 4:32 (35) and Q 85:16 ('doer of what he wills', fa''al li-ma yurid), Q 11:107."
+      - "Older than the eldest: compare Dan 7:9 ('Ancient of days') and John 8:58."
+  - id: ane-pt273-w2-teti
+    tradition: ane-egyptian
+    title: Cannibal Hymn in the pyramid of Teti
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pyramid of Teti (PT 273-274)"
+    read: ["PT273-274 W2"]
+    tags:
+      - {motif: sky-and-earth-quake-at-kings-appearance, refs: ["PT273-274 W2:T/A/E_28_=_319/2"]}
+      - {motif: king-whose-name-mother-does-not-know, refs: ["PT273-274 W2:T/A/E_28_=_319/3"], note: "variant gloss of zꜣb,wt 'jackal-roaming'"}
+      - {motif: king-mightier-than-his-begetter, refs: ["PT273-274 W2:T/A/E_29_=_320/2-T/A/E_29_=_320/3"]}
+      - {motif: king-eats-gods-to-absorb-their-power, refs: ["PT273-274 W2:T/A/E_31_=_322/6", "PT273-274 W2:T/A/E_33_=_324/4-T/A/E_33_=_324/5", "PT273-274 W2:T/A/E_31_=_329/6"], note: "Teti adds an extra ḏ(d)-mdw rubric at 324/3; otherwise as Unas with the name changed"}
+      - {motif: gods-portioned-into-three-meals, refs: ["PT273-274 W2:T/A/E_33_=_324/6-T/A/E_34_=_325/2"]}
+      - {motif: wills-and-does, refs: ["PT273-274 W2:T/A/E_31_=_329/7"]}
+  - id: ane-pt302-w1-ascent-with-sothis
+    tradition: ane-egyptian
+    title: "PT 302 (Unas): ascent to Re with Sothis and Upuaut, no accusation against him"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Unas"
+    read: ["PT302 W1"]
+    tags:
+      - {motif: king-ascends-to-heaven, refs: ["PT302 W1:568/3", "PT302 W1:569/4", "PT302 W1:571/2"], note: "Sothis and Upuaut make him fly up 'among his brothers the gods'"}
+      - {motif: dead-king-flies-to-heaven-as-bird, refs: ["PT302 W1:569/4", "PT302 W1:571/3-572/2"], note: "face of falcons, wings of birds; like a goose he uses his arms, like a kite he beats his wing; pꜣ pꜣ rmṯ 'one has flown, O men'"}
+      - {motif: no-accusation-on-earth-or-in-heaven, refs: ["PT302 W1:570-571"], note: "n mdw n(,j) Wnjs r tꜣ ḫr rmṯ, n ḫbn,t=f r p,t ḫr nṯr.pl"}
+      - {motif: eternal-throne-not-given-to-another, refs: ["PT302 W1:567/2-568", "PT302 W1:569/2-569/3"], note: "his house in the sky will not perish, his throne on earth will not vanish; 'he will not give it to any other'"}
+      - {motif: nut-bares-her-arms-for-king, refs: ["PT302 W1:568/4"]}
+    hints:
+      - "Ascent on wings: compare Isa 40:31, Ps 55:7 ('O for wings like a dove') and Exod 19:4."
+      - "No charge against him: compare Rom 8:33-34 and Q 4:110 (forgiveness); Job's protest of innocence, Job 31."
+      - "Throne not given to another: compare 2 Sam 7:16 and Isa 42:8 ('my glory I will not give to another')."
+  - id: ane-pt302-w2-pepi-i
+    tradition: ane-egyptian
+    title: PT 302 in the pyramid of Pepi I
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pyramid of Pepi I"
+    read: ["PT302 W2"]
+    tags:
+      - {motif: king-ascends-to-heaven, refs: ["PT302 W2:P/A/N_7/5", "PT302 W2:571-571/2"], note: "much restored"}
+      - {motif: no-accusation-on-earth-or-in-heaven, refs: ["PT302 W2:P/A/N_8/7", "PT302 W2:571"], note: "variant: dr.n=f mdw nb.w 'he has removed all words'"}
+      - {motif: dead-king-flies-to-heaven-as-bird, refs: ["PT302 W2:571/4-571/5"]}
+  - id: ane-pt306-w1-ladder
+    tradition: ane-egyptian
+    title: "PT 306 (Unas): the gods rejoice to see him ascend; he climbs 'in its name of Ladder'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Unas"
+    read: ["PT306 W1"]
+    tags:
+      - {motif: ladder-named-as-way-to-heaven, refs: ["PT306 W1:586-586/2"], note: "jꜣq ḥr=s m rn=s pw n(,j) mꜣq,t"}
+      - {motif: ladder-to-heaven-sullam, refs: ["PT306 W1:586/2"]}
+      - {motif: king-ascends-to-heaven, refs: ["PT306 W1:584/2", "PT306 W1:586"], note: "'How beautiful to see!' say the gods as he ascends with his ba-power on him, his terror beside him, his magic at his feet"}
+      - {motif: gods-carry-king-on-poles, refs: ["PT306 W1:585/2"], note: "the Bas of Pe and Nekhen, gods of heaven and gods of earth"}
+      - {motif: heaven-and-earth-given-to-king, refs: ["PT306 W1:587-587/2"], note: "said by Atum, spoken by Geb"}
+      - {motif: murdered-god-endures-as-wild-bull, refs: ["PT306 W1:589-590/2"], note: "'Did he kill you, his heart saying you should die for him?' - you have become the Enduring One of the wild bulls; j:mn j:mn jmn,w"}
+    hints:
+      - "Compare Gen 28:12 (Jacob's ladder, sullam), Q 6:35 and 52:38 (a ladder, sullam, to heaven) and Q 70:3-4 (the ascents, maʿarij)."
+      - "Heaven and earth given: compare Ps 2:8, Dan 7:14 and Matt 28:18."
+  - id: ane-pt306-w2-pepi-ii
+    tradition: ane-egyptian
+    title: PT 306 in the pyramid of Pepi II
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pyramid of Pepi II (Neferkare)"
+    read: ["PT306 W2"]
+    tags:
+      - {motif: ladder-named-as-way-to-heaven, refs: ["PT306 W2:N/V/E_72_=_1336/2"], note: "mostly restored; only m rn=s pw n(,j) mꜣ[q,t] survives"}
+      - {motif: gods-carry-king-on-poles, refs: ["PT306 W2:N/V/E_71_=_1335/2"]}
+      - {motif: murdered-god-endures-as-wild-bull, refs: ["PT306 W2:N/V/E_74_=_1338-N/V/E_74_=_1338/3"]}
+  - id: ane-pt306-w3-merenre
+    tradition: ane-egyptian
+    title: PT 306 in the pyramid of Merenre
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, pyramid of Merenre"
+    read: ["PT306 W3"]
+    tags:
+      - {motif: king-ascends-to-heaven, refs: ["PT306 W3:M/V/N_8_=_794/2", "PT306 W3:M/V/N_22_=_808"], note: "the king is called simply jt(j) 'the father'"}
+      - {motif: ladder-named-as-way-to-heaven, refs: ["PT306 W3:M/V/N_23_=_809"]}
+      - {motif: heaven-and-earth-given-to-king, refs: ["PT306 W3:M/V/N_25_=_811"]}
+      - {motif: murdered-god-endures-as-wild-bull, refs: ["PT306 W3:M/V/N_35_=_821-M/V/N_37_=_823/3"]}
+  - id: ane-pt527-w1-atum-shu-tefnut
+    tradition: ane-egyptian
+    title: "PT 527 (Pepi I): Atum masturbates and Shu and Tefnut are born"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pyramid of Pepi I"
+    read: ["PT527 W1"]
+    tags:
+      - {motif: creation-by-masturbation, refs: ["PT527 W1:P/C_ant/W_77_=_466"], note: "wdi̯.n=f ḥnn=f m ḫfꜥ=f jri̯=f nḏmm,t jm=f msi̯ zꜣ,t.du sn.t(j) Šw ḥnꜥ Tfn,t"}
+      - {motif: creator-begets-first-pair-alone, refs: ["PT527 W1:P/C_ant/W_76_=_465/2-P/C_ant/W_77_=_466"], note: "Atum ḫpr 'came into being' in Heliopolis (the epithet jwi̯ sꜣwi̯ is untranslated in TLA)"}
+      - {motif: male-and-female-created-together, refs: ["PT527 W1:P/C_ant/W_77_=_466"], note: "the first pair is male (Shu) and female (Tefnut), 'the two twins'"}
+      - {motif: dead-king-placed-among-gods-in-field-of-offerings, refs: ["PT527 W1:P/C_ant/W_77_=_466/2-P/C_ant/W_77_=_466/3"]}
+      - {motif: king-ascends-to-heaven, refs: ["PT527 W1:P/C_ant/W_78_=_467-P/C_ant/W_78_=_467/2"], note: "to be said four times: may he go up to the sky, may he go down to the earth, for life for ever"}
+    hints:
+      - "Contrast the creation of the first pair in Gen 1:27 (male and female by word) and Gen 2:21-23 (woman from the man alone, without a mother); Q 4:1 and 39:6 (spouse created from one soul)."
+      - "Creation without a consort or sexual act: compare Gen 1 generally, and Q 6:101 ('how could he have a child when he has no consort?'), Q 112:3."
+  - id: ane-pt527-w2-merenre
+    tradition: ane-egyptian
+    title: PT 527 in the pyramid of Merenre
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, pyramid of Merenre"
+    read: ["PT527 W2"]
+    tags:
+      - {motif: creation-by-masturbation, refs: ["PT527 W2:M/C_med/W_85_=_529"]}
+      - {motif: creator-begets-first-pair-alone, refs: ["PT527 W2:M/C_med/W_84_=_528/2-M/C_med/W_85_=_529"]}
+      - {motif: dead-king-placed-among-gods-in-field-of-offerings, refs: ["PT527 W2:M/C_med/W_86_=_530-M/C_med/W_86_=_530/2"]}
+  - id: ane-pt600-atum-khepri-benben
+    tradition: ane-egyptian
+    title: "PT 600 (Pepi II): Atum-Khepri rose as the hill and the Benben, spat out Shu and Tefnut; protect this pyramid"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pyramid of Pepi II (Neferkare)"
+    read: ["PT600 N/F/E.inf.17.=", "PT600 N/F/E.inf.18.=", "PT600 N/F/E.inf.19.=", "PT600 N/F/E.inf.20.=", "PT600 N/F/E.inf.21.=", "PT600 N/F/E.inf.22.=", "PT600 N/F/E.inf.23.="]
+    tags:
+      - {motif: creator-rises-as-primeval-mound, refs: ["PT600 N/F/E.inf.17.=:663/2-663/4"], note: "qꜣi̯.n=k m qꜣꜣ, wbn.n=k m bnbn m Ḥw,t-bn,w m Jwn,w"}
+      - {motif: creator-spits-out-first-gods, refs: ["PT600 N/F/E.inf.17.=:663/5"], note: "jšš.n=k m Šw tfn.n=k m Tfn,t: puns jšš/Šw and tfn/Tfn,t"}
+      - {motif: creator-embraces-children-with-ka-arms, refs: ["PT600 N/F/E.inf.17.=:663/6", "PT600 N/F/E.inf.18.=:664"]}
+      - {motif: tomb-protected-from-all-harm, refs: ["PT600 N/F/E.inf.18.=:664/3", "PT600 N/F/E.inf.20.=:666/2"]}
+      - {motif: ennead-genealogy-listed, refs: ["PT600 N/F/E.inf.19.=:665"]}
+      - {motif: pyramid-is-osiris, refs: ["PT600 N/F/E.inf.21.=:667/2-667/3", "PT600 N/F/E.inf.22.=:668"], note: "(W)sr(,w) pw mḥr pn: 'this pyramid is Osiris'; Horus told not to be far from it 'in its name of Pyramid'"}
+      - {motif: gods-brought-as-reeds-to-lighten-face, refs: ["PT600 N/F/E.inf.23.=:669"]}
+    hints:
+      - "Creation beginning from a first mound or dry land: compare Gen 1:9-10 and Ps 104:5-9."
+      - "First beings produced from the creator's mouth: compare Gen 2:7 (breath), Ps 33:6 ('by the breath of his mouth all their host') and Q 15:29."
+      - "Heliopolis (On) and its sun-sanctuary: Gen 41:45, Jer 43:13."
+  # ---------------- Ptahhotep ----------------
+  - id: ane-ptahhotep-w1-1-prologue-old-age
+    tradition: ane-egyptian
+    title: "Ptahhotep prologue: the vizier's old age, the 'staff of old age', none is born wise"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse (pBN 186-194)"
+    read: ["Ptahhotep W1:4_1-5_6/2"]
+    tags:
+      - {motif: infirmities-of-old-age-catalogue, refs: ["Ptahhotep W1:4_2/3-5_2/4"], note: "jr,t.du nḏs.w ꜥnḫ.du jmr.w ... rʾ gr ... jb tm.w n sḫꜣ.n=f sf ... bw-nfr ḫpr m bw-bjn: eyes weak, ears deaf, mouth silent, heart cannot remember yesterday, the good has become bad"}
+      - {motif: staff-of-old-age-son-as-successor, refs: ["Ptahhotep W1:5_2/5-5_3"], note: "mdw-jꜣw 'staff of old age'"}
+      - {motif: wise-father-instructs-son, refs: ["Ptahhotep W1:5_3", "Ptahhotep W1:5_4-5_5/2", "Ptahhotep W1:5_6/2"]}
+      - {motif: no-one-born-wise, refs: ["Ptahhotep W1:5_6"], note: "nn msi̯.y sꜣw"}
+      - {motif: king-commissions-instruction, refs: ["Ptahhotep W1:5_4-5_5"], note: "the king (Isesi) orders: 'teach him first about speech; then he will be an example for the children of the officials'"}
+    hints:
+      - "Old age catalogue: compare Eccl 12:1-7 (the keepers of the house tremble, the grinders cease, the windows darken) and 2 Sam 19:35 (Barzillai: can I taste what I eat?); Q 16:70 and 22:5 (returned to the most abject age, knowing nothing after knowing)."
+      - "Compare Prov 1:1-6 and Prov 4:1-4 (a father hands on teaching), and Q 31:12-13 (Luqman instructs his son)."
+  - id: ane-ptahhotep-w1-2-pride-and-disputants
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 1-4: do not be proud of knowledge; good speech found with maidservants; three kinds of disputant"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:5_8-6_3/2"]
+    tags:
+      - {motif: consult-ignorant-as-well-as-wise, refs: ["Ptahhotep W1:5_8/2-5_9/2"], note: "m ꜥꜣi̯ jb=k ḥr rḫ=k: 'do not be big-hearted because of your knowledge'"}
+      - {motif: wise-in-own-eyes-worse-than-fool, refs: ["Ptahhotep W1:5_8/2"]}
+      - {motif: wisdom-found-among-lowly, refs: ["Ptahhotep W1:5_10-5_10/2"], note: "dgw md,t nfr.t r wꜣḏ: good speech is more hidden than greenstone, yet found m-ꜥ ḥm,t ḥr bnw,t 'with the maidservants at the grindstones'"}
+      - {motif: wisdom-better-than-gold, refs: ["Ptahhotep W1:5_10"]}
+      - {motif: three-kinds-of-disputant, refs: ["Ptahhotep W1:5_10/3-5_12", "Ptahhotep W1:5_13-5_14/2", "Ptahhotep W1:6_1-6_3/2"]}
+      - {motif: answer-and-do-not-answer-fool, refs: ["Ptahhotep W1:5_13", "Ptahhotep W1:6_2-6_2/3"], note: "master the equal by silence while he speaks evil; the weak opponent: 'leave him alone, he will punish himself'"}
+    hints:
+      - "Compare Prov 3:7, 26:12 and Prov 3:13-15; 8:11 (wisdom more precious than jewels); Prov 26:4-5 (answering a fool); Prov 15:1."
+  - id: ane-ptahhotep-w1-3-maat-and-plans
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 5-6: great is maat; human schemes fail, what the god commands happens"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:6_3/3-6_10/2"]
+    tags:
+      - {motif: truth-endures-lie-momentary, refs: ["Ptahhotep W1:6_5-6_7/2"], note: "wr mꜣꜥ,t wꜣḥ spd,t n ẖnn.t(w)=s ḏr rk Wsjr ... wn pḥwj mꜣꜥ,t wꜣḥ=s: 'great is maat, lasting its effect, undisturbed since Osiris; at the end maat endures'"}
+      - {motif: ill-gotten-wealth-does-not-last, refs: ["Ptahhotep W1:6_6-6_7/3"], note: "wrongdoing seizes wealth but has never landed its catch"}
+      - {motif: plans-of-men-fail-gods-command-prevails, refs: ["Ptahhotep W1:6_8-6_10"], note: "n pꜣu̯ ḥr n r(m)t ḫpr, wḏ.t nṯr pw ḫpr.t: 'the scheming of men has never come to pass; what happens is what the god commands'"}
+      - {motif: god-punishes-in-kind, refs: ["Ptahhotep W1:6_8-6_8/2"], note: "ḫsf nṯr m-mj,tt 'the god punishes likewise'"}
+      - {motif: contentment-what-gods-give-comes, refs: ["Ptahhotep W1:6_10/2"]}
+    hints:
+      - "Compare Prov 19:21 ('many plans in a man's heart, but the counsel of YHWH stands'), Prov 16:9, Ps 33:10-11 and Q 8:30; Q 3:54."
+      - "Maat lasting: compare Prov 12:19; 10:25; Ps 119:160."
+      - "Ill-gotten wealth: Prov 10:2; 13:11; Jer 17:11."
+  - id: ane-ptahhotep-w1-4-table-and-messenger
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 7-8: at a great man's table; the faithful messenger"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:6_11-7_5"]
+    tags:
+      - {motif: table-manners-before-a-great-man, refs: ["Ptahhotep W1:6_11-7_1/5"], note: "gmḥ=k r n,tt m-bꜣḥ=k: look at what is before you; speak only when he addresses you"}
+      - {motif: abomination-nig-gig-to-god-or-king, refs: ["Ptahhotep W1:7_1", "Ptahhotep W1:7_5"], note: "bw,t kꜣ pw 'it is the abomination of the ka'"}
+      - {motif: eating-is-under-gods-direction, refs: ["Ptahhotep W1:7_2/6-7_3"], note: "jw wnm tʾ ẖr sḫr nṯr; only the ignorant complains"}
+      - {motif: faithful-messenger-exact, refs: ["Ptahhotep W1:7_3/2-7_4"]}
+      - {motif: hold-to-maat-do-not-swerve, refs: ["Ptahhotep W1:7_4/2-7_4/3"], note: "ndri̯ mꜣꜥ,t m sn s(j)"}
+      - {motif: speak-ill-of-no-one-great-or-small, refs: ["Ptahhotep W1:7_4/5"]}
+    hints:
+      - "Compare Prov 23:1-3 ('when you sit to dine with a ruler, consider well what is before you') and Sir 31:12-18."
+      - "Faithful messenger: Prov 25:13; 13:17; 'abomination of YHWH' formula, Prov 6:16; 11:1."
+      - "Do not turn aside right or left: Deut 5:32; Josh 1:7; Prov 4:27."
+  - id: ane-ptahhotep-w1-5-harvest-childless-rich
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 9-10: the god-given harvest, the childless, serving the man who rose from poverty"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:7_5/2-7_9"]
+    tags:
+      - {motif: do-not-boast-of-god-given-harvest, refs: ["Ptahhotep W1:7_5/2-7_5/3"], note: "ḏi̯ st nṯr wr m-ꜥ=k: the god gives it in abundance into your hand"}
+      - {motif: rich-man-seizes-like-crocodile-in-court, refs: ["Ptahhotep W1:7_5/4"]}
+      - {motif: do-not-mock-the-childless, refs: ["Ptahhotep W1:7_6-7_7"], note: "jn wꜥ sḫpr.w nṯr: 'it is a single man whom the god makes prosper'"}
+      - {motif: wealth-comes-from-god-to-his-beloved, refs: ["Ptahhotep W1:7_7/2-7_8/5"], note: "n jyi̯.y js ḫ,t ḏs, hp=sn pw n mrr.w=sn ... jn nṯr jri̯ jqr=f"}
+      - {motif: god-gives-sleep-to-his-beloved, refs: ["Ptahhotep W1:7_9"], note: "ḫsf=f ḥr=f jw=f sḏr: the god protects him even while he sleeps"}
+    hints:
+      - "Compare Prov 10:22 ('the blessing of YHWH makes rich'), Deut 8:17-18, and Ps 127:2 (he gives to his beloved in sleep)."
+      - "The childless honoured: Isa 54:1; 56:3-5; 1 Sam 2:5; contrast Hannah mocked, 1 Sam 1:6."
+  - id: ane-ptahhotep-w1-6-follow-heart
+    tradition: ane-egyptian
+    title: "Ptahhotep maxim 11: follow your heart as long as you live"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:7_9/2-7_10/2"]
+    tags:
+      - {motif: follow-your-heart-while-you-live, refs: ["Ptahhotep W1:7_9/2-7_9/5"], note: "šms jb=k tr n wnn=k; bw,t kꜣ pw ḥḏi̯.t ꜣ,t=f"}
+      - {motif: white-garments-and-oil-enjoy-life, refs: ["Ptahhotep W1:7_9/2", "Ptahhotep W1:7_10"]}
+    hints:
+      - "Compare Eccl 11:9 ('walk in the ways of your heart'), Eccl 9:7-10 and Eccl 2:24; contrast Num 15:39 ('do not follow your own heart')."
+  - id: ane-ptahhotep-w1-7-good-and-bad-son
+    tradition: ane-egyptian
+    title: "Ptahhotep maxim 12: the son who follows your ways, and the son the gods rejected in the womb"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:7_10/3-8_1/3"]
+    tags:
+      - {motif: good-son-is-true-son, refs: ["Ptahhotep W1:7_10/3-7_11/4"], note: "zꜣ=k pw n(.j) sw sti̯ kꜣ=k: 'he is your son, begotten by your ka'"}
+      - {motif: bad-son-doomed-from-womb, refs: ["Ptahhotep W1:7_11/5-8_1"], note: "wdd sdb n=f pw m ẖ,t: 'one for whom misfortune was ordained in the womb'"}
+      - {motif: fate-decreed-in-the-true-womb, refs: ["Ptahhotep W1:8_1"]}
+      - {motif: god-led-cannot-stray-boatless-cannot-cross, refs: ["Ptahhotep W1:8_1/2-8_1/3"]}
+    hints:
+      - "The rebellious son: Deut 21:18-21; Prov 17:25; 19:26. Destined from the womb: Ps 58:4 (3) ('the wicked go astray from the womb'), Jer 1:5, Rom 9:11-13."
+      - "Whom God guides none can lead astray: Q 39:36-37; Q 18:17; Ps 37:23-24."
+  - id: ane-ptahhotep-w1-8-antechamber-and-belly
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 13-15: in the antechamber, the trusted man, the one who listens to his belly, reporting"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:8_2-8_13/3"]
+    tags:
+      - {motif: keep-your-rank-in-antechamber, refs: ["Ptahhotep W1:8_2-8_4/3"], note: "wsḫ s,t n.t jꜣš n=f: 'broad is the seat of him who is called'"}
+      - {motif: god-promotes-to-office, refs: ["Ptahhotep W1:8_5"], note: "jn nṯr sḫnt s,t"}
+      - {motif: belly-follower-belongs-to-enemy, refs: ["Ptahhotep W1:8_9/2-8_11"], note: "sḏm n ẖ,t=f n,(j)-sw ḫft,(j)"}
+      - {motif: good-name-without-speaking, refs: ["Ptahhotep W1:8_8-8_9"]}
+      - {motif: report-plainly-in-council, refs: ["Ptahhotep W1:8_11/2-8_13/3"]}
+    hints:
+      - "Compare Prov 25:6-7 and Luke 14:8-11 (take the lower seat until called up); Ps 75:7-8 (God exalts)."
+      - "Belly as master: Phil 3:19; Rom 16:18; Prov 23:2."
+  - id: ane-ptahhotep-w1-9-leader-and-petitioner
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 16-17: the leader's lasting work; hear the petitioner out"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:8_14-9_6"]
+    tags:
+      - {motif: hear-the-petitioner-out, refs: ["Ptahhotep W1:9_3/2-9_6"], note: "m gnf sw r sk.t ẖ,t=f: do not rebuff him until he has swept out his belly; snꜥꜥ jb pw sḏm nfr"}
+      - {motif: hidden-crocodile-of-reproach, refs: ["Ptahhotep W1:9_2-9_3"], note: "bss kꜣp,w ḫpr sfꜣ,t: when the hidden crocodile emerges, contempt arises"}
+      - {motif: think-of-days-to-come, refs: ["Ptahhotep W1:8_14-9_1"]}
+    hints:
+      - "Compare Prov 18:13 (answering before hearing) and Job 29:12-16; 31:13 (Job hears his servants' cause); Exod 22:21-23."
+  - id: ane-ptahhotep-w1-10-women-of-house
+    tradition: ane-egyptian
+    title: "Ptahhotep maxim 18: do not approach the women where you are a guest"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:9_7-9_13"]
+    tags:
+      - {motif: avoid-women-of-house-brief-pleasure-death, refs: ["Ptahhotep W1:9_7-9_11"], note: "ꜥḥꜣ.t(j) m tkn m ḥm,t ... ꜣ,t kt.t mj,tt rsw,t jw pḥ.tw mt ḥr rḫ st: 'a brief moment like a dream, and one meets death for knowing it'"}
+      - {motif: strange-woman-warning, refs: ["Ptahhotep W1:9_7"]}
+      - {motif: her-house-leads-to-death-and-rephaim, refs: ["Ptahhotep W1:9_11"]}
+      - {motif: freedom-from-desire-brings-success, refs: ["Ptahhotep W1:9_12-9_13"]}
+    hints:
+      - "Compare Prov 6:24-35; 7:22-27 ('as an ox to the slaughter... her house is the way to Sheol'); Prov 5:3-5."
+      - "Joseph and his master's wife: Gen 39:7-12 and Q 12:23-25."
+  - id: ane-ptahhotep-w1-11-greed
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 19-20: beware of greed, the incurable sickness"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:9_13/2-10_7/2"]
+    tags:
+      - {motif: greed-incurable-disease, refs: ["Ptahhotep W1:10_1-10_4"], note: "ꜥwn-jb 'greed'; ḫꜣ,t pw mr.t n.t bjṯw; it parts wife and husband; 'a bag of everything blameworthy'"}
+      - {motif: greed-takes-life-of-its-owner, refs: ["Ptahhotep W1:10_1-10_2"]}
+      - {motif: greedy-man-has-no-tomb, refs: ["Ptahhotep W1:10_4/2-10_5"], note: "nn-wn js ꜥwn-jb"}
+      - {motif: do-not-be-greedy-toward-kin, refs: ["Ptahhotep W1:10_5/2-10_7/2"], note: "wr twꜣ n sf,w r nḫt: the claim of the gentle is greater than that of the strong"}
+    hints:
+      - "Compare Prov 1:19; 15:27 ('he who is greedy for gain troubles his house'); 1 Tim 6:10 (love of money a root of all evils); Q 59:9 and 64:16 (saved from the greed of his soul)."
+      - "The meek: Ps 37:11; Matt 5:5."
+  - id: ane-ptahhotep-w1-12-wife
+    tradition: ane-egyptian
+    title: "Ptahhotep maxim 21: found a household and love your wife - she is a fertile field"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:10_8-10_12/3"]
+    tags:
+      - {motif: provide-wife-food-clothing-oil, refs: ["Ptahhotep W1:10_8-10_10"], note: "mḥ ẖ,t=s ḥbs sꜣ=s pẖr,t pw n.t ḥꜥ=s mrḥ,t, sꜣwi̯ jb=s tr n wnn=k"}
+      - {motif: wives-as-tilth, refs: ["Ptahhotep W1:10_10/2"], note: "ꜣḥ,t pw ꜣḫ.t n nb=s: 'she is a profitable field for her lord'"}
+      - {motif: keep-wife-from-power, refs: ["Ptahhotep W1:10_10/3-10_12/3"], note: "sḥri̯ s(j) r sḫm ... ḏꜥ=s pw jr,t=s: 'her eye is her storm'; obscure lines"}
+    hints:
+      - "Compare Q 2:223 ('your women are a tilth for you'), Exod 21:10 (food, clothing and conjugal rights), Eccl 9:9 and Prov 5:18-19."
+  - id: ane-ptahhotep-w1-13-dependents-and-rumour
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 22-23: satisfy your dependents; do not repeat slander"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:11_1-11_8/2"]
+    tags:
+      - {motif: satisfy-dependents-friends-in-trouble, refs: ["Ptahhotep W1:11_1-11_4/2"], note: "ḫpr n ḥss.w nṯr; one cannot know what will happen tomorrow; in disaster it is the dependents one brings"}
+      - {motif: no-one-knows-tomorrow, refs: ["Ptahhotep W1:11_2"], note: "n rḫ.n=tw ḫpr.t sjꜣ=f dwꜣ"}
+      - {motif: do-not-repeat-rumour, refs: ["Ptahhotep W1:11_5-11_8/2"], note: "jmi̯=k wḥm mskj n md,t n sḏm=k sw; pri̯.w pw n tꜣ-ẖ,t 'it is the issue of a hot belly'"}
+    hints:
+      - "Compare Prov 27:1 ('you do not know what a day may bring'), Q 31:34 ('no soul knows what it will earn tomorrow') and Jas 4:13-14."
+      - "Rumour: Prov 18:8; 26:20-22; Lev 19:16; Q 49:6 and 49:12."
+      - "A friend in adversity: Prov 17:17; 18:24; 27:10."
+  - id: ane-ptahhotep-w1-14-speech-and-temper
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 24-27: silence in council; master the hot temper; teach the great"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:11_8/3-12_13/2"]
+    tags:
+      - {motif: silence-better-than-speech, refs: ["Ptahhotep W1:11_9-11_11/2"], note: "gr=k ꜣḫ st r tftf; qsn md,t r kꜣ,t nb.t 'speech is harder than any work'"}
+      - {motif: pride-before-fall, refs: ["Ptahhotep W1:12_1"], note: "m qꜣi̯ jb=k tm=f dḥj: 'be not high-hearted lest it be brought low'"}
+      - {motif: hot-and-cool-tempers, refs: ["Ptahhotep W1:12_1/2-12_3"], note: "jw nsw,t n.t tꜣ jb 'the flame of the hot-hearted'"}
+      - {motif: do-not-befriend-hothead, refs: ["Ptahhotep W1:12_2/3"]}
+      - {motif: sad-all-day-or-merry-all-day, refs: ["Ptahhotep W1:12_4-12_4/2"]}
+      - {motif: do-not-oppose-great-man-in-his-moment, refs: ["Ptahhotep W1:12_6/2-12_9"]}
+      - {motif: teach-the-great-what-profits-him, refs: ["Ptahhotep W1:12_9/3-12_13/2"]}
+    hints:
+      - "Compare Prov 17:27-28 ('even a fool who keeps silent is thought wise'), Prov 10:19, Jas 1:19; Prov 16:18 and 29:23; Prov 15:18; 22:24-25."
+      - "Laughter and grief: Eccl 3:4; 7:2-4."
+  - id: ane-ptahhotep-w1-15-judge-and-superior
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 28-31: the impartial judge; the man risen from poverty; bow to your superior"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:13_1-13_12"]
+    tags:
+      - {motif: impartial-judgment-neither-poor-nor-great, refs: ["Ptahhotep W1:13_1-13_3/2"], note: "md(w)y=k m rḏi̯ ḥr gs: 'when you speak, do not lean to one side'; protect the arms of the balance"}
+      - {motif: no-partiality-in-judgment, refs: ["Ptahhotep W1:13_2"]}
+      - {motif: do-not-forget-former-poverty-wealth-gift-of-god, refs: ["Ptahhotep W1:13_6-13_8/3"], note: "ḫpr n=k m rḏi̯.w nṯr: 'it came to you as a gift of god'"}
+      - {motif: wealth-comes-from-god-to-his-beloved, refs: ["Ptahhotep W1:13_8/2"]}
+      - {motif: bow-to-your-superior, refs: ["Ptahhotep W1:13_9-13_12"], note: "ẖms sꜣ=k n ḥr(,j)-tp=k"}
+    hints:
+      - "Compare Lev 19:15, Deut 1:17; 16:19, Prov 24:23 ('to show partiality in judgment is not good'); Q 4:135; 5:8."
+      - "Remember your humble past: Deut 8:11-18; 1 Sam 15:17."
+  - id: ane-ptahhotep-w1-16-neighbour-and-woman
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 32-33: do not rob your neighbour; do not force one who resists"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:13_12/2-14_6"]
+    tags:
+      - {motif: do-not-rob-neighbours-house, refs: ["Ptahhotep W1:13_12/2-14_3/2"], note: "m ṯꜣwy.w pr sꜣḥ.w, m dꜣjr ḫ,t tkn jm=k"}
+      - {motif: covet-prohibition, refs: ["Ptahhotep W1:14_1"]}
+      - {motif: do-not-force-unwilling-partner, refs: ["Ptahhotep W1:14_4-14_6"], note: "jmi̯=k nk ḥm,t ẖrd rḫ.n=k ḫsf.t r mw ḥr ḥꜣ,tj=f; the clause is difficult: TLA reads woman or child resisting"}
+    hints:
+      - "Compare Exod 20:15-17 and Deut 5:19-21; Prov 3:29 ('do not plan harm against your neighbour who dwells trustingly beside you')."
+      - "Compare the rape laws Deut 22:25-27 and 2 Sam 13:12-14 (Tamar's refusal)."
+  - id: ane-ptahhotep-w1-17-friend-generosity-wife
+    tradition: ane-egyptian
+    title: "Ptahhotep maxims 34-37: test a friend alone; be generous; punish rightly; keep a cheerful wife"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:14_6/2-15_7/3"]
+    tags:
+      - {motif: test-friend-alone, refs: ["Ptahhotep W1:14_6/2-14_12"], note: "m šnn r=k tkn jm=f; jri̯ sp ḥnꜥ=f wꜥ.w"}
+      - {motif: no-escape-from-the-one-who-decreed, refs: ["Ptahhotep W1:14_11/3-14_12"], note: "n whi̯.n=tw m šꜣ sw: one cannot escape the one who destined him"}
+      - {motif: generosity-empty-belly-accuses, refs: ["Ptahhotep W1:14_12/2-15_2"], note: "ḥḏ ḥr=k tr n wnn=k; srḫ,y pw šwi̯ m ẖ,t=f"}
+      - {motif: kindness-remembered-after-office, refs: ["Ptahhotep W1:15_2/2-15_4/3"], note: "ḫ,t ky n ky: 'the goods of one belong to another'"}
+      - {motif: punish-only-for-real-wrong, refs: ["Ptahhotep W1:15_5-15_6"]}
+      - {motif: provide-wife-food-clothing-oil, refs: ["Ptahhotep W1:15_6/2-15_7/3"], note: "a plump, cheerful wife: m nš s(j) 'do not divorce her', let her eat"}
+    hints:
+      - "Compare Matt 18:15 and Prov 25:9 (argue your case with your neighbour himself); Prov 11:24-25; 3:27-28; Eccl 11:1-2."
+      - "Divorce: Mal 2:14-16."
+  - id: ane-ptahhotep-w1-18-epilogue-hearing
+    tradition: ane-egyptian
+    title: "Ptahhotep epilogue I: the worth of hearing; the son who hears and the fool who does not"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:15_8-17_9"]
+    tags:
+      - {motif: words-of-wisdom-for-posterity, refs: ["Ptahhotep W1:15_8-15_12/2"], note: "jnn.tw md,t nb.t n ski̯.n m tꜣ pn ḏ,t; nfr ḏd n m-ḫt 'it is good to speak to posterity'"}
+      - {motif: hearing-loved-by-god, refs: ["Ptahhotep W1:16_3-16_7/2"], note: "mrr.w nṯr pw sḏm, n sḏm.n msdd.w nṯr; jn jb sḫpr nb=f m sḏm m tm sḏm"}
+      - {motif: obedient-son-blessed-with-old-age, refs: ["Ptahhotep W1:16_5/2-16_6", "Ptahhotep W1:16_9/2-16_13"]}
+      - {motif: fathers-instruction-mothers-torah, refs: ["Ptahhotep W1:16_5/2", "Ptahhotep W1:16_9/2"], note: "nfr.wj šzp zꜣ ḏd jt=f; nfr.wj sḏm zꜣ n jt=f"}
+      - {motif: wise-man-rises-early, refs: ["Ptahhotep W1:17_3"], note: "dwꜣ rḫ r smn.t=f"}
+      - {motif: fool-is-living-dead, refs: ["Ptahhotep W1:17_4/2-17_9"], note: "mt ꜥnḫ rꜥ-nb 'a living dead man daily'; ꜥnḫ=f m mt.t ẖr=s"}
+      - {motif: heart-is-life-of-man, refs: ["Ptahhotep W1:16_8"], note: "ꜥnḫ-wḏꜣ-snb n z jb=f"}
+    hints:
+      - "Compare Prov 1:8-9; 4:1-10 and Exod 20:12 (honour father, long life); Prov 4:23 (from the heart are the issues of life); 1 Kgs 3:9 (a 'hearing heart', lev shomea')."
+      - "Hearing preferred to sacrifice: 1 Sam 15:22; Deut 6:4. God hardens or opens hearts: Exod 7:3; Q 2:7; Q 7:179 ('they have ears but do not hear')."
+      - "Fools as dead while alive: 1 Tim 5:6; Q 6:122; Q 35:22."
+  - id: ane-ptahhotep-w1-19-epilogue-110-years
+    tradition: ane-egyptian
+    title: "Ptahhotep epilogue II: the obedient son, a follower of Horus; 110 years of life; colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, pPrisse"
+    read: ["Ptahhotep W1:17_10-19.9"]
+    tags:
+      - {motif: obedient-son-blessed-with-old-age, refs: ["Ptahhotep W1:17_10-17_10/3"], note: "zꜣ sḏm.w m šms Ḥr: 'the hearing son is a follower of Horus'"}
+      - {motif: teach-children-constantly, refs: ["Ptahhotep W1:17_10/3-17_13/2"], note: "he will tell it to his children, renewing his father's teaching; then they speak to their children"}
+      - {motif: justice-makes-children-live, refs: ["Ptahhotep W1:18_1/2"], note: "srwd mꜣꜥ,t ꜥnḫ ms.w=k"}
+      - {motif: do-not-say-one-thing-then-another, refs: ["Ptahhotep W1:18_7-18_8"]}
+      - {motif: conceal-your-heart-guard-your-mouth, refs: ["Ptahhotep W1:18_12-18_12/2"]}
+      - {motif: father-taught-son-in-womb, refs: ["Ptahhotep W1:19_4"], note: "the father spoke to him while he was still entirely in the womb"}
+      - {motif: hero-age-110, refs: ["Ptahhotep W1:19_7/2"], note: "jṯi̯.n=j rnp,t 110 m ꜥnḫ"}
+      - {motif: patriarch-long-lifespan, refs: ["Ptahhotep W1:19_7/2"]}
+      - {motif: scribal-colophon-it-has-come-well, refs: ["Ptahhotep W1:19.9"]}
+    hints:
+      - "110 years: Joseph (Gen 50:22, 26) and Joshua (Josh 24:29), the ideal Egyptian lifespan."
+      - "Teach your children: Deut 6:6-7; 11:19; Ps 78:3-6."
+      - "Guard your mouth: Prov 13:3; 21:23; Ps 141:3."

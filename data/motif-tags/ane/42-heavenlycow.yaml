@@ -127,6 +127,50 @@ new_motifs:
   verdict-repeatedly-won-but-ignored: {label: "The claimant complains that he has been declared right in hall after hall, a thousand times, yet his opponent ignores the verdict", cluster: law}
   high-god-belittles-other-gods-gift: {label: "The high god retorts that the gift a god boasts of (grain) would have existed even if that god had never been born", cluster: theology}
   justice-sunk-in-underworld: {label: "The god of the dead complains that justice (Maat) has been allowed to sink into the underworld", cluster: theology}
+  father-son-hostility-in-crisis: {label: "In the time of ruin a man sees his own son as his enemy", cluster: lament}
+  workers-abandon-their-crafts: {label: "In the collapse the trades (doorkeepers, washermen, bird-catchers, brewers) abandon their work or turn to plunder and arms", cluster: lament}
+  ancestors-foretold-the-calamity: {label: "The present calamity is what the ancestors foretold", cluster: prophecy}
+  foreigners-have-become-people-everywhere: {label: "Foreigners have become 'people' (Egyptians) everywhere and foreign bowmen have entered the land", cluster: lament}
+  inundation-comes-but-none-ploughs: {label: "The Nile flood rises but no one ploughs for it", cluster: lament}
+  land-turns-like-potters-wheel: {label: "The land spins round like a potter's wheel (the world turned upside down)", cluster: lament}
+  crocodiles-glutted-with-the-dead: {label: "Crocodiles are glutted because men go to them of their own accord (drown themselves)", cluster: lament}
+  no-one-knows-what-has-happened: {label: "Everyone says 'we do not know what has happened throughout the land'", cluster: lament}
+  desert-throughout-the-land: {label: "The desert has spread throughout the land and the nomes are hacked up", cluster: lament}
+  provinces-withhold-taxes: {label: "The southern provinces pay no taxes because of strife and the treasury is empty", cluster: lament}
+  laughter-has-perished-mourning-in-land: {label: "Laughter has perished and is no longer made; mourning mixed with lamentation is throughout the land", cluster: lament}
+  noble-indistinguishable-from-pauper: {label: "The son of a well-born man can no longer be distinguished from a have-not", cluster: lament}
+  if-i-knew-where-god-is: {label: "A sufferer says: if only I could perceive and know where god is, I would act for him", cluster: theodicy}
+  truth-in-name-wrong-in-deed: {label: "Maat (truth) is in the land in name only; wrongdoing is what people do while leaning on it", cluster: lament}
+  cattle-mourn-for-state-of-land: {label: "The herds weep and the cattle mourn because of the state of the land", cluster: lament}
+  cult-offerings-futile: {label: "Offerings and service to the gods are futile: none can reach the god and giving to him is misery", cluster: theodicy}
+  travellers-robbed-and-killed-on-roads: {label: "Bandits lurk in the bushes by the roads to rob, beat and kill the night traveller", cluster: lament}
+  famine-people-eat-fodder: {label: "In the famine people eat plant fodder and drink water; no flour is found and seed is taken from the pig's mouth", cluster: lament}
+  speaker-regrets-not-speaking-earlier: {label: "The speaker wishes he had raised his voice at the time, to save himself from the suffering", cluster: lament}
+  scribes-slain-and-registers-destroyed: {label: "Offices are broken open, scribes slain, the land registers and laws thrown out and torn up in the streets", cluster: lament}
+  king-carried-off-by-rabble: {label: "Something never done before: the king is removed (carried off) by the rabble", cluster: lament}
+  city-falls-in-an-hour: {label: "The royal city has fallen down in a single hour", cluster: lament}
+  mothers-sell-children-for-necessities: {label: "Rich women give away their children in exchange for beds (necessities)", cluster: lament}
+  nobles-flee-in-fear-of-death: {label: "Rich ladies and the chiefs of the land flee, prostrate with fear of death", cluster: lament}
+  brother-slain-beside-brother: {label: "A man is slain at his brother's side and the brother flees to save himself", cluster: lament}
+  day-does-not-dawn: {label: "Day does not dawn on the land (darkness persists)", cluster: lament}
+  royal-estate-plundered: {label: "The king's estate and workshop are a free-for-all and without their revenues of grain, fowl, fish, linen and oil", cluster: lament}
+  refrain-destroy-enemies-of-residence: {label: "Refrain 'Destroy the enemies of that august Residence!' with a varying epithet each time", cluster: lament}
+  why-does-god-create-humankind: {label: "The sage asks why the god goes on creating humankind when the fearful cannot be told from the violent", cluster: theodicy}
+  god-should-bring-coolness-on-heat: {label: "The god should come and bring coolness upon the heat (of strife)", cluster: theodicy}
+  fire-in-the-human-heart: {label: "Fire (violent passion) belongs to the hearts of humankind", cluster: theodicy}
+  creator-has-hu-sia-maat: {label: "Authoritative Utterance (Hu), Perception (Sia) and Truth (Maat) are with the creator", cluster: theology}
+  statues-burned-tombs-destroyed: {label: "People enter the temples; statues are burned and tombs and the bodies of the dead destroyed, and the gods weep", cluster: lament}
+  god-accused-of-speaking-falsehood: {label: "The sage tells the god he has brought this about because he spoke falsehood", cluster: theodicy}
+  would-that-you-tasted-the-misery: {label: "The sage wishes the god could taste a little of the misery himself", cluster: theodicy}
+  each-fights-for-own-and-protects-himself: {label: "Every man fights for his own (his sister) but only protects himself; every man slays his brother", cluster: lament}
+  foreign-enemies-named-nubians-libyans-asiatics: {label: "The sage asks whether the attackers are Nubians or Libyans and laments that Asiatics have learned the governance of Egypt", cluster: ethnography}
+  egypt-will-not-be-given-to-sand: {label: "Popular wisdom says Egypt will not be given over to the sand (desert), for it is strong on its borders", cluster: lament}
+  god-made-people-live-yet-they-fear-tomorrow: {label: "The god has done good and made people live, yet they cover their faces in fear of the morrow", cluster: theodicy}
+  old-man-dies-leaving-child-heir: {label: "An old man is carried off by death while his son is still a child without understanding, and the father weeps for him", cluster: lament}
+  they-call-but-do-not-listen: {label: "If one calls to them, they do not listen", cluster: lament}
+  hands-build-pyramids-dig-canals: {label: "In good times men's hands build pyramids, dig canals and plant trees for the gods", cluster: lament}
+  people-drunk-and-happy-in-restored-order: {label: "It is good when people are drunk, drink and their hearts are happy, with jubilation in their mouths", cluster: lament}
+  shelter-for-the-homeless: {label: "It is good when every man's need is met with a blanket in the shade and the door shut on him who slept in a bush", cluster: lament}
 units:
   - id: ane-heavenlycow-w1-council-and-eye-sent
     tradition: ane-egyptian
@@ -548,7 +592,6 @@ units:
       - {motif: river-turned-to-blood, refs: ["Ipuwer 2:10"]}
       - {motif: land-turns-like-potters-wheel, refs: ["Ipuwer 2:8/4"], note: "tꜣ ḥr msnḥ mj jrr nḥp"}
       - {motif: crocodiles-glutted-with-the-dead, refs: ["Ipuwer 2:12-2:12/2"], note: "the crocodiles gorge, for men go to them of themselves"}
-      - {motif: people-few-brothers-buried-everywhere, refs: ["Ipuwer 2:13/3-2:13/4"]}
       - {motif: no-one-knows-what-has-happened, refs: ["Ipuwer 2:3/4-2:3/5"], note: "n rḫ =n ḫpr.t ḫt tꜣ"}
     hints:
       - "The river of blood from which men drink and the thirst for water compare with the first plague, Exod 7:17-24 (the Egyptians dig round the Nile for water), Ps 78:44 and 105:29; Q 7:133 (flood, locusts, lice, frogs and blood)."
@@ -620,3 +663,168 @@ units:
       - "Brother against brother: Isa 19:2 (Egyptian against Egyptian, brother against brother), Jer 9:4, Mic 7:2-6."
       - "The wish that humankind end, with no birth: Job 3:3-10, Jer 20:14-18; compare the reverse wish of Gen 9:1."
       - "Futility of offerings: Isa 1:11-15, Mal 1:10."
+  - id: ane-ipuwer-6-hunger-and-records-destroyed
+    tradition: ane-egyptian
+    title: "'O, yet' - hunger, magic stripped bare, scribes slain and registers destroyed, the poor in the Ennead's place (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 6:1-6:14/2"]
+    tags:
+      - {motif: lament-refrain-o-yet, refs: ["Ipuwer 6:1/2", "Ipuwer 6:3", "Ipuwer 6:5/2", "Ipuwer 6:8"]}
+      - {motif: famine-people-eat-fodder, refs: ["Ipuwer 6:1/2-6:4/2"], note: "one eats plant fodder and drinks water; no flour; seed is taken from the pig's mouth; barley has perished; the storehouse is razed"}
+      - {motif: speaker-regrets-not-speaking-earlier, refs: ["Ipuwer 6:4/3-6:5"], note: "'if only I had raised my voice at that time, so that it might save me from my suffering'"}
+      - {motif: sacred-writings-and-secrets-exposed, refs: ["Ipuwer 6:5/2-6:6/3"], note: "the sacred forehall's writings removed; the place of secrets bared; magic (ḥkꜣ,w) is stripped bare"}
+      - {motif: scribes-slain-and-registers-destroyed, refs: ["Ipuwer 6:7-6:9/2", "Ipuwer 6:9/2-6:10/2"], note: "offices opened, inventories removed; scribes slain; the field-register scribes' writings obliterated; the laws of the labour enclosure thrown out and torn up in the streets"}
+      - {motif: social-inversion-rich-and-poor-change-places, refs: ["Ipuwer 6:7/2", "Ipuwer 6:11-6:12/3"], note: "serfs become owners of serfs; wretches reach the position of the Ennead; officials' children cast into the streets"}
+      - {motif: tomb-robbing-and-mummies-cast-out, refs: ["Ipuwer 6:14-6:14/2"], note: "refrain repeating 4:4"}
+    hints:
+      - "Famine in the siege: Lam 1:11, 2:12, 4:4-10; 2 Kgs 6:25; and the prodigal eating swine's food, Luke 15:16."
+      - "The book of the law cast down and lost: 2 Kgs 22:8-13; the scrolls burned, Jer 36:23."
+      - "Wise and fool disagree: 'the wise says yes, the fool says no' (6:13-6:13/2) compares with Prov 26:4-5."
+  - id: ane-ipuwer-7-look-the-king-removed
+    tradition: ane-egyptian
+    title: "'Look' - fire risen, the king carried off by wretches, the pyramid emptied, the Residence fallen in an hour, the inversion of owners (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 7:1-8:7"]
+    tags:
+      - {motif: lament-refrain-look, refs: ["Ipuwer 7:1", "Ipuwer 7:2", "Ipuwer 7:4", "Ipuwer 7:9", "Ipuwer 8:1/2"], note: "m =tn ..."}
+      - {motif: king-carried-off-by-rabble, refs: ["Ipuwer 7:1/3", "Ipuwer 7:2/3-7:3"], note: "things never done before: the removal of the king by wretches (šdi̯(.t) nsw jn ḥwrw.pl); rebels against the uraeus of Re"}
+      - {motif: tomb-robbing-and-mummies-cast-out, refs: ["Ipuwer 7:2-7:2/2", "Ipuwer 7:8/2"], note: "he who was buried as a falcon is on a bier; what the pyramid hid is empty"}
+      - {motif: city-falls-in-an-hour, refs: ["Ipuwer 7:4-7:4/2"], note: "the secret of the land is bared; the Residence has fallen down in an hour (n wnw,t)"}
+      - {motif: sacred-writings-and-secrets-exposed, refs: ["Ipuwer 7:5/2-7:5/3"], note: "the 'primordial creature' (qrḥ,t) removed from its cavern; secrets of the kings bared"}
+      - {motif: have-nots-become-owners, refs: ["Ipuwer 7:8-8:5/2"], note: "he who had no coffin owns a tomb; he who had no boat owns ships; the owner of shade is in the storm; she who saw her face in water owns a mirror"}
+      - {motif: social-inversion-rich-and-poor-change-places, refs: ["Ipuwer 7:10-7:11/3", "Ipuwer 8:2/2-8:2/3"]}
+      - {motif: eat-drink-and-enjoy-gift-of-god, refs: ["Ipuwer 8:5/4-8:6/3"], note: "nfr z ḥr wnm kꜣ.pl =f; snm ḫ,t =k m ꜣw(,t)-jb; ꜣḫ,w pw n z wnm kꜣ.pl =f wḏ sw nṯr n ḥsj.n =f 'god allots it to the one he has favoured'"}
+    hints:
+      - "Eat your food in joy, the gift that god gives to the one he favours: Eccl 2:24-26, 3:13, 5:17-19, 9:7 ('go, eat your bread with joy')."
+      - "The city fallen in a single hour: Rev 18:10, 17, 19; Lam 4:6 (Sodom overthrown in a moment)."
+      - "Slaves rule and princes walk: Eccl 10:5-7, Prov 30:21-23, Lam 5:8."
+      - "Kings taken from their graves: Jer 8:1-2, Isa 14:18-20."
+  - id: ane-ipuwer-8-cattle-without-herdsman
+    tradition: ane-egyptian
+    title: "'Look' - ladies give children for beds, chiefs flee, offices like a herd without herdsman, a man slain beside his brother (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 8:7/2-9:14/3"]
+    tags:
+      - {motif: lament-refrain-look, refs: ["Ipuwer 8:7/2", "Ipuwer 8:9/2", "Ipuwer 9:2"]}
+      - {motif: mothers-sell-children-for-necessities, refs: ["Ipuwer 8:7/2"], note: "rich ladies give away their children for beds (r ḥnk,t.pl)"}
+      - {motif: nobles-flee-in-fear-of-death, refs: ["Ipuwer 8:13/2-8:14/2"], note: "rich ladies flee, prostrate in fear of death; chiefs flee 'for lack of a lord of favours'"}
+      - {motif: scattered-like-sheep-without-shepherd, refs: ["Ipuwer 9:2-9:3"], note: "every office is not in its place 'like a wandering herd without its herdsmen'; cattle wander with none to gather them; each fetches the one branded with his name"}
+      - {motif: brother-slain-beside-brother, refs: ["Ipuwer 9:3/2-9:3/4"], note: "smꜣmw.tw z r-gs sn =f; he flees to save himself"}
+      - {motif: have-nots-become-owners, refs: ["Ipuwer 9:3/5-9:5/3"], note: "he who had no ox-span owns herds; he who had no seed owns granaries"}
+      - {motif: workers-abandon-their-crafts, refs: ["Ipuwer 9:6", "Ipuwer 9:7/4"], note: "all craftsmen have ceased to work; the scribe's arms lie slack at home"}
+      - {motif: day-does-not-dawn, refs: ["Ipuwer 9:11/2"], note: "fragmentary: ⸮n(n)? ⸮tꜣ? ḥḏ ḥr =s 'day does not dawn on it'; context lost (9:8-9:14 badly broken)"}
+    hints:
+      - "Sheep without a shepherd: Num 27:17, 1 Kgs 22:17, Ezek 34:5-6, Zech 10:2, Matt 9:36."
+      - "Mothers trading children: Lam 4:10, 2 Kgs 6:28-29, Joel 3:3 (they sold a girl for wine)."
+      - "The darkness of the ninth plague (Exod 10:21-23) has sometimes been compared with 'day does not dawn' (9:11), but the line is too broken to be sure."
+  - id: ane-ipuwer-10-destroy-the-enemies
+    tradition: ane-egyptian
+    title: "'Destroy the enemies of that august Residence' - the plundered royal estate (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 10:1-10:11/3"]
+    tags:
+      - {motif: royal-estate-plundered, refs: ["Ipuwer 10:3/2-10:5/2"], note: "'let the Marshland weep, the king's workshop is a free-for-all'; the King's Estate without its revenues of barley, emmer, fowl, fish, linen, copper, oil"}
+      - {motif: refrain-destroy-enemies-of-residence, refs: ["Ipuwer 10:6", "Ipuwer 10:7/3", "Ipuwer 10:8", "Ipuwer 10:9/3", "Ipuwer 10:10", "Ipuwer 10:11/2"], note: "ḥḏi̯.pl ḫft,j.w.pl n.w ẖnw pf šps; many repetitions restored from the refrain"}
+    hints:
+      - "Compare the imprecations for Zion's enemies, Ps 137:7-9 and Lam 1:21-22, 3:64-66."
+  - id: ane-ipuwer-10-remember
+    tradition: ane-egyptian
+    title: "'Remember' - the lost rites; Re's decree; why does he create? (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 10:12-11:13"]
+    tags:
+      - {motif: remember-the-rites-litany, refs: ["Ipuwer 10:12", "Ipuwer 10:13/2", "Ipuwer 11:1", "Ipuwer 11:2", "Ipuwer 11:3", "Ipuwer 11:4", "Ipuwer 11:6", "Ipuwer 11:6/2"], note: "sḫꜣ.pl: building granaries, censing at daybreak, geese for the gods, chewing natron, raising flagpoles, plastering the temple white as milk, fixing the dates, removing the impure, sacrificing cattle"}
+      - {motif: why-does-god-create-humankind, refs: ["Ipuwer 11:11/3-11:12"], note: "after Re's decree (wḏ,t, restored): 'why does he seek to create (?) when the fearful is not distinguished from the fierce-hearted?' - reading uncertain"}
+      - {motif: god-should-bring-coolness-on-heat, refs: ["Ipuwer 11:13"], note: "jwi̯ jnn =f qbḥ ḥr t[ꜣ,w]"}
+    hints:
+      - "Remembering the lost temple festivals: Lam 1:4, 7 and 2:6-7 (the LORD has made Zion forget festival and sabbath); Ps 42:5 (how I went with the throng to the house of God)."
+      - "Why did God make man? Job 7:17-20 ('what is man that you make so much of him'), Ps 89:47-48 ('for what vanity have you created all the sons of men'); Q 23:115."
+  - id: ane-ipuwer-12-reproach-of-creator
+    tradition: ane-egyptian
+    title: The reproach of the creator - shepherd of all, 'is he asleep?', 'is he a shepherd who loves death?' (Admonitions of Ipuwer)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 12:1-13:8/2"]
+    tags:
+      - {motif: sage-reproaches-creator-as-negligent-shepherd, refs: ["Ipuwer 12:1-12:2", "Ipuwer 12:14/2"], note: "'he is the shepherd of everyone (mnj,w pw n(,j) bw-nb), there is no evil in his heart', yet his herd is lacking; 'is he a shepherd who loves death?' (jn jw m mnj,w mri̯ m(w)t)"}
+      - {motif: creator-should-have-destroyed-first-generation, refs: ["Ipuwer 12:2/2-12:2/3"], note: "ḥꜣ ꜥd =f bj(ꜣ),t =sn m ẖ,t.pl tp,(j)t kꜣ ḥwi̯ =f sḏb,w ḏꜣi̯ =f ꜥ r =s ski̯.y =f ꜥw,t jr,j jwꜥ.pl =sn"}
+      - {motif: fire-in-the-human-heart, refs: ["Ipuwer 12:2"], note: "ḫ,t n jb jr,j 'fire belongs to their hearts'"}
+      - {motif: god-asleep-when-appealed-to, refs: ["Ipuwer 12:5/2-12:6"], note: "'there is no pilot on duty; where is he today? is he perhaps asleep? his wrath cannot be seen; I cannot find you'"}
+      - {motif: creation-by-separation, refs: ["Ipuwer 12:11"], note: "nb-tm jri̯.n =f jwd p,t r zꜣtw 'the Lord of Everything made the separation of sky from earth'"}
+      - {motif: creator-has-hu-sia-maat, refs: ["Ipuwer 12:12/2-12:12/3"], note: "Ḥw Sjꜣ Mꜣꜥ,t ḥnꜥ =k, yet what you put in the land is uproar"}
+      - {motif: three-go-on-road-two-arrive, refs: ["Ipuwer 12:13/2-12:14"], note: "the many slay the few"}
+      - {motif: statues-burned-tombs-destroyed, refs: ["Ipuwer 12:8/2-12:10/3"], note: "people enter the temple; the gods weep; statues are burned and tombs destroyed"}
+      - {motif: god-accused-of-speaking-falsehood, refs: ["Ipuwer 13:1/4-13:2/2"], note: "'you have acted to bring this about, since you have spoken falsehood (ḏd.n =k grg)'"}
+      - {motif: would-that-you-tasted-the-misery, refs: ["Ipuwer 13:5/4"], note: "ḥꜣ dp =k m nhj n(,j) mꜣjr jr,j"}
+      - {motif: travellers-robbed-and-killed-on-roads, refs: ["Ipuwer 13:3-13:5/3"], note: "a man killed on his roof; the road netted; repeats 5:12"}
+    hints:
+      - "God as shepherd who neglects the flock: Ps 44:11-12, 22 (you made us like sheep for slaughter), Ps 74:1, Ps 80:1-2; contrast Ps 23 and Ezek 34:11-16."
+      - "'Is he asleep?' Ps 44:23-24 ('Awake! Why do you sleep, O Lord?'), Ps 121:4, 1 Kgs 18:27; contrast Q 2:255."
+      - "God should have destroyed the first generation: Gen 6:5-7 (God regrets having made man and resolves to blot him out) and Gen 8:21 (the inclination of man's heart is evil from his youth)."
+      - "Accusing God of deception: Jer 4:10, 20:7; Job 9:22-24."
+      - "Statues burned and temples entered: Ps 74:3-8, Lam 1:10, 2:7."
+  - id: ane-ipuwer-13-it-is-good-when
+    tradition: ane-egyptian
+    title: "'Indeed it is good when' - the restored order: ships, pyramids, canals, feasts (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 13:9-14:6"]
+    tags:
+      - {motif: it-is-good-when-litany, refs: ["Ipuwer 13:9", "Ipuwer 13:10/3", "Ipuwer 13:12/2", "Ipuwer 13:13", "Ipuwer 13:14", "Ipuwer 14:1", "Ipuwer 14:3"], note: "jw jr =f ḥmw nfr ..."}
+      - {motif: hands-build-pyramids-dig-canals, refs: ["Ipuwer 13:12/2"], note: "men's hands build pyramids, canals are dug, plantations made with trees for the gods"}
+      - {motif: people-drunk-and-happy-in-restored-order, refs: ["Ipuwer 13:13-13:14/2"], note: "r(m)ṯ.pl tḫ.w swrj =sn ... jb.pl =sn nfr; jubilation in mouths"}
+      - {motif: shelter-for-the-homeless, refs: ["Ipuwer 14:1"], note: "the need of every man fulfilled with a blanket in the shade; the door closed on him who slept in a bush"}
+    hints:
+      - "Visions of restored peace: Isa 65:21-23, Mic 4:4 (each under his vine and fig tree), Zech 8:4-5, Jer 31:12-13; Ps 104:15 (wine to gladden the heart)."
+  - id: ane-ipuwer-14-foreigners-and-defence
+    tradition: ane-egyptian
+    title: Asiatics, Nubians and Libyans; 'Egypt will not be given to the sand' (Admonitions of Ipuwer)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 14:9-15:12"]
+    tags:
+      - {motif: none-to-rescue-from-their-hand, refs: ["Ipuwer 14:12"], note: "n gmi̯.n.tw n,tj r ꜥḥꜥ ḥr mki̯.t st; Asiatics in a broken context"}
+      - {motif: each-fights-for-own-and-protects-himself, refs: ["Ipuwer 14:12/2", "Ipuwer 14:14/3"], note: "every man fights for his sister but protects himself; every man slays his brother; the youths raised become bowmen bent on destruction"}
+      - {motif: foreign-enemies-named-nubians-libyans-asiatics, refs: ["Ipuwer 14:13-14:14/2", "Ipuwer 15:1"], note: "'is it Nubians? ... is it Libyans? ... the Medjay are well-disposed'; the Asiatics are made to know the leadership of the land"}
+      - {motif: egypt-will-not-be-given-to-sand, refs: ["Ipuwer 15:2-15:2/4"], note: "nn ḏi̯.t(w) Km,t 〈r〉 šꜥy, nḫtw s(j) ḥr ḏr.w[w] =[s]; after this 15:5-15:10 are almost wholly lost (c. 10 verses)"}
+    hints:
+      - "The nations named as attackers: Nah 3:9 (Cush, Egypt, Put and Libya her helpers), Ezek 30:4-5, Jer 46:9."
+      - "Strangers learn the secrets of the land: Lam 1:10 (the nations have entered her sanctuary)."
+  - id: ane-ipuwer-15-ipuwer-answers-lord-of-all
+    tradition: ane-egyptian
+    title: What Ipuwer said in answer to the Lord of All, and the Lord of All's reply (Admonitions of Ipuwer)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 15:13-17:3"]
+    tags:
+      - {motif: sage-answers-lord-of-all, refs: ["Ipuwer 15:13", "Ipuwer 16:10"], note: "ḏd.t.n J-pw-wr wšb =f n ḥm n(,j) Nb-r-ḏr; the Lord of All's answer is restored at 16:10"}
+      - {motif: god-made-people-live-yet-they-fear-tomorrow, refs: ["Ipuwer 15:14-15:14/2"], note: "'you have done good in their hearts and made people live by them, yet they cover their faces for fear of the morrow'"}
+      - {motif: old-man-dies-leaving-child-heir, refs: ["Ipuwer 16:1-16:2/3"], note: "an aged man before he crosses over; his son a child without understanding; 'you carry him off'; the father weeps"}
+      - {motif: they-call-but-do-not-listen, refs: ["Ipuwer 16:13"], note: "jr jꜣꜥš =tw n =s[n] n ⸮[sḏ]m?.n =sn"}
+      - {motif: statues-burned-tombs-destroyed, refs: ["Ipuwer 16:13/3-16:14"], note: "'let the gods weep ... statues are burned, tombs destroyed and the bodies of the dead'; c. 20 verses lost after 16:4 and the end (17:1-3) destroyed"}
+    hints:
+      - "A dialogue in which the complainant answers God and God replies: Job 38-42, Hab 1:2-2:4, Jer 12:1-6."
+      - "Do not worry about tomorrow: Matt 6:34; Prov 27:1."
