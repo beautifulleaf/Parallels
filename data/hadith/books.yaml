@@ -1,0 +1,340 @@
+note: The 67 books (kutub) of al-Jāmiʿ al-Kāmil fī l-ḥadīth al-ṣaḥīḥ al-shāmil (Shamela book 47), with their Shamela page
+  ids (shamela_get_toc). Pages 5-105 are the compiler's introduction and 8687 the conclusion; they are not hadith and are
+  not read.
+shamela_book_id: 47
+books:
+- n: 1
+  title: كتاب الوحي
+  first_page: 106
+  last_page: 118
+  pages: 13
+- n: 2
+  title: كتاب الإيمان
+  first_page: 119
+  last_page: 784
+  pages: 666
+- n: 3
+  title: كتاب العلم
+  first_page: 785
+  last_page: 881
+  pages: 97
+- n: 4
+  title: كتاب الطهارة
+  first_page: 882
+  last_page: 955
+  pages: 74
+- n: 5
+  title: كتاب الغسل
+  first_page: 956
+  last_page: 984
+  pages: 29
+- n: 6
+  title: كتاب الحيض
+  first_page: 985
+  last_page: 1005
+  pages: 21
+- n: 7
+  title: كتاب الوضوء
+  first_page: 1006
+  last_page: 1102
+  pages: 97
+- n: 8
+  title: كتاب التيمم
+  first_page: 1103
+  last_page: 1114
+  pages: 12
+- n: 9
+  title: كتاب الصلاة
+  first_page: 1115
+  last_page: 1890
+  pages: 776
+- n: 10
+  title: كتاب المساجد
+  first_page: 1891
+  last_page: 1952
+  pages: 62
+- n: 11
+  title: كتاب صلاة العيدين
+  first_page: 1953
+  last_page: 1987
+  pages: 35
+- n: 12
+  title: كتاب الجمعة
+  first_page: 1988
+  last_page: 2068
+  pages: 81
+- n: 13
+  title: كتاب الجنائز
+  first_page: 2069
+  last_page: 2416
+  pages: 348
+- n: 14
+  title: كتاب الزكاة
+  first_page: 2417
+  last_page: 2659
+  pages: 243
+- n: 15
+  title: كتاب الصيام
+  first_page: 2660
+  last_page: 2940
+  pages: 281
+- n: 16
+  title: كتاب الحج
+  first_page: 2941
+  last_page: 3345
+  pages: 405
+- n: 17
+  title: كتاب البيوع
+  first_page: 3346
+  last_page: 3622
+  pages: 277
+- n: 18
+  title: كتاب المظالم والغصب
+  first_page: 3623
+  last_page: 3634
+  pages: 12
+- n: 19
+  title: كتاب اللقطة واللقيط
+  first_page: 3635
+  last_page: 3647
+  pages: 13
+- n: 20
+  title: كتاب الهبة، والهدية، والعمرى، والرقبى
+  first_page: 3648
+  last_page: 3674
+  pages: 27
+- n: 21
+  title: كتاب الفرائض
+  first_page: 3675
+  last_page: 3727
+  pages: 53
+- n: 22
+  title: كتاب الوصية والوقف
+  first_page: 3728
+  last_page: 3742
+  pages: 15
+- n: 23
+  title: كتاب العتق
+  first_page: 3743
+  last_page: 3768
+  pages: 26
+- n: 24
+  title: كتاب النكاح
+  first_page: 3769
+  last_page: 3979
+  pages: 211
+- n: 25
+  title: كتاب الطلاق
+  first_page: 3980
+  last_page: 4020
+  pages: 41
+- n: 26
+  title: كتاب الخلع
+  first_page: 4021
+  last_page: 4029
+  pages: 9
+- n: 27
+  title: كتاب اللعان
+  first_page: 4030
+  last_page: 4045
+  pages: 16
+- n: 28
+  title: كتاب الظهار والإيلاء
+  first_page: 4046
+  last_page: 4056
+  pages: 11
+- n: 29
+  title: كتاب العدد، والإحداد، والنفقات
+  first_page: 4057
+  last_page: 4074
+  pages: 18
+- n: 30
+  title: كتاب الرضاعة
+  first_page: 4075
+  last_page: 4092
+  pages: 18
+- n: 31
+  title: كتاب القضاء
+  first_page: 4093
+  last_page: 4134
+  pages: 42
+- n: 32
+  title: كتاب القصاص والجنايات
+  first_page: 4135
+  last_page: 4219
+  pages: 85
+- n: 33
+  title: كتاب الحدود
+  first_page: 4220
+  last_page: 4298
+  pages: 79
+- n: 34
+  title: كتاب المرتد وشاتم الرسول
+  first_page: 4299
+  last_page: 4311
+  pages: 13
+- n: 35
+  title: كتاب الأيمان والنذور
+  first_page: 4312
+  last_page: 4357
+  pages: 46
+- n: 36
+  title: كتاب الأضاحي
+  first_page: 4358
+  last_page: 4402
+  pages: 45
+- n: 37
+  title: كتاب العقيقة
+  first_page: 4403
+  last_page: 4421
+  pages: 19
+- n: 38
+  title: كتاب الصيد والذبائح
+  first_page: 4422
+  last_page: 4443
+  pages: 22
+- n: 39
+  title: كتاب جلود الميتة والسباع
+  first_page: 4444
+  last_page: 4459
+  pages: 16
+- n: 40
+  title: كتاب الأطعمة
+  first_page: 4460
+  last_page: 4522
+  pages: 63
+- n: 41
+  title: كتاب الأشربة
+  first_page: 4523
+  last_page: 4580
+  pages: 58
+- n: 42
+  title: كتاب الإمارة
+  first_page: 4581
+  last_page: 4636
+  pages: 56
+- n: 43
+  title: كتاب الجهاد
+  first_page: 4637
+  last_page: 4834
+  pages: 198
+- n: 44
+  title: كتاب أحكام أهل الذمة
+  first_page: 4835
+  last_page: 4855
+  pages: 21
+- n: 45
+  title: كتاب بدء الخلق
+  first_page: 4856
+  last_page: 4895
+  pages: 40
+- n: 46
+  title: كتاب أخبار الماضيين
+  first_page: 4896
+  last_page: 4920
+  pages: 25
+- n: 47
+  title: كتاب أخبار الأنبياء
+  first_page: 4921
+  last_page: 5024
+  pages: 104
+- n: 48
+  title: كتاب سيرة النبي ﷺ
+  first_page: 5025
+  last_page: 5812
+  pages: 788
+- n: 49
+  title: كتاب فضائل الصحابة، وأخبارهم
+  first_page: 5813
+  last_page: 6127
+  pages: 315
+- n: 50
+  title: كتاب فضائل القبائل
+  first_page: 6128
+  last_page: 6161
+  pages: 34
+- n: 51
+  title: كتاب فضائل أهل البلدان، والأمصار
+  first_page: 6162
+  last_page: 6167
+  pages: 6
+- n: 52
+  title: كتاب فضائل البلدان
+  first_page: 6168
+  last_page: 6218
+  pages: 51
+- n: 53
+  title: كتاب فضائل الأوقات
+  first_page: 6219
+  last_page: 6239
+  pages: 21
+- n: 54
+  title: كتاب الأدعية والأذكار، والصلاة على النبي المختار ﷺ
+  first_page: 6240
+  last_page: 6514
+  pages: 275
+- n: 55
+  title: كتاب التوبة والاستغفار
+  first_page: 6515
+  last_page: 6544
+  pages: 30
+- n: 56
+  title: كتاب الرقية
+  first_page: 6545
+  last_page: 6580
+  pages: 36
+- n: 57
+  title: كتاب الطب
+  first_page: 6581
+  last_page: 6637
+  pages: 57
+- n: 58
+  title: كتاب الرؤيا وتعبيرها
+  first_page: 6638
+  last_page: 6668
+  pages: 31
+- n: 59
+  title: كتاب علوم القرآن وفضائله
+  first_page: 6669
+  last_page: 6730
+  pages: 62
+- n: 60
+  title: كتاب تفسير القرآن العظيم
+  first_page: 6731
+  last_page: 7706
+  pages: 976
+- n: 61
+  title: كتاب الأدب العالي
+  first_page: 7707
+  last_page: 8091
+  pages: 385
+- n: 62
+  title: كتاب اللباس والزينة
+  first_page: 8092
+  last_page: 8228
+  pages: 137
+- n: 63
+  title: كتاب الزهد والرقاق
+  first_page: 8229
+  last_page: 8314
+  pages: 86
+- n: 64
+  title: كتاب الاعتصام بالقرآن والسنة
+  first_page: 8315
+  last_page: 8341
+  pages: 27
+- n: 65
+  title: كتاب الفتن، وأشراط الساعة
+  first_page: 8342
+  last_page: 8525
+  pages: 184
+- n: 66
+  title: كتاب صفة القيامة، وأهوالها
+  first_page: 8526
+  last_page: 8578
+  pages: 53
+- n: 67
+  title: كتاب صفة الجنة والنار، وأهلها
+  first_page: 8579
+  last_page: 8686
+  pages: 108

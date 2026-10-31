@@ -243,6 +243,9 @@ def original_for(passage, quran_text, hebrew_text):
     ref = passage.get("ref", "")
     if str(passage.get("tradition", "")).startswith("ane-"):
         return ane_original(ref)
+    if passage.get("tradition") == "islam" and ref.startswith("Jāmiʿ "):
+        import hadith
+        return hadith.original(ref)
     if passage.get("tradition") == "islam" and ref.startswith("Quran "):
         refs = quran_refs(ref[len("Quran "):], quran_text)
         if refs is None:

@@ -144,6 +144,9 @@ def validate(vocab, units, quran_text, hebrew_text):
         seen.add(u["id"])
         if u.get("tradition") not in tradition_ids:
             errors.append(f"{where}: unknown tradition {u.get('tradition')}")
+        for q in u.get("quran") or []:      # hadith units: the verses they explain (tafsir, occasions)
+            if not originals.quran_refs(str(q), quran_text):
+                errors.append(f"{where}: quran link {q} does not resolve to a verse")
         read = set()
         if u.get("original"):
             for r in u.get("read") or []:
@@ -173,13 +176,17 @@ def unit_refs(u, r, quran_text, hebrew_text):
     if u.get("corpus") == "ane":
         keys = originals.ane_refs(r)
         return ["|".join(k) for k in keys] if keys else None
+    if u.get("corpus") == "hadith":
+        import hadith
+        keys = hadith.hadith_refs(r)
+        return ["|".join(k) for k in keys] if keys else None
     return originals.hebrew_refs(r, hebrew_text)
 
 
 def passage_ref(u, r):
     if u.get("corpus") == "quran":
         return f"Quran {r}"
-    if u.get("corpus") in ("hebrew-bible", "ane"):
+    if u.get("corpus") in ("hebrew-bible", "ane", "hadith"):
         return r
     return f"{u['title']}: {r}"
 
@@ -422,9 +429,14 @@ def validate_file(path):
     errors += [f"{rel}: unit id {uid} also used in {[f for f in fs if f != rel]}"
                for uid, fs in ids.items() if rel in fs and len(fs) > 1]
     covered = set().union(*read_keys(mine, quran_text, hebrew_text).values()) if mine else set()
-    m = re.match(r"(hb|quran|ane)/(\d+)-", rel)
+    m = re.match(r"(hb|quran|ane|hadith)/(\d+)-", rel)
     if m:   # a full-read chunk file may only hold units inside its own chunk
-        if m.group(1) == "ane":
+        if m.group(1) == "hadith":
+            import hadith
+            want = hadith.chunk_pages(int(m.group(2)))
+            allowed = {"hadith:" + "|".join(k) for k in hadith.corpus().keys.get(hadith.SIGLUM, [])
+                       if int(k[2].split(".")[0]) in want}
+        elif m.group(1) == "ane":
             import aneread
             allowed = {"ane:" + "|".join(k) for k in aneread.chunk_keys(int(m.group(2)))}
         elif m.group(1) == "hb":
