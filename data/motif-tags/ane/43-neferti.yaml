@@ -95,7 +95,6 @@ new_motifs:
   do-not-boast-of-god-given-harvest: {label: "If god gives you a rich harvest, do not boast of it before your neighbours", cluster: wisdom}
   do-not-mock-the-childless: {label: "Do not be arrogant toward a man without children, for many a father grieves and many a mother is less content than a childless woman", cluster: wisdom}
   wealth-comes-from-god-to-his-beloved: {label: "Possessions do not come by themselves; it is the god's law for the one he loves; the god creates a man's ability", cluster: wisdom}
-  follow-your-heart-while-you-live: {label: "Follow your heart as long as you live; do not cut short the time of following the heart", cluster: wisdom}
   bad-son-doomed-from-womb: {label: "The rebellious son is one whom the gods have rejected, whose misfortune was decreed already in the womb", cluster: wisdom}
   god-led-cannot-stray-boatless-cannot-cross: {label: "He whom the gods guide cannot go astray; he whom they leave boatless cannot find a crossing", cluster: wisdom}
   keep-your-rank-in-antechamber: {label: "In the antechamber keep to the place assigned to you; do not push forward; the one who is called has a broad seat", cluster: wisdom}
@@ -286,6 +285,7 @@ units:
       - {motif: rain-as-nile-from-sky, refs: ["NileHymn W1:11_8"], note: "sswrj ḫꜣs,t ... p,t hꜣi̯.yt: he waters the desert highlands, 'the sky that comes down'; obscure line"}
       - {motif: god-bringer-of-flood-and-abundance, refs: ["NileHymn W1:11_10", "NileHymn W1:12_3/2", "NileHymn W1:12_4/2"], note: "jri̯ jt sḫpr btj: he makes barley and brings emmer into being"}
       - {motif: failure-of-flood-brings-death, refs: ["NileHymn W1:11_10/2-12_1/2"], note: "if his fingers are slack, millions are impoverished; if the gods' offering-cakes are reduced, all men perish"}
+      - {motif: flood-god-feeds-temples-and-gods, refs: ["NileHymn W1:11_10", "NileHymn W1:12_1", "NileHymn W1:12_4/2"], note: "sꜥḥꜥ=f rʾ.pl-pr.pl 'that he may establish the temples'; pꜣw,t nṯr.pl 'the gods' offering-cakes'"}
       - {motif: flood-shaped-by-potter-god, refs: ["NileHymn W1:12_2"], note: "jw qd sw H̱nm,w"}
       - {motif: land-laughs-when-flood-comes, refs: ["NileHymn W1:12_2/2-12_3"]}
       - {motif: goddess-enriches-weak-and-poor, refs: ["NileHymn W1:12_5/2"], note: "here the flood god: mḥ wḏꜣ ... rḏi̯ ꜣḫ,t n nmḥ 'who gives property to the orphan/poor'"}
