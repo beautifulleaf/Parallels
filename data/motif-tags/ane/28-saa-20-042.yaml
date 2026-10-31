@@ -1,0 +1,793 @@
+# Full read, chunk 28: SAA 20 (Assyrian royal rituals, tākultu texts, temple rosters). Read from ORACC (saao/saa20), lemmatized transliteration with glosses.
+new_motifs:
+  gods-bidden-drink-by-name: {label: "In the divine banquet (tākultu) the gods of the pantheon are called one by one by name and each is bidden 'drink!'", cluster: cult}
+  banquet-litany-invokes-temple-and-cosmos: {label: "A cultic litany calls on temple parts, gates, walls, rivers, mountains, seas, winds, stars, days, months and years together with the gods to receive the offering and hear", cluster: cult}
+  cult-objects-invoked-as-gods: {label: "Temple doors, daises, braziers, city gates, the god's weapons and crown are written with the divine determinative and invoked or fed as gods", cluster: cult}
+  gods-asked-to-bless-king-who-gave-meal: {label: "The gods who have eaten are asked to give the king who provided their meal long days, lasting years, a strong weapon, a long reign and pre-eminence over kings", cluster: kingship}
+  blessing-on-sharers-of-sacred-meal: {label: "Those who share the sacred meal are blessed: may they have barley, silver, oil, wool and salt to eat and a wick for their light", cluster: cult}
+  salt-strewn-before-god: {label: "Salt is strewn on the offering table or on the offered meat before the god", cluster: cult}
+  ritual-act-with-prescribed-formula: {label: "Each act of the rite is paired with a fixed spoken formula: 'when you do X, you say Y'", cluster: cult}
+  life-accept-hear-formula: {label: "At the offering the officiant addresses the god: 'life! accept! hear!' (balāṭ, muhur, šime)", cluster: cult}
+  king-officiates-sacrifice-in-temple: {label: "The king himself performs the temple rite: he sets the table, strews salt, slaughters the sheep and completes the libation", cluster: kingship}
+  hand-water-for-king-before-offering: {label: "The priest brings the king water for his hands before he offers", cluster: purity}
+  purifier-passed-over-table-and-censers: {label: "A purifying device (ša-tēlissi, torch) is passed over the offering table, the middle of the house and the censers to cleanse them", cluster: purity}
+  hand-released-house-seized-declarations: {label: "Purifying the shrine, the officiant declares 'the hand is released', 'the middle of the house is released', 'the house is seized', 'may the fire-god be pure'", cluster: purity}
+  aromatics-thrown-on-censer-repeatedly: {label: "Aromatic wood (emdu) is thrown on the censer a fixed number of times (twice, three times) before the god", cluster: cult}
+  kispu-for-dead-in-temple-rite: {label: "Within a temple rite the king or priest makes a kispu, the food offering for the dead", cluster: death}
+  king-kisses-ground-before-god: {label: "The king (or official) kisses the ground before the god or the king", cluster: cult}
+  priest-circumambulates-temple: {label: "The priest goes round the whole temple and its shrines during the rite", cluster: cult}
+  lament-priests-seated-and-raised: {label: "The lamentation priests (kalû) are made to sit and then to rise to perform laments during the royal rite", cluster: cult}
+  king-gives-gifts-to-temple-staff: {label: "At the end of the rite the king gives gifts to the priest and temple staff", cluster: cult}
+  god-seated-on-dais-of-destinies: {label: "The god's image is made to rise and is seated on the Dais of Destinies", cluster: cult}
+  gods-travel-with-high-god-in-procession: {label: "Named gods, divine chariots and divine weapons travel with the chief god from his temple to another shrine", cluster: cult}
+  mouth-washing-of-cult-image: {label: "A mouth-washing (mīs pî) ritual is performed in the temple", cluster: cult}
+  gods-face-polished-to-shine: {label: "The god's image is attended so that its face shines (zīmu šunmuru)", cluster: cult}
+  censer-and-torch-brought-near-god: {label: "Censer and torch are brought near the god", cluster: cult}
+  king-goes-to-akitu-house: {label: "The king (and the god) go out to the akītu-house for the festival and return", cluster: cult}
+  blood-and-offerings-into-spring: {label: "Sacrificial blood is offered into a spring, fish and crab are placed in it, and oil, honey and wine poured in", cluster: cult}
+  cult-performer-shouts-before-goddess: {label: "A cultic performer (assinnu) lifts weapons and shouts before the goddess", cluster: cult}
+  gods-asked-to-bless-each-other: {label: "The officiant asks one god to bless another (Aššur to bless Mullissu, Mullissu to bless Aššur)", cluster: cult}
+  gods-named-at-morning-and-evening-offering: {label: "The gods are called by name at the morning and evening offerings", cluster: cult}
+  heaven-and-apsu-bless-worshipper: {label: "When the god's feet are kissed the formula is: 'may heaven and the Apsû bless you'", cluster: cult}
+  royal-message-received-before-god: {label: "A royal message or seal arriving from the road is carried in a cart, seated before the god and honoured with a sacrifice", cluster: kingship}
+  priestly-lineage-in-colophon: {label: "A colophon lists the copyist and his priestly or scribal ancestors over several generations", cluster: scribal}
+  king-puts-dust-on-head: {label: "The king puts earth on his own head during a rite", cluster: mourning}
+  loaves-made-to-dance-before-god: {label: "Kamānu-cakes are made to 'dance' (raised and moved) on the table before the deity", cluster: cult}
+  roasted-kid-before-gods: {label: "A female kid is roasted before the gods", cluster: cult}
+  hair-tuft-cut-and-burned: {label: "A tuft of hair is cut from a participant's head and thrown into the fire", cluster: cult}
+  banquet-hosts-pray-for-name-and-seed: {label: "The hosts of the cult banquet pray that the goddess give well-being, life, name and seed", cluster: cult}
+  temple-staff-duty-roster: {label: "A roster assigns each temple official his responsibility (firewood, incense, doors, cleaning, bread, beer, records, gates)", cluster: cult}
+  regular-bread-and-beer-offering: {label: "Regular (kayyamānu) bread and beer are provided for the temple's gods", cluster: cult}
+  temple-swept-from-dais-to-foundation: {label: "The temple is fanned and cleaned from the foot of the dais to the foundation and from the gate to the threshold", cluster: cult}
+  calendar-of-laments-after-sacrifice: {label: "A calendar assigns a named lament to be sung to the god after the sacrifices on each day", cluster: cult}
+  king-recites-penitential-psalm-to-drum: {label: "The king is made to recite a penitential psalm (eršahunga) to the bronze kettle-drum", cluster: cult}
+  laments-performed-to-remove-enemy: {label: "Laments and penitential psalms are performed before the gods so that the enemy may be removed", cluster: cult}
+  dead-displayed-on-bed: {label: "The dead person's bed is set up and the body displayed; the feet are washed and mourners go round the bed three times", cluster: death}
+  funerary-tables-for-netherworld-figures: {label: "At a burial tables are set before Antu, Gilgameš and the boatmen of the netherworld journey", cluster: death}
+  palace-women-mourn-with-bloodied-noses: {label: "The palace women cry 'come!' to the dead woman and the mourners seal themselves with blood from their noses", cluster: mourning}
+  flour-boat-broken-for-dead: {label: "A boat of flour is broken with a dagger and oil and honey poured into it at a burial", cluster: death}
+  effigy-of-dead-given-ram-heart: {label: "A ram's heart in flour is placed in the middle of the effigy of the dead", cluster: death}
+  ritual-tent-on-riverbank: {label: "A ritual tent is pitched on the riverbank with its door facing the sun god", cluster: cult}
+  set-of-metals-one-mina-each: {label: "One mina each of iron, lead, gold, silver, bronze, tin and glass is laid out in a ritual", cluster: cult}
+  hymn-incipits-sung-at-each-offering: {label: "At each offering the officiant sings a named hymn to the deity concerned", cluster: cult}
+  strewn-flour-offering-to-each-deity: {label: "A strewn offering (serqu) of flour is scattered before each deity in turn", cluster: cult}
+  evil-released-seed-secured: {label: "The ritual promises that the client's evil will be released and his seed secured", cluster: cult}
+  offering-graded-by-social-rank: {label: "The offering depends on the offerer's rank: a prince burns a turtledove, a commoner roasts a sheep's heart", cluster: cult}
+  client-seated-bound-with-red-wool: {label: "The sacrificer is seated on fleeces laid fourfold beneath, at head and feet, his hands bound with red wool, and released after the rite", cluster: cult}
+  singer-officiates-rite: {label: "A singer (nāru) leads the rite, singing named hymns, washing hands and offering water to the sun god", cluster: cult}
+  palace-banquet-protocol: {label: "The protocol of the royal banquet: officials enter in order, kiss the ground, report, tend braziers, towels, hand-water, torches and cups", cluster: kingship}
+  torches-lit-at-sunset-in-palace: {label: "At sunset torches are lit and brought into the palace hall", cluster: kingship}
+  arrow-rite-for-victory: {label: "In a war ritual the king bends the bow before the sun god, takes and kisses an arrow, arrows are shot into the enemy figure, and the king 'conquers his enemy'", cluster: war}
+  impersonators-of-gods-face-enemy: {label: "Performers representing gods (sarrānātu) set their faces against the enemy, murmur and dance", cluster: war}
+  cult-performers-mock-battle: {label: "Kurgarrû and assinnu performers sing the 'play of battle' and laments and go round in the rite", cluster: cult}
+  drum-hung-after-victory: {label: "After the ritual victory the king hangs the great drum on his shoulder and goes before the gods", cluster: war}
+  performer-led-seven-times-before-goddess: {label: "A performer is brought before the goddess, given beer on a lion's head, and the chief singers walk before him seven times", cluster: cult}
+  king-stroke-nose-gesture: {label: "The king 'strokes his nose' (labān appi), the gesture of humble prayer", cluster: cult}
+  goddess-image-taken-to-bath: {label: "The goddess's image is brought into a bath-house, a ritual bath (rinku) is set up and she comes out of it", cluster: cult}
+  king-sacrifices-before-stars: {label: "The king sacrifices before the stars and planets, named one by one", cluster: cult}
+  divine-images-placed-on-kings-neck: {label: "Images of the gods (amulets) are placed on the king's neck as he enters the temple", cluster: kingship}
+  offering-portions-given-to-officials: {label: "The goddess's offering portions are given to officials, palace women or the crown prince", cluster: cult}
+  penitential-psalm-list-by-incipit: {label: "A list of penitential psalms and laments by their opening words, each assigned to a deity", cluster: cult}
+  temple-officials-roll-call: {label: "A list of the temple's officials and priests of each god, in order of rank", cluster: cult}
+  igigi-and-anunnaki-invoked-together: {label: "The Igigi, gods of heaven, and the Anunnaki, gods of the earth, are invoked together to accept the offering", cluster: cult}
+  deified-truth-and-justice: {label: "Truth (Kittu) and Justice (Mīšaru) are invoked as gods", cluster: cult}
+  statues-of-kings-among-gods-at-meal: {label: "Statues of former kings and princes (and of commoners) and deified or deposed kings are invoked among the gods at the divine meal", cluster: cult}
+  king-blessed-with-priesthood-and-kingship: {label: "The king is blessed to exercise priesthood and kingship together", cluster: kingship}
+  exorcists-recite-incantations-in-royal-rite: {label: "The exorcists recite named Sumerian incantations as the king and the god pass in procession", cluster: cult}
+  daily-dated-ritual-calendar: {label: "A ritual is laid out day by day with dated entries (the 17th, 18th, 19th ...), including days on which the king does not go to the temple", cluster: cult}
+  king-rises-early-for-dawn-rite: {label: "The king rises early and goes to the temple at dawn, and again at evening", cluster: cult}
+  hands-and-feet-anointed-in-rite: {label: "The participant's hands and feet are anointed with fine oil in the rite", cluster: cult}
+  person-designated-as-substitute: {label: "A person is declared to be 'of the exchange' (pūhu), a substitute in the rite", cluster: cult}
+  cult-garments-and-jewels-of-gods: {label: "The garments and ornaments of all the gods are inspected and kept by a temple official", cluster: cult}
+  votive-gifts-received-and-recorded: {label: "The temple scribe inspects and receives the votive gifts brought to all the gods", cluster: cult}
+  royal-order-on-temple-practice: {label: "A king's order on temple personnel and practice is quoted", cluster: kingship}
+  dumuzi-receives-offerings-in-state-cult: {label: "Dumuzi (Tammuz) is listed among the gods who receive offerings in the state cult", cluster: cult}
+  divine-names-as-sentences: {label: "Minor gods bear sentence-names such as 'He-hears-prayer' or 'Hear-the-offering'", cluster: cult}
+  foreign-gods-in-assyrian-pantheon-list: {label: "Gods of foreign peoples (Hurrian, Urartian, Egyptian, Elamite) are listed among the gods fed in the Assyrian cult", cluster: cult}
+  hand-lifting-prayer-assigned-to-god: {label: "A 'hand-lifting' prayer (šuilla) is assigned by its incipit to a deity in the ritual programme", cluster: cult}
+  name-of-dead-called-at-burial: {label: "At the burial the name of the dead is called out", cluster: death}
+  dead-declared-released-before-sun-god: {label: "Kneeling before the sun god, mourners declare the dead woman 'girded and released' and ask blessing for the king and his seed", cluster: death}
+  gods-named-at-sun-and-moon-sacrifices: {label: "Particular gods are named when sacrifices are made before the sun god, the moon god or at the stables", cluster: cult}
+  king-establishes-rite-for-deity: {label: "A named king establishes and gives a rite to his deity", cluster: kingship}
+  fat-and-roast-portions-offered: {label: "Fatty tissue (himṣu) and roast portions are presented before each deity", cluster: cult}
+  sun-god-opener-of-darkness: {label: "A hymn to the sun god as 'opener of darkness' who treads down the wicked is sung", cluster: cult}
+  brazier-tended-in-winter-month: {label: "In the cold month palace servants watch the brazier, put back fallen embers and add or remove fire and wood", cluster: kingship}
+  dishes-of-the-royal-table: {label: "The dishes of the royal meal are listed: meats, fowl, turtledoves, jerboas", cluster: kingship}
+  king-feasts-after-ritual-victory: {label: "After the ritual conquest the king enters his camp, a meal is set and the king rejoices", cluster: war}
+  king-carried-in-sedan-chair: {label: "The king is carried in a sedan chair (ša-šadādi) during the rite", cluster: kingship}
+units:
+  - id: ane-saa20-042-o-gods-bidden-drink
+    tradition: ane-akkadian
+    title: Tākultu of Aššur-etel-ilani, obverse - the gods, temple and its parts bidden to drink
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 042 o.i", "SAA 20 042 o.ii"]
+    tags:
+      - {motif: gods-bidden-drink-by-name, refs: ["SAA 20 042 o.i:1-6"], note: "aššur šiti enlil šiti anu šiti ... ištar šitî ilāni rabûti: imperative 'drink!' after each god"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 042 o.i:21-22", "SAA 20 042 o.i:24", "SAA 20 042 o.i:35-37", "SAA 20 042 o.ii:39-41"], note: "{d}daltu naklu (the 'skilful door', deified), gold, silver, bronze doors; Maṣṣar-kussê; the four gates; city gates and braziers (abullu/kinūnu of Aššur, Šamaš, Ištar)"}
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 042 o.i:31-37", "SAA 20 042 o.ii:38-44"], note: "Papahu, treasure house, courtyards of the Apsû, of Mullissu, of the leopard 'and everything named'; city wall and outer wall of Assur, gates of people and flocks"}
+      - {motif: igigi-and-anunnaki-invoked-together, refs: ["SAA 20 042 o.i:7-8"], note: "Igigi, Anunnaki, Ereškigal and the gods of the earth"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["SAA 20 042 o.i:24", "SAA 20 042 o.i:28-29"], note: "Anzû, Kusarikku (bison-man), Lahmu of the sunrise gate, invoked among the gods"}
+      - {motif: deified-truth-and-justice, refs: ["SAA 20 042 o.i:25"], note: "{d}kittu {d}mešaru"}
+      - {motif: statues-of-kings-among-gods-at-meal, refs: ["SAA 20 042 o.i:19-20", "SAA 20 042 o.i:23"], note: "ṣalmāni ša malkī u rubê, ṣalmāni ša hupšê: statues of kings and princes and of commoners; Il-pada and the 'deposed gods' (ilāni darsūte)"}
+    hints:
+      - "Compare Deut 32:37-38 (gods 'who ate the fat of their sacrifices and drank the wine of their libations') and Ps 50:12-13 (God does not eat bull's flesh or drink goats' blood)."
+      - "The summons of heaven, earth, gates and creation compares with Ps 148 and Ps 24:7-9 (gates addressed)."
+  - id: ane-saa20-042-r-blessings-for-king
+    tradition: ane-akkadian
+    title: Tākultu of Aššur-etel-ilani, reverse - land, rivers, cosmos invoked; blessings for the king who gave the meal
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 042 r.iii", "SAA 20 042 r.iv"]
+    tags:
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 042 r.iii:3'-5'", "SAA 20 042 r.iii:11'-33'"], note: "Mount Ebih, Tigris, Upper and Lower Zab, villages, borders, the land's walls, daises, forts, ruin mounds, mountains and springs, the upper and lower sea, the wide earth, the paths of Anu, Enlil and Ea, stars, the four winds, day and night watches, day, month and year, gods and goddesses of land and city, heaven and earth"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 042 r.iii:14'-15'"], note: "{d}pû-lišānu, {d}nēmedu, {d}parakku: mouth-and-tongue, the 'support', the dais, deified"}
+      - {motif: gods-asked-to-bless-king-who-gave-meal, refs: ["SAA 20 042 r.iii:48'-r.iv:11'"], note: "ūmē arkūti šanāti dārâti kakku dannu palû arku ... ana Aššur-etel-ilani dinānišu ša tākulta šiāti ēpušu"}
+      - {motif: king-blessed-with-long-life-and-roots, refs: ["SAA 20 042 r.iv:1'-3'", "SAA 20 042 r.iv:12'-15'"], note: "palû arku, šanāt ṭuhdi, perʾu zēru: long reign, years of plenty, offshoot and seed; 'may he live, be well, exercise priesthood and kingship, reach old age'"}
+      - {motif: blessing-on-sharers-of-sacred-meal, refs: ["SAA 20 042 r.iv:16'-22'"], note: "ana multāmi annûti šeʾu kaspu šamnu šīpātu ṭābtu ša Bariki ana akālišunu u qirīru ana nūrišunu libši"}
+      - {motif: king-blessed-with-priesthood-and-kingship, refs: ["SAA 20 042 r.iv:13'"], note: "šangûta šarrūta kiššūta lēpuš: priesthood listed before kingship"}
+    hints:
+      - "Compare Ps 21:5 and 61:7-8 (length of days for the king), Ps 72:15-17 (prayer and blessing for the king, abundance), 1 Kgs 3:14."
+      - "The blessing on all who share the meal compares with 1 Kgs 8:62-66 (Solomon's feast; the people go home joyful) and Deut 12:7, 14:26."
+  - id: ane-saa20-015-o-akitu-and-spring
+    tradition: ane-akkadian
+    title: Royal ritual - entry to the akītu-house, blood offered into the spring, offerings before the gods of heaven and earth
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 015 o.i", "SAA 20 015 o.ii"]
+    tags:
+      - {motif: king-goes-to-akitu-house, refs: ["SAA 20 015 o.i:1'-2'", "SAA 20 015 o.i:14'-15'"], note: "ana bīt akīte errubu ... šarru ištu libbi īni ana bīt akīte erab"}
+      - {motif: divine-images-placed-on-kings-neck, refs: ["SAA 20 015 o.i:3'"], note: "ilāni ša kišād šarri: the gods of the king's neck"}
+      - {motif: cult-performer-shouts-before-goddess, refs: ["SAA 20 015 o.i:6'-7'"], note: "assinnu kakkī inašši ina pūt Ištar ebirna ebirna išassi; the cry 'ebirna' is of unknown meaning"}
+      - {motif: blood-and-offerings-into-spring, refs: ["SAA 20 015 o.i:8'-12'"], note: "nīqu inassah dāmē ina libbi īni ušamhar; nūnu alluttu ina libbi īni ikarrar; šamnu dišpu karānu ... itabbak"}
+      - {motif: purifier-passed-over-table-and-censers, refs: ["SAA 20 015 o.i:13'", "SAA 20 015 o.ii:15'"], note: "ša-tēlissi ušetaq"}
+      - {motif: kissing-idol, refs: ["SAA 20 015 o.i:16'", "SAA 20 015 o.i:50'"], note: "šēpē inaššiq"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 015 o.i:17'"]}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 015 o.i:16'-21'", "SAA 20 015 o.i:44'"], note: "the king sets the table, strews salt, slaughters sheep before the gods of heaven and of earth, presents boiled meat"}
+      - {motif: roasted-kid-before-gods, refs: ["SAA 20 015 o.i:46'", "SAA 20 015 o.ii:2'", "SAA 20 015 o.ii:9'", "SAA 20 015 o.ii:44'"]}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 015 o.ii:12'-14'"], note: "kukkubu of water, mihhu-beer, beer, wine, milk and blood poured 'on the heads'"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 015 o.i:43'"], note: "qātēšu imassi"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 015 o.i:48'-53'"], note: "the king descends from the chariot to the storehouse, takes the gods' hands, brings them in and seats them, slaughters before the king's statue and in the Adad temple"}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 015 o.ii:51'"], note: "nāru ana Amurrīte izammur"}
+    hints:
+      - "The festival in Nisan with the king officiating compares with Num 28:16-25 and 2 Chr 30, 35 (king-led Passover); the akītu procession with Ps 24 and Ps 68:25-28."
+      - "Blood offered into a spring: contrast Lev 17:13 and Deut 12:16 (blood poured on the ground); compare 1 Kgs 1:9, 38-39 (ritual at the spring Gihon and En-rogel)."
+  - id: ane-saa20-015-r-recitations
+    tradition: ane-akkadian
+    title: Royal ritual - what the officiant says at each libation, salt-offering and kiss in the gods' cities
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 015 r.i", "SAA 20 015 r.ii"]
+    tags:
+      - {motif: ritual-act-with-prescribed-formula, refs: ["SAA 20 015 r.i:1'-6'", "SAA 20 015 r.ii:12-14"], note: "kī karāna ina šēhti ana šaqikkani ... taqabbi: 'when you give wine to drink in the censer ... you say'"}
+      - {motif: life-accept-hear-formula, refs: ["SAA 20 015 r.i:2'-4'", "SAA 20 015 r.i:7'-9'"], note: "Nusku sukkal ilāni balāṭ ana Bēl; Bēl balāṭ muhur; Igigi ... Anunnaki ... limhurū lišmû"}
+      - {motif: gods-named-at-morning-and-evening-offering, refs: ["SAA 20 015 r.i:15'-18'"], note: "mimma annû ša apal bēt-ili ša Ninua ina šērti nubatti šumēšunu tazakkar"}
+      - {motif: gods-asked-to-bless-each-other, refs: ["SAA 20 015 r.ii:1-6"], note: "Aššur Mullissu kurub; Mullissu Aššur likrubki; Sin Nikkal kurbu"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 015 r.ii:12-34", "SAA 20 015 r.ii:42-43"]}
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 015 r.ii:12-34"], note: "Kilizi-Adad, Arbela-Ištar, Kalhu-Ninurta, Tarbiṣu-Nergal, Kurbail, Tuʾe, Urakka, Harran-Sin"}
+      - {motif: heaven-and-apsu-bless-worshipper, refs: ["SAA 20 015 r.ii:39-40"], note: "kī šēpē ša ili ana našāqikani šamû apsû likrubūka"}
+      - {motif: kissing-idol, refs: ["SAA 20 015 r.ii:39"]}
+      - {motif: igigi-and-anunnaki-invoked-together, refs: ["SAA 20 015 r.ii:44-46"]}
+    hints:
+      - "Spoken formulae tied to each act compare with Deut 26:1-15 (declarations at the offering of firstfruits and tithe) and Num 6:22-27."
+      - "Gods asked to bless and heaven blessing the worshipper: compare Ps 103:20-22, 134:3, Ps 148."
+  - id: ane-saa20-015-r-message-seal-colophon
+    tradition: ane-akkadian
+    title: Royal ritual - a message and a seal received before Aššur and Nergal; colophon of the priests of Aššur
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 015 r.iii"]
+    tags:
+      - {motif: royal-message-received-before-god, refs: ["SAA 20 015 r.iii:1-11"], note: "kī našpartu ištu hūli ana muhhi Aššur tallakanni: našpartu ina qersi ušerrab ušešab, nīqu inassah; the seal (kunukku) brought from Libbi-ali to Nergal"}
+      - {motif: roasted-kid-before-gods, refs: ["SAA 20 015 r.iii:6"]}
+      - {motif: priestly-lineage-in-colophon, refs: ["SAA 20 015 r.iii:49'-56'"], note: "tablet of Marduk-kabti-ilani, chief priest of Aššur, son of Ruqahayu priest of Nergal, son of Urdu-Aššur ... son of ... priest of Aššur"}
+      - {motif: scribal-colophon, refs: ["SAA 20 015 r.iii:49'"]}
+    hints:
+      - "A letter laid before the deity: compare Hezekiah spreading Sennacherib's letter before YHWH, 2 Kgs 19:14 and Isa 37:14."
+      - "Priestly genealogy as authority: compare Ezra 7:1-5 and 1 Chr 6:1-15."
+  - id: ane-saa20-044-gods-of-ehursagkurkurra
+    tradition: ane-akkadian
+    title: Tākultu fragment - the four gates, the gods of Ehursagkurkurra
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 044"]
+    tags:
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 044 o:1'-3'"], note: "bāb erbetti u dalātišunu; sippu šigaru Ehursagkurkurra: gates, doors, jambs and clamps in the god-list"}
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 044 o:1'-9'"], note: "parallel to SAA 20 042 o.i:35-45"}
+  - id: ane-saa20-001-o-king-in-assur-temple
+    tradition: ane-akkadian
+    title: Assur temple ritual, day 18 - the king purified, the table set, salt and incense, kispu and calves
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 001 o"]
+    tags:
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 001 o:3", "SAA 20 001 o:11"], note: "ina bāb Anzê mê ša mullili ana qātē šarri išakkunu; šarru mê qātē ana Aššur uqarrab"}
+      - {motif: divine-images-placed-on-kings-neck, refs: ["SAA 20 001 o:4"], note: "ilāni ina kišādi šarri ikarrurū"}
+      - {motif: prostration-before-deity, refs: ["SAA 20 001 o:5"], note: "šarru errab ina pān Aššur uškên"}
+      - {motif: table-of-showbread, refs: ["SAA 20 001 o:5", "SAA 20 001 o:7-9"], note: "bread before Aššur; table set with bread, spoons, spices, cakes and all fruits; cauldrons and jars filled"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 001 o:11", "SAA 20 001 o:13"], note: "on the tables of right and left"}
+      - {motif: life-accept-hear-formula, refs: ["SAA 20 001 o:12", "SAA 20 001 o:18"], note: "Aššur u Mullissu Adad Mašmaš balāṭ muhra; Aššur muhur Aššur šeme"}
+      - {motif: hand-released-house-seized-declarations, refs: ["SAA 20 001 o:14-17"], note: "qātu paṭrat; qabal bēti paṭir; bītu ṣabit; Girra lilil"}
+      - {motif: purifier-passed-over-table-and-censers, refs: ["SAA 20 001 o:6", "SAA 20 001 o:14-17"]}
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 001 o:6", "SAA 20 001 o:18"], note: "šinīšu / šalāšīšu emdu iddan"}
+      - {motif: kispu-for-dead-in-temple-rite, refs: ["SAA 20 001 o:20"], note: "kispu ikassap"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 001 o:21-22"], note: "two bull calves are brought; šarru qaran būri ... the king (holds) the calf's horn; sinews of sheep burnt on the censers"}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 001 o:23-24"], note: "oil and honey burned; mizʾu-wine and cooked wine shown and given to drink in the censers"}
+      - {motif: lament-priests-seated-and-raised, refs: ["SAA 20 001 o:27", "SAA 20 001 o:29"]}
+      - {motif: priest-circumambulates-temple, refs: ["SAA 20 001 o:28"], note: "šangû ša Aššur sihirti bēti u ekurrāti ilabbi"}
+      - {motif: divine-regalia-crown-throne, refs: ["SAA 20 001 o:31", "SAA 20 001 o:35"], note: "the god set in motion, the divine tiara (Agû); the king goes up on the dais and lifts the tiara"}
+    hints:
+      - "The king handling the bull's horn and the fat compares with Ps 118:27 (bind the festal offering to the horns of the altar) and Lev 4:7, 8:15."
+      - "Table set before the god with bread compares with Exod 25:23-30 and Lev 24:5-9 (showbread); salt on the offering with Lev 2:13."
+      - "King officiating at the sanctuary: compare 1 Kgs 8:62-64, 9:25, and the censure of Uzziah, 2 Chr 26:16-21."
+  - id: ane-saa20-001-r-procession-bit-dagan
+    tradition: ane-akkadian
+    title: Assur temple ritual - Aššur and the gods go to Bīt-Dagan; offerings in the palace courtyard; mouth-washing on day 23
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 001 r"]
+    tags:
+      - {motif: gods-travel-with-high-god-in-procession, refs: ["SAA 20 001 r:19-24"], note: "ilāni ša issi Aššur ina Bīt-Dagan illikūni: Aššur, Mullissu, Bēl-agê, Sin, Šamaš, Anu, Adad, Mašmaš, the chariots of the road, Šeruʾa, Kippat-mati ... Kašidu, Kakku, Kalappu"}
+      - {motif: weapons-in-cult-procession, refs: ["SAA 20 001 r:23-24"], note: "{d}Kašidu, {d}Kakku, {d}Kalappu: the god's weapons as deities"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 001 r:20", "SAA 20 001 r:23-24"], note: "{d}Bēl-agê, 'Lord of the Crown'"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 001 r:5-10"], note: "in Bīt-Dagan the king lifts the tiara on his head, sets the table, strews salt, passes the purifier, gives aromatics, completes the libation, burns oil and honey"}
+      - {motif: kispu-for-dead-in-temple-rite, refs: ["SAA 20 001 r:11"]}
+      - {motif: priest-circumambulates-temple, refs: ["SAA 20 001 r:4"], note: "šangû labīta ilabbi"}
+      - {motif: offering-portions-given-to-officials, refs: ["SAA 20 001 r:18"], note: "quršu ša Mullissu ana šaknūti ušaddan: the meaning of quršu (glossed 'chapel') is uncertain; something of Mullissu is collected from or given to the governors"}
+      - {motif: mouth-washing-of-cult-image, refs: ["SAA 20 001 r:25"], note: "ina bīt danni mīs pî epaš"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 20 001 r:26"]}
+    hints:
+      - "A procession of the god with his entourage between shrines: compare Ps 68:25-28, Ps 24, and the ark's procession 2 Sam 6:12-19; 1 Kgs 8:1-6."
+      - "Mouth-washing of cult images compares with the prophetic polemic Isa 44:9-20, Jer 10:3-5 and Ps 115:4-8 (mouths that do not speak)."
+  - id: ane-saa20-011-king-in-temple-day-8
+    tradition: ane-akkadian
+    title: Assur temple ritual, day 8 - the king kisses the ground, the god goes to Bīt-Adad, incantations recited
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 011 o", "SAA 20 011 b.e", "SAA 20 011 r"]
+    tags:
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 011 o:2"], note: "qaqqar ina pān Aššur ittišiq"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 011 o:6-7"], note: "the priest of Aššur puts the towel on the king's shoulder (? naglabu); mê qātē uqtarrib"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 011 o:7-8", "SAA 20 011 r:15"]}
+      - {motif: purifier-passed-over-table-and-censers, refs: ["SAA 20 011 o:9-11"]}
+      - {motif: lament-priests-seated-and-raised, refs: ["SAA 20 011 o:13", "SAA 20 011 o:15"]}
+      - {motif: priest-circumambulates-temple, refs: ["SAA 20 011 o:14", "SAA 20 011 o:17"]}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 011 o:20-b.e:21", "SAA 20 011 r:2"], note: "the priests accompany Bēl-agê and seat him in the middle of the dais; the king lifts Bēl-agê on his head"}
+      - {motif: gods-travel-with-high-god-in-procession, refs: ["SAA 20 011 r:3-8"], note: "out through the Kalkal gate into Bīt-Adad: Šeruʾa, Kippat-mati, Tašmetu, the axe Kalappu and the Judge go with the god"}
+      - {motif: exorcists-recite-incantations-in-royal-rite, refs: ["SAA 20 011 r:4-5"], note: "āšipū šiptu aga melam-ani, šiptu giš-tukul ni-gal-a ri-a imannû: the exorcists recite two Sumerian incantations ('the crown of radiance', 'the weapon bearing awe')"}
+      - {motif: censer-and-torch-brought-near-god, refs: ["SAA 20 011 r:8-9"]}
+      - {motif: regular-bread-and-beer-offering, refs: ["SAA 20 011 r:9-11"], note: "bread, a living shoot (ziqpu balṭu), hammurtu-beer, melted oil presented"}
+    hints:
+      - "Kissing the ground before the god: compare 1 Kgs 19:18 and Hos 13:2 (kissing calves); Ps 2:12."
+  - id: ane-saa20-010-king-in-temple-days-17-21
+    tradition: ane-akkadian
+    title: Assur temple ritual, days 17-21 - sacrifices before the god's weapons and chariot, the god seated on the Dais of Destinies
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 010 o", "SAA 20 010 b.e", "SAA 20 010 r"]
+    tags:
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 010 o:2", "SAA 20 010 o:9", "SAA 20 010 r:2", "SAA 20 010 r:11"]}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 010 o:3-4"], note: "sacrifice slaughtered before Ninurta, Nusku, the gods of the temple, before Kašidu (weapon of Aššur) and before the golden chariot"}
+      - {motif: lament-priests-seated-and-raised, refs: ["SAA 20 010 o:5", "SAA 20 010 o:7", "SAA 20 010 r:1", "SAA 20 010 r:7-9"]}
+      - {motif: priest-circumambulates-temple, refs: ["SAA 20 010 o:6-7", "SAA 20 010 b.e:12"]}
+      - {motif: king-gives-gifts-to-temple-staff, refs: ["SAA 20 010 o:8", "SAA 20 010 r:2", "SAA 20 010 r:11"], note: "ana šangî u alahhinī qīšāti ittidin"}
+      - {motif: god-seated-on-dais-of-destinies, refs: ["SAA 20 010 r:4-5"], note: "ilu ussatbi ina Parak-šimāti ušešib; Bēl-agê ussatbi ina Parak-šimāti ušib"}
+      - {motif: gods-face-polished-to-shine, refs: ["SAA 20 010 r:6"], note: "zīmu usanmir"}
+      - {motif: censer-and-torch-brought-near-god, refs: ["SAA 20 010 r:6"], note: "nignakku gizillû uqṭarrib"}
+      - {motif: daily-dated-ritual-calendar, refs: ["SAA 20 010 o:1-2", "SAA 20 010 b.e:10", "SAA 20 010 r:3", "SAA 20 010 r:13"], note: "UD 17, 18, 19, 20; 'on the 21st he does not go down'"}
+    hints:
+      - "Making the god's face shine compares with the priestly blessing Num 6:25 and Ps 80:4, 8, 20; Ps 67:2."
+      - "Seating the god on the dais of destinies: compare 1 Kgs 8:6-13 (the ark brought to its place) and Ps 132:8."
+  - id: ane-saa20-037-takultu-recitations
+    tradition: ane-akkadian
+    title: Tākultu ritual - spoken formulae for salt, purification, incense, bread, wine and the kissing of feet
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 037 o", "SAA 20 037 r"]
+    tags:
+      - {motif: ritual-act-with-prescribed-formula, refs: ["SAA 20 037 o:1-8"], note: "kī Bīt-Aššur ana apālikani ṭābta ana karārikani ... taqabbi"}
+      - {motif: life-accept-hear-formula, refs: ["SAA 20 037 o:2", "SAA 20 037 o:8", "SAA 20 037 o:16", "SAA 20 037 o:21"], note: "Aššur muhur Aššur šeme; Ištar muhrī Ištar šeʾe; Nikkal limhur Kidinbirbir lišme"}
+      - {motif: hand-released-house-seized-declarations, refs: ["SAA 20 037 o:3-7", "SAA 20 037 o:11-14"], note: "qātu paṭrat ... qabal bēti paṭir ... qabal bēti ṣabit ... Girra lilil"}
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 037 o:8", "SAA 20 037 o:16"]}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 037 o:1", "SAA 20 037 o:10", "SAA 20 037 o:20-21", "SAA 20 037 r:7-13", "SAA 20 037 r:22"], note: "salt on the bread on the fine-linen table; on the boiled meat before Bēlet-dunani"}
+      - {motif: gods-asked-to-bless-each-other, refs: ["SAA 20 037 r:1-4"]}
+      - {motif: gods-named-at-morning-and-evening-offering, refs: ["SAA 20 037 o:30-31"]}
+      - {motif: heaven-and-apsu-bless-worshipper, refs: ["SAA 20 037 r:20-21"]}
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 037 r:7-17"]}
+      - {motif: priestly-lineage-in-colophon, refs: ["SAA 20 037 r:24-25"], note: "copied as its original; hand of Kiṣir-Aššur, exorcist of the Aššur temple"}
+    hints:
+      - "Morning and evening offerings with invocation compare with Num 28:3-8 (tamid) and Ps 141:2."
+      - "The bread on the table with salt: Lev 2:13 and Lev 24:5-9."
+  - id: ane-saa20-021-lady-of-mountains
+    tradition: ane-akkadian
+    title: Ritual before Aššur and the Lady of the Mountain - libations, rams, kispu, dust on the king's head, dancing loaves
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 021 o", "SAA 20 021 r"]
+    tags:
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 021 o:7", "SAA 20 021 o:13", "SAA 20 021 o:23"], note: "water and beer libated three times; maqqû of beer and wine"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 021 o:8", "SAA 20 021 o:11", "SAA 20 021 o:21-22"]}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 021 o:8-10"], note: "rams slaughtered before Aššur and the Lady of the Mountain; offerings before the Seven (Pleiades)"}
+      - {motif: king-puts-dust-on-head, refs: ["SAA 20 021 o:16"], note: "epru ina muhhi qaqqadišu ikarrar; the subject is probably the king (cf. o:8, o:25)"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 021 o:18-19"], note: "the priest of Aššur presents hand-water to the Lady of the Mountain and to the king"}
+      - {motif: kispu-for-dead-in-temple-rite, refs: ["SAA 20 021 o:22"]}
+      - {motif: loaves-made-to-dance-before-god, refs: ["SAA 20 021 o:25"], note: "šarru kamānāti ušarqad"}
+    hints:
+      - "Dust on the head compares with Josh 7:6, 1 Sam 4:12, Lam 2:10, Neh 9:1."
+      - "Kamānu-cakes: compare the kawwānîm baked for the Queen of Heaven, Jer 7:18 and 44:19; the raising of loaves may compare with the wave offering (tenûpâ), Lev 7:30, 23:17-20."
+  - id: ane-saa20-017-nisan-ishtar-assuritu
+    tradition: ane-akkadian
+    title: Nisan ritual at the temple of Assyrian Ištar - early-morning and evening rites, singers, colophon
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 017 o", "SAA 20 017 r"]
+    tags:
+      - {motif: king-rises-early-for-dawn-rite, refs: ["SAA 20 017 o:1-2", "SAA 20 017 o:6-8"], note: "ina kallâmāri ša UD x ša Nisanni šarru išiar ... bādu ina etāqi: in the early morning and again at evening"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 017 o:3-5"], note: "before Tašmetu, Bēlet-šarri, Bēr, Uraš and the Kutatati"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 017 o:13"]}
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 017 o:17", "SAA 20 017 o:20-21", "SAA 20 017 r:1"]}
+      - {motif: priest-circumambulates-temple, refs: ["SAA 20 017 o:14", "SAA 20 017 o:26"], note: "here the king goes round (ilabbi) the temple"}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 017 r:8-11"], note: "the singer sings 'flower ...'; all the singers sing"}
+      - {motif: priestly-lineage-in-colophon, refs: ["SAA 20 017 r:14-19"], note: "written by Aššur-nadin-ahhe, junior apprentice, son of Kiṣir-Aššur exorcist, descendant of Abu-eriba exorcist of the Aššur temple, descendant of Babu-šumu-ibni, in Ešarra"}
+    hints:
+      - "Compare the Levitical singers 1 Chr 25 and 2 Chr 29:25-30."
+  - id: ane-saa20-030-gula-banquet
+    tradition: ane-akkadian
+    title: Ritual for Gula and Šarrat-ēqi - the banquet hosts, exchange, hair burned, kispu, cakes before Šamaš
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 030 o", "SAA 20 030 r"]
+    tags:
+      - {motif: hands-and-feet-anointed-in-rite, refs: ["SAA 20 030 o:1'-2'"], note: "šamnu ṭābu ... qātē u šēpē tapaššaš"}
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 030 o:4'", "SAA 20 030 o:9'"], note: "here the bēl qerīti and bēl pirṣi kiss the ground before Šarrat-ēqi"}
+      - {motif: banquet-hosts-pray-for-name-and-seed, refs: ["SAA 20 030 o:6'-8'"], note: "ša šume zēri šû ... šalāmu balāṭu šumu zēru lū taddinakka: 'well-being, life, name and seed may she give you'"}
+      - {motif: person-designated-as-substitute, refs: ["SAA 20 030 o:10'-11'"], note: "mā ša pūhi šû ... Gula idātuššu lū tallik: 'he is (the one) of the exchange' (pūhu, substitute); 'may Gula go behind him'; context broken"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 030 o:15'", "SAA 20 030 o:26'"]}
+      - {motif: strewn-flour-offering-to-each-deity, refs: ["SAA 20 030 o:16'"], note: "sirqu tasarraq ṣurāri tuṣarrar"}
+      - {motif: catalogue-of-offerings-drink-and-dairy, refs: ["SAA 20 030 o:27'-36'"], note: "1 ox, 3 rams, 12 strong loaves of crushed barley, 2 kamānu-cakes with onion, bowls of apples and apricots, 4 dough lumps, drink vessels, 5 spring lambs, 5 large birds, all in the morning"}
+      - {motif: loaves-made-to-dance-before-god, refs: ["SAA 20 030 o:19'", "SAA 20 030 r:15'-18'"], note: "ušarqudu; 10 kamānu-cakes in a cup before Šamaš"}
+      - {motif: kispu-for-dead-in-temple-rite, refs: ["SAA 20 030 r:13'-14'"], note: "kispī ina upnīšunu išakkan ... kispī imahharšunu mê ana qātēšunu iddan"}
+      - {motif: hair-tuft-cut-and-burned, refs: ["SAA 20 030 r:14'-15'"], note: "nipšu ša muhhi(šu) igezzir ina išāti ikarrar"}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 030 r:21'"], note: "honey and oil poured on (parched grain in broth)"}
+    hints:
+      - "Hair cut and burned compares with the Nazirite's hair put in the fire under the peace offering, Num 6:18."
+      - "Prayer for name and seed: compare 1 Sam 24:22, Isa 56:5, 66:22; Ruth 4:10."
+      - "Kamānu-cakes: Jer 7:18, 44:19."
+  - id: ane-saa20-050-temple-duty-roster
+    tradition: ane-akkadian
+    title: Duties of the Aššur temple personnel - who bears responsibility for what
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 050 o.i", "SAA 20 050 o.ii", "SAA 20 050 r.i", "SAA 20 050 r.ii"]
+    tags:
+      - {motif: temple-staff-duty-roster, refs: ["SAA 20 050 o.i:6-27", "SAA 20 050 o.ii:1-25", "SAA 20 050 r.i:1'-20'"], note: "refrain pūtuhu našši 'bears the responsibility': chief priest, second priest, firewood-man, incense-man, alahhinu, overseer of the house, warden of the anteroom, chief baker, chief brewer, scribe, watch-keepers"}
+      - {motif: gods-face-polished-to-shine, refs: ["SAA 20 050 o.i:8"], note: "šanmuru ša zīme"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 050 o.i:11-13"], note: "the large bowl wiped, the towel tied on the king's shoulder"}
+      - {motif: incense-and-juniper-offered, refs: ["SAA 20 050 o.ii:5-7"], note: "emdu qutāri balālu: mixing aromatics and incense is the incense-man's charge"}
+      - {motif: temple-swept-from-dais-to-foundation, refs: ["SAA 20 050 o.ii:14-15", "SAA 20 050 o.ii:20-21"], note: "ištu šēp parakki adi išdi bēti sāri šētuqu; from the Kunuš-kadru gate to the threshold"}
+      - {motif: cult-garments-and-jewels-of-gods, refs: ["SAA 20 050 o.ii:9-10"], note: "lubussu šukuttu ša ilāni gabbu amāru"}
+      - {motif: regular-bread-and-beer-offering, refs: ["SAA 20 050 r.i:2'-9'"], note: "kusāpu šikaru kayyamānu"}
+      - {motif: votive-gifts-received-and-recorded, refs: ["SAA 20 050 r.i:10'-13'"], note: "amāru šēlūʾāti ša ilāni gabbu mahāru: the scribe of the Aššur temple inspects and receives the votive gifts"}
+      - {motif: temple-gatekeepers-four-directions, refs: ["SAA 20 050 r.ii:3'-5'"], note: "gatekeepers of the Kalkal gate, Inpi, Nēš-ili-māti and the storehouse; not four-directional, but a gatekeeper per named gate"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 20 050 r.ii:7'"]}
+    hints:
+      - "Compare the Levitical duty rosters Num 3:25-37, 4:4-33; 1 Chr 9:17-32 (gatekeepers, utensils, flour, oil, incense, showbread); 1 Chr 23:28-32; 26."
+  - id: ane-saa20-051-temple-officials
+    tradition: ane-akkadian
+    title: Cups established by Shalmaneser; officials and priests of the Aššur temple; an order of Sennacherib
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 051 o.i", "SAA 20 051 o.ii", "SAA 20 051 r.i", "SAA 20 051 r.ii"]
+    tags:
+      - {motif: king-funds-daily-offerings, refs: ["SAA 20 051 o.i:1-4"], note: "kāsu ... ša Bīt-Aššur ša Salmanu-ašared ukinnūni: the cups the king established"}
+      - {motif: temple-officials-roll-call, refs: ["SAA 20 051 o.i:5-18", "SAA 20 051 r.ii:1'-14'"], note: "priest of Aššur, second priest, temple scribe, alahhinu, priest of Šeruʾa, chief gatekeeper, chief lamentation priest, chief musician, butler; priests of Anu, Adad, Assyrian Ištar, Nabu-Tašmetu, Kunuš-kadru"}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 051 o.ii:7'-11'"], note: "half qa of Assyrian wine, 3.5 qa of beer from the libation stand"}
+      - {motif: royal-order-on-temple-practice, refs: ["SAA 20 051 r.i:1'-10'"], note: "Sin-ahhe-eriba ... mā ...: a quoted order of Sennacherib about priests, the temple supervisor and 'if a maid of the king ... in the temple'; badly broken"}
+      - {motif: temple-staff-duty-roster, refs: ["SAA 20 051 r.ii:11'-14'"], note: "zammārūtu ša bēt-ili: the chief lamentation priest bears responsibility for the music"}
+      - {motif: priestly-lineage-in-colophon, refs: ["SAA 20 051 r.ii:15'-17'"]}
+    hints:
+      - "Kings ordering temple personnel: compare David's ordering of priests, Levites and singers, 1 Chr 23-26, and Hezekiah 2 Chr 31:2."
+  - id: ane-saa20-014-eršahunga-list
+    tradition: ane-akkadian
+    title: List of penitential psalms (eršahunga) to Ea and other gods
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 014"]
+    tags:
+      - {motif: penitential-psalm-list-by-incipit, refs: ["SAA 20 014 2'-7'"], note: "eršahunga ana {d}Ea ...; incipits in Emesal Sumerian, e.g. arhuš tuku-ma-ab ('have mercy')"}
+    hints:
+      - "Compare the Psalm headings and lists of liturgical songs, e.g. Ps 120-134 (Songs of Ascents) and the penitential Psalms 6, 32, 38, 51, 102, 130, 143."
+  - id: ane-saa20-038-o-takultu-gods
+    tradition: ane-akkadian
+    title: Tākultu of Sennacherib - gods of the Aššur temple and of the temples of Assur, gates and braziers
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 038 o.i", "SAA 20 038 o.ii", "SAA 20 038 o.iii", "SAA 20 038 o.iv"]
+    tags:
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 038 o.ii:19", "SAA 20 038 o.ii:32", "SAA 20 038 o.ii:38", "SAA 20 038 o.ii:49", "SAA 20 038 o.ii:56", "SAA 20 038 o.iii:8", "SAA 20 038 o.iii:25-26", "SAA 20 038 o.iii:37-38", "SAA 20 038 o.iii:48'"], note: "the list is grouped by temples: 'the gods of the house of Aššur', of Bēl-labria, of Anu, of Adad, of Sin, of Aššur of Nineveh, of Uraš, of Gula, of Marduk of the Inner City"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 038 o.i:30", "SAA 20 038 o.i:34", "SAA 20 038 o.i:42", "SAA 20 038 o.iii:54'-61'"], note: "{d}Nēmudu (the couch), {d}daltu naklu, golden doors; abullu and kinūnu of Aššur, Šamaš, Ištar and of the people"}
+      - {motif: deified-truth-and-justice, refs: ["SAA 20 038 o.i:21", "SAA 20 038 o.i:23-24", "SAA 20 038 o.i:61-62"]}
+      - {motif: monster-guardians-at-temple-gates, refs: ["SAA 20 038 o.i:43-54"], note: "Anzû, Lion, Lahmu, Kalkal, Šakkan, wild bulls invoked among gods"}
+      - {motif: statues-of-kings-among-gods-at-meal, refs: ["SAA 20 038 o.i:29", "SAA 20 038 o.i:37"], note: "Il-pada and ilāni darsūte"}
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 038 o.i:56-57", "SAA 20 038 o.iv:3'-9'"], note: "gods of Subartu, mountains and rivers; Ebih, the Euphrates, Mount Uraš, Zab, the Upper and Lower Zab, city wall, plaster and brick"}
+      - {motif: dumuzi-receives-offerings-in-state-cult, refs: ["SAA 20 038 o.ii:58", "SAA 20 038 o.iii:13"], note: "{d}Dumuzi listed beside Ištar and Bēr"}
+    hints:
+      - "A god-list grouped by sanctuaries: compare 2 Kgs 17:29-31 (each nation's gods in its cities) and 2 Kgs 23:4-13 (Josiah removes the vessels for Baal, Asherah and the host of heaven)."
+  - id: ane-saa20-038-r-blessings
+    tradition: ane-akkadian
+    title: Tākultu of Sennacherib - heaven and earth asked to receive and bless; blessings for Sennacherib and the meal-sharers
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 038 o.v", "SAA 20 038 r.i", "SAA 20 038 r.ii", "SAA 20 038 r.iii", "SAA 20 038 r.iv"]
+    tags:
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 038 o.v:5'-9'"], note: "šamû erṣetu ilāni šūpûti ilāni ammar parakkī ašbu ittiki limhurū ittiki lišmû"}
+      - {motif: gods-asked-to-bless-king-who-gave-meal, refs: ["SAA 20 038 o.v:10'-12'", "SAA 20 038 r.ii:1'-7'"], note: "kurbā ana Aššur, kurbā ana māt Aššur, kurbā ana Sin-ahhe-eriba bēlini; ūmē arkūti ... ana Sin-ahhe-eriba dinā ša annâte ana ilānišu iddinūni"}
+      - {motif: gods-named-at-morning-and-evening-offering, refs: ["SAA 20 038 o.v:14'-16'"]}
+      - {motif: blessing-on-sharers-of-sacred-meal, refs: ["SAA 20 038 r.iii:1-6"]}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 038 r.iv:1-11"], note: "the gates of Dayyanu and Ninurta, quay, Imgur-Enlil and Nēmed-Enlil (walls of Babylon), stands, daises, streets and gates"}
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 038 r.iv:12-17", "SAA 20 038 r.iv:35-37"], note: "gods of Esagil and Babylon; gods of Der"}
+      - {motif: divine-names-as-sentences, refs: ["SAA 20 038 r.iv:43-46"], note: "Išme-lâ, Išammê-ikribi ('He-hears-prayer'), Kaššu-kīn, Asarru-kil-lâ: gods named by phrases"}
+    hints:
+      - "Compare Ps 72:1-17 and Ps 20:2-6 for blessings on the king, and 1 Kgs 8:66."
+      - "A god called 'He hears prayer': compare Ps 65:3 ('O you who hear prayer') and the name Ishmael, Gen 16:11."
+  - id: ane-saa20-038-r-v-recitations
+    tradition: ane-akkadian
+    title: Tākultu of Sennacherib - recitation formulae for the offering in Nineveh
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 038 r.v"]
+    tags:
+      - {motif: ritual-act-with-prescribed-formula, refs: ["SAA 20 038 r.v:5-53"]}
+      - {motif: hand-released-house-seized-declarations, refs: ["SAA 20 038 r.v:10-21"], note: "qātu paṭrat ... qabal bēti ṣabit ... girru lilil"}
+      - {motif: life-accept-hear-formula, refs: ["SAA 20 038 r.v:8-9", "SAA 20 038 r.v:25", "SAA 20 038 r.v:35-37", "SAA 20 038 r.v:41-44"]}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 038 r.v:7", "SAA 20 038 r.v:32-34"]}
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 038 r.v:24"]}
+  - id: ane-saa20-039-god-list-fragment
+    tradition: ane-akkadian
+    title: God-list fragment with Humbaba and the Ištar of Egypt
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 039"]
+    tags:
+      - {motif: foreign-gods-in-assyrian-pantheon-list, refs: ["SAA 20 039 7'-8'"], note: "{d}INNIN ša {KUR}Muṣri, {d}Humbaba: Ištar of Egypt and Humbaba among the gods"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 039 3'"], note: "the weapons of Šurinnu"}
+    hints:
+      - "Foreign gods given cult in the imperial capital: compare 2 Kgs 16:10-16 and 1 Kgs 11:5-8."
+  - id: ane-saa20-012-lament-calendar
+    tradition: ane-akkadian
+    title: Calendar of laments (eršemma) and hand-lifting prayers for Aššur and Mullissu, Šabāṭ-Addar to Nisan
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 012 o", "SAA 20 012 r"]
+    tags:
+      - {motif: calendar-of-laments-after-sacrifice, refs: ["SAA 20 012 o:2'-24'", "SAA 20 012 o:27'-34'"], note: "ER2.ŠEM3.MA ana Aššur ina Ešarra arki nīqī, day by day (20th, 21st, 22nd ...), with Emesal incipits e.g. umun še-er-ma-al-la an-ki-a, dilmun-ki nigin-na"}
+      - {motif: hand-lifting-prayer-assigned-to-god, refs: ["SAA 20 012 o:25'-26'", "SAA 20 012 r:17-18", "SAA 20 012 r:25-26"], note: "ŠU.IL2.LA2 ana Aššur; ana Mullissu (nin kur-kur-ra)"}
+      - {motif: king-recites-penitential-psalm-to-drum, refs: ["SAA 20 012 o:35'-36'"], note: "eršahunga ... ina lilissi siparri ana šarri tušadbab"}
+      - {motif: god-seated-on-dais-of-destinies, refs: ["SAA 20 012 o:24'", "SAA 20 012 r:5-6", "SAA 20 012 r:23"], note: "Aššur rises (itebbi) and takes his seat in Ešarra; agurru laid (brickwork)"}
+      - {motif: king-goes-to-akitu-house, refs: ["SAA 20 012 r:19-22"], note: "Nisan 2: Aššur itebbi ina bīt akīti ušab; lament to Aššur in the akītu-house after the sacrifices"}
+      - {motif: lament-cry-o-destroyed-city-and-house, refs: ["SAA 20 012 o:29'"], note: "uru2 hul-a-ke4 'the destroyed city' (of Ištar) among the incipits"}
+    hints:
+      - "Psalm superscriptions with liturgical assignment compare with Ps 92 ('for the sabbath day'), Ps 38 and 70 (lehazkir), and the Levites' daily song (Mishnah Tamid 7:4; 1 Chr 16:4-7, 37-42)."
+  - id: ane-saa20-013-laments-to-remove-enemy
+    tradition: ane-akkadian
+    title: Laments and penitential psalms of Aššur 'for removing the enemy', day by day to each god
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 013 o", "SAA 20 013 r"]
+    tags:
+      - {motif: laments-performed-to-remove-enemy, refs: ["SAA 20 013 o:1"], note: "ER2-MEŠ u ER2.ŠA3.HUN.GA2-MEŠ ša Aššur nasāh nakri ana tāmarti(?) nasāhi"}
+      - {motif: penitential-psalm-list-by-incipit, refs: ["SAA 20 013 o:3-22", "SAA 20 013 r:2'"], note: "to Anu, Enlil, Ea, Sin, Šamaš, Adad, Ištar, Nusku; incipits me-na-še3 umun-e me-na-še3 ('how long, lord, how long')"}
+      - {motif: how-long-o-lord, refs: ["SAA 20 013 o:5", "SAA 20 013 o:9"], note: "me-na-še3 umun-e me-na-še3: 'until when, lord, until when'"}
+      - {motif: daily-dated-ritual-calendar, refs: ["SAA 20 013 o:2", "SAA 20 013 o:14", "SAA 20 013 o:17", "SAA 20 013 o:20"], note: "the 'bond' (riksu) is set out for Anu, Enlil, Ea, Sin on the first day, Šamaš on the second, Adad the third, Ištar the fourth"}
+      - {motif: catalogue-of-offerings-drink-and-dairy, refs: ["SAA 20 013 r:3'-6'"], note: "2 rams, 3 offering stands, flour, dates, honey, ghee, pressed oil, mountain honey, wine, fine beer: tamahhar 'you receive'"}
+    hints:
+      - "Communal lament to remove an enemy: compare 2 Chr 20:3-19, Ps 44, 74, 79, 83; 'How long?' Ps 13:2-3, 79:5, 89:47."
+  - id: ane-saa20-034-funerary-ritual
+    tradition: ane-akkadian
+    title: Funerary ritual for a royal woman - the bed displayed, feet washed, cedar burned, tables for Antu, Gilgameš and the boatmen
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 034 o", "SAA 20 034 b.e", "SAA 20 034 r"]
+    tags:
+      - {motif: dead-displayed-on-bed, refs: ["SAA 20 034 o:1-6", "SAA 20 034 o:15-21", "SAA 20 034 o:28-b.e:31"], note: "eršu ikarrurū taklimtu ukallumū; šēpē imassiu; kallātu šēpē tamassi; 3-šu ištu erši talabbia; šēpē tanaššiq"}
+      - {motif: torches-lit-at-sunset-in-palace, refs: ["SAA 20 034 o:3", "SAA 20 034 o:19-20"], note: "zīqtu ša qanî ṭābi: a torch of sweet reed carried"}
+      - {motif: effigy-of-dead-given-ram-heart, refs: ["SAA 20 034 o:7-9", "SAA 20 034 o:21-23"], note: "erēnu tašarrap ina karāni tuballa libbu ša immeri ina tappinni ina qabli ša ṣalmi tašakkan"}
+      - {motif: funerary-water-libation-for-parents, refs: ["SAA 20 034 o:10-14", "SAA 20 034 o:17", "SAA 20 034 o:24-25"], note: "wine poured to the ground from a stone vessel; two libation vessels poured before Šamaš; water, oil and dough presented"}
+      - {motif: royal-funeral-burnings, refs: ["SAA 20 034 o:15-16"], note: "ūmu ša eršu ikarrarūni ūmu ša šuruptu išarrapūni: 'the day the bed is set up, the day the burning is burnt'"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 034 r:1"]}
+      - {motif: name-of-dead-called-at-burial, refs: ["SAA 20 034 r:2"], note: "šumša izakkuru: they call out her name; fire is lit (išātu ummudu)"}
+      - {motif: flour-boat-broken-for-dead, refs: ["SAA 20 034 r:6-8"], note: "eleppu ša qēmi patru ... ihappiu, oil and honey poured in; the bowls drawn 'that the river is drawn in'"}
+      - {motif: palace-women-mourn-with-bloodied-noses, refs: ["SAA 20 034 r:9-11"], note: "sinnišāt ēkalli iraggama mā alkani; ... mārat kīnāti qabbira; ina dāmē ša appi ša bēl-tādirāti gabbu ikannuku"}
+      - {motif: funerary-tables-for-netherworld-figures, refs: ["SAA 20 034 r:12-16"], note: "paššuru ina pān Antu rabīti, paššuru ina pān Gilgameš, paššuru ina pān malāhī irakkusu"}
+      - {motif: dead-declared-released-before-sun-god, refs: ["SAA 20 034 r:17-20"], note: "kīma kamis ina pān Šamaš: mā ezhat paṭrat; mā mīnu ezhat paṭrat mā ilānīša palhu; mā ana šarri zērišu kurbi: 'she is girded, released ... her gods are fearful ... bless the king and his seed'"}
+    hints:
+      - "Funeral burnings for royalty: 2 Chr 16:14, 21:19, Jer 34:5."
+      - "Mourners lacerating themselves: forbidden in Lev 19:28, 21:5, Deut 14:1; practised Jer 16:6, 41:5; professional women mourners Jer 9:16-19."
+      - "Feet of the dead washed and the body displayed: compare Gen 50:2-3; 2 Sam 3:31-34 (the king follows the bier)."
+  - id: ane-saa20-040-o-takultu-gods-and-blessings
+    tradition: ane-akkadian
+    title: Tākultu (Assur version) - gods of the temples, gods named at the sun's and moon's sacrifices, Nineveh's gods; blessings
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 040 o.i", "SAA 20 040 o.ii", "SAA 20 040 o.iii", "SAA 20 040 o.iv", "SAA 20 040 o.v", "SAA 20 040 o.vi"]
+    tags:
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 040 o.i:65", "SAA 20 040 o.ii:24", "SAA 20 040 o.ii:31-32", "SAA 20 040 o.iii:8-9", "SAA 20 040 o.iii:20-21", "SAA 20 040 o.iii:31-32", "SAA 20 040 o.iv:19", "SAA 20 040 o.v:40", "SAA 20 040 o.vi:10"]}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 040 o.i:25", "SAA 20 040 o.i:30", "SAA 20 040 o.i:35", "SAA 20 040 o.ii:23", "SAA 20 040 o.vi:14"], note: "Nēmudu, the skilful door, golden doors, the ziggurats (ziqqurrāti), the Weapon of Aššur"}
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 040 o.iv:1-11"], note: "city, wall, plaster, brick, palace and recess, stations of the goddesses, the lamassu: limhurū lišmû"}
+      - {motif: gods-asked-to-bless-king-who-gave-meal, refs: ["SAA 20 040 o.iv:6-8", "SAA 20 040 o.vi:7-9"], note: "likrubū ana Aššur, ana māt Aššur, ana šarri bēlini"}
+      - {motif: gods-named-at-morning-and-evening-offering, refs: ["SAA 20 040 o.iv:10-11"]}
+      - {motif: divine-names-as-sentences, refs: ["SAA 20 040 o.iv:39-o.v:6"], note: "Šitammê-nīqi, Išme-lâ, Išme-karābu, Uṣur-pīšunu, Šitammê-karābu: 'Hear-the-offering', 'He-heard-the-prayer', 'Guard-their-mouth' - the judges of the Aššur temple"}
+      - {motif: gods-named-at-sun-and-moon-sacrifices, refs: ["SAA 20 040 o.v:14-16", "SAA 20 040 o.v:21-23"], note: "kī nīqī ina pān Šamaš ... ina pān Sin ... šumēšunu tazakkar; 'the gods of the night' (ilāni mušīti)"}
+      - {motif: dumuzi-receives-offerings-in-state-cult, refs: ["SAA 20 040 o.ii:35", "SAA 20 040 o.iv:27", "SAA 20 040 o.vi:31"]}
+    hints:
+      - "Gods addressed as 'hearer of prayer': Ps 65:3; the night-gods and astral cult: 2 Kgs 23:5, Jer 8:2."
+  - id: ane-saa20-040-r-i-iii-gods-of-cities
+    tradition: ane-akkadian
+    title: Tākultu (Assur version) - gods of Kurbail, Arbela, Tuʾe and foreign cities; heaven, the four winds and the land
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 040 r.i", "SAA 20 040 r.ii", "SAA 20 040 r.iii"]
+    tags:
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 040 r.i:15'-37'", "SAA 20 040 r.ii:14'-41'"], note: "Ištar of Arbela and her many hypostases ('Ištar of the lions', 'Ištar of Anzû'); Ištar of Pinas; Sin of Purunda; Kumarbi of Tedi; Nabarbi; Šalmanuha"}
+      - {motif: foreign-gods-in-assyrian-pantheon-list, refs: ["SAA 20 040 r.ii:38'-41'", "SAA 20 040 r.iii:6'-7'"], note: "Kumarbi (Hurrian), Haldi-aṣira? (Urartian Haldi), Hallasia, Nabarbi"}
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 040 r.ii:1'-10'", "SAA 20 040 r.iii:24'-41'"], note: "āšibūt šamê Anunnaki ... mukinnū māhāzī, mountains, rivers, Ekur-nakku, the four winds (IM 1 2 3 4), the land of Assyria, its cities, daises, forts, ruin mounds, mountains, springs, rivers of the four quarters"}
+      - {motif: life-accept-hear-formula, refs: ["SAA 20 040 r.ii:9'-10'", "SAA 20 040 r.ii:19'-21'"], note: "limhurū balāṭa lišmû supê; muhrū šimî ... usik šallim urrik rapiš"}
+      - {motif: gods-named-at-sun-and-moon-sacrifices, refs: ["SAA 20 040 r.ii:22'-25'"], note: "kī nīqī ša pān urāte (the stables) ēpušūni šumēšunu tazakkar"}
+    hints:
+      - "Gods of many cities and nations at the imperial table compare with 2 Kgs 17:29-33 and 18:34."
+  - id: ane-saa20-040-r-iv-vi-blessings-stars
+    tradition: ane-akkadian
+    title: Tākultu (Assur version) - blessings for the king; gods of Esagil; sacrifices before the stars; colophon of the chief scribe
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 040 r.iv", "SAA 20 040 r.v", "SAA 20 040 r.vi"]
+    tags:
+      - {motif: gods-asked-to-bless-king-who-gave-meal, refs: ["SAA 20 040 r.iv:2'-27'"], note: "ūmē arkūti šanāti dārâti kakku dannu palû arku ... ana šarri bēlini dinā ša annâti ana ilānišu iddinu; lū balṭu lū šalim; šēbūta labīrūta lillik"}
+      - {motif: king-blessed-with-long-life-and-roots, refs: ["SAA 20 040 r.iv:11'-15'"]}
+      - {motif: blessing-on-sharers-of-sacred-meal, refs: ["SAA 20 040 r.iv:28'-35'"]}
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 040 r.v:21'-25'"], note: "gods of Esagil and Babylon named on the day of sacrifices before Bēl"}
+      - {motif: king-sacrifices-before-stars, refs: ["SAA 20 040 r.vi:15'-28'"], note: "kī šarru nīqī ina pān kakkabī ēpušūni: before Aššur, Marduk, Ištar, Sin, Nabu, the stars GAG.SI.SA? ({MUL}GAG.TI), the Yoke (ŠUDUN), Erragal(?), Gula, Nergal, Šakkan, the Chariot(?), the Sons of Truth, Šamaš"}
+      - {motif: scribal-colophon, refs: ["SAA 20 040 r.vi:31'-32'"], note: "ṭuppi Issar-šumu-ēreš rab ṭupšarri"}
+    hints:
+      - "Sacrifice to the stars: 2 Kgs 21:3-5, 23:4-5, 12 (altars to the host of heaven in the temple courts), Jer 8:2, 19:13, Zeph 1:5, Deut 4:19."
+      - "Opening gates for the god: Ps 24:7-10."
+  - id: ane-saa20-022-goddess-bath
+    tradition: ane-akkadian
+    title: Ritual of Šarrat-nipha - the goddess brought to the bath-house
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 022"]
+    tags:
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 022 o:5'-6'"]}
+      - {motif: roasted-kid-before-gods, refs: ["SAA 20 022 o:10'"]}
+      - {motif: goddess-image-taken-to-bath, refs: ["SAA 20 022 o:11'-17'"], note: "Šarrat-nipha ina bīt urhi ušerrab rinku išakkan ištu muhhi rinki uṣṣâ"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 022 o:1'-8'", "SAA 20 022 o:18'-21'"]}
+    hints:
+      - "Ritual bathing compares with the priestly washings at the laver, Exod 30:17-21, and Lev 16:4, 24."
+  - id: ane-saa20-016-o-ishtar-siru
+    tradition: ane-akkadian
+    title: Ištar ritual - the king's meal before the goddess, the sīru brought in and led seven times by the singers
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 016 o.i"]
+    tags:
+      - {motif: roasted-kid-before-gods, refs: ["SAA 20 016 o.i:2'"]}
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 016 o.i:5'"]}
+      - {motif: royal-banquet-with-music, refs: ["SAA 20 016 o.i:8'-12'"], note: "the king sits on a couch before the left door; a table is set; a cupbearer stands at his right; nāru bīta rašba izammur ('the awesome house' is sung)"}
+      - {motif: salt-strewn-before-god, refs: ["SAA 20 016 o.i:13'"], note: "before the standard (urigallu)"}
+      - {motif: performer-led-seven-times-before-goddess, refs: ["SAA 20 016 o.i:14'-25'"], note: "sīru ina pān Ištar ušerrab ... naqbītu ina pān Ištar ša Bīt-ēqi iqabbi; sīru ina qaqqad nēši šikarī išaqqiū; rab-zammārī nargallī ina pānāt sīri adi sebîšu illukū"}
+      - {motif: seven-fold-ritual-action, refs: ["SAA 20 016 o.i:25'"]}
+      - {motif: king-stroke-nose-gesture, refs: ["SAA 20 016 o.i:26'"], note: "šarru ana sīri emmar unammaš appašu ilabbin"}
+    hints:
+      - "Sevenfold procession: Josh 6:3-16; the gesture of humility compares with 1 Kgs 18:42 and Ps 95:6."
+  - id: ane-saa20-016-r-ishtar-lady-of-heaven
+    tradition: ane-akkadian
+    title: Ištar ritual - braziers, bulls, cakes danced on the table, 'Ištar lady of heaven' sung
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 016 r.iv"]
+    tags:
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 016 r.iv:1", "SAA 20 016 r.iv:17", "SAA 20 016 r.iv:22", "SAA 20 016 r.iv:31"]}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 016 r.iv:5-7"], note: "two bulls slaughtered; the heart of one is pushed between its own (legs?) for the akusu; boiled meat presented from the other"}
+      - {motif: loaves-made-to-dance-before-god, refs: ["SAA 20 016 r.iv:14", "SAA 20 016 r.iv:27"], note: "kamānu ina muhhi paššuri išakkan ušarqad"}
+      - {motif: inana-titled-lady-of-heaven, refs: ["SAA 20 016 r.iv:19"], note: "nāru Ištar bēlet šamê izammur: the song 'Ištar, lady of heaven'"}
+      - {motif: queen-of-heaven-cult, refs: ["SAA 20 016 r.iv:13-23"], note: "cakes on the table, incense, libations of honey, oil, beer, wine and milk for Ištar 'lady of heaven'"}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 016 r.iv:23"]}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 016 r.iv:19-20", "SAA 20 016 r.iv:25-26"], note: "the singer sings to Amurritu; zumāru ikaššada"}
+      - {motif: purifier-passed-over-table-and-censers, refs: ["SAA 20 016 r.iv:4", "SAA 20 016 r.iv:15-16", "SAA 20 016 r.iv:21"]}
+    hints:
+      - "Cakes, incense and libations to the 'Queen of Heaven': Jer 7:18, 44:17-19, 25."
+  - id: ane-saa20-025-o-tukulti-ninurta-river-rite
+    tradition: ane-akkadian
+    title: Tukulti-Ninurta's rite for the Lady of the River - tent on the bank, metals, strewn offerings and hymns to each god
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 025 o"]
+    tags:
+      - {motif: king-establishes-rite-for-deity, refs: ["SAA 20 025 o:1-3"], note: "ēpušma Tukulti-Ninurta šar māt Aššur parṣī ana Šarrat-nāri ilišu ukīnma iddin"}
+      - {motif: evil-released-seed-secured, refs: ["SAA 20 025 o:3"], note: "dullu annâ ina pān Šarrat-nāri šallim ēpuš zērušu ikaṣṣar"}
+      - {motif: ritual-tent-on-riverbank, refs: ["SAA 20 025 o:4-5"], note: "maškanu ina kišād nāri tamahhaṣ bābšu ana pān Šamaš tašakkan; chair, red wool, juniper"}
+      - {motif: catalogue-of-offerings-drink-and-dairy, refs: ["SAA 20 025 o:6-12"], note: "table before Šamaš, censer, libation vessels of wine and beer, breads by the sūtu, groats, roast corn, bowls of oil and honey, pomegranates, 7 drink-vessels of oil, honey, beer, wine and milk"}
+      - {motif: set-of-metals-one-mina-each, refs: ["SAA 20 025 o:13-14"], note: "1 mina each of iron, lead, gold, silver, bronze, tin, glass (anzahhu), dark-blue, blue and red wool"}
+      - {motif: strewn-flour-offering-to-each-deity, refs: ["SAA 20 025 o:39'-51'"], note: "šerqu tašarraq before the Lady of the River, the Igigi, the bed and Anunnaki, Bēlet-ili, Sin, the Judges"}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 025 o:41'-50'"], note: "ridanê bēlē rabûti māhāzakunu nēpuš; Bēlet-ili āšbata ina puhur ilāni rabûti; Anu abu ilāni bānû kalāma rašubbu ... tazammur"}
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 025 o:38'-51'"]}
+      - {motif: fat-and-roast-portions-offered, refs: ["SAA 20 025 o:46'-48'", "SAA 20 025 o:51'"], note: "himṣu šumû (fat tissue and roast) presented; 7 fat portions and 7 roasts before the Judges"}
+      - {motif: seven-fold-ritual-action, refs: ["SAA 20 025 o:12", "SAA 20 025 o:51'"]}
+    hints:
+      - "The list of metals compares with Num 31:22-23 (gold, silver, bronze, iron, tin and lead passed through fire)."
+      - "Fat portions offered: Lev 3:3-5, 7:30-31."
+  - id: ane-saa20-025-r-release-of-evil
+    tradition: ane-akkadian
+    title: Tukulti-Ninurta's rite for the Lady of the River - the client released, his evil loosened, hymns to Bēlet-ili and Ea's spouse
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 025 r"]
+    tags:
+      - {motif: god-releases-sin-of-supplicant, refs: ["SAA 20 025 r:7-9"], note: "libbi ilīka libbi šīmtika qāt ilīka qāt ištarīka lippaṭirka ... lumunšu ipaṭṭar; 'may the heart of your god ... the hand of your god and goddess be loosened for you': release from divine anger"}
+      - {motif: evil-released-seed-secured, refs: ["SAA 20 025 r:8", "SAA 20 025 r:44'-47'"], note: "zēršu ikaṣṣar; dullu annû mahar šarrat-nārāti ušallam ēpaša zēršu išir"}
+      - {motif: purifier-passed-over-table-and-censers, refs: ["SAA 20 025 r:8", "SAA 20 025 r:10"], note: "sāri tušetaq, ša-tēlissi tušetaq; censers passed over him"}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 025 r:5-6", "SAA 20 025 r:14"], note: "Bēlet-ili šarratu umme šamê erṣeti rabîti; bēltu rašubbat ilāni šarrat apsî; ... gešertu hīrtu Ea"}
+      - {motif: strewn-flour-offering-to-each-deity, refs: ["SAA 20 025 r:13", "SAA 20 025 r:42'"]}
+      - {motif: kissing-idol, refs: ["SAA 20 025 r:43'"], note: "išaqqīši šaptīša inaššiq: gives her drink and kisses her lips"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 20 025 r:48'"]}
+    hints:
+      - "Release from the god's anger compares with Ps 6:2, 38:2 and the penitential Ps 51; the client's 'seed' with Ps 112:2."
+  - id: ane-saa20-031-singer-rite-for-sacrificer
+    tradition: ane-akkadian
+    title: A rite led by the singer for the sacrificer - seated on fleeces, hands bound, offering graded by rank
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 031 o", "SAA 20 031 r"]
+    tags:
+      - {motif: singer-officiates-rite, refs: ["SAA 20 031 o:6'", "SAA 20 031 o:15'-17'", "SAA 20 031 o:22'-24'", "SAA 20 031 r:5", "SAA 20 031 r:9", "SAA 20 031 r:18-20"], note: "nāru dandan ilāni ... izammur; Ea elû; Enlil; dayyān kibrāti; pētû ekleti; mušnammir; lilil"}
+      - {motif: client-seated-bound-with-red-wool, refs: ["SAA 20 031 o:18'-21'", "SAA 20 031 r:1-2"], note: "lignu of grain, a fourth of the washed wool beneath, at the head and at the feet; ina muhhi anhi tušeššabšu ina nipši tabarri qātēšu tarkas ... qātē bēl nīqi iṣabbat ... ipaṭṭaršu ... ušatbâšu"}
+      - {motif: offering-graded-by-social-rank, refs: ["SAA 20 031 r:6-8"], note: "šumma rubû šû sukannīnu ana maqlûte iqallu; šumma muškēnu šû libbi immeri iqallu"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 031 o:21'", "SAA 20 031 o:24'", "SAA 20 031 r:2", "SAA 20 031 r:19"], note: "here the singer washes his hands and offers water to Šamaš; water given to the sacrificer's hands"}
+      - {motif: catalogue-of-offerings-drink-and-dairy, refs: ["SAA 20 031 o:9'-14'", "SAA 20 031 r:13-14"], note: "bowl of oil and water at the head of the chair between the gate; 'the sun's brightness brought in'; table with barley, flour, oil, honey, beer, wine, dates, figs"}
+      - {motif: sun-god-opener-of-darkness, refs: ["SAA 20 031 o:10'", "SAA 20 031 o:22'"], note: "namrir Šamši ina libbi tušerraba; nāru pētû ekleti izammur ('opener of darkness'); 'you tread down the wicked' (takabbas raggu)"}
+    hints:
+      - "Offerings graded by means: Lev 5:7-13, 12:8, 14:21-22 (turtledoves for the poor; here inverted: the prince offers a turtledove as burnt offering)."
+      - "The sun god who opens darkness and treads the wicked: Mal 3:20 (4:2-3); Ps 37:6."
+  - id: ane-saa20-033-palace-banquet
+    tradition: ane-akkadian
+    title: Protocol of the king's banquet - officials' entry, braziers, towels, hand-water, torches at sunset, the cups
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 033 o.i", "SAA 20 033 o.ii", "SAA 20 033 r.i"]
+    tags:
+      - {motif: palace-banquet-protocol, refs: ["SAA 20 033 o.i:1-19", "SAA 20 033 r.i:32-52"], note: "ūmu ša naptini ša šarri adi rabûti: table and couch set at the door; the palace herald, the field marshal, the vizier, the crown prince enter in turn, report (ṭēmu utarra) and take position"}
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 033 o.i:5", "SAA 20 033 o.i:8", "SAA 20 033 o.i:11-12"], note: "officials kiss the ground before the king"}
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 033 o.ii:1-6", "SAA 20 033 r.i:43-45"], note: "censers placed right and left of the king's couch; aromatics given and the burnt ones removed with an iron rake; many aromatics burned"}
+      - {motif: brazier-tended-in-winter-month, refs: ["SAA 20 033 o.ii:7-15"], note: "ana maṣṣarti ša Kanūni: embers fallen from the brazier put back; fire stoked; wood added; excess fire removed"}
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 033 o.ii:16-21"], note: "soiled towels and hand-cloths replaced by clean; one stands at the jar of hand-water and refills it"}
+      - {motif: torches-lit-at-sunset-in-palace, refs: ["SAA 20 033 r.i:37-42"], note: "ina pān šamši rabê simen ziqtu ziqāti ušanmurū ina ēkalli ušerrabū"}
+      - {motif: royal-banquet-with-music, refs: ["SAA 20 033 r.i:45-46"], note: "big cups set; the palace supervisor says to the butler 'šiqi!' (pour!)"}
+      - {motif: dishes-of-the-royal-table, refs: ["SAA 20 033 r.i:30-31"], note: "ianūqu, hallānu, ducks, turtledoves, jerboas (akbiru) ... naptunu ammar ša parṭu"}
+    hints:
+      - "Compare Solomon's table and attendants, 1 Kgs 10:5 (2 Chr 9:4); Nehemiah as cupbearer, Neh 2:1; the banquets of Esth 1:5-8 and Dan 5:1-4; the brazier in the winter house, Jer 36:22."
+  - id: ane-saa20-002-i-day-18
+    tradition: ane-akkadian
+    title: Assur temple ritual (duplicate of SAA 20 001), days 18-19 - purification, salt, incense counts
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: duplicate of SAA 20 001
+    read: ["SAA 20 002 i", "SAA 20 002 ii"]
+    tags:
+      - {motif: hand-water-for-king-before-offering, refs: ["SAA 20 002 i:4'-5'", "SAA 20 002 i:15'"]}
+      - {motif: divine-images-placed-on-kings-neck, refs: ["SAA 20 002 i:6'"]}
+      - {motif: hand-released-house-seized-declarations, refs: ["SAA 20 002 i:18'-22'"], note: "as SAA 20 001 o:14-17"}
+      - {motif: kispu-for-dead-in-temple-rite, refs: ["SAA 20 002 i:24'"]}
+      - {motif: aromatics-thrown-on-censer-repeatedly, refs: ["SAA 20 002 i:29'-35'"], note: "variant adds counts: 23, 16, and 8 portions of aromatics in the 14th, 15th, 16th, 17th censers"}
+      - {motif: offering-portions-given-to-officials, refs: ["SAA 20 002 ii:8'"], note: "quršu ša Mullissu sinnišāt ēkalli ušaddan (palace women)"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 002 ii:9'-10'"]}
+  - id: ane-saa20-002-r-days-20-22
+    tradition: ane-akkadian
+    title: Assur temple ritual (duplicate), days 20-22 - the king does not go down on the 21st; the bull of Bīt-Dagan
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: duplicate of SAA 20 001
+    read: ["SAA 20 002 r.iii", "SAA 20 002 r.iv"]
+    tags:
+      - {motif: offering-portions-given-to-officials, refs: ["SAA 20 002 r.iii:2'", "SAA 20 002 r.iv:36'", "SAA 20 002 r.iv:42'"], note: "quršu ša Mullissu: crown prince on day 20 and 21, the chief accountant on day 21"}
+      - {motif: daily-dated-ritual-calendar, refs: ["SAA 20 002 r.iii:3'", "SAA 20 002 r.iv:37'", "SAA 20 002 r.iv:44'-45'"], note: "UD 21 šarru ina bēt-ili lā urrad"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 002 r.iii:4'", "SAA 20 002 r.iv:40'-43'"], note: "the bull of Bīt-Dagan which the king sees"}
+  - id: ane-saa20-018-war-ritual-arrows
+    tradition: ane-akkadian
+    title: War ritual - the god-impersonators face the enemy, the king bends the bow before Šamaš, arrows shot, the enemy conquered
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 018 o", "SAA 20 018 r"]
+    tags:
+      - {motif: impersonators-of-gods-face-enemy, refs: ["SAA 20 018 o:10-18"], note: "sarrānāti ina pān ilāni izzazzu ... sarrānāte pānīšunu ina muhhi nakri išakkunū uhabbubū iraqqudū"}
+      - {motif: cult-performers-mock-battle, refs: ["SAA 20 018 o:19-21"], note: "kurgarrû mēlulē qabli izammurū; assinnū yarūrūtu usahhurū"}
+      - {motif: arrow-rite-for-victory, refs: ["SAA 20 018 o:22-49"], note: "šarru qašta ina pān Šamaš umalla ... šiltāhu ištu muhhi mugerri ša Mašmaš ... 3-šu ušaṣbar inaššiq ... šiltāhu ina libbi nakri ušeṣûni ... šarru iqarrib nakaršu ikaššad"}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 018 o:14-15"], note: "nāru qardu irub ušašmir kabtu bunnû izammur"}
+      - {motif: kissing-idol, refs: ["SAA 20 018 o:31"], note: "the king kisses the arrow"}
+      - {motif: drum-hung-after-victory, refs: ["SAA 20 018 o:29", "SAA 20 018 o:51-52"], note: "balangu ina naglabišu"}
+      - {motif: king-kisses-ground-before-god, refs: ["SAA 20 018 o:53"]}
+      - {motif: king-feasts-after-ritual-victory, refs: ["SAA 20 018 o:54-56"], note: "erēb-āli ana madakte uppaš; ana qersi errab naptunu išakkan šarru ihaddu"}
+      - {motif: priestly-lineage-in-colophon, refs: ["SAA 20 018 o:58", "SAA 20 018 r:6"]}
+    hints:
+      - "The arrow of victory: Elisha has king Joash shoot and strike with arrows, 2 Kgs 13:15-19; arrows in war divination, Ezek 21:26 (21:21)."
+      - "Ritual before battle: Num 10:9, 35; 1 Sam 7:9-10; Deut 20:2-4; Ps 20."
+  - id: ane-saa20-046-takultu-fragment
+    tradition: ane-akkadian
+    title: Tākultu fragment - gods of Nineveh; the Anunnaki who establish the cult centres
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 046 r.i", "SAA 20 046 r.ii"]
+    tags:
+      - {motif: litany-of-gods-and-their-cities, refs: ["SAA 20 046 r.i:8'-17'"], note: "Lady of Paranzi, the Seven, Nergal of Tarbiṣu, gods of Nineveh"}
+      - {motif: banquet-litany-invokes-temple-and-cosmos, refs: ["SAA 20 046 r.i:11'", "SAA 20 046 r.ii:10'-15'"], note: "heaven and earth; āšibūt šamê, Anunnaki mukinnū māhāzī, mountains, rivers, city, wall, plaster, brick, palace"}
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 046 r.i:15'", "SAA 20 046 r.ii:1'-3'"], note: "Weapon of Aššur; abanu; Dais of Destinies"}
+  - id: ane-saa20-047-takultu-fragment
+    tradition: ane-akkadian
+    title: Tākultu fragment - statues, golden doors, Anzû, lions, gate gods
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 047 o", "SAA 20 047 b.e", "SAA 20 047 r"]
+    tags:
+      - {motif: cult-objects-invoked-as-gods, refs: ["SAA 20 047 o:3'-5'"], note: "ṣalmī ilāni ālāni nārāti, golden doors, anzê, lions of the gate of entry"}
+      - {motif: monster-guardians-at-temple-gates, refs: ["SAA 20 047 o:4'-5'", "SAA 20 047 r:1-3"], note: "Kalkal, Šakkan, lions, wild bulls, Anzû, Kusarikku"}
+      - {motif: deified-truth-and-justice, refs: ["SAA 20 047 r:6"]}
+  - id: ane-saa20-028-ritual-fragment
+    tradition: ane-akkadian
+    title: Ritual fragment - tables set, cakes, beer and wine libated, songs sung
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 028 o", "SAA 20 028 r"]
+    tags:
+      - {motif: libations-of-beer-and-wine, refs: ["SAA 20 028 o:11'", "SAA 20 028 o:14'"], note: "only line-ends preserved"}
+      - {motif: hymn-incipits-sung-at-each-offering, refs: ["SAA 20 028 o:10'", "SAA 20 028 o:13'", "SAA 20 028 r:2'-3'"], note: "tazammur at line ends; songs lost"}
+      - {motif: loaves-made-to-dance-before-god, refs: ["SAA 20 028 o:8'"], note: "only kaman zīzi ('kamānu-cake with onion') preserved; the act is lost"}
+  - id: ane-saa20-004-ritual-fragment
+    tradition: ane-akkadian
+    title: Ritual fragment - the king carried in the sedan chair, sacrifice before Bēlet-balāṭi
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    read: ["SAA 20 004 ii"]
+    tags:
+      - {motif: king-carried-in-sedan-chair, refs: ["SAA 20 004 ii:5'", "SAA 20 004 ii:7'"], note: "šarru ina muhhi ša-šadādi"}
+      - {motif: king-officiates-sacrifice-in-temple, refs: ["SAA 20 004 ii:3'", "SAA 20 004 ii:6'"], note: "3 libation vessels completed; nīqu inassah"}
