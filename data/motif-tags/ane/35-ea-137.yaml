@@ -1,0 +1,155 @@
+# Full read of the ANE corpus, chunk 35: Amarna letters EA 137 ... EA 287 (in the order of `aneread.py texts 35`).
+# Read from ORACC lemmatized transliterations (aemw/amarna), which carry lemma glosses only (no translation).
+# One unit per letter. Byblos (Rib-Addi) letters, Amurru, Tyre, the southern Levant (Gezer, Akko, Lachish),
+# Abdi-Heba of Jerusalem (EA 285-288), and a few letters of the king and of officials.
+new_motifs:
+  canaanite-gloss-in-amarna-letter: {label: "A scribe writing Akkadian in Canaan uses or glosses a word with its Canaanite (West Semitic) equivalent (e.g. ḫaparu 'dust', kilūbi 'cage', zuruḫ 'arm', ṣaduq 'righteous', anūki 'I', baṭnu 'belly')", cluster: scribal}
+  vassal-calls-overlord-breath-of-life: {label: "A vassal calls the overlord 'the breath of my life' (šār balāṭīya) or complains that no breath comes to him from the king's mouth", cluster: kingship}
+  kings-name-placed-in-city-forever: {label: "The overlord has 'set his name' in a city (or at the rising and setting of the sun) for ever, so he cannot abandon it", cluster: kingship}
+  vassal-installed-by-kings-strong-arm: {label: "The vassal says it was not his father or mother but the strong arm of the king that set him in his father's house", cluster: kingship}
+  vassal-claims-to-be-soldier-not-mayor: {label: "A vassal insists he is not a mere mayor (ḫazannu) but a soldier (weʾu) or companion of the king", cluster: kingship}
+  vassal-longs-to-see-kings-eyes: {label: "The vassal longs to go to court and see the two eyes (the face) of the king, but enemies prevent him", cluster: kingship}
+  postscript-to-royal-scribe: {label: "A letter ends with a note to the king's scribe asking him to present the writer's words eloquently to the king", cluster: scribal}
+  overlord-silent-to-vassals-pleas: {label: "The overlord stays silent (qâlu) and sends no word or help though the vassal writes again and again", cluster: kingship}
+  enemy-called-slave-and-dog: {label: "A vassal disparages an enemy as 'the slave, the dog' ('who is he, the dog, that he should take the king's lands?')", cluster: kingship}
+  slanderers-eat-pieces-before-king: {label: "Slanderers 'eat the pieces' (akālu karṣī) of the writer, maligning him before the king", cluster: kingship}
+  vassal-begs-grain-in-famine: {label: "With the harvest seized and no grain to eat, the vassal begs the king to send grain (by ship) to keep his servant and city alive", cluster: war}
+  former-kings-sent-garrison-and-provisions: {label: "A vassal recalls that in his fathers' days the king's garrison and provisions were with them, whereas now he guards himself alone", cluster: kingship}
+  rulers-murdered-unavenged: {label: "Rulers are killed by their own towns or at the city gate, like dogs, and no one avenges them or the king does not ask after them", cluster: war}
+  assassination-attempt-on-vassal: {label: "A man with a bronze dagger stands over the ruler to kill him at an enemy's instigation; the ruler survives and slays him", cluster: war}
+  vassal-old-and-sick: {label: "The vassal pleads that he is old and gravely ill in his body and so cannot travel to the overlord", cluster: kingship}
+  illness-as-sin-against-city-gods: {label: "A ruler attributes his severe illness to sin he committed against the holy gods of his city", cluster: cult}
+  younger-brother-hands-city-to-enemy: {label: "The ruler's younger brother turns the city against him, drives him out and plans to hand the city to the enemy", cluster: war}
+  ruler-flees-with-city-gods: {label: "A threatened ruler asks for ships to carry him away together with the living gods of his city to his lord", cluster: cult}
+  usurper-lies-in-lords-bedchamber: {label: "The usurper lies down in his lord's bedchamber and opens his treasure-house", cluster: kingship}
+  loyal-as-brick-under-kings-feet: {label: "Loyalty image: a brick may slip from under its partner, but the vassal will not move from under the feet of the king", cluster: kingship}
+  vassal-like-ship-in-midst-of-sea: {label: "The beleaguered vassal likens himself to a ship in the midst of the sea", cluster: kingship}
+  kings-caravan-plundered: {label: "The caravan carrying the vassal's tribute to the king is plundered in the fields on the way", cluster: war}
+  overlord-orders-cupbearer-women: {label: "The overlord orders a vassal to send beautiful women cup-bearers, without blemish, at a fixed price in silver", cluster: kingship}
+  plague-town-refused-entry: {label: "People from a plague-stricken town are refused entry to another town for fear of contagion", cluster: war}
+  vassal-promises-to-rebuild-city: {label: "A vassal accused of neglect promises to (re)build the king's city within the year", cluster: kingship}
+  egyptians-once-feared-now-scorned: {label: "Once the kings of Canaan fled at the sight of an Egyptian; now the rebels treat Egyptians like dogs", cluster: war}
+  better-to-die: {label: "The sufferer declares that death would be better for him than his present plight", cluster: lament}
+  tyre-wealth-like-the-sea: {label: "The wealth of Tyre is as great as the sea and its palace is like the palace of Ugarit", cluster: city}
+  invader-turns-back-for-lack-of-water: {label: "An invading king turns back because there is no water to drink on the way", cluster: war}
+  vassal-city-likened-to-egyptian-city: {label: "A vassal says his city is to the king like an Egyptian city (Memphis, Magdalu), part of Egypt itself", cluster: kingship}
+  petition-to-egyptian-official-invokes-amun: {label: "A vassal writing to an Egyptian official wishes that Amun, the king's god, give him honour before the king, and urges him to speak to the king", cluster: kingship}
+  inventory-of-seized-goods: {label: "A letter lists in detail the goods (vessels, weapons, furniture, slaves, gold) of a man that are claimed or have been seized", cluster: law}
+  deed-never-done-before: {label: "The writer protests that a deed has been done that was never done since time immemorial", cluster: war}
+  city-as-kings-handmaid: {label: "A vassal city is called the king's faithful handmaid (amtu), or itself writes as the king's maid", cluster: kingship}
+  prostrate-on-belly-and-back: {label: "The vassal prostrates himself 'on the belly and on the back' before the king", cluster: kingship}
+  vassal-protests-innocence: {label: "Accused, the vassal protests 'I am not guilty, I have not sinned' and names his only 'sin'", cluster: kingship}
+  hereditary-servitude-like-fathers: {label: "The vassal serves the king as his father and his father's father served him", cluster: kingship}
+  king-curses-disloyal-servant: {label: "The man who does not serve the king, the king curses him", cluster: kingship}
+  overlord-likened-to-storm-god: {label: "The overlord is likened to both the sun god and the storm god (Baal/Addu)", cluster: kingship}
+  vassal-groom-of-kings-horses: {label: "The vassal calls himself the groom or driver of the king's horses", cluster: kingship}
+  letter-greeting-gods-ask-welfare: {label: "Letter greeting: 'may the gods ask after your welfare and the welfare of your house'", cluster: scribal}
+  ahlamu-aramaeans: {label: "The Aḫlamû (early Aramaean nomads) appear as a threat in a letter", cluster: war}
+  vassal-will-die-with-king: {label: "The vassal and his brothers are ready to die with (for) the king their lord", cluster: kingship}
+  king-righteous-toward-servant: {label: "The vassal declares 'the king my lord is righteous (ṣaduq) toward me'", cluster: kingship}
+  vassal-sends-weapons-and-garments-as-gift: {label: "A vassal sends the king a gift of horse harness, bow, quiver, spear and garments", cluster: kingship}
+  vassal-reports-rivals-conspiracy: {label: "A vassal informs the overlord's official that rival rulers conspired in assembly to obtain weapons and rise against the king's land", cluster: kingship}
+units:
+  - id: ane-ea-137-rib-addi-exile
+    tradition: ane-akkadian
+    title: "Rib-Addi in exile at Beirut: driven out of Byblos by his brother; old and sick; send archers and give me a town (EA 137)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Byblos"
+    read: ["EA 137"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 137 o:2"], note: "ana šarri bēlīya šamaš mātāti, 'the Sun of the lands'"}
+      - {motif: sevenfold-prostration, refs: ["EA 137 o:3-4"], note: "ana šupāl šēpī šarri ... 7-tan u 7-tan maqtāti"}
+      - {motif: overlord-silent-to-vassals-pleas, refs: ["EA 137 o:5-10", "EA 137 o:25-26", "EA 137 r:59", "EA 137 r:77", "EA 137 l.e:94-95"], note: "aštappar ašta-ni ... u lā tuddanu; ul yaqūl šarru bēlī ana ipši kalbi annû, 'the king does not care about this deed of the dog'"}
+      - {motif: vassal-calls-overlord-breath-of-life, refs: ["EA 137 r:71-72"], note: "yānu šāri pî šarri ana yâši, 'there is no breath of the king's mouth for me'"}
+      - {motif: younger-brother-hands-city-to-enemy, refs: ["EA 137 o:15-25", "EA 137 r:57-58"], note: "aḫiya ṣeḫru ... inakkar-mi Gubla ana nadāni āli ana mārī Abdi-Aširte ... yuṭarridni ištu āli, 'my younger brother estranged Byblos to give the city to the sons of Abdi-Ashirta ... he drove me from the city'"}
+      - {motif: enemy-called-slave-and-dog, refs: ["EA 137 o:26"], note: "ipši kalbi annû: the brother (or the rebel) is 'this dog'"}
+      - {motif: vassal-old-and-sick, refs: ["EA 137 o:27-30"], note: "lā eleʾʾu erēba ana māt Miṣri šībāti u murṣu dannu ana šīr ramāniya, 'I cannot enter Egypt: old age and severe illness in my own body'"}
+      - {motif: illness-as-sin-against-city-gods, refs: ["EA 137 o:31-34"], note: "ilānu ša Gubla qadišu u murṣu magal u ḫīṭi epšāti ana ilāni, 'the gods of Byblos are holy, the illness is great and I committed sin against the gods'; qdš is a West Semitic form"}
+      - {motif: vassal-pleads-for-archers, refs: ["EA 137 b.e:40-r:46", "EA 137 r:49-51", "EA 137 l.e:97-99"], note: "ṣāb piṭṭāti ... tiṣbatu Gubla ... u tārat ālu ana šarri, 'archers to seize Byblos ... and the city will return to the king'"}
+      - {motif: town-granted-to-vassal, refs: ["EA 137 r:63-65", "EA 137 r:84-85"], note: "a request, not a grant: yaddina ālu puruzi ana ašābīya, 'let him give a city (or) an unwalled village for me to dwell in'"}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 137 r:64", "EA 137 r:67", "EA 137 r:81"], note: "puruzu 'unwalled village' = Hebrew pərāzî; yiḥnanunī 'if the king is gracious to me' from ḥnn (Hebrew ḥānan)"}
+      - {motif: vassal-sends-people-as-tribute, refs: ["EA 137 o:36-37", "EA 137 r:78-79"], note: "my son, the king's servant, I have sent before the king: the vassal's son goes to court"}
+    hints:
+      - "Puruzu (r:64, 67, 85) is the West Semitic word behind Hebrew pərāzôt 'open villages' (Esth 9:19; Ezek 38:11; Zech 2:8) and pərāzî (Deut 3:5; 1 Sam 6:18); the land of Canaan (Kinaʿanu) is named at r:76: compare Gen 12:5."
+      - "The aged ruler unable to go before the king: compare 2 Sam 19:35-38 (Barzillai too old to go with the king). Illness as sin against the gods: compare 2 Kgs 1:2-4 and Ps 38:4."
+      - "The breath of the king's mouth: compare Lam 4:20 ('the breath of our nostrils, YHWH's anointed'). Brother turning the city over: compare Judg 9:1-6 (Abimelech and Shechem)."
+  - id: ane-ea-160-aziru-sumur
+    tradition: ane-akkadian
+    title: "Aziru of Amurru: I have done all the king commanded; I will build Sumur this year; do not listen to slanderers (EA 160)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Amurru"
+    read: ["EA 160"]
+    tags:
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 160 o:1", "EA 160 o:5", "EA 160 r:33"], note: "ana šarri rabî bēlīya ilīya šamšīya"}
+      - {motif: sevenfold-prostration, refs: ["EA 160 o:3-4"]}
+      - {motif: vassal-swears-perpetual-servitude, refs: ["EA 160 o:6-8", "EA 160 r:29"], note: "anāku wardka u mārūya u aḫḫūya wardū ša šarri adi dārīti, 'I, my sons and my brothers are servants of the king for ever'"}
+      - {motif: vassal-promises-to-rebuild-city, refs: ["EA 160 b.e:20-r:28", "EA 160 r:38-40"], note: "ālu lū tabanni mūša u urra ... ina šatti-ma abanni Ṣumur, 'let the city be built night and day ... this very year I will build Sumur'"}
+      - {motif: slanderers-eat-pieces-before-king, refs: ["EA 160 r:30-32"], note: "awīlū sarrūti ša ikkalū karṣīya ana pāni bēlīya lā tešemme, 'do not listen to the false men who eat my pieces before my lord'"}
+      - {motif: vassal-sends-weapons-and-garments-as-gift, refs: ["EA 160 o:14-17"], note: "here timber, not arms: 8 ships, boxwood and great timbers, all that came out of the king's mouth"}
+    hints:
+      - "akālu karṣī 'eat the pieces (of someone)' = slander is the idiom of Aramaic ʾăkalû qarṣêhôn dî yəhûdāyēʾ, Dan 3:8 and 6:25."
+      - "Building night and day: compare Neh 4:16-17. Servant 'for ever' (adi dārīti): compare Deut 15:17 ('he shall be your servant for ever')."
+  - id: ane-ea-333-tell-el-hesi
+    tradition: ane-akkadian
+    title: "Tell el-Hesi letter: Payapu reports that Shipti-Baal and Zimredda plotted to get bows and swords (EA 333)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna-age letter found at Tell el-Hesi"
+    read: ["EA 333"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["EA 333 o:1-3"], note: "ana rabî qibī-ma umma Payapu ana šēpēka amqut: to 'the great one', an Egyptian official"}
+      - {motif: vassal-reports-rivals-conspiracy, refs: ["EA 333 o:4-r:18"], note: "Ṯipṭi-Baʿlu u Zimreda puḫriš ... iqtabi ... idnānī-mi n+11 qašāti u 3 patrī u 3 namṣārī šumma-mi anāku uṣṣûna eli māt šarri, 'in assembly ... give me 11 bows, 3 daggers and 3 swords: if I go out against the king's land ...'"}
+      - {motif: rival-kings-of-lands-conspire, refs: ["EA 333 o:5-12"], note: "interpretive: two local rulers plot together; the father Yaramu has written to Shipti-Baal"}
+      - {motif: canaanite-gloss-in-amarna-letter, refs: ["EA 333 r:20-21"], note: "mulka / milka (mlk 'kingdom', the West Semitic root) in an obscure phrase šuṭ mulka ša ušaṭ milka"}
+    hints:
+      - "Zimredda is the ruler of Lachish (compare EA 288 r:43-44, killed by his servants); Tell el-Hesi lies near Lachish. A plot reported to the overlord: compare 2 Sam 15:31 and Esth 2:21-23 (a plot overheard and reported)."
+  - id: ane-ea-153-abi-milku-ships
+    tradition: ane-akkadian
+    title: "Abi-Milku of Tyre: I have done what the king said; ships readied before the king's troops (EA 153)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, Tyre"
+    read: ["EA 153"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 153 o:3"]}
+      - {motif: overlord-orders-vassal-to-guard-and-provision, refs: ["EA 153 o:4-16"], note: "the vassal reports compliance: šūḫuzti awīlīya eleppāti ana pāni ṣābi šarri, 'I caused my men to take ships ahead of the king's troops'; palḫat gabbi māti ištu pāni ṣābi šarri, 'the whole land is afraid of the king's troops'"}
+      - {motif: king-curses-disloyal-servant, refs: ["EA 153 o:12-14"], note: "ša lā išteme yānu bītušu yānu balṭašu, 'whoever does not obey, his house is no more, his life is no more'"}
+    hints:
+      - "Tyrian ships at the service of a king: compare 1 Kgs 9:27 and 10:22 (Hiram's ships)."
+  - id: ane-ea-369-pharaoh-to-milkilu
+    tradition: ane-akkadian
+    title: "The king to Milkilu of Gezer: Hanya brings silver for forty fine cup-bearer women; the king is well like the Sun (EA 369)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, from the Egyptian king"
+    read: ["EA 369"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["EA 369 o:1-2"], note: "royal form: ana Milkili awīl Gazri umma šarri-ma"}
+      - {motif: overlord-orders-cupbearer-women, refs: ["EA 369 o:5-18"], note: "šāqītu damqu ... napḫaru šāqītu 40, 40 kaspu šīm šāqītu ... ša zapurti yānu ina libbišunu, 'forty cup-bearers, forty (shekels) of silver the price of a cup-bearer ... let there be no blemished one among them'"}
+      - {motif: king-well-like-sun-in-heaven, refs: ["EA 369 r:24-27"], note: "šalim šarru kīma šamaš ṣābūšu narkabātūšu sisûšu magal šulmu"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["EA 369 r:28-32"], note: "yittadin Amānu māta elīta māta šaplīta ṣīt šamši erēb šamši ina šupāl 2 šēpī šarri, 'Amun has put the upper land and the lower land, sunrise and sunset, under the two feet of the king'"}
+      - {motif: foreign-lands-placed-under-kings-feet, refs: ["EA 369 r:28-32"]}
+    hints:
+      - "Women without blemish gathered for the king: compare Esth 2:2-4 and 1 Sam 8:13 ('he will take your daughters as perfumers, cooks and bakers'); Gezer as a royal Egyptian concern: 1 Kgs 9:16."
+      - "The god sets the lands under the king's feet: compare Ps 110:1, Ps 8:7 and Ps 2:8; sunrise to sunset: Ps 113:3 and Mal 1:11."
+  - id: ane-ea-260-baal-mehir
+    tradition: ane-akkadian
+    title: "Baʿlu-mehir of Tinni: the Sun from heaven; I heard the king's word (EA 260)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Amarna letter, southern Levant"
+    read: ["EA 260"]
+    tags:
+      - {motif: sevenfold-prostration, refs: ["EA 260 o:3-5"]}
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["EA 260 o:5", "EA 260 o:10"], note: "šamaš ana šamê, 'the Sun in heaven'"}
+      - {motif: letter-closing-may-my-lord-know, refs: ["EA 260 o:11-12", "EA 260 r:15-16"], note: "šarru rabû lū īde ana wardišu"}
+    hints:
+      - "Compare 2 Sam 23:3-4 (the just ruler like the morning sun) and Mal 3:20 (the sun of righteousness)."
