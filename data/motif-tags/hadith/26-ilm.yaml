@@ -1,0 +1,971 @@
+# Hadith chunk 26: al-Jāmiʿ al-Kāmil book 3 (kitāb al-ʿilm), Shamela pp. 785-881 (printed 2/5-101): the two series
+# 'jumūʿ abwāb mā warada fī l-targhīb fī l-ʿilm' (bābs 1-57: the spirit question, envy only in two, going out for
+# knowledge, the journey for one hadith, Moses and al-Khiḍr, the scholars as heirs, conveying, writing forbidden and
+# allowed, narrating from the Israelites, useful knowledge, storytellers, standing for people) and 'jumūʿ abwāb mā
+# warada min al-tarhīb' (bābs 1-21: knowledge lifted, fatwa without knowledge, disputing the Book, lying about the
+# prophet, concealing knowledge, questions, reciters who show off, storytelling, Torah sheets, astrology, the scholar
+# who does not act). Read in full from the Arabic (207 hadith). Several reports recur under more than one bāb
+# (the Abū l-Dardāʾ 'heirs of the prophets', the Abū Hurayra 'two verses', the Abū Barza 'feet do not move', the Zayd
+# b. Arqam refuge); each recurrence is read where it stands. Bāb 21 of the tarhīb series (forty hadith) has no
+# hadith, only the compiler's verdict that none is sound.
+new_motifs:
+  prophet-angered-by-you-are-forgiven-so-need-not-strive: {label: "Told 'we are not like you; God has forgiven you your past and later sins', the prophet grows angry till it shows in his face: 'the most God-fearing and most knowing of God among you is I'", cluster: ethics}
+  envy-only-in-two-wealth-spent-and-wisdom-taught: {label: "No envy (hasad, glossed ghibta) except in two: a man God gave wealth who spends it in the right, and a man God gave wisdom (or the Quran) who judges by it and teaches it, reciting night and day", cluster: ethics}
+  neighbour-wishes-to-be-given-the-same-and-do-the-same: {label: "A neighbour hears the reciter and says 'would I were given what he was given, I would do as he does'", cluster: ethics}
+  path-of-knowledge-made-path-to-paradise: {label: "Whoever takes a path seeking knowledge, God makes easy for him a path to paradise", cluster: eschatology}
+  two-banners-at-every-door-angel-and-devil: {label: "At the door of every man going out stand two banners, one in an angel's hand and one in a devil's; he walks under the angel's banner if he goes out for what God loves, under the devil's for what angers him, until he comes home", cluster: angelology}
+  scholars-heirs-of-prophets-who-left-no-dinar: {label: "The scholars are the heirs of the prophets; the prophets left no dinar or dirham, they left knowledge, and whoever takes it takes an abundant share", cluster: ethics}
+  creatures-of-heaven-earth-and-fish-ask-forgiveness-for-scholar: {label: "Whoever is in the heavens and the earth, and the fish in the water, ask forgiveness for the one who knows (or the teacher of good)", cluster: cosmology}
+  scholar-over-worshipper-as-full-moon-over-stars: {label: "The merit of the knower over the worshipper is like that of the moon on the night it is full over all the other stars", cluster: ethics}
+  traveller-came-for-one-hadith-only: {label: "A man comes from the prophet's city to a companion for a single hadith: 'did you come for no need, no trade, only for this hadith?' - 'yes'", cluster: transmission}
+  going-out-for-knowledge-is-in-gods-way: {label: "Whoever goes out seeking knowledge is in God's way until he returns", cluster: ethics}
+  morning-to-mosque-to-learn-as-complete-hajj: {label: "Whoever goes in the morning to the mosque wanting only to learn or teach good has the reward of a pilgrim whose hajj is complete", cluster: ritual}
+  entering-prophets-mosque-to-learn-as-jihad: {label: "Who enters 'this mosque of mine' to learn or teach good is like the fighter in God's way; who enters for anything else is like a man looking at a thing that pleases him but belongs to another", cluster: ritual}
+  god-calls-with-voice-heard-far-as-near: {label: "God calls the gathered with a voice heard by the far as by the near: 'I am the King, I am the Requiter (al-dayyan)'", cluster: eschatology}
+  no-entry-till-claims-settled-even-a-slap: {label: "No one of the fire enters it, and no one of paradise enters it, while another holds a claim against him, until I settle it, even a slap; paid with good and bad deeds", cluster: eschatology}
+  moses-says-none-knows-more-god-names-khidr: {label: "Asked whether he knows anyone more knowing than himself, Moses says no; God reveals 'Yes, our servant Khidr' and makes the fish his sign: 'when you lose the fish, go back, you will meet him'", cluster: moses}
+  moses-reproved-for-not-referring-knowledge-to-god: {label: "Asked who is most knowing Moses says 'I am'; God reproves him for not referring knowledge to God and tells him of a servant at the meeting of the two seas who knows more; 'carry a fish in a basket (miktal)'", cluster: moses}
+  welcome-to-prophets-bequest-for-young-seekers: {label: "A companion greets young students 'Welcome to the bequest of God's messenger: he used to charge us with you'", cluster: transmission}
+  provided-for-through-brother-who-attends-prophet: {label: "Two brothers: one attends the prophet, the other works a trade and complains of him; 'perhaps you are provided for through him'", cluster: ethics}
+  teacher-of-good-forgiven-by-everything-even-fish: {label: "Everything asks forgiveness for the teacher of good, even the fish in the seas", cluster: cosmology}
+  caller-to-guidance-earns-followers-reward: {label: "Who calls to guidance has the reward of all who follow him without lessening theirs; who calls to error bears the sin of all who follow him", cluster: ethics}
+  founder-of-good-practice-shares-later-reward: {label: "Who institutes a good practice (sanna sunna hasana) in Islam has its reward and the reward of all who act on it after him; a bad practice, its burden and theirs", cluster: ethics}
+  prophets-face-shines-like-gilded-silver: {label: "As heaps of food and clothes pile up the prophet's face shines as if it were gilded (mudhhaba)", cluster: prophet-person}
+  pointing-to-good-earns-doers-reward: {label: "A man whose mount has perished asks to be carried; another offers to direct him to one who will: 'who points to good has the reward of its doer'", cluster: ethics}
+  dying-on-guard-reward-runs-to-resurrection: {label: "Whoever dies guarding the frontier (murabitan) in God's way has the guard's reward running for him until he is raised", cluster: law}
+  guiding-one-man-better-than-red-camels: {label: "That God guide a single man through you is better for you than red camels (humr al-na'am)", cluster: ethics}
+  god-wills-good-gives-understanding-of-religion: {label: "Whom God wants good for, he gives understanding of the religion (yufaqqihhu fi l-din)", cluster: ethics}
+  i-only-distribute-god-gives: {label: "'I am only a distributor (qasim) and God gives'", cluster: prophet-person}
+  party-stays-on-gods-command-till-it-comes: {label: "This community will remain upholding God's command, unharmed by those who oppose them, until God's command comes", cluster: eschatology}
+  knowledge-by-learning-forbearance-by-practice: {label: "Knowledge comes only by learning and forbearance only by practising forbearance; who seeks good is given it, who guards against evil is guarded", cluster: wisdom}
+  scholar-over-worshipper-as-prophet-over-least: {label: "The merit of the knower over the worshipper is like my merit over the least of you", cluster: ethics}
+  god-angels-ant-and-fish-bless-teacher-of-good: {label: "God, his angels, the people of the heavens and earths, even the ant in its hole and the fish, bless (yusallun 'ala) the one who teaches people good", cluster: cosmology}
+  merit-of-knowledge-over-worship-best-religion-scruple: {label: "The merit of knowledge is dearer to me than the merit of worship, and the best of your religion is scrupulousness (al-wara')", cluster: ethics}
+  three-men-at-the-circle-shelter-shame-turn-away: {label: "Three men come to the prophet's circle: one finds a gap and sits, one sits behind out of shame, one turns away; God shelters the first, is ashamed before the second, turns from the third", cluster: ethics}
+  admonition-spaced-for-fear-of-weariness: {label: "The prophet spaced out his admonitions over the days for fear of wearying us; Ibn Masud reminds only every Thursday", cluster: transmission}
+  boy-remembers-water-spat-in-face-at-five: {label: "A companion recalls, at five years old, the prophet spurting a mouthful of water from a bucket into his face", cluster: transmission}
+  guidance-like-rain-on-three-grounds: {label: "Parable: the guidance and knowledge sent with the prophet are like rain falling on three kinds of ground: good soil that drinks and grows herbage, hard ground (ajadib) that holds water for people to drink and water, and bare flats (qi'an) that neither hold water nor grow grass", cluster: parable}
+  teaching-a-verse-rewarded-as-long-as-recited: {label: "Who teaches one verse of God's Book has its reward as long as it is recited", cluster: ethics}
+  hear-and-be-heard-chain-of-hearing: {label: "'You hear, and it is heard from you, and it is heard from those who heard from you'", cluster: transmission}
+  god-brighten-the-one-who-hears-and-conveys: {label: "'May God brighten (naddara) a man who heard my word, kept it and conveyed it: many a carrier of understanding brings it to one who understands better, many a carrier of understanding has none'", cluster: transmission}
+  three-things-a-believers-heart-does-not-betray: {label: "Three things against which a believer's heart bears no rancour: sincerity of deeds for God, good counsel to those in authority, keeping to the community, whose prayer encompasses them from behind", cluster: ethics}
+  word-repeated-thrice-to-be-understood: {label: "When he spoke a word he repeated it three times so that it would be understood; when he came to people he greeted them three times", cluster: prophet-person}
+  women-ask-a-day-of-their-own: {label: "A woman: 'the men have taken all your speech; give us a day of yours'; he names a day and teaches the gathered women", cluster: women}
+  three-children-a-screen-from-fire-and-two: {label: "A woman whose three children die before her has them as a screen from the fire; asked 'and two?' he repeats 'and two, and two, and two'", cluster: eschatology}
+  do-not-write-from-me-but-the-quran-erase-it: {label: "'Do not write from me; whoever has written from me anything but the Quran, let him erase it; narrate from me, there is no harm'", cluster: transmission}
+  companion-refuses-to-let-hadith-be-written: {label: "A companion refuses to let students write: 'we will not make it a Quran; take from us as we took from the prophet'; narrate, for hadith recalls hadith", cluster: transmission}
+  father-erases-sons-written-hadith: {label: "A father has his son bring what he wrote down of his words, erases it, and says 'memorise as we memorised from the prophet'", cluster: transmission}
+  writer-and-non-writer-companions: {label: "None had more hadith from the prophet than Abu Hurayra except Abd Allah b. Amr, 'for he used to write and I did not write'", cluster: transmission}
+  sermon-from-dawn-to-sunset-of-what-was-and-will-be: {label: "The prophet prays dawn, mounts the pulpit and preaches till noon, prays, preaches till afternoon, prays, preaches till sunset, telling what was and what will be; the most knowing of us is the best at memorising", cluster: prophecy}
+  no-bird-flaps-wings-but-we-have-knowledge-of-it: {label: "The prophet left us and there is not a bird flapping its wings in the sky but we have some knowledge of it from him", cluster: prophecy}
+  abu-hurayra-narrates-because-of-two-verses: {label: "'But for two verses in God's Book I would not narrate a hadith' (Q 2:159-160); the emigrants were busy in the markets, the helpers with their property, Abu Hurayra stayed with the prophet for his belly's fill", cluster: transmission}
+  spread-cloak-and-forgot-nothing: {label: "The prophet tells Abu Hurayra to spread his cloak; he scoops with his hands into it, says 'gather it', and after that he forgot nothing he heard", cluster: miracle}
+  two-vessels-of-knowledge-one-would-cost-the-throat: {label: "'I kept two vessels from the prophet: one I spread; the other, if I spread it, this gullet would be cut'", cluster: transmission}
+  unshared-knowledge-like-unspent-treasure: {label: "One who learns knowledge and does not speak of it is like one who hoards treasure and spends none of it", cluster: ethics}
+  ansar-women-not-held-back-by-shyness: {label: "'The best of women are the women of the Ansar: shyness did not keep them from learning the religion'", cluster: women}
+  prophet-told-of-israelites-till-dawn: {label: "The prophet would tell them of the Children of Israel through the night until morning, rising only for the obligatory prayer", cluster: transmission}
+  learned-jewish-script-in-half-a-month: {label: "The prophet orders Zayd b. Thabit to learn the writing of the Jews, 'I do not trust the Jews with my letters'; he masters it in half a month and writes and reads the prophet's letters", cluster: transmission}
+  refuge-from-knowledge-without-benefit: {label: "Prayer for refuge from knowledge that does not benefit, a heart that is not humble, a soul that is not sated and a prayer not heard (and a deed not raised)", cluster: prayer}
+  ask-god-for-useful-knowledge: {label: "Ask God for useful knowledge; 'benefit me by what you taught me, teach me what benefits me'", cluster: prayer}
+  deeds-cut-off-at-death-but-three: {label: "When a man dies his deeds are cut off except three: ongoing charity, knowledge benefited from, a righteous child who prays for him", cluster: eschatology}
+  seven-things-that-reach-believer-after-death: {label: "What reaches the believer after death: knowledge he taught and spread, a righteous child, a Quran copy he bequeathed, a mosque he built, a house for the wayfarer, a river he made flow, charity given in health", cluster: eschatology}
+  angels-surround-those-studying-gods-book: {label: "No people gather in a house of God reciting and studying his Book together but calm (sakina) descends on them, mercy covers them, angels surround them, and God mentions them among those with him", cluster: angelology}
+  when-god-mentions-a-thing-it-is-magnified: {label: "Finding men in the mosque recalling God's Book and the sunna: 'when God mentions a thing its mention is magnified'", cluster: theology}
+  none-preaches-but-commander-appointee-or-showoff: {label: "None tells stories to people (yaqussu) except a commander, one commanded, or a show-off (mura'i / mukhtal / mutakallif)", cluster: law}
+  no-storytelling-before-the-fitna: {label: "There was no storytelling in the time of the prophet, Abu Bakr, Umar or Uthman; it began in the time of the fitna", cluster: transmission}
+  hadith-known-by-softening-of-skin-and-hair: {label: "A hadith from me that your hearts recognise and your hair and skin soften to, which you find near you, I am nearest to; one your hearts reject, your hair and skin shrink from, I am farthest from", cluster: transmission}
+  israelites-wrote-a-book-and-left-torah: {label: "The Children of Israel wrote a book, followed it, and left the Torah", cluster: polemic}
+  companions-relayed-from-each-other-none-lied: {label: "Not all we tell you from the prophet did we hear from him; our companions told us, and none of us called another a liar (we were busy herding camels)", cluster: transmission}
+  abu-dharr-held-to-the-hard-ruling: {label: "Abu Dharr would hear a severe word, go out to his people, and miss the later relaxation, so he held to the severe command", cluster: transmission}
+  feet-do-not-move-till-asked-four: {label: "A servant's feet will not move on the day of resurrection until he is asked of his life and how he spent it, his knowledge and what he did with it, his wealth whence earned and where spent, his body (youth) and how he wore it out", cluster: eschatology}
+  ruin-of-community-in-the-book-and-milk: {label: "The ruin of my community is in the Book and milk: they learn the Quran and interpret it otherwise than God revealed it, and love milk so leave the congregations and Fridays and go out to the desert", cluster: eschatology}
+  successors-after-sixty-years-waste-prayer: {label: "After sixty years come successors who waste the prayer and follow lusts (Q 19:59), then reciters whose Quran goes no further than their collarbones; three recite the Quran: believer, hypocrite and sinner", cluster: eschatology}
+  eloquence-is-magic-poetry-is-wisdom: {label: "Two men from the east speak and people wonder at their eloquence: 'some eloquence is magic (sihr)'; and some poetry is wisdom (hukm)", cluster: wisdom}
+  blessing-is-with-your-elders: {label: "Blessing is with your elders (akabirikum)", cluster: wisdom}
+  overlook-slips-of-people-of-standing-except-hadd: {label: "Overlook the stumbles of people of good standing (dhawi l-hay'at), except in the hadd punishments", cluster: law}
+  honouring-grey-haired-quran-bearer-just-ruler: {label: "It is of honouring God to honour the grey-haired Muslim, the bearer of the Quran who neither exceeds nor neglects it, and the just ruler", cluster: ethics}
+  companion-runs-to-congratulate-penitent: {label: "When Ka'b enters the mosque after his repentance is accepted, Talha runs to shake his hand and congratulate him, the only one of the emigrants to rise; Ka'b never forgets it", cluster: ethics}
+  father-and-daughter-rise-kiss-and-seat-each-other: {label: "When Fatima came in the prophet rose to her, kissed her and seated her in his place; when he came in she did the same; none more like him in bearing and gait", cluster: prophet-person}
+  standing-over-seated-ruler-is-persian-roman: {label: "Seeing the people stand behind him as he prays seated, the prophet: 'you nearly did what Persia and Rome do, standing over their kings who sit'; if the imam prays sitting, pray sitting", cluster: ritual}
+  who-loves-men-to-stand-for-him-seat-in-fire: {label: "Whoever loves that men stand before him (yamthula lahu l-rijal qiyaman), let him take his seat in the fire", cluster: ethics}
+  companions-did-not-rise-for-him: {label: "No one was dearer to them than the prophet, yet when they saw him they did not rise, knowing his dislike of it", cluster: prophet-person}
+  knowledge-lifted-by-taking-of-scholars: {label: "God does not take knowledge by snatching it from people but by taking the scholars; when no scholar is left people take ignorant heads who give fatwas without knowledge, stray and lead astray", cluster: eschatology}
+  aisha-tests-report-a-year-later: {label: "Aisha doubts a companion's report, has her nephew ask him again a year later, and finding it unchanged says 'he spoke the truth, he added nothing and left nothing out'", cluster: transmission}
+  time-draws-close-knowledge-taken-avarice-cast: {label: "Time draws together, knowledge is taken, trials appear, avarice is thrown in (yulqa l-shuhh), and the harj grows", cluster: eschatology}
+  knowledge-snatched-torah-gospel-avail-nothing: {label: "Looking at the sky: 'this is the time when knowledge is snatched'; a companion protests they read the Quran and teach it to wives and children; 'here are the Torah and Gospel with the Jews and Christians: what use are they to them?'", cluster: eschatology}
+  humility-first-knowledge-lifted: {label: "The first knowledge to be lifted from people is humility (al-khushu'): soon you will enter a congregational mosque and see not one humble man", cluster: eschatology}
+  sin-of-fatwa-on-the-mufti: {label: "Whoever is given a fatwa without knowledge, its sin is on the one who gave it", cluster: law}
+  striking-gods-book-part-against-part: {label: "Those before you perished by this: they struck God's Book part against part; it came down confirming itself, so do not belie part by part; say what you know and leave what you do not to one who knows", cluster: polemic}
+  disputing-about-the-quran-is-unbelief: {label: "Disputing (al-mira') about the Quran is unbelief", cluster: polemic}
+  recite-while-hearts-agree-rise-when-you-differ: {label: "Recite the Quran while your hearts agree on it; when you differ over it, rise", cluster: ritual}
+  both-readings-correct-those-before-differed-and-perished: {label: "Two men read a verse differently; the prophet: 'both of you do well, recite'; those before you differed and were destroyed", cluster: polemic}
+  face-as-if-pomegranate-seeds-burst: {label: "The prophet comes out to men contending over verses, his face as if pomegranate seeds had burst in it: 'was it for this you were sent? do not turn back unbelievers after me striking one another's necks'", cluster: prophet-person}
+  forbidder-of-lawful-like-permitter-of-forbidden: {label: "One who forbids the lawful is like one who makes the forbidden lawful", cluster: law}
+  reciters-who-boast-are-fuel-of-fire: {label: "Islam will spread until horses wade the seas and merchants cross them; then a people will read the Quran saying 'who reads better than we? who understands better?' - 'they are the fuel of the fire, and they are of you'", cluster: eschatology}
+  greatest-lies-false-father-false-dream-false-hadith: {label: "Among the greatest lies (afra l-firā): to claim a father not one's own, to make one's eyes see what they did not see (a false dream), and to say of me what I did not say", cluster: ethics}
+  house-built-in-fire-for-liar-about-prophet: {label: "Whoever lies about me deliberately, let him take a house (bayt) in the fire; 'a house is built in the fire for him'", cluster: eschatology}
+  beware-much-hadith-from-me: {label: "From the pulpit: 'beware of much narrating from me; whoever speaks of me let him say only what is true'", cluster: transmission}
+  silk-here-denied-hereafter: {label: "Whoever wears silk in this world is denied it in the next (said with the lying-hadith warning, in a governor's sermon on silk)", cluster: law}
+  bridle-of-fire-for-concealed-knowledge: {label: "Whoever is asked about knowledge and conceals it will be bridled on the day of resurrection with a bridle of fire", cluster: eschatology}
+  narrating-all-one-hears-enough-of-a-lie: {label: "It is enough of a lie for a man to narrate everything he hears", cluster: transmission}
+  narrator-of-a-known-lie-is-one-of-the-liars: {label: "Whoever narrates from me a hadith he sees to be a lie is one of the liars", cluster: transmission}
+  end-time-liars-bring-unheard-hadith: {label: "At the end of time there will be lying dajjals who bring you hadiths neither you nor your fathers heard: beware of them", cluster: eschatology}
+  world-cursed-but-remembrance-knower-learner: {label: "The world is cursed and all in it, except remembrance of God and what goes with it, a knower or a learner", cluster: ethics}
+  knowledge-for-worldly-gain-no-scent-of-paradise: {label: "Who learns knowledge by which God's face is sought, only to gain some worldly good, will not find the scent ('arf) of paradise on the day of resurrection", cluster: eschatology}
+  do-not-learn-to-vie-with-scholars: {label: "Do not learn knowledge to vie with scholars, dispute with fools, or win the best seats; who does so, the fire, the fire", cluster: ethics}
+  am-i-in-paradise-asked-and-answered: {label: "'Ask me what you will': one asks 'who is my father?', one 'am I in paradise?' - 'in paradise', another - 'in the fire'; Umar: 'we are content with God as Lord'", cluster: prophecy}
+  three-forbidden-three-disliked: {label: "God has forbidden you disobeying mothers, burying daughters alive, and withholding while demanding (man' wa-hat), and dislikes for you three: 'it was said and he said', much questioning, and wasting wealth", cluster: law}
+  forbidden-to-overburden-ourselves: {label: "Umar: 'we were forbidden over-burdening ourselves (al-takalluf)'", cluster: law}
+  most-hypocrites-of-community-are-its-reciters: {label: "Most of the hypocrites of my community are its reciters (qurra'uha)", cluster: ethics}
+  israelites-told-stories-when-they-perished: {label: "When the Children of Israel perished, they told stories (qassu)", cluster: polemic}
+  storyteller-rises-to-pleiades-then-under-feet: {label: "Umar fears for a would-be storyteller: he will rise above them in his own eyes until he thinks himself at the Pleiades (al-thurayya), and God will put him under their feet on resurrection day", cluster: ethics}
+  separate-from-woman-in-prayer-by-cloth: {label: "In a narrow room where a woman must pray beside him, a man screens between them with a cloth and she may pray abreast", cluster: ritual}
+  companion-rebukes-standing-storyteller: {label: "A companion rebukes a man telling stories standing: 'we did not leave our prophet's covenant or cut our ties until you and your fellows rose among us'", cluster: transmission}
+  storytellers-hold-tip-of-error: {label: "Ibn Masud stands up at a storyteller's group glorifying God in set counts: 'are you better guided than Muhammad and his companions? you are holding the tip of an error'", cluster: transmission}
+  torah-copy-angers-prophet-moses-would-follow: {label: "Umar reads a copy of the Torah in Arabic to the prophet, whose face changes: 'do not ask the People of the Book; they will not guide you, having strayed; you will belie truth or believe falsehood; by God, if Moses were among you he could do nothing but follow me'", cluster: polemic}
+  brought-it-white-and-pure: {label: "'Are you confused about it, Ibn al-Khattab? I brought it to you white and pure (bayda' naqiyya)'", cluster: revelation}
+  knowledge-of-stars-a-branch-of-sorcery: {label: "Whoever takes up a piece of knowledge of the stars takes up a branch of sorcery: the more he adds, the more", cluster: law}
+  extremists-perished-said-thrice: {label: "'The extremists (al-mutanatti'un) have perished', said three times", cluster: ethics}
+  teacher-forgets-self-like-lamp-burning-itself: {label: "The knower who teaches people good and forgets himself is like a lamp (siraj) that lights people and burns itself", cluster: parable}
+  handful-of-blood-bars-paradise: {label: "Let nothing come between one of you and paradise, as he looks at its gates, a palmful of a Muslim's blood he shed unjustly", cluster: eschatology}
+units:
+  - id: hadith-3-jews-ask-about-the-spirit
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Jews in the ruins of Medina ask about the spirit; the prophet silent under revelation, then Q 17:85"
+    read: ["Jāmiʿ 3:785.1"]
+    quran: ["17:85"]
+    tags:
+      - {motif: jews-ask-about-spirit-prophet-silent, refs: ["Jāmiʿ 3:785.1"], note: "في خرب المدينة -وهو يتوكأ على عسيب معه- ... سلوه عن الرّوح ... يا أبا القاسم! ما الرّوح؟ فسكت"}
+  - id: hadith-3-most-knowing-of-god
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'The most God-fearing and knowing of God is I': anger at the excuse that he is forgiven"
+    read: ["Jāmiʿ 3:786.1"]
+    tags:
+      - {motif: prophet-angered-by-you-are-forgiven-so-need-not-strive, refs: ["Jāmiʿ 3:786.1"], note: "إنّ اللَّه قد غفر لك ما تقدّم من ذنبك وما تأخَّر فيغضب حتّى يعرف الغضب في وجهه ثم يقول: إنّ أتقاكم وأعلمكم باللَّه أنا"}
+  - id: hadith-3-envy-only-in-two
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "No envy except in two: wealth spent rightly, wisdom or the Quran taught and recited"
+    read: ["Jāmiʿ 3:786.2-786.4"]
+    tags:
+      - {motif: envy-only-in-two-wealth-spent-and-wisdom-taught, refs: ["Jāmiʿ 3:786.2", "Jāmiʿ 3:786.3", "Jāmiʿ 3:786.4"], note: "لا حسد إِلَّا في اثنتين: رجل آتاه اللَّه مالًا فسُلِّط على هلكته في الحقّ، ورجلٌ آتاه اللَّه الحكمة فهو يقضي بها ويعلّمها"}
+      - {motif: neighbour-wishes-to-be-given-the-same-and-do-the-same, refs: ["Jāmiʿ 3:786.4"], note: "فسمعه جارٌ له فقال: ليتني أُوتيت مثل ما أوتي فلان، فعملتُ مثل ما يعمل"}
+  - id: hadith-3-path-of-knowledge-angels-wings
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A path to paradise for the seeker of knowledge; the angels lower their wings for him"
+    read: ["Jāmiʿ 3:787.1-787.2"]
+    quran: ["9:122"]
+    tags:
+      - {motif: path-of-knowledge-made-path-to-paradise, refs: ["Jāmiʿ 3:787.1"], note: "مَنْ سلك طريقًا يلتمسُ فيه علمًا، سهَّل اللَّه له به طريقًا إلى الجنّة"}
+      - {motif: angels-lower-wings-for-seeker-of-knowledge, refs: ["Jāmiʿ 3:787.2"], note: "ما مِنْ خارجٍ خرج من بيته في طلب العلم إِلَّا وضع له الملائكةُ أجنحتها رضًا بما يصنع"}
+  - id: hadith-3-two-banners-at-the-door
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Two banners at every door, one in an angel's hand, one in a devil's"
+    read: ["Jāmiʿ 3:788.1"]
+    quran: ["9:122"]
+    tags:
+      - {motif: two-banners-at-every-door-angel-and-devil, refs: ["Jāmiʿ 3:788.1"], note: "إِلَّا ببابه رايتان: راية بيد ملك، وراية بيد شيطان، فإنْ خرج لما يحبُّ اللَّه ﷿، اتَّبعه الملك برايته"}
+    hints:
+      - "An angel and a devil escorting a man according to his errand, against the rabbinic two ministering angels, one good and one evil, who accompany a man home on Sabbath eve (b. Shabbat 119b)."
+  - id: hadith-3-heirs-of-the-prophets-damascus
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A man travels to Damascus for one hadith: scholars are heirs of the prophets, the fish ask forgiveness for them"
+    read: ["Jāmiʿ 3:788.2"]
+    quran: ["9:122"]
+    tags:
+      - {motif: traveller-came-for-one-hadith-only, refs: ["Jāmiʿ 3:788.2"], note: "أما جئتَ لحاجة، أما جئتَ لتجارة، أما جئتَ إِلَّا لهذا الحديث؟ قال: نعم"}
+      - {motif: path-of-knowledge-made-path-to-paradise, refs: ["Jāmiʿ 3:788.2"], note: "مَنْ سلك طريقًا يطلبُ فيه علمًا، سلك اللَّه به طريقًا من طرق الجنّة"}
+      - {motif: angels-lower-wings-for-seeker-of-knowledge, refs: ["Jāmiʿ 3:788.2"], note: "والملائكةُ تضعُ أجنحتهَا رضًا لطالب العلم"}
+      - {motif: creatures-of-heaven-earth-and-fish-ask-forgiveness-for-scholar, refs: ["Jāmiʿ 3:788.2"], note: "وإنَّ العالم يستغفرُ له مَنْ في السموات ومن في الأرض، والحيتانُ في الماء"}
+      - {motif: scholar-over-worshipper-as-full-moon-over-stars, refs: ["Jāmiʿ 3:788.2"], note: "وفضلُ العالم على العابد كفضل القمر ليلة البدر على سائر الكواكب"}
+      - {motif: scholars-heirs-of-prophets-who-left-no-dinar, refs: ["Jāmiʿ 3:788.2"], note: "إنّ العلماء ورثة الأنبياء، إنّ الأنبياء لم يورِّثوا دينارًا ولا درهمًا، وأورثوا العلم، فمن أخذه أخذ بحظّ وافر"}
+    hints:
+      - "Scholars shining like the full moon over the stars, against Dan 12:3 ('they that be wise shall shine as the brightness of the firmament ... as the stars for ever and ever')."
+  - id: hadith-3-going-out-for-knowledge-as-jihad-and-hajj
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Going out for knowledge is in God's way; a morning to the mosque as a complete hajj; the prophet's mosque as jihad"
+    read: ["Jāmiʿ 3:790.1-791.1"]
+    quran: ["9:122"]
+    tags:
+      - {motif: going-out-for-knowledge-is-in-gods-way, refs: ["Jāmiʿ 3:790.1"], note: "مَنْ خرج في طلب العلم كان في سبيل اللَّه حتّى يرجع"}
+      - {motif: morning-to-mosque-to-learn-as-complete-hajj, refs: ["Jāmiʿ 3:790.2"], note: "من غدا إلى المسجد لا يريد إِلَّا أن يتعلم خيرًا أو يعلمه كان له كأجر حاج تاما حجته"}
+      - {motif: entering-prophets-mosque-to-learn-as-jihad, refs: ["Jāmiʿ 3:790.3", "Jāmiʿ 3:791.1"], note: "من دخل مسجدي هذا يتعلّم خيرًا، أو يعلّمه كان كالمجاهد في سبيل اللَّه تعالى، ومن دخله لغير ذلك كان كمنزلة الذي يرى الشيء يُعجبه وهو لغيره"}
+  - id: hadith-3-gathered-naked-and-retaliation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Gathered naked, uncircumcised and with nothing; the King's call and retaliation down to a slap"
+    read: ["Jāmiʿ 3:792.1"]
+    tags:
+      - {motif: resurrected-barefoot-naked-uncircumcised, refs: ["Jāmiʿ 3:792.1"], note: "يُحشر النّاس يوم القيامة -أو قال: العباد- عُراةً غُرلًا بُهما"}
+      - {motif: gathered-buhm-with-nothing, refs: ["Jāmiʿ 3:792.1"], note: "قلنا: وما بُهْمًا؟ قال: ليس معهم شيءٌ"}
+      - {motif: god-calls-with-voice-heard-far-as-near, refs: ["Jāmiʿ 3:792.1"], note: "ثم يناديهم بصوتٍ يسمعه مَن بعُد كما يسمعه مَن قَرُب، أنا الملك، أنا الدّيان"}
+      - {motif: no-entry-till-claims-settled-even-a-slap, refs: ["Jāmiʿ 3:792.1"], note: "حتّى أُقِصَّه منه حتّى اللَّطمة ... قال: بالحسنات والسّيئات"}
+  - id: hadith-3-moses-seeks-khidr-fish-sign
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Moses denies anyone knows more; 'our servant Khidr'; the fish as sign; the forgotten fish at the rock"
+    read: ["Jāmiʿ 3:794.1"]
+    quran: ["18:60-82"]
+    tags:
+      - {motif: moses-says-none-knows-more-god-names-khidr, refs: ["Jāmiʿ 3:794.1"], note: "هل تعلمُ أحدًا أعلم منك؟ قال موسى: لا، فأوحى اللَّه إلى موسى: بلى، عبدنا خضر ... فجعل اللَّه له الحوتَ آية، وقيل له: إذا فقدتَ الحوت فارجعْ فإنَّك ستلقاه"}
+    hints:
+      - "A sage who seeks out a wiser one at a remote meeting place of waters, against Gilgamesh's journey to Utnapishtim 'at the mouth of the rivers' (Gilg. XI:196) for knowledge he lacks."
+  - id: hadith-3-heirs-of-prophets-bab
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The scholars are the heirs of the prophets (repeated under its own bāb)"
+    read: ["Jāmiʿ 3:795.1"]
+    tags:
+      - {motif: scholars-heirs-of-prophets-who-left-no-dinar, refs: ["Jāmiʿ 3:795.1"], note: "إن العلماء هم ورثة الأنبياء، لم يورثوا دينارًا ولا درهمًا، وإنما ورثوا العلم"}
+  - id: hadith-3-welcome-young-seekers-make-easy
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Welcome to the prophet's bequest; 'make easy, do not make hard' to the two governors of Yemen"
+    read: ["Jāmiʿ 3:795.2-796.1"]
+    tags:
+      - {motif: welcome-to-prophets-bequest-for-young-seekers, refs: ["Jāmiʿ 3:795.2"], note: "مرحبًا بوصية رسول اللَّه ﷺ كان رسول اللَّه ﷺ يوصينا بكم"}
+      - {motif: make-easy-not-hard-give-good-news, refs: ["Jāmiʿ 3:796.1"], note: "يسّرا ولا تُعسِّرا، بشِّرا ولا تُنفِّرا، وتطاوعا ولا تختلفا"}
+  - id: hadith-3-brother-who-attends-and-teacher-of-good
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Perhaps you are provided for through him'; everything, even the fish, forgives the teacher of good"
+    read: ["Jāmiʿ 3:797.1-797.2"]
+    tags:
+      - {motif: provided-for-through-brother-who-attends-prophet, refs: ["Jāmiʿ 3:797.1"], note: "فكان أحدهما يأتي النبيَّ ﷺ، والآخر يحترف، فشكا المحترف أخاه ... لعلّك ترزق به"}
+      - {motif: teacher-of-good-forgiven-by-everything-even-fish, refs: ["Jāmiʿ 3:797.2"], note: "معلِّم الخير يستغفر له كلُّ شيء حتّى الحيتان في البحار"}
+  - id: hadith-3-muadh-sent-to-people-of-book
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Mu'adh to Yemen: worship of God, five prayers, alms returned to their poor"
+    read: ["Jāmiʿ 3:797.3"]
+    tags:
+      - {motif: call-to-people-of-book-in-ordered-steps, refs: ["Jāmiʿ 3:797.3"], note: "فليكن أوّل ما تدعوهم إليه عبادة اللَّه، فإذا عرفوا اللَّه فأخبرهم أنّ اللَّه قد فرض عليهم خمس صلوات ... زكاة من أموالهم، وتردُّ على فقرائهم ... وتوقَ كرائم أموالهم"}
+  - id: hadith-3-good-and-bad-practice
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Calling to guidance or error; the good and bad sunna; the ragged Mudar and the gilded face; pointing to good"
+    read: ["Jāmiʿ 3:798.1-800.1"]
+    quran: ["4:1", "59:18"]
+    tags:
+      - {motif: caller-to-guidance-earns-followers-reward, refs: ["Jāmiʿ 3:798.1"], note: "من دعا إلى هُدى كان له من الأجر مثلُ أجور من تبعه ... ومن دعا إلى ضلالة كان عليه من الإثم مثلُ آثام من تَبعه"}
+      - {motif: founder-of-good-practice-shares-later-reward, refs: ["Jāmiʿ 3:798.2", "Jāmiʿ 3:799.2", "Jāmiʿ 3:799.3", "Jāmiʿ 3:800.1"], note: "مَنْ سَنَّ في الإسلام سنةً حسنةً، فعُمل بها بعده، كُتب له مثل أجر من عمل بها ... ومَنْ سنَّ في الإسلام سنَّة سيِّئةً"}
+      - {motif: ragged-mudar-tribe-moves-sermon-on-alms, refs: ["Jāmiʿ 3:798.2"], note: "قوم حفاة عراة مجتابي النّمار -أو العَبَاء- متقلِّدي السّيوف، عامتهم من مضر ... فَتَمَعَّر وجهُ رسول اللَّه ﷺ ... ولو بشقِّ تمرة"}
+      - {motif: prophets-face-shines-like-gilded-silver, refs: ["Jāmiʿ 3:798.2"], note: "حتّى رأيتُ كومين من طعام وثياب حتّى رأيت وجهَ رسول اللَّه ﷺ يتهلَّل كأنّه مُذْهَبَةٌ"}
+      - {motif: pointing-to-good-earns-doers-reward, refs: ["Jāmiʿ 3:799.1"], note: "إنّي أُبْدِعَ بي فاحملني ... من دلَّ على خير فله مثل أجر فاعله"}
+      - {motif: dying-on-guard-reward-runs-to-resurrection, refs: ["Jāmiʿ 3:799.3"], note: "ومن مات مرابطًا في سبيل اللَّه جرى له أجر المرابط حتّى يبعث يوم القيامة"}
+  - id: hadith-3-better-than-red-camels
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Guiding one man is better than red camels"
+    read: ["Jāmiʿ 3:801.1"]
+    tags:
+      - {motif: guiding-one-man-better-than-red-camels, refs: ["Jāmiʿ 3:801.1"], note: "واللَّهِ لأنْ يهدي اللَّه بك رجلًا واحدًا خيرٌ لك من أن يكون لك حمرُ النَّعَم"}
+  - id: hadith-3-understanding-of-religion
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Whom God wants good for he gives understanding of religion; 'I only distribute, God gives'"
+    read: ["Jāmiʿ 3:801.2-802.2"]
+    quran: ["58:11", "20:114"]
+    tags:
+      - {motif: god-wills-good-gives-understanding-of-religion, refs: ["Jāmiʿ 3:801.2", "Jāmiʿ 3:801.3", "Jāmiʿ 3:802.1", "Jāmiʿ 3:802.2"], note: "من يرد اللَّه به خيرًا يُفَقُهْهُ في الدّين ... إذا أراد اللَّه بعبد خيرًا فقّهه في الدّين، وألهمه رشده"}
+      - {motif: i-only-distribute-god-gives, refs: ["Jāmiʿ 3:801.2"], note: "وإنّما أنا قاسم، واللَّه يعطي"}
+      - {motif: party-stays-on-gods-command-till-it-comes, refs: ["Jāmiʿ 3:801.2"], note: "ولن تزال هذه الأمّة قائمة على أمر اللَّه لا يضرّهم من خالفهم حتى يأتي أمر اللَّه"}
+  - id: hadith-3-knowledge-by-learning
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Knowledge is only by learning, forbearance only by practising it"
+    read: ["Jāmiʿ 3:802.3"]
+    tags:
+      - {motif: knowledge-by-learning-forbearance-by-practice, refs: ["Jāmiʿ 3:802.3"], note: "إنّما العلم بالتّعلّم، وإنّما الحلم بالتّحلّم، ومن يتحرَّ الخير يعطه، ومن يتوقَّ الشَّر يوقه"}
+  - id: hadith-3-scholar-over-worshipper
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The knower over the worshipper: like me over the least of you, like the moon over the stars; the ant and fish bless the teacher"
+    read: ["Jāmiʿ 3:803.1-804.2"]
+    tags:
+      - {motif: scholar-over-worshipper-as-prophet-over-least, refs: ["Jāmiʿ 3:803.1"], note: "فضل العالم على العابد كفضلي على أدناكم"}
+      - {motif: god-angels-ant-and-fish-bless-teacher-of-good, refs: ["Jāmiʿ 3:803.1"], note: "إنّ اللَّه وملائكته، وأهل السموات والأرضين حتى النملة في جحرها، وحتى الحوت ليصلُّون على معلِّم النّاس الخير"}
+      - {motif: merit-of-knowledge-over-worship-best-religion-scruple, refs: ["Jāmiʿ 3:804.1"], note: "فضل العلم أحبُّ إليَّ من فضل العبادة، وخير دينكم الورع"}
+      - {motif: scholar-over-worshipper-as-full-moon-over-stars, refs: ["Jāmiʿ 3:804.2"], note: "إن فضل العالم على العابد كفضل القمر على سائر الكواكب"}
+  - id: hadith-3-bedouin-asks-the-hour-mid-talk
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A bedouin asks 'when is the Hour?' mid-talk; answered after: when trust is lost"
+    read: ["Jāmiʿ 3:805.1"]
+    tags:
+      - {motif: trust-lost-when-affairs-given-to-unfit, refs: ["Jāmiʿ 3:805.1"], note: "إذا ضُيِّعت الأمانة فانتظر السّاعة ... إذا وُسِّد الأمر إلى غير أهله فانتظر السّاعة"}
+  - id: hadith-3-palm-like-the-muslim
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The tree whose leaf does not fall, like the Muslim: the palm; Ibn Umar's silence before his elders"
+    read: ["Jāmiʿ 3:806.1"]
+    tags:
+      - {motif: believer-like-palm-tree-leaves-do-not-fall, refs: ["Jāmiʿ 3:806.1"], note: "إنّ من الشّجر شجرةً لا يسقط ورقُها، وإنّها مثل المسلم ... تُؤتي أكلها كلَّ حين بإذن ربِّها، ولا تحت ورقها ... وثَمَّ أبو بكر وعمر"}
+    hints:
+      - "The tree whose leaf does not wither as the righteous man, against Ps 1:3 ('his leaf also shall not wither')."
+  - id: hadith-3-three-men-at-the-circle
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Three men at the circle: one finds a gap, one sits behind for shame, one turns away"
+    read: ["Jāmiʿ 3:806.2-806.3"]
+    tags:
+      - {motif: three-men-at-the-circle-shelter-shame-turn-away, refs: ["Jāmiʿ 3:806.2", "Jāmiʿ 3:806.3"], note: "أمّا أحدهم فآوى إلى اللَّه فآواه اللَّه، وأما الآخر فاستحيا فاستحيا اللَّه منه، وأما الآخر فأعرض فأعرض اللَّه عنه ... فإنه استغنى فاستغنى اللَّه عنه"}
+  - id: hadith-3-spacing-admonition
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Admonition spaced over the days for fear of weariness; Ibn Masud's Thursdays"
+    read: ["Jāmiʿ 3:807.1"]
+    tags:
+      - {motif: admonition-spaced-for-fear-of-weariness, refs: ["Jāmiʿ 3:807.1"], note: "كان يتخوّلنا بالموعظة في الأيام كراهة السّآمة علينا"}
+  - id: hadith-3-boy-of-five-remembers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Mahmud b. al-Rabi' remembers at five the water spurted in his face"
+    read: ["Jāmiʿ 3:808.1"]
+    tags:
+      - {motif: boy-remembers-water-spat-in-face-at-five, refs: ["Jāmiʿ 3:808.1"], note: "عقلت من النبيّ ﷺ مجّة مجّها في وجهي، وأنا ابنُ خمس سنين من دلو"}
+  - id: hadith-3-rain-on-three-grounds
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Guidance like rain on three grounds; teaching one verse rewarded while it is recited"
+    read: ["Jāmiʿ 3:808.2-808.3"]
+    tags:
+      - {motif: guidance-like-rain-on-three-grounds, refs: ["Jāmiʿ 3:808.2"], note: "كمثل غيث أصاب أرضًا، فكانت منها طائفة طيبة ... وكان منها أجادب أمسكت الماء ... إنّما هي قيعان، لا تمسك ماء، ولا تُنبتُ كلأ"}
+      - {motif: teaching-a-verse-rewarded-as-long-as-recited, refs: ["Jāmiʿ 3:808.3"], note: "من علَّم آيةً من كتاب اللَّه ﷿ كان له ثوابها ما تُليت"}
+    hints:
+      - "The word received by three kinds of ground of which only good soil bears, against the sower in Mark 4:3-8 (path, rocky ground, thorns, good soil); here the middle ground that holds water for others is counted useful though it grows nothing itself."
+  - id: hadith-3-abd-al-qays-delegation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The Abd al-Qays delegation: four commands, four vessels, 'keep them and tell those behind you'"
+    read: ["Jāmiʿ 3:808.4"]
+    tags:
+      - {motif: four-commands-four-prohibitions, refs: ["Jāmiʿ 3:808.4"], note: "فأمرهم بأربع ونهاهم عن أربع ... وأن تعطوا من المغنم الخمس"}
+      - {motif: four-forbidden-vessels-for-nabidh, refs: ["Jāmiʿ 3:808.4"], note: "عن الحنْتَم، والدُّبّاء، والنقير، والمزفَّت، وربما قال: المقير"}
+      - {motif: present-to-inform-the-absent, refs: ["Jāmiʿ 3:808.4"], note: "احفظوهن وأخبروا بهن من وراءكم"}
+  - id: hadith-3-conveying-nadara
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Let the present convey to the absent; 'you hear and are heard'; 'may God brighten a man who heard and conveyed'; three things the heart does not betray"
+    read: ["Jāmiʿ 3:809.1-812.1"]
+    tags:
+      - {motif: present-to-inform-the-absent, refs: ["Jāmiʿ 3:809.1", "Jāmiʿ 3:809.3"], note: "ليبلِّغ الشاهدُ الغائبَ، فإنّه رُبَّ مبلَّغٍ يُبلَّغُه أوعى له من سامع"}
+      - {motif: hear-and-be-heard-chain-of-hearing, refs: ["Jāmiʿ 3:809.2"], note: "تَسمعون ويُسمعُ منكم، ويُسمع ممن سمع منكم"}
+      - {motif: god-brighten-the-one-who-hears-and-conveys, refs: ["Jāmiʿ 3:809.4", "Jāmiʿ 3:810.1", "Jāmiʿ 3:810.2", "Jāmiʿ 3:811.1", "Jāmiʿ 3:811.2", "Jāmiʿ 3:812.1"], note: "نضّر اللَّه امرءًا سمع منا حديثًا فحفظه حتّى يبلِّغه غيره، فربَّ حاملِ فقهٍ إلى من هو أفقه منه، وربَّ حاملِ فقهٍ ليس بفقيه"}
+      - {motif: three-things-a-believers-heart-does-not-betray, refs: ["Jāmiʿ 3:810.1", "Jāmiʿ 3:810.2", "Jāmiʿ 3:811.1", "Jāmiʿ 3:811.2"], note: "ثلاث لا يغلُّ عليهنَّ قلبُ امرئ مسلم: إخلاص العمل للَّه، والنّصيحة لولاة الأمر، ولزوم جماعتهم، فإنّ دعوتهم تحيط من ورائهم"}
+  - id: hadith-3-umar-and-neighbour-take-turns
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Umar and his Ansari neighbour take turns; the knock and 'have you divorced your wives?'"
+    read: ["Jāmiʿ 3:812.2"]
+    tags:
+      - {motif: umar-and-neighbour-alternate-days-at-prophet, refs: ["Jāmiʿ 3:812.2"], note: "وكنّا نتناوب النزول على رسول اللَّه ﷺ، ينزل يومًا، وأنزل يومًا ... أطلقتَ نساءَك؟ قال: لا. فقلت: اللَّه أكبر"}
+  - id: hadith-3-repeating-thrice
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A word repeated three times to be understood; Aisha against rapid narration"
+    read: ["Jāmiʿ 3:813.1-813.3"]
+    tags:
+      - {motif: word-repeated-thrice-to-be-understood, refs: ["Jāmiʿ 3:813.1", "Jāmiʿ 3:813.3"], note: "أنّه كان إذا سلَّم سلَّم ثلاثًا، وإذا تكلَّم بكلمة أعادها ثلاثًا ... حتّى تفهم عنه"}
+      - {motif: aisha-rebukes-rapid-narration, refs: ["Jāmiʿ 3:813.2"], note: "وكنتُ أسبِّح، فقام قبل أن أقضي سبحتي ... إنّ رسول اللَّه ﷺ لم يكن يسرد الحديثَ كسردِكم"}
+  - id: hadith-3-womens-day
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A day for the women; three children a screen from the fire, 'and two'"
+    read: ["Jāmiʿ 3:813.4"]
+    tags:
+      - {motif: women-ask-a-day-of-their-own, refs: ["Jāmiʿ 3:813.4"], note: "ذهب الرّجالُ بحديثك، فاجعل لنا من نفسك يومًا نأتينك فيه"}
+      - {motif: three-children-a-screen-from-fire-and-two, refs: ["Jāmiʿ 3:813.4"], note: "ما منكنّ من امرأة تقدِّم بين يديها من ولدها ثلاثة إلّا كانوا لها حجابًا من النّار ... واثنين، واثنين، واثنين"}
+  - id: hadith-3-writing-forbidden
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Do not write from me except the Quran'; Abu Sa'id will not be written; Abu Musa erases his son's notes"
+    read: ["Jāmiʿ 3:814.1-815.1"]
+    tags:
+      - {motif: do-not-write-from-me-but-the-quran-erase-it, refs: ["Jāmiʿ 3:814.1"], note: "لا تكتبوا عنِّي، ومن كتب عنِّي غير القرآن فليمحه، وحدّثوا عنّي ولا حرج"}
+      - {motif: lying-about-the-prophet-earns-seat-in-fire, refs: ["Jāmiʿ 3:814.1"], note: "ومن كذب عليَّ -قال همام: أحسبه قال: متعمِّدًا- فليتبوّأ مقعده من النّار"}
+      - {motif: companion-refuses-to-let-hadith-be-written, refs: ["Jāmiʿ 3:814.2"], note: "لن نَكْتبكم، ولن نجعله قرآنًا ... تحدثوا؛ فإن الحديث يذكّر بعضُه بعضا"}
+      - {motif: father-erases-sons-written-hadith, refs: ["Jāmiʿ 3:815.1"], note: "فأتيتُه به، فمحاه ثم قال: احفظ كما حفظنا عن رسول اللَّه ﷺ"}
+  - id: hadith-3-writing-allowed
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Writing allowed: Abu Shah's copy of the Mecca sermon; Abd Allah b. Amr wrote; the deathbed writing; Ali's sheet; 'write, only truth comes out'"
+    read: ["Jāmiʿ 3:815.2-817.1"]
+    tags:
+      - {motif: sanctity-lifted-for-an-hour-of-a-day, refs: ["Jāmiʿ 3:815.2"], note: "ألا وإنّها حلّت لي ساعةً من نهار، ألا وإنّها ساعتي هذه، حرامٌ، لا يُختلى شوكُها، ولا يُعْضد شجرُها"}
+      - {motif: write-it-for-abu-shah, refs: ["Jāmiʿ 3:815.2"], note: "فجاء رجل من أهل اليمن، فقال: اكتُبْ لي يا رسول اللَّه ﷺ. فقال: اكتبوا لأبي فلان"}
+      - {motif: idhkhir-grass-excepted, refs: ["Jāmiʿ 3:815.2"], note: "إلّا الإذخرَ يا رسول اللَّه! فإنّا نجعله في بيوتنا وقبورنا"}
+      - {motif: writer-and-non-writer-companions, refs: ["Jāmiʿ 3:816.1"], note: "إلا ما كان من عبد اللَّه بن عمرو، فإنه كان يكتب، ولا أكتب"}
+      - {motif: dying-prophet-asks-for-writing, refs: ["Jāmiʿ 3:816.2"], note: "ائتوني بكتاب أكتب لكم كتابًا لا تضلُّوا بعدها ... إنّ الرزيّة كلّ الرزيّة ما حال بين رسول اللَّه ﷺ وبين كتابه"}
+      - {motif: alis-sheet-in-sword-scabbard, refs: ["Jāmiʿ 3:816.3"], note: "لا إلّا كتاب اللَّه، أو فهم أُعطيَهُ رجلٌ مسلمٌ، أو ما في هذه الصّحيفة ... العقل، وفكاك الأسير، ولا يقتل مسلم بكافر"}
+      - {motif: write-nothing-but-truth-comes-out, refs: ["Jāmiʿ 3:816.4", "Jāmiʿ 3:817.1"], note: "فأومأ بإصبعه إلى فيه، فقال: اكتبْ، فوالذي نفسي بيده ما يخرجُ منه إلّا حقّ"}
+  - id: hadith-3-none-alive-after-a-century
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "After the night prayer: at the head of a hundred years none now on earth remains"
+    read: ["Jāmiʿ 3:819.1"]
+    tags:
+      - {motif: none-now-living-survives-a-century, refs: ["Jāmiʿ 3:819.1"], note: "فإنّ على رأسِ مائة سنة منها لا يبقى ممن هو على ظهر الأرض أحدٌ"}
+  - id: hadith-3-abu-hurayra-memory
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Abu Hurayra: the two verses, the spread cloak, the two vessels; knowledge unshared like hoarded treasure"
+    read: ["Jāmiʿ 3:819.2-820.2"]
+    quran: ["2:159-160"]
+    tags:
+      - {motif: abu-hurayra-narrates-because-of-two-verses, refs: ["Jāmiʿ 3:819.2"], note: "ولولا آيتان في كتاب اللَّه ما حدَّثْتُ حديثًا ... كان يلزم رسول اللَّه ﷺ بشبع بطنه"}
+      - {motif: spread-cloak-and-forgot-nothing, refs: ["Jāmiʿ 3:819.2", "Jāmiʿ 3:819.3"], note: "ابسط رداءَك. فبسطته، قال: فغرف بيديه ثم قال: ضُمَّه. فضممته، فما نسيتُ شيئًا بعده"}
+      - {motif: two-vessels-of-knowledge-one-would-cost-the-throat, refs: ["Jāmiʿ 3:820.1"], note: "حفظتُ من رسول اللَّه ﷺ وعاءين: فأمّا أحدهما فبثثته، وأمّا الآخر فلو بثثته قُطع هذا البلعوم"}
+      - {motif: unshared-knowledge-like-unspent-treasure, refs: ["Jāmiʿ 3:820.2"], note: "مثل الذي يتعلّم العلم ولا يتحدّث به كمثل الذي يكنز الذّهب ولا ينفق منه"}
+  - id: hadith-3-muadh-lest-they-rely
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Mu'adh behind him on the saddle called three times; 'then they will rely on it'; told at his death"
+    read: ["Jāmiʿ 3:820.3"]
+    tags:
+      - {motif: do-not-tell-lest-they-rely-on-it, refs: ["Jāmiʿ 3:820.3"], note: "أفلا أخبر بها النّاس فيستبشروا؟ قال: إذًا يتكلوا. فأخبر بها مُعاذ عند موته تأثّمًا"}
+      - {motif: word-repeated-thrice-to-be-understood, refs: ["Jāmiʿ 3:820.3"], note: "يا معاذ! قال: لبيك رسولَ اللَّه! وسعديك (ثلاثًا)"}
+  - id: hadith-3-shyness-in-knowledge
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Umm Sulaym asks about a woman's wet dream; the women of the Ansar not held back by shyness"
+    read: ["Jāmiʿ 3:821.1-821.2"]
+    tags:
+      - {motif: woman-bathes-after-wet-dream-whence-resemblance, refs: ["Jāmiʿ 3:821.1"], note: "إنّ اللَّه لا يستحيي من الحقّ، فهل على المرأة من غسل إذا احتلمتْ؟ قال: إذا رأتِ الماء ... ففيم يشبهها ولدها؟"}
+      - {motif: ansar-women-not-held-back-by-shyness, refs: ["Jāmiʿ 3:821.2"], note: "نعم النّساءُ نساء الأنصار، لم يكن يمنعهنّ الحياءُ أن يتفقَّهن في الدّين"}
+  - id: hadith-3-neither-believe-nor-deny
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Torah read in Hebrew and explained in Arabic: neither believe nor deny; the bier that speaks"
+    read: ["Jāmiʿ 3:821.3-821.4"]
+    quran: ["2:136"]
+    tags:
+      - {motif: neither-believe-nor-deny-people-of-the-book, refs: ["Jāmiʿ 3:821.3", "Jāmiʿ 3:821.4"], note: "كان أهل الكتاب يقرؤون التّوراة بالعبريّة ويفسّرونها بالعربية لأهل الإسلام ... لا تصدِّقوا أهل الكتاب ولا تكذِّبوهم"}
+      - {motif: does-the-bier-speak, refs: ["Jāmiʿ 3:821.4"], note: "يا محمد! هل تتكلَّم هذه الجنازة؟ فقال النبيُّ ﷺ: اللَّه أعلم. قال اليهوديُّ: إنّها تتكلَّم"}
+  - id: hadith-3-narrate-from-israelites
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Convey from me even one verse; narrate from the Children of Israel, no harm'; told of them till morning"
+    read: ["Jāmiʿ 3:822.1-822.4"]
+    tags:
+      - {motif: convey-even-a-single-verse, refs: ["Jāmiʿ 3:822.1"], note: "بلِّغوا عنّي ولو آية"}
+      - {motif: narrate-from-israelites-no-harm, refs: ["Jāmiʿ 3:822.1", "Jāmiʿ 3:822.3", "Jāmiʿ 3:822.4"], note: "وحدِّثوا عن بني إسرائيل ولا حرج"}
+      - {motif: lying-about-the-prophet-earns-seat-in-fire, refs: ["Jāmiʿ 3:822.1"], note: "ومن كذب عليَّ متعمّدًا فليتبوأْ مقعده من النّار"}
+      - {motif: prophet-told-of-israelites-till-dawn, refs: ["Jāmiʿ 3:822.2"], note: "كان نبيُّ اللَّه ﷺ يحدِّثنا عن بني إسرائيل حتّى يصبح، ما يقوم إلّا إلى عُظْمِ الصّلاة"}
+  - id: hadith-3-zayd-learns-jewish-script
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Zayd b. Thabit learns the writing of the Jews in half a month"
+    read: ["Jāmiʿ 3:822.5"]
+    tags:
+      - {motif: learned-jewish-script-in-half-a-month, refs: ["Jāmiʿ 3:822.5"], note: "فتعلّمتُ له كتاب يهود. وقال: إنّي واللَّه! ما آمنُ يهود على كتابي ... فلم يمرّ إلّا نصف شهر حتّى حذقته"}
+  - id: hadith-3-useful-knowledge-prayers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Ask useful knowledge; refuge from knowledge that does not benefit, a heart not humble, a soul not sated, a prayer not heard"
+    read: ["Jāmiʿ 3:823.1-824.3"]
+    tags:
+      - {motif: ask-god-for-useful-knowledge, refs: ["Jāmiʿ 3:823.1", "Jāmiʿ 3:824.3"], note: "سلُوا اللَّهَ علمًا نافعًا، وتعوّذوا باللَّه من علمٍ لا ينفع ... اللَّهمّ انفعني بما علّمتني، وعلّمني ما ينفعني"}
+      - {motif: refuge-from-knowledge-without-benefit, refs: ["Jāmiʿ 3:823.2", "Jāmiʿ 3:824.1", "Jāmiʿ 3:824.2"], note: "اللَّهمّ إنّي أعوذ بك من علم لا ينفع، ومن قلبٍ لا يخشع، ومن نفسٍ لا تشبع، ومن دعوةٍ لا يستجاب لها ... وعمل لا يُرفع"}
+  - id: hadith-3-what-continues-after-death
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Deeds cut off at death except three; seven things that reach the believer after death"
+    read: ["Jāmiʿ 3:825.1-825.3"]
+    tags:
+      - {motif: deeds-cut-off-at-death-but-three, refs: ["Jāmiʿ 3:825.1", "Jāmiʿ 3:825.3"], note: "إذا مات الإنسانُ انقطع عمله إلّا من ثلاث: صدقة جارية، أو علم يُنتفع به، أو ولد صالح يدعو له"}
+      - {motif: seven-things-that-reach-believer-after-death, refs: ["Jāmiʿ 3:825.2"], note: "علمًا علَّمه ونشره، وولدًا صالحًا تركهـ، ومصحفًا ورّثه، أو مسجدًا بناه، أو بيتًا لابن السّبيل بناه، أو نهرًا أجراه، أو صدقة أخرجها من ماله"}
+  - id: hadith-3-studying-together
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Sakina, mercy and angels for those studying God's Book; Mu'awiya in the Hims mosque: 'God's mention is magnified'"
+    read: ["Jāmiʿ 3:827.1-827.2"]
+    tags:
+      - {motif: angels-surround-those-studying-gods-book, refs: ["Jāmiʿ 3:827.1"], note: "إلّا نزلت عليهم السّكينةُ وغَشيتهم الرّحمة، وحفَّتهم الملائكة، وذكرهم اللَّه فيمن عنده"}
+      - {motif: when-god-mentions-a-thing-it-is-magnified, refs: ["Jāmiʿ 3:827.2"], note: "قعدنا نتذاكر كتاب اللَّه وسنة نبيّه ﷺ، فقال رسول اللَّه ﷺ: إنّ اللَّه إذا ذكر شيئًا تعاظم ذِكرُهُ"}
+    hints:
+      - "The divine presence resting on those who sit studying together, against m. Avot 3:2 ('two who sit and words of Torah pass between them, the Shekhinah rests among them'); sakina here, Shekhinah there."
+  - id: hadith-3-who-may-preach
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "None preaches but a commander, one commanded, or a show-off; Ka'b stops; no storytelling before the fitna"
+    read: ["Jāmiʿ 3:827.3-829.1"]
+    tags:
+      - {motif: none-preaches-but-commander-appointee-or-showoff, refs: ["Jāmiʿ 3:827.3", "Jāmiʿ 3:828.1", "Jāmiʿ 3:828.2"], note: "لا يقصّ على النّاس إلّا أميرٌ، أو مأمور، أو مراءٍ ... أو مختالٌ ... أو متكلِّف"}
+      - {motif: no-storytelling-before-the-fitna, refs: ["Jāmiʿ 3:829.1"], note: "لم يُقَصّ في زمن النبي ﷺ ولا أبي بكر ولا عمر ولا عثمان، إنما كان القصص في زمن الفتنة"}
+  - id: hadith-3-hadith-felt-in-skin
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "A hadith your hearts know and your skin softens to is nearest to me"
+    read: ["Jāmiʿ 3:829.2"]
+    tags:
+      - {motif: hadith-known-by-softening-of-skin-and-hair, refs: ["Jāmiʿ 3:829.2"], note: "إذا سمعتم الحديث عنّي تعرفُه قلوبُكم، وتلينُ له أشعارُكم وأبشاركم ... وتَنِفر أشعاركم وأبشاركم"}
+  - id: hadith-3-israelites-wrote-a-book
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The Children of Israel wrote a book, followed it and left the Torah (bāb on Q 2:79)"
+    read: ["Jāmiʿ 3:829.3"]
+    quran: ["2:79"]
+    tags:
+      - {motif: israelites-wrote-a-book-and-left-torah, refs: ["Jāmiʿ 3:829.3"], note: "إنّ بني إسرائيل كتبوا كتابًا فاتبعوه، وتركوا التوراة"}
+  - id: hadith-3-people-are-mines
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "People are mines; the noblest is the most God-fearing, then Joseph; the best in the Jahiliyya are best in Islam if they understand"
+    read: ["Jāmiʿ 3:830.1-830.3"]
+    tags:
+      - {motif: people-are-mines, refs: ["Jāmiʿ 3:830.1", "Jāmiʿ 3:830.2", "Jāmiʿ 3:830.3"], note: "النّاس معادن، خيارهم في الجاهلية خيارهم في الإسلام إذا فقهوا"}
+      - {motif: joseph-noblest-of-people, refs: ["Jāmiʿ 3:830.2"], note: "من أكرم النّاس؟ قال: أتقاهم ... فيوسف نبي اللَّه ابن نبي اللَّه ابن خليل اللَّه"}
+  - id: hadith-3-report-not-like-seeing
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Report is not like seeing: Moses throws the tablets only when he sees the calf"
+    read: ["Jāmiʿ 3:831.1"]
+    quran: ["2:260", "7:150"]
+    tags:
+      - {motif: moses-told-of-calf-did-not-throw-tablets-until-he-saw, refs: ["Jāmiʿ 3:831.1"], note: "ليس الخبر كالمعاينة، إنّ اللَّه ﷿ أخبر موسى بما صنع قومه في العجل، فلم يلقِ الألواح، فلمّا عاين ما صنعوا، ألقى الألواحَ فانكسرتْ"}
+    hints:
+      - "God tells Moses on the mountain of the calf (Exod 32:7-8), yet he breaks the tablets only 'as soon as he came nigh unto the camp, that he saw the calf' (Exod 32:19); the hadith makes the order of telling and seeing its point."
+  - id: hadith-3-companions-relay-and-abu-dharr
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Not all heard directly, but none lied; Abu Dharr missed the relaxations and held to the severe"
+    read: ["Jāmiʿ 3:831.2-831.4"]
+    tags:
+      - {motif: companions-relayed-from-each-other-none-lied, refs: ["Jāmiʿ 3:831.2", "Jāmiʿ 3:831.3"], note: "ما كل ما نحدِّثكم عن رسول اللَّه ﷺ سمعناه منه، ولكن لم يكن يكذب بعضنا بعضًا ... وكانت تشغلنا رِغْية الإبل"}
+      - {motif: abu-dharr-held-to-the-hard-ruling, refs: ["Jāmiʿ 3:831.4"], note: "ثم إنّ رسول اللَّه ﷺ يرخِّص فيه بعدُ فلم يسمعه أبو ذرّ، فيتعلَّق أبو ذر بالأمر الشَّديد"}
+  - id: hadith-3-told-all-that-will-be
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "He told everything until the Hour; a sermon from dawn to sunset; no bird flaps its wings but we know of it"
+    read: ["Jāmiʿ 3:832.1-833.1"]
+    tags:
+      - {motif: forgotten-prediction-recognized-like-a-face, refs: ["Jāmiʿ 3:832.1"], note: "قد نسيتُه فأراه فأذكره، كما يذكرُ الرّجلُ وجه الرّجل إذا غاب عنه، ثم إذا رآه عرفه"}
+      - {motif: sermon-from-dawn-to-sunset-of-what-was-and-will-be, refs: ["Jāmiʿ 3:832.2"], note: "فخطبنا حتّى حضرت الظّهر ... حتّى حضرت العصر ... حتّى غربت الشّمس، فأخبرنا بما كان وبما هو كائن. فأعلمُنا أحْفظنا"}
+      - {motif: no-bird-flaps-wings-but-we-have-knowledge-of-it, refs: ["Jāmiʿ 3:833.1"], note: "تركنا رسول اللَّه ﷺ وما طائر يطير بجناحيه إلّا عندنا منه علم"}
+  - id: hadith-3-feet-do-not-move
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The servant's feet do not move till he is asked of life, knowledge, wealth and body"
+    read: ["Jāmiʿ 3:833.2-833.3"]
+    tags:
+      - {motif: feet-do-not-move-till-asked-four, refs: ["Jāmiʿ 3:833.2", "Jāmiʿ 3:833.3"], note: "لا تزولُ قدما عبدٍ يوم القيامة حتّى يُسأل عن عمره فيما أفناه، وعن علمه فيما فعل، وعن ماله من أين اكتسبه وفيما أنفقه، وعن جسمه فيما أبلاه"}
+    hints:
+      - "Each man asked at judgment of named uses of his life, against the questions put to the soul in b. Shabbat 31a ('did you deal faithfully, fix times for Torah, engage in procreation ...')."
+  - id: hadith-3-taught-slave-girl-double-reward
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Three with a double reward, first the man who teaches, frees and marries his slave-girl"
+    read: ["Jāmiʿ 3:834.1"]
+    tags:
+      - {motif: three-get-double-reward, refs: ["Jāmiʿ 3:834.1"], note: "فعلَّمها فأحسن تعليمها، وأدَّبها فأحسن تأديبها، ثم أعتقها وتزوّجها فله أجران ... وأيّما مملوك أدّى حقَّ مواليه وحقَّ ربِّه"}
+  - id: hadith-3-book-and-milk
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Ruin in the Book and milk; successors after sixty years who waste the prayer; three recite the Quran"
+    read: ["Jāmiʿ 3:834.2-835.1"]
+    quran: ["19:59"]
+    tags:
+      - {motif: ruin-of-community-in-the-book-and-milk, refs: ["Jāmiʿ 3:834.2"], note: "هلاك أمّتي في الكتاب واللَّبَن ... ويُحبّون اللَّبن فَيَدَعونَ الجَماعات والجُمَع ويَبْدون"}
+      - {motif: successors-after-sixty-years-waste-prayer, refs: ["Jāmiʿ 3:835.1"], note: "يكونُ خَلْفٌ من بعد ستّين سنة أضاعوا الصّلاة ... ويقرأ القرآن ثلاثة: مؤمن، ومنافق، وفاجر"}
+  - id: hadith-3-learn-genealogies
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Learn your genealogies to keep your kin; no nearness in a cut tie, no distance in a kept one"
+    read: ["Jāmiʿ 3:835.2-836.2"]
+    tags:
+      - {motif: learn-genealogy-to-keep-kin, refs: ["Jāmiʿ 3:835.2", "Jāmiʿ 3:836.1", "Jāmiʿ 3:836.2"], note: "تعلّموا من أنسابكم ما تصلون به أرحامكم؛ فإنّ صلة الرّحم مَحبّة في الأهل، مَثراة في المال، مَنسأة في الأثر"}
+  - id: hadith-3-eloquence-is-magic
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Some eloquence is magic, some poetry is wisdom"
+    read: ["Jāmiʿ 3:836.3-837.1"]
+    tags:
+      - {motif: eloquence-is-magic-poetry-is-wisdom, refs: ["Jāmiʿ 3:836.3", "Jāmiʿ 3:837.1"], note: "قدم رجلان من المشرق فخطبا، فعجب النّاس لبيانهما ... إنّ من البيان لسحرًا ... وإنّ من الشّعر حكمًا"}
+  - id: hadith-3-elders-and-the-young
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Blessing is with your elders; a sign of the Hour: knowledge sought from the young"
+    read: ["Jāmiʿ 3:838.1-839.1"]
+    tags:
+      - {motif: blessing-is-with-your-elders, refs: ["Jāmiʿ 3:838.1"], note: "البركة مع أكابركم"}
+      - {motif: knowledge-sought-from-the-young, refs: ["Jāmiʿ 3:839.1"], note: "إنّ من أشراط السّاعة ثلاثًا: إحداهنّ أن يُلتمس العلم عند الأصاغر"}
+  - id: hadith-3-overlook-slips
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Overlook the slips of people of standing, except the hadd"
+    read: ["Jāmiʿ 3:840.1"]
+    tags:
+      - {motif: overlook-slips-of-people-of-standing-except-hadd, refs: ["Jāmiʿ 3:840.1"], note: "أقيلوا ذوي الهيئات عثراتهم إلّا الحدودَ"}
+  - id: hadith-3-honouring-the-learned
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The Uhud dead: the one with more Quran first into the niche; honouring the grey-haired, the Quran bearer, the just ruler"
+    read: ["Jāmiʿ 3:841.1-841.2"]
+    tags:
+      - {motif: martyrs-buried-two-in-a-cloth-quran-first, refs: ["Jāmiʿ 3:841.1"], note: "كان يجمع بين الرجلين من قتلى أحد ... أيّهما أكثر أخذًا للقرآن؟ فإذا أشير إلى أحدهما قدّمه في اللّحد"}
+      - {motif: honouring-grey-haired-quran-bearer-just-ruler, refs: ["Jāmiʿ 3:841.2"], note: "إنّ من إجلال اللَّه إكرامَ ذي الشيبة المسلم، وحامل القرآن غير الغالي فيه والجافي عنه، وإكرامَ ذي السلطان المقْسط"}
+  - id: hadith-3-standing-to-honour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Stand for your master'; Talha runs to Ka'b; the prophet and Fatima rise for each other"
+    read: ["Jāmiʿ 3:841.3-842.2"]
+    tags:
+      - {motif: stand-for-your-master, refs: ["Jāmiʿ 3:841.3"], note: "لما نزلتْ بنو قريظة على حكم سعد ... فجاء على حمار، فلما دنا قال النبيّ ﷺ: قوموا إلى سيّدكم"}
+      - {motif: companion-runs-to-congratulate-penitent, refs: ["Jāmiʿ 3:842.1"], note: "فقام إليَّ طلحةُ بن عبيد اللَّه يُهرول حتّى صافحني وهنّأني، ما قام إليَّ رجلٌ من المهاجرين غيره، ولا أنساها لطلحة"}
+      - {motif: father-and-daughter-rise-kiss-and-seat-each-other, refs: ["Jāmiʿ 3:842.2"], note: "وكانت إذا دخلت على النبي ﷺ قام إليها فقبلها، وأجلسها في مجلسه، وكان النبي ﷺ إذا دخل عليها قامت من مجلسها فقبلته"}
+      - {motif: daughter-weeps-then-laughs-at-secret, refs: ["Jāmiʿ 3:842.2"], note: "أخبرني أنه ميت من وجعه هذا فبكيت، ثم أخبرني أني أسرعُ أهله لُحوقا به فذاك حين ضحكت"}
+  - id: hadith-3-standing-disliked
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Standing over the seated like Persia and Rome; who loves men to stand for him; they did not rise for him"
+    read: ["Jāmiʿ 3:843.1-843.3"]
+    tags:
+      - {motif: standing-over-seated-ruler-is-persian-roman, refs: ["Jāmiʿ 3:843.1"], note: "إنْ كدْتم آنفًا لَتفعلون فِعَل فارس والرّوم يقومون على ملوكهم وهم قعود فلا تفعلوا ... وإن صلّى قاعدًا فصلّوا قعودًا"}
+      - {motif: who-loves-men-to-stand-for-him-seat-in-fire, refs: ["Jāmiʿ 3:843.2"], note: "من أحبَّ أن يَمْثُل له الرّجال قيامًا فليتبوّأُ مقعده من النّار"}
+      - {motif: companions-did-not-rise-for-him, refs: ["Jāmiʿ 3:843.3"], note: "وكانوا إذا رأوه لم يقوموا لما يعلمون من كراهيته لذلك"}
+  - id: hadith-3-knowledge-lifted
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Knowledge lifted by the death of scholars; fifty women to one man; harj; Torah and Gospel avail nothing; humility the first to go"
+    read: ["Jāmiʿ 3:845.1-848.2"]
+    tags:
+      - {motif: fifty-women-one-guardian, refs: ["Jāmiʿ 3:845.1"], note: "أن يقلَّ العلمُ، ويظهَر الجهلُ، ويظهرَ الزِّنا، وتَكْثُرَ النّساءُ، ويقلَّ الرِّجالُ، حتّى يكون لخمسين امرأةً القيِّمُ الواحدُ"}
+      - {motif: harj-is-killing, refs: ["Jāmiʿ 3:845.2", "Jāmiʿ 3:846.1", "Jāmiʿ 3:847.2"], note: "ويكثر فيها الهرْجُ، -والهرْجُ: القتل- ... قالوا: وما الهرج؟ قال: القتل"}
+      - {motif: knowledge-lifted-by-taking-of-scholars, refs: ["Jāmiʿ 3:845.3", "Jāmiʿ 3:845.4", "Jāmiʿ 3:847.1", "Jāmiʿ 3:847.3"], note: "إنّ اللَّه لا يقبض العلم انتزاعًا ينتزعه من النّاس، ولكن يقبض العلم بقبض العلماء، حتّى إذا لم يترك عالمًا اتّخذ النّاسُ رؤوسًا جهّالًا"}
+      - {motif: aisha-tests-report-a-year-later, refs: ["Jāmiʿ 3:845.4"], note: "حتّى إذا كان قابلٌ ... فذكره لي نحو ما حدّثني به في مرّته الأولى ... ما أحسَبه إلّا قد صدق، أَراه لم يَزِدْ فيه شيئًا ولم يَنْقُصْ"}
+      - {motif: time-draws-close-knowledge-taken-avarice-cast, refs: ["Jāmiʿ 3:846.1"], note: "يتقارب الزّمان ويقبض العلم، وتظهر الفتن، ويُلقى الشُّح، ويكثر الهرج"}
+      - {motif: many-reciters-few-jurists, refs: ["Jāmiʿ 3:847.2"], note: "يكثر القرّاء، ويقلُّ الفقهاء ... ثم يأتي زمان يجادل المنافق المشركُ المؤمن"}
+      - {motif: knowledge-snatched-torah-gospel-avail-nothing, refs: ["Jāmiʿ 3:848.1", "Jāmiʿ 3:848.2"], note: "هذا أوانُ يُختلسُ العلمُ من النّاس ... هذه التّوراة والإنجيل عند اليهود والنّصارى فماذا تغني عنهم؟"}
+      - {motif: humility-first-knowledge-lifted, refs: ["Jāmiʿ 3:848.1", "Jāmiʿ 3:848.2"], note: "إن شئت لأحدّثنَّك بأوّل عِلم يُرفع من النّاس: الخشوع يُوشِكُ أن تدخل مسجد جماعةٍ فلا ترى فيه رجلًا خاشعًا"}
+    hints:
+      - "Knowledge failing as the sages die, against m. Sotah 9:15 ('when R. Meir died the makers of parables ceased; when Ben Azzai died the diligent ceased ...'), where each sage's death ends a kind of learning."
+  - id: hadith-3-fatwa-without-knowledge
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The sin of a fatwa without knowledge lies on the one who gave it"
+    read: ["Jāmiʿ 3:851.1"]
+    tags:
+      - {motif: sin-of-fatwa-on-the-mufti, refs: ["Jāmiʿ 3:851.1"], note: "مَنْ أُفْيِتَي بغير علمٍ كان إثمُه على مَنْ أفتاه"}
+  - id: hadith-3-disputing-the-book
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Striking God's Book part against part; disputing the Quran is unbelief"
+    read: ["Jāmiʿ 3:851.2-852.1"]
+    tags:
+      - {motif: striking-gods-book-part-against-part, refs: ["Jāmiʿ 3:851.2"], note: "إنّما هلك من كان قبلكم بهذا، ضربوا كتاب اللَّه بعضه ببعض ... وما جهلتم فكِلوه إلى عالمه"}
+      - {motif: disputing-about-the-quran-is-unbelief, refs: ["Jāmiʿ 3:852.1"], note: "المِراءُ في القرآن كفر"}
+  - id: hadith-3-ambiguous-verses-and-differing
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Beware those who follow the ambiguous; rise when you differ; both readings good; the pomegranate-seed face"
+    read: ["Jāmiʿ 3:852.2-853.4"]
+    quran: ["3:7"]
+    tags:
+      - {motif: beware-followers-of-ambiguous-verses, refs: ["Jāmiʿ 3:852.2"], note: "فإذا رأيت الذين يتبعون ما تشابه منه فأولئك الذين سمّى اللَّه فاحذروهم"}
+      - {motif: recite-while-hearts-agree-rise-when-you-differ, refs: ["Jāmiʿ 3:853.1"], note: "اقرأوا القرآن ما ائتلفت عليه قلوبُكم، فإذا اختلفتم فيه فقوموا"}
+      - {motif: both-readings-correct-those-before-differed-and-perished, refs: ["Jāmiʿ 3:853.2", "Jāmiʿ 3:853.3"], note: "كلاكما محسن، فاقرآ ... فإنّ من كان قبلكم اختلفوا فأَهْلَكَهْمْ ... إنّما هلك من كان قبلكم باختلافهم في الكتاب"}
+      - {motif: face-as-if-pomegranate-seeds-burst, refs: ["Jāmiʿ 3:853.4"], note: "كأنّما تفقّأ في وجهه حبُّ الزمان ... لا ترجعوا بعدي كفّارًا يضرب بعضكم رقاب بعض"}
+  - id: hadith-3-forbidding-the-lawful
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "One who forbids the lawful is like one who permits the forbidden"
+    read: ["Jāmiʿ 3:854.1"]
+    quran: ["16:116"]
+    tags:
+      - {motif: forbidder-of-lawful-like-permitter-of-forbidden, refs: ["Jāmiʿ 3:854.1"], note: "إنّ محرِّمَ الحلالِ كمُحِلِّ الحرام"}
+  - id: hadith-3-moses-claims-knowledge-sparrow
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Moses says 'I am most knowing' and is reproved; the fish in a basket; carried without fare; the sparrow's peck"
+    read: ["Jāmiʿ 3:854.2"]
+    quran: ["18:60-82"]
+    tags:
+      - {motif: moses-reproved-for-not-referring-knowledge-to-god, refs: ["Jāmiʿ 3:854.2"], note: "فسُئل: أيّ النّاس أعلم؟ فقال: أنا أعلم، فعتب اللَّه عليه، إذ لم يرد العلم إليه ... احمل حوتًا في مكتل فإذا فقدته فهو ثَمَّ"}
+      - {motif: khidr-recognised-carried-without-fare, refs: ["Jāmiʿ 3:854.2"], note: "فعُرف الخضر فحملوهما بغير نَول"}
+      - {motif: bird-pecks-sea-measure-of-human-knowledge, refs: ["Jāmiʿ 3:854.2"], note: "فجاء عصفور فوقع على حرف السّفينة فنقر نقرة أو نقرتين في البحر، فقال الخضر: يا موسى! ما نقص علمي وعلمك من علم اللَّه إلّا كنقرة هذا العصفور في هذا البحر"}
+  - id: hadith-3-boasting-reciters-fuel-of-fire
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Horses wade the seas; then reciters say 'who reads better than we?': fuel of the fire"
+    read: ["Jāmiʿ 3:855.1"]
+    tags:
+      - {motif: reciters-who-boast-are-fuel-of-fire, refs: ["Jāmiʿ 3:855.1"], note: "يظهر الإسلام حتى تخوض الخيلُ البحار ... يقولون: من أقرأ منا؟ من أفقه منا؟ ... أولئك وقود النّار، أولئك منكم من هذه الأمّة"}
+  - id: hadith-3-lying-about-the-prophet
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Whoever lies about me, let him take his seat in the fire: Ali, Abu Hurayra, Anas, al-Mughira, al-Zubayr, Salama and others"
+    read: ["Jāmiʿ 3:856.1-860.2"]
+    tags:
+      - {motif: lying-about-the-prophet-earns-seat-in-fire, refs: ["Jāmiʿ 3:856.1", "Jāmiʿ 3:856.2", "Jāmiʿ 3:856.3", "Jāmiʿ 3:857.1", "Jāmiʿ 3:857.2", "Jāmiʿ 3:857.3", "Jāmiʿ 3:857.4", "Jāmiʿ 3:858.2", "Jāmiʿ 3:858.3", "Jāmiʿ 3:859.1", "Jāmiʿ 3:859.2", "Jāmiʿ 3:860.1", "Jāmiʿ 3:860.2"], note: "لا تكذبوا عليَّ، فإنّه مَنْ كذب عليَّ فلْيلج النّار ... إنّ كذبًا عليَّ ليس ككذب على أحد ... من كذب عليَّ متعمِّدًا ليُضلَّ به النَّاسَ"}
+      - {motif: name-me-not-my-kunya, refs: ["Jāmiʿ 3:856.2"], note: "تَسمُّوا باسْمي ولا تكتنوا بكنيتي"}
+      - {motif: satan-cannot-take-the-prophets-form-in-dream, refs: ["Jāmiʿ 3:856.2"], note: "ومن رآني في المنام فقد رآني، فإنّ الشّيطان لا يتمثّل في صورتي"}
+      - {motif: convey-even-a-single-verse, refs: ["Jāmiʿ 3:857.4"], note: "بلِّغوا عنّي ولو آية"}
+      - {motif: house-built-in-fire-for-liar-about-prophet, refs: ["Jāmiʿ 3:858.1"], note: "من كذب عليَّ متعمِّدًا فليتبوّأ بيتًا في النّار"}
+      - {motif: beware-much-hadith-from-me, refs: ["Jāmiʿ 3:858.2"], note: "يا أيّها النّاس إيّاكم وكثرة الحديث عنّي، من قال عليَّ فلا يقولنَّ إلّا حقًّا -أو صدقًا-"}
+      - {motif: silk-here-denied-hereafter, refs: ["Jāmiʿ 3:858.3"], note: "أما لكم في العَصْب والكَتَّان ما يكفيكم من الحرير ... من لبس الحريرَ في الدُّنيا، حُرِمه أن يلبسَه في الآخرة"}
+      - {motif: companion-called-senile-cites-lying-hadith, refs: ["Jāmiʿ 3:858.4"], note: "تحدِّث أنّ له حوضًا في الجنّة؟ ... قال: كذبتَ، ولكنّك شيخٌ قد خَرِفْتَ"}
+      - {motif: greatest-lies-false-father-false-dream-false-hadith, refs: ["Jāmiʿ 3:859.3"], note: "مِنْ أفرى الفِرى من ادّعى إلى غير والده، ومِنْ أفرى الفِري من أرڑي عينيه ما لم ترَ، ومن أفرى الفِرى من قال عليَّ ما لم أقل"}
+  - id: hadith-3-concealing-knowledge
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The two verses on concealment; a bridle of fire for one who conceals knowledge; knowledge unshared like hoarded treasure"
+    read: ["Jāmiʿ 3:862.1-863.2"]
+    quran: ["2:159-160", "3:187"]
+    tags:
+      - {motif: abu-hurayra-narrates-because-of-two-verses, refs: ["Jāmiʿ 3:862.1"], note: "ولولا آيتان في كتاب اللَّه ما حدَّثْتُ حديثًا ... يلزم رسول اللَّه ﷺ بِشِبَعِ بطنه"}
+      - {motif: bridle-of-fire-for-concealed-knowledge, refs: ["Jāmiʿ 3:862.2", "Jāmiʿ 3:863.1"], note: "من سُئل عن علم ثم كتمه أُلجم يوم القيامة بِلِجام من نار"}
+      - {motif: unshared-knowledge-like-unspent-treasure, refs: ["Jāmiʿ 3:863.2"], note: "مثل الذي يتعلَّم العلم ثم لا يحدِّث به، كمثل الذي يكنز الكنز فلا ينفق منه"}
+  - id: hadith-3-narrating-lies
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Enough of a lie to narrate all one hears; the narrator of a known lie is a liar; lying dajjals with unheard hadith"
+    read: ["Jāmiʿ 3:865.1-865.5"]
+    tags:
+      - {motif: narrating-all-one-hears-enough-of-a-lie, refs: ["Jāmiʿ 3:865.1"], note: "كفى بالمرء كذبًا أن يحدِّث بكلِّ ما سمع"}
+      - {motif: narrator-of-a-known-lie-is-one-of-the-liars, refs: ["Jāmiʿ 3:865.2", "Jāmiʿ 3:865.3", "Jāmiʿ 3:865.5"], note: "من حدّث عنّي بحديث يُرى أنّه كذبٌ فهو أحد الكاذبين"}
+      - {motif: end-time-liars-bring-unheard-hadith, refs: ["Jāmiʿ 3:865.4"], note: "يكون في آخر الزّمان دجّالون كذَّابون، يأتونكم من الأحاديث بما لم تسمعوا أنتم ولا آباؤكم"}
+  - id: hadith-3-world-cursed-and-worldly-learning
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The world cursed but remembrance, knower and learner; knowledge for worldly gain finds no scent of paradise"
+    read: ["Jāmiʿ 3:866.1-867.1"]
+    tags:
+      - {motif: world-cursed-but-remembrance-knower-learner, refs: ["Jāmiʿ 3:866.1"], note: "الدُّنيا ملعونة، ملعون ما فيها، إِلَّا ذكر اللَّه وما والاه، أو عالمًا، أو متعلِّمًا"}
+      - {motif: knowledge-for-worldly-gain-no-scent-of-paradise, refs: ["Jāmiʿ 3:866.2"], note: "لا يتعلّمه إِلَّا ليصيب به عرضًا من الدّنيا، لم يجد عرف الجنّة يوم القيامة"}
+      - {motif: do-not-learn-to-vie-with-scholars, refs: ["Jāmiʿ 3:867.1"], note: "لا تعلّموا العلم لتُباهوا به العلماء، ولا لتماروا به السُّفهاء، ولا لتحتازوا به المجالس، فمن فعل ذلك فالنَّارُ النَّارُ"}
+  - id: hadith-3-much-questioning
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Who is my father?' and Q 5:101; 'ask me'; leave me as I leave you; three forbidden, three disliked; Uwaymir's question; who created God?; no over-burdening"
+    read: ["Jāmiʿ 3:868.1-870.5"]
+    quran: ["5:101"]
+    tags:
+      - {motif: laugh-little-weep-much, refs: ["Jāmiʿ 3:868.1"], note: "لو تعلمون ما أعلم لضحكتم قليلًا ولبكيتم كثيرًا. قال: فغطّى أصحاب رسول اللَّه ﷺ وجوههم لهم حنين"}
+      - {motif: do-not-ask-about-things, refs: ["Jāmiʿ 3:868.1", "Jāmiʿ 3:868.2"], note: "فقال رجل: مَنْ أبي؟ قال: أبوك فلان. فنزلت هذه الآية ... ويقول الرّجل تضلُّ ناقته: أين ناقتي؟"}
+      - {motif: your-father-is-hudhafa, refs: ["Jāmiʿ 3:868.3"], note: "مَنْ أبي؟ فقال: أبوك حذافة. ثم قام آخر فقال: يا رسول اللَّه، مَنْ أَبي؟ فقال: أبوك سالم مولى شيبة"}
+      - {motif: am-i-in-paradise-asked-and-answered, refs: ["Jāmiʿ 3:869.1"], note: "سلوني عمَّا شئتم ... أفي الجنّة أنا؟ فقال: في الجنّة. وقال آخر: أفي الجنّة أنا؟ قال: في النّار"}
+      - {motif: umar-kneels-content-with-god-islam-muhammad, refs: ["Jāmiʿ 3:869.1"], note: "فقام عمر ﵁، فقال: رضينا باللَّه ربًّا"}
+      - {motif: leave-me-as-i-leave-you, refs: ["Jāmiʿ 3:869.2"], note: "ادعوني ما تركتكم إنّما هلك مَنْ كان قبلكم بسؤالهم، واختلافهم على أنبيائهم"}
+      - {motif: three-forbidden-three-disliked, refs: ["Jāmiʿ 3:869.3", "Jāmiʿ 3:870.4"], note: "حرَّم عليكم عقوق الأمّهات، ووأد البنات، ومنعًا وهاتِ، وكره لكم ثلاثًا: قيل وقال، وكثرة السؤال، وإضاعة المال"}
+      - {motif: female-infanticide-condemned, refs: ["Jāmiʿ 3:869.3"], note: "ووأد البنات"}
+      - {motif: question-that-causes-a-prohibition, refs: ["Jāmiʿ 3:870.1"], note: "أعظم المسلمين في المسلمين جرما مَنْ سأل عن أمر لم يحرم فحرم على النّاس من أجل مسألته"}
+      - {motif: question-that-causes-a-prohibition, refs: ["Jāmiʿ 3:870.2"], note: "كيف تقولون في رجل وجد مع امرأته رجلًا أيقتله ... فكره رسولُ اللَّه ﷺ المسائلَ ... قال عويمر: واللَّهِ! لا أنتهي حتّى أسأل"}
+      - {motif: people-will-keep-asking-till-who-created-god, refs: ["Jāmiʿ 3:870.3"], note: "لن يبرح النَّاسُ يتساءلون حتّى يقولوا: هذا اللَّه خالقُ كلِّ شيءٍ، فمن خلق اللَّه؟"}
+      - {motif: forbidden-to-overburden-ourselves, refs: ["Jāmiʿ 3:870.5"], note: "كنّا عند عمر فقال: نُهينا عن التّكلُّف"}
+  - id: hadith-3-first-judged-showoffs
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "First judged: the martyr, the scholar-reciter, the generous man, each dragged on his face into the fire"
+    read: ["Jāmiʿ 3:871.1"]
+    tags:
+      - {motif: first-judged-martyr-scholar-giver-for-show, refs: ["Jāmiʿ 3:871.1"], note: "ولكنَّكَ تَعَلَّمْتَ العِلْمَ ليُقال عالم، وقرأتَ القرآنَ ليُقال هو قارئ، فقد قيل. ثم أُمِرَ به فسحب على وجهه حتّى أُلقي في النّار"}
+  - id: hadith-3-hypocrite-reciters
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Most of the hypocrites of my community are its reciters"
+    read: ["Jāmiʿ 3:872.1-872.2"]
+    tags:
+      - {motif: most-hypocrites-of-community-are-its-reciters, refs: ["Jāmiʿ 3:872.1", "Jāmiʿ 3:872.2"], note: "إنّ أكثر منافقي أمّتي قرّاؤها"}
+  - id: hadith-3-storytelling-warned
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "When Israel perished they told stories; Umar's three questions and the Pleiades; the standing storyteller rebuked; 'the tip of an error'"
+    read: ["Jāmiʿ 3:873.1-874.2"]
+    tags:
+      - {motif: israelites-told-stories-when-they-perished, refs: ["Jāmiʿ 3:873.1"], note: "إنّ بني إسرائيل لما هلكوا قصُّوا"}
+      - {motif: separate-from-woman-in-prayer-by-cloth, refs: ["Jāmiʿ 3:873.2"], note: "ربما كنت أنا والمرأة في بناء ضيّق ... فقال عمر: تستُر بينك وبينها بثوب، ثم تصلّي بحذائك إن شئت"}
+      - {motif: storyteller-rises-to-pleiades-then-under-feet, refs: ["Jāmiʿ 3:873.2"], note: "حتّى يخيّل إليك أنّك فوقهم بمنزلة الثُّرَيَّا، فيضعك اللَّه تحت أقدامهم يوم القيامة بقدر ذلك"}
+      - {motif: companion-rebukes-standing-storyteller, refs: ["Jāmiʿ 3:874.1"], note: "كان يقصُّ على النّاس وهو قائم ... واللَّهِ ما تركنا عهدَ نبيِّنا، ولا قطعنا أرحامنا حتّى قمت أنت وأصحابُك بين أظهرنا"}
+      - {motif: storytellers-hold-tip-of-error, refs: ["Jāmiʿ 3:874.2"], note: "سبحان اللَّه -كذا وكذا- ... إنّكم لأهْدى من محمّد ﷺ وأصحابه؟ إنّكم لمتمسِّكون بطَرَف ضلالة"}
+  - id: hadith-3-umar-torah-copy
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Umar's copy of the Torah: the prophet's face changes; 'if Moses were alive he would have to follow me'"
+    read: ["Jāmiʿ 3:875.1-875.2"]
+    tags:
+      - {motif: torah-copy-angers-prophet-moses-would-follow, refs: ["Jāmiʿ 3:875.1", "Jāmiʿ 3:875.2"], note: "نسخَ عمر كتابًا من التوراة بالعربية ... لا تسألوا أهل الكتاب عن شيء، فإنَّهم لن يهدوكم وقد ضلّوا ... لو كان موسى بين أظهركم ما حلّ له إِلَّا أن يتبعني"}
+      - {motif: brought-it-white-and-pure, refs: ["Jāmiʿ 3:875.2"], note: "أمتهوكون فيها يا ابن الخطّاب! والذي نفسي بيده! لقد جئتكم بها بيضاء نقية"}
+  - id: hadith-3-stars-and-extremists
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Knowledge of the stars a branch of sorcery; the extremists perished"
+    read: ["Jāmiʿ 3:877.1-877.2"]
+    tags:
+      - {motif: knowledge-of-stars-a-branch-of-sorcery, refs: ["Jāmiʿ 3:877.1"], note: "من اقتبس علمًا من النجوم اقتبس شعبة من السّحر زاد ما زاد"}
+      - {motif: extremists-perished-said-thrice, refs: ["Jāmiʿ 3:877.2"], note: "هلك المتنطِّعون. قالها ثلاثًا"}
+    hints:
+      - "Astrology classed with sorcery, against Deut 18:10-11 (diviner, soothsayer, enchanter, sorcerer) and Isa 47:13 ('the astrologers, the stargazers, the monthly prognosticators')."
+  - id: hadith-3-scholar-who-does-not-act
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The preacher's entrails in the fire; lips cut with fire scissors; the lamp that burns itself; the palmful of blood"
+    read: ["Jāmiʿ 3:878.1-880.1"]
+    quran: ["2:44", "61:2-3", "62:5"]
+    tags:
+      - {motif: preacher-entrails-spill-turns-like-donkey-at-mill, refs: ["Jāmiʿ 3:878.1", "Jāmiʿ 3:879.2"], note: "فتندلق أقتاب بطنه، فيدور بها كما يدور الحمار بالرَّحى ... قد كنتُ آمرُ بالمعروف ولا آتيه، وأنْهى عن المنْكر وآتيه"}
+      - {motif: refuge-from-knowledge-without-benefit, refs: ["Jāmiʿ 3:878.2"], note: "اللَّهُمَّ! إنّي أعوذ بك من علم لا ينفع، ومن قلبٍ لا يخشع، ومن نفسٍ لا تشبع، ومن دعوةٍ لا يستجاب لها"}
+      - {motif: feet-do-not-move-till-asked-four, refs: ["Jāmiʿ 3:879.1"], note: "لا تزولُ قدما عبدٍ يوم القيامة حتّى يُسأل ... وعن علمه فيما فعل"}
+      - {motif: preachers-lips-cut-with-fire-scissors, refs: ["Jāmiʿ 3:879.3"], note: "مررتُ ليلة أُسري بي على قومٍ تُقرض شفاههم بمقاريض من نار ... خطباء من أهل الدُّنيا ممّن كانوا يأمرون النّاس بالبر، وينسون أنفسهم وهم يتلون الكتاب"}
+      - {motif: teacher-forgets-self-like-lamp-burning-itself, refs: ["Jāmiʿ 3:880.1"], note: "مثلُ العالم الذي يعلِّمُ النَّاسَ الخيرَ وينسى نفسه، كمثل السِّراج يُضيء للنّاس ويُحْرق نفسه"}
+      - {motif: handful-of-blood-bars-paradise, refs: ["Jāmiʿ 3:880.1"], note: "لا يَحُولَنَّ بين أحدِكم وبين الجنّة وهو ينظر إلى أبوابها مِلْءُ كَفٍّ مِنْ دم مُسلمٍ أَهْراقَهُ ظُلْمًا"}
+    hints:
+      - "The teacher who does not practise, against Matt 23:3 ('they say, and do not') and Rom 2:21 ('thou that teachest another, teachest thou not thyself?'); the self-consuming lamp against the rabbinic image of the candle that lights others (b. Shabbat 122a, 'a light for one is a light for a hundred')."

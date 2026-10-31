@@ -1,0 +1,2215 @@
+# Hadith chunk 28: al-Jāmiʿ al-Kāmil book 6 (kitāb al-ḥayḍ, pp. 985-1005, printed 2/205-225) and book 7
+# (kitāb al-wuḍūʾ, pp. 1006-1102, printed 2/226-322): the menstruant's prayer, fast, garment, bed and table; the woman with
+# prolonged bleeding (istiḥāḍa); then intention, the merits of ablution, its description, the counts, the heels, what
+# breaks it (camel meat, fire-touched food, sleep, touching the penis, wind, madhy) and wiping over socks and turbans.
+# Read in full from the Arabic (185 hadith).
+new_motifs:
+  menstruant-makes-up-fast-not-prayer:
+    label: Women who menstruated were ordered to make up the fast but not the prayer
+    cluster: law
+  asked-are-you-a-haruri:
+    label: Asked why the menstruant makes up the fast and not the prayer, Aisha retorts 'are you a Haruriyya?'; 'no, I only
+      ask'
+    cluster: polemic
+  postpartum-woman-sits-forty-days:
+    label: The woman after childbirth sat (abstained) forty days in the Prophet's time
+    cluster: law
+  face-smeared-with-wars-against-blotches:
+    label: Women in their postpartum days smeared their faces with wars (yellow dye) against dark blotches (kalaf)
+    cluster: ritual
+  menstrual-blood-pinched-sprinkled-prayed-in:
+    label: 'Menstrual blood on a garment: pinch it off, sprinkle with water, then pray in it'
+    cluster: ritual
+  single-garment-blood-scraped-with-saliva-and-nail:
+    label: Women had a single garment to menstruate in; a spot of blood was moistened with saliva and scraped with a fingernail
+    cluster: ritual
+  blood-scraped-with-rib-washed-with-lote:
+    label: Menstrual blood on a garment is scraped with a rib-bone (ḍilaʿ) and washed with water and lote (sidr)
+    cluster: ritual
+  prophets-garment-touches-menstruant-in-prostration:
+    label: He prays beside his menstruating wife lying on her mat; when he prostrates part of his garment touches her
+    cluster: ritual
+  one-wrap-over-praying-man-and-menstruant:
+    label: He prays at night beside his menstruating wife with one wrap (mirṭ) lying partly on her and partly on him
+    cluster: ritual
+  prays-in-garment-of-intercourse-unless-stained:
+    label: 'Asked whether he prayed in the garment he lay with his wife in: yes, if he saw no harm (adhā) on it'
+    cluster: ritual
+  no-prayer-in-wives-coverlets:
+    label: He would not pray in the women's undergarments (shuʿur) or coverlets (luḥuf)
+    cluster: ritual
+  drinks-and-bites-where-menstruant-put-her-mouth:
+    label: He puts his mouth where his menstruating wife drank and bites the bone where she bit
+    cluster: ritual
+  eat-with-the-menstruant:
+    label: 'Asked about eating with a menstruating woman: ''eat with her'''
+    cluster: law
+  slips-away-at-menses-and-is-called-back-under-the-cover:
+    label: Lying with him under a cloak she gets her period, slips away for her menstrual clothes; 'have you been bled (nufisti)?'
+      and he calls her back under the coverlet
+    cluster: ritual
+  lies-with-menstruant-cloth-between:
+    label: He lies with his menstruating wife with a garment between them
+    cluster: ritual
+  only-the-spot-washed-not-beyond:
+    label: Sleeping in one cloth with the menstruant, if any of her blood touches him he washes that place only, not beyond,
+      and prays in it
+    cluster: ritual
+  fondles-menstruant-over-waist-wrap:
+    label: He has the menstruating wife put on a waist-wrap at the height of her flow, then touches (yubāshir) her
+    cluster: law
+  who-controls-his-desire-as-he-did:
+    label: '''Which of you controls his desire (irb) as the Prophet controlled his?'''
+    cluster: ethics
+  cloth-laid-over-menstruants-private-part:
+    label: Wanting something of a menstruating wife he laid a cloth over her private part
+    cluster: law
+  jews-angered-he-leaves-nothing-undifferent:
+    label: The Jews say 'this man wants to leave nothing of our ways without differing from it'
+    cluster: polemic
+  companions-ask-to-have-intercourse-to-differ-from-jews:
+    label: Two Companions ask, to differ from the Jews, 'shall we not lie with them?'; his face changes; he sends milk after
+      them to show no anger
+    cluster: sira
+  menstruant-combs-hair-of-man-in-retreat:
+    label: The menstruating wife in her room combs the hair of the Prophet, in retreat in the mosque, who puts his head out
+      to her
+    cluster: ritual
+  your-menstruation-is-not-in-your-hand:
+    label: 'Told to hand him the mat (khumra) from the mosque, she says she is menstruating: ''your menstruation is not in
+      your hand'''
+    cluster: ritual
+  menstruant-anus-soothsayer-disbelief:
+    label: Whoever goes to a menstruating woman, or to a woman in her anus, or to a soothsayer, has disbelieved in what was
+      revealed to Muhammad
+    cluster: law
+  yellow-and-turbid-not-counted:
+    label: Turbid and yellowish discharge was not counted as anything (after purity)
+    cluster: law
+  prolonged-bleeding-a-vein-not-menstruation:
+    label: 'Prolonged bleeding (istiḥāḍa) is ''a vein, not menstruation'': leave prayer when the period comes, wash off the
+      blood and pray when it goes'
+    cluster: law
+  count-the-days-of-the-former-cycle:
+    label: The bleeding woman counts the nights and days she used to menstruate before her affliction and leaves prayer for
+      that much of the month
+    cluster: law
+  bind-a-cloth-and-pray:
+    label: After her days she bathes, binds herself with a cloth (tastathfir) and prays
+    cluster: ritual
+  bathes-in-tub-till-red-rises-over-water:
+    label: Bleeding for seven years she bathed for every prayer in a tub in her sister's room until the red of the blood rose
+      over the water
+    cluster: ritual
+  wept-because-she-could-not-pray:
+    label: '''May God have mercy on Hind: she used to weep because she could not pray'''
+    cluster: ethics
+  menstrual-blood-black-and-known:
+    label: 'Menstrual blood is black and known; the other is a vein: make ablution and pray'
+    cluster: law
+  ablution-for-every-prayer-of-bleeding-woman:
+    label: The woman with prolonged bleeding makes ablution for every prayer until that time comes again
+    cluster: law
+  bleeding-woman-bathes-for-every-prayer:
+    label: The woman who pours blood is ordered to bathe at every prayer and pray
+    cluster: law
+  three-baths-a-day-after-yellow-on-water:
+    label: She sits in a tub; when she sees yellow over the water she bathes once for noon and afternoon, once for sunset
+      and night, once for dawn
+    cluster: ritual
+  prolonged-bleeding-is-from-satan:
+    label: '''Glory be to God! This is from Satan'''
+    cluster: demonology
+  bleeding-is-a-kick-of-satan:
+    label: '''This is only a kick (rakḍa) of the kicks of Satan'''
+    cluster: demonology
+  menstruate-six-or-seven-days-in-gods-knowledge:
+    label: '''Menstruate six or seven days in God''s knowledge'', then pray twenty-three or twenty-four nights'
+    cluster: law
+  cotton-cloth-then-gushing:
+    label: '''I prescribe cotton (kursuf)''; ''it is more''; ''take a cloth''; ''it is more, I gush (athujju thajjan)'''
+    cluster: ritual
+  two-commands-either-suffices:
+    label: '''I will order you two things; whichever you do suffices for the other'' - the second, combining prayers with
+      one bath, ''is the dearer to me'''
+    cluster: law
+  emigration-for-world-or-woman:
+    label: Whoever emigrated for worldly gain or a woman to marry, his emigration is to what he emigrated for
+    cluster: ethics
+  ablution-in-gods-name-from-fingers:
+    label: 'He puts his hand in the water: ''make ablution in the name of God''; water comes from between his fingers till
+      about seventy have washed'
+    cluster: miracle
+  no-prayer-accepted-after-hadath-till-ablution:
+    label: The prayer of one who has broken his purity (aḥdatha) is not accepted until he makes ablution; the ḥadath is 'fusāʾ
+      or ḍurāṭ'
+    cluster: law
+  no-prayer-without-purity-no-alms-from-theft:
+    label: God accepts no prayer without purification and no alms from embezzled booty (ghulūl)
+    cluster: law
+  ablution-only-when-rising-to-pray:
+    label: 'Coming from the privy he is brought food and asked about ablution: ''Why? Am I going to pray, that I should make
+      ablution?'''
+    cluster: law
+  key-of-prayer-purity-takbir-taslim:
+    label: The key of prayer is purification; its consecration (taḥrīm) is the takbīr and its release (taḥlīl) the taslīm
+    cluster: ritual
+  sins-leave-each-limb-with-last-drop:
+    label: Washing the face, every sin his eyes looked at leaves with the water (or the last drop); the hands, every sin they
+      seized; the feet, every sin they walked to
+    cluster: theology
+  sins-exit-from-under-the-nails:
+    label: Whoever perfects ablution, his sins leave his body until they come out from under his nails
+    cluster: theology
+  ablution-like-mine-forgives-past:
+    label: '''Whoever makes ablution like this ablution of mine'' has his past sins forgiven; his prayer and walk to the mosque
+      are extra'
+    cluster: theology
+  obligatory-prayer-expiates-unless-major-sin-always:
+    label: Prayer with good ablution, humility and bowing expiates the sins before it so long as no major sin is committed,
+      'and that is for all time'
+    cluster: theology
+  hesitates-whether-to-tell-or-keep-silent:
+    label: '''I do not know whether to tell you something or keep silent''; ''if it is good tell us'''
+    cluster: transmission
+  would-not-tell-but-for-a-verse:
+    label: '''By God, I would tell you a hadith; were it not in God''s book I would not tell you'''
+    cluster: transmission
+  each-goes-out-selling-himself-freeing-or-ruining:
+    label: Prayer is light, alms a proof, patience radiance, the Quran a proof for or against you; every man goes out selling
+      his soul, freeing it or ruining it
+    cluster: ethics
+  sun-rises-between-satans-horns-unbelievers-bow:
+    label: 'The sun rises and sets between the two horns of a devil, when the unbelievers prostrate to it: no prayer then'
+    cluster: ritual
+  hell-stoked-at-noon:
+    label: 'When the shadow stands upright on the spear, hell is stoked (tusjar): do not pray'
+    cluster: eschatology
+  prayer-witnessed-and-attended:
+    label: Pray then, for the prayer is witnessed and attended (mashhūda maḥḍūra)
+    cluster: ritual
+  sins-fall-from-mouth-nostrils-beard-fingers-hair:
+    label: Rinsing and snuffing, the sins of face, mouth and nostrils fall; washing, from the tips of the beard, the fingertips,
+      the hair-ends, the toes
+    cluster: theology
+  returns-from-sin-as-on-day-mother-bore-him:
+    label: 'Prayer after such ablution with a heart emptied for God: he leaves his sin as on the day his mother bore him'
+    cluster: theology
+  heard-it-seven-times-and-more:
+    label: '''Had I not heard it from him once, twice, three times - he counted to seven - I would never have told it; I heard
+      it more'''
+    cluster: transmission
+  walk-to-prayer-purified-like-pilgrim-in-ihram:
+    label: Going out purified to an obligatory prayer earns the reward of the pilgrim in iḥrām; to the forenoon prayer, of
+      the ʿumra pilgrim; prayer after prayer without idle talk is written in ʿIlliyyūn
+    cluster: ritual
+  ablution-expiates-prayer-becomes-extra:
+    label: Ablution expiates what is before it and the prayer becomes extra (nāfila); heard 'not once, twice, three, four,
+      five times'
+    cluster: theology
+  knots-untied-limb-by-limb-in-night-ablution:
+    label: A man rising at night struggles to purify himself under knots; with hands, face, head and feet washed a knot is
+      untied each time; God tells those behind the veil 'look at my servant'
+    cluster: theology
+  prays-after-every-purification:
+    label: 'Bilal: never did I purify at any hour of night or day but I prayed with that purity what was written for me'
+    cluster: ritual
+  five-prayers-like-river-at-the-door:
+    label: 'The five prayers are like a river at a man''s door in which he bathes five times a day: does any dirt remain?'
+    cluster: parable
+  later-dying-brother-raised-by-his-prayers:
+    label: Of two brothers the better died; the other lived forty more nights; 'do you know what his prayer brought him to?'
+    cluster: ethics
+  sin-then-ablution-two-rakas-forgiven:
+    label: 'A man sins, makes ablution well, prays two rakʿas and asks forgiveness: God forgives him'
+    cluster: theology
+  ali-made-narrators-swear:
+    label: 'Ali: when another told me a hadith from the Prophet I made him swear; but Abu Bakr told me, and Abu Bakr spoke
+      truth'
+    cluster: transmission
+  two-rakas-without-distraction-forgives-past:
+    label: 'Ablution then two rakʿas in which he does not drift (or talk to himself): his past sins are forgiven'
+    cluster: theology
+  only-a-believer-guards-ablution:
+    label: '''Be steady and keep close; the best of your works is prayer, and none guards ablution but a believer'''
+    cluster: ethics
+  lengthen-the-blaze:
+    label: '''Whoever can lengthen his blaze (ghurra), let him do it''; Abu Hurayra washes to the shoulders and shins'
+    cluster: ritual
+  ornament-reaches-where-ablution-reaches:
+    label: 'Abu Hurayra stretches his washing to the armpit: ''the ornament (ḥilya) of the believer reaches where the ablution
+      reaches'''
+    cluster: eschatology
+  greeting-the-abode-of-believing-dead:
+    label: 'At the cemetery: ''Peace on you, abode of a believing people; we shall join you, God willing'''
+    cluster: ritual
+  basin-wider-than-ayla-to-aden:
+    label: His basin is wider than from Ayla to Aden; he drives men from it as a man drives strange camels from his trough
+    cluster: eschatology
+  blaze-from-prostration-stockings-from-ablution:
+    label: 'His community on the day of resurrection: white-faced from prostration, white-limbed from ablution'
+    cluster: eschatology
+  piebald-from-ablution:
+    label: 'Asked how he knows those he never saw: ''blazed, white-footed, piebald (bulq) from the traces of ablution'''
+    cluster: eschatology
+  right-first-in-sandal-comb-purification:
+    label: He liked to begin with the right in putting on sandals, combing and purifying, in all his affairs
+    cluster: ritual
+  begin-with-right-in-dress-and-ablution:
+    label: '''When you dress and when you make ablution, begin with your right sides'''
+    cluster: ritual
+  head-wiped-front-to-nape-and-back:
+    label: Head wiped with both hands from the forehead to the nape and back to where he began; hands twice, face and mouth
+      thrice
+    cluster: ritual
+  one-scoop-per-limb:
+    label: Ibn Abbas takes one scoop of water for mouth and nose, one for the face with both hands, one for each hand, and
+      sprinkles one scoop on each foot
+    cluster: ritual
+  ali-ablution-ewer-and-basin-head-once:
+    label: 'Ali, having prayed, calls for a vessel and a basin to teach: hands, mouth and nose, face, each arm, each foot
+      thrice; head once'
+    cluster: ritual
+  beyond-three-is-wrong-and-unjust:
+    label: '''This is the ablution: whoever exceeds this or falls short has done wrong and been unjust'''
+    cluster: law
+  forefingers-inside-ears-thumbs-outside:
+    label: 'Wiping the ears: the two forefingers inside the ears, the thumbs over their backs'
+    cluster: ritual
+  head-wiped-without-moving-the-hair:
+    label: He wiped all the head from the hairline, every direction down the fall of the hair, without moving the hair from
+      its set
+    cluster: ritual
+  head-wiped-with-leftover-water-in-hand:
+    label: He wiped his head with the water left over in his hand
+    cluster: ritual
+  mouth-rinsed-after-the-forearms:
+    label: 'Miqdam''s description: hands, face, forearms thrice, then mouth and nose thrice, then head and ears'
+    cluster: ritual
+  scoop-poured-on-crown-till-it-drips:
+    label: Muʿawiya takes a scoop in his left hand and sets it on the middle of his head till it drips, then wipes front to
+      back and back to front
+    cluster: ritual
+  ablution-twice-twice:
+    label: He made ablution twice twice
+    cluster: ritual
+  ablution-thrice-thrice:
+    label: He made ablution thrice thrice
+    cluster: ritual
+  shows-sons-not-knowing-how-long-he-has-with-them:
+    label: 'Al-Baraʾ gathers his sons: ''I do not know how long I shall be with you''; shows the ablution, then leads the
+      prayers, verses of Yā Sīn heard at noon'
+    cluster: transmission
+  arms-drawn-out-from-under-tight-syrian-jubba:
+    label: His Syrian jubba too tight in the sleeves, he draws his arms out from under it to wash them
+    cluster: sira
+  wipes-forelock-turban-and-khuffs:
+    label: He wipes his forelock and over the turban and over the leather socks (khuffs)
+    cluster: ritual
+  prophet-prays-behind-abd-al-rahman:
+    label: Late from his need he finds Abd al-Rahman b. Awf leading the prayer, forbids interrupting him and completes the
+      missed rakʿa
+    cluster: sira
+  twenty-two-takbirs-in-noon-prayer:
+    label: 'Abu Malik shows the Prophet''s prayer: noon prayer with the Fatiha and twenty-two takbīrs'
+    cluster: ritual
+  do-not-begin-with-mouth-unbeliever-does:
+    label: '''Do not begin with your mouth, for the unbeliever begins with his mouth''; he washes his hands first'
+    cluster: ritual
+  ablution-of-one-not-in-hadath:
+    label: 'Ali wipes face, forearms, head and feet with one palmful and drinks the rest standing: ''this is the ablution
+      of one who has not broken purity'''
+    cluster: ritual
+  drinks-ablution-leftover-standing:
+    label: 'After ablution he drinks the leftover water standing: ''people dislike this, but I saw the Prophet do it'''
+    cluster: ritual
+  fingers-run-through-beard:
+    label: He used to run water through his beard (yukhallil liḥyatahu)
+    cluster: ritual
+  rubs-toes-with-little-finger:
+    label: Making ablution he rubbed between his toes with his little finger
+    cluster: ritual
+  between-fingers-and-toes:
+    label: '''When you make ablution, run water between the fingers of your hands and feet'''
+    cluster: ritual
+  satan-spends-night-on-nostril:
+    label: On waking, snuff water thrice, for Satan spends the night on his nostril (khayshūm)
+    cluster: demonology
+  snuff-twice-thoroughly-or-thrice:
+    label: '''Snuff out twice thoroughly, or three times'''
+    cluster: ritual
+  son-asks-for-white-palace-on-right-of-paradise:
+    label: 'A son prays for ''the white palace on the right of paradise''; the father: ask for paradise and refuge from the
+      fire'
+    cluster: ethics
+  people-who-transgress-in-purification-and-prayer:
+    label: '''There will be in this community people who transgress in purification and supplication'''
+    cluster: eschatology
+  woe-to-the-heels-from-the-fire:
+    label: '''Woe to the heels (aʿqāb, ʿarāqīb) from the fire!'' at heels left dry in ablution'
+    cluster: eschatology
+  soles-of-feet-with-heels-in-fire:
+    label: '''Woe to the heels and the soles of the feet from the fire'''
+    cluster: eschatology
+  dry-spot-of-a-nail-go-back:
+    label: 'A man leaves a spot the size of a nail dry on his foot: ''go back and make your ablution well'''
+    cluster: law
+  dry-patch-of-a-dirham-repeat-ablution-and-prayer:
+    label: A man prays with a dry patch the size of a dirham on his foot and is told to repeat ablution and prayer
+    cluster: law
+  three-things-special-to-the-prophets-house:
+    label: 'Ibn Abbas: he singled us out only in three: to complete ablution, not to eat alms, not to mount donkeys on mares'
+    cluster: law
+  angels-pray-for-one-awaiting-prayer:
+    label: 'The angels say over him who sits awaiting the next prayer: ''O God, forgive him, O God, have mercy on him'''
+    cluster: angels
+  sees-the-rows-from-behind-his-back:
+    label: '''Straighten the rows and close the gaps, for I see you from behind my back'''
+    cluster: miracle
+  women-lower-eyes-in-mens-prostration:
+    label: Best rows of men the front, of women the back; 'women, lower your eyes when the men prostrate, lest you see their
+      nakedness through tight wraps'
+    cluster: ritual
+  ablution-every-prayer-then-one-sufficing:
+    label: 'He made ablution at every prayer; the Companions: one ablution suffices us until we break it'
+    cluster: ritual
+  eight-gates-after-testimony-at-ablution:
+    label: Whoever completes ablution and says the testimony, the eight gates of paradise are opened for him to enter by whichever
+      he will
+    cluster: eschatology
+  two-rakas-with-heart-and-face-paradise-due:
+    label: 'Ablution done well then two rakʿas with heart and face turned to them: paradise is due'
+    cluster: theology
+  junub-makes-ablution-to-sleep-or-eat:
+    label: When in a state of major impurity (junub) and wanting to eat or sleep he made the ablution of prayer; 'wash your
+      penis, make ablution, then sleep'
+    cluster: law
+  leapt-and-poured-water-not-stood-and-bathed:
+    label: 'Aisha: at the first call he leapt up (''by God she did not say stood'') and poured water over himself (''by God
+      she did not say bathed'')'
+    cluster: transmission
+  ablution-between-two-intercourses:
+    label: Whoever comes to his wife and wants to return, let him make an ablution between
+    cluster: law
+  ablution-from-what-fire-touched:
+    label: '''Ablution from what the fire has touched'''
+    cluster: law
+  ablution-for-pieces-of-dried-curd:
+    label: Abu Hurayra makes ablution at the mosque for pieces of dried curd (athwār aqiṭ) he ate
+    cluster: law
+  ate-shoulder-prayed-without-ablution:
+    label: He ate a shoulder (or side) of mutton and prayed without making ablution
+    cluster: law
+  knife-thrown-down-at-the-call:
+    label: Cutting meat from a shoulder, called to prayer, he throws down the knife and prays without ablution
+    cluster: sira
+  last-of-two-commands-no-ablution-from-fire:
+    label: The last of the two commands from the Prophet was leaving ablution from what fire altered
+    cluster: law
+  moustache-trimmed-over-a-toothstick:
+    label: 'Bilal calls him from carving the roast: ''what is wrong with him, may his hands be dusty''; and my long moustache
+      he trimmed for me over a toothstick'
+    cluster: sira
+  milk-has-grease-rinse:
+    label: 'He drank milk, called for water and rinsed: ''it has grease (dasam)'''
+    cluster: ritual
+  drank-milk-without-rinsing:
+    label: He drank milk and did not rinse or make ablution, and prayed
+    cluster: ritual
+  companions-doze-waiting-and-pray-without-ablution:
+    label: He talked with a man till the people slept; they then prayed without ablution
+    cluster: law
+  none-on-earth-awaits-prayer-but-you:
+    label: 'Delaying the night prayer till they slept: ''none of the people of the earth awaits this prayer but you'''
+    cluster: ritual
+  slept-till-he-blew-then-prayed:
+    label: He slept until he breathed loudly (nafakha), then rose and prayed without ablution
+    cluster: law
+  boy-moved-from-left-to-right:
+    label: Ibn Abbas stands at his left in the night prayer and is turned round to his right
+    cluster: ritual
+  pours-water-on-head-in-faint:
+    label: Standing in the eclipse prayer till a faint covers her, Asmaʾ pours water over her head
+    cluster: ritual
+  shown-all-even-paradise-and-fire-in-this-place:
+    label: '''There is nothing I had not seen that I have not seen in this standing place of mine, even paradise and the fire'''
+    cluster: eschatology
+  tried-in-graves-like-the-dajjal:
+    label: '''You will be tried in your graves like, or close to, the trial of the Dajjal'''
+    cluster: eschatology
+  grave-question-about-this-man:
+    label: 'In the grave: ''what do you know of this man?'' The believer: ''Muhammad, God''s messenger''; ''sleep, righteous'';
+      the hypocrite: ''I heard people say something and said it'''
+    cluster: eschatology
+  touching-penis-requires-ablution:
+    label: '''When one of you touches his penis let him make ablution'''
+    cluster: law
+  hand-reaching-private-part-without-barrier:
+    label: '''When one of you lets his hand reach his private part with no cover or barrier between, let him make ablution'''
+    cluster: law
+  penis-only-a-piece-of-you:
+    label: 'Asked about a man touching his penis after ablution: ''is it anything but a lump (muḍgha, baḍʿa) of him?'''
+    cluster: law
+  messenger-sent-to-busra-confirms:
+    label: Urwa disputes with Marwan until he sends one of his guards to Busra, who sends back the same
+    cluster: transmission
+  not-to-leave-prayer-until-sound-or-smell:
+    label: One who imagines he feels something in prayer is not to leave until he hears a sound or finds a smell
+    cluster: law
+  satan-blows-in-the-seat:
+    label: Satan comes in prayer and blows in a man's seat so he imagines he broke wind; let him not leave until he hears
+      it with his ear or smells it with his nose
+    cluster: demonology
+  hadath-is-the-sound:
+    label: A man is in prayer while awaiting it in the mosque, until he breaks purity; 'what is the ḥadath?' 'a sound'
+    cluster: law
+  no-ablution-except-from-sound-or-wind:
+    label: '''No ablution except from a sound or wind'''
+    cluster: law
+  freedwoman-beaten-for-reporting-the-rule:
+    label: 'Abu Rafiʿ strikes Salma for telling him the Prophet ordered ablution after wind; the Prophet laughs: ''she ordered
+      you nothing but good'''
+    cluster: sira
+  vomited-broke-fast-water-poured:
+    label: 'He vomited and broke his fast; Thawban: ''I poured his ablution water for him'''
+    cluster: law
+  ashamed-to-ask-sends-miqdad:
+    label: Ali, a man of much pre-seminal fluid (madhy), is ashamed to ask because of the Prophet's daughter and sends al-Miqdad
+    cluster: sira
+  madhy-wash-penis-and-make-ablution:
+    label: 'For pre-seminal fluid: wash the penis (and testicles) and make the ablution of prayer; no full bath'
+    cluster: law
+  palmful-sprinkled-on-garment-for-madhy:
+    label: For madhy on the garment it suffices to take a palmful of water and sprinkle where he sees it struck
+    cluster: ritual
+  every-stallion-emits-madhy:
+    label: '''That is madhy, and every stallion emits madhy'''
+    cluster: law
+  arm-thrust-between-skin-and-flesh:
+    label: 'Passing a boy skinning a sheep: ''stand aside, I will show you''; he thrusts his hand between skin and flesh to
+      the armpit, then prays without ablution'
+    cluster: sira
+  no-ablution-after-the-bath:
+    label: He bathed and prayed the two rakʿas and the dawn prayer without a new ablution after the bath
+    cluster: law
+  returns-greeting-only-after-ablution:
+    label: 'Greeted while urinating, he does not answer till he has made ablution: ''I disliked to mention God except in purity'''
+    cluster: ritual
+  feet-entered-pure-wipe-over-socks:
+    label: '''Leave them, for I put them on pure'', and he wipes over the leather socks'
+    cluster: law
+  jarirs-islam-after-al-maida:
+    label: 'Jarir wipes his socks: ''I saw the Prophet do it''; they liked it because Jarir became Muslim after al-Māʾida
+      was revealed'
+    cluster: revelation
+  wipes-over-leather-socks:
+    label: He wiped over the leather socks (khuffs)
+    cluster: law
+  ask-no-one-after-sad:
+    label: 'Umar: when Saʿd tells you something from the Prophet ask no one else about it'
+    cluster: transmission
+  wipes-over-turban-and-socks:
+    label: He wiped over the socks and the head-cloth (khimār, turban)
+    cluster: law
+  let-the-water-touch-the-hair:
+    label: 'Asked about wiping over the turban: ''let the hair be touched by the water'''
+    cluster: law
+  turbans-and-foot-warmers-for-cold-troop:
+    label: A troop struck by cold is told to wipe over their turbans (ʿaṣāʾib) and foot-warmers (tasākhīn)
+    cluster: law
+  removes-socks-for-love-of-washing:
+    label: 'Abu Ayyub removes his socks: ''I saw him wipe over them, but washing is made dear to me'''
+    cluster: ritual
+  three-days-traveller-one-day-resident:
+    label: 'Wiping the socks: three days and nights for the traveller, a day and a night for the resident'
+    cluster: law
+  socks-kept-on-except-for-janaba:
+    label: Travellers keep their socks on three days except for major impurity, but not for stool, urine or sleep
+    cluster: law
+  ask-ali-he-travelled-with-him:
+    label: 'Asked about wiping the socks, Aisha: ''ask Ali, for he travelled with the Prophet'''
+    cluster: transmission
+  tabuk-command-to-wipe:
+    label: At the campaign of Tabuk he ordered wiping the socks three days for the traveller, a day and a night for the resident
+    cluster: law
+  wipes-over-socks-and-sandals:
+    label: He made ablution and wiped over the woollen socks (jawrabayn) and the sandals
+    cluster: law
+  four-practices-of-ibn-umar:
+    label: '''I saw you do four things none of your fellows does'', among them wearing hairless sibtī sandals'
+    cluster: sira
+  if-religion-were-by-opinion-underside:
+    label: '''Were religion by opinion, the underside of the sock would be worthier of wiping than its top'''
+    cluster: law
+  wipe-top-of-socks:
+    label: He wiped over the socks on their top
+    cluster: law
+units:
+- id: hadith-6-make-up-fast-not-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The menstruant makes up the fast, not the prayer
+  read:
+  - Jāmiʿ 6:985.1
+  tags:
+  - motif: menstruant-makes-up-fast-not-prayer
+    refs:
+    - Jāmiʿ 6:985.1
+    note: فنُؤمر بقضاء الصوم، ولا نؤمر بقضاء الصلاة
+  - motif: asked-are-you-a-haruri
+    refs:
+    - Jāmiʿ 6:985.1
+    note: 'أحرورية أنتِ؟ قلت: لست بحرورية، ولكني أسأل'
+- id: hadith-6-postpartum-forty-days
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The woman after childbirth sits forty days
+  read:
+  - Jāmiʿ 6:985.2
+  tags:
+  - motif: postpartum-woman-sits-forty-days
+    refs:
+    - Jāmiʿ 6:985.2
+    note: كانت النُّفساءُ تَجلِسُ على عهدِ رسول الله ﷺ أربعينَ يومًا
+  - motif: face-smeared-with-wars-against-blotches
+    refs:
+    - Jāmiʿ 6:985.2
+    note: فكنَّا نَطلي وُجوهَنا بالورس منَ الكَلَفِ
+  hints:
+  - Forty days after childbirth against Lev 12:2-4, where after a son she is unclean seven days and then 'sits' (tēšēb) thirty-three
+    days in the blood of purity, forty in all (eighty for a daughter, 12:5)
+- id: hadith-6-menstrual-blood-on-garment
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Washing menstrual blood from the garment
+  read:
+  - Jāmiʿ 6:986.1-987.2
+  tags:
+  - motif: menstrual-blood-pinched-sprinkled-prayed-in
+    refs:
+    - Jāmiʿ 6:986.1
+    note: لتَقرُصه، ثم لتَنضحه بماء، ثم لتُصَلِّي فيه
+  - motif: single-garment-blood-scraped-with-saliva-and-nail
+    refs:
+    - Jāmiʿ 6:987.1
+    note: 'ما كان لإحدانا إلَّا ثوب واحد تحيض فيه؛ فإذا أصابه شيءٌ من دم قالت بريقها: فقصعته بظفرها'
+  - motif: blood-scraped-with-rib-washed-with-lote
+    refs:
+    - Jāmiʿ 6:987.2
+    note: حُكِّيه بضِلَع واغسِليه بماء وسِدرٍ
+  hints:
+  - 'Saliva and a plant cleanser for a bloodstain against m. Niddah 9:6, the seven substances passed over a stain: tasteless
+    saliva, water of crushed beans, urine, natron, borit, cimolian earth and ashlag'
+- id: hadith-6-prayer-beside-the-menstruant
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Praying beside the menstruating wife
+  read:
+  - Jāmiʿ 6:988.1-988.2
+  tags:
+  - motif: prophets-garment-touches-menstruant-in-prostration
+    refs:
+    - Jāmiʿ 6:988.1
+    note: وهي مفترشة بحذاء مسجد رسول الله ﷺ وهو يصلي على خمرته، إذا سجد أصابني بعض ثوبه
+  - motif: one-wrap-over-praying-man-and-menstruant
+    refs:
+    - Jāmiʿ 6:988.2
+    note: وأنا إلى جنبه، وأنا حائضٌ، وعليَّ مِرطٌ، وعليه بعضه إلى جنبه
+  hints:
+  - The praying man's garment touching the menstruant against Lev 15:19-23, where whoever touches her or anything she lies
+    on is unclean until evening
+- id: hadith-6-garment-of-intercourse-and-coverlets
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Praying in the garment of intercourse; not in the wives' coverlets
+  read:
+  - Jāmiʿ 6:988.3-989.1
+  tags:
+  - motif: prays-in-garment-of-intercourse-unless-stained
+    refs:
+    - Jāmiʿ 6:988.3
+    note: 'هل كان النبي ﷺ يصلي في الثوب الذي يجامعها فيه؟ فقال: نعم، إذا لم ير فيه أذىً'
+  - motif: no-prayer-in-wives-coverlets
+    refs:
+    - Jāmiʿ 6:989.1
+    note: كان رسول الله ﷺ لا يصلي في شُعُرنا، أو في لُحفِنا
+  hints:
+  - The garment of intercourse prayed in unless stained, against Lev 15:17, where every garment with semen on it is washed
+    and unclean until evening
+- id: hadith-6-drinking-and-eating-with-the-menstruant
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Drinking from her place and eating with the menstruant
+  read:
+  - Jāmiʿ 6:989.2-990.1
+  tags:
+  - motif: drinks-and-bites-where-menstruant-put-her-mouth
+    refs:
+    - Jāmiʿ 6:989.2
+    note: كنت أشرب وأنا حائض، ثم أناولُه النبي ﷺ، فيضع فاه على موضع فيّ فيشربُ، وأتعرّقَ وأنا حائض
+  - motif: eat-with-the-menstruant
+    refs:
+    - Jāmiʿ 6:990.1
+    note: 'سألت النبي ﷺ عن مؤاكلة الحائض فقال: واكِلها'
+  hints:
+  - 'Eating and drinking from the menstruant''s place against the rabbinic separation of the niddah at table (t. Shabbat 1:14;
+    b. Shabbat 13a: ''the zav shall not eat with the zavah'')'
+- id: hadith-6-lying-with-the-menstruant
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Lying under one cover with the menstruant
+  read:
+  - Jāmiʿ 6:990.2-991.2
+  tags:
+  - motif: slips-away-at-menses-and-is-called-back-under-the-cover
+    refs:
+    - Jāmiʿ 6:990.2
+    note: 'فانسلَلتُ فأخذت ثياب حِيضتي، قال: أنُفِست؟ قلت: نعم، فدعاني فاضطجعت معه في الخَميلة'
+  - motif: lies-with-menstruant-cloth-between
+    refs:
+    - Jāmiʿ 6:990.3
+    note: يضطجع معي وأنا حائض، وبيني وبينه ثوب
+  - motif: only-the-spot-washed-not-beyond
+    refs:
+    - Jāmiʿ 6:991.1
+    note: نبيت في الشِّعار الواحد وأنا حائض طامث، فإن أصابه مني شيءٌ غسل مكانه، ولم يَعدُه، ثم صلَّى فيه
+  - motif: lies-with-menstruant-cloth-between
+    refs:
+    - Jāmiʿ 6:991.2
+    note: كنت أتزر وأنا حائض، ثم أدخل مع رسول الله ﷺ في لحافه
+  hints:
+  - Lying under one blanket with the menstruant against the tale in b. Shabbat 13a (Avot de-Rabbi Natan A 2) of the scholar
+    who died young because in her days 'he ate with me, drank with me and slept with me in bodily contact'
+- id: hadith-6-fondling-above-the-wrap
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Touching the menstruant above the waist-wrap
+  read:
+  - Jāmiʿ 6:991.3-992.2
+  quran:
+  - 2:222
+  tags:
+  - motif: fondles-menstruant-over-waist-wrap
+    refs:
+    - Jāmiʿ 6:991.3
+    - Jāmiʿ 6:991.4
+    note: أمرها أن تتّزر في فور حَيضتِها، ثم يُباشرها ... أمرها فاتَّزرت وهي حائض
+  - motif: who-controls-his-desire-as-he-did
+    refs:
+    - Jāmiʿ 6:991.3
+    note: وأيكم يملِكُ إربَه كما كان رسول الله ﷺ يملك إربَه
+  - motif: jews-isolate-the-menstruant
+    refs:
+    - Jāmiʿ 6:992.1
+    note: إذا حاضت المرأةُ فيهم لم يؤاكِلُوها ولم يُجامِعوهنّ في البيوت ... اصنعوا كل شيء إلا النكاح
+  - motif: jews-angered-he-leaves-nothing-undifferent
+    refs:
+    - Jāmiʿ 6:992.1
+    note: ما يريد هذا الرجل أن يَدَعَ من أمرنا شيئًا إلَّا خالَفَنا فيه
+  - motif: companions-ask-to-have-intercourse-to-differ-from-jews
+    refs:
+    - Jāmiʿ 6:992.1
+    note: أفلا نُجامِعهنَّ؟ فتَغيَّر وجهُ رسول الله ﷺ ... فأرسل في آثارهما فسقاهما
+  - motif: cloth-laid-over-menstruants-private-part
+    refs:
+    - Jāmiʿ 6:992.2
+    note: كان إذا أراد من الحائض شيئًا ألقي على فرجها ثوبًا
+  hints:
+  - The Jews not sharing the house with the menstruant against m. Niddah 7:4, which knows 'houses of uncleanness' (bēt ha-ṭumʾot)
+    set apart for menstruants
+  - '''Everything except intercourse'' against Ezek 18:6 and Lev 18:19, where approaching a niddah is forbidden, and the rabbinic
+    fence against any intimacy in her days (b. Shabbat 13a)'
+- id: hadith-6-combing-in-retreat
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The menstruant combs his hair through the door of the mosque
+  read:
+  - Jāmiʿ 6:993.1
+  tags:
+  - motif: menstruant-combs-hair-of-man-in-retreat
+    refs:
+    - Jāmiʿ 6:993.1
+    note: يُدني لها رأسَه وهي في حُجرتِها، فترجِّلُه وهي حائض
+- id: hadith-6-menstruation-not-in-the-hand
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Your menstruation is not in your hand'''
+  read:
+  - Jāmiʿ 6:993.2-994.1
+  tags:
+  - motif: your-menstruation-is-not-in-your-hand
+    refs:
+    - Jāmiʿ 6:993.2
+    - Jāmiʿ 6:994.1
+    note: 'ناوليني الخُمرةَ من المسجد. قالت قلت: إنِّي حائض، قال: إن حَيضتَكِ ليست في يدك'
+  hints:
+  - The menstruant's hand not carrying her state against Lev 15:19-21, where her touch conveys uncleanness to persons and
+    objects
+- id: hadith-6-menstruant-anus-soothsayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Going to the menstruant, the anus, or the soothsayer
+  read:
+  - Jāmiʿ 6:995.1
+  tags:
+  - motif: intercourse-during-menstruation-forbidden
+    refs:
+    - Jāmiʿ 6:995.1
+    note: من أتى حائضًا
+  - motif: menstruant-anus-soothsayer-disbelief
+    refs:
+    - Jāmiʿ 6:995.1
+    note: من أتى حائضًا أو امرأةٌ في دبرها، أو كاهنًا، فقد كفر بما أنزل على محمد
+  hints:
+  - Lying with a menstruant ranked with the gravest sins, against Lev 20:18 (both cut off) and Ezek 18:6 (among the marks
+    of the wicked)
+- id: hadith-6-yellow-and-turbid
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Yellow and turbid discharge not counted
+  read:
+  - Jāmiʿ 6:996.1
+  tags:
+  - motif: yellow-and-turbid-not-counted
+    refs:
+    - Jāmiʿ 6:996.1
+    note: كنّا لا نَعُدّ الكدرة والصفرةَ شيئًا
+  hints:
+  - Yellowish discharge not counted against m. Niddah 2:6-7, where five colours of blood are unclean, including 'like bright
+    crocus'
+- id: hadith-6-prolonged-bleeding-a-vein
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prolonged bleeding is a vein, not menstruation
+  read:
+  - Jāmiʿ 6:997.1-999.1
+  tags:
+  - motif: prolonged-bleeding-a-vein-not-menstruation
+    refs:
+    - Jāmiʿ 6:997.1
+    - Jāmiʿ 6:998.1
+    note: إنَّما ذلك عرق، وليست بالحَيضة؛ فإذا أقبلت الحَيضةُ فاتُركِي الصلاة، فإذا ذهب قدرُها فاغسِلي عن الدم وصلِّي
+  - motif: count-the-days-of-the-former-cycle
+    refs:
+    - Jāmiʿ 6:997.2
+    - Jāmiʿ 6:999.1
+    note: لتنظر إلى عددِ الليالي والأيام التي كانت تحيضُهُنّ من الشَّهر قبل أن يُصِيبَها الذي أصابها؛ فلتتركِ الصلاةَ قدرَ
+      ذلك
+  - motif: bind-a-cloth-and-pray
+    refs:
+    - Jāmiʿ 6:997.2
+    note: فإذا خلَّفت ذلك فلتغتَسِل، ثم لتستنفر بثوب، ثم لتصلي
+  - motif: bathes-in-tub-till-red-rises-over-water
+    refs:
+    - Jāmiʿ 6:998.1
+    note: أُستحيضت سبع سنين ... فكانت تغتسل في مِركن في حجرة أختها زينب بنت جحش حتَّى تعلُو حمرةُ الدمِ الماءَ
+  - motif: wept-because-she-could-not-pray
+    refs:
+    - Jāmiʿ 6:998.1
+    note: يرحم الله هندًا! ... إن كانت لتبكي لأنها كانت لا تصلي
+  hints:
+  - The woman bleeding beyond her days counted by her former cycle, then praying, against Lev 15:25-30, where the zavah is
+    unclean all the days of the flow, counts seven clean days and brings two birds
+- id: hadith-6-bleeding-woman-bathing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The bleeding woman bathes for every prayer or combines
+  read:
+  - Jāmiʿ 6:1000.1-1001.2
+  tags:
+  - motif: bleeding-woman-bathes-for-every-prayer
+    refs:
+    - Jāmiʿ 6:1000.1
+    note: أن رسول الله ﷺ أمرها أن تغتسل عند كل صلاة وتصلي
+  - motif: prolonged-bleeding-is-from-satan
+    refs:
+    - Jāmiʿ 6:1001.1
+    note: سبحان الله! إن هذا من الشيطان
+  - motif: three-baths-a-day-after-yellow-on-water
+    refs:
+    - Jāmiʿ 6:1001.1
+    note: لتجلس في مِركن، فإذا رأت صفرةً فوق الماء فلتغتسل للظهر والعصر غسلًا واحدًا، وتغتسل للمغرب والعشاء غُسلًا واحدًا،
+      وتغتسل للفجر
+  - motif: bleeding-is-a-kick-of-satan
+    refs:
+    - Jāmiʿ 6:1001.2
+    note: إنَّما هذه رَكْضةٌ من رَكضاتِ الشيطان
+  - motif: menstruate-six-or-seven-days-in-gods-knowledge
+    refs:
+    - Jāmiʿ 6:1001.2
+    note: فتحيَّضي سِتّة أيام أو سبعة في علم الله ... فصَلِّي ثلاثًا وعشرين ليلة، أو أربعًا وعشرين ليلة
+  - motif: cotton-cloth-then-gushing
+    refs:
+    - Jāmiʿ 6:1001.2
+    note: أنْعَتُ لكِ الكُرْسُفَ ... اتّخذِي ثوبًا ... إنَّما أثجُّ ثجًّا
+  - motif: two-commands-either-suffices
+    refs:
+    - Jāmiʿ 6:1001.2
+    note: سآمرك بأمرين أيَّهما فعلتِ أجزأ عنك من الآخر ... وهذا أعجبُ الأمرين إليّ
+  hints:
+  - Six or seven days of menstruation against Lev 15:19, 'seven days she shall be in her impurity'
+- id: hadith-6-black-blood-and-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Black blood is known; ablution for every prayer
+  read:
+  - Jāmiʿ 6:1003.1-1004.1
+  tags:
+  - motif: prolonged-bleeding-a-vein-not-menstruation
+    refs:
+    - Jāmiʿ 6:1003.1
+    note: إنَّما ذلك عِرقٌ، وليستْ بالحيضة
+  - motif: ablution-for-every-prayer-of-bleeding-woman
+    refs:
+    - Jāmiʿ 6:1003.1
+    note: ثمَّ توضَّئي لكلِّ صلاةٍ حتَّى يجيء ذلك الوقت
+  - motif: menstrual-blood-black-and-known
+    refs:
+    - Jāmiʿ 6:1004.1
+    note: إذا كان دمُ الحيضة - فإنه دم أسود يُعرف - فإذا كان ذلك فأمْسكي عن الصلاة، فإذا كان الآخر فتوضّئِي وصَلِّي
+  hints:
+  - Menstrual blood known by being black against m. Niddah 2:6, where black is one of the five unclean colours ('like ink')
+- id: hadith-7-deeds-by-intentions
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Deeds by intentions
+  read:
+  - Jāmiʿ 7:1006.1
+  quran:
+  - '98:5'
+  tags:
+  - motif: deeds-judged-by-intention
+    refs:
+    - Jāmiʿ 7:1006.1
+    note: إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى
+  - motif: emigration-for-world-or-woman
+    refs:
+    - Jāmiʿ 7:1006.1
+    note: ومن كانت هجرته لدنيا يُصيبها، أو امرأةٍ يتزوجها فهجرته إلى ما هاجر إليه
+- id: hadith-7-ablution-in-gods-name
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution in God's name; water from his fingers
+  read:
+  - Jāmiʿ 7:1006.2
+  tags:
+  - motif: ablution-in-gods-name-from-fingers
+    refs:
+    - Jāmiʿ 7:1006.2
+    note: 'فوضع يده في الماء ويقول: توضئوا باسم الله ... كم تراهم؟ قال: نحوًا من سبعين'
+  - motif: water-flows-from-between-fingers
+    refs:
+    - Jāmiʿ 7:1006.2
+    note: فرأيت الماء يخرج من بين أصابعه حتَّى توضئوا من عند آخرهم
+- id: hadith-7-no-prayer-without-purity
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No prayer without purification
+  read:
+  - Jāmiʿ 7:1008.1-1010.1
+  quran:
+  - '5:6'
+  tags:
+  - motif: no-prayer-accepted-after-hadath-till-ablution
+    refs:
+    - Jāmiʿ 7:1008.1
+    note: لا تُقبل صلاةُ أحدكم إذا أحدث حتَّى يتوضأ
+  - motif: no-prayer-without-purity-no-alms-from-theft
+    refs:
+    - Jāmiʿ 7:1008.2
+    - Jāmiʿ 7:1009.1
+    - Jāmiʿ 7:1009.2
+    - Jāmiʿ 7:1010.1
+    note: لا يقبل الله صلاة بغير طهور ولا صدقة من غُلول
+  - motif: ablution-only-when-rising-to-pray
+    refs:
+    - Jāmiʿ 7:1008.3
+    note: 'فأتى الخلاءَ، ثم إنه رجع فأُتِيَ بطعام. فقلت: يا رسول الله! ألا تتوضأ؟ فقال: لِمَ؟ أَأُصَلِّي فأتوضأ؟'
+  hints:
+  - Asked to wash before eating after the privy, 'am I going to pray?', against the washing of hands before bread (netilat
+    yadayim), Mark 7:2-5 and b. Hullin 105a-106a
+- id: hadith-7-key-of-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The key of prayer
+  read:
+  - Jāmiʿ 7:1010.2
+  tags:
+  - motif: key-of-prayer-purity-takbir-taslim
+    refs:
+    - Jāmiʿ 7:1010.2
+    note: مفتاح الصلاة الطُهور، وتحريمها التكبير، وتحليلها التسليم
+- id: hadith-7-sins-leave-with-the-water
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sins leave with the water of ablution
+  read:
+  - Jāmiʿ 7:1011.1-1011.2
+  tags:
+  - motif: sins-leave-each-limb-with-last-drop
+    refs:
+    - Jāmiʿ 7:1011.1
+    note: خرجت من وجهه كلُّ خطيئةٍ نظر إليها بعينيه مع الماء، (أو مع آخر قطر الماء) ... كلُّ خطيئةٍ بطشتها يداه ... كلُّ خطيئةٍ
+      مشتها رجلاه
+  - motif: sins-exit-from-under-the-nails
+    refs:
+    - Jāmiʿ 7:1011.2
+    note: خرجَتْ خطاياه من جسدِه، حتَّى تخرج من تحت أَظْفاره
+  hints:
+  - Sin carried off by the washing water against Ps 51:4,9 ('wash me thoroughly from my iniquity... wash me and I shall be
+    whiter than snow') and Ezek 36:25
+- id: hadith-7-uthmans-ablution-and-forgiveness
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Uthman's ablution and the forgiveness of the intervals
+  read:
+  - Jāmiʿ 7:1011.3-1012.3
+  tags:
+  - motif: ablution-like-mine-forgives-past
+    refs:
+    - Jāmiʿ 7:1011.3
+    - Jāmiʿ 7:1012.3
+    note: من توضأ هكذا غُفر له ما تقدم من ذنبه، وكانت صلاته ومشيه إلى المسجد نافلة ... لا يَنْهَزُه إلَّا الصلاة
+  - motif: obligatory-prayer-expiates-unless-major-sin-always
+    refs:
+    - Jāmiʿ 7:1012.1
+    note: إلَّا كانت كفارةً لما قبلها من الذنوب، ما لم يُؤت كبيرةً، وذلك الدهرُ كله
+  - motif: hesitates-whether-to-tell-or-keep-silent
+    refs:
+    - Jāmiʿ 7:1012.2
+    note: لا أدري أُحدِّثكم بشيء أو أسكت
+  - motif: ablution-and-prayer-forgive-intervals
+    refs:
+    - Jāmiʿ 7:1012.2
+    note: فيصلي هذه الصلوات الخمس، إلَّا كانت كفارات لما بينها
+- id: hadith-7-purity-half-of-faith
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Purity is half of faith
+  read:
+  - Jāmiʿ 7:1012.4
+  tags:
+  - motif: purity-half-of-faith-praise-fills-the-scale
+    refs:
+    - Jāmiʿ 7:1012.4
+    note: الطهور شطر الإيمان، والحمد لله تملأُ الميزان
+  - motif: each-goes-out-selling-himself-freeing-or-ruining
+    refs:
+    - Jāmiʿ 7:1012.4
+    note: والصلاة نور، والصدقة برهان، والصبر ضياء ... كل الناس يغدو فبايع نفسه فمُعْتِقها أو موبقها
+- id: hadith-7-amr-ibn-abasa
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Amr b. Abasa: the times of prayer and the sins of the limbs'
+  read:
+  - Jāmiʿ 7:1014.1
+  tags:
+  - motif: sent-with-kinship-and-breaking-idols
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: 'أرسلني بصلة الأرحام وكسر الأوثان وأن يُوحَّد الله ... قال: حرّ وعبد'
+  - motif: sun-rises-between-satans-horns-unbelievers-bow
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: فإنها تطلع حين تطلع بين قرنَي شيطان، وحينئذٍ يسجد لها الكفار
+  - motif: hell-stoked-at-noon
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: حتَّى يستقل الظلُّ بالرُّمْح، ثم أَقْصِر عن الصلاة، فإنَّ حينئذ تُسجَرُ جهنم
+  - motif: prayer-witnessed-and-attended
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: فإنَّ الصلاة مشهودة محضورة
+  - motif: sins-fall-from-mouth-nostrils-beard-fingers-hair
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: إلَّا خرَّت خطايا وجهه وفِيه وخَياشيمه ... من أطراف لِحيته ... من أنامله ... من أطراف شعره
+  - motif: returns-from-sin-as-on-day-mother-bore-him
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: وفرَّغ قلبه لله، إلَّا انصرف من خطيئته كهيئته يوم ولدته أمه
+  - motif: heard-it-seven-times-and-more
+    refs:
+    - Jāmiʿ 7:1014.1
+    note: لو لم أسمعه من رسول الله ﷺ إلَّا مرة أو مرتين أو ثلاثًا - حتَّى عدَّ سبع مرات - ما حدَّثت به أبدًا
+  hints:
+  - Unbelievers prostrating to the rising sun against Ezek 8:16 (men with backs to the temple bowing eastward to the sun)
+    and m. Sukkah 5:4 ('our fathers ... bowed eastward to the sun, but we, our eyes are to Yah')
+- id: hadith-7-walking-out-purified
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Walking out purified: the pilgrim''s reward'
+  read:
+  - Jāmiʿ 7:1015.1
+  tags:
+  - motif: walk-to-prayer-purified-like-pilgrim-in-ihram
+    refs:
+    - Jāmiʿ 7:1015.1
+    note: من خرج من بيته مُتطهِّرًا إلى صلاةٍ مكتوبةٍ فأجره كأجر الحاج المُحرِم ... كتابٌ في عِلِّيِّين
+- id: hadith-7-ablution-expiates
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution expiates; the prayer becomes extra
+  read:
+  - Jāmiʿ 7:1015.2
+  tags:
+  - motif: ablution-expiates-prayer-becomes-extra
+    refs:
+    - Jāmiʿ 7:1015.2
+    note: الوضوء يُكفِّر ما قبله، ثم تصير الصلاة نافلة ... غير مرة، ولا مرتين، ولا ثلاث، ولا أربع، ولا خمس
+- id: hadith-7-knots-of-the-night
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The knots untied in the night ablution
+  read:
+  - Jāmiʿ 7:1016.1
+  tags:
+  - motif: knots-untied-limb-by-limb-in-night-ablution
+    refs:
+    - Jāmiʿ 7:1016.1
+    note: 'يُعالج نفسه إلى الطهور، وعليه عُقَد ... فإذا وضَّأ يديه انحلتْ عقدةٌ ... فيقول الله للذين وراء الحجاب: انظروا إلى
+      عبدي هذا'
+- id: hadith-7-bilals-sandals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Bilal's sandals heard in paradise
+  read:
+  - Jāmiʿ 7:1018.1
+  tags:
+  - motif: footsteps-of-bilal-heard-in-paradise
+    refs:
+    - Jāmiʿ 7:1018.1
+    note: فاني سمعتُ دفَّ نعليك بين يديَّ في الجنة
+  - motif: prays-after-every-purification
+    refs:
+    - Jāmiʿ 7:1018.1
+    note: أنِّي لم أتطهر طُهورًا في ساعة ليل أو نهارٍ إلَّا صلَّيتُ بذلك الطهور ما كُتِب لي أن أصَلِي
+- id: hadith-7-uthman-and-the-verse
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Uthman's hadith and the verse behind it
+  read:
+  - Jāmiʿ 7:1018.2
+  quran:
+  - 11:114
+  - 2:159
+  tags:
+  - motif: would-not-tell-but-for-a-verse
+    refs:
+    - Jāmiʿ 7:1018.2
+    note: والله! لأحدِّثنكم حديثًا لولا أنه في كتاب الله ما حدَّثتكموه
+  - motif: ablution-and-prayer-forgive-intervals
+    refs:
+    - Jāmiʿ 7:1018.2
+    note: إلَّا غفر له ما بينه وبين الصلاة الأُخرى حتَّى يُصليها
+- id: hadith-7-river-at-the-door
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The five prayers as a river at the door
+  read:
+  - Jāmiʿ 7:1018.3-1019.3
+  tags:
+  - motif: five-prayers-like-river-at-the-door
+    refs:
+    - Jāmiʿ 7:1018.3
+    - Jāmiʿ 7:1019.1
+    - Jāmiʿ 7:1019.2
+    - Jāmiʿ 7:1019.3
+    note: أرأيتم لو أن نهرًا بباب أحدكم يغتسل فيه كل يوم خمسًا، ما تقول ذلك، يُبقي من دَرَنه؟
+  - motif: later-dying-brother-raised-by-his-prayers
+    refs:
+    - Jāmiʿ 7:1019.3
+    note: فتوفي الذي هو أفضلهما، ثم عُمِّر الآخر بعده أربعين ليلة ... ما يدريكم ماذا بلغت به صلاتُه
+  hints:
+  - 'Bathing in a river a fixed number of times to be clean: five times daily against Naaman dipping seven times in the Jordan,
+    2 Kgs 5:10,14'
+- id: hadith-7-sin-then-two-rakas
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A sin, ablution, two rakʿas and forgiveness
+  read:
+  - Jāmiʿ 7:1021.1-1022.1
+  tags:
+  - motif: sin-then-ablution-two-rakas-forgiven
+    refs:
+    - Jāmiʿ 7:1021.1
+    note: ما من رجل يُذنب ذنبًا فيتوضأ، فيُحسن الوضوء، ثم يصلي ركعتين، ويستغفر الله إلَّا غفر الله له
+  - motif: ali-made-narrators-swear
+    refs:
+    - Jāmiʿ 7:1021.1
+    note: وإذا حدثني عنه غيري استحلفته، فإذا حلف لي صدقته، وإن أبا بكر حدّثني - وصدق أبو بكر
+  - motif: two-rakas-without-distraction-forgives-past
+    refs:
+    - Jāmiʿ 7:1022.1
+    note: ثم صلَّى ركعتين لا يسهو فيهما، غُفِر له ما تقدم من ذنبه
+- id: hadith-7-guarding-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Only a believer guards ablution
+  read:
+  - Jāmiʿ 7:1022.2
+  tags:
+  - motif: only-a-believer-guards-ablution
+    refs:
+    - Jāmiʿ 7:1022.2
+    note: سدِّدوا وقارِبوا واعملوا، وخير أعمالكم الصلاة، ولا يحافظ على الوضوء إلَّا مؤمن
+- id: hadith-7-white-blazes
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The white blazes of ablution and the basin
+  read:
+  - Jāmiʿ 7:1023.1-1026.1
+  tags:
+  - motif: community-known-by-white-blazes-of-ablution
+    refs:
+    - Jāmiʿ 7:1023.1
+    - Jāmiʿ 7:1025.2
+    - Jāmiʿ 7:1026.1
+    note: إن أمتي يدعَوْن يوم القيامة غُرًّا مُحَجَّلين من آثار الوضوء
+  - motif: lengthen-the-blaze
+    refs:
+    - Jāmiʿ 7:1023.1
+    note: فمن استطاع منكم أن يطيل غُرّته فليفعل
+  - motif: ornament-reaches-where-ablution-reaches
+    refs:
+    - Jāmiʿ 7:1024.1
+    note: فكان يمدّ يده حتَّى تبلغ إبْطَه ... يا بَني فَرُّوخَ! ... تبلغُ الحِليةُ من المؤمن حيث يبلغ الوضوء
+  - motif: greeting-the-abode-of-believing-dead
+    refs:
+    - Jāmiʿ 7:1025.1
+    note: السلام عليكم دارَ قومِ مؤمنين، وإنا إن شاء الله بكم لاحِقون
+  - motif: brothers-yet-to-come-known-by-white-blaze-of-ablution
+    refs:
+    - Jāmiʿ 7:1025.1
+    note: وددتُ أنِّي قد رأيتُ إخواننا ... وإخوانُنا الذين لم يأتوا بعدُ
+  - motif: own-horses-known-by-blazes-among-black-ones
+    refs:
+    - Jāmiʿ 7:1025.1
+    note: لو كان لرَجلٍ خَيلٌ غُرٌّ محَجَّلةٌ في خيلٍ دُهْمٍ بُهْمٍ، ألَّا يعرف خيلَه؟
+  - motif: men-driven-from-the-basin-like-stray-camels
+    refs:
+    - Jāmiʿ 7:1025.1
+    note: 'فَلَيُذادَنَّ رِجال عن حَوضي، كما يُذادُ البعيرُ الضالُّ ... إنهم قد بدّلوا بعدَك، فأقول: فسُحْقًا'
+  - motif: basin-wider-than-ayla-to-aden
+    refs:
+    - Jāmiʿ 7:1025.2
+    note: إن حوضي لأبعدُ من أيلة من عَدَن ... كما يذود الرجلُ الإبلَ الغريبة من حوضه ... ليست لأحدٍ غيركم
+  - motif: blaze-from-prostration-stockings-from-ablution
+    refs:
+    - Jāmiʿ 7:1025.3
+    note: أُمّتي يوم القيامة غُرٌّ من السجود، محجّلون من الوضوء
+  - motif: piebald-from-ablution
+    refs:
+    - Jāmiʿ 7:1026.1
+    note: غرٌّ محجَّلون بُلْقٌ من آثار الوضوء
+  hints:
+  - A mark on the forehead that tells his own at the judgment against Ezek 9:4-6, the taw marked on the foreheads of those
+    who sigh, who are spared
+- id: hadith-7-beginning-with-the-right
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Beginning with the right
+  read:
+  - Jāmiʿ 7:1027.1-1027.2
+  tags:
+  - motif: right-first-in-sandal-comb-purification
+    refs:
+    - Jāmiʿ 7:1027.1
+    note: كان النبي ﷺ يعجبه التيمن في تنعله وترجّله وطهوره، وفي شأنه كله
+  - motif: begin-with-right-in-dress-and-ablution
+    refs:
+    - Jāmiʿ 7:1027.2
+    note: إذا لبستم، وإذا توضأتم فابدأوا بأيامنكم
+  hints:
+  - 'The right first in putting on sandals against b. Shabbat 61a: ''when one puts on his shoes he puts on the right first,
+    then the left'''
+- id: hadith-7-abdallah-b-zayd-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abdallah b. Zayd shows the Prophet's ablution
+  read:
+  - Jāmiʿ 7:1027.3
+  tags:
+  - motif: head-wiped-front-to-nape-and-back
+    refs:
+    - Jāmiʿ 7:1027.3
+    note: فغسل يديه مرتين مرتين، ثم تمضمض واستنثر ثلاثًا ... بدأ بمُقدَّم رأسه ثم ذهب بهما إلى قفاه ثم ردّهما حتَّى رجع إلى
+      المكان الذي بدأ منه
+- id: hadith-7-ibn-abbas-one-scoop
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ibn Abbas: one scoop for each limb'
+  read:
+  - Jāmiʿ 7:1028.1
+  tags:
+  - motif: one-scoop-per-limb
+    refs:
+    - Jāmiʿ 7:1028.1
+    note: أخذ غَرفة من ماء فمضمض بها واستنشق ... أضافها إلى يده الأُخرى فغسل بهما وجهه ... فرشّ على رِجله اليُمنى حتَّى غسلها
+- id: hadith-7-uthman-thrice-and-two-rakas
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Uthman's ablution thrice and two rakʿas without self-talk
+  read:
+  - Jāmiʿ 7:1030.1
+  tags:
+  - motif: ablution-thrice-thrice
+    refs:
+    - Jāmiʿ 7:1030.1
+    note: فأفرغ على كفيه ثلاث مرات ... ثم غسل وجهه ثلاثًا، ويديه إلى المرفقين ثلاث مِرار ... ثم غسل رجليه ثلاث مِرار إلى الكعبين
+  - motif: two-rakas-without-distraction-forgives-past
+    refs:
+    - Jāmiʿ 7:1030.1
+    note: ثم صلَّى ركعتين لا يحدّثُ فيهما نفسَه، غُفِر له ما تقدم من ذنبه
+- id: hadith-7-ali-teaches-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ali teaches the ablution with ewer and basin
+  read:
+  - Jāmiʿ 7:1031.1
+  tags:
+  - motif: ali-ablution-ewer-and-basin-head-once
+    refs:
+    - Jāmiʿ 7:1031.1
+    note: فأُتي بإناءٍ فيه ماءٌ وطستٍ ... ثم جعل يده في الإناء فمسح برأسه مرة واحدة ... من سرّه أن يعلم وضوء رسول الله ﷺ فهو
+      هذا
+- id: hadith-7-beyond-three
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whoever exceeds three has done wrong
+  read:
+  - Jāmiʿ 7:1033.1
+  tags:
+  - motif: forefingers-inside-ears-thumbs-outside
+    refs:
+    - Jāmiʿ 7:1033.1
+    note: فأدخل إصبَعَيه السباحتين في أذنيه، ومسح بإبهاميه على ظاهر أذنيه
+  - motif: beyond-three-is-wrong-and-unjust
+    refs:
+    - Jāmiʿ 7:1033.1
+    note: هكذا الوضوء؛ فمن زاد على هذا أو نقص فقد أساء وظلم
+- id: hadith-7-wiping-the-head
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: How the head and ears were wiped
+  read:
+  - Jāmiʿ 7:1034.1-1037.1
+  tags:
+  - motif: head-wiped-front-to-nape-and-back
+    refs:
+    - Jāmiʿ 7:1034.1
+    note: فمسح رأسه، ومسح ما أقبل وما أدبر، وصُدغيه، وأذنيه مرّة واحدة
+  - motif: head-wiped-without-moving-the-hair
+    refs:
+    - Jāmiʿ 7:1035.1
+    note: فمسح الرأس كله من قرن الشعر كل ناحية المنصب الشَّعر، لا يحرك الشَّعر عن هيئته
+  - motif: head-wiped-with-leftover-water-in-hand
+    refs:
+    - Jāmiʿ 7:1035.2
+    note: مسح برأسه من فضل ماء كان في يده
+  - motif: mouth-rinsed-after-the-forearms
+    refs:
+    - Jāmiʿ 7:1036.1
+    note: ثم غسل ذراعيه ثلاثًا ثلاثًا، ثم تمضمض واستنشق ثلاثًا، ثم مسح برأسه وأذنيه ظاهرهما وباطنهما
+  - motif: scoop-poured-on-crown-till-it-drips
+    refs:
+    - Jāmiʿ 7:1037.1
+    note: غرَف غَرفةً من ماء فتلقاها بشماله حتَّى وضعها على وسط رأسه، حتَّى قطر الماءُ
+- id: hadith-7-twice-and-thrice
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Twice twice, thrice thrice
+  read:
+  - Jāmiʿ 7:1037.2
+  tags:
+  - motif: ablution-twice-twice
+    refs:
+    - Jāmiʿ 7:1037.2
+    note: إن رسول الله ﷺ توضأ مرتين مرتين
+- id: hadith-7-bara-shows-his-sons
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Al-Baraʾ shows his sons the ablution and prayer
+  read:
+  - Jāmiʿ 7:1038.1
+  tags:
+  - motif: shows-sons-not-knowing-how-long-he-has-with-them
+    refs:
+    - Jāmiʿ 7:1038.1
+    note: اجتمعوا فَلِأُريكم كيف كان رسولُ الله ﷺ يتوضأ؟ وكيف كان يُصلّي؟ فاني لا أدري ما قَدْرُ صُحبتي إياكم ... آيات من
+      يس
+- id: hadith-7-mughira-on-the-journey
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Al-Mughira pours water on the journey; prayer behind Abd al-Rahman
+  read:
+  - Jāmiʿ 7:1038.2
+  tags:
+  - motif: arms-drawn-out-from-under-tight-syrian-jubba
+    refs:
+    - Jāmiʿ 7:1038.2
+    note: وعليه جُبّةٌ شاميّة ضيقةُ الكُمَّين، فضاقت، فأخرج يَدَيْه من تحتها إخراجًا
+  - motif: wipes-forelock-turban-and-khuffs
+    refs:
+    - Jāmiʿ 7:1038.2
+    note: ثم مسحَ بناصيته، ومسح على العِمامة، ومسح على الخفين
+  - motif: prophet-prays-behind-abd-al-rahman
+    refs:
+    - Jāmiʿ 7:1038.2
+    note: فتقدَّمهم عبد الرحمن بن عوف، وقد صلَّى بهم ركعةً ... فذهبتُ أُوذِنُه، فنهاني
+- id: hadith-7-abu-malik-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Malik's ablution and twenty-two takbirs
+  read:
+  - Jāmiʿ 7:1039.1
+  tags:
+  - motif: twenty-two-takbirs-in-noon-prayer
+    refs:
+    - Jāmiʿ 7:1039.1
+    note: فدعا بجفْنةٍ من ماء ... فصلَّى الظهر فقرأ فيها بفاتحة الكتاب، وكبَّر ثنتين وعشرينِ تكبيرةً
+- id: hadith-7-thrice-thrice
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution thrice thrice
+  read:
+  - Jāmiʿ 7:1040.1-1040.2
+  tags:
+  - motif: ablution-thrice-thrice
+    refs:
+    - Jāmiʿ 7:1040.1
+    - Jāmiʿ 7:1040.2
+    note: فمضمض ثلاثًا، واستنشق ثلاثًا، وغسل وجهه ثلاثًا ... توضأ ثلاثًا ثلاثًا
+- id: hadith-7-not-with-the-mouth-first
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Do not begin with the mouth
+  read:
+  - Jāmiʿ 7:1041.1
+  tags:
+  - motif: do-not-begin-with-mouth-unbeliever-does
+    refs:
+    - Jāmiʿ 7:1041.1
+    note: 'توضأ يا أبا جبير! فبدأ بفيه، فقال له رسولُ الله ﷺ: لا تبدأ بفيك، فإنَّ الكافر يبدأ بفيه'
+- id: hadith-7-ablution-without-hadath
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The ablution of one who has not broken purity
+  read:
+  - Jāmiʿ 7:1043.1
+  tags:
+  - motif: ablution-of-one-not-in-hadath
+    refs:
+    - Jāmiʿ 7:1043.1
+    note: فأخذ منه كفًا فمسح به وجهه وذراعيه، ورأسه ورجليه ... وهذا وضوء من لم يُحدث
+  - motif: drinks-ablution-leftover-standing
+    refs:
+    - Jāmiʿ 7:1043.1
+    note: 'ثم أخذ فضله فشرب قائمًا، وقال: إن الناس يكرهون هذا'
+- id: hadith-7-running-water-through-beard
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Running water through the beard
+  read:
+  - Jāmiʿ 7:1045.1-1045.2
+  tags:
+  - motif: fingers-run-through-beard
+    refs:
+    - Jāmiʿ 7:1045.1
+    - Jāmiʿ 7:1045.2
+    note: كان إذا توضأ خلَّل لحيته بالماء
+- id: hadith-7-between-the-fingers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Between the fingers and toes
+  read:
+  - Jāmiʿ 7:1047.1-1048.1
+  tags:
+  - motif: ablution-thorough-between-fingers-snuffing-unless-fasting
+    refs:
+    - Jāmiʿ 7:1047.1
+    note: أسبغ الوضوء، وخلِّل بين الأصابع، وبالغ في الاستنشاق إلَّا أن تكون صائمًا
+  - motif: rubs-toes-with-little-finger
+    refs:
+    - Jāmiʿ 7:1047.2
+    note: إذا توضأ يدلك أصابع رجليه بخنصره
+  - motif: between-fingers-and-toes
+    refs:
+    - Jāmiʿ 7:1048.1
+    note: إذا توضأت فخلِّل بين أصابع يديك ورجليك
+- id: hadith-7-satan-on-the-nostril
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Satan spends the night on the nostril
+  read:
+  - Jāmiʿ 7:1049.1-1049.2
+  tags:
+  - motif: satan-spends-night-on-nostril
+    refs:
+    - Jāmiʿ 7:1049.1
+    note: إذا استيقظ أحدكم من منامه فتوضأ فلينتثر ثلاثًا، فإنَّ الشيطان يبيت على خيشومه
+  - motif: snuff-twice-thoroughly-or-thrice
+    refs:
+    - Jāmiʿ 7:1049.2
+    note: استنثِروا مرتين بالِغَتين أو ثلاثًا
+  hints:
+  - An evil spirit lodging on the sleeper that morning washing removes, against the rabbinic spirit of uncleanness (ruaḥ raʿah)
+    resting on the hands after sleep, washed off three times, b. Shabbat 108b-109a
+- id: hadith-7-transgressing-in-purification
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Transgressing in purification and supplication
+  read:
+  - Jāmiʿ 7:1049.3
+  tags:
+  - motif: son-asks-for-white-palace-on-right-of-paradise
+    refs:
+    - Jāmiʿ 7:1049.3
+    note: 'اللَّهم إنِّي أسألك القصر الأبيض عن يمين الجنة إذا دخلتها، فقال: أي بني! سل الله الجنة'
+  - motif: people-who-transgress-in-purification-and-prayer
+    refs:
+    - Jāmiʿ 7:1049.3
+    note: إنه سيكون في هذه الأمة قوم يعتدون في الطُّهور والدعاء
+- id: hadith-7-woe-to-the-heels
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Woe to the heels from the fire
+  read:
+  - Jāmiʿ 7:1050.1-1054.1
+  tags:
+  - motif: woe-to-the-heels-from-the-fire
+    refs:
+    - Jāmiʿ 7:1050.1
+    - Jāmiʿ 7:1050.3
+    - Jāmiʿ 7:1051.1
+    - Jāmiʿ 7:1052.1
+    note: ويلٌ للأعقاب من النار ... ويلٌ للعراقيب من النار
+  - motif: soles-of-feet-with-heels-in-fire
+    refs:
+    - Jāmiʿ 7:1051.2
+    note: ويلٌ للأعقاب وبُطونِ الأَقدامِ من النار
+  - motif: dry-spot-of-a-nail-go-back
+    refs:
+    - Jāmiʿ 7:1050.2
+    - Jāmiʿ 7:1052.3
+    note: 'توضّأ فترك موضع ظُفْر على قدمه، فأبصره النبي ﷺ فقال: ارجع! فأحسن وضوءك'
+  - motif: dry-patch-of-a-dirham-repeat-ablution-and-prayer
+    refs:
+    - Jāmiʿ 7:1053.1
+    note: وفي ظهر قدمه لمعة قدر الدرهم لم يصبها الماءُ، فأمره النبي ﷺ أن يعيد الوضوء والصلاة
+  - motif: three-things-special-to-the-prophets-house
+    refs:
+    - Jāmiʿ 7:1052.2
+    note: ما خصَّنا رسول الله ﷺ بشيء دون الناس، إلَّا ثلاثة أشياء؛ فإنه أمرنا أن نُسبغ الوضوء، ولا نأكل الصدقة، ولا نُنْزي
+      الحمرَ على الخيل
+  hints:
+  - Not mounting donkeys on mares (breeding mules) against Lev 19:19, 'you shall not let your cattle breed with a different
+    kind'
+  - A patch left dry invalidating the washing against the rabbinic ḥaṣiṣah (an intervening substance) that invalidates immersion
+    if water does not reach every part, m. Mikvaot 9:1-4
+- id: hadith-7-ablution-in-hardship
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ablution in hardship, steps and waiting: the ribat'
+  read:
+  - Jāmiʿ 7:1055.1-1055.3
+  tags:
+  - motif: ablution-in-hardship-steps-waiting-is-ribat
+    refs:
+    - Jāmiʿ 7:1055.1
+    - Jāmiʿ 7:1055.2
+    - Jāmiʿ 7:1055.3
+    note: إسباغ الوضوء على المكاره، وكثرة الخُطا إلى المساجد، وانتظار الصلاة، فذلكم الرباط
+  - motif: angels-pray-for-one-awaiting-prayer
+    refs:
+    - Jāmiʿ 7:1055.3
+    note: 'ثم يجلس في المجلس ينتظر الصلاة الأُخرى، إن الملائكة تقول: اللَّهم! اغفر له، اللهم! ارحمه'
+  - motif: sees-the-rows-from-behind-his-back
+    refs:
+    - Jāmiʿ 7:1055.3
+    note: فاعدلوا صفوفكم، وأقيموها، وسُدّوا الفُرَج؛ فإني أراكم من وراءِ ظهري
+  - motif: women-lower-eyes-in-mens-prostration
+    refs:
+    - Jāmiʿ 7:1055.3
+    note: يا معشر النساء! إذا سجد الرجال فاغْضُضْنَ أبصاركُنَّ؛ لا ترين عورات الرجال من ضيق الأزُر
+  hints:
+  - Nakedness exposed by bowing worshippers against Exod 20:26, no steps to the altar 'that your nakedness be not exposed
+    on it', and the linen breeches of Exod 28:42
+- id: hadith-7-ablution-at-every-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution at every prayer
+  read:
+  - Jāmiʿ 7:1056.1
+  tags:
+  - motif: ablution-every-prayer-then-one-sufficing
+    refs:
+    - Jāmiʿ 7:1056.1
+    note: كان النبي ﷺ يتوضأ عند كل صلاة ... يجزئ أحدَنا الوضوء ما لم يُحدثْ
+- id: hadith-7-several-prayers-one-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Several prayers with one ablution
+  read:
+  - Jāmiʿ 7:1057.1-1057.2
+  tags:
+  - motif: rinse-mouth-after-food-no-ablution
+    refs:
+    - Jāmiʿ 7:1057.1
+    note: فلم يؤت إلَّا بالسويق، فأكلنا وشربنا، ثم قام النبي ﷺ إلى المغرب، فمضمض، ثم صلَّى المغرب ولم يتوضأ
+  - motif: all-prayers-with-one-ablution-on-purpose
+    refs:
+    - Jāmiʿ 7:1057.2
+    note: صلَّى الصلوات يوم الفتح بوضوء واحد، ومسح على خفيه ... عمدًا صنعتُه يا عمر
+- id: hadith-7-testimony-after-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The testimony after ablution and the eight gates
+  read:
+  - Jāmiʿ 7:1057.3
+  tags:
+  - motif: two-rakas-with-heart-and-face-paradise-due
+    refs:
+    - Jāmiʿ 7:1057.3
+    note: ثم يقوم فيصلي ركعتين مقبل عليهما بقلبه ووجهه إلَّا وجبتْ له الجنة
+  - motif: eight-gates-after-testimony-at-ablution
+    refs:
+    - Jāmiʿ 7:1057.3
+    note: 'ثم يقول: أشهد أن لا إله إلا الله وأن محمدًا عبده ورسوله، إلَّا فتحت له أبواب الجنة الثمانية يدخل من أيها شاء'
+- id: hadith-7-junub-before-sleep
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution of the junub before sleep, food and return
+  read:
+  - Jāmiʿ 7:1059.1-1061.1
+  tags:
+  - motif: junub-makes-ablution-to-sleep-or-eat
+    refs:
+    - Jāmiʿ 7:1059.1
+    - Jāmiʿ 7:1060.1
+    - Jāmiʿ 7:1060.2
+    note: إذا كان جُنبًا فأراد أن يأكل أو ينام، توضأ وضوءه للصلاة ... توضأ واغسل ذكرك، ثُمَّ نَمْ
+  - motif: leapt-and-poured-water-not-stood-and-bathed
+    refs:
+    - Jāmiʿ 7:1060.3
+    note: 'قالت: وَثَب (ولا والله! ما قالت: قام) فأفاض عليه الماء، (ولا والله! ما قالت: اغتسل، وأنا أعلم ما تريد)'
+  - motif: ablution-between-two-intercourses
+    refs:
+    - Jāmiʿ 7:1061.1
+    note: إذا أتى أحدكم أهلَه، ثم بدا له أن يُعاود فليتوضّأ بينهما وضوءًا
+  hints:
+  - The man after emission sleeping after only an ablution against Lev 15:16-18 and Deut 23:11-12, where he bathes in water
+    and is unclean until evening
+- id: hadith-7-camel-meat
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution from camel meat, not mutton
+  read:
+  - Jāmiʿ 7:1062.1-1062.2
+  tags:
+  - motif: ablution-after-camel-meat-not-mutton
+    refs:
+    - Jāmiʿ 7:1062.1
+    - Jāmiʿ 7:1062.2
+    note: 'أأتوضأ من لحوم الغنم؟ قال: إن شئت ... أتوضأ من لحم الإبل؟ قال: نعم فتوضأ من لحوم الإبل'
+  - motif: no-prayer-in-camel-pens-pray-in-sheepfolds
+    refs:
+    - Jāmiʿ 7:1062.1
+    - Jāmiʿ 7:1062.2
+    note: لا تصلوا في مبارك الإبل؛ فإنها من الشياطين ... صلوا فيها؛ فإنها بركة
+  hints:
+  - The camel singled out from the sheep against Lev 11:4 and Deut 14:7, where the camel alone of the cud-chewers named is
+    unclean to eat
+- id: hadith-7-what-fire-touched
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ablution from what fire has touched
+  read:
+  - Jāmiʿ 7:1062.3-1063.2
+  tags:
+  - motif: ablution-from-what-fire-touched
+    refs:
+    - Jāmiʿ 7:1062.3
+    - Jāmiʿ 7:1062.4
+    - Jāmiʿ 7:1063.1
+    - Jāmiʿ 7:1063.2
+    note: الوضوء مما مَسَّتِ النار ... توضأوا مما أنضجت النار
+  - motif: ablution-for-pieces-of-dried-curd
+    refs:
+    - Jāmiʿ 7:1062.4
+    note: إنما أتوضّأ من أثوار أقطٍ أكلتها
+- id: hadith-7-fire-touched-left
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Leaving ablution from what fire touched
+  read:
+  - Jāmiʿ 7:1064.1-1065.3
+  tags:
+  - motif: rinse-mouth-after-food-no-ablution
+    refs:
+    - Jāmiʿ 7:1064.1
+    note: فلم يُؤتَ إلَّا بالسويق، فأمر به فثُرِّي ... ثم قام إلى المغرب فمضمض ومضمضنا، ثم صلَّى ولم يتوضأ
+  - motif: ate-shoulder-prayed-without-ablution
+    refs:
+    - Jāmiʿ 7:1064.2
+    - Jāmiʿ 7:1064.4
+    - Jāmiʿ 7:1064.5
+    - Jāmiʿ 7:1065.1
+    - Jāmiʿ 7:1065.2
+    note: أكل كتف شاة، وصلَّى ولم يتوضأ ... كنت أشوي لرسول الله ﷺ بطن شاة
+  - motif: knife-thrown-down-at-the-call
+    refs:
+    - Jāmiʿ 7:1064.3
+    note: يحتزّ من كَتِف شاةٍ، فدُعي إلى الصلاة، فألقي السكين، فصلى ولم يتوضأ
+  - motif: last-of-two-commands-no-ablution-from-fire
+    refs:
+    - Jāmiʿ 7:1065.3
+    note: كان آخر الأمرين من رسول الله ﷺ ترك الوضوء مما غَيَّرتِ النار
+- id: hadith-7-roast-and-shoulder
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The roast side, the shoulder and the meal in the suffa
+  read:
+  - Jāmiʿ 7:1066.1-1068.1
+  tags:
+  - motif: knife-thrown-down-at-the-call
+    refs:
+    - Jāmiʿ 7:1066.1
+    note: 'وأخذ الشفرة فجعل يحز لي بها منه، قال: فجاء بلال فآذنه بالصلاة، قال: فألقي الشفرة'
+  - motif: moustache-trimmed-over-a-toothstick
+    refs:
+    - Jāmiʿ 7:1066.1
+    note: ما له! تربت يداه! ... وكان شاربي وفَى فقصَّه لي على سواك
+  - motif: ate-shoulder-prayed-without-ablution
+    refs:
+    - Jāmiʿ 7:1066.2
+    - Jāmiʿ 7:1067.1
+    - Jāmiʿ 7:1068.1
+    note: أكل كَتِفًا، فجاءه بلال، فخرج إلى الصلاة، ولم يَمَسّ ماءً ... فأكلنا، ثم أقيمتِ الصلاةُ، فصلينا ولم نتوضأ
+- id: hadith-7-rinsing-after-milk
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Rinsing after milk
+  read:
+  - Jāmiʿ 7:1068.2-1068.3
+  tags:
+  - motif: milk-has-grease-rinse
+    refs:
+    - Jāmiʿ 7:1068.2
+    note: 'شرب لبنًا، ثم دعا بماء فمضمض وقال: إنَّ له دَسَمًا'
+  - motif: drank-milk-without-rinsing
+    refs:
+    - Jāmiʿ 7:1068.3
+    note: شرب لبنًا فلم يُمضمض، ولم يتوضأ وصلى
+  hints:
+  - Rinsing the mouth after milk for its fat against the rabbinic rinsing (qinuaḥ, hadaḥa) of the mouth between milk and meat,
+    b. Hullin 105a
+- id: hadith-7-sleep-not-hadath
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sleep is not itself a breach of purity
+  read:
+  - Jāmiʿ 7:1069.1-1071.3
+  quran:
+  - 37:102
+  tags:
+  - motif: companions-doze-waiting-and-pray-without-ablution
+    refs:
+    - Jāmiʿ 7:1069.1
+    note: يناجي رجلًا في جانب المسجد، فما قام إلى الصلاة حتَّى نام القوم
+  - motif: none-on-earth-awaits-prayer-but-you
+    refs:
+    - Jāmiʿ 7:1070.1
+    - Jāmiʿ 7:1070.2
+    note: ليس أحد من أهل الأرض ينتظر الصلاة غيركم ... نام النساء والصبيانُ
+  - motif: boy-moved-from-left-to-right
+    refs:
+    - Jāmiʿ 7:1071.1
+    note: فقمت عن يساره ... فحوَّلني فجعلني عن يمينه
+  - motif: slept-till-he-blew-then-prayed
+    refs:
+    - Jāmiʿ 7:1071.1
+    - Jāmiʿ 7:1071.2
+    - Jāmiʿ 7:1071.3
+    note: ثم اضطجع فنام حتَّى نَفَخَ، ثم أتاه المنادي فآذنه بالصلاة، فقام معه إلى الصلاة، فصلَّى ولم يتوضّأ
+  - motif: prophets-eyes-sleep-hearts-do-not
+    refs:
+    - Jāmiʿ 7:1071.1
+    note: إن رسول الله ﷺ تنامُ عينُه ولا ينام قلبه
+  - motif: prophets-dreams-are-revelation
+    refs:
+    - Jāmiʿ 7:1071.1
+    note: 'رؤيا الأنبياء وحي، ثم قرأ: إِنِّي أَرَى فِي الْمَنَامِ أَنِّي أَذْبَحُكَ'
+  hints:
+  - '''His eye sleeps and his heart does not'' against Song 5:2, ''I sleep but my heart is awake'' (ʾănî yəšēnâ wə-libbî ʿēr)'
+- id: hadith-7-eclipse-faint-and-grave
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The eclipse prayer, the faint and the trial of the grave
+  read:
+  - Jāmiʿ 7:1072.1
+  tags:
+  - motif: pours-water-on-head-in-faint
+    refs:
+    - Jāmiʿ 7:1072.1
+    note: فقمتُ حتَّى تجلاني الغَشي، وجعلت أصُبّ فوق رأسي ماءً
+  - motif: shown-all-even-paradise-and-fire-in-this-place
+    refs:
+    - Jāmiʿ 7:1072.1
+    note: ما من شيء كنتُ لم أرَه إلَّا قد رأيتُه في مقامي هذا، حتى الجنة والنار
+  - motif: tried-in-graves-like-the-dajjal
+    refs:
+    - Jāmiʿ 7:1072.1
+    note: ولقد أُوحي إلي أنكم تُفتنون في القبور مثلَ أو قريبًا من فتنة الدَّجال
+  - motif: grave-question-about-this-man
+    refs:
+    - Jāmiʿ 7:1072.1
+    note: 'ما علمُك بهذا الرجل؟ ... فيقال له: نَمْ صالحًا ... لا أدري، سمعتُ الناس يقولون شيئًا فقلته'
+- id: hadith-7-touching-the-penis
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Touching the penis: ablution or not'
+  read:
+  - Jāmiʿ 7:1073.1-1074.2
+  tags:
+  - motif: touching-penis-requires-ablution
+    refs:
+    - Jāmiʿ 7:1073.1
+    note: إذا مسّ أحدُكم ذكرَه فليتوضَّأ
+  - motif: messenger-sent-to-busra-confirms
+    refs:
+    - Jāmiʿ 7:1073.1
+    note: 'فقال عروة: ما علمتُ هذا، فقال مروانُ بن الحكم: أخْبَرتْني بُسْرةُ بنتُ صفوان'
+  - motif: hand-reaching-private-part-without-barrier
+    refs:
+    - Jāmiʿ 7:1074.1
+    note: إذا أفضى أحدكم بيده إلى فرجه، وليس بينهما ستر ولا حجاب فليتوضّأ
+  - motif: penis-only-a-piece-of-you
+    refs:
+    - Jāmiʿ 7:1074.2
+    note: 'ما ترى في مسّ الرجل ذكره بعدما يتوضأ؟ فقال: وهل هو إلَّا مُضْغة منه؟ ! أو قال: بَضعة منه'
+  hints:
+  - 'The hand on the member as a matter of law against m. Niddah 2:1, ''every hand that often examines: in women praiseworthy,
+    in men let it be cut off'''
+- id: hadith-7-doubt-of-hadath
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Doubt of a breach: till he hears a sound or smells'
+  read:
+  - Jāmiʿ 7:1075.1-1076.1
+  tags:
+  - motif: not-to-leave-prayer-until-sound-or-smell
+    refs:
+    - Jāmiʿ 7:1075.1
+    - Jāmiʿ 7:1075.2
+    - Jāmiʿ 7:1076.1
+    note: لا ينصرفُ حتَّى يسمع صوتًا أو يجد ريحًا
+  - motif: satan-blows-in-the-seat
+    refs:
+    - Jāmiʿ 7:1076.1
+    note: يأتي أحدكم الشيطان في صلاته حتَّى ينفخ في مقعدته، فيُخيل إليه أنه قد أحدث ولم يُحدِث
+- id: hadith-7-wind-and-sound
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The sound and wind break ablution
+  read:
+  - Jāmiʿ 7:1076.2-1077.1
+  tags:
+  - motif: hadath-is-the-sound
+    refs:
+    - Jāmiʿ 7:1076.2
+    note: 'لا يزال العبدُ في صلاة ما كان في المسجد ينتظر الصلاة ما لم يُحدِث ... ما الحدث يا أبا هريرة؟ قال: الصوت'
+  - motif: no-ablution-except-from-sound-or-wind
+    refs:
+    - Jāmiʿ 7:1076.3
+    note: لا وضوء إلَّا من صوت أو ريح
+  - motif: freedwoman-beaten-for-reporting-the-rule
+    refs:
+    - Jāmiʿ 7:1077.1
+    note: 'إذا خرج من أحدهم الريح أن يتوضأ، فقام وضربني، فجعل رسول الله ﷺ يضحك ويقول: يا أبا رافع! إنها لم تأمرك إلَّا بخير'
+- id: hadith-7-vomit
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Vomiting, breaking the fast and ablution
+  read:
+  - Jāmiʿ 7:1077.2
+  tags:
+  - motif: vomited-broke-fast-water-poured
+    refs:
+    - Jāmiʿ 7:1077.2
+    note: إن رسول الله ﷺ قاء فأفطر ... صدق، وأنا صببت له وَضوءه
+- id: hadith-7-madhy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Pre-seminal fluid: washing and ablution'
+  read:
+  - Jāmiʿ 7:1080.1-1081.2
+  tags:
+  - motif: ashamed-to-ask-sends-miqdad
+    refs:
+    - Jāmiʿ 7:1080.1
+    note: كنت رجلًا مذّاءً، وكنت أستحيي أن أسأل النبي ﷺ لمكان ابنته، فأمر المقداد بن الأسود فسأله
+  - motif: madhy-wash-penis-and-make-ablution
+    refs:
+    - Jāmiʿ 7:1080.1
+    - Jāmiʿ 7:1081.1
+    - Jāmiʿ 7:1081.2
+    note: يغسل ذكره، ويتوضأ ... إنما يجزيك من ذلك الوضوء ... فتَغْسِلُ من ذلك فرجَك وأُنثَييك، وتَوَضَّأ وضوءَك للصلاة
+  - motif: palmful-sprinkled-on-garment-for-madhy
+    refs:
+    - Jāmiʿ 7:1081.1
+    note: يكفيك بأن تأخذ كفًّا من ماءٍ، فتنضح بها من ثوبك حيث ترى أنه أصابه
+  - motif: every-stallion-emits-madhy
+    refs:
+    - Jāmiʿ 7:1081.2
+    note: ذاك المَذي، وكل فَحْل بَمذي
+  hints:
+  - A man's non-seminal discharge requiring only washing and ablution against Lev 15:2-12, where the zav's flow makes him
+    and what he touches unclean seven days
+- id: hadith-7-raw-meat
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Skinning the sheep without ablution after
+  read:
+  - Jāmiʿ 7:1084.1
+  tags:
+  - motif: arm-thrust-between-skin-and-flesh
+    refs:
+    - Jāmiʿ 7:1084.1
+    note: تنحّ حتَّى أُرّيك، فأدخل يده بين الجلد واللحم، فدحس بها حتَّى توارت إلى الإبط، ثم مضى، فصلَّى ولم يتوضّأ
+- id: hadith-7-no-ablution-after-bath
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No ablution after the bath
+  read:
+  - Jāmiʿ 7:1084.2
+  tags:
+  - motif: no-ablution-after-the-bath
+    refs:
+    - Jāmiʿ 7:1084.2
+    note: كان رسول الله ﷺ يغتسل ويصلي الركعتين وصلاة الغداة، ولا أراه يُحدِث وضوءًا بعد الغسل
+- id: hadith-7-food-after-privy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Food after the privy without ablution
+  read:
+  - Jāmiʿ 7:1085.1
+  tags:
+  - motif: ablution-only-when-rising-to-pray
+    refs:
+    - Jāmiʿ 7:1085.1
+    note: 'خرج من الخلاء، فأتي بطعام، فذكروا له الوضوء، فقال: أريد أن أصلي فأتوضأ؟ ... ما أردتُ صلاة فأتوضَّأ'
+  hints:
+  - '''I do not intend to pray, that I should wash'' against the washing of hands before bread, Mark 7:2-5 and b. Hullin 105a-106a'
+- id: hadith-7-greeting-after-ablution
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Returning the greeting only after ablution
+  read:
+  - Jāmiʿ 7:1085.2
+  tags:
+  - motif: returns-greeting-only-after-ablution
+    refs:
+    - Jāmiʿ 7:1085.2
+    note: وهو يبول، فسلم عليه، فلم يرد ﵇ حتَّى توضأ ... إنِّي كرهت أن أذكر الله ﷿ إلا على طُهر
+  hints:
+  - Not returning 'peace' while unclean because God is named, against b. Shabbat 10a, where one may not greet 'shalom' in
+    the bathhouse because Shalom is a name of God (Judg 6:24)
+- id: hadith-7-wiping-the-socks-1
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Wiping the leather socks
+  read:
+  - Jāmiʿ 7:1085.3-1088.2
+  quran:
+  - '5:6'
+  tags:
+  - motif: feet-entered-pure-wipe-over-socks
+    refs:
+    - Jāmiʿ 7:1085.3
+    note: 'ثم أهويتُ لأنزع خفيه، فقال: دعهما، فإني أدخلتهما طاهرتين، فمسح عليهما'
+  - motif: arms-drawn-out-from-under-tight-syrian-jubba
+    refs:
+    - Jāmiʿ 7:1085.3
+    note: وعليه جبّة من صوف، فلم يستطعْ أن يخرج ذراعيه منها، حتى أخرجهما من أسفل الجبة
+  - motif: jarirs-islam-after-al-maida
+    refs:
+    - Jāmiʿ 7:1087.1
+    note: كان يعجبهم هذا الحديث؛ لأن إسلام جرير كان بعد نزول المائدة
+  - motif: wipes-over-leather-socks
+    refs:
+    - Jāmiʿ 7:1087.1
+    - Jāmiʿ 7:1087.2
+    - Jāmiʿ 7:1087.3
+    - Jāmiʿ 7:1088.2
+    note: رأيت رسول الله ﷺ يمسح على الخفين
+  - motif: ask-no-one-after-sad
+    refs:
+    - Jāmiʿ 7:1087.3
+    note: إذا حدثك سعد عن النبي ﷺ شيئًا فلا تسأل عنه غيره
+  - motif: wipes-over-turban-and-socks
+    refs:
+    - Jāmiʿ 7:1088.1
+    note: أن رسول الله ﷺ مسح على الخفين والخمار
+  - motif: all-prayers-with-one-ablution-on-purpose
+    refs:
+    - Jāmiʿ 7:1088.2
+    note: صلَّى الصلوات يوم الفتح بوضوء واحد ... عمدًا صنعته يا عمر
+- id: hadith-7-wiping-the-socks-2
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Wiping the socks and the turban
+  read:
+  - Jāmiʿ 7:1089.1-1091.2
+  tags:
+  - motif: let-the-water-touch-the-hair
+    refs:
+    - Jāmiʿ 7:1089.1
+    note: 'سألت جابر بن عبد الله عن المسح على الخفين، فقال: السنة يا ابن أخي! ... وسألته عن المسح على العمامة، فقال: أمِسَّ
+      الشعرَ الماءَ'
+  - motif: wipes-over-leather-socks
+    refs:
+    - Jāmiʿ 7:1089.2
+    note: كان رسول الله ﷺ يمسح عليهما
+  - motif: turbans-and-foot-warmers-for-cold-troop
+    refs:
+    - Jāmiʿ 7:1090.1
+    note: بعث رسول الله ﷺ سرية، فأصابهم البرد ... أمرهم أن يمسحوا على العصائب والتَّساخين
+  - motif: wipes-over-turban-and-socks
+    refs:
+    - Jāmiʿ 7:1090.2
+    - Jāmiʿ 7:1091.1
+    note: فمسح على الخفين والخمار ... يمسح على الموقين والخمار
+  - motif: removes-socks-for-love-of-washing
+    refs:
+    - Jāmiʿ 7:1091.2
+    note: أما إنِّي قد رأيت رسول الله ﷺ يمسح عليهما، ولكن حبّب إليّ الوضوء
+- id: hadith-7-time-limit-of-wiping
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Three days for the traveller, one for the resident
+  read:
+  - Jāmiʿ 7:1092.1-1095.2
+  tags:
+  - motif: ask-ali-he-travelled-with-him
+    refs:
+    - Jāmiʿ 7:1092.1
+    note: عليك بابن أبي طالب فَسَلْه؛ فإنه كان يسافر مع رسول الله
+  - motif: three-days-traveller-one-day-resident
+    refs:
+    - Jāmiʿ 7:1092.1
+    - Jāmiʿ 7:1093.1
+    - Jāmiʿ 7:1094.1
+    - Jāmiʿ 7:1095.1
+    - Jāmiʿ 7:1095.2
+    note: جعل رسول الله ﷺ ثلاثةَ أيَّامِ ولياليهنَّ للمسافر، ويومًا وليلةً للمقيم
+  - motif: socks-kept-on-except-for-janaba
+    refs:
+    - Jāmiʿ 7:1092.2
+    note: أن لا ننزع خفافنا ثلاثةَ أيَّامٍ ولياليهن إلَّا من جنابة، لكن من غائط وبول ونوم
+  - motif: tabuk-command-to-wipe
+    refs:
+    - Jāmiʿ 7:1095.2
+    note: أمر بالمسح على الخفين في غزة تبوك ثلاثة أيام ولياليهن للمسافر
+- id: hadith-7-socks-and-sandals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Woollen socks, sandals, turbans and foot-warmers
+  read:
+  - Jāmiʿ 7:1097.1-1098.1
+  tags:
+  - motif: wipes-over-socks-and-sandals
+    refs:
+    - Jāmiʿ 7:1097.1
+    note: توضأ، ومسح على الجوربين والنعلين
+  - motif: turbans-and-foot-warmers-for-cold-troop
+    refs:
+    - Jāmiʿ 7:1098.1
+    note: أمرهم أن يمسحوا على العصائب والتّساخين
+- id: hadith-7-sibti-sandals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ibn Umar''s four practices: the hairless sandals'
+  read:
+  - Jāmiʿ 7:1099.1
+  tags:
+  - motif: four-practices-of-ibn-umar
+    refs:
+    - Jāmiʿ 7:1099.1
+    note: رأيتك تصنع أربعًا لم أر أحدًا من أصحابك يصنعها
+  - motif: hairless-sibti-sandals-worn-for-ablution
+    refs:
+    - Jāmiʿ 7:1099.1
+    note: رأيت رسول الله ﷺ يلبس النعال التي ليس فيها شعرٌ، ويتوضَّأ فيها
+- id: hadith-7-top-of-the-sock
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Wiping the top of the sock
+  read:
+  - Jāmiʿ 7:1101.1-1101.2
+  tags:
+  - motif: if-religion-were-by-opinion-underside
+    refs:
+    - Jāmiʿ 7:1101.1
+    note: لو كان الدين بالرأي لكان أسفل الخفّ أولى بالمسح من أعلاه
+  - motif: wipe-top-of-socks
+    refs:
+    - Jāmiʿ 7:1101.1
+    - Jāmiʿ 7:1101.2
+    note: يمسح على ظاهر خُفَّيهِ ... يمسح على الخفين، على ظاهرهما
