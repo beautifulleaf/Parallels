@@ -220,8 +220,6 @@ units:
     tags:
       - {motif: king-as-good-shepherd-sheep-multiply, refs: ["SAA 03 032 o:27"], note: "fragmentary: rēʾû nišī rabbâti 'shepherd of the numerous people'"}
       - {motif: prince-incubates-dream-of-netherworld-queen, refs: ["SAA 03 032 o:27-31"], note: "Kummaya māru ... ana Ekurri īrumma 'Kummaya entered the temple'; nignakku burāši iškun 'he set up a censer of juniper'; ana arādi arallî 'to go down to the netherworld'; Allatu Allatu bēltu qaqqari ... arallî"}
-      - {motif: guilt-for-unknowing-sin, refs: ["SAA 03 032 o:29"], note: "interpretive: pî ilāni uqallil u libbi ili ušezziz 'he belittled the word of the gods and angered the god's heart' (the earlier king or the prince)"}
-      - {motif: scribal-colophon, refs: ["SAA 03 032 o:17"], note: "a scribe's son (ana māri ṭupšarri) appears already in the badly broken prologue"}
     hints:
       - "The prologue (largely lost) contrasts a pious king and his negligent son; compare 2 Kgs 21 (Hezekiah and Manasseh) and Ps 78:5-8."
   - id: ane-saa03-032-o-dream-ereshkigal
@@ -301,7 +299,7 @@ units:
       - {motif: god-goes-before-king-in-battle-aid, refs: ["SAA 03 017 o:25", "SAA 03 017 o:29"], note: "Aššur utakkilanni 'Aššur made me trust'; Nergal ina pānika lillik Girra ... 'may Nergal go before you, Girra ...'"}
       - {motif: enemies-flee-to-mountains-and-forests, refs: ["SAA 03 017 r:11-13"], note: "melammē ša bēl kibrāti itūqut ina muhhišunu ēzibū ālānišunu ina šadê u qišāti ētarbū"}
       - {motif: royal-image-set-up-on-mountain-and-sea, refs: ["SAA 03 017 r:22"], note: "ṣalmāni kiššūtiya ina šadê u tâmte ukīn"}
-      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 03 017 o:13"], note: "loosely: malkū ša Hatti ina šēpēya ušakniš 'I made the princes of Hatti bow at my feet'"}
+      - {motif: enemies-placed-under-kings-feet, refs: ["SAA 03 017 o:13"], note: "malkū ša Hatti ina šēpēya ušakniš 'I made the princes of Hatti bow at my feet'"}
       - {motif: enemy-fields-and-orchards-made-wilderness, refs: ["SAA 03 017 r:19-21"], note: "dadmēšu ina libbi išāti assarap ... iṣē nizmat āl šarrūtišu ina libbi išāti assarap 'I burned his villages ... the trees, the delight of his royal city, I burned'"}
       - {motif: king-rules-by-cult-duties, refs: ["SAA 03 017 r:26-31"], note: "the king returns and enters before Ištar for the festival of the Lady of Arbela at Milqia, kills a lion, prays"}
     hints:
@@ -323,7 +321,6 @@ units:
       - {motif: sufferer-at-gate-of-death, refs: ["SAA 03 012 r:10-11"], note: "aktalda ana abul mūti Nabû ammīni tumašširanni lā tumaššaranni bēlī"}
       - {motif: do-not-shame-me-in-assembly-of-gloaters, refs: ["SAA 03 012 r:11-13"], note: "ana puhri ša haddânūa mādu ... lā tubâšanni ina puhri"}
       - {motif: gods-breath-revives-dead, refs: ["SAA 03 012 r:5", "SAA 03 012 r:19"], note: "alê šārka ṭābu 'where is your sweet breath?'; ina šārika mītu libluṭ 'by your breath may the dead live'"}
-      - {motif: theodicy-the-lord-is-righteous, refs: ["SAA 03 012 r:14"], note: "contrast: nāṣir kitti anāku 'I am a keeper of truth; do not let the truth I kept be lost'"}
     hints:
       - "Compare Job 30:9-26 and Ps 88:4-7 (at the gates of death), Ps 69:22 (gall and vinegar) and Lam 3:15; Ps 22:7-8 and Ps 35:19-26 (do not let those who rejoice at my calamity gloat). 'By your breath may the dead live': Ezek 37:9, Ps 104:29-30."
       - "Compare Q 21:83 (Job: 'harm has touched me and You are the most merciful')."
@@ -336,9 +333,7 @@ units:
     read: ["SAA 03 010 o:1-34", "SAA 03 010 r:1'-18'"]
     tags:
       - {motif: litany-of-blessing-on-city-and-king, refs: ["SAA 03 010 o:14-21"], note: "ikrib hengalli Aššur-ahu-iddina balāṭa lūtir ... lērubū lērubū hadû kayyānu šamnu ina gulgullê tabbika šīpātu ana lā manê šubbiša"}
-      - {motif: table-prepared-before-enemies, refs: ["SAA 03 010 o:17"], note: "oil poured on the skull: šamnu ina gulgullê tabbika"}
       - {motif: prayer-for-kings-long-life, refs: ["SAA 03 010 o:14"]}
-      - {motif: blessing-good-dream-lying-down-good-omen-rising, refs: ["SAA 03 010 r:2'-7'"], note: "litany: ana mātātišu ikarrabū, ana mārēšu ikarrabū, ana perʾēšu ikarrabū ... 'they bless his lands, his sons, his offspring, the scholars, the city elders'"}
       - {motif: colophon-copied-and-collated, refs: ["SAA 03 010 r:15'-18'"], note: "kīma labirišu šaṭir bari; written by Mutaqqin-Aššur, junior apprentice"}
     hints:
       - "Oil on the head and blessing on city and king: Ps 133:2, Ps 23:5, Ps 128:5-6 and Ps 72:15-17."
@@ -612,7 +607,6 @@ units:
     tags:
       - {motif: god-breaks-enemys-javelin-and-snake, refs: ["SAA 09 008 o:3-8", "SAA 09 008 b.e:9", "SAA 09 008 r:1-2"], note: "dibbī ša Elamāya ... mā attalak attalka ... ištu muhhi narʾanti attalka ṣerru ša ina libbiša assadda abtataq ... narʾantu ahtepi ... Elamtu ahappi ... kī annî Elamtu agammar"}
       - {motif: oracle-repeated-five-or-six-times, refs: ["SAA 09 008 o:4"], note: "5-šu 6-šu iqṭibi 'he said it five or six times'"}
-      - {motif: bow-struck-from-left-arrows-from-right, refs: ["SAA 09 008 o:7-8"], note: "the god breaks the enemy's weapon"}
     hints:
       - "God breaks bow and spear: Ps 46:10, Hos 1:5, Jer 49:35 ('I will break the bow of Elam'). Repeated oracle: Gen 41:32."
   - id: ane-saa09-003-1-first-shulmu
@@ -1002,7 +996,6 @@ units:
     read: ["SAA 20 036 o:1'-11'", "SAA 20 036 r:1'-8'"]
     tags:
       - {motif: dais-of-destinies, refs: ["SAA 20 036 o:11'"], note: "Parak-šīmāti; o:3'-4' 'not written ... erased' (lā šaṭru ... pašṭu), broken"}
-      - {motif: scribal-colophon, refs: ["SAA 20 036 o:3'-4'"], note: "interpretive: lā šaṭru ... pašṭu may note gaps in the source"}
   - id: ane-saa20-023-king-rises-stool
     tradition: ane-akkadian
     title: "Fragment of a royal ritual: the king rises, the stools (SAA 20 23)"
@@ -1022,7 +1015,6 @@ units:
     tags:
       - {motif: dais-of-destinies, refs: ["SAA 20 035 o:4'"], note: "Parak-šīmāte"}
       - {motif: jupiter-neberu-named-in-ritual, refs: ["SAA 20 035 o:9'"], note: "dNēbiru"}
-      - {motif: kings-throne-firm-for-long-days, refs: ["SAA 20 035 o:6'"], note: "fragment: ina muhhi sigaru 'on the clamp' (enemy in stocks?), uncertain"}
   - id: ane-saa20-009-assurbanipal-new-rites
     tradition: ane-akkadian
     title: "Assurbanipal's new rites of Shebat-Adar: the king kisses the ground; 'Šeruʾa has given birth!' (SAA 20 9)"
@@ -1087,7 +1079,6 @@ units:
       - {motif: name-of-goddess-invoked-at-sacrifice, refs: ["SAA 20 052 r.iii:30'-35'"], note: "nīqāni ša Mullissu ... lissuhū šumu ša Mullissu lizkurū ... šumu ša Šeruʾa lizkur"}
       - {motif: named-temple-gates, refs: ["SAA 20 052 r.iii:43'-51'"], note: "bābu ša ina pūt Aššur bāb šarrūte ... bāb ṣīt šamši ša ina muhhi nāri bāb burūme ... bāb kansu Igigi ... bāb hiṣib mātāte ... bāb ša ištāni bāb Ereqqi (Ursa Major)"}
       - {motif: stars-identified-with-high-god, refs: ["SAA 20 052 r.iii:55'-60'"], note: "Sagmegar (Jupiter) kakkab Sîn šū u Sîn Aššur šū; MUL Lalu Anšar MUL Niru Anšar ... Iku šubat Anšar; Šihṭu (Mercury) kakkab Adad; Kayyamānu (Saturn) kakkab Šamaš"}
-      - {motif: astral-worship-forbidden, refs: ["SAA 20 052 r.iii:55'-60'"], note: "contrast: here the stars are identified with Aššur and the gods"}
       - {motif: goddess-veiled-like-her-companion, refs: ["SAA 20 052 r.iii:52'-54'"], note: "Bēlet-ilī ... lū kuttumat ... kī ša Šeruʾa issiša labšatuni"}
     hints:
       - "Named gates of the temple: Jer 20:2 (upper gate of Benjamin), Ezek 8:3-16 (north gate, women weeping for Tammuz); star worship: 2 Kgs 23:5, Amos 5:26 (Kaiwan = Saturn), Jer 8:2."
@@ -1179,7 +1170,6 @@ units:
       - {motif: guilt-confessed-three-times, refs: ["SAA 20 032 o:5-6"], note: "nāru uda bēl arni iqṭanabbi 2-tešu kī annimma 3-tešu kī annimma 'the singer says Bēl arni (lord of sin) twice, thrice'"}
       - {motif: lamb-dressed-as-bride-on-bed, refs: ["SAA 20 032 o:9-19"], note: "mayyālu ina maškini ... puhattu lā petītu ina sikkat erēni ina tabrīme ina rēš mayyāli ... nahlapta šīpāte peṣûte ulabbassi ... qudāši erê šemurī erê tašakkanši 'an unmated ewe-lamb tied at the head of the bed, clothed in white wool, given copper earrings and bracelets'"}
       - {motif: lambs-blood-carried-into-river, refs: ["SAA 20 032 r:15-16"], note: "puhattu lā petītu dāmu ... ša muhhi mayyāli inašši ina nāri"}
-      - {motif: seven-judges-gaze-of-death, refs: ["SAA 20 032 o:20-22"], note: "contrast: 7 dDayyānū ina muhhi kitê tušeššab 'seven Judges seated on linen, coloured cloth on their heads'"}
       - {motif: feet-of-penitent-washed, refs: ["SAA 20 032 r:10"], note: "šēpē ša bēl šipṭi ina mê u šikari mesi"}
       - {motif: released-from-hand-of-god, refs: ["SAA 20 032 r:22"], note: "ištu qāt iliya paṭrāku 'I am released from the hand of my god'"}
       - {motif: song-incipits-listed-in-ritual, refs: ["SAA 20 032 o:23-36", "SAA 20 032 r:1-12"], note: "šarru gitmālu, Ea bēl hasīsi, etellētu rašubbatu, līnuha ... sung in order"}
@@ -1198,7 +1188,6 @@ units:
       - {motif: sacrifice-at-sunrise-blood-in-pit, refs: ["SAA 20 019 r.i:10'"]}
       - {motif: king-sets-foot-on-pit, refs: ["SAA 20 019 r.ii:29'-30'"], note: "šarru šēpšu ana muhhi api išakkan šēpī inaššiq"}
       - {motif: divine-fire-eats-offering, refs: ["SAA 20 019 r.i:16'-17'", "SAA 20 019 r.ii:21'-22'"], note: "Lisikūtu ušākal 'he feeds (the divine fire) Lisikutu'"}
-      - {motif: fire-from-heaven-consumes-offering, refs: ["SAA 20 019 r.i:17'"], note: "contrast: here the king feeds the deified fire"}
       - {motif: song-incipits-listed-in-ritual, refs: ["SAA 20 019 o.ii:6", "SAA 20 019 r.i:18'-19'", "SAA 20 019 r.ii:4'", "SAA 20 019 r.ii:23'"], note: "šupê šupê šupê lēkulū 'roast, roast, roast, let them eat'; illurê illuri; mannu ipatte bīt kaspi 'who opens the silver house?'"}
       - {motif: king-goes-to-bed-chamber-after-rite, refs: ["SAA 20 019 o.ii:10-11"], note: "nišī upassukū šarru ana mayyāli erab 'the people are cleared away; the king enters the bed(chamber)'"}
       - {motif: honey-and-oil-burned, refs: ["SAA 20 019 o.i:14", "SAA 20 019 o.ii:27", "SAA 20 019 r.i:8'"], note: "dišpa šamna išarrap"}
