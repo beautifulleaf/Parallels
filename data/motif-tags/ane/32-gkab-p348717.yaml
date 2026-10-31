@@ -129,6 +129,25 @@ new_motifs:
   sufferers-office-given-to-another: {label: "The sufferer's office is given to another and a stranger installed in his cultic duties", cluster: lament}
   prayer-blazes-like-fire-lips-stiff: {label: "The sufferer's heart burns like fire as he prays, his prayers are a squabble, his lips stiff as in gloom", cluster: lament}
   hope-each-dawn-for-good-year-passes: {label: "Each morning the sufferer hopes for good; a month passes, the sun shines; a whole year passes to its term", cluster: lament}
+  water-for-hands-offered-to-gods: {label: "Water for washing the hands is presented to the gods (mê qātī našû), and the king and the people touch it", cluster: cult}
+  king-with-golden-libation-vessel-in-procession: {label: "The king walks in the gods' procession carrying a golden libation vessel (maqqû)", cluster: kingship}
+  gods-stand-before-enthroned-high-god: {label: "When the high god or goddess is enthroned, all the other gods and goddesses take their stations facing him and stand before him", cluster: cosmology}
+  heart-of-ox-and-head-of-sheep-offered: {label: "The heart of the ox and the head of the sheep are set before the god, the heart covered with a golden bowl of flour", cluster: cult}
+  great-torch-lit-with-sulphur-on-ziggurat: {label: "At nightfall on the temple tower a purification priest lights a great aromatic torch with sulphur fire and recites the hymn 'Star of Anu, lord of heaven'", cluster: cult}
+  sacred-fire-carried-to-all-temples-and-houses: {label: "Fire from the temple's great torch is carried down and kindled in every temple of the city, and the people light brushwood fires in their houses", cluster: cult}
+  city-gates-open-and-fires-lit-till-dawn: {label: "On the festival night the city watch lights fires in the streets and squares and the city gates stay open until dawn", cluster: cult}
+  night-vigil-of-gods-until-dawn: {label: "On the festival night the gods sit in the temple court in a vigil (bayyātu) until dawn; the gate is not shut", cluster: cult}
+  torch-quenched-in-holy-water-milk-wine: {label: "The ritual torch is extinguished in holy water mixed with beer, milk, wine and oil", cluster: cult}
+  haru-vessel-broken-before-god: {label: "A large ḫarû jar is broken before the god during the festival rite", cluster: cult}
+  king-installs-en-priest-in-pure-garment: {label: "In the festival the king performs the elevation to en-ship and clothes himself in pure garments", cluster: kingship}
+  adapa-in-uruk-cult: {label: "The sage Adapa appears as a cult figure in an Uruk temple procession", cluster: cult}
+  broken-chariot-portent-namburbi: {label: "A namburbi averts the evil portended when the yoke, pole, lance or any part of a prince's chariot breaks on a journey", cluster: omen}
+  fall-from-chariot-portent: {label: "The evil of a king or prince falling from his chariot is undone by a namburbi", cluster: omen}
+  god-of-steppe-and-nergal-appeased: {label: "Offerings to the great gods, Nergal and the god of the steppe, so that they show mercy and are reconciled with the traveller", cluster: omen}
+  sun-god-lights-darkness: {label: "Šamaš is the one who illuminates darkness", cluster: hymn}
+  confession-of-unknown-sins: {label: "The supplicant confesses the guilt and sins he has committed, sought out and transgressed, and waits for the god's word", cluster: prayer}
+  high-god-flanked-right-and-left-by-gods: {label: "The high god is enthroned with one great god on his right and another on his left, the others in fixed places beside them", cluster: cosmology}
+  king-prostrates-before-goddess: {label: "The king goes to the goddess's cella and prostrates himself", cluster: kingship}
 units:
   - id: ane-gkab-p348717-r-ii-enkidu-warns
     tradition: ane-akkadian
@@ -968,3 +987,191 @@ units:
       - "Job's lament: friends and kin estranged, household strangers (Job 19:13-19); months of misery, nights of toil (Job 7:3-4); eyes dim from grief (Job 16:16, 17:7); Ps 31:10-14 (terror on every side, they plot to take my life), Ps 38:12, 88:9, 19."
       - "Moaning like a dove: Isa 38:14, 59:11; Ezek 7:16; Nah 2:8."
       - "Another takes his office: Ps 109:8."
+
+  - id: ane-gkab-p363712-anu-dais-of-destinies
+    tradition: ane-akkadian
+    title: "Uruk ritual: Anu's procession to the Dais of Destinies; water for the hands, the king with the golden libation vessel (TCL 6, 40)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363712"]
+    tags:
+      - {motif: god-seated-on-dais-of-destinies, refs: ["GKAB P363712 o:9'", "GKAB P363712 o:14'-17'"], note: "KA₂.MAḪ irrub-ma ina muḫḫi parak šīmāti ... qāt anu ištu parak šīmāti iṣṣabtū-ma ... pānīšu ana ṣīt šamši išakkan-ma ina muḫḫi šubat ḫurāṣi ušab"}
+      - {motif: king-takes-hand-of-god, refs: ["GKAB P363712 r:6-9", "GKAB P363712 o:14'"], note: "papsukkal šarru u mašmaššū qāt anu ištu birīt šiddi iṣṣabtū-ma ... ina muḫḫi parak šarrūti ina šubtīšu ušab; šarru mašmaššū u ištarātu qāt antu iṣṣabtū"}
+      - {motif: water-for-hands-offered-to-gods, refs: ["GKAB P363712 o:3'-6'", "GKAB P363712 o:20'", "GKAB P363712 r:3-4"], note: "mê qātī ana anu inašši; mê qātī ana ellil u ea; mê qātī ana anu u antu inaššī-ma šarru u nišī ulappat: the king and the people touch (the water)"}
+      - {motif: king-with-golden-libation-vessel-in-procession, refs: ["GKAB P363712 o:8'", "GKAB P363712 o:13'", "GKAB P363712 r:5", "GKAB P363712 r:12", "GKAB P363712 r:17"], note: "šarru maqqû ḫurāṣi iredde"}
+      - {motif: gods-stand-before-enthroned-high-god, refs: ["GKAB P363712 o:17'-19'", "GKAB P363712 r:8"], note: "adad ina šubti rabīti ... ilū gabbi ina manzazīšunu izzizū pānīšunu ana [anu]; ištarātu napḫaršina ana pān antu tarṣā"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["GKAB P363712 o:4'-5'"], note: "šuʾila 'en nir-ŋal₂-la' ana anu inašši (the chief lamentation priest)"}
+      - {motif: heart-of-ox-and-head-of-sheep-offered, refs: ["GKAB P363712 r:1-3"], note: "libbi ša alpi u qaqqadu ša immeri ina pānīšu ... malīt ḫurāṣi ša maṣḫati ana muḫḫi libbi isaḫḫap"}
+    hints:
+      - "The LORD enthroned while the host stands at his right and left: 1Kgs 22:19; God takes his place in the divine council: Ps 82:1; the king's procession with the ark: 2Sam 6:12-17; Ps 24:7-10, 68:25-26."
+      - "Washing hands before the holy: Exod 30:18-21; Ps 26:6."
+
+  - id: ane-gkab-p363713-nocturnal-fire
+    tradition: ane-akkadian
+    title: "Uruk nocturnal ritual: offerings on the ziggurat roof to Anu and Antu of heaven and to the seven planets; the great torch; fire carried to every temple and house; gates open till dawn (TCL 6, 41)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363713"]
+    tags:
+      - {motif: rooftop-altars, refs: ["GKAB P363713 o:14'-16'"], note: "ina barārīti ina ūri baramaḫ ziqqurrat ša Rēš kīma ša kakkab anu rabû ša šamê ittapḫa, antu rabītu ša šamê ina Ereqqi ittapḫa"}
+      - {motif: offerings-to-stars-for-long-life, refs: ["GKAB P363713 o:17'-27'"], note: "paššūr ḫurāṣi ana anu u antu ša šamê tukān ... ina muḫḫi 7 paššūr ṣīri ḫurāṣi ana Jupiter (SAG.ME.GAR), dele-bat (Venus), Mercury, Saturn, Mars, Sîn u Šamaš kīma ša innammar: meat of ox, sheep and birds, beer, pressed wine, all garden fruit"}
+      - {motif: worship-of-host-of-heaven, refs: ["GKAB P363713 o:15'-16'", "GKAB P363713 o:31'"], note: "loose: Anu as the star of heaven (kakkab anu etel šamāmī) addressed with a hymn; ana tamšīl zīmu bunnê kakkab šamāmī anu šarru ittaṣâ ṣalam bānû"}
+      - {motif: great-torch-lit-with-sulphur-on-ziggurat, refs: ["GKAB P363713 o:28'-32'"], note: "lumaḫḫu ša nēbeḫa raksu gizillâ rabâ ša riqqī sunnuš ... ina išāti kibrīti iqâdam-ma ana tarṣi paššūri itarraṣ-ma qāssu ana anu rabî ša šamê inaššī-ma 'kakkab anu etel šamāmī' naqbīt iqabbi"}
+      - {motif: sacred-fire-carried-to-all-temples-and-houses, refs: ["GKAB P363713 o:33'-r:16", "GKAB P363713 r:22"], note: "the torch is taken down from the ziggurat; brushwood (abru) lit from the torch; šangû ša bīt ilāni Tirana ... nūra ištu gizillê iqaddû-ma ana bīt ilīšunu inaššû; nišē māti ina bītātīšunu abra inappaḫā"}
+      - {motif: city-gates-open-and-fires-lit-till-dawn, refs: ["GKAB P363713 r:24-27"], note: "maṣṣar āli ina sūqāni u sūq erbetti abra inappaḫ; abullāt uruk adi namāri ul uḫḫer"}
+      - {motif: night-vigil-of-gods-until-dawn, refs: ["GKAB P363713 o:13'", "GKAB P363713 r:14", "GKAB P363713 r:20-22"], note: "bayyātu ul paṭrat, bābu ul uttaddal; messagunug adi namāri ušab; adad sîn šamaš u bēlet-ilī ina kisalli adi namāri ušbū"}
+      - {motif: water-for-hands-offered-to-gods, refs: ["GKAB P363713 o:18'", "GKAB P363713 o:24'", "GKAB P363713 o:32'"]}
+      - {motif: torch-quenched-in-holy-water-milk-wine, refs: ["GKAB P363713 r:19-20"], note: "mašmaššu ina mê agubbî šikari rēštî šizbi karāni u šamni gizillâ unâḫ"}
+      - {motif: haru-vessel-broken-before-god, refs: ["GKAB P363713 r:1", "GKAB P363713 r:4"], note: "ḫarû ina pānīšu ibbattaqa: a ḫarû jar is broken before Anu and before Antu"}
+      - {motif: god-arrives-at-new-temple, refs: ["GKAB P363713 o:2'-8'"], note: "loose: sceptre and sandal (of Anu) rise and the gods and goddesses go before and behind; the sandal of the daughters of Anu enters Enir, the house of the golden bed of Antu"}
+    hints:
+      - "Offerings to the sun, moon, planets and host of heaven on the roofs: 2Kgs 23:5, 23:11-12; Jer 8:2, 19:13; Zeph 1:5; Deut 4:19."
+      - "Sacred fire kept and rekindled: Lev 6:5-6 (6:12-13); 2Macc 1:18-22, 10:3 (fire struck anew at the rededication); Lev 9:24."
+      - "Bayyātu, the night vigil before the god: Exod 12:42 (a night of watching); Ps 134:1."
+
+  - id: ane-gkab-p363714-ishtar-akitu
+    tradition: ane-akkadian
+    title: "Uruk Ištar ritual: the gods come down to the court, the king performs the installation of the en-priest, procession with Anu's chariot to the akītu house; kurgarrû and assinnu circle (TCL 6, 42)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363714"]
+    tags:
+      - {motif: akitu-procession-of-gods, refs: ["GKAB P363714 r:2'-24'"], note: "warkīšu ... papsukkal nusku usmu messagunug; musicians, lamentation priests, exorcists; adi narkabti ša anu ...; gods 'like their feet' go before and behind; ana kisal bīt akīti irrub-ma ina muḫḫi parakki rabî ušab"}
+      - {motif: king-installs-en-priest-in-pure-garment, refs: ["GKAB P363714 o:16'"], note: "šarru nišûtu enūti ippuš tillêšu ebbūtu illabbiš: the king performs the elevation to en-ship and puts on his pure garments"}
+      - {motif: gods-stand-before-enthroned-high-god, refs: ["GKAB P363714 o:5'-15'", "GKAB P363714 o:27'"], note: "long list of gods and protective figures leaving their seats (Šagepada, Aškaʾitu, Palil, 2 standards, 3 Aḫlamû, Kilili, Bariritu, 4 lion-men, Šarrat-šamê, Sadarnuna, Mīšaru, Išartu ...): kīma šamaš ippuḫa ilū napḫaršunu ana pān ištar tarṣū"}
+      - {motif: cult-performers-mock-battle, refs: ["GKAB P363714 r:25'-26'"], note: "kurgarrû assinnu ša tillê narudu raksū kīma maḫrî ištu šumēli ana imitti ilawwûšunūti"}
+      - {motif: king-takes-hand-of-god, refs: ["GKAB P363714 r:22'", "GKAB P363714 r:27'"], note: "qāt uluḫḫi šarrūti u ištar iṣṣabtū-ma ...; usmu u šarru qāt ištar iṣṣabtū-ma irrubū-ma ina papāḫīša ušab"}
+      - {motif: sceptre-of-kingship-set-up, refs: ["GKAB P363714 r:16'", "GKAB P363714 r:22'-23'", "GKAB P363714 r:28'"], note: "uluḫḫu šarrūti ina idīša izzaz"}
+      - {motif: queen-of-heaven-title, refs: ["GKAB P363714 o:14'", "GKAB P363714 r:12'"], note: "d.šar-rat-AN-e / d.GAŠAN-AN-e among the goddesses who come before Ištar"}
+      - {motif: water-for-hands-offered-to-gods, refs: ["GKAB P363714 o:31'-32'", "GKAB P363714 r:26'"]}
+      - {motif: heart-of-ox-and-head-of-sheep-offered, refs: ["GKAB P363714 o:29'-31'"]}
+      - {motif: kettledrum-deified-as-god, refs: ["GKAB P363714 r:31'-32'"], note: "loose: lilissu siparri ina muḫḫi šuḫḫi izzaz ... lilissu siparri itbē-ma: the bronze kettledrum stands and 'rises' in the procession"}
+      - {motif: adapa-in-uruk-cult, refs: ["GKAB P363714 o:3'"], note: "fragmentary: d.A.DA.PA₃ named in the procession"}
+    hints:
+      - "Procession of the deity into the sanctuary with singers and musicians: Ps 68:25-28; 2Sam 6:5, 6:14-15; Ps 118:27 (bind the festal procession with cords to the horns of the altar)."
+      - "Cross-dressed cult personnel: Deut 22:5, 23:18-19 (qadesh); 1Kgs 14:24; 2Kgs 23:7."
+
+  - id: ane-gkab-p363722-namburbi-chariot
+    tradition: ane-akkadian
+    title: "Namburbi for a prince whose chariot yoke, pole or lance breaks on the road, or who falls from his chariot (TCL 6, 50)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363722"]
+    tags:
+      - {motif: broken-chariot-portent-namburbi, refs: ["GKAB P363722 o:1-6"], note: "šumma rubû narkabta irkab-ma ḫarrāna ina alākīšu lū nīru lū mašaddu lū azmarû lū mimma ḫuṣāb narkabti šiāti iššebir-ma ... lā ṭūb libbi irteddûšu, ūdāti immar"}
+      - {motif: fall-from-chariot-portent, refs: ["GKAB P363722 r:8'-9'"], note: "[šumma] irkab-ma ištu narkabti imqut ana namburbî pašāri: so that the evil does not reach king or prince; on day 3 the exorcist purifies him"}
+      - {motif: god-of-steppe-and-nergal-appeased, refs: ["GKAB P363722 o:6-12"], note: "ana ilī rabûti nergal u il ṣēri nīqa inaqqi ... rēma iršû-ma iṭṭirūšu ... il ṣēri itti rubê šuāti isallimū-ma"}
+      - {motif: sun-god-lights-darkness, refs: ["GKAB P363722 o:15", "GKAB P363722 o:20"], note: "šamaš bēlu rabû ša annašu ...; [munammir] ekleti šamaš attā"}
+      - {motif: confession-of-unknown-sins, refs: ["GKAB P363722 r:14'-16'"], note: "alsīkunūšu ana ṣīt pîya utaqqâ ... annī aḫṭû ešeʾʾû ugallilu ...: I called to you, I wait for your word; my guilt, the wrongs I did, I sought, I sinned; spoken seven times"}
+      - {motif: illness-and-sorcery-banished-litany, refs: ["GKAB P363722 r:4'-7'"], note: "mimma lemnu ilu lemnu ištaru lemuttu ruḫê rusê upšaššê ša attā tīdû ussuḫ duppir littallak lipparis ina zumrīya; waradka dalīlīka ludlul"}
+      - {motif: priestly-lineage-in-colophon, refs: ["GKAB P363722 r:19'-20'"], note: "Iqīša, son of Ištar-šuma-ēreš, descendant of Ekur-zākir; pāliḫ anu u antu lā itabbalšu: whoever reveres Anu and Antu shall not take it away"}
+    hints:
+      - "Kings who fall from or die in chariots: 1Kgs 22:34-35; 2Kgs 9:24, 9:27; chariot wheels jammed: Exod 14:25."
+      - "Confession of sins known and unknown: Ps 19:13, 51:5-6."
+
+  - id: ane-gkab-p369109-akitu-procession
+    tradition: ane-akkadian
+    title: "Uruk akītu ritual: gods seated right and left of Anu, the king prostrates before Antu, procession of chariots and gods to the akītu house (KAR 132)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P369109"]
+    tags:
+      - {motif: akitu-procession-of-gods, refs: ["GKAB P369109 r.i:1-26", "GKAB P369109 r.ii:1-7"], note: "warkīšu ... mul.GIGIR narkabassu; narkabti ninurta, narkabti šamaš ...; išpātu ḫurāṣi ša anu u antu; Lugalbanda, the Seven, Palil, Šubula ...; ellil ina imnīšu u ea ina šumēlīšu; ana kisal bīt akīti irrub-ma ... pānīšu ana ṣīt šamši išakkan-ma ušab"}
+      - {motif: high-god-flanked-right-and-left-by-gods, refs: ["GKAB P369109 o.i:7'-13'", "GKAB P369109 r.ii:8-19"], note: "ellil ... ina muḫḫi Kiagazida ana imitti anu ušab, ea ... ana šumēl anu ušab; adad ina idi ellil ana imitti anu, šamaš ina idi ea ana šumēl anu"}
+      - {motif: king-prostrates-before-goddess, refs: ["GKAB P369109 o.i:13'-14'"], note: "šarru ana papāḫ antu illik-ma uškênni"}
+      - {motif: queen-of-heaven-title, refs: ["GKAB P369109 o.i:15'-16'", "GKAB P369109 o.ii:6'", "GKAB P369109 r.i:25"], note: "d.aš-rat u d.šar-rat-AN-e: Ašratu and the Queen of Heaven again side by side, standing behind Antu"}
+      - {motif: goddess-ashratu-in-cult-list, refs: ["GKAB P369109 o.i:15'", "GKAB P369109 o.ii:6'", "GKAB P369109 r.i:25"]}
+      - {motif: king-takes-hand-of-god, refs: ["GKAB P369109 o.i:17'-19'", "GKAB P369109 o.i:25'", "GKAB P369109 r.i:20-21", "GKAB P369109 r.ii:13"], note: "papsukkal nusku usmu u šarru qāt anu ištu parak šīmāti iṣṣabtū-ma"}
+      - {motif: water-for-hands-offered-to-gods, refs: ["GKAB P369109 r.i:17-18", "GKAB P369109 r.ii:11-12"], note: "mê qātī ana anu u antu inaššī šarru u nišī ulappat"}
+      - {motif: dais-of-destinies, refs: ["GKAB P369109 r.i:21"]}
+      - {motif: astral-names-of-marduk, refs: ["GKAB P369109 r.i:4"], note: "loose: the star 'Chariot' (mul.GIGIR) leads its chariot in the procession"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["GKAB P369109 r.ii:23"], note: "kalû ... 'an gal-e' šuʾila ana anu inašši"}
+    hints:
+      - "The LORD goes up with a shout, procession of the King into the sanctuary: Ps 47:6, 68:25; enthroned with 'the host of heaven at his right and his left': 1Kgs 22:19."
+      - "Asherah and the Queen of Heaven in Judah's cult: 2Kgs 21:7, 23:4-7; Jer 44:17-19."
+
+  - id: ane-gkab-q002769-anzu-prologue
+    tradition: ane-akkadian
+    title: "Anzu I (Uruk copy): 'I will sing of the son of the king of the inhabited world', Ninurta beloved of Mami (SB Anzu I 1-14)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Late Babylonian Uruk manuscript, no glosses in source)
+    read: ["GKAB Q002769 1-14"]
+    tags:
+      - {motif: epic-opens-i-will-sing-the-hero, refs: ["GKAB Q002769 1-4", "GKAB Q002769 9"], note: "bin šar dadmī šūpâ narām māmi gašra luzzamur ... luttaʾid; šimâ ša gašri tanitti dannūtīšu"}
+      - {motif: god-is-firstborn-of-high-god, refs: ["GKAB Q002769 2-5"], note: "ila bukur ellil ... ilitti ekur ašarēd anunnaki tukulti eninnu"}
+      - {motif: warrior-god-also-irrigator, refs: ["GKAB Q002769 6"], note: "mušašqû tarbaṣī irmu uru sūqi u āli"}
+      - {motif: catalogue-of-slain-monsters, refs: ["GKAB Q002769 10-12"], note: "ša ina ekdūtīšu ikmû iksû šad abni, kāšid muppaša anzâ ina kakkīšu, nāʾir kusarikki ina qereb tâmti"}
+    hints:
+      - "Sing of the warrior: Exod 15:1; Ps 18; the monster of the sea slain: Isa 27:1, 51:9; Ps 74:13-14."
+
+  - id: ane-gkab-q002769-anzu-born-theft
+    tradition: ane-akkadian
+    title: "Anzu I: before the daises, the rivers dry; Anzu born of the earth; Enlil sets him at the shrine door; he steals the Tablet of Destinies while Enlil bathes (SB Anzu I 15-87)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Late Babylonian Uruk manuscript)
+    read: ["GKAB Q002769 15-87"]
+    tags:
+      - {motif: pre-creation-no-rain-no-plants, refs: ["GKAB Q002769 15-20"], note: "adīna ina igigi lā ibbanû parakkī ... bašmā-ma nārāti idiglat u puratti, ana māti lā ubbalū mêšunu nagbī; clouds in the foundation of heaven"}
+      - {motif: monster-born-of-earth-in-mountain, refs: ["GKAB Q002769 25-27", "GKAB Q002769 50-54"], note: "ina šaršar šadî ... ittaʾlad anzâ; Ea: mindē-ma mê ša nīli ... ellūti mê ilī šūt apsî īrišū-ma erṣetu šuddultu ina kāpi šadî šū-ma ittaʾlad"}
+      - {motif: divine-council, refs: ["GKAB Q002769 21-24", "GKAB Q002769 42-49"], note: "paḫrū-ma ina kullati igigi ana ellil abīšunu ...; ītamar-šu abu ilī duranki ... ninšiku ana ellil amāta izakkar"}
+      - {motif: monster-appointed-guardian-of-sanctuary-door, refs: ["GKAB Q002769 55-56", "GKAB Q002769 60-64"], note: "lizziz maḫarka-ma ai ipparšidka, liptarrik ina atmani šubat kiṣṣi; nēreb kiṣṣi ša ultaqtû iqīpšu ellil"}
+      - {motif: deity-preceded-and-followed-by-storm-attendants, refs: ["GKAB Q002769 36-41"], note: "fragmentary: south wind, flood wave (gipšu), dust storms (ašamšātu) met together, the four winds"}
+      - {motif: tablet-of-destinies, refs: ["GKAB Q002769 68", "GKAB Q002769 73", "GKAB Q002769 81"], note: "ṭuppi šīmāti ša qātīšu anzû ittaṭṭal-ma"}
+      - {motif: hero-plots-to-seize-world, refs: ["GKAB Q002769 69-72"], note: "ukkuš ellilūti iṣṣabat ina libbīšu (repeated)"}
+      - {motif: usurper-boasts-i-will-take-the-throne, refs: ["GKAB Q002769 73-76"], note: "lulqē-ma ṭuppi šīmāti ilī anāku, u têrēti ša ilī kalîšunu luḫmum, lugmur-ma kussâ lubēl parṣī, lumaʾʾir kullat kalîšunu igigi"}
+      - {motif: theft-of-power-while-god-bathes, refs: ["GKAB Q002769 78-80"], note: "nēreb kiṣṣi ... uqaʾʾa rēš ūmi; enūma ellil iramuku mê ellūti šaḫṭū-ma ina kussî agûšu šaknu"}
+      - {motif: monster-usurps-divine-kingship, refs: ["GKAB Q002769 81-83"], note: "ṭuppi šīmāti ikšuda qātuššu, ellilūta ilteqe nadû parṣū; anzû ipparriš-ma šadûssu iggiš"}
+      - {motif: sanctuary-loses-its-radiance, refs: ["GKAB Q002769 84-86"], note: "ittakbak šaḫurratu šakin qūlu; abu malikšunu šuḫarrur ellil; kiṣṣu ištaḫaṭ namurrassu"}
+      - {motif: high-god-asks-who-will-fight-the-monster, refs: ["GKAB Q002769 87"], note: "ilū māti isanaḫḫurū ana ṭēmi (the question follows at 88-91)"}
+    hints:
+      - "The proud one plotting in his heart to ascend above the stars and sit on the mount of assembly: Isa 14:13-14; Ezek 28:2."
+      - "Before there was rain or plants: Gen 2:5-6."
+
+  - id: ane-gkab-q002769-anzu-gods-refuse
+    tradition: ane-akkadian
+    title: "Anzu I: Anu asks which god will slay Anzu; Adad, Girra and Šara refuse in identical words (SB Anzu I 88-156)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Late Babylonian Uruk manuscript)
+    read: ["GKAB Q002769 88-156"]
+    tags:
+      - {motif: high-god-asks-who-will-fight-the-monster, refs: ["GKAB Q002769 88-91"], note: "ilu ayyu anzâ linār-ma ina kullat dadmī lišarbi šumšu"}
+      - {motif: champions-refuse-one-after-another, refs: ["GKAB Q002769 104-114", "GKAB Q002769 125-135", "GKAB Q002769 146-156"], note: "abī ana šad lā aʾāri liḫīš mannu, ayyu kâm anzî ina ilī mārīka ... ipsil urḫa lā alāka iqbi"}
+      - {motif: champion-promised-cult-and-name, refs: ["GKAB Q002769 96-103", "GKAB Q002769 117-124", "GKAB Q002769 138-145"], note: "šubriq anzâ ina kakkīka, šumka lirbi ina puḫur ilī rabûti ... libšû-ma libbanû parakkī, ina kibrāt erbetti šitakkana māḫāzūka"}
+      - {motif: threefold-repeated-episode, refs: ["GKAB Q002769 92-156"], note: "Adad son of Anu, Girra son of Annunītu, Šara son of Ištar"}
+      - {motif: monster-usurps-divine-kingship, refs: ["GKAB Q002769 111-112", "GKAB Q002769 132-133", "GKAB Q002769 153-154"], note: "ittabši ṣīt pîšu kī il duranki, iqbī-ma ša irraru immi ṭiṭṭiš"}
+      - {motif: gods-fear-the-monster, refs: ["GKAB Q002769 113", "GKAB Q002769 134", "GKAB Q002769 155"], note: "ana ṣīt pîšu ilū išaḫḫuḫū"}
+    hints:
+      - "Whom shall I send, and who will go for us?: Isa 6:8; 1Kgs 22:20-22 (who will entice Ahab?)."
+      - "The utterance that turns to clay whom it curses: compare the divine word's power in Isa 55:11."
+
+  - id: ane-gkab-q002769-anzu-ea-mami
+    tradition: ane-akkadian
+    title: "Anzu I: Ea's plan; Mami renamed Mistress of All the Gods; she commissions her son Ninurta (SB Anzu I 157-213, colophon)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Late Babylonian Uruk manuscript)
+    read: ["GKAB Q002769 157-213"]
+    tags:
+      - {motif: wise-god-devises-plan-when-gods-despair, refs: ["GKAB Q002769 157-166"], note: "ippašḫū-ma iddû ilū milki ... bēl uzni āšib apsî itpēšu ... ea uznu ibtani ina libbīšu ... luqbī-ma ila lušeʾʾi u kâm anzî luddi ina puḫri"}
+      - {motif: gods-kiss-feet-of-deliverer, refs: ["GKAB Q002769 167-168", "GKAB Q002769 196-197"], note: "ittarrū-ma igigi unaššaqū šēpīšu; later they kiss the feet of Bēlet-ilī"}
+      - {motif: mother-goddess-renamed-mistress-of-all-gods, refs: ["GKAB Q002769 180-182"], note: "pānāma mami nišassīki, eninni bēlet kullat ilī lū šumki"}
+      - {motif: name-change-by-god, refs: ["GKAB Q002769 181-182"]}
+      - {motif: god-chosen-to-surpass-gods, refs: ["GKAB Q002769 183-189"], note: "idnī gašra šūpâ narāmki rapša irti muttabbila qabal anunti, idnī ninurta ... bēlum ina puḫur ilī ... lū šurruḫ"}
+      - {motif: mother-goddess-bore-all-the-gods, refs: ["GKAB Q002769 201-206"], note: "igigi-ma kullassunu uʾallid, abnī-ma kullat kala kalîšun, abnī puḫur rabûti anunnaki ... ana anim šarrūt šamê ušmaddi"}
+      - {motif: mother-commissions-son-to-fight-monster, refs: ["GKAB Q002769 198-211"], note: "issī-ma ina puḫur ilī mārša narām libbīša umaʾʾaršu: ... ṭuppi šīmāti ... ellil ītekim abāka izzer, parṣī ītekim qātuššu uttir; biriq urḫa šukun adannu"}
+      - {motif: scribal-colophon, refs: ["GKAB Q002769 212-213"], note: "ṭuppi 1-kam bin šar dadmē; šunigin 3 šu-ši 3 (183 lines)"}
+    hints:
+      - "Name changed to mark a new role: Gen 17:5, 17:15, 32:29."
+      - "Who will go for us?: Isa 6:8."
