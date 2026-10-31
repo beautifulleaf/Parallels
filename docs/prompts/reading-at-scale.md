@@ -189,6 +189,132 @@ translation**, clearly labelled:
 - **Leads:** label the evidence `gloss`, never `original` or `reading`.
 - **CLEANUP:** record every such unit as owed a reading from the original.
 
+## Central and Eastern traditions
+
+The western rounds rested on contact. The ANE, the Hebrew Bible and the Quran share Semitic roots,
+story lines and legal forms, so a shared motif or cognate is evidence. Farther east that thins:
+there are few cognates and few shared stories, contact runs through intermediaries (Persian,
+Manichaean, Sogdian, Arabic translation, the Mughal court), and many texts are later than the
+Quran. Run unchanged, the motif method would return either universal motifs (floods, cosmic eggs,
+ascetics) or the worldview contrasts that "Discovery, not confirmation" rules out. These rounds add
+six methods.
+
+1. **Routes first.** Before comparing, record the documented transmission routes with their dates
+   in `data/routes.yaml`, each with a source. Examples:
+   - the Pañcatantra → Pahlavi → Ibn al-Muqaffaʿ's *Kalīla wa-Dimna*;
+   - the Buddha legend → *Bilawhar wa-Būdhāsaf*;
+   - Sanskrit astronomy and medicine through Pahlavi (Ibn al-Nadīm lists the Indian books in Arabic);
+   - Manichaean Sogdian and Uyghur;
+   - al-Bīrūnī's Arabic Sāṃkhya and Patañjali;
+   - Dārā Shikōh's Persian Upaniṣads and Akbar's Persian *Razmnāma*;
+   - the Chinese Islamic writings (Han Kitab).
+
+   Every match then carries one of three labels: `route` (a documented path whose dates fit),
+   `reception` (the text is later than the Quran) or `convergence` (no route). Convergence is a
+   result, labelled as such. The labels say nothing about the direction of influence.
+2. **Decoy pairs.** The coordinator slips pairs of units known to be unrelated into each judge's
+   chunk, without saying which, and reports the rate at which judges find matches in them. Each
+   round states its measured false-match rate beside its match rate.
+3. **Other corpora as controls.** Before a match is called notable, check whether the same element
+   recurs in the ANE, Greco-Roman or Iranian corpora. A widespread element is weaker evidence than
+   a rare one. Record the check on the match.
+4. **Images and argument forms, not doctrines.** Record similes as three slots: what is described,
+   the image used, and the point of likeness. Record arguments by their form, as in "they cannot
+   hear you" or "rain revives dead earth, so…". For example, the spider is the creator spinning out
+   the world and drawing it back in Bṛhadāraṇyaka 2.1.20 and Muṇḍaka 1.1.7, and the frailest of
+   houses for false protectors in Q 29:41. That is a specific divergence, not a doctrinal contrast.
+5. **Historical translators' equivalences.** Build a lexicon only from equivalences a historical
+   translator chose, each sourced: Liu Zhi's *zhenzhu* 真主 for God, Dārā Shikōh's Brahman =
+   *al-Ḥaqq*, al-Bīrūnī's Arabic rendering of Patañjali's terms. These give concept matches that
+   come from the period, not from us, and they anchor the concept layer.
+6. **Practice in exact terms.** Record the numbers and directions of ritual: prayer times and
+   prostrations, fasting rules, purity and what defiles, dietary law, the direction of
+   circumambulation (pradakṣiṇa keeps the shrine on the right, ṭawāf keeps the Kaaba on the left).
+
+Two more rules for these rounds:
+- **Tag in each tradition's own terms.** Write *tīrthaṅkara*, *bodhisattva*, *kami*, never
+  "prophet" or "angel". Map to Islamic terms only when comparing, or the reading forces Islamic
+  categories onto the texts.
+- **Mark retrieval-assisted reading.** For the largest canons (the Chinese Buddhist canon, the full
+  Purāṇas), retrieval anchored on the Quran's observation records may be needed to choose what to
+  read closely. It carries the confirmation risk, so pair it with decoys and label it in SCOPE.md.
+
+### How Islamic scholars read these traditions: a reception layer
+
+Muslim scholars examined these traditions for a thousand years. Their works belong in the project in
+three ways:
+- as **reception texts**, read on the Islamic side as part of the Islamic analysis, with no separate
+  round;
+- as **sources for the route graph and the translators' lexicon**;
+- as a **benchmark of what was already noticed**, so that our leads are measured against it.
+
+Located in the Shamela library (cite as `shamela_get_citation` gives; page numbers as printed unless
+noted):
+
+- **al-Bīrūnī (d. 440), *Taḥqīq mā li-l-Hind* (Shamela 11655).** The method precedent for this project.
+  - His book "is not a book of argument and polemic … but a book of report (*kitāb ḥikāya*): I give
+    the words of the Indians as they are, and add what the Greeks have like them, to show the
+    nearness between them". He brings in the Sufis or Christians only "because of the closeness of
+    the matter among them all in *ḥulūl* and *ittiḥād*" (p. 16).
+  - He had translated the Sāṃkhya and Patañjali into Arabic (p. 16), and he sets Patañjali's path
+    beside Sufi sayings throughout (pp. 28, 44, 52, 56, 59, 62).
+  - So: report each side in its own terms, and compare only where a specific closeness exists.
+- **al-Shahrastānī (d. 548), *al-Milal wa-l-niḥal* (Shamela 11812).**
+  - He divides the Brahmins into followers of the Budd, followers of meditation, and followers of
+    transmigration (3/97).
+  - He defines the Budd as "a person in this world who is not born, does not marry, does not eat…"
+    (3/97), with ten stages ending in giving up the spirit in longing for the Real (3/98).
+  - An early doxographic reading of Buddhism.
+- **Ibn al-Nadīm (d. 380), *al-Fihrist* (Shamela 1455, Ayman al-Sayyid's edition).**
+  - The translators from Indian languages (2/424 ff.), the Indian scholars whose books on
+    astronomy and medicine reached Arabic, and a list of Indian medical books in Arabic.
+  - The temples of India and the *budd* images, partly after Abū Dulaf's report (2/424-428).
+  - A ready source for the route graph.
+- **Abū Zayd al-Sīrāfī (fl. 4th c.), *Riḥla* (Shamela 11269).** Merchant reports on India and China:
+  - cremation (heading at title 29);
+  - the abstinence of Indian kings (title 31);
+  - the people of India and China holding that "the *budd* speak to them, when it is their
+    worshippers who speak" (p. 50).
+- **The *Sumaniyya*** (śramaṇas) run through Islamic theology and legal theory (360 hits): from Jahm's
+  debate with them (al-Bukhārī, *Khalq afʿāl al-ʿibād*, p. 30) to the jurists' theory of knowledge
+  (al-Juwaynī, *al-Talkhīṣ* 2/281). They appear as the party that limits knowledge to the senses and
+  denies knowledge by mass-transmitted report. That is an argument-form record of exactly the kind
+  method 4 calls for.
+- **South Asia, in ʿAbd al-Ḥayy al-Ḥasanī (d. 1341), *Nuzhat al-khawāṭir* (Shamela 1584),** the
+  biographical dictionary of Muslim India:
+  - Dārā Shikōh's Persian Upaniṣads, whose preface calls the text "the kernel of the Quran", and his
+    "book on reconciling (*al-taṭbīq*) the creed of the Hindus with that of the people of Islam",
+    with the two opposed judgments of him reported side by side (5/527);
+  - Badāyūnī's Persian translation of the Atharvaveda, which "they claim agrees in some rulings with
+    the Islamic Sharia", made with a Brahmin convert (5/570);
+  - the Mahābhārata translated as the *Razmnāma* (5/498, 5/534);
+  - scholars who studied with Brahmins, debated "the scholars of the Hindus", or answered
+    Rammohun Roy's Brahmo Samaj (7/972).
+- **Sulaymān al-Nadwī (d. 1373), *al-Risāla al-Muḥammadiyya* (Shamela 9821),** lectures given in India.
+  He argues that the founders' lives are not historically recoverable in the case of the Buddha
+  (p. 43) and still less of Confucius. This is a historicity argument, one that sets the founders'
+  biographies against the Prophet's documented sīra.
+- **Muḥammad Sulaymān Manṣūrpūrī (d. 1348), *Raḥmatan li-l-ʿĀlamīn* (Shamela 14328, translated from
+  Urdu).**
+  - Reads Q 35:24, "there is no community but a warner has passed among it", as the ground for
+    honouring the righteous of the Hindus and for mutual respect between the nations' teachers
+    (p. 964).
+  - Sets tayammum against the 36-ingredient *havan* the Ārya Samāj prescribes for worship, citing
+    the *Satyārth Prakāś* (p. 700).
+  - Answers the objection that the splitting of the moon would appear in Hindu books (p. 740).
+- **Southeast Asia.** It appears in Shamela mainly through questions sent to the Arab heartlands, for
+  example Ibn Yaʿqūb al-Madanī (d. 1066), *al-Jādda al-qawīma … fī l-jawāb ʿan al-asʾila al-wārida
+  min Jāwa*, on the question of being (in Ismāʿīl Bāshā, *Hadiyyat al-ʿārifīn* 1/245).
+
+**Gaps outside Shamela.** Some of the most important works are not in Arabic or not in Shamela:
+- Persian: Dārā Shikōh's *Majmaʿ al-Baḥrayn* and *Sirr-i Akbar*, Aḥmad Sirhindī's *Maktūbāt*;
+- Chinese: the Han Kitab of Wang Daiyu and Liu Zhi;
+- Malay: Nūr al-Dīn al-Rānīrī's *Tibyān fī maʿrifat al-adyān*;
+- Urdu originals.
+
+Each round lists them in its SCOPE.md and reads them where an open text exists. They are reception
+texts in their own right.
+
 ## After the read
 
 1. **Merge near-duplicate motifs** through `data/motif-aliases.yaml`, using

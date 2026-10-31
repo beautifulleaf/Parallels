@@ -14,6 +14,8 @@ from a public-domain translation, clearly labelled. Use the standard of the
 Hebrew Bible, Quran and ancient Near East reads. Afterwards, compare these
 texts with the Quran side by side.
 
+**Central and Eastern rounds:** follow "Central and Eastern traditions" in `docs/prompts/reading-at-scale.md` as well: the route graph, decoy pairs, the image and argument records, the translators' lexicon, and the Islamic reception layer for this tradition.
+
 ## Start here
 
 1. Base your work on `main`. Develop on your session's designated branch,
