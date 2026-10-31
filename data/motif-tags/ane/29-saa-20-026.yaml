@@ -328,7 +328,7 @@ units:
       - {motif: wall-rebuilt-and-outer-wall, refs: ["Cyrus II 01 38-41"], note: "Imgur-Enlil dūru rabû ša Bābili ... eššiš ēpuš-ma ušaklil šipiršin, with bitumen and baked brick"}
       - {motif: cedar-doors-bound-with-bronze, refs: ["Cyrus II 01 42-43"]}
       - {motif: predecessors-inscription-found-in-rebuilding, refs: ["Cyrus II 01 43"], note: "šiṭir šumu ša Aššur-bāni-apli šarru ālik mahriya ... appalsa"}
-      - {motif: kings-years-marked-on-tablet-of-life, refs: ["Cyrus II 01 44-45"], note: "only loosely: prayer to Marduk for long life, a firm throne and a long reign"}
+      - {motif: gods-asked-to-intercede-for-king, refs: ["Cyrus II 01 44-45"], note: "Cyrus asks Marduk for long life, old age, a firm throne and a long reign"}
       - {motif: colophon-copied-and-collated, refs: ["Cyrus II 01 46"], note: "kī pî ... šaṭir bari: tablet of Qišti-Marduk (colophon of the fragment)"}
     hints:
       - "Rebuilding Babylon's wall here; rebuilding Jerusalem's wall and gates in Neh 2-6."
@@ -679,7 +679,6 @@ units:
       - {motif: unburied-corpses-food-for-birds, refs: ["Esarhaddon 001 v:6"], note: "pagar qurādišun ina lā qebēri ušākil zību"}
       - {motif: people-of-sea-and-mountain-exchanged, refs: ["Esarhaddon 001 v:20"], note: "ša tâmti ana šadî ša šadî ana tâmtim ašābšunu aqbi"}
       - {motif: envoys-seek-peace-and-swear, refs: ["Esarhaddon 001 v:26-35"], note: "Elam and Gutium send messengers of friendship and peace and swear by the great gods"}
-      - {motif: captured-gods-returned-to-their-sanctuaries, refs: ["Esarhaddon 001 v:38-39"], note: "only that he rebuilt the shrines of Assyria and Akkad with silver and gold"}
     hints:
       - "Ships of Tarshish and the coastlands tremble: Isa 23:1-2, Ezek 26:15-18."
   - id: ane-esarhaddon-001-ekal-masharti
