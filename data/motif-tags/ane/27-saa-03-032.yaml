@@ -76,6 +76,61 @@ new_motifs:
   gods-seated-right-and-left-of-chief-god: {label: "Lists of the gods who sit at the chief god's right and left in the festival house", cluster: cult}
   bath-days-of-gods: {label: "A calendar of the days on which the gods' statues receive their new baths", cluster: cult}
   god-shouts-like-raging-storm: {label: "The angry god's voice roars over the seer like a raging storm", cluster: theophany}
+  drunken-enemy-surprised: {label: "The enemy eats and drinks wine to drunkenness and is then attacked", cluster: war}
+  king-weeps-in-chariot: {label: "The king weeps in his chariot, his eyes filled with tears", cluster: kingship}
+  nomads-plunder: {label: "The king plunders nomadic raiders (Ahlamû-Aramaeans) of the steppe", cluster: war}
+  lament-refrain-repeated: {label: "A lyric lament opens with a couplet repeated word for word as a refrain", cluster: lament}
+  shepherd-farmer-gardener-killed: {label: "Lament list: the shepherd killed over his flock, the farmer at his plough, the gardener in his garden", cluster: lament}
+  daughter-of-humbaba-cedar-forest: {label: "A speaker calls (someone) 'daughter of Humbaba', the strong one of the cedar forest", cluster: myth}
+  anzu-defeated-by-warrior-god: {label: "The warrior god (Ninurta, or Nabû in commentary) defeats and kills the Anzu bird", cluster: myth}
+  children-hidden-from-killer: {label: "A child or heir is hidden away (by parents or goddesses) to protect him from a killer", cluster: myth}
+  zarpanitu-prays-for-life-of-captive-god: {label: "The captive god's consort stretches out her hands and prays to Sîn and Šamaš: 'let Bēl live!'", cluster: myth}
+  god-garment-blood-stained: {label: "A god's (or hero's) garment is red with the blood of the blows he received", cluster: myth}
+  ecstatic-weeps-going-to-goddess: {label: "An ecstatic (mahhû) goes before the goddess weeping as messenger, crying 'my brother, my brother!'", cluster: prophecy}
+  god-escapes-from-tomb-or-ziggurat: {label: "The god, shut in by the gods in the temple tower (or tomb), escapes and is brought down from it", cluster: myth}
+  milk-before-ishtar-of-nineveh-because-she-raised-him: {label: "Milk is drawn before Ištar of Nineveh because she raised the god and showed him mercy", cluster: cult}
+  enuma-elish-recited-at-new-year: {label: "The creation epic Enūma eliš is recited (sung) before the god in the month Nisan", cluster: cult}
+  captive-god-prays-asks-what-is-my-sin: {label: "The captive god prays to the sun god: 'I did good deeds for (the high god); what is my sin?' and begs to be kept alive", cluster: myth}
+  chariot-without-its-lord: {label: "The god's chariot goes to the festival house without its lord, rocking empty", cluster: cult}
+  wailing-woman-circles-city: {label: "A goddess as wailing woman (bākītu) goes round the city lamenting", cluster: lament}
+  wind-against-king-wing-broken: {label: "The deity asks: what wind has risen against you whose wing I have not broken?", cluster: prophecy}
+  goddess-groans-in-labour-for-king: {label: "The goddess shares the king's distress: 'you in pain, I in woe; I rise, I sit'", cluster: prophecy}
+  enemies-delivered-for-slaughter: {label: "The deity hands over the king's enemy for slaughter", cluster: war}
+  goddess-rejoices-with-king: {label: "The goddess declares she rejoices with the king and calls on his city to rejoice", cluster: prophecy}
+  assur-reconciled-with-king: {label: "A goddess has reconciled the high god (Aššur) with the king, or the angry gods with the land", cluster: prophecy}
+  nabu-lord-of-stylus-speaks: {label: "The scribal god Nabû, 'lord of the writing stylus', speaks in an oracle", cluster: prophecy}
+  god-watches-from-golden-chamber-in-heaven: {label: "The deity keeps watch over the king from a golden chamber in mid-heaven, making a light of amber shine before him", cluster: prophecy}
+  goddess-holds-king-by-hair-in-heaven: {label: "The goddess holds the king by his lock of hair in the great heavens", cluster: prophecy}
+  smoke-at-right-fire-at-left: {label: "The deity promises smoke on the king's right and fire on his left", cluster: prophecy}
+  divine-dagger-ends-enemies: {label: "With a furious dagger in her hand the goddess finishes off the king's enemies", cluster: war}
+  weasels-and-rats-cut-off-before-king: {label: "The plotters against the king are 'weasels and rats' whom the god cuts to pieces before his feet", cluster: prophecy}
+  goddess-as-shield-of-king: {label: "The deity declares 'I am your good shield'", cluster: prophecy}
+  queen-mother-laments-son-roaming-steppe: {label: "The king's mother complains to the goddess that she favoured others while her own son was left roaming the steppe", cluster: prophecy}
+  king-as-calf-of-goddess: {label: "The king is the goddess's calf or young animal (mūru)", cluster: kingship}
+  praise-at-day-decline-with-torches: {label: "The deity asks to be praised when the day declines, with torches held before her", cluster: cult}
+  goddess-fills-kings-lap: {label: "The goddess fills the king's lap with good things", cluster: blessing}
+  fear-driven-from-palace: {label: "The deity drives fear out of the king's palace; he will eat proper bread and drink proper water and be secure", cluster: prophecy}
+  oracle-repeated-five-or-six-times: {label: "The god repeats his oracle several times (five or six times)", cluster: prophecy}
+  peace-to-heaven-earth-and-king: {label: "Oracle opening proclaiming peace (šulmu) to heaven and earth, the temple, and the king", cluster: prophecy}
+  enemies-placed-under-kings-feet: {label: "The god places the king's enemy beneath his feet or tramples them with his own feet for him", cluster: kingship}
+  king-without-rival-shines-like-sun: {label: "The king has no rival; he shines like the rising sun", cluster: kingship}
+  proclamation-hear-o-people: {label: "A prophet or god calls the people (or east and west) to listen: 'hear, O ...!'", cluster: prophecy}
+  let-them-see-and-know-i-am-god: {label: "The god acts so that people may see and praise him, recognizing that he is lord of the gods", cluster: prophecy}
+  king-stands-among-traitors: {label: "Traitors surround the king and he stands in their midst before the god rescues him", cluster: kingship}
+  covenant-read-before-people: {label: "The god's word or covenant is read or proclaimed aloud before the king and assembly", cluster: covenant}
+  forgetting-covenant-when-eating-bread: {label: "Warning that once back in their towns eating bread they will forget the covenant", cluster: covenant}
+  goddess-called-narrow-or-stingy: {label: "People say of the deity that she is 'narrow' (stingy, mean)", cluster: prophecy}
+  enemies-gathered-like-butterflies: {label: "The deity collects the king's enemies like butterflies (or insects)", cluster: war}
+  goddess-tramples-mountains: {label: "The deity sets out and treads the mountains under her feet", cluster: theophany}
+  kings-of-lands-shown-the-way: {label: "The goddess rules the kings of the lands, shows them their borders and puts roads under their feet", cluster: kingship}
+  obscure-word-explained-by-prophet: {label: "The oracle uses an obscure word and then explains it in answer to the king's question 'what is ...?'", cluster: prophecy}
+  hug-in-crown-prince-palace: {label: "The deity embraced and protected the king in the crown prince's palace before his accession", cluster: prophecy}
+  god-encircles-and-guards-king: {label: "The deity goes round about the king and keeps watch over him", cluster: prophecy}
+  humanity-treacherous: {label: "The deity declares mankind treacherous (untrustworthy)", cluster: wisdom}
+  people-complain-when-will-change-come: {label: "The people complain 'when, when will the land change?'", cluster: prophecy}
+  be-still-and-let-god-act: {label: "The deity tells the king to keep silent while she acts for him", cluster: prophecy}
+  who-is-the-wronged-one: {label: "The deity asks 'who is alone, who is wronged?' implying she defends the wronged", cluster: prophecy}
+  goddess-girds-loins-for-battle: {label: "The goddess is told (or tells herself) to gird her loins for the king's defence", cluster: war}
 units:
   - id: ane-saa03-032-o-kummaya-prologue
     tradition: ane-akkadian
@@ -469,3 +524,234 @@ units:
       - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.vi:31-32"]}
     hints:
       - "Former and latter things: Isa 42:9, Isa 43:9-19, Isa 48:3-6. Dynasty promise: 2 Sam 7:12-16, Ps 132:11-12. Eating bread and drinking water in safety: Isa 33:16, Ps 4:9."
+  - id: ane-saa09-008-elamite-god
+    tradition: ane-akkadian
+    title: "Words of the Elamite god: the snake in the javelin (SAA 9 8)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 008 o:1-8", "SAA 09 008 b.e:9", "SAA 09 008 r:1-2"]
+    tags:
+      - {motif: god-breaks-enemys-javelin-and-snake, refs: ["SAA 09 008 o:3-8", "SAA 09 008 b.e:9", "SAA 09 008 r:1-2"], note: "dibbī ša Elamāya ... mā attalak attalka ... ištu muhhi narʾanti attalka ṣerru ša ina libbiša assadda abtataq ... narʾantu ahtepi ... Elamtu ahappi ... kī annî Elamtu agammar"}
+      - {motif: oracle-repeated-five-or-six-times, refs: ["SAA 09 008 o:4"], note: "5-šu 6-šu iqṭibi 'he said it five or six times'"}
+      - {motif: bow-struck-from-left-arrows-from-right, refs: ["SAA 09 008 o:7-8"], note: "the god breaks the enemy's weapon"}
+    hints:
+      - "God breaks bow and spear: Ps 46:10, Hos 1:5, Jer 49:35 ('I will break the bow of Elam'). Repeated oracle: Gen 41:32."
+  - id: ane-saa09-003-1-first-shulmu
+    tradition: ane-akkadian
+    title: "Covenant of Aššur 3.1: peace to heaven and earth and Esarhaddon; dominion east to west (SAA 9 3 i-ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 003 i:1-37", "SAA 09 003 ii:1-9"]
+    tags:
+      - {motif: peace-to-heaven-earth-and-king, refs: ["SAA 09 003 i:9-11"], note: "šulmu ana šamê u qaqqari šulmu ana Ešarra šulmu ana Aššur-ahu-iddina"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 09 003 i:31-34", "SAA 09 003 ii:3-5"], note: "ištu rabâ šamši adi napāh šamši ... kippat erbetti Aššur ittanaššu"}
+      - {motif: enemies-placed-under-kings-feet, refs: ["SAA 09 003 i:27-30"], note: "sitammeā mārē Aššur šarru nakaršu iktašad šarrakunu nakaršu ina šapal šēpēšu issakan"}
+      - {motif: king-without-rival-shines-like-sun, refs: ["SAA 09 003 ii:6-7"], note: "šarru mehiršu laššu akī ṣīt Šamaš namir"}
+      - {motif: proclamation-hear-o-people, refs: ["SAA 09 003 i:27"], note: "sitammeā mārē Aššur 'listen, Assyrians!'"}
+    hints:
+      - "Peace to heaven and earth, enemies under the king's feet: Ps 110:1, Ps 2:8, Ps 72:8; sun-like king: 2 Sam 23:4, Mal 3:20."
+  - id: ane-saa09-003-2-heard-your-lament
+    tradition: ane-akkadian
+    title: "Covenant of Aššur 3.2: 'I heard your cry' from the gate of heaven; fire and stones on the rebels (SAA 9 3 ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 003 ii:10-25"]
+    tags:
+      - {motif: god-hears-cry-from-gate-of-heaven, refs: ["SAA 09 003 ii:10-17"], note: "sarsarrāni annûti ussadbibūka ... atta pîka taptitia mā anīna Aššur anāku killaka asseme ištu libbi abul šamê attaqallalla lakrur išātu lušākilšunu"}
+      - {motif: god-descends-to-rescue, refs: ["SAA 09 003 ii:14-16"]}
+      - {motif: god-rains-stones-on-enemies, refs: ["SAA 09 003 ii:19-23"], note: "ana šadê usselišunu abnē anqullu ina muhhišunu azunun nakarūtēka uhtattip dāmēšunu nāru umtalli"}
+      - {motif: hailstones-from-heaven-kill-enemy, refs: ["SAA 09 003 ii:21"]}
+      - {motif: river-turned-to-blood, refs: ["SAA 09 003 ii:23"], note: "the river filled with the rebels' blood"}
+      - {motif: let-them-see-and-know-i-am-god, refs: ["SAA 09 003 ii:24-25"], note: "lēmurū lunaʾʾidūni akī Aššur bēl ilāni anākuni 'let them see and praise me, that I am Aššur, lord of the gods'"}
+      - {motif: king-stands-among-traitors, refs: ["SAA 09 003 ii:10-12", "SAA 09 003 ii:18"], note: "ilṭibūka 'they surrounded you' ... atta ina birtušunu tazzaz"}
+    hints:
+      - "Ps 18:7-15 (God hears from his temple, hailstones and coals of fire); Josh 10:11; Exod 9:23-24; 'that they may know that I am YHWH': Exod 7:5, Ezek passim. Compare Q 105:4 (stones of baked clay on the enemy)."
+  - id: ane-saa09-003-3-covenant-tablet
+    tradition: ane-akkadian
+    title: "Covenant of Aššur 3.3: the covenant tablet brought in; the water of the oath (SAA 9 3 ii-iii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 003 ii:26-36", "SAA 09 003 iii:1-15"]
+    tags:
+      - {motif: covenant-tablet-of-the-god, refs: ["SAA 09 003 ii:26-32"], note: "annû šulmu ša ina pān ṣalme ṭuppi adê anniu ša Aššur ina muhhi haʾūti ina pān šarri errab šamnu ṭābu izarriqū nīqāni eppušū rīqū illukū ina pān šarri isassiū"}
+      - {motif: covenant-water-drunk, refs: ["SAA 09 003 iii:3-15"], note: "mê ṣarṣari tasiqišunu ... ta(n)šattiā tahassasāni tanaṣṣarā adê annûti ša ina muhhi Aššur-ahu-iddina aškununi"}
+      - {motif: covenant-read-before-people, refs: ["SAA 09 003 ii:32-34"], note: "ina pān šarri isassiū abat Issār ša Arbail"}
+      - {motif: forgetting-covenant-when-eating-bread, refs: ["SAA 09 003 iii:7-11"], note: "mā tallaka ina ālānikunu nagiānikunu kusāpī takkalā tamaššiā adê annûti 'you will go to your towns, eat bread, and forget this covenant'"}
+      - {motif: goddess-called-narrow-or-stingy, refs: ["SAA 09 003 iii:8"], note: "mā Issār pāqtu šī 'Ištar is narrow (stingy)'"}
+    hints:
+      - "Covenant made with sacrifices and the book read: Exod 24:4-8; drinking the water as ordeal or covenant: Exod 32:20, Num 5:17-27. 'When you have eaten and are full, beware lest you forget': Deut 6:10-12, Deut 8:10-14."
+  - id: ane-saa09-003-4-ishtar-complains-la-dagil-ili
+    tradition: ane-akkadian
+    title: "Covenant of Aššur 3.4-5: Ištar's complaint about her meal; rebels impaled, through Lā-dāgil-ili (SAA 9 3 iii-iv)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 003 iii:16-37", "SAA 09 003 iv:1-35"]
+    tags:
+      - {motif: god-recalls-former-oracles-fulfilled, refs: ["SAA 09 003 iii:18-24", "SAA 09 003 iv:15-17"], note: "4 sippī ša māt Aššur lā akpupa lā addinakkā nakarka lā akšudu ... ina ... 4 sippī ša māt Aššur aktappa attanakka nakarka aktašad"}
+      - {motif: enemies-gathered-like-butterflies, refs: ["SAA 09 003 iii:23-24"], note: "gaṣṣiṣīka ayyābīka akī kurṣipti lā alqutu"}
+      - {motif: god-complains-of-neglected-offerings, refs: ["SAA 09 003 iii:25-37"], note: "atta ana yâši mīnu tadinna akālī ša qerīte laššu ša akī lā bēt ili akkali akāli akkali kāsi ... mā kettu-ma 1 sūtu akal aṣūdi 1 sūtu maštītu ša šikari ṭābi"}
+      - {motif: rebels-impaled, refs: ["SAA 09 003 iv:22-30"], note: "kīma parrisūti ussadidūni ... manzaz ekalli ardāni ekalli šunu ša ina muhhika isihuni altibia ina muhhi šinnišunu ana zaqīpāni assakanšunu"}
+      - {motif: conspirators-hanged-on-wood, refs: ["SAA 09 003 iv:29-30"]}
+      - {motif: goddess-tramples-mountains, refs: ["SAA 09 003 iv:10-12"], note: "ana māt Aššur uttammeša nēmalka lāmur šadâni ina šēpēya lakbus"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 003 iv:31-35"], note: "Lā-dāgil-ili raggimu Arbailāya ... irtugum 'the prophet (shouter) of Arbela ... prophesied'"}
+    hints:
+      - "God complains of being given nothing: Mal 1:6-14, Mal 3:8-10, Isa 43:23-24. Conspirators hanged: Esth 2:23, Esth 7:9-10. Treading the mountains: Amos 4:13, Mic 1:3."
+  - id: ane-saa09-007-mullissu-kabtat
+    tradition: ane-akkadian
+    title: "Oracle to Assurbanipal through the prophetess Mullissu-kabtat: the nurse goddess (SAA 9 7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 007 o:1-14", "SAA 09 007 r:1-11"]
+    tags:
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 007 o:1"], note: "Mullissu-kabtat raggintu"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 007 o:2", "SAA 09 007 r:6", "SAA 09 007 r:11"], note: "mā abat šarrati Mullissu šī mā lā tapallah Aššur-bāni-apli"}
+      - {motif: rival-kings-of-lands-conspire, refs: ["SAA 09 007 o:8-11"], note: "šarrāni ša mātāti ana ahāʾiš iqabbûni mā alkāni nillik ina muhhi Aššur-bāni-apli ... mā mīnu ša ilāni ana abbēni ... išīmūni mā ūmâ šū ina birtunni liprus"}
+      - {motif: kings-of-lands-shown-the-way, refs: ["SAA 09 007 o:12-13"], note: "šarrāni ša mātāti tapiʾʾal tahūmāni tukallamšunu"}
+      - {motif: god-carries-king-like-nurse-on-hip, refs: ["SAA 09 007 r:6-10"], note: "ša Mullissu ummašuni ... ša Bēlet-Arbail tārīssuni ... kī tārīti ina muhhi giššiya aššika ... armannu ina birīt tulêya aššakanka ša mūšiya ērak anaṣṣarka ša kal ūme hilpaka addan"}
+      - {motif: king-as-calf-of-goddess, refs: ["SAA 09 007 r:11"], note: "mūri ša anāku urabbûni"}
+      - {motif: obscure-word-explained-by-prophet, refs: ["SAA 09 007 r:3-5"], note: "hallalatti engurāti ... atta taqabbi mā mīnu ... hallalatti ina Muṣur errab engurāte uṣṣâ"}
+      - {motif: enemies-like-tumbleweed-and-chaff, refs: ["SAA 09 007 r:1-2"], note: "tallu giṣṣu ašabbir murdinnu ana nipši anappaš adammūmāte ana šarbi utarra 'I will break the thorn, pluck the bramble into wool tufts, turn wasps into ...'"}
+      - {motif: hug-in-crown-prince-palace, refs: ["SAA 09 007 o:6"], note: "ahaṣṣinka ina bēt ridûti"}
+    hints:
+      - "Kings conspiring 'come, let us go': Ps 2:1-3, Ps 83:4-6. Carried on the hip and dandled on the knees: Isa 66:12-13, Num 11:12, Isa 49:22-23. 'Who watches by night': Ps 121:3-4, Isa 27:3. Thorns and briers burned: Isa 27:4. Egypt: Isa 19."
+  - id: ane-saa09-004-weasels
+    tradition: ane-akkadian
+    title: "Fragmentary oracle to Esarhaddon: weasels caught before his feet (SAA 9 4)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 004 1'-9'"]
+    tags:
+      - {motif: weasels-and-rats-cut-off-before-king, refs: ["SAA 09 004 3'-4'"], note: "kakkišāti ubâra ina pān šēpēka akarrar"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 004 5'"]}
+      - {motif: god-recalls-former-oracles-fulfilled, refs: ["SAA 09 004 6'"], note: "fragmentary: urkiūte akaššad 'the later ones I will conquer'"}
+  - id: ane-saa09-006-tashmetu-eresh
+    tradition: ane-akkadian
+    title: "Fragmentary oracle of Ištar of Arbela through the prophet Tašmētu-ēreš (SAA 9 6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 006 o:1-9", "SAA 09 006 b.e:10", "SAA 09 006 r:1-10", "SAA 09 006 t.e:11-12"]
+    tags:
+      - {motif: throne-established-by-god, refs: ["SAA 09 006 o:2-3"], note: "fragmentary: utaqqan 'I will set in order'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 006 t.e:11-12"], note: "Tašmētu-ēreš raggimu ina libbi Arbail irtugum"}
+      - {motif: goddess-hears-lament-of-her-calf, refs: ["SAA 09 006 r:2-3"], note: "fragmentary: usātu ... asseme 'help ... I heard'"}
+  - id: ane-saa09-002-1-nabu-hussanni
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 2.1: Bānītu speaks to the queen mother, through Nabû-hussanni (SAA 9 2 i)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 002 i:1'-14'"]
+    tags:
+      - {motif: throne-established-by-god, refs: ["SAA 09 002 i:7'"], note: "kussû ša Aššur-ahu-iddina ukâna"}
+      - {motif: enemies-placed-under-kings-feet, refs: ["SAA 09 002 i:11'-12'"], note: "nakarūtēka usappak ina šēpēya ukabbas"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 002 i:13'"], note: "lā tapallihi ummi šarri (addressed to the queen mother, feminine)"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 002 i:14'"], note: "ištu pî Nabû-hussanni Libbālāya"}
+  - id: ane-saa09-002-2-baya
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 2.2: the good sailor; sixty gods at right and left, through Bayâ (SAA 9 2 i)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 002 i:15'-35'"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["SAA 09 002 i:15'"]}
+      - {motif: divine-sailor-holds-ship, refs: ["SAA 09 002 i:16'-17'"], note: "akī malāhi damqi ina kāri ṭābi eleppa ukalla"}
+      - {motif: god-encircles-and-guards-king, refs: ["SAA 09 002 i:18'-20'"], note: "ina battibattika asahhur maṣṣartaka anaṣṣar"}
+      - {motif: gods-at-kings-right-and-left, refs: ["SAA 09 002 i:21'-22'"], note: "60 ilāni ina imittiya 60 ilāni ina šumēliya izzazzū"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 002 i:35'"], note: "ištu pî Bayâ Arbailāya"}
+    hints:
+      - "God brings sailors to their desired haven: Ps 107:30. The Lord encamped around: Ps 34:8, Ps 125:2. Thousands at the right hand: Ps 91:7; host at right and left: 1 Kgs 22:19."
+  - id: ane-saa09-002-3-la-dagil-ili
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 2.3: bird over its young, the good puppy, 'I am the speaker and doer', through Lā-dāgil-ili (SAA 9 2 i-ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 002 i:36'-38'", "SAA 09 002 ii:1'-28'"]
+    tags:
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 002 i:36'"], note: "anāku Bēlet-Arbail"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 002 i:38'"]}
+      - {motif: god-shelters-king-under-wings, refs: ["SAA 09 002 ii:6'-8'"], note: "akī iṣṣūr agappi ina muhhi mūrišu ina muhhika aṣabbur ina battibattika alabbi asahhur 'like a winged bird over its young I hover over you, I go round and round you'"}
+      - {motif: eagle-bearing-young-on-wings, refs: ["SAA 09 002 ii:6'-7'"]}
+      - {motif: divine-puppy-sniffs-out-enemies, refs: ["SAA 09 002 ii:9'-11'"], note: "akī mirāni damqi ina ekallika adūal nakarūtēka uṣṣâna"}
+      - {motif: dynasty-promise-sons-grandsons-rule, refs: ["SAA 09 002 ii:13'-14'"], note: "mārka mār mārika mār mār mārika šarrūtu ina pān Ninurta uppaš"}
+      - {motif: humanity-treacherous, refs: ["SAA 09 002 ii:17'"], note: "amēlūtu ṭullumâ 'mankind is treacherous'"}
+      - {motif: i-speak-and-act, refs: ["SAA 09 002 ii:18'"], note: "anāku šī qābītu ēpissu"}
+      - {motif: fear-driven-from-palace, refs: ["SAA 09 002 ii:11'-12'"], note: "niqittu nirriṭu ušanṣāka 'I will free you from anxiety and trembling'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 002 ii:28'"]}
+    hints:
+      - "Like birds hovering, so YHWH protects Jerusalem: Isa 31:5; Deut 32:11; Ps 91:4. 'I have spoken and I will do it': Isa 46:11, Ezek 17:24, Num 23:19. 'All men are liars': Ps 116:11, Jer 17:9."
+  - id: ane-saa09-002-4-urkittu-sharrat
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 2.4: 'I see and I hear'; Elamites, Manneans, Urartians, through Urkittu-šarrat (SAA 9 2 ii-iii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 002 ii:29'-39'", "SAA 09 002 iii:1'-18'"]
+    tags:
+      - {motif: god-sees-and-hears-disloyalty, refs: ["SAA 09 002 ii:29'-33'"], note: "abat Issār ša Arbail abat šarrati Mullissu adagal assanamme uhaʾʾaṭa lā kēnūti ina qāt šarrīya ašakkan"}
+      - {motif: proclamation-hear-o-people, refs: ["SAA 09 002 ii:34'-36'"], note: "adabbub ana maʾdūti sitammeā napāh šamši rabâ šamši"}
+      - {motif: people-complain-when-will-change-come, refs: ["SAA 09 002 iii:7'-10'"], note: "mā immati immati mātu nakuru ibbašši mā ina Kalhi Ninua lū lā nušab"}
+      - {motif: be-still-and-let-god-act, refs: ["SAA 09 002 iii:11'"], note: "atta lū qālāka Aššur-ahu-iddina 'you, Esarhaddon, keep silent'"}
+      - {motif: who-is-the-wronged-one, refs: ["SAA 09 002 iii:16'"], note: "mannu ēdu mannu hablu 'who is alone, who is wronged?'"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 002 iii:17'"], note: "lā tapallah ina ṣilli Aššur-ahu-iddina 'in the shadow of Esarhaddon'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 002 iii:18'"], note: "ištu pî Urkittu-šarrat Kalhītu"}
+    hints:
+      - "'I have seen and heard': Exod 3:7, Q 20:46 ('I am with you both, I hear and I see'). 'Be still': Exod 14:14 ('YHWH will fight for you, and you shall keep silent'), Ps 46:11. 'How long?': Ps 13:2, Hab 1:2."
+  - id: ane-saa09-002-5-father-and-mother
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 2.5-6: 'I am your father and mother'; Urkittu, between my arms (SAA 9 2 iii-iv)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 002 iii:19'-36'", "SAA 09 002 iv:1'-31'"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["SAA 09 002 iii:19'", "SAA 09 002 iii:29'", "SAA 09 002 iv:14'", "SAA 09 002 iv:20'"]}
+      - {motif: assur-reconciled-with-king, refs: ["SAA 09 002 iii:20'"], note: "ilāni zenûti issi māt Aššur usallam 'I will reconcile the angry gods with Assyria'"}
+      - {motif: i-am-your-father-and-mother, refs: ["SAA 09 002 iii:26'-27'"], note: "anāku abūka ummaka birti agappiya urtabbīka"}
+      - {motif: goddess-as-mother-and-father-of-king, refs: ["SAA 09 002 iii:26'"]}
+      - {motif: god-shelters-king-under-wings, refs: ["SAA 09 002 iii:27'", "SAA 09 002 iii:30'-31'", "SAA 09 002 iv:22'-23'"], note: "birti izirriya ammātiya ašakkanka 'I will put you between my arms'"}
+      - {motif: enemies-lick-dust-or-brought-as-tribute, refs: ["SAA 09 002 iii:23'-25'"], note: "nakarūti ina sigarāte salmūti ina maddanāti ina pān šēpēšu ubbala"}
+      - {motif: kings-throne-firm-for-long-days, refs: ["SAA 09 002 iii:33'-34'", "SAA 09 002 iv:27'"], note: "šarrūtu ša šamê utaqqan"}
+      - {motif: king-as-calf-of-goddess, refs: ["SAA 09 002 iv:20'"], note: "lā tapallah mūrī"}
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 002 iv:8'"], note: "anāku Urkittu naʾidanni"}
+    hints:
+      - "Father and mother: Ps 27:10, Isa 63:16, Isa 66:13; between the arms: Deut 33:27 ('underneath are the everlasting arms'), Deut 33:12."
+  - id: ane-saa09-005-mullissu-hears-calf
+    tradition: ane-akkadian
+    title: "Oracle: Mullissu heard the cry of her calf; Ninurta at the king's right and left (SAA 9 5)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 005 1-8", "SAA 09 005 b.e:9-10", "SAA 09 005 r:1-7"]
+    tags:
+      - {motif: goddess-hears-lament-of-her-calf, refs: ["SAA 09 005 3"], note: "Mullissu ana killi ša mūriša tasseme"}
+      - {motif: goddess-girds-loins-for-battle, refs: ["SAA 09 005 4"], note: "qablēki ruksi 'gird your loins!'"}
+      - {motif: gods-at-kings-right-and-left, refs: ["SAA 09 005 6"], note: "Ninurta imittu u šumēlu"}
+      - {motif: enemies-placed-under-kings-feet, refs: ["SAA 09 005 7", "SAA 09 005 r:4-5"], note: "ayyābīšu ina šapal šēpēšu"}
+    hints:
+      - "Gird your loins: Jer 1:17, Job 38:3; God hears the cry: Exod 2:23-25, Exod 3:7."
+  - id: ane-saa09-009-dunnasha-amur
+    tradition: ane-akkadian
+    title: "Oracle to Assurbanipal through Dunnaša-āmur: the goddess roams the steppe for his life (SAA 9 9)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 009 o:1-28", "SAA 09 009 r:1'-7'"]
+    tags:
+      - {motif: king-son-of-goddess-mullissu, refs: ["SAA 09 009 o:3-5", "SAA 09 009 r:1'-3'"], note: "šinā-ma ina ilāni danna irâma u irâma ana Aššur-bāni-apli binût qātēšina"}
+      - {motif: goddess-roams-steppe-for-king, refs: ["SAA 09 009 o:8-15", "SAA 09 009 o:25"], note: "balāṭaka eršākuma arappuda ṣēru ētanabbir nārāti u tâmāti ētanattiq šadê huršāni ... anhākuma šaddalupāka lānī"}
+      - {motif: goddess-pleads-for-king-in-divine-assembly, refs: ["SAA 09 009 o:16", "SAA 09 009 o:23-24"], note: "ina puhur ilāni kalāme aqṭibi balāṭaka"}
+      - {motif: goddess-intercedes-daily-for-king, refs: ["SAA 09 009 o:20"], note: "ina šaptēya ētanarriš balāṭka"}
+      - {motif: enemies-delivered-for-slaughter, refs: ["SAA 09 009 o:26"], note: "ina libbi ūʾa atebbi ayyābka aṭabbah"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 009 r:4'-7'"], note: "ša pî Dunnaša-āmur mārat Arbail, dated Nisan 18, eponymy of Bēl-šaddûa governor of Tyre (650 BC)"}
+    hints:
+      - "The tireless guardian and intercessor: Isa 62:6-7, Isa 40:28-31; the shepherd searching mountains and rivers: Ezek 34:11-16. Advocate in the divine council: Zech 3, Job 33:23."

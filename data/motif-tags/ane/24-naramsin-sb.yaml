@@ -105,6 +105,32 @@ new_motifs:
   kings-bring-tribute-to-gods-temple: {label: "Kings, governors and princes bring their tribute before the god in his temple", cluster: temple}
   divine-consort-bids-god-rest: {label: "The god's bride bids him 'Rest!' in the bedchamber at the end of his day", cluster: theology}
   no-partiality-in-judgment: {label: "The divine judge shows no partiality (does not 'lift the face') and his verdicts cannot be changed", cluster: justice}
+  storm-god-gathers-clouds-gives-rain: {label: "The storm god gathers the clouds, waters the scorching land and rains down plenty, so the mountains and fields rejoice", cluster: nature}
+  storm-gods-roar-silences-people: {label: "At the storm god's roar the people fall silent, meadows are ruined and fields writhe", cluster: nature}
+  petitioner-vows-to-praise-god-to-peoples: {label: "The petitioner closes: grant my plea, that I may proclaim your greatness and sing your praises to the widespread peoples", cluster: cult}
+  king-prays-against-eclipse-evil: {label: "A named king prays for release from the evil of a lunar eclipse and unfavourable portents in his palace and land", cluster: divination}
+  lightning-strikes-temple-ritual: {label: "When the storm god's thunder or lightning has struck a city's temple, palace or wall, or burned a god's statue, a prayer and ritual are performed", cluster: cult}
+  god-destroys-the-wicked: {label: "The god slaughters the mighty and arrogant and destroys the malevolent and wicked", cluster: justice}
+  god-dispels-evil-dreams-and-portents: {label: "The god resolves (releases) evil, frightening dreams and bad portents and makes evil and sin pass by", cluster: divination}
+  petitioner-vows-to-enrich-temple: {label: "If granted mercy the petitioner vows to endow the god's house lavishly and make its door-bolt drip with oil", cluster: cult}
+  goddess-intercedes-with-high-god: {label: "A goddess is asked to intercede (abbūta ṣabātu) with the high god and speak a favourable word for the petitioner", cluster: cult}
+  let-the-impious-learn-from-my-case: {label: "The sufferer asks that the one who does not fear his god may learn from his example", cluster: theology}
+  god-turns-face-away-in-anger: {label: "The petitioner asks how long the deity's face will be turned away and asks her to turn her neck back", cluster: theology}
+  mother-goddess-creator-of-womb: {label: "The mother goddess is the creator of the womb (bānât šassūri)", cluster: creation}
+  goddess-as-highest-star: {label: "Among all the stars of heaven the goddess's station is the highest", cluster: theology}
+  queen-of-all-the-gods-epithet: {label: "A goddess is hailed as queen of all the gods and lady of heaven and earth", cluster: theology}
+  heaven-and-deep-rejoice-over-deity: {label: "Closing blessing: may heaven rejoice over the deity, the deep be glad, and all the gods bless and magnify her", cluster: cult}
+  god-of-incantation-of-life-revives: {label: "By the wise god's 'incantation of life' the moribund recover and the bonds of witches are released", cluster: magic}
+  ill-wisher-put-to-shame: {label: "The petitioner asks that the one who looks on him with ill will be put to shame and that his own word be heard in the assembly", cluster: theology}
+  personal-gods-stand-at-right-and-left: {label: "Prayer that the personal god stand at the petitioner's right side and the personal goddess at his left", cluster: theology}
+  high-god-lord-of-lords-king-of-kings: {label: "The high god is called lord of lords, king of kings, father and progenitor of the great gods, whose word no god can set aside", cluster: theology}
+  god-appoints-kings-and-makes-weak-equal-strong: {label: "The high god appoints kings and governors, engenders humanity by his word and makes the weak equal to the strong", cluster: kingship}
+  praise-placed-in-mouth-of-people: {label: "Prayer that whoever sees the petitioner speak his praise and that his praise be placed in people's mouths", cluster: theology}
+  god-gives-flood-abundance-and-grain: {label: "The god brings the river-flood and abundance, makes the rivers rejoice and creates grain, the life of the people", cluster: nature}
+  god-creates-humans-and-womb: {label: "The god is addressed as creator of humans and of the womb", cluster: creation}
+  god-creates-the-gods: {label: "The god is said to have created the great gods and to render their verdicts", cluster: theology}
+  gods-kneel-and-praise-high-god: {label: "All the Igigi kneel before the god and the Anunnaki praise his name from their sanctuaries", cluster: theology}
+  god-heaps-up-mountains: {label: "The high god heaps up the mountains and releases heaven and earth", cluster: creation}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -745,3 +771,241 @@ units:
       - {motif: divine-consort-bids-god-rest, refs: ["ShamashHymn SB –:200"], note: "aya kallātu rabītu ina bīt mayyāli maštakīša nūh liqbīka"}
     hints:
       - "Compare Ps 147:16-18 (snow like wool, frost, ice) and Job 38:22-30; Ps 24:7-9 (lift up your heads, O gates); Ps 72:10-11 (kings bring tribute)."
+  - id: ane-shuila-adad-sb-1a-sargon-eclipse
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Adad, with Sargon's insertion against an eclipse (šuʾila Adad 1a)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Adad SB 1a:1-30"]
+    tags:
+      - {motif: storm-theophany-arrows-thunder, refs: ["Shuila Adad SB 1a:1-12"], note: "ūmu lā anīhu ... šākin upê bēl abūbi mušabriq berqi ... nāš aban šamê u išāti, muʾabbit šadî iṣī u abnī"}
+      - {motif: storm-god-gathers-clouds-gives-rain, refs: ["Shuila Adad SB 1a:13-16"], note: "kāṣiri erpeti ina qereb šamê, šāqû anqulli mušaznin nuhši"}
+      - {motif: storm-gods-roar-silences-people, refs: ["Shuila Adad SB 1a:17-20"], note: "ana rigmīšu nišī ušharrara, uhtappâ qerbētu ihillū ṣērū"}
+      - {motif: forgiven-sin-covered, refs: ["Shuila Adad SB 1a:25-26"], note: "puṭur hiṭitī, šutbi gillatī"}
+      - {motif: king-prays-against-eclipse-evil, refs: ["Shuila Adad SB 1a:27a-27d"], note: "anāku šarru-kīn ... ina lumun attalî sîn ša ina arah abu erbēšerû ūmu iššakna"}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Adad SB 1a:27c-27d"]}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Adad SB 1a:28-29"], note: "narbîka lušāpi dalīlīka ludlul"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Adad SB 1a:30"]}
+    hints:
+      - "Compare Ps 29 (the voice of YHWH over the waters, breaking cedars, making the wilderness writhe, ḥûl) and Ps 65:10-14; Ps 18:8-16."
+      - "Compare 'do not be dismayed at the signs of the heavens', Jer 10:2."
+  - id: ane-shuila-adad-sb-1b-mercy-and-witchcraft
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Adad against enemies and witchcraft, with thunder ritual (šuʾila Adad 1b)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Adad SB 1b:1-17", "Shuila Adad SB 1b:1'-25'"]
+    tags:
+      - {motif: storm-theophany-arrows-thunder, refs: ["Shuila Adad SB 1b:1-12"], note: "duplicate opening; muhalliq ṣenni muballû raggi"}
+      - {motif: god-destroys-the-wicked, refs: ["Shuila Adad SB 1b:9-11"], note: "šāgiš gašrūti ... muhalliq ṣenni muballû raggi"}
+      - {motif: catalogue-of-kinds-of-witchcraft, refs: ["Shuila Adad SB 1b:15'"], note: "ai iṭhûni kišpū ruhû rusû upšāšû lemnūtu"}
+      - {motif: god-reconciles-angry-personal-god, refs: ["Shuila Adad SB 1b:17'-19'"], note: "ilī u ištarī sullima ittīya ... aggu libbaka linūha"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Adad SB 1b:22'-25'"], note: "enūma adad ina qereb šamê rigimšu ittanandû ... ūra tašabbiṭ mê ellūti tusallah nignak burāši ... šemât"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Adad SB 1b:20'-21'"]}
+    hints:
+      - "Compare Ps 6:2-5 and 38:2 (rebuke me not in your anger); Ps 54:3-7 (destroy my enemies)."
+  - id: ane-shuila-adad-sb-2-rain-praise
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Adad: mountains rejoice at his sound (šuʾila Adad 2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Adad SB 2:1-17"]
+    tags:
+      - {motif: storm-god-gathers-clouds-gives-rain, refs: ["Shuila Adad SB 2:3-12"], note: "ina rigmīka hadû hursānū, qerbētu huddâ rīšū ugārū ... tušammah ablūtī ... tašammid urqītu"}
+      - {motif: storm-theophany-arrows-thunder, refs: ["Shuila Adad SB 2:5-6"], note: "nāšû berqi bēl abūbi muttabbil šamê mātāti tamâti"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Adad SB 2:13-15"], note: "šumka ṭāba lultammara ana nišī rapšāti"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Adad SB 2:16-17"]}
+    hints:
+      - "Compare Ps 65:13-14 and 96:11-12; 98:8 (the mountains sing for joy, the fields exult)."
+  - id: ane-shuila-adad-sb-3-4-lightning-strike
+    tradition: ane-akkadian
+    title: "Lifted-hand prayers to Adad after lightning strikes a temple (šuʾila Adad 3 incipit and 4)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Adad SB 3:1", "Shuila Adad SB 4:1-43"]
+    tags:
+      - {motif: storm-god-gathers-clouds-gives-rain, refs: ["Shuila Adad SB 4:1-4", "Shuila Adad SB 4:11-12"], note: "šākin upê mušaznin zunni ... gugal šamê erṣeti mušaznin nuhši"}
+      - {motif: hail-and-fire-from-heaven, refs: ["Shuila Adad SB 4:22-26"], note: "ina qabīka išātu ištu šamê turdam-ma ... zunni u abnī berqu išātu ... il ālīya ... uqallûšu"}
+      - {motif: lightning-strikes-temple-ritual, refs: ["Shuila Adad SB 4:24-26", "Shuila Adad SB 4:35-42"], note: "kīma adad rigimšu iddû-ma ekal āli lū bīt il āli uštalpitū ... lū nipih išāti innaphu"}
+      - {motif: god-declares-himself-sole-holder-of-powers, refs: ["Shuila Adad SB 4:10"], note: "ša lā innennû qibīssu"}
+      - {motif: prayer-heard-formula, refs: ["Shuila Adad SB 4:29-32"], note: "leqe unnīnīya mugur supīya; lumun rigmīka lū lā iṭehhâ"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Adad SB 4:34", "Shuila Adad SB 4:38-42"], note: "ūra tašabbiṭ ... paṭīra ... suluppī saskâ ... mersu ... niqâ tanaqqi"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Adad SB 4:33"]}
+    hints:
+      - "Compare fire of God falling from heaven, Job 1:16; 2 Kgs 1:10-12; and Amos 4:7-11; Exod 9:23-24."
+  - id: ane-shuila-anu-sb-1
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Anu, releaser of evil dreams (šuʾila Anu 1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Anu SB 1:1-20"]
+    tags:
+      - {motif: god-dispels-evil-dreams-and-portents, refs: ["Shuila Anu SB 1:5-9a"], note: "pāšir ūmi ... mukallim ṣaddī ... pāšir šunāti lemnēti haṭâti pardāti idāti ittāti lemnēti, mušētiq lumni hiṭīti u gillati"}
+      - {motif: forgiven-sin-covered, refs: ["Shuila Anu SB 1:11-13"], note: "arnī ... gillātī šupṭuru ... mimmû mala ana ilīya u ištarīya ahṭû lippašra"}
+      - {motif: god-reconciles-angry-personal-god, refs: ["Shuila Anu SB 1:14-16"], note: "libbi ilīya u ištarīya zenûti ana ašrīšu litūr"}
+      - {motif: petitioner-vows-to-enrich-temple, refs: ["Shuila Anu SB 1:17"], note: "luṭahhid bītka šigaraka lušaznin šamna"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Anu SB 1:18-19"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Anu SB 1:20"]}
+    hints:
+      - "Compare Ps 116:12-19 and 66:13-15 (vows paid in the house of God); Dan 2:28 (God who reveals mysteries of dreams)."
+  - id: ane-shuila-beletili-sb-1-shamash-shuma-ukin
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Bēlet-ilī, with Šamaš-šuma-ukīn's eclipse insertion (šuʾila Bēlet-ilī 1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Bēlet-ilī SB 1:1-27"]
+    tags:
+      - {motif: seize-hem-of-gods-garment, refs: ["Shuila Bēlet-ilī SB 1:3"], note: "kīma sissikti ilīya u ištarīya sissiktaki aṣbat"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["Shuila Bēlet-ilī SB 1:4-6"], note: "bulluṭu u šullumu bašû ittīki ... eṭēra gamāla u šūzuba tīdî"}
+      - {motif: king-prays-against-eclipse-evil, refs: ["Shuila Bēlet-ilī SB 1:9a-9h", "Shuila Bēlet-ilī SB 1:12a-12c"], note: "anāku šamaš-šuma-ukīn šarru ... ina lumun attalî sîn ša ina arah šabāṭi hamiššerû ūmu ... palhākū-ma adrāku"}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Bēlet-ilī SB 1:9g-9h", "Shuila Bēlet-ilī SB 1:13"], note: "ai iṭhâ ai isniq ai iqriba ai ikšudanni; ina bīri u šutti"}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["Shuila Bēlet-ilī SB 1:13a"], note: "anāku annanna mār annanna ilšu annanna ištaršu annannītu"}
+      - {motif: god-reconciles-angry-personal-god, refs: ["Shuila Bēlet-ilī SB 1:11-12", "Shuila Bēlet-ilī SB 1:16-18"], note: "lušpurki ana ilīya zenî ... il ālīya ša šabsū"}
+      - {motif: goddess-intercedes-with-high-god, refs: ["Shuila Bēlet-ilī SB 1:19-21"], note: "ṣābitat abbūt enši ana marduk ... (restored)"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Bēlet-ilī SB 1:25-27"]}
+    hints:
+      - "Compare grasping the hem (kānāp) of a Jew's garment, Zech 8:23, and the woman touching the hem, Mark 5:27-28; Saul tearing Samuel's hem, 1 Sam 15:27."
+  - id: ane-shuila-beletili-sb-2
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Bēlet-ilī, creator of the womb (šuʾila Bēlet-ilī 2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Bēlet-ilī SB 2:1-22"]
+    tags:
+      - {motif: mother-goddess-creator-of-womb, refs: ["Shuila Bēlet-ilī SB 2:2"], note: "bānât sassūri"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["Shuila Bēlet-ilī SB 2:9-10"], note: "muballiṭat mīti, ina pīki iballuṭ marṣu inessi tānēhšu"}
+      - {motif: goddess-as-highest-star, refs: ["Shuila Bēlet-ilī SB 2:12-13"], note: "ina kala kakkabī šamāmī šaqâti manzāza"}
+      - {motif: prayer-heard-formula, refs: ["Shuila Bēlet-ilī SB 2:16-18"], note: "ana nīš qātīya qūlīm-ma šemî yâti ... šemî ṣīt pīya"}
+    hints:
+      - "Compare God who opens and closes the womb, Gen 29:31; 30:22; 1 Sam 1:5-6; Ps 139:13."
+  - id: ane-shuila-damkina-sb-1-ashurbanipal
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Damkina, with Ashurbanipal's insertion (šuʾila Damkina 1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Damkina SB 1:1-25"]
+    tags:
+      - {motif: queen-of-all-the-gods-epithet, refs: ["Shuila Damkina SB 1:1-8"], note: "damkina šarrat kal ilī šaqūtu, alti ea ... apkallat anunnakkī ... bēlet šamê u erṣeti"}
+      - {motif: king-prays-against-eclipse-evil, refs: ["Shuila Damkina SB 1:9a-9d"], note: "anāku aššur-bāni-apli ša ilšu ninurta ... ina lumun attalî sîn"}
+      - {motif: god-turns-face-away-in-anger, refs: ["Shuila Damkina SB 1:14"], note: "tirrī kišādki ša tašbusu elīya"}
+      - {motif: let-the-impious-learn-from-my-case, refs: ["Shuila Damkina SB 1:17-18"], note: "lā pālih ilīšu u ištarīšu ina qātīya līmur; dannat qātki ātamar šērētki (partly restored)"}
+      - {motif: heaven-and-deep-rejoice-over-deity, refs: ["Shuila Damkina SB 1:20-23"], note: "šamû lihdûki apsu lirīški ... ilū rabûtu libbaki liṭibbū"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Damkina SB 1:25"]}
+    hints:
+      - "Compare Ps 51:15 ('then I will teach transgressors your ways') and Ps 32:4 (your hand was heavy upon me)."
+  - id: ane-shuila-dilbat-sb-1
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Dilbat (Venus): how long, my lady? (šuʾila Dilbat)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Dilbat SB 1:1'-22'"]
+    tags:
+      - {motif: how-long-will-you-neglect-me, refs: ["Shuila Dilbat SB 1:8'-10'"], note: "ina mīnê ugallil; adi mati ... suhhurū pānūki; adi mati ... zēnâti ittīya (largely restored)"}
+      - {motif: god-turns-face-away-in-anger, refs: ["Shuila Dilbat SB 1:9'-12'"]}
+      - {motif: seize-hem-of-gods-garment, refs: ["Shuila Dilbat SB 1:16'-17'"], note: "šapalki akmis, [sissik]ti ilūtīki rabīti aṣbat (restored)"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Dilbat SB 1:19'"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Dilbat SB 1:20'-22'"], note: "burāši ... šalāšīšu tamannū-ma tuškên"}
+    hints:
+      - "Compare Ps 13:2-3 ('how long will you hide your face from me?') and Ps 89:47; Job 7:20-21 ('what have I done?')."
+  - id: ane-shuila-ea-sb-1a-banitu-teresh
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Ea, with Banītu-tēreš's insertion against portents and witchcraft (šuʾila Ea 1a)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ea SB 1a:1-32", "Shuila Ea SB 1a:11'-16'"]
+    tags:
+      - {motif: wise-god-as-sage-carpenter-and-purifier, refs: ["Shuila Ea SB 1a:1-5", "Shuila Ea SB 1a:12"], note: "šar nēmeqi bānû tašīmti ... apkal igigî ... ana ilī rabûti tanamdin milka"}
+      - {motif: god-gives-flood-abundance-and-grain, refs: ["Shuila Ea SB 1a:6-8"], note: "bābil mīli u hengalli murīš nārāti ... tušabši napišti nišī ašnan"}
+      - {motif: god-of-incantation-of-life-revives, refs: ["Shuila Ea SB 1a:13", "Shuila Ea SB 1a:23-26"], note: "ina têka ša balāṭi inêš mītu; rikis kaššāpi u kaššapti lipaṭṭir šipti ša eridu"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Shuila Ea SB 1a:23-26"]}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Ea SB 1a:14a-14e", "Shuila Ea SB 1a:22"], note: "banītu-tēreš ... ša ilšu sîn ištaršu ningal ... ina bītīya ibšâ; ai iqribanni"}
+      - {motif: god-lifts-the-head, refs: ["Shuila Ea SB 1a:15"], note: "ulli rēšīya ibi šumī"}
+      - {motif: heaven-and-deep-rejoice-over-deity, refs: ["Shuila Ea SB 1a:28-30"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ea SB 1a:31-32"], note: "variants address it to Enlilbanda, Enki or Marduk"}
+      - {motif: god-creates-humans-and-womb, refs: ["Shuila Ea SB 1a:12'-13'"], note: "ša tabnû amīlū ... ša tabnâ šassūri (fragmentary)"}
+    hints:
+      - "Compare Ps 3:4 ('the lifter of my head'), Ps 65:10 (the river of God full of water, providing grain)."
+  - id: ane-shuila-ea-sb-1b-2
+    tradition: ane-akkadian
+    title: "Lifted-hand prayers to Ea, creator of everything (šuʾila Ea 1b and 2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ea SB 1b:1'-8'", "Shuila Ea SB 2:1-17"]
+    tags:
+      - {motif: praise-placed-in-mouth-of-people, refs: ["Shuila Ea SB 1b:4'-6'"], note: "līpuš āmirī ... ina pī nišī liššakin tanitta"}
+      - {motif: creator-without-whom-nothing-was-formed, refs: ["Shuila Ea SB 2:1-9"], note: "bēlu mūdû bānû kalāma ... bānû tenēšēti ... muštēšir gamerti mimma šumšu"}
+      - {motif: god-creates-the-gods, refs: ["Shuila Ea SB 2:16-17"], note: "attā-ma ša tabnû ilī rabûti, purussê ilī attā-ma"}
+      - {motif: gods-kneel-and-praise-high-god, refs: ["Shuila Ea SB 2:10-14"], note: "igigî kullassunu maharka kamsū ... anu ellil hadiš rīšūka"}
+    hints:
+      - "Compare Ps 104:24 and Prov 3:19-20 (by wisdom he founded the earth); Q 6:101-102 (creator of all things)."
+  - id: ane-shuila-enlil-sb-1a
+    tradition: ane-akkadian
+    title: "Lifted-hand prayer to Enlil, lord of lords and king of kings, against an eclipse (šuʾila Enlil 1a)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Enlil SB 1a:1-29", "Shuila Enlil SB 1a:26'-27'"]
+    tags:
+      - {motif: high-god-lord-of-lords-king-of-kings, refs: ["Shuila Enlil SB 1a:1-11"], note: "šadû igigî ... ša lā uttakkaru epēš pīšu ... bēl bēlī šar šarrī abu ālid ilī rabûti, bēl šīmāti"}
+      - {motif: god-declares-himself-sole-holder-of-powers, refs: ["Shuila Enlil SB 1a:5-6", "Shuila Enlil SB 1a:10", "Shuila Enlil SB 1a:26'-27'"], note: "ša lā innennû qibīssu"}
+      - {motif: king-prays-against-eclipse-evil, refs: ["Shuila Enlil SB 1a:11a-11c"]}
+      - {motif: god-appoints-kings-and-makes-weak-equal-strong, refs: ["Shuila Enlil SB 1a:12-15"], note: "ina qabîkā-ma ūtalladā tenēšēti, ša šarri u šakkanakki šumīšunu tazakkar ... u enša tušamṣû mala danni"}
+      - {motif: god-reverses-fortunes-of-weak-and-strong, refs: ["Shuila Enlil SB 1a:15"]}
+      - {motif: ill-wisher-put-to-shame, refs: ["Shuila Enlil SB 1a:24"], note: "āmiru libāšanni ina puhri lū šemât qibītī"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Enlil SB 1a:26-28"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Enlil SB 1a:29"]}
+    hints:
+      - "Compare Deut 10:17 (God of gods and Lord of lords), Dan 2:21, 37 (he sets up kings), 1 Sam 2:7-8, Ps 75:8; Q 3:26."
+      - "Compare Ps 25:2-3; 35:26 (let those who rejoice at my hurt be put to shame)."
+  - id: ane-shuila-enlil-sb-1b-2
+    tradition: ane-akkadian
+    title: "Lifted-hand prayers to Enlil: personal gods at right and left (šuʾila Enlil 1b and 2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Enlil SB 1b:1-39", "Shuila Enlil SB 1b:x+1-x+2", "Shuila Enlil SB 2:1-6"]
+    tags:
+      - {motif: high-god-lord-of-lords-king-of-kings, refs: ["Shuila Enlil SB 1b:1-15"], note: "hāmim kullati ... mūdû têrēt nišī hāʾiṭ kibrāti ... bēl bēlī šar šarrī"}
+      - {motif: god-appoints-kings-and-makes-weak-equal-strong, refs: ["Shuila Enlil SB 1b:16-17"]}
+      - {motif: praise-placed-in-mouth-of-people, refs: ["Shuila Enlil SB 1b:23-25"]}
+      - {motif: personal-gods-stand-at-right-and-left, refs: ["Shuila Enlil SB 1b:27-30"], note: "ilī lizziz ina imittīya, ištarī lizziz ina šumēlīya, ilu mušallimu ina idīya lū kayyān"}
+      - {motif: god-reconciles-angry-personal-god, refs: ["Shuila Enlil SB 1b:32-36"], note: "libbi ilīya u ištarīya zenûti šabsūti u kummulūti ... sullimam-ma"}
+      - {motif: petitioner-vows-to-praise-god-to-peoples, refs: ["Shuila Enlil SB 1b:37-38"], note: "ūmīšam-ma adi ūm balṭāku"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Enlil SB 1b:39", "Shuila Enlil SB 1b:x+2"], note: "[qibīssu] šemât"}
+      - {motif: god-heaps-up-mountains, refs: ["Shuila Enlil SB 2:3-4"], note: "Enlil 2 incipit only: [pāši]r šamê erṣeti, mutabbik huršāni"}
+    hints:
+      - "Compare Ps 16:8; 121:5 (YHWH at my right hand, your shade at your right hand) and Ps 104:33 (I will sing to YHWH as long as I live)."
+  - id: ane-shuila-guanna-gud-incipits
+    tradition: ane-akkadian
+    title: "Incipits of lifted-hand prayers to Guanna and to Gud"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Guanna SB 1:1", "Shuila Gud SB 1:1"]
+    tags:
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Guanna SB 1:1", "Shuila Gud SB 1:1"], note: "only the incipits survive: en2 bēlu [...]; en2 aplu gašru [...]"}
