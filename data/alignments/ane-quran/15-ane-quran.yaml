@@ -1,0 +1,1203 @@
+# ANE x Quran side-by-side pass, chunk 15 (SAA 20 Assyrian rituals and god-lists, Cyrus Cylinder, Sennacherib 22, Esarhaddon 1, 104, 105, Nabonidus 3, 28, 47, 2001). Judged blind, from the originals.
+new_motifs:
+  circuit-round-the-god-s-house:
+    label: The god's house is gone round (circumambulated) as a rite
+    cluster: ritual
+  name-pronounced-over-the-sacrifice:
+    label: When the sacrifice is made, the name of the deity it is offered to is pronounced (šuma zakāru / dhikr ism)
+    cluster: ritual
+  names-invoked-morning-and-evening:
+    label: The divine name(s) are to be pronounced at morning and at evening
+    cluster: liturgy
+  place-name-yathrib:
+    label: The Arabian oasis Yathrib (Akkadian Iatribu) is named
+    cluster: geography
+  woman-rules-an-arabian-people:
+    label: A woman rules an Arabian people as queen
+    cluster: kingship
+  dream-of-star-and-moon:
+    label: 'A future ruler dreams of a star (stars) and the moon in the sky, turned toward him, and tells the dream to an elder: what is seen and who is told [neutral]'
+    cluster: kingship
+  jealous-brothers-plot-against-the-favoured-son:
+    label: The elder brothers, jealous of the son their father favours, plot evil against him
+    cluster: patriarchs
+  brothers-and-the-father-s-heart:
+    label: What the jealous brothers do, or plan, with their father's favour toward the chosen son [neutral]
+    cluster: patriarchs
+  reach-from-sunrise-to-sunset:
+    label: A god-empowered king goes, or rules, from the place of the sun's rising to the place of its setting
+    cluster: kingship
+  few-troops-defeat-a-vast-army:
+    label: By the deity's will a small force defeats a vast army
+    cluster: war
+  multitude-rising-like-locusts:
+    label: A multitude rising or pouring out is likened to a swarm of locusts
+    cluster: parable
+  death-and-its-fixed-day:
+    label: Whether a man can die on a day other than his fixed one, and by whose command [neutral]
+    cluster: theology
+  divine-command-not-said-twice:
+    label: 'The high god''s command is spoken once only: not twice, not turned back'
+    cluster: theology
+  god-shows-the-builder-the-site-of-his-house:
+    label: The deity shows or assigns to the builder the site (old foundation) of the deity's house
+    cluster: cult
+  god-raises-the-devotee-s-name:
+    label: The deity raises up the devotee and gives him or her a lasting good name
+    cluster: theology
+reviewed:
+- unit: ane-saa20-003-daily-offerings-23-25
+  checked:
+  - quran-73-enwrapped
+  - quran-79-pharaoh-and-cosmos
+  - quran-11-opening-throne-on-water
+  matches: []
+- unit: ane-saa20-020-ishtar-bed-rite
+  checked:
+  - quran-6-pagan-offerings-cattle
+  - quran-22-abraham-house-pilgrimage
+  - quran-56-waqia-three-classes-and-the-garden
+  matches: []
+- unit: ane-saa20-045-god-list-names-invoked
+  checked:
+  - quran-9-bargain-abraham
+  - quran-22-abraham-house-pilgrimage
+  - quran-23-lordship-arguments
+  matches: []
+- unit: ane-saa20-032-daughter-of-river-ritual
+  checked:
+  - quran-100-chargers
+  - quran-37-hell-and-garden
+  - quran-74-cloaked
+  matches: []
+- unit: ane-saa20-019-ninittu-kulittu-pit
+  checked:
+  - quran-47-muhammad-battle-and-rivers
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa20-042-o-gods-bidden-drink
+  checked:
+  - quran-9-bargain-abraham
+  - quran-22-abraham-house-pilgrimage
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-saa20-042-r-blessings-for-king
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa20-015-o-akitu-and-spring
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  - quran-73-enwrapped
+  matches: []
+- unit: ane-saa20-015-r-recitations
+  checked:
+  - quran-2-abrogation-polemic
+  - quran-5-jesus-miracles-table
+  - quran-43-zukhruf-jesus-and-paradise
+  - quran-76-the-human
+  - quran-73-enwrapped
+  matches:
+  - with: quran-76-the-human
+    motif: names-invoked-morning-and-evening
+    refs:
+    - SAA 20 015 r.i:15'-18'
+    with_refs:
+    - '76:25'
+    relation: echo
+    record:
+      agent:
+      - the officiant
+      - the prophet
+      action:
+      - pronounces the name(s)
+      - pronounces the name
+      time:
+      - morning and evening (šērtu, nubattu)
+      - morning and evening (bukra, aṣīl)
+      name:
+      - the gods of the temples of Nineveh
+      - your Lord
+      quoted:
+      - ina šērti nubatti šumēšunu tazakkar
+      - wa-dhkuri sma rabbika bukratan wa-aṣīlā
+    note: ina šērti nubatti šumēšunu tazakkar 'at morning and evening you pronounce their names' ~ wa-dhkuri sma rabbika bukratan wa-aṣīlā 'pronounce the name of your Lord morning and evening' (76:25). Same verb-plus-name phrase (šuma zakāru / dhakara sma) and the same two times of day.
+- unit: ane-saa20-015-r-message-seal-colophon
+  checked:
+  - quran-43-zukhruf-book-and-daughters
+  - quran-3-imran-mary-zechariah
+  - quran-13-messengers-and-mother-of-book
+  matches: []
+- unit: ane-saa20-044-gods-of-ehursagkurkurra
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-48-fath-tree-hudaybiya-and-seed
+  - quran-27-is-there-a-god-with-god
+  matches: []
+- unit: ane-saa20-001-o-king-in-assur-temple
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  - quran-11-opening-throne-on-water
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: circuit-round-the-god-s-house
+    refs:
+    - SAA 20 001 o:28
+    with_refs:
+    - '22:29'
+    - '22:26'
+    relation: parallel
+    record:
+      agent:
+      - the priest of Aššur
+      - the pilgrims
+      action:
+      - go round the god's house
+      - go round the god's house
+      object:
+      - the house of Aššur and its shrines
+      - the Ancient House
+      quoted:
+      - šangû ša Aššur sihirti bēti u ekurrāti ilabbi
+      - wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq; li-ṭ-ṭāʾifīn
+    note: šangû ša Aššur sihirti bēti u ekurrāti ilabbi (lawû 'to go round') ~ wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq (22:29), 'purify my house li-ṭ-ṭāʾifīn' (22:26). The same act on the same object; in Assur the priest (or the king) makes the circuit inside the rite, in the Quran the pilgrims do.
+- unit: ane-saa20-001-r-procession-bit-dagan
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-20-moses-pharaoh-magicians
+  - quran-9-bargain-abraham
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: circuit-round-the-god-s-house
+    refs:
+    - SAA 20 001 r:4
+    with_refs:
+    - '22:29'
+    - '22:26'
+    relation: parallel
+    record:
+      agent:
+      - the priest
+      - the pilgrims
+      action:
+      - go round the god's house
+      - go round the god's house
+      object:
+      - the house of the god
+      - the Ancient House
+      quoted:
+      - šangû labīta ilabbi
+      - wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq; li-ṭ-ṭāʾifīn
+    note: šangû labīta ilabbi (lawû 'to go round') ~ wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq (22:29), 'purify my house li-ṭ-ṭāʾifīn' (22:26). The same act on the same object; in Assur the priest (or the king) makes the circuit inside the rite, in the Quran the pilgrims do.
+- unit: ane-saa20-011-king-in-temple-day-8
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  - quran-79-pharaoh-and-cosmos
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: circuit-round-the-god-s-house
+    refs:
+    - SAA 20 011 o:14
+    with_refs:
+    - '22:29'
+    - '22:26'
+    relation: parallel
+    record:
+      agent:
+      - the priest of Aššur
+      - the pilgrims
+      action:
+      - go round the god's house
+      - go round the god's house
+      object:
+      - the house of Aššur and its shrines
+      - the Ancient House
+      quoted:
+      - šangû ša Aššur bēta iltibi
+      - wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq; li-ṭ-ṭāʾifīn
+    note: šangû ša Aššur bēta iltibi (lawû 'to go round') ~ wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq (22:29), 'purify my house li-ṭ-ṭāʾifīn' (22:26). The same act on the same object; in Assur the priest (or the king) makes the circuit inside the rite, in the Quran the pilgrims do.
+- unit: ane-saa20-010-king-in-temple-days-17-21
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-20-moses-pharaoh-magicians
+  - quran-48-fath-tree-hudaybiya-and-seed
+  - quran-22-abraham-house-pilgrimage
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: circuit-round-the-god-s-house
+    refs:
+    - SAA 20 010 b.e:12
+    with_refs:
+    - '22:29'
+    - '22:26'
+    relation: parallel
+    record:
+      agent:
+      - the priest
+      - the pilgrims
+      action:
+      - go round the god's house
+      - go round the god's house
+      object:
+      - the house of the god
+      - the Ancient House
+      quoted:
+      - šangû sihirti bēti u ekurrāti iltibi
+      - wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq; li-ṭ-ṭāʾifīn
+    note: šangû sihirti bēti u ekurrāti iltibi (lawû 'to go round') ~ wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq (22:29), 'purify my house li-ṭ-ṭāʾifīn' (22:26). The same act on the same object; in Assur the priest (or the king) makes the circuit inside the rite, in the Quran the pilgrims do.
+- unit: ane-saa20-037-takultu-recitations
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-74-cloaked
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa20-021-lady-of-mountains
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa20-017-nisan-ishtar-assuritu
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-abraham-house-pilgrimage
+  - quran-7-moses-pharaoh
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: circuit-round-the-god-s-house
+    refs:
+    - SAA 20 017 o:14
+    with_refs:
+    - '22:29'
+    - '22:26'
+    relation: parallel
+    record:
+      agent:
+      - the king
+      - the pilgrims
+      action:
+      - go round the god's house
+      - go round the god's house
+      object:
+      - the house of the god
+      - the Ancient House
+      quoted:
+      - idāte idāte šarru ištu bēt-ili bēt-ili ilabbi
+      - wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq; li-ṭ-ṭāʾifīn
+    note: idāte idāte šarru ištu bēt-ili bēt-ili ilabbi (lawû 'to go round') ~ wa-l-yaṭṭawwafū bi-l-bayti l-ʿatīq (22:29), 'purify my house li-ṭ-ṭāʾifīn' (22:26). The same act on the same object; in Assur the priest (or the king) makes the circuit inside the rite, in the Quran the pilgrims do.
+- unit: ane-saa20-030-gula-banquet
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-74-cloaked
+  matches: []
+- unit: ane-saa20-050-temple-duty-roster
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-48-fath-tree-hudaybiya-and-seed
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-saa20-051-temple-officials
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-23-believers-succeed
+  - quran-4-trusts-obedience
+  matches: []
+- unit: ane-saa20-014-eršahunga-list
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-17-polemic-and-resurrection
+  - quran-4-prophets-and-trinity
+  matches: []
+- unit: ane-saa20-038-o-takultu-gods
+  checked:
+  - quran-9-bargain-abraham
+  - quran-22-abraham-house-pilgrimage
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-saa20-038-r-blessings
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-73-enwrapped
+  matches: []
+- unit: ane-saa20-038-r-v-recitations
+  checked:
+  - quran-74-cloaked
+  - quran-5-jesus-miracles-table
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa20-039-god-list-fragment
+  checked:
+  - quran-9-bargain-abraham
+  - quran-6-abraham-heavenly-bodies
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa20-012-lament-calendar
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-73-enwrapped
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa20-013-laments-to-remove-enemy
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-85-constellations
+  matches: []
+- unit: ane-saa20-034-funerary-ritual
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-36-trumpet-and-judgment
+  - quran-22-quake-and-resurrection-proofs
+  matches: []
+- unit: ane-saa20-040-o-takultu-gods-and-blessings
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-9-bargain-abraham
+  - quran-22-signs-and-rites
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: name-pronounced-over-the-sacrifice
+    refs:
+    - SAA 20 040 o.v:14-16
+    - SAA 20 040 o.v:21-23
+    with_refs:
+    - '22:34'
+    - '22:36'
+    - '22:28'
+    relation: echo
+    record:
+      agent:
+      - the officiant
+      - every community
+      action:
+      - pronounces the name over the sacrifice
+      - pronounces the name over the sacrifice
+      object:
+      - sacrifices before Šamaš and before Sîn
+      - livestock (bahīmat al-anʿām); the budn camels
+      name:
+      - the gods listed (Šamaš, Ea, Bunene ...; Sîn, Nikkal ...)
+      - Allāh
+      quoted:
+      - kī nīqī ina pān Šamaš naqûni šumēšunu tazakkar
+      - li-yadhkurū sma llāhi ʿalā mā razaqahum min bahīmati l-anʿām; fa-dhkurū sma llāhi ʿalayhā ṣawāffa
+    note: 'kī nīqī ina pān Šamaš (Sîn) ... šumēšunu tazakkar ''when sacrifices are made before Šamaš (Sîn), you pronounce their names'' ~ li-yadhkurū sma llāhi ʿalā mā razaqahum (22:34), fa-dhkurū sma llāhi ʿalayhā (22:36). The phrase is the same on both sides: šuma zakāru and dhakara sma, ''to pronounce the name'', said over the offered animals. The names differ: a list of gods, against the one name of God (22:34 fa-ilāhukum ilāhun wāḥid).'
+- unit: ane-saa20-040-r-i-iii-gods-of-cities
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-9-bargain-abraham
+  - quran-4-prophets-and-trinity
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: name-pronounced-over-the-sacrifice
+    refs:
+    - SAA 20 040 r.ii:22'-25'
+    with_refs:
+    - '22:34'
+    - '22:36'
+    relation: echo
+    record:
+      agent:
+      - the officiant
+      - every community
+      action:
+      - pronounces the name over the sacrifice
+      - pronounces the name over the sacrifice
+      place:
+      - before the stables (urāte)
+      - null
+      quoted:
+      - kī nīqī ša pān urāte ēpušūni šumēšunu tazakkar
+      - li-yadhkurū sma llāhi ʿalā mā razaqahum min bahīmati l-anʿām
+    note: kī nīqī ša pān urāte ēpušūni šumēšunu tazakkar 'when the sacrifices before the stables are made, you pronounce their names' ~ li-yadhkurū sma llāhi ʿalā ... bahīmati l-anʿām (22:34). The same formula as SAA 20 040 o.v:14-16.
+- unit: ane-saa20-040-r-iv-vi-blessings-stars
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-62-jumua-unlettered-donkey-and-friday
+  matches: []
+- unit: ane-saa20-022-goddess-bath
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-5-jesus-miracles-table
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa20-016-o-ishtar-siru
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-22-abraham-house-pilgrimage
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa20-016-r-ishtar-lady-of-heaven
+  checked:
+  - quran-4-satan-vows-share
+  - quran-78-the-tiding
+  - quran-5-jesus-miracles-table
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa20-025-o-tukulti-ninurta-river-rite
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-25-signs-shadow-seas
+  matches: []
+- unit: ane-saa20-025-r-release-of-evil
+  checked:
+  - quran-74-cloaked
+  - quran-3-misers-mockers
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-saa20-031-singer-rite-for-sacrificer
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-79-pharaoh-and-cosmos
+  - quran-20-moses-call
+  matches: []
+- unit: ane-saa20-033-palace-banquet
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-5-ablution-covenant-justice
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-saa20-002-i-day-18
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-22-abraham-house-pilgrimage
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa20-002-r-days-20-22
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-7-moses-pharaoh
+  - quran-27-solomon-ants-hoopoe-sheba
+  matches: []
+- unit: ane-saa20-018-war-ritual-arrows
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-saa20-046-takultu-fragment
+  checked:
+  - quran-9-bargain-abraham
+  - quran-27-is-there-a-god-with-god
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa20-047-takultu-fragment
+  checked:
+  - quran-15-prologue-and-heavens
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-saa20-028-ritual-fragment
+  checked:
+  - quran-52-tur-garden-and-challenge
+  - quran-78-the-tiding
+  - quran-25-signs-shadow-seas
+  matches: []
+- unit: ane-saa20-004-ritual-fragment
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-saa-20-026-sin-natu-ritual
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-76-the-human
+  - quran-74-cloaked
+  matches: []
+- unit: ane-saa-20-024-lady-of-mountain-natu
+  checked:
+  - quran-74-cloaked
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa-20-027-nusku-ritual
+  checked:
+  - quran-74-cloaked
+  - quran-11-opening-throne-on-water
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa-20-008-assur-brazier-rite
+  checked:
+  - quran-73-enwrapped
+  - quran-79-pharaoh-and-cosmos
+  - quran-39-pure-religion
+  matches: []
+- unit: ane-saa-20-049-assur-gods-in-temples
+  checked:
+  - quran-9-bargain-abraham
+  - quran-48-fath-tree-hudaybiya-and-seed
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-saa-20-049-assur-gates-and-temples
+  checked:
+  - quran-85-constellations
+  - quran-79-pharaoh-and-cosmos
+  - quran-15-prologue-and-heavens
+  matches: []
+- unit: ane-saa-20-048-god-list-fragment
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-48-fath-tree-hudaybiya-and-seed
+  - quran-9-bargain-abraham
+  matches: []
+- unit: ane-cyrus-ii-01-marduk-chooses-cyrus
+  checked:
+  - quran-3-sovereignty
+  - quran-3-badr-uhud
+  - quran-17-iblis-and-adam
+  matches: []
+- unit: ane-cyrus-ii-01-cyrus-restores
+  checked:
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-7-idol-request
+  matches: []
+- unit: ane-cyrus-ii-01-offerings-and-wall
+  checked:
+  - quran-2-talut-jalut
+  - quran-28-pharaohs-tower-and-end
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-sennacherib-022-titulary
+  checked:
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-7-moses-pharaoh
+  - quran-18-dhul-qarnayn
+  matches:
+  - with: quran-18-dhul-qarnayn
+    motif: reach-from-sunrise-to-sunset
+    refs:
+    - Sennacherib 022 i:13-15
+    with_refs:
+    - 18:86
+    - 18:90
+    relation: echo
+    record:
+      agent:
+      - Sennacherib
+      - Dhū l-Qarnayn
+      place:
+      - the upper sea of the sunset; the lower sea of the sunrise
+      - a muddy spring where the sun sets; the place where it rises
+      quoted:
+      - ištu tâmti elēnīti ša šalām šamši adi tâmtim šaplīti ša ṣīt šamši
+      - taghrubu fī ʿaynin ḥamiʾa ... maṭliʿa sh-shams
+    note: ištu tâmti elēnīti ša šalām šamši adi tâmtim šaplīti ša ṣīt šamši 'from the upper sea of the setting sun to the lower sea of the rising sun' ~ wajadahā taghrubu fī ʿaynin ḥamiʾa 'he found it setting in a muddy spring' (18:86) and maṭliʿa sh-shams (18:90). The world-king's range runs to a water at the sun's setting; for Sennacherib it is the sea, for Dhū l-Qarnayn a spring.
+- unit: ane-sennacherib-022-first-campaign
+  checked:
+  - quran-8-ratio-captives
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-29-destroyed-nations
+  matches: []
+- unit: ane-sennacherib-022-second-campaign
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-sennacherib-022-third-campaign-phoenicia
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-2-talut-jalut
+  - quran-29-destroyed-nations
+  matches: []
+- unit: ane-sennacherib-022-third-campaign-judah
+  checked:
+  - quran-8-ratio-captives
+  - quran-29-destroyed-nations
+  - quran-59-hashr-banu-nadir-and-fay
+  matches: []
+- unit: ane-sennacherib-022-fourth-campaign
+  checked:
+  - quran-8-ratio-captives
+  - quran-29-destroyed-nations
+  - quran-59-hashr-banu-nadir-and-fay
+  matches: []
+- unit: ane-sennacherib-022-fifth-campaign
+  checked:
+  - quran-20-sea-crossing-sinai
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-sennacherib-022-sixth-campaign
+  checked:
+  - quran-20-sea-crossing-sinai
+  - quran-8-ratio-captives
+  - quran-29-destroyed-nations
+  matches: []
+- unit: ane-sennacherib-022-seventh-campaign
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-8-fifth-and-badr-vision
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-3-badr-uhud
+  matches:
+  - with: quran-3-badr-uhud
+    motif: death-and-its-fixed-day
+    refs:
+    - Sennacherib 022 v:11-14
+    with_refs:
+    - 3:145
+    relation: divergence
+    record:
+      agent:
+      - Kudur-Nahhunte, king of Elam
+      - any soul (nafs)
+      action:
+      - dies by the god's command
+      - dies by God's leave
+      time:
+      - on a day not his fate (ina ūme lā šīmtišu), within 3 months
+      - only at a written, fixed term (kitāban muʾajjalan)
+      quoted:
+      - ina qibīt Aššur ... ina ūme lā šīmtišu urruhiš imtūt
+      - wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalā
+    note: 'ina qibīt Aššur bēliya ... 3 arhī ul umallīma ina ūme lā šīmtišu urruhiš imtūt ''at the command of Aššur my lord ... he did not complete three months; on a day not his fate he died suddenly'' ~ wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalā ''no soul may die except by God''s leave, at a term written'' (3:145). On both sides death comes at the deity''s command. The difference is the fixed day: Assur''s command can strike a man ''on a day not his fate'', while in the Quran death comes only at the written term.'
+- unit: ane-sennacherib-022-halule
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-3-badr-uhud
+  - quran-105-elephant
+  - quran-54-qamar-moon-split-and-noah
+  matches:
+  - with: quran-54-qamar-moon-split-and-noah
+    motif: multitude-rising-like-locusts
+    refs:
+    - Sennacherib 022 v:55-57
+    with_refs:
+    - '54:7'
+    relation: echo
+    record:
+      agent:
+      - the allied armies of Elam and Babylon
+      - the dead raised at the Hour
+      action:
+      - rise and pour out like locusts
+      - rise and pour out like locusts
+      quoted:
+      - kīma tibût aribi maʾdi ša pān šatti
+      - yakhrujūna mina l-ajdāthi ka-annahum jarādun muntashir
+    note: 'kīma tibût aribi maʾdi ša pān šatti mitḫāriš ... tebûni ṣēruʾa ''like the rising of a great swarm of locusts in spring they rose against me'' ~ yakhrujūna mina l-ajdāthi ka-annahum jarādun muntashir ''they come out of the graves as if they were spreading locusts'' (54:7). The same simile for a multitude rising all together: in Assyria an enemy host, in the Quran the dead at the resurrection.'
+- unit: ane-sennacherib-022-palace
+  checked:
+  - quran-28-pharaohs-tower-and-end
+  - quran-89-dawn
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-esarhaddon-001-accession
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-8-fifth-and-badr-vision
+  - quran-2-talut-jalut
+  - quran-12-joseph-full
+  matches:
+  - with: quran-12-joseph-full
+    motif: father-favors-son
+    refs:
+    - Esarhaddon 001 i:8-12
+    with_refs:
+    - '12:8'
+    relation: parallel
+    record:
+      agent:
+      - the father (Sennacherib)
+      - the father (Jacob)
+      action:
+      - favours a younger son over his elder brothers
+      - favours a younger son over his elder brothers
+      object:
+      - Esarhaddon, the youngest of his elder brothers
+      - Joseph and his brother
+      quoted:
+      - ša ahhēya rabûti ahhūšunu ṣehru anāku ... ina puhur ahhēya rēšīya kēniš ullīma
+      - la-yūsufu wa-akhūhu aḥabbu ilā abīnā minnā wa-naḥnu ʿuṣba
+    note: ša ahhēya rabûti ahhūšunu ṣehru anāku ... abu bānûa ina puhur ahhēya rēšīya kēniš ullīma 'I was the youngest of my elder brothers; my father raised my head in the assembly of my brothers' ~ la-yūsufu wa-akhūhu aḥabbu ilā abīnā minnā wa-naḥnu ʿuṣba (12:8). The father lifts the younger son above the band of his elder brothers.
+  - with: quran-12-joseph-full
+    motif: jealous-brothers-plot-against-the-favoured-son
+    refs:
+    - Esarhaddon 001 i:23-28
+    with_refs:
+    - '12:5'
+    - '12:8'
+    - '12:9'
+    relation: parallel
+    record:
+      agent:
+      - the elder brothers
+      - the elder brothers
+      action:
+      - plot evil against the favoured son
+      - plot evil against the favoured son
+      instrument:
+      - slander and lies (lišān lemutti, karṣī, surrāti)
+      - a plan to kill or cast him out
+      quoted:
+      - riddu qinû eli ahhēya ittabikma ... ikappudū lemutta
+      - fa-yakīdū laka kaydā; uqtulū yūsufa awi ṭraḥūhu arḍā
+    note: riddu qinû eli ahhēya ittabikma ... ikappudū lemutta 'persecution and jealousy fell on my brothers ... they plotted evil' ~ fa-yakīdū laka kaydā (12:5) and uqtulū yūsufa awi ṭraḥūhu arḍā (12:9). Jealousy of the father's choice turns the elder brothers to plotting.
+  - with: quran-12-joseph-full
+    motif: brothers-and-the-father-s-heart
+    refs:
+    - Esarhaddon 001 i:29-31
+    - Esarhaddon 001 i:38-40
+    with_refs:
+    - '12:9'
+    - '12:15'
+    relation: divergence
+    record:
+      agent:
+      - the elder brothers
+      - the elder brothers
+      action:
+      - turn the father's heart against him
+      - remove him so the father's face is theirs
+      outcome:
+      - the father still pities him in secret; the gods hide him in a secret place
+      - the brothers themselves put him in the depths of the well
+      quoted:
+      - libbi abiya ša lā ilāni uzennû ittiya; šaplānu libbašu rēma rašīšuma ... ašar niṣirti ušēšibūnima
+      - yakhlu lakum wajhu abīkum; fī ghayābati l-jubb
+    note: 'libbi abiya ša lā ilāni uzennû ittiya šaplānu libbašu rēma rašīšuma ''they turned my father''s heart against me, against the gods'' will, but deep down his heart had pity on me'' ~ uqtulū yūsufa ... yakhlu lakum wajhu abīkum ''so that your father''s face will be yours alone'' (12:9). The brothers aim at the father''s favour on both sides; in Assur they manage to estrange him, though he still pities the son in secret, while in the Quran they plan to win it for themselves by getting rid of Joseph. Hiding also changes hands: the gods set Esarhaddon ''in a secret place'' (ašar niṣirti, i:39) to protect him, while the brothers throw Joseph fī ghayābati l-jubb (12:15).'
+- unit: ane-esarhaddon-001-titulary
+  checked:
+  - quran-2-talut-jalut
+  - quran-3-sovereignty
+  - quran-79-pharaoh-and-cosmos
+  - quran-18-dhul-qarnayn
+  matches:
+  - with: quran-18-dhul-qarnayn
+    motif: reach-from-sunrise-to-sunset
+    refs:
+    - Esarhaddon 001 ii:26-28
+    with_refs:
+    - 18:84
+    - 18:86
+    - 18:90
+    relation: parallel
+    record:
+      agent:
+      - Esarhaddon
+      - Dhū l-Qarnayn
+      action:
+      - goes from sunrise to sunset
+      - goes to the sun's setting and its rising
+      instrument:
+      - the great trust (tukultu) of the gods
+      - the power God gave him (makkannā lahu, sabab)
+      quoted:
+      - ištu ṣīt šamši adi ereb šamši šalṭiš attallakuma
+      - balagha maghriba sh-shams ... balagha maṭliʿa sh-shams
+    note: 'ina tukultišunu rabīti ištu ṣīt šamši adi ereb šamši šalṭiš attallakuma ''trusting in them (the gods) I went about triumphantly from the sunrise to the sunset'' ~ innā makkannā lahu fī l-arḍ (18:84) ... ḥattā idhā balagha maghriba sh-shams (18:86) ... balagha maṭliʿa sh-shams (18:90). The same pair of words for where the sun rises and where it sets (ṣīt šamši / maṭliʿ ash-shams; ereb šamši / maghrib ash-shams) marks the range of a king the divine power has made strong. The order is reversed: the Assyrian goes from rising to setting, Dhū l-Qarnayn goes west first.'
+- unit: ane-esarhaddon-001-sealand
+  checked:
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-8-ratio-captives
+  matches: []
+- unit: ane-esarhaddon-001-sidon-and-west
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-29-destroyed-nations
+  - quran-18-dhul-qarnayn
+  matches: []
+- unit: ane-esarhaddon-001-north-and-babylonia
+  checked:
+  - quran-8-ratio-captives
+  - quran-29-destroyed-nations
+  - quran-9-hunayn-jizya
+  matches: []
+- unit: ane-esarhaddon-001-arabs
+  checked:
+  - quran-7-idol-request
+  - quran-2-talut-jalut
+  - quran-5-holy-land-refusal
+  - quran-27-solomon-ants-hoopoe-sheba
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: woman-rules-an-arabian-people
+    refs:
+    - Esarhaddon 001 iv:4
+    - Esarhaddon 001 iv:15-16
+    with_refs:
+    - '27:23'
+    - '27:24'
+    relation: parallel
+    record:
+      agent:
+      - Apkallatu; Tabūa
+      - a woman (the queen of Sabaʾ)
+      action:
+      - rules an Arabian people as queen
+      - rules an Arabian people as queen
+      object:
+      - the Arabs (Aribi), with her gods
+      - her people, who prostrate to the sun
+      outcome:
+      - set as queen by the Assyrian king and sent home with her gods
+      - comes to Solomon and submits with him
+      quoted:
+      - Apkallatu šarrat Aribi; Tabūa ... ana šarrūti elišunu aškun
+      - wajadtu mraʾatan tamlikuhum
+    note: Apkallatu šarrat Aribi 'Apkallatu, queen of the Arabs'; Tabūa ... ana šarrūti elišunu aškunma itti ilānīša ana mātiša utērši 'I set her as queen over them and returned her to her land with her gods' ~ innī wajadtu mraʾatan tamlikuhum ... wa-lahā ʿarshun ʿaẓīm (27:23), with her people's sun-worship (27:24). Both describe a woman ruling an Arabian people, with her people's cult, who becomes subject to a foreign king. The Assyrian king puts Tabūa on the throne; the Queen of Sabaʾ rules already and submits of her own accord (27:44).
+- unit: ane-esarhaddon-001-medes-bazu
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-esarhaddon-001-summary-of-power
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-exodus-calf
+  matches: []
+- unit: ane-esarhaddon-001-ekal-masharti
+  checked:
+  - quran-2-talut-jalut
+  - quran-28-pharaohs-tower-and-end
+  - quran-27-solomon-ants-hoopoe-sheba
+  matches: []
+- unit: ane-esarhaddon-104-marduks-anger
+  checked:
+  - quran-7-towns-pattern
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-esarhaddon-104-rebuilding
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-15-prologue-and-heavens
+  matches: []
+- unit: ane-esarhaddon-104-gods-and-citizens-restored
+  checked:
+  - quran-2-talut-jalut
+  - quran-38-solomon-horses-throne
+  - quran-28-pharaohs-tower-and-end
+  matches: []
+- unit: ane-esarhaddon-104-blessings-and-curse
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-89-dawn
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-esarhaddon-105-marduks-anger
+  checked:
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-7-towns-pattern
+  - quran-89-dawn
+  matches: []
+- unit: ane-esarhaddon-105-rebuilding
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-esarhaddon-105-temple-gods-citizens
+  checked:
+  - quran-28-pharaohs-tower-and-end
+  - quran-2-talut-jalut
+  - quran-10-moses-pharaoh
+  matches: []
+- unit: ane-esarhaddon-105-blessings-and-curse
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-89-dawn
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-nabonidus-03-i-assyria-wrath-on-babylon
+  checked:
+  - quran-22-signs-and-rites
+  - quran-11-pharaoh-leads
+  - quran-28-destroyed-towns-and-judgment
+  matches: []
+- unit: ane-nabonidus-03-ii-medes-avenge-babylon
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-3-badr-uhud
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-nabonidus-03-iii-ishtar-of-uruk-restored
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-22-abraham-house-pilgrimage
+  - quran-48-fath-tree-hudaybiya-and-seed
+  matches: []
+- unit: ane-nabonidus-03-iv-anunitu-and-labashi-marduk
+  checked:
+  - quran-3-sovereignty
+  - quran-16-daughters-and-the-bee
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-nabonidus-03-v-accession
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-nabonidus-03-vi-dream-of-nebuchadnezzar
+  checked:
+  - quran-53-najm-vision-and-lote-tree
+  - quran-67-mulk-heavens-lamps-and-hell
+  - quran-3-sovereignty
+  - quran-12-joseph-full
+  matches:
+  - with: quran-12-joseph-full
+    motif: dream-of-star-and-moon
+    refs:
+    - Nabonidus 03 vi:4'-5'
+    - Nabonidus 03 vi:27'-36'
+    with_refs:
+    - '12:4'
+    - '12:5'
+    relation: divergence
+    record:
+      agent:
+      - Nabonidus
+      - Joseph
+      action:
+      - dreams of a star and the moon
+      - dreams of stars, the sun and the moon
+      number:
+      - 1 great star, the moon (Sîn) and Marduk
+      - 11 stars, the sun and the moon
+      recipient:
+      - the dead king Nebuchadnezzar, who asks what good he saw
+      - his father, who tells him not to tell his brothers
+      outcome:
+      - the star calls him by his name
+      - they prostrate to him
+      quoted:
+      - ina šuttiya kakkabu rabû Sîn u Marduk ina qereb šamāmē šulûtu ... ina šumiya ilsânnīme
+      - raʾaytu aḥada ʿashara kawkaban wa-sh-shamsa wa-l-qamara raʾaytuhum lī sājidīn
+    note: 'ana ṭehûti kakkabi rabî u Sîn ... ina šuttiya kakkabu rabû Sîn u Marduk ina qereb šamāmē ... ina šumiya ilsânnīme ''in my dream the great star, Sîn and Marduk high in the sky ... [the star] called me by my name'' ~ raʾaytu aḥada ʿashara kawkaban wa-sh-shamsa wa-l-qamara raʾaytuhum lī sājidīn (12:4). The same element: a dream of a star and the moon in the sky, turned toward the dreamer and announcing his rule, told to an elder. What changes: one great star against eleven, the stars call him by name against bowing to him, and the elder (Nebuchadnezzar) asks to hear it while the father (12:5) says to keep it from the brothers.'
+- unit: ane-nabonidus-03-vii-prayers-for-life-and-kingship
+  checked:
+  - quran-3-sovereignty
+  - quran-40-throne-bearers
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-nabonidus-03-viii-gifts-to-ea-nabu-and-doors
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-2-talut-jalut
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-nabonidus-03-ix-akitu-gifts-and-captives
+  checked:
+  - quran-7-idol-request
+  - quran-2-talut-jalut
+  - quran-38-solomon-horses-throne
+  matches: []
+- unit: ane-nabonidus-03-x-harran-after-54-years
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-signs-and-rites
+  - quran-32-sajda
+  matches: []
+- unit: ane-nabonidus-03-xi-extispicy
+  checked:
+  - quran-6-pagan-offerings-cattle
+  - quran-22-abraham-house-pilgrimage
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-nabonidus-28-i-titles-and-womb-destiny
+  checked:
+  - quran-3-sovereignty
+  - quran-20-moses-favors-recalled
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-nabonidus-28-i-dream-of-marduk-and-sin
+  checked:
+  - quran-3-sovereignty
+  - quran-3-badr-uhud
+  - quran-79-pharaoh-and-cosmos
+  - quran-2-talut-jalut
+  matches:
+  - with: quran-2-talut-jalut
+    motif: few-troops-defeat-a-vast-army
+    refs:
+    - Nabonidus 28 i:26-29
+    with_refs:
+    - 2:249
+    - 2:251
+    relation: parallel
+    record:
+      agent:
+      - Cyrus, Marduk's young servant (wardu ṣehru)
+      - the few with Ṭālūt; David
+      action:
+      - defeats a vast army with few troops
+      - defeats a vast army with few troops
+      instrument:
+      - raised by Marduk (ušatbûniššum)
+      - by God's leave (bi-idhni llāh)
+      outcome:
+      - Astyages, king of the Umman-manda, captured
+      - David kills Goliath and is given kingship
+      quoted:
+      - Kuraš šar Anzan wardušu ṣehru ina ummānīšu īṣūti Umman-manda rapšāti usappih
+      - kam min fiʾatin qalīlatin ghalabat fiʾatan kathīratan bi-idhni llāh
+    note: 'ušatbûniššumma Kuraš šar Anzan wardušu ṣehru ina ummānīšu īṣūti Umman-manda rapšāti usappih ''they (the gods) raised against him Cyrus king of Anšan, his young servant; with his few troops he scattered the vast Umman-manda'' ~ kam min fiʾatin qalīlatin ghalabat fiʾatan kathīratan bi-idhni llāh (2:249), fa-hazamūhum bi-idhni llāhi wa-qatala dāwūdu jālūt (2:251). On both sides a few (īṣūti / qalīla) beat a great host (rapšāti / kathīra) by divine will, and a young man wins: Cyrus is the god''s ''young servant'' who takes the enemy king captive, while David kills Goliath and receives kingship.'
+- unit: ane-nabonidus-28-i-ii-ehulhul-built
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-79-pharaoh-and-cosmos
+  - quran-28-pharaohs-tower-and-end
+  matches: []
+- unit: ane-nabonidus-28-ii-iii-ebabbar-of-sippar
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-22-abraham-house-pilgrimage
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: god-shows-the-builder-the-site-of-his-house
+    refs:
+    - Nabonidus 28 ii:56-61
+    with_refs:
+    - '22:26'
+    - '22:29'
+    relation: parallel
+    record:
+      agent:
+      - Šamaš
+      - God
+      action:
+      - shows the builder the site of his house
+      - assigns the builder the site of his house
+      recipient:
+      - Nabonidus
+      - Abraham
+      object:
+      - the ancient foundation of Ebabbar, unseen for 3,200 years
+      - the place of the House, later the Ancient House (al-bayt al-ʿatīq)
+      quoted:
+      - Šamaš ... Ebabbar bīt šubat ṭūb libbišu ukallimanni yâši
+      - wa-idh bawwaʾnā li-ibrāhīma makāna l-bayt
+    note: temmēnšu labīri ubaʾʾīma ... ša 3,200 šanāti manāma šarru ālik mahriya lā īmuru Šamaš ... Ebabbar ... ukallimanni yâši 'I sought its old foundation ... which in 3,200 years no king before me had seen; Šamaš showed it to me' ~ wa-idh bawwaʾnā li-ibrāhīma makāna l-bayti an lā tushrik bī shayʾan wa-ṭahhir baytiya (22:26), the house called al-bayt al-ʿatīq (22:29). The deity shows or assigns to the builder the site of his own house. bawwaʾa means to settle someone in a place or assign it to him, not literally 'show', and the site in Nabonidus is a buried foundation; the note keeps that difference.
+- unit: ane-nabonidus-28-iii-eulmash-and-future-king
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-nabonidus-47-i-sin-chooses-the-only-son
+  checked:
+  - quran-16-deniers-and-angels-of-death
+  - quran-3-sovereignty
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-nabonidus-47-i-ii-ten-years-in-arabia
+  checked:
+  - quran-33-trench
+  - quran-7-moses-pharaoh
+  - quran-10-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  matches:
+  - with: quran-33-trench
+    motif: place-name-yathrib
+    refs:
+    - Nabonidus 47 i:24-26
+    with_refs:
+    - '33:13'
+    relation: parallel
+    record:
+      name:
+      - Iatribu
+      - Yathrib
+      place:
+      - the last of the Arabian oases on the king's route (Tema, Dadanu, Padakku, Hibra, Iadihu, Iatribu)
+      - the town besieged by the confederates
+      quoted:
+      - u adi Iatribu
+      - yā ahla yathriba lā muqāma lakum
+    note: u adi {URU}ia-at-ri-bu 'and as far as Yathrib', the last of six oases (Tema, Dedan, Fadak, Khaybar, Yadiʿ) where Nabonidus spent ten years ~ yā ahla yathriba 'O people of Yathrib' (33:13), the only verse in the Quran that names the town by its old name. The same place name, about twelve centuries apart.
+- unit: ane-nabonidus-47-ii-hymn-to-sin
+  checked:
+  - quran-3-sovereignty
+  - quran-2-throne-verse
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-signs-and-rites
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches:
+  - with: quran-54-qamar-ad-thamud-lot-pharaoh
+    motif: divine-command-not-said-twice
+    refs:
+    - Nabonidus 47 ii:21-22
+    with_refs:
+    - '54:50'
+    relation: echo
+    record:
+      agent:
+      - Sîn
+      - God
+      object:
+      - his command (qibītu, amatu)
+      - our command (amr)
+      number:
+      - not 2 (lā ... šinīšu)
+      - 1 (wāḥida)
+      quoted:
+      - ša ana qibītišu lā iturru u amassu lā taqabbû šinīšu
+      - wa-mā amrunā illā wāḥidatun ka-lamḥin bi-l-baṣar
+    note: 'ša ana qibītišu lā iturru u amassu lā taqabbû šinīšu ''whose command is not turned back, and whose word is not spoken twice'' ~ wa-mā amrunā illā wāḥidatun ka-lamḥin bi-l-baṣar ''our command is but one, like a glance of the eye'' (54:50). The divine command is given once and is not repeated: lā šinīšu, ''not twice'', against wāḥida, ''one''.'
+- unit: ane-nabonidus-47-iii-return-and-ehulhul
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-10-moses-pharaoh
+  matches: []
+- unit: ane-nabonidus-2001-i-adad-guppi-piety
+  checked:
+  - quran-17-polemic-and-resurrection
+  - quran-93-94-forenoon-and-expansion
+  - quran-17-prayer-spirit-and-challenge
+  matches: []
+- unit: ane-nabonidus-2001-i-ii-95-years-son-named
+  checked:
+  - quran-3-sovereignty
+  - quran-37-sacrifice-of-son
+  - quran-19-zechariah-and-john
+  matches: []
+- unit: ane-nabonidus-2001-ii-dream-and-restoration
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-signs-and-rites
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-93-94-forenoon-and-expansion
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: god-raises-the-devotee-s-name
+    refs:
+    - Nabonidus 2001 ii:23-25
+    with_refs:
+    - '94:4'
+    relation: echo
+    record:
+      agent:
+      - Sîn
+      - God
+      action:
+      - raises up the devotee's head and name
+      - raises the prophet's name
+      recipient:
+      - Adad-guppi
+      - the prophet
+      quoted:
+      - rēšiya ullīma šuma ṭāba ina māti iškunanni
+      - wa-rafaʿnā laka dhikrak
+    note: Sîn šar ilāni rēšiya ullīma šuma ṭāba ina māti iškunanni 'Sîn, king of the gods, lifted up my head and set a good name for me in the land' ~ wa-rafaʿnā laka dhikrak 'and we raised your name (mention) for you' (94:4). The god's favour is told in the same two parts, raising up (elû / rafaʿa) and a name (šumu / dhikr). Adad-guppi adds 'long days' (ii:25).
