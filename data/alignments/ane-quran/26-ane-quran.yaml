@@ -1,0 +1,1531 @@
+# ANE x Quran side-by-side pass, chunk 26 (Hittite treaties, oaths and the temple instructions CTH 264). Judged blind, from the originals.
+new_motifs:
+  what-the-lord-gives-take:
+    label: Of captives or spoil, what the lord gives you, take; what he does not give (or forbids), leave
+    cluster: kingship
+  fugitive-not-returned-by-divine-rule:
+    label: A fugitive who comes over is not handed back, because returning him is not right under the divine rule
+    cluster: law
+  rumour-checked-before-acting:
+    label: 'A rumour or report must be checked before anyone acts on it: referred to the ruler, or verified'
+    cluster: law
+  excuse-of-coercion-for-defection:
+    label: The excuse that one was forced or powerless is put forward for going over to the other side
+    cluster: law
+  leader-recalls-escaping-without-his-men:
+    label: Reproaching followers who hang back, the leader recalls how he escaped a crisis without them
+    cluster: kingship
+  leader-deserted-by-his-men-in-crisis:
+    label: In the decisive crisis the leader's own men run off and leave him
+    cluster: war
+  loyalty-conditional-on-reward:
+    label: A follower's loyalty depends on being rewarded; unrewarded, he turns away
+    cluster: kingship
+  loyalty-overrides-kin-list:
+    label: 'Loyalty to the lord overrides a listed series of kin: father, mother, son, brother, kinsman'
+    cluster: family
+  kin-share-offenders-punishment:
+    label: Whether an offender's household and kin share his punishment
+    cluster: law
+  who-owns-battle-booty:
+    label: Who owns the booty taken in battle
+    cluster: war
+  human-master-and-slave-as-analogy-for-god:
+    label: An argument drawn from a human master and his slaves is applied to the god
+    cluster: wisdom
+  divine-respite-misread:
+    label: Wrongdoers take the deity's delay for indifference; the delay is not a release
+    cluster: judgment
+  imprecation-staking-wives-and-children:
+    label: To prove the truth, the parties call down destruction or curse on the liar together with wives and children
+    cluster: law
+  one-who-was-dead-given-life:
+    label: A living man is called a dead man whom his benefactor has brought back to life
+    cluster: kingship
+  reviving-a-dead-land:
+    label: A dead (ruined) land or town is brought back to life
+    cluster: kingship
+  royal-adoption-of-endangered-youth:
+    label: A royal house takes a foreign youth whose life is threatened as its son
+    cluster: kingship
+  sovereigns-word-cannot-be-changed:
+    label: The sovereign's word cannot be turned back, cast aside, broken or changed
+    cluster: kingship
+  penalty-on-whoever-alters-the-text:
+    label: Whoever alters the wording of a fixed text (tablet, bequest) after it is set bears the penalty
+    cluster: law
+  impaling-or-crucifying-opponents:
+    label: Opponents of the ruler are impaled or crucified on wood
+    cluster: war
+  brothers-seek-to-kill-young-heir:
+    label: While still a child, the favoured son is threatened with death by his brothers and ends up in a foreign land
+    cluster: family
+  knowledge-of-the-distant-past:
+    label: Whether the events of the distant past can be known, and by whom
+    cluster: wisdom
+  bird-augury:
+    label: Taking or reading an omen from birds is set aside
+    cluster: ritual
+  not-even-a-thread:
+    label: 'A thread as the smallest measure: not even a thread is withheld, or wronged'
+    cluster: law
+  marriage-with-hostile-outsider:
+    label: Marriage with a man or woman of the hostile outside group is barred or dangerous, because the spouse will lead to betrayal or ruin
+    cluster: family
+  rulers-secret-divulged:
+    label: A secret word confided by the ruler must be kept; divulging it is a breach
+    cluster: kingship
+reviewed:
+- unit: ane-cth-105-1-amurru-prologue
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-9-baraa-treaties
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-cth-105-10-slander-kings-embargo
+  checked:
+  - quran-8-badr-help
+  - quran-9-hunayn-jizya
+  - quran-20-adam-iblis
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-cth-105-15-ship-fortify-fragments
+  checked:
+  - quran-2-patience-signs
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-5-holy-land-refusal
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-cth-105-21-witnesses-curse
+  checked:
+  - quran-2-polemic-israel
+  - quran-2-patience-signs
+  - quran-9-baraa-treaties
+  - quran-13-messengers-and-mother-of-book
+  matches: []
+- unit: ane-cth-105-5-loyalty-unto-death
+  checked:
+  - quran-4-trusts-obedience
+  - quran-9-bargain-abraham
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-23-believers-succeed
+  matches: []
+- unit: ane-cth-122-1-talmi-tessup
+  checked:
+  - quran-5-contracts-food-laws
+  - quran-37-sacrifice-of-son
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-cth-123-1-oath-fragments
+  checked:
+  - quran-8-meccan-plots
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-5-oaths-wine-game
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-123-10-death-the-limit
+  checked:
+  - quran-33-trench
+  - quran-16-abrogation-food-abraham-sabbath
+  - quran-9-hunayn-jizya
+  - quran-8-fifth-and-badr-vision
+  - quran-4-strivers-emigration
+  - quran-9-cave-and-call
+  matches:
+  - with: quran-16-abrogation-food-abraham-sabbath
+    motif: excuse-of-coercion-for-defection
+    refs:
+    - CTH 123 §15:127-131
+    - CTH 123 §19:154-160
+    with_refs:
+    - 16:106
+    relation: contrast
+    record:
+      agent:
+      - the sworn man
+      - one who disbelieves after believing
+      action:
+      - joins the defectors
+      - disbelieves
+      quoted:
+      - apūš=wa=mu GÉŠPU-za peḫuter; GEŠPÚ-aḫḫir=wa=mu ... nat lē DÙ-ši
+      - illā man ukriha wa-qalbuhū muṭmaʾinnun bil-īmān
+      outcome:
+      - the excuse is not accepted; it is put under oath
+      - the coerced man whose heart is firm is excepted
+    note: 'Opposite rulings on the coercion excuse. Hittite: ''do not say: they brought me by force (GÉŠPU-za peḫuter) / they compelled me (GEŠPÚ-aḫḫir)'' - no excuse. Q 16:106 ''man kafara billāhi min baʿdi īmānihī illā man ukriha wa-qalbuhū muṭmaʾinnun bil-īmān'' - the coerced is exempt if his heart holds.'
+  - with: quran-4-strivers-emigration
+    motif: excuse-of-coercion-for-defection
+    refs:
+    - CTH 123 §19:154-160
+    with_refs:
+    - 4:97
+    relation: parallel
+    record:
+      agent:
+      - the sworn man
+      - those who wronged themselves
+      quoted:
+      - GEŠPÚ-aḫḫir=wa=mu
+      - kunnā mustaḍʿafīna fī l-arḍ
+      outcome:
+      - the excuse is rejected
+      - 'the excuse is rejected: alam takun arḍu llāhi wāsiʿatan'
+    note: 'Here the rulings agree: the excuse ''they compelled me (GEŠPÚ-aḫḫir=wa=mu)'' for siding with defectors is refused (''nat lē DÙ-ši''); in Q 4:97 the angels refuse ''kunnā mustaḍʿafīna fī l-arḍ'' with ''a-lam takun arḍu llāhi wāsiʿatan fa-tuhājirū fīhā''.'
+  - with: quran-9-cave-and-call
+    motif: leader-recalls-escaping-without-his-men
+    refs:
+    - CTH 123 §10:71-76
+    with_refs:
+    - '9:38'
+    - '9:40'
+    relation: parallel
+    record:
+      agent:
+      - the king
+      - God
+      action:
+      - reproaches the absent follower
+      - reproaches those who will not go forth
+      quoted:
+      - UL=mu=za GAM-an ešta; URU Niḫirija=za=kan UL 1-aš arḫa unnaḫḫun?
+      - illā tanṣurūhu fa-qad naṣarahu llāhu ... thāniya thnayni idh humā fī l-ghār
+      number:
+      - 1
+      - 2
+      outcome:
+      - he escaped alone
+      - God helped him, second of two in the cave
+    note: 'The king to the sworn man: when things became critical ''UL=mu=za GAM-an ešta'' (you were not with me) - ''did I not escape alone (1-aš) from Niḫriya, stay behind alone at Alatarma?'' Q 9:38-40, rebuking those who sink to the ground: ''illā tanṣurūhu fa-qad naṣarahu llāhu idh akhrajahu lladhīna kafarū thāniya thnayni''. One escaped alone; the other with one companion, helped by God.'
+- unit: ane-cth-123-21-guardians-of-king
+  checked:
+  - quran-9-shirkers-excuses
+  - quran-3-badr-uhud
+  - quran-26-prologue
+  - quran-48-fath-clear-victory-and-pledge
+  matches:
+  - with: quran-3-badr-uhud
+    motif: leader-deserted-by-his-men-in-crisis
+    refs:
+    - CTH 123 §28:226-231
+    with_refs:
+    - 3:153
+    relation: echo
+    record:
+      agent:
+      - the charioteer; the chamberlain
+      - the believers at Uhud
+      action:
+      - leap from the chariot, flee the inner chamber
+      - run up the hill, turning to no one
+      recipient:
+      - the king
+      - the messenger
+      quoted:
+      - LÚKARTAPPU-man=kan GIŠGIGIR-za GAM pittaizzi ... É.ŠÀ-za parā pittaizzi
+      - idh tuṣʿidūna wa-lā talwūna ʿalā aḥadin wal-rasūlu yadʿūkum fī ukhrākum
+    note: 'The king''s direst hour: the charioteer leaps down from the chariot, someone flees the inner chamber, not even a gate-dog left, no arrow to shoot. Q 3:153: ''idh tuṣʿidūna wa-lā talwūna ʿalā aḥadin wal-rasūlu yadʿūkum fī ukhrākum''. Hittite is a hypothetical the sworn man must prevent; Q recalls it as having happened.'
+  - with: quran-9-shirkers-excuses
+    motif: loyalty-conditional-on-reward
+    refs:
+    - CTH 123 §21:167-177
+    with_refs:
+    - '9:58'
+    relation: echo
+    record:
+      agent:
+      - the sworn man
+      - some of the hypocrites
+      quoted:
+      - LUGAL-uš=wa=mu=za UL ŠID-it nu=wa kēdaš A-NA MAMIT GAM-an arḫa arḫaḫaru
+      - fa-in uʿṭū minhā raḍū wa-in lam yuʿṭaw minhā idhā hum yaskhaṭūn
+      outcome:
+      - withdraws from the oaths
+      - they are angry
+    note: '''The king did not reward me (UL ŠID-it); I will withdraw from these oaths'' - forbidden. Q 9:58 on the alms: ''fa-in uʿṭū minhā raḍū wa-in lam yuʿṭaw minhā idhā hum yaskhaṭūn''.'
+- unit: ane-cth-123-29-fragments
+  checked:
+  - quran-4-women-orphans-justice
+  - quran-2-abraham-kaaba
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-58-mujadila-zihar-and-secret-counsel
+  matches: []
+- unit: ane-cth-132-1-kizzuwatna-witnesses
+  checked:
+  - quran-2-retaliation-bequest
+  - quran-2-patience-signs
+  - quran-13-messengers-and-mother-of-book
+  - quran-9-baraa-treaties
+  matches: []
+- unit: ane-cth-133-1-ismerika-oath
+  checked:
+  - quran-19-resurrection-and-the-son
+  - quran-9-baraa-treaties
+  - quran-24-obedience-and-succession
+  - quran-2-patience-signs
+  matches: []
+- unit: ane-cth-133-13-sworn-men-curse
+  checked:
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-6-final-reckoning
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-7-primordial-covenant
+  matches: []
+- unit: ane-cth-133-5-informers-and-collective-guilt
+  checked:
+  - quran-11-abraham-guests
+  - quran-6-final-reckoning
+  - quran-8-obedience-trial
+  - quran-58-mujadila-zihar-and-secret-counsel
+  matches:
+  - with: quran-58-mujadila-zihar-and-secret-counsel
+    motif: loyalty-overrides-kin-list
+    refs:
+    - CTH 133 §10:68-69
+    with_refs:
+    - '58:22'
+    relation: parallel
+    record:
+      object:
+      - father, mother, brother, sister, son, in-law
+      - fathers, sons, brothers, clan
+      quoted:
+      - A-BU-ŠU AMA-ŠU ŠEŠ-ŠU NIN-ŠU ... DUMU-ŠU LÚgaenaš
+      - wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+      action:
+      - seize and denounce him who speaks an evil word
+      - do not love him who opposes God and his messenger
+    note: 'Whoever speaks the evil word must be seized and revealed even if he is ''A-BU-ŠU AMA-ŠU ŠEŠ-ŠU NIN-ŠU ... DUMU-ŠU LÚgaenaš''. Q 58:22: no believers love ''man ḥādda llāha wa-rasūlahū wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum''. Data note: the German glosses in this section are shifted by several lines against the transliteration.'
+  - with: quran-6-final-reckoning
+    motif: kin-share-offenders-punishment
+    refs:
+    - CTH 133 §10:75
+    - CTH 133 §10:80-81
+    - CTH 133 §11:83
+    with_refs:
+    - 6:164
+    relation: contrast
+    record:
+      agent:
+      - a city; a house; one man
+      - every soul
+      action:
+      - sins
+      - earns
+      quoted:
+      - 1 É-TUM w[ašda-] ... apāt É-ir LÚ.MEŠ-it aku; 1-EN LÚ-ma wašdāi
+      - wa-lā taziru wāziratun wizra ukhrā
+      outcome:
+      - the house dies with its people
+      - no bearer bears another's burden
+    note: 'Graded collective guilt: if a city sins it is killed with its men; if one house in a city sins ''apāt É-ir LÚ.MEŠ-it aku'' (that house shall die with its people); if one man sins (1-EN LÚ-ma wašdāi), [he alone] - the last apodosis is restored. Q 6:164 ''wa-lā taksibu kullu nafsin illā ʿalayhā wa-lā taziru wāziratun wizra ukhrā''.'
+- unit: ane-cth-134-1-kurustama
+  checked:
+  - quran-12-joseph-full
+  - quran-4-hypocrites-wavering
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-135-1-preamble-hostages-cities
+  checked:
+  - quran-9-baraa-treaties
+  - quran-8-treaties-peace
+  - quran-4-hypocrites-two-factions
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-135-2-military-clauses
+  checked:
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-9-mosques-and-kin
+  - quran-8-spoils-and-believers
+  - quran-8-treaties-peace
+  matches:
+  - with: quran-58-mujadila-zihar-and-secret-counsel
+    motif: loyalty-overrides-kin-list
+    refs:
+    - CTH 135 §2:46
+    with_refs:
+    - '58:22'
+    relation: parallel
+    record:
+      object:
+      - brother, son, companion, kinsman
+      - fathers, sons, brothers, clan
+      quoted:
+      - ašar taḫazi ŠEŠ-am DUMU-am LÚtappâ ... ša kim[ti]
+      - ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+      action:
+      - do not spare him on the battlefield
+      - do not love him
+    note: On the battlefield brother, son, companion, kinsman 'ŠEŠ-am DUMU-am LÚtappâ ... kim[ti]' are not to be spared; Q 58:22 'wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum'.
+  - with: quran-9-mosques-and-kin
+    motif: loyalty-overrides-kin-list
+    refs:
+    - CTH 135 §2:46
+    with_refs:
+    - '9:23'
+    - '9:24'
+    relation: parallel
+    record:
+      object:
+      - brother, son, companion, kinsman
+      - fathers, sons, brothers, wives, clan
+      quoted:
+      - ŠEŠ-am DUMU-am LÚtappâ
+      - ābāʾukum wa-abnāʾukum wa-ikhwānukum wa-azwājukum wa-ʿashīratukum
+      action:
+      - do not spare them
+      - do not take them as allies; do not love them more
+    note: 'Same kin list against Q 9:23-24: ''lā tattakhidhū ābāʾakum wa-ikhwānakum awliyāʾ'' and ''in kāna ābāʾukum wa-abnāʾukum wa-ikhwānukum wa-azwājukum wa-ʿashīratukum ... aḥabba ilaykum mina llāhi wa-rasūlihī''.'
+  - with: quran-8-spoils-and-believers
+    motif: who-owns-battle-booty
+    refs:
+    - CTH 135 §2:65-68
+    with_refs:
+    - '8:1'
+    relation: contrast
+    record:
+      object:
+      - 'booty: cattle, sheep, goods'
+      - al-anfāl
+      recipient:
+      - the troops that seize it
+      - God and the messenger
+      quoted:
+      - mīnummê ḫubta ... ikaššadu ÉRIN.MEŠ URU Ḫatti=ma [ileq]qe
+      - al-anfālu lillāhi wal-rasūl
+    note: Whatever booty (ḫubtu) the troops of Hatti seize, they take; likewise the troops of Tunip. Q 8:1 'yasʾalūnaka ʿani l-anfāli quli l-anfālu lillāhi wal-rasūl'. Opposite allocation of spoil.
+- unit: ane-cth-135-3-messengers-fugitives-evil-word
+  checked:
+  - quran-4-fighting-and-death
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-136-mukish-gods-and-good-words
+  checked:
+  - quran-46-ahqaf-gods-and-the-book-of-moses
+  - quran-35-heirs-of-book
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-137-1-kaska-hostages-curses
+  checked:
+  - quran-22-fly-parable-abraham
+  - quran-16-parables-and-justice
+  - quran-6-final-reckoning
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-137-1-kaska-sworn-leaders
+  checked:
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-2-debt-contract
+  - quran-5-holy-land-refusal
+  matches: []
+- unit: ane-cth-141-alashiya
+  checked:
+  - quran-18-dhul-qarnayn
+  - quran-2-sabbath-apes
+  - quran-7-towns-pattern
+  - quran-5-hand-fettered
+  matches: []
+- unit: ane-cth-144-elders-of-ura
+  checked:
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-3-badr-uhud
+  - quran-18-moses-and-the-servant
+  matches:
+  - with: quran-58-mujadila-zihar-and-secret-counsel
+    motif: loyalty-overrides-kin-list
+    refs:
+    - CTH 144 §1:21-22
+    with_refs:
+    - '58:22'
+    relation: parallel
+    record:
+      object:
+      - brother, in-law, friend, acquaintance
+      - fathers, sons, brothers, clan
+      quoted:
+      - ŠEŠ-an LÚgaenan ... LÚaran LÚšaggantan UN-an zaḫḫiyaš pidi ... UL epši ... UL kueši
+      - wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
+      action:
+      - seize and kill him on the battlefield
+      - do not love him
+    note: If on the battlefield you do not seize and kill a brother, in-law, friend or acquaintance (ŠEŠ-an LÚgaenan LÚaran LÚšaggantan) - the oath is broken. Q 58:22 kin list.
+- unit: ane-cth-146-demands-handover
+  checked:
+  - quran-4-people-of-book-distortion
+  - quran-8-ratio-captives
+  - quran-18-moses-and-the-servant
+  - quran-5-war-on-god-theft
+  matches:
+  - with: quran-4-people-of-book-distortion
+    motif: not-even-a-thread
+    refs:
+    - CTH 146 W8:90
+    with_refs:
+    - '4:49'
+    relation: echo
+    record:
+      object:
+      - a wool thread
+      - a fatīl
+      quoted:
+      - '[SÍGmaišt]an mašiwantan lē apteni'
+      - wa-lā yuẓlamūna fatīlā
+    note: 'Hand over the rebels with all their goods: ''not even as much as a [wool-]thread (maištan mašiwantan) shall you hold back'' (the noun partly restored). Q 4:49 ''wa-lā yuẓlamūna fatīlā'' - not wronged by a thread''s worth. The thread as the smallest measure, in a different act (withholding vs wronging).'
+- unit: ane-cth-146-elders-duties-colophon
+  checked:
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-24-ifk-slander
+  - quran-3-badr-uhud
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-146-mita-oath-and-breach
+  checked:
+  - quran-12-joseph-full
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-28-qarun
+  - quran-8-treaties-peace
+  matches:
+  - with: quran-8-treaties-peace
+    motif: vassal-breaks-oath-repeatedly
+    refs:
+    - CTH 146 W7:76-79
+    with_refs:
+    - '8:56'
+    relation: echo
+    record:
+      agent:
+      - Mita and his ally
+      - those with whom you made a covenant
+      action:
+      - broke the oaths again and again
+      - break their covenant every time
+      quoted:
+      - mekki kuit waštaškit ... NI-IŠ DINGIR-LIM-kan apāšša šarraškit
+      - yanquḍūna ʿahdahum fī kulli marratin
+    note: 'Iterative forms: Mita ''waštaškit'' (kept sinning), the other ''NĪŠ DINGIR-LIM ... šarraškit'' (kept breaking the oath). Q 8:56 ''alladhīna ʿāhadta minhum thumma yanquḍūna ʿahdahum fī kulli marratin''.'
+- unit: ane-cth-146-oath-of-neighbours
+  checked:
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-8-fifth-and-badr-vision
+  - quran-8-ratio-captives
+  matches: []
+- unit: ane-cth-264-a-bakers-purity
+  checked:
+  - quran-2-food-piety
+  - quran-74-cloaked
+  - quran-6-pagan-offerings-cattle
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-cth-264-b-minds-of-gods-and-men
+  checked:
+  - quran-30-fitra
+  - quran-16-parables-and-justice
+  - quran-6-final-reckoning
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches:
+  - with: quran-30-fitra
+    motif: human-master-and-slave-as-analogy-for-god
+    refs:
+    - CTH 264 W15:Vs._I_21'-Vs._I_32'
+    with_refs:
+    - '30:28'
+    relation: echo
+    record:
+      agent:
+      - the speaker of the instruction
+      - God
+      action:
+      - reasons from master and slave to the gods
+      - strikes a parable from yourselves
+      quoted:
+      - UN-aš DINGIR.MEŠ-ašša ZI-anza tamaiš kuiški UL ... ARAD-ŠU ... A-NA EN-ŠU
+      - ḍaraba lakum mathalan min anfusikum hal lakum min mā malakat aymānukum min shurakāʾ
+      outcome:
+      - the god punishes as an angry master does
+      - God has no partners among his servants
+    note: '''Is the mind of man and of the gods any different? (UN-aš DINGIR.MEŠ-ašša ZI-anza tamaiš kuiški UL)'' - a servant stands washed before his master; an angered master kills or maims him. Q 30:28 ''ḍaraba lakum mathalan min anfusikum hal lakum min mā malakat aymānukum min shurakāʾa fī mā razaqnākum''. Both argue from human mastership to the divine; the conclusions differ (fear the god''s anger / no partners).'
+  - with: quran-16-parables-and-justice
+    motif: human-master-and-slave-as-analogy-for-god
+    refs:
+    - CTH 264 W15:Vs._I_21'-Vs._I_27'
+    with_refs:
+    - 16:71
+    relation: echo
+    record:
+      quoted:
+      - ARAD-ŠU kuwapi A-NA EN-ŠU peran šarā artari
+      - fa-mā lladhīna fuḍḍilū bi-rāddī rizqihim ʿalā mā malakat aymānuhum
+    note: 'Q 16:71: the favoured do not hand their provision to their slaves to be equal with them - argument from the master-slave relation, as in KUB 13.4 i 21''-27''.'
+  - with: quran-6-final-reckoning
+    motif: kin-share-offenders-punishment
+    refs:
+    - CTH 264 W15:Vs._I_30'-Vs._I_38'
+    with_refs:
+    - 6:164
+    relation: contrast
+    record:
+      agent:
+      - the angered god
+      - every soul
+      quoted:
+      - naš UL 1-aš aki MÁŠ-ŠU-maš-ši tettianpat ... A-NA DAM-ŠÚ DUMU.MEŠ-ŠU NUMUN-ŠU ... ḫarnikzi
+      - wa-lā taziru wāziratun wizra ukhrā
+      outcome:
+      - he does not die alone; wife, sons, seed, slaves, cattle destroyed with him
+      - no bearer bears another's burden
+    note: '''naš UL 1-aš aki MÁŠ-ŠU-ma-šši tettianpat'' (he does not die alone; his family is joined to him), and the god''s anger destroys him with wife, sons, seed, slaves, cattle, crops. Q 6:164 ''wa-lā taziru wāziratun wizra ukhrā''.'
+- unit: ane-cth-264-w1-w2-fragments
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-9-mosques-and-kin
+  - quran-6-pagan-offerings-cattle
+  matches: []
+- unit: ane-cth-264-w3-duplicate
+  checked:
+  - quran-3-misers-mockers
+  - quran-6-pagan-offerings-cattle
+  - quran-26-abraham
+  - quran-3-annunciation-jesus
+  matches:
+  - with: quran-3-misers-mockers
+    motif: divine-respite-misread
+    refs:
+    - CTH 264 W3:{€1}_Vs._II_11'-{€1}_Vs._II_15'
+    with_refs:
+    - 3:178
+    relation: echo
+    record:
+      agent:
+      - the temple staff
+      - those who disbelieve
+      quoted:
+      - DINGIR-LIM-waraš kuit nu-wa UL kuitki memai ... eppuwanzi UL [nuntarnuzi] ... namma arḫa UL tarnāi
+      - lā yaḥsabanna lladhīna kafarū annamā numlī lahum khayrun li-anfusihim
+      outcome:
+      - once the god seizes he does not let go
+      - respite only to increase their sin; a humiliating punishment
+    note: 'The excuse ''because he is a god he says nothing and does nothing to us'' is answered: the gods'' will ''does not hurry to seize (eppuwanzi UL nuntarnuzi), but when it seizes it does not let go''. Q 3:178 ''wa-lā yaḥsabanna lladhīna kafarū annamā numlī lahum khayrun ... innamā numlī lahum li-yazdādū ithman''.'
+  - with: quran-3-annunciation-jesus
+    motif: imprecation-staking-wives-and-children
+    refs:
+    - CTH 264 W3:{€2}_Rs._IV_11'-{€2}_Rs._IV_16'
+    with_refs:
+    - 3:61
+    relation: parallel
+    record:
+      agent:
+      - the accused temple staff
+      - the Prophet and those disputing with him
+      action:
+      - drink from the god's rhyton of the soul
+      - invoke God's curse
+      object:
+      - wives and children
+      - sons and women
+      quoted:
+      - mān papranteš=ma našta QADU DAM.MEŠ-KUNU DUMU.MEŠ-KUNU ḫarkteni
+      - nadʿu abnāʾanā wa-abnāʾakum wa-nisāʾanā wa-nisāʾakum ... fa-najʿal laʿnata llāhi ʿalā l-kādhibīn
+      outcome:
+      - the guilty perish with wives and children
+      - the curse falls on the liars
+    note: 'Truth-ordeal: the staff declare their innocence and drink from the god''s ''rhyton of the soul''; ''if you are pure it is your protective god; if impure, you perish together with your wives and children (QADU DAM.MEŠ-KUNU DUMU.MEŠ-KUNU ḫarkteni)''. Q 3:61 mubāhala: ''tadāwaw nadʿu abnāʾanā wa-abnāʾakum wa-nisāʾanā wa-nisāʾakum wa-anfusanā wa-anfusakum thumma nabtahil fa-najʿal laʿnata llāhi ʿalā l-kādhibīn''.'
+- unit: ane-cth-264-w4-w5-duplicates
+  checked:
+  - quran-26-abraham
+  - quran-3-misers-mockers
+  - quran-16-parables-and-justice
+  matches: []
+- unit: ane-cth-264-w6-duplicate
+  checked:
+  - quran-3-misers-mockers
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  matches:
+  - with: quran-3-misers-mockers
+    motif: divine-respite-misread
+    refs:
+    - CTH 264 W6:{€1}_Vs._II_27-{€1}_Vs._II_32
+    with_refs:
+    - 3:178
+    relation: echo
+    record:
+      quoted:
+      - DINGIR-LUM-waraš kuit nu-wa UL kuitki memai ... eppuwanzi UL nuntarnuzi eppzi=ma
+      - innamā numlī lahum li-yazdādū ithman
+    note: 'Duplicate of the same passage (KBo 50.283+): the silent god does not hurry to seize but does not let go; Q 3:178 ''numlī lahum''.'
+- unit: ane-cth-264-w7-w14-fragments
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-6-pagan-offerings-cattle
+  - quran-18-companions-of-the-cave
+  matches: []
+- unit: ane-cth-51-i-deposit-witnesses
+  checked:
+  - quran-99-earthquake
+  - quran-10-ingratitude-sea
+  - quran-13-messengers-and-mother-of-book
+  - quran-9-baraa-treaties
+  matches: []
+- unit: ane-cth-51-i-mittani-gods-curses-blessings
+  checked:
+  - quran-99-earthquake
+  - quran-9-baraa-treaties
+  - quran-2-patience-signs
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-51-i-sattiwazza-installed
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-3-sovereignty
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-cth-51-i-stipulations
+  checked:
+  - quran-8-fifth-and-badr-vision
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-3-sovereignty
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-2-sleeper-hundred-years
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: fugitive-not-returned-by-divine-rule
+    refs:
+    - CTH 51.I §12:151-158
+    with_refs:
+    - '60:10'
+    relation: parallel
+    record:
+      agent:
+      - the king of Hatti
+      - the believers
+      action:
+      - does not return the fugitive
+      - do not return the emigrant women
+      recipient:
+      - Mittani
+      - the unbelievers
+      quoted:
+      - ul iṣabbatsu ul utāršu ul parṣū ša dUTU URU Arinna
+      - fa-lā tarjiʿūhunna ilā l-kuffār lā hunna ḥillun lahum ... dhālikum ḥukmu llāh
+      outcome:
+      - he settles in Šattiwazza's town, belonging to Hatti
+      - dowries repaid; they may be married
+    note: 'A one-way fugitive clause grounded in divine law: a Hittite fugitive is returned, but a Mittani fugitive in Hatti ''ul iṣabbatsu ul utāršu'' because returning is ''ul parṣū ša dUTU URU Arinna'' (not the rule of the Sun goddess). Q 60:10 ''fa-lā tarjiʿūhunna ilā l-kuffār lā hunna ḥillun lahum ... dhālikum ḥukmu llāh''. Divergence: Q repays what the other side spent (''wa-ātūhum mā anfaqū'').'
+  - with: quran-2-sleeper-hundred-years
+    motif: reviving-a-dead-land
+    refs:
+    - CTH 51.I §14:176-177
+    with_refs:
+    - 2:259
+    relation: divergence
+    record:
+      agent:
+      - the great king
+      - God
+      action:
+      - will bring a dead land to life
+      - brings to life after its death
+      object:
+      - the dead land Mittani
+      - this ruined town
+      quoted:
+      - KUR Mittanni mīta uballassu ana maškanišu utâr
+      - annā yuḥyī hādhihi llāhu baʿda mawtihā
+    note: '''u anāku LUGAL.GAL ... KUR Mittanni mīta uballassu ana maškanišu utâr'' (I will make the dead land live and return it to its place). Q 2:259, before a town ''khāwiyatun ʿalā ʿurūshihā'': ''annā yuḥyī hādhihi llāhu baʿda mawtihā''. The reviver changes from the king to God, and the claim becomes a doubting question.'
+- unit: ane-cth-52-i-adoption-campaign
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-7-moses-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-6-prophet-consoled-signs
+  matches:
+  - with: quran-28-pharaoh-oppression-infant-moses
+    motif: royal-adoption-of-endangered-youth
+    refs:
+    - CTH 52.I §3:45-49
+    with_refs:
+    - '28:9'
+    relation: parallel
+    record:
+      agent:
+      - Šuppiluliuma, the great king
+      - Pharaoh's wife
+      object:
+      - Šattiwazza, pursued by Šuttarna
+      - the infant Moses
+      action:
+      - takes him as son
+      - proposes to take him as son
+      quoted:
+      - ana DUMU-ūttiya eppuška-mi
+      - aw nattakhidhahū waladā
+      outcome:
+      - will set him on his father's throne
+      - 'he is spared: lā taqtulūhu'
+    note: '''If Šuttarna and the men of Mittani pursue you, I will not abandon you; ana DUMU-ūttiya eppuškâ-mi'' (I make you my son). Q 28:9 Pharaoh''s wife: ''qurratu ʿaynin lī wa-lak, lā taqtulūhu ʿasā an yanfaʿanā aw nattakhidhahū waladā''.'
+  - with: quran-6-prophet-consoled-signs
+    motif: sovereigns-word-cannot-be-changed
+    refs:
+    - CTH 52.I §3:50-51
+    with_refs:
+    - '6:34'
+    relation: echo
+    record:
+      object:
+      - the words from the great king's mouth
+      - the words of God
+      quoted:
+      - amātu ša ina KA×U-šu uṣṣû ana kutallišu ul ittâr
+      - wa-lā mubaddila li-kalimāti llāh
+    note: '''amātu ša ina pîšu uṣṣû ana kutallišu ul ittâr'' (the words that come out of his mouth do not turn back); Q 6:34 ''wa-lā mubaddila li-kalimāti llāh''.'
+- unit: ane-cth-52-i-deposit-witnesses-curses
+  checked:
+  - quran-99-earthquake
+  - quran-9-baraa-treaties
+  - quran-2-patience-signs
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-52-i-mittani-gods-self-curses
+  checked:
+  - quran-9-baraa-treaties
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-cth-52-i-suttarna-ruins-mittani
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-18-moses-and-the-servant
+  - quran-3-badr-uhud
+  - quran-20-moses-pharaoh-magicians
+  matches:
+  - with: quran-7-moses-pharaoh
+    motif: impaling-or-crucifying-opponents
+    refs:
+    - CTH 52.I §2:22-25
+    with_refs:
+    - 7:124
+    relation: echo
+    record:
+      agent:
+      - Šuttarna's side
+      - Pharaoh
+      action:
+      - impale
+      - crucify
+      object:
+      - the Hurrian nobles
+      - the magicians
+      quoted:
+      - ana URU Taite ana GIŠ.MEŠ izzaqapūšunūti
+      - la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin thumma la-uṣallibannakum
+    note: The nobles are blinded and 'ana GIŠ.MEŠ izzaqapūšunūti' (impaled on stakes) at Taide. Pharaoh to the magicians, Q 7:124 'la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin thumma la-uṣallibannakum ajmaʿīn'. Mutilation then exposure on wood.
+  - with: quran-20-moses-pharaoh-magicians
+    motif: impaling-or-crucifying-opponents
+    refs:
+    - CTH 52.I §2:24-25
+    with_refs:
+    - 20:71
+    relation: echo
+    record:
+      instrument:
+      - stakes (GIŠ.MEŠ)
+      - trunks of palm trees
+      quoted:
+      - ana GIŠ.MEŠ izzaqapūšunūti
+      - la-uṣallibannakum fī judhūʿi n-nakhl
+    note: 'The wood is named on both sides: ''ana GIŠ.MEŠ izzaqapūšunūti'' vs Q 20:71 ''wa-la-uṣallibannakum fī judhūʿi n-nakhl''.'
+- unit: ane-cth-53-1-prologue
+  checked:
+  - quran-8-badr-help
+  - quran-3-badr-uhud
+  - quran-21-prophets-answered
+  - quran-2-israel-favor
+  matches: []
+- unit: ane-cth-53-10-fugitives-and-requests
+  checked:
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-4-strivers-emigration
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-8-ratio-captives
+  matches:
+  - with: quran-59-hashr-banu-nadir-and-fay
+    motif: what-the-lord-gives-take
+    refs:
+    - CTH 53 §12:111-116
+    - CTH 53 §14:133-138
+    with_refs:
+    - '59:7'
+    relation: echo
+    record:
+      agent:
+      - the vassal Tette
+      - the believers
+      action:
+      - takes what the lord gives
+      - take what the messenger gives
+      object:
+      - Nuḫašše people held in Hatti; whatever he desires
+      - the fayʾ from the people of the towns
+      quoted:
+      - inandinšu lilqe ... lā inandinšu; minumê ... lilqe, minumê NUN ... lū lā ileqqe
+      - wa-mā ātākumu r-rasūlu fa-khudhūhu wa-mā nahākum ʿanhu fa-ntahū
+      outcome:
+      - what is not given he may not take
+      - what he forbids, refrain from
+    note: 'The two-member rule on spoil and people: §12 ''if the king of Hatti gives him, let him take (lilqe); if he does not give him'' (taking him anyway breaks the oath); §14 ''whatever the prince gives, let him take; whatever the prince does not give, he shall not take'' (the verbs ''give'' restored in §14, preserved in §12). Q 59:7 on fayʾ: ''mā ātākumu r-rasūlu fa-khudhūhu wa-mā nahākum ʿanhu fa-ntahū''. The second member changes: ''does not give'' vs ''forbids''.'
+- unit: ane-cth-53-15-dead-man-revived
+  checked:
+  - quran-6-slaughter-chest-jinn
+  - quran-2-call-to-worship
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-abraham-king
+  matches: []
+- unit: ane-cth-53-17-divine-witnesses
+  checked:
+  - quran-12-joseph-full
+  - quran-16-parables-and-justice
+  - quran-4-fighting-and-death
+  - quran-74-cloaked
+  matches: []
+- unit: ane-cth-53-21-witnesses-curses-blessings
+  checked:
+  - quran-33-hour-and-trust
+  - quran-41-fussilat-creation
+  - quran-44-dukhan-pharaoh-drowned
+  - quran-2-sabbath-apes
+  matches: []
+- unit: ane-cth-53-5-stipulations-military
+  checked:
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-9-hunayn-jizya
+  - quran-4-fighting-and-death
+  - quran-48-fath-clear-victory-and-pledge
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: secret-messages-to-the-enemy
+    refs:
+    - CTH 53 §6:31-32
+    - CTH 53 §6:57-60
+    with_refs:
+    - '60:1'
+    relation: parallel
+    record:
+      agent:
+      - the vassal Tette
+      - the believers
+      action:
+      - writes to the enemy
+      - convey affection to the enemy in secret
+      recipient:
+      - the king's enemy
+      - my enemy and your enemy
+      quoted:
+      - itti nakriya lū nakir; ana LÚKÚR šâši ... išappar
+      - lā tattakhidhū ʿaduwwī wa-ʿaduwwakum awliyāʾ ... tusirrūna ilayhim bil-mawadda
+      outcome:
+      - he has broken the oath
+      - he has strayed from the right path
+    note: 'Friend-and-enemy formula plus the secret letter to the enemy. Tette: ''itti salmiya lū salim, itti nakriya lū nakir''; writing to the enemy ''the troops of Hatti are coming to attack you, be ready'' = ''ištu māmīti ītetiq''. Q 60:1 ''lā tattakhidhū ʿaduwwī wa-ʿaduwwakum awliyāʾ ... tusirrūna ilayhim bil-mawadda wa-anā aʿlamu bimā akhfaytum''. The overlord''s enemy is the vassal''s enemy / God''s enemy is ''your enemy''; the secret communication is the breach.'
+- unit: ane-cth-53-8-mutual-aid
+  checked:
+  - quran-8-emigrants-kin
+  - quran-9-baraa-treaties
+  - quran-3-badr-uhud
+  - quran-8-fifth-and-badr-vision
+  matches: []
+- unit: ane-cth-57-1-pijassili-decree
+  checked:
+  - quran-6-prophet-consoled-signs
+  - quran-2-retaliation-bequest
+  - quran-4-false-accusation
+  - quran-25-hell-and-the-day-of-angels
+  matches:
+  - with: quran-6-prophet-consoled-signs
+    motif: sovereigns-word-cannot-be-changed
+    refs:
+    - CTH 57 §3:11-12
+    with_refs:
+    - '6:34'
+    relation: echo
+    record:
+      object:
+      - the word of the tabarna, the great king
+      - the words of God
+      quoted:
+      - AWĀT tabarna LUGAL.GAL ŠA LĀ NADĀYAM ŠA LĀ ŠEBĒRI
+      - wa-lā mubaddila li-kalimāti llāh
+    note: 'The Akkadian formula in a Hittite decree: ''AWĀT tabarna LUGAL.GAL ša lā nadāyam ša lā šebēri'' (not to be cast aside, not to be broken); Q 6:34 ''lā mubaddila li-kalimāti llāh''.'
+  - with: quran-2-retaliation-bequest
+    motif: penalty-on-whoever-alters-the-text
+    refs:
+    - CTH 57 §3:13-14
+    with_refs:
+    - 2:181
+    relation: echo
+    record:
+      agent:
+      - whoever alters it
+      - whoever alters it
+      object:
+      - the tablet's words
+      - the bequest
+      quoted:
+      - kuiš=man=kan waḫnuzi ... LÚDI-ŠU ešdu
+      - fa-man baddalahū baʿdamā samiʿahū fa-innamā ithmuhū ʿalā lladhīna yubaddilūnah
+      outcome:
+      - the storm god and the gods are his adversary at law
+      - the sin is on those who alter it
+    note: '''kuiš=man=kan waḫnuzi'' (whoever changes it) shall have the storm god, the Sun goddess and all the gods as his legal opponent (LÚDI-ŠU). Q 2:181 on the bequest: ''fa-man baddalahū baʿdamā samiʿahū fa-innamā ithmuhū ʿalā lladhīna yubaddilūnahū''.'
+- unit: ane-cth-62-1-aziru-prologue
+  checked:
+  - quran-33-trench
+  - quran-23-believers-succeed
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-cth-62-12-aid-captives-secrets
+  checked:
+  - quran-2-closing
+  - quran-9-stayers-exempt
+  - quran-4-fighting-and-death
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-66-tahrim-wives-and-the-four-women
+  matches:
+  - with: quran-66-tahrim-wives-and-the-four-women
+    motif: rulers-secret-divulged
+    refs:
+    - CTH 62 §16:146-147
+    - CTH 62 §16:156-158
+    with_refs:
+    - '66:3'
+    relation: parallel
+    record:
+      agent:
+      - the king
+      - the Prophet
+      action:
+      - tells words in secret
+      - confides a word in secret
+      recipient:
+      - the vassal
+      - one of his wives
+      quoted:
+      - LUGAL-uš kuin ḫarwaši memian memai zik=an UL paḫḫašti
+      - asarra n-nabiyyu ilā baʿḍi azwājihī ḥadīthan fa-lammā nabbaʾat bihī
+      outcome:
+      - not keeping it breaks the oath
+      - God revealed it to him; the two are told to repent
+    note: '''If you do not keep (UL paḫḫašti) the word the king tells you secretly (ḫarwaši), you break the oath''. Q 66:3-4 ''wa-idh asarra n-nabiyyu ilā baʿḍi azwājihī ḥadīthan fa-lammā nabbaʾat bihī wa-aẓharahu llāhu ʿalayhi''.'
+- unit: ane-cth-62-17-refugees-booty-witness-assembly
+  checked:
+  - quran-9-baraa-treaties
+  - quran-4-homicide-law
+  - quran-20-moses-pharaoh-magicians
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-59-hashr-banu-nadir-and-fay
+  matches:
+  - with: quran-59-hashr-banu-nadir-and-fay
+    motif: what-the-lord-gives-take
+    refs:
+    - CTH 62 §18:171-179
+    with_refs:
+    - '59:7'
+    relation: echo
+    record:
+      agent:
+      - the vassal
+      - the believers
+      action:
+      - asks the king before taking
+      - take what the messenger gives
+      object:
+      - people let escape in war who enter his land
+      - the fayʾ
+      quoted:
+      - nat A-NA LUGAL URU KÙ.BABBAR-ti wek ... lē daitti
+      - mā ātākumu r-rasūlu fa-khudhūhu
+      outcome:
+      - taking on his own initiative breaks the oath
+      - what he forbids, refrain from
+    note: 'Hittite version of the rule: what the vassal wants of people fleeing a Hittite campaign ''nat A-NA LUGAL URU KÙ.BABBAR-ti wek'' (ask it of the king), ''ZI-za ... lē daitti'' (do not take it on your own); Q 59:7 ''wa-mā ātākumu r-rasūlu fa-khudhūhu''.'
+- unit: ane-cth-62-21-divine-witnesses
+  checked:
+  - quran-33-hour-and-trust
+  - quran-13-messengers-and-mother-of-book
+  - quran-19-prophets-remembered
+  - quran-95-fig
+  matches: []
+- unit: ane-cth-62-25-curse-blessing
+  checked:
+  - quran-2-call-to-worship
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-84-splitting
+  - quran-7-later-heirs-mountain
+  matches: []
+- unit: ane-cth-62-5-duppi-tessup-installed
+  checked:
+  - quran-2-abraham-kaaba
+  - quran-19-zechariah-and-john
+  - quran-20-closing-exhortation
+  - quran-9-mosques-and-kin
+  matches: []
+- unit: ane-cth-62-8-egypt-and-the-enemy
+  checked:
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-58-mujadila-zihar-and-secret-counsel
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-8-treaties-peace
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: secret-messages-to-the-enemy
+    refs:
+    - CTH 62 §9:81-87
+    with_refs:
+    - '60:1'
+    relation: parallel
+    record:
+      agent:
+      - Tuppi-Teššup (vassal)
+      - the believers
+      action:
+      - sends his messenger in secret
+      - convey affection in secret
+      recipient:
+      - the king of Egypt, the enemy
+      - my enemy and your enemy
+      quoted:
+      - zik=ma=šši duddumeli LÚṬE4-MA-KA
+      - tusirrūna ilayhim bil-mawadda
+      outcome:
+      - breaks the oath
+      - strays from the right path
+    note: '''duddumeli'' (secretly) the vassal''s envoy to Egypt while Egypt is the king''s enemy = ''NĪŠ DINGIR-LIM ... šarratti''; Q 60:1 ''tulqūna ilayhim bil-mawadda ... tusirrūna ilayhim bil-mawadda ... wa-man yafʿalhu minkum fa-qad ḍalla sawāʾa s-sabīl''.'
+- unit: ane-cth-67-1-offenders-and-sedition
+  checked:
+  - quran-5-christology-monks
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-cth-67-12-aid-deserters-captives
+  checked:
+  - quran-4-fighting-and-death
+  - quran-9-cave-and-call
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-hunayn-jizya
+  matches: []
+- unit: ane-cth-67-15-witnesses-curse
+  checked:
+  - quran-7-towns-pattern
+  - quran-9-baraa-treaties
+  - quran-24-obedience-and-succession
+  - quran-2-patience-signs
+  matches: []
+- unit: ane-cth-67-5-garrison-rumours-fugitives
+  checked:
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-4-fighting-and-death
+  - quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  - quran-48-fath-clear-victory-and-pledge
+  matches:
+  - with: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+    motif: fugitive-not-returned-by-divine-rule
+    refs:
+    - CTH 67 §7:81-91
+    with_refs:
+    - '60:10'
+    relation: parallel
+    record:
+      agent:
+      - the king of Hatti
+      - the believers
+      action:
+      - does not give the fugitive back
+      - do not return the emigrant women
+      quoted:
+      - EGIR-pa UL piḫḫi ... MUNABTU EGIR-pa piyanna UL āra
+      - fa-lā tarjiʿūhunna ilā l-kuffār lā hunna ḥillun lahum
+      outcome:
+      - a farmer or craftsman who fled his work is returned
+      - what they spent is repaid
+    note: '''EGIR-pa UL piḫḫi; IŠTU KUR Ḫatti LÚMUNABTU EGIR-pa piyanna UL āra'' - to give back a fugitive is not right (āra, the divinely sanctioned norm); but a farmer or craftsman who fled without working is seized and returned. Q 60:10: believing emigrant women ''lā tarjiʿūhunna'', ''lā hunna ḥillun lahum''; the exception is financial (repay the dowry), not a class of persons returned.'
+  - with: quran-4-fighting-and-death
+    motif: rumour-checked-before-acting
+    refs:
+    - CTH 67 §6:60-72
+    with_refs:
+    - 4:83
+    relation: echo
+    record:
+      action:
+      - writes the rumour to the king and waits
+      - refer the news to the messenger and those in authority
+      object:
+      - a whispered rumour
+      - news of security or fear
+      quoted:
+      - A-WA-TE.MEŠ katta piddanzi ... apūn memiyan A-NA dUTU-ŠI ... ḫatrāi ... lē nuntarnuši
+      - adhāʿū bihī wa-law raddūhu ilā r-rasūli wa-ilā ulī l-amri minhum
+      outcome:
+      - acting rashly breaks the oath
+      - they would have known it
+    note: '''Because mankind is unreliable, rumours go round (A-WA-TE.MEŠ katta piddanzi)'': write that rumour to My Majesty and do not act rashly (lē nuntarnuši). Q 4:83: when news of security or fear comes ''adhāʿū bihī'', ''wa-law raddūhu ilā r-rasūli wa-ilā ulī l-amri minhum la-ʿalimahu lladhīna yastanbiṭūnahū''. Divergence: in the treaty the rumour is about the king himself.'
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: rumour-checked-before-acting
+    refs:
+    - CTH 67 §6:60-72
+    with_refs:
+    - '49:6'
+    relation: echo
+    record:
+      action:
+      - waits for the king's answer, does not act rashly
+      - verify the report
+      object:
+      - a whispered rumour
+      - news brought by a fāsiq
+      quoted:
+      - lē nuntarnuši ... mān nuntarnuši=ma nu ... idālu iyaši
+      - fa-tabayyanū an tuṣībū qawman bi-jahālatin
+      outcome:
+      - rash action is evil against the king and breaks the oath
+      - you would regret what you did
+    note: 'The same clause read against Q 49:6 ''in jāʾakum fāsiqun bi-nabaʾin fa-tabayyanū an tuṣībū qawman bi-jahālatin fa-tuṣbiḥū ʿalā mā faʿaltum nādimīn'': act on no report before checking; ''lē nuntarnuši'' (do not be hasty) vs ''fa-tabayyanū''.'
+- unit: ane-cth-67-8-three-free-men
+  checked:
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-4-trusts-obedience
+  - quran-3-community
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-cth-69-1-manapa-tarhunta-prologue
+  checked:
+  - quran-12-joseph-full
+  - quran-9-baraa-treaties
+  - quran-3-world-and-witness
+  - quran-48-fath-clear-victory-and-pledge
+  matches:
+  - with: quran-12-joseph-full
+    motif: brothers-seek-to-kill-young-heir
+    refs:
+    - CTH 69 §1:2-8
+    with_refs:
+    - '12:9'
+    - '12:10'
+    relation: parallel
+    record:
+      agent:
+      - his brothers Ura-Tarḫunta and another
+      - Joseph's brothers
+      action:
+      - seek to kill him
+      - plan to kill him
+      object:
+      - Manapa-Tarḫunta, a child
+      - Joseph
+      quoted:
+      - DUMU-aš ešta ... ŠEŠ.MEŠ-KA kuenn[umanzi] šanḫiškir
+      - uqtulū yūsufa aw iṭraḥūhu arḍan
+      outcome:
+      - he flees to the men of Karkiša
+      - cast into the well, picked up by travellers
+    note: '''tu-uk ... DUMU-aš ešta'' (you were a child); your brothers sought to kill you (kuenn- šanḫiškir), you fled (išparzašta) to the men of Karkiša. Q 12:9-10 ''uqtulū yūsufa aw iṭraḥūhu arḍan ... lā taqtulū yūsufa wa-alqūhu fī ghayābati l-jubb''. He escapes by himself vs. he is cast away and carried off.'
+- unit: ane-cth-69-13-three-vassals
+  checked:
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-8-fifth-and-badr-vision
+  - quran-8-ratio-captives
+  - quran-4-trusts-obedience
+  matches: []
+- unit: ane-cth-69-19-witnesses
+  checked:
+  - quran-99-earthquake
+  - quran-9-baraa-treaties
+  - quran-24-obedience-and-succession
+  - quran-95-fig
+  matches: []
+- unit: ane-cth-69-26-curse-blessing
+  checked:
+  - quran-2-polemic-israel
+  - quran-6-prophet-consoled-signs
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-baraa-treaties
+  matches: []
+- unit: ane-cth-69-5-land-and-loyalty
+  checked:
+  - quran-4-wealth-household
+  - quran-14-parables-and-satans-speech
+  - quran-3-sovereignty
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-75-1-stolen-tablet
+  checked:
+  - quran-7-sinai-theophany
+  - quran-2-retaliation-bequest
+  - quran-2-talut-jalut
+  - quran-26-moses-and-pharaoh
+  matches:
+  - with: quran-2-retaliation-bequest
+    motif: penalty-on-whoever-alters-the-text
+    refs:
+    - CTH 75 §2:7-10
+    with_refs:
+    - 2:181
+    relation: echo
+    record:
+      agent:
+      - whoever alters it
+      - whoever alters it
+      object:
+      - the wording of this tablet
+      - the bequest
+      quoted:
+      - urram šēram amātum ša pî [ṭuppi] annî mamma lā ušpaḫ ... ša ušpaḫḫu BA.ÚŠ
+      - fa-man baddalahū baʿdamā samiʿahū fa-innamā ithmuhū ʿalā lladhīna yubaddilūnah
+      outcome:
+      - he dies
+      - the sin is on those who alter it
+    note: '''In future no one shall alter (lā ušpaḫ) the wording of this tablet ... whoever alters it (ša ušpaḫḫu) dies (BA.ÚŠ)''. Q 2:181 ''fa-man baddalahū baʿdamā samiʿahū fa-innamā ithmuhū ʿalā lladhīna yubaddilūnahū''.'
+- unit: ane-cth-75-15-mutual-protection
+  checked:
+  - quran-8-emigrants-kin
+  - quran-2-debt-contract
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-66-tahrim-wives-and-the-four-women
+  matches: []
+- unit: ane-cth-75-3-aleppo-history
+  checked:
+  - quran-3-sovereignty
+  - quran-18-dhul-qarnayn
+  - quran-9-baraa-treaties
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-cth-76-1-wilusa-prologue
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-26-moses-and-pharaoh
+  matches:
+  - with: quran-20-moses-pharaoh-magicians
+    motif: knowledge-of-the-distant-past
+    refs:
+    - CTH 76 §1:4-6
+    with_refs:
+    - '20:51'
+    - '20:52'
+    relation: divergence
+    record:
+      agent:
+      - Muwatalli, the great king
+      - Moses
+      object:
+      - which king Wiluša fell away from
+      - the former generations
+      quoted:
+      - memiyaš kuit ištantaiz- nan UL šaggaḫḫi
+      - ʿilmuhā ʿinda rabbī fī kitābin lā yaḍillu rabbī wa-lā yansā
+      outcome:
+      - I do not know him
+      - the knowledge is with my Lord in a book
+    note: '''Because the matter is long ago (memiyaš kuit ištant-), I do not know him (nan UL šaggaḫḫi)'' - the king does not know under which Hittite king Wiluša defected. Q 20:51-52 ''fa-mā bālu l-qurūni l-ūlā? qāla ʿilmuhā ʿinda rabbī fī kitābin lā yaḍillu rabbī wa-lā yansā''. Human forgetting of the distant past vs a Lord who neither errs nor forgets.'
+- unit: ane-cth-76-10-rumours-and-campaigns
+  checked:
+  - quran-5-contracts-food-laws
+  - quran-2-israel-favor
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-7-moses-pharaoh
+  matches:
+  - with: quran-7-moses-pharaoh
+    motif: bird-augury
+    refs:
+    - CTH 76 §10:178
+    with_refs:
+    - 7:131
+    relation: echo
+    record:
+      object:
+      - a bird oracle (MUŠEN)
+      - the bird-omen (ṭāʾir)
+      quoted:
+      - ŠA MUŠEN=ma=za=kan uttar peran šarā lē kuitki epti
+      - yaṭṭayyarū bi-mūsā wa-man maʿahū alā innamā ṭāʾiruhum ʿinda llāh
+    note: Called to help, the vassal must 'not first take up any matter of the bird (ŠA MUŠEN uttar)'. Q 7:131 Pharaoh's people 'yaṭṭayyarū bi-mūsā ... alā innamā ṭāʾiruhum ʿinda llāh'. Bird-augury is set aside - by the king's command vs because the omen is with God.
+- unit: ane-cth-76-15-unreliable-mankind
+  checked:
+  - quran-12-joseph-full
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-5-oaths-wine-game
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-4-fighting-and-death
+  matches:
+  - with: quran-4-fighting-and-death
+    motif: rumour-checked-before-acting
+    refs:
+    - CTH 76 §15:211-224
+    with_refs:
+    - 4:83
+    relation: echo
+    record:
+      action:
+      - writes the rumour to the king and waits
+      - refer the news to the messenger and those in authority
+      object:
+      - a whispered rumour
+      - news of security or fear
+      quoted:
+      - antuḫšatar=ra kuit maršaḫḫan ... memian A-NA dUTU-ŠI kuitman ŠUPUR
+      - wa-law raddūhu ilā r-rasūli wa-ilā ulī l-amri minhum
+      outcome:
+      - do not act rashly
+      - they would have known it
+    note: 'Duplicate of the CTH 67 clause in the Alakšandu treaty: ''antuḫšatar=ra kuit maršaḫḫan'' (mankind is corrupt), rumours spread; write the rumour to My Majesty and do not act hastily (nuntar-). Q 4:83 ''law raddūhu ilā r-rasūli wa-ilā ulī l-amri minhum''.'
+- unit: ane-cth-76-19-read-three-times
+  checked:
+  - quran-73-enwrapped
+  - quran-7-sinai-theophany
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-cth-76-20-witnesses-wilusa
+  checked:
+  - quran-1-fatiha
+  - quran-41-steadfast-and-repel-evil
+  - quran-2-patience-signs
+  - quran-95-fig
+  matches: []
+- unit: ane-cth-76-24-curse-blessing
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-baraa-treaties
+  - quran-2-patience-signs
+  matches: []
+- unit: ane-cth-76-6-succession-and-protection
+  checked:
+  - quran-37-sacrifice-of-son
+  - quran-93-94-forenoon-and-expansion
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-baraa-treaties
+  matches: []
+- unit: ane-cth-78-1-anniya-fragment
+  checked:
+  - quran-25-servants-of-the-merciful
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-6-final-reckoning
+  matches: []
+- unit: ane-cth-89-1-tiliura-history
+  checked:
+  - quran-2-sleeper-hundred-years
+  - quran-2-talut-jalut
+  - quran-37-noah
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-cth-89-6-kaska-regulations
+  checked:
+  - quran-9-hunayn-jizya
+  - quran-2-wine-marriage
+  - quran-4-hypocrites-two-factions
+  - quran-36-people-of-the-town
+  matches:
+  - with: quran-2-wine-marriage
+    motif: marriage-with-hostile-outsider
+    refs:
+    - CTH 89 §17:101-103
+    with_refs:
+    - 2:221
+    relation: echo
+    record:
+      agent:
+      - a Kaška man
+      - the mushrikūn
+      action:
+      - takes a woman of the city
+      - marry
+      quoted:
+      - MUNUS LÚ URU Gašga dāi ... URU-an GAM-an pāi
+      - wa-lā tunkiḥū l-mushrikīna ḥattā yuʾminū ... ulāʾika yadʿūna ilā n-nār
+      outcome:
+      - he will betray the city
+      - they call to the Fire
+    note: 'Tiliura rules: if a Kaška man takes a woman (of the city) for himself and comes in, ''URU-an GAM-an pāi'' (he will betray the city). Q 2:221 ''wa-lā tunkiḥū l-mushrikīna ḥattā yuʾminū ... ulāʾika yadʿūna ilā n-nār''. The danger of marriage with the hostile outsider is betrayal of the city vs being drawn to the Fire.'
+- unit: ane-cth-92-1-bentesina-history
+  checked:
+  - quran-12-joseph-full
+  - quran-4-marriage-forbidden-degrees
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-cth-92-10-stipulations
+  checked:
+  - quran-8-treaties-peace
+  - quran-9-baraa-treaties
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-8-fifth-and-badr-vision
+  matches: []
+- unit: ane-cth-92-6-dead-man-revived
+  checked:
+  - quran-6-slaughter-chest-jinn
+  - quran-33-adoption-and-zihar
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-3-sovereignty
+  matches:
+  - with: quran-33-adoption-and-zihar
+    motif: love-ruler-as-own-self
+    refs:
+    - CTH 92 §9:67-68
+    with_refs:
+    - '33:6'
+    relation: divergence
+    record:
+      agent:
+      - Bentešina (vassal)
+      - the believers
+      object:
+      - the king's soul and person, wife, children, land
+      - the Prophet
+      quoted:
+      - kīme [napištaka pagarka] DAM-ka DUMU.MEŠ-ka KUR-ka ... uqqur ... ZI SAG.DU LUGAL ... līqurū-ka
+      - an-nabiyyu awlā bil-muʾminīna min anfusihim
+      outcome:
+      - as precious as your own
+      - closer than their own selves
+    note: '''As your [soul, body,] wife, children, land are precious (uqqur) to you, so the soul and person of the king ... shall be precious to you'' (the vassal''s own soul restored). Q 33:6 ''an-nabiyyu awlā bil-muʾminīna min anfusihim'' - equal to the self vs nearer than the self.'
+  - with: quran-6-slaughter-chest-jinn
+    motif: one-who-was-dead-given-life
+    refs:
+    - CTH 92 §6:36-39
+    with_refs:
+    - 6:122
+    relation: echo
+    record:
+      agent:
+      - the great king
+      - God
+      action:
+      - brought back to life a dead man
+      - gave life to one who was dead
+      quoted:
+      - anāku LÚ-la mīta dubtallaṭanni
+      - a-wa-man kāna maytan fa-aḥyaynāhu
+      outcome:
+      - restored to his father's throne
+      - given a light to walk among people
+    note: 'Bentešina: ''anāku LÚ-la mīta [d]ubtallaṭanni'' (I was a dead man, you brought me back to life), restored to his father''s throne. Q 6:122 ''a-wa-man kāna maytan fa-aḥyaynāhu wa-jaʿalnā lahū nūran yamshī bihī fī n-nās''. Same figure; the life given is kingship vs guidance.'
+- unit: ane-cth-96-1-kurunta-declaration
+  checked:
+  - quran-12-joseph-full
+  - quran-24-obedience-and-succession
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-3-sovereignty
+  matches: []
