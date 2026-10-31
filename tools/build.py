@@ -217,7 +217,7 @@ def first_note(lead):
 
 def clip(text, n):
     text = re.sub(r"\s+", " ", str(text or "")).strip()
-    return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0] + "…"
+    return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0].rstrip(" .,;:…") + "…"
 
 
 def search_text(lead, rec):

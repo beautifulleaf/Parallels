@@ -702,7 +702,7 @@ units:
       - "A ruined frontier city rebuilt and its exiles brought back: compare Q 2:259 (the town fallen on its roofs, revived after a hundred years) and 17:6; HB secondary: Neh 7:4 and 11:1-2 (Jerusalem repopulated), Ezra 2."
   - id: ane-cth-89-6-kaska-regulations
     tradition: ane-hittite
-    title: Rules for the Kaška: not into the city, mixed marriage, slaves, renegades (CTH 89 §§6-20)
+    title: "Rules for the Kaška: not into the city, mixed marriage, slaves, renegades (CTH 89 §§6-20)"
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Hittite"
@@ -893,7 +893,7 @@ units:
   # ---------------- CTH 123 ----------------
   - id: ane-cth-123-1-oath-fragments
     tradition: ane-hittite
-    title: Fragmentary opening of a loyalty oath: life, a new man, blood (CTH 123 §§1-9)
+    title: "Fragmentary opening of a loyalty oath: life, a new man, blood (CTH 123 §§1-9)"
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Hittite"
@@ -955,7 +955,7 @@ units:
       - "'Do not lift your neck': compare Q 26:4 and 17:37 (pride) and 49:2-3 (do not raise your voices above the Prophet's)."
   - id: ane-cth-123-29-fragments
     tradition: ane-hittite
-    title: Fragmentary end: frontier service, no hiding of slanderers, oath for the royal seed (CTH 123 §§29-43)
+    title: "Fragmentary end: frontier service, no hiding of slanderers, oath for the royal seed (CTH 123 §§29-43)"
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Hittite"
@@ -972,7 +972,7 @@ units:
   # ---------------- CTH 132 ----------------
   - id: ane-cth-132-1-kizzuwatna-witnesses
     tradition: ane-hittite
-    title: Late treaty with Kizzuwatna: witnesses and the curse on altering the tablet (CTH 132)
+    title: "Late treaty with Kizzuwatna: witnesses and the curse on altering the tablet (CTH 132)"
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Hittite"
@@ -989,7 +989,7 @@ units:
   # ---------------- CTH 133 ----------------
   - id: ane-cth-133-1-ismerika-oath
     tradition: ane-hittite
-    title: Arnuwanda's oath for the men of Išmerika: witnesses and curses (CTH 133 §§1-4)
+    title: "Arnuwanda's oath for the men of Išmerika: witnesses and curses (CTH 133 §§1-4)"
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Hittite"
@@ -1040,7 +1040,7 @@ units:
   # ---------------- CTH 134 ----------------
   - id: ane-cth-134-1-kurustama
     tradition: ane-hittite
-    title: The Kuruštama treaty: Hatti and Egypt as allies (CTH 134)
+    title: "The Kuruštama treaty: Hatti and Egypt as allies (CTH 134)"
     corpus: ane
     original: true
     tagger: "Claude (model), reading the Hittite"

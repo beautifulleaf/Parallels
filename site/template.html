@@ -204,7 +204,7 @@ header.top { display: grid; gap: 12px; margin-bottom: 22px; }
   display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; align-items: center; }
 .shead-mid { text-align: center; min-width: 0; }
 .shead h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(20px, 3.4vw, 28px); margin: 0; letter-spacing: 0.02em; line-height: 1.2; }
-.shead h2 .ar { font-family: var(--font-arabic); font-size: 0.95em; margin-inline-start: 8px; }
+.shead h2 .ar { font-family: var(--font-arabic); font-size: 0.95em; margin-left: 12px; display: inline-block; }
 .shead .count { display: block; margin-top: 2px; }
 .nav { font-family: var(--font-mono); font-size: 12px; text-decoration: none; padding: 6px 10px; border: 1px solid var(--rule); border-radius: 6px; white-space: nowrap; }
 .nav:hover { border-color: var(--lapis); }
@@ -240,7 +240,7 @@ a.lr-head:hover .lr-title, button.lr-head:hover .lr-title { color: var(--lapis);
 .lr-note { font-size: 14px; color: var(--muted); max-width: 80ch; }
 .lr-caret { font-family: var(--font-mono); font-size: 11px; color: var(--lapis); }
 .lrow.open { border-color: var(--lapis); border-left-color: var(--k, var(--lapis)); }
-.lrow.open .lr-note { -webkit-line-clamp: unset; display: block; }
+.lrow.open .lr-note { display: none; }
 .lr-body { padding: 4px 14px 16px; border-top: 1px solid var(--rule); display: grid; gap: 16px; }
 .lr-body[hidden] { display: none; }
 .list { display: grid; gap: 6px; }
@@ -425,6 +425,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   const RTL = new Set(["ar", "he", "arc", "syc", "myz"]);
   const BASIS = { original: "from the original", reading: "a reader's interpretation of the original", lexicon: "from a lexicon", gloss: "relies on English glosses", scholarship: "secondary scholarship" };
   const kindVar = k => `var(--k-${k})`;
+  let allTrads = false;
   const state = { q: "", only: {}, ...Object.fromEntries(KEYS.map(k => [k, new Set()])) };
 
   // ------------------------------------------------------------------ filtering
@@ -488,8 +489,12 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     const kc = tally("kinds");
     document.getElementById("f-kinds").innerHTML = ORDER.kinds.map(k => chip(KIND[k], k, "kinds", kc.get(k) || 0, ` data-k style="--k: ${kindVar(k)}"`)).join("") || `<span class="hint">None</span>`;
     const tc = tally("traditions");
-    document.getElementById("f-traditions").innerHTML = DATA.traditions.filter(t => t.id !== "islam")
-      .map(t => chip(t.name.replace(/ \(.*\)$/, ""), t.id, "traditions", tc.get(t.id) || 0)).join("");
+    const trads = DATA.traditions.filter(t => t.id !== "islam" && (tc.get(t.id) || state.traditions.has(t.id)))
+      .sort((a, b) => (tc.get(b.id) || 0) - (tc.get(a.id) || 0));
+    const shown = allTrads ? trads : trads.filter((t, i) => i < 7 || state.traditions.has(t.id));
+    document.getElementById("f-traditions").innerHTML = shown
+      .map(t => chip(t.name.replace(/ \(.*\)$/, ""), t.id, "traditions", tc.get(t.id) || 0)).join("")
+      + (trads.length > 7 ? `<button type="button" class="chip" id="all-trads" aria-expanded="${allTrads}" style="border-style:dashed">${allTrads ? "Fewer" : `+${trads.length - shown.length} more`}</button>` : "");
     for (const key of MORE) {
       if (document.getElementById("more-pop").hidden && !state[key].size) continue;   // counted when the sheet is open
       const c = tally(key);
@@ -508,11 +513,16 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 
   // ------------------------------------------------------------------ pieces of a row
   const quranUnitOf = (r, s) => r.u.find(u => new RegExp(`^quran-${s}(-|$)`).test(u));
-  function partnerOf(r, s) {
+  const sideName = t => t === "islam" ? "Quran" : tradName(t);
+  function partnerOf(r, s, fromTrad) {
     const units = r.u.map(id => ({ id, title: UNITS[id]?.[0] || id, trad: UNITS[id]?.[1] }));
+    if (fromTrad) {   // seen from a partner tradition: show the other side
+      const o = units.find(u => u.trad !== fromTrad) || units[1];
+      if (o) return { title: o.title, trad: sideName(o.trad) };
+    }
     const own = s ? quranUnitOf(r, s) : null;
     const p = units.find(u => u.id !== own && u.trad !== "islam") || units.find(u => u.id !== own) || null;
-    if (p) return { title: p.title, trad: tradName(p.trad) };
+    if (p) return { title: p.title, trad: sideName(p.trad) };
     const ts = r.tr.filter(t => t !== "islam");
     return { title: r.t || r.f, trad: (ts.length ? ts : r.tr).map(tradName).join(" · ") };
   }
@@ -528,8 +538,9 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     return r.n;
   }
   const priority = r => Math.min(...(r.k.length ? r.k : ["shared"]).map(k => ORDER.kinds.indexOf(k)));
-  function badges(r) {
-    const kinds = r.k.map(k => `<span class="kind" style="--k: ${kindVar(k)}">${esc(KIND[k])}</span>`).join("");
+  function badges(r, max = 9) {
+    const ks = [...r.k].sort((a, b) => ORDER.kinds.indexOf(a) - ORDER.kinds.indexOf(b));
+    const kinds = ks.slice(0, max).map(k => `<span class="kind" style="--k: ${kindVar(k)}">${esc(KIND[k])}</span>`).join("") + (ks.length > max ? `<span class="hint">+${ks.length - max}</span>` : "");
     const plain = r.k.length ? "" : r.ly.map(l => `<span class="tag standing">${esc(l)}</span>`).join("");
     const status = (r.st && r.st !== "new" ? `<span class="tag status" data-status="${esc(r.st)}">${esc(r.st)}</span>` : "")
       + (r.rv ? `<span class="tag checked">checked in the original</span>` : "")
@@ -537,8 +548,8 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     return kinds + plain + status;
   }
   const kStyle = r => `--k: ${r.k.length ? kindVar(ORDER.kinds[priority(r)]) : "var(--rule)"}`;
-  function rowInner(r, s, where) {
-    const p = partnerOf(r, s);
+  function rowInner(r, s, where, fromTrad) {
+    const p = partnerOf(r, s, fromTrad);
     const a = s ? anchorIn(r, s) : null;
     const span = where ? whereText(r) : a ? spanText(a[1], a[2]) : "";
     return `<span class="lr-top">${badges(r)}<span class="lr-span">${esc(span)}</span></span>
@@ -546,7 +557,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
       <span class="lr-note clamp2">${esc(noteOf(r))}</span>`;
   }
   // a row that links to the lead (lists, search, tradition pages)
-  const linkRow = (r, s) => `<div class="lrow" style="${kStyle(r)}"><a class="lr-head" href="#/lead/${esc(r.id)}">${rowInner(r, s, true)}</a></div>`;
+  const linkRow = (r, s, fromTrad) => `<div class="lrow" style="${kStyle(r)}"><a class="lr-head" href="#/lead/${esc(r.id)}">${rowInner(r, s, !s, fromTrad)}</a></div>`;
 
   // ------------------------------------------------------------------ the comparison body (as before)
   function notesHtml(md) {
@@ -670,8 +681,8 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
       if (token === renderToken) view.innerHTML = `<p class="empty-state">Could not load this page (${esc(e.message)}).</p>`;
       console.error(e);
     }
-    if (keepScroll !== null) window.scrollTo(0, keepScroll);
-    else if (!opts.anchored) window.scrollTo(0, 0);
+    if (keepScroll !== null) window.scrollTo({ top: keepScroll, behavior: "instant" });
+    else if (!opts.anchored) window.scrollTo({ top: 0, behavior: "instant" });
   }
   const setTitle = t => { document.title = t ? `${t} · Parallels Ledger` : "Parallels Ledger"; };
 
@@ -716,7 +727,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     const hl = highlights(list).map(r => {
       const p = partnerOf(r, r.q[0][0]);
       return `<a class="hl" href="#/lead/${esc(r.id)}" style="${kStyle(r)}">
-        <span class="lr-top">${badges(r)}</span>
+        <span class="lr-top">${badges(r, 2)}</span>
         <span class="hl-title">${esc(r.f)}</span>
         <span class="hl-pair">${esc(p.title)} · ${esc(p.trad)}</span>
         <span class="lr-note clamp3">${esc(noteOf(r))}</span>
@@ -832,10 +843,10 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   const groupBlock = (title, sub, rowsHtml, href) => `<div class="group-head"><h3>${href ? `<a href="${href}">${esc(title)}</a>` : esc(title)}</h3>${sub ? `<span class="sub">${esc(sub)}</span>` : ""}</div><div class="list">${rowsHtml}</div>`;
   const sortRows = list => list.sort((a, b) => priority(a) - priority(b) || (b.m || 0) - (a.m || 0) || a.id.localeCompare(b.id));
   const PER_GROUP = 25;
-  function capped(list, key, s) {
+  function capped(list, key, s, fromTrad) {
     const all = expanded.has(key);
     const shown = all ? list : list.slice(0, PER_GROUP);
-    return shown.map(r => linkRow(r, s)).join("")
+    return shown.map(r => linkRow(r, s, fromTrad)).join("")
       + (list.length > shown.length ? `<button type="button" class="linkbtn" data-expand="${esc(key)}">Show all ${list.length}</button>` : "");
   }
   const expanded = new Set();
@@ -852,7 +863,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     const html = [...groups.keys()].sort((a, b) => a - b).map(k => {
       const rows = sortRows(groups.get(k));
       return k === 999
-        ? groupBlock("Beyond the Quran", `${rows.length} lead${rows.length === 1 ? "" : "s"}`, capped(rows, "s-beyond"), "#/beyond")
+        ? groupBlock("Beyond the Quran", `${rows.length} lead${rows.length === 1 ? "" : "s"}`, capped(rows, "s-beyond", -1), "#/beyond")
         : groupBlock(`${k} · ${suraName(k)}`, `${rows.length} lead${rows.length === 1 ? "" : "s"}`, capped(rows, "s-" + k, k), `#/surah/${k}`);
     }).join("");
     view.innerHTML = `<div class="page-head"><a class="crumb" href="#/">‹ The Quran</a><h2>“${esc(state.q)}”</h2>
@@ -870,7 +881,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
       groups.get(key).push(r);
     }
     const html = [...groups].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
-      .map(([k, rows]) => groupBlock(k, `${rows.length}`, capped(sortRows(rows), "b-" + k))).join("");
+      .map(([k, rows]) => groupBlock(k, `${rows.length}`, capped(sortRows(rows), "b-" + k, -1))).join("");
     view.innerHTML = `<div class="page-head"><a class="crumb" href="#/">‹ The Quran</a><h2>Beyond the Quran</h2>
       <p>Leads that touch no Quran verse: patterns inside the Hebrew Bible, the Ancient Near East beside the Hebrew Bible, and Hebrew word studies.</p></div>
       ${html || `<p class="empty-state">No leads here match the filters.</p>`}`;
@@ -913,7 +924,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     }
     const html = [...groups].sort((a, b) => b[1].rows.length - a[1].rows.length || a[1].title.localeCompare(b[1].title))
       .map(([k, g]) => groupBlock(g.title, [g.sub, `${g.rows.length} lead${g.rows.length === 1 ? "" : "s"}`].filter(Boolean).join(" · "),
-        capped(sortRows(g.rows), "t-" + k))).join("");
+        capped(sortRows(g.rows), "t-" + k, 0, id))).join("");
     view.innerHTML = `<div class="page-head"><a class="crumb" href="#/traditions">‹ By tradition</a><h2>${esc(t.name)}</h2>
       <p>${list.length} lead${list.length === 1 ? "" : "s"}, grouped by ${esc(t.name)} text. Each row opens where it lands in the Quran.</p></div>
       ${html || `<p class="empty-state">No ${esc(t.name)} leads match the filters.</p>`}`;
@@ -950,9 +961,10 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     if (c) {
       const set = state[c.dataset.key];
       set.has(c.dataset.value) ? set.delete(c.dataset.value) : set.add(c.dataset.value);
-      render({ keepScroll: route().name !== "home" ? false : true });
+      render({ keepScroll: true });
       return;
     }
+    if (e.target.closest("#all-trads")) { allTrads = !allTrads; renderBar(); return; }
     if (e.target.id === "clear") { for (const k of KEYS) state[k].clear(); render({ keepScroll: true }); return; }
     const x = e.target.closest("[data-expand]");
     if (x) { expanded.add(x.dataset.expand); render({ keepScroll: true }); return; }
