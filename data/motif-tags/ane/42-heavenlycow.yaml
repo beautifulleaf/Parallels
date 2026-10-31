@@ -1,0 +1,321 @@
+# Full read of the ANE corpus, chunk 42: Book of the Heavenly Cow, Contendings of Horus and Seth,
+# Admonitions of Ipuwer, Dispute of a Man with his Ba, Instruction for Merikare.
+# Read from the TLA 2018 export (transliteration, lemmas, German translation; Ipuwer with Enmarch's English).
+# Each manuscript witness (W1, W2 ...) is its own unit; later witnesses that only repeat W1 are short units noting variants.
+new_motifs:
+  humans-plot-against-aged-sun-god: {label: "When the sun god has grown old, humankind plots against him (kꜣi̯ md,t r ...)", cluster: flood}
+  aged-god-bones-silver-flesh-gold-hair-lapis: {label: "The aged god's body is described as precious materials: bones of silver, flesh of gold, hair of lapis lazuli", cluster: theology}
+  humans-came-from-gods-eye: {label: "Humankind came into being from the creator's eye (his tears)", cluster: creation}
+  gods-eye-sent-as-slaughtering-goddess: {label: "The sun god sends out his Eye in the form of a goddess (Hathor/Sakhmet) to slay rebellious humankind", cluster: flood}
+  destroying-goddess-wades-in-human-blood: {label: "The destroying goddess wades in the blood of the slain humans", cluster: flood}
+  beer-dyed-red-to-deceive-destroyer: {label: "To stop the destroyer, the god has thousands of jars of beer dyed red like human blood and poured out over the fields", cluster: flood}
+  destroyer-drunk-humanity-spared: {label: "The destroying goddess drinks the red beer, becomes drunk, no longer recognises humans, and the remnant of humankind survives", cluster: flood}
+  so-it-came-about-etiology-formula: {label: "Recurring etiological formula 'so came about X' (ḫpr X pw) deriving a name, place, rite or custom from a word or act of the god", cluster: etiology}
+  festival-of-intoxicating-drink-etiology: {label: "An annual festival with an intoxicating drink for a goddess is founded on the day humankind was spared", cluster: cult}
+  creator-weary-of-humankind-withdraws: {label: "The creator, weary of living among humans, withdraws from earth to heaven", cluster: flood}
+  god-carried-to-sky-on-celestial-cow: {label: "The sky goddess turns into a cow and carries the sun god up on her back; she becomes the sky", cluster: cosmology}
+  origin-of-slaughter-among-humans: {label: "After the god's withdrawal humans take up bows and clubs against one another: the origin of slaughter among humankind", cluster: flood}
+  supporters-hold-up-the-sky: {label: "Gods (Shu, the Heh-gods) are set beneath the sky (cow) to hold it up", cluster: cosmology}
+  afterlife-fields-named-by-god: {label: "The god's words name and create the fields of the hereafter (Field of Offerings, Field of Reeds) and the stars", cluster: paradise}
+  moon-god-appointed-deputy-of-sun: {label: "The sun god appoints the moon god (Thoth) his deputy and representative to shine in the night", cluster: cosmology}
+  serpents-of-earth-put-under-guard: {label: "The high god orders the earth god to guard the serpents within the earth and hands them over to the god of the dead", cluster: cosmology}
+  ritual-purity-for-reciting-sacred-text: {label: "Whoever recites the sacred text must be purified: natron in the mouth, new linen, white sandals, bathing in floodwater, a purification of nine days", cluster: cult}
+  ba-of-each-god-catalogue: {label: "Catalogue identifying the ba (manifestation) of each god with another being or element (Shu's ba is the wind, Nun's ba is Re, Osiris's ba the ram of Mendes)", cluster: theology}
+  deceaseds-names-eternity-and-everlastingness: {label: "Asked his names, the blessed dead answers 'Eternity and Everlastingness' (nḥḥ ḥnꜥ ḏt)", cluster: afterlife}
+  deity-says-i-am-who-i-am: {label: "A divine utterance reads 'I am (who) I am' (Egyptian jw =j jm =j)", cluster: theology}
+  dead-king-joins-gods-retinue: {label: "The dead king is welcomed by the gods to be one of the retinue of the sun god, living for ever", cluster: afterlife}
+  learned-scribe-passes-freely-to-heaven: {label: "The scribe who knows the sacred writings and spells goes up and down to heaven unhindered and no wrongdoing is counted against him", cluster: afterlife}
+  heir-claims-fathers-office-before-tribunal: {label: "The son of the dead king sues before the divine tribunal for his father's office, against his father's brother", cluster: kingship}
+  divine-lawsuit-drags-on-eighty-years: {label: "The lawsuit between two gods has dragged on for eighty years without a verdict", cluster: law}
+  tribunal-writes-to-oracle-goddess: {label: "The divine tribunal, unable to decide, writes a letter to a senior goddess (Neith) and promises to do what she says", cluster: law}
+  goddess-threatens-sky-falls-on-earth: {label: "A goddess threatens that if injustice is done she will rage and the sky will fall on the earth", cluster: cosmology}
+  loser-compensated-with-foreign-goddesses: {label: "The losing party is to be compensated with the goddesses Anat and Astarte as wives", cluster: kingship}
+  high-god-insulted-sulks-alone: {label: "Insulted in the assembly, the high god lies on his back in his pavilion, sick at heart, alone for a whole day", cluster: theology}
+  goddess-exposes-herself-to-cheer-god: {label: "A goddess exposes her genitals to the sulking high god, who laughs and returns to the assembly", cluster: theology}
+  ferryman-bribed-with-gold-ring: {label: "Barred from the island, the goddess disguised as an old woman bribes the ferryman with a gold ring after he refuses bread", cluster: trickster}
+  shapeshifting-goddess-entraps-rival: {label: "The goddess changes herself into a beautiful young woman (then a kite) to trap her adversary", cluster: trickster}
+  gold-made-taboo-in-city: {label: "Punished for taking gold, a god forswears gold, which becomes an abomination in his city", cluster: etiology}
+  rivals-contest-as-hippopotami: {label: "Two rival gods turn into hippopotami and stay under water; whoever surfaces before three months loses", cluster: kingship}
+  mother-harpoons-wrong-combatant: {label: "The mother throws a copper harpoon into the water; it strikes her own son, then her brother, and she releases each when he cries out", cluster: kingship}
+  son-beheads-his-mother: {label: "The angry son cuts off his mother's head; she becomes a headless flint statue", cluster: kingship}
+  eyes-torn-out-become-lotuses: {label: "The rival tears out the young god's eyes and buries them; they grow into lotus flowers", cluster: kingship}
+  eyes-healed-with-gazelle-milk: {label: "A goddess heals the blinded god by putting gazelle's milk in his eyes", cluster: healing}
+  rival-attempts-homosexual-domination: {label: "At night the rival puts his semen between the young god's thighs, to claim before the court that he has 'done a man's work' on him", cluster: kingship}
+  semen-on-lettuce-impregnates-rival: {label: "The mother puts her son's semen on the lettuce the rival eats; he becomes 'pregnant' and the semen answers from inside him", cluster: trickster}
+  semen-called-forth-in-court: {label: "The divine scribe calls each god's semen to come out; it answers from where it is, proving the truth before the court", cluster: law}
+  stone-ship-contest: {label: "Two rivals race in ships of stone; one secretly plasters a wooden ship, the other's real stone ship sinks", cluster: trickster}
+  god-of-dead-made-grain-for-gods-and-men: {label: "The god of the dead claims to have created barley and emmer to keep gods and humans ('the small cattle') alive", cluster: creation}
+  messengers-of-underworld-fear-no-god: {label: "The land of the dead is full of fierce-faced messengers who fear no god or goddess and fetch the heart of every evildoer", cluster: underworld}
+  all-gods-and-men-go-down-to-west: {label: "The god of the dead reminds the gods that all of them, and nobles and commoners after them, go down to rest in the West where he is", cluster: underworld}
+  defeated-rival-brought-in-fetters: {label: "The defeated rival is brought bound in fetters (a yoke) before the high god and concedes the throne", cluster: kingship}
+  defeated-rival-becomes-thunderer-with-sun-god: {label: "The defeated rival is taken by the sun god as a son to sit with him and thunder in the sky, feared by all", cluster: kingship}
+  heaven-and-land-rejoice-at-coronation: {label: "When the rightful heir is crowned the gods hold festival, heaven rejoices, the whole land jubilates and garlands are taken up", cluster: kingship}
+  lament-refrain-o-yet: {label: "A lament built on a long refrain ('O, yet ...', jw ms ...) listing one sign of the land's ruin after another", cluster: lament}
+  lament-refrain-look: {label: "A lament built on the refrain 'Look ...' (m =tn ...), each line setting a former state against the present", cluster: lament}
+  have-nots-become-owners: {label: "Litany of inversion: he who had nothing owns riches, he who had no boat owns ships, the maidservant wears jewels, the lady is in rags", cluster: lament}
+  dead-buried-in-river: {label: "The many dead are thrown into the river: 'the flood is a grave, the tomb has become a flood'", cluster: lament}
+  women-barren-creator-cannot-fashion: {label: "Women are barren and the creator (Khnum) cannot fashion because of the state of the land", cluster: lament}
+  pestilence-and-blood-throughout-land: {label: "Pestilence (jꜣdt) is throughout the land and blood is everywhere", cluster: lament}
+  people-wish-to-die: {label: "Great and small say 'I wish I could die', or wish for the end of humankind with no conception or birth", cluster: lament}
+  tomb-robbing-and-mummies-cast-out: {label: "The embalmed dead are thrown out on the high ground, the pyramid is emptied and the king buried as a falcon lies exposed", cluster: lament}
+  sacred-writings-and-secrets-exposed: {label: "The temple's writings are removed, the secrets of kingship and the holy places are laid bare, and ordinary people know them", cluster: lament}
+  no-voyages-to-byblos-for-coffin-wood: {label: "No one sails to Byblos any more, so there is no cedar for coffins and oil for embalming", cluster: lament}
+  remember-the-rites-litany: {label: "Litany 'Remember ...' (sḫꜣ ...) calling to mind the lost temple rites, offerings and purity rules", cluster: lament}
+  it-is-good-when-litany: {label: "Litany 'Indeed it is good when ...' picturing the restored order (ships sail, canals are dug, people feast)", cluster: lament}
+  sage-reproaches-creator-as-negligent-shepherd: {label: "The sage reproaches the creator, called 'shepherd of all', for letting his herd perish: he should have known their nature and struck them in the first generation", cluster: theodicy}
+  creator-should-have-destroyed-first-generation: {label: "Had the creator recognised humankind's character in the first generation, he would have stretched out his arm and destroyed the herd and their heirs", cluster: theodicy}
+  three-go-on-road-two-arrive: {label: "Image of insecurity: if three men go on the road, only two are found", cluster: lament}
+  sage-answers-lord-of-all: {label: "Dialogue frame: the sage answers the Lord of All, and the Lord of All answers him", cluster: theodicy}
+  ba-drags-man-toward-death: {label: "The man complains that his own ba wants to leave him and drag him into death before his time", cluster: theodicy}
+  burial-only-brings-grief: {label: "The ba argues that burial and tombs are only heartbreak: the builders of pyramids have bare altars like those who died on the riverbank", cluster: theodicy}
+  follow-the-beautiful-day: {label: "Exhortation to 'follow the beautiful day and forget care' (šms hrw nfr smḫ mḥ)", cluster: wisdom}
+  peasant-loses-wife-and-children-parable: {label: "Parable: a peasant's wife and children perish in the crocodile-infested water; he mourns the children who died before they lived", cluster: wisdom}
+  my-name-stinks-litany: {label: "Litany 'Behold, my name stinks ...' comparing the speaker's reputation to rotting fish, birds, crocodiles and a slandered wife", cluster: lament}
+  to-whom-shall-i-speak-today: {label: "Litany 'To whom shall I speak today?' (ḏd =j n m mjn): brothers are evil, friends do not love, hearts are greedy, there is no righteous man", cluster: lament}
+  death-before-me-today-like: {label: "Litany 'Death is before me today like ...' comparing death to recovery from illness, myrrh, lotus, clearing sky, homecoming from captivity", cluster: lament}
+  blessed-dead-as-living-god: {label: "He who is yonder will be a living god, stand in the sun-barque and petition Re as a wise man", cluster: afterlife}
+  ba-promises-to-stay-with-man: {label: "The ba finally agrees to stay with the man and make a common landing place with him when he dies", cluster: theodicy}
+  destroy-the-agitator-and-his-name: {label: "The king is told to remove the agitating talker, kill his children, wipe out his name and his memory and supporters", cluster: kingship}
+  speech-stronger-than-weapons: {label: "Be skilful in speech: the tongue is the king's sword and speech is stronger than any fighting", cluster: wisdom}
+  imitate-ancestors-whose-words-are-written: {label: "Imitate your fathers and forebears; their words are fixed in writing: unroll and read them", cluster: wisdom}
+  judges-of-dead-not-lenient: {label: "The tribunal that judges the dead is not lenient on the day of judgment; they see a lifetime as an hour", cluster: afterlife}
+  deeds-heaped-beside-dead-at-judgment: {label: "After death a man remains with his deeds placed beside him in a heap before the judges", cluster: afterlife}
+  king-confesses-own-wrongdoing: {label: "The old king confesses that a shameful deed (destruction in Thinis) happened through what he did, and that retribution followed", cluster: kingship}
+  blow-repaid-with-blow: {label: "A blow is repaid with its like: every deed is interlocked with its consequence", cluster: wisdom}
+  hidden-god-knows-characters: {label: "God, who knows the characters of men, has hidden himself while the generations pass", cluster: theology}
+  creator-made-world-for-humans-sake: {label: "The creator made heaven and earth, light, air and food 'for their sake' (n-jb =sn), for humankind", cluster: creation}
+  humans-cattle-of-god: {label: "Humankind is called the well-tended cattle (flock) of god", cluster: theology}
+  creator-drove-off-greed-of-water: {label: "Before making heaven and earth the creator drove off the greed (snk) of the water", cluster: creation}
+  creator-made-rulers-to-support-weak: {label: "The creator made rulers for humankind, a support for the back of the weak", cluster: kingship}
+  creator-gave-magic-as-weapon: {label: "The creator gave humans magic as a weapon to ward off the blow of events", cluster: creation}
+  god-knows-every-name: {label: "God knows every name (nṯr rḫ rn nb)", cluster: theology}
+  asiatic-nomad-stereotype: {label: "The Asiatic nomad is wretched: his land is short of water and wood, he never settles, fights 'since the time of Horus', neither wins nor is defeated, a crocodile on its bank", cluster: ethnography}
+  do-not-destroy-anothers-monument: {label: "Do not damage another's monument or build your tomb from the ruins of older buildings; quarry your own stone", cluster: kingship}
+  one-day-for-eternity: {label: "A single day of service gives something for eternity, an hour benefits the future", cluster: wisdom}
+  return-to-primeval-waters-wished: {label: "The aged creator wishes to return to the primeval waters (Nun) from which he came into being", cluster: cosmology}
+  land-darkened-when-god-departs: {label: "When the sun god departs on high, the land lies in darkness", cluster: cosmology}
+  sun-barque-crosses-sky: {label: "The sun god stands in his barque (with steering-oar and shrine) to cross the sky", cluster: cosmology}
+  stars-on-body-of-sky-goddess: {label: "The stars are set on the belly of the sky goddess", cluster: cosmology}
+  written-warning-to-serpents: {label: "A written decree is sent to the serpents of every mound, warning them to keep still because the god is present", cluster: cosmology}
+  magicians-who-know-spells: {label: "Warning against magicians who know their spells, for the god of magic himself is with them", cluster: magic}
+  rebels-in-the-earth-quelled: {label: "Gods created by the creator who rebelled are confined in the earth and are to be quelled by his deputy", cluster: cosmology}
+  vizier-of-the-god: {label: "A god is appointed vizier of the high god, and all creatures thank him", cluster: theology}
+  reciter-blessed-with-long-life-and-prosperity: {label: "Whoever performs the rite in the book will have long life, sound eyes and limbs, unfailing affairs and undiminished goods", cluster: cult}
+  proven-a-million-times-formula: {label: "Closing formula: 'truly excellent, (proven) a million times'", cluster: magic}
+  curse-on-enemy-of-re: {label: "Spell at dusk against the enemy of Re: 'On your face! May you fall!'", cluster: magic}
+  lord-of-eternity-creator-of-everlastingness: {label: "The god is hailed as Lord of eternity (nḥḥ) who created everlastingness (ḏt) and makes the years of the gods pass", cluster: theology}
+  reciter-lives-in-afterlife: {label: "Whoever recites the spell will live in the necropolis and be more revered than the living on earth", cluster: afterlife}
+  ritual-at-new-moon: {label: "The spell or rite is to be recited at the new-moon and half-month festivals", cluster: cult}
+  king-named-osiris-justified: {label: "The dead king is named 'Osiris NN, justified' (mꜣꜥ-ḫrw)", cluster: afterlife}
+  sky-goddess-protects-dead-king-as-son: {label: "The sky goddess addresses the dead king as her son and wishes him power, justification, a body unharmed and eternal life", cluster: afterlife}
+  name-endures-on-earth: {label: "Wish that the dead man's corpse endure in the necropolis and his name endure on earth", cluster: afterlife}
+  dead-king-receives-offerings: {label: "The gods give the dead king daily breath, cool water and offerings", cluster: afterlife}
+  no-enemies-among-men-or-gods: {label: "Declaration that the speaker has no enemies among men, gods, spirits or the dead in the whole land", cluster: magic}
+units:
+  - id: ane-heavenlycow-w1-council-and-eye-sent
+    tradition: ane-egyptian
+    title: The aged Re, the plot of mankind, the council of the gods and the Eye sent as Hathor (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:1-15/2"]
+    tags:
+      - {motif: humans-plot-against-aged-sun-god, refs: ["HeavenlyCow W1:1/3", "HeavenlyCow W1:2", "HeavenlyCow W1:2/5"], note: "wn.jn r(m)ṯ.pl ḥr kꜣi̯.t md,t ... jstw r =f ḥm =f jꜣwi̯.w; the opening clause is restored in brackets"}
+      - {motif: aged-god-bones-silver-flesh-gold-hair-lapis, refs: ["HeavenlyCow W1:2/2-2/4"], note: "qs.pl =f m ḥḏ, ḥꜥ,pl =f m nbw, šnj =f m ḫsbd mꜣꜥ"}
+      - {motif: divine-council, refs: ["HeavenlyCow W1:3/2", "HeavenlyCow W1:6-10/2"], note: "Re summons his Eye, Shu, Tefnut, Geb, Nut, the fathers and mothers and Nun secretly, so that men may not see; they touch the ground before him and ask him to speak"}
+      - {motif: humans-came-from-gods-eye, refs: ["HeavenlyCow W1:8/2"], note: "r(m)ṯ.pl ḫpr.w.pl m jr,t =j: the play rmṯ 'people' / rmj.t 'tears'"}
+      - {motif: divine-decision-to-destroy, refs: ["HeavenlyCow W1:9-9/3", "HeavenlyCow W1:12/2"], note: "Re hesitates: 'I cannot kill them until I have heard what you say' (n smꜣ.n =j st r sḏm.ṱ =j); the gods advise sending the Eye"}
+      - {motif: gods-eye-sent-as-slaughtering-goddess, refs: ["HeavenlyCow W1:12/2-13/2", "HeavenlyCow W1:14/2"], note: "hꜣi̯ =s m Ḥw,t-Ḥr,w; she slays the men who fled into the desert (ḫꜣs,t) and says it was sweet to her heart"}
+      - {motif: destroying-goddess-wades-in-human-blood, refs: ["HeavenlyCow W1:15/2"], note: "ḫpr Sḫm,t pw ... r rhni̯.t ḥr snf =sn: etiology of Sakhmet from sḫm 'to have power over'"}
+      - {motif: so-it-came-about-etiology-formula, refs: ["HeavenlyCow W1:15/2"]}
+      - {motif: return-to-primeval-waters-wished, refs: ["HeavenlyCow W1:5/3"], note: "Re asks for counsel 'so that I may return to Nun, to the place where I came into being' (jwi̯ =j m Nwn r bw ḫpr.n =j jm)"}
+    hints:
+      - "Compare Gen 6:5-7 (God sees humankind's wickedness and decides to blot them out) and Gen 11:5-7 (the divine plural deliberation 'let us go down'); here the gods meet in council as in Gen 1:26 and 1 Kgs 22:19-22."
+      - "The rebels flee into the desert: compare the mountains and the ark in Gen 7:19-23 and the son who seeks refuge on a mountain in Q 11:42-43."
+      - "Compare Atrahasis and Gilgamesh XI: the gods' assembly decides on destruction, but here the means is the god's own Eye (Hathor-Sakhmet) rather than a flood."
+  - id: ane-heavenlycow-w1-beer-saves-mankind
+    tradition: ane-egyptian
+    title: Red beer, the drunken goddess and the rescue of mankind (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:15/3-26/3"]
+    tags:
+      - {motif: wrath-then-mercy, refs: ["HeavenlyCow W1:14/4-15", "HeavenlyCow W1:20/3"], note: "Re says 'do not diminish their number' (m sꜥnd.w st) and 'I shall protect men from her' (jw =j r mki̯.t r(m)ṯ.pl ḥr =s)"}
+      - {motif: beer-dyed-red-to-deceive-destroyer, refs: ["HeavenlyCow W1:16-19", "HeavenlyCow W1:21/2-21/3"], note: "swift messengers fetch red ocher (ddj,t) from Elephantine; slave women grind barley for beer; 7000 jars (ḥ(n)q,t hbn,t 7000) 'like human blood'"}
+      - {motif: destroyer-drunk-humanity-spared, refs: ["HeavenlyCow W1:22-23/5"], note: "the fields are flooded three palms deep; she sees her face in it, drinks, comes drunk (tḫj.tj) and 'did not recognise men' (nn sjꜣ.n =s r(m)ṯ.pl)"}
+      - {motif: festival-of-intoxicating-drink-etiology, refs: ["HeavenlyCow W1:24/4-25"], note: "sḏr,t 'sleeping draught' prepared at the year's festivals by maidservants, 'from the first day'"}
+      - {motif: so-it-came-about-etiology-formula, refs: ["HeavenlyCow W1:24/3", "HeavenlyCow W1:25", "HeavenlyCow W1:26/3"], note: "the 'Beautiful one of Imau' from jmꜣ,yt 'lovely'"}
+    hints:
+      - "Compare the end of the flood in Gen 8:21-22 (God resolves never again to destroy all living things) and Gilgamesh XI 180-196 (Ea rebukes Enlil); here the high god himself contrives to stop the destroyer he sent."
+      - "The red liquid flooding the fields 'like human blood' may be compared with the water that looks like blood to Moab in 2 Kgs 3:22-23 and with Nile water turned to blood in Exod 7:17-21."
+      - "Compare Q 11:44 (the earth swallows its water, the matter is decided) for the abrupt ending of a divine destruction."
+  - id: ane-heavenlycow-w1-re-withdraws-to-sky
+    tradition: ane-egyptian
+    title: Re, weary of men, rides Nut the sky-cow; men fight; the sky, the fields of the hereafter and the stars come into being (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:27-43/2"]
+    tags:
+      - {motif: creator-weary-of-humankind-withdraws, refs: ["HeavenlyCow W1:27/2", "HeavenlyCow W1:28", "HeavenlyCow W1:29"], note: "jb =j wrd.w wr r wnn ḥnꜥ =sn 'my heart is too weary to be with them'; the gods beg 'do not withdraw in your weariness'"}
+      - {motif: god-carried-to-sky-on-celestial-cow, refs: ["HeavenlyCow W1:30-31/3", "HeavenlyCow W1:32", "HeavenlyCow W1:38"], note: "ḫpr Nw,t [m] [jḥ,t] and ḫpr =s [p]w [m] [ḥr,t]: 'cow' and 'sky' are restorations in brackets"}
+      - {motif: origin-of-slaughter-among-humans, refs: ["HeavenlyCow W1:34/2-36/2"], note: "the land is in darkness; at dawn men come out with bows and clubs; Re: 'your evil be upon you, you slaughterers'; ḫpr šꜥ,t pw m r(m)ṯ.pl"}
+      - {motif: land-darkened-when-god-departs, refs: ["HeavenlyCow W1:34/2"], note: "ꜥḥꜥ.jn r =f tꜣ m kk(,w) as the god departs on the cow"}
+      - {motif: afterlife-fields-named-by-god, refs: ["HeavenlyCow W1:39/3-40/3"], note: "ḥtp sḫ,t ꜥꜣ > sḫ,t-ḥtp; rjd =j sm,w > sḫ,t-jꜣr,w; grg =j st m (j)ḫ,t > the stars (wordplay jḫjḫ)"}
+      - {motif: supporters-hold-up-the-sky, refs: ["HeavenlyCow W1:40/4-42/3"], note: "Nut trembles at the height; Re creates the Heh-gods to support her and sets Shu beneath her"}
+      - {motif: so-it-came-about-etiology-formula, refs: ["HeavenlyCow W1:39/4", "HeavenlyCow W1:40", "HeavenlyCow W1:41/3", "HeavenlyCow W1:43-43/2"], note: "also the custom of giving a nurse to son and daughter and of a father lifting his son over his head"}
+      - {motif: firmament-divides-waters, refs: ["HeavenlyCow W1:38", "HeavenlyCow W1:42/3"], note: "interpretive: Nut lifted over Shu separates sky from earth; there is no division of waters here"}
+    hints:
+      - "Compare Gen 6:3 and 6:6 (God's spirit will not remain with man; God is grieved in his heart) for the creator's weariness with humankind; and Gen 11:8-9 for divine withdrawal after human revolt."
+      - "Origin of violence among men after the divine withdrawal: compare Gen 4:8 and Gen 6:11-13 (the earth filled with violence, ḥamas) and Q 2:30 (the angels: will you place there one who sheds blood?)."
+      - "Compare Ps 104:2-3 and Isa 40:22 (the heavens spread like a tent), and Job 26:7, 11 (the pillars of heaven tremble) for the supported, trembling sky."
+      - "Compare the Field of Reeds with Eden (Gen 2:8-9) and the gardens of Q 47:15."
+  - id: ane-heavenlycow-w1-cow-image-captions
+    tradition: ane-egyptian
+    title: Instructions for drawing the sky-cow with Shu, the Heh-gods and the barques, and its captions (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:44-55/2"]
+    tags:
+      - {motif: supporters-hold-up-the-sky, refs: ["HeavenlyCow W1:44", "HeavenlyCow W1:45/4-46/3"], note: "the cow with Heh-gods at her breast and back; Shu beneath her belly, his arms bearing the stars, his name written beside him"}
+      - {motif: sun-barque-crosses-sky, refs: ["HeavenlyCow W1:47-47/2"], note: "a barque with steering-oar and shrine, sun-disc above, Re standing in it, beside Shu's hand"}
+      - {motif: deity-says-i-am-who-i-am, refs: ["HeavenlyCow W1:49-49/2"], note: "caption written in descending direction beside the cow's leg: jw =j jm =j / nn ḏi̯ =j jri̯ 'I am (who) I am; I will not let (anyone) act'; TLA's rendering of a difficult phrase"}
+      - {motif: stars-on-body-of-sky-goddess, refs: ["HeavenlyCow W1:45/2"], note: "psḏ,t sbꜣ ḥr ẖ,t =st 'the star-ennead on her belly'"}
+      - {motif: god-never-tires, refs: ["HeavenlyCow W1:49/5", "HeavenlyCow W1:50/3", "HeavenlyCow W1:52"], note: "captions 'you will not grow weary, my son', 'your state is like one who lives for ever'; against Re's own weariness in W1:27-29"}
+    hints:
+      - "The caption jw =j jm =j invites comparison with Exod 3:14 ('ehyeh asher ehyeh') and with Q 20:14 ('I am God, there is no god but me'); the Egyptian sense is uncertain."
+      - "'You will not grow weary' compares with Isa 40:28 (the Creator does not faint or grow weary) and Ps 121:4 (he who keeps Israel does not sleep); Q 2:255 (neither slumber nor sleep overtakes him)."
+      - "Compare Job 9:9 and 38:31-33 for the constellations set in the sky."
+  - id: ane-heavenlycow-w1-geb-serpents
+    tradition: ane-egyptian
+    title: Re charges Geb with the serpents of the earth and hands them to Osiris (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:56-61/2"]
+    tags:
+      - {motif: serpents-of-earth-put-under-guard, refs: ["HeavenlyCow W1:56/7-57/4", "HeavenlyCow W1:61"], note: "Geb is to beware of 'your serpents that are in you', go to Nun and write a document to the serpents of every mound; Re hands them to 'your son Osiris'"}
+      - {motif: written-warning-to-serpents, refs: ["HeavenlyCow W1:57/4-58/2"], note: "'Beware of playing with anything! They shall know that I am here'"}
+      - {motif: magicians-who-know-spells, refs: ["HeavenlyCow W1:59/3-60/2"], note: "'beware of the magicians who know their spells; the god Heka himself is there'"}
+    hints:
+      - "Compare Gen 3:14-15 (the serpent cursed to the dust, enmity set) and Num 21:6-9; for snake-charming and spells against snakes compare Ps 58:5-6 and Jer 8:17."
+  - id: ane-heavenlycow-w1-thoth-deputy
+    tradition: ane-egyptian
+    title: Thoth made Re's deputy; the ibis, the moon and the baboon of Thoth (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:62-74/2"]
+    tags:
+      - {motif: moon-god-appointed-deputy-of-sun, refs: ["HeavenlyCow W1:63", "HeavenlyCow W1:71-71/2", "HeavenlyCow W1:72/2-73", "HeavenlyCow W1:73/4"], note: "jw =k m s,t =j 〈m〉 s,tj ... Ḏḥw,tj s,tj Rꜥ; 'I will let you encircle the two heavens with your beauty': ḫpr jꜥḥ pw n Ḏḥw,tj"}
+      - {motif: luminaries-rule-day-night, refs: ["HeavenlyCow W1:63", "HeavenlyCow W1:72/2-73"], note: "Re stays in the sky to bring light to the underworld while Thoth (the moon) lights the night"}
+      - {motif: rebels-in-the-earth-quelled, refs: ["HeavenlyCow W1:67/2"], note: "Thoth is to subdue 'those we created who made rebellion', the earth-gods following 'Discontented-of-heart' (špt-jb)"}
+      - {motif: so-it-came-about-etiology-formula, refs: ["HeavenlyCow W1:71/4", "HeavenlyCow W1:72", "HeavenlyCow W1:73", "HeavenlyCow W1:73/3"], note: "hbj-ibis from hꜣb 'send', tḫnj-ibis from dwn 'stretch out', ꜥnꜥn-baboon from ꜥnꜥn 'drive back'"}
+      - {motif: vizier-of-the-god, refs: ["HeavenlyCow W1:73/4-74/2"], note: "'you who have become vizier (ṯꜣ,tj)'; all creatures thank Thoth"}
+    hints:
+      - "Compare Gen 1:16-18 (the lesser light to rule the night) and Ps 104:19; Q 10:5 (God made the sun a radiance and the moon a light); Q 36:39-40."
+      - "A god's deputy who acts in his place: compare Exod 7:1 (Moses 'as God' to Pharaoh, Aaron his prophet)."
+  - id: ane-heavenlycow-w1-purity-and-benefits
+    tradition: ane-egyptian
+    title: Purity rules for reciting the book and the blessings of the reciter (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:74/3-84/2"]
+    tags:
+      - {motif: ritual-purity-for-reciting-sacred-text, refs: ["HeavenlyCow W1:74/3-77", "HeavenlyCow W1:78/2-79"], note: "anointed with ben-oil, censer on arm, behind the ears cleaned, natron in the mouth, two new linen garments, washed in floodwater, white sandals, Maat drawn on his tongue in green ink; nine-day purification (wꜥb 9 hrw.pl), also for human servants"}
+      - {motif: reciter-blessed-with-long-life-and-prosperity, refs: ["HeavenlyCow W1:80-83/2"], note: "his eyes and limbs serve him, his affairs do not fail, people say 'he is like Re on the day of his birth', his goods do not shrink"}
+      - {motif: proven-a-million-times-formula, refs: ["HeavenlyCow W1:84"], note: "šs-mꜣꜥ ḥḥ n sp"}
+    hints:
+      - "Compare the purification before revelation in Exod 19:10-15 (wash garments, three days), the priestly linen and washing of Lev 16:4, and Q 56:79 (none touch it but the purified)."
+      - "Compare the blessing on the one who meditates on the Torah, Ps 1:2-3 and Josh 1:8 (prosperity and success)."
+  - id: ane-heavenlycow-w1-spells-ba-catalogue
+    tradition: ane-egyptian
+    title: Spells of the book - Re the creator of heaven, the bas of the gods, the reciter as magician, names Eternity and Everlastingness (Heavenly Cow, Seti I)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W1, KV 17 (tomb of Seti I)"
+    read: ["HeavenlyCow W1:84/3-95/27"]
+    tags:
+      - {motif: divine-self-praise-i-am, refs: ["HeavenlyCow W1:84/5-85/3"], note: "jnk jri̯ p,t smn [sj] ... jw =j ḥnꜥ =sn 〈r〉 (n)ḥḥ: 'I am the maker of heaven who established it to set the bas of the gods in it'"}
+      - {motif: ba-of-each-god-catalogue, refs: ["HeavenlyCow W1:85/4-86/4"], note: "Shu's ba is Khnum, the ba of eternity is Rain, the ba of darkness is Night, Nun's ba is Re, Osiris's ba the ram of Mendes, Sobek's the crocodiles, every god's ba the snakes, Apophis's the white of the eye"}
+      - {motif: exorcist-embodies-the-god, refs: ["HeavenlyCow W1:87-88/2", "HeavenlyCow W1:89"], note: "jnk ḥkꜣ,w pwy wꜥb jm,j rʾ ẖ,t (n) Rꜥ ... jnk Rꜥ ꜣḫ,w"}
+      - {motif: curse-on-enemy-of-re, refs: ["HeavenlyCow W1:88/3-88/5"], note: "at dusk: 'On your face! May you fall, enemy of Re!'"}
+      - {motif: lord-of-eternity-creator-of-everlastingness, refs: ["HeavenlyCow W1:89/2"], note: "j nb-(n)ḥḥ qmꜣ ḏ,t skk rnp,t.pl nṯr.pl"}
+      - {motif: deceaseds-names-eternity-and-everlastingness, refs: ["HeavenlyCow W1:93/3", "HeavenlyCow W1:95/22-95/24"], note: "jr ḏd =sn pw rn.w.pl =k (n)ḥḥ ḥnꜥ ḏ,t; [ḏt] and [nḥḥ] restored at 95/23-24"}
+      - {motif: reciter-lives-in-afterlife, refs: ["HeavenlyCow W1:93-93/2"], note: "wnn ḏd rʾ pn ꜥnḫ m ẖr,t-nṯr, greater awe of him than of those on earth"}
+      - {motif: ritual-at-new-moon, refs: ["HeavenlyCow W1:92/3"], note: "recited by a wab-priest at the new-moon and half-month festivals"}
+      - {motif: king-named-osiris-justified, refs: ["HeavenlyCow W1:95/25-95/27"], note: "the copy ends with Seti I (Menmaatre) as Osiris, justified"}
+    hints:
+      - "For divine eternity and the names of God compare Ps 90:2, Exod 3:15 ('this is my name for ever') and Q 57:3 (He is the First and the Last)."
+      - "'Maker of heaven who set it fast': compare Ps 33:6, Isa 42:5 and Q 79:27-28 (he raised its canopy and fashioned it)."
+  - id: ane-heavenlycow-w2-spells
+    tradition: ane-egyptian
+    title: The spells of the Heavenly Cow in the tomb of Ramesses VI
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W2, KV 9 (tomb of Ramesses VI)"
+    read: ["HeavenlyCow W2"]
+    tags:
+      - {motif: divine-self-praise-i-am, refs: ["HeavenlyCow W2:3"], note: "variant: the king (Ramesses VI) is inserted, 'who will be with them for ever'"}
+      - {motif: ba-of-each-god-catalogue, refs: ["HeavenlyCow W2:5/3-7/3"], note: "variants: Shu's ba is the wind (ṯꜣw), Huh's ba is the flowing, Nun's ba is the water (mw); Re's ba is magic throughout the land"}
+      - {motif: exorcist-embodies-the-god, refs: ["HeavenlyCow W2:11-13"], note: "the king's name replaces 'I': he is the pure magician in Re's mouth and body, he is Re the shining"}
+      - {motif: lord-of-eternity-creator-of-everlastingness, refs: ["HeavenlyCow W2:15"]}
+      - {motif: curse-on-enemy-of-re, refs: ["HeavenlyCow W2:13/2-14"]}
+    hints:
+      - "Variant 'the ba of Shu is the wind': compare Gen 1:2 and Ps 104:4 (wind/spirit, rûaḥ) and Q 15:22 (We send the fertilising winds)."
+  - id: ane-heavenlycow-w3-tutankhamun-frame
+    tradition: ane-egyptian
+    title: Frame texts of Nut and Osiris for Tutankhamun on his outer shrine
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W3, Cairo JE 60664 (outer shrine of Tutankhamun), frame text"
+    read: ["HeavenlyCow W3"]
+    tags:
+      - {motif: sky-goddess-protects-dead-king-as-son, refs: ["HeavenlyCow W3:0/3-0/8"], note: "Nut: 'my son, Osiris king Nebkheperure, may you be powerful, justified; may no evil come to your body; may you live for ever'"}
+      - {motif: name-endures-on-earth, refs: ["HeavenlyCow W3:0/10-0/11"], note: "Osiris: 'may your corpse endure in the necropolis, may your name be lasting on earth'"}
+      - {motif: dead-king-receives-offerings, refs: ["HeavenlyCow W3:0/12", "HeavenlyCow W4:8"]}
+    hints:
+      - "Compare Isa 56:5 (a monument and a name better than sons) and Ps 72:17 (may his name endure for ever)."
+  - id: ane-heavenlycow-w4-tutankhamun-cow
+    tradition: ane-egyptian
+    title: Heavenly Cow texts on Tutankhamun's outer shrine - the learned scribe in heaven, Mehet-weret welcomes the king
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W4, Cairo JE 60664 (outer shrine of Tutankhamun), Heavenly Cow"
+    read: ["HeavenlyCow W4"]
+    tags:
+      - {motif: no-enemies-among-men-or-gods, refs: ["HeavenlyCow W4:30"], note: "nn-wn ḫft,y.w m r(m)ṯ.pl nṯr.pl ꜣḫ.pl mwt.pl"}
+      - {motif: so-it-came-about-etiology-formula, refs: ["HeavenlyCow W4:32"], note: "ḫpr nsr,t pw m p,t: the fiery uraeus in heaven"}
+      - {motif: learned-scribe-passes-freely-to-heaven, refs: ["HeavenlyCow W4:33-38/2"], note: "the scribe who knows the hieroglyphs goes out and down in heaven; the dead cannot hold him; he does not bow at the tribunal (ḏꜣḏꜣ,t); 'no misdeed he did on earth can be counted against him' (n ḥsb.n =tw ꜥwꜣ,t nb(.t))"}
+      - {motif: dead-king-joins-gods-retinue, refs: ["HeavenlyCow W4:1-3/2", "HeavenlyCow W4:4-8"], note: "Mehet-weret: 'come, my beloved son ... be with your father Re as one of the gods of his retinue'; 'he will not die again in the necropolis' (nn mt =f m wḥm)"}
+      - {motif: no-second-death-for-blessed, refs: ["HeavenlyCow W4:3/2"], note: "nn mt =f m wḥm m ẖr,t-nṯr"}
+    hints:
+      - "'He will not die again': compare Q 44:56 (they will not taste death there except the first death) and Rev 2:11, 20:6 (the second death)."
+      - "Knowledge of the writings exempts from judgment: contrast Ezek 18:20 and Q 99:7-8 (every atom's weight of evil is seen)."
+  - id: ane-heavenlycow-w5-tutankhamun-atum
+    tradition: ane-egyptian
+    title: Atum's words to Tutankhamun at sunset (outer shrine frame text)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "W5, Cairo JE 60664 (outer shrine of Tutankhamun), frame text"
+    read: ["HeavenlyCow W5"]
+    tags:
+      - {motif: dead-king-joins-gods-retinue, refs: ["HeavenlyCow W5:0-0/4"], note: "Atum setting in the western horizon: 'come, my beloved bodily son ... take on forms like Re; may you live for ever'"}
+      - {motif: king-son-of-sun-god, refs: ["HeavenlyCow W5:0/2", "HeavenlyCow W5:0/8"], note: "zꜣ-Rꜥ n ẖ,t =f"}
+    hints:
+      - "Compare Ps 2:7 ('You are my son, today I have begotten you') for the divine sonship of the king."

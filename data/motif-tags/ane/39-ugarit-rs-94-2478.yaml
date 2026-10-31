@@ -1,0 +1,591 @@
+# Full read of the ANE corpus, chunk 39: Ugarit RS 94.2478 ... SMEA 42 (ORACC aemw/ugarit, lemmatized, word glosses only),
+# then the Baal Cycle and related mythological texts from EUPT (KTU 1.1-1.13: consonantal text, German translation per colon).
+# One unit per letter; the poetic tablets are divided by column and episode.
+new_motifs:
+  # --- letters ---
+  letter-wish-good-old-age-forever: {label: "Letter greeting: may the gods sate the addressee with good old age from now to eternity (šībūta damiqta lišbûka ištu inanna adi dārīti)", cluster: letters}
+  omen-for-ship-captain-not-good: {label: "Extispicy is performed for a ship's captain before a voyage and the omen is 'not good'", cluster: divination}
+  overlord-threatens-combat-of-the-sun: {label: "The Hittite overlord's letter warns the vassal: 'know that the combat of the Sun (the Great King) will reach you'", cluster: treaty}
+  messengers-denied-bread-and-beer: {label: "A king protests that his messengers were not given bread and beer in the other king's land, though he never withheld them from the other's messengers", cluster: letters}
+  heart-very-dark-at-friends-neglect: {label: "A letter writer complains that the addressee sent him back empty and 'my heart is very dark' (ina libbiya ekil danniš): 'you are not good'", cluster: letters}
+  land-kept-alive-by-neighbours-provisions: {label: "A letter asks for provisions 'and keep me alive', recalling that the land was formerly kept alive by a neighbour's supplies and promising plenty after the next harvest", cluster: trade}
+  ships-from-canaan-bring-provisions: {label: "Ships coming down from Canaan (Kinani) are to bring provisions (mānaḫtu) to Ugarit", cluster: trade}
+  thief-fled-abroad-extradition-requested: {label: "A man who stole from an official's house fled through the addressee's land on to another country; the king asks his 'brother' to seize the man and hand him over", cluster: law}
+  unpaid-price-claimed-by-letter: {label: "A king writes that a merchant took goods (great doors, wine, garments) from a named house and has not paid; let him pay the price", cluster: trade}
+  servant-sent-with-witnesses-for-judgement: {label: "A king sends a servant together with his witnesses to another king so that he may judge their case", cluster: law}
+  ruler-called-eternal-king: {label: "A king (the pharaoh) is called 'eternal king' (Ugaritic mlk ʿlm), or the sun deity 'Šapšu of eternity'", cluster: kingship}
+  gods-of-cyprus-invoked-in-letter: {label: "A letter invokes Baal of Ṣapan, the eternal Sun, ʿAṯtart, ʿAnat and 'all the gods of Alašiya (Cyprus)' for the addressee", cluster: letters}
+  garments-issued-to-temple-singers: {label: "A palace list issues garments, wool and linen to named persons, including the singers (šr) of the goddess ʿAṯtart", cluster: cult}
+  captives-returned-half-and-half-by-oath: {label: "Men seized by Sutean raiders are returned under oath, half to one king and half to the other, and their fault is said to be another's", cluster: treaty}
+  # --- Baal cycle and related ---
+  hasten-to-me-summons: {label: "Divine summons: 'hasten, hurry, rush! let your feet run to me, your legs hasten to me', for a word the speaker will reveal", cluster: myth}
+  bull-el-father-epithets: {label: "The high god El is 'the Bull, your father', 'the Kindly, the Compassionate (lṭpn il dpid)', 'Creator of creatures', 'father of years'", cluster: theology}
+  put-war-from-earth-pour-peace: {label: "Command to a war goddess: 'remove war from the earth, set love in the dust, pour peace into the heart of the earth'", cluster: myth}
+  word-of-tree-whisper-of-stone: {label: "A god's secret: 'the word of the tree and the whisper of the stone, the sighing of heaven to earth, of the deeps to the stars', a word humans do not understand", cluster: cosmology}
+  craftsman-god-from-caphtor-and-memphis: {label: "The craftsman god (Kothar-and-Hasis) has his throne in Caphtor (Crete) and his inheritance in Memphis (Ḥikuptah)", cluster: myth}
+  el-dwells-at-source-of-two-rivers: {label: "The high god's tent stands at the source of the two rivers, in the midst of the springs of the two deeps (mbk nhrm qrb apq thmtm)", cluster: cosmology}
+  thousand-fields-ten-thousand-furlongs: {label: "Travel formula: a god crosses a thousand fields, ten thousand furlongs (alp šd rbt kmn) to reach another god", cluster: myth}
+  high-god-names-favoured-son: {label: "The high god proclaims a name for his favoured son and declares him king or 'beloved of El'", cluster: kingship}
+  high-god-orders-rival-driven-from-throne: {label: "The high god orders one son to drive his rival from the throne of his kingship, warning that otherwise the rival will strike him down", cluster: kingship}
+  gods-feast-slaughtered-cattle-sheep-fatlings: {label: "A divine feast: oxen and sheep, bulls, fatlings, yearling calves and lambs are slaughtered and the gods eat and drink wine from gold cups ('blood of trees')", cluster: cult}
+  sea-demands-storm-god-be-surrendered: {label: "The Sea (Yamm, Judge River) sends messengers to the divine assembly demanding that the storm god be handed over as his slave", cluster: myth}
+  gods-lower-heads-in-fear: {label: "At the approach of the enemy's envoys the assembled gods lower their heads to their knees; the storm god rebukes them: 'lift up your heads!'", cluster: myth}
+  fiery-messengers-tongue-like-sword: {label: "Divine messengers appear as a blazing fire, their tongue a sharpened sword", cluster: myth}
+  high-god-surrenders-son-as-slave: {label: "The high god yields to the threat and declares the storm god the enemy's slave and tribute-bearer", cluster: myth}
+  goddesses-restrain-angry-god: {label: "Two goddesses seize the angry god's right and left hands to stop him striking the envoys", cluster: myth}
+  palace-built-for-sea: {label: "The craftsman god is ordered to build a house and palace for Prince Sea, Judge River", cluster: myth}
+  god-has-no-house-like-the-gods: {label: "Lament: 'the storm god (or Athtar) has no house like the gods, no court like the sons of Athirat'", cluster: temple}
+  throne-pillars-uprooted-sceptre-broken: {label: "Warning: El will tear up the pillars of your throne, overturn the seat of your kingship and break the sceptre of your rule", cluster: kingship}
+  craftsman-names-twin-clubs: {label: "The craftsman god makes two clubs and names them ('Driver', 'Expeller'); each leaps from the storm god's hand like an eagle to strike Sea", cluster: myth}
+  storm-god-defeats-sea: {label: "The storm god strikes Sea (Yamm, Judge River) on the skull between the eyes; Sea collapses to the earth and is destroyed", cluster: myth}
+  take-eternal-kingship: {label: "After victory over the enemy the god is told: 'take your eternal kingship, your everlasting dominion'", cluster: kingship}
+  sea-is-dead-baal-shall-reign: {label: "Acclamation after the combat: 'Sea is dead! Baal shall be king!'", cluster: kingship}
+  cup-women-may-not-see: {label: "A holy cup of the god that no woman may see, a goblet even the queen-goddess may not look on", cluster: cult}
+  divine-singer-sings-on-mountain: {label: "A sweet-voiced youth with cymbals sings of the storm god on the heights of his mountain", cluster: cult}
+  storm-gods-daughters-dew-light-earth: {label: "The storm god's daughters (or brides) are Pidray daughter of light, Tallay daughter of showers (dew), Arṣay daughter of the wide earth", cluster: myth}
+  goddess-massacres-in-valley: {label: "The warrior goddess slaughters armies in the valley between two cities, the people of the seashore and of the sunrise", cluster: myth}
+  heads-and-hands-as-goddess-ornaments: {label: "Severed heads fly under the goddess like balls and hands over her like locusts; she ties heads to her back and hands to her belt", cluster: myth}
+  goddess-wades-knee-deep-in-blood: {label: "The goddess plunges her knees in the blood of soldiers, her thighs in the gore of warriors", cluster: myth}
+  goddess-rejoices-in-slaughter: {label: "The goddess's liver swells with laughter, her heart fills with joy at the slaughter", cluster: myth}
+  goddess-battles-tables-and-chairs: {label: "Not yet sated, the goddess sets chairs and tables as warriors in her house and fights among them", cluster: myth}
+  goddess-washes-hands-of-blood: {label: "After battle the goddess washes the blood of warriors from her hands and fingers", cluster: myth}
+  god-boasts-monsters-slain: {label: "A deity boasts of the monsters already destroyed: Sea beloved of El, River the great god, the dragon (tnn) muzzled, the twisting serpent, Šalyaṭ of seven heads, Arš, the calf ʿAtik, the bitch Fire, Ḏabib", cluster: myth}
+  dragon-tunnanu-muzzled: {label: "The dragon (Tunnanu, Hebrew tannin) is muzzled (ištbm) and destroyed", cluster: myth}
+  goddess-trembles-at-messengers-approach: {label: "On seeing messengers arrive the goddess's feet shake, her loins break, her face sweats: 'what enemy has risen against Baal?'", cluster: myth}
+  holy-mountain-of-my-inheritance: {label: "The storm god's mountain Ṣapān is 'my holy place, the mountain of my inheritance, the pleasant place, the hill of victory'", cluster: temple}
+  goddess-threatens-el-grey-beard-blood: {label: "The goddess threatens the high god that she will make his grey hair and the grey hair of his beard run with blood unless he grants her demand", cluster: myth}
+  el-answers-from-seven-chambers: {label: "The high god answers from within his seven chambers, his eight enclosures", cluster: myth}
+  el-wise-forever: {label: "Praise of the high god: 'your word is wise, your wisdom is for eternity; a life of fortune is your word'", cluster: wisdom}
+  our-king-none-above-him: {label: "Acclamation: 'our king is Baal, our judge, there is none above him; let us all bring his chalice, his cup'", cluster: kingship}
+  sun-glows-heavens-weak-in-deaths-hand: {label: "Refrain: the Lamp of the gods, the Sun, glows hot; the heavens are weak in the hand of Mot (Death)", cluster: underworld}
+  sea-and-mountains-wrapped-in-darkness: {label: "The storm god's servants see the sea wrapped in gloom and the highest mountains in darkness", cluster: cosmology}
+  craftsman-casts-gifts-silver-gold: {label: "The craftsman god works the bellows and casts silver by thousands and gold by ten-thousands into divine furniture: canopy, couch, throne, footstool, table, bowl", cluster: temple}
+  divine-table-of-all-animals: {label: "A divine table filled with all the animals of the foundations of the earth, and a bowl with wild bulls by the ten-thousand", cluster: temple}
+  mother-goddess-spinning-by-sea: {label: "The mother goddess sits by the sea with her spindle, washing her garment in the sea and setting a pot on the fire", cluster: myth}
+  goddess-won-by-gleam-of-gifts: {label: "The goddess, fearful at the visitors' coming, rejoices when she sees the gleam of silver and gold", cluster: myth}
+  god-insulted-in-assembly: {label: "A god complains that one stood up and mocked him, spat on him in the assembly of the sons of El, and set filth on his table", cluster: myth}
+  god-hates-feasts-of-shame-and-lewdness: {label: "Baal hates two feasts, three the Rider of the Clouds: the feast of shame, the feast of strife (or harlotry) and the feast where handmaids act lewdly", cluster: cult}
+  gift-to-goddess-before-request: {label: "Petitioners bring gifts to the queen-goddess so she will intercede with the high god", cluster: myth}
+  goddess-rides-saddled-donkey: {label: "A servant harnesses a donkey with silver and gold trappings and sets the goddess on its back; one leads, another goes ahead like a star", cluster: myth}
+  el-laughs-feet-on-footstool: {label: "Seeing the visitor, the high god unfurrows his brow and laughs, puts his feet on the footstool and twiddles his fingers", cluster: myth}
+  el-offers-food-and-love: {label: "The high god asks the arriving goddess if she is hungry or thirsty, offers bread and wine, or asks if 'the hand of El the king' (his love) stirs her", cluster: myth}
+  am-i-a-slave-to-mould-bricks: {label: "The high god retorts: 'am I a slave, is Athirat a handmaid, to mould bricks? Let him build the house himself'", cluster: temple}
+  grey-beard-instructs-high-god: {label: "The goddess praises the high god: 'you are great, you are wise; the grey hair of your beard instructs you'", cluster: wisdom}
+  storm-gods-season-of-rain-and-thunder: {label: "With a house the storm god will give the season of his rain, of snow, his voice in the clouds and his lightning flashes to the earth", cluster: myth}
+  caravan-brings-silver-gold-lapis: {label: "A caravan brings silver from the mountains, gold from the hills and gems to build a house of silver, gold and pure lapis lazuli", cluster: temple}
+  good-news-a-house-is-given: {label: "A goddess brings good news (bšr): 'rejoice, a house is given you like your brothers'", cluster: myth}
+  craftsman-seated-at-right-hand: {label: "The craftsman guest is given a throne at the right hand of the storm god and the gods eat and drink", cluster: myth}
+  window-in-the-palace-dispute: {label: "The craftsman asks twice whether to put a window in the palace; the god refuses ('lest Yamm...'), then later orders it opened", cluster: temple}
+  cedars-of-lebanon-and-sirion-for-palace: {label: "The builders go to Lebanon and its trees, to Sirion and its choice cedars, for the god's palace", cluster: temple}
+  fire-burns-in-palace-seven-days: {label: "Fire burns in the house for six days; on the seventh it dies down and the silver has turned to plates and the gold to bricks", cluster: temple}
+  palace-feast-for-seventy-sons: {label: "The god celebrates his finished house with a feast for his brothers, the seventy sons of Athirat: rams, ewes, oxen, thrones and jars of wine for gods and goddesses", cluster: temple}
+  storm-god-captures-cities: {label: "The storm god goes from city to city and seizes sixty-six cities, seventy-seven towns", cluster: myth}
+  window-opened-rift-in-clouds: {label: "The palace window is opened as a rift in the clouds, through which the god gives his holy voice", cluster: cosmology}
+  enemies-flee-to-forests: {label: "At the storm god's voice his enemies grasp the forests, his foes the flanks of the mountain", cluster: myth}
+  god-sole-ruler-who-fattens-gods-and-men: {label: "The god declares: 'I alone rule over the gods, I fatten gods and men, I satisfy the multitudes of the earth'", cluster: kingship}
+  king-or-no-king-over-earth: {label: "The god challenges: 'shall any king or non-king establish dominion over the earth?'", cluster: kingship}
+  messengers-to-death-lift-mountains: {label: "Messengers to the underworld must go to the two mountains at earth's edge, lift the mountain on their hands, and go down into the 'house of freedom'", cluster: underworld}
+  death-city-pit-throne-mire-land: {label: "Mot's city is Hamray (Miry); a pit is his throne, filth (ḫḫ) the land of his inheritance", cluster: underworld}
+  death-puts-victims-in-mouth-like-lamb: {label: "Warning: do not come near Mot lest he put you in his mouth like a lamb, crush you like a kid in his jaws", cluster: underworld}
+  scribe-colophon-names-author: {label: "A colophon names the scribe (Ilimilku of Šubbanu), his teacher the chief priest and diviner, and the reigning king (Niqmaddu of Ugarit)", cluster: scribal}
+  mot-appetite-like-lion-and-sea-monster: {label: "Death's appetite is that of the lion of the steppe and the whale in the sea, a pool that wild bulls seek; his cup is mixed with a whole river", cluster: underworld}
+  death-not-invited-to-feast: {label: "Death complains that the storm god did not invite him to eat bread and drink wine with his brothers", cluster: underworld}
+  death-lip-to-earth-lip-to-heaven: {label: "Death opens his jaws, one lip to the earth, one to the heavens, his tongue to the stars", cluster: underworld}
+  storm-god-fears-death: {label: "The mighty storm god is afraid of Mot and sends word: 'I am your slave for ever'", cluster: underworld}
+  storm-god-descends-with-clouds-and-rain: {label: "The storm god is told to take his clouds, wind, rain, his seven lads and eight boars and his daughters, and go down into the earth", cluster: underworld}
+  counted-among-those-who-descend: {label: "Instruction: 'be counted among those who go down into the earth', so that the gods will know he is dead", cluster: underworld}
+  storm-god-mates-heifer-before-descent: {label: "The storm god loves a heifer in the field at 'the shore of death', lies with her seventy-seven, eighty-eight times, and she bears a son", cluster: myth}
+  baal-is-dead-what-of-the-peoples: {label: "Lament: 'Baal is dead! What of the peoples? The son of Dagan! What of the multitudes? After Baal I will go down into the earth'", cluster: underworld}
+  high-god-mourns-on-ground: {label: "The high god comes down from his throne to the footstool and from the footstool to the ground, pours ashes and dust on his head", cluster: underworld}
+  mourner-ploughs-chest-like-garden: {label: "The mourner gashes cheeks and chin, scores his arms, ploughs his chest like a garden and his back like a valley", cluster: underworld}
+  goddess-drinks-tears-like-wine: {label: "The mourning goddess weeps until sated, drinks her tears like wine", cluster: underworld}
+  sun-goddess-helps-carry-dead-god: {label: "The Sun goddess lifts the dead god onto the goddess's shoulders, who carries him up to his mountain, weeps and buries him", cluster: underworld}
+  seventy-of-each-animal-funeral-sacrifice: {label: "At the god's burial seventy wild bulls, seventy oxen, seventy sheep, seventy deer, seventy ibex and seventy roebucks are slaughtered", cluster: cult}
+  substitute-king-too-small-for-throne: {label: "A god set on the dead king's throne cannot reach the footstool with his feet nor the top with his head, and steps down", cluster: kingship}
+  goddess-seeks-god-like-cow-for-calf: {label: "As the heart of a cow for her calf, the heart of a ewe for her lamb, so is the goddess's heart for the missing god", cluster: myth}
+  goddess-seizes-death-by-garment: {label: "The goddess seizes Death by the hem of his garment and demands: 'give me my brother!'", cluster: underworld}
+  death-split-winnowed-burned-ground-sown: {label: "The goddess splits Death with a blade, winnows him with a sieve, burns him with fire, grinds him with millstones and sows him in the field; the birds eat his flesh", cluster: myth}
+  dream-heavens-rain-oil-wadis-honey: {label: "In the high god's dream the heavens rain oil and the wadis run with honey, a sign that the storm god lives", cluster: myth}
+  furrows-of-fields-parched: {label: "The furrows of the fields are parched; 'where is mighty Baal, where is the prince, lord of the earth?'", cluster: myth}
+  god-returns-in-seventh-year: {label: "After days, months and years, in the seventh year the defeated adversary returns", cluster: myth}
+  death-gods-litany-of-suffering: {label: "Death recites what he suffered for Baal's sake: shame, winnowing, burning, grinding, sifting, scorching in the fields, sowing in the sea", cluster: myth}
+  gods-fight-like-wild-bulls-and-serpents: {label: "Two gods butt like wild bulls, bite like serpents, kick like stallions; both fall, 'Mot is strong, Baal is strong'", cluster: myth}
+  sun-rules-the-rephaim: {label: "Hymn: the Sun rules over the Rephaim, over the divine dead; the dead gods are with her", cluster: underworld}
+  monsters-in-sea-driven-off: {label: "In the sea are Arš and the dragon (tnn); let the craftsman god drive them away", cluster: myth}
+  assembly-of-the-stars: {label: "The gods are called 'the assembly of the stars' (pḫr kkbm)", cluster: cosmology}
+  storm-god-hunts-with-bow: {label: "The storm god takes his bow in his hand and arrows in his right and goes to the marsh full of wild bulls", cluster: myth}
+  winged-goddess-flies: {label: "The goddess lifts her wings and soars in flight", cluster: myth}
+  god-bows-to-goddess-wishes-long-life: {label: "The storm god kneels before his sister and greets her: 'may your life be long'", cluster: myth}
+  goddess-horns-anointed: {label: "Baal will anoint the horns of the goddess's strength in flight", cluster: myth}
+  cow-bears-wild-bull-to-storm-god: {label: "A cow gives birth to a bull and a wild ox for the storm god; the goddess brings the good news to his mountain", cluster: myth}
+  newborn-calf-covered-with-udder: {label: "The cow embraces her newborn and covers him with her udder", cluster: myth}
+  god-and-goddess-sexual-union: {label: "Storm god and goddess grow hot and seize each other's genitals; she conceives and bears", cluster: myth}
+  handmaids-bear-devourers: {label: "The high god sends handmaids into the wilderness to crouch and bear 'the Devourers' and 'the Renders', horned like bulls with Baal's face", cluster: myth}
+  el-laughs-in-his-heart: {label: "The high god laughs in his heart, convulses in his liver", cluster: myth}
+  storm-god-fallen-like-bull: {label: "The storm god falls like a bull, sinks like an ox in the marsh, clothed in the blood of his brothers", cluster: myth}
+  seven-years-eight-cycles-of-drought: {label: "Seven years El fills, eight cycles of time, while the produce of the fields is scorched", cluster: myth}
+  city-life-stops-at-gods-fall: {label: "At the god's fall the king ceases to judge, the women drawing water leave the spring, the noise in El's house and the clatter of the craftsman's house cease", cluster: myth}
+  goddess-promised-seat-on-high-heavens: {label: "Incantation-hymn: the goddess is promised a seat on the roof of the high heavens, where the stars fall like bricks", cluster: myth}
+units:
+  - id: ane-ugarit-rs-94-2478-beirut-servant-judged
+    tradition: ane-akkadian
+    title: "The king of Beirut to the king of Ugarit, his brother: silver of Yadlunu; he sends his servant with his witnesses for judgement (RS 94.2478)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit RS 94.2478"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 94.2478 o:1-3"], note: "umma šar māt Biʾrūti ana šar māt Ugarit aḫīya qibīma: king to king as 'my brother'"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2478 o:4-6"]}
+      - {motif: kings-call-each-other-brothers-sons-of-one-man, refs: ["Ugarit RS 94.2478 o:3", "Ugarit RS 94.2478 o:7-8"], note: "anumma ittiya šulmu ašrānu itti aḫīya: the brother formula without 'sons of one man'"}
+      - {motif: servant-sent-with-witnesses-for-judgement, refs: ["Ugarit RS 94.2478 r:6-13", "Ugarit RS 94.2478 l.e:1-2"], note: "wardī annâ qadu šībīšu ana muḫḫika aṭrussunu u attā ... dīnšunu: 'I have sent this servant with his witnesses (šību, glossed 'old one') to you; you (give) their judgement ... settle it well'. 50 shekels of silver, 7 given by Yadlunu"}
+    hints:
+      - "A dispute referred with witnesses to another's judgement compare Deut 17:8-9 and Deut 19:15 (two or three witnesses)."
+
+  - id: ane-ugarit-rs-94-2483-ship-to-tyre-omen
+    tradition: ane-akkadian
+    title: "The king of Ugarit to the king of Sidon: guard my ship going to Tyre; the extispicy for the ship's captain was not good; the ship entrusted to Yabni-ilu (RS 94.2483)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit RS 94.2483"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 94.2483 o:1-3"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2483 o:4-5"]}
+      - {motif: omen-for-ship-captain-not-good, refs: ["Ugarit RS 94.2483 o:13-b.e:1"], note: "bārûtta ana ʾIli-malku bēl eleppīya ītepuš u bārûssu ul banû: 'he performed extispicy for Ili-malku, my ship's captain, and his omen was not good'; so the ship passes to another captain"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2483 r:7-12"], note: "mīnummê ḫašḫtu ša aḫīya ... šupurma anāku ušēbilakku: 'whatever my brother needs, write and I will send it'"}
+    hints:
+      - "Consulting omens before a sea voyage compare Jonah 1:7 (lots cast on the ship) and Prov 16:33."
+      - "Ships of Tyre and Sidon compare Isa 23:1-2 and Ezek 27:8-9."
+
+  - id: ane-ugarit-rs-94-2485-oil-for-wool-egypt
+    tradition: ane-akkadian
+    title: "Ahi-malku to Uri-Teššub his brother: may the gods of Ugarit and Tyre sate you with good old age; the oil for the wool, my ship to Egypt (RS 94.2485)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between officials, Ugarit"
+    read: ["Ugarit RS 94.2485"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 94.2485 o:1-3"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2485 o:5-7"], note: "ilānū ša māt Ugarit u ilānū ša māt Ṣurri: the gods of both cities named"}
+      - {motif: letter-wish-good-old-age-forever, refs: ["Ugarit RS 94.2485 o:8-9"], note: "šībūta damiqta lišbûka ultu inanna adi dārītim"}
+      - {motif: kings-call-each-other-brothers-sons-of-one-man, refs: ["Ugarit RS 94.2485 o:10-13", "Ugarit RS 94.2485 r:15-l.e:1"], note: "akanna aḫḫū ... išapparūnu ina birišunu: 'thus brothers write to one another'"}
+      - {motif: unpaid-price-claimed-by-letter, refs: ["Ugarit RS 94.2485 o:14-15", "Ugarit RS 94.2485 r:1-11"], note: "šamnū šīm šīpāti: oil as price for wool, asked two and three times; the oil is not in my house; the ship goes to Egypt (Miṣri)"}
+    hints:
+      - "The wish of 'good old age' (šībūtu damiqtu) compare Gen 15:15 and Gen 25:8 (be-seva tova), 1 Chr 29:28 (sated with days)."
+      - "Tyrian trade in oil and wool compare Ezek 27:17-18 (Judah and Israel traded oil; Damascus white wool)."
+
+  - id: ane-ugarit-rs-94-2494-tehi-teshub-to-father
+    tradition: ane-akkadian
+    title: "Tehi-Teššub to Sakinu his father: may the Lady guard you; my heavy burden; the servants; do not rob (RS 94.2494)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, son to father, Ugarit (damaged)"
+    read: ["Ugarit RS 94.2494"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 94.2494 o:1-5"], note: "umma Teḫi-Teššub mārūka ... ana Sakini abīya: may be literal son or courtesy title"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2494 o:6-9"], note: "ilānū ana šulmāni liṣṣurūka Bēltaka: the greeting adds 'your Lady' (the goddess)"}
+      - {motif: heart-very-dark-at-friends-neglect, refs: ["Ugarit RS 94.2494 o:10-11", "Ugarit RS 94.2494 r:11"], note: "Weak match: manaʾatu kabti ana yâši 'heavy (toil) on me'; e taḫbutu 'do not rob, my father'; text broken"}
+    hints:
+      - "A son's letter pleading weariness compare Gen 47:9 (few and evil days)."
+
+  - id: ane-ugarit-rs-94-2511-uriyanni-combat-of-sun
+    tradition: ane-akkadian
+    title: "Uriyanni to Niqmaddu of Ugarit: troops, horses, the troops of Carchemish; Alalakh uninhabited; 'the combat of the Sun will reach you' (RS 94.2511)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter from a Hittite official, Ugarit (damaged)"
+    read: ["Ugarit RS 94.2511"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2511 o:4"]}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["Ugarit RS 94.2511 o:11-14", "Ugarit RS 94.2511 b.e:1-3"], note: "ṣābū karašu sisû ... ṣābū ša šar Kargamiš; ṣābūka sisûka ... lā takaššad: your troops and horses did not arrive"}
+      - {motif: overlord-threatens-combat-of-the-sun, refs: ["Ugarit RS 94.2511 b.e:3-r:1", "Ugarit RS 94.2511 r:16-18"], note: "lū tīde kī ṣāltu ša dŠamši ana muḫḫika ikaššad: said twice"}
+      - {motif: caravan-plundered-on-road, refs: ["Ugarit RS 94.2511 r:4-8"], note: "Interpretive: things lost (ḫalqu), chariots destroyed (narkabātika uḫalliq), 'in Alalakh they are not settled (ul ašbū)'"}
+
+  - id: ane-ugarit-rs-94-2515-sheep-lost
+    tradition: ane-akkadian
+    title: "Nirla-x to the king of Ugarit: the lost sheep, a hundred kor; send word (RS 94.2515)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ugarit (fragment)"
+    read: ["Ugarit RS 94.2515"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 94.2515 o:1-2"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2515 o:3-5"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2515 r:2'-6'"], note: "lahru 'ewes' of a land; aššum ḫalqat 'because it is lost'; 100 kor; ṭēma šupra 'send word'"}
+
+  - id: ane-ugarit-rs-94-2520-ships-seized-zalhu
+    tradition: ane-akkadian
+    title: "Letter: the Sun has placed 10,000 on me to carry to Zalhu, and my ships are seized; let your ships carry it; the hire (RS 94.2520 + RS 94.2570)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ugarit (fragment)"
+    read: ["Ugarit RS 94.2520 + RS 94.2570"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2520 + RS 94.2570 o:3'-5'"]}
+      - {motif: overlord-addressed-as-my-god-my-sun, refs: ["Ugarit RS 94.2520 + RS 94.2570 o:6'-9'"], note: "anumma dŠamšu ... 1 ribbatu ... ana muḫḫiya ana zabāli ana Zalḫi iltakan: 'the Sun' is the Hittite king's title"}
+      - {motif: army-crosses-sea-in-ships, refs: ["Ugarit RS 94.2520 + RS 94.2570 o:10'-b.e:2"], note: "Loose fit: eleppūya ṣabtū 'my ships are seized'; eleppūka liššū 'let your ships lift (it)'; agrūtu 'hire'"}
+
+  - id: ane-ugarit-rs-94-2524-prefect-dark-heart
+    tradition: ane-ugaritic
+    title: "Letter to the prefect: the scatterers with their wives and sons; why do you send me back? my heart is very dark; wheat, milk, cheese, oil (RS 94.2524)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Akkadian letter to the governor (sākinu) of Ugarit (listed as ane-ugaritic)"
+    read: ["Ugarit RS 94.2524"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2524 o:3"]}
+      - {motif: treaty-return-fugitives, refs: ["Ugarit RS 94.2524 o:4-10", "Ugarit RS 94.2524 r:4-6"], note: "Interpretive: lu.meš zārûtu 'scatterers/winnowers' ... qadu aššātišu mārīšu ana muḫḫika ultēbilšunūti: people sent with wives and sons; uncertain whether fugitives"}
+      - {motif: heart-very-dark-at-friends-neglect, refs: ["Ugarit RS 94.2524 r:14-16"], note: "ammīni tutterranni ina libbiya ekil danniš ... lā banâta attā: 'why do you turn me back? in my heart it is very dark; you are not good'"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2524 r:10-20", "Ugarit RS 94.2524 l.e:2"], note: "10 kor of wheat sent, 9 received; 10 (jars of) milk; 2 cheeses as greeting-gift (šulmānu); send oil"}
+    hints:
+      - "The darkened heart of grief compare Lam 5:17 (our eyes are darkened) and Ps 38:11."
+
+  - id: ane-ugarit-rs-94-2559-suteans-ushnatu
+    tradition: ane-akkadian
+    title: "Letter on Ušnatu, Amurru and Kadesh: a king would not give troops and chariots; Sutean raiders' captives returned, half to Amurru, half to Kadesh, by oath (RS 94.2559)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ugarit (damaged)"
+    read: ["Ugarit RS 94.2559"]
+    tags:
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["Ugarit RS 94.2559 r:6'-8'"], note: "ana šar māt Ušnati niqtebi mā ṣābī narkabāti idna ana pānišunu nizziz u nidukšunu lā imangur: 'give troops and chariots, let us stand before them and kill them' -- he refused"}
+      - {motif: captives-returned-half-and-half-by-oath, refs: ["Ugarit RS 94.2559 r:10'-19'"], note: "ištu ūmi annî māmīta nutterrakku; ṣābū Sutû iṣṣabtū ... mišla awīlī ina māt Amurri utterrūšunu u mišlašunu ša šar māt Qidši; lā ḫīṭušunu ḫīṭa awīlī šanûti"}
+    hints:
+      - "Suteans as raiders compare the Sabeans and Chaldeans raiding in Job 1:15-17."
+      - "Kadesh on the Orontes compare 2 Sam 24:6 (Kadesh of the Hittites, LXX)."
+
+  - id: ane-ugarit-rs-94-2565-laiya-requests
+    tradition: ane-akkadian
+    title: "Laʾiya to Ewri-Eya his son: the requested goods, 200 staves, 100 alum stones, bread, yokes, 10 long garments, sent by messengers (RS 94.2565)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ugarit"
+    read: ["Ugarit RS 94.2565"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 94.2565 o:1-3"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2565 o:4-6"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2565 o:7-r:2"], note: "mērešta ša terriš: 40 x, 200 uluḫḫû (staves? 'sceptre'), 100 alum stones (abnu gabû), 13 breads, 2 yokes, 10 long garments, in the hands of Tette and Purqa, my messengers"}
+
+  - id: ane-ugarit-rs-94-2571-provisions-from-canaan
+    tradition: ane-ugaritic
+    title: "Taʾasi, the king's son, to the prefect: ships from Canaan with provisions; formerly Ugarit lived by Siyannu; send the rest and keep me alive (RS 94.2571)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Akkadian letter to the governor (sākinu) of Ugarit (listed as ane-ugaritic)"
+    read: ["Ugarit RS 94.2571"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2571 o:4-5"]}
+      - {motif: ships-from-canaan-bring-provisions, refs: ["Ugarit RS 94.2571 o:6-13"], note: "šumma eleppātu ištu Kinâni mānaḫta ušerredūmi u ušebbalkumi: 'if ships bring provisions down from Canaan they will send them to you'"}
+      - {motif: land-of-canaan-named, refs: ["Ugarit RS 94.2571 o:8"], note: "Kinani named as a source of shipping (not as an overlord's province)"}
+      - {motif: land-kept-alive-by-neighbours-provisions, refs: ["Ugarit RS 94.2571 r:1-14"], note: "rēḫta šūbila u bulliṭanni; pānānu māt Ugarit aššum mānaḫti ul ultu Siyanni balṭu; inanna ina šatti anniti zēra izarrū u ina šatti ša illaka mānaḫtu imaʾʾada"}
+      - {motif: vassal-begs-grain-in-famine, refs: ["Ugarit RS 94.2571 r:3-4"], note: "bulliṭanni 'keep me alive'"}
+    hints:
+      - "Provisions brought by ship to keep a land alive compare 1 Kgs 5:9-11 (Hiram's timber for Solomon's grain and oil) and Gen 42:1-2 (go down and buy, that we may live)."
+      - "Sowing this year so that next year there will be plenty compare Gen 47:23-24 and Isa 37:30."
+
+  - id: ane-ugarit-rs-94-2595-clothing-for-copper
+    tradition: ane-akkadian
+    title: "Letter to Muhnamuwa: a thousand (shekels of) copper sent as the price of clothing (RS 94.2595)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ugarit"
+    read: ["Ugarit RS 94.2595"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2595 o:4-5"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2595 o:6-13"], note: "1 līm werû šīm lubušti ... ana aḫīya ultēbila: 1,000 copper as the purchase price of the clothing"}
+
+  - id: ane-ugarit-rs-94-2597-amurru-merchants-killed
+    tradition: ane-akkadian
+    title: "The king of Amurru to the king of Ugarit, his son: my merchants were killed in your land; why have you done this? make compensation; return my man from Egypt (RS 94.2597)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit RS 94.2597"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 94.2597 o:1-3"], note: "The king of Amurru calls the king of Ugarit 'my son' (mārīya)"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2597 o:4-5"]}
+      - {motif: merchants-murdered-blood-compensation, refs: ["Ugarit RS 94.2597 o:6-r:7"], note: "tamkārūya ina libbi mātika iddukkū šunu u sardūšunu lā tušallam ammīni akanna tētepaš ... napšāte ša aḫḫī ... ul dīna ittika epuš"}
+    hints:
+      - "Demand for compensation for blood shed in another's land compare Deut 21:1-9 (the town nearest the slain) and 2 Sam 21:1-6."
+
+  - id: ane-ugarit-rs-94-2598-byblos-bread-and-beer
+    tradition: ane-akkadian
+    title: "The king of Byblos to the king of Ugarit, his brother: my ship's captain; my messengers were not given bread and beer in Ugarit (RS 94.2598)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit RS 94.2598"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 94.2598 o:1-3"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2598 o:5-7"], note: "ilānū ša māt Gubli u ilānū ša māt Ugarit"}
+      - {motif: messengers-denied-bread-and-beer, refs: ["Ugarit RS 94.2598 r:3'-12'"], note: "mā akalu šikaru ina māt Ugarit lā iddannūninnaši ... šāl šumma anāku akala šikara ana mārī šiprika lā addan"}
+    hints:
+      - "Refusal of bread to messengers or travellers compare Deut 23:4-5 (Ammon and Moab did not meet Israel with bread and water) and Judg 8:5-8 (Succoth refuses bread)."
+
+  - id: ane-ugarit-rs-94-2951-thousand-gods-wine
+    tradition: ane-akkadian
+    title: "X-Baʿlu to the king of Ugarit, his brother: may the thousand gods guard you; I go to Hatti; send six jars of good wine (RS 94.2951)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ugarit (damaged)"
+    read: ["Ugarit RS 94.2951"]
+    tags:
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 94.2951 o:4-5"], note: "aḫī līm ilānī liṣṣurūka"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2951 r:4'-t.e:1"], note: "karāna ṭāba ... 6 karpat karāni šūbila"}
+
+  - id: ane-ugarit-rs-94-2996-tarhuntassa-copper
+    tradition: ane-akkadian
+    title: "The king of Tarhuntassa to Niqmaddu of Ugarit, his son: I sent for copper for my work; there is none; send red copper; horses and donkeys dead (RS 94.2996)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit RS 94.2996"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 94.2996 o:1-4"], note: "The king of Tarhuntassa calls Niqmaddu 'my son'"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2996 o:5"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 94.2996 o:6-r:1"], note: "werû ana dulliya yānu ... werû ḫuššû ... ul uttâ lā taqabbi: 'red copper ... do not say: I did not find it'"}
+
+  - id: ane-ugarit-rs-varia-25-tyre-doors
+    tradition: ane-akkadian
+    title: "The king of Tyre to the king of Ugarit: Baʿlu-mišlu's great doors taken from the house of Dadamu without payment; let the price be paid (RS varia 25)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit RS varia 25"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS varia 25 o:1-3"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS varia 25 o:4-6"]}
+      - {motif: unpaid-price-claimed-by-letter, refs: ["Ugarit RS varia 25 o:7-r:5", "Ugarit RS varia 25 t.e:1-3"], note: "aššum dalāti rabâti ša ilqe ... ištu bīt Dadami u lā inaddin šīmšunu ... u liddin šīmšunu ana Baʿlu-mišlu"}
+    hints:
+      - "Great doors for a house, traded between Tyre and its neighbours, compare 1 Kgs 6:31-35 (Solomon's doors of olive and cypress) and Hiram's craftsmen in 1 Kgs 7:13-14."
+
+  - id: ane-ugarit-rs-varia-27-amurru-prefect
+    tradition: ane-ugaritic
+    title: "The prefect of Amurru to the prefect of Ugarit, his son: send Addarya the parišhu; I will pay its price (RS varia 27)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Akkadian letter between governors (listed as ane-ugaritic)"
+    read: ["Ugarit RS varia 27"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS varia 27 o:1-5"], note: "sākin māt Amurri to sākin māt Ugarit mārīya"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS varia 27 o:5-6"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS varia 27 o:7-r:6"], note: "parišḫu (unknown item) ... šūbila anāku šīmšu anaddin ... ištu rab tamkāri lilqēšu"}
+
+  - id: ane-ugarit-ktu3-4-168-garments-list
+    tradition: ane-ugaritic
+    title: "Palace list: a garment of lapis and red for Iyya-Baʿlu, wool for the singer of ʿAṯtart, a cloak, seven garments, 300 linen (KTU3 4.168)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "Administrative list, alphabetic Ugaritic"
+    read: ["Ugarit KTU3 4.168"]
+    tags:
+      - {motif: garments-issued-to-temple-singers, refs: ["Ugarit KTU3 4.168 o:3-4"], note: "ṯlṯm l mʾit šʿrt l šr ʿṯtrt: 130 (units of) wool to the singer of ʿAṯtart"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit KTU3 4.168 o:1-2", "Ugarit KTU3 4.168 o:5-r:3"], note: "ḫpn d ʾiqnʾi w šmt 'garment of lapis(-blue) and red'; k yṯn w b bt mlk mlbš ytn lhm 'when he grows old, in the king's house a cloak is given them'; 300 linen to Magmaru in three years"}
+    hints:
+      - "Blue and red garments compare the tekhelet and argaman of Exod 28:5-6; singers of the temple supplied by the king compare Neh 12:47."
+
+  - id: ane-ugarit-ktu3-2-42-prostration-gods-of-cyprus
+    tradition: ane-ugaritic
+    title: "Letter to the king my lord: at my lord's feet from afar seven times and seven times I fall; I spoke to Baal of Ṣapan, to the eternal Sun, ʿAṯtart, ʿAnat and the gods of Alašiya; Nmry the eternal king; ships and merchants (KTU3 2.42)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "Letter in alphabetic Ugaritic"
+    read: ["Ugarit KTU3 2.42"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit KTU3 2.42 o:1-3"], note: "l mlk bʿly rgm tḥm rb ... ʿbdk: 'to the king my lord say: message of the chief ..., your servant'"}
+      - {motif: sevenfold-prostration, refs: ["Ugarit KTU3 2.42 o:4-5"], note: "l pʿn bʿly mrḥqtm šbʿd w šbʿd qlt: 'at the feet of my lord, from afar, seven times and seven times I fell'"}
+      - {motif: gods-of-cyprus-invoked-in-letter, refs: ["Ugarit KTU3 2.42 o:6-8"], note: "ʾankn rgmt l bʿl ṣpn l špš ʿlm l ʿṯtrt l ʿnt l kl ʾil ʾalṯy"}
+      - {motif: ruler-called-eternal-king, refs: ["Ugarit KTU3 2.42 o:7", "Ugarit KTU3 2.42 o:9"], note: "špš ʿlm 'the eternal Sun'; nmry mlk ʿlm: probably Nimmuria (Amenhotep III) 'eternal king'"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit KTU3 2.42 t.e:1-l.e:5"], note: "ʾatn ksp lhm 'I will give them silver'; ʾanyt 'ships', mkr 'merchants'; the king seeks the ships (ybqṯ ʾanyt)"}
+    hints:
+      - "Seven-and-seven-times prostration compare Gen 33:3 (Jacob bows seven times) and the Amarna formula."
+      - "'Eternal king' (melekh ʿolam) compare Jer 10:10 and Ps 10:16; Baal of Ṣapan compare Baal-zephon in Exod 14:2."
+
+  - id: ane-ugarit-smea-42-ashkelon-thief
+    tradition: ane-akkadian
+    title: "The king of Beirut to the king of Ugarit: a man of Ashkelon robbed my harbour master's house, fled to Ugarit and went up to Alašiya; seize him and give him to my man (SMEA 42, p. 5-17)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter between kings, Ugarit"
+    read: ["Ugarit SMEA 42, p.5-17"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit SMEA 42, p.5-17 o:1-3"], note: "umma šar māt PU₂.MEŠ (Beirut, 'Wells') ana šar māt Ugarit aḫīya ṭābi"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit SMEA 42, p.5-17 o:4-5"]}
+      - {motif: thief-fled-abroad-extradition-requested, refs: ["Ugarit SMEA 42, p.5-17 o:6-r:8"], note: "awīlu māt Ašqalāni ... yištariq bīt UGULA KAR-ia u yinnabdi ana māt Ugarit u yiteli ana māt Alašiya ... awīla šūt ṣibat ana qāti awīlīya idnanni: West Semitic verb forms (yi-) in the Akkadian"}
+      - {motif: canaanite-gloss-in-akkadian-letter, refs: ["Ugarit SMEA 42, p.5-17 o:9", "Ugarit SMEA 42, p.5-17 o:11", "Ugarit SMEA 42, p.5-17 o:13"], note: "yi-iš-ta-ri-iq, yi-na-ab-di, yi-te-li: Canaanite prefix yi- on Akkadian verbs"}
+    hints:
+      - "Ashkelon named in the Hebrew Bible compare Judg 1:18 and 1 Sam 6:17; extradition of a fugitive slave or thief compare 1 Kgs 2:39-40 (Shimei's slaves fled to Achish of Gath) and contrast Deut 23:16-17."
+
+  - id: ane-ktu-1-1-ii-anat-summoned
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.1 II: El's messengers bow at Anat's feet in Inbb and deliver his summons: put war from the earth, pour peace, hasten to me"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.1 (Baal Cycle tablet 1), heavily restored"
+    read: ["KTU 1.1 II"]
+    tags:
+      - {motif: hasten-to-me-summons, refs: ["KTU 1.1 II:1-2", "KTU 1.1 II:21-23"], note: "mostly restored from the parallels: [ḥšk ʿṣk ʿbṣk ʿ]my pʿnk ... tlsmn ʿmy twtḥ išdk"}
+      - {motif: thousand-fields-ten-thousand-furlongs, refs: ["KTU 1.1 II:14-15"], note: "restored: balp [šd rbt kmn]; destination inbb"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.1 II:15-17"], note: "[lpʿ]n ʿnt [yhbr wyql yšt]ḥwyn: mostly restored"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.1 II:17-18"], note: "tḥm [ṯr il abk hwt l]ṭpn ḥtkk: 'message of the Bull El your father, word of the Kindly One your sire' (restored in part)"}
+      - {motif: put-war-from-earth-pour-peace, refs: ["KTU 1.1 II:19-21"], note: "[qryy barṣ mlḥ]mt št bʿp[r ddym sk šlm] lkbd arṣ: largely restored; mlḥmt 'war' (or 'bread-offering')"}
+      - {motif: mountain-of-god, refs: ["KTU 1.1 II:3", "KTU 1.1 II:23"], note: "tk ḫršn 'to the mountain (massif)' of El"}
+    hints:
+      - "Removing war from the earth compare Ps 46:10 (he makes wars cease to the end of the earth), Isa 2:4 and Hos 2:20."
+
+  - id: ane-ktu-1-1-iii-kothar-summoned
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.1 III: messengers sent to Kothar in Crete and Memphis; the word of tree and stone; Kothar comes to El's tent; 'build a house quickly'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.1 (Baal Cycle tablet 1), heavily restored"
+    read: ["KTU 1.1 III"]
+    tags:
+      - {motif: craftsman-god-from-caphtor-and-memphis, refs: ["KTU 1.1 III:1", "KTU 1.1 III:18-19"], note: "[kpt]r ksu[ ṯbth ḥkpt arṣ nḥlth]; [šnt kptr] lrḥq ilm ḥkp[t]: Caphtor and Ḥikuptah (Memphis)"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.1 III:2-3", "KTU 1.1 III:24-25"]}
+      - {motif: word-of-tree-whisper-of-stone, refs: ["KTU 1.1 III:12-16"], note: "Restored after 1.3 III 22-28: rgm ʿṣ wlḫšt abn, tunt šmm ʿm arṣ, thmt ʿmn kbkbm; rgm ltdʿ nš[m]"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.1 III:21-24"], note: "Here: yglyḏd i[l wybu qrš mlk] ab šnm 'he came to the tent of El, entered the camp of the king, father of years (?)'; ġr ks (Mount Kasios?) at III:12, 22"}
+      - {motif: bull-el-father-epithets, refs: ["KTU 1.1 III:5-6", "KTU 1.1 III:24"], note: "ab šnm 'father of years' (or 'of the šnm')"}
+      - {motif: god-commissions-king-to-build-temple, refs: ["KTU 1.1 III:27"], note: "ḥš b[htm tbnn ḥš trmmn hklm]: El orders a house built quickly (restored); for Yamm, as 1.2 III shows"}
+    hints:
+      - "'Ancient of days' compare El 'father of years' (ab šnm) with Dan 7:9 and Job 36:26 (the number of his years is unsearchable)."
+      - "Caphtor compare Amos 9:7, Deut 2:23, Jer 47:4; Memphis (Noph) Isa 19:13."
+      - "Heaven and deeps speaking without words compare Ps 19:2-5 and Ps 42:8 (deep calls to deep)."
+
+  - id: ane-ktu-1-1-iv-el-names-yamm
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.1 IV: El proclaims the name of his son Yamm, 'beloved of El', promises a house of silver and orders him to drive Baal from his throne; El's feast"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.1 (Baal Cycle tablet 1), fragmentary"
+    read: ["KTU 1.1 IV"]
+    tags:
+      - {motif: divine-council, refs: ["KTU 1.1 IV:2-6"], note: "Fragmentary: El calls to the distant gods (lrḥqm) and takes his seat; ṣpn at IV:1 uncertain"}
+      - {motif: high-god-names-favoured-son, refs: ["KTU 1.1 IV:14-20"], note: "šm bny yw ilt ... wpʿr šm ym[m]; ʿl ydm pʿrt šmk mdd i[l]: 'the name of my son is Yw ... he proclaimed the name of Yamm ... I have proclaimed your name, beloved of El'"}
+      - {motif: high-god-orders-rival-driven-from-throne, refs: ["KTU 1.1 IV:21-27"], note: "btkspy ... bd aliyn b[ʿl] kd ynaṣn gršnn lk[si mlkh] ... ymḫṣk: 'drive him from the throne of his kingship ... or he will strike you'"}
+      - {motif: gods-feast-slaughtered-cattle-sheep-fatlings, refs: ["KTU 1.1 IV:28-32"], note: "il dbḥ ... ṭbḫ alp[m] ... ṯrm ... imr: El slaughters a feast"}
+    hints:
+      - "A divine name proclaimed for the chosen son compare Ps 2:7 and Isa 9:5; 'Yw' has been compared with the name YHWH, though the reading is disputed."
+      - "Feast for the gods with slaughtered oxen and fatlings compare 1 Kgs 1:9, 19 (Adonijah's feast) and Isa 25:6."
+
+  - id: ane-ktu-1-1-v-haddu-bound
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.1 V: days pass; someone seeks Haddu on Ṣapan; 'you will bind me, Bull El, among the stones' (fragment)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.1 (Baal Cycle tablet 1), fragmentary"
+    read: ["KTU 1.1 V"]
+    tags:
+      - {motif: holy-mountain-of-my-inheritance, refs: ["KTU 1.1 V:5", "KTU 1.1 V:18"], note: "Only bṣpn 'on Ṣapan' survives; Haddu sought there (hd tngṯnh, V:4, 17)"}
+      - {motif: god-binds-tiamat-and-qingu, refs: ["KTU 1.1 V:9-10", "KTU 1.1 V:22-23"], note: "Interpretive: tasrn ṯr il ... trks bn abnm 'you will bind (me), Bull El, ... tie between the stones'; who binds whom is unclear"}
+      - {motif: days-pass-formula, refs: ["KTU 1.1 V:2-3", "KTU 1.1 V:15-16"], note: "[wym ym]m [yʿtqn]: 'a day, two days passed'"}
+
+  - id: ane-ktu-1-2-i-yamm-embassy
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.2 I: Baal curses Yamm; Yamm's envoys come to the assembly on Mount Ll; the gods bow their heads; 'Give up Baal!'; El makes Baal Yamm's slave; Anat and Athtart restrain Baal"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.2 (Baal Cycle tablet 2)"
+    read: ["KTU 1.2 I"]
+    tags:
+      - {motif: curse-sceptre-broken-kingship-overthrown, refs: ["KTU 1.2 I:5-9"], note: "drktk mšl ... yṯbr ḥrn ym yṯbr ḥrn rišk ʿṯtrt šm bʿl qdqdk ... tqln bgbl šntk: 'may Horon break, O Yamm, may Horon break your head, Athtart-name-of-Baal your skull; may you fall in the prime of your years' (partly restored)"}
+      - {motif: divine-council, refs: ["KTU 1.2 I:14-17", "KTU 1.2 I:20-21"], note: "pḫr mʿd tk ġr ll: 'the full assembly on Mount Ll'; ilm ... bn qdš 'the sons of the Holy One' sit to eat"}
+      - {motif: assembly-of-holy-ones, refs: ["KTU 1.2 I:21", "KTU 1.2 I:38"], note: "bn qdš 'sons of the Holy One (Qudšu)' as the assembled gods"}
+      - {motif: sea-demands-storm-god-be-surrendered, refs: ["KTU 1.2 I:11", "KTU 1.2 I:17-19", "KTU 1.2 I:33-35"], note: "tḥm ym bʿlkm adnkm ṯpṭ nhr tn ilm dtqh ... tn bʿl wʿnnh bn dgn arṯm pḏh: 'Give up the god whom you protect, give up Baal and his lackeys, the son of Dagan, I will possess his gold'"}
+      - {motif: gods-lower-heads-in-fear, refs: ["KTU 1.2 I:22-29"], note: "ġltm ilm rišt km lẓr brktkm ... šu ilm raštkm: 'why, gods, have you lowered your heads to your knees? lift up your heads!'"}
+      - {motif: fiery-messengers-tongue-like-sword, refs: ["KTU 1.2 I:32-33"], note: "išt ištm yitmr ḥrb lṭšt [lš]nhm: 'a fire, two fires they appear, a sharpened sword their tongue'"}
+      - {motif: winds-as-angels-fire-as-ministers, refs: ["KTU 1.2 I:32-33"], note: "The envoys appear as fire; the image of fiery divine messengers"}
+      - {motif: high-god-surrenders-son-as-slave, refs: ["KTU 1.2 I:36-38"], note: "ʿbdk bʿl yymm ʿbdk bʿl [nhr]m bn dgn asrkm hw ybl argmnk kilm: 'Baal is your slave, O Yamm, ... your prisoner; he shall bring your tribute like the gods'"}
+      - {motif: goddesses-restrain-angry-god, refs: ["KTU 1.2 I:38-41"], note: "anš zbl bʿl yuḫd byd mšḫṭ ... [ymnh ʿ]nt tuḫd šmalh tuḫd ʿṯtrt: Anat seizes his right, Athtart his left"}
+      - {motif: messenger-not-to-be-harmed, refs: ["KTU 1.2 I:40-42"], note: "ik mḫ[ṣt mlak ym t]ʿdt ṯpṭ nhr: 'how could you strike the envoys of Yamm?' -- inviolability of messengers"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.2 I:14-15", "KTU 1.2 I:30-31"], note: "Inverted: the envoys are told al tpl al tštḥwy pḫr mʿd 'do not fall down, do not bow before the assembly', and they do not"}
+    hints:
+      - "The sea's arrogant demand and its 'rivers' compare Ps 93:3-4 (the rivers have lifted up their voice) and Ps 89:10."
+      - "Gods with heads bowed in a council compare 1 Kgs 22:19 and Ps 82:1, Ps 89:6-8 (the council of the holy ones)."
+      - "Messengers as flaming fire compare Ps 104:4; a tongue like a sharp sword compare Ps 57:5, Ps 64:4, Isa 49:2."
+      - "Inviolability of envoys compare 2 Sam 10:1-5 (Hanun's insult to David's envoys)."
+
+  - id: ane-ktu-1-2-ii-fragment
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.2 II: fragment ('I will strike'; 'kingship'; Baal)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.2 (Baal Cycle tablet 2), only line beginnings"
+    read: ["KTU 1.2 II"]
+    tags:
+      - {motif: storm-god-defeats-sea, refs: ["KTU 1.2 II:5", "KTU 1.2 II:8-9"], note: "Only w bʿl ... imḫṣ 'I will strike' ... mlk 'king(ship)' survive; context of the combat assumed"}
+
+  - id: ane-ktu-1-2-iii-house-for-yamm-athtar
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.2 III: Kothar goes to El at the source of the rivers and is told to build Yamm's palace; Athtar complains he has no house and no wife; Shapsh warns him El will overturn his throne"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.2 (Baal Cycle tablet 2)"
+    read: ["KTU 1.2 III"]
+    tags:
+      - {motif: craftsman-god-from-caphtor-and-memphis, refs: ["KTU 1.2 III:2-3"], note: "restored [kpt]r lrḥq [i]l[m ḥkpt]"}
+      - {motif: el-dwells-at-source-of-two-rivers, refs: ["KTU 1.2 III:4-5"], note: "ʿm [i]l mbk n[hrm qrb apq thmtm] ... ḏl i[l] ... [q]rš mlk"}
+      - {motif: prostration-before-deity, refs: ["KTU 1.2 III:5-6"]}
+      - {motif: palace-built-for-sea, refs: ["KTU 1.2 III:7-11"], note: "tbʿ bn bht ym [rm]m hkl ṯpṭ n[hr] ... alp šd aḫd bt rbt kmn hkl"}
+      - {motif: thousand-fields-ten-thousand-furlongs, refs: ["KTU 1.2 III:10-11"], note: "Here as the dimensions of the palace"}
+      - {motif: throne-pillars-uprooted-sceptre-broken, refs: ["KTU 1.2 III:15-18"], note: "Shapsh: lysʿ [a]lt ṯbtk ly[hpk ksa] mlkk lyṯbr ḫṭ mṯpṭk"}
+      - {motif: god-has-no-house-like-the-gods, refs: ["KTU 1.2 III:19-20"], note: "Athtar: ank in bt [l]y [km] ilm wḥẓr [kbn qd]š"}
+      - {motif: god-without-wife-like-gods, refs: ["KTU 1.2 III:22"], note: "in aṯt [l]k k[m ilm]: 'you have no wife like the gods'"}
+      - {motif: sun-deity-lamp-of-gods, refs: ["KTU 1.2 III:15"], note: "nrt ilm špš: 'the Lamp of the gods, Shapsh'"}
+    hints:
+      - "The pillars of the throne and the sceptre broken compare Ps 89:45 (you have hurled his throne to the ground), Isa 14:5 (YHWH broke the staff of the wicked)."
+      - "Athtar, the would-be king, compare the 'Day Star, son of Dawn' who would ascend the mount of assembly in Isa 14:12-15."
+
+  - id: ane-ktu-1-2-iv-baal-defeats-yamm
+    tradition: ane-ugaritic
+    title: "Baal Cycle 1.2 IV: Kothar promises Baal eternal kingship and makes the clubs Yagrush and Ayyamur; they strike Yamm's shoulder, then his skull; Yamm falls; 'Yamm is dead, Baal shall be king'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Ugaritic"
+    version: "KTU 1.2 (Baal Cycle tablet 2)"
+    read: ["KTU 1.2 IV"]
+    tags:
+      - {motif: rider-of-the-heavens, refs: ["KTU 1.2 IV:8", "KTU 1.2 IV:29"], note: "rkb ʿrpt 'Rider of the Clouds' as Baal's epithet"}
+      - {motif: take-eternal-kingship, refs: ["KTU 1.2 IV:8-10"], note: "ht ibk bʿlm ht ibk tmḫṣ ht tṣmt ṣrtk tqḥ mlk ʿlmk drkt dt drdrk: 'now your enemy, Baal, now strike your enemy, now destroy your foe; take your eternal kingship, your everlasting dominion'"}
+      - {motif: named-weapons-of-divine-warrior, refs: ["KTU 1.2 IV:11-12", "KTU 1.2 IV:18-19"], note: "ypʿr šmthm šmk at ygrš ... aymr: 'Driver' and 'Expeller'"}
+      - {motif: craftsman-names-twin-clubs, refs: ["KTU 1.2 IV:11-26"], note: "trtqṣ bd bʿl km nšr buṣbʿth: 'leap from Baal's hand like an eagle from his fingers'; first club to the shoulder, second to the skull between the eyes"}
+      - {motif: storm-god-defeats-sea, refs: ["KTU 1.2 IV:15-27"], note: "ʿz ym lymk ... ylm qdqd zbl ym bn ʿnm ṯpṭ nhr yprsḥ ym yql larṣ ... yqṯ bʿl wyšt ym ykly ṯpṭ nhr"}
+      - {motif: sea-is-dead-baal-shall-reign, refs: ["KTU 1.2 IV:32", "KTU 1.2 IV:34"], note: "ym lmt bʿlm yml[k]"}
+      - {motif: gods-acclaim-x-is-king, refs: ["KTU 1.2 IV:32"]}
+      - {motif: god-rebukes-sea-and-dries-rivers, refs: ["KTU 1.2 IV:28-30"], note: "bšm tgʿrm ʿṯtrt: Athtart 'rebukes' (gʿr) by the name -- the verb of Ps 106:9, Nah 1:4; 'our captive is Prince Yamm'"}
+      - {motif: god-stills-sea-smites-rahab, refs: ["KTU 1.2 IV:22-27"]}
+      - {motif: fall-to-earth-strong-into-dust, refs: ["KTU 1.2 IV:5"], note: "ypl ulny wl ʿpr ʿẓmny: 'may the mighty fall to the earth, the strong into the dust'"}
+    hints:
+      - "'Your enemies, O YHWH, now your enemies shall perish' compare Ps 92:10 (hinneh oyvekha) with ht ibk bʿlm ht ibk tmḫṣ; eternal kingship compare Ps 145:13 and Exod 15:18."
+      - "YHWH's rebuke of the sea compare Ps 104:7, Ps 106:9, Nah 1:4, Isa 50:2; Sea and River in parallel compare Hab 3:8 and Ps 93:3."
+      - "'YHWH is king' after the combat compare Ps 93:1, Ps 29:10 (YHWH sits enthroned over the flood), Exod 15:18; the god's victory over the sea compare Job 26:12 and Ps 74:13."
+      - "Compare Q 44:24 (leave the sea at rest) for a late echo of the parted, subdued sea."

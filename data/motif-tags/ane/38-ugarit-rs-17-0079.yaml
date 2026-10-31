@@ -55,6 +55,52 @@ new_motifs:
   ransom-of-captured-troops: {label: "Silver is paid as ransom (ipṭiru) for one king's captured troops and horses", cluster: war}
   princess-of-hatti-in-ugarit: {label: "A daughter of the Hittite Great King ('daughter of the Sun') is married into or resides at the court of a vassal king (Ugarit, Amurru) as great queen", cluster: kingship}
   oath-sun-sees: {label: "The sun god is invoked to watch over or see the oath and its breaker ('may the Sun of that day see him')", cluster: treaty}
+  messenger-sent-to-ask-kings-well-being: {label: "A messenger is sent to the overlord's court 'to ask after the well-being of the king our lord' and bring back news", cluster: letters}
+  deed-witnessed-by-named-witnesses: {label: "A legal deed closes with a list of named witnesses (IGI ...) and the scribe", cluster: law}
+  overseer-of-thousand: {label: "An official titled 'overseer of a thousand' (UGULA līm, Ugaritic rb alp) appears in a legal or administrative record", cluster: kingship}
+  companion-abandoned-to-egyptians: {label: "A man's companion leaves him to (or with) Egyptians and they take his goods", cluster: law}
+  husband-killed-in-town-oath-and-compensation: {label: "A woman's husband is killed in a town; the townsmen must swear that they did not kill him and do not know who did, or else pay compensation into her hand", cluster: law}
+  double-letter-on-one-tablet: {label: "One tablet carries two letters, the second from a servant to his lord and lady (or from a second sender), each with its own address and greeting", cluster: letters}
+  commander-guards-passes-awaiting-pharaoh: {label: "A commander stationed for months in Amurru guards the roads and passes, half his chariots by the sea and half at the flank of Mount Lebanon, waiting for the Egyptian king's army", cluster: war}
+  campaign-ruined-by-winter-rain-and-cold: {label: "Winter rain fills the cisterns, the cold 'eats' the soldiers, chariots break, horses die and troops are lost", cluster: war}
+  captive-interrogated-about-enemy-king: {label: "A captive taken in a night skirmish is questioned about the enemy king's plans: 'the king of Egypt is coming out'", cluster: war}
+  foreign-king-sends-offerings-to-ugarit: {label: "A foreign king sends animals and spices to Ugarit for his offerings (nīqu) there and asks the king to protect his servant on the way", cluster: cult}
+  border-town-seized-by-neighbour-king: {label: "A king complains to the overlord that his neighbour has taken his borders and a town ('why have you done this?')", cluster: law}
+  letter-servant-falls-at-lords-feet: {label: "Letter formula of submission: 'at the feet of my lord I fall' (ana šēpē bēlīya amqut; Ugaritic lpʿn adty ... qlt), without a count of times", cluster: letters}
+  letter-blessing-sated-with-old-age: {label: "Letter blessing: may the gods keep you well and sate you with (good) old age before the gods of our father's house (or before the king your lord) for ever", cluster: letters}
+  gods-of-fathers-house: {label: "'The gods of our father's house' are invoked alongside the gods of the land as the family's protecting gods", cluster: theology}
+  son-falls-at-mothers-feet: {label: "A son writing to his mother (often the queen mother) falls at her feet in the letter's greeting", cluster: letters}
+  oath-of-clearance-in-house-of-god: {label: "Accused men (elders of a town) are to come, enter the house of the god and (by oath there) be cleared", cluster: law}
+  stolen-cattle-claimed-from-town: {label: "Oxen stolen by men of a town are claimed by letter; the case must be finished and the oxen returned, or the town's elders must clear themselves", cluster: law}
+  letter-reciprocal-wishes-formula: {label: "Letter formula: 'whatever wish I ask of you, give it; whatever wish you ask of me, I will give you'", cluster: letters}
+  envoy-and-case-sent-with-letter: {label: "A king sends his messenger with a letter asking his 'brother' king to watch over him until he departs and to settle his cases with foreigners on the road", cluster: letters}
+  gods-as-helpers-epithet: {label: "The gods are called 'my helpers' (ilānū rēṣīya) and a city 'city of trust' in a letter's blessing", cluster: theology}
+  captivity-mentioned-in-letter: {label: "A letter mentions captivity (šallūtu) of people or of a king in a broken context", cluster: war}
+  brotherhood-adoption-contract: {label: "Two men make a contract of brotherhood (aḫḫūtu) before the mayor and elders, with a deposit of silver; whoever 'hates' the other forfeits and leaves, and the childless one's estate passes to his adopted brother", cluster: law}
+  hate-formula-for-dissolution: {label: "Legal formula: 'if X hates (zêru) Y' marks the unilateral dissolution of a marriage, adoption or brotherhood, with a fixed penalty", cluster: law}
+  heirless-estate-to-adopted-brother: {label: "If a man dies without a son, all his property goes to the man he adopted as brother or son", cluster: law}
+  man-seized-as-replacement-dies: {label: "A man seized by force as a replacement (rību) for another dies in custody; his brother sues, the defendant is offered the oath, and the plaintiff's refusal to swear clears him of the blood", cluster: law}
+  egyptian-official-invokes-egyptian-gods-for-ugarit: {label: "An Egyptian official writing to the king of Ugarit says he speaks to Amun, Re and Seth, the gods of Egypt, that they may guard him", cluster: letters}
+  city-told-to-hold-out-until-relief-army: {label: "The overlord's officer tells a city's notables that relief troops are coming quickly: 'guard the city until we arrive'", cluster: war}
+  loved-like-good-oil-and-cedar-scent: {label: "A correspondent is called 'my good brother whom I love like good oil and the scent of cedar'", cluster: letters}
+  guard-your-mouth-before-king: {label: "Advice in a letter: guard your mouth (your words) before the king your lord, that he may honour you", cluster: wisdom}
+  widow-writes-of-dead-husbands-friendship: {label: "A widow reminds her late husband's friend that while her husband lived they were friends and he gave whatever was asked, and asks the same favour of him", cluster: letters}
+  bronze-for-making-divine-image: {label: "A woman asks for bronze because she is making a divine image (godhead)", cluster: cult}
+  chief-of-metalworkers: {label: "A 'king' or chief of the smiths (šar qurqurrī) appears as a guild head in a letter", cluster: crafts}
+  petition-to-speak-for-writer-before-king: {label: "A writer asks a courtier to set his matter right before the king so that the king grants his wish", cluster: letters}
+  letter-addressed-to-elders-of-city: {label: "A letter is addressed to named notables and to 'the great men and the elders of the city'", cluster: letters}
+  divine-epithet-lord-of-the-sea: {label: "A god is called lord of the (wide) sea in an invocation or greeting", cluster: theology}
+  no-claim-tomorrow-or-later: {label: "Settlement clause: 'tomorrow or the day after' (urram šēram) neither party may raise a claim against the other", cluster: law}
+  heart-laughs-to-see-lord: {label: "A servant writes that his heart laughs (rejoices) greatly at seeing his lord: 'who will see my lord's good face and hear his sweet word?'", cluster: letters}
+  heart-pounds-for-lack-of-news: {label: "A writer's heart 'beats greatly' (libbī inakkud) because his lord has not sent to ask after his well-being, or because of the king's illness", cluster: letters}
+  storm-god-killed-troops: {label: "A king reports that the storm god (Baal/Addu) has killed some of his troops and great men, apparently at sea", cluster: theology}
+  captive-wife-ransomed-if-loved: {label: "If a captured man loves his wife, he may take her back by ransom (ipṭiru)", cluster: law}
+  men-held-in-prison-house-abroad: {label: "Men of one kingdom are held in a prison house (bīt kīli) in another king's land", cluster: law}
+  famine-king-asks-ally-for-barley: {label: "A king writes that there is no barley in his land and asks his 'brother' king to give barley, sending sheep for offerings", cluster: famine}
+  oil-jars-levied-on-villages: {label: "Jars of oil owed to the palace are levied on the men of named villages and must be collected and stored", cluster: economy}
+  queen-asked-for-news-of-kings-illness: {label: "A courtier writes to the queen that his heart pounds over the king's illness and asks her to send news of it", cluster: kingship}
+  search-for-seven-days: {label: "A search or inspection is to be carried out over seven days (e.g. along the sea) and word sent back", cluster: numbers}
+  gods-give-wish-in-letter: {label: "A letter wishes that the gods may grant (give) something to the addressee", cluster: letters}
 units:
   - id: ane-ugarit-rs-17-0079-mursili-niqmepa-treaty
     tradition: ane-akkadian
@@ -531,3 +577,602 @@ units:
     hints:
       - "Aziru of Amurru is the same ruler as in the Amarna letters (EA 156-171); compare the Habiru raiders of the Amarna letters and 1 Sam 13:3-7."
       - "A covenant ending old claims between neighbours compare Gen 31:44-54 (Jacob and Laban's covenant heap) and Gen 21:22-32 (Abraham and Abimelech at Beersheba)."
+
+  - id: ane-ugarit-rs-19-0070-king-queen-to-kilae
+    tradition: ane-akkadian
+    title: "King and queen of Ugarit to Kilaʾe 'our father': messenger ʾIli-milku sent to ask after the well-being of Tudhaliya, the king our lord (RS 19.0070)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter from the king and queen of Ugarit"
+    read: ["Ugarit RS 19.0070"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 19.0070 o:1-4"], note: "The king and queen together write to a Hittite official Kilaʾe as abīni 'our father'"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 19.0070 o:5-7"]}
+      - {motif: messenger-sent-to-ask-kings-well-being, refs: ["Ugarit RS 19.0070 o:8-r:4"], note: "ʾIli-milku mār šipri ana šâl šulmi ša šarri bēlīni ... šulmāna ṭēma ša Tudḫaliya šarri bēlīni literrūni. ʾIli-milku may be the scribe of the Baal cycle"}
+    hints:
+      - "Sending to ask after a king's well-being compare 2 Sam 8:10 (Toi sends Joram 'to ask him of peace') and 1 Sam 17:18."
+
+  - id: ane-ugarit-rs-19-0078-agi-teshub-oath-refused
+    tradition: ane-akkadian
+    title: "Deed: Agi-Tešub cleared before witnesses; the overseer of a thousand would not consent to his oath, and he and his sons are free of his hand (RS 19.0078)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal deed with witnesses"
+    read: ["Ugarit RS 19.0078"]
+    tags:
+      - {motif: party-refuses-oath-forfeits-claim, refs: ["Ugarit RS 19.0078 o:1-b.e:2"], note: "ištu ūmi annîm ana pāni šībūti Agi-Tešub uzakki; UGULA līm ina māmīti u lā imagar ana itmīšu u zakâ: the overseer did not agree to (take) his oath, so (Agi-Tešub) is clear, he and his sons, from his hand"}
+      - {motif: overseer-of-thousand, refs: ["Ugarit RS 19.0078 o:4", "Ugarit RS 19.0078 b.e:1"]}
+      - {motif: deed-witnessed-by-named-witnesses, refs: ["Ugarit RS 19.0078 r:1-7"], note: "IGI Ehlip-šarri, man of ʿArmanu ... IGI ʿAbdi-[...] the scribe"}
+    hints:
+      - "Officers of thousands compare Exod 18:21, 25 and 1 Sam 8:12."
+
+  - id: ane-ugarit-rs-19-0115-mast
+    tradition: ane-akkadian
+    title: "Letter fragment about a great ship's mast: you wrote 'release it to me', but now there is none (RS 19.0115)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter fragment (Akkadian, though listed as ane-ugaritic); bottom broken"
+    read: ["Ugarit RS 19.0115"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 19.0115 o:1'-2'"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 19.0115 o:3'-7'"], note: "tarni rabî: Ugaritic trn 'mast' in an Akkadian letter; b.e:1-3 broken"}
+    hints:
+      - "A ship's mast as precious timber compare Ezek 27:5 (cedar from Lebanon for Tyre's mast) and Isa 33:23."
+
+  - id: ane-ugarit-rs-20-0015-enbiyani-copper-donkeys
+    tradition: ane-akkadian
+    title: "Enbiyani to Rapʾanu: copper for donkeys; let Baʿlalu come and enter the oath over the silver and the donkeys (RS 20.0015)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter"
+    read: ["Ugarit RS 20.0015"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0015 o:4-7"]}
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 20.0015 o:8-r:11"], note: "Exchange 'I the copper, you the donkeys'; Baʿlalu lillika u lirrub ina māmīti eli kaspi imērī u lilqīšu: 'let him come, enter into the oath about the silver and the donkeys, and take it'"}
+
+  - id: ane-ugarit-rs-20-0017-ushnatu-zukuraya
+    tradition: ane-akkadian
+    title: "King of Ušnatu to Yabninu: Zukuraya my commissioner comes to take my 'fatherhood' share; place him under Ekuwa's hand and guard him well (RS 20.0017)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter"
+    read: ["Ugarit RS 20.0017"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0017 o:4-5"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 20.0017 o:6-15"], note: "Interpretive: ana leqê abbūtīya 'to take my abbūtu (intercession / paternal estate)'; the man is entrusted to Ekuwa: kī ṭābi ṣuršu danniš"}
+
+  - id: ane-ugarit-rs-20-0021-ushnatu-baaliya-oath
+    tradition: ane-akkadian
+    title: "King of Ušnatu to the king of Ugarit: Baʿliya and his witnesses sent to swear and take his silver; the man whose companion left him to the Egyptians; set this agreement between us (RS 20.0021)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter"
+    read: ["Ugarit RS 20.0021"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0021 o:4-6"]}
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 20.0021 o:7-11"], note: "Baʿliya qadu šībūtēšu ... litme u kaspīšu lilqe: 'let him swear (with his witnesses) and take his silver'"}
+      - {motif: companion-abandoned-to-egyptians, refs: ["Ugarit RS 20.0021 b.e:1-r:9"], note: "tappîšu ipšur-mi ana mārī Miṣrî u izzabšu: 'his companion released (him) to the Egyptians and left him', and they took his goods"}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 20.0021 r:10-l.e:1"], note: "rikilta annīta ina birīni šukun: 'set this agreement between us'"}
+
+  - id: ane-ugarit-rs-20-0022-carchemish-zibaya-arzigana
+    tradition: ane-akkadian
+    title: "King of Carchemish to ʿAmmistamru: Takiya and his witnesses to swear about the 800 shekels; vineyard cut at Šurašu; the men of Arzigana to swear they did not kill the woman's husband and do not know who did (RS 20.0022)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Royal letter with verdicts"
+    read: ["Ugarit RS 20.0022"]
+    tags:
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 20.0022 o:5-r:9"], note: "Debt of Zibaya's son; Takiya qadu šībūtīšu litmama ... qāt lilli: if Takiya's witnesses turn (inakkirū), Zibaya's son with his witnesses swears and Takiya pays"}
+      - {motif: vines-cut-down-in-border-dispute, refs: ["Ugarit RS 20.0022 r:10-14"], note: "kirî karānīya ina Šurašu ittaksū-mi: compensation 'according to (the custom of) Ugarit'"}
+      - {motif: husband-killed-in-town-oath-and-compensation, refs: ["Ugarit RS 20.0022 r:15-l.e:4"], note: "The men of Arzigana are to swear in ʾArruwa: šumma mutši ša sinništi u aḫ ʿAbdi-ʿAnati ina āli niddukū; yānu-ma ša iddukūšu nīde-mi; if they recede from the oath they pay the compensation into her hand"}
+      - {motif: town-swears-it-does-not-know-killers, refs: ["Ugarit RS 20.0022 r:18-l.e:4"]}
+    hints:
+      - "The town's oath 'we did not kill, we do not know who killed' is a close partner of Deut 21:7 ('our hands did not shed this blood, nor did our eyes see it')."
+      - "The theophoric name ʿAbdi-ʿAnati ('servant of Anat') compare Shamgar ben Anath (Judg 3:31) and Anathoth (Jer 1:1)."
+
+  - id: ane-ugarit-rs-20-0023-sakinu-rapanu-patunu
+    tradition: ane-ugaritic
+    title: "The prefect to Rapʾanu: why are you late? the roads to my descent are good; there is no wine, oil, emmer or salt; with a second letter of Patunu to his lord and lady (RS 20.0023)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Double letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 20.0023"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0023 o:3-5", "Ugarit RS 20.0023 r:5-7"]}
+      - {motif: letter-mutual-well-being-formula, refs: ["Ugarit RS 20.0023 o:6-8", "Ugarit RS 20.0023 r:8-12"], note: "šulmāna ṭēma terranni (scribal dittography: ṭe-mat-er-an-nu repeated)"}
+      - {motif: double-letter-on-one-tablet, refs: ["Ugarit RS 20.0023 r:2-12"], note: "ana Rapʾana bēlīya ana Bišišaya bēltīya ... umma Patunu wardūkunu"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 20.0023 o:9-r:1"], note: "Why do you delay the work of the road? there is no wine, oil, emmer or salt"}
+
+  - id: ane-ugarit-rs-20-0033-commander-awaits-pharaoh
+    tradition: ane-akkadian
+    title: "Šumi-[...] to the king his lord: five months in Amurru guarding the passes; winter cold has destroyed my chariots and horses; a captive says the king of Egypt is coming out; if the gods give him into our hands (RS 20.0033)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Military letter (Hittite or Ugaritic commander); left edge damaged"
+    read: ["Ugarit RS 20.0033"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 20.0033 o:1-2"]}
+      - {motif: letter-servant-falls-at-lords-feet, refs: ["Ugarit RS 20.0033 o:2"], note: "ana šēpē bēlīya amqut"}
+      - {motif: commander-guards-passes-awaiting-pharaoh, refs: ["Ugarit RS 20.0033 o:3-20"], note: "iš-tu ITI 5 ... ina māt Amurri ašbāku ... anaṣṣaršunu ūmam u mūšam ... mišil narkabātīya ina aḫi tiāmti ... mišil ina irti ḫuršān Labnāni; the provisions and auxiliary troops at Halba"}
+      - {motif: campaign-ruined-by-winter-rain-and-cold, refs: ["Ugarit RS 20.0033 o:21-30"], note: "zīnu izannunu kuppu illak ... kūṣu ikkalanni narkabātūya šebrū sisûya mītū ṣābūya ḫaliq"}
+      - {motif: captive-interrogated-about-enemy-king, refs: ["Ugarit RS 20.0033 r:4'-15'"], note: "Night battle near Ardata; one man taken: šar Miṣri uṣṣi-mi u zakâm uṣṣi-mi: 'the king of Egypt is coming out, and the zakâ-troops are coming out' at the eššēšu feast"}
+      - {motif: enemies-delivered-into-kings-hand, refs: ["Ugarit RS 20.0033 r:30'-32'"], note: "šumma inandin ilānū ana qātīni ... nirraḫḫiṣ abunnassu ina erṣeti aḫīti: 'if the gods give (him) into our hands, we will wash (?) his navel in a foreign land' (obscure)"}
+    hints:
+      - "'The LORD will give them into your hand' compare Josh 10:8, Judg 3:28, 1 Sam 23:4 and 1 Kgs 22:6."
+      - "Military operations in the rainy season compare 2 Sam 11:1 ('at the return of the year, when kings go out') and Ezra 10:9, 13."
+      - "Chariots stationed at Lebanon and by the sea compare 1 Kgs 9:19 and 1 Kgs 10:26."
+
+  - id: ane-ugarit-rs-20-0150-son-to-father-assyrian
+    tradition: ane-akkadian
+    title: "A 'son' to his 'father': I have seized the man of Assur; my slave-girl is in the house of ʿAbdi-ʾili; return her by my messenger; 10 shekels sent (RS 20.0150)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, address broken"
+    read: ["Ugarit RS 20.0150"]
+    tags:
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 20.0150 o:2'-3'"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0150 o:4'-6'"]}
+      - {motif: treaty-return-fugitives, refs: ["Ugarit RS 20.0150 o:7'-r:8"], note: "awīl māt Aššur aṣṣabat: 'I have seized the Assyrian'; amtī ... ina bīt ʿAbdi-ʾili ... ašbat: return my slave-girl by the hand of my messenger"}
+
+  - id: ane-ugarit-rs-20-0158-betiilu-garibanu
+    tradition: ane-akkadian
+    title: "Beti-ʾilu to ʿUzzenu, 'my brother': the case of Garibanu and ʾAmur-Baʿlu over 20 shekels; let me settle this case (RS 20.0158+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter; reverse r:3-10 broken"
+    read: ["Ugarit RS 20.0158 + RS 20.0195,r"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0158 + RS 20.0195,r o:4-5"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 20.0158 + RS 20.0195,r o:6-r:13"], note: "aššum dīni Garibanu itti ʾAmur-Baʿlu ... 20 shekels; aḫī inanna dīna annê luškun"}
+
+  - id: ane-ugarit-rs-20-0172-kadesh-offerings
+    tradition: ane-ugaritic
+    title: "King of Kadesh to the king of Ugarit, 'my brother': my servant Beti-ʾilu says my offerings are in Ugarit; I send goats, donkeys and asafoetida for his sacrifices; let no one bar his way (RS 20.0172)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 20.0172"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0172 o:4-6"]}
+      - {motif: foreign-king-sends-offerings-to-ugarit, refs: ["Ugarit RS 20.0172 o:7-r:10"], note: "nīqīya niqâtīya ana māt Ugarit ibaššâ ... ana epēši niqâtišu; 30 he-goats and 3 donkeys of nuḫurtu (asafoetida)"}
+      - {motif: safe-conduct-letters, refs: ["Ugarit RS 20.0172 b.e:1-r:4"], note: "īnšu ana muḫḫišu liškun ina alākišu u naḫāsišu u awīlu mamma ana pānišu lū lā iparrik"}
+    hints:
+      - "A foreign king's offerings at another land's sanctuary compare 2 Kgs 5:17 (Naaman's earth for sacrifice) and 1 Kgs 8:41-43 (the foreigner's prayer at the temple)."
+
+  - id: ane-ugarit-rs-20-0174a-king-ushnatu-border
+    tradition: ane-akkadian
+    title: "'The king' (of Carchemish?) to the king of Ugarit: the king of Ušnatu complains you took his borders and a town; why have you done this? (RS 20.0174,a)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, lower part broken"
+    read: ["Ugarit RS 20.0174,a"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0174,a o:4-5"]}
+      - {motif: border-town-seized-by-neighbour-king, refs: ["Ugarit RS 20.0174,a o:6-15"], note: "pāṭīya ilteqe-mi u āla 1-en ilteqe-mi; ammīni akanna tetepuš; then broken: '... clear ... in his borders ... do not approach'"}
+    hints:
+      - "Moving a neighbour's boundary compare Deut 19:14, 27:17 and Prov 22:28; a king's complaint 'why have you done this?' compare Judg 11:12-13."
+
+  - id: ane-ugarit-rs-20-0178-rapanu-binshipti
+    tradition: ane-akkadian
+    title: "Rapʾanu to Bin-šipṭi 'my sister': the gods of Baṭruna, of Ugarit and of our father's house sate you with old age; with a second letter of her son, who falls at his mother's feet (RS 20.0178)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Double letter"
+    read: ["Ugarit RS 20.0178"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0178 o:4-9", "Ugarit RS 20.0178 r:5'-6'"], note: "ilānū ša māti Baṭruna u ilānū ša māt Ugarit u gabba ilānū ša bīt abīni ana šulmāni liṣṣurūki"}
+      - {motif: gods-of-fathers-house, refs: ["Ugarit RS 20.0178 o:7", "Ugarit RS 20.0178 o:11"]}
+      - {motif: letter-blessing-sated-with-old-age, refs: ["Ugarit RS 20.0178 o:9-12"], note: "u lišlamūki u lišbûki šībūta ana pāni ilānī bīt abīni adi dārīti"}
+      - {motif: letter-mutual-well-being-formula, refs: ["Ugarit RS 20.0178 o:13-b.e:2", "Ugarit RS 20.0178 r:7'-t.e:2"]}
+      - {motif: double-letter-on-one-tablet, refs: ["Ugarit RS 20.0178 r:1'-t.e:2"]}
+      - {motif: son-falls-at-mothers-feet, refs: ["Ugarit RS 20.0178 r:1'-4'"], note: "ana Bin-šipṭi ummīya ... ana šēpē ummīya amqut"}
+    hints:
+      - "'The gods of our father's house' compare Gen 31:53 ('the God of their father'), Gen 35:2-4 and Josh 24:2, 15 (gods your fathers served)."
+      - "Sated with old age compare Gen 25:8, 35:29, Job 42:17 and Ps 91:16 ('with long life I will satisfy him')."
+
+  - id: ane-ugarit-rs-20-0200b-kadesh-prefect
+    tradition: ane-ugaritic
+    title: "The prefect of Kadesh to ʿUzzenu 'my brother': the gods of Kadesh and the gods of Ugarit guard my brother (RS 20.0200,b)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter fragment (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 20.0200,b"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0200,b o:4-6"], note: "ilānū ša māt Qidši ilānū ša māt Ugarit liṣṣurū aḫīya; reverse mostly lost"}
+
+  - id: ane-ugarit-rs-20-0225-baal-haballa-blessing
+    tradition: ane-akkadian
+    title: "Letter fragment: Baal and the god of Haballa, city of trust, the gods my helpers, guard you and sate you with good old age before the king your lord for ever (RS 20.0225)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, beginning and end broken"
+    read: ["Ugarit RS 20.0225"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0225 o:1'-4'"], note: "dIŠKUR (Baal) u d[...] Haballa āl tukli ilānū rēṣīya liṣṣurūka lišallimūka"}
+      - {motif: letter-blessing-sated-with-old-age, refs: ["Ugarit RS 20.0225 o:5'-7'"], note: "u šībūta damiqta lišbiʿūka ana pāni šarri bēlīka ultu inanna adi dārīti"}
+      - {motif: gods-as-helpers-epithet, refs: ["Ugarit RS 20.0225 o:3'"], note: "ilānū rēṣīya 'the gods my helpers'; āl tukli 'city of trust'"}
+      - {motif: captivity-mentioned-in-letter, refs: ["Ugarit RS 20.0225 o:8'-l.e:2"], note: "šarru šallūtu ultu [...]: 'the king ... captivity from ...'; context lost"}
+    hints:
+      - "God as 'my helper' compare Ps 54:6, Ps 118:7 and the name Eliezer (Exod 18:4)."
+
+  - id: ane-ugarit-rs-20-0239-madae-stolen-oxen
+    tradition: ane-ugaritic
+    title: "Madaʾe to the prefect: my oxen stolen by men of Rakba; finish the case and return my oxen, or let the named elders of Rakba enter the house of the god and be cleared (RS 20.0239)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 20.0239"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0239 o:4-6"]}
+      - {motif: stolen-cattle-claimed-from-town, refs: ["Ugarit RS 20.0239 o:7-r:7"], note: "aššum alpīya ša iltarqū awīlū Rakbaya; dīna šâši gummir alpīya literrūninni"}
+      - {motif: oath-of-clearance-in-house-of-god, refs: ["Ugarit RS 20.0239 r:8-l.e:3"], note: "šībūtu ša Rakba: Babiyanu son of Yadudanu, ʿAbdu with his son, Addunu his in-law and the overseer of a thousand: awīlū annûtu lillikūni ana bīt ili lirrubū u lū zakû"}
+      - {motif: overseer-of-thousand, refs: ["Ugarit RS 20.0239 t.e:2"]}
+    hints:
+      - "Clearing oneself before God in his house compare Exod 22:7-10 (the case comes 'before God'; an oath of YHWH between them) and 1 Kgs 8:31-32 (oath before your altar in this house)."
+      - "Elders of a town answerable for wrongdoing in its territory compare Deut 21:2-6 and Ruth 4:2."
+
+  - id: ane-ugarit-rs-20-0242-fragment
+    tradition: ane-akkadian
+    title: "Letter fragment: greetings; Sik-[...]; my man of Zalhu; as they entrusted (RS 20.0242)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter fragment; most lines broken"
+    read: ["Ugarit RS 20.0242"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0242 o:2'-4'"], note: "Only the greeting survives; o:6'-r:7' fragmentary (šu-gu-ru, Zalhu, kī iptaqdū)"}
+
+  - id: ane-ugarit-rs-20-0255a-stones-and-ships
+    tradition: ane-akkadian
+    title: "Letter to 'my son': send the black ʾalgbṯ stones and the heavy white stones; bring your ships and go up to the Sun your lord, who has spoken before me; a thousand shekels of gold (RS 20.0255,a)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic); beginning lost"
+    read: ["Ugarit RS 20.0255,a"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 20.0255,a o:1'-3'"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 20.0255,a o:4'-b.e:3", "Ugarit RS 20.0255,a l.e:1-5"], note: "abnū ṣalmūtu ʾalgabašu, abnū peṣûtu kabdu: Ugaritic stone names (ʾalgbṯ 'black stone', kbd 'heavy') glossed in an Akkadian letter; 1,000 shekels of gold, pieces (šebiru)"}
+      - {motif: vassal-summoned-to-court-or-send-son, refs: ["Ugarit RS 20.0255,a r:1-7"], note: "eleppātuka u attā elišunu alka ana muḫḫi dŠamši bēlīka: 'your ships, and you on them, go to the Sun your lord'"}
+    hints:
+      - "Black stone and building stones for kings compare 1 Kgs 5:31 and 1 Chr 29:2 (onyx, stones of antimony)."
+
+  - id: ane-ugarit-rs-21-0007c-ewri-huda
+    tradition: ane-akkadian
+    title: "Letter fragment: gods guard you; about the [wood?] Ewri-huda wrote thus (RS 21.0007,c)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter fragment"
+    read: ["Ugarit RS 21.0007,c"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 21.0007,c o:1'-2'"], note: "Remainder (o:3'-7') too broken: aššum giš[...], Ewri-huda kīam išpura"}
+
+  - id: ane-ugarit-rs-21-0183-siyannu-shamhu-rashap
+    tradition: ane-akkadian
+    title: "King of Siyannu to the king of Ugarit, 'my brother': my messenger Šamhu-Rašap; settle the case with the man of Pala on the road; men of Beirut did hostility from Ugarit (RS 21.0183)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, reverse damaged"
+    read: ["Ugarit RS 21.0183"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 21.0183 o:4-5"]}
+      - {motif: envoy-and-case-sent-with-letter, refs: ["Ugarit RS 21.0183 o:6-r:3"], note: "Šamḫu-Rašap (theophoric with Resheph) sent; aḫī īnē elišu šukun adi ūmi namāšišu; the sons of Suratu and Nuʾmu stand before you; dīnīšunu tērruṣ ina ḫarrāni šukuššunu"}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 21.0183 r:4-l.e:3"], note: "Men of Beirut (written KUR TÚL.MEŠ 'wells') ina masikti ... nukurta ēpušū; silver of a man of Hatti"}
+    hints:
+      - "Resheph in a personal name compare Resheph as a plague-figure in Hab 3:5, Deut 32:24 and Ps 78:48; the name Resheph in 1 Chr 7:25."
+      - "The logogram TÚL.MEŠ 'wells' for Beirut reflects Semitic beʾerōt 'wells' compare the place name Beeroth (Josh 9:17)."
+
+  - id: ane-ugarit-rs-22-0393-urhae-horse
+    tradition: ane-akkadian
+    title: "Urhaʾe to Yabninu: whatever wish I ask, give it, and whatever you ask, I will give; a horse sent as greeting-gift (RS 22.0393)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter; middle broken"
+    read: ["Ugarit RS 22.0393"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 22.0393 o:3-5"]}
+      - {motif: letter-reciprocal-wishes-formula, refs: ["Ugarit RS 22.0393 r:1'-6'"]}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 22.0393 r:7'-9'"], note: "1 sisâ ana šulmānika"}
+
+  - id: ane-ugarit-rs-25-0131-arushheba-sash
+    tradition: ane-ugaritic
+    title: "Lady Aruš-Heba to the prefect, 'my son': while my husband lived you were his good friend; whatever you asked he gave; a sash sent; give bronze for the godhead I make (RS 25.0131)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter (Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 25.0131"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 25.0131 o:4"]}
+      - {motif: widow-writes-of-dead-husbands-friendship, refs: ["Ugarit RS 25.0131 o:5-8"], note: "undu mutīya balṭu u attā ṭābšu: 'when my husband was alive you were his friend'; whatever you asked, he gave"}
+      - {motif: bronze-for-making-divine-image, refs: ["Ugarit RS 25.0131 o:11-r:3"], note: "Interpretive: a maššiyannu sash sent; u siparra idin inūma ilūta eppaš: 'give bronze, since I am making a godhead (divine image)'; 'there is no bronze in my hand'"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 25.0131 r:4-7"], note: "attūka mēreštaka mīnummê ... lū taltanappar"}
+    hints:
+      - "A woman providing metal for a divine image compare Judg 17:3-4 (Micah's mother and the silver image) and Exod 32:2-4."
+
+  - id: ane-ugarit-rs-25-0134-rapanu-abimalku-brotherhood
+    tradition: ane-akkadian
+    title: "Deed before the mayor of Ugarit and elders: Rapʾanu takes ʾAbi-malku into brotherhood with 100 shekels; whoever hates the other leaves; the childless one's goods pass to the other; seven witnesses (RS 25.0134)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal deed"
+    read: ["Ugarit RS 25.0134"]
+    tags:
+      - {motif: brotherhood-adoption-contract, refs: ["Ugarit RS 25.0134 o:1-b.e:1"], note: "ana pāni Arzawa ḫazanni Ugarit u ana pāni šībūti Rapʾanu ʾAbi-malku ana aḫḫūtišu īpuššu; 100 shekels brought into Rapʾanu's house"}
+      - {motif: hate-formula-for-dissolution, refs: ["Ugarit RS 25.0134 b.e:2-r:8"], note: "šumma Rapʾanu izêr ʾAbi-malku ... ileqqe u ipaṭṭar; šumma ʾAbi-malku izêr Rapʾana, Rapʾanu to his house and his fields"}
+      - {motif: heirless-estate-to-adopted-brother, refs: ["Ugarit RS 25.0134 r:9-t.e:2"], note: "aya iddin ilānū: 'may the gods not grant it': if Rapʾanu dies and has no son, all his goods go to ʾAbi-malku"}
+      - {motif: deed-witnessed-by-named-witnesses, refs: ["Ugarit RS 25.0134 t.e:3-l.e:5"], note: "IGI Kukulu, ʾIḫiyanu, Irittenu, Yapluṭu, Mutšalimu, Yarimmanu, ʾIli-ṭabu"}
+    hints:
+      - "'Hate' as the term for divorce compare Deut 22:13, 24:3 and Mal 2:16; the Elephantine marriage contracts use the same formula."
+      - "Brotherhood sworn between two men compare 1 Sam 18:3, 20:16-17 (David and Jonathan) and 1 Kgs 20:32-33."
+      - "An heirless man's estate passing to a non-son compare Gen 15:2-3 (Eliezer of Damascus) and Num 27:8-11."
+
+  - id: ane-ugarit-rs-27-0052-amar-baal-abdu-blood
+    tradition: ane-akkadian
+    title: "Verdict of Ini-Tešub: ʾAmar-Baʿlu v. ʿAbdu, who seized his brother as a replacement and the brother died; ʿAbdu offered the oath, Amar-Baal refuses, ʿAbdu is clear of the blood (RS 27.0052)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal verdict of Carchemish"
+    read: ["Ugarit RS 27.0052"]
+    tags:
+      - {motif: man-seized-as-replacement-dies, refs: ["Ugarit RS 27.0052 o:2-11"], note: "ʿAbdu ina danāni aḫīya iṣṣabat-mi; šumma rību īrib u apṭaṭar-mi aḫīya mīt-mi; ʿAbdu: ina danāni lā aṣṣabatšu-mi ittīya ašib-mi"}
+      - {motif: party-refuses-oath-forfeits-claim, refs: ["Ugarit RS 27.0052 o:11-r:1"], note: "The king ana māmīti ittadin; ʾAmar-Baʿlu ana tummîšu lā imagur; u ʿAbdu ištu dāmī aḫi ša ʾAmar-Baʿlu zaku"}
+      - {motif: no-claim-tomorrow-or-later, refs: ["Ugarit RS 27.0052 r:2-4"], note: "urram šēram ʾAmar-Baʿlu ana muḫḫi ʿAbdu lā iraggum"}
+    hints:
+      - "Being 'clear of blood' (zakû ištu dāmī) compare 2 Sam 3:28 ('I and my kingdom are innocent before the LORD of the blood of Abner') and Deut 19:10, 21:8-9."
+
+  - id: ane-ugarit-rs-86-2212-beirut-wish
+    tradition: ane-akkadian
+    title: "King of Beirut to the king of Ugarit, 'my brother': my man sent to seek my wish; let no one bar his way (RS 86.2212+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Beirut to Ugarit"
+    read: ["Ugarit RS 86.2212 + RS 86.2214,a"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 86.2212 + RS 86.2214,a o:4-6"], note: "Beirut written KUR TÚL.MEŠ 'land of wells'"}
+      - {motif: safe-conduct-letters, refs: ["Ugarit RS 86.2212 + RS 86.2214,a o:7-r:3"], note: "awīlu mimma ana pānišu lū lā iparruk"}
+
+  - id: ane-ugarit-rs-86-2216-aleppo-lives
+    tradition: ane-akkadian
+    title: "'The king' (of Carchemish) to the king of Ugarit: the persons of Aleppo, servants of the man; you besought the king that he was given to the oath and would not swear; give them to your man; I will settle his case on the road (RS 86.2216)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, reverse largely broken"
+    read: ["Ugarit RS 86.2216"]
+    tags:
+      - {motif: party-refuses-oath-forfeits-claim, refs: ["Ugarit RS 86.2216 o:5-13"], note: "napšāti ša mārī māt Ḫalba ... ana māmīti nādin u ana tamê lā imagur; inanna napšāti šâšu ana awīlika idnamma lilqāšunūti"}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 86.2216 o:14-r:11"], note: "anāku dīnašu lušʾalma ina ḫarrāni luškun; silver, orchard, bēl dīnišu 'his adversary' (r:1-4 broken)"}
+
+  - id: ane-ugarit-rs-86-2230-beya-amun-re-seth
+    tradition: ane-akkadian
+    title: "Beya (Bay), chief of the troops of the Great King of Egypt, to ʿAmmurapi of Ugarit: I speak to Amun, Re and Seth, gods of Egypt, that they guard you (RS 86.2230)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter from an Egyptian official, end broken"
+    read: ["Ugarit RS 86.2230"]
+    tags:
+      - {motif: egyptian-official-invokes-egyptian-gods-for-ugarit, refs: ["Ugarit RS 86.2230 o:1-9"], note: "umma Beya rab ṣābē ḫurādi ša šarri rabî šar māt Miṣri ... anāku aqabbi ana dAmāni ana dUTU dIŠKUR ilānī ša māt Miṣri mā liṣṣurū[ka]: Re written as Šamaš, Seth as the storm god"}
+      - {motif: petition-to-egyptian-official-invokes-amun, refs: ["Ugarit RS 86.2230 o:7-9"]}
+    hints:
+      - "Egyptian gods equated with Semitic sun and storm gods compare Exod 12:12 ('against all the gods of Egypt') and Jer 46:25 (Amon of No)."
+
+  - id: ane-ugarit-rs-86-2232-urtenu-smiths
+    tradition: ane-akkadian
+    title: "Letter to Urtenu, 'my brother': when the king of the smiths took from me the table ... (RS 86.2232)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter fragment"
+    read: ["Ugarit RS 86.2232"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 86.2232 o:4-6"]}
+      - {motif: chief-of-metalworkers, refs: ["Ugarit RS 86.2232 o:7-10"], note: "šar qurqurrī 'king (chief) of the metalworkers' took a paššuru libbi (table, meaning uncertain); rest broken"}
+    hints:
+      - "A guild chief of smiths compare 1 Sam 13:19-20 and Gen 4:22 (Tubal-cain, forger of bronze and iron)."
+
+  - id: ane-ugarit-rs-86-2236-shipit-baal-wool-fish
+    tradition: ane-akkadian
+    title: "A 'brother' to Šipiṭ-Baʿlu: the man who fell before you and stayed a month with Ari; speak rightly before the king about Beltaya's words; a talent of wool, silver, fish and turmeric (RS 86.2236)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, reverse r:1'-4' broken"
+    read: ["Ugarit RS 86.2236"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 86.2236 o:4-5"]}
+      - {motif: petition-to-speak-for-writer-before-king, refs: ["Ugarit RS 86.2236 r:7-10"], note: "ana pāni šarri bēlīka tarriṣ-ma aššum awâtē Beltaya u liddin mēreštīya: 'set it right before the king your lord concerning Beltaya's words, that he grant my wish'"}
+      - {motif: gift-request-luxury-goods-between-officials, refs: ["Ugarit RS 86.2236 o:6-r:6", "Ugarit RS 86.2236 l.e:1-2"], note: "1 talent of wool, 100 (shekels) silver, 1 talent of fish, 3 kor of turmeric (kurkamû)"}
+    hints:
+      - "An intermediary asked to speak for one before the king compare Gen 40:14 and 2 Kgs 4:13."
+
+  - id: ane-ugarit-rs-88-2009-urhi-teshub-hold-city
+    tradition: ane-akkadian
+    title: "Urhi-Tešub to Urtenu, Yabninu, Baʿlu-danu, Dananu and the great men and elders of the city: the king of Carchemish has returned from Hatti; troops of help come quickly; guard the city until we arrive (RS 88.2009)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter from the last years of Ugarit"
+    read: ["Ugarit RS 88.2009"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 88.2009 o:8-10"], note: "ilānū ana šulmāni liṣṣurūkunu"}
+      - {motif: city-told-to-hold-out-until-relief-army, refs: ["Ugarit RS 88.2009 b.e:1-r:7"], note: "šar Karkemiš ištu māt Ḫatti ittarra ... kī ṣābū ḫamâtu arḫiš illakakunu u attunu āla uṣrā adi nakaššad"}
+      - {motif: letter-addressed-to-elders-of-city, refs: ["Ugarit RS 88.2009 o:5-6"], note: "ana rabûti u šībūti ša āli"}
+    hints:
+      - "Holding a city until relief comes compare 1 Sam 11:3, 9 ('tomorrow, by the time the sun is hot, you shall have deliverance') and 2 Kgs 19:9 (Tirhakah's relief army)."
+      - "Letters to 'the elders of the city' compare 1 Kgs 21:8-11 and 2 Kgs 10:1-6."
+
+  - id: ane-ugarit-rs-92-2006-dagan-belu-oil-cedar
+    tradition: ane-akkadian
+    title: "Dagan-bēlu to Urtenu, 'my good brother, whom I love like good oil and the scent of cedar': the gods of Ugarit, Ea lord of the wide sea and the gods of Aštata guard your life; guard your mouth before the king (RS 92.2006)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter from Emar (Aštata); r:1-2 broken"
+    read: ["Ugarit RS 92.2006"]
+    tags:
+      - {motif: loved-like-good-oil-and-cedar-scent, refs: ["Ugarit RS 92.2006 o:2-4"], note: "aḫī ṭābi ša kī šamni ṭābi u nipši erēni arâmu"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 92.2006 o:5-8"], note: "ilānū ša māt Ugarit ilānū ša šarri bēlīka dEa bēlu kabtu ayyabba tâmtu rapaštu u ilānū māt Aštata napištaka liṣṣurū"}
+      - {motif: guard-your-mouth-before-king, refs: ["Ugarit RS 92.2006 o:8-10"], note: "u ana awâtīka pīka naṣri ana pāni šarri bēlīka likabbitka"}
+      - {motif: divine-epithet-lord-of-the-sea, refs: ["Ugarit RS 92.2006 o:6-7"], note: "Ea 'heavy (honoured) lord' of ayyabba 'the sea' (a West Semitic word) and the wide tiāmtu"}
+    hints:
+      - "Love compared to good oil and fragrance compare Song 1:3 ('your name is oil poured out'), Ps 133:2 and Eccl 7:1; the scent of Lebanon Song 4:11, Hos 14:7."
+      - "Guarding one's mouth before the king compare Prov 13:3, 21:23, Eccl 8:2-4 and Ps 141:3."
+
+  - id: ane-ugarit-rs-92-2017-issur-rashap-urtenu
+    tradition: ane-akkadian
+    title: "Iṣṣur-Rašap to Urtenu his lord: from afar I fall at my lord's feet; my heart laughs to see my lord; with letters to Adad-dayyan and Tamar-Hebat (twice three times I fall) and to Ziminu (RS 92.2017)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Triple letter on one tablet"
+    read: ["Ugarit RS 92.2017"]
+    tags:
+      - {motif: letter-servant-falls-at-lords-feet, refs: ["Ugarit RS 92.2017 o:3-4"], note: "ana šēpē bēlīya ištu rūqiš amqut"}
+      - {motif: sevenfold-prostration, refs: ["Ugarit RS 92.2017 r:1-2"], note: "Here only 2-šu 3-šu amqut 'twice, three times I fall' at the feet of my lord and my lady"}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 92.2017 o:5-7", "Ugarit RS 92.2017 r:3-5", "Ugarit RS 92.2017 r:13-t.e:1"], note: "ilānū rabûtu ša Ugarit napšat bēlīya liṣṣurū u lišallimū"}
+      - {motif: heart-laughs-to-see-lord, refs: ["Ugarit RS 92.2017 o:8-13", "Ugarit RS 92.2017 l.e:1-2"], note: "ana amāri bēlīya libbī-iṣiḫanni ... mannu pānī banûti ša bēlīya līmur u dabābka ṭāba lištemi"}
+      - {motif: heart-pounds-for-lack-of-news, refs: ["Ugarit RS 92.2017 r:5-9"], note: "ammatīma ana šâl šulmi ša wardišunu ul išpurū u libbī-nakud danniš"}
+      - {motif: double-letter-on-one-tablet, refs: ["Ugarit RS 92.2017 b.e:1-r:12"]}
+      - {motif: messenger-sent-to-ask-kings-well-being, refs: ["Ugarit RS 92.2017 t.e:2-3"]}
+    hints:
+      - "Seeing the lord's face as joy compare Gen 33:10 ('to see your face is like seeing the face of God'), Gen 46:30 and Ps 17:15."
+      - "Bowing from afar compare Gen 33:3 and Exod 24:1 ('worship from afar')."
+
+  - id: ane-ugarit-rs-94-2091-amurru-storm-god
+    tradition: ane-akkadian
+    title: "King of Amurru to the king of Ugarit, 'my son': the storm god killed some of my troops and great men; search the sea for seven days; release the goods of the troops; if a man loves his wife let him take her by ransom (RS 94.2091)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Amurru to Ugarit; o:12 broken"
+    read: ["Ugarit RS 94.2091"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2091 o:4-5"]}
+      - {motif: storm-god-killed-troops, refs: ["Ugarit RS 94.2091 o:6-9"], note: "amur awâta annīta ša epšatūni kī dIŠKUR ultu ṣābīya u rabûtīya iddukūni: 'see this thing that has been done: the Storm-god killed some of my troops and my great men'"}
+      - {motif: search-for-seven-days, refs: ["Ugarit RS 94.2091 o:10-r:1"], note: "inanna adi 7 ūmī māšarta ašar [...] tiāmti amur: inspect (the place at) the sea for seven days and send word if there is (anything)"}
+      - {motif: treaty-shipwreck-salvage-rule, refs: ["Ugarit RS 94.2091 r:2-7"], note: "Interpretive: unūta ša ṣābī ... uššira lā takalla: release the equipment of the troops, the slave-girl, shields, lumberi-garments; do not hold them"}
+      - {motif: captive-wife-ransomed-if-loved, refs: ["Ugarit RS 94.2091 r:7-10"], note: "šumma awīlu aššassu irâm u ina ipṭiri lilqi"}
+    hints:
+      - "A storm at sea sent by the god compare Jonah 1:4 and Ps 107:23-29; the storm god as killer compare Job 1:16, 19."
+      - "Seven days of searching compare 2 Kgs 2:16-17 (three days' search for Elijah) and Gen 8:10-12."
+
+  - id: ane-ugarit-rs-94-2174-tyre-baal-dani
+    tradition: ane-akkadian
+    title: "Baʿla-dani king of Tyre to the king of Ugarit, 'my brother': my man has come to me: a man of Ugarit took silver from him (RS 94.2174)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Tyre to Ugarit; reverse broken"
+    read: ["Ugarit RS 94.2174"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2174 o:5-6"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 94.2174 o:7-r:2'"], note: "awīlī annû ibtaḫranni 1-en awīl Ugarit ilqâ ... kaspa; r:2' šukunšu"}
+    hints:
+      - "A king of Tyre in correspondence with a neighbouring king compare 1 Kgs 5:15-26 (Hiram and Solomon, 'my brother' 1 Kgs 9:13)."
+
+  - id: ane-ugarit-rs-94-2182-byblos-prison
+    tradition: ane-akkadian
+    title: "King of Byblos to the king of Ugarit, 'my brother': the gods of Byblos and of Ugarit guard you; the men of the prison house in your land, the man of Baṭruna; 150 shekels in the house of Šamu-Addu at Raʾšu (RS 94.2182)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Byblos to Ugarit; o:11-b.e broken"
+    read: ["Ugarit RS 94.2182"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2182 o:4-7"], note: "ilānū ša māt Gubli u ilānū ša māt Ugarit"}
+      - {motif: men-held-in-prison-house-abroad, refs: ["Ugarit RS 94.2182 o:8-12"], note: "banītu awātu annītu ša ētepšū awīlū bīt kīli ina libbi mātika"}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 94.2182 r:1-t.e:1"], note: "150 shekels in the house of Šamu-Addu in Raʾšu; my man sent to take it"}
+
+  - id: ane-ugarit-rs-94-2187-beirut-cases
+    tradition: ane-akkadian
+    title: "King of Beirut to the king of Ugarit, 'my brother': the thousand gods guard you; this man's case with the sons of Anatu, Lubišu and Atbil-Addu over 20 and 10 shekels; decide it on the road (RS 94.2187)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Beirut to Ugarit"
+    read: ["Ugarit RS 94.2187"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2187 o:4-5"], note: "līm ilānī liṣṣurūka"}
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 94.2187 o:5"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 94.2187 o:6-r:4"], note: "dīnšu itti mār Anati, mār Lubiši, aḫ Šiʾemi ... dīnī annûti liprus-mi ina ḫarrāni šukunšu"}
+
+  - id: ane-ugarit-rs-94-2190-yashuta-fragment
+    tradition: ane-akkadian
+    title: "Letter fragment: Yašuta with two men in the land; taking from Ugarit; may the gods give (RS 94.2190)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter fragment; right half lost"
+    read: ["Ugarit RS 94.2190"]
+    tags:
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 94.2190 o:2'-r:6"], note: "Fragmentary: Yašuta-[...] qadu 2 men ... ištu māt Ugarit lā leqê"}
+      - {motif: gods-give-wish-in-letter, refs: ["Ugarit RS 94.2190 l.e:3-4"], note: "ilānū lū [...] inandinna: 'may the gods give ...' (broken)"}
+
+  - id: ane-ugarit-rs-94-2277-hili-sharruma-kings-illness
+    tradition: ane-akkadian
+    title: "Hili-Šarruma to the queen his lady: my heart pounds because of the king's illness; send me news about it (RS 94.2277)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter to the queen"
+    read: ["Ugarit RS 94.2277"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2277 o:4-5"]}
+      - {motif: queen-asked-for-news-of-kings-illness, refs: ["Ugarit RS 94.2277 o:6-10"], note: "aššum murṣi ša šarri libbī inakkid ... ṭēma šupri"}
+      - {motif: heart-pounds-for-lack-of-news, refs: ["Ugarit RS 94.2277 o:6-7"]}
+    hints:
+      - "Anxious inquiry about a sick king compare 2 Kgs 8:7-9 (Ben-hadad's sickness) and 2 Kgs 20:12 (envoys on hearing Hezekiah had been sick)."
+
+  - id: ane-ugarit-rs-94-2285-ehli-teshub-oil
+    tradition: ane-akkadian
+    title: "Ehli-Tešub to Uri-Tešub, 'my brother': 30 jars of oil for the palace owed by the men of Gibaʿla; collect it with an elder and store it; silver of ʾAppu and Pedu; 111 jars on Maʿraba (RS 94.2285+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter; reverse partly broken"
+    read: ["Ugarit RS 94.2285 + RS 94.2286"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2285 + RS 94.2286 o:4-5"]}
+      - {motif: oil-jars-levied-on-villages, refs: ["Ugarit RS 94.2285 + RS 94.2286 o:6-r:13"], note: "30 karpat šamni ana ēkalli eli mārī Gibaʿla ... 111 karpat šamni eli mārī Maʿraba u 81 ... karpātūšunu lū lā libbatiqū 'let their jars not be cut off (short)'"}
+    hints:
+      - "Oil owed to the palace by villages compare the Samaria ostraca and 1 Kgs 5:25 (oil to Hiram), 1 Chr 27:28."
+
+  - id: ane-ugarit-rs-94-2287-kadesh-barley
+    tradition: ane-akkadian
+    title: "King of Kadesh to the king of Ugarit, 'my brother': there is no barley in my land; give barley, and I will send sheep for offerings (RS 94.2287)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Kadesh to Ugarit"
+    read: ["Ugarit RS 94.2287"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 94.2287 o:4-6"]}
+      - {motif: letter-mutual-well-being-formula, refs: ["Ugarit RS 94.2287 o:7-10"]}
+      - {motif: famine-king-asks-ally-for-barley, refs: ["Ugarit RS 94.2287 o:11-r:2"], note: "šeʾu ina libbi mātīya yānu ... šeʾa liddina u anāku immerī ana niqê ... lišēbil"}
+    hints:
+      - "Famine in the land and grain sought from a neighbour compare Gen 42:1-5, 43:1-2 and 1 Kgs 5:25 (wheat for Hiram's household)."
