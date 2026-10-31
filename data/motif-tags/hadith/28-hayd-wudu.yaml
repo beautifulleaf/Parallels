@@ -41,9 +41,6 @@ new_motifs:
   drinks-and-bites-where-menstruant-put-her-mouth:
     label: He puts his mouth where his menstruating wife drank and bites the bone where she bit
     cluster: ritual
-  eat-with-the-menstruant:
-    label: 'Asked about eating with a menstruating woman: ''eat with her'''
-    cluster: law
   slips-away-at-menses-and-is-called-back-under-the-cover:
     label: Lying with him under a cloak she gets her period, slips away for her menstrual clothes; 'have you been bled (nufisti)?'
       and he calls her back under the coverlet
@@ -236,10 +233,6 @@ new_motifs:
   lengthen-the-blaze:
     label: '''Whoever can lengthen his blaze (ghurra), let him do it''; Abu Hurayra washes to the shoulders and shins'
     cluster: ritual
-  ornament-reaches-where-ablution-reaches:
-    label: 'Abu Hurayra stretches his washing to the armpit: ''the ornament (ḥilya) of the believer reaches where the ablution
-      reaches'''
-    cluster: eschatology
   greeting-the-abode-of-believing-dead:
     label: 'At the cemetery: ''Peace on you, abode of a believing people; we shall join you, God willing'''
     cluster: ritual
@@ -320,7 +313,7 @@ new_motifs:
     label: 'Ali wipes face, forearms, head and feet with one palmful and drinks the rest standing: ''this is the ablution
       of one who has not broken purity'''
     cluster: ritual
-  drinks-ablution-leftover-standing:
+  drinks-leftover-ablution-water-standing:
     label: 'After ablution he drinks the leftover water standing: ''people dislike this, but I saw the Prophet do it'''
     cluster: ritual
   fingers-run-through-beard:
@@ -406,10 +399,6 @@ new_motifs:
   last-of-two-commands-no-ablution-from-fire:
     label: The last of the two commands from the Prophet was leaving ablution from what fire altered
     cluster: law
-  moustache-trimmed-over-a-toothstick:
-    label: 'Bilal calls him from carving the roast: ''what is wrong with him, may his hands be dusty''; and my long moustache
-      he trimmed for me over a toothstick'
-    cluster: sira
   milk-has-grease-rinse:
     label: 'He drank milk, called for water and rinsed: ''it has grease (dasam)'''
     cluster: ritual
@@ -482,9 +471,6 @@ new_motifs:
   palmful-sprinkled-on-garment-for-madhy:
     label: For madhy on the garment it suffices to take a palmful of water and sprinkle where he sees it struck
     cluster: ritual
-  every-stallion-emits-madhy:
-    label: '''That is madhy, and every stallion emits madhy'''
-    cluster: law
   arm-thrust-between-skin-and-flesh:
     label: 'Passing a boy skinning a sheep: ''stand aside, I will show you''; he thrusts his hand between skin and flesh to
       the armpit, then prays without ablution'
@@ -502,9 +488,6 @@ new_motifs:
     label: 'Jarir wipes his socks: ''I saw the Prophet do it''; they liked it because Jarir became Muslim after al-Māʾida
       was revealed'
     cluster: revelation
-  wipes-over-leather-socks:
-    label: He wiped over the leather socks (khuffs)
-    cluster: law
   ask-no-one-after-sad:
     label: 'Umar: when Saʿd tells you something from the Prophet ask no one else about it'
     cluster: transmission
@@ -1298,7 +1281,7 @@ units:
   read:
   - Jāmiʿ 7:1027.3
   tags:
-  - motif: head-wiped-front-to-nape-and-back
+  - motif: ablution-face-thrice-arms-twice-head-forward-and-back
     refs:
     - Jāmiʿ 7:1027.3
     note: فغسل يديه مرتين مرتين، ثم تمضمض واستنثر ثلاثًا ... بدأ بمُقدَّم رأسه ثم ذهب بهما إلى قفاه ثم ردّهما حتَّى رجع إلى
@@ -1494,7 +1477,7 @@ units:
     refs:
     - Jāmiʿ 7:1043.1
     note: فأخذ منه كفًا فمسح به وجهه وذراعيه، ورأسه ورجليه ... وهذا وضوء من لم يُحدث
-  - motif: drinks-ablution-leftover-standing
+  - motif: drinks-leftover-ablution-water-standing
     refs:
     - Jāmiʿ 7:1043.1
     note: 'ثم أخذ فضله فشرب قائمًا، وقال: إن الناس يكرهون هذا'
@@ -1546,6 +1529,11 @@ units:
     refs:
     - Jāmiʿ 7:1049.1
     note: إذا استيقظ أحدكم من منامه فتوضأ فلينتثر ثلاثًا، فإنَّ الشيطان يبيت على خيشومه
+  - motif: water-into-nose-and-blown-out
+    refs:
+    - Jāmiʿ 7:1049.1
+    - Jāmiʿ 7:1049.2
+    note: فلينتثر ثلاثًا ... استنثِروا
   - motif: snuff-twice-thoroughly-or-thrice
     refs:
     - Jāmiʿ 7:1049.2
@@ -2052,10 +2040,14 @@ units:
   read:
   - Jāmiʿ 7:1085.2
   tags:
+  - motif: greeting-not-returned-while-urinating
+    refs:
+    - Jāmiʿ 7:1085.2
+    note: أنه أتى النبي ﷺ وهو يبول، فسلم عليه، فلم يرد
   - motif: returns-greeting-only-after-ablution
     refs:
     - Jāmiʿ 7:1085.2
-    note: وهو يبول، فسلم عليه، فلم يرد ﵇ حتَّى توضأ ... إنِّي كرهت أن أذكر الله ﷿ إلا على طُهر
+    note: 'فلم يرد ﵇ حتَّى توضأ، ثم اعتذر إليه فقال: إنِّي كرهت أن أذكر الله ﷿ إلا على طُهر'
   hints:
   - Not returning 'peace' while unclean because God is named, against b. Shabbat 10a, where one may not greet 'shalom' in
     the bathhouse because Shalom is a name of God (Judg 6:24)

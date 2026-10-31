@@ -1,0 +1,1129 @@
+# Observation records, hadith chunk 28 (al-Jāmiʿ al-Kāmil book 6, kitāb al-ḥayḍ, and book 7, kitāb al-wuḍūʾ; pp. 985-1102).
+records:
+- id: h-985.1-makeup
+  ref: Jāmiʿ 6:985.1
+  unit: hadith-6-make-up-fast-not-prayer
+  agent: menstruating women
+  action: make up the fast but not the prayer
+  recipient: Muʿadha (asker)
+  name: Ḥarūriyya
+  quoted: fa-nuʾmaru bi-qaḍāʾ al-ṣawm wa-lā nuʾmaru bi-qaḍāʾ al-ṣalāh; a-ḥarūriyyatun anti
+- id: h-985.2-forty
+  ref: Jāmiʿ 6:985.2
+  unit: hadith-6-postpartum-forty-days
+  agent: women after childbirth
+  action: sit (abstain from prayer)
+  time: forty days
+  number: 40
+  instrument: wars (yellow dye) on the face
+  quoted: kānat al-nufasāʾ tajlisu ... arbaʿīna yawman; naṭlī wujūhanā bi-l-wars min al-kalaf
+- id: h-986.1-pinch
+  ref: Jāmiʿ 6:986.1
+  unit: hadith-6-menstrual-blood-on-garment
+  agent: woman
+  action: pinches off menstrual blood, sprinkles with water, prays in the garment
+  object: garment with menstrual blood
+  instrument: water
+  quoted: li-taqruṣhu thumma li-tanḍaḥhu bi-māʾ thumma li-tuṣallī fīhi
+- id: h-987.1-saliva
+  ref: Jāmiʿ 6:987.1
+  unit: hadith-6-menstrual-blood-on-garment
+  agent: Aisha and the wives
+  action: moisten a bloodstain with saliva and scrape it with a fingernail
+  object: the single garment worn in menstruation
+  number: 1
+  instrument:
+  - saliva
+  - fingernail
+  quoted: mā kāna li-iḥdānā illā thawbun wāḥid ... qālat bi-rīqihā fa-qaṣaʿathu bi-ẓufrihā
+- id: h-987.2-rib
+  ref: Jāmiʿ 6:987.2
+  unit: hadith-6-menstrual-blood-on-garment
+  agent: woman
+  action: scrapes menstrual blood and washes it
+  object: garment
+  instrument:
+  - rib-bone (ḍilaʿ)
+  - water and lote (sidr)
+  quoted: ḥukkīhi bi-ḍilaʿ wa-ghsilīhi bi-māʾ wa-sidr
+- id: h-988.1-prostration
+  ref: Jāmiʿ 6:988.1
+  unit: hadith-6-prayer-beside-the-menstruant
+  agent: the Prophet
+  action: prays on his mat; his garment touches his menstruating wife when he prostrates
+  recipient: Maymuna
+  place: beside his prayer place
+  quoted: idhā sajada aṣābanī baʿḍu thawbihi
+- id: h-988.2-wrap
+  ref: Jāmiʿ 6:988.2
+  unit: hadith-6-prayer-beside-the-menstruant
+  agent: the Prophet
+  action: prays at night beside his menstruating wife under one wrap
+  object: mirṭ (wrap)
+  recipient: Aisha
+  time: night
+  quoted: wa-ʿalayya mirṭun wa-ʿalayhi baʿḍuhu
+- id: h-988.3-garment
+  ref: Jāmiʿ 6:988.3
+  unit: hadith-6-garment-of-intercourse-and-coverlets
+  agent: the Prophet
+  action: prays in the garment he lay with his wife in
+  object: garment of intercourse
+  outcome: allowed unless he sees a stain
+  quoted: naʿam idhā lam yara fīhi adhan
+- id: h-989.1-coverlets
+  ref: Jāmiʿ 6:989.1
+  unit: hadith-6-garment-of-intercourse-and-coverlets
+  agent: the Prophet
+  action: does not pray in the wives' undergarments or coverlets
+  object:
+  - shuʿur
+  - luḥuf
+  quoted: lā yuṣallī fī shuʿurinā aw fī luḥufinā
+- id: h-989.2-mouth
+  ref: Jāmiʿ 6:989.2
+  unit: hadith-6-drinking-and-eating-with-the-menstruant
+  agent: the Prophet
+  action: drinks and bites where his menstruating wife put her mouth
+  object:
+  - drinking vessel
+  - meat bone
+  recipient: Aisha
+  quoted: fa-yaḍaʿu fāhu ʿalā mawḍiʿi fiyya
+- id: h-990.1-eat
+  ref: Jāmiʿ 6:990.1
+  unit: hadith-6-drinking-and-eating-with-the-menstruant
+  agent: the Prophet
+  action: permits eating with the menstruant
+  recipient: Abdallah b. Saʿd
+  quoted: wākilhā
+- id: h-990.2-cover
+  ref: Jāmiʿ 6:990.2
+  unit: hadith-6-lying-with-the-menstruant
+  agent: Umm Salama
+  action: gets her period under the cloak, slips away, is called back under the coverlet
+  object:
+  - khamīṣa (black cloak)
+  - khamīla (fringed coverlet)
+  quoted: a-nufisti? ... fa-daʿānī fa-ḍṭajaʿtu maʿahu fī l-khamīla
+- id: h-990.3-cloth
+  ref: Jāmiʿ 6:990.3
+  unit: hadith-6-lying-with-the-menstruant
+  agent: the Prophet
+  action: lies with his menstruating wife
+  instrument: a garment between them
+  recipient: Maymuna
+  quoted: wa-baynī wa-baynahu thawb
+- id: h-991.1-spot
+  ref: Jāmiʿ 6:991.1
+  unit: hadith-6-lying-with-the-menstruant
+  agent: the Prophet
+  action: sleeps in one cloth with menstruating wife; washes only the place her blood touched and prays in it
+  object: shiʿār (undergarment)
+  quoted: ghasala makānahu wa-lam yaʿduhu thumma ṣallā fīhi
+- id: h-991.3-wrap
+  ref: Jāmiʿ 6:991.3
+  unit: hadith-6-fondling-above-the-wrap
+  agent: the Prophet
+  action: has the menstruating wife put on a waist-wrap, then touches her
+  time: at the height of her flow
+  object: izār
+  quoted: an tattazira fī fawri ḥayḍatihā thumma yubāshiruhā; wa-ayyukum yamliku irbahu
+- id: h-992.1-jews
+  ref: Jāmiʿ 6:992.1
+  unit: hadith-6-fondling-above-the-wrap
+  agent: the Jews of Medina
+  action: do not eat with or share the house with menstruating women
+  recipient: menstruating women
+  outcome: 'Prophet: ''do everything except intercourse''; Jews protest; two Companions offer intercourse, his face changes,
+    he sends them milk'
+  name:
+  - Usayd b. Ḥuḍayr
+  - ʿAbbād b. Bishr
+  quoted: iṣnaʿū kulla shayʾin illā l-nikāḥ; mā yurīdu hādhā l-rajulu an yadaʿa min amrinā shayʾan illā khālafanā fīhi
+- id: h-992.2-cloth
+  ref: Jāmiʿ 6:992.2
+  unit: hadith-6-fondling-above-the-wrap
+  agent: the Prophet
+  action: lays a cloth over the menstruant's private part
+  object: cloth
+  quoted: alqā ʿalā farjihā thawban
+- id: h-993.1-combing
+  ref: Jāmiʿ 6:993.1
+  unit: hadith-6-combing-in-retreat
+  agent: Aisha (menstruating)
+  action: combs the Prophet's hair
+  recipient: the Prophet in retreat in the mosque
+  place:
+  - her room
+  - the mosque
+  quoted: yudnī lahā raʾsahu wa-hiya fī ḥujratihā fa-turajjiluhu wa-hiya ḥāʾiḍ
+- id: h-993.2-hand
+  ref: Jāmiʿ 6:993.2
+  unit: hadith-6-menstruation-not-in-the-hand
+  agent: the Prophet
+  action: asks the menstruant to hand him the mat from the mosque
+  object: khumra (prayer mat)
+  recipient: Aisha
+  quoted: inna ḥayḍataki laysat fī yadiki
+- id: h-995.1-disbelief
+  ref: Jāmiʿ 6:995.1
+  unit: hadith-6-menstruant-anus-soothsayer
+  agent: whoever goes to
+  object:
+  - a menstruating woman
+  - a woman in her anus
+  - a soothsayer (kāhin)
+  outcome: has disbelieved in what was revealed to Muhammad
+  number: 3
+  quoted: fa-qad kafara bi-mā unzila ʿalā Muḥammad
+- id: h-996.1-yellow
+  ref: Jāmiʿ 6:996.1
+  unit: hadith-6-yellow-and-turbid
+  agent: women (Umm ʿAṭiyya)
+  action: do not count turbid and yellowish discharge
+  object:
+  - kudra
+  - ṣufra
+  quoted: kunnā lā naʿuddu l-kudrata wa-l-ṣufrata shayʾan
+- id: h-997.1-vein
+  ref: Jāmiʿ 6:997.1
+  unit: hadith-6-prolonged-bleeding-a-vein
+  agent: the Prophet
+  action: rules prolonged bleeding a vein, not menstruation
+  recipient: Fāṭima bt. Abī Ḥubaysh
+  outcome: leave prayer in the period, wash the blood and pray after
+  quoted: innamā dhālika ʿirqun wa-laysat bi-l-ḥayḍa
+- id: h-997.2-count
+  ref: Jāmiʿ 6:997.2
+  unit: hadith-6-prolonged-bleeding-a-vein
+  agent: the Prophet
+  action: has the bleeding woman count her former days and leave prayer that long
+  recipient: a woman pouring blood (via Umm Salama)
+  instrument: a cloth bound on (istithfār)
+  quoted: li-tanẓur ilā ʿadadi l-layālī wa-l-ayyām ... thumma li-tastathfir bi-thawb
+- id: h-998.1-tub
+  ref: Jāmiʿ 6:998.1
+  unit: hadith-6-prolonged-bleeding-a-vein
+  agent: Umm Ḥabība bt. Jaḥsh
+  action: bathes for every prayer in a tub
+  place: room of her sister Zaynab bt. Jaḥsh
+  time: seven years of bleeding
+  number: 7
+  instrument: mirkan (tub)
+  outcome: the red of the blood rises over the water
+  name: Hind
+  quoted: ḥattā taʿlū ḥumratu l-dami l-māʾa; la-tabkī li-annahā kānat lā tuṣallī
+- id: h-999.1-days
+  ref: Jāmiʿ 6:999.1
+  unit: hadith-6-prolonged-bleeding-a-vein
+  agent: the Prophet
+  action: orders the bleeding woman to sit the days she used to sit, then bathe
+  recipient: Fāṭima bt. Abī Ḥubaysh via Asmāʾ
+  quoted: an taqʿuda l-ayyāma llatī kānat taqʿudu thumma taghtasil
+- id: h-1000.1-bathe
+  ref: Jāmiʿ 6:1000.1
+  unit: hadith-6-bleeding-woman-bathing
+  agent: the Prophet
+  action: orders the bleeding woman to bathe at every prayer
+  recipient: wife of Abd al-Rahman b. Awf
+  quoted: an taghtasila ʿinda kulli ṣalāh
+- id: h-1001.1-satan
+  ref: Jāmiʿ 6:1001.1
+  unit: hadith-6-bleeding-woman-bathing
+  agent: the Prophet
+  action: calls the bleeding from Satan and prescribes three baths a day
+  instrument: mirkan (tub)
+  number: 3
+  outcome: bathe when yellow appears over the water; ablution in between
+  name: Fāṭima bt. Abī Ḥubaysh
+  quoted: subḥāna llāh inna hādhā mina l-shayṭān
+- id: h-1001.2-kick
+  ref: Jāmiʿ 6:1001.2
+  unit: hadith-6-bleeding-woman-bathing
+  agent: the Prophet
+  action: calls the bleeding a kick of Satan; fixes six or seven days of menstruation
+  recipient: Ḥamna bt. Jaḥsh
+  number:
+  - 6
+  - 7
+  - 23
+  - 24
+  instrument:
+  - cotton (kursuf)
+  - cloth
+  place: house of Zaynab bt. Jaḥsh
+  quoted: innamā hādhihi rakḍatun min rakaḍāt al-shayṭān; fa-taḥayyaḍī sittata ayyāmin aw sabʿatan fī ʿilmi llāh; innamā athujju
+    thajjan
+- id: h-1003.1-ablution
+  ref: Jāmiʿ 6:1003.1
+  unit: hadith-6-black-blood-and-ablution
+  agent: the Prophet
+  action: orders ablution for every prayer to the bleeding woman
+  recipient: Fāṭima bt. Abī Ḥubaysh
+  quoted: thumma tawaḍḍaʾī li-kulli ṣalāh
+- id: h-1004.1-black
+  ref: Jāmiʿ 6:1004.1
+  unit: hadith-6-black-blood-and-ablution
+  agent: the Prophet
+  action: distinguishes menstrual blood by colour
+  object: black blood
+  recipient: Fāṭima bt. Abī Ḥubaysh
+  quoted: fa-innahu damun aswadu yuʿraf
+- id: h-1006.1-intention
+  ref: Jāmiʿ 7:1006.1
+  unit: hadith-7-deeds-by-intentions
+  agent: the Prophet
+  action: declares deeds by intentions
+  object: emigration for God, the world or a woman
+  quoted: innamā l-aʿmālu bi-l-niyyāt
+- id: h-1006.2-fingers
+  ref: Jāmiʿ 7:1006.2
+  unit: hadith-7-ablution-in-gods-name
+  agent: the Prophet
+  action: puts his hand in the water and says 'in the name of God'
+  outcome: water flows from between his fingers; about seventy make ablution
+  number: 70
+  quoted: tawaḍḍaʾū bi-smi llāh
+- id: h-1008.1-hadath
+  ref: Jāmiʿ 7:1008.1
+  unit: hadith-7-no-prayer-without-purity
+  agent: God
+  action: does not accept the prayer of one who broke purity until ablution
+  name: a man of Ḥaḍramawt
+  quoted: lā tuqbalu ṣalātu aḥadikum idhā aḥdatha ḥattā yatawaḍḍaʾa
+- id: h-1008.2-ghulul
+  ref: Jāmiʿ 7:1008.2
+  unit: hadith-7-no-prayer-without-purity
+  agent: God
+  action: accepts no prayer without purity, no alms from embezzlement
+  name:
+  - Ibn ʿĀmir
+  - al-Baṣra
+  quoted: lā yaqbalu llāhu ṣalātan bi-ghayri ṭuhūr wa-lā ṣadaqatan min ghulūl
+- id: h-1008.3-food
+  ref: Jāmiʿ 7:1008.3
+  unit: hadith-7-no-prayer-without-purity
+  agent: the Prophet
+  action: eats after the privy without ablution
+  place: after the khalāʾ
+  quoted: lima? a-uṣallī fa-atawaḍḍaʾ?
+- id: h-1010.2-key
+  ref: Jāmiʿ 7:1010.2
+  unit: hadith-7-key-of-prayer
+  agent: the Prophet
+  action: names the key, consecration and release of prayer
+  object:
+  - ṭuhūr
+  - takbīr
+  - taslīm
+  quoted: miftāḥu l-ṣalāti l-ṭuhūr wa-taḥrīmuhā l-takbīr wa-taḥlīluhā l-taslīm
+- id: h-1011.1-drops
+  ref: Jāmiʿ 7:1011.1
+  unit: hadith-7-sins-leave-with-the-water
+  agent: the Muslim servant
+  action: washes face, hands, feet
+  outcome: the sins of eyes, hands and feet leave with the water or the last drop
+  object:
+  - face
+  - hands
+  - feet
+  quoted: maʿa l-māʾ aw maʿa ākhiri qaṭri l-māʾ
+- id: h-1011.2-nails
+  ref: Jāmiʿ 7:1011.2
+  unit: hadith-7-sins-leave-with-the-water
+  agent: who perfects ablution
+  outcome: sins leave until they come out from under the nails
+  quoted: ḥattā takhruja min taḥti aẓfārihi
+- id: h-1012.1-major
+  ref: Jāmiʿ 7:1012.1
+  unit: hadith-7-uthmans-ablution-and-forgiveness
+  agent: the Muslim
+  action: prays an obligatory prayer with good ablution, humility, bowing
+  outcome: expiation of sins before it unless a major sin, for all time
+  quoted: mā lam yuʾti kabīratan wa-dhālika l-dahra kullahu
+- id: h-1012.2-silent
+  ref: Jāmiʿ 7:1012.2
+  unit: hadith-7-uthmans-ablution-and-forgiveness
+  agent: the Prophet
+  action: hesitates whether to speak, then tells of the five prayers as expiation
+  time: after the afternoon prayer
+  number: 5
+  name:
+  - Ḥumrān
+  - Misʿar
+  quoted: lā adrī a-uḥaddithukum bi-shayʾin aw askut
+- id: h-1012.4-half
+  ref: Jāmiʿ 7:1012.4
+  unit: hadith-7-purity-half-of-faith
+  agent: the Prophet
+  action: names purity half of faith
+  object:
+  - praise fills the scale
+  - prayer light
+  - alms proof
+  - patience radiance
+  quoted: al-ṭuhūru shaṭru l-īmān; kullu l-nāsi yaghdū fa-bāyiʿun nafsahu fa-muʿtiquhā aw mūbiquhā
+- id: h-1014.1-horns
+  ref: Jāmiʿ 7:1014.1
+  unit: hadith-7-amr-ibn-abasa
+  agent: the Prophet
+  action: teaches Amr b. Abasa the forbidden times of prayer and the sins leaving the limbs
+  time:
+  - sunrise
+  - noon
+  - sunset
+  name:
+  - ʿAmr b. ʿAbasa
+  - Abū Bakr
+  - Bilāl
+  number: 7
+  outcome: leaves his sin as on the day his mother bore him
+  quoted: taṭluʿu bayna qarnay shayṭān wa-ḥīnaʾidhin yasjudu lahā l-kuffār; tusjaru jahannam
+- id: h-1015.1-pilgrim
+  ref: Jāmiʿ 7:1015.1
+  unit: hadith-7-walking-out-purified
+  agent: who goes out purified to an obligatory prayer
+  outcome: reward of the pilgrim in iḥrām; forenoon prayer like ʿumra; written in ʿIlliyyūn
+  quoted: ka-ajri l-ḥājji l-muḥrim ... kitābun fī ʿilliyyīn
+- id: h-1015.2-five
+  ref: Jāmiʿ 7:1015.2
+  unit: hadith-7-ablution-expiates
+  agent: Abu Umama
+  action: affirms hearing it not once, twice, three, four, five times
+  number: 5
+  quoted: al-wuḍūʾu yukaffiru mā qablahu thumma taṣīru l-ṣalātu nāfilatan
+- id: h-1016.1-knots
+  ref: Jāmiʿ 7:1016.1
+  unit: hadith-7-knots-of-the-night
+  agent: a man rising at night
+  action: makes ablution; a knot is untied with each limb
+  number: 4
+  recipient: those behind the veil
+  quoted: wa-ʿalayhi ʿuqad ... fa-yaqūlu llāhu li-lladhīna warāʾa l-ḥijāb unẓurū ilā ʿabdī
+- id: h-1018.1-sandals
+  ref: Jāmiʿ 7:1018.1
+  unit: hadith-7-bilals-sandals
+  agent: Bilal
+  action: prays after every purification
+  outcome: the Prophet hears the beat of his sandals before him in paradise
+  time: at the dawn prayer
+  quoted: samiʿtu daffa naʿlayka bayna yadayya fī l-janna
+- id: h-1018.2-verse
+  ref: Jāmiʿ 7:1018.2
+  unit: hadith-7-uthman-and-the-verse
+  agent: Uthman
+  action: makes ablution and tells the hadith only because of a verse
+  place: al-Maqāʿid
+  time: afternoon prayer
+  outcome: forgiveness between one prayer and the next
+  quoted: law-lā annahu fī kitābi llāh mā ḥaddathtukumūhu
+- id: h-1018.3-river
+  ref: Jāmiʿ 7:1018.3
+  unit: hadith-7-river-at-the-door
+  agent: the Prophet
+  action: likens the five prayers to bathing in a river at the door
+  number: 5
+  place: at the door
+  outcome: no dirt remains
+  quoted: law anna naharan bi-bābi aḥadikum yaghtasilu fīhi kulla yawmin khamsan
+- id: h-1019.3-brothers
+  ref: Jāmiʿ 7:1019.3
+  unit: hadith-7-river-at-the-door
+  agent: two brothers
+  action: the better dies first; the other lives forty more nights
+  number: 40
+  outcome: '''do you know what his prayer brought him to?'''
+  quoted: mā yudrīkum mādhā balaghat bihi ṣalātuhu
+- id: h-1021.1-sin
+  ref: Jāmiʿ 7:1021.1
+  unit: hadith-7-sin-then-two-rakas
+  agent: a man who sins
+  action: makes ablution, prays two rakʿas, asks forgiveness
+  number: 2
+  outcome: God forgives him
+  name:
+  - Abū Bakr
+  - ʿAlī
+  quoted: idhā ḥaddathanī ʿanhu ghayrī staḥlaftuhu
+- id: h-1022.1-twothoughts
+  ref: Jāmiʿ 7:1022.1
+  unit: hadith-7-sin-then-two-rakas
+  agent: who makes ablution well
+  action: prays two rakʿas without drifting
+  number: 2
+  outcome: past sins forgiven
+  quoted: lā yashū fīhimā
+- id: h-1023.1-blaze
+  ref: Jāmiʿ 7:1023.1
+  unit: hadith-7-white-blazes
+  agent: the Prophet's community
+  action: is called on the day of resurrection
+  outcome: blazed and white-footed from ablution
+  place: on the roof of the mosque (Abū Hurayra)
+  quoted: ghurran muḥajjalīna min āthāri l-wuḍūʾ; fa-man istaṭāʿa an yuṭīla ghurratahu fa-l-yafʿal
+- id: h-1024.1-armpit
+  ref: Jāmiʿ 7:1024.1
+  unit: hadith-7-white-blazes
+  agent: Abu Hurayra
+  action: washes his arm up to the armpit
+  name: Banū Farrūkh
+  quoted: tablughu l-ḥilyatu mina l-muʾmin ḥaythu yablughu l-wuḍūʾ
+- id: h-1025.1-cemetery
+  ref: Jāmiʿ 7:1025.1
+  unit: hadith-7-white-blazes
+  agent: the Prophet
+  action: greets the dead and longs for his brothers yet to come
+  place:
+  - the cemetery
+  - the basin (ḥawḍ)
+  outcome: 'men driven from the basin like a stray camel: ''they changed after you'''
+  quoted: as-salāmu ʿalaykum dāra qawmin muʾminīn; fa-suḥqan fa-suḥqan fa-suḥqan
+- id: h-1025.2-basin
+  ref: Jāmiʿ 7:1025.2
+  unit: hadith-7-white-blazes
+  agent: the Prophet
+  action: drives men from his basin as strange camels from a trough
+  place:
+  - Ayla
+  - Aden
+  quoted: inna ḥawḍī la-abʿadu min Ayla min ʿAdan
+- id: h-1025.3-prostration
+  ref: Jāmiʿ 7:1025.3
+  unit: hadith-7-white-blazes
+  agent: the Prophet's community
+  outcome: white-faced from prostration, white-limbed from ablution
+  time: day of resurrection
+  quoted: ghurrun mina l-sujūd muḥajjalūna mina l-wuḍūʾ
+- id: h-1026.1-piebald
+  ref: Jāmiʿ 7:1026.1
+  unit: hadith-7-white-blazes
+  agent: the Prophet
+  action: knows those he never saw
+  quoted: ghurrun muḥajjalūna bulqun min āthāri l-wuḍūʾ
+- id: h-1027.1-right
+  ref: Jāmiʿ 7:1027.1
+  unit: hadith-7-beginning-with-the-right
+  agent: the Prophet
+  action: begins with the right
+  object:
+  - sandals
+  - combing
+  - purification
+  quoted: yuʿjibuhu l-tayammunu fī tanaʿʿulihi wa-tarajjulihi wa-ṭuhūrihi
+- id: h-1027.3-head
+  ref: Jāmiʿ 7:1027.3
+  unit: hadith-7-abdallah-b-zayd-ablution
+  agent: Abdallah b. Zayd
+  action: shows the Prophet's ablution
+  number:
+  - 2
+  - 3
+  outcome: head wiped from the forehead to the nape and back
+  quoted: badaʾa bi-muqaddami raʾsihi thumma dhahaba bihimā ilā qafāhu thumma raddahumā
+- id: h-1028.1-scoop
+  ref: Jāmiʿ 7:1028.1
+  unit: hadith-7-ibn-abbas-one-scoop
+  agent: Ibn Abbas
+  action: takes one scoop of water for each limb
+  instrument: one scoop (ghurfa) per limb
+  quoted: thumma akhadha ghurfatan min māʾ fa-rashsha ʿalā rijlihi l-yumnā ḥattā ghasalahā
+- id: h-1030.1-uthman
+  ref: Jāmiʿ 7:1030.1
+  unit: hadith-7-uthman-thrice-and-two-rakas
+  agent: Uthman
+  action: washes hands, face, arms and feet three times each, then two rakʿas
+  number:
+  - 3
+  - 2
+  outcome: past sins forgiven
+  quoted: lā yuḥaddithu fīhimā nafsahu
+- id: h-1031.1-basin
+  ref: Jāmiʿ 7:1031.1
+  unit: hadith-7-ali-teaches-ablution
+  agent: Ali
+  action: teaches the ablution after having prayed
+  instrument:
+  - vessel (ināʾ)
+  - basin (ṭast)
+  number:
+  - 3
+  - 1
+  quoted: fa-masaḥa bi-raʾsihi marratan wāḥidatan
+- id: h-1033.1-three
+  ref: Jāmiʿ 7:1033.1
+  unit: hadith-7-beyond-three
+  agent: the Prophet
+  action: shows ablution thrice and wipes the ears
+  instrument:
+  - forefingers inside the ears
+  - thumbs on their backs
+  number: 3
+  outcome: whoever exceeds or falls short has done wrong
+  quoted: fa-man zāda ʿalā hādhā aw naqaṣa fa-qad asāʾa wa-ẓalam
+- id: h-1034.1-temples
+  ref: Jāmiʿ 7:1034.1
+  unit: hadith-7-wiping-the-head
+  agent: the Prophet
+  action: wipes the head front and back, the temples and ears once
+  name: al-Rubayyiʿ bt. Muʿawwidh
+  number: 1
+  quoted: wa-ṣudghayhi wa-udhunayhi marratan wāḥidatan
+- id: h-1035.1-hair
+  ref: Jāmiʿ 7:1035.1
+  unit: hadith-7-wiping-the-head
+  agent: the Prophet
+  action: wipes all the head without disturbing the hair
+  recipient: Aisha
+  quoted: lā yuḥarriku l-shaʿra ʿan hayʾatihi
+- id: h-1036.1-order
+  ref: Jāmiʿ 7:1036.1
+  unit: hadith-7-wiping-the-head
+  agent: the Prophet
+  action: washes forearms before rinsing mouth and nose
+  name: al-Miqdām b. Maʿdīkarib
+  number: 3
+  quoted: thumma ghasala dhirāʿayhi thalāthan thalāthan thumma tamaḍmaḍa
+- id: h-1037.1-crown
+  ref: Jāmiʿ 7:1037.1
+  unit: hadith-7-wiping-the-head
+  agent: Muawiya
+  action: sets a scoop of water on the middle of his head till it drips
+  instrument: left hand
+  quoted: ḥattā waḍaʿahā ʿalā wasaṭi raʾsihi ḥattā qaṭara l-māʾ
+- id: h-1038.1-sons
+  ref: Jāmiʿ 7:1038.1
+  unit: hadith-7-bara-shows-his-sons
+  agent: al-Baraʾ b. ʿĀzib
+  action: gathers his sons and family to show ablution and prayer
+  outcome: leads noon, afternoon, sunset and night prayers
+  name: Yā Sīn
+  quoted: fa-innī lā adrī mā qadru ṣuḥbatī iyyākum
+- id: h-1038.2-jubba
+  ref: Jāmiʿ 7:1038.2
+  unit: hadith-7-mughira-on-the-journey
+  agent: the Prophet
+  action: draws his arms out from under a tight Syrian jubba, wipes forelock, turban and socks
+  time: before dawn on a journey
+  name:
+  - al-Mughīra b. Shuʿba
+  - ʿAbd al-Raḥmān b. ʿAwf
+  outcome: prays behind Abd al-Rahman and makes up the missed rakʿa
+  quoted: jubbatun shāmiyyatun ḍayyiqatu l-kummayn
+- id: h-1039.1-takbirs
+  ref: Jāmiʿ 7:1039.1
+  unit: hadith-7-abu-malik-prayer
+  agent: Abu Malik al-Ashʿari
+  action: shows the Prophet's ablution and noon prayer
+  instrument: jafna (bowl)
+  number: 22
+  quoted: wa-kabbara thintayn wa-ʿishrīna takbīratan
+- id: h-1041.1-mouth
+  ref: Jāmiʿ 7:1041.1
+  unit: hadith-7-not-with-the-mouth-first
+  agent: the Prophet
+  action: forbids beginning ablution with the mouth
+  recipient: Abu Jubayr al-Kindi
+  quoted: lā tabdaʾ bi-fīka fa-inna l-kāfira yabdaʾu bi-fīhi
+- id: h-1043.1-nohadath
+  ref: Jāmiʿ 7:1043.1
+  unit: hadith-7-ablution-without-hadath
+  agent: Ali
+  action: wipes face, arms, head and feet with one palmful and drinks the rest standing
+  place: raḥba of Kufa
+  time: afternoon prayer
+  quoted: hādhā wuḍūʾu man lam yuḥdith
+- id: h-1045.2-beard
+  ref: Jāmiʿ 7:1045.2
+  unit: hadith-7-running-water-through-beard
+  agent: the Prophet
+  action: runs water through his beard
+  quoted: khallala liḥyatahu bi-l-māʾ
+- id: h-1047.1-laqit
+  ref: Jāmiʿ 7:1047.1
+  unit: hadith-7-between-the-fingers
+  agent: the Prophet
+  action: orders complete ablution, between fingers, deep snuffing unless fasting
+  name:
+  - Laqīṭ b. Ṣabira
+  - Banū l-Muntafiq
+  object: khazīra (meat broth with flour)
+  quoted: wa-bāligh fī l-istinshāqi illā an takūna ṣāʾiman
+- id: h-1047.2-toes
+  ref: Jāmiʿ 7:1047.2
+  unit: hadith-7-between-the-fingers
+  agent: the Prophet
+  action: rubs between his toes
+  instrument: little finger
+  quoted: yadluku aṣābiʿa rijlayhi bi-khinṣirihi
+- id: h-1049.1-nostril
+  ref: Jāmiʿ 7:1049.1
+  unit: hadith-7-satan-on-the-nostril
+  agent: Satan
+  action: spends the night on the sleeper's nostril
+  object: khayshūm
+  number: 3
+  outcome: snuff water out thrice on waking
+  quoted: fa-inna l-shayṭāna yabītu ʿalā khayshūmihi
+- id: h-1049.3-palace
+  ref: Jāmiʿ 7:1049.3
+  unit: hadith-7-transgressing-in-purification
+  agent: son of Abdallah b. Mughaffal
+  action: prays for the white palace on the right of paradise
+  outcome: 'rebuked: people will transgress in purification and supplication'
+  quoted: al-qaṣra l-abyaḍa ʿan yamīni l-janna; qawmun yaʿtadūna fī l-ṭuhūri wa-l-duʿāʾ
+- id: h-1050.1-heels
+  ref: Jāmiʿ 7:1050.1
+  unit: hadith-7-woe-to-the-heels
+  agent: the Prophet
+  action: warns the dry heels
+  object: heels (aʿqāb)
+  outcome: fire
+  quoted: waylun li-l-aʿqābi mina l-nār
+- id: h-1050.2-nail
+  ref: Jāmiʿ 7:1050.2
+  unit: hadith-7-woe-to-the-heels
+  agent: the Prophet
+  action: sends back a man who left a nail's breadth dry on his foot
+  object: spot the size of a nail
+  outcome: he repeats and prays
+  quoted: irjiʿ fa-aḥsin wuḍūʾaka
+- id: h-1051.1-journey
+  ref: Jāmiʿ 7:1051.1
+  unit: hadith-7-woe-to-the-heels
+  agent: Companions
+  action: wipe their feet in haste at the afternoon prayer
+  time: afternoon, on a journey from Mecca to Medina
+  outcome: the Prophet cries 'woe to the heels' two or three times
+  number:
+  - 2
+  - 3
+  quoted: fa-nādā bi-aʿlā ṣawtihi
+- id: h-1051.2-soles
+  ref: Jāmiʿ 7:1051.2
+  unit: hadith-7-woe-to-the-heels
+  agent: the Prophet
+  object:
+  - heels
+  - soles of the feet
+  outcome: fire
+  quoted: wa-buṭūni l-aqdām
+- id: h-1052.2-three
+  ref: Jāmiʿ 7:1052.2
+  unit: hadith-7-woe-to-the-heels
+  agent: the Prophet
+  action: singles out his house for three things
+  recipient: Banū Hāshim (Ibn ʿAbbās)
+  object:
+  - complete ablution
+  - not eating alms
+  - not mounting donkeys on mares
+  number: 3
+  quoted: wa-lā nunziya l-ḥumura ʿalā l-khayl
+- id: h-1053.1-dirham
+  ref: Jāmiʿ 7:1053.1
+  unit: hadith-7-woe-to-the-heels
+  agent: the Prophet
+  action: orders ablution and prayer repeated
+  object: dry patch the size of a dirham on the foot
+  quoted: lumʿatun qadru l-dirham
+- id: h-1055.1-ribat
+  ref: Jāmiʿ 7:1055.1
+  unit: hadith-7-ablution-in-hardship
+  agent: the Prophet
+  object:
+  - complete ablution in hardship
+  - many steps to mosques
+  - waiting for prayer
+  outcome: that is the ribāṭ
+  number: 3
+  quoted: fa-dhālikumu l-ribāṭ
+- id: h-1055.3-rows
+  ref: Jāmiʿ 7:1055.3
+  unit: hadith-7-ablution-in-hardship
+  agent: the Prophet
+  action: orders the rows straightened and the women to lower their eyes in prostration
+  recipient:
+  - men
+  - women
+  outcome: angels pray for the one awaiting prayer
+  quoted: fa-innī arākum min warāʾi ẓahrī; fa-ghḍuḍna abṣārakunna lā tarayna ʿawrāti l-rijāli min ḍīqi l-uzur
+- id: h-1056.1-every
+  ref: Jāmiʿ 7:1056.1
+  unit: hadith-7-ablution-at-every-prayer
+  agent: the Prophet
+  action: makes ablution at every prayer
+  outcome: 'the Companions: one ablution suffices until broken'
+  quoted: kāna yatawaḍḍaʾu ʿinda kulli ṣalāh
+- id: h-1057.1-sahba
+  ref: Jāmiʿ 7:1057.1
+  unit: hadith-7-several-prayers-one-ablution
+  agent: the Prophet
+  action: eats sawīq, rinses the mouth and prays sunset without ablution
+  place: al-Ṣahbāʾ near Khaybar
+  time: the year of Khaybar
+  quoted: fa-maḍmaḍa thumma ṣallā l-maghriba wa-lam yatawaḍḍaʾ
+- id: h-1057.2-conquest
+  ref: Jāmiʿ 7:1057.2
+  unit: hadith-7-several-prayers-one-ablution
+  agent: the Prophet
+  action: prays all the prayers with one ablution and wipes his socks
+  time: day of the conquest
+  recipient: Umar
+  quoted: ʿamdan ṣanaʿtuhu yā ʿUmar
+- id: h-1057.3-gates
+  ref: Jāmiʿ 7:1057.3
+  unit: hadith-7-testimony-after-ablution
+  agent: whoever completes ablution
+  action: says the testimony
+  outcome: the eight gates of paradise are opened
+  number: 8
+  name:
+  - ʿUqba b. ʿĀmir
+  - ʿUmar
+  quoted: futiḥat lahu abwābu l-jannati l-thamāniya yadkhulu min ayyihā shāʾa
+- id: h-1060.1-sleep
+  ref: Jāmiʿ 7:1060.1
+  unit: hadith-7-junub-before-sleep
+  agent: the Prophet
+  action: tells the junub to wash his penis, make ablution and sleep
+  recipient: Umar
+  quoted: tawaḍḍaʾ wa-ghsil dhakaraka thumma nam
+- id: h-1060.3-leapt
+  ref: Jāmiʿ 7:1060.3
+  unit: hadith-7-junub-before-sleep
+  agent: the Prophet
+  action: sleeps early, revives the night, then at the first call leaps up and pours water over himself
+  time: first call (al-nidāʾ al-awwal)
+  quoted: wathaba (wa-lā wa-llāhi mā qālat qāma) fa-afāḍa ʿalayhi l-māʾa
+- id: h-1061.1-return
+  ref: Jāmiʿ 7:1061.1
+  unit: hadith-7-junub-before-sleep
+  agent: whoever comes to his wife
+  action: makes ablution between two intercourses
+  quoted: fa-l-yatawaḍḍaʾ baynahumā wuḍūʾan
+- id: h-1062.1-camel
+  ref: Jāmiʿ 7:1062.1
+  unit: hadith-7-camel-meat
+  agent: the Prophet
+  action: requires ablution after camel meat, not mutton; no prayer in camel pens
+  object:
+  - camel meat
+  - mutton
+  - camel resting places
+  - sheepfolds
+  quoted: fa-tawaḍḍaʾ min luḥūmi l-ibil
+- id: h-1062.2-devils
+  ref: Jāmiʿ 7:1062.2
+  unit: hadith-7-camel-meat
+  agent: the Prophet
+  object:
+  - camel resting places
+  - sheepfolds
+  outcome: camels are of the devils; sheep are blessing
+  quoted: fa-innahā mina l-shayāṭīn ... fa-innahā baraka
+- id: h-1062.3-fire
+  ref: Jāmiʿ 7:1062.3
+  unit: hadith-7-what-fire-touched
+  agent: the Prophet
+  action: orders ablution from what fire touched
+  quoted: al-wuḍūʾu mimmā massati l-nār
+- id: h-1062.4-curd
+  ref: Jāmiʿ 7:1062.4
+  unit: hadith-7-what-fire-touched
+  agent: Abu Hurayra
+  action: makes ablution at the mosque for dried curd he ate
+  object: athwār aqiṭ (pieces of dried curd)
+  quoted: innamā atawaḍḍaʾu min athwāri aqiṭin akaltuhā
+- id: h-1064.2-shoulder
+  ref: Jāmiʿ 7:1064.2
+  unit: hadith-7-fire-touched-left
+  agent: the Prophet
+  action: eats a shoulder of mutton and prays without ablution
+  object: kitf shāt
+  quoted: akala katifa shātin wa-ṣallā wa-lam yatawaḍḍaʾ
+- id: h-1064.3-knife
+  ref: Jāmiʿ 7:1064.3
+  unit: hadith-7-fire-touched-left
+  agent: the Prophet
+  action: throws down the knife at the call and prays without ablution
+  instrument: sikkīn
+  object: shoulder of mutton
+  quoted: fa-alqā l-sikkīn
+- id: h-1064.5-roast
+  ref: Jāmiʿ 7:1064.5
+  unit: hadith-7-fire-touched-left
+  agent: Abu Rafiʿ
+  action: roasts the belly of a sheep for the Prophet
+  outcome: he prays without ablution
+  quoted: kuntu ashwī li-rasūli llāhi baṭna shātin
+- id: h-1065.3-last
+  ref: Jāmiʿ 7:1065.3
+  unit: hadith-7-fire-touched-left
+  agent: the Prophet
+  action: 'the last of two commands: leaving ablution from what fire altered'
+  quoted: kāna ākhira l-amrayn ... tarku l-wuḍūʾi mimmā ghayyarati l-nār
+- id: h-1066.1-moustache
+  ref: Jāmiʿ 7:1066.1
+  unit: hadith-7-roast-and-shoulder
+  agent: the Prophet
+  action: carves roast side for his guest, throws down the blade at Bilal's call, trims the guest's moustache over a toothstick
+  instrument:
+  - shafra (blade)
+  - siwāk
+  name:
+  - al-Mughīra b. Shuʿba
+  - Bilāl
+  quoted: mā lahu taribat yadāhu; fa-qaṣṣahu lī ʿalā siwāk
+- id: h-1067.1-suffa
+  ref: Jāmiʿ 7:1067.1
+  unit: hadith-7-roast-and-shoulder
+  agent: Companions with the Prophet
+  action: eat, then pray without ablution
+  place: the ṣuffa
+  quoted: fa-ṣallaynā wa-lam natawaḍḍaʾ
+- id: h-1068.2-milk
+  ref: Jāmiʿ 7:1068.2
+  unit: hadith-7-rinsing-after-milk
+  agent: the Prophet
+  action: rinses his mouth after milk
+  object: milk
+  quoted: inna lahu dasaman
+- id: h-1068.3-norinse
+  ref: Jāmiʿ 7:1068.3
+  unit: hadith-7-rinsing-after-milk
+  agent: the Prophet
+  action: drinks milk and prays without rinsing or ablution
+  object: milk
+  quoted: fa-lam yumaḍmiḍ wa-lam yatawaḍḍaʾ
+- id: h-1069.1-doze
+  ref: Jāmiʿ 7:1069.1
+  unit: hadith-7-sleep-not-hadath
+  agent: the Companions
+  action: sleep while he talks with a man, then pray without ablution
+  place: side of the mosque
+  time: night prayer
+  quoted: ḥattā nāma l-qawm
+- id: h-1070.2-awaits
+  ref: Jāmiʿ 7:1070.2
+  unit: hadith-7-sleep-not-hadath
+  agent: the Prophet
+  action: delays the night prayer until women and boys sleep
+  recipient: Umar calls him
+  outcome: '''none of the people of the earth awaits it but you'''
+  place: Medina
+  quoted: nāma l-nisāʾu wa-l-ṣibyān
+- id: h-1071.1-heart
+  ref: Jāmiʿ 7:1071.1
+  unit: hadith-7-sleep-not-hadath
+  agent: the Prophet
+  action: sleeps till he breathes loudly and prays without ablution
+  place: house of Maymuna
+  name:
+  - Ibn ʿAbbās
+  - ʿUbayd b. ʿUmayr
+  outcome: his eye sleeps, not his heart; prophets' dreams are revelation
+  quoted: tanāmu ʿaynuhu wa-lā yanāmu qalbuhu; ruʾyā l-anbiyāʾi waḥy
+- id: h-1071.3-supine
+  ref: Jāmiʿ 7:1071.3
+  unit: hadith-7-sleep-not-hadath
+  agent: the Prophet
+  action: sleeps lying on his back till he breathes loudly, then prays without ablution
+  quoted: yanāmu mustalqiyan ḥattā yanfukha
+- id: h-1072.1-grave
+  ref: Jāmiʿ 7:1072.1
+  unit: hadith-7-eclipse-faint-and-grave
+  agent: the Prophet
+  action: after the eclipse prayer tells of the trial in the grave
+  time: solar eclipse
+  name:
+  - Asmāʾ bt. Abī Bakr
+  - the Dajjal
+  outcome: 'believer: ''Muhammad, God''s messenger'' - ''sleep, righteous''; hypocrite: ''I heard people say something and
+    said it'''
+  quoted: mā ʿilmuka bi-hādhā l-rajul; nam ṣāliḥan
+- id: h-1073.1-penis
+  ref: Jāmiʿ 7:1073.1
+  unit: hadith-7-touching-the-penis
+  agent: the Prophet
+  action: requires ablution after touching the penis
+  name:
+  - Busra bt. Ṣafwān
+  - Marwān b. al-Ḥakam
+  - ʿUrwa
+  quoted: idhā massa aḥadukum dhakarahu fa-l-yatawaḍḍaʾ
+- id: h-1074.2-piece
+  ref: Jāmiʿ 7:1074.2
+  unit: hadith-7-touching-the-penis
+  agent: the Prophet
+  action: answers a bedouin that touching the penis needs no ablution
+  quoted: wa-hal huwa illā muḍghatun minhu aw baḍʿatun minhu
+- id: h-1075.1-sound
+  ref: Jāmiʿ 7:1075.1
+  unit: hadith-7-doubt-of-hadath
+  agent: the Prophet
+  action: tells the doubter not to leave prayer
+  outcome: until he hears a sound or finds a smell
+  quoted: ḥattā yasmaʿa ṣawtan aw yajida rīḥan
+- id: h-1076.1-blow
+  ref: Jāmiʿ 7:1076.1
+  unit: hadith-7-doubt-of-hadath
+  agent: Satan
+  action: blows into the seat of one praying
+  outcome: he imagines he broke wind; leave only on hearing it with the ear or smelling it with the nose
+  quoted: ḥattā yanfukha fī maqʿadatihi
+- id: h-1077.1-salma
+  ref: Jāmiʿ 7:1077.1
+  unit: hadith-7-wind-and-sound
+  agent: Abu Rafiʿ
+  action: strikes his wife for telling him wind requires ablution
+  recipient: Salmā
+  outcome: 'the Prophet laughs: ''she ordered you nothing but good'''
+  quoted: fa-jaʿala rasūlu llāhi yaḍḥaku
+- id: h-1077.2-vomit
+  ref: Jāmiʿ 7:1077.2
+  unit: hadith-7-vomit
+  agent: the Prophet
+  action: vomits and breaks his fast
+  name:
+  - Abū l-Dardāʾ
+  - Thawbān
+  place: mosque of Damascus (where Maʿdān meets Thawbān)
+  quoted: qāʾa fa-afṭara; wa-anā ṣababtu lahu waḍūʾahu
+- id: h-1080.1-miqdad
+  ref: Jāmiʿ 7:1080.1
+  unit: hadith-7-madhy
+  agent: Ali
+  action: sends al-Miqdad to ask about madhy, ashamed because of the Prophet's daughter
+  outcome: wash the penis and make ablution
+  quoted: kuntu rajulan madhdhāʾan wa-kuntu astaḥyī
+- id: h-1081.1-palmful
+  ref: Jāmiʿ 7:1081.1
+  unit: hadith-7-madhy
+  agent: the Prophet
+  action: tells Sahl b. Ḥunayf ablution suffices for madhy and a palmful sprinkled on the garment
+  instrument: a palmful of water
+  quoted: an taʾkhudha kaffan min māʾin fa-tanḍaḥa bihā min thawbika
+- id: h-1081.2-stallion
+  ref: Jāmiʿ 7:1081.2
+  unit: hadith-7-madhy
+  agent: the Prophet
+  action: calls the water after water madhy; wash private part and testicles, ablution
+  quoted: wa-kullu faḥlin yamdhī
+- id: h-1084.1-skinning
+  ref: Jāmiʿ 7:1084.1
+  unit: hadith-7-raw-meat
+  agent: the Prophet
+  action: thrusts his hand between the skin and flesh of a sheep to the armpit, then prays without ablution
+  recipient: a boy skinning a sheep
+  quoted: fa-daḥasa bihā ḥattā tawārat ilā l-ibṭ
+- id: h-1085.2-greeting
+  ref: Jāmiʿ 7:1085.2
+  unit: hadith-7-greeting-after-ablution
+  agent: the Prophet
+  action: returns a greeting only after ablution
+  recipient: al-Muhājir b. Qunfudh
+  outcome: '''I disliked to mention God except in purity'''
+  quoted: karihtu an adhkura llāha illā ʿalā ṭuhr
+- id: h-1085.3-socks
+  ref: Jāmiʿ 7:1085.3
+  unit: hadith-7-wiping-the-socks-1
+  agent: the Prophet
+  action: wipes over socks put on in purity
+  time: night on a journey
+  instrument: woollen jubba with arms drawn out from below
+  recipient: al-Mughīra
+  quoted: daʿhumā fa-innī adkhaltuhumā ṭāhiratayn
+- id: h-1087.1-jarir
+  ref: Jāmiʿ 7:1087.1
+  unit: hadith-7-wiping-the-socks-1
+  agent: Jarir b. Abdallah
+  action: urinates, makes ablution and wipes over his socks
+  outcome: liked because his Islam came after al-Māʾida
+  name: al-Māʾida
+  quoted: li-anna islāma Jarīrin kāna baʿda nuzūli l-māʾida
+- id: h-1087.3-sad
+  ref: Jāmiʿ 7:1087.3
+  unit: hadith-7-wiping-the-socks-1
+  agent: Umar
+  action: tells his son to ask no one after Saʿd
+  name: Saʿd b. Abī Waqqāṣ
+  quoted: idhā ḥaddathaka Saʿdun ... fa-lā tasʾal ʿanhu ghayrahu
+- id: h-1089.1-hair
+  ref: Jāmiʿ 7:1089.1
+  unit: hadith-7-wiping-the-socks-2
+  agent: Jabir
+  action: calls wiping socks the sunna and bids the hair be touched with water for the turban
+  quoted: amissa l-shaʿra l-māʾa
+- id: h-1090.1-cold
+  ref: Jāmiʿ 7:1090.1
+  unit: hadith-7-wiping-the-socks-2
+  agent: the Prophet
+  action: orders a troop struck by cold to wipe over turbans and foot-warmers
+  object:
+  - ʿaṣāʾib
+  - tasākhīn
+  quoted: an yamsaḥū ʿalā l-ʿaṣāʾibi wa-l-tasākhīn
+- id: h-1091.2-removes
+  ref: Jāmiʿ 7:1091.2
+  unit: hadith-7-wiping-the-socks-2
+  agent: Abu Ayyub
+  action: takes off his socks to wash
+  quoted: wa-lākin ḥubbiba ilayya l-wuḍūʾ
+- id: h-1092.1-ali
+  ref: Jāmiʿ 7:1092.1
+  unit: hadith-7-time-limit-of-wiping
+  agent: the Prophet
+  action: sets the wiping term
+  number:
+  - 3
+  - 1
+  recipient:
+  - traveller
+  - resident
+  name:
+  - Aisha
+  - Ali
+  - Shurayḥ b. Hāniʾ
+  quoted: thalāthata ayyāmin wa-layālīhinna li-l-musāfir wa-yawman wa-laylatan li-l-muqīm
+- id: h-1092.2-janaba
+  ref: Jāmiʿ 7:1092.2
+  unit: hadith-7-time-limit-of-wiping
+  agent: the Prophet
+  action: has travellers keep socks on three days except for janaba
+  number: 3
+  outcome: not removed for stool, urine or sleep
+  quoted: illā min janābatin lākin min ghāʾiṭin wa-bawlin wa-nawm
+- id: h-1095.2-tabuk
+  ref: Jāmiʿ 7:1095.2
+  unit: hadith-7-time-limit-of-wiping
+  agent: the Prophet
+  action: orders wiping three days for the traveller, a day and night for the resident
+  place: Tabūk campaign
+  number:
+  - 3
+  - 1
+  quoted: fī ghazwati tabūk
+- id: h-1097.1-jawrab
+  ref: Jāmiʿ 7:1097.1
+  unit: hadith-7-socks-and-sandals
+  agent: the Prophet
+  action: wipes over woollen socks and sandals
+  object:
+  - jawrabayn
+  - naʿlayn
+  quoted: wa-masaḥa ʿalā l-jawrabayni wa-l-naʿlayn
+- id: h-1099.1-sibti
+  ref: Jāmiʿ 7:1099.1
+  unit: hadith-7-sibti-sandals
+  agent: Ibn Umar
+  action: wears hairless sibtī sandals as the Prophet did for ablution
+  number: 4
+  name: ʿUbayd b. Jurayj
+  quoted: al-niʿāla llatī laysa fīhā shaʿrun wa-yatawaḍḍaʾu fīhā
+- id: h-1101.1-opinion
+  ref: Jāmiʿ 7:1101.1
+  unit: hadith-7-top-of-the-sock
+  agent: Ali
+  action: wipes the top of the socks against reasoning
+  quoted: law kāna l-dīnu bi-l-raʾyi la-kāna asfalu l-khuffi awlā bi-l-masḥi min aʿlāhu

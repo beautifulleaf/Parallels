@@ -1,0 +1,1456 @@
+# Observation records, hadith chunk 32 (al-Jāmiʿ al-Kāmil book 9, kitāb al-ṣalāt, pp. 1463-1582): rows, congregation,
+# voluntary prayers, forgetfulness and the forbidden times.
+records:
+- id: h-1463.1-rows
+  ref: Jāmiʿ 9:1463.1
+  unit: hadith-9-rows-straightening
+  agent: Anas b. Malik
+  action: finds fault with the people of Medina
+  object: rows not straightened
+  quoted: mā ankartu shayʾan illā annakum lā tuqīmūna l-ṣufūf
+- id: h-1463.2-behind
+  ref: Jāmiʿ 9:1463.2
+  unit: hadith-9-rows-straightening
+  agent: the prophet
+  action: orders the rows straight, saying it three times
+  number: 3
+  quoted: innī la-arākum min khalfī kamā arākum min bayna yadayya
+- id: h-1463.3-hadhaf
+  ref: Jāmiʿ 9:1463.3
+  unit: hadith-9-rows-straightening
+  agent: Satan
+  action: enters through the gaps of the row
+  instrument: in the form of small black sheep
+  place: gaps in the prayer row
+  quoted: ka-annahā l-ḥadhaf
+- id: h-1463.4-front
+  ref: Jāmiʿ 9:1463.4
+  unit: hadith-9-rows-straightening
+  action: complete the rows in order
+  object: front row first
+  quoted: fa-mā kāna min naqṣ fa-l-yakun fī l-ṣaff al-muʾakhkhar
+  outcome: any gap left in the last row
+- id: h-1464.2-faces
+  ref: Jāmiʿ 9:1464.2
+  unit: hadith-9-rows-straightening
+  agent: God
+  action: sets faces at variance
+  recipient: those who do not straighten the rows
+  quoted: la-yukhālifanna llāhu bayna wujūhikum
+- id: h-1464.3-ahlam
+  ref: Jāmiʿ 9:1464.3
+  unit: hadith-9-rows-straightening
+  agent: the prophet
+  action: orders who stands nearest him
+  object: those of understanding (ulū l-aḥlām wa-l-nuhā)
+  number: 3
+  quoted: li-yalinī minkum ulū l-aḥlām wa-l-nuhā
+- id: h-1464.3-today
+  ref: Jāmiʿ 9:1464.3
+  unit: hadith-9-rows-straightening
+  agent: Abu Masʿud
+  action: comments on his own generation
+  quoted: fa-antum al-yawma ashaddu khtilāfan
+  outcome: '''you today differ more'''
+- id: h-1465.1-tails
+  ref: Jāmiʿ 9:1465.1
+  unit: hadith-9-rows-straightening
+  agent: the prophet
+  action: rebukes raised hands in prayer
+  instrument: likened to tails of restive horses
+  quoted: ka-annahā adhnābu khaylin shumus
+- id: h-1465.1-angels
+  ref: Jāmiʿ 9:1465.1
+  unit: hadith-9-rows-straightening
+  agent: the angels
+  action: stand in rows before their Lord
+  quoted: yutimmūna l-ṣufūfa l-uwal wa-yatarāṣṣūna fī l-ṣaff
+  outcome: complete the first rows and press close
+- id: h-1465.1-izin
+  ref: Jāmiʿ 9:1465.1
+  unit: hadith-9-rows-straightening
+  agent: the prophet
+  action: rebukes the companions sitting in separate circles
+  quoted: mā lī arākum ʿizīn
+- id: h-1465.2-joins
+  ref: Jāmiʿ 9:1465.2
+  unit: hadith-9-rows-straightening
+  action: joins or cuts a row
+  quoted: man waṣala ṣaffan waṣalahu llāh wa-man qaṭaʿa ṣaffan qaṭaʿahu llāh
+  outcome: God joins or cuts him
+- id: h-1466.1-bless
+  ref: Jāmiʿ 9:1466.1
+  unit: hadith-9-rows-straightening
+  agent: God and his angels
+  action: bless (yuṣallūna ʿalā)
+  recipient: those who join the rows
+  quoted: yuṣallūna ʿalā lladhīna yaṣilūna l-ṣufūf
+- id: h-1464.1-husn
+  ref: Jāmiʿ 9:1464.1
+  unit: hadith-9-rows-straightening
+  object: straightening the row
+  outcome: part of the excellence of prayer
+  quoted: fa-inna iqāmata l-ṣaffi min ḥusni l-ṣalāh
+- id: h-1467.1-tamam
+  ref: Jāmiʿ 9:1467.1
+  unit: hadith-9-rows-straightening
+  object: straightening the row
+  outcome: part of the completeness of prayer
+  quoted: inna min tamāmi l-ṣalāti iqāmata l-ṣaff
+- id: h-1467.2-bilal
+  ref: Jāmiʿ 9:1467.2
+  unit: hadith-9-rows-straightening
+  agent: the prophet
+  action: levels the worshippers' shoulders
+  object: shoulders (manākib)
+  quoted: yusawwī manākibanā fī l-ṣalāh
+- id: h-1467.3-pillars
+  ref: Jāmiʿ 9:1467.3
+  unit: hadith-9-pillars-and-lone-man-behind-row
+  agent: Anas
+  action: avoids standing in a row between pillars
+  place: between the pillars (al-sawārī)
+  time: Friday
+  quoted: kunnā nattaqī hādhā
+- id: h-1468.1-repeat
+  ref: Jāmiʿ 9:1468.1
+  unit: hadith-9-pillars-and-lone-man-behind-row
+  agent: a man
+  action: prays alone behind the row
+  quoted: an yuʿīda l-ṣalāh
+  outcome: ordered to repeat the prayer
+- id: h-1470.1-noprayer
+  ref: Jāmiʿ 9:1470.1
+  unit: hadith-9-pillars-and-lone-man-behind-row
+  agent: the prophet
+  action: stands over the man after finishing
+  recipient: a man praying alone behind the row
+  quoted: istaqbil ṣalātaka wa-lā ṣalāta lilladhī khalfa l-ṣaff
+- id: h-1470.2-zeal
+  ref: Jāmiʿ 9:1470.2
+  unit: hadith-9-pillars-and-lone-man-behind-row
+  agent: Abu Bakra
+  action: bows before reaching the row
+  quoted: zādaka llāhu ḥirṣan wa-lā taʿud
+  outcome: prophet prays for his zeal and forbids repeating
+- id: h-1472.1-wall
+  ref: Jāmiʿ 9:1472.1
+  unit: hadith-9-night-prayer-over-low-wall
+  agent: people
+  action: pray following the prophet
+  place: outside his room with a low wall
+  time: two or three nights
+  number: 2 or 3
+  quoted: wa-jidāru l-ḥujrati qaṣīr
+- id: h-1472.1-feared
+  ref: Jāmiʿ 9:1472.1
+  unit: hadith-9-night-prayer-over-low-wall
+  agent: the prophet
+  action: stops coming out to lead the night prayer
+  quoted: khashītu an tuktaba ʿalaykum ṣalātu l-layl
+  outcome: fear it be made obligatory
+- id: h-1472.2-shahida
+  ref: Jāmiʿ 9:1472.2
+  unit: hadith-9-umm-waraqa
+  agent: Umm Waraqa
+  action: asks to join the raid to nurse the sick
+  place: Badr
+  quoted: qirrī fī baytiki fa-inna llāha yarzuquki l-shahāda
+  outcome: told to stay home; named al-shahīda
+- id: h-1472.2-muezzin
+  ref: Jāmiʿ 9:1472.2
+  unit: hadith-9-umm-waraqa
+  agent: the prophet
+  action: gives her a muezzin and orders her to lead her household
+  recipient: Umm Waraqa
+  quoted: wa-amarahā an taʾumma ahla dārihā
+- id: h-1472.2-old
+  ref: Jāmiʿ 9:1472.2
+  unit: hadith-9-umm-waraqa
+  agent: ʿAbd al-Rahman
+  action: saw her muezzin
+  quoted: raʾaytu muʾadhdhinahā shaykhan kabīran
+  outcome: a very old man
+- id: h-1472.2-smother
+  ref: Jāmiʿ 9:1472.2
+  unit: hadith-9-umm-waraqa
+  agent: her slave boy and slave girl (made mudabbar)
+  action: smother her by night
+  instrument: her velvet cloth (qaṭīfa)
+  quoted: fa-kānā awwala maṣlūbin bi-l-madīna
+  outcome: crucified on Umar's order, first crucified in Medina
+- id: h-1473.1-izar
+  ref: Jāmiʿ 9:1473.1
+  unit: hadith-9-women-raise-heads-after-men
+  agent: men
+  action: pray with waist-wrappers knotted at the neck
+  instrument: izār
+  quoted: ʿāqidī uzurihim ʿalā aʿnāqihim ka-hayʾati l-ṣibyān
+- id: h-1474.1-heads
+  ref: Jāmiʿ 9:1474.1
+  unit: hadith-9-women-raise-heads-after-men
+  agent: women who believe in God and the last day
+  action: must not raise their heads
+  time: until the men raise theirs
+  quoted: fa-lā tarfaʿ raʾsahā ḥattā yarfaʿa l-rijālu ruʾūsahum
+- id: h-1475.1-27
+  ref: Jāmiʿ 9:1475.1
+  unit: hadith-9-congregation-degrees
+  agent: Ibn Umar's report
+  action: ranks congregational over lone prayer
+  number: 27
+  quoted: bi-sabʿin wa-ʿishrīna daraja
+- id: h-1475.2-25
+  ref: Jāmiʿ 9:1475.2
+  unit: hadith-9-congregation-degrees
+  agent: Abu Hurayra's report
+  action: ranks congregational over lone prayer
+  number: 25
+  quoted: bi-khamsin wa-ʿishrīna juzʾan
+- id: h-1475.3-steps
+  ref: Jāmiʿ 9:1475.3
+  unit: hadith-9-congregation-degrees
+  action: walks to the mosque for prayer
+  quoted: lam yakhṭu khuṭwatan illā rufiʿat lahu bihā daraja
+  outcome: each step a degree raised and a sin removed
+- id: h-1475.3-angelsprayer
+  ref: Jāmiʿ 9:1475.3
+  unit: hadith-9-congregation-degrees
+  agent: the angels
+  action: pray for the worshipper while he stays in his place
+  quoted: allāhumma ṣalli ʿalayhi allāhumma rḥamhu
+- id: h-1477.1-crawl
+  ref: Jāmiʿ 9:1477.1
+  unit: hadith-9-congregation-degrees
+  agent: the prophet
+  action: asks after absent men by name
+  time: after the dawn prayer
+  quoted: la-ataytumūhā wa-law ḥabwan ʿalā l-rukab
+- id: h-1477.1-more
+  ref: Jāmiʿ 9:1477.1
+  unit: hadith-9-congregation-degrees
+  action: prays with one, then two men
+  number:
+  - 1
+  - 2
+  quoted: wa-mā kathura fa-huwa aḥabbu ilā llāh
+  outcome: each purer; the more the dearer to God
+- id: h-1476.1-said
+  ref: Jāmiʿ 9:1476.1
+  unit: hadith-9-congregation-degrees
+  action: ranks congregational over lone prayer
+  number: 25
+  quoted: bi-khamsin wa-ʿishrīna daraja
+- id: h-1477.1-angelsrow
+  ref: Jāmiʿ 9:1477.1
+  unit: hadith-9-congregation-degrees
+  object: the first row
+  outcome: like the row of the angels
+  quoted: ʿalā mithli ṣaffi l-malāʾika
+- id: h-1479.1-burn
+  ref: Jāmiʿ 9:1479.1
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  agent: the prophet
+  action: resolves (hamamtu) to burn houses
+  recipient: men who stay away from congregation
+  instrument: gathered firewood
+  quoted: fa-uḥarriqa ʿalayhim buyūtahum
+- id: h-1480.2-jumua
+  ref: Jāmiʿ 9:1480.2
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  agent: the prophet
+  action: resolves to burn houses
+  recipient: men who stay away from Friday prayer
+  quoted: yatakhallafūna ʿan al-jumuʿa
+- id: h-1479.1-bone
+  ref: Jāmiʿ 9:1479.1
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  action: would attend the night prayer
+  instrument: for a fat bone or two mirmāt
+  quoted: ʿaẓman samīnan aw mirmātayni ḥasanatayn
+- id: h-1480.1-angry
+  ref: Jāmiʿ 9:1480.1
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  agent: Abu l-Darda
+  action: enters angry before Umm al-Darda
+  quoted: mā aʿrifu min ummati muḥammadin shayʾan illā annahum yuṣallūna jamīʿan
+- id: h-1480.3-carried
+  ref: Jāmiʿ 9:1480.3
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  agent: Ibn Masʿud
+  action: recalls a man brought supported between two men
+  place: the row
+  quoted: yuʾtā bihi yuhādā bayna l-rajulayni ḥattā yuqāma fī l-ṣaff
+- id: h-1480.3-sunan
+  ref: Jāmiʿ 9:1480.3
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  agent: Ibn Masʿud
+  action: calls the five prayers in the mosque 'paths of guidance'
+  quoted: wa-innahunna min sunani l-hudā
+  outcome: praying at home like the laggard would abandon the prophet's sunna and lead astray
+- id: h-1481.1-wolf
+  ref: Jāmiʿ 9:1481.1
+  unit: hadith-9-burning-houses-and-duty-of-congregation
+  agent: the wolf
+  action: eats the straggling sheep
+  number: 3
+  quoted: fa-innamā yaʾkulu l-dhiʾbu l-qāṣiya
+- id: h-1481.2-answer
+  ref: Jāmiʿ 9:1481.2
+  unit: hadith-9-blind-man-and-the-call
+  agent: the prophet
+  action: withdraws the leave he had given
+  recipient: a blind man without a guide
+  quoted: hal tasmaʿu l-nidāʾ ... fa-ajib
+- id: h-1481.3-ibnummmaktum
+  ref: Jāmiʿ 9:1481.3
+  unit: hadith-9-blind-man-and-the-call
+  agent: Ibn Umm Maktum
+  action: pleads blindness, a distant house and an unsuitable guide
+  quoted: lā ajidu laka rukhṣa
+  outcome: '''I find no leave for you'''
+- id: h-1481.3-guide
+  ref: Jāmiʿ 9:1481.3
+  unit: hadith-9-blind-man-and-the-call
+  agent: Ibn Umm Maktum
+  action: describes his plight
+  object:
+  - blind
+  - far house
+  - unsuitable guide
+  quoted: ḍarīru l-baṣar shāsiʿu l-dār
+- id: h-1483.1-seven
+  ref: Jāmiʿ 9:1483.1
+  unit: hadith-9-children-and-prayer
+  agent: parents
+  action: order children to pray, then beat them for it, and separate their beds
+  recipient: children
+  number:
+  - 7
+  - 10
+  quoted: murū awlādakum bi-l-ṣalāti wa-hum abnāʾu sabʿi sinīn wa-ḍribūhum ʿalayhā wa-hum abnāʾu ʿashr
+- id: h-1484.2-trembling
+  ref: Jāmiʿ 9:1484.2
+  unit: hadith-9-praying-twice
+  agent: two men
+  action: sat apart without praying, having prayed in their tents
+  place: Masjid al-Khayf
+  time: dawn prayer of the prophet's pilgrimage
+  quoted: turʿadu farāʾiṣuhumā
+  outcome: brought trembling; told to pray again as voluntary
+- id: h-1485.1-mihjan
+  ref: Jāmiʿ 9:1485.1
+  unit: hadith-9-praying-twice
+  agent: Mihjan
+  action: stays sitting in the assembly while the prophet prays
+  quoted: a-lasta bi-rajulin muslim
+  outcome: '''are you not a Muslim man?''; pray with the people even if you have prayed'
+- id: h-1485.2-twice
+  ref: Jāmiʿ 9:1485.2
+  unit: hadith-9-praying-twice
+  agent: Ibn Umar
+  action: declines to pray again
+  place: al-Balāṭ
+  quoted: lā tuṣallū ṣalātan fī yawmin marratayn
+- id: h-1486.1-asbagha
+  ref: Jāmiʿ 9:1486.1
+  unit: hadith-9-praying-twice
+  action: completes the ablution, walks to the prescribed prayer and prays it with the people
+  outcome: God forgives his sins
+  quoted: ghafara llāhu lahu dhunūbah
+- id: h-1486.2-tajir
+  ref: Jāmiʿ 9:1486.2
+  unit: hadith-9-second-congregation-charity
+  agent: the prophet
+  action: asks who will pray with the latecomer
+  recipient: a man who came after the prayer
+  name: Abu Bakr
+  quoted: ayyukum yattajiru ʿalā hādhā; man yataṣaddaqu ʿalā hādhā
+  outcome: Abu Bakr prays with him
+- id: h-1488.1-anas
+  ref: Jāmiʿ 9:1488.1
+  unit: hadith-9-second-congregation-charity
+  agent: the prophet
+  action: asks who will trade with the latecomer and pray with him
+  quoted: man yattajiru ʿalā hādhā fa-l-yuṣalli maʿah
+- id: h-1489.1-hypocrites
+  ref: Jāmiʿ 9:1489.1
+  unit: hadith-9-isha-fajr-congregation
+  agent: hypocrites
+  action: find heaviest
+  object:
+  - the dawn prayer
+  - the night prayer
+  quoted: wa-law ḥabwan
+- id: h-1489.1-torches
+  ref: Jāmiʿ 9:1489.1
+  unit: hadith-9-isha-fajr-congregation
+  agent: the prophet
+  action: resolves to burn
+  recipient: those who do not come out to prayer
+  instrument: flaming brands (shuʿal min nār)
+  quoted: ākhudhu shuʿalan min nār
+- id: h-1490.1-halfnight
+  ref: Jāmiʿ 9:1490.1
+  unit: hadith-9-isha-fajr-congregation
+  agent: Uthman
+  action: tells his nephew the merit of night and dawn prayer in congregation
+  time: after the sunset prayer, sitting alone in the mosque
+  quoted: fa-ka-annamā qāma niṣfa l-layl
+- id: h-1490.2-dhimma
+  ref: Jāmiʿ 9:1490.2
+  unit: hadith-9-isha-fajr-congregation
+  agent: God
+  action: takes the dawn worshipper under protection
+  quoted: fa-huwa fī dhimmati llāh
+  outcome: whoever violates it is thrown on his face in hell
+- id: h-1490.3-khafar
+  ref: Jāmiʿ 9:1490.3
+  unit: hadith-9-isha-fajr-congregation
+  agent: whoever
+  action: must not violate God's protection
+  recipient: the one who prayed the morning prayer
+  quoted: fa-lā tukhfirū llāha fī dhimmatih
+- id: h-1492.1-ascend
+  ref: Jāmiʿ 9:1492.1
+  unit: hadith-9-dawn-and-afternoon-prayers
+  agent: the angels who spent the night
+  action: ascend and are asked how they left God's servants
+  recipient: God, who knows best
+  time: at the afternoon and dawn prayers
+  quoted: taraknāhum wa-hum yuṣallūna wa-ataynāhum wa-hum yuṣallūn
+- id: h-1492.2-moon
+  ref: Jāmiʿ 9:1492.2
+  unit: hadith-9-dawn-and-afternoon-prayers
+  agent: believers
+  action: will see their Lord
+  instrument: as they see the full moon
+  quoted: lā tuḍāmmūna fī ruʾyatih
+  outcome: so do not miss the prayers before sunrise and sunset
+- id: h-1492.3-bardayn
+  ref: Jāmiʿ 9:1492.3
+  unit: hadith-9-dawn-and-afternoon-prayers
+  action: prays the two cool prayers (al-bardayn)
+  quoted: man ṣallā l-bardayni dakhala l-janna
+  outcome: enters paradise
+- id: h-1493.1-ears
+  ref: Jāmiʿ 9:1493.1
+  unit: hadith-9-dawn-and-afternoon-prayers
+  agent: a man of Basra
+  action: confirms he heard the same
+  quoted: samiʿathu udhunāya wa-waʿāhu qalbī
+- id: h-1493.2-asrayn
+  ref: Jāmiʿ 9:1493.2
+  unit: hadith-9-dawn-and-afternoon-prayers
+  agent: Fadala
+  action: asks for a single comprehensive command
+  quoted: ḥāfiẓ ʿalā l-ʿaṣrayn
+  outcome: told to keep the two ʿaṣrs
+- id: h-1493.3-rihal
+  ref: Jāmiʿ 9:1493.3
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: Ibn Umar
+  action: calls the prayer and adds 'pray in the dwellings'
+  time: a cold windy night
+  quoted: alā ṣallū fī l-riḥāl
+- id: h-1494.1-azma
+  ref: Jāmiʿ 9:1494.1
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: Ibn Abbas
+  action: has the caller say 'prayer in the dwellings' in place of 'come to prayer'
+  time: a muddy (radgh) day
+  quoted: faʿala hādhā man huwa khayrun minhu wa-innahā ʿazma
+  outcome: people stare; 'one better than him did it; it is binding (ʿazma)'
+- id: h-1495.2-thaqif
+  ref: Jāmiʿ 9:1495.2
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: the prophet's caller
+  action: adds 'pray in your dwellings' after the two ḥayya
+  time: a rainy night on a journey
+  quoted: ṣallū fī riḥālikum
+- id: h-1496.1-sandals
+  ref: Jāmiʿ 9:1496.1
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: the prophet's caller
+  action: calls 'pray in your dwellings'
+  instrument: rain too light to wet the sandal soles
+  place: al-Hudaybiya
+  quoted: lam tabulla asāfila niʿālinā
+- id: h-1494.2-itban
+  ref: Jāmiʿ 9:1494.2
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: Itban b. Malik, a Badr veteran losing his sight
+  action: asks the prophet to pray in his house to take it as a prayer place
+  place: his house, cut off when the valley floods
+  number: 2
+  quoted: sāla l-wādī lladhī baynī wa-baynahum
+  outcome: the prophet with Abu Bakr prays two rak'as there
+- id: h-1495.1-rahl
+  ref: Jāmiʿ 9:1495.1
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: the prophet
+  action: lets whoever wishes pray in his tent
+  time: rain on a journey
+  quoted: li-yuṣalli man shāʾa minkum fī raḥlih
+- id: h-1497.1-samura
+  ref: Jāmiʿ 9:1497.1
+  unit: hadith-9-rain-pray-in-dwellings
+  agent: the prophet
+  action: calls 'prayer in the dwellings'
+  instrument: rain (al-samāʾ)
+  quoted: al-ṣalātu fī l-riḥāl
+- id: h-1499.1-khutt
+  ref: Jāmiʿ 9:1499.1
+  unit: hadith-9-itban-house-prayer-place
+  agent: a blind man of the Ansar
+  action: asks the prophet to mark out a mosque in his house
+  quoted: taʿāla fa-khuṭṭa lī masjidan fī dārī
+  outcome: he comes and does it
+- id: h-1499.3-supper
+  ref: Jāmiʿ 9:1499.3
+  unit: hadith-9-supper-and-relief-before-prayer
+  action: begins with supper
+  time: when supper is set and the prayer is called
+  quoted: fa-bdaʾū bi-l-ʿashāʾ
+  outcome: does not hurry until finished
+- id: h-1499.3-imam
+  ref: Jāmiʿ 9:1499.3
+  unit: hadith-9-supper-and-relief-before-prayer
+  agent: Ibn Umar
+  action: keeps eating
+  time: while hearing the imam recite
+  quoted: wa-innahu la-yasmaʿu qirāʾata l-imām
+- id: h-1500.2-akhbathan
+  ref: Jāmiʿ 9:1500.2
+  unit: hadith-9-supper-and-relief-before-prayer
+  action: must not pray
+  time: with food present or needing relief
+  quoted: wa-lā huwa yudāfiʿuhu l-akhbathān
+- id: h-1501.1-sakina
+  ref: Jāmiʿ 9:1501.1
+  unit: hadith-9-come-calmly
+  action: come to prayer
+  instrument: with calm (sakīna), not running
+  quoted: fa-mā adraktum fa-ṣallū wa-mā fātakum fa-atimmū
+  outcome: pray what you catch, complete what you missed
+- id: h-1502.1-jalaba
+  ref: Jāmiʿ 9:1502.1
+  unit: hadith-9-come-calmly
+  agent: men
+  action: make noise hurrying to prayer
+  quoted: samiʿa jalabata rijāl
+  outcome: told not to do so
+- id: h-1503.1-iqama
+  ref: Jāmiʿ 9:1503.1
+  unit: hadith-9-no-prayer-at-iqama
+  action: no prayer but the prescribed
+  time: once the iqāma is called
+  quoted: fa-lā ṣalāta illā l-maktūba
+- id: h-1503.2-buthan
+  ref: Jāmiʿ 9:1503.2
+  unit: hadith-9-trench-afternoon-after-sunset
+  agent: the prophet
+  action: prays the afternoon prayer after sunset, then the sunset prayer
+  place: Buṭḥān
+  time: the day of the Trench
+  quoted: ṣallā l-ʿaṣra baʿda mā gharabati l-shams
+- id: h-1503.2-oath
+  ref: Jāmiʿ 9:1503.2
+  unit: hadith-9-trench-afternoon-after-sunset
+  agent: the prophet
+  action: swears he has not prayed it
+  recipient: Umar
+  quoted: fa-wallāhi in ṣallaytuhā
+- id: h-1504.1-propped
+  ref: Jāmiʿ 9:1504.1
+  unit: hadith-9-abu-qatada-sleeping-journey
+  agent: Abu Qatada
+  action: props up the dozing prophet without waking him
+  time:
+  - midnight (ibhārra l-layl)
+  - most of the night gone
+  - the last of the dawn-time
+  number: 3
+  quoted: ḥafiẓaka llāhu bimā ḥafiẓta bihi nabiyyah
+  outcome: prayer 'God guard you as you guarded his prophet'
+- id: h-1504.1-seven
+  ref: Jāmiʿ 9:1504.1
+  unit: hadith-9-abu-qatada-sleeping-journey
+  agent: seven riders
+  action: sleep through the dawn prayer
+  number: 7
+  quoted: iḥfaẓū ʿalaynā ṣalātanā
+  outcome: the prophet wakes first with the sun on his back
+- id: h-1504.1-mida
+  ref: Jāmiʿ 9:1504.1
+  unit: hadith-9-abu-qatada-sleeping-journey
+  agent: the prophet
+  action: pours from the flask while Abu Qatada gives drink
+  object: the ablution flask (mīḍaʾa)
+  quoted: fa-sa-yakūnu lahā nabaʾ
+  outcome: all drink and come to the water rested and satisfied
+- id: h-1504.1-saqi
+  ref: Jāmiʿ 9:1504.1
+  unit: hadith-9-abu-qatada-sleeping-journey
+  agent: the prophet
+  action: drinks last
+  recipient: Abu Qatada drinks before him
+  quoted: sāqī l-qawmi ākhiruhum shurban
+- id: h-1504.1-tafrit
+  ref: Jāmiʿ 9:1504.1
+  unit: hadith-9-abu-qatada-sleeping-journey
+  agent: the prophet
+  action: answers the riders whispering about expiation
+  quoted: laysa fī l-nawmi tafrīṭ
+- id: h-1506.1-fractions
+  ref: Jāmiʿ 9:1506.1
+  unit: hadith-9-prayer-credited-in-fractions
+  action: finishes his prayer
+  number:
+  - 1/10
+  - 1/9
+  - 1/8
+  - 1/7
+  - 1/6
+  - 1/5
+  - 1/4
+  - 1/3
+  - 1/2
+  quoted: wa-mā kutiba illā ʿushru ṣalātihi
+  outcome: credited with a fraction from a tenth to a half
+- id: h-1508.2-imaa
+  ref: Jāmiʿ 9:1508.2
+  unit: hadith-9-women-to-the-mosque
+  action: must not prevent
+  recipient: the handmaids of God (imāʾ allāh)
+  place: the mosques of God
+  quoted: lā tamnaʿū imāʾa llāhi masājida llāh
+- id: h-1507.2-jealous
+  ref: Jāmiʿ 9:1507.2
+  unit: hadith-9-women-to-the-mosque
+  agent: Umar's wife
+  action: attends the dawn and night prayers in the mosque
+  recipient: Umar, who is jealous
+  quoted: yakrahu dhālika wa-yaghār
+  outcome: he does not forbid her
+- id: h-1508.2-tafilat
+  ref: Jāmiʿ 9:1508.2
+  unit: hadith-9-women-to-the-mosque
+  agent: women
+  action: go out to the mosque
+  instrument: unperfumed (tafilāt)
+  quoted: wa-hunna tafilāt
+- id: h-1508.4-today
+  ref: Jāmiʿ 9:1508.4
+  unit: hadith-9-women-to-the-mosque
+  agent: Aisha
+  action: judges the women of her day
+  quoted: law raʾā ḥālahunna l-yawma manaʿahunna
+- id: h-1509.2-bakhur
+  ref: Jāmiʿ 9:1509.2
+  unit: hadith-9-women-to-the-mosque
+  agent: a woman
+  action: must not attend the night prayer
+  instrument: incense (bakhūr) on her
+  time: the last night prayer
+  quoted: aṣābat bakhūran
+- id: h-1509.3-ghusl
+  ref: Jāmiʿ 9:1509.3
+  unit: hadith-9-women-to-the-mosque
+  agent: a perfumed woman
+  action: must wash as from janāba
+  quoted: ḥattā taghtasila ghuslahā mina l-janāba
+  outcome: otherwise no prayer accepted
+- id: h-1510.1-kadha
+  ref: Jāmiʿ 9:1510.1
+  unit: hadith-9-women-to-the-mosque
+  agent: a woman
+  action: passes men so they smell her perfume
+  quoted: fa-hiya kadhā wa-kadhā
+  outcome: called 'such and such'
+- id: h-1509.1-tib
+  ref: Jāmiʿ 9:1509.1
+  unit: hadith-9-women-to-the-mosque
+  agent: a woman
+  action: must not perfume herself
+  time: the night she attends the night prayer
+  quoted: fa-lā taṭayyab tilka l-layla
+- id: h-1508.1-buyut
+  ref: Jāmiʿ 9:1508.1
+  unit: hadith-9-women-to-the-mosque
+  recipient: women
+  action: must not be kept from the mosques
+  outcome: their houses are better for them
+  quoted: wa-buyūtuhunna khayrun lahunna
+- id: h-1511.1-makhda
+  ref: Jāmiʿ 9:1511.1
+  unit: hadith-9-woman-prayer-innermost-room
+  agent: a woman
+  action: prays
+  place:
+  - closet (makhdaʿ)
+  - house
+  - chamber
+  quoted: wa-ṣalātuhā fī makhdaʿihā afḍalu
+  outcome: the further inside the better
+- id: h-1511.2-ladder
+  ref: Jāmiʿ 9:1511.2
+  unit: hadith-9-woman-prayer-innermost-room
+  agent: the prophet
+  action: ranks the places of a woman's prayer
+  recipient: Umm Humayd, who loves to pray with him
+  place:
+  - house
+  - chamber
+  - courtyard
+  - her people's mosque
+  - the prophet's mosque
+  number: 5
+  quoted: wa-ṣalātuki fī masjidi qawmiki khayrun laki min ṣalātiki fī masjidī
+- id: h-1511.2-darkest
+  ref: Jāmiʿ 9:1511.2
+  unit: hadith-9-woman-prayer-innermost-room
+  agent: Umm Humayd
+  action: has a mosque built in her house
+  place: the furthest, darkest part of her house
+  time: until her death
+  quoted: fī aqṣā shayʾin min baytihā wa-aẓlamih
+- id: h-1512.1-qar
+  ref: Jāmiʿ 9:1512.1
+  unit: hadith-9-woman-prayer-innermost-room
+  agent: women
+  action: pray
+  place: the depth of their houses
+  quoted: khayru masājidi l-nisāʾi qaʿru buyūtihinn
+- id: h-1513.1-war
+  ref: Jāmiʿ 9:1513.1
+  unit: hadith-9-friend-of-god-and-nawafil
+  agent: God
+  action: declares war
+  recipient: whoever is hostile to his friend
+  quoted: faqad ādhantuhu bi-l-ḥarb
+- id: h-1513.1-sama
+  ref: Jāmiʿ 9:1513.1
+  unit: hadith-9-friend-of-god-and-nawafil
+  agent: God
+  action: becomes the servant's organs
+  object:
+  - hearing
+  - sight
+  - hand
+  - foot
+  recipient: the servant he loves
+  number: 4
+  quoted: kuntu samʿahu lladhī yasmaʿu bih
+- id: h-1513.1-taraddud
+  ref: Jāmiʿ 9:1513.1
+  unit: hadith-9-friend-of-god-and-nawafil
+  agent: God
+  action: hesitates
+  object: the believer's soul
+  quoted: wa-mā taraddadtu ʿan shayʾin anā fāʿiluhu taraddudī ʿan nafsi l-muʾmin
+- id: h-1514.1-grave
+  ref: Jāmiʿ 9:1514.1
+  unit: hadith-9-two-rakas-dearer-to-the-dead
+  agent: the prophet
+  action: passes a grave and asks whose it is
+  number: 2
+  quoted: rakʿatāni aḥabbu ilā hādhā min baqiyyati dunyākum
+  outcome: two rak'as dearer to the dead man than the rest of the world
+- id: h-1514.2-matroom
+  ref: Jāmiʿ 9:1514.2
+  unit: hadith-9-voluntary-prayer-at-home
+  agent: the prophet
+  action: prays at night in a small room screened with a palm mat
+  place: a ḥujayra of khaṣafa or ḥaṣīr
+  quoted: iḥtajara ḥujayratan bi-khaṣafatin aw ḥaṣīr
+  outcome: stays in when they gather
+- id: h-1514.2-pebbles
+  ref: Jāmiʿ 9:1514.2
+  unit: hadith-9-voluntary-prayer-at-home
+  agent: the people
+  action: raise voices and throw pebbles at the door
+  quoted: wa-ḥaṣabū l-bāb
+  outcome: the prophet comes out angry
+- id: h-1517.1-sunnamaghrib
+  ref: Jāmiʿ 9:1517.1
+  unit: hadith-9-voluntary-prayer-at-home
+  agent: the prophet
+  action: tells the mosque of Banu ʿAbd al-Ashhal to pray the two after sunset at home
+  time: after the sunset prayer
+  quoted: irkaʿū hātayni l-rakʿatayni fī buyūtikum
+- id: h-1515.1-hayy
+  ref: Jāmiʿ 9:1515.1
+  unit: hadith-9-voluntary-prayer-at-home
+  action: compares two houses
+  object: the house where God is remembered
+  quoted: mathalu l-ḥayyi wa-l-mayyit
+  outcome: like the living against the dead
+- id: h-1515.2-baqara
+  ref: Jāmiʿ 9:1515.2
+  unit: hadith-9-voluntary-prayer-at-home
+  agent: Satan
+  action: flees
+  place: the house where al-Baqara is read
+  quoted: yanfiru mina l-bayti lladhī tuqraʾu fīhi sūratu l-baqara
+- id: h-1515.3-nasib
+  ref: Jāmiʿ 9:1515.3
+  unit: hadith-9-voluntary-prayer-at-home
+  action: gives his house a share of his prayer
+  outcome: God puts good in his house from it
+  quoted: fa-l-yajʿal li-baytihi naṣīban min ṣalātih
+- id: h-1514.3-qubur
+  ref: Jāmiʿ 9:1514.3
+  unit: hadith-9-voluntary-prayer-at-home
+  action: pray part of your prayer at home
+  outcome: do not take houses as graves
+  quoted: wa-lā tattakhidhūhā qubūran
+- id: h-1516.1-aqrab
+  ref: Jāmiʿ 9:1516.1
+  unit: hadith-9-voluntary-prayer-at-home
+  agent: the prophet
+  action: prefers praying at home to the mosque except the prescribed
+  recipient: Abd Allah b. Sad
+  quoted: mā aqrabahu mina l-masjid
+- id: h-1518.1-twelve
+  ref: Jāmiʿ 9:1518.1
+  unit: hadith-9-twelve-rakas-and-regular-sunna
+  action: prays twelve voluntary rak'as a day and night
+  number: 12
+  quoted: buniya lahu bihinna baytun fī l-janna
+  outcome: a house built in paradise
+- id: h-1520.1-aishalist
+  ref: Jāmiʿ 9:1520.1
+  unit: hadith-9-twelve-rakas-and-regular-sunna
+  agent: the prophet
+  action: prays voluntary rak'as at home
+  place: Aisha's house
+  number:
+  - 4
+  - 2
+  - 2
+  - 2
+  - 9
+  - 2
+  quoted: tisʿa rakaʿātin fīhinna l-witr
+- id: h-1520.1-sitting
+  ref: Jāmiʿ 9:1520.1
+  unit: hadith-9-twelve-rakas-and-regular-sunna
+  agent: the prophet
+  action: bows and prostrates from the posture he recited in
+  quoted: wa-idhā qaraʾa qāʿidan rakaʿa wa-sajada wa-huwa qāʿid
+  outcome: standing if he recited standing, sitting if sitting
+- id: h-1521.1-ibnumar
+  ref: Jāmiʿ 9:1521.1
+  unit: hadith-9-twelve-rakas-and-regular-sunna
+  agent: the prophet
+  action: prays pairs of voluntary rak'as
+  place: at home after sunset and Friday
+  number:
+  - 2
+  - 2
+  - 2
+  - 2
+  - 2
+  quoted: lā yuṣallī baʿda l-jumuʿati ḥattā yanṣarif
+- id: h-1521.2-sixteen
+  ref: Jāmiʿ 9:1521.2
+  unit: hadith-9-ali-sixteen-day-rakas
+  agent: the prophet
+  action: prays daytime voluntary rak'as
+  time:
+  - sun in the east at the height of the afternoon
+  - sun in the east at the height of noon
+  - before noon
+  - after noon
+  - before the afternoon prayer
+  number:
+  - 2
+  - 4
+  - 4
+  - 2
+  - 4
+  - 16
+  quoted: fa-tilka sitta ʿashrata rakʿa
+- id: h-1521.2-gold
+  ref: Jāmiʿ 9:1521.2
+  unit: hadith-9-ali-sixteen-day-rakas
+  agent: Habib b. Abi Thabit
+  action: values the hadith above gold
+  recipient: Abu Ishaq
+  quoted: milʾa masjidika hādhā dhahaban
+- id: h-1523.2-dunya
+  ref: Jāmiʿ 9:1523.2
+  unit: hadith-9-dawn-sunna-merit
+  object: the two rak'as of dawn
+  number: 2
+  quoted: khayrun mina l-dunyā wa-mā fīhā
+  outcome: better than the world and what is in it
+- id: h-1523.1-taahud
+  ref: Jāmiʿ 9:1523.1
+  unit: hadith-9-dawn-sunna-merit
+  agent: the prophet
+  action: keeps the two rak'as of dawn most faithfully
+  number: 2
+  quoted: ashadda minhu taʿāhudan
+- id: h-1524.1-verses
+  ref: Jāmiʿ 9:1524.1
+  unit: hadith-9-dawn-sunna-recitation
+  agent: the prophet
+  action: recites verses of belief in the two dawn rak'as
+  object:
+  - Q 2:136
+  - Q 3:52
+  - Q 3:64
+  quoted: qūlū āmannā bi-llāh; taʿālaw ilā kalimatin sawāʾ
+- id: h-1524.2-verses2
+  ref: Jāmiʿ 9:1524.2
+  unit: hadith-9-dawn-sunna-recitation
+  agent: the prophet
+  action: recites in the two dawn rak'as
+  object:
+  - Q 3:84
+  - Q 3:53 or Q 2:119
+  quoted: rabbanā āmannā bimā anzalta wa-ttabaʿnā l-rasūl
+- id: h-1525.1-month
+  ref: Jāmiʿ 9:1525.1
+  unit: hadith-9-dawn-sunna-recitation
+  agent: Ibn Umar
+  action: watches the prophet for a month
+  object:
+  - al-Kafirun
+  - al-Ikhlas
+  time: a month
+  quoted: ramaqtu l-nabiyya shahran
+- id: h-1525.2-arafa
+  ref: Jāmiʿ 9:1525.2
+  unit: hadith-9-dawn-sunna-recitation
+  agent: the prophet
+  action: comments on each sura as the man finishes it
+  object:
+  - al-Kafirun
+  - al-Ikhlas
+  quoted: hādhā ʿabdun ʿarafa rabbah; hādhā ʿabdun āmana bi-rabbih
+- id: h-1526.2-umm
+  ref: Jāmiʿ 9:1526.2
+  unit: hadith-9-dawn-sunna-light-and-time
+  agent: Aisha
+  action: wonders whether he recited al-Fatiha
+  object: the two light dawn rak'as
+  quoted: hal qaraʾa bi-ummi l-kitāb am lā
+- id: h-1526.1-silent
+  ref: Jāmiʿ 9:1526.1
+  unit: hadith-9-dawn-sunna-light-and-time
+  agent: the prophet
+  action: prays two light rak'as
+  time: when the caller falls silent, before the iqāma
+  number: 2
+  quoted: idhā sakata l-muʾadhdhin
+- id: h-1527.3-wudu
+  ref: Jāmiʿ 9:1527.3
+  unit: hadith-9-dawn-sunna-light-and-time
+  agent: the prophet
+  action: prays two after ablution, then goes out to the prayer
+  number: 2
+  quoted: idhā tawaḍḍaʾa ṣallā rakʿatayn
+- id: h-1527.2-khaffaf
+  ref: Jāmiʿ 9:1527.2
+  unit: hadith-9-dawn-sunna-light-and-time
+  agent: the prophet
+  action: prays the two of dawn lightly
+  time: on hearing the call
+  quoted: yukhaffifuhumā
+- id: h-1527.4-four
+  ref: Jāmiʿ 9:1527.4
+  unit: hadith-9-dawn-sunna-at-iqama
+  agent: the prophet
+  action: rebukes a man praying after the iqāma
+  time: dawn iqāma
+  number: 4
+  quoted: āl-ṣubḥa arbaʿan
+- id: h-1528.3-pulled
+  ref: Jāmiʿ 9:1528.3
+  unit: hadith-9-dawn-sunna-at-iqama
+  agent: the prophet
+  action: pulls the man by his garment
+  recipient: Ibn Abbas (in Ahmad's version)
+  quoted: fa-jadhaba ... bi-thawbih
+- id: h-1528.1-itadadta
+  ref: Jāmiʿ 9:1528.1
+  unit: hadith-9-dawn-sunna-at-iqama
+  agent: the prophet
+  action: asks the late man which prayer he counted
+  quoted: bi-ayyi l-ṣalātayni ʿtadadta
+- id: h-1530.1-nudge
+  ref: Jāmiʿ 9:1530.1
+  unit: hadith-9-dawn-sunna-at-iqama
+  agent: the prophet
+  action: nudges the man's shoulder
+  time: as the caller begins the iqāma
+  quoted: a-lā kāna hādhā qabla hādhā
+- id: h-1528.2-maktuba
+  ref: Jāmiʿ 9:1528.2
+  unit: hadith-9-dawn-sunna-at-iqama
+  time: once the iqāma is called
+  action: no prayer but the prescribed
+  quoted: fa-lā ṣalāta illā l-maktūba
+- id: h-1529.1-maan
+  ref: Jāmiʿ 9:1529.1
+  unit: hadith-9-dawn-sunna-at-iqama
+  agent: the prophet
+  action: forbids praying in the mosque after the iqāma
+  recipient: people praying two in haste
+  quoted: a-ṣalātāni maʿan
+- id: h-1531.1-silent
+  ref: Jāmiʿ 9:1531.1
+  unit: hadith-9-dawn-sunna-made-up
+  agent: Qays b. Amr
+  action: prays the missed two after the dawn prayer
+  quoted: fa-sakata rasūlu llāh
+  outcome: the prophet is silent
+- id: h-1530.2-qada
+  ref: Jāmiʿ 9:1530.2
+  unit: hadith-9-dawn-sunna-made-up
+  agent: the prophet
+  action: makes up the two of dawn
+  time: after sunrise, having slept through them
+  quoted: fa-qaḍāhumā baʿda mā ṭalaʿati l-shams
+- id: h-1534.1-right
+  ref: Jāmiʿ 9:1534.1
+  unit: hadith-9-lying-down-after-dawn-two
+  agent: the prophet
+  action: lies down on his right side
+  time: after the two of dawn
+  quoted: iḍṭajaʿa ʿalā shiqqihi l-ayman
+- id: h-1535.1-talk
+  ref: Jāmiʿ 9:1535.1
+  unit: hadith-9-lying-down-after-dawn-two
+  agent: the prophet
+  action: talks with Aisha if she is awake
+  quoted: in kuntu mustayqiẓatan ḥaddathanī
+  outcome: else lies down until the call
+- id: h-1535.2-flesh
+  ref: Jāmiʿ 9:1535.2
+  unit: hadith-9-noon-voluntary
+  action: prays four before and four after noon
+  number:
+  - 4
+  - 4
+  quoted: ḥarrama llāhu laḥmahu ʿalā l-nār
+  outcome: God forbids his flesh to the fire
+- id: h-1536.2-gates
+  ref: Jāmiʿ 9:1536.2
+  unit: hadith-9-noon-voluntary
+  agent: the prophet
+  action: prays four
+  time: after the zenith, before noon prayer
+  number: 4
+  quoted: sāʿatun tuftaḥu fīhā abwābu l-samāʾ
+  outcome: the gates of heaven open; a deed rises
+- id: h-1536.1-layada
+  ref: Jāmiʿ 9:1536.1
+  unit: hadith-9-noon-voluntary
+  agent: the prophet
+  action: never leaves
+  object:
+  - four before noon
+  - two before the morning prayer
+  number:
+  - 4
+  - 2
+  quoted: lā yadaʿu arbaʿan qabla l-ẓuhr
+- id: h-1538.1-rahima
+  ref: Jāmiʿ 9:1538.1
+  unit: hadith-9-afternoon-voluntary
+  action: prays four before the afternoon prayer
+  number: 4
+  quoted: raḥima llāhu mraʾan
+  outcome: the prophet prays mercy on him
+- id: h-1539.1-taslim
+  ref: Jāmiʿ 9:1539.1
+  unit: hadith-9-afternoon-voluntary
+  agent: the prophet
+  action: prays four before the afternoon prayer, separating them
+  instrument: the greeting on the angels brought near and their followers
+  number: 4
+  quoted: yafṣilu baynahunna bi-l-taslīm
+- id: h-1539.2-two
+  ref: Jāmiʿ 9:1539.2
+  unit: hadith-9-afternoon-voluntary
+  agent: the prophet
+  action: prays two before the afternoon prayer
+  number: 2
+  quoted: kāna yuṣallī qabla l-ʿaṣri rakʿatayn
+- id: h-1539.3-pillars
+  ref: Jāmiʿ 9:1539.3
+  unit: hadith-9-before-maghrib-and-between-calls
+  agent: the people of Medina
+  action: race to the pillars and pray two each
+  place: the pillars of the mosque
+  time: between the sunset call and prayer
+  quoted: ibtadarū l-sawārī
+  outcome: a stranger thinks the prayer is over
+- id: h-1539.4-shughl
+  ref: Jāmiʿ 9:1539.4
+  unit: hadith-9-before-maghrib-and-between-calls
+  agent: Uqba b. Amir
+  action: no longer prays the two before sunset
+  quoted: qāla l-shughl
+  outcome: '''business'' (al-shughl)'
+- id: h-1540.3-third
+  ref: Jāmiʿ 9:1540.3
+  unit: hadith-9-before-maghrib-and-between-calls
+  agent: the prophet
+  action: says 'between every two calls a prayer'
+  number: 3
+  quoted: bayna kulli adhānayni ṣalāh ... li-man shāʾ
+  outcome: adds 'for whoever wishes' the third time
+- id: h-1540.2-hands
+  ref: Jāmiʿ 9:1540.2
+  unit: hadith-9-before-maghrib-and-between-calls
+  agent: Umar
+  action: strikes the hands of those praying
+  time: after the afternoon prayer
+  quoted: yaḍribu l-aydī
+- id: h-1541.1-mother
+  ref: Jāmiʿ 9:1541.1
+  unit: hadith-9-between-maghrib-and-isha
+  agent: Hudhayfa's mother
+  action: threatens him for staying away from the prophet
+  quoted: fa-hammat bī
+  outcome: he goes to have forgiveness asked for both
+- id: h-1541.1-between
+  ref: Jāmiʿ 9:1541.1
+  unit: hadith-9-between-maghrib-and-isha
+  agent: the prophet
+  action: prays continuously
+  time: from the sunset prayer until the night prayer
+  quoted: fa-lam yazal yuṣallī ḥattā ṣallā l-ʿishāʾ
+- id: h-1541.2-reckon
+  ref: Jāmiʿ 9:1541.2
+  unit: hadith-9-deficit-made-up-from-voluntary
+  agent: God
+  action: tells his angels to look for voluntary prayer
+  recipient: a servant whose prayer is incomplete
+  time: resurrection day
+  quoted: hal tajidūna li-ʿabdī min taṭawwuʿ
+  outcome: the obligatory completed from it, then all deeds likewise
+- id: h-1544.1-maqsura
+  ref: Jāmiʿ 9:1544.1
+  unit: hadith-9-separating-prayer-from-prayer
+  agent: Muawiya
+  action: sends for al-Saib who prayed in his place after Friday
+  place: the maqṣūra
+  quoted: lā tūṣalu ṣalātun bi-ṣalātin ḥattā natakallama aw nakhruja
+- id: h-1545.1-fasl
+  ref: Jāmiʿ 9:1545.1
+  unit: hadith-9-separating-prayer-from-prayer
+  agent: Umar
+  action: makes a man sit after the afternoon prayer
+  quoted: innamā halaka ahlu l-kitābi annahu lam yakun li-ṣalātihim faṣl
+  outcome: the prophet approves
+- id: h-1548.1-labasa
+  ref: Jāmiʿ 9:1548.1
+  unit: hadith-9-forgetfulness-doubt
+  agent: Satan
+  action: confuses the worshipper
+  number: 2
+  quoted: jāʾahu l-shayṭānu fa-labasa ʿalayh
+  outcome: two prostrations sitting
+- id: h-1549.1-durat
+  ref: Jāmiʿ 9:1549.1
+  unit: hadith-9-forgetfulness-doubt
+  agent: Satan
+  action: flees the call breaking wind, returns to whisper
+  time:
+  - at the call
+  - at the iqāma
+  quoted: adbara l-shayṭānu wa-lahu ḍurāṭ
+  outcome: the man does not know how many he prayed
+- id: h-1549.2-targhim
+  ref: Jāmiʿ 9:1549.2
+  unit: hadith-9-forgetfulness-doubt
+  action: builds on certainty and prostrates twice before the greeting
+  number:
+  - 3
+  - 4
+  - 5
+  - 2
+  quoted: kānatā targhīman li-l-shayṭān
+  outcome: five made even, or four with Satan humiliated
+- id: h-1551.1-tala
+  ref: Jāmiʿ 9:1551.1
+  unit: hadith-9-forgetfulness-doubt
+  agent: Satan
+  action: toys with worshippers in prayer
+  quoted: an yatalaʿʿaba bikumu l-shayṭān
+  outcome: two prostrations complete the prayer
+- id: h-1552.1-rakaa
+  ref: Jāmiʿ 9:1552.1
+  unit: hadith-9-forgetfulness-doubt
+  action: adds a rak'a and prostrates twice
+  time: in doubt between three and four
+  number:
+  - 1
+  - 2
+  quoted: fa-l-yarkaʿ rakʿatan
+- id: h-1552.2-yaqin
+  ref: Jāmiʿ 9:1552.2
+  unit: hadith-9-forgetfulness-doubt
+  action: casts off doubt and builds on certainty
+  time: in doubt between two and three
+  quoted: fa-l-yulqi l-shakk
+- id: h-1553.1-yadayn
+  ref: Jāmiʿ 9:1553.1
+  unit: hadith-9-dhul-yadayn
+  agent: Dhu l-Yadayn
+  action: asks if the prayer was shortened or forgotten
+  number: 2
+  quoted: a-quṣirati l-ṣalātu am nasīta
+  outcome: the prophet prays two more, greets, prostrates twice as long or longer
+- id: h-1554.1-khirbaq
+  ref: Jāmiʿ 9:1554.1
+  unit: hadith-9-dhul-yadayn
+  agent: al-Khirbaq
+  action: tells the prophet he greeted after three
+  place: the prophet's house
+  number:
+  - 3
+  - 1
+  - 2
+  name: al-Khirbaq
+  quoted: kāna fī yadayhi ṭūl
+  outcome: one rak'a added, greeting, two prostrations, greeting
+- id: h-1556.1-five
+  ref: Jāmiʿ 9:1556.1
+  unit: hadith-9-dhul-yadayn
+  agent: the prophet
+  action: prays the noon prayer with five rak'as
+  number: 5
+  quoted: a-zīda fī l-ṣalāh
+  outcome: two prostrations after the greeting
+- id: h-1555.1-ibnumar
+  ref: Jāmiʿ 9:1555.1
+  unit: hadith-9-dhul-yadayn
+  agent: the prophet
+  action: denies shortening or forgetting, then completes two and prostrates
+  outcome: two rak'as, greeting, prostrations of forgetting
+  quoted: mā quṣirat wa-mā nasītu
+- id: h-1558.1-buhayna
+  ref: Jāmiʿ 9:1558.1
+  unit: hadith-9-prostration-before-greeting
+  agent: the prophet
+  action: skips the middle sitting, prostrates twice before the greeting
+  number: 2
+  quoted: sajada sajdatayni wa-huwa jālisun qabla l-taslīm
+- id: h-1559.1-mughira
+  ref: Jāmiʿ 9:1559.1
+  unit: hadith-9-rising-from-two-without-sitting
+  agent: al-Mughira b. Shuba
+  action: rises from the second rak'a, gestures and goes on
+  quoted: fa-awmaʾa wa-qāla subḥāna llāh
+  outcome: two prostrations after the greeting
+- id: h-1560.1-amr
+  ref: Jāmiʿ 9:1560.1
+  unit: hadith-9-rising-from-two-without-sitting
+  agent: Amr b. al-As
+  action: keeps standing despite the people's 'subhan allah'
+  quoted: lam yamnaʿnī mina l-julūsi illā lladhī ṣanaʿtu mina l-sunna
+  outcome: two prostrations at the end; 'the sunna'
+- id: h-1560.2-uqba
+  ref: Jāmiʿ 9:1560.2
+  unit: hadith-9-rising-from-two-without-sitting
+  agent: Uqba b. Amir
+  action: keeps standing despite the people's 'subhan allah'
+  quoted: lākinna l-sunnata lladhī ṣanaʿtu
+  outcome: two prostrations sitting before the greeting
+- id: h-1561.1-abuhurayra
+  ref: Jāmiʿ 9:1561.1
+  unit: hadith-9-rising-from-two-without-sitting
+  agent: the prophet
+  action: stands up from the second rak'a and goes on
+  outcome: two prostrations, then the greeting
+  quoted: fa-sabbaḥū bihi fa-maḍā fī ṣalātih
+- id: h-1561.2-talha
+  ref: Jāmiʿ 9:1561.2
+  unit: hadith-9-talha-one-raka-forgotten
+  agent: the prophet
+  action: returns, has Bilal call the iqāma, prays the forgotten rak'a
+  recipient: the people
+  number: 1
+  name: Talha b. Ubayd Allah
+  quoted: wa-amara bilālan fa-aqāma l-ṣalāh
+- id: h-1563.1-three
+  ref: Jāmiʿ 9:1563.1
+  unit: hadith-9-three-forbidden-hours
+  action: no prayer and no burial
+  time:
+  - sunrise until it rises
+  - noon standing until it declines
+  - as it inclines to set until it sets
+  number: 3
+  quoted: aw naqbura fīhinna mawtānā
+- id: h-1563.2-horns
+  ref: Jāmiʿ 9:1563.2
+  unit: hadith-9-three-forbidden-hours
+  action: rises and sets between Satan's two horns
+  object: the sun
+  quoted: bayna qarnay shayṭān wa-ḥīnaʾidhin yasjudu lahā l-kuffār
+  outcome: unbelievers prostrate to it then
+- id: h-1563.2-sajr
+  ref: Jāmiʿ 9:1563.2
+  unit: hadith-9-three-forbidden-hours
+  action: is stoked
+  object: hell
+  time: noon, when the shadow stands with the spear
+  quoted: fa-inna ḥīnaʾidhin tusjaru jahannam
+- id: h-1565.1-harr
+  ref: Jāmiʿ 9:1565.1
+  unit: hadith-9-three-forbidden-hours
+  action: prayer forbidden
+  time:
+  - after the afternoon prayer till sunset
+  - after the dawn prayer till sunrise
+  - midday in intense heat
+  quoted: wa-bi-niṣfi l-nahār, fī shiddati l-ḥarr
+- id: h-1564.1-safwan
+  ref: Jāmiʿ 9:1564.1
+  unit: hadith-9-three-forbidden-hours
+  agent: Safwan b. al-Muattal
+  action: asks whether any hour is disliked for prayer
+  outcome: refrain at sunrise, when the sun is over the head like a spear, and after the afternoon prayer
+  quoted: ḥattā tazīgha l-shamsu ʿan ḥājibika l-ayman
+- id: h-1566.1-abbas
+  ref: Jāmiʿ 9:1566.1
+  unit: hadith-9-no-prayer-after-dawn-and-asr
+  agent: men of good standing, the most approved being Umar
+  action: testify to Ibn Abbas of the prohibition
+  quoted: wa-arḍāhum ʿindī ʿumar
+- id: h-1567.4-kaba
+  ref: Jāmiʿ 9:1567.4
+  unit: hadith-9-no-prayer-after-dawn-and-asr
+  agent: the prophet
+  action: preaches the prohibition
+  place: leaning his back on the Kaaba
+  quoted: wa-huwa musnidun ẓahrahu ilā l-kaʿba
+- id: h-1567.3-shahid
+  ref: Jāmiʿ 9:1567.3
+  unit: hadith-9-no-prayer-after-dawn-and-asr
+  agent: the prophet
+  action: prays the afternoon prayer and speaks of it
+  place: al-Mukhammas
+  number: 2
+  quoted: ḥattā yaṭluʿa l-shāhid wa-l-shāhidu l-najm
+  outcome: earlier peoples lost it; double reward; no prayer till the star appears
+- id: h-1567.2-muawiya
+  ref: Jāmiʿ 9:1567.2
+  unit: hadith-9-no-prayer-after-dawn-and-asr
+  agent: Muawiya
+  action: rebukes those praying two after the afternoon prayer
+  quoted: fa-mā raʾaynāhu yuṣallīhā
+- id: h-1568.1-salama
+  ref: Jāmiʿ 9:1568.1
+  unit: hadith-9-no-prayer-after-dawn-and-asr
+  agent: Salama b. al-Akwa
+  action: never saw the prophet pray after the afternoon or dawn prayer
+  place: on journeys
+  quoted: fa-mā raʾaytuhu ṣallā baʿda l-ʿaṣr
+- id: h-1569.1-ali
+  ref: Jāmiʿ 9:1569.1
+  unit: hadith-9-no-prayer-after-dawn-and-asr
+  agent: the prophet
+  action: prays two after every prescribed prayer
+  outcome: except dawn and afternoon
+  number: 2
+  quoted: illā l-fajra wa-l-ʿaṣr
+- id: h-1571.3-wahima
+  ref: Jāmiʿ 9:1571.3
+  unit: hadith-9-not-at-sunrise-or-sunset
+  agent: Aisha
+  action: says Umar was mistaken
+  quoted: wahima ʿumar
+  outcome: only aiming at sunrise and sunset forbidden
+- id: h-1572.1-bilal
+  ref: Jāmiʿ 9:1572.1
+  unit: hadith-9-not-at-sunrise-or-sunset
+  agent: Bilal
+  action: reports the only forbidden time
+  time: sunrise
+  quoted: lam yakun yunhā ʿan al-ṣalāti illā ʿinda ṭulūʿi l-shams
+- id: h-1573.1-bayna
+  ref: Jāmiʿ 9:1573.1
+  unit: hadith-9-not-at-sunrise-or-sunset
+  action: pray as you wish
+  time: between sunrise and sunset
+  quoted: wa-ṣallū bayna dhālika mā shiʾtum
+- id: h-1574.1-sirran
+  ref: Jāmiʿ 9:1574.1
+  unit: hadith-9-two-after-asr
+  agent: the prophet
+  action: never leaves two after the afternoon prayer
+  place: Aisha's house
+  quoted: lā sirran wa-lā ʿalāniya
+- id: h-1574.3-kurayb
+  ref: Jāmiʿ 9:1574.3
+  unit: hadith-9-two-after-asr
+  agent: Ibn Abbas, al-Miswar and Abd al-Rahman b. Azhar
+  action: send Kurayb to Aisha, who sends him to Umm Salama
+  quoted: sal umma salama
+  outcome: the explanation of the two after the afternoon
+- id: h-1574.3-jariya
+  ref: Jāmiʿ 9:1574.3
+  unit: hadith-9-two-after-asr
+  agent: Umm Salama's maid
+  action: stands at his side and asks, then stands back at his signal
+  recipient: the prophet at prayer
+  name: Abd al-Qays
+  quoted: fa-in ashāra bi-yadihi fa-staʾkhirī ʿanhu
+  outcome: the Abd al-Qays kept him from the two after noon
+- id: h-1574.2-athbata
+  ref: Jāmiʿ 9:1574.2
+  unit: hadith-9-two-after-asr
+  agent: the prophet
+  action: makes up the two missed before the afternoon prayer after it, then keeps them
+  quoted: wa-kāna idhā ṣallā ṣalātan athbatahā
+- id: h-1576.1-ibnzubayr
+  ref: Jāmiʿ 9:1576.1
+  unit: hadith-9-two-after-asr
+  agent: Ibn al-Zubayr
+  action: prays two after the afternoon prayer on Aisha's report
+  quoted: lam yadkhul baytahā illā ṣallāhumā
+- id: h-1577.1-white
+  ref: Jāmiʿ 9:1577.1
+  unit: hadith-9-asr-while-sun-high
+  action: allowed
+  object: prayer after the afternoon prayer
+  time: while the sun is white, pure and high
+  quoted: bayḍāʾa naqiyyatan murtafiʿa
+- id: h-1579.1-abdmanaf
+  ref: Jāmiʿ 9:1579.1
+  unit: hadith-9-mecca-any-hour
+  agent: the prophet
+  action: orders not to prevent
+  object: those circling and praying at the House
+  recipient: Banu Abd Manaf
+  time: any hour of night or day
+  name: Banu Abd Manaf
+  quoted: ayya sāʿatin shāʾa min laylin aw nahār
+- id: h-1580.1-kaffara
+  ref: Jāmiʿ 9:1580.1
+  unit: hadith-9-forgotten-prayer
+  action: prays the forgotten prayer when he remembers it
+  quoted: lā kaffārata lahā illā dhālik
+  outcome: no expiation but that
+- id: h-1581.1-ghad
+  ref: Jāmiʿ 9:1581.1
+  unit: hadith-9-forgotten-prayer
+  action: prays the slept-through prayer when he wakes
+  time: and the next day at its proper time
+  quoted: fa-idhā kāna l-ghadu fa-l-yuṣallihā ʿinda waqtihā
+- id: h-1582.2-amwat
+  ref: Jāmiʿ 9:1582.2
+  unit: hadith-9-forgotten-prayer
+  agent: God
+  action: returns the spirits of the sleepers
+  recipient: the army that slept till sunrise
+  quoted: innakum kuntum amwātan fa-radda llāhu ilaykum arwāḥakum

@@ -1,0 +1,1947 @@
+# Hadith chunk 29: al-Jāmiʿ al-Kāmil book 8 (kitāb al-tayammum, pp. 1103-1114, printed 2/323-334) and book 9
+# (kitāb al-ṣalāt, pp. 1115-1222, printed 2/335-442): duty and merit of prayer, the times (Gabriel's leading, the
+# middle prayer, the delayed night prayer), and the call (its beginning in a dream, its wording, the two dawn calls,
+# answering it). Read in full from the Arabic (193 hadith).
+new_motifs:
+  father-jabs-daughter-while-prophet-sleeps-on-her-thigh:
+    label: Her father reproaches her and jabs her flank with his hand; she does not stir because the Prophet sleeps with his head on her thigh
+    cluster: sira
+  earths-soil-purifies-when-water-lacking:
+    label: The soil (turba) of the earth is made a purifier when water is not found
+    cluster: purity
+  predecessors-prayed-only-in-churches-and-synagogues:
+    label: 'Those before the Prophet held praying anywhere a grave matter: they prayed only in their churches and synagogues (kanāʾis, biyaʿ)'
+    cluster: ritual
+  rolled-in-dust-like-a-beast-for-major-impurity:
+    label: In major impurity without water a Companion rolls in the dust as a beast rolls, then tells the Prophet
+    cluster: purity
+  tayammum-single-strike-blow-wipe-face-palms:
+    label: 'Dry ablution shown: strike the earth once with the hands, blow on them, wipe the left over the right, the backs of the palms and the face'
+    cluster: purity
+  junub-without-water-should-not-pray:
+    label: A senior Companion rules that one in major impurity without water does not do tayammum or pray, even for a month, lest people use earth whenever water is cold
+    cluster: purity
+  we-leave-you-what-you-took-on:
+    label: ʿUmar does not recall the report and warns its teller; offered silence, he answers 'we leave you with what you took upon yourself'
+    cluster: sira
+  earth-suffices-the-junub:
+    label: 'A man keeps apart from the congregation, being in major impurity without water: ''take the earth, it suffices you'''
+    cluster: purity
+  earth-is-ablution-even-for-ten-years:
+    label: Clean earth is the Muslim's ablution even for ten years without water; when water is found let it touch the skin
+    cluster: purity
+  greeting-returned-after-wiping-on-wall:
+    label: Greeted on his way back (from Biʾr Jamal, from relieving himself), he does not answer until he turns to a wall, wipes face and hands on it, then returns the greeting
+    cluster: purity
+  both-opposite-acts-approved-you-were-right:
+    label: Two men act oppositely (one omits prayer, one prays with tayammum; one repeats, one does not) and the Prophet approves both
+    cluster: law
+  repeater-gets-double-reward-non-repeater-hit-the-sunna:
+    label: 'Water found within the time after tayammum: the one who did not repeat ''hit the sunna''; the one who washed and repeated has the reward twice'
+    cluster: law
+  dishevelled-najdi-voice-heard-words-not-understood:
+    label: A man of Najd comes with dishevelled hair; the hum of his voice is heard but what he says is not understood until he draws near
+    cluster: sira
+  no-more-no-less-prospers-if-truthful:
+    label: 'Asked ''is anything else on me?'' he hears ''no, unless you volunteer''; he swears to add nothing and take nothing away: ''he has prospered (or will enter paradise) if he is truthful'''
+    cluster: law
+  five-prayers-count-as-fifty-word-not-changed:
+    label: Fifty prayers imposed on the night journey are reduced to five; a voice calls 'the word with me is not changed; for these five you have fifty'
+    cluster: sira
+  witr-claimed-obligatory-companion-says-he-lied:
+    label: Told that Abū Muḥammad holds the witr prayer obligatory, ʿUbāda says 'Abū Muḥammad lied' and cites the five prayers God imposed
+    cluster: law
+  covenant-with-god-for-who-keeps-five:
+    label: 'Whoever performs the five well has a covenant (ʿahd) with God to be forgiven; whoever does not has none: if he wills he forgives, if he wills he punishes'
+    cluster: theology
+  five-with-faith-enter-paradise-trust-is-janaba-bath:
+    label: 'Five things with faith bring paradise: the five prayers, Ramadan, pilgrimage, alms, and discharging the trust; asked what the trust is, Abū l-Dardāʾ says the bath from major impurity'
+    cluster: purity
+  greeted-as-lad-of-banu-abd-al-muttalib:
+    label: A bedouin envoy greets the Prophet 'peace on you, lad of the Banū ʿAbd al-Muṭṭalib' and claims kinship through his mother's people
+    cluster: sira
+  found-in-your-book-and-your-messengers-told-us:
+    label: 'The envoy asks each duty in turn (''we found in your book and your messengers commanded us''): five prayers at their times, Ramadan, alms taken from the margins of wealth for the poor'
+    cluster: law
+  fifth-not-asked-the-indecencies:
+    label: '''The fifth I do not ask about, I have no need of it'' - the indecencies; the Prophet laughs until his molars show'
+    cluster: sira
+  pledge-on-prayer-alms-and-counsel-to-every-muslim:
+    label: A Companion pledges allegiance on establishing prayer, giving alms and sincere counsel to every Muslim
+    cluster: law
+  fight-whoever-separates-prayer-and-alms-even-a-hobble:
+    label: 'After the Prophet''s death Abū Bakr vows to fight whoever separates prayer and alms: had they withheld a hobbling cord (''iqāl'') they used to give, he would fight them for it'
+    cluster: law
+  ordered-to-fight-until-they-say-no-god-but-god:
+    label: '''I was ordered to fight people until they say there is no god but God; whoever says it has protected his wealth and life except by its right, and his reckoning is with God'''
+    cluster: law
+  prayer-is-the-covenant-between-us-and-them:
+    label: The covenant (al-ʿahd) between us and them is the prayer; whoever leaves it has disbelieved
+    cluster: law
+  no-shirk-though-cut-and-burned-wine-key-of-every-evil:
+    label: '''My friend charged me'': associate nothing with God though you be cut up and burned; leave no prescribed prayer deliberately, or protection (dhimma) is quit of you; drink no wine, the key of every evil'
+    cluster: ethics
+  farthest-walkers-greatest-reward-waiting-with-imam:
+    label: The greatest in reward at prayer are those who walk farthest; one who waits to pray with the imam is greater than one who prays and sleeps
+    cluster: ritual
+  guest-lodging-in-paradise-for-each-going-to-mosque:
+    label: For each morning and evening going to the mosque God prepares a guest's lodging (nuzul) in paradise
+    cluster: eschatology
+  footsteps-to-mosque-written-stay-in-your-houses:
+    label: 'A clan wishing to move near the mosque is told to stay: ''your houses! your footprints are written''; every step is a degree'
+    cluster: ritual
+  one-step-erases-a-sin-the-other-raises-a-degree:
+    label: 'Who purifies at home and walks to a house of God for an obligatory prayer: of his two steps one removes a sin and the other raises a degree'
+    cluster: ritual
+  farthest-dweller-refuses-a-donkey-wants-steps-counted:
+    label: 'The man living farthest from the mosque refuses to buy a donkey for darkness and scorching ground: he would not have his house tied by tent-ropes to Muhammad''s; God has gathered it all for him'
+    cluster: ritual
+  walkers-in-darkness-given-complete-light:
+    label: 'Good news to those who walk to prayer in the darknesses: complete light on the day of resurrection'
+    cluster: eschatology
+  ten-good-deeds-per-step-sitter-waiting-like-qanit:
+    label: His recording angel(s) write ten good deeds for every step to the mosque; one who sits awaiting the prayer is like one standing in devotion (qānit), written among those praying until he returns home
+    cluster: ritual
+  confessed-hadd-forgiven-by-attending-prayer:
+    label: A man says 'I have incurred a hadd, carry it out on me'; the Prophet is silent, prays, then asks 'did you attend the prayer with us (having done ablution well)?' - 'God has forgiven your hadd (or sin)'
+    cluster: law
+  would-not-tell-but-for-a-verse-on-concealment:
+    label: 'ʿUthmān: ''but for a verse in God''s book I would not have told you'' - the verse on those who conceal the clear signs'
+    cluster: scripture
+  each-of-five-forgives-gap-to-previous-night-rolling-in-sin:
+    label: 'Noon forgives back to dawn, afternoon to noon, sunset to afternoon, night to sunset; he may spend the night rolling (in sin), then the dawn prayer forgives back to the night prayer: ''these are the good deeds that remove the evil'''
+    cluster: ritual
+  lasting-good-things-are-five-formulas:
+    label: '''These are the good deeds; what are the lasting things (al-bāqiyāt)?'' - there is no god but God, glory be to God, praise be to God, God is greatest, no power and no strength save in God'
+    cluster: ritual
+  prayer-kept-is-light-proof-salvation:
+    label: Whoever guards the prayer has it as light, proof (burhān) and salvation on the day of resurrection; whoever does not has none of them
+    cluster: eschatology
+  neglecter-raised-with-qarun-pharaoh-haman-ubayy:
+    label: The neglecter of prayer will be on the day of resurrection with Qārūn, Pharaoh, Hāmān and Ubayy b. Khalaf
+    cluster: eschatology
+  handholds-of-islam-undone-first-rule-last-prayer:
+    label: The handholds (ʿurā) of Islam will be undone one by one, people clinging to the next as each goes; the first undone is ruling (al-ḥukm), the last the prayer
+    cluster: eschatology
+  prayer-proof-fasting-shield-charity-quenches-sin-as-water-fire:
+    label: Prayer is a proof (or offering, qurbān), fasting a fortified shield, and charity puts out sin as water puts out fire
+    cluster: ethics
+  flesh-grown-from-unlawful-gain-fire-fitter-for-it:
+    label: Flesh grown from unlawful gain (suḥt) will not enter paradise; the fire is fitter for it
+    cluster: eschatology
+  give-us-rest-with-the-prayer:
+    label: '''Stand, Bilāl, give us rest with the prayer'' - quoted by a sick Companion who asks for water to pray and rest'
+    cluster: ritual
+  governor-delays-prayer-rebuked-with-gabriels-precedent:
+    label: 'A governor delays the prayer and is rebuked by a Companion''s report that Gabriel came down and prayed five times with the Prophet: ''with this I was commanded'''
+    cluster: sira
+  gabriel-leads-five-prayers-on-two-days:
+    label: Gabriel leads the Prophet (at the House) in the five prayers on two days, the first at the earliest times, the second at the latest, and says 'the time is what lies between these two'
+    cluster: ritual
+  asr-at-shadow-equal-then-double:
+    label: Afternoon prayer when a man's shadow equals him on the first day, when it is twice him on the second; noon at decline when the shadow is the size of a sandal-strap
+    cluster: ritual
+  maghrib-when-the-faster-breaks-dawn-when-food-forbidden:
+    label: Sunset prayer when the fasting man breaks fast, at one and the same time both days; dawn prayer when food and drink become forbidden to the faster
+    cluster: ritual
+  this-is-the-time-of-the-prophets-before-you:
+    label: 'Gabriel: ''O Muḥammad, this is the time of the prophets before you'''
+    cluster: ritual
+  noon-in-midday-heat-dawn-in-darkness:
+    label: He prayed noon in the midday heat, afternoon with the sun pure, sunset when it set, and dawn in the last darkness (ghalas)
+    cluster: ritual
+  night-prayer-early-if-gathered-late-if-slow:
+    label: The night prayer brought forward when he saw the people gathered, delayed when they were slow
+    cluster: ritual
+  dawn-prayer-sixty-to-hundred-verses-neighbour-recognised:
+    label: He prayed the dawn prayer when one could recognise the man beside him, reciting between sixty and a hundred verses
+    cluster: ritual
+  night-prayer-delay-to-third-or-half-of-night:
+    label: He did not mind delaying the night prayer to a third of the night - then he said to half the night
+    cluster: ritual
+  each-prayers-time-runs-until-the-next-sign:
+    label: 'Each prayer''s time runs to a sign: noon until the afternoon comes, afternoon until the sun yellows, sunset until the twilight falls, night to half the night, dawn until the sun''s first horn rises'
+    cluster: ritual
+  sun-rises-between-satans-horns-unbelievers-bow-to-it:
+    label: 'Refrain from prayer as the sun rises and sets: it rises and sets between the two horns of a devil, and then the unbelievers prostrate to it'
+    cluster: ritual
+  hell-stoked-when-shadow-stands-with-the-spear:
+    label: Refrain from prayer when the shadow stands level with the spear (noon), for then hell is stoked (tusjar jahannam)
+    cluster: eschatology
+  prayer-is-witnessed-and-attended:
+    label: Between the forbidden times 'the prayer is witnessed and attended (mashhūda maḥḍūra)'
+    cluster: ritual
+  questioner-answered-by-two-days-of-practice:
+    label: Asked the times of prayer he gives no answer but has the prayers called at the earliest times one day and the latest the next, then calls the questioner
+    cluster: ritual
+  noon-said-to-be-midday-he-knew-better:
+    label: He has noon called when the sun declines while someone says 'the day is only half over', 'and he knew better than they'; dawn delayed until one says 'the sun has risen or nearly'
+    cluster: ritual
+  dawn-prayer-until-sight-widens:
+    label: He prayed the dawn prayer until sight widened (yanfasiḥa l-baṣar)
+    cluster: ritual
+  best-deed-prayer-on-time-then-parents-then-jihad:
+    label: 'The deed God loves most: prayer on its time, then kindness to parents, then struggle in God''s path'
+    cluster: ethics
+  never-prayed-at-last-time-until-death:
+    label: He never prayed a prayer at its last time until God took him
+    cluster: ritual
+  pray-on-time-then-with-late-rulers-as-supererogatory:
+    label: 'When rulers delay (or ''kill'') the prayer past its time: pray it on its time, and if you catch it with them pray again, it is supererogatory (nāfila, subḥa) for you; do not say ''I have prayed'''
+    cluster: law
+  thigh-struck-down-the-chain:
+    label: Each teller strikes his hearer's thigh as his own teacher struck his, back to the Prophet
+    cluster: sira
+  love-for-a-hoarse-voiced-takbir:
+    label: Hearing the hoarse-voiced takbir of the Prophet's envoy at dawn in Yemen, a man gives him his love and stays with him until he buries him in Syria
+    cluster: sira
+  women-leave-dawn-prayer-wrapped-unrecognised:
+    label: Women return from the dawn prayer wrapped in their woollen wraps (murūṭ), not recognised for the darkness
+    cluster: ritual
+  prophet-stays-in-place-so-women-leave-first:
+    label: After the salām he stayed in his place a little, so it was thought, for the women to get out before the men
+    cluster: ritual
+  hurry-from-predawn-meal-to-dawn-prayer:
+    label: A Companion eats the predawn meal at home and must hurry to catch the dawn prayer with the Prophet
+    cluster: ritual
+  dawn-prayer-moved-to-light-after-umar-stabbed:
+    label: 'Ibn ʿUmar: this dark dawn prayer was ours with the Prophet, Abū Bakr and ʿUmar; when ʿUmar was stabbed ʿUthmān prayed it in the light'
+    cluster: sira
+  dawn-prayer-in-full-morning-greater-reward:
+    label: '''Make the dawn prayer in the morning (or in the light): it is greater for your reward'''
+    cluster: ritual
+  delay-noon-in-heat-it-is-hells-exhalation:
+    label: 'When the heat is fierce, delay the (noon) prayer until it cools: the fierceness of heat is from the exhalation (fayḥ) of hell'
+    cluster: eschatology
+  wait-until-hillocks-cast-shade:
+    label: The muezzin calls the noon prayer on a journey; 'cool it, wait' - until we saw the shade of the hillocks
+    cluster: ritual
+  noon-measured-three-to-five-feet-summer-five-to-seven-winter:
+    label: The measure of the Prophet's (noon) prayer was a shadow of three to five feet in summer, five to seven feet in winter
+    cluster: ritual
+  prostrate-on-own-garment-in-heat:
+    label: In fierce heat, one who cannot set his forehead on the ground spreads his garment and prostrates on it
+    cluster: ritual
+  pebbles-cooled-in-palm-for-forehead:
+    label: A Companion takes a handful of pebbles to cool in his palm and sets them for his forehead to prostrate on
+    cluster: ritual
+  noon-prayed-when-sun-declines:
+    label: He came out and prayed noon when the sun declined (zāghat, daḥaḍat)
+    cluster: ritual
+  complaint-of-scorching-ground-not-relieved:
+    label: They complain to him of the scorching ground (ramḍāʾ) at noon prayer and he does not relieve their complaint
+    cluster: ritual
+  no-departure-from-halt-before-noon-prayer:
+    label: Halting at a stage he would not move on until he had prayed noon, even at midday
+    cluster: ritual
+  asr-while-sun-still-in-the-room:
+    label: He prayed the afternoon prayer while the sun was still in her room and the shade had not yet appeared there
+    cluster: ritual
+  after-asr-reach-outlying-quarters-with-sun-high:
+    label: After the afternoon prayer one could go out to Banū ʿAmr b. ʿAwf (the ʿAwālī) and find them only now praying it, the sun still high and alive
+    cluster: ritual
+  camel-slaughtered-ten-parts-cooked-eaten-before-sunset:
+    label: After the afternoon prayer a camel is slaughtered, divided into ten portions, cooked, and its well-done meat eaten before sunset
+    cluster: ritual
+  communitys-span-like-asr-to-sunset:
+    label: Your span among the nations before you is as between the afternoon prayer and sunset
+    cluster: eschatology
+  torah-gospel-quran-folk-paid-by-carat-for-a-days-work:
+    label: The Torah people worked till midday and failed, paid a carat each; the Gospel people worked till the afternoon prayer and failed, a carat each; the Quran people worked till sunset and got two carats each
+    cluster: polemic
+  did-i-wrong-you-of-your-wage-it-is-my-favour:
+    label: 'The people of the two books protest ''we did more work''; God: ''have I wronged you of your wage in anything?'' - ''no'' - ''then it is my favour, I give it to whom I will'''
+    cluster: theology
+  leaving-asr-voids-deeds-hasten-on-cloudy-day:
+    label: 'On a cloudy day in a raid a Companion says ''hasten the afternoon prayer'': whoever leaves the afternoon prayer, his work is voided (ḥabiṭa ʿamaluhu)'
+    cluster: ritual
+  bold-companion-sent-in-to-ask-which-is-middle:
+    label: Companions disputing at the Prophet's door over the middle prayer send in a righteous man 'bold with him', who comes out and tells them it is the afternoon prayer
+    cluster: sira
+  wife-has-mushaf-written-tell-me-at-this-verse:
+    label: 'Aisha has her freedman write her a copy of the Quran: ''when you reach this verse, tell me'', then dictates it, saying she heard it from the Prophet'
+    cluster: scripture
+  middle-prayer-is-noon-two-before-two-after:
+    label: 'The noon prayer at midday heat was the hardest on the Companions, so the middle-prayer verse came down: two prayers before it and two after'
+    cluster: ritual
+  maghrib-when-sun-hidden-by-the-veil:
+    label: He prayed the sunset prayer when the sun had set and was hidden by the veil (tawārat bi-l-ḥijāb)
+    cluster: ritual
+  after-maghrib-arrow-fall-still-seen:
+    label: Leaving the sunset prayer and walking home a mile or to the market, a man shooting an arrow still sees where it falls
+    cluster: ritual
+  community-good-while-maghrib-not-delayed-till-stars-thick:
+    label: My community remains well (on the fitra) so long as it does not delay the sunset prayer until the stars are thick (tashtabik)
+    cluster: ritual
+  umar-calls-out-women-and-children-asleep:
+    label: 'The night prayer is delayed until ʿUmar calls ''the women and children are asleep''; the Prophet: ''it was not for you to press the Messenger'''
+    cluster: sira
+  none-on-earth-awaits-this-prayer-but-you:
+    label: 'Coming out late: ''none of the people of the earth (none of the people of these religions) waits for this prayer or remembers God at this hour but you'''
+    cluster: polemic
+  in-prayer-so-long-as-you-wait-for-it:
+    label: '''The people have prayed and slept; you are still in prayer as long as you wait for it'''
+    cluster: ritual
+  comes-out-head-dripping-hand-on-head:
+    label: He comes out to the late night prayer with his head dripping water, his hand on the side of his head
+    cluster: sira
+  glint-of-his-ring-remembered:
+    label: 'Anas: ''it is as if I see the glint of his ring'' as he turned to them after the prayer'
+    cluster: sira
+  ship-companions-take-turns-at-night-prayer:
+    label: Those who came by ship, camped at Baqīʿ Buṭḥān, go in turns each night to the night prayer; on their turn it is delayed to midnight and they return rejoicing at the good news
+    cluster: sira
+  night-prayer-when-third-nights-moon-sets:
+    label: He prayed the night prayer at the setting of the moon on the third night of the month
+    cluster: ritual
+  night-prayer-time-when-night-fills-every-valley:
+    label: 'Asked the time of the night prayer: ''when the night fills the bed of every valley'''
+    cluster: ritual
+  night-prayer-never-prayed-by-a-nation-before:
+    label: '''Pray this prayer in the dark (aʿtimū): by it you are preferred above all nations; no nation before you prayed it'''
+    cluster: polemic
+  bedouin-must-not-take-over-prayer-names:
+    label: '''Let not the bedouin overcome you on the name of your prayer: it is al-ʿishāʾ (in God''s book), while they call it ʿatama from milking the camels late''; likewise they call the sunset prayer al-ʿishāʾ'
+    cluster: ritual
+  sleep-before-night-prayer-and-talk-after-disliked:
+    label: He disliked sleeping before the night prayer and talking after it
+    cluster: ritual
+  century-saying-misread-means-end-of-that-generation:
+    label: People took fright at the 'hundred years' saying; Ibn ʿUmar explains he meant only those then alive, the passing of that generation (qarn)
+    cluster: eschatology
+  night-talk-with-abu-bakr-on-muslims-affairs:
+    label: The Prophet would talk at night with Abū Bakr on a matter of the Muslims' affairs, ʿUmar with them
+    cluster: sira
+  one-rakaa-before-sunrise-or-sunset-catches-prayer:
+    label: Whoever catches a rakʿa (a 'prostration') of the dawn prayer before sunrise, or of the afternoon before sunset, has caught that prayer
+    cluster: ritual
+  bell-like-christians-horn-like-jews-rejected:
+    label: 'To gather people for prayer some propose a clapper (nāqūs) like the Christians'', others a horn (būq, qarn, shabbūr) like the Jews''; the Prophet rejects both: ''it is of the Jews'' matter ... of the Christians'' matter'''
+    cluster: ritual
+  fire-or-banner-proposed-as-signal-for-prayer:
+    label: 'Other signals proposed for the prayer time: kindling a fire, or raising a banner so people tell one another'
+    cluster: ritual
+  first-call-a-man-crying-the-prayer:
+    label: 'ʿUmar: ''why not send a man to call to prayer?'' - ''Bilāl, stand and call to prayer'''
+    cluster: ritual
+  call-to-prayer-shown-in-a-dream-between-sleep-and-waking:
+    label: 'A Companion anxious at the Prophet''s concern is shown the call in his sleep ''between sleeping and waking''; the Prophet: ''this dream is true'''
+    cluster: dreams
+  second-dreamer-kept-silent-twenty-days-for-shame:
+    label: 'ʿUmar had seen the same before but kept it hidden twenty days; hearing Bilāl''s call he runs out dragging his cloak: ''I was forestalled and was ashamed'''
+    cluster: dreams
+  louder-voice-chosen-to-call-dreamer-teaches-him:
+    label: The dreamer is told to teach the words to Bilāl, 'whose voice is more resonant (andā) or longer than yours'; but for his illness the dreamer would have been made muezzin
+    cluster: ritual
+  call-in-pairs-iqama-single:
+    label: Bilāl is ordered to say the call in pairs and the iqāma singly (except 'the prayer has begun', said twice)
+    cluster: ritual
+  call-with-testimonies-repeated-louder:
+    label: 'The call as taught: God is greatest, the two testimonies twice each, then he returns and repeats the testimonies ''stretching your voice'', then ''come to prayer'', ''come to success'', God is greatest, no god but God'
+    cluster: ritual
+  call-of-nineteen-words-iqama-of-seventeen:
+    label: He was taught the call as nineteen words (and the iqāma seventeen)
+    cluster: ritual
+  satan-masters-village-without-call-wolf-eats-straggler:
+    label: No three in a village without the call and prayer but Satan has mastered them; keep to the community, for the wolf eats the straying sheep (al-qāṣiya)
+    cluster: ethics
+  satan-flees-call-breaking-wind-returns-to-whisper:
+    label: 'At the call Satan turns his back breaking wind so as not to hear it; when it ends he returns, flees again at the iqāma, then comes between a man and himself: ''remember this, remember that'', until he does not know how much he has prayed'
+    cluster: theology
+  satan-flees-call-to-rawha-thirty-six-miles:
+    label: Hearing the call Satan goes off as far as al-Rawḥāʾ, thirty-six miles from Medina
+    cluster: theology
+  muezzins-longest-necked-on-resurrection-day:
+    label: The muezzins will have the longest necks of people on the day of resurrection
+    cluster: eschatology
+  raise-voice-calling-alone-with-flock-in-desert:
+    label: '''I see you love sheep and the desert: when you are with your flock and call to prayer, raise your voice'''
+    cluster: ritual
+  muezzin-waits-on-tallest-roof-stretches-prays-before-call:
+    label: Bilāl comes before dawn to the tallest house by the mosque, sits watching for the dawn, stretches when he sees it, and says 'O God, I praise you and seek your help against Quraysh, that they establish your religion' before the call
+    cluster: ritual
+  prayer-better-than-sleep-in-dawn-call:
+    label: In the (first) dawn call, after 'come to success', the muezzin says twice 'prayer is better than sleep'
+    cluster: ritual
+  ablution-on-hearing-the-iqama:
+    label: '''When we heard the iqāma we did ablution and went out to the prayer'''
+    cluster: ritual
+  night-caller-then-dawn-caller-eat-until-second:
+    label: 'One muezzin calls by night: eat and drink until the other calls (Bilāl first and the blind Ibn Umm Maktūm second, or the reverse); between them only one came down and the other went up'
+    cluster: ritual
+  blind-muezzin-calls-when-told-you-are-at-morning:
+    label: The blind muezzin does not call until he is told 'you have reached morning, you have reached morning'
+    cluster: ritual
+  night-call-to-send-back-the-stander-and-wake-the-sleeper:
+    label: 'The night call is not to stop the predawn meal: it is to send back the one standing in prayer and wake the sleeper'
+    cluster: ritual
+  true-dawn-spreads-sideways-not-the-vertical-whiteness:
+    label: The dawn is not the vertical whiteness (shown with fingers raised and lowered) but the light spreading sideways across the horizon (mustaṭīr), shown with the fingers stretched right and left
+    cluster: ritual
+  woman-asks-muezzin-to-wait-till-she-finishes-meal:
+    label: A woman with some of her predawn meal left would say to Bilāl 'wait until I finish my meal'
+    cluster: ritual
+  one-calls-the-eldest-leads:
+    label: 'Delegates sent home after twenty nights: ''when the prayer comes let one of you call and the eldest of you lead; pray as you saw me pray'''
+    cluster: ritual
+  god-took-your-souls-and-returned-them:
+    label: '''God took your spirits when he willed and returned them when he willed'''
+    cluster: theology
+  move-from-the-place-of-heedlessness:
+    label: '''Move from this place where heedlessness struck you''; they move off before praying the missed dawn'
+    cluster: ritual
+  missed-dawn-made-up-with-call-two-rakaas-iqama:
+    label: 'The missed dawn prayer is made up with the call, the two rakʿas of dawn, then the iqāma and the prayer, after the sun has risen white: ''do as you used to do'''
+    cluster: law
+  trench-missed-prayers-each-with-iqama-before-fighting-verse:
+    label: Kept at the Trench from noon (and afternoon) until after sunset, before the verse on fighting came, he has Bilāl give the iqāma for noon, then for afternoon, then calls for sunset, each prayed as at its time
+    cluster: law
+  raid-held-back-if-call-heard-at-dawn:
+    label: 'He raided at dawn and listened for the call: if he heard a call he held back, otherwise he attacked'
+    cluster: sira
+  caller-on-the-fitra-out-of-the-fire:
+    label: Hearing a lone man call 'God is greatest' he says 'on the fitra'; at the testimony 'out of the fire'; it is a goatherd (owner of livestock) overtaken by the prayer
+    cluster: ritual
+  two-muezzins-bilal-and-the-blind-man:
+    label: 'The Prophet had two muezzins: Bilāl and the blind Ibn Umm Maktūm'
+    cluster: sira
+  leaving-mosque-after-call-disobeys-the-prophet:
+    label: 'Abū Hurayra watches a man walk out of the mosque after the call: ''this one has disobeyed Abū l-Qāsim'''
+    cluster: ritual
+  imam-follows-weakest-muezzin-takes-no-wage:
+    label: 'Made imam of his people he is told: follow the weakest of them, and take a muezzin who takes no wage for his call'
+    cluster: law
+  between-every-two-calls-a-prayer-for-whoever-wishes:
+    label: '''Between every two calls (call and iqāma) is a prayer'', three times, the third (or fourth) ''for whoever wishes'''
+    cluster: ritual
+  race-to-pillars-two-rakaas-before-sunset-prayer:
+    label: At the sunset call Companions race to the pillars to pray two rakʿas before the Prophet comes out; there is little between call and iqāma
+    cluster: ritual
+  say-what-the-muezzin-says:
+    label: When you hear the call, say the like of what the muezzin says
+    cluster: ritual
+  no-power-save-in-god-at-come-to-prayer:
+    label: The hearer repeats each phrase but answers 'come to prayer' and 'come to success' with 'there is no power and no strength save in God'; said from the heart it brings paradise
+    cluster: ritual
+  pleased-with-god-as-lord-at-the-call-sins-forgiven:
+    label: Whoever on hearing the muezzin says 'I bear witness ... I am content with God as Lord, Muḥammad as messenger and Islam as religion' is forgiven his sin
+    cluster: ritual
+  and-i-too-in-answer-to-the-testimony:
+    label: Hearing the muezzin's testimony he would answer 'and I, and I'; Muʿāwiya on the pulpit answers 'and I' and says he heard the Prophet do so on that seat
+    cluster: ritual
+  supplication-between-call-and-iqama-not-refused:
+    label: Supplication between the call and the iqāma is not turned back, so supplicate
+    cluster: ritual
+  lord-of-this-perfect-call-grant-wasila-and-praised-station:
+    label: 'On hearing the call: ''O God, Lord of this perfect call and the prayer about to be established, give Muḥammad the wasīla and the excellence and raise him to the praised station you promised him'' - my intercession is due him'
+    cluster: ritual
+  muezzins-surpass-us-say-as-they-say-then-ask:
+    label: '''The muezzins surpass us (in merit)'': ''say as they say, and when you finish, ask and you will be given'''
+    cluster: ritual
+  imam-guarantor-muezzin-entrusted:
+    label: '''The imam is a guarantor (ḍāmin) and the muezzin entrusted (muʾtaman); O God, guide the imams and forgive the muezzins'''
+    cluster: ritual
+units:
+- id: hadith-8-lost-necklace-tayammum-verse
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Aisha's lost necklace halts the army without water; the tayammum verse comes
+  read:
+  - Jāmiʿ 8:1103.1
+  quran:
+  - '5:6'
+  tags:
+  - motif: lost-necklace-found-under-camel
+    refs:
+    - Jāmiʿ 8:1103.1
+    note: انقطع عِقْدٌ لي، فأقام رسول الله ﷺ على التِماسِه ... وليسوا على ماءٍ ... فبَعثْنا البعير الذي كنتُ عليه، فوجدنا العِقْد تحتَه
+  - motif: dry-ablution-with-earth
+    refs:
+    - Jāmiʿ 8:1103.1
+    note: فأنزل الله ﵎ آيةَ التيمم، فتيمّموا
+  - motif: father-jabs-daughter-while-prophet-sleeps-on-her-thigh
+    refs:
+    - Jāmiʿ 8:1103.1
+    note: وجعل يَطْعن بيده في خاصِرتي، فلا يمنعني من التحرك إلَّا مكانُ رأسِ رسول الله ﷺ على فخذي
+  - motif: not-the-first-blessing-of-abu-bakrs-house
+    refs:
+    - Jāmiʿ 8:1103.1
+    note: 'فقال أُسَيدُ بن حُضَيرْ: ما هي بأوَّلِ بركِتكم يا آلَ أبي بكر!'
+- id: hadith-8-earth-mosque-and-purifier
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The earth made a place of prayer and a purifier; earlier peoples prayed only in their churches
+  read:
+  - Jāmiʿ 8:1104.1-1104.5
+  quran:
+  - '5:6'
+  tags:
+  - motif: earth-made-mosque-and-means-of-purification
+    refs:
+    - Jāmiʿ 8:1104.1
+    - Jāmiʿ 8:1104.2
+    - Jāmiʿ 8:1104.3
+    - Jāmiʿ 8:1104.4
+    - Jāmiʿ 8:1104.5
+    note: جُعِلت لي الأرض مسجدًا وطهورًا، فأيما رجل من أُمَّتي أدركته الصلاة فليصل
+  - motif: earths-soil-purifies-when-water-lacking
+    refs:
+    - Jāmiʿ 8:1104.3
+    note: جُعِلت لنا الأرض كلها مسجدًا، وجعلت تربتها لنا طهورًا إذا لم نَجِدَ الماءَ
+  - motif: predecessors-prayed-only-in-churches-and-synagogues
+    refs:
+    - Jāmiʿ 8:1104.5
+    note: أينما أدركتني الصلاة تمسَّحتُ وصلَّيتُ، وكان مَن قبلي يُعظِّمون ذلك، إنَّما كانوا يُصلُّون في كنائسهم وبيعهم
+  hints:
+  - 'Earlier peoples ''prayed only in their churches and synagogues'' (Jāmiʿ 8:1104.5) against b. Berakhot 6a (Abba Binyamin): a man''s prayer is heard only in the synagogue'
+- id: hadith-8-ammar-single-strike
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿAmmār rolled in the dust like a beast; one strike on the earth for face and hands; ʿUmar does not recall it
+  read:
+  - Jāmiʿ 8:1105.1-1105.2
+  quran:
+  - '5:6'
+  tags:
+  - motif: dry-ablution-with-earth
+    refs:
+    - Jāmiʿ 8:1105.1
+    - Jāmiʿ 8:1105.2
+    note: ﴿فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا﴾
+  - motif: rolled-in-dust-like-a-beast-for-major-impurity
+    refs:
+    - Jāmiʿ 8:1105.1
+    - Jāmiʿ 8:1105.2
+    note: فتمرَّغتُ في الصعيد كما تَمرَّغُ الدابة ... وأمَّا أنا فتمعّكْتُ في التراب وصلّيت
+  - motif: tayammum-single-strike-blow-wipe-face-palms
+    refs:
+    - Jāmiʿ 8:1105.1
+    - Jāmiʿ 8:1105.2
+    note: ضرب بيده الأرض ضربةً واحدةً، ثمَّ مسح الشمال على اليمين وظاهر كفيه ووجْهه ... أن تضرب بيديك الأرض، ثم تنفخ، ثم تمسح بهما وجهك وكفيك
+  - motif: junub-without-water-should-not-pray
+    refs:
+    - Jāmiʿ 8:1105.1
+    - Jāmiʿ 8:1105.2
+    note: 'لا يتيمم وإن لم يجد الماء شهرًا ... لأوشك إذا برد عليهم الماء أن يتيمموا بالصعيد ... فقال: لا تُصلِّ'
+  - motif: we-leave-you-what-you-took-on
+    refs:
+    - Jāmiʿ 8:1105.2
+    note: 'فقال عمر: اتقْ الله يا عمار! قال: إن شئتَ لم أحدّث به. فقال عمر: نُولِّيك ما تولَّيتَ'
+- id: hadith-8-earth-suffices-ten-years
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Earth suffices the one in major impurity; it is the Muslim's ablution even for ten years
+  read:
+  - Jāmiʿ 8:1107.1-1108.1
+  quran: []
+  tags:
+  - motif: earth-suffices-the-junub
+    refs:
+    - Jāmiʿ 8:1107.1
+    note: 'رأى رجلًا معتزلًا لم يصل في القوم ... أصابتني جنابةٌ ولا ماء، فقال: "عليك بالصعيد؛ فإنه يكفيك"'
+  - motif: earth-is-ablution-even-for-ten-years
+    refs:
+    - Jāmiʿ 8:1107.2
+    - Jāmiʿ 8:1108.1
+    note: الصعيد الطّيب وضوءُ المسلم ولو إلى عشر سنين؛ فإذا وجدت الماء فأمِسَّه جلدك؛ فإنَّ ذلك خير ... وإن لم يجدِ الماءَ عشرَ سنين
+- id: hadith-8-cold-night-tayammum
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: ʿAmr b. al-ʿĀṣ, in major impurity on a cold night at Dhāt al-Salāsil, does tayammum and leads the dawn prayer
+  read:
+  - Jāmiʿ 8:1109.1
+  quran:
+  - '4:29'
+  tags:
+  - motif: tayammum-for-fear-of-cold-quoting-verse
+    refs:
+    - Jāmiʿ 8:1109.1
+    note: احتلمتُ في ليلة باردة في غزوة ذات السلاسل، فأشفقتُ إن اغتسلتُ أن أهلِكَ، فتيممتُ، ثم صلَّيتُ بأصحابي الصبح ... فضحك رسول الله ﷺ ولم يقل شيئًا
+  - motif: do-not-kill-yourselves
+    refs:
+    - Jāmiʿ 8:1109.1
+    note: 'إني سمعت الله يقول: ﴿وَلَا تَقْتُلُوا أَنْفُسَكُمْ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا﴾'
+- id: hadith-8-tayammum-to-return-greeting
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A greeting not returned until the Prophet wipes face and hands on a wall
+  read:
+  - Jāmiʿ 8:1111.1-1111.3
+  quran: []
+  tags:
+  - motif: greeting-returned-after-wiping-on-wall
+    refs:
+    - Jāmiʿ 8:1111.1
+    - Jāmiʿ 8:1111.3
+    note: فلم يردّ عليه النبي ﷺ حتَّى أقبل على الجدار فمسح بوجهه ويديه، ثم ردّ ﵇ ... فوضع يده على الحائط، ثمَّ مسح وجهه ويديه
+  - motif: greeting-not-returned-while-urinating
+    refs:
+    - Jāmiʿ 8:1111.2
+    note: أن رجلًا مرّ ورسول الله ﷺ يبول، فسلَّم، فلم يردّ عليه
+  hints:
+  - 'No greeting answered while relieving oneself and not in purity (Jāmiʿ 8:1111.1-3) against b. Shabbat 10a: in the part of a bathhouse where people stand naked there is no greeting (sheʾilat shalom)'
+- id: hadith-8-both-rulings-approved
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Two men in impurity or without water act differently and both are told 'you were right'
+  read:
+  - Jāmiʿ 8:1113.1-1113.2
+  quran: []
+  tags:
+  - motif: both-opposite-acts-approved-you-were-right
+    refs:
+    - Jāmiʿ 8:1113.1
+    - Jāmiʿ 8:1113.2
+    note: 'أن رجلًا أجنب فلم يُصلّ ... فقال: "أصبت". فأجنب رجل آخر فتيمّمَ وصلَّى ... يعني "أصبت"'
+  - motif: repeater-gets-double-reward-non-repeater-hit-the-sunna
+    refs:
+    - Jāmiʿ 8:1113.2
+    note: 'فقال للذي لم يُعد: "أصبتَ السنة وأجزأتْ صلاتُك". وقال للذي توضأ وأعاد: "لك الأجرُ مرتين"'
+- id: hadith-9-five-prayers-no-more-no-less
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The man of Najd: five prayers, Ramadan, alms; ''I will add nothing and take nothing away'''
+  read:
+  - Jāmiʿ 9:1115.1
+  - Jāmiʿ 9:1116.1
+  quran: []
+  tags:
+  - motif: dishevelled-najdi-voice-heard-words-not-understood
+    refs:
+    - Jāmiʿ 9:1115.1
+    note: من أهل نجد، ثائر الرأس يُسمع دَوي صوته، ولا يُفقه ما يقول، حتَّى دنا
+  - motif: five-prayers-zakat-ramadan-pilgrimage-listed
+    refs:
+    - Jāmiʿ 9:1115.1
+    - Jāmiʿ 9:1116.1
+    note: خمس صلوات في اليوم والليلة ... وصيام رمضان ... وذكر رسول الله في الزكاة
+  - motif: no-more-no-less-prospers-if-truthful
+    refs:
+    - Jāmiʿ 9:1115.1
+    - Jāmiʿ 9:1116.1
+    note: 'والله لا أزيد على هذا ولا أنقص، قال رسول الله ﷺ: "أفلح إن صدق" ... "إن صدق ليدخلنَّ الجنة"'
+- id: hadith-9-fifty-made-five
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: On the night journey fifty prayers are reduced to five, which count as fifty
+  read:
+  - Jāmiʿ 9:1115.2
+  quran:
+  - '50:29'
+  tags:
+  - motif: five-prayers-count-as-fifty-word-not-changed
+    refs:
+    - Jāmiʿ 9:1115.2
+    note: 'فرضتْ على النبي ﷺ ليلة أسري به الصلوات خمسين، ثم نُقِصَت حتى جُعلتْ خمسًا، ثم نُودي: يا محمد! إنه لا يُبدّل القول لديّ، وإن لك بهذه الخمس خمسين'
+  hints:
+  - Fifty reduced to five that still count as fifty (Jāmiʿ 9:1115.2) against Gen 18:24-32, fifty righteous bargained down to ten
+- id: hadith-9-covenant-of-the-five
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God's covenant to forgive whoever keeps the five; the trust is the bath of major impurity
+  read:
+  - Jāmiʿ 9:1116.2-1117.1
+  quran: []
+  tags:
+  - motif: witr-claimed-obligatory-companion-says-he-lied
+    refs:
+    - Jāmiʿ 9:1116.2
+    note: 'زعم أبو محمد أن الوتر واجب، فقال عبادة بن الصامت: كذب أبو محمّد'
+  - motif: covenant-with-god-for-who-keeps-five
+    refs:
+    - Jāmiʿ 9:1116.2
+    note: كان له على الله عهد أن يغفر له، ومن لم يفعل فليس له على الله عهدٌ، إن شاء غفر له، وإن شاء عذَّبه
+  - motif: five-with-faith-enter-paradise-trust-is-janaba-bath
+    refs:
+    - Jāmiʿ 9:1117.1
+    note: 'وأدّى الأمانة". قالوا: يا أبا الدرداء! وما أداء الأمانة؟ قال: الغسل من الجنابة'
+- id: hadith-9-envoy-of-banu-sad-adjures
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The envoy of Banū Saʿd b. Bakr adjures the Prophet duty by duty
+  read:
+  - Jāmiʿ 9:1117.2
+  quran: []
+  tags:
+  - motif: greeted-as-lad-of-banu-abd-al-muttalib
+    refs:
+    - Jāmiʿ 9:1117.2
+    note: السلام عليك يا غلام بني عبد المطلب! ... إني رجل من أخوالك من بني سعد بن بكر
+  - motif: oath-by-maker-of-sky-earth-mountains
+    refs:
+    - Jāmiʿ 9:1117.2
+    note: 'من خلق السماوات السبع والأرضين السبع وأجرى بينهم الرزق؟ قال: "الله" قال: فنشدتك بذلك أهو أرسلك؟'
+  - motif: found-in-your-book-and-your-messengers-told-us
+    refs:
+    - Jāmiʿ 9:1117.2
+    note: فإنا قد وجدنا في كتابك وأمرتنا رسلك أن نصلي بالليل والنهار خمس صلوات لمواقيتها ... أن تأخذ من حواشي أموالنا متجعلة في فقرائنا
+  - motif: fifth-not-asked-the-indecencies
+    refs:
+    - Jāmiʿ 9:1117.2
+    note: 'أما الخامسة فلست سائلا عنها، ولا أرب لي فيها - يعني: الفواحش - ... فضحك رسول الله ﷺ حتَّى بدت نواجذه'
+- id: hadith-9-pledge-prayer-alms-counsel
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Jarīr''s pledge: prayer, alms, and good counsel to every Muslim'
+  read:
+  - Jāmiʿ 9:1118.1
+  quran: []
+  tags:
+  - motif: pledge-on-prayer-alms-and-counsel-to-every-muslim
+    refs:
+    - Jāmiʿ 9:1118.1
+    note: بايعتُ رسولَ الله ﷺ على إقام الصّلاة، وإيتاء الزكاة، والنّصح لكلّ مسلم
+- id: hadith-9-fight-who-separate-prayer-and-alms
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abū Bakr will fight whoever separates prayer from alms, even for a hobbling cord
+  read:
+  - Jāmiʿ 9:1119.1
+  quran: []
+  tags:
+  - motif: fight-whoever-separates-prayer-and-alms-even-a-hobble
+    refs:
+    - Jāmiʿ 9:1119.1
+    note: والله! لأقاتلن من فرَّق بين الصلاة والزّكاة ... لو منعوني عقالًا كانوا يؤدّونه إلى رسول الله ﷺ لقاتلتهم على منعه
+  - motif: ordered-to-fight-until-they-say-no-god-but-god
+    refs:
+    - Jāmiʿ 9:1119.1
+    note: 'أُمرتُ أن أقاتل النّاس حتى يقولوا: لا إله إلَّا الله. فمن قال: لا إله إلَّا الله، فقد عصم مني ماله ونفسه إلَّا بحقه، وحسابه على الله'
+- id: hadith-9-leaving-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Between a man and unbelief is the leaving of prayer
+  read:
+  - Jāmiʿ 9:1119.2-1120.2
+  quran: []
+  tags:
+  - motif: abandoning-prayer-borders-shirk
+    refs:
+    - Jāmiʿ 9:1119.2
+    - Jāmiʿ 9:1120.1
+    note: إن بين الرجل وبين الشرك والكفر تركَ الصلاة ... بين العبد وبين الكفر والإيمان الصلاةُ، فإذا تركها فقد أشرك
+  - motif: prayer-is-the-covenant-between-us-and-them
+    refs:
+    - Jāmiʿ 9:1119.3
+    note: إن العَهد الذي بيننا وبينهم الصلاة، فمن تركها فقد كفر
+  - motif: no-shirk-though-cut-and-burned-wine-key-of-every-evil
+    refs:
+    - Jāmiʿ 9:1120.2
+    note: لا تُشركْ بالله شيئًا، وإن قُطِّعتَ وحُرِّقْتَ، ولا تتركْ صلاةً مكتوبةً متعمدًا فمن تركها متعمِّدًا فقد برِئت منه الذمَّة، ولا تشرب الخمرَ، فإنَّها مفتاح كلِّ شرٍّ
+- id: hadith-9-walking-to-the-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The farthest walkers earn most; every step is written; Banū Salima told to stay in their houses
+  read:
+  - Jāmiʿ 9:1123.1-1125.1
+  quran:
+  - '36:12'
+  tags:
+  - motif: farthest-walkers-greatest-reward-waiting-with-imam
+    refs:
+    - Jāmiʿ 9:1123.1
+    note: أعظمُ الناس أجرًا في الصلاة أبعدهم فأبعدهم ممشى، والذي ينتظر الصلاة حتى يصليها مع الإمام أعظم أجرًا من الذي يصلي ثم ينام
+  - motif: guest-lodging-in-paradise-for-each-going-to-mosque
+    refs:
+    - Jāmiʿ 9:1124.1
+    note: من غدا إلى المسجد وراح أعدَّ الله له نُزُلَه من الجنة كلما غدا وراح
+  - motif: footsteps-to-mosque-written-stay-in-your-houses
+    refs:
+    - Jāmiʿ 9:1124.2
+    - Jāmiʿ 9:1124.4
+    note: يا بني سلمة! ألا تحسبون آثارَكم ... إن لكم بكل خُطْوة درجةً ... دياركم تُكتبُ آثارُكم، ديارَكم تكتبُ آثارُكم
+  - motif: one-step-erases-a-sin-the-other-raises-a-degree
+    refs:
+    - Jāmiʿ 9:1124.3
+    note: كانت خطوتاه إحداهما تحط خطيئةً، والأخرى ترفع درجةً
+  - motif: farthest-dweller-refuses-a-donkey-wants-steps-counted
+    refs:
+    - Jāmiʿ 9:1125.1
+    note: لو اشتريتَ حمارًا تركبُه في الظَلْماء وفي الرمْضاء ... إني أريد أن يكتب لي ممشايَ إلى المسجد، ورجوعي ... ما أحب أن بيتي مُطَنَّبٌ ببيت محمد ﷺ
+  hints:
+  - 'Steps to the mosque written and rewarded, so the far house is kept (Jāmiʿ 9:1124.4, 1125.1) against b. Sotah 22a, the widow who walked past her neighbourhood synagogue to R. Yoḥanan''s: ''have I no reward for the steps?'' (sekhar pesiʿot)'
+- id: hadith-9-walkers-in-darkness
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Light for those who walk to prayer in darkness; ten good deeds per step; the one who sits waiting is like one standing devout
+  read:
+  - Jāmiʿ 9:1125.2-1126.1
+  quran: []
+  tags:
+  - motif: walkers-in-darkness-given-complete-light
+    refs:
+    - Jāmiʿ 9:1125.2
+    note: ليَبْشَر المشَّاؤون في الظُلَم بنور تامٍ يوم القيامة
+  - motif: ten-good-deeds-per-step-sitter-waiting-like-qanit
+    refs:
+    - Jāmiʿ 9:1126.1
+    note: كَتَبَ له كاتبه - أو كاتباه - بكلِّ خطوةٍ يخطوها إلى المسجد عشر حسنات، والقاعد يرعى الصلاة كالقانت
+- id: hadith-9-prayer-expiates
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A kiss expiated by prayer (Hūd 114); a confessed hadd forgiven for attending prayer
+  read:
+  - Jāmiʿ 9:1127.1-1127.3
+  quran:
+  - 11:114
+  tags:
+  - motif: good-deeds-erase-sins-kiss-case
+    refs:
+    - Jāmiʿ 9:1127.1
+    note: 'أن رجلًا أصاب من امرأة قُبلة، فأتى النبي ﷺ فأخبره، فأنزل الله: ﴿وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ ... إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ﴾ ... "لجميع أمتي كلهم"'
+  - motif: good-deeds-remove-bad-deeds
+    refs:
+    - Jāmiʿ 9:1127.1
+    note: ﴿إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ﴾
+  - motif: confessed-hadd-forgiven-by-attending-prayer
+    refs:
+    - Jāmiʿ 9:1127.2
+    - Jāmiʿ 9:1127.3
+    note: 'أصبتُ حدًّا فأقمه عَليَّ ... "هل حضرت معنا الصلاة؟ ". قال: نعم. قال: "قد غفر لك" ... "فإن الله قد غفر لك حدَّك، أو قال: ذنبك"'
+- id: hadith-9-ablution-forgives-intervals
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'ʿUthmān''s ablution: each prayer forgives what lies between it and the last; the ''lasting good things'' named'
+  read:
+  - Jāmiʿ 9:1128.1-1128.2
+  quran:
+  - 2:159
+  - 11:114
+  - '18:46'
+  tags:
+  - motif: ablution-and-prayer-forgive-intervals
+    refs:
+    - Jāmiʿ 9:1128.1
+    - Jāmiʿ 9:1128.2
+    note: لا يتوضأ رجل، فيحسن وضوءه، ثم يصلي الصلاة، إلا غفر له ما بينه وبين الصلاة التي تليها
+  - motif: would-not-tell-but-for-a-verse-on-concealment
+    refs:
+    - Jāmiʿ 9:1128.1
+    note: 'والله! لولا آية في كتاب الله ما حدثتكموه ... قال عروة الآية: ﴿إِنَّ الَّذِينَ يَكْتُمُونَ مَا أَنْزَلْنَا مِنَ الْبَيِّنَاتِ وَالْهُدَى﴾'
+  - motif: each-of-five-forgives-gap-to-previous-night-rolling-in-sin
+    refs:
+    - Jāmiʿ 9:1128.2
+    note: ثم لعله أن يبيت يتمرغ ليلته، ثم إن قام، فتوضأ، وصلى الصبح غفر له ما بينها وبين صلاة العشاء، وهن الحسنات يذهبن السيئات
+  - motif: lasting-good-things-are-five-formulas
+    refs:
+    - Jāmiʿ 9:1128.2
+    note: 'فما الباقيات يا عثمان؟ قال: هن: لا إله إلا الله، وسبحان الله، والحمد لله، والله أكبر، ولا حول ولا قوة إلا بالله'
+- id: hadith-9-prayer-light-or-with-qarun
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prayer kept is light, proof and salvation; neglected, its man is with Qārūn, Pharaoh, Hāmān and Ubayy b. Khalaf
+  read:
+  - Jāmiʿ 9:1129.1
+  quran: []
+  tags:
+  - motif: prayer-kept-is-light-proof-salvation
+    refs:
+    - Jāmiʿ 9:1129.1
+    note: من حافظ عليها كانت له نورًا وبرهانًا ونجاةً يوم القيامة، ومن لم يحافظ عليها لم يكن له نور ولا برهان ولا نجاة
+  - motif: neglecter-raised-with-qarun-pharaoh-haman-ubayy
+    refs:
+    - Jāmiʿ 9:1129.1
+    note: وكان يوم القيامة مع قارونَ وفرعونَ وهامان وأبيّ بن خَلفَ
+  - motif: korah-pharaoh-haman-trio
+    refs:
+    - Jāmiʿ 9:1129.1
+    note: مع قارونَ وفرعونَ وهامان
+- id: hadith-9-handholds-of-islam-undone
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The handholds of Islam undone one by one: first rule, last the prayer'
+  read:
+  - Jāmiʿ 9:1129.2
+  quran: []
+  tags:
+  - motif: handholds-of-islam-undone-first-rule-last-prayer
+    refs:
+    - Jāmiʿ 9:1129.2
+    note: لتُنْقَضَنَّ عُرى الإِسلام عُروةً عَروةً، فكلما انتُقِضَتْ عُروة تَشَبَّثَ الناس بالتي تليها، وأولُهن نَقْضًا الحكمُ، وآخرهُنَّ الصلاةُ
+- id: hadith-9-prayer-proof-fasting-shield
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'To Kaʿb b. ʿUjra: prayer a proof, fasting a shield, charity quenches sin as water fire'
+  read:
+  - Jāmiʿ 9:1130.1-1130.2
+  quran: []
+  tags:
+  - motif: prayer-proof-fasting-shield-charity-quenches-sin-as-water-fire
+    refs:
+    - Jāmiʿ 9:1130.1
+    - Jāmiʿ 9:1130.2
+    note: 'الصوم جُنّة، والصدقة تطفئ الخطيئة، والصلاة قربان - أو قال -: برهان ... والصدقة تطفئ الخطيئة كما يطفيء الماء النار'
+  - motif: flesh-grown-from-unlawful-gain-fire-fitter-for-it
+    refs:
+    - Jāmiʿ 9:1130.1
+    - Jāmiʿ 9:1130.2
+    note: إنه لا يدخل الجنة لحم نبت من سحت، النار أولى بها ... إنه لا يربو لحم نبت من سحت إلا كانت النار أولى به
+  hints:
+  - Charity puts out sin 'as water puts out fire' (Jāmiʿ 9:1130.2) against Sirach 3:30, 'water extinguishes a blazing fire, and almsgiving atones for sins'
+- id: hadith-9-give-us-rest-bilal
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Stand, Bilāl, and give us rest with the prayer'''
+  read:
+  - Jāmiʿ 9:1130.3
+  quran: []
+  tags:
+  - motif: give-us-rest-with-the-prayer
+    refs:
+    - Jāmiʿ 9:1130.3
+    note: قم يا بلال، فأرحْنا بالصلاة
+- id: hadith-9-gabriel-leads-the-times
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Gabriel descends and leads the five prayers at their times on two days: ''this is the time of the prophets before you'''
+  read:
+  - Jāmiʿ 9:1132.1-1136.1
+  quran:
+  - 4:103
+  - 30:17-18
+  - 17:78
+  tags:
+  - motif: governor-delays-prayer-rebuked-with-gabriels-precedent
+    refs:
+    - Jāmiʿ 9:1132.1
+    note: أخَّرَ الصلاة يومًا ... أن جبريل نزل فصلَّى، فصلى رسول الله ﷺ، ثم صلَّى، فصلَّى رسول الله ﷺ ... ثم قال "بهذا أمرتُ"
+  - motif: gabriel-leads-five-prayers-on-two-days
+    refs:
+    - Jāmiʿ 9:1133.1
+    - Jāmiʿ 9:1134.1
+    - Jāmiʿ 9:1135.1
+    - Jāmiʿ 9:1136.1
+    note: أمَّني جبريل ﵇ عند البيت مرتين ... والوقت ما بين هذين الوقتين ... ما بين هذين وقت كلُّه ... الصلاة ما بين صلاتِك أمْسِ وصلاتِك اليومَ
+  - motif: asr-at-shadow-equal-then-double
+    refs:
+    - Jāmiʿ 9:1133.1
+    - Jāmiʿ 9:1134.1
+    - Jāmiʿ 9:1135.1
+    - Jāmiʿ 9:1136.1
+    note: وصَلَّى بي الظُّهْر حين زالتِ الشمسُ، وكانت قدر الشِّراكِ، وصَلَّى بي العصرَ حين كان ظِلُّه مثله ... حين كان ظِلُّه مثْليْه
+  - motif: maghrib-when-the-faster-breaks-dawn-when-food-forbidden
+    refs:
+    - Jāmiʿ 9:1133.1
+    - Jāmiʿ 9:1134.1
+    - Jāmiʿ 9:1135.1
+    note: وصَلَّى بي - يعني المغربَ حين أفْطَر الصائمُ ... وصلى بي الفجر حين حُرمَ الطعامُ والشرابُ على الصائم ... وقْتًا واحدًا لم يَزُلْ عنه
+  - motif: this-is-the-time-of-the-prophets-before-you
+    refs:
+    - Jāmiʿ 9:1133.1
+    note: يا محمد! هذا وقت الأنبياء من قبلك
+  hints:
+  - Gabriel's 'this is the time of the prophets before you' (Jāmiʿ 9:1133.1) against b. Berakhot 26b, the three daily prayers instituted by Abraham (morning), Isaac (afternoon) and Jacob (evening)
+  - The afternoon prayer fixed by a man's shadow equal to his height (Jāmiʿ 9:1133.1-1136.1) against m. Berakhot 4:1, where the afternoon prayer runs 'until evening' or, for R. Judah, until plag ha-minḥa
+- id: hadith-9-practice-of-the-times
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Jābir and Abū Barza on how the Prophet timed the prayers
+  read:
+  - Jāmiʿ 9:1136.2-1137.1
+  quran: []
+  tags:
+  - motif: noon-in-midday-heat-dawn-in-darkness
+    refs:
+    - Jāmiʿ 9:1136.2
+    note: يُصَلِّي الظُّهْر بالهاجِرة، والعَصْرَ والشمسُ نقيةٌ، والمغربَ إذا وجبتْ ... والصُّبْحَ ... بغَلَسٍ
+  - motif: night-prayer-early-if-gathered-late-if-slow
+    refs:
+    - Jāmiʿ 9:1136.2
+    note: 'والعِشاءَ أحيانًا وأحيانًا: إذا رآهم اجتمعوا عَجَّل، وإذا رآهم أبطؤوا أخَّرَ'
+  - motif: dawn-prayer-sixty-to-hundred-verses-neighbour-recognised
+    refs:
+    - Jāmiʿ 9:1137.1
+    note: يُصَلِّي الصُّبْح، وأحدنا يعرف جَليسَه، ويقرأ فيها ما بين الستين إلى المائة
+  - motif: night-prayer-delay-to-third-or-half-of-night
+    refs:
+    - Jāmiʿ 9:1137.1
+    note: 'ولا يُبالي بتأخير العِشاء إلى ثلثِ اللَّيل - ثم قال: إلى شطر الليل'
+- id: hadith-9-limits-and-forbidden-times
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The limits of each prayer's time; the sun rises and sets between Satan's horns; hell is stoked at noon
+  read:
+  - Jāmiʿ 9:1137.2-1138.1
+  quran: []
+  tags:
+  - motif: each-prayers-time-runs-until-the-next-sign
+    refs:
+    - Jāmiʿ 9:1137.2
+    note: وقْتُ الظُّهْرِ ما لم يحضرِ العصرُ، ووقْتُ العَصْرِ ما لم تصْفَرَّ الشمسُ، ووقتُ المغْربِ ما لم يسقُطْ ثَورُ الشَّفَق، ووقت العِشاء إلى نصِف اللّيلِ
+  - motif: sun-rises-between-satans-horns-unbelievers-bow-to-it
+    refs:
+    - Jāmiʿ 9:1137.2
+    - Jāmiʿ 9:1138.1
+    note: فإنَّها تطلعُ بين قرني شيطان ... فإنَّها تطلعُ حِينَ تطلعُ بينَ قرنيْ شَيطان، وحينَئِذٍ يسجدُ لها الكفارُ
+  - motif: hell-stoked-when-shadow-stands-with-the-spear
+    refs:
+    - Jāmiʿ 9:1138.1
+    note: حتى يستَقِلَّ الظِلُّ بالرُمْحٍ، ثم أقْصِرْ عن الصلاةِ فإنَّ حينَئِذٍ تُسْجَرُ جَهَنَّمُ
+  - motif: prayer-is-witnessed-and-attended
+    refs:
+    - Jāmiʿ 9:1138.1
+    note: ثم صَلِّ فإنَّ الصلاةَ مَشْهُودةٌ محْضُورةٌ
+  hints:
+  - The unbelievers prostrate to the rising sun, so prayer is withheld then (Jāmiʿ 9:1138.1) against Ezek 8:16, the twenty-five men at the temple door with their backs to the sanctuary bowing eastward to the sun
+- id: hadith-9-questioner-shown-two-days
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A questioner told 'pray with us these two days'; the time is between them
+  read:
+  - Jāmiʿ 9:1138.2-1139.2
+  quran: []
+  tags:
+  - motif: questioner-answered-by-two-days-of-practice
+    refs:
+    - Jāmiʿ 9:1138.2
+    - Jāmiʿ 9:1139.1
+    note: '"صَلِّ معنا هذين" يعني اليومين ... فلم يرُدَّ عليه شيئًا ... ثم أصبح فدعا السائلَ فقال: "الوقت بين هذين"'
+  - motif: noon-said-to-be-midday-he-knew-better
+    refs:
+    - Jāmiʿ 9:1139.1
+    note: 'والقائل يقول: قد انتصفَ النهارُ وهو كان أعلمَ منهم ... والقائل يقول: قد طلعتِ الشمسُ أو كادتْ'
+  - motif: dawn-prayer-until-sight-widens
+    refs:
+    - Jāmiʿ 9:1139.2
+    note: ويُصَلِّي الصُّبْحَ إلى أن يَنْفَسِحَ البصرُ
+- id: hadith-9-prayer-at-its-time
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prayer at its time is the deed God loves most; he never prayed at the last time
+  read:
+  - Jāmiʿ 9:1141.1-1143.1
+  quran: []
+  tags:
+  - motif: best-deed-prayer-on-time-then-parents-then-jihad
+    refs:
+    - Jāmiʿ 9:1141.1
+    note: 'أي العملِ أحبُّ إلى الله؟ قال: "الصلاة على وقتها"، قال: ثم أيٌّ؟ قال: "برُّ الوالدين"، قال: ثم أيٌّ؟ قال: "الجهاد في سبيل الله"'
+  - motif: never-prayed-at-last-time-until-death
+    refs:
+    - Jāmiʿ 9:1143.1
+    note: ما صَلَّى رسولُ الله ﷺ صلاةً لوقتها الآخر حتى قبضه الله
+- id: hadith-9-rulers-who-kill-the-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Rulers who delay the prayer: pray it on time, then again with them as supererogatory'
+  read:
+  - Jāmiʿ 9:1144.1-1145.1
+  quran: []
+  tags:
+  - motif: pray-on-time-then-with-late-rulers-as-supererogatory
+    refs:
+    - Jāmiʿ 9:1144.1
+    - Jāmiʿ 9:1145.1
+    note: أمراء يُؤخِّرُون الصلاة عن وقتها، أو يُمِيتُونَ الصلاةَ عن وقتِها ... "فصَلِّ الصلاة لوقتها، فإن أدركتَها معهم فَصلّ فإنها لك نافلة" ... واجعل صلاتك معهم سُبحة
+  - motif: thigh-struck-down-the-chain
+    refs:
+    - Jāmiʿ 9:1144.1
+    note: 'فعَضَّ على شَفَتِه وضرب فَخِذِي وقال: إني سألت أبا ذر كما سألتني، فضرب فَخِذِي كما ضربتُ فَخِذك'
+  - motif: love-for-a-hoarse-voiced-takbir
+    refs:
+    - Jāmiʿ 9:1145.1
+    note: 'فسمعتُ تكبيره مع الفجْرِ رجلٌ أجَشَّ الصوت، قال: فألقيتُ عليه محبتي. فما فارقتُه حتى دفنتُه بالشام ميتًا'
+- id: hadith-9-dawn-in-darkness
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Women leave the dawn prayer wrapped and unrecognised in the darkness
+  read:
+  - Jāmiʿ 9:1146.1-1147.1
+  quran: []
+  tags:
+  - motif: women-leave-dawn-prayer-wrapped-unrecognised
+    refs:
+    - Jāmiʿ 9:1146.1
+    - Jāmiʿ 9:1147.1
+    note: فينصرفُ النِّسَاءُ متُلَفِّعاتٍ بمُرُطهنَّ ما يُعرَفنَ من الغَلَسِ
+  - motif: prophet-stays-in-place-so-women-leave-first
+    refs:
+    - Jāmiʿ 9:1147.1
+    note: وكان النبي ﷺ إذا سَلَّم مكانه مكانه قليلًا، وكانوا يرون أن ذلك كيما ينفذ النساءُ قبل الرجال
+  - motif: hurry-from-predawn-meal-to-dawn-prayer
+    refs:
+    - Jāmiʿ 9:1146.2
+    note: كنت أتسحر في أهلي، ثم يكون سرعة بي أن أدرك صلاة الفجر مع رسول الله ﷺ
+  - motif: dawn-prayer-moved-to-light-after-umar-stabbed
+    refs:
+    - Jāmiʿ 9:1146.3
+    note: هذه صلاتُنا كانت مع رسول الله ﷺ وأبي بكر وعمر، فَلمَّا طُعِن عمرُ أسفَرَ بها عثمانُ
+- id: hadith-9-dawn-in-light
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Pray the dawn in the morning light: greater reward'''
+  read:
+  - Jāmiʿ 9:1147.2
+  quran: []
+  tags:
+  - motif: dawn-prayer-in-full-morning-greater-reward
+    refs:
+    - Jāmiʿ 9:1147.2
+    note: أصبحوا بالصُّبح، فإنَّه أعظمُ لأجوركم" أو "أعظم للأجر
+- id: hadith-9-cool-the-noon-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Delay noon in great heat: the heat is the breath of hell'
+  read:
+  - Jāmiʿ 9:1149.1-1151.1
+  quran: []
+  tags:
+  - motif: delay-noon-in-heat-it-is-hells-exhalation
+    refs:
+    - Jāmiʿ 9:1149.1
+    - Jāmiʿ 9:1149.2
+    - Jāmiʿ 9:1150.1
+    - Jāmiʿ 9:1150.3
+    - Jāmiʿ 9:1150.4
+    - Jāmiʿ 9:1151.1
+    note: إذا اشتدَّ الحرُّ، فأبرِدُوا عن الصلاة فإن شِدَّة الحَرِّ من فَيح جَهنَّم
+  - motif: wait-until-hillocks-cast-shade
+    refs:
+    - Jāmiʿ 9:1149.2
+    note: 'أَذَّنَ مؤذِّنُ رسول الله ﷺ بالظُّهر، فقال النبي ﷺ: "أَبرِد أَبرِد" أو قال: "انتَظِر انتَظِر" ... حتى رأينا فيءَ التُّلولِ'
+  - motif: noon-measured-three-to-five-feet-summer-five-to-seven-winter
+    refs:
+    - Jāmiʿ 9:1150.2
+    note: كانت قدر صلاة رسول الله ﷺ في الصيف ثلاثة أقدام إلى خمسة أقدام، وفي الشِّتاء خمسة أقدام إلى سبعة أقدام
+- id: hadith-9-noon-early-in-heat
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Noon prayed at decline in the heat: prostrating on garments and cooled pebbles'
+  read:
+  - Jāmiʿ 9:1152.1-1154.3
+  quran: []
+  tags:
+  - motif: prostrate-on-own-garment-in-heat
+    refs:
+    - Jāmiʿ 9:1152.1
+    note: فإذا لم يستطِع أحدُنا أن يُمكِّنَ جبهته من الأرض، بسط ثوبَه، فسجد عليه
+  - motif: pebbles-cooled-in-palm-for-forehead
+    refs:
+    - Jāmiʿ 9:1154.1
+    note: فآخذ قبضة من الحصى لتبرد في كفِّي أضعها لجبهتي أَسجد عليها لشدة الحَرِّ
+  - motif: noon-prayed-when-sun-declines
+    refs:
+    - Jāmiʿ 9:1153.1
+    - Jāmiʿ 9:1153.2
+    - Jāmiʿ 9:1154.2
+    note: خرج حين زاغتِ الشمس فصلي الظُّهرَ ... يُصلي الظُّهر إذا دَحَضَتِ الشمسُ ... أشد تعجيلًا للظُّهر منكم
+  - motif: complaint-of-scorching-ground-not-relieved
+    refs:
+    - Jāmiʿ 9:1153.3
+    note: فشكونا إليه حرَّ الَرمضَاءِ فلم يُشكِنا
+  - motif: no-departure-from-halt-before-noon-prayer
+    refs:
+    - Jāmiʿ 9:1154.3
+    note: 'كان النبي ﷺ إذا نزل منزلًا لم يرتحل منه حتى يُصَلِّي الظُّهر، فقال له رجل: وإن كان بنصف النهار؟ قال: وإن كان بنصف النهار'
+- id: hadith-9-afternoon-early
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The afternoon prayed early: sun still in Aisha''s room, a camel slaughtered and eaten before sunset; the hypocrite''s four pecks'
+  read:
+  - Jāmiʿ 9:1155.1-1157.3
+  quran: []
+  tags:
+  - motif: asr-while-sun-still-in-the-room
+    refs:
+    - Jāmiʿ 9:1155.1
+    note: صلى العصر، والشمسُ في حجرتها، لم يظهر الفيءُ من حجرتها
+  - motif: after-asr-reach-outlying-quarters-with-sun-high
+    refs:
+    - Jāmiʿ 9:1155.2
+    - Jāmiʿ 9:1156.1
+    - Jāmiʿ 9:1156.2
+    - Jāmiʿ 9:1157.3
+    note: ثم يخرج الإنسان إلى بني عمرو بن عوف فيجدهم يصلون العصر ... فيذهب الذّاهب إلى العوالي فيأتيهم، والشمسُ مرتفِعة ... والشمسُ بيضاء مُحلِّقَة
+  - motif: camel-slaughtered-ten-parts-cooked-eaten-before-sunset
+    refs:
+    - Jāmiʿ 9:1156.3
+    - Jāmiʿ 9:1157.2
+    note: ثم تُنحر الجزورُ، فتُقسم عشرَ قِسم، ثم تُطبخُ فنأكلُ لحمًا نضيجًا قبل مَغيب الشمس
+  - motif: sun-between-satans-horns
+    refs:
+    - Jāmiʿ 9:1157.1
+    note: تلك صلاةُ المنافقين ... يجلسُ أحدُهم حتى إذا اصفرتِ الشمسُ، وكانت بين قرنَي الشَيطانِ ... قام فَنَقَرَ أربعًا، لا يذكرُ الله فيها إلا قليلًا
+- id: hadith-9-day-labourers-of-the-books
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Torah, Gospel and Quran peoples as labourers of one day: a carat each, then two carats'
+  read:
+  - Jāmiʿ 9:1158.1
+  quran: []
+  tags:
+  - motif: communitys-span-like-asr-to-sunset
+    refs:
+    - Jāmiʿ 9:1158.1
+    note: إنما بقاؤكم فيما سلفَ قبلكم من الأُمَم كما بين صلاة العَصرِ إلى غروبِ الشمسِ
+  - motif: torah-gospel-quran-folk-paid-by-carat-for-a-days-work
+    refs:
+    - Jāmiʿ 9:1158.1
+    note: أُوتي أهلُ التوراةِ التوراةَ فعملوا حتى إذا انتصفَ النهارُ عَجزوا، فأُعطوا قيراطًا قيراطًا ... ثم أُوتينا القرآن فعمِلنا إلى غروب الشمسِ، فأعطينا قيراطين قيراطَين
+  - motif: did-i-wrong-you-of-your-wage-it-is-my-favour
+    refs:
+    - Jāmiʿ 9:1158.1
+    note: 'ونحن كُنَّا أكثرَ عَملًا، قال: قال الله ﷿: هل ظلمتُكُم من أجركم من شيء؟ قالوا: لا، قال: فهو فَضلي أوتيه من أشَاءُ'
+  hints:
+  - 'Labourers of one day paid by the hour, the earlier complaining and told ''have I wronged you of your wage?... it is my favour'' (Jāmiʿ 9:1158.1) against Matt 20:1-16, the vineyard labourers: ''Friend, I do you no wrong ... am I not allowed to do what I choose with what belongs to me?'''
+- id: hadith-9-missing-the-afternoon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Who misses the afternoon prayer is as one robbed of family and wealth; leaving it voids deeds
+  read:
+  - Jāmiʿ 9:1158.2-1159.2
+  quran: []
+  tags:
+  - motif: missed-prayer-like-losing-family-and-wealth
+    refs:
+    - Jāmiʿ 9:1158.2
+    - Jāmiʿ 9:1159.2
+    note: الذي تفوتُه صلاةُ العصر كأنَّما وُتِر أهلَه ومالَه ... من الصلاةِ صلاة، من فَاتَته فكأنَّما وُتِر أهلَه ومالَه
+  - motif: leaving-asr-voids-deeds-hasten-on-cloudy-day
+    refs:
+    - Jāmiʿ 9:1159.1
+    note: 'في يومٍ ذي غيم، فقال: بَكِّروا بصلاة العصر، فإن النبيَّ ﷺ قال: "من ترك صلاة العصر فقد حَبِطَ عملُه"'
+- id: hadith-9-middle-prayer-is-asr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The middle prayer is the afternoon prayer: kept from it at the Trench, the Prophet curses the besiegers'
+  read:
+  - Jāmiʿ 9:1160.1-1162.2
+  quran:
+  - 2:238
+  tags:
+  - motif: middle-prayer
+    refs:
+    - Jāmiʿ 9:1160.1
+    - Jāmiʿ 9:1161.1
+    - Jāmiʿ 9:1161.3
+    note: شَغَلُونا عن الصلاة الوُسْطى ... ﴿حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى﴾
+  - motif: middle-prayer-is-asr
+    refs:
+    - Jāmiʿ 9:1160.2
+    - Jāmiʿ 9:1161.2
+    - Jāmiʿ 9:1162.1
+    - Jāmiʿ 9:1162.2
+    note: شَغَلُونا عن الصلاة الوُسْطى صلاة العَصرِ ... صلاةُ الوُسطى صلاةُ العصر ... فأعلمنا أنها صلاةُ العصر
+  - motif: fill-their-houses-and-graves-with-fire
+    refs:
+    - Jāmiʿ 9:1160.1
+    - Jāmiʿ 9:1160.2
+    - Jāmiʿ 9:1161.3
+    - Jāmiʿ 9:1162.1
+    note: 'مَلأَ الله بُيوتَهم وقُبورَهم نارًا ... ملأ الله أجْوَافَهُمْ وقبورَهم نارًا" أو قال: "حَشَا الله أجْوَافَهُمْ'
+  - motif: verse-read-with-and-the-asr-prayer
+    refs:
+    - Jāmiʿ 9:1161.1
+    note: 'فنزلت: (حافظوا على الصلوات وصلاة العصر). فقرأناها ما شاء الله، ثم نسخها الله، فنزلت: ﴿حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى﴾'
+  - motif: bold-companion-sent-in-to-ask-which-is-middle
+    refs:
+    - Jāmiʿ 9:1162.2
+    note: 'اختلفنا كما اختلفتم ... وفينا الرجلُ الصالح: أبو هاشم بن عتبة، فقام فدخل على رسول الله ﷺ، وكان جريئًا عليه، ثم خرج إلينا فأعلمنا أنها صلاةُ العصر'
+- id: hadith-9-middle-prayer-noon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Aisha''s scribe told to stop at the verse of the middle prayer; Zayd b. Thābit: it is the noon prayer'
+  read:
+  - Jāmiʿ 9:1163.1-1163.2
+  quran:
+  - 2:238
+  tags:
+  - motif: middle-prayer
+    refs:
+    - Jāmiʿ 9:1163.1
+    - Jāmiʿ 9:1163.2
+    note: ﴿حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى وَقُومُوا لِلَّهِ قَانِتِينَ﴾
+  - motif: wife-has-mushaf-written-tell-me-at-this-verse
+    refs:
+    - Jāmiʿ 9:1163.1
+    note: 'أمرتْني عائشة أن أكتُبَ لها مُصْحفًا وقالت: إذا بلغْتَ هذه الآية فَآذِنِّي ... فأمْلَتْ عَليَّ ... قالت عائشة: سَمعتُها من رسول الله ﷺ'
+  - motif: middle-prayer-is-noon-two-before-two-after
+    refs:
+    - Jāmiʿ 9:1163.2
+    note: 'يُصَلِّي الظُّهْر بالهاجِرة ولم يكنْ يُصَلِّي صلاةً أشَدَّ على أصحاب رسول الله ﷺ منها، فنزلت ... وقال: إن قبلها صلاتين، وبعدها صلاتين'
+- id: hadith-9-sunset-early
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sunset prayer when the sun is veiled; leaving it one still sees where his arrow falls
+  read:
+  - Jāmiʿ 9:1164.1-1167.1
+  quran: []
+  tags:
+  - motif: maghrib-when-sun-hidden-by-the-veil
+    refs:
+    - Jāmiʿ 9:1164.1
+    note: كان يُصَلِّي المغربَ إذا غربَتِ الشمْسُ، وتوارتْ بالحجاب
+  - motif: after-maghrib-arrow-fall-still-seen
+    refs:
+    - Jāmiʿ 9:1164.2
+    - Jāmiʿ 9:1165.1
+    - Jāmiʿ 9:1166.1
+    - Jāmiʿ 9:1166.2
+    - Jāmiʿ 9:1167.1
+    note: فَيَنْصَرِفُ أحدُنا، وإنَّه ليُبْصِرُ مواقَع نبْلهِ ... يرمون ويُبصرون مواقعَ سهامِهم ... وهي مِيلٌ وأنا أُبْصر مواقع النَبْلِ
+  - motif: community-good-while-maghrib-not-delayed-till-stars-thick
+    refs:
+    - Jāmiʿ 9:1164.3
+    note: 'لا تزال أمَّتي بخيرٍ، أو قال: على الفِطْرةِ ما لم يؤخروا المغربَ إلى أن تشتبكَ النجوم'
+  hints:
+  - Sunset prayer not to wait for the stars to crowd (Jāmiʿ 9:1164.3) against b. Shabbat 35b, night reckoned from the appearance of three middling stars
+- id: hadith-9-night-prayer-delayed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The night prayer delayed: none on earth awaits it but you; but for burdening my community I would pray it now'
+  read:
+  - Jāmiʿ 9:1167.2-1174.2
+  quran:
+  - 3:113-115
+  tags:
+  - motif: umar-calls-out-women-and-children-asleep
+    refs:
+    - Jāmiʿ 9:1167.2
+    - Jāmiʿ 9:1170.1
+    note: 'فلم يخرجْ رسولُ الله ﷺ حتى قال عمر بن الخطاب: نام النساءُ والصِّبيانُ ... فقام عمر بن الخطاب فقال: الصلاةَ!'
+  - motif: none-on-earth-awaits-this-prayer-but-you
+    refs:
+    - Jāmiʿ 9:1167.2
+    - Jāmiʿ 9:1168.1
+    - Jāmiʿ 9:1169.2
+    - Jāmiʿ 9:1174.2
+    note: ما ينتظرها أحدٌ من أهل الأرض غيرُكم ... ما ينتظرها أهْلُ دين غيرُكم ... ليس من أهل هذه الأديان أحدٌ يذْكر الله هذه الساعة غيرَكم
+  - motif: toothstick-and-late-isha-not-imposed
+    refs:
+    - Jāmiʿ 9:1167.2
+    - Jāmiʿ 9:1168.1
+    - Jāmiʿ 9:1170.1
+    - Jāmiʿ 9:1170.3
+    - Jāmiʿ 9:1172.1
+    - Jāmiʿ 9:1172.3
+    - Jāmiʿ 9:1173.1
+    note: إنه لوَقْتُها، لولا أن أشقَّ على أمتي ... لأمرتهم بالسواك عند كل صلاة، ولأخَّرتُ صلاة العِشاءِ إلى ثُلثِ الليل ... ولولا ضَعْفُ الضِّعِيفِ، وسُقْمُ السَّقيم
+  - motif: in-prayer-so-long-as-you-wait-for-it
+    refs:
+    - Jāmiʿ 9:1169.1
+    - Jāmiʿ 9:1172.1
+    - Jāmiʿ 9:1173.1
+    note: قد صلَّى الناسُ ونامُوا، أَما إنَّكم في صلاةٍ ما انتظرتموها
+  - motif: comes-out-head-dripping-hand-on-head
+    refs:
+    - Jāmiʿ 9:1170.1
+    note: فخرج نبي الله ﷺ كأنّي أنظر إليه الآن، يَقْطُر رأسه ماءً واضِعًا يدَه على شقِّ رأسِه
+  - motif: glint-of-his-ring-remembered
+    refs:
+    - Jāmiʿ 9:1169.1
+    note: فكأني أنظُر إلى وَبِيضِ خَاتَمه
+  - motif: ship-companions-take-turns-at-night-prayer
+    refs:
+    - Jāmiʿ 9:1169.2
+    note: أنا وأصْحابي الذين قدِموا معي في السَّفِينة نُزولًا في بَقِيع بُطْحان ... فكان يتناوبُ رسول الله ﷺ عند صلاةِ العِشاءِ كلَّ ليلَةٍ نفرٌ منهم ... حتى أبهارَّ اللَّيلُ ... فرجعنا فرحين
+  - motif: night-prayer-when-third-nights-moon-sets
+    refs:
+    - Jāmiʿ 9:1171.1
+    note: أنا أعلم الناس بوقت هذه الصلاة، كان رسولُ الله ﷺ يُصَلِّيها لسقوط القمر الثالثة
+  - motif: night-prayer-time-when-night-fills-every-valley
+    refs:
+    - Jāmiʿ 9:1174.1
+    note: 'سُئِل رسولُ الله ﷺ عن وقت العشاء فقال: "إذا ملأ الليلُ بطن كُلِّ وادٍ"'
+  - motif: night-prayer-never-prayed-by-a-nation-before
+    refs:
+    - Jāmiʿ 9:1172.2
+    note: أَعْتِنموا بهذه الصلاة، فإنكم قد فُضِّلْتُم بها على سائر الأمم، ولم تُصَلِّها أمةٌ قبلكم
+  hints:
+  - The night prayer 'no nation before you prayed' (Jāmiʿ 9:1172.2) against b. Berakhot 27b, where the evening prayer (tefillat ʿarvit) is held optional (reshut)
+- id: hadith-9-names-of-the-prayers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Do not let the bedouin take over the names of your prayers: it is al-ʿishāʾ, they ''darken'' over the camels'
+  read:
+  - Jāmiʿ 9:1175.1-1176.2
+  quran:
+  - '24:58'
+  tags:
+  - motif: bedouin-must-not-take-over-prayer-names
+    refs:
+    - Jāmiʿ 9:1175.1
+    - Jāmiʿ 9:1176.2
+    note: 'لا تَغْلِبَنَّكُم الأَعْرَابُ على اسم صلاتِكم، أَلا إِنَّها العِشَاءُ، وهم يُعْتِمُونَ بالإِبِل ... فإنها في كتاب الله العِشاءُ ... على اسمِ صلاتِكم المغرب" قال: وتقول الأعرابُ: هي العِشاءُ'
+  - motif: none-now-living-survives-a-century
+    refs:
+    - Jāmiʿ 9:1176.1
+    note: فإن رأس مائة سنةٍ منها لا يبقى ممن هو على ظهر الأرض أحدٌ
+- id: hadith-9-talk-after-the-night-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sleep before and talk after the night prayer disliked; talk of the community's affairs allowed; the century saying misread
+  read:
+  - Jāmiʿ 9:1177.1-1178.1
+  quran: []
+  tags:
+  - motif: sleep-before-night-prayer-and-talk-after-disliked
+    refs:
+    - Jāmiʿ 9:1177.1
+    note: إن رسول الله ﷺ كان يكره النوم قبل العشاء والحديث بعدها
+  - motif: in-prayer-so-long-as-you-wait-for-it
+    refs:
+    - Jāmiʿ 9:1177.2
+    note: وإنكم لم تزالوا في صلاةٍ ما انتظرتم الصلاة
+  - motif: none-now-living-survives-a-century
+    refs:
+    - Jāmiʿ 9:1177.3
+    note: فإنَّ رأسَ مائةِ سنةٍ لا يَبْقى ممن هو اليوم على ظهر الأرض أحدٌ
+  - motif: century-saying-misread-means-end-of-that-generation
+    refs:
+    - Jāmiʿ 9:1177.3
+    note: فوَهِلَ الناسُ في مقالة رسول الله ﷺ إلى ما يتحدثون من هذه الأحاديث عن مائة سنة ... يريد بذلك أنَّها تخرِمُ ذلك القرنَ
+  - motif: night-talk-with-abu-bakr-on-muslims-affairs
+    refs:
+    - Jāmiʿ 9:1178.1
+    note: كان رسول الله ﷺ يسْمُرُ مع أبي بكر في الأمر من أمور المسلمين، وأنا معهما
+- id: hadith-9-one-rakaa-catches-the-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: One rakʿa before sunrise or sunset catches the prayer
+  read:
+  - Jāmiʿ 9:1178.2-1179.1
+  quran: []
+  tags:
+  - motif: one-rakaa-before-sunrise-or-sunset-catches-prayer
+    refs:
+    - Jāmiʿ 9:1178.2
+    - Jāmiʿ 9:1178.3
+    - Jāmiʿ 9:1179.1
+    note: من أدرك من الصُّبْحِ ركعةً قبل أن تطلُعَ الشمسُ فقد أدرك الصُّبْحَ ... والسجدةُ إنما هي الركعة
+- id: hadith-9-beginning-of-the-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Bell like the Christians, horn like the Jews, or fire: rejected; the call shown in a dream'
+  read:
+  - Jāmiʿ 9:1180.1-1180.2
+  - Jāmiʿ 9:1182.1-1182.2
+  quran: []
+  tags:
+  - motif: bell-like-christians-horn-like-jews-rejected
+    refs:
+    - Jāmiʿ 9:1180.1
+    - Jāmiʿ 9:1180.2
+    - Jāmiʿ 9:1182.1
+    note: 'اتخذوا ناقوسًا مثل ناقوس النصارى، وقال بعضهم: بل بوقًا مثل قرن اليهود ... فذكر له القُنْع - يعني الشَّبُّور ... "هو من أمر اليهود" ... "هو من أمر النصاري"'
+  - motif: fire-or-banner-proposed-as-signal-for-prayer
+    refs:
+    - Jāmiʿ 9:1180.2
+    - Jāmiʿ 9:1182.1
+    note: ذكروا النارَ والناقوس ... أن يُنَوِّروا نارًا ... انصب راية عند حضور الصلاة، فإذا رأوها آذن بعضهم بعضًا
+  - motif: first-call-a-man-crying-the-prayer
+    refs:
+    - Jāmiʿ 9:1180.1
+    note: 'فقال عمر: أَوَلا تبعثون رجلًا ينادي بالصلاة؟ فقال رسول الله ﷺ: "يا بلال قُم فنادِ بالصلاة"'
+  - motif: call-to-prayer-shown-in-a-dream-between-sleep-and-waking
+    refs:
+    - Jāmiʿ 9:1182.1
+    - Jāmiʿ 9:1182.2
+    note: فأرِي الأذان في منامه ... إني لبين نائم ويقظان إذ أتاني آتٍ فأراني الأذان ... "إن هذه الرؤيا حق"
+  - motif: second-dreamer-kept-silent-twenty-days-for-shame
+    refs:
+    - Jāmiʿ 9:1182.1
+    - Jāmiʿ 9:1182.2
+    note: 'وكان عمر بن الخطاب ﵁، قد رآه قبل ذلك فكتمه عشرين يومًا ... فقال: سبقني عبد الله بن زيْد، فاستحييت ... خرج إلى رسول الله ﷺ يجر رداءه'
+  - motif: louder-voice-chosen-to-call-dreamer-teaches-him
+    refs:
+    - Jāmiʿ 9:1182.1
+    - Jāmiʿ 9:1182.2
+    note: فقم مع بلال، فإنه أندي، أو أمدَّ - صوتًا منك، فألق عليه ما قيل لك ... لولا أنه كان يومئذ مريضًا لجعله رسول الله ﷺ مؤذنًا
+  - motif: call-in-pairs-iqama-single
+    refs:
+    - Jāmiʿ 9:1180.2
+    note: فأمر بلالا أن يشفع الأذان، وأن يُوتر الإقامة
+  hints:
+  - The Jews' horn (qarn, būq, shabbūr) proposed and refused as summons to prayer (Jāmiʿ 9:1180.1, 1182.1) against Num 10:2-3, the two silver trumpets made 'for summoning the congregation'
+- id: hadith-9-abu-mahdhura-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The call Abū Maḥdhūra was taught, with the testimonies said again in a raised voice
+  read:
+  - Jāmiʿ 9:1180.3
+  - Jāmiʿ 9:1189.2
+  quran: []
+  tags:
+  - motif: call-with-testimonies-repeated-louder
+    refs:
+    - Jāmiʿ 9:1180.3
+    - Jāmiʿ 9:1189.2
+    note: 'ثم يعود فيقول: أشهد أن لا إله إلا الله ... ثم ارجع فمُدَّ من صوتك: أشهد أن لا إله إلا الله'
+  - motif: call-of-nineteen-words-iqama-of-seventeen
+    refs:
+    - Jāmiʿ 9:1189.2
+    note: 'وفي بعض الروايات: علَّمه الأذان تسعة عشر كلمة فذكرها'
+- id: hadith-9-three-without-a-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Three in a village without call or prayer: Satan masters them; the wolf eats the straggler'
+  read:
+  - Jāmiʿ 9:1184.1
+  quran: []
+  tags:
+  - motif: satan-masters-village-without-call-wolf-eats-straggler
+    refs:
+    - Jāmiʿ 9:1184.1
+    note: ما من ثلاثة في قرية لا يؤذَّنُ ولا تُقام فيهم الصلاة، إلا استحوذ عليهم الشيطان، فعليك بالجماعة، فإن الذئب يأكل القاصية
+- id: hadith-9-satan-flees-the-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Satan turns tail at the call breaking wind, returns to whisper; flees as far as al-Rawḥāʾ
+  read:
+  - Jāmiʿ 9:1185.1
+  - Jāmiʿ 9:1188.1
+  quran: []
+  tags:
+  - motif: satan-flees-call-breaking-wind-returns-to-whisper
+    refs:
+    - Jāmiʿ 9:1185.1
+    note: 'إذا نودي للصلاة أدْبَر الشيطان له ضراطٌ حتى لا يسمع النداء ... حتى يَخْطُر بين المرء ونفسه، يقول: أُذكر كذا أُذكر كذا ... حتى يَظَلَّ الرجُل إن يَدْرِي كم صلَّى'
+  - motif: satan-flees-call-to-rawha-thirty-six-miles
+    refs:
+    - Jāmiʿ 9:1188.1
+    note: إن الشيطان إذا سمع النداء بالصلاة ذهب حتى يكون مكان الرَّوْحاء ... هي من المدينة ستة وثلاثون ميلًا
+- id: hadith-9-muezzins-merit
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The muezzin forgiven to the reach of his voice; everything within it testifies; muezzins the longest-necked
+  read:
+  - Jāmiʿ 9:1186.1-1187.1
+  - Jāmiʿ 9:1188.2-1188.3
+  quran: []
+  tags:
+  - motif: muezzin-forgiven-reach-of-voice-twenty-five-prayers
+    refs:
+    - Jāmiʿ 9:1186.1
+    - Jāmiʿ 9:1188.3
+    note: المؤذن يُغفر له مدى صوته، ويشهد له كلُّ رطب ويابس، وشاهدُ الصلاة يُكتب له خمسٌ وعشرون صلاة
+  - motif: all-within-earshot-of-adhan-testify
+    refs:
+    - Jāmiʿ 9:1187.1
+    note: لا يسمع مَدَى صوتِ المؤذن جنٌّ ولا إنس ولا شيءٌ، إلا شهد له يوم القيامة
+  - motif: muezzins-longest-necked-on-resurrection-day
+    refs:
+    - Jāmiʿ 9:1186.2
+    - Jāmiʿ 9:1188.2
+    note: المؤذنون أطول الناس أعناقًا يوم القيامة
+  - motif: raise-voice-calling-alone-with-flock-in-desert
+    refs:
+    - Jāmiʿ 9:1187.1
+    note: إني أَراك تحبُّ الغنم والبادية. فإذا كنت في غنمك، أو باديتك، فأذَّنت بالصلاة فارفع صوتك بالنداء
+- id: hadith-9-bilal-on-the-roof
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Bilāl waits for dawn on the tallest roof, stretches and prays against Quraysh before the call
+  read:
+  - Jāmiʿ 9:1189.1
+  quran: []
+  tags:
+  - motif: muezzin-waits-on-tallest-roof-stretches-prays-before-call
+    refs:
+    - Jāmiʿ 9:1189.1
+    note: 'كان بيتي من أطول بيت حول المسجد ... فيأتي بسَحَر فيجلس على البيت ينظر إلى الفجر، فإذا رآه تَمطَّى، ثم قال: اللَّهم إني أحمدك وأستعينك على قريش أن يقيموا دينك'
+- id: hadith-9-prayer-better-than-sleep
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Prayer is better than sleep'' in the first dawn call'
+  read:
+  - Jāmiʿ 9:1193.1-1194.1
+  quran: []
+  tags:
+  - motif: prayer-better-than-sleep-in-dawn-call
+    refs:
+    - Jāmiʿ 9:1193.1
+    - Jāmiʿ 9:1194.1
+    note: 'وكنتُ أقول في أذان الفجر الأول: حيَّ على الفلاح، الصلاة خير من النوم، الصلاة خير من النوم'
+- id: hadith-9-call-pairs-iqama-single
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The call in pairs, the iqāma single; at the iqāma they wash and come out
+  read:
+  - Jāmiʿ 9:1195.1-1195.2
+  quran: []
+  tags:
+  - motif: call-in-pairs-iqama-single
+    refs:
+    - Jāmiʿ 9:1195.1
+    - Jāmiʿ 9:1195.2
+    note: 'أمر بلال أن يشفعَ الأذانَ، وأن يُوتر الإقامة ... الأذان ... مرتين مرتين، والاقامة مرةً مرةً غير أنه يقول: قد قامتِ الصلاة'
+  - motif: ablution-on-hearing-the-iqama
+    refs:
+    - Jāmiʿ 9:1195.2
+    note: فإذا سمعنا الإقامة توضأنا، ثم خرجنا إلى الصلاة
+- id: hadith-9-two-dawn-calls
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Bilāl calls by night, eat until Ibn Umm Maktūm calls; the true dawn spreads across the horizon
+  read:
+  - Jāmiʿ 9:1199.1-1202.2
+  quran: []
+  tags:
+  - motif: night-caller-then-dawn-caller-eat-until-second
+    refs:
+    - Jāmiʿ 9:1199.1
+    - Jāmiʿ 9:1201.2
+    - Jāmiʿ 9:1201.3
+    - Jāmiʿ 9:1202.2
+    note: إن بلالًا يؤذِّن بليلٍ فكلوا واشربوا حتى ينادي ابن أم مكتوم ... إنَّ ابن مكتوم يؤذن بليل فكلوا واشربوا، حتَّى يؤذن بلال
+  - motif: blind-muezzin-calls-when-told-you-are-at-morning
+    refs:
+    - Jāmiʿ 9:1199.1
+    note: 'وكان رجلًا أعمى، لا يُنادي حتى يقال له: أصبحتَ أصبحتَ'
+  - motif: night-call-to-send-back-the-stander-and-wake-the-sleeper
+    refs:
+    - Jāmiʿ 9:1201.1
+    note: فإنه يؤذِّن - أو ينادي - بليلٍ ليرجعَ قائمكم، ولينتبه نائمُكم
+  - motif: true-dawn-spreads-sideways-not-the-vertical-whiteness
+    refs:
+    - Jāmiʿ 9:1201.1
+    - Jāmiʿ 9:1202.1
+    note: 'وليس أن يقول: الفجرُ أو الصبحُ، وقال بأصابعه ورفعها إلى فوق، وطأطأ إلى أسفل ... ولا الفجر المستطيل، ولكنِ الفجرُ المستطيرُ في الأفق'
+  - motif: woman-asks-muezzin-to-wait-till-she-finishes-meal
+    refs:
+    - Jāmiʿ 9:1202.2
+    note: 'فإن كانت المرأة منا ليبقى عليها شيء من سحورها فتقول لبلال: أمهل حتَّى أفرغ من سَحوري'
+  hints:
+  - The true dawn as light spreading across the horizon, not the upright whiteness (Jāmiʿ 9:1201.1, 1202.1) against m. Yoma 3:1, the watcher's call that 'the whole face of the east is lit' before the morning offering
+- id: hadith-9-call-on-a-journey
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Going home: let one of you call and the eldest lead'
+  read:
+  - Jāmiʿ 9:1203.1
+  quran: []
+  tags:
+  - motif: one-calls-the-eldest-leads
+    refs:
+    - Jāmiʿ 9:1203.1
+    note: فأقمنا عنده عشرين ليلة ... فإذا حضرتِ الصّلاةُ فليُؤذِّنْ لكم أحدكم، وليؤمَّكم أكبركم
+- id: hadith-9-slept-past-dawn
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The camp sleeps past sunrise; 'God took your souls and returned them'; the missed prayers of the Trench
+  read:
+  - Jāmiʿ 9:1203.2-1207.1
+  quran:
+  - '33:25'
+  tags:
+  - motif: watchman-sleeps-camp-wakes-after-sunrise
+    refs:
+    - Jāmiʿ 9:1203.2
+    - Jāmiʿ 9:1207.1
+    note: 'قال بلال: أنا أوقظكم ... فغلبته عيناه فنام ... "من يكلؤنا؟ " فقال بلال: أنا، فناموا حتَّى طلعتِ الشّمس'
+  - motif: army-oversleeps-sun-wakes-them
+    refs:
+    - Jāmiʿ 9:1203.2
+    - Jāmiʿ 9:1206.1
+    - Jāmiʿ 9:1206.2
+    note: فاستيقظ النَّبِيّ ﷺ وقد طلع حاجبُ الشّمسِ ... فاستيقظوا بحرِّ الشّمس
+  - motif: god-took-your-souls-and-returned-them
+    refs:
+    - Jāmiʿ 9:1203.2
+    note: إن الله قبض أرواحكم حين شاء، وردها عليكم حين شاء
+  - motif: move-from-the-place-of-heedlessness
+    refs:
+    - Jāmiʿ 9:1204.1
+    - Jāmiʿ 9:1206.1
+    - Jāmiʿ 9:1206.2
+    note: تحولوا عن مكانكم الذي أصابتكم فيه الغفلةُ ... فارتفعوا قليلًا حتَّى استقلت الشّمسُ ... تنحَّوا عن هذا المكان
+  - motif: missed-dawn-made-up-with-call-two-rakaas-iqama
+    refs:
+    - Jāmiʿ 9:1203.2
+    - Jāmiʿ 9:1206.1
+    - Jāmiʿ 9:1206.2
+    - Jāmiʿ 9:1207.1
+    note: فلمّا ارتفعتِ الشّمسُ وابياضَّتْ قام فصلَّى ... ثم أمر مؤذِّنًا فأذَّن، فصلَّى ركعتين قبل الفجر، ثم أقام ... افعلوا كما كنتم تفعلون ... فكذلك فافعلوا لمن نام أو نسي
+  - motif: trench-missed-prayers-each-with-iqama-before-fighting-verse
+    refs:
+    - Jāmiʿ 9:1205.1
+    note: شَغَلَنا المشركون يوم الخندق عن صلاة الظهر حتَّى غربتِ الشمسُ، وذلك قبل أن ينزل في القتال ما نزل ... فأقام لصلاة الظهر ... ثم أقام للعصر ... ثم أذَّن للمغرب
+- id: hadith-9-lone-callers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The lone herdsman''s call: ''on the fitra'', ''out of the fire''; God marvels at the shepherd on the crag'
+  read:
+  - Jāmiʿ 9:1207.2-1208.2
+  quran: []
+  tags:
+  - motif: raid-held-back-if-call-heard-at-dawn
+    refs:
+    - Jāmiʿ 9:1207.2
+    note: كان رسول الله ﷺ يُغير إذا طلع الفجرُ، وكان يستمع الأذان، فإن سمع أذانًا أمسك وإلَّا أغار
+  - motif: caller-on-the-fitra-out-of-the-fire
+    refs:
+    - Jāmiʿ 9:1207.2
+    - Jāmiʿ 9:1208.2
+    note: '"على الفطرة" ... "خرجت من النار" فنظروا فإذا هو راعي مِعزًى ... فإذا هو صاحب ماشية أدركتْه الصّلاة فنادى بها'
+  - motif: god-marvels-at-shepherd-calling-prayer-on-peak
+    refs:
+    - Jāmiʿ 9:1208.1
+    note: يعجبُ ربّكم من راعي غنم في رأس شظيةٍ بجبل يؤذِّن بالصلاة ويُصَلِّي ... قد غفرت لعبدي، وأدخلته الجنّة
+- id: hadith-9-blind-muezzin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A blind man as muezzin; two muezzins for one mosque
+  read:
+  - Jāmiʿ 9:1209.1-1209.2
+  - Jāmiʿ 9:1210.1-1210.2
+  quran: []
+  tags:
+  - motif: blind-muezzin-calls-when-told-you-are-at-morning
+    refs:
+    - Jāmiʿ 9:1209.1
+    note: 'وكان رجلًا أعمى لا ينادي حتَّى يقال له: أصبحتَ أصبحتَ'
+  - motif: two-muezzins-bilal-and-the-blind-man
+    refs:
+    - Jāmiʿ 9:1209.2
+    - Jāmiʿ 9:1210.1
+    - Jāmiʿ 9:1210.2
+    note: 'كان ابن أم مكتوم يؤذِّن لرسول الله ﷺ وهو أعمى ... كان لرسول الله ﷺ مؤذنان: بلال وابن أم مكتوم الأعمى'
+- id: hadith-9-leaving-mosque-after-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Leaving the mosque after the call is disobeying Abū l-Qāsim
+  read:
+  - Jāmiʿ 9:1209.3
+  quran: []
+  tags:
+  - motif: leaving-mosque-after-call-disobeys-the-prophet
+    refs:
+    - Jāmiʿ 9:1209.3
+    note: 'فأتبعه أبو هريرة بصره حتَّى خرج من المسجد فقال أبو هريرة: أما هذا فقد عصى أبا القاسم ﷺ'
+- id: hadith-9-unpaid-muezzin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Lead at the pace of the weakest; take a muezzin who takes no wage
+  read:
+  - Jāmiʿ 9:1211.1
+  quran: []
+  tags:
+  - motif: imam-follows-weakest-muezzin-takes-no-wage
+    refs:
+    - Jāmiʿ 9:1211.1
+    note: أنت إمامُهم، واقتد بأضعفهم، واتخذ مؤذِّنًا لا يأخذ على أذانه أجرًا
+- id: hadith-9-prayer-between-two-calls
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Between every two calls a prayer, for whoever wishes; racing to the pillars before sunset prayer
+  read:
+  - Jāmiʿ 9:1212.1-1212.2
+  quran: []
+  tags:
+  - motif: between-every-two-calls-a-prayer-for-whoever-wishes
+    refs:
+    - Jāmiʿ 9:1212.1
+    note: 'بين كل أذانين صلاة" قالها ثلاثًا: قال في الثالثة: "لمن شاء'
+  - motif: race-to-pillars-two-rakaas-before-sunset-prayer
+    refs:
+    - Jāmiʿ 9:1212.2
+    note: قام ناس من أصحاب النَّبِيّ ﷺ يبتدرون السواري حتَّى يخرج النَّبِيّ ﷺ وهم كذلك يُصَلُّون الركعتين قبل المغرب
+- id: hadith-9-answering-the-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Say as the muezzin says; 'no power save in God' at 'come to prayer'; bless me and ask the wasīla
+  read:
+  - Jāmiʿ 9:1213.1-1216.2
+  - Jāmiʿ 9:1219.1-1221.1
+  quran: []
+  tags:
+  - motif: say-what-the-muezzin-says
+    refs:
+    - Jāmiʿ 9:1213.1
+    - Jāmiʿ 9:1214.1
+    - Jāmiʿ 9:1214.2
+    - Jāmiʿ 9:1214.4
+    - Jāmiʿ 9:1219.1
+    - Jāmiʿ 9:1220.1
+    - Jāmiʿ 9:1221.1
+    note: إذا سمعتم النداء فقولوا مِثل ما يقول المؤذن
+  - motif: no-power-save-in-god-at-come-to-prayer
+    refs:
+    - Jāmiʿ 9:1214.2
+    - Jāmiʿ 9:1214.4
+    - Jāmiʿ 9:1219.1
+    - Jāmiʿ 9:1220.1
+    note: 'ثم قال: حيَّ على الصّلاة، قال: لا حول ولا قُوَّة إِلَّا بالله ... قال: لا إله إِلَّا الله من قَلْبه دخل الجنّة'
+  - motif: one-blessing-returned-tenfold
+    refs:
+    - Jāmiʿ 9:1214.1
+    - Jāmiʿ 9:1221.1
+    note: ثم صلوا عليَّ، فإنه من صلى عليّ صلاة صلى الله عليه بها عشرَا
+  - motif: wasila-a-station-for-one-servant
+    refs:
+    - Jāmiʿ 9:1214.1
+    - Jāmiʿ 9:1221.1
+    note: ثم سَلُوا الله لي الوسيلةَ، فإنها منزلة في الجنّة لا تنبغي إِلَّا لعبد من عباد الله، وأرجو أن أكون أنا هو
+  - motif: pleased-with-god-as-lord-at-the-call-sins-forgiven
+    refs:
+    - Jāmiʿ 9:1214.3
+    note: رضيتُ بالله ربًا، وبمحمدٍ رسولًا، وبالإسلام دينًا غفر له ذنبه
+  - motif: and-i-too-in-answer-to-the-testimony
+    refs:
+    - Jāmiʿ 9:1216.1
+    - Jāmiʿ 9:1216.2
+    note: 'كان إذا سمع المؤذِّن يتشهد قال: "وأنا وأنا" ... فقال معاوية: وأنا ... إني سمعتُ رسول الله ﷺ على هذا المجلس'
+- id: hadith-9-supplication-at-the-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prayer between call and iqāma is not refused; 'Lord of this perfect call'; the wasīla
+  read:
+  - Jāmiʿ 9:1216.3-1218.3
+  quran:
+  - 17:79
+  tags:
+  - motif: supplication-between-call-and-iqama-not-refused
+    refs:
+    - Jāmiʿ 9:1216.3
+    note: إن الدعاء لا يُرد بين الأذان والإقامة فادعوا
+  - motif: lord-of-this-perfect-call-grant-wasila-and-praised-station
+    refs:
+    - Jāmiʿ 9:1217.1
+    note: اللَّهُمَّ ربَّ هذه الدعوة التامة والصلاة القائمة، آتِ محمدًا الوسيلة والفضيلة، وابعثه مقامًا محمودًا الذي وعدته، حلَّتْ له شفاعتي يوم القيامة
+  - motif: praised-station-of-the-prophet
+    refs:
+    - Jāmiʿ 9:1217.1
+    note: وابعثه مقامًا محمودًا الذي وعدته
+  - motif: wasila-a-station-for-one-servant
+    refs:
+    - Jāmiʿ 9:1218.1
+    - Jāmiʿ 9:1218.2
+    note: ثم سلوا الله لي الوسيلة فإنها منزلة في الجنّة لا تنبغي لعبد من عباد الله ... فإنه لا يسألها عبد في الدُّنيا إِلَّا كنت له شهيدًا أو شفيعًا
+  - motif: muezzins-surpass-us-say-as-they-say-then-ask
+    refs:
+    - Jāmiʿ 9:1218.3
+    note: 'إنَّ المؤذنين يَفْضُلوننا. فقال رسول الله ﷺ: "قل كما يقولون، فإذا انتهيت فسلْ تُعطه"'
+- id: hadith-9-imam-guarantor-muezzin-trusted
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The imam a guarantor, the muezzin entrusted
+  read:
+  - Jāmiʿ 9:1222.1
+  quran: []
+  tags:
+  - motif: imam-guarantor-muezzin-entrusted
+    refs:
+    - Jāmiʿ 9:1222.1
+    note: الإمام ضامنٌ والمؤذن مُؤْتَمن، اللَّهُمَّ أَرْشِد الأئمة واغفر للمؤذنين
