@@ -51,3 +51,10 @@ expectations:
     kind: chain
     forms: [tinūru, "he:H8574", "ar:تَنُّور"]
     lead: tannur-loan-chain
+# ANE traces (anelex.ane_traces): a concentrated Quran word followed to an ANE cognate occurring in `text`.
+  - description: "Trace: al-yamm (concentrated in the Moses narrative) → Ugaritic ym, the sea god Yammu, in the Baal Cycle (KTU 1.2)"
+    kind: trace
+    lemma: يَمّ
+    lang: uga
+    text: KTU 1.2
+    lead: yamm-sea

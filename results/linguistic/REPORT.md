@@ -1,6 +1,6 @@
 # Linguistic layer
 
-Generated 2026-10-29 by `tools/linguistic.py` over the whole Hebrew Bible (23,213 verses, Hebrew and Aramaic) and the whole Quran (6,216 verses). Full data is in `linguistic.json`.
+Generated 2026-10-31 by `tools/linguistic.py` over the whole Hebrew Bible (23,213 verses, Hebrew and Aramaic) and the whole Quran (6,216 verses). Full data is in `linguistic.json`.
 
 Phrases are sequences of content lemmas (nouns including names, verbs, adjectives) inside one verse, found in at least two chapters or surahs. Function words are skipped, so a phrase can match across different prepositions and particles. Score: the rarer the words and the rarer the sequence, the higher.
 
@@ -3385,3 +3385,986 @@ Chapter pairs sharing at least 4 long phrases: verbatim parallel passages, kept 
 | سَلْسَبِيل | 1 | 76:18 |
 | إِرَم | 1 | 89:7 |
 | سِينِين | 1 | 95:2 |
+
+# Ancient Near East
+
+Over the ANE texts in scope (data/ane/texts.yaml), with each edition's lemmas: eBL and ORACC (Akkadian), ETCSL and ORACC (Sumerian), ORACC and EUPT (Ugaritic), the TLA (Egyptian). A line is the unit; versions and manuscript witnesses of one work show up as doublet section pairs.
+
+## Sumerian: summary
+
+- Lines: 35,798, with lemmas: 34,794
+- Phrase echoes: 3,346; stock formulas: 83; name-heavy sequences: 143
+- Doublet section pairs (versions, witnesses and parallel passages): 34
+- Hapax legomena: 1,672; dis legomena: 704
+
+### Sumerian: top phrase echoes
+
+| Score | Phrase (lemmas) | Count | Places |
+|---|---|---|---|
+| 43.42 | u2 · bar · a · bar · u2 · gid2 · gu7 · a · gid2 · naĝ | 3 | ETCSL 1.8.1.4 1:287, ETCSL 1.8.1.4 2:6, ETCSL 1.8.1.4 3.B:1 |
+| 42.16 | Nibru · šir · kug · niŋ · kal · ar · dib | 2 | ETCSL 2.5.4.29 Seg.B:3, ETCSL 2.5.4.b 11 |
+| 39.02 | ibila · gen6 · dam · il2 · dumu · il2 · giri17-zal · il2 | 2 | ETCSL 6.1.03 A.3.9:22, ETCSL 6.1.16 B.16.b5:10 |
+| 38.38 | dumu-munus · saĝ · šu · ĝar · lu2 · e2-gi4-a · gal5-la2 · lu2 | 2 | ETCSL 6.1.19 C.19.c7:14, ETCSL 6.1.24 24.8:14 |
+| 37.79 | di-kud · niĝ2-gen6-na · ḫul · aš2 · a2 · zid · bal | 2 | ETCSL 6.2.3 74:1, ETCSL 6.2.5 17:1 |
+| 37.49 | kug · a-gar5 · LUL-LUL · a2 · kiĝ2 · sukud | 2 | ETCSL 5.3.6 B:29, ETCSL 5.3.6 D:43 |
+| 37.44 | geme2 · niĝ2 · ḫi-li · iškur · diĝir · lugal · LIL2 | 2 | ETCSL 6.1.03 A.3.36:80, ETCSL 6.2.5 1.B:11 |
+| 36.95 | ĝiš · maḫ · ur2 · bal · tir · guru5 · i | 2 | ETCSL 1.6.2 87, ETCSL 2.2.3 A:87 |
+| 36.5 | šul · medim · sag · sissig · šer | 2 | ETCSL 0.2.13 3, ETCSL 2.5.6.1 78 |
+| 36.21 | šu · gid2 · igi-tum3 · la2 · šu · sumur · niĝ2-gig | 2 | ETCSL 4.05.1 55, ETCSL 6.1.14 B.14.18:6 |
+| 35.87 | si · 2 · šaĝan · i3 · dug3 · inana · e2-an-na | 2 | ETCSL 1.8.1.2 1.B:83, ETCSL 1.8.1.2 2.D:32 |
+| 35.47 | ĝiš-gi · gi · sumun · gi · ḫenbur · mu2 | 2 | ETCSL 2.2.3 I:502, ETCSL 4.08.30 54 |
+| 34.99 | iri · lil2 · šag4 · a-nir · gi · er2 · mu2 | 2 | ETCSL 2.2.3 G:361, ETCSL 2.2.3 H:479 |
+| 34.67 | saĝ-du · suḫur · saĝ-du · maš2-gur-ra-ŠEŠ · gu7 | 2 | ETCSL 6.1.02 D.2.d6:6, ETCSL 6.1.07 B.7.27:27 |
+| 34.61 | a-eštub · ezina2 · še · gu-nu · saĝ · rig7 | 2 | ETCSL 2.4.1.3 23, ETCSL 2.4.1.7 8 |
+| 34.44 | e2 · e3 · sila · kur9 · geme2 · nin · ĝišbun | 2 | ETCSL 6.1.19 D.19.d9:12, ETCSL 6.1.28 B.28.25:31 |
+| 34.44 | šaḫ2 · niga · šum · niĝ2 · gu7 · sug6 | 3 | ETCSL 6.1.09 A.9.a12:15, ETCSL 6.1.19 B.19.b1:1, ETCSL 6.1.24 24.2:2 |
+| 33.97 | dam · dim4 · lu2 · dumu-nitaḫ · ĝissu · lu2 | 2 | ETCSL 6.1.19 C.19.c7:13, ETCSL 6.1.24 24.8:13 |
+| 33.74 | dumu · gal · suen · nin · gal · an · inana · silim · dug4 | 2 | ETCSL 2.5.3.1 D:43, ETCSL 2.5.3.1 F:68 |
+| 33.47 | aĝrig · šu · dim4 · sa-KU · kalag | 2 | ETCSL 6.1.03 A.3.60:121, ETCSL 6.1.07 C.7.80:24 |
+| 33.3 | di · kud · ka-aš · bar · uĝ3 · si · sa2 | 2 | ETCSL 2.2.3 I:494, ETCSL 2.5.4.01 A:91 |
+| 33.0 | kug-sig17 · kug-babbar · lal3 · i3-nun · e-ne · dug4 | 3 | ETCSL 1.8.1.4 1:299, ETCSL 1.8.1.4 2:17, ETCSL 1.8.1.4 3.B:9 |
+| 32.93 | tigi · šem3 · a2-la2 · gu3 · nun · dug4 | 2 | ETCSL 2.2.3 G:436, ETCSL 2.5.3.1 G:81 |
+| 32.83 | az · itid · 6-kam-ma · ti · bal | 2 | ETCSL 6.1.08 B.8.b14:19, ETCSL 6.2.3 57:1 |
+| 32.73 | a-ba-in-da-sa2 · ugula · erin2 · zu2 · keše2 | 2 | ETCSL 3.1.05 3, ETCSL 3.1.06.1 1:3 |
+| 32.69 | bi2-za-za · gu3 · de2 · a-ambar · me-te | 2 | ETCSL 6.2.2 1:2, ETCSL 6.2.3 76:5 |
+| 32.68 | lu2-sa-gaz · edin · sig9 · niĝ2-gul · ak | 2 | ETCSL 2.5.4.01 A:219, ETCSL 3.1.11 2 |
+| 32.48 | e2-an-na · e2 · ub · 7 · izi · 7 | 2 | ETCSL 2.2.6 1.C.J:23, ETCSL 4.80.1 201 |
+| 32.4 | 20 · gun2 · kug-babbar · še · sam2 | 2 | ETCSL 3.1.17 6, ETCSL 3.1.18 11 |
+| 32.26 | gud · du7 · maš2 · du7 · udu · niga | 2 | ETCSL 2.1.7 963, ETCSL 2.4.1.1 1:87 |
+| 32.22 | ur-gir15 · ĝiš-šu · dab5 · ga-ba-al · du3 | 2 | ETCSL 6.1.05 D.5.106:132, ETCSL 6.2.2 4:1 |
+| 31.68 | lag · a · gurud · biz · gul | 2 | ETCSL 6.1.01 B.1.76:29, ETCSL 6.1.07 B.7.12:5 |
+| 31.24 | eštub · gi-zi · di4-di4 · kun · sud | 3 | ETCSL 1.1.3 165, ETCSL 1.1.3 98, ETCSL 1.1.4 79 |
+| 31.19 | nam-ĝuruš · anše · kar · ḫaš2 · taka4 | 2 | ETCSL 6.1.09 A.9.a8:9, ETCSL 6.1.10 10.9:9 |
+| 31.06 | dam · tam · dam · ban3-da · ki · aĝ2 | 2 | ETCSL 1.8.1.3 2.I:2, ETCSL 1.8.1.3 3.H:34 |
+| 31.06 | sa-am-su-i-lu-na · mu-u2-a · sag9 · nir-ĝal2 · kalam | 2 | ETCSL 2.8.3.6 B:3, ETCSL 2.8.3.8 12 |
+| 30.93 | di-til-la · inim · pu-uḫ2-ru-um · šu · gi4 · ĝal2 | 2 | ETCSL 1.7.4 C:24, ETCSL 2.2.3 G:364 |
+| 30.54 | iri · nu · ur-gir15 · ka5-a · nu-banda3 | 2 | ETCSL 6.1.01 B.1.65:12, ETCSL 6.1.02 A.2.118:196 |
+| 30.25 | lamma · sag9 · ba-u2 · mi2 · sud · i | 3 | ETCSL 4.02.1 B:8, ETCSL 4.02.1 C:10, ETCSL 4.02.1 C:4 |
+| 30.1 | idigna · ka · zur · a-gar3 · si | 2 | ETCSL 6.1.14 A.14.6:11, ETCSL 6.1.16 C.16.c5:10 |
+| 30.04 | iri · ad4 · ba-za · lu2-kaš4 | 2 | ETCSL 6.1.01 B.1.66:13, ETCSL 6.1.02 A.2.119:197 |
+| 29.97 | ĝišnimbar · guru5 · dug4 · teš2 · kad4 | 2 | ETCSL 2.2.3 C:195, ETCSL 2.2.3 G:412A |
+| 29.89 | su-lum · mar · su-lum · mar | 2 | ETCSL 6.2.3 133:2, ETCSL 6.2.3 76:7 |
+| 29.77 | du-lum · ud-bi-ta · ĝeštug2 · u18-lu | 2 | ETCSL 6.1.05 B.5.39:23, ETCSL 6.2.3 35:2 |
+| 29.67 | ukur3 · dumu · tibir · 1 · šu · dug4 | 2 | ETCSL 6.1.02 A.2.23:40, ETCSL 6.1.17 B.17.b4:18 |
+| 29.64 | ur-saĝ · šul · utu · kug · inana · gu3 · de2 | 2 | ETCSL 1.3.5 B:7, ETCSL 1.8.1.4 1:51 |
+| 29.64 | ešgiri2 · šibir · ma-nu · nam-sipad | 2 | ETCSL 1.1.3 436, ETCSL 2.4.1.1 2.C:35 |
+| 29.63 | anše · tuš · ĝiš3 · bi-ri-ig · il2 | 2 | ETCSL 6.1.05 C.5.44:6, ETCSL 6.2.3 37:1 |
+| 29.46 | ninda · 2 · 1/2 · du8 · šag4 · de6 | 2 | ETCSL 6.1.01 A.1.53:66, ETCSL 6.1.26 C.26.c5:5 |
+| 29.13 | ur-nin-urta · uĝ3 · šar2 · us2 · zid · dab5 | 2 | ETCSL 2.5.6.4 B:21, ETCSL 2.5.6.4 D:34 |
+| 29.1 | niĝ2-tuku · niĝ2 · al · dug4 · niĝ2-gig · diĝir | 2 | ETCSL 6.2.3 5:1, ETCSL 6.2.3 77.B:3 |
+| 29.09 | did · si · sa · kud · ešbar | 2 | ETCSL 3.3.02 Ver.1:3, ETCSL 4.12.1 27 |
+| 29.0 | nir-ĝal2 · kug-zu · ukur3 · šu · dim4 | 3 | ETCSL 6.1.09 A.9.a3:3, ETCSL 6.1.10 10.3–4:3, ETCSL 6.2.2 5:1 |
+| 28.92 | gu-za · barag · šutur · ri · tuš | 2 | ETCSL 3.1.01 16, ETCSL 3.1.02 19 |
+| 28.88 | lu2 · si · sa2 · kinkin · id2 · dirig | 2 | ETCSL 6.1.12 C.12.c5:11, ETCSL 6.2.5 42:1 |
+| 28.85 | ušur · na · de5 · lu2 · du14 | 2 | ETCSL 6.1.01 D.1.170:62, ETCSL 6.2.3 12:2 |
+| 28.72 | anše · bar · udu · ḫi · ĝiškim | 2 | ETCSL 6.1.05 C.5.46:8, ETCSL 6.2.3 38:1 |
+| 28.66 | um · saḫ6 · gu-du · kar | 2 | ETCSL 6.1.19 D.19.d3:5, ETCSL 6.1.21 C.21.c14:31 |
+| 28.58 | iri · nam-uš2 · ĝal2 · anše-bal · sar | 2 | ETCSL 6.1.01 B.1.68:16, ETCSL 6.1.14 B.14.15:1 |
+| 28.54 | ummud · zi · lu2 · e-sir2 · igi · lu2 | 2 | ETCSL 6.1.19 C.19.c7:12, ETCSL 6.1.24 24.8:12 |
+
+### Sumerian: most frequent stock formulas
+
+| Phrase | Count |
+|---|---|
+| pa · e3 · ak | 46 |
+| barag · dur2 · ĝar | 44 |
+| giri17 · šu · ĝal2 | 41 |
+| mi2 · zid · dug4 | 38 |
+| igi · zid · bar | 35 |
+| nin-urta · dumu · en-lil2 | 34 |
+| du8 · igi · du8 | 34 |
+| kur · gal · en-lil2 | 34 |
+| nam · dug3 · tar | 32 |
+| igi · du8 · ak | 32 |
+| igi · du8 · igi · du8 | 31 |
+| en-lil2 · nam · tar | 30 |
+| urud · niĝ2 · kalag | 29 |
+| igi · du8 · igi · du8 · ak | 28 |
+| er2 · gig · šeš2 | 28 |
+| gu3 · nun · dug4 | 28 |
+| kug · inana · igi | 28 |
+| ki · nam · tar | 27 |
+| a-nun-na · diĝir · gal | 24 |
+| en · nam · tar | 24 |
+| kug · inana · igi · dib | 23 |
+| uĝ3 · saĝ · gig2 | 23 |
+| gul · e2 · gul | 22 |
+| dumu · ki · aĝ2 | 22 |
+| iri · gul · e2 · gul | 21 |
+
+### Sumerian: doublet section pairs
+
+- ETCSL 0.2.01 = ETCSL 0.2.02 (5)
+- ETCSL 0.2.02 = ETCSL 0.2.04 (5)
+- ETCSL 1.1.3 = ETCSL 2.5.4.01 A (4)
+- ETCSL 1.1.3 = ETCSL 4.80.1 (4)
+- ETCSL 1.2.2 1.A = ETCSL 1.2.2 2.B (7)
+- ETCSL 1.3.3 = ETCSL 1.4.1 (4)
+- ETCSL 1.4.1 = ETCSL 1.8.1.4 1 (6)
+- ETCSL 1.6.1 = ETCSL 1.6.2 (4)
+- ETCSL 1.8.1.2 1.A = ETCSL 1.8.1.2 2.A (4)
+- ETCSL 1.8.1.2 1.B = ETCSL 1.8.1.2 2.A (5)
+- ETCSL 1.8.1.3 1.A = ETCSL 1.8.1.3 3.A (6)
+- ETCSL 1.8.1.3 1.E = ETCSL 1.8.1.3 3.F (10)
+- ETCSL 1.8.1.4 1 = ETCSL 1.8.1.4 2 (14)
+- ETCSL 1.8.1.4 1 = ETCSL 1.8.1.4 3.B (7)
+- ETCSL 1.8.1.4 1 = ETCSL 1.8.1.4 5.A (5)
+- ETCSL 1.8.1.4 1 = ETCSL 1.8.1.4 5.B (17)
+- ETCSL 1.8.1.4 2 = ETCSL 1.8.1.4 3.A (4)
+- ETCSL 1.8.1.5 = ETCSL 1.8.1.5.1 (27)
+- ETCSL 1.8.2.1 A = ETCSL 1.8.2.4 A (5)
+- ETCSL 1.8.2.2 = ETCSL 1.8.2.3 (4)
+- ETCSL 2.1.5 1 = ETCSL 2.1.5 2.C (6)
+- ETCSL 2.1.5 1 = ETCSL 2.1.7 (4)
+- ETCSL 2.1.7 = ETCSL 4.14.1 (4)
+- ETCSL 2.4.1.1 1 = ETCSL 2.4.1.1 2.A (8)
+- ETCSL 2.4.1.1 1 = ETCSL 2.4.1.1 2.B (4)
+- ETCSL 2.4.1.1 1 = ETCSL 2.4.1.1 2.C (19)
+- ETCSL 2.4.1.4 2 = ETCSL 2.4.1.4 3 (9)
+- ETCSL 2.4.1.5 = ETCSL 2.4.1.6 (13)
+- ETCSL 3.1.08 2 = ETCSL 3.1.11 (5)
+- ETCSL 4.08.03 A = ETCSL 4.08.31 B (5)
+- ETCSL 4.08.18 Ver.3 = ETCSL 4.08.18 sa–gida.A (4)
+- ETCSL 6.1.02 B.2.158 = ETCSL 6.1.14 B.14.22 (4)
+- ETCSL 6.1.03 A.3.23 = ETCSL 6.2.5 1.A (4)
+- ETCSL 6.1.05 D.5.55 = ETCSL 6.2.3 39 (5)
+
+## Akkadian: summary
+
+- Lines: 46,057, with lemmas: 40,525
+- Phrase echoes: 2,007; stock formulas: 98; name-heavy sequences: 161
+- Doublet section pairs (versions, witnesses and parallel passages): 78
+- Hapax legomena: 3,976; dis legomena: 1,826
+
+### Akkadian: top phrase echoes
+
+| Score | Phrase (lemmas) | Count | Places |
+|---|---|---|---|
+| 63.06 | mēseru · nērtu · bārtu · antallû · ṭehû · Uruk · Reš · Irigal | 3 | GKAB P363407 o:22', GKAB P363407 o:26', GKAB P363407 r:9 |
+| 55.29 | ašru III · šēpu I · parāsu I · ūru I · šabāṭu II · mû I · ellu I · salāhu I | 2 | Shuila Ištar SB 13:14, Shuila Ištar SB 2:107 |
+| 54.53 | pānu · Belet-ili · qerēbu · serqu · sarāqu · šamnu · dišpu · šikaru · karānu · naqû | 4 | SAA 20 024 r:13, SAA 20 025 o:47', SAA 20 025 r:13, SAA 20 026 r:14 |
+| 53.78 | mašku · abnu · mêlu · qû · kitû · šakāku · kišādu · šakānu | 2 | GKAB P348627 b.e:4, GKAB P348627 r.i:37 |
+| 53.56 | pirištu · ilu · rabû · mūdû · mūdû · kullumu · lā-mūdû · amāru | 2 | Q009249 r:20, SAA 03 039 r:26 |
+| 51.75 | Enkidu I · ibru I · kūdanu I · ṭardu I · akkannu I · šadû I · nimru I · ṣēru I | 4 | Gilg SB VIII:51, Gilg SB X:127, Gilg SB X:227, Gilg SB X:54 |
+| 51.13 | kunukku · Šuppiluliuma · šarru · rabû · šarru · mātu · Ḫatti · narāmu · IŠKUR | 2 | Ugarit RS 17.0227 seal.1:1, Ugarit RS 17.0339,a + RS 17.0340 + RS 17.0366 seal.1:1 |
+| 50.3 | lumnu I · antalû I · Sîn I · warhu I · annanna I · ūmu I · annanna I · šakānu I | 4 | Shuila Bēlet-ilī SB 1:13b, Shuila Damkina SB 1:9b, Shuila Gula SB 1b:15a, Shuila Šamaš SB 1:17b |
+| 50.16 | ūru I · šabāṭu II · mû I · ellu I · salāhu I · paṭīru I · kânu I | 2 | Shuila Ištar SB 13:14, Shuila Ištar SB 31:53 |
+| 46.93 | Lammasiga I · šapāku I · erṣetu I · šutlumu I · lamassu I · dumqu I | 2 | GulaSyncr SB –:37, IshtarSyncr SB –:31 |
+| 45.82 | nabalkutu · šadû · nesû · šār · bēru · zumru | 2 | GKAB P338550 r:12', GKAB P348834 r.i:17 |
+| 45.45 | abnu · mêlu · qû · kitû · šakāku · kišādu · šakānu | 3 | GKAB P348627 b.e:4, GKAB P348627 r.i:37, GKAB P348627 r.ii:3 |
+| 45.44 | šiptu · nīšu · libbu · nīšu · libbu · mayyālu · nīšu · libbu | 2 | GKAB P338598 o.ii:10, GKAB P348729 o.ii:4 |
+| 43.63 | ūmu · šarru · bītu · ilu · elû · darrû · pānu · Aššur · Mullissu | 2 | SAA 20 010 b.e:10, SAA 20 010 r:3 |
+| 43.29 | ibru I · kūdanu I · ṭardu I · akkannu I · šadû I · nimru I · ṣēru I | 8 | Gilg SB VIII:50, Gilg SB VIII:51, Gilg SB X:126, Gilg SB X:127, Gilg SB X:226, Gilg SB X:227, Gilg SB X:53, Gilg SB X:54 |
+| 43.27 | šediš I · nindanu I · mēlû I · nindanu I · rupšu I | 2 | Gilg SB V:316, Gilg SB VII:44 |
+| 42.83 | lawû · kašādu · šalālu · šallatu · napālu · naqāru | 2 | Esarhaddon 001 iii:53, Sennacherib 022 iv:78 |
+| 42.65 | ṭuppu · Iqiša · bukru · Ištar-šum-ereš · līpu | 2 | GKAB P348626 r:27', GKAB P348627 l.e..ii:3 |
+| 42.21 | Udugsiga I · banû IV · kakku I · nadānu II · šēdu I · dumqu I | 2 | GulaSyncr SB –:36, IshtarSyncr SB –:30 |
+| 41.86 | kišpu · ruhû · rusû · upšaššû · lemnu | 2 | GKAB P348627 o.i:51, GKAB P348627 o.ii:39 |
+| 41.5 | nignakku I · burāšu I · pēmtu I · ašāgu I · sarāqu I | 2 | Shuila Adad SB 1b:24', Shuila Ištar SB 10:46 |
+| 41.48 | išdihu I · nēberu I · kāru I · hamāṭu II · alaktu I | 2 | CatAuth NB –:14', NinurtaSavior SB –:1 |
+| 41.03 | ūru I · šabāṭu II · mû I · ellu I · salāhu I · paṭīru I | 4 | Shuila Adad SB 4:38, Shuila Ištar SB 13:14, Shuila Ištar SB 31:31, Shuila Ištar SB 31:53 |
+| 40.95 | annanna I · māru I · annanna I · ilu I · annanna I · ištaru I · annanna I | 5 | Shuila Bēlet-ilī SB 1:13a, Shuila Ea SB 1a:14, Shuila Ištar SB 10:11, Shuila Ištar SB 5:4', Shuila Šamaš SB 1:17a |
+| 40.61 | utukku I · lemnu I · alû II · lemnu I · eṭemmu I · lemnu I | 3 | BitMeseri SB IT:388, MardDemons SB –:1, Sagba SB I:16 |
+| 40.19 | ṭābihu · šīru · našû · wâru · šīru · akālu | 2 | GKAB P348422 o.ii:15', GKAB P348422 r.i:11 |
+| 39.95 | abnu · mêlu · qû · kitû · šakāku · kišādu | 4 | GKAB P348627 b.e:4, GKAB P348627 r.i:37, GKAB P348627 r.i:46, GKAB P348627 r.ii:3 |
+| 39.91 | qerēbu · serqu · sarāqu · šamnu · dišpu · šikaru · karānu · naqû | 11 | SAA 20 024 r:13, SAA 20 024 r:15, SAA 20 024 r:17, SAA 20 025 o:47', SAA 20 025 o:51', SAA 20 025 r:13, SAA 20 025 r:42', SAA 20 026 o:49 |
+| 39.83 | nuhatimmu · akalu · našû · wâru · akalu · akālu | 2 | GKAB P348422 o.ii:14', GKAB P348422 r.i:10 |
+| 39.75 | Ereškigal · pû · epēšu · qabû · Namtar · awātu · zakāru | 2 | GKAB P348422 o.iii:4', GKAB P348422 r.ii:12 |
+| 39.47 | ayyalu I · turāhu I · būlu I · nammaštû I · ṣēru I | 2 | Gilg SB VIII:17, Gilg SB X:260 |
+| 39.34 | šīpātu · peṣû · šīpātu · sāmu · ṭawû | 2 | GKAB P338598 r.i:39, GKAB P348729 r.i:10' |
+| 39.29 | lumnu I · antalû I · Sîn I · warhu I · ūmu I · šakānu I | 2 | Shuila Bēlet-ilī SB 1:12a, Shuila Enlil SB 1a:11a |
+| 38.82 | kišpu I · ruhû I · rusû I · upšaššû I · lemnu I | 3 | Maqlu SB I:88, Shuila Adad SB 1b:15', Shuila Ištar SB 13:3 |
+| 38.67 | kišādu · nāru · qaqqaru · šabāṭu · mû · ellu | 2 | GKAB P348730 o:3, GKAB P363722 r:10' |
+| 38.67 | napištu · šarru · kabtu · rubû · muškēnu · lapātu | 2 | GKAB P363523 o.i:29, GKAB P363525 o?:5' |
+| 38.57 | nakāsu I · abru II · imna I · šumēla I · ru''umu I | 3 | Anzu SB II:110, Anzu SB II:132, Anzu SB III:11 |
+| 38.56 | sarāqu I · mersu I · dišpu I · himētu I · šakānu I | 2 | Shuila Adad SB 4:39, Shuila Ištar SB 31:34 |
+| 38.51 | pānu · Sin · qerēbu · serqu · sarāqu · šamnu · dišpu | 3 | SAA 20 024 r:11, SAA 20 026 o:49, SAA 20 026 r:12 |
+| 38.15 | Namtar · pû · epēšu · qabû · Ereškigal · awātu · zakāru | 3 | GKAB P338345 r.i:8', GKAB P348422 r.ii:10, GKAB P348422 r.ii:2 |
+| 37.63 | saskû · sarāqu · mersu · dišpu · himētu | 2 | GKAB P338550 r:4', GKAB P348683 o:3 |
+| 37.62 | ṭābihu · šīru · našû · amāru · šīru · akālu | 2 | GKAB P338345 o.ii:52, GKAB P338345 o.iii:59 |
+| 37.61 | nīqu · naqû · nakāsu · immeru · dāmu · waṣû | 2 | GKAB P338550 o:1, GKAB P348427 side.a:9' |
+| 37.59 | gud · gal · gud · mah | 2 | GKAB P363269 r:2, GKAB P363270 o:11 |
+| 37.26 | nuhatimmu · akalu · našû · amāru · akalu · akālu | 2 | GKAB P338345 o.ii:51, GKAB P338345 o.iii:58 |
+| 37.04 | pārisu · purussû · mātu · Akkad · Simanu | 2 | Esarhaddon 104 ii:35, Esarhaddon 105 iii:11 |
+| 36.48 | līmu · Issar-duri · šaknu · mātu · Arrapha | 2 | SAA 20 055 o:2, SAA 20 055 r:22' |
+| 36.46 | eršu I · rapšu I · uznu I · igigallu I · šamāmū I | 2 | CatAuth NA –:e+4, CatAuth NB –:13' |
+| 36.36 | līmu · Nabu-belu-uṣur · šaknu · mātu · Dur-Šarrukku | 2 | Esarhaddon 001 vi:75G, SAA 02 006 o:665 |
+| 36.06 | qarnu · būru · alpu · šerʾānu · immeru | 3 | SAA 20 001 o:22, SAA 20 002 i:26', SAA 20 009 o.i:27' |
+| 35.93 | Ištar · bēltu · qablu · tāhāzu · tāhāzu · dannu | 3 | SAA 02 004 r:20', SAA 02 006 o:453, SAA 02 015 o:453_T_vi_32 |
+| 35.48 | šallatu · kabtu · šalālu · qerbu · mātu · Aššur | 2 | Esarhaddon 001 iv:52, Sennacherib 022 i:53 |
+| 35.36 | anāhu I · Anzû I · mahāru I · mehû I · abru II | 2 | Anzu OB III:a+35, Anzu SB III:9 |
+| 35.35 | šabāṭu · mû · ellu · salāhu · paṭīru | 3 | GKAB P348683 o:2, GKAB P363582 o.ii:14, GKAB P363582 o.ii:36 |
+| 34.92 | bītu · qātu · našāru · sahāru · kalû · tebû | 2 | SAA 20 010 r:9, SAA 20 011 o:15 |
+| 34.9 | ūru · šabāṭu · mû · ellu · salāhu | 3 | GKAB P363582 o.ii:14, GKAB P363582 o.ii:36, GKAB P363582 r.i:45 |
+| 34.88 | šūduru · nazāqu · ṣītu · sadru | 2 | GKAB P348627 o.i:21, GKAB P348627 o.ii:15 |
+| 34.76 | šamnu · dišpu · šikaru · karānu · naqû · zamāru | 2 | SAA 20 025 o:45', SAA 20 025 r:42' |
+| 34.72 | gugallu I · šamû I · erṣetu I · zanānu I · nuhšu I | 2 | MardSyncr SB –:33, Shuila Adad SB 4:11 |
+| 34.63 | Rimat-Ninsun I · emqu I · mūdû I · kalāma I · edû II | 3 | Gilg SB I:258, Gilg SB I:285, Gilg SB III:117 |
+
+### Akkadian: most frequent stock formulas
+
+| Phrase | Count |
+|---|---|
+| šēpu · šarru · bēlu | 115 |
+| šarru · bēlu · ilu | 109 |
+| pašāru · mašmaššu · ilu · Asalluhi | 96 |
+| māru · šarru · rabû | 94 |
+| pû I · epēšu II · qabû II | 91 |
+| bēlu · ilu · ŠamašORŠapšuORŠimige | 85 |
+| Aššur-ahu-iddina · šarru · Mat-Aššur | 79 |
+| Aššur-bani-apli · māru · šarru | 76 |
+| Aššur-bani-apli · māru · šarru · rabû | 74 |
+| šarru · bēlu · ilu · ŠamašORŠapšuORŠimige | 72 |
+| rabû · bītu · ridûtu | 69 |
+| šarru · bēlu · ŠamašORŠapšuORŠimige | 69 |
+| māru · šarru · rabû · bītu · ridûtu | 68 |
+| šarru · mātu · Ugarit | 61 |
+| šarru · Mat-Aššur · bēlu | 53 |
+| Aššur-bani-apli · māru · šarru · rabû · bītu · ridûtu | 50 |
+| šarru · mātu · Ḫatti | 50 |
+| šikaru · karānu · naqû | 48 |
+| ālu · šarru · bēlu | 45 |
+| edû · šarru · bēlu | 42 |
+| pānu · šarru · bēlu | 39 |
+| šamnu · dišpu · šikaru | 36 |
+| Aššur-bani-apli · šarru · Mat-Aššur | 36 |
+| mātu · šarru · bēlu | 35 |
+| ŠamašORŠapšuORŠimige · šamû · šamû | 32 |
+
+### Akkadian: doublet section pairs
+
+- Anzu OB II = Anzu SB I (14)
+- Anzu OB II = Anzu SB II (7)
+- Anzu OB III = Anzu SB II (11)
+- Atr OB I = Atr SB I (10)
+- Atr OB I = Atr SB II (4)
+- Atr OB I = Atr SB III (11)
+- BitMeseri SB FI = BitMeseri SB IT (4)
+- BitMeseri SB IT = Sagba SB I (5)
+- Ee SB I = Ee SB II (27)
+- Ee SB I = Ee SB III (27)
+- Ee SB II = Ee SB III (33)
+- Etana MA Aššur = Etana SB II (7)
+- GKAB P338349 r = GKAB P363615 r (6)
+- GKAB P338358 o = GKAB P338359 o (10)
+- GKAB P338378 o = GKAB P338379 o (8)
+- GKAB P338385 o = GKAB P363581 o (13)
+- GKAB P338675 o = SAA 03 016 o (6)
+- GKAB P338675 r = SAA 03 016 r (5)
+- GKAB P348616 flake = GKAB P348682 r (4)
+- GKAB P348619 o.i = GKAB P348673 o.i (11)
+- GKAB P348627 r.i = GKAB P348627 r.ii (5)
+- GKAB P363712 o = GKAB P369109 r.ii (5)
+- GKAB P363712 r = GKAB P363714 o (4)
+- GKAB P363714 r = GKAB P369109 r.ii (4)
+- Gilg MB Boğ1 = Gilg OB III (5)
+- Gilg MB Emar2 = Gilg SB VI (8)
+- Gilg MB Ug1 = Gilg SB I (15)
+- Gilg MB Ug1 = Gilg SB XI (4)
+- Gilg MB Ug2 = Gilg SB V (6)
+- Gilg MB Ur = Gilg SB VII (14)
+- Gilg NA y = Gilg OB III (5)
+- Gilg OB CUNES = Gilg OB II (4)
+- Gilg OB CUNES = Gilg SB I (4)
+- Gilg OB II = Gilg SB I (5)
+- Gilg OB III = Gilg SB II (4)
+- Gilg SB I = Gilg SB II (4)
+- Gilg SB I = Gilg SB XI (6)
+- Gilg SB II = Gilg SB III (5)
+- Gilg SB III = Gilg SB V (4)
+- Gilg SB VII = Gilg SB VIII (4)
+- Gilg SB VII = IshDesc SB – (4)
+- Gilg SB VII = NergEresh SB – (4)
+- IshDesc SB – = NergEresh SB – (7)
+- Nabonidus 28 ii = Nabonidus 28 iii (5)
+- SAA 02 003 o = SAA 02 003 r (4)
+- SAA 02 004 r = SAA 02 006 o (4)
+- SAA 02 005 r.iv = SAA 02 006 o (4)
+- SAA 02 005 r.iv = SAA 02 015 o (7)
+- SAA 02 006 o = SAA 02 015 o (109)
+- SAA 03 034 o = SAA 03 035 (59)
+- SAA 03 041 o = SAA 03 041 r (5)
+- SAA 20 001 o = SAA 20 002 i (26)
+- SAA 20 001 o = SAA 20 009 o.i (5)
+- SAA 20 001 o = SAA 20 037 o (8)
+- SAA 20 002 i = SAA 20 037 o (7)
+- SAA 20 010 o = SAA 20 010 r (5)
+- SAA 20 015 r.i = SAA 20 037 o (4)
+- SAA 20 015 r.ii = SAA 20 037 r (5)
+- SAA 20 024 o = SAA 20 025 o (33)
+- SAA 20 024 o = SAA 20 026 o (33)
+
+## Ugaritic: summary
+
+- Lines: 4,071, with lemmas: 3,567
+- Phrase echoes: 370; stock formulas: 8; name-heavy sequences: 2
+- Doublet section pairs (versions, witnesses and parallel passages): 26
+- Hapax legomena: 668; dis legomena: 369
+
+### Ugaritic: top phrase echoes
+
+| Score | Phrase (lemmas) | Count | Places |
+|---|---|---|---|
+| 25.36 | b · p II · rgm II · l II · y-ṣ-ˀ · b · špt · hwt I | 3 | KTU 1.19 II:26, KTU 1.19 III:7, KTU 1.2 IV:6 |
+| 24.51 | rgm II · l II · y-d-ˁ I · nš* · w · l II · b-y-n | 3 | KTU 1.1 III:15, KTU 1.3 III:27, KTU 1.3 IV:15 |
+| 23.06 | b · nˁm II · b · ysm · ḥbl I · ḫss II | 2 | KTU 1.10 II:30', KTU 1.10 III:18' |
+| 23.02 | ṣ-m-d I · pḥl · š-y-t · gpn II* · dt II | 2 | KTU 1.19 II:4, KTU 1.4 IV:5 |
+| 22.74 | l-ˀ-w II · šmm · b · yd I · bn I · il III · mt V | 2 | KTU 1.3 V:18, KTU 1.6 II:25 |
+| 22.46 | pānu · Ini-Tešub · šarru · mātu · Kargamiš | 2 | Ugarit RS 17.0129 o:1, Ugarit RS 17.0346 o:1 |
+| 22.44 | ṯ-k-m II · my I · ḥ-s-p I · l I · šˁr | 2 | KTU 1.19 II:6, KTU 1.19 IV:37 |
+| 21.9 | ap II · lb · k IV · ˁmq I* · ṯ-l-ṯ I | 2 | KTU 1.5 VI:21, KTU 1.6 I:5 |
+| 21.03 | ṯd · b · ḥrb · mlḥ I* · qṣ II | 2 | KTU 1.17 VI:4', KTU 1.4 III:42 |
+| 20.82 | b · p II · rgm II · l II · y-ṣ-ˀ · b · špt | 4 | KTU 1.19 II:26, KTU 1.19 III:21, KTU 1.19 III:7, KTU 1.2 IV:6 |
+| 19.44 | adr · d · b · grn · d-y-n | 2 | KTU 1.17 V:7', KTU 1.19 I:23 |
+| 19.36 | tḥt · ˁn I · arṣ · ṯlṯ II · mtḥ | 3 | KTU 1.1 III:20, KTU 1.2 III:3, KTU 1.3 IV:36 |
+| 19.3 | ˁ-m-m I · ym II · bn II · ẓlmt | 2 | KTU 1.3 VI:8, KTU 1.4 VII:55 |
+| 19.15 | t-b-ˁ · w · l II · y-ṯ-b · il I · idk | 2 | KTU 1.5 I:9, KTU 1.5 II:13 |
+| 19.11 | apq · thm · g-l-y/ -w · ḏd I | 2 | KTU 1.17 VI:48', KTU 1.6 I:34 |
+| 18.99 | bˁl IV · k V · ḫ-l-q I · zbl I · bˁl II | 2 | KTU 1.6 I:42, KTU 1.6 III:1 |
+| 18.88 | bˁl IV · m-w-t · my II · lim · bn I | 2 | KTU 1.5 VI:23, KTU 1.6 I:6 |
+| 18.87 | klt I · lḥm II · d · nzl | 2 | KTU 1.14 II:16, KTU 1.14 III:58 |
+| 18.76 | y-ṯ-b · b · ap II · ṯġr I · tḥt | 2 | KTU 1.17 V:6', KTU 1.19 I:22 |
+| 18.49 | šnt I · b · ḥpn I · w · ˁ-n-w/ -y | 2 | KTU 1.16 VI:58, KTU 1.2 I:9 |
+| 18.49 | mrkbt · b · trbṣ · bn I · amt I | 2 | KTU 1.14 II:3, KTU 1.15 I:(4) |
+| 18.42 | aṯrt · w · bn I · ilt · w · ṣbrt | 2 | KTU 1.4 IV:49, KTU 1.6 I:40 |
+| 18.08 | h-d-y · lḥ I* · w · dqn | 2 | KTU 1.5 VI:19, KTU 1.6 I:3 |
+| 17.78 | tḥm · aliyn · bˁl IV · hwt I · aliy | 2 | KTU 1.3 IV:7, KTU 1.5 II:10 |
+| 17.78 | š-y-t · alp I · qdm III · mru I* | 2 | KTU 1.3 IV:41, KTU 1.4 V:45 |
+| 17.67 | l I · kbd III · arṣ · kl · gbˁ | 2 | KTU 1.5 VI:27, KTU 1.6 II:16 |
+| 17.24 | ḫlb · l I · ẓr I · rḥt* | 2 | KTU 1.4 VIII:6, KTU 1.5 V:14 |
+| 17.17 | qdqd · h-l-k I · šbt · dm II | 2 | KTU 1.18 I:11, KTU 1.3 V:24 |
+| 17.07 | h-l-k I · w · t-w-r I · b · ḫ-y-l | 2 | KTU 1.10 II:29', KTU 1.10 III:17' |
+| 17.04 | n-s-k I · šlm I · l I · kbd III · arṣ | 3 | KTU 1.1 II:20, KTU 1.3 III:16, KTU 1.3 IV:24 |
+| 17.04 | mlk II · l I · nḫt · l I · kḥṯ | 2 | KTU 1.1 IV:24, KTU 1.6 VI:34 |
+| 17.0 | b · ks I · ḫrṣ · dm II · ˁṣ | 3 | KTU 1.4 III:44, KTU 1.4 VI:59, KTU 1.5 IV:17 |
+| 16.93 | btlt · ˁnt II · idk · l IV · y-t-n | 2 | KTU 1.18 I:20, KTU 1.18 IV:5' |
+| 16.77 | b · alp II · šd II · rbt II · kmn I | 4 | KTU 1.1 III:2, KTU 1.19 I:26, KTU 1.3 IV:38, KTU 1.4 V:24 |
+| 16.74 | ḥ-s-p I · mh II · w · r-ḥ-ṣ | 2 | KTU 1.3 II:38, KTU 1.3 IV:42 |
+| 16.67 | mru I* · š-t-y · krpn · yn | 2 | KTU 1.17 VI:5', KTU 1.4 III:43 |
+| 16.64 | š-y-t · gpn II* · dt II · ksp | 2 | KTU 1.19 II:4, KTU 1.4 IV:10 |
+| 16.62 | km III · il I · w · ḥẓr · k IV · bn I | 3 | KTU 1.2 III:19, KTU 1.4 IV:51, KTU 1.4 V:1 |
+| 16.49 | w · q-b-r I · š-y-t · b · ḫrt | 2 | KTU 1.19 III:20, KTU 1.6 I:17 |
+| 16.46 | qn I · ḏrˁ I · ḥ-r-ṯ I | 2 | KTU 1.5 VI:20, KTU 1.6 I:4 |
+| 16.44 | y-d-ˁ I · bt II · k V · ˀ-n-š I(?) | 2 | KTU 1.18 I:16, KTU 1.3 V:27 |
+| 16.36 | mt III · rpi · aphn · ġzr | 2 | KTU 1.17 I:1', KTU 1.17 V:14' |
+| 16.36 | ˁ-d-b · uḫry · mṭ · yd I | 3 | KTU 1.19 III:49, KTU 1.19 III:56, KTU 1.19 IV:7 |
+| 16.28 | ˁ-r-b I · b · ẓl · ḫmt | 2 | KTU 1.14 II:12, KTU 1.14 III:55 |
+| 16.25 | l I · ysmt · šd I · šḥlmmt | 2 | KTU 1.5 VI:7, KTU 1.6 II:20 |
+| 16.24 | idk · l IV · y-t-n · pn* I · ˁm II | 3 | KTU 1.2 III:4, KTU 1.3 IV:37, KTU 1.6 I:32 |
+| 16.24 | ṭl · šmm · šmn I · arṣ | 2 | KTU 1.3 II:39, KTU 1.3 IV:43 |
+| 16.24 | p-r-q I · lṣb · w · ṣ-ḥ-q | 3 | KTU 1.17 II:10', KTU 1.4 IV:28, KTU 1.6 III:16 |
+| 16.19 | l I · nḫt · l I · kḥṯ · drkt | 3 | KTU 1.16 VI:24, KTU 1.3 IV:3, KTU 1.6 V:6 |
+| 16.11 | ṯmn I · nqpnt · ˁd I | 2 | KTU 1.12 II:45', KTU 1.23 I:67 |
+| 16.1 | uṭ · ḏrq* · amt II | 2 | KTU 1.18 IV:3', KTU 1.5 I:31 |
+| 16.09 | m-ḫ-ṣ I · ˁl I · qṣˁt · hwt II | 2 | KTU 1.18 IV:13', KTU 1.19 I:15 |
+| 16.0 | ḫ-l-q I · zbl I · bˁl II · arṣ | 2 | KTU 1.5 VI:10, KTU 1.6 III:1 |
+| 15.96 | abnu · ṣalmu · ʾalgbṯ | 2 | Ugarit RS 20.0255,a b.e:1, Ugarit RS 20.0255,a o:4' |
+| 15.96 | abnu · peṣû · kbd | 2 | Ugarit RS 20.0255,a b.e:2, Ugarit RS 20.0255,a o:5' |
+| 15.88 | ik · al II · š-m-ˁ · ṯr | 2 | KTU 1.2 III:17, KTU 1.6 VI:26 |
+| 15.84 | idk · l IV · y-t-n · pnm | 2 | KTU 1.18 IV:5', KTU 1.4 IV:20 |
+| 15.84 | ilny* · ṯn I · mṯpd | 2 | KTU 1.2 III:3, KTU 1.3 IV:35 |
+| 15.75 | w · ˁ-n-y I · lṭpn · il III · d · pid | 5 | KTU 1.1 IV:13, KTU 1.16 V:23, KTU 1.18 I:15, KTU 1.4 IV:58, KTU 1.6 I:49 |
+| 15.74 | g · l I · aṯt I · k VI · ṣ-y/ -w-ḥ | 2 | KTU 1.15 IV:2', KTU 1.17 V:15' |
+
+### Ugaritic: most frequent stock formulas
+
+| Phrase | Count |
+|---|---|
+| g · w · ṣ-y/ -w-ḥ | 33 |
+| n-š-ˀ · g · w · ṣ-y/ -w-ḥ | 25 |
+| bn I · il III · mt V | 17 |
+| šarru · mātu · Ugarit | 15 |
+| il III · d · pid | 15 |
+| rbt I · aṯrt · ym II | 14 |
+| ṯr · il III · ab | 14 |
+| b · qrb II · hkl | 13 |
+
+### Ugaritic: doublet section pairs
+
+- KTU 1.1 II = KTU 1.1 III (7)
+- KTU 1.1 II = KTU 1.3 IV (7)
+- KTU 1.1 III = KTU 1.17 VI (5)
+- KTU 1.1 III = KTU 1.2 III (10)
+- KTU 1.1 III = KTU 1.3 IV (9)
+- KTU 1.14 II = KTU 1.14 IV (9)
+- KTU 1.14 III = KTU 1.14 V (5)
+- KTU 1.14 III = KTU 1.14 VI (9)
+- KTU 1.14 III = KTU 1.15 I (11)
+- KTU 1.14 V = KTU 1.14 VI (4)
+- KTU 1.14 VI = KTU 1.15 I (8)
+- KTU 1.15 IV = KTU 1.15 V (4)
+- KTU 1.16 I = KTU 1.16 II (5)
+- KTU 1.17 I = KTU 1.17 II (16)
+- KTU 1.17 VI = KTU 1.2 III (9)
+- KTU 1.17 VI = KTU 1.3 V (4)
+- KTU 1.17 VI = KTU 1.4 IV (4)
+- KTU 1.2 III = KTU 1.3 V (5)
+- KTU 1.2 III = KTU 1.6 I (5)
+- KTU 1.3 III = KTU 1.3 IV (14)
+- KTU 1.3 IV = KTU 1.3 V (6)
+- KTU 1.3 V = KTU 1.4 IV (9)
+- KTU 1.4 I = KTU 1.4 IV (4)
+- KTU 1.4 IV = KTU 1.4 V (5)
+- KTU 1.4 V = KTU 1.4 VI (5)
+- KTU 1.4 VI = KTU 1.5 IV (4)
+
+## Egyptian: summary
+
+- Lines: 8,979, with lemmas: 8,824
+- Phrase echoes: 323; stock formulas: 9; name-heavy sequences: 11
+- Doublet section pairs (versions, witnesses and parallel passages): 67
+- Hapax legomena: 843; dis legomena: 520
+
+### Egyptian: top phrase echoes
+
+| Score | Phrase (lemmas) | Count | Places |
+|---|---|---|---|
+| 54.35 | wdi̯ · ḥnn · ḫfꜥ · jri̯ · nḏmm.t · msi̯ · zꜣ.tj · sn.w · Šw · Tfn.t | 2 | PT527 W1:P/C_ant/W_77_=_466, PT527 W2:M/C_med/W_85_=_529 |
+| 49.3 | ḥꜣ.t-ꜥ-m · sbꜣ.yt · jri̯ · jr.j-pꜥ.t · ḥꜣ.tj-ꜥ · jtj-nṯr · mr.y-nṯr · ḥr.j-sštꜣ-n-pr-nswt · ꜥnḫ-wḏꜣ-snb · ḥr.j-tp-n-tꜣ-r-ḏr=f | 3 | Ptahhotep W4:3, Ptahhotep W6:1, Ptahhotep W7:1 |
+| 38.75 | spr · mꜣꜣ · mꜣꜣ · sw · hrw · ḥḏi̯ · ḥꜣ.tj · rḏi̯ · pr · ptḫ | 2 | HarpersSongs W10:2/2, HarpersSongs W3:21/3 |
+| 38.06 | mꜣꜣ · sw · hrw · ḥḏi̯ · ḥꜣ.tj · rḏi̯ · pr · ptḫ · tꜣ · spr | 2 | HarpersSongs W10:2/2, HarpersSongs W3:21/3 |
+| 37.46 | mꜣꜣ · mꜣꜣ · sw · hrw · ḥḏi̯ · ḥꜣ.tj · rḏi̯ · pr · ptḫ · tꜣ | 2 | HarpersSongs W10:2/2, HarpersSongs W3:21/3 |
+| 35.32 | gmi̯ · ḥm · s.t-wr.t · wmt · n.t · ḏꜥm · ꜥ-ẖn.wtj | 2 | Sinuhe W1:252, Sinuhe W3:x+2 |
+| 33.0 | wdn · tʾ · ḥnq.t · jḥ · ꜣpd · snṯr · sḏ.t | 2 | BD125 W5:32_7, BD125 W9:66/2 |
+| 32.72 | mks · nḥb.t · ꜥ · wḏ (mdw) · mdw · Štꜣ.w-s.wt | 3 | PT213 W1:206/3, PT213 W2:P/F/Se_1/2, PT213 W3:Nt/F/Se_I_1_=_493/4 |
+| 30.92 | ḥꜣ.t-ꜥ-m · sbꜣ.yt · jri̯ · jr.j-pꜥ.t · ḥꜣ.tj-ꜥ · jtj-nṯr · mr.y-nṯr | 5 | Ptahhotep W3:1_1, Ptahhotep W4:3, Ptahhotep W6:1, Ptahhotep W7:1, Ptahhotep W8:vso_1 |
+| 30.56 | nb-Tꜣ.wj · Nb-ḫpr.w-Rꜥw · zꜣ-Rꜥw · mri̯ · nb-ḫꜥ.w · Twt-ꜥnḫ-Jmn-ḥqꜣ-Jwn.w-Šmꜥ.w | 3 | HeavenlyCow W3:0, HeavenlyCow W3:0/2, HeavenlyCow W5:0/2 |
+| 29.93 | jꜥi̯ · šꜥd · ẖpꜣ · rḏi̯ · jfd.j · ḏb.t | 3 | Westcar 10:11/2, Westcar 10:19, Westcar 11:2 |
+| 28.46 | rnp.t-zp · 1...n · ꜣbd · 1...4 · ꜣḫ.t · sw · 1...30 | 7 | NileHymn W2:Vso_7, Sinuhe W10:1.4, Sinuhe W2:5, Sinuhe W5:3, Sinuhe W7:7, Sinuhe W8:2, Sinuhe W9:3 |
+| 28.38 | pẖr · jꜣ.t · Ḥr.w · pẖr · jꜣ.t · Stẖ | 2 | PT213 W1:208, PT213 W3:Nt/F/Se_I_2_=_494/2 |
+| 28.34 | mj · zꜣ · n.j · ẖ.t · mri̯ · nb-Tꜣ.wj · Nb-ḫpr.w-Rꜥw | 2 | HeavenlyCow W4:1/2, HeavenlyCow W5:0/2 |
+| 28.11 | ẖr.tj-nṯr · mḏḥ · mr · psš · zꜣṯ.w | 2 | Sinuhe W1:301, Sinuhe W6:1/2 |
+| 27.9 | tꜣ · zpi̯ · gnn.t · wḥꜣ · mḥꜥ.w | 2 | Ipuwer 4:5, Ipuwer 5:13 |
+| 27.8 | ḏd · ḥs.w · ḥw.t · n.j · Wsjr · ḥm-nṯr-n-Jmn · mꜣꜥ-ḫrw | 2 | HarpersSongs W15:1, HarpersSongs W9:1 |
+| 27.77 | twt · sšr · nbw · šnḏ.wt · ḏꜥm | 2 | Sinuhe W1:307, Sinuhe W6:5/2 |
+| 27.75 | nḫꜣ.w · n.j · mfkꜣ.t · mꜣw · ḫr · mw | 3 | Westcar 5:16, Westcar 5:21/2, Westcar 6:5/3 |
+| 27.45 | nḏ (ḥr) · ḥr · Ḥꜥpj · pri̯ · tꜣ · jwi̯ · sꜥnḫ · Km.t | 5 | NileHymn W1:11_6/2, NileHymn W2:Rto_1/2, NileHymn W3:1/2, NileHymn W4:7_7/2, NileHymn W5:1_12/2 |
+| 27.17 | s.t-wr.t · wmt · n.t · ḏꜥm · ꜥ-ẖn.wtj | 3 | Sinuhe W1:252, Sinuhe W3:x+2, Sinuhe W5:Verso_44/2 |
+| 27.09 | tʾ · 1...n · ḥnq.t · ds · 1...n · jwꜣ · 1...n | 4 | Westcar 1:12/2, Westcar 4:13, Westcar 6:18, Westcar 9:20 |
+| 25.56 | jri̯ · jt · sḫpr · bd.t · sḥꜣbi̯ · rʾ-pr | 4 | NileHymn W2:Rto_3/2, NileHymn W3:4/3, NileHymn W4:8_1/2, NileHymn W5:2_4/2 |
+| 25.27 | mꜣḥ · zšn · rrm.t · šnb.t | 2 | HarpersSongs W3:6/2, HarpersSongs W5:10/2 |
+| 24.82 | Ptḥ-ḥtp.w · mꜣꜥ-ḫrw · wr · ḏd · ḥm · n.j · nswt-bj.tj | 2 | Ptahhotep W6:1, Ptahhotep W7:1 |
+| 24.44 | ꜥš · p.t · sḏm · ḫrw · wšb · Jtm.w | 2 | HarpersSongs W13:2, HarpersSongs W14:0 |
+| 23.11 | jmn · sšm.w · kki̯ · hrw · ḥsi̯ | 4 | NileHymn W1:11_6/3, NileHymn W2:Rto_1/3, NileHymn W3:1/3, NileHymn W5:2_1 |
+| 22.9 | hꜣy.t · sḏ.t · jnb · jꜥr.t · ꜥnḫ | 4 | BD125 W1:105/3, BD125 W3:464/3, BD125 W4:32_3/3, BD125 W8:64/3 |
+| 22.82 | wr · n · jwf · ḫꜣw.t · n · nṯr-ꜥꜣ | 4 | BD125 W1:113/3, BD125 W2:803/2, BD125 W3:477, BD125 W9:68/3 |
+| 22.79 | Wsjr · nswt · nb-Tꜣ.wj · Nb-ḫpr.w-Rꜥw · zꜣ-Rꜥw | 3 | HeavenlyCow W3:0, HeavenlyCow W3:0/2, HeavenlyCow W5:0/8 |
+| 22.49 | zꜣ · n.j · ẖ.t · mri̯ · nb-Tꜣ.wj · Nb-ḫpr.w-Rꜥw | 3 | HeavenlyCow W4:1/2, HeavenlyCow W5:0/2, HeavenlyCow W5:0/6 |
+| 22.48 | ḥzw.t · n.t · ḫr-nswt · jwi̯ · hrw | 2 | Sinuhe W1:309/2, Sinuhe W6:7 |
+| 22.21 | jwḥ · šꜣ · qmꜣ · Rꜥw · sꜥnḫ | 4 | NileHymn W2:Rto_1/4, NileHymn W3:2, NileHymn W4:7_8, NileHymn W5:2_2 |
+| 22.12 | jb · n.j · ḥm · qbb · mꜣꜣ · ẖni̯ | 2 | Westcar 5:3, Westcar 6:1/2 |
+| 22.02 | sẖkr · ꜣḥ.t · ḫnd · šꜣj | 2 | BD125 W3:472, BD125 W5:32_10 |
+| 22.0 | ẖnw · ꜥnḫ · wḏꜣ · snb · sgr | 2 | Sinuhe W5:4/3, Sinuhe W7:9/2 |
+| 21.94 | jr.jt-pꜥ.t · wr.t-ḥzw.t · ḥm.t-nswt · Z-n-wsr.t | 4 | Sinuhe W10:1.2/3, Sinuhe W2:2/3, Sinuhe W5:2/2, Sinuhe W9:2 |
+| 21.93 | n.j · jp.t · n.j · wn.t · n.j · Ḏḥw.tj | 2 | Westcar 7:6, Westcar 9:1/2 |
+| 21.74 | m · rḏi̯ · ky.t · s.t · ky.t | 2 | EloquentPeasant W2:183/alt_152, Ptahhotep W1:18_7/2 |
+| 21.46 | m-ḏy.t · hꜣb · wpw.t · nḥꜣ | 2 | Amenemope W1:4.8, Amenemope W3:A.7 |
+| 21.28 | ztj · sšr · ꜣḥ.t · ḫnd | 3 | BD125 W1:111, BD125 W2:801, BD125 W9:67 |
+| 21.17 | nb · šzp · zbṯ · jbḥ · nb · kfi̯ | 6 | NileHymn W1:12_3, NileHymn W2:Rto_5/2, NileHymn W3:7/3, NileHymn W4:8_5/2, NileHymn W5:2_8/2, NileHymn W6:x+2_4 |
+| 21.07 | ꜣwi̯ (ḏr.t) · ḏr.t · tkn · jꜣw | 2 | Amenemope W1:4.6, Amenemope W3:A.6/2 |
+| 20.91 | Jtm.w · ḫpr · jwi̯ · sꜣwi̯ · Jwn.w | 2 | PT527 W1:P/C_ant/W_76_=_465/2, PT527 W2:M/C_med/W_84_=_528/2 |
+| 20.64 | srwḏ · srd · ḫt · ꜣbi̯ · nb | 5 | NileHymn W1:12_6, NileHymn W3:11, NileHymn W4:8_9, NileHymn W5:2_12, NileHymn W6:x+2_7 |
+| 20.24 | jwi̯ · ḥꜣ.t · pḥ.wj · gmi̯ · zẖꜣ.w | 2 | Ptahhotep W1:19.9, Sinuhe W1:311 |
+| 20.12 | ꜣbd · 1...4 · ꜣḫ.t · sw · 1...30 | 8 | NileHymn W2:Vso_7, NileHymn W2:Vso_9, Sinuhe W10:1.4, Sinuhe W2:5, Sinuhe W5:3, Sinuhe W7:7, Sinuhe W8:2, Sinuhe W9:3 |
+| 20.11 | jri̯ · jr.j-pꜥ.t · ḥꜣ.tj-ꜥ · jtj-nṯr · mr.y-nṯr | 7 | Ptahhotep W3:1_1, Ptahhotep W3:1_11, Ptahhotep W4:3, Ptahhotep W6:1, Ptahhotep W7:1, Ptahhotep W8:vso_1, Ptahhotep W8:vso_5/7 |
+| 20.11 | ḫpš · pḏ.t · nmt.t · sḫr | 2 | Sinuhe W1:103, Sinuhe W4:x+1 |
+| 19.82 | ꜥšq · dnj.t · n · ḥw.t-nṯr | 2 | Amenemope W1:6.14, Amenemope W4:Rekto_3 |
+| 19.71 | jm.j-rʾ-kꜣ.t · ḥr.t · ḏꜣi̯ (tꜣ) (r) | 2 | Sinuhe W1:303, Sinuhe W6:3/2 |
+| 19.64 | ḫwi̯ · ḫpr · jḫ.t · nb · ḏwi̯ | 2 | PT600 N/F/E.inf.18.=:664/3, PT600 N/F/E.inf.20.=:666/2 |
+| 19.51 | hꜣy.t · sḏ.t · jnb · jꜥr.t | 5 | BD125 W1:105/3, BD125 W2:795/3, BD125 W3:464/3, BD125 W4:32_3/3, BD125 W8:64/3 |
+| 19.48 | nḥm · wnm.t · nb · smꜣ · rmṯ | 2 | Merikare W3:6_15, Sinuhe W5:42 |
+| 19.26 | ḏd · ḥm · n.j · nswt-bj.tj · Ḫwi̯=f-wj · mꜣꜥ-ḫrw | 4 | Westcar 12:12, Westcar 1:12, Westcar 4:12, Westcar 6:17 |
+| 19.21 | hꜣb · ḥm.t · ḥr.j-pr · š | 2 | Westcar 2:7, Westcar 3:5 |
+| 19.18 | nḫꜣ.w · n.j · mfkꜣ.t · mꜣw | 4 | Westcar 5:16, Westcar 5:21/2, Westcar 6:2, Westcar 6:5/3 |
+| 19.07 | tꜣ · ḫrw · ẖnn.w · ẖnn.w | 2 | Ipuwer 12:12/3, Ipuwer 6:1 |
+| 19.05 | ms · sr · ḥwi̯ · sꜣ.t | 2 | Ipuwer 4:3, Ipuwer 5:6 |
+| 18.97 | ḥm · n.j · nswt-bj.tj · Nb-kꜣ.w-Rꜥw · mꜣꜥ-ḫrw | 3 | EloquentPeasant W1:16_8/alt_117, EloquentPeasant W2:102/alt_71/2, EloquentPeasant W3:130 |
+
+### Egyptian: most frequent stock formulas
+
+| Phrase | Count |
+|---|---|
+| ḏd · ḥm · n.j | 30 |
+| jm.j-rʾ-pr-wr · Mr.w · zꜣ · Rnsj | 25 |
+| ḥm · n.j · nswt-bj.tj | 22 |
+| ḏd · ḥm · ꜥnḫ-wḏꜣ-snb | 21 |
+| rḏi̯ · ꜥq · j | 18 |
+| sbꜣ · ḏd · rn | 18 |
+| jri̯ (hrw) · hrw · nfr | 16 |
+| jwi̯ · sḫ.tj · spr | 14 |
+| ḥm · n.j · nṯr | 13 |
+
+### Egyptian: doublet section pairs
+
+- Amenemope W1 = Amenemope W5 (13)
+- Amenemope W1 = Amenemope W6 (11)
+- BD125 W1 = BD125 W2 (80)
+- BD125 W1 = BD125 W3 (55)
+- BD125 W1 = BD125 W4 (14)
+- BD125 W1 = BD125 W6 (12)
+- BD125 W1 = BD125 W7 (15)
+- BD125 W1 = BD125 W8 (21)
+- BD125 W1 = BD125 W9 (6)
+- BD125 W2 = BD125 W3 (48)
+- BD125 W2 = BD125 W4 (6)
+- BD125 W2 = BD125 W6 (13)
+- BD125 W2 = BD125 W7 (15)
+- BD125 W2 = BD125 W8 (22)
+- BD125 W3 = BD125 W6 (13)
+- BD125 W3 = BD125 W7 (16)
+- BD125 W3 = BD125 W8 (4)
+- BD125 W3 = BD125 W9 (6)
+- BD125 W4 = BD125 W8 (9)
+- EloquentPeasant W1 = EloquentPeasant W2 (80)
+- EloquentPeasant W2 = EloquentPeasant W3 (48)
+- HarpersSongs W1 = HarpersSongs W2 (7)
+- HarpersSongs W11 = HarpersSongs W22 (9)
+- HarpersSongs W17 = HarpersSongs W22 (6)
+- HarpersSongs W7 = HarpersSongs W8 (4)
+- HeavenlyCow W1 = HeavenlyCow W2 (16)
+- Merikare W1 = Merikare W2 (59)
+- Merikare W1 = Merikare W3 (114)
+- Merikare W2 = Merikare W3 (46)
+- NileHymn W1 = NileHymn W2 (12)
+- NileHymn W1 = NileHymn W4 (46)
+- NileHymn W1 = NileHymn W5 (23)
+- NileHymn W1 = NileHymn W6 (5)
+- NileHymn W2 = NileHymn W3 (11)
+- NileHymn W2 = NileHymn W4 (15)
+- NileHymn W2 = NileHymn W5 (54)
+- NileHymn W2 = NileHymn W6 (35)
+- NileHymn W3 = NileHymn W5 (11)
+- NileHymn W3 = NileHymn W6 (7)
+- NileHymn W4 = NileHymn W5 (22)
+- NileHymn W4 = NileHymn W6 (6)
+- NileHymn W5 = NileHymn W6 (35)
+- PT217 W1 = PT217 W2 (5)
+- PT273-274 W1 = PT273-274 W2 (33)
+- PT302 W1 = PT302 W2 (6)
+- PT306 W1 = PT306 W2 (10)
+- PT306 W1 = PT306 W3 (17)
+- PT306 W2 = PT306 W3 (13)
+- Ptahhotep W1 = Ptahhotep W2 (19)
+- Ptahhotep W1 = Ptahhotep W3 (53)
+- Ptahhotep W1 = Ptahhotep W8 (6)
+- Ptahhotep W2 = Ptahhotep W3 (23)
+- Ptahhotep W3 = Ptahhotep W8 (22)
+- Ptahhotep W4 = Ptahhotep W7 (6)
+- Sinuhe W1 = Sinuhe W10 (7)
+- Sinuhe W1 = Sinuhe W2 (68)
+- Sinuhe W1 = Sinuhe W5 (107)
+- Sinuhe W1 = Sinuhe W8 (8)
+- Sinuhe W10 = Sinuhe W2 (17)
+- Sinuhe W10 = Sinuhe W5 (22)
+
+## Hittite: summary
+
+- Lines: 21,555, with lemmas: 4,696
+- Phrase echoes: 73; stock formulas: 3; name-heavy sequences: 30
+- Doublet section pairs (versions, witnesses and parallel passages): 2
+- Hapax legomena: 1,224; dis legomena: 566
+
+### Hittite: top phrase echoes
+
+| Score | Phrase (lemmas) | Count | Places |
+|---|---|---|---|
+| 49.29 | ZABAR · IG · ZABAR · arimpa- · ZABAR · AB · ZABAR | 2 | CTH 323.1 §13:136, CTH 323.1 §15:144 |
+| 45.24 | DINGIR˽LÚ · DINGIR˽MUNUS · ḪUR.SAG · ÍD · DINGIR˽LÚ · DINGIR˽MUNUS · ḪUR.SAG · ÍD | 2 | CTH 381 §X43:73, CTH 381 §X44:74 |
+| 38.03 | GUL · KÙ.BABBAR · KÙ.SI₂₂ · TÚG-TUM · UNŪTU · ZABAR | 2 | CTH 264 W15:Vs._II_47', CTH 264 W3:{€1}_Vs._II_38' |
+| 37.03 | GAL · DUMU · É.GAL · GAL · MEŠĒDU · GAL | 2 | CTH 19 W2:{€1}_obv._II_62, CTH 19 W9:obv._II_9' |
+| 35.97 | KUR-TI · aššu- · takšul- · aššul- · miatar | 2 | CTH 382 §2:30, CTH 382 §4:68 |
+| 35.8 | GAL · KUŠ₇ · UGULA · NIMGIR · ÉRIN | 2 | CTH 19 W4:{€1+2}_15', CTH 19 W6:{€2}_rev._III_8' |
+| 32.88 | Ì.DU₁₀.GA · GAL · LÀL · GAL · Ì.UDU | 2 | CTH 323.1 §14:139, CTH 323.1 §16:149 |
+| 29.77 | telipinu- · karpeššar | karpi- · kartimiyatt- | kartimiye/a- · waštul- · šai- | šawar | 2 | CTH 324.1 §28:180, CTH 324.1 §36:223 |
+| 29.46 | UNŪTU · GIŠ-ṢI · UNŪTU · GIR₄ | 2 | CTH 264 W15:Rs._III_64, CTH 264 W3:{€5+1}_Rs._III_7'/Rs._III_16'! |
+| 27.87 | NÍG.BA · LUGAL · UL · ŠUMU · LUGAL | 2 | CTH 264 W15:Vs._II_46', CTH 264 W3:{€1}_Vs._II_37' |
+| 27.4 | KÙ.BABBAR · KÙ.SI₂₂ · TÚG-TUM · UNŪTU · ZABAR | 7 | CTH 264 W15:Vs._II_25', CTH 264 W15:Vs._II_33', CTH 264 W15:Vs._II_47', CTH 264 W3:{€1}_Vs._II_17', CTH 264 W3:{€1}_Vs._II_24', CTH 264 W3:{€1}_Vs._II_38', CTH 264 W6:{€1}_Vs._II_34 |
+| 27.31 | AMA-ŠU · ŠEŠ-ŠU · gaenašša- · ara- | 3 | CTH 371.1 §5:36, CTH 371.1 §8:52, CTH 371.1 §9:59 |
+| 27.09 | 10 · DINGIR˽LÚ · DINGIR˽MUNUS · ḪUR.SAG · ÍD | 2 | CTH 381 §X33:63, CTH 381 §X55:85 |
+| 25.93 | ITU · ITU · ITU · ITU | 2 | CTH 346.5 §1:14, CTH 360.1 §15:90 |
+| 25.26 | AWĀTU · PÚ | PÚ-n · AMA-KA · ark | arku | 2 | CTH 384.1 §13:136, CTH 384.1 §15:157 |
+| 25.18 | ŠAḪ · UR.GI₇ · kattaluzzi · le | 2 | CTH 264 W3:{€5+1}_Rs._III_3'/Rs._III_12', CTH 264 W6:{€4+1}_Rs._III_11'/Rs._III_31' |
+| 24.75 | ABU · BĪTU · GAL · DUMU | 3 | CTH 19 W2:{€1}_obv._II_62, CTH 19 W4:{€1+2+3}_9'/1', CTH 19 W6:{€2}_rev._III_3' |
+| 24.62 | idalu- · karpeššar | karpi- · kartimiyatt- | kartimiye/a- · waštul- | 2 | CTH 324.2 §19:90, CTH 324.7 §8:39 |
+| 24.39 | DINGIR · GAL.GAL · DINGIR · TUR | 2 | CTH 324.1 §10:77, CTH 324.1 §7:52 |
+| 24.2 | PÌRIG.TUR · UR.MAḪ · DÀRA.MAŠ | 2 | CTH 1 W5:obv._I_9', CTH 1 W6:{€3}_obv._8' |
+| 24.06 | šuu- · ŠÚ.A · AN.BAR | 2 | CTH 1 W2:rev._75, CTH 1 W6:{€3}_rev._3 |
+| 23.66 | DINGIR˽LÚ · MUNUS · ḪUR.SAG · ÍD | 2 | CTH 381 §X40:70, CTH 381 §X50:80 |
+| 23.52 | karpeššar | karpi- · kartimiyatt- | kartimiye/a- · waštul- · šai- | šawar | 3 | CTH 324.1 §28:180, CTH 324.1 §36:223, CTH 324.7 §8:39 |
+| 22.39 | SILA₄ · miu- · ḫaluga- | 2 | CTH 324.1 §40:263, CTH 327.1 §5:57 |
+| 22.32 | ÁB · NIGA · NIGA | 2 | CTH 380.1 §1:4, CTH 380.1 §6:40 |
+| 22.19 | takšul- · aššul- · miatar | 3 | CTH 382 §2:30, CTH 382 §4:68, CTH 382 §7:105 |
+| 22.15 | GAL · DUMU · É.GAL · GAL | 4 | CTH 19 W2:{€1}_obv._II_62, CTH 19 W4:{€1+2+3}_14'/6', CTH 19 W6:{€2}_rev._III_7', CTH 19 W9:obv._II_9' |
+| 21.97 | GIŠ-ṢI · UNŪTU · GIR₄ | 3 | CTH 264 W15:Rs._III_64, CTH 264 W3:{€5+1}_Rs._III_7'/Rs._III_16'!, CTH 264 W6:{€1}_Rs._III_35' |
+| 21.89 | ḫattuša- | ḫattuš · tuliya- · AŠRU | 2 | CTH 383.1 §11:154, CTH 383.1 §12:164 |
+| 21.61 | APIN.LÁ · A.ŠÀ · A.GÀR | 2 | CTH 19 W3:{€1}_rev._III_9, CTH 19 W5:{€1+4}_rev._III_2/6 |
+| 21.5 | ZABAR · MAR · ZABAR | 2 | CTH 323.1 §13:136, CTH 323.1 §16:145 |
+| 21.21 | aruna- | aru- · irḫa- · laḫḫant- | laḫḫa- | 2 | CTH 19 W3:{€1}_obv._I_7, CTH 19 W5:{€1+2}_obv._I_8 |
+| 21.21 | luttai- · kammara- · tarna- | 2 | CTH 324.1 §38:245, CTH 335.7.2 §6:23 |
+| 20.98 | DINGIR-LIM · KÙ.BABBAR · KÙ.SI₂₂ · le | 2 | CTH 264 W3:{€1}_Vs._II_21', CTH 264 W6:{€1}_Vs._II_38 |
+| 20.23 | LÚ · GAL-TIM · ABU | 2 | CTH 19 W4:{€1+2+3}_13'/5', CTH 19 W6:{€2}_rev._III_7' |
+| 20.08 | DUMU.LUGAL · DUMU.NITA · NU.GÁL | 2 | CTH 19 W2:{€1}_obv._II_38, CTH 19 W6:{€1+2}_obv._II_13'/obv._II_7' |
+| 20.08 | UDU · NIGA · ḫappar- | 2 | CTH 264 W15:Rs._IV_63, CTH 264 W3:{€2}_Rs._IV_23' |
+| 20.0 | BIBRÛ · DINGIR-LIM · ZI-TI | 2 | CTH 264 W15:Rs._IV_69, CTH 264 W3:{€2}_Rs._IV_28' |
+| 19.93 | DUMU-ŠU | DUMU°MEŠ°-ŠU · ŠEŠ-ŠU · gaenašša- | 2 | CTH 19 W3:{€1}_obv._I_2, CTH 19 W5:{€1+2}_obv._I_14 |
+| 19.83 | ŠAḪ · UR.GI₇ · kattaluzzi | 3 | CTH 264 W15:Rs._III_60, CTH 264 W3:{€5+1}_Rs._III_3'/Rs._III_12', CTH 264 W6:{€4+1}_Rs._III_11'/Rs._III_31' |
+| 19.83 | KUR-TI · aššu- · takšul- | 3 | CTH 382 §2:30, CTH 382 §4:68, CTH 382 §5:72 |
+| 19.79 | KAŠ · GEŠTIN · kattaluzzi | 2 | CTH 264 W18:Vs._I_16', CTH 264 W6:{€1}_Vs._II_10 |
+| 19.65 | SAGI.A · LÚ · BANŠUR | 2 | CTH 19 W4:{€1+2}_3', CTH 19 W9:obv._II_14' |
+| 19.59 | karpeššar | karpi- · kartimmiyatt- | kartimmiye/a- | kartimmiya- · šai- | šawar | 2 | CTH 324.7 §8:47, CTH 335.20 §1:3 |
+| 19.04 | šeraššan · NÍG.GIG · ŠÀ | 5 | CTH 335.7.2 §1:2, CTH 335.7.2 §2:5, CTH 335.7.2 §2:8, CTH 335.7.2 §3:11, CTH 335.7.2 §4:17 |
+| 19.03 | UNŪTU · ZABAR · NU.GÁL | 2 | CTH 264 W15:Vs._II_27', CTH 264 W3:{€1}_Vs._II_19' |
+| 19.02 | É · ḫalmašuit- · É | 2 | CTH 1 W2:rev._57, CTH 1 W5:obv._I_6' |
+| 19.01 | ŠÀ-BI · LÀL · Ì.DU₁₀.GA | 5 | CTH 381 §10:175, CTH 381 §11:180, CTH 381 §12:185, CTH 381 §13:190, CTH 381 §9:170 |
+| 18.92 | NIGA · UDU · NIGA | 3 | CTH 264 W15:Rs._IV_63, CTH 264 W6:{€1}_Vs._II_18, CTH 380.1 §7:51 |
+| 18.74 | DINGIR˽LÚ · DINGIR˽MUNUS · UTU-ŠI | 2 | CTH 381 §X47:77, CTH 381 §X48:78 |
+| 18.44 | GAL · LÚ · MEŠĒDU | 2 | CTH 19 W3:{€1}_obv._II_11, CTH 19 W4:{€1+2+3}_10'/2' |
+| 18.36 | EZEN₄ · AMA.DINGIR-LIM · EZEN₄ | 2 | CTH 264 W15:Vs._I_43', CTH 264 W3:{€2+3+4}_Vs._I_14''/6''/2'' |
+| 18.31 | karpeššar | karpi- · kartimiyatt- | kartimiye/a- · šai- | šawar | 3 | CTH 324.1 §29:190, CTH 324.1 §30:195, CTH 332.2 §4:50 |
+| 18.28 | KÙ.BABBAR · KÙ.SI₂₂ · BIBRÛ | 2 | CTH 375.1 §16:40, CTH 375.1 §4:9 |
+| 17.98 | EZEN₄ · EZEN₄ · BIBRÛ | 2 | CTH 264 W3:{€2+3+4}_Vs._I_13''/5''/1'', CTH 264 W6:{€3}_9' |
+| 17.98 | EZEN₄ · BIBRÛ · EZEN₄ | 2 | CTH 264 W15:Vs._I_42', CTH 264 W3:{€2+3+4}_Vs._I_13''/5''/1'' |
+| 17.91 | GAL · MEŠĒDU · GAL | 3 | CTH 19 W2:{€1}_obv._II_62, CTH 19 W2:{€1}_obv._II_71, CTH 19 W9:obv._II_9' |
+| 17.51 | telipinu- · karpeššar | karpi- · kartimiyatt- | kartimiye/a- | 3 | CTH 324.1 §28:180, CTH 324.1 §30:195, CTH 324.1 §36:223 |
+| 17.14 | TÚG-TUM · UNŪTU · ZABAR | 8 | CTH 264 W15:Vs._II_25', CTH 264 W15:Vs._II_33', CTH 264 W15:Vs._II_47', CTH 264 W3:{€1}_Vs._II_17', CTH 264 W3:{€1}_Vs._II_24', CTH 264 W3:{€1}_Vs._II_38', CTH 264 W6:{€1}_Vs._II_34, CTH 264 W6:{€1}_Vs._II_42 |
+| 16.98 | kartimiyatt- | kartimiye/a- · waštul- · šai- | šawar | 4 | CTH 324.1 §28:180, CTH 324.1 §36:223, CTH 324.7 §8:39, CTH 335.12 §2:8 |
+
+### Hittite: most frequent stock formulas
+
+| Phrase | Count |
+|---|---|
+| DINGIR˽LÚ · DINGIR˽MUNUS · ḪUR.SAG | 29 |
+| DINGIR˽MUNUS · ḪUR.SAG · ÍD | 29 |
+| DINGIR˽LÚ · DINGIR˽MUNUS · ḪUR.SAG · ÍD | 28 |
+
+### Hittite: doublet section pairs
+
+- CTH 19 W2 = CTH 19 W3 (5)
+- CTH 264 W15 = CTH 264 W6 (4)
+
+## Northwest Semitic: summary
+
+- Lines: 818, with lemmas: 0
+- Phrase echoes: 0; stock formulas: 0; name-heavy sequences: 0
+- Doublet section pairs (versions, witnesses and parallel passages): 0
+- Hapax legomena: 0; dis legomena: 0
+
+### Northwest Semitic: top phrase echoes
+
+| Score | Phrase (lemmas) | Count | Places |
+|---|---|---|---|
+
+### Northwest Semitic: most frequent stock formulas
+
+| Phrase | Count |
+|---|---|
+
+### Northwest Semitic: doublet section pairs
+
+
+## Akkadian: Sumerian loanword candidates (332)
+
+Akkadian words written with a Sumerian logogram whose Sumerian reading they echo (eBL dictionary). Run `tools/anelex.py` (or `tools/lexical.py`) first to refresh.
+
+| Akkadian | Sumerian | Logogram | Sumerian attested |
+|---|---|---|---|
+| absinnu I | absin | AB.SÍN | 47 |
+| adamatu I | adama | ADAMA | 2 |
+| adurû I | eduru | É.DURU5 | 6 |
+| agasalakku I | agasilig | AGA.SILIG | 4 |
+| alallû I | alal | ÁLAL | 6 |
+| andullu I | andul | AN.DÙL | 24 |
+| apkallatu I | abgal | ABGAL | 11 |
+| apkallu I | abgal | ABGAL | 11 |
+| aplu II | ibila | IBILA | 19 |
+| aplūtu I | ibila | IBILA | 19 |
+| apsasû I | abzaza | ÁB.ZA.ZA | 3 |
+| apsû I | abzu | ABZU | 243 |
+| arallû I | arali | ARALI | 15 |
+| ararru I | arar | ÀR.ÀR | 4 |
+| arāru III | urur | UR4.UR4 | 3 |
+| asakku I | azag | ÁZAG | 1 |
+| asakku II | azag | AZAG | 1 |
+| aškuttu I | askud | AŠKUD | 10 |
+| aškāpu I | asgab | AŠGAB | 5 |
+| aštammu I | esdam | ÉŠ.DAM | 11 |
+| basû I | ibsi | ÍB.SI8 | 2 |
+| bêru I | bar | BAR | 609 |
+| būru III | bur | BÙR | 257 |
+| dirigû I | dirig | DIRIG | 299 |
+| dārû I | dari | DA.RÍ | 51 |
+| ebūru I | buru | BURU14 | 93 |
+| edullû I | edul | É.DUL | 1 |
+| enkummu I | enkum | ENKUM | 9 |
+| epinnu I | apin | APIN | 31 |
+| erēnu I | eren | EREN | 11 |
+| eššēšu I | eses | ÈŠ.ÈŠ | 4 |
+| gabarû I | gabari | GABA.RI | 54 |
+| galamāhu I | galamah | GALA.MAH | 2 |
+| ganūnu I | ganun | GÁ.NUN | 12 |
+| gipāru I | gipar | GI6.PÀR | 70 |
+| gizillû I | giizila | GI.IZI.LÁ | 5 |
+| gišallu I | gisal | GISAL | 14 |
+| gišhuru I | gishur | GIŠ.HUR | 67 |
+| gišrinnu I | giserin | GIŠ.ERÍN | 2 |
+| gugallu I | gugal | GÚ.GAL | 12 |
+| guqqû I | gug | GUG | 59 |
+| guzalû I | guzala | GU.ZA.LÁ | 4 |
+| guzalūtu I | guzala | GU.ZA.LÁ | 4 |
+| gušūru I | gisur | GIŠ.ÙR | 10 |
+| ibissû I | ibiza | I.BÍ.ZA | 5 |
+| igigallu I | igigal | IGI.GÁL | 33 |
+| igitennu I | igiteen | IGI.TE.EN | 7 |
+| igāru I | egar | É.GAR8 | 27 |
+| ildakku I | ildag | ÍLDAG | 10 |
+| imhullu I | imhul | IM.HUL | 20 |
+| isinnu I | ezen | EZEN | 60 |
+| išippu I | isib | IŠIB | 13 |
+| iškāru I | esgar | ÉŠ.GÀR | 13 |
+| išparu I | usbar | UŠ.BAR | 26 |
+| kagallu I | kigal | KI.GÁL | 12 |
+| kalû III | gala | GALA | 58 |
+| kalû V | gul | GUL | 350 |
+| kammu I | kam | KÀM | 14 |
+| kaparru I | kabar | KA.BAR | 2 |
+| karašu I | garas | GA.RAŠ | 25 |
+| karru II | gar | GÀR | 1635 |
+| karû I | gur | GUR7 | 320 |
+| katarru I | katar | KA.TAR | 1 |
+| kigallu I | kigal | KI.GAL | 12 |
+| kikalû I | kigal | KI.GÁL | 12 |
+| kimahu I | kimah | KI.MAH | 4 |
+| kirru I | kir | KÍR | 7 |
+| kisal I | kisal | KISAL | 63 |
+| kisallu I | kisal | KISAL | 63 |
+| kisû I | kisa | KI.SÁ | 5 |
+| kitû I | gada | GADA | 42 |
+| kizû I | kus | KUŠ7 | 200 |
+| kišibgallu I | kisibgal | KIŠIB.GÁL | 7 |
+| kiššatu I | kis | KIŠ | 40 |
+| kiššu I | gisa | GI.SA | 33 |
+| kiššūtu I | kis | KIŠ | 40 |
+| kiūru II | kiur | KI.ÙR | 71 |
+| kukku I | gug | GÚG | 59 |
+| kurru I | gur | GUR | 320 |
+| kussû I | guza | GU.ZA | 96 |
+| kušû I | kusu | KÚŠU | 51 |
+| kânu I | gin | GIN | 41 |
+| kāru I | kar | KAR | 276 |
+| kīma I | gim | GIM | 7 |
+| kīru I | gir | GIR4 | 89 |
+| kīsu I | gizi | GI.ZI | 23 |
+| kūnu I | gin | GIN | 41 |
+| labirtu I | libir | LIBIR | 23 |
+| labīru I | libir | LIBIR | 23 |
+| lahtanu I | lahtan | LAHTAN | 5 |
+| lillu I | lil | LIL | 92 |
+| lulīmu I | lulim | LU.LIM | 16 |
+| lumahhu I | lumah | LÚ.MAH | 11 |
+| lānu I | alan | ALAN | 67 |
+| manû II | mana | MA.NA | 22 |
+| marru II | mar | MAR | 53 |
+| masabbu I | masaab | MA.SÁ.AB | 3 |
+| mašmašu I | masmas | MAŠ.MAŠ | 21 |
+| mušarû I | musar | MU.SAR | 12 |
+| mušgallu I | musgal | MUŠ.GAL | 2 |
+| mušhuššu I | mushus | MUŠ.HUŠ | 12 |
+| mušlahhatu I | muslah | MUŠ.LAH4 | 2 |
+| mušlahhu I | muslah | MUŠ.LAH6 | 2 |
+| mušmahhu I | musmah | MUŠ.MAH | 4 |
+| nagāru I | nagar | NAGAR | 19 |
+| namtaru I | namtar | NAM.TAR | 93 |
+| nargallu I | nargal | NAR.GAL | 1 |
+| narû I | narua | NA.RÚ.A | 1 |
+| nukušû I | nukusu | NU.KÚŠ.Ù | 4 |
+| nurmû I | nuurma | NU.ÚR.MA | 3 |
+| nāru II | nar | NAR | 63 |
+| nārūtu I | nar | NAR- | 63 |
+| palû I | bala | BALA | 53 |
+| papāhu I | papah | PA.PAH | 4 |
+| parakku I | barag | BARAG | 296 |
+| petû I | bad | BAD | 270 |
+| petû II | bad | BAD | 270 |
+| pulukku I | bulug | BULUG | 87 |
+| puzru I | puzur | PUZUR4 | 1 |
+| pītu I | bad | BAD | 270 |
+| pūru I | bur | BUR | 257 |
+| qiššû I | ukus | ÚKUŠ | 9 |
+| rakbu I | ragaba | RÁ.GABA | 20 |
+| rakbû I | ragaba | RA.GABA | 20 |
+| sahliu I | zahili | ZÀ.HI.LI | 1 |
+| sahliu I | zahilia | ZÀ.HI.LI.A | 4 |
+| salāmu II | silim | SILIM | 164 |
+| salīmu I | silim | SILIM | 164 |
+| sammû I | zami | ZÀ.MÍ | 142 |
+| sapāru I | sapar | SA.PÀR | 24 |
+| sattukku I | sadug | SÁ.DUG4 | 20 |
+| siparru I | zabar | ZABAR | 32 |
+| sugû I | sugu | SU.GU7 | 4 |
+| suhurmāšu I | suhurmas | SUHUR.MÁŠ | 6 |
+| sūru I | sur | SÙR | 101 |
+| tabīru I | tibira | TIBIRA | 6 |
+| tallu I | dal | DAL | 60 |
+| tamkāru I | damgar | DAM.GÀR | 2 |
+| tappinnu I | dabin | DABIN | 3 |
+| temmēnu I | temen | TEMEN | 37 |
+| titāpū I | titab | TITAB | 3 |
+| turāhu I | dara | DÀRA | 5 |
+| ugāru I | agar | A.GÀR | 58 |
+| urgulû I | urgula | UR.GU.LA | 3 |
+| uridimmu I | uridim | UR.IDIM | 3 |
+| urmahhu I | urmah | UR.MAH | 77 |
+| utukku I | udug | UDUG | 48 |
+| utullu I | utul | Ú.TÚL | 16 |
+| utūnu I | udun | UDUN | 7 |
+| ušumgallu I | usumgal | UŠUMGAL | 59 |
+| waklu I | ugula | UGULA | 18 |
+| zadimmu I | zadim | ZA.DÍM | 11 |
+| zagmukku I | zagmuk | ZAG.MUK | 2 |
+| zahaṭû I | zahada | ZA.HA.DA | 4 |
+| zīzu II | ziz | ZÍZ | 12 |
+| ēkallu I | egal | É.GAL | 200 |
+| ēkurru I | ekur | É.KUR | 224 |
+| šadû I | satu | SA.TU | 1 |
+| šaharru I | sahar | SÁHAR | 155 |
+| šaharru II | sahir | SA.HIR | 2 |
+| šalmu I | silim | SILIM | 164 |
+| šalummatu I | sulim | SU.LIM | 27 |
+| šalāmu II | silim | SILIM | 164 |
+| šannu I | sen | ŠEN | 80 |
+| šappu I | sab | ŠAB | 19 |
+| šatammu I | satam | ŠÀ.TAM | 4 |
+| šašallu I | sasal | SA.SAL | 1 |
+| šešgallu I | sesgal | ŠEŠ.GAL | 17 |
+| šigaru I | sigar | SI.GAR | 25 |
+| šu'ru I | sur | ŠUR | 101 |
+| šugītu I | sugi | ŠU.GI | 6 |
+| šulmu I | silim | SILIM | 164 |
+| šuluhhu I | suluh | ŠU.LUH | 80 |
+| šuluhhû I | suluh | ŠU.LUH | 80 |
+| šur'u I | sur | ŠUR | 101 |
+| šurrû II | sar | SAR | 404 |
+| šâmu I | sam | ŠÁM | 43 |
+| šāmu I | sam | ŠÁM | 43 |
+| šār I | sar | ŠÁR | 404 |
+| šīmu I | sam | ŠÁM | 43 |
+| ṣarāhu II | sur | SUR | 101 |
+| ṣerhu II | sur | SUR | 101 |
+| ṭepû I | tab | TAB | 114 |
+| ṭuppu I | dub | DUB | 356 |
+| ṭupšarru I | dubsar | DUB.SAR | 59 |
+| ṭurru I | dur | DUR | 228 |
+| Du'ūzu I | itisu | ITI.ŠU |  |
+| Kinūnû I | kinene | KI.NE(.NE)- |  |
+| abullu I | abul | ABUL |  |
+| akītu I | akiit | Á.KI.IT |  |
+| akītu I | akitu | A.KI.TU |  |
+| alandimmû I | alandim | ALAN.DÍM |  |
+| aldû I | aldu | AL.DÙ |  |
+| anhullû I | uanhul | Ú.AN.HÚL |  |
+| antalû I | antalu | AN.TA.LÙ |  |
+| anzahhu I | anzah | AN.ZAH |  |
+| apillû I | abil | A.BIL |  |
+| arakarû I | arakara | A.RÁ.KÁRA |  |
+| arzānu I | arzana | AR.ZA.NA |  |
+| atbaru I | adbar | AD.BAR |  |
+| atru I | diri | DIRI |  |
+| atāru I | diri | DIRI |  |
+| azugallatu I | azugal | A.ZU.GAL |  |
+| azugallu I | azugal | A.ZU.GAL |  |
+| banduddû I | baandudu | BA.AN.DU8.DU8 |  |
+| basû I | basi | BA.SI |  |
+| burmāhu I | burmah | BUR.MAH |  |
+| burubalû I | burbal | BUR.BAL |  |
+| burzigallu I | burzigal | BUR.ZI.GAL |  |
+| dipalû I | dibala | DI.BALA |  |
+| dumugabû I | dumugaba | DUMU.GABA |  |
+| dušû I | duhsia | DUH.ŠI.A |  |
+| dušû I | duhsi | DUH.ŠI |  |
+| eršahungû I | ersahunga | ÉR.ŠÀ.HUN.GÁ |  |
+| esallû I | esal | É.SAL |  |
+| esallû I | esala | É.SAL.A |  |
+| ešgallu I | esgal | ÈŠ.GAL |  |
+| gabadibbu I | gabdib | GAB.DIB |  |
+| gabarahhu I | gabarah | GABA.RAH |  |
+| gabarahhu I | gabara | GABA.RA |  |
+| gabarû I | gabaria | GAB.A.RI.A |  |
+| gadalalû I | gadalal | GADA.LAL |  |
+| gadamāhu I | gadamah | GADA.MAH |  |
+| ganunmāhu I | ganunmah | GÁ.NUN.MAH |  |
+| germadû I | geermadu | GE.ER.MÁ.DÙ |  |
+| gerseqqû I | kiirsiga | KI.IR.SI.GA |  |
+| gihannu I | giheen | GI.HÉ.EN |  |
+| gihannu I | giheenhia | GI.HÉ.EN.HI.A |  |
+| gihannu I | gihaan | GI.HA.AN |  |
+| gihannu I | gihaanhia | GI.HA.AN.HI.A |  |
+| gihlû I | gihul | GI.HUL |  |
+| ginû I | gina | GI.NA |  |
+| girigubbu I | girgub | GÌR.GUB |  |
+| girtablilu I | girtabluulu | GÍR.TAB.LÚ.U18.LU |  |
+| gištallu I | gisdal | GIŠ.DAL |  |
+| gištuppu I | gisdub | GIŠ.DUB |  |
+| gudapsû I | guduabzu | GUDU4.ABZU |  |
+| guhaššu I | guhas | GÚ.HAS |  |
+| gumāhu I | gumah | GU4.MAH |  |
+| gumāhu I | gumahe | GU4.MAH.E |  |
+| gunû I | eguna | É.GÚ.NA |  |
+| haluppu I | huluub | HU.LU.ÚB |  |
+| hilibû I | hiliba | HI.LI.BA |  |
+| igibû I | igibi | IGI.BI |  |
+| igigubbû I | igigub | IGI.GUB |  |
+| iginutukû I | iginutuku | IGI.NU.TUKU |  |
+| igisû I | igisa | IGI.SÁ |  |
+| igulû I | igula | Ì.GU.LA |  |
+| imlû I | imla | IM.LÁ |  |
+| imsuhhu I | imsuh | IM.SÙH |  |
+| iškāru I | asgar | ÁŠ.GÀR |  |
+| ištaru I | isdar | IŠ8.DAR |  |
+| kabšarru I | kabsar | KAB.SAR |  |
+| kalgukku I | kalkuku | KAL.KU7.KU7 |  |
+| kamūnu I | ugamun | Ú.GAMUN |  |
+| karašu I | ugaras | Ú.GA.RAŠ |  |
+| karāšu I | karas | KARAŠ |  |
+| kazallu I | ukazal | Ú.KA.ZAL |  |
+| kašmahhu I | kasmah | KAŠ.MAH |  |
+| kidudû I | kidudu | KI.DU.DU |  |
+| kihullû I | kihul | KI.HUL |  |
+| kinsikku I | kinsig | KIN.SIG |  |
+| kinūnu I | kinene | KI.NE.NE |  |
+| kisalmāhu I | kisalmah | KISAL.MAH |  |
+| kisurrû I | kisur | KI.SUR |  |
+| kiškanû I | giskin | GIŠ.KÍN |  |
+| kišubû I | kisubi | KI.ŠÚ.BI |  |
+| kugrû I | kagur | KA.GUR7 |  |
+| kutallu I | gutal | GÚ.TÁL |  |
+| kutīmu I | kudim | KÙ.DÍM |  |
+| kânu I | gina | GI.NA |  |
+| kīnu I | gina | GI.NA |  |
+| lilissu I | liliz | LILIZ |  |
+| lilissu I | liliiz | LI.LI.ÌZ |  |
+| lumāšu I | lumas | LÚ.MAŠ(- |  |
+| līm I | lim | LIM |  |
+| malallû I | malal | MÁ.LAL |  |
+| mašhulduppû I | mashuldub | MÁŠ.HUL.DÚB |  |
+| maškanu I | masgan | MAŠ.GÁN |  |
+| melemmu I | melam | ME.LÁM |  |
+| mudasû I | mudasa | MU.DA.SÁ |  |
+| munutukû I | munutuku | MU.NU.TUKU |  |
+| murdudû I | umurdudu | Ú.MUR.DÙ.DÙ |  |
+| namburbû I | namburbi | NAM.BÚR.BI |  |
+| narû I | naru | NA.RU |  |
+| nerṭû I | nirda | NIR.DA |  |
+| nāqidu I | nagad | NA.GAD |  |
+| pappāsu I | babaza | BA.BA.ZA |  |
+| parkullu I | burgul | BUR.GUL |  |
+| pišannu I | pisan | PISAN |  |
+| pursilû I | bursila | BUR.SÌLA |  |
+| qallu I | qal | QÀL |  |
+| sagallu I | sagal | SA.GAL |  |
+| sakikkû I | sagig | SA.GIG |  |
+| santakku I | santak | SANTAK4 |  |
+| serdu I | seerdu | SÉ.ER.DU |  |
+| sikillu I | usikil | Ú.SIKIL |  |
+| tamkāru I | tamgar | TAM.GÀR |  |
+| ubāru I | ubar | U.BAR |  |
+| udutilû I | udutila | UDU.TI.LA |  |

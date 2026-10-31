@@ -3903,7 +3903,7 @@
       "stool",
       "throne"
      ],
-     "skeleton": "krS",
+     "skeleton": "knS",
      "dissimilation": true
     },
     {
@@ -3975,7 +3975,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šalmu I",
@@ -4104,7 +4105,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "Mutu",
@@ -4411,7 +4413,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "akālu I",
@@ -4580,7 +4583,8 @@
      "n": 7
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "arba'u I",
@@ -4787,7 +4791,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "arbaʾu",
@@ -4993,7 +4998,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "atru I",
@@ -5065,7 +5071,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "banû IV",
@@ -5162,7 +5169,8 @@
      "n": 19
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bānû I",
@@ -5259,7 +5267,8 @@
      "n": 10
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bīnu I",
@@ -5392,7 +5401,8 @@
      "n": 10
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bīti",
@@ -5490,7 +5500,8 @@
      "n": 38
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bītu I",
@@ -5588,7 +5599,8 @@
      "n": 38
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "būnu I",
@@ -5719,7 +5731,8 @@
      "n": 10
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "erbe I",
@@ -5947,7 +5960,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ešer I",
@@ -6265,7 +6279,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "kūnu I",
@@ -6351,7 +6366,8 @@
      "n": 1149
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "malû I",
@@ -6500,7 +6516,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "malû IV",
@@ -6759,7 +6776,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "mu'errūtu I",
@@ -6889,7 +6907,8 @@
      "n": 65
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "mītūtu I",
@@ -7199,7 +7218,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "mūtu I",
@@ -7512,7 +7532,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "qallu I",
@@ -7642,7 +7663,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "qerbu I",
@@ -7680,8 +7702,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7689,8 +7711,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7698,8 +7720,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7707,8 +7729,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7716,8 +7738,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7725,8 +7747,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7735,8 +7757,8 @@
       "near",
       "relative"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7745,8 +7767,8 @@
       "near",
       "relative"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7755,8 +7777,8 @@
       "near",
       "soon"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7764,8 +7786,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7773,8 +7795,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7782,8 +7804,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerbu I",
@@ -7791,8 +7813,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7801,8 +7823,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7810,8 +7832,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7819,8 +7841,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7828,8 +7850,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7837,8 +7859,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7846,8 +7868,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7856,8 +7878,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -7865,8 +7887,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7875,8 +7897,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7886,8 +7908,8 @@
       "kindred",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7895,8 +7917,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7905,8 +7927,8 @@
       "near",
       "short"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7914,8 +7936,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7923,8 +7945,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7932,8 +7954,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -7941,8 +7963,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7951,8 +7973,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7960,8 +7982,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7969,8 +7991,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7978,8 +8000,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7987,8 +8009,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -7996,8 +8018,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8006,8 +8028,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8015,8 +8037,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8025,8 +8047,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8034,8 +8056,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8043,8 +8065,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8052,8 +8074,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8061,8 +8083,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8070,8 +8092,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8080,8 +8102,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8089,8 +8111,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8099,8 +8121,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8108,8 +8130,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8117,8 +8139,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8126,8 +8148,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8135,8 +8157,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8144,8 +8166,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8154,8 +8176,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8163,8 +8185,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -8266,7 +8288,8 @@
      "n": 9
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "qiššû I",
@@ -8304,7 +8327,7 @@
      "shared": [
       "cucumber"
      ],
-     "skeleton": "qrS",
+     "skeleton": "qnS",
      "dissimilation": true
     },
     {
@@ -8348,7 +8371,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "qurbu I",
@@ -8384,8 +8408,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8393,8 +8417,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8402,8 +8426,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8411,8 +8435,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8420,8 +8444,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8429,8 +8453,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8438,8 +8462,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8447,8 +8471,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8456,8 +8480,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8465,8 +8489,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8474,8 +8498,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8483,8 +8507,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbu I",
@@ -8492,8 +8516,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8502,8 +8526,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8511,8 +8535,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8520,8 +8544,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8529,8 +8553,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8538,8 +8562,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8547,8 +8571,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8557,8 +8581,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7126",
@@ -8566,8 +8590,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8576,8 +8600,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8587,8 +8611,8 @@
       "kindred",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8596,8 +8620,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8606,8 +8630,8 @@
       "near",
       "short"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8615,8 +8639,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8624,8 +8648,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8633,8 +8657,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7138",
@@ -8642,8 +8666,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8652,8 +8676,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8661,8 +8685,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8670,8 +8694,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8679,8 +8703,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8688,8 +8712,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8697,8 +8721,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8707,8 +8731,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7131",
@@ -8716,8 +8740,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8726,8 +8750,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8735,8 +8759,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8744,8 +8768,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8753,8 +8777,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8762,8 +8786,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8771,8 +8795,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8781,8 +8805,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "he:H7132",
@@ -8790,8 +8814,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8800,8 +8824,8 @@
       "approach",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8809,8 +8833,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8818,8 +8842,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8827,8 +8851,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8836,8 +8860,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8845,8 +8869,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8855,8 +8879,8 @@
       "draw",
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "arc:H7127",
@@ -8864,8 +8888,8 @@
      "shared": [
       "near"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -8967,7 +8991,8 @@
      "n": 9
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "rabû II",
@@ -9092,7 +9117,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ramû II",
@@ -9189,7 +9215,8 @@
      "n": 12
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "salāmu II",
@@ -9417,7 +9444,8 @@
      "n": 84
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "salīmu I",
@@ -9645,7 +9673,8 @@
      "n": 84
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "sebe I",
@@ -9848,7 +9877,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zēru II",
@@ -9945,7 +9975,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ākilu I",
@@ -10184,7 +10215,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "Šumah",
@@ -10383,7 +10415,8 @@
      "n": 25
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šalāṭu I",
@@ -10476,7 +10509,8 @@
      "n": 37
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šaplu I",
@@ -10651,7 +10685,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šapālu I",
@@ -10826,7 +10861,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šebû I",
@@ -11055,7 +11091,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šemû I",
@@ -11361,7 +11398,8 @@
      "n": 9
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šumu I",
@@ -11564,7 +11602,8 @@
      "n": 25
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šâlu I",
@@ -11731,7 +11770,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šārtu I",
@@ -11854,7 +11894,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šēmû I",
@@ -12174,7 +12215,8 @@
      "n": 47
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "adamatu I",
@@ -12319,7 +12361,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "Madānu I",
@@ -12375,7 +12418,8 @@
      "n": 11
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "abdu I",
@@ -12495,7 +12539,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "abnu I",
@@ -12573,7 +12618,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "alādu I",
@@ -12647,7 +12693,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "arhānû I",
@@ -12704,7 +12751,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bakû I",
@@ -12800,7 +12848,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "baʾāšu",
@@ -12859,7 +12908,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "baṭālu I",
@@ -12920,7 +12970,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "berqu I",
@@ -13016,7 +13067,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bikītu I",
@@ -13183,7 +13235,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bintu I",
@@ -13276,7 +13329,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "binītu I",
@@ -13347,7 +13401,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "biātu I",
@@ -13470,7 +13525,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bussurtu I",
@@ -13840,7 +13896,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bussuru I",
@@ -14053,7 +14110,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "bêru I",
@@ -14147,7 +14205,8 @@
      "n": 16
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "bīšu I",
@@ -14205,7 +14264,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "dayyānu I",
@@ -14300,7 +14360,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "dimtu II",
@@ -14371,7 +14432,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "diānu I",
@@ -14449,7 +14511,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "dāmu I",
@@ -14519,7 +14582,8 @@
      "n": 10
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ebertu I",
@@ -14576,7 +14640,8 @@
      "n": 22
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ebūru I",
@@ -14654,7 +14719,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "erbû I",
@@ -14758,7 +14824,8 @@
      "n": 57
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "erēbu II",
@@ -14835,7 +14902,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "erṣetu I",
@@ -14908,7 +14976,8 @@
      "n": 440
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ešru I",
@@ -15002,7 +15071,8 @@
      "n": 7
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ešrû I",
@@ -15102,7 +15172,8 @@
      "n": 7
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ešrû II",
@@ -15195,7 +15266,8 @@
      "n": 7
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ešēru I",
@@ -15308,7 +15380,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "eššebû I",
@@ -15375,7 +15448,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "eṣemtu I",
@@ -15506,7 +15580,8 @@
      "n": 20
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "gummurtu I",
@@ -15567,7 +15642,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "gāziru",
@@ -15657,7 +15733,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "habannatu I",
@@ -15732,7 +15809,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "imna I",
@@ -15986,7 +16064,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "imnu I",
@@ -16240,7 +16319,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "inbu I",
@@ -16318,7 +16398,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "kalbu I",
@@ -16388,7 +16469,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "kalû V",
@@ -16465,7 +16547,8 @@
      "n": 36
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "kašû I",
@@ -16531,7 +16614,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "kirru I",
@@ -16590,7 +16674,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "kullatu I",
@@ -16651,7 +16736,8 @@
      "n": 74
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "kurru I",
@@ -16711,7 +16797,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "kânu I",
@@ -16779,7 +16866,8 @@
      "n": 211
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "kāsu I",
@@ -16875,7 +16963,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "labāšu I",
@@ -16936,7 +17025,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "lišānu I",
@@ -17007,7 +17097,8 @@
      "n": 24
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "malku I",
@@ -17208,7 +17299,8 @@
      "n": 23
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "manû II",
@@ -17268,7 +17360,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "manû IV",
@@ -17329,7 +17422,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "marhītu I",
@@ -17425,7 +17519,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "marru I",
@@ -17442,54 +17537,18 @@
    ],
    "sux": [],
    "links": [
-    "he:H4843",
-    "ar:أَمَرّ",
-    "he:H4844",
-    "he:H4815",
-    "he:H4846",
     "he:H4751",
+    "ar:أَمَرّ",
+    "he:H4843",
+    "he:H4844",
     "he:H4753",
     "he:H3992",
     "he:H4805",
-    "he:H4784"
+    "he:H4784",
+    "he:H4815",
+    "he:H4846"
    ],
    "edges": [
-    {
-     "from": "marru I",
-     "to": "he:H4843",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": true
-    },
-    {
-     "from": "marru I",
-     "to": "he:H4844",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": true
-    },
-    {
-     "from": "marru I",
-     "to": "he:H4815",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": true
-    },
-    {
-     "from": "marru I",
-     "to": "he:H4846",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": true
-    },
     {
      "from": "marru I",
      "to": "he:H4751",
@@ -17498,6 +17557,24 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
+    },
+    {
+     "from": "marru I",
+     "to": "he:H4843",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "marru I",
+     "to": "he:H4844",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
     },
     {
      "from": "marru I",
@@ -17537,6 +17614,33 @@
     },
     {
      "from": "marru I",
+     "to": "he:H4815",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "marru I",
+     "to": "he:H4846",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "marru I",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": false
+    },
+    {
+     "from": "he:H4751",
      "to": "ar:أَمَرّ",
      "shared": [
       "bitter"
@@ -17561,33 +17665,6 @@
      ],
      "skeleton": "mr",
      "dissimilation": true
-    },
-    {
-     "from": "he:H4815",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "he:H4846",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "he:H4751",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": false
     },
     {
      "from": "he:H4753",
@@ -17624,6 +17701,24 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
+    },
+    {
+     "from": "he:H4815",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "he:H4846",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -17633,11 +17728,11 @@
    ],
    "targets": [
     {
-     "key": "he:H4843",
-     "form": "מָרַר",
-     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
-     "translit": "mârar",
-     "n": 13
+     "key": "he:H4751",
+     "form": "מַר",
+     "gloss": "bitter (literally or figuratively)",
+     "translit": "mar",
+     "n": 36
     },
     {
      "key": "ar:أَمَرّ",
@@ -17647,32 +17742,18 @@
      "n": 1
     },
     {
+     "key": "he:H4843",
+     "form": "מָרַר",
+     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
+     "translit": "mârar",
+     "n": 13
+    },
+    {
      "key": "he:H4844",
      "form": "מְרֹר",
      "gloss": "a bitter herb",
      "translit": "mᵉrôr",
      "n": 3
-    },
-    {
-     "key": "he:H4815",
-     "form": "מְרִירִי",
-     "gloss": "bitter, i.e. poisonous",
-     "translit": "mᵉrîyrîy",
-     "n": 1
-    },
-    {
-     "key": "he:H4846",
-     "form": "מְרֹרָה",
-     "gloss": "properly, bitterness",
-     "translit": "mᵉrôrâh",
-     "n": 4
-    },
-    {
-     "key": "he:H4751",
-     "form": "מַר",
-     "gloss": "bitter (literally or figuratively)",
-     "translit": "mar",
-     "n": 36
     },
     {
      "key": "he:H4753",
@@ -17701,9 +17782,24 @@
      "gloss": "to be (causatively, make) bitter (or unpleasant)",
      "translit": "mârâh",
      "n": 44
+    },
+    {
+     "key": "he:H4815",
+     "form": "מְרִירִי",
+     "gloss": "bitter, i.e. poisonous",
+     "translit": "mᵉrîyrîy",
+     "n": 1
+    },
+    {
+     "key": "he:H4846",
+     "form": "מְרֹרָה",
+     "gloss": "properly, bitterness",
+     "translit": "mᵉrôrâh",
+     "n": 4
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "marāru I",
@@ -17720,57 +17816,39 @@
    ],
    "sux": [],
    "links": [
-    "he:H4843",
-    "ar:أَمَرّ",
-    "he:H4844",
-    "he:H4815",
-    "he:H4846",
     "he:H4751",
+    "ar:أَمَرّ",
+    "he:H4843",
+    "he:H4844",
     "he:H4753",
     "he:H3992",
     "he:H4805",
-    "he:H4784"
+    "he:H4784",
+    "he:H4815",
+    "he:H4846"
    ],
    "edges": [
+    {
+     "from": "marāru I",
+     "to": "he:H4751",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
     {
      "from": "marāru I",
      "to": "he:H4843",
      "shared": [
       "bitter"
      ],
-     "skeleton": "mrr",
-     "dissimilation": false
+     "skeleton": "mr",
+     "dissimilation": true
     },
     {
      "from": "marāru I",
      "to": "he:H4844",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": false
-    },
-    {
-     "from": "marāru I",
-     "to": "he:H4815",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": false
-    },
-    {
-     "from": "marāru I",
-     "to": "he:H4846",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": false
-    },
-    {
-     "from": "marāru I",
-     "to": "he:H4751",
      "shared": [
       "bitter"
      ],
@@ -17815,12 +17893,39 @@
     },
     {
      "from": "marāru I",
+     "to": "he:H4815",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "marāru I",
+     "to": "he:H4846",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "marāru I",
      "to": "ar:أَمَرّ",
      "shared": [
       "bitter"
      ],
      "skeleton": "mr",
      "dissimilation": true
+    },
+    {
+     "from": "he:H4751",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": false
     },
     {
      "from": "he:H4843",
@@ -17839,33 +17944,6 @@
      ],
      "skeleton": "mr",
      "dissimilation": true
-    },
-    {
-     "from": "he:H4815",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "he:H4846",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": true
-    },
-    {
-     "from": "he:H4751",
-     "to": "ar:أَمَرّ",
-     "shared": [
-      "bitter"
-     ],
-     "skeleton": "mr",
-     "dissimilation": false
     },
     {
      "from": "he:H4753",
@@ -17902,6 +17980,24 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
+    },
+    {
+     "from": "he:H4815",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "he:H4846",
+     "to": "ar:أَمَرّ",
+     "shared": [
+      "bitter"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -17911,11 +18007,11 @@
    ],
    "targets": [
     {
-     "key": "he:H4843",
-     "form": "מָרַר",
-     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
-     "translit": "mârar",
-     "n": 13
+     "key": "he:H4751",
+     "form": "מַר",
+     "gloss": "bitter (literally or figuratively)",
+     "translit": "mar",
+     "n": 36
     },
     {
      "key": "ar:أَمَرّ",
@@ -17925,32 +18021,18 @@
      "n": 1
     },
     {
+     "key": "he:H4843",
+     "form": "מָרַר",
+     "gloss": "to be (causatively, make) bitter (literally or figuratively)",
+     "translit": "mârar",
+     "n": 13
+    },
+    {
      "key": "he:H4844",
      "form": "מְרֹר",
      "gloss": "a bitter herb",
      "translit": "mᵉrôr",
      "n": 3
-    },
-    {
-     "key": "he:H4815",
-     "form": "מְרִירִי",
-     "gloss": "bitter, i.e. poisonous",
-     "translit": "mᵉrîyrîy",
-     "n": 1
-    },
-    {
-     "key": "he:H4846",
-     "form": "מְרֹרָה",
-     "gloss": "properly, bitterness",
-     "translit": "mᵉrôrâh",
-     "n": 4
-    },
-    {
-     "key": "he:H4751",
-     "form": "מַר",
-     "gloss": "bitter (literally or figuratively)",
-     "translit": "mar",
-     "n": 36
     },
     {
      "key": "he:H4753",
@@ -17979,9 +18061,24 @@
      "gloss": "to be (causatively, make) bitter (or unpleasant)",
      "translit": "mârâh",
      "n": 44
+    },
+    {
+     "key": "he:H4815",
+     "form": "מְרִירִי",
+     "gloss": "bitter, i.e. poisonous",
+     "translit": "mᵉrîyrîy",
+     "n": 1
+    },
+    {
+     "key": "he:H4846",
+     "form": "מְרֹרָה",
+     "gloss": "properly, bitterness",
+     "translit": "mᵉrôrâh",
+     "n": 4
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "minûtu I",
@@ -18042,7 +18139,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "miṭītu I",
@@ -18116,7 +18214,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "mâtu I",
@@ -18334,7 +18433,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "mīnu II",
@@ -18408,7 +18508,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "mītu I",
@@ -18614,7 +18715,8 @@
      "n": 153
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nadû IV",
@@ -18681,7 +18783,8 @@
      "n": 44
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nakaru I",
@@ -18788,7 +18891,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nannartu I",
@@ -18880,7 +18984,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nannāru I",
@@ -18976,7 +19081,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "napāšu I",
@@ -19046,7 +19152,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nawirtu I",
@@ -19142,7 +19249,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "našû I",
@@ -19203,7 +19311,8 @@
      "n": 20
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "našû II",
@@ -19283,7 +19392,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nimru I",
@@ -19344,7 +19454,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nindabû I",
@@ -19405,7 +19516,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nišu I",
@@ -19519,7 +19631,8 @@
      "n": 69
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nāru I",
@@ -19589,7 +19702,8 @@
      "n": 51
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "nūru I",
@@ -19687,7 +19801,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "petû I",
@@ -19746,7 +19861,8 @@
      "n": 26
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "petû II",
@@ -19805,7 +19921,8 @@
      "n": 26
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "pirištu I",
@@ -19883,7 +20000,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "pišru I",
@@ -19941,7 +20059,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "qabru I",
@@ -20063,7 +20182,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "qerû I",
@@ -20125,7 +20245,8 @@
      "n": 10
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "qubūru I",
@@ -20247,7 +20368,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "rakbu I",
@@ -20302,7 +20424,8 @@
      "n": 104
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "rakābu I",
@@ -20398,7 +20521,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "raṭbu I",
@@ -20454,7 +20578,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "rebû I",
@@ -20621,7 +20746,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "rubbû I",
@@ -20694,7 +20820,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "rēšu I",
@@ -20817,7 +20944,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "salmu I",
@@ -21048,7 +21176,8 @@
      "n": 84
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "samnu I",
@@ -21113,7 +21242,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "samāne I",
@@ -21275,7 +21405,8 @@
      "n": 27
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "samānû I",
@@ -21342,7 +21473,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "sebūtu I",
@@ -21402,7 +21534,8 @@
      "n": 4
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "silmu I",
@@ -21609,7 +21742,8 @@
      "n": 84
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "simtu I",
@@ -21696,7 +21830,8 @@
      "n": 24
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "sulummû I",
@@ -21908,7 +22043,8 @@
      "n": 84
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "sīru I",
@@ -22074,7 +22210,8 @@
      "n": 4
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "tinūru I",
@@ -22140,7 +22277,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "tiše I",
@@ -22234,7 +22372,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "uklu II",
@@ -22395,7 +22534,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ukullû I",
@@ -22557,7 +22697,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ukultu I",
@@ -22705,7 +22846,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "uznu I",
@@ -22775,7 +22917,8 @@
      "n": 16
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "wabālu I",
@@ -22836,7 +22979,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "waldu I",
@@ -22990,7 +23134,8 @@
      "n": 4
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "walādu",
@@ -23064,7 +23209,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "wālidu",
@@ -23133,7 +23279,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zakkāru I",
@@ -23224,7 +23371,8 @@
      "n": 223
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zakû I",
@@ -23390,7 +23538,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zakû II",
@@ -23556,7 +23705,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zikaru I",
@@ -23652,7 +23802,8 @@
      "n": 223
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zikru I",
@@ -23779,7 +23930,8 @@
      "n": 23
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "zikrūtu I",
@@ -23870,7 +24022,8 @@
      "n": 223
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ālidu I",
@@ -23945,7 +24098,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "āliku I",
@@ -24015,7 +24169,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ēkallu I",
@@ -24074,7 +24229,8 @@
      "n": 76
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šadû I",
@@ -24130,7 +24286,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šaluštu I",
@@ -24379,7 +24536,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šalāmu I",
@@ -24591,7 +24749,8 @@
      "n": 84
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šalāš I",
@@ -24845,7 +25004,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šalāšu I",
@@ -25303,7 +25463,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šalāšī-",
@@ -25558,7 +25719,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šalšu I",
@@ -25856,7 +26018,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šamnu I",
@@ -26006,7 +26169,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šamšatu I",
@@ -26071,7 +26235,8 @@
      "n": 32
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šamšu I",
@@ -26141,7 +26306,8 @@
      "n": 32
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šaniānu I",
@@ -26232,7 +26398,8 @@
      "n": 21
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šanû I",
@@ -26328,7 +26495,8 @@
      "n": 21
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šanû III",
@@ -26441,7 +26609,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šanītu I",
@@ -26537,7 +26706,8 @@
      "n": 21
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šaptu I",
@@ -26607,7 +26777,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šaqû III",
@@ -26819,7 +26990,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šatû II",
@@ -26880,7 +27052,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šeršerratu I",
@@ -26912,8 +27085,8 @@
      "shared": [
       "chain"
      ],
-     "skeleton": "SSr",
-     "dissimilation": true
+     "skeleton": "SrSr",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -26930,7 +27103,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šimtu I",
@@ -27026,7 +27200,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šina II",
@@ -27104,7 +27279,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šinnu I",
@@ -27121,11 +27297,20 @@
    ],
    "sux": [],
    "links": [
+    "he:H8150",
     "he:H8127",
-    "ar:سِنّ",
-    "he:H8150"
+    "ar:سِنّ"
    ],
    "edges": [
+    {
+     "from": "šinnu I",
+     "to": "he:H8150",
+     "shared": [
+      "point"
+     ],
+     "skeleton": "Snn",
+     "dissimilation": true
+    },
     {
      "from": "šinnu I",
      "to": "he:H8127",
@@ -27135,15 +27320,6 @@
      ],
      "skeleton": "Sn",
      "dissimilation": false
-    },
-    {
-     "from": "šinnu I",
-     "to": "he:H8150",
-     "shared": [
-      "point"
-     ],
-     "skeleton": "Sn",
-     "dissimilation": true
     },
     {
      "from": "šinnu I",
@@ -27171,6 +27347,13 @@
    ],
    "targets": [
     {
+     "key": "he:H8150",
+     "form": "שָׁנַן",
+     "gloss": "to point (transitive or intransitive)",
+     "translit": "shânan",
+     "n": 9
+    },
+    {
      "key": "he:H8127",
      "form": "שֵׁן",
      "gloss": "a tooth (as sharp)",
@@ -27183,16 +27366,10 @@
      "gloss": "tooth",
      "translit": "",
      "n": 1
-    },
-    {
-     "key": "he:H8150",
-     "form": "שָׁנַן",
-     "gloss": "to point (transitive or intransitive)",
-     "translit": "shânan",
-     "n": 9
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šubultu I",
@@ -27245,7 +27422,7 @@
       "corn",
       "ear"
      ],
-     "skeleton": "Snbl",
+     "skeleton": "Sbl",
      "dissimilation": true
     },
     {
@@ -27254,7 +27431,7 @@
      "shared": [
       "ear"
      ],
-     "skeleton": "Snbl",
+     "skeleton": "Sbl",
      "dissimilation": true
     }
    ],
@@ -27286,7 +27463,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šuharratu I",
@@ -27379,7 +27557,8 @@
      "n": 7
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šuluštu I",
@@ -27672,7 +27851,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šulušā I",
@@ -27923,7 +28103,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šulušīu I",
@@ -28177,7 +28358,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šulšu I",
@@ -28470,7 +28652,8 @@
      "n": 18
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šumēla I",
@@ -28636,7 +28819,8 @@
      "n": 9
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šumēlu I",
@@ -28802,7 +28986,8 @@
      "n": 9
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šuqultu I",
@@ -28889,7 +29074,8 @@
      "n": 20
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šurmēnu I",
@@ -28943,7 +29129,8 @@
      "n": 176
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šurrumma I",
@@ -29040,7 +29227,8 @@
      "n": 32
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šāqû I",
@@ -29251,7 +29439,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šēpītu I",
@@ -29327,7 +29516,8 @@
      "n": 2
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šību I",
@@ -29388,7 +29578,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šīmtu I",
@@ -29466,7 +29657,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣalmu II",
@@ -29529,7 +29721,8 @@
      "n": 15
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣamû I",
@@ -29599,7 +29792,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣamû II",
@@ -29823,7 +30017,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣehheru I",
@@ -29990,7 +30185,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣehru I",
@@ -30158,7 +30354,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣehēru I",
@@ -30327,7 +30524,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣerru I",
@@ -30356,7 +30554,7 @@
      "shared": [
       "stone"
      ],
-     "skeleton": "Cr",
+     "skeleton": "Crr",
      "dissimilation": true
     },
     {
@@ -30422,7 +30620,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣillu I",
@@ -30537,7 +30736,8 @@
      "n": 5
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣuhhuru I",
@@ -30698,7 +30898,8 @@
      "n": 3
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣummû I",
@@ -30896,7 +31097,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣēnu III",
@@ -30963,7 +31165,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣēru I",
@@ -31076,7 +31279,8 @@
      "n": 8
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "ṣūmu I",
@@ -31277,7 +31481,8 @@
      "n": 1
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "inherited"
   },
   {
    "akk": "šaharru II",
@@ -31327,7 +31532,8 @@
      "n": 32
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šappu I",
@@ -31379,7 +31585,8 @@
      "n": 28
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šur'u I",
@@ -31448,7 +31655,8 @@
      "n": 368
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "šurrû II",
@@ -31500,7 +31708,8 @@
      "n": 6
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "ṣarāhu II",
@@ -31569,7 +31778,8 @@
      "n": 23
     }
    ],
-   "kind": "chain"
+   "kind": "chain",
+   "class": "loan"
   },
   {
    "akk": "Abanu",
@@ -31608,7 +31818,8 @@
      "n": 3653
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Aribi",
@@ -31647,7 +31858,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Arubu",
@@ -31690,7 +31902,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Bit-Aya",
@@ -31728,7 +31941,8 @@
      "n": 1712
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Bit-Ea",
@@ -31766,7 +31980,8 @@
      "n": 1712
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Ellil I",
@@ -31809,7 +32024,8 @@
      "n": 18
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Kuribu",
@@ -31831,8 +32047,8 @@
      "shared": [
       "cherub"
      ],
-     "skeleton": "krb",
-     "dissimilation": false
+     "skeleton": "kb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -31848,7 +32064,8 @@
      "n": 66
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Lalu",
@@ -31886,7 +32103,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Qaštu I",
@@ -31924,7 +32142,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Rimu",
@@ -31965,7 +32184,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Sîn I",
@@ -32008,7 +32228,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Tuʾamu I",
@@ -32064,7 +32285,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "abartu I",
@@ -32102,7 +32324,8 @@
      "n": 83
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "abarša I",
@@ -32142,7 +32365,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "abru I",
@@ -32185,7 +32409,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "abru II",
@@ -32228,7 +32453,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "adnātu I",
@@ -32269,7 +32495,8 @@
      "n": 111
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "agammu I",
@@ -32309,7 +32536,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "agannu I",
@@ -32352,7 +32580,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "agappu I",
@@ -32395,7 +32624,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "agrūtu I",
@@ -32435,7 +32665,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "agāru I",
@@ -32473,7 +32704,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ahāmiš I",
@@ -32516,7 +32748,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "allāku I",
@@ -32555,7 +32788,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "allānu I",
@@ -32613,7 +32847,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "alālu I",
@@ -32690,7 +32925,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "alālu III",
@@ -32733,7 +32969,8 @@
      "n": 140
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "amertu I",
@@ -32771,7 +33008,8 @@
      "n": 82
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "amru I",
@@ -32810,7 +33048,8 @@
      "n": 82
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "amrû I",
@@ -32848,7 +33087,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "amīru I",
@@ -32887,7 +33127,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "apru I",
@@ -32928,7 +33169,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "aptu I",
@@ -32971,7 +33213,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "apāru I",
@@ -33014,7 +33257,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "aqqaru I",
@@ -33027,12 +33271,21 @@
    ],
    "sux": [],
    "links": [
+    "he:H3357",
     "he:H3368",
     "he:H3365",
-    "he:H3366",
-    "he:H3357"
+    "he:H3366"
    ],
    "edges": [
+    {
+     "from": "aqqaru I",
+     "to": "he:H3357",
+     "shared": [
+      "preciou"
+     ],
+     "skeleton": "nqr",
+     "dissimilation": true
+    },
     {
      "from": "aqqaru I",
      "to": "he:H3368",
@@ -33059,15 +33312,6 @@
      ],
      "skeleton": "qr",
      "dissimilation": false
-    },
-    {
-     "from": "aqqaru I",
-     "to": "he:H3357",
-     "shared": [
-      "preciou"
-     ],
-     "skeleton": "qr",
-     "dissimilation": false
     }
    ],
    "langs": [
@@ -33075,6 +33319,13 @@
     "he"
    ],
    "targets": [
+    {
+     "key": "he:H3357",
+     "form": "יַקִּיר",
+     "gloss": "precious",
+     "translit": "yaqqîyr",
+     "n": 1
+    },
     {
      "key": "he:H3368",
      "form": "יָקָר",
@@ -33095,16 +33346,10 @@
      "gloss": "value, i.e. (concretely) wealth",
      "translit": "yᵉqâr",
      "n": 15
-    },
-    {
-     "key": "he:H3357",
-     "form": "יַקִּיר",
-     "gloss": "precious",
-     "translit": "yaqqîyr",
-     "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "aqru I",
@@ -33200,7 +33445,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "aqāru I",
@@ -33295,7 +33541,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arbūtu I",
@@ -33350,7 +33597,8 @@
      "n": 39
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ariru I",
@@ -33388,7 +33636,8 @@
      "n": 52
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arkatu I",
@@ -33431,7 +33680,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arkiš I",
@@ -33474,7 +33724,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arku I",
@@ -33568,7 +33819,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arkû I",
@@ -33611,7 +33863,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arkāniš I",
@@ -33652,7 +33905,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "armannu I",
@@ -33710,7 +33964,8 @@
      "n": 25
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arraku I",
@@ -33802,7 +34057,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arāku I",
@@ -33896,7 +34152,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arāqu I",
@@ -33973,7 +34230,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arāru I",
@@ -34016,7 +34274,8 @@
      "n": 52
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "arāru II",
@@ -34056,7 +34315,8 @@
      "n": 52
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "assukku I",
@@ -34094,7 +34354,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "atānu I",
@@ -34137,7 +34398,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "azāru I",
@@ -34192,7 +34454,8 @@
      "n": 77
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ašābu I",
@@ -34236,7 +34499,8 @@
      "n": 977
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "aṣūdu I",
@@ -34293,7 +34557,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "balālu I",
@@ -34336,7 +34601,8 @@
      "n": 41
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "barmu I",
@@ -34376,7 +34642,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "barāmu I",
@@ -34416,7 +34683,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "barāqu I",
@@ -34459,7 +34727,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bašlu I",
@@ -34499,7 +34768,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "baṣru",
@@ -34537,7 +34807,8 @@
      "n": 38
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "baṭlu I",
@@ -34579,7 +34850,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "belû II",
@@ -34622,7 +34894,8 @@
      "n": 48
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "biltu I",
@@ -34665,7 +34938,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "birti I",
@@ -34682,24 +34956,24 @@
    ],
    "sux": [],
    "links": [
-    "he:H1285",
-    "he:H1004"
+    "he:H1004",
+    "he:H1285"
    ],
    "edges": [
-    {
-     "from": "birti I",
-     "to": "he:H1285",
-     "shared": [
-      "between"
-     ],
-     "skeleton": "brt",
-     "dissimilation": false
-    },
     {
      "from": "birti I",
      "to": "he:H1004",
      "shared": [
       "within"
+     ],
+     "skeleton": "bt",
+     "dissimilation": true
+    },
+    {
+     "from": "birti I",
+     "to": "he:H1285",
+     "shared": [
+      "between"
      ],
      "skeleton": "bt",
      "dissimilation": true
@@ -34711,21 +34985,22 @@
    ],
    "targets": [
     {
-     "key": "he:H1285",
-     "form": "בְּרִית",
-     "gloss": "a compact (because made by passing between pieces of flesh)",
-     "translit": "bᵉrîyth",
-     "n": 264
-    },
-    {
      "key": "he:H1004",
      "form": "בַּיִת",
      "gloss": "a house (in the greatest variation of applications, especially family, etc.)",
      "translit": "bayith",
      "n": 1712
+    },
+    {
+     "key": "he:H1285",
+     "form": "בְּרִית",
+     "gloss": "a compact (because made by passing between pieces of flesh)",
+     "translit": "bᵉrîyth",
+     "n": 264
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "birtu I",
@@ -34768,7 +35043,8 @@
      "n": 16
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "birīt I",
@@ -34785,25 +35061,25 @@
    ],
    "sux": [],
    "links": [
-    "he:H1285",
-    "he:H1004"
+    "he:H1004",
+    "he:H1285"
    ],
    "edges": [
-    {
-     "from": "birīt I",
-     "to": "he:H1285",
-     "shared": [
-      "between"
-     ],
-     "skeleton": "brt",
-     "dissimilation": false
-    },
     {
      "from": "birīt I",
      "to": "he:H1004",
      "shared": [
       "inside",
       "within"
+     ],
+     "skeleton": "bt",
+     "dissimilation": true
+    },
+    {
+     "from": "birīt I",
+     "to": "he:H1285",
+     "shared": [
+      "between"
      ],
      "skeleton": "bt",
      "dissimilation": true
@@ -34815,21 +35091,22 @@
    ],
    "targets": [
     {
-     "key": "he:H1285",
-     "form": "בְּרִית",
-     "gloss": "a compact (because made by passing between pieces of flesh)",
-     "translit": "bᵉrîyth",
-     "n": 264
-    },
-    {
      "key": "he:H1004",
      "form": "בַּיִת",
      "gloss": "a house (in the greatest variation of applications, especially family, etc.)",
      "translit": "bayith",
      "n": 1712
+    },
+    {
+     "key": "he:H1285",
+     "form": "בְּרִית",
+     "gloss": "a compact (because made by passing between pieces of flesh)",
+     "translit": "bᵉrîyth",
+     "n": 264
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "birītu I",
@@ -34889,7 +35166,8 @@
      "n": 83
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "buhhuru I",
@@ -34927,7 +35205,8 @@
      "n": 90
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bukru I",
@@ -34987,7 +35266,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bukurtu I",
@@ -35028,7 +35308,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "burāšu I",
@@ -35072,7 +35353,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "buṭnu I",
@@ -35110,7 +35392,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bâru I",
@@ -35153,7 +35436,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bâru III",
@@ -35195,7 +35479,8 @@
      "n": 493
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bâšu I",
@@ -35273,7 +35558,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bābu I",
@@ -35316,7 +35602,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bāntu I",
@@ -35355,7 +35642,8 @@
      "n": 57
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bārānû I",
@@ -35393,7 +35681,8 @@
      "n": 3653
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bēltu I",
@@ -35436,7 +35725,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bēlu I",
@@ -35479,7 +35769,8 @@
      "n": 79
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bīru I",
@@ -35522,7 +35813,8 @@
      "n": 493
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bīru II",
@@ -35560,7 +35852,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "bītānu I",
@@ -35600,7 +35893,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "būrtu I",
@@ -35679,7 +35973,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "būru I",
@@ -35757,7 +36052,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "būru II",
@@ -35800,7 +36096,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "būštu I",
@@ -35855,7 +36152,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "da'āmu I",
@@ -35893,7 +36191,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dabābu II",
@@ -35936,7 +36235,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dannina I",
@@ -35976,7 +36276,8 @@
      "n": 111
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "daqqu I",
@@ -36031,7 +36332,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "darû I",
@@ -36074,7 +36376,8 @@
      "n": 127
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "darāru I",
@@ -36132,7 +36435,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "darāsu I",
@@ -36173,7 +36477,8 @@
      "n": 13
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dešû I",
@@ -36233,7 +36538,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dinānu I",
@@ -36275,7 +36581,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "diāšu I",
@@ -36354,7 +36661,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dullulu I",
@@ -36393,7 +36701,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "durāʾu",
@@ -36431,7 +36740,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dâku I",
@@ -36491,7 +36801,8 @@
      "n": 18
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dāmātu I",
@@ -36529,7 +36840,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dāru I",
@@ -36570,7 +36882,8 @@
      "n": 127
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dārâ I",
@@ -36609,7 +36922,8 @@
      "n": 127
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dīšu II",
@@ -36681,7 +36995,8 @@
      "n": 13
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "dūru I",
@@ -36724,7 +37039,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ebēru I",
@@ -36767,7 +37083,8 @@
      "n": 493
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "edēru I",
@@ -36810,7 +37127,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "egerrû I",
@@ -36853,7 +37171,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "eklu I",
@@ -36911,7 +37230,8 @@
      "n": 341
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "elēnû I",
@@ -36952,7 +37272,8 @@
      "n": 53
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "elēnītu I",
@@ -36993,7 +37314,8 @@
      "n": 78
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "elēṣu I",
@@ -37036,7 +37358,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "emētu I",
@@ -37076,7 +37399,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "emūtu I",
@@ -37119,7 +37443,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ennettu I",
@@ -37162,7 +37487,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "enēbu I",
@@ -37217,7 +37543,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "enēqu I",
@@ -37260,7 +37587,8 @@
      "n": 30
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "enšu I",
@@ -37303,7 +37631,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "eperu I",
@@ -37364,7 +37693,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "epištu I",
@@ -37407,7 +37737,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "erbu II",
@@ -37467,7 +37798,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "erbâ I",
@@ -37506,7 +37838,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "espu",
@@ -37615,7 +37948,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "esēpu I",
@@ -37711,7 +38045,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ezēbu I",
@@ -37754,7 +38089,8 @@
      "n": 206
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ešrā I",
@@ -37797,7 +38133,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "eṣpu I",
@@ -37854,7 +38191,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "eṣēpu I",
@@ -37911,7 +38249,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gadû I",
@@ -37951,7 +38290,8 @@
      "n": 16
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gallābu I",
@@ -37990,7 +38330,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "galtu I",
@@ -38033,7 +38374,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "galātu I",
@@ -38093,7 +38435,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gappu I",
@@ -38134,7 +38477,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "garāšu I",
@@ -38172,7 +38516,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gerru II",
@@ -38211,7 +38556,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gimillu I",
@@ -38290,7 +38636,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gullultu I",
@@ -38331,7 +38678,8 @@
      "n": 18
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gupnu I",
@@ -38369,7 +38717,8 @@
      "n": 53
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gurummû I",
@@ -38407,7 +38756,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "gīdu I",
@@ -38447,7 +38797,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "hamiš I",
@@ -38490,7 +38841,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "hamāru I",
@@ -38528,7 +38880,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "hamāṭu I",
@@ -38571,7 +38924,8 @@
      "n": 92
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "hamšā I",
@@ -38614,7 +38968,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "hanābu I",
@@ -38657,7 +39012,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "harbu I",
@@ -38700,7 +39056,8 @@
      "n": 57
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "harāṣu I",
@@ -38773,7 +39130,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "haršu I",
@@ -38812,7 +39170,8 @@
      "n": 686
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "haṭāmu I",
@@ -38850,7 +39209,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "herṣu I",
@@ -38888,7 +39248,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "hibištu I",
@@ -38927,7 +39288,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "hurbu I",
@@ -38966,7 +39328,8 @@
      "n": 57
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "huribtu I",
@@ -39004,7 +39367,8 @@
      "n": 57
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "igru I",
@@ -39042,7 +39406,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ikkaru I",
@@ -39069,8 +39434,8 @@
       "farmer",
       "ploughman"
      ],
-     "skeleton": "kr",
-     "dissimilation": false
+     "skeleton": "nkr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -39086,7 +39451,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "imitta I",
@@ -39129,7 +39495,8 @@
      "n": 125
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "imittu I",
@@ -39172,7 +39539,8 @@
      "n": 125
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "immeru I",
@@ -39249,7 +39617,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "izqātu I",
@@ -39288,7 +39657,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "izīru I",
@@ -39327,7 +39697,8 @@
      "n": 84
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "išaru I",
@@ -39459,7 +39830,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "išarūtu I",
@@ -39499,7 +39871,8 @@
      "n": 38
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "išdu I",
@@ -39559,7 +39932,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "išku I",
@@ -39597,7 +39971,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "iṣratu I",
@@ -39670,7 +40045,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "iṣṣurtu I",
@@ -39708,7 +40084,8 @@
      "n": 72
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "iṣṣūr-hurri",
@@ -39746,7 +40123,8 @@
      "n": 74
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "iṣṣūrtu",
@@ -39785,7 +40163,8 @@
      "n": 72
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "iṣṣūru I",
@@ -39845,7 +40224,8 @@
      "n": 70
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kabru I",
@@ -39884,7 +40264,8 @@
      "n": 40
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kabāsu I",
@@ -39927,7 +40308,8 @@
      "n": 13
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kakkabtu I",
@@ -39966,7 +40348,8 @@
      "n": 37
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kakkabu I",
@@ -40009,7 +40392,8 @@
      "n": 37
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kakkaru I",
@@ -40033,8 +40417,8 @@
       "loaf",
       "round"
      ],
-     "skeleton": "kkr",
-     "dissimilation": false
+     "skeleton": "knkr",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -40050,7 +40434,8 @@
      "n": 55
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kalû I",
@@ -40093,7 +40478,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kalītu I",
@@ -40132,7 +40518,8 @@
      "n": 26
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kannu I",
@@ -40173,7 +40560,8 @@
      "n": 211
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kappu I",
@@ -40216,7 +40604,8 @@
      "n": 85
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kappu II",
@@ -40255,7 +40644,8 @@
      "n": 180
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kapru I",
@@ -40331,7 +40721,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kapāpu I",
@@ -40375,7 +40766,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kaspu I",
@@ -40420,7 +40812,8 @@
      "n": 343
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "katmu I",
@@ -40463,7 +40856,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kaššāpu I",
@@ -40506,7 +40900,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kepû I",
@@ -40546,7 +40941,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kerru I",
@@ -40584,7 +40980,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kullu III",
@@ -40644,7 +41041,8 @@
      "n": 36
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kunnu I",
@@ -40687,7 +41085,8 @@
      "n": 211
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kupru I",
@@ -40748,7 +41147,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kupīru I",
@@ -40803,7 +41203,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kurību I",
@@ -40824,8 +41225,8 @@
      "shared": [
       "figure"
      ],
-     "skeleton": "krb",
-     "dissimilation": false
+     "skeleton": "kb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -40841,7 +41242,8 @@
      "n": 66
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kurša",
@@ -40879,7 +41281,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kāpu I",
@@ -40917,7 +41320,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kīlu I",
@@ -40977,7 +41381,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "kīsu II",
@@ -41019,7 +41424,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lakû I",
@@ -41077,7 +41483,8 @@
      "n": 936
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "laliu I",
@@ -41115,7 +41522,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lammu I",
@@ -41155,7 +41563,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lamādu I",
@@ -41198,7 +41607,8 @@
      "n": 80
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "libbu I",
@@ -41224,8 +41634,8 @@
      "shared": [
       "heart"
      ],
-     "skeleton": "lnb",
-     "dissimilation": true
+     "skeleton": "lb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -41241,7 +41651,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lubuštu I",
@@ -41302,7 +41713,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lubšu I",
@@ -41345,7 +41757,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lubūšu I",
@@ -41405,7 +41818,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lābatu I",
@@ -41443,7 +41857,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lābu I",
@@ -41486,7 +41901,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "lāʾiṭu",
@@ -41525,7 +41941,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "līlu I",
@@ -41564,7 +41981,8 @@
      "n": 223
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "madādu I",
@@ -41603,7 +42021,8 @@
      "n": 49
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mahīru I",
@@ -41645,7 +42064,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "makû I",
@@ -41683,7 +42103,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "malikūtu I",
@@ -41726,7 +42147,8 @@
      "n": 284
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "malkatu I",
@@ -41786,7 +42208,8 @@
      "n": 34
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "malû II",
@@ -41829,7 +42252,8 @@
      "n": 54
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "martu I",
@@ -41873,7 +42297,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "martû I",
@@ -41916,7 +42341,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "marû I",
@@ -41959,7 +42385,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "marāṣu I",
@@ -42019,7 +42446,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "maršītu I",
@@ -42033,35 +42461,35 @@
    ],
    "sux": [],
    "links": [
+    "he:H4639",
     "he:H4181",
-    "he:H4180",
-    "he:H4639"
+    "he:H4180"
    ],
    "edges": [
-    {
-     "from": "maršītu I",
-     "to": "he:H4181",
-     "shared": [
-      "possession"
-     ],
-     "skeleton": "mrS",
-     "dissimilation": false
-    },
-    {
-     "from": "maršītu I",
-     "to": "he:H4180",
-     "shared": [
-      "possession"
-     ],
-     "skeleton": "mrS",
-     "dissimilation": false
-    },
     {
      "from": "maršītu I",
      "to": "he:H4639",
      "shared": [
       "possession",
       "property"
+     ],
+     "skeleton": "mS",
+     "dissimilation": true
+    },
+    {
+     "from": "maršītu I",
+     "to": "he:H4181",
+     "shared": [
+      "possession"
+     ],
+     "skeleton": "mS",
+     "dissimilation": true
+    },
+    {
+     "from": "maršītu I",
+     "to": "he:H4180",
+     "shared": [
+      "possession"
      ],
      "skeleton": "mS",
      "dissimilation": true
@@ -42072,6 +42500,13 @@
     "he"
    ],
    "targets": [
+    {
+     "key": "he:H4639",
+     "form": "מַעֲשֶׂה",
+     "gloss": "an action (good or bad)",
+     "translit": "maʻăseh",
+     "n": 221
+    },
     {
      "key": "he:H4181",
      "form": "מוֹרָשָׁה",
@@ -42085,16 +42520,10 @@
      "gloss": "a possession",
      "translit": "môwrâsh",
      "n": 3
-    },
-    {
-     "key": "he:H4639",
-     "form": "מַעֲשֶׂה",
-     "gloss": "an action (good or bad)",
-     "translit": "maʻăseh",
-     "n": 221
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "marṣu I",
@@ -42137,7 +42566,8 @@
      "n": 10
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "matqu I",
@@ -42197,7 +42627,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "matāqu I",
@@ -42254,7 +42685,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mazzaztu I",
@@ -42297,7 +42729,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mazzāzu I",
@@ -42340,7 +42773,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "maštītu I",
@@ -42383,7 +42817,8 @@
      "n": 43
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "maṣû I",
@@ -42426,7 +42861,8 @@
      "n": 425
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "maṭû I",
@@ -42488,7 +42924,8 @@
      "n": 21
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "maṭû II",
@@ -42548,7 +42985,8 @@
      "n": 21
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "merītu I",
@@ -42591,7 +43029,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "middatu I",
@@ -42614,8 +43053,8 @@
      "shared": [
       "measure"
      ],
-     "skeleton": "mnd",
-     "dissimilation": true
+     "skeleton": "md",
+     "dissimilation": false
     },
     {
      "from": "middatu I",
@@ -42647,7 +43086,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mila I",
@@ -42690,7 +43130,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "milku I",
@@ -42733,7 +43174,8 @@
      "n": 284
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "miqtu I",
@@ -42793,7 +43235,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mudu I",
@@ -42831,7 +43274,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mullû I",
@@ -42874,7 +43318,8 @@
      "n": 57
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "murru I",
@@ -42889,31 +43334,13 @@
    ],
    "sux": [],
    "links": [
-    "he:H4787",
-    "he:H4846",
     "he:H4786",
     "he:H4751",
-    "he:H4805"
+    "he:H4805",
+    "he:H4846",
+    "he:H4787"
    ],
    "edges": [
-    {
-     "from": "murru I",
-     "to": "he:H4787",
-     "shared": [
-      "bitterness"
-     ],
-     "skeleton": "mnr",
-     "dissimilation": true
-    },
-    {
-     "from": "murru I",
-     "to": "he:H4846",
-     "shared": [
-      "bitterness"
-     ],
-     "skeleton": "mrr",
-     "dissimilation": true
-    },
     {
      "from": "murru I",
      "to": "he:H4786",
@@ -42940,6 +43367,24 @@
      ],
      "skeleton": "mr",
      "dissimilation": false
+    },
+    {
+     "from": "murru I",
+     "to": "he:H4846",
+     "shared": [
+      "bitterness"
+     ],
+     "skeleton": "mr",
+     "dissimilation": true
+    },
+    {
+     "from": "murru I",
+     "to": "he:H4787",
+     "shared": [
+      "bitterness"
+     ],
+     "skeleton": "mr",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -42947,20 +43392,6 @@
     "he"
    ],
    "targets": [
-    {
-     "key": "he:H4787",
-     "form": "מׇרָּה",
-     "gloss": "trouble",
-     "translit": "morrâh",
-     "n": 1
-    },
-    {
-     "key": "he:H4846",
-     "form": "מְרֹרָה",
-     "gloss": "properly, bitterness",
-     "translit": "mᵉrôrâh",
-     "n": 4
-    },
     {
      "key": "he:H4786",
      "form": "מֹרָה",
@@ -42981,9 +43412,24 @@
      "gloss": "bitterness, i.e. (figuratively) rebellion",
      "translit": "mᵉrîy",
      "n": 21
+    },
+    {
+     "key": "he:H4846",
+     "form": "מְרֹרָה",
+     "gloss": "properly, bitterness",
+     "translit": "mᵉrôrâh",
+     "n": 4
+    },
+    {
+     "key": "he:H4787",
+     "form": "מׇרָּה",
+     "gloss": "trouble",
+     "translit": "morrâh",
+     "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "murṣu I",
@@ -43026,7 +43472,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "musâtu I",
@@ -43064,7 +43511,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mutqītu I",
@@ -43119,7 +43567,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "muškēnu I",
@@ -43161,7 +43610,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mušāriku",
@@ -43200,7 +43650,8 @@
      "n": 36
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mânu I",
@@ -43238,7 +43689,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mākālu I",
@@ -43281,7 +43733,8 @@
      "n": 29
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mālaku I",
@@ -43342,7 +43795,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "māni I",
@@ -43385,7 +43839,8 @@
      "n": 78
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mīlu I",
@@ -43428,7 +43883,8 @@
      "n": 40
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mīnu I",
@@ -43471,7 +43927,8 @@
      "n": 692
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "mūdû I",
@@ -43514,7 +43971,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mūdûtu I",
@@ -43553,7 +44011,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mūru I",
@@ -43595,7 +44054,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "mūšu I",
@@ -43639,7 +44099,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "mūṣû I",
@@ -43753,7 +44214,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nadītu I",
@@ -43791,7 +44253,8 @@
      "n": 24
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nahsu I",
@@ -43847,7 +44310,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nakru I",
@@ -43943,7 +44407,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nakāru I",
@@ -44038,7 +44503,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "napištu I",
@@ -44081,7 +44547,8 @@
      "n": 268
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nappašu I",
@@ -44122,7 +44589,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "napuštu I",
@@ -44161,7 +44629,8 @@
      "n": 268
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "napālu I",
@@ -44204,7 +44673,8 @@
      "n": 403
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "napšu III",
@@ -44243,7 +44713,8 @@
      "n": 268
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nashu I",
@@ -44286,7 +44757,8 @@
      "n": 140
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nasāhu I",
@@ -44329,7 +44801,8 @@
      "n": 140
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nasīku I",
@@ -44368,7 +44841,8 @@
      "n": 24
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nawru I",
@@ -44411,7 +44885,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "našpu I",
@@ -44449,7 +44924,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "našāku I",
@@ -44492,7 +44968,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "našāqu I",
@@ -44552,7 +45029,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "našāru II",
@@ -44591,7 +45069,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "naṣru I",
@@ -44634,7 +45113,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "naṣāru I",
@@ -44678,7 +45158,8 @@
      "n": 62
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nigûtu I",
@@ -44721,7 +45202,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nitku I",
@@ -44760,7 +45242,8 @@
      "n": 19
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nišūtu I",
@@ -44800,7 +45283,8 @@
      "n": 609
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nusāhu I",
@@ -44838,7 +45322,8 @@
      "n": 140
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nâqu I",
@@ -44927,7 +45412,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nâṣu I",
@@ -44968,7 +45454,8 @@
      "n": 24
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nādu I",
@@ -45011,7 +45498,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nāsihu I",
@@ -45054,7 +45542,8 @@
      "n": 140
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nāšû I",
@@ -45097,7 +45586,8 @@
      "n": 41
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nāṣiru I",
@@ -45140,7 +45630,8 @@
      "n": 62
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nāṣu I",
@@ -45182,7 +45673,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nīšu I",
@@ -45225,7 +45717,8 @@
      "n": 609
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "nīšu II",
@@ -45268,7 +45761,8 @@
      "n": 609
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pa'āṣu I",
@@ -45341,7 +45835,8 @@
      "n": 18
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pagru I",
@@ -45385,7 +45880,8 @@
      "n": 21
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pannigu I",
@@ -45423,7 +45919,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "panû I",
@@ -45464,7 +45961,8 @@
      "n": 128
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "paqādu I",
@@ -45508,7 +46006,8 @@
      "n": 269
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "parsu I",
@@ -45568,7 +46067,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "parā'u I",
@@ -45609,7 +46109,8 @@
      "n": 46
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "parāku I",
@@ -45652,7 +46153,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "parāru I",
@@ -45695,7 +46197,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "parāṣu I",
@@ -45752,7 +46255,8 @@
      "n": 18
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "patālu I",
@@ -45807,7 +46311,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pašhu I",
@@ -45850,7 +46355,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "puhattu I",
@@ -45890,7 +46396,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "purussû I",
@@ -45933,7 +46440,8 @@
      "n": 43
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "puruzu",
@@ -45957,8 +46465,8 @@
      "shared": [
       "village"
      ],
-     "skeleton": "prZ",
-     "dissimilation": false
+     "skeleton": "pZ",
+     "dissimilation": true
     },
     {
      "from": "puruzu",
@@ -45967,8 +46475,8 @@
       "unwalled",
       "village"
      ],
-     "skeleton": "prZ",
-     "dissimilation": false
+     "skeleton": "pZ",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -45991,7 +46499,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pâru I",
@@ -46046,7 +46555,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pānu I",
@@ -46089,7 +46599,8 @@
      "n": 128
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pāqidu I",
@@ -46132,7 +46643,8 @@
      "n": 269
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "pērtu I",
@@ -46192,7 +46704,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qadmu I",
@@ -46233,7 +46746,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qadādu I",
@@ -46276,7 +46790,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qallalu I",
@@ -46314,7 +46829,8 @@
      "n": 79
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qalû I",
@@ -46358,7 +46874,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qalû II",
@@ -46398,7 +46915,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qalālu I",
@@ -46442,7 +46960,8 @@
      "n": 79
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qalītu I",
@@ -46486,7 +47005,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qanû I",
@@ -46530,7 +47050,8 @@
      "n": 38
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qanānu I",
@@ -46573,7 +47094,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qarnu I",
@@ -46633,7 +47155,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qarābu I",
@@ -46659,8 +47182,8 @@
      "shared": [
       "battle"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -46676,7 +47199,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qaštu I",
@@ -46719,7 +47243,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qebēru I",
@@ -46762,7 +47287,8 @@
      "n": 122
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qerēbu I",
@@ -46789,8 +47315,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qerēbu I",
@@ -46798,8 +47324,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -46822,7 +47348,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qinnu I",
@@ -46865,7 +47392,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qinû I",
@@ -46922,7 +47450,8 @@
      "n": 41
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "quddušu I",
@@ -46965,7 +47494,8 @@
      "n": 380
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qudmu I",
@@ -47037,7 +47567,8 @@
      "n": 64
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qurbūtu I",
@@ -47059,8 +47590,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurbūtu I",
@@ -47068,8 +47599,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -47092,7 +47623,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qurrubu I",
@@ -47117,8 +47649,8 @@
      "shared": [
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurrubu I",
@@ -47126,8 +47658,8 @@
      "shared": [
       "brought"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     },
     {
      "from": "qurrubu I",
@@ -47136,8 +47668,8 @@
       "brought",
       "close"
      ],
-     "skeleton": "qrb",
-     "dissimilation": false
+     "skeleton": "qb",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -47167,7 +47699,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qâdu I",
@@ -47210,7 +47743,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "qūlu I",
@@ -47253,7 +47787,8 @@
      "n": 436
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rab I",
@@ -47294,7 +47829,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rabbû I",
@@ -47371,7 +47907,8 @@
      "n": 145
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rabāṣu I",
@@ -47415,7 +47952,8 @@
      "n": 30
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rabṣu I",
@@ -47453,7 +47991,8 @@
      "n": 30
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rahāšu I",
@@ -47491,7 +48030,8 @@
      "n": 30
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "raksu I",
@@ -47551,7 +48091,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rakāsu I",
@@ -47594,7 +48135,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ramû I",
@@ -47637,7 +48179,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "raqādu I",
@@ -47681,7 +48224,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rebītu I",
@@ -47724,7 +48268,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "redû I",
@@ -47767,7 +48312,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rihṣu I",
@@ -47810,7 +48356,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "riāqu I",
@@ -47887,7 +48434,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ru''umu I",
@@ -47928,7 +48476,8 @@
      "n": 184
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rubû I",
@@ -47971,7 +48520,8 @@
      "n": 443
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rubûtu I",
@@ -48014,7 +48564,8 @@
      "n": 125
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rukūbu I",
@@ -48074,7 +48625,8 @@
      "n": 104
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "râṣu I",
@@ -48117,7 +48669,8 @@
      "n": 92
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rākibu I",
@@ -48174,7 +48727,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rāṭu I",
@@ -48217,7 +48771,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rēdûtu I",
@@ -48256,7 +48811,8 @@
      "n": 345
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rēštu I",
@@ -48299,7 +48855,8 @@
      "n": 547
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rēštû I",
@@ -48342,7 +48899,8 @@
      "n": 547
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rēṣūtu I",
@@ -48385,7 +48943,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rīmtu I",
@@ -48426,7 +48985,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rīmu I",
@@ -48470,7 +49030,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rīqu I",
@@ -48547,7 +49108,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rīqūtu I",
@@ -48588,7 +49150,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "rūštu I",
@@ -48626,7 +49189,8 @@
      "n": 547
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "saddinu I",
@@ -48664,7 +49228,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sadru I",
@@ -48724,7 +49289,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sadāru I",
@@ -48767,7 +49333,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sagû I",
@@ -48805,7 +49372,8 @@
      "n": 19
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sahru I",
@@ -48846,7 +49414,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sahāru I",
@@ -48940,7 +49509,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "salāmu I",
@@ -49017,7 +49587,8 @@
      "n": 107
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "salāʾu",
@@ -49060,7 +49631,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "samānâ I",
@@ -49099,7 +49671,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "saplu I",
@@ -49138,7 +49711,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sapāhu I",
@@ -49181,7 +49755,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "saqqu I",
@@ -49237,7 +49812,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sarru I",
@@ -49280,7 +49856,8 @@
      "n": 16
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sartu I",
@@ -49323,7 +49900,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sebû I",
@@ -49366,7 +49944,8 @@
      "n": 94
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sekēru I",
@@ -49408,7 +49987,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sellu I",
@@ -49446,7 +50026,8 @@
      "n": 13
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sidirtu I",
@@ -49484,7 +50065,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sidru I",
@@ -49524,7 +50106,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "simmu I",
@@ -49567,7 +50150,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sinništu I",
@@ -49610,7 +50194,8 @@
      "n": 42
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sinnišu I",
@@ -49653,7 +50238,8 @@
      "n": 42
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sippu I",
@@ -49713,7 +50299,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sisû I",
@@ -49756,7 +50343,8 @@
      "n": 130
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "suhhurtu I",
@@ -49794,7 +50382,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "surrātu I",
@@ -49837,7 +50426,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sāpihu",
@@ -49875,7 +50465,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sāsu I",
@@ -49913,7 +50504,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sīqu II",
@@ -49952,7 +50544,8 @@
      "n": 19
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "sūqu I",
@@ -49995,7 +50588,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "taqnu I",
@@ -50036,7 +50630,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "taqānu I",
@@ -50079,7 +50674,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tarbu'u I",
@@ -50104,8 +50700,8 @@
      "shared": [
       "dust"
      ],
-     "skeleton": "tb",
-     "dissimilation": true
+     "skeleton": "trb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -50121,7 +50717,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tarbuʾtu",
@@ -50144,8 +50741,8 @@
      "shared": [
       "dust"
      ],
-     "skeleton": "tb",
-     "dissimilation": true
+     "skeleton": "trb",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -50161,7 +50758,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tarīmtu I",
@@ -50182,8 +50780,8 @@
      "shared": [
       "gift"
      ],
-     "skeleton": "tm",
-     "dissimilation": true
+     "skeleton": "trm",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -50199,7 +50797,8 @@
      "n": 63
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tešiā I",
@@ -50239,7 +50838,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tibnu I",
@@ -50282,7 +50882,8 @@
      "n": 16
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "timāli I",
@@ -50321,7 +50922,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tiāmtu I",
@@ -50364,7 +50966,8 @@
      "n": 35
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tišû I",
@@ -50423,7 +51026,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tuqqunu I",
@@ -50461,7 +51065,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "târu I",
@@ -50521,7 +51126,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tûltu I",
@@ -50564,7 +51170,8 @@
      "n": 43
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tābalu I",
@@ -50602,7 +51209,8 @@
      "n": 36
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tāluku I",
@@ -50642,7 +51250,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tēltu I",
@@ -50680,7 +51289,8 @@
      "n": 43
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tēnīnu I",
@@ -50719,7 +51329,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tīlu I",
@@ -50763,7 +51374,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tūamtu I",
@@ -50820,7 +51432,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tūamu I",
@@ -50876,7 +51489,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "tūʾamtu",
@@ -50931,7 +51545,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ubānu I",
@@ -50974,7 +51589,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ummānu I",
@@ -51034,7 +51650,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "uqnû I",
@@ -51077,7 +51694,8 @@
      "n": 69
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "urqu I",
@@ -51149,7 +51767,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "urqītu I",
@@ -51192,7 +51811,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "urullu I",
@@ -51230,7 +51850,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "waqru",
@@ -51273,7 +51894,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "waqāru",
@@ -51313,7 +51935,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "warkatu",
@@ -51356,7 +51979,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "warkû",
@@ -51399,7 +52023,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "warkāniš",
@@ -51437,7 +52062,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "warqu",
@@ -51513,7 +52139,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "warāqu",
@@ -51586,7 +52213,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "watartu I",
@@ -51625,7 +52253,8 @@
      "n": 95
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "wašābu",
@@ -51668,7 +52297,8 @@
      "n": 977
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "yamattu I",
@@ -51707,7 +52337,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "yašpû I",
@@ -51750,7 +52381,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "yābilu I",
@@ -51793,7 +52425,8 @@
      "n": 25
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "za'ānu I",
@@ -51836,7 +52469,8 @@
      "n": 26
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zakru I",
@@ -51896,7 +52530,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zammārūtu",
@@ -51951,7 +52586,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zamāru I",
@@ -52028,7 +52664,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zamāru II",
@@ -52068,7 +52705,8 @@
      "n": 41
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zaqāpu I",
@@ -52111,7 +52749,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zarāqu I",
@@ -52152,7 +52791,8 @@
      "n": 33
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zaʾinu",
@@ -52190,7 +52830,8 @@
      "n": 26
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zaʾānu",
@@ -52228,7 +52869,8 @@
      "n": 26
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zibbatu I",
@@ -52254,7 +52896,7 @@
      "shared": [
       "tail"
      ],
-     "skeleton": "Znb",
+     "skeleton": "Zb",
      "dissimilation": true
     }
    ],
@@ -52271,7 +52913,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zimru I",
@@ -52344,7 +52987,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zubbu I",
@@ -52387,7 +53031,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zumāru I",
@@ -52463,7 +53108,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zâbu I",
@@ -52519,7 +53165,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zâru I",
@@ -52557,7 +53204,8 @@
      "n": 76
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zārû I",
@@ -52600,7 +53248,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "zēru I",
@@ -52643,7 +53292,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ēkallû I",
@@ -52681,7 +53331,8 @@
      "n": 76
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ēniqu I",
@@ -52720,7 +53371,8 @@
      "n": 30
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "Šadu",
@@ -52758,7 +53410,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ša-rēši",
@@ -52784,8 +53437,8 @@
      "shared": [
       "eunuch"
      ],
-     "skeleton": "SS",
-     "dissimilation": true
+     "skeleton": "SrS",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -52801,7 +53454,8 @@
      "n": 42
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šabbiṭu I",
@@ -52815,19 +53469,10 @@
    ],
    "sux": [],
    "links": [
-    "he:H8275",
-    "he:H7626"
+    "he:H7626",
+    "he:H8275"
    ],
    "edges": [
-    {
-     "from": "šabbiṭu I",
-     "to": "he:H8275",
-     "shared": [
-      "sceptre"
-     ],
-     "skeleton": "SrbT",
-     "dissimilation": true
-    },
     {
      "from": "šabbiṭu I",
      "to": "he:H7626",
@@ -52837,6 +53482,15 @@
      ],
      "skeleton": "SbT",
      "dissimilation": false
+    },
+    {
+     "from": "šabbiṭu I",
+     "to": "he:H8275",
+     "shared": [
+      "sceptre"
+     ],
+     "skeleton": "SbT",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -52845,21 +53499,22 @@
    ],
    "targets": [
     {
-     "key": "he:H8275",
-     "form": "שַׁרְבִיט",
-     "gloss": "a rod of empire",
-     "translit": "sharbîyṭ",
-     "n": 3
-    },
-    {
      "key": "he:H7626",
      "form": "שֵׁבֶט",
      "gloss": "a scion, i.e. (literally) a stick (for punishing, writing, fighting, ruling, wal",
      "translit": "shêbeṭ",
      "n": 178
+    },
+    {
+     "key": "he:H8275",
+     "form": "שַׁרְבִיט",
+     "gloss": "a rod of empire",
+     "translit": "sharbîyṭ",
+     "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šabāhu I",
@@ -52899,7 +53554,8 @@
      "n": 977
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaddû'a I",
@@ -52938,7 +53594,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaddûʾa",
@@ -52977,7 +53634,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šahādu I",
@@ -53049,7 +53707,8 @@
      "n": 21
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šahāṭu I",
@@ -53092,7 +53751,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šakru I",
@@ -53168,7 +53828,8 @@
      "n": 13
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šakānu I",
@@ -53211,7 +53872,8 @@
      "n": 123
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalgu I",
@@ -53270,7 +53932,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalmūtu I",
@@ -53308,7 +53971,8 @@
      "n": 209
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalāhu I",
@@ -53346,7 +54010,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalālu I",
@@ -53389,7 +54054,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalāpu I",
@@ -53434,7 +54100,8 @@
      "n": 24
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalāšû I",
@@ -53489,7 +54156,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalāšā I",
@@ -53532,7 +54200,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalāšī",
@@ -53575,7 +54244,8 @@
      "n": 381
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalšūmi I",
@@ -53617,7 +54287,8 @@
      "n": 25
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šalṭu I",
@@ -53657,7 +54328,8 @@
      "n": 37
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šamû I",
@@ -53701,7 +54373,8 @@
      "n": 297
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šamāmū I",
@@ -53744,7 +54417,8 @@
      "n": 395
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šamūtu I",
@@ -53787,7 +54461,8 @@
      "n": 297
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šanû II",
@@ -53830,7 +54505,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šapiltu I",
@@ -53868,7 +54544,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šapku I",
@@ -53926,7 +54603,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaplû I",
@@ -53969,7 +54647,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaplītu I",
@@ -54013,7 +54692,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šappatu I",
@@ -54071,7 +54751,8 @@
      "n": 28
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šapāku I",
@@ -54131,7 +54812,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaqālu I",
@@ -54175,7 +54857,8 @@
      "n": 21
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarpu I",
@@ -54235,7 +54918,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarratu I",
@@ -54278,7 +54962,8 @@
      "n": 5
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarru I",
@@ -54321,7 +55006,8 @@
      "n": 17
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarrāqu I",
@@ -54381,7 +55067,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarrūtu I",
@@ -54475,7 +55162,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarû I",
@@ -54535,7 +55223,8 @@
      "n": 23
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarû II",
@@ -54592,7 +55281,8 @@
      "n": 23
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarāpu I",
@@ -54635,7 +55325,8 @@
      "n": 107
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šarāqu I",
@@ -54661,8 +55352,8 @@
      "shared": [
       "steal"
      ],
-     "skeleton": "Srq",
-     "dissimilation": false
+     "skeleton": "Sq",
+     "dissimilation": true
     },
     {
      "from": "šarāqu I",
@@ -54670,8 +55361,8 @@
      "shared": [
       "steal"
      ],
-     "skeleton": "Srq",
-     "dissimilation": false
+     "skeleton": "Sq",
+     "dissimilation": true
     }
    ],
    "langs": [
@@ -54694,7 +55385,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaršerru I",
@@ -54737,7 +55429,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šasû I",
@@ -54814,7 +55507,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šattu I",
@@ -54857,7 +55551,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šatānu I",
@@ -54896,7 +55591,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šawiru I",
@@ -54939,7 +55635,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaṭru I",
@@ -54999,7 +55696,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaṭāru I",
@@ -55059,7 +55757,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šaṭāru II",
@@ -55102,7 +55801,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šebru I",
@@ -55174,7 +55874,8 @@
      "n": 41
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šebēru I",
@@ -55217,7 +55918,8 @@
      "n": 143
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šehṭu I",
@@ -55259,7 +55961,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šeššu I",
@@ -55287,8 +55990,8 @@
      "shared": [
       "sixth"
      ],
-     "skeleton": "SS",
-     "dissimilation": false
+     "skeleton": "SrS",
+     "dissimilation": true
     },
     {
      "from": "šeššu I",
@@ -55336,7 +56039,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "šeṭû II",
@@ -55374,7 +56078,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šikaru I",
@@ -55436,7 +56141,8 @@
      "n": 20
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šikkatu I",
@@ -55476,7 +56182,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šipirtu I",
@@ -55519,7 +56226,8 @@
      "n": 174
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šipṭu I",
@@ -55596,7 +56304,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šiqlu I",
@@ -55639,7 +56348,8 @@
      "n": 54
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šittu I",
@@ -55682,7 +56392,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šiṭru I",
@@ -55742,7 +56453,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šu''uru I",
@@ -55781,7 +56493,8 @@
      "n": 57
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šubburu I",
@@ -55853,7 +56566,8 @@
      "n": 41
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šubtu I",
@@ -55896,7 +56610,8 @@
      "n": 977
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuhruru I",
@@ -55934,7 +56649,8 @@
      "n": 284
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šunû I",
@@ -55975,7 +56691,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuparruru I",
@@ -56015,7 +56732,8 @@
      "n": 154
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuparruru II",
@@ -56056,7 +56774,8 @@
      "n": 154
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuplu I",
@@ -56099,7 +56818,8 @@
      "n": 6
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šupālu I",
@@ -56142,7 +56862,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šurpu I",
@@ -56197,7 +56918,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šurruhu I",
@@ -56240,7 +56962,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šurrû I",
@@ -56283,7 +57006,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuruptu I",
@@ -56339,7 +57063,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuršu I",
@@ -56366,8 +57091,8 @@
      "shared": [
       "root"
      ],
-     "skeleton": "SS",
-     "dissimilation": true
+     "skeleton": "SrS",
+     "dissimilation": false
     },
     {
      "from": "šuršu I",
@@ -56399,7 +57124,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šutû I",
@@ -56438,7 +57164,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šuššu I",
@@ -56461,8 +57188,8 @@
      "shared": [
       "sixth"
      ],
-     "skeleton": "SS",
-     "dissimilation": false
+     "skeleton": "SrS",
+     "dissimilation": true
     },
     {
      "from": "šuššu I",
@@ -56510,7 +57237,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "šênu I",
@@ -56553,7 +57281,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šêṭu I",
@@ -56596,7 +57325,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šābulu I",
@@ -56635,7 +57365,8 @@
      "n": 16
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šākintu",
@@ -56690,7 +57421,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šākinu I",
@@ -56748,7 +57480,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šālu",
@@ -56804,7 +57537,8 @@
      "n": 7
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šāqītu I",
@@ -56863,7 +57597,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šāru I",
@@ -56906,7 +57641,8 @@
      "n": 292
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šēmâtu",
@@ -56944,7 +57680,8 @@
      "n": 47
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šēnu I",
@@ -56987,7 +57724,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šērtu I",
@@ -57030,7 +57768,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šībūtu I",
@@ -57074,7 +57813,8 @@
      "n": 19
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šīlu I",
@@ -57112,7 +57852,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šīqu II",
@@ -57150,7 +57891,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šīru I",
@@ -57210,7 +57952,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šūmū I",
@@ -57248,7 +57991,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šūrû I",
@@ -57286,7 +58030,8 @@
      "n": 38
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "šūšu I",
@@ -57325,7 +58070,8 @@
      "n": 8
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ūmiš I",
@@ -57367,7 +58113,8 @@
      "n": 4
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "loan"
   },
   {
    "akk": "ṣabītu I",
@@ -57427,7 +58174,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣamādu II",
@@ -57470,7 +58218,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣarāhu I",
@@ -57512,7 +58261,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣayyādu I",
@@ -57572,7 +58322,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣehertu I",
@@ -57628,7 +58379,8 @@
      "n": 3
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣehhertu I",
@@ -57668,7 +58420,8 @@
      "n": 22
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣiddu I",
@@ -57727,7 +58480,8 @@
      "n": 37
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣidītu I",
@@ -57786,7 +58540,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣillû I",
@@ -57841,7 +58596,8 @@
      "n": 14
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣimdu I",
@@ -57884,7 +58640,8 @@
      "n": 15
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣipputu",
@@ -57922,7 +58679,8 @@
      "n": 40
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣudû I",
@@ -57996,7 +58754,8 @@
      "n": 11
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣuhartu I",
@@ -58051,7 +58810,8 @@
      "n": 72
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣulû I",
@@ -58108,7 +58868,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣupru I",
@@ -58151,7 +58912,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣurru I",
@@ -58194,7 +58956,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣurru II",
@@ -58236,7 +58999,8 @@
      "n": 9
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣâdu I",
@@ -58279,7 +59043,8 @@
      "n": 37
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣênu I",
@@ -58322,7 +59087,8 @@
      "n": 1
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣābu I",
@@ -58365,7 +59131,8 @@
      "n": 463
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṣēlu I",
@@ -58408,7 +59175,8 @@
      "n": 32
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṭarādu I",
@@ -58434,8 +59202,8 @@
      "shared": [
       "send"
      ],
-     "skeleton": "Td",
-     "dissimilation": true
+     "skeleton": "Trd",
+     "dissimilation": false
     }
    ],
    "langs": [
@@ -58451,7 +59219,8 @@
      "n": 2
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṭebû I",
@@ -58494,7 +59263,8 @@
      "n": 10
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṭābtu I",
@@ -58554,7 +59324,8 @@
      "n": 31
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṭābu I",
@@ -58614,7 +59385,8 @@
      "n": 105
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṭēmu I",
@@ -58657,7 +59429,8 @@
      "n": 12
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   },
   {
    "akk": "ṭūbu I",
@@ -58717,7 +59490,8 @@
      "n": 31
     }
    ],
-   "kind": "cognate"
+   "kind": "cognate",
+   "class": "inherited"
   }
  ],
  "ugaritic": [
@@ -58727,8 +59501,8 @@
    "shared": [
     "mast"
    ],
-   "skeleton": "tn",
-   "dissimilation": true,
+   "skeleton": "trn",
+   "dissimilation": false,
    "to_form": "תֹּרֶן"
   },
   {
@@ -59064,16 +59838,6 @@
   },
   {
    "from": "uga:ʿšrm",
-   "to": "he:H6242",
-   "shared": [
-    "twenty"
-   ],
-   "skeleton": "Srm",
-   "dissimilation": false,
-   "to_form": "עֶשְׂרִים"
-  },
-  {
-   "from": "uga:ʿšrm",
    "to": "he:H8147",
    "shared": [
     "twenty"
@@ -59083,13 +59847,23 @@
    "to_form": "שְׁנַיִם"
   },
   {
+   "from": "uga:ʿšrm",
+   "to": "he:H6242",
+   "shared": [
+    "twenty"
+   ],
+   "skeleton": "Sm",
+   "dissimilation": true,
+   "to_form": "עֶשְׂרִים"
+  },
+  {
    "from": "uga:qrt",
    "to": "he:H7176",
    "shared": [
     "city"
    ],
-   "skeleton": "qt",
-   "dissimilation": true,
+   "skeleton": "qrt",
+   "dissimilation": false,
    "to_form": "קֶרֶת"
   },
   {
@@ -59311,6 +60085,7 @@
   "akk_ar_edges": 460,
   "heb_ar_edges": 1232,
   "uga_edges": 58,
-  "chains": 774
+  "chains": 774,
+  "loan_like": 36
  }
 }

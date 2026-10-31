@@ -32,6 +32,7 @@ import corpora  # noqa: E402
 import originals  # noqa: E402
 
 CHAINS = {"chains": [], "sumerian_loans": [], "counts": {}}   # loan chains and cognate sets (tools/anelex.py)
+TRACES = []   # concentrated Quran words followed to ANE cognates (anelex.ane_traces)
 
 ROOT = corpora.ROOT
 OUT = ROOT / "results" / "lexical"
@@ -365,6 +366,8 @@ def run():
 
     global CHAINS
     CHAINS = anelex.run(verbose=False) if anelex.SCOPE.exists() else {"chains": [], "sumerian_loans": [], "counts": {}}
+    global TRACES
+    TRACES = anelex.ane_traces(q_conc + q_bridges, quran) if anelex.SCOPE.exists() else []
     bench = check_benchmarks(quran, cog, q_conc, h_conc, q_bridges, h_bridges)
     write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench, ara, a_conc, a_bridges)
     return quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench
@@ -376,6 +379,13 @@ def check_benchmarks(quran, heb, q_conc, h_conc, q_bridges, h_bridges):
              ("quran", "bridge"): q_bridges, ("hebrew-bible", "bridge"): h_bridges}
     results = []
     for b in spec["expectations"]:
+        if b["kind"] == "trace":
+            # a concentrated Quran word followed to an ANE cognate occurring in the named text (anelex.ane_traces)
+            hit = any(t["lemma"] == unicodedata.normalize("NFC", b["lemma"]) and any(
+                x["lang"] == b["lang"] and any(u["ref"].startswith(b["text"] + " ") for u in x["units"])
+                for x in t["ane"]) for t in TRACES)
+            results.append({**b, "recovered": hit, "expect": b.get("expect", True)})
+            continue
         if b["kind"] == "chain":
             # a loan chain or cognate set linking every listed form (tools/anelex.py)
             hit = anelex.chain_has(CHAINS, [unicodedata.normalize("NFC", f) for f in b["forms"]])
@@ -445,6 +455,20 @@ def write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench, ara=No
             if b.get("cross_bridge"):
                 cog += " · **cognate is also a Hebrew Bible bridge**"
             lines.append(f"| {b['p']:.1e} | {describe(corpus, b['lemma'])}{cog} | {names} | {b['n']} |")
+    lines += ["", f"## ANE traces ({len(TRACES)})", "",
+              "Quran words concentrated in one narrative (above), followed to ANE cognates (`anelex.ane_traces`, "
+              "full data in `ane-traces.json`). Akkadian matches pass the English meaning check; Ugaritic (EUPT) "
+              "glosses are German, so those matches need the regular sound correspondences exactly and are marked "
+              "*unchecked*: a root shared by two meanings (siḥr 'magic' and šḥr 'dawn') lands here too. "
+              "Divine: the ANE word is a god's name.", "",
+              "| Score | Quran | Narrative | ANE cognate | Meaning | Occurrences (top text, share) | Divine | Units |",
+              "|---|---|---|---|---|---|---|---|"]
+    for t in TRACES[:40]:
+        for i, x in enumerate(t["ane"][:3]):
+            lines.append(f"| {t['score'] if not i else ''} | {(t['form'] + ' ' + translit(t['form']) + ' (' + t['gloss'] + ')') if not i else ''} "
+                         f"| {t['narrative'] if not i else ''} | {x['lang']} {x['lemma']}: {x['gloss'][:60]} | {x['meaning']} "
+                         f"| {x['n']} ({x['top_document']}, {x['top_share']:.0%}) | {'yes' if x['divine'] else ''} "
+                         f"| {', '.join(u['unit'] for u in x['units'][:3])} |")
     (OUT / "REPORT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 

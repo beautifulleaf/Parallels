@@ -1041,41 +1041,6 @@
    "translit": "ʼâthâh"
   },
   {
-   "lemma": "H7912",
-   "n": 15,
-   "narratives": [
-    "daniel",
-    "ezra-letters"
-   ],
-   "counts": [
-    11,
-    4
-   ],
-   "p": 0.9440298507464928,
-   "refs": [
-    "Ezra.4.15",
-    "Ezra.4.19",
-    "Ezra.6.2",
-    "Ezra.7.16",
-    "Dan.2.25",
-    "Dan.2.35",
-    "Dan.5.11",
-    "Dan.5.12",
-    "Dan.5.14",
-    "Dan.5.27",
-    "Dan.6.5",
-    "Dan.6.6",
-    "Dan.6.12",
-    "Dan.6.23",
-    "Dan.6.24"
-   ],
-   "form": "שְׁכַח",
-   "gloss": "to discover (literally or figuratively)",
-   "root": "",
-   "pos": "V",
-   "translit": "shᵉkach"
-  },
-  {
    "lemma": "H5957",
    "n": 15,
    "narratives": [
@@ -1144,6 +1109,41 @@
    "root": "",
    "pos": "Nc",
    "translit": "yôwm"
+  },
+  {
+   "lemma": "H7912",
+   "n": 15,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    11,
+    4
+   ],
+   "p": 0.9440298507464928,
+   "refs": [
+    "Ezra.4.15",
+    "Ezra.4.19",
+    "Ezra.6.2",
+    "Ezra.7.16",
+    "Dan.2.25",
+    "Dan.2.35",
+    "Dan.5.11",
+    "Dan.5.12",
+    "Dan.5.14",
+    "Dan.5.27",
+    "Dan.6.5",
+    "Dan.6.6",
+    "Dan.6.12",
+    "Dan.6.23",
+    "Dan.6.24"
+   ],
+   "form": "שְׁכַח",
+   "gloss": "to discover (literally or figuratively)",
+   "root": "",
+   "pos": "V",
+   "translit": "shᵉkach"
   },
   {
    "lemma": "H2298",
@@ -2816,28 +2816,6 @@
    "translit": "chăshach"
   },
   {
-   "lemma": "H6739",
-   "n": 2,
-   "narratives": [
-    "daniel",
-    "ezra-letters"
-   ],
-   "counts": [
-    1,
-    1
-   ],
-   "p": 0.9925373134328915,
-   "refs": [
-    "Ezra.6.10",
-    "Dan.6.11"
-   ],
-   "form": "צְלָא",
-   "gloss": "pray",
-   "root": "",
-   "pos": "V",
-   "translit": "tsᵉlâʼ"
-  },
-  {
    "lemma": "H5208",
    "n": 2,
    "narratives": [
@@ -2858,6 +2836,28 @@
    "root": "",
    "pos": "Nc",
    "translit": "nîychôwach"
+  },
+  {
+   "lemma": "H6739",
+   "n": 2,
+   "narratives": [
+    "daniel",
+    "ezra-letters"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "p": 0.9925373134328915,
+   "refs": [
+    "Ezra.6.10",
+    "Dan.6.11"
+   ],
+   "form": "צְלָא",
+   "gloss": "pray",
+   "root": "",
+   "pos": "V",
+   "translit": "tsᵉlâʼ"
   },
   {
    "lemma": "H7932",

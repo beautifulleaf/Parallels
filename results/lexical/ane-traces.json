@@ -1,0 +1,1671 @@
+[
+ {
+  "lemma": "يَمّ",
+  "form": "يَمّ",
+  "gloss": "sea",
+  "root": "يمم",
+  "narrative": "moses",
+  "quran_n": 7,
+  "quran_score": 16.19,
+  "synonym_skew": [
+   "نَهَر",
+   "بَحْر"
+  ],
+  "refs": [
+   "7:136",
+   "20:39",
+   "20:78",
+   "20:97",
+   "28:7",
+   "28:40",
+   "51:40"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ym III",
+    "gloss": "Göttername Jammu (mit Beinamen nhr, d.h. Naharu), Gott des Meeres und der Gewässer",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 50,
+    "documents": 5,
+    "top_document": "KTU 1.2",
+    "top_share": 0.8,
+    "divine": true,
+    "units": [
+     {
+      "unit": "ane-ktu-1-1-iv-el-names-yamm",
+      "title": "Baal Cycle 1.1 IV: El proclaims the name of his son Yamm, 'beloved of El', promises a house of silver and orders him to drive Baal from his throne; El's feast",
+      "motif": "high-god-names-favoured-son",
+      "ref": "KTU 1.1 IV:15"
+     },
+     {
+      "unit": "ane-ktu-1-2-i-yamm-embassy",
+      "title": "Baal Cycle 1.2 I: Baal curses Yamm; Yamm's envoys come to the assembly on Mount Ll; the gods bow their heads; 'Give up Baal!'; El makes Baal Yamm's slave; Anat and Athtart restrain Baal",
+      "motif": "curse-sceptre-broken-kingship-overthrown",
+      "ref": "KTU 1.2 I:7"
+     },
+     {
+      "unit": "ane-ktu-1-2-iii-house-for-yamm-athtar",
+      "title": "Baal Cycle 1.2 III: Kothar goes to El at the source of the rivers and is told to build Yamm's palace; Athtar complains he has no house and no wife; Shapsh warns him El will overturn his throne",
+      "motif": "palace-built-for-sea",
+      "ref": "KTU 1.2 III:7"
+     },
+     {
+      "unit": "ane-ktu-1-2-iv-baal-defeats-yamm",
+      "title": "Baal Cycle 1.2 IV: Kothar promises Baal eternal kingship and makes the clubs Yagrush and Ayyamur; they strike Yamm's shoulder, then his skull; Yamm falls; 'Yamm is dead, Baal shall be king'",
+      "motif": "named-weapons-of-divine-warrior",
+      "ref": "KTU 1.2 IV:12"
+     },
+     {
+      "unit": "ane-ktu-1-3-iii-anat-slain-monsters",
+      "title": "Baal Cycle 1.3 III 32 - IV 4: Anat trembles at the messengers: what enemy has risen against Baal? 'Did I not smite Yamm, beloved of El, River the great god, muzzle Tunnanu, smite the twisting serpent, Šalyaṭ of seven heads ...'",
+      "motif": "god-boasts-monsters-slain",
+      "ref": "KTU 1.3 III:39"
+     },
+     {
+      "unit": "ane-ktu-1-3-iv-anat-to-zaphon",
+      "title": "Baal Cycle 1.3 IV 5-55: the lads repeat Baal's message; Anat agrees to put war from the earth; she crosses a thousand fields to Ṣapan; Baal sends the women away and sets an ox before her; she bathes in dew; lament: Baal has no house like the gods; Anat will make El turn to her",
+      "motif": "god-has-no-house-like-the-gods",
+      "ref": "KTU 1.3 IV:49"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "ym II",
+    "gloss": "Meer",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 36,
+    "documents": 6,
+    "top_document": "KTU 1.4",
+    "top_share": 0.472,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-ii-anat-battle",
+      "title": "Baal Cycle 1.3 II: Anat shuts her house and slaughters the people of the seashore and the sunrise: heads like balls, hands like locusts, knee-deep in blood; she fights tables and chairs, rejoices, washes her hands and bathes in dew of heaven and oil of earth",
+      "motif": "goddess-massacres-in-valley",
+      "ref": "KTU 1.3 II:7"
+     },
+     {
+      "unit": "ane-ktu-1-3-vi-messengers-to-kothar",
+      "title": "Baal Cycle 1.3 VI: a gift for Athirat; Baal sends Gapn and Ugar across sea, mountains and the heights of heaven to Qudšu-Amrur and on to Kothar in Memphis and Caphtor",
+      "motif": "sea-and-mountains-wrapped-in-darkness",
+      "ref": "KTU 1.3 VI:8"
+     },
+     {
+      "unit": "ane-ktu-1-4-i-kothar-casts-gifts",
+      "title": "Baal Cycle 1.4 I: Baal has no house; prepare a gift for Athirat; Kothar goes up to the bellows and pours silver and gold into a canopy, couch, throne, footstool, sandals?, a table full of all the beasts of earth's foundations and a bowl with wild bulls",
+      "motif": "god-has-no-house-like-the-gods",
+      "ref": "KTU 1.4 I:14"
+     },
+     {
+      "unit": "ane-ktu-1-4-ii-athirat-by-sea",
+      "title": "Baal Cycle 1.4 II: Athirat with her spindle washes her garment in the sea; she trembles at the approach of Baal and Anat, 'have they come to slay my sons?', then sees the gleam of silver and gold and rejoices; she calls her fisherman",
+      "motif": "mother-goddess-spinning-by-sea",
+      "ref": "KTU 1.4 II:6"
+     },
+     {
+      "unit": "ane-ktu-1-4-iii-baal-insulted",
+      "title": "Baal Cycle 1.4 III: Baal complains he was mocked and spat on in the assembly of the sons of El; Baal hates three feasts: of shame, of strife and of the handmaids' lewdness; Baal and Anat give gifts to Athirat; feast",
+      "motif": "gift-to-goddess-before-request",
+      "ref": "KTU 1.4 III:25"
+     },
+     {
+      "unit": "ane-ktu-1-4-iv-athirat-before-el",
+      "title": "Baal Cycle 1.4 IV: Athirat rides a saddled donkey to El at the source of the rivers; El laughs and offers her food, wine or his love; 'our king is Baal'; Baal has no house; El: am I a slave, is Athirat a handmaid, to mould bricks?",
+      "motif": "goddess-rides-saddled-donkey",
+      "ref": "KTU 1.4 IV:2"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "ym I",
+    "gloss": "Tag",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 50,
+    "documents": 8,
+    "top_document": "KTU 1.17",
+    "top_share": 0.3,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-1-v-haddu-bound",
+      "title": "Baal Cycle 1.1 V: days pass; someone seeks Haddu on Ṣapan; 'you will bind me, Bull El, among the stones' (fragment)",
+      "motif": "days-pass-formula",
+      "ref": "KTU 1.1 V:2"
+     },
+     {
+      "unit": "ane-ktu-1-4-vi-palace-built-fire",
+      "title": "Baal Cycle 1.4 VI: 'you will come back to my word'; cedars from Lebanon and Sirion; fire burns in the house six days and on the seventh the silver has become plates and the gold bricks; Baal feasts his brothers, the seventy sons of Athirat",
+      "motif": "fire-burns-in-palace-seven-days",
+      "ref": "KTU 1.4 VI:24"
+     },
+     {
+      "unit": "ane-ktu-1-4-vii-window-opened-voice",
+      "title": "Baal Cycle 1.4 VII: Baal takes sixty-six cities; he orders the window opened, a rift in the clouds; he gives his holy voice, the earth quakes, the mountains tremble, his enemies flee to the forests; 'I alone rule the gods'; messengers to Mot",
+      "motif": "window-in-the-palace-dispute",
+      "ref": "KTU 1.4 VII:16"
+     },
+     {
+      "unit": "ane-ktu-1-6-ii-anat-destroys-mot",
+      "title": "Baal Cycle 1.6 II: like a cow's heart for her calf, Anat's heart longs for Baal; she seizes Mot by the hem: 'give me my brother'; Mot: 'I put him in my mouth like a lamb'; Anat splits Mot with a blade, winnows, burns, grinds and sows him; birds eat him",
+      "motif": "days-pass-formula",
+      "ref": "KTU 1.6 II:4"
+     },
+     {
+      "unit": "ane-ktu-1-6-v-mot-returns-seventh-year",
+      "title": "Baal Cycle 1.6 V: Baal strikes the sons of Athirat and sits on his throne; in the seventh year Mot returns: 'because of you I suffered shame, winnowing, burning, grinding, sifting, scorching, sowing in the sea; give me one of your brothers to eat'",
+      "motif": "god-returns-in-seventh-year",
+      "ref": "KTU 1.6 V:7"
+     },
+     {
+      "unit": "ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign",
+      "title": "El's instructions - sacrifice on the tower, muster of the whole people, seven-day march, siege of Udum, demand for Hurriya (Kirta II-III)",
+      "motif": "seven-day-march-formula",
+      "ref": "KTU 1.14 III:2"
+     }
+    ]
+   }
+  ],
+  "score": 58.28
+ },
+ {
+  "lemma": "ساحِر",
+  "form": "ساحِر",
+  "gloss": "magician",
+  "root": "سحر",
+  "narrative": "moses",
+  "quran_n": 21,
+  "quran_score": 15.31,
+  "synonym_skew": [],
+  "refs": [
+   "7:109",
+   "7:112",
+   "7:113",
+   "7:120",
+   "10:2",
+   "10:77",
+   "10:79",
+   "10:80",
+   "20:63",
+   "20:69",
+   "20:70",
+   "26:34"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "šḥr",
+    "gloss": "Göttername, Doppelgottheit šḥr w šlm",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 2,
+    "top_document": "KTU 1.23",
+    "top_share": 0.667,
+    "divine": true,
+    "units": [
+     {
+      "unit": "ane-ktu-1-12-i-devourers-born",
+      "title": "KTU 1.12 I: the handmaids complain to El that 'they' devour their liver; El laughs in his heart and sends them into the wilderness to crouch and bear the Devourers and Renders, horned like bulls, with Baal's face; Baal hunts them at the edge of the steppe, burning with desire",
+      "motif": "dawn-and-dusk-gods",
+      "ref": "KTU 1.12 I:7'"
+     },
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "birth-of-dawn-and-dusk",
+      "ref": "KTU 1.23 I:52"
+     }
+    ]
+   }
+  ],
+  "score": 51.04
+ },
+ {
+  "lemma": "أَيْمَن",
+  "form": "أَيْمَن",
+  "gloss": "right",
+  "root": "يمن",
+  "narrative": "moses",
+  "quran_n": 3,
+  "quran_score": 6.93,
+  "synonym_skew": [
+   "قَيِّم"
+  ],
+  "refs": [
+   "19:52",
+   "20:80",
+   "28:30"
+  ],
+  "ane": [
+   {
+    "lang": "akk",
+    "lemma": "imnu I",
+    "gloss": "subst. \"right (side, hand)\" \\[ZAG; 15\\] st. abs. *ana imen* \"on the right\"; *imnukka* \"in your right hand\"; \"right side\", *imnuššu* \"at his right\";",
+    "gloss_lang": "en",
+    "meaning": "checked",
+    "shared": [
+     "right"
+    ],
+    "n": 38,
+    "documents": 5,
+    "top_document": "BitMeseri SB",
+    "top_share": 0.684,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-anzu-ob-iii-combat",
+      "title": "Anzû (Old Babylonian) III: the combat, the arrow that turns back, Ea's advice to cut the wings",
+      "motif": "cut-off-wings-of-monster-bird",
+      "ref": "Anzu OB III:a+20"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-it-marduk-prayer",
+      "title": "Prayer to Marduk: 'let me live, establish truth in my mouth, my god at my right' (Bit meseri IT 1-27)",
+      "motif": "personal-god-at-right-goddess-at-left",
+      "ref": "BitMeseri SB IT:16"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-it-standards-and-figures",
+      "title": "The fourteen life-named standards, the Winged Ones, twin fighters and gate guardians (Bit meseri IT 151-259)",
+      "motif": "named-stelae-at-temple",
+      "ref": "BitMeseri SB IT:160"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-fi-figurine-list",
+      "title": "Figurine list: number, form, attributes, place, recitation and ration of each figure (Bit meseri FI)",
+      "motif": "apotropaic-figurines-guard-house",
+      "ref": "BitMeseri SB FI:2"
+     },
+     {
+      "unit": "ane-ee-sb-4-arming",
+      "title": "Marduk arms himself and rides the storm chariot (Enuma elish IV 35-64)",
+      "motif": "storm-god-arms-for-combat",
+      "ref": "Ee SB IV:37"
+     },
+     {
+      "unit": "ane-ee-sb-4-cosmos-from-carcass",
+      "title": "Captives netted, Tablet of Destinies taken, Tiamat split into heaven (Enuma elish IV 105-146)",
+      "motif": "catalogue-of-slain-monsters",
+      "ref": "Ee SB IV:116"
+     }
+    ]
+   },
+   {
+    "lang": "akk",
+    "lemma": "imna I",
+    "gloss": "adv. \"on the right\" j/NB, NA \\[ZAG; 15\\];",
+    "gloss_lang": "en",
+    "meaning": "checked",
+    "shared": [
+     "right"
+    ],
+    "n": 21,
+    "documents": 8,
+    "top_document": "BitMeseri SB",
+    "top_share": 0.571,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-anzu-sb-2-ea-advice",
+      "title": "Sharur carries the report to Ea; Ea's tactic: tire him, cut his pinions (Anzû SB II 70-154)",
+      "motif": "messenger-repeats-message-verbatim",
+      "ref": "Anzu SB II:110"
+     },
+     {
+      "unit": "ane-anzu-sb-3-anzu-slain",
+      "title": "Anzu's wings cut, the arrow through his heart; the tablet recovered and the gods rejoice (Anzû SB III 1-31)",
+      "motif": "cut-wings-to-break-magic",
+      "ref": "Anzu SB III:11"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-it-standards-and-figures",
+      "title": "The fourteen life-named standards, the Winged Ones, twin fighters and gate guardians (Bit meseri IT 151-259)",
+      "motif": "named-stelae-at-temple",
+      "ref": "BitMeseri SB IT:218"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-it-watchmen-and-dogs",
+      "title": "The watchmen of Ea and Asalluhi and the dogs of four colours at the gate (Bit meseri IT 399-443')",
+      "motif": "colored-dogs-guard-house",
+      "ref": "BitMeseri SB IT:413"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-fi-figurine-list",
+      "title": "Figurine list: number, form, attributes, place, recitation and ration of each figure (Bit meseri FI)",
+      "motif": "apotropaic-figurines-guard-house",
+      "ref": "BitMeseri SB FI:9"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-rta-ritual",
+      "title": "Ritual tablet: the room facing sunrise, drawn sages and dogs, mouth-washing of images, scapegoat and Pazuzu (Bit meseri RTA)",
+      "motif": "apotropaic-figurines-guard-house",
+      "ref": "BitMeseri SB RTA:6"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "ymn",
+    "gloss": "rechte Seite, rechte Hand, rechts",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 16,
+    "documents": 11,
+    "top_document": "KTU 1.4",
+    "top_share": 0.188,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-2-i-yamm-embassy",
+      "title": "Baal Cycle 1.2 I: Baal curses Yamm; Yamm's envoys come to the assembly on Mount Ll; the gods bow their heads; 'Give up Baal!'; El makes Baal Yamm's slave; Anat and Athtart restrain Baal",
+      "motif": "goddesses-restrain-angry-god",
+      "ref": "KTU 1.2 I:39"
+     },
+     {
+      "unit": "ane-ktu-1-3-v-anat-threatens-el",
+      "title": "Baal Cycle 1.3 V: Anat threatens to bloody El's grey beard unless Baal gets a house; she storms into El's tent; El answers from his seven chambers; 'your word is wise; our king is Baal, our judge, none above him'; Shapsh glows, the heavens weak in Mot's hand",
+      "motif": "goddess-threatens-el-grey-beard-blood",
+      "ref": "KTU 1.3 V:22"
+     },
+     {
+      "unit": "ane-ktu-1-4-ii-athirat-by-sea",
+      "title": "Baal Cycle 1.4 II: Athirat with her spindle washes her garment in the sea; she trembles at the approach of Baal and Anat, 'have they come to slay my sons?', then sees the gleam of silver and gold and rejoices; she calls her fisherman",
+      "motif": "mother-goddess-spinning-by-sea",
+      "ref": "KTU 1.4 II:4"
+     },
+     {
+      "unit": "ane-ktu-1-4-v-house-granted",
+      "title": "Baal Cycle 1.4 V: El's grey beard instructs him; let Baal give his rain, his voice in the clouds and his lightning; let a caravan bring silver, gold and lapis; Anat brings the good news; Kothar arrives and sits at Baal's right; 'shall I put a window in the house?' - 'No'",
+      "motif": "craftsman-seated-at-right-hand",
+      "ref": "KTU 1.4 V:47"
+     },
+     {
+      "unit": "ane-ktu-1-4-vii-window-opened-voice",
+      "title": "Baal Cycle 1.4 VII: Baal takes sixty-six cities; he orders the window opened, a rift in the clouds; he gives his holy voice, the earth quakes, the mountains tremble, his enemies flee to the forests; 'I alone rule the gods'; messengers to Mot",
+      "motif": "cedar-spear-in-gods-right-hand",
+      "ref": "KTU 1.4 VII:41"
+     },
+     {
+      "unit": "ane-ktu-1-10-ii-baal-hunts-anat-flies",
+      "title": "KTU 1.10 II: Baal is not in his house; he takes his bow and arrows and goes to the marsh of Šamak, full of wild bulls; Anat lifts her wings and flies after him; Baal kneels before her: 'may your life be long; Baal will anoint your horns'; she sees a cow",
+      "motif": "storm-god-hunts-with-bow",
+      "ref": "KTU 1.10 II:7'"
+     }
+    ]
+   }
+  ],
+  "score": 11.67
+ },
+ {
+  "lemma": "أُمْطِرَتْ",
+  "form": "أُمْطِرَتْ",
+  "gloss": "rained",
+  "root": "مطر",
+  "narrative": "lot",
+  "quran_n": 7,
+  "quran_score": 6.19,
+  "synonym_skew": [],
+  "refs": [
+   "7:84",
+   "8:32",
+   "11:82",
+   "15:74",
+   "25:40",
+   "26:173",
+   "27:58"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "m-ṭ-r II",
+    "gloss": "regnen; regnen lassen, Regen spenden",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 2,
+    "top_document": "KTU 1.6",
+    "top_share": 0.667,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-6-iii-iv-el-dream-baal-lives",
+      "title": "Baal Cycle 1.6 III-IV: in El's dream the heavens rain oil and the wadis run with honey; El laughs: 'Baal lives, the prince, lord of the earth, exists'; 'the furrows of the fields are parched, O Shapsh: where is mighty Baal?'; Shapsh will seek him",
+      "motif": "dream-heavens-rain-oil-wadis-honey",
+      "ref": "KTU 1.6 III:6"
+     },
+     {
+      "unit": "ane-ktu-1-19-i-bow-lost-drought",
+      "title": "The bow is broken and lost; Danel at the gate; Pughat sees the withering; Danel's rain spell; seven years without Baal (Aqhat 1.19 I)",
+      "motif": "hero-adjures-clouds-for-rain",
+      "ref": "KTU 1.19 I:41"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "mṭr I",
+    "gloss": "Regen",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 8,
+    "documents": 3,
+    "top_document": "KTU 1.16",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-4-v-house-granted",
+      "title": "Baal Cycle 1.4 V: El's grey beard instructs him; let Baal give his rain, his voice in the clouds and his lightning; let a caravan bring silver, gold and lapis; Anat brings the good news; Kothar arrives and sits at Baal's right; 'shall I put a window in the house?' - 'No'",
+      "motif": "storm-gods-season-of-rain-and-thunder",
+      "ref": "KTU 1.4 V:6"
+     },
+     {
+      "unit": "ane-ktu-1-5-v-baal-descends-heifer",
+      "title": "Baal Cycle 1.5 V: 'take your clouds, your wind, your rain, your seven lads, your eight boars, Pidray and Tallay, and go down; be counted among those who go down to the earth'; Baal loves a heifer in the field at the shore of death, seventy-seven times; she bears a boy",
+      "motif": "storm-god-descends-with-clouds-and-rain",
+      "ref": "KTU 1.5 V:8"
+     },
+     {
+      "unit": "ane-ktu-1-16-iii-drought",
+      "title": "Search for Baal's rain; the ploughmen look up, bread, wine and oil exhausted (Kirta 1.16 III)",
+      "motif": "earth-searched-for-baals-rain",
+      "ref": "KTU 1.16 III:5'"
+     }
+    ]
+   }
+  ],
+  "score": 10.32
+ },
+ {
+  "lemma": "مَطَر",
+  "form": "مَطَر",
+  "gloss": "rain",
+  "root": "مطر",
+  "narrative": "lot",
+  "quran_n": 5,
+  "quran_score": 5.97,
+  "synonym_skew": [
+   "سَماء"
+  ],
+  "refs": [
+   "4:102",
+   "7:84",
+   "25:40",
+   "26:173",
+   "27:58"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "m-ṭ-r II",
+    "gloss": "regnen; regnen lassen, Regen spenden",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 2,
+    "top_document": "KTU 1.6",
+    "top_share": 0.667,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-6-iii-iv-el-dream-baal-lives",
+      "title": "Baal Cycle 1.6 III-IV: in El's dream the heavens rain oil and the wadis run with honey; El laughs: 'Baal lives, the prince, lord of the earth, exists'; 'the furrows of the fields are parched, O Shapsh: where is mighty Baal?'; Shapsh will seek him",
+      "motif": "dream-heavens-rain-oil-wadis-honey",
+      "ref": "KTU 1.6 III:6"
+     },
+     {
+      "unit": "ane-ktu-1-19-i-bow-lost-drought",
+      "title": "The bow is broken and lost; Danel at the gate; Pughat sees the withering; Danel's rain spell; seven years without Baal (Aqhat 1.19 I)",
+      "motif": "hero-adjures-clouds-for-rain",
+      "ref": "KTU 1.19 I:41"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "mṭr I",
+    "gloss": "Regen",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 8,
+    "documents": 3,
+    "top_document": "KTU 1.16",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-4-v-house-granted",
+      "title": "Baal Cycle 1.4 V: El's grey beard instructs him; let Baal give his rain, his voice in the clouds and his lightning; let a caravan bring silver, gold and lapis; Anat brings the good news; Kothar arrives and sits at Baal's right; 'shall I put a window in the house?' - 'No'",
+      "motif": "storm-gods-season-of-rain-and-thunder",
+      "ref": "KTU 1.4 V:6"
+     },
+     {
+      "unit": "ane-ktu-1-5-v-baal-descends-heifer",
+      "title": "Baal Cycle 1.5 V: 'take your clouds, your wind, your rain, your seven lads, your eight boars, Pidray and Tallay, and go down; be counted among those who go down to the earth'; Baal loves a heifer in the field at the shore of death, seventy-seven times; she bears a boy",
+      "motif": "storm-god-descends-with-clouds-and-rain",
+      "ref": "KTU 1.5 V:8"
+     },
+     {
+      "unit": "ane-ktu-1-16-iii-drought",
+      "title": "Search for Baal's rain; the ploughmen look up, bread, wine and oil exhausted (Kirta 1.16 III)",
+      "motif": "earth-searched-for-baals-rain",
+      "ref": "KTU 1.16 III:5'"
+     }
+    ]
+   }
+  ],
+  "score": 9.95
+ },
+ {
+  "lemma": "يَسْتَحْىِۦ",
+  "form": "يَسْتَحْىِۦ",
+  "gloss": "live",
+  "root": "حيي",
+  "narrative": "moses",
+  "quran_n": 8,
+  "quran_score": 5.13,
+  "synonym_skew": [
+   "سَكَنَ",
+   "أَضاعُ"
+  ],
+  "refs": [
+   "2:26",
+   "2:49",
+   "7:127",
+   "7:141",
+   "14:6",
+   "28:4",
+   "33:53",
+   "40:25"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ḥy-I",
+    "gloss": "Leben",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 4,
+    "documents": 2,
+    "top_document": "KTU 1.16",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-16-i-son-laments-do-gods-die",
+      "title": "Ilihau laments over his dying father - 'shall gods die?'; Kirta sends for his daughter Thitmanat (Kirta 1.16 I)",
+      "motif": "do-gods-die-lament",
+      "ref": "KTU 1.16 I:14"
+     },
+     {
+      "unit": "ane-ktu-1-16-ii-sister-laments",
+      "title": "Thitmanat learns the truth and laments her father (Kirta 1.16 II)",
+      "motif": "do-gods-die-lament",
+      "ref": "KTU 1.16 II:36"
+     },
+     {
+      "unit": "ane-ktu-1-17-vi-anat-covets-bow",
+      "title": "At the feast Anat covets Aqhat's bow, offers wealth and then immortality; he refuses and mocks her; she goes to El (Aqhat 1.17 VI)",
+      "motif": "goddess-offers-hero-immortality",
+      "ref": "KTU 1.17 VI:26'"
+     }
+    ]
+   }
+  ],
+  "score": 7.7
+ },
+ {
+  "lemma": "آنَسَ",
+  "form": "آنَسَ",
+  "gloss": "perceive",
+  "root": "أنس",
+  "narrative": "moses",
+  "quran_n": 4,
+  "quran_score": 4.33,
+  "synonym_skew": [
+   "يَشْعُرُ"
+  ],
+  "refs": [
+   "4:6",
+   "20:10",
+   "27:7",
+   "28:29"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ˀ-n-š I(?)",
+    "gloss": "unnachgiebig sein, unerbittlich sein",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 5,
+    "documents": 4,
+    "top_document": "KTU 1.2",
+    "top_share": 0.4,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-2-i-yamm-embassy",
+      "title": "Baal Cycle 1.2 I: Baal curses Yamm; Yamm's envoys come to the assembly on Mount Ll; the gods bow their heads; 'Give up Baal!'; El makes Baal Yamm's slave; Anat and Athtart restrain Baal",
+      "motif": "assembly-of-holy-ones",
+      "ref": "KTU 1.2 I:38"
+     },
+     {
+      "unit": "ane-ktu-1-3-v-anat-threatens-el",
+      "title": "Baal Cycle 1.3 V: Anat threatens to bloody El's grey beard unless Baal gets a house; she storms into El's tent; El answers from his seven chambers; 'your word is wise; our king is Baal, our judge, none above him'; Shapsh glows, the heavens weak in Mot's hand",
+      "motif": "el-answers-from-seven-chambers",
+      "ref": "KTU 1.3 V:27"
+     },
+     {
+      "unit": "ane-ktu-1-6-v-mot-returns-seventh-year",
+      "title": "Baal Cycle 1.6 V: Baal strikes the sons of Athirat and sits on his throne; in the seventh year Mot returns: 'because of you I suffered shame, winnowing, burning, grinding, sifting, scorching, sowing in the sea; give me one of your brothers to eat'",
+      "motif": "death-demands-substitute-to-eat",
+      "ref": "KTU 1.6 V:21"
+     },
+     {
+      "unit": "ane-ktu-1-18-i-anat-threatens-el",
+      "title": "Anat threatens El and gets leave; she offers Aqhat to be his sister and teach him to hunt (Aqhat 1.18 I)",
+      "motif": "high-god-yields-to-violent-daughter",
+      "ref": "KTU 1.18 I:16"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "anš",
+    "gloss": "Sehne(n) des Hüftbereichs, Hüftnerv, Ischiasnerv (fem. Genus)",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 3,
+    "top_document": "KTU 1.3",
+    "top_share": 0.333,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-iii-anat-slain-monsters",
+      "title": "Baal Cycle 1.3 III 32 - IV 4: Anat trembles at the messengers: what enemy has risen against Baal? 'Did I not smite Yamm, beloved of El, River the great god, muzzle Tunnanu, smite the twisting serpent, Šalyaṭ of seven heads ...'",
+      "motif": "goddess-trembles-at-messengers-approach",
+      "ref": "KTU 1.3 III:35"
+     },
+     {
+      "unit": "ane-ktu-1-4-ii-athirat-by-sea",
+      "title": "Baal Cycle 1.4 II: Athirat with her spindle washes her garment in the sea; she trembles at the approach of Baal and Anat, 'have they come to slay my sons?', then sees the gleam of silver and gold and rejoices; she calls her fisherman",
+      "motif": "loins-shake-in-terror-at-news",
+      "ref": "KTU 1.4 II:20"
+     },
+     {
+      "unit": "ane-ktu-1-19-ii-danel-kisses-the-ears",
+      "title": "Pughat saddles the donkey; Danel kisses the surviving stalks; messengers bring news of Aqhat's death (Aqhat 1.19 II)",
+      "motif": "feet-shake-loins-break-at-bad-news",
+      "ref": "KTU 1.19 II:47"
+     }
+    ]
+   }
+  ],
+  "score": 6.06
+ },
+ {
+  "lemma": "مُسَحَّر",
+  "form": "مُسَحَّر",
+  "gloss": "bewitched",
+  "root": "سحر",
+  "narrative": "salih+shuayb",
+  "quran_n": 2,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "26:153",
+   "26:185"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "šḥr",
+    "gloss": "Göttername, Doppelgottheit šḥr w šlm",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 2,
+    "top_document": "KTU 1.23",
+    "top_share": 0.667,
+    "divine": true,
+    "units": [
+     {
+      "unit": "ane-ktu-1-12-i-devourers-born",
+      "title": "KTU 1.12 I: the handmaids complain to El that 'they' devour their liver; El laughs in his heart and sends them into the wilderness to crouch and bear the Devourers and Renders, horned like bulls, with Baal's face; Baal hunts them at the edge of the steppe, burning with desire",
+      "motif": "dawn-and-dusk-gods",
+      "ref": "KTU 1.12 I:7'"
+     },
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "birth-of-dawn-and-dusk",
+      "ref": "KTU 1.23 I:52"
+     }
+    ]
+   }
+  ],
+  "score": 3.33
+ },
+ {
+  "lemma": "ناظِر",
+  "form": "ناظِر",
+  "gloss": "observer",
+  "root": "نظر",
+  "narrative": "moses",
+  "quran_n": 5,
+  "quran_score": 1.51,
+  "synonym_skew": [],
+  "refs": [
+   "2:69",
+   "7:108",
+   "15:16",
+   "26:33",
+   "33:53"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "nġr III",
+    "gloss": "Wächter",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 5,
+    "documents": 1,
+    "top_document": "KTU 1.23",
+    "top_share": 1.0,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "wanderers-ask-guard-of-sown-land-for-bread-and-wine",
+      "ref": "KTU 1.23 I:68"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "n-ġ-r I",
+    "gloss": "*nẓr, beschützen; Imp. m.du. nġr, gebt Acht!; sich hüten, sich in Acht nehmen",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 2,
+    "top_document": "KTU 1.6",
+    "top_share": 0.667,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-4-viii-messengers-to-mot",
+      "title": "Baal Cycle 1.4 VIII: Baal's messengers are to go to the mountains at earth's edge, lift them, and go down to the 'house of freedom' and Mot's city Miry: a pit his throne, filth his land; beware lest Mot put you in his mouth like a lamb; colophon of Ilimilku",
+      "motif": "death-city-pit-throne-mire-land",
+      "ref": "KTU 1.4 VIII:14"
+     },
+     {
+      "unit": "ane-ktu-1-6-iii-iv-el-dream-baal-lives",
+      "title": "Baal Cycle 1.6 III-IV: in El's dream the heavens rain oil and the wadis run with honey; El laughs: 'Baal lives, the prince, lord of the earth, exists'; 'the furrows of the fields are parched, O Shapsh: where is mighty Baal?'; Shapsh will seek him",
+      "motif": "letter-greeting-gods-guard-you",
+      "ref": "KTU 1.6 IV:23"
+     }
+    ]
+   }
+  ],
+  "score": 3.02
+ },
+ {
+  "lemma": "حُوت",
+  "form": "حُوت",
+  "gloss": "fish",
+  "root": "حوت",
+  "narrative": "moses",
+  "quran_n": 5,
+  "quran_score": 1.51,
+  "synonym_skew": [],
+  "refs": [
+   "7:163",
+   "18:61",
+   "18:63",
+   "37:142",
+   "68:48"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ḥyt",
+    "gloss": "Verkündigung, Bekundung",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 2,
+    "top_document": "KTU 1.3",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-v-anat-threatens-el",
+      "title": "Baal Cycle 1.3 V: Anat threatens to bloody El's grey beard unless Baal gets a house; she storms into El's tent; El answers from his seven chambers; 'your word is wise; our king is Baal, our judge, none above him'; Shapsh glows, the heavens weak in Mot's hand",
+      "motif": "el-wise-forever",
+      "ref": "KTU 1.3 V:31"
+     },
+     {
+      "unit": "ane-ktu-1-4-iv-athirat-before-el",
+      "title": "Baal Cycle 1.4 IV: Athirat rides a saddled donkey to El at the source of the rivers; El laughs and offers her food, wine or his love; 'our king is Baal'; Baal has no house; El: am I a slave, is Athirat a handmaid, to mould bricks?",
+      "motif": "el-wise-forever",
+      "ref": "KTU 1.4 IV:42"
+     }
+    ]
+   }
+  ],
+  "score": 2.27
+ },
+ {
+  "lemma": "سَمِين",
+  "form": "سَمِين",
+  "gloss": "fat",
+  "root": "سمن",
+  "narrative": "abraham+joseph",
+  "quran_n": 3,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "12:43",
+   "12:46",
+   "51:26"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "šmn III",
+    "gloss": "fett",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 1,
+    "top_document": "KTU 1.15",
+    "top_share": 1.0,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-15-iv-feasts-and-weeping",
+      "title": "Hurriya's feasts for the nobles; weeping for the dying Kirta and talk of succession (Kirta 1.15 IV-VI)",
+      "motif": "queen-prepares-feast-for-nobles",
+      "ref": "KTU 1.15 IV:4'"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "šmn I",
+    "gloss": "Öl, (tierisches) Fett",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 7,
+    "documents": 3,
+    "top_document": "KTU 1.3",
+    "top_share": 0.429,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-ii-anat-battle",
+      "title": "Baal Cycle 1.3 II: Anat shuts her house and slaughters the people of the seashore and the sunrise: heads like balls, hands like locusts, knee-deep in blood; she fights tables and chairs, rejoices, washes her hands and bathes in dew of heaven and oil of earth",
+      "motif": "goddess-washes-hands-of-blood",
+      "ref": "KTU 1.3 II:31"
+     },
+     {
+      "unit": "ane-ktu-1-3-iv-anat-to-zaphon",
+      "title": "Baal Cycle 1.3 IV 5-55: the lads repeat Baal's message; Anat agrees to put war from the earth; she crosses a thousand fields to Ṣapan; Baal sends the women away and sets an ox before her; she bathes in dew; lament: Baal has no house like the gods; Anat will make El turn to her",
+      "motif": "blessing-of-dew-and-fatness",
+      "ref": "KTU 1.3 IV:43"
+     },
+     {
+      "unit": "ane-ktu-1-6-iii-iv-el-dream-baal-lives",
+      "title": "Baal Cycle 1.6 III-IV: in El's dream the heavens rain oil and the wadis run with honey; El laughs: 'Baal lives, the prince, lord of the earth, exists'; 'the furrows of the fields are parched, O Shapsh: where is mighty Baal?'; Shapsh will seek him",
+      "motif": "dream-heavens-rain-oil-wadis-honey",
+      "ref": "KTU 1.6 III:6"
+     },
+     {
+      "unit": "ane-ktu-1-16-iii-drought",
+      "title": "Search for Baal's rain; the ploughmen look up, bread, wine and oil exhausted (Kirta 1.16 III)",
+      "motif": "kings-sickness-brings-drought",
+      "ref": "KTU 1.16 III:1'"
+     }
+    ]
+   },
+   {
+    "lang": "akk",
+    "lemma": "šamnu I",
+    "gloss": "\"oil; fat; cream\" \\[Ì(.MEŠ); Ì.GIŠ (*cf.* also *ellu* II)\\] culinary and for anointing (mostly sesame, in Ass. occas. olive); for divination; *š. ṭābu(m)* \"fine",
+    "gloss_lang": "en",
+    "meaning": "checked",
+    "shared": [
+     "fat"
+    ],
+    "n": 33,
+    "documents": 17,
+    "top_document": "Gilg SB",
+    "top_share": 0.273,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-adapa-mb-a-south-wind",
+      "title": "Adapa (Middle Babylonian), 1'-38': the broken wing of the South Wind and Ea's instructions",
+      "motif": "god-warns-of-food-and-water-of-death",
+      "ref": "Adapa MB –:36'"
+     },
+     {
+      "unit": "ane-adapa-mb-b-before-anu",
+      "title": "Adapa (Middle Babylonian), 39'-78': Adapa before Anu refuses the bread and water of life",
+      "motif": "food-and-water-of-life-refused",
+      "ref": "Adapa MB –:72'"
+     },
+     {
+      "unit": "ane-adapa-sb-c-outcome",
+      "title": "Adapa (Standard Babylonian), d+1-f+10: the refusal, Anu's laughter, the view of heaven, the cure for the wind's disease",
+      "motif": "food-and-water-of-life-refused",
+      "ref": "Adapa SB –:e+2"
+     },
+     {
+      "unit": "ane-atr-sb-3-birth",
+      "title": "SB version: Mama renamed; the fourteen pieces, the designs of man and woman, the birth brick (Atra-hasis SB III)",
+      "motif": "birth-goddesses-assist-creation-of-humans",
+      "ref": "Atr SB III:33"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-it-clay-man-and-woman",
+      "title": "More sages and standards; the clay man and woman: 'I made you from the clay of Ea, you are godlike' (Bit meseri IT 348-398)",
+      "motif": "maker-creates-and-unmakes",
+      "ref": "BitMeseri SB IT:360"
+     },
+     {
+      "unit": "ane-bitmeseri-sb-it-goat-substitute",
+      "title": "The black goat slaughtered and its hide spread over the patient; 'may he be pure as heaven' (Bit meseri IT 444'-472')",
+      "motif": "goat-substitute-for-patient",
+      "ref": "BitMeseri SB IT:459'"
+     }
+    ]
+   }
+  ],
+  "score": 2.0
+ },
+ {
+  "lemma": "أَبْرَحَ",
+  "form": "أَبْرَحَ",
+  "gloss": "cease",
+  "root": "برح",
+  "narrative": "joseph+moses",
+  "quran_n": 3,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "12:80",
+   "18:60",
+   "20:91"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "b-r-ḥ II",
+    "gloss": "fliehend, dahineilend",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 1,
+    "top_document": "KTU 1.5",
+    "top_share": 1.0,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-5-i-mot-threatens-baal",
+      "title": "Baal Cycle 1.5 I: Mot's message: though you smote Lotan the fleeing serpent, the twisting serpent, Šalyaṭ of seven heads, you shall go down into my throat; my appetite is the lion's of the steppe, the whale's in the sea; you did not invite me to the feast",
+      "motif": "leviathan-fleeing-twisting-serpent",
+      "ref": "KTU 1.5 I:1"
+     }
+    ]
+   }
+  ],
+  "score": 2.0
+ },
+ {
+  "lemma": "عالي",
+  "form": "عالي",
+  "gloss": "haughty",
+  "root": "علو",
+  "narrative": "adam+moses",
+  "quran_n": 2,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "23:46",
+   "38:75"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ˁl III",
+    "gloss": "Säugling, Kleinkind, Tierjunges",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 1,
+    "top_document": "KTU 1.19",
+    "top_share": 1.0,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-19-iv-pughat-avenges",
+      "title": "Pughat asks her father's blessing to avenge her brother; armed under a woman's dress, she plies Yatpan with wine (Aqhat 1.19 IV)",
+      "motif": "daughter-asks-blessing-to-avenge-brother",
+      "ref": "KTU 1.19 IV:35"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "ˁl II",
+    "gloss": "oben",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 6,
+    "documents": 3,
+    "top_document": "KTU 1.3",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-i-feast-on-zaphon",
+      "title": "Baal Cycle 1.3 I: a servant feasts Baal, lord of the earth: brisket carved, a holy cup no woman may see, a thousand jars of wine; a youth sings of Baal on the heights of Ṣapan; Baal looks on his daughters",
+      "motif": "divine-singer-sings-on-mountain",
+      "ref": "KTU 1.3 I:21"
+     },
+     {
+      "unit": "ane-ktu-1-3-ii-anat-battle",
+      "title": "Baal Cycle 1.3 II: Anat shuts her house and slaughters the people of the seashore and the sunrise: heads like balls, hands like locusts, knee-deep in blood; she fights tables and chairs, rejoices, washes her hands and bathes in dew of heaven and oil of earth",
+      "motif": "heads-and-hands-as-goddess-ornaments",
+      "ref": "KTU 1.3 II:10"
+     },
+     {
+      "unit": "ane-ktu-1-3-v-anat-threatens-el",
+      "title": "Baal Cycle 1.3 V: Anat threatens to bloody El's grey beard unless Baal gets a house; she storms into El's tent; El answers from his seven chambers; 'your word is wise; our king is Baal, our judge, none above him'; Shapsh glows, the heavens weak in Mot's hand",
+      "motif": "our-king-none-above-him",
+      "ref": "KTU 1.3 V:33"
+     },
+     {
+      "unit": "ane-ktu-1-17-i-danel-incubation-and-blessing",
+      "title": "Childless Danel feeds the gods for seven days; Baal intercedes; El blesses him with a son who will do a son's duties (Aqhat 1.17 I-II)",
+      "motif": "promised-father-laughs-for-joy",
+      "ref": "KTU 1.17 II:9'"
+     },
+     {
+      "unit": "ane-ktu-1-19-ii-danel-kisses-the-ears",
+      "title": "Pughat saddles the donkey; Danel kisses the surviving stalks; messengers bring news of Aqhat's death (Aqhat 1.19 II)",
+      "motif": "feet-shake-loins-break-at-bad-news",
+      "ref": "KTU 1.19 II:45"
+     },
+     {
+      "unit": "ane-ktu-1-19-iv-pughat-avenges",
+      "title": "Pughat asks her father's blessing to avenge her brother; armed under a woman's dress, she plies Yatpan with wine (Aqhat 1.19 IV)",
+      "motif": "woman-armed-under-womans-dress",
+      "ref": "KTU 1.19 IV:46"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "ˁl I",
+    "gloss": "auf, zu Lasten von; für(?)",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 61,
+    "documents": 11,
+    "top_document": "KTU 1.19",
+    "top_share": 0.197,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-1-iv-el-names-yamm",
+      "title": "Baal Cycle 1.1 IV: El proclaims the name of his son Yamm, 'beloved of El', promises a house of silver and orders him to drive Baal from his throne; El's feast",
+      "motif": "high-god-names-favoured-son",
+      "ref": "KTU 1.1 IV:19"
+     },
+     {
+      "unit": "ane-ktu-1-2-i-yamm-embassy",
+      "title": "Baal Cycle 1.2 I: Baal curses Yamm; Yamm's envoys come to the assembly on Mount Ll; the gods bow their heads; 'Give up Baal!'; El makes Baal Yamm's slave; Anat and Athtart restrain Baal",
+      "motif": "divine-council",
+      "ref": "KTU 1.2 I:21"
+     },
+     {
+      "unit": "ane-ktu-1-4-ii-athirat-by-sea",
+      "title": "Baal Cycle 1.4 II: Athirat with her spindle washes her garment in the sea; she trembles at the approach of Baal and Anat, 'have they come to slay my sons?', then sees the gleam of silver and gold and rejoices; she calls her fisherman",
+      "motif": "fisherman-of-the-goddess",
+      "ref": "KTU 1.4 II:33"
+     },
+     {
+      "unit": "ane-ktu-1-4-iv-athirat-before-el",
+      "title": "Baal Cycle 1.4 IV: Athirat rides a saddled donkey to El at the source of the rivers; El laughs and offers her food, wine or his love; 'our king is Baal'; Baal has no house; El: am I a slave, is Athirat a handmaid, to mould bricks?",
+      "motif": "our-king-none-above-him",
+      "ref": "KTU 1.4 IV:44"
+     },
+     {
+      "unit": "ane-ktu-1-4-vii-window-opened-voice",
+      "title": "Baal Cycle 1.4 VII: Baal takes sixty-six cities; he orders the window opened, a rift in the clouds; he gives his holy voice, the earth quakes, the mountains tremble, his enemies flee to the forests; 'I alone rule the gods'; messengers to Mot",
+      "motif": "window-in-the-palace-dispute",
+      "ref": "KTU 1.4 VII:20"
+     },
+     {
+      "unit": "ane-ktu-1-4-viii-messengers-to-mot",
+      "title": "Baal Cycle 1.4 VIII: Baal's messengers are to go to the mountains at earth's edge, lift them, and go down to the 'house of freedom' and Mot's city Miry: a pit his throne, filth his land; beware lest Mot put you in his mouth like a lamb; colophon of Ilimilku",
+      "motif": "messengers-to-death-lift-mountains",
+      "ref": "KTU 1.4 VIII:5"
+     }
+    ]
+   }
+  ],
+  "score": 2.0
+ },
+ {
+  "lemma": "صَبِيّ",
+  "form": "صَبِيّ",
+  "gloss": "child",
+  "root": "صبو",
+  "narrative": "jesus-mary+zechariah-john",
+  "quran_n": 2,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "19:12",
+   "19:29"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ṣbu II",
+    "gloss": "Heer, Soldat(en)",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 7,
+    "documents": 2,
+    "top_document": "KTU 1.14",
+    "top_share": 0.857,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-ii-anat-battle",
+      "title": "Baal Cycle 1.3 II: Anat shuts her house and slaughters the people of the seashore and the sunrise: heads like balls, hands like locusts, knee-deep in blood; she fights tables and chairs, rejoices, washes her hands and bathes in dew of heaven and oil of earth",
+      "motif": "goddess-battles-tables-and-chairs",
+      "ref": "KTU 1.3 II:22"
+     },
+     {
+      "unit": "ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign",
+      "title": "El's instructions - sacrifice on the tower, muster of the whole people, seven-day march, siege of Udum, demand for Hurriya (Kirta II-III)",
+      "motif": "army-numberless-like-storm-and-autumn-rain",
+      "ref": "KTU 1.14 II:35"
+     },
+     {
+      "unit": "ane-ktu-1-14-iii-kirta-wakes-and-obeys",
+      "title": "Kirta wakes from the dream and carries out El's instructions; the army marches (Kirta III-IV)",
+      "motif": "god-instructs-in-dream",
+      "ref": "KTU 1.14 IV:13"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "ṣbu I ṣbia (Akk.; Sonderform)",
+    "gloss": "immer in der Fügung ṣbu špš Sonnenaufgang; alt.: Sonnenuntergang (so die traditionelle Deutung)",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 3,
+    "documents": 3,
+    "top_document": "KTU 1.15",
+    "top_share": 0.333,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-15-iv-feasts-and-weeping",
+      "title": "Hurriya's feasts for the nobles; weeping for the dying Kirta and talk of succession (Kirta 1.15 IV-VI)",
+      "motif": "death-as-reaching-sunset",
+      "ref": "KTU 1.15 V:19'"
+     }
+    ]
+   }
+  ],
+  "score": 1.86
+ },
+ {
+  "lemma": "مُبْتَلِي",
+  "form": "مُبْتَلِي",
+  "gloss": "test",
+  "root": "بلو",
+  "narrative": "noah+saul",
+  "quran_n": 2,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "2:249",
+   "23:30"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "bl II",
+    "gloss": "Nichtsein",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 5,
+    "documents": 3,
+    "top_document": "KTU 1.14",
+    "top_share": 0.6,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-6-i-athtar-on-throne",
+      "title": "Baal Cycle 1.6 I 32-67: Anat tells El 'let Athirat rejoice, Baal is dead'; El asks Athirat for one of her sons to make king; Athtar the Terrible ascends Ṣapan, but his feet do not reach the footstool nor his head the top: 'I cannot be king on Ṣapan'; he rules the earth",
+      "motif": "high-god-orders-rival-driven-from-throne",
+      "ref": "KTU 1.6 I:48"
+     },
+     {
+      "unit": "ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign",
+      "title": "El's instructions - sacrifice on the tower, muster of the whole people, seven-day march, siege of Udum, demand for Hurriya (Kirta II-III)",
+      "motif": "army-numberless-like-storm-and-autumn-rain",
+      "ref": "KTU 1.14 II:37"
+     },
+     {
+      "unit": "ane-ktu-1-17-i-danel-incubation-and-blessing",
+      "title": "Childless Danel feeds the gods for seven days; Baal intercedes; El blesses him with a son who will do a son's duties (Aqhat 1.17 I-II)",
+      "motif": "son-god-prays-father-for-king",
+      "ref": "KTU 1.17 I:20'"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "bl I",
+    "gloss": "negation sowie Satznegation in fragenden Kontexten",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 7,
+    "documents": 2,
+    "top_document": "KTU 1.19",
+    "top_share": 0.571,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-4-v-house-granted",
+      "title": "Baal Cycle 1.4 V: El's grey beard instructs him; let Baal give his rain, his voice in the clouds and his lightning; let a caravan bring silver, gold and lapis; Anat brings the good news; Kothar arrives and sits at Baal's right; 'shall I put a window in the house?' - 'No'",
+      "motif": "window-in-the-palace-dispute",
+      "ref": "KTU 1.4 V:61"
+     },
+     {
+      "unit": "ane-ktu-1-4-vi-palace-built-fire",
+      "title": "Baal Cycle 1.4 VI: 'you will come back to my word'; cedars from Lebanon and Sirion; fire burns in the house six days and on the seventh the silver has become plates and the gold bricks; Baal feasts his brothers, the seventy sons of Athirat",
+      "motif": "window-in-the-palace-dispute",
+      "ref": "KTU 1.4 VI:5"
+     },
+     {
+      "unit": "ane-ktu-1-19-i-bow-lost-drought",
+      "title": "The bow is broken and lost; Danel at the gate; Pughat sees the withering; Danel's rain spell; seven years without Baal (Aqhat 1.19 I)",
+      "motif": "seven-years-eight-cycles-of-drought",
+      "ref": "KTU 1.19 I:44"
+     }
+    ]
+   }
+  ],
+  "score": 1.6
+ },
+ {
+  "lemma": "حُوت",
+  "form": "حُوت",
+  "gloss": "fish",
+  "root": "حوت",
+  "narrative": "jonah+moses",
+  "quran_n": 5,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "7:163",
+   "18:61",
+   "18:63",
+   "37:142",
+   "68:48"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ḥyt",
+    "gloss": "Verkündigung, Bekundung",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 2,
+    "top_document": "KTU 1.3",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-3-v-anat-threatens-el",
+      "title": "Baal Cycle 1.3 V: Anat threatens to bloody El's grey beard unless Baal gets a house; she storms into El's tent; El answers from his seven chambers; 'your word is wise; our king is Baal, our judge, none above him'; Shapsh glows, the heavens weak in Mot's hand",
+      "motif": "el-wise-forever",
+      "ref": "KTU 1.3 V:31"
+     },
+     {
+      "unit": "ane-ktu-1-4-iv-athirat-before-el",
+      "title": "Baal Cycle 1.4 IV: Athirat rides a saddled donkey to El at the source of the rivers; El laughs and offers her food, wine or his love; 'our king is Baal'; Baal has no house; El: am I a slave, is Athirat a handmaid, to mould bricks?",
+      "motif": "el-wise-forever",
+      "ref": "KTU 1.4 IV:42"
+     }
+    ]
+   }
+  ],
+  "score": 1.5
+ },
+ {
+  "lemma": "فِتْيَة",
+  "form": "فِتْيَة",
+  "gloss": "youth",
+  "root": "فتي",
+  "narrative": "cave+joseph",
+  "quran_n": 3,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "12:62",
+   "18:10",
+   "18:13"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "p-t-y",
+    "gloss": "verlangen, begehren, verführen",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 2,
+    "top_document": "KTU 1.1",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "high-god-takes-two-women-as-wives",
+      "ref": "KTU 1.23 I:39"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "pat",
+    "gloss": "Rand, Seite, Saum",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 5,
+    "documents": 3,
+    "top_document": "KTU 1.14",
+    "top_share": 0.4,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-12-i-devourers-born",
+      "title": "KTU 1.12 I: the handmaids complain to El that 'they' devour their liver; El laughs in his heart and sends them into the wilderness to crouch and bear the Devourers and Renders, horned like bulls, with Baal's face; Baal hunts them at the edge of the steppe, burning with desire",
+      "motif": "storm-god-hunts-with-bow",
+      "ref": "KTU 1.12 I:35'"
+     },
+     {
+      "unit": "ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign",
+      "title": "El's instructions - sacrifice on the tower, muster of the whole people, seven-day march, siege of Udum, demand for Hurriya (Kirta II-III)",
+      "motif": "army-settles-on-land-like-locusts",
+      "ref": "KTU 1.14 III:1"
+     },
+     {
+      "unit": "ane-ktu-1-14-iii-kirta-wakes-and-obeys",
+      "title": "Kirta wakes from the dream and carries out El's instructions; the army marches (Kirta III-IV)",
+      "motif": "god-instructs-in-dream",
+      "ref": "KTU 1.14 IV:30"
+     },
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "wanderers-ask-guard-of-sown-land-for-bread-and-wine",
+      "ref": "KTU 1.23 I:68"
+     }
+    ]
+   }
+  ],
+  "score": 1.5
+ },
+ {
+  "lemma": "فَتَى",
+  "form": "فَتَى",
+  "gloss": "boy",
+  "root": "فتي",
+  "narrative": "joseph+moses",
+  "quran_n": 3,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "12:30",
+   "18:60",
+   "18:62"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "p-t-y",
+    "gloss": "verlangen, begehren, verführen",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 2,
+    "documents": 2,
+    "top_document": "KTU 1.1",
+    "top_share": 0.5,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "high-god-takes-two-women-as-wives",
+      "ref": "KTU 1.23 I:39"
+     }
+    ]
+   },
+   {
+    "lang": "uga",
+    "lemma": "pat",
+    "gloss": "Rand, Seite, Saum",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 5,
+    "documents": 3,
+    "top_document": "KTU 1.14",
+    "top_share": 0.4,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-12-i-devourers-born",
+      "title": "KTU 1.12 I: the handmaids complain to El that 'they' devour their liver; El laughs in his heart and sends them into the wilderness to crouch and bear the Devourers and Renders, horned like bulls, with Baal's face; Baal hunts them at the edge of the steppe, burning with desire",
+      "motif": "storm-god-hunts-with-bow",
+      "ref": "KTU 1.12 I:35'"
+     },
+     {
+      "unit": "ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign",
+      "title": "El's instructions - sacrifice on the tower, muster of the whole people, seven-day march, siege of Udum, demand for Hurriya (Kirta II-III)",
+      "motif": "army-settles-on-land-like-locusts",
+      "ref": "KTU 1.14 III:1"
+     },
+     {
+      "unit": "ane-ktu-1-14-iii-kirta-wakes-and-obeys",
+      "title": "Kirta wakes from the dream and carries out El's instructions; the army marches (Kirta III-IV)",
+      "motif": "god-instructs-in-dream",
+      "ref": "KTU 1.14 IV:30"
+     },
+     {
+      "unit": "ane-ktu-1-23-i-el-two-women-dawn-dusk",
+      "title": "El takes two women at the shore; they bear Shahar and Shalim and the gracious gods, who are sent to the holy desert for seven years (KTU 1.23 30-76)",
+      "motif": "wanderers-ask-guard-of-sown-land-for-bread-and-wine",
+      "ref": "KTU 1.23 I:68"
+     }
+    ]
+   }
+  ],
+  "score": 1.5
+ },
+ {
+  "lemma": "قِطْر",
+  "form": "قِطْر",
+  "gloss": "molten",
+  "root": "قطر",
+  "narrative": "dhul-qarnayn+solomon",
+  "quran_n": 2,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "18:96",
+   "34:12"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "qṭr",
+    "gloss": "Rauch",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 7,
+    "documents": 3,
+    "top_document": "KTU 1.17",
+    "top_share": 0.429,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-17-i-danel-incubation-and-blessing",
+      "title": "Childless Danel feeds the gods for seven days; Baal intercedes; El blesses him with a son who will do a son's duties (Aqhat 1.17 I-II)",
+      "motif": "duties-of-the-ideal-son",
+      "ref": "KTU 1.17 I:27'"
+     },
+     {
+      "unit": "ane-ktu-1-18-iv-aqhat-murdered",
+      "title": "Anat carries Yatpan as a bird of prey among the eagles; Aqhat is struck down at his meal; Anat weeps (Aqhat 1.18 IV)",
+      "motif": "life-leaves-like-wind-spittle-smoke",
+      "ref": "KTU 1.18 IV:26'"
+     },
+     {
+      "unit": "ane-ktu-1-19-ii-danel-kisses-the-ears",
+      "title": "Pughat saddles the donkey; Danel kisses the surviving stalks; messengers bring news of Aqhat's death (Aqhat 1.19 II)",
+      "motif": "messengers-bring-news-of-sons-death",
+      "ref": "KTU 1.19 II:39"
+     }
+    ]
+   }
+  ],
+  "score": 1.43
+ },
+ {
+  "lemma": "عَصِيّ",
+  "form": "عَصِيّ",
+  "gloss": "disobedient",
+  "root": "عصي",
+  "narrative": "abraham+zechariah-john",
+  "quran_n": 2,
+  "quran_score": 0,
+  "synonym_skew": [],
+  "refs": [
+   "19:14",
+   "19:44"
+  ],
+  "ane": [
+   {
+    "lang": "uga",
+    "lemma": "ˁṣ",
+    "gloss": "Holz, Baum",
+    "gloss_lang": "de",
+    "meaning": "unchecked",
+    "shared": [],
+    "n": 12,
+    "documents": 6,
+    "top_document": "KTU 1.4",
+    "top_share": 0.417,
+    "divine": false,
+    "units": [
+     {
+      "unit": "ane-ktu-1-1-iii-kothar-summoned",
+      "title": "Baal Cycle 1.1 III: messengers sent to Kothar in Crete and Memphis; the word of tree and stone; Kothar comes to El's tent; 'build a house quickly'",
+      "motif": "word-of-tree-whisper-of-stone",
+      "ref": "KTU 1.1 III:13"
+     },
+     {
+      "unit": "ane-ktu-1-3-iii-message-on-zaphon",
+      "title": "Baal Cycle 1.3 III 1-31: Anat perfumes herself; a song of Baal's love; Baal's message: put war from the earth, hasten to me; the word of tree and stone, of heaven to earth and deeps to stars; 'come, I will reveal it in my mountain, divine Ṣapan, the holy mount of my inheritance'",
+      "motif": "word-of-tree-whisper-of-stone",
+      "ref": "KTU 1.3 III:23"
+     },
+     {
+      "unit": "ane-ktu-1-3-iv-anat-to-zaphon",
+      "title": "Baal Cycle 1.3 IV 5-55: the lads repeat Baal's message; Anat agrees to put war from the earth; she crosses a thousand fields to Ṣapan; Baal sends the women away and sets an ox before her; she bathes in dew; lament: Baal has no house like the gods; Anat will make El turn to her",
+      "motif": "word-of-tree-whisper-of-stone",
+      "ref": "KTU 1.3 IV:14"
+     },
+     {
+      "unit": "ane-ktu-1-4-iii-baal-insulted",
+      "title": "Baal Cycle 1.4 III: Baal complains he was mocked and spat on in the assembly of the sons of El; Baal hates three feasts: of shame, of strife and of the handmaids' lewdness; Baal and Anat give gifts to Athirat; feast",
+      "motif": "gods-feast-slaughtered-cattle-sheep-fatlings",
+      "ref": "KTU 1.4 III:44"
+     },
+     {
+      "unit": "ane-ktu-1-4-iv-athirat-before-el",
+      "title": "Baal Cycle 1.4 IV: Athirat rides a saddled donkey to El at the source of the rivers; El laughs and offers her food, wine or his love; 'our king is Baal'; Baal has no house; El: am I a slave, is Athirat a handmaid, to mould bricks?",
+      "motif": "el-offers-food-and-love",
+      "ref": "KTU 1.4 IV:38"
+     },
+     {
+      "unit": "ane-ktu-1-4-vi-palace-built-fire",
+      "title": "Baal Cycle 1.4 VI: 'you will come back to my word'; cedars from Lebanon and Sirion; fire burns in the house six days and on the seventh the silver has become plates and the gold bricks; Baal feasts his brothers, the seventy sons of Athirat",
+      "motif": "cedars-of-lebanon-and-sirion-for-palace",
+      "ref": "KTU 1.4 VI:18"
+     }
+    ]
+   }
+  ],
+  "score": 1.42
+ }
+]

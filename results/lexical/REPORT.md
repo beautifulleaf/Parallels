@@ -15,8 +15,9 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | Quran kursī ↔ Biblical Aramaic korsêʾ (H3764), the -rs- form the Arabic shows | yes |
 | Quran kursī ↔ Hebrew kissēʾ (H3678), through the loan chain (Akkadian kussû, geminate dissimilated to -rs-) | yes |
 | Loan chain: Sumerian guza → Akkadian kussû → Aramaic korsêʾ (H3764) → Arabic kursī; and Hebrew kissēʾ (H3678) | yes |
-| Loan chain: Sumerian é-gal → Akkadian ekallu → Hebrew hêkhāl (H1964) and Aramaic hêkal (H1965). Arabic haykal is not in the Quran, so the chain's Arabic end is outside the corpus | yes |
+| Loan chain: Sumerian é-gal → Akkadian ekallu → Hebrew hêkhāl (H1964). Arabic haykal is not in the Quran, so the chain's Arabic end is outside the corpus | yes |
 | Akkadian tinūru → Hebrew tannûr (H8574) and Arabic tannūr | yes |
+| Trace: al-yamm (concentrated in the Moses narrative) → Ugaritic ym, the sea god Yammu, in the Baal Cycle (KTU 1.2) | yes |
 
 ## Quran: concentration (34 candidates)
 
@@ -230,9 +231,9 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 9.3e-01 | בְּנָא *bᵉnâʼ* “to build” (H1124) | Daniel (Aramaic court tales and vision) (1) + Ezra's Aramaic letters and decrees (18) | 19 |
 | 9.4e-01 | רַב *rab* “abundant” (H7229) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
 | 9.4e-01 | אָתָה *ʼâthâh* “to arrive” (H858) | Daniel (Aramaic court tales and vision) (12) + Ezra's Aramaic letters and decrees (3) | 15 |
-| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.4e-01 | עָלַם *ʻâlam* “remote time, i.e. the future or past indefinitely” (H5957) | Daniel (Aramaic court tales and vision) (13) + Ezra's Aramaic letters and decrees (2) | 15 |
 | 9.4e-01 | יוֹם *yôwm* “a day” (H3118) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
+| 9.4e-01 | שְׁכַח *shᵉkach* “to discover (literally or figuratively)” (H7912) | Daniel (Aramaic court tales and vision) (11) + Ezra's Aramaic letters and decrees (4) | 15 |
 | 9.5e-01 | חַד *chad* “as card. one” (H2298) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (4) | 14 |
 | 9.5e-01 | שְׁלַח *shᵉlach* “to send away, for, or out (in a great variety of applications)” (H7972) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (10) | 14 |
 | 9.5e-01 | גַּו *gav* “the middle” (H1459) | Daniel (Aramaic court tales and vision) (10) + Ezra's Aramaic letters and decrees (3) | 13 |
@@ -270,3 +271,46 @@ Verses are counted, not tokens, so a word repeated within one verse counts once.
 | 9.8e-01 | שִׁבְעָה *shibʻâh* “seven (as the sacred full one)” (H7655) | Daniel (Aramaic court tales and vision) (5) + Ezra's Aramaic letters and decrees (1) | 6 |
 | 9.8e-01 | יְתִב *yᵉthib* “to sit or dwell” (H3488) | Daniel (Aramaic court tales and vision) (3) + Ezra's Aramaic letters and decrees (2) | 5 |
 | 9.8e-01 | סְלִק *çᵉliq* “to ascend” (H5559) | Daniel (Aramaic court tales and vision) (4) + Ezra's Aramaic letters and decrees (1) | 5 |
+
+## ANE traces (20)
+
+Quran words concentrated in one narrative (above), followed to ANE cognates (`anelex.ane_traces`, full data in `ane-traces.json`). Akkadian matches pass the English meaning check; Ugaritic (EUPT) glosses are German, so those matches need the regular sound correspondences exactly and are marked *unchecked*: a root shared by two meanings (siḥr 'magic' and šḥr 'dawn') lands here too. Divine: the ANE word is a god's name.
+
+| Score | Quran | Narrative | ANE cognate | Meaning | Occurrences (top text, share) | Divine | Units |
+|---|---|---|---|---|---|---|---|
+| 58.28 | يَمّ yamm (sea) | moses | uga ym III: Göttername Jammu (mit Beinamen nhr, d.h. Naharu), Gott des M | unchecked | 50 (KTU 1.2, 80%) | yes | ane-ktu-1-1-iv-el-names-yamm, ane-ktu-1-2-i-yamm-embassy, ane-ktu-1-2-iii-house-for-yamm-athtar |
+|  |  |  | uga ym II: Meer | unchecked | 36 (KTU 1.4, 47%) |  | ane-ktu-1-3-ii-anat-battle, ane-ktu-1-3-vi-messengers-to-kothar, ane-ktu-1-4-i-kothar-casts-gifts |
+|  |  |  | uga ym I: Tag | unchecked | 50 (KTU 1.17, 30%) |  | ane-ktu-1-1-v-haddu-bound, ane-ktu-1-4-vi-palace-built-fire, ane-ktu-1-4-vii-window-opened-voice |
+| 51.04 | ساحِر sāḥir (magician) | moses | uga šḥr: Göttername, Doppelgottheit šḥr w šlm | unchecked | 3 (KTU 1.23, 67%) | yes | ane-ktu-1-12-i-devourers-born, ane-ktu-1-23-i-el-two-women-dawn-dusk |
+| 11.67 | أَيْمَن ʾayman (right) | moses | akk imnu I: subst. "right (side, hand)" \[ZAG; 15\] st. abs. *ana imen*  | checked | 38 (BitMeseri SB, 68%) |  | ane-anzu-ob-iii-combat, ane-bitmeseri-sb-it-marduk-prayer, ane-bitmeseri-sb-it-standards-and-figures |
+|  |  |  | akk imna I: adv. "on the right" j/NB, NA \[ZAG; 15\]; | checked | 21 (BitMeseri SB, 57%) |  | ane-anzu-sb-2-ea-advice, ane-anzu-sb-3-anzu-slain, ane-bitmeseri-sb-it-standards-and-figures |
+|  |  |  | uga ymn: rechte Seite, rechte Hand, rechts | unchecked | 16 (KTU 1.4, 19%) |  | ane-ktu-1-2-i-yamm-embassy, ane-ktu-1-3-v-anat-threatens-el, ane-ktu-1-4-ii-athirat-by-sea |
+| 10.32 | أُمْطِرَتْ ʾumṭirat (rained) | lot | uga m-ṭ-r II: regnen; regnen lassen, Regen spenden | unchecked | 3 (KTU 1.6, 67%) |  | ane-ktu-1-6-iii-iv-el-dream-baal-lives, ane-ktu-1-19-i-bow-lost-drought |
+|  |  |  | uga mṭr I: Regen | unchecked | 8 (KTU 1.16, 50%) |  | ane-ktu-1-4-v-house-granted, ane-ktu-1-5-v-baal-descends-heifer, ane-ktu-1-16-iii-drought |
+| 9.95 | مَطَر maṭar (rain) | lot | uga m-ṭ-r II: regnen; regnen lassen, Regen spenden | unchecked | 3 (KTU 1.6, 67%) |  | ane-ktu-1-6-iii-iv-el-dream-baal-lives, ane-ktu-1-19-i-bow-lost-drought |
+|  |  |  | uga mṭr I: Regen | unchecked | 8 (KTU 1.16, 50%) |  | ane-ktu-1-4-v-house-granted, ane-ktu-1-5-v-baal-descends-heifer, ane-ktu-1-16-iii-drought |
+| 7.7 | يَسْتَحْىِۦ yastaḥāi (live) | moses | uga ḥy-I: Leben | unchecked | 4 (KTU 1.16, 50%) |  | ane-ktu-1-16-i-son-laments-do-gods-die, ane-ktu-1-16-ii-sister-laments, ane-ktu-1-17-vi-anat-covets-bow |
+| 6.06 | آنَسَ ʾānasa (perceive) | moses | uga ˀ-n-š I(?): unnachgiebig sein, unerbittlich sein | unchecked | 5 (KTU 1.2, 40%) |  | ane-ktu-1-2-i-yamm-embassy, ane-ktu-1-3-v-anat-threatens-el, ane-ktu-1-6-v-mot-returns-seventh-year |
+|  |  |  | uga anš: Sehne(n) des Hüftbereichs, Hüftnerv, Ischiasnerv (fem. Genus | unchecked | 3 (KTU 1.3, 33%) |  | ane-ktu-1-3-iii-anat-slain-monsters, ane-ktu-1-4-ii-athirat-by-sea, ane-ktu-1-19-ii-danel-kisses-the-ears |
+| 3.33 | مُسَحَّر musaḥḥar (bewitched) | salih+shuayb | uga šḥr: Göttername, Doppelgottheit šḥr w šlm | unchecked | 3 (KTU 1.23, 67%) | yes | ane-ktu-1-12-i-devourers-born, ane-ktu-1-23-i-el-two-women-dawn-dusk |
+| 3.02 | ناظِر nāẓir (observer) | moses | uga nġr III: Wächter | unchecked | 5 (KTU 1.23, 100%) |  | ane-ktu-1-23-i-el-two-women-dawn-dusk |
+|  |  |  | uga n-ġ-r I: *nẓr, beschützen; Imp. m.du. nġr, gebt Acht!; sich hüten, si | unchecked | 3 (KTU 1.6, 67%) |  | ane-ktu-1-4-viii-messengers-to-mot, ane-ktu-1-6-iii-iv-el-dream-baal-lives |
+| 2.27 | حُوت ḥūt (fish) | moses | uga ḥyt: Verkündigung, Bekundung | unchecked | 2 (KTU 1.3, 50%) |  | ane-ktu-1-3-v-anat-threatens-el, ane-ktu-1-4-iv-athirat-before-el |
+| 2.0 | سَمِين samīn (fat) | abraham+joseph | uga šmn III: fett | unchecked | 2 (KTU 1.15, 100%) |  | ane-ktu-1-15-iv-feasts-and-weeping |
+|  |  |  | uga šmn I: Öl, (tierisches) Fett | unchecked | 7 (KTU 1.3, 43%) |  | ane-ktu-1-3-ii-anat-battle, ane-ktu-1-3-iv-anat-to-zaphon, ane-ktu-1-6-iii-iv-el-dream-baal-lives |
+|  |  |  | akk šamnu I: "oil; fat; cream" \[Ì(.MEŠ); Ì.GIŠ (*cf.* also *ellu* II)\]  | checked | 33 (Gilg SB, 27%) |  | ane-adapa-mb-a-south-wind, ane-adapa-mb-b-before-anu, ane-adapa-sb-c-outcome |
+| 2.0 | أَبْرَحَ ʾabraḥa (cease) | joseph+moses | uga b-r-ḥ II: fliehend, dahineilend | unchecked | 2 (KTU 1.5, 100%) |  | ane-ktu-1-5-i-mot-threatens-baal |
+| 2.0 | عالي ʿāly (haughty) | adam+moses | uga ˁl III: Säugling, Kleinkind, Tierjunges | unchecked | 2 (KTU 1.19, 100%) |  | ane-ktu-1-19-iv-pughat-avenges |
+|  |  |  | uga ˁl II: oben | unchecked | 6 (KTU 1.3, 50%) |  | ane-ktu-1-3-i-feast-on-zaphon, ane-ktu-1-3-ii-anat-battle, ane-ktu-1-3-v-anat-threatens-el |
+|  |  |  | uga ˁl I: auf, zu Lasten von; für(?) | unchecked | 61 (KTU 1.19, 20%) |  | ane-ktu-1-1-iv-el-names-yamm, ane-ktu-1-2-i-yamm-embassy, ane-ktu-1-4-ii-athirat-by-sea |
+| 1.86 | صَبِيّ ṣabī (child) | jesus-mary+zechariah-john | uga ṣbu II: Heer, Soldat(en) | unchecked | 7 (KTU 1.14, 86%) |  | ane-ktu-1-3-ii-anat-battle, ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign, ane-ktu-1-14-iii-kirta-wakes-and-obeys |
+|  |  |  | uga ṣbu I ṣbia (Akk.; Sonderform): immer in der Fügung ṣbu špš Sonnenaufgang; alt.: Sonnenunter | unchecked | 3 (KTU 1.15, 33%) |  | ane-ktu-1-15-iv-feasts-and-weeping |
+| 1.6 | مُبْتَلِي mubtalī (test) | noah+saul | uga bl II: Nichtsein | unchecked | 5 (KTU 1.14, 60%) |  | ane-ktu-1-6-i-athtar-on-throne, ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign, ane-ktu-1-17-i-danel-incubation-and-blessing |
+|  |  |  | uga bl I: negation sowie Satznegation in fragenden Kontexten | unchecked | 7 (KTU 1.19, 57%) |  | ane-ktu-1-4-v-house-granted, ane-ktu-1-4-vi-palace-built-fire, ane-ktu-1-19-i-bow-lost-drought |
+| 1.5 | حُوت ḥūt (fish) | jonah+moses | uga ḥyt: Verkündigung, Bekundung | unchecked | 2 (KTU 1.3, 50%) |  | ane-ktu-1-3-v-anat-threatens-el, ane-ktu-1-4-iv-athirat-before-el |
+| 1.5 | فِتْيَة fitya (youth) | cave+joseph | uga p-t-y: verlangen, begehren, verführen | unchecked | 2 (KTU 1.1, 50%) |  | ane-ktu-1-23-i-el-two-women-dawn-dusk |
+|  |  |  | uga pat: Rand, Seite, Saum | unchecked | 5 (KTU 1.14, 40%) |  | ane-ktu-1-12-i-devourers-born, ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign, ane-ktu-1-14-iii-kirta-wakes-and-obeys |
+| 1.5 | فَتَى fatā (boy) | joseph+moses | uga p-t-y: verlangen, begehren, verführen | unchecked | 2 (KTU 1.1, 50%) |  | ane-ktu-1-23-i-el-two-women-dawn-dusk |
+|  |  |  | uga pat: Rand, Seite, Saum | unchecked | 5 (KTU 1.14, 40%) |  | ane-ktu-1-12-i-devourers-born, ane-ktu-1-14-ii-el-instructs-sacrifice-and-campaign, ane-ktu-1-14-iii-kirta-wakes-and-obeys |
+| 1.43 | قِطْر qiṭr (molten) | dhul-qarnayn+solomon | uga qṭr: Rauch | unchecked | 7 (KTU 1.17, 43%) |  | ane-ktu-1-17-i-danel-incubation-and-blessing, ane-ktu-1-18-iv-aqhat-murdered, ane-ktu-1-19-ii-danel-kisses-the-ears |
+| 1.42 | عَصِيّ ʿaṣī (disobedient) | abraham+zechariah-john | uga ˁṣ: Holz, Baum | unchecked | 12 (KTU 1.4, 42%) |  | ane-ktu-1-1-iii-kothar-summoned, ane-ktu-1-3-iii-message-on-zaphon, ane-ktu-1-3-iv-anat-to-zaphon |

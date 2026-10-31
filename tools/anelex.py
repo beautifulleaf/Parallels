@@ -20,8 +20,18 @@ Edges:
               definition or the Quran's word glosses). A geminate may dissimilate to r + consonant
               (Akkadian kussû, Hebrew kissēʾ ~ Aramaic korsêʾ, Arabic kursī). Basis: original + gloss.
 A loan chain is a path through these edges from Sumerian or Akkadian to Hebrew, Aramaic or Arabic.
-The meaning check is gloss-based: every link is a lead to check in the originals.
+The meaning check is gloss-based: every link is a lead to check in the originals. Each chain has a
+`class`: "loan" (a Sumerian source, a geminate dissimilated to r + consonant, or a rootless Arabic word)
+or "inherited" (shared Semitic vocabulary such as bītu ~ bayt: background, not a finding).
+
+ANE traces (`ane_traces`, called by tools/lexical.py): Quran words concentrated in one narrative are
+followed to Akkadian cognates (the edges above) and to Ugaritic words with the same root under the regular
+sound correspondences (AR_UGA; EUPT glosses are German, so these are not meaning-checked), and each
+cognate is reported with where it occurs: its texts, whether it is a god's name, and the ANE units of the
+full read that contain it. Writes results/lexical/ane-traces.json. The al-yamm pattern: yamm, kept by the
+Quran for the Moses sea, is Yammu, the sea god of the Baal Cycle.
 """
+import itertools
 import json
 import pathlib
 import re
@@ -177,7 +187,8 @@ def attestations():
     """Lemma -> list of 'siglum section:line' refs, per language, from the texts in scope."""
     import originals
     att = {"sux": defaultdict(list), "akk": defaultdict(list), "uga": defaultdict(list), "egy": defaultdict(list),
-           "akk_gloss": {}, "sux_gloss": {}, "uga_gloss": {}}
+           "akk_gloss": {}, "sux_gloss": {}, "uga_gloss": {}, "uga_gloss_de": {}, "divine": set(),
+           "docs": defaultdict(Counter)}
     for t in scope_files():
         path = RAW / t["file"]
         if not path.exists():
@@ -200,8 +211,9 @@ def attestations():
                         att["sux_gloss"].setdefault(key, x.get("gloss") or x.get("sense") or "")
                     elif lang.startswith("uga") or src == "EUPT":
                         key, l = lem, "uga"
-                        if x.get("gloss") and src != "EUPT":
-                            att["uga_gloss"].setdefault(key, x.get("gloss") or "")
+                        if x.get("gloss"):
+                            # EUPT glosses are German: kept apart, shown but not compared
+                            att["uga_gloss_de" if src == "EUPT" else "uga_gloss"].setdefault(key, x["gloss"])
                     elif lang.startswith("akk") or (src.startswith("ORACC") and re.search(r"[aeiuāēīū]", lem)
                                                      and "ʿ" not in lem):
                         key, l = lem, "akk"
@@ -210,11 +222,17 @@ def attestations():
                         key, l = lem, "egy"
                     else:
                         continue
+                    att["docs"][f"{l}:{key}"][t["siglum"]] += 1
+                    if DIVINE.search(" ".join([x.get("pos") or "", x.get("morph") or "", x.get("gloss") or ""])):
+                        att["divine"].add(f"{l}:{key}")
                     if len(att[l][key]) < 50:
                         att[l][key].append(ref)
                     else:
                         att[l][key].append(None)
     return att
+
+
+DIVINE = re.compile(r"\b(GN|DN|Göttername|Gottesname|Göttin|god|goddess|deity)\b")
 
 
 def sux_key(s):
@@ -421,17 +439,142 @@ def run(verbose=True):
         c["langs"] = sorted({k.split(":")[0] for k in c["links"]} | {"akk"} | ({"sux"} if c["sux"] else set()))
         # a loan chain spans a Sumerian source or more than one later language; the rest are cognate pairs
         c["kind"] = "chain" if c["sux"] or len(set(c["langs"]) - {"akk", "sux"}) >= 2 else "cognate"
+        # loan-like: a Sumerian source, a dissimilated geminate (kussû > kursī), or an Arabic word the Quranic
+        # Arabic Corpus gives no root (often a loan). Otherwise inherited Semitic vocabulary: background, not a lead.
+        rootless = any(k.startswith("ar:") and not qur[k]["root"] for k in c["links"])
+        a = akk[c["akk"]]
+        rc = a["gem"] and "r" not in a["skeleton"] and any(e.get("dissimilation") and "r" in e["skeleton"] for e in c["edges"])
+        c["class"] = "loan" if c["sux"] or rootless or rc else "inherited"
     chains.sort(key=lambda c: (-len(c["langs"]), -(c["akk_n"] > 0), c["akk_cf"]))
     payload = {"sumerian_loans": loans, "chains": chains,
                "ugaritic": [{**e, "to_form": (heb.get(e["to"]) or qur.get(e["to"]))["form"]} for e in u_h + u_q],
                "counts": {"akkadian_lemmas": len(akk), "akkadian_compared": len(akk_cmp), "sumerian_loans": len(loans),
                           "akk_heb_edges": len(a_h), "akk_ar_edges": len(a_q), "heb_ar_edges": len(h_q),
-                          "uga_edges": len(u_h) + len(u_q), "chains": len(chains)}}
+                          "uga_edges": len(u_h) + len(u_q), "chains": len(chains),
+                          "loan_like": sum(c["class"] == "loan" for c in chains)}}
+    STATE.update(att=att, akk=akk, uga=uga, qur=qur, qur_idx=qur_idx, edges=a_q + u_q)
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "loan-chains.json").write_text(json.dumps(payload, ensure_ascii=False, indent=1, default=list), encoding="utf-8")
     if verbose:
         print(payload["counts"])
     return payload
+
+
+STATE = {}
+TRACE_UNITS = 6
+
+# Arabic root letters -> their regular Ugaritic counterparts (Proto-Semitic correspondences). Strict, unlike
+# the consonant classes above: the trace's Ugaritic glosses are German and cannot be meaning-checked.
+AR_UGA = {"ء": "ʾ", "أ": "ʾ", "ا": "ʾ", "ب": "b", "ت": "t", "ث": "ṯ", "ج": "g", "ح": "ḥ", "خ": "ḫ", "د": "d",
+          "ذ": "dḏ", "ر": "r", "ز": "z", "س": "sš", "ش": "š", "ص": "ṣ", "ض": "ṣ", "ط": "ṭ", "ظ": "ẓġ", "ع": "ʿ",
+          "غ": "ġ", "ف": "p", "ق": "q", "ك": "k", "ل": "l", "م": "m", "ن": "n", "ه": "h", "و": "wy", "ي": "y"}
+UGA_LETTERS = set("bgdḏhwzḥḫṭẓyklmnsṣʿġpqršṯtʾ")
+
+
+def ar_roots(root):
+    """Ugaritic spellings an Arabic root can correspond to: geminates written once, a final weak radical optional."""
+    letters = [AR_UGA.get(c) for c in root]
+    if not root or None in letters:
+        return set()
+    if len(letters) == 3 and root[1] == root[2]:
+        letters = letters[:2]
+    out = {"".join(p) for p in itertools.product(*letters)}
+    if root[-1] in "وي" and len(letters) == 3:
+        out |= {"".join(p) for p in itertools.product(*letters[:-1])}
+    return {r for r in out if len(r) >= 2}
+
+
+def uga_root_readings(lemma):
+    """Consonants of a Ugaritic lemma as EUPT or ORACC writes it ('y-ṯ-b', 'ym III', 'ʿAnatu', 'aliyn').
+    Unvocalised lemmas write ʾ with its vowel (a, i, u); vocalised ones (names) drop the vowels: both readings."""
+    w = re.split(r"\s*\+\s*", lemma)[0]
+    w = re.sub(r"\s+[IVX]+\b.*|\*|\(\?\)|[.\s-]", "", w).lower()
+    w = w.replace("ˁ", "ʿ").replace("ʕ", "ʿ").replace("ˀ", "ʾ").replace("'", "ʾ")
+    keep = "".join(c for c in w if c in UGA_LETTERS)
+    alef = "".join("ʾ" if c in "aiu" else c for c in w if c in UGA_LETTERS or c in "aiu")
+    initial = ("ʾ" if w[:1] in ("a", "i", "u") else "") + keep
+    return {r for r in (keep, alef, initial) if len(r) >= 2}
+
+
+def unit_index():
+    """ANE line key -> [(unit id, unit title, motif)] from the full read (data/motif-tags/ane/)."""
+    import originals
+    corpus, idx = originals.ane(), defaultdict(list)
+    for f in sorted((ROOT / "data" / "motif-tags" / "ane").glob("[0-9]*.yaml")):
+        for u in (yaml.safe_load(f.read_text(encoding="utf-8")) or {}).get("units") or []:
+            for t in u.get("tags") or []:
+                for r in t.get("refs") or []:
+                    for k in corpus.refs(r) or []:
+                        idx[k].append((u["id"], u.get("title", ""), t["motif"]))
+    return corpus, idx
+
+
+def ane_traces(cands, quran):
+    """Follow Quran words concentrated in one narrative to their ANE cognates, and report where those occur.
+
+    The al-yamm pattern: a word the Quran keeps for one story (yamm, the Moses sea, beside the common bahr)
+    whose cognate is concentrated, or a divine name, in an ANE text. Akkadian and ORACC Ugaritic matches carry
+    an English meaning check (cognate_edges); EUPT Ugaritic has German glosses, so its matches need the same
+    consonants exactly and are marked meaning-unchecked for the judges."""
+    if not STATE:
+        run(verbose=False)
+    att, akk, uga, qur = STATE["att"], STATE["akk"], STATE["uga"], STATE["qur"]
+    uga_roots = defaultdict(list)
+    for lem in att["uga"]:      # all lemmas: the skeleton filter on `uga` drops short words such as ym
+        for r in uga_root_readings(lem):
+            uga_roots[r].append(f"uga:{lem}")
+    corpus, units = unit_index()
+    checked = defaultdict(list)
+    for e in STATE["edges"]:
+        checked[e["to"]].append(e)
+    out = []
+    for c in cands:
+        key = "ar:" + c["lemma"]
+        q = qur.get(key)
+        if not q:
+            continue
+        matches = {e["from"]: {"meaning": "checked", "shared": e["shared"]} for e in checked.get(key, [])}
+        for r in ar_roots(q["root"]):
+            for uk in uga_roots.get(r, []):
+                if uk not in matches and not (uga.get(uk) or {}).get("words"):   # a failed English gloss check is out
+                    matches[uk] = {"meaning": "unchecked", "shared": []}
+        found = []
+        for mk, m in matches.items():
+            lang, lem = ("akk", mk) if mk in akk else mk.split(":", 1)
+            e = akk.get(mk) if lang == "akk" else uga.get(mk, {"gloss": att["uga_gloss"].get(lem, "")})
+            if e is None:
+                continue
+            docs = att["docs"].get(f"{lang}:{lem}") or Counter()
+            n = sum(docs.values())
+            if n < 2:
+                continue
+            top, k = docs.most_common(1)[0]
+            seen, hits = set(), []
+            for r in att[lang].get(lem) or e.get("refs") or []:
+                for key2 in (corpus.refs(r) or []) if r else []:
+                    for uid, title, motif in units.get(key2, []):
+                        if uid not in seen:
+                            seen.add(uid)
+                            hits.append({"unit": uid, "title": title, "motif": motif, "ref": r})
+            gloss = re.sub(r"\s+", " ", e.get("meaning") or e.get("gloss") or att["uga_gloss_de"].get(lem, ""))[:160]
+            found.append({"lang": lang, "lemma": lem, "gloss": gloss,
+                          "gloss_lang": "de" if lang == "uga" and not e.get("gloss") else "en",
+                          "meaning": m["meaning"], "shared": m["shared"], "n": n, "documents": len(docs),
+                          "top_document": top, "top_share": round(k / n, 3),
+                          "divine": f"{lang}:{lem}" in att["divine"], "units": hits[:TRACE_UNITS]})
+        if not found:
+            continue
+        found.sort(key=lambda x: (-x["divine"], -x["top_share"], -x["n"]))
+        lem = quran.lemmas[c["lemma"]]
+        best = max((1 + x["divine"]) * (1 + x["top_share"]) for x in found)
+        out.append({"lemma": c["lemma"], "form": lem.form, "gloss": lem.gloss, "root": lem.root,
+                    "narrative": c.get("narrative") or "+".join(c.get("narratives", [])),
+                    "quran_n": c["n"], "quran_score": c.get("score", 0),
+                    "synonym_skew": [s["lemma"] for s in c.get("synonym_skew", [])][:2],
+                    "refs": c["refs"][:12], "ane": found, "score": round((c.get("score") or 1) * best, 2)})
+    out.sort(key=lambda t: -t["score"])
+    (OUT / "ane-traces.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    return out
 
 
 def chain_has(payload, forms):

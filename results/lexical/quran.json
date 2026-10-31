@@ -2217,19 +2217,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H2846",
-     "form": "חָתָה",
-     "translit": "châthâh",
-     "gloss": "to lay hold of",
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H2333",
-     "form": "חַוָּה",
-     "translit": "chavvâh",
-     "gloss": "by implication, an encampment or village",
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
@@ -2492,19 +2492,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H2846",
-     "form": "חָתָה",
-     "translit": "châthâh",
-     "gloss": "to lay hold of",
+     "lemma": "H2333",
+     "form": "חַוָּה",
+     "translit": "chavvâh",
+     "gloss": "by implication, an encampment or village",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H2333",
-     "form": "חַוָּה",
-     "translit": "chavvâh",
-     "gloss": "by implication, an encampment or village",
+     "lemma": "H2846",
+     "form": "חָתָה",
+     "translit": "châthâh",
+     "gloss": "to lay hold of",
      "verses": 4,
      "gloss_match": false,
      "lang": "he"
@@ -3483,19 +3483,19 @@
      "lang": "he"
     },
     {
-     "lemma": "H8226",
-     "form": "שָׂפַן",
-     "translit": "sâphan",
-     "gloss": "to conceal (as a valuable)",
+     "lemma": "H5604",
+     "form": "סִפֻּן",
+     "translit": "çippun",
+     "gloss": "a wainscot",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
     },
     {
-     "lemma": "H5604",
-     "form": "סִפֻּן",
-     "translit": "çippun",
-     "gloss": "a wainscot",
+     "lemma": "H8226",
+     "form": "שָׂפַן",
+     "translit": "sâphan",
+     "gloss": "to conceal (as a valuable)",
      "verses": 1,
      "gloss_match": false,
      "lang": "he"
