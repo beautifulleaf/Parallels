@@ -27,6 +27,7 @@ new_motifs:
   denial-not-quenched-fire-in-its-time: {label: "Denial: the speaker has not put out a (sacred) fire at its time", cluster: cult}
   denial-not-obstructed-god-in-procession: {label: "Denial: the speaker has not driven off the cattle of the god's estate nor blocked a god in his procession", cluster: cult}
   denial-not-blasphemed-god-king-or-town-god: {label: "Denial: the speaker has not reviled a god, the king or the god of his town", cluster: ethics}
+  denial-not-reviled-father: {label: "Denial: the speaker has not reviled or complained against his father", cluster: ethics}
   denial-of-faults-of-speech: {label: "Denials of faults of speech: not lying, not chattering, not hot or loud speech, not eavesdropping, not slandering, not deaf to words of truth", cluster: ethics}
   denial-not-greedy-or-arrogant: {label: "Denial: the speaker has not been greedy, puffed up or self-exalting, and his wants were not excessive beyond his own property", cluster: ethics}
   denial-no-grain-usury: {label: "Denial: the speaker has not practised grain usury (ḥnw.yt)", cluster: ethics}
@@ -116,6 +117,86 @@ new_motifs:
   sky-goddesses-mourn-at-door: {label: "The two kites (Isis and Nephthys) sit at the tomb door and lament the dead man's name", cluster: death}
   you-belong-to-tomorrow-not-yesterday: {label: "Blessing: you belong to the morning (tomorrow), not to yesterday; renew yourself like the frog, the 'repeater of life'", cluster: death}
   feed-landless-for-good-name: {label: "Give bread to him who has no field, so that you gain a good name for ever", cluster: ethics}
+  # --- Doomed Prince (narrative details)
+  hero-sets-out-to-wander-abroad: {label: "A young prince leaves home with chariot, servant and dog to wander abroad as his heart desires, living by hunting", cluster: hero}
+  wicked-stepmother-drives-out-son: {label: "After the mother's death the father takes another wife, who comes to hate her stepson and drives him away", cluster: family}
+  daily-thanks-and-offering-to-sun-god: {label: "Saved from danger, the hero offers to the sun god and praises his power every day", cluster: cult}
+  crocodile-and-water-spirit-fight: {label: "A crocodile in a lake and a water-being ('the Strong One') fight each other daily for months, each keeping the other in", cluster: fate}
+  # --- Eloquent Peasant (details)
+  peasant-leaves-family-provisions: {label: "Before travelling to market the peasant has his wife measure out grain, leaving most for her and the children and taking a little for himself", cluster: family}
+  catalogue-of-desert-produce: {label: "A long catalogue of the products of the desert oasis (natron, salt, woods, skins, plants, stones, birds) loaded on the peasant's donkeys", cluster: economy}
+  weeping-from-pain-of-wrong: {label: "The robbed man weeps loudly for the pain of what was done to him", cluster: justice}
+  just-official-sails-lake-of-maat: {label: "The just official is promised safe sailing on the 'lake of Maat': no squall tears his sail, no flood carries him off, fish and fowl come to him", cluster: justice}
+  official-free-of-greed-destroys-falsehood: {label: "The ideal official is praised as free of greed and baseness, destroyer of falsehood and maker of Maat", cluster: justice}
+  examine-me-plea: {label: "The sufferer asks the judge: drive away my need, examine me, for I am in distress", cluster: justice}
+  dated-to-reign-of-named-king: {label: "The story is dated to the reign of a named king of the past (Nebkaure)", cluster: narrative}
+  official-likened-to-sun-and-nile: {label: "The official is told 'you are Re, lord of the sky ... you are Hapi (the Nile flood) who makes the fields green': do not become a flood against the petitioner", cluster: justice}
+  do-not-lie-to-judge: {label: "The judge is admonished: do not speak falsehood, for you are great, weighty, the balance itself", cluster: justice}
+  lord-of-estate-punishes-thieves: {label: "The robbed man appeals to the reputation of the estate's lord as the one who punishes every robber in the land", cluster: justice}
+  proverb-poor-mans-name-spoken-for-his-lord: {label: "Proverb thrown at the poor: 'the name of the poor man is spoken only for his master's sake'", cluster: wisdom}
+  mortal-official-will-die-like-his-subjects: {label: "The great man is reminded that he will die with his dependants: will you be a man of eternity?", cluster: death}
+  maat-flees-from-under-judge: {label: "Maat (justice) flees from under the judge, driven from her place", cluster: justice}
+  seeing-blind-hearing-deaf-leader-misleads: {label: "The one who should see is blind, the one who should hear is deaf, the guide has become one who leads astray", cluster: justice}
+  hungry-man-may-steal-sated-official-may-not: {label: "Theft is pardonable in the destitute, but not in the one who lacks nothing and is sated with bread and beer", cluster: justice}
+  refuge-whose-landing-place-has-crocodiles: {label: "The judge should be a refuge, but his landing place is infested with crocodiles", cluster: justice}
+  rescuer-of-the-shipwrecked: {label: "The judge is invoked as the one who brings the drowning to shore and rescues the shipwrecked", cluster: justice}
+  do-not-repay-good-with-evil: {label: "Admonition: do not answer good with evil, do not put one thing in the place of another", cluster: ethics}
+  truth-hidden-found-lie-thrown-down: {label: "When the hidden truth is found, falsehood is thrown on its back to the ground", cluster: justice}
+  do-not-plan-for-tomorrow: {label: "Do not prepare for tomorrow before it has come: no one knows the trouble it holds", cluster: wisdom}
+  petitioner-flogged-for-persistence: {label: "The official has the persistent petitioner flogged by guards with whips", cluster: justice}
+  leaderless-community-similes: {label: "The negligent ruler's domain is like a town without its mayor, a body without its chief, a ship without its pilot, a troop without its leader", cluster: justice}
+  goodness-destroyed-ferry-sunk: {label: "Goodness is destroyed: the ferry is sunk, so that one must wade the river in sandals; one may no longer travel by night or day or stand up for one's right", cluster: justice}
+  neglected-fault-doubles: {label: "Saying: pass over a fault and it becomes two", cluster: wisdom}
+  proverbs-eater-tastes-sleeper-dreams: {label: "Sayings: it is the eater who tastes, the one addressed who answers, the sleeper who sees the dream", cluster: wisdom}
+  judge-titles-reversed-pleas: {label: "Pleas built on the judge's titles: steersman, let not your ship drift; life-giver, let none die; shade, do not act like sunglare; refuge, let not the crocodile seize", cluster: justice}
+  judge-appointed-to-hear-and-punish-robber: {label: "The judge was appointed to hear cases, judge between two parties and punish the robber, but he supports the thief", cluster: justice}
+  protector-become-flood: {label: "The one appointed as a dyke for the poor has become the flood that sweeps him away", cluster: justice}
+  justice-satisfies-like-food-clothing-fire-water: {label: "The just official ends wrong as satiety ends hunger, clothing nakedness, calm the storm, fire the raw, water thirst", cluster: justice}
+  share-gain-with-brother: {label: "If you gain something, give some of it to your fellow", cluster: ethics}
+  none-knows-what-is-in-heart: {label: "Saying: one cannot know what is in the heart", cluster: wisdom}
+  gardener-of-evil-waters-plot-with-lies: {label: "The gardener of evil waters his plot with wrongdoing, to make it grow with falsehood", cluster: justice}
+  do-not-brood-over-future: {label: "Do not brood over what has not yet come nor rejoice over what has not yet happened", cluster: wisdom}
+  wonder-workers-reversed-silent-made-speak: {label: "Ironic litany: there is no silent one you made speak, no sleeper you woke, no closed mouth you opened, no ignorant one you made wise", cluster: wisdom}
+  officials-rejoin-severed-head: {label: "Officials are called 'masters of the good', craftsmen who create what is and rejoin a severed head", cluster: justice}
+  greed-leads-to-fall: {label: "Greed makes one fall far; the greedy man lacks success and meets only failure", cluster: wisdom}
+  sated-official-still-grasps: {label: "The official whose belly is full and whose grain measure overflows still grasps: is he a robber?", cluster: justice}
+  do-maat-for-lord-of-maat: {label: "Exhortation: do Maat for the Lord of Maat", cluster: justice}
+  speak-maat-do-maat-for-it-is-great: {label: "Speak Maat, do Maat, for it is great, mighty and enduring, and leads to honoured old age (imakh)", cluster: justice}
+  speech-from-mouth-of-re: {label: "The petitioner calls his perfect speech one that comes from the mouth of Re himself", cluster: wisdom}
+  writing-tools-of-thoth-addressed: {label: "The official is addressed as the reed, papyrus and palette of Thoth, and told to keep away from wrong", cluster: justice}
+  no-friend-for-deaf-to-truth: {label: "Sayings: the sluggard has no yesterday, the one deaf to Maat has no friend, the greedy has no feast day", cluster: wisdom}
+  petitioner-oath-of-dependence: {label: "The vindicated petitioner swears he will eat only of his protector's bread and drink only of his beer for ever", cluster: justice}
+  petitions-read-from-new-roll-sent-to-king: {label: "The petitions are read out from a new papyrus roll and sent to the king, who is delighted and leaves the verdict to his official", cluster: justice}
+  colophon-copied-as-found: {label: "Colophon: the text is complete from beginning to end as found in writing", cluster: scribal}
+  # --- Harper's Songs (details)
+  sun-rises-and-sets-life-continues: {label: "Re shows himself in the morning and Atum sets in the western mountain; husbands beget, women conceive, every nose breathes", cluster: death}
+  mourners-pour-libations-sem-priest: {label: "At the burial the sem priest in a panther skin pours libations, women singers weep and the mummies are set up before Re", cluster: death}
+  god-loves-maat: {label: "What the god loves is Maat (truth/justice)", cluster: ethics}
+  gods-abomination-not-remembered: {label: "Do not remember evil, what the god abhors", cluster: ethics}
+  righteous-quiet-man-praised: {label: "The dead is praised as upright, just, calm, patient, content, cheerful and one who speaks no evil", cluster: ethics}
+  daily-drunkenness-until-death: {label: "Give your heart drunkenness every day until the day of landing (death) comes", cluster: death}
+  libation-water-for-dead-from-nekropolis-gods: {label: "The gods of the necropolis are asked to give water to the dead", cluster: death}
+  land-of-eternity-without-enemy: {label: "The land of eternity is just and right, without terror or strife, without an enemy; no one arms against his fellow there", cluster: death}
+  dead-praised-as-living-god-in-west: {label: "The dead man is now a god living for ever, made great in the West", cluster: death}
+  dead-body-whole-justified: {label: "The blessed dead is told: arise, your body lives, all your limbs are complete, you are justified before Re and Osiris", cluster: death}
+  dead-rests-turning-on-either-side: {label: "Blessing: may you turn on your right side and on your left and be at ease in your place", cluster: death}
+  dead-eats-as-on-earth: {label: "The blessed dead receives offerings and eats the same as on earth; his heart is glad in the necropolis", cluster: death}
+  dead-given-all-in-necropolis-as-reward: {label: "All people in the necropolis are given to the dead as his reward", cluster: death}
+  dwelling-in-holy-city-sweet: {label: "How sweet it is to dwell in the god's city (Thebes); the heart is in joy every day", cluster: cult}
+  dead-praises-sun-every-morning: {label: "The blessed dead rises each morning to see Re and praise him", cluster: death}
+  dead-soars-to-sky-like-bird: {label: "The blessed dead rises to heaven like noble vultures or calls like the divine benu bird", cluster: death}
+  dead-welcomed-by-gods-of-eternity: {label: "The gods of eternity receive the dead man's ba, protect his mummy and greet him 'welcome in peace'", cluster: death}
+  anubis-lays-hands-on-dead: {label: "Anubis lays his hands on the dead man as the mortuary rites are performed", cluster: death}
+  osiris-rites-sokar-barque-djed: {label: "The dead official took part in the Osiris rites: dragging the Sokar barque, raising the djed pillar, hoeing the earth at Busiris", cluster: cult}
+  dead-wakes-in-peace-in-tomb: {label: "Blessing: may you wake in peace in your tomb; your ba rests in the West", cluster: death}
+  ba-comes-out-at-priests-voice-for-offerings: {label: "The dead man's ba comes out at the voice of the ka-priest or lector to receive the offerings", cluster: death}
+  dead-hears-prayers-of-children: {label: "The dead may hear the petitions of his children at the door of his house", cluster: death}
+  dead-joins-followers-of-horus: {label: "The blessed dead joins the followers of Horus and becomes one of them", cluster: death}
+  dead-called-to-heaven-by-sun-god: {label: "The dead man is summoned to heaven by Re and remembered before the god who awakes unharmed", cluster: death}
+  dead-abides-for-ever-in-city: {label: "The dead endures, abiding for ever in his city", cluster: death}
+  god-protects-from-womb-to-old-age: {label: "The god has protected the man since he came from the womb until old age and assigns him honour and burial", cluster: death}
+  union-with-firmament-after-good-life: {label: "After a life well spent the dead unites with the firmament", cluster: death}
+  island-of-the-just: {label: "The blessed dead is on the 'island of the just one'", cluster: death}
 units:
   # ===================== BOOK OF THE DEAD 125 =====================
   - id: ane-bd125-w1-a-introduction-first-confession
@@ -213,9 +294,8 @@ units:
       - {motif: no-witness-against-the-deceased, refs: ["BD125 W1:69-70"], note: "nn jzf,t =j nn ḫbn,t =j nn ḏw,t =j nn mtr,w =j nn jri̯.n =j (j)ḫ,t r =f"}
       - {motif: did-what-men-praise-and-gods-love, refs: ["BD125 W1:70/4-71"], note: "jri̯.n =j ḏd.t r(m)ṯ hrr!.t nṯr.pl ḥr =s; sḥtp.n =j nṯr m mrr!.t =f"}
       - {motif: bread-hungry-water-thirsty-clothes-naked, refs: ["BD125 W1:71/2"], note: "rḏi̯.n =j tʾ n ḥqr,w mw n jbi̯.w mnḫ,t n ḥꜣw mẖn,t n jwi̯,w: bread to the hungry, water to the thirsty, clothes to the naked, a ferry boat to the boatless"}
-      - {motif: true-fast-is-justice, refs: ["BD125 W1:71/2"]}
-      - {motif: righteous-man-catalogue-of-virtues, refs: ["BD125 W1:71/2"]}
-      - {motif: clean-hands-pure-heart, refs: ["BD125 W1:73/3"], note: "jnk wꜥb rʾ wꜥb ꜥ.wj 'I am pure of mouth, pure of hands', greeted 'welcome' by those who see him"}
+      - {motif: righteous-man-catalogue-of-virtues, refs: ["BD125 W1:71/2"], note: "interpretive: the BD 125 lists share with the catalogue no adultery, no oppression, no interest (grain usury), bread to the hungry and clothes to the naked"}
+      - {motif: clean-hands-pure-heart, refs: ["BD125 W1:73/3"], note: "pure hands (and mouth) as the qualification for entering the god's presence: jnk wꜥb rʾ wꜥb ꜥ.wj 'I am pure of mouth, pure of hands', greeted 'welcome' by those who see him"}
       - {motif: merciless-messengers-of-judge, refs: ["BD125 W1:77"], note: "wpw,tj.w wdd!.yw ṯms.w sḫpr.yw jdr,yt jw,tj.w ṯꜣm,t n.t ḥr =sn"}
       - {motif: heart-weighed-against-maat, refs: ["BD125 W1:76/2"], note: "jy.n =j ꜥꜣ r smtr mꜣꜥ,t r rḏi̯.t jwsw r ꜥḥꜥ,w =f m-ẖnw jgr,t 'I have come to bear witness to Maat, to set the balance upright in the Igeret'; the weighing itself is not narrated in this witness"}
       - {motif: every-limb-pure-of-maat, refs: ["BD125 W1:79/2-80/3"], note: "nn ꜥ,t jm =j šwi̯.t m mꜣꜥ,t"}
@@ -452,7 +532,7 @@ units:
       - {motif: confession-each-denial-to-named-judge, refs: ["BD125 W7:14_1-34_2"]}
       - {motif: prohibition-murder-adultery-theft-false-witness, refs: ["BD125 W7:17_1", "BD125 W7:18_1", "BD125 W7:22_1", "BD125 W7:14_2"], note: "the killing denial is qualified: nn smꜣ =j r(m)ṯ.pl m-grg 'I have not killed men unjustly'"}
       - {motif: adultery-prohibited, refs: ["BD125 W7:14_2"]}
-      - {motif: curser-of-parents-executed, refs: ["BD125 W7:27_2/2"], note: "added denial: nn šnṯ =j ḥr jti̯ =j 'I have not complained against / reviled my father'; interpretive match, the BD text is a denial, not a law"}
+      - {motif: denial-not-reviled-father, refs: ["BD125 W7:27_2/2"], note: "added in this late witness: nn šnṯ =j ḥr jti̯ =j 'I have not complained against / reviled my father'"}
       - {motif: denial-not-blasphemed-god-king-or-town-god, refs: ["BD125 W7:27_2", "BD125 W7:30_2", "BD125 W7:34_2"], note: "nn zꜣu̯ =j nṯr m jb =j 'I have not wronged a god in my heart' (variants: to his face, in any matter)"}
       - {motif: denial-of-faults-of-speech, refs: ["BD125 W7:32_1-33_1", "BD125 W7:18_2-19_2", "BD125 W7:25_2"], note: "nn s{š}mtj =j 'I have not spied'"}
       - {motif: denial-not-obstructed-god-in-procession, refs: ["BD125 W7:29_1", "BD125 W7:24_2"], note: "not slaughtered sacred small cattle, not touched the hide of sacred small cattle"}
@@ -473,7 +553,6 @@ units:
       - {motif: underworld-devourer-demon, refs: ["BD125 W8:36"]}
       - {motif: no-witness-against-the-deceased, refs: ["BD125 W8:37-37/5"], note: "in third person; nn jri̯ =tw (j)ḫ,t-nb(,t) r =f 'nothing shall be done against him'"}
       - {motif: bread-hungry-water-thirsty-clothes-naked, refs: ["BD125 W8:38/2-38/3"]}
-      - {motif: true-fast-is-justice, refs: ["BD125 W8:38/2"]}
       - {motif: clean-hands-pure-heart, refs: ["BD125 W8:39/4"]}
       - {motif: heart-weighed-against-maat, refs: ["BD125 W8:42"], note: "jw =f wꜥb(.w) r rḏi̯.t ꜣwsw r ꜥḥꜥ.t =f"}
       - {motif: merciless-messengers-of-judge, refs: ["BD125 W8:42/2"]}
@@ -554,7 +633,7 @@ units:
       - {motif: princess-in-high-window-suitor-contest, refs: ["DoomedPrince 5_3/2-5_5/3", "DoomedPrince 6_5-6_6/3"], note: "the window is 70 cubits (mḥ 70) from the ground; the princes of Ḫꜣrw (Syria) leap at it daily for three months; the prince leaps and reaches it, and she kisses and embraces him"}
       - {motif: hero-conceals-royal-identity, refs: ["DoomedPrince 5_11-5_12/2", "DoomedPrince 7_3-7_4/2"], note: "jnk šrj n wꜥ-n snnj n pꜣ tꜣ n Km,t ... jw pꜣy =j jt ḥr jri̯.t n =f k.t ḥm,t ... jw =st ḥr ḫpr ḥr msdd =j"}
       - {motif: wicked-stepmother-drives-out-son, refs: ["DoomedPrince 5_11/3-5_12/2"], note: "a cover story, not true of the prince"}
-      - {motif: guests-washed-anointed-fed, refs: ["DoomedPrince 5_7-5_9/4"], note: "they wash him, feed his horses, anoint him, bandage his feet, feed his attendant"}
+      - {motif: hospitality-to-strangers, refs: ["DoomedPrince 5_7-5_9/4"], note: "they wash him, feed his horses, anoint him, bandage his feet, feed his attendant"}
       - {motif: foreign-father-refuses-fugitive-son-in-law, refs: ["DoomedPrince 6_9/2-6_11/3", "DoomedPrince 6_14"], note: "jn-jw j:ḏi̯ =j tꜣy =j šrj,t n pꜣ wꜥr n Km,t"}
       - {motif: bride-vows-to-die-with-beloved, refs: ["DoomedPrince 6_12-6_12/3", "DoomedPrince 6_15/2-6_16"], note: "oath wꜣḥ Pꜣ-Rꜥ-Ḥr,w-ꜣḥ,tj ... nn jw =j r wnm nn jw =j r swrj jw =j r mt"}
       - {motif: diplomatic-marriage-to-foreign-princess, refs: ["DoomedPrince 7_4/3-7_4/4"], note: "the ruler of Naharina gives his daughter with house, fields and cattle"}
@@ -722,7 +801,6 @@ units:
       - {motif: inverted-officials-catalogue, refs: ["EloquentPeasant W2:129/alt_98-133/alt_102/2", "EloquentPeasant W2:135/alt_104/2-138/alt_107"], note: "sr.w.pl ḥr jri̯.t jy,t; rḏi̯ ṯꜣw ḥr gꜣu̯.t; psš.w m ꜥwn.w; dr sꜣjr m wḏ jri̯.t =f; dmj m wḏn,w =f; nm jr =f ḫsf =f bw-ḥwr,w 'who then will punish wrong?'"}
       - {motif: wickedness-in-place-of-justice, refs: ["EloquentPeasant W2:129/alt_98-130/alt_99"]}
       - {motif: seeing-blind-hearing-deaf-leader-misleads, refs: ["EloquentPeasant W2:144/alt_113"], note: "mꜣ.w šp.w sḏm.w sḫ.w sšm.w ḫpr m stnm.w"}
-      - {motif: corrupt-judge-as-predator-and-fisherman, refs: ["EloquentPeasant W2:205/alt_174"], note: "see third petition"}
       - {motif: hungry-man-may-steal-sated-official-may-not, refs: ["EloquentPeasant W2:152/alt_121/2-156/alt_125"], note: "t(w)t ṯꜣw.t n jw,tw ḫ,t =f 'theft is fitting for the one who has nothing' ... jw =k swt sꜣi̯.t(j) m tʾ =k tḫi̯.t(j) m ḥ(n)q,t =k"}
       - {motif: refuge-whose-landing-place-has-crocodiles, refs: ["EloquentPeasant W2:160/alt_129/2-161/alt_130"], note: "jri̯ jb,w snb mr,yt =k m =k dmj =k šn.w"}
       - {motif: do-not-lie-to-judge, refs: ["EloquentPeasant W2:163/alt_132-164/alt_133/2"], note: "m ḏd grg; lying is the officials' 'vegetable'"}
