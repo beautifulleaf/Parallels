@@ -1,0 +1,861 @@
+# Observation records, hadith chunk 30 (al-Jāmiʿ al-Kāmil book 9, kitāb al-ṣalāt, pp. 1223-1342): the imam and muezzin,
+# the qibla, the description of the prayer, what was recited, the bow and the prostration.
+records:
+- id: h-1223.1-guarantor
+  ref: Jāmiʿ 9:1223.1
+  unit: hadith-9-imam-guarantor
+  agent: imam; muezzin
+  action: is guarantor; is entrusted
+  quoted: al-imām ḍāmin wa-l-muʾadhdhin muʾtaman; allāhumma arshid al-aʾimma wa-ghfir li-l-muʾadhdhinīn
+- id: h-1224.1-leader
+  ref: Jāmiʿ 9:1224.1
+  unit: hadith-9-imam-guarantor
+  agent: one who leads the people
+  action: leads the prayer
+  outcome: if right, the prayer is his and theirs; any shortfall is on him, not on them
+  quoted: fa-l-ṣalāt lahu wa-lahum ... fa-ʿalayhi wa-lā ʿalayhim
+- id: h-1224.1-ship
+  ref: Jāmiʿ 9:1224.1
+  unit: hadith-9-imam-guarantor
+  agent: ʿUqba b. ʿĀmir
+  action: refuses to lead the prayer
+  place: a ship
+  recipient: fellow travellers
+  quoted: innaka aḥaqqunā bi-dhālika ... fa-abā
+- id: h-1224.2-neck
+  ref: Jāmiʿ 9:1224.2
+  unit: hadith-9-bilal-adhan-at-abtah
+  agent: Bilal
+  action: twists his neck right and left at the two summons
+  place: al-Abṭaḥ, Mecca
+  quoted: ḥayya ʿalā l-ṣalāt ḥayya ʿalā l-falāḥ lawā ʿunuqahu yamīnan wa-shimālan wa-lam yastadir
+  outcome: does not turn his body
+- id: h-1224.2-tent
+  ref: Jāmiʿ 9:1224.2
+  unit: hadith-9-bilal-adhan-at-abtah
+  agent: the prophet
+  object:
+  - red dome-tent of leather
+  - red suit of Yemeni striped cloth
+  place: Mecca
+  quoted: qubba ḥamrāʾ min adam; ḥulla ḥamrāʾ burūd yamāniya qiṭrī
+- id: h-1225.1-iqama
+  ref: Jāmiʿ 9:1225.1
+  unit: hadith-9-iqama-and-the-imam
+  agent: Bilal
+  action: calls when the sun declines, gives the iqāma only on seeing the prophet
+  time: when the sun declines (idhā daḥaḍat)
+  quoted: fa-lā yuqīm ḥattā yakhruja l-nabī
+- id: h-1226.1-washed
+  ref: Jāmiʿ 9:1226.1
+  unit: hadith-9-iqama-and-the-imam
+  agent: the prophet
+  action: leaves his place before the takbir and returns washed
+  quoted: makānakum; wa-qad ightasala yanṭufu raʾsuhu māʾan
+  outcome: the people wait standing; he says takbir and leads them
+- id: h-1226.2-stand
+  ref: Jāmiʿ 9:1226.2
+  unit: hadith-9-iqama-and-the-imam
+  agent: the people
+  action: do not stand when the iqāma is called until they see the prophet
+  quoted: fa-lā taqūmū ḥattā tarawnī
+- id: h-1228.1-detained
+  ref: Jāmiʿ 9:1228.1
+  unit: hadith-9-iqama-and-the-imam
+  agent: a man
+  action: accosts and detains the prophet
+  recipient: the prophet
+  time: after the iqāma
+  quoted: fa-ḥabasahu baʿda mā uqīmat al-ṣalāt
+- id: h-1229.1-youths
+  ref: Jāmiʿ 9:1229.1
+  unit: hadith-9-pray-as-you-saw-me
+  agent: Mālik b. al-Ḥuwayrith and youths of like age
+  action: stay with the prophet, are sent home to teach
+  number: 20 days and nights
+  quoted: ṣallū kamā raʾaytumūnī uṣallī; wa-l-yaʾummakum akbarukum
+- id: h-1229.2-qibla
+  ref: Jāmiʿ 9:1229.2
+  unit: hadith-9-change-of-qibla
+  agent: the prophet
+  action: prays toward Jerusalem, then turns to the Kaʿba
+  number: 16 or 17 months
+  name: bayt al-maqdis; al-kaʿba
+  quoted: sittata ʿashara aw sabʿata ʿashara shahran; qad narā taqallub wajhika fī l-samāʾ
+- id: h-1229.2-ansar
+  ref: Jāmiʿ 9:1229.2
+  unit: hadith-9-change-of-qibla
+  agent: a man who prayed with the prophet
+  action: passes and announces the change
+  recipient: a congregation of the Anṣār
+  time: afternoon prayer
+  outcome: they turn toward the Kaʿba
+  quoted: fa-taḥarrafa l-qawm ḥattā tawajjahū naḥwa l-kaʿba
+- id: h-1229.2-fools
+  ref: Jāmiʿ 9:1229.2
+  unit: hadith-9-change-of-qibla
+  agent: the fools among the people (the Jews)
+  action: ask what turned them from their qibla
+  quoted: mā wallāhum ʿan qiblatihim
+- id: h-1230.1-bara
+  ref: Jāmiʿ 9:1230.1
+  unit: hadith-9-change-of-qibla
+  agent: al-Barāʾ b. Maʿrūr
+  action: prays toward the Kaʿba on the road while his fellows pray toward Syria
+  object: this building (al-binya)
+  outcome: he returns to the prophet's qibla toward Syria
+  quoted: qad kunta ʿalā qibla law ṣabarta ʿalayhā
+- id: h-1230.2-quba
+  ref: Jāmiʿ 9:1230.2
+  unit: hadith-9-change-of-qibla
+  agent: people at Qubāʾ
+  action: turn round to the Kaʿba in mid-prayer
+  place: Qubāʾ
+  time: dawn prayer
+  quoted: wa-kānat wujūhuhum ilā l-shām fa-stadārū ilā l-kaʿba
+- id: h-1230.3-salima
+  ref: Jāmiʿ 9:1230.3
+  unit: hadith-9-change-of-qibla
+  agent: a man of Banū Salima
+  action: calls out that the qibla has been changed
+  recipient: people bowing
+  time: dawn prayer, after one rakʿa
+  outcome: they turn as they are, bowing
+  quoted: alā inna l-qibla ḥuwwilat
+- id: h-1231.1-herald
+  ref: Jāmiʿ 9:1231.1
+  unit: hadith-9-change-of-qibla
+  agent: the prophet's herald
+  action: announces the change
+  number: 2 rakʿas prayed, 2 remaining
+  outcome: the remaining two rakʿas prayed toward the Kaʿba
+  quoted: qad ḥuwwilat al-qibla ilā l-kaʿba
+- id: h-1231.2-mecca
+  ref: Jāmiʿ 9:1231.2
+  unit: hadith-9-change-of-qibla
+  agent: the prophet
+  action: prays toward Jerusalem with the Kaʿba before him
+  place: Mecca
+  number: 16 months after the emigration
+  quoted: wa-l-kaʿba bayna yadayhi
+- id: h-1231.4-jews
+  ref: Jāmiʿ 9:1231.4
+  unit: hadith-9-change-of-qibla
+  agent: God
+  action: orders the prophet to face Jerusalem
+  recipient: the prophet
+  outcome: the Jews rejoice; he loves the qibla of Abraham; the qibla changed, the first abrogation
+  number: some ten-odd months
+  quoted: fa-fariḥat al-yahūd; qiblat ibrāhīm; awwal mā nasakha llāh min al-qurʾān al-qibla
+- id: h-1233.2-eastwest
+  ref: Jāmiʿ 9:1233.2
+  unit: hadith-9-facing-the-qibla
+  action: the qibla lies between east and west
+  quoted: mā bayna l-mashriq wa-l-maghrib qibla
+- id: h-1235.1-kaba
+  ref: Jāmiʿ 9:1235.1
+  unit: hadith-9-facing-the-qibla
+  agent: the prophet
+  action: supplicates in all sides of the House and prays two rakʿas outside before its front
+  place: the Kaʿba
+  number: 2 rakʿas
+  quoted: hādhihi l-qibla
+- id: h-1237.1-takbir
+  ref: Jāmiʿ 9:1237.1
+  unit: hadith-9-takbir-throughout
+  agent: the prophet
+  action: says takbir at standing, bowing, going down, rising, prostrating, and rising from the two
+  quoted: thumma yukabbir ḥīna yahwī
+- id: h-1237.2-rows
+  ref: Jāmiʿ 9:1237.2
+  unit: hadith-9-abu-malik-teaches-prayer
+  agent: Abū Mālik al-Ashʿarī
+  action: ranges the rows
+  object:
+  - men
+  - boys
+  - women
+  quoted: ṣaffa l-rijāl fī adnā l-ṣaff wa-ṣaffa l-wildān khalfahum wa-ṣaffa l-nisāʾ khalfa l-wildān
+- id: h-1237.2-six
+  ref: Jāmiʿ 9:1237.2
+  unit: hadith-9-abu-malik-teaches-prayer
+  agent: Abū Mālik al-Ashʿarī
+  action: says takbir
+  number: 6 in the first rakʿa; subḥān allāh wa-bi-ḥamdih 3 times in the bow
+  quoted: sitta takbīrāt
+- id: h-1237.2-envied
+  ref: Jāmiʿ 9:1237.2
+  unit: hadith-9-abu-malik-teaches-prayer
+  agent: people not prophets nor martyrs who loved one another in God
+  action: are envied by prophets and martyrs
+  instrument: pulpits of light
+  outcome: faces and clothes made light; they do not panic on the day of resurrection
+  quoted: yaghbiṭuhum al-nabiyyūn wa-l-shuhadāʾ; manābir min nūr
+- id: h-1239.1-ali
+  ref: Jāmiʿ 9:1239.1
+  unit: hadith-9-takbir-restored
+  agent: ʿAlī b. Abī Ṭālib
+  action: says takbir at prostrating, rising and standing from two
+  place: Basra (in a variant)
+  outcome: 'ʿImrān: ''he has reminded me of the prayer of Muhammad'''
+  quoted: la-qad dhakkaranī hādhā ṣalāt muḥammad
+- id: h-1240.3-maqam
+  ref: Jāmiʿ 9:1240.3
+  unit: hadith-9-takbir-restored
+  agent: a man
+  action: says takbir at every lowering and rising
+  place: by the Maqām (Mecca)
+  outcome: 'Ibn ʿAbbās: ''is that not the prophet''s prayer, you motherless one'''
+  quoted: lā umma lak
+- id: h-1241.1-shoulders
+  ref: Jāmiʿ 9:1241.1
+  unit: hadith-9-raising-the-hands
+  agent: the prophet
+  action: raises his hands
+  object: hands
+  place: level with the shoulders
+  time: opening and rising from the bow; not in the prostration
+  quoted: ḥadhw mankibayh; wa-kāna lā yafʿalu dhālika fī l-sujūd
+- id: h-1247.1-ears
+  ref: Jāmiʿ 9:1247.1
+  unit: hadith-9-raising-the-hands
+  agent: the prophet
+  action: raises his hands to the ears, grasps the left with the right, points with the index
+  quoted: ḥattā ḥādhatā udhunayh; akhadha shimālahu bi-yamīnih; ḥallaqa ḥalqa wa-ashāra bi-l-sabbāba
+- id: h-1251.1-horses
+  ref: Jāmiʿ 9:1251.1
+  unit: hadith-9-raising-the-hands
+  agent: the people praying
+  action: wave their hands
+  instrument: likened to the tails of restive horses
+  quoted: ka-annahā adhnāb khayl shums; uskunū fī l-ṣalāt
+- id: h-1244.1-humayd
+  ref: Jāmiʿ 9:1244.1
+  unit: hadith-9-raising-the-hands
+  agent: Abū Ḥumayd al-Sāʿidī
+  action: describes the prayer to his fellows
+  number: 10 Companions (in a variant)
+  quoted: ḥattā yaʿūda kull faqār makānah; istaqbala bi-aṭrāf aṣābiʿ rijlayhi l-qibla
+- id: h-1244.1-sitting
+  ref: Jāmiʿ 9:1244.1
+  unit: hadith-9-raising-the-hands
+  agent: the prophet
+  action: sits on the left foot after two rakʿas; in the last puts the left foot forward and sits on his seat
+  quoted: qaddama rijlahu l-yusrā wa-naṣaba l-ukhrā wa-qaʿada ʿalā maqʿadatih
+- id: h-1254.1-snow
+  ref: Jāmiʿ 9:1254.1
+  unit: hadith-9-opening-supplications
+  agent: the prophet
+  action: pauses between takbir and recitation and asks to be washed of sins
+  instrument:
+  - water
+  - snow
+  - hail
+  quoted: ighsil khaṭāyāya bi-l-māʾ wa-l-thalj wa-l-barad; kamā yunaqqā l-thawb al-abyaḍ min al-danas
+- id: h-1255.2-turned
+  ref: Jāmiʿ 9:1255.2
+  unit: hadith-9-opening-supplications
+  agent: the prophet
+  action: opens the prayer
+  quoted: wajjahtu wajhiya li-lladhī faṭara l-samāwāt wa-l-arḍ ḥanīfan; wa-l-sharr laysa ilayk
+- id: h-1255.2-marrow
+  ref: Jāmiʿ 9:1255.2
+  unit: hadith-9-opening-supplications
+  agent: the prophet
+  action: says in the bow
+  object:
+  - hearing
+  - sight
+  - marrow
+  - bone
+  - sinew
+  quoted: khashaʿa laka samʿī wa-baṣarī wa-mukhkhī wa-ʿaẓmī wa-ʿaṣabī
+- id: h-1255.2-face
+  ref: Jāmiʿ 9:1255.2
+  unit: hadith-9-opening-supplications
+  agent: the prophet
+  action: says in the prostration
+  quoted: sajada wajhī li-lladhī khalaqahu wa-ṣawwarahu wa-shaqqa samʿahu wa-baṣarah
+- id: h-1256.1-twelve
+  ref: Jāmiʿ 9:1256.1
+  unit: hadith-9-opening-supplications
+  agent: a latecomer out of breath
+  action: says a formula of praise entering the row
+  outcome: angels race to raise it
+  number: 12 angels
+  quoted: al-ḥamdu lillāh ḥamdan kathīran ṭayyiban mubārakan fīh; ithnay ʿashara malakan yabtadirūnahā
+- id: h-1256.2-gates
+  ref: Jāmiʿ 9:1256.2
+  unit: hadith-9-opening-supplications
+  agent: a man in the congregation
+  action: says a formula of takbir, praise and glorification
+  outcome: the gates of heaven are opened for it
+  quoted: futiḥat lahā abwāb al-samāʾ
+- id: h-1256.3-ubayy
+  ref: Jāmiʿ 9:1256.3
+  unit: hadith-9-opening-supplications
+  agent:
+  - Samura b. Jundab
+  - ʿImrān b. Ḥuṣayn
+  action: dispute two pauses and write to Ubayy b. Kaʿb
+  number: 2 pauses
+  outcome: 'Ubayy: Samura has remembered'
+  name: Ubayy b. Kaʿb
+- id: h-1257.1-umar
+  ref: Jāmiʿ 9:1257.1
+  unit: hadith-9-opening-supplications
+  agent: ʿUmar b. al-Khaṭṭāb
+  action: says aloud the opening glorification
+  quoted: subḥānaka llāhumma wa-bi-ḥamdik tabāraka smuk wa-taʿālā jadduk wa-lā ilāha ghayruk
+- id: h-1262.1-garment
+  ref: Jāmiʿ 9:1262.1
+  unit: hadith-9-right-hand-on-left
+  agent: the prophet
+  action: wraps himself in his garment, then brings his hands out to raise them for the bow
+  object: his garment
+  outcome: prostrates between his palms
+  quoted: thumma ltaḥafa bi-thawbih; akhraja yadayhi min al-thawb
+- id: h-1263.1-moved
+  ref: Jāmiʿ 9:1263.1
+  unit: hadith-9-right-hand-on-left
+  agent: the prophet
+  action: moves the left hand from over the right
+  recipient: Ibn Masʿūd
+  outcome: right hand over left
+  quoted: fa-waḍaʿa yadahu l-yumnā ʿalā l-yusrā
+- id: h-1264.1-prophets
+  ref: Jāmiʿ 9:1264.1
+  unit: hadith-9-right-hand-on-left
+  agent: the company of prophets
+  action: are commanded
+  object:
+  - hasten breaking the fast
+  - delay the predawn meal
+  - strike right hands on left
+  number: 3
+  quoted: innā maʿāshir al-anbiyāʾ umirnā
+- id: h-1265.1-alhamdu
+  ref: Jāmiʿ 9:1265.1
+  unit: hadith-9-opening-with-the-fatiha
+  agent:
+  - the prophet
+  - Abū Bakr
+  - ʿUmar
+  action: open the prayer with al-ḥamdu lillāh rabb al-ʿālamīn
+  quoted: kānū yaftatiḥūna l-ṣalāt bi-l-ḥamdu lillāh rabb al-ʿālamīn
+- id: h-1267.1-verse
+  ref: Jāmiʿ 9:1267.1
+  unit: hadith-9-opening-with-the-fatiha
+  agent: the prophet
+  action: recites stopping after each verse
+  object: al-Fātiḥa 1:1-4
+  quoted: yaqṭaʿu qirāʾatahu āya āya
+- id: h-1269.1-behind
+  ref: Jāmiʿ 9:1269.1
+  unit: hadith-9-no-prayer-without-fatiha
+  agent: the followers
+  action: recite rapidly behind the imam
+  time: dawn prayer
+  outcome: only the Opening of the Book allowed
+  quoted: naʿam hadhdhan; lā tafʿalū illā bi-fātiḥat al-kitāb
+- id: h-1272.1-divided
+  ref: Jāmiʿ 9:1272.1
+  unit: hadith-9-no-prayer-without-fatiha
+  agent: God
+  action: divides the prayer in halves and answers each verse
+  recipient: his servant
+  number: 3 times khidāj
+  quoted: qasamtu l-ṣalāt baynī wa-bayna ʿabdī niṣfayn; ḥamidanī ʿabdī; athnā ʿalayya ʿabdī; majjadanī ʿabdī
+- id: h-1272.1-persian
+  ref: Jāmiʿ 9:1272.1
+  unit: hadith-9-no-prayer-without-fatiha
+  agent: Abū Hurayra
+  action: presses the questioner's forearm
+  recipient: a Persian
+  quoted: iqraʾ bihā fī nafsika yā fārisī
+- id: h-1273.2-contend
+  ref: Jāmiʿ 9:1273.2
+  unit: hadith-9-reciting-behind-the-imam
+  agent: the prophet
+  action: asks who recited with him
+  time: a loud prayer
+  outcome: people stop reciting with him in loud prayers
+  quoted: mā lī unāzaʿu l-qurʾān
+- id: h-1276.1-goback
+  ref: Jāmiʿ 9:1276.1
+  unit: hadith-9-reciting-behind-the-imam
+  agent: the prophet
+  action: tells a man 'go back and pray, you have not prayed'
+  number: 3 times
+  outcome: 'teaches him: takbir, praise, the Mother of the Quran, the bow'
+  quoted: irjiʿ fa-ṣalli fa-innaka lam tuṣalli
+- id: h-1278.2-herald
+  ref: Jāmiʿ 9:1278.2
+  unit: hadith-9-more-than-the-fatiha
+  agent: Abū Hurayra
+  action: is sent to proclaim
+  quoted: ukhruj fa-nādi annahu lā ṣalāta illā bi-qirāʾat fātiḥat al-kitāb fa-mā zād
+- id: h-1280.2-dandana
+  ref: Jāmiʿ 9:1280.2
+  unit: hadith-9-more-than-the-fatiha
+  agent: a youth
+  action: recites the Opening, asks for paradise and refuge from the fire
+  outcome: '''I and Muʿādh hum around these two'''
+  name: Muʿādh
+  quoted: mā adrī mā dandanatuka wa-lā dandanat muʿādh; innī wa-muʿādh ḥawla hātayn
+- id: h-1281.1-sabbih
+  ref: Jāmiʿ 9:1281.1
+  unit: hadith-9-no-loud-recitation-behind-imam
+  agent: a man
+  action: recites Sabbiḥ behind the prophet
+  time: noon or afternoon prayer
+  quoted: qad ʿalimtu anna baʿḍakum khālajanīhā
+- id: h-1282.1-confused
+  ref: Jāmiʿ 9:1282.1
+  unit: hadith-9-no-loud-recitation-behind-imam
+  agent: the people
+  action: recite the Quran aloud behind the prophet
+  quoted: khalaṭtum ʿalayya l-qurʾān
+- id: h-1282.2-amin
+  ref: Jāmiʿ 9:1282.2
+  unit: hadith-9-amin
+  agent: the followers
+  action: say amin when the imam says 'nor those astray'
+  outcome: whose words coincide with the angels' are forgiven past sins
+  quoted: man wāfaqa qawluhu qawl al-malāʾika ghufira lahu mā taqaddama min dhanbih
+- id: h-1284.2-drawn
+  ref: Jāmiʿ 9:1284.2
+  unit: hadith-9-amin
+  agent: the prophet
+  action: says amin drawing out his voice
+  quoted: wa-madda bihā ṣawtah
+- id: h-1286.2-envy
+  ref: Jāmiʿ 9:1286.2
+  unit: hadith-9-amin
+  agent: the Jews
+  action: envy the Muslims
+  object:
+  - the greeting (al-salām)
+  - amin (al-taʾmīn)
+  quoted: mā ḥasadatkum al-yahūd ʿalā shayʾ mā ḥasadatkum ʿalā l-salām wa-l-taʾmīn
+- id: h-1287.1-dawn
+  ref: Jāmiʿ 9:1287.1
+  unit: hadith-9-dawn-recitation
+  agent: the prophet
+  action: recites at dawn and finishes when faces are recognisable
+  number: 60 to 100 verses
+  time: night prayer delayed to a third of the night
+  quoted: min al-miʾa ilā l-sittīn; ḥīna yaʿrifu baʿḍunā wajh baʿḍ
+- id: h-1288.1-qaf
+  ref: Jāmiʿ 9:1288.1
+  unit: hadith-9-dawn-recitation
+  agent: the prophet
+  action: recites at dawn
+  object: Qāf to "and the tall palms" (50:1-10)
+  quoted: wa-l-nakhl bāsiqāt
+- id: h-1289.3-cough
+  ref: Jāmiʿ 9:1289.3
+  unit: hadith-9-dawn-recitation
+  agent: the prophet
+  action: recites al-Muʾminūn at dawn until Moses and Aaron or Jesus, then a cough takes him and he bows
+  place: Mecca
+  quoted: akhadhat al-nabī saʿla fa-rakaʿa
+- id: h-1290.1-zalzala
+  ref: Jāmiʿ 9:1290.1
+  unit: hadith-9-dawn-recitation
+  agent: the prophet
+  action: recites al-Zalzala in both rakʿas
+  time: dawn
+  number: 2 rakʿas
+  quoted: fa-lā adrī a-nasiya rasūl allāh am qaraʾa dhālika ʿamdan
+- id: h-1291.2-muawwidhatayn
+  ref: Jāmiʿ 9:1291.2
+  unit: hadith-9-dawn-recitation
+  agent: the prophet
+  action: teaches ʿUqba the two refuges, then leads the dawn prayer with them
+  recipient: ʿUqba b. ʿĀmir
+  place: on a journey, leading the mount
+  quoted: khayr sūratayn quriʾatā; yā ʿuqba kayfa raʾayt
+- id: h-1292.1-rum
+  ref: Jāmiʿ 9:1292.1
+  unit: hadith-9-dawn-recitation
+  agent: the prophet
+  action: recites al-Rūm at dawn and is confused
+  outcome: blames followers who do not purify well
+  quoted: lā yuḥsinūna l-ṭuhūr fa-innamā yulabbisu ʿalaynā l-qurʾān ulāʾik
+- id: h-1293.2-friday
+  ref: Jāmiʿ 9:1293.2
+  unit: hadith-9-friday-dawn
+  agent: the prophet
+  action: recites
+  object:
+  - al-Sajda and al-Insān at Friday dawn
+  - al-Jumuʿa and al-Munāfiqūn at the Friday prayer
+  time: Friday
+- id: h-1294.1-noon
+  ref: Jāmiʿ 9:1294.1
+  unit: hadith-9-noon-and-afternoon
+  agent: the prophet
+  action: lengthens the first rakʿa and shortens the second, sometimes makes a verse audible
+  time: noon, afternoon, dawn
+  quoted: wa-yusmiʿu l-āya aḥyānan
+- id: h-1295.1-sad
+  ref: Jāmiʿ 9:1295.1
+  unit: hadith-9-noon-and-afternoon
+  agent: Saʿd b. Abī Waqqāṣ
+  action: prays three curses on his accuser
+  recipient: Usāma b. Qatāda Abū Saʿda of Banū ʿAbs
+  place: Kufa
+  number: 3
+  quoted: fa-aṭil ʿumrah wa-aṭil faqrah wa-ʿarriḍhu bi-l-fitan
+  outcome: a tried old man, eyebrows fallen over his eyes, accosting girls in the streets
+- id: h-1295.1-kufa
+  ref: Jāmiʿ 9:1295.1
+  unit: hadith-9-noon-and-afternoon
+  agent: ʿUmar's envoy
+  action: asks about Saʿd in every mosque of Kufa
+  place: Kufa
+  outcome: all praise him but a man of Banū ʿAbs
+  quoted: lam yadaʿ masjidan illā saʾala ʿanh
+- id: h-1296.1-beard
+  ref: Jāmiʿ 9:1296.1
+  unit: hadith-9-noon-recitation
+  agent: Khabbāb
+  action: knew the silent recitation
+  instrument: the moving of the prophet's beard
+  time: noon and afternoon
+  quoted: bi-ḍṭirāb liḥyatih
+- id: h-1296.2-thirty
+  ref: Jāmiʿ 9:1296.2
+  unit: hadith-9-noon-recitation
+  agent: the prophet
+  action: recites at noon and afternoon
+  number: 30 verses per rakʿa in the first two of noon, 15 in the last two; 15 and half that at the afternoon
+  quoted: qadr thalāthīn āya
+- id: h-1297.2-mare
+  ref: Jāmiʿ 9:1297.2
+  unit: hadith-9-noon-recitation
+  agent: the prophet
+  action: singles out his house for three commands
+  recipient: Banū Hāshim
+  object:
+  - complete the ablution
+  - not eat alms
+  - not put a donkey to a mare
+  number: 3
+  quoted: wa-an lā nunziya l-ḥimār ʿalā l-faras
+- id: h-1297.2-khamshan
+  ref: Jāmiʿ 9:1297.2
+  unit: hadith-9-noon-recitation
+  agent: Ibn ʿAbbās
+  action: denies that the prophet recited at noon and afternoon
+  quoted: khamshan hādhihi sharr min al-ūlā kāna ʿabdan maʾmūran
+- id: h-1298.2-umar2
+  ref: Jāmiʿ 9:1298.2
+  unit: hadith-9-noon-recitation
+  agent: Anas b. Mālik
+  action: says no one prays more like the prophet
+  name: ʿUmar b. ʿAbd al-ʿAzīz
+  quoted: min hādhā l-fatā
+- id: h-1301.1-mursalat
+  ref: Jāmiʿ 9:1301.1
+  unit: hadith-9-sunset-recitation
+  agent: Umm al-Faḍl bint al-Ḥārith
+  action: hears Ibn ʿAbbās recite al-Mursalāt and recalls
+  time: sunset prayer
+  outcome: the last thing she heard the prophet recite
+  quoted: innahā la-ākhir mā samiʿtu min rasūl allāh yaqraʾu bihā fī l-maghrib
+- id: h-1302.1-longer
+  ref: Jāmiʿ 9:1302.1
+  unit: hadith-9-sunset-recitation
+  agent: Zayd b. Thābit
+  action: rebukes Marwān for reciting short suras at sunset
+  recipient: Marwān b. al-Ḥakam
+  quoted: bi-ṭūlā l-ṭūlayayn
+- id: h-1305.1-muadh
+  ref: Jāmiʿ 9:1305.1
+  unit: hadith-9-night-recitation
+  agent: Muʿādh
+  action: leads his people in the night prayer with al-Baqara
+  outcome: a man leaves and prays alone; 'are you a tempter (a-fattān anta)?'
+  quoted: innā aṣḥāb nawāḍiḥ naʿmalu bi-l-nahār
+- id: h-1306.1-riding
+  ref: Jāmiʿ 9:1306.1
+  unit: hadith-9-night-recitation
+  agent: Umm Salama
+  action: circles the House riding her camel behind the people
+  instrument: her camel
+  place: the Kaʿba
+  outcome: the prophet prays beside the House reciting al-Ṭūr
+  quoted: ṭūfī min warāʾ al-nās wa-anti rākiba
+- id: h-1306.2-inshiqaq
+  ref: Jāmiʿ 9:1306.2
+  unit: hadith-9-night-recitation
+  agent: Abū Hurayra
+  action: prostrates at al-Inshiqāq in the night prayer
+  name: Abū l-Qāsim
+  quoted: fa-lā azālu asjudu bihā ḥattā alqāh
+- id: h-1307.3-commanded
+  ref: Jāmiʿ 9:1307.3
+  unit: hadith-9-loud-and-silent-as-commanded
+  agent: the prophet
+  action: recites where commanded and is silent where commanded
+  quoted: wa-mā kāna rabbuka nasiyyan
+- id: h-1308.1-ikhlas
+  ref: Jāmiʿ 9:1308.1
+  unit: hadith-9-one-sura-repeated
+  agent: the leader of a raiding party
+  action: closes every recitation with al-Ikhlāṣ
+  outcome: '''tell him God loves him'''
+  quoted: li-annahā ṣifat al-raḥmān
+- id: h-1308.2-quba
+  ref: Jāmiʿ 9:1308.2
+  unit: hadith-9-one-sura-repeated
+  agent: an Anṣārī imam
+  action: opens every rakʿa with al-Ikhlāṣ then another sura
+  place: the mosque of Qubāʾ
+  outcome: '''your love of it brings you into paradise'''
+  quoted: inna ḥubbahā adkhalaka l-janna
+- id: h-1310.1-pairs
+  ref: Jāmiʿ 9:1310.1
+  unit: hadith-9-joining-suras
+  agent: Ibn Masʿūd
+  action: rebukes reciting the mufaṣṣal in one rakʿa
+  number: 20 suras, 2 in each rakʿa
+  quoted: hadhdhan ka-hadhdhi l-shiʿr; al-naẓāʾir
+- id: h-1312.1-hand
+  ref: Jāmiʿ 9:1312.1
+  unit: hadith-9-what-suffices-without-quran
+  agent: a man who cannot learn the Quran
+  action: is taught praises and requests and closes his hand
+  number: 5 praises, 4 requests
+  outcome: he has filled his hand with good
+  quoted: allāhumma rḥamnī wa-rzuqnī wa-ʿāfinī wa-hdinī
+- id: h-1313.1-khinzab
+  ref: Jāmiʿ 9:1313.1
+  unit: hadith-9-khinzab
+  agent: ʿUthmān b. Abī l-ʿĀṣ
+  action: seeks refuge and spits to the left
+  name: Khinzab
+  number: 3 times
+  outcome: God removes the devil from him
+  quoted: dhāka shayṭān yuqālu lahu khinzab; wa-tfil ʿalā yasārika thalāthan
+- id: h-1313.2-night
+  ref: Jāmiʿ 9:1313.2
+  unit: hadith-9-answering-the-verses
+  agent: the prophet
+  action: recites in one night rakʿa
+  object:
+  - al-Baqara
+  - al-Nisāʾ
+  - Āl ʿImrān
+  outcome: glorifies, asks and seeks refuge at the verses
+  quoted: yaqraʾu mutarassilan
+- id: h-1314.1-roof
+  ref: Jāmiʿ 9:1314.1
+  unit: hadith-9-answering-the-verses
+  agent: a Companion
+  action: answers 'Glory to you, yes indeed'
+  place: on the roof of his house
+  object: Q 75:40
+  quoted: subḥānaka fa-balā
+- id: h-1316.1-tatbiq
+  ref: Jāmiʿ 9:1316.1
+  unit: hadith-9-the-bow
+  agent: Saʿd b. Abī Waqqāṣ
+  action: strikes his son's hands pressed between the thighs
+  recipient: Muṣʿab b. Saʿd
+  outcome: hands on the knees
+  quoted: kunnā nafʿaluhu fa-nuhīnā ʿanhu wa-umirnā an naḍaʿa aydiyanā ʿalā l-rukab
+- id: h-1316.2-amirs
+  ref: Jāmiʿ 9:1316.2
+  unit: hadith-9-the-bow
+  agent: amirs to come
+  action: delay the prayer and strangle it
+  time: to the death-gasp of the day (sharaq al-mawtā)
+  outcome: pray at its time and make the prayer with them supererogatory (subḥa)
+  quoted: yakhnuqūnahā ilā sharaq al-mawtā
+- id: h-1316.2-masud
+  ref: Jāmiʿ 9:1316.2
+  unit: hadith-9-the-bow
+  agent: Ibn Masʿūd
+  action: sets one follower at his right and one at his left and presses his palms between his thighs
+  number: 2
+  quoted: ka-annī anẓuru ilā ikhtilāf aṣābiʿ rasūl allāh
+- id: h-1317.1-earth
+  ref: Jāmiʿ 9:1317.1
+  unit: hadith-9-the-bow
+  agent: the one who prostrates
+  action: sets the forehead firm
+  object: forehead
+  outcome: until he feels the bulk of the earth
+  quoted: ḥattā tajida ḥajm al-arḍ
+- id: h-1318.2-goback
+  ref: Jāmiʿ 9:1318.2
+  unit: hadith-9-repose-in-bow-and-prostration
+  agent: the prophet
+  action: sends a man back to pray three times, then teaches repose in each posture
+  number: 3
+  quoted: irjiʿ fa-ṣalli fa-innaka lam tuṣalli; ḥattā taṭmaʾinna rākiʿan
+- id: h-1319.1-behind
+  ref: Jāmiʿ 9:1319.1
+  unit: hadith-9-repose-in-bow-and-prostration
+  agent: the prophet
+  action: sees those behind him in prayer
+  quoted: innī la-arākum min warāʾi ẓahrī
+- id: h-1321.2-expiation
+  ref: Jāmiʿ 9:1321.2
+  unit: hadith-9-repose-in-bow-and-prostration
+  agent: a Muslim
+  action: prays the prescribed prayer well
+  outcome: expiation of prior sins while no major sin, for all time
+  quoted: kaffāra li-mā qablahā min al-dhunūb mā lam yuʾti kabīra
+- id: h-1321.3-squat
+  ref: Jāmiʿ 9:1321.3
+  unit: hadith-9-repose-in-bow-and-prostration
+  agent: the prophet
+  action: forbids
+  object:
+  - the devil's squat (ʿuqbat al-shayṭān)
+  - spreading the forearms like a beast of prey
+  quoted: iftirāsh al-sabuʿ
+- id: h-1323.2-spine
+  ref: Jāmiʿ 9:1323.2
+  unit: hadith-9-repose-in-bow-and-prostration
+  agent: the prophet
+  action: sees with the corner of his eye a man who does not straighten his back
+  outcome: '''no prayer for one who does not straighten his spine'''
+  quoted: fa-lamaḥa bi-muʾkhir ʿaynih
+- id: h-1325.1-thaqafi
+  ref: Jāmiʿ 9:1325.1
+  unit: hadith-9-repose-in-bow-and-prostration
+  agent: the prophet
+  action: tells a man of Thaqīf what he came to ask
+  recipient: a man of Thaqīf; an Anṣārī
+  object:
+  - bow
+  - prostration
+  - prayer
+  - fast
+  quoted: inna li-l-gharīb ḥaqqan; mā akhṭaʾta mimmā kāna fī nafsī shayʾan
+- id: h-1326.1-crow
+  ref: Jāmiʿ 9:1326.1
+  unit: hadith-9-pecking-prayer
+  agent: a man who pecks his prostration
+  action: pecks his prayer
+  instrument: likened to the crow pecking blood; to a hungry man eating one or two dates
+  outcome: dies outside the religion of Muhammad
+  name:
+  - ʿAmr b. al-ʿĀṣ
+  - Khālid b. al-Walīd
+  - Yazīd b. Abī Sufyān
+  - Shuraḥbīl b. Ḥasana
+  quoted: kamā yanquru l-ghurāb al-dam
+- id: h-1327.1-animals
+  ref: Jāmiʿ 9:1327.1
+  unit: hadith-9-pecking-prayer
+  agent: the prophet
+  action: forbids three postures
+  object:
+  - turning like a fox
+  - squatting like a monkey
+  - pecking like a rooster
+  recipient: Abū Hurayra
+  number: 3 commands, 3 forbiddings
+  quoted: iltifāt al-thaʿlab; iqʿāʾ al-qird; naqr al-dīk
+- id: h-1328.1-thief
+  ref: Jāmiʿ 9:1328.1
+  unit: hadith-9-pecking-prayer
+  agent: the worst thief
+  action: steals his prayer
+  outcome: does not complete its bowing and prostration
+  quoted: aswaʾ al-nās sariqa alladhī yasriqu ṣalātah
+- id: h-1328.2-camel
+  ref: Jāmiʿ 9:1328.2
+  unit: hadith-9-pecking-prayer
+  agent: the prophet
+  action: forbids three
+  object:
+  - the crow's peck
+  - the beast's spread
+  - fixing a place as the camel fixes its spot
+  number: 3
+  quoted: an yūṭina l-rajul al-maqām kamā yūṭinu l-baʿīr
+- id: h-1330.1-snow
+  ref: Jāmiʿ 9:1330.1
+  unit: hadith-9-rising-from-the-bow
+  agent: the prophet
+  action: asks to be purified on rising from the bow
+  instrument:
+  - snow
+  - hail
+  - cold water
+  quoted: ṭahhirnī bi-l-thalj wa-l-barad wa-l-māʾ al-bārid
+- id: h-1332.3-thirty
+  ref: Jāmiʿ 9:1332.3
+  unit: hadith-9-rising-from-the-bow
+  agent: a man behind the prophet
+  action: adds 'much, good, blessed praise'
+  outcome: angels race to write it first
+  number: thirty-odd angels
+  quoted: biḍʿatan wa-thalāthīn malakan yabtadirūnahā ayyuhum yaktubuhunna awwal
+- id: h-1333.1-horse
+  ref: Jāmiʿ 9:1333.1
+  unit: hadith-9-rising-from-the-bow
+  agent: the prophet
+  action: falls from a horse and leads the prayer sitting
+  outcome: his right side grazed; the people pray behind him sitting
+  quoted: fa-juḥisha shiqquhu l-ayman
+- id: h-1334.1-kneel
+  ref: Jāmiʿ 9:1334.1
+  unit: hadith-9-going-down-to-prostrate
+  agent: one who prostrates
+  action: must not kneel as the camel kneels, but put hands before knees
+  quoted: fa-lā yabruk kamā yabruku l-baʿīr
+- id: h-1337.1-dog
+  ref: Jāmiʿ 9:1337.1
+  unit: hadith-9-prostration
+  agent: one who prostrates
+  action: must not spread his forearms
+  instrument: likened to the dog
+  quoted: inbisāṭ al-kalb
+- id: h-1339.1-lamb
+  ref: Jāmiʿ 9:1339.1
+  unit: hadith-9-prostration
+  agent: the prophet
+  action: holds his arms from his body in prostration
+  outcome: a lamb could pass under him; the whiteness of his armpits seen from behind
+  quoted: law shāʾat bahma an tamurra bayna yadayhi la-marrat
+- id: h-1339.2-namira
+  ref: Jāmiʿ 9:1339.2
+  unit: hadith-9-prostration
+  agent: ʿAbd Allāh b. al-Aqram
+  action: sees the whiteness of the prophet's armpits as he prostrates
+  place: the plain (al-qāʿ) of Namira
+  quoted: ʿufratay ibṭayh
+- id: h-1341.1-limb
+  ref: Jāmiʿ 9:1341.1
+  unit: hadith-9-prostration
+  agent: one who prostrates
+  action: leans on the palms and holds the upper arms apart
+  outcome: every limb prostrates
+  quoted: sajada kull ʿuḍw minka
+- id: h-1341.2-cheek
+  ref: Jāmiʿ 9:1341.2
+  unit: hadith-9-prostration
+  agent: the prophet
+  action: turns his face right and left at the salām
+  outcome: the whiteness of his cheek is seen
+  quoted: ḥattā yurā bayāḍ khaddih
+- id: h-1342.1-seven
+  ref: Jāmiʿ 9:1342.1
+  unit: hadith-9-prostration
+  agent: the prophet
+  action: is commanded to prostrate on seven limbs and not gather hair or garment
+  number: 7
+  object:
+  - forehead
+  - two hands
+  - two knees
+  - two feet
+  quoted: wa-lā yakuffu shaʿran wa-lā thawban
