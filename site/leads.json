@@ -56,6 +56,15 @@
    "family": "Ancient Near East"
   },
   {
+   "id": "ane-levantine",
+   "name": "Northwest Semitic inscriptions (Moabite",
+   "Phoenician": null,
+   "Aramaic": null,
+   "epigraphic Hebrew)": null,
+   "group": "western",
+   "family": "Ancient Near East"
+  },
+  {
    "id": "greco-roman",
    "name": "Greco-Roman",
    "group": "western",
