@@ -138,6 +138,8 @@ new_motifs:
   royal-hunt-animals-brought-to-city: {label: "The king boasts of a hunt in one day (lions, wild boars, leopards, deer, wild goats) and of bringing the beasts to his city", cluster: kingship}
   submitting-king-brings-iron-throne-and-sceptre: {label: "A submitting king brings the conqueror a throne of iron and a sceptre of iron as gift", cluster: kingship}
   submitted-king-seated-before-conqueror: {label: "The submitted king is brought to the conqueror's capital and given a seat in front of him (at his right) when he enters the inner chamber", cluster: kingship}
+  son-continues-fathers-conquests: {label: "After his father's reign the son puts down a revolt and defeats every land that rises against him", cluster: kingship}
+  captured-king-brought-alive-to-capital: {label: "The conqueror brings the defeated enemy king alive to his own capital", cluster: warfare}
 units:
   # ===================== Sinuhe W1 (pBerlin 3022 + pAmherst, B) =====================
   - id: ane-sinuhe-w1-a-opening-fragments
@@ -1092,7 +1094,6 @@ units:
     tags:
       - {motif: city-taken-by-night-assault, refs: ["CTH 1 W1:5'-6'"], note: "[URU n]e-e-ša-an iš-pa-an-ti [...] e-ep-ta '(he) seized Neša in the night'"}
       - {motif: conqueror-makes-citizens-his-parents, refs: ["CTH 1 W1:7'-8'"], note: "[ne-e]-ša i-da-a-lu Ú-UL ku-it-ki ... [at-t]u-uš an-ni-uš i-ia-nu-un 'to Neša (I did) nothing evil ... I made (them) fathers and mothers'; this copy has the first person (iyanun)"}
-      - {motif: city-conquered-in-a-single-day, refs: ["CTH 1 W1:10'"], note: "I-NA UD 1 KAM 'in one day' (context broken; perhaps of a defeat at Ullamma, 11')"}
   - id: ane-cth1-w2-anitta-takes-nesa
     tradition: ane-hittite
     title: "Anitta (KBo 3.22): Anitta son of Pithana; dear to the Storm-god; the king of Kuššara takes Neša by night and spares it"
@@ -1102,7 +1103,7 @@ units:
     version: "W2, KBo 3.22, Old Hittite main manuscript (CTH 1)"
     read: ["CTH 1 W2:obv._1-obv._12"]
     tags:
-      - {motif: royal-inscription-umma-opening, refs: ["CTH 1 W2:obv._1"], note: "a-ni-it-ta DUMU pí-it-ḫa-a-na LUGAL URU ku-uš-ša-ra QÍ-BÍ-MA 'Anitta, son of Pithana, king of Kuššara, speak!' (the Akkadian letter/message formula)"}
+      - {motif: letter-opening-say-to-my-lord, refs: ["CTH 1 W2:obv._1"], note: "a-ni-it-ta DUMU pí-it-ḫa-a-na LUGAL URU ku-uš-ša-ra QÍ-BÍ-MA 'Anitta, son of Pithana, king of Kuššara, speak!' (the Akkadian letter/message formula)"}
       - {motif: storm-god-of-heaven-favours-king, refs: ["CTH 1 W2:obv._2-obv._3"], note: "ne-pí-iš-za-aš-ta IŠKUR-un-ni a-aš-šu-uš e-eš-ta 'he was dear (aššuš) to the Storm-god of Heaven', repeated: 'and when he was dear to the Storm-god ...'"}
       - {motif: city-taken-by-night-assault, refs: ["CTH 1 W2:obv._5-obv._7"], note: "The king of Kuššara came down from the city in force (pangarit) and [ne-e-ša-an] iš-pa-an-di na-ak-ki-it da-a-aš 'took Neša in the night by storm'; he seized the king of Neša (IṢ-BAT)"}
       - {motif: conqueror-makes-citizens-his-parents, refs: ["CTH 1 W2:obv._7-obv._9"], note: "DUMU.MEŠ URU ne-e-ša-aš i-da-a-lu na-at-ta ku-e-da-ni-ik-ki ták-ki-iš-ta an-nu-uš at-tu-uš i-e-et 'to the sons of Neša he did no evil to anyone; he made them mothers and fathers'"}
@@ -1121,9 +1122,8 @@ units:
     read: ["CTH 1 W2:obv._13-obv._35"]
     tags:
       - {motif: city-taken-by-night-assault, refs: ["CTH 1 W2:obv._17-obv._19"], note: "Harkiuna and Wašhaniya: ḫa-an-ta-i-ši me-e-ḫu-ni 'at the time of heat' and [x]-an iš-pa-an-di [na-ak-ki-it] 'by night'"}
-      - {motif: defeated-cities-given-to-storm-god, refs: ["CTH 1 W2:obv._20-obv._21"], note: "[URU.DIDLI] ne-pí-ša-aš d IŠKUR-ni ḫa-ap-pa-ri-e-nu-un 'I handed over (sold?) the cities to the Storm-god of Heaven' (ḫappariya- 'trade, hand over'); obscure"}
       - {motif: city-never-resettled-curse, refs: ["CTH 1 W2:obv._22-obv._28"], note: "Fragmentary: ku-iš am-me-el a-ap-pa-an LUGAL-uš ki-i-ša-ri 'whoever becomes king after me' ... a-ap-pa le-e ku-iš-ki a-ša-a-ši 'let no one settle again (Harkiuna, Neša?)'; 'like a lion to the land' (UR.MAḪ-iš ma-a-an ut-ne-e); the Storm-god is to deal with the offender"}
-      - {motif: lion-simile-for-king, refs: ["CTH 1 W2:obv._26"]}
+      - {motif: king-animal-epithets-bull-lion-dragon, refs: ["CTH 1 W2:obv._26"]}
       - {motif: inscription-set-at-city-gate-with-curse, refs: ["CTH 1 W2:obv._33-obv._35"], note: "ke-e ud-da-a-ar tup-pi-ia-az I-NA KÁ.GAL-IA ... UR-RA-AM ŠE-RA-AM ki-i tup-pi le-e ku-iš-ki ḫu-ul-li-e-ez-zi ku-i-ša-at ḫu-ul-li-iz-zi URU ne-e-ša-aš LÚ.KÚR-ŠU e-eš-tu 'these words (I set) on a tablet at my gate; in future let no one damage this tablet; whoever damages it, let him be the enemy of Neša'"}
       - {motif: curse-gods-destroy-name-of-tablet-alterer, refs: ["CTH 1 W2:obv._34-obv._35"], note: "Approximate: the sanction here is enmity with Neša, not the gods' destruction of his name"}
     hints:
@@ -1138,12 +1138,11 @@ units:
     version: "W2, KBo 3.22"
     read: ["CTH 1 W2:obv._36-rev._51"]
     tags:
-      - {motif: auxiliary-army-defeated, refs: ["CTH 1 W2:obv._36-obv._38"], note: "Piyušti king of Hatti came again; šar-di-aš-ša-an-na ku-in ú-wa-te-et 'the auxiliaries he brought' I defeated at Šalampa; all the lands from Zalpa by the sea (a-ru-na-aš)"}
       - {motif: patron-goddess-statue-carried-off-and-brought-back, refs: ["CTH 1 W2:obv._39-obv._42"], note: "ka-ru-ú u-uḫ-na-aš LUGAL URU za-a-al-pu-wa d ši-ú-šum-mi-in URU ne-e-ša-az URU za-a-al-pu-wa pé-e-da-aš ap-pé-ez-zi-ia-na a-ni-it-ta-aš LUGAL.GAL d ši-ú-šum-mi-in URU za-a-al-pu-wa-az a-ap-pa URU ne-e-ša pé-e-taḫ-ḫu-un 'formerly Uhna king of Zalpa carried Šiušummi ('our god') from Neša to Zalpa; later I, Anitta the great king, brought Šiušummi back from Zalpa to Neša'. Šiušummi is a god, not a goddess"}
       - {motif: idols-stolen-by-conquerors, refs: ["CTH 1 W2:obv._39-obv._40"]}
       - {motif: captured-king-brought-alive-to-capital, refs: ["CTH 1 W2:obv._43-lo._e._44"], note: "ḫu-uz-zi-ia-na LUGAL URU za-a-al-pu-wa ḫu-šu-wa-an-ta-an URU ne-e-ša ú-wa-te-nu-un 'Huzziya king of Zalpa I brought alive to Neša'"}
       - {motif: city-taken-by-night-assault, refs: ["CTH 1 W2:rev._46-rev._48"], note: "Hattusa: ap-pé-ez-zi-ia-na ki-iš-ta-an-zi-at-ta-at ša-an d ḫal-ma-šu-it-ti d ši-i-uš-mi-iš pa-ra-a pa-iš ša-an iš-pa-an-di na-ak-ki-it da-a-aḫ-ḫu-un 'later, when it was in famine, the goddess Halmašuitti my god(dess) handed it over, and I took it in the night by storm'"}
-      - {motif: god-delivers-city-to-king, refs: ["CTH 1 W2:rev._46-rev._47"], note: "pa-ra-a pa-iš 'gave it over (into my hand)'"}
+      - {motif: enemies-delivered-into-kings-hand, refs: ["CTH 1 W2:rev._46-rev._47"], note: "pa-ra-a pa-iš 'gave it over (into my hand)'"}
       - {motif: destroyed-city-sown-with-weeds, refs: ["CTH 1 W2:rev._48"], note: "pé-e-di-iš-ši-ma ZÀ.AḪ.LI-an a-ni-e-nu-un 'in its place I sowed cress/weeds (ZÀ.AḪ.LI, sahlu)'"}
       - {motif: city-never-resettled-curse, refs: ["CTH 1 W2:rev._49-rev._51"], note: "ku-iš am-me-el a-ap-pa-an LUGAL-uš ki-i-ša-ri nu URU ḫa-at-tu-ša-an a-ap-pa a-ša-a-ši na-an ne-pí-ša-aš d IŠKUR-aš ḫa-az-zi-e-et-tu 'whoever becomes king after me and settles Hattusa again, may the Storm-god of Heaven strike him'"}
     hints:
