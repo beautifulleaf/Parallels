@@ -54,6 +54,11 @@ new_motifs:
   slanderer-of-king-before-god-punished: {label: "Whoever speaks evil of the king and queen before the god, the god is to give him a sour apple (punish him)", cluster: vanishing-god}
   god-highest-of-the-high-foremost-of-foremost: {label: "Superlative address: 'you are the highest of the high, the foremost of the foremost'", cluster: divine-titles}
   sheep-driven-out-not-killed: {label: "At the end of the rite a sheep is driven out but not killed", cluster: vanishing-god}
+  garment-and-veil-put-on-backwards: {label: "The departing goddess fastens her garment's pins at the back and turns her veil back to front", cluster: vanishing-god}
+  mother-son-wife-husband-choke: {label: "In the deity's absence mother and son, wife and husband 'choke' (are estranged) as do the herds", cluster: vanishing-god}
+  midwife-as-ritualist: {label: "The midwife (MUNUS ŠÀ.ZU) performs the rite and speaks the words that recount and reverse the deity's departure", cluster: vanishing-god}
+  aromatic-woods-burned-to-lure-deity: {label: "Fragrant woods (olive?, šaḫi, parnulli, cedar) are burned in the ritual patron's house to draw the vanished deity back", cluster: vanishing-god}
+  salt-lick-never-runs-out-analogy: {label: "Analogy: as the salt-lick of the meadow never runs out, so may the life of the ritual patron never run out but be everlasting", cluster: vanishing-god}
 units:
   - id: ane-cth-324-3-1-bee-finds-telipinu
     tradition: ane-hittite
@@ -598,3 +603,42 @@ units:
     read: ["CTH 332.8"]
     tags:
       - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.8 §1:1-§2:17"], note: "4 {DUG}iš-ga-a[n-] vessels, beer, wine, a table, a stand; ma-a-an {d}10-an a-š[a-ši] 'when he seats the Storm god'; BE-EL DINGIR-LIM mu-ga-[ ] 'the lord of the deity invokes'; ḫi-in-kat-ta 'bows'"}
+  - id: ane-cth-333-1-ritual-and-departure
+    tradition: ane-hittite
+    title: The midwife's rite; Anzili and Zukki depart in anger with shoes and veil reversed; household choked (CTH 333)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 333 §1:1-§9:54"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 333 §2:2-§4:24"], note: "DUG KA.GAG NAG 'beer to drink'; {GIŠ}LAM.GAL gul-aš-zi 'he carves pistachio wood'; {GI}A.DA.GUR.ḪI.A 'drinking straws'; {DUG}ḫu-u-up-pár 'bowl'; a-ap-pé-ez-zi UD-ti 'on the last day'; jugs of water, walḫi; DINGIR-LUM ... da-ga-a-an e-eš-zi '(the deity) sits on the ground'"}
+      - {motif: midwife-as-ritualist, refs: ["CTH 333 §5:25-§6:32"], note: "{MUNUS}ŠÀ.ZU 'the midwife'; Ì.DÙG.GA ... la-ḫu-u-wa-i 'pours fine oil'; {MUNUS}ŠÀ.ZU-ma ki-iš-ša-an me-m[a-i] 'the midwife speaks thus'; ša-ne-ez-zi-iš-ša-an pé-eš-š[i-ya-mi] 'I throw the finest on it'"}
+      - {motif: vanishing-god-departs-in-anger, refs: ["CTH 333 §6:33-34", "CTH 333 §7:41-42"], note: "{d}an-zi-li-iš-za ša-a-et 'Anzili became angry' (Zukki restored); ša-ra-a-aš ti-ya-a[t] na-aš-kán i-ya-an-ni-iš IŠ-TU É.ŠÀ 'she stood up and went out of the inner chamber'"}
+      - {motif: shoes-put-on-wrong-feet, refs: ["CTH 333 §6:35-36"], note: "GÙB-la-an-za {KUŠ}E.SIR ZAG-na-az ... GÙB-la-az šar-ku-ut-ta 'the left shoe on the right, (the right) she put on on the left'"}
+      - {motif: garment-and-veil-put-on-backwards, refs: ["CTH 333 §6:37-§7:40"], note: "TÚG DINGIR-LIM ... TU-DI-IT-TI.ḪI.A EGIR-[pa] 'the deity's garment, the pins (fastened) behind'; {TÚG}ḫu-u-bi-ki a-ap-pé-ez-zi 'the rear veil (to the front)', ḫa-an-te-ez-zi-ma-za ap-pé-ez-zi-az 'the front one at the back'"}
+      - {motif: mist-seizes-windows-smoke-the-house, refs: ["CTH 333 §8:43-44"], note: "[IṢ]-BAT; {GIŠ}AB.ḪI.A túḫ-ḫu-iš IṢ-BAT 'smoke seized the windows' (mist and smoke swapped)"}
+      - {motif: hearth-altar-fold-choke, refs: ["CTH 333 §8:45-48"], note: "A-NA GUNNI ... ú-i-šu-ri-ya-an-da-at; I-NA TÙR-kán UDU.ḪI.A; É.GU4-kán GU4.ḪI.A ú-i-šu-ri-an-da-at"}
+      - {motif: mother-son-wife-husband-choke, refs: ["CTH 333 §8:49-50"], note: "DAM-SÚ-kán ... ú-i-šu-ri-ya-an-d]a-at 'his wife (and husband) choked'; 'mother and son' restored"}
+      - {motif: gods-feast-without-satiety, refs: ["CTH 333 §9:51-54"], note: "DINGIR.MEŠ GAL ḫal-za-iš 'he called the great gods'; [ša-n]é-iz-zi e-du-un 'I ate the finest', [e-k]u-un Ú-UL '... not'"}
+    hints:
+      - "The goddess who goes out in anger: compare Dhul-Nun's angry departure (Q 21:87) and Jonah 4:1-5."
+      - "Garments put on wrongly as a sign of disorder: compare the reversal and rending of garments in mourning (Gen 37:34; 2 Sam 13:19)."
+  - id: ane-cth-333-2-return-of-anzili-and-zukki
+    tradition: ane-hittite
+    title: Fragrant woods burned; Anzili and Zukki return; the household set right; Anzili eats everything; the salt-lick analogy for the patron's life (CTH 333)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 333 §10:55-§18:104"]
+    tags:
+      - {motif: aromatic-woods-burned-to-lure-deity, refs: ["CTH 333 §10:55-64"], note: "ŠA EN SÍSKUR-iš-ša-an É-[ri] ... wa-ra-ni 'in the patron's house (wood) burns'; {GIŠ}ša-ḫi-iš, {GIŠ}pár-nu-ul-li, {GIŠ}ERIN 'cedar' wa-ra-a-ni; e-ḫu EGIR-an i-ya-a[d-du-ma-at] 'come, walk after!'"}
+      - {motif: god-returns-house-restored, refs: ["CTH 333 §11:65-§12:71"], note: "an-da-ma-aš-kán ti-ya-a[t] 'they stepped in'; kam-ma-ra-aš tar-na-aš 'the mist left'; iš-ta-na-ni, GUNNI; TÙR-kán UDU.ḪI.A SIG5-an-t[a-at] 'the sheep in the fold were set right'"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 333 §12:72-73"], note: "AMA-ŠU DUMU-ŠU-ya SIG5-an-ta-[at] 'mother and son were set right'"}
+      - {motif: gods-eat-and-are-satisfied-on-return, refs: ["CTH 333 §13:74-81"], note: "{d}UTU-i ḫa-lu-ga-aš pa-it 'the message went to the Sun god'; ú-et-wa-ra-aš {d}zu-uk-ki-iš 'she has come, Zukki'; ki-nu-un-za e-ed-mi e-ku-mi 'now I will eat and drink'; ḫu-u-up-am-mi 'I will mix'"}
+      - {motif: divine-assembly-under-hawthorn, refs: ["CTH 333 §14:82-84"], note: "{d}an-zi-li-iš wa-aḫ-nu-ut ... [e]-ša-at 'Anzili turned and sat'; kat-ta-an ú-nu-wa-an-[ta-aš] 'beneath the adorned (hawthorns)': she sits under the tree, not an assembly"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 333 §14:85-90"], note: "ZAG-an-ma-an-za-an ŠU-an pa-ra-a e-[ep-ta] 'she held out her right hand'; ka-du-pa-a-et 'devoured' tooth-bread; ḫu-u-ma-an ka-du-pa-a-et 'she devoured everything (on the table)', then the salt of the meadow's salt-lick"}
+      - {motif: salt-lick-never-runs-out-analogy, refs: ["CTH 333 §14:91-§15:98"], note: "Ú.SAL-LUM u-w[a-ni-ya-az-kán] ... Ú-UL zi-in-na-at-ta-ri 'as the salt-lick of the meadow does not come to an end'; [Š]A EN SÍSKUR ... T[I-tar] ... [z]i-in-na-at-ta-ri, É.ŠÀ-az le-e zi-in-n[a-at-ta-ri] 'let the patron's life not end from the inner chamber'; [na]-at uk-tu-u-ri e-eš-[du] 'let it be eternal'; da-an-du-ki-eš-na-aš DUMU 'the child of mortality' looks on"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 333 §16:99-§18:104"], note: "BAPPIR 'beer-bread', SUM-an 'given', DINGIR-L[UM]: fragmentary close"}
+    hints:
+      - "Salt that never runs out as a figure for lasting life: compare the 'covenant of salt' forever (Num 18:19; 2 Chr 13:5)."
+      - "The 'child of mortality' (dandukešnaš DUMU) for a human being: compare 'son of man' (Ps 8:4) and 'every soul shall taste death' (Q 3:185)."

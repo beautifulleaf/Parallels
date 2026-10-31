@@ -19,6 +19,16 @@ new_motifs:
   merchant-cheats-before-sun-yet-thrives: {label: "The merchant who falsifies the scales before the sun god is contrasted with the sufferer who has done nothing to his god", cluster: theodicy}
   house-became-house-of-fear: {label: "Through illness the sufferer's house has become a house of fear and his soul drifts elsewhere", cluster: lament}
   mortal-life-bound-to-death: {label: "Life is bound up with death and death with life; a child of mortality does not live forever", cluster: mortality}
+  hatti-only-pure-land-for-gods: {label: "The king tells the gods that only his own land (Hatti) is truly pure for them, and only there are their offerings given pure, great and pleasing", cluster: cult}
+  king-reminds-gods-of-unequalled-care: {label: "The king reminds the gods that no one before cared for their temples, statues, vessels, purity and festivals as he has", cluster: prayer}
+  enemy-destroys-temples-smashes-statues: {label: "An enemy people overturns the gods' temples, smashes their statues and divides their silver, gold, vessels and garments among themselves", cluster: war}
+  temple-personnel-enslaved-by-enemy: {label: "The enemy takes the gods' priests, singers, cooks and ploughmen and makes them their own servants", cluster: war}
+  gods-no-longer-invoked-in-lost-lands: {label: "In the lost lands no one calls the gods by name any more or gives their daily, monthly and yearly offerings", cluster: cult}
+  enemies-case-laid-before-gods: {label: "The king lays the enemy's deeds before the gods as a legal case for them to judge", cluster: justice}
+  enemy-swears-then-breaks-oath: {label: "The enemy takes gifts and swears to let the offerings pass, but on returning breaks the oath, scorns the gods' words and smashes the seal of the treaty", cluster: treaty}
+  offerings-plundered-on-the-road: {label: "Offerings sent to a god's distant city are plundered on the road by the enemy", cluster: cult}
+  enemy-towns-and-commanders-listed: {label: "A list of enemy towns, each 'the whole city' with its named commanders, is recited before the gods", cluster: treaty}
+  king-seeks-gods-grievance-by-oracle: {label: "The king promises to find out by oracle and seeress whatever the gods lack or are angry about and make it good", cluster: divination}
 units:
   - id: ane-cth-372-1-sun-hymn-epithets
     tradition: ane-hittite
@@ -94,7 +104,7 @@ units:
     tagger: "Claude (model), reading the Hittite"
     read: ["CTH 372 §20:180-§27:211"]
     tags:
-      - {motif: friends-turned-enemies, refs: ["CTH 372 §20:182-183"], note: "ḫanteš arišša 'my first ones and companions' … beat me"}
+      - {motif: sick-man-abandoned-by-companions, refs: ["CTH 372 §20:182-183"], note: "ḫanteš arišša 'my first ones and companions' … beat me"}
       - {motif: wrath-then-mercy, refs: ["CTH 372 §20:184-187"], note: "offence and anger are yours, my god; if you are evil toward me what man am I"}
       - {motif: prayer-is-cool-water-for-the-heart, refs: ["CTH 372 §25:207"], note: "mukišnaš uddār … ekunaz wetenaz maḫḫan ŠÀ-it waršanuddu 'these words of invocation shall soothe your heart as with cool water'"}
       - {motif: god-restore-soul-as-at-birth, refs: ["CTH 372 §26:208-210"]}
@@ -176,3 +186,87 @@ units:
       - "Compare Ps 22:15 ('poured out like water') and Ps 107:23-30 (seafarers brought to the haven)."
       - "Compare Q 6:63-64 and Q 10:22 (God saves from the darknesses of land and sea)."
       - "§39:97 mentions Arzawa being humbled: a historical allusion in a royal prayer."
+  - id: ane-cth-375-1-arnuwanda-kaska
+    tradition: ane-hittite
+    title: Arnuwanda I and Ašmunikal lament the Kaška devastation of the gods' lands (CTH 375.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Main text (A)"
+    read: ["CTH 375.1 §1:1-§35:92"]
+    tags:
+      - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 375.1 §2:3-5"], note: "šumaš DINGIR.MEŠ-aš URU.ḫattušaš=pát ḫandān parkui KUR-e 'for you gods only Hattusa is a truly pure land'"}
+      - {motif: king-reminds-gods-of-unequalled-care, refs: ["CTH 375.1 §3:6-§6:15"], note: "anzel iwar UL kuiški kappuwan ḫarta 'no one cared as we have'; old statues and utensils renewed"}
+      - {motif: temple-personnel-enslaved-by-enemy, refs: ["CTH 375.1 §7:16-18", "CTH 375.1 §17:42-43"]}
+      - {motif: enemies-case-laid-before-gods, refs: ["CTH 375.1 §10:26-30"], note: "DI-NAM arnuškeweni 'we bring it to you as a lawsuit'"}
+      - {motif: towns-of-region-captured-list, refs: ["CTH 375.1 §14:36"], note: "Nerik, Ḫuršama, Kaššama, Šeriša, Ḫimuwa, Taggašta, Kammama, Zalpuwa …"}
+      - {motif: enemy-destroys-temples-smashes-statues, refs: ["CTH 375.1 §15:37-§16:41"], note: "LÚ.MEŠ URU.gašga arḫa pipper 'the Kaška men overturned (the temples)'"}
+      - {motif: temple-treasures-plundered, refs: ["CTH 375.1 §16:40-41"]}
+      - {motif: gods-no-longer-invoked-in-lost-lands, refs: ["CTH 375.1 §19:47-§21:53"], note: "lāmanna UL kuiški werizzi 'no one calls you even by name'"}
+      - {motif: temple-cult-and-festivals-cease, refs: ["CTH 375.1 §19:48-49", "CTH 375.1 §20:50-51"]}
+      - {motif: enemy-swears-then-breaks-oath, refs: ["CTH 375.1 §25:65-§26:76"], note: "lingauš šarranzi … ŠA dIM lingiyaš NA4.KIŠIB arḫa ḫullanzi 'they transgress the oaths … smash the seal of the storm god's oath'"}
+      - {motif: offerings-plundered-on-the-road, refs: ["CTH 375.1 §24:63-64", "CTH 375.1 §27:77-80"], note: "offerings for the storm god of Nerik sent from Hattusa to Hakmišša"}
+      - {motif: enemy-towns-and-commanders-listed, refs: ["CTH 375.1 §30:87-§35:92"], note: "broken; only the commanders (LÚ.MEŠ tapariyalleš) survive"}
+    hints:
+      - "Compare Q 2:114 (who is more unjust than one who bars God's places of worship from his name being mentioned and strives to ruin them) and Q 22:40 (cloisters, churches, synagogues and mosques in which God's name is much mentioned)."
+      - "Compare Q 9:12-13 (those who break their oaths after their covenant and attack your religion), Q 8:56 (they break their covenant every time), Q 16:91-92."
+      - "Compare Ps 74:3-8 and Ps 79:1 (enemies destroy the sanctuary, burn the meeting places) and Lam 1:10; 2 Kgs 25:13-17."
+  - id: ane-cth-375-2-colophon-tablet-1
+    tradition: ane-hittite
+    title: Arnuwanda prayer, opening and colophon of tablet 1 (CTH 375.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 375.2"]
+    tags:
+      - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 375.2 §2:6-7"], note: "fragmentary: ḫandān šane- 'truly pleasing'"}
+      - {motif: scribal-colophon, refs: ["CTH 375.2 §4:10-12"], note: "DUB 1.KAM … 'how one speaks to the gods', not finished"}
+    hints:
+      - "The invocation (§3:9) of Sun goddess, storm god, protective god, mountains, rivers and springs of Hatti recalls treaty witness lists; compare the oaths by natural phenomena in Q 91:1-7."
+  - id: ane-cth-375-3-kaska-towns-tablet-2
+    tradition: ane-hittite
+    title: List of Kaška towns and commanders; colophon of tablet 2 (CTH 375.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 375.3"]
+    tags:
+      - {motif: enemy-towns-and-commanders-listed, refs: ["CTH 375.3 §1:1-§9:9"], note: "URU.iškuruḫaš URU-aš ḫumanza LÚ.MEŠ tapariyaleš=a … 'Iškuruḫa, the whole town, and the commanders Kannunnu and Piddumuwa'"}
+      - {motif: scribal-colophon, refs: ["CTH 375.3 §11:11-13"], note: "second tablet, finished; a seeress (MUNUS.ENSI) is mentioned just before (§10:10)"}
+  - id: ane-cth-375-4-make-good-by-oracle
+    tradition: ane-hittite
+    title: Duplicate fragment; the royal pair will find out by oracle what the gods lack (CTH 375.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 375.4"]
+    tags:
+      - {motif: king-reminds-gods-of-unequalled-care, refs: ["CTH 375.4 §3:7-§5:13"]}
+      - {motif: king-seeks-gods-grievance-by-oracle, refs: ["CTH 375.4 §6:14-16", "CTH 375.4 §8:19-§9:23"], note: "kuit=aš=šmaš=šan waqqariya 'whatever you lack' … IŠTU LÚ.ENSI … tiyawni … SIG-aḫḫuni 'we determine it through a seer … and make it good'"}
+      - {motif: enemy-towns-and-commanders-listed, refs: ["CTH 375.4 §13:31-§17:35"], note: "Taggašta, Kammama, Zalpuwa with named commanders"}
+    hints:
+      - "Compare 2 Sam 21:1 (David seeks the face of YHWH to learn the cause of the famine)."
+  - id: ane-cth-375-5-innocent-lands
+    tradition: ane-hittite
+    title: Fragment naming the 'innocent lands' and the Kaška oath (CTH 375.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 375.5"]
+    tags:
+      - {motif: king-reminds-gods-of-unequalled-care, refs: ["CTH 375.5 §3:4-§4:5", "CTH 375.5 §9:13-14"]}
+      - {motif: towns-of-region-captured-list, refs: ["CTH 375.5 §8:11-12"], note: "KUR.KUR.ḪI.A niwallan 'the innocent lands': Gaštama, Taggašta, Šerišša, Taštarešša, Takkupša, Kammama, Zalpuwa, Nerigga"}
+      - {motif: offerings-plundered-on-the-road, refs: ["CTH 375.5 §12:21-23"]}
+      - {motif: enemy-swears-then-breaks-oath, refs: ["CTH 375.5 §13:24-26"], note: "only the summoning, gifts and oath survive"}
+  - id: ane-cth-375-6-17-fragments
+    tradition: ane-hittite
+    title: Small fragments of the Arnuwanda-Ašmunikal prayer (CTH 375.6-375.17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 375.6", "CTH 375.7", "CTH 375.8", "CTH 375.9", "CTH 375.10", "CTH 375.11", "CTH 375.12", "CTH 375.13", "CTH 375.14", "CTH 375.15", "CTH 375.16", "CTH 375.17"]
+    tags:
+      - {motif: enemy-towns-and-commanders-listed, refs: ["CTH 375.6 §1:1-11", "CTH 375.7 §3:3-7", "CTH 375.8 §1:1-5", "CTH 375.9 §2:2", "CTH 375.10 §1:1-§2:2", "CTH 375.16 §2:2-§4:4", "CTH 375.17 §1:3"], note: "QADU LÚ.MEŠ tapariyalit 'together with commanders' repeated"}
+      - {motif: hatti-only-pure-land-for-gods, refs: ["CTH 375.11 §1:1-§2:4", "CTH 375.13 §1:1-§4:6"], note: "CTH 375.13: nirgendwo … ta-me-e-da-ni KUR-e 'in no other land' are offerings given as in Hatti"}
+      - {motif: enemy-swears-then-breaks-oath, refs: ["CTH 375.12 §7:9"], note: "DINGIR.MEŠ linkiškir 'they swore by the gods'; context lost"}
+      - {motif: temple-personnel-enslaved-by-enemy, refs: ["CTH 375.15 §1:1"], note: "fragment: 'your, the gods', servants and maids'"}

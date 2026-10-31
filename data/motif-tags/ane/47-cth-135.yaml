@@ -129,7 +129,7 @@ units:
     tagger: "Claude (model), reading the Hittite"
     read: ["CTH 137.1 §12:62-§27''':134"]
     tags:
-      - {motif: individuals-sworn-one-by-one, refs: ["CTH 137.1 §14:66-§15:68", "CTH 137.1 §21:90-91", "CTH 137.1 §24:108-109", "CTH 137.1 §25:117-118", "CTH 137.1 §26:123-124"], note: "'X, and with him two men of Tar[aḫna]...'; 'he put himself under oath thus' (linkiya kattan ... dāiš); a prisoner of war (LÚappanza) and a fugitive (LÚpitteyanza) also swear"}
+      - {motif: individuals-sworn-one-by-one, refs: ["CTH 137.1 §14:66-§15:68", "CTH 137.1 §21:90-§22:91", "CTH 137.1 §24:108-109", "CTH 137.1 §25:117-118", "CTH 137.1 §26:123-124"], note: "'X, and with him two men of Tar[aḫna]...'; 'he put himself under oath thus' (linkiya kattan ... dāiš); a prisoner of war (LÚappanza) and a fugitive (LÚpitteyanza) also swear"}
       - {motif: troops-counted-in-oath-list, refs: ["CTH 137.1 §17:74-77"], note: "1 ME 90 ÉRIN.MEŠ ... 2 ME 15 ÉRIN.MEŠ: 190 and 215 foot soldiers; 'the obligation (išḫiul) we shall keep'"}
       - {motif: scribe-named-in-oath-record, refs: ["CTH 137.1 §16:72-73"], note: "linganu[t] ... [A]rmaziti LÚDUB.SAR-aš URU Ḫattuši"}
       - {motif: treaty-fight-kings-enemy, refs: ["CTH 137.1 §18:83", "CTH 137.1 §22:95-98"], note: "karši zaḫḫiya- 'fight unreservedly'; ḫūmanza nuntariyeddu 'let everyone hurry'"}
