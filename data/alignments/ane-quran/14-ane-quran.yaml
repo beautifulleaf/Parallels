@@ -1,0 +1,1317 @@
+# ANE x Quran side-by-side pass, chunk 14 (SAA 3 court poetry and mystical commentaries, SAA 9 prophecies, SAA 20 Assur rituals). Judged blind, from the originals.
+new_motifs:
+  tongue-kept-from-faltering-by-the-deity:
+    label: The deity keeps (or makes) the speaker's tongue free of impediment
+    cluster: prophecy
+  cry-of-a-woman-in-labour:
+    label: 'A woman in labour cries out in her pains: who answers her, and how it ends'
+    cluster: family
+  invective-chain-ending-in-slur-on-birth:
+    label: A string of abusive epithets against an opponent, including a slur on his birth
+    cluster: wisdom
+  seized-by-the-forelock-before-the-judge:
+    label: A man is seized by the forelock and brought before the judging deity
+    cluster: eschatology
+  return-from-the-netherworld-to-the-living:
+    label: Whether one who has stood before the judge of the dead is sent back to the living
+    cluster: eschatology
+  stars-set-on-the-lowest-heaven:
+    label: The stars are set on (drawn on, adorn) the lowest of the heavens
+    cluster: creation
+  deity-abandons-his-servant:
+    label: Whether the deity has abandoned (forsaken) his servant
+    cluster: deity
+  guard-before-and-behind:
+    label: A protector goes (stands) before and behind a man to guard him
+    cluster: deity
+  held-by-the-forelock:
+    label: The deity holds a person (or every creature) by the lock of hair on the forehead
+    cluster: deity
+  deity-the-doer:
+    label: The deity calls himself or herself the doer (of what he says, of what he wills)
+    cluster: deity
+  deity-says-i-see-and-i-hear:
+    label: '''Fear not'': the deity reassures with ''I see and I hear'' (I hear and I see)'
+    cluster: prophecy
+  stones-rained-on-enemies:
+    label: 'The deity rains stones from heaven on those he destroys: what kind of stones'
+    cluster: judgment
+  drink-taken-at-the-covenant:
+    label: What is drunk at the making of a covenant, and what the drinking does
+    cluster: law
+  impalement-of-those-who-rose-against-the-king:
+    label: Those who rose against the king are impaled (crucified) on stakes or palm trunks
+    cluster: kingship
+  food-offered-to-the-deity:
+    label: Whether the deity eats (receives) the food and drink of the offerings
+    cluster: cult
+  whether-the-guarding-deity-tires-or-sleeps:
+    label: Whether the deity who guards grows tired or sleepless
+    cluster: deity
+  heavenly-body-identified-as-the-lord:
+    label: A star, the moon or the sun is identified as the (high) god
+    cluster: deity
+  who-eats-the-sacrifice:
+    label: Who eats the flesh of the sacrifice
+    cluster: cult
+  sacred-city-receives-the-produce-of-all-lands:
+    label: The produce (tribute, fruits) of all lands is brought into a sacred city
+    cluster: cult
+reviewed:
+- unit: ane-saa03-013-dialogue-assurbanipal-nabu
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-25-hell-and-the-day-of-angels
+  - quran-105-elephant
+  - quran-79-pharaoh-and-cosmos
+  - quran-20-moses-call
+  matches:
+  - with: quran-20-moses-call
+    motif: tongue-kept-from-faltering-by-the-deity
+    refs:
+    - SAA 03 013 o:9-11
+    with_refs:
+    - '20:27'
+    - '20:28'
+    - '20:36'
+    relation: echo
+    record:
+      agent:
+      - Nabû
+      - God
+      recipient:
+      - Assurbanipal
+      - Moses
+      object:
+      - tongue
+      - tongue
+      action:
+      - promises the tongue will not falter
+      - grants the knot of the tongue be untied
+      quoted:
+      - lišānka lā tattanagir ištu šaptēka
+      - wa-ḥlul ʿuqdatan min lisānī ... qad ūtīta suʾlaka
+    note: 'o:9-11 šaptēka lā innaha ... lišānka lā tattanagir ištu šaptēka ''your lips will not tire ... your tongue will not lie crosswise (falter) from your lips, for I give you good speech''; Q 20:27-28 wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, answered 20:36 qad ūtīta suʾlaka yā Mūsā. The god frees the chosen man''s tongue: promised unasked to the king, granted on request to Moses.'
+- unit: ane-saa03-024-ummanaldasu-fragment
+  checked:
+  - quran-28-moses-in-midian
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-19-abraham-and-his-father
+  matches: []
+- unit: ane-saa03-021-nabu-bel-sumati-fragment
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-8-fifth-and-badr-vision
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-saa03-007-hymn-to-nineveh-and-mullissu
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa03-005-hymn-to-nanaya-assurbanipal
+  checked:
+  - quran-3-sovereignty
+  - quran-7-idol-request
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa03-002-hymn-to-marduk
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-35-originator
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-saa03-002-prayer-and-hymn-to-zarpanitu
+  checked:
+  - quran-2-throne-verse
+  - quran-7-closing-recitation
+  - quran-1-fatiha
+  matches: []
+- unit: ane-saa03-001-hymn-to-assur
+  checked:
+  - quran-23-lordship-arguments
+  - quran-27-is-there-a-god-with-god
+  - quran-17-polemic-and-resurrection
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches:
+  - with: quran-50-qaf-two-recorders-and-hell-asks-more
+    motif: no-one-changes-the-spoken-word
+    refs:
+    - SAA 03 001 o:22
+    with_refs:
+    - '50:29'
+    relation: parallel
+    record:
+      agent:
+      - Aššur
+      - God
+      action:
+      - his word is not changed
+      - his word is not changed
+      quoted:
+      - ša lā uttakkaru zikiršu qibīssu kīnat
+      - mā yubaddalu l-qawlu ladayya
+    note: ša lā uttakkaru zikiršu qibīssu kīnat 'whose utterance is not changed, whose command is firm' (o:22, refrain with o:20-21 'like a mountain ... like the writing of the heavens'); Q 50:29 mā yubaddalu l-qawlu ladayya 'the word is not changed with me' (God at the judgment, after 50:28 'I sent you the threat beforehand'). Same passive 'is not changed' of the god's spoken word.
+- unit: ane-saa03-004-hymn-to-nanaya-sargon
+  checked:
+  - quran-17-polemic-and-resurrection
+  - quran-13-signs-of-creation
+  - quran-52-tur-garden-and-challenge
+  matches: []
+- unit: ane-saa03-048-goddess-asks-adad-for-healing-and-birth
+  checked:
+  - quran-16-daughters-and-the-bee
+  - quran-19-mary-and-jesus
+  - quran-3-imran-mary-zechariah
+  matches: []
+- unit: ane-saa03-015-death-in-childbirth
+  checked:
+  - quran-19-mary-and-jesus
+  - quran-16-daughters-and-the-bee
+  - quran-3-imran-mary-zechariah
+  matches:
+  - with: quran-19-mary-and-jesus
+    motif: cry-of-a-woman-in-labour
+    refs:
+    - SAA 03 015 o:7-12
+    with_refs:
+    - '19:23'
+    - '19:24'
+    - '19:25'
+    relation: divergence
+    record:
+      agent:
+      - a mother
+      - Mary
+      time:
+      - day of labour pains
+      - labour pains (al-makhāḍ)
+      action:
+      - prays to Bēlet-ilī
+      - wishes she had died
+      recipient:
+      - Bēlet-ilī
+      - null
+      outcome:
+      - the goddess veils her face; the mother dies
+      - 'called from below: do not grieve; water and dates'
+      quoted:
+      - ina ūm hīlīya ... ummu ālidāti atti eṭrī napultī ... tuktallila pānīša
+      - fa-ajāʾahā l-makhāḍu ... yā laytanī mittu qabla hādhā ... allā taḥzanī
+    note: 'o:7-12 ina ūm hīlīya ētarpū pānūya ... ana Bēlet-ilī uṣalla: ummu ālidāti atti eṭrī napultī; Bēlet-ilī kī tašmûni tuktallila pānīša ''on the day of my pains my face was clouded ... I prayed: you are the mother of those who give birth, save my life! When Bēlet-ilī heard she veiled her face''; Q 19:23-25 fa-ajāʾahā l-makhāḍu ilā jidhʿi n-nakhla qālat yā laytanī mittu qabla hādhā ... fa-nādāhā min taḥtihā allā taḥzanī. The cry in labour is refused and ends in death; Mary''s wish for death is answered with comfort, water and dates.'
+- unit: ane-saa03-047-ninurta-letter-and-colophon
+  checked:
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-20-moses-pharaoh-magicians
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches: []
+- unit: ane-saa03-037-cultic-commentary-marduk
+  checked:
+  - quran-85-constellations
+  - quran-17-polemic-and-resurrection
+  - quran-43-zukhruf-book-and-daughters
+  matches: []
+- unit: ane-saa03-044-assur-letter-on-samas-sumu-ukin
+  checked:
+  - quran-3-badr-uhud
+  - quran-3-sovereignty
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-saa03-045-assur-letter-elam
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa03-046-assur-letter-shepherdship
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa03-023-lament-fragment-ecstatic
+  checked:
+  - quran-19-mary-and-jesus
+  - quran-3-imran-mary-zechariah
+  - quran-46-ahqaf-parents-and-the-scornful-son
+  matches: []
+- unit: ane-saa03-027-fragment-burning
+  checked:
+  - quran-66-tahrim-wives-and-the-four-women
+  - quran-85-constellations
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa03-031-prayer-to-istar-against-teumman
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-10-moses-pharaoh
+  matches: []
+- unit: ane-saa03-041-divine-letter-der-campaign
+  checked:
+  - quran-9-closing
+  - quran-25-destroyed-peoples
+  - quran-71-noah
+  matches: []
+- unit: ane-saa03-006-hymn-to-tasmetu
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-73-enwrapped
+  - quran-56-waqia-three-classes-and-the-garden
+  matches:
+  - with: quran-56-waqia-three-classes-and-the-garden
+    motif: god-humbles-one-exalts-another
+    refs:
+    - SAA 03 006 o:7
+    with_refs:
+    - '56:3'
+    relation: echo
+    record:
+      agent:
+      - Tašmetu
+      - the Event (al-wāqiʿa)
+      action:
+      - raises and lowers
+      - lowers and raises
+      quoted:
+      - mušaqqītu mušappiltu
+      - khāfiḍatun rāfiʿa
+    note: o:7 mušaqqītu mušappiltu 'she who raises, she who lowers' (two feminine participles); Q 56:3 khāfiḍatun rāfiʿa 'abasing, exalting' (two feminine participles), said of the Event, not of a goddess. The order is reversed.
+- unit: ane-saa03-039-mystical-body-and-heavens
+  checked:
+  - quran-67-mulk-heavens-lamps-and-hell
+  - quran-65-talaq-divorce-and-seven-earths
+  - quran-41-fussilat-creation
+  - quran-78-the-tiding
+  matches:
+  - with: quran-65-talaq-divorce-and-seven-earths
+    motif: number-of-the-heavens
+    refs:
+    - SAA 03 039 o:30-37
+    with_refs:
+    - '65:12'
+    relation: divergence
+    record:
+      object:
+      - heavens and earths
+      - heavens and earths
+      number:
+      - 3 heavens; 3 earths
+      - 7 heavens; the like of them of earth
+      quoted:
+      - šamû elûti ... qablûti ... šaplûti; erṣetu elītu ... qablītu ... šaplītu
+      - sabʿa samāwātin wa-mina l-arḍi mithlahunna
+    note: 'o:30-37 upper, middle and lower heaven (of luludānītu, saggilmud and jasper) and upper, middle and lower earth (spirits of mankind, Ea, the 600 Anunnaki); Q 65:12 allāhu lladhī khalaqa sabʿa samāwātin wa-mina l-arḍi mithlahunna. Stacked heavens matched by the same number of earths: three and three vs seven and seven.'
+  - with: quran-41-fussilat-creation
+    motif: stars-set-on-the-lowest-heaven
+    refs:
+    - SAA 03 039 o:33
+    with_refs:
+    - '41:12'
+    relation: parallel
+    record:
+      agent:
+      - Bēl
+      - God
+      place:
+      - the lower heaven
+      - the lowest heaven (al-samāʾ al-dunyā)
+      object:
+      - the stars of the gods
+      - lamps
+      action:
+      - draws them on it
+      - adorns it with them
+      quoted:
+      - šamû šaplûti yašpû ša kakkabī lumāši ša ilāni ina muhhi eṣir
+      - wa-zayyannā s-samāʾa d-dunyā bi-maṣābīḥ
+    note: o:33 šamû šaplûti yašpû ša lumāši ša ilāni ina muhhi eṣir 'the lower heaven is of jasper; he drew the constellations of the gods on it'; Q 41:12 fa-qaḍāhunna sabʿa samāwātin ... wa-zayyannā s-samāʾa d-dunyā bi-maṣābīḥa wa-ḥifẓā. In a stack of heavens the stars belong to the lowest one.
+- unit: ane-saa03-039-tiamat-cut-and-secret-lore
+  checked:
+  - quran-36-cosmic-signs
+  - quran-17-polemic-and-resurrection
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-79-pharaoh-and-cosmos
+  - quran-21-cosmic-signs-and-scales
+  - quran-10-moses-pharaoh
+  matches:
+  - with: quran-21-cosmic-signs-and-scales
+    motif: one-mass-split-into-heaven-and-earth
+    refs:
+    - SAA 03 039 r:1-2
+    with_refs:
+    - '21:30'
+    relation: divergence
+    record:
+      agent:
+      - Bēl
+      - God
+      object:
+      - Tiamat
+      - the heavens and the earth, closed up (ratq)
+      action:
+      - splits in two
+      - split apart
+      quoted:
+      - ihpīši-ma kīma nūnī mašṭê ana šinīšu
+      - kānatā ratqan fa-fataqnāhumā
+    note: 'r:1-2 Tiamat bēlu ikmīši iṣbatsi išīmši ihpīši-ma kīma nūnī mešṭê ana šinīšu ''the lord bound Tiamat, seized her, fixed her fate and split her in two like a fish for drying'' (to make heaven and earth); Q 21:30 anna s-samāwāti wa-l-arḍa kānatā ratqan fa-fataqnāhumā. One mass parted into heaven and earth: a slain monster''s body vs a closed-up mass with no foe.'
+  - with: quran-10-moses-pharaoh
+    motif: defeated-foe-kept-as-a-sign-for-later-times
+    refs:
+    - SAA 03 039 r:15-16
+    with_refs:
+    - 10:92
+    relation: parallel
+    record:
+      agent:
+      - Bēl
+      - God
+      object:
+      - the bound Tiamat
+      - Pharaoh's body
+      action:
+      - shows her
+      - saves the body
+      outcome:
+      - so that the people do not forget
+      - a sign for those after you
+      quoted:
+      - aššu lā mašê nišī ukallim
+      - li-takūna li-man khalfaka āyatan
+    note: 'r:15-16 bēlu ikmušī-ma aššu lā mašê nišī ukallim ''the lord bound her and, so that the people would not forget, showed (her)''; Q 10:92 fa-l-yawma nunajjīka bi-badanika li-takūna li-man khalfaka āyatan. The beaten enemy is kept and shown as a reminder to later people: the sea-monster vs the drowned Pharaoh.'
+- unit: ane-saa03-011-coronation-hymn-of-assurbanipal
+  checked:
+  - quran-25-hell-and-the-day-of-angels
+  - quran-105-elephant
+  - quran-2-talut-jalut
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa03-008-hymn-to-arbela
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-39-mercy-and-last-day
+  - quran-48-fath-tree-hudaybiya-and-seed
+  - quran-28-prophet-not-present-and-the-two-books
+  matches:
+  - with: quran-28-prophet-not-present-and-the-two-books
+    motif: sacred-city-receives-the-produce-of-all-lands
+    refs:
+    - SAA 03 008 o:18-19
+    with_refs:
+    - '28:57'
+    relation: parallel
+    record:
+      place:
+      - Arbela, gate of heaven
+      - a safe sanctuary (ḥaram āmin)
+      action:
+      - the tribute of the lands enters it
+      - the fruits of everything are brought to it
+      quoted:
+      - ana libbišu erēbu maddanāt mātāti
+      - ḥaraman āminan yujbā ilayhi thamarātu kulli shayʾ
+    note: 'o:18-19 māhāzu ṣīru parak šīmāti abul šamê, ana libbišu erēbu maddanāt mātāti ''exalted shrine, dais of fates, gate of heaven: into it enters the tribute of the lands''; Q 28:57 a-wa-lam numakkin lahum ḥaraman āminan yujbā ilayhi thamarātu kulli shayʾin rizqan min ladunnā. Tribute of the lands vs fruits of everything, given as provision from God.'
+- unit: ane-saa03-040-cultic-calendar-commentary
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-saa03-035-marduk-ordeal-1
+  checked:
+  - quran-22-signs-and-rites
+  - quran-5-jesus-miracles-table
+  - quran-3-badr-uhud
+  matches: []
+- unit: ane-saa03-035-marduk-ordeal-2
+  checked:
+  - quran-2-throne-verse
+  - quran-5-jesus-miracles-table
+  - quran-15-prologue-and-heavens
+  matches: []
+- unit: ane-saa03-049-gilgamesh-scribe-fragment
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-85-constellations
+  - quran-25-furqan-and-objections
+  matches: []
+- unit: ane-saa03-003-assurbanipal-hymn-to-istars
+  checked:
+  - quran-8-badr-help
+  - quran-3-sovereignty
+  - quran-20-moses-pharaoh-magicians
+  - quran-2-throne-verse
+  - quran-93-94-forenoon-and-expansion
+  matches:
+  - with: quran-8-badr-help
+    motif: god-threw-when-you-threw
+    refs:
+    - SAA 03 003 r:4-6
+    with_refs:
+    - '8:17'
+    relation: parallel
+    record:
+      agent:
+      - Assurbanipal
+      - the believers; the Prophet
+      action:
+      - subdues the lands
+      - kill the enemy; throws
+      instrument:
+      - bow
+      - a throw
+      outcome:
+      - by the might of the goddesses
+      - God killed them; God threw
+      quoted:
+      - ul ina danāniya ul ina danān qaštiya ina emūq ... danāni ištarātiya
+      - fa-lam taqtulūhum wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā
+    note: r:4-6 ul ina danāniya ul ina danān qaštiya, ina emūq ... u danāni ištarātiya mātāti ... ušakniša 'not by my strength, not by the strength of my bow, but by the might of my goddesses I subdued the lands'; Q 8:17 fa-lam taqtulūhum wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā. The same 'not ... but the god' denial of the victor's own weapon, with the bow ~ the throw.
+  - with: quran-93-94-forenoon-and-expansion
+    motif: orphan-raised-by-the-deity
+    refs:
+    - SAA 03 003 o:13
+    with_refs:
+    - '93:6'
+    relation: parallel
+    record:
+      agent:
+      - the goddesses
+      - your Lord
+      action:
+      - raise the parentless one
+      - shelters the orphan
+      recipient:
+      - Assurbanipal
+      - the Prophet
+      quoted:
+      - ul īdi abu u ummi ina burki ištarātiya arbâ
+      - a-lam yajidka yatīman fa-āwā
+    note: o:13 ul īdi abu u ummi ina burki ištarātiya arbâ anāku 'I knew no father or mother, I grew up on the knees of my goddesses'; Q 93:6 a-lam yajidka yatīman fa-āwā 'did he not find you an orphan and shelter you?' The one without parents is reared by the deity, said of the chosen man.
+- unit: ane-saa03-018-sargon-elamite-bow-fragment
+  checked:
+  - quran-38-solomon-horses-throne
+  - quran-2-talut-jalut
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa03-019-assurbanipal-and-istar-fragment
+  checked:
+  - quran-3-sovereignty
+  - quran-40-throne-bearers
+  - quran-66-tahrim-wives-and-the-four-women
+  matches: []
+- unit: ane-saa03-022-elamite-campaign-epic
+  checked:
+  - quran-29-destroyed-nations
+  - quran-7-moses-pharaoh
+  - quran-59-hashr-banu-nadir-and-fay
+  matches: []
+- unit: ane-saa03-028-praise-and-tribute-fragment
+  checked:
+  - quran-56-waqia-three-classes-and-the-garden
+  - quran-80-frowned
+  - quran-55-rahman-creation-and-the-two-seas
+  matches: []
+- unit: ane-saa03-030-mock-incantation-bel-etir
+  checked:
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-37-hell-and-garden
+  - quran-84-splitting
+  matches:
+  - with: quran-68-qalam-the-pen-and-the-slanderer
+    motif: invective-chain-ending-in-slur-on-birth
+    refs:
+    - SAA 03 030 o:1-4
+    with_refs:
+    - '68:10'
+    - '68:11'
+    - '68:12'
+    - '68:13'
+    relation: echo
+    record:
+      recipient:
+      - Bēl-ēṭir son of Ibâ
+      - an unnamed swearer
+      action:
+      - string of insults
+      - string of insults
+      quoted:
+      - qinnu šapiltu ... ardu ša ili mīti
+      - ḥallāf mahīn hammāz ... ʿutull baʿda dhālika zanīm
+    note: o:1-4 Bēl-ēṭir hibtu nīku ... mār Ibâ ... qinnu šapiltu, ardu ša ili mīti 'robbery, (sexually) known ... son of Ibâ ... low nest (base family), slave of a dead god'; Q 68:10-13 ḥallāfin mahīnin hammāzin mashshāʾin bi-namīmin mannāʿin li-l-khayri muʿtadin athīmin ʿutullin baʿda dhālika zanīm. A chain of epithets against one opponent that turns to his low or doubtful birth (qinnu šapiltu ~ zanīm). The Assyrian text is a parody incantation, the Quran's a warning not to obey him.
+- unit: ane-saa03-033-sin-of-sargon
+  checked:
+  - quran-3-sovereignty
+  - quran-3-badr-uhud
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa03-036-assur-and-lahmu-fragment
+  checked:
+  - quran-17-polemic-and-resurrection
+  - quran-5-jesus-miracles-table
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-saa03-042-divine-letter-fragment
+  checked:
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-4-prophets-and-trinity
+  - quran-42-shura-judgment-and-divine-speech
+  matches: []
+- unit: ane-saa03-043-divine-letter-which-god
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  - quran-27-is-there-a-god-with-god
+  matches: []
+- unit: ane-saa03-051-slander-fragment
+  checked:
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-24-ifk-slander
+  - quran-24-penalties-and-lian
+  matches:
+  - with: quran-49-hujurat-etiquette-and-brotherhood
+    motif: slander-as-eating
+    refs:
+    - SAA 03 051 5'
+    - SAA 03 051 r:4
+    with_refs:
+    - '49:12'
+    relation: echo
+    record:
+      action:
+      - eats the bread of slander
+      - eats his dead brother's flesh
+      object:
+      - bread of slander (akal karṣē)
+      - flesh (laḥm)
+      quoted:
+      - akal karṣē šaptēka ... imallah šīru
+      - an yaʾkula laḥma akhīhi maytan
+    note: 5' akal karṣē šaptēka 'the bread of slander (karṣu, literally pieces) of your lips', r:4 [...] imallah šīru 'tears out flesh' (broken); Q 49:12 wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan. Slander as eating someone, in the Akkadian idiom akālu karṣī and in the Quranic image of the brother's flesh.
+- unit: ane-saa03-052-herald-fragment
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-20-moses-pharaoh-magicians
+  - quran-61-saff-ranks-moses-jesus-ahmad
+  matches: []
+- unit: ane-saa03-009-goddess-love-lyrics-uruk-babylon
+  checked:
+  - quran-7-towns-pattern
+  - quran-2-call-to-worship
+  - quran-28-destroyed-towns-and-judgment
+  matches: []
+- unit: ane-saa03-032-o-kummaya-prologue
+  checked:
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-73-enwrapped
+  - quran-20-moses-call
+  matches: []
+- unit: ane-saa03-032-o-dream-ereshkigal
+  checked:
+  - quran-73-enwrapped
+  - quran-86-night-comer
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa03-032-r-vision-of-netherworld-gods
+  checked:
+  - quran-53-najm-vision-and-lote-tree
+  - quran-37-ranks-and-guarded-heaven
+  - quran-112-114-unity-and-refuge
+  matches: []
+- unit: ane-saa03-032-r-nergal-judgment
+  checked:
+  - quran-96-clot
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-38-patriarchs-and-fates
+  - quran-37-ranks-and-guarded-heaven
+  matches:
+  - with: quran-55-rahman-judgment-and-the-four-gardens
+    motif: seized-by-the-forelock-before-the-judge
+    refs:
+    - SAA 03 032 r:13
+    with_refs:
+    - '55:41'
+    relation: divergence
+    record:
+      agent:
+      - a netherworld being
+      - null
+      action:
+      - seizes by the forelock and brings before the god
+      - are seized by the forelocks and the feet
+      recipient:
+      - Kummaya the prince
+      - the guilty (al-mujrimūn)
+      outcome:
+      - Išum intercedes; he is sent back alive
+      - null
+      quoted:
+      - ina abūsātiya iṣbatannīma ana mahrišu uqarribanni
+      - fa-yuʾkhadhu bi-n-nawāṣī wa-l-aqdām
+    note: 'r:13 ina abūsātiya iṣbatannīma ana mahrišu uqarribanni ''he seized me by my forelock and brought me before him (Nergal)''; Q 55:41 yuʿrafu l-mujrimūna bi-sīmāhum fa-yuʾkhadhu bi-n-nawāṣī wa-l-aqdām (cf. 96:15 la-nasfaʿan bi-n-nāṣiya). Seized by the forelock at the judgment: one visionary, spared, vs the guilty as a class.'
+- unit: ane-saa03-032-r-dead-king-and-return
+  checked:
+  - quran-2-four-birds
+  - quran-53-najm-vision-and-lote-tree
+  - quran-79-pharaoh-and-cosmos
+  - quran-75-resurrection
+  - quran-32-sajda
+  matches:
+  - with: quran-32-sajda
+    motif: return-from-the-netherworld-to-the-living
+    refs:
+    - SAA 03 032 r:28
+    with_refs:
+    - '32:12'
+    relation: divergence
+    record:
+      agent:
+      - Nergal
+      - the guilty
+      action:
+      - sends him up to the world above
+      - beg to be sent back
+      outcome:
+      - he returns, to report the warning
+      - not granted (32:13-14)
+      quoted:
+      - amātu annītu kī giṣṣi ina libbikunu lū nadâta atlak ana elâti
+      - rabbanā abṣarnā wa-samiʿnā fa-rjiʿnā naʿmal ṣāliḥan
+    note: 'r:28 amātu annītu kī giṣṣi ina libbikunu lū nadât, atlak ana elâti ''let this word be in your heart like a thorn; go up to the upper world!'' (he wakes and reports it); Q 32:12 rabbanā abṣarnā wa-samiʿnā fa-rjiʿnā naʿmal ṣāliḥan innā mūqinūn ''our Lord, we have seen and heard: send us back and we will do good''. One who has stood before the judge goes back to the living with a warning vs the guilty who beg to go back and are not sent.'
+- unit: ane-saa03-017-shalmaneser-urartu
+  checked:
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-79-pharaoh-and-cosmos
+  - quran-105-elephant
+  matches:
+  - with: quran-59-hashr-banu-nadir-and-fay
+    motif: enemy-trees-cut-down
+    refs:
+    - SAA 03 017 r:21
+    with_refs:
+    - '59:5'
+    relation: divergence
+    record:
+      agent:
+      - Shalmaneser
+      - the believers
+      object:
+      - trees, the delight of his royal city
+      - palm trees (līna)
+      action:
+      - burns
+      - cut down or leave standing
+      outcome:
+      - boast of the conqueror
+      - by God's leave, to disgrace the transgressors
+      quoted:
+      - iṣē nizmat āl šarrūtišu ina libbi išāti assarap
+      - mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ... fa-bi-idhni llāh
+    note: 'r:21 iṣē nizmat āl šarrūtišu ina libbi išāti assarap ''the trees, the delight of his royal city, I burned in fire'' (r:19 the villages too); Q 59:5 mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāhi wa-li-yukhziya l-fāsiqīn. The enemy''s trees destroyed in war: burned as a royal boast vs cut or spared by God''s leave.'
+- unit: ane-saa03-012-sufferer-to-nabu
+  checked:
+  - quran-21-prophets-answered
+  - quran-93-94-forenoon-and-expansion
+  - quran-3-badr-uhud
+  - quran-17-iblis-and-adam
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: deity-abandons-his-servant
+    refs:
+    - SAA 03 012 r:10-11
+    with_refs:
+    - '93:3'
+    relation: divergence
+    record:
+      agent:
+      - Nabû
+      - your Lord
+      recipient:
+      - the sufferer
+      - the Prophet
+      action:
+      - has abandoned him?
+      - has not forsaken him
+      quoted:
+      - Nabû ammīni tumašširanni lā tumaššaranni bēlī
+      - mā waddaʿaka rabbuka wa-mā qalā
+    note: r:10-11 aktalda ana abul mūti Nabû ammīni tumašširanni, lā tumaššaranni bēlī 'I have reached the gate of death; Nabû, why have you abandoned me? do not abandon me, my lord'; Q 93:3 mā waddaʿaka rabbuka wa-mā qalā 'your Lord has not forsaken you nor despised you'. The sufferer's question is asked; the Quran gives the denial.
+- unit: ane-saa03-010-blessing-assur-esarhaddon
+  checked:
+  - quran-69-haqqa-books-in-right-and-left-hands
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa03-016-lyric-tree-cut
+  checked:
+  - quran-68-qalam-companions-of-the-garden
+  - quran-18-two-gardens
+  - quran-80-frowned
+  matches: []
+- unit: ane-saa03-050-royal-epic-fragment
+  checked:
+  - quran-29-destroyed-nations
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-38-solomon-horses-throne
+  matches: []
+- unit: ane-q009249-mystical-cult-commentary
+  checked:
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-17-polemic-and-resurrection
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-saa03-034-marduk-ordeal-captivity
+  checked:
+  - quran-5-jesus-miracles-table
+  - quran-22-signs-and-rites
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa03-034-marduk-ordeal-release
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-15-prologue-and-heavens
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-saa09-011-assurbanipal-vision-star
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-010-dunnasha-amur-fragment
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-27-salih-nine-plotters
+  - quran-20-moses-call
+  matches: []
+- unit: ane-saa09-001-1-issar-la-tashiyat
+  checked:
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-13-signs-of-creation
+  matches:
+  - with: quran-13-signs-of-creation
+    motif: guard-before-and-behind
+    refs:
+    - SAA 09 001 o.i:22'-24'
+    with_refs:
+    - '13:11'
+    relation: divergence
+    record:
+      agent:
+      - Ištar of Arbela
+      - angels in succession (muʿaqqibāt)
+      recipient:
+      - Esarhaddon
+      - every man
+      action:
+      - goes before and behind him
+      - before and behind him, guarding him
+      quoted:
+      - ina pānātūka ina kutallika allaka
+      - lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāh
+    note: 'o.i:22''-24'' ina pānātūka ina kutallika allaka lā tapallah ''I go before you and behind you; fear not''; Q 13:11 lahu muʿaqqibātun min bayni yadayhi wa-min khalfihi yaḥfaẓūnahu min amri llāh. A guard before and behind: the goddess herself for the king vs angels by God''s command for everyone.'
+- unit: ane-saa09-001-2-sinqisha-amur
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-001-3-remut-allati
+  checked:
+  - quran-27-salih-nine-plotters
+  - quran-20-moses-call
+  - quran-66-tahrim-wives-and-the-four-women
+  matches: []
+- unit: ane-saa09-001-4-baya-bel
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-001-5-ilussa-amur
+  checked:
+  - quran-7-salih-thamud
+  - quran-7-unlettered-prophet
+  - quran-33-zayd-seal-of-prophets
+  matches: []
+- unit: ane-saa09-001-6-issar-beli-daini
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-3-sovereignty
+  - quran-7-moses-pharaoh
+  - quran-11-hud
+  matches:
+  - with: quran-11-hud
+    motif: held-by-the-forelock
+    refs:
+    - SAA 09 001 o.iv:26-28
+    with_refs:
+    - '11:56'
+    relation: echo
+    record:
+      agent:
+      - Ištar of Arbela
+      - God
+      recipient:
+      - Esarhaddon
+      - every creature (dābba)
+      action:
+      - holds by the lock of hair
+      - holds by the forelock
+      quoted:
+      - ina kizirtika ina šamê rabûte ukâlka
+      - mā min dābbatin illā huwa ākhidhun bi-nāṣiyatihā
+    note: o.iv:26-28 ina kizirtika ina šamê rabûte ukâlka 'I hold you by your lock of hair in the great heavens'; Q 11:56 (Hūd) mā min dābbatin illā huwa ākhidhun bi-nāṣiyatihā. The deity holding a person by the hair of the head, in protection of the king vs in mastery over every creature.
+- unit: ane-saa09-001-7-ahat-abisha
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-19-prophets-remembered
+  matches: []
+- unit: ane-saa09-001-8-ishtar-to-steppe
+  checked:
+  - quran-20-samiri-calf
+  - quran-7-calf
+  - quran-2-the-cow
+  matches: []
+- unit: ane-saa09-001-9-la-dagil-ili
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-008-elamite-god
+  checked:
+  - quran-54-qamar-moon-split-and-noah
+  - quran-27-is-there-a-god-with-god
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  matches: []
+- unit: ane-saa09-003-1-first-shulmu
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-003-2-heard-your-lament
+  checked:
+  - quran-105-elephant
+  - quran-29-destroyed-nations
+  - quran-11-lot
+  - quran-9-closing
+  matches:
+  - with: quran-11-lot
+    motif: stones-rained-on-enemies
+    refs:
+    - SAA 09 003 ii:20-22
+    with_refs:
+    - 11:82
+    relation: divergence
+    record:
+      agent:
+      - Aššur
+      - God
+      action:
+      - rains stones on them
+      - rains stones on it
+      object:
+      - stones of fiery glow (abnē anqullu)
+      - stones of sijjīl
+      recipient:
+      - the rebels, on the mountain
+      - Lot's town
+      quoted:
+      - abnē anqullu ina muhhišunu azunun
+      - wa-amṭarnā ʿalayhā ḥijāratan min sijjīl
+    note: ii:20-22 ana šadê usselišunu abnē anqullu ina muhhišunu azunun nakarūtēka uhtattip 'I took them up the mountain and rained stones of fire on them; I slaughtered your enemies' (blood fills the river, ii:23); Q 11:82 wa-amṭarnā ʿalayhā ḥijāratan min sijjīlin manḍūd (cf. 105:4). The same act, 'rain' (zanānu ~ amṭara) of stones from heaven, with different stones (fiery vs baked clay) and targets (the king's rebels vs a sinning town).
+- unit: ane-saa09-003-3-covenant-tablet
+  checked:
+  - quran-7-later-heirs-mountain
+  - quran-24-obedience-and-succession
+  - quran-63-munafiqun-propped-timbers
+  - quran-2-polemic-israel
+  matches:
+  - with: quran-2-polemic-israel
+    motif: drink-taken-at-the-covenant
+    refs:
+    - SAA 09 003 iii:3-15
+    with_refs:
+    - 2:93
+    relation: divergence
+    record:
+      agent:
+      - Ištar (the goddess)
+      - God
+      recipient:
+      - the people (magnates)
+      - the Children of Israel
+      object:
+      - water from a ṣarṣaru jar
+      - the calf
+      action:
+      - given to drink at the covenant
+      - made to drink into their hearts at the covenant
+      outcome:
+      - they will remember and keep the covenant
+      - 'they said: we hear and we disobey'
+      quoted:
+      - mê ṣarṣari tasqīšunu ... taštiā tahassasāni tanaṣṣarā adê annûti
+      - wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim
+    note: 'iii:3-15 mê ṣarṣari tasqīšunu ... mā ištu libbi mê annûti taštiā tahassasāni tanaṣṣarā adê annûti ''she gave them water of the jar to drink: from this water you will drink, remember and keep this covenant'' (lest they forget it eating bread in their towns, iii:9-11); Q 2:93 wa-idh akhadhnā mīthāqakum wa-rafaʿnā fawqakumu ṭ-ṭūr ... qālū samiʿnā wa-ʿaṣaynā wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim. A drink at the covenant ceremony: water that binds to the oath vs the calf drunk into the heart in breach of it.'
+- unit: ane-saa09-003-4-ishtar-complains-la-dagil-ili
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-abraham-house-pilgrimage
+  matches:
+  - with: quran-20-moses-pharaoh-magicians
+    motif: impalement-of-those-who-rose-against-the-king
+    refs:
+    - SAA 09 003 iv:22-30
+    with_refs:
+    - 20:71
+    relation: divergence
+    record:
+      agent:
+      - Ištar of Arbela
+      - Pharaoh
+      recipient:
+      - palace servants who rose against the king
+      - the magicians who believed
+      action:
+      - puts them on stakes
+      - threatens to crucify them on palm trunks
+      instrument:
+      - stakes (zaqīpāni)
+      - palm trunks (judhūʿ al-nakhl)
+      quoted:
+      - ša ina muhhika isihūni ... ana zaqīpāni assakanšunu
+      - la-uṣallibannakum fī judhūʿi n-nakhl
+    note: 'iv:22-30 kīma parriṣūti ussadidūni ... ardāni ekalli šunu ša ina muhhika isihūni ... ana zaqīpāni assakanšunu ''they dragged them like criminals ... the palace servants who rose against you ... I put them on stakes''; Q 20:71 (cf. 7:124) fa-la-uqaṭṭiʿanna aydiyakum wa-arjulakum min khilāfin wa-la-uṣallibannakum fī judhūʿi n-nakhl. Impalement of those who turned against the king: carried out by the goddess for the king vs threatened by the tyrant against believers.'
+  - with: quran-22-abraham-house-pilgrimage
+    motif: food-offered-to-the-deity
+    refs:
+    - SAA 09 003 iii:25-37
+    with_refs:
+    - '22:37'
+    relation: divergence
+    record:
+      agent:
+      - Ištar of Arbela
+      - God
+      object:
+      - bread, beer, cup
+      - flesh and blood of the sacrifices
+      action:
+      - complains she is not fed; demands bread and beer
+      - neither reaches him; only piety does
+      quoted:
+      - atta ana yâši mīnu tadinna akālī ša qerīte laššu
+      - lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā wa-lākin yanāluhu t-taqwā minkum
+    note: iii:25-37 atta ana yâši mīnu tadinna? akālī ša qerīte laššu ... akkalli akāli akkalli kāsi ... 1 sūt akal aṣūdi, 1 sūt maštītu ša šikari ṭābi ... laššia ina pīya laškun 'what have you given me? there is no banquet food ... I am denied food, denied the cup ... bread and good beer, let me take and put it in my mouth'; Q 22:37 lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā wa-lākin yanāluhu t-taqwā minkum. The offerings as the deity's meal vs offerings whose flesh never reaches God.
+- unit: ane-saa09-007-mullissu-kabtat
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-004-weasels
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-006-tashmetu-eresh
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-calf
+  matches: []
+- unit: ane-saa09-002-1-nabu-hussanni
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-002-2-baya
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-20-moses-pharaoh-magicians
+  matches: []
+- unit: ane-saa09-002-3-la-dagil-ili
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-5-jesus-miracles-table
+  - quran-85-constellations
+  matches:
+  - with: quran-85-constellations
+    motif: deity-the-doer
+    refs:
+    - SAA 09 002 ii:18'
+    with_refs:
+    - '85:16'
+    relation: echo
+    record:
+      agent:
+      - Ištar of Arbela
+      - God
+      name:
+      - qābītu ēpištu (speaker and doer)
+      - faʿʿāl li-mā yurīd (doer of what he wills)
+      quoted:
+      - anāku šī qābītu ēpissu
+      - faʿʿālun li-mā yurīd
+    note: ii:18' anāku šī qābītu ēpištu 'I am she, the speaker and the doer'; Q 85:16 faʿʿālun li-mā yurīd. A divine self-designation by the participle 'doer'; the goddess pairs it with speaking, the Quran with willing.
+- unit: ane-saa09-002-4-urkittu-sharrat
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  matches:
+  - with: quran-20-moses-pharaoh-magicians
+    motif: deity-says-i-see-and-i-hear
+    refs:
+    - SAA 09 002 ii:31'
+    - SAA 09 002 iii:17'
+    with_refs:
+    - '20:46'
+    relation: echo
+    record:
+      agent:
+      - Ištar of Arbela, Mullissu
+      - God
+      recipient:
+      - Esarhaddon
+      - Moses and Aaron
+      quoted:
+      - adagal assanamme ... lā tapallah
+      - lā takhāfā innanī maʿakumā asmaʿu wa-arā
+    note: 'ii:30''-31'' abat Issār ša Arbail abat šarrati Mullissu: adagal assanamme ''I see and I hear'' (and search out the disloyal), iii:17'' lā tapallah; Q 20:46 qāla lā takhāfā innanī maʿakumā asmaʿu wa-arā. ''Fear not'' with the deity''s ''I see, I hear'' as the ground of safety against an enemy king''s court; the order of the two verbs is reversed.'
+- unit: ane-saa09-002-5-father-and-mother
+  checked:
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  - quran-41-steadfast-and-repel-evil
+  - quran-28-pharaoh-oppression-infant-moses
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa09-005-mullissu-hears-calf
+  checked:
+  - quran-3-sovereignty
+  - quran-20-moses-pharaoh-magicians
+  - quran-10-moses-pharaoh
+  matches: []
+- unit: ane-saa09-009-dunnasha-amur
+  checked:
+  - quran-3-sovereignty
+  - quran-7-moses-pharaoh
+  - quran-20-moses-pharaoh-magicians
+  - quran-2-throne-verse
+  matches:
+  - with: quran-2-throne-verse
+    motif: whether-the-guarding-deity-tires-or-sleeps
+    refs:
+    - SAA 09 009 o:8-15
+    - SAA 09 009 o:18
+    with_refs:
+    - 2:255
+    relation: divergence
+    record:
+      agent:
+      - Mullissu / the Lady of Arbela
+      - God
+      action:
+      - guards and seeks his life
+      - guards heaven and earth
+      outcome:
+      - she is tired and sleepless
+      - no slumber or sleep; guarding does not weary him
+      quoted:
+      - anhāku-ma šudlupāku
+      - lā taʾkhudhuhu sinatun wa-lā nawm ... wa-lā yaʾūduhu ḥifẓuhumā
+    note: o:8-15 balāṭaka eršāku-ma arappuda ṣēru ... anhāku-ma šudlupāku 'longing for your life I roam the steppe, cross rivers and seas ... I am tired and sleepless', o:18 nagalabāya hurrudā 'my shoulders are alert'; Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawm ... wa-lā yaʾūduhu ḥifẓuhumā. The guarding deity worn out and sleepless vs God whom neither sleep nor guarding wearies.
+- unit: ane-saa20-055-sargon-sacrificial-table
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-2-the-cow
+  - quran-5-contracts-food-laws
+  matches:
+  - with: quran-22-abraham-house-pilgrimage
+    motif: who-eats-the-sacrifice
+    refs:
+    - SAA 20 055 r:12'-14'
+    with_refs:
+    - '22:28'
+    - '22:36'
+    relation: divergence
+    record:
+      agent:
+      - royal scribe, city scribe, cook
+      - the offerers
+      action:
+      - eat the cuts of the sacrifice
+      - eat of it and feed the poor
+      recipient:
+      - null
+      - the wretched poor; the content and the beggar
+      quoted:
+      - ṭupšar šarri ekkal ... ṭupšar āli ekkal ... nuhatimmu ekkal
+      - fa-kulū minhā wa-aṭʿimū l-bāʾisa l-faqīr
+    note: r:12'-14' ša pān Šamaš adi silqišu ṭupšar šarri ekkal ... ṭupšar āli ekkal ... unūt libbi nuhatimmu ekkal 'what is before Šamaš with its boiled meat the royal scribe eats; ... the city scribe eats; the innards the cook eats'; Q 22:28 fa-kulū minhā wa-aṭʿimū l-bāʾisa l-faqīr, 22:36 fa-idhā wajabat junūbuhā fa-kulū minhā wa-aṭʿimū l-qāniʿa wa-l-muʿtarr. The flesh of the sacrifice eaten by named temple officials vs by the offerers and the poor.
+- unit: ane-saa20-053-akitu-gods-chariot
+  checked:
+  - quran-38-patriarchs-and-fates
+  - quran-37-ranks-and-guarded-heaven
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-saa20-053-bit-dagan-seating-baths
+  checked:
+  - quran-2-throne-verse
+  - quran-25-signs-shadow-seas
+  - quran-22-signs-and-rites
+  matches: []
+- unit: ane-saa20-005-procession-to-palace
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-jesus-miracles-table
+  - quran-2-throne-verse
+  matches: []
+- unit: ane-saa20-006-mouth-washing-dagan
+  checked:
+  - quran-74-cloaked
+  - quran-5-jesus-miracles-table
+  - quran-11-opening-throne-on-water
+  matches: []
+- unit: ane-saa20-007-coronation-1
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa20-007-coronation-2
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-moses-pharaoh
+  - quran-7-idol-request
+  matches: []
+- unit: ane-saa20-029-mouth-and-tongue-secret
+  checked:
+  - quran-74-cloaked
+  - quran-41-steadfast-and-repel-evil
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-saa20-054-akitu-god-list
+  checked:
+  - quran-9-bargain-abraham
+  - quran-22-abraham-house-pilgrimage
+  - quran-2-throne-verse
+  matches: []
+- unit: ane-saa20-041-god-list-adad
+  checked:
+  - quran-9-bargain-abraham
+  - quran-2-throne-verse
+  - quran-4-prophets-and-trinity
+  matches: []
+- unit: ane-saa20-043-gates-and-papahu
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-2-throne-verse
+  - quran-54-qamar-moon-split-and-noah
+  matches: []
+- unit: ane-saa20-036-dais-of-destinies-fragment
+  checked:
+  - quran-3-sovereignty
+  - quran-22-signs-and-rites
+  - quran-25-signs-shadow-seas
+  matches: []
+- unit: ane-saa20-023-king-rises-stool
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-2-war-pilgrimage
+  matches: []
+- unit: ane-saa20-035-dais-of-destinies-neberu
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-20-taha-prologue
+  - quran-79-pharaoh-and-cosmos
+  matches: []
+- unit: ane-saa20-009-assurbanipal-new-rites
+  checked:
+  - quran-3-sovereignty
+  - quran-79-pharaoh-and-cosmos
+  - quran-5-jesus-miracles-table
+  matches: []
+- unit: ane-saa20-052-akitu-gods-and-provisions
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-2-throne-verse
+  - quran-2-war-pilgrimage
+  matches: []
+- unit: ane-saa20-052-baths-stars-queries
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-79-pharaoh-and-cosmos
+  - quran-13-signs-of-creation
+  matches: []
+- unit: ane-saa20-052-gates-stars-are-gods
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-2-patience-signs
+  - quran-23-lordship-arguments
+  - quran-6-abraham-heavenly-bodies
+  matches:
+  - with: quran-6-abraham-heavenly-bodies
+    motif: heavenly-body-identified-as-the-lord
+    refs:
+    - SAA 20 052 r.iii:55'-60'
+    with_refs:
+    - 6:76
+    - 6:77
+    - 6:78
+    relation: divergence
+    record:
+      object:
+      - Jupiter; the moon (Sîn); Saturn, star of Šamaš (the sun)
+      - a star; the moon; the sun
+      action:
+      - identified with the high god
+      - '''this is my lord'', then rejected when it sets'
+      name:
+      - Aššur
+      - rabbī
+      quoted:
+      - Sagmegar kakkab Sîn šū u Sîn Aššur šū
+      - hādhā rabbī ... lā uḥibbu l-āfilīn
+    note: 'r.iii:55''-60'' Sagmegar kakkab Sîn šū u Sîn Aššur šū; Lalu Aššur, Nīru Aššur ... Kayyamānu kakkab Šamaš ''Jupiter is the star of Sîn (the moon), and Sîn is Aššur; the Plough star is Aššur ... Saturn is the star of Šamaš (the sun)''; Q 6:76-78 raʾā kawkaban qāla hādhā rabbī fa-lammā afala qāla lā uḥibbu l-āfilīn ... al-qamara ... ash-shamsa ... innī barīʾun mimmā tushrikūn. Star, moon and sun each equated with the lord: affirmed in the ritual compendium, tried and dropped by Abraham.'
+- unit: ane-saa20-052-sennacherib-gods-queen
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-2-throne-verse
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-saa20-052-offerings-sheruua-wife
+  checked:
+  - quran-50-qaf-two-recorders-and-hell-asks-more
+  - quran-16-daughters-and-the-bee
+  - quran-79-pharaoh-and-cosmos
+  matches: []
