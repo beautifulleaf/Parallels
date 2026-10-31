@@ -70,6 +70,9 @@ new_motifs:
   creator-embraces-children-with-ka-arms: {label: "The creator puts his arms around his first children as ka-arms so that his life-force is in them", cluster: creation}
   ennead-genealogy-listed: {label: "The Great Ennead of Heliopolis is listed: Atum, Shu, Tefnut, Geb, Nut, Osiris, Isis, Seth, Nephthys, all Atum's children", cluster: creation}
   tomb-protected-from-all-harm: {label: "The creator is asked to protect the king and his pyramid for ever as he protected his first children, so that nothing evil happens to it", cluster: afterlife}
+  dead-king-is-seed-of-osiris: {label: "The dead king is the seed (semen) that came forth from Osiris", cluster: afterlife}
+  eye-of-horus-eaten-as-food: {label: "The dead god eats the Eye (of Horus), given him by his son, and lives by it; his belly is round with it", cluster: afterlife}
+  body-of-god-is-body-of-king: {label: "Union formula: 'your body is this king's body, your flesh his flesh, your bones his bones; when you go he goes'", cluster: afterlife}
   # Ptahhotep
   infirmities-of-old-age-catalogue: {label: "Catalogue of old age: eyes weak, ears deaf, mouth silent, heart forgetful, bones aching, nose blocked, all taste gone; good turned to evil", cluster: wisdom}
   staff-of-old-age-son-as-successor: {label: "The aged official asks the king to appoint a 'staff of old age', his son as successor, so that he may teach him", cluster: wisdom}
@@ -354,7 +357,7 @@ units:
       - {motif: slain-in-gods-way-are-alive, refs: ["PT213 W1:206-206/2"], note: "only as a parallel formula: the dead declared not dead but alive"}
       - {motif: dead-king-enthroned-rules-living-and-dead, refs: ["PT213 W1:206/3"], note: "on the throne of Osiris, ꜥbꜣ-sceptre to command the living, lotus-bud sceptre to command 'those of secret places' (the dead)"}
       - {motif: limbs-of-dead-identified-with-gods, refs: ["PT213 W1:207"]}
-      - {motif: deity-gives-king-crown-sceptre-crook, refs: ["PT213 W1:206/3"], note: "loose fit: sceptres in the king's two hands"}
+      - {motif: god-gives-king-crown-sceptre-crook, refs: ["PT213 W1:206/3"], note: "loose fit: sceptres in the king's two hands"}
     hints:
       - "Compare Q 2:154 and 3:169 ('do not say of those slain in God's way: dead; rather they are alive') and Wis 3:2-4."
       - "Ruler over living and dead: Rom 14:9."

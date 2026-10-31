@@ -513,3 +513,110 @@ units:
     hints:
       - "Compare Ps 2:6-9 and Ps 110:1-2 for the son enthroned and his enemies subdued; and the reconciled rival given a role, 2 Sam 9 (Mephibosheth at David's table)."
       - "The storm god thundering in the sky: Ps 29:3-9, Ps 18:13; Job 37:2-5; Q 13:13 (the thunder glorifies his praise)."
+  - id: ane-ipuwer-1-opening-fragments
+    tradition: ane-egyptian
+    title: Broken opening - doorkeepers plunder, the Delta bears shields, a man sees his son as enemy (Admonitions of Ipuwer)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 1:1-1:12"]
+    tags:
+      - {motif: father-son-hostility-in-crisis, refs: ["Ipuwer 1:5/2"], note: "mꜣꜣ z zꜣ =f m ḫrw,y =f; the first column (c. 14 lines) is lost"}
+      - {motif: workers-abandon-their-crafts, refs: ["Ipuwer 1:1-1:4/2"], note: "doorkeepers say 'let us go plunder', washermen refuse their loads, bird-catchers raise troops; most lines broken"}
+      - {motif: ancestors-foretold-the-calamity, refs: ["Ipuwer 1:10"], note: "sr.n tp(,j).w.pl-ꜥ.pl 'what the ancestors foretold'"}
+      - {motif: foreigners-have-become-people-everywhere, refs: ["Ipuwer 1:9"], note: "ḫꜣs,tj.pl ḫpr m r(m)ṯ.pl m s,t nb(.t)"}
+    hints:
+      - "Compare Mic 7:6 (a man's enemies are the men of his own house) and Matt 10:35-36."
+      - "Compare Lam 5:2 (our inheritance turned over to strangers) and Deut 28:43 (the stranger rises above you)."
+  - id: ane-ipuwer-2-o-yet-blood-and-death
+    tradition: ane-egyptian
+    title: "'O, yet' - the Nile unploughed, women barren, pestilence and blood, the river is blood (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 2:1-2:14/3"]
+    tags:
+      - {motif: lament-refrain-o-yet, refs: ["Ipuwer 2:1/2", "Ipuwer 2:2", "Ipuwer 2:3/3", "Ipuwer 2:4", "Ipuwer 2:10"], note: "jw ms ..."}
+      - {motif: inundation-comes-but-none-ploughs, refs: ["Ipuwer 2:3/3"], note: "jw ms ḥꜥpj ḥr ḥwi̯ n skꜣ〈.n〉 =tw n =f"}
+      - {motif: women-barren-creator-cannot-fashion, refs: ["Ipuwer 2:4-2:4/2"], note: "n qd.n H̱nm,w m-ꜥ sḫr.pl tꜣ"}
+      - {motif: social-inversion-rich-and-poor-change-places, refs: ["Ipuwer 2:4/3-2:4/4", "Ipuwer 2:7/2-2:7/3", "Ipuwer 2:14/2-2:14/3"], note: "the poor own riches, he who had no sandals owns wealth; the rich lament, the poor rejoice; the lady's child becomes son of the maidservant"}
+      - {motif: pestilence-and-blood-throughout-land, refs: ["Ipuwer 2:5/3-2:6/3"], note: "jꜣd,t ḫt tꜣ, snf m s,t nb(.t), there is no lack of death; mummy-bindings call out"}
+      - {motif: dead-buried-in-river, refs: ["Ipuwer 2:6/4-2:7"], note: "nw,y m ḥꜣ,t ḫpr js wꜥb,t m [n]w,y"}
+      - {motif: nile-water-turned-to-blood, refs: ["Ipuwer 2:10-2:10/2"], note: "jw ms jtr,w m snf swrj =tw jm =f / nyw =tw m r(m)ṯ.pl jbi̯ =tw mw: probably metaphor for corpses in the river"}
+      - {motif: river-turned-to-blood, refs: ["Ipuwer 2:10"]}
+      - {motif: land-turns-like-potters-wheel, refs: ["Ipuwer 2:8/4"], note: "tꜣ ḥr msnḥ mj jrr nḥp"}
+      - {motif: crocodiles-glutted-with-the-dead, refs: ["Ipuwer 2:12-2:12/2"], note: "the crocodiles gorge, for men go to them of themselves"}
+      - {motif: people-few-brothers-buried-everywhere, refs: ["Ipuwer 2:13/3-2:13/4"]}
+      - {motif: no-one-knows-what-has-happened, refs: ["Ipuwer 2:3/4-2:3/5"], note: "n rḫ =n ḫpr.t ḫt tꜣ"}
+    hints:
+      - "The river of blood from which men drink and the thirst for water compare with the first plague, Exod 7:17-24 (the Egyptians dig round the Nile for water), Ps 78:44 and 105:29; Q 7:133 (flood, locusts, lice, frogs and blood)."
+      - "Pestilence and blood everywhere: Exod 9:3-6 (cattle pestilence), Exod 12:29-30 (no house without its dead), Ezek 5:17 and 38:22."
+      - "Reversal of rich and poor: 1 Sam 2:5-8, Lam 4:5 (those raised in purple embrace dung heaps), Lam 5:8, Eccl 10:6-7, Luke 1:52-53."
+      - "Women barren because of the state of the land: Hos 9:11-14; Lam 4:3-4."
+  - id: ane-ipuwer-3-desert-and-trade
+    tradition: ane-egyptian
+    title: "'O, yet' - foreign bowmen, jewels on maidservants, no ships to Byblos, laughter perished (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 3:1-3:14/3"]
+    tags:
+      - {motif: lament-refrain-o-yet, refs: ["Ipuwer 3:1", "Ipuwer 3:2/2", "Ipuwer 3:13/4"]}
+      - {motif: desert-throughout-the-land, refs: ["Ipuwer 3:1-3:1/3"], note: "dšr,t ḫt tꜣ; pḏ,t rw,tj jy.tj n Km,t 'the bowmen from outside have come to Egypt'"}
+      - {motif: have-nots-become-owners, refs: ["Ipuwer 3:2/2-3:3/3", "Ipuwer 3:14/2-3:14/3"], note: "gold, lapis, silver, turquoise ... on the necks of maidservants; ladies of the house say 'would that we had something to eat'"}
+      - {motif: no-voyages-to-byblos-for-coffin-wood, refs: ["Ipuwer 3:6/4-3:8"], note: "n ms ḫdi̯ =tw r [Kp]nj mjn; cedar for mummies, oil for embalming; 'Keftiu (Crete?) do not come'; [Kp]nj restored"}
+      - {motif: provinces-withhold-taxes, refs: ["Ipuwer 3:10-3:12"], note: "Elephantine, Thinis and the southern nomes pay no tax because of strife; 'what is a treasury without revenues?'"}
+      - {motif: laughter-has-perished-mourning-in-land, refs: ["Ipuwer 3:13/4-3:14"], note: "sbt ꜣq.w ... jm pw ḫt tꜣ šbn ḥr nḫ,wt"}
+    hints:
+      - "Compare Lam 5:15 (the joy of our hearts has ceased, our dancing turned to mourning) and Jer 7:34, 16:9; Amos 8:10."
+      - "Lebanon wood for Egypt and the merchant ships: Ezek 27:5-9 (cedars of Lebanon for Tyre's masts), 1 Kgs 5:6-10."
+      - "Strangers devour the land: Isa 1:7, Lam 5:2."
+  - id: ane-ipuwer-4-i-wish-i-could-die
+    tradition: ane-egyptian
+    title: "'O, yet' - hair fallen out, endless noise, 'I wish I could die', children dashed against walls, the embalmed cast out (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 4:1-4:14/3"]
+    tags:
+      - {motif: lament-refrain-o-yet, refs: ["Ipuwer 4:1", "Ipuwer 4:2/3", "Ipuwer 4:3"]}
+      - {motif: noble-indistinguishable-from-pauper, refs: ["Ipuwer 4:1-4:1/2"], note: "everyone's hair has fallen out; 'the son of a man cannot be distinguished from a have-not'"}
+      - {motif: people-wish-to-die, refs: ["Ipuwer 4:2/3-4:2/5"], note: "wr šrj 〈ḥr〉 mri̯ =j mwt =j"}
+      - {motif: infants-dashed-in-pieces, refs: ["Ipuwer 4:3"], note: "ms.pl sr.w.pl ḥwi̯.tw r sꜣ,wt.pl 'children of officials are dashed against walls'"}
+      - {motif: tomb-robbing-and-mummies-cast-out, refs: ["Ipuwer 4:4-4:4/2"], note: "those who were in the embalming place are put on the high ground; the embalmers' secrets are exposed"}
+      - {motif: sacred-writings-and-secrets-exposed, refs: ["Ipuwer 4:7/2-4:7/3"], note: "'away with the Place of Secrets!' - it is in the hands of the ignorant as of those who know it"}
+      - {motif: have-nots-become-owners, refs: ["Ipuwer 4:8/2-4:13/3"], note: "those who wore fine linen are beaten; ladies sleep in ditches; musicians at the loom, their songs dirges; maidservants rule with their mouths"}
+    hints:
+      - "'I wish I could die': Job 3:20-22 and 6:8-9, Jer 8:3 (death chosen rather than life), Rev 9:6; Q 19:23 (Mary: would that I had died before this)."
+      - "Children dashed: Ps 137:9, Hos 10:14 and 14:1, Nah 3:10, 2 Kgs 8:12."
+      - "Bones of kings and priests thrown out of their graves: Jer 8:1-2; 2 Kgs 23:16."
+      - "Lam 4:5 and 5:11-14 (princes hung up, young men at the millstones) for nobles reduced to the quern."
+  - id: ane-ipuwer-5-where-is-god
+    tradition: ane-egyptian
+    title: "'O, yet' - 'if I knew where god is', cattle weep, cult is futile, brother strikes brother, end of humankind wished (Admonitions of Ipuwer)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Egyptian"
+    version: "pLeiden I 344 recto"
+    read: ["Ipuwer 5:1-5:14/2"]
+    tags:
+      - {motif: lament-refrain-o-yet, refs: ["Ipuwer 5:2/2", "Ipuwer 5:3", "Ipuwer 5:5/2"]}
+      - {motif: if-i-knew-where-god-is, refs: ["Ipuwer 5:3-5:3/2"], note: "j⸢r⸣ ⸢sjꜣ⸣ =j rḫ.n =j nṯr tn(j) kꜣ jri̯.y =j n =f"}
+      - {motif: truth-in-name-wrong-in-deed, refs: ["Ipuwer 5:3/3-5:4"], note: "[mꜣꜥ,t] (restored) is throughout the land in name, but wrongdoing is what they do"}
+      - {motif: cattle-mourn-for-state-of-land, refs: ["Ipuwer 5:5/2-5:5/3"], note: "jw ms ꜥw,t nb.t jb.pl =sn rmi̯.w; mnmn,t ḥr jm"}
+      - {motif: infants-dashed-in-pieces, refs: ["Ipuwer 5:6-5:6/2"]}
+      - {motif: women-barren-creator-cannot-fashion, refs: ["Ipuwer 5:6/3"], note: "H̱nm,w ḥr jm ḥr wrd,w =f 'Khnum mourns because of his weariness'"}
+      - {motif: cult-offerings-futile, refs: ["Ipuwer 5:8-5:9/3"], note: "'Is it serving Khenty ... libating to Ptah? Why do you give to him? None can reach him; your giving is misery'"}
+      - {motif: prophecy-of-social-collapse-house-against-house, refs: ["Ipuwer 5:10/2"], note: "lament, not oracle: ḥwi̯ z sn =f n(,j) mw,t =f 'a man strikes his brother of the same mother'"}
+      - {motif: travellers-robbed-and-killed-on-roads, refs: ["Ipuwer 5:11-5:12/3"], note: "one sits in the bushes until the night-traveller comes, to seize his load, beat him and kill him wrongly"}
+      - {motif: people-wish-to-die, refs: ["Ipuwer 5:14/2"], note: "ḥꜣ r =f grḥ pw m r(m)ṯ.pl n〈n〉 jwr n〈n〉 msi̯.t 'would that it were the end of humankind, without conception, without birth'"}
+    hints:
+      - "'If I knew where god is': Job 23:3-9 ('Oh that I knew where I might find him'), Ps 42:3, 10 ('Where is your God?')."
+      - "Cattle mourn and the beasts groan: Joel 1:18-20, Jer 12:4, Hos 4:3."
+      - "Brother against brother: Isa 19:2 (Egyptian against Egyptian, brother against brother), Jer 9:4, Mic 7:2-6."
+      - "The wish that humankind end, with no birth: Job 3:3-10, Jer 20:14-18; compare the reverse wish of Gen 9:1."
+      - "Futility of offerings: Isa 1:11-15, Mal 1:10."
