@@ -1,0 +1,1968 @@
+# Hadith chunk 36: al-Jāmiʿ al-Kāmil book 10 (kitāb al-masājid, last bābs, pp. 1943-1952), book 11 (the two feasts,
+# pp. 1953-1987) and book 12 (Friday, pp. 1988-2062), printed 3/521-640. Read in full from the Arabic (210 hadith).
+new_motifs:
+  spitting-in-mosque-sin-burying-it-good:
+    label: Spitting in the mosque is a bad deed and burying the spittle a good deed
+    cluster: ritual
+  arrows-in-mosque-held-by-their-heads:
+    label: Whoever passes through the mosque or market with arrows must hold them by their iron heads (niṣāl) lest they wound a Muslim
+    cluster: ritual
+  mosque-ban-trade-lost-property-poetry-circles:
+    label: 'Forbidden in the mosque: buying and selling, crying for lost property, reciting poetry; and sitting in circles before the Friday prayer'
+    cluster: ritual
+  may-god-not-return-it-to-you:
+    label: To one crying for a lost animal in the mosque say 'May God not return it to you', for mosques were not built for this
+    cluster: ritual
+  who-will-lead-me-to-the-red-camel:
+    label: 'A man calls in the mosque ''who will lead me to the red camel?''; the prophet: ''may you not find it; mosques are built for what they are built for'''
+    cluster: ritual
+  garlic-eater-led-out-to-baqi-cook-it-to-death:
+    label: 'Umar in a Friday sermon: the prophet had a man smelling of onion or garlic put out of the mosque to al-Baqi''; whoever eats them, let him ''kill'' them by cooking'
+    cluster: ritual
+  not-mine-to-forbid-what-god-allowed:
+    label: 'After Khaybar the hungry eat garlic and people cry ''it is forbidden!''; the prophet: ''it is not for me to forbid what God allowed me; it is a plant whose smell I dislike'''
+    cluster: law
+  onion-eaters-made-to-wait-till-smell-gone:
+    label: Passing an onion field some eat and some do not; he calls those who did not eat and keeps the others back until the smell has gone
+    cluster: ritual
+  hand-put-in-sleeve-finds-chest-bound:
+    label: 'The garlic-eater puts the prophet''s hand through his sleeve to his chest, which is bound (from hunger): ''you have an excuse'''
+    cluster: ritual
+  spittle-toward-qibla-returns-between-eyes:
+    label: Whoever spits toward the qibla comes on the day of resurrection with his spittle between his eyes
+    cluster: eschatology
+  donkey-meat-unlawful-to-who-testifies:
+    label: 'At Khaybar Abd al-Rahman b. Awf proclaims: the flesh of domestic donkeys is not lawful for whoever testifies that I am God''s messenger'
+    cluster: law
+  plunder-fanged-beasts-and-tied-targets-unlawful:
+    label: 'Unlawful: plunder (al-nuhbā), every fanged beast of prey, and the animal tied up and shot at (al-mujaththama)'
+    cluster: law
+  pray-in-own-mosque-not-roam-mosques:
+    label: Let each pray in his own mosque and not go seeking out (tatabbuʿ) mosques
+    cluster: ritual
+  every-people-has-a-feast-this-is-ours:
+    label: '''Every people has a feast, and this is our feast'' (said to Abu Bakr over the singing girls)'
+    cluster: ritual
+  girls-sing-of-buath-devils-pipes:
+    label: 'Two Ansari girls, not professional singers, sing what the Ansar said on the day of Bu''ath; Abu Bakr: ''the devil''s pipes in the house of God''s messenger?'''
+    cluster: ritual
+  two-days-of-play-replaced-by-two-feasts:
+    label: 'Medina had two days of play from the Jahiliyya; God has replaced them with better: the day of sacrifice and the day of breaking the fast'
+    cluster: ritual
+  odd-number-of-dates-before-fitr:
+    label: On the day of breaking the fast he would not go out until he had eaten some dates, in an odd number
+    cluster: ritual
+  eat-before-fitr-fast-until-adha-prayer:
+    label: He went out on al-Fitr only after eating, and on al-Adha ate nothing until he had prayed
+    cluster: ritual
+  eat-early-so-prayer-not-hastened:
+    label: They went out only when the forenoon was well up, saying 'we eat so as not to be hurried away from our prayer'; the narrator eats from a flat loaf or drinks milk or water
+    cluster: ritual
+  fitr-alms-given-before-going-out:
+    label: It is the sunna not to go out on al-Fitr until one has given out the alms and eaten something
+    cluster: law
+  silk-robe-for-feast-and-delegations-refused:
+    label: 'Umar urges the prophet to buy a brocade robe from the market to adorn himself for the feast (or Friday) and delegations: ''this is the dress of one who has no share (in the hereafter)''; sent
+      one later, Umar may sell it'
+    cluster: law
+  returns-from-feast-by-another-road:
+    label: On a feast day he went by one road and came back by another
+    cluster: ritual
+  feast-prayer-done-by-hour-of-tasbih:
+    label: 'A companion protests the imam''s delay: at this hour we had already finished, the hour of the forenoon voluntary prayer (ḥīn al-tasbīḥ)'
+    cluster: ritual
+  feast-two-rakas-nothing-before-or-after:
+    label: On the feast he prayed two rak'as and prayed nothing before or after them
+    cluster: ritual
+  women-throw-earrings-and-necklaces-as-alms:
+    label: Told to give alms after the feast prayer, women throw down their small earrings (khurṣ) and scented necklaces (sikhāb); most of the givers are women
+    cluster: ritual
+  feast-sermon-standing-facing-seated-people:
+    label: After the two rak'as he preaches, orders alms, and announces an expedition if he has one, otherwise he goes home
+    cluster: ritual
+  prayers-of-two-rakas-complete-not-shortened:
+    label: 'Umar: the prayers of al-Adha, al-Fitr, the traveller and Friday are each two rak''as, complete and not shortened, on the tongue of the prophet'
+    cluster: law
+  two-rakas-at-home-after-feast:
+    label: He prayed nothing before the feast prayer; returning home he prayed two rak'as
+    cluster: ritual
+  feast-takbirs-seven-and-five:
+    label: 'In the feast prayer: seven takbirs in the first rak''a and five in the second, the recitation after them in both'
+    cluster: ritual
+  feast-prayer-without-adhan-or-iqama:
+    label: The feast prayer is prayed with no call to prayer and no iqama, more than once or twice
+    cluster: ritual
+  feast-prayer-before-sermon:
+    label: At the two feasts he first prays and then preaches; so did Abu Bakr and Umar
+    cluster: ritual
+  governor-preaches-before-prayer-on-mud-pulpit:
+    label: 'Marwan finds a pulpit of mud and brick built by Kathir b. al-Salt at the prayer-ground and climbs it before the prayer; Abu Sa''id tugs his garment; Marwan: people would not sit for us after
+      the prayer'
+    cluster: polity
+  feast-crowd-seated-in-rows-admonished:
+    label: After the prayer he stands facing the people, who remain seated in their rows, and admonishes them
+    cluster: ritual
+  spear-planted-as-screen-at-prayer-ground:
+    label: On the feast a short spear (ʿanaza, ḥarba) is carried before him and planted at the open prayer-ground, and he prays toward it as his screen
+    cluster: ritual
+  girls-secluded-and-menstruants-brought-to-feast:
+    label: Women are ordered to bring out to both feasts the girls near maturity and the secluded women; the menstruating keep apart from the Muslims' prayer-place
+    cluster: ritual
+  boy-attends-feast-by-reason-of-closeness:
+    label: 'Ibn Abbas: ''but for my nearness to him I would not have witnessed it, being small''; he went to the marker by the house of Kathir b. al-Salt and prayed'
+    cluster: ritual
+  sermon-on-camel-abyssinian-holds-halter:
+    label: He preaches on a she-camel while an Abyssinian holds its halter
+    cluster: ritual
+  sermon-on-adba-at-mina-boy-riding-pillion:
+    label: On the day of sacrifice at Mina he preaches on his camel al-'Adba, seen by a small boy riding pillion behind his father
+    cluster: sira
+  sermon-on-camel-standing-in-stirrups:
+    label: He preaches from his camel; at Arafa standing in the two stirrups
+    cluster: ritual
+  camel-chews-cud-slaver-flows-on-listener:
+    label: The listener stands under the camel's neck as it chews its cud, its slaver running between his shoulders
+    cluster: ritual
+  each-due-his-right-no-bequest-to-heir:
+    label: God has given each who has a right his right; no bequest to an heir; the child belongs to the bed, the fornicator gets the stone
+    cluster: law
+  dark-cheeked-woman-asks-why:
+    label: A woman of middle standing with dark-flushed cheeks (safʿāʾ al-khaddayn) stands and asks 'why, messenger of God?'
+    cluster: ritual
+  not-zakat-but-voluntary-alms-anklets:
+    label: 'Asked if it was the Fitr alms, Ata'': no, a voluntary alms; each throws her finger- and toe-rings (fatakh)'
+    cluster: law
+  pledge-verse-recited-to-women-one-answers:
+    label: He recites the women's pledge verse (60:12) and asks 'are you on that?'; one woman alone answers 'yes', no one knows who
+    cluster: ritual
+  parts-the-men-seating-them-with-his-hand:
+    label: Coming down after the sermon he seats the men with his hand and cuts through them to reach the women
+    cluster: ritual
+  preacher-leans-on-bow-or-staff:
+    label: On the feast day he is handed a bow and preaches leaning on it; at Friday he stands leaning on a staff or bow
+    cluster: ritual
+  seventh-of-seven-delegation-fed-dates:
+    label: A delegation of seven or nine asks him to pray for them; he has some dates given them, 'and things were then poor'
+    cluster: sira
+  cannot-do-all-commanded-aim-and-rejoice:
+    label: '''You will not be able to do all you were commanded; but aim aright and rejoice'''
+    cluster: piety
+  feast-on-friday-friday-prayer-not-held:
+    label: 'When a feast falls on Friday, Ibn al-Zubayr prays it early and does not come out for Friday prayer; they pray alone; Ibn Abbas: ''he hit the sunna'''
+    cluster: ritual
+  first-pray-then-return-and-slaughter:
+    label: The first thing we begin with on this day is to pray, then go back and slaughter; whoever does so has hit our sunna
+    cluster: ritual
+  menstruants-behind-people-say-takbir:
+    label: Even the virgin from her curtain and the menstruating are brought out; they stay behind the people, say takbir with them and pray with them, hoping for the day's blessing and purity
+    cluster: ritual
+  talbiya-and-takbir-both-unreproved:
+    label: Going from Mina to Arafat with the prophet some called the talbiya and some the takbir, and neither was reproved
+    cluster: ritual
+  tambourine-girls-left-for-days-of-mina:
+    label: 'In the days of Mina two girls beat tambourines while the prophet lies wrapped in his garment; Abu Bakr scolds; he uncovers his face: ''leave them, these are days of feast'''
+    cluster: ritual
+  wife-watches-black-men-play-shields-and-spears:
+    label: On a feast day the black men play with shields and spears; he stands Aisha behind him, her cheek on his, urging 'go on, Banu Arfida!' until she tires
+    cluster: ritual
+  umar-pelts-players-told-leave-them:
+    label: Umar bends to the pebbles to pelt the Abyssinians playing with their spears; 'leave them, Umar'
+    cluster: ritual
+  arms-carried-on-feast-day-into-sanctuary:
+    label: 'Ibn Umar''s sole pierced by a spearhead, his foot stuck to the stirrup; to al-Hajjaj: ''you struck me: you bore arms on a day they were not borne and brought them into the sanctuary'''
+    cluster: law
+  last-in-world-first-judged-at-resurrection:
+    label: We are the last of the people of this world and the first on the day of resurrection, judged before all creatures
+    cluster: eschatology
+  god-led-earlier-peoples-astray-from-friday:
+    label: 'God led those before us astray from Friday: the Jews had Saturday, the Christians Sunday'
+    cluster: polemic
+  going-to-friday-due-on-every-pubescent:
+    label: Going to Friday prayer is a duty on every male who has reached puberty (muḥtalim)
+    cluster: law
+  friday-duty-but-four-exempt:
+    label: 'Friday in congregation is a duty on every Muslim except four: an owned slave, a woman, a boy, a sick man'
+    cluster: law
+  leaving-fridays-hearts-sealed:
+    label: 'Whoever leaves three Fridays out of neglect has his heart sealed (ṭabaʿa) by God; from the wooden pulpit: let people stop leaving the Fridays or God will seal their hearts'
+    cluster: piety
+  three-fridays-missed-written-hypocrite:
+    label: Whoever hears the call three Fridays and does not come is written among the hypocrites
+    cluster: piety
+  hand-gesture-shows-hour-is-short:
+    label: He signals with his hand that the hour of Friday is brief
+    cluster: ritual
+  kab-says-yearly-then-torah-confirms-weekly:
+    label: Ka'b al-Ahbar first takes the answered hour to be one day a year; told 'every Friday', he reads the Torah and says the prophet spoke truly
+    cluster: polemic
+  ibn-salam-calls-kab-liar-then-truthful:
+    label: Told of Ka'b's 'once a year', Abd Allah b. Salam says Ka'b lied; told he corrected himself from the Torah, 'Ka'b spoke truly'
+    cluster: polemic
+  mounts-saddled-only-for-three-mosques:
+    label: 'Coming back from al-Tur, Abu Hurayra is told: mounts are set going only to three mosques: the Sacred Mosque, this mosque of mine, and the mosque of Iliya'' (Jerusalem)'
+    cluster: ritual
+  answered-hour-is-last-of-friday-waiting-is-prayer:
+    label: 'Ibn Salam: the hour is the last of Friday; objected that it is no time of prayer, he answers that whoever sits waiting for prayer is in prayer'
+    cluster: ritual
+  two-angels-record-arrivals-camel-to-egg:
+    label: Over every person two angels write the first and then the next; like one who offers a camel, a cow, a sheep, a bird, an egg; when the imam sits the sheets are folded
+    cluster: angelology
+  hour-between-imam-sitting-and-prayers-end:
+    label: The answered hour is between the imam's sitting down and the end of the prayer
+    cluster: ritual
+  hour-after-afternoon-to-sunset:
+    label: Seek the hour after the afternoon prayer until the sun sets, the last hour
+    cluster: ritual
+  friday-is-twelve-hours:
+    label: Friday is twelve (hours); in one of them a Muslim's request is granted
+    cluster: ritual
+  we-find-in-gods-book-the-hour:
+    label: 'Ibn Salam, in the prophet''s presence: ''we find in God''s book that on Friday is an hour...''; the prophet signals ''or part of an hour'''
+    cluster: polemic
+  prayers-friday-ramadan-expiate-between:
+    label: The five prayers, Friday to Friday (and Ramadan to Ramadan) expiate what lies between them while grave sins are avoided
+    cluster: piety
+  early-comer-offers-camel-then-cow-ram-hen-egg:
+    label: Who goes to Friday in the first hour is as one who offered a camel, the second a cow, the third a horned ram, the fourth a hen, the fifth an egg (in a variant a sparrow before the egg)
+    cluster: ritual
+  bath-like-janaba-bath-before-friday:
+    label: Bathing on Friday with the bath of major impurity (ghusl al-janāba) before going
+    cluster: ritual
+  seated-near-god-by-order-of-arrival:
+    label: 'People will sit near God on resurrection day according to their order of coming to the Fridays; Ibn Mas''ud, finding three ahead of him: ''fourth of four, and fourth of four is not far'''
+    cluster: eschatology
+  each-step-to-friday-a-years-fast-and-prayer:
+    label: 'Who washes and bathes on Friday, comes early, walks and does not ride, draws near the imam and listens without idle talk: each step earns a year''s deed, its fasting and its night prayer'
+    cluster: ritual
+  dying-on-friday-spared-trial-of-grave:
+    label: No Muslim dies on Friday or the eve of Friday but God spares him the trial of the grave
+    cluster: eschatology
+  friday-not-singled-out-for-fast:
+    label: No one is to fast on Friday unless with a day before or after; do not single out Friday's night for prayer nor its day for fasting
+    cluster: law
+  oath-by-lord-of-this-house-while-circling:
+    label: 'Asked while circling the Ka''ba whether the prophet forbade fasting Friday: ''yes, by the Lord of this House'' (Abu Hurayra: ''no, by the Lord of the Ka''ba, it was the prophet'')'
+    cluster: law
+  wife-fasting-friday-told-to-break-it:
+    label: 'Finding Juwayriya fasting on Friday: ''did you fast yesterday?'' - no - ''will you fast tomorrow?'' - no - ''then break your fast'''
+    cluster: law
+  three-days-from-new-moon-rarely-eats-friday:
+    label: He fasted three days from the start of each month; seldom was he seen not fasting on a Friday
+    cluster: ritual
+  friday-bath-due-on-every-pubescent:
+    label: The Friday bath is a duty on every pubescent male
+    cluster: law
+  latecomer-only-did-ablution-umar-rebukes:
+    label: 'Umar, preaching, calls out to an early Emigrant arriving late: ''what hour is this?'' - he only made ablution after hearing the call - ''the ablution too?! the prophet ordered the bath'''
+    cluster: ritual
+  bath-once-in-seven-days-head-and-body:
+    label: It is God's right on every Muslim to bathe once in every seven days, washing his head and body
+    cluster: law
+  perfume-or-oil-unsure-says-ibn-abbas:
+    label: 'Bathe on Friday and wash your heads even if not impure; Ibn Abbas: the bath yes, the perfume I do not know'
+    cluster: ritual
+  friday-bath-began-from-sweat-in-wool:
+    label: 'How the Friday bath began: hard-working people in wool, a cramped mosque of low palm-frond roof; on a hot day their sweat smelled and harmed each other; later God brought plenty and the cause
+      went'
+    cluster: ritual
+  latecomer-stepping-over-necks-is-this-a-day-for-ablution:
+    label: '''One of you idles till Friday almost escapes him, then comes stepping over people''s necks''; told he slept and only made ablution: ''is this a day for ablution?'''
+    cluster: ritual
+  bath-keeps-pure-till-next-friday:
+    label: 'Abu Qatada tells his son, bathing for janaba on Friday, to bathe again for Friday: who bathes on Friday is in purity until the next'
+    cluster: ritual
+  ablution-suffices-bath-better:
+    label: Whoever makes ablution on Friday, well and good; whoever bathes, that is better
+    cluster: law
+  bath-toothstick-and-perfume-even-wifes:
+    label: 'Due on Friday: the bath, cleaning the teeth (yastann) and touching perfume if he has it (in a variant ''even of the woman''s perfume'')'
+    cluster: law
+  bath-perfume-no-separating-two-forgiven-to-next-friday:
+    label: Who bathes, oils or perfumes himself, goes out, does not separate two sitting men, prays what is written for him and keeps silent while the imam speaks is forgiven until the next Friday
+    cluster: piety
+  robe-given-to-idolater-brother:
+    label: '''I did not give it you to wear''; Umar clothes with it an idolater brother of his (in Mecca)'
+    cluster: law
+  no-meal-or-nap-until-after-friday:
+    label: We took no midday nap or meal except after the Friday prayer; we came early to Friday and napped after it
+    cluster: ritual
+  sit-you-have-harmed-necks-stepped-over:
+    label: 'A man steps over people''s necks while the prophet preaches on Friday: ''sit, you have harmed (people)'''
+    cluster: ritual
+  forgiven-to-next-friday-and-three-days-more:
+    label: Friday kept rightly expiates the week to the next Friday and three days more, because a good deed brings ten like it (7 + 3 = 10)
+    cluster: piety
+  touching-pebbles-is-idle-talk:
+    label: Whoever touches (plays with) the pebbles during the sermon has committed idle talk (laghā)
+    cluster: ritual
+  idle-talk-and-stepping-make-it-mere-noon-prayer:
+    label: Whoever talks idly and steps over necks has it counted only as a noon prayer (ẓuhr), not a Friday
+    cluster: ritual
+  three-kinds-attend-friday:
+    label: 'Three attend Friday: one who talks idly, which is his share; one who prays, God gives or withholds; one silent who harms no one, whose Friday expiates to the next and three days more'
+    cluster: ritual
+  two-sermons-standing-sitting-between:
+    label: 'On Friday he preached standing, sat, then rose and preached again: two sermons with a sitting between, reciting Quran and reminding the people'
+    cluster: ritual
+  preacher-like-warner-of-an-army:
+    label: 'When he preached his eyes reddened, his voice rose and his anger grew, as if warning of an army: ''it will fall on you morning or evening!'''
+    cluster: ritual
+  best-speech-gods-book-every-innovation-error:
+    label: '''The best speech is God''s book, the best guidance Muhammad''s, the worst matters the newly invented; every innovation is error'''
+    cluster: piety
+  debt-of-the-dead-is-on-me:
+    label: '''I am closer to every believer than himself: who leaves wealth, it is his family''s; who leaves debt, it comes to me and is on me'''
+    cluster: law
+  short-friday-admonition-few-words:
+    label: 'He did not lengthen the Friday admonition: only a few light words'
+    cluster: ritual
+  sermon-without-tashahhud-like-maimed-hand:
+    label: Every sermon without the testimony of faith is like a maimed (leprous) hand
+    cluster: ritual
+  standing-sermon-proved-from-they-left-you-standing:
+    label: 'Asked whether he preached standing or sitting, Ibn Mas''ud: ''do you not read: and they left you standing (62:11)?'''
+    cluster: ritual
+  warned-you-of-fire-heard-in-market-cloak-falls:
+    label: From the pulpit 'I warn you of the fire!' twice, so that a man at the far end of the market would hear; his striped cloak falls from his shoulder to his foot
+    cluster: ritual
+  prays-on-pulpit-steps-back-to-prostrate-at-its-foot:
+    label: 'He prays on the pulpit, bows on it, comes down backwards to prostrate at its foot and returns: ''I did this so you may follow and learn my prayer'''
+    cluster: ritual
+  trunk-cries-like-child-or-pregnant-camels:
+    label: The palm trunk cries out like a child and moans like a child being hushed when he embraces it; others hear a sound like ten-month pregnant camels, or a she-camel's yearning
+    cluster: ritual
+  trunk-wept-for-the-remembrance-it-heard:
+    label: It wept for the remembrance (dhikr) it used to hear beside it
+    cluster: ritual
+  trunk-would-have-yearned-till-resurrection:
+    label: '''Had I not embraced it, it would have yearned until the day of resurrection'''
+    cluster: ritual
+  pulpit-for-a-body-grown-heavy:
+    label: When he grew heavy Tamim al-Dari offers a pulpit 'to bear your bones'; he makes one of two steps
+    cluster: sira
+  trunk-splits-and-cracks-then-kept-till-termites-eat-it:
+    label: Passing it for the new three-step pulpit, the trunk lows until it cracks and splits; when the mosque is rebuilt Ubayy b. Ka'b keeps it at home until termites eat it to dust
+    cluster: ritual
+  only-one-carpenter-in-medina-cut-from-tamarisk:
+    label: There was only one carpenter in Medina; Sahl and he go to al-Khafiqayn and cut the pulpit from a tamarisk (athla)
+    cluster: ritual
+  pulpit-to-qibla-a-sheeps-passage:
+    label: Between the pulpit and the qibla wall there was the width of a sheep's passage
+    cluster: ritual
+  prays-at-pillar-by-the-mushaf:
+    label: Salama seeks out the pillar by the place of the mushaf to pray, because the prophet sought it out
+    cluster: ritual
+  damned-call-malik-recited-from-pulpit:
+    label: 'He recites on the pulpit ''and they call: O Malik, let your Lord make an end of us'' (43:77)'
+    cluster: ritual
+  whoever-says-he-preached-sitting-lies:
+    label: '''Whoever tells you he preached sitting has lied; I prayed with him more than two thousand prayers'''
+    cluster: ritual
+  imam-on-pulpit-answers-muezzin-and-i:
+    label: On the pulpit Mu'awiya repeats 'God is greatest' after the muezzin and answers each testimony 'and I', citing the prophet doing so in this seat
+    cluster: ritual
+  long-prayer-short-sermon-sign-of-understanding:
+    label: 'A man''s long prayer and short sermon are a sign (maʾinna) of his understanding: lengthen the prayer and shorten the sermon'
+    cluster: ritual
+  prayer-and-sermon-both-moderate:
+    label: His prayer was moderate and his sermon moderate (qaṣd)
+    cluster: ritual
+  bad-speaker-joins-god-and-messenger-in-one-pronoun:
+    label: 'A man preaches ''whoever disobeys them both has erred''; ''what a bad speaker you are! say: whoever disobeys God and his messenger'''
+    cluster: theology
+  preacher-raises-hands-only-forefinger-allowed:
+    label: 'Seeing governor Bishr b. Marwan raise both hands on the pulpit: ''God make these two hands ugly!''; the prophet did no more than point with his forefinger'
+    cluster: ritual
+  latecomer-told-pray-two-rakas-during-sermon:
+    label: 'A man enters while he preaches on Friday: ''have you prayed?'' - no - ''stand and pray two rak''as'''
+    cluster: ritual
+  man-standing-in-sun-moved-to-shade:
+    label: A man comes during the sermon and stands in the sun; he orders him moved into the shade
+    cluster: ritual
+  sermon-left-to-teach-stranger-on-iron-legged-chair:
+    label: A stranger asks about his religion; he leaves the sermon, is brought a chair whose legs seemed of iron, teaches him what God taught him, then completes the sermon
+    cluster: ritual
+  saying-be-silent-is-idle-talk:
+    label: If you say to your companion 'be quiet' on Friday while the imam preaches you have engaged in idle talk (laghawta)
+    cluster: ritual
+  whisperer-gets-of-prayer-only-his-talk:
+    label: 'During the reading of Tabarak a companion whispers ''when was this sura revealed?''; afterwards Ubayy tells him he has of today''s prayer only his idle talk; the prophet: ''Ubayy spoke truly'''
+    cluster: ritual
+  leaving-friday-walls-without-shade:
+    label: We prayed Friday with the prophet and left when the walls had no shade to shelter in; we followed the shade back
+    cluster: ritual
+  friday-at-the-suns-turning:
+    label: Friday prayer at the sun's decline from the meridian (zawāl)
+    cluster: ritual
+  early-in-cold-delayed-in-heat:
+    label: In severe cold he prayed early; in severe heat he waited for the cool
+    cluster: ritual
+  after-friday-camels-rested:
+    label: He prayed, then we went to our camels and rested them
+    cluster: ritual
+  elder-rebukes-governor-delaying-friday:
+    label: 'When al-Hajjaj delays the Friday prayer an old man (Abu Juhayfa) tells him the prophet never did as he does: he came out when the sun declined'
+    cluster: polity
+  first-friday-led-by-asad-with-forty:
+    label: 'Blind Ka''b b. Malik blesses As''ad b. Zurara at every Friday call: he first gathered them for Friday in the hollow of al-Nabit at the Harra of Banu Bayada, at Naqi'' al-Khadimat; they were
+      forty'
+    cluster: sira
+  one-raka-caught-is-the-prayer-caught:
+    label: Whoever catches one rak'a of the (Friday) prayer has caught the prayer
+    cluster: law
+  muddy-friday-call-pray-in-your-dwellings:
+    label: On a day of mud, when the muezzin reaches 'come to prayer', Ibn Abbas has him call 'prayer in the dwellings'; 'one better than he did it; Friday is binding and I would not make you walk in mud'
+    cluster: ritual
+  jumua-rouses-believers-munafiqun-strikes-hypocrites:
+    label: At Friday he read al-Jumu'a to rouse the believers and in the second rak'a al-Munafiqun to strike the hypocrites
+    cluster: ritual
+  deputy-reads-suras-ali-read-at-kufa:
+    label: Abu Hurayra, deputising for Marwan at Medina, reads al-Jumu'a and al-Munafiqun; told Ali read them at Kufa, he cites the prophet
+    cluster: ritual
+  first-friday-outside-medina-at-juwatha:
+    label: The first Friday held after one in the prophet's mosque was in the mosque of Abd al-Qays at Juwatha in al-Bahrayn
+    cluster: sira
+  friday-call-added-on-zawra-by-uthman:
+    label: Under the prophet, Abu Bakr and Umar the Friday call came when the imam sat on the pulpit; under Uthman, as people grew many, a third call was added on al-Zawra' (a house in the market)
+    cluster: ritual
+  sulayk-sits-before-praying-told-rise:
+    label: 'Sulayk al-Ghatafani sits down before praying while the prophet is on the pulpit: ''Sulayk, stand and pray two rak''as, and be brief'''
+    cluster: ritual
+  companion-prays-despite-governors-guards:
+    label: Abu Sa'id rises to pray while Marwan preaches; the guards come to sit him down and he refuses until he has prayed
+    cluster: polity
+  shabby-man-given-two-garments-throws-one:
+    label: 'A man in shabby state is given two of the garments thrown as alms; the next Friday, at the call for alms, he throws one back; the prophet rebukes him: ''take your garment'''
+    cluster: ritual
+  ibn-umar-two-then-four-after-friday-at-mecca:
+    label: At Mecca Ibn Umar after Friday steps forward and prays two, then steps further and prays four; at Medina two at home
+    cluster: ritual
+  four-rakas-after-friday:
+    label: Whoever prays Friday, let him pray four after it (two in the mosque and two at home if hurried)
+    cluster: ritual
+  three-counsels-of-my-friend:
+    label: 'Abu Hurayra: my intimate friend counselled me three things I never leave at home or travelling: sleep after the witr, three days'' fast each month, and two rak''as after Friday (later he said
+      ''the forenoon prayer'')'
+    cluster: piety
+  man-praying-in-place-pushed-do-you-pray-friday-four:
+    label: 'Ibn Umar pushes a man praying two rak''as in his place after Friday: ''would you pray Friday as four?'''
+    cluster: ritual
+  no-man-raised-from-seat-say-make-room:
+    label: Let none make his brother rise from his place on Friday and go round to sit in it; let him say 'make room'
+    cluster: ritual
+  distance-from-imam-means-later-place-in-paradise:
+    label: 'Attend the reminder and draw near the imam: a man keeps holding back until he is put back in paradise, even if he enters it'
+    cluster: eschatology
+  sitting-hugging-knees-forbidden-during-sermon:
+    label: He forbade sitting with knees drawn up and bound by a garment (al-ḥubwa) on Friday while the imam preaches
+    cluster: ritual
+units:
+- id: hadith-10-spittle-and-arrows-in-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Spitting in the mosque a sin, burying it a good deed; arrows carried through the mosque held by their heads
+  read:
+  - Jāmiʿ 10:1943.1-1943.3
+  tags:
+  - motif: spitting-in-mosque-sin-burying-it-good
+    refs:
+    - Jāmiʿ 10:1943.1
+    note: التفْلُ في المسجد سيئةٌ، ودفنُه حسنةٌ
+  - motif: arrows-in-mosque-held-by-their-heads
+    refs:
+    - Jāmiʿ 10:1943.2
+    - Jāmiʿ 10:1943.3
+    note: 'ومعه نبْلٌ فليُمِسك على نِصالها ... أن يُصيبَ أحدًا من المسلمين منها شيء ... مرَّ رجلٌ في المسجد بسهامٍ فقال له رسول الله ﷺ: "أمسك بنصالها"'
+- id: hadith-10-poetry-and-trade-in-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Hassan's poetry in the mosque defended against Umar; a ban on trade, crying lost property, poetry and circles before Friday prayer
+  read:
+  - Jāmiʿ 10:1944.1-1944.2
+  tags:
+  - motif: poetry-recited-in-mosque-umar-glares
+    refs:
+    - Jāmiʿ 10:1944.1
+    note: 'عمر مرَّ بحسان وهو يُنْشِد الشعر في المسجد، فلحظ إليه فقال: قد كنت أنشد، وفيه من هو خير منك'
+  - motif: holy-spirit-supports-poet
+    refs:
+    - Jāmiʿ 10:1944.1
+    note: أجِبْ عَنّي، اللهم! أيِّده بروح القدس
+  - motif: mosque-ban-trade-lost-property-poetry-circles
+    refs:
+    - Jāmiʿ 10:1944.2
+    note: نهى عن الشراء والبيع في المسجد، وأن تُنْشَدَ فيه ضالة، وأن يُنْشد فيه شعر، ونهي عن التحلق قبل الصلاة يوم الجمعة
+- id: hadith-10-lost-property-cried-in-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Whoever cries for a lost animal in the mosque is answered 'may God not return it'; the man seeking his red camel
+  read:
+  - Jāmiʿ 10:1945.1-1945.2
+  tags:
+  - motif: may-god-not-return-it-to-you
+    refs:
+    - Jāmiʿ 10:1945.1
+    note: 'فليقُل: لا ردها الله عليك، فإن المساجد لم تُبْنَ لهذا'
+  - motif: who-will-lead-me-to-the-red-camel
+    refs:
+    - Jāmiʿ 10:1945.2
+    note: 'من دعا إلى الجمل الأحمر، فقال النبي ﷺ: "لا وجدت، إنما بُنيتْ المساجدُ لما بُنيتِ له"'
+- id: hadith-10-garlic-and-onion-keep-from-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Eaters of garlic, onion and leek kept from the mosque: the expulsion to al-Baqi'', ''not mine to forbid'', the bound chest'
+  read:
+  - Jāmiʿ 10:1946.1-1949.1
+  tags:
+  - motif: garlic-eater-kept-from-mosque
+    refs:
+    - Jāmiʿ 10:1946.1
+    - Jāmiʿ 10:1946.2
+    - Jāmiʿ 10:1946.3
+    - Jāmiʿ 10:1946.4
+    - Jāmiʿ 10:1948.2
+    - Jāmiʿ 10:1948.3
+    note: من أكل من هذه الشجرة -يعني الثوم- فلا يقربنَّ مسجدنا ... فإني أناجي من لا تناجي
+  - motif: garlic-eater-led-out-to-baqi-cook-it-to-death
+    refs:
+    - Jāmiʿ 10:1946.5
+    note: إذا وجد ريحَهما من الرجل في المسجد، أمر به فأُخرج إلى البقيع، فمن أكلهما فليُمِتْهُما طبخًا
+  - motif: not-mine-to-forbid-what-god-allowed
+    refs:
+    - Jāmiʿ 10:1947.1
+    note: حُرِّمتْ حُرِّمتْ ... إنه ليس لي تحريمُ ما أحلَّ الله لي، ولكنها شجرة أكره ريحَها
+  - motif: onion-eaters-made-to-wait-till-smell-gone
+    refs:
+    - Jāmiʿ 10:1947.2
+    note: فدعا الذين لم يأكلوا البَصَل، وأخرّ الآخرين حتى ذهب ريحُها
+  - motif: hand-put-in-sleeve-finds-chest-bound
+    refs:
+    - Jāmiʿ 10:1947.3
+    note: 'فأدخلتُ يده في كم قميصي إلى صدري، فإذا أنا معصوب الصدر، قال: "إن لك عذرًا"'
+  - motif: spittle-toward-qibla-returns-between-eyes
+    refs:
+    - Jāmiʿ 10:1948.1
+    note: من تفل تجاه القبلة جاء يوم القيامة تفلُه بين عينيه
+  - motif: donkey-meat-unlawful-to-who-testifies
+    refs:
+    - Jāmiʿ 10:1948.4
+    note: إن لحوم الحمر الإنسيّة لا تحلُّ لمن شهد أنّي رسولُ الله
+  - motif: plunder-fanged-beasts-and-tied-targets-unlawful
+    refs:
+    - Jāmiʿ 10:1948.4
+    note: لا تحلُّ النُّهبى، ولا يحلُّ كلُّ ذي ناب من السِّباع، ولا تحلُّ المجثَّمة
+  - motif: not-forbidden-but-disliked-for-smell
+    refs:
+    - Jāmiʿ 10:1949.1
+    note: 'بعث إليَّ يومًا بفضلةٍ لم يأكل منها، لأن فيها ثومًا. فسألتُه: أحرام هو؟ قال: لا ولكني أكرهه من أجل ريحه'
+  hints:
+  - 'Garlic tied to Friday on both sides but with opposite valence: Umar condemns onion and garlic in a Friday sermon (فليُمِتْهُما طبخًا), against Ezra''s enactment that garlic be eaten on Friday (Sabbath
+    eve), b. Bava Kamma 82a'
+- id: hadith-10-pray-in-ones-own-mosque
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Pray in your own mosque and do not go round the mosques
+  read:
+  - Jāmiʿ 10:1949.2
+  tags:
+  - motif: pray-in-own-mosque-not-roam-mosques
+    refs:
+    - Jāmiʿ 10:1949.2
+    note: ليُصلِّ أحدكم في مسجده، ولا يتتبعِ المساجدَ
+- id: hadith-11-every-people-has-a-feast
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Every people has its feast: the singing girls of Bu''ath; two days of play replaced by al-Adha and al-Fitr'
+  read:
+  - Jāmiʿ 11:1953.1-1953.2
+  tags:
+  - motif: every-people-has-a-feast-this-is-ours
+    refs:
+    - Jāmiʿ 11:1953.1
+    note: إنَّ لكلِّ قوم عيدًا، وهذا عيدنا
+  - motif: girls-sing-of-buath-devils-pipes
+    refs:
+    - Jāmiʿ 11:1953.1
+    note: 'جاريتان من جواري الأنصار يُغنِّينان بما تقاولتِ الأنصار يوم بُعاث. قالت: وليستا بمغنيتين، فقال أبو بكر: أَمزامير الشيطان في بيت رسول الله ﷺ'
+  - motif: two-days-of-play-replaced-by-two-feasts
+    refs:
+    - Jāmiʿ 11:1953.2
+    note: ولهم يومان يلعبون فيهما ... كنَّا نلعبُ فيهما في الجاهلية ... إن الله قد أبدلكم بهما خيرًا منهما، يوم الأضحي ويوم الفطر
+  hints:
+  - A people's own feast days legitimated against older ones ('every people has a feast'), against the appointed feasts of Israel, 'these are my appointed festivals' (moʿăday), Lev 23:2
+- id: hadith-11-eating-before-the-feast-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Eat before going out on al-Fitr (odd number of dates), not on al-Adha until after the prayer; the alms first
+  read:
+  - Jāmiʿ 11:1953.3-1954.2
+  tags:
+  - motif: odd-number-of-dates-before-fitr
+    refs:
+    - Jāmiʿ 11:1953.3
+    note: 'لا يغدو يومَ الفطرِ حتى يأكل تمرات.
+
+      وفي رواية: وكان يأكلهنَّ وتْرًا'
+  - motif: eat-before-fitr-fast-until-adha-prayer
+    refs:
+    - Jāmiʿ 11:1953.4
+    - Jāmiʿ 11:1954.2
+    note: كان النبي ﷺ يخرج يوم الفطر حتى يطعم، ولا يطعم يومَ الأضحى حتى يُصلِّي
+  - motif: eat-early-so-prayer-not-hastened
+    refs:
+    - Jāmiʿ 11:1954.1
+    note: 'كانوا لا يخرجون حتى يمتدَّ الضحاءُ، فيقولون: نطعمُ لئلا نُعجلَ عَن صلاتنا'
+  - motif: fitr-alms-given-before-going-out
+    refs:
+    - Jāmiʿ 11:1954.2
+    note: من السُّنَّة أن لا تخرُجَ يوم الفطر حتَّى تُخْرجَ الصدقةَ، وتطعم شيئا قبل أن تخرج
+- id: hadith-11-feast-dress-road-and-hour
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The silk robe offered for feast and delegations, the different road back, the feast prayer finished by the forenoon hour
+  read:
+  - Jāmiʿ 11:1956.1-1958.1
+  tags:
+  - motif: silk-robe-for-feast-and-delegations-refused
+    refs:
+    - Jāmiʿ 11:1956.1
+    note: 'ابتع هذه، تجمل بها للعيد والوفود، فقال له رسول الله ﷺ: "إنَّما هذه لباس من لا خلاق له'
+  - motif: returns-from-feast-by-another-road
+    refs:
+    - Jāmiʿ 11:1957.1
+    note: كان النبي ﷺ إذا كان يومُ عيد خالف الطريق
+  - motif: feast-prayer-done-by-hour-of-tasbih
+    refs:
+    - Jāmiʿ 11:1958.1
+    note: 'فأنكر إبطاء الإمام فقال: إنَّا كنَّا قد فرغنا ساعتنا هذه، وذلك حين التسبيح'
+- id: hadith-11-two-rakas-alms-of-women
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The feast prayer is two rak'as with nothing before or after in the prayer-ground; the women throw earrings and necklaces as alms
+  read:
+  - Jāmiʿ 11:1959.1-1961.1
+  tags:
+  - motif: feast-two-rakas-nothing-before-or-after
+    refs:
+    - Jāmiʿ 11:1959.1
+    - Jāmiʿ 11:1960.2
+    - Jāmiʿ 11:1960.3
+    note: صلَّى يوم الفِطر ركعتين، لم يُصَلِّ قبلها ولا بعدها
+  - motif: women-throw-earrings-and-necklaces-as-alms
+    refs:
+    - Jāmiʿ 11:1959.1
+    - Jāmiʿ 11:1959.2
+    note: فأمرهن بالصدقة، فجعلن يُلْقِينَ، تُلْقي المرأةُ خُرْصَها وسِخابَها ... فيكون أكثرُ من يتصدق النساء
+  - motif: feast-sermon-standing-facing-seated-people
+    refs:
+    - Jāmiʿ 11:1959.2
+    note: ثمَّ يخطب فيأمر بالصدقة ... فإن كانت له حاجة، أو أراد أن يبعث بعثًا تكلَّم وإلَّا رجع
+  - motif: prayers-of-two-rakas-complete-not-shortened
+    refs:
+    - Jāmiʿ 11:1960.1
+    note: صلاة الأضحى ركعتان، وصلاة الفطر ركعتان، وصلاة المسافر ركعتان، وصلاة الجمعة ركعتان، تمام ليس بقصْر
+  - motif: two-rakas-at-home-after-feast
+    refs:
+    - Jāmiʿ 11:1961.1
+    note: لا يُصَلِّي قبل العيد شيئًا، فإذا رجع إلى منزله صلَّى ركعتين
+  hints:
+  - 'Women''s earrings and rings collected as an offering, the women throwing them down at the call: against the women who bring ''brooches, earrings, signet rings and pendants'' for the tabernacle, Exod
+    35:22, and the earrings taken for the calf, Exod 32:2-3'
+- id: hadith-11-seven-and-five-takbirs
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Seven takbirs in the first rak'a and five in the second of the feast prayer, recitation after both
+  read:
+  - Jāmiʿ 11:1961.2-1962.1
+  tags:
+  - motif: feast-takbirs-seven-and-five
+    refs:
+    - Jāmiʿ 11:1961.2
+    - Jāmiʿ 11:1962.1
+    note: في الأوّلى سبع تكبيرات، وفي الثانية خمس تكبيرات ... التكبير في الفطر سبعٌ في الأوّلى، وخمسٌ في الآخرة، والقراءة بعدهما كلتيهما
+- id: hadith-11-feast-readings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'What was recited at the feasts: Qaf and al-Qamar; al-A''la and al-Ghashiya, both when feast and Friday coincide'
+  read:
+  - Jāmiʿ 11:1965.1-1966.1
+  quran:
+  - '50:1'
+  - '54:1'
+  - '87:1'
+  - '88:1'
+  tags:
+  - motif: qaf-recited-at-dawn-friday-and-eids
+    refs:
+    - Jāmiʿ 11:1965.1
+    note: 'سأل أبا واقد الليثي: ما كان يقرأ به رسولُ الله ﷺ في الأضحى والفِطر؟ فقال: كان يقرأ فيهما بـ ﴿ق وَالْقُرْآنِ الْمَجِيدِ﴾ و ﴿اقْتَرَبَتِ السَّاعَةُ﴾'
+  - motif: feast-and-friday-a-la-and-ghashiya
+    refs:
+    - Jāmiʿ 11:1965.2
+    - Jāmiʿ 11:1966.1
+    note: 'يقرأ في العيدين وفي الجمعة بـ ﴿سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى﴾ و ﴿هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ﴾. قال: وإذا اجتمع العيدُ والجمعةُ في يوم واحدٍ يقرأ بهما أيضًا في الصَّلاتين'
+- id: hadith-11-feast-without-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The feast prayer without call or iqama
+  read:
+  - Jāmiʿ 11:1966.2-1967.1
+  tags:
+  - motif: feast-prayer-without-adhan-or-iqama
+    refs:
+    - Jāmiʿ 11:1966.2
+    - Jāmiʿ 11:1966.3
+    - Jāmiʿ 11:1966.4
+    - Jāmiʿ 11:1967.1
+    note: صلَّيْتُ مع رسول الله ﷺ العيدين غير مرَّةٍ ولا مرتين بغير أذان ولا إقامة
+- id: hadith-11-prayer-before-sermon-and-marwan
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Prayer before the sermon; Marwan's mud-brick pulpit and Abu Sa'id pulling his garment; the man who protests and 'change it with your hand'
+  read:
+  - Jāmiʿ 11:1967.2-1968.2
+  - Jāmiʿ 11:1971.1
+  tags:
+  - motif: feast-prayer-before-sermon
+    refs:
+    - Jāmiʿ 11:1967.2
+    - Jāmiʿ 11:1967.3
+    - Jāmiʿ 11:1968.2
+    - Jāmiʿ 11:1971.1
+    note: يُصَلِّي في الأضحى والفِطر، ثمّ يخطب بعد الصّلاة ... وأوَّلُ شيء يبدأ به الصّلاةُ
+  - motif: governor-preaches-before-prayer-on-mud-pulpit
+    refs:
+    - Jāmiʿ 11:1967.3
+    - Jāmiʿ 11:1971.1
+    note: إذا مِنْبَرٌ قد بناه كثير بن الصَّلت، فإذا هو يريد أن يرتقيه قبل أن يصلِّي، فجبذت بثوبه، فجبذني وارتفع، فخطب قبل الصّلاة ... إنَّ الناس لم يكونوا يجلسون لنا بعد الصّلاة
+  - motif: feast-crowd-seated-in-rows-admonished
+    refs:
+    - Jāmiʿ 11:1967.3
+    note: فيقوم مقابل الناس -والناس جُلُوس على صُفُوفهم- فيعظهم ويوصيهم ويأمرهم
+  - motif: change-evil-by-hand-tongue-or-heart
+    refs:
+    - Jāmiʿ 11:1968.1
+    note: من رأى منكم منكرًا فليغيِّره بيده، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه، وذلك أضعف الإيمان
+- id: hadith-11-spear-as-sutra
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The short spear carried before him and planted at the prayer-ground as his screen
+  read:
+  - Jāmiʿ 11:1969.1-1969.2
+  tags:
+  - motif: spear-planted-as-screen-at-prayer-ground
+    refs:
+    - Jāmiʿ 11:1969.1
+    - Jāmiʿ 11:1969.2
+    note: والعنَزَةُ بين يديه تُحمل وتُنْصَبَ بالمصلي بين يديه فيصلِّي إليها ... صلَّى العيد بالمصلَّى مستترًا بحرْبةٍ
+- id: hadith-11-women-and-boys-at-the-feast
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Young women, the secluded and the menstruating brought out to the feast; the boy Ibn Abbas at the marker by Kathir's house
+  read:
+  - Jāmiʿ 11:1969.3-1970.1
+  tags:
+  - motif: girls-secluded-and-menstruants-brought-to-feast
+    refs:
+    - Jāmiʿ 11:1969.3
+    note: أن نُخْرِج في العيدين العَواتِق وذوات الخدور، وأَمَر الحُيَّضَ أن يعتزِلْنَ مُصَلَّى المسلمين
+  - motif: boy-attends-feast-by-reason-of-closeness
+    refs:
+    - Jāmiʿ 11:1970.1
+    note: ولولا مكاني من الصِّغَر ما شهدتُه، حتّى أتى العلم الذي عند دار كثير بن الصلتِ فصلَّى
+  - motif: eid-sermon-to-women-rings-into-cloak
+    refs:
+    - Jāmiʿ 11:1970.1
+    note: ثمّ أتي النساء ومعه بلال فوعَظَهنَّ، وذكَّرهنَّ، وأمرهنَّ بالصدقة. فرأيتهُنَّ يهوين بأيديهن يقذفنه في ثوب بلال
+- id: hadith-11-sermon-from-a-camel
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Preaching on a camel: the Abyssinian at the halter, al-''Adba at Mina, the camel''s slaver on the listener''s shoulders'
+  read:
+  - Jāmiʿ 11:1971.2-1974.1
+  tags:
+  - motif: sermon-on-camel-abyssinian-holds-halter
+    refs:
+    - Jāmiʿ 11:1971.2
+    note: رأيتُ النَّبِيّ ﷺ يخطب على ناقة، وحبشيٌّ آخذ بخطام الناقة
+  - motif: sermon-on-adba-at-mina-boy-riding-pillion
+    refs:
+    - Jāmiʿ 11:1972.1
+    note: يخطب الناس على ناقته العَضْباء يوم الأضحى بمني
+  - motif: sermon-on-camel-standing-in-stirrups
+    refs:
+    - Jāmiʿ 11:1972.2
+    - Jāmiʿ 11:1973.3
+    - Jāmiʿ 11:1974.1
+    note: رأيتُ النَّبِيّ يخطب على بعيره ... يخطب الناس يوم عرفة على بعير قائم في الركابين
+  - motif: camel-chews-cud-slaver-flows-on-listener
+    refs:
+    - Jāmiʿ 11:1973.1
+    - Jāmiʿ 11:1973.2
+    note: وأنا تحت جِرانِها، وهي تَقْصَعُ بجرَّتِها، وإن لُعابَها يسيل بين كتِفيّ
+  - motif: each-due-his-right-no-bequest-to-heir
+    refs:
+    - Jāmiʿ 11:1973.1
+    - Jāmiʿ 11:1973.2
+    note: إن الله ﷿ أعطي كل ذي حق حقَّه، ولا وصية لوارث، والولد للفراش، وللعاهر الحجر
+- id: hadith-11-women-admonished-at-the-feast
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'After the feast prayer he goes to the women leaning on Bilal: ''most of you are fuel of hell''; the pledge verse; Bilal''s spread garment'
+  read:
+  - Jāmiʿ 11:1975.1-1976.1
+  quran:
+  - '60:12'
+  tags:
+  - motif: eid-sermon-to-women-rings-into-cloak
+    refs:
+    - Jāmiʿ 11:1975.1
+    - Jāmiʿ 11:1976.1
+    note: فأتي النساء فذكَّرهُنَّ وهو يتوكَّأُ على يد بلال، وبلالُ باسط ثوبه يُلْقي فيه النساء الصدقةَ
+  - motif: women-told-give-alms-even-from-jewellery
+    refs:
+    - Jāmiʿ 11:1975.1
+    note: 'تصدقْنَ، فإن أكثر كن حَطَبُ جهنّم" فقامت امرأة من سِطَةِ النساء، سَفْعاءُ الخدَّين فقالت: لِم يا رسول الله؟ قال: "لأَنكنَّ تُكثِرنَ الشَّكَاةَ، وتكفرنَ العشير'
+  - motif: dark-cheeked-woman-asks-why
+    refs:
+    - Jāmiʿ 11:1975.1
+    note: 'فقامت امرأة من سِطَةِ النساء، سَفْعاءُ الخدَّين فقالت: لِم يا رسول الله؟'
+  - motif: not-zakat-but-voluntary-alms-anklets
+    refs:
+    - Jāmiʿ 11:1975.1
+    note: 'قلت لعطاء: زكاةَ يوم الفطر؟ قال: لا، ولكن صدقةً يتصدقنَ حينئذٍ، تُلْقي فَتَخَها'
+  - motif: pledge-verse-recited-to-women-one-answers
+    refs:
+    - Jāmiʿ 11:1976.1
+    note: 'فتلا هذه الآية حتّى فرغ منها، ثمّ قال حين فرغ منها: "أنْتُنَّ على ذلك؟ " فقالت امْرَأةٌ واحدةٌ لم يُجبْه غيرُها منهنَّ: نَعَمْ'
+  - motif: parts-the-men-seating-them-with-his-hand
+    refs:
+    - Jāmiʿ 11:1976.1
+    note: كأنِّي أنظرُ إليه حين يُجَلِّس الرِّجال بيده. ثمّ أقبَلَ يَشُقُّهُمْ
+- id: hadith-11-leaning-on-bow-or-staff
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'He leans on Bilal, on a bow or a staff when preaching; ''you will not do all you were commanded: aim right and rejoice'''
+  read:
+  - Jāmiʿ 11:1977.1-1977.3
+  tags:
+  - motif: preacher-leans-on-bow-or-staff
+    refs:
+    - Jāmiʿ 11:1977.2
+    - Jāmiʿ 11:1977.3
+    note: نُووِلَ يوم العيد قوسًا فخطب عليه ... فقام متوكِّئًا على عصًا، أو قوسٍ
+  - motif: feast-prayer-before-sermon-no-adhan-no-iqama
+    refs:
+    - Jāmiʿ 11:1977.1
+    note: فبدأ بالصلاة قبل الخطبة بغير أذان ولا إقامة، ثمّ قام متوكِّئًا على بلال
+  - motif: seventh-of-seven-delegation-fed-dates
+    refs:
+    - Jāmiʿ 11:1977.3
+    note: وفدتُ إلى رسول الله ﷺ سابع سبعةٍ، أو تاسع تسعةٍ ... فأمر بنا، أو أمر لنا بشيء من التمر، والشأنُ إذ ذاك دُون
+  - motif: cannot-do-all-commanded-aim-and-rejoice
+    refs:
+    - Jāmiʿ 11:1977.3
+    note: إنَّكم لن تُطيقوا، أو لن تفعلوا كلَّ ما أُمِرتُم به، ولكن سَدِّدُوا وأبشروا
+- id: hadith-11-feast-on-a-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ibn al-Zubayr prays the feast early on a Friday and does not come out for the Friday prayer: ''he hit the sunna'''
+  read:
+  - Jāmiʿ 11:1978.1
+  tags:
+  - motif: feast-on-friday-friday-prayer-not-held
+    refs:
+    - Jāmiʿ 11:1978.1
+    note: 'صلى بنا ابن الزُّبير في يوم عيد في يوم جمعة أول النهار، ثمّ رُحنا إلى الجمعة فلم يخرج إلينا، فصلَّينا، وُحدانًا ... فقال: أصاب السنة'
+- id: hadith-11-pray-then-slaughter
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The first act of the day of sacrifice: pray, then go back and slaughter'
+  read:
+  - Jāmiʿ 11:1981.1
+  tags:
+  - motif: first-pray-then-return-and-slaughter
+    refs:
+    - Jāmiʿ 11:1981.1
+    note: إنَّ أَوَّلَ ما نبدأ من يومنا هذا أن نُصلي ثم نرجع فننحرَ، فمن فعل فقد أصاب سُنَّتنا
+- id: hadith-11-takbir-on-the-days
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Takbir on the feast and the days of Mina: menstruants behind the men, the talbiya and takbir both unreproved, the days of eating and drinking'
+  read:
+  - Jāmiʿ 11:1982.1-1983.2
+  quran:
+  - 2:185
+  - 2:203
+  - '22:28'
+  tags:
+  - motif: menstruants-behind-people-say-takbir
+    refs:
+    - Jāmiʿ 11:1982.1
+    note: حتى نُخرج الحُيَّضَ فيكنَّ خلف الناس، فيكبِّرن بتكبيرهم، ويدعون بدعائهم، ويرجونَ بركةَ ذلك اليوم وطُهْرَتَه
+  - motif: talbiya-and-takbir-both-unreproved
+    refs:
+    - Jāmiʿ 11:1982.2
+    - Jāmiʿ 11:1983.1
+    note: كان يُلبَي المُلبِّي لا ينكر عليه، ويُكبِّر المُكبِّر فلا يُنكر عليه ... فمِنَّا المُلَبِّي، ومِنَّا المكبِّر
+  - motif: tashriq-days-of-eating-and-drinking
+    refs:
+    - Jāmiʿ 11:1983.2
+    note: 'أيام التشريق أيام أكل وشرب".
+
+      وزاد في رواية: "وذكرٍ للهِ'
+  hints:
+  - '''Days of eating and drinking and of remembering God'' as the mark of the feast days, against Nehemiah''s festival charge ''go, eat the fat and drink the sweet ... for this day is holy to our Lord'',
+    Neh 8:10-12'
+- id: hadith-11-play-on-the-feast
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Play on the feast: the tambourine girls of the days of Mina, Aisha watching the Abyssinians'' shields and spears cheek to cheek, Umar pelting them'
+  read:
+  - Jāmiʿ 11:1985.1-1986.2
+  tags:
+  - motif: girls-sing-of-buath-devils-pipes
+    refs:
+    - Jāmiʿ 11:1985.1
+    - Jāmiʿ 11:1986.1
+    note: 'تُغنّيان بغِناء بُعاث، فاضطجع على الفراش، وحوَّل وجهه. ودخل أبو بكر فانتهرني وقال: مزمارة الشيطان عند النبي ﷺ'
+  - motif: tambourine-girls-left-for-days-of-mina
+    refs:
+    - Jāmiʿ 11:1985.1
+    note: 'جاريتان في أيام مِني تُدَفِّفَانِ وتضربان -والنبي ﷺ متغَشٍّ بثوبه- فانتهرها أبو بكر، فكشف النبي ﷺ عن وجهه فقال: "دعهما يا أبا بكر! فإنَّها أيامُ عيدٍ'
+  - motif: wife-watches-black-men-play-shields-and-spears
+    refs:
+    - Jāmiʿ 11:1986.1
+    note: 'يلعب السودان بالدَّرَقِ والحِرابِ ... فأقامني وراءَهُ خدِّي على خده، وهو يقول: "دونكم يا بني أرْفِدة" حتى إذا ملَلْتُ قال: "حسبُكِ'
+  - motif: umar-pelts-players-told-leave-them
+    refs:
+    - Jāmiʿ 11:1986.2
+    note: 'بينما الحبشة يلْعبون عند رسول الله ﷺ بِحرابهم، إذ دخل عمر بن الخطاب، فأهْوى إلى الحَصْباء يَحْصِبهم بها، فقال له رسول الله ﷺ: "دَعْهم يا عمر'
+- id: hadith-11-weapons-on-the-feast-day
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ibn Umar''s foot pierced by a spear-head at Mina: ''you struck me, who bore arms on a day they were not borne and brought them into the sanctuary'''
+  read:
+  - Jāmiʿ 11:1986.3
+  tags:
+  - motif: arms-carried-on-feast-day-into-sanctuary
+    refs:
+    - Jāmiʿ 11:1986.3
+    note: 'أنت أصبتني. قال: كيف؟ قال: حملت السِّلاحَ في يوم لم يكن يُحمل فيه، وأدخلت السلاحَ الحرمَ، ولم يكن السلاحُ يُدخل الحرمَ'
+- id: hadith-12-the-day-imposed-and-guided-to
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Friday imposed on those before us who differed over it: Jews Saturday, Christians Sunday; going to Friday a duty on every pubescent; the four exempt'
+  read:
+  - Jāmiʿ 12:1988.1-1989.2
+  quran:
+  - '62:9'
+  tags:
+  - motif: jews-saturday-christians-sunday-us-friday
+    refs:
+    - Jāmiʿ 12:1988.1
+    - Jāmiʿ 12:1988.2
+    note: وهذا يومهم الذي فُرض عليهم فاختلفوا فيه، فهدانا الله له، فهم لنا فيه تبعٌ؛ فاليهود غدًا، والنصارى بعد غدٍ
+  - motif: last-in-world-first-judged-at-resurrection
+    refs:
+    - Jāmiʿ 12:1988.1
+    - Jāmiʿ 12:1988.2
+    note: نحن الآخرون من أهل الدنيا، والأولون يوم القيامة، المقضيُّ لهم قبل الخلائق
+  - motif: god-led-earlier-peoples-astray-from-friday
+    refs:
+    - Jāmiʿ 12:1988.2
+    note: أضلَّ الله ﷿ عن الجمعة من كان قبلنا؛ فكان لليهود يوم السبت، وكان للنصارى يوم الأحد
+  - motif: going-to-friday-due-on-every-pubescent
+    refs:
+    - Jāmiʿ 12:1989.1
+    note: رواح الجمعة واجب على كل محتلم
+  - motif: friday-duty-but-four-exempt
+    refs:
+    - Jāmiʿ 12:1989.2
+    note: 'الجمعة حقٌّ واجب على كلِّ مسلمٍ في جماعةٍ إلَّا أربعةٌ: عبدٌ مملوكٌ، أو امرأةٌ، أو صبيٌّ، أو مريضٌ'
+  hints:
+  - The weekly day 'imposed on them' (furiḍa ʿalayhim) over which the earlier people differed, against the Sabbath given to Israel as a perpetual covenant and sign, Exod 31:13-17
+  - 'Four exempt from the Friday duty (slave, woman, boy, sick), against the Mishnah''s list of those exempt from the pilgrimage appearance: deaf-mute, imbecile, minor, women, unfreed slaves, the lame,
+    blind, sick, aged, m. Hagigah 1:1'
+- id: hadith-12-leaving-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Those who leave the Fridays: hearts sealed, houses to be burned, written among the hypocrites; the ruin of the Book and milk'
+  read:
+  - Jāmiʿ 12:1989.3-1992.2
+  tags:
+  - motif: leaving-fridays-hearts-sealed
+    refs:
+    - Jāmiʿ 12:1989.3
+    - Jāmiʿ 12:1990.2
+    - Jāmiʿ 12:1991.1
+    - Jāmiʿ 12:1991.2
+    note: لينتهينَّ أقوامٌ عن ودعهم الجمعات أو ليختمنَّ الله على قلوبهم، ثمَّ ليكوننَّ من الغافلين ... من ترك ثلاثَ جمَعٍ تهاونًا بها طبع الله على قلبه
+  - motif: threat-to-burn-houses-of-absentees
+    refs:
+    - Jāmiʿ 12:1990.1
+    note: لقد هممت أن آمر رجلًا يصلي بالناس، ثمَّ أحرِّق على رجال يتخلَّفون عن الجمعةِ بيوتهم
+  - motif: ruin-of-community-in-the-book-and-milk
+    refs:
+    - Jāmiʿ 12:1992.1
+    note: هلاك أمتي في الكتاب واللبن ... يتعلَّمون القرآن فيتأولونه على غير ما أنزله الله، ويُحبُّون اللبن فيدعون الجماعات والجُمَع ويبدون
+  - motif: three-fridays-missed-written-hypocrite
+    refs:
+    - Jāmiʿ 12:1992.2
+    note: من سمع الأذان ثلاث جمعات ثم لم يحضر كُتب من المنافقين
+- id: hadith-12-the-hour-of-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Friday''s hour of answered prayer; the best day: Adam created, sent down, forgiven and died on it, the Hour on it; Abu Hurayra, Ka''b and the Torah; Ibn Salam''s ''last hour'''
+  read:
+  - Jāmiʿ 12:1992.3-1998.1
+  tags:
+  - motif: hour-of-answered-prayer-on-friday
+    refs:
+    - Jāmiʿ 12:1992.3
+    - Jāmiʿ 12:1993.1
+    - Jāmiʿ 12:1993.2
+    - Jāmiʿ 12:1997.2
+    note: فيها ساعة لا يوافقها عبدٌ مسلمٌ وهو قائمٌ يصلِّي، يسأل الله شيئًا إلَّا أعطاه إيَّاه". وأشار رسول الله ﷺ بيده يُقلِّلها
+  - motif: hand-gesture-shows-hour-is-short
+    refs:
+    - Jāmiʿ 12:1992.3
+    note: وأشار رسول الله ﷺ بيده يُقلِّلها
+  - motif: adam-created-entered-and-expelled-on-friday
+    refs:
+    - Jāmiʿ 12:1992.4
+    - Jāmiʿ 12:1993.2
+    note: خير يومٍ طلعت عليه الشمس يومُ الجمعةِ، فيه خُلِق آدم، وفيه أُهبِطَ من الجنَّة، وفيه تيبَ عليه، وفيه مات، وفيه تقوم الساعةُ
+  - motif: hour-will-come-on-a-friday
+    refs:
+    - Jāmiʿ 12:1993.2
+    note: وفيه تقوم الساعةُ
+  - motif: beasts-listen-anxiously-every-friday-dawn
+    refs:
+    - Jāmiʿ 12:1993.2
+    - Jāmiʿ 12:1994.1
+    note: وما من دابَّةٍ إلَّا وهي مُصيخةٌ يومَ الجمعةِ من حين تصبح حتَّى تطلع الشمس، شفقًا من الساعةِ، إلَّا الجنُّ والإنس
+  - motif: jews-saturday-christians-sunday-us-friday
+    refs:
+    - Jāmiʿ 12:1993.1
+    note: هدانا الله له، وأضلَّ الناس عنه، والناس لنا فيه تبع، فهو لنا، واليهود يوم السبت، والنصارى يوم الأحد
+  - motif: companion-exchanges-hadith-for-torah-with-kab
+    refs:
+    - Jāmiʿ 12:1993.2
+    note: خرجتُ إلى الطور، فلقيت كعب الأحبار، فجلستُ معه، فحدَّثني عن التوراة، وحدَّثته عن رسول الله ﷺ
+  - motif: kab-says-yearly-then-torah-confirms-weekly
+    refs:
+    - Jāmiʿ 12:1993.2
+    note: 'قال كعبٌ: ذلك في كلِّ سنةٍ يومٌ؟ فقلت: بل في كلِّ جمعةٍ. فقرأ كعب التوراةَ فقال: صدق رسول الله ﷺ'
+  - motif: ibn-salam-calls-kab-liar-then-truthful
+    refs:
+    - Jāmiʿ 12:1993.2
+    note: 'قال عبد الله بن سلام: كذب كعبٌ. فقلت: ثمَّ قرأ كعبٌ التوراة فقال: بل هي في كلِّ جمعةٍ. فقال عبد الله بن سلام: صدق كعبٌ'
+  - motif: mounts-saddled-only-for-three-mosques
+    refs:
+    - Jāmiʿ 12:1993.2
+    note: 'لا تُعمل المطي إلَّا إلى ثلاثة مساجد: المسجد الحرام، ومسجدي هذا، وإلى مسجد إيلياء، أو بيت المقدس'
+  - motif: answered-hour-is-last-of-friday-waiting-is-prayer
+    refs:
+    - Jāmiʿ 12:1993.2
+    - Jāmiʿ 12:1998.1
+    note: هي آخر ساعةٍ في يوم الجمعةِ ... من جلس مجلسًا ينتظر الصلاةَ فهو في صلاةٍ حتَّى يُصلِّي
+  - motif: two-angels-record-arrivals-camel-to-egg
+    refs:
+    - Jāmiʿ 12:1994.1
+    note: 'وعلى كلِّ إنسان ملكان يكتبان الأوَّل فالأول: كرجل قدَّم بدنةً، وكرجلٍ قدَّم بقرةً، وكرجلٍ قدَّم شاةً، وكرجلٍ قدَّم طيرًا، وكرجلٍ قدَّم بيضةً، فإذا قعد الإمام طُوِيَت الصحف'
+  - motif: hour-between-imam-sitting-and-prayers-end
+    refs:
+    - Jāmiʿ 12:1994.2
+    note: هي ما بين أن يجلس الإمام إلى أن تُقضى الصلاةُ
+  - motif: hour-after-afternoon-to-sunset
+    refs:
+    - Jāmiʿ 12:1997.1
+    - Jāmiʿ 12:1997.2
+    note: بعد العصر إلى غيبوبة الشمس ... فالتمسوها آخر ساعةٍ بعد العصرِ
+  - motif: friday-is-twelve-hours
+    refs:
+    - Jāmiʿ 12:1997.2
+    note: 'يوم الجمعة اثنتا عشرة -يريد: ساعة-'
+  - motif: we-find-in-gods-book-the-hour
+    refs:
+    - Jāmiʿ 12:1998.1
+    note: إنَّا لنجد في كتاب الله في يوم الجمعة ساعة لا يوافقها عبدٌ مؤمن يصلِّي يسأل الله فيها شيئًا إلَّا قضي له حاجته
+  hints:
+  - Adam created, brought into paradise, sent down and forgiven all on one day of the week (Friday), against the rabbinic hour-by-hour sixth day on which Adam was formed, sinned and expelled, b. Sanhedrin
+    38b
+  - 'A Jewish convert reading the Torah and confirming a detail about the weekly day (Kaʿb: ''once a year?'' then ''every Friday''), against the Sabbath as a weekly, not yearly, sign, Exod 31:13-17'
+- id: hadith-12-blessings-on-the-prophet-on-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Friday holds Adam's creation and death, the blast and the swoon; your blessings are shown to me; the earth forbidden to consume the prophets' bodies
+  read:
+  - Jāmiʿ 12:2001.1
+  tags:
+  - motif: friday-adam-created-and-taken-trumpet-and-swoon
+    refs:
+    - Jāmiʿ 12:2001.1
+    note: فيه خلق آدم، وفيه قبض، وفيه النفخة، وفيه الصعقة، فأكثروا عليَّ من الصلاة فيه، فإنَّ صلاتكم معروضة عليَّ
+  - motif: earth-forbidden-to-consume-prophets-bodies
+    refs:
+    - Jāmiʿ 12:2001.1
+    note: 'كيف تُعرض صلاتنا عليك وقد أَرِمتَ؟ يقولون: بَليتَ؟ فقال: "إنَّ الله ﷿ حرَّمَ على الأرض أجسادَ الأنبياء'
+  hints:
+  - The prophet's body not decaying in the earth (حرَّمَ على الأرض أجسادَ الأنبياء), against 'you will not let your holy one see corruption', Ps 16:10, read of the messiah's body in Acts 2:27-31
+- id: hadith-12-friday-to-friday-expiation
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The five prayers, Friday to Friday, Ramadan to Ramadan expiate what is between them; Salman: the day your father was gathered'
+  read:
+  - Jāmiʿ 12:2003.1-2003.2
+  tags:
+  - motif: prayers-friday-ramadan-expiate-between
+    refs:
+    - Jāmiʿ 12:2003.1
+    note: 'الصلوات- الخمس، والجمعة إلى الجمعة كفارة لما بينهنَّ ما لم تُغشَ الكبائر".
+
+      وزاد في رواية: "ورمضان إلى رمضان مكفِّرات'
+  - motif: friday-day-adam-gathered
+    refs:
+    - Jāmiʿ 12:2003.2
+    note: هو اليوم الذي جُمِع فيه أبوه، أو أبوكم ... ما اجتنبت المَقْتَلة
+- id: hadith-12-coming-early-to-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Angels at the mosque doors write the first and the next, folding the sheets when the imam sits; camel, cow, ram, hen, egg by the hour; seated before God by order of arrival
+  read:
+  - Jāmiʿ 12:2004.1-2006.2
+  tags:
+  - motif: angels-at-mosque-doors-record-friday-arrivals-fold-scrolls
+    refs:
+    - Jāmiʿ 12:2004.1
+    - Jāmiʿ 12:2005.2
+    - Jāmiʿ 12:2006.1
+    - Jāmiʿ 12:2006.2
+    note: 'كان على كل باب من أبواب المسجد ملائكة يكتبون: الأول فالأول، فإذا جلس الإمام طووا الصحف، وجاؤا يستمعون الذكر'
+  - motif: early-comer-offers-camel-then-cow-ram-hen-egg
+    refs:
+    - Jāmiʿ 12:2004.1
+    - Jāmiʿ 12:2005.1
+    - Jāmiʿ 12:2005.2
+    - Jāmiʿ 12:2006.1
+    note: راح في الساعة الأولى فكأنَّما قرَّب بدنةً، ومن راح في الساعة الثانية فكأنَّما قرَّب بقرةً، ومن راح في الساعة الثالثة فكأنَّما قرَّب كبشًا أقرن، ومن راح في الساعة الرابعة فكأنَّما قرَّب دجاجةً،
+      ومن راح في الساعة الخامسة فكأنَّما قرَّب بيضة
+  - motif: bath-like-janaba-bath-before-friday
+    refs:
+    - Jāmiʿ 12:2005.1
+    note: من اغتسل يوم الجمعة غسل الجنابة
+  - motif: seated-near-god-by-order-of-arrival
+    refs:
+    - Jāmiʿ 12:2005.3
+    note: 'إنَّ الناس يجلسون من الله يوم القيامة على قدر رواحهم إلى الجمعات، الأول، والثاني، والثالث" ثمَّ قال: رابع أربعةٍ وما رابع أربعةٍ ببعيدٍ'
+  hints:
+  - Graded offerings from camel down to egg for the earliest to latest arrival, against the burnt offering graded by means from herd to flock to birds, Lev 1:3-17, and the descending scale to turtledoves
+    and flour, Lev 5:7-11
+- id: hadith-12-each-step-a-years-reward
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Washing, coming early, walking not riding, sitting near: every step the reward of a year''s fasting and night prayer'
+  read:
+  - Jāmiʿ 12:2007.1
+  tags:
+  - motif: each-step-to-friday-a-years-fast-and-prayer
+    refs:
+    - Jāmiʿ 12:2007.1
+    note: من غسَّل يومَ الجمعةِ واغتسلَ، وبكَّر وابتكرَ، ومشي ولم يركب، ودنا من الإمام فاستمع ولم يلغُ، كان له بكلِّ خُطوَةٍ عمل سنةٍ، أجر صيامِها وقيامها
+- id: hadith-12-dying-on-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Who dies on Friday or its eve is spared the trial of the grave
+  read:
+  - Jāmiʿ 12:2011.1
+  tags:
+  - motif: dying-on-friday-spared-trial-of-grave
+    refs:
+    - Jāmiʿ 12:2011.1
+    note: ما من مسلم يموت يوم الجمعة أو ليلة الجمعة إلَّا وقاه الله فتنة القبرِ
+- id: hadith-12-not-fasting-friday-alone
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Friday not to be singled out for fasting or its night for prayer: the oath by the Lord of the House, Juwayriya told to break her fast'
+  read:
+  - Jāmiʿ 12:2012.1-2014.1
+  tags:
+  - motif: friday-not-singled-out-for-fast
+    refs:
+    - Jāmiʿ 12:2012.1
+    - Jāmiʿ 12:2013.1
+    - Jāmiʿ 12:2013.2
+    note: لا يصوم أحدكم يوم الجمعة إلَّا يومًا قبله، أو بعده ... لا تختصُّوا الجمعة بقيام من بين الليالي، ولا تخصُّوا يوم الجمعة بصيام من بين الأيام
+  - motif: oath-by-lord-of-this-house-while-circling
+    refs:
+    - Jāmiʿ 12:2012.1
+    - Jāmiʿ 12:2013.3
+    note: 'سألت جابر بن عبد الله، وهو يطوف بالبيت: أَنَهي رسول الله ﷺ عن صيام يوم الجمعة؟ قال: نعم، وربِّ هذا البيت'
+  - motif: wife-fasting-friday-told-to-break-it
+    refs:
+    - Jāmiʿ 12:2012.2
+    note: 'أصمتِ أمس؟ " قالت: لا. قال: "أتريدين أن تصومي غدًا؟ " قالت: لا. قال: "فأفطري'
+  - motif: three-days-from-new-moon-rarely-eats-friday
+    refs:
+    - Jāmiʿ 12:2014.1
+    note: 'يصوم من غُرَّة كل شهرٍ ثلاثة أيام.
+
+      وفي رواية: قلمَّا رأيت رسول الله ﷺ يُفطر يوم الجمعة'
+  hints:
+  - Fasting avoided on the eve of the weekly day and the day itself, against Judith, who 'fasted all the days of her widowhood except the day before the sabbath and the sabbath', Jdt 8:6
+- id: hadith-12-the-friday-bath
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The Friday bath: due on every pubescent; Umar rebukes the latecomer who only washed; once in seven days head and body; its origin in sweat and wool in a cramped mosque; ablution suffices, bathing
+    is better'
+  read:
+  - Jāmiʿ 12:2017.1-2021.1
+  tags:
+  - motif: bathe-for-friday
+    refs:
+    - Jāmiʿ 12:2017.2
+    - Jāmiʿ 12:2018.2
+    note: إذا جاء أحدكم الجمعة فليغتسل
+  - motif: friday-bath-due-on-every-pubescent
+    refs:
+    - Jāmiʿ 12:2017.1
+    note: غسل يوم الجمعة واجب على كل محتلم
+  - motif: latecomer-only-did-ablution-umar-rebukes
+    refs:
+    - Jāmiʿ 12:2017.3
+    - Jāmiʿ 12:2018.1
+    note: 'أيَّة ساعةٍ هذه؟ قال: إنِّي شُغِلتُ فلم أنقلِبْ إلى أهلي حتَّى سمعتُ التأذينَ، فلم أزد أن توضَّأتُ. فقال: والوضوء أيضًا'
+  - motif: bath-once-in-seven-days-head-and-body
+    refs:
+    - Jāmiʿ 12:2018.2
+    note: حقٌّ لله على كلِّ مسلمٍ أن يغتسلَ في كلِّ سبعة أيَّامٍ، يغسل رأسَه وجسده
+  - motif: perfume-or-oil-unsure-says-ibn-abbas
+    refs:
+    - Jāmiʿ 12:2018.3
+    note: 'اغتسلوا يوم الجمعة، واغسلوا رؤوسكم وإن لم تكونوا جنبًا، وأصيبوا من الطيب". قال ابن عباس: أمَّا الغسل فنعم، وأمَّا الطيب فلا أدري'
+  - motif: friday-bath-began-from-sweat-in-wool
+    refs:
+    - Jāmiʿ 12:2019.1
+    - Jāmiʿ 12:2020.1
+    note: كَانَ النَّاسُ مَجْهُودِينَ يَلْبَسُونَ الصُّوفَ وَيَعْمَلُونَ عَلَى ظُهُورِهِمْ، وَكَانَ مَسْجِدُهُمْ ضَيِّقًا مُقَارِبَ السَّقْفِ إنَّمَا هُوَ عَرِيشٌ
+  - motif: latecomer-stepping-over-necks-is-this-a-day-for-ablution
+    refs:
+    - Jāmiʿ 12:2019.2
+    note: يلهو أحدكم حتى إذا كادت الجمعة تفوته جاء يتخطى رقاب الناس يؤذيهم! ... أوَ يوم وضوء هذا
+  - motif: bath-keeps-pure-till-next-friday
+    refs:
+    - Jāmiʿ 12:2020.2
+    note: أعِد غسلًا آخر؛ إنِّي سمعت ... من اغتسل يوم الجمعة كان في طهارة إلى الجمعة الأخرى
+  - motif: ablution-suffices-bath-better
+    refs:
+    - Jāmiʿ 12:2021.1
+    note: من توضأ يوم الجمعة فبها ونعمت، ومن اغتسل فهو أفضل
+  hints:
+  - A fixed weekly bath of head and body before the holy day (في كلِّ سبعة أيَّامٍ، يغسل رأسَه وجسده), against the rabbinic custom of washing face, hands and feet in hot water on the Sabbath eve, b. Shabbat
+    25b, and Ezra's enactment of washing clothes on Thursday, b. Bava Kamma 82a
+- id: hadith-12-perfume-tooth-stick-and-forgiveness
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Bath, tooth-stick and perfume, even a wife's; the man who does not separate two and keeps silent is forgiven until the next Friday
+  read:
+  - Jāmiʿ 12:2022.1-2023.1
+  tags:
+  - motif: bath-toothstick-and-perfume-even-wifes
+    refs:
+    - Jāmiʿ 12:2022.1
+    - Jāmiʿ 12:2023.1
+    note: غسل يوم الجمعة واجب على كل محتلم، وأن يستنَّ، وأن يمسَّ طيبًا إن وجدَ
+  - motif: bath-perfume-no-separating-two-forgiven-to-next-friday
+    refs:
+    - Jāmiʿ 12:2022.2
+    - Jāmiʿ 12:2022.3
+    note: ثمَّ يخرج فلا يُفرِّق بين اثنين، ثم يصلِّي ما كُتب له، ثم يُنصِت إذا تكلَّم الإمام، إلَّا غُفِر له ما بينه وبين الجمعة الأخرى
+- id: hadith-12-best-clothes-for-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The striped silk robe at the mosque door proposed for Friday and delegations; given one, Umar clothes his idolater brother
+  read:
+  - Jāmiʿ 12:2023.2
+  tags:
+  - motif: silk-robe-for-feast-and-delegations-refused
+    refs:
+    - Jāmiʿ 12:2023.2
+    note: 'لو اشتريت هذه الحلة فتلبسها يوم الجمعةِ وللوفدِ إذا قدِموا عليك. فقال رسول الله ﷺ: "إنَّما يلبس هذه من لا خلاق له في الآخرةِ'
+  - motif: robe-given-to-idolater-brother
+    refs:
+    - Jāmiʿ 12:2023.2
+    note: لم أُكسِكها لتلبسَها". فكساها عمر أخًا له مشركًا
+- id: hadith-12-meal-and-nap-after-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No midday meal or nap until after Friday; the woman's chard roots and barley for the returning worshippers
+  read:
+  - Jāmiʿ 12:2024.1-2025.1
+  - Jāmiʿ 12:2047.2
+  tags:
+  - motif: no-meal-or-nap-until-after-friday
+    refs:
+    - Jāmiʿ 12:2024.1
+    - Jāmiʿ 12:2025.1
+    - Jāmiʿ 12:2047.2
+    note: ما كنَّا نقيل ولا نتغدَّى إلَّا بعد الجمعة
+- id: hadith-12-stepping-over-necks
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'To the man stepping over necks during the sermon: ''sit, you have harmed (and come late)'''
+  read:
+  - Jāmiʿ 12:2025.2
+  tags:
+  - motif: sit-you-have-harmed-necks-stepped-over
+    refs:
+    - Jāmiʿ 12:2025.2
+    note: 'جاء رجلٌ يتخطَّى رِقابَ الناس يوم الجمعة، والنبي ﷺ يَخطب، فقال له النبي ﷺ: "اجلس! فقد آذيتَ'
+- id: hadith-12-friday-conduct-and-forgiveness
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Friday conduct: forgiveness to the next Friday and three days more (a good deed tenfold); touching pebbles is idle talk; three kinds who attend'
+  read:
+  - Jāmiʿ 12:2026.1-2028.2
+  quran:
+  - 6:160
+  tags:
+  - motif: bath-perfume-no-separating-two-forgiven-to-next-friday
+    refs:
+    - Jāmiʿ 12:2026.1
+    - Jāmiʿ 12:2027.1
+    - Jāmiʿ 12:2028.2
+    note: فلم يُفرِّق بين اثنين فصلَّي ما كُتب له، ثمَّ إذا خرج الإمام أنصت، غُفر له ما بينه وبين الجمعة الأُخرى
+  - motif: forgiven-to-next-friday-and-three-days-more
+    refs:
+    - Jāmiʿ 12:2026.2
+    - Jāmiʿ 12:2027.1
+    - Jāmiʿ 12:2027.2
+    - Jāmiʿ 12:2028.1
+    note: 'غُفِر له ما بينه وبين الجمعة الأُخرى، وفضل ثلاثة أيَّامٍ ... وزيادةُ ثلاثةِ أيَّامٍ؛ وذلك بأنَّ الله ﷿ يقول: ﴿مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا﴾'
+  - motif: touching-pebbles-is-idle-talk
+    refs:
+    - Jāmiʿ 12:2026.2
+    note: ومن مسَّ الحصى فقد لغا
+  - motif: idle-talk-and-stepping-make-it-mere-noon-prayer
+    refs:
+    - Jāmiʿ 12:2027.3
+    note: ومن لغا وتخطَّي رِقابَ الناسِ كانت له ظهرًا
+  - motif: three-kinds-attend-friday
+    refs:
+    - Jāmiʿ 12:2028.1
+    note: 'يحضر الجمعة ثلاثةُ نفرٍ: رجلٌ حضرها يلغو، وهو حظُّه منها، ورجلٌ حضرها يدعو، فهو رجلٌ دعا الله ﷿ إن شاء أعطاه، وإن شاء منعه، ورجل حضرها بإنصاتٍ وسكوتٍ'
+- id: hadith-12-form-of-the-sermon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The sermon''s form: two sermons standing with a sitting between; red eyes and raised voice like a warner of an army; ''the best speech is God''s book''; short words; the maimed hand; ''they left
+    you standing''; ''I warn you of the fire'' heard in the market'
+  read:
+  - Jāmiʿ 12:2030.1-2032.4
+  quran:
+  - '62:11'
+  tags:
+  - motif: two-sermons-standing-sitting-between
+    refs:
+    - Jāmiʿ 12:2030.1
+    - Jāmiʿ 12:2030.3
+    note: يخطب يوم الجمعة قائمًا، ثمَّ يجلس، ثمَّ يقوم ... كانت للنبي ﷺ خطبتان، يجلس بينهما يقرأ القرآن، ويذكر الناس
+  - motif: preacher-like-warner-of-an-army
+    refs:
+    - Jāmiʿ 12:2030.2
+    note: 'إذا خطب احمرَّت عيناه، وعلا صوته، واشتدَّ غضبه، حتَّى كأنَّه منذر جيشٍ، يقول: "صبَّحكم ومسَّاكم'
+  - motif: best-speech-gods-book-every-innovation-error
+    refs:
+    - Jāmiʿ 12:2030.2
+    note: فإنَّ خير الحديث كتاب الله، وخير الهدي هدى محمد، وشر الأمورِ محدثاتها، وكل بدعةٍ ضلالةٌ
+  - motif: debt-of-the-dead-is-on-me
+    refs:
+    - Jāmiʿ 12:2030.2
+    note: أنا أولى بكلِّ مؤمنٍ من نفسه، من ترك مالًا فلأهلهِ، ومن ترك دينًا فإليَّ وعليَّ
+  - motif: short-friday-admonition-few-words
+    refs:
+    - Jāmiʿ 12:2031.1
+    - Jāmiʿ 12:2031.2
+    note: لا يُطيل الموعظةَ يومَ الجمعةِ، إنَّما هنَّ كلِماتٍ يسيرات
+  - motif: cannot-do-all-commanded-aim-and-rejoice
+    refs:
+    - Jāmiʿ 12:2031.2
+    note: إنَّكم لن تطيقوا، أو لن تفعلوا كلَّ ما أُمِرتم به، ولكن سدِّدوا وأبشروا
+  - motif: sermon-without-tashahhud-like-maimed-hand
+    refs:
+    - Jāmiʿ 12:2032.1
+    note: كلُّ خطبةٍ ليس فيها تشهُّدٌ فهي كاليد الجَدماء
+  - motif: standing-sermon-proved-from-they-left-you-standing
+    refs:
+    - Jāmiʿ 12:2032.2
+    note: 'أكان النبيُّ ﷺ يخطب قائمًا أو قاعدًا؟ قال: أَوَ ما تقرأ: ﴿وَتَرَكُوكَ قَائِمًا﴾'
+  - motif: warned-you-of-fire-heard-in-market-cloak-falls
+    refs:
+    - Jāmiʿ 12:2032.3
+    note: أنذرتكم النارَ! أنذرتكم النارَ! " حتَّى لو كان رجلٌ في أقصى السوق سمِعه ... حتى وقعت خميصة كانت على عاتقه عند رجله
+  - motif: warner-like-scout-who-sees-enemy
+    refs:
+    - Jāmiʿ 12:2032.4
+    note: 'مَثَلُ قَوْمٍ خَافُوا عَدُوًّا يَأْتِيهِمْ، فَبَعَثُوا رَجُلًا يَتَرَايَا لَهُمْ ... فَأَهْوَى بِثَوْبِهِ: أَيُّهَا النَّاسُ! أُتِيتُمْ'
+- id: hadith-12-pulpit-and-weeping-trunk
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The pulpit of tamarisk made by a woman's carpenter slave; praying on it and stepping back to prostrate; the trunk that cried like a child or pregnant camels until he held it; Tamim's two steps;
+    Ubayy keeps the trunk till termites eat it
+  read:
+  - Jāmiʿ 12:2033.1-2037.2
+  tags:
+  - motif: pulpit-of-tamarisk-from-the-ghaba
+    refs:
+    - Jāmiʿ 12:2033.1
+    - Jāmiʿ 12:2034.1
+    note: مُري غلامكِ النجَّار أن يعملَ لي أعوادًا أجلس عليهنَّ إذا كلَّمتُ الناسَ". فأمرته فعمِلها من طَرْفاء الغابة
+  - motif: prays-on-pulpit-steps-back-to-prostrate-at-its-foot
+    refs:
+    - Jāmiʿ 12:2033.1
+    note: ثمَّ ركع وهو عليها، ثمَّ نزل القهقرى فسجد في أصل المنبر، ثمَّ عاد ... إنَّما صنعتُ هذا لتأتمُّوا ولتعلموا صلاتي
+  - motif: palm-trunk-weeps-when-pulpit-replaces-it
+    refs:
+    - Jāmiʿ 12:2034.1
+    - Jāmiʿ 12:2035.1
+    - Jāmiʿ 12:2035.2
+    - Jāmiʿ 12:2035.3
+    - Jāmiʿ 12:2036.1
+    - Jāmiʿ 12:2036.3
+    - Jāmiʿ 12:2037.1
+    - Jāmiʿ 12:2037.2
+    note: 'فحنَّت الخشبة، فقال النبي ﷺ: "ألا تَعجبون لحنين هذه الخشبة'
+  - motif: trunk-cries-like-child-or-pregnant-camels
+    refs:
+    - Jāmiʿ 12:2035.1
+    - Jāmiʿ 12:2035.2
+    - Jāmiʿ 12:2037.2
+    note: فصاحت النخلة صياحَ الصبي، ثمَّ نزلَ النبيُّ ﷺ فضمَّه إليه، يئنُّ أنينَ الصبيِّ الذي يُسكَّن ... سمِعنا للجِذع مثلَ أصواتِ العِشار
+  - motif: trunk-wept-for-the-remembrance-it-heard
+    refs:
+    - Jāmiʿ 12:2035.1
+    note: كانت تبكي على ما كانت تسمع من الذكر عندها
+  - motif: trunk-would-have-yearned-till-resurrection
+    refs:
+    - Jāmiʿ 12:2035.3
+    - Jāmiʿ 12:2037.1
+    note: لو لم أحتضنه لحنَّ إلى يوم القيامة
+  - motif: pulpit-for-a-body-grown-heavy
+    refs:
+    - Jāmiʿ 12:2036.2
+    note: 'لمَّا بدَّن قال له تميمٌ الداري: ألا أتَّخذ لك منبرًا يا رسولَ الله! يجمعُ أو يحمِلُ عِظامَك؟ قال: "بلي". فاتَّخذَ له منبرًا مِرقاتين'
+  - motif: trunk-splits-and-cracks-then-kept-till-termites-eat-it
+    refs:
+    - Jāmiʿ 12:2036.3
+    note: فلمَّا جاوز الجذعَ خار حتَّى تصدَّع وانشقَّ ... أخذ ذلك الجذع أُبي بن كعبٍ، وكان عنده في بيته حتَّى بَلي، فأكلته الأَرَضة، وعاد رُفاتًا
+  - motif: only-one-carpenter-in-medina-cut-from-tamarisk
+    refs:
+    - Jāmiʿ 12:2034.1
+    note: ولم يكن بالمدينة إلَّا نجَّارٌ واحدٌ، فذهبتُ أنا وذاك النجار إلى الخافقين، فقطعنا هذا المنبر من أثلةٍ
+  hints:
+  - A wooden post that cries out and must be calmed by the prophet's touch, against the Lord's word to Habakkuk, 'the stone will cry out from the wall, and the beam from the woodwork answer it', Hab 2:11,
+    and 'the stones would cry out', Luke 19:40
+- id: hadith-12-pulpit-place
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The place between pulpit and qibla wall the width of a sheep's passage; the pillar by the mushaf
+  read:
+  - Jāmiʿ 12:2038.1
+  tags:
+  - motif: pulpit-to-qibla-a-sheeps-passage
+    refs:
+    - Jāmiʿ 12:2038.1
+    note: وكان بين المنبر وبين القبلة قدر ممرِّ الشاةِ
+  - motif: prays-at-pillar-by-the-mushaf
+    refs:
+    - Jāmiʿ 12:2038.1
+    note: كان يتحرَّى الصلاةَ عند الأُسطوانة التي عند المصحف
+- id: hadith-12-quran-from-the-pulpit
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Recitation on the pulpit: ''they will call, O Malik''; Qaf learned from his mouth on the pulpit every Friday; sermons with Quran and reminder'
+  read:
+  - Jāmiʿ 12:2038.2-2039.1
+  quran:
+  - 43:77
+  - '50:1'
+  tags:
+  - motif: damned-call-malik-recited-from-pulpit
+    refs:
+    - Jāmiʿ 12:2038.2
+    note: 'يقرأ على المنبر: ﴿وَنَادَوْا يَامَالِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ﴾'
+  - motif: two-sermons-standing-sitting-between
+    refs:
+    - Jāmiʿ 12:2038.3
+    note: كانت للنبي ﷺ خطبتان يجلس بينهما. يقرأ القرآن، ويُذكِّر الناسَ ... فقد والله! صلَّيتُ معه أكثر من ألفي صلاةٍ
+  - motif: whoever-says-he-preached-sitting-lies
+    refs:
+    - Jāmiʿ 12:2038.3
+    note: فمن نبَّأك أنَّه كان يخطب جالسًا فقد كذبَ، فقد والله! صلَّيتُ معه أكثر من ألفي صلاةٍ
+  - motif: qaf-recited-at-dawn-friday-and-eids
+    refs:
+    - Jāmiʿ 12:2039.1
+    note: أخذت ﴿ق وَالْقُرْآنِ الْمَجِيدِ﴾ مِن فِي رسول الله ﷺ يوم الجمعة، وهو يقرأ بها على المنبر في كلِّ جمعةٍ
+- id: hadith-12-imam-answers-the-muezzin
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Mu''awiya on the pulpit answers each phrase of the call: ''and I'''
+  read:
+  - Jāmiʿ 12:2039.2
+  tags:
+  - motif: imam-on-pulpit-answers-muezzin-and-i
+    refs:
+    - Jāmiʿ 12:2039.2
+    note: 'قال: أشهد ألَّا إله إلَّا الله. فقال معاويةُ: وأنا. قال: أشهد أنَّ محمدًا رسول الله. فقال معاوية: وأنّا'
+- id: hadith-12-long-prayer-short-sermon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Long prayer and short sermon as the mark of understanding; 'some eloquence is magic'; the prophet's little idle talk and walking with the widow
+  read:
+  - Jāmiʿ 12:2040.1-2040.3
+  tags:
+  - motif: long-prayer-short-sermon-sign-of-understanding
+    refs:
+    - Jāmiʿ 12:2040.1
+    - Jāmiʿ 12:2040.2
+    note: إنَّ طولَ صلاة الرجل وقَصَرَ خطبته مَئنَّةٌ من فقهه. فأطيلوا الصلاةَ، وأَقصروا الخطبةَ
+  - motif: eloquence-is-magic-poetry-is-wisdom
+    refs:
+    - Jāmiʿ 12:2040.1
+    note: وإنَّ مِن البيان لسحرًا
+  - motif: walks-with-widow-and-poor
+    refs:
+    - Jāmiʿ 12:2040.2
+    note: كان رسول الله ﷺ يُكثر الذكرَ، ويُقلُّ اللغوَ، ويُطيل الصلاةَ، ويُقصِر الخطبةَ، ولا يأنف أن يمشي مع الأرملةِ والمسكين
+  - motif: prayer-and-sermon-both-moderate
+    refs:
+    - Jāmiʿ 12:2040.3
+    note: فكانت صلاته قصدًا، وخطبته قصدًا
+- id: hadith-12-preacher-rebuked-for-one-pronoun
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''What a bad speaker you are'': the man who joined God and his messenger in one pronoun'
+  read:
+  - Jāmiʿ 12:2041.1
+  tags:
+  - motif: bad-speaker-joins-god-and-messenger-in-one-pronoun
+    refs:
+    - Jāmiʿ 12:2041.1
+    note: 'ومن يعصِهما فقد غَوِي. فقال رسول الله ﷺ: "بئس الخطيبُ أنتَ! قلْ: ومن يعص اللهَ ورسولَه'
+- id: hadith-12-no-hands-raised-on-pulpit
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Bishr b. Marwan raising both hands on the pulpit: ''may God make these hands ugly''; only the forefinger'
+  read:
+  - Jāmiʿ 12:2041.2
+  tags:
+  - motif: preacher-raises-hands-only-forefinger-allowed
+    refs:
+    - Jāmiʿ 12:2041.2
+    note: 'رأى بِشرَ بنَ مروانَ على المنبرِ رافعًا يديه فقال: قبَّح الله هاتين اليدين! لقد رأيتُ رسول الله ﷺ ما يزيدُ على أن يقولَ بيده هكذا. وأشارَ بأُصبَعِه المُسبِّحة'
+- id: hadith-12-speech-during-the-sermon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Speech allowed to the preacher: ''pray two rak''as''; the man moved from sun to shade; ''what have you prepared for it?''; Ibn Mas''ud reading al-Nisa'' to him on the pulpit; the stranger taught
+    from an iron-legged chair; the grandsons lifted from the floor'
+  read:
+  - Jāmiʿ 12:2042.1-2044.1
+  quran:
+  - '4:41'
+  - '64:15'
+  tags:
+  - motif: latecomer-told-pray-two-rakas-during-sermon
+    refs:
+    - Jāmiʿ 12:2042.1
+    note: 'صلَّيتَ؟ " قال: لا. قال: "قم فصلِّ ركعتين'
+  - motif: man-standing-in-sun-moved-to-shade
+    refs:
+    - Jāmiʿ 12:2042.2
+    note: جاء ورسول الله ﷺ يخطب، فقام في الشمس، فأمر به فحُوِّل إلى الظلِّ
+  - motif: you-are-with-whom-you-love
+    refs:
+    - Jāmiʿ 12:2042.3
+    note: 'متى الساعة؟ فأشار إليه الناس: أن اسكت! فقال له رسول الله ﷺ عند الثالثة: "ويحك! ماذا أعدت لها؟ ... فإنَّك مع من أحببتَ'
+  - motif: tears-at-verse-of-the-witness
+    refs:
+    - Jāmiʿ 12:2043.1
+    note: أمرني رسول الله ﷺ أن أقرأ عليه وهو على المنبر فقرأت عليه من سورة النساء ... فنظرت إليه وعيناه تذرفان
+  - motif: sermon-left-to-teach-stranger-on-iron-legged-chair
+    refs:
+    - Jāmiʿ 12:2043.2
+    note: رجلٌ غريبٌ جاء يسأل عن دينه ... وترك الخطبةَ حتَّى انتهى إليَّ فأُتي بكرسيٍّ حسِبتُ قوائمَه حديدًا ... وجعل يُعلِّمُني ممَّا علَّمه الله، ثمَّ أتي خطبتَه فأتمَّ آخرها
+  - motif: prophet-stops-sermon-to-lift-stumbling-grandsons
+    refs:
+    - Jāmiʿ 12:2044.1
+    note: 'فأقبل الحسن والحسين عليهما قميصان أحمران يعثران ويقومان، فنزل فأخذهما فصعِد بهما المنبرَ، ثمَّ قال: "صدقَ الله: ﴿إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ﴾'
+- id: hadith-12-silence-during-the-sermon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Saying ''be quiet'' while the imam preaches is idle talk; Ubayy: ''you have of your prayer only what you talked'''
+  read:
+  - Jāmiʿ 12:2044.2-2044.3
+  quran:
+  - '67:1'
+  tags:
+  - motif: saying-be-silent-is-idle-talk
+    refs:
+    - Jāmiʿ 12:2044.2
+    note: 'إذا قلتَ لصاحبكَ: أنصِت يوم الجمعة والإمام يخطب فقد لَغَوتَ'
+  - motif: whisperer-gets-of-prayer-only-his-talk
+    refs:
+    - Jāmiʿ 12:2044.3
+    note: 'متى أُنزلت هذه السورة؟ إنِّي لم أسمعها إلَّا الآن ... فقال أُبَي: ليس لك من صلاتك اليوم إلَّا ما لغوت'
+- id: hadith-12-time-of-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The time of Friday: walls without shade on leaving; at the sun''s turning; early in cold, cooled in heat; resting the camels; Abu Juhayfa against al-Hajjaj''s delay'
+  read:
+  - Jāmiʿ 12:2047.1
+  - Jāmiʿ 12:2047.3-2048.3
+  tags:
+  - motif: leaving-friday-walls-without-shade
+    refs:
+    - Jāmiʿ 12:2047.1
+    note: كنَّا نصلِّي مع النبيِّ ﷺ الجمعةَ ثمَّ ننصرِف وليس للحيطان ظلٌّ يُستظلُّ فيه
+  - motif: friday-at-the-suns-turning
+    refs:
+    - Jāmiʿ 12:2048.1
+    - Jāmiʿ 12:2048.2
+    - Jāmiʿ 12:2048.3
+    note: كان يُصلِّي الجمعةَ حين تميلُ الشمس
+  - motif: early-in-cold-delayed-in-heat
+    refs:
+    - Jāmiʿ 12:2047.3
+    note: إذا اشتدَّ البردُ بكَّر بالصلاةِ وإذا اشتدَّ الحرُّ أبرد بالصلاةِ. يعني الجمعة
+  - motif: after-friday-camels-rested
+    refs:
+    - Jāmiʿ 12:2048.2
+    note: كان يُصلِّي ثمَّ نذهب إلى جِمالنا فنُريحها
+  - motif: elder-rebukes-governor-delaying-friday
+    refs:
+    - Jāmiʿ 12:2048.3
+    note: 'إنَّ الحجَّاج أخَّر الصلاةَ يومَ الجمعة فقال له شيخٌ: والله! لقد رأيت رسول الله ﷺ يصلِّي فما رأيته يصنع كما تصنع أنت'
+- id: hadith-12-number-for-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The twelve who stayed when the Syrian caravan came; As'ad b. Zurara's first Friday with forty
+  read:
+  - Jāmiʿ 12:2050.1-2050.2
+  quran:
+  - '62:11'
+  tags:
+  - motif: twelve-stay-when-caravan-comes
+    refs:
+    - Jāmiʿ 12:2050.1
+    note: فجاءت عيرٌ من الشام، فانفتل الناس إليها، حتَّى لم يبقَ إلَّا اثنا عشر رجلًا
+  - motif: first-friday-led-by-asad-with-forty
+    refs:
+    - Jāmiʿ 12:2050.2
+    note: 'لأنَّه أوَّل من جمَّع بنا في هزم النبيت من حرَّة بني بياضة، في نقيعٍ يُقال له: نقيع الخَضِمات. قلت: كم أنتم يومئذٍ؟ قال: أربعون'
+  hints:
+  - A fixed quorum for the congregational prayer (twelve remained; forty at the first Friday), against the Mishnah's ten (minyan) required for the public recitation and blessings, m. Megillah 4:3
+- id: hadith-12-two-rakas-and-catching-one
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Friday is two complete rak'as; who catches one rak'a has caught it
+  read:
+  - Jāmiʿ 12:2051.1-2051.3
+  tags:
+  - motif: prayers-of-two-rakas-complete-not-shortened
+    refs:
+    - Jāmiʿ 12:2051.1
+    note: صلاة السفر ركعتان، وصلاة الجمعة ركعتان، والفطر والأضحى ركعتان، تمامٌ غير قصرٍ
+  - motif: one-raka-caught-is-the-prayer-caught
+    refs:
+    - Jāmiʿ 12:2051.2
+    - Jāmiʿ 12:2051.3
+    note: من أدرك ركعةً من الصلاةِ فقد أدرك الصلاةَ ... من أدرك من صلاةِ الجمعة ركعةً فقد أدرك
+- id: hadith-12-pray-in-your-dwellings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: On a muddy Friday Ibn Abbas has the muezzin say 'prayer in your dwellings' instead of 'come to prayer'
+  read:
+  - Jāmiʿ 12:2053.1
+  tags:
+  - motif: muddy-friday-call-pray-in-your-dwellings
+    refs:
+    - Jāmiʿ 12:2053.1
+    note: 'فلمَّا بلغَ المؤذِّن: "حيَّ على الصلاةِ" فأمره أن يُنادي: "الصلاةُ في الرحالِ" ... فعل هذا من هو خير منه، وإنَّها عَزْمُةٌ'
+- id: hadith-12-friday-readings
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Friday readings: al-Sajda and al-Insan at dawn; al-Jumu''a and al-Munafiqun, the first to rouse believers, the second to strike hypocrites; al-A''la and al-Ghashiya'
+  read:
+  - Jāmiʿ 12:2054.1-2055.3
+  quran:
+  - 32:1-2
+  - '76:1'
+  - '62:1'
+  - '63:1'
+  - '87:1'
+  - '88:1'
+  tags:
+  - motif: sajda-and-insan-at-friday-dawn
+    refs:
+    - Jāmiʿ 12:2054.1
+    - Jāmiʿ 12:2054.2
+    note: 'كان النبي ﷺ يقرأ في الجمعة في صلاة الفجر: ﴿الم (١) تَنْزِيلُ﴾ [السجدة: ١ - ٢]. و ﴿هَلْ أَتَى عَلَى الْإِنْسَانِ﴾'
+  - motif: friday-readings-jumua-and-munafiqun
+    refs:
+    - Jāmiʿ 12:2054.2
+    - Jāmiʿ 12:2055.1
+    note: كان يقرأ في صلاة الجمعةِ سورة الجمعة والمنافقين
+  - motif: feast-and-friday-a-la-and-ghashiya
+    refs:
+    - Jāmiʿ 12:2054.3
+    - Jāmiʿ 12:2055.3
+    note: كان رسول الله ﷺ يقرأ في العيدين وفي الجمعة بـ ﴿سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى﴾
+  - motif: jumua-rouses-believers-munafiqun-strikes-hypocrites
+    refs:
+    - Jāmiʿ 12:2055.2
+    note: يقرأ في صلاة الجمعة بالجمعة، فيحرض به المؤمنين، وفي الثانية بسورة المنافقين، فيقرع به المنافقين
+  - motif: deputy-reads-suras-ali-read-at-kufa
+    refs:
+    - Jāmiʿ 12:2055.1
+    note: إنَّك قرأتَ بسورتين كان علي بن أبي طالبٍ يقرأ بهما في الكوفةِ
+- id: hadith-12-friday-in-villages
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The first Friday after Medina''s: the mosque of Abd al-Qays at Juwatha in al-Bahrayn'
+  read:
+  - Jāmiʿ 12:2055.4
+  tags:
+  - motif: first-friday-outside-medina-at-juwatha
+    refs:
+    - Jāmiʿ 12:2055.4
+    note: إنَّ أوَّل جمعةٍ جُمِّعت بعد جمعة في مسجد رسول الله ﷺ في مسجد عبد القيس بجُواثى من البحرين
+- id: hadith-12-the-friday-call
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: One call when the imam sat on the pulpit; Uthman adds a third call on al-Zawra' as people multiply
+  read:
+  - Jāmiʿ 12:2056.1
+  tags:
+  - motif: friday-call-added-on-zawra-by-uthman
+    refs:
+    - Jāmiʿ 12:2056.1
+    note: كان النداء يوم الجمعة أوَّلُه إذا جلس الإمام على المنبر ... فلمَّا كان عثمان ﵁، وكثر الناس زاد النداء الثالث على الزّوراء
+- id: hadith-12-two-rakas-during-the-sermon
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Sulayk told to pray two light rak'as during the sermon; Abu Sa'id refuses Marwan's guards; the shabby man given two garments who throws one back
+  read:
+  - Jāmiʿ 12:2056.2-2058.1
+  tags:
+  - motif: latecomer-told-pray-two-rakas-during-sermon
+    refs:
+    - Jāmiʿ 12:2056.2
+    - Jāmiʿ 12:2057.1
+    - Jāmiʿ 12:2058.1
+    note: إذا جاء أحدكم يوم الجمعة والإمام يخطب فليركع ركعتين، وليتجوَّز فيهما
+  - motif: sulayk-sits-before-praying-told-rise
+    refs:
+    - Jāmiʿ 12:2056.2
+    note: جاء سُليك الغَطَفاني يوم الجمعة ورسول الله - ﷺ قاعد على المنبر، فقعد سُليك قبل أن يصلِّي
+  - motif: companion-prays-despite-governors-guards
+    refs:
+    - Jāmiʿ 12:2058.1
+    note: فقام يصلِّي، فجاء الحرس ليُجلِسوه فأبي حتَّى صلَّى ... ما كنت لأتركها بعد شيءٍ رأيته من رسول الله ﷺ
+  - motif: shabby-man-given-two-garments-throws-one
+    refs:
+    - Jāmiʿ 12:2058.1
+    note: 'فأمرتُ له منها بثوبين، ثمَّ جاء الآن، فأمرت الناس بالصدقة فألقى أحدهما! ". فانتهرَه وقال: "خذ ثوبَك'
+- id: hadith-12-prayer-after-friday
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'After Friday: two rak''as at home, Ibn Umar''s two and four at Mecca; four after Friday; Abu Hurayra''s three counsels; Mu''awiya''s rule not to join prayer to prayer; Ibn Umar pushes a man praying
+    two in his place'
+  read:
+  - Jāmiʿ 12:2058.2-2061.2
+  tags:
+  - motif: ibn-umar-ten-rakas-and-friday-at-home
+    refs:
+    - Jāmiʿ 12:2058.2
+    - Jāmiʿ 12:2059.1
+    - Jāmiʿ 12:2061.2
+    note: وكان لا يُصلِّي بعد الجمعة حتَّى ينصرِفَ فيركع ركعتين
+  - motif: ibn-umar-two-then-four-after-friday-at-mecca
+    refs:
+    - Jāmiʿ 12:2059.1
+    note: إذا كان بمكَّةَ فصلَّى الجمعةَ تقدَّم فصلَّى ركعتين، ثمَّ تقدَّم فصلَّى أربعًا
+  - motif: four-rakas-after-friday
+    refs:
+    - Jāmiʿ 12:2059.2
+    note: إذا صلَّى أحدكم الجمعة فليصلِّ بعدها أربعًا
+  - motif: three-counsels-of-my-friend
+    refs:
+    - Jāmiʿ 12:2060.1
+    note: 'أوصاني خليلي بثلاثٍ لا أدعُهُنَّ في سفرٍ ولا حضرٍ: نومٍ على وترٍ، وصيام ثلاثة أيامٍ من كل شهر، وركعتين بعد الجمعة'
+  - motif: no-prayer-joined-to-prayer-without-speaking-or-leaving
+    refs:
+    - Jāmiʿ 12:2061.1
+    note: فإذا صلَّيتَ الجمعة فلا تصلها بصلاةٍ حتَّى تكلَّمَ أو تخرجَ
+  - motif: man-praying-in-place-pushed-do-you-pray-friday-four
+    refs:
+    - Jāmiʿ 12:2061.2
+    note: 'رأى رجلًا يصلي ركعتين يوم الجمعة في مقامه، فدفعه وقال: أتصلِّي الجمعة أربعًا'
+- id: hadith-12-not-raising-a-man-from-his-seat
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No one may make his brother rise from his seat and sit in it; let him say 'make room'
+  read:
+  - Jāmiʿ 12:2061.3-2061.4
+  tags:
+  - motif: no-man-raised-from-seat-say-make-room
+    refs:
+    - Jāmiʿ 12:2061.3
+    - Jāmiʿ 12:2061.4
+    note: 'لا يُقيمنَّ أحدكم أخاه يوم الجمعة ثمَّ لِيُخالف إلى مقعده، فيقعد فيه، ولكن يقول: افسحوا'
+  hints:
+  - The ban on taking another's seat and the formula 'make room' (افسحوا), against the guest told to yield his place to a more honoured one and the host's 'friend, go up higher', Luke 14:8-10
+- id: hadith-12-draw-near-the-imam
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Draw near the imam: one who keeps his distance is put back in paradise though he enters it'
+  read:
+  - Jāmiʿ 12:2062.1
+  tags:
+  - motif: distance-from-imam-means-later-place-in-paradise
+    refs:
+    - Jāmiʿ 12:2062.1
+    note: احضروا الذكرَ، وادنوا من الإمامِ، فإنَّ الرجلَ لا يزال يتباعد حتَّى يؤخَّر في الجنَّة وإن دخلها
+- id: hadith-12-circles-and-knees-drawn-up
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No sitting in circles before Friday prayer; no knees drawn up in a wrap (ḥubwa) while the imam preaches
+  read:
+  - Jāmiʿ 12:2062.2-2062.3
+  tags:
+  - motif: mosque-ban-trade-lost-property-poetry-circles
+    refs:
+    - Jāmiʿ 12:2062.2
+    note: نهى عن الشراء والبيع في المسجد، وأن تنشد فيه ضالة، وأن ينشد فيه شعر، ونهى عن التحلُّق قبل الصلاة يوم الجمعة
+  - motif: sitting-hugging-knees-forbidden-during-sermon
+    refs:
+    - Jāmiʿ 12:2062.3
+    note: نهى عن الحُبوَة يوم الجمعة والإمام يخطب

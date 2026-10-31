@@ -1,0 +1,1840 @@
+# Hadith chunk 34: al-Jāmiʿ al-Kāmil book 9 (kitāb al-ṣalāt), pp. 1703-1822 (printed 3/281-400): the end of the
+# night prayer (its length and count, sitting, missing it, constancy and moderation), the witr (its status, times, counts,
+# suras and words), the qunut, the traveller's prayer (shortening, joining, prayer on the mount), the fear prayer, and
+# the forenoon prayer. Read in full from the Arabic (198 hadith).
+new_motifs:
+  night-prostration-as-long-as-fifty-verses:
+    label: In his night prayer each prostration lasted as long as one of you takes to recite fifty verses
+    cluster: ritual
+  lightens-with-them-lengthens-alone-for-your-sake:
+    label: 'In Ramadan he comes out and prays lightly with them, goes in and prays long, again and again: ''I did it for your sake'''
+    cluster: ritual
+  wipes-sleep-recites-last-ten-of-al-imran:
+    label: Waking at about midnight he wipes the sleep from his face with his hand and recites the last ten verses of Al Imran
+    cluster: ritual
+  ablution-from-hanging-waterskin:
+    label: At night he rises to a hanging old waterskin (shann muʿallaq), makes a good ablution from it and stands to pray
+    cluster: ritual
+  boy-sleeps-across-cushion-couple-along-it:
+    label: The boy sleeps across the width of the cushion, the prophet and his wife along its length
+    cluster: sira
+  thirteen-rakas-of-night-prayer:
+    label: His night prayer was thirteen rakʿas (counting the witr, or the two of dawn)
+    cluster: ritual
+  four-then-four-do-not-ask-their-beauty:
+    label: 'Never more than eleven, in Ramadan or out: ''he prayed four - do not ask how fine and long they were - then four, then three'''
+    cluster: ritual
+  two-rakas-seated-after-witr:
+    label: After the witr he prayed two rakʿas sitting, standing up to bow
+    cluster: ritual
+  seven-nine-eleven-besides-dawn-two:
+    label: 'Asked of his night prayer Aisha says: seven, nine and eleven, besides the two of dawn'
+    cluster: ritual
+  witr-of-five-sitting-only-at-end:
+    label: He made the witr of five, sitting in none of them but the last
+    cluster: ritual
+  watches-night-prayer-pillowed-on-threshold:
+    label: 'Resolved to watch the prophet''s night prayer, a Companion pillows his head on his threshold (or tent) and counts: two long, then pairs each shorter than the last, then the witr: thirteen'
+    cluster: sira
+  night-prayer-two-by-two-one-raka-at-dawn-fear:
+    label: The night prayer is two by two; when one fears the dawn he prays one rakʿa, which makes odd what he has prayed
+    cluster: ritual
+  you-are-dense-let-me-finish:
+    label: Interrupted, Ibn Umar says 'you are dense (ḍakhm) - bah bah - will you not let me tell the whole hadith?'
+    cluster: transmission
+  as-if-the-call-in-his-ears:
+    label: He prayed the two before dawn as if the call to prayer were in his ears (quickly)
+    cluster: ritual
+  first-seated-voluntary-a-year-before-death:
+    label: Hafsa never saw him pray his voluntary prayer sitting until a year before his death
+    cluster: ritual
+  sura-drawn-out-longer-than-longer:
+    label: He recited a sura so slowly (yurattiluhā) that it became longer than a longer one
+    cluster: ritual
+  did-not-die-until-praying-seated:
+    label: He did not die until much (most) of his prayer, all but the obligatory, was prayed sitting
+    cluster: ritual
+  bows-standing-if-recited-standing:
+    label: 'Long nights standing and long nights sitting: reciting standing he bowed standing, reciting sitting he bowed sitting'
+    cluster: ritual
+  rises-for-last-thirty-or-forty-verses:
+    label: Grown old, he recited sitting and rose to recite thirty or forty verses standing before bowing
+    cluster: ritual
+  seated-half-reward-lying-half-of-seated:
+    label: Prayer sitting earns half the reward of standing; prayer lying (nāʾim) half that of sitting
+    cluster: ritual
+  hand-on-head-i-am-not-like-you:
+    label: Finding the prophet praying sitting after teaching that sitting is half the prayer, a Companion puts his hand on his head; 'yes, but I am not like any of you'
+    cluster: ritual
+  prays-cross-legged:
+    label: Aisha saw the prophet praying cross-legged (mutarabbiʿan)
+    cluster: ritual
+  missed-portion-read-before-noon-counts-as-night:
+    label: Whoever sleeps through his nightly portion (ḥizb) and reads it between the dawn and noon prayers has it written as if read at night
+    cluster: ritual
+  overcome-by-sleep-sleep-is-charity-from-lord:
+    label: Whoever goes to bed meaning to rise for prayer and sleeps till morning has what he intended written, and his sleep is a charity to him from his Lord
+    cluster: ritual
+  skipped-night-prayer-sick-one-or-two-nights:
+    label: Ill, the prophet did not rise for one or two nights
+    cluster: sira
+  twelve-rakas-by-day-for-missed-night:
+    label: When sleep or pain kept him from night prayer he prayed twelve rakʿas by day
+    cluster: ritual
+  prayer-of-desire-and-dread-three-asked-two-given:
+    label: 'A long prayer ''of desire and dread'': he asked God three things, was given two (no destroying famine, no outside enemy) and refused one (that they not taste one another''s violence)'
+    cluster: eschatology
+  doze-in-prayer-may-curse-himself:
+    label: 'Who dozes in prayer should sleep it off: meaning to ask forgiveness he may revile himself'
+    cluster: ritual
+  sleep-until-you-know-what-you-recite:
+    label: Drowsy in prayer, sleep until you know what you recite
+    cluster: ritual
+  quran-garbled-on-tongue-lie-down:
+    label: If at night the Quran becomes garbled on his tongue (istaʿjama) and he does not know what he says, let him lie down
+    cluster: ritual
+  his-work-was-steady-rain:
+    label: 'Asked if he singled out days, Aisha: no, his work was steady rain (dīma); which of you can do what he could?'
+    cluster: ritual
+  god-does-not-tire-until-you-tire:
+    label: 'Take of deeds what you can bear: God does not tire until you tire'
+    cluster: theology
+  mat-screen-by-night-seat-by-day:
+    label: He screened off a mat by night to pray in and spread it by day to sit on; people gathered to pray behind him
+    cluster: ritual
+  aisha-kept-to-a-deed:
+    label: When Aisha did a deed she kept to it
+    cluster: ritual
+  woman-praised-for-prayer-told-mah:
+    label: 'Told of a woman who does not sleep at night for prayer: ''Mah! Hold to what you can bear'''
+    cluster: ritual
+  rope-between-pillars-for-tired-worshipper:
+    label: 'A rope stretched between two pillars for Zaynab to hang on when she flags: ''untie it; let each pray while lively and sit when he flags'''
+    cluster: ritual
+  eye-sunken-soul-exhausted:
+    label: Standing every night and fasting every day, 'your eye will sink and your soul be exhausted'
+    cluster: ethics
+  self-family-guest-have-a-right:
+    label: 'Your self has a right over you, your family a right, your guest a right: fast and break fast, stand and sleep'
+    cluster: ethics
+  every-deed-has-zeal-then-slackening:
+    label: Every deed has its zeal (shirra) then its slackening (fatra); slackening into sunna is guidance, into innovation is ruin
+    cluster: ethics
+  neglected-wife-shabby-appearance:
+    label: 'The prophet notices a wife''s shabby look (badhādha): her husband fasts by day and stands by night, so she is as one without a husband'
+    cluster: ethics
+  men-would-have-castrated-themselves:
+    label: Had the prophet let Uthman b. Mazʿun go on as he was, Muslim men had agreed to castrate themselves and live celibate
+    cluster: ethics
+  five-prayers-a-covenant-to-enter-paradise:
+    label: 'Five prayers God wrote on his servants: whoever keeps them has a covenant with God to enter paradise; who does not has none - punished or admitted as God wills'
+    cluster: theology
+  god-is-odd-loves-the-odd:
+    label: God is odd (witr) and loves the odd
+    cluster: theology
+  people-of-the-quran-pray-witr:
+    label: '''O people of the Quran, pray the witr, for God is odd and loves the odd'''
+    cluster: ritual
+  god-added-a-prayer-the-witr:
+    label: 'God has added a prayer for you, the witr: pray it between the night prayer and dawn'
+    cluster: ritual
+  witr-on-camel:
+    label: The prophet prayed the witr on his camel; a man who dismounted to pray it is asked 'have you no model in the messenger?'
+    cluster: ritual
+  wakes-wife-to-pray-witr:
+    label: He prays while his wife sleeps crosswise on his bed; when about to pray the witr he wakes her and she prays it
+    cluster: ritual
+  make-witr-last-of-night:
+    label: Make the witr the last of your night prayer
+    cluster: ritual
+  no-two-witrs-in-one-night:
+    label: 'A Companion who led the witr at his hosts'' puts another man forward for his own congregation''s witr: ''no two witrs in one night'''
+    cluster: ritual
+  witr-every-part-of-night-ending-at-sahar:
+    label: He prayed the witr in every part of the night, first, middle and last; at the end his witr reached the pre-dawn (saḥar)
+    cluster: ritual
+  praise-god-who-made-latitude:
+    label: 'Hearing that the prophet did it sometimes early, sometimes late: ''God is greatest; praise God who made latitude in the matter'''
+    cluster: ritual
+  last-of-night-prayer-is-witnessed:
+    label: 'Whoever expects to rise, let him pray witr at the end of the night: prayer (recitation) at the end of the night is witnessed (mashhūda)'
+    cluster: ritual
+  abu-bakr-prudence-umar-strength:
+    label: 'Abu Bakr prays witr before sleeping, Umar at the end of the night: ''this one took the prudent way, that one the strong way'''
+    cluster: sira
+  three-bequests-fast-forenoon-witr:
+    label: '''My friend charged me with three I will not leave till death: three days'' fast each month, the forenoon prayer, and sleeping only after the witr'''
+    cluster: ritual
+  witr-before-dawn-else-none:
+    label: Pray the witr before morning; whoever reaches dawn without praying it has no witr; when dawn breaks the night prayer and witr are gone
+    cluster: ritual
+  missed-witr-prayed-on-waking-or-remembering:
+    label: Whoever sleeps through or forgets his witr prays it when he wakes or remembers
+    cluster: ritual
+  witr-reduced-when-aged-and-heavy:
+    label: He prayed witr with nine (or thirteen); when he aged and grew heavy (fleshy) he prayed it with seven
+    cluster: ritual
+  after-witr-two-with-zalzala-and-kafirun:
+    label: 'In the two seated rakʿas after the witr he recited ''When the earth is shaken'' and ''Say: O unbelievers'''
+    cluster: ritual
+  journey-two-rakas-after-witr-in-case:
+    label: '''This journey is strain and weight'': after the witr pray two rakʿas; if you wake (pray), if not they count for you'
+    cluster: ritual
+  witr-one-raka-at-end-of-night:
+    label: The witr is one rakʿa at the end of the night
+    cluster: ritual
+  glory-to-holy-king-three-times-after-witr:
+    label: After the salam of the witr he said 'Glory to the King, the Holy' three times, raising his voice at the third
+    cluster: ritual
+  witr-four-and-three-to-ten-and-three:
+    label: He prayed witr with four and three, six and three, eight and three, ten and three; never fewer than seven nor more than thirteen
+    cluster: ritual
+  salam-between-even-and-odd-audible:
+    label: He separated the even (shafʿ) from the odd (witr) by a salam that he let them hear
+    cluster: ritual
+  witr-a-right-five-three-or-one:
+    label: 'The witr is a right (ḥaqq) on every Muslim: whoever likes, with five, with three, or with one'
+    cluster: ritual
+  witr-by-nod-if-unable:
+    label: Pray witr with five; if you cannot, three; if not, one; if not, nod (awmiʾ)
+    cluster: ritual
+  witr-of-three-not-like-maghrib:
+    label: Do not pray witr with three, resembling the sunset prayer; pray it with five or seven
+    cluster: ritual
+  witr-ikhlas-and-the-two-refuge-suras:
+    label: In the two before the witr al-Aʿla and al-Kafirun; in the witr al-Ikhlas and the two suras of refuge
+    cluster: ritual
+  qunut-guide-me-among-those-you-guided:
+    label: 'Words taught for the witr: ''O God, guide me among those you guided ... you decree and none decrees against you; none you befriend is abased, none you oppose is mighty'''
+    cluster: ritual
+  stood-a-moment-after-second-raka-of-dawn:
+    label: Rising from the second bowing of the dawn prayer he stood a moment (hunayya)
+    cluster: ritual
+  qunut-before-and-after-bowing:
+    label: 'Anas: we used to make the qunut both before and after the bowing'
+    cluster: ritual
+  only-passing-on-the-prophets-errand:
+    label: Met by two clans at the well, the reciters say 'By God, it is not you we want; we are passing on an errand for the prophet' - and are killed
+    cluster: sira
+  reciters-gather-wood-by-day-pray-by-night:
+    label: The seventy called the reciters gathered firewood by day and prayed by night
+    cluster: sira
+  prays-for-rescue-of-named-captives:
+    label: Standing after the bowing he prays 'save al-Walid b. al-Walid, Salama b. Hisham, Ayyash b. Abi Rabia and the oppressed believers'
+    cluster: ritual
+  abu-hurayra-qunut-to-bring-prayer-near:
+    label: '''I will bring the prophet''s prayer near to you'': Abu Hurayra makes the qunut in noon, night and dawn, praying for believers and cursing unbelievers'
+    cluster: ritual
+  ghifar-forgiven-aslam-made-safe-usayya-disobeyed:
+    label: 'Wordplay in the prayer: ''Ghifar, God forgive it; Aslam, God make it safe; Usayya disobeyed God and his messenger'''
+    cluster: ritual
+  qunut-in-dawn-and-sunset:
+    label: He made the qunut in the dawn and sunset prayers
+    cluster: ritual
+  qunut-a-month-then-left:
+    label: He made qunut for a month against Arab clans, then left it
+    cluster: ritual
+  stopped-praying-for-them-they-have-come:
+    label: 'He stopped praying for the captives: ''do you not see they have come?'''
+    cluster: ritual
+  father-calls-dawn-qunut-innovation:
+    label: 'Asked whether the prophet and the four caliphs made qunut, a Companion who prayed behind them says: ''my son, it is new (muḥdath)'''
+    cluster: ritual
+  qunut-only-for-or-against-a-people:
+    label: He made qunut only to pray for a people or against a people
+    cluster: ritual
+  those-behind-say-amen-to-qunut:
+    label: A month of qunut in all five prayers after the last bowing against clans of Sulaym, those behind him saying amen
+    cluster: ritual
+  hands-raised-cursing-the-killers:
+    label: Every dawn prayer he raised his hands to pray against the killers of the reciters
+    cluster: ritual
+  prayer-first-imposed-as-two:
+    label: Prayer was first imposed as two and two, at home and travelling; the travel prayer was kept and the home prayer increased
+    cluster: ritual
+  four-at-home-two-travelling-one-in-fear:
+    label: 'God imposed prayer by your prophet''s tongue: four at home, two travelling, one in fear'
+    cluster: ritual
+  two-complete-not-shortened:
+    label: 'Travel prayer, Friday, the two feasts: two rakʿas each, complete, not shortened'
+    cluster: ritual
+  travel-prayer-not-in-quran:
+    label: '''We find home prayer and fear prayer in the Quran, not travel prayer'' - ''we knew nothing; we do as we saw Muhammad do'''
+    cluster: scripture
+  fig-and-olive-in-travel-night-prayer:
+    label: Travelling, he recited 'By the fig and the olive' in one rakʿa of the night prayer
+    cluster: ritual
+  fearing-none-but-god-prayed-two:
+    label: Going from Medina to Mecca fearing none but God, Lord of the worlds, he prayed two
+    cluster: ritual
+  two-with-prophet-abu-bakr-umar:
+    label: I prayed two with the prophet, two with Abu Bakr, two with Umar (on journeys, at Mina)
+    cluster: ritual
+  god-loves-dispensations-taken:
+    label: God loves his dispensations (rukhaṣ) to be taken as he hates his disobedience (as he loves his firm commands) to be done
+    cluster: theology
+  adders-to-two-rakas-pass-through-like-arrow:
+    label: 'Seeing men add two rakʿas to the travel prayer Anas says ''God make the faces ugly'' and quotes: people who go deep in religion pass through it like an arrow through the game'
+    cluster: ethics
+  four-at-medina-two-at-dhul-hulayfa:
+    label: Noon four at Medina, afternoon two at Dhu l-Hulayfa
+    cluster: ritual
+  shortening-at-short-distance:
+    label: He shortened to two on going out three miles or three farsakhs; a governor prays two at seventeen or eighteen miles
+    cluster: ritual
+  ten-days-at-mecca-two-each:
+    label: Medina to Mecca and back he prayed two and two; he stayed at Mecca ten days
+    cluster: ritual
+  two-at-mecca-sunna-of-abul-qasim:
+    label: 'At Mecca, praying without the imam: ''two, the sunna of Abu l-Qasim'''
+    cluster: ritual
+  uthman-four-at-mina-wish-for-two-accepted:
+    label: Uthman prays four at Mina; Ibn Masud says 'we are God's' and wishes his share of the four were two accepted rakʿas
+    cluster: ritual
+  with-imam-four-alone-two:
+    label: After Uthman began praying four at Mina, Ibn Umar prayed four behind the imam and two alone
+    cluster: ritual
+  two-at-mina-safest-of-times:
+    label: He prayed two at Mina, when people were safest and most numerous
+    cluster: ritual
+  noon-delayed-to-afternoon-if-leaving-before-zenith:
+    label: Leaving before the sun declined he delayed noon to afternoon and joined them; if it had declined he prayed noon and rode
+    cluster: ritual
+  joined-while-halted-at-tabuk:
+    label: At Tabuk he delayed the prayer one day, came out and prayed noon and afternoon together, went in, came out and prayed sunset and night together
+    cluster: ritual
+  joined-so-as-not-to-burden-community:
+    label: 'Asked why he joined the prayers, Ibn Abbas: he wanted not to burden (yuḥrij) his community'
+    cluster: ritual
+  joined-in-medina-without-fear-or-travel:
+    label: At Medina he prayed noon with afternoon and sunset with night, without fear or travel; Malik thinks it was rain
+    cluster: ritual
+  only-two-prayers-out-of-time-at-muzdalifa:
+    label: 'Ibn Masud never saw him pray out of its time but two: sunset joined with night, and dawn before its time, at Jam'''
+    cluster: ritual
+  noon-prayed-before-leaving-even-at-midday:
+    label: Halting, he did not move on until he had prayed noon, even at midday
+    cluster: ritual
+  would-have-completed-if-praying-extras:
+    label: 'Seeing men pray extras after the travel prayer Ibn Umar says: ''if I prayed extras I would complete my prayer''; the prophet, Abu Bakr, Umar, Uthman never added to two'
+    cluster: ritual
+  voluntary-on-mount-any-direction-not-obligatory:
+    label: He prayed voluntary prayer on his mount whichever way it faced, nodding, but not the obligatory; for that he dismounted and faced the qibla
+    cluster: ritual
+  women-no-license-to-pray-on-mounts:
+    label: 'Asked whether women may pray on their beasts, Aisha: they were given no license in hardship or ease'
+    cluster: ritual
+  prays-on-donkey-toward-khaybar:
+    label: He prayed on a donkey heading for Khaybar; Anas prays on a donkey facing off the qibla, 'I would not had I not seen him'
+    cluster: ritual
+  wherever-you-turn-revealed-for-mount-prayer:
+    label: 'Praying on his camel coming from Mecca to Medina, facing wherever: ''about this was revealed: wherever you turn, there is the face of God'''
+    cluster: scripture
+  faces-qibla-for-opening-takbir-then-any-way:
+    label: Wishing to pray voluntary prayer on a journey, he turned his camel to the qibla, said the takbir, then prayed wherever his mount turned
+    cluster: ritual
+  prostration-lower-than-bowing-on-mount:
+    label: On his mount facing east, his prostration (by nodding) was lower than his bowing
+    cluster: ritual
+  fear-prayer-one-raka-each-group-completes-alone:
+    label: 'Fear prayer: each group prays one rakʿa with the prophet; after his salam each man prays one rakʿa for himself'
+    cluster: ritual
+  gabriel-tells-of-enemy-plan:
+    label: The polytheists say 'if we fell on them once we would cut them off'; Gabriel tells the prophet
+    cluster: angels
+  as-guards-do-with-their-commanders:
+    label: 'Jabir: as your guards do with your commanders now (as your commanders pray now)'
+    cluster: ritual
+  group-backs-to-qibla-facing-enemy:
+    label: In the fear prayer at Najd the group facing the enemy stands with its back to the qibla; all say the opening takbir together
+    cluster: ritual
+  withdraw-walking-backwards:
+    label: The first group, done, steps back on their heels walking backwards (al-qahqarā) to stand behind the others
+    cluster: ritual
+  bedouin-takes-hung-sword-who-protects-you:
+    label: 'Under a shady tree a polytheist takes the prophet''s sword hung on a tree and draws it: ''who will keep you from me?'' - ''God'''
+    cluster: sira
+  fear-prayer-one-raka-not-made-up:
+    label: 'In the fear prayer the prophet prayed one rakʿa with each group: two for him, one for each group, ''and they did not make it up'''
+    cluster: ritual
+  in-greater-fear-pray-riding-or-standing-by-nods:
+    label: If the fear is greater, pray riding or standing, nodding
+    cluster: ritual
+  praying-and-guarding-each-other:
+    label: 'All in prayer, but guarding one another: one group prostrates while the other stands guard, by turns (ʿuqab)'
+    cluster: ritual
+  target-like-a-devil-wild-haired:
+    label: 'Sent to kill a man gathering forces, the Companion asks how to know him: ''wild-haired, like a devil; you will feel a shudder'''
+    cluster: sira
+  kills-the-gatherer-after-walking-prayer:
+    label: He walks along with the enemy chief, then 'when I could, I struck him with my sword until he was cold'
+    cluster: sira
+  saw-him-pray-forenoon-only-that-day:
+    label: 'Asked if the prophet prayed the forenoon prayer, Anas: I saw him pray it only that day'
+    cluster: ritual
+  forenoon-four-and-more:
+    label: 'Forenoon prayer: four rakʿas and more as he wished'
+    cluster: ritual
+  charity-on-every-joint-two-forenoon-rakas-suffice:
+    label: 'Each morning a charity is due on every joint (sulāmā): each glorification, praise, tahlil, takbir, command of good is charity, and two forenoon rakʿas suffice for it all'
+    cluster: ritual
+  spittle-buried-obstacle-removed-as-joint-charity:
+    label: 'For the 360 joints: bury spittle in the mosque, move a thing from the road; if not, two forenoon rakʿas'
+    cluster: ritual
+  four-forenoon-rakas-god-suffices-the-day:
+    label: 'God says: ''Son of Adam, pray four rakʿas to me at the start of the day; I will suffice you its end'''
+    cluster: theology
+  forenoon-in-house-they-pray-behind:
+    label: He prayed the forenoon prayer in Itban's house and they stood behind him and prayed with him
+    cluster: ritual
+  quicker-return-greater-booty-than-raid:
+    label: A raid returns quickly with great booty; 'shall I tell you of quicker return and greater booty?' - ablution, the dawn prayer in the mosque, then the forenoon prayer
+    cluster: ritual
+  he-prayed-some-forenoon:
+    label: 'Ali: the prophet prayed some of the forenoon'
+    cluster: ritual
+  never-saw-forenoon-left-deeds-lest-imposed:
+    label: Aisha never saw him pray the forenoon prayer, though she prays it; he would leave a deed he loved lest people do it and it be imposed on them
+    cluster: ritual
+units:
+- id: hadith-9-night-prostration-fifty-verses
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Eleven rakʿas, each prostration as long as fifty verses
+  read:
+  - Jāmiʿ 9:1703.1
+  tags:
+  - motif: eleven-rakas-of-night-prayer
+    refs:
+    - Jāmiʿ 9:1703.1
+    note: كان يصلِّي إحدى عشرة ركعة
+  - motif: night-prostration-as-long-as-fifty-verses
+    refs:
+    - Jāmiʿ 9:1703.1
+    note: يسجد السجدة من ذلك قَدْرَ ما يقرأُ أحدكم خمسين آية
+- id: hadith-9-light-with-them-long-alone
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Light with the people, long alone: ''for your sake'''
+  read:
+  - Jāmiʿ 9:1703.2
+  tags:
+  - motif: lightens-with-them-lengthens-alone-for-your-sake
+    refs:
+    - Jāmiʿ 9:1703.2
+    note: فخفَّف بهم، ثمّ دخل فأطال ... من أجلكم فعلتُ
+- id: hadith-9-ibn-abbas-night-at-maymuna
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ibn Abbas''s night at Maymuna''s: the ear, the waterskin, six pairs and the witr'
+  read:
+  - Jāmiʿ 9:1704.1
+  quran:
+  - 3:190-200
+  tags:
+  - motif: boy-sleeps-across-cushion-couple-along-it
+    refs:
+    - Jāmiʿ 9:1704.1
+    note: فاضطجعتُ في عرض الوسادة، واضطجع رسول الله ﷺ وأهله في طولها
+  - motif: wipes-sleep-recites-last-ten-of-al-imran
+    refs:
+    - Jāmiʿ 9:1704.1
+    note: فجلس يمسح النوم عن وجهه بيده. ثمّ قرأ العشر الآيات الخواتم من سورة آل عمران
+  - motif: ablution-from-hanging-waterskin
+    refs:
+    - Jāmiʿ 9:1704.1
+    note: ثمّ قام إلى شَنٍّ معلَّقٍ فتوضَّأ منه
+  - motif: boys-ear-twisted-at-night-prayer
+    refs:
+    - Jāmiʿ 9:1704.1
+    note: فوضع رسول الله ﷺ يده اليُمنى على رأسي، وأخذ بأُذُنِي اليُمنى يَفْتِلُها
+  - motif: six-pairs-of-rakas-then-witr
+    refs:
+    - Jāmiʿ 9:1704.1
+    note: ثمّ ركعتين، ثمّ ركعتين، ثمّ أوتر
+  - motif: dawn-two-when-muezzin-falls-silent
+    refs:
+    - Jāmiʿ 9:1704.1
+    note: حتَّى أتاه المؤذن فصَلَّى ركعتين خفيفتين
+  hints:
+  - Waking 'when half the night had passed, or a little before or after' (حتَّى إذا انتصف الليلُ) to pray - compare Ps 119:62 'at midnight I rise to give thanks to you', which the rabbis tie to David's harp waking him at midnight (b. Berakhot 3b-4a)
+- id: hadith-9-count-of-night-rakas
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The count of the night prayer: thirteen, eleven, ''four then four then three'''
+  read:
+  - Jāmiʿ 9:1706.1-1708.1
+  tags:
+  - motif: thirteen-rakas-of-night-prayer
+    refs:
+    - Jāmiʿ 9:1706.1
+    - Jāmiʿ 9:1706.2
+    - Jāmiʿ 9:1707.4
+    - Jāmiʿ 9:1708.1
+    note: يصلِّي من الليل ثلاث عشر ركعة ... فتلك ثلاث عشر ركعة ... ثلاث عشرة ركعة بركعتي الفجر
+  - motif: eleven-rakas-of-night-prayer
+    refs:
+    - Jāmiʿ 9:1706.3
+    - Jāmiʿ 9:1707.1
+    note: ما كان رسولُ الله ﷺ يزيدُ في رمضان ولا في غيره على إحدى عشرة ركعة
+  - motif: four-then-four-do-not-ask-their-beauty
+    refs:
+    - Jāmiʿ 9:1706.3
+    note: يُصَلِّي أربعًا فلا تسأل عن حسنهن وطولهن
+  - motif: prophets-eyes-sleep-hearts-do-not
+    refs:
+    - Jāmiʿ 9:1706.3
+    note: إن عينيَّ تنامان، ولا ينام قلبي
+  - motif: two-rakas-seated-after-witr
+    refs:
+    - Jāmiʿ 9:1706.4
+    - Jāmiʿ 9:1707.3
+    note: ثمّ يوتر، ثمّ يُصلِّي ركعتين وهو جالس ... وركعتين جالسًا
+  - motif: night-prostration-as-long-as-fifty-verses
+    refs:
+    - Jāmiʿ 9:1707.1
+    note: فيسجد السجدة من ذلك قدر ما يقرأ أحدكم خمسين آية
+  - motif: lies-on-right-side-after-dawn-two
+    refs:
+    - Jāmiʿ 9:1707.1
+    note: ثمّ يضطجع على شِقِّه الأيمن حتَّى يأتيه المؤذِّن
+  - motif: seven-nine-eleven-besides-dawn-two
+    refs:
+    - Jāmiʿ 9:1707.2
+    note: سبع وتسع وإحدى عشرة سوى ركعتي الفجر
+  - motif: dawn-two-when-muezzin-falls-silent
+    refs:
+    - Jāmiʿ 9:1708.1
+    note: ثمّ يُصلِّي إذا سمع النداء بالصبحِ ركعتين خفيفتين
+- id: hadith-9-witr-of-five-and-nine
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Witr of five, of nine; witr with one and lying on the right; Zayd watches from the threshold
+  read:
+  - Jāmiʿ 9:1708.2-1709.2
+  tags:
+  - motif: witr-of-five-sitting-only-at-end
+    refs:
+    - Jāmiʿ 9:1708.2
+    note: يوتر من ذلك بخمس، لا يجلس في شيء إِلَّا في آخرها
+  - motif: eleven-rakas-of-night-prayer
+    refs:
+    - Jāmiʿ 9:1708.3
+    note: إحدى عشرة ركعة، يوتر منها بواحدة
+  - motif: lies-on-right-side-after-dawn-two
+    refs:
+    - Jāmiʿ 9:1708.3
+    note: فإذا فرغ اضطجع على شِقِّه الأيمن
+  - motif: witr-nine-sitting-only-at-eighth
+    refs:
+    - Jāmiʿ 9:1708.4
+    note: لا يجلس فيها إِلَّا في الثامنة ... ثمّ ينهضُ ولا يُسلم
+  - motif: witr-reduced-when-aged-and-heavy
+    refs:
+    - Jāmiʿ 9:1708.4
+    - Jāmiʿ 9:1709.1
+    note: فلمّا أسَنَّ نبي الله ﷺ، وأخذه اللحم، أوتر بسبع ... فلمّا أسَنَّ وثقل صلَّى سبعًا
+  - motif: watches-night-prayer-pillowed-on-threshold
+    refs:
+    - Jāmiʿ 9:1709.2
+    note: لأرمُقَنَّ الليلةَ صلاة رسول الله ﷺ ... فتوسدتُ عَتَبَتَه، أو فُسْطاطَه ... فتلك ثلاث عشرة ركعة
+  - motif: thirteen-rakas-of-night-prayer
+    refs:
+    - Jāmiʿ 9:1709.2
+    note: فتلك ثلاث عشرة ركعة
+- id: hadith-9-night-two-by-two
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The night prayer two by two, one rakʿa when dawn is feared
+  read:
+  - Jāmiʿ 9:1709.3-1711.1
+  tags:
+  - motif: night-prayer-two-by-two-one-raka-at-dawn-fear
+    refs:
+    - Jāmiʿ 9:1709.3
+    - Jāmiʿ 9:1710.1
+    - Jāmiʿ 9:1711.1
+    note: صلاة الليل مثنى مثنى، فإذا خَشِي أحدكم الصبحَ صلَّى ركعةً واحدةً تُوتِر له ما قد صَلَّى ... أن يُسلم في كل ركعتين
+  - motif: you-are-dense-let-me-finish
+    refs:
+    - Jāmiʿ 9:1710.1
+    note: إنك لضخمٌ. ألا تدعُني استقرئُ لك الحديث ... بَهْ بَهْ إنك لضخمٌ
+  - motif: as-if-the-call-in-his-ears
+    refs:
+    - Jāmiʿ 9:1710.1
+    note: كأنَّ الأذان بأُذُنَيه
+  - motif: night-prayer-two-by-two-one-raka-at-dawn-fear
+    refs:
+    - Jāmiʿ 9:1711.1
+    note: فإن أحسَّ أن يُصبح سجد سجدةً فأوترتْ له ما صلى
+- id: hadith-9-voluntary-sitting
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Voluntary prayer sitting: late in life, half the reward, bowing as one recited, cross-legged'
+  read:
+  - Jāmiʿ 9:1711.2-1715.1
+  tags:
+  - motif: first-seated-voluntary-a-year-before-death
+    refs:
+    - Jāmiʿ 9:1711.2
+    note: ما رأيتُ رسول الله صلى في سُبحته قاعدًا قطُّ. حتَّى كان قبل وفاته بعام
+  - motif: sura-drawn-out-longer-than-longer
+    refs:
+    - Jāmiʿ 9:1711.2
+    note: ويقرأ بالسورة فيرتِّلُها، حتَّى تكون أطولَ من أطول منها
+  - motif: did-not-die-until-praying-seated
+    refs:
+    - Jāmiʿ 9:1712.1
+    - Jāmiʿ 9:1712.2
+    - Jāmiʿ 9:1712.4
+    note: لم يمت حتَّى صلى قاعدًا ... حتَّى كان أكثرُ صلاته قاعدًا إِلَّا المكتوبة
+  - motif: aisha-sick-or-weary-prayed-sitting
+    refs:
+    - Jāmiʿ 9:1712.3
+    note: لا تدعْ قيام الليل، فإن رسول الله ﷺ كان لا يدعُه، وكان إذا مرض أو كسل صلى قاعدًا
+  - motif: most-beloved-deed-most-constant
+    refs:
+    - Jāmiʿ 9:1712.4
+    note: وكان أحب العمل إليه ما داوَم عليه العبد وإن كان يسيرًا
+  - motif: bows-standing-if-recited-standing
+    refs:
+    - Jāmiʿ 9:1713.1
+    note: كان يُصَلِّي ليلًا طويلًا قائمًا. وليلًا طويلًا قاعدًا، وكان إذا قرأ قائمًا ركع قائمًا
+  - motif: rises-for-last-thirty-or-forty-verses
+    refs:
+    - Jāmiʿ 9:1713.2
+    note: حتَّى أسَنَّ، فكان يقرأ قاعدًا، حتَّى إذا أراد أن يركع قام فقرأ نحوًا من ثلاثين، أو أربعين آية
+  - motif: seated-half-reward-lying-half-of-seated
+    refs:
+    - Jāmiʿ 9:1714.1
+    - Jāmiʿ 9:1714.2
+    note: ومن صلى قاعدًا فله نصف أجر القائم، ومن صلى نائمًا فله نصف أجر القاعد ... صلاة الرّجل قاعدًا نصفُ الصّلاة
+  - motif: hand-on-head-i-am-not-like-you
+    refs:
+    - Jāmiʿ 9:1714.2
+    note: فوضعتُ يدي على رأسي ... أجل، ولكنِّي لست كأحد منكم
+  - motif: prays-cross-legged
+    refs:
+    - Jāmiʿ 9:1715.1
+    note: رأيت النَّبِيّ ﷺ يُصَلِّي متربِّعًا
+- id: hadith-9-missed-night-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Missed night portion: read before noon, sleep as charity, twelve by day; ill for a night or two'
+  read:
+  - Jāmiʿ 9:1716.1-1718.1
+  quran:
+  - 93:1-3
+  tags:
+  - motif: missed-portion-read-before-noon-counts-as-night
+    refs:
+    - Jāmiʿ 9:1716.1
+    note: من نام عن حِزْبه، أو عن شيء منه، فقرأه فيما بين صلاة الفجر وصلاة الظهر، كتِب له كأنَّما قرأه من الليل
+  - motif: overcome-by-sleep-sleep-is-charity-from-lord
+    refs:
+    - Jāmiʿ 9:1716.2
+    - Jāmiʿ 9:1717.1
+    note: فغلبتْه عيناه حتَّى يُصبِحَ كُتِبَ له ما نوى، وكان نومُه صدقةً عليه من ربِّه ... وكان نومُه عليه صدقةً
+  - motif: skipped-night-prayer-sick-one-or-two-nights
+    refs:
+    - Jāmiʿ 9:1717.2
+    note: اشتكى النَّبِيّ ﷺ فلم يَقُم ليلةً أو ليلتين
+  - motif: twelve-rakas-by-day-for-missed-night
+    refs:
+    - Jāmiʿ 9:1718.1
+    note: وكان إذا غلبه نوم، أو وجع عن قيام الليل صلَّى من النهار ثنتي عشرةَ ركعةً
+  - motif: vigil-ended-eleven-later-nine-never-whole-night
+    refs:
+    - Jāmiʿ 9:1718.1
+    note: ولا أعلم نبيَّ الله ﷺ قرأ القرآن كلَّه في ليلة. ولا صلَّى ليلة إلى الصبح
+- id: hadith-9-prayer-of-desire-and-dread
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'A night-long prayer of desire and dread: three asked, two given; no whole-night vigil'
+  read:
+  - Jāmiʿ 9:1718.2-1719.1
+  tags:
+  - motif: prayer-of-desire-and-dread-three-asked-two-given
+    refs:
+    - Jāmiʿ 9:1718.2
+    note: إنها صلاة رغبةٍ ورهبةً، إنِّي سألت الله فيها ثلاثًا، فأعطاني اثنتين، ومنعني واحدةً
+  - motif: not-destroyed-by-famine-nor-outside-enemy
+    refs:
+    - Jāmiʿ 9:1718.2
+    note: سألتُه أن لا يُهلك أمتي بسنةٍ فأعطانيها، وسألتُه أن لا يُسلِّط عليهم عدوًّا من غيرهم ... وسألتُه أن لا يُذيق بعضَهم بأسَ بعضٍ فمنعنيها
+  - motif: vigil-ended-eleven-later-nine-never-whole-night
+    refs:
+    - Jāmiʿ 9:1719.1
+    note: ولا صلَّى ليلةً إلى الصبح، ولا صام شهرًا كاملًا غير رمضان
+- id: hadith-9-drowsy-in-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Drowsy in prayer: sleep first, lest one revile oneself'
+  read:
+  - Jāmiʿ 9:1719.2-1719.4
+  tags:
+  - motif: doze-in-prayer-may-curse-himself
+    refs:
+    - Jāmiʿ 9:1719.2
+    note: إذا نَعَس أحدُكم وهو يُصَلِّي فليرقُدْ حتَّى يذهب عنه النومُ ... لعلّه يذهبُ يستغفر فيسبُّ نفسَه
+  - motif: sleep-until-you-know-what-you-recite
+    refs:
+    - Jāmiʿ 9:1719.3
+    note: إذا نعَس أحدُكم في الصّلاة فلينَمْ حتَّى يعلمَ ما يقرأ
+  - motif: quran-garbled-on-tongue-lie-down
+    refs:
+    - Jāmiʿ 9:1719.4
+    note: 'فاستعجم القرآن على لسانه فلم يدر ما يقول: فليضطجع'
+- id: hadith-9-constancy-in-deeds
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Constancy: steady rain, God does not tire, the rope between the pillars'
+  read:
+  - Jāmiʿ 9:1720.1-1721.3
+  tags:
+  - motif: his-work-was-steady-rain
+    refs:
+    - Jāmiʿ 9:1720.1
+    note: 'هل كان يخصُّ شيئًا من الأيام؟ قالت: لا، كان عملُه دِيمةً'
+  - motif: most-beloved-deed-most-constant
+    refs:
+    - Jāmiʿ 9:1720.2
+    - Jāmiʿ 9:1720.3
+    - Jāmiʿ 9:1720.4
+    - Jāmiʿ 9:1721.1
+    - Jāmiʿ 9:1721.2
+    note: 'فقالت: الدائم ... أدومها وإن قل ... وإن أحب الأعمال إلى الله ما دام وإن قلَّ'
+  - motif: mat-screen-by-night-seat-by-day
+    refs:
+    - Jāmiʿ 9:1720.4
+    note: كان يحتجر حصيرًا بالليل فيصلِّي، ويبسطه بالنهار فيجلس عليه
+  - motif: god-does-not-tire-until-you-tire
+    refs:
+    - Jāmiʿ 9:1720.4
+    - Jāmiʿ 9:1721.2
+    note: فإن الله لا يَملُّ حتَّى تملُّوا ... لا يملُّ اللهُ حتَّى تَمَلُّوا
+  - motif: aisha-kept-to-a-deed
+    refs:
+    - Jāmiʿ 9:1721.1
+    note: وكانت عائشة إذا عملت العملَ لزِمَتْه
+  - motif: woman-praised-for-prayer-told-mah
+    refs:
+    - Jāmiʿ 9:1721.2
+    note: 'فلانة، تذكر من صلاتها. قال: "مَهْ! عليكم بما تطيقون'
+  - motif: rope-between-pillars-for-tired-worshipper
+    refs:
+    - Jāmiʿ 9:1721.3
+    note: فإذا حبل ممدود بين الساريتين ... هذا حبل لزينب، فإذا فترتْ تعلقتْ ... حُلوا ليُصلِّ أحدكم نشاطَه فإذا فتر فليقعُد
+- id: hadith-9-moderation-in-worship
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Moderation: your eye and your family have a right; zeal and slackening; no monasticism'
+  read:
+  - Jāmiʿ 9:1723.1-1725.1
+  tags:
+  - motif: eye-sunken-soul-exhausted
+    refs:
+    - Jāmiʿ 9:1723.1
+    note: فإنَّك إن فعلت ذلك هَجَمَتْ عينُك، ونَفِهَتْ نفسك
+  - motif: self-family-guest-have-a-right
+    refs:
+    - Jāmiʿ 9:1723.1
+    - Jāmiʿ 9:1724.2
+    - Jāmiʿ 9:1725.1
+    note: وإنَّ لنفسِك حقًّا، ولأهلك حقًّا ... وإن لضَيْفِك عليك حقًّا
+  - motif: i-fast-and-eat-pray-and-sleep-marry-women
+    refs:
+    - Jāmiʿ 9:1724.1
+    - Jāmiʿ 9:1724.2
+    note: لكني أنا أنام وأُصلِّي، وأصوم وأُفطِر ... وأَنْكِحُ النِّساء
+  - motif: every-deed-has-zeal-then-slackening
+    refs:
+    - Jāmiʿ 9:1724.1
+    note: إنَّ لكل عملٍ شِرَّةً ثمّ فترةً، فمن كانت فترتُه إلى بدعةٍ فقد ضلَّ
+  - motif: neglected-wife-shabby-appearance
+    refs:
+    - Jāmiʿ 9:1724.2
+    note: يا عائشه! ما أبذَّ هيئة خُوَيْلةَ ... امرأةُ لا زَوْجَ لها يَصُوم النَّهار ويقوم الليل
+  - motif: i-was-not-commanded-monasticism
+    refs:
+    - Jāmiʿ 9:1725.1
+    note: يا عثمان! إني لم أُومَر بالرهبانيّة ... وأنكح وأطلق
+  - motif: men-would-have-castrated-themselves
+    refs:
+    - Jāmiʿ 9:1725.1
+    note: إن هو أقرَّ عثمان على ما هو عليه أن نختصي فنتبتَّلَ
+- id: hadith-9-prayer-stops-thief
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The man who prays at night and steals by morning
+  read:
+  - Jāmiʿ 9:1726.1-1727.1
+  quran:
+  - '29:45'
+  tags:
+  - motif: night-prayer-will-stop-the-thief
+    refs:
+    - Jāmiʿ 9:1726.1
+    - Jāmiʿ 9:1727.1
+    note: 'إن فُلانًا يُصَلِّي بالليل، فإذا أصبح سرق، قال: إنه سينهاه ما تقول'
+- id: hadith-9-witr-not-obligatory
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The witr not obligatory: five prayers the covenant; God is odd; a prayer added'
+  read:
+  - Jāmiʿ 9:1728.1-1730.1
+  tags:
+  - motif: witr-claimed-obligatory-companion-says-he-lied
+    refs:
+    - Jāmiʿ 9:1728.1
+    note: إن الوتر واجب ... كذب أبو محمد
+  - motif: five-prayers-a-covenant-to-enter-paradise
+    refs:
+    - Jāmiʿ 9:1728.1
+    note: خمسُ صلواتٍ كتبهنَّ الله ﷿ على العباد ... كان له عند الله عهد أن يدخله الجنّة ... إن شاء عذَّبه، وإن شاء أدْخَلَه الجنّة
+  - motif: god-is-odd-loves-the-odd
+    refs:
+    - Jāmiʿ 9:1729.1
+    - Jāmiʿ 9:1729.2
+    note: إنَّ الله وِتر يحبُّ الوتر
+  - motif: people-of-the-quran-pray-witr
+    refs:
+    - Jāmiʿ 9:1729.2
+    note: يا أهل القرآن! أوتروا
+  - motif: god-added-a-prayer-the-witr
+    refs:
+    - Jāmiʿ 9:1730.1
+    note: إنَّ الله زادكم صلاةً، وهي الوتر، فصلوها فيما بين صلاة العِشاء إلى صلاة الفجر
+- id: hadith-9-witr-on-camel
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Witr on the camel; waking the wife for witr
+  read:
+  - Jāmiʿ 9:1734.1-1735.1
+  tags:
+  - motif: witr-on-camel
+    refs:
+    - Jāmiʿ 9:1734.1
+    note: فلمّا خشيتُ الصبح، نزلتُ فأوترتُ ... أليس لك في رسول الله أُسوَةٌ ... كان يُوتر على البعير
+  - motif: wife-lies-crosswise-before-praying-prophet
+    refs:
+    - Jāmiʿ 9:1735.1
+    note: وأنا راقدةٌ معترضةً على فراشه
+  - motif: wakes-wife-to-pray-witr
+    refs:
+    - Jāmiʿ 9:1735.1
+    note: فإذا أراد أن يُوتر أَيقظني فأَوترتُ
+- id: hadith-9-witr-last-not-twice
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Witr the last of the night; no two witrs in a night
+  read:
+  - Jāmiʿ 9:1736.1-1736.2
+  tags:
+  - motif: make-witr-last-of-night
+    refs:
+    - Jāmiʿ 9:1736.1
+    note: اجعلوا آخر صلاتكم بالليل وترًا
+  - motif: no-two-witrs-in-one-night
+    refs:
+    - Jāmiʿ 9:1736.2
+    note: 'حتَّى إذا بقي الوتر قدَّم رجلًا فقال: أوتر بأصحابك ... لا وتران في ليلة'
+- id: hadith-9-hours-of-witr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The hours of the witr; Abu Bakr's prudence, Umar's strength; the three bequests
+  read:
+  - Jāmiʿ 9:1737.1-1740.3
+  tags:
+  - motif: witr-every-part-of-night-ending-at-sahar
+    refs:
+    - Jāmiʿ 9:1737.1
+    - Jāmiʿ 9:1738.1
+    note: مِن كُلِّ الليل قد أوتر رسولُ الله ﷺ فانتهى وِتره إلى السَّحَر ... من أوَّلِ اللَّيل، وأوسطه، وآخره
+  - motif: bath-witr-recitation-early-or-late-loud-or-soft
+    refs:
+    - Jāmiʿ 9:1737.2
+    note: ربما اغتسل في أول الليل، وربما اغتسل في آخره ... ربما أوتر في أول الليل، وربما أوتر في آخره
+  - motif: praise-god-who-made-latitude
+    refs:
+    - Jāmiʿ 9:1737.2
+    note: الله أكبر الحمد لله الذي جعل في الأمر سعة
+  - motif: last-of-night-prayer-is-witnessed
+    refs:
+    - Jāmiʿ 9:1738.2
+    note: من خاف أن لا يقوم من آخر الليل فليُوتِر أوَّلَه ... فإن صلاة آخر الليل مشهودة ... فإن قراءة آخر الليل محضورة
+  - motif: abu-bakr-prudence-umar-strength
+    refs:
+    - Jāmiʿ 9:1738.3
+    - Jāmiʿ 9:1739.1
+    note: 'أخذ هذا بالحزم" وقال لِعُمَر: "أخذ هذا بالقوة ... فأخذت بالوُثْقى'
+  - motif: three-bequests-fast-forenoon-witr
+    refs:
+    - Jāmiʿ 9:1740.1
+    - Jāmiʿ 9:1740.2
+    - Jāmiʿ 9:1740.3
+    note: أوصاني خليلي بثلاثٍ. لا أدعهن حتَّى أموت، صوم ثلاثة أيام من كل شهر، وصلاة الضُّحى، ونومٌ على وترٍ ... وأن لا أنام حتى أوتر
+- id: hadith-9-witr-before-dawn
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Witr before dawn, or none; the missed witr prayed on waking
+  read:
+  - Jāmiʿ 9:1741.1-1742.1
+  tags:
+  - motif: witr-before-dawn-else-none
+    refs:
+    - Jāmiʿ 9:1741.1
+    - Jāmiʿ 9:1741.2
+    - Jāmiʿ 9:1741.3
+    - Jāmiʿ 9:1741.4
+    note: أوتروا قبل أن تُصبِحوا ... مَن أدرك الصبحَ فلم يوتر فَلا وِتْر له ... بادروا الصُبح بالوتر ... إذا طلع الفجر، فقد ذهب كلُّ صلاة الليل والوتر
+  - motif: missed-witr-prayed-on-waking-or-remembering
+    refs:
+    - Jāmiʿ 9:1742.1
+    note: من نام عن وتره، أو نسيه فليصله إذا أصبح أو ذكره
+- id: hadith-9-two-after-witr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Two rakʿas after the witr: seated, with al-Zalzala and al-Kafirun; on a hard journey'
+  read:
+  - Jāmiʿ 9:1744.1-1745.1
+  quran:
+  - 99:1-8
+  - 109:1-6
+  tags:
+  - motif: two-rakas-seated-after-witr
+    refs:
+    - Jāmiʿ 9:1744.1
+    - Jāmiʿ 9:1744.2
+    note: ثم يُوتر، ثم يصلي ركعتين وهو جالس ... وصلَّى ركعتين وهو جالس
+  - motif: witr-reduced-when-aged-and-heavy
+    refs:
+    - Jāmiʿ 9:1744.2
+    note: كان رسول الله ﷺ يُوتر بِتِسع حتَّى إذا بَدُن وكَثُر لحمُه أوتر بسبعٍ
+  - motif: after-witr-two-with-zalzala-and-kafirun
+    refs:
+    - Jāmiʿ 9:1744.2
+    note: 'يقرأ فيهما: ﴿إِذَا زُلْزِلَتِ﴾ و ﴿قُلْ يَاأَيُّهَا الْكَافِرُونَ﴾'
+  - motif: journey-two-rakas-after-witr-in-case
+    refs:
+    - Jāmiʿ 9:1745.1
+    note: إن هذا السفر جهد وثقل، فإذا أوتر أحدكم فليركع ركعتين، فإن استيقظ وإلّا كانتا له
+- id: hadith-9-witr-of-one
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Witr with one rakʿa at the end of the night
+  read:
+  - Jāmiʿ 9:1746.1-1747.2
+  tags:
+  - motif: night-prayer-two-by-two-one-raka-at-dawn-fear
+    refs:
+    - Jāmiʿ 9:1746.1
+    - Jāmiʿ 9:1746.2
+    note: كان النبي ﷺ يُصَلِّي من الليل مثنى مثنى، ويوتر بركعةٍ ... فإذا خشي أحدكم الصبح فصلى ركعة واحدة توتر له ما قد صلَّى
+  - motif: as-if-the-call-in-his-ears
+    refs:
+    - Jāmiʿ 9:1746.1
+    note: وكأن الأذانَ بأُذُنَيه
+  - motif: witr-one-raka-at-end-of-night
+    refs:
+    - Jāmiʿ 9:1746.3
+    - Jāmiʿ 9:1747.1
+    note: الوتر ركعة من آخر الليل ... ركعةٌ من آخر اللَّيل
+  - motif: eleven-rakas-of-night-prayer
+    refs:
+    - Jāmiʿ 9:1747.2
+    note: يُصلِّي من الليل إحدى عشرة ركعة، يوتر منها بواحدة
+  - motif: lies-on-right-side-after-dawn-two
+    refs:
+    - Jāmiʿ 9:1747.2
+    note: فإذا فرغ اضطجع على شقه الأيمن
+- id: hadith-9-witr-three-five-nine-thirteen
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Witr of three, five, nine, thirteen; 'Glory to the King, the Holy' after it
+  read:
+  - Jāmiʿ 9:1747.3-1749.1
+  quran:
+  - 87:1-19
+  - 109:1-6
+  - 112:1-4
+  tags:
+  - motif: four-then-four-do-not-ask-their-beauty
+    refs:
+    - Jāmiʿ 9:1747.3
+    note: يُصلِّي أربعًا فلا تسأل عن حُسنِهن وطُولِهِن، ثم يُصلِّي أربعًا ... ثمَّ يُصَلِّي ثلاثًا
+  - motif: witr-of-three-with-ala-kafirun-ikhlas
+    refs:
+    - Jāmiʿ 9:1747.4
+    note: كان رسول الله ﷺ يقرأ في الوتر بـ ﴿سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى﴾ ... ولا يسلم إلا في آخرهن
+  - motif: glory-to-holy-king-three-times-after-witr
+    refs:
+    - Jāmiʿ 9:1747.4
+    note: 'يعني بعد التسليم: "سبحان الملك القدوس ثلاثًا'
+  - motif: witr-of-five-sitting-only-at-end
+    refs:
+    - Jāmiʿ 9:1748.1
+    note: يُوتر من ذلك بخمس، ولا يجلس في شيء إلا في آخرها
+  - motif: witr-nine-sitting-only-at-eighth
+    refs:
+    - Jāmiʿ 9:1748.2
+    note: يُصلي ثمان ركعات لا يجلس فيهن إلا عند الثامنة ... ثم ينهض ولا يُسَلِّم، ثم يصلِّي التاسعة
+  - motif: witr-reduced-when-aged-and-heavy
+    refs:
+    - Jāmiʿ 9:1748.3
+    note: كان رسول الله ﷺ يوتر بثلاث عشرة ركعة، فلما كبر وضعف أوتر بسبع
+  - motif: witr-four-and-three-to-ten-and-three
+    refs:
+    - Jāmiʿ 9:1749.1
+    note: كان يُوتر بأربع وثلاث، وست وثلاث، وثمان وثلاث، وعشر وثلاث، ولم يكن يُوتر بأنقص من سبع، ولا بأكثر من ثلاث عشرة
+  hints:
+  - '''Glory to the King, the Holy'' three times, the voice raised at the third (Jāmiʿ 9:1747.4, 1753.2) - compare the threefold ''Holy'' of the seraphim (Isa 6:3) recited in the Qedushah, where God is also hailed as King (Isa 6:5)'
+- id: hadith-9-witr-choices
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Separating even and odd; five, three or one; a nod if unable; not like the sunset prayer
+  read:
+  - Jāmiʿ 9:1750.1-1752.1
+  tags:
+  - motif: salam-between-even-and-odd-audible
+    refs:
+    - Jāmiʿ 9:1750.1
+    note: يفصِلُ بين الوتر والشفع بتسليمة ويُسمعنا
+  - motif: witr-a-right-five-three-or-one
+    refs:
+    - Jāmiʿ 9:1751.1
+    note: الوتر حقٌّ على كلِّ مسلم، فمن أحبَّ أن يُوتِرَ بخمس فليفعل
+  - motif: witr-by-nod-if-unable
+    refs:
+    - Jāmiʿ 9:1751.2
+    note: فإن لم تستطِع فبواحدة، فإن لم تستطِع فأومئ إيماءً
+  - motif: witr-of-three-not-like-maghrib
+    refs:
+    - Jāmiʿ 9:1752.1
+    note: لا تُوتروا بثلاث، أوتروا بخمس أو بسبع، ولا تُشبه بصلاة المغرب
+- id: hadith-9-suras-of-witr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The suras of the witr
+  read:
+  - Jāmiʿ 9:1753.1-1754.2
+  quran:
+  - 87:1-19
+  - 109:1-6
+  - 112:1-4
+  - 113:1-5
+  - 114:1-6
+  tags:
+  - motif: witr-of-three-with-ala-kafirun-ikhlas
+    refs:
+    - Jāmiʿ 9:1753.1
+    - Jāmiʿ 9:1753.2
+    - Jāmiʿ 9:1753.3
+    - Jāmiʿ 9:1754.1
+    note: 'يوتر بثلاث، يقرأ في الأولى: بـ ﴿سَبِّحِ اسْمَ ... وفي الثانية بـ ﴿قُلْ يَاأَيُّهَا الْكَافِرُونَ﴾ وفي الثالثة بـ ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾'
+  - motif: glory-to-holy-king-three-times-after-witr
+    refs:
+    - Jāmiʿ 9:1753.2
+    note: 'وكان يقول إذا سلَّم: سبحان الملك القدوس ثلاثًا ويرفع صوتَه بالثالثة'
+  - motif: witr-ikhlas-and-the-two-refuge-suras
+    refs:
+    - Jāmiʿ 9:1754.2
+    note: ويقرأ في الوتر بـ ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾ و ﴿قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ﴾ و ﴿قُلْ أَعُوذُ بِرَبِّ النَّاسِ﴾
+- id: hadith-9-words-of-witr
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Words said in the witr: refuge in you from you; ''guide me among those you guided'''
+  read:
+  - Jāmiʿ 9:1756.1-1756.2
+  tags:
+  - motif: refuge-in-you-from-you
+    refs:
+    - Jāmiʿ 9:1756.1
+    note: اللهم إني أعوذ برضاك من سَخَطِك، وأعوذ بمعافاتك من عقوبتك، وأعوذ بك منك
+  - motif: qunut-guide-me-among-those-you-guided
+    refs:
+    - Jāmiʿ 9:1756.2
+    note: اللَّهُمَّ اهدني فيمن هديتَ ... إنَّك تقضي ولا يُقضى عليك، وإنَّه لا يَذِلُّ من واليتَ، ولا يَعِزُّ من عاديتَ
+- id: hadith-9-qunut-after-bowing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Qunut after the bowing, for a month; before and after
+  read:
+  - Jāmiʿ 9:1758.1-1761.2
+  tags:
+  - motif: qunut-curse-after-bowing
+    refs:
+    - Jāmiʿ 9:1758.1
+    note: 'هل قنت رسول الله ﷺ في الصبح؟ قال: نعم، بعد الركوع يسيرًا'
+  - motif: month-of-qunut-cursing-tribes
+    refs:
+    - Jāmiʿ 9:1758.2
+    note: إنما قنت رسول الله ﷺ بعد الركوع شهرًا
+  - motif: reciters-killed-by-treachery
+    refs:
+    - Jāmiʿ 9:1758.2
+    note: 'بعث قومًا يقال لهم: القُرَّاء زُهاء سبعين رجلًا إلى قوم من المشركين'
+  - motif: stood-a-moment-after-second-raka-of-dawn
+    refs:
+    - Jāmiʿ 9:1758.3
+    note: فلمَّا رفع رأسه من الركعة الثانية قام هُنَيَّةً
+  - motif: qunut-before-and-after-bowing
+    refs:
+    - Jāmiʿ 9:1761.1
+    note: كنا نقنتُ قبل الركوع وبعده
+  - motif: glory-to-holy-king-three-times-after-witr
+    refs:
+    - Jāmiʿ 9:1761.2
+    note: 'إذا جلس في آخر صلاته في الوتر يقول: يعني بعد التسليم: "سبحان الملك القدُّوس" ثلاثًا'
+- id: hadith-9-bir-mauna-and-the-qunut
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Bir Maʿuna and the beginning of the qunut; the lifted verse; the named captives
+  read:
+  - Jāmiʿ 9:1761.3-1764.1
+  quran:
+  - 3:128
+  tags:
+  - motif: reciters-killed-by-treachery
+    refs:
+    - Jāmiʿ 9:1761.3
+    - Jāmiʿ 9:1762.1
+    note: بعث النبي ﷺ سبعين رجلًا لحاجةٍ، يقال لهم القُرَّاء ... عند بئرٍ يُقال لها بئرُ مَعونة
+  - motif: only-passing-on-the-prophets-errand
+    refs:
+    - Jāmiʿ 9:1761.3
+    note: والله! ما إيَّاكُم أردنا، إنَّما نحن مجتازون في حاجة للنبي ﷺ فقتلوهم
+  - motif: month-of-qunut-cursing-tribes
+    refs:
+    - Jāmiʿ 9:1761.3
+    - Jāmiʿ 9:1761.4
+    - Jāmiʿ 9:1762.1
+    note: فدعا النبي ﷺ عليهم شهرًا في صلاة الغَداة، وذلك بَدْؤُ القُنوتِ وما كنا نَقنُتُ ... ثلاثين صباحًا، حين يدعو على رِعْلٍ ولَحيانَ وعُصيَّةَ
+  - motif: qunut-before-and-after-bowing
+    refs:
+    - Jāmiʿ 9:1761.3
+    note: 'أبعد الركوع، أو عند فَراغٍ من القراءة؟ قال: لا بل عند فَراغٍ من القراءةِ'
+  - motif: abrogated-verse-we-met-our-lord
+    refs:
+    - Jāmiʿ 9:1761.4
+    - Jāmiʿ 9:1762.1
+    note: 'قرآنًا قرأناه حتَّى نُسخ بعدُ: "بَلِّغُوا قومَنا فقد لَقِينا ربَّنا، فرضي عنَّا، ورضينا عنه ... ثم إنَّ ذلك رُفِع'
+  - motif: reciters-gather-wood-by-day-pray-by-night
+    refs:
+    - Jāmiʿ 9:1762.1
+    note: كنَّا نُسمِّيهم القُراءَ في زمانهم كانوا يحتطبون بالنهار، ويُصلُّون بالليل
+  - motif: prays-for-rescue-of-named-captives
+    refs:
+    - Jāmiʿ 9:1763.1
+    note: اللهم أنْجِ الوليد بن الوليد، وسلمة بن هشام، وعياش بن أبي ربيعة، والمستضعفين من المؤمنين
+  - motif: years-like-the-years-of-joseph
+    refs:
+    - Jāmiʿ 9:1763.1
+    note: اللهم اشدُدْ وَطْأتك على مُضَرَ، واجعلها عليهم كَسِنِيِّ يوسفَ
+  - motif: qunut-curse-after-bowing
+    refs:
+    - Jāmiʿ 9:1763.1
+    note: اللهم العَنْ لَحْيانَ ورِعْلًا وذَكوانَ وعُصَيَّة عصتِ الله ورسولَه" ثم بلغنا أنه ترك ذلك لما أُنزل
+  - motif: abu-hurayra-qunut-to-bring-prayer-near
+    refs:
+    - Jāmiʿ 9:1763.1
+    note: لأُقَرِّبَنَّ بكم صلاة رسول الله ﷺ، فكان أبو هريرة يقنت في الظهر، والعِشاء الآخرة، وصلاة الصبح
+  - motif: ghifar-forgiven-aslam-made-safe-usayya-disobeyed
+    refs:
+    - Jāmiʿ 9:1764.1
+    note: اللهم العَنْ بني لَحيان ورِعْلًا وذكوانَ، وعُصَيَّةَ عَصَوا الله ورسوله. غِفار غَفَر الله لها، وأسلم سالمها الله
+  hints:
+  - '''Make them years like the years of Joseph'' (كَسِنِيِّ يوسف) against Muḍar - the seven lean years of Gen 41:27-31 (and Q 12:47-48) invoked as a curse'
+- id: hadith-9-verse-stops-the-curse
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''You have nothing of the matter'': the verse ends the cursing of named men'
+  read:
+  - Jāmiʿ 9:1764.2-1765.1
+  quran:
+  - 3:128
+  tags:
+  - motif: qunut-curse-after-bowing
+    refs:
+    - Jāmiʿ 9:1764.2
+    - Jāmiʿ 9:1765.1
+    note: 'إذا رفع رأسه من الركوع من الركعة الآخرة من الفجر يقول: "اللهم العَن فلانًا وفلانًا وفلانًا ... يدعو على أُناس من المنافقين'
+- id: hadith-9-qunut-occasions
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: When the qunut is made and when left; amen behind it; hands raised
+  read:
+  - Jāmiʿ 9:1765.2-1769.1
+  tags:
+  - motif: qunut-in-dawn-and-sunset
+    refs:
+    - Jāmiʿ 9:1765.2
+    note: كان يقنتُ في الصبح والمغرب
+  - motif: qunut-a-month-then-left
+    refs:
+    - Jāmiʿ 9:1766.1
+    note: قنت شهرًا يدعو على أحياء من أحياء العرب، ثم ترك
+  - motif: years-like-the-years-of-joseph
+    refs:
+    - Jāmiʿ 9:1766.2
+    note: اللهمَّ اجعلها عليهم سنين كَسِنِي يوسف
+  - motif: prays-for-rescue-of-named-captives
+    refs:
+    - Jāmiʿ 9:1766.2
+    note: اللهمَّ أَنج الوليد بن الوليد، اللهمَّ نَجِّ سلمة بن هشام
+  - motif: stopped-praying-for-them-they-have-come
+    refs:
+    - Jāmiʿ 9:1766.2
+    note: ثمَّ رأيتُ رسول الله ﷺ ترك الدعاء بَعدُ ... وما تراهم قد قدموا
+  - motif: father-calls-dawn-qunut-innovation
+    refs:
+    - Jāmiʿ 9:1766.3
+    note: 'إنَّك قد صليتَ خلْفَ رسول الله ﷺ وأبي بكر وعمر وعثمان وعلي ... أكانوا يَقْنُتُون؟ قال: أي بُنيَّ محدَثٌ'
+  - motif: qunut-only-for-or-against-a-people
+    refs:
+    - Jāmiʿ 9:1767.1
+    - Jāmiʿ 9:1768.1
+    note: كان لا يقنت إلا أن يدعو ... كان لا يقنت إلا إذا دعا لقوم، أو على قوم
+  - motif: those-behind-say-amen-to-qunut
+    refs:
+    - Jāmiʿ 9:1768.2
+    note: قنت رسول الله ﷺ شهرًا متتابِعًا في الظهر والعصر والمغرب والعشاء وصلاة الصبح ... ويُؤَمِّنُ مَن خَلفَه
+  - motif: hands-raised-cursing-the-killers
+    refs:
+    - Jāmiʿ 9:1769.1
+    note: كلّما صلّى الغداة رفع يديه يدعو عليهم
+- id: hadith-9-travel-prayer-imposed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Travel prayer: first imposed as two; four, two and one; not in the Quran'
+  read:
+  - Jāmiʿ 9:1771.1-1773.1
+  tags:
+  - motif: prayer-first-imposed-as-two
+    refs:
+    - Jāmiʿ 9:1771.1
+    note: فُرضت الصلاةُ ركعتين ركعتين في الحضر والسفر، فأُقِرَّتْ صلاةُ السفر، وزيد في صلاة الحضر
+  - motif: four-at-home-two-travelling-one-in-fear
+    refs:
+    - Jāmiʿ 9:1772.1
+    note: فرض الله الصلاةَ على لسان نبيكم في الحضر أربعًا وفي السفر ركعتين، وفي الخوف ركعة
+  - motif: two-complete-not-shortened
+    refs:
+    - Jāmiʿ 9:1772.2
+    note: صلاة السفر ركعتان، وصلاة الجمعة ركعتان، والفطر والأضحى ركعتان، تمام غير قَصْرٍ
+  - motif: travel-prayer-not-in-quran
+    refs:
+    - Jāmiʿ 9:1773.1
+    note: إنَّا نَجِد صلاة الحضر وصلاة الخوف في القرآن. ولا نجد صلاة السفر في القرآن ... وإنَّما نفعل كما رأينا محمدًا ﷺ يفعل
+- id: hadith-9-shortening-in-safety
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Shortening in safety: a charity; God loves his dispensations taken'
+  read:
+  - Jāmiʿ 9:1773.2-1775.2
+  quran:
+  - 4:101
+  - 95:1-8
+  tags:
+  - motif: shortening-in-safety-a-charity-from-god
+    refs:
+    - Jāmiʿ 9:1773.2
+    note: فقد أمِن الناس ... صدقة تصدق الله بها عليكم فاقبلوا صدقته
+  - motif: fig-and-olive-in-travel-night-prayer
+    refs:
+    - Jāmiʿ 9:1774.1
+    note: 'أنَّه كان في سفر فصلَّى العشاء الآخِرة. فقرأ في إحدى الركعتين: ﴿وَالتِّينِ وَالزَّيْتُونِ﴾'
+  - motif: fearing-none-but-god-prayed-two
+    refs:
+    - Jāmiʿ 9:1774.2
+    note: خرج من المدينة إلى مكة، لا يخاف إلا الله رب العالمين، فصلَّى ركعتين
+  - motif: two-with-prophet-abu-bakr-umar
+    refs:
+    - Jāmiʿ 9:1774.3
+    note: صلَّيت مع رسول الله ﷺ في السفر ركعتين، ومع أبي بكر ركعتين، ومع عمرَ ركعتين
+  - motif: god-loves-dispensations-taken
+    refs:
+    - Jāmiʿ 9:1774.4
+    - Jāmiʿ 9:1775.1
+    note: إنَّ الله يُحِبُّ أن تُؤتَى رُخَصُه، كما يكره أن تُؤْتَى معصيتُه ... كما يُحِبُّ أن يؤتى عزائمه
+  - motif: adders-to-two-rakas-pass-through-like-arrow
+    refs:
+    - Jāmiʿ 9:1775.2
+    note: يُضيفون إلى ركعتيه ركعتين أخْريين ... قبَّح الله الوجوه ... إن أَقوامًا يتعمقون في الدين، يمرُقُون كما يمرُقُ السهمُ من الرمية
+- id: hadith-9-where-shortening-begins
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Where shortening begins: Dhu l-Hulayfa, three miles or farsakhs'
+  read:
+  - Jāmiʿ 9:1776.1-1776.3
+  tags:
+  - motif: four-at-medina-two-at-dhul-hulayfa
+    refs:
+    - Jāmiʿ 9:1776.1
+    note: صلَّيتُ مع رسول الله ﷺ الظهر بالمدينة أربعًا، وصلَّيتُ معه العصر بذي الحُليفة ركعتين
+  - motif: shortening-at-short-distance
+    refs:
+    - Jāmiʿ 9:1776.2
+    - Jāmiʿ 9:1776.3
+    note: إلى قرية على رأس سبعة عشر، أو ثمانية عشر ميلًا. فصلى ركعتين ... إذا خرج مسيرة ثلاثة أميالٍ، أو ثلاثة فراسخ
+- id: hadith-9-length-of-stay
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'How long one shortens: ten days at Mecca, nineteen, twenty at Tabuk'
+  read:
+  - Jāmiʿ 9:1777.1-1779.1
+  tags:
+  - motif: ten-days-at-mecca-two-each
+    refs:
+    - Jāmiʿ 9:1777.1
+    note: 'فكان يُصلي ركعتين ركعتين حتى رجعنا إلى المدينة. قلت: كم أقام بمكة؟ قال: عشرًا'
+  - motif: nineteen-days-praying-two
+    refs:
+    - Jāmiʿ 9:1778.1
+    note: أقام النبي ﷺ تسعة عشر يَقْصُر، فنحن إذا سافرنا تسعة عشر قصرنا، وإن زدنا أتممنا
+  - motif: shortening-prayer-twenty-days-at-camp
+    refs:
+    - Jāmiʿ 9:1779.1
+    note: أقام رسول الله ﷺ بتبوك عشرين يومًا يقصُر الصلاة
+- id: hadith-9-mecca-and-mina
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Two at Mecca and Mina; Uthman's four
+  read:
+  - Jāmiʿ 9:1780.1-1781.2
+  tags:
+  - motif: two-at-mecca-sunna-of-abul-qasim
+    refs:
+    - Jāmiʿ 9:1780.1
+    note: 'كيف أصلِّي إذا كنت بمكة إذا لم أصلِّ مع الإمام؟ فقال: ركعتين سنة أبي القاسم'
+  - motif: uthman-four-at-mina-wish-for-two-accepted
+    refs:
+    - Jāmiʿ 9:1780.2
+    note: صلَّى بنا عثمان بمنىً أربع ركعات، فقيل ذلك لعبد الله بن مسعود فاسترجع ... فليت حَظِّي من أربع ركعات ركعتان متقبَّلتان
+  - motif: two-with-prophet-abu-bakr-umar
+    refs:
+    - Jāmiʿ 9:1780.2
+    - Jāmiʿ 9:1781.1
+    note: وصليت مع أبي بكر بمنًى ركعتين، وصليت مع عمر بمنًى ركعتين ... وعثمان صدرًا من خلافته
+  - motif: with-imam-four-alone-two
+    refs:
+    - Jāmiʿ 9:1781.1
+    note: فكان ابن عمر إذا صلَّى مع الإمام صلَّى أربعًا، وإذا صلَّاها وحده صلَّى ركعتين
+  - motif: two-at-mina-safest-of-times
+    refs:
+    - Jāmiʿ 9:1781.2
+    note: صلى بنا النبي ﷺ آمَنَ مَا كَان - بِمِنًى ركعتين
+- id: hadith-9-joining-on-journey
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Joining prayers on the journey: hurried, delayed, at Tabuk'
+  read:
+  - Jāmiʿ 9:1781.3-1786.2
+  tags:
+  - motif: joining-prayers-on-campaign
+    refs:
+    - Jāmiʿ 9:1781.3
+    - Jāmiʿ 9:1784.1
+    - Jāmiʿ 9:1785.1
+    - Jāmiʿ 9:1786.1
+    - Jāmiʿ 9:1786.2
+    note: إذا عجل به السيرُ يجمعُ بين المغرب والعِشاء ... يجمع بين الظهر والعصر، والمغرب والعشاء ... يجمع بين الصلاتين في السفر
+  - motif: noon-delayed-to-afternoon-if-leaving-before-zenith
+    refs:
+    - Jāmiʿ 9:1783.1
+    note: إذا ارتحل قبل أن تزيغَ الشمسُ أخَّر الظهر إلى وقت العصر، ثم يجمع بينهما. وإذا زاغ صلى الظهر ثم ركب
+  - motif: joined-while-halted-at-tabuk
+    refs:
+    - Jāmiʿ 9:1784.1
+    note: فأخَّر الصلاة يومًا. ثم خرج فصلى الظهر والعصر جميعًا، ثم دخل. ثم خرج فصلى المغرب والعشاء جميعًا
+  - motif: joined-so-as-not-to-burden-community
+    refs:
+    - Jāmiʿ 9:1785.1
+    note: 'ما حمله على ذلك؟ قال: أراد أن لا يُحرِج أمَّته'
+  - motif: joining-prayers-on-campaign
+    refs:
+    - Jāmiʿ 9:1786.1
+    note: وأخَّر المغرب وعجَّل العشاء فصلاهما جميعًا
+- id: hadith-9-joining-at-home
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Joining at Medina without fear or travel; only two prayers out of time
+  read:
+  - Jāmiʿ 9:1787.1-1790.1
+  tags:
+  - motif: joined-in-medina-without-fear-or-travel
+    refs:
+    - Jāmiʿ 9:1787.1
+    note: صلَّى رسول الله ﷺ الظهر والعصر جميعًا، والمغرب والعشاء جميعًا في غير خوف ولا سفر
+  - motif: only-two-prayers-out-of-time-at-muzdalifa
+    refs:
+    - Jāmiʿ 9:1790.1
+    note: ما رأيتُ النبي ﷺ صلَّى صلاة لغير ميقاتها، إلَّا صلاتين، جمع بين المغرب والعشاء، وصلى الفجر قبل ميقاتها ... وذلك بجمع
+- id: hadith-9-noon-early-on-journey
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Noon prayed before moving on, even at midday
+  read:
+  - Jāmiʿ 9:1791.1
+  tags:
+  - motif: noon-prayed-before-leaving-even-at-midday
+    refs:
+    - Jāmiʿ 9:1791.1
+    note: 'إذا نزل منزلًا لم يرتحل حتى يُصلي الظهر. فقال له رجل: وإن كان بنصف النهار؟ قال: وإن كان بنصف النهار'
+- id: hadith-9-no-extras-on-journey
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: No voluntary prayers with the travel prayer
+  read:
+  - Jāmiʿ 9:1792.1-1793.1
+  quran:
+  - '33:21'
+  tags:
+  - motif: would-have-completed-if-praying-extras
+    refs:
+    - Jāmiʿ 9:1792.1
+    note: 'ما يصنع هؤلاء؟ قلت: يُسبِّحون. قال: لو كنتُ مسبِّحًا لأتممتُ صلاتي ... فلم يزد على ركعتين حتَّى قبضه الله'
+  - motif: would-have-completed-if-praying-extras
+    refs:
+    - Jāmiʿ 9:1793.1
+    note: رأيتُ رسول الله ﷺ لا يسبح في الصلاة في السفر قبل الصلاة ولا بعدها
+- id: hadith-9-prayer-on-mount
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Voluntary prayer on the mount, not the obligatory; the donkey; 'wherever you turn'
+  read:
+  - Jāmiʿ 9:1793.2-1797.2
+  quran:
+  - 2:115
+  tags:
+  - motif: voluntary-on-mount-any-direction-not-obligatory
+    refs:
+    - Jāmiʿ 9:1793.2
+    - Jāmiʿ 9:1793.3
+    - Jāmiʿ 9:1794.1
+    - Jāmiʿ 9:1795.1
+    note: وهو على راحلته يُسَبِّح، يومئْ برأسه قِبل أيِّ وجه توجَّه، ولم يكن رسول الله ﷺ يصنع ذلك في الصلاة المكتوبة ... فإذا أراد الفريضة نزل فاستقبل القبلة
+  - motif: women-no-license-to-pray-on-mounts
+    refs:
+    - Jāmiʿ 9:1794.2
+    note: 'هل رُخِّص للنساء أن يُصلين على الدواب؟ قالت: لم يُرخص له في ذلك في شِدَّة، ولا رخاء'
+  - motif: prays-on-donkey-toward-khaybar
+    refs:
+    - Jāmiʿ 9:1796.1
+    - Jāmiʿ 9:1796.3
+    note: يُصلي وهو على حمار، وهو متوجِّه إلى خيبر ... فرأيتُه يُصَلِّي على حمار ووجهه من ذا الجانب ... لولا أني رأيتُ رسول الله ﷺ فعله لم أفعله
+  - motif: wherever-you-turn-revealed-for-mount-prayer
+    refs:
+    - Jāmiʿ 9:1796.2
+    note: 'يُصلي وهو مقبل من مكة إلى المدينة على راحلته حيث كان وجههُ، قال: وفيه نزلت'
+  - motif: faces-qibla-for-opening-takbir-then-any-way
+    refs:
+    - Jāmiʿ 9:1797.1
+    note: فأراد أن يتطوع استقبل بناقته القبلة فكَّبر، ثم صلَّى حيث وجَّهه رِكابُه
+  - motif: prostration-lower-than-bowing-on-mount
+    refs:
+    - Jāmiʿ 9:1797.2
+    note: يُصَلِّي على راحلته نحو المشرق، والسجود أخفضُ من الركوع
+  hints:
+  - 'Dismounting for the obligatory prayer and facing the qibla, turning the camel to the qibla for the opening takbir and then praying as it goes (Jāmiʿ 9:1794.1, 1797.1) - compare M. Berakhot 4:5: one riding a donkey should dismount; if he cannot, turn his face (toward Jerusalem); if he cannot, direct his heart to the Holy of Holies'
+- id: hadith-9-fear-prayer-one-raka-each
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Fear prayer: a rakʿa with each group, each completing alone'
+  read:
+  - Jāmiʿ 9:1799.1-1800.1
+  quran:
+  - 4:101-102
+  tags:
+  - motif: fear-prayer-one-raka-each-group-completes-alone
+    refs:
+    - Jāmiʿ 9:1799.1
+    note: فقامت طائفة معه يُصلِّي، وأقبلت طائفة على العدوِّ ... فقام كل واحد منهم فركع لنفسه ركعةً، وسجد سجدتين
+  - motif: fear-prayer-groups-alternate-imam-waits
+    refs:
+    - Jāmiʿ 9:1800.1
+    note: فصلَّى بالذين معه ركعةً، ثمَّ ثبت قائمًا وأتمُّوا لأنفسهم ... ثم ثبت جالسًا، وأتمُّوا لأَنفُسِهِمْ، ثمَّ سَلَّمَ بهم
+- id: hadith-9-fear-prayer-two-rows
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Fear prayer in two rows with the enemy toward the qibla; Gabriel warns
+  read:
+  - Jāmiʿ 9:1801.1-1802.1
+  quran:
+  - 4:101-102
+  tags:
+  - motif: gabriel-tells-of-enemy-plan
+    refs:
+    - Jāmiʿ 9:1801.1
+    note: لو مِلْنا عليهم ميلةً لاقتطعناهم، فأخبر جبريل رسولَ الله ﷺ ذلك
+  - motif: enemy-plans-attack-during-prayer
+    refs:
+    - Jāmiʿ 9:1801.1
+    - Jāmiʿ 9:1802.1
+    note: إنَّه ستأتيهم صلاةٌ هي أحبُّ إليهم من الأولاد ... لو كُنَّا حملنا عليهم وهم في الصلاة، فنزلت آية القَصْر بين الظهر والعصر
+  - motif: fear-prayer-in-two-rows
+    refs:
+    - Jāmiʿ 9:1801.1
+    - Jāmiʿ 9:1801.2
+    - Jāmiʿ 9:1802.1
+    note: صَفَّنا صَفَّين، والمشركون بيننا وبين القبلة ... ثم تأخَّر الصف الأول وتقدم الصف الثاني
+  - motif: as-guards-do-with-their-commanders
+    refs:
+    - Jāmiʿ 9:1801.1
+    - Jāmiʿ 9:1801.2
+    note: كما يُصَلِّي أمَرَاؤُكم هؤلاء ... كما يصنع حرسُكم هؤلاء بأمرائهم
+- id: hadith-9-fear-prayer-at-najd
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Fear prayer at Najd: backs to the qibla, walking backwards'
+  read:
+  - Jāmiʿ 9:1802.2-1804.1
+  quran:
+  - 4:101-102
+  tags:
+  - motif: group-backs-to-qibla-facing-enemy
+    refs:
+    - Jāmiʿ 9:1802.2
+    note: وطائفة أخرى مقابل العدوِّ وظهورهم إلى القبلة، فكبَّر رسول الله ﷺ، فكبروا جميعًا
+  - motif: fear-prayer-groups-alternate-imam-waits
+    refs:
+    - Jāmiʿ 9:1802.2
+    note: فركعوا وسجدوا، ورسول الله ﷺ قائم كما هو
+  - motif: withdraw-walking-backwards
+    refs:
+    - Jāmiʿ 9:1804.1
+    note: ثم قاموا فنكصوا على أعقابهم يمشون القهقرَى، حتى قاموا من ورائهم
+- id: hadith-9-fear-prayer-four-and-two
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Four for the imam, two for the people; the sword on the tree
+  read:
+  - Jāmiʿ 9:1805.1
+  quran:
+  - 4:101-102
+  tags:
+  - motif: bedouin-takes-hung-sword-who-protects-you
+    refs:
+    - Jāmiʿ 9:1805.1
+    note: 'وسيفُ رسول الله ﷺ مُعَلَّقٌ بشجرةٍ، فأخذ سيف نبي الله ﷺ فاخترطه ... فمن يمنعك مني؟ قال: "الله يمنَعُني منك'
+  - motif: fear-prayer-imam-four-people-two
+    refs:
+    - Jāmiʿ 9:1805.1
+    note: فكانت لرسُول الله ﷺ أربعُ ركعَاتٍ، ولِلْقوم ركعتان
+- id: hadith-9-fear-prayer-one-raka
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: In fear one rakʿa, not made up
+  read:
+  - Jāmiʿ 9:1806.1-1809.2
+  quran:
+  - 4:101-102
+  tags:
+  - motif: four-at-home-two-travelling-one-in-fear
+    refs:
+    - Jāmiʿ 9:1806.1
+    note: في الحضر أربعًا، وفي السفر ركعتين، وفي الخوف ركعة
+  - motif: fear-prayer-one-raka-not-made-up
+    refs:
+    - Jāmiʿ 9:1807.1
+    - Jāmiʿ 9:1808.1
+    - Jāmiʿ 9:1809.1
+    - Jāmiʿ 9:1809.2
+    note: صلَّى بذي قَرَدٍ ... فصلَّي بهم ركعة، ولم يقضوا ... ولكل طائفة ركعةٌ ... فكانت للنبي ﷺ ركعتان، ولهم ركعة
+- id: hadith-9-fear-prayer-riding-or-on-foot
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: In greater fear, riding or on foot, by nods
+  read:
+  - Jāmiʿ 9:1810.1
+  quran:
+  - 4:101-102
+  tags:
+  - motif: fear-prayer-one-raka-each-group-completes-alone
+    refs:
+    - Jāmiʿ 9:1810.1
+    note: ثم قضت الطائفتان ركعة ركعة
+  - motif: in-greater-fear-pray-riding-or-standing-by-nods
+    refs:
+    - Jāmiʿ 9:1810.1
+    note: فإذا كان خوف أكثر من ذلك فصلِّ راكبًا أو قائمًا، تومئُ إيماءً
+  hints:
+  - Praying riding or on foot by nods when the danger is great (Jāmiʿ 9:1810.1; the walking prayer of 1812.1) - compare M. Berakhot 4:4, where one walking in a place of danger says a short prayer instead of the full one
+- id: hadith-9-guarding-in-turns
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Praying and guarding by turns
+  read:
+  - Jāmiʿ 9:1811.1-1811.2
+  quran:
+  - 4:101-102
+  tags:
+  - motif: praying-and-guarding-each-other
+    refs:
+    - Jāmiʿ 9:1811.1
+    - Jāmiʿ 9:1811.2
+    note: والناس كلهم في صلاة، ولكن يحرس بعضهم بعضًا ... إلا أنَّها كانت عُقَبًا
+- id: hadith-9-afternoon-at-qurayza
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Pray the afternoon only at Banu Qurayza'''
+  read:
+  - Jāmiʿ 9:1811.3
+  quran:
+  - 4:101-102
+  tags:
+  - motif: pray-afternoon-only-at-qurayza
+    refs:
+    - Jāmiʿ 9:1811.3
+    note: لا يُصَلِّيَنَّ أحدٌ العصرَ إلَّا في بني قُريظة ... فذُكِر للنبي ﷺ فلم يُعنِّف واحدًا منهم
+- id: hadith-9-walking-prayer-of-the-pursuer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn Unays prays walking as he closes on Khalid b. Sufyan
+  read:
+  - Jāmiʿ 9:1812.1
+  quran:
+  - 4:101-102
+  tags:
+  - motif: prayer-while-walking-by-nods
+    refs:
+    - Jāmiʿ 9:1812.1
+    note: إنِّي لأخاف أن يكون بيني وبينه ما إن أؤخِّر الصلاة. فانطلقت أمشي، وأنا أصلِّي أومئ إيماءً نحوه
+  - motif: kills-the-gatherer-after-walking-prayer
+    refs:
+    - Jāmiʿ 9:1812.1
+    note: بلغني أنك تَجمع لهذا الرجل ... حتى إذا أمكنني علوتُه بسيفي حتى برد
+  - motif: target-like-a-devil-wild-haired
+    refs:
+    - Jāmiʿ 9:1812.1
+    note: إنه ثائر الرأس، كأنه شيطان
+- id: hadith-9-forenoon-prayer
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The forenoon prayer: eight on the day of conquest; at the heavy man''s house; four and more'
+  read:
+  - Jāmiʿ 9:1814.1-1815.1
+  tags:
+  - motif: eight-rakat-forenoon-prayer
+    refs:
+    - Jāmiʿ 9:1814.1
+    note: دخل بيتها يوم فتح مكة، فاغتسل، وصلَّى ثماني ركعات، فلم أر صلاة قط أخفَّ منها، غير أنَّه يُتم الركوع والسجود
+  - motif: heavy-man-cannot-pray-with-him-invites-to-house
+    refs:
+    - Jāmiʿ 9:1814.2
+    note: إنِّي لا أستطيع الصلاة معك -وكان رجلًا ضخمًا- ... ونَضَحَ طرف الحصير فصلَّي عليه ركعتين
+  - motif: saw-him-pray-forenoon-only-that-day
+    refs:
+    - Jāmiʿ 9:1814.2
+    note: 'أكان النبي ﷺ يصلِّي الضُحى؟ قال: ما رأيتُه صلَّاها إلا يوَمئِذٍ'
+  - motif: forenoon-four-and-more
+    refs:
+    - Jāmiʿ 9:1815.1
+    note: أربع ركعات ويزيد ما شاء
+- id: hadith-9-forenoon-charity-of-joints
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Charity due on the joints, suffered by two forenoon rakʿas; four rakʿas suffice the day
+  read:
+  - Jāmiʿ 9:1815.2-1817.2
+  tags:
+  - motif: charity-on-every-joint-two-forenoon-rakas-suffice
+    refs:
+    - Jāmiʿ 9:1815.2
+    note: يُصبح على كلِّ سُلامَى من أحدكم صدقةٌ ... ويُجزِئُ من ذلك ركعتان يركعهما من الضُّحى
+  - motif: three-bequests-fast-forenoon-witr
+    refs:
+    - Jāmiʿ 9:1816.1
+    - Jāmiʿ 9:1817.1
+    note: أوصاني بصلاة الضُّحى، وبالوتر قبل النوم ... بصيام ثلاثة أيام من كل شهر، وصلاةِ الضُّحى، وبأن لا أنامَ حتى أوتر
+  - motif: four-forenoon-rakas-god-suffices-the-day
+    refs:
+    - Jāmiʿ 9:1816.2
+    note: ابن آدم اركع لي من أوَّل النهار أربع ركعات أكفِك آخِرَه
+  - motif: human-made-of-360-joints
+    refs:
+    - Jāmiʿ 9:1817.2
+    note: في الإنسان ثلاثمائة وستون مفْصلًا، فعليه أن يتصدق عن كل مفْصلٍ منه بصدقةٍ
+  - motif: spittle-buried-obstacle-removed-as-joint-charity
+    refs:
+    - Jāmiʿ 9:1817.2
+    note: النخاعة في المسجد تدفِنُها، والشيء تُنحّيه عن الطريق، فإن لم تجد فركعتا الضُّحي تُجزئك
+  hints:
+  - 'Three hundred and sixty joints each owing a charity (Jāmiʿ 9:1817.2) - compare the rabbinic count of the body''s 248 limbs (M. Ohalot 1:8), matched to the 248 positive commandments (b. Makkot 23b): a number of body parts tied to a number of duties'
+- id: hadith-9-forenoon-in-itbans-house
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The forenoon prayer in Itban's house
+  read:
+  - Jāmiʿ 9:1817.3
+  tags:
+  - motif: forenoon-in-house-they-pray-behind
+    refs:
+    - Jāmiʿ 9:1817.3
+    note: صلَّى في بيته سُبْحةَ الضُّحي، فقاموا وراءه فصلّوا بصلاته
+- id: hadith-9-forenoon-better-than-raid
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The bequest; quicker return and greater booty than the raid
+  read:
+  - Jāmiʿ 9:1818.1-1818.2
+  tags:
+  - motif: three-bequests-fast-forenoon-witr
+    refs:
+    - Jāmiʿ 9:1818.1
+    note: 'أوصاني خليلي بثلاث، لا أدعهن حتى أموت: صوم ثلاثة أيام من كل شهر، وصلاة الضُّحى، ونوم على وتر'
+  - motif: quicker-return-greater-booty-than-raid
+    refs:
+    - Jāmiʿ 9:1818.2
+    note: ألا أخبركم بأسرع كرَّةً منه، وأعظم غنيمةً! رجل توضأ في بيته فأحسن وضوءَه، ثم عمد إلى المسجد فصلَّي فيه الغداةَ، ثم عقَّب بصلاة الضَّحْوةِ
+- id: hadith-9-four-rakas-suffice-the-day
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Four rakʿas at the start of the day; I will suffice you its end'''
+  read:
+  - Jāmiʿ 9:1819.1-1820.2
+  tags:
+  - motif: four-forenoon-rakas-god-suffices-the-day
+    refs:
+    - Jāmiʿ 9:1819.1
+    - Jāmiʿ 9:1820.1
+    - Jāmiʿ 9:1820.2
+    note: يا ابنَ آدم لا تُعجزني من أربعِ ركعاتٍ في أوَّل نهارك، أَكْفِك آخره ... اكفني أوَّل النهار بأربع ركعاتٍ، أكفِك بهنَّ آخرَ يومِك
+- id: hadith-9-forenoon-rewards
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Forenoon prayer: reward of the umra pilgrim, better than a raid; Ali saw him pray it'
+  read:
+  - Jāmiʿ 9:1820.3-1821.1
+  tags:
+  - motif: walk-to-prayer-purified-like-pilgrim-in-ihram
+    refs:
+    - Jāmiʿ 9:1820.3
+    note: من خرج من بيته متطهَّرًا إلى صلاة مكتوبة فأجره كأجر الحاج المحرم، ومن خرج إلى تسبيح الضُّحى لا ينصبه إلَّا إيَّاه فأجره كأجر المعتمر ... كتاب في عليَّين
+  - motif: quicker-return-greater-booty-than-raid
+    refs:
+    - Jāmiʿ 9:1820.4
+    note: ألا أدلُّكم على أقرب منه مغزىّ، وأكثرَ غَنيمةً، وأوشك رجْعَةً؟ من توضَّأ ثمَّ غدا إلى المسجد لسُبحةِ الضُّحى
+  - motif: he-prayed-some-forenoon
+    refs:
+    - Jāmiʿ 9:1821.1
+    note: إنَّ رسول الله ﷺ كان يُصَلَّي من الضَّحى
+- id: hadith-9-forenoon-not-kept
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: He did not keep the forenoon prayer lest it be imposed
+  read:
+  - Jāmiʿ 9:1822.1
+  tags:
+  - motif: never-saw-forenoon-left-deeds-lest-imposed
+    refs:
+    - Jāmiʿ 9:1822.1
+    note: ما رأيتُ رسولَ الله ﷺ يُصلِّي سُبحةَ الضُّحى قط، وإني لأُسَبِّحُها ... ليدعُ العملَ، وهو يُحبُّ أن يعملَه خشية أن يعمل به الناسُ فيُفرضَ عليهم
