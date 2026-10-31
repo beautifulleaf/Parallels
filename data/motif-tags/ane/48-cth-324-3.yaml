@@ -48,6 +48,12 @@ new_motifs:
   body-made-bright-as-before: {label: "After the healing it grows bright on the person's body, head, eyes, brows and lashes, and he is to become again as he was before", cluster: healing}
   god-sojourns-years-in-town-harvests-it: {label: "The Storm god stays eight years in a town, strikes it, harvests it, plants an orchard and fells it, and then returns", cluster: vanishing-god}
   sons-greet-returning-father-where-were-you: {label: "The returning god meets his sons on the road; they bow and ask 'Father, where were you?'", cluster: vanishing-god}
+  fruit-holds-seed-wine-oil-analogy: {label: "Analogy: as the fig holds a thousand seeds within, the raisin its wine and the olive its oil, so may the god hold within the good life, strength, long years and joy of the king and queen", cluster: vanishing-god}
+  god-asked-to-incline-ear-to-king: {label: "The god is asked to keep his ear inclined and listen to what the king and queen say", cluster: prayer}
+  throw-away-bad-words-take-good: {label: "The god is asked to throw away the bad words like nutshells and take the good words", cluster: vanishing-god}
+  slanderer-of-king-before-god-punished: {label: "Whoever speaks evil of the king and queen before the god, the god is to give him a sour apple (punish him)", cluster: vanishing-god}
+  god-highest-of-the-high-foremost-of-foremost: {label: "Superlative address: 'you are the highest of the high, the foremost of the foremost'", cluster: divine-titles}
+  sheep-driven-out-not-killed: {label: "At the end of the rite a sheep is driven out but not killed", cluster: vanishing-god}
 units:
   - id: ane-cth-324-3-1-bee-finds-telipinu
     tradition: ane-hittite
@@ -474,3 +480,121 @@ units:
     tags:
       - {motif: ailments-of-eyes-listed-and-removed, refs: ["CTH 331.2 §1:1-§2:12"], note: "each ailment mar-ra-at-ta-at 'dissolved': [ḫap]anzi, iš-ḫa-aḫ-ru 'tears', ši-pa-an 'pus', ga-ma-ra-a-aš 'clouding', ḫar-ki 'the white', i-n[a-an] 'disease'"}
       - {motif: body-made-bright-as-before, refs: ["CTH 331.2 §2:14-16"], note: "[DUMU].LÚ.U19.[L]U tu-ek-ke-eš-še-eš 'the limbs of the person' KI.MIN"}
+  - id: ane-cth-332-1-eagle-and-bee
+    tradition: ane-hittite
+    title: The queen's Storm god sought by the eagle and then by the bee, who finds him in the grove of Lihzina (mugawar fragment 1, CTH 332.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.1"]
+    tags:
+      - {motif: eagle-searches-for-vanished-god, refs: ["CTH 332.1 §1:2-11"], note: "MUNUS.LUGAL-aš ne-pí-ša-[aš] 'the queen ... (Storm god) of heaven'; [i-it-w]a-ra-aš-ta pár-ga-mu-[uš] 'go (search) the high (mountains)'; [ḫa-a-ra-a]-aš li-li-wa-an-z[a] 'the swift eagle'; Ú-UL-an ú-e-mi-y[a-at] 'he did not find him'"}
+      - {motif: mother-goddess-sends-bee, refs: ["CTH 332.1 §2:12-15"], note: "NIM.LÀL li-li-wa-an-d[a-an] 'the swift bee'; zi-ik-ka4-wa NIM.[LÀL] 'you too, bee'; {d}IM-an zi-i[k] '(seek) the Storm god!'; the sender is not preserved"}
+      - {motif: bee-searches-mountains-valleys-waters, refs: ["CTH 332.1 §2:16-18"], note: "[ḪUR.SA]G.MEŠ-uš ša-an-ḫa-ta 'searched the mountains'; [z]i-in-né-et 'it ran out' (honey/wax); kad-du-u-wa-e[t] 'ceased to be angry'?"}
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 332.1 §2:19-§3:22"], note: "[{UR]}Uli-iḫ-zi-ni {GIŠ}TIR-[ni] 'in Lihzina in the grove'; [al-p]u-e-mar GUŠKIN-aš 'a point (sting?) of gold'"}
+    hints:
+      - "The bee's success after the eagle's failure: compare the hoopoe in Q 27:20-22 ('I have encompassed what you have not encompassed')."
+  - id: ane-cth-332-2-woken-god-and-return
+    tradition: ane-hittite
+    title: The woken Storm god's complaint, washing with the water of turning, the iron sky, and the return to the house (mugawar fragment 2, CTH 332.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.2"]
+    tags:
+      - {motif: woken-god-angrier-why-wake-me, refs: ["CTH 332.2 §1:1-3"], note: "ša-ša-an-da-an-wa-mu '(why) me, the sleeping one ...'; [ku-wa-a]t mi-e-ma-nu-uš-ga-ši 'why do you make me speak?'"}
+      - {motif: bee-finds-sleeping-god-stings-him, refs: ["CTH 332.2 §1:6-17"], note: "iš-ši-it-wa-aš-ši-kán SAḪAR.ḪI.A-uš 'with the mouth (wipe) the dirt from him'; 12 il-ma-ni-in; GÌR.ḪI.A-KA wa-a-ḫe-eš-na-aš ú-i-[e-te-ni-it] 'your feet with the water of turning'; [TI8.MUŠEN pít-t]i-ya-a-le-eš 'swift eagles'; ḫe-e-né-ra-at šu-up-p[í] 'they drew the pure (water)'; ša-ra-az-zi Ú-UL ḫi-né-er 'they did not draw the upper'; {GIŠ}ša-ma-ma-kán wa-ar-aš-t[a] 'he stripped the šamama-nut'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.2 §2:18-28"], note: "še-ra-aš-ši ne-e-pí-iš AN.BAR-aš 'above him the sky (is) of iron'; nam-ma na-iš-ḫu-ut 'turn back again'; ga-la-ak-tar, [pá]r-ḫu-e-na-aš ki-it-ta; nu tal-li-ya-an-za e-e[š] 'be soothed'; ša-a-ḫi-iš e-eš-ri-it-ti e-eš-d[u] 'let šaḫi be at your statue'"}
+      - {motif: god-returns-house-restored, refs: ["CTH 332.2 §2:29-35"], note: "{GIŠ}AB.ḪI.A kam-ma-ra-aš tar-na-aš 'the mist left the windows'; ARAD.MEŠ GÉME.MEŠ ḫantantat 'the menservants and maidservants were set right' (a variant: servants instead of gods); {d}IM-aš-kán ... ú-et 'the Storm god came'"}
+      - {motif: gods-eat-and-are-satisfied-on-return, refs: ["CTH 332.2 §2:36-39"], note: "[na-at]-za ḫa-aš-ši-ik-ke-er 'they stilled their thirst'"}
+      - {motif: mother-ewe-cow-accept-young-again, refs: ["CTH 332.2 §2:40-42"], note: "an-na-aš-za DU[MU-ŠU ka-ni]-eš-t[a] 'the mother recognised her son'; LUGAL MUNUS.LUGAL"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 332.2 §4:44-§6:52"], note: "{DUG}pa-aḫ-ḫu-na-[al-li] 'brazier'; NA4-an ma-a-aḫ-ḫa-an da-i[š] 'as he laid down the stone'; [kar-pí-i]š kar-di-mi-ya-az ša-a-u-w[a-ar]; EGIR {GIŠ}ŠEN šu-uḫ-ḫ[a-] '(water) poured back in the pipe'"}
+    hints:
+      - "The sky of iron above the god: compare the covenant curse 'your heavens over your head shall be bronze and the earth under you iron' (Deut 28:23; Lev 26:19)."
+  - id: ane-cth-332-3-1-offerings
+    tradition: ane-hittite
+    title: Ritual setting of offerings before the deity (mugawar fragment 3, obverse, CTH 332.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.3 §1:1-§5:23"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.3 §1:1-2", "CTH 332.3 §4:11-19"], note: "{GIŠ}IG 'the door'; ú-da-an-zi 'they bring'; [PA-NI DIN]GIR-LIM da-a-i 'he sets before the deity'; e-ku-zi 'drinks'; much broken"}
+  - id: ane-cth-332-3-2-fig-olive-analogies
+    tradition: ane-hittite
+    title: "Analogies of flower, fig, nut, raisin and olive; 'incline your ear'; the slanderer of the king; highest of the high (mugawar fragment 3, CTH 332.3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.3 §6:24-§17:78"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 332.3 §6:24-26"], note: "ša-an-ku-uš a-li-il ma-aḫ-ḫa-an pár-ki-ya-at 'as the šanku-flower has grown up', ZI-KA a-li-il pár-ak-ta-ru 'let your soul grow up as a flower'; ki-i mu-ga-a-u-wa-aš ud-da-a-ar 'these words of invocation' mu-um-mu-wa-a-a[n] e-eš-tu 'be fallen upon you'"}
+      - {motif: god-asked-to-incline-ear-to-king, refs: ["CTH 332.3 §6:27-29"], note: "nu GEŠTU-an la-ga-a-an ḫar-ak 'keep (your) ear inclined'; ku-it LUGAL [MUNUS.LUGAL] me-mi-iš-kán-zi nu-uš iš-ta-ma-aš-ki 'what the king and queen say, listen to it'"}
+      - {motif: fruit-holds-seed-wine-oil-analogy, refs: ["CTH 332.3 §7:30-33", "CTH 332.3 §9:39-41"], note: "ka-a-ša {GIŠ}PÈŠ 'here is a fig'; le-e im-pa-na-et-t[a] 'do not be troubled any more'; {GIŠ}PÈŠ ma-aḫ-ḫa-an an-dur-za LI-IM NUMUN-an ḫar-zi 'as the fig holds a thousand seeds within', zi-ga ŠÀ-it a-aš-šu ud-da-a-na-za ḫar-ak 'so you hold the good within'; {GIŠ}GEŠTIN HÁD.DU.A 'the raisin' its wine, {GIŠ}SE20-ER-DUM 'the olive' Ì-ŠU 'its oil'; TI-tar in-na-ra-u-wa-tar MU.ḪI.A GÍD.DA tu-uš-ga-ra-at-ta-an 'life, vigour, long years, joy'"}
+      - {motif: throw-away-bad-words-take-good, refs: ["CTH 332.3 §7:34-§8:38"], note: "{GIŠ}ša-ma-ma ma-aḫ-ḫa-an du-[w]a-ar-né-ez-zi nu pár-aš-te-ḫu-uš ar-ḫa pé-eš-ši-i-e-ez-zi 'as one cracks the šamama-nut and throws away the shells'; zi-ga {d}10 i-da-a-lu ud-da-a-ar ar-ḫa pé-eš-ši-ya nu-za a-aš-šu ud-da-a-ar da-a 'throw away the bad words, Storm god, and take the good words'"}
+      - {motif: slanderer-of-king-before-god-punished, refs: ["CTH 332.3 §10:42-49"], note: "ku-i-ša-kán LUGAL MUNUS.LUGAL A-NA {d}10 a-aš-šu-u-i ... i-da-a-lu me-ma-i 'whoever speaks evil of the king and queen to the good Storm god'; GIŠ.ḪUR-ri an-da 'on a wooden tablet'; ḫa-tu-ga-an ut-tar 'a terrible word'; {GIŠ}ḪAŠḪUR.KUR.RA 'apricot'; EM-ṢA {GIŠ}ḪAŠḪUR pa-i 'gives a sour apple'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.3 §11:50-§12:55", "CTH 332.3 §16:72-§17:78"], note: "[T]U7.ḪI.A e-et-ri-ti-[it] 'soups, (with) your food'; [pa-r]a-a ka-la-an-kán-z[a] 'be soothed'; pár-ḫu-e-na-ša-a[t-t]a; [ḫa-ap-p]u-ri-ya-aš; ZI-KA ZAG-aš wa-al-la-a[š] ... ar-ta-ru 'your soul, the right thigh, let it stand'"}
+      - {motif: god-highest-of-the-high-foremost-of-foremost, refs: ["CTH 332.3 §13:57-§14:68"], note: "LUGAL-i MUNUS.LUGAL-ri ... ták-ku-wa-an-ta-r[u] 'let (them) be enclosed for king and queen'; nu-uš pa-aḫ-ḫa-aš-nu-an ḫar-ak 'keep them protected'; [ša-ra-a-az-zi-y]a-aš ša-ra-a-az-zi-iš zi-ik 'you are the highest of the high'; [ḫa-an-te-ez-zi-y]a-ša-az ḫa-an-te-ez-zi-iš zi-ik 'the foremost of the foremost'; the king and queen too shall be highest of the high"}
+    hints:
+      - "Fig and olive side by side as emblems of good held within: compare the oath 'by the fig and the olive' (Q 95:1) and the blessed olive tree whose oil almost glows (Q 24:35); the fig and vine of peace (Mic 4:4)."
+      - "'Incline your ear and hear': compare Ps 17:6, 2 Kgs 19:16, Dan 9:18; and the Quranic God who hears the supplicant (Q 2:186, 3:38 'you are the hearer of prayer')."
+      - "Good word versus bad word: compare the parable of the good word like a good tree and the bad word like a bad tree uprooted (Q 14:24-26)."
+      - "'Highest of the high': compare the divine name al-A'la, 'the Most High' (Q 87:1, 92:20) and 'God of gods and Lord of lords' (Deut 10:17)."
+      - "The slanderer of the king punished by the god: compare 'do not curse a ruler of your people' (Ex 22:28) and Q 104:1 ('woe to every slanderer and backbiter')."
+  - id: ane-cth-332-4-ritual-and-bee
+    tradition: ane-hittite
+    title: Offering table, the bee's search, and the queen's meal before the Storm god (mugawar fragment 4, CTH 332.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.4"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.4 §1:1-§3:19"], note: "2 NINDA.ÉRIN.MEŠ 'soldier-breads'; {GIŠ}BANŠUR-i da-a-i 'puts on the table'; GA.KIN.AG A-NA DINGIR-LIM GÌR-aš-ša 'cheese ... at the feet of the deity'; walḫi, tawal, KAŠ.GEŠTIN, 1 wa-ak-šur Ì.UDU 'sheep fat'; a-pé-e-da-ni UD-ti 'on that day'; SILA4 'lamb'"}
+      - {motif: mother-goddess-sends-bee, refs: ["CTH 332.4 §4:20-§5:25"], note: "Ú-[UL] '(did) not (find)'; NI[M.LÀL] 'the bee'; pár-ga-m[u-uš] 'the high (mountains)'; li-l[i-wa-an-da-an] 'swift'; ša-an-ḫa 'search!'"}
+      - {motif: bee-searches-mountains-valleys-waters, refs: ["CTH 332.4 §5:26-30"], note: "ḪUR.SAG.MEŠ; ša-an-ḫa-t[a] 'searched'; kad-du-wa-i 'be angry'?"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.4 §6:31-§7:53"], note: "e-ku-zi 'drinks'; ta-pa a-ap-pa-i 'he is done'; [tu-u]n-na-ak-ke-eš-na pa-a-iz-[zi] 'goes into the bedchamber'; [{d}I]M ši-pa-an-ti 'libates to the Storm god'; {UZU}NÍG.GIG 'liver'; 11 NINDA.GUR4.RA TUR.TUR; MUNUS.LUGAL-aš a-da-an-na ú-e-ek-zi 'the queen asks to eat'; {d}UTU-un e-ku-zi 'she drinks the Sun god'; NINDA.GUR4.RA KU7 TUR pár-aš-ši-ya 'breaks a small sweet bread'"}
+  - id: ane-cth-332-5-colophon
+    tradition: ane-hittite
+    title: Colophon of the Storm god's mugawar (CTH 332.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.5"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.5 §1:1-2"], note: "DUB 1.KAM QA-TI {d}10 mu-u-ga-u-wa-aš QA-TI 'first tablet, complete: (text) of the invocation of the Storm god, complete': the genre name mugawar"}
+  - id: ane-cth-332-6-sweet-analogy
+    tradition: ane-hittite
+    title: "Fragment: 'as ... is sweet, let the Storm god be sweet' (CTH 332.6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.6"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 332.6 §2:4-5", "CTH 332.6 §3:6-11"], note: "[ ... ] mi-li-id-du ... {d}IM-aš [mi-l]i-id-du-uš e-eš-du '(as honey) is sweet, let the Storm god be sweet'; {d}IM-aš iš-ta-an-za-na-a[š] 'the Storm god's soul'; parḫuena, [B]APPIR 'beer-bread'"}
+    hints:
+      - "Sweet as honey: compare God's words sweeter than honey (Ps 19:10, 119:103)."
+  - id: ane-cth-332-7-soothing-and-sheep
+    tradition: ane-hittite
+    title: Quenching analogy, the shaggy ram, soothing with food, 'highest of the high', purification and the sheep driven out (mugawar fragment 7, CTH 332.7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.7"]
+    tags:
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 332.7 §1:1-§2:8"], note: "ki-iš-nu-nu-un '(as) I have quenched'; {D}IM-na-ta ZI-KA QA-TAM-MA ku-li-ia-u-e-eš-du 'so may your soul, Storm god, become calm'; ḫa-tu-ga-a-tar 'terror', ša-a-u-wa-ar 'sullenness' KI.MIN"}
+      - {motif: analogic-spell-against-gods-anger, refs: ["CTH 332.7 §3:9-§4:17"], note: "[Ḫ]a-at-tu-ša-aš 'Hattusa'; a ram (UDU?) whose (breast is shaggy), SI.ḪI.A-ŠU wa-[ar-ḫu-iš] 'its horns rough'; so let the king and queen (be strong) with life and long years; ... QA-TAM-MA wa-ar-[ḫ]u-iš-du 'let (the lands) be thickly overgrown likewise'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.7 §5:18-22"], note: "NINDA.GUR4.RA.ḪI.A me-ma-al NINDA.Ì.E.DÉ.A TU7.ḪI.A; e-et e-ku 'eat, drink!'; pa-ra-a ka-la-[an-kán-za] e-eš 'be soothed'; LUGAL MUNUS.LUGAL QA-TAM-MA ták-ku-wa-an-[ta-ru]"}
+      - {motif: god-highest-of-the-high-foremost-of-foremost, refs: ["CTH 332.7 §5:23-§6:36"], note: "nu-uš pa-aḫ-ša-nu-an ḫar-ak 'keep them protected'; ša-ra-a-az-zi-ia-aš ša-ra-a-az-zi-iš ... ḫa-an-te-ez-zi-ia-ša-az ḫa-an-te-ez-zi-iš zi-i[k]; KUR {LÚ}KÚR 'the enemy land'"}
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.7 §7:37-§8:43"], note: "ak-ku-uš-ki-it 'drink (the water)'; nu-za {D}U šu-up-pí-ia-aḫ-ḫu-ut 'Storm god, purify yourself!'; ZI-KA an-da ku-ú-li-i-e-eš-du 'let your soul be calm'; a-aš-šu ša-ni-iz-zi ud-da-a-ar me-mi-iš-ki 'speak a good, fragrant word'"}
+      - {motif: sheep-driven-out-not-killed, refs: ["CTH 332.7 §8:44-45"], note: "nu-kán UDU pa-ra-a pé-en-na-an-zi ku-na-an-zi-ma-an-kán Ú-UL 'they drive the sheep out, but do not kill it'"}
+    hints:
+      - "A live animal driven out, not slaughtered, at the close of a rite of appeasement: compare the scapegoat sent alive into the wilderness (Lev 16:10, 21-22) and, by contrast, the ransom ram of Abraham, which is slaughtered (Q 37:107)."
+  - id: ane-cth-332-8-god-seated
+    tradition: ane-hittite
+    title: Vessels, table and the god's lord seating the Storm god (mugawar fragment 8, CTH 332.8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 332.8"]
+    tags:
+      - {motif: mugawar-invocation-with-offerings, refs: ["CTH 332.8 §1:1-§2:17"], note: "4 {DUG}iš-ga-a[n-] vessels, beer, wine, a table, a stand; ma-a-an {d}10-an a-š[a-ši] 'when he seats the Storm god'; BE-EL DINGIR-LIM mu-ga-[ ] 'the lord of the deity invokes'; ḫi-in-kat-ta 'bows'"}

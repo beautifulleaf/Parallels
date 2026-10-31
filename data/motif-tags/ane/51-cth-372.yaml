@@ -1,0 +1,178 @@
+# Full read, chunk 51: Hittite prayers CTH 372-383, read from hethiter.net / TLHdig editions.
+new_motifs:
+  sun-god-judges-dumb-animals: {label: "The sun god judges the legal case even of dog and pig and of the animals that cannot speak with the mouth", cluster: justice}
+  sun-god-father-and-mother-of-oppressed: {label: "The sun god is father and mother of the wronged and orphaned and makes good their case", cluster: justice}
+  sun-god-sent-as-messenger-to-angry-god: {label: "The petitioner asks the sun god, who reaches heaven and earth, to go to the angry god wherever he is and deliver the man's words", cluster: prayer}
+  sun-horses-fed-while-god-listens: {label: "Barley is poured for the sun god's four harnessed horses so that the god hears the prayer while they eat", cluster: cult}
+  fears-and-terrors-run-beside-god: {label: "Fears run at the god's right hand and terrors at his left", cluster: theophany}
+  sun-god-opens-gate-of-heaven: {label: "The door of heaven is opened for the sun god and he strides through the gate of heaven", cluster: cosmology}
+  sun-god-allots-offerings-to-gods: {label: "The sun god provides the gods, including the old (primeval) gods of the dark earth, with their offerings and portions", cluster: cult}
+  angry-god-turns-eyes-elsewhere: {label: "The angry god has turned his eyes aside to another place and no longer lets the man act", cluster: prayer}
+  sin-revealed-by-dream-seeress-or-liver: {label: "The sufferer asks that his offences be made known to him by dream, by a seeress or by liver omen, so that he can recognise them", cluster: divination}
+  illness-decreed-from-mothers-womb: {label: "The sufferer asks whether his god wrote his illness down for him from his mother's womb", cluster: fate}
+  sufferer-adrift-like-boat: {label: "The sufferer says he drifts like a boat on the river and does not know his destination", cluster: lament}
+  no-good-dream-at-night: {label: "At night in his bed no pleasant dream comes to the sufferer and his name does not appear for good", cluster: lament}
+  sufferer-shamed-at-kings-gate: {label: "The god has made the sufferer an ill-placed man at the king's gate, his case unsuccessful before men", cluster: lament}
+  god-restore-soul-as-at-birth: {label: "The god is asked to put back into the sufferer the soul he had when he was born from his mother", cluster: prayer}
+  gracious-acts-of-god-known-from-childhood: {label: "The worshipper asks which of his god's favours he has not known since childhood", cluster: prayer}
+  sufferer-protests-cultic-and-social-innocence: {label: "The sufferer protests that he never swore falsely or broke an oath, never ate what is holy to his god, never parted an ox or sheep from its pen, and never ate his bread or drank his water alone", cluster: prayer}
+  merchant-cheats-before-sun-yet-thrives: {label: "The merchant who falsifies the scales before the sun god is contrasted with the sufferer who has done nothing to his god", cluster: theodicy}
+  house-became-house-of-fear: {label: "Through illness the sufferer's house has become a house of fear and his soul drifts elsewhere", cluster: lament}
+  mortal-life-bound-to-death: {label: "Life is bound up with death and death with life; a child of mortality does not live forever", cluster: mortality}
+units:
+  - id: ane-cth-372-1-sun-hymn-epithets
+    tradition: ane-hittite
+    title: Hymn to the Sun god, opening epithets (CTH 372 §1-4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 372 §1:1-§4:33"]
+    tags:
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 372 §1:1", "CTH 372 §3:21-22"], note: "ḫandanza ḫanneššnaš išḫaš 'just lord of judgment'; no weariness for him at the place of judgment"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["CTH 372 §1:1"], note: "nepišaš daganzipašša LUGAL-ue 'king of heaven and earth'"}
+      - {motif: lapis-lazuli-beard, refs: ["CTH 372 §1:11"], note: "zamakurtet ŠA NA4.ZA.GÌN 'your beard is of lapis'"}
+      - {motif: sun-god-father-and-mother-of-oppressed, refs: ["CTH 372 §2:19", "CTH 372 §4:32-33"], note: "dammešḫandaš kurimmašša antuḫḫaš attaš annaš zik 'father and mother of the wronged and orphaned people'; also of the 'dark lands'"}
+      - {motif: father-of-orphans-judge-of-widows, refs: ["CTH 372 §4:32-33"]}
+      - {motif: sun-god-opens-gate-of-heaven, refs: ["CTH 372 §3:26-27"]}
+      - {motif: sun-god-allots-offerings-to-gods, refs: ["CTH 372 §3:23-25"], note: "karuiliyaš DINGIR.MEŠ 'the old gods' receive their share from him"}
+      - {motif: gods-kiss-feet-of-deity, refs: ["CTH 372 §4:28-31"], note: "gods of heaven and of earth are bowed down (kaninanteš) before him; not literally feet-kissing"}
+      - {motif: four-corners-of-the-earth, refs: ["CTH 372 §3:20"], note: "Enlil has put the land, the four corners (4 ḫalḫaltumari), in his hand"}
+    hints:
+      - "Compare Q 1:2-4 (Lord of the worlds, Master of the Day of Judgment) and Q 2:255 (no weariness in guarding heaven and earth) with 'no fatigue at the place of judgment' (§3:22)."
+      - "Compare Q 93:6-9 and Q 4:127 (orphans) and Ps 68:6 (father of orphans)."
+  - id: ane-cth-372-5-sun-judges-all-mediates
+    tradition: ane-hittite
+    title: The Sun judges beasts and men and is sent to the angry god (CTH 372 §5-8)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 372 §5:34-§8:74"]
+    tags:
+      - {motif: sun-god-judges-dumb-animals, refs: ["CTH 372 §5:36-38"], note: "UR.GI7-aš ŠAḪ-ašša ḫannešsar ḫannattari … šuppalanna … kuieš UL memiškanzi 'the case of dog and pig … of the animals which do not speak with the mouth'"}
+      - {motif: sun-god-judges-dead-in-underworld, refs: ["CTH 372 §5:35", "CTH 372 §8:64-65"], note: "his light reaches upper and lower lands; he apportions to the old gods in the dark earth"}
+      - {motif: god-turns-like-mother-or-cow-with-calf, refs: ["CTH 372 §5:40-43"], note: "the man whom the gods are angry with and neglect, the Sun cares for again and treats kindly"}
+      - {motif: sun-horses-fed-while-god-listens, refs: ["CTH 372 §6:47-53"], note: "mieuš 'the four' (horses) eat the barley poured out; 'you, Sun god, live!'"}
+      - {motif: fears-and-terrors-run-beside-god, refs: ["CTH 372 §6:55-56"], note: "naḫšarattes … weteremaš 'fears … terrors'"}
+      - {motif: gods-escort-king-on-road, refs: ["CTH 372 §7:60-61"], note: "Bunene and Mišaru, his viziers, walk at his right and left"}
+      - {motif: angry-god-turns-eyes-elsewhere, refs: ["CTH 372 §8:69-70"]}
+      - {motif: sun-god-sent-as-messenger-to-angry-god, refs: ["CTH 372 §8:71-74"], note: "māan nepiši mānaš takni … zik … paiši; it apēdani DINGIR-LIM-ni tet"}
+      - {motif: sacrificial-kid-and-staff-before-prayer, refs: ["CTH 372 §5:45"], note: "here bread and beer offered at the prayer; only partial fit"}
+    hints:
+      - "Compare Q 6:38 (animals are communities like you, gathered to their Lord) and Q 81:5 (beasts gathered) for judgment of the dumb animals."
+      - "The Sun as go-between to a distant angry god diverges from Q 2:255 and Q 39:44 (intercession belongs to God alone); compare Job 33:23."
+  - id: ane-cth-372-9-sufferer-plea
+    tradition: ane-hittite
+    title: The man's plea to his personal god, illness and unknown sin (CTH 372 §9-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 372 §9:75-§19:179"]
+    tags:
+      - {motif: devoted-to-god-from-childhood, refs: ["CTH 372 §9:75-80"], note: "since my mother bore me you have raised me; you called me your servant of body and soul"}
+      - {motif: gracious-acts-of-god-known-from-childhood, refs: ["CTH 372 §9:81-82"]}
+      - {motif: sin-revealed-by-dream-seeress-or-liver, refs: ["CTH 372 §12:109-119"], note: "fragmentary: wašdulmet 'my offences' … zašḫiya 'in a dream' … IŠTU UZU.NÍG.GIG 'from a liver' … nezan ganešmi 'that I recognise them'; dammeli- restored as 'virgin (seeress)'"}
+      - {motif: sufferer-confesses-unknown-sins, refs: ["CTH 372 §12:118-119"]}
+      - {motif: personal-god-is-mans-shepherd, refs: ["CTH 372 §13:121"], note: "Sun as LÚ.SIPA 'shepherd' of all"}
+      - {motif: wrath-then-mercy, refs: ["CTH 372 §13:123-128"], note: "the god who became angry and rejected me shall care for me again and keep me alive"}
+      - {motif: false-scales-punished-honest-scales-rewarded, refs: ["CTH 372 §16:141-142"], note: "fragmentary: before the Sun ... the scales (GIŠelzi) ... falsifies the scales; context lost"}
+      - {motif: no-good-dream-at-night, refs: ["CTH 372 §18:150-152"]}
+      - {motif: illness-decreed-from-mothers-womb, refs: ["CTH 372 §18:153-154"], note: "annaz kartaz … gulašta 'from the mother's womb you wrote (it) down'; illness restored in the gap"}
+      - {motif: sufferer-shamed-at-kings-gate, refs: ["CTH 372 §18:156-159"]}
+      - {motif: my-god-you-are-my-father, refs: ["CTH 372 §18:160-163"], note: "zik=ma=mu=za DINGIR-YA attaš … annaš … NU.GÁL 'you are my father; a mother I have not'; restored 'you bore me like a mother'"}
+      - {motif: goddess-as-mother-and-father-of-king, refs: ["CTH 372 §18:160-163"]}
+      - {motif: sufferer-adrift-like-boat, refs: ["CTH 372 §19:173-175"], note: "kuwapi aršmi … pedemit UL šakḫi 'where I flow, I do not know my place'; MÁ GIM 'like a boat'"}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["CTH 372 §18:167", "CTH 372 §19:177"]}
+    hints:
+      - "Compare Q 7:23 and Q 28:16 (confession: 'we have wronged ourselves') with asking to be shown one's sin; and Ps 19:13, Ps 139:23-24 ('search me')."
+      - "Compare Q 57:22 (no affliction but it is in a Book before we create it) with illness 'written from the womb' (§18:153)."
+      - "Compare Ps 27:10 ('father and mother forsake me, YHWH takes me in') and Ps 22:10-11 (from the womb you are my God)."
+  - id: ane-cth-372-20-praise-and-soothing
+    tradition: ane-hittite
+    title: Vow of praise, enemies, the soothing words of invocation (CTH 372 §20-27)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 372 §20:180-§27:211"]
+    tags:
+      - {motif: friends-turned-enemies, refs: ["CTH 372 §20:182-183"], note: "ḫanteš arišša 'my first ones and companions' … beat me"}
+      - {motif: wrath-then-mercy, refs: ["CTH 372 §20:184-187"], note: "offence and anger are yours, my god; if you are evil toward me what man am I"}
+      - {motif: prayer-is-cool-water-for-the-heart, refs: ["CTH 372 §25:207"], note: "mukišnaš uddār … ekunaz wetenaz maḫḫan ŠÀ-it waršanuddu 'these words of invocation shall soothe your heart as with cool water'"}
+      - {motif: god-restore-soul-as-at-birth, refs: ["CTH 372 §26:208-210"]}
+      - {motif: tablet-of-guilt-broken, refs: ["CTH 372 §24:202-204"], note: "wašdul … arḫa lāi 'release the offence'; only partly a fit"}
+      - {motif: scribal-colophon, refs: ["CTH 372 §27:211"], note: "only 'finished' survives; the data line is garbled with the edition's footnotes"}
+    hints:
+      - "Compare Ps 6:6 and Ps 30:10 (vow to praise if saved) and Q 21:83-84 (Job's plea answered)."
+  - id: ane-cth-373-1-kantuzzili-prayer
+    tradition: ane-hittite
+    title: Kantuzzili's prayer to the Sun god (CTH 373)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Kantuzzili's version of the prayer also known from CTH 372"
+    read: ["CTH 373 §1:1-§13':103"]
+    tags:
+      - {motif: angry-god-turns-eyes-elsewhere, refs: ["CTH 373 §1:2-4"]}
+      - {motif: sun-god-sent-as-messenger-to-angry-god, refs: ["CTH 373 §1:5-8"]}
+      - {motif: devoted-to-god-from-childhood, refs: ["CTH 373 §2:9-14"]}
+      - {motif: gracious-acts-of-god-known-from-childhood, refs: ["CTH 373 §2:15-16"]}
+      - {motif: sufferer-protests-cultic-and-social-innocence, refs: ["CTH 373 §3:19-§4:29"], note: "UL kuššanka linkun 'I never swore falsely'; šuppi … UL edun 'what is holy I never ate'; NINDA-an … AḪITIYA natta … edun 'bread I never ate by myself'"}
+      - {motif: did-not-eat-morsel-alone, refs: ["CTH 373 §4:26-29"]}
+      - {motif: negative-confession-before-divine-judges, refs: ["CTH 373 §3:19-23"], note: "a living man's protestation, not before judges of the dead"}
+      - {motif: mortal-life-bound-to-death, refs: ["CTH 373 §5:34-40"], note: "ḫuišwatar … ḫinkani ḫaminkan 'life is bound to death'; dandukišnaš DUMU-aš uktūri natta ḫuišwanza 'a child of mortality does not live for ever'"}
+      - {motif: only-gods-live-forever-mans-days-numbered, refs: ["CTH 373 §5:37"], note: "ḫuišwannaš UD.ḪI.A-ŠU kappuwanteš 'the days of his life are counted'"}
+      - {motif: sin-revealed-by-dream-seeress-or-liver, refs: ["CTH 373 §6:41-52"], note: "zašḫiya memau … MUNUS.ENSI memau … LÚ.AZU IŠTU UZU.NÍG.GIG memau; refrain nezan ganešmi 'that I may recognise them'"}
+      - {motif: sufferer-confesses-unknown-sins, refs: ["CTH 373 §6:42-43"]}
+      - {motif: wrath-then-mercy, refs: ["CTH 373 §8:56-61", "CTH 373 §9:66-67"], note: "the god who gave me the illness shall again be kind; his anger shall be extinguished in his heart"}
+      - {motif: what-have-i-done-to-my-god, refs: ["CTH 373 §10:75-82"], note: "line §10:77 ('you made me') has no Hittite in the data, only translation"}
+      - {motif: merchant-cheats-before-sun-yet-thrives, refs: ["CTH 373 §10:80-82"], note: "LÚ.DAM.GÀR … GIŠ.elzi maršanuzzi 'the merchant falsifies the scales'"}
+      - {motif: house-became-house-of-fear, refs: ["CTH 373 §11:83-88"]}
+      - {motif: no-good-dream-at-night, refs: ["CTH 373 §12:89-90"]}
+      - {motif: illness-decreed-from-mothers-womb, refs: ["CTH 373 §12:92-93"], note: "annaz=ma kartaz ki inan gulašta 'from the womb you wrote this illness'"}
+      - {motif: sufferer-shamed-at-kings-gate, refs: ["CTH 373 §13:96-99"]}
+      - {motif: my-god-you-are-my-father, refs: ["CTH 373 §13:101-102"], note: "my mother is not there for me; you are …; broken"}
+    hints:
+      - "Compare Job 31:17 (ate my morsel alone) and Job 31 as a whole oath of innocence; Q 76:8 (feeding the needy) and Q 107:1-7."
+      - "Compare Q 83:1-3 and Q 55:9 (those who give short measure) with the cheating merchant before the Sun."
+      - "Compare Q 3:185 and Q 21:34-35 (every soul tastes death; no mortal given eternity) with 'a child of mortality does not live forever'."
+      - "Compare Ps 39:5 and Ps 90:12 (number our days)."
+  - id: ane-cth-374-1-king-hymn-to-sun
+    tradition: ane-hittite
+    title: A king's prayer to the Sun god, hymnic part (CTH 374 §1-21)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: "Royal version of the hymn in CTH 372-373"
+    read: ["CTH 374 §1:1-§21:45"]
+    tags:
+      - {motif: sun-god-judge-of-gods, refs: ["CTH 374 §5:11-12"], note: "lines §1:1-2 have no Hittite in the data, only the edition's restored translation"}
+      - {motif: sun-god-father-and-mother-of-oppressed, refs: ["CTH 374 §4:9", "CTH 374 §10:21", "CTH 374 §11:22"], note: "KUR-eaš ḫumandaš attaš annaš zik 'father and mother of all lands'; kurimmaš wannummiyašša 'of orphans and the lonely'"}
+      - {motif: sun-god-allots-offerings-to-gods, refs: ["CTH 374 §6:14-15"]}
+      - {motif: sun-god-opens-gate-of-heaven, refs: ["CTH 374 §7:16-17"]}
+      - {motif: sun-god-judges-dumb-animals, refs: ["CTH 374 §12:25-§13:28"]}
+      - {motif: sun-horses-fed-while-god-listens, refs: ["CTH 374 §16:35-§18:40"]}
+      - {motif: fears-and-terrors-run-beside-god, refs: ["CTH 374 §20:42-43"]}
+      - {motif: gods-escort-king-on-road, refs: ["CTH 374 §21:44-45"], note: "Bunene and Mišaru the viziers at right and left"}
+    hints:
+      - "Compare Q 6:38 and Ps 68:6 as for CTH 372."
+  - id: ane-cth-374-22-king-plea
+    tradition: ane-hittite
+    title: The sick king's plea through the Sun to his god (CTH 374 §22-44)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 374 §22:46-§44:114"]
+    tags:
+      - {motif: sun-god-sent-as-messenger-to-angry-god, refs: ["CTH 374 §23:48-§24:51"], note: "the god who gave this illness (ki inan paiš), whether in heaven or earth"}
+      - {motif: what-have-i-done-to-my-god, refs: ["CTH 374 §24:52-§25:56"], note: "šamnaeš=mu zik … dandukišnan iyaš 'you created me, you made (me) a mortal'"}
+      - {motif: merchant-cheats-before-sun-yet-thrives, refs: ["CTH 374 §26:57-59"]}
+      - {motif: house-became-house-of-fear, refs: ["CTH 374 §27:60-§28:62"]}
+      - {motif: no-good-dream-at-night, refs: ["CTH 374 §30:67-68"]}
+      - {motif: illness-decreed-from-mothers-womb, refs: ["CTH 374 §31:70-71"], note: "annaz kartaz aššu UL gulašta 'from the womb wrote nothing good'"}
+      - {motif: my-god-you-are-my-father, refs: ["CTH 374 §33:78-§34:80"], note: "attaš … annaš iwar 'like a father … like a mother'"}
+      - {motif: sin-loosed-like-bond, refs: ["CTH 374 §35:83", "CTH 374 §41:106"], note: "wašdulaš kattan arḫa išḫiyandan LÚ-an māan arḫa lā 'release me like a man bound to his offences'; 7-ŠU wašdul 'seven times the offence'"}
+      - {motif: sufferer-adrift-like-boat, refs: ["CTH 374 §37:88-91"], note: "wātar maḫḫan … aršmi 'I flow like water'; GIŠ.MÁ maḫḫan … ḫatantiya 'like a ship until I reach the shore'"}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["CTH 374 §35:84-85", "CTH 374 §38:93"]}
+    hints:
+      - "Compare Ps 22:15 ('poured out like water') and Ps 107:23-30 (seafarers brought to the haven)."
+      - "Compare Q 6:63-64 and Q 10:22 (God saves from the darknesses of land and sea)."
+      - "§39:97 mentions Arzawa being humbled: a historical allusion in a royal prayer."

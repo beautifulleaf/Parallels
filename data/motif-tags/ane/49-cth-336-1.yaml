@@ -1,0 +1,430 @@
+# Full read, chunk 49: CTH 336 (Inara myths) - CTH 346 (Kumarbi fragments). Read from hethiter.net / TLHdig (Rieken et al.), Hittite with the edition's German translation.
+new_motifs:
+  bee-sent-by-goddess-to-find-or-fetch: {label: "A mother goddess (Hannahanna) sends a bee to search for a missing deity or to fetch an object", cluster: vanishing-god}
+  goddess-sends-message-by-horn: {label: "A goddess is told to take a goat's horn and send a message (signal) with it", cluster: vanishing-god}
+  land-empty-no-man-no-cattle: {label: "The land is found empty: no one finds a man, cattle or sheep", cluster: vanishing-god}
+  war-god-kills-ploughmen: {label: "A war god kills the ploughmen and drives off the cattle", cluster: vanishing-god}
+  cleanse-yourself-like-a-garment: {label: "Incantation simile: 'cleanse yourself like a garment'", cluster: ritual}
+  not-my-words-but-the-goddess-words: {label: "The ritualist declares 'not my words; they are the words of (a goddess)', ascribing the spell to a deity", cluster: ritual}
+  incantation-of-life-for-fearful-heart: {label: "An 'incantation of life' for when a person's inner self is afraid", cluster: ritual}
+  goddess-makes-three-springs: {label: "A goddess makes three springs, each marked by a different object (a plant above, a bowl below, a burning fire)", cluster: vanishing-god}
+  goddess-promises-land-and-husband: {label: "A mother goddess tells a young goddess to sit still and promises her a land and a husband", cluster: vanishing-god}
+  father-god-worries-for-daughter: {label: "The storm god is anxious about his missing daughter and sends a searcher", cluster: vanishing-god}
+  stone-commanded-to-become-nurse: {label: "A goddess finds a stone and commands it: 'become a nurse!'", cluster: vanishing-god}
+  war-god-told-to-go-to-battle-yearly: {label: "The war god is told to go into battle year after year", cluster: kingship}
+  weapons-blunted: {label: "The god's weapons become blunt", cluster: vanishing-god}
+  city-of-nurse-destroyed: {label: "A god destroys the city of a (divine) nurse", cluster: vanishing-god}
+  god-promises-reward-for-fetching-eagle: {label: "A goddess asks who will bring back a god's eagle from a far city and promises rich reward", cluster: myth}
+  assembly-praises-god: {label: "A god's great ones take the road and the assembly and begin to praise a god", cluster: cult}
+  god-grows-drowsy: {label: "A god becomes heavy and drowsy (sleepy)", cluster: theology}
+  rejected-seductress-threatens: {label: "The goddess whose advances were refused threatens the young god: 'be behind me ... I will press you down with my words, pierce you with my spindle'", cluster: seduction}
+  young-god-reports-wifes-advances-to-husband: {label: "The young god goes to the elder god's tent and reports that the elder god's wife tried to seduce him", cluster: seduction}
+  husband-tells-guest-to-humiliate-wife: {label: "The elder god tells the young god to go and humiliate his own wife", cluster: seduction}
+  storm-god-kills-goddess-77-88-children: {label: "The storm god taunts a goddess: 'I killed your 77 children, I killed 88'", cluster: seduction}
+  goddess-mourns-seven-years: {label: "A grieving goddess installs mourners and laments for seven years", cluster: mourning}
+  husband-hands-guest-to-vengeful-wife: {label: "The elder god allows his wife to treat the young god as she wishes", cluster: seduction}
+  goddess-transforms-to-eavesdrop: {label: "A goddess turns into a cup in a god's hand and into a bird (owl) on his wall to overhear husband and wife", cluster: seduction}
+  goddess-flies-to-warn-god-of-plot: {label: "A goddess flies like a bird over the desert, finds the endangered god and warns him", cluster: seduction}
+  god-stripped-of-senses: {label: "A god takes from a victim the hair of his head, the sight of his eyes and the hearing of his ears", cluster: seduction}
+  god-purified-of-perjury-and-curse: {label: "Incantation priests (of Amurru and elsewhere) purify a god from perjury, anger, sacrilege and evil words", cluster: ritual}
+  god-lord-of-dreams-son-of-dark-earth: {label: "A god is invoked as Lord of the dream, son of the dark earth, who holds out bad dreams, short months and days", cluster: ritual}
+  stars-of-gods-summoned-to-wash-anoint-eat: {label: "The stars of named gods are summoned to come, wash in this water, anoint with oil, eat bread and drink wine", cluster: ritual}
+  analogic-wish-lands-inclined-to-king: {label: "Analogy: as everything is inclined to the storm god, so may all lands be inclined to the king and queen", cluster: ritual}
+  war-god-joins-spear-bow-evil-and-sorcery: {label: "The war god Zababa joins together spear, bow, evil and sorcery", cluster: ritual}
+  arrows-strike-goddess-breast: {label: "A god's arrows strike a goddess in her breast", cluster: kingship}
+  god-seizes-reins-from-storm-god: {label: "A god takes the bridle (donkey halter) out of the storm god's hand", cluster: kingship}
+  god-made-king-of-heaven-by-elder-gods: {label: "The elder gods (Ea, Kumarbi) make a god king in heaven", cluster: kingship}
+  golden-age-no-wolves-no-thieves-beer-rain: {label: "Under a divine king there are no storms, wolves or thieves; instead of rain it rains beer, and beer and wine flow in the valleys", cluster: kingship}
+  arrogant-god-king-neglects-elders: {label: "The new king of heaven, grown hostile, will not go to meet and bow to the elder gods, and his words are borne off by the winds", cluster: kingship}
+  under-bad-divine-king-no-offerings-to-gods: {label: "Because the king of heaven is hostile, the lands too become hostile and no one gives the gods bread and libation", cluster: kingship}
+  god-deposed-from-heavenly-kingship: {label: "A god who was made king in heaven is deposed from the kingship", cluster: kingship}
+  messenger-sent-to-netherworld-gods: {label: "A high god sends his vizier down into the dark earth with a message to primeval gods (Nara, Napšara)", cluster: underworld}
+  animals-of-earth-roused-against-god: {label: "A god is told to stir up all the animals of the earth against a rival", cluster: kingship}
+  deposed-god-mutilated: {label: "The deposed god is trampled and cut on his back and shin by the storm god and his vizier", cluster: kingship}
+  primeval-gods-summoned-to-hear-song: {label: "A song opens by calling the primeval gods (Nara, Napšara, Minki, Ammunki, Ellil, Ninlil) to listen", cluster: theogony}
+  succession-of-kings-in-heaven: {label: "Kingship in heaven passes by violence from one generation of gods to the next (Alalu, Anu, Kumarbi, the storm god)", cluster: theogony}
+  cupbearer-god-overthrows-king: {label: "The god who bows at the heavenly king's feet and hands him his cup rises against him", cluster: theogony}
+  divine-reign-of-nine-years: {label: "A god reigns in heaven nine (counted) years before being challenged in the ninth year", cluster: theogony}
+  defeated-god-flees-to-dark-earth: {label: "The defeated heavenly king flees down into the dark earth", cluster: theogony}
+  god-dragged-down-from-heaven-by-feet: {label: "The fleeing god is seized by the feet and dragged down from heaven", cluster: theogony}
+  god-bites-off-predecessors-genitals: {label: "A god bites off his rival's genitals and swallows his manhood", cluster: theogony}
+  male-god-made-pregnant: {label: "A male god is made pregnant with gods (by swallowing seed) and carries them in his body", cluster: theogony}
+  defeated-god-foretells-avengers: {label: "The defeated god tells his victor: do not rejoice; I have placed in you terrible gods who will bring you to grief", cluster: theogony}
+  swallowed-seed-spat-out-received-by-mountain: {label: "The swallower spits out part of what he swallowed and a mountain receives the feared god", cluster: theogony}
+  unborn-gods-debate-way-out: {label: "The gods inside the pregnant god speak and debate by which opening to come out", cluster: theogony}
+  god-endowed-with-gifts-of-other-gods: {label: "A god says: earth gives me strength, heaven heroism, Anu manhood, Kumarbi wisdom, each god a gift", cluster: theogony}
+  god-born-from-skull: {label: "A god is born by breaking open his father's skull and coming out of his head", cluster: theogony}
+  father-god-demands-son-to-devour: {label: "The father god demands to be given his son so that he may devour him", cluster: theogony}
+  god-bites-on-stone-breaks-teeth: {label: "The father god begins to eat and a (diorite) stone breaks the teeth in his mouth", cluster: theogony}
+  stone-cult-founded-rich-and-poor-offer: {label: "A stone is set up and named for worship: the rich shall slaughter cattle and sheep to it, the poor offer meal", cluster: cult}
+  earth-bears-sons-of-divine-seed: {label: "The earth, made pregnant by the gods' seed, goes into labour and bears sons", cluster: theogony}
+  storm-god-boasts-none-left-to-fight: {label: "The victorious storm god boasts of the gods he has defeated: who will still fight against me?", cluster: theogony}
+  scribal-colophon-copied-from-worn-tablet: {label: "Colophon: the tablet was worn and the scribe recopied it in the presence of his master", cluster: scribal}
+  song-proem-i-sing-of-god: {label: "Proem of a song: 'I sing of (the god)'", cluster: theogony}
+  father-god-raises-rival-against-storm-god: {label: "The father of the gods plans evil and raises a rival (tarpanalli) against the storm god", cluster: theogony}
+  god-takes-staff-and-wind-shoes: {label: "Travel formula: the god takes a staff in his hand and puts on his feet shoes, the swift winds", cluster: theogony}
+  god-mates-with-rock: {label: "A god lusts for a huge rock in a pool and sleeps with it repeatedly, begetting a stone child", cluster: theogony}
+  drinking-counted-to-seven: {label: "Feast formula: they drank once, twice ... seven times", cluster: theogony}
+  newborn-set-on-fathers-knees: {label: "Fate goddesses and mother goddesses set the newborn on its father's knees, and he rejoices and rocks it", cluster: theogony}
+  son-named-for-destructive-purpose: {label: "The father names his son for the destruction he is to work (Ullikummi, 'destroy Kummiya')", cluster: theogony}
+  son-destined-to-scatter-gods-from-heaven: {label: "The son is destined to go up to kingship in heaven, crush the storm god like chaff and an ant, and pour all the gods out of heaven like birds", cluster: theogony}
+  child-hidden-in-netherworld-from-gods: {label: "The child is hidden in the dark earth so that the sun, moon, storm god and Ishtar may not see and kill it", cluster: theogony}
+  monster-grows-on-world-bearers-shoulder: {label: "The stone child is set like a spear on the right shoulder of the giant who bears the world (Upelluri), and grows there", cluster: theogony}
+  monster-grows-cubit-a-day: {label: "The monster grows a cubit a day and an acre (IKU) a month", cluster: theogony}
+  monster-grows-to-reach-heaven: {label: "The stone monster grows out of the sea until it reaches the temples and chambers of heaven", cluster: theogony}
+  monsters-body-unlike-gods: {label: "Seeing the monster, a god says: its body does not match that of the gods", cluster: theogony}
+  host-asks-if-servants-at-fault: {label: "When the guest will not sit, eat or drink, the host asks whether the chamberlain, table servant or cupbearer was at fault", cluster: hospitality}
+  storm-god-weeps-tears-like-canals: {label: "A god (or the Sea) sits on the ground and weeps, tears flowing like canals", cluster: mourning}
+  goddess-sings-to-charm-monster: {label: "A goddess adorns herself, plays instruments and sings by the sea to charm a monster, but it is deaf and blind", cluster: seduction}
+  wave-speaks-to-goddess: {label: "A great wave rises from the sea and speaks to the goddess", cluster: theogony}
+  storm-gods-bulls-seri-and-tella: {label: "The storm god's bulls Šeri(šu) and Tella are fetched, horns anointed, tail gilded, for his battle wagon", cluster: theogony}
+  storm-weapons-summoned: {label: "The storm god orders rains, winds and the terrible lightning brought out of the bedchamber for battle", cluster: theogony}
+  seventy-gods-fall-into-sea: {label: "In battle against the monster seventy gods are hurled down into the sea", cluster: theogony}
+  monster-shakes-and-tears-heaven: {label: "The monster shakes heaven and tears it like an empty garment", cluster: theogony}
+  monster-of-nine-thousand-miles: {label: "The monster's height and breadth are nine thousand miles", cluster: theogony}
+  goddess-cut-off-in-temple: {label: "The monster shuts the goddess in her temple so that she hears no word of her husband and the gods", cluster: theogony}
+  queen-nearly-falls-from-roof: {label: "The goddess watching from the roof nearly falls; her maids hold her", cluster: theogony}
+  no-king-left-in-heaven: {label: "Lament of the defeated gods: there will be no king in heaven", cluster: theogony}
+  gods-consult-ancient-tablets: {label: "The gods go to ask about the tablets of the ancient words (and open the old sealed storehouses of the fathers)", cluster: theogony}
+  graded-prostrations-before-god: {label: "Visitors bow five times at the outer doors, five at the inner doors and fifteen times before the god himself", cluster: cult}
+  suppliant-kisses-knees-and-soles: {label: "A suppliant kisses a god's knees three times and the soles of his feet four times", cluster: cult}
+  world-bearer-unaware-of-creation: {label: "The world-bearing giant says: when heaven and earth were built on me, and when they were cut apart, I noticed nothing; now something pains my shoulder", cluster: creation}
+  primeval-cutting-tool-reused-against-monster: {label: "The ancient copper tool with which heaven and earth were cut apart is brought out to cut the monster off at its feet", cluster: creation}
+  dead-seen-standing-like-dust: {label: "A god is distressed at having seen the dead in the dark earth, standing like dust", cluster: underworld}
+  gods-bellow-at-monster: {label: "All the gods assemble and bellow at the monster like cattle", cluster: theogony}
+  monster-boasts-to-take-heavenly-kingship: {label: "The monster declares he will go up to kingship in heaven, take the city and the holy temples and pour the gods out of heaven", cluster: theogony}
+  god-born-of-dark-earth-boasts-endowments: {label: "A god boasts that the dark earth bore him, that he drew earth and heaven seven times, and that he holds Anu's manhood and Nara's wisdom", cluster: theogony}
+  sea-complains-of-biting-creatures: {label: "The weeping Sea complains that creatures, dogs and pigs bite and gnaw its limbs", cluster: theogony}
+  mountain-in-labour-after-stranger: {label: "A mountain that was not fated to bear goes into labour after a stranger lay with it; all the mountains come to look", cluster: theogony}
+  sea-floods-rise-to-stars: {label: "The sea's floods cover the land and rise up to the sun, moon and stars", cluster: flood}
+  gods-pay-tribute-to-sea: {label: "The gods acknowledge the Sea and throw tribute of gems, silver and gold into the water", cluster: theogony}
+  gods-seek-the-throne: {label: "The gods (and the Sea) search for the throne", cluster: theogony}
+  outcome-decreed-by-fate-goddesses: {label: "The gods say: it was not our decision; it was made by our fate goddesses", cluster: fate}
+  sinner-renounces-sin-praises-goddess: {label: "A woman questioned by a divine messenger gives up her sin and praises the goddess", cluster: cult}
+  god-ritually-washed: {label: "A god is washed in a purification rite", cluster: ritual}
+units:
+  - id: ane-cth-336-1-inara-bee-zababa
+    tradition: ane-hittite
+    title: Inara myth with ritual for Zababa; Hannahanna's bee; Kamrušepa's words (CTH 336.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 336.1"]
+    tags:
+      - {motif: bee-sent-by-goddess-to-find-or-fetch, refs: ["CTH 336.1 §7:29", "CTH 336.1 §8:36"], note: "DINGIR.MAḪ NIM.LÀL-an A-N[A ...]: Hannahanna (sent) the bee to (Inara); the name Inara is restored in the translation"}
+      - {motif: goddess-sends-message-by-horn, refs: ["CTH 336.1 §8:37-39"], note: "SI.UZ₆-wa-za d[a-]... ḫa-lu-ga-an i-ya: 'take the goat horn ... make a message'"}
+      - {motif: land-empty-no-man-no-cattle, refs: ["CTH 336.1 §8:50", "CTH 336.1 §9:56"], note: "Ú-UL ku-iš-ki: largely restored in the translation"}
+      - {motif: war-god-kills-ploughmen, refs: ["CTH 336.1 §8:43-45", "CTH 336.1 §9:58-60"], note: "{d}ZA-BA₄-BA₄-aš IŠ-ME ša-an na-aḫ-ta ... {LÚ.MEŠ}APIN.LÁ-kán ku-en-ta"}
+      - {motif: cleanse-yourself-like-a-garment, refs: ["CTH 336.1 §13:80"], note: "TÚG-aš ma-a-an šu-up-pí-ya-aḫ-ḫu-ut"}
+      - {motif: not-my-words-but-the-goddess-words, refs: ["CTH 336.1 §14:82-83"], note: "Ú-UL am-me-el ud-da-a-ar {d}kam-ru-še-pa-aš ud-da-a-a[r]"}
+      - {motif: incantation-of-life-for-fearful-heart, refs: ["CTH 336.1 §15:84-85"], note: "AN-NU-Ú ŠI-PÁT ZI-TI; ŠUM-MA ŠÀ.BA LÚ-LIM I-PA-LA-AḪ"}
+    hints:
+      - "The bee as divinely guided creature: compare Q 16:68-69 (your Lord inspired the bee). The bird or insect sent on an errand: compare the hoopoe, Q 27:20-22."
+      - "Ascribing a spell to a deity's words: contrast Q 2:102 (magic taught by devils, not by Solomon) and Q 113-114 (refuge sought with God alone)."
+  - id: ane-cth-336-2-hannahanna-three-springs
+    tradition: ane-hittite
+    title: Hannahanna, the bee, the fleece and the three springs (CTH 336.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 336.2"]
+    tags:
+      - {motif: bee-sent-by-goddess-to-find-or-fetch, refs: ["CTH 336.2 §6:22-23", "CTH 336.2 §7:31-32"], note: "pa-it NIM.LÀL-aš na-an ar-nu-ut {KUŠ}ku-úr-ša-a[n]: the bee went and brought the fleece"}
+      - {motif: goddess-makes-three-springs, refs: ["CTH 336.2 §6:25-28"], note: "3 wa-at-ta-ru i!-e-et: an īppia plant above one, a bowl below the next, fire burning at the third"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 336.2 §7:32-34"], note: "the fleece (kurša) is laid in the bowl and the goddess Miyadanzipa sits under the īppia plant; approximate fit"}
+      - {motif: goddess-makes-three-springs, refs: ["CTH 336.2 §8:35-38", "CTH 336.2 §10:48", "CTH 336.2 §11:52"], note: "aftermath at the bowl: 'something extraordinarily good'; ar-ma-aḫ-ḫe-er 'they impregnated' survives in broken context, subject lost (§9-11)"}
+    hints:
+      - "Springs made by a deity: compare Q 2:60 (twelve springs from the rock) and Q 19:24-25 (stream under Mary). The fleece: compare Judg 6:36-40."
+  - id: ane-cth-336-3-inara-promised-land-and-man
+    tradition: ane-hittite
+    title: Hannahanna promises Inara a land and a husband; the storm god sends the bee (CTH 336.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 336.3"]
+    tags:
+      - {motif: goddess-promises-land-and-husband, refs: ["CTH 336.3 §4:16", "CTH 336.3 §5:17-18"], note: "ka-a-pát-wa-za e-eš ... ú-uk-ta pé-eḫ-ḫi ut-né-e LÚ-na-an-na-ta pé-eḫ-ḫi"}
+      - {motif: father-god-worries-for-daughter, refs: ["CTH 336.3 §5:19-21", "CTH 336.3 §5:25"], note: "{d}10-aš {d}LAMMA-an kap-pu-u-wa-a-et; Inara is written with the logogram {d}LAMMA"}
+      - {motif: bee-sent-by-goddess-to-find-or-fetch, refs: ["CTH 336.3 §5:20-23"], note: "here the storm god sends the bee, and it finds Hannahanna"}
+      - {motif: eya-tree-with-hanging-fleece, refs: ["CTH 336.3 §6:26-28"], note: "Hannahanna takes the thighs of every animal and throws them into the fleece; loose fit (fleece as container of blessings)"}
+    hints:
+      - "A father's anxiety for a lost child: compare Q 12:84-86 (Jacob grieving for Joseph)."
+  - id: ane-cth-336-4-bee-wax
+    tradition: ane-hittite
+    title: Hannahanna sends the bee; 'take wax' (CTH 336.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 336.4"]
+    tags:
+      - {motif: bee-sent-by-goddess-to-find-or-fetch, refs: ["CTH 336.4 §3:6-11"], note: "{d}ḫa-an-na-ḫa-an-na-a[š N]IM.LÀL pi-[i-e-et] ... ša-an-ḫa: 'search!'"}
+      - {motif: simile-curse-just-as-so-may, refs: ["CTH 336.4 §3:14-15", "CTH 336.4 §4:16-17"], note: "nu-wa-az DUḪ.LÀL da-a: 'take wax' for the head; wax is the bee's healing substance in the Telipinu texts. Interpretive: the analogy itself is lost"}
+    hints:
+      - "Compare Q 16:69 (from the bees' bellies a drink in which there is healing)."
+  - id: ane-cth-336-5-stone-nurse-zababa-battle
+    tradition: ane-hittite
+    title: Hannahanna makes a stone a nurse; Zababa sent to war year by year (CTH 336.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 336.5"]
+    tags:
+      - {motif: stone-commanded-to-become-nurse, refs: ["CTH 336.5 §5:22-24"], note: "pa-it {NA4}pé-e-ru ú-e-mi-et ... e-ḫu ... {MUNUS}ḫar-wa-an-za ki-iš-ḫu-ut"}
+      - {motif: war-god-told-to-go-to-battle-yearly, refs: ["CTH 336.5 §8:40-44"], note: "[MU{KAM}]-ti MU{KAM}-ti la-aḫ-ḫa pa-iš-ka-aḫ-ḫu-[ut]; the first 'year' is restored"}
+      - {motif: war-god-told-to-go-to-battle-yearly, refs: ["CTH 336.5 §10:50-52"], note: "the sun god ... [l]a-aḫ-ḫa an-da 'into battle'; broken"}
+    hints:
+      - "Kings going out to war at the turn of the year: compare 2 Sam 11:1."
+  - id: ane-cth-336-6-nurse-city-destroyed
+    tradition: ane-hittite
+    title: Weapons grow blunt; the nurse's city destroyed (CTH 336.6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 336.6"]
+    tags:
+      - {motif: weapons-blunted, refs: ["CTH 336.6 §3:19-20"], note: "ta-am-pu-e-eš-ta: 'became blunt'"}
+      - {motif: city-of-nurse-destroyed, refs: ["CTH 336.6 §5:43"], note: "ŠA {MUNUS}ÙMMEDA URU-an ḫar-n[i-ik-]"}
+      - {motif: goddess-sends-message-by-horn, refs: ["CTH 336.6 §5:38-39"], note: "Ú-UL-w[a ...] {d}LAMMA ḫa-lu-kán i-ya-at: 'Inara sent no message'"}
+      - {motif: city-of-nurse-destroyed, refs: ["CTH 336.6 §1:10-14"], note: "'go, instruct the nurse'; 'the birds with cattle and sheep ... and the nurse'; the ox-and-sheep simile at §1:7-9 is too broken to tag"}
+    hints:
+      - "Compare Isa 1:3 (the ox knows its owner)."
+  - id: ane-cth-337-1-pirwa-eagle
+    tradition: ane-hittite
+    title: The Queen of the gods asks who will bring back Pirwa's eagle (CTH 337.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 337.1"]
+    tags:
+      - {motif: god-promises-reward-for-fetching-eagle, refs: ["CTH 337.1 §4:5", "CTH 337.1 §5:6-7"], note: "ku-iš-wa-ra-an ḫa-ra-an {d}pí-ir-wa[-aš] [{U]}RUḫa-aš-šu-wa-za ú-wa-te-ez-[zi] ... a-aš-ši me-ek-ki a-aš-šu pí-ya-u-e-ni"}
+      - {motif: assembly-praises-god, refs: ["CTH 337.1 §7:10-11", "CTH 337.1 §8:12-13"], note: "tu-li-ya-an ... wa-lu-uš-ki-u-wa-an ti-i-e-er; {d}i-la-li-iš-wa-za wa-lu-ut-ta-a[t]"}
+    hints:
+      - "A king offering reward to whoever brings what is lost: compare Q 12:72 (a camel-load for whoever returns the king's cup)."
+  - id: ane-cth-337-2-pirwa-drowsy
+    tradition: ane-hittite
+    title: Pirwa grows drowsy (CTH 337.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 337.2"]
+    tags:
+      - {motif: god-grows-drowsy, refs: ["CTH 337.2 §1:3-4"], note: "{d}pí-ir-wa-aš [... na-a]k-ki-iš na-aš-za [... te-eš]-ḫa-al-li-iš ki-ša-at"}
+    hints:
+      - "Diverges from Q 2:255 (neither slumber nor sleep overtakes Him) and Ps 121:4."
+  - id: ane-cth-342-1-1-ashertu-seduction
+    tradition: ane-hittite
+    title: Ašertu tries to seduce the storm god; he tells Elkunirša (CTH 342.1.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version, text one
+    read: ["CTH 342.1.1"]
+    tags:
+      - {motif: masters-wife-seduces, refs: ["CTH 342.1.1 §2:15-17", "CTH 342.1.1 §2:29-31"], note: "{d}a-še-er-du-uš ... e-ḫu-wa-mu-za kat-ta še-e-e[š]: 'come, sleep with me!'"}
+      - {motif: refusal-of-seduction, refs: ["CTH 342.1.1 §2:18"], note: "[Ú-U]L me-em-ma-aḫ-ḫu-un: 'I refused'"}
+      - {motif: rejected-seductress-threatens, refs: ["CTH 342.1.1 §1:1-5", "CTH 342.1.1 §2:19-24"], note: "ap-pa-an-wa-mu-za-kán e-eš ... am-mi-ta-az [...] kat-ta ta-ma-aš-mi"}
+      - {motif: young-god-reports-wifes-advances-to-husband, refs: ["CTH 342.1.1 §1:6-10", "CTH 342.1.1 §2:11-28"], note: "the storm god goes to the source of the Mala river, into Elkunirša's tent, and calls him 'my father'"}
+      - {motif: husband-tells-guest-to-humiliate-wife, refs: ["CTH 342.1.1 §2:32-34"], note: "[n]u-⌈wa⌉-ra-an lu-u-ri-ya-aḫ: 'humiliate her!'"}
+      - {motif: storm-god-kills-goddess-77-88-children, refs: ["CTH 342.1.1 §3:37-38"], note: "tu-e-el-wa-kán [DUMU{MEŠ}-K]A 77 ku-e-nu-un 88 ku-e-nu-un; 'children' restored"}
+      - {motif: goddess-mourns-seven-years, refs: ["CTH 342.1.1 §3:39-43"], note: "na-aš I-NA MU 7{KAM} ú-i-eš-ke-ez-zi; the mourning women are restored"}
+      - {motif: god-stripped-of-senses, refs: ["CTH 342.1.1 §10:80-86"], note: "ú-wa-a-tar da-a-aš ... iš-ta-ma-aš-šu-wa-ar da-a-aš; agent and victim lost"}
+      - {motif: god-grows-drowsy, refs: ["CTH 342.1.1 §9:76"], note: "[t]e-eš-ḫa-al-li-in i-ya-at: someone made drowsy; context broken"}
+    hints:
+      - "The master's wife and the refused youth: compare Q 12:23-29 and Gen 39:7-20. Here the youth goes to the husband himself, the reverse of Joseph's master hearing the wife's accusation."
+      - "Elkunirša renders West Semitic 'El, creator of earth' (ʾl qn ʾrṣ): compare Gen 14:19, 22. Ašertu = Asherah, cf. 1 Kgs 15:13."
+  - id: ane-cth-342-1-2-ishtar-eavesdrops
+    tradition: ane-hittite
+    title: Elkunirša gives the storm god to Ašertu; Ištar overhears and warns him; purification (CTH 342.1.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version, text two
+    read: ["CTH 342.1.2"]
+    tags:
+      - {motif: husband-hands-guest-to-vengeful-wife, refs: ["CTH 342.1.2 §1:5-9"], note: "nu-wa-at-ta GIM-an ZI-a[n-za] nu-wa-ra-an QA-TAM-MA ⌈i⌉-[ya]: 'as your heart wishes, so treat him'"}
+      - {motif: goddess-transforms-to-eavesdrop, refs: ["CTH 342.1.2 §2:10-15"], note: "ŠU-i an-da GAL-iš DÙ-at; ḫa-[pu-pé-eš]: becomes a cup, then an owl(?) on his wall; ḫapupi is partly restored"}
+      - {motif: goddess-flies-to-warn-god-of-plot, refs: ["CTH 342.1.2 §2:18-22"], note: "MUŠEN-iš i-wa-a[r]: like a bird; GEŠTIN-ya-wa le-e e-ku-ut-[te-ni]: 'do not drink wine'"}
+      - {motif: god-of-dreams-speaks, refs: ["CTH 342.1.2 §3:30"], note: "loose fit: [the gods?] put a dream (te-eš-ḫa-an) into the Anunnaki"}
+      - {motif: god-purified-of-perjury-and-curse, refs: ["CTH 342.1.2 §5:58-59", "CTH 342.1.2 §6:60"], note: "LÚ {URU}a-mur-ri ... li-in-ki-ya-za ḫa-ra-a[t-na-za] me-mi-ya-an-na-az"}
+      - {motif: storm-god-mates-heifer-before-descent, refs: ["CTH 342.1.2 §3:37"], note: "loose: 'why did he send living ones into the [dark] earth?'; KI-pí TI-an-te-eš u-i-ya-at"}
+    hints:
+      - "The night plot overheard and the victim warned: compare Q 28:20 (a man runs to warn Moses of the plot) and 1 Sam 19:11."
+  - id: ane-cth-342-1-3-kunirsa-ritual
+    tradition: ane-hittite
+    title: Ritual offering to Kunirša (CTH 342.1.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version, fragment
+    read: ["CTH 342.1.3"]
+    tags:
+      - {motif: god-lord-of-dreams-son-of-dark-earth, refs: ["CTH 342.1.3 §1:3", "CTH 342.1.3 §3:11"], note: "ma-an-ni-in-ku-wa-an-du-uš MU{ḪI.A}-uš 'the short years'; BAL-an-ti to {d}ku-ni-ir-ša"}
+      - {motif: oracle-with-riddling-instructions, refs: ["CTH 342.1.3 §2:6-9"], note: "SIxSÁ-ez-zi: the matter is fixed by oracle; the lid is laid on the ritual patron's knees; loose fit"}
+    hints:
+      - "Short years versus long life as divine gift: compare Q 35:11 (no one's life is lengthened or shortened but it is in a Book)."
+  - id: ane-cth-342-2-1-stars-wash-lands-inclined
+    tradition: ane-hittite
+    title: Stars of Ištar and Kumarbi summoned; may all lands incline to the king (CTH 342.2.1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Second version, text one
+    read: ["CTH 342.2.1"]
+    tags:
+      - {motif: stars-of-gods-summoned-to-wash-anoint-eat, refs: ["CTH 342.2.1 §6:17-21", "CTH 342.2.1 §7:22-26"], note: "{d}IŠTAR-aš MUL-aš ú-e[z-zi] ... GEŠTIN e-ku-ud-d[u]"}
+      - {motif: analogic-wish-lands-inclined-to-king, refs: ["CTH 342.2.1 §9:38-41"], note: "[LUG]AL-i-ma MUNUS.LUGAL-ri KUR.KUR{MEŠ}-TIM [ḫ]u-u-ma-an-da an-da QA-TAM-M[A] la-ga-a-an e-eš-du"}
+      - {motif: war-god-joins-spear-bow-evil-and-sorcery, refs: ["CTH 342.2.1 §5:13-16", "CTH 342.2.1 §8:27-29"], note: "loose: the king, the army's grain and chariots 'bewitched' (al-wa-an-za); the king's enemy"}
+    hints:
+      - "Stars as gods who eat and drink: contrast Q 6:76-79 (Abraham and the setting star) and Q 41:37 (prostrate not to sun or moon)."
+  - id: ane-cth-342-2-2-elkunirsa-lord-of-dream
+    tradition: ane-hittite
+    title: Washing rite; Zababa; Elkunirša, lord of the dream, son of the dark earth (CTH 342.2.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Second version, text two
+    read: ["CTH 342.2.2"]
+    tags:
+      - {motif: stars-of-gods-summoned-to-wash-anoint-eat, refs: ["CTH 342.2.2 §2:3", "CTH 342.2.2 §3:6-8", "CTH 342.2.2 §4:12-14"], note: "[ke]-e-da-an-da A-it a-ar-ra-an-du ... [GEŠT]IN-an-ma a-ku-wa-an-du"}
+      - {motif: war-god-joins-spear-bow-evil-and-sorcery, refs: ["CTH 342.2.2 §4:16"], note: "{d}ZA.BA₄.BA₄-aš ... {GIŠ}ŠUKUR {GIŠ}BAN ḪUL UḪ₇-tar ták-ki-iš-zi"}
+      - {motif: god-lord-of-dreams-son-of-dark-earth, refs: ["CTH 342.2.2 §7:27-28", "CTH 342.2.2 §8:32"], note: "[{d}el-ku-ni-ir-š]a-aš EN Ù GE₆-aš KI-aš DUMU-aš; ḪUL-mu-uš Ù-uš ... ma-an-ni-in-ku-wa-an-du-uš UD{ḪI.A}-uš"}
+    hints:
+      - "God as giver of bad dreams and short days: contrast Q 12:43-49 (dreams interpreted by God's gift) and Ps 90:10."
+  - id: ane-cth-342-2-3-stars-kumarbi-ishhara
+    tradition: ane-hittite
+    title: Stars of Kumarbi, Išḫara and NIN.É.GAL summoned (CTH 342.2.3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Second version, text three
+    read: ["CTH 342.2.3"]
+    tags:
+      - {motif: stars-of-gods-summoned-to-wash-anoint-eat, refs: ["CTH 342.2.3 §2:2-4", "CTH 342.2.3 §3:6-9", "CTH 342.2.3 §4:10-13"], note: "{d}iš-ḫa-ra-aš MUL{ḪI.A} ú-w[a-an-du] ... NINDA-an a-da-an-du"}
+      - {motif: god-lord-of-dreams-son-of-dark-earth, refs: ["CTH 342.2.3 §8:26-27", "CTH 342.2.3 §9:33"], note: "{d}ku-ni-ir-š[a-] ... ḪUL-mu-u[š]; libation and the bad dreams"}
+    hints:
+      - "Compare Q 53:49 (He is the Lord of Sirius) against star-cults."
+  - id: ane-cth-342-2-4-wolf-fox-snake
+    tradition: ane-hittite
+    title: Short years; wolf, fox, snake, scorpion held out (CTH 342.2.4)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Second version, fragment
+    read: ["CTH 342.2.4"]
+    tags:
+      - {motif: god-lord-of-dreams-son-of-dark-earth, refs: ["CTH 342.2.4 §1:3-5", "CTH 342.2.4 §2:6-9"], note: "ma-an-ni-in-ku-wa-an-du-uš MU{ḪI.A}-uš ... UR.BAR.RA KA₅.A MUŠ GÍR.TAB ... pa-ra-a ap-pé-eš-ke-ši"}
+    hints:
+      - "Wolf, snake and scorpion as dangers sent: compare Deut 8:15; Q 12:13 (fear the wolf will eat him)."
+  - id: ane-cth-342-2-5-stars-of-all-gods
+    tradition: ane-hittite
+    title: Stars of all the gods; the charioteers purified of sorcery (CTH 342.2.5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Second version, fragment
+    read: ["CTH 342.2.5"]
+    tags:
+      - {motif: stars-of-gods-summoned-to-wash-anoint-eat, refs: ["CTH 342.2.5 §2:9-12", "CTH 342.2.5 §3:13-15"], note: "da-pí-aš DINGIR{MEŠ}-aš MUL{ḪI.A}"}
+      - {motif: analogic-wish-lands-inclined-to-king, refs: ["CTH 342.2.5 §3:16-17"], note: "as the stars are pure, so may the charioteers be (pure) of sorcery: MUL{ḪI.A} ma-a-an par-ku-wa-[...] ... UḪ₇-za QA-TAM-M[A]"}
+    hints:
+      - "Ritual cleansing of the army: compare Num 31:19-24."
+  - id: ane-cth-343-1-a-lamma-arrows-reins
+    tradition: ane-hittite
+    title: LAMMA's arrows strike Ištar; he takes the storm god's reins (CTH 343.1 §1-3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version
+    read: ["CTH 343.1 §1:1-§3:39"]
+    tags:
+      - {motif: arrows-strike-goddess-breast, refs: ["CTH 343.1 §1:12-16"], note: "ŠA {d}LAMMA {GIŠ}GAG.Ú.TAG.GA ... {d}IŠTAR-in {UZU}UB[U]R {UZU}GABA-iš-ši ... šal-wa-a-et"}
+      - {motif: god-seizes-reins-from-storm-god, refs: ["CTH 343.1 §2:27", "CTH 343.1 §3:28-31"], note: "{d}10-ni {KUŠ}KIR₄.TAB.ANŠE ... ŠU-za ar-ḫa da-[a-aš]"}
+      - {motif: monster-shakes-and-tears-heaven, refs: ["CTH 343.1 §2:22-23"], note: "nu NA₄-aš {d}10-an EGIR-an-da ... nu ne-pí-iš GUL-aḫ-ta: a stone after the storm god struck heaven"}
+    hints:
+      - "Rival gods fighting among themselves: compare Q 23:91 (each god would have taken away what he created, and some would have overcome others)."
+  - id: ane-cth-343-1-b-lamma-king-golden-age
+    tradition: ane-hittite
+    title: LAMMA king in heaven nine years; a golden age (CTH 343.1 §4-5)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version
+    read: ["CTH 343.1 §4:40-§5:63"]
+    tags:
+      - {motif: god-made-king-of-heaven-by-elder-gods, refs: ["CTH 343.1 §4:40-44", "CTH 343.1 §5:45"], note: "I-NA MU 9{KAM} {d}LAMMA-aš ne-pí-ši LUGAL-uš e-eš-ta"}
+      - {motif: divine-reign-of-nine-years, refs: ["CTH 343.1 §5:45"]}
+      - {motif: golden-age-no-wolves-no-thieves-beer-rain, refs: ["CTH 343.1 §5:46-48", "CTH 343.1 §5:55-56"], note: "ša-a-ra-a-u-wa-ar UR.BAR.RA{MEŠ} {LÚ.MEŠ}NÍ.ZU Ú-UL e-še-er ... [ḫ]é-e-u-wa-aš-ma pé-e-da-an ta-a-wa-al [w]a-al-ḫi"}
+      - {motif: age-without-predators-or-fear, refs: ["CTH 343.1 §5:46"]}
+    hints:
+      - "Rivers of wine and paradise abundance: compare Q 47:15 (rivers of wine delightful to drinkers) and Joel 4:18 (the mountains drip sweet wine)."
+      - "No wolves under the good king: compare Isa 11:6-9 and Isa 65:25."
+  - id: ane-cth-343-1-c-lamma-deposed
+    tradition: ane-hittite
+    title: LAMMA grows hostile, offerings cease, Ea and Kumarbi depose him (CTH 343.1 §6-9)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version
+    read: ["CTH 343.1 §6:64-§9:120"]
+    tags:
+      - {motif: arrogant-god-king-neglects-elders, refs: ["CTH 343.1 §6:69-80"], note: "Kubaba: 'great gods, elders, your grandfathers ... bow to them'; the winds (IM{ḪI.A}-uš wa-al-li-wa-[al-li-uš]) carry LAMMA's words to Ea; translation calls them 'evil words'"}
+      - {motif: under-bad-divine-king-no-offerings-to-gods, refs: ["CTH 343.1 §6:83-86", "CTH 343.1 §9:111-114"], note: ":ni-wa-ra-al-li-iš ... KUR.KUR{MEŠ} QA-TAM-MA :ni-wa-ra-la-at-ta ... DINGIR{MEŠ}-aš NINDA.GUR₄.RA iš-pa-an-du-uz-zi [Ú-U]L ku-iš-ki pa-a-i"}
+      - {motif: god-made-king-of-heaven-by-elder-gods, refs: ["CTH 343.1 §6:83", "CTH 343.1 §7:93"], note: "ku-in {d}L[AMMA-an ...] i-ya-u-en: 'whom we made king in heaven'"}
+      - {motif: god-deposed-from-heavenly-kingship, refs: ["CTH 343.1 §8:109-110"], note: "nu-wa-ra-an ne-pí-ši LUGAL-iz-na-ni [ar]-ḫa ti-it-ta-nu-nu-un"}
+      - {motif: messenger-sent-to-netherworld-gods, refs: ["CTH 343.1 §8:103-108"], note: "{d}iz-zum-mi ... i-it-kán kat-ta-an da-an-ku-[wa-i] ... A-NA {d}na-a-ra {d}na-ap-ša-a-ra ŠEŠ-mi me-mi"}
+      - {motif: animals-of-earth-roused-against-god, refs: ["CTH 343.1 §9:115-116"], note: "ták-na-aš ḫu-u-i-tar [ḫ]u-u-ma-an ni-n[i-ik]"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["CTH 343.1 §7:90-99"]}
+    hints:
+      - "A god-king who withholds worship from the gods and is overthrown: compare Q 21:22 (were there gods besides God, heaven and earth would be ruined) and Q 17:42-43."
+      - "Gods deposed for misrule: compare Ps 82:1-7 (the gods judged, to die like men)."
+  - id: ane-cth-343-1-d-lamma-punished
+    tradition: ane-hittite
+    title: The storm god and Ninurta punish LAMMA (CTH 343.1 §10-17)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: First version
+    read: ["CTH 343.1 §10:121-§17:159"]
+    tags:
+      - {motif: deposed-god-mutilated, refs: ["CTH 343.1 §12:140-141", "CTH 343.1 §13:142-147"], note: "{d}10-aš {d}NIN.URTA-aš {LÚ}SUKKAL-ŠU ... iš-pár-re-er ... {UZU}iš-ki-ša-za ... mar-ke-er"}
+      - {motif: god-deposed-from-heavenly-kingship, refs: ["CTH 343.1 §14:148-156"], note: "LAMMA submits: {d}10 EN-YA 'storm god, my lord'"}
+    hints:
+      - "The overthrown rebel: compare Isa 14:12-15 and Q 7:13 (Iblis: get down, it is not for you to be arrogant here)."
+  - id: ane-cth-343-2-lamma-ea-kumarbi
+    tradition: ane-hittite
+    title: LAMMA and the elder gods; Ea to Kumarbi (CTH 343.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Second version
+    read: ["CTH 343.2"]
+    tags:
+      - {motif: arrogant-god-king-neglects-elders, refs: ["CTH 343.2 §1:2-9"], note: "ḫ[i]-in-ik-mi; the gods have no food in their mouths; LAMMA's words and the winds"}
+      - {motif: god-deposed-from-heavenly-kingship, refs: ["CTH 343.2 §1:10-14"], note: "Ea to Kumarbi: p[a]-a-i-u-e-ni 'let us go'"}
+    hints:
+      - "Compare Q 21:22."
+  - id: ane-cth-343-3-lamma-nara-ishtar
+    tradition: ane-hittite
+    title: Nara rouses; Ištar to LAMMA the king (CTH 343.3.1, 343.3.2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    version: Third version, both exemplars
+    read: ["CTH 343.3.1", "CTH 343.3.2"]
+    tags:
+      - {motif: animals-of-earth-roused-against-god, refs: ["CTH 343.3.1 §1:4-6"], note: "{d}na-a-ra-aš ... ni-ni-ik-t[a]"}
+      - {motif: god-made-king-of-heaven-by-elder-gods, refs: ["CTH 343.3.2 §1:2-7"], note: "A-N]A {d}LAMMA LUGAL; Ea the king; the moon god"}
+    hints:
+      - "Compare Q 17:42."
+  - id: ane-cth-343-4-6-lamma-fragments
+    tradition: ane-hittite
+    title: LAMMA fragments - 'let us go up and make a king in heaven' (CTH 343.4-6)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 343.4", "CTH 343.5", "CTH 343.6"]
+    tags:
+      - {motif: god-made-king-of-heaven-by-elder-gods, refs: ["CTH 343.5 §1:4-9"], note: "{d}É-A-aš {d}k[u-mar-bi] ... DINGIR{MEŠ} ad-da-aš ... [š]a-ra-a pa-a-i-u-e-n[i] ... LUGAL-un i-y[a-]"}
+      - {motif: god-deposed-from-heavenly-kingship, refs: ["CTH 343.6 §1:3", "CTH 343.6 §2:4"], note: "LAMMA [...] GAM-an-da 'down'; the storm god's man and LAMMA"}
+    hints:
+      - "'Father of the gods' as a title: contrast Q 112:3 and Q 6:101."

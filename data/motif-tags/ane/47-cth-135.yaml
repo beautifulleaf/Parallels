@@ -1,0 +1,253 @@
+# Full read, chunk 47: the last Hittite treaties (CTH 135-146), the instructions for temple personnel (CTH 264),
+# and the myths of Illuyanka (CTH 321), Telipinu and the daughter of the Sea (CTH 322), the vanished Sun god
+# (CTH 323) and the vanishing Telipinu (CTH 324). Read from hethiter.net / TLHdig editions.
+new_motifs:
+  treaty-border-cities-listed: {label: "A treaty names the border towns assigned to one party or the other", cluster: treaty}
+  oath-words-of-treaty-recited: {label: "The sworn parties are to speak the wording of the oath (the 'word of the oath') aloud", cluster: treaty}
+  no-mercy-to-kin-in-battle: {label: "Treaty: on the battlefield the vassal must not spare an enemy even if he is his brother, son, friend or kinsman", cluster: treaty}
+  hiding-captive-from-overlord-capital: {label: "A vassal who hides a captured enemy, helps him escape or lets him live instead of handing him over is to die", cluster: treaty}
+  booty-belongs-to-whoever-captures: {label: "Treaty rule: cattle, sheep and goods taken by each army belong to that army", cluster: treaty}
+  released-from-oath: {label: "Named classes of people are declared released (free) from the oath", cluster: treaty}
+  enemy-messenger-not-admitted: {label: "The vassal must not send his messenger to the enemy nor admit the enemy's messenger into his presence or his city gate", cluster: treaty}
+  greeting-gift-between-kings: {label: "A king's greeting-gift (šulmānu) is mentioned in the relations between rulers", cluster: diplomacy}
+  primeval-gods-as-oath-witnesses: {label: "The 'primeval' (former) gods (Nara, Namšara, Minki, Alalu, Anu ...) are listed among the oath gods", cluster: treaty}
+  vassal-must-speak-well-of-overlord: {label: "The vassal must speak good words of the overlord's land among the people and not belittle it before other lands", cluster: treaty}
+  eyes-turned-to-the-mountains: {label: "Subjects or fugitives must not be allowed to 'turn their eyes to the mountains' (go over to the highland enemy)", cluster: treaty}
+  sworn-party-confesses-sin: {label: "The overlord tells the sworn party that they have sinned against him before renewing the oath", cluster: treaty}
+  enemy-gods-summoned-to-oath: {label: "The gods of the enemy people are summoned and set over against the overlord's gods for the oath", cluster: treaty}
+  oathbreakers-gods-made-impure-eat-unclean-bread: {label: "Curse: on the day the oath is broken the oath-breakers' gods are to be impure and eat impure bread and drink impure wine and beer", cluster: treaty}
+  individuals-sworn-one-by-one: {label: "An oath record lists leaders one by one, each with his men and his town, and what each swore", cluster: treaty}
+  troops-counted-in-oath-list: {label: "The number of troops each sworn leader brings is recorded (e.g. 190, 215 men)", cluster: treaty}
+  scribe-named-in-oath-record: {label: "A named scribe of the capital is recorded as present at or administering the oath", cluster: treaty}
+  treaty-blessing-fertility-plenty: {label: "Treaty blessing: if the words are kept, eat well, let it flourish, let the flocks bear well, the gods give life", cluster: treaty}
+  king-builds-temple-and-statue-of-god: {label: "The king boasts that he built a god's temple in silver and gold and made the statue of the storm god", cluster: kingship}
+  king-crosses-the-sea: {label: "The king boasts that he crossed the sea (on campaign)", cluster: kingship}
+  treaty-tablet-before-deity-read-yearly: {label: "Curse on whoever removes the treaty tablet from before the deity, puts it in a dark place, or fails to read it out year by year", cluster: treaty}
+  elders-of-towns-summoned-and-sworn: {label: "The overlord summons the elders and heads of towns to a place and puts them under oath", cluster: treaty}
+  silver-rhyton-sent-for-god: {label: "The king sends a silver rhyton to a local god, from which the god is to be given drink regularly", cluster: cult}
+  obey-kings-future-words: {label: "The sworn must always listen to whatever the king will say in future", cluster: treaty}
+  vassal-cedes-cities: {label: "The vassal swears to give up the overlord's towns he holds", cluster: treaty}
+  oathbreaker-marries-enemys-daughter: {label: "The faithless vassal takes the enemy's daughter as his wife", cluster: treaty}
+  vassal-incites-subjects-to-flee: {label: "The faithless vassal calls the overlord's subjects to flee to him", cluster: treaty}
+  harbourer-denies-seeing-fugitives: {label: "Asked to return fugitives, the harbourer hides them and claims he has seen no one and no one has come", cluster: treaty}
+  rebel-am-i-not-a-man: {label: "A rebel refuses to hand over towns, saying the former holder was a mere charioteer: 'Am I not also a man?'", cluster: treaty}
+  rebel-invokes-fathers-name: {label: "A rebel calls out his father's name (claims his father's standing)", cluster: treaty}
+  not-even-a-thread-withheld: {label: "Everything must be handed over: not even (as much as) a woollen thread may be held back", cluster: treaty}
+  rebel-handed-over-with-family-and-goods: {label: "The rebel must be handed over together with his wife, sons, grandsons, servants, cattle, sheep and all property", cluster: treaty}
+  vassal-breaks-oath-repeatedly: {label: "The vassal is said to have sinned again and again and to have utterly broken the sworn word", cluster: treaty}
+  bathe-hands-in-blood: {label: "The loyal subjects must at once 'bathe their hands in blood' against the rebels before the king's army arrives", cluster: war}
+  king-kills-laggard-first: {label: "The king threatens that whoever does not fight the rebels he will kill first, before attacking the rebel city", cluster: war}
+  protect-king-queen-and-descendants: {label: "Subjects must protect the king, the queen, the king's sons, grandsons and descendants", cluster: treaty}
+  report-truthfully-neither-exaggerate-nor-minimise: {label: "Reports must be truthful: do not magnify a small matter nor make light of a weighty one", cluster: treaty}
+  soldiers-must-not-violate-women-or-plunder: {label: "On campaign no one may violate a man's wife or daughter or steal people, cattle, horses or metals", cluster: war}
+units:
+  - id: ane-cth-135-1-preamble-hostages-cities
+    tradition: ane-hittite
+    title: Treaty with Lab'u and Tunip, opening (CTH 135 §1)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["CTH 135 §1"]
+    tags:
+      - {motif: hostages-taken, refs: ["CTH 135 §1:3"], note: "ana LÚ.MEŠ liṭūti DUMU.MEŠ: 'the sons ... for hostageship'; context broken"}
+      - {motif: oath-words-of-treaty-recited, refs: ["CTH 135 §1:13", "CTH 135 §1:27"], note: "ana māmīti liqbû 'let them speak for the oath'; [a]wât māmīti 'the word of the oath'"}
+      - {motif: treaty-border-cities-listed, refs: ["CTH 135 §1:14-16", "CTH 135 §1:31-32"], note: "URU.DIDLI.ḪI.A ša ZAG.ḪI.A-ya 'my border towns'; Iripa, Ḫašašar, Širina, IZ-ḫanikka"}
+    hints:
+      - "The tablet is Akkadian (the diplomatic language), though listed among the Hittite texts. Compare the treaty frame in Q 9:1-4 (treaties with the polytheists honoured to their term) and Q 8:56."
+      - "Hostage-taking: compare 2 Kgs 14:14."
+  - id: ane-cth-135-2-military-clauses
+    tradition: ane-hittite
+    title: Treaty with Tunip, war and booty (CTH 135 §2)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["CTH 135 §2"]
+    tags:
+      - {motif: no-mercy-to-kin-in-battle, refs: ["CTH 135 §2:46"], note: "[ašar] taḫazzi ŠEŠ-am DUMU-am LÚtappâ ... [ina mūti ...]-teṭerašunūtim: on the battlefield brother, son, companion, kinsman are [not] to be spared death; the negation is restored"}
+      - {motif: hiding-captive-from-overlord-capital, refs: ["CTH 135 §2:47-58"], note: "šumma LÚṣabta iṣabbassuma upazzar...: if he hides a captive, or helps the enemy, 'makes him take cunning' (nēmekutta ušaḫḫazzu) and spares him from death, that man shall die"}
+      - {motif: treaty-fight-kings-enemy, refs: ["CTH 135 §2:59-64"], note: "if the gods go before My Majesty, I will destroy (adâk) the land of the enemy; Lab'u is not to go out only to plunder"}
+      - {motif: booty-belongs-to-whoever-captures, refs: ["CTH 135 §2:65-68", "CTH 135 §2:73-76", "CTH 135 §2:88-91"], note: "mīnummê ḫubta GUD UDU ... ikaššadu: whatever booty the troops of Ḫatti seize they take; likewise the troops of Tunip"}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["CTH 135 §2:69-70", "CTH 135 §2:78-80"], note: "if a city of My Majesty, or the great men of Ḫatti, rebel, Lab'u with his ḫurādu-troops must come; the purpose clause is restored"}
+      - {motif: released-from-oath, refs: ["CTH 135 §2:106-107"], note: "LÚ.MEŠ mariya[nnu] ... ḫupšu ... puš-ra-a 'released'; '[of the oa]th' is restored"}
+    hints:
+      - "No mercy to kin in battle: compare Q 58:22 (no love for God's enemies 'even if they were their fathers, sons, brothers or kindred') and Q 9:23-24; Deut 13:7-10."
+      - "Booty: contrast Q 8:1 and 8:41 (spoils belong to God and the Messenger, a fifth set aside) with the each-army-keeps-its-own rule here."
+  - id: ane-cth-135-3-messengers-fugitives-evil-word
+    tradition: ane-hittite
+    title: Treaty with Tunip, messengers, fugitives and evil words (CTH 135 §3)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["CTH 135 §3"]
+    tags:
+      - {motif: greeting-gift-between-kings, refs: ["CTH 135 §3:126-128"], note: "ša šulmāniya iḫaddu: 'if he rejoices at my greeting-gift', for 'my brother or other kings'"}
+      - {motif: enemy-messenger-not-admitted, refs: ["CTH 135 §3:130-131"], note: "ana maḫrika lā tuwaššaršun[u] 'you shall not let them before you'; that they are the enemy king's messengers is restored"}
+      - {motif: treaty-forward-enemy-messages-to-king, refs: ["CTH 135 §3:133-135"], note: "mīnummê awātum LÚKÚR ša išappa[ru]: whatever word the enemy writes; the duty to report it (lines 134-135) is wholly restored"}
+      - {motif: treaty-return-fugitives, refs: ["CTH 135 §3:136-143"], note: "šumma LÚmunnabtum ištu KUR Ḫa[tti] ... ana munnabtūtim illak[ka]: reciprocal; the seizing and handing back is restored"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 135 §3:144-153"], note: "[š]a awât lemuttim ina pānika ... [l]ā tupazzaršu ṣabassuma: whoever speaks an evil word before you, do not hide him, seize him; and reciprocally the king will not hide one who speaks evil of Lab'u"}
+      - {motif: treaty-overlord-promises-military-help, refs: ["CTH 135 §3:154-157"], note: "Lab'u's quoted request: if an enemy settles a second year (MU.2.KAM ašib), 'My Majesty, come to [my help]!'; the king will send [troops]"}
+    hints:
+      - "Evil words to be reported: compare Q 4:83 (refer news to the Messenger and those in authority) and Q 49:6 (verify a report brought by a corrupt man)."
+      - "Fugitive extradition: contrast Q 60:10 (believing women who emigrate are not to be returned to the unbelievers)."
+  - id: ane-cth-136-mukish-gods-and-good-words
+    tradition: ane-hittite
+    title: Šuppiluliuma I's treaty with Mukiš, oath gods and duties (CTH 136)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 136"]
+    tags:
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["CTH 136 §1:2"], note: "all male and female gods of Ḫatti, Kizzuwatna and Mukiš, [the Sun goddess] of the earth"}
+      - {motif: primeval-gods-as-oath-witnesses, refs: ["CTH 136 §1:2"], note: "karuiliyaš DINGIR.MEŠ-eš ḫūmanteš: Nara, Namšara, Minki, Tuḫuši, Amumki, Alalu, Antu, Apantu, Anu"}
+      - {motif: vassal-must-speak-well-of-overlord, refs: ["CTH 136 §2:3-7", "CTH 136 §3:8-9"], note: "KUR Ḫatti peran ... SIG5-in memiški; aššiyanuški 'make it beloved'; bring them on the road to Ḫattuša; do not bring them [evil] words"}
+      - {motif: eyes-turned-to-the-mountains, refs: ["CTH 136 §3:10"], note: "only ]naitti survives; '[their eyes to the mountains you shall not] turn' is restored from parallels"}
+    hints:
+      - "The primeval gods Alalu and Anu reappear in the Kumarbi cycle; compare the Quran's denial that any former gods share in creation, Q 46:4 and Q 35:40."
+  - id: ane-cth-137-1-kaska-hostages-curses
+    tradition: ane-hittite
+    title: Arnuwanda I's oath with the Kaška, hostages and curses (CTH 137.1 §1-11)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 137.1 §1:1-§11:61"]
+    tags:
+      - {motif: hostages-taken, refs: ["CTH 137.1 §2:8-10", "CTH 137.1 §3:12-17"], note: "DUMU.MEŠ šullan: 'boys as hostages', five and then ten; the men of Kammama give boys as hostages"}
+      - {motif: sworn-party-confesses-sin, refs: ["CTH 137.1 §5:26-31"], note: "UMMA dUTU-ŠI Arnuwanda ... waštatten-na 'and you have sinned', kinuna namma 'now from this time on'"}
+      - {motif: enemy-gods-summoned-to-oath, refs: ["CTH 137.1 §8:44", "CTH 137.1 §9:49-50"], note: "DINGIR.MEŠ URU Qašgama itte[n] 'gods of Kaška, go!'; the gods of Kaška set against the gods of Ḫatti"}
+      - {motif: oathbreakers-gods-made-impure-eat-unclean-bread, refs: ["CTH 137.1 §9:51-54"], note: "nat-šmaš peran papranteš ... [NINDA-an pap]randan azzikkandu: they shall be impure before them and eat impure bread (restored noun) on the day they break the oath (NIŠ DINGIR-LIM šarranzi)"}
+      - {motif: treaty-oathbreaker-destroyed-with-household, refs: ["CTH 137.1 §10:57"], note: "QADU DAM.MEŠ-ŠUNU DUMU.MEŠ-ŠUNU QADU GU4.ḪI.A-ŠUNU UDU ... GIŠKIRI6.GEŠTIN-ŠUNU ḫarnikkandu"}
+      - {motif: treaty-keeper-guarded-with-household, refs: ["CTH 137.1 §10:58-59"], note: "kuiš kē ... paḫšari: who keeps these words, [the gods shall guard him] with his cattle, sheep, fields; the verb is restored"}
+    hints:
+      - "Impure bread as curse: compare Hos 9:3-4 and Ezek 4:13 (Israel eating unclean bread among the nations). The Quran makes idols powerless to feed themselves: Q 22:73, Q 16:73."
+      - "The line LÚ.MEŠ IGI.NU.GÁL 'the blind (men)' (§4:20) in a broken context may refer to blinded captives; compare Judg 16:21."
+      - "Oath-breakers destroyed with their families: contrast Q 6:164 / 35:18 (no bearer bears another's burden)."
+  - id: ane-cth-137-1-kaska-sworn-leaders
+    tradition: ane-hittite
+    title: Arnuwanda I's oath with the Kaška, the sworn leaders one by one (CTH 137.1 §12-27)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 137.1 §12:62-§27''':134"]
+    tags:
+      - {motif: individuals-sworn-one-by-one, refs: ["CTH 137.1 §14:66-§15:68", "CTH 137.1 §21:90-91", "CTH 137.1 §24:108-109", "CTH 137.1 §25:117-118", "CTH 137.1 §26:123-124"], note: "'X, and with him two men of Tar[aḫna]...'; 'he put himself under oath thus' (linkiya kattan ... dāiš); a prisoner of war (LÚappanza) and a fugitive (LÚpitteyanza) also swear"}
+      - {motif: troops-counted-in-oath-list, refs: ["CTH 137.1 §17:74-77"], note: "1 ME 90 ÉRIN.MEŠ ... 2 ME 15 ÉRIN.MEŠ: 190 and 215 foot soldiers; 'the obligation (išḫiul) we shall keep'"}
+      - {motif: scribe-named-in-oath-record, refs: ["CTH 137.1 §16:72-73"], note: "linganu[t] ... [A]rmaziti LÚDUB.SAR-aš URU Ḫattuši"}
+      - {motif: treaty-fight-kings-enemy, refs: ["CTH 137.1 §18:83", "CTH 137.1 §22:95-98"], note: "karši zaḫḫiya- 'fight unreservedly'; ḫūmanza nuntariyeddu 'let everyone hurry'"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 137.1 §23:104-107"], note: "mān-ašta idālu-ma ud[dār] ... [l]ē munnatteni: if you hear evil words, do not hide them; seizing and handing over restored"}
+      - {motif: hostages-taken, refs: ["CTH 137.1 §24:110-112", "CTH 137.1 §25:119-120"], note: "1-EN DUMU šul[lan]; 'he will bring the father back to Narikkaili'"}
+    hints:
+      - "The Kaška swear tribe by tribe; compare the tribal pledges of Q 48:10, 18 (the pledge under the tree) and the Aqaba pledges."
+  - id: ane-cth-141-alashiya
+    tradition: ane-hittite
+    title: Šuppiluliuma II's treaty with Alašija (Cyprus) (CTH 141)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 141"]
+    tags:
+      - {motif: treaty-return-fugitives, refs: ["CTH 141 §3:7-12"], note: "[LÚMUNNA]BTUM ... [e]pten nan para[a ...] 'seize him and hand him over'"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 141 §5:19-21"], note: "ḪUL-lu ŠA KUR Ḫat[ti] ... IŠTU KUR LÚ GAB.A.RI ištamma[šzi]: evil heard about Ḫatti from the land of a peer ruler must not be concealed (šannatteni)"}
+      - {motif: treaty-blessing-fertility-plenty, refs: ["CTH 141 §7:27-36"], note: "aššu ezzatten 'eat well', miešdu 'let it flourish', UDU SIG5-in ḫašdu 'let the sheep bear well'; the gods of heaven as witnesses (kutru-)"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["CTH 141 §8:38"], note: "KUR.ḪI.A-za ḫūmanda IŠTU GIŠTUKUL ... IŠTU È.A dUTU: all lands by the weapon from sunrise; 'and sunset' is restored"}
+      - {motif: king-builds-temple-and-statue-of-god, refs: ["CTH 141 §8:39-40"], note: "[É.]DINGIR-LIM ŠA dUTU URU PÚ-na IŠTU KÙ.BABBAR; [ALAM Š]A dU kuiš wedaš"}
+      - {motif: king-crosses-the-sea, refs: ["CTH 141 §8:42"], note: "[...-n]an kuiš zāiš 'who crossed [...]'; 'the sea' (aruna-) is a restoration"}
+      - {motif: treaty-tablet-before-deity-read-yearly, refs: ["CTH 141 §9:44-47"], note: "[ṬU]PPU ANA dIŠTAR peran arḫa ... [dan]kuššiyanti pedi dāi ... MU-ti MU-ti: removed from before Ištar, put in a dark place, or not read year by year"}
+    hints:
+      - "Ruling from sunrise to sunset: compare Dhū l-Qarnayn reaching the setting and the rising of the sun, Q 18:86, 90."
+      - "The tablet read out yearly: compare Deut 31:10-13, 26 (law read every seven years, kept beside the ark); Q 2:63 'hold fast what We gave you and remember what is in it'."
+      - "Blessings for keeping the covenant: Q 7:96 and Q 5:66 (blessings from heaven and earth), Deut 28:4-5."
+  - id: ane-cth-144-elders-of-ura
+    tradition: ane-hittite
+    title: Arnuwanda's oath imposed on the elders of Ura (CTH 144)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 144"]
+    tags:
+      - {motif: elders-of-towns-summoned-and-sworn, refs: ["CTH 144 §1:2-5"], note: "S[AG.DU.MEŠ] URU.DIDLI.ḪI.A ... LÚ.MEŠ ŠU.GI URU Ura; linganunun; [li]nkiyaš tuppi iyanun"}
+      - {motif: silver-rhyton-sent-for-god, refs: ["CTH 144 §1:6-7"], note: "BIBRA KÙ.BABBAR ... ANA dIarri uppaḫḫun ... akkuškittēn: the god Iarri is to be given drink from it"}
+      - {motif: treaty-fight-kings-enemy, refs: ["CTH 144 §1:8-10", "CTH 144 §1:16-20"], note: "ANA dUTU-ŠI-pat kattan artummat; karši zaḫḫiattēn; wen ich zum Feind setze (kuin LÚKÚR teḫḫi)"}
+      - {motif: obey-kings-future-words, refs: ["CTH 144 §1:11-13"], note: "[what] memiškimi, apāt ištamaškattēn"}
+      - {motif: hostages-taken, refs: ["CTH 144 §1:17"], note: "[... š]ullus pešten; the reading 'hostages' rests on a damaged sign"}
+      - {motif: no-mercy-to-kin-in-battle, refs: ["CTH 144 §1:21-22"], note: "ŠEŠ-an LÚgaenan ... LÚaran LÚšaggantan UN-an zaḫḫiyaš pidi ... UL epši ... UL kueši: brother, in-law, friend, acquaintance not seized and killed on the battlefield"}
+      - {motif: treaty-return-fugitives, refs: ["CTH 144 §2:37-39"], note: "ÌR LÚḫuwa[ndaš] 'servant of a runaway' ... šumēšan ept[ēn]"}
+    hints:
+      - "Not sparing brother or friend: Q 58:22; Deut 13:7-10."
+      - "Iarri is a plague and archer god; compare the plague-arrows of Resheph (Hab 3:5)."
+  - id: ane-cth-146-mita-oath-and-breach
+    tradition: ane-hittite
+    title: The case against Mita of Paḫḫuwa, his oath and its breach (CTH 146 §1-7)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 146 W1:1-W7:88"]
+    tags:
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["CTH 146 W2:8-14"], note: "ammuggawaraš ANA mM[ita kurur]: whoever is My Majesty's enemy is also my enemy; [friend] is my friend"}
+      - {motif: vassal-cedes-cities, refs: ["CTH 146 W2:15-16"], note: "the towns [Apa]rḫula, Ḫurla, Ḫalmišana [and Paḫḫuwa]; the renunciation is restored"}
+      - {motif: enemy-messenger-not-admitted, refs: ["CTH 146 W3:25-26"], note: "the enemy's messenger 'I will not admit into my gate'; the first half restored"}
+      - {motif: oathbreaker-marries-enemys-daughter, refs: ["CTH 146 W3:33"], note: "ŠA LÚKÚR ŠA mUšapa DUMU.MUNUS-SÚ ANA DAM-ŠU dāš"}
+      - {motif: vassal-incites-subjects-to-flee, refs: ["CTH 146 W4:34-38"], note: "'[out] of the land of Ḫatti flee and come to me!'"}
+      - {motif: harbourer-denies-seeing-fugitives, refs: ["CTH 146 W4:39-46"], note: "UL-wa kuiuška uḫḫun 'I have seen no one', and none came to Paḫḫuwa"}
+      - {motif: vassal-breaks-oath-repeatedly, refs: ["CTH 146 W7:76-79"], note: "Mita arg sündigte; the other also kept breaking the oaths"}
+      - {motif: rebel-invokes-fathers-name, refs: ["CTH 146 W7:81"], note: "nu-za-kan ABU-ŠU ŠUM-an ḫalzaiš"}
+      - {motif: rebel-am-i-not-a-man, refs: ["CTH 146 W7:83-88"], note: "Ḫaššana ... LÚKUŠ7 ēšta; ūgawaz UL imma LÚ-aš 'am I not also a man?'"}
+    hints:
+      - "Denying having seen the fugitives: compare Cain's 'I do not know; am I my brother's keeper?' (Gen 4:9) and Q 12:17 (the brothers' false account)."
+      - "'Am I not also a man?': compare Pharaoh's 'is not the kingdom of Egypt mine?' (Q 43:51) and Qārūn (Q 28:78)."
+      - "Mita of Paḫḫuwa breaks the oath like those who 'break their covenant every time' (Q 8:56) and 'untwist their yarn' (Q 16:92)."
+  - id: ane-cth-146-demands-handover
+    tradition: ane-hittite
+    title: The case against Mita, demands for handing over (CTH 146 §8-14)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 146 W8:89-W14:123"]
+    tags:
+      - {motif: rebel-handed-over-with-family-and-goods, refs: ["CTH 146 W8:89", "CTH 146 W8:91"], note: "with their wives, sons, grandsons, household, cattle and sheep; the goods of Kalimuna with wife and sons"}
+      - {motif: not-even-a-thread-withheld, refs: ["CTH 146 W8:90"], note: "[SÍGmaišt]an mašiwantan lē apteni: 'do not hold back even as much as a [wool]-thread'"}
+      - {motif: treaty-return-fugitives, refs: ["CTH 146 W8:92-103"], note: "those who fled before the weapon of My Majesty, the men of Arḫita ... seize them all; report from whichever town he entered"}
+    hints:
+      - "'Not a thread': Abram refuses from Sodom's king 'not a thread or a sandal-strap' (Gen 14:23); the Quran's 'not wronged by a fatīl (date-stone thread)', Q 4:49, 4:77, 17:71."
+      - "Lines W9-W14 are tiny fragments (Paḫḫuwa, 15 elders, Mita); nothing more can be read."
+  - id: ane-cth-146-oath-of-neighbours
+    tradition: ane-hittite
+    title: The case against Mita, the neighbours' oath and duties (CTH 146 §15-19)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 146 W15:124-W19:197"]
+    tags:
+      - {motif: vassal-breaks-oath-repeatedly, refs: ["CTH 146 W15:126-128"], note: "Mita has sinned repeatedly; the sworn word he has utterly broken"}
+      - {motif: rebel-handed-over-with-family-and-goods, refs: ["CTH 146 W15:133-136"], note: "Mita with his wife, the daughter of Ušapa, his sons, property, household, cattle and sheep"}
+      - {motif: not-even-a-thread-withheld, refs: ["CTH 146 W15:137", "CTH 146 W17:154-158"], note: "not even a wool-thread; whatever 'is seen with the eyes' must be given"}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["CTH 146 W18:163-168"], note: "troops year by year; when a call for help comes, hurry forth"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["CTH 146 W18:169-170"]}
+      - {motif: enemy-messenger-not-admitted, refs: ["CTH 146 W18:171-172"]}
+      - {motif: treaty-forward-enemy-messages-to-king, refs: ["CTH 146 W18:173-179"], note: "the enemy's messenger to be seized and sent to My Majesty, the word written truthfully, not twisted"}
+      - {motif: bathe-hands-in-blood, refs: ["CTH 146 W19:187-193"], note: "QATI.ḪI.A-ŠUNU šumeš ḫūdak ešḫarnuttēn 'make your hands bloody at once'"}
+      - {motif: king-kills-laggard-first, refs: ["CTH 146 W19:193-197"]}
+    hints:
+      - "Fighting those who break their oaths: Q 9:12-13 'fight the leaders of disbelief, for they have no oaths'."
+  - id: ane-cth-146-elders-duties-colophon
+    tradition: ane-hittite
+    title: The case against Mita, the elders' oath, rules of war, colophon (CTH 146 §20-28)
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Hittite"
+    read: ["CTH 146 W20:198-W28:287"]
+    tags:
+      - {motif: elders-of-towns-summoned-and-sworn, refs: ["CTH 146 W20:198-W21:201"], note: "a list of men and towns; the elders of Išuwa, Paḫḫuwa, Zuḫma and Malatya put under oath"}
+      - {motif: protect-king-queen-and-descendants, refs: ["CTH 146 W21:202-204"]}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["CTH 146 W21:205-208"]}
+      - {motif: enemy-messenger-not-admitted, refs: ["CTH 146 W21:209-212"]}
+      - {motif: report-truthfully-neither-exaggerate-nor-minimise, refs: ["CTH 146 W22:229-236"], note: "mališku ... -uttani; daššuma uttar lē mališkunuttani; [š]akuwaššar memištēn 'speak what is true'"}
+      - {motif: soldiers-must-not-violate-women-or-plunder, refs: ["CTH 146 W23:238-240"], note: "DAM LÚ-LIM DUMU.NITA LÚ-LIM lē šakkuriški-: man, woman, child, slaves, cattle, horse, mule, ass, silver, gold, bronze, copper"}
+      - {motif: treaty-return-fugitives, refs: ["CTH 146 W23:241-245"], note: "free man, slave or slave-woman; not to be sold to an enemy land"}
+      - {motif: eyes-turned-to-the-mountains, refs: ["CTH 146 W23:246", "CTH 146 W24:254"]}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["CTH 146 W23:247-251"], note: "an evil word of the palace or of the enemy: seize him and bring him before My Majesty"}
+      - {motif: vassal-must-speak-well-of-overlord, refs: ["CTH 146 W24:252-256"]}
+      - {motif: bathe-hands-in-blood, refs: ["CTH 146 W24:257-260"]}
+      - {motif: scribal-colophon, refs: ["CTH 146 W28:287"], note: "DUB 1.KAM ŠA KUR URU Paḫḫuwa; W25-W27 are small untranslated fragments"}
+    hints:
+      - "Truthful report, neither exaggerated nor minimised: Q 49:6, Q 24:15 ('you thought it a small matter, but with God it is great')."
+      - "No violation of women or theft after battle: compare Deut 21:10-14 and Deut 20:19; the Quran on the prohibition of ghulūl (embezzling spoils), Q 3:161."
