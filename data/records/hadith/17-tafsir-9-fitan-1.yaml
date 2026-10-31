@@ -1,0 +1,479 @@
+# Observation records for hadith chunk 17 (al-Jāmiʿ al-Kāmil book 60, suras 96-114, pp. 7660-7706; book 65, al-Fitan, pp. 8342-8414).
+records:
+- {id: h-7661.1-hira, ref: 'Jāmiʿ 60:7661.1', unit: hadith-60-iqra-first-revelation, agent: the prophet, action: secludes himself in devotion for numbered nights, place: cave of Hira, instrument: provisions,
+  quoted: yatahannathu fihi al-layali dhawat al-'adad}
+- {id: h-7661.1-squeeze, ref: 'Jāmiʿ 60:7661.1', unit: hadith-60-iqra-first-revelation, agent: the angel, action: presses the prophet until exhausted and says 'recite', recipient: the prophet, number: 3,
+  outcome: first verses of al-'Alaq, quoted: fa-ghattani hatta balagha minni al-jahd; ma ana bi-qari'}
+- {id: h-7661.1-zammiluni, ref: 'Jāmiʿ 60:7661.1', unit: hadith-60-iqra-first-revelation, agent: the prophet, action: returns trembling and asks to be wrapped, recipient: Khadija, quoted: zammiluni zammiluni}
+- id: h-7661.1-virtues
+  ref: Jāmiʿ 60:7661.1
+  unit: hadith-60-iqra-first-revelation
+  agent: Khadija
+  action: reassures him by listing his virtues
+  object: [keeps kinship, speaks truth, carries the weak, earns for the destitute, hosts the guest, helps against misfortune]
+  quoted: kalla abshir fa-wallahi la yukhzika allah abadan
+- id: h-7661.1-namus
+  ref: Jāmiʿ 60:7661.1
+  unit: hadith-60-iqra-first-revelation
+  agent: Waraqa b. Nawfal
+  action: identifies the visitor as the namus sent down on Moses
+  name: [Waraqa b. Nawfal, al-namus]
+  quoted: hadha al-namus alladhi unzila 'ala musa; layatani fiha jadha'
+- {id: h-7661.1-expel, ref: 'Jāmiʿ 60:7661.1', unit: hadith-60-iqra-first-revelation, agent: Waraqa, action: foretells the prophet's expulsion, outcome: dies soon after; revelation pauses, quoted: lam ya'ti
+    rajul bi-mithli ma ji'ta bihi illa udhiya}
+- {id: h-7662.1-trench, ref: 'Jāmiʿ 60:7662.1', unit: hadith-60-abu-jahl-and-the-praying-prophet, agent: Abu Jahl, action: advances to tread on the praying prophet's neck and recoils, instrument: 'trench
+    of fire, terror and wings', quoted: inna bayni wa-baynahu la-khandaqan min nar wa-hawlan wa-ajniha}
+- {id: h-7662.1-limbs, ref: 'Jāmiʿ 60:7662.1', unit: hadith-60-abu-jahl-and-the-praying-prophet, agent: the angels, action: would snatch the attacker limb by limb, quoted: la-khtatafathu al-mala'ika 'udwan
+    'udwan}
+- {id: h-7662.3-zabaniya, ref: 'Jāmiʿ 60:7662.3', unit: hadith-60-abu-jahl-and-the-praying-prophet, agent: Abu Jahl, action: boasts of his council, outcome: God's zabaniya would have seized him, quoted: ma
+    biha nadin akthar minni}
+- {id: h-7663.1-mud, ref: 'Jāmiʿ 60:7663.1', unit: hadith-60-night-of-decree, agent: the prophet, action: is shown the Night of Decree and made to forget it, time: 'morning of the twentieth of Ramadan;
+    last ten, odd nights', object: prostrating in water and mud, quoted: urittu laylat al-qadr thumma unsituha}
+- {id: h-7664.1-qiyam, ref: 'Jāmiʿ 60:7664.1', unit: hadith-60-night-of-decree, action: standing the Night of Decree in faith forgives past sins, time: Night of Decree, quoted: man qama laylat al-qadr imanan
+    wa-htisaban}
+- {id: h-7665.1-ubayy, ref: 'Jāmiʿ 60:7665.1', unit: hadith-60-recite-to-ubayy, agent: God, action: commands the prophet to recite al-Bayyina to Ubayy, recipient: Ubayy b. Ka'b, outcome: Ubayy weeps, quoted: 'wa-sammani
+    lak? na''am'}
+- {id: h-7665.3-valley, ref: 'Jāmiʿ 60:7665.3', unit: hadith-60-recite-to-ubayy, agent: son of Adam, action: asks for a second and third valley of wealth, number: 3, outcome: only dust fills his belly,
+  quoted: wa-la yamla'u jawfa ibn adam illa al-turab}
+- {id: h-7665.3-hanifiyya, ref: 'Jāmiʿ 60:7665.3', unit: hadith-60-recite-to-ubayy, object: religion with God, name: al-hanifiyya, quoted: al-hanifiyya ghayr al-mushrika wa-la al-yahudiyya wa-la al-nasraniyya}
+- {id: h-7667.1-zalzala, ref: 'Jāmiʿ 60:7667.1', unit: hadith-60-zalzala-comprehensive-sura, agent: an old man, action: asks for one comprehensive sura, object: al-Zalzala, outcome: '''aflaha al-ruwayjil''
+    said twice', quoted: kaburat sinni wa-shtadda qalbi wa-ghaluza lisani}
+- {id: h-7667.1-sacrifice, ref: 'Jāmiʿ 60:7667.1', unit: hadith-60-zalzala-comprehensive-sura, agent: a man without sacrificial animal, action: 'cuts hair, clips nails, trims moustache, shaves pubes', time: Day
+    of Sacrifice, outcome: this completes his sacrifice, quoted: fa-dhalika tamam udhiyatika 'inda allah}
+- {id: h-7668.1-dawn, ref: 'Jāmiʿ 60:7668.1', unit: hadith-60-zalzala-comprehensive-sura, agent: the prophet, action: recites al-Zalzala in both rakas, time: dawn prayer, number: 2}
+- {id: h-7669.1-gold, ref: 'Jāmiʿ 60:7669.1', unit: hadith-60-earth-vomits-gold-and-atom, agent: the earth, action: vomits the pieces of its liver, object: columns of gold and silver, outcome: 'killer,
+    severer of kin and thief leave it untouched', quoted: taqi'u al-ard afladh kabidiha amthal al-ustuwan}
+- {id: h-7670.1-donkeys, ref: 'Jāmiʿ 60:7670.1', unit: hadith-60-earth-vomits-gold-and-atom, agent: the prophet, action: asked about donkeys cites the atom's-weight verse, object: 'Q 99:7-8', quoted: al-aya
+    al-fadhdha al-jami'a}
+- id: h-7672.1-seventy
+  ref: Jāmiʿ 60:7672.1
+  unit: hadith-60-fire-seventy-parts
+  object: worldly fire
+  action: is one part of seventy of hell's
+  number: [70, 69]
+  quoted: juz' min sab'in juz'an min nar jahannam
+- id: h-7674.2-mine
+  ref: Jāmiʿ 60:7674.2
+  unit: hadith-60-takathur-mine-mine
+  agent: son of Adam
+  action: says 'my wealth, my wealth'
+  object: [what he ate, what he wore, what he gave as alms]
+  quoted: mali mali
+- id: h-7674.3-aswadan
+  ref: Jāmiʿ 60:7674.3
+  unit: hadith-60-asked-about-bliss
+  agent: al-Zubayr
+  action: asks which bliss they will be asked about
+  object: [dates, water]
+  outcome: '''that will come'''
+  quoted: huma al-aswadan al-tamr wa-l-ma'
+- {id: h-7675.2-debt, ref: 'Jāmiʿ 60:7675.2', unit: hadith-60-asked-about-bliss, agent: the prophet, action: blesses the date harvest to pay a Jewish creditor, place: Jabir's two gardens, outcome: paid
+    from the smaller garden; ripe dates and water called the bliss asked about, number: 2, quoted: hadha min al-na'im alladhi tus'aluna 'anhu}
+- id: h-7676.1-hunger
+  ref: Jāmiʿ 60:7676.1
+  unit: hadith-60-asked-about-bliss
+  agent: [the prophet, Abu Bakr, Umar]
+  action: driven out by hunger visit an Ansari
+  outcome: fed dates and a slaughtered sheep; told they will be asked about this bliss
+  quoted: iyyaka wa-l-halub
+- id: h-7676.2-three
+  ref: Jāmiʿ 60:7676.2
+  unit: hadith-60-asked-about-bliss
+  agent: the prophet
+  action: names what will not be asked about
+  object: [rag covering nakedness, crust for hunger, hole against heat and cold]
+  number: 3
+  quoted: khirqa ... kisra ... juhr
+- id: h-7677.1-abu-ayyub
+  ref: Jāmiʿ 60:7677.1
+  unit: hadith-60-asked-about-bliss
+  agent: Abu Ayyub
+  action: cuts a date cluster and slaughters a kid for the prophet
+  recipient: [the prophet, Abu Bakr, Umar]
+  object: [bread, meat, dates, unripe and ripe dates]
+  outcome: the prophet weeps; sends a share to Fatima; gives Abu Ayyub a slave girl whom he frees
+  quoted: la tadhbahanna dhat durr
+- {id: h-7682.1-elephant, ref: 'Jāmiʿ 60:7682.1', unit: hadith-60-elephant, agent: God, action: held back the elephant from Mecca, place: Mecca, name: al-fil, quoted: inna allaha habasa 'an makka al-fil}
+- {id: h-7683.1-driver, ref: 'Jāmiʿ 60:7683.1', unit: hadith-60-elephant, agent: Aisha, action: sees the elephant's driver and groom begging, place: Mecca, number: 2, outcome: blind and crippled, quoted: a'mayayni
+    muq'adayni yastat'imani}
+- id: h-7683.2-seven
+  ref: Jāmiʿ 60:7683.2
+  unit: hadith-60-quraysh-seven-merits
+  agent: God
+  action: favours Quraysh with seven traits
+  number: [7, 10]
+  object: [ten years sole worshippers, victory at the Elephant, a sura for them alone, prophethood, caliphate, hijaba, siqaya]
+- {id: h-7685.1-horns, ref: 'Jāmiʿ 60:7685.1', unit: hadith-60-hypocrite-pecks-prayer-at-sunset, agent: the hypocrite, action: waits for the sun and pecks four rakas, time: when the sun is between Satan's
+    horns, number: 4, quoted: qama fa-naqaraha arba'an}
+- {id: h-7686.1-kawthar, ref: 'Jāmiʿ 60:7686.1', unit: hadith-60-kawthar, agent: Gabriel, action: names the river seen on the ascent, object: river with domes of hollow pearl on its banks, name: al-Kawthar,
+  time: the ascent, quoted: hafatahu qibab al-lu'lu' mujawwafan}
+- {id: h-7686.2-basin, ref: 'Jāmiʿ 60:7686.2', unit: hadith-60-kawthar, agent: the prophet, action: wakes smiling from a doze with a new sura, object: the basin, number: vessels as many as the stars, outcome: 'a
+    man is pulled away: ''you do not know what he innovated after you''', quoted: aniyatuhu 'adad al-nujum}
+- id: h-7687.3-abtar
+  ref: Jāmiʿ 60:7687.3
+  unit: hadith-60-kawthar
+  agent: Quraysh
+  action: ask Ka'b b. al-Ashraf who is better
+  name: [Ka'b b. al-Ashraf, al-munbatir]
+  outcome: he judges Quraysh better; Q 108:3 and 4:51-52 come down
+  quoted: antum khayr minhu
+- {id: h-7688.2-rakas, ref: 'Jāmiʿ 60:7688.2', unit: hadith-60-kafirun, agent: the prophet, action: recites al-Kafirun and al-Ikhlas, time: before dawn and after maghrib, number: twenty-odd or ten-odd times}
+- {id: h-7689.1-sleep, ref: 'Jāmiʿ 60:7689.1', unit: hadith-60-kafirun, agent: Nawfal al-Ashja'i, action: is taught to recite al-Kafirun at sleep, outcome: it is disavowal of associating, quoted: thumma
+    nam 'ala khatimatiha}
+- {id: h-7690.1-conquest, ref: 'Jāmiʿ 60:7690.1', unit: hadith-60-nasr-sign-of-death, agent: the Arab tribes, action: await the conquest of Mecca before converting, outcome: each people hastens to Islam,
+  quoted: in zahara 'alayhim fa-huwa nabiyyun sadiq}
+- {id: h-7690.2-formula, ref: 'Jāmiʿ 60:7690.2', unit: hadith-60-nasr-sign-of-death, agent: the prophet, action: says in every prayer after al-Nasr, time: after al-Nasr came down, quoted: subhanaka rabbana
+    wa-bi-hamdika allahumma ighfir li}
+- {id: h-7690.5-youth, ref: 'Jāmiʿ 60:7690.5', unit: hadith-60-nasr-sign-of-death, agent: Umar, action: tests the Badr elders and young Ibn Abbas on al-Nasr, outcome: only Ibn Abbas reads it as the prophet's
+    term, quoted: huwa ajal rasul allah a'lamahu}
+- {id: h-7691.2-last, ref: 'Jāmiʿ 60:7691.2', unit: hadith-60-nasr-sign-of-death, object: al-Nasr, action: 'is the last sura revealed, whole', quoted: akhir sura nazalat min al-qur'an nazalat jami'an}
+- {id: h-7692.1-majaz, ref: 'Jāmiʿ 60:7692.1', unit: hadith-60-abu-lahab, agent: Abu Lahab, action: follows the preaching prophet calling him a liar, place: market of Dhu l-Majaz, quoted: ahwal dhu ghadiratayn
+    yaqulu innahu sabi' kadhib}
+- {id: h-7692.2-safa, ref: 'Jāmiʿ 60:7692.2', unit: hadith-60-abu-lahab, agent: the prophet, action: cries the alarm and calls the clans, place: al-Safa, outcome: 'Abu Lahab: ''perish you''; sura 111 comes
+    down', quoted: ya sabahah}
+- {id: h-7694.1-umm-jamil, ref: 'Jāmiʿ 60:7694.1', unit: hadith-60-abu-lahab, agent: Umm Jamil, action: comes with a stone to the prophet but cannot see him, instrument: a stone (fihr), place: the mosque,
+  outcome: speaks to Abu Bakr only, quoted: innaha lan tarani; mudhammaman abayna}
+- {id: h-7695.1-lineage, ref: 'Jāmiʿ 60:7695.1', unit: hadith-60-ikhlas-lineage-of-god, agent: the polytheists, action: ask for God's lineage, outcome: al-Ikhlas revealed, quoted: unsub lana rabbaka}
+- {id: h-7695.2-love, ref: 'Jāmiʿ 60:7695.2', unit: hadith-60-ikhlas-lineage-of-god, agent: a raid leader, action: ends every recitation with al-Ikhlas, outcome: God loves him, quoted: li-annaha sifat al-rahman}
+- {id: h-7696.2-quba, ref: 'Jāmiʿ 60:7696.2', unit: hadith-60-ikhlas-lineage-of-god, agent: an Ansari imam, action: opens every raka with al-Ikhlas, place: mosque of Quba', outcome: '''your love of it brings
+    you into paradise'''}
+- {id: h-7697.1-third, ref: 'Jāmiʿ 60:7697.1', unit: hadith-60-ikhlas-lineage-of-god, agent: the prophet, action: declares al-Ikhlas equal to a third of the Quran, number: 1/3, quoted: la-ta'dilu thulth
+    al-qur'an}
+- id: h-7699.3-books
+  ref: Jāmiʿ 60:7699.3
+  unit: hadith-60-three-protecting-suras
+  agent: the prophet
+  action: teaches three suras unlike any in earlier books
+  recipient: '''Uqba b. ''Amir'
+  object: [Torah, Psalms, Gospel, Furqan]
+  number: 3
+- {id: h-7700.1-insult, ref: 'Jāmiʿ 60:7700.1', unit: hadith-60-son-of-adam-belies-and-insults, agent: God, action: says the son of Adam belies and insults him, quoted: kadhdhabani ibn adam ... wa-shatamani}
+- {id: h-7700.2-patient, ref: 'Jāmiʿ 60:7700.2', unit: hadith-60-son-of-adam-belies-and-insults, agent: God, action: is most patient with insult, outcome: still gives health and provision, quoted: la-yad'una
+    lahu waladan}
+- {id: h-7701.2-palms, ref: 'Jāmiʿ 60:7701.2', unit: hadith-60-muawwidhatayn, agent: the prophet, action: 'blows into joined palms, recites three suras and wipes his body', time: every night at bedtime,
+  number: 3}
+- {id: h-7703.1-ride, ref: 'Jāmiʿ 60:7703.1', unit: hadith-60-muawwidhatayn, agent: the prophet, action: 'dismounts and lets ''Uqba ride, then teaches two suras and recites them in prayer', recipient: '''Uqba
+    b. ''Amir', place: a mountain pass}
+- {id: h-7704.1-moon, ref: 'Jāmiʿ 60:7704.1', unit: hadith-60-muawwidhatayn, agent: the prophet, action: shows Aisha the rising moon as the darkness, object: the moon, quoted: hadha al-ghasiq idha waqab}
+- {id: h-7704.2-ruqya, ref: 'Jāmiʿ 60:7704.2', unit: hadith-60-muawwidhatayn, agent: Gabriel, action: charms the sick prophet, recipient: the prophet, quoted: bismillah arqika ... min sharri kull nafs aw
+    'ayn hasid}
+- {id: h-7705.1-qarin, ref: 'Jāmiʿ 60:7705.1', unit: hadith-60-qarin-and-satan-shrinks, agent: the prophet's jinn companion, action: submitted and commands only good, quoted: fa-aslama fa-la ya'muruni illa
+    bi-khayr}
+- {id: h-7705.2-fly, ref: 'Jāmiʿ 60:7705.2', unit: hadith-60-qarin-and-satan-shrinks, agent: Satan, action: swells at 'Satan stumbled' and shrinks to a fly at 'in God's name', instrument: the prophet's
+    donkey stumbles, quoted: hatta yasira mithl al-dhubab}
+- {id: h-8342.1-night, ref: 'Jāmiʿ 65:8342.1', unit: hadith-65-hasten-deeds-before-dark-trials, object: trials, action: come like pieces of the dark night, outcome: 'believer at morning, unbeliever by evening',
+  quoted: ka-qita' al-layl al-muzlim}
+- {id: h-8342.3-thrice, ref: 'Jāmiʿ 65:8342.3', unit: hadith-65-happy-is-one-spared-trials, agent: the prophet, action: says three times the happy one is spared trials, number: 3, quoted: inna al-sa'id
+    la-man junniba al-fitan}
+- id: h-8343.1-pulpit
+  ref: Jāmiʿ 65:8343.1
+  unit: hadith-65-ask-me-from-the-pulpit
+  agent: the prophet
+  action: invites questions from the pulpit
+  outcome: [men weep heads in garments, '''your father is Hudhafa''', Umar's formula, paradise and hell pictured beneath the wall]
+  name: Hudhafa
+- id: h-8343.3-sheep
+  ref: Jāmiʿ 65:8343.3
+  unit: hadith-65-flee-with-sheep-to-hilltops
+  agent: the believer
+  action: flees with sheep to mountain peaks
+  place: [mountain peaks, rain places]
+  quoted: yafirru bi-dinihi min al-fitan
+- {id: h-8344.2-hajjaj, ref: 'Jāmiʿ 65:8344.2', unit: hadith-65-each-age-worse, agent: Anas b. Malik, action: answers complaints of al-Hajjaj, outcome: each age worse until you meet your Lord, name: al-Hajjaj}
+- id: h-8344.3-molars
+  ref: Jāmiʿ 65:8344.3
+  unit: hadith-65-farewell-admonition-and-first-affair
+  agent: the prophet
+  action: gives a farewell-like admonition
+  object: [obey even an Abyssinian slave, bite the sunna with the molars, every innovation error]
+  quoted: '''addu ''alayha bi-l-nawajidh'
+- {id: h-8345.1-carpet, ref: 'Jāmiʿ 65:8345.1', unit: hadith-65-farewell-admonition-and-first-affair, agent: the prophet, action: grips the carpet to show what to do in a trial, instrument: carpet (bisat),
+  quoted: taf'aluna hakadha}
+- {id: h-8345.2-tenth, ref: 'Jāmiʿ 65:8345.2', unit: hadith-65-a-tenth-of-what-he-knows, object: a tenth of what one knows, action: leaving it perishes now; holding it saves later, number: 1/10}
+- {id: h-8346.2-root, ref: 'Jāmiʿ 65:8346.2', unit: hadith-65-hold-to-the-community, agent: Hudhayfa, action: asks about evil, outcome: withdraw from all sects biting a tree root until death, quoted: du'at
+    'ala abwab jahannam}
+- {id: h-8347.1-bay'a, ref: 'Jāmiʿ 65:8347.1', unit: hadith-65-hold-to-the-community, agent: Ibn Umar, action: refuses a cushion and recites the hadith, recipient: Ibn Muti', time: 'the Harra, under Yazid',
+  quoted: mata mitatan jahiliyya}
+- id: h-8347.4-jabiya
+  ref: Jāmiʿ 65:8347.4
+  unit: hadith-65-hold-to-the-community
+  agent: Umar
+  action: preaches at al-Jabiya
+  object: [Satan with the lone man, Satan third with man and woman, testimony before asked]
+  place: al-Jabiya
+  number: 3
+- {id: h-8348.2-sitter, ref: 'Jāmiʿ 65:8348.2', unit: hadith-65-sitter-better-than-stander, object: people in the trial, action: 'graded sitter, stander, walker, runner', number: 4, quoted: al-qa'id fiha
+    khayr min al-qa'im}
+- {id: h-8349.2-camels, ref: 'Jāmiʿ 65:8349.2', unit: hadith-65-sitter-better-than-stander, agent: the believer, action: 'joins his camels, sheep or land, or beats his sword''s edge with a stone', instrument: a
+    stone, object: sword, quoted: fa-yaduqqu 'ala haddihi bi-hajar}
+- {id: h-8350.1-bows, ref: 'Jāmiʿ 65:8350.1', unit: hadith-65-sitter-better-than-stander, agent: the believers, action: 'break bows, cut bowstrings, strike swords on stones', outcome: be like the better
+    son of Adam, quoted: kassiru qisiyyakum wa-qatti'u awtarakum}
+- {id: h-8350.2-wood, ref: 'Jāmiʿ 65:8350.2', unit: hadith-65-wooden-sword, agent: Uhban b. Sayfi, action: shows Ali a wooden sword, recipient: Ali b. Abi Talib, place: Basra, instrument: sword of wood,
+  outcome: Ali leaves him, quoted: an attakhidha sayfan min khashab}
+- {id: h-8351.1-maslama, ref: 'Jāmiʿ 65:8351.1', unit: hadith-65-wooden-sword, agent: Muhammad b. Maslama, action: keeps a wooden sword hanging on his tent pole, place: al-Rabadha, instrument: sword of
+    wood, quoted: fa'ti bi-sayfika uhudan}
+- id: h-8352.1-kneel
+  ref: Jāmiʿ 65:8352.1
+  unit: hadith-65-wooden-sword
+  agent: Ibn Abi Awfa
+  action: breaks his sword and kneels in his inner room
+  place: [house, inner room (makhda')]
+  quoted: bu' bi-ithmi wa-ithmik
+- {id: h-8353.1-bulls, ref: 'Jāmiʿ 65:8353.1', unit: hadith-65-wooden-sword, object: trials, action: strike like stallion bulls butting, quoted: ka-sadmi jibah fuhul al-thiran}
+- {id: h-8353.3-rock, ref: 'Jāmiʿ 65:8353.3', unit: hadith-65-wooden-sword, agent: Muhammad b. Maslama, action: strikes his sword on the greatest rock of the Harra until it breaks, place: the Harra, outcome: sits
+    at home, quoted: hatta ta'tiyaka yad khati'a aw maniyya qadiya}
+- id: h-8354.1-ladder
+  ref: Jāmiʿ 65:8354.1
+  unit: hadith-65-days-of-harj-grip-wrist
+  agent: Ibn Mas'ud
+  action: visits at midday and recites the graded ladder
+  number: 7
+  place: Kufa
+  object: [sleeper, reclining, sitting, standing, walking, riding, galloping]
+  outcome: grip the wrist and say 'my Lord is God'
+  quoted: rabbi allah
+- id: h-8355.1-zayt
+  ref: Jāmiʿ 65:8355.1
+  unit: hadith-65-abu-dharr-three-calamities
+  agent: the prophet
+  action: asks Abu Dharr three questions riding pillion on a donkey
+  object: [famine, plague, killing]
+  place: stones of al-Zayt
+  number: 3
+  outcome: cast cloak over face
+  quoted: hatta taghraqa hijarat al-zayt min al-dima'
+- {id: h-8356.1-horn, ref: 'Jāmiʿ 65:8356.1', unit: hadith-65-word-that-splits-the-community, agent: Ibn Umar, action: unties his garment but holds back a word against Mu'awiya, outcome: recalls paradise,
+  quoted: fa-l-yutli' lana qarnahu}
+- {id: h-8357.1-thorns, ref: 'Jāmiʿ 65:8357.1', unit: hadith-65-grasping-thorns-or-embers, object: one holding his religion, action: is like one gripping thorny branches or ghada embers, quoted: ka-l-qabid
+    'ala khabat al-shawk aw jamr al-ghada}
+- {id: h-8358.1-harj, ref: 'Jāmiʿ 65:8358.1', unit: hadith-65-worship-in-harj, object: worship in tumult, action: equals emigration to the prophet, quoted: al-'ibada fi l-harj ka-hijra ilayya}
+- {id: h-8358.2-sermon, ref: 'Jāmiʿ 65:8358.2', unit: hadith-65-day-long-sermon-to-the-hour, agent: the prophet, action: preaches from dawn to sunset descending only to pray, time: from fajr to sunset,
+  outcome: told what was and will be, number: 3}
+- {id: h-8360.3-summer, ref: 'Jāmiʿ 65:8360.3', unit: hadith-65-hudhayfa-and-the-door, agent: the prophet, action: counts the trials, number: 3, quoted: ka-riyah al-sayf minha sighar wa-minha kibar}
+- {id: h-8361.1-door, ref: 'Jāmiʿ 65:8361.1', unit: hadith-65-hudhayfa-and-the-door, agent: Hudhayfa, action: tells Umar a closed door will be broken, object: the door, name: Umar, outcome: never closed
+    again, quoted: la bal yuksar}
+- {id: h-8361.2-mat, ref: 'Jāmiʿ 65:8361.2', unit: hadith-65-hudhayfa-and-the-door, object: trials, action: are presented to hearts strand by strand, instrument: reed mat (hasir), outcome: 'a white heart
+    like smooth rock, a black heart like an upturned jug', quoted: ka-l-kuz mujakhkhiyan}
+- {id: h-8362.1-amana, ref: 'Jāmiʿ 65:8362.1', unit: hadith-65-trust-lifted-from-hearts, object: trust, action: descends into the root of hearts and is taken in sleep, outcome: trace like a blister from
+    a rolled ember, instrument: a pebble rolled on his foot, quoted: ka-jamr dahrajtahu 'ala rijlik}
+- {id: h-8364.1-mudar, ref: 'Jāmiʿ 65:8364.1', unit: hadith-65-hudhayfa-sequence-of-good-and-evil, agent: Mudar, action: tries every righteous servant until humbled, outcome: cannot defend the bottom of
+    a gully, quoted: la tamna'a dhanab tal'a}
+- {id: h-8365.1-sequence, ref: 'Jāmiʿ 65:8365.1', unit: hadith-65-hudhayfa-sequence-of-good-and-evil, object: rule, action: passes through five stages, number: 5, quoted: nubuwwa; khilafa; mulk 'add; mulk
+    jabriyya; khilafa}
+- id: h-8365.2-embroidery
+  ref: Jāmiʿ 65:8365.2
+  unit: hadith-65-hudhayfa-sequence-of-good-and-evil
+  object: [Islam, the Book]
+  action: wears away; the Book is taken in one night
+  outcome: old people keep only 'la ilaha illa allah'
+  time: one night
+  quoted: kama yadrusu washy al-thawb
+- id: h-8366.3-twelve
+  ref: Jāmiʿ 65:8366.3
+  unit: hadith-65-jara-day-and-hypocrites
+  object: hypocrites
+  action: will not enter paradise till the camel passes the needle's eye
+  number: [12, 8]
+  outcome: dubayla, a lamp of fire bursting from the chest
+  quoted: hatta yalija al-jamal fi samm al-khiyat
+- id: h-8367.1-aqaba
+  ref: Jāmiʿ 65:8367.1
+  unit: hadith-65-jara-day-and-hypocrites
+  agent: Hudhayfa
+  action: counts the men of the Aqaba
+  number: [14, 15, 12, 3]
+  place: al-'Aqaba
+  outcome: twelve at war with God, three excused
+- id: h-8368.2-liars
+  ref: Jāmiʿ 65:8368.2
+  unit: hadith-65-dajjal-in-hudhayfas-reports
+  object: liars and deceivers
+  action: will arise in the community
+  number: [27, 4]
+  quoted: minhum arba' niswa
+- id: h-8368.4-water
+  ref: Jāmiʿ 65:8368.4
+  unit: hadith-65-dajjal-in-hudhayfas-reports
+  agent: the Dajjal
+  action: brings water that is fire and fire that is water
+  instrument: [water, fire]
+  outcome: fall into what looks like fire
+  quoted: fa-innahu ma' 'adhb tayyib
+- {id: h-8369.1-eye, ref: 'Jāmiʿ 65:8369.1', unit: hadith-65-dajjal-in-hudhayfas-reports, agent: the Dajjal, action: has an effaced eye with thick film and 'kafir' between his eyes, quoted: yaqra'uhu kull
+    mu'min katib wa-ghayr katib}
+- {id: h-8369.3-kfr, ref: 'Jāmiʿ 65:8369.3', unit: hadith-65-dajjal-in-hudhayfas-reports, agent: the Dajjal, action: has k-f-r spelled between his eyes, quoted: muhajjat k f r}
+- id: h-8370.1-foal
+  ref: Jāmiʿ 65:8370.1
+  unit: hadith-65-hudhayfa-sequence-of-good-and-evil
+  agent: Hudhayfa
+  action: asks what comes after each evil
+  time: before the Hour
+  object: [sword, truce on smoke, Dajjal with river and fire]
+  outcome: the Hour before a foal is born
+  quoted: hudna 'ala dakhan
+- {id: h-8373.1-vessel, ref: 'Jāmiʿ 65:8373.1', unit: hadith-65-what-remains-of-the-world, object: a man's deeds, action: 'likened to a vessel, top and bottom alike', instrument: vessel (wi'a')}
+- {id: h-8373.2-chambers, ref: 'Jāmiʿ 65:8373.2', unit: hadith-65-treasures-and-trials-sent-down, agent: the prophet, action: wakes alarmed at night, outcome: '''who will wake the women of the chambers''',
+  quoted: madha anzala allah min al-khaza'in wa-madha anzala min al-fitan}
+- id: h-8373.3-millstone
+  ref: Jāmiʿ 65:8373.3
+  unit: hadith-65-millstone-of-islam
+  object: the millstone of Islam
+  action: turns
+  number: [35, 36, 37, 70]
+  quoted: tadur raha al-islam
+- {id: h-8374.1-serpents, ref: 'Jāmiʿ 65:8374.1', unit: hadith-65-trials-like-canopies-black-serpents, object: you, action: will return as black serpents striking necks, quoted: asawida subban}
+- id: h-8375.1-tents
+  ref: Jāmiʿ 65:8375.1
+  unit: hadith-65-trials-of-ahlas-sarra-duhayma
+  object: [fitnat al-ahlas, fitnat al-sarra', fitnat al-duhayma']
+  action: three trials named in sequence
+  number: 3
+  outcome: two tents, then the Dajjal
+  quoted: fustat iman ... fustat nifaq
+- {id: h-8376.1-rain, ref: 'Jāmiʿ 65:8376.1', unit: hadith-65-trials-fall-like-rain, agent: the prophet, action: looks from a fortress and sees trials, place: a fortress of Medina, quoted: ka-waq' al-qatr}
+- {id: h-8378.1-nahr, ref: 'Jāmiʿ 65:8378.1', unit: hadith-65-do-not-revert-striking-necks, agent: the prophet, action: asks what day and land this is, time: Day of Sacrifice, place: the sacred town, outcome: 'blood,
+    property and honour sacred', quoted: a-laysa bi-yawm al-nahr}
+- {id: h-8378.2-afnad, ref: 'Jāmiʿ 65:8378.2', unit: hadith-65-do-not-revert-striking-necks, agent: the prophet, action: says he will die among the first, outcome: followed in scattered groups, quoted: tattabi'uni
+    afnadan}
+- {id: h-8379.1-ahnaf, ref: 'Jāmiʿ 65:8379.1', unit: hadith-65-two-muslims-with-swords, agent: Abu Bakra, action: turns al-Ahnaf back from aiding Ali, recipient: al-Ahnaf b. Qays, outcome: killer and killed
+    in the fire, quoted: innahu kana harisan 'ala qatl sahibihi}
+- id: h-8380.2-gog
+  ref: Jāmiʿ 65:8380.2
+  unit: hadith-65-woe-to-the-arabs
+  agent: the prophet
+  action: wakes red-faced and shows the gap opened in Gog and Magog's barrier
+  instrument: ring of the fingers
+  number: [90, 100, 10]
+  name: [Gog, Magog]
+  quoted: futiha al-yawm min radm ya'juj wa-ma'juj mithl hadhihi
+- {id: h-8381.1-farrukh, ref: 'Jāmiʿ 65:8381.1', unit: hadith-65-woe-to-the-arabs, object: sons of Farrukh, action: would reach knowledge though at the Pleiades, place: the Pleiades, quoted: law kana al-'ilm
+    bi-l-thurayya la-nalahu}
+- {id: h-8382.1-barza, ref: 'Jāmiʿ 65:8382.1', unit: hadith-65-fighting-for-the-world, agent: Abu Barza, action: condemns all factions from his reed loft, place: Basra, outcome: the one in Syria fights
+    for the world}
+- id: h-8383.1-aris
+  ref: Jāmiʿ 65:8383.1
+  unit: hadith-65-well-of-aris-gatekeeper
+  agent: Abu Musa
+  action: keeps the gate and admits three with glad tidings
+  object: [Abu Bakr, Umar, Uthman]
+  place: a garden well
+  number: 3
+  outcome: Uthman's paradise with an affliction
+  quoted: ma'aha bala' yusibuhu
+- {id: h-8384.1-hawala, ref: 'Jāmiʿ 65:8384.1', unit: hadith-65-trial-of-uthmans-killing, agent: the prophet, action: 'asks Ibn Hawala three times ''shall we write you?''', object: trials like cows' horns,
+  outcome: '''follow this one'': Uthman', number: 3, quoted: ka-annaha sayasi baqar}
+- id: h-8385.2-three
+  ref: Jāmiʿ 65:8385.2
+  unit: hadith-65-trial-of-uthmans-killing
+  object: [my death, killing of a caliph, the Dajjal]
+  action: whoever is saved from them is saved
+  number: 3
+- {id: h-8386.1-bricks, ref: 'Jāmiʿ 65:8386.1', unit: hadith-65-ammar-and-the-rebel-party, agent: Ammar, action: carries two bricks at a time building the mosque, number: 2, outcome: the rebel party will
+    kill him, quoted: labinatayn labinatayn}
+- {id: h-8386.4-head, ref: 'Jāmiʿ 65:8386.4', unit: hadith-65-ammar-and-the-rebel-party, agent: two men, action: dispute Ammar's head before Mu'awiya, number: 2, outcome: '''Abd Allah b. ''Amr cites the
+    prophecy'}
+- {id: h-8387.3-brought, ref: 'Jāmiʿ 65:8387.3', unit: hadith-65-ammar-and-the-rebel-party, agent: Mu'awiya, action: answers Amr b. al-As, outcome: '''those who brought him killed him''', quoted: dahadta
+    fi bawlik}
+- {id: h-8388.1-cup, ref: 'Jāmiʿ 65:8388.1', unit: hadith-65-ammar-and-the-rebel-party, agent: Abu l-Ghadiya, action: refuses a silver-plated cup, place: Wasit, outcome: he had killed Ammar at Siffin through
+    the mail's gap, quoted: ina' mufaddad}
+- {id: h-8389.1-aisha, ref: 'Jāmiʿ 65:8389.1', unit: hadith-65-aisha-wife-in-both-worlds, agent: Ammar, action: speaks of Aisha from the Kufa pulpit, place: Kufa, time: march to Basra, quoted: la-zawjat
+    nabiyyikum fi l-dunya wa-l-akhira}
+- id: h-8389.3-arrow
+  ref: Jāmiʿ 65:8389.3
+  unit: hadith-65-khawarij-pass-through-religion
+  object: the Khawarij
+  action: pass through religion like an arrow through game
+  instrument: [arrowhead, binding, shaft, feathers]
+  outcome: nothing found on it
+  quoted: sabaqa al-farth wa-l-dam
+- {id: h-8389.3-breast, ref: 'Jāmiʿ 65:8389.3', unit: hadith-65-khawarij-pass-through-religion, object: their sign, action: a black man with an arm like a woman's breast, outcome: found among the slain,
+  quoted: mithl thady al-mar'a aw mithl al-bad'a tadardar}
+- id: h-8390.1-nugget
+  ref: Jāmiʿ 65:8390.1
+  unit: hadith-65-khawarij-pass-through-religion
+  agent: the prophet
+  action: divides a gold nugget among four chiefs
+  object: gold nugget in tanned leather
+  number: 4
+  name: ['''Uyayna b. Badr', al-Aqra' b. Habis, Zayd al-Khayl, '''Alqama b. ''Ulatha / ''Amir b. al-Tufayl']
+- {id: h-8390.1-thamud, ref: 'Jāmiʿ 65:8390.1', unit: hadith-65-khawarij-pass-through-religion, agent: the prophet, action: foresees a people from the man's stock, outcome: would kill them as Thamud, quoted: min
+    di'di' hadha}
+- {id: h-8391.1-nearer, ref: 'Jāmiʿ 65:8391.1', unit: hadith-65-khawarij-pass-through-religion, object: the Khawarij, action: killed by the party nearer the truth, place: Iraq, quoted: adna al-ta'ifatayn
+    ila al-haqq}
+- {id: h-8393.1-twenty, ref: 'Jāmiʿ 65:8393.1', unit: hadith-65-khawarij-pass-through-religion, object: each generation of them, action: cut off, number: 20, outcome: until the Dajjal comes out in their
+    midst}
+- {id: h-8396.1-azariqa, ref: 'Jāmiʿ 65:8396.1', unit: hadith-65-khawarij-pass-through-religion, agent: Abu Umama, action: weeps at the Azariqa heads on the steps, place: Damascus, outcome: calls them dogs
+    of the fire three times, number: 3, quoted: kilab al-nar}
+- id: h-8397.1-circle
+  ref: Jāmiʿ 65:8397.1
+  unit: hadith-65-man-praying-who-is-not-killed
+  agent: [Abu Bakr, Umar]
+  action: sent to kill a praying man, return without killing
+  instrument: a circle drawn around himself
+  outcome: Ali finds him gone
+- {id: h-8398.2-haruriyya, ref: 'Jāmiʿ 65:8398.2', unit: hadith-65-the-maimed-one, agent: Ali, action: answers 'judgment is God's alone', outcome: the marked man found in a ruin, quoted: kalimat haqq urida
+    biha batil}
+- {id: h-8399.2-bridge, ref: 'Jāmiʿ 65:8399.2', unit: hadith-65-the-maimed-one, agent: Ali's army, action: meets the Khawarij past a bridge, name: '''Abd Allah b. Wahb al-Rasibi', number: 2, outcome: only
+    two of Ali's men fall; the mukhdaj found under the dead, quoted: sadaqa allah wa-ballagha rasuluhu}
+- {id: h-8401.2-moses, ref: 'Jāmiʿ 65:8401.2', unit: hadith-65-trial-from-the-east, agent: Moses, action: killed a man of Pharaoh's people by mistake, outcome: 'God: ''and we tried you''', quoted: khata'an}
+- id: h-8401.3-najd
+  ref: Jāmiʿ 65:8401.3
+  unit: hadith-65-trial-from-the-east
+  agent: the prophet
+  action: blesses Syria and Yemen, not Najd
+  place: [Syria, Yemen, Najd]
+  number: 3
+  outcome: earthquakes and trials; Satan's horn
+- id: h-8401.4-measures
+  ref: Jāmiʿ 65:8401.4
+  unit: hadith-65-measures-withheld
+  object: [qafiz, dirham, mudy, dinar, irdabb]
+  action: will be withheld
+  place: [Iraq, Syria, Egypt]
+  number: 3
+- {id: h-8403.2-kaaba, ref: 'Jāmiʿ 65:8403.2', unit: hadith-65-abyssinians-and-kaaba-treasure, agent: the thin-shanked one of Abyssinia, action: takes out the Kaaba's treasure, name: dhu al-suwayqatayn}
+- id: h-8404.2-whips
+  ref: Jāmiʿ 65:8404.2
+  unit: hadith-65-misleading-imams-and-whips
+  object: [men with whips like cows' tails, women clothed yet naked]
+  action: are two kinds of hell-dwellers not yet seen
+  number: 2
+  quoted: ka-asnimat al-bukht al-ma'ila
+- id: h-8405.1-zawa
+  ref: Jāmiʿ 65:8405.1
+  unit: hadith-65-earth-folded-three-requests
+  agent: God
+  action: folds the earth for the prophet
+  object: [east and west, red and white treasures]
+  number: 3
+  outcome: two requests granted, mutual violence refused
+  quoted: inni idha qadaytu qada'an fa-innahu la yuradd
+- id: h-8406.1-banu-muawiya
+  ref: Jāmiʿ 65:8406.1
+  unit: hadith-65-earth-folded-three-requests
+  agent: the prophet
+  action: prays two rakas and asks three things
+  place: mosque of Banu Mu'awiya
+  number: [2, 3]
+  outcome: famine and drowning granted, internal violence refused
+- {id: h-8407.2-shafa'a, ref: 'Jāmiʿ 65:8407.2', unit: hadith-65-earth-folded-three-requests, agent: the prophet, action: asks intercession for a community that will shed blood, outcome: granted}
+- {id: h-8408.1-sword, ref: 'Jāmiʿ 65:8408.1', unit: hadith-65-earth-folded-three-requests, object: this community, action: is punished by the sword, place: house of Ziyad}
+- {id: h-8409.1-youths, ref: 'Jāmiʿ 65:8409.1', unit: hadith-65-quraysh-youths-and-perishing, agent: Abu Hurayra, action: names the youths of Quraysh as the community's ruin, recipient: Marwan, place: mosque
+    of Medina}
+- {id: h-8409.3-sandal, ref: 'Jāmiʿ 65:8409.3', unit: hadith-65-quraysh-youths-and-perishing, agent: a woman, action: passes a sandal and says it is a Qurashi's, outcome: Quraysh perish fastest}
+- {id: h-8410.1-daban, ref: 'Jāmiʿ 65:8410.1', unit: hadith-65-quraysh-youths-and-perishing, object: people after Quraysh, action: 'become locust-nymphs, strong eating weak', name: daban}
+- {id: h-8410.2-lizard, ref: 'Jāmiʿ 65:8410.2', unit: hadith-65-follow-ways-of-predecessors, agent: this community, action: follows its predecessors span by span, place: a lizard's hole, quoted: shibran
+    bi-shibr wa-dhira'an bi-dhira'}
+- {id: h-8411.3-anwat, ref: 'Jāmiʿ 65:8411.3', unit: hadith-65-follow-ways-of-predecessors, agent: new Muslims, action: ask for a tree to hang weapons on, place: road to Khaybar, name: Dhat Anwat, outcome: 'likened
+    to ''make us a god'' (Q 7:138)'}
+- id: h-8412.2-sects
+  ref: Jāmiʿ 65:8412.2
+  unit: hadith-65-seventy-three-sects
+  object: [Jews, Christians, this community]
+  action: split into sects
+  number: [71, 72, 73]
+  outcome: 'one in paradise: the community'
+- {id: h-8413.3-rabies, ref: 'Jāmiʿ 65:8413.3', unit: hadith-65-seventy-three-sects, object: passions, action: run through them like rabies, place: 'Mecca, after the noon prayer', quoted: kama yatajara
+    al-kalab bi-sahibihi}
+- {id: h-8414.1-lions, ref: 'Jāmiʿ 65:8414.1', unit: hadith-65-persians-become-lions, object: non-Arabs, action: fill your hands then become lions, outcome: 'kill your fighters, eat your spoil', quoted: usdan
+    la yafirruna}
