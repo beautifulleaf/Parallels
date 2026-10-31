@@ -823,7 +823,7 @@ units:
       - {motif: idols-began-as-memorial-statues-of-righteous-men, refs: ["Jāmiʿ 60:7595.2"], note: "وسموها بأسمائهم ففعلوا، فلم تعبد"}
     hints:
       - "Images of the dead set up and later worshipped against Wisdom of Solomon 14:15-16, the father who makes an image of his dead child, honoured as a god as time passes."
-  - id: hadith-60-jinn-hear-the-quran
+  - id: hadith-60-jinn-hear-the-quran-surat-al-jinn
     tradition: islam
     corpus: hadith
     original: true

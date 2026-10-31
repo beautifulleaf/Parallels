@@ -1,0 +1,2592 @@
+# Hadith chunk 17: al-Jāmiʿ al-Kāmil book 60 (tafsir, suras 96-114), pp. 7660-7706, and book 65 (al-Fitan wa-Ashrat al-Sa'a), pp. 8342-8414.
+# Read in full from the Arabic (236 hadith).
+new_motifs:
+  i-am-not-a-reader:
+    label: Told 'recite!' by the angel, the prophet answers three times 'I am not a reader' (ma ana bi-qari')
+    cluster: revelation
+  revelation-pauses-after-first-vision:
+    label: After the first revelation and Waraqa's death revelation pauses for a time (fatra) and the prophet grieves
+    cluster: revelation
+  assailant-recoils-from-trench-of-fire-and-wings:
+    label: 'The enemy approaching the praying prophet recoils on his heels, shielding himself with his hands: between them a trench of fire, terror and wings'
+    cluster: angels
+  angels-would-snatch-him-limb-by-limb:
+    label: Had he come near, the angels would have snatched him limb by limb
+    cluster: angels
+  threefold-did-i-not-forbid-you:
+    label: 'The enemy rebukes the praying prophet three times: ''did I not forbid you this?''; the prophet rebuffs him'
+    cluster: sira
+  prostrating-in-water-and-mud-as-sign:
+    label: Shown the Night of Decree, the prophet sees himself prostrating in water and mud as its sign
+    cluster: dreams
+  standing-night-of-decree-forgives-past-sins:
+    label: Whoever stands (in prayer) the Night of Decree in faith and hope of reward is forgiven his past sins
+    cluster: ritual
+  god-names-companion-for-recitation:
+    label: 'God commands the prophet to recite a sura to a named companion: ''did he name me to you?'' - ''yes''; ''was I mentioned before the Lord of the worlds?'''
+    cluster: revelation
+  companion-weeps-on-being-named-by-god:
+    label: The companion weeps (his eyes overflow) on learning God named him
+    cluster: sira
+  son-of-adam-would-seek-third-valley-only-dust-fills:
+    label: Given one valley of wealth, the son of Adam would ask a second and a third; only dust fills his belly; God turns to whoever repents
+    cluster: ethics
+  religion-with-god-is-hanifiyya-not-jewish-nor-christian:
+    label: 'A recited passage: the religion with God is the hanifiyya, not associating, not Jewish, not Christian'
+    cluster: polemic
+  old-man-asks-for-comprehensive-sura:
+    label: An aged man, his heart hardened and tongue thick, refuses the long sura groups and asks for one comprehensive sura; he is taught al-Zalzala
+    cluster: ritual
+  will-add-nothing-to-it:
+    label: He swears he will add nothing to it; the prophet twice says 'the little man has prospered'
+    cluster: ethics
+  trim-hair-nails-moustache-as-complete-sacrifice:
+    label: 'One with no animal but his son''s lent milch-beast is told to cut his hair, clip nails, trim moustache and shave pubes: that completes his sacrifice'
+    cluster: ritual
+  same-sura-in-both-rakas-of-dawn:
+    label: The prophet recites al-Zalzala in both rakas of the dawn prayer; the hearer cannot tell if by forgetting or on purpose
+    cluster: ritual
+  earth-vomits-pieces-of-its-liver-gold-and-silver:
+    label: The earth vomits the pieces of its liver, columns of gold and silver
+    cluster: eschatology
+  killer-severer-thief-each-says-for-this-i:
+    label: The killer, the severer of kin and the thief each come and say 'for this I killed / cut my kin / had my hand cut', and leave it untouched
+    cluster: eschatology
+  only-wealth-eaten-worn-or-given-is-yours:
+    label: The son of Adam says 'my wealth, my wealth'; his only wealth is what he ate and consumed, wore and wore out, or gave and sent ahead
+    cluster: ethics
+  disputes-of-this-world-resumed-before-god:
+    label: 'Asked whether worldly disputes will be resumed before God at the resurrection: ''yes'''
+    cluster: eschatology
+  ripe-dates-and-water-are-bliss-asked-about:
+    label: 'Fresh dates and water after a hard-won harvest: ''this is of the bliss you will be asked about'''
+    cluster: ethics
+  hunger-drives-three-out-at-midday:
+    label: Abu Bakr and Umar, then the prophet, are driven from their houses by hunger at an odd hour; they go together to an Ansari's house
+    cluster: sira
+  do-not-slaughter-the-milch-animal:
+    label: 'The host taking his knife is told: ''beware of the milking animal; do not slaughter one with milk'''
+    cluster: ethics
+  you-will-be-asked-about-this-bliss:
+    label: 'After hunger and a full meal: ''by him in whose hand is my soul you will be asked about this bliss on the day of resurrection'''
+    cluster: eschatology
+  asked-about-all-but-rag-morsel-and-hole:
+    label: 'Everything will be asked about except three: a rag covering nakedness, a crust stopping hunger, a hole sheltering from heat and cold'
+    cluster: eschatology
+  bismillah-before-and-praise-after-eating:
+    label: At food say 'in God's name'; when sated 'praise God who sated us and favoured us'
+    cluster: ritual
+  prophet-sends-share-to-fatima:
+    label: At a feast the prophet puts meat in a loaf for Fatima, who has not had its like for days
+    cluster: sira
+  host-repaid-with-slave-girl-whom-he-frees:
+    label: The prophet repays his host next day with a slave girl, 'treat her well'; the host frees her
+    cluster: ethics
+  elephants-driver-and-groom-blind-beggars-in-mecca:
+    label: Aisha saw the elephant's driver and groom in Mecca, blind and crippled, begging food
+    cluster: sira
+  quraysh-favoured-with-seven-traits:
+    label: God favoured Quraysh with seven traits, among them ten years when only Qurashis worshipped him, victory at the Elephant while polytheists, and a sura about them alone
+    cluster: sira
+  kawthar-banks-domes-of-hollow-pearl:
+    label: Al-Kawthar's two banks are domes of hollowed pearl
+    cluster: eschatology
+  sura-revealed-in-a-doze-prophet-smiles:
+    label: 'The prophet dozes among them, raises his head smiling: ''a sura was just sent down to me'''
+    cluster: revelation
+  basin-vessels-numbered-as-the-stars:
+    label: The basin's vessels are as many as the stars
+    cluster: eschatology
+  man-pulled-away-from-basin-you-know-not-what-he-innovated:
+    label: A man of his community is pulled away from the basin; 'Lord, he is of my community' - 'you do not know what he innovated after you'
+    cluster: eschatology
+  kawthar-is-the-abundant-good:
+    label: 'Ibn Abbas: al-Kawthar is the good God gave him; the river in paradise is part of that good'
+    cluster: revelation
+  jewish-leader-judges-pagans-better-guided:
+    label: Asked by Quraysh, a Jewish leader judges them better than the prophet, and verses come down
+    cluster: polemic
+  kafirun-and-ikhlas-in-two-rakas-of-dawn:
+    label: Al-Kafirun and al-Ikhlas recited in the two rakas before the dawn prayer (and after sunset)
+    cluster: ritual
+  kafirun-reciter-freed-from-shirk-ikhlas-reciter-forgiven:
+    label: 'Hearing one man recite al-Kafirun: ''he is freed of associating''; another al-Ikhlas: ''he is forgiven'''
+    cluster: ritual
+  kafirun-at-sleep-then-sleep-on-its-end:
+    label: 'Recite al-Kafirun at bedtime and sleep on its close: it is disavowal of associating'
+    cluster: ritual
+  prophet-places-child-with-foster-father:
+    label: 'The prophet hands Umm Salama''s daughter to a man: ''you are her foster-father'''
+    cluster: sira
+  tribes-waited-on-conquest-of-mecca-to-convert:
+    label: 'The Arab tribes delayed Islam awaiting the conquest: ''if he prevails over his people he is a true prophet'''
+    cluster: sira
+  glory-praise-forgive-formula-in-bowing:
+    label: After al-Nasr the prophet says in bowing and prostration 'glory be to you our Lord and praise; O God forgive me', 'interpreting the Quran'
+    cluster: ritual
+  lord-told-him-of-a-sign-in-his-community:
+    label: '''My Lord told me I would see a sign in my community; when I saw it I should glorify and ask forgiveness'''
+    cluster: revelation
+  caliph-tests-elders-with-youths-tafsir:
+    label: Umar seats a youth with the old Badr veterans and tests them on a sura; only the youth reads it as the prophet's death notice
+    cluster: sira
+  woman-with-stone-cannot-see-the-prophet:
+    label: 'The hostile woman comes with a stone in her hand but does not see the prophet sitting beside his companion: ''she will not see me'''
+    cluster: miracle
+  mudhammam-we-reject:
+    label: 'The enemy woman''s rhyme: ''Mudhammam we reject, his religion we hate, his command we disobey''; stumbling she says ''perish Mudhammam'''
+    cluster: polemic
+  polytheists-ask-gods-lineage:
+    label: The polytheists ask 'give us your Lord's lineage' and al-Ikhlas is revealed
+    cluster: revelation
+  what-is-born-dies-what-dies-is-inherited:
+    label: Nothing born but will die, nothing dies but is inherited; God neither dies nor is inherited
+    cluster: theology
+  love-of-ikhlas-earns-gods-love-and-paradise:
+    label: A man who loves al-Ikhlas because 'it is the description of the Merciful' is told God loves him; 'your love of it brings you into paradise'
+    cluster: ritual
+  imam-joins-ikhlas-to-every-raka:
+    label: An imam opens every raka with al-Ikhlas and then adds another sura; his people object, the prophet approves
+    cluster: ritual
+  chose-meal-with-prophet-over-giving-good-news:
+    label: A companion delays bringing a man good news for fear of missing his meal with the prophet, and finds him gone
+    cluster: sira
+  ikhlas-equals-third-of-quran:
+    label: Al-Ikhlas equals one third of the Quran; God divided the Quran into three parts
+    cluster: revelation
+  man-repeats-one-sura-all-night:
+    label: A man repeats al-Ikhlas through the night adding nothing; another thinks it little
+    cluster: ritual
+  assemble-i-will-recite-a-third:
+    label: '''Gather, I will recite a third of the Quran to you''; he recites al-Ikhlas and goes in; they think news came from heaven'
+    cluster: revelation
+  verses-revealed-tonight-none-like-them:
+    label: '''Verses were sent down tonight whose like was never seen'': the two refuge suras'
+    cluster: revelation
+  say-said-three-times-then-the-suras:
+    label: '''Say!'' - ''what shall I say?'' three times, then the refuge suras; ''no asker asked and no seeker of refuge sought refuge with their like'''
+    cluster: revelation
+  sura-dearer-to-god-than-hud-and-yusuf:
+    label: Asking to be taught Hud and Yusuf, he is told no sura is dearer or more effective with God than al-Falaq
+    cluster: ritual
+  it-was-said-to-me-so-i-said:
+    label: 'On the refuge suras: ''it was said to me (qul), so I said''; ''we say as the prophet said'''
+    cluster: revelation
+  prophet-leads-camel-companion-rides:
+    label: The prophet offers his mount to the companion leading it, dismounts, lets him ride a little, then rides again
+    cluster: sira
+  gabriel-recites-ruqya-over-sick-prophet:
+    label: Gabriel asks 'are you ill?' and recites the charm 'in God's name I charm you from all that harms you, every soul and envious eye'
+    cluster: angels
+  prophets-jinn-companion-submitted:
+    label: The prophet's jinn companion submitted (aslama) and commands only good
+    cluster: demonology
+  satan-swells-at-curse-shrinks-to-fly-at-gods-name:
+    label: 'Say not ''Satan stumbled'': he swells and says ''by my strength I threw him''; at ''in God''s name'' he shrinks until like a fly'
+    cluster: demonology
+  trials-like-pieces-of-dark-night:
+    label: Trials like pieces of the dark night before the Hour
+    cluster: prophecy
+  believer-at-morning-unbeliever-at-evening:
+    label: In the trials a man is a believer at morning and an unbeliever by evening, and the reverse
+    cluster: prophecy
+  sells-religion-for-worldly-goods:
+    label: He sells his religion for a thing of this world
+    cluster: prophecy
+  happy-is-he-spared-trials-thrice:
+    label: '''The happy one is he who is spared trials'' said three times, ''and he who is tried and endures: waha!'''
+    cluster: prophecy
+  refuge-from-trials-outward-and-inward:
+    label: '''Seek refuge in God from trials, what shows of them and what is hidden'', and from the Dajjal''s trial; the hearers repeat it'
+    cluster: ritual
+  sheep-led-to-peaks-fleeing-with-religion:
+    label: Soon a Muslim's best wealth will be sheep he follows to mountain peaks and rain-places, fleeing with his religion from trials
+    cluster: prophecy
+  best-man-fighter-or-hermit-in-mountain-pass:
+    label: 'The best people: one who strives with self and wealth, and a man in a mountain pass worshipping his Lord and sparing people his evil'
+    cluster: ethics
+  every-age-worse-than-the-one-before:
+    label: No age comes but the one after it is worse, until you meet your Lord
+    cluster: prophecy
+  hold-to-it-gesture-grasping-carpet:
+    label: 'Asked what to do in a coming trial the prophet grips the carpet: ''do like this''; ''return to your first affair'''
+    cluster: prophecy
+  leaving-tenth-perishes-holding-tenth-saves:
+    label: 'Now, many learned and few orators: who leaves a tenth of what he knows perishes; later, few learned and many orators: who holds a tenth is saved'
+    cluster: prophecy
+  end-time-liars-bring-unheard-reports:
+    label: 'At the end of time lying deceivers bring reports neither you nor your fathers heard: beware of them'
+    cluster: prophecy
+  hudhayfa-asked-about-evil-others-about-good:
+    label: People asked the prophet about good; Hudhayfa asked about evil for fear it would overtake him
+    cluster: prophecy
+  good-with-smoke-in-it:
+    label: 'After the evil comes good with smoke (dakhan) in it: people guiding by other than his guidance, some you know and some you reject'
+    cluster: prophecy
+  callers-at-gates-of-hell-of-our-own-skin:
+    label: Callers at the gates of hell who throw in whoever answers them, of our own skin and speaking our tongues
+    cluster: prophecy
+  withdraw-biting-tree-root-until-death:
+    label: With no community or imam, leave all the sects even if you bite on a tree root until death finds you
+    cluster: prophecy
+  dies-without-pledge-dies-jahiliyya-death:
+    label: Whoever withdraws his hand from obedience meets God without argument; whoever dies with no pledge on his neck dies a jahiliyya death
+    cluster: law
+  satan-with-the-one-farther-from-two:
+    label: Satan is with the one alone and further from two; whoever wants paradise's midst keeps to the community
+    cluster: ethics
+  satan-third-with-man-and-woman-alone:
+    label: 'Let no man be alone with a woman: Satan is the third of them'
+    cluster: ethics
+  testimony-volunteered-before-asked:
+    label: After three generations lying spreads until a man gives testimony and oath before he is asked
+    cluster: prophecy
+  sitter-better-than-stander-walker-than-runner:
+    label: In the trial the sitter is better than the stander, the stander than the walker, the walker than the one running into it
+    cluster: prophecy
+  whoever-looks-toward-it-it-draws-in:
+    label: Whoever looks out toward the trial it draws him in; whoever finds a refuge, let him take it
+    cluster: prophecy
+  missed-prayer-like-losing-family-and-wealth:
+    label: There is a prayer which, whoever misses it, is as if robbed of his family and wealth
+    cluster: ritual
+  go-to-your-camels-sheep-or-land:
+    label: When the trial falls, let the owner of camels join his camels, of sheep his sheep, of land his land
+    cluster: prophecy
+  beat-swords-edge-with-a-stone:
+    label: One with no camels, sheep or land should beat his sword's edge with a stone and escape; break bows, cut strings
+    cluster: prophecy
+  forced-into-battle-killer-bears-both-sins:
+    label: If forced into a battle-line and killed, the killer bears his own sin and yours and is of the people of the fire
+    cluster: law
+  be-like-the-better-son-of-adam:
+    label: If one enters on you to kill you, be like the (better) son of Adam
+    cluster: prophecy
+  thrice-did-i-convey:
+    label: '''O God, have I conveyed?'' said three times'
+    cluster: sira
+  sword-of-wood-in-time-of-strife:
+    label: 'A companion charged to take a sword of wood in strife between Muslims shows it: ''this is my sword'''
+    cluster: prophecy
+  break-sword-on-uhud-or-biggest-rock:
+    label: Take your sword to Uhud (or the greatest rock of the Harra) and strike until it breaks
+    cluster: prophecy
+  sit-at-home-until-sinful-hand-or-fated-death:
+    label: Then sit in your house until a sinful hand or a fated death comes to you
+    cluster: prophecy
+  withdraw-room-to-inner-room-then-kneel:
+    label: If entered upon, go to your inner room; if entered there, kneel and say 'bear my sin and yours'
+    cluster: prophecy
+  trials-butt-like-bulls-foreheads:
+    label: Trials strike a man as the foreheads of stallion bulls butt
+    cluster: prophecy
+  be-gods-slain-servant-not-the-killer:
+    label: Hold your hands; be God's slain servant, not God's killing servant; stay in your houses and keep yourselves unknown
+    cluster: ethics
+  fight-polytheists-until-swords-clash-among-muslims:
+    label: 'Given a sword: fight the polytheists while they fight, but when two swords clash between Muslims strike it until it notches'
+    cluster: prophecy
+  sleeper-to-galloper-graded-ladder:
+    label: 'A seven-step ladder in the trial: sleeper, reclining, sitting, standing, walking, riding, galloping, each better than the next; all its slain in the fire'
+    cluster: prophecy
+  harj-when-none-trusts-his-sitting-companion:
+    label: 'The days of harj: when a man does not trust the one sitting with him'
+    cluster: prophecy
+  house-room-then-mosque-gripping-wrist:
+    label: Withdraw to house, then room, then your place of prayer, grip your wrist with your right hand and say 'my Lord is God' until death
+    cluster: prophecy
+  famine-plague-and-slaughter-three-questions:
+    label: 'Three questions: a famine too weak to rise for prayer (be abstinent), a plague when a grave costs a slave (be patient), killing that drowns the stones of al-Zayt in blood (stay home)'
+    cluster: prophecy
+  cast-cloak-over-face-against-sword-glint:
+    label: If the glint of the sword frightens you, throw the edge of your cloak over your face, that he bear your sin and his
+    cluster: prophecy
+  holding-religion-like-grasping-thorns-or-embers:
+    label: The one who holds his religion then is like one gripping thorny branches or embers of ghada wood
+    cluster: prophecy
+  worship-in-harj-like-hijra:
+    label: Worship in the time of tumult (harj) is like emigration to me
+    cluster: ritual
+  told-from-creation-until-people-enter-their-abodes:
+    label: Standing among them he told from the beginning of creation until the people of paradise and of hell entered their abodes
+    cluster: prophecy
+  did-not-ask-what-drives-medinans-out:
+    label: Hudhayfa asked about all that will be except what will drive the people of Medina out of it
+    cluster: prophecy
+  three-trials-leave-nothing-others-like-summer-winds:
+    label: Of the trials three leave almost nothing standing; others are like summer winds, small and large
+    cluster: prophecy
+  household-trial-expiated-by-prayer-fast-alms:
+    label: A man's trial in family, wealth, self, child and neighbour is expiated by fasting, prayer, alms, commanding good and forbidding wrong
+    cluster: ethics
+  trial-surging-like-the-sea:
+    label: The trial that surges like the waves of the sea
+    cluster: prophecy
+  closed-door-broken-not-opened-is-umar:
+    label: Between Umar and the great trial is a closed door that will be broken, not opened, never to close again; the door is Umar, a man killed or dying
+    cluster: prophecy
+  trust-descended-into-root-of-hearts:
+    label: Trust (al-amana) came down into the root of men's hearts, then the Quran came down
+    cluster: prophecy
+  trust-taken-in-sleep-leaving-blister:
+    label: In sleep trust is taken from the heart, leaving a spot, then a blister like an ember rolled on the foot, swollen with nothing inside
+    cluster: prophecy
+  one-trustworthy-man-in-a-clan:
+    label: People trade but hardly one fulfils trust, until it is said 'in such a clan is a trustworthy man'; one praised as clever has not a mustard seed of faith
+    cluster: prophecy
+  rulers-with-hearts-of-devils-in-human-bodies:
+    label: Rulers will arise with hearts of devils in human bodies; hear and obey even if your back is struck
+    cluster: prophecy
+  learn-gods-book-said-three-times:
+    label: 'Asked of coming evil: ''Hudhayfa, learn God''s Book and follow what is in it'', three times'
+    cluster: ethics
+  mudar-humbled-till-it-cannot-defend-a-gully:
+    label: This clan of Mudar leaves no righteous servant unharmed until God humbles it so it cannot defend the bottom of a gully
+    cluster: prophecy
+  prophethood-caliphate-biting-kingship-tyranny:
+    label: Prophethood, then caliphate on its pattern, then biting kingship, then tyrannical kingship, then caliphate on the pattern of prophethood
+    cluster: prophecy
+  islam-effaced-like-garment-embroidery-quran-taken-in-a-night:
+    label: Islam wears away like a garment's embroidery until fast, prayer and alms are unknown; the Book is taken away in one night, not a verse left on earth
+    cluster: eschatology
+  old-people-keep-only-la-ilaha-illa-allah:
+    label: Old men and women remain saying only 'we found our fathers on this word, there is no god but God'; it saves them from the fire
+    cluster: eschatology
+  truce-on-smoke-remnant-on-motes:
+    label: 'After the sword: a remnant upon motes and a truce upon smoke; hearts do not return to what they were'
+    cluster: prophecy
+  hour-before-a-foal-is-born:
+    label: If a man had a mare foaling it would not foal before the Hour came
+    cluster: eschatology
+  blood-will-be-shed-oath-against-oath:
+    label: Two men trade oaths 'blood will be shed here today' - 'no, by God', three times; the one who knew was Hudhayfa
+    cluster: sira
+  revolt-returns-without-a-cupping-of-blood:
+    label: The revolt will turn back without a cupping-glass of blood shed; the one who fights today God kills tomorrow, his heart upturned
+    cluster: prophecy
+  twelve-hypocrites-among-companions:
+    label: Among my companions (community) are twelve hypocrites
+    cluster: prophecy
+  ulcer-of-fire-emerging-from-chest:
+    label: 'Eight of them the dubayla suffices: a lamp of fire appearing between their shoulders until it bursts from their chests'
+    cluster: eschatology
+  hypocrisy-now-open-unbelief:
+    label: Hypocrisy was in the prophet's time; today it is unbelief after faith; then they concealed, now they declare
+    cluster: polemic
+  twenty-seven-liars-four-women:
+    label: In my community are twenty-seven liars and deceivers, four of them women; I am the seal of the prophets
+    cluster: prophecy
+  people-will-wish-for-the-dajjal:
+    label: A time will come when my community wishes for the Dajjal, from the misery they meet
+    cluster: eschatology
+  dajjals-water-is-fire-and-fire-water:
+    label: 'The Dajjal brings water and fire: what looks like water burns, what looks like fire is cool sweet water; fall into it, close your eyes, bow your head and drink'
+    cluster: eschatology
+  dajjal-eye-wiped-with-thick-film:
+    label: The Dajjal's eye is wiped out with a thick film over it; blind in the left eye, with thick hair
+    cluster: eschatology
+  lesser-trials-feared-more-than-dajjal:
+    label: Your trials among yourselves I fear more than the Dajjal's; whoever survives the trials before it survives it
+    cluster: eschatology
+  dajjal-with-river-and-fire-reward-reversed:
+    label: Whoever falls into the Dajjal's fire is rewarded and freed of sin; whoever falls into his river bears sin and loses reward
+    cluster: eschatology
+  deed-like-vessel-good-top-good-bottom:
+    label: 'A deed is like a vessel: if its top is good its bottom is good, if its top is foul its bottom is foul'
+    cluster: ethics
+  treasures-and-trials-sent-down-in-a-night:
+    label: 'Waking alarmed at night: ''glory to God, what treasures and what trials have been sent down!'''
+    cluster: prophecy
+  wake-the-women-of-the-chambers-to-pray:
+    label: '''Who will wake the women of the chambers'', that they pray'
+    cluster: sira
+  clothed-in-world-naked-in-hereafter:
+    label: Many a woman clothed in this world is naked in the hereafter
+    cluster: eschatology
+  millstone-of-islam-turns-thirty-five-years:
+    label: The millstone of Islam turns for thirty-five, thirty-six or thirty-seven years; if they stand, seventy years
+    cluster: prophecy
+  islam-enters-houses-god-wills-good-for:
+    label: Islam enters any house, Arab or non-Arab, for which God wills good
+    cluster: prophecy
+  trials-like-canopies:
+    label: Then trials fall like overhanging canopies (zulal)
+    cluster: prophecy
+  return-as-black-serpents-pouring:
+    label: You will return in them as black serpents striking downward, one striking another's neck
+    cluster: prophecy
+  trials-of-ahlas-sarra-and-duhayma:
+    label: 'Three trials named: the saddle-cloths (flight and plunder), prosperity (its smoke from under a false claimant of the house), and the black one that slaps everyone'
+    cluster: prophecy
+  people-settle-on-man-like-hip-on-rib:
+    label: People agree on a man like a hip set on a rib (an ill fit)
+    cluster: prophecy
+  two-tents-of-faith-and-hypocrisy-then-dajjal:
+    label: People divide into two camps, faith without hypocrisy and hypocrisy without faith; then await the Dajjal that day or the next
+    cluster: eschatology
+  sees-trials-falling-on-houses-like-rain:
+    label: 'Looking from a fortress of Medina: ''I see trials falling among your houses like rain falling'''
+    cluster: prophecy
+  every-prophet-bound-to-warn-his-people:
+    label: Every prophet before was bound to show his people the best he knew and warn them of the worst
+    cluster: prophecy
+  community-wellbeing-at-start-trial-at-end:
+    label: This community's wellbeing was put in its beginning; its end will meet affliction
+    cluster: prophecy
+  each-trial-makes-the-previous-seem-slight:
+    label: A trial comes that makes the one before seem thin; the believer says 'this is my ruin', then 'this, this'
+    cluster: prophecy
+  strike-neck-of-second-claimant:
+    label: Obey the imam you pledged your hand and heart to; if another contends, strike the other's neck
+    cluster: law
+  do-not-revert-striking-each-others-necks:
+    label: '''Do not become unbelievers (or strayers) after me, striking one another''s necks'''
+    cluster: prophecy
+  first-of-you-to-die-followed-in-groups:
+    label: '''You think I will be the last of you to die? I am among the first; you will follow me in scattered groups destroying one another'''
+    cluster: prophecy
+  killer-and-killed-both-in-fire:
+    label: 'When two Muslims meet with swords killer and killed are in the fire: ''he was eager to kill his fellow'''
+    cluster: law
+  advised-to-turn-back-from-civil-war:
+    label: Going to aid a side in civil war, a man is told by a companion 'go back' and the reason
+    cluster: sira
+  sword-once-laid-never-lifted:
+    label: When the sword is laid in my community it will not be lifted from it until the day of resurrection
+    cluster: prophecy
+  killing-suffices-for-my-companions:
+    label: Killing suffices for my companions (as their expiation)
+    cluster: prophecy
+  gap-opened-in-gog-and-magog-barrier:
+    label: Today a gap like this was opened in the barrier of Gog and Magog, shown with a ring of the fingers
+    cluster: eschatology
+  wakes-red-faced-saying-woe-to-arabs:
+    label: The prophet wakes red-faced saying 'there is no god but God, woe to the Arabs from an evil drawn near'
+    cluster: prophecy
+  perish-with-righteous-among-them-when-filth-abounds:
+    label: '''Shall we perish with the righteous among us?'' - ''yes, when filth abounds'''
+    cluster: prophecy
+  blind-deaf-dumb-trial-woe-to-runner:
+    label: A trial blind, deaf and dumb; woe to the one who runs in it, from God on the day of resurrection
+    cluster: prophecy
+  factions-fight-only-for-the-world:
+    label: 'A companion angered at all the factions: God raised you from abasement by Islam; the one in Syria fights only for the world'
+    cluster: sira
+  gatekeeper-admits-three-with-glad-tidings-of-paradise:
+    label: A companion makes himself the prophet's doorkeeper and admits three in turn, each with 'give him glad tidings of paradise'
+    cluster: sira
+  legs-dangled-in-well-seating-order:
+    label: The prophet sits on the well's rim with legs dangling in it; the first on his right, the second on his left, the rim full so the third sits facing
+    cluster: sira
+  paradise-with-an-affliction-for-the-third:
+    label: The third is promised paradise 'with an affliction that will strike him'
+    cluster: prophecy
+  shall-we-write-you-asked-three-times:
+    label: Dictating to a scribe the prophet asks a man three times 'shall we write you?'; he sees Umar's name and consents
+    cluster: sira
+  trial-like-cows-horns-then-rabbits-leap:
+    label: A trial at the ends of the earth like cows' horns, then another making the first seem a rabbit's leap
+    cluster: prophecy
+  follow-the-man-turning-away-uthman:
+    label: '''Follow this one'' of a man walking away; turned round by the shoulders he is Uthman'
+    cluster: prophecy
+  hold-to-the-trustworthy-and-his-companions:
+    label: '''Hold to the trustworthy one and his companions'', pointing to Uthman'
+    cluster: prophecy
+  saved-from-three-my-death-caliphs-killing-dajjal:
+    label: 'Whoever is saved from three is saved: my death, the killing of a caliph steadfast in right, and the Dajjal'
+    cluster: prophecy
+  carries-two-bricks-while-others-carry-one:
+    label: Building the mosque, others carry one brick at a time, he carries two; the prophet wipes the dust from his head
+    cluster: sira
+  calls-them-to-god-they-call-him-to-fire:
+    label: He calls them to God and they call him to the fire
+    cluster: prophecy
+  two-men-dispute-who-killed-him:
+    label: Two men dispute before the ruler over a slain man's head, each saying 'I killed him'
+    cluster: sira
+  obey-father-but-do-not-fight:
+    label: Told to obey his father while he lives, a son goes with his side but does not fight
+    cluster: ethics
+  those-who-brought-him-killed-him:
+    label: 'Faced with the prophecy, the ruler answers: ''did we kill him? those who brought him killed him'''
+    cluster: polemic
+  killer-scruples-at-silver-cup-after-killing:
+    label: A man refuses a silver-plated cup, though he speared a famous companion through the gap of his mail
+    cluster: ethics
+  aisha-his-wife-in-world-and-hereafter:
+    label: Though she marched against them, she is your prophet's wife in this world and the next; God tests whom you obey, him or her
+    cluster: sira
+  prayer-fast-make-yours-seem-small:
+    label: You will think your prayer and fast slight beside theirs
+    cluster: polemic
+  trusted-by-him-in-heaven:
+    label: '''Do you not trust me when I am trusted by the one in heaven, news of heaven reaching me morning and evening?'''
+    cluster: revelation
+  not-ordered-to-bore-into-hearts:
+    label: '''I was not commanded to bore into people''s hearts or split their bellies'''
+    cluster: law
+  would-kill-them-as-thamud-killed:
+    label: '''If I reach them I will kill them as Thamud were killed'''
+    cluster: polemic
+  shaving-as-their-mark:
+    label: Their mark is shaving (tahliq, tasbid)
+    cluster: polemic
+  killed-by-the-party-nearer-truth:
+    label: A breakaway band emerges at a split among Muslims and is killed by the party nearer the truth
+    cluster: prophecy
+  they-come-from-the-east:
+    label: They come out from the east (toward Iraq)
+    cluster: prophecy
+  god-forbid-people-say-i-kill-my-companions:
+    label: 'Refusing to kill the man: ''God forbid people say I kill my companions'''
+    cluster: sira
+  worst-of-creation-blessed-who-kills-them:
+    label: They are the worst of creation; blessed is who kills them and whom they kill; killing them earns reward
+    cluster: polemic
+  young-in-years-foolish-in-mind:
+    label: Young in years, foolish in mind, saying the best words of people
+    cluster: polemic
+  each-horn-cut-off-until-dajjal-in-their-midst:
+    label: Each time a generation of them comes out it is cut off, more than twenty times, until the Dajjal comes out in their midst
+    cluster: eschatology
+  rather-fall-from-sky-than-lie-on-him:
+    label: '''To fall from the sky is dearer to me than to say of him what he did not say; but war is deception'''
+    cluster: ethics
+  dogs-of-the-fire:
+    label: They are the dogs of the fire
+    cluster: eschatology
+  advise-ruler-privately-in-his-house:
+    label: Keep to the great mass; if the ruler listens to you go to his house and tell him; if not leave him, you are not more knowing
+    cluster: ethics
+  who-will-kill-him-praying-man-spared:
+    label: '''Who will kill him?'': those sent find him praying (in a circle he drew, or prostrate) and cannot kill him'
+    cluster: sira
+  killing-him-would-be-first-and-last-trial:
+    label: '''Had you killed him it would have been the first trial and the last'''
+    cluster: prophecy
+  maimed-hand-like-breast-with-hairs:
+    label: Among them a man with a stunted hand, upper arm without forearm, its end like a breast-nipple with white hairs
+    cluster: prophecy
+  word-of-truth-meant-for-falsehood:
+    label: 'To the cry ''judgment is God''s alone'': ''a word of truth meant for falsehood'''
+    cluster: polemic
+  swears-by-lord-of-kaaba-three-times:
+    label: Asked if he heard it from the prophet he swears 'yes by the Lord of the Kaaba' three times
+    cluster: sira
+  body-found-after-search-in-ruin:
+    label: 'The marked man is not found; ''I did not lie nor was lied to''; found in a ruin (beneath the dead) and brought: ''God spoke truly'''
+    cluster: prophecy
+  victors-would-rely-on-promise-and-stop-working:
+    label: Were the army told what is promised to those who kill them they would rely on it and stop working
+    cluster: ethics
+  throw-away-spears-draw-swords:
+    label: The rebel leader orders 'throw away your spears and draw swords' lest they be adjured as before
+    cluster: warfare
+  trial-from-the-east-where-satans-horn-rises:
+    label: 'Facing east: ''here is the trial, from where the horn of Satan rises'''
+    cluster: prophecy
+  blessing-for-syria-and-yemen-not-najd:
+    label: '''O God bless our Syria, bless our Yemen''; asked for Najd: ''there are earthquakes and trials, there Satan''s horn rises'''
+    cluster: prophecy
+  lands-withhold-their-measures-and-coins:
+    label: Iraq will withhold its dirham and qafiz, Syria its mudy and dinar, Egypt its irdabb and dinar
+    cluster: prophecy
+  you-returned-to-where-you-began-thrice:
+    label: '''You returned to where you began'', three times'
+    cluster: prophecy
+  thin-shanked-abyssinian-takes-kaaba-treasure:
+    label: None will take out the Kaaba's treasure but the thin-shanked one of Abyssinia
+    cluster: eschatology
+  fear-for-community-of-misleading-imams:
+    label: '''What I fear for my community is the misleading imams'''
+    cluster: prophecy
+  men-with-whips-like-cows-tails:
+    label: Men with whips like cows' tails who beat people, going out in God's anger and returning in his wrath
+    cluster: prophecy
+  women-clothed-naked-heads-like-camel-humps:
+    label: Women clothed yet naked, swaying and making sway, heads like leaning humps of Bactrian camels; they will not smell paradise
+    cluster: eschatology
+  three-asked-two-granted-mutual-violence-refused:
+    label: 'Asked three for his community, granted two (no destroying famine, no outside enemy or drowning), refused the third: that their violence not be among themselves'
+    cluster: prophecy
+  decree-once-made-is-not-turned-back:
+    label: 'God: ''when I decree a decree it is not turned back'''
+    cluster: theology
+  thirty-liars-each-claiming-prophecy:
+    label: There will be thirty liars in my community, each claiming to be a prophet; I am the seal of the prophets
+    cluster: prophecy
+  tribes-of-community-will-worship-idols:
+    label: The Hour will not come until tribes of my community join the polytheists and worship idols
+    cluster: prophecy
+  a-party-stays-on-truth-until-gods-command:
+    label: A party of my community will stay on the truth, unharmed by opponents, until God's command comes
+    cluster: prophecy
+  prayer-of-longing-and-dread:
+    label: 'A long, unusual prayer: ''a prayer of longing and dread'''
+    cluster: ritual
+  prayer-at-mosque-of-banu-muawiya:
+    label: He prays two rakas in the mosque of Banu Mu'awiya and calls on his Lord at length there
+    cluster: ritual
+  intercession-asked-for-community-that-will-shed-blood:
+    label: Seeing his community shedding one another's blood after him, as decreed for earlier nations, he asks and is given intercession for them
+    cluster: eschatology
+  punishment-of-this-community-is-the-sword:
+    label: '''The punishment of this community is the sword'''
+    cluster: prophecy
+  ruin-at-hands-of-quraysh-youths:
+    label: '''The ruin of my community is at the hands of youths of Quraysh''; he could name the clans'
+    cluster: prophecy
+  if-people-withdrew-from-them:
+    label: This clan of Quraysh will destroy people - 'what do you command?' - 'if only people withdrew from them'
+    cluster: prophecy
+  woman-finds-sandal-this-is-a-qurashis:
+    label: Quraysh will perish fastest; a woman will pass a sandal and say 'this is a Qurashi's sandal'
+    cluster: prophecy
+  death-finds-them-sweet-the-rest-like-locust-nymphs:
+    label: Death finds them sweet and their community envies them; after them people are locust-nymphs, the strong eating the weak, till the Hour
+    cluster: prophecy
+  feather-matched-to-feather:
+    label: The worst of this community will follow the ways of the scripture-people as feather is matched to feather
+    cluster: prophecy
+  tree-for-hanging-weapons-dhat-anwat:
+    label: Passing the polytheists' tree Dhat Anwat on which they hang weapons, new Muslims ask 'make us a Dhat Anwat as they have one'
+    cluster: idolatry
+  request-likened-to-make-us-a-god:
+    label: '''Glory to God! This is as Moses'' people said: make us a god as they have gods'''
+    cluster: idolatry
+  even-if-one-lay-with-his-mother-in-the-road:
+    label: Even if one of them lay with his mother in the road you would do it
+    cluster: prophecy
+  seventy-one-seventy-two-seventy-three-sects:
+    label: 'Jews split into seventy-one sects, Christians seventy-two, this community seventy-three, one in paradise: the community'
+    cluster: prophecy
+  passions-run-through-them-like-rabies:
+    label: Passions run through them as rabies runs through the bitten, leaving no vein or joint untouched
+    cluster: prophecy
+  others-likelier-to-neglect-if-arabs-do:
+    label: If you Arabs do not uphold what your prophet brought, others are likelier not to
+    cluster: ethics
+  non-arabs-become-lions-and-eat-your-spoil:
+    label: God will fill your hands with non-Arabs, who then become lions that do not flee, kill your fighters and eat your spoil
+    cluster: prophecy
+units:
+- id: hadith-60-iqra-first-revelation
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The first revelation in the cave of Hira and Waraqa's verdict (Q 96:1-5)
+  read:
+  - Jāmiʿ 60:7661.1
+  quran:
+  - 96:1-5
+  tags:
+  - motif: true-dreams-like-daybreak-before-revelation
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''al-ru''ya al-sadiqa fi l-nawm ... illa ja''at mithla falaq al-subh'''
+  - motif: solitary-devotion-in-mountain-cave
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''yalhaqu bi-ghar hira'' fa-yatahannathu fihi ... al-layali dhawat al-''adad'' with provisions, tahannuth glossed as ta''abbud'
+  - motif: i-am-not-a-reader
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''ma ana bi-qari'''' said three times'
+  - motif: angel-squeezes-prophet-three-times
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''fa-akhadhani fa-ghattani hatta balagha minni al-jahd'' (al-thaniya, al-thalitha)'
+  - motif: prophet-trembling-asks-to-be-wrapped
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''zammiluni zammiluni'' while ''tarjufu bawadiruhu'''
+  - motif: wife-reassures-by-listing-his-virtues
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''innaka la-tasilu al-rahim wa-tasduqu al-hadith wa-tahmilu al-kall wa-taksibu al-ma''dum wa-taqri al-dayf'''
+  - motif: christian-kinsman-recognizes-the-namus-of-moses
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: 'Waraqa, ''tanassara fi l-jahiliyya ... yaktubu min al-injil bi-l-''arabiyya'', blind: ''hadha al-namus alladhi unzila ''ala musa'''
+  - motif: every-bringer-of-such-message-met-hostility
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''lam ya''ti rajul bi-mithli ma ji''ta bihi illa udhiya''; ''a-wa mukhrijiyya hum?'''
+  - motif: revelation-pauses-after-first-vision
+    refs:
+    - Jāmiʿ 60:7661.1
+    note: '''thumma lam yanshab waraqa an tuwuffiya wa-fatara al-wahy'''
+  hints:
+  - 'Waraqa''s ''namus sent down on Moses'': compare the Greek nomos for the Torah; the call of a reluctant prophet who protests he cannot speak (Exod 4:10, Jer 1:6).'
+- id: hadith-60-abu-jahl-and-the-praying-prophet
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Jahl threatens to tread on the praying prophet; the trench of fire and the zabaniya (Q 96:6-19)
+  read:
+  - Jāmiʿ 60:7662.1-7662.3
+  quran:
+  - 96:6-19
+  tags:
+  - motif: angels-would-seize-the-one-who-treads-on-prophets-neck
+    refs:
+    - Jāmiʿ 60:7662.1-7662.2
+    note: '''la-ata''anna ''ala raqabatihi aw la-u''affiranna wajhahu fi l-turab'' sworn ''wa-l-lat wa-l-''uzza'''
+  - motif: assailant-recoils-from-trench-of-fire-and-wings
+    refs:
+    - Jāmiʿ 60:7662.1
+    note: '''inna bayni wa-baynahu la-khandaqan min nar wa-hawlan wa-ajniha''; he ''yankisu ''ala ''aqibayhi'''
+  - motif: angels-would-snatch-him-limb-by-limb
+    refs:
+    - Jāmiʿ 60:7662.1-7662.2
+    note: '''law dana minni la-khtatafathu al-mala''ika ''udwan ''udwan'''
+  - motif: opponent-calls-his-council-god-calls-zabaniya
+    refs:
+    - Jāmiʿ 60:7662.1-7662.3
+    note: 'Abu Jahl: ''ma biha nadin akthar minni''; ''law da''a nadiyahu la-akhadhathu zabaniyat allah'''
+  - motif: threefold-did-i-not-forbid-you
+    refs:
+    - Jāmiʿ 60:7662.3
+    note: '''a-lam anhaka ''an hadha'' three times'
+- id: hadith-60-night-of-decree
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The Night of Decree: shown and forgotten; standing in it forgives past sins (Q 97)'
+  read:
+  - Jāmiʿ 60:7663.1-7664.1
+  quran:
+  - '97:1'
+  - '97:3'
+  tags:
+  - motif: night-of-decree-shown-then-forgotten
+    refs:
+    - Jāmiʿ 60:7663.1
+    note: '''inni urittu laylat al-qadr thumma unsituha aw nussituha'''
+  - motif: seek-night-of-decree-in-odd-last-ten
+    refs:
+    - Jāmiʿ 60:7663.1
+    note: '''fa-ltamisuha fi l-''ashr al-awakhir fi l-witr''; retreat in the middle ten, sermon on the morning of the twentieth'
+  - motif: prostrating-in-water-and-mud-as-sign
+    refs:
+    - Jāmiʿ 60:7663.1
+    note: '''wa-inni ra''aytu anni asjudu fi ma'' wa-tin'''
+  - motif: standing-night-of-decree-forgives-past-sins
+    refs:
+    - Jāmiʿ 60:7664.1
+    note: '''man qama laylat al-qadr imanan wa-htisaban ghufira lahu ma taqaddama min dhanbihi'''
+- id: hadith-60-recite-to-ubayy
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God orders the prophet to recite al-Bayyina to Ubayy by name; the verse of the valley of wealth (Q 98)
+  read:
+  - Jāmiʿ 60:7665.1-7665.3
+  quran:
+  - 98:1-8
+  tags:
+  - motif: god-names-companion-for-recitation
+    refs:
+    - Jāmiʿ 60:7665.1-7665.2
+    note: '''inna allaha amarani an aqra''a ''alayka'' - ''wa-sammani lak?'' ''na''am'' - ''wa-qad dhukirtu ''inda rabb al-''alamin?'''
+  - motif: companion-weeps-on-being-named-by-god
+    refs:
+    - Jāmiʿ 60:7665.1-7665.2
+    note: '''fa-baka''; ''fa-dharafat ''aynahu'''
+  - motif: son-of-adam-would-seek-third-valley-only-dust-fills
+    refs:
+    - Jāmiʿ 60:7665.3
+    note: '''law anna ibn adam sa''ala wadiyan min mal ... la-sa''ala thalithan wa-la yamla''u jawfa ibn adam illa al-turab'''
+  - motif: religion-with-god-is-hanifiyya-not-jewish-nor-christian
+    refs:
+    - Jāmiʿ 60:7665.3
+    note: '''inna dhalika al-din ''inda allah al-hanifiyya ghayr al-mushrika wa-la al-yahudiyya wa-la al-nasraniyya'' recited in al-Bayyina'
+  hints:
+  - 'The words read ''in'' al-Bayyina but absent from the mushaf (cf. 7674.1, ''we thought this was Quran''): a reported unrecited reading, compare the Rabbinic category of non-canonical readings.'
+- id: hadith-60-zalzala-comprehensive-sura
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Al-Zalzala as the comprehensive sura; the sacrifice by trimming hair and nails (Q 99)
+  read:
+  - Jāmiʿ 60:7667.1-7668.1
+  quran:
+  - 99:1-8
+  tags:
+  - motif: old-man-asks-for-comprehensive-sura
+    refs:
+    - Jāmiʿ 60:7667.1
+    note: '''kaburat sinni wa-shtadda qalbi wa-ghaluza lisani ... aqri''ni ... sura jami''a''; offered three of the Alif-Lam-Ra, Ha-Mim and musabbihat suras'
+  - motif: will-add-nothing-to-it
+    refs:
+    - Jāmiʿ 60:7667.1
+    note: '''la azidu ''alayha abadan'' - ''aflaha al-ruwayjil'' twice'
+  - motif: trim-hair-nails-moustache-as-complete-sacrifice
+    refs:
+    - Jāmiʿ 60:7667.1
+    note: 'with only his son''s lent milch-animal (maniha): ''ta''khudhu min sha''rika wa-tuqallimu azfaraka wa-taqussu sharibaka wa-tahliqu ''anataka fa-dhalika tamam udhiyatika'''
+  - motif: same-sura-in-both-rakas-of-dawn
+    refs:
+    - Jāmiʿ 60:7668.1
+    note: '''yaqra''u fi l-subh idha zulzilat ... fi l-rak''atayn kiltayhima'', the hearer unsure whether he forgot'
+- id: hadith-60-earth-vomits-gold-and-atom
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The earth vomits columns of gold; the atom's weight verse as the one revealed on donkeys (Q 99:2, 99:7-8)
+  read:
+  - Jāmiʿ 60:7669.1-7670.1
+  quran:
+  - '99:2'
+  - 99:7-8
+  tags:
+  - motif: earth-vomits-pieces-of-its-liver-gold-and-silver
+    refs:
+    - Jāmiʿ 60:7669.1
+    note: '''taqi''u al-ard aflaadh kabidiha amthal al-ustuwan min al-dhahab wa-l-fidda'''
+  - motif: killer-severer-thief-each-says-for-this-i
+    refs:
+    - Jāmiʿ 60:7669.1
+    note: 'the killer ''fi hadha qataltu'', the severer of kin ''qata''tu rahimi'', the thief ''qutti''at yadi'', and they leave it: ''fa-la ya''khudhuna minhu shay''an'''
+  - motif: donkeys-under-the-atoms-weight-verse
+    refs:
+    - Jāmiʿ 60:7670.1
+    note: 'asked about donkeys: ''ma anzala allah ''alayya fiha illa hadhihi al-aya al-fadhdha al-jami''a'''
+- id: hadith-60-fire-seventy-parts
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Worldly fire one part of seventy of hell's (Q 101:11)
+  read:
+  - Jāmiʿ 60:7672.1
+  quran:
+  - '101:11'
+  tags:
+  - motif: worldly-fire-one-seventieth-of-hell
+    refs:
+    - Jāmiʿ 60:7672.1
+    note: '''naru bani adam ... juz'' min sab''in juz''an min nar jahannam ... fuddilat ''alayha bi-tis''a wa-sittin juz''an kulluhunna mithlu harriha'''
+- id: hadith-60-takathur-mine-mine
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Al-Takathur: ''my wealth, my wealth''; the valley verse once thought Quran (Q 102:1-2)'
+  read:
+  - Jāmiʿ 60:7674.1-7674.2
+  quran:
+  - 102:1-2
+  tags:
+  - motif: son-of-adam-would-seek-third-valley-only-dust-fills
+    refs:
+    - Jāmiʿ 60:7674.1
+    note: 'Ubayy: ''kunna nara hadha min al-qur''an hatta nazalat alhakum al-takathur'' (the valley saying)'
+  - motif: only-wealth-eaten-worn-or-given-is-yours
+    refs:
+    - Jāmiʿ 60:7674.2
+    note: '''yaqulu ibn adam mali mali ... illa ma akalta fa-afnayta aw labista fa-ablayta aw tasaddaqta fa-amdayta'''
+  hints:
+  - '''What you ate, wore out or gave away'': compare the Rabbinic and early Christian sayings on the only wealth one keeps (e.g. b. Bava Batra 11a, Monobaz''s treasures stored above).'
+- id: hadith-60-asked-about-bliss
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Asked about the bliss: dates and water, a ripe meal after hunger, the three exceptions (Q 102:8)'
+  read:
+  - Jāmiʿ 60:7674.3-7677.1
+  quran:
+  - '39:31'
+  - '102:8'
+  tags:
+  - motif: disputes-of-this-world-resumed-before-god
+    refs:
+    - Jāmiʿ 60:7674.3
+    note: 'on Q 39:31: ''ma''a khusumatina fi l-dunya?'' - ''na''am'''
+  - motif: two-black-things-dates-and-water
+    refs:
+    - Jāmiʿ 60:7674.3-7675.1
+    note: '''innama huma al-aswadan al-tamr wa-l-ma'''' with ''suyufuna ''ala riqabina wa-l-''aduww hadir'': ''amma inna dhalika sayakun'''
+  - motif: ripe-dates-and-water-are-bliss-asked-about
+    refs:
+    - Jāmiʿ 60:7675.2
+    note: 'after the blessed harvest pays a Jewish creditor in full from the smaller garden: ''hadha min al-na''im alladhi tus''aluna ''anhu'''
+  - motif: hunger-drives-three-out-at-midday
+    refs:
+    - Jāmiʿ 60:7676.1-7677.1
+    note: '''ma akhrajakuma ... ?'' - ''al-ju''''; ''wa-ana ... la-akhrajani alladhi akhrajakuma'''
+  - motif: do-not-slaughter-the-milch-animal
+    refs:
+    - Jāmiʿ 60:7676.1-7677.1
+    note: '''iyyaka wa-l-halub''; ''la tadhbahanna dhat durr'''
+  - motif: you-will-be-asked-about-this-bliss
+    refs:
+    - Jāmiʿ 60:7676.1-7677.1
+    note: '''la-tus''alunna ''an hadha al-na''im yawm al-qiyama''; Umar strikes the cluster on the ground: ''a-inna la-mas''uluna?'''
+  - motif: asked-about-all-but-rag-morsel-and-hole
+    refs:
+    - Jāmiʿ 60:7676.2
+    note: '''illa min thalath: khirqa kaffa biha al-rajul ''awratahu aw kisra sadda biha jaw''atahu aw juhr yatadakhkhalu fihi min al-harr wa-l-qurr'''
+  - motif: bismillah-before-and-praise-after-eating
+    refs:
+    - Jāmiʿ 60:7677.1
+    note: '''qulu bismillah wa-idha shabi''tum fa-qulu al-hamdu lillah alladhi huwa ashba''ana'''
+  - motif: prophet-sends-share-to-fatima
+    refs:
+    - Jāmiʿ 60:7677.1
+    note: '''ablugh bi-hadha fatima fa-innaha lam tusib mithla hadha mundhu ayyam'' (kid meat in a loaf)'
+  - motif: host-repaid-with-slave-girl-whom-he-frees
+    refs:
+    - Jāmiʿ 60:7677.1
+    note: 'given the walida: ''istawsi biha khayran''; Abu Ayyub frees her'
+- id: hadith-60-elephant
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God held the elephant back from Mecca; its driver and groom seen blind and crippled (Q 105)
+  read:
+  - Jāmiʿ 60:7682.1-7683.1
+  quran:
+  - 105:1-2
+  tags:
+  - motif: elephant-held-back-from-mecca
+    refs:
+    - Jāmiʿ 60:7682.1
+    note: '''inna allaha habasa ''an makka al-fil wa-sallata ''alayhim rasulahu wa-l-mu''minin'''
+  - motif: elephants-driver-and-groom-blind-beggars-in-mecca
+    refs:
+    - Jāmiʿ 60:7683.1
+    note: '''qa''id al-fil wa-sa''isahu bi-makka a''mayayni muq''adayni yastat''imani'''
+  hints:
+  - 'The invader''s army struck and survivors maimed: compare Sennacherib''s army struck by the angel (2 Kgs 19:35) and Herodotus 2.141 (mice gnaw the bowstrings).'
+- id: hadith-60-quraysh-seven-merits
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Quraysh favoured with seven merits; 'worship the Lord of this House' (Q 106)
+  read:
+  - Jāmiʿ 60:7683.2-7684.1
+  quran:
+  - 106:1-4
+  tags:
+  - motif: quraysh-favoured-with-seven-traits
+    refs:
+    - Jāmiʿ 60:7683.2
+    note: '''khassa allah quraysh bi-sab'' khisal'': ten years only Qurashis worshipped God, victory on the day of the Elephant while polytheists, a sura no one else is in, prophethood, caliphate, hijaba,
+      siqaya'
+  - motif: quraysh-winter-and-summer-caravans
+    refs:
+    - Jāmiʿ 60:7684.1
+    note: '''wayhakum ya quraysh u''budu rabb hadha al-bayt alladhi at''amakum min ju'' wa-amanakum min khawf'''
+- id: hadith-60-hypocrite-pecks-prayer-at-sunset
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The hypocrite''s prayer: pecking four rakas at the horns of Satan (Q 107:4-5)'
+  read:
+  - Jāmiʿ 60:7685.1
+  quran:
+  - 107:4-5
+  tags:
+  - motif: sun-between-satans-horns
+    refs:
+    - Jāmiʿ 60:7685.1
+    note: '''yajlisu yarqubu al-shams hatta idha kanat bayna qarnay al-shaytan qama fa-naqaraha arba''an la yadhkuru allah fiha illa qalilan''; ''bayna qarnay al-shaytan'''
+- id: hadith-60-kawthar
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Al-Kawthar: a river with domes of hollow pearl, a basin with vessels numbered as the stars (Q 108)'
+  read:
+  - Jāmiʿ 60:7686.1-7687.3
+  quran:
+  - 108:1-3
+  - 4:51-52
+  tags:
+  - motif: prophet-given-al-kawthar
+    refs:
+    - Jāmiʿ 60:7686.1-7687.2
+  - motif: kawthar-banks-domes-of-hollow-pearl
+    refs:
+    - Jāmiʿ 60:7686.1-7687.1
+    note: 'on the ascent: ''nahar hafatahu qibab al-lu''lu'' mujawwafan''; Aisha: ''shati''ahu ''alayhi durr mujawwaf'''
+  - motif: sura-revealed-in-a-doze-prophet-smiles
+    refs:
+    - Jāmiʿ 60:7686.2
+    note: '''aghfa ighfa''atan thumma rafa''a ra''sahu mutabassiman ... unzilat ''alayya anifan sura'''
+  - motif: basin-vessels-numbered-as-the-stars
+    refs:
+    - Jāmiʿ 60:7686.2-7687.1
+    note: '''aniyatuhu ''adad al-nujum'''
+  - motif: man-pulled-away-from-basin-you-know-not-what-he-innovated
+    refs:
+    - Jāmiʿ 60:7686.2
+    note: '''fa-yukhtalaju al-''abd minhum fa-aqulu rabbi innahu min ummati fa-yaqulu ma tadri ma ahdatha ba''dak'''
+  - motif: kawthar-is-the-abundant-good
+    refs:
+    - Jāmiʿ 60:7687.2
+    note: 'Ibn ''Abbas: ''huwa al-khayr alladhi a''tahu allah iyyahu''; Sa''id: the river is of that good'
+  - motif: enemy-of-prophet-cut-off-abtar
+    refs:
+    - Jāmiʿ 60:7687.3
+    note: 'Quraysh to Ka''b b. al-Ashraf: ''hadha al-munbatir min qawmihi''; ''antum khayr minhu'''
+  - motif: jewish-leader-judges-pagans-better-guided
+    refs:
+    - Jāmiʿ 60:7687.3
+    note: 'Ka''b b. al-Ashraf: ''antum khayr minhu'' and Q 4:51-52 (al-jibt wa-l-taghut) comes down'
+- id: hadith-60-kafirun
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Al-Kafirun with al-Ikhlas in the dawn sunna; recited at sleep as disavowal of associating (Q 109)
+  read:
+  - Jāmiʿ 60:7688.1-7689.1
+  quran:
+  - 109:1-6
+  - '112:1'
+  tags:
+  - motif: kafirun-and-ikhlas-in-two-rakas-of-dawn
+    refs:
+    - Jāmiʿ 60:7688.1-7688.2
+    note: '''fi rak''atay al-fajr''; ''bid''an wa-''ishrin marra aw bid'' ''ashrata marra'' before dawn and after maghrib'
+  - motif: kafirun-reciter-freed-from-shirk-ikhlas-reciter-forgiven
+    refs:
+    - Jāmiʿ 60:7688.3
+    note: '''qad bari''a hadha min al-shirk'' ... ''amma hadha fa-qad ghufira lahu'''
+  - motif: kafirun-at-sleep-then-sleep-on-its-end
+    refs:
+    - Jāmiʿ 60:7689.1
+    note: '''iqra'' ''inda manamika qul ya ayyuha al-kafirun thumma nam ''ala khatimatiha fa-innaha bara''a min al-shirk'''
+  - motif: prophet-places-child-with-foster-father
+    refs:
+    - Jāmiʿ 60:7689.1
+    note: 'Umm Salama''s daughter handed over: ''innama anta zi''ri'''
+- id: hadith-60-nasr-sign-of-death
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Al-Nasr: the conquest as the sign of the prophet''s death; ''subhanaka ... ighfir li'' (Q 110)'
+  read:
+  - Jāmiʿ 60:7690.1-7691.2
+  quran:
+  - 110:1-3
+  tags:
+  - motif: tribes-waited-on-conquest-of-mecca-to-convert
+    refs:
+    - Jāmiʿ 60:7690.1
+    note: '''kanat al-''arab talawwamu bi-islamihim al-fath ... in zahara ''alayhim fa-huwa nabiyyun sadiq'''
+  - motif: glory-praise-forgive-formula-in-bowing
+    refs:
+    - Jāmiʿ 60:7690.2-7690.4
+    note: '''subhanaka rabbana wa-bi-hamdika allahumma ighfir li'' ''yata''awwalu al-qur''an''; ''subhan allah wa-bi-hamdihi astaghfiru allah wa-atubu ilayh'''
+  - motif: lord-told-him-of-a-sign-in-his-community
+    refs:
+    - Jāmiʿ 60:7690.4
+    note: '''khabbarani rabbi anni sa-ara ''alamatan fi ummati'''
+  - motif: surat-al-nasr-as-notice-of-death
+    refs:
+    - Jāmiʿ 60:7690.5-7691.1
+    note: 'Ibn ''Abbas: ''huwa ajal rasul allah a''lamahu''; ''nu''iyat ilayhi nafsuhu'''
+  - motif: caliph-tests-elders-with-youths-tafsir
+    refs:
+    - Jāmiʿ 60:7690.5
+    note: 'Umar brings the youth among ''ashyakh badr'' and asks them on the sura: ''ma a''lamu minha illa ma ta''lam'''
+  - motif: last-verse-revealed
+    refs:
+    - Jāmiʿ 60:7691.2
+    note: '''akhir sura nazalat min al-qur''an nazalat jami''an'': idha ja''a nasr allah'
+- id: hadith-60-abu-lahab
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Abu Lahab dogging the prophet at Dhu l-Majaz; the call from al-Safa; Umm Jamil cannot see the prophet (Q 111)
+  read:
+  - Jāmiʿ 60:7692.1-7694.1
+  quran:
+  - 111:1-5
+  - 26:214
+  - '17:45'
+  tags:
+  - motif: uncle-squints-two-plaits-shouts-he-is-a-liar
+    refs:
+    - Jāmiʿ 60:7692.1
+    note: '''rajul wadi'' al-wajh ahwal dhu ghadiratayn yaqulu innahu sabi'' kadhib''; ''qulu la ilaha illa allah tuflihu'' at suq Dhi l-Majaz'
+  - motif: ya-sabahah-from-safa
+    refs:
+    - Jāmiʿ 60:7692.2
+  - motif: abu-lahab-perish-you
+    refs:
+    - Jāmiʿ 60:7692.2
+    note: 'Abu Lahab: ''tabban laka ama jama''tana illa li-hadha'' and the sura comes down'
+  - motif: woman-with-stone-cannot-see-the-prophet
+    refs:
+    - Jāmiʿ 60:7694.1
+    note: 'Umm Jamil with a fihr in her hand: ''innaha lan tarani''; Q 17:45 ''hijaban mastura''; she stands at Abu Bakr and does not see him'
+  - motif: mudhammam-we-reject
+    refs:
+    - Jāmiʿ 60:7694.1
+    note: '''mudhammaman abayna wa-dinahu qalayna wa-amrahu ''asayna''; stumbling at the tawaf: ''ta''isa mudhammam'''
+  hints:
+  - 'The enemy struck blind to the one he seeks: compare 2 Kgs 6:18 (Aramaeans struck with blindness) and Gen 19:11.'
+- id: hadith-60-ikhlas-lineage-of-god
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Give us your Lord''s lineage'': al-Ikhlas as answer; love of it brings paradise; one third of the Quran (Q 112)'
+  read:
+  - Jāmiʿ 60:7695.1-7699.2
+  quran:
+  - 112:1-4
+  tags:
+  - motif: polytheists-ask-gods-lineage
+    refs:
+    - Jāmiʿ 60:7695.1
+    note: '''ya muhammad unsub lana rabbaka'' and al-Ikhlas comes down'
+  - motif: what-is-born-dies-what-dies-is-inherited
+    refs:
+    - Jāmiʿ 60:7695.1
+    note: '''laysa shay'' yulad illa sa-yamut wa-laysa shay'' yamut illa sa-yurath wa-inna allah la yamut wa-la yurath'''
+  - motif: love-of-ikhlas-earns-gods-love-and-paradise
+    refs:
+    - Jāmiʿ 60:7695.2-7696.2
+    note: 'raid leader: ''li-annaha sifat al-rahman'' - ''akhbiruhu anna allah yuhibbuhu''; Quba'' imam: ''inna hubbaha adkhalaka al-janna''; ''wajabat ... al-janna'''
+  - motif: imam-joins-ikhlas-to-every-raka
+    refs:
+    - Jāmiʿ 60:7696.2
+    note: '''iftataha bi-qul huwa allah ahad hatta yafrugha minha thumma yaqra''u bi-sura ukhra ma''aha ... fi kull rak''a'''
+  - motif: chose-meal-with-prophet-over-giving-good-news
+    refs:
+    - Jāmiʿ 60:7696.1
+    note: Abu Hurayra 'fariqtu an yafutani al-ghada'' and found the man gone
+  - motif: ikhlas-equals-third-of-quran
+    refs:
+    - Jāmiʿ 60:7697.1-7699.2
+    note: '''innaha la-ta''dilu thulth al-qur''an''; ''inna allah jazza''a al-qur''an thalathat ajza'''''
+  - motif: man-repeats-one-sura-all-night
+    refs:
+    - Jāmiʿ 60:7697.1-7697.2
+    note: '''yaqra''u min al-sahar qul huwa allah ahad yuradiduha la yazidu ''alayha'''
+  - motif: assemble-i-will-recite-a-third
+    refs:
+    - Jāmiʿ 60:7698.2
+    note: '''ihshudu fa-inni sa-aqra''u ''alaykum thulth al-qur''an''; they think ''khabar ja''ahu min al-sama'''''
+- id: hadith-60-three-protecting-suras
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ikhlas and the two refuge suras: none like them in Torah, Psalms, Gospel or Furqan (Q 112-114)'
+  read:
+  - Jāmiʿ 60:7699.3
+  quran:
+  - '112:1'
+  - '113:1'
+  - '114:1'
+  tags:
+  - motif: no-sura-like-it-in-torah-gospel-psalms
+    refs:
+    - Jāmiʿ 60:7699.3
+    note: '''suwaran ma unzilat fi l-tawrat wa-la fi l-zabur wa-la fi l-injil wa-la fi l-furqan mithluhunna''; recite them every night'
+- id: hadith-60-son-of-adam-belies-and-insults
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Divine saying: the son of Adam belies and insults me; none more patient with insult than God (Q 112:2-4)'
+  read:
+  - Jāmiʿ 60:7700.1-7700.2
+  quran:
+  - 112:1-4
+  - '112:3'
+  tags:
+  - motif: man-denies-and-insults-god
+    refs:
+    - Jāmiʿ 60:7700.1
+    note: '''kadhdhabani ibn adam ... wa-shatamani''; ''ana al-ahad al-samad lam alid wa-lam ulad'''
+  - motif: first-creation-not-easier-than-repeating-it
+    refs:
+    - Jāmiʿ 60:7700.1
+    note: '''wa-laysa awwal al-khalq bi-ahwan ''alayya min i''adatihi'''
+  - motif: none-more-patient-at-insult-than-god
+    refs:
+    - Jāmiʿ 60:7700.2
+    note: '''laysa ahad ... asbar ''ala adhan sami''ahu min allah innahum la-yad''una lahu waladan innahu la-yu''afihim wa-yarzuquhum'''
+- id: hadith-60-muawwidhatayn
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The two refuge suras: blowing into palms at sleep, Gabriel''s ruqya, the moon as the darkness, and the Ibn Mas''ud question (Q 113-114)'
+  read:
+  - Jāmiʿ 60:7701.1-7704.2
+  quran:
+  - 112:1-4
+  - 113:1-5
+  - 114:1-6
+  tags:
+  - motif: blows-into-palms-reciting-three-surahs-and-wipes-body
+    refs:
+    - Jāmiʿ 60:7701.2
+    note: '''jama''a kaffayhi thumma nafatha fihima ... yabda''u biha ''ala ra''sihi wa-wajhihi ... thalath marrat'''
+  - motif: wife-blows-protective-suras-with-his-hand
+    refs:
+    - Jāmiʿ 60:7701.1
+    note: '''kuntu aqra''u ''alayhi wa-amsahu ''anhu bi-yadihi raja'' barakatiha'''
+  - motif: verses-revealed-tonight-none-like-them
+    refs:
+    - Jāmiʿ 60:7701.3
+    note: '''a-lam tara ayat unzilat al-layla lam yura mithluhunna qatt'''
+  - motif: say-said-three-times-then-the-suras
+    refs:
+    - Jāmiʿ 60:7701.4
+    note: '''ya ''uqba qul'' - ''madha aqulu?'' three times; ''ma sa''ala sa''il bi-mithlihima wa-la sta''adha musta''idh bi-mithlihima'''
+  - motif: sura-dearer-to-god-than-hud-and-yusuf
+    refs:
+    - Jāmiʿ 60:7702.1
+    note: 'asked for Hud and Yusuf: ''lam taqra'' sura ahabba ila allah wa-la ablagha ''indahu min qul a''udhu bi-rabb al-falaq'''
+  - motif: it-was-said-to-me-so-i-said
+    refs:
+    - Jāmiʿ 60:7702.3
+    note: 'Ubayy on Ibn Mas''ud''s view: ''qila li fa-qultu'' - ''fa-nahnu naqulu kama qala'''
+  - motif: prophet-leads-camel-companion-rides
+    refs:
+    - Jāmiʿ 60:7703.1-7703.2
+    note: '''ya ''uqb ala tarkab?''; the prophet dismounts and ''Uqba rides ''hunayya''; recite them ''kullama numta wa-kullama qumta'''
+  - motif: darkness-when-it-settles
+    refs:
+    - Jāmiʿ 60:7704.1
+    note: 'shown the rising moon: ''ta''awwadhi billah min sharri hadha al-ghasiq idha waqab'''
+  - motif: gabriel-recites-ruqya-over-sick-prophet
+    refs:
+    - Jāmiʿ 60:7704.2
+    note: '''bismillah arqika min kull shay'' yu''dhika min sharri kull nafs aw ''ayn hasid allah yashfika'''
+- id: hadith-60-qarin-and-satan-shrinks
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Each has a jinn companion; the prophet's submitted; Satan swells at 'tais' and shrinks to a fly at 'bismillah' (Q 114:4-6)
+  read:
+  - Jāmiʿ 60:7705.1-7705.2
+  quran:
+  - 114:4-6
+  tags:
+  - motif: satan-assigned-as-companion
+    refs:
+    - Jāmiʿ 60:7705.1
+    note: '''ma minkum min ahad illa wa-qad wukkila bihi qarinuhu min al-jinn'''
+  - motif: prophets-jinn-companion-submitted
+    refs:
+    - Jāmiʿ 60:7705.1
+    note: '''illa anna allah a''anani ''alayhi fa-aslama fa-la ya''muruni illa bi-khayr'''
+  - motif: satan-swells-at-curse-shrinks-to-fly-at-gods-name
+    refs:
+    - Jāmiʿ 60:7705.2
+    note: 'donkey stumbles: ''la taqul ta''isa al-shaytan ... ta''azama wa-qala bi-quwwati sara''tuhu wa-idha qulta bismillah tasaghara hatta yasira mithl al-dhubab'''
+- id: hadith-65-hasten-deeds-before-dark-trials
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Hasten to deeds before trials like pieces of dark night: believer at morning, unbeliever by evening'
+  read:
+  - Jāmiʿ 65:8342.1-8342.2
+  tags:
+  - motif: trials-like-pieces-of-dark-night
+    refs:
+    - Jāmiʿ 65:8342.1-8342.2
+    note: '''fitanan ka-qita'' al-layl al-muzlim'''
+  - motif: believer-at-morning-unbeliever-at-evening
+    refs:
+    - Jāmiʿ 65:8342.1-8342.2
+    note: '''yusbihu al-rajul mu''minan wa-yumsi kafiran aw yumsi mu''minan wa-yusbihu kafiran'''
+  - motif: sells-religion-for-worldly-goods
+    refs:
+    - Jāmiʿ 65:8342.1-8342.2
+    note: '''yabi''u dinahu bi-''arad min al-dunya'''
+- id: hadith-65-happy-is-one-spared-trials
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''The happy one is he who is spared trials'', said three times, ''and he who is tried and endures: waha'''
+  read:
+  - Jāmiʿ 65:8342.3
+  tags:
+  - motif: happy-is-he-spared-trials-thrice
+    refs:
+    - Jāmiʿ 65:8342.3
+    note: '''inna al-sa''id la-man junniba al-fitan'' three times, ''wa-li-man ubtuliya fa-sabara fa-waha'''
+- id: hadith-65-ask-me-from-the-pulpit
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Ask me nothing but I will explain it'': heads in garments weeping, ''who is my father?'', paradise and hell shown below the wall (Q 5:101)'
+  read:
+  - Jāmiʿ 65:8343.1
+  quran:
+  - 5:101
+  tags:
+  - motif: ask-me-anything-from-the-pulpit
+    refs:
+    - Jāmiʿ 65:8343.1
+    note: '''fa-idha kull rajul ra''suhu fi thawbihi yabki'''
+  - motif: your-father-is-hudhafa
+    refs:
+    - Jāmiʿ 65:8343.1
+    note: 'a man ''kana idha laha yud''a ila ghayr abihi'': ''man abi?'' - ''abuka hudhafa'''
+  - motif: umar-we-are-content-with-god-as-lord
+    refs:
+    - Jāmiʿ 65:8343.1
+    note: 'Umar: ''radina billah rabban wa-bi-l-islam dinan wa-bi-muhammad rasulan na''udhu billah min su'' al-fitan'''
+  - motif: paradise-and-fire-shown-beyond-the-wall
+    refs:
+    - Jāmiʿ 65:8343.1
+    note: '''innahu suwwirat li al-janna wa-l-nar hatta ra''aytuhuma duna al-ha''it'''
+- id: hadith-65-refuge-from-trials-and-dajjal
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Seek refuge from trials outward and inward, and from the trial of the Dajjal
+  read:
+  - Jāmiʿ 65:8343.2
+  tags:
+  - motif: refuge-from-trials-outward-and-inward
+    refs:
+    - Jāmiʿ 65:8343.2
+    note: '''ta''awwadhu billah min al-fitan ma zahara minha wa-ma batana'' repeated by them; then ''min fitnat al-dajjal'''
+- id: hadith-65-flee-with-sheep-to-hilltops
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Best wealth: sheep led to mountain peaks and rain-places; the man in a mountain pass who spares people his evil'
+  read:
+  - Jāmiʿ 65:8343.3-8344.1
+  tags:
+  - motif: sheep-led-to-peaks-fleeing-with-religion
+    refs:
+    - Jāmiʿ 65:8343.3
+    note: '''ghanaman yattabi''u biha sha''af al-jibal wa-mawaqi'' al-qatr yafirru bi-dinihi min al-fitan'''
+  - motif: best-man-fighter-or-hermit-in-mountain-pass
+    refs:
+    - Jāmiʿ 65:8344.1
+    note: '''rajul jahada bi-nafsihi wa-malihi wa-rajul fi shi''b min al-shi''ab ya''budu rabbahu wa-yada''u al-nas min sharrihi'''
+  hints:
+  - 'The believer withdrawing with flock to the hills before the trial: compare 1 Macc 2:28 (Mattathias and his sons flee to the hills) and Mark 13:14 ''let those in Judaea flee to the mountains''.'
+- id: hadith-65-each-age-worse
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Complaint of al-Hajjaj: ''every age after is worse, until you meet your Lord'''
+  read:
+  - Jāmiʿ 65:8344.2
+  - Jāmiʿ 65:8377.1
+  tags:
+  - motif: every-age-worse-than-the-one-before
+    refs:
+    - Jāmiʿ 65:8344.2
+    - Jāmiʿ 65:8377.1
+    note: '''la ya''ti ''alaykum zaman illa alladhi ba''dahu sharr minhu hatta talqaw rabbakum'' (on al-Hajjaj); same report repeated under its own bab'
+  hints:
+  - 'Successive ages each worse: compare the declining metals of Dan 2:31-45 and Hesiod''s ages.'
+- id: hadith-65-farewell-admonition-and-first-affair
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'An admonition like a farewell: obey even an Abyssinian slave, bite the sunna with molars; ''hold to it like this'' (the carpet)'
+  read:
+  - Jāmiʿ 65:8344.3-8345.1
+  tags:
+  - motif: farewell-sermon-teeth-on-the-sunna
+    refs:
+    - Jāmiʿ 65:8344.3
+    note: '''maw''iza baligha dharafat minha al-''uyun wa-wajilat minha al-qulub ... ka-anna hadhihi maw''izat muwaddi''''; ''al-sam'' wa-l-ta''a wa-in ''abdan habashiyyan''; ''tamassaku biha wa-''addu
+      ''alayha bi-l-nawajidh''; ''kull muhdatha bid''a wa-kull bid''a dalala'''
+  - motif: hold-to-it-gesture-grasping-carpet
+    refs:
+    - Jāmiʿ 65:8345.1
+    note: '''fa-radda yadahu ila al-bisat fa-amsaka bihi: taf''aluna hakadha''; ''tarji''una ila amrikum al-awwal'''
+- id: hadith-65-a-tenth-of-what-he-knows
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Now one who leaves a tenth of what he knows perishes; later one who holds to a tenth is saved
+  read:
+  - Jāmiʿ 65:8345.2
+  tags:
+  - motif: leaving-tenth-perishes-holding-tenth-saves
+    refs:
+    - Jāmiʿ 65:8345.2
+    note: '''zaman ''ulama''uhu kathir khutaba''uhu qalil man taraka fihi ''ushayr ma ya''lamu hawa ... yaqillu ''ulama''uhu wa-yakthuru khutaba''uhu man tamassaka fihi bi-''ushayr ma ya''lamu naja'''
+- id: hadith-65-liars-bring-unheard-reports
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: At the end of time liars bring reports neither you nor your fathers heard
+  read:
+  - Jāmiʿ 65:8346.1
+  tags:
+  - motif: end-time-liars-bring-unheard-reports
+    refs:
+    - Jāmiʿ 65:8346.1
+    note: '''dajjalun kadhdhabun ya''tunakum min al-ahadith bi-ma lam tasma''u antum wa-la aba''ukum'''
+- id: hadith-65-hold-to-the-community
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Hudhayfa asks about evil; die biting a tree root; bay'a, the handspan, Satan with the lone man, God's hand on the community
+  read:
+  - Jāmiʿ 65:8346.2-8348.1
+  tags:
+  - motif: hudhayfa-asked-about-evil-others-about-good
+    refs:
+    - Jāmiʿ 65:8346.2
+    note: '''kana al-nas yas''aluna ... ''an al-khayr wa-kuntu as''aluhu ''an al-sharr makhafata an yudrikani'''
+  - motif: good-with-smoke-in-it
+    refs:
+    - Jāmiʿ 65:8346.2
+    note: '''na''am wa-fihi dakhan ... qawm yastannuna bi-ghayr sunnati ... ta''rifu minhum wa-tunkir'''
+  - motif: callers-at-gates-of-hell-of-our-own-skin
+    refs:
+    - Jāmiʿ 65:8346.2
+    note: '''du''at ''ala abwab jahannam man ajabahum ilayha qadhafuhu fiha ... min jildatina wa-yatakallamuna bi-alsinatina'''
+  - motif: withdraw-biting-tree-root-until-death
+    refs:
+    - Jāmiʿ 65:8346.2
+    note: '''fa-''tazil tilka al-firaq kullaha wa-law an ta''adda ''ala asl shajara hatta yudrikaka al-mawt'''
+  - motif: dies-without-pledge-dies-jahiliyya-death
+    refs:
+    - Jāmiʿ 65:8347.1
+    note: 'Ibn Umar refuses the cushion at the Harra: ''man mata wa-laysa fi ''unuqihi bay''a mata mitatan jahiliyya'''
+  - motif: five-commands-of-the-prophet
+    refs:
+    - Jāmiʿ 65:8347.2
+    note: '''man faraqa al-jama''a shibran fa-qad khala''a ribqat al-islam min ''unuqihi'''
+  - motif: meet-me-at-the-basin
+    refs:
+    - Jāmiʿ 65:8347.3
+    note: 'Abu Dharr would strike with his sword at rulers who ''yasta''thiruna bi-hadha al-fay'''': ''tasbiru hatta talqani'''
+  - motif: satan-with-the-one-farther-from-two
+    refs:
+    - Jāmiʿ 65:8347.4
+    note: '''inna al-shaytan ma''a al-wahid wa-huwa min al-ithnayn ab''ad'''
+  - motif: satan-third-with-man-and-woman-alone
+    refs:
+    - Jāmiʿ 65:8347.4
+    note: '''la yakhluwanna ahadukum bi-mra''a fa-inna al-shaytan thalithuhuma'''
+  - motif: testimony-volunteered-before-asked
+    refs:
+    - Jāmiʿ 65:8347.4
+    note: after three generations 'yafshu al-kadhib hatta inna al-rajul la-yabtadi'u bi-l-shahada qabla an yus'alaha'
+  - motif: community-never-agreed-on-error
+    refs:
+    - Jāmiʿ 65:8348.1
+    note: '''la yajma''u allah ummati ... ''ala al-dalala abadan wa-yad allah ''ala al-jama''a'''
+  hints:
+  - '''Where two or three are gathered'' and Satan with the lone man: compare Eccl 4:9-12 (''woe to him who is alone when he falls'').'
+- id: hadith-65-sitter-better-than-stander
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: In the trial the sitter is better than the stander, the walker than the runner; flee to camels, sheep or land; blunt the sword on a stone
+  read:
+  - Jāmiʿ 65:8348.2-8350.1
+  quran:
+  - 5:27-29
+  tags:
+  - motif: sitter-better-than-stander-walker-than-runner
+    refs:
+    - Jāmiʿ 65:8348.2-8350.1
+    note: '''al-qa''id fiha khayr min al-qa''im wa-l-qa''im fiha khayr min al-mashi wa-l-mashi fiha khayr min al-sa''i''; variant ''al-na''im fiha khayr min al-yaqzan'''
+  - motif: whoever-looks-toward-it-it-draws-in
+    refs:
+    - Jāmiʿ 65:8348.2
+    note: '''man yushrif laha tastashrifhu wa-man wajada malja''an aw ma''adhan fa-l-ya''udh bihi'''
+  - motif: missed-prayer-like-losing-family-and-wealth
+    refs:
+    - Jāmiʿ 65:8349.1
+    note: '''min al-salat salat man fatathu fa-ka-annama watira ahlahu wa-malahu'''
+  - motif: go-to-your-camels-sheep-or-land
+    refs:
+    - Jāmiʿ 65:8349.2
+    note: '''man kana lahu ibil fa-l-yalhaq bi-ibilihi ... ghanam ... ard'''
+  - motif: beat-swords-edge-with-a-stone
+    refs:
+    - Jāmiʿ 65:8349.2-8350.1
+    note: '''ya''midu ila sayfihi fa-yaduqqu ''ala haddihi bi-hajar''; ''kassiru qisiyyakum wa-qatti''u awtarakum wa-dribu suyufakum bi-l-hijara'''
+  - motif: forced-into-battle-killer-bears-both-sins
+    refs:
+    - Jāmiʿ 65:8349.2
+    note: '''yabu''u bi-ithmihi wa-ithmika wa-yakunu min ashab al-nar'''
+  - motif: be-like-the-better-son-of-adam
+    refs:
+    - Jāmiʿ 65:8349.3-8350.1
+    note: '''kun ka-bni adam''; ''fa-l-yakun ka-khayr ibnay adam'''
+  - motif: thrice-did-i-convey
+    refs:
+    - Jāmiʿ 65:8349.2
+    note: '''allahumma hal ballaghtu'' three times'
+  hints:
+  - '''Be like the (better) son of Adam'' when attacked at home: compare Gen 4:8 and the Targum/rabbinic speech of Abel; the Quranic Abel''s ''if you stretch your hand to kill me I will not'' (Q 5:28).'
+- id: hadith-65-wooden-sword
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Companions told to take a sword of wood, break their swords on Uhud or the biggest rock, and sit at home
+  read:
+  - Jāmiʿ 65:8350.2-8353.3
+  quran:
+  - '5:29'
+  tags:
+  - motif: sword-of-wood-in-time-of-strife
+    refs:
+    - Jāmiʿ 65:8350.2-8351.1
+    note: 'Uhban: ''an attakhidha sayfan min khashab fa-hadha sayfi''; Muhammad b. Maslama draws ''sayf min khashab ... arhabu bihi al-nas'''
+  - motif: break-sword-on-uhud-or-biggest-rock
+    refs:
+    - Jāmiʿ 65:8351.1-8353.3
+    note: '''fa''ti bi-sayfika uhudan fa-drib bihi ''urdahu''; ''i''mid bi-sayfika ila a''zam sakhra fi l-harra fa-drib biha hatta yankasir'''
+  - motif: sit-at-home-until-sinful-hand-or-fated-death
+    refs:
+    - Jāmiʿ 65:8351.1-8353.3
+    note: '''thumma ijlis fi baytika hatta ta''tiyaka yad khati''a aw maniyya qadiya'''
+  - motif: withdraw-room-to-inner-room-then-kneel
+    refs:
+    - Jāmiʿ 65:8352.1
+    note: '''uq''ud fi makhda''ik fa-in dukhila ''alayka fa-jthu ''ala rukbatayka wa-taqul bu'' bi-ithmi wa-ithmik ... wa-dhalika jaza'' al-zalimin'''
+  - motif: trials-butt-like-bulls-foreheads
+    refs:
+    - Jāmiʿ 65:8353.1
+    note: '''tasdimu al-rajul ka-sadmi jibah fuhul al-thiran'''
+  - motif: be-gods-slain-servant-not-the-killer
+    refs:
+    - Jāmiʿ 65:8353.1
+    note: '''wa-l-yakun ''abd allah al-maqtul wa-la yakun ''abd allah al-qatil''; ''udkhulu buyutakum wa-khmilu dhikrakum'''
+  - motif: fight-polytheists-until-swords-clash-among-muslims
+    refs:
+    - Jāmiʿ 65:8353.2-8353.3
+    note: '''qatil al-mushrikin ma qutilu fa-idha ra''ayta sayfayn ikhtalafa bayna al-muslimin fa-drib hatta yanthalim'''
+- id: hadith-65-days-of-harj-grip-wrist
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ibn Mas''ud''s midday visit: the sleeper better than the reclining ... the rider than the galloper; in the days of harj grip your wrist and say ''my Lord is God'''
+  read:
+  - Jāmiʿ 65:8354.1
+  tags:
+  - motif: sleeper-to-galloper-graded-ladder
+    refs:
+    - Jāmiʿ 65:8354.1
+    note: '''al-na''im fiha khayr min al-mudtaji'' ... wa-l-mashi khayr min al-rakib wa-l-rakib khayr min al-mujri qatlaha kulluha fi l-nar'''
+  - motif: harj-when-none-trusts-his-sitting-companion
+    refs:
+    - Jāmiʿ 65:8354.1
+    note: '''dhalika ayyam al-harj ... hina la ya''manu al-rajul jalisahu'''
+  - motif: house-room-then-mosque-gripping-wrist
+    refs:
+    - Jāmiʿ 65:8354.1
+    note: '''fa-dkhul masjidaka wa-sna'' hakadha wa-qabada bi-yaminihi ''ala al-kaw'' wa-qul rabbi allah hatta tamuta ''ala dhalika'''
+- id: hadith-65-abu-dharr-three-calamities
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Riding pillion, Abu Dharr is asked about famine, plague when a house is a slave's price, and blood drowning the stones of al-Zayt
+  read:
+  - Jāmiʿ 65:8355.1
+  quran:
+  - '5:29'
+  tags:
+  - motif: famine-plague-and-slaughter-three-questions
+    refs:
+    - Jāmiʿ 65:8355.1
+    note: 'hunger: ''ta''affaf''; death ''yakun al-bayt fihi bi-l-''abd ya''ni al-qabr'': ''isbir''; killing ''hatta taghraqa hijarat al-zayt min al-dima'''''
+  - motif: cast-cloak-over-face-against-sword-glint
+    refs:
+    - Jāmiʿ 65:8355.1
+    note: '''in khashita an yaru''aka shu''a'' al-sayf fa-alqi taraf rida''ika ''ala wajhika hatta yabu''a bi-ithmihi wa-ithmik'''
+- id: hadith-65-word-that-splits-the-community
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn Umar holds back a word against Mu'awiya that would split the gathering and shed blood
+  read:
+  - Jāmiʿ 65:8356.1
+  tags:
+  - motif: restrained-word-to-avoid-bloodshed
+    refs:
+    - Jāmiʿ 65:8356.1
+    note: 'Mu''awiya: ''fa-l-yutli'' lana qarnahu''; ''fa-halaltu habwati ... fa-khashitu an aqula kalima tufarriqu bayna al-jam'' wa-tasfiku al-dam'''
+- id: hadith-65-grasping-thorns-or-embers
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Woe to the Arabs: the one holding to his religion is like one grasping thorny branches or embers of ghada'
+  read:
+  - Jāmiʿ 65:8357.1
+  - Jāmiʿ 65:8381.3
+  tags:
+  - motif: holding-religion-like-grasping-thorns-or-embers
+    refs:
+    - Jāmiʿ 65:8357.1
+    - Jāmiʿ 65:8381.3
+    note: '''al-mutamassik minhum yawma''idhin ''ala dinihi ka-l-qabid ''ala khabat al-shawk aw jamr al-ghada''; same report repeated under the bab ''wayl li-l-''arab'''
+- id: hadith-65-worship-in-harj
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Worship in the time of harj is like emigration to me
+  read:
+  - Jāmiʿ 65:8358.1
+  tags:
+  - motif: worship-in-harj-like-hijra
+    refs:
+    - Jāmiʿ 65:8358.1
+    note: '''al-''ibada fi l-harj ka-hijra ilayya'''
+- id: hadith-65-day-long-sermon-to-the-hour
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: A sermon from dawn to sunset, descending only to pray, told all that was and will be; from the beginning of creation to the entry of paradise and hell
+  read:
+  - Jāmiʿ 65:8358.2-8360.1
+  tags:
+  - motif: sermon-interrupted-only-by-the-prayers
+    refs:
+    - Jāmiʿ 65:8358.2
+    note: '''salla bina al-fajr wa-sa''ida al-minbar fa-khatabana hatta hadarat al-zuhr fa-nazala ... hatta gharabat al-shams fa-akhbarana bi-ma kana wa-bi-ma huwa ka''in fa-a''lamuna ahfazuna'''
+  - motif: told-from-creation-until-people-enter-their-abodes
+    refs:
+    - Jāmiʿ 65:8359.1
+    note: '''akhbarana ''an bad'' al-khalq hatta dakhala ahl al-janna manazilahum wa-ahl al-nar manazilahum'''
+  - motif: forgotten-prediction-recognized-like-a-face
+    refs:
+    - Jāmiʿ 65:8360.1
+    note: '''innahu la-yakunu minhu al-shay'' qad nasitu fa-arahu fa-adhkuruhu kama yadhkuru al-rajul wajh al-rajul idha ghaba ''anhu thumma idha ra''ahu ''arafahu'''
+- id: hadith-65-hudhayfa-and-the-door
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Hudhayfa's knowledge of trials; three that leave nothing, others like summer winds; the trial that surges like the sea and the door that will be broken
+  read:
+  - Jāmiʿ 65:8360.2-8361.2
+  - Jāmiʿ 65:8376.2
+  - Jāmiʿ 65:8382.2
+  tags:
+  - motif: did-not-ask-what-drives-medinans-out
+    refs:
+    - Jāmiʿ 65:8360.2
+    note: '''illa anni lam as''alhu ma yukhriju ahl al-madina min al-madina'''
+  - motif: three-trials-leave-nothing-others-like-summer-winds
+    refs:
+    - Jāmiʿ 65:8360.3
+    note: '''minhunna thalath la yakadna yadharna shay''an wa-minhunna fitan ka-riyah al-sayf minha sighar wa-minha kibar'''
+  - motif: household-trial-expiated-by-prayer-fast-alms
+    refs:
+    - Jāmiʿ 65:8361.1-8361.2
+    note: '''fitnat al-rajul fi ahlihi wa-malihi wa-nafsihi wa-waladihi wa-jarihi yukaffiruha al-siyam wa-l-salat wa-l-sadaqa wa-l-amr bi-l-ma''ruf'''
+  - motif: trial-surging-like-the-sea
+    refs:
+    - Jāmiʿ 65:8361.1-8361.2
+    note: '''allati tamuju ka-mawj al-bahr'''
+  - motif: closed-door-broken-not-opened-is-umar
+    refs:
+    - Jāmiʿ 65:8361.1-8361.2
+    - Jāmiʿ 65:8382.2
+    note: '''inna baynaka wa-baynaha baban mughlaqan ... yuksaru ... dhalika ahra an la yughlaqa abadan''; ''al-bab ''umar''; ''rajul yuqtalu aw yamut''; repeated under bab 28 with the reed-mat addition'
+  - motif: trials-presented-to-hearts-like-reed-mat
+    refs:
+    - Jāmiʿ 65:8361.2
+    - Jāmiʿ 65:8376.2
+    note: '''ka-l-hasir ''udan ''udan ... aswad murbaddan ka-l-kuz mujakhkhiyan''; repeated under bab 19'
+- id: hadith-65-trust-lifted-from-hearts
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Trust came down in the root of men's hearts and is taken in sleep, leaving a trace like a blister from a rolled ember
+  read:
+  - Jāmiʿ 65:8362.1
+  tags:
+  - motif: trust-descended-into-root-of-hearts
+    refs:
+    - Jāmiʿ 65:8362.1
+    note: '''anna al-amana nazalat fi jadhr qulub al-rijal thumma nazala al-qur''an'''
+  - motif: trust-taken-in-sleep-leaving-blister
+    refs:
+    - Jāmiʿ 65:8362.1
+    note: '''yanamu al-rajul al-nawma fa-tuqbadu al-amana min qalbihi fa-yazallu atharuha mithl al-wakt ... mithl al-majl ka-jamr dahrajtahu ''ala rijlik fa-nafita''; he rolls a pebble on his foot'
+  - motif: one-trustworthy-man-in-a-clan
+    refs:
+    - Jāmiʿ 65:8362.1
+    note: '''hatta yuqala inna fi bani fulan rajulan aminan ... ma ajladahu ma azrafahu ma a''qalahu wa-ma fi qalbihi mithqal habba min khardal min iman'''
+- id: hadith-65-hudhayfa-sequence-of-good-and-evil
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Hudhayfa''s sequence: learn God''s Book; Mudar will be humbled; prophethood, caliphate, biting kingship, tyranny; Islam effaced like a garment''s embroidery'
+  read:
+  - Jāmiʿ 65:8362.2-8365.2
+  - Jāmiʿ 65:8369.4-8370.1
+  tags:
+  - motif: hudhayfa-asked-about-evil-others-about-good
+    refs:
+    - Jāmiʿ 65:8362.2
+    note: repeat of the long report
+  - motif: rulers-with-hearts-of-devils-in-human-bodies
+    refs:
+    - Jāmiʿ 65:8362.2
+    note: 'variant (Abu Sallam): ''qulubuhum qulub al-shayatin fi jithman ins''; ''tasma''u wa-tuti''u li-l-amir wa-in daraba zahraka'''
+  - motif: learn-gods-book-said-three-times
+    refs:
+    - Jāmiʿ 65:8363.1
+    note: '''ya hudhayfa ''alayka bi-kitab allah fa-ta''allamhu wa-ttabi'' ma fihi'' three times'
+  - motif: mudar-humbled-till-it-cannot-defend-a-gully
+    refs:
+    - Jāmiʿ 65:8364.1-8364.2
+    note: '''hatta la tamna''a dhanab tal''a''; ''inna minkum sayyid wuld adam'''
+  - motif: prophethood-caliphate-biting-kingship-tyranny
+    refs:
+    - Jāmiʿ 65:8364.3-8365.1
+    note: '''takunu al-nubuwwa ... thumma khilafa ''ala minhaj al-nubuwwa ... thumma mulkan ''addan ... thumma mulkan jabriyya ... thumma khilafa ''ala minhaj al-nubuwwa'''
+  - motif: islam-effaced-like-garment-embroidery-quran-taken-in-a-night
+    refs:
+    - Jāmiʿ 65:8365.2
+    note: '''yadrusu al-islam kama yadrusu washy al-thawb ... wa-la-yusra ''ala kitab allah fi layla fa-la yabqa fi l-ard minhu aya'''
+  - motif: old-people-keep-only-la-ilaha-illa-allah
+    refs:
+    - Jāmiʿ 65:8365.2
+    note: '''adrakna aba''ana ''ala hadhihi al-kalima'' - ''ya sila tunjihim min al-nar'' three times'
+  - motif: callers-at-gates-of-hell-of-our-own-skin
+    refs:
+    - Jāmiʿ 65:8369.4-8370.1
+    note: '''fitan ''ala abwabiha du''at ila al-nar'''
+  - motif: withdraw-biting-tree-root-until-death
+    refs:
+    - Jāmiʿ 65:8369.4-8370.1
+    note: '''''add ''ala jidhl shajara'''
+  - motif: dajjal-with-river-and-fire-reward-reversed
+    refs:
+    - Jāmiʿ 65:8370.1
+    note: '''fa-man waqa''a fi narihi wajaba ajruhu wa-hutta wizruhu wa-man waqa''a fi nahrihi wajaba wizruhu'''
+  - motif: truce-on-smoke-remnant-on-motes
+    refs:
+    - Jāmiʿ 65:8370.1
+    note: '''hudna ''ala dakhan''; ''baqiyya ''ala aqdha''''; ''la tarji''u qulub aqwam ''ala alladhi kanat ''alayhi'''
+  - motif: hour-before-a-foal-is-born
+    refs:
+    - Jāmiʿ 65:8370.1
+    note: '''law anna rajulan nataja farasan lam tuntaj hatta taqum al-sa''a'''
+  hints:
+  - 'The succession of kingdoms ending in a restored rule: compare Dan 2 and 7 (four kingdoms, then the kingdom of the saints).'
+- id: hadith-65-jara-day-and-hypocrites
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The day of al-Jar'a; twelve hypocrites who will not enter paradise till a camel passes the needle's eye; the men of the Aqaba
+  read:
+  - Jāmiʿ 65:8366.1-8368.1
+  quran:
+  - '7:40'
+  tags:
+  - motif: blood-will-be-shed-oath-against-oath
+    refs:
+    - Jāmiʿ 65:8366.1
+    note: '''la-yuhraqanna al-yawm hahuna dima'''' - ''kalla wallahi'' three times; the man is Hudhayfa'
+  - motif: revolt-returns-without-a-cupping-of-blood
+    refs:
+    - Jāmiʿ 65:8366.2
+    note: '''la-tarji''anna ''ala ''aqibayha lam yuhraq fiha mihjamat dam''; ''yunakkisu qalbahu ta''luhu istuhu'''
+  - motif: twelve-hypocrites-among-companions
+    refs:
+    - Jāmiʿ 65:8366.3
+    note: '''fi ashabi ithna ''ashar munafiqan'''
+  - motif: camel-through-eye-of-needle
+    refs:
+    - Jāmiʿ 65:8366.3
+    note: '''la yadkhuluna al-janna wa-la yajiduna rihaha hatta yalija al-jamal fi samm al-khiyat'''
+  - motif: ulcer-of-fire-emerging-from-chest
+    refs:
+    - Jāmiʿ 65:8366.3
+    note: '''thamaniya minhum takfikahum al-dubayla siraj min al-nar yazharu fi aktafihim hatta yanjuma min sudurihim'''
+  - motif: masked-riders-plot-at-mountain-pass
+    refs:
+    - Jāmiʿ 65:8367.1
+    note: '''kunna nukhbaru annahum arba''at ''ashar fa-in kunta minhum fa-qad kana al-qawm khamsat ''ashar''; twelve ''harb lillah'', three excused'
+  - motif: those-who-reached-water-first-cursed
+    refs:
+    - Jāmiʿ 65:8367.1
+    note: '''inna al-ma'' qalil fa-la yasbiquni ilayhi ahad'' - he finds people there and curses them'
+  - motif: hypocrisy-now-open-unbelief
+    refs:
+    - Jāmiʿ 65:8367.2-8368.1
+    note: '''innama kana al-nifaq ''ala ''ahd al-nabi fa-amma al-yawm fa-innama huwa al-kufr ba''d al-iman''; ''kanu yusirruna wa-l-yawm yajharun'''
+- id: hadith-65-dajjal-in-hudhayfas-reports
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Twenty-seven liars, four of them women; people will wish for the Dajjal; his water is fire and his fire water; 'k-f-r' between his eyes
+  read:
+  - Jāmiʿ 65:8368.2-8369.3
+  tags:
+  - motif: twenty-seven-liars-four-women
+    refs:
+    - Jāmiʿ 65:8368.2
+    note: '''fi ummati kadhdhabuna wa-dajjaluna sab''a wa-''ishrun minhum arba'' niswa wa-inni khatam al-nabiyyin'''
+  - motif: people-will-wish-for-the-dajjal
+    refs:
+    - Jāmiʿ 65:8368.3
+    note: '''yatamannawna fihi al-dajjal ... mimma yalqawna min al-dana'' aw al-''ana'''''
+  - motif: dajjals-water-is-fire-and-fire-water
+    refs:
+    - Jāmiʿ 65:8368.4-8369.1
+    note: '''ma''an wa-naran fa-amma alladhi yarahu al-nas ma''an fa-nar tuhriqu ... fa-l-yaqa'' fi lladhi yarahu naran''; ''fa-l-yughammid thumma l-yutati'' ra''sahu fa-yashrab'''
+  - motif: dajjals-paradise-is-fire
+    refs:
+    - Jāmiʿ 65:8369.2
+    note: '''ma''ahu janna wa-nar fa-naruhu janna wa-jannatuhu nar'''
+  - motif: dajjal-eye-wiped-with-thick-film
+    refs:
+    - Jāmiʿ 65:8369.1-8369.2
+    note: '''mamsuh al-''ayn ''alayha zafara ghaliza''; ''a''war al-''ayn al-yusra jufal al-sha''r'''
+  - motif: dajjal-has-kafir-written-between-eyes
+    refs:
+    - Jāmiʿ 65:8369.1-8369.3
+    note: '''maktub bayna ''aynayhi kafir yaqra''uhu kull mu''min katib wa-ghayr katib''; ''muhajjat k f r'''
+  - motif: lesser-trials-feared-more-than-dajjal
+    refs:
+    - Jāmiʿ 65:8369.3
+    note: '''la-fitnat ba''dikum akhwaf ''indi min fitnat al-dajjal ... fa-man naja min fitna ma qablaha naja minha'''
+  hints:
+  - 'The deceiver whose fire is water and water fire: compare the signs of the beast in Rev 13:13 (fire from heaven) and the Ascension of Isaiah 4.'
+- id: hadith-65-what-remains-of-the-world
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: What remains of the world is trial; deeds like a vessel whose top shows its bottom
+  read:
+  - Jāmiʿ 65:8373.1
+  tags:
+  - motif: deed-like-vessel-good-top-good-bottom
+    refs:
+    - Jāmiʿ 65:8373.1
+    note: '''inna ma baqiya min al-dunya bala'' wa-fitna wa-innama mathal ''amal ahadikum ka-mathal al-wi''a'' idha taba a''lahu taba asfaluhu'''
+- id: hadith-65-treasures-and-trials-sent-down
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Waking in alarm: ''what treasures and what trials have been sent down''; clothed in this world, naked in the next'
+  read:
+  - Jāmiʿ 65:8373.2
+  tags:
+  - motif: treasures-and-trials-sent-down-in-a-night
+    refs:
+    - Jāmiʿ 65:8373.2
+    note: '''istayqaza layla fazi''an ... subhan allah madha anzala allah min al-khaza''in wa-madha anzala min al-fitan'''
+  - motif: wake-the-women-of-the-chambers-to-pray
+    refs:
+    - Jāmiʿ 65:8373.2
+    note: '''man yuqizu sawahib al-hujurat'''
+  - motif: clothed-in-world-naked-in-hereafter
+    refs:
+    - Jāmiʿ 65:8373.2
+    note: '''rubba kasiya fi l-dunya ''ariya fi l-akhira'''
+- id: hadith-65-millstone-of-islam
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The millstone of Islam turns for thirty-five, six or seven; if their religion stands, seventy years
+  read:
+  - Jāmiʿ 65:8373.3
+  tags:
+  - motif: millstone-of-islam-turns-thirty-five-years
+    refs:
+    - Jāmiʿ 65:8373.3
+    note: '''tadur raha al-islam bi-khams wa-thalathin aw sitt wa-thalathin aw sab'' wa-thalathin ... yaqum lahum sab''in ''aman ... mimma mada'''
+- id: hadith-65-trials-like-canopies-black-serpents
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Trials like canopies; 'you will return in them as black serpents pouring, striking one another's necks'
+  read:
+  - Jāmiʿ 65:8374.1
+  tags:
+  - motif: islam-enters-houses-god-wills-good-for
+    refs:
+    - Jāmiʿ 65:8374.1
+    note: '''ayyuma ahl bayt min al-''arab aw al-''ajam arada allah bihim khayran adkhala ''alayhim al-islam'''
+  - motif: trials-like-canopies
+    refs:
+    - Jāmiʿ 65:8374.1
+    note: '''thumma taqa''u fitan ka-annaha al-zulal'''
+  - motif: return-as-black-serpents-pouring
+    refs:
+    - Jāmiʿ 65:8374.1
+    note: '''la-ta''udunna fiha asawida subban yadribu ba''dukum riqab ba''d'''
+  - motif: best-man-fighter-or-hermit-in-mountain-pass
+    refs:
+    - Jāmiʿ 65:8374.1
+    note: 'variant: ''afdal al-nas mu''min mu''tazil fi shi''b min al-shi''ab'''
+- id: hadith-65-trials-of-ahlas-sarra-duhayma
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The trials of the saddle-cloths, of prosperity and the duhayma; two tents of faith and hypocrisy, then the Dajjal
+  read:
+  - Jāmiʿ 65:8375.1
+  tags:
+  - motif: trials-of-ahlas-sarra-and-duhayma
+    refs:
+    - Jāmiʿ 65:8375.1
+    note: '''fitnat al-ahlas hiya harb wa-harb thumma fitnat al-sarra'' dakhanuha min taht qadamay rajul min ahl bayti yaz''umu annahu minni wa-laysa minni ... thumma fitnat al-duhayma'' la tada''u ahadan
+      ... illa latamathu latma'''
+  - motif: people-settle-on-man-like-hip-on-rib
+    refs:
+    - Jāmiʿ 65:8375.1
+    note: '''thumma yastalihu al-nas ''ala rajul ka-warik ''ala dila'''''
+  - motif: two-tents-of-faith-and-hypocrisy-then-dajjal
+    refs:
+    - Jāmiʿ 65:8375.1
+    note: '''hatta yasira al-nas ila fustatayn fustat iman la nifaq fihi wa-fustat nifaq la iman fihi fa-idha kana dhakum fa-ntaziru al-dajjal min yawmihi aw min ghadih'''
+- id: hadith-65-trials-fall-like-rain
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'From a Medina fortress: ''I see trials falling among your houses like the falling of rain'''
+  read:
+  - Jāmiʿ 65:8376.1
+  tags:
+  - motif: sees-trials-falling-on-houses-like-rain
+    refs:
+    - Jāmiʿ 65:8376.1
+    note: '''ashrafa ''ala utum min atam al-madina ... fa-inni la-ara al-fitan taqa''u khilal buyutikum ka-waq'' al-qatr'''
+- id: hadith-65-trial-thins-the-one-before
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Every prophet bound to guide; this community's wellbeing is at its start; each trial makes the last seem slight; strike the second claimant's neck
+  read:
+  - Jāmiʿ 65:8376.3
+  tags:
+  - motif: every-prophet-bound-to-warn-his-people
+    refs:
+    - Jāmiʿ 65:8376.3
+    note: '''lam yakun nabiyy qabli illa kana haqqan ''alayhi an yadulla ummatahu ''ala khayr ma ya''lamuhu lahum wa-yundhirahum sharra ma ya''lamuhu'''
+  - motif: community-wellbeing-at-start-trial-at-end
+    refs:
+    - Jāmiʿ 65:8376.3
+    note: '''ju''ila ''afiyatuha fi awwaliha wa-sa-yusibu akhiraha bala'''''
+  - motif: each-trial-makes-the-previous-seem-slight
+    refs:
+    - Jāmiʿ 65:8376.3
+    note: '''tuji''u fitna fa-yuraqqiqu ba''duha ba''dan ... fa-yaqulu al-mu''min hadhihi muhlikati ... hadhihi hadhihi'''
+  - motif: die-believing-treat-others-as-wished
+    refs:
+    - Jāmiʿ 65:8376.3
+    note: '''fa-l-ta''tihi maniyyatuhu wa-huwa yu''minu billah ... wa-l-ya''ti ila al-nas alladhi yuhibbu an yu''ta ilayhi'''
+  - motif: strike-neck-of-second-claimant
+    refs:
+    - Jāmiʿ 65:8376.3
+    note: '''safqat yadihi wa-thamarat qalbihi ... fa-in ja''a akhar yunazi''uhu fa-dribu ''unuq al-akhar'''
+- id: hadith-65-do-not-revert-striking-necks
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Do not become unbelievers after me, striking one another''s necks'' (Farewell Pilgrimage); ''you will follow me in scattered groups'''
+  read:
+  - Jāmiʿ 65:8377.2-8378.3
+  tags:
+  - motif: do-not-revert-striking-each-others-necks
+    refs:
+    - Jāmiʿ 65:8377.2-8378.1
+    note: '''la tarji''u ba''di kuffaran yadribu ba''dukum riqab ba''d''; Jarir: ''istansit al-nas'''
+  - motif: blood-property-honour-sacred-as-this-day
+    refs:
+    - Jāmiʿ 65:8378.1
+    note: '''a-laysa bi-yawm al-nahr ... a-laysat bi-l-balda al-haram ... dima''akum wa-amwalakum wa-a''radakum wa-absharakum ''alaykum haram'''
+  - motif: present-to-inform-the-absent
+    refs:
+    - Jāmiʿ 65:8378.1
+    note: '''fa-l-yuballigh al-shahid al-gha''ib fa-innahu rubba muballagh yuballighuhu li-man huwa aw''a lahu'''
+  - motif: first-of-you-to-die-followed-in-groups
+    refs:
+    - Jāmiʿ 65:8378.2-8378.3
+    note: '''a-taz''umuna anni akhirukum wafatan ala inni min awwalikum wafatan wa-tattabi''uni afnadan yuhliku ba''dukum ba''dan'''
+- id: hadith-65-two-muslims-with-swords
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'When two Muslims meet with their swords, killer and killed are in the fire: ''he was eager to kill his companion'''
+  read:
+  - Jāmiʿ 65:8379.1-8379.2
+  tags:
+  - motif: killer-and-killed-both-in-fire
+    refs:
+    - Jāmiʿ 65:8379.1-8379.2
+    note: '''idha iltaqa al-muslimani bi-sayfayhima fa-l-qatil wa-l-maqtul fi l-nar ... innahu kana harisan ''ala qatl sahibihi''; ''fa-huma fi jurf jahannam'''
+  - motif: advised-to-turn-back-from-civil-war
+    refs:
+    - Jāmiʿ 65:8379.1
+    note: 'al-Ahnaf on his way to aid ''Ali: ''irji'''''
+- id: hadith-65-sword-not-lifted-killing-suffices
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Once the sword is laid in my community it is not lifted until resurrection; killing suffices my companions
+  read:
+  - Jāmiʿ 65:8379.3-8380.1
+  tags:
+  - motif: sword-once-laid-never-lifted
+    refs:
+    - Jāmiʿ 65:8379.3
+    note: '''idha wudi''a al-sayf fi ummati lam yurfa'' ''anha ila yawm al-qiyama'''
+  - motif: killing-suffices-for-my-companions
+    refs:
+    - Jāmiʿ 65:8380.1
+    note: '''bi-hasbi ashabi al-qatl'''
+- id: hadith-65-woe-to-the-arabs
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Woe to the Arabs from an evil drawn near: a gap opened in Gog and Magog''s barrier; ''shall we perish with the righteous among us?''; the Banu Farrukh and knowledge at the Pleiades'
+  read:
+  - Jāmiʿ 65:8380.2-8381.2
+  quran:
+  - 18:94-95
+  tags:
+  - motif: gap-opened-in-gog-and-magog-barrier
+    refs:
+    - Jāmiʿ 65:8380.2
+    note: '''futiha al-yawm min radm ya''juj wa-ma''juj mithl hadhihi'' - Sufyan forms ninety or a hundred (or ten) with his fingers'
+  - motif: wakes-red-faced-saying-woe-to-arabs
+    refs:
+    - Jāmiʿ 65:8380.2
+    note: '''istayqaza ... muhmarran wajhuhu yaqulu la ilaha illa allah wayl li-l-''arab min sharr qad iqtarab'''
+  - motif: perish-with-righteous-among-them-when-filth-abounds
+    refs:
+    - Jāmiʿ 65:8380.2
+    note: '''a-nahliku wa-fina al-salihun? qala na''am idha kathura al-khabath'''
+  - motif: white-sheep-enter-black-flock-non-arabs
+    refs:
+    - Jāmiʿ 65:8381.1
+    note: '''taqarrabu ya bani farrukh ila al-dhikr fa-inna al-''arab qad a''radat ... law kana al-''ilm bi-l-thurayya la-nalahu'''
+  - motif: blind-deaf-dumb-trial-woe-to-runner
+    refs:
+    - Jāmiʿ 65:8381.2
+    note: '''min fitna ''amya'' samma'' bakma'' ... wayl li-l-sa''i fiha min allah yawm al-qiyama'''
+  hints:
+  - 'The barrier breached and the northern hordes let loose: compare Ezek 38-39 (Gog from the far north) and Rev 20:7-8.'
+- id: hadith-65-fighting-for-the-world
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Abu Barza in his reed loft: ''the one in Syria fights only for the world'''
+  read:
+  - Jāmiʿ 65:8382.1
+  tags:
+  - motif: factions-fight-only-for-the-world
+    refs:
+    - Jāmiʿ 65:8382.1
+    note: '''kuntum ''ala al-hal ... min al-dhilla wa-l-qilla wa-l-dalala ... wa-hadhihi al-dunya allati afsadat baynakum inna dhaka alladhi bi-l-sham wallahi in yuqatilu illa ''ala al-dunya'''
+- id: hadith-65-well-of-aris-gatekeeper
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Abu Musa as self-appointed gatekeeper: Abu Bakr and Umar dangle their legs in the well beside the prophet; Uthman''s paradise ''with an affliction'''
+  read:
+  - Jāmiʿ 65:8383.1
+  tags:
+  - motif: gatekeeper-admits-three-with-glad-tidings-of-paradise
+    refs:
+    - Jāmiʿ 65:8383.1
+    note: '''la-akunanna al-yawm bawwab al-nabi''; ''i''dhan lahu wa-bashshirhu bi-l-janna'''
+  - motif: legs-dangled-in-well-seating-order
+    refs:
+    - Jāmiʿ 65:8383.1
+    note: '''jalasa ''ala quff al-bi''r fa-kashafa ''an saqayhi wa-dallahuma fi l-bi''r''; Abu Bakr on the right, Umar on the left, ''fa-mtala''a al-quff'''
+  - motif: paradise-with-an-affliction-for-the-third
+    refs:
+    - Jāmiʿ 65:8383.1
+    note: '''wa-bashshirhu bi-l-janna ma''aha bala'' yusibuhu'''
+- id: hadith-65-trial-of-uthmans-killing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ibn Hawala written in the register; a trial like cows' horns, a second making the first a rabbit's leap; 'follow this one' (Uthman); three from which whoever is saved is saved
+  read:
+  - Jāmiʿ 65:8384.1-8385.2
+  tags:
+  - motif: shall-we-write-you-asked-three-times
+    refs:
+    - Jāmiʿ 65:8384.1
+    note: '''a-naktubuka ya ibn hawala'' - ''la adri ma khara allah li wa-rasuluhu''; he sees Umar''s name in the writing'
+  - motif: trial-like-cows-horns-then-rabbits-leap
+    refs:
+    - Jāmiʿ 65:8384.1
+    note: '''fitna takhruju fi atraf al-ard ka-annaha sayasi baqar ... ukhra ... ka-anna al-ula fiha intifajat arnab'''
+  - motif: follow-the-man-turning-away-uthman
+    refs:
+    - Jāmiʿ 65:8384.1
+    note: '''ittabi''u hadha ... wa-rajul muqaffin hina''idhin'' - turned by his shoulders: ''Uthman b. ''Affan'
+  - motif: hold-to-the-trustworthy-and-his-companions
+    refs:
+    - Jāmiʿ 65:8385.1
+    note: '''alaykum bi-l-amin wa-ashabihi'', pointing to Uthman, during the siege'
+  - motif: saved-from-three-my-death-caliphs-killing-dajjal
+    refs:
+    - Jāmiʿ 65:8385.2
+    note: '''man naja min thalath fa-qad naja'' three times: ''mawti wa-min qatl khalifa mustabir bi-l-haqq yu''tihi wa-l-dajjal'''
+- id: hadith-65-ammar-and-the-rebel-party
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Ammar carries two bricks; 'the rebel party will kill him'; two men dispute his head; 'those who brought him killed him'; his killer refuses a silver-plated cup
+  read:
+  - Jāmiʿ 65:8386.1-8388.1
+  tags:
+  - motif: ammar-to-be-killed-by-rebel-party
+    refs:
+    - Jāmiʿ 65:8386.1-8387.3
+    note: '''wayh ''ammar taqtuluhu al-fi''a al-baghiya''; ''bu''s ibn sumayya'''
+  - motif: carries-two-bricks-while-others-carry-one
+    refs:
+    - Jāmiʿ 65:8386.1
+    note: '''kunna nanqulu laban al-masjid labina labina wa-kana ''ammar yanqulu labinatayn labinatayn''; the prophet wipes the dust from his head'
+  - motif: calls-them-to-god-they-call-him-to-fire
+    refs:
+    - Jāmiʿ 65:8386.1
+    note: '''''ammar yad''uhum ila allah wa-yad''unahu ila al-nar'''
+  - motif: two-men-dispute-who-killed-him
+    refs:
+    - Jāmiʿ 65:8386.4
+    note: '''rajulan yakhtasiman fi ra''s ''ammar yaqulu kull wahid minhuma ana qataltuhu'''
+  - motif: obey-father-but-do-not-fight
+    refs:
+    - Jāmiʿ 65:8386.4
+    note: '''ati'' abaka ma dama hayyan wa-la ta''sihi fa-ana ma''akum wa-lastu uqatil'''
+  - motif: those-who-brought-him-killed-him
+    refs:
+    - Jāmiʿ 65:8386.5-8387.3
+    note: 'Mu''awiya: ''a-nahnu qatalnahu innama qatalahu alladhina ja''u bihi''; ''dahadta fi bawlik'''
+  - motif: killer-scruples-at-silver-cup-after-killing
+    refs:
+    - Jāmiʿ 65:8388.1
+    note: Abu l-Ghadiya refuses a 'ina' mufaddad' though he speared 'Ammar through the gap 'fi jurban al-dir''
+- id: hadith-65-aisha-wife-in-both-worlds
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Ammar on the Kufa pulpit: Aisha marched to Basra, yet she is the prophet''s wife in this world and the next; God tests whom you obey'
+  read:
+  - Jāmiʿ 65:8389.1-8389.2
+  tags:
+  - motif: aisha-his-wife-in-world-and-hereafter
+    refs:
+    - Jāmiʿ 65:8389.1-8389.2
+    note: '''innaha la-zawjat nabiyyikum fi l-dunya wa-l-akhira wa-lakin allah ibtalakum li-ya''lama iyyahu tuti''una am hiya'''
+- id: hadith-65-khawarij-pass-through-religion
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The Khawarij: ''be just!''; they recite the Quran that passes no further than their throats and pass through religion as an arrow through the game'
+  read:
+  - Jāmiʿ 65:8389.3-8396.2
+  tags:
+  - motif: who-is-just-if-i-am-not
+    refs:
+    - Jāmiʿ 65:8389.3-8392.1
+    note: 'Dhu l-Khuwaysira of Tamim: ''i''dil'' - ''wa-man ya''dilu idha lam a''dil qad khibtu wa-khasirtu in lam akun a''dil''; ''ittaqi allah'''
+  - motif: arrow-examined-at-feathers-shaft-head-no-trace
+    refs:
+    - Jāmiʿ 65:8389.3-8395.2
+    note: '''yamruquna min al-din kama yamruqu al-sahm min al-ramiyya yanzuru ila naslihi ... risafihi ... nadiyyihi ... qudhadhihi ... qad sabaqa al-farth wa-l-dam'''
+  - motif: reciters-whose-quran-passes-no-further-than-throats
+    refs:
+    - Jāmiʿ 65:8389.3-8395.2
+    note: '''yaqra''una al-qur''an la yujawizu taraqiyahum''; ''hanajirahum''; ''halaqimahum'''
+  - motif: prayer-fast-make-yours-seem-small
+    refs:
+    - Jāmiʿ 65:8389.3
+    note: '''yahqiru ahadukum salatahu ma''a salatihim wa-siyamahu ma''a siyamihim'''
+  - motif: sign-man-with-arm-like-a-womans-breast
+    refs:
+    - Jāmiʿ 65:8389.3-8390.1
+    note: '''ayatuhum rajul aswad ihda ''adudayhi mithl thady al-mar''a aw mithl al-bad''a tadardar''; found and brought ''ala na''t al-nabi'''
+  - motif: gold-in-its-earth-divided-among-four-chiefs
+    refs:
+    - Jāmiʿ 65:8390.1
+    note: '''bi-dhuhayba fi adim maqruz lam tuhassal min turabiha'' among ''Uyayna, al-Aqra'', Zayd al-Khayl and ''Alqama or ''Amir'
+  - motif: trusted-by-him-in-heaven
+    refs:
+    - Jāmiʿ 65:8390.1
+    note: '''a-la ta''manuni wa-ana amin man fi l-sama'' ya''tini khabar al-sama'' sabahan wa-masa'''''
+  - motif: not-ordered-to-bore-into-hearts
+    refs:
+    - Jāmiʿ 65:8390.1
+    note: '''inni lam umar an anquba ''an qulub al-nas wa-la ashuqqa butunahum'''
+  - motif: would-kill-them-as-thamud-killed
+    refs:
+    - Jāmiʿ 65:8390.1
+    note: '''la-in adraktuhum la-aqtulannahum qatl thamud'''
+  - motif: shaving-as-their-mark
+    refs:
+    - Jāmiʿ 65:8391.1-8392.3
+    note: '''simahum al-tahaluq''; ''al-tahliq aw al-tasbid'''
+  - motif: killed-by-the-party-nearer-truth
+    refs:
+    - Jāmiʿ 65:8391.1
+    note: '''yaqtuluhum adna al-ta''ifatayn ila al-haqq''; ''tamruqu mariqa ''inda furqa min al-muslimin'''
+  - motif: they-come-from-the-east
+    refs:
+    - Jāmiʿ 65:8391.2-8391.3
+    note: '''yakhruju nas min qibal al-mashriq''; he points ''qibal al-''iraq'''
+  - motif: god-forbid-people-say-i-kill-my-companions
+    refs:
+    - Jāmiʿ 65:8392.1
+    note: '''ma''adha allah an yatahaddatha al-nas anni aqtulu ashabi'' (at al-Ji''rana, silver in Bilal''s garment)'
+  - motif: worst-of-creation-blessed-who-kills-them
+    refs:
+    - Jāmiʿ 65:8392.2-8394.1
+    note: '''hum sharr al-khalq wa-l-khaliqa tuba li-man qatalahum wa-qataluhu'''
+  - motif: young-in-years-foolish-in-mind
+    refs:
+    - Jāmiʿ 65:8393.4-8394.2
+    note: '''ahdath al-asnan sufaha'' al-ahlam yaquluna min qawl khayr al-nas'''
+  - motif: each-horn-cut-off-until-dajjal-in-their-midst
+    refs:
+    - Jāmiʿ 65:8393.1-8394.1
+    note: '''kullama kharaja qarn qutt''a akthara min ''ishrin marra hatta yakhruja fi ''iradihim al-dajjal''; ''hatta yakhruja akhiruhum ma''a al-masih al-dajjal'''
+  - motif: rather-fall-from-sky-than-lie-on-him
+    refs:
+    - Jāmiʿ 65:8394.2
+    note: '''Ali: ''la-an akhirra min al-sama'' ahabbu ilayya min an aqula ''alayhi ma lam yaqul ... fa-inna al-harb khud''a'''
+  - motif: dogs-of-the-fire
+    refs:
+    - Jāmiʿ 65:8396.1-8396.2
+    note: 'Abu Umama at the Azariqa heads on the steps of Damascus: ''kilab al-nar'' three times; ''shar qatla ... khayr qatla''; Ibn Abi Awfa: ''bal al-khawarij kulluha'''
+  - motif: advise-ruler-privately-in-his-house
+    refs:
+    - Jāmiʿ 65:8396.2
+    note: '''alayka bi-l-sawad al-a''zam ... in kana al-sultan yasma''u minka fa-''tihi fi baytihi fa-akhbirhu ... wa-illa fa-da''hu'''
+- id: hadith-65-man-praying-who-is-not-killed
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Who will kill him?'': the man praying in a drawn circle, or prostrate, whom none will strike; ''it would have been the first and last trial'''
+  read:
+  - Jāmiʿ 65:8397.1-8397.2
+  tags:
+  - motif: who-will-kill-him-praying-man-spared
+    refs:
+    - Jāmiʿ 65:8397.1-8397.2
+    note: 'Abu Bakr and Umar find him ''qad khatta ''ala nafsihi khutta fa-huwa qa''im yusalli fiha'' and return; Ali: ''anta wa-la araka tudrikuhu'''
+  - motif: killing-him-would-be-first-and-last-trial
+    refs:
+    - Jāmiʿ 65:8397.2
+    note: '''law qataltumuhu la-kana awwal fitna wa-akhiraha'''
+- id: hadith-65-the-maimed-one
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'The mukhdaj among the Khawarij: a hand like a breast-nipple with white hairs, found under the dead; ''God spoke truly'''
+  read:
+  - Jāmiʿ 65:8398.1-8399.2
+  tags:
+  - motif: maimed-hand-like-breast-with-hairs
+    refs:
+    - Jāmiʿ 65:8398.1-8399.2
+    note: '''mukhdaj al-yad aw mudun al-yad aw mathdun al-yad''; ''ihda yadayhi tuby shat aw halamat thady''; ''lahu ''adud wa-laysa lahu dhira'' ... mithl halamat al-thady ''alayhi sha''arat bid'''
+  - motif: word-of-truth-meant-for-falsehood
+    refs:
+    - Jāmiʿ 65:8398.2
+    note: '''la hukma illa lillah'' - ''''kalimat haqq urida biha batil'''
+  - motif: swears-by-lord-of-kaaba-three-times
+    refs:
+    - Jāmiʿ 65:8398.1-8399.2
+    note: '''i wa-rabb al-ka''ba'' three times; ''Abida makes him swear three times'
+  - motif: body-found-after-search-in-ruin
+    refs:
+    - Jāmiʿ 65:8398.2-8399.2
+    note: '''ma kadhabtu wa-la kudhibtu''; found ''fi khariba''; ''mimma yali al-ard''; ''sadaqa allah wa-ballagha rasuluhu'''
+  - motif: victors-would-rely-on-promise-and-stop-working
+    refs:
+    - Jāmiʿ 65:8398.1-8399.2
+    note: '''law la an tabtaru''; ''la-ttakalu ''an al-''amal'''
+  - motif: throw-away-spears-draw-swords
+    refs:
+    - Jāmiʿ 65:8399.2
+    note: '''Abd Allah b. Wahb al-Rasibi: ''alqu al-rimah wa-sullu suyufakum ... akhafu an yunashidukum''; only two men of ''Ali''s army fall'
+- id: hadith-65-trial-from-the-east
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''Here is the trial, where Satan''s horn rises'' (pointing east); no blessing asked for Najd; Moses killed by mistake'
+  read:
+  - Jāmiʿ 65:8401.1-8401.3
+  quran:
+  - '20:40'
+  tags:
+  - motif: trial-from-the-east-where-satans-horn-rises
+    refs:
+    - Jāmiʿ 65:8401.1-8401.3
+    note: '''ha inna al-fitna hahuna ... min haythu yatlu''u qarn al-shaytan''; ''ra''s al-kufr min hahuna'''
+  - motif: blessing-for-syria-and-yemen-not-najd
+    refs:
+    - Jāmiʿ 65:8401.3
+    note: '''allahumma barik lana fi shamina allahumma barik lana fi yamanina'' - ''wa-fi najdina?'' - ''hunaka al-zalazil wa-l-fitan'''
+  - motif: moses-killed-in-error-trial-from-east
+    refs:
+    - Jāmiʿ 65:8401.2
+    note: '''innama qatala musa alladhi qatala min al-fir''awn khata''an'', citing Q 20:40; Salim rebukes Iraq: ''ma as''alakum ''an al-saghira wa-arkabakum li-l-kabira'''
+- id: hadith-65-measures-withheld
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Iraq withholds its dirham and qafiz, Syria its mudy and dinar, Egypt its irdabb and dinar; 'you returned to where you began'
+  read:
+  - Jāmiʿ 65:8401.4
+  tags:
+  - motif: lands-withhold-their-measures-and-coins
+    refs:
+    - Jāmiʿ 65:8401.4
+    note: '''mana''at al-''iraq dirhamaha wa-qafizaha wa-mana''at al-sham mudyaha wa-dinaraha wa-mana''at misr irdabbaha wa-dinaraha'''
+  - motif: you-returned-to-where-you-began-thrice
+    refs:
+    - Jāmiʿ 65:8401.4
+    note: '''''udtum min haythu bada''tum'' three times; ''shahida ''ala dhalika lahm abi hurayra wa-damuhu'''
+- id: hadith-65-abyssinians-and-kaaba-treasure
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: Leave the Abyssinians and Turks alone; only the thin-shanked Abyssinian will take out the Kaaba's treasure
+  read:
+  - Jāmiʿ 65:8403.1-8403.2
+  tags:
+  - motif: leave-abyssinians-and-turks-alone
+    refs:
+    - Jāmiʿ 65:8403.1-8403.2
+  - motif: thin-shanked-abyssinian-takes-kaaba-treasure
+    refs:
+    - Jāmiʿ 65:8403.2
+    note: '''la yastakhriju kanz al-ka''ba illa dhu al-suwayqatayn min al-habasha'''
+- id: hadith-65-misleading-imams-and-whips
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Misleading imams; two kinds of hell-dwellers not yet seen: men with whips like cows'' tails, women clothed yet naked with heads like camel humps'
+  read:
+  - Jāmiʿ 65:8404.1-8404.4
+  tags:
+  - motif: fear-for-community-of-misleading-imams
+    refs:
+    - Jāmiʿ 65:8404.1
+    note: '''innama akhafu ''ala ummati al-a''imma al-mudillin'''
+  - motif: men-with-whips-like-cows-tails
+    refs:
+    - Jāmiʿ 65:8404.2-8404.4
+    note: '''qawm ma''ahum siyat ka-adhnab al-baqar yadribuna biha al-nas''; ''yaghduna fi ghadab allah wa-yaruhuna fi sakhat allah'''
+  - motif: women-clothed-naked-heads-like-camel-humps
+    refs:
+    - Jāmiʿ 65:8404.2
+    note: '''nisa'' kasiyat ''ariyat mumilat ma''ilat ru''usuhunna ka-asnimat al-bukht al-ma''ila la yadkhulna al-janna wa-la yajidna rihaha'''
+- id: hadith-65-earth-folded-three-requests
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: The earth folded for him, east and west; the red and the white treasure; three things asked, two granted, mutual violence refused
+  read:
+  - Jāmiʿ 65:8405.1-8408.1
+  tags:
+  - motif: earth-gathered-for-me-east-and-west
+    refs:
+    - Jāmiʿ 65:8405.1-8405.2
+    note: '''inna allah zawa li al-ard fa-ra''aytu masháriqaha wa-magharibaha wa-inna ummati sa-yablughu mulkuha ma zuwiya li minha''; ''u''titu al-kanzayn al-ahmar wa-l-abyad'''
+  - motif: three-asked-two-granted-mutual-violence-refused
+    refs:
+    - Jāmiʿ 65:8405.1-8407.1
+    note: no destruction 'bi-sana 'amma', no enemy 'min siwa anfusihim', (or 'bi-l-gharaq'); 'sa'altuhu an la yaj'ala ba'sahum baynahum fa-mana'aniha'
+  - motif: decree-once-made-is-not-turned-back
+    refs:
+    - Jāmiʿ 65:8405.1-8405.2
+    note: '''ya muhammad inni idha qadaytu qada''an fa-innahu la yuradd'''
+  - motif: thirty-liars-each-claiming-prophecy
+    refs:
+    - Jāmiʿ 65:8405.2
+    note: '''kadhdhabun thalathun kulluhum yaz''umu annahu nabiyy wa-ana khatam al-nabiyyin la nabiyy ba''di'''
+  - motif: tribes-of-community-will-worship-idols
+    refs:
+    - Jāmiʿ 65:8405.2
+    note: '''hatta tulhaqa qaba''il min ummati bi-l-mushrikin wa-hatta ta''buda qaba''il min ummati al-awthan'''
+  - motif: a-party-stays-on-truth-until-gods-command
+    refs:
+    - Jāmiʿ 65:8405.2
+    note: '''la tazalu ta''ifa min ummati ''ala al-haqq la yadurruhum man khalafahum'''
+  - motif: prayer-of-longing-and-dread
+    refs:
+    - Jāmiʿ 65:8406.2-8407.1
+    note: '''innaha salat raghba wa-rahba'''
+  - motif: prayer-at-mosque-of-banu-muawiya
+    refs:
+    - Jāmiʿ 65:8406.1-8406.3
+    note: '''mara bi-masjid bani mu''awiya dakhala fa-raka''a fihi rak''atayn ... wa-da''a rabbahu tawilan'''
+  - motif: intercession-asked-for-community-that-will-shed-blood
+    refs:
+    - Jāmiʿ 65:8407.2
+    note: '''ra''aytu ma talqa ummati ba''di wa-safk ba''dihim dima'' ba''d ... fa-sa''altuhu an yuwalliyani shafa''a yawm al-qiyama fihim fa-fa''ala'''
+  - motif: punishment-of-this-community-is-the-sword
+    refs:
+    - Jāmiʿ 65:8408.1
+    note: '''uqubat hadhihi al-umma al-sayf'' - said to Abu Burda grieving at ''muthla'' in Ziyad''s house'
+- id: hadith-65-quraysh-youths-and-perishing
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''My community''s ruin at the hands of boys of Quraysh''; Quraysh first to perish, ''a Qurashi''s sandal''; locust-nymphs that eat one another'
+  read:
+  - Jāmiʿ 65:8409.1-8410.1
+  tags:
+  - motif: ruin-at-hands-of-quraysh-youths
+    refs:
+    - Jāmiʿ 65:8409.1
+    note: '''halakat ummati ''ala yaday ghilma min quraysh''; Marwan: ''la''nat allah ''alayhim ghilma'''
+  - motif: if-people-withdrew-from-them
+    refs:
+    - Jāmiʿ 65:8409.2
+    note: '''yuhliku al-nas hadha al-hayy min quraysh ... law anna al-nas i''tazaluhum'''
+  - motif: woman-finds-sandal-this-is-a-qurashis
+    refs:
+    - Jāmiʿ 65:8409.3
+    note: '''asra'' qaba''il al-''arab fana''an quraysh yushiku an tamurra al-mar''a bi-l-na''l fa-taqulu inna hadha na''l qurashi'''
+  - motif: death-finds-them-sweet-the-rest-like-locust-nymphs
+    refs:
+    - Jāmiʿ 65:8410.1
+    note: '''tastahlihim al-manaya wa-tanfasu ''alayhim ummatuhum'' ... ''daban ya''kulu shidaduhu di''afahu'''
+- id: hadith-65-follow-ways-of-predecessors
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: '''You will follow the ways of those before you span by span, into a lizard''s hole''; the tree Dhat Anwat ''as Moses'' people said'''
+  read:
+  - Jāmiʿ 65:8410.2-8412.1
+  quran:
+  - 7:138
+  tags:
+  - motif: follow-predecessors-into-lizards-hole
+    refs:
+    - Jāmiʿ 65:8410.2-8412.1
+    - Jāmiʿ 65:8411.1
+    note: '''la-tattabi''unna sanan man kana qablakum shibran bi-shibr wa-dhira''an bi-dhira'' hatta law dakhalu juhr dabb tabi''tumuhum'' - ''al-yahud wa-l-nasara?'' ''fa-man?''; ''ka-faris wa-l-rum?''
+      - ''wa-man al-nas illa ula''ik'''
+  - motif: feather-matched-to-feather
+    refs:
+    - Jāmiʿ 65:8411.2
+    note: '''hadhw al-qudhdha bi-l-qudhdha'''
+  - motif: tree-for-hanging-weapons-dhat-anwat
+    refs:
+    - Jāmiʿ 65:8411.3
+    note: '''shajara li-l-mushrikin yuqalu laha dhat anwat yu''alliquna ''alayha aslihatahum ... ij''al lana dhat anwat'''
+  - motif: request-likened-to-make-us-a-god
+    refs:
+    - Jāmiʿ 65:8411.3
+    note: '''hadha kama qala qawm musa ij''al lana ilahan kama lahum aliha'''
+  - motif: even-if-one-lay-with-his-mother-in-the-road
+    refs:
+    - Jāmiʿ 65:8412.1
+    note: '''wa-hatta law anna ahadahum jama''a ummahu bi-l-tariq la-fa''altum'''
+  hints:
+  - 'The sacred tree hung with weapons (dhat anwat): compare the asherah and sacred trees of the Hebrew Bible, and Goliath''s sword kept behind the ephod (1 Sam 21:9).'
+- id: hadith-65-seventy-three-sects
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: 'Jews split into seventy-one, Christians seventy-two, this community seventy-three, one in paradise: ''the community''; passions run through them like rabies'
+  read:
+  - Jāmiʿ 65:8412.2-8413.3
+  tags:
+  - motif: seventy-one-seventy-two-seventy-three-sects
+    refs:
+    - Jāmiʿ 65:8412.2-8413.3
+    note: '''iftaraqat al-yahud ''ala ihda wa-sab''in firqa ... al-nasara ''ala thintayn wa-sab''in ... ummati ''ala thalath wa-sab''in firqa wahida fi l-janna'' - ''al-jama''a'''
+  - motif: passions-run-through-them-like-rabies
+    refs:
+    - Jāmiʿ 65:8413.3
+    note: '''tajara bihim tilka al-ahwa'' kama yatajara al-kalab bi-sahibihi la yabqa minhu ''irq wa-la mafsil illa dakhalahu'''
+  - motif: others-likelier-to-neglect-if-arabs-do
+    refs:
+    - Jāmiʿ 65:8413.3
+    note: 'Mu''awiya: ''la-in lam taqumu bi-ma ja''a bihi nabiyyukum la-ghayrukum min al-nas ahra an la yaqum bihi'''
+- id: hadith-65-persians-become-lions
+  tradition: islam
+  corpus: hadith
+  original: true
+  tagger: Claude Opus 5.5, reading the Arabic
+  title: God will fill your hands with Persians, who then become lions that do not flee and kill your fighters
+  read:
+  - Jāmiʿ 65:8414.1
+  tags:
+  - motif: non-arabs-become-lions-and-eat-your-spoil
+    refs:
+    - Jāmiʿ 65:8414.1
+    note: '''yamla''a allah aydiyakum min al-''ajam thumma yakununa usdan la yafirruna yaqtuluna muqatilatakum wa-ya''kuluna fay''akum'''

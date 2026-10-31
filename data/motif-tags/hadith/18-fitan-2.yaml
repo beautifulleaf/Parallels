@@ -1,0 +1,1451 @@
+# Hadith chunk 18: al-Jāmiʿ al-Kāmil book 65 (al-fitan wa-ashrāṭ al-sāʿa), pp. 8415-8525 (printed 12/328-438):
+# the last bābs of the trials (nations falling on Islam, word of truth before a tyrant, renewers), then the
+# minor signs of the Hour (bābs 1-43), then the ten major signs (smoke, Dajjal with the Jassāsa and Ibn Ṣayyād,
+# the Beast, the sun from the west, the descent of Jesus with the Mahdī, Gog and Magog, three sinkings, the fire
+# that drives people). Read in full from the Arabic (248 hadith). Many hadith recur under several bābs; each
+# recurrence is read where it stands and tagged where the bāb makes it bear on a new point.
+new_motifs:
+  nations-call-each-other-like-eaters-to-bowl: {label: "The nations will call one another against the believers as eaters call one another to their bowl", cluster: eschatology}
+  many-but-froth-of-the-torrent: {label: "The believers will be many then, but froth like the froth of a torrent; awe of them is taken from enemies' hearts", cluster: eschatology}
+  wahn-love-of-life-dislike-of-death: {label: "Weakness (al-wahn) cast in hearts is defined as love of life and dislike of death", cluster: ethics}
+  muslims-besieged-back-to-medina-outpost-at-salah: {label: "The Muslims will be driven back to Medina until their farthest outpost is at Salāḥ", cluster: eschatology}
+  mawali-army-raised-in-great-wars: {label: "When the great wars (al-malāḥim) come God raises an army of the freedmen (mawālī), the best horsemen and best armed of the Arabs", cluster: warfare}
+  punishment-strikes-all-then-raised-by-deeds: {label: "When God's punishment falls on a people it strikes all among them; then they are raised according to their deeds (or intentions)", cluster: eschatology}
+  best-jihad-word-of-truth-before-tyrant: {label: "The best jihad is a word of truth (or justice) before an unjust ruler", cluster: ethics}
+  question-answered-after-third-pillar: {label: "Asked at the first and second pillars, the prophet is silent, and answers after stoning the third, foot in the stirrup", cluster: ritual}
+  believer-must-not-abase-himself-with-unbearable-trial: {label: "A believer must not abase himself by exposing himself to a trial he cannot bear", cluster: ethics}
+  renewer-at-head-of-each-century: {label: "God sends this community at the head of every hundred years one who renews its religion", cluster: eschatology}
+  questioner-told-hour-beyond-his-lifetime: {label: "Bedouins ask when the Hour is; looking at the youngest, the prophet says old age will not reach him before your Hour comes", cluster: eschatology}
+  you-are-with-whom-you-love: {label: "A bedouin who prepared only love of God and his messenger for the Hour is told: you are with whom you love", cluster: ethics}
+  hasten-deeds-before-six-signs: {label: "Hasten to good deeds before six: the Dajjal, the smoke, the Beast of the earth, the sun rising from the west, the general affair, and one's own private affair", cluster: eschatology}
+  hour-strikes-mid-trade-mid-meal: {label: "The Hour strikes while two men have spread a cloth between them unsold, a man carries home his camel's milk undrunk, one plasters his trough, one lifts a morsel to his mouth", cluster: eschatology}
+  rich-man-cannot-find-taker-for-alms: {label: "Wealth floods until the owner worries who will take his alms, and the one offered it says 'I have no need of it'", cluster: eschatology}
+  man-passes-grave-wishes-he-were-in-it: {label: "A man passes another's grave and says 'would that I were in his place'", cluster: eschatology}
+  six-before-the-hour-counted-on-the-hand: {label: "'Count six before the Hour': my death, the conquest of Jerusalem, a mass death like the murrain of sheep, wealth until a hundred dinars displease, a trial entering every Arab house, a truce with the Banū l-Aṣfar who betray it", cluster: eschatology}
+  eighty-banners-twelve-thousand-each: {label: "The Romans come under eighty banners, under each banner twelve thousand", cluster: warfare}
+  sent-with-the-hour-like-two-fingers: {label: "'I and the Hour were sent like these two', joining the index and middle fingers", cluster: eschatology}
+  hour-nearly-outran-the-prophet: {label: "'I was sent with the Hour, and it nearly outran me'; like two racehorses", cluster: eschatology}
+  scout-waves-his-garment-you-are-attacked: {label: "The prophet as the scout sent by his people who, fearing to be overtaken, waves his garment: 'you are attacked, you are attacked'", cluster: eschatology}
+  world-left-like-the-rest-of-a-day-at-sunset: {label: "What remains of the world against what has passed is like what remains of this day, as the sun is setting", cluster: eschatology}
+  communities-time-like-asr-to-sunset: {label: "Your term among the communities is like the time between the afternoon prayer and sunset", cluster: eschatology}
+  death-like-sheep-murrain: {label: "A mass death will take you like the qu'ās of sheep", cluster: eschatology}
+  trials-like-pieces-of-dark-night: {label: "Before the Hour are trials like pieces of the dark night: a man is a believer at morning and an unbeliever by evening", cluster: eschatology}
+  trust-lost-when-affairs-given-to-unfit: {label: "When trust is lost await the Hour: when authority is given to those not fit for it", cluster: ethics}
+  people-like-hundred-camels-hardly-a-mount: {label: "People are like a hundred camels among which you hardly find one fit to ride", cluster: wisdom}
+  trust-lifted-in-sleep-leaves-blister: {label: "Trust is taken from the heart during sleep, leaving a trace like a blister, like an ember rolled on the foot that swells with nothing inside", cluster: ethics}
+  trust-came-down-in-root-of-hearts: {label: "Trust came down into the root (jadhr) of men's hearts, then the Quran came down", cluster: revelation}
+  harj-is-killing: {label: "Al-harj, which will multiply before the Hour, is explained: killing, killing", cluster: eschatology}
+  killer-and-killed-know-not-why: {label: "A day comes when the killer does not know why he killed nor the killed why he was killed; both are in the fire", cluster: eschatology}
+  time-contracts-before-hour: {label: "Time draws together before the Hour: a year like a month, a month like a week, a week like a day, a day like an hour, an hour like the burning of a palm frond", cluster: eschatology}
+  markets-draw-near: {label: "Before the Hour the markets draw near to one another", cluster: eschatology}
+  many-reciters-few-jurists: {label: "A time when reciters are many and jurists few, then men recite the Quran that goes no deeper than their throats, then the hypocrite disputes with the believer", cluster: eschatology}
+  arabia-returns-to-meadows-and-rivers: {label: "The land of the Arabs will return to meadows and rivers, and a rider will go between Iraq and Mecca fearing only to lose his way", cluster: eschatology}
+  silk-wine-music-made-lawful-then-transformed: {label: "People of the community will make lawful fornication, silk, wine and musical instruments; some camping by a hill put off a poor man and are destroyed in the night, others are transformed into apes and swine", cluster: eschatology}
+  fifty-women-one-guardian: {label: "Men go and women remain until fifty women have one man to look after them", cluster: eschatology}
+  forty-women-follow-one-man: {label: "One man is seen followed by forty women who take refuge with him, for the few men and many women", cluster: eschatology}
+  minds-taken-dust-of-people-left: {label: "In that time most people's minds are removed, and a dust (habāʾ) of people without minds is left", cluster: eschatology}
+  mating-in-the-road-like-donkeys: {label: "Before the Hour people will copulate in the road as donkeys copulate", cluster: eschatology}
+  best-says-hide-her-behind-the-wall: {label: "When a man takes a woman in the road, the best of them is the one who says 'if only you had hidden her behind this wall'", cluster: eschatology}
+  usury-fornication-wine-appear: {label: "Before the Hour usury, fornication and wine appear", cluster: eschatology}
+  no-care-whether-wealth-lawful: {label: "A time when a man does not care whether he takes wealth from the lawful or the unlawful", cluster: ethics}
+  greeting-only-for-acquaintance: {label: "A sign of the Hour: a man greets another only because he knows him (taslīm al-khāṣṣa)", cluster: ethics}
+  wife-helps-husband-in-trade-pen-spreads: {label: "Before the Hour trade spreads until the wife helps her husband in it, ties of kin are cut, the pen spreads, false witness appears and true witness is hidden", cluster: eschatology}
+  seller-consults-merchant-scribe-not-found: {label: "A man will not sell until he consults the merchant of a clan, and in a great quarter a scribe is sought and not found", cluster: eschatology}
+  deceptive-years-ruwaybida-speaks: {label: "Before the Hour come deceptive years: the truthful called liar, the liar believed, the trustworthy called traitor, and al-ruwaybiḍa speaks: the fool talking on public affairs", cluster: eschatology}
+  vying-in-mosques: {label: "The Hour will not come until people vie with one another over mosques", cluster: eschatology}
+  houses-striped-like-cloaks: {label: "People will build houses and adorn them like striped cloaks (marāḥil)", cluster: eschatology}
+  knowledge-sought-from-the-young: {label: "A sign of the Hour: knowledge is sought from the young (al-aṣāghir)", cluster: eschatology}
+  tribes-join-idolaters-and-worship-idols: {label: "Tribes of the community will join the idolaters and worship idols before the Hour", cluster: eschatology}
+  women-of-daws-hips-sway-at-dhul-khalasa: {label: "The hips of the women of Daws will sway again around Dhū l-Khalaṣa, the idol of Daws", cluster: idolatry}
+  thirty-liars-claim-prophethood: {label: "About thirty lying dajjāls, each claiming to be God's messenger (a prophet); 'I am the seal of the prophets, no prophet after me'", cluster: eschatology}
+  twenty-seven-liars-four-women: {label: "Liars and dajjāls in the community: twenty-seven, four of them women", cluster: eschatology}
+  liars-named-yamama-sana-himyar: {label: "Among the liars before the Hour: the man of al-Yamāma, the man of Ṣanʿāʾ, the man of Ḥimyar, and the Dajjāl the greatest trial", cluster: eschatology}
+  slave-girl-bears-her-master: {label: "A sign: the slave-woman gives birth to her lord (or mistress)", cluster: eschatology}
+  barefoot-naked-shepherds-vie-in-building: {label: "A sign: the barefoot, naked, destitute shepherds of sheep compete in tall buildings and become heads of people", cluster: eschatology}
+  five-known-only-to-god: {label: "The Hour is among five things known only to God; the prophet recites the verse on the five", cluster: theology}
+  world-ends-with-lukaa-son-of-lukaa: {label: "The world will not pass until the happiest in it is lukaʿ son of lukaʿ (the base son of the base)", cluster: eschatology}
+  best-man-believer-between-two-noble: {label: "The best of people is a believer between two noble (parents)", cluster: ethics}
+  alms-refused-had-you-come-yesterday: {label: "A man walks with his alms and the recipient says 'had you brought it yesterday I would have taken it; today I have no need'", cluster: eschatology}
+  earth-vomits-pillars-of-gold-and-silver: {label: "The earth vomits up its liver-pieces like pillars of gold and silver; the killer, the kin-breaker and the thief come, say 'for this I...', and leave it untouched", cluster: eschatology}
+  euphrates-uncovers-mountain-of-gold: {label: "The Euphrates will uncover a mountain (treasure) of gold; whoever is present should take nothing of it", cluster: eschatology}
+  ninety-nine-of-hundred-killed-over-gold: {label: "People fight over the Euphrates gold and ninety-nine of every hundred are killed, each hoping he is the survivor", cluster: eschatology}
+  wolf-rebukes-shepherd-for-taking-its-provision: {label: "A wolf sitting on its tail rebukes the shepherd: 'do you not fear God? You take from me provision God sent me'", cluster: animals}
+  wolf-tells-of-prophet-at-yathrib: {label: "The speaking wolf tells the shepherd of something more wonderful: a man at Yathrib telling the news of what has passed (and what will be)", cluster: animals}
+  beasts-speak-whip-and-sandal-report-family: {label: "The Hour will not come until beasts of prey speak to men and a man's whip-tip, sandal-strap or thigh tells him what his family did after him", cluster: eschatology}
+  cow-says-created-for-ploughing: {label: "A cow loaded by her driver turns and says 'I was not created for this, but for ploughing'", cluster: animals}
+  i-believe-it-with-abu-bakr-and-umar: {label: "To people's amazement at a speaking beast the prophet says 'I believe it, I, Abū Bakr and ʿUmar'", cluster: sira}
+  medina-better-for-them-if-they-knew: {label: "A man calls his cousin away to ease, but Medina is better for them; none leaves it from aversion but God replaces him with better", cluster: medina}
+  buildings-reach-sal-leave-for-qudaa: {label: "When you see building rise over Salʿ, go to the Arabs, the land of Quḍāʿa", cluster: eschatology}
+  dwellings-reach-ihab: {label: "The dwellings (of Medina) will reach Ihāb (or Yahāb)", cluster: eschatology}
+  medina-left-to-wild-beasts-and-birds: {label: "Medina will be left at its best to the scavenging beasts and birds (al-ʿawāfī)", cluster: eschatology}
+  last-gathered-two-muzayna-shepherds: {label: "The last to be gathered are two shepherds of Muzayna heading to Medina, calling their flocks; they find it wild and fall on their faces at Thaniyyat al-Wadāʿ", cluster: eschatology}
+  bad-dates-hung-as-alms: {label: "The prophet pokes with his staff a cluster of bad dates hung as alms in the mosque: its owner will eat bad dates on resurrection day", cluster: ethics}
+  medina-left-forty-years-to-scavengers: {label: "'People of Medina, you will leave it forty years to the scavengers' (birds and beasts; the Persians' karākī)", cluster: eschatology}
+  two-great-parties-one-claim: {label: "Two great parties will fight with a great slaughter between them, their claim one", cluster: eschatology}
+  turks-small-eyes-shield-faces-hair-sandals: {label: "You will fight the Turks: small-eyed, red-faced, flat-nosed, their faces like hammered shields, wearing hair and walking in sandals of hair", cluster: eschatology}
+  khuz-and-kirman-fought: {label: "You will fight Khūz and Kirmān of the Persians: red-faced, flat-nosed, small-eyed, faces like hammered shields, sandals of hair", cluster: eschatology}
+  eyes-like-locust-eyes-horses-tied-to-palms: {label: "A people with eyes like the eyes of locusts, faces like hammered shields, who take leather shields and tie their horses to the palms", cluster: eschatology}
+  qahtani-drives-people-with-staff: {label: "A man of Qaḥṭān will come out driving people with his staff", cluster: eschatology}
+  king-named-jahjah: {label: "A man called al-Jahjāh, one of the freedmen, will rule", cluster: eschatology}
+  four-words-counted-on-hand: {label: "A companion who stood guard between the prophet and strangers memorised four words, counting them on his hand", cluster: sira}
+  conquests-arabia-persia-rome-dajjal: {label: "You will raid Arabia, Persia, Rome and then the Dajjal, and God will conquer each for you", cluster: eschatology}
+  romans-most-numerous-at-hour: {label: "The Hour will come when the Romans are the most numerous of people", cluster: eschatology}
+  five-virtues-of-the-romans: {label: "The Romans' traits: most forbearing in trial, quickest to recover, quickest to return after flight, best to the poor, orphan and weak, and most resistant to kings' oppression", cluster: polemic}
+  red-wind-at-kufa-hour-come: {label: "A red wind rises at Kufa and a man cries 'the Hour has come'", cluster: eschatology}
+  no-inheritance-shared-no-spoil-rejoiced: {label: "The Hour will not come until no inheritance is divided and no booty rejoiced in", cluster: eschatology}
+  death-pledged-band-three-days: {label: "Three days running the Muslims put forward a death-pledged vanguard that must return victorious; night parts them and the band perishes; on the fourth day the rest advance and God turns the rout on the enemy", cluster: warfare}
+  bird-falls-dead-passing-the-slain: {label: "So great the slaughter that a bird passing over the slain falls dead before it clears them", cluster: warfare}
+  hundred-sons-of-a-father-one-left: {label: "The sons of one father, a hundred, count themselves and find one man left", cluster: warfare}
+  scream-dajjal-behind-in-families: {label: "A cry comes that the Dajjal has come behind them among their families; they drop what they hold and turn back", cluster: eschatology}
+  rome-at-amaq-or-dabiq-thirds: {label: "The Romans camp at al-Aʿmāq or Dābiq; an army from Medina meets them; a third flees and God never forgives them, a third are killed, the best martyrs, a third conquer and are never tried", cluster: eschatology}
+  swords-hung-on-olive-trees: {label: "Dividing the booty of Constantinople, they have hung their swords on the olive trees when Satan cries that the Messiah is behind them", cluster: eschatology}
+  dajjal-melts-like-salt-at-jesus: {label: "When God's enemy sees Jesus he melts as salt melts in water", cluster: eschatology}
+  jesus-shows-dajjals-blood-on-spear: {label: "God kills the Dajjal by Jesus's hand and he shows them his blood on his spear", cluster: eschatology}
+  muslims-and-romans-fight-common-enemy: {label: "You will make a secure peace with the Romans and raid together an enemy behind them, and be victorious and take booty", cluster: eschatology}
+  cross-victorious-cry-cross-broken: {label: "At a meadow of hills a Roman says 'the cross has conquered', a Muslim says 'God has conquered' and breaks the cross; the Romans kill him and the battle begins", cluster: eschatology}
+  muslim-camp-at-ghuta-by-damascus: {label: "On the day of the great battle the Muslims' camp (fusṭāṭ) is at al-Ghūṭa beside Damascus, best of Syria's cities", cluster: eschatology}
+  city-walls-fall-to-tahlil-and-takbir: {label: "Seventy thousand of the sons of Isaac come to a city half on land and half on sea; without weapon or arrow they say 'no god but God, God is greatest' and one side falls, then the other, then it opens", cluster: eschatology}
+  stone-and-tree-call-out-hidden-jew: {label: "The Muslims fight the Jews until stone and tree say 'O Muslim, servant of God, here is a Jew behind me, come and kill him', except the gharqad, a tree of the Jews", cluster: eschatology}
+  famine-is-rain-without-growth: {label: "The (true) drought is not that you get no rain, but that you are rained on and rained on and the earth grows nothing", cluster: eschatology}
+  husband-sees-woman-once-had-a-man: {label: "A husband looks at a woman passing and says 'this one once had a man'", cluster: eschatology}
+  thunderbolts-multiply-who-was-struck: {label: "Thunderbolts multiply near the Hour until a man comes to people and asks who was struck that morning; 'so-and-so and so-and-so'", cluster: eschatology}
+  earthquakes-multiply: {label: "Before the Hour knowledge is taken and earthquakes multiply", cluster: eschatology}
+  sinking-transformation-pelting-in-community: {label: "In this community there will be sinking (khasf), transformation (maskh) and pelting (qadhf) before the Hour", cluster: eschatology}
+  greeting-refused-to-innovator: {label: "Ibn ʿUmar refuses to return greetings from a man said to have introduced innovation", cluster: ethics}
+  army-swallowed-at-the-baida: {label: "An army raids the Kaaba; at a desert (al-Baydāʾ) the earth swallows them first to last", cluster: eschatology}
+  swallowed-together-raised-on-intentions: {label: "Those swallowed with the army (markets, the compelled, the wayfarer) perish as one but are raised on their intentions", cluster: eschatology}
+  prophet-stirs-in-sleep-wonders: {label: "The prophet moves in his sleep as never before and says 'a wonder': men of his community making for the House after a man of Quraysh who has taken refuge there", cluster: eschatology}
+  middle-swallowed-one-survivor-tells: {label: "The army's middle is swallowed, the front calls to the rear, then all are swallowed but a single fugitive who tells of them", cluster: eschatology}
+  refugee-at-the-house-without-defence: {label: "A people with no defence, number or equipment will take refuge in this House; an army is sent against them", cluster: eschatology}
+  swallowed-army-hour-overshadows: {label: "When you hear of an army swallowed nearby, the Hour has cast its shadow", cluster: eschatology}
+  house-raided-until-an-army-swallowed: {label: "Expeditions will not stop raiding this House until an army of them is swallowed", cluster: eschatology}
+  pilgrimage-continues-after-gog-and-magog: {label: "The House will be visited in pilgrimage and ʿumra after the coming out of Gog and Magog", cluster: eschatology}
+  hour-not-until-house-not-visited: {label: "The Hour will not come until the House is no longer visited in pilgrimage", cluster: eschatology}
+  son-of-mary-hails-at-fajj-al-rawha: {label: "The son of Mary will raise the pilgrim's cry at Fajj al-Rawḥāʾ for hajj, ʿumra or both", cluster: eschatology}
+  kaaba-wrecked-by-thin-shanked-abyssinian: {label: "The Kaaba will be wrecked by the one with two thin shanks (dhū l-suwayqatayn) from Abyssinia", cluster: eschatology}
+  black-bandy-legged-man-pulls-kaaba-stone-by-stone: {label: "'As if I see him, black, bandy-legged, pulling it out stone by stone'", cluster: eschatology}
+  pledge-between-corner-and-station: {label: "Allegiance is given to a man between the Corner and the Station; the House is profaned only by its own people", cluster: eschatology}
+  abyssinians-take-out-its-treasure: {label: "The Abyssinians ruin the House beyond rebuilding, and they are the ones who take out its treasure", cluster: eschatology}
+  house-demolished-twice-lifted-third: {label: "Enjoy this House: it has been demolished twice and will be lifted up at the third", cluster: eschatology}
+  ancient-house-burned: {label: "How will you be when religion is confused, desire appears, brothers differ and the Ancient House is burned?", cluster: eschatology}
+  rolls-on-grave-wishing-place: {label: "A man passes a grave, rolls on it and says 'would that I were in this grave's owner's place', not for religion but for affliction", cluster: eschatology}
+  people-will-wish-for-the-dajjal: {label: "A time comes when people of the community wish for the Dajjal, from the hardship they suffer", cluster: eschatology}
+  wind-takes-believers-under-armpits: {label: "God sends a pleasant wind that takes the believers under their armpits; the worst remain, copulating like donkeys, and on them the Hour comes", cluster: eschatology}
+  band-fights-until-hour: {label: "A band of the community will keep fighting for God's command, prevailing over their enemy, until the Hour comes on them", cluster: eschatology}
+  wind-like-musk-touch-of-silk: {label: "A wind like musk, with the touch of silk, takes every soul with a grain of faith; then the worst remain", cluster: eschatology}
+  yemen-wind-softer-than-silk: {label: "God sends a wind from Yemen softer than silk that leaves none with a grain of faith", cluster: eschatology}
+  hour-only-on-worst-people: {label: "The Hour will come only upon the worst of people", cluster: eschatology}
+  worst-are-those-alive-at-hour-and-grave-mosques: {label: "Among the worst are those the Hour overtakes alive, and those who take graves as mosques", cluster: eschatology}
+  righteous-go-one-by-one-dregs-remain: {label: "The righteous go one after another; dregs remain like the dregs of barley or dates, of whom God takes no account", cluster: eschatology}
+  sifted-like-dates-die-if-you-can: {label: "You will be picked over as dates are sorted from their refuse; your best will go and your worst remain; die if you can", cluster: eschatology}
+  no-one-says-allah-allah: {label: "The Hour will not come while anyone on earth says 'Allāh, Allāh'", cluster: eschatology}
+  hour-on-dregs-of-people: {label: "The Hour comes only on the dregs (ḥuthāla) of people", cluster: eschatology}
+  ten-major-signs-listed: {label: "The Hour will not come until ten signs: the smoke, the Dajjal, the Beast, the sun from the west, Jesus's descent, Gog and Magog, three sinkings (east, west, Arabia), and last a fire from Yemen driving people to their gathering", cluster: eschatology}
+  signs-like-beads-on-broken-string: {label: "The signs are beads strung on a thread: when the thread breaks, one follows another", cluster: eschatology}
+  kafir-spelled-k-f-r: {label: "'Kāfir' between the Dajjal's eyes is spelled out letter by letter, k-f-r, and every believer reads it, literate or not", cluster: eschatology}
+  dajjal-warned-as-noah-warned: {label: "'I warn you of him as Noah warned his people'", cluster: eschatology}
+  no-creature-greater-than-dajjal: {label: "Between the creation of Adam and the Hour there is no creature (or affair) greater than the Dajjal", cluster: eschatology}
+  people-flee-dajjal-to-mountains-arabs-few: {label: "People will flee the Dajjal into the mountains; 'where are the Arabs then?' - 'they are few'", cluster: eschatology}
+  dajjals-water-is-fire-fall-into-fire: {label: "The Dajjal has water and fire: what people see as water is burning fire, what they see as fire is cool sweet water; let one fall into what he sees as fire", cluster: eschatology}
+  dajjal-two-rivers-close-eyes-and-drink: {label: "The Dajjal has two flowing rivers, one white water to the eye, one blazing fire; come to the fiery one, close your eyes, lower your head and drink: it is cold water", cluster: eschatology}
+  dajjal-eye-with-thick-nail: {label: "The Dajjal's eye is wiped out, with a thick fleshy growth (ẓafara) over it", cluster: eschatology}
+  dajjal-left-eye-blind-thick-hair: {label: "The Dajjal is blind in the left eye, with thick hair (jufāl al-shaʿr)", cluster: eschatology}
+  lesser-trials-prepare-for-dajjal: {label: "No trial, small or great, but prepares for the Dajjal's trial; whoever survives the trials before it survives it", cluster: eschatology}
+  dajjal-said-what-no-prophet-said-one-eyed: {label: "Every prophet warned of the Dajjal, but 'I tell you what no prophet told his people: he is one-eyed, and God is not'", cluster: eschatology}
+  dajjal-circles-kaaba-behind-jesus: {label: "In the dream at the Kaaba, behind Jesus a curly man blind in the right eye circles the House, hands on two men's shoulders: the Messiah Dajjal", cluster: eschatology}
+  jesus-not-red-but-brown: {label: "Ibn ʿUmar swears the prophet did not call Jesus red: Jesus was brown (ādam) with lank hair; the red one was the Dajjal", cluster: christology}
+  laylat-al-qadr-forgotten-after-quarrel: {label: "The prophet was shown the Night of Decree and the Messiah of error; two men quarrelling made him forget the night: seek it in the last ten, on the odd", cluster: ritual}
+  dajjal-broad-chest-bald-brow: {label: "The Messiah of error: a man with a receding hairline, wiped-out left eye and broad chest, like ʿAbd al-ʿUzzā b. Qaṭan", cluster: eschatology}
+  he-is-too-slight-for-god: {label: "Told the Dajjal has rivers of water and mountains of bread: 'he is too slight before God for that'", cluster: eschatology}
+  none-sees-his-lord-until-he-dies: {label: "'Know that none of you will see his Lord until he dies'", cluster: theology}
+  dajjal-short-bandy-legged-curly: {label: "The Messiah Dajjal is a short, bandy-legged, curly-haired man, one-eyed, the eye wiped out, neither protruding nor sunken", cluster: eschatology}
+  prophet-as-dajjals-adversary: {label: "If he comes out while I am among you I am his disputant for you; if not, each man is his own disputant, and God is my deputy over every Muslim", cluster: eschatology}
+  read-opening-of-kahf-to-dajjal: {label: "Whoever meets the Dajjal should recite against him the opening verses of al-Kahf", cluster: ritual}
+  dajjal-comes-from-path-between-syria-and-iraq: {label: "The Dajjal comes out on a path (khalla) between Syria and Iraq and wreaks havoc right and left", cluster: eschatology}
+  dajjal-days-year-month-week: {label: "The Dajjal stays forty days: a day like a year, a day like a month, a day like a week, the rest like your days", cluster: eschatology}
+  prayer-measured-in-long-day: {label: "Asked whether one day's prayers suffice in the day like a year: 'no, estimate its measure'", cluster: ritual}
+  dajjal-rain-for-believers-drought-for-refusers: {label: "The Dajjal calls a people who believe him: he commands sky and earth and their herds come home fattest; those who refuse wake destitute", cluster: eschatology}
+  ruin-treasures-follow-like-bee-swarms: {label: "The Dajjal tells a ruin 'bring out your treasures' and they follow him like swarms of bees", cluster: eschatology}
+  dajjal-cuts-youth-in-two-and-calls-him: {label: "The Dajjal strikes a youth with the sword into two pieces a target's distance apart, then calls him and he comes laughing", cluster: eschatology}
+  jesus-descends-at-white-minaret-east-of-damascus: {label: "Jesus descends at the white minaret east of Damascus in two dyed garments, hands on the wings of two angels; his head drips when lowered, pearls when raised", cluster: eschatology}
+  jesus-breath-kills-unbelievers-to-horizon: {label: "No unbeliever who finds the scent of Jesus's breath but dies, and his breath reaches as far as his sight", cluster: eschatology}
+  jesus-wipes-faces-tells-ranks: {label: "Jesus wipes the faces of those God protected and tells them their ranks in paradise", cluster: eschatology}
+  believers-taken-to-the-tur: {label: "God tells Jesus: 'I have brought out servants of mine none can fight; take my servants up to al-Ṭūr'", cluster: eschatology}
+  ox-head-better-than-hundred-dinars: {label: "Besieged, an ox's head is better to them than a hundred dinars to you today", cluster: eschatology}
+  birds-like-camel-necks-carry-corpses: {label: "God sends birds like the necks of Bactrian camels that carry off the dead and throw them where God wills", cluster: eschatology}
+  earth-washed-like-mirror-rain: {label: "God sends a rain from which no house of clay or hair shelters, washing the earth until it is like a mirror (or pool)", cluster: eschatology}
+  band-eats-pomegranate-shades-in-rind: {label: "After Gog and Magog a company eats from one pomegranate and shades under its rind; one milch-camel suffices a crowd", cluster: eschatology}
+  shoot-arrows-at-heaven-return-bloodied: {label: "'We have killed those on earth; come, let us kill those in heaven': they shoot at the sky and the arrows come back stained with blood", cluster: eschatology}
+  jabal-al-khamr-is-jerusalems-mountain: {label: "Gog and Magog reach Jabal al-Khamr, the mountain of Jerusalem", cluster: eschatology}
+  dajjal-in-ebb-of-religion: {label: "The Dajjal comes out at an ebb of religion and a waning of knowledge", cluster: eschatology}
+  dajjals-donkey-forty-cubits-between-ears: {label: "The Dajjal has a donkey he rides, forty cubits between its ears", cluster: eschatology}
+  dajjal-says-i-am-your-lord: {label: "The Dajjal says to people 'I am your Lord'", cluster: eschatology}
+  angels-guard-gates-of-mecca-and-medina: {label: "The Dajjal reaches every water but Mecca and Medina; angels stand at their gates (passes) guarding them", cluster: eschatology}
+  dajjal-devils-speak-to-people: {label: "God sends devils with the Dajjal who speak to people", cluster: eschatology}
+  dajjal-kills-and-revives-in-appearance: {label: "The Dajjal kills a soul and revives it 'in what people see', and is given power over no other", cluster: eschatology}
+  muslims-flee-to-mountain-of-smoke: {label: "The Muslims flee to the Mountain of Smoke in Syria; the Dajjal besieges and exhausts them", cluster: eschatology}
+  jesus-calls-at-dawn-come-out-to-the-liar: {label: "Jesus descends and calls at dawn 'what keeps you from going out to the foul liar?'; they think him a jinn", cluster: eschatology}
+  jesus-declines-to-lead-prayer: {label: "Told 'step forward, Spirit of God', Jesus says 'let your imam lead you'", cluster: eschatology}
+  tree-and-stone-call-spirit-of-god: {label: "Tree and stone call 'Spirit of God, here is a Jew'; none of the Dajjal's followers is spared", cluster: eschatology}
+  dajjal-worst-liar: {label: "The Dajjal is one-eyed and the most extreme of liars", cluster: eschatology}
+  no-trial-since-adam-greater-than-dajjal: {label: "Since God spread Adam's seed there has been no trial on earth greater than the Dajjal's; God sent no prophet but he warned his community", cluster: eschatology}
+  last-prophet-last-community: {label: "'I am the last of the prophets and you the last of the communities'", cluster: theology}
+  dajjal-first-claims-prophecy-then-lordship: {label: "The Dajjal begins 'I am a prophet' (there is no prophet after me), then says 'I am your Lord' (you will not see your Lord until you die)", cluster: eschatology}
+  kahf-makes-dajjals-fire-cool-as-for-abraham: {label: "Whoever is tried by the Dajjal's fire should seek God's help and recite the opening of al-Kahf; it becomes cool and safe as the fire was for Abraham", cluster: eschatology}
+  devils-take-form-of-parents: {label: "The Dajjal asks a bedouin 'if I raise your father and mother will you testify I am your Lord?'; two devils take their shapes: 'my son, follow him, he is your Lord'", cluster: eschatology}
+  dajjal-saws-man-in-two: {label: "The Dajjal is given power over one soul: he kills him and saws him with the saw into two halves, then raises him: 'who is your Lord?'", cluster: eschatology}
+  never-surer-of-you-than-today: {label: "The revived man: 'by God, I was never more certain about you than today: you are the Dajjal'", cluster: eschatology}
+  refusers-herds-perish: {label: "The Dajjal passes a clan that belies him and none of their grazing beasts is left alive", cluster: eschatology}
+  angels-with-drawn-swords-at-passes: {label: "At every pass of Mecca and Medina angels meet the Dajjal with drawn swords", cluster: eschatology}
+  medina-quakes-three-times-expels-hypocrites: {label: "Medina shakes with its people three times; every hypocrite goes out to the Dajjal; it expels the dross as the bellows expels iron's dross: the Day of Deliverance", cluster: eschatology}
+  imam-steps-back-jesus-hand-between-shoulders: {label: "As the imam leads the dawn prayer Jesus descends; the imam steps back; Jesus places his hand between his shoulders: 'go forward, it was called for you'", cluster: eschatology}
+  dajjal-with-seventy-thousand-jews-armed: {label: "Behind the door is the Dajjal with seventy thousand Jews, each with an adorned sword and a green shawl (sāj)", cluster: eschatology}
+  i-have-a-blow-for-you: {label: "Jesus: 'I have a blow for you you will not escape'; he overtakes him at the eastern gate of Lydda", cluster: eschatology}
+  everything-speaks-but-gharqad: {label: "No stone, tree, wall or beast behind which a Jew hides but God makes it speak, except the gharqad, a tree of theirs", cluster: eschatology}
+  dajjal-forty-years-like-sparks: {label: "The Dajjal's days: forty years, a year like half a year, a year like a month, a month like a week; the last days like a spark: a man at one gate of the city does not reach the other before evening", cluster: eschatology}
+  jesus-just-judge-removes-venom-and-enmity: {label: "Jesus as just judge: enmity removed, the sting taken from every stinging thing, the child puts his hand in the snake's mouth, the girl makes the lion flee, the wolf among the sheep like their dog", cluster: eschatology}
+  earth-filled-with-peace-as-vessel-with-water: {label: "The earth is filled with peace as a vessel is filled with water; war lays down its burdens; Quraysh is stripped of its kingship", cluster: eschatology}
+  earth-like-silver-platter-grows-as-in-adams-time: {label: "The earth becomes like a silver platter (fāthūr) and grows its plants as in Adam's time; a company is filled by one bunch of grapes or one pomegranate", cluster: eschatology}
+  ox-dear-horse-cheap: {label: "Then an ox costs so much and a horse a few dirhams: the horse will never be ridden to war, the ox ploughs the whole earth", cluster: eschatology}
+  three-years-of-withheld-rain-before-dajjal: {label: "Before the Dajjal three hard years: the sky withholds a third of its rain, then two-thirds, then all; the earth its growth likewise; every hoofed beast dies", cluster: eschatology}
+  praise-feeds-them-as-food: {label: "In the famine people live on tahlīl, takbīr, tasbīḥ and taḥmīd, which runs in them as food does (as it suffices the people of heaven)", cluster: eschatology}
+  devil-takes-form-of-camels-and-kin: {label: "The Dajjal offers to revive a bedouin's camels, or a man's dead father and brother; Satan takes their likeness", cluster: eschatology}
+  we-knead-and-hunger-before-baking: {label: "Asmāʾ: we knead our dough and are hungry before we bake it; how will the believers be then?", cluster: eschatology}
+  dajjal-white-gleaming-head-like-viper: {label: "The Dajjal: one-eyed, white and gleaming (hijān azhar), his head like a viper's (aṣala)", cluster: eschatology}
+  dajjal-read-by-unlettered-and-literate: {label: "'Kāfir' between his eyes, read by the unlettered and the literate", cluster: eschatology}
+  two-angels-like-prophets-with-dajjal: {label: "Two angels resembling two prophets go with the Dajjal; to 'am I not your Lord?' one says 'you lie', heard only by his companion, the other 'you speak truly', heard by all", cluster: eschatology}
+  this-is-that-mans-village: {label: "Refused leave to enter Medina, the Dajjal says 'this is that man's village' and goes on to Syria, where God destroys him at the pass of Afīq", cluster: eschatology}
+  aisha-weeps-at-thought-of-dajjal: {label: "ʿĀʾisha weeps at the thought of the Dajjal; 'if he comes while I live I will suffice you'", cluster: eschatology}
+  dajjal-from-jewry-of-isfahan: {label: "The Dajjal comes out from the Jewish quarter of Isfahan", cluster: eschatology}
+  medina-seven-gates-two-angels-each: {label: "Medina then has seven gates (passes), with two angels on each", cluster: eschatology}
+  jesus-remains-forty-years-just-imam: {label: "Jesus remains on earth forty years, a just imam and equitable judge", cluster: eschatology}
+  dajjal-from-khurasan-shield-faced-followers: {label: "The Dajjal comes from a land in the east called Khurāsān, followed by peoples whose faces are like hammered shields", cluster: eschatology}
+  dajjal-head-hubuk-thrice: {label: "The misleading liar to come after you: his head behind is ḥubuk, ḥubuk, ḥubuk (tightly curled)", cluster: eschatology}
+  formula-against-dajjal-our-lord-is-god: {label: "Whoever says 'you are not our Lord; our Lord is God, on him we rely, to him we turn; we seek refuge in God from you' is beyond his power", cluster: ritual}
+  dajjal-eye-like-green-glass: {label: "One of the Dajjal's eyes is like green glass", cluster: eschatology}
+  rumour-at-kufa-dajjal-out-lie-of-dyer: {label: "At Kufa it is cried that the Dajjal has come out and people are fighting him; then it is announced as a dyer's lie", cluster: eschatology}
+  children-would-pelt-dajjal: {label: "If the Dajjal came out in your time the children would pelt him with pebbles", cluster: eschatology}
+  earth-folded-for-dajjal-like-ram-fleece: {label: "The earth is folded up for the Dajjal like the fleece of a ram", cluster: eschatology}
+  only-donkey-serves-dajjal-filth-on-filth: {label: "Of mounts only the donkey is made to serve the Dajjal: 'filth upon filth'", cluster: eschatology}
+  be-like-ibn-labun-no-back-no-udder: {label: "In the trials be like a two-year-old camel: no back to ride, no udder to milk", cluster: wisdom}
+  dajjal-heals-blind-leper-revives-dead: {label: "The Dajjal heals the born-blind and the leper and gives life to the dead, saying 'I am your Lord'", cluster: eschatology}
+  jesus-comes-from-the-west-confirming-muhammad: {label: "Jesus son of Mary comes from the west, confirming Muhammad and on his religion, and kills the Dajjal; then it is the Hour", cluster: eschatology}
+  seventy-thousand-isfahan-jews-in-taylasans: {label: "Seventy thousand of the Jews of Isfahan follow the Dajjal, wearing ṭayālisa", cluster: eschatology}
+  plague-and-dajjal-kept-from-medina: {label: "Angels on Medina's passes keep out both the plague and the Dajjal", cluster: eschatology}
+  dajjal-camps-at-salt-flat: {label: "The Dajjal camps at the salt-flat by Medina and pitches his tent", cluster: eschatology}
+  best-man-testifies-you-are-the-dajjal: {label: "A man, the best of people, comes out to the Dajjal: 'I testify you are the Dajjal of whom God's messenger told us'", cluster: eschatology}
+  neck-turned-to-copper-against-knife: {label: "The Dajjal goes to slaughter the believer, but the place between neck and collarbone is made copper", cluster: eschatology}
+  thrown-into-what-seems-fire-is-paradise: {label: "The Dajjal throws him by hands and feet; people think into fire, but he is cast into paradise: the greatest martyr before the Lord of the worlds", cluster: eschatology}
+  dajjals-patrols-say-dont-kill-without-lord: {label: "The Dajjal's patrols would kill the believer, but say 'has your lord not forbidden you to kill anyone without him?'", cluster: eschatology}
+  dajjal-turned-at-uhud-perishes-in-syria: {label: "The Messiah comes from the east aiming at Medina, halts behind Uhud; the angels turn his face to Syria, and there he perishes", cluster: eschatology}
+  dajjal-shuns-four-mosques: {label: "The Dajjal stays forty mornings, reaches every water, but does not approach four mosques: the Sacred, Medina's, al-Ṭūr's and al-Aqṣā", cluster: eschatology}
+  dajjal-rains-but-no-tree-grows: {label: "The Dajjal makes rain fall but makes no tree grow", cluster: eschatology}
+  refuge-from-dajjal-in-prayer: {label: "The prophet sought refuge in his prayer from the trial of the Dajjal", cluster: ritual}
+  flee-far-from-dajjal: {label: "Whoever hears of the Dajjal should keep far from him: a man comes to him thinking himself a believer and follows him for the doubts he raises", cluster: ethics}
+  remove-to-blind-cousin-not-busy-widow: {label: "The prophet sends a divorcee from the busy house of a generous widow to a blind cousin, lest her veil slip before guests", cluster: law}
+  tamim-shipwreck-island-thirty-men: {label: "Tamīm al-Dārī, a Christian convert, tells how he and thirty men of Lakhm and Judhām were tossed a month at sea and landed on an island", cluster: eschatology}
+  jassasa-hairy-beast-front-from-back: {label: "On the island a beast so hairy none can tell its front from its back: 'I am the Jassāsa (the spy); go to the man in the monastery'", cluster: eschatology}
+  chained-giant-in-monastery: {label: "In the monastery the greatest man they ever saw, fettered: hands bound to neck, iron from knees to ankles", cluster: eschatology}
+  baysan-palms-tiberias-zughar-spring: {label: "The chained man asks whether the palms of Baysān bear, whether Lake Tiberias has water, whether the spring of Zughar waters crops; all will fail", cluster: eschatology}
+  chained-man-asks-of-unlettered-prophet: {label: "The chained man asks of the prophet of the unlettered: has he left Mecca, settled Yathrib, fought the Arabs and prevailed? 'Better for them to obey him'", cluster: eschatology}
+  i-am-the-messiah-leave-to-go-out-soon: {label: "'I am the Messiah, and soon I will be given leave to go out'; he will descend on every town in forty nights save Mecca and Ṭayba", cluster: eschatology}
+  this-is-tayba-thrice-staff-on-pulpit: {label: "Striking the pulpit with his staff: 'this is Ṭayba, this is Ṭayba, this is Ṭayba'; Tamīm's story agreed with what he had taught", cluster: eschatology}
+  sea-of-syria-or-yemen-no-east: {label: "'He is in the sea of Syria or of Yemen - no, from the east, from the east', pointing east", cluster: eschatology}
+  ibn-sayyad-says-messenger-of-unlettered: {label: "Asked 'do you testify I am God's messenger?', Ibn Ṣayyād says 'you are the messenger of the unlettered; do you testify I am God's messenger?'", cluster: eschatology}
+  true-and-false-come-to-him: {label: "Ibn Ṣayyād: 'a truthful one and a liar come to me'; 'the matter is confused for you'", cluster: eschatology}
+  hidden-thing-dukh: {label: "The prophet hides something for Ibn Ṣayyād (smoke); he says 'al-dukh'; 'begone, you will not exceed your measure'", cluster: eschatology}
+  if-he-is-him-you-cannot-kill-him: {label: "ʿUmar asks leave to kill Ibn Ṣayyād: 'if it is he, you will not be given power over him; if not, no good for you in killing him'", cluster: eschatology}
+  prophet-creeps-behind-palms-to-overhear: {label: "The prophet creeps behind palm trunks to overhear Ibn Ṣayyād murmuring in his velvet wrap; his mother warns him: 'Ṣāf, here is Muḥammad'", cluster: eschatology}
+  ibn-sayyad-sees-throne-on-water: {label: "Ibn Ṣayyād: 'I see a throne on the water'; 'you see the throne of Iblīs on the sea'", cluster: eschatology}
+  soil-of-paradise-white-flour-pure-musk: {label: "The soil of paradise is white fine flour (darmaka), pure musk", cluster: paradise}
+  ibn-sayyad-protests-muslim-has-child: {label: "Ibn Ṣayyād protests: the Dajjal is an unbeliever and I am a Muslim, childless and I have a son, barred from Mecca and Medina and I come from one to the other", cluster: eschatology}
+  ibn-sayyad-knows-where-he-is: {label: "Ibn Ṣayyād: 'I know him, his birth and where he is now'; asked if he would like to be him: 'I would not mind'", cluster: eschatology}
+  ibn-sayyad-thinks-of-hanging-himself: {label: "Ibn Ṣayyād says people's talk makes him want to hang himself from a tree", cluster: eschatology}
+  if-not-him-no-killing-a-protected-man: {label: "'If it is he, you are not his slayer, only Jesus son of Mary; if not, you may not kill a man of the covenant'", cluster: eschatology}
+  ibn-sayyad-swells-to-fill-street: {label: "Angered, Ibn Ṣayyād swells until he fills the street", cluster: eschatology}
+  dajjal-comes-out-from-anger: {label: "'The first thing that sends him out on people is an anger he is angered with'", cluster: eschatology}
+  ibn-sayyad-snorts-like-donkey-eye-swollen: {label: "Ibn Ṣayyād, his eye swollen, snorts like the loudest donkey; Ibn ʿUmar breaks his staff on him without noticing", cluster: eschatology}
+  jabir-swears-ibn-sayyad-is-dajjal: {label: "Jābir swears Ibn Ṣayyād is the Dajjal because ʿUmar swore it before the prophet and he did not deny it", cluster: eschatology}
+  dukh-or-zukh-you-already-differ: {label: "They differ whether Ibn Ṣayyād said dukh or zukh: 'you differ while I am among you; after me you will differ more'", cluster: eschatology}
+  beast-comes-out-at-forenoon: {label: "The first signs: the sun rising from the west and the Beast coming out on people at forenoon; whichever is first, the other follows close", cluster: eschatology}
+  beast-marks-noses-buyer-from-marked: {label: "The Beast comes out and brands people on their snouts; they multiply until a man buying a camel says he bought it 'from one of the branded'", cluster: eschatology}
+  beast-from-greatest-mosque-earth-cracks: {label: "The Beast comes out from the most sacred of mosques: as they sit, the earth shakes, then splits", cluster: eschatology}
+  sun-asks-leave-refused-lord-how-far-east: {label: "The sun sets, greets, prostrates and asks leave; one day leave is withheld: 'Lord, the way is long, I will not reach'; it is told to rise where it set", cluster: eschatology}
+  neglect-of-dependants-enough-sin: {label: "It is sin enough for a man to neglect those whose food he provides", cluster: ethics}
+  gog-magog-each-leaves-thousand-offspring: {label: "None of Gog and Magog dies until a thousand are born of his loins; behind them three nations whose number only God knows: Mansak, Tāwīl, Tāwīs", cluster: eschatology}
+  repentance-gate-in-west-seventy-years-wide: {label: "Toward the sun's setting is a gate open for repentance seventy years wide; it stays open until the sun rises from its direction", cluster: eschatology}
+  wealth-overflows-one-prostration-better: {label: "Wealth overflows until no one accepts it, until one prostration is better than the world and what is in it", cluster: eschatology}
+  young-camels-left-unridden: {label: "Young she-camels (qilāṣ) are left and no one goes after them; rancour, mutual hatred and envy go", cluster: eschatology}
+  jesus-forty-years-dies-muslims-pray-over-him: {label: "Jesus stays forty years, then dies, and the Muslims pray over him", cluster: eschatology}
+  jesus-medium-reddish-white-head-drips-dry: {label: "Jesus is of medium height, between red and white, in two yellowish garments, his head as if dripping though no wet touched it", cluster: christology}
+  god-destroys-all-religions-but-islam: {label: "In Jesus's time God destroys all religions except Islam", cluster: eschatology}
+  no-prophet-between-me-and-jesus: {label: "'There is no prophet between me and him', that is, Jesus", cluster: christology}
+  some-of-you-commanders-over-others: {label: "Asked to lead the prayer, Jesus says 'no; some of you are commanders over others, God's honour to this community'", cluster: eschatology}
+  people-like-birds-in-lightness-beasts-in-mind: {label: "The worst remain in the lightness of birds and the minds of beasts, knowing no good, rejecting no evil; Satan bids them worship idols, yet their provision flows", cluster: eschatology}
+  trumpet-heard-tilting-neck: {label: "The trumpet is blown: none hears it but he tilts one side of his neck and raises the other", cluster: eschatology}
+  rain-like-dew-bodies-grow: {label: "God sends a rain like dew (ṭall) and people's bodies grow from it; then a second blast and they stand looking", cluster: resurrection}
+  nine-hundred-ninety-nine-of-thousand-to-fire: {label: "'Bring out the contingent of the fire': of every thousand, nine hundred and ninety-nine", cluster: eschatology}
+  mahdi-bald-brow-hooked-nose-seven-years: {label: "The Mahdī is of me: receding brow, aquiline nose; he fills the earth with equity and justice as it was filled with tyranny, and rules seven years", cluster: eschatology}
+  man-of-my-family-fills-earth-with-justice: {label: "A man of my kin (ʿitra) or household will come out and fill the earth with equity and justice as it was filled with oppression", cluster: eschatology}
+  mahdi-time-rain-plenty-wealth-correct: {label: "In the Mahdī's time God waters with rain, the earth brings out its growth, wealth is given rightly, flocks multiply, the community grows great; he lives seven or eight years", cluster: eschatology}
+  mahdi-name-like-prophets-father-like-his-father: {label: "If one day remained God would lengthen it to send a man of my house whose name matches mine and his father's name my father's", cluster: eschatology}
+  last-night-a-man-of-the-house-rules: {label: "If only one night remained of the world, a man of the Prophet's household would rule in it", cluster: eschatology}
+  mahdi-from-children-of-fatima: {label: "The Mahdī is of my kin, of the children of Fāṭima", cluster: eschatology}
+  mahdi-invites-jesus-to-lead: {label: "Jesus descends and their commander the Mahdī says 'come, lead us in prayer'; he says 'no, some of you are commanders over others'", cluster: eschatology}
+  your-imam-from-among-you: {label: "'How will you be when the son of Mary descends among you and your imam is from among you?'", cluster: eschatology}
+  caliph-scatters-wealth-without-counting: {label: "In the last days a caliph will scoop out wealth by handfuls without counting it", cluster: eschatology}
+  iraq-and-syria-cut-off-from-tribute: {label: "Iraq will soon receive no qafīz or dirham (the Persians stop it), Syria no dinar or mudy (the Romans stop it)", cluster: eschatology}
+  muslims-burn-gog-weapons-seven-years: {label: "The Muslims will kindle fires from the bows, arrows and shields of Gog and Magog for seven years", cluster: eschatology}
+  beasts-fatten-on-gog-flesh: {label: "The flocks have no pasture but Gog's flesh and grow fat on it; the beasts of the earth grow fat in gratitude from their flesh and blood", cluster: eschatology}
+  volunteer-goes-down-finds-them-dead: {label: "'Will a man sell his soul and see what the enemy has done?' One goes down expecting death and finds them dead on one another: 'rejoice'", cluster: eschatology}
+  gog-will-say-in-sha-allah: {label: "Gog and Magog's chief says 'we will dig tomorrow, if God wills', and they find the wall as they left it and break through", cluster: eschatology}
+  opening-of-barrier-like-this-ninety: {label: "'Woe to the Arabs from an evil drawn near: today the barrier of Gog and Magog opened this much', with a ring of the fingers (ninety, or ten)", cluster: eschatology}
+  destroyed-though-righteous-when-filth-abounds: {label: "'Shall we perish when there are righteous among us?' - 'yes, when filth (al-khabath) abounds'", cluster: eschatology}
+  sinking-in-east-with-muslims: {label: "A sinking in the east is mentioned; 'will a land with Muslims be swallowed?' - 'yes, when most of its people are filth'", cluster: eschatology}
+  fire-from-aden-moves-and-rests-with-them: {label: "The last sign: a fire from Yemen (the depth of Aden) driving people to their gathering; it halts when they halt and rests at noon when they rest; and a wind casting people into the sea", cluster: eschatology}
+  ibn-salam-three-questions: {label: "ʿAbd Allāh b. Salām asks three things only a prophet knows: the first sign of the Hour, the first food of paradise, why a child takes after father or mother", cluster: polemic}
+  first-food-of-paradise-fish-liver-lobe: {label: "The first food of the people of paradise is the lobe of a fish's liver", cluster: paradise}
+  whose-fluid-precedes-child-resembles: {label: "If the man's fluid precedes the woman's the child takes after him; if hers, after her", cluster: anthropology}
+  jews-praise-then-revile-ibn-salam: {label: "The Jews call ʿAbd Allāh b. Salām 'our best and son of our best' until he declares Islam, then 'our worst and son of our worst'", cluster: polemic}
+  gabriel-enemy-of-jews: {label: "'That is the enemy of the Jews among the angels', said of Gabriel", cluster: polemic}
+  fire-from-hadramawt-go-to-syria: {label: "A fire will come from Ḥaḍramawt before the resurrection and drive people; 'what do you command us?' - 'go to Syria'", cluster: eschatology}
+  gathered-two-three-four-ten-on-a-camel: {label: "People are gathered in three ways: eager, fearful; two on a camel, three, four, ten on a camel; the fire drives the rest, staying the night with them and resting at noon", cluster: eschatology}
+  three-companies-riding-walking-dragged: {label: "People are gathered in three companies: riding, fed and clothed; walking and hurrying; dragged on their faces by angels", cluster: eschatology}
+  orchard-traded-for-old-camel: {label: "God sends a blight on the mounts until a man gives his fine orchard for an old she-camel with a saddle, and cannot get it", cluster: eschatology}
+  gathered-on-faces-mouths-bridled: {label: "You will be gathered riding and walking and on your faces, your mouths bridled (fidām); you complete seventy nations, the best and most honoured", cluster: eschatology}
+  thigh-first-to-speak: {label: "The first thing to speak (yuʿrib) for one of you is his thigh", cluster: eschatology}
+  sworn-by-fingers-not-to-follow: {label: "A man had sworn by the number of his fingers not to follow the prophet or his religion", cluster: sira}
+  wifes-right-feed-clothe-no-face-blow: {label: "A wife's right: feed her when you eat, clothe her when you clothe yourself, do not strike the face nor revile her, nor shun her except within the house", cluster: law}
+  jesus-descends-and-leads-them-in-prayer: {label: "As the prayer is called and the ranks are set, Jesus son of Mary descends and leads them (amma-hum) in prayer", cluster: eschatology}
+
+units:
+  # ============== the last bābs of the trials
+  - id: hadith-65-nations-call-to-the-bowl
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The nations call one another against the believers like eaters to a bowl; froth of the torrent; wahn
+    read: ["Jāmiʿ 65:8415.1"]
+    tags:
+      - {motif: nations-call-each-other-like-eaters-to-bowl, refs: ["Jāmiʿ 65:8415.1"], note: "يُوشك أن تداعَى عليكم الأممُ من كل أفق كما تَدَاعى الأكلةُ على قَصْعتها"}
+      - {motif: many-but-froth-of-the-torrent, refs: ["Jāmiʿ 65:8415.1"], note: "أنتم يومئذ كثير، ولكن تكونون غُثَاءً كغُثاءِ السيلِ تُنْزع المهابةُ من قلوب عدوكم"}
+      - {motif: wahn-love-of-life-dislike-of-death, refs: ["Jāmiʿ 65:8415.1"], note: "وما الوهن؟ قال: \"حبُّ الحياة، وكراهيةُ الموت\""}
+  - id: hadith-65-medina-besieged-to-salah
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Muslims driven back to Medina, their farthest outpost at Salāḥ
+    read: ["Jāmiʿ 65:8415.2"]
+    tags:
+      - {motif: muslims-besieged-back-to-medina-outpost-at-salah, refs: ["Jāmiʿ 65:8415.2"], note: "يُوشك المسلمون أن يحاصروا إلى المدينة حتى يكون أبعد مسالحهم سلاح"}
+  - id: hadith-65-mawali-army
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: In the great wars God raises an army of freedmen
+    read: ["Jāmiʿ 65:8416.1"]
+    tags:
+      - {motif: mawali-army-raised-in-great-wars, refs: ["Jāmiʿ 65:8416.1"], note: "إذا وقعت الملاحم بعث اللَّه بعثا من الموالي هم أكرم العرب فرسًا، وأجوده سلاحًا"}
+  - id: hadith-65-punishment-strikes-all
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Punishment strikes all in a people; they are raised on their deeds
+    read: ["Jāmiʿ 65:8416.2"]
+    tags:
+      - {motif: punishment-strikes-all-then-raised-by-deeds, refs: ["Jāmiʿ 65:8416.2"], note: "أصاب العذاب من كان فيهم، ثم بعثوا على أعمالهم"}
+    hints:
+      - "All in a town struck though some are righteous, each then judged by his deeds, against Gen 18:23-25, Abraham's 'wilt thou destroy the righteous with the wicked?'"
+  - id: hadith-65-word-of-truth-before-tyrant
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The best jihad, a word of truth before an unjust ruler (bāb on Q 20:43-44, Moses and Aaron's gentle word to Pharaoh)
+    read: ["Jāmiʿ 65:8416.3-8417.1"]
+    quran: ["20:43-44"]
+    tags:
+      - {motif: best-jihad-word-of-truth-before-tyrant, refs: ["Jāmiʿ 65:8416.3", "Jāmiʿ 65:8416.4", "Jāmiʿ 65:8417.1"], note: "كلمة حق عند سلطان جائر; إن من أعظم الجهاد كلمة عدل عند سلطان جائر"}
+      - {motif: question-answered-after-third-pillar, refs: ["Jāmiʿ 65:8416.4"], note: "عند الجمرة الأولى ... فسكت عنه، فلما رأى الجمرة الثانية سأله، فسكت عنه، فلما رمى جمرة العقبة، وضع رجله في الغرز ليركب"}
+  - id: hadith-65-not-abase-oneself
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A believer does not abase himself by courting a trial beyond him (Ibn ʿUmar on hearing al-Ḥajjāj)
+    read: ["Jāmiʿ 65:8417.2"]
+    tags:
+      - {motif: believer-must-not-abase-himself-with-unbearable-trial, refs: ["Jāmiʿ 65:8417.2"], note: "لا ينبغي للمؤمن أن يذل نفسه ... يتعرض من البلاء لما لا يُطيق"}
+  - id: hadith-65-community-not-on-error
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The community will not agree on error; God's hand is on the congregation
+    read: ["Jāmiʿ 65:8418.1-8419.1"]
+    tags:
+      - {motif: community-never-agreed-on-error, refs: ["Jāmiʿ 65:8418.1", "Jāmiʿ 65:8419.1"], note: "لن تجتمع أمتي على الضلالة أبدًا فعليكم بالجماعة فإن يد اللَّه على الجماعة"}
+  - id: hadith-65-renewer-each-century
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A renewer at the head of every hundred years
+    read: ["Jāmiʿ 65:8420.1"]
+    tags:
+      - {motif: renewer-at-head-of-each-century, refs: ["Jāmiʿ 65:8420.1"], note: "إن اللَّه يبعث لهذه الأمة على رأس كل مائة سنة من يجدد لها دينها"}
+  # ============== minor signs of the Hour
+  - id: hadith-65-when-is-the-hour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: When is the Hour? Gabriel's question and its signs; old age will not reach the youngest; you are with whom you love; no soul alive in a hundred years (bāb on Q 7:187, 33:63, 79:42-44)
+    read: ["Jāmiʿ 65:8422.1-8423.3"]
+    quran: ["7:187", "33:63", "79:42-44", "31:34"]
+    tags:
+      - {motif: gabriel-as-questioner-hour-unknown, refs: ["Jāmiʿ 65:8422.1"], note: "ما المسؤول عنها بأعلم من السائل ... فلم يروا شيئًا ... هذا جبريل، جاء ليعلّم الناسَ دينَهم"}
+      - {motif: slave-girl-bears-her-master, refs: ["Jāmiʿ 65:8422.1"], note: "إذا ولدت الأمة ربها، فذاك من أشراطها"}
+      - {motif: barefoot-naked-shepherds-vie-in-building, refs: ["Jāmiʿ 65:8422.1"], note: "وإذا كانت العراة الحفاة رؤوس الناس ... وإذا تطاول رعاء البهم في البنيان"}
+      - {motif: five-known-only-to-god, refs: ["Jāmiʿ 65:8422.1"], note: "في خمس لا يعلمهن إلا اللَّه\"، ثم تلا ﷺ ﴿إِنَّ اللَّهَ عِنْدَهُ عِلْمُ السَّاعَةِ"}
+      - {motif: hour-known-only-to-god, refs: ["Jāmiʿ 65:8422.1", "Jāmiʿ 65:8423.2"], note: "تسألوني عن الساعة؟ وإنما علمها عند اللَّه"}
+      - {motif: questioner-told-hour-beyond-his-lifetime, refs: ["Jāmiʿ 65:8422.2", "Jāmiʿ 65:8423.1"], note: "فكان ييظر إلى أصغرهم فيقول: \"إن يعشْ هذا لا يدركه الهرمُ حتى تقوم عليكم ساعتُكم\"; Hishām: يعني موتهم"}
+      - {motif: you-are-with-whom-you-love, refs: ["Jāmiʿ 65:8423.1"], note: "ما أعددتُ لها إلا أني أحب اللَّه ورسوله، قال: \"إنك مع من أحببت\""}
+      - {motif: none-now-living-survives-a-century, refs: ["Jāmiʿ 65:8423.2", "Jāmiʿ 65:8423.3"], note: "قبل أن يموت بشهر ... ما على الأرض من نفس منفوسة تأتي عليها مائة سنة; لما رجع النبي ﷺ من تبوك"}
+    hints:
+      - "The Hour unknown even to the one asked against Mark 13:32, 'of that day and that hour knoweth no man, no, not the angels ... neither the Son, but the Father'."
+  - id: hadith-65-hasten-deeds-before-six
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Hasten good deeds before six signs
+    read: ["Jāmiʿ 65:8423.4-8424.1"]
+    tags:
+      - {motif: hasten-deeds-before-six-signs, refs: ["Jāmiʿ 65:8423.4", "Jāmiʿ 65:8424.1"], note: "بادروا بالأعمال ستا: الدجال، والدخان، ودابة الأرض، وطلوع الشمس من مغربها، وأمر العامة، وخويصة أحدكم"}
+  - id: hadith-65-catalogue-of-signs
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A catalogue of signs ending with the sun from the west and the Hour striking mid-trade and mid-meal (Q 6:158)
+    read: ["Jāmiʿ 65:8424.2"]
+    quran: ["6:158"]
+    tags:
+      - {motif: two-great-parties-one-claim, refs: ["Jāmiʿ 65:8424.2"], note: "حتى تقتتل فئتان عظيمتان يكون بينهما مقتلة عظيمة، دعوتهما واحدة"}
+      - {motif: thirty-liars-claim-prophethood, refs: ["Jāmiʿ 65:8424.2"], note: "دجالون كذابون، قريب من ثلاثين، كلهم يزعم أنه رسول اللَّه"}
+      - {motif: earthquakes-multiply, refs: ["Jāmiʿ 65:8424.2"], note: "وحتى يقبض العلم، وتكثر الزلازل، ويتقارب الزمان"}
+      - {motif: rich-man-cannot-find-taker-for-alms, refs: ["Jāmiʿ 65:8424.2"], note: "حتى يهم رب المال من يقبل صدقته ... لا أرب لي به"}
+      - {motif: man-passes-grave-wishes-he-were-in-it, refs: ["Jāmiʿ 65:8424.2"], note: "وحتى يمر الرجل بقبر الرجل، فيقول: يا ليتني مكانه"}
+      - {motif: sun-rises-from-west-all-believe, refs: ["Jāmiʿ 65:8424.2"], note: "وحتى تطلع الشمس من مغربها فإذا طلعت ورآها الناس، يعني آمنوا أجمعون"}
+      - {motif: hour-strikes-mid-trade-mid-meal, refs: ["Jāmiʿ 65:8424.2"], note: "وقد نشر الرجلان ثوبهما بينهما فلا يتبايعانه ولا يطويانه ... وقد رفع أكلته إلى فيه فلا يطعمها"}
+    hints:
+      - "The Hour falling on men mid-trade, mid-meal and at the trough against Luke 17:27-28, 34-35: they ate, drank, bought, sold, and 'two shall be grinding together'."
+  - id: hadith-65-count-six-before-the-hour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Count six before the Hour (ʿAwf b. Mālik in a leather tent at Tabūk)
+    read: ["Jāmiʿ 65:8424.3"]
+    tags:
+      - {motif: six-before-the-hour-counted-on-the-hand, refs: ["Jāmiʿ 65:8424.3"], note: "اعدد ستًّا بين يدي الساعة: موتي، ثم فتح بيت المقدس، ثم موتان يأخذ فيكم كقعاص الغنم ... ثم هدنة تكون بينكم وبين بني الأصفر"}
+      - {motif: death-like-sheep-murrain, refs: ["Jāmiʿ 65:8424.3"], note: "ثم موتان يأخذ فيكم كقعاص الغنم"}
+      - {motif: eighty-banners-twelve-thousand-each, refs: ["Jāmiʿ 65:8424.3"], note: "فيأتونكم تحت ثمانين غاية، تحت كل غاية اثنا عشر ألفا"}
+  - id: hadith-65-sent-with-the-hour-two-fingers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sent with the Hour like two fingers; like two racehorses; the scout who waves his garment (bāb on Q 16:77)
+    read: ["Jāmiʿ 65:8425.1-8426.5"]
+    quran: ["16:77"]
+    tags:
+      - {motif: sent-with-the-hour-like-two-fingers, refs: ["Jāmiʿ 65:8425.1", "Jāmiʿ 65:8425.3", "Jāmiʿ 65:8426.1", "Jāmiʿ 65:8426.2", "Jāmiʿ 65:8426.3"], note: "بعثت أنا والساعة كهذه من هذه أو كهاتين\". وقرن بين السبابة والوسطى"}
+      - {motif: hour-nearly-outran-the-prophet, refs: ["Jāmiʿ 65:8425.2", "Jāmiʿ 65:8426.4", "Jāmiʿ 65:8426.5"], note: "كمثل فرسي رهان; بعثت أنا والساعة جميعا إنْ كادت لتسبقني; فسبقتُها في نفس الساعة"}
+      - {motif: scout-waves-his-garment-you-are-attacked, refs: ["Jāmiʿ 65:8425.2"], note: "كمثل رجل بعثه قومه طليعة، فلما خشي أن يسبق ألاح بثوبه أُتِيتم أتيتم ... \"أنا ذلك\""}
+  - id: hadith-65-rest-of-the-day
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Your term like the afternoon to sunset; what remains of the world like what remains of the day (Q 16:77 bāb)
+    read: ["Jāmiʿ 65:8427.1-8427.2"]
+    quran: ["16:77"]
+    tags:
+      - {motif: communities-time-like-asr-to-sunset, refs: ["Jāmiʿ 65:8427.1"], note: "إنما أجلكم في أجل من خلا من الأمم ما بين صلاة العصر إلى مغرب الشمس"}
+      - {motif: world-left-like-the-rest-of-a-day-at-sunset, refs: ["Jāmiʿ 65:8427.2"], note: "وقد كادت الشمس أن تغرب ... ما بقي من الدنيا فيما مضى منها إلا كما بقي من يومكم هذا فيما مضى منه"}
+  - id: hadith-65-six-repeat-and-dark-trials
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The six before the Hour (repeated for the death and the plague); trials like pieces of the dark night
+    read: ["Jāmiʿ 65:8428.1-8428.2"]
+    tags:
+      - {motif: death-like-sheep-murrain, refs: ["Jāmiʿ 65:8428.1"], note: "موتي، ثم فتح بيت المقدس، ثم موتان يأخذ فيكم كقعاص الغنم"}
+      - {motif: trials-like-pieces-of-dark-night, refs: ["Jāmiʿ 65:8428.2"], note: "إن بين يدي الساعة فتنا كقطع الليل المظلم، يصبح الرجل فيها مؤمنا ويمسي كافرًا"}
+  - id: hadith-65-trust-lost
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Trust lost and lifted from hearts in sleep; people like a hundred camels
+    read: ["Jāmiʿ 65:8429.1-8429.3"]
+    tags:
+      - {motif: trust-lost-when-affairs-given-to-unfit, refs: ["Jāmiʿ 65:8429.1"], note: "إذا ضيعت الأمانة فانتظر الساعة ... إذا أسند الأمر إلى غير أهله"}
+      - {motif: people-like-hundred-camels-hardly-a-mount, refs: ["Jāmiʿ 65:8429.2"], note: "إنما الناس كالإبل المائة لا تكاد تجد فيها راحلة"}
+      - {motif: trust-came-down-in-root-of-hearts, refs: ["Jāmiʿ 65:8429.3"], note: "أن الأمانة نزلت في جذر قلوب الرجال، ثم نزل القرآن"}
+      - {motif: trust-lifted-in-sleep-leaves-blister, refs: ["Jāmiʿ 65:8429.3"], note: "ينام الرجل النومة، فتقبض الأمانة من قلبه، فيظل أثرها مثل الوكت ... كجمر دحرجته على رجلك، فنفط، فتراه منتبرًا، وليس فيه شيء"}
+  - id: hadith-65-harj-and-knowledge-lifted
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Knowledge lifted, ignorance sent down, al-harj (killing) multiplies; time contracts, markets draw near; Arabia meadows again
+    read: ["Jāmiʿ 65:8429.4-8431.1"]
+    tags:
+      - {motif: harj-is-killing, refs: ["Jāmiʿ 65:8429.4", "Jāmiʿ 65:8430.1", "Jāmiʿ 65:8430.2", "Jāmiʿ 65:8430.4", "Jāmiʿ 65:8431.1"], note: "ويكثر الهرج\"، قالوا: يا رسول اللَّه، أيم هو؟ قال: \"القتل، القتل\""}
+      - {motif: killer-and-killed-know-not-why, refs: ["Jāmiʿ 65:8430.3"], note: "لا يدري القاتلُ فيما قتل؟ ولا المقتولُ فيم قتل؟ ... القاتل والمقتول في النار"}
+      - {motif: markets-draw-near, refs: ["Jāmiʿ 65:8430.4"], note: "ويتقارب الزمان، وتتقارب الأسواق، ويكثر الهرج"}
+      - {motif: many-reciters-few-jurists, refs: ["Jāmiʿ 65:8430.5"], note: "يكثر فيه القراء، ويقلّ الفقهاء ... يقرأ القرآن رجال لا يجاوز تراقيهم، ثم يأتي زمان يجادل المنافقُ المشركُ المؤمنُ"}
+      - {motif: arabia-returns-to-meadows-and-rivers, refs: ["Jāmiʿ 65:8431.1"], note: "حتى تعود أرض العرب مروجًا وأنهارًا، وحتى يسير الراكب بين العراق ومكة، لا يخاف إلا ضلال الطريق"}
+    hints:
+      - "Iniquity abounding and men killing one another before the end against Matt 24:10-12; the hadith's 'killer does not know why he killed' has no counterpart there."
+  - id: hadith-65-silk-wine-music-transformation
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Those who make lawful fornication, silk, wine and music; a camp destroyed by night, others turned to apes and swine
+    read: ["Jāmiʿ 65:8431.2"]
+    tags:
+      - {motif: silk-wine-music-made-lawful-then-transformed, refs: ["Jāmiʿ 65:8431.2"], note: "يستحلون الحر والحرير والخمر والمعازف ... فيبيّتهم اللَّه، ويضع العلم، ويمسخ آخرين قردة وخنازير إلى يوم القيامة"}
+  - id: hadith-65-fifty-women-one-man
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Anas's last report - fifty women to one guardian
+    read: ["Jāmiʿ 65:8431.3"]
+    tags:
+      - {motif: fifty-women-one-guardian, refs: ["Jāmiʿ 65:8431.3"], note: "ويذهب الرجال، وتبقى النساء حتى يكون لخمسين امرأة قيم واحد"}
+      - {motif: usury-fornication-wine-appear, refs: ["Jāmiʿ 65:8431.3"], note: "أن يرفع العلم، ويظهر الجهل، ويفشو الزنا، ويشرب الخمر"}
+  - id: hadith-65-harj-kill-neighbour
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Al-harj is not killing polytheists but one another, neighbour and cousin; minds removed
+    read: ["Jāmiʿ 65:8432.1"]
+    tags:
+      - {motif: harj-is-killing, refs: ["Jāmiʿ 65:8432.1"], note: "ليس بقتل المشركين ولكن يقتل بعضكم بعضا حتى يقتل الرجل جاره، وابن عمه، وذا قرابته"}
+      - {motif: minds-taken-dust-of-people-left, refs: ["Jāmiʿ 65:8432.1"], note: "تنزع عقول أكثر ذلك الزمان، ويخلف له هباء من الناس لا عقول لهم"}
+  - id: hadith-65-mating-in-the-road
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: People will copulate in the road like donkeys; the best says 'hide her behind the wall'
+    read: ["Jāmiʿ 65:8432.2-8433.1"]
+    tags:
+      - {motif: mating-in-the-road-like-donkeys, refs: ["Jāmiʿ 65:8432.2", "Jāmiʿ 65:8433.1"], note: "حتى تتسافدوا في الطريق تسافد الحمير"}
+      - {motif: best-says-hide-her-behind-the-wall, refs: ["Jāmiʿ 65:8433.1"], note: "فيكون خيارهم يومئذ من يقول: لو واريتها وراء هذا الحائط"}
+  - id: hadith-65-usury-and-unlawful-wealth
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Usury, fornication and wine appear; no care whether wealth is lawful
+    read: ["Jāmiʿ 65:8433.2-8433.3"]
+    tags:
+      - {motif: usury-fornication-wine-appear, refs: ["Jāmiʿ 65:8433.2"], note: "بين يدي الساعة يظهر الربا، والزنى، والخمر"}
+      - {motif: no-care-whether-wealth-lawful, refs: ["Jāmiʿ 65:8433.3"], note: "لا يبالي المرء بما أخذ المال أَمن حلالٍ أم من حرامٍ"}
+  - id: hadith-65-time-contracts
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Time contracts - the year like a month down to the hour like a burning palm frond
+    read: ["Jāmiʿ 65:8434.1"]
+    tags:
+      - {motif: time-contracts-before-hour, refs: ["Jāmiʿ 65:8434.1"], note: "فتكون السنة كالشهر، ويكون الشهر كالجمعة، وتكون الجمعة كاليوم، ويكون اليوم كالساعة، وتكون الساعة كاحتراق السعفة"}
+    hints:
+      - "Days shortened before the end against Matt 24:22, 'except those days should be shortened'; here the shortening is of time's felt length, year to month to week."
+  - id: hadith-65-greeting-trade-and-pen
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Greeting only acquaintances; trade spreads until the wife helps; the pen spreads; false witness; the clan's merchant and no scribe
+    read: ["Jāmiʿ 65:8434.2-8435.2"]
+    tags:
+      - {motif: greeting-only-for-acquaintance, refs: ["Jāmiʿ 65:8434.2", "Jāmiʿ 65:8435.1"], note: "أن يسلم الرجل على الرجل، لا يسلم عليه إلا للمعرفة; فمر رجل يسرع، فقال: عليكم السلام يا أبا عبد الرحمن، فقال: صدق اللَّه"}
+      - {motif: wife-helps-husband-in-trade-pen-spreads, refs: ["Jāmiʿ 65:8435.1"], note: "وفشو التجارة حتى تعين المرأة زوجها على التجارة، وقطع الأرحام، وفشو القلم، وظهور الشهادة بالزور، وكتمان شهادة الحق"}
+      - {motif: seller-consults-merchant-scribe-not-found, refs: ["Jāmiʿ 65:8435.2"], note: "ويبيع الرجل البيع، فيقول: لا حتى أستأمر تاجر بني فلان، ويلتمس في الحي العظيم الكاتب فلا يوجد"}
+  - id: hadith-65-deceptive-years
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Obscenity and broken kinship; deceptive years and al-ruwaybiḍa
+    read: ["Jāmiʿ 65:8435.3-8436.1"]
+    tags:
+      - {motif: deceptive-years-ruwaybida-speaks, refs: ["Jāmiʿ 65:8435.3", "Jāmiʿ 65:8436.1"], note: "قبل الساعة سنون خداعة، يكذب فيها الصادق، ويصدق فيها الكاذب، ويخون فيها الأمين، ويؤتمن فيها الخائن، وينطق فيها الرويبضة"}
+  - id: hadith-65-women-many-men-few
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Women many, men few - fifty to one guardian; forty following one man; gold alms with no taker
+    read: ["Jāmiʿ 65:8437.1-8437.2"]
+    tags:
+      - {motif: fifty-women-one-guardian, refs: ["Jāmiʿ 65:8437.1"], note: "وتَكْثُرَ النّساءُ، ويقلَّ الرِّجالُ، حتى يكون لخمسين امرأةً القيِّمُ الواحدُ"}
+      - {motif: forty-women-follow-one-man, refs: ["Jāmiʿ 65:8437.2"], note: "وَيُرَى الرَّجُلُ الْوَاحِدُ يَتْبَعُهُ أَرْبَعُونَ امْرَأَةً يَلُذْنَ بِهِ"}
+      - {motif: rich-man-cannot-find-taker-for-alms, refs: ["Jāmiʿ 65:8437.2"], note: "يَطُوفُ الرَّجُلُ فِيهِ بِالصَّدَقَةِ مِنْ الذَّهَبِ ثُمَّ لا يَجِدُ أَحَدًا يَأْخُذُهَا مِنْهُ"}
+    hints:
+      - "Many women clinging to one man for want of men against Isa 4:1, 'seven women shall take hold of one man ... let us be called by thy name'."
+  - id: hadith-65-mosques-and-houses
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Vying over mosques; houses adorned like striped cloaks
+    read: ["Jāmiʿ 65:8437.3-8438.1"]
+    tags:
+      - {motif: vying-in-mosques, refs: ["Jāmiʿ 65:8437.3"], note: "لا تقوم الساعةُ حتى يَتَبَاهَى الناسُ في المساجد"}
+      - {motif: houses-striped-like-cloaks, refs: ["Jāmiʿ 65:8438.1"], note: "حتى يبني الناس بيوتا، يشبّهونها بالمراحل"}
+  - id: hadith-65-knowledge-from-the-young
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Knowledge sought from the young
+    read: ["Jāmiʿ 65:8438.2"]
+    tags:
+      - {motif: knowledge-sought-from-the-young, refs: ["Jāmiʿ 65:8438.2"], note: "إنّ من أشراط السّاعة ثلاثًا: إحداهنّ أن يلتمس العلم عند الأصاغر"}
+  - id: hadith-65-tribes-join-idolaters
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Tribes join the idolaters; thirty liars; the hips of Daws sway round Dhū l-Khalaṣa
+    read: ["Jāmiʿ 65:8438.3-8439.1"]
+    tags:
+      - {motif: tribes-join-idolaters-and-worship-idols, refs: ["Jāmiʿ 65:8438.3"], note: "حتى تلحق قبائل من أمتي بالمشركين، وحتى يعبدوا الأوثان"}
+      - {motif: thirty-liars-claim-prophethood, refs: ["Jāmiʿ 65:8438.3"], note: "ثلاثون كذابون كلهم يزعم أنه نبي، وأنا خاتم النبيين، لا نبي بعدي"}
+      - {motif: women-of-daws-hips-sway-at-dhul-khalasa, refs: ["Jāmiʿ 65:8439.1"], note: "حتى تضطرب أليات نساء دوس على ذي الخلصة ... طاغية دوس التي كانوا يعبدون في الجاهلية"}
+  - id: hadith-65-thirty-liars
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Liars before the Hour - about thirty, twenty-seven with four women, the men of Yamāma, Ṣanʿāʾ and Ḥimyar
+    read: ["Jāmiʿ 65:8439.2-8440.2"]
+    tags:
+      - {motif: thirty-liars-claim-prophethood, refs: ["Jāmiʿ 65:8439.2", "Jāmiʿ 65:8439.3", "Jāmiʿ 65:8439.4"], note: "حتى يبعث دجالون كذابون قريب من ثلاثين، كلهم يزعم أنه رسول اللَّه"}
+      - {motif: twenty-seven-liars-four-women, refs: ["Jāmiʿ 65:8440.1"], note: "في أمتي كذابون ودجالون سبعة وعشرون، منهم أربع نسوة، وإني خاتم النبيين"}
+      - {motif: liars-named-yamama-sana-himyar, refs: ["Jāmiʿ 65:8440.2"], note: "منهم: صاحب اليمامة، ومنهم: صاحب صنعاء العنسي، ومنهم: صاحب حمير، ومنهم: الدجال، وهو أعظمهم فتنة"}
+    hints:
+      - "Many false prophets arising before the end against Matt 24:11, 24; the hadith counts them (about thirty; twenty-seven with four women) and names three by region."
+  - id: hadith-65-gabriel-signs-repeat
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Gabriel's question repeated under the bāb on the slave-woman and the shepherds; ʿUmar's version with the white-clad stranger
+    read: ["Jāmiʿ 65:8440.3-8441.1"]
+    quran: ["31:34"]
+    tags:
+      - {motif: gabriel-as-questioner-hour-unknown, refs: ["Jāmiʿ 65:8440.3"], note: "ما المسؤول عنها بأعلم من السائل ... هذا جبريل جاء ليُعلّم الناسَ دينَهم"}
+      - {motif: slave-girl-bears-her-master, refs: ["Jāmiʿ 65:8440.3", "Jāmiʿ 65:8441.1"], note: "أن تلد الأمة ربَّتَها"}
+      - {motif: barefoot-naked-shepherds-vie-in-building, refs: ["Jāmiʿ 65:8441.1"], note: "الحفاة العُراة العالة رِعاء الشاءِ يتطاولون في البنيان"}
+      - {motif: gabriel-as-questioner-hour-unknown, refs: ["Jāmiʿ 65:8441.1"], note: "رجل شديدُ بياض الثّياب شديدُ سواد الشّعر ... \"فإنه جبريل أتاكم يعلّمكم دينكم\""}
+  - id: hadith-65-lukaa-son-of-lukaa
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The world ends with lukaʿ son of lukaʿ happiest in it
+    read: ["Jāmiʿ 65:8441.2-8442.1"]
+    tags:
+      - {motif: world-ends-with-lukaa-son-of-lukaa, refs: ["Jāmiʿ 65:8441.2", "Jāmiʿ 65:8441.3", "Jāmiʿ 65:8442.1"], note: "حتى يكون أسعد الناس بالدنيا لكع بن لكع; يوشك أن يغلب على الدنيا لكع بن لكع بن لكع"}
+      - {motif: best-man-believer-between-two-noble, refs: ["Jāmiʿ 65:8442.1"], note: "وأفضلُ الناسِ مؤمنٌ بين كريمين"}
+  - id: hadith-65-wealth-without-takers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Alms with no taker; the earth vomits pillars of gold
+    read: ["Jāmiʿ 65:8442.2-8443.3"]
+    tags:
+      - {motif: alms-refused-had-you-come-yesterday, refs: ["Jāmiʿ 65:8442.2"], note: "لو جئتنا بها الأمس قبلتُها، فأما الآن، فلا حاجة لي بها"}
+      - {motif: rich-man-cannot-find-taker-for-alms, refs: ["Jāmiʿ 65:8443.1", "Jāmiʿ 65:8443.3"], note: "حتى يهم رب المال من يقبله منه صدقة ... لا أرب لي فيه"}
+      - {motif: earth-vomits-pillars-of-gold-and-silver, refs: ["Jāmiʿ 65:8443.2"], note: "تَقِيءُ الأَرْضُ أَفْلاذَ كَبِدِهَا أَمْثَالَ الأُسْطُوَانِ مِنْ الذَّهَبِ وَالْفِضةِ ... فِي هَذَا قُطِعَتْ يَدِي، ثُمَّ يَدَعُونَهُ"}
+      - {motif: arabia-returns-to-meadows-and-rivers, refs: ["Jāmiʿ 65:8443.3"], note: "وحتى تعود أرض العرب مروجًا وأنهارًا"}
+  - id: hadith-65-euphrates-gold
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Euphrates uncovers a mountain of gold; ninety-nine of every hundred killed over it
+    read: ["Jāmiʿ 65:8443.4-8444.2"]
+    tags:
+      - {motif: euphrates-uncovers-mountain-of-gold, refs: ["Jāmiʿ 65:8443.4", "Jāmiʿ 65:8444.1", "Jāmiʿ 65:8444.2"], note: "يوشك الفرات أن يحسر عن كنز من ذهب، فمن حضره فلا يأخذ منه شيئًا"}
+      - {motif: ninety-nine-of-hundred-killed-over-gold, refs: ["Jāmiʿ 65:8444.1", "Jāmiʿ 65:8444.2"], note: "فيقتل من كل مائة تسعة وتسعون، ويقول كل رجل منهم: لعلّي أكون أنا الذي أنجو"}
+  - id: hadith-65-wolf-speaks
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The speaking wolf sends the shepherd to the prophet; beasts, whip and sandal speak before the Hour
+    read: ["Jāmiʿ 65:8444.3-8445.1"]
+    tags:
+      - {motif: wolf-rebukes-shepherd-for-taking-its-provision, refs: ["Jāmiʿ 65:8444.3", "Jāmiʿ 65:8445.1"], note: "فأقعى الذئب على ذنبه قال: ألا تتقي اللَّه تنزع مني رزقا ساقه اللَّه إلي"}
+      - {motif: wolf-tells-of-prophet-at-yathrib, refs: ["Jāmiʿ 65:8444.3", "Jāmiʿ 65:8445.1"], note: "محمد ﷺ بيثرب يخبر الناس بأنباء ما قد سبق; رجل في النخلات بين الحرتين، يخبركم بما مضى، وبما هو كائن بعدكم"}
+      - {motif: beasts-speak-whip-and-sandal-report-family, refs: ["Jāmiʿ 65:8444.3", "Jāmiʿ 65:8445.1"], note: "حتى يكلم السباعُ الإنسَ، ويكلم الرجل عذبة سوطه، وشراك نعله، ويخبره فخذه بما أحدث أهله بعده"}
+  - id: hadith-65-cow-and-wolf
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The laden cow says she was made for ploughing; the wolf and the day of the beast
+    read: ["Jāmiʿ 65:8445.2"]
+    tags:
+      - {motif: cow-says-created-for-ploughing, refs: ["Jāmiʿ 65:8445.2"], note: "التفتَتْ إليه البقرة فقالت: إني لم أخلق لهذا، ولكني إنما خلقت للحرث"}
+      - {motif: wolf-claims-the-sheep-on-the-day-of-the-beast, refs: ["Jāmiʿ 65:8445.2"], note: "من لها يوم السبع، يوم ليس لها راعٍ غيري"}
+      - {motif: i-believe-it-with-abu-bakr-and-umar, refs: ["Jāmiʿ 65:8445.2"], note: "فإني أومن به وأبو بكر وعمر"}
+    hints:
+      - "A beast of burden turning to speak to the man driving it against Num 22:28-30, Balaam's ass: 'what have I done unto thee, that thou hast smitten me?'"
+  - id: hadith-65-fire-of-hijaz
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A fire from the Hijaz lights the camels' necks at Buṣrā
+    read: ["Jāmiʿ 65:8446.1"]
+    tags:
+      - {motif: fire-in-hijaz-lights-camels-necks-at-busra, refs: ["Jāmiʿ 65:8446.1"], note: "حتى تخرج نار من أرض الحجاز، تُضيء أعناق الإبل ببصرى"}
+  - id: hadith-65-medina-expels-its-worst
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Medina like the bellows expels its worst before the Hour
+    read: ["Jāmiʿ 65:8446.2"]
+    tags:
+      - {motif: medina-better-for-them-if-they-knew, refs: ["Jāmiʿ 65:8446.2"], note: "يدعو الرجل ابن عمه وقريبه: هلم إلى الرخاء، والمدينة خير لهم لو كانوا يعلمون"}
+      - {motif: medina-expels-men-as-fire-dross-from-iron, refs: ["Jāmiʿ 65:8446.2"], note: "حتى تنفي المدينة شرارها كما ينفي الكير خبث الحديد"}
+    hints:
+      - "A city purging its wicked as a furnace purges dross against Ezek 22:18-22 and Isa 1:25 (Jerusalem's dross smelted)."
+  - id: hadith-65-building-over-sal
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abū Dharr told to leave for Quḍāʿa when building rises over Salʿ
+    read: ["Jāmiʿ 65:8446.3"]
+    tags:
+      - {motif: buildings-reach-sal-leave-for-qudaa, refs: ["Jāmiʿ 65:8446.3"], note: "فإذا رأيت البناء علا سلع فالحقْ بالعرب أرض قضاعة"}
+  - id: hadith-65-medina-extends-then-abandoned
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Medina's dwellings reach Ihāb, then it is left to the scavengers; the two Muzayna shepherds; forty years
+    read: ["Jāmiʿ 65:8447.1-8447.3"]
+    tags:
+      - {motif: dwellings-reach-ihab, refs: ["Jāmiʿ 65:8447.1"], note: "تبلغ المساكن إهاب أو يهاب"}
+      - {motif: medina-left-to-wild-beasts-and-birds, refs: ["Jāmiʿ 65:8447.2"], note: "يتركون المدينة على خير ما كانت، لا يغشاها إلا العواف -يريد عوافي السباع والطير-"}
+      - {motif: last-gathered-two-muzayna-shepherds, refs: ["Jāmiʿ 65:8447.2"], note: "وآخر من يحشر راعيان من مزينة يريدان المدينة ينعقان بغنمهما فيجدانها وحشا حتى إذا بلغا ثنية الوداع خرّا على وجوههما"}
+      - {motif: bad-dates-hung-as-alms, refs: ["Jāmiʿ 65:8447.3"], note: "فغمز القنو بالعصا ... إن رب هذه الصدقة ليأكل الحشف يوم القيامة"}
+      - {motif: medina-left-forty-years-to-scavengers, refs: ["Jāmiʿ 65:8447.3"], note: "لتدعنها أربعين عاما للعوافي ... إن هذا لَلذي تسميه العجم، هي الكَرَاكي"}
+  - id: hadith-65-two-great-parties
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Two great parties with one claim
+    read: ["Jāmiʿ 65:8448.1"]
+    tags:
+      - {motif: two-great-parties-one-claim, refs: ["Jāmiʿ 65:8448.1"], note: "حتى تقتتل فئتان عظيمتان، وتكون بينهما مقتلة عظيمة، ودعواهما واحدة"}
+  - id: hadith-65-fighting-the-turks
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Fighting the Turks, Khūz and Kirmān - faces like hammered shields, sandals of hair
+    read: ["Jāmiʿ 65:8448.2-8449.3"]
+    tags:
+      - {motif: turks-small-eyes-shield-faces-hair-sandals, refs: ["Jāmiʿ 65:8448.2", "Jāmiʿ 65:8449.2"], note: "حتى تقاتلوا الترك، صغار الأعين، حمر الوجوه، ذلف الأنوف، كأن وجوههم المجان المطرقة ... قوما نعالهم الشعر"}
+      - {motif: khuz-and-kirman-fought, refs: ["Jāmiʿ 65:8449.1"], note: "حتى تقاتلوا خوزا وكرمان من الأعاجم، حمر الوجوه، فطس الأنوف"}
+      - {motif: eyes-like-locust-eyes-horses-tied-to-palms, refs: ["Jāmiʿ 65:8449.3"], note: "كأن أعينهم حدق الجراد ... ويتخذون الدرق، يربطون خيلهم بالنخل"}
+  - id: hadith-65-qahtani-and-jahjah
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Qaḥṭānī who drives people with his staff; the ruler called al-Jahjāh
+    read: ["Jāmiʿ 65:8450.1-8450.2"]
+    tags:
+      - {motif: qahtani-drives-people-with-staff, refs: ["Jāmiʿ 65:8450.1"], note: "حتى يخرج رجل من قحطان يسوق الناس بعصاه"}
+      - {motif: king-named-jahjah, refs: ["Jāmiʿ 65:8450.2"], note: "حتى يملك رجل يقال له: الجهجاه ... رجل من الموالي يقال له: جهجاه"}
+  - id: hadith-65-conquests-and-romans
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Arabia, Persia, Rome, then the Dajjal; the Romans most numerous at the Hour and their five traits; the six before the Hour
+    read: ["Jāmiʿ 65:8451.1-8452.1"]
+    tags:
+      - {motif: four-words-counted-on-hand, refs: ["Jāmiʿ 65:8451.1", "Jāmiʿ 65:8452.1"], note: "فقمت بينهم وبينه، قال: فحفظت منه أربع كلمات، أعدهن في يدي"}
+      - {motif: conquests-arabia-persia-rome-dajjal, refs: ["Jāmiʿ 65:8451.1", "Jāmiʿ 65:8452.1"], note: "تغزون جزيرة العرب، فيفتحها اللَّه، ثم فارس ... ثم تغزون الروم ... ثم تغزون الدجال، فيفتحه اللَّه"}
+      - {motif: romans-most-numerous-at-hour, refs: ["Jāmiʿ 65:8451.2"], note: "تقوم الساعة والروم أكثر الناس"}
+      - {motif: five-virtues-of-the-romans, refs: ["Jāmiʿ 65:8451.2"], note: "إنهم لأحلم الناس عند فتنة، وأسرعهم إفاقة بعد مصيبة، وأوشكهم كرة بعد فرة، وخيرهم لمسكين ويتيم وضعيف، وخامسة حسنة وجميلة: وأمنعهم من ظلم الملوك"}
+      - {motif: six-before-the-hour-counted-on-the-hand, refs: ["Jāmiʿ 65:8451.3"], note: "ثم هدنة تكون بينكم وبين بني الأصفر، فيغدرون"}
+      - {motif: eighty-banners-twelve-thousand-each, refs: ["Jāmiʿ 65:8451.3"], note: "تحت ثمانين غاية، تحت كل غاية اثنا عشر ألفا"}
+  - id: hadith-65-great-battle-with-rome
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Ibn Masʿūd at Kufa - no inheritance shared; the death-pledged bands; the bird falls dead; the ten horsemen against the Dajjal
+    read: ["Jāmiʿ 65:8452.2"]
+    tags:
+      - {motif: red-wind-at-kufa-hour-come, refs: ["Jāmiʿ 65:8452.2"], note: "هاجت ريح حمراء بالكوفة، فجاء رجل ليس له هجيري إلا يا عبد اللَّه بن مسعود، جاءت الساعة"}
+      - {motif: no-inheritance-shared-no-spoil-rejoiced, refs: ["Jāmiʿ 65:8452.2"], note: "إن الساعة لا تقوم حتى لا يُقسم ميراث، ولا يفرح بغنيمة"}
+      - {motif: death-pledged-band-three-days, refs: ["Jāmiʿ 65:8452.2"], note: "فيشترط المسلمون شرطة للموت لا ترجع إلا غالبة، فيقتتلون حتى يحجز بينهم الليل ... فإذا كان يوم الرابع نهد إليهم بقية أهل الإسلام"}
+      - {motif: bird-falls-dead-passing-the-slain, refs: ["Jāmiʿ 65:8452.2"], note: "حتى إن الطائر ليمر بجنباتهم، فما يخلفهم حتى يخر ميتا"}
+      - {motif: hundred-sons-of-a-father-one-left, refs: ["Jāmiʿ 65:8452.2"], note: "فيتعادُّ بنو الأب، كانوا مائة، فلا يجدونه بقي منهم إلا الرجل الواحد"}
+      - {motif: scream-dajjal-behind-in-families, refs: ["Jāmiʿ 65:8452.2"], note: "فجاءهم الصريخ إن الدجال قد خلفهم في ذراريهم، فيرفضون ما في أيديهم"}
+      - {motif: ten-horsemen-scouts-against-the-dajjal, refs: ["Jāmiʿ 65:8452.2"], note: "فيبعثون عشرة فوارس طليعة ... إني لأعرف أسماءَهم، وأسماء آبائهم، وألوان خيولهم"}
+  - id: hadith-65-rome-at-dabiq
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Romans at al-Aʿmāq or Dābiq; the three thirds; swords on the olives; Jesus leads the prayer and the Dajjal melts (given three times)
+    read: ["Jāmiʿ 65:8453.1", "Jāmiʿ 65:8455.1", "Jāmiʿ 65:8511.1"]
+    tags:
+      - {motif: rome-at-amaq-or-dabiq-thirds, refs: ["Jāmiʿ 65:8453.1", "Jāmiʿ 65:8455.1", "Jāmiʿ 65:8511.1"], note: "حتى ينزل الروم بالأعماق أم بدابق ... فينهزم ثلث لا يتوب اللَّه عليهم أبدًا، ويقتل ثلثهم، أفضل الشهداء عند اللَّه، ويفتتح الثلث، لا يفتنون أبدًا"}
+      - {motif: swords-hung-on-olive-trees, refs: ["Jāmiʿ 65:8453.1"], note: "قد علقوا سيوفهم بالزيتون، إذ صاح فيهم الشيطان: إن المسيح قد خلفكم في أهليكم، فيخرجون، وذلك باطل"}
+      - {motif: jesus-descends-and-leads-them-in-prayer, refs: ["Jāmiʿ 65:8453.1", "Jāmiʿ 65:8455.1", "Jāmiʿ 65:8511.1"], note: "إذ أقيمت الصلاة، فينزل عيسى ابن مريم ﷺ، فأمّهم"}
+      - {motif: dajjal-melts-like-salt-at-jesus, refs: ["Jāmiʿ 65:8453.1", "Jāmiʿ 65:8455.1", "Jāmiʿ 65:8511.1"], note: "فإذا رآه عدو اللَّه ذاب كما يذوب الملح في الماء، فلو تركه لانذاب حتى يهلك"}
+      - {motif: jesus-shows-dajjals-blood-on-spear, refs: ["Jāmiʿ 65:8453.1"], note: "ولكن يقتله اللَّه بيده، فيريهم دمه في حربته"}
+  - id: hadith-65-truce-with-rome
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A secure peace with Rome, a joint raid, the cross broken at the meadow of hills; the Muslim camp at al-Ghūṭa
+    read: ["Jāmiʿ 65:8453.2-8454.1"]
+    tags:
+      - {motif: muslims-and-romans-fight-common-enemy, refs: ["Jāmiʿ 65:8453.2"], note: "تصالحون الروم صلحا آمنا حتى تغزو أنتم وهم عدوًّا من ورائهم، فتُنصرون وتغنمون"}
+      - {motif: cross-victorious-cry-cross-broken, refs: ["Jāmiʿ 65:8453.2"], note: "حتى تنزلوا بمرج ذي تلول، فيقول قائل من الروم: غلب الصليب، ويقول قائل من المسلمين: بل اللَّه غلب، فيثور المسلم إلى صليبهم ... فيدقُّه"}
+      - {motif: eighty-banners-twelve-thousand-each, refs: ["Jāmiʿ 65:8453.2"], note: "فيأتونكم تحت ثمانين غاية، تحت كل غاية اثنا عشر ألفا"}
+      - {motif: muslim-camp-at-ghuta-by-damascus, refs: ["Jāmiʿ 65:8454.1"], note: "إن فسطاط المسلمين يوم الملحمة بالغوطة إلى جانب مدينة يقال لها: دمشق"}
+  - id: hadith-65-city-falls-to-takbir
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Seventy thousand of the sons of Isaac take the city half on land, half on sea, by tahlīl and takbīr
+    read: ["Jāmiʿ 65:8454.2"]
+    tags:
+      - {motif: city-walls-fall-to-tahlil-and-takbir, refs: ["Jāmiʿ 65:8454.2"], note: "حتى يغزوها سبعون ألفا من بني إسحاق، فإذا جاؤوها نزلوا، فلم يقاتلوا بسلاح، ولم يرموا بسهم، قالوا: لا إله إلا اللَّه واللَّه أكبر، فيسقط أحد جانبيها ... ثم يقولوا الثالثة"}
+      - {motif: scream-dajjal-behind-in-families, refs: ["Jāmiʿ 65:8454.2"], note: "إذ جاءهم الصريخ، فقال: إن الدجال قد خرج، فيتركون كل شيء ويرجعون"}
+    hints:
+      - "A city's wall falling at a shout, without weapons, at the third cry, against Josh 6:16-20 (Jericho falls at the shout after the seventh circuit); the attackers here are 'sons of Isaac'."
+  - id: hadith-65-stones-and-trees-speak
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Stone and tree call out the hidden Jew, except the gharqad
+    read: ["Jāmiʿ 65:8456.1-8456.2"]
+    tags:
+      - {motif: stone-and-tree-call-out-hidden-jew, refs: ["Jāmiʿ 65:8456.1", "Jāmiʿ 65:8456.2"], note: "فيقول الحجر أو الشجر: يا مسلم، يا عبد اللَّه، هذا يهودي خلفي، فتعال فاقتله إلا الغرقد فإنه من شجر اليهود"}
+  - id: hadith-65-rain-without-growth
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The true drought is rain with no growth; fifty women to one man; 'this one once had a man'
+    read: ["Jāmiʿ 65:8457.1-8457.2"]
+    tags:
+      - {motif: famine-is-rain-without-growth, refs: ["Jāmiʿ 65:8457.1", "Jāmiʿ 65:8457.2"], note: "ليست السنة بأن لا تمطروا، ولكن السنة أن تمطروا وتمطروا، ولا تنبت الأرض شيئًا"}
+      - {motif: fifty-women-one-guardian, refs: ["Jāmiʿ 65:8457.2"], note: "وحتى يكون لخمسين امرأة القيم الواحد"}
+      - {motif: husband-sees-woman-once-had-a-man, refs: ["Jāmiʿ 65:8457.2"], note: "وحتى إن المرأة لتمر بالبعل، فينظر إليها فيقول: لقد كان لهذه مرة رجل"}
+  - id: hadith-65-thunderbolts-and-quakes
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Thunderbolts and earthquakes multiply
+    read: ["Jāmiʿ 65:8457.3-8458.1"]
+    tags:
+      - {motif: thunderbolts-multiply-who-was-struck, refs: ["Jāmiʿ 65:8457.3"], note: "تكثر الصواعق عند اقتراب الساعة حتى يأتي الرجل القوم فيقول: من صعق تلكم الغداة فيقولون: صعق فلان وفلان"}
+      - {motif: earthquakes-multiply, refs: ["Jāmiʿ 65:8458.1"], note: "حتى يقبض العلم، وتكثر الزلازل"}
+    hints:
+      - "Earthquakes in divers places among the signs against Matt 24:7 / Luke 21:11; the hadith adds thunderbolts so frequent that men ask each morning who was struck."
+  - id: hadith-65-sinking-transformation-pelting
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sinking, transformation and pelting in this community; Ibn ʿUmar withholds his greeting from the innovator
+    read: ["Jāmiʿ 65:8459.1-8459.3"]
+    tags:
+      - {motif: sinking-transformation-pelting-in-community, refs: ["Jāmiʿ 65:8459.1", "Jāmiʿ 65:8459.2", "Jāmiʿ 65:8459.3"], note: "لا تقوم الساعة حتى يكون في أمتي خسف ومسخ وقذف"}
+      - {motif: greeting-refused-to-innovator, refs: ["Jāmiʿ 65:8459.2"], note: "إنه بلغني أنه قد أحدث، فإن كان قد أحدث فلا تقرئه مني السلام"}
+  - id: hadith-65-army-swallowed-at-baida
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The army that makes for the House is swallowed at al-Baydāʾ
+    read: ["Jāmiʿ 65:8462.1-8463.3"]
+    tags:
+      - {motif: army-swallowed-at-the-baida, refs: ["Jāmiʿ 65:8462.1", "Jāmiʿ 65:8462.2", "Jāmiʿ 65:8462.3", "Jāmiʿ 65:8463.1"], note: "يغزو جيش الكعبة فإذا كانوا ببيداء من الأرض، يخسف بأولهم وآخرهم"}
+      - {motif: swallowed-together-raised-on-intentions, refs: ["Jāmiʿ 65:8462.1", "Jāmiʿ 65:8463.1"], note: "فيهم المستبصر، والمجبور، وابن السبيل، يهلكون مهلكا واحدًا، ويصدرون مصادر شتى، يبعثهم اللَّه على نياتهم"}
+      - {motif: prophet-stirs-in-sleep-wonders, refs: ["Jāmiʿ 65:8462.1"], note: "عبث رسول اللَّه ﷺ في منامه ... \"العجب، إن ناسا من أمتي يؤمون بالبيت برجل من قريش، قد لجأ بالبيت"}
+      - {motif: middle-swallowed-one-survivor-tells, refs: ["Jāmiʿ 65:8462.2"], note: "يخسف بأوسطهم، وينادي أولهم آخرهم، ثم يخسف بهم فلا يبقى إلا الشريد الذي يخبر عنهم"}
+      - {motif: refugee-at-the-house-without-defence, refs: ["Jāmiʿ 65:8462.3", "Jāmiʿ 65:8463.1"], note: "سيعوذ بهذا البيت -يعني الكعبة- قوم ليست لهم منعة، ولا عدد ولا عدة"}
+      - {motif: swallowed-army-hour-overshadows, refs: ["Jāmiʿ 65:8463.2"], note: "إذا سمعتم بجيش قد خسف به قريبا، فقد أظلت الساعة"}
+      - {motif: house-raided-until-an-army-swallowed, refs: ["Jāmiʿ 65:8463.3"], note: "لا تنتهي البعوث عن غزو هذا البيت حتى يخسف بجيش منهم"}
+    hints:
+      - "An army swallowed by the earth with only one survivor to tell, against Num 16:31-33 (the earth opens and swallows Korah's company) and Job 1:15-19's lone survivor 'I only am escaped alone to tell thee'."
+  - id: hadith-65-pilgrimage-at-the-end
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Pilgrimage after Gog and Magog; the Hour when the House is no longer visited; Jesus's pilgrim cry at Fajj al-Rawḥāʾ
+    read: ["Jāmiʿ 65:8464.1-8465.1"]
+    tags:
+      - {motif: pilgrimage-continues-after-gog-and-magog, refs: ["Jāmiʿ 65:8464.1"], note: "ليحجن البيت، وليعتمرن بعد خروج يأجوج ومأجوج"}
+      - {motif: hour-not-until-house-not-visited, refs: ["Jāmiʿ 65:8464.2"], note: "لا تقوم الساعة حتى لا يحج البيت"}
+      - {motif: son-of-mary-hails-at-fajj-al-rawha, refs: ["Jāmiʿ 65:8465.1"], note: "ليهلن ابن مريم بفج الروحاء حاجًّا أو معتمرًا أو ليثنينهما"}
+  - id: hadith-65-kaaba-destroyed
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Kaaba pulled down stone by stone by the thin-shanked Abyssinian; demolished twice and lifted at the third; the Ancient House burned
+    read: ["Jāmiʿ 65:8465.2-8466.2"]
+    tags:
+      - {motif: kaaba-wrecked-by-thin-shanked-abyssinian, refs: ["Jāmiʿ 65:8465.2"], note: "يخرب الكعبة ذو السويقتين من الحبشة"}
+      - {motif: black-bandy-legged-man-pulls-kaaba-stone-by-stone, refs: ["Jāmiʿ 65:8465.3"], note: "كأني به أسود أفحج يقلعها حجرًا حجرًا"}
+      - {motif: pledge-between-corner-and-station, refs: ["Jāmiʿ 65:8465.4"], note: "يبايع لرجل ما بين الركن والمقام، ولن يستحل البيت إلا أهله"}
+      - {motif: abyssinians-take-out-its-treasure, refs: ["Jāmiʿ 65:8465.4"], note: "ثم تأتي الحبشة فيخربونه خرابًا لا يعمر بعده أبدًا، وهم الذين يستخرجون كنزه"}
+      - {motif: house-demolished-twice-lifted-third, refs: ["Jāmiʿ 65:8466.1"], note: "استمتعوا من هذا البيت، فإنه قد يُهدَمُ مرتين، ويُرفع في الثالثة"}
+      - {motif: ancient-house-burned, refs: ["Jāmiʿ 65:8466.2"], note: "إذا مرج الدين، وظهرت الرغبة، واختلفت الإخوان، وحرق البيت العتيق"}
+    hints:
+      - "The sanctuary destroyed and its treasure carried off by a foreign people against 2 Kgs 25:9-15 (the Babylonians burn the house of the LORD and take its vessels); 'demolished twice' recalls the two destructions of the Jerusalem temple."
+  - id: hadith-65-wishing-for-the-grave
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Wishing to be in the grave; people will wish for the Dajjal
+    read: ["Jāmiʿ 65:8466.3-8467.2"]
+    tags:
+      - {motif: man-passes-grave-wishes-he-were-in-it, refs: ["Jāmiʿ 65:8466.3"], note: "حتى يمر الرجل بقبر الرجل فيقول: يا ليتني كنت مكانه"}
+      - {motif: rolls-on-grave-wishing-place, refs: ["Jāmiʿ 65:8467.1"], note: "حتى يمر الرجل على القبر، فيتمرغ عليه ... وليس به الدين إلا البلاء"}
+      - {motif: people-will-wish-for-the-dajjal, refs: ["Jāmiʿ 65:8467.2"], note: "ليأتين على أمتي زمان يتمنون فيه الدجال ... مما يلقون من العناء والعناء"}
+    hints:
+      - "Men longing for death rather than life in the last affliction against Rev 9:6, 'in those days shall men seek death, and shall not find it'."
+  - id: hadith-65-wind-and-the-worst
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: A wind takes the believers; the Hour comes on the worst; al-Lāt and al-ʿUzzā worshipped again; the righteous go and dregs remain; none says 'Allāh, Allāh' (Q 9:33, 61:9)
+    read: ["Jāmiʿ 65:8467.3-8471.2"]
+    quran: ["9:33", "61:9"]
+    tags:
+      - {motif: wind-takes-believers-under-armpits, refs: ["Jāmiʿ 65:8467.3"], note: "إذ بعث اللَّه ريحا طيبة، فتأخذهم تحت آباطهم ... ويبقى شرار الناس، يتهارجون فيها تهارج الحمر"}
+      - {motif: band-fights-until-hour, refs: ["Jāmiʿ 65:8468.1"], note: "لا تزال عصابة من أمتي يقاتلون على أمر اللَّه، قاهرين لعدوهم ... حتى تأتيهم الساعة"}
+      - {motif: wind-like-musk-touch-of-silk, refs: ["Jāmiʿ 65:8468.1"], note: "ثم يبعث اللَّه ريحا كريح المسك، مسها مس الحرير"}
+      - {motif: lat-and-uzza-worshipped-again-after-good-wind, refs: ["Jāmiʿ 65:8468.2"], note: "لا يذهب الليل والنهار حتى تعبد اللات والعزى ... فيرجعون إلى دين آبائهم"}
+      - {motif: dajjal-forty-then-jesus-kills-him, refs: ["Jāmiʿ 65:8468.3"], note: "فيمكث أربعين -لا أدري أربعين يومًا أو أربعين شهرًا أو أربعين عامًا- فيبعث اللَّه عيسى ابن مريم، كأنه عروة بن مسعود"}
+      - {motif: cold-wind-from-syria-takes-every-believer, refs: ["Jāmiʿ 65:8468.3"], note: "ثم يرسل اللَّه ريحا باردة من قبل الشام ... حتى لو أن أحدكم دخل في كبد جبل لدخلته عليه"}
+      - {motif: yemen-wind-softer-than-silk, refs: ["Jāmiʿ 65:8469.1"], note: "إن اللَّه يبعث ريحًا من اليمن ألينَ من الحرير"}
+      - {motif: hour-only-on-worst-people, refs: ["Jāmiʿ 65:8469.2"], note: "لا تقوم الساعة إلا على شرار الناس"}
+      - {motif: worst-are-those-alive-at-hour-and-grave-mosques, refs: ["Jāmiʿ 65:8469.3"], note: "إن من شرار الناس من تدركه الساعة، وهم أحياء، ومن يتخذ القبور مساجد"}
+      - {motif: righteous-go-one-by-one-dregs-remain, refs: ["Jāmiʿ 65:8470.1"], note: "يذهب الصالحون الأول فالأول، ويبقى حفالة كحفالة الشعير أو التمر لا يباليهم اللَّه بالة"}
+      - {motif: sifted-like-dates-die-if-you-can, refs: ["Jāmiʿ 65:8470.2"], note: "لتنتقون كما ينتقى التمر من أغفاله، فليذهبن خياركم، وليبقين شراركم، فموتوا إن استطعتم"}
+      - {motif: no-one-says-allah-allah, refs: ["Jāmiʿ 65:8471.1"], note: "لا تقوم الساعة حتى لا يقال في الأرض: اللَّه اللَّه"}
+      - {motif: hour-on-dregs-of-people, refs: ["Jāmiʿ 65:8471.2"], note: "لا تقوم الساعة إلا على حثالة الناس"}
+  # ============== the major signs
+  - id: hadith-65-ten-major-signs
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The ten signs (Ḥudhayfa b. Asīd); signs as beads on a string
+    read: ["Jāmiʿ 65:8472.1-8472.2"]
+    tags:
+      - {motif: ten-major-signs-listed, refs: ["Jāmiʿ 65:8472.1"], note: "إنّها لن تقوم حتى ترون قبلها عشر آيات ... وثلاث خسوف ... وآخر ذلك نار تخرج من اليمن تطرد النّاس إلى محشرهم"}
+      - {motif: signs-like-beads-on-broken-string, refs: ["Jāmiʿ 65:8472.2"], note: "الأمارات خرزات منظومات بسلك، فإذا انقطع السلك تبع بعضه بعضا"}
+  - id: hadith-65-smoke-sign
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The first sign, the smoke - given only by the 'hasten six' hadith
+    read: ["Jāmiʿ 65:8473.1"]
+    tags:
+      - {motif: hasten-deeds-before-six-signs, refs: ["Jāmiʿ 65:8473.1"], note: "بادروا بالأعمال سِتًّا: الدجال، والدخان، ودابة الأرض"}
+  - id: hadith-65-dajjal-one-eyed
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Dajjal one-eyed with k-f-r on his brow; his paradise and fire, his water and fire; none greater since Adam; flight to the mountains; every prophet warned
+    read: ["Jāmiʿ 65:8473.2-8475.2"]
+    tags:
+      - {motif: dajjal-one-eyed-god-not, refs: ["Jāmiʿ 65:8473.2", "Jāmiʿ 65:8475.2"], note: "ألا إنه أعور، وإن ربكم ليس بأعور"}
+      - {motif: dajjal-has-kafir-written-between-eyes, refs: ["Jāmiʿ 65:8473.2", "Jāmiʿ 65:8473.3", "Jāmiʿ 65:8474.3", "Jāmiʿ 65:8475.1"], note: "ومكتوب بين عينيه: ك ف ر"}
+      - {motif: kafir-spelled-k-f-r, refs: ["Jāmiʿ 65:8473.3", "Jāmiʿ 65:8474.3"], note: "مكتوب بين عينيه كافر، ثم تهجاها ك ف ر، يقرؤه كل مسلم; يقرؤه كل مؤمن كاتب وغير كاتب"}
+      - {motif: every-prophet-warned-of-the-dajjal-noah-first, refs: ["Jāmiʿ 65:8473.2", "Jāmiʿ 65:8473.4", "Jāmiʿ 65:8475.2"], note: "ما من نبي إلا وقد أنذر أمته الأعور الكذاب; لقد أنذره نوح قومه"}
+      - {motif: dajjal-warned-as-noah-warned, refs: ["Jāmiʿ 65:8473.4"], note: "وإني أنذرتكم به كما أنذر به نوح قومه"}
+      - {motif: dajjals-paradise-is-fire, refs: ["Jāmiʿ 65:8473.4", "Jāmiʿ 65:8474.4"], note: "يجيء معه مثل الجنة والنار، فالتي يقول: إنها الجنة، هي النار; معه جنةٌ ونارٌ، فنارُه جنةٌ، وجنته نارٌ"}
+      - {motif: no-creature-greater-than-dajjal, refs: ["Jāmiʿ 65:8473.5"], note: "ما بين خلق آدم إلى قيام الساعة خلق أكبر من الدجال"}
+      - {motif: people-flee-dajjal-to-mountains-arabs-few, refs: ["Jāmiʿ 65:8474.1"], note: "ليفرن الناس من الدجال في الجبال ... فأين العرب يومئذ؟ قال: \"هم قليل\""}
+      - {motif: dajjals-water-is-fire-fall-into-fire, refs: ["Jāmiʿ 65:8474.2"], note: "فأما الذي يراه الناسُ ماءًا، فنارٌ تحرق، وأما الذي يراه الناس نارًا، فماءٌ باردٌ عذبٌ، فمن أدرك ذلك منكم فليقعْ في الذي يراه نارًا"}
+      - {motif: dajjal-two-rivers-close-eyes-and-drink, refs: ["Jāmiʿ 65:8474.3"], note: "معه نهران يجريان ... فليأت النهر الذي يراه نارًا وليغمض، ثم ليطأطئ رأسه فيشرب منه، فإنه ماء بارد"}
+      - {motif: dajjal-eye-with-thick-nail, refs: ["Jāmiʿ 65:8474.3"], note: "وإن الدجال ممسوح العين، عليها ظفرة غليظة"}
+      - {motif: dajjal-left-eye-blind-thick-hair, refs: ["Jāmiʿ 65:8474.4"], note: "الدجال أعور العين اليسرى، جُفال الشعر"}
+      - {motif: lesser-trials-prepare-for-dajjal, refs: ["Jāmiʿ 65:8475.1"], note: "لفتنة بعضكم أخوف عندي من فتنة الدجال، إنها ليستْ من فتنة صغيرة، ولا كبيرة إلا تضع لفتنة الدجال"}
+      - {motif: dajjal-said-what-no-prophet-said-one-eyed, refs: ["Jāmiʿ 65:8475.2"], note: "ولكن أقول لكم فيه قولا لم يقله نبي لقومه، تعلّموا أنه أعور"}
+    hints:
+      - "Signs that look like the opposite of what they are (fire that is water, paradise that is fire) against 2 Cor 11:14 'Satan himself is transformed into an angel of light' and 2 Thess 2:9-10 'lying wonders'."
+  - id: hadith-65-jesus-and-dajjal-at-the-kaaba
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: In a dream at the Kaaba, Jesus and the Dajjal both circle the House; Ibn ʿUmar - not red but brown
+    read: ["Jāmiʿ 65:8475.3-8476.1"]
+    tags:
+      - {motif: dajjal-blind-right-eye-like-floating-grape, refs: ["Jāmiʿ 65:8475.3", "Jāmiʿ 65:8476.1"], note: "ألا إن المسيح الدجال أعور عين اليمنى، كأن عينه عنبة طافية"}
+      - {motif: jesus-seen-circling-kaaba-hair-dripping, refs: ["Jāmiʿ 65:8475.3", "Jāmiʿ 65:8476.1"], note: "فإذا رجل آدم ... يقطر رأسه ماء واضعا يديه على منكبي رجلين، وهو بينهما يطوف بالبيت ... المسيح ابن مريم"}
+      - {motif: dajjal-circles-kaaba-behind-jesus, refs: ["Jāmiʿ 65:8475.3"], note: "ورأيت وراءه رجلا جعدًا قططًا أعور عين اليمنى كأشبه من رأيت من الناس بابن قطن واضعا يديه على منكبي رجلين يطوف بالبيت"}
+      - {motif: jesus-not-red-but-brown, refs: ["Jāmiʿ 65:8476.1"], note: "لا، واللَّه، ما قال النبي ﷺ لعيسى أحمر ... فإذا رجل آدم سبط الشعر ... فإذا رجل أحمر جسيم جعد الرأس، أعور عينه اليمنى"}
+  - id: hadith-65-dajjal-features
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Messiah of error seen with the Night of Decree; too slight before God for his bread mountains; none sees God until he dies; short and bandy-legged; no prophet described him so
+    read: ["Jāmiʿ 65:8477.1-8478.2"]
+    tags:
+      - {motif: laylat-al-qadr-forgotten-after-quarrel, refs: ["Jāmiʿ 65:8477.1"], note: "أريت ليلة القدر ثم أنسيتها ... فرأيت رجلين يتلاحيان فحجزت بينهما، فأنسيتها فاطلبوها في العشر الأواخر وترًا"}
+      - {motif: dajjal-broad-chest-bald-brow, refs: ["Jāmiʿ 65:8477.1"], note: "فأما مسيح الضلالة فرجل أجلى الجبهة، ممسوح العين اليسرى، عريض النحر كأنه عبد العزى بن قطن"}
+      - {motif: he-is-too-slight-for-god, refs: ["Jāmiʿ 65:8477.2"], note: "إنهم يزعمون أن معه أنهار الماء وجبال الخبز قال: \"هو أهون على اللَّه من ذلك\""}
+      - {motif: kafir-spelled-k-f-r, refs: ["Jāmiʿ 65:8477.3"], note: "إنه مكتوب بين عينيه كافر، يقرؤه من كره عمله، أو يقرؤه كل مؤمن"}
+      - {motif: none-sees-his-lord-until-he-dies, refs: ["Jāmiʿ 65:8477.3"], note: "تعلموا أنه لن يرى أحد منكم ربه ﷿ حتى يموت"}
+      - {motif: dajjal-short-bandy-legged-curly, refs: ["Jāmiʿ 65:8478.1"], note: "إن مسيح الدجال رجل قصير أفحج جعد أعور مطموس العين، ليس بناتئة ولا جحراء"}
+      - {motif: dajjal-said-what-no-prophet-said-one-eyed, refs: ["Jāmiʿ 65:8478.2"], note: "ولأصفنّه صفة لم يصفْها أحدٌ كان قبلي، إنه أعور، وإن اللَّه ﷿ ليس بأعور"}
+  - id: hadith-65-nawwas-dajjal-jesus-gog
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Al-Nawwās b. Samʿān's long hadith - the Dajjal's forty days, Jesus at the white minaret, Gog and Magog at Tiberias, the blessed earth, the wind and the worst (Q 18 opening, 21:96)
+    read: ["Jāmiʿ 65:8478.3"]
+    quran: ["18:1-10", "21:96"]
+    tags:
+      - {motif: prophet-as-dajjals-adversary, refs: ["Jāmiʿ 65:8478.3"], note: "إنْ يخرج وأنا فيكم فأنا حجيجه دونكم، وإنْ يخرج ولستُ فيكم فامرؤ حجيج نفسِه، واللَّهُ خليفتي على كلِّ مسلم"}
+      - {motif: read-opening-of-kahf-to-dajjal, refs: ["Jāmiʿ 65:8478.3"], note: "فمن أدركه منكم فليقرأْ عليه فواتِحَ سُورةِ الكَهْفِ"}
+      - {motif: dajjal-comes-from-path-between-syria-and-iraq, refs: ["Jāmiʿ 65:8478.3"], note: "إنّه خارج خلّة بين الشّام والعراق فعاث يمينًا وعاث شمالًا"}
+      - {motif: dajjal-days-year-month-week, refs: ["Jāmiʿ 65:8478.3"], note: "أربعون يومًا يوم كسنة، ويوم كشهر ويوم كجمعة وسائر أيامه كأيامكم"}
+      - {motif: prayer-measured-in-long-day, refs: ["Jāmiʿ 65:8478.3"], note: "أتكفِينا فيه صلاةُ يومٍ؟ قال: \"لا اقدُرُوا له قدْرَه\""}
+      - {motif: dajjal-rain-for-believers-drought-for-refusers, refs: ["Jāmiʿ 65:8478.3"], note: "فيأمر السّماءَ فتمطر والأرض فتنبت ... فيصبحون مُمْحِلِين ليس بأيديهم شيءٌ من أموالهم"}
+      - {motif: ruin-treasures-follow-like-bee-swarms, refs: ["Jāmiʿ 65:8478.3"], note: "ويَمرُّ بالخَرِبَة فيقول لها: أخْرجِي كنوزَك فتتبعه كنوزُها كيعاسيب النّحلِ"}
+      - {motif: dajjal-cuts-youth-in-two-and-calls-him, refs: ["Jāmiʿ 65:8478.3"], note: "ثم يدْعُو رَجُلًا ممتلئا شبابًا فيضربه بالسّيف فيفطعه جزلَتَيْن رَمْيةَ الغَرَضِ. ثم يدعوه فيقبلُ ويتهلّلُ وجهُه يَضحَكُ"}
+      - {motif: jesus-descends-at-white-minaret-east-of-damascus, refs: ["Jāmiʿ 65:8478.3"], note: "فينزل عند المنارة البيضاء شرقي دمشق بين مَهْرُودَتَيْن واضعًا كَفَّيْه على أَجنحةِ مَلَكَيْن إذا طأطأَ رأْسَهُ قَطَر، وإذا رفعه تحدر منه جُمانٌ كاللُّؤْلُؤِ"}
+      - {motif: jesus-breath-kills-unbelievers-to-horizon, refs: ["Jāmiʿ 65:8478.3"], note: "فلا يَحل لكافرِ يجدُ ريحَ نفسه إلّا مات، ونَفَسُه ينتهي حيث ينتهي طرْفُه"}
+      - {motif: jesus-kills-dajjal-at-gate-of-lydda, refs: ["Jāmiʿ 65:8478.3"], note: "فيطلُبُه حتى يُدْركَه بباب لُدٍّ، فَيَقْتُلَه"}
+      - {motif: jesus-wipes-faces-tells-ranks, refs: ["Jāmiʿ 65:8478.3"], note: "فَيَمْسحُ عن وُجُوههم ويُحدِّثهم بدرجَاتِهم في الجنة"}
+      - {motif: believers-taken-to-the-tur, refs: ["Jāmiʿ 65:8478.3"], note: "إنّي قد أخرجتُ عبادًا لي، لا يَدَانِ لأحدٍ بقتالهم فحَرِّزْ عِبادي إلى الطُّور"}
+      - {motif: gog-magog-drink-lake-tiberias, refs: ["Jāmiʿ 65:8478.3"], note: "فيمرُّ أَوائِلُهم على بُحيرةِ طَبَريَّةَ فيشربون ما فيها، ويمرُّ آخرُهم فيقولون: لقد كان بهذه مرّةً ماءٍ"}
+      - {motif: ox-head-better-than-hundred-dinars, refs: ["Jāmiʿ 65:8478.3"], note: "حتى يكونَ رأسُ الثّور لأحدهم خيرًا من مائة دينار لأحدكم اليوم"}
+      - {motif: gog-magog-killed-by-neck-worms, refs: ["Jāmiʿ 65:8478.3"], note: "فيرسل اللَّه عليهمُ النَّغَفَ في رقابِهم فيصبحون فَرْسَى كموت نفسٍ واحدةٍ"}
+      - {motif: birds-like-camel-necks-carry-corpses, refs: ["Jāmiʿ 65:8478.3"], note: "فيرسل اللَّه طيرًا كأعناقِ البُخْت فتحملهم فتطرحهم حيثُ شاء اللَّه"}
+      - {motif: earth-washed-like-mirror-rain, refs: ["Jāmiʿ 65:8478.3"], note: "ثم يرسل اللَّه مطرًا لا يُكِنّ منه بيتُ مَدر ولا وَبر فيغسلُ الأرض حتى يترُكَها كالزّلَفَةِ"}
+      - {motif: band-eats-pomegranate-shades-in-rind, refs: ["Jāmiʿ 65:8478.3"], note: "فيومئذ تَأْكُلُ العصابة من الرُّمانة، ويستظلون بقِحْفِها ... إنّ اللَّقْحَةَ من الإبل لتكفي الفئام من الناس"}
+      - {motif: wind-takes-believers-under-armpits, refs: ["Jāmiʿ 65:8478.3"], note: "إذ بعث اللَّهُ ريحًا طيّبة فتأخذهم تحت آباطهم ... يتهارجون فيها تهارج الحمر فعليهم تقوم السّاعة"}
+    hints:
+      - "Jesus's breath killing every unbeliever as far as his sight reaches against 2 Thess 2:8, the Lord consuming the lawless one 'with the spirit of his mouth', and Isa 11:4, 'with the breath of his lips shall he slay the wicked'."
+      - "Birds carrying off Gog and Magog's corpses and the land washed clean against Ezek 39:4, 17-20 (birds and beasts called to Gog's flesh) and 39:12-14 (seven months cleansing the land)."
+  - id: hadith-65-jabir-dajjal-donkey
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Jābir - the Dajjal at an ebb of religion, his donkey forty cubits between the ears, devils with him, the siege at the Mountain of Smoke, Jesus calls at dawn; the worst of liars
+    read: ["Jāmiʿ 65:8481.1-8482.1"]
+    tags:
+      - {motif: dajjal-in-ebb-of-religion, refs: ["Jāmiʿ 65:8481.1"], note: "يخرج الدجال في خفقةٍ من الدين، وإدبارٍ من العلم"}
+      - {motif: dajjal-days-year-month-week, refs: ["Jāmiʿ 65:8481.1"], note: "فله أربعون ليلة يسيحها في الأرض اليوم منها كالسنة، واليوم منها كالشهر، واليوم منها كالجمعة"}
+      - {motif: dajjals-donkey-forty-cubits-between-ears, refs: ["Jāmiʿ 65:8481.1"], note: "وله حمار يركبه عرض ما بين أذنيه أربعون ذراعا"}
+      - {motif: dajjal-says-i-am-your-lord, refs: ["Jāmiʿ 65:8481.1"], note: "فيقول للناس: أنا ربكم وهو أعور، وإن ربكم ليس بأعور"}
+      - {motif: angels-guard-gates-of-mecca-and-medina, refs: ["Jāmiʿ 65:8481.1"], note: "يرد كل ماء ومنهل إلا المدينة ومكة، حرمهما اللَّه عليه، وقامت الملائكة بأبوابها"}
+      - {motif: dajjals-paradise-is-fire, refs: ["Jāmiʿ 65:8481.1"], note: "نهر يقول الجنة، ونهر يقول النار، فمن أدخل الذي يسميه الجنة فهو النار"}
+      - {motif: dajjal-devils-speak-to-people, refs: ["Jāmiʿ 65:8481.1"], note: "ويبعث اللَّه معه شياطين، تكلم الناس"}
+      - {motif: dajjal-kills-and-revives-in-appearance, refs: ["Jāmiʿ 65:8481.1"], note: "يأمر السماء فتمطر فيما يرى الناس، ويقتل نفسا ثم يحييها فيما يرى الناس، لا يسلط على غيرها من الناس"}
+      - {motif: muslims-flee-to-mountain-of-smoke, refs: ["Jāmiʿ 65:8481.1"], note: "فيفر المسلمون إلى جبل الدخان بالشام، فيأتيهم، فيحاصرهم فيشتد حصارهم"}
+      - {motif: jesus-calls-at-dawn-come-out-to-the-liar, refs: ["Jāmiʿ 65:8481.1"], note: "ثم ينزل عيسى ابن مريم فينادي من السحر، فيقول: يا أيها الناس ما يمنعكم أن تخرجوا إلى الكذاب الخبيث؟ فيقولون: هذا رجل جني"}
+      - {motif: jesus-declines-to-lead-prayer, refs: ["Jāmiʿ 65:8481.1"], note: "فيقال له: تقدَّمْ يا روح اللَّه، فيقول: ليتقدَّمْ إمامكم، فليصلِّ بكم"}
+      - {motif: dajjal-melts-like-salt-at-jesus, refs: ["Jāmiʿ 65:8481.1"], note: "فحين يرى الكذاب ينماث كما ينماث الملح في الماء"}
+      - {motif: tree-and-stone-call-spirit-of-god, refs: ["Jāmiʿ 65:8481.1"], note: "حتى إن الشجرة والحجر ينادي: يا روح اللَّه، هذا يهودي"}
+      - {motif: dajjal-worst-liar, refs: ["Jāmiʿ 65:8482.1"], note: "الدجال أعور وهو أشد الكذابين"}
+    hints:
+      - "The Dajjal riding a donkey against Zech 9:9, the king who comes 'lowly, and riding upon an ass'."
+      - "Making rain fall and raising the dead 'in what people see', and devils speaking for him, against Rev 13:13-15 (the second beast makes fire fall and gives breath to the image)."
+  - id: hadith-65-abu-umama-dajjal-sermon
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abū Umāma's sermon - prophet then lord; Kahf against his fire as for Abraham; the parents' likeness; the sawn man; the three quakes of Medina; Jesus and the imam; seventy thousand Jews; the peaceable earth; the three years of drought (Q 18 opening, 21:69)
+    read: ["Jāmiʿ 65:8482.2"]
+    quran: ["18:1-10", "21:69"]
+    tags:
+      - {motif: no-trial-since-adam-greater-than-dajjal, refs: ["Jāmiʿ 65:8482.2"], note: "إنه لم تكن فتنة في الأرض منذ ذرأ اللَّه ذرية آدم أعظم من فتنة الدجال"}
+      - {motif: last-prophet-last-community, refs: ["Jāmiʿ 65:8482.2"], note: "وأنا آخر الأنبياء، وأنتم آخر الأمم"}
+      - {motif: prophet-as-dajjals-adversary, refs: ["Jāmiʿ 65:8482.2"], note: "وإن يخرج وأنا بين ظهرانيكم فأنا حجيج لكل مسلم، وإن يخرج من بعدي فكل امريء حجيج نفسه"}
+      - {motif: dajjal-first-claims-prophecy-then-lordship, refs: ["Jāmiʿ 65:8482.2"], note: "إنه يبدؤ فيقول أنا نبي ولا نبي بعدي، ثم يثني فيقول: أنا ربكم، ولا ترون ربكم حتى تموتوا"}
+      - {motif: kahf-makes-dajjals-fire-cool-as-for-abraham, refs: ["Jāmiʿ 65:8482.2"], note: "فمن ابتلي بناره فليستغث باللَّه وليقرأ فواتح الكهف، فتكون عليه بردًا وسلامًا، كما كانت النار على إبراهيم"}
+      - {motif: devils-take-form-of-parents, refs: ["Jāmiʿ 65:8482.2"], note: "أرأيت إن بعثت لك أباك وأمك ... فيتمثل له شيطانان في صورة أبيه وأمه، فيقولان: يا بني اتبعه، فإنه ربك"}
+      - {motif: dajjal-saws-man-in-two, refs: ["Jāmiʿ 65:8482.2"], note: "أن يسلّط على نفس واحدة فيقتلها وينشرها بالمنشار حتى يلقى شقتين ... ويقول له الخبيث: من ربك؟"}
+      - {motif: never-surer-of-you-than-today, refs: ["Jāmiʿ 65:8482.2"], note: "ربي اللَّه وأنت عدو اللَّه، أنت الدجال، واللَّه ما كنت بعد أشد بصيرة بك مني اليوم"}
+      - {motif: refusers-herds-perish, refs: ["Jāmiʿ 65:8482.2"], note: "أن يمر بالحي فيكذبونه، فلا تبقى لهم سائمة إلا هلكت"}
+      - {motif: angels-with-drawn-swords-at-passes, refs: ["Jāmiʿ 65:8482.2"], note: "إلا مكة والمدينة، لا يأتيهما من نقب من نقابهما إلا لقيته الملائكة بالسيوف صلتةً"}
+      - {motif: medina-quakes-three-times-expels-hypocrites, refs: ["Jāmiʿ 65:8482.2"], note: "فترجف المدينة بأهلها ثلاث رجفات ... فتنفي الخبث منها كما ينفي الكير خبث الحديد ويدعى ذلك اليوم يوم الخلاص"}
+      - {motif: imam-steps-back-jesus-hand-between-shoulders, refs: ["Jāmiʿ 65:8482.2"], note: "فرجع ذلك الإمام ينكص يمشي القهقري ليتقدم عيسى يصلى بالناس، فيضع عيسى يده بين كتفيه ثم يقول له تقدم فصلِّ، فإنها لك أقيمت"}
+      - {motif: dajjal-with-seventy-thousand-jews-armed, refs: ["Jāmiʿ 65:8482.2"], note: "ووراءه الدجال، معه سبعون ألف يهودي، كلهم ذو سيف محلى وساج"}
+      - {motif: i-have-a-blow-for-you, refs: ["Jāmiʿ 65:8482.2"], note: "إن لي فيك ضربة لن تسبقني بها، فيدركه عند باب اللد الشرقي فيقتله"}
+      - {motif: everything-speaks-but-gharqad, refs: ["Jāmiʿ 65:8482.2"], note: "لا حجر ولا شجر ولا حائط ولا دابة (إلا الغرقدة فإنها من شجرهم لا تنطق) إلا قال يا عبد اللَّه المسلم هذا يهودي"}
+      - {motif: dajjal-forty-years-like-sparks, refs: ["Jāmiʿ 65:8482.2"], note: "وإن أيامه أربعون سنة، السنة كنصف السنة ... وآخر أيامه كالشررة، يصبح أحدكم على باب المدينة، فلا يبلغ بابها الآخر حتى يمسي"}
+      - {motif: jesus-just-judge-removes-venom-and-enmity, refs: ["Jāmiʿ 65:8482.2"], note: "وتنزع حمة كل ذات حمة حتى يدخل الوليد يده في الحية فلا تضره، وتفر الوليدة الأسد فلا تضرها، ويكون الذئب في الغنم كأنه كلبها"}
+      - {motif: earth-filled-with-peace-as-vessel-with-water, refs: ["Jāmiʿ 65:8482.2"], note: "وتملأ الأرض من السلم كما يملأ الإناء من الماء ... وتضع الحرب أوزارها، وتسلب قريش ملكها"}
+      - {motif: earth-like-silver-platter-grows-as-in-adams-time, refs: ["Jāmiʿ 65:8482.2"], note: "وتكون الأرض كفاثور الفضة تنبت نباتها بعهد آدم حتى يجتمع النفر على القطف من العنب فيشبعهم"}
+      - {motif: ox-dear-horse-cheap, refs: ["Jāmiʿ 65:8482.2"], note: "ويكون الثور بكذا وكذا من المال، وتكون الفرس بالدريهمان ... \"لا يركب لحرب أبدًا\" ... \"تحرث الأرض كلها\""}
+      - {motif: three-years-of-withheld-rain-before-dajjal, refs: ["Jāmiʿ 65:8482.2"], note: "وأن قبل خروج الدجال ثلاث سنوات شداد ... أن تحبس ثلث مطرها ... فتحبس مطرها كله فلا تقطر قطرة"}
+      - {motif: praise-feeds-them-as-food, refs: ["Jāmiʿ 65:8482.2"], note: "التهليل والتكبير والتسبيح والتحميد، ويجري ذلك عليهم مجرى الطعام"}
+    hints:
+      - "The child's hand on the snake, the lion, the wolf among the sheep in Jesus's reign against Isa 11:6-8, 'the wolf also shall dwell with the lamb ... the weaned child shall put his hand on the cockatrice' den'."
+      - "The earth full of peace as a vessel of water against Isa 11:9, 'the earth shall be full of the knowledge of the LORD, as the waters cover the sea'."
+      - "The horse cheap because never ridden to war, the ox dear because it ploughs, against Isa 2:4 / Mic 4:3, swords into ploughshares."
+      - "The man sawn in two and still confessing against the Christian Martyrdom of Isaiah (Ascension of Isaiah 5:1-14) and Heb 11:37 'they were sawn asunder'."
+      - "Three years of withheld rain before the Dajjal against 1 Kgs 17:1 / 18:1 and Luke 4:25, Jas 5:17 (heaven shut three years and six months), and Rev 11:6."
+  - id: hadith-65-asma-dajjal-famine
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Asmāʾ bt. Yazīd - the three years of drought, the camels and kin impersonated, kneading before hunger
+    read: ["Jāmiʿ 65:8485.1"]
+    tags:
+      - {motif: three-years-of-withheld-rain-before-dajjal, refs: ["Jāmiʿ 65:8485.1"], note: "إن بين يديه ثلاث سنين، سنة تمسك السماء ثلث قطرها ... والثالثة تمسك السماء قطرها كله"}
+      - {motif: devil-takes-form-of-camels-and-kin, refs: ["Jāmiʿ 65:8485.1"], note: "أرأيت إن أحييت لك إبلا ... فيتمثل له الشيطان نحو إبله ... فيتمثل له الشيطان نحو أبيه ونحو أخيه"}
+      - {motif: prophet-as-dajjals-adversary, refs: ["Jāmiʿ 65:8485.1"], note: "إن يخرج وأنا حي فأنا حجيجه، وإلا فإن ربي خليفتي من بعدي على كل مؤمن"}
+      - {motif: we-knead-and-hunger-before-baking, refs: ["Jāmiʿ 65:8485.1"], note: "واللَّه إنا لنعجن عجينتنا فما نخبزها حتى نجوع فكيف بالمؤمنين يومئذ؟"}
+      - {motif: praise-feeds-them-as-food, refs: ["Jāmiʿ 65:8485.1"], note: "يجزئهم ما يجزئ أهل السماء من التسبيح والتقديس"}
+  - id: hadith-65-dajjal-features-2
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: White and gleaming, head like a viper; read by unlettered and literate; two angels like prophets at his side; 'this is that man's village'; destroyed at the pass of Afīq
+    read: ["Jāmiʿ 65:8486.1-8487.1"]
+    tags:
+      - {motif: dajjal-white-gleaming-head-like-viper, refs: ["Jāmiʿ 65:8486.1"], note: "أعور هجان أزهر كأن رأسه أصلة، أشبه الناس بعبد العزى بن قطن"}
+      - {motif: dajjal-read-by-unlettered-and-literate, refs: ["Jāmiʿ 65:8486.2"], note: "الدجال أعور بعين الشمال، بين عينيه مكتوب: كافر يقرؤه الأمي والكاتب"}
+      - {motif: dajjal-eye-with-thick-nail, refs: ["Jāmiʿ 65:8487.1"], note: "وهو أعوَرُ عينه اليسرى، بعينه اليُمْنى ظَفَرَةٌ غَلِيظَةٌ"}
+      - {motif: two-angels-like-prophets-with-dajjal, refs: ["Jāmiʿ 65:8487.1"], note: "معه ملكان من الملائكة يُشبهان نبيّين من الأنبياء ... فيقول له أحد الملكين: كذبتَ، ما يسمعه أحدٌ من الناس إلّا صاحبُه فيقول له: صدقتَ فيسمعه الناس"}
+      - {motif: this-is-that-mans-village, refs: ["Jāmiʿ 65:8487.1"], note: "حتى يأتي المدينة فلا يؤذن له فيها فيقول: هذه قريةُ ذلك الرجل، ثم يسير حتى يأتي الشّام فيهلكه اللَّه ﷿ عند عَقَبة أَفِيقٍ"}
+  - id: hadith-65-dajjal-from-the-east
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: From the Jewry of Isfahan, from Khurāsān, from the east; Medina's seven gates; Jesus forty years a just imam
+    read: ["Jāmiʿ 65:8487.2-8488.2"]
+    tags:
+      - {motif: aisha-weeps-at-thought-of-dajjal, refs: ["Jāmiʿ 65:8487.2"], note: "ذكرت الدّجال فبكيت ... \"إن يخرج الدّجال، وأنا حي كفيتكموه\""}
+      - {motif: dajjal-from-jewry-of-isfahan, refs: ["Jāmiʿ 65:8487.2"], note: "إنّه يخرج في يهودية أصبهان، حتى يأتي المدينة"}
+      - {motif: medina-seven-gates-two-angels-each, refs: ["Jāmiʿ 65:8487.2"], note: "ولها يومئذ سبعة أبواب، على كلّ نقب منها ملكان"}
+      - {motif: jesus-kills-dajjal-at-gate-of-lydda, refs: ["Jāmiʿ 65:8487.2"], note: "حتى يأتي فلسطين باب لُدَّ، فينزل عيسى ﵇ فيقتله"}
+      - {motif: jesus-remains-forty-years-just-imam, refs: ["Jāmiʿ 65:8487.2"], note: "ثم يمكث عيسى ﵇ في الأرض أربعين سنة إمامًا عدْلًا وحكمًا مقْسطًا"}
+      - {motif: dajjal-from-khurasan-shield-faced-followers, refs: ["Jāmiʿ 65:8488.1", "Jāmiʿ 65:8488.2"], note: "الدجال يخرج من أرض بالمشرق يقال لها: خراسان يتبعه أقوام كأنّ وجوههم المجان المطرقة; يخرج الدجال من هاهنا، وأشار نحو المشرق"}
+  - id: hadith-65-dajjal-hubuk-and-abu-tufayl
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Ḥubuk, ḥubuk, ḥubuk; the formula that disarms him; the green-glass eye; the false alarm at Kufa and Ḥudhayfa b. Asīd's account
+    read: ["Jāmiʿ 65:8489.1-8489.3"]
+    tags:
+      - {motif: dajjal-head-hubuk-thrice, refs: ["Jāmiʿ 65:8489.1"], note: "إن من بعدكم الكذاب المضل، وإن رأسه من بعده حُبُكٌ حُبُكٌ حُبُكٌ -ثلاث مرات-"}
+      - {motif: formula-against-dajjal-our-lord-is-god, refs: ["Jāmiʿ 65:8489.1"], note: "فمن قال: لستَ ربنا، لكن ربنا اللَّه، عليه توكلنا، وإليه أنبنا، نعوذ باللَّه من شرِّكَ، لم يكن له عليه سلطان"}
+      - {motif: dajjal-eye-like-green-glass, refs: ["Jāmiʿ 65:8489.2"], note: "إحدى عينيه كأنها زجاجة خضراء، وتعوذوا باللَّه ﵎ من عذاب القبر"}
+      - {motif: rumour-at-kufa-dajjal-out-lie-of-dyer, refs: ["Jāmiʿ 65:8489.3"], note: "هذا الدجال قد خرج وأهل الكوفة يطاعنونه ... فنودي أنها كذبة صباغ"}
+      - {motif: children-would-pelt-dajjal, refs: ["Jāmiʿ 65:8489.3"], note: "إن الدجال لو خرج في زمانكم لرمته الصبيان بالخذف"}
+      - {motif: earth-folded-for-dajjal-like-ram-fleece, refs: ["Jāmiʿ 65:8489.3"], note: "فتطوى له الأرض طي فروة الكبش"}
+      - {motif: only-donkey-serves-dajjal-filth-on-filth, refs: ["Jāmiʿ 65:8489.3"], note: "ولا يسخر له من المطايا إلا الحمار فهو رجس على رجس"}
+      - {motif: be-like-ibn-labun-no-back-no-udder, refs: ["Jāmiʿ 65:8489.3"], note: "فكن كابن اللبون لا ظهر فيركب ولا ضرع فيحلب"}
+  - id: hadith-65-samura-dajjal-heals
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Samura - the Dajjal heals the blind and leper and gives life; Jesus comes from the west confirming Muḥammad
+    read: ["Jāmiʿ 65:8490.1"]
+    tags:
+      - {motif: dajjal-eye-with-thick-nail, refs: ["Jāmiʿ 65:8490.1"], note: "وهو أعور عين الشمال، عليها ظفرة غليظة"}
+      - {motif: dajjal-heals-blind-leper-revives-dead, refs: ["Jāmiʿ 65:8490.1"], note: "وإنه يبرئُ الأكْمه والأبْرص، ويحيى الموتى، ويقول للناس: أنا ربّكم"}
+      - {motif: jesus-comes-from-the-west-confirming-muhammad, refs: ["Jāmiʿ 65:8490.1"], note: "ثم يجيء عيسى ابن مريم من قبل المغرب مصدّقًا بمحمّد وعلى ملّته، فيقتل الدّجال، ثم إنما هو قيام الساعة"}
+    hints:
+      - "The Dajjal is given the very miracles Q 3:49 and 5:110 give Jesus (healing the born-blind and the leper, reviving the dead), as in Matt 24:24 false christs 'shall shew great signs and wonders'."
+  - id: hadith-65-isfahan-jews
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Seventy thousand Jews of Isfahan in ṭayālisa follow the Dajjal
+    read: ["Jāmiʿ 65:8492.1"]
+    tags:
+      - {motif: seventy-thousand-isfahan-jews-in-taylasans, refs: ["Jāmiʿ 65:8492.1"], note: "يتبع الدجال من يهود أصبهان سبعون ألفا عليهم الطيالسة"}
+  - id: hadith-65-dajjal-barred-from-mecca-medina
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Angels on the passes keep the Dajjal and the plague out of Medina; the believer who is killed, revived and thrown into paradise; four mosques he cannot approach
+    read: ["Jāmiʿ 65:8493.1-8495.1"]
+    tags:
+      - {motif: angels-guard-gates-of-mecca-and-medina, refs: ["Jāmiʿ 65:8493.1", "Jāmiʿ 65:8493.2"], note: "ليس من بلد إلا سيطؤه الدجال إلا مكة والمدينة، ليس له من نقابها نَقْبٌ إلا عليه الملائكة صافّين يحرسونها"}
+      - {motif: medina-quakes-three-times-expels-hypocrites, refs: ["Jāmiʿ 65:8493.1"], note: "ثم ترجف المدينة بأهلها ثلاث رجفاتٍ، فيخرج اللَّهُ كل كافرٍ ومنافقٍ"}
+      - {motif: plague-and-dajjal-kept-from-medina, refs: ["Jāmiʿ 65:8493.2", "Jāmiʿ 65:8493.4"], note: "على أنقاب المدينة ملائكة لا يدخلها الطاعون ولا الدجال"}
+      - {motif: medina-seven-gates-two-angels-each, refs: ["Jāmiʿ 65:8493.3"], note: "لا يدخل المدينةَ رعبُ المسيح الدجال، لها يومئذ سبعة أبواب، على كل بابٍ ملكان"}
+      - {motif: dajjal-camps-at-salt-flat, refs: ["Jāmiʿ 65:8493.5"], note: "فينزل بعض السباخ التي تلي المدينة"}
+      - {motif: best-man-testifies-you-are-the-dajjal, refs: ["Jāmiʿ 65:8493.5"], note: "فيخرج إليه يومئذ رجل وهو خير الناس ... فيقول: أشهد أنك الدجال الذي حدّثنا رسول اللَّه ﷺ حديثه"}
+      - {motif: never-surer-of-you-than-today, refs: ["Jāmiʿ 65:8493.5"], note: "فيقتله ثم يحييه؛ فيقول: واللَّه ماكنت فيك أشد بصيرة مني اليوم، فيريد الدجال أن يقتله فلا يُسلّطُ عليه"}
+      - {motif: dajjals-patrols-say-dont-kill-without-lord, refs: ["Jāmiʿ 65:8494.1"], note: "فتلقاه المسالح مسالح الدجال ... أليس قد نهاكم ربكم أن تقتلوا أحدًا دونه"}
+      - {motif: dajjal-saws-man-in-two, refs: ["Jāmiʿ 65:8494.1"], note: "فيؤشر بالمئشار من مفرقه حتى يفرق بين رجليه، قال: ثم يمشي الدجال بين القطعتين، ثم يقول له: قم فيستوي قائما"}
+      - {motif: neck-turned-to-copper-against-knife, refs: ["Jāmiʿ 65:8494.1"], note: "فيأخذه الدجال ليذبحه، فيجعل ما بين رقبته إلى ترقوته نحاسا فلا يستطيع إليه سبيلا"}
+      - {motif: thrown-into-what-seems-fire-is-paradise, refs: ["Jāmiʿ 65:8494.1"], note: "فيقذف به، فيحسب الناس أنما قذفه إلى النار، وإنما ألقي في الجنة ... هذا أعظم الناس شهادة عند رب العالمين"}
+      - {motif: dajjal-turned-at-uhud-perishes-in-syria, refs: ["Jāmiʿ 65:8494.2"], note: "يأتي المسيح من قبل المشرق، همته المدينة، حتى ينزل دبر أحد، ثم تصرف الملائكة وجهه قبل الشام، وهنالك يهلك"}
+      - {motif: dajjal-shuns-four-mosques, refs: ["Jāmiʿ 65:8495.1"], note: "ولا يقرب أربعة مساجد: مسجد الحرام، ومسجد المدينة، ومسجد الطور، ومسجد الأقصى"}
+      - {motif: dajjal-rains-but-no-tree-grows, refs: ["Jāmiʿ 65:8495.1"], note: "وإنه يمطر المطر، ولا ينبت الشجر"}
+      - {motif: dajjal-days-year-month-week, refs: ["Jāmiʿ 65:8495.1"], note: "وإنه يمكث في الأرض أربعين صباحا، يبلغ فيها كل منهل"}
+  - id: hadith-65-protection-from-dajjal
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Ten verses of al-Kahf; refuge in prayer; keep far from him (Q 18:1-10)
+    read: ["Jāmiʿ 65:8495.2-8496.1"]
+    quran: ["18:1-10"]
+    tags:
+      - {motif: ten-verses-of-kahf-protect-from-dajjal, refs: ["Jāmiʿ 65:8495.2"], note: "من حفظ عشر آيات من أول سورة الكهف عُصِم من الدجال\". وفي لفظ: \"من آخر الكهف"}
+      - {motif: refuge-from-dajjal-in-prayer, refs: ["Jāmiʿ 65:8495.3"], note: "سمعت رسول اللَّه ﷺ يستعيذ في صلاته من فتنة الدجال"}
+      - {motif: flee-far-from-dajjal, refs: ["Jāmiʿ 65:8496.1"], note: "من سمع بالدجال فلينأ عنه، فواللَّه إن الرجل ليأتيه وهو يحسب أنه مؤمن فيتبعه مما يبعث به من الشبهات"}
+  - id: hadith-65-jassasa
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Fāṭima bt. Qays - the Jassāsa and the chained man on the island (Tamīm al-Dārī's story told from the pulpit)
+    read: ["Jāmiʿ 65:8496.2"]
+    tags:
+      - {motif: remove-to-blind-cousin-not-busy-widow, refs: ["Jāmiʿ 65:8496.2"], note: "لا تفعلي إن أم شريك امرأة كثيرة الضيفان فإني أكره أن يسقط عنك خمارك ... ولكن انتقلي إلى ابن عمك عبد اللَّه بن عمرو بن أم مكتوم"}
+      - {motif: tamim-shipwreck-island-thirty-men, refs: ["Jāmiʿ 65:8496.2"], note: "لأن تميما الداري كان رجلا نصرانيا، فجاء فبايع، وأسلم ... ركب في سفينة بحرية مع ثلاثين رجلا من لخم وجذام، فلعب بهم الموج شهرًا في البحر"}
+      - {motif: jassasa-hairy-beast-front-from-back, refs: ["Jāmiʿ 65:8496.2"], note: "فلقيتهم دابة أهلب كثير الشعر، لا يدرون ما قبله من دبره من كثرة الشعر ... أنا الجساسة"}
+      - {motif: chained-giant-in-monastery, refs: ["Jāmiʿ 65:8496.2"], note: "فإذا فيه أعظم إنسان رأيناه قط خلقا، وأشده وثاقا، مجموعة يداه إلى عنقه ما بين ركبتيه إلى كعبيه بالحديد"}
+      - {motif: baysan-palms-tiberias-zughar-spring, refs: ["Jāmiʿ 65:8496.2"], note: "أخبروني عن نخل بيسان ... أخبروني عن بحيرة الطبرية ... أخبروني عن عين زغر"}
+      - {motif: chained-man-asks-of-unlettered-prophet, refs: ["Jāmiʿ 65:8496.2"], note: "أخبروني عن نبي الأميين ما فعل؟ ... أما إن ذلك خير لهم أن يطيعوه"}
+      - {motif: i-am-the-messiah-leave-to-go-out-soon, refs: ["Jāmiʿ 65:8496.2"], note: "إني أنا المسيح، وإني أوشك أن يؤذن لي في الخروج ... فلا أدع قرية إلا هبطتها في أربعين ليلة غير مكة وطيبة"}
+      - {motif: angels-with-drawn-swords-at-passes, refs: ["Jāmiʿ 65:8496.2"], note: "استقبلني ملك بيده السيف صلتا يصدني عنها، وإن على كل نقب منها ملائكة يحرسونها"}
+      - {motif: this-is-tayba-thrice-staff-on-pulpit, refs: ["Jāmiʿ 65:8496.2"], note: "وطعن بمخصرته في المنبر: \"هذه طيبة، هذه طيبة، هذه طيبة -يعني المدينة-"}
+      - {motif: sea-of-syria-or-yemen-no-east, refs: ["Jāmiʿ 65:8496.2"], note: "ألا إنه في بحر الشام أو بحر اليمن، لا بل من قبل المشرق، ما هو! من قبل المشرق"}
+    hints:
+      - "A great figure bound in iron on a remote island, waiting to be let loose at the end, against Rev 20:1-3, 7 (Satan bound and loosed 'a little season') and 1 Enoch 10:4-5 (Azazel bound hand and foot in the desert)."
+  - id: hadith-65-ibn-sayyad
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Ibn Ṣayyād - tested with the hidden word, overheard in his wrap, the throne on the water, his protests to Abū Saʿīd, swelling with anger, sworn to be the Dajjal
+    read: ["Jāmiʿ 65:8498.1-8504.1"]
+    tags:
+      - {motif: ibn-sayyad-says-messenger-of-unlettered, refs: ["Jāmiʿ 65:8498.1", "Jāmiʿ 65:8499.1", "Jāmiʿ 65:8499.2", "Jāmiʿ 65:8501.1", "Jāmiʿ 65:8501.2"], note: "أشهد أنك رسول الأميين، فقال ابن صياد لرسول اللَّه ﷺ: أتشهد أني رسول اللَّه؟ ... آمنت باللَّه وبرسله"}
+      - {motif: true-and-false-come-to-him, refs: ["Jāmiʿ 65:8498.1", "Jāmiʿ 65:8499.2", "Jāmiʿ 65:8501.2"], note: "يأتيني صادق وكاذب، فقال له رسول اللَّه ﷺ: \"خلط عليك الأمر\""}
+      - {motif: hidden-thing-dukh, refs: ["Jāmiʿ 65:8498.1", "Jāmiʿ 65:8499.1", "Jāmiʿ 65:8501.2"], note: "إني قد خبأت لك خبيئا\"، فقال ابن صياد: هو الدخ، فقال له رسول اللَّه ﷺ: \"اخسأ، فلن تعدو قدرك"}
+      - {motif: if-he-is-him-you-cannot-kill-him, refs: ["Jāmiʿ 65:8498.1", "Jāmiʿ 65:8499.1"], note: "إن يكنه فلن تسلط عليه، وإن لم يكنه فلا خير لك في قتله"}
+      - {motif: prophet-creeps-behind-palms-to-overhear, refs: ["Jāmiʿ 65:8498.1", "Jāmiʿ 65:8501.2"], note: "طفق يتقي بجذوع النخل، وهو يختل أن يسمع من ابن صياد شيئًا ... يا صاف! (وهو اسم ابن صياد) هذا محمد ... \"لو تركتْه بَيَّنَ\""}
+      - {motif: dajjal-said-what-no-prophet-said-one-eyed, refs: ["Jāmiʿ 65:8498.1"], note: "ولكن أقول لكم فيه قولا لم يقله نبي لقومه، تعلَّموا أنه أعور"}
+      - {motif: ibn-sayyad-sees-throne-on-water, refs: ["Jāmiʿ 65:8499.2", "Jāmiʿ 65:8501.1", "Jāmiʿ 65:8501.2"], note: "أرى عرشا على الماء، فقال رسول اللَّه ﷺ: \"ترى عرش إبليس على البحر"}
+      - {motif: soil-of-paradise-white-flour-pure-musk, refs: ["Jāmiʿ 65:8500.1"], note: "أن ابن صيّاد سأل النبي ﷺ عن تربة الجنة فقال: \"درمكة بيضاء، مسك خالص\""}
+      - {motif: ibn-sayyad-thinks-of-hanging-himself, refs: ["Jāmiʿ 65:8500.2"], note: "لقد هممت أن آخذ حبلا فأعلقه بشجرة ثم أختنق مما يقول لي الناس"}
+      - {motif: ibn-sayyad-protests-muslim-has-child, refs: ["Jāmiʿ 65:8500.2"], note: "هو كافر\" وأنا مسلم؟ ... \"هو عقيم لا يولد له\"، وقد تركت ولدي بالمدينة؟ ... \"لا يدخل المدينة ولا مكة\"، وقد أقبلت من المدينة وأنا أريد مكة؟"}
+      - {motif: ibn-sayyad-knows-where-he-is, refs: ["Jāmiʿ 65:8500.2"], note: "أما واللَّه إني لأعرفه، وأعرف مولده، وأين هو الآن ... أيسرك أنك ذاك الرجل؟ قال: فقال: لو عرض علي ما كرهت"}
+      - {motif: if-not-him-no-killing-a-protected-man, refs: ["Jāmiʿ 65:8501.2"], note: "إن يكن هو فلست صاحبه، إنما صاحبه عيسى ابن مريم ﷺ، وإن لا يكن هو فليس لك أن تقتل رجلا من أهل العهد"}
+      - {motif: ibn-sayyad-snorts-like-donkey-eye-swollen, refs: ["Jāmiʿ 65:8503.1"], note: "فلقيته لقيةً أخرى وقد نفرت عينه ... فنخر كأشد نخير حمار سمعت ... أني ضربته بعصا كانت معي حتى تكسرت"}
+      - {motif: ibn-sayyad-swells-to-fill-street, refs: ["Jāmiʿ 65:8503.1"], note: "فقال له قولا أغضبه، فانتفخ حتى ملأ السكة"}
+      - {motif: dajjal-comes-out-from-anger, refs: ["Jāmiʿ 65:8503.1"], note: "إن أول ما يبعثه على الناس غضب يغضبه; إنما يخرج من غضبة يغضبها"}
+      - {motif: jabir-swears-ibn-sayyad-is-dajjal, refs: ["Jāmiʿ 65:8503.2"], note: "رأيت جابر بن عبد اللَّه يحلف باللَّه أن ابن الصائد الدجال ... إني سمعت عمر يحلف على ذلك عند النبي ﷺ فلم ينكره النبي ﷺ"}
+      - {motif: dukh-or-zukh-you-already-differ, refs: ["Jāmiʿ 65:8504.1"], note: "خبأ لابن صياد دخانًا ... فقال بعضهم: \"دخ\" وقال بعضهم بل قال: ديخ ... قد اختلفتم وأنا بين أظهركم، وأنتم بعدي أشد اختلافا"}
+  - id: hadith-65-beast-of-the-earth
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Beast of the earth - at forenoon, branding noses, from the greatest mosque (bāb on Q 27:82)
+    read: ["Jāmiʿ 65:8505.1-8506.1"]
+    quran: ["27:82", "6:158"]
+    tags:
+      - {motif: beast-comes-out-at-forenoon, refs: ["Jāmiʿ 65:8505.1"], note: "إن أول الآيات خروجا طلوع الشمس من مغربها، وخروج الدابة على الناس ضحى، وأيهما ما كانت قبل صاحبتها فالأخرى على أثرها قريبا"}
+      - {motif: three-signs-after-which-faith-avails-not, refs: ["Jāmiʿ 65:8505.2"], note: "ثلاث إذا خرجن لا ينفع نفسا إيمانُها ... طلوع الشمس من مغربها، والدجال، ودابة الأرض"}
+      - {motif: beast-marks-noses-buyer-from-marked, refs: ["Jāmiʿ 65:8505.3"], note: "تخرج الدابة، فتسم الناس على خراطيمهم، ثم يغمرون فيكم حتى يشتري الرجل البعير، فيقول: ممن اشتريته؟ فيقول: اشتريتُه من أحد المخطمين"}
+      - {motif: beast-from-greatest-mosque-earth-cracks, refs: ["Jāmiʿ 65:8506.1"], note: "تخرج الدابة من أعظم المساجد حرمة، فبينا هم قعود إذ رنت الأرض، فبيناهم كذلك إذ تصدعت"}
+    hints:
+      - "A beast that brands people so that buying and selling are done under the mark, against Rev 13:16-17, the mark on hand or forehead without which 'no man might buy or sell'."
+  - id: hadith-65-sun-from-the-west
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The sun from the west - its prostration under the throne and the leave withheld; the gate of repentance seventy years wide (Q 6:158)
+    read: ["Jāmiʿ 65:8506.2-8509.1"]
+    quran: ["6:158"]
+    tags:
+      - {motif: sun-rises-from-west-all-believe, refs: ["Jāmiʿ 65:8506.2"], note: "حتى تطلع الشمس من مغربها فإذا طلعت ورآها الناس يعني آمنوا أجمعون"}
+      - {motif: hour-strikes-mid-trade-mid-meal, refs: ["Jāmiʿ 65:8506.2"], note: "ولتقومن الساعة وهو يليط حوضه فلا يسقي فيه"}
+      - {motif: three-signs-after-which-faith-avails-not, refs: ["Jāmiʿ 65:8507.1"], note: "طلوع الشمس من مغربها، والدجال، ودابة الأرض"}
+      - {motif: sun-prostrates-under-throne-each-night, refs: ["Jāmiʿ 65:8507.2"], note: "إنّ هذه تجري حتى تنتهي إلى مستقرِّها تحت العرش. فتخرُّ ساجدةً ... ارْتفعي، أصبحي طالعةً من مغربك"}
+      - {motif: faith-unaccepted-after-sign-of-the-end, refs: ["Jāmiʿ 65:8507.2", "Jāmiʿ 65:8508.1", "Jāmiʿ 65:8509.1"], note: "ذاك حين ﴿لَا يَنْفَعُ نَفْسًا إِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ"}
+      - {motif: beast-comes-out-at-forenoon, refs: ["Jāmiʿ 65:8507.3"], note: "وخروج الدابة على الناس ضحى"}
+      - {motif: neglect-of-dependants-enough-sin, refs: ["Jāmiʿ 65:8508.1"], note: "كفى إثمًا أن يضيّع الرّجلُ من يقوت"}
+      - {motif: sun-asks-leave-refused-lord-how-far-east, refs: ["Jāmiʿ 65:8508.1"], note: "غربتْ فسلّمتْ وسجدت واستأذنت فلا يؤذن لها، فتقول: أيْ ربّ إنّ المسير بعيد وإني لا يؤذن لي، لا أبلغ ... اطْلعي من حيث غربت"}
+      - {motif: gog-magog-each-leaves-thousand-offspring, refs: ["Jāmiʿ 65:8508.1"], note: "ما يموتُ الرّجلُ منهم حتى يولد له من صلبه ألف، وإنّ من ورائهم ثلاث أمم، ما يعلم عدَّتَهم إلا اللَّه: منسك، وتاويل، وتاويس"}
+      - {motif: repentance-gate-in-west-seventy-years-wide, refs: ["Jāmiʿ 65:8509.1"], note: "إن من قبل مغرب الشمس بابا مفتوحا، عرضه سبعون سنة، فلا يزال ذلك الباب مفتوحا للتوبة حتى تطلع الشمس من نحوه"}
+  - id: hadith-65-descent-of-jesus
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The descent of Jesus - breaks the cross, kills the swine, ends the jizya; the young camels left; forty years and his funeral; the trumpet and the contingent of the fire; not to lead the prayer (Q 4:159)
+    read: ["Jāmiʿ 65:8509.2-8510.2", "Jāmiʿ 65:8511.2-8512.1"]
+    quran: ["4:159", "37:24", "73:17", "68:42"]
+    tags:
+      - {motif: jesus-descends-breaks-cross-kills-swine, refs: ["Jāmiʿ 65:8509.2", "Jāmiʿ 65:8509.3", "Jāmiʿ 65:8511.2"], note: "ليوشكنَّ أن ينزل فيكم ابنُ مريم حكمًا عدلًا، فيكسر الصّليب، ويقتل الخنزير، ويضع الجزية"}
+      - {motif: wealth-overflows-one-prostration-better, refs: ["Jāmiʿ 65:8509.2"], note: "ويفيض المالُ حمتى لا يقبله أحدٌ حتى تكون السّجدة الواحدة خير من الدّنيا وما فيها"}
+      - {motif: young-camels-left-unridden, refs: ["Jāmiʿ 65:8509.3"], note: "ولتتركن القِلاص، فلا يُسعى عليها، ولتذهبن الشحناء والتباغض والتحاسد"}
+      - {motif: jesus-remains-forty-years-just-imam, refs: ["Jāmiʿ 65:8510.1"], note: "ثم يمكث عيسى ﵇ في الأرض أربعين سنة إمامًا عدْلًا وحكمًا مقْسطًا"}
+      - {motif: dajjal-forty-then-jesus-kills-him, refs: ["Jāmiʿ 65:8510.2"], note: "فيبعث اللَّه عيسى ابن مريم، كأنه عروة بن مسعود، فيطلبه، فيهلكه، ثم يمكث الناس سبع سنين، ليس بين اثنين عداوة"}
+      - {motif: cold-wind-from-syria-takes-every-believer, refs: ["Jāmiʿ 65:8510.2"], note: "ثم يرسل اللَّه ريحا باردة من قبل الشام"}
+      - {motif: people-like-birds-in-lightness-beasts-in-mind, refs: ["Jāmiʿ 65:8510.2"], note: "فيبقى شرار الناس في خفة الطير وأحلام السباع، لا يعرفون معروفًا ولا ينكرون منكرًا، فيتمثل لهم الشيطان ... فيأمرهم بعبادة الأوثان"}
+      - {motif: trumpet-heard-tilting-neck, refs: ["Jāmiʿ 65:8510.2"], note: "ثم ينفخ في الصور، فلا يسمعه أحد إلا أصغى لِيتا ورفع ليتا"}
+      - {motif: first-to-hear-trumpet-plastering-his-camels-trough, refs: ["Jāmiʿ 65:8510.2"], note: "وأول من يسمعه رجل يلوط حوض إبله، قال: فيصعق، ويصعق الناس"}
+      - {motif: rain-like-dew-bodies-grow, refs: ["Jāmiʿ 65:8510.2"], note: "مطرًا كأنه الطل أو الظل (نعمان الشاك) فتنبت منه أجساد الناس، ثم ينفخ فيه أخرى، فإذا هم قيام ينظرون"}
+      - {motif: nine-hundred-ninety-nine-of-thousand-to-fire, refs: ["Jāmiʿ 65:8510.2"], note: "أخرجوا بعث النار، فيقال: من كم؟ فيقال: من كل ألف تسعمائة وتسعة وتسعين"}
+      - {motif: no-prophet-between-me-and-jesus, refs: ["Jāmiʿ 65:8511.2"], note: "ليس بيني وبينه نبيٌّ -يعني عيسى ابن مريم- وإنّه نازلٌ، فإذا رأيتموه فاعرفوه"}
+      - {motif: jesus-medium-reddish-white-head-drips-dry, refs: ["Jāmiʿ 65:8511.2"], note: "رجل مربوع إلى الحمرة والبياض بين ممصَّرَتين، كأن رأسه يقطر وإن لم يصبه بلل"}
+      - {motif: god-destroys-all-religions-but-islam, refs: ["Jāmiʿ 65:8511.2"], note: "ويُهلِكُ اللَّهُ في زمانه المللَ كلَّها إلّا الإسلام"}
+      - {motif: jesus-forty-years-dies-muslims-pray-over-him, refs: ["Jāmiʿ 65:8511.2"], note: "فيمكث في الأرض أربعين سنة، ثم يتوفّى، فيصلي عليه المسلمون"}
+      - {motif: some-of-you-commanders-over-others, refs: ["Jāmiʿ 65:8512.1"], note: "فيقول أميرهم: تعال صلِّ لنا. فيقول: لا، إنّ بعضكم على بعض أمراء تكرمةَ اللَّه هذه الأمّة"}
+      - {motif: band-fights-until-hour, refs: ["Jāmiʿ 65:8512.1"], note: "لا تزال طائفةٌ من أمّتي يقاتلون على الحقّ ظاهرين إلى يوم القيامة"}
+    hints:
+      - "Jesus breaking the cross and dying a natural death after forty years with Muslims praying over him, against the Christian expectation of the returning Christ who reigns (Rev 20:4-6, a thousand years) - the same returner, a different reign and end."
+      - "A rain like dew from which the dead grow their bodies against Isa 26:19, 'thy dew is as the dew of herbs, and the earth shall cast out the dead'."
+  - id: hadith-65-mahdi
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The Mahdī - of the prophet's house and Fāṭima's line, his name like the prophet's, filling the earth with justice; the caliph who scoops out wealth; your imam from among you
+    read: ["Jāmiʿ 65:8512.2-8518.3"]
+    tags:
+      - {motif: mahdi-bald-brow-hooked-nose-seven-years, refs: ["Jāmiʿ 65:8512.2", "Jāmiʿ 65:8513.1"], note: "المهدي مني أجلى الجبهة، أقنى الأنف، يملأ الأرض قسطا وعدلا كما ملئت جورًا وظلمًا، ويملك سبع سنين"}
+      - {motif: man-of-my-family-fills-earth-with-justice, refs: ["Jāmiʿ 65:8512.3", "Jāmiʿ 65:8515.1"], note: "ثم يخرج رجل من عِترتي أو من أهل بيتي يملؤها قسطا وعدلا كما ملئت ظلمًا وعدوانًا"}
+      - {motif: mahdi-time-rain-plenty-wealth-correct, refs: ["Jāmiʿ 65:8513.2"], note: "يخرج في آخر أمتي المهدي، يسقيه اللَّه الغيث، وتخرج الأرض نباتها، ويعطي المال صحاحًا، وتكثر الماشية، وتعظم الأمة، يعيش سبعًا أو ثمانيا"}
+      - {motif: mahdi-name-like-prophets-father-like-his-father, refs: ["Jāmiʿ 65:8514.1"], note: "لو لم يبق من الدنيا إلا يوم لطول اللَّه ذلك اليوم حتى يبعمث اللَّه فيه رجلا مني -أو من أهل بيتي- يواطئ اسمه اسمي، واسم أبيه اسم أبي"}
+      - {motif: last-night-a-man-of-the-house-rules, refs: ["Jāmiʿ 65:8514.2"], note: "لو لم يبق من الدنيا إلا ليلة لملك فيها رجل من أهل بيت النبي ﷺ"}
+      - {motif: mahdi-from-children-of-fatima, refs: ["Jāmiʿ 65:8515.2"], note: "المهدي من عترتي، من ولد فاطمة"}
+      - {motif: mahdi-invites-jesus-to-lead, refs: ["Jāmiʿ 65:8516.1", "Jāmiʿ 65:8516.2"], note: "ينزل عيسى ابن مريم فيقول أميرهم المهدي: تعال صلِّ بنا، فيقول: لا، إن بعضهم أمير بعض، تكرمة اللَّه لهذه الأمة"}
+      - {motif: your-imam-from-among-you, refs: ["Jāmiʿ 65:8517.1"], note: "كيف أنتم إذا نزل ابنُ مريم، وإمامُكم منكم؟"}
+      - {motif: caliph-scatters-wealth-without-counting, refs: ["Jāmiʿ 65:8518.1", "Jāmiʿ 65:8518.2", "Jāmiʿ 65:8518.3"], note: "يكون في آخر الزمان خليفة يقسم المال ولا يعده; خليفة يحثو المال حثيا لا يعده عددًا"}
+      - {motif: iraq-and-syria-cut-off-from-tribute, refs: ["Jāmiʿ 65:8518.3"], note: "يوشك أهل العراق ألا يجبى إليهم قفيز ولا درهم ... من قبل العَجَم ... يوشك أهل الشام أن لا يجبى إليهم دينار ولا مُدْي ... من قبل الروم"}
+    hints:
+      - "God lengthening the last day so that the Mahdī may come, against Matt 24:22, where 'for the elect's sake those days shall be shortened' - the same last days, the opposite adjustment."
+  - id: hadith-65-gog-and-magog
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Gog and Magog - Tiberias drunk dry, arrows at heaven, worms on the neck, their weapons burned seven years, the barrier dug daily until 'if God wills', the ring of fingers (bāb on Q 21:96-97, 18:94-96)
+    read: ["Jāmiʿ 65:8519.1-8522.1"]
+    quran: ["21:96-97", "18:94-96"]
+    tags:
+      - {motif: gog-magog-drink-lake-tiberias, refs: ["Jāmiʿ 65:8519.1"], note: "فيمرُّ أَوائِلُهم على بُحيرةِ طَبَريَّةَ فيشربون ما فيها"}
+      - {motif: gog-magog-killed-by-neck-worms, refs: ["Jāmiʿ 65:8519.1"], note: "فيرسل اللَّه عليهمُ النَّغَفَ في رقابِهم فيصبحون فَرْسَى كموت نفسٍ واحدةٍ"}
+      - {motif: jabal-al-khamr-is-jerusalems-mountain, refs: ["Jāmiʿ 65:8519.1"], note: "حتى ينتهوا إلى جبل الخمر -وهو جبل بيت المقدس-"}
+      - {motif: shoot-arrows-at-heaven-return-bloodied, refs: ["Jāmiʿ 65:8519.1", "Jāmiʿ 65:8520.1", "Jāmiʿ 65:8521.1"], note: "هلمَّ فلنقتل من في السماء، فيرمون بنشابهم إلى السماء، فيرد اللَّه عليهم نشابهم مخضوبة دمًا"}
+      - {motif: muslims-burn-gog-weapons-seven-years, refs: ["Jāmiʿ 65:8519.2"], note: "سيوقد المسلمون من قسي يأجوج ومأجوج، ونشا بهم، وأترستهم، سبع سنين"}
+      - {motif: gog-magog-released-at-end, refs: ["Jāmiʿ 65:8520.1"], note: "يفتح يأجوج ومأجوج يخرجون على الناس كما قال اللَّه ﷿: ﴿مِنْ كُلِّ حَدَبٍ يَنْسِلُونَ"}
+      - {motif: gog-magog-drink-lake-tiberias, refs: ["Jāmiʿ 65:8520.1"], note: "حتى إن بعضهم ليمر بالنهر فيشربون ما فيه، حتى يتركوه يبسا ... قد كان هاهنا ماء مرة"}
+      - {motif: volunteer-goes-down-finds-them-dead, refs: ["Jāmiʿ 65:8520.1"], note: "ألا رجل يشري نفسه، فينظر ما فعل هذا العدو ... فيجدهم موتى بعضهم على بعض، فينادي يا معشرالمسلمين، ألا أبشروا"}
+      - {motif: beasts-fatten-on-gog-flesh, refs: ["Jāmiʿ 65:8520.1", "Jāmiʿ 65:8521.1"], note: "فما يكون لها رعي إلا لحومهم، فتشكر عنه; إن دواب الأرض لتسمن شكرًا من لحومهم ودمائهم"}
+      - {motif: gog-magog-dig-barrier-daily, refs: ["Jāmiʿ 65:8521.1"], note: "إن يأجوج ومأجوج ليحفرون السد كل يوم، حتى إذا كادوا يرون شعاع الشمس، قال الذي عليهم: ارجعوا فستحفرونه غدا"}
+      - {motif: gog-will-say-in-sha-allah, refs: ["Jāmiʿ 65:8521.1"], note: "ارجعوا فستحفرونه غدًا إن شاء اللَّه، ويستثني، فيعودون إليه وهو كهيئته حين تركوه"}
+      - {motif: pilgrimage-continues-after-gog-and-magog, refs: ["Jāmiʿ 65:8521.2"], note: "ليحجن البيت وليعتمرن بعد خروج يأجوج ومأجوج"}
+      - {motif: opening-of-barrier-like-this-ninety, refs: ["Jāmiʿ 65:8521.3", "Jāmiʿ 65:8522.1"], note: "ويل للعرب، من شر قد اقترب، فتح اليوم من ردم يأجوج ومأجوج مثل هذه\" -وعقد سفيان تسعين أو مائة-"}
+      - {motif: destroyed-though-righteous-when-filth-abounds, refs: ["Jāmiʿ 65:8521.3"], note: "قيل: أنهلك، وفينا الصالحون؟ قال: \"نعم، إذا كثر الخبث\""}
+    hints:
+      - "The Muslims kindling fires from Gog's bows, arrows and shields for seven years against Ezek 39:9-10, Israel burning Gog's 'shields and bucklers, the bows and the arrows ... seven years'."
+      - "Beasts fattening on Gog's flesh and blood against Ezek 39:17-19, the birds and beasts summoned to 'eat the flesh of the mighty and drink the blood'."
+  - id: hadith-65-three-sinkings
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Three sinkings - east, west and Arabia; a land with Muslims swallowed when filth is most
+    read: ["Jāmiʿ 65:8522.2-8522.3"]
+    tags:
+      - {motif: ten-major-signs-listed, refs: ["Jāmiʿ 65:8522.2"], note: "وثلاث خسوف: خسف بالمشرق، وخسف بالمغرب، وخسف بجزيرة العرب"}
+      - {motif: sinking-in-east-with-muslims, refs: ["Jāmiʿ 65:8522.3"], note: "ذكر في زمان النبي ﷺ خسف قبل المشرق فقال بعض الناس: يا رسول اللَّه، يخسف بأرض فيها المسلمون؟ فقال: \"نعم، إذا كان أكثر أهلها الخبث\""}
+  - id: hadith-65-fire-that-gathers
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The fire that drives people to their gathering - from Aden, from Ḥaḍramawt; ʿAbd Allāh b. Salām's three questions; gathered riding, walking, on their faces (Q 2:97)
+    read: ["Jāmiʿ 65:8522.4-8525.2"]
+    quran: ["2:97"]
+    tags:
+      - {motif: fire-from-aden-moves-and-rests-with-them, refs: ["Jāmiʿ 65:8522.4"], note: "وآخر ذلك نار تخرج من اليمن تطرد النّاس إلى محشرهم ... ونارٌ تخرج من قُعرة عدن ترحل الناس ... تنزل معهم إذا نزلوا، وتقيل معهم إذا قالوا ... وريح تُلقي الناس في البحر"}
+      - {motif: ibn-salam-three-questions, refs: ["Jāmiʿ 65:8523.1"], note: "إنّي سائلُك عن ثلاثٍ لا يعلمهُنّ إلّا نَبيٌّ: فما أوّل أشراط السّاعة؟ وما أوّل طعام أهل الجنة؟ وما ينزع الولد إلى أبيه أو إلى أمه؟"}
+      - {motif: gabriel-enemy-of-jews, refs: ["Jāmiʿ 65:8523.1"], note: "ذاك عدو اليهود من الملائكة فقرأ هذه الآية: ﴿مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ"}
+      - {motif: fire-gathers-from-east-to-west, refs: ["Jāmiʿ 65:8523.1", "Jāmiʿ 65:8523.2"], note: "أمّا أوّل أشراط السّاعة فنار تحشر الناس من المشرق إلى المغرب"}
+      - {motif: first-food-of-paradise-fish-liver-lobe, refs: ["Jāmiʿ 65:8523.1"], note: "وأما أوّل طعام أهل الجنّة فزيادة كبد حوتٍ"}
+      - {motif: whose-fluid-precedes-child-resembles, refs: ["Jāmiʿ 65:8523.1"], note: "وإذا سبق ماءُ الرّجل ماء المرأة نزع الولد، وإذا سبق ماءُ المرأة نزعت"}
+      - {motif: jews-praise-then-revile-ibn-salam, refs: ["Jāmiʿ 65:8523.1"], note: "قالوا: خيرنا وابن خيرنا، وسيّدنا وابن سيدنا ... فقالوا: شرّنا وابن شرنا، وانتقصوه"}
+      - {motif: fire-from-hadramawt-go-to-syria, refs: ["Jāmiʿ 65:8524.1"], note: "ستخرج نار من حضرموت أو من نحو بحر حضرموت قبل يوم القيامة تحشر الناس\". قالوا: يا رسول اللَّه فما تأمرنا؟ قال: \"عليكم بالشام\""}
+      - {motif: gathered-two-three-four-ten-on-a-camel, refs: ["Jāmiʿ 65:8524.2"], note: "يحشر الناس ثلاث طرائق راغبين راهبين، واثنان على بعير، وثلاثة على بعير، وأربعة على بعير، وعشرة على بعير، وتحشر بقيتهم النار، تبيت معهم حيث باتوا، وتقيل معهم حيث قالوا"}
+      - {motif: three-companies-riding-walking-dragged, refs: ["Jāmiʿ 65:8524.3"], note: "أن الناس يحشرون على ثلاثة أفواج: فوج راكبين طاعمين كاسين، وفوج يمشون ويسعون، وفوج تسحبهم الملائكة على وجوههم"}
+      - {motif: orchard-traded-for-old-camel, refs: ["Jāmiʿ 65:8524.3"], note: "يلقي اللَّه الآفة على الظهر حتى لا يبقى ظهر، حتى إن الرجل ليكون له الحديقة المعجبة، فيعطيها بالشارف ذات القتب، فلا يقدر عليها"}
+      - {motif: gathered-on-faces-mouths-bridled, refs: ["Jāmiʿ 65:8525.1", "Jāmiʿ 65:8525.2"], note: "إنكم محشورون رجالا وركبانا، وتجرون على وجوهكم; على أفواهكم الفدام، توفون سبعين أمة، أنتم أخيرهم وأكرمهم على اللَّه"}
+      - {motif: sworn-by-fingers-not-to-follow, refs: ["Jāmiʿ 65:8525.2"], note: "إني حلفت بعدد أصابعي ألا أتبعك ولا أتبع دينك"}
+      - {motif: wifes-right-feed-clothe-no-face-blow, refs: ["Jāmiʿ 65:8525.2"], note: "تطعمها إذا طعمتَ، وتكسوها إذا اكتسيتَ، ولا تضرب الوجهَ، ولا تقبحه، ولا تهجر إلا في البيت"}
+      - {motif: thigh-first-to-speak, refs: ["Jāmiʿ 65:8525.2"], note: "وإن أول ما يعرب على أحدكم فخذه"}
+    hints:
+      - "A fire that drives the people on, halting where they halt and resting at noon where they rest, against Exod 13:21-22 and Num 9:17-23, the pillar of fire and cloud that moves and rests with Israel's camp."
