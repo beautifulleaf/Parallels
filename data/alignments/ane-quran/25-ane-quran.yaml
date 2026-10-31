@@ -13,6 +13,10 @@ new_motifs:
   water-and-the-old-chief-at-the-fugitives-arrival: {label: "The fugitive arriving from Egypt is received at the water by an old chief of a herding people [neutral]", cluster: narrative}
   host-gives-the-fugitive-his-daughter: {label: "The foreign host gives the fugitive from Egypt his daughter in marriage, and on what terms [neutral]", cluster: narrative}
   dreaded-champion-killed-by-one-man: {label: "A champion whom everyone fears is killed by one unlikely man", cluster: narrative}
+  king-and-the-rising-sun: {label: "The rising of the sun is tied to a king, in speech addressed to him [neutral]", cluster: kingship}
+  river-water-at-the-kings-command: {label: "The water of the river of Egypt is said to be at its king's disposal [neutral]", cluster: kingship}
+  hour-at-which-a-town-is-struck: {label: "The hour at which a town is fallen upon: by night, or in the heat of the day [neutral]", cluster: war}
+  submitting-rulers-throne-and-gift-brought-to-the-king: {label: "A submitting ruler's throne and gift are brought to a greater king [neutral]", cluster: kingship}
 reviewed:
 - unit: ane-sinuhe-w1-duel-with-champion
   checked: [quran-26-noah, quran-12-joseph-full, quran-10-noah, quran-2-talut-jalut]
@@ -48,8 +52,42 @@ reviewed:
   checked: [quran-43-zukhruf-pharaoh-claims, quran-10-moses-pharaoh, quran-7-moses-pharaoh]
   matches: []
 - unit: ane-sinuhe-w1-reply-letter
-  checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-17-iblis-and-adam]
-  matches: []
+  checked: [quran-79-pharaoh-and-cosmos, quran-3-sovereignty, quran-17-iblis-and-adam, quran-2-abraham-king, quran-43-zukhruf-pharaoh-claims]
+  matches:
+  - with: quran-2-abraham-king
+    motif: king-and-the-rising-sun
+    refs: ["Sinuhe W1:232", "Sinuhe W1:233"]
+    with_refs: ["2:258"]
+    relation: divergence
+    record:
+      agent: ["Sinuhe, to the king", "Ibrāhīm, to the king"]
+      object: ["the sunrise", "the sunrise"]
+      action: ["says the sun rises for the king's sake", "says God brings the sun from the east and dares the king to bring it from the west"]
+      quoted: ["wbn jtn n mrw,t =k", "fa-inna llāha yaʾtī bi-sh-shamsi mina l-mashriqi fa-ʾti bihā mina l-maghrib"]
+      outcome: ["praise of the king", "the king is confounded (fa-buhita)"]
+    note: "Sinuhe's letter to Senwosret: 'you are he who covers this horizon; the sun disk rises for love of you (wbn jtn n mrw,t =k)' (W1:232-233). Ibrāhīm to the king who argued with him: 'God brings the sun from the east, so bring it from the west', and the unbeliever was dumbfounded (2:258). The rising of the sun tied to a king to his face: as flattery in Egypt, as the test that silences the king in the Quran."
+  - with: quran-2-abraham-king
+    motif: who-gives-life-and-death
+    refs: ["Sinuhe W1:234", "Sinuhe W1:236/3"]
+    with_refs: ["2:258"]
+    relation: divergence
+    record:
+      agent: ["the king, in Sinuhe's words", "the king, in his own words"]
+      action: ["gives the breath by which men live", "claims to give life and cause death"]
+      quoted: ["ṯꜣw m p,t ḫnm.tw =f ḏd =k ... ꜥnḫ =tw m ṯꜣw n dd =k", "qāla ana uḥyī wa-umīt"]
+      outcome: ["accepted as homage", "answered by Ibrāhīm and refuted"]
+    note: "'The air in the sky is breathed when you say so ... one lives on the breath you give' (W1:234, 236/3), Sinuhe to his king. In 2:258 Ibrāhīm says 'my Lord is he who gives life and causes death' and the king answers 'I give life and cause death (ana uḥyī wa-umīt)'. The power of life ascribed to the king: offered by a subject in Egypt, claimed by the king in the Quran and refuted."
+  - with: quran-43-zukhruf-pharaoh-claims
+    motif: river-water-at-the-kings-command
+    refs: ["Sinuhe W1:233/2"]
+    with_refs: ["43:51"]
+    relation: divergence
+    record:
+      agent: ["Sinuhe, of the king of Egypt", "Pharaoh, of himself"]
+      object: ["the water in the river", "these rivers"]
+      quoted: ["mw m jtr,w swrj.tw =f mri̯ =k", "wa-hādhihi l-anhāru tajrī min taḥtī"]
+      outcome: ["praise of the king", "the boast of a people led astray (fa-stakhaffa qawmahu)"]
+    note: "Sinuhe to the king of Egypt: 'the water in the river (jtr,w), it is drunk when you wish' (W1:233/2). Pharaoh to his people: 'is not the kingdom of Egypt mine, and these rivers (al-anhār) flowing beneath me?' (43:51). The river of Egypt at the disposal of its king: a courtier's homage in one, Pharaoh's own boast, condemned, in the other."
 - unit: ane-sinuhe-w1-return-and-audience
   checked: [quran-3-sovereignty, quran-20-moses-pharaoh-magicians, quran-17-iblis-and-adam]
   matches: []
@@ -430,14 +468,39 @@ reviewed:
   checked: [quran-3-sovereignty, quran-28-qarun, quran-7-moses-pharaoh]
   matches: []
 - unit: ane-cth1-w2-campaigns-and-gate-tablet
-  checked: [quran-44-dukhan-blessed-night-and-smoke, quran-68-qalam-the-pen-and-the-slanderer, quran-26-hud-ad]
-  matches: []
+  checked: [quran-44-dukhan-blessed-night-and-smoke, quran-68-qalam-the-pen-and-the-slanderer, quran-26-hud-ad, quran-7-opening-scales]
+  matches:
+  - with: quran-7-opening-scales
+    motif: hour-at-which-a-town-is-struck
+    refs: ["CTH 1 W2:obv._17", "CTH 1 W2:obv._18", "CTH 1 W2:obv._19"]
+    with_refs: ["7:4"]
+    relation: divergence
+    record:
+      agent: [Anitta, God]
+      object: ["Harkiuna, a second town, Wašhaniya", "many a town"]
+      time: ["at the time of heat; by night", "by night, or while they took the midday rest"]
+      quoted: ["ḫa-an-ta-i-ši me-e-ḫu-ni ... iš-pa-an-di na-ak-ki-it", "fa-jāʾahā baʾsunā bayātan aw hum qāʾilūn"]
+      outcome: ["taken by storm", "destroyed"]
+    note: "Anitta lists his captures by their hour: Harkiuna 'at the time of heat' (ḫantaiši meḫuni), another town 'by night, by storm' (išpanti nakkit), Wašhaniya 'at the time of heat' (W2:obv._17-19). Q 7:4: 'how many a town We destroyed: Our might came upon it by night (bayātan) or while they were at their midday rest (qāʾilūn)'; also 7:97-98. The same pair of hours for falling on a town, night and the heat of the day; a king's raids against God's punishment. (ḫantaiši meḫur may mean the hot season rather than midday.)"
 - unit: ane-cth1-w2-zalpa-and-hattusa
   checked: [quran-59-hashr-banu-nadir-and-fay, quran-26-hud-ad, quran-105-elephant]
   matches: []
 - unit: ane-cth1-w2-salatiwara-temples-hunt-purushanda
-  checked: [quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims]
-  matches: []
+  checked: [quran-38-solomon-horses-throne, quran-2-talut-jalut, quran-43-zukhruf-pharaoh-claims, quran-27-solomon-ants-hoopoe-sheba]
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: submitting-rulers-throne-and-gift-brought-to-the-king
+    refs: ["CTH 1 W2:rev._74", "CTH 1 W2:rev._75", "CTH 1 W2:rev._76", "CTH 1 W2:rev._77", "CTH 1 W2:rev._78", "CTH 1 W2:rev._79"]
+    with_refs: ["27:35", "27:36", "27:38", "27:42", "27:44"]
+    relation: divergence
+    record:
+      agent: ["the man of Purušhanda", "the queen of Sabaʾ"]
+      action: ["brings the king a throne and a sceptre of iron as a gift, and submits", "sends the king a gift; her throne is brought to him; she submits"]
+      recipient: [Anitta, Sulaymān]
+      object: ["a throne of iron, a sceptre of iron", "a gift (hadiyya); her throne (ʿarsh)"]
+      quoted: ["1 GIŠ ŠÚ.A AN.BAR 1 PA.GAM AN.BAR", "wa-innī mursilatun ilayhim bi-hadiyyatin ... a-tumiddūnani bi-mālin ... ayyukum yaʾtīnī bi-ʿarshihā"]
+      outcome: ["the gift is accepted; the ruler is brought to Neša and seated at the king's right", "the gift is refused; the throne is fetched by one with knowledge of the Book, and she submits with Sulaymān to God"]
+    note: "When Anitta comes against him, 'the man of Purušhanda brought me one throne of iron and one sceptre of iron' (W2:rev._74-75), and is brought to Neša and seated before the king in the inner chamber (rev._76-79). The queen of Sabaʾ sends Sulaymān a gift (27:35), which he scorns ('would you help me with wealth?', 27:36); her throne is brought to him instead (27:38-42), and she comes and submits (27:44). A ruler's throne and gift reach a greater king in token of submission; in Anitta the throne is the gift and is accepted, in the Quran the gift is refused and the throne is taken by a sign."
 - unit: ane-cth1-w3-hattusa-curse-fragment
   checked: [quran-29-lot, quran-11-lot, quran-11-pharaoh-leads]
   matches: []
