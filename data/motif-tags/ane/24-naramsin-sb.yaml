@@ -81,6 +81,30 @@ new_motifs:
   hymn-closes-may-song-please-deity: {label: "A hymn ends praying that this song may be pleasing to the deity and never cease before her", cluster: cult}
   curse-as-inviolable-divine-boundary: {label: "The curse (māmītu) is the gods' inviolable boundary-drawing of heaven and earth, which no god or man may cross or undo", cluster: magic}
   god-who-is-one-unchangeable: {label: "A deity is called 'the one god' who does not change or cannot be altered", cluster: theology}
+  sun-god-lights-darkness-above-and-below: {label: "The sun god illuminates the whole of heaven and the darkness for those above and below, his radiance spread like a net over the earth", cluster: theology}
+  sun-god-shepherd-of-upper-and-lower-worlds: {label: "The sun god is shepherd of the lower regions and herdsman of the upper regions; all creatures Ea created are entrusted to him", cluster: theology}
+  sun-god-sees-footprints-and-intentions: {label: "Nothing is hidden from the sun god: at his rising people's footprints are revealed and he knows the intentions of all lands of different tongues", cluster: theology}
+  sun-god-tireless-daily-journey: {label: "The sun god crosses heaven, earth and the unfathomed sea every day and returns by night; no other god toils so", cluster: theology}
+  sun-god-protects-travellers-and-captives: {label: "The sun god supports the traveller, gives courage to the seafarer, saves the merchant from flash-flood, shows refugees havens and gives light to the prisoner", cluster: theology}
+  god-rescues-from-netherworld: {label: "The god brings up the one gone down to the depths and rescues the dead from the land of no return", cluster: theology}
+  sun-god-net-catches-evildoer: {label: "The sun god's net and snare are spread so that no shedder of blood, perjurer or adulterer escapes", cluster: justice}
+  coveter-of-neighbours-wife-dies-early: {label: "The man who covets his neighbour's wife dies before his time, with no father or brother to speak for him at his trial", cluster: justice}
+  corrupt-judge-punished-just-judge-rewarded: {label: "The judge who takes a bribe and perverts justice is punished, while the one who takes no fee and helps the weak has long life", cluster: justice}
+  usurer-loses-principal-honest-lender-blessed: {label: "The exploitative lender loses profit and principal, while the honest creditor is blessed with long life, family and seed like a perpetual spring", cluster: justice}
+  false-scales-punished-honest-scales-rewarded: {label: "He who switches weights and cheats with the scales or measures is punished; the honest weigher is rewarded", cluster: justice}
+  all-classes-of-people-turn-to-god: {label: "Catalogue of those who turn to the god in prayer: the weak, the far from kin, shepherd, merchant, fisherman, hunter, even robbers and wandering ghosts", cluster: theology}
+  heavens-too-small-for-gods-gaze: {label: "The heavens are too small to be the god's divining cup, and all lands too small to be his seer's bowl", cluster: theology}
+  gods-rejoice-at-sunrise: {label: "The gods and the netherworld gods rejoice and assemble at the sun god's rising", cluster: theology}
+  diviners-kneel-before-sun-god: {label: "Diviners with their oil-bowl and cedar, dream-interpreters, wicked and just all kneel before the sun god", cluster: cult}
+  god-reconciles-angry-personal-god: {label: "A high god reconciles the angry personal god or goddess with the sufferer", cluster: theology}
+  seed-of-evildoers-not-endure: {label: "The seed (offspring) of evildoers will not endure", cluster: justice}
+  monthly-feast-day-of-god: {label: "On his monthly holy day the god rejoices and drinks the beer and libations people pour for him", cluster: cult}
+  god-opens-wisdom-to-world: {label: "The god opens the understanding (ears) of the whole world and makes omens clear", cluster: wisdom}
+  god-controls-cold-frost-snow: {label: "The god shortens days and lengthens nights and covers the earth with cold, frost, ice and snow", cluster: nature}
+  god-opens-gates-of-heaven: {label: "The god opens the gate and bolt of heaven, lifting socket, pin, latchkey and bolt", cluster: cosmology}
+  kings-bring-tribute-to-gods-temple: {label: "Kings, governors and princes bring their tribute before the god in his temple", cluster: temple}
+  divine-consort-bids-god-rest: {label: "The god's bride bids him 'Rest!' in the bedchamber at the end of his day", cluster: theology}
+  no-partiality-in-judgment: {label: "The divine judge shows no partiality (does not 'lift the face') and his verdicts cannot be changed", cluster: justice}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -616,3 +640,108 @@ units:
     hints:
       - "Compare the curse that enters the house and consumes it, Zech 5:3-4; Num 5:21-27 (oath-curse); and Lilith, Isa 34:14."
       - "Compare 'I YHWH do not change', Mal 3:6; Num 23:19."
+  - id: ane-shamashhymn-sb-1-illuminator
+    tradition: ane-akkadian
+    title: "Šamaš illuminator of heaven and earth, shepherd above and below (Great Hymn to Šamaš)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ShamashHymn SB –:1-56"]
+    tags:
+      - {motif: sun-god-lights-darkness-above-and-below, refs: ["ShamashHymn SB –:1-6", "ShamashHymn SB –:17-20"], note: "mušnammir gimir šamāmī mušahli ekleti ana nišī eliš u šapliš; sahpū kīma šuškalli erṣeta šarūrūka"}
+      - {motif: sun-god-sees-footprints-and-intentions, refs: ["ShamashHymn SB –:9-10", "ShamashHymn SB –:49-50"], note: "ina namirti ṣītīka kibissina innammar; naphar mātāti šūt šunnâ lišāna tīde kipdīšina"}
+      - {motif: sun-god-shepherd-of-upper-and-lower-worlds, refs: ["ShamashHymn SB –:23-26", "ShamashHymn SB –:31-34"], note: "ša ea šar malkī uštabnû kalîš paqdāka ... rēʾû šaplâti nāqidu elâti"}
+      - {motif: sun-god-tireless-daily-journey, refs: ["ShamashHymn SB –:27-30", "ShamashHymn SB –:35-46"], note: "kī takkassi ginâ tabâʾ ūmīšam ... ša igīgī lā īdû qereb libbīša ... ul ibašši ina gimir igīgī ša šūnuhu balīka"}
+      - {motif: sun-as-bridegroom-and-runner, refs: ["ShamashHymn SB –:27-30"]}
+      - {motif: all-creatures-wait-for-food, refs: ["ShamashHymn SB –:15-16", "ShamashHymn SB –:51-52"], note: "šamaš ana nūrīka ṣummurat mithartu"}
+      - {motif: gods-rejoice-at-sunrise, refs: ["ShamashHymn SB –:7-8", "ShamashHymn SB –:47"], note: "ana tāmartīka ihdû ilu u malku"}
+      - {motif: diviners-kneel-before-sun-god, refs: ["ShamashHymn SB –:53-56"], note: "mākalti bārûti, rikis erēni, šāʾili pāšir šunāti; kitmusū raggu u kīnu"}
+    hints:
+      - "Compare Ps 19:2-7 (the sun's circuit; nothing hidden from its heat), Ps 139:7-12 (darkness is not dark to you), Ps 104:19-22."
+      - "Compare 'the eyes of YHWH run to and fro through all the earth', 2 Chr 16:9; Prov 15:3; and Q 6:59; 34:3 (not an atom's weight hidden)."
+      - "Compare Ps 121:4 (neither slumbers nor sleeps) and Isa 40:28 (does not faint or grow weary)."
+  - id: ane-shamashhymn-sb-2-judge-and-rescuer
+    tradition: ane-akkadian
+    title: "Šamaš the judge and rescuer of travellers, captives, the sick and the dead (Great Hymn to Šamaš)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ShamashHymn SB –:57-82"]
+    tags:
+      - {motif: sun-god-judge-of-gods, refs: ["ShamashHymn SB –:58-64"], note: "ša ebbi kīni u zāmânê tušāpi dīnšun ... šūpû zikrūka ul innennû pāna ul tubbal"}
+      - {motif: sun-god-judges-dead-in-underworld, refs: ["ShamashHymn SB –:57"], note: "[mannu] urradu ina apsî balīka"}
+      - {motif: sleep-sweetly-without-fear, refs: ["ShamashHymn SB –:60"], note: "irehhīšum-ma šitta kīma ṣālili inappuš kīnu (partly restored)"}
+      - {motif: pulled-back-from-river-of-death, refs: ["ShamashHymn SB –:62"], note: "tušelli ina hubur ša ina dīni tiṣbutū"}
+      - {motif: sun-god-protects-travellers-and-captives, refs: ["ShamashHymn SB –:65-74"], note: "ana ēbir tâmti ādir agê ... tamkāra nāš kīsi ina edê tušēzib ... abka ša ina bīt ṣibitti nadû tukallamšu nūra"}
+      - {motif: covenant-of-people-light-of-nations, refs: ["ShamashHymn SB –:72-74"], note: "only the image of light/freedom for the prisoner"}
+      - {motif: god-rescues-from-netherworld, refs: ["ShamashHymn SB –:70", "ShamashHymn SB –:80"], note: "tušelli ārid anzanunzê tušaškan kappa; ina kurnugê erṣeti lā târi tuballaṭ mīta"}
+      - {motif: no-partiality-in-judgment, refs: ["ShamashHymn SB –:64"], note: "pāna ul tubbal 'you do not lift the face'"}
+      - {motif: god-reconciles-angry-personal-god, refs: ["ShamashHymn SB –:75", "ShamashHymn SB –:81"], note: "ša ilšu ittīšu [zenû] tusallam; ištarāti šabsāti ana nišī tusallam"}
+    hints:
+      - "Compare Ps 107:4-30 (wanderers, prisoners in darkness, the sick, sailors rescued), Ps 146:7-9, Isa 42:7; 61:1."
+      - "Compare Deut 1:17; 10:17 (God shows no partiality, nāśāʾ pānîm, 'lift the face'), the same idiom as pāna ul tubbal."
+      - "Compare 1 Sam 2:6 and Ps 30:4 ('you brought up my soul from Sheol')."
+  - id: ane-shamashhymn-sb-3-justice-ethics
+    tradition: ane-akkadian
+    title: "Šamaš's net for the wicked: adulterer, corrupt judge, usurer, false weigher (Great Hymn to Šamaš)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ShamashHymn SB –:83-129"]
+    tags:
+      - {motif: sun-god-net-catches-evildoer, refs: ["ShamashHymn SB –:83-87", "ShamashHymn SB –:94"], note: "ina šuškallīka hābila tasahhap, ina gišparrīka lāpit dāmi ul uṣṣi ... ša ana māmītīka lā ipallahu ... tarṣat šētka"}
+      - {motif: wicked-caught-in-traps-and-snares, refs: ["ShamashHymn SB –:87-94"]}
+      - {motif: coveter-of-neighbours-wife-dies-early, refs: ["ShamashHymn SB –:88-93"], note: "ša ana alti tappêšu iššû nīš īnīšu ina ūm lā šīmāti ugarri mūtu ... ina dinīšu ul izzazza abūšu"}
+      - {motif: adultery-prohibited, refs: ["ShamashHymn SB –:88"]}
+      - {motif: corrupt-judge-punished-just-judge-rewarded, refs: ["ShamashHymn SB –:97-102"], note: "dayyāna ṣalpa mēsera tukallam, māhir ṭāti lā muštēšira tušazbal arna; lā māhir ṭāti ṣābit abbūt enši ṭāb eli šamaš balāṭa uttar"}
+      - {motif: qualities-of-judges, refs: ["ShamashHymn SB –:97-102"]}
+      - {motif: usurer-loses-principal-honest-lender-blessed, refs: ["ShamashHymn SB –:103-106", "ShamashHymn SB –:112-121"], note: "nādin kaspi ana ṣibti hābilu ... uhallaq kīsa; nādin šīqāti ana birīyi ... mušaddin atri ... makkūršu ul ibêl apilšu; ummânu kīnu ... kīma mê nagbi dārî zēršu dāri"}
+      - {motif: prohibition-of-interest, refs: ["ShamashHymn SB –:103-104"]}
+      - {motif: false-scales-punished-honest-scales-rewarded, refs: ["ShamashHymn SB –:107-111"], note: "ṣābit zibānīti ēpiš ṣilipti muštēnû aban kīsi ušaqqa u ušappal"}
+      - {motif: honest-weights, refs: ["ShamashHymn SB –:107-111"]}
+      - {motif: seed-of-evildoers-not-endure, refs: ["ShamashHymn SB –:121-124"], note: "šūt lumni īpušū zēršunu ul [dāri]"}
+    hints:
+      - "Compare Deut 25:13-16 and Prov 11:1; 20:10 (diverse weights an abomination; just weights for long life); Amos 8:5; Mic 6:10-11; Q 83:1-3; 55:9; 17:35."
+      - "Compare Exod 22:24; Lev 25:36-37; Ps 15:5 (does not lend at interest nor take a bribe); Prov 28:8; Q 2:275-279; 30:39."
+      - "Compare Exod 20:17 and Prov 6:26-35 (the adulterer's ruin); Exod 23:8; Deut 16:19 (bribe blinds)."
+      - "Compare Ps 37:28 and 21:11 (the seed of the wicked cut off); Ps 1:3 and Jer 17:8 (tree by streams)."
+  - id: ane-shamashhymn-sb-4-all-turn-to-him
+    tradition: ane-akkadian
+    title: "All who pray turn to Šamaš; his feast on the twentieth (Great Hymn to Šamaš)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ShamashHymn SB –:130-166"]
+    tags:
+      - {motif: all-classes-of-people-turn-to-god, refs: ["ShamashHymn SB –:132-147"], note: "dunnamû ... ulālu enšu hubbulu muškēnu ... rēʾû ... tamkāru ... bāʾiru ... muttahlilu šarrāqu muṣallû ša šamši ... mītu murtappidu eṭemmu halqu"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["ShamashHymn SB –:130-131", "ShamashHymn SB –:146-147", "ShamashHymn SB –:164"], note: "tašemme šamaš suppâ sullâ karāba šukenna kitmusa lithuša labān appi"}
+      - {motif: heavens-too-small-for-gods-gaze, refs: ["ShamashHymn SB –:154-155"], note: "mala kappi niṭil īnīka ul imṣû šamāmū, mala mākalti bārûti ul imṣâ gimiršina mātātu"}
+      - {motif: god-cannot-be-contained-by-temple, refs: ["ShamashHymn SB –:154-155"]}
+      - {motif: sun-god-protects-travellers-and-captives, refs: ["ShamashHymn SB –:159", "ShamashHymn SB –:163"], note: "ša lamûšināti dannu agû tušēzib; šūt ikkamsā ellessina tapaṭṭar"}
+      - {motif: monthly-feast-day-of-god, refs: ["ShamashHymn SB –:156-161"], note: "ina ešrê rīšāta ... takkal tašatti ella kurunšina šikar sēbî kāri"}
+      - {motif: god-opens-wisdom-to-world, refs: ["ShamashHymn SB –:149-153"], note: "ša adnāti šamaš uznīšina tušpatti ... tuštēšer têrētīšina"}
+    hints:
+      - "Compare Ps 65:3 ('to you all flesh shall come'), Ps 145:15-19, and 1 Kgs 8:27 / 2 Chr 6:18 (heaven cannot contain you)."
+      - "Compare Ps 107:23-30 (rescue of sailors) and Jonah 1:5-6, 14-16 (sailors each crying to his god)."
+  - id: ane-shamashhymn-sb-5-closing-praise
+    tradition: ane-akkadian
+    title: "Closing praise: all creatures led before Šamaš; blessings from the gods and Aya (Great Hymn to Šamaš)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["ShamashHymn SB –:167-200"]
+    tags:
+      - {motif: all-classes-of-people-turn-to-god, refs: ["ShamashHymn SB –:167-173"], note: "saklātu ša lišāna ... lahmū šūt tâmti ... meherti nāri ša irteddû šamaš ina mahrīka"}
+      - {motif: sun-god-lights-darkness-above-and-below, refs: ["ShamashHymn SB –:174-179"], note: "ayyūtu hursānū ša lā litbušū šarūrūka ... mušpardû eṭûti mušnammir ukli"}
+      - {motif: god-controls-cold-frost-snow, refs: ["ShamashHymn SB –:180-181"], note: "mukarrû ūmī murrik mušâti mušalbiš kūṣi halpî šurīpi šalgi"}
+      - {motif: god-opens-gates-of-heaven, refs: ["ShamashHymn SB –:182-183"], note: "petû abulli sikkūr šamê ... mušēlû uppi sikkati namzāqi aškutti"}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["ShamashHymn SB –:189"], note: "[mamm]an igīgī ul šānin emūqīka"}
+      - {motif: kings-bring-tribute-to-gods-temple, refs: ["ShamashHymn SB –:193-198"], note: "šarru šakkanakku enu u rubû ... bilassunu liššûka"}
+      - {motif: divine-consort-bids-god-rest, refs: ["ShamashHymn SB –:200"], note: "aya kallātu rabītu ina bīt mayyāli maštakīša nūh liqbīka"}
+    hints:
+      - "Compare Ps 147:16-18 (snow like wool, frost, ice) and Job 38:22-30; Ps 24:7-9 (lift up your heads, O gates); Ps 72:10-11 (kings bring tribute)."

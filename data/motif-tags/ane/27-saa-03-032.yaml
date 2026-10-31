@@ -31,7 +31,7 @@ new_motifs:
   criminal-killed-alongside-god: {label: "A criminal (bēl hiṭṭi) is held with the captive god and killed; his head is tied to the goddess's chariot", cluster: myth}
   son-god-comes-to-ask-after-captive-father: {label: "The son god (Nabû) comes from his city to ask after the welfare of his captive father", cluster: myth}
   cultic-acts-explained-as-myth: {label: "A cultic commentary explains each ritual act or object of a festival as an episode of a myth ('the X which ... is the Y')", cluster: cult}
-  aššur-existed-before-heaven-and-earth: {label: "Enūma eliš is reinterpreted: before heaven and earth were created, Aššur existed", cluster: creation}
+  assur-existed-before-heaven-and-earth: {label: "Enūma eliš is reinterpreted: before heaven and earth were created, Aššur existed", cluster: creation}
   tablet-curse-against-erasing-or-showing: {label: "Colophon curse: whoever erases or soaks this tablet, or shows it to one who is not initiated, may the gods curse him", cluster: scribal}
   curse-flesh-to-dogs-name-and-seed-destroyed: {label: "Curse: may the gods eradicate his name and seed from the land and give his flesh to the mouth of dogs", cluster: treaty}
   goddess-weeps-for-slain-brother-god: {label: "A goddess weeps and wails for her slain brother god and sees his body, its blood flowing to the earth", cluster: myth}
@@ -287,7 +287,7 @@ units:
     tagger: "Claude (model), reading the Akkadian"
     read: ["SAA 03 034 o:34-76"]
     tags:
-      - {motif: aššur-existed-before-heaven-and-earth, refs: ["SAA 03 034 o:54-55"], note: "šū ina libbi Enūma eliš iqṭibi kī šamû erṣetu lā ibbanûni Anšar ittabši kī ālu u bītu ibšûni šū ittabši"}
+      - {motif: assur-existed-before-heaven-and-earth, refs: ["SAA 03 034 o:54-55"], note: "šū ina libbi Enūma eliš iqṭibi kī šamû erṣetu lā ibbanûni Anšar ittabši kī ālu u bītu ibšûni šū ittabši"}
       - {motif: wisdom-born-before-creation, refs: ["SAA 03 034 o:54"]}
       - {motif: enuma-elish-recited-at-new-year, refs: ["SAA 03 034 o:34"], note: "Enūma eliš ša dabbibūni ina pāni Bēl ina Nisanni izammurūšūni ina muhhi ša ṣabtūni šū"}
       - {motif: captive-god-prays-asks-what-is-my-sin, refs: ["SAA 03 034 o:35-37"], note: "ina pāni Šamaš ... mā damqāte ša Aššur šina ētapaš mā mīnu hiṭāya ... ana Sîn Šamaš uṣalla mā ballitāni"}
@@ -301,3 +301,171 @@ units:
       - {motif: dynasty-dead-eaten-by-dogs-and-birds, refs: ["SAA 03 034 o:76"]}
     hints:
       - "Before heaven and earth: Prov 8:22-26, Ps 90:2. Name and seed cut off, flesh to dogs: 1 Kgs 14:10-11, 2 Kgs 9:36, Ps 109:13. Curse on altering a text: Deut 4:2, Rev 22:18-19."
+  - id: ane-saa09-011-assurbanipal-vision-star
+    tradition: ane-akkadian
+    title: "Prophecy for Assurbanipal: vision of a golden star (SAA 9 11)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 011 r:1-13"]
+    tags:
+      - {motif: king-dream-vision-golden-star, refs: ["SAA 09 011 r:6-13"], note: "ina diglīya pānî adanniš kakkabtu ša hurāṣi ... paššuru ... kusāpu dannu ... šapal kakkabti ša hurāṣi"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 011 r:4"], note: "nakru akaššad ša Aššur-bāni-apli 'I will conquer the enemy of Assurbanipal' (fear-not formula itself lost)"}
+      - {motif: throne-established-by-god, refs: ["SAA 09 011 r:5"], note: "mā šibi mātāti utaqqan 'sit! I will put the lands in order'"}
+    hints:
+      - "Vision of a star and a table: compare Num 24:17 (a star from Jacob) and Ps 23:5; Zech 4:2 (golden lampstand in a vision)."
+  - id: ane-saa09-010-dunnasha-amur-fragment
+    tradition: ane-akkadian
+    title: "Fragmentary oracle reported from the prophetess Dunnaša-āmur (SAA 9 10)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 010 o:1'-7'", "SAA 09 010 r:1'-8'", "SAA 09 010 l.e:1-2"]
+    tags:
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 010 l.e:1-2"], note: "Dunnaša-āmur mā ... mā raggintu ša ... 'the prophetess'"}
+      - {motif: prophetess-consulted, refs: ["SAA 09 010 l.e:2"], note: "raggintu 'female shouter/prophetess'"}
+      - {motif: kings-throne-firm-for-long-days, refs: ["SAA 09 010 r:3'-7'"], note: "šarrūtu iddan[naš] ša mātāti gabbu ... lurrik 'kingship of all lands ... may (days) be long'"}
+  - id: ane-saa09-001-1-issar-la-tashiyat
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.1: Ištar of Arbela, through Issār-lā-tašiyaṭ (SAA 9 1 i)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.i:1'-29'"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["SAA 09 001 o.i:5'", "SAA 09 001 o.i:24'"], note: "Aššur-ahu-iddina šar mātāti lā tapallah"}
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 001 o.i:11'-12'", "SAA 09 001 o.i:18'", "SAA 09 001 o.i:20'-21'"], note: "Bēltu rabītu anāku anāku Issār ša Arbail"}
+      - {motif: enemies-roll-before-kings-feet, refs: ["SAA 09 001 o.i:8'-10'", "SAA 09 001 o.i:13'-14'"], note: "nakarūtēka kī šahšūri ša Simāni ina pān šēpēka ittangararū 'your enemies will roll before your feet like apples in Sivan'"}
+      - {motif: god-recalls-former-oracles-fulfilled, refs: ["SAA 09 001 o.i:15'-17'"], note: "ayyūte dibbīya ša aqqabakkanni ina muhhi lā tazzizūni"}
+      - {motif: goddess-goes-before-and-behind-king, refs: ["SAA 09 001 o.i:22'-24'"], note: "ina pānātūka ina kutallika allaka"}
+      - {motif: wind-against-king-wing-broken, refs: ["SAA 09 001 o.i:6'-7'"], note: "ayyu šāru ša idibakkani agappušu lā aksupūni 'what wind has risen against you whose wing I have not broken?'"}
+      - {motif: goddess-groans-in-labour-for-king, refs: ["SAA 09 001 o.i:25'-27'"], note: "atta ina libbi mugi anāku ina libbi ūʾa atebbi ušab 'you in pain, I in woe: I rise, I sit'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.i:28'-29'"], note: "ša pî Issār-lā-tašiyaṭ mār Arbail"}
+    hints:
+      - "'Fear not' oracles of salvation: Isa 41:10-14, 43:1-5, 44:2; God going before and behind: Isa 52:12, Isa 58:8. Enemies under the king's feet: Ps 110:1, 1 Kgs 5:3."
+      - "Compare Q 20:46 ('fear not, I am with you both, hearing and seeing') and Q 28:7."
+  - id: ane-saa09-001-2-sinqisha-amur
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.2: through Sinqīša-āmur (SAA 9 1 i-ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.i:30'-39'", "SAA 09 001 o.ii:1'-10'"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["SAA 09 001 o.i:30'"]}
+      - {motif: enemies-delivered-for-slaughter, refs: ["SAA 09 001 o.i:31'-32'"], note: "nakru ša šar Aššur ana ṭabahhi addana"}
+      - {motif: throne-established-by-god, refs: ["SAA 09 001 o.i:33'-35'"], note: "ina bēt ridûtika utaqqanka urabbakka 'in your crown-prince palace I will keep you safe and make you great'"}
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 001 o.i:36'-37'"]}
+      - {motif: enemies-lick-dust-or-brought-as-tribute, refs: ["SAA 09 001 o.ii:3'-5'"], note: "nakarūte ina sigarāte salmūti ina maddanāti"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.ii:9'-10'"], note: "ša pî Sinqīša-āmur mārat Arbail"}
+    hints:
+      - "Kings brought in fetters and tribute: Isa 45:14, Ps 149:8, Ps 72:10."
+  - id: ane-saa09-001-3-remut-allati
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.3: rejoicing with the king, through Rēmūt-Allati (SAA 9 1 ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.ii:11'-15'"]
+    tags:
+      - {motif: goddess-rejoices-with-king, refs: ["SAA 09 001 o.ii:11'-12'"], note: "rīšāk issi Aššur-ahu-iddina šarrīya rīši Arbail 'I rejoice with Esarhaddon my king; rejoice, Arbela!'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.ii:13'-15'"], note: "ša pî Rēmūt-Allati ša Dara-ahuya ša birti šadâni 'a town between the mountains'"}
+    hints:
+      - "Call to a city to rejoice with the king: Zech 9:9, Zeph 3:14-17."
+  - id: ane-saa09-001-4-baya-bel
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.4: Bēl, Ištar and Nabû speak, through Bayâ (SAA 9 1 ii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.ii:16'-40'"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["SAA 09 001 o.ii:16'", "SAA 09 001 o.ii:33'"]}
+      - {motif: fear-not-i-am-with-you, refs: ["SAA 09 001 o.ii:16'-18'"], note: "lā tapallah Aššur-ahu-iddina anāku Bēl issīka adabbubu 'I, Bēl, speak with you'"}
+      - {motif: god-carries-king-like-nurse-on-hip, refs: ["SAA 09 001 o.ii:19'-21'"], note: "gušūrē ša libbika aharridi kī ummaka tušabšûkani 'I watch over the beams of your heart like your mother who brought you into being'"}
+      - {motif: gods-at-kings-right-and-left, refs: ["SAA 09 001 o.ii:22'-26'"], note: "60 ilāni rabûti issīya ittītissu ittaṣṣarūka Sîn ina imittika Šamaš ina šumēlika ... qablaka irtaksū"}
+      - {motif: do-not-trust-in-man-look-to-me, refs: ["SAA 09 001 o.ii:27'-29'"], note: "ina muhhi amēlūti lā tatakkil mutuh īnēka ana yâši dugulanni"}
+      - {motif: better-trust-god-than-princes, refs: ["SAA 09 001 o.ii:27'"]}
+      - {motif: assur-reconciled-with-king, refs: ["SAA 09 001 o.ii:31'-32'"], note: "Aššur issīka usallim ṣeherāka attaṣakka 'I have reconciled Aššur with you; when you were small I carried you'"}
+      - {motif: nabu-lord-of-stylus-speaks, refs: ["SAA 09 001 o.ii:38'"], note: "anāku Nabû bēl qan ṭuppi"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.ii:40'"], note: "ša pî Bayâ mār Arbail (a 'son' of Arbela with female name)"}
+    hints:
+      - "Do not trust in man, lift your eyes: Jer 17:5-7, Ps 146:3, Ps 121:1-2, Ps 123:1. A mother who cannot forget: Isa 49:15, Isa 66:13. Carried from childhood: Isa 46:3-4, Hos 11:3."
+  - id: ane-saa09-001-5-ilussa-amur
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.5: Mullissu speaks, through Ilūssa-āmur (SAA 9 1 iii)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.iii:1'-6'"]
+    tags:
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 001 o.iii:4'"], note: "anāku Mullissu ... (here Mullissu speaks in the first person)"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.iii:5'-6'"], note: "ša pî Ilūssa-āmur Libbālāya 'of the Inner City'"}
+  - id: ane-saa09-001-6-issar-beli-daini
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.6: midwife and wet-nurse; the golden chamber of heaven, through Issār-bēlī-daʾʾini (SAA 9 1 iii-v)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.iii:7'-32'", "SAA 09 001 o.iv:1-35", "SAA 09 001 o.v:1-11"]
+    tags:
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 001 o.iii:7'"]}
+      - {motif: kings-throne-firm-for-long-days, refs: ["SAA 09 001 o.iii:11'-14'", "SAA 09 001 o.iii:19'-22'", "SAA 09 001 o.iv:14-17"], note: "ūmē arkūte šanāti dārâte ana Aššur-ahu-iddina šarrīya addanna ... kussiaka ina šapal šamê rabûte uktīn"}
+      - {motif: goddess-as-kings-midwife-and-wet-nurse, refs: ["SAA 09 001 o.iii:15'-18'"], note: "sabsubtaka rabītu anāku mušēniqtaka damiqtu anāku"}
+      - {motif: god-watches-from-golden-chamber-in-heaven, refs: ["SAA 09 001 o.iii:23'-29'"], note: "ina masiki ša hurāṣi ina qabal šamê aharridi nūr ša elmēši ina pān Aššur-ahu-iddina ušanammara kī agê ša qaqqadiya aharrissu 'in a golden chamber in mid-heaven I keep watch; I make the light of amber shine before Esarhaddon; I guard him like the crown of my head'"}
+      - {motif: god-recalls-former-oracles-fulfilled, refs: ["SAA 09 001 o.iii:30'-32'", "SAA 09 001 o.iv:1-2"], note: "lā tapallah šarru aqṭibak lā aslīka utakkilka lā ubâška 'I spoke to you, I did not lie; I made you trust, I will not put you to shame'"}
+      - {motif: through-water-and-fire-unharmed, refs: ["SAA 09 001 o.iv:3-4"], note: "nāru ina tuqunni ušebbarka 'I will bring you across the river safely'"}
+      - {motif: king-son-of-goddess-mullissu, refs: ["SAA 09 001 o.iv:5-6", "SAA 09 001 o.iv:20-25"], note: "aplu kēnu mār Mullissu ... artâmka adanniš"}
+      - {motif: goddess-holds-king-by-hair-in-heaven, refs: ["SAA 09 001 o.iv:26-28"], note: "ina kizirtika ina šamê rabûte ukâlka 'I hold you by your lock of hair in the great heavens'"}
+      - {motif: smoke-at-right-fire-at-left, refs: ["SAA 09 001 o.iv:29-32"], note: "ina imittika qutru uqattar ina šumēlika išātu ušahhaz"}
+      - {motif: divine-dagger-ends-enemies, refs: ["SAA 09 001 o.iv:7-10"], note: "hangaru akku ina qātēya nakrūtēka uqatta"}
+      - {motif: weasels-and-rats-cut-off-before-king, refs: ["SAA 09 001 o.v:3-7"], note: "kakkišāti pušhāti ša idabbubūni ina pān šēpēšu ubattaqšunu 'the weasels and rats who plot I will cut to pieces before his feet'"}
+      - {motif: goddess-as-shield-of-king, refs: ["SAA 09 001 o.iv:18-19"], note: "arītka damiqtu anāku 'I am your good shield'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.v:10-11"], note: "ša pî Issār-bēlī-daʾʾini šēlūtu ša šarri 'votaress of the king'"}
+    hints:
+      - "God as nurse and midwife: Num 11:12, Ps 22:10-11, Ps 71:6; 'I am your shield': Gen 15:1, Ps 3:4. Pillar of cloud (smoke) and fire: Exod 13:21-22. Through rivers: Isa 43:2. 'The apple of the eye' kept: Deut 32:10, Ps 17:8. 'You are my son': Ps 2:7."
+      - "Ezek 8:3 (lifted by a lock of hair between earth and heaven)."
+  - id: ane-saa09-001-7-ahat-abisha
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.7: the Lady of Arbela answers the queen mother, through Ahāt-abīša (SAA 9 1 v)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.v:12-25"]
+    tags:
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 001 o.v:12"], note: "anāku Bēlet-Arbail ana ummi šarri"}
+      - {motif: queen-mother-laments-son-roaming-steppe, refs: ["SAA 09 001 o.v:13-20"], note: "kī tahhurīnini mā ša imitti ša šumēli ina sūniki taskani mā yāʾu ṣīt libbiya ṣēru tusarpidi 'because you implored me: the one at the right and left you placed in your lap, my own offspring you let roam the steppe'"}
+      - {motif: fear-not-oracle, refs: ["SAA 09 001 o.v:21-23"], note: "ūmâ šarru lā tapallah šarrūtu ikkû danānu ikkû-ma 'kingship is yours, power is yours'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.v:24-25"]}
+    hints:
+      - "The banished son wandering in the wilderness and restored to kingship: compare David in 1 Sam 23-26 and 2 Sam 15-19; mother interceding for her son's kingship: 1 Kgs 1:15-31 (Bathsheba)."
+  - id: ane-saa09-001-8-ishtar-to-steppe
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.8: Ištar went out to the steppe, peace to her calf (SAA 9 1 v)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.v:26-36"]
+    tags:
+      - {motif: goddess-hears-lament-of-her-calf, refs: ["SAA 09 001 o.v:26-31"], note: "šulmu ana Aššur-ahu-iddina ... Issār ša Arbail ana ṣēri tattūṣi šulmu ana mūriša ana birit āli tasapra 'Ištar went out to the steppe and sent greetings to her calf in the city'"}
+      - {motif: king-as-calf-of-goddess, refs: ["SAA 09 001 o.v:29"], note: "mūru 'calf, young animal' = the king"}
+    hints:
+      - "The king as calf of the divine cow; compare Hos 11:1-4 (Ephraim taught to walk) and Jer 31:18-20."
+  - id: ane-saa09-001-9-la-dagil-ili
+    tradition: ane-akkadian
+    title: "Oracles to Esarhaddon 1.9: former word fulfilled, sons and grandsons, through Lā-dāgil-ili (SAA 9 1 vi)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 09 001 o.vi:1-32"]
+    tags:
+      - {motif: fear-not-oracle, refs: ["SAA 09 001 o.vi:1"]}
+      - {motif: goddess-oracle-i-am-ishtar-of-arbela, refs: ["SAA 09 001 o.vi:2"]}
+      - {motif: god-recalls-former-oracles-fulfilled, refs: ["SAA 09 001 o.vi:7-13"], note: "dabābu pāniu ša aqabakkanni ina muhhi lā tazzizi ūmâ ina muhhi urkî tazzazma naʾʾidanni 'you did not rely on the former word; now rely on the later one and praise me'"}
+      - {motif: praise-at-day-decline-with-torches, refs: ["SAA 09 001 o.vi:14-18"], note: "kī ūmu išīṣūni ziqāti lūkillū ina pāni naʾʾidanni"}
+      - {motif: goddess-fills-kings-lap, refs: ["SAA 09 001 o.vi:3-6"], note: "ša ina ṭūbi Issār ša Arbail habūnšu tumallûni 'whose lap Ištar filled with good'"}
+      - {motif: fear-driven-from-palace, refs: ["SAA 09 001 o.vi:19-26"], note: "nirriṭu ištu libbi ekalliya ušeṣṣa akalu taqnu takkal mê taqnūti tašatti ina libbi ekallika tataqqun"}
+      - {motif: dynasty-promise-sons-grandsons-rule, refs: ["SAA 09 001 o.vi:27-30"], note: "mārka mār mārika šarrūtu ina burki ša Ninurta uppaš 'your son and grandson will exercise kingship on the knees of Ninurta'"}
+      - {motif: oracle-attributed-to-named-prophet, refs: ["SAA 09 001 o.vi:31-32"]}
+    hints:
+      - "Former and latter things: Isa 42:9, Isa 43:9-19, Isa 48:3-6. Dynasty promise: 2 Sam 7:12-16, Ps 132:11-12. Eating bread and drinking water in safety: Isa 33:16, Ps 4:9."
