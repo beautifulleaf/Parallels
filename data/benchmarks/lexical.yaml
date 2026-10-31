@@ -43,7 +43,7 @@ expectations:
     kind: chain
     forms: [guza, kussû, "arc:H3764", "he:H3678", "ar:كُرْسِيّ"]
     lead: kursi-loan-chain
-  - description: "Loan chain: Sumerian é-gal → Akkadian ekallu → Hebrew hêkhāl (H1964) and Aramaic hêkal (H1965). Arabic haykal is not in the Quran, so the chain's Arabic end is outside the corpus"
+  - description: "Loan chain: Sumerian é-gal → Akkadian ekallu → Hebrew hêkhāl (H1964). Arabic haykal is not in the Quran, so the chain's Arabic end is outside the corpus"
     kind: chain
     forms: [egal, ekallu, "he:H1964"]
     lead: haykal-loan-chain
