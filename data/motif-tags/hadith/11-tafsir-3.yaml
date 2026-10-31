@@ -1,0 +1,1521 @@
+# Hadith chunk 11: al-Jāmiʿ al-Kāmil book 60 (tafsir), pp. 6940-7059 (printed 10/276-395):
+# the end of al-Ma'ida (from 5:67), al-An'am, al-A'raf, al-Anfal and al-Tawba to 9:80.
+# Read in full from the Arabic. The compiler's commentary, his 'wa-ruwiya' reports he grades weak
+# (e.g. Tha'laba b. Hatib, 7057) and the athar he quotes are context only, not lines.
+new_motifs:
+  # ---- al-Ma'ida
+  arab-takes-sleeping-prophets-sword-from-tree-asks-who-protects: {label: "On a raid a man takes the sleeping prophet's sword from the tree he rests under and asks 'who will protect you from me tonight?'; answer 'God', and 5:67 is sent down", cluster: sira}
+  ten-jews-following-would-bring-all-jews: {label: "If ten of the Jews followed the prophet, no Jew on earth would remain without becoming Muslim", cluster: polemic}
+  food-as-alms-refused-as-gift-eaten: {label: "Food brought as alms (sadaqa) the prophet gives to his companions and does not eat; brought as a gift (hadiyya) he eats of it", cluster: law}
+  no-good-in-christians-then-praised-ones-revealed: {label: "Asked about the Christians the prophet says 'no good in them'; then 5:82-83 is sent down and he tells Salman 'your companions are those God mentioned'", cluster: polemic}
+  negus-and-companions-weep-at-recitation: {label: "5:83 (eyes overflowing with tears at what they recognise as truth) is said to be revealed about the Negus and his companions", cluster: sira}
+  campaigners-ask-to-castrate-themselves: {label: "Companions on campaign without wives ask 'shall we castrate ourselves?'; he forbids it and permits marrying a woman for a garment for a term", cluster: law}
+  i-fast-and-eat-pray-and-sleep-marry-women: {label: "Companions resolve to cut off their members, renounce desire and wander like monks; the prophet: 'I fast and break fast, pray and sleep, marry women: whoever does not take my sunna is not of me'", cluster: law}
+  idle-oath-is-no-by-god-yes-by-god: {label: "The idle oath (laghw) of 5:89 is a man's saying 'no, by God' and 'yes, by God'", cluster: law}
+  abu-bakr-broke-no-oath-until-expiation-revealed: {label: "Abu Bakr never broke an oath until the expiation was revealed; thereafter he did what was better and took God's concession", cluster: law}
+  average-food-between-ample-and-scanty: {label: "'The average of what you feed your families' (5:89): one man fed his family amply, another scantily", cluster: law}
+  wine-forbidden-when-five-drinks-none-of-grape: {label: "When wine was forbidden there were five drinks in Medina and none of them of grapes", cluster: law}
+  wine-from-five-things-what-befogs-the-mind: {label: "'Wine is from five things: grapes, dates, honey, wheat and barley; wine is what befogs (khamara) the mind' (Umar from the pulpit)", cluster: law}
+  three-matters-wished-settled-grandfather-kalala-usury: {label: "Umar wishes the prophet had left a decisive ruling on three things: the grandfather, kalala and some kinds of usury", cluster: law}
+  wine-jars-poured-out-at-the-news: {label: "At a drinking party the news 'wine has been forbidden' comes; the host says 'pour out these jars' and no one asks again", cluster: law}
+  poured-wine-runs-in-medinas-streets: {label: "The poured-out wine runs in the streets (sikak) of Medina", cluster: law}
+  dicer-dyes-hand-in-pigs-flesh-and-blood: {label: "Whoever plays nardashir (backgammon) is as if he dyed his hand in the flesh and blood of a pig", cluster: law}
+  dead-wine-drinkers-not-blamed: {label: "Some ask about those killed or dead with wine in their bellies before the ban; 5:93 answers that there is no blame for what they ate", cluster: law}
+  martyrs-of-uhud-drank-wine-that-morning: {label: "Some men drank wine the morning of Uhud and were all killed as martyrs that day, before it was forbidden", cluster: sira}
+  prophet-told-you-are-among-them: {label: "When 5:93 came down the prophet told Ibn Mas'ud: 'I was told: you are among them'", cluster: revelation}
+  sea-casts-up-beast-called-anbar: {label: "Three hundred riders on the shore, starving and eating leaves (khabat), are given by the sea a beast called al-'anbar; they eat it half a month and oil themselves with its fat", cluster: sira}
+  rider-and-camel-pass-under-the-rib: {label: "The commander sets up one rib of the sea-beast and the tallest man on a camel passes under it", cluster: sira}
+  three-camels-slaughtered-three-times: {label: "A man of the army slaughters three camels, then three, then three, until the commander forbids him", cluster: sira}
+  ask-me-anything-from-the-pulpit: {label: "Pressed with questions, the prophet mounts the pulpit: 'ask me; you will ask me nothing but I tell you, while I stand here'; men weep with heads wrapped", cluster: sira}
+  your-father-is-hudhafa: {label: "A man whose paternity was disputed asks 'who is my father?' and is told 'your father is Hudhafa'", cluster: sira}
+  umar-we-are-content-with-god-as-lord: {label: "Umar kneels: 'we are content with God as Lord, Islam as religion, Muhammad as messenger', and the prophet falls silent", cluster: sira}
+  paradise-and-fire-shown-beyond-the-wall: {label: "Paradise and hell were shown (pictured) to the prophet just now beyond (in the breadth of) this wall; 'I have never seen a day like this in good and evil'", cluster: eschatology}
+  mother-rebukes-son-for-risking-her-shame: {label: "His mother: what if I had done what women of the Jahiliyya did and you exposed me before everyone? He: had he joined me to a black slave I would have accepted it", cluster: sira}
+  mocking-questions-where-is-my-camel: {label: "Some asked mockingly 'who is my father?', 'where is my lost camel?', and 5:101 was revealed", cluster: revelation}
+  god-dislikes-gossip-waste-and-much-asking: {label: "God dislikes three things for you: 'it was said and he said', wasting wealth, and much questioning", cluster: ethics}
+  emigrants-did-not-question-the-prophet: {label: "A man stays a year in Medina without emigrating only so as to ask, for an emigrant would not ask the prophet anything", cluster: sira}
+  righteousness-good-character-sin-what-pricks-the-soul: {label: "Righteousness is good character; sin is what pricks (haka) in your soul and you dislike people to see", cluster: ethics}
+  bahira-milk-withheld-saiba-freed-for-the-gods: {label: "The bahira is the she-camel whose milk is withheld for the idols (tawaghit); the sa'iba is let loose for their gods and carries nothing", cluster: law}
+  wasila-and-hami-defined: {label: "The wasila is the she-camel that bears a female first and then another female with no male between, freed for the idols; the hami the stud that has completed its count of coverings, freed from burden", cluster: law}
+  first-to-let-loose-the-saiba: {label: "The man seen dragging his entrails in hell was the first to let loose the sa'iba camels", cluster: eschatology}
+  hell-parts-crushing-one-another: {label: "The prophet saw hell, its parts crushing (yahtimu) one another", cluster: eschatology}
+  people-misplace-the-verse-on-minding-yourselves: {label: "Abu Bakr: you read 'you are responsible for yourselves' (5:105) wrongly; people who see wrong and do not change it will be engulfed by God's punishment", cluster: ethics}
+  stay-home-hold-tongue-mind-yourself: {label: "When covenants are confused and trusts slight, people intertwined like fingers: keep to your house, hold your tongue, take what you know, mind your own affair and leave the commons", cluster: eschatology}
+  days-of-patience-like-grasping-embers: {label: "Days of patience will come when holding fast is like grasping a live coal; the doer then has the reward of fifty of you", cluster: eschatology}
+  avarice-obeyed-passion-followed: {label: "Signs when to mind oneself: avarice obeyed, passion followed, the world preferred, everyone pleased with his own opinion", cluster: eschatology}
+  missing-silver-cup-and-heirs-oath: {label: "A man dies abroad with two non-Muslim companions; a silver cup inlaid with gold is missing; they swear, the cup is found in Mecca, and two heirs swear 'our testimony is truer'", cluster: law}
+  prophet-quotes-jesus-words-of-517: {label: "Seeing his men taken to the left, the prophet says as 'the righteous servant' said: 'I was a witness over them while among them; when you took me, you were the watcher over them'", cluster: eschatology}
+  apostatized-since-you-left-them: {label: "'These have not ceased turning back on their heels since you parted from them'", cluster: eschatology}
+  # ---- al-An'am
+  praise-to-him-who-feeds-and-is-not-fed: {label: "After a meal the prophet says 'praise to God who feeds and is not fed', with a long praise of food, drink, clothing, guidance and sight", cluster: ritual}
+  none-withholds-what-god-gives: {label: "After each prescribed prayer: 'none withholds what you give, none gives what you withhold; the fortune of the fortunate avails nothing against you'", cluster: ritual}
+  worldly-gifts-to-sinner-are-gradual-snare: {label: "When you see God give a servant what he loves of the world while he persists in sin, that is a gradual luring (istidraj)", cluster: ethics}
+  six-weak-followers-and-drive-them-away: {label: "The polytheists ask the prophet to drive away six poor followers; something occurs in his soul and 6:52 is revealed", cluster: revelation}
+  written-above-the-throne-mercy-prevails: {label: "When God completed creation he wrote in his book that is with him above the Throne: 'my mercy prevails over my wrath'", cluster: cosmology}
+  hundred-mercies-each-spanning-heaven-and-earth: {label: "God created a hundred mercies the day he created heaven and earth, each filling the space between; one he put on earth, by it the mother inclines to her child and beasts and birds to each other", cluster: cosmology}
+  captive-mother-suckling-any-child: {label: "A captive woman with milk takes any child she finds among the captives, presses it to her belly and suckles it; 'God is more merciful to his servants than she to her child'", cluster: ethics}
+  i-seek-refuge-in-your-face: {label: "At 'from above you' and 'from beneath your feet' the prophet says 'I seek refuge in your face'; at 'split you into factions' he says 'this is lighter'", cluster: revelation}
+  zulm-in-682-is-shirk: {label: "Companions ask 'who of us has not wronged himself?'; the wrong (zulm) of 6:82 is not as they think but shirk, as Luqman told his son", cluster: revelation}
+  prostration-in-sad-from-following-prophets: {label: "Ibn Abbas finds the prostration in Sura Sad in 6:90: 'follow their guidance' - David is among them, and your prophet was ordered to follow them", cluster: ritual}
+  my-wealth-three-things-only: {label: "'My wealth, my wealth!' - of his wealth he has only three: what he ate and consumed, wore and wore out, or gave and so sent ahead", cluster: ethics}
+  every-bringer-of-this-was-opposed: {label: "Waraqa: no man ever brought the like of what you bring but he was opposed (ʿudiya)", cluster: revelation}
+  what-god-killed-you-do-not-eat: {label: "Disputers say: what God slaughtered you do not eat and what you slaughter you eat; 6:121 is revealed", cluster: law}
+  creation-in-darkness-light-cast-upon-them: {label: "God created his creatures in darkness and cast upon them of his light; whom it reached was guided, whom it missed went astray: the pen has dried", cluster: cosmology}
+  ignorance-of-arabs-in-anam-130-140: {label: "To know the ignorance of the Arabs read above verse 130 of al-An'am to 'they have gone astray'", cluster: revelation}
+  sale-of-wine-carrion-swine-idols-forbidden: {label: "God and his messenger have forbidden selling wine, carrion, swine and idols; carrion fat used to caulk ships, oil hides and light lamps is still forbidden", cluster: law}
+  umar-curses-man-who-sold-wine: {label: "Told that a man sold wine, Umar curses him, citing the prophet's curse on the Jews who sold the forbidden fat", cluster: law}
+  pledge-on-the-forbidden-acts-of-6151: {label: "The prophet takes a pledge from a band of companions: no shirk, theft, adultery, killing children, slander, disobedience; whoever is punished here it expiates, whom God conceals is in his will", cluster: law}
+  none-more-jealous-than-god-forbade-indecencies: {label: "None is more jealous (aghyar) than God; for that he forbade indecencies open and hidden; none loves praise more than God, so he praised himself", cluster: theology}
+  gods-jealousy-is-believer-doing-forbidden: {label: "God is jealous and the believer is jealous; God's jealousy is that the believer do what is forbidden him", cluster: theology}
+  line-of-god-and-side-lines-with-devils: {label: "The prophet draws a line: 'this is God's path', then lines to its right and left: 'paths, on each a devil calling to it'", cluster: ethics}
+  path-with-walls-open-doors-curtains-two-callers: {label: "A straight path with a wall on each side, open doors with curtains let down, a caller at its head and a caller above it who warns any who would open a door", cluster: ethics}
+  three-signs-after-which-faith-avails-not: {label: "Three, once they come out, faith avails no soul that had not believed: the sun rising from the west, the Dajjal, and the Beast of the earth", cluster: eschatology}
+  sun-rises-from-west-all-believe: {label: "The Hour will not come until the sun rises from its setting place; when people see it all believe, and that is when faith avails not", cluster: eschatology}
+  intended-good-written-whole-done-tenfold-to-700: {label: "An intended good deed not done is written a whole good deed; done, ten to seven hundredfold and more; an intended bad deed left is written a good deed, done is written one", cluster: eschatology}
+  # ---- al-A'raf
+  never-sick-never-die-never-old-call-in-paradise: {label: "A caller in paradise: you shall be healthy and never sick, live and never die, be young and never old, be at ease and never in misery", cluster: eschatology}
+  manifestation-like-tip-of-little-finger: {label: "On 'when his Lord manifested himself to the mountain' the prophet shows the tip of his little finger: so much", cluster: theology}
+  moses-told-of-calf-did-not-throw-tablets-until-he-saw: {label: "Report is not like seeing: God told Moses what his people did with the calf and he did not throw the tablets; when he saw it he threw them and they broke", cluster: moses}
+  each-prophet-sent-to-his-people-i-to-all: {label: "Every prophet was sent to his own people only; I am sent to all people (every red and black)", cluster: revelation}
+  given-five-things-none-before: {label: "Given five none had before: sent to all, spoils made lawful, the earth made pure and a place of prayer, help by terror a month's journey, intercession", cluster: revelation}
+  preferred-over-prophets-by-six: {label: "Preferred over the prophets by six: concise speech (jawami' al-kalim), terror, spoils, earth pure and a mosque, sent to all creation, prophets sealed with me", cluster: revelation}
+  hurr-recites-take-pardon-to-angry-umar: {label: "A rude bedouin chief insults Umar; his nephew recites 7:199 'turn away from the ignorant'; Umar stops at it, 'one who stopped at God's book'", cluster: ethics}
+  take-pardon-revealed-for-peoples-manners: {label: "'Take what is pardon' (7:199) was revealed only about people's manners (akhlaq)", cluster: revelation}
+  join-who-cut-you-give-who-denied-you: {label: "'Join who cuts you off, give who withholds from you, pardon who wrongs you'", cluster: ethics}
+  you-call-no-deaf-or-absent-one: {label: "Shouting takbir over a valley, they are told: go easy, you do not call one deaf or absent; he is with you, hearing, near", cluster: ritual}
+  # ---- al-Anfal
+  anfal-revealed-on-badr: {label: "Sura al-Anfal was revealed about Badr (and al-Hashr about Banu al-Nadir; al-Tawba is 'the exposer')", cluster: revelation}
+  young-fighters-and-elders-at-banners-dispute-spoils: {label: "The prophet promises shares to whoever does such and such; the young men rush forward, the elders hold the banners; they dispute the spoils and 8:1 is revealed", cluster: law}
+  spoils-were-the-prophets-alone-needle-and-thread: {label: "The spoils were the prophet's alone; whoever kept back a needle or a thread committed ghulul; then the fifth (8:41) was sent down", cluster: law}
+  sword-asked-as-booty-put-it-back: {label: "Sa'd asks the sword he took as a gift; 'put it back where you took it' is said again and again until 8:1 comes and it is given him", cluster: sira}
+  paradise-chambers-seen-like-a-far-star: {label: "The people of paradise see those of the upper chambers as you see a brilliant star lingering on the horizon; not prophets only but men who believed and trusted the messengers", cluster: eschatology}
+  one-of-the-two-parties-caravan-or-army: {label: "God promised them one of the two parties, the caravan of Abu Sufyan or Quraysh, and their souls were at ease", cluster: sira}
+  badr-thousand-against-three-hundred-nineteen: {label: "At Badr the polytheists were a thousand and the prophet's men three hundred and nineteen", cluster: sira}
+  cloak-falls-from-shoulders-in-supplication: {label: "Facing the qibla with hands outstretched the prophet cries 'if this band perishes you will not be worshipped on earth' until his cloak falls; Abu Bakr puts it back and holds him from behind", cluster: sira}
+  whip-mark-turns-green: {label: "The enemy struck by the unseen horseman falls with nose split and face cut as by a whip, and the whole of it turns green", cluster: sira}
+  prophet-and-abu-bakr-weep-over-ransom: {label: "Abu Bakr advises ransom, Umar killing; the prophet inclines to Abu Bakr; next day Umar finds them weeping: their punishment was shown 'nearer than this tree'", cluster: sira}
+  prophet-leaves-tent-reciting-the-host-will-be-routed: {label: "In his tent at Badr the prophet pleads 'I adjure you by your covenant'; Abu Bakr takes his hand; he leaps out in his mail reciting 'the host will be routed' (54:45)", cluster: sira}
+  angels-of-badr-are-best-of-angels: {label: "Gabriel asks how the Badr fighters rank among you - 'among the best' - 'so too the angels who were at Badr'", cluster: angels}
+  gabriel-holding-his-horses-head-in-armour: {label: "'This is Gabriel holding his horse's head, with the gear of war on him'", cluster: angels}
+  only-horseman-at-badr-al-miqdad: {label: "There was no horseman among us at Badr but al-Miqdad; all slept except the prophet, praying and weeping under a tree until morning", cluster: sira}
+  night-drizzle-shelter-under-trees-and-shields: {label: "In the Badr night a drizzle of rain fell and they sheltered under trees and leather shields", cluster: sira}
+  avoid-the-seven-destroyers: {label: "Avoid the seven destroyers (al-mubiqat): shirk, sorcery, killing a soul, usury, an orphan's property, fleeing the day of the advance, slandering chaste women", cluster: law}
+  gabriel-tells-him-take-handful-of-dust: {label: "Gabriel tells the prophet 'take a handful of dust'; he throws it in their faces and every polytheist gets dust in eyes, nostrils and mouth", cluster: sira}
+  sound-like-pebble-in-a-basin: {label: "At Badr a sound fell from heaven to earth like a pebble falling in a basin, and he threw the pebbles", cluster: sira}
+  abu-jahl-prays-destroy-the-kin-cutter: {label: "Abu Jahl at Badr prays: 'O God, whichever of us most cut kinship and brought the unknown, destroy him this morning' - he was the one seeking judgment (8:19)", cluster: sira}
+  two-young-ansar-kill-abu-jahl: {label: "Two young Ansari boys each ask Abd al-Rahman b. Awf to point out Abu Jahl, rush him with their swords; 'did you wipe your swords?' - 'both of you killed him'", cluster: sira}
+  man-of-old-sawn-in-two-combed-with-iron: {label: "Men before you had a pit dug, a saw set on the head and were split in two, or were combed with iron combs below the flesh, and it did not turn them from their religion", cluster: martyrdom}
+  deaf-dumb-are-a-clan-of-quraysh: {label: "'The worst beasts, deaf and dumb' (8:22) are a party of Banu Abd al-Dar", cluster: revelation}
+  fatiha-the-greatest-sura-seven-mathani: {label: "Al-Hamd is the greatest sura of the Quran, the seven oft-repeated (al-sab' al-mathani) and the great Quran given to the prophet", cluster: revelation}
+  hearts-between-two-fingers-of-the-merciful-as-one-heart: {label: "All the hearts of the children of Adam are between two of the fingers of the Merciful as one heart, turned as he wills", cluster: theology}
+  passengers-on-a-ship-drilling-the-lower-deck: {label: "Those upholding God's limits and those breaking them are like people who drew lots for a ship: those below, drawing water, propose to bore a hole in their own share; if left all perish, if stopped all are saved", cluster: ethics}
+  fatima-warns-of-oath-to-kill: {label: "Fatima weeps to her father that the chiefs have sworn to kill him; 'not one but knows his share of your blood'", cluster: sira}
+  iblis-as-old-man-of-najd: {label: "Iblis comes to the Quraysh council as a venerable old man 'from Najd', rejects imprisonment and banishment and approves Abu Jahl's plan", cluster: sira}
+  plan-to-imprison-till-death-like-the-poets: {label: "One proposes to chain him till he dies 'as the poets died before, Zuhayr and al-Nabigha' - answered by 52:30 'a poet; let us await for him the turn of fate'", cluster: sira}
+  day-of-the-crowding: {label: "That day of the plot was called 'the day of the crowding' (yawm al-zahma)", cluster: sira}
+  abu-jahl-asks-for-stones-from-heaven: {label: "Abu Jahl said 'O God, if this is the truth from you, rain stones on us from heaven' (8:32), and 8:33-34 came down", cluster: sira}
+  polytheist-talbiya-except-a-partner-you-own: {label: "The polytheists' talbiya at the House: 'labbayk, no partner have you' - the prophet says 'enough, enough' - 'except a partner who is yours, whom you own with what he owns'", cluster: ritual}
+  two-safeguards-prophet-and-asking-forgiveness: {label: "They had two safeguards (amanan): the prophet and asking forgiveness; the prophet went and the asking of forgiveness remained", cluster: revelation}
+  whistling-and-clapping-defined: {label: "Al-muka' is whistling and al-tasdiya clapping; the people of the Jahiliyya circled the House naked", cluster: ritual}
+  good-in-islam-not-taken-for-jahiliyya: {label: "Whoever does well in Islam is not taken to task for what he did in the Jahiliyya; whoever does ill is taken for both the first and the last", cluster: law}
+  you-became-muslim-with-past-good: {label: "Asked about his alms, freeing slaves and ties of kin in the Jahiliyya: 'you have become Muslim with the good you did before'", cluster: law}
+  amr-withdraws-hand-to-stipulate: {label: "Amr b. al-As draws back his hand at the pledge to stipulate forgiveness: 'do you not know that Islam demolishes what was before it?'", cluster: sira}
+  who-fights-for-gods-word-highest: {label: "One fights for booty, one for renown, one to be seen; 'whoever fights so that God's word is highest is in God's path'", cluster: law}
+  killed-after-saying-la-ilaha-illallah: {label: "Usama spears a man who said 'there is no god but God' when overtaken; 'did you kill him after he said it?' is repeated until Usama wishes he had not been Muslim before that day", cluster: law}
+  ordered-to-fight-till-they-witness-pray-give: {label: "Ordered to fight people until they witness there is no god but God and Muhammad is his messenger, pray and give zakat; then their blood and property are safe", cluster: law}
+  ibn-umar-declines-civil-war: {label: "Pressed with 49:9 to fight, Ibn Umar prefers to be 'deceived' by that verse than by 4:93; 'we fought when Islam was few and men were tried in religion; now there is no fitna'", cluster: sira}
+  fitna-was-entering-among-polytheists: {label: "Ibn Umar: the prophet fought the polytheists, and entering among them was a fitna; not like your fighting for kingship", cluster: sira}
+  disobedient-town-fifth-to-god: {label: "A town you come to and stay in, your share is in it; a town that disobeyed God and his messenger, its fifth is God's and his messenger's, then it is yours", cluster: law}
+  camel-hair-tuft-only-the-fifth-mine: {label: "Praying toward a booty camel, the prophet plucks a tuft of its hair: 'not even this of your spoils is lawful for me except the fifth, and the fifth is returned to you'", cluster: law}
+  women-raiders-tend-wounded-get-gift-not-share: {label: "Women went on raids, treated the wounded and were given something from the booty, but no share was struck for them; children were not killed", cluster: law}
+  orphanhood-ends-when-he-takes-for-himself: {label: "Orphanhood ends not with the beard but when a man takes for himself the right things people take; the fifth 'we said it is ours; our people refused'", cluster: law}
+  slayers-claim-with-proof-gets-the-spoil: {label: "'Whoever killed a slain man and has proof of it has his spoil' is called three times; Abu Bakr: shall a lion of God's lions fight for God and you be given his spoil?", cluster: law}
+  first-property-gained-in-islam: {label: "Abu Qatada sells the mail coat he won and buys a garden plot in Banu Salima: 'the first property I acquired in Islam'", cluster: sira}
+  day-of-criterion-is-badr: {label: "The day of the criterion (yawm al-furqan) is Badr, when God divided truth from falsehood", cluster: revelation}
+  met-without-appointment-at-badr: {label: "The prophet went out wanting the Quraysh caravan until God brought them and their enemy together without appointment; none was blamed for staying away", cluster: sira}
+  caravan-of-forty-riders: {label: "Abu Sufyan returned from Syria with forty riders; the prophet went out with three hundred and some riders, eighty camels and a horse, most on foot", cluster: sira}
+  paradise-under-shades-of-swords: {label: "Do not wish to meet the enemy; ask God for well-being; when you meet them be steadfast, and know paradise is under the shades of swords", cluster: warfare}
+  revealer-of-book-driver-of-clouds-routing-confederates: {label: "Prayer: 'O God, revealer of the Book, driver of the clouds, router of the confederates, rout them and help us'", cluster: ritual}
+  iblis-in-form-of-suraqa-withdraws-hand: {label: "Iblis comes to Badr with a troop of devils and a banner as Suraqa b. Malik of Mudlij; seeing Gabriel he snatches his hand from a polytheist's and flees: 'I see what you do not see'", cluster: sira}
+  o-my-servants-i-forbade-injustice-to-myself: {label: "'O my servants, I have forbidden injustice to myself and made it forbidden among you'; all are astray, hungry, naked unless God guides, feeds, clothes", cluster: theology}
+  needle-dipped-in-the-sea: {label: "If all men and jinn asked and each were given, it would lessen God's store only as a needle lessens the sea when dipped in it", cluster: theology}
+  god-is-great-fidelity-not-treachery: {label: "Mu'awiya raids the Byzantines as the truce ends; a rider cries 'God is greatest, fidelity not treachery': no knot is untied before the term or notice given 'on equal terms', and Mu'awiya withdraws", cluster: law}
+  force-is-shooting-three-times: {label: "From the pulpit: 'Prepare what force you can' - 'force is shooting' three times", cluster: warfare}
+  horse-reward-shelter-or-burden: {label: "Horses are reward for one man, cover for another, a burden on a third; even the grazing, dung and water of the God's-path horse count as good deeds", cluster: warfare}
+  donkeys-under-the-atoms-weight-verse: {label: "Asked about donkeys: nothing was revealed but this unique comprehensive verse, the atom's weight of good and evil (99:7-8)", cluster: revelation}
+  good-tied-to-forelocks-of-horses: {label: "Good is tied to the forelocks of horses until the Day of Resurrection: reward and booty", cluster: warfare}
+  ten-horsemen-scouts-against-the-dajjal: {label: "Ten horsemen are sent as scouts against the Dajjal; the prophet knows their names, their fathers' names and the colours of their horses", cluster: eschatology}
+  horses-food-and-dung-in-the-balance: {label: "Whoever keeps a horse in God's path: its fill, drink, dung and urine are in his balance on the Day of Resurrection", cluster: warfare}
+  rider-flying-at-every-alarm-or-shepherd-on-peak: {label: "Best livelihood: a man holding his horse's rein in God's path flying to every alarm, or one with a few sheep on a mountaintop praying until certainty comes", cluster: ethics}
+  ansar-were-astray-divided-poor: {label: "To the Ansar after Hunayn: 'did I not find you astray and God guided you through me, divided and God joined you, poor and God enriched you?'", cluster: sira}
+  one-against-ten-eased-to-one-against-two: {label: "It was prescribed that one must not flee from ten; it was eased to one from two, and patience was lessened as the number was lessened", cluster: law}
+  i-do-not-punish-till-i-have-warned: {label: "'Had a decree not preceded' (8:68): were it not that I punish no one who disobeys until I have warned him first", cluster: theology}
+  nearly-afflicted-for-opposing-you: {label: "After the ransom verse the prophet tells Umar: 'a calamity nearly befell us for opposing you'", cluster: sira}
+  spoils-burned-by-fire-for-black-headed-peoples: {label: "Spoils were not lawful to any 'black-headed' people before you: fire came down from heaven and consumed them; at Badr people hastened to the booty and 8:68 came", cluster: law}
+  sad-laughs-at-the-akhnas-insult: {label: "Told that 'the little snub-nose' (al-ukhaynis) hated and reviled him, Sa'd laughs until it overcomes him: a man may be angry with his brother without it touching his trust", cluster: sira}
+  they-are-your-brothers-of-yesterday: {label: "Umar thrice says 'strike their necks'; the prophet turns away and says 'they are your brothers of yesterday'; Abu Bakr advises pardon and ransom and the gloom leaves his face", cluster: sira}
+  bridegroom-builder-herdsman-not-to-follow-raid: {label: "A prophet going to war says: let no man follow me who has married a woman and not yet gone in to her, nor one who built a house and has not raised its roof, nor one who bought sheep or she-camels and awaits their young", cluster: warfare}
+  sun-held-for-raiding-prophet-till-conquest: {label: "Near the town at the afternoon prayer the prophet tells the sun 'you are commanded and I am commanded; O God, hold it back for me', and it is held until the conquest", cluster: warfare}
+  gold-head-of-a-cow-brought-out: {label: "The thieves bring out the like of a cow's head in gold; set with the spoil on the open ground, the fire comes and consumes it", cluster: warfare}
+  abbas-forty-ounces-repaid-forty-slaves: {label: "Al-Abbas ransomed himself at Badr for forty ounces of gold and God gave him forty slaves, and the hope of forgiveness", cluster: sira}
+  buried-money-known-only-to-abbas-and-umm-al-fadl: {label: "The prophet tells al-Abbas of the money he buried with Umm al-Fadl, which no one else knew; Abbas witnesses he is God's messenger; twenty ounces repaid with twenty slaves each trading with wealth", cluster: sira}
+  not-a-dirham-of-the-ransom-remitted: {label: "Ansar ask leave to waive the ransom of 'our sister's son' Abbas: 'do not leave a single dirham of it'", cluster: sira}
+  emigrants-helpers-allies-freedmen-allies: {label: "Emigrants and Ansar are allies of one another in this world and the next; the freed captives (tulaqa') of Quraysh and freedmen of Thaqif are allies of one another to the Day of Resurrection", cluster: sira}
+  no-hijra-now-but-jihad-and-intention: {label: "Aisha: no emigration today; the believer used to flee with his religion lest he be tried; now God has made Islam prevail and each worships his Lord where he will", cluster: law}
+  three-options-islam-hijra-jizya: {label: "Invite the enemy to three things: Islam (and moving to the abode of the emigrants, else they are like Muslim bedouin with no share of booty), else the jizya, else fight", cluster: law}
+  do-not-give-them-gods-protection-give-yours: {label: "Besieging a fort: do not grant them God's and his prophet's guarantee but yours; do not bring them down on God's judgment but on yours, for you do not know if you hit it", cluster: law}
+  brothered-emigrant-and-helper-inherited: {label: "The prophet paired emigrant and helper as brothers and they expected to inherit from each other until 'blood relatives are nearer one to another' (8:75)", cluster: law}
+  sworn-ally-inheritance-abrogated: {label: "A man would ally himself with another without kinship and each inherit from the other; al-Anfal abrogated it", cluster: law}
+  # ---- al-Tawba
+  tawba-the-exposer-and-them-and-them: {label: "Al-Tawba is 'the exposer' (al-fadiha): it kept coming down 'and of them... and of them...' until they thought it would leave none unmentioned", cluster: revelation}
+  last-verse-kalala-last-sura-baraa: {label: "The last verse revealed was 'they ask you for a ruling: say God gives you a ruling on kalala' (4:176) and the last sura Bara'a", cluster: revelation}
+  ali-sent-after-to-proclaim-baraa: {label: "Abu Bakr sends criers at Mina on the day of sacrifice: no polytheist to make pilgrimage after this year, none to circle naked; Ali is sent after to proclaim Bara'a", cluster: sira}
+  day-of-sacrifice-is-greatest-pilgrimage: {label: "Standing among the jamarat on the day of sacrifice: 'what day is this?' - 'the day of sacrifice' - 'this is the day of the greatest pilgrimage'", cluster: ritual}
+  messenger-not-commander-reads-baraa-at-each-station: {label: "Abu Bakr hears the grumble of the prophet's camel al-Jad'a; Ali on it: 'messenger, not commander'; Abu Bakr preaches the rites and Ali reads Bara'a to the end at each station", cluster: sira}
+  four-hypocrites-left-one-old-man: {label: "Only three of the people of 9:12 and four of the hypocrites remain; one an old man who if he drank cold water would not feel its coolness", cluster: sira}
+  builder-of-mosque-given-house-in-paradise: {label: "Whoever builds a mosque seeking God's face, God builds the like for him in paradise", cluster: ritual}
+  going-to-mosque-prepares-hospitality: {label: "Whoever goes to the mosque morning or evening, God prepares for him a hospitality (nuzul) in paradise each time", cluster: ritual}
+  three-claim-best-deed-at-the-pulpit: {label: "At the pulpit one says watering pilgrims is best, another tending the Sacred Mosque, a third jihad; Umar rebukes their raised voices on Friday; 9:19 comes", cluster: revelation}
+  abbas-captive-claims-tending-house-and-watering: {label: "Al-Abbas, captured at Badr: 'if you preceded us in Islam, emigration and jihad, we tended the Sacred Mosque, watered pilgrims and freed captives'", cluster: sira}
+  prophet-drinks-from-common-trough: {label: "At the water-station the prophet asks 'give me to drink' though 'they put their hands in it', drinks, and tells the Zamzam workers 'were it not that you would be overcome I would put the rope on my shoulder'", cluster: ritual}
+  pilgrims-given-nabidh-not-honey-or-milk: {label: "Ibn Abbas's family gives pilgrims nabidh, not honey and milk: the prophet drank nabidh with Usama behind him and said 'well done, do so'", cluster: ritual}
+  more-beloved-than-father-child-and-all: {label: "None of you believes until I am more beloved to him than his father, his child and all people (than his family and wealth)", cluster: ethics}
+  more-beloved-than-yourself-now-umar: {label: "Umar: 'you are dearer to me than everything but myself' - 'no, until dearer than yourself' - 'now, by God, dearer than myself' - 'now, Umar'", cluster: ethics}
+  people-of-the-acacia-called-back: {label: "Abbas, a loud-voiced man, cries 'where are the people of the acacia (al-samura)?'; they turn back like cows to their calves, crying labbayk", cluster: sira}
+  now-the-oven-is-hot: {label: "Watching the battle from his mule the prophet says 'now the oven (al-watis) is hot'; he throws pebbles: 'they are routed, by the Lord of Muhammad'", cluster: sira}
+  handsome-faced-men-say-shahat-al-wujuh: {label: "A man who fought at Hunayn as an unbeliever: when they reached the prophet, men with handsome faces stood between and said 'disfigured be the faces, go back', and they were routed", cluster: sira}
+  believer-does-not-become-impure: {label: "A companion slips away being in a state of janaba to wash; 'glory to God, the believer (Muslim) does not become impure'", cluster: purity}
+  enemy-like-bird-head-two-wings-two-feet: {label: "Al-Hurmuzan: the enemy is like a bird with a head, two wings and two feet; break the head (Chosroes) and all fall: march on Chosroes", cluster: sira}
+  we-sucked-hides-and-date-stones: {label: "Before Chosroes' governor al-Mughira: we were Arabs in hardship, sucking hides and date-stones for hunger, wearing hair, worshipping trees and stones, until God sent us a prophet", cluster: sira}
+  throw-off-this-idol-gold-cross: {label: "Adi b. Hatim comes with a gold cross on his neck: 'throw this idol off you'", cluster: polemic}
+  lords-by-making-lawful-and-unlawful: {label: "They did not worship their rabbis and monks, but when these made something lawful they took it as lawful and when they forbade, forbidden", cluster: polemic}
+  woman-travels-from-hira-to-kaba-safe: {label: "A litter-woman will travel from al-Hira and circle the Kaaba fearing none but God; Chosroes' treasures will be opened; a man will offer a handful of gold and find none to take it", cluster: eschatology}
+  no-interpreter-between-man-and-god: {label: "Each will meet God with no interpreter between them; he looks right and sees only hell, left and sees only hell: guard against the fire with half a date", cluster: eschatology}
+  lat-and-uzza-worshipped-again-after-good-wind: {label: "Night and day will not end until al-Lat and al-Uzza are worshipped; God sends a good wind that takes everyone with a mustard seed of faith and the rest return to their fathers' religion", cluster: eschatology}
+  earth-gathered-for-me-east-and-west: {label: "God gathered (zawa) the earth for me so I saw its east and west; my community's rule will reach what was gathered; given the red and the white treasures", cluster: eschatology}
+  not-destroyed-by-famine-nor-outside-enemy: {label: "Asked for his community: not destroyed by a general famine nor an outside enemy, but they will destroy and capture one another", cluster: eschatology}
+  religion-enters-every-house-of-clay-and-hair: {label: "This religion will reach where night and day reach; God leaves no house of clay or of hair (madar, wabar) without entering it, with honour for the honoured or humiliation for the humbled", cluster: eschatology}
+  zakat-made-purification-of-wealth: {label: "Ibn Umar: the hoarding verse was before zakat came down; then God made zakat a purification of wealth", cluster: law}
+  hoard-heated-into-plates-to-brand: {label: "Every owner of a hoard who pays no zakat: it is heated in hell, made into plates, his sides and forehead branded, in a day of fifty thousand years", cluster: eschatology}
+  hot-stones-on-nipple-through-shoulder: {label: "Abu Dharr: give the hoarders glad tidings of hot stones heated in hell, put on the nipple till they come out at the shoulder-blade and on the shoulder-blade till out at the nipple", cluster: eschatology}
+  hoard-becomes-bald-serpent-with-two-spots: {label: "Unpaid zakat is made a bald serpent with two black spots, coiled round him on the Day of Resurrection, seizing his jaws: 'I am your wealth, I am your hoard'", cluster: eschatology}
+  abu-dharr-and-muawiya-on-the-hoarding-verse: {label: "At al-Rabadha Abu Dharr explains his exile: in Syria Mu'awiya said 9:34 was about the People of the Book, he said 'about us and them'; Uthman offered him a place apart", cluster: sira}
+  not-even-uhud-in-gold-three-days: {label: "Seeing Uhud: I would not like to have its like in gold with a dinar left after three days, except to spend 'thus and thus' right, left and behind", cluster: ethics}
+  the-most-are-the-least: {label: "The most (wealthy) are the least on the Day of Resurrection, except who spends thus and thus, and few they are", cluster: eschatology}
+  unpaid-livestock-trample-and-gore: {label: "Camels, cows and sheep whose zakat was not paid come on the Day of Resurrection bigger and fatter, goring with horns and trampling with hooves, the first returning when the last has passed", cluster: eschatology}
+  gold-tied-up-is-live-coal: {label: "Any gold or silver tied up is a live coal on its owner until he spends it in God's path; Abu Dharr has his surplus spent at once on small coins", cluster: ethics}
+  time-turned-round-as-on-day-of-creation: {label: "Time has turned round to its form on the day God created heaven and earth; the year is twelve months, four sacred: three consecutive and Rajab of Mudar between Jumada and Sha'ban", cluster: ritual}
+  what-day-what-month-silence: {label: "At the sermon the prophet asks 'which month, which land, which day is this?', and each time is silent until they think he will rename it", cluster: sira}
+  world-to-hereafter-as-finger-dipped-in-sea: {label: "The world beside the hereafter is like what a finger dipped in the sea brings back", cluster: eschatology}
+  world-meaner-than-a-dead-earless-kid: {label: "Holding a dead earless kid by the ear in the market: 'who would buy this for a dirham?'; 'the world is more worthless to God than this to you'", cluster: ethics}
+  going-out-verse-abrogated-by-9122: {label: "Ibn Abbas: 'if you do not go out' (9:39) and 9:120-121 were abrogated by 9:122, not all the believers are to go out", cluster: law}
+  feet-above-the-cave: {label: "Abu Bakr in the cave sees the polytheists' feet over their heads: 'if one looked at his feet he would see us beneath them'", cluster: sira}
+  god-guarantees-the-raider-paradise-or-return: {label: "God guarantees whoever goes out only for jihad in his path either paradise or return home with reward or booty", cluster: warfare}
+  asking-leave-verse-abrogated-by-2462: {label: "'Those who believe do not ask your leave' (9:44) was abrogated by al-Nur 24:62", cluster: law}
+  who-is-just-if-i-am-not: {label: "A man says 'be just' as the prophet divides: 'woe to you, who is just if I am not?'; Umar asks to strike his neck: 'leave him'", cluster: sira}
+  arrow-examined-at-feathers-shaft-head-no-trace: {label: "They pass through religion as the arrow passes the game: its head, shaft, binding and feathers are examined and nothing is found; it outran the dung and blood", cluster: polemic}
+  no-share-for-rich-or-able-earner: {label: "Two strong men ask for alms: 'if you wish I give you; no share in it for the rich or the strong earner'", cluster: law}
+  poor-is-not-the-beggar-round-the-doors: {label: "The poor (miskin) is not the one going round for a mouthful or a date, but who has not enough, is not noticed and does not stand up to ask", cluster: law}
+  wage-for-the-collector-take-what-unasked: {label: "Umar pays the alms collector who protests he worked for God: 'take it; when given without asking, eat and give alms'", cluster: law}
+  alms-are-the-dirt-of-people: {label: "Alms are not fit for the family of Muhammad, they are the dirt (awsakh) of people; instead the youths are married and dowered from the fifth", cluster: law}
+  zaynab-signals-from-behind-curtain: {label: "While the two youths wait, Zaynab signals to them from behind the curtain not to speak", cluster: sira}
+  safwan-given-hundreds-until-he-loved-him: {label: "At Hunayn Safwan b. Umayya is given a hundred camels, then a hundred, then a hundred: 'he was the most hateful of people to me, and kept giving until he was the most beloved'", cluster: sira}
+  believer-or-muslim: {label: "Sa'd thrice says 'I see him a believer'; the prophet: 'or a Muslim?' I give a man while another is dearer, lest he be thrown on his face into the fire", cluster: theology}
+  gold-in-its-earth-divided-among-four: {label: "Ali sends from Yemen a piece of gold still in its earth; it is divided among four chiefs to win them, and Quraysh is angered", cluster: sira}
+  man-of-thick-beard-shaved-head: {label: "A man with thick beard, prominent cheeks, sunken eyes, bulging forehead and shaved head says 'fear God, Muhammad'", cluster: sira}
+  three-whom-god-must-help: {label: "Three God is bound to help: the fighter in God's path, the slave under contract wanting to pay, the one marrying to be chaste", cluster: law}
+  creditors-take-what-you-find: {label: "A man ruined by fruit he bought is given alms but not enough; creditors are told 'take what you find; you have nothing but that'", cluster: law}
+  alms-lawful-to-five-rich: {label: "Alms are not lawful to a rich man except five: the collector, the fighter, one who bought it, one gifted it by a poor recipient, the debtor", cluster: law}
+  hypocrite-clings-to-camel-girth-stones-bruise-him: {label: "A man who called the reciters greediest, most lying and most cowardly clings to the girth of the prophet's camel, stones bruising his feet, saying 'we were only chatting and playing'", cluster: sira}
+  makhshi-asks-to-be-killed-unknown: {label: "Makhshi, pardoned, renamed Abd al-Rahman, asks to die a martyr whose death is unknown; killed at al-Yamama, no trace found", cluster: sira}
+  follow-predecessors-into-lizards-hole: {label: "You will follow the ways of those before you span by span and cubit by cubit, even into a lizard's hole - the Jews and Christians? - who else? (Persians and Romans - who else are people?)", cluster: eschatology}
+  believer-to-believer-as-building: {label: "The believer to the believer is like a building, one part bracing another, and he interlaces his fingers", cluster: ethics}
+  believers-as-one-body-fever-and-sleeplessness: {label: "Believers in mutual mercy are like one body: when a limb complains, the rest answers with sleeplessness and fever", cluster: ethics}
+  two-gardens-silver-two-gold-cloak-of-pride: {label: "Two gardens of silver, their vessels and all in them, two of gold; nothing between them and seeing their Lord but the cloak of pride on his face in the garden of Eden", cluster: eschatology}
+  i-make-my-pleasure-alight-on-you: {label: "God asks paradise's people 'are you content?'; 'I give you better: I make my pleasure alight on you and will never be angry with you after'", cluster: eschatology}
+  worse-than-donkeys-if-he-is-truthful: {label: "Al-Julas: 'if this man is truthful we are worse than donkeys'; Umayr b. Sa'd reports it, Julas swears he did not, and 9:74 comes", cluster: sira}
+  man-looking-with-satans-eyes: {label: "'A man will come who looks with a devil's eyes; do not speak to him'; a blue-eyed man appears and is asked why he reviles", cluster: sira}
+  hypocrite-three-signs-covenant-broken: {label: "Ibn Mas'ud: judge the hypocrites by three: when he speaks he lies, promises he breaks, covenants he betrays; 9:75-77 confirm it", cluster: ethics}
+  half-sa-mocked-large-gift-called-show: {label: "Abu Aqil brings half a sa'; the hypocrites: God has no need of this; a man brings more: only for show; 9:79 is revealed", cluster: revelation}
+  forty-ounces-of-gold-and-a-sa-of-food: {label: "Abd al-Rahman b. Awf brings forty ounces of gold, an Ansari a sa' of food; the hypocrites call the first show and say God and his messenger are rich beyond the sa'", cluster: revelation}
+  shirt-given-to-shroud-ibn-ubayy: {label: "The son of Abd Allah b. Ubayy asks the prophet's shirt to shroud his father; he gives it and stands to pray over him", cluster: sira}
+  given-choice-i-will-exceed-seventy: {label: "Umar seizes his garment; the prophet: 'God gave me the choice ... and I will add more than seventy'; he prays and 9:84 is revealed", cluster: sira}
+  umar-wonders-at-his-daring: {label: "Umar afterwards wonders at his own daring with the prophet", cluster: sira}
+  visitor-overstays-three-times-hijab-revealed: {label: "A man overstays; the prophet goes out three times so he will follow; Umar urges a curtain for his wives and 33:53 comes", cluster: sira}
+  umar-says-blessed-is-god-best-of-creators: {label: "When the creation verses of al-Mu'minun come down Umar says 'blessed be God the best of creators', and 'so blessed be God...' (23:14) is revealed", cluster: revelation}
+  if-we-agreed-i-would-not-defy-you: {label: "'If you two agreed I would not disobey you' - the prophet takes Abu Bakr's counsel of ransom and 8:67 comes", cluster: sira}
+
+units:
+  # ================= al-Ma'ida (end)
+  - id: hadith-60-sword-taken-from-tree-5-67
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The sleeping prophet's sword taken from a tree - 'who will protect you from me?' - and 5:67"
+    read: ["Jāmiʿ 60:6940.1-6940.2"]
+    quran: ["5:67"]
+    tags:
+      - {motif: sword-drawn-over-sleeper-who-protects-you, refs: ["Jāmiʿ 60:6940.1"], note: "تحت شجرة، وعلَّق بها سيْفَهُ ... إن هذا اخترطَ عليَّ سيفي وأنا نائم ... من يمنعك مني؟ فقلت: اللَّه ثلاثًا، ولم يعاقبْهُ"}
+      - {motif: arab-takes-sleeping-prophets-sword-from-tree-asks-who-protects, refs: ["Jāmiʿ 60:6940.2"], note: "نظروا أعظم شجرة ... وقد علق السيف عليها، إذ جاء أعرابي ... يا محمد من يمنعك مني الليلة؟ فقال: اللَّه، فأنزل اللَّه: ﴿وَاللَّهُ يَعْصِمُكَ مِنَ النَّاسِ﴾"}
+  - id: hadith-60-jews-salman-christians-5-82
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Ten Jews would bring all Jews; Salman's alms and gift; the Christians and 5:82-83"
+    read: ["Jāmiʿ 60:6944.1-6945.1"]
+    quran: ["5:82-83"]
+    tags:
+      - {motif: ten-jews-following-would-bring-all-jews, refs: ["Jāmiʿ 60:6944.1"], note: "لو تابعني عشرة من اليهود، لم يبق على ظهرها يهودي إِلَّا أسلم"}
+      - {motif: food-as-alms-refused-as-gift-eaten, refs: ["Jāmiʿ 60:6945.1"], note: "صَدَقَةٌ، فَقَال لأَصْحَابِهِ: كُلُوا، وَلَمْ يَأْكُلْ ... هَدِيَّةٌ، فَضَرَبَ بِيَدِهِ فَأَكَلَ"}
+      - {motif: no-good-in-christians-then-praised-ones-revealed, refs: ["Jāmiʿ 60:6945.1"], note: "أَخْبِرْنِي عَنِ النَّصَارَى؟ قَال: لا خَيْرَ فِيهِمْ ... يَا سَلْمَانُ إِنَّ أَصْحَابَكَ هَؤُلاءِ الَّذِينَ ذَكَرَ اللَّهُ"}
+  - id: hadith-60-negus-weeping-5-83
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "5:83 revealed about the Negus and his companions"
+    read: ["Jāmiʿ 60:6945.2"]
+    quran: ["5:83"]
+    tags:
+      - {motif: negus-and-companions-weep-at-recitation, refs: ["Jāmiʿ 60:6945.2"], note: "نزلت هذه الآية في النجاشي، وفي أصحابه ﴿تَرَى أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ﴾"}
+  - id: hadith-60-castration-and-monks-5-87
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Forbidding the good things - castration refused, temporary marriage permitted, 'I fast and eat, marry women'"
+    read: ["Jāmiʿ 60:6946.1-6946.2"]
+    quran: ["5:87"]
+    tags:
+      - {motif: campaigners-ask-to-castrate-themselves, refs: ["Jāmiʿ 60:6946.1"], note: "ألا نستخصي؟ فنهانا عن ذلك، ثم رخّص لنا أن ننكح المرأة بالثوب إلي أجل"}
+      - {motif: i-fast-and-eat-pray-and-sleep-marry-women, refs: ["Jāmiʿ 60:6946.2"], note: "نقطَعُ مذاكيرَنا، ونترك شهوات الدنيا، ونسيح في الأرض كما تفعل الرهبان ... لكنيّ أصوم وأفطر، وأصلِّي وأنام، وأنكح النساء"}
+    hints:
+      - "The companions' plan to cut off their members and wander 'as the monks do' against Matt 19:12 (those who made themselves eunuchs for the kingdom of heaven), where the self-made eunuch is commended."
+  - id: hadith-60-oaths-and-expiation-5-89
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The idle oath, Abu Bakr's oaths, and 'the average of what you feed your families'"
+    read: ["Jāmiʿ 60:6948.1-6948.3"]
+    quran: ["5:89"]
+    tags:
+      - {motif: idle-oath-is-no-by-god-yes-by-god, refs: ["Jāmiʿ 60:6948.1"], note: "في قول الرجل: لا واللَّه، وبلى واللَّه"}
+      - {motif: abu-bakr-broke-no-oath-until-expiation-revealed, refs: ["Jāmiʿ 60:6948.2"], note: "كان لا يحنث في يمين حتى أنزل اللَّه كفارة اليمين ... إلّا قبلت رخصة اللَّه وفعلت الّذي هو خير"}
+      - {motif: average-food-between-ample-and-scanty, refs: ["Jāmiʿ 60:6948.3"], note: "كان الرجل يقوت أهله قوتا فيه سعة، وكان الرجل يقوت أهله قوتا فيه شدة. فنزلت: ﴿مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ﴾"}
+      - {motif: oath-expiation-feed-ten, refs: ["Jāmiʿ 60:6948.2"], note: "حتى أنزل اللَّه كفارة اليمين"}
+  - id: hadith-60-wine-forbidden-5-90
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The ban on wine - five drinks, none of grapes; the jars poured out; Umar's 'five things'; backgammon"
+    read: ["Jāmiʿ 60:6948.4-6949.3"]
+    quran: ["5:90"]
+    tags:
+      - {motif: wine-forbidden-when-five-drinks-none-of-grape, refs: ["Jāmiʿ 60:6948.4"], note: "وإنّ في المدينة يومئذ لخمسة أشربة، ما فيها شراب العنب"}
+      - {motif: wine-jars-poured-out-at-the-news, refs: ["Jāmiʿ 60:6949.1"], note: "مَا كَانَتْ لَنَا خَمْرٌ غَيْرَ فَضِيخِكُمْ ... يَا أَنَسُ! أَرِقْ هَذِهِ الْقِلَالَ. قَالَ: فَمَا رَاجَعُوهَا"}
+      - {motif: wine-from-five-things-what-befogs-the-mind, refs: ["Jāmiʿ 60:6949.2"], note: "وهي من خمسة: من العنب والتمر والعسل والحنطة والشعير والخمر ما خامر العقل"}
+      - {motif: three-matters-wished-settled-grandfather-kalala-usury, refs: ["Jāmiʿ 60:6949.2"], note: "وددت أن رسول اللَّه ﷺ كان عهد إلينا فيهن عهدا ننتهي إليه: الجد، والكلالة، وأبواب من أبواب الربا"}
+      - {motif: dicer-dyes-hand-in-pigs-flesh-and-blood, refs: ["Jāmiʿ 60:6949.3"], note: "من لعب بالنردشير فكأنما صبغ يده في لحم خنزير ودمه"}
+      - {motif: wine-and-gambling-satans-work, refs: ["Jāmiʿ 60:6948.4", "Jāmiʿ 60:6949.2"], note: "نزل تحريم الخمر"}
+  - id: hadith-60-dead-wine-drinkers-5-93
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Wine running in the streets; the dead who drank it; the martyrs of Uhud; 'you are among them'"
+    read: ["Jāmiʿ 60:6950.1-6951.2"]
+    quran: ["5:93"]
+    tags:
+      - {motif: poured-wine-runs-in-medinas-streets, refs: ["Jāmiʿ 60:6950.1"], note: "فأمر رسول اللَّه ﷺ مناديا ينادي: ألا إن الخمر قد حرمت ... فخرجت فهرقتها فجرت في سكك المدينة"}
+      - {motif: dead-wine-drinkers-not-blamed, refs: ["Jāmiʿ 60:6950.1", "Jāmiʿ 60:6951.1"], note: "قد قتل قوم وهي في بطونهم ... أرأيت الذين ماتوا وهم يشربون الخمر"}
+      - {motif: prophet-told-you-are-among-them, refs: ["Jāmiʿ 60:6950.2"], note: "قال لي رسول اللَّه ﷺ: قيل لي: أنت منهم"}
+      - {motif: martyrs-of-uhud-drank-wine-that-morning, refs: ["Jāmiʿ 60:6951.2"], note: "صبّح أناس غداة أحد الخمر، فقتلوا من يومهم جميعًا شهداء، وذلك قبل تحريمها"}
+  - id: hadith-60-sea-beast-anbar-5-96
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The army of the leaves (khabat) and the sea-beast called al-'anbar"
+    read: ["Jāmiʿ 60:6953.1"]
+    quran: ["5:96"]
+    tags:
+      - {motif: sea-casts-up-beast-called-anbar, refs: ["Jāmiʿ 60:6953.1"], note: "ثلاث مائة راكب ... حتى أكلنا الخبط. فسمي ذلك الجيش جيش الخبط. فألقى لنا البحر دابة يقال لها العنبر، فأكلنا منه نصف شهر، وادهنا من ودكه"}
+      - {motif: rider-and-camel-pass-under-the-rib, refs: ["Jāmiʿ 60:6953.1"], note: "فأخذ أبو عبيدة ضلعا من أضلاعه، فنصبه ... وأخذ رجلًا وبعيرا فمر تحته"}
+      - {motif: three-camels-slaughtered-three-times, refs: ["Jāmiʿ 60:6953.1"], note: "نحر ثلاث جزائر، ثم نحر ثلاث جزائر، ثم نحر ثلاث جزائر، ثم إن أبا عبيدة نهاه"}
+      - {motif: carcass-permitted-in-necessity, refs: ["Jāmiʿ 60:6953.1"], note: "فأقمنا بالساحل نصف شهر، فأصابنا جوع شديد ... فأكلنا منه نصف شهر"}
+  - id: hadith-60-ask-me-whose-father-5-101
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Ask me' from the pulpit - 'your father is Hudhafa'; paradise and hell beyond the wall; mocking questions"
+    read: ["Jāmiʿ 60:6953.2-6955.1"]
+    quran: ["5:101"]
+    tags:
+      - {motif: ask-me-anything-from-the-pulpit, refs: ["Jāmiʿ 60:6953.2", "Jāmiʿ 60:6954.2"], note: "سَلُونِي لَا تَسْأَلُونِي عَنْ شَيْءٍ إِلَّا بَيَّنْتُهُ لَكُمْ ... فَإِذَا كُلُّ رَجُلٍ لَافٌّ رَأْسَهُ فِى ثَوْبِهِ يَبْكِي"}
+      - {motif: your-father-is-hudhafa, refs: ["Jāmiʿ 60:6953.2", "Jāmiʿ 60:6954.1", "Jāmiʿ 60:6954.2"], note: "كَانَ يُلَاحَى، فَيُدْعَى لِغَيْرِ أَبِيهِ. فَقَالَ: يَا نَبِيَّ اللَّهِ مَنْ أَبِي؟ قَالَ: أَبُوكَ حُذَافَةُ"}
+      - {motif: umar-we-are-content-with-god-as-lord, refs: ["Jāmiʿ 60:6953.2", "Jāmiʿ 60:6954.1", "Jāmiʿ 60:6954.2"], note: "بَرَكَ عُمَرُ، فَقَالَ: رَضِينَا بِاللَّهِ رَبًّا وَبِالإِسْلَامِ دِينًا وَبِمُحَمَّدٍ رَسُولًا"}
+      - {motif: paradise-and-fire-shown-beyond-the-wall, refs: ["Jāmiʿ 60:6953.2", "Jāmiʿ 60:6954.1", "Jāmiʿ 60:6954.2"], note: "إِنِّي صُوِّرَتْ لِيَ الْجَنَّةُ وَالنَّارُ، فَرَأَيْتُهُمَا دُونَ هَذَا الْحَائِطِ ... فِي عُرْضِ هَذَا الْحَائِطِ"}
+      - {motif: laugh-little-weep-much, refs: ["Jāmiʿ 60:6954.1"], note: "وَلَوْ تَعْلَمُونَ مَا أَعْلَمُ، لَضَحِكْتُمْ قَلِيلًا وَلَبَكَيْتُمْ كَثِيرًا ... غَطَّوْا رُءُوسَهُمْ وَلَهُمْ خَنِينٌ"}
+      - {motif: mother-rebukes-son-for-risking-her-shame, refs: ["Jāmiʿ 60:6954.2"], note: "مَا سَمِعْتُ بِابْنٍ قَطُّ أَعَقَّ مِنْكَ ... وَاللَّهِ لَوْ أَلْحَقَنِي بِعَبْدٍ أَسْوَدَ لَلَحِقْتُهُ"}
+      - {motif: mocking-questions-where-is-my-camel, refs: ["Jāmiʿ 60:6955.1"], note: "كَانَ قَوْمٌ يَسْأَلُونَ رَسُولَ اللَّهِ ﷺ اسْتِهْزَاءً. فَيَقُولُ الرَّجُلُ: مَنْ أَبِي؟ وَيَقُولُ الرَّجُلُ تَضِلُّ نَاقَتُهُ: أَيْنَ نَاقَتِي؟"}
+  - id: hadith-60-much-questioning-5-101
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: God dislikes much questioning; the year in Medina only to ask; righteousness and sin
+    read: ["Jāmiʿ 60:6955.2-6956.1"]
+    quran: ["5:101"]
+    tags:
+      - {motif: god-dislikes-gossip-waste-and-much-asking, refs: ["Jāmiʿ 60:6955.2"], note: "إِنَّ اللَّهَ كَرِهَ لَكُمْ ثَلَاثًا: قِيلَ وَقَالَ، وَإِضَاعَةَ الْمَالِ، وَكَثْرَةَ السُّؤَالِ"}
+      - {motif: emigrants-did-not-question-the-prophet, refs: ["Jāmiʿ 60:6956.1"], note: "أقمت مع رسول اللَّه ﷺ بالمدينة سنة. ما يمنعني من الهجرة إِلَّا المسألة. كان أحدنا إذا هاجر لم يسأل"}
+      - {motif: righteousness-good-character-sin-what-pricks-the-soul, refs: ["Jāmiʿ 60:6956.1"], note: "البر حسن الخلق والإثم ما حاك في نفسك وكرهت أن يطلع عليه الناس"}
+  - id: hadith-60-bahira-saiba-5-103
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Bahira, sa'iba, wasila, hami; the first to let loose the sa'iba dragging his entrails"
+    read: ["Jāmiʿ 60:6956.2-6957.1"]
+    quran: ["5:103"]
+    tags:
+      - {motif: bahira-milk-withheld-saiba-freed-for-the-gods, refs: ["Jāmiʿ 60:6956.2"], note: "البحيرة التي يمنع درّها للطواغيت فلا يحلبها أحد من الناس. والسائبة: كانوا يسيبونها لآلهتهم فلا يحمل عليها شيء"}
+      - {motif: wasila-and-hami-defined, refs: ["Jāmiʿ 60:6956.2"], note: "والوصيلة الناقة البكر ... إن وصلت إحداهما بالأخرى ليس بينهما ذكر. والحام: فحل الإبل يضرب الضراب المعدود ... وسموه الحامي"}
+      - {motif: amr-b-luhayy-drags-guts-in-fire, refs: ["Jāmiʿ 60:6956.2", "Jāmiʿ 60:6957.1"], note: "رأيت عمرو بن عامر الخزاعي يجر قصبه في النار"}
+      - {motif: first-to-let-loose-the-saiba, refs: ["Jāmiʿ 60:6956.2", "Jāmiʿ 60:6957.1"], note: "كان أول مَن سيَّب السوائب"}
+      - {motif: hell-parts-crushing-one-another, refs: ["Jāmiʿ 60:6957.1"], note: "رأيت جهنّم يحطم بعضها بعضًا"}
+    hints:
+      - "The she-camel and stud left unridden and unshorn for the gods against Deut 15:19 (the consecrated firstling: 'you shall not work with the firstling of your ox nor shear the firstling of your sheep')."
+  - id: hadith-60-mind-yourselves-5-105
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'You are responsible for yourselves' (5:105) - misread; when to keep to one's house; embers and fifty rewards"
+    read: ["Jāmiʿ 60:6957.2-6958.1"]
+    quran: ["5:105"]
+    tags:
+      - {motif: people-misplace-the-verse-on-minding-yourselves, refs: ["Jāmiʿ 60:6957.2"], note: "إنّ الناس إذا رأوا المنكر لا يغيرونه أوشك أن يعمهم اللَّه بعقابه"}
+      - {motif: stay-home-hold-tongue-mind-yourself, refs: ["Jāmiʿ 60:6957.3"], note: "قد مَرِجتْ عهودُهم، وخفّتْ أماناتُهم، وكانوا هكذا وشبّك بين أصابعه ... الزمْ بيتَك، وامْلِكْ عليكَ لسانَك"}
+      - {motif: avarice-obeyed-passion-followed, refs: ["Jāmiʿ 60:6958.1"], note: "حتى إذا رأيت شحا مطاعا، وهوى متبعا، ودنيا مؤثرة، وإعجاب كل ذي رأي برأيه"}
+      - {motif: days-of-patience-like-grasping-embers, refs: ["Jāmiʿ 60:6958.1"], note: "أيام الصبر، الصبر فيه مثل قبضٍ على الجمر، للعامل فيهم مثل أجر خمسين رجلًا ... أجر خمسين منكم"}
+  - id: hadith-60-silver-cup-bequest-5-106
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The man of Banu Sahm, Tamim al-Dari and Adi b. Badda' - the missing silver cup and the heirs' oath"
+    read: ["Jāmiʿ 60:6958.2"]
+    quran: ["5:106-107"]
+    tags:
+      - {motif: missing-silver-cup-and-heirs-oath, refs: ["Jāmiʿ 60:6958.2"], note: "فقدوا جاما من فضة مخوصا من ذهب، فأحلفهما رسول اللَّه ﷺ، ثم وجد الجام بمكة ... فقام رجلان من أوليائه، فحلفا لشهادتنا أحق من شهادتهما"}
+  - id: hadith-60-companions-taken-left-5-117
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Gathered barefoot, naked, uncircumcised; Abraham first clothed; the prophet answers with Jesus' words (5:117)"
+    read: ["Jāmiʿ 60:6960.1"]
+    quran: ["5:116-118", "21:104"]
+    tags:
+      - {motif: resurrected-barefoot-naked-uncircumcised, refs: ["Jāmiʿ 60:6960.1"], note: "إنكم محشورون إلى اللَّه حفاة عراة غرلا"}
+      - {motif: abraham-first-clothed-at-resurrection, refs: ["Jāmiʿ 60:6960.1"], note: "ألا وإن أول الخلائق يكسى يوم القيامة إبراهيم"}
+      - {motif: companions-taken-to-the-left-as-apostates, refs: ["Jāmiʿ 60:6960.1"], note: "يجاء برجال من أمتي، فيؤخذ بهم ذات الشمال، فأقول: يا رب أصحابي، فيقال: إنك لا تدري ما أحدثوا بعدك"}
+      - {motif: prophet-quotes-jesus-words-of-517, refs: ["Jāmiʿ 60:6960.1"], note: "فأقول كما قال العبد الصالح: ﴿وَكُنْتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ فَلَمَّا تَوَفَّيْتَنِي كُنْتَ أَنْتَ الرَّقِيبَ عَلَيْهِمْ﴾"}
+      - {motif: apostatized-since-you-left-them, refs: ["Jāmiʿ 60:6960.1"], note: "إن هؤلاء لم يزالوا مرتدين على أعقابهم منذ فارقتهم"}
+  # ================= al-An'am
+  - id: hadith-60-feeds-not-fed-6-14
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Praise after the meal at Quba' - 'God who feeds and is not fed'"
+    read: ["Jāmiʿ 60:6962.1"]
+    quran: ["6:14"]
+    tags:
+      - {motif: praise-to-him-who-feeds-and-is-not-fed, refs: ["Jāmiʿ 60:6962.1"], note: "فلما طعم وغسل يده ... الحمد للَّه الذي يُطعِم ولا يُطعَم ... وكسا من الحري، وهدى من الضلالة، وبصَّر من العمى"}
+  - id: hadith-60-none-withholds-6-17
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'None withholds what you give' after each prayer"
+    read: ["Jāmiʿ 60:6962.2"]
+    quran: ["6:17"]
+    tags:
+      - {motif: none-withholds-what-god-gives, refs: ["Jāmiʿ 60:6962.2"], note: "في دبر كل صلاة مكتوبة ... اللهم لا مانع لما أعطيت، ولا معطي لما منعت، ولا ينفع ذا الجد منك الجد"}
+  - id: hadith-60-istidraj-6-44
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Worldly gifts to the persistent sinner are a luring (istidraj)
+    read: ["Jāmiʿ 60:6963.1"]
+    quran: ["6:44"]
+    tags:
+      - {motif: worldly-gifts-to-sinner-are-gradual-snare, refs: ["Jāmiʿ 60:6963.1"], note: "إذا رأيت اللَّه يعطي العبد من الدنيا على معاصيه ما يحب، فإنما هو استدراج"}
+  - id: hadith-60-six-weak-followers-6-52
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Drive these away' - the six and 6:52"
+    read: ["Jāmiʿ 60:6964.1"]
+    quran: ["6:52"]
+    tags:
+      - {motif: six-weak-followers-and-drive-them-away, refs: ["Jāmiʿ 60:6964.1"], note: "كنا مع النبي ﷺ ستة نفر، فقال المشركون: اطرد هؤلاء لا يجترؤون علينا ... ورجلان لست أسميهما، فوقع في نفس رسول اللَّه ﷺ ما شاء اللَّه أن يقع"}
+  - id: hadith-60-mercy-6-54
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'My mercy prevails over my wrath'; a hundred mercies; the captive mother"
+    read: ["Jāmiʿ 60:6964.2-6965.2"]
+    quran: ["6:54"]
+    tags:
+      - {motif: written-above-the-throne-mercy-prevails, refs: ["Jāmiʿ 60:6964.2"], note: "لما قضى اللَّه الخلق كتب في كتابه فهو عنده فوق العرش إن رحمتي غلبت غضبي"}
+      - {motif: hundred-mercies-each-spanning-heaven-and-earth, refs: ["Jāmiʿ 60:6965.1"], note: "خلق يوم خلق السموات والأرض مائة رحمة، كل رحمة طباق ما بين السماء والأرض، فجعل منها في الأرض رحمة، فبها تعطف الوالدة على ولدها"}
+      - {motif: mercy-in-hundred-parts-one-on-earth, refs: ["Jāmiʿ 60:6965.1"], note: "فإذا كان يوم القيامة أكملها بهذه الرحمة"}
+      - {motif: captive-mother-suckling-any-child, refs: ["Jāmiʿ 60:6965.2"], note: "إذا وجدت صبيا في السبي أخذته، فألصقته ببطنها، وأرضعته ... للَّه أرحم بعباده من هذه بولدها"}
+    hints:
+      - "'My mercy prevails over my wrath', written above the Throne, against b. Berakhot 7a, where God prays 'may it be my will that my mercy conquer my anger' (she-yikhbeshu rahamai et ka'asi)."
+  - id: hadith-60-keys-of-unseen-6-59
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The five keys of the unseen
+    read: ["Jāmiʿ 60:6965.3"]
+    quran: ["6:59"]
+    tags:
+      - {motif: five-keys-of-the-unseen, refs: ["Jāmiʿ 60:6965.3"], note: "مفتاح الغيب خمس ... ما يكون في غد ... في الأرحام ... ماذا تكسب غدا ... بأي أرض تموت ... متى يجيء المطر"}
+    hints:
+      - "The keys known only to God include rain and the womb, against b. Ta'anit 2a: three keys (of rain, of childbirth, of the resurrection of the dead) are in God's hand and not given to an agent."
+  - id: hadith-60-refuge-in-face-6-65
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Three punishments in 6:65 - 'I seek refuge in your face' twice, 'this is lighter'"
+    read: ["Jāmiʿ 60:6966.1"]
+    quran: ["6:65"]
+    tags:
+      - {motif: i-seek-refuge-in-your-face, refs: ["Jāmiʿ 60:6966.1"], note: "قال رسول اللَّه ﷺ: أعوذ بوجهك ... أعوذ بوجهك ... هذا أهون أو هذا أيسر"}
+  - id: hadith-60-zulm-is-shirk-6-82
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Who of us has not wronged himself?' - the wrong is shirk, as Luqman said"
+    read: ["Jāmiʿ 60:6968.1"]
+    quran: ["6:82", "31:13"]
+    tags:
+      - {motif: zulm-in-682-is-shirk, refs: ["Jāmiʿ 60:6968.1"], note: "أينا لم يظلم نفسه؟ ... ليس هو كما تظنون، إنما هو كما قال لقمان لابنه"}
+      - {motif: luqman-the-wise, refs: ["Jāmiʿ 60:6968.1"], note: "﴿يَابُنَيَّ لَا تُشْرِكْ بِاللَّهِ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ﴾"}
+  - id: hadith-60-prostration-in-sad-6-90
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The prostration in Sad from 'follow their guidance'"
+    read: ["Jāmiʿ 60:6969.1"]
+    quran: ["6:84-90"]
+    tags:
+      - {motif: prostration-in-sad-from-following-prophets, refs: ["Jāmiʿ 60:6969.1"], note: "أفي ص سجدة؟ فقال: نعم، ثم تلا: ﴿وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ﴾ إلى قوله ﴿فَبِهُدَاهُمُ اقْتَدِهْ﴾ ثم قال: هو منهم"}
+  - id: hadith-60-three-of-wealth-6-94
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'My wealth!' - only three things are his"
+    read: ["Jāmiʿ 60:6970.1"]
+    quran: ["6:94"]
+    tags:
+      - {motif: my-wealth-three-things-only, refs: ["Jāmiʿ 60:6970.1"], note: "مالي مالي، إنما له من ماله ثلاث: ما أكل فأفنى، أو لبس فأبلى، أو أعطى فأمضى، وما سوى ذلك فهو ذاهب وتاركه للناس"}
+  - id: hadith-60-waraqa-6-112
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Waraqa - every bringer of this was opposed
+    read: ["Jāmiʿ 60:6971.1"]
+    quran: ["6:112"]
+    tags:
+      - {motif: every-bringer-of-this-was-opposed, refs: ["Jāmiʿ 60:6971.1"], note: "إنه لم يأت رجل قطّ بمثل ما جئت به إِلَّا عُودي، وإن يدركني يومك أنصرك نصرا مؤزرا"}
+  - id: hadith-60-what-god-killed-6-121
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'What God slaughtered you do not eat' - the devils' argument and 6:121"
+    read: ["Jāmiʿ 60:6972.1"]
+    quran: ["6:121"]
+    tags:
+      - {motif: what-god-killed-you-do-not-eat, refs: ["Jāmiʿ 60:6972.1"], note: "يقولون: ما ذبح اللَّه فلا تأكلوه، وما ذبحتم أنتم فكلوه. فأنزل اللَّه ﴿وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ﴾"}
+  - id: hadith-60-creation-in-darkness-6-122
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Creation in darkness and the light cast upon it; the pen has dried
+    read: ["Jāmiʿ 60:6972.2"]
+    quran: ["6:122"]
+    tags:
+      - {motif: creation-in-darkness-light-cast-upon-them, refs: ["Jāmiʿ 60:6972.2"], note: "إنّ اللَّه خلق خلقه في ظلمة، ثم ألقى عليهم من نوره يومئذ، فمن أصابه من نوره يومئذ اهتدى، ومن أخطأه ضل، فلذلك أقول: جف القلم على علم اللَّه"}
+  - id: hadith-60-ignorance-of-arabs-6-140
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The ignorance of the Arabs in al-An'am 130-140"
+    read: ["Jāmiʿ 60:6973.1"]
+    quran: ["6:140"]
+    tags:
+      - {motif: ignorance-of-arabs-in-anam-130-140, refs: ["Jāmiʿ 60:6973.1"], note: "إذا سرّك أن تعلم جهل العرب، فاقرأ ما فوق الثلاثين ومئة في سورة الأنعام"}
+  - id: hadith-60-jews-and-the-fat-6-146
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sale of wine, carrion, swine and idols; the Jews melted the forbidden fat and sold it
+    read: ["Jāmiʿ 60:6974.1-6974.3"]
+    quran: ["6:146"]
+    tags:
+      - {motif: sale-of-wine-carrion-swine-idols-forbidden, refs: ["Jāmiʿ 60:6974.1"], note: "حرّم بيع الخمر والميتة والخنزير والأصنام ... شحوم الميتة. فإنها يطلى بها السفن ويدهن بها الجلود، ويستصبح بها الناس؟ فقال: لا هو حرام"}
+      - {motif: jews-melted-forbidden-fat-and-sold-it, refs: ["Jāmiʿ 60:6974.1", "Jāmiʿ 60:6974.2", "Jāmiʿ 60:6974.3"], note: "قاتل اللَّه اليهود إن اللَّه لما حرم شحومها جملوه ثم باعوه فأكلوا ثمنه"}
+      - {motif: umar-curses-man-who-sold-wine, refs: ["Jāmiʿ 60:6974.3"], note: "بلغ عمر بن الخطاب أن فلانًا باع خمرا، فقال: قاتل اللَّه فلانًا"}
+    hints:
+      - "The fat of carrion refused even for caulking ships, oiling hides and lamps (la, huwa haram) against Lev 7:24, where the fat of a carcass 'may be put to any other use, but you shall not eat it'."
+  - id: hadith-60-pledge-and-jealousy-6-151
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The pledge on the forbidden acts; God's jealousy and the indecencies; the greatest sins"
+    read: ["Jāmiʿ 60:6975.1-6977.1"]
+    quran: ["6:151", "25:68"]
+    tags:
+      - {motif: pledge-on-the-forbidden-acts-of-6151, refs: ["Jāmiʿ 60:6975.1"], note: "بايعوني على أن لا تشركوا باللَّه شيئًا، ولا تسرقوا، ولا تزنوا، ولا تقتلوا أولادكم، ولا تأتوا ببهتان تفترونه بين أيديكم وأرجلكم"}
+      - {motif: punishment-in-world-is-expiation, refs: ["Jāmiʿ 60:6975.1"], note: "فعوقب في الدنيا، فهو كفارة له، ومن أصاب من ذلك شيئًا، ثم ستره اللَّه، فهو إلى اللَّه إن شاء عفا عنه، وإن شاء عاقبه"}
+      - {motif: none-more-jealous-than-god-forbade-indecencies, refs: ["Jāmiʿ 60:6976.1"], note: "لا أحد أغير من اللَّه. ولذلك حرم الفواحش ما ظهر منها وما بطن، ولا أحد أحب إليه المدح من اللَّه، ولذلك مدح نفسه"}
+      - {motif: gods-jealousy-is-believer-doing-forbidden, refs: ["Jāmiʿ 60:6976.2"], note: "إن اللَّه يغار، وإن المؤمن يغار، وغيرة اللَّه أن يأتي المؤمن ما حُرِّمَ عليه"}
+      - {motif: greatest-sins-rival-child-killing-neighbours-wife, refs: ["Jāmiʿ 60:6977.1"], note: "أن تجعل للَّه ندا وهو خلقك ... أن تقتل ولدك خشية أن يطعم معك ... أن تزاني بحليلة جارك"}
+      - {motif: jealous-god, refs: ["Jāmiʿ 60:6976.1", "Jāmiʿ 60:6976.2"], note: "لا أحد أغير من اللَّه ... إن اللَّه يغار"}
+    hints:
+      - "God's jealousy (ghayra) as the ground of the ban on indecencies against Exod 34:14-16, where 'YHWH whose name is Jealous' forbids the covenant that leads sons to 'whore after' other gods."
+  - id: hadith-60-path-and-lines-6-153
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The line drawn and the side lines; the walled path with open doors and two callers
+    read: ["Jāmiʿ 60:6977.2-6977.3"]
+    quran: ["6:153"]
+    tags:
+      - {motif: line-of-god-and-side-lines-with-devils, refs: ["Jāmiʿ 60:6977.2"], note: "خط لنا رسول اللَّه ﷺ خطا، ثم قال: هذا سبيل اللَّه، ثم خط خطوطا عن يمينه وعن شماله ... على كل سبيل منها شيطان يدعو إليه"}
+      - {motif: path-with-walls-open-doors-curtains-two-callers, refs: ["Jāmiʿ 60:6977.3"], note: "على جنبتي الصراط سوران، فيهما أبواب مفتحة، وعلى الأبواب ستور مرخاة، وعلى باب الصراط داعٍ ... وداعٍ يدعو من فوق الصراط ... واعظ اللَّه في قلب كل مسلم"}
+    hints:
+      - "The straight path with side-ways each with a caller against Matt 7:13-14 (the narrow gate and the broad way that leads to destruction)."
+  - id: hadith-60-sun-from-west-6-158
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The sun rising from the west and the three after which faith avails not
+    read: ["Jāmiʿ 60:6978.1-6979.1"]
+    quran: ["6:158"]
+    tags:
+      - {motif: sun-rises-from-west-all-believe, refs: ["Jāmiʿ 60:6978.1"], note: "لا تقوم الساعة حتى تطلع الشمس من مغربها. فإذا رآها الناس، آمن من عليها. فذاك حين لا ينفع نفسا إيمانها"}
+      - {motif: three-signs-after-which-faith-avails-not, refs: ["Jāmiʿ 60:6979.1"], note: "ثلاث إذا خرجن ... طلوع الشمس من مغربها والدجال ودابة الأرض"}
+  - id: hadith-60-tenfold-6-160
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Intended and done good and bad deeds - tenfold to seven hundred
+    read: ["Jāmiʿ 60:6979.2-6979.3"]
+    quran: ["6:160"]
+    tags:
+      - {motif: intended-good-written-whole-done-tenfold-to-700, refs: ["Jāmiʿ 60:6979.2", "Jāmiʿ 60:6979.3"], note: "فمن همَّ بحسبة فلم يعملها كتبها اللَّه له عنده حسنة كاملة ... عشر حسنات إلى سبع مائة ضعف ... ومن همَّ بسيئة فلم يعملها كتبها اللَّه له عنده حسنة كاملة ... سيئة واحدة"}
+    hints:
+      - "An intended good counted as done but an intended evil not counted against t. Pe'ah 1:4 / b. Qiddushin 40a: 'a good intention God joins to the deed, a bad intention he does not join to the deed'."
+  # ================= al-A'raf
+  - id: hadith-60-naked-woman-circling-7-31
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The naked woman circling the House - 'who will lend me a garment?'"
+    read: ["Jāmiʿ 60:6980.1"]
+    quran: ["7:31"]
+    tags:
+      - {motif: naked-woman-circling-chants-what-shows, refs: ["Jāmiʿ 60:6980.1"], note: "كانت المرأة تطوف بالبيت وهي عريانة، فتقول: من يعيرني تطوافا؟ تجعله على فرجها ... اليوم يبدو بعضه أو كله فما بدا منه فلا أحله"}
+  - id: hadith-60-indecencies-7-33
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "None more jealous than God (repeated at 7:33)"
+    read: ["Jāmiʿ 60:6980.2"]
+    quran: ["7:33"]
+    tags:
+      - {motif: none-more-jealous-than-god-forbade-indecencies, refs: ["Jāmiʿ 60:6980.2"], note: "لا أحد أغير من اللَّه. ولذلك حرم الفواحش ما ظهر منها وما بطن"}
+  - id: hadith-60-paradise-call-7-43
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The caller in paradise - never sick, never die, never old, never wretched
+    read: ["Jāmiʿ 60:6980.3"]
+    quran: ["7:43"]
+    tags:
+      - {motif: never-sick-never-die-never-old-call-in-paradise, refs: ["Jāmiʿ 60:6980.3"], note: "ينادي مناد: إنّ لكم أن تَصِحُّوا، فلا تسقموا أبدًا. وإنّ لكم أن تحيوا، فلا تموتوا أبدًا. وإنّ لكم أن تشبوا، فلا تهرموا أبدًا"}
+  - id: hadith-60-manifestation-mountain-7-143
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The manifestation to the mountain - the tip of the little finger; Moses at the Throne when all swoon
+    read: ["Jāmiʿ 60:6981.1-6982.1"]
+    quran: ["7:143"]
+    tags:
+      - {motif: manifestation-like-tip-of-little-finger, refs: ["Jāmiʿ 60:6981.1"], note: "﴿فَلَمَّا تَجَلَّى رَبُّهُ لِلْجَبَلِ﴾ قال: قال هكذا، يعني أنه أخرج طرف الخنصر"}
+      - {motif: moses-holding-throne-leg-at-resurrection, refs: ["Jāmiʿ 60:6981.2"], note: "فإذا أنا بموسى آخذ بقائمة من قوائم العرش، فلا أدري أفاق قبلي أم جُزِي بصعقة الطور"}
+      - {motif: moses-holding-throne-at-resurrection-swoon, refs: ["Jāmiʿ 60:6981.3"], note: "لا تخيروني على موسى ... فإذا موسى باطش جانب العرش، فلا أدري أكان فيمن صعق فأفاق قبلي، أو كان ممن استثنى اللَّه"}
+      - {motif: two-trumpet-blasts-swoon-and-rising, refs: ["Jāmiʿ 60:6981.2", "Jāmiʿ 60:6981.3"], note: "فإن الناس يصعقون يوم القيامة، فأكون أول من يفيق"}
+  - id: hadith-60-tablets-cast-7-150
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Report is not like seeing' - Moses threw the tablets only when he saw the calf"
+    read: ["Jāmiʿ 60:6982.1"]
+    quran: ["7:150"]
+    tags:
+      - {motif: moses-told-of-calf-did-not-throw-tablets-until-he-saw, refs: ["Jāmiʿ 60:6982.1"], note: "ليس الخبر كالمعاينة، إن اللَّه أخبر موسى بما صنع قومه في العجل، فلم يلقِ الألواح، فلمّا عاين ما صنعوا، ألقى الألواح فانكسرتْ"}
+      - {motif: tablets-broken, refs: ["Jāmiʿ 60:6982.1"], note: "ألقى الألواح فانكسرتْ"}
+      - {motif: golden-calf, refs: ["Jāmiʿ 60:6982.1"], note: "بما صنع قومه في العجل"}
+    hints:
+      - "God tells Moses on the mountain of the calf, yet he breaks the tablets only on seeing it, against Exod 32:7-8 (God tells him: 'they have made a molten calf') and 32:19 ('when he came near the camp and saw the calf ... he threw the tablets and broke them'); the hadith makes the gap the point, 'report is not like seeing'."
+  - id: hadith-60-sent-to-all-7-158
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Each prophet sent to his people, the prophet to all
+    read: ["Jāmiʿ 60:6982.2"]
+    quran: ["7:158"]
+    tags:
+      - {motif: each-prophet-sent-to-his-people-i-to-all, refs: ["Jāmiʿ 60:6982.2"], note: "كان النبي يبعث إلى قومه خاصة، وبُعِثت إلى الناس عامة"}
+  - id: hadith-60-truffle-manna-7-160
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The truffle is of the manna
+    read: ["Jāmiʿ 60:6983.1"]
+    quran: ["7:160"]
+    tags:
+      - {motif: truffle-is-of-the-manna, refs: ["Jāmiʿ 60:6983.1"], note: "الكمأة من المن، وماؤها شفاء للعين"}
+  - id: hadith-60-hitta-7-161
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Hitta changed - shuffling on buttocks, 'a grain in a hair'"
+    read: ["Jāmiʿ 60:6983.2"]
+    quran: ["7:161", "2:58"]
+    tags:
+      - {motif: enter-gate-prostrate-say-hitta, refs: ["Jāmiʿ 60:6983.2"], note: "﴿وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ﴾ فبدّلوا"}
+      - {motif: israelites-shuffle-on-buttocks-say-grain-in-hair, refs: ["Jāmiʿ 60:6983.2"], note: "فدخلوا يزحفون على أستاههم، وقالوا: حبة فى شعرة"}
+  - id: hadith-60-take-pardon-7-199
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Take what is pardon' - Uyayna and Umar; people's manners; 'join who cuts you off'"
+    read: ["Jāmiʿ 60:6984.1-6985.1"]
+    quran: ["7:199"]
+    tags:
+      - {motif: hurr-recites-take-pardon-to-angry-umar, refs: ["Jāmiʿ 60:6984.1"], note: "واللَّه ما تعطينا الجزل، وما تحكم بيننا بالعدل. فغضب عمر ... وإن هذا من الجاهلين. فواللَّه ما جاوزها عمر حين تلاها عليه، وكان وقّافًا عند كتاب اللَّه"}
+      - {motif: take-pardon-revealed-for-peoples-manners, refs: ["Jāmiʿ 60:6984.2"], note: "ما أنزل اللَّه إلّا في أخلاق الناس"}
+      - {motif: join-who-cut-you-give-who-denied-you, refs: ["Jāmiʿ 60:6985.1"], note: "صل من قطعك، وأعط من حرمك، واعف عمن ظلمك"}
+  - id: hadith-60-not-deaf-or-absent-7-205
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'You do not call one deaf or absent'"
+    read: ["Jāmiʿ 60:6986.1"]
+    quran: ["7:205"]
+    tags:
+      - {motif: you-call-no-deaf-or-absent-one, refs: ["Jāmiʿ 60:6986.1"], note: "إذا أشرفنا على واد، هللنا وكبرنا، ارتفعت أصواتنا ... أربعوا على أنفسكم، فإنكم لا تدعون أصم ولا غائبا، إنه معكم، إنه سميع قريب"}
+    hints:
+      - "Shouted praise rebuked because God is near and not deaf against 1 Kgs 18:27, where Elijah mocks Baal's prophets to cry louder, 'perhaps he is asleep'."
+  # ================= al-Anfal
+  - id: hadith-60-anfal-and-five-gifts-8-1
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Al-Anfal revealed on Badr; given five things none had before; preferred by six
+    read: ["Jāmiʿ 60:6987.1-6987.3"]
+    quran: ["8:1"]
+    tags:
+      - {motif: anfal-revealed-on-badr, refs: ["Jāmiʿ 60:6987.1"], note: "قلت لابن عباس سورة الأنفال؟ قال: نزلت في بدر"}
+      - {motif: given-five-things-none-before, refs: ["Jāmiʿ 60:6987.2"], note: "أعطيت خمسًا لم يعطهن أحد قبلي ... وأحلت لي الغنائم ... وجعلت لي الأرض طيبة طهورا ومسجدا ... ونُصِرت بالرعب بين يدي مسيرة شهر، وأعطيت الشفاعة"}
+      - {motif: preferred-over-prophets-by-six, refs: ["Jāmiʿ 60:6987.3"], note: "فُضِّلْتُ على الأنبياء بستٍّ، أعطيتُ جوامع الكلم ... وختم بي النبيون"}
+      - {motif: spoils-lawful-only-for-this-community, refs: ["Jāmiʿ 60:6987.2", "Jāmiʿ 60:6987.3"], note: "وأحلت لي الغنائم، ولم تحل لأحد قبلي"}
+      - {motif: each-prophet-sent-to-his-people-i-to-all, refs: ["Jāmiʿ 60:6987.2"], note: "كان كل نبي يبعث إلى قومه خاصة، وبعثت إلى كل أحمر وأسود"}
+  - id: hadith-60-badr-spoils-dispute-8-1
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Young men and elders dispute the Badr spoils; ghulul of a needle; Sa'd's sword"
+    read: ["Jāmiʿ 60:6988.1-6989.2"]
+    quran: ["8:1", "8:41"]
+    tags:
+      - {motif: young-fighters-and-elders-at-banners-dispute-spoils, refs: ["Jāmiʿ 60:6988.1"], note: "فتقدم الفتيان، ولزم المشيخة الرايات ... كنا ردءا لكم، لو انهزمتم لفئتم إلينا ... فقسمها رسول اللَّه ﷺ بالسواء"}
+      - {motif: spoils-were-the-prophets-alone-needle-and-thread, refs: ["Jāmiʿ 60:6988.2"], note: "الأنفال المغانم كانت لرسول اللَّه ﷺ خالصة ... فمن حبس منه إبرة أو سِلْكًا فهو غُلول"}
+      - {motif: sword-asked-as-booty-put-it-back, refs: ["Jāmiʿ 60:6989.1", "Jāmiʿ 60:6989.2"], note: "نزلت فيّ أربع آيات، أصبت سيفا ... ضعه من حيث أخذته ... إنّ هذا السيف ليس لي ولا لك ... وإن اللَّه قد جعله لي فهو لك"}
+  - id: hadith-60-upper-chambers-8-4
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The upper chambers seen like a far star
+    read: ["Jāmiʿ 60:6990.1"]
+    quran: ["8:4"]
+    tags:
+      - {motif: paradise-chambers-seen-like-a-far-star, refs: ["Jāmiʿ 60:6990.1"], note: "يتراءون أهل الغرف من فوقهم، كما تتراءون الكوكب الدري الغابر من الأفق ... رجال آمنوا باللَّه وصدقوا المرسلين"}
+  - id: hadith-60-one-of-two-parties-8-7
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: One of the two parties - the caravan or Quraysh
+    read: ["Jāmiʿ 60:6991.1"]
+    quran: ["8:7"]
+    tags:
+      - {motif: one-of-the-two-parties-caravan-or-army, refs: ["Jāmiʿ 60:6991.1"], note: "فلما وعدنا إحدى الطائفتين أنها لنا، طابت أنفسنا. والطائفتان، عِير أبي سفيان، أو قريش"}
+  - id: hadith-60-badr-supplication-angels-8-9
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Badr - the supplication, the unseen horseman 'Forward, Hayzum', the captives; Gabriel at Badr"
+    read: ["Jāmiʿ 60:6991.2-6992.3"]
+    quran: ["8:9", "8:67-69", "54:45"]
+    tags:
+      - {motif: badr-thousand-against-three-hundred-nineteen, refs: ["Jāmiʿ 60:6991.2"], note: "إلى المشركين وهم ألف، وأصحابه ثلاثمائة وتسعة عشر رجلا"}
+      - {motif: cloak-falls-from-shoulders-in-supplication, refs: ["Jāmiʿ 60:6991.2"], note: "اللهم إن تهلك هذه العصابة من أهل الإسلام، لا تعبد في الأرض ... حتى سقط رداؤه عن منكبيه، فأتاه أبو بكر فأخذ رداءه ... ثم التزمه من ورائه"}
+      - {motif: angel-horseman-cries-aqdim-hayzum, refs: ["Jāmiʿ 60:6991.2"], note: "إذ سمع ضربة بالسوط فوقه، وصوت الفارس يقول: أقدم حيزوم"}
+      - {motif: whip-mark-turns-green, refs: ["Jāmiʿ 60:6991.2"], note: "فإذا هو قد خطم أنفه، وشق وجهه كضربة السوط. فاخضر ذلك أجمع"}
+      - {motif: help-from-the-third-heaven, refs: ["Jāmiʿ 60:6991.2"], note: "صدقت ذلك من مدد السماء الثالثة"}
+      - {motif: seventy-killed-seventy-captured, refs: ["Jāmiʿ 60:6991.2"], note: "فقتلوا يومئذ سبعين وأُسروا سبعين"}
+      - {motif: prophet-and-abu-bakr-weep-over-ransom, refs: ["Jāmiʿ 60:6991.2"], note: "فإذا رسول اللَّه ﷺ وأبو بكر قاعدين يبكيان ... لقد عرض عليّ عذابهم أدنى من هذه الشجرة"}
+      - {motif: prophet-leaves-tent-reciting-the-host-will-be-routed, refs: ["Jāmiʿ 60:6992.1"], note: "وهو في قبة يوم بدر: اللهم إني أنشدك عهدك ووعدك ... وهو يثب في الدرع، فخرج وهو يقول: ﴿سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ﴾"}
+      - {motif: angels-of-badr-are-best-of-angels, refs: ["Jāmiʿ 60:6992.2"], note: "جاء جبريل إلى النبي ﷺ. فقال: ما تعدون أهل بدر فيكم؟ قال: من أفضل المسلمين ... وكذلك من شهد بدرا من الملائكة"}
+      - {motif: gabriel-holding-his-horses-head-in-armour, refs: ["Jāmiʿ 60:6992.3"], note: "هذا جبريل آخذ برأس فرسه، عليه أداة الحرب"}
+  - id: hadith-60-badr-sleep-and-rain-8-11
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Sleep and rain at Badr - one horseman, the sword falling from the hand, drizzle under the shields
+    read: ["Jāmiʿ 60:6993.1-6994.1"]
+    quran: ["8:11"]
+    tags:
+      - {motif: only-horseman-at-badr-al-miqdad, refs: ["Jāmiʿ 60:6993.1"], note: "ما كان فينا فارس يوم بدر غير المقداد، ولقد رأيتنا وما فينا إلا نائم، إلا رسول اللَّه ﷺ تحت شجرة يصلي، ويبكي، حتى أصبح"}
+      - {motif: sword-drops-from-hand-in-drowsiness, refs: ["Jāmiʿ 60:6993.2"], note: "غشينا النعاس ونحن في مصافنا يوم بدر ... فجعل سيفي يسقط من يدي وآخذه، ويسقط وآخذه"}
+      - {motif: drowsiness-sent-as-security, refs: ["Jāmiʿ 60:6993.1", "Jāmiʿ 60:6993.2"], note: "وما فينا إلا نائم ... غشينا النعاس"}
+      - {motif: night-drizzle-shelter-under-trees-and-shields, refs: ["Jāmiʿ 60:6994.1"], note: "أصابنا من الليل طش من مطر، فانطلقنا تحت الشجر والحجف نستظل تحتها"}
+  - id: hadith-60-seven-destroyers-8-15
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The seven destroyers; 'whoever turns his back that day' revealed on Badr"
+    read: ["Jāmiʿ 60:6994.2-6995.1"]
+    quran: ["8:15", "8:16"]
+    tags:
+      - {motif: avoid-the-seven-destroyers, refs: ["Jāmiʿ 60:6994.2"], note: "اجتنبوا السبع الموبقات ... الشرك باللَّه، والسحر، وقتل النفس ... وأكل الربا، وأكل مال اليتيم، والتولي يوم الزحف، وقذف المحصنات"}
+      - {motif: do-not-turn-backs-in-battle, refs: ["Jāmiʿ 60:6994.2", "Jāmiʿ 60:6995.1"], note: "والتولي يوم الزحف ... نزلت في يوم بدر ﴿وَمَنْ يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُ﴾"}
+  - id: hadith-60-handful-thrown-8-17
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'You did not throw' - Gabriel's handful of dust; the pebble falling in a basin"
+    read: ["Jāmiʿ 60:6995.2-6995.3"]
+    quran: ["8:17"]
+    tags:
+      - {motif: gabriel-tells-him-take-handful-of-dust, refs: ["Jāmiʿ 60:6995.2"], note: "فقال له جبريل ﵇: خُذْ قبضة من التراب ... فما من المشركين من أحد إلا أصاب عينيه ومنخريه وفمَه ترابٌ"}
+      - {motif: sound-like-pebble-in-a-basin, refs: ["Jāmiʿ 60:6995.3"], note: "سمعنا صوتا وقع من السماء إلى الأرض، كأنه صوت حصاة وقعت في طست، ورمى رسول اللَّه ﷺ بتلك الحصيات"}
+      - {motif: handful-of-pebbles-shahat-al-wujuh, refs: ["Jāmiʿ 60:6995.2", "Jāmiʿ 60:6995.3"], note: "فرمى بها في وجوههم ... فولّوا مدبرين ... فانهزموا"}
+  - id: hadith-60-abu-jahl-and-steadfast-8-19
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Abu Jahl seeks judgment; the two Ansari boys kill him; the man sawn in two of old
+    read: ["Jāmiʿ 60:6996.1-6997.2"]
+    quran: ["8:19"]
+    tags:
+      - {motif: abu-jahl-prays-destroy-the-kin-cutter, refs: ["Jāmiʿ 60:6996.1"], note: "اللهم أقطعنا للرحم، وآتانا بما لا يُعرف، فأحنه الغداة. فكان المستفتح"}
+      - {motif: two-young-ansar-kill-abu-jahl, refs: ["Jāmiʿ 60:6997.1"], note: "إذا أنا بين غلامين من الأنصار ... لا يفارق سوادي سواده حتى يموت الأعجل منا ... هل مسحتما سيفيكما ... كلاكما قتله"}
+      - {motif: man-of-old-sawn-in-two-combed-with-iron, refs: ["Jāmiʿ 60:6997.2"], note: "يحفر له في الأرض، فيجعل فيه، فيجاء بالمنشار، فيوضع على رأسه، فيشق باثنتين ... ويمشط بأمشاط الحديد ما دون لحمه"}
+      - {motif: rider-from-sana-to-hadramawt-fearing-only-god, refs: ["Jāmiʿ 60:6997.2"], note: "حتى يسير الراكب من صنعاء إلى حضرموت، لا يخاف إلا اللَّه أو الذئب على غنمه، ولكنكم تستعجلون"}
+    hints:
+      - "The believer of old 'split in two' by a saw set on his head against Heb 11:37 ('they were sawn in two') and the Martyrdom of Isaiah 5:1-14 / b. Yevamot 49b, where Isaiah is sawn asunder."
+  - id: hadith-60-deaf-dumb-8-22
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The deaf and dumb are a party of Banu Abd al-Dar
+    read: ["Jāmiʿ 60:6998.1"]
+    quran: ["8:22"]
+    tags:
+      - {motif: deaf-dumb-are-a-clan-of-quraysh, refs: ["Jāmiʿ 60:6998.1"], note: "قال: هم نفر من بني عبد الدار"}
+  - id: hadith-60-answer-the-call-8-24
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Answer the call even at prayer - the greatest sura; hearts between two fingers of the Merciful
+    read: ["Jāmiʿ 60:6998.2-6998.3"]
+    quran: ["8:24", "1:2", "15:87"]
+    tags:
+      - {motif: prayer-interrupted-to-answer-the-prophet, refs: ["Jāmiʿ 60:6998.2"], note: "كنت أصلي في المسجد، فدعاني رسول اللَّه ﷺ، فلم أجبه ... فقال: ﴿اسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ﴾"}
+      - {motif: fatiha-the-greatest-sura-seven-mathani, refs: ["Jāmiʿ 60:6998.2"], note: "لأعلّمنّك سورة هي أعظم السور في القرآن ... ﴿الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ﴾ هي السبع المثاني والقرآن العظيم الذي أوتيته"}
+      - {motif: hearts-between-two-fingers-of-the-merciful-as-one-heart, refs: ["Jāmiʿ 60:6998.3"], note: "إن قلوب بني آدم كلها بين إصبعين من أصابع الرحمن، كقلب واحد، يصرّفه حيث يشاء ... اللهم مصرف القلوب"}
+  - id: hadith-60-ship-parable-8-25
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The passengers who would bore a hole; punishment that engulfs all
+    read: ["Jāmiʿ 60:6999.1-6999.2"]
+    quran: ["8:25", "5:105"]
+    tags:
+      - {motif: passengers-on-a-ship-drilling-the-lower-deck, refs: ["Jāmiʿ 60:6999.1"], note: "كمثل قوم استهموا على سفينة ... فقالوا: لو أنا خرقنا في نصيبنا خرقا، ولم نؤذ من فوقنا. فإن يتركوهم وما أرادوا هلكوا جميعا"}
+      - {motif: calamity-that-strikes-not-only-the-wrongdoers, refs: ["Jāmiʿ 60:6999.1", "Jāmiʿ 60:6999.2"], note: "هلكوا جميعا ... إن الناس إذا رأوا الظالم، فلم يأخذوا على يديه ... عمَّهم اللَّه بعقابه"}
+      - {motif: people-misplace-the-verse-on-minding-yourselves, refs: ["Jāmiʿ 60:6999.2"], note: "إن الناس يضعون هذه الآية على غير موضعها"}
+    hints:
+      - "The ship whose lower passengers bore through their own share against Leviticus Rabbah 4:6 (R. Shimon b. Yohai): men in a boat, one drills under his own seat - 'what is it to you?' - 'the water will come up and flood the boat on us all'."
+  - id: hadith-60-plot-against-prophet-8-30
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The chiefs' oath, the dust thrown in their faces; Iblis as the old man of Najd at the council"
+    read: ["Jāmiʿ 60:7001.1-7001.2"]
+    quran: ["8:30", "52:30"]
+    tags:
+      - {motif: enemies-sworn-by-idols-struck-mute-and-pelted, refs: ["Jāmiʿ 60:7001.1"], note: "فتعاقدوا باللات والعزى، ومناة الثالثة الأخرى، ونائلة وإساف ... وسقطت أذقانهم في صدورهم ... فما أصاب رجلا منهم من ذلك الحصى حصاة إلا قتل يوم بدر كافرا"}
+      - {motif: fatima-warns-of-oath-to-kill, refs: ["Jāmiʿ 60:7001.1"], note: "فأقبلت ابنته فاطمة تبكي ... فليس منهم رجل إلا قد عرف نصيبه من دمك. فقال: يا بنية، أريني وضوءا"}
+      - {motif: handful-of-pebbles-shahat-al-wujuh, refs: ["Jāmiʿ 60:7001.1"], note: "فأخذ قبضة من التراب، فقال: شاهت الوجوه ثم حصبهم بها"}
+      - {motif: iblis-as-old-man-of-najd, refs: ["Jāmiʿ 60:7001.2"], note: "فاعترضهم إبليس في صورة شيخ جليل ... قال: شيخ من نجد ... هذا واللَّه الرأي، القولُ ما قال الفتى"}
+      - {motif: plan-to-imprison-till-death-like-the-poets, refs: ["Jāmiʿ 60:7001.2"], note: "احبسوه في وَثاق، ثم تربصوا به ريبَ المنون، حتى يهلك كما هلك من كان قبله من الشعراء: زهير والنابغة"}
+      - {motif: one-youth-from-each-tribe-blood-scattered, refs: ["Jāmiʿ 60:7001.2"], note: "نأخذ من كل قبيلة غلامًا وَسيطا شابًّا نَهْدًا، ثم يعطى كل غلام منهم سيفًا صارمًا ... تفرق دمه في القبائل كلها"}
+      - {motif: day-of-the-crowding, refs: ["Jāmiʿ 60:7001.2"], note: "وكان يسمى ذلك اليوم: يوم الزحمة"}
+  - id: hadith-60-stones-from-heaven-8-32
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Abu Jahl's 'rain stones on us'; the polytheist talbiya; the two safeguards"
+    read: ["Jāmiʿ 60:7003.1-7004.1"]
+    quran: ["8:32-34"]
+    tags:
+      - {motif: abu-jahl-asks-for-stones-from-heaven, refs: ["Jāmiʿ 60:7003.1"], note: "قال أبو جهل: ﴿اللَّهُمَّ إِنْ كَانَ هَذَا هُوَ الْحَقَّ مِنْ عِنْدِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً مِنَ السَّمَاءِ﴾ فنزلت"}
+      - {motif: polytheist-talbiya-except-a-partner-you-own, refs: ["Jāmiʿ 60:7003.2", "Jāmiʿ 60:7004.1"], note: "لبيك لا شريك لك ... ويلكم قد قد ... إلا شريكا هو لك تملكه وما ملك"}
+      - {motif: two-safeguards-prophet-and-asking-forgiveness, refs: ["Jāmiʿ 60:7003.2"], note: "ويقولون: غفرانك، غفرانك ... كان فيهم أمانان: نبيّ اللَّه، والاستغفار. قال: فذهب النبي ﷺ، وبقي الاستغفار"}
+  - id: hadith-60-whistling-clapping-8-35
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Whistling and clapping at the House
+    read: ["Jāmiʿ 60:7004.2"]
+    quran: ["8:35", "7:32"]
+    tags:
+      - {motif: whistling-and-clapping-defined, refs: ["Jāmiʿ 60:7004.2"], note: "كان أهل الجاهلية يطوفون بالبيت عراة ... المكاء: الصفير، والتصدية: التصفيق"}
+      - {motif: pagan-worship-whistling-and-clapping, refs: ["Jāmiʿ 60:7004.2"], note: "﴿وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً﴾"}
+  - id: hadith-60-islam-and-the-past-8-38
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Deeds of the Jahiliyya after Islam; Hakim's good deeds; Amr's stipulation"
+    read: ["Jāmiʿ 60:7005.1-7005.3"]
+    quran: ["8:38"]
+    tags:
+      - {motif: good-in-islam-not-taken-for-jahiliyya, refs: ["Jāmiʿ 60:7005.1"], note: "من أحسن في الإسلام لم يؤاخذ بما عمل في الجاهلية، ومن أساء في الإسلام أخذ بالأول والآخر"}
+      - {motif: you-became-muslim-with-past-good, refs: ["Jāmiʿ 60:7005.2"], note: "أتحنث بها في الجاهلية، من صدقة أو عتاقة وصلة رحم ... أسلمت على ما سلف من خير"}
+      - {motif: amr-withdraws-hand-to-stipulate, refs: ["Jāmiʿ 60:7005.3"], note: "فبسط يمينه، قال: فقبضت يدي ... أردت أن أشترط ... أن يغفر لي ... أما علمت، أن الإسلام يهدم ما كان قبله"}
+  - id: hadith-60-fight-till-no-fitna-8-39
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Fighting so God's word is highest; Usama's spear; Ibn Umar and the civil war"
+    read: ["Jāmiʿ 60:7005.4-7007.1"]
+    quran: ["8:39", "49:9", "4:93", "2:193"]
+    tags:
+      - {motif: who-fights-for-gods-word-highest, refs: ["Jāmiʿ 60:7005.4"], note: "الرجل يقاتل للمغنم، والرجل يقاتل للذكر، والرجل يقاتل ليُرَى مكانه ... من قاتل لتكون كلمة اللَّه هي العليا، فهو في سبيل اللَّه"}
+      - {motif: killed-after-saying-la-ilaha-illallah, refs: ["Jāmiʿ 60:7006.1"], note: "فلما غشيناه قال: لا إله إلا اللَّه. فكف عنه الأنصاري، فطعنته برمحي ... أقتلته بعد ما قال: لا إله إلا اللَّه؟ ... حتى تمنيت أني لم أكن أسلمت قبل ذلك اليوم"}
+      - {motif: ordered-to-fight-till-they-witness-pray-give, refs: ["Jāmiʿ 60:7006.2"], note: "أمرت أن أقاتل الناس حتى يشهدوا ... ويقيموا الصلاة، ويؤتوا الزكاة، فإذا فعلوا ذلك عصموا مني دماءهم وأموالهم إلا بحقها"}
+      - {motif: ibn-umar-declines-civil-war, refs: ["Jāmiʿ 60:7006.3"], note: "أغتر بهذه الآية، ولا أقاتل أحب إليّ من أن أغتر بهذه الآية ... ﴿وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا﴾ ... وأما علي فابن عم رسول اللَّه ﷺ وختنه"}
+      - {motif: fitna-was-entering-among-polytheists, refs: ["Jāmiʿ 60:7007.1"], note: "كان محمد ﷺ يقاتل المشركين، وكان الدخول عليهم فتنة، وليس كقتالكم على الملك"}
+  - id: hadith-60-the-fifth-and-shares-8-41
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The fifth - disobedient towns, the camel's tuft, kin of Hashim and al-Muttalib, horse and rider, women, the slayer's spoil, yawm al-furqan"
+    read: ["Jāmiʿ 60:7007.2-7009.2"]
+    quran: ["8:41"]
+    tags:
+      - {motif: disobedient-town-fifth-to-god, refs: ["Jāmiʿ 60:7007.2"], note: "أيما قرية أتيتموها وأقمتم فيها، فسهمكم فيها، وأيما قرية عصت اللَّه ورسوله فإن خمسها للَّه ولرسوله ثم هي لكم"}
+      - {motif: camel-hair-tuft-only-the-fifth-mine, refs: ["Jāmiʿ 60:7007.3"], note: "صلى بنا رسول اللَّه ﷺ إلى بعير من المغنم ... أخذ وبرة من جنب البعير ... ولا يحل لي من غنائمكم مثل هذا إلا الخمس، والخمس مردود فيكم"}
+      - {motif: hashim-and-muttalib-one-thing, refs: ["Jāmiʿ 60:7008.2"], note: "إنما بنو هاشم وبنو المطلب شيء واحد ... ولم يقسم النبي ﷺ لبني عبد شمس وبني نوفل شيئًا"}
+      - {motif: horse-gets-two-shares, refs: ["Jāmiʿ 60:7008.3"], note: "قسم في النفل: للفرس سهمين، وللرجل سهما"}
+      - {motif: women-raiders-tend-wounded-get-gift-not-share, refs: ["Jāmiʿ 60:7008.4"], note: "يغزو بهن فيداوين الجرحى ويحذين من الغنيمة، وأما بسهم فلم يضرب لهن، وإن رسول اللَّه ﷺ لم يكن يقتل الصبيان"}
+      - {motif: orphanhood-ends-when-he-takes-for-himself, refs: ["Jāmiʿ 60:7008.4"], note: "إن الرجل لتنبت لحيته، وإنه لضعيف الأخذ لنفسه ... وإنّا كنا نقول هو لنا، فأبى علينا قومنا ذاك"}
+      - {motif: slayers-claim-with-proof-gets-the-spoil, refs: ["Jāmiʿ 60:7009.1"], note: "من قتل قتيلا له عليه بينة، فله سلبه ... لا هاء اللَّه إذا لا يعمد إلى أسد من أسد اللَّه"}
+      - {motif: first-property-gained-in-islam, refs: ["Jāmiʿ 60:7009.1"], note: "فبعت الدرع، فاشتريت به مخرفا في بني سلمة، فإنه لأول مال تأثلته في الإسلام"}
+      - {motif: day-of-criterion-is-badr, refs: ["Jāmiʿ 60:7009.2"], note: "يعني بالفرقان يوم بدر يوم فرّق اللَّه بين الحق والباطل"}
+  - id: hadith-60-no-appointment-8-42
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Brought together without appointment; the forty riders of the caravan
+    read: ["Jāmiʿ 60:7010.1-7010.2"]
+    quran: ["8:42"]
+    tags:
+      - {motif: met-without-appointment-at-badr, refs: ["Jāmiʿ 60:7010.1"], note: "إنما خرج رسول اللَّه ﷺ يريد عير قريش، حتى جمع اللَّه بينهم وبين عدوهم على غير ميعاد"}
+      - {motif: caravan-of-forty-riders, refs: ["Jāmiʿ 60:7010.2"], note: "بأبي سفيان بن حرب في أربعين راكبا ... في ثلاثمائة راكب ونيف، وأكثر أصحابه مشاة، معهم ثمانون بعيرا وفرس"}
+  - id: hadith-60-meeting-the-enemy-8-45
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Do not wish to meet the enemy; paradise under the shades of swords
+    read: ["Jāmiʿ 60:7011.1-7011.2"]
+    quran: ["8:45"]
+    tags:
+      - {motif: paradise-under-shades-of-swords, refs: ["Jāmiʿ 60:7011.1", "Jāmiʿ 60:7011.2"], note: "لا تتمنوا لقاء العدو، وسلوا اللَّه العافية ... واعلموا أن الجنة تحت ظلال السيوف"}
+      - {motif: revealer-of-book-driver-of-clouds-routing-confederates, refs: ["Jāmiʿ 60:7011.1"], note: "اللهم منزل الكتاب ومجري السحاب وهازم الأحزاب اهزمهم وانصرنا عليهم"}
+  - id: hadith-60-iblis-as-suraqa-8-48
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Iblis at Badr in the form of Suraqa
+    read: ["Jāmiʿ 60:7012.1"]
+    quran: ["8:48"]
+    tags:
+      - {motif: iblis-in-form-of-suraqa-withdraws-hand, refs: ["Jāmiʿ 60:7012.1"], note: "جاء إبليس يوم بدر في جُنْد من الشياطين، معه رأيته ... في صورة سراقة بن مالك بن جعشم ... وأقبل جبريل إلى إبليس، فلما رآه، وكانت يده في يد رجل من المشركين، انتزع إبليس يده"}
+      - {motif: handful-of-pebbles-shahat-al-wujuh, refs: ["Jāmiʿ 60:7012.1"], note: "أخذ رسول اللَّه ﷺ قبضةً من التراب، فرمى بها في وجوه المشركين، فولَّوا مدبرين"}
+  - id: hadith-60-ya-ibadi-8-51
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'O my servants, I have forbidden injustice to myself'"
+    read: ["Jāmiʿ 60:7012.2"]
+    quran: ["8:51"]
+    tags:
+      - {motif: o-my-servants-i-forbade-injustice-to-myself, refs: ["Jāmiʿ 60:7012.2"], note: "يا عبادي! إني حرّمت الظلم على نفسي، وجعلته بينكم محرما ... كلكم ضال إلا من هديته ... كلكم جائع ... كلكم عار"}
+      - {motif: needle-dipped-in-the-sea, refs: ["Jāmiʿ 60:7012.2"], note: "ما نقص ذلك مما عندي إلا كما ينقص المخيط إذا أدخل البحر"}
+  - id: hadith-60-casting-back-treaty-8-58
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Casting back the treaty on equal terms - Mina proclamation; 'fidelity not treachery'"
+    read: ["Jāmiʿ 60:7013.1-7013.2"]
+    quran: ["8:58"]
+    tags:
+      - {motif: no-naked-circumambulation-after-this-year, refs: ["Jāmiʿ 60:7013.1"], note: "لا يحج بعد العام مشرك، ولا يطوف بالبيت عريان ... فنبذ أبو بكر إلى الناس في ذلك العام"}
+      - {motif: god-is-great-fidelity-not-treachery, refs: ["Jāmiʿ 60:7013.2"], note: "اللَّه أكبر وفاء لا غدر ... فلا يحلن عقدة ولا يشدها حتى يمضي أمده، أو ينبذ إليهم على سواء. فرجع معاوية بالناس"}
+  - id: hadith-60-force-and-horses-8-60
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Force is shooting; horses - reward, cover, burden; ten scouts against the Dajjal; the horseman and the shepherd
+    read: ["Jāmiʿ 60:7014.1-7015.3"]
+    quran: ["8:60", "99:7-8"]
+    tags:
+      - {motif: force-is-shooting-three-times, refs: ["Jāmiʿ 60:7014.1"], note: "ألا إن القوة الرمي، ألا إن القوة الرمي، ألا إن القوة الرمي"}
+      - {motif: horse-reward-shelter-or-burden, refs: ["Jāmiʿ 60:7014.2"], note: "الخيل لرجل أجر، ولرجل ستر، وعلى رجل وزر ... كانت آثارها وأرواثها حسنات له، ولو أنها مرت بنهر، فشربت منه ولم يرد أن يسقي به"}
+      - {motif: donkeys-under-the-atoms-weight-verse, refs: ["Jāmiʿ 60:7014.2"], note: "وسئل رسول اللَّه ﷺ عن الحمر، فقال: لم ينزل علي فيها شيء إلا هذه الآية الجامعة الفاذة"}
+      - {motif: good-tied-to-forelocks-of-horses, refs: ["Jāmiʿ 60:7014.3"], note: "الخيل معقود في نواصيها الخير إلى يوم القيامة: الأجر والمغنم"}
+      - {motif: ten-horsemen-scouts-against-the-dajjal, refs: ["Jāmiʿ 60:7015.1"], note: "فيبعثون عشرة فوارس طليعة ... إني لأعرف أسماءهم وأسماء آبائهم وألوان خيولهم"}
+      - {motif: horses-food-and-dung-in-the-balance, refs: ["Jāmiʿ 60:7015.2"], note: "فإن شبعه وريّه وروثه وبوله في ميزانه يوم القيامة"}
+      - {motif: rider-flying-at-every-alarm-or-shepherd-on-peak, refs: ["Jāmiʿ 60:7015.3"], note: "ممسك عنان فرسه في سبيل اللَّه، يطير على متنه، كلما سمع هيعة أو فزعة طار عليه ... أو رجل في غنيمة في رأس شعفة"}
+  - id: hadith-60-hearts-joined-8-63
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: To the Ansar after Hunayn - astray, divided, poor
+    read: ["Jāmiʿ 60:7015.4"]
+    quran: ["8:63"]
+    tags:
+      - {motif: ansar-were-astray-divided-poor, refs: ["Jāmiʿ 60:7015.4"], note: "ألم أجدكم ضلالا، فهداكم اللَّه بي؟ وكنتم متفرقين، فألفكم اللَّه بي؟ وعالة فأغناكم اللَّه بي؟"}
+  - id: hadith-60-ratio-eased-8-65
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: One against ten eased to one against two
+    read: ["Jāmiʿ 60:7016.1-7016.3"]
+    quran: ["8:65-66", "8:68"]
+    tags:
+      - {motif: few-steadfast-defeat-many-ratio, refs: ["Jāmiʿ 60:7016.1", "Jāmiʿ 60:7016.2", "Jāmiʿ 60:7016.3"], note: "﴿إِنْ يَكُنْ مِنْكُمْ عِشْرُونَ صَابِرُونَ يَغْلِبُوا مِائَتَيْنِ﴾"}
+      - {motif: one-against-ten-eased-to-one-against-two, refs: ["Jāmiʿ 60:7016.1", "Jāmiʿ 60:7016.2", "Jāmiʿ 60:7016.3"], note: "أن لا يفر واحد من عشرة ... فلما خفف اللَّه عنهم من العدة، نقص من الصبر بقدر ما خفف عنهم ... فإن فرّ من ثلاثة فلم يفرّ"}
+      - {motif: i-do-not-punish-till-i-have-warned, refs: ["Jāmiʿ 60:7016.3"], note: "يعني غنائم بدر، لولا أني لا أعذب من عصاني حتى أتقدم إليه"}
+  - id: hadith-60-badr-captives-8-67
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The Badr captives - Abu Bakr's ransom, Umar's sword; spoils once burned by fire; Sa'd and al-ukhaynis"
+    read: ["Jāmiʿ 60:7017.1-7019.1"]
+    quran: ["8:67-69"]
+    tags:
+      - {motif: prophet-and-abu-bakr-weep-over-ransom, refs: ["Jāmiʿ 60:7017.1"], note: "أرى أن تأخذ منهم فدية ... فتمكن عليا من عقيل، فيضرب عنقه ... أبكي للذي عرض على أصحابك من أخذهم الفداء، لقد عرض على عذابهم أدنى من هذه الشجرة"}
+      - {motif: nearly-afflicted-for-opposing-you, refs: ["Jāmiʿ 60:7017.2"], note: "قومك وعشيرتك، فخل سبيلهم ... اقتلهم ... كاد أن يصيبنا في خلافك بلاء"}
+      - {motif: spoils-burned-by-fire-for-black-headed-peoples, refs: ["Jāmiʿ 60:7018.1"], note: "لم تحل الغنائم لقوم سود الرؤوس قبلكم، كانت تنزل النار من السماء، فتأكلها، فلما كان يوم بدر أسرع الناس في الغنائم"}
+      - {motif: fire-from-heaven-consumes-the-spoils, refs: ["Jāmiʿ 60:7018.1"], note: "كانت تنزل النار من السماء، فتأكلها"}
+      - {motif: sad-laughs-at-the-akhnas-insult, refs: ["Jāmiʿ 60:7018.2"], note: "إنا أصبنا دنيا مع رسول اللَّه ﷺ ... ويشتمك الأُخَينَس، فضحك سعد حتى استعلاه الضحك"}
+      - {motif: they-are-your-brothers-of-yesterday, refs: ["Jāmiʿ 60:7019.1"], note: "إن اللَّه قد أمكنكم منهم، وإنما هم إخوانكم بالأمس ... فذهب عن وجه رسول اللَّه ﷺ ما كان فيه من الغم"}
+  - id: hadith-60-sun-held-and-the-fire-8-69
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The raiding prophet who held the sun - the exempted men, the hand that sticks, the gold cow's head, the fire"
+    read: ["Jāmiʿ 60:7019.2"]
+    quran: ["8:69"]
+    tags:
+      - {motif: bridegroom-builder-herdsman-not-to-follow-raid, refs: ["Jāmiʿ 60:7019.2"], note: "لا يتبعني رجل قد ملك بضع امرأة، وهو يريد أن يبني بها، ولمّا يبن، ولا آخر قد بنى بنيانا، ولما يرفع سقفها، ولا آخر قد اشترى غنما أو خلفات، وهو منتظر ولادها"}
+      - {motif: sun-held-for-raiding-prophet-till-conquest, refs: ["Jāmiʿ 60:7019.2"], note: "فأدنى للقرية حين صلاة العصر ... فقال للشمس: أنتِ مأمورة وأنا مأمور، اللهم احبسها علي شيئًا. فحُبِست عليه حتى فتح اللَّه عليه"}
+      - {motif: thief-found-by-hand-sticking-tribe-by-tribe, refs: ["Jāmiʿ 60:7019.2"], note: "فليبايعني من كل قبيلة رجل. فبايعوه، فلصقت يد رجل بيده ... فلصقت بيد رجلين أو ثلاثة"}
+      - {motif: gold-head-of-a-cow-brought-out, refs: ["Jāmiʿ 60:7019.2"], note: "فأخرجوا له مثل رأس بقرة من ذهب. قال: فوضعوه في المال وهو بالصعيد، فأقبلت النار، فأكلته"}
+      - {motif: fire-from-heaven-consumes-the-spoils, refs: ["Jāmiʿ 60:7019.2"], note: "فأقبلت النار لتأكله، فأبت أن تطعمه، فقال: فيكم غلول"}
+      - {motif: spoils-lawful-only-for-this-community, refs: ["Jāmiʿ 60:7019.2"], note: "فلم تحل الغنائم لأحدٍ من قبلنا، ذلك بأن اللَّه ﵎ رأى ضعفنا وعجزنا، فطيبها لنا"}
+    hints:
+      - "The men barred from following the raid - one who has a woman and has not gone in to her, one who built and has not roofed - against Deut 20:5-7 (who has built a new house and not dedicated it, planted a vineyard, betrothed a wife and not taken her: let him go home)."
+      - "The sun held back at the town's conquest until afternoon's end against Josh 10:12-13 ('Sun, stand still at Gibeon'), and the thief found by successive groups with stolen gold against Josh 7:16-21 (Achan taken tribe by tribe, clan by clan, with a wedge of gold)."
+  - id: hadith-60-abbas-ransom-8-70
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Al-Abbas's ransom - forty ounces for forty slaves; the buried money; not a dirham waived"
+    read: ["Jāmiʿ 60:7020.1-7021.1"]
+    quran: ["8:70"]
+    tags:
+      - {motif: abbas-forty-ounces-repaid-forty-slaves, refs: ["Jāmiʿ 60:7020.1"], note: "فافتدى نفسه بأربعين أوقية من ذهب ... فآتاني أربعين عبدًا، وأنا أرجو المغفرة"}
+      - {motif: buried-money-known-only-to-abbas-and-umm-al-fadl, refs: ["Jāmiʿ 60:7020.2"], note: "فأين المال الذي دفنت أنت وأم الفضل ... إن هذا لشيء ما علمه أحد غيري وغير أم الفضل ... عشرين عبدا كلهم في يده مال يضرب به"}
+      - {motif: not-a-dirham-of-the-ransom-remitted, refs: ["Jāmiʿ 60:7021.1"], note: "ائذن فلنترك لابن أختنا عباس فداءه، فقال: لا تدعون منها درهما"}
+  - id: hadith-60-alliances-hijra-raids-8-72
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Who are allies; no hijra today; the commander's instructions for the raid"
+    read: ["Jāmiʿ 60:7021.2-7022.2"]
+    quran: ["8:72"]
+    tags:
+      - {motif: emigrants-helpers-allies-freedmen-allies, refs: ["Jāmiʿ 60:7021.2"], note: "المهاجرون والأنصار بعضهم أولياء بعض في الدنيا والآخرة، والطلقاء من قريش، والعتقاء من ثقيف بعضهم أولياء بعض"}
+      - {motif: no-hijra-now-but-jihad-and-intention, refs: ["Jāmiʿ 60:7022.1"], note: "لا هجرة اليوم، كان المؤمنون يفر أحدهم بدينه ... واليوم يعبد ربه حيث شاء، ولكن جهاد ونية"}
+      - {motif: rules-of-the-raid, refs: ["Jāmiʿ 60:7022.2"], note: "اغزوا، ولا تغلوا، ولا تغدروا، ولا تمثلوا، ولا تقتلوا وليدا"}
+      - {motif: three-options-islam-hijra-jizya, refs: ["Jāmiʿ 60:7022.2"], note: "فادعهم إلى ثلاث خصال ... إلى التحول من دارهم إلى دار المهاجرين ... كأعراب المسلمين ... فسلهم الجزية"}
+      - {motif: do-not-give-them-gods-protection-give-yours, refs: ["Jāmiʿ 60:7022.2"], note: "فلا تجعل لهم ذمة اللَّه ولا ذمة نبيه ... فلا تنزلهم على حكم اللَّه ... فإنك لا تدري أتصيب حكم اللَّه فيهم أم لا"}
+    hints:
+      - "Offering terms before attacking a town against Deut 20:10-12 (offer it peace; if it opens, its people serve you as forced labour; if not, besiege it)."
+  - id: hadith-60-kin-inheritance-8-75
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Brotherhood inheritance ended by 'blood relatives are nearer'"
+    read: ["Jāmiʿ 60:7023.1-7023.2"]
+    quran: ["8:75", "4:33"]
+    tags:
+      - {motif: brothered-emigrant-and-helper-inherited, refs: ["Jāmiʿ 60:7023.1"], note: "آخى بين رجل من المهاجرين ورجل من الأنصار، فلم نشك أنا نتوارث، لو هلك كعب وليس له من يرثه، فظننت أني أرثه"}
+      - {motif: sworn-ally-inheritance-abrogated, refs: ["Jāmiʿ 60:7023.2"], note: "كان الرجل يحالف الرجل ليس بينهما نسب، فيرث أحدهما الآخر، فنسخ ذلك الأنفال"}
+  # ================= al-Tawba
+  - id: hadith-60-tawba-intro-9-1
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Al-Tawba 'the exposer'; the last verse and the last sura"
+    read: ["Jāmiʿ 60:7026.1-7026.2"]
+    quran: ["9:1", "4:176"]
+    tags:
+      - {motif: tawba-the-exposer-and-them-and-them, refs: ["Jāmiʿ 60:7026.1"], note: "التوبة هي الفاضحة؟ ما زالت تنزل: ومنهم ومنهم، حتى ظنوا أنها لم تبق أحدا منهم إلا ذُكِر فيها ... سورة الحشر. قال: نزلت في بني النضير"}
+      - {motif: anfal-revealed-on-badr, refs: ["Jāmiʿ 60:7026.1"], note: "قلت: سورة الأنفال؟ قال: نزلت في بدر"}
+      - {motif: last-verse-kalala-last-sura-baraa, refs: ["Jāmiʿ 60:7026.2"], note: "آخر آية نزلت: ﴿يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ﴾، وآخر سورة نزلت براءة"}
+  - id: hadith-60-baraa-proclaimed-9-1
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Bara'a proclaimed at the pilgrimage of Abu Bakr; the day of the greatest pilgrimage"
+    read: ["Jāmiʿ 60:7026.3-7027.2"]
+    quran: ["9:1-5"]
+    tags:
+      - {motif: ali-sent-after-to-proclaim-baraa, refs: ["Jāmiʿ 60:7026.3"], note: "بعثني أبو بكر في تلك الحجة في مؤذنين يوم النحر ... ثم أردف رسول اللَّه ﷺ عليا، فأمره أن يؤذن ببراءة"}
+      - {motif: no-naked-circumambulation-after-this-year, refs: ["Jāmiʿ 60:7026.3"], note: "أن لا يحج بعد العام مشرك، ولا يطوف بالبيت عريان"}
+      - {motif: day-of-sacrifice-is-greatest-pilgrimage, refs: ["Jāmiʿ 60:7027.1"], note: "وقف يوم النحر بين الجمرات ... أيّ يوم هذا؟ قالوا: يوم النحر، قال: هذا يوم الحج الأكبر"}
+      - {motif: messenger-not-commander-reads-baraa-at-each-station, refs: ["Jāmiʿ 60:7027.2"], note: "فسمع الرغوةَ خلف ظهره ... هذه رغوة ناقة رسول اللَّه ﷺ الجَدْعاء ... أمير أم رسول؟ قال: لا بل رسول ... فقرأ على الناس براءة حتى ختمها"}
+  - id: hadith-60-leaders-of-unbelief-9-12
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Only three of the people of the verse remain, and four hypocrites
+    read: ["Jāmiʿ 60:7028.1"]
+    quran: ["9:12"]
+    tags:
+      - {motif: four-hypocrites-left-one-old-man, refs: ["Jāmiʿ 60:7028.1"], note: "ما بقي من أصحاب هذه الآية إلا ثلاثة، ولا من المنافقين إلا أربع ... أحدهم شيخ كبير لو شرب الماء البارد لما وجد برده"}
+  - id: hadith-60-maintaining-mosques-9-18
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Building mosques and going to them
+    read: ["Jāmiʿ 60:7029.1-7029.2"]
+    quran: ["9:18"]
+    tags:
+      - {motif: builder-of-mosque-given-house-in-paradise, refs: ["Jāmiʿ 60:7029.1"], note: "عند قول الناس فيه حين بنى مسجد الرسول ﷺ: إنكم أكثرتم ... من بنى مسجدا يبتغي به وجه اللَّه، بنى اللَّه له مثله في الجنة"}
+      - {motif: going-to-mosque-prepares-hospitality, refs: ["Jāmiʿ 60:7029.2"], note: "من غدا إلى المسجد أو راح، أعدّ اللَّه له في الجنة نُزلا، كلما غدا أو راح"}
+  - id: hadith-60-watering-pilgrims-9-19
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Watering pilgrims and tending the Sacred Mosque against faith and jihad; the prophet at the water-station
+    read: ["Jāmiʿ 60:7029.3-7030.3"]
+    quran: ["9:19"]
+    tags:
+      - {motif: three-claim-best-deed-at-the-pulpit, refs: ["Jāmiʿ 60:7029.3"], note: "إلا أن أسقي الحاج ... إلا أن أعمر المسجد الحرام ... الجهاد في سبيل اللَّه أفضل مما قلتم. فزجرهم عمر ... وهو يوم الجمعة"}
+      - {motif: abbas-captive-claims-tending-house-and-watering, refs: ["Jāmiʿ 60:7030.1"], note: "لقد كنا نعمر المسجد الحرام، ونسقي الحاج، ونفك العاني"}
+      - {motif: prophet-drinks-from-common-trough, refs: ["Jāmiʿ 60:7030.2"], note: "إنهم يجعلون أيديهم فيه. قال: اسقني ... لولا أن تغلبوا لنزلت حتى أضع الحبل على هذه يعني عاتقه"}
+      - {motif: pilgrims-given-nabidh-not-honey-or-milk, refs: ["Jāmiʿ 60:7030.3"], note: "ما لي أرى بني عمكم يسقون العسل واللبن، وأنتم تسقون النبيذ ... فأتيناه بإناء من نبيذ، فشرب وسقى فضله أسامة ... أحسنتم وأجملتم كذا فاصنعوا"}
+  - id: hadith-60-love-of-prophet-9-24
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: More beloved than father, child, all people - and than oneself
+    read: ["Jāmiʿ 60:7031.1-7031.3"]
+    quran: ["9:24"]
+    tags:
+      - {motif: more-beloved-than-father-child-and-all, refs: ["Jāmiʿ 60:7031.1", "Jāmiʿ 60:7031.2"], note: "لا يؤمن أحدكم حتى أكون أحب إليه من والده، وولده، والناس أجمعين ... من أهله وماله"}
+      - {motif: more-beloved-than-yourself-now-umar, refs: ["Jāmiʿ 60:7031.3"], note: "لأنت أحب إلي من كل شيء إلا من نفسي ... لا، والذي نفسي بيده! حتى أكون أحب إليك من نفسك ... الآن يا عمر"}
+    hints:
+      - "Faith conditional on loving the prophet more than father and child against Matt 10:37 ('whoever loves father or mother more than me is not worthy of me; whoever loves son or daughter more than me') and Luke 14:26 ('yes, and even his own life')."
+  - id: hadith-60-hunayn-9-25
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Hunayn - the white mule, 'I am the prophet, no lie', the people of the acacia, the pebbles, the handsome-faced men"
+    read: ["Jāmiʿ 60:7032.1-7033.1"]
+    quran: ["9:25-26"]
+    tags:
+      - {motif: pride-in-numbers-fails, refs: ["Jāmiʿ 60:7032.1", "Jāmiʿ 60:7032.2"], note: "خرج شبان أصحابه وأخفاؤهم حسرا ليس بسلاح ... فلما التقى المسلمون والكفار ولى المسلمون مدبرين"}
+      - {motif: i-am-the-prophet-no-lie-son-of-abd-al-muttalib, refs: ["Jāmiʿ 60:7032.1"], note: "وهو على بغلته البيضاء، وابن عمه أبو سفيان بن الحارث ... يقود به، فنزل، واستنصر، ثم قال: أنا النبي لا كذب ... أنا ابن عبد المطلب"}
+      - {motif: people-of-the-acacia-called-back, refs: ["Jāmiʿ 60:7032.2"], note: "أي عباس! ناد أصحاب السمرة ... لكأن عطفتهم حين سمعوا صوتي، عطفة البقر على أولادها. فقالوا: يا لبيك! يا لبيك"}
+      - {motif: now-the-oven-is-hot, refs: ["Jāmiʿ 60:7032.2"], note: "هذا حين حمي الوطيس ... ثم أخذ رسول اللَّه ﷺ حصيات، فرمى بهن وجوه الكفار، ثم قال: انهزموا ورب محمد"}
+      - {motif: handsome-faced-men-say-shahat-al-wujuh, refs: ["Jāmiʿ 60:7033.1"], note: "فإذا بيننا وبينه رجال حسان الوجوه، فقالوا: شاهت الوجوه، فارجعوا، فهزمنا من ذلك الكلام"}
+  - id: hadith-60-believer-not-impure-9-28
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'The believer does not become impure' - Abu Hurayra and Hudhayfa in janaba"
+    read: ["Jāmiʿ 60:7033.2-7034.1"]
+    quran: ["9:28"]
+    tags:
+      - {motif: believer-does-not-become-impure, refs: ["Jāmiʿ 60:7033.2", "Jāmiʿ 60:7034.1"], note: "لقيني رسول اللَّه ﷺ، وأنا جنب ... فانسللت ... فاغتسلت ... سبحان اللَّه! يا أبا هر! إن المؤمن لا ينجس ... إن المسلم لا ينجس"}
+  - id: hadith-60-jizya-and-persia-9-29
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Jizya in the commander's instructions; the bird with two wings; al-Mughira before Chosroes' governor"
+    read: ["Jāmiʿ 60:7034.2-7035.1"]
+    quran: ["9:29"]
+    tags:
+      - {motif: three-options-islam-hijra-jizya, refs: ["Jāmiʿ 60:7034.2"], note: "فادعهم إلى ثلاث خصال ... فإن هم أبوا، فسلهم الجزية"}
+      - {motif: do-not-give-them-gods-protection-give-yours, refs: ["Jāmiʿ 60:7034.2"], note: "ولكن اجعل لهم ذمتك، وذمة أصحابك ... فلا تنزلهم على حكم اللَّه"}
+      - {motif: jizya-from-people-of-book, refs: ["Jāmiʿ 60:7034.2", "Jāmiʿ 60:7035.1"], note: "فسلهم الجزية ... أن نقاتلكم حتى تعبدوا اللَّه وحده أو تؤدوا الجزية"}
+      - {motif: enemy-like-bird-head-two-wings-two-feet, refs: ["Jāmiʿ 60:7035.1"], note: "مثل طائر له رأس، وله جناحان، وله رجلان ... فالرأس كسرى، والجناح قيصر، والجناح الآخر فارس"}
+      - {motif: we-sucked-hides-and-date-stones, refs: ["Jāmiʿ 60:7035.1"], note: "خرج علينا عامل كسرى في أربعين ألفا ... نمص الجلد والنوى من الجوع، ونلبس الوبر والشعر، ونعبد الشجر والحجر"}
+  - id: hadith-60-rabbis-as-lords-9-31
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Adi's gold cross; rabbis and monks taken as lords by making lawful and unlawful"
+    read: ["Jāmiʿ 60:7036.1"]
+    quran: ["9:31"]
+    tags:
+      - {motif: throw-off-this-idol-gold-cross, refs: ["Jāmiʿ 60:7036.1"], note: "وفي عنقي صليب من ذهب، فقال: يا عدي! اطرح عنك هذا الوثن"}
+      - {motif: lords-by-making-lawful-and-unlawful, refs: ["Jāmiʿ 60:7036.1"], note: "أما إنهم لم يكونوا يعبدونهم ولكنهم كانوا إذا أحلوا لهم شيئًا استحلوه وإذا حرموا عليهم شيئًا حرموه"}
+    hints:
+      - "Rabbis' power to declare lawful and unlawful against Matt 16:19 / 18:18 (binding and loosing) and the rabbinic terms asar / hittir (forbid / permit)."
+  - id: hadith-60-religion-prevails-9-33
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The woman from al-Hira; Chosroes' treasures; al-Lat worshipped again; the earth gathered; every house of clay and hair"
+    read: ["Jāmiʿ 60:7037.1-7038.3"]
+    quran: ["9:33"]
+    tags:
+      - {motif: woman-travels-from-hira-to-kaba-safe, refs: ["Jāmiʿ 60:7037.1"], note: "لترين الظعينة ترتحل من الحيرة، حتى تطوف بالكعبة، لا تخاف أحدا إلا اللَّه ... لتفتحن كنوز كسرى ... يخرج ملء كفه من ذهب أو فضة، يطلب من يقبله منه، فلا يجد"}
+      - {motif: no-interpreter-between-man-and-god, refs: ["Jāmiʿ 60:7037.1"], note: "وليس بينه وبينه ترجمان يترجم له ... فينظر عن يمينه، فلا يرى إلا جهنم ... اتقوا النار ولو بشقة تمرة"}
+      - {motif: lat-and-uzza-worshipped-again-after-good-wind, refs: ["Jāmiʿ 60:7037.2"], note: "لا يذهب الليل والنهار حتى تعبد اللات والعزى ... ثم يبعث اللَّه ريحا طيبة، فتوفي كل من في قلبه مثقال حبة خردل من إيمان"}
+      - {motif: earth-gathered-for-me-east-and-west, refs: ["Jāmiʿ 60:7038.1"], note: "إن اللَّه زوى لي الأرض، فرأيت مشارقها ومغاربها ... وأعطيت الكنزين الأحمر والأبيض"}
+      - {motif: not-destroyed-by-famine-nor-outside-enemy, refs: ["Jāmiʿ 60:7038.1"], note: "أن لا يهلكها بسنة بعامة، وأن لا يسلط عليهم عدوا من سوى أنفسهم ... حتى يكون بعضهم يهلك بعضا، ويسبي بعضهم بعضا"}
+      - {motif: religion-enters-every-house-of-clay-and-hair, refs: ["Jāmiʿ 60:7038.2", "Jāmiʿ 60:7038.3"], note: "ولا يترك اللَّه بيت مدر ولا وبر إلا أدخله هذا الدين، بعز عزيز أو بذل ذليل"}
+  - id: hadith-60-hoarders-9-34
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The hoarders - plates of fire, hot stones, the bald serpent, trampling herds; Abu Dharr at al-Rabadha
+    read: ["Jāmiʿ 60:7039.1-7041.3"]
+    quran: ["9:34"]
+    tags:
+      - {motif: zakat-made-purification-of-wealth, refs: ["Jāmiʿ 60:7039.1"], note: "من كنزها، فلم يؤد زكاتها، فويل له، إنما كان هذا قبل أن تنزل الزكاة، فلما أنزلت، جعلها اللَّه طهرا للأموال"}
+      - {motif: hoard-heated-into-plates-to-brand, refs: ["Jāmiʿ 60:7039.2"], note: "إلا أحمي عليه في نار جهنم، فيجعل صفائح، فيكوى بها جنباه وجبينه ... في يوم كان مقداره خمسين ألف سنة"}
+      - {motif: hot-stones-on-nipple-through-shoulder, refs: ["Jāmiʿ 60:7039.3", "Jāmiʿ 60:7040.1"], note: "بِكَيٍّ في ظهورهم، يخرج من جنوبهم ... برضف يحمى عليه في نار جهنم، ثم يوضع على حلمة ثدي أحدهم حتى يخرج من نغض كتفه"}
+      - {motif: hoard-becomes-bald-serpent-with-two-spots, refs: ["Jāmiʿ 60:7040.2", "Jāmiʿ 60:7040.3"], note: "مُثِّل له ماله شجاعا أقرع، له زبيبتان يطوقه يوم القيامة، يأخذ بلهزمتيه ... أنا مالك أنا كنزك"}
+      - {motif: abu-dharr-and-muawiya-on-the-hoarding-verse, refs: ["Jāmiʿ 60:7040.4"], note: "مررت بالربذة ... قال معاوية: نزلت في أهل الكتاب. فقلت: نزلت فينا وفيهم ... ولو أمّروا عليّ حبشيا، لسمعت وأطعت"}
+      - {motif: not-even-uhud-in-gold-three-days, refs: ["Jāmiʿ 60:7041.1"], note: "ما يسرني أن عندي مثل أحد هذا ذهبا، تمضي علي ثالثة وعندي منه دينار ... هكذا وهكذا وهكذا"}
+      - {motif: the-most-are-the-least, refs: ["Jāmiʿ 60:7041.1", "Jāmiʿ 60:7041.2"], note: "إن الأكثرين هم الأقلون يوم القيامة ... هم الأخسرون ورب الكعبة"}
+      - {motif: unpaid-livestock-trample-and-gore, refs: ["Jāmiʿ 60:7041.2"], note: "جاءت يوم القيامة أعظم ما كانت وأسمنه، تنطحه بقرونها، وتطؤه بأظلافها، كلما نفدت أخراها عادت عليه أولاها"}
+      - {motif: gold-tied-up-is-live-coal, refs: ["Jāmiʿ 60:7041.3"], note: "ففضل معها سبع ... فأمرها أن تشتري به فلوسا ... أيما ذهب أو فضة أوكي عليه، فهو جمر على صاحبه حتى يفرغه في سبيل اللَّه"}
+    hints:
+      - "Hoarded gold turned to fire against the owner's body against Jas 5:3 ('your gold and silver are rusted, and their rust will eat your flesh like fire; you have laid up treasure in the last days')."
+  - id: hadith-60-time-turned-round-9-36
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Time has turned round - twelve months, four sacred; which month, land, day is this?
+    read: ["Jāmiʿ 60:7042.1"]
+    quran: ["9:36-37"]
+    tags:
+      - {motif: time-turned-round-as-on-day-of-creation, refs: ["Jāmiʿ 60:7042.1"], note: "إن الزمان قد استدار كهيئته يوم خلق اللَّه السموات والأرض، السنة اثنا عشر شهرا، منها أربعة حرم، ثلاثة متواليات ... ورجب شهر مضر الذي بين جمادى وشعبان"}
+      - {motif: intercalation-nasi-forbidden, refs: ["Jāmiʿ 60:7042.1"], note: "إن الزمان قد استدار كهيئته"}
+      - {motif: what-day-what-month-silence, refs: ["Jāmiʿ 60:7042.1"], note: "أيّ شهر هذا؟ ... فسكت حتى ظننا أنه سيسميه بغير اسمه ... أليس البلدة؟ ... أليس يوم النحر"}
+      - {motif: blood-property-honour-sacred-as-this-day, refs: ["Jāmiʿ 60:7042.1"], note: "فإن دماءكم وأموالكم وأعراضكم حرام عليكم، كحرمة يومكم هذا ... ألا ليبلغ الشاهد الغائب"}
+  - id: hadith-60-world-is-little-9-38
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: The world as a finger dipped in the sea; the dead earless kid
+    read: ["Jāmiʿ 60:7043.1-7043.2"]
+    quran: ["9:38"]
+    tags:
+      - {motif: world-to-hereafter-as-finger-dipped-in-sea, refs: ["Jāmiʿ 60:7043.1"], note: "ما الدنيا في الآخرة إلا مثل ما يجعل أحدكم إصبعه هذه ... في اليم فلينظر بم ترجع"}
+      - {motif: world-meaner-than-a-dead-earless-kid, refs: ["Jāmiʿ 60:7043.2"], note: "فمر بجدي أسك ميت، فتناوله، فأخذ بأذنه ... أيكم يحب أن هذا له بدرهم؟ ... فوالله للدنيا أهون على الله من هذا عليكم"}
+  - id: hadith-60-going-out-abrogated-9-39
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'If you do not go out' abrogated by 9:122"
+    read: ["Jāmiʿ 60:7044.1"]
+    quran: ["9:39", "9:120-122"]
+    tags:
+      - {motif: going-out-verse-abrogated-by-9122, refs: ["Jāmiʿ 60:7044.1"], note: "﴿إِلَّا تَنْفِرُوا يُعَذِّبْكُمْ﴾ ... نسختها الآية التي تليها ﴿وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً﴾"}
+  - id: hadith-60-two-in-cave-9-40
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Two in the cave, God the third
+    read: ["Jāmiʿ 60:7044.2"]
+    quran: ["9:40"]
+    tags:
+      - {motif: feet-above-the-cave, refs: ["Jāmiʿ 60:7044.2"], note: "نظرت إلى أقدام المشركين على رؤوسنا، ونحن في الغار ... لو أن أحدهم نظر إلى قدميه، أبصرنا تحت قدميه"}
+      - {motif: two-whose-third-is-god, refs: ["Jāmiʿ 60:7044.2"], note: "يا أبا بكر ما ظنك باثنين الله ثالثهما"}
+  - id: hadith-60-gods-path-9-41
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Who is in God's path; God's guarantee to the raider"
+    read: ["Jāmiʿ 60:7045.1-7045.2"]
+    quran: ["9:41"]
+    tags:
+      - {motif: who-fights-for-gods-word-highest, refs: ["Jāmiʿ 60:7045.1"], note: "من قاتل لتكون كلمة الله هي العليا، فهو في سبيل الله"}
+      - {motif: god-guarantees-the-raider-paradise-or-return, refs: ["Jāmiʿ 60:7045.2"], note: "تكفل الله لمن جاهد في سبيله ... أن يدخله الجنة، أو يردّه إلى مسكنه بما نال من أجر أو غنيمة"}
+  - id: hadith-60-asking-leave-9-44
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'They do not ask your leave' abrogated by al-Nur 24:62"
+    read: ["Jāmiʿ 60:7045.3"]
+    quran: ["9:44", "24:62"]
+    tags:
+      - {motif: asking-leave-verse-abrogated-by-2462, refs: ["Jāmiʿ 60:7045.3"], note: "نسختها التي في سورة النور: ﴿إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ﴾"}
+  - id: hadith-60-be-just-9-58
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'Be just' - the man of Tamim, the arrow through the game, the man with the breast-like arm"
+    read: ["Jāmiʿ 60:7046.1"]
+    quran: ["9:58"]
+    tags:
+      - {motif: who-is-just-if-i-am-not, refs: ["Jāmiʿ 60:7046.1"], note: "اعدل يا رسول اللَّه. فقال: ويلك من يعدل إذا لم أعدل. قال عمر بن الخطاب: دعني أضرب عنقه. قال: دعه"}
+      - {motif: pass-through-religion-like-arrow-through-game, refs: ["Jāmiʿ 60:7046.1"], note: "يمرقون من الدين كما يمرق السهم من الرمية"}
+      - {motif: arrow-examined-at-feathers-shaft-head-no-trace, refs: ["Jāmiʿ 60:7046.1"], note: "ينظر في قذذه فلا يوجد فيه شيء، ينظر في نصله ... رصافه ... نضيه ... قد سبق الفرث والدم"}
+      - {motif: sign-man-with-arm-like-a-womans-breast, refs: ["Jāmiʿ 60:7046.1"], note: "آيتهم رجل إحدى يديه - أو قال ثدييه - مثل ثدي المرأة أو قال مثل البضعة تدردر ... وأشهد أن عليا قتلهم وأنا معه"}
+  - id: hadith-60-recipients-of-alms-9-60
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The eight recipients - the rich and strong excluded, the true poor, the collector, the Prophet's kin, the reconciled hearts, slaves, debtors"
+    read: ["Jāmiʿ 60:7047.1-7052.1"]
+    quran: ["9:60"]
+    tags:
+      - {motif: no-share-for-rich-or-able-earner, refs: ["Jāmiʿ 60:7047.1", "Jāmiʿ 60:7047.2"], note: "فقلّب فيهما البصر، فرآهما جلدين ... ولا حظ فيها لغني، ولا لقوي مكتسب ... لا تحل الصدقة لغني ولا لذي مِرّة سويٍّ"}
+      - {motif: poor-is-not-the-beggar-round-the-doors, refs: ["Jāmiʿ 60:7048.1"], note: "ليس المسكين بهذا الطواف الذي يطوف على الناس، فترده اللقمة واللقمتان ... الذي لا يجد غنى يغنيه، ولا يفطن الناس له"}
+      - {motif: wage-for-the-collector-take-what-unasked, refs: ["Jāmiʿ 60:7048.2"], note: "أمر لي بعمالة، فقلت: إنما عملت لله ... إذا أعطيت شيئا من غير أن تسأل، فكل وتصدق"}
+      - {motif: alms-are-the-dirt-of-people, refs: ["Jāmiʿ 60:7048.3"], note: "إن الصدقة لا تنبغي لآل محمد. إنما هي أوساخ الناس ... أنكح هذا الغلام ابنتك ... أَصدِق عنهما من الخمس كذا وكذا"}
+      - {motif: zaynab-signals-from-behind-curtain, refs: ["Jāmiʿ 60:7048.3"], note: "وجعلت زينب تُلمِع علينا من وراء الحجاب أن لا تكلّماه"}
+      - {motif: safwan-given-hundreds-until-he-loved-him, refs: ["Jāmiʿ 60:7050.1"], note: "صفوان بن أميه مائة من النعم، ثم مائة، ثم مائة ... وإنه لأبغض الناس إليّ، فما برح يعطينى حتى إنه لأحب الناس إليّ"}
+      - {motif: believer-or-muslim, refs: ["Jāmiʿ 60:7050.2"], note: "إني لأراه مؤمنا. قال: أو مسلما؟ ... إني لأعطي الرجل، وغيره أحبّ إليّ منه، خشية أن يكب في النار على وجهه"}
+      - {motif: gold-in-its-earth-divided-among-four, refs: ["Jāmiʿ 60:7050.3"], note: "بِذَهَبَةٍ في تربتها ... فقسمها ... بين أربعة نفر ... أتعطي صناديد نجد وتدعنا ... إني إنما فعلت ذلك لأتألفهم"}
+      - {motif: man-of-thick-beard-shaved-head, refs: ["Jāmiʿ 60:7050.3"], note: "فجاء رجل كثُّ اللحية، مشرف الوجنتين، غائر العينين، ناتئ الجبين، محلوق الرأس، فقال: اتق الله، يا محمد"}
+      - {motif: pass-through-religion-like-arrow-through-game, refs: ["Jāmiʿ 60:7050.3"], note: "إن من ضئضئ هذا قوما يقرؤون القرآن، لا يجاوز حناجرهم ... يمرقون من الإسلام كما يمرق السهم من الرمية"}
+      - {motif: killing-as-ad-were-killed, refs: ["Jāmiʿ 60:7050.3"], note: "يقتلون أهل الإسلام، ويدعون أهل الأوثان ... لئن أدركتُهم لأقتلنّهم قتل عاد"}
+      - {motif: three-whom-god-must-help, refs: ["Jāmiʿ 60:7051.1"], note: "ثلاثة حق على الله عونهم: المجاهد في سبيل الله، والمكاتب الذي يريد الأداء، والناكح الذي يريد التعفف"}
+      - {motif: creditors-take-what-you-find, refs: ["Jāmiʿ 60:7051.2"], note: "أصيب رجل ... في ثمار ابتاعها، فكثر دينه ... خذوا ما وجدتم وليس لكم إلا ذلك"}
+      - {motif: asking-lawful-for-three-only, refs: ["Jāmiʿ 60:7051.3"], note: "إن المسألة لا تحل إلا لأحد ثلاثة: رجل تحمّل حمالة ... ورجل أصابته جائحة ... حتى يقوم ثلاثة من ذوي الحجا من قومه ... سحتا يأكلها صاحبها سحتا"}
+      - {motif: alms-lawful-to-five-rich, refs: ["Jāmiʿ 60:7052.1"], note: "لا تحل الصدقة لغني إلا لخمسة: لعامل عليها، أو لغاز في سبيل الله، أو غني اشتراها بماله، أو فقير تُصدِّق عليه فأهداها لغني، أو غارم"}
+    hints:
+      - "Poverty attested by 'three men of understanding of his people' before begging is lawful against m. Pe'ah 8:7-8, where the poor man's claim is checked and a fixed threshold (two hundred zuz) decides who may take the gleanings and tithe."
+  - id: hadith-60-mocking-reciters-9-65
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "'We were only chatting and playing' at Tabuk; Makhshi b. Humayyir"
+    read: ["Jāmiʿ 60:7052.2-7052.3"]
+    quran: ["9:65-66"]
+    tags:
+      - {motif: hypocrite-clings-to-camel-girth-stones-bruise-him, refs: ["Jāmiʿ 60:7052.2"], note: "ما رأينا مثل قرّائنا هؤلاء، أرغبَ بطونًا، ولا أكذبَ ألسنة، ولا أجبن عند اللقاء ... متعلقًا بحَقَب ناقة رسول الله ﷺ تنكبه الحجارة"}
+      - {motif: makhshi-asks-to-be-killed-unknown, refs: ["Jāmiʿ 60:7052.3"], note: "لوددت أني أقاضي على أن يضرب كل رجل منكم مائة مائة ... قعد بي اسمي واسم أبي ... فتسمى: عبد الرحمن. وسأل اللهَ أن يقتل شهيدًا لا يعلم بمقتله، فقُتِل يوم اليمامة"}
+  - id: hadith-60-following-predecessors-9-69
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Following those before span by span, even into the lizard's hole"
+    read: ["Jāmiʿ 60:7053.1-7053.2"]
+    quran: ["9:69"]
+    tags:
+      - {motif: follow-predecessors-into-lizards-hole, refs: ["Jāmiʿ 60:7053.1", "Jāmiʿ 60:7053.2"], note: "لتتبعن سنن من قبلكم شبرا بشبر، وذراعا بذراع، حتى لو سلكوا جحر ضب لسلكتموه ... اليهود والنصارى، قال: فمن؟ ... كفارس والروم؟ فقال: ومَن الناسُ إلا أولئك؟"}
+  - id: hadith-60-believers-allies-9-71
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Believers like a building and like one body
+    read: ["Jāmiʿ 60:7054.1-7054.2"]
+    quran: ["9:71"]
+    tags:
+      - {motif: believer-to-believer-as-building, refs: ["Jāmiʿ 60:7054.1"], note: "المؤمن للمؤمن كالبنيان، يشد بعضه بعضا. وشبّك بين أصابعه"}
+      - {motif: believers-as-one-body-fever-and-sleeplessness, refs: ["Jāmiʿ 60:7054.2"], note: "كمثل الجسد، إذا اشتكى عضوا تداعى له سائر جسده بالسهر والحمى"}
+    hints:
+      - "The community as one body whose other limbs share a limb's fever against 1 Cor 12:26 ('if one member suffers, all the members suffer with it'), and as a building against Eph 2:21 ('the whole building, joined together')."
+  - id: hadith-60-gardens-and-ridwan-9-72
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Gardens of silver and gold; the cloak of pride; God's pleasure greater"
+    read: ["Jāmiʿ 60:7054.3-7055.2"]
+    quran: ["9:72"]
+    tags:
+      - {motif: two-gardens-silver-two-gold-cloak-of-pride, refs: ["Jāmiʿ 60:7054.3"], note: "جنتان من فضة، آنيتهما وما فيهما، وجنتان من ذهب ... إلا رداء الكبر على وجهه في جنة عدن"}
+      - {motif: i-make-my-pleasure-alight-on-you, refs: ["Jāmiʿ 60:7055.1", "Jāmiʿ 60:7055.2"], note: "هل رضيتم ... أحل عليكم رضواني، فلا أسخط عليكم بعده أبدا ... رضواني أكبر"}
+  - id: hadith-60-swearing-hypocrites-9-74
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "Al-Julas 'worse than donkeys'; the man who looks with a devil's eyes"
+    read: ["Jāmiʿ 60:7055.3-7056.1"]
+    quran: ["9:74"]
+    tags:
+      - {motif: worse-than-donkeys-if-he-is-truthful, refs: ["Jāmiʿ 60:7055.3"], note: "لئن كان هذا الرجل صادقًا لنحن أشر من الحمير ... لئن ذكرتها لتفضحنك، ولئن سكتُّ عنها لتهلكني ... فحلف بالله ما قال"}
+      - {motif: man-looking-with-satans-eyes, refs: ["Jāmiʿ 60:7056.1"], note: "إنه سيأتيكم إنسانٌ، فينظر إليكم بعيني شيطان ... فلم يلبث أن طلَع رجل أزرقُ ... علامَ تشتمني أنت وأصحابك؟ ... فحلفوا بالله ما قالوا"}
+  - id: hadith-60-covenant-broken-9-75
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: Judge the hypocrites by three
+    read: ["Jāmiʿ 60:7056.2"]
+    quran: ["9:75-77"]
+    tags:
+      - {motif: hypocrite-three-signs-covenant-broken, refs: ["Jāmiʿ 60:7056.2"], note: "اعتبروا المنافقين بثلاث: إذا حدث كذب، وإذا وعد أخلف، وإذا عاهد غدر، وأنزل الله تصديق ذلك"}
+  - id: hadith-60-mocked-alms-9-79
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The half sa' and the large gift mocked"
+    read: ["Jāmiʿ 60:7058.1-7058.2"]
+    quran: ["9:79"]
+    tags:
+      - {motif: half-sa-mocked-large-gift-called-show, refs: ["Jāmiʿ 60:7058.1"], note: "كنا نتحامل، فجاء أبو عقيل بنصف صاع ... فقال المنافقون: إن الله لغني عن صدقة هذا، وما فعل هذا الآخر إلا رئاء"}
+      - {motif: forty-ounces-of-gold-and-a-sa-of-food, refs: ["Jāmiʿ 60:7058.2"], note: "جاء عبد الرحمن بن عوف بأربعين أوقية من ذهب ... وجاءه رجل من الأنصار بصاع من طعام ... إن كان الله ورسولُه لَغنِيّيْنِ عن هذا الصاع"}
+    hints:
+      - "The small gift scorned beside the rich man's against Mark 12:41-44 (the widow's two mites beside the rich who put in much)."
+  - id: hadith-60-ibn-ubayy-funeral-9-80
+    tradition: islam
+    corpus: hadith
+    original: true
+    tagger: "Claude Opus 5.5, reading the Arabic"
+    title: "The prayer over Abd Allah b. Ubayy - the shirt, 'I will exceed seventy', 9:84; and Umar's agreements"
+    read: ["Jāmiʿ 60:7059.1-7059.3"]
+    quran: ["9:80", "9:84", "63:6", "33:53", "8:67", "23:12-14"]
+    tags:
+      - {motif: shirt-given-to-shroud-ibn-ubayy, refs: ["Jāmiʿ 60:7059.1", "Jāmiʿ 60:7059.3"], note: "فسأله أن يعطيه قميصه يكفن فيه أباه، فأعطاه ... اطلب لي من رسول الله ﷺ ثوبا من ثيابه تكفنني فيه"}
+      - {motif: given-choice-i-will-exceed-seventy, refs: ["Jāmiʿ 60:7059.1", "Jāmiʿ 60:7059.2", "Jāmiʿ 60:7059.3"], note: "إنما خيّرني الله ... وسأزيده على السبعين ... إني خيرت فاخترت، لو أعلم أني إن زدت على السبعين يغفر له لزدت عليها"}
+      - {motif: seventy-times-forgiveness-useless, refs: ["Jāmiʿ 60:7059.1", "Jāmiʿ 60:7059.2"], note: "﴿إِنْ تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ﴾"}
+      - {motif: no-funeral-prayer-for-hypocrites, refs: ["Jāmiʿ 60:7059.1", "Jāmiʿ 60:7059.2", "Jāmiʿ 60:7059.3"], note: "فأنزل الله ﴿وَلَا تُصَلِّ عَلَى أَحَدٍ مِنْهُمْ مَاتَ أَبَدًا﴾"}
+      - {motif: umar-wonders-at-his-daring, refs: ["Jāmiʿ 60:7059.2"], note: "فعجبت بعد من جرأتي على رسول الله ﷺ"}
+      - {motif: visitor-overstays-three-times-hijab-revealed, refs: ["Jāmiʿ 60:7059.3"], note: "فأطال الجلوس، فخرج النبي ﷺ ثلاثا، لكي يتبعه، فلم يفعل ... لو اتخذت حاجبا، فإن نساءك لسن كسائر النساء"}
+      - {motif: etiquette-of-prophets-house-and-curtain, refs: ["Jāmiʿ 60:7059.3"], note: "﴿وَإِذَا سَأَلْتُمُوهُنَّ مَتَاعًا فَاسْأَلُوهُنَّ مِنْ وَرَاءِ حِجَابٍ﴾"}
+      - {motif: if-we-agreed-i-would-not-defy-you, refs: ["Jāmiʿ 60:7059.3"], note: "استحيي قومك، وخذ منهم الفداء ... اقتلهم. فقال: لو اجتمعنا ما عصيناكم"}
+      - {motif: umar-says-blessed-is-god-best-of-creators, refs: ["Jāmiʿ 60:7059.3"], note: "فقال عمر: تبارك الله أحسن الخالقين، فأنزلت ﴿فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ﴾"}
