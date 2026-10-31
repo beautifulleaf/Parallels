@@ -177,8 +177,7 @@ the linguistic layer.
 ## Every phase ends with
 
 1. Merging near-duplicate motifs and concepts.
-2. The Buddhist × Quran comparison for the texts read in that phase, mainly
-   on the concept layer, with neutral ids for divergences.
+2. The Buddhist × Quran comparison for the texts read in that phase, on motifs and concepts alike (a concept match needs a specific shared formulation, argument or image, not a shared or opposed doctrine), with neutral ids for divergences.
    - Quote the decisive Pali, Sanskrit or Chinese and the Arabic.
    - Divergences matter as much as parallels, but only specific ones (see
      "Discovery, not confirmation" in `reading-at-scale.md`). Worldview-level

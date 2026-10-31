@@ -187,8 +187,7 @@ Benchmarks:
 ## Every phase ends with
 
 1. Merging near-duplicate motifs and concepts.
-2. The **Hindu × Quran comparison** for the texts read in that phase, mainly
-   on the concept layer.
+2. The **Hindu × Quran comparison** for the texts read in that phase, on motifs and concepts alike (a concept match needs a specific shared formulation, argument or image, not a shared or opposed doctrine).
    - Use neutral ids for divergences.
    - Quote the decisive Sanskrit (transliterated) and the Arabic.
 3. The pipeline run, with every benchmark passing.
