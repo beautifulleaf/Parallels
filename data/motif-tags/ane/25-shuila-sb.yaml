@@ -1,0 +1,555 @@
+# Full read, chunk 25: Šuʾilas to Ištar, Ninlil, Šamaš; Spider; Theodicy; Wren; SAA 2 treaties. Read in the Akkadian.
+new_motifs:
+  lifted-hand-prayer-with-ritual-rubric: {label: "A prayer is labelled a lifted-hand prayer (šuʾila) and followed by its ritual: roof swept, pure water sprinkled, portable altar, censer of juniper, libation, recitation three times, prostration", cluster: cult}
+  prayer-recited-three-times: {label: "The prayer or incantation is to be recited three times", cluster: cult}
+  goddess-twin-of-sun-god: {label: "The love-and-war goddess is the twin sister of the sun god and shares his office of judging the world", cluster: theogony}
+  deity-as-torch-of-heaven-and-earth: {label: "The deity is hailed as the torch, light or luminary of heaven and earth", cluster: hymn}
+  justice-at-right-hand-favour-at-left: {label: "Personified Justice stands at the deity's right hand and Favour at the left, protective spirits going before and behind", cluster: hymn}
+  how-near-is-your-hearing: {label: "Hymnic confidence: how sweet it is to pray to the god, how near is the god's hearing", cluster: prayer}
+  deity-changes-fates-raises-lowly: {label: "The deity reverses fortunes: makes the weak strong, the unfortunate fortunate, raises the fallen", cluster: hymn}
+  ahulap-litany-have-mercy: {label: "Litany of 'aḫulap' ('enough!, have mercy'): mercy asked in turn for the sufferer's body, heart, omens, household and feelings", cluster: prayer}
+  sufferer-tossed-like-wave-heart-flies-like-bird: {label: "The sufferer tosses like a wave whipped by an evil wind; his heart flutters and flies like a bird of heaven", cluster: prayer}
+  what-have-i-done-to-my-god: {label: "The sufferer asks what he has done to his god and goddess: he is treated like one who does not fear his god", cluster: prayer}
+  dark-days-gloomy-months-years-of-grief: {label: "The sufferer has seen dark days, gloomy months and years of grief", cluster: prayer}
+  house-of-sufferer-deathly-silent-family-scattered: {label: "The sufferer's house, gate and fields are deathly silent; his family is dispersed and his fold scattered", cluster: prayer}
+  sin-loosed-like-bond: {label: "Sin is a bond or fetter: the petitioner asks that his sin be loosed, his bonds released and he be set free", cluster: prayer}
+  brazier-relit-torch-rekindled-family-gathered: {label: "Petition for restoration: the dark smoky brazier brightened, the extinguished torch rekindled, the scattered family gathered, the fold enlarged", cluster: prayer}
+  personal-god-and-goddess-reconciled: {label: "Petition that the angry personal god and personal goddess turn back and be reconciled with the sufferer", cluster: prayer}
+  divine-anger-calm-like-river-water: {label: "Prayer that the deity's mood become calm like the clear water of a river", cluster: prayer}
+  restored-sufferer-proclaims-gods-praise-in-street: {label: "Those who see the restored sufferer in the street will magnify the deity's name, and he will proclaim the deity's greatness to all people", cluster: prayer}
+  deity-heart-returns-like-father-and-mother: {label: "Prayer that the deity's heart return to the sufferer like that of a father and a mother", cluster: prayer}
+  goddess-quickly-appeased-after-cursing: {label: "Where the goddess has cursed, she is quickly appeased; she is relenting, merciful and forgiving", cluster: prayer}
+  word-from-mouth-life-from-lips: {label: "Prayer that life come forth from the deity's mouth and peace be set on the deity's lips", cluster: prayer}
+  favourable-finger-pointed-behind-me: {label: "Prayer that god, king, noble and prince esteem the petitioner and a favourable finger be stretched out behind him", cluster: prayer}
+  slanderers-mouths-silenced: {label: "Prayer that the slanderer not defame the petitioner and that the deity master the mouths that slander him", cluster: prayer}
+  sufferer-eats-no-food-embittered-like-gall: {label: "The sufferer finds no taste in food and is bitter as gall; terrors and frightening dreams on his bed at night", cluster: prayer}
+  coated-with-tears-polluted-with-dust: {label: "The sufferer is drenched in tears and soiled with dust", cluster: prayer}
+  wall-fell-on-me: {label: "Image of affliction: a wall has fallen on the sufferer and overwhelmed him", cluster: prayer}
+  deity-holds-nose-rope-of-peoples: {label: "The deity holds the nose-rope (leading rope) of the peoples or of kings", cluster: kingship}
+  gods-exalt-goddess-in-assembly: {label: "The high gods (Anu, Enlil, Ea) exalt the goddess in the divine assembly, fix her fate and give her kingship of heaven and earth", cluster: theogony}
+  heaven-earth-shake-at-gods-name: {label: "At the mention of the deity's name heaven and earth quake and the gods tremble", cluster: hymn}
+  gods-kiss-feet-of-deity: {label: "The gods of heaven and the deep bow down and kiss the feet of the supreme deity", cluster: hymn}
+  rubric-ritual-against-slander-and-disfavour: {label: "Ritual prescribed for a man beset by slander and sorcery who has lost the favour of god, king and palace", cluster: cult}
+  woman-prays-goddess-for-child: {label: "A woman prays the goddess for a child ('a name and a seed') and a sound womb", cluster: prayer}
+  offering-meal-set-before-goddess-eat-and-drink: {label: "The petitioner sets food and drink before the deity: 'eat the pleasing food, drink the sweet drink, let your heart be at ease'", cluster: cult}
+  goddess-opens-veils-of-young-women: {label: "The love goddess opens the veils of young women (sexuality under her patronage)", cluster: sexuality}
+  goddess-sets-brothers-at-strife: {label: "The war goddess makes brothers at peace fight each other", cluster: war}
+  god-gives-lonely-friend-impotent-heir-blind-light: {label: "The god gives the lonely man a companion, the impotent man an heir, light to the blind, and opens the locked bolts of heaven", cluster: hymn}
+  sun-god-reads-sealed-tablet-writes-omen-in-sheep: {label: "The sun god can read an unopened, sealed tablet and writes the omen inside the sacrificial sheep", cluster: divination}
+  seize-hem-of-gods-garment: {label: "The petitioner seizes the hem of the god's garment in supplication", cluster: prayer}
+  evil-portent-turned-to-good: {label: "The god turns evil signs and portents (eclipse, broken chariot part, ants in the house, bad dreams) to good: may their evil not draw near the petitioner or his house", cluster: divination}
+  gods-vizier-and-consort-intercede: {label: "The god's vizier and wife are asked to speak a good word for the petitioner before the god", cluster: prayer}
+  gods-yes-is-yes-no-is-no: {label: "The god's 'yes' is yes and his 'no' is no: his affirmation cannot be altered", cluster: hymn}
+  make-me-pure-as-daylight: {label: "The petitioner asks the god to make him pure as the god's bright day", cluster: prayer}
+  curse-from-known-or-unknown-person: {label: "Evil or a curse (māmītu) laid on the sufferer by a friend, brother, sister, slave or kin, someone known or unknown, by hand or mouth, is to be released", cluster: prayer}
+  strife-at-home-contention-in-street: {label: "Wherever the sufferer goes is disagreeable: strife at home, contention in the street, worry pursuing him night and day", cluster: prayer}
+  without-god-no-judgment-given: {label: "Without the god no judgment is pronounced and the case of the wronged man and woman is not decided", cluster: law}
+  gods-create-world-then-distribute-sanctuaries: {label: "After the gods in assembly created heaven, netherworld and all creatures, they distributed sanctuaries and dwellings to every creature", cluster: creation}
+  creator-god-makes-and-names-two-creatures: {label: "A creator god makes two small creatures and gives them names that define their nature", cluster: creation}
+  boastful-creatures-quarrel-before-assembly: {label: "Small creatures boast of their strength and revile one another before the assembly of all animals, and another creature rebukes them for upsetting the order of the gods", cluster: fable}
+  lord-of-flies: {label: "A creature or demon is called 'master/lord of flies' (bēl zumbī)", cluster: demons}
+  theodicy-dialogue-sufferer-and-friend: {label: "A suffering man and his learned friend debate in alternating speeches why the pious suffer while the impious prosper", cluster: wisdom}
+  fathers-go-the-way-of-death: {label: "The friend consoles: our fathers all went the way of death and crossed the river of the dead, as ordained of old", cluster: wisdom}
+  who-reveres-god-has-protector-and-wealth: {label: "Retribution doctrine: whoever looks to his god has a protector, whoever reveres his goddess gathers wealth", cluster: wisdom}
+  beasts-and-rich-prosper-without-offerings: {label: "The sufferer points out that the wild ass, the lion and the rich man prosper without ever bringing offerings to the gods, while he who offered faithfully suffers", cluster: wisdom}
+  violent-beast-and-hoarder-come-to-ruin: {label: "The friend answers that the swaggering wild ass will be shot, the ravaging lion falls into a pit, and the hoarding rich man is burned by the king before his time", cluster: wisdom}
+  sufferer-resolves-to-abandon-god-and-roam: {label: "The despairing sufferer resolves to forsake home and possessions, trample the god's rites and roam the streets like a vagrant", cluster: wisdom}
+  social-inversion-rich-and-poor-change-places: {label: "Social world turned upside down: the king's son in rags, the son of the destitute in fine clothes, the rich man's son eating carob", cluster: wisdom}
+  wealth-and-poverty-ordained-of-old: {label: "Long life is the god's to grant; wealth and poverty were fixed by the gods since days of old", cluster: wisdom}
+  god-does-not-block-the-demon: {label: "The sufferer observes that the god does not bar the way of a demon: evil is left free to roam", cluster: wisdom}
+  idle-firstborn-and-working-younger-son: {label: "The father hauls the boat while his firstborn lies in bed; the heir idles in the street while the younger son feeds the poor", cluster: wisdom}
+  firstborn-inferior-second-born-superior: {label: "Saying: the cow's first calf is inferior, the next twice as big; the first child is a weakling, the second a warrior", cluster: wisdom}
+  society-honours-murderer-crushes-innocent: {label: "Society extols the powerful murderer and oppresses the powerless innocent: they call the wicked truthful, drive off the truthful, fill the oppressor's treasury and empty the poor man's larder", cluster: wisdom}
+  gods-gave-humans-lying-speech: {label: "The creator gods themselves gave humankind twisted speech, lies and falsehood forever", cluster: creation}
+  humble-walk-eyes-on-ground: {label: "The sufferer protests his humility: he walked unobtrusively, did not raise his voice, did not hold his head high but looked at the ground", cluster: wisdom}
+  small-bird-appeals-to-sun-god-against-eagle: {label: "A small weak bird (the wren) appeals to the sun god as just judge against the predatory eagle, and the god binds the eagle", cluster: fable}
+  lofty-humbled-lowly-raised-by-god: {label: "Moral: let the lofty no longer boast of their height nor the lowly lament their lowliness, for whoever has the god with him builds his nest and raises his young", cluster: wisdom}
+  wise-friend-heart-deep-as-ocean: {label: "The wise man's heart is a deep wellspring, the swell of the ocean that never diminishes", cluster: wisdom}
+units:
+  - id: ane-shuila-istar-1-valiant-ishtar
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 1: 'O valiant Ištar, cherished among the goddesses'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 1"]
+    tags:
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Ištar SB 1:2"], note: "dipār šamê u erṣeti šarūr kibrāti"}
+      - {motif: goddess-twin-of-sun-god, refs: ["Shuila Ištar SB 1:3-4"], note: "bukrat sîn ... tūamti ṭarri šūpê qurādi šamši: firstborn of Sin, twin of the bearded Šamaš"}
+      - {motif: incomparability-among-the-gods, refs: ["Shuila Ištar SB 1:11-12"], note: "šumma ina igigî ayyu māhirki / šumma ina anunnakī ali šāninki"}
+      - {motif: deity-changes-fates-raises-lowly, refs: ["Shuila Ištar SB 1:13-14"], note: "tuštepellī šīmātam-ma idammiq lemnu; already 'in the human womb' (ina šassūr nišī) poverty and profit are fixed"}
+      - {motif: justice-at-right-hand-favour-at-left, refs: ["Shuila Ištar SB 1:17-18", "Shuila Ištar SB 1:32-35"], note: "pānukki šēdu arkatuk lamassu / imnuk mīšaru šumēlukki dumqu"}
+      - {motif: how-near-is-your-hearing, refs: ["Shuila Ištar SB 1:21"], note: "kī ṭābu suppûki kī qerub našmûki"}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Shuila Ištar SB 1:39-40"], note: "ūmīya urrikī ... lubluṭ lušlim-ma luštammar ilūtki"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 1:45-48", "Shuila Ištar SB 1:30'-31'"]}
+      - {motif: prayer-recited-three-times, refs: ["Shuila Ištar SB 1:47"]}
+      - {motif: incense-and-juniper-offered, refs: ["Shuila Ištar SB 1:46"], note: "nignak burāši"}
+    hints:
+      - "With 'how near is your hearing' compare Deut 4:7 and Ps 145:18; Q 2:186 ('I am near, I answer the call of the caller')."
+      - "Justice at the right hand, favour at the left, guardian going before: compare Ps 89:15 and Ps 85:14 (righteousness goes before him)."
+      - "Reversal of fates compare 1Sam 2:7-8 and Ps 113:7-9; 'Who is your equal among the gods' compare Exod 15:11."
+  - id: ane-shuila-istar-2-lady-of-ladies
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 2: 'I beseech you, lady of ladies' (the great prayer to Ištar)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 2"]
+    tags:
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Ištar SB 2:5", "Shuila Ištar SB 2:35"], note: "nannarat šamê u erṣeti; namirtu dipār šamê u erṣeti"}
+      - {motif: goddess-sets-brothers-at-strife, refs: ["Shuila Ištar SB 2:9"], note: "muštamhiṣat ahhī mitgurūti"}
+      - {motif: war-goddess-clad-in-terror, refs: ["Shuila Ištar SB 2:11-12", "Shuila Ištar SB 2:31", "Shuila Ištar SB 2:36-37"], note: "gušea ša tuqunta halpat labišat hurbāša; labbat igigî"}
+      - {motif: gods-exalt-goddess-in-assembly, refs: ["Shuila Ištar SB 2:18-19"]}
+      - {motif: heaven-earth-shake-at-gods-name, refs: ["Shuila Ištar SB 2:20-21"], note: "ana hissat šumīki šamû u erṣetu irubbū / ilū išubbū inarruṭū anunnakkī"}
+      - {motif: black-headed-people, refs: ["Shuila Ištar SB 2:24"]}
+      - {motif: deity-holds-nose-rope-of-peoples, refs: ["Shuila Ištar SB 2:32"], note: "ṣābitat ṣerret šarrī: seizes the lead-rope of kings"}
+      - {motif: goddess-opens-veils-of-young-women, refs: ["Shuila Ištar SB 2:33"], note: "pētât pusummī ša kalīšina ardāti"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["Shuila Ištar SB 2:40-41"], note: "ašar tappallasī iballuṭ mītu itebbi marṣu: where she looks the dead live, the sick rise"}
+      - {motif: ahulap-litany-have-mercy, refs: ["Shuila Ištar SB 2:27-30", "Shuila Ištar SB 2:45-50"]}
+      - {motif: how-long-o-lord, refs: ["Shuila Ištar SB 2:56-59", "Shuila Ištar SB 2:93-94"], note: "adi mati bēltī ... ; adi mati bēltī zenâtī-ma suhhurū pānūki"}
+      - {motif: sufferer-tossed-like-wave-heart-flies-like-bird, refs: ["Shuila Ištar SB 2:62-63"]}
+      - {motif: moaning-like-a-dove, refs: ["Shuila Ištar SB 2:64"], note: "adammum kīma summatu mūši u urra"}
+      - {motif: what-have-i-done-to-my-god, refs: ["Shuila Ištar SB 2:67-68"], note: "mīnâ ēpuš ilī u ištarī anāku / kī lā pālih ilīya u ištarīya anāku epšēku"}
+      - {motif: dark-days-gloomy-months-years-of-grief, refs: ["Shuila Ištar SB 2:72-74"]}
+      - {motif: house-of-sufferer-deathly-silent-family-scattered, refs: ["Shuila Ištar SB 2:75-78"]}
+      - {motif: hiding-of-the-face, refs: ["Shuila Ištar SB 2:77", "Shuila Ištar SB 2:93"], note: "ilī ana ašaršanimma suhhurū pānūšu; suhhurū pānūki"}
+      - {motif: penitential-confession, refs: ["Shuila Ištar SB 2:80-82"], note: "puṭrī arnī šērtī gillatī u hiṭītī"}
+      - {motif: sin-loosed-like-bond, refs: ["Shuila Ištar SB 2:83"], note: "rummî kīsīya šubarrâya šuknī"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Shuila Ištar SB 2:85-86"]}
+      - {motif: brazier-relit-torch-rekindled-family-gathered, refs: ["Shuila Ištar SB 2:87-90"], note: "eṭû qatru limmir kinūnī / belīti linnapih dipārī / sapihtu illatī liphur"}
+      - {motif: divine-anger-calm-like-river-water, refs: ["Shuila Ištar SB 2:96"]}
+      - {motif: speaker-tramples-his-foe, refs: ["Shuila Ištar SB 2:97-98"], note: "ekdūtīya kīma qaqqaru lukabbis ... šupalsihī ina šaplīya"}
+      - {motif: restored-sufferer-proclaims-gods-praise-in-street, refs: ["Shuila Ištar SB 2:101-105"], note: "āmirūya ina sūqi lišarbû zikirki ... ištar-ma ṣīrat ištar-ma šarrat"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 2:106-110"], note: "roof swept, pure water, four bricks, poplar fire, aromatics, flour, juniper, miḫḫu-beer"}
+      - {motif: do-not-look-back, refs: ["Shuila Ištar SB 2:110"], note: "ana arkīka lā tappallas: going home after the rite, not fleeing a doomed place"}
+      - {motif: offerings-on-rooftops-to-goddess, refs: ["Shuila Ištar SB 2:107"], note: "ūra tašabbaṭ: on the roof, in an inaccessible place"}
+    hints:
+      - "'How long?' and turned face: compare Ps 13:2-3 and Ps 6:4; moaning like a dove Isa 38:14, Isa 59:11; heart flying like a bird Ps 55:7."
+      - "'What have I done?': compare Job 7:20, Job 10:2, Mic 6:3 (inverted); the extinguished brazier/torch compare 2Sam 14:7 and 2Sam 21:17, Prov 13:9."
+      - "Rooftop offerings to the heavenly goddess: Jer 19:13, Jer 44:17-19, Zeph 1:5; the dead living at her gaze: Deut 32:39, 1Sam 2:6."
+      - "Not looking back: Gen 19:17, 26."
+  - id: ane-shuila-istar-3-sublime-ishtar
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 3: 'O sublime Ištar, illuminator of the world' (against slander)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 3"]
+    tags:
+      - {motif: deity-changes-fates-raises-lowly, refs: ["Shuila Ištar SB 3:4-5"], note: "nādinat agî ana šarrī / mušēširat tubbuki u tubbukti mušatbat maqti: gives crowns to kings, guides the lame, raises the fallen"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Shuila Ištar SB 3:6-7"], note: "lā tasabbusī ... lā tazennî silim ittīya"}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Shuila Ištar SB 3:8-9"]}
+      - {motif: slanderers-mouths-silenced, refs: ["Shuila Ištar SB 3:10-15"], note: "ana pīya kitta ana šaptīya šalimta šukun ... ayy iqqabi ṭapiltu"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 3:24-29"], note: "repeated for three days; a dingir-šadibba (turning back the anger of the personal god)"}
+    hints:
+      - "Truth in my mouth / slanderers: compare Ps 120:2, Ps 141:3, Ps 31:19; raising the fallen Ps 145:14, Ps 146:8."
+  - id: ane-shuila-istar-4-woman-prays-for-child
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 4: a woman's prayer with offerings, for healing and a child"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 4"]
+    tags:
+      - {motif: offering-meal-set-before-goddess-eat-and-drink, refs: ["Shuila Ištar SB 4:7'-11'"], note: "kāsi karāni ebbeti ... qutrinna erīša [ṭāba] / aklī ṭāba šitī [dašpa]"}
+      - {motif: woman-prays-goddess-for-child, refs: ["Shuila Ištar SB 4:12'", "Shuila Ištar SB 4:19'"], note: "anāku annanna mārat annanna (a woman speaks); šurkī-ma šuma u zēra lū rēmu silītī"}
+      - {motif: childlessness-a-disgrace-removed, refs: ["Shuila Ištar SB 4:19'"]}
+      - {motif: victim-pleads-lawsuit-against-witch-before-gods, refs: ["Shuila Ištar SB 4:13'-14'"], note: "dayyānāti dīnī dī[nī]: here no witch named; the goddess as judge of the case"}
+      - {motif: sin-loosed-like-bond, refs: ["Shuila Ištar SB 4:16'"]}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Shuila Ištar SB 4:20'-21'"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 4:22'-32'"], note: "on a favourable day she purifies herself; dates, fine meal, mersu-cake, honey, ghee, first-rate beer, cedar and cypress oil"}
+    hints:
+      - "A woman praying for a child at the sanctuary: 1Sam 1:10-11 (Hannah); compare Q 3:35-38. 'Eat and drink' food set before the deity: contrast Ps 50:12-13; incense 'pleasing fragrance' Gen 8:21, Lev 1:9."
+  - id: ane-shuila-istar-5-9-fragments
+    tradition: ane-akkadian
+    title: "Šuʾilas to Ištar 5-9: fragments and incipits with rituals"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 5", "Shuila Ištar SB 6", "Shuila Ištar SB 7", "Shuila Ištar SB 8", "Shuila Ištar SB 9"]
+    tags:
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 5:7'-10'", "Shuila Ištar SB 7:2'-5'", "Shuila Ištar SB 9:4'-5'"], note: "5: to Bēlet-šamê ('Lady of Heaven') at night, seven food portions; 7: 'his guilt will be released, his god and goddess at peace with him'"}
+      - {motif: queen-of-heaven-cult, refs: ["Shuila Ištar SB 5:7'-9'"], note: "šu-il₂-la₂ [gašan]-an-e (Bēlet-šamê, partly restored), at night before Ištar on the roof"}
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Ištar SB 8:2-3"], note: "position in the pure heavens, 'like Šamaš'"}
+      - {motif: black-headed-raise-eyes-to-god, refs: ["Shuila Ištar SB 8:7-8"], note: "people bow down, animals of the steppe 'turned toward you in expectation' (sahrūki); partly restored"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Shuila Ištar SB 7:5'"]}
+    hints:
+      - "Animals look to the deity: compare Ps 104:27, Ps 145:15-16. Queen of Heaven: Jer 7:18, Jer 44:17-25."
+  - id: ane-shuila-istar-10-ishtar-of-the-stars
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 10: 'O Ištar of the stars, goddess of the morning'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 10"]
+    tags:
+      - {motif: venus-star-rising-at-evening, refs: ["Shuila Ištar SB 10:1", "Shuila Ištar SB 10:6-7"], note: "ištar kakkabī ilat šērti: here goddess of the morning (Venus as morning star), shining far off"}
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Ištar SB 10:3-4"]}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Shuila Ištar SB 10:13", "Shuila Ištar SB 10:13d", "Shuila Ištar SB 10:34'"]}
+      - {motif: sufferer-eats-no-food-embittered-like-gall, refs: ["Shuila Ištar SB 10:14-18"], note: "ērub nissata uṣi kūra ... murrurāku kī marti / ina mayyāl mūši gilittu u pardātu"}
+      - {motif: moaning-like-a-dove, refs: ["Shuila Ištar SB 10:19"]}
+      - {motif: coated-with-tears-polluted-with-dust, refs: ["Shuila Ištar SB 10:20"]}
+      - {motif: goddess-quickly-appeased-after-cursing, refs: ["Shuila Ištar SB 10:21-26"], note: "ašar tārurī zamar tappaššara ... tayyārāti u rēmēnâti / ennenēti u muppašrāti"}
+      - {motif: gracious-merciful-slow-to-anger-formula, refs: ["Shuila Ištar SB 10:25-26"], note: "string of mercy attributes: relenting, merciful, compassionate, forgiving"}
+      - {motif: deity-heart-returns-like-father-and-mother, refs: ["Shuila Ištar SB 10:28"], note: "libbaki kīma abi u ummi ana ašrīšu litūr"}
+      - {motif: word-from-mouth-life-from-lips, refs: ["Shuila Ištar SB 10:30-31"]}
+      - {motif: penitential-confession, refs: ["Shuila Ištar SB 10:32"], note: "arna puṭrī mīšara šuknī"}
+      - {motif: favourable-finger-pointed-behind-me, refs: ["Shuila Ištar SB 10:34-40"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 10:45-48", "Shuila Ištar SB 10:44'"], note: "the oil sprinkled on the ground is smeared on the petitioner's mouth; 'he speaks all that troubles his heart'"}
+    hints:
+      - "Goddess of the morning star: Isa 14:12 (Helel ben Shahar); mercy formula Exod 34:6-7, Joel 2:13, Jonah 4:2; like father and mother Ps 27:10, Ps 103:13, Isa 49:15, Isa 66:13."
+      - "Food bitter, tears and dust: Ps 102:5,10 (ashes like bread, tears in drink), Ps 42:4, Job 3:24, Job 7:13-14 (dreams terrify me)."
+  - id: ane-shuila-istar-11-innin-status
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 11: 'The one with Innin-status among the gods'"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 11"]
+    tags:
+      - {motif: goddess-twin-of-sun-god, refs: ["Shuila Ištar SB 11:3'"], note: "tūamti šamaš dayyānat kibrāti"}
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Ištar SB 11:5'-8'"], note: "šarūrūša ušnammaru eklēta: her brilliance lights the darkness; opens the paths like the sun"}
+      - {motif: black-headed-people, refs: ["Shuila Ištar SB 11:10'"], note: "ṣalmāt qaqqadi tereʾʾî: shepherds the black-headed"}
+      - {motif: deity-changes-fates-raises-lowly, refs: ["Shuila Ištar SB 11:11'-12'"], note: "enša ana danni teleʾʾî turra"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Shuila Ištar SB 11:21'-24'"]}
+    hints:
+      - "Weak made strong: Joel 4:10 (reversed), 2Cor 12:9; light shining in darkness Ps 18:29, Isa 9:1."
+  - id: ane-shuila-istar-12-she-is-splendid
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 12: 'She is splendid' (daughter of Sin, against witchcraft)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 12"]
+    tags:
+      - {motif: refrain-repeated-stanza, refs: ["Shuila Ištar SB 12:4-18"], note: "anaphora 'mārat sîn' opening each line: I am weak, exhausted, sick, afraid"}
+      - {motif: victim-pleads-lawsuit-against-witch-before-gods, refs: ["Shuila Ištar SB 12:6-8"], note: "ana dīnīya qūlī-ma"}
+      - {motif: bewitched-food-and-drink-given, refs: ["Shuila Ištar SB 12:20'-21'", "Shuila Ištar SB 12:32"], note: "partly restored: [ina akali] ušākilūʾinni ... ipšušūninni"}
+      - {motif: witch-makes-victims-figurine, refs: ["Shuila Ištar SB 12:19'"], note: "ṣalmīya [...], context broken"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Shuila Ištar SB 12:34-35", "Shuila Ištar SB 12:23'-25'"], note: "kišpūšunu ... [lissap]ih: may their witchcraft be dispersed"}
+    hints:
+      - "Sorcery against the sufferer: compare Ps 58:6 (charmers), Mic 5:11; Q 113:4 (those who blow on knots)."
+  - id: ane-shuila-istar-13-man-with-opponent
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 13: ritual for a slandered man and the prayer 'I implore you' (an eršahunga)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 13"]
+    tags:
+      - {motif: rubric-ritual-against-slander-and-disfavour, refs: ["Shuila Ištar SB 13:1-13"], note: "šumma amēlu bēl lemutti irašši ... ilu šarru kabtu rubû tīru nanzāzu u bāb ēkalli ... zenû ittīšu"}
+      - {motif: bewitched-man-estranged-from-his-gods, refs: ["Shuila Ištar SB 13:3-5"], note: "kišpū ruhû rusû ... ina lā edê sahrūšu: sorcery deployed without his knowledge"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 13:14-24"], note: "sulphur fire, cedar, cypress, sweet reed, myrtle; 'he should speak everything that has troubled him; his prayer will be heard'"}
+      - {motif: thanksgiving-sacrifice-and-feast-for-city, refs: ["Shuila Ištar SB 13:15"], note: "niqâ ebba ... imitta himṣa šumê: shoulder, fat and roast meat presented (not a feast)"}
+      - {motif: favourable-finger-pointed-behind-me, refs: ["Shuila Ištar SB 13:7", "Shuila Ištar SB 13:21-23"]}
+      - {motif: war-goddess-clad-in-terror, refs: ["Shuila Ištar SB 13:31", "Shuila Ištar SB 13:34-38"], note: "abūb lā mahār: an unstoppable flood"}
+      - {motif: gods-exalt-goddess-in-assembly, refs: ["Shuila Ištar SB 13:39-40"]}
+      - {motif: divine-command-unalterable, refs: ["Shuila Ištar SB 13:28", "Shuila Ištar SB 13:y+5"], note: "ša lā innennû qibīssa; ina ṣīt pīki ša lā nakār"}
+      - {motif: wall-fell-on-me, refs: ["Shuila Ištar SB 13:x+9"], note: "igāru elīya imq[ut]-ma ishupanni"}
+      - {motif: slanderers-mouths-silenced, refs: ["Shuila Ištar SB 13:x+3-x+8"], note: "courtiers glower, speak evil, treacherous talk and lies"}
+      - {motif: gods-kiss-feet-of-deity, refs: ["Shuila Ištar SB 13:y+2-y+3"], note: "[i]gigî [... liš]šiqū šēpīki"}
+    hints:
+      - "Courtiers' slander and the king's disfavour: compare Ps 31:14, Ps 41:6-9, Dan 6:4-5, Esth 3:8; leaning wall Ps 62:4."
+  - id: ane-shuila-istar-23-30-lady-of-heaven-and-earth
+    tradition: ane-akkadian
+    title: "Šuʾilas to Ištar 23 and 30: 'O Ištar, lady of heaven and earth'; a fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 23", "Shuila Ištar SB 30"]
+    tags:
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Ištar SB 23:5-6"], note: "nannārāti ... kīma nūru puluk šamāmī"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Shuila Ištar SB 23:8"], note: "ana dīn kitti u mīšari attaziz maharki: addressed to Ištar, not the sun god"}
+      - {motif: sin-loosed-like-bond, refs: ["Shuila Ištar SB 23:10-11"]}
+      - {motif: woman-prays-goddess-for-child, refs: ["Shuila Ištar SB 23:12-13"], note: "zēra perʾa lubēl: offspring and descendants; speaker's sex not stated"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 23:14-15", "Shuila Ištar SB 30:4'-6'"], note: "23:15 unīqa lā-petīta tanakkis libba taqallu: slaughter a virgin she-kid, roast its heart"}
+      - {motif: divine-command-unalterable, refs: ["Shuila Ištar SB 30:2'-3'"]}
+    hints:
+      - "A she-kid 'unopened' as offering: compare Num 19:2 (heifer never yoked), Deut 21:3."
+  - id: ane-shuila-istar-31-lady-of-cities
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar 31: 'O Ištar, lady of the cities, creator of the peoples' with its sickbed ritual"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ištar SB 31"]
+    tags:
+      - {motif: incomparability-among-the-gods, refs: ["Shuila Ištar SB 31:2", "Shuila Ištar SB 31:5"], note: "šāninki mannu"}
+      - {motif: gods-exalt-goddess-in-assembly, refs: ["Shuila Ištar SB 31:7-11"], note: "anu abūki išīmki šīmta ... [šar]rūt šamê u erṣeti iqīški ellil"}
+      - {motif: deity-holds-nose-rope-of-peoples, refs: ["Shuila Ištar SB 31:10"], note: "[tenē]šēti ṣerrassunu tukallî imnaki"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Shuila Ištar SB 31:21", "Shuila Ištar SB 31:55"], note: "nisaba musallimat ili zenî: the grain offering soothes the angry god"}
+      - {motif: sin-loosed-like-bond, refs: ["Shuila Ištar SB 31:26-27"], note: "lippaṭir arnī dalīlki ludlul"}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Shuila Ištar SB 31:27"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Ištar SB 31:28-55"], note: "when Venus has risen; seven rations of emmer, twelve pots of dates, mersu-cake of honey and ghee, seven flasks of beer, milk, beer and wine libated; throwing stick in left hand, flour in right"}
+      - {motif: queen-of-heaven-cult, refs: ["Shuila Ištar SB 31:30-34"], note: "enūma ištar ina šamê naphat: rite timed by the rising star; cakes (mersu) of honey and ghee"}
+      - {motif: seven-fold-ritual-action, refs: ["Shuila Ištar SB 31:43-45"], note: "sebe u sebe <akalī>: fourteen loaves, seven on the right and seven on the left; seven censers"}
+    hints:
+      - "Cakes and libations for the star-goddess: Jer 7:18, Jer 44:19 (kawwanim 'to portray her'); twelve loaves set out compare Lev 24:5-6 (bread of the presence, two rows)."
+  - id: ane-shuila-ninlil-incipits
+    tradition: ane-akkadian
+    title: "Šuʾilas to Ninlil 1, 2, 5: incipits only"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Ninlil SB"]
+    tags:
+      - {motif: gods-create-humans-and-animals, refs: ["Shuila Ninlil SB 5:1"], note: "bēlet e₂-kur [bā]nât tenēšēti: lady of Ekur, creator of humanity (restored [bā]nât)"}
+      - {motif: fate-decreed-cannot-be-altered, refs: ["Shuila Ninlil SB 1:1"], note: "ilat šīmāti: goddess of fates; only the title survives"}
+  - id: ane-shuila-shamash-1-heir-of-namrasit
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 1: 'O supreme, perfect one, heir of Namraṣit' (against evil portents)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Šamaš SB 1"]
+    tags:
+      - {motif: sun-god-judge-of-gods, refs: ["Shuila Šamaš SB 1:3", "Shuila Šamaš SB 1:16"], note: "muštēšir mīti u balṭi bāri kal mimma šumšu: judges living and dead, sees all; dayyān ilī"}
+      - {motif: black-headed-people, refs: ["Shuila Šamaš SB 1:9"]}
+      - {motif: god-gives-lonely-friend-impotent-heir-blind-light, refs: ["Shuila Šamaš SB 1:10-13"], note: "eṭla ēda tappâ tušarši / ana lā išari tanamdin apla / edlūti sikkūr šamê tupatti / ana lā nāṭili tašakkan nūra"}
+      - {motif: sun-god-reads-sealed-tablet-writes-omen-in-sheep, refs: ["Shuila Šamaš SB 1:14-15"], note: "ṭuppa arma lā petâ tašassi / ina libbi immeri tašaṭṭar šīra"}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Šamaš SB 1:17b", "Shuila Šamaš SB 1:17'b", "Shuila Šamaš SB 1:17'E", "Shuila Šamaš SB 1:19-20"], note: "variants insert a lunar eclipse, a broken chariot peg, red ants in the house; named users Šamaš-šuma-ukīn and Aplūtu"}
+      - {motif: justice-at-right-hand-favour-at-left, refs: ["Shuila Šamaš SB 1:26-29"], note: "kittu lizziz ina imittīya / mīšaru lizziz ina šumēlīya: here Truth and Justice flank the petitioner"}
+      - {motif: gods-vizier-and-consort-intercede, refs: ["Shuila Šamaš SB 1:30-31"], note: "Bunene the vizier and Aya the wife"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Šamaš SB 1:36"]}
+    hints:
+      - "Giving the lonely a home, the blind sight, freeing prisoners: Ps 68:7, Ps 146:7-8, Isa 42:7; opening the bolts/windows of heaven Mal 3:10, Gen 7:11; God who sees all Ps 33:13-15, Q 6:59 (knowledge of the unseen)."
+      - "Eclipse as evil portent: Jer 10:2 ('do not be dismayed at the signs of heaven'), Joel 3:4."
+  - id: ane-shuila-shamash-2-ashurbanipal
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 2: 'O great lord, who in the pure heavens...' (Ashurbanipal's copy)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Šamaš SB 2"]
+    tags:
+      - {motif: sun-god-shepherd-of-the-land, refs: ["Shuila Šamaš SB 2:3-6"], note: "rēʾû ša nišī ... muštēšir urhi munnarbi: guides the fugitive on the right path"}
+      - {motif: remember-not-sins-of-youth, refs: ["Shuila Šamaš SB 2:13-14"], note: "[ša ēpu]ša ištu ṣehrīya [adi] rabīya ai ikšudanni ... šār bēr: let my sins from youth to maturity not overtake me, let them withdraw a thousand miles"}
+      - {motif: make-me-pure-as-daylight, refs: ["Shuila Šamaš SB 2:16"], note: "[kīm]a ūmīka namri ubbibanni"}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Shuila Šamaš SB 2:17-18"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Šamaš SB 2:19"], note: "the king inserts his own name, aššur-bāni-apli"}
+    hints:
+      - "Sins of youth: Ps 25:7, Job 13:26; removed far away: Ps 103:12 ('as far as east from west'); purify me Ps 51:4,9."
+  - id: ane-shuila-shamash-3-4-brilliant-one
+    tradition: ane-akkadian
+    title: "Šuʾilas to Šamaš 3 and 4: 'O brilliant, resplendent one' and a fragment"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Šamaš SB 3", "Shuila Šamaš SB 4"]
+    tags:
+      - {motif: without-god-no-judgment-given, refs: ["Shuila Šamaš SB 3:11-13"], note: "[ina b]alīka purussû ul iqqabbi"}
+      - {motif: god-loves-stranger-orphan-widow, refs: ["Shuila Šamaš SB 3:15-16"], note: "tušteššir dunnamâ tadân ekūti: justice for the lowly and the orphan girl; makes the weak a champion"}
+      - {motif: seize-hem-of-gods-garment, refs: ["Shuila Šamaš SB 3:18"], note: "[sissik]taka aṣbat (partly restored)"}
+      - {motif: gods-vizier-and-consort-intercede, refs: ["Shuila Šamaš SB 3:32-37"]}
+      - {motif: black-headed-raise-eyes-to-god, refs: ["Shuila Šamaš SB 3:9", "Shuila Šamaš SB 4:3'"], note: "[ana] nūrīka namri baʾūlāt nišī uqâka: all humanity waits for your light"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Šamaš SB 3:41"]}
+    hints:
+      - "Holding the hem of a garment: 1Sam 15:27, 1Sam 24:5, Zech 8:23. All wait for you: Ps 104:27, Ps 145:15. Šamaš 4:7' [a]na lā ā[l]itt[i]: to the barren woman (broken), compare Ps 113:9."
+  - id: ane-shuila-shamash-5-yes-means-yes
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 5: 'whose yes means yes' (namburbi against an evil portent)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Šamaš SB 5"]
+    tags:
+      - {motif: gods-yes-is-yes-no-is-no, refs: ["Shuila Šamaš SB 5:1", "Shuila Šamaš SB 5:8-9"], note: "ša annašu anna ullašu ulla; qibītīka ... ša lā uttakkuru u annīka kīni ša lā innennû"}
+      - {motif: evil-portent-turned-to-good, refs: ["Shuila Šamaš SB 5:3-4", "Shuila Šamaš SB 5:7", "Shuila Šamaš SB 5:16"], note: "mupaššir namburbê"}
+      - {motif: seize-hem-of-gods-garment, refs: ["Shuila Šamaš SB 5:6"], note: "[sissikta]ka aṣbat (restored)"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Shuila Šamaš SB 5:17-18"], note: "ina ūmi annî ina dīnīya izizzam-ma dīnī dīn purussâ purus"}
+      - {motif: deity-as-torch-of-heaven-and-earth, refs: ["Shuila Šamaš SB 5:2", "Shuila Šamaš SB 5:13"], note: "munammir ekleti; nūrka lūmur ṣētka luš[tahhun]"}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Šamaš SB 5:24"]}
+    hints:
+      - "'Let your yes be yes and your no be no': Matt 5:37, Jas 5:12; God's word unchanging Num 23:19. 'Let me see your light': Ps 36:10."
+  - id: ane-shuila-shamash-6-seizing-of-the-chest
+    tradition: ane-akkadian
+    title: "Šuʾila to Šamaš 6: 'King of heaven and earth', against a curse seizing the chest, with an effigy rite"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Shuila Šamaš SB 6"]
+    tags:
+      - {motif: without-god-no-judgment-given, refs: ["Shuila Šamaš SB 6:2-3"], note: "[balū]kka ... purussi habli u habilti ul ipparras"}
+      - {motif: god-who-revives-the-dead, refs: ["Shuila Šamaš SB 6:4"], note: "mīta bulluṭu kasâ paṭāru ina qātīkā-ma: reviving the dead and freeing the bound"}
+      - {motif: curse-from-known-or-unknown-person, refs: ["Shuila Šamaš SB 6:6-9", "Shuila Šamaš SB 6:21-24"], note: "ṣibit māmīti ... lū ahu lū ahātu ... lū mūdû lū lā mūdû; also neglected obligations: ahṭû uqallilu"}
+      - {motif: strife-at-home-contention-in-street, refs: ["Shuila Šamaš SB 6:14-18"], note: "ina bīti ṣaltu ina sūqi puhpuhhû šaknā"}
+      - {motif: seven-fold-ritual-action, refs: ["Shuila Šamaš SB 6:19", "Shuila Šamaš SB 6:25", "Shuila Šamaš SB 6:32-33"], note: "adi sebēšu u sebēšu lū pašir: released 'seven and seven times'; seven loaves of each kind"}
+      - {motif: sorcery-returned-on-the-sorcerer, refs: ["Shuila Šamaš SB 6:20", "Shuila Šamaš SB 6:26-27"], note: "annû ṣalam bunnanīšu ... epšētēšu ana muhhīšu u lānīšu lillikū: an effigy of the adversary, male or female (6:36), receives the oil and his deeds return on his head"}
+      - {motif: ritual-washing-transfers-all-evils, refs: ["Shuila Šamaš SB 6:26", "Shuila Šamaš SB 6:28", "Shuila Šamaš SB 6:38"], note: "amsi qātīya u tulîya ... lubbib luzku"}
+      - {motif: save-me-that-i-may-praise-you, refs: ["Shuila Šamaš SB 6:30"]}
+      - {motif: lifted-hand-prayer-with-ritual-rubric, refs: ["Shuila Šamaš SB 6:31-40", "Shuila Šamaš SB 6:32'-36'"]}
+    hints:
+      - "Deeds return on the adversary's head: Ps 7:17, 1Kgs 2:32, Obad 15; washing hands in innocence Ps 26:6, Deut 21:6; sins unknown Ps 19:13; reviving the dead and freeing the bound Ps 146:7, 1Sam 2:6."
+  - id: ane-spider-contest-of-creatures
+    tradition: ane-akkadian
+    title: "Series of the Spider: creation in assembly, two creatures named, and their quarrel rebuked"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Spider SB"]
+    tags:
+      - {motif: gods-create-world-then-distribute-sanctuaries, refs: ["Spider SB –:1-6"], note: "enūma ilū ina puhrīšunu ibnû [kullata?] ... uzaʾʾizū kiṣṣāni"}
+      - {motif: gods-create-humans-and-animals, refs: ["Spider SB –:3-4"], note: "būl ṣēri umām ṣēri u nammašti āli: beasts of the steppe and creatures of the city (no humans named)"}
+      - {motif: creator-god-makes-and-names-two-creatures, refs: ["Spider SB –:9-12"], note: "ninšīku (Ea) šinā ṣuhārê attalad ... [pug]gula hamānīra ... [lā kā]niša ešqapīzi"}
+      - {motif: boastful-creatures-quarrel-before-assembly, refs: ["Spider SB –:7-8", "Spider SB –:13-17", "Spider SB –:24-33"], note: "spider (ettūtu) boasts, then rebukes: ammēni ina puhur nammašti taṭpilā ahāmeš ... uṣurāt ilī rabûti tusahhī"}
+      - {motif: lord-of-flies, refs: ["Spider SB –:19"], note: "bēl arni? lāʾiṭ? zumbī: 'master of flies', reading uncertain"}
+      - {motif: deity-names-creations, refs: ["Spider SB –:10-12"]}
+    hints:
+      - "Creatures each given their place and named: Gen 1:24-25, Gen 2:19-20, Ps 104. 'Lord of flies': Baal-zebub of Ekron, 2Kgs 1:2-6. Q 29:41 (the spider's house is the frailest) is a contrasting spider image."
+      - "Lines 34-107 largely lost (columns ii-iv broken): the second creature's reply (45-53) survives only in fragments."
+  - id: ane-theod-1-orphan-sufferer-and-friend
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 1-2: the orphaned sufferer addresses his wise friend; death is the way of the fathers"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:1-22"]
+    tags:
+      - {motif: theodicy-dialogue-sufferer-and-friend, refs: ["Theod SB –:1-7", "Theod SB –:12-15"]}
+      - {motif: acrostic-poem, refs: ["Theod SB –:1-11", "Theod SB –:12-22"], note: "each 11-line stanza begins with the same sign: a- (1-11), na- (12-22); the stanza initials through the poem spell a-na-ku sa-ag-gi-il-ki-i-na-am-ub-bi-ib ... (I, Saggil-kīnam-ubbib, the exorcist, who blesses god and king)"}
+      - {motif: author-names-himself-in-hymn, refs: ["Theod SB –:1-22"], note: "the author's name is encoded in the acrostic of the stanza initials"}
+      - {motif: orphan-raised-by-god-pleads, refs: ["Theod SB –:9-11"], note: "ahurrâkū-ma zārûʾā šīmatu ubtil ... abī u bāntī īzibūʾinnī-ma bal(i) tārûʾa: youngest child, father and mother died, no carer"}
+      - {motif: fathers-go-the-way-of-death, refs: ["Theod SB –:16-17"], note: "nadnū-ma abbūni illakū uruh mūti / nāra hubur ibbirū qabû ultu ulla"}
+      - {motif: who-reveres-god-has-protector-and-wealth, refs: ["Theod SB –:19-22"], note: "nāṭil pān ilim-ma raši lamassa / nakdu pālih ištar ukammar ṭuhda"}
+    hints:
+      - "Dialogue of sufferer and friends: Job 3-27; father and mother forsake me Ps 27:10; the way of all the earth 1Kgs 2:2, Josh 23:14; who fears God prospers Ps 112:1-3, Prov 3:9-10; acrostic poems: Ps 119, Lam 1-4."
+  - id: ane-theod-2-beasts-prosper-without-offerings
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 3-5: poverty of the sufferer; wild ass, lion and rich man prosper without offerings"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:23-55"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Theod SB –:23-33", "Theod SB –:34-44", "Theod SB –:45-55"], note: "stanza initials ku-, sa-, a(k)-"}
+      - {motif: wise-friend-heart-deep-as-ocean, refs: ["Theod SB –:23-24"], note: "kuppu ibrī libbaka ša lā iqattû nagabšu / kumurrê gipiš tâmti"}
+      - {motif: sufferer-eats-no-food-embittered-like-gall, refs: ["Theod SB –:27-32"], note: "want and craving cover his body; harvest and wine insufficient (adapted: no food rather than no appetite)"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Theod SB –:39-40"], note: "friend's doctrine: [salitt]u ištar itâr ina b[âli]: the estranged goddess returns on supplication"}
+      - {motif: beasts-and-rich-prosper-without-offerings, refs: ["Theod SB –:48-55"], note: "akkānu serrēmu ... ak-kabtî pakki ilī uzunšu ibši ... aklā-mâ nindabâ iliš ušabbab"}
+      - {motif: prosperity-of-the-wicked, refs: ["Theod SB –:52-53"]}
+    hints:
+      - "Job 21:7-15 and Jer 12:1 (why do the wicked prosper); Ps 73:3-12; Mal 3:14-15 ('what profit that we kept his charge?'). The wild ass in Job 39:5-8."
+  - id: ane-theod-3-divine-plan-far-as-heaven
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 6-8: the friend predicts the fall of beast and rich man; the godless prosper; the divine plan is remote as heaven"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:56-88"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Theod SB –:56-66", "Theod SB –:67-77", "Theod SB –:78-88"], note: "stanza initials gi-, il-, ki-"}
+      - {motif: violent-beast-and-hoarder-come-to-ruin, refs: ["Theod SB –:59-65"], note: "gillat nēšu īpušu petâssu haštu ... gīriš ina ūm lā šīmati iqammīšu malku"}
+      - {motif: prosperity-of-the-wicked, refs: ["Theod SB –:70-71"], note: "illakū uruh dumqi lā mušteʾʾû ili / iltapnū ītenšū muštemmiqū ša ištarti"}
+      - {motif: deity-changes-fates-raises-lowly, refs: ["Theod SB –:75-77"], note: "inverted: ilânni kuṣṣudu panânni lillu: a cripple rises above me, a fool ahead of me"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Theod SB –:58", "Theod SB –:82-83"], note: "kī qereb šamê šibqi ili nesī: the god's plan is as remote as the midst of heaven"}
+    hints:
+      - "God's ways high as heaven: Isa 55:8-9, Job 11:7-8, Rom 11:33; Q 2:216. The wicked fall into the pit they dug: Ps 7:16, Ps 9:16, Prov 26:27; the rich man's sudden end Ps 49:17-18, Luke 12:20."
+  - id: ane-theod-4-sufferer-renounces
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 9-13: broken passage; the sufferer resolves to renounce the god and roam"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:89-143"]
+    tags:
+      - {motif: sufferer-resolves-to-abandon-god-and-roam, refs: ["Theod SB –:133-142"], note: "bīta luddi ... billudê ili lumīš parṣī lukabbis ... bītbītiš lūterruba lunēʾ bubūta"}
+      - {motif: acrostic-poem, refs: ["Theod SB –:133-143"], note: "stanza initial bi- (lines 89-132 badly broken; 109-119 lost)"}
+    hints:
+      - "Despair and renunciation: Job 2:9 ('curse God and die'), Job 21:14-15, Mal 3:14; wandering for bread Ps 59:16, Ps 109:10."
+  - id: ane-theod-5-world-upside-down
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 14-19: the friend reproves; the sufferer on social inversion; wealth and poverty ordained"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:144-211"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Theod SB –:158-165", "Theod SB –:166-176", "Theod SB –:177-187", "Theod SB –:188-199", "Theod SB –:200-211"], note: "stanza initials ma-, aš-, ma-, šu-, ka-"}
+      - {motif: gods-create-humans-and-animals, refs: ["Theod SB –:149-150"], note: "[ibnī]-ma amēlūta ... šassūrāti: creation of humankind and the midwife, fragmentary"}
+      - {motif: prophecy-of-social-collapse-house-against-house, refs: ["Theod SB –:159"], note: "mārtu ana bānti iqabbi[...]: the daughter speaks [lies?] to her mother (restoration)"}
+      - {motif: trap-pit-dug-for-hero, refs: ["Theod SB –:160"], note: "maqit lāmi iṣṣūrī ša iddû [šēta]: the fowler falls into the net he laid"}
+      - {motif: social-inversion-rich-and-poor-change-places, refs: ["Theod SB –:181-187"], note: "mār šarri halip ... mār katî u mērênî labiš ... mār kabti u šarî harūbu u[klassu]"}
+      - {motif: wealth-and-poverty-ordained-of-old, refs: ["Theod SB –:196-198"], note: "šūruk ūmī ilum-ma qayyaš ... šummū ultu ulli mašrû u lapānu"}
+      - {motif: theodicy-dialogue-sufferer-and-friend, refs: ["Theod SB –:177-178", "Theod SB –:200-207"]}
+    hints:
+      - "Fowler caught in his own net: Ps 9:16, Ps 35:8, Ps 57:7, Eccl 9:12. Social inversion: Eccl 10:6-7 (slaves on horses, princes walking), 1Sam 2:5-8, Luke 15:16 (carob pods). The Lord makes poor and rich: 1Sam 2:7, Prov 22:2."
+  - id: ane-theod-6-firstborn-and-demon
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 20-24: the scoundrel will fall; god does not block the demon; firstborn and younger son"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:212-264"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Theod SB –:212-220", "Theod SB –:221-231", "Theod SB –:232-242", "Theod SB –:243-253", "Theod SB –:254-264"], note: "stanza initials ri-, bu/pu-, ša-, i-, li-"}
+      - {motif: violent-beast-and-hoarder-come-to-ruin, refs: ["Theod SB –:235-238"], note: "ša lā ili ishappu raši makkūra / šaggāšu kakkašu ireddīšu"}
+      - {motif: righteous-flourish-like-foliage, refs: ["Theod SB –:236"], note: "inverted: the wicked's prosperity is like harvest verdure that soon disappears"}
+      - {motif: who-reveres-god-has-protector-and-wealth, refs: ["Theod SB –:239-242"], note: "šādid nīr ili lū bahi sadir akalšu"}
+      - {motif: god-does-not-block-the-demon, refs: ["Theod SB –:243-244"], note: "ilu ana šarrabi ul paris alakta"}
+      - {motif: idle-firstborn-and-working-younger-son, refs: ["Theod SB –:245-250"]}
+      - {motif: prosperity-of-the-wicked, refs: ["Theod SB –:251-253"], note: "ina mahar qadmi ša addamuṣu mīnâ uwattar: what profit has my kneeling brought?"}
+      - {motif: sufferer-confesses-rash-speech, refs: ["Theod SB –:255"], note: "friend's charge: ila tadayyaṣ: you slight (blaspheme) the god"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["Theod SB –:256-257", "Theod SB –:264"], note: "libbi ili kīma qereb šamê nesī-ma ... nišū lā lamdā"}
+      - {motif: firstborn-inferior-second-born-superior, refs: ["Theod SB –:258-263"]}
+    hints:
+      - "The wicked wither like grass: Ps 37:1-2, Ps 92:8; Job's friends accuse him of impious words Job 15:4-6; profit of serving God Mal 3:14, Job 21:15. Younger over elder: Gen 25:23, Gen 48:14-19, 1Sam 16:6-12."
+  - id: ane-theod-7-gods-gave-lies
+    tradition: ane-akkadian
+    title: "Babylonian Theodicy, stanzas 25-27: society honours murderers; the gods gave humans lies; final plea"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Theod SB –:265-297"]
+    tags:
+      - {motif: acrostic-poem, refs: ["Theod SB –:265-275", "Theod SB –:276-286", "Theod SB –:287-297"], note: "stanza initials u-, šar-, ri-: '... ša ili u šarri'"}
+      - {motif: society-honours-murderer-crushes-innocent, refs: ["Theod SB –:267-275"], note: "ušašqû amât kabti ša litmudā šagāša / ušappalū dunnamâ ša lā īpušu hibilta"}
+      - {motif: gods-gave-humans-lying-speech, refs: ["Theod SB –:276-280"], note: "Enlil, Ea and Mami: šarkū ana amēlūti etgura dabāba / sarrāti u lā kināti išrukūši santakku"}
+      - {motif: gods-create-humans-and-animals, refs: ["Theod SB –:276-278"], note: "kāriṣ ṭiṭṭīšin: Ea pinched off their clay; Mami fashioned them"}
+      - {motif: human-formed-from-earth, refs: ["Theod SB –:277"]}
+      - {motif: society-honours-murderer-crushes-innocent, refs: ["Theod SB –:281-286"], note: "the poor man maligned as a thief, plotted against, snuffed out like an ember"}
+      - {motif: humble-walk-eyes-on-ground, refs: ["Theod SB –:291-294"], note: "rigmu ul iššapu ... rēšīya ul ulli qaqqara anaṭṭal"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["Theod SB –:295-297"], note: "ilu ša iddânni ... ištar ša ipparkânni ... rēʾû šamši nišī: the Sun, shepherd of the people"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["Theod SB –:297"]}
+    hints:
+      - "They call evil good: Isa 5:20,23, Amos 5:7,12, Hab 1:4; the poor maligned Ps 10:8-10. Gods implanting falsehood: contrast Gen 8:21 (yetser of the heart), 1Kgs 22:22 (lying spirit), Q 91:8 (soul inspired with wickedness and piety). Humble walk Mic 6:8, Ps 131:1."
+  - id: ane-wren-and-eagle
+    tradition: ane-akkadian
+    title: "The Story of the Poor, Forlorn Wren: the wren appeals to Šamaš against the eagle"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Wren SB"]
+    tags:
+      - {motif: animal-fable-with-speech, refs: ["Wren SB –:1-5"], note: "arû ina šadî iqtanan qinna / duqduqqu ina muhhi nīnî iltakna pelâšu"}
+      - {motif: small-bird-appeals-to-sun-god-against-eagle, refs: ["Wren SB –:6-11", "Wren SB –:23-26", "Wren SB –:29-31"], note: "innan(na) šamaš dayyān ki[tti] ... [ukt]assâ kappī[šu]: eagle's wings bound (partly restored)"}
+      - {motif: lofty-humbled-lowly-raised-by-god, refs: ["Wren SB –:38-42"], note: "lā iqabbi arû mā šaqi šadû / lā iqabbi duqduqqu mā šapil nīnû / ša bēl ittīšu qinna iqannan"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Wren SB –:23"]}
+      - {motif: restored-sufferer-proclaims-gods-praise-in-street, refs: ["Wren SB –:33-37"], note: "adapted: the wren calls on the birds of mountain and plain to glorify Šamaš's name"}
+    hints:
+      - "Eagle's lofty nest brought down: Obad 1:4, Jer 49:16; the sparrow finds a nest by God's altar Ps 84:4; God cares for small birds Matt 10:29; lowly exalted Luke 1:52, Ezek 17:24 (high tree brought low, low tree raised)."

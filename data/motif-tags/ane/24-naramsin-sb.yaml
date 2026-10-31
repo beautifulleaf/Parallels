@@ -31,7 +31,6 @@ new_motifs:
   god-becomes-consort-of-underworld-queen-forever: {label: "The high god decrees that the god shall dwell with the underworld queen forever as her husband", cluster: underworld}
   ea-gives-throne-to-take-down: {label: "The wise god gives the descending god a chair (throne) to carry as a gift for the underworld queen", cluster: underworld}
   greetings-to-each-great-god: {label: "A messenger carries greetings of well-being (šulmu) to each of the great gods in turn by name", cluster: underworld}
-  dead-clothed-like-birds-eat-dust: {label: "In the underworld the dead are clothed like birds in garments of feathers, and dust and clay are their food", cluster: underworld}
   underworld-queen-orders-offender-brought-to-die: {label: "The underworld queen orders the god who slighted her envoy brought before her (to die)", cluster: underworld}
   water-and-household-purified-after-sex: {label: "After the union the house and attendants are sprinkled with water to purify them", cluster: underworld}
   god-body-made-of-all-gods: {label: "Hymn in which each limb of one supreme god (face, eyes, ears, lips, neck, arms, feet) is another god, so that he gathers all the gods in himself", cluster: theology}
@@ -44,6 +43,44 @@ new_motifs:
   god-saves-boat-without-skipper: {label: "The god sends a favourable wind to a skipperless ship swept by storm and brings it on its way", cluster: theology}
   god-preserves-remnant: {label: "The god in the midst of destruction leaves a remnant (rēhu) and is asked to preserve a city's seed", cluster: theology}
   learned-scribe-poor-ignorant-clerk-rich: {label: "The learned scholar earns not even chaff while an ordinary accountant set over him earns a mina of gold a day", cluster: wisdom}
+  spring-flood-turns-wasteland-to-pasture: {label: "The spring flood of the rivers and melting snow sweeps down the wadis and turns wasteland into moist pasture", cluster: nature}
+  ox-and-horse-dispute: {label: "Ox and horse dispute their merits: the ox as farmer's beast that ploughs, the horse as noble war-horse of kings that pulls the chariot", cluster: wisdom}
+  blinkered-horse-cannot-see-road: {label: "The horse is mocked as unable to see the track beyond its reins, its eyes staring but seeing nothing", cluster: wisdom}
+  beast-of-burden-with-donkey-carries-panniers: {label: "The ox is mocked as a beast of burden who with the donkey carries panniers and provisions on the road", cluster: wisdom}
+  royal-horse-pampered-in-kings-stable: {label: "The horse boasts that its stable stands before the king, greenery is chosen for it and its flesh is not eaten", cluster: wisdom}
+  weeping-tears-like-water-from-waterskin: {label: "Someone's tears flow like water from a waterskin", cluster: lament}
+  palm-and-vine-dispute: {label: "Date palm and grapevine dispute which is greater: the palm boasts its shade, fruit, beer, timber and rope, the vine its wine for gods and healing", cluster: wisdom}
+  wine-heals-sick-and-revives-dying: {label: "Wine boasts that it heals the feverish, brings back the dying from the netherworld and sweetens the mourner's grief", cluster: wisdom}
+  tree-called-king-of-trees: {label: "A tree claims the title 'king' above all other trees", cluster: wisdom}
+  poor-man-sells-only-garment: {label: "A destitute man sells the one garment he has, having no change of clothes, to buy an animal", cluster: wisdom}
+  gift-to-official-repaid-with-insult: {label: "A poor man brings a gift to a local official, who keeps it and throws him out with a bone and third-rate beer", cluster: justice}
+  threefold-revenge-vowed-and-carried-out: {label: "The wronged man vows to repay one injury threefold and announces each of his three revenges in turn", cluster: justice}
+  trickster-in-disguise-beats-oppressor: {label: "The trickster returns in disguise (royal envoy, physician) and gets the oppressor alone to beat him", cluster: justice}
+  poor-man-petitions-king: {label: "A poor man goes to the king, prostrates himself, and asks a favour, which the king grants without question", cluster: justice}
+  decoy-draws-household-away: {label: "The trickster hires a youth to raise a commotion so that the household chases him and the victim is left alone", cluster: justice}
+  sacred-citizen-blood-not-to-be-shed: {label: "A citizen of the holy city is a protected person (kidinnu) of the god whose blood must not be on one's hands", cluster: justice}
+  kinsmen-angry-if-not-invited-to-feast: {label: "A poor man fears that if he slaughters his one animal his neighbours and kin will be angry at not being fed", cluster: wisdom}
+  humbled-oppressor-crawls: {label: "The beaten oppressor crawls back into town on all fours", cluster: justice}
+  rod-for-backs-of-fools: {label: "The rod (of a tree's wood) flogs the rebel, strengthens the fool and opens the ears of him who will not listen", cluster: wisdom}
+  poplar-and-ash-dispute: {label: "Poplar and ash tree dispute: the poplar boasts of shade, gates, boats and rods; the ash of tools that hold joins and dig canals", cluster: wisdom}
+  worshipper-must-not-pray-to-any-other-god: {label: "The worshippers are told not to turn to any other god nor say a prayer to any other goddess, but to bear one deity's yoke alone", cluster: theology}
+  impious-man-struck-and-shunned: {label: "A man who brought no offering and did not bow to the goddess is struck: his god and goddess abandon him, he is bent double, his city shuns him, hair falls out and his wife seeks another", cluster: theology}
+  refrain-no-one-but-she-can: {label: "Litany refrain 'No one but she can ...' listing the deity's exclusive powers (grant kingship, show mercy, revive the dead, bring back from the grave)", cluster: theology}
+  deity-given-seven-names-by-gods: {label: "The great gods each give a deity a great name in turn, and the Igigi proclaim her seven names", cluster: theology}
+  gods-feast-with-goddess-drink-drink: {label: "The great gods are seated with the goddess at a feast and told 'drink, drink!' so their hearts rejoice", cluster: cult}
+  goddess-blesses-cities-in-list: {label: "The goddess is asked to decree well-being for a list of cities in turn (Uruk, Akkad, Adab, Badtibira, Kish, Ur)", cluster: cult}
+  prayer-day-and-night: {label: "Worshippers are to pray to or remember the deity day and night continually", cluster: cult}
+  lilith-night-demon-at-window: {label: "A female night demon (the owl-demon kilīlu / lilītu) peers into bedrooms and leans through the window to strike a man", cluster: demons}
+  first-person-confession-i-was-that-man: {label: "The narrator of a cautionary tale reveals 'I was that man' who neglected the deity", cluster: theology}
+  dance-of-young-men-and-maidens: {label: "Young men and maidens whirl and dance together in a festival", cluster: cult}
+  wrath-then-mercy: {label: "The deity alone can become angry and then relent, have pity and forgive", cluster: theology}
+  city-as-cosmic-mountain-centre: {label: "The holy city is the bond of heaven and earth and an unscalable mountain that the high god built to dwell in", cluster: city}
+  temple-double-of-heavenly-dwelling: {label: "The goddess's temple is a counterpart of the high god's own dwelling, whose light covers the inhabited world", cluster: temple}
+  four-quarters-bring-tribute-to-temple: {label: "The four quarters of the world together bring their yield to the temple", cluster: temple}
+  gods-assemble-before-goddess-daily: {label: "Every day the gods assemble around the goddess for counsel, receive their portions and kneel at her feet", cluster: theology}
+  hymn-closes-may-song-please-deity: {label: "A hymn ends praying that this song may be pleasing to the deity and never cease before her", cluster: cult}
+  curse-as-inviolable-divine-boundary: {label: "The curse (māmītu) is the gods' inviolable boundary-drawing of heaven and earth, which no god or man may cross or undo", cluster: magic}
+  god-who-is-one-unchangeable: {label: "A deity is called 'the one god' who does not change or cannot be altered", cluster: theology}
 units:
   - id: ane-naramsin-sb-1-prologue-enmerkar
     tradition: ane-akkadian
@@ -139,6 +176,7 @@ units:
       - {motif: king-gives-defensive-counsel-to-successor, refs: ["NaramSin SB –:159-169"], note: "dūrīka tukkil hirâtīka mê mulli ... kakkīka rukus-ma tubqāti emid ... littaggiš mātka ē tuṣīšu"}
       - {motif: submit-to-the-powerful, refs: ["NaramSin SB –:170-171"], note: "lū ašrāta lū sanqāta, annû bēlī apulšunūti"}
       - {motif: repel-evil-with-better, refs: ["NaramSin SB –:172-174"], note: "ana gullultīšunu rīb dumqī, ana dumqī qīšāti u taṣbâti"}
+      - {motif: repay-evil-with-good, refs: ["NaramSin SB –:172-173"]}
       - {motif: reader-who-blesses-will-be-blessed, refs: ["NaramSin SB –:175-180"], note: "šūt yâši taktarba arkû liktarrabka kâša"}
       - {motif: hymn-written-to-preserve-kings-name, refs: ["NaramSin SB –:175-176"], note: "tupšarrū enqūtu lizkurū narâka"}
     hints:
@@ -227,7 +265,7 @@ units:
     tags:
       - {motif: underworld-land-of-no-return, refs: ["NergEresh SB –:c+1-c+3"], note: "restored after Ištar's Descent: [ana bīti ša ēribūšu lā aṣû, ana harrāni ša alaktaš]a lā tayyārat"}
       - {motif: land-of-darkness-and-chaos, refs: ["NergEresh SB –:c+4-c+7"], note: "[z]ummû nūra ... [epru bubūss]ina aka[lš]ina ṭiṭṭu ... ṣubāt akappi ... ina eṭûti ašbā (partly restored)"}
-      - {motif: dead-clothed-like-birds-eat-dust, refs: ["NergEresh SB –:c+5-c+7"], note: "[labšā-ma kīma iṣṣ]ūrī ṣubā[t] akappi; akalšina ṭiṭṭu"}
+      - {motif: dead-eat-dust-and-clay-in-darkness, refs: ["NergEresh SB –:c+5-c+7"], note: "[labšā-ma kīma iṣṣ]ūrī ṣubā[t] akappi; akalšina ṭiṭṭu"}
       - {motif: god-fails-to-rise-before-underworld-envoy, refs: ["NergEresh SB –:c+22-c+31"], note: "Namtar sees Erra at the door and goes pale (iʾʾirqū pānūš); ili ina pānīya itbû ..."}
       - {motif: underworld-queen-orders-offender-brought-to-die, refs: ["NergEresh SB –:c+32-c+39"], note: "Ereškigal: elī-ma tišab ina kussî ... anāku ana šamê ša āni abīya lūlī-ma akal āni ... lūkul; šūrib ana mahrīya"}
       - {motif: seven-gates-of-underworld, refs: ["NergEresh SB –:c+40-c+47"], note: "gates named: bidu, enkišar, endašurimma, enuruʾulla, enurubanda, endukuga, ennugigi"}
@@ -323,7 +361,7 @@ units:
     tags:
       - {motif: god-reverses-fortunes-of-weak-and-strong, refs: ["NinurtaSavior SB –:3-10"], note: "pāšila ina mahar lāsimi tašakkan; ina daʾummati dunnamâ mahrāšu tušetteq"}
       - {motif: race-not-to-swift, refs: ["NinurtaSavior SB –:9-10"], note: "munnarbu ... ša lā-anīhā birkāšu: the weakling outruns him"}
-      - {motif: god-gives-light-in-darkness, refs: ["NinurtaSavior SB –:15-16"], note: "ina qereb ekleti tukallamšu nūra"}
+      - {motif: darkness-turned-to-light, refs: ["NinurtaSavior SB –:15-16"], note: "ina qereb ekleti tukallamšu nūra"}
       - {motif: god-frees-trapped-bird-gazelle-onager, refs: ["NinurtaSavior SB –:21-26"], note: "iṣṣūr ... ša kāmû ikṣuru ... ištu libbi quppi šubarrâšu tašakkan; ṣabīt ... ina gišparri; serrēm ... ṣubbutu mūṣûšu"}
       - {motif: soul-escaped-like-bird-from-snare, refs: ["NinurtaSavior SB –:21-24"]}
       - {motif: god-preserves-remnant, refs: ["NinurtaSavior SB –:20", "NinurtaSavior SB –:31", "NinurtaSavior SB –:53-54"], note: "ša ina naspanti īzibu rēhānī; ālka nippuru ... ezib zērašū-ma lā ihalliqa rēhu"}
@@ -337,3 +375,244 @@ units:
       - "Compare Ps 124:7 (bird escaped from the fowler's snare); Ps 107:23-30 (storm-tossed sailors brought to their haven); Ps 107:35 and Isa 43:19-20 (rivers in the desert)."
       - "Compare John 15:5 / Ps 127:1 ('apart from me you can do nothing'); Isa 1:9 (a small remnant)."
       - "Compare Eccl 9:15-16 and 10:5-7 (the poor wise man forgotten, folly set on high)."
+  - id: ane-oxhorse-sb-1-flood-and-pasture
+    tradition: ane-akkadian
+    title: "Prologue: the spring flood brings pasture; Ox's opening speech (Ox and Horse)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["OxHorse SB –:1-A+38"]
+    tags:
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["OxHorse SB –:A+21-A+25"], note: "alpu u sisû ippušū rūʾūta ... ippuša ṣālūta"}
+      - {motif: spring-flood-turns-wasteland-to-pasture, refs: ["OxHorse SB –:A+9-A+20", "OxHorse SB –:A+27-A+32"], note: "igdapšū mê nagbi ... harra natbāka ušatbalū šaddūʾa ... ašrāt lā mērešti ana ruṭibti ittūrū"}
+      - {motif: deity-hears-prayer-and-pleading, refs: ["OxHorse SB –:A+5-A+7"], note: "šarru ellil ... supî ... išmē-ma: fragmentary; Enlil hears prayers before the flood"}
+      - {motif: ox-and-horse-dispute, refs: ["OxHorse SB –:A+24-A+37"], note: "Ox: sisû lā mār ugāri idarrisa qarbāti"}
+    hints:
+      - "Compare Ps 65:10-14 and 104:10-14 (springs in the valleys, grass for cattle); Job 39:19-25 (the war-horse) and Prov 14:4 (where there are no oxen the crib is clean)."
+  - id: ane-oxhorse-sb-2-exchanges
+    tradition: ane-akkadian
+    title: "The exchanges of Ox and Horse: war, chariot, labour, the king's stable (Ox and Horse)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["OxHorse SB –:D+1-G+6"]
+    tags:
+      - {motif: ox-and-horse-dispute, refs: ["OxHorse SB –:A+5'-A+6'", "OxHorse SB –:A+8'-A+18'", "OxHorse SB –:A+27'-A+30'"], note: "Horse: ela yâti ... šarru šakkanakku ēnu u rubû ul ibaʾʾū padāna; Ox: kal narkabti šugmurāku ... ina maškīya ... ina gīdātīya; Horse: imrûka tuhhu qaqqaru rubuṣka"}
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["OxHorse SB –:D+9", "OxHorse SB –:B+13"]}
+      - {motif: blinkered-horse-cannot-see-road, refs: ["OxHorse SB –:A+16'-A+18'"], note: "ul tammar kibsa ... balṣā-ma īnāka ul ippalsā"}
+      - {motif: beast-of-burden-with-donkey-carries-panniers, refs: ["OxHorse SB –:B+11-B+12"], note: "attā u agālu tazabbilā tupšikka"}
+      - {motif: royal-horse-pampered-in-kings-stable, refs: ["OxHorse SB –:C+10-C+16"], note: "ina mahar šarri māliki nadi urûʾa ... ul innakkal šīrī 'my flesh is not eaten'"}
+      - {motif: weeping-tears-like-water-from-waterskin, refs: ["OxHorse SB –:B+9"], note: "išahhuh dimtašu kīma mê nādi"}
+    hints:
+      - "Compare the horse not to be multiplied by the king, Deut 17:16; 'some trust in chariots and some in horses', Ps 20:8; Q 16:8 (horses, mules and donkeys to ride and as adornment)."
+      - "Compare the ox that treads the grain unmuzzled, Deut 25:4."
+  - id: ane-palmvine-sb-1-dispute
+    tradition: ane-akkadian
+    title: "Palm's boast and Vine's reply (Palm and Vine)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["PalmVine SB –:1'-54'"]
+    tags:
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["PalmVine SB –:27'-32'"], note: "ina minî tuštamṣâni tašannan ittīya; muṣṣālu muṭappilu"}
+      - {motif: palm-and-vine-dispute, refs: ["PalmVine SB –:2'-26'", "PalmVine SB –:33'-50'"]}
+      - {motif: date-palm-every-part-useful, refs: ["PalmVine SB –:9'-25'"], note: "fruit, beer (kurunnu), boats, weaving tools, rope, fishing net, fowler's snare, beams, doors of the gods' gate"}
+      - {motif: king-as-great-tree-and-shade, refs: ["PalmVine SB –:5'-8'"], note: "ina ṣillīya ṭābi immid lulimmu ... ušapšah anhūssu: shepherd, cows and army rest beneath"}
+      - {motif: tree-called-king-of-trees, refs: ["PalmVine SB –:26'"], note: "šurbâkū-ma eli kal iṣṣī nibīt šumīya šarra"}
+      - {motif: purifying-trees-and-plants-invoked, refs: ["PalmVine SB –:11'-12'"], note: "ina balīya āšipu ul inaddi šipta ... gimir šuluhhi"}
+      - {motif: wine-gladdens-gods-and-men, refs: ["PalmVine SB –:33'-40'"], note: "ina qê šašši ina paššūr ilī ... ullaṣ kabattašu ušnabbaṭ zīmīšu ... irašši rēma"}
+      - {motif: wine-heals-sick-and-revives-dying, refs: ["PalmVine SB –:41'-48'"], note: "uballaṭ marṣa ... utār-ma ultu arallê šibṭa namtara ... ina erši namtarīšu agammil napšassu"}
+    hints:
+      - "Compare Jotham's fable of the trees choosing a king, Judg 9:8-15 (olive, fig, vine: 'my wine that cheers God and men')."
+      - "Compare Ps 104:15 (wine gladdens the heart), Prov 31:6-7 (give wine to the bitter of soul), and the palm in Ps 92:13."
+  - id: ane-poorman-sb-1-goat-and-mayor
+    tradition: ane-akkadian
+    title: "Gimil-Ninurta's poverty, his goat and the mayor's insult (Poor Man of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["PoorMan SB –:1-69"]
+    tags:
+      - {motif: poor-man-always-lacks-something, refs: ["PoorMan SB –:1-10"], note: "katû u lapnu ... ul īši kaspa ... ūmišam ina lā mākālê bīriš iṣallal"}
+      - {motif: poor-man-sells-only-garment, refs: ["PoorMan SB –:10-15"], note: "išhuṭ-ma ša lā tēnî ṣubātīšu ... šulušīta išamma enza"}
+      - {motif: kinsmen-angry-if-not-invited-to-feast, refs: ["PoorMan SB –:16-22"], note: "išemmû-ma šīʾ bābīya išabbusū, kimtu u salātu izennû ittīya"}
+      - {motif: gift-to-official-repaid-with-insult, refs: ["PoorMan SB –:23-63"], note: "kī šulmāni kadrê ubilka enza ... idinšum-ma eṣemta u gīda, šiqīšū-ma ... šikra šalulta, ṭurrissū-ma"}
+      - {motif: kid-in-right-hand-bribe-in-left, refs: ["PoorMan SB –:35-36"], note: "ina šumēlīšu itmuha kišād enzīšu, ulli imittašu ikarraba hazanna"}
+      - {motif: messenger-repeats-message-verbatim, refs: ["PoorMan SB –:41-51"]}
+      - {motif: threefold-revenge-vowed-and-carried-out, refs: ["PoorMan SB –:64-69"], note: "aššu ištēt bilti ša tēmidanni ša ištēn šalāš rībēti arâbka; laputtû ... kal ūmi iṣīh"}
+    hints:
+      - "Compare Nabal's insult of David's men, 1 Sam 25:10-11, and the rich man's feast in Nathan's parable, 2 Sam 12:1-4."
+      - "Compare the law that a poor man's garment taken in pledge be returned before night, Exod 22:25-26; Deut 24:12-13."
+  - id: ane-poorman-sb-2-chariot-and-gold-box
+    tradition: ane-akkadian
+    title: "The borrowed chariot, the box of birds and the first revenge (Poor Man of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["PoorMan SB –:70-114"]
+    tags:
+      - {motif: king-establishes-justice-crushes-evildoers, refs: ["PoorMan SB –:70-71"], note: "ina ṭēmi šarri rubû u šakkanaku iparrasū dīn kitti"}
+      - {motif: poor-man-petitions-king, refs: ["PoorMan SB –:72-84"], note: "uškēn-ma iššiq qaqqara ... ištēt narkabta ... ul išālšu malku"}
+      - {motif: trickster-in-disguise-beats-oppressor, refs: ["PoorMan SB –:85-106"], note: "posing as the king's envoy with gold for Ekur: šitta iṣṣūrātī ... ana quppim ... iṣṣurātu ittaprašā šamāmī ... tabil hurāṣu ... ultu qaqqadīšu adi kibis šēpīšu ... urassiba"}
+      - {motif: rend-garments-grief, refs: ["PoorMan SB –:100"], note: "feigned: ina nissat libbīšu ušarraṭa lubūšīšu"}
+      - {motif: sacred-citizen-blood-not-to-be-shed, refs: ["PoorMan SB –:104-106"], note: "dām kidinni ikkib enlil qātīka lā talappat"}
+      - {motif: threefold-revenge-vowed-and-carried-out, refs: ["PoorMan SB –:107-114"], note: "šitta manā ruššâ hurāṣa ... ištēn arībakkum-ma rīhā šitta"}
+    hints:
+      - "Compare the clever-trickster tales of Jacob and Laban (Gen 30-31) and Ehud alone with Eglon (Judg 3:15-26); and Mordecai paraded in royal honour, Esth 6:7-11."
+  - id: ane-poorman-sb-3-physician-and-decoy
+    tradition: ane-akkadian
+    title: "The false physician and the decoy: second and third revenge (Poor Man of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["PoorMan SB –:115-160"]
+    tags:
+      - {motif: trickster-in-disguise-beats-oppressor, refs: ["PoorMan SB –:115-134b"], note: "ugallib-ma kal pērtīšu ... asû ilitti išinni ... ina eklēti išallimū bulṭūʾa ... hamiš sikkāti ... upakkiršu"}
+      - {motif: decoy-draws-household-away, refs: ["PoorMan SB –:140-153"], note: "šisīta šukun ... anāku ša enzi; ina šapal titurri irtibiṣ kīma kalbi"}
+      - {motif: threefold-revenge-vowed-and-carried-out, refs: ["PoorMan SB –:135-139", "PoorMan SB –:154-158"], note: "šalāšīšu rībēti arībka (restored)"}
+      - {motif: humbled-oppressor-crawls, refs: ["PoorMan SB –:159-160"], note: "hazannu pašālatti īterub ana āli 'on all fours'"}
+    hints:
+      - "Compare the reversal of the proud and lifting of the poor, 1 Sam 2:7-8; Ps 113:7; Luke 1:52; and Haman's fall, Esth 7."
+  - id: ane-poplar-sb-1-dispute
+    tradition: ane-akkadian
+    title: "Poplar and Ash dispute (Series of the Poplar)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Poplar SB –:a+1-d+25"]
+    tags:
+      - {motif: debate-poem-two-rivals-dispute-precedence, refs: ["Poplar SB –:a+3-a+4", "Poplar SB –:c+32-c+33", "Poplar SB –:d+14-d+15"], note: "martû u ṣarbatu; ītallal ṣarbatu; aggiš martû ... šitnunta ippuša"}
+      - {motif: poplar-and-ash-dispute, refs: ["Poplar SB –:c+6-c+31", "Poplar SB –:c+33-c+40", "Poplar SB –:d+9-d+24"]}
+      - {motif: rod-for-backs-of-fools, refs: ["Poplar SB –:c+12-c+14"], note: "ina haṭṭīya ša lā māgiri inattû zumuršu, uqarrad lilla ... ša lā šēmî ša amāti upattâ uznīšu"}
+      - {motif: king-as-great-tree-and-shade, refs: ["Poplar SB –:c+16", "Poplar SB –:d+12"], note: "eli kabti u muškēni šakin ṣulūlu; Ash retorts ul šaru ṣillaka"}
+      - {motif: tamarisk-wood-is-the-body-of-the-gods, refs: ["Poplar SB –:d+16"], note: "kīma bīni ... ul šīr ilūti"}
+      - {motif: tree-called-king-of-trees, refs: ["Poplar SB –:d+17"], note: "gišimmari šar iṣṣī"}
+      - {motif: god-reverses-fortunes-of-weak-and-strong, refs: ["Poplar SB –:c+28-c+29"], note: "ina mīli gapši māhira ul īšu, uballaṭ lā lēʾâ ušezzeb enša: the boat saves the feeble in the flood"}
+    hints:
+      - "Compare Prov 10:13; 26:3 (a rod for the back of fools) and 13:24; 22:15."
+      - "Compare Jotham's fable, Judg 9:8-15, and the trees of Ezek 31:3-9."
+  - id: ane-queennippur-sb-1-exhortation
+    tradition: ane-akkadian
+    title: "Exhortation to worship the Queen of Nippur alone (Hymn to the Queen of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["QueenNippur SB –:1-A+13"]
+    tags:
+      - {motif: worshipper-must-not-pray-to-any-other-god, refs: ["QueenNippur SB –:10-13"], note: "ē tashurā ana ili mamman, ē tazzakrā teslīta ana šanītim-ma ilti ... tubbalā nīrša"}
+      - {motif: messenger-kisses-ground-before-lord, refs: ["QueenNippur SB –:15-16"], note: "pitlahā izizzā ... tanaššiqā qaqqara"}
+      - {motif: prayer-day-and-night, refs: ["QueenNippur SB –:9"], note: "tēmīqiš imma u mūša (partly restored)"}
+    hints:
+      - "Compare the first commandment, Exod 20:3; 34:14; Deut 6:13-15; and Q 112:1-4; 17:22; 'take my yoke upon you', Matt 11:29 and Jer 2:20 (broke the yoke)."
+      - "Compare 'meditate on it day and night', Josh 1:8; Ps 1:2."
+  - id: ane-queennippur-sb-2-impious-man
+    tradition: ane-akkadian
+    title: "The man who did not bow to Ištar is struck down (Hymn to the Queen of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["QueenNippur SB –:B+1-B+34"]
+    tags:
+      - {motif: impious-man-struck-and-shunned, refs: ["QueenNippur SB –:B+6-B+17", "QueenNippur SB –:B+25-B+26"], note: "mutum-ma lā imūnu telīta ... lā ekpû ana inninna ... ilšu ištaršu inaddīšu ... šīha lānšu gammalā-ma ... ālšu suhhuršu ... pērtum-ma siqrašu lā ušbū; [ul] īde bāšata šanâm-ma (wife seeks another, restored)"}
+      - {motif: catalogue-of-neglect-of-gods, refs: ["QueenNippur SB –:B+6-B+7", "QueenNippur SB –:B+17"]}
+      - {motif: lilith-night-demon-at-window, refs: ["QueenNippur SB –:B+18-B+23"], note: "kilīli hāʾiṭat qereb uršāti lemniš aptiš ušīr ... barīrīta rābiṣuš išakkan-ma ušanna ṭēmāšu"}
+      - {motif: first-person-confession-i-was-that-man, refs: ["QueenNippur SB –:B+7"], note: "[mutum-m]a anāku lā ekpû ana inninna: the speaker confesses he was the man"}
+      - {motif: dance-of-young-men-and-maidens, refs: ["QueenNippur SB –:B+3"], note: "eṭlu u ardatu isurrū immellū (partly restored)"}
+    hints:
+      - "Compare the sufferer forsaken by friends and kin, Job 19:13-20 and Ps 38:12; 88:9; and Nebuchadnezzar's hair and nails, Dan 4:30."
+      - "Compare Lilith in Isa 34:14 and death that climbs through windows, Jer 9:20."
+  - id: ane-queennippur-sb-3-no-one-but-she
+    tradition: ane-akkadian
+    title: "Litany: no one but she can (Hymn to the Queen of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["QueenNippur SB –:C+1-C+35"]
+    tags:
+      - {motif: refrain-no-one-but-she-can, refs: ["QueenNippur SB –:C+1-C+35"], note: "mamman ul ileʾʾi, alternating with: ṣerret šamāmī, nadān šarrūti, agāga târa, enēna rêma rummâ, ašar uzzi nashura, ina qaqqar pušqi qāta ṣabāta"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["QueenNippur SB –:C+28-C+32"], note: "innanu qabri pālihša turra, bulluṭ mīti ... balāṭa arka ana šēmîša nadāna"}
+      - {motif: god-who-revives-the-dead, refs: ["QueenNippur SB –:C+30"], note: "bulluṭ mīti"}
+      - {motif: wrath-then-mercy, refs: ["QueenNippur SB –:C+20-C+24"], note: "agāga târa nakruṭa ... enēna rêma rummâ"}
+    hints:
+      - "Compare 1 Sam 2:6 and Deut 32:39 ('I kill and I make alive'); Q 2:258 and 3:26-27 (giver of kingship, bringer of the living from the dead)."
+      - "Compare Exod 34:6-7 (merciful, slow to anger) and Ps 30:6 (his anger is but a moment)."
+  - id: ane-queennippur-sb-4-names
+    tradition: ane-akkadian
+    title: "Ištar's sovereignty and her great names (Hymn to the Queen of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["QueenNippur SB –:C+36-C+92"]
+    tags:
+      - {motif: god-bears-all-divine-powers-of-other-gods, refs: ["QueenNippur SB –:C+36-C+43"], note: "uštagmir kullat mimma šumšu, mēsī-mā-mi uštaqti u kalāma ihmum; ayyu uštēṣi ittaša ilum-ma ... malaša imṣi"}
+      - {motif: deity-given-seven-names-by-gods, refs: ["QueenNippur SB –:C+52-C+72"], note: "first name by Anu: ninanna šarrat šamāmī; second by Duranki: neanna; third by Ea: zannaru; fourth ..."}
+      - {motif: inana-titled-lady-of-heaven, refs: ["QueenNippur SB –:C+55"], note: "ninanna šarrat šamāmī"}
+      - {motif: queen-of-heaven-cult, refs: ["QueenNippur SB –:C+55-C+56"], note: "šarrat šamāmī, bēlet dadmē rāʾimat nišī talīmat šamši"}
+      - {motif: goddess-reverses-gender-roles, refs: ["QueenNippur SB –:C+70", "QueenNippur SB –:C+78"], note: "[muterr]et zikri ana sinniš u sinništi ana zikri; [si]nnišat mutat"}
+      - {motif: goddess-both-woman-and-young-man, refs: ["QueenNippur SB –:C+78"]}
+      - {motif: refrain-who-is-like-you-o-king, refs: ["QueenNippur SB –:C+39-C+40"], note: "of the goddess: [iltu ayy]ītu malaša imṣi"}
+    hints:
+      - "Compare the Queen of Heaven in Jer 7:18; 44:17-19, 25."
+      - "Compare 'who is like you among the gods', Exod 15:11; and the bestowal of names, Phil 2:9."
+  - id: ane-queennippur-sb-5-nippur-and-assembly
+    tradition: ane-akkadian
+    title: "Nippur, the Ebaradurgara and the goddess presiding over the gods (Hymn to the Queen of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["QueenNippur SB –:D+1-D+55"]
+    tags:
+      - {motif: goddess-holds-bond-of-heaven-and-earth, refs: ["QueenNippur SB –:D+1"], note: "of Nippur: markas šamê u erṣeti rikis kibrāti"}
+      - {motif: city-as-cosmic-mountain-centre, refs: ["QueenNippur SB –:D+1-D+4"], note: "idu hursāni lā aʾāri ... īpuš-ma enlil ramānuš ašābu"}
+      - {motif: temple-double-of-heavenly-dwelling, refs: ["QueenNippur SB –:D+5-D+11"], note: "bītu lū atmanu ša kīma šubtīšu ... šānin ēkur; šunbuṭ nūršu kātim gimir dadmē"}
+      - {motif: four-quarters-bring-tribute-to-temple, refs: ["QueenNippur SB –:D+15"], note: "kibrātu mithāriš našâšu hiṣba"}
+      - {motif: gods-assemble-before-goddess-daily, refs: ["QueenNippur SB –:D+16-D+24"], note: "ūmišam ipahhurūši ilū anunnakkū malākiš milka ... kamsāši kullassin ištarat nišī"}
+      - {motif: deity-given-seven-names-by-gods, refs: ["QueenNippur SB –:D+40"], note: "issûni yammina šumīša igīgū"}
+      - {motif: hymn-closes-may-song-please-deity, refs: ["QueenNippur SB –:D+41-D+50"], note: "liṭīb elki annâ-ma zamāra ištar ... šimî-ma bēltu kabattuk lihdi"}
+    hints:
+      - "Compare Zion as God's chosen dwelling and the joy of all the earth, Ps 48:2-3; 132:13-14; the nations streaming to it, Isa 2:2-3; and Ps 104:34 ('may my meditation be pleasing to him')."
+  - id: ane-queennippur-sb-6-feast-and-cities
+    tradition: ane-akkadian
+    title: "Feast with the great gods and blessings on the cities (Hymn to the Queen of Nippur)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian
+    read: ["QueenNippur SB –:E+1-E+38"]
+    tags:
+      - {motif: gods-feast-with-goddess-drink-drink, refs: ["QueenNippur SB –:E+4-E+16"], note: "karāna ṭāba šikar šadî ... ānu enlil u ea līšibū ittīki ... liptiqū kurunna šitâ šitâ-ma ... līliṣ libbakunū-ma"}
+      - {motif: gods-banquet-and-decree-fates, refs: ["QueenNippur SB –:E+17-E+20"], note: "enu itti āni enlil u ea šīmāti tašimmī"}
+      - {motif: goddess-blesses-cities-in-list, refs: ["QueenNippur SB –:E+21-E+32"], note: "ša uruk qibî šulumšu, ša akkade qibî dumqīšu, adab, badtibira, kiš, hursagkalama, līteddiš uri"}
+      - {motif: hymn-written-to-preserve-kings-name, refs: ["QueenNippur SB –:E+38"], note: "zikir šumīšu ... dāriš; context broken"}
+    hints:
+      - "Compare the meal before God on the mountain, Exod 24:11, and the feast for all peoples on Zion, Isa 25:6."
+  - id: ane-sagba-sb-1-curse-incantation
+    tradition: ane-akkadian
+    title: "Incantation: the curse, the inviolable drawing of the gods (Saĝba, bilingual)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Sumerian-Akkadian bilingual)
+    read: ["Sagba SB I:1-25"]
+    tags:
+      - {motif: curse-as-inviolable-divine-boundary, refs: ["Sagba SB I:1-10"], note: "māmīt māmīt uṣurtu ša lā etēqi, uṣurti ilī ša lā nabalkuti, uṣurāt šamê u erṣeti ša lā uttakkaru ... ilu u amēlu lā ipaššarū"}
+      - {motif: holy-mountain-bounded-touching-is-death, refs: ["Sagba SB I:2-4"], note: "boundary 'not to be crossed'; parallel only in the idea of an uncrossable line"}
+      - {motif: net-from-which-none-escapes, refs: ["Sagba SB I:11-14", "Sagba SB I:25"], note: "gišparru lā etēqi ... sapāru lā aṣê ša ana lemni tarṣu; ĝiš-par3 of Enki"}
+      - {motif: catalogue-of-demons-to-be-expelled, refs: ["Sagba SB I:15-22"], note: "utukku, alû, eṭemmu, gallû, ilu lemnu, rābiṣu, lamaštu, labāṣu, ahhāzu, lilû, lilītu, ardat lilî, namtaru, asakku, murṣu"}
+      - {motif: lilu-lilitu-ardat-lili, refs: ["Sagba SB I:19-20"]}
+      - {motif: god-who-is-one-unchangeable, refs: ["Sagba SB I:7-8"], note: "ilu ištânu lā ušpellu: 'the one god (who) cannot be changed'; Sumerian diĝir diš-am3 šu nu-bal-e"}
+    hints:
+      - "Compare the curse that enters the house and consumes it, Zech 5:3-4; Num 5:21-27 (oath-curse); and Lilith, Isa 34:14."
+      - "Compare 'I YHWH do not change', Mal 3:6; Num 23:19."

@@ -165,6 +165,47 @@ new_motifs:
   earth-receives-my-sin: {label: "'Rise up, morning, wash my hands; open up, earth, and receive my sin'", cluster: magic}
   cleansed-by-the-rising-sun: {label: "At dawn the doors open and the traveller sets out; the speaker is cleansed by the rising of the sun and the night's sorcery turns back on the witch", cluster: magic}
   bad-dream-made-favourable: {label: "Prayer at dawn: may the dream I dreamt be made favourable, may a good beginning begin for me, may I attain whatever I seek", cluster: divination}
+  sufferer-awaits-the-sunrise: {label: "The sufferer waits through the night for the sun god: 'until you rose I was awaiting you, my head raised in expectation'; at dawn the god releases the witchcraft", cluster: prayer}
+  witchcraft-downstream-i-upstream: {label: "May the witch's witchcraft go downstream, but may I go upstream", cluster: magic}
+  daughter-of-sun-god-as-releaser: {label: "The speaker sends the plant of release to the sun god's daughter, his releaser, to unknot the hand that bound a knot", cluster: magic}
+  witch-crossing-river-struck-by-ea: {label: "When the witch crossed the river and sat in the ferry, the sages of the apsû saw her, Ea darkened her face and struck her with epilepsy and trembling, and River cast her own fear upon her", cluster: magic}
+  speaker-removes-witchcraft-from-witchs-insides: {label: "The speaker strikes the witch's stomach, lungs and innards and pulls her witchcraft and spittle up out of her body", cluster: magic}
+  witch-denied-netherworld-corpse-to-birds-and-dogs: {label: "Curse: may Ereškigal not let the witch go down to the netherworld; may eagle and vulture prey on her corpse and dog and bitch tear her flesh", cluster: curse}
+  witch-catalogue-of-assaults-on-senses: {label: "The witch seizes the forehead, makes the eyes turn, blocks hearing, shuts the ears, wrongs young men and assaults young women", cluster: magic}
+  address-to-own-reflection-you-are-mine: {label: "The speaker addresses his own reflection, vigour, vitality and virility: do not accept witchcraft or murder; 'you are mine and I am yours'", cluster: magic}
+  ritual-tablet-keyed-to-incantations: {label: "A ritual tablet lists the incantations of a series by their opening words, each with the ritual act or material prescribed for it", cluster: magic}
+  mouth-washing-of-patient: {label: "The patient undergoes the ritual of washing the mouth (mīs pî) and treads on tamarisk before the rite", cluster: magic}
+  tallow-figurine-with-salt-in-mouth-melted: {label: "A tallow figurine with salt in its mouth is set on a burning torch so that it drips away over a bowl", cluster: magic}
+  magic-circle-drawn-with-flour: {label: "A protective circle (zisurrû) is drawn with flour or gypsum around the burning vessel, the bed or the gates", cluster: magic}
+  knots-tied-in-wool-and-undone: {label: "Three or seven knots are tied in a band of white wool and then undone and cast into the fire", cluster: magic}
+  fire-extinguished-and-remains-thrown-out-gate: {label: "The burning is quenched with water and the remains with the burning vessel are carried out through the gate and thrown away", cluster: magic}
+  doorposts-and-bolt-smeared-for-protection: {label: "The patient smears the door, bolt and doorposts with a protective mixture (flour and beer) at night", cluster: magic}
+  witch-figurines-in-bread-given-to-dogs: {label: "Dough figurines of the warlock and witch are put inside loaves, raised in the right and left hands and given to a male and a female dog", cluster: magic}
+  patient-looks-at-reflection-in-water: {label: "The patient looks at his face reflected in a bowl of water, which is then sprinkled toward sunrise", cluster: magic}
+  witch-figurine-struck-with-stick-in-washbasin: {label: "Clay figurines of the witch are set on flour drawings in a washbasin; the patient washes his hands over them and strikes them three times with a cornel stick", cluster: magic}
+  exorcist-speaks-as-the-god-i-am: {label: "The exorcist speaks in the god's own person in a long litany of 'I am Asalluḫi' predications, before which the demons flee and hide", cluster: magic}
+  demons-hide-at-gods-name: {label: "At the mention of the god's name the devils, Namtar-demons and Anunnaki go into hiding or vanish", cluster: magic}
+  god-takes-hand-of-the-fallen: {label: "The god saves the defeated, takes the hand of the fallen, the weak and the fettered, and protects the poor", cluster: divine-attributes}
+  god-releases-guilt-and-changes-evil-fate: {label: "The god transposes evil destinies, releases guilt (mupaṭṭir arni) and keeps sins and transgressions at bay", cluster: sin}
+  god-purges-righteous-and-wicked-in-river: {label: "The god purges (sorts) the righteous and the wicked in the river (ordeal)", cluster: justice}
+  demon-catalogue-of-animal-behaviours-at-sickbed: {label: "Catalogue of demons that stand, sit and walk by the invalid's bed, eat and drink with him, and butt like an ox, roar like a lion, slither like a snake, bleat like a kid before him", cluster: demons}
+  restless-dead-catalogue: {label: "Catalogue of restless dead: those with no guardian on the steppe, killed in battle or by the dagger, impaled, those with no father, mother, kin, son or heir to pour water", cluster: underworld}
+  demons-handed-to-netherworld-gatekeepers: {label: "The demons are handed to the gate of the Land of No Return, to the seven gatekeepers of Ereškigal, to Namtar and to the chief gatekeeper, who shuts the gate on them", cluster: underworld}
+  exorcised-by-heaven-and-earth-and-primeval-gods: {label: "The demons are exorcised by heaven and earth and by the primeval divine pairs (Anu and Antu, Enlil and Ninlil, Duri and Dari, Laḫmu and Laḫamu) and by everyday things (incense, shadow, daylight, path, seat)", cluster: magic}
+  other-gods-are-names-of-one-god: {label: "Syncretistic litany: each great god (Anšar, Dagan, Adad, Nannar, Šamaš, Erra, Ningirsu) is declared to be a name or aspect of the one supreme god: 'your name is X ... your name is indeed Marduk'", cluster: divine-attributes}
+  god-sees-world-as-small-as-a-wedge: {label: "The god's sight is so far-reaching that the whole world is to him no bigger than the impression of a cuneiform wedge", cluster: divine-attributes}
+  creator-without-whom-nothing-was-formed: {label: "The god is creator of everything, without whom nothing whatsoever was formed and no lord could exist", cluster: creation}
+  god-holds-cosmic-rope: {label: "The supreme god alone holds the rope (ṣerretu) or bond of heaven and earth, his sceptre laid across the netherworld", cluster: cosmology}
+  storm-god-voice-shakes-heaven-and-earth: {label: "At the storm god's roar from the clouds heaven and earth shake, mountains quake and the seas are stirred up", cluster: theophany}
+  doubled-litany-lord-then-name: {label: "Prayer in which every couplet is sung twice, first to 'O Lord' and then to the god by name ('O Nabû')", cluster: prayer}
+  gods-anger-dragon-yoke-raging-beast: {label: "The god's anger is a dragon, his yoke a raging beast, his pitilessness a conflagration, his scowl a dark cloud — yet he heaps up plenty", cluster: divine-attributes}
+  only-the-god-can-absolve: {label: "Without the god's consent no forgiveness can occur; unless by him no iniquity or crime can be absolved", cluster: sin}
+  sufferer-bellows-like-slaughtered-bull: {label: "The sufferer bellows like a bull slaughtered with the butcher's knife and is cast into the maw of a terrible power", cluster: lament}
+  sufferers-symptoms-lice-and-exudation: {label: "The sufferer's body putrefies, his manhood fades, lice torment him, discharge covers his brow, his mind wanders and he craves death", cluster: lament}
+  dream-spirit-brings-message: {label: "In the night a dream spirit (zāqīqu) appears to the sufferer with a message announcing his recovery", cluster: revelation}
+  bitter-dates-later-sweet: {label: "Proverbial consolation: early dates are bitter but later sweet; grain struck by smut in budding still gives full yield at maturity", cluster: wisdom}
+  leave-a-vent-to-breathe: {label: "Plea: if you discipline your servant, leave him a vent to breathe through; turn your face toward him", cluster: prayer}
+  restored-sufferer-regains-fields-and-prebends: {label: "Prayer that the restored servant regain his fields, prebend shares and sanctuary, build his storehouse and chapel", cluster: prayer}
 units:
   # ================= Maqlû Tablet I =================
   - id: ane-maqlu-sb-i-gods-of-night
@@ -1517,3 +1558,505 @@ units:
       - {motif: ritual-washing-transfers-all-evils, refs: ["Maqlu SB VII:170-173"], note: "hurhummat mê mīli rašubbat nāri"}
       - {motif: impossibility-analogy-chaff-cannot-be-twined, refs: ["Maqlu SB VII:174-177"], note: "as sorcery cannot approach these waters, so it shall not approach me"}
       - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Maqlu SB VII:178"], note: "catchline: adi tappuha uqâka bēlī šamaš"}
+  # ================= Maqlû Tablet VIII =================
+  - id: ane-maqlu-sb-viii-until-you-rose
+    tradition: ane-akkadian
+    title: "Maqlû VIII 1-16: 'Until you rose, I was awaiting you, my lord, Šamaš' — her witchcraft downstream, I upstream"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:1-16"]
+    tags:
+      - {motif: sufferer-awaits-the-sunrise, refs: ["Maqlu SB VIII:1-3"], note: "adi tappuha [uq]âka bēlī šamaš; [ša]qâ rēšāya"}
+      - {motif: victim-prays-to-sun-god-as-just-judge, refs: ["Maqlu SB VIII:7"]}
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB VIII:6"], note: "the herbs of the kulmašītu"}
+      - {motif: purifying-trees-and-plants-invoked, refs: ["Maqlu SB VIII:10-12"], note: "water of the deep, soapwort on the Tigris bank, grass of the canal bank"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VIII:13-14"]}
+      - {motif: witchcraft-downstream-i-upstream, refs: ["Maqlu SB VIII:15-16"]}
+    hints:
+      - "Compare Ps 130:6 (my soul waits for the Lord more than watchmen for the morning) and Ps 5:4 (in the morning I prepare and watch)."
+  - id: ane-maqlu-sb-viii-samas-has-risen
+    tradition: ane-akkadian
+    title: "Maqlû VIII 17-27: 'Šamaš has risen' — the plant of release sent to Šamaš's daughter; unknot the hand that bound"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:17-27"]
+    tags:
+      - {motif: sufferer-awaits-the-sunrise, refs: ["Maqlu SB VIII:17-19"], note: "partly restored"}
+      - {motif: daughter-of-sun-god-as-releaser, refs: ["Maqlu SB VIII:20-21"], note: "mārti šamaš pāširtīya"}
+      - {motif: women-blowing-on-knots, refs: ["Maqlu SB VIII:23", "Maqlu SB VIII:25"], note: "ritta ša irkusu riksa: the hand that bound a knot"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["Maqlu SB VIII:24-27"]}
+    hints:
+      - "Compare Q 113:4 (the women blowing on knots) and Isa 58:6 (to loose the bonds of wickedness)."
+  - id: ane-maqlu-sb-viii-witch-crossed-the-river
+    tradition: ane-akkadian
+    title: "Maqlû VIII 28-45: 'When the witch crossed the river' — Ea darkens her face; hands washed over her figurines"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:28-45a"]
+    tags:
+      - {motif: witch-crossing-river-struck-by-ea, refs: ["Maqlu SB VIII:28-38"], note: "partly restored [und]u kaššāptu ī[bir nāra]; [i]d puluhtaša iddâ elīša"}
+      - {motif: river-ordeal-clears-the-just, refs: ["Maqlu SB VIII:38"], note: "interpretive: the divine River (Id) turns the witch's terror on her"}
+      - {motif: seven-spirits-of-wisdom, refs: ["Maqlu SB VIII:33-34"], note: "apkallū ša apsî"}
+      - {motif: faces-whitened-and-blackened, refs: ["Maqlu SB VIII:35"], note: "uṭṭâ pānīša: darkened her face"}
+      - {motif: ritual-washing-transfers-all-evils, refs: ["Maqlu SB VIII:39-42"], note: "ana muhhi ṣalmīša mesâ qātāya"}
+      - {motif: catalogue-of-kinds-of-witchcraft, refs: ["Maqlu SB VIII:43"], note: "may her witchcraft fill the steppe (cf. I:35)"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VIII:44-45"]}
+    hints:
+      - "Compare Num 5:11-31 (the ordeal of bitter water) and Exod 15:16 (terror and dread fall on them) for VIII:36-38."
+  - id: ane-maqlu-sb-viii-after-uru-called
+    tradition: ane-akkadian
+    title: "Maqlû VIII 46-53: 'After Uru called out the alāla in the land' — her witchcraft be wind and chaff"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:46-53"]
+    tags:
+      - {motif: historiola-before-the-tamarisk-was-cut, refs: ["Maqlu SB VIII:46-49"], note: "here 'after' (ultu), answering 'before' (lām) of VI:45-46"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["Maqlu SB VIII:52"]}
+      - {motif: wicked-as-chaff, refs: ["Maqlu SB VIII:53"]}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VIII:53"], note: "may it fly back at her"}
+  - id: ane-maqlu-sb-viii-now-this-one-fragment
+    tradition: ane-akkadian
+    title: "Maqlû VIII 54-A+25: 'Now, then, this one: the witch is hostile to me' — removing the witchcraft from her insides (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:54-A+25"]
+    tags:
+      - {motif: adversary-catalogue-male-and-female, refs: ["Maqlu SB VIII:55-56"], note: "lines 57-63 and A+9 to A+19 largely broken"}
+      - {motif: speaker-removes-witchcraft-from-witchs-insides, refs: ["Maqlu SB VIII:A+1", "Maqlu SB VIII:A+2", "Maqlu SB VIII:A+3", "Maqlu SB VIII:A+4"]}
+      - {motif: same-demon-sent-back-on-sender, refs: ["Maqlu SB VIII:A+5", "Maqlu SB VIII:A+6"], note: "a ghost strikes her, a gallû carries off her strength"}
+      - {motif: plot-returns-on-plotters-head, refs: ["Maqlu SB VIII:A+20", "Maqlu SB VIII:A+21", "Maqlu SB VIII:A+22", "Maqlu SB VIII:A+24", "Maqlu SB VIII:A+25"], note: "partly restored after III:55-60"}
+  - id: ane-maqlu-sb-viii-mouth-spoke-evil
+    tradition: ane-akkadian
+    title: "Maqlû VIII A+26-A+37: 'The mouth spoke evil' — may your witchcraft fill the sewer"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:A+26-A+37"]
+    tags:
+      - {motif: slanderer-with-forked-tongue, refs: ["Maqlu SB VIII:A+26", "Maqlu SB VIII:A+27"], note: "pû idbub lemnāti"}
+      - {motif: witch-titles-include-cult-women, refs: ["Maqlu SB VIII:A+29"], note: "eššebâti"}
+      - {motif: witchs-acts-turned-back-in-similes, refs: ["Maqlu SB VIII:A+37"], note: "restored [kīma mê m]usâti asurrâ l[imlû], echoing II:168, 179"}
+    hints:
+      - "Compare Ps 10:7 (his mouth is full of cursing, deceit and oppression) and Rom 3:14."
+  - id: ane-maqlu-sb-viii-eagle-and-vulture
+    tradition: ane-akkadian
+    title: "Maqlû VIII A+38-B+8: 'The sorceress who sets witchcraft in motion' — may Ereškigal refuse her, dog and bitch tear her flesh"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:A+38-B+8"]
+    tags:
+      - {motif: witch-catalogue-of-assaults-on-senses, refs: ["Maqlu SB VIII:A+42", "Maqlu SB VIII:A+43", "Maqlu SB VIII:A+44", "Maqlu SB VIII:A+45"]}
+      - {motif: witch-kills-young-men-spares-no-woman, refs: ["Maqlu SB VIII:A+45"], note: "hābilat eṭlūti šāgilat ardāti"}
+      - {motif: witch-denied-netherworld-corpse-to-birds-and-dogs, refs: ["Maqlu SB VIII:B+3", "Maqlu SB VIII:B+4", "Maqlu SB VIII:B+6", "Maqlu SB VIII:B+7"]}
+      - {motif: unburied-corpses-food-for-birds, refs: ["Maqlu SB VIII:B+4"]}
+      - {motif: dogs-eat-queen-by-wall, refs: ["Maqlu SB VIII:B+6", "Maqlu SB VIII:B+7"], note: "kalbu u kalbatu libaṣṣirū šīrīki: dog and bitch tear the witch's flesh"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB VIII:B+8"]}
+    hints:
+      - "Compare 1Kgs 21:23 and 2Kgs 9:10, 33-37 (dogs eat Jezebel, whose sorceries are many, 2Kgs 9:22) and Deut 28:26, Jer 16:4 (corpses food for birds)."
+  - id: ane-maqlu-sb-viii-you-are-my-reflection
+    tradition: ane-akkadian
+    title: "Maqlû VIII B+9-B+22: 'You are my reflection, you are my vigour' — 'you are mine and I am yours'; colophon"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB VIII:B+9-B+22"]
+    tags:
+      - {motif: address-to-own-reflection-you-are-mine, refs: ["Maqlu SB VIII:B+9", "Maqlu SB VIII:B+10", "Maqlu SB VIII:B+11", "Maqlu SB VIII:B+12", "Maqlu SB VIII:B+18"], note: "attā ṣillī attā bāštī ... attā yāʾu anāku kû"}
+      - {motif: catalogue-of-kinds-of-witchcraft, refs: ["Maqlu SB VIII:B+13", "Maqlu SB VIII:B+14", "Maqlu SB VIII:B+15", "Maqlu SB VIII:B+16", "Maqlu SB VIII:B+16a", "Maqlu SB VIII:B+17"], note: "refrain ē tamhur, do not accept"}
+      - {motif: spell-ends-by-command-of-named-gods, refs: ["Maqlu SB VIII:B+20", "Maqlu SB VIII:B+21"]}
+    hints:
+      - "Compare Song 2:16 and 6:3 ('my beloved is mine and I am his') and Isa 43:1 ('you are mine') for B+18; Ps 121:5 (YHWH your shade, ṣēl) for ṣillu as protective double."
+  # ================= Maqlû Ritual Tablet =================
+  - id: ane-maqlu-sb-rt-night-rite-tablet-i
+    tradition: ane-akkadian
+    title: "Maqlû Ritual Tablet 1-31': the night rite begins — mouth-washing, the tallow figurine on the torch, prostration, Nuska on the roof"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB RT:1-31'"]
+    tags:
+      - {motif: ritual-tablet-keyed-to-incantations, refs: ["Maqlu SB RT:1", "Maqlu SB RT:6'", "Maqlu SB RT:17'-23'"]}
+      - {motif: mouth-washing-of-patient, refs: ["Maqlu SB RT:3'-4'"], note: "[ma]rṣa mīs pî; marṣu bīna ikabbas"}
+      - {motif: tallow-figurine-with-salt-in-mouth-melted, refs: ["Maqlu SB RT:8'-11'"], note: "timed to the words 'that uttered evil against me' (I:32)"}
+      - {motif: witch-mouth-tallow-tongue-salt, refs: ["Maqlu SB RT:10'"]}
+      - {motif: reed-torch-raised-to-fire-god, refs: ["Maqlu SB RT:9'", "Maqlu SB RT:16'", "Maqlu SB RT:28'-30'"]}
+      - {motif: offerings-on-rooftops-to-goddess, refs: ["Maqlu SB RT:14'"], note: "a portable altar set up on the roof before Nuska (restored ana ūri?)"}
+      - {motif: magic-circle-drawn-with-flour, refs: ["Maqlu SB RT:21'-22'"]}
+      - {motif: witch-figurines-made-and-set-before-gods, refs: ["Maqlu SB RT:23'-27'"], note: "figurines of tamarisk, cedar, tallow, wax, sesame pomace, bitumen, gypsum, clay, dough set in order on the burning vessel; he points his finger at them"}
+    hints:
+      - "Compare Jer 19:13 and 32:29 (offerings on rooftops) and Zeph 1:5 for the rooftop altar; Isa 6:5-7 (lips purified) for mouth-washing."
+  - id: ane-maqlu-sb-rt-figurine-rubrics-ii-iii
+    tradition: ane-akkadian
+    title: "Maqlû Ritual Tablet 32'-59': the figurine for each incantation of Tablets II-III"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB RT:32'-59'"]
+    tags:
+      - {motif: ritual-tablet-keyed-to-incantations, refs: ["Maqlu SB RT:32'-59'"]}
+      - {motif: witch-figurines-made-and-set-before-gods, refs: ["Maqlu SB RT:32'-42'", "Maqlu SB RT:45'-47'"]}
+      - {motif: crossed-bronze-figurines, refs: ["Maqlu SB RT:33'-34'"]}
+      - {motif: witchs-face-to-melt-and-yellow, refs: ["Maqlu SB RT:49'"], note: "you seal its mouth with a yellow seal"}
+      - {motif: slag-and-soot-poured-on-witchs-head, refs: ["Maqlu SB RT:50'-52'"]}
+      - {motif: witches-sent-out-to-sea-in-boat, refs: ["Maqlu SB RT:53'-55'"], note: "boats of clay and dough with two figurines inside"}
+      - {motif: sherd-of-the-streets-addressed, refs: ["Maqlu SB RT:56'-57'"], note: "wrapped in red wool"}
+      - {motif: strong-hand-of-mankind, refs: ["Maqlu SB RT:58'-59'"], note: "hands of tallow and wax"}
+  - id: ane-maqlu-sb-rt-tablets-iv-v-quench-and-cast-out
+    tradition: ane-akkadian
+    title: "Maqlû Ritual Tablet 60'-95': the reed cross, knots in wool, burning herbs, quenching the fire and throwing it out the gate"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB RT:60'-95'"]
+    tags:
+      - {motif: ritual-tablet-keyed-to-incantations, refs: ["Maqlu SB RT:60'-90'"]}
+      - {motif: crossed-bronze-figurines, refs: ["Maqlu SB RT:60'-64'"], note: "a cross (pallurtu) of two reeds tied with black string, figurines at its four ends"}
+      - {motif: knots-tied-in-wool-and-undone, refs: ["Maqlu SB RT:67'", "Maqlu SB RT:69'"], note: "three knots for 'Of the Sun, who is his father', seven for 'They perform sorcery' (cf. IV:118); the undoing is restored"}
+      - {motif: women-blowing-on-knots, refs: ["Maqlu SB RT:69'"]}
+      - {motif: aromatic-plants-sent-against-witch, refs: ["Maqlu SB RT:71'-76'"]}
+      - {motif: figurines-burned-with-sulphur, refs: ["Maqlu SB RT:77'"]}
+      - {motif: fire-extinguished-and-remains-thrown-out-gate, refs: ["Maqlu SB RT:83'-85'", "Maqlu SB RT:91'"]}
+      - {motif: speaker-tramples-his-foe, refs: ["Maqlu SB RT:86'"], note: "he tramples a dough figurine"}
+      - {motif: mountains-cover-us, refs: ["Maqlu SB RT:88'-89'"], note: "a mountain-stone set on the censer covering the burning vessel"}
+      - {motif: magic-circle-drawn-with-flour, refs: ["Maqlu SB RT:92'-93'"]}
+      - {motif: demon-flees-to-wilderness, refs: ["Maqlu SB RT:92'"], note: "incantation 'Evil udug-demon, to your steppe'"}
+    hints:
+      - "Compare Lev 16:27 (the remains burned outside the camp) and Lev 14:40-45 (unclean material cast outside the city)."
+  - id: ane-maqlu-sb-rt-tablets-vi-vii-bed-and-door
+    tradition: ane-akkadian
+    title: "Maqlû Ritual Tablet 96'-137': fumigation, salt and asafoetida at the bed's head, twine round the bed, doorposts smeared, the body anointed"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB RT:96'-137'b"]
+    tags:
+      - {motif: ritual-tablet-keyed-to-incantations, refs: ["Maqlu SB RT:96'-112'"]}
+      - {motif: kukru-plants-of-pure-mountains, refs: ["Maqlu SB RT:96'-104'"]}
+      - {motif: speaker-identifies-with-sulphur, refs: ["Maqlu SB RT:105'-112'"]}
+      - {motif: salt-food-of-the-gods, refs: ["Maqlu SB RT:113'-114'"], note: "a lump of salt placed on the censer at the head of the bed"}
+      - {motif: bed-guarded-against-witch, refs: ["Maqlu SB RT:114'-118'"]}
+      - {motif: guardian-gods-posted-at-door, refs: ["Maqlu SB RT:119'-121'"], note: "two cornel sticks at right and left of the outer gate"}
+      - {motif: pure-mountain-piled-in-courtyard, refs: ["Maqlu SB RT:122'-123'"]}
+      - {motif: doorposts-and-bolt-smeared-for-protection, refs: ["Maqlu SB RT:127'-129'"], note: "dalta sikkūra sippē bābāni iltanappat"}
+      - {motif: blood-on-doorposts-and-lintel, refs: ["Maqlu SB RT:129'"], note: "here a flour-and-beer mixture, not blood"}
+      - {motif: healing-oil-of-incantation, refs: ["Maqlu SB RT:130'-133'"]}
+      - {motif: magic-circle-drawn-with-flour, refs: ["Maqlu SB RT:136'"]}
+    hints:
+      - "Compare Exod 12:7, 22-23 (blood on the lintel and doorposts at night against the destroyer) for RT:127'-129'."
+  - id: ane-maqlu-sb-rt-morning-handwashing
+    tradition: ane-akkadian
+    title: "Maqlû Ritual Tablet 138'-180': the morning rites — handwashing over the witch's likeness, bread-figurines for dogs, the face in the water"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["Maqlu SB RT:138'-180'"]
+    tags:
+      - {motif: ritual-tablet-keyed-to-incantations, refs: ["Maqlu SB RT:138'-180'"]}
+      - {motif: fire-extinguished-and-remains-thrown-out-gate, refs: ["Maqlu SB RT:138'-139'"]}
+      - {motif: counter-figurine-of-witch-drawn-before-sun, refs: ["Maqlu SB RT:141'"], note: "likeness of the witch drawn in flour in a washbasin"}
+      - {motif: witch-figurine-struck-with-stick-in-washbasin, refs: ["Maqlu SB RT:142'-147'", "Maqlu SB RT:166'-168'"]}
+      - {motif: ritual-washing-transfers-all-evils, refs: ["Maqlu SB RT:148'-161'"], note: "mīs qātī after each morning incantation"}
+      - {motif: substitute-figurine-bears-sin, refs: ["Maqlu SB RT:151'"]}
+      - {motif: wicked-as-chaff, refs: ["Maqlu SB RT:163'-164'"], note: "he blows chaff from a sherd into the washbasin"}
+      - {motif: witch-figurines-in-bread-given-to-dogs, refs: ["Maqlu SB RT:170'-174'"]}
+      - {motif: patient-looks-at-reflection-in-water, refs: ["Maqlu SB RT:175'-177'"]}
+    hints:
+      - "Compare Num 5:17-23 (the curse dissolved in water in an earthen vessel) and 1Kgs 21:23 (dogs eat Jezebel) for the dog rite."
+  # ================= Marduk's Address to the Demons =================
+  - id: ane-marddemons-sb-begone-evil
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 1-9: 'Begone, Evil' — the demon list"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:1-9"]
+    tags:
+      - {motif: disease-demon-catalogue-hand-of-god, refs: ["MardDemons SB –:1-7"], note: "including 'that which falls from heaven, the flash of a star' (miqit šamê ṣereh kakkabi)"}
+      - {motif: lilu-lilitu-ardat-lili, refs: ["MardDemons SB –:4"]}
+      - {motif: named-demons-beset-mankind, refs: ["MardDemons SB –:1-3"]}
+      - {motif: begone-from-my-body-litany, refs: ["MardDemons SB –:9"], note: "duppir puṭur lemnu ša pānīya ukkiš ayyābī ša arkīya"}
+    hints:
+      - "Compare Isa 34:14 (lilit) and Isa 14:12 (fallen from heaven, Day Star) for 'that which falls from heaven, the flash of a star'."
+  - id: ane-marddemons-sb-i-am-asalluhi-1
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 10-55: 'I am Asalluḫi' (first half of the litany)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:10-55"]
+    tags:
+      - {motif: exorcist-speaks-as-the-god-i-am, refs: ["MardDemons SB –:10-55"]}
+      - {motif: divine-self-praise-i-am, refs: ["MardDemons SB –:10-55"]}
+      - {motif: god-who-revives-the-dead, refs: ["MardDemons SB –:13", "MardDemons SB –:20", "MardDemons SB –:22"], note: "muballiṭ mīti; ša ina kikiṭṭêšu mītu iballuṭu"}
+      - {motif: demons-hide-at-gods-name, refs: ["MardDemons SB –:16", "MardDemons SB –:44"]}
+      - {motif: god-takes-hand-of-the-fallen, refs: ["MardDemons SB –:35"], note: "ēṭir kamî ṣābit qātī naski"}
+      - {motif: head-to-heaven-feet-to-netherworld, refs: ["MardDemons SB –:27-28"], note: "he surveys the height of heaven and knows the depth of the Ḫubur"}
+      - {motif: god-avenger-lord-of-wrath, refs: ["MardDemons SB –:43"], note: "rises in fury, a fearsome flood (only loosely)"}
+      - {motif: secret-lore-of-the-apsu, refs: ["MardDemons SB –:12", "MardDemons SB –:21"]}
+      - {motif: divine-epithet-cluster, refs: ["MardDemons SB –:38-55"], note: "lord of Babylon, merciful (rēmēnû), lover of truth above and below, who dispels darkness and lengthens years"}
+    hints:
+      - "Compare Deut 32:39 and 1Sam 2:6 (I kill and I make alive) for –:13, 20, 22; Ps 145:14 (YHWH upholds all who fall) for –:35."
+      - "Compare Isa 44:24-28 and Exod 3:14 for divine 'I am' self-predication; John 8-15 'I am' sayings."
+  - id: ane-marddemons-sb-i-am-asalluhi-2
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 56-107: 'I am Asalluḫi' (second half) — physician of mankind, releaser of guilt"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:56-107"]
+    tags:
+      - {motif: exorcist-speaks-as-the-god-i-am, refs: ["MardDemons SB –:56-107"]}
+      - {motif: god-takes-hand-of-the-fallen, refs: ["MardDemons SB –:63", "MardDemons SB –:81", "MardDemons SB –:101"], note: "hātin ābirî mušēzib enši; ṣābit qātī ulāli ubburi"}
+      - {motif: god-purges-righteous-and-wicked-in-river, refs: ["MardDemons SB –:82"], note: "ša ina nāri ubbabu kīna u ragga"}
+      - {motif: river-ordeal-clears-the-just, refs: ["MardDemons SB –:82"]}
+      - {motif: god-feeds-people-as-father-and-mother, refs: ["MardDemons SB –:90", "MardDemons SB –:105"], note: "kīma abi u ummi ittanarrû nišīšu"}
+      - {motif: god-releases-guilt-and-changes-evil-fate, refs: ["MardDemons SB –:94", "MardDemons SB –:98", "MardDemons SB –:101"], note: "mušpēl šīmāti lemnēti mupaṭṭir arni; ilu rēmēnû"}
+      - {motif: god-who-revives-the-dead, refs: ["MardDemons SB –:96"], note: "ša ina têšu mītu iballuṭu itebbû marṣu"}
+      - {motif: demons-hide-at-gods-name, refs: ["MardDemons SB –:85", "MardDemons SB –:99"]}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["MardDemons SB –:79"], note: "at his word the mountains subside and their peaks totter"}
+      - {motif: sun-god-shepherd-of-the-land, refs: ["MardDemons SB –:74", "MardDemons SB –:80"], note: "said of Asalluḫi: shepherd of all peoples, who like the sun looks over the lands"}
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["MardDemons SB –:102"], note: "pāšir kišpī ruhê rusê"}
+      - {motif: divine-epithet-cluster, refs: ["MardDemons SB –:56-107"], note: "dragon of the Anunnaki, lion of the Igigi; physician (asû) of mankind; fierce yet relenting"}
+    hints:
+      - "Compare Exod 15:26 ('I am YHWH your healer'), Ps 103:3 (who forgives all your iniquities, heals all your diseases) and Mic 7:18-19 for –:94-103."
+      - "Compare Isa 49:15 and 66:13 (as a mother comforts) and Ps 27:10 for the god as father and mother; Ps 113:7 (raises the poor from the dust)."
+  - id: ane-marddemons-sb-marduk-sees-them
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 108-A+123: Marduk sees the demons and speaks to Nabû (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:108-A+123"]
+    tags:
+      - {motif: fire-god-burns-witch-refrain, refs: ["MardDemons SB –:114-116"], note: "Girra the burner, Nusku and the torch against the demons; broken"}
+      - {motif: evil-sent-away-on-the-wind, refs: ["MardDemons SB –:118"], note: "naspihā kīma i[mbari]: scatter like fog"}
+      - {motif: named-demons-beset-mankind, refs: ["MardDemons SB –:117", "MardDemons SB –:119"], note: "lines 120-A+123 broken"}
+    hints:
+      - "Compare Hos 13:3 (like the morning mist) for –:118."
+  - id: ane-marddemons-sb-or-you-who-at-the-sickbed
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 1'-63': 'Or you who ...' — the demons at the invalid's bedside"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:1'-63'"]
+    tags:
+      - {motif: demon-catalogue-of-animal-behaviours-at-sickbed, refs: ["MardDemons SB –:25'-63'"]}
+      - {motif: night-demons-enter-houses, refs: ["MardDemons SB –:7'", "MardDemons SB –:17'-21'"], note: "Bennu, the watcher of the night; they enter houses, cross thresholds and roofs"}
+      - {motif: night-terror-and-noonday-demon, refs: ["MardDemons SB –:7'", "MardDemons SB –:23'"], note: "hāʾiṭu ša muṣlāli: the watcher at noon"}
+      - {motif: witch-hunts-young-men-and-women, refs: ["MardDemons SB –:22'"], note: "demons seek the fine young man and fine young woman in the street"}
+      - {motif: lilu-lilitu-ardat-lili, refs: ["MardDemons SB –:16'"]}
+      - {motif: suppliant-introduces-himself-so-and-so-son-of, refs: ["MardDemons SB –:30'-32'"], note: "marṣa annanna"}
+    hints:
+      - "Compare Ps 91:5-6 (terror by night, destruction that wastes at noonday) for –:7' and 23'; Ps 22:13-17 (bulls, lions, dogs encircle the sufferer) for the animal behaviours at the sickbed."
+      - "Compare Jer 9:20 (death has come up into our windows) for –:17'-19'."
+  - id: ane-marddemons-sb-restless-dead
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 64'-99': demons of streets, river and forest; the restless dead with no kin"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:64'-99'"]
+    tags:
+      - {motif: witch-roams-streets-and-enters-houses, refs: ["MardDemons SB –:64'-70'"], note: "said of demons who prowl the city in the evening"}
+      - {motif: demon-flees-to-wilderness, refs: ["MardDemons SB –:73'-83'"], note: "ditches, crevices, river and forests as demons' haunts"}
+      - {motif: restless-dead-catalogue, refs: ["MardDemons SB –:85'-99'"]}
+      - {motif: fallen-in-battle-head-unheld, refs: ["MardDemons SB –:86'-93'"]}
+      - {motif: demons-without-kin-know-not-good-from-evil, refs: ["MardDemons SB –:94'-97'"]}
+      - {motif: ghost-without-funerary-offerings-eats-scraps, refs: ["MardDemons SB –:98'"], note: "apla nāq mê lā tīšâ: no heir to pour water"}
+    hints:
+      - "Compare Isa 14:19 (the slain pierced by the sword, cast out of the grave) and 2Sam 18:18 (Absalom: I have no son to keep my name)."
+  - id: ane-marddemons-sb-handed-to-netherworld
+    tradition: ane-akkadian
+    title: "Marduk's Address to the Demons 100'-128': 'May Asalluḫi extirpate you' — handed to the gatekeepers of the netherworld; exorcised by heaven and earth"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardDemons SB –:100'-128'"]
+    tags:
+      - {motif: begone-from-my-body-litany, refs: ["MardDemons SB –:100'-104'", "MardDemons SB –:120'", "MardDemons SB –:125'"], note: "lissuhkunūši; lā tallakāni lā taturrāni ana zumur annanna"}
+      - {motif: adjured-by-life-of-gods, refs: ["MardDemons SB –:105'-109'", "MardDemons SB –:118'"], note: "utammīkunūši ... nīš ninurta"}
+      - {motif: demons-handed-to-netherworld-gatekeepers, refs: ["MardDemons SB –:110'-117'"]}
+      - {motif: underworld-land-of-no-return, refs: ["MardDemons SB –:110'"], note: "bāb kurnugi"}
+      - {motif: seven-gates-of-underworld, refs: ["MardDemons SB –:111'"], note: "sebetti atî ša ereškigal"}
+      - {motif: death-personified-driven-to-netherworld, refs: ["MardDemons SB –:112'-115'"]}
+      - {motif: exorcised-by-heaven-and-earth-and-primeval-gods, refs: ["MardDemons SB –:121'-127'"], note: "Sumerian close: zi an-na he₂-pa₃ zi ki-a he₂-pa₃"}
+      - {motif: adjuration-by-life-of-heaven, refs: ["MardDemons SB –:126'-127'"]}
+    hints:
+      - "Compare Mark 5:7-13 and Luke 8:31 (the demons beg not to be sent into the abyss) and Rev 20:1-3 (the dragon bound and shut in the abyss) for the demons consigned to the netherworld."
+      - "Compare Matt 12:43-45 (the unclean spirit wanders waterless places and returns) for –:120'."
+  # ================= Syncretistic Hymn to Marduk =================
+  - id: ane-mardsyncr-sb-wise-one-heaven-tiara
+    tradition: ane-akkadian
+    title: "Syncretistic Hymn to Marduk 1-17: 'He of insightful thinking' — heaven his tiara, the netherworld his sandals"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardSyncr SB –:1-17"]
+    tags:
+      - {motif: divine-epithet-cluster, refs: ["MardSyncr SB –:1-7"], note: "sage of the gods, expert in everything"}
+      - {motif: god-sees-world-as-small-as-a-wedge, refs: ["MardSyncr SB –:8-9"], note: "niṭluššu mala tikip dešši kippatu ul imṣi"}
+      - {motif: eyes-of-yhwh-everywhere, refs: ["MardSyncr SB –:8"], note: "arkā īnāšu ibarrâ gimra"}
+      - {motif: heaven-crown-earth-sandals, refs: ["MardSyncr SB –:14-15"], note: "rāšuššu agîš etpuru burummī ellūti; iššēnu šapal šēpuššu palkāta dannina"}
+    hints:
+      - "Compare Isa 66:1 (heaven my throne, earth my footstool) and Isa 40:15, 22 (nations like a drop, inhabitants like grasshoppers) for –:9, 14-15; Zech 4:10 and 2Chr 16:9 (the eyes of YHWH range through the whole earth)."
+  - id: ane-mardsyncr-sb-your-name-is-indeed-marduk
+    tradition: ane-akkadian
+    title: "Syncretistic Hymn to Marduk 18-60: 'Your name is Anšar ... Dagan ... Adad ... Šamaš ... your name is indeed Marduk'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardSyncr SB –:18-60"]
+    tags:
+      - {motif: other-gods-are-names-of-one-god, refs: ["MardSyncr SB –:18", "MardSyncr SB –:21-22", "MardSyncr SB –:25-26", "MardSyncr SB –:29-30", "MardSyncr SB –:33-34", "MardSyncr SB –:37-38", "MardSyncr SB –:41", "MardSyncr SB –:44-45", "MardSyncr SB –:48-49", "MardSyncr SB –:53", "MardSyncr SB –:57", "MardSyncr SB –:60"], note: "šumka X ... zikirka marūtuk-ma"}
+      - {motif: god-invoked-under-several-names-litany, refs: ["MardSyncr SB –:18-60"]}
+      - {motif: creator-without-whom-nothing-was-formed, refs: ["MardSyncr SB –:26-28"], note: "ša ullânuššu naphar mimmāma lā ippatqu"}
+      - {motif: god-holds-cosmic-rope, refs: ["MardSyncr SB –:23", "MardSyncr SB –:25"]}
+      - {motif: gods-prostrate-before-victor, refs: ["MardSyncr SB –:19", "MardSyncr SB –:24"]}
+      - {motif: storm-god-voice-shakes-heaven-and-earth, refs: ["MardSyncr SB –:30-32"], note: "addu ... ša ina kiṣir urpāti urtaṣṣanu ramīmšu"}
+      - {motif: moon-god-renews-his-light, refs: ["MardSyncr SB –:34-37"], note: "nannāru muddiš arhi; without whom no human destiny is allotted"}
+      - {motif: sun-god-of-justice, refs: ["MardSyncr SB –:38-40"], note: "nūr šamāmī u qaqqari ... dayyānu"}
+      - {motif: god-rides-swift-cloud, refs: ["MardSyncr SB –:41"], note: "ṣāmid abūbi rākib mehî"}
+      - {motif: divine-command-unalterable, refs: ["MardSyncr SB –:36"], note: "purussûšu lā innennû"}
+      - {motif: theophany-earth-quakes-mountains-melt, refs: ["MardSyncr SB –:44"], note: "mighty mountains disintegrate like sand"}
+      - {motif: divine-epithet-cluster, refs: ["MardSyncr SB –:57-60"], note: "Ningirsu as provider of grain, oil, barley, flax and furrow"}
+    hints:
+      - "Compare Ps 29:3-9 (the voice of YHWH over the waters, shaking the wilderness) for –:30-32; Ps 104:3 and Ps 68:5 (rider of the clouds) for –:41."
+      - "Compare John 1:3 (without him was not anything made) for –:26; Isa 45:5-7 (I form light and create darkness) and Deut 6:4 for the absorption of other gods into one."
+  - id: ane-mardsyncr-sb-fifty-auras-extol-the-lord
+    tradition: ane-akkadian
+    title: "Syncretistic Hymn to Marduk 61-88: 'You have become great, O lord' — fifty auras, fire his breath; 'Extol the Lord!'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["MardSyncr SB –:61-88"]
+    tags:
+      - {motif: fifty-names-of-god, refs: ["MardSyncr SB –:69"], note: "hanšā šalummāti: fifty divine auras"}
+      - {motif: gods-kiss-feet-of-deliverer, refs: ["MardSyncr SB –:67"], note: "the great gods kiss his feet"}
+      - {motif: smoke-from-gods-nostrils-fire-from-mouth, refs: ["MardSyncr SB –:71"], note: "gīru šār pîšu"}
+      - {motif: creator-without-whom-nothing-was-formed, refs: ["MardSyncr SB –:75-76", "MardSyncr SB –:85"]}
+      - {motif: god-holds-cosmic-rope, refs: ["MardSyncr SB –:83"], note: "ša ēdiššīšu ṣerret gimri īhuzu"}
+      - {motif: no-god-beside-you-confession, refs: ["MardSyncr SB –:61", "MardSyncr SB –:86"], note: "tašqu ana ilī ēdiššīka; bēlu attā-ma: you alone are the Lord"}
+      - {motif: god-invoked-under-several-names-litany, refs: ["MardSyncr SB –:66", "MardSyncr SB –:76", "MardSyncr SB –:79", "MardSyncr SB –:82"], note: "Lugaldimmerankia, Asalluḫi, Šazu, Enbilulu"}
+      - {motif: closing-praise-of-god, refs: ["MardSyncr SB –:87-88"], note: "bilingual: šūpâ bēla ... šūpâ bēl bēlī"}
+    hints:
+      - "Compare Ps 18:9 (smoke from his nostrils, devouring fire from his mouth); Deut 10:17 (God of gods and Lord of lords) and Ps 136:2-3 for 'Lord of Lords'; Neh 9:6 ('you alone are YHWH')."
+  # ================= Great Prayer to Nabû =================
+  - id: ane-nabupr-sb-o-lord-o-nabu-hymn
+    tradition: ane-akkadian
+    title: "Great Prayer to Nabû 9-44: 'O Lord ... O Nabû' — anger a dragon, yet heaper of plenty; calm yourself, have pity"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NabuPr SB –:9-44"]
+    tags:
+      - {motif: doubled-litany-lord-then-name, refs: ["NabuPr SB –:9-44"], note: "lines 1-8 lost; the bēlu/nabû restorations at line starts are partly editorial"}
+      - {motif: gods-anger-dragon-yoke-raging-beast, refs: ["NabuPr SB –:17-29"], note: "nīrka nadru; lā pādûk girru; urpatu nekelmûk; edēdka rību"}
+      - {motif: god-who-binds-and-looses, refs: ["NabuPr SB –:10", "NabuPr SB –:12"], note: "napšurka: your absolution (context broken)"}
+      - {motif: wrath-then-mercy, refs: ["NabuPr SB –:37-40"], note: "nūh ana surri ... riši tīrānī"}
+      - {motif: divine-epithet-cluster, refs: ["NabuPr SB –:41-44"], note: "master of the literate arts (āšiš šukāmi), initiate in abstruse lore"}
+    hints:
+      - "Compare Ps 136 and Ps 118:1-4 (repeated refrain) for the doubled couplets; Ps 6:2 and Ps 38:2 (do not rebuke me in your anger) and Hab 3:2 (in wrath remember mercy) for –:37-40."
+  - id: ane-nabupr-sb-servant-in-the-morass
+    tradition: ane-akkadian
+    title: "Great Prayer to Nabû 45-90: 'You are angry with your servant' — cast into the billow and the morass; 'you called my name'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NabuPr SB –:45-90"]
+    tags:
+      - {motif: drowning-in-deep-waters, refs: ["NabuPr SB –:49-50"], note: "ina gipiš edê nadī-ma agû elīš ittakkip; kibru rūqšu"}
+      - {motif: thrown-in-the-mire, refs: ["NabuPr SB –:51-52"], note: "ittatīl ina nāriṭṭi kali ina rušumti"}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["NabuPr SB –:53-56"], note: "ahuz qāssu lā immês aradka; šūlīš ina nariṭṭi"}
+      - {motif: sufferer-bellows-like-slaughtered-bull, refs: ["NabuPr SB –:57-58"]}
+      - {motif: called-by-name-you-are-mine, refs: ["NabuPr SB –:81-84"], note: "nabû attā-ma tabbi [šumī] (restored); at your command the midwife [drew me out]"}
+      - {motif: king-named-and-fated-at-birth, refs: ["NabuPr SB –:81-84"]}
+      - {motif: bewitched-man-estranged-from-his-gods, refs: ["NabuPr SB –:45-48"], note: "here the god himself is angry with his servant (tassabus eli ardīka)"}
+    hints:
+      - "Compare Ps 69:2-3, 15-16 (I sink in deep mire, the flood sweeps over me; do not let me sink) and Ps 40:3 (he drew me up from the miry bog) for –:49-56."
+      - "Compare Ps 22:10-11 and 71:6 (you took me from the womb), Isa 49:1 and Jer 1:5 (called from the womb) for –:81-84."
+  - id: ane-nabupr-sb-only-you-absolve
+    tradition: ane-akkadian
+    title: "Great Prayer to Nabû 91-116: 'O Forgiver ... without you no forgiveness' — the god cast his servant out; 'How long?'"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NabuPr SB –:91-116"]
+    tags:
+      - {motif: only-the-god-can-absolve, refs: ["NabuPr SB –:91-102"], note: "teleʾû ennētī paṭāra; temēšu; [ina b]aluk ennētī gillatī [ul ippaṭṭar] (partly restored)"}
+      - {motif: god-releases-sin-of-supplicant, refs: ["NabuPr SB –:91-94", "NabuPr SB –:97"]}
+      - {motif: god-turned-cruel, refs: ["NabuPr SB –:103-105"], note: "with your own hand you flung your servant down and released a malicious god on me"}
+      - {motif: sufferers-symptoms-lice-and-exudation, refs: ["NabuPr SB –:106-115"], note: "ihših [mūta?] partly restored; mutqu pulhūšu"}
+      - {motif: how-long-will-you-neglect-me, refs: ["NabuPr SB –:116"], note: "adi mati"}
+    hints:
+      - "Compare Ps 130:3-4 (if you kept a record of iniquities, who could stand? but with you is forgiveness) and Mark 2:7 (who can forgive sins but God alone?) for –:99-102."
+      - "Compare Job 2:7-8, 7:5 (worms and scabs), Job 19:21 (the hand of God has struck me) and Ps 6:4, 13:2 ('How long?')."
+  - id: ane-nabupr-sb-praise-vow-dream-spirit
+    tradition: ane-akkadian
+    title: "Great Prayer to Nabû 117-165: 'Let me praise your fury and anger' — former wealth, the dream spirit, the servants' pity (fragmentary)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NabuPr SB –:117-165"]
+    tags:
+      - {motif: save-me-that-i-may-praise-you, refs: ["NabuPr SB –:117-120"], note: "[ludl]ul bēla nalbābuk ezēzu, echoing Ludlul's opening"}
+      - {motif: sign-for-good-requested, refs: ["NabuPr SB –:125-129"], note: "his revenue will show up those who defamed him"}
+      - {motif: dream-spirit-brings-message, refs: ["NabuPr SB –:141-148"], note: "zāqīqu ina šat mūši; content broken"}
+      - {motif: sympathy-wins-a-favour, refs: ["NabuPr SB –:149-156"], note: "his servants pity him and plead 'It is enough, my lord ... have pity, O Forgiver' (maṣi bēlī ... ahulap temēš)"}
+      - {motif: plea-that-high-god-say-enough, refs: ["NabuPr SB –:155"]}
+    hints:
+      - "Compare Ludlul bēl nēmeqi I 1 (ludlul bēl nēmeqi) and Job 33:14-18 (God speaks in a dream to turn a man from the pit); 2Sam 24:16 ('It is enough')."
+  - id: ane-nabupr-sb-restoration-bitter-dates
+    tradition: ane-akkadian
+    title: "Great Prayer to Nabû 173-225: 'Loose his fetters' — bitter dates turn sweet; leave him a vent to breathe; restore his fields"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: Standard Babylonian
+    read: ["NabuPr SB –:173-225"]
+    tags:
+      - {motif: witchcraft-loosed-bonds-broken, refs: ["NabuPr SB –:173"], note: "puṭur qunnabrašu hipi illurtaš"}
+      - {motif: bitter-dates-later-sweet, refs: ["NabuPr SB –:178-182"]}
+      - {motif: darkness-turned-to-light, refs: ["NabuPr SB –:184"], note: "ašar eklet namrat"}
+      - {motif: god-disciplines-as-father, refs: ["NabuPr SB –:185-190"], note: "the obedient son blessed, the disobedient cursed till he mends; tasanniq aradka"}
+      - {motif: leave-a-vent-to-breathe, refs: ["NabuPr SB –:187-190"]}
+      - {motif: restored-sufferer-regains-fields-and-prebends, refs: ["NabuPr SB –:200-211"]}
+      - {motif: god-takes-sufferer-by-hand-and-lifts-head, refs: ["NabuPr SB –:212-215"]}
+      - {motif: save-me-that-i-may-praise-you, refs: ["NabuPr SB –:212-215", "NabuPr SB –:220-225"]}
+      - {motif: personal-gods-plead-healer-intercedes, refs: ["NabuPr SB –:218-219"], note: "may the Igigi take his part, the Laḫmu speak in his favour"}
+    hints:
+      - "Compare Prov 3:11-12 and Heb 12:5-11 (the Lord disciplines the son he loves) for –:185-190; Ps 30:12 and Job 42:10-12 (fortunes restored) for –:200-211."
+      - "Compare John 16:20-21 and Ps 126:5-6 (sorrow turned to joy, sowing in tears) for the bitter-then-sweet sayings."

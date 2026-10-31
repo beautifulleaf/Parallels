@@ -1,0 +1,303 @@
+# Full read of the ANE corpus, chunk 27: SAA 3 literary texts (Underworld Vision, Shalmaneser epic, sufferer's prayer to Nabû, Marduk Ordeal, mystical commentary ...),
+# SAA 9 Assyrian prophecies (Esarhaddon and Assurbanipal oracles), SAA 20 Assyrian royal rituals.
+# Read from ORACC lemmatized transliterations (word glosses only, no translation); tags rest on the Akkadian.
+new_motifs:
+  prince-incubates-dream-of-netherworld-queen: {label: "A prince (Kummaya) prays with incense to the netherworld queen, and she appears to him in a night dream promising to show him what he asks", cluster: underworld}
+  dreamer-wakes-moaning-like-dove: {label: "The visionary wakes from the dream and moans like a dove (kīma summe idmum)", cluster: revelation}
+  vision-of-hybrid-netherworld-gods: {label: "In a vision of the netherworld the seer sees a row of gods and demons with composite bodies (lion, bird, ox, serpent-dragon heads; human hands, bird feet), each named", cluster: underworld}
+  black-man-with-anzu-face-in-red-garment: {label: "In the netherworld vision one young man, his body black as pitch and his face like the Anzu bird's, wears a red garment, holds a bow and sword and treads on a snake", cluster: underworld}
+  netherworld-king-enthroned-lightning-flashing: {label: "The netherworld king (Nergal) sits on a royal throne with a crown, holding two fierce maces, lightning flashing from his arms, the Anunnaki kneeling right and left", cluster: underworld}
+  seer-seized-by-forelock-brought-before-god: {label: "The seer is seized by the forelock (abūsātu) and dragged before the enthroned god", cluster: revelation}
+  seer-kisses-feet-of-terrifying-god: {label: "Overwhelmed by the god's radiance, the seer trembles, kisses the god's feet and kneels", cluster: revelation}
+  divine-counsellor-intercedes-let-young-man-live: {label: "A divine adviser (Išum) intercedes with the angry god who wants to kill the seer: 'Do not let the young man die'", cluster: underworld}
+  seer-released-to-tell-what-he-saw: {label: "The god releases the visionary from the netherworld with a commission: may this word lodge like a thorn in your heart, go up and proclaim it", cluster: revelation}
+  dead-king-seen-in-netherworld-vision: {label: "In the netherworld vision the seer is shown the corpse (pagru) of a great king, his own father, conqueror from sunrise to sunset", cluster: underworld}
+  visionary-wakes-eating-dust-crying-woe: {label: "After the vision the seer runs into the street like a man who has shed blood, crying 'woe, my heart!' and putting dust of the street into his mouth", cluster: revelation}
+  scribe-hears-vision-and-reports-to-palace: {label: "A scribe who hears the vision takes it to heart and reports it to the palace as a warning (namburbû) for himself", cluster: revelation}
+  shalmaneser-campaign-against-urartu: {label: "Epic of an Assyrian king's campaign against Urartu: the enemy flees into mountains and forests, cities burned, booty taken, stelae set up on mountain and sea", cluster: war}
+  enemies-flee-to-mountains-and-forests: {label: "Overwhelmed by the king's (or god's) terrifying radiance, the enemy abandons its cities and flees into mountains and forests", cluster: war}
+  royal-image-set-up-on-mountain-and-sea: {label: "The conqueror sets up his image (stele) of power in the mountains and by the sea", cluster: kingship}
+  sufferer-did-not-sin-yet-afflicted: {label: "The sufferer protests that he is afflicted though he did not sin or act wrongly toward his god", cluster: lament}
+  sufferer-old-before-his-time: {label: "The sufferer complains that old age overtook him before his time and lifted him onto his bed", cluster: lament}
+  sufferer-reduced-to-begging-from-slaves: {label: "The sufferer, made small, stretches his hands toward the poor and prays even to slave and slave-girl", cluster: lament}
+  abundance-for-others-poison-for-me: {label: "Lament: on the people the god rains abundance; on me he rains poison and gall", cluster: lament}
+  sufferer-at-gate-of-death: {label: "The sufferer has reached the gate of death (abul mūti) and asks the god: why have you abandoned me?", cluster: lament}
+  do-not-shame-me-in-assembly-of-gloaters: {label: "The sufferer begs the god not to abandon him or shame him before the assembly of those who rejoice at his misfortune", cluster: lament}
+  gods-breath-revives-dead: {label: "By the god's breath (wind) the dead lives again", cluster: life}
+  litany-of-blessing-on-city-and-king: {label: "A litany-like blessing on the god's city and its king: may he enter and enter, oil poured on the head, wool beyond count, bread great and beer flourishing", cluster: blessing}
+  tree-taller-than-others-cut-down: {label: "A speaker likens himself to a fine tree standing tall in the garden, which has now been cut down, so that the father who rejoiced now weeps", cluster: lament}
+  god-held-captive-in-mountain: {label: "The chief god (Bēl/Marduk) is held captive in the 'mountain' or prison house, guarded, and later comes out", cluster: myth}
+  goddess-searches-streets-for-captive-god: {label: "A goddess roams the streets searching for the captive god: 'where is he held?' and goes to the gate of the grave", cluster: myth}
+  criminal-killed-alongside-god: {label: "A criminal (bēl hiṭṭi) is held with the captive god and killed; his head is tied to the goddess's chariot", cluster: myth}
+  son-god-comes-to-ask-after-captive-father: {label: "The son god (Nabû) comes from his city to ask after the welfare of his captive father", cluster: myth}
+  cultic-acts-explained-as-myth: {label: "A cultic commentary explains each ritual act or object of a festival as an episode of a myth ('the X which ... is the Y')", cluster: cult}
+  aššur-existed-before-heaven-and-earth: {label: "Enūma eliš is reinterpreted: before heaven and earth were created, Aššur existed", cluster: creation}
+  tablet-curse-against-erasing-or-showing: {label: "Colophon curse: whoever erases or soaks this tablet, or shows it to one who is not initiated, may the gods curse him", cluster: scribal}
+  curse-flesh-to-dogs-name-and-seed-destroyed: {label: "Curse: may the gods eradicate his name and seed from the land and give his flesh to the mouth of dogs", cluster: treaty}
+  goddess-weeps-for-slain-brother-god: {label: "A goddess weeps and wails for her slain brother god and sees his body, its blood flowing to the earth", cluster: myth}
+  flayed-god-skin-is-constellation: {label: "A defeated god is bound and flayed; his skin is put on a constellation (Orion) and his body handed to the Anunnaki", cluster: cosmology}
+  victor-god-treads-neck-of-enemy: {label: "The victorious god treads on the neck of his insubmissive enemy", cluster: myth}
+  dumuzi-mourned-month-of-tammuz: {label: "Rites of the month Tammuz: day of lamentation, Dumuzi is questioned and goes up, roasted grain cast on him", cluster: cult}
+  body-of-god-made-of-plants: {label: "A god's body parts are equated one by one with plants, trees and substances (tamarisk his tuft, cedar his knee, myrrh his moisture ...)", cluster: cult}
+  secret-of-gods-for-initiate: {label: "Colophon: the secret of the great gods; the knowing may show it to the knowing, the unknowing may not see it, taboo of the great gods", cluster: scribal}
+  goddess-oracle-i-am-ishtar-of-arbela: {label: "Oracle formula of self-presentation: 'I am Ištar of Arbela' (anāku Issār ša Arbail), the goddess speaking in the first person through a prophet", cluster: prophecy}
+  oracle-attributed-to-named-prophet: {label: "An oracle ends with the formula 'from the mouth of' (ša pî) a named prophet or prophetess and his or her home town", cluster: prophecy}
+  enemies-roll-before-kings-feet: {label: "The deity promises: the king's enemies will roll (writhe) or be laid down before his feet", cluster: kingship}
+  goddess-goes-before-and-behind-king: {label: "The goddess promises to go before the king and behind him", cluster: prophecy}
+  god-recalls-former-oracles-fulfilled: {label: "The deity reminds the king that her earlier words proved reliable ('which of my words did you not rely on?') and asks him to trust the present one", cluster: prophecy}
+  gods-at-kings-right-and-left: {label: "Gods stand at the king's right and left (Sîn right, Šamaš left; sixty great gods around him) and gird his loins", cluster: prophecy}
+  do-not-trust-in-man-look-to-me: {label: "Divine command: do not trust in man; lift your eyes and look to me", cluster: prophecy}
+  goddess-as-kings-midwife-and-wet-nurse: {label: "The goddess declares herself the king's great midwife and good wet-nurse", cluster: prophecy}
+  king-son-of-goddess-mullissu: {label: "The king is called the true heir, son of the goddess Mullissu (or Ninlil), whom she loves greatly", cluster: kingship}
+  god-carries-king-like-nurse-on-hip: {label: "The goddess carries the king like a nurse on her hip, puts him between her breasts, keeps watch at night and gives him milk by day", cluster: prophecy}
+  god-shelters-king-under-wings: {label: "The deity hovers over the king like a bird over its young, or raises him between her wings", cluster: prophecy}
+  kings-throne-firm-for-long-days: {label: "The deity promises the king long days and everlasting years and a throne established firm", cluster: kingship}
+  dynasty-promise-sons-grandsons-rule: {label: "The deity promises that the king's son and grandson (and great-grandson) will exercise kingship", cluster: kingship}
+  goddess-hears-lament-of-her-calf: {label: "The goddess hears the lament (ikkillu) of her calf, the king, and comes to his aid", cluster: prophecy}
+  god-hears-cry-from-gate-of-heaven: {label: "The god hears the king's lament and from the gate of heaven sends fire down on the rebels", cluster: prophecy}
+  god-rains-stones-on-enemies: {label: "The god rains (hail)stones of fire on the king's enemies on the mountain and fills the river with their blood", cluster: war}
+  covenant-tablet-of-the-god: {label: "A covenant (adê) tablet of the god is brought into the king's presence with oil, sacrifices and incense, and read before him", cluster: covenant}
+  covenant-water-drunk: {label: "The people are given water from a jar to drink, sealing a covenant ('you will drink this water and remember and keep the oath')", cluster: covenant}
+  god-complains-of-neglected-offerings: {label: "The deity complains that the king has given her nothing: no banquet, no food or cup as in a temple, and demands bread and beer", cluster: cult}
+  rebels-impaled: {label: "Those who rose against the king are seized and impaled on stakes", cluster: war}
+  i-speak-and-act: {label: "The deity declares herself 'the speaker and the doer' (qābītu ēpištu) whose word is carried out", cluster: divine-attributes}
+  god-sees-and-hears-disloyalty: {label: "The deity says: I see and I hear, I search out the disloyal and put them in the king's hand", cluster: prophecy}
+  i-am-your-father-and-mother: {label: "The deity tells the king 'I am your father and your mother; I raised you between my wings'", cluster: prophecy}
+  divine-sailor-holds-ship: {label: "The goddess guides the king like a good sailor who brings the ship to a good quay", cluster: prophecy}
+  divine-puppy-sniffs-out-enemies: {label: "The goddess roams the king's palace like a good puppy, sniffing out his enemies", cluster: prophecy}
+  enemies-lick-dust-or-brought-as-tribute: {label: "The deity promises the king's enemies brought in wooden clamps (neck-stocks) and his allies with tribute before his feet", cluster: kingship}
+  king-dream-vision-golden-star: {label: "In a vision the king or prophet sees a golden star and an offering table with bread", cluster: revelation}
+  god-breaks-enemys-javelin-and-snake: {label: "A god announces 'I have come' and that he cut the snake inside the enemy's javelin, broke the javelin and will crush Elam", cluster: prophecy}
+  goddess-roams-steppe-for-king: {label: "The goddess, longing for the king's life, roams the steppe, crosses rivers and seas and mountains, exhausted and sleepless for him", cluster: prophecy}
+  goddess-pleads-for-king-in-divine-assembly: {label: "The goddess speaks for the king's life and good in the assembly of all the gods", cluster: prophecy}
+  rival-kings-of-lands-conspire: {label: "The kings of the lands say to one another: come, let us go against the king", cluster: kingship}
+  substitute-throne-rite-of-temple: {label: "Ritual record: a new throne or furnishing is brought into the temple; a mistake in procedure is reported to the king", cluster: cult}
+  akitu-procession-of-gods: {label: "In the New Year (akītu) procession the chief god's chariot leaves for the akītu-house, other gods walking before and behind him", cluster: cult}
+  gods-seated-right-and-left-of-chief-god: {label: "Lists of the gods who sit at the chief god's right and left in the festival house", cluster: cult}
+  bath-days-of-gods: {label: "A calendar of the days on which the gods' statues receive their new baths", cluster: cult}
+  god-shouts-like-raging-storm: {label: "The angry god's voice roars over the seer like a raging storm", cluster: theophany}
+units:
+  - id: ane-saa03-032-o-kummaya-prologue
+    tradition: ane-akkadian
+    title: "Underworld Vision of an Assyrian Prince: the king's deeds and Kummaya's prayer (SAA 3 32 obv.)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 032 o:1-34"]
+    tags:
+      - {motif: king-as-good-shepherd-sheep-multiply, refs: ["SAA 03 032 o:27"], note: "fragmentary: rēʾû nišī rabbâti 'shepherd of the numerous people'"}
+      - {motif: prince-incubates-dream-of-netherworld-queen, refs: ["SAA 03 032 o:27-31"], note: "Kummaya māru ... ana Ekurri īrumma 'Kummaya entered the temple'; nignakku burāši iškun 'he set up a censer of juniper'; ana arādi arallî 'to go down to the netherworld'; Allatu Allatu bēltu qaqqari ... arallî"}
+      - {motif: guilt-for-unknowing-sin, refs: ["SAA 03 032 o:29"], note: "interpretive: pî ilāni uqallil u libbi ili ušezziz 'he belittled the word of the gods and angered the god's heart' (the earlier king or the prince)"}
+      - {motif: scribal-colophon, refs: ["SAA 03 032 o:17"], note: "a scribe's son (ana māri ṭupšarri) appears already in the badly broken prologue"}
+    hints:
+      - "The prologue (largely lost) contrasts a pious king and his negligent son; compare 2 Kgs 21 (Hezekiah and Manasseh) and Ps 78:5-8."
+  - id: ane-saa03-032-o-dream-ereshkigal
+    tradition: ane-akkadian
+    title: "Underworld Vision: Ereškigal appears in a dream; Kummaya weeps like a dove (SAA 3 32 obv. 35-40)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 032 o:35-40"]
+    tags:
+      - {motif: prince-incubates-dream-of-netherworld-queen, refs: ["SAA 03 032 o:35"], note: "Ereškigal ina šāt mūši ina šutti izzizamma iqbīšu ... supplīka lušme hišihtaka lukallimka 'Ereškigal stood in a night dream and said: ... let me hear your prayers, let me show you what you desire'"}
+      - {motif: dreamer-wakes-moaning-like-dove, refs: ["SAA 03 032 o:37"], note: "Kummaya iggeltīma kīma summe idmumma"}
+      - {motif: incubation-dream-in-temple, refs: ["SAA 03 032 o:35"]}
+      - {motif: sufferer-weeps-before-his-god, refs: ["SAA 03 032 o:38"], note: "išnīma išši qātēšu usappi ana Ereškigal ... illakā dimāšu 'again he raised his hands, prayed to Ereškigal before Nergal; his tears flowed'"}
+    hints:
+      - "Moaning like a dove: compare Isa 38:14 (Hezekiah 'I moan like a dove') and Isa 59:11, Nah 2:7."
+  - id: ane-saa03-032-r-vision-of-netherworld-gods
+    tradition: ane-akkadian
+    title: "Underworld Vision: the fifteen hybrid gods of the netherworld (SAA 3 32 rev. 1-10)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 032 r:1-10"]
+    tags:
+      - {motif: vision-of-hybrid-netherworld-gods, refs: ["SAA 03 032 r:2-9"], note: "Namtar sukkal erṣeti ... Namtartu with head of a kurību, Mūtu (Death) with head of a mušhuššu dragon, evil šēdu, Alluhappu with lion's head and four hands, ghost (eṭemmu) with ox head, utukku with lion head, Mamītu with goat head ...; NIGIN 15 ilāni uzzuzzū 'in all 15 gods stood' (r:9)"}
+      - {motif: death-personified-driven-to-netherworld, refs: ["SAA 03 032 r:3"], note: "Death personified: dMūtu qaqqad mušhuššī šakin 'Death has the head of a serpent-dragon'"}
+      - {motif: named-demons-beset-mankind, refs: ["SAA 03 032 r:6-7"], note: "eṭemmu, utukku lemnu, Mamītu, Nedu the gatekeeper, 'mimma lemnu' (Anything Evil) with two heads"}
+      - {motif: black-man-with-anzu-face-in-red-garment, refs: ["SAA 03 032 r:10"], note: "ištēn eṭlu zumuršu kīma iṭṭê ṣalim ... pānūšu mašlū nahlapti sāmti labiš ... ina šēp šumēli ṣēra ukabbis"}
+    hints:
+      - "Composite beings of a vision: compare Ezek 1:5-14 (four-faced creatures) and Dan 7:3-8 (beasts from the sea); the man treading a snake recalls Gen 3:15 and Ps 91:13."
+  - id: ane-saa03-032-r-nergal-judgment
+    tradition: ane-akkadian
+    title: "Underworld Vision: before Nergal's throne; Išum intercedes; the prince is sent back (SAA 3 32 rev. 11-21)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 032 r:11-21"]
+    tags:
+      - {motif: netherworld-king-enthroned-lightning-flashing, refs: ["SAA 03 032 r:11-12"], note: "qarrādu Nergal ina kussî šarrūti ašib agû šarrūti apir ... 2 miṭṭī ezzūti ṣabit ... berqu ibarriq Anunnaki ilāni rabûti imna šumēla kamsū"}
+      - {motif: divine-council-scene, refs: ["SAA 03 032 r:12"], note: "the Anunnaki kneel to his right and left"}
+      - {motif: seer-seized-by-forelock-brought-before-god, refs: ["SAA 03 032 r:13"], note: "ina abūsātiya iṣbatannīma ana mahrišu uqarribanni"}
+      - {motif: prophet-lifted-by-lock-of-hair, refs: ["SAA 03 032 r:13"]}
+      - {motif: seer-kisses-feet-of-terrifying-god, refs: ["SAA 03 032 r:14"], note: "itarrurā išdāya melammūšu ezzūti ishupūni šēpē ilūtišu rabīti aššiqma akmis"}
+      - {motif: prophet-convulsed-by-vision, refs: ["SAA 03 032 r:13-14"], note: "arallû malî puluhtu ... šiššu dannu 'the netherworld was full of terror, deep silence'"}
+      - {motif: divine-counsellor-intercedes-let-young-man-live, refs: ["SAA 03 032 r:16"], note: "Išum mālikšu ... ēṭir napišti rāʾim kīnāti ... iqtabi eṭlu lā tušmāta 'Išum, his counsellor, saviour of life, said: do not kill the young man'"}
+      - {motif: god-shouts-like-raging-storm, refs: ["SAA 03 032 r:15"], note: "kīma ūme šegî ezziš eliya išassi 'like a raging storm he shouted at me furiously'"}
+      - {motif: seer-released-to-tell-what-he-saw, refs: ["SAA 03 032 r:19-21"], note: "Bibbu ... ana Lugalsula atî lipqidkama bāb Ištar Aya ušeṣṣika 'may Bibbu entrust you to the gatekeeper and let you out through the gate'; lā tamtašīma 'do not forget me'"}
+    hints:
+      - "Taken by the forelock and carried before God: Ezek 8:3; seer falling at the feet of a terrifying figure: Dan 10:5-10, Rev 1:17, Isa 6:5. Interceding angel: Zech 3:1-5."
+      - "Compare Q 96:15-16 (seized by the forelock, nāṣiya) and Q 55:41."
+  - id: ane-saa03-032-r-dead-king-and-return
+    tradition: ane-akkadian
+    title: "Underworld Vision: the dead king, Nergal's warning, the prince's terror and the scribe's report (SAA 3 32 rev. 22-35)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 032 r:22-35"]
+    tags:
+      - {motif: dead-king-seen-in-netherworld-vision, refs: ["SAA 03 032 r:22-23"], note: "pagru annû ša ina erṣeti temru ša rēʾê šitrāhi ša abiya ... šarru ša ultu ṣīt šamši adi ereb šamši ... ibēlu gimru"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 03 032 r:23"]}
+      - {motif: guilt-for-unknowing-sin, refs: ["SAA 03 032 r:26-27"], note: "interpretive: the son 'ate the taboo (asakku īkula), trod on the forbidden (anzilla ukabbisa)', closing his ears to his father's words"}
+      - {motif: seer-released-to-tell-what-he-saw, refs: ["SAA 03 032 r:28"], note: "amātu annītu kī giṣṣi ina libbikunu lū nadât atlak ana elâti 'let this word be placed in your heart like a thorn; go up!'"}
+      - {motif: visionary-wakes-eating-dust-crying-woe, refs: ["SAA 03 032 r:29-31"], note: "agaltīma kīma eṭli tābik dāmē ... ūʾa libbī iqabbi ina sūqi šiltāhiš ūṣīma epri sūqi rebīti ana pîšu usap"}
+      - {motif: scribe-hears-vision-and-reports-to-palace, refs: ["SAA 03 032 r:33-35"], note: "šū ṭupšarru ... ina manzalti abišu izzizu ... aššu adê ana lemutti ay iṭhûni ... illikma ana ekalli ušanni mā annû lū namburbîya"}
+      - {motif: woke-and-it-was-a-dream, refs: ["SAA 03 032 r:29"]}
+    hints:
+      - "Dust in the mouth in grief: Lam 3:29, Josh 7:6, Job 2:12. A king's son warned through a vision of his father's judgment: compare 1 Sam 28:15-19 (Samuel brought up) and Q 2:260."
+  - id: ane-saa03-017-shalmaneser-urartu
+    tradition: ane-akkadian
+    title: "Epic of Shalmaneser III's campaign against Urartu (SAA 3 17)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 017 o:1-32", "SAA 03 017 r:1-33"]
+    tags:
+      - {motif: shalmaneser-campaign-against-urartu, refs: ["SAA 03 017 o:14", "SAA 03 017 r:6-25"], note: "lullik ša Urarṭaya lūmur qarabšunu 'let me go and see the battle of the Urartians'"}
+      - {motif: god-goes-before-king-in-battle-aid, refs: ["SAA 03 017 o:25", "SAA 03 017 o:29"], note: "Aššur utakkilanni 'Aššur made me trust'; Nergal ina pānika lillik Girra ... 'may Nergal go before you, Girra ...'"}
+      - {motif: enemies-flee-to-mountains-and-forests, refs: ["SAA 03 017 r:11-13"], note: "melammē ša bēl kibrāti itūqut ina muhhišunu ēzibū ālānišunu ina šadê u qišāti ētarbū"}
+      - {motif: royal-image-set-up-on-mountain-and-sea, refs: ["SAA 03 017 r:22"], note: "ṣalmāni kiššūtiya ina šadê u tâmte ukīn"}
+      - {motif: dominion-from-sunrise-to-sunset, refs: ["SAA 03 017 o:13"], note: "loosely: malkū ša Hatti ina šēpēya ušakniš 'I made the princes of Hatti bow at my feet'"}
+      - {motif: enemy-fields-and-orchards-made-wilderness, refs: ["SAA 03 017 r:19-21"], note: "dadmēšu ina libbi išāti assarap ... iṣē nizmat āl šarrūtišu ina libbi išāti assarap 'I burned his villages ... the trees, the delight of his royal city, I burned'"}
+      - {motif: king-rules-by-cult-duties, refs: ["SAA 03 017 r:26-31"], note: "the king returns and enters before Ištar for the festival of the Lady of Arbela at Milqia, kills a lion, prays"}
+    hints:
+      - "Enemies fleeing to mountains and forests before the king's terror: compare Isa 2:19-21 and Judg 6:2; burning of the enemy's trees: Deut 20:19-20."
+  - id: ane-saa03-012-sufferer-to-nabu
+    tradition: ane-akkadian
+    title: "A righteous sufferer's prayer to Nabû (SAA 3 12)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 012 o:1-23", "SAA 03 012 r:1-19"]
+    tags:
+      - {motif: sufferer-did-not-sin-yet-afflicted, refs: ["SAA 03 012 o:4"], note: "Nabû ina lā hīṭiya mār Bēl ina lā šērtiya 'Nabû, without my error, son of Bēl, without my guilt'"}
+      - {motif: sufferer-old-before-his-time, refs: ["SAA 03 012 o:11-12"], note: "šībūte ina lā simāniya tussēlanni ina eršu"}
+      - {motif: sufferer-weeps-before-his-god, refs: ["SAA 03 012 o:14"], note: "abakki ina napištiya lā āmurra dumuqša"}
+      - {motif: sufferer-reduced-to-begging-from-slaves, refs: ["SAA 03 012 o:15-17"], note: "aṣṣahir ana ṣehrūti ... ana lappani šēʾi bābiya tarrṣā qātāya ussarrir ana ardi u amti"}
+      - {motif: bewitched-food-and-drink-given, refs: ["SAA 03 012 o:18", "SAA 03 012 r:18"], note: "kaššaptu ... mê tarmuk 'the sorceress bathed (me) in water'; kišpīšina mê irmukā"}
+      - {motif: abundance-for-others-poison-for-me, refs: ["SAA 03 012 r:7-8"], note: "ana nišī izannunu nuhša ana yâši izannunu imtu u martu"}
+      - {motif: sufferer-at-gate-of-death, refs: ["SAA 03 012 r:10-11"], note: "aktalda ana abul mūti Nabû ammīni tumašširanni lā tumaššaranni bēlī"}
+      - {motif: do-not-shame-me-in-assembly-of-gloaters, refs: ["SAA 03 012 r:11-13"], note: "ana puhri ša haddânūa mādu ... lā tubâšanni ina puhri"}
+      - {motif: gods-breath-revives-dead, refs: ["SAA 03 012 r:5", "SAA 03 012 r:19"], note: "alê šārka ṭābu 'where is your sweet breath?'; ina šārika mītu libluṭ 'by your breath may the dead live'"}
+      - {motif: theodicy-the-lord-is-righteous, refs: ["SAA 03 012 r:14"], note: "contrast: nāṣir kitti anāku 'I am a keeper of truth; do not let the truth I kept be lost'"}
+    hints:
+      - "Compare Job 30:9-26 and Ps 88:4-7 (at the gates of death), Ps 69:22 (gall and vinegar) and Lam 3:15; Ps 22:7-8 and Ps 35:19-26 (do not let those who rejoice at my calamity gloat). 'By your breath may the dead live': Ezek 37:9, Ps 104:29-30."
+      - "Compare Q 21:83 (Job: 'harm has touched me and You are the most merciful')."
+  - id: ane-saa03-010-blessing-assur-esarhaddon
+    tradition: ane-akkadian
+    title: "Cultic song of blessing on the Inner City (Assur) and Esarhaddon (SAA 3 10)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 010 o:1-34", "SAA 03 010 r:1'-18'"]
+    tags:
+      - {motif: litany-of-blessing-on-city-and-king, refs: ["SAA 03 010 o:14-21"], note: "ikrib hengalli Aššur-ahu-iddina balāṭa lūtir ... lērubū lērubū hadû kayyānu šamnu ina gulgullê tabbika šīpātu ana lā manê šubbiša"}
+      - {motif: table-prepared-before-enemies, refs: ["SAA 03 010 o:17"], note: "oil poured on the skull: šamnu ina gulgullê tabbika"}
+      - {motif: prayer-for-kings-long-life, refs: ["SAA 03 010 o:14"]}
+      - {motif: blessing-good-dream-lying-down-good-omen-rising, refs: ["SAA 03 010 r:2'-7'"], note: "litany: ana mātātišu ikarrabū, ana mārēšu ikarrabū, ana perʾēšu ikarrabū ... 'they bless his lands, his sons, his offspring, the scholars, the city elders'"}
+      - {motif: colophon-copied-and-collated, refs: ["SAA 03 010 r:15'-18'"], note: "kīma labirišu šaṭir bari; written by Mutaqqin-Aššur, junior apprentice"}
+    hints:
+      - "Oil on the head and blessing on city and king: Ps 133:2, Ps 23:5, Ps 128:5-6 and Ps 72:15-17."
+  - id: ane-saa03-016-lyric-tree-cut
+    tradition: ane-akkadian
+    title: "Lyric lament: the sorcerer-merchant of Babylon and the felled tree (SAA 3 16)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 016 o:1-30", "SAA 03 016 r:1-29", "SAA 03 016 e:1-2"]
+    tags:
+      - {motif: tree-taller-than-others-cut-down, refs: ["SAA 03 016 r:14-22"], note: "anāku ina kirî kī iṣi damqi ēlaku ... kī ašūhi ēlaku ... ēmuranni ihaddi abūa ... ūmâ ittaksuni ... ēmuranni ibakki abūa"}
+      - {motif: great-tree-felled-for-pride, refs: ["SAA 03 016 r:19"], note: "ūmâ ittaksūni 'now they have cut me'"}
+      - {motif: lament-refrain-repeated, refs: ["SAA 03 016 o:1-6"], note: "repeated couplet: muppišu tamkāru Babilaya ... kalbu dâku 'the sorcerer, the Babylonian merchant ... killed the dog'"}
+      - {motif: shepherd-farmer-gardener-killed, refs: ["SAA 03 016 o:17-21"], note: "rēʾû ina muhhi ṣēni dâku ikkaru ina muhhi epinni nukaribbu ina kirî dâku ... bakkāni ṣarpiš ana nukaribbi nibki"}
+      - {motif: daughter-of-humbaba-cedar-forest, refs: ["SAA 03 016 r:24"], note: "mārat Humbi ... dannat qišti erēni"}
+    hints:
+      - "The tree that stood tall in the garden and is cut down: Ezek 31:3-14, Dan 4:10-14, Isa 10:33-34."
+  - id: ane-saa03-050-royal-epic-fragment
+    tradition: ane-akkadian
+    title: "Fragment of a Middle Assyrian royal epic: the Ahlamû and Naʾid-Šihu (SAA 3 50)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 050 o:21-29"]
+    tags:
+      - {motif: drunken-enemy-surprised, refs: ["SAA 03 050 o:24"], note: "ikkalū karāna issatû adi šakarti 'they eat, they drink wine to drunkenness'"}
+      - {motif: king-weeps-in-chariot, refs: ["SAA 03 050 o:28"], note: "ša šarru ina narkabtišu dimta imtala īnāšu 'the king in his chariot: his eyes filled with tears'"}
+      - {motif: nomads-plunder, refs: ["SAA 03 050 o:21"], note: "Ahlamât ahtabat 'I plundered the Ahlamû (Aramaeans)'"}
+    hints:
+      - "Enemies feasting and drunk before defeat: 1 Sam 30:16, 1 Kgs 20:16; Aramaean nomads (Ahlamû) as raiders: Gen 31:20-24 (Laban the Aramaean)."
+  - id: ane-q009249-mystical-cult-commentary
+    tradition: ane-akkadian
+    title: "Mystical cultic commentary: Ištar weeps for her brother, the flayed god, Orion, Dumuzi (Q009249, SAA 3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["Q009249 o:1-63", "Q009249 r:1-20"]
+    tags:
+      - {motif: cultic-acts-explained-as-myth, refs: ["Q009249 o:2-12", "Q009249 o:34-44"], note: "parṣū ša ina Egašankalamma inneppušū 'the rites performed in Egašankalamma (Arbela)'; each act glossed by 'kī' + a mythic event"}
+      - {motif: goddess-weeps-for-slain-brother-god, refs: ["Q009249 o:4-7"], note: "Ištar bikītu ana Ištaran ahiša kī tabki ... pagra ša Ištaran īmurma dāmu ana qaqqari urrad"}
+      - {motif: sister-grieves-for-dying-god, refs: ["Q009249 o:5-6"]}
+      - {motif: victor-god-treads-neck-of-enemy, refs: ["Q009249 o:10-11", "Q009249 o:41-42"], note: "Bēl kišād ayyābišu lā māgirišu kī ukabbasu"}
+      - {motif: flayed-god-skin-is-constellation, refs: ["Q009249 o:18-27"], note: "Anu ikmû maškšu ... pagaršu ana Anunnaki ipqid ... maškšu kī ikūṣu Šitaddaru dāmšu kī ulabbišu ... Bēl Šitaddaru ikmīma 'Bēl bound Orion'"}
+      - {motif: god-taken-captive-in-fetters, refs: ["Q009249 o:18-20"], note: "Anu bound (kamû), dragged off; ittikunūma kamî Anum"}
+      - {motif: anzu-defeated-by-warrior-god, refs: ["Q009249 o:13"], note: "Nabû šū ša Anzâ inārū 'it is Nabû who killed Anzû'"}
+      - {motif: dumuzi-mourned-month-of-tammuz, refs: ["Q009249 r:4-8"], note: "UD 26 ūm ikkili ... UD 28 Dumuzi iššaʾʾali iššaʾʾali ... qalītu ša ina muhhi Dumuzi innaddû"}
+      - {motif: body-of-god-made-of-plants, refs: ["Q009249 r:9-17"], note: "ša Karkar: dišpu šarkašu, bīnu qimmassu, šurmēnu lānšu ... erēnu birkāšu ... murru nīlšu, šurānu dāmūšu"}
+      - {motif: secret-of-gods-for-initiate, refs: ["Q009249 r:20"], note: "pirišti ilāni rabûti mūdû mūdâ likallim lā mūdû lā immar ikkib ilāni rabûti"}
+      - {motif: children-hidden-from-killer, refs: ["Q009249 o:28-31"], note: "the heir taken by his father and mother and hidden between the breasts of the goddesses (ina birīt tulê ša ištarāti ušarqûšu)"}
+    hints:
+      - "Bound Orion: Job 38:31 ('can you loose the cords of Orion?', kesil) and Amos 5:8. Treading the neck of enemies: Josh 10:24, Ps 110:1. Weeping for Tammuz: Ezek 8:14. Parched grain cast on Dumuzi: compare Lev 2:14 and Lev 23:14."
+      - "A child hidden from a killer: Exod 2:2-3, 2 Kgs 11:2-3 (Joash hidden)."
+  - id: ane-saa03-034-marduk-ordeal-captivity
+    tradition: ane-akkadian
+    title: "The Marduk Ordeal: Bēl held captive, sought by the goddess, the criminal killed with him (SAA 3 34, obv. 1-33)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 034 o:1-33"]
+    tags:
+      - {motif: cultic-acts-explained-as-myth, refs: ["SAA 03 034 o:1-33"], note: "each clause: 'X ša ... šū' 'the X which ... is ...'"}
+      - {motif: god-held-captive-in-mountain, refs: ["SAA 03 034 o:1", "SAA 03 034 o:6-7", "SAA 03 034 o:12"], note: "Bēl šū ina bīt ṣabte šūtu kali 'Bēl is held in the prison house'; ana hursān illak 'he goes to the ordeal river (mountain)'; guards are set over him"}
+      - {motif: son-god-comes-to-ask-after-captive-father, refs: ["SAA 03 034 o:8"], note: "Nabû ša ištu Barsip illakanni ana šulme ša abišu ša ṣabtuni šū illaka"}
+      - {motif: goddess-searches-streets-for-captive-god, refs: ["SAA 03 034 o:9-11"], note: "Bēlet-ilī ša ina sūqāqāte idulluni Bēl ubaʾʾa mā ayyaka ṣabit ... bāb qubūrāti šū tallak tubaʾʾāšu"}
+      - {motif: zarpanitu-prays-for-life-of-captive-god, refs: ["SAA 03 034 o:10"], note: "Zarpanītu ša qātāša ṭarṣāni ana Sîn Šamaš tuṣalla mā Bēl balliṭa"}
+      - {motif: criminal-killed-alongside-god, refs: ["SAA 03 034 o:17", "SAA 03 034 o:20-21", "SAA 03 034 o:25-26"], note: "lā bēl hiṭṭi bēl hiṭṭi anāku ... qaqqadu ša bēl hiṭṭi ša issišu izzizūni ... ina labiāni ša Bēlet-Bābili eʾʾalū"}
+      - {motif: god-garment-blood-stained, refs: ["SAA 03 034 o:15"], note: "mihṣī ša mahhuṣūni šunu ina dāmēšu ṣarpu 'the blows with which he was beaten, dyed in his blood' (red wool)"}
+      - {motif: ecstatic-weeps-going-to-goddess, refs: ["SAA 03 034 o:28-29"], note: "mahhû ša ina pāni Bēlet-Bābili illakūni mubassiru šū ana irtiša ibakki illak mā ana hursān ubbulūšu ... mā ahūa ahūa"}
+      - {motif: god-escapes-from-tomb-or-ziggurat, refs: ["SAA 03 034 o:13-14"], note: "ša ina siqqurrati epišūni akī ilāni ēsirūšūni ihtiliq ina libbi ētali ... ištu libbi usseridūniššu"}
+      - {motif: milk-before-ishtar-of-nineveh-because-she-raised-him, refs: ["SAA 03 034 o:33"], note: "šizbu ša ina pāni Ištar ša Ninua ihallibūni nēmel šī turabbûšuni rēmu ukallimšūni"}
+    hints:
+      - "A god held prisoner, sought by a woman in the streets: Song 3:1-3; a criminal executed together with him: Isa 53:12 and Luke 23:32-33; blood-dyed garment: Isa 63:1-3. Son coming to his captive father: compare Gen 37:14."
+  - id: ane-saa03-034-marduk-ordeal-release
+    tradition: ane-akkadian
+    title: "The Marduk Ordeal: Enūma eliš recited, Aššur before heaven and earth, Anzû defeated, the god freed; curse (SAA 3 34, obv. 34-76)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["SAA 03 034 o:34-76"]
+    tags:
+      - {motif: aššur-existed-before-heaven-and-earth, refs: ["SAA 03 034 o:54-55"], note: "šū ina libbi Enūma eliš iqṭibi kī šamû erṣetu lā ibbanûni Anšar ittabši kī ālu u bītu ibšûni šū ittabši"}
+      - {motif: wisdom-born-before-creation, refs: ["SAA 03 034 o:54"]}
+      - {motif: enuma-elish-recited-at-new-year, refs: ["SAA 03 034 o:34"], note: "Enūma eliš ša dabbibūni ina pāni Bēl ina Nisanni izammurūšūni ina muhhi ša ṣabtūni šū"}
+      - {motif: captive-god-prays-asks-what-is-my-sin, refs: ["SAA 03 034 o:35-37"], note: "ina pāni Šamaš ... mā damqāte ša Aššur šina ētapaš mā mīnu hiṭāya ... ana Sîn Šamaš uṣalla mā ballitāni"}
+      - {motif: anzu-defeated-by-warrior-god, refs: ["SAA 03 034 o:58-60"], note: "Aššur Ninurta ina muhhi kašādi ša Anzê išpurūni ... mā Anzû kašid ... ana Kakka ṭēmu issakan mā alik ana ilāni gabbu passir"}
+      - {motif: victory-news-brings-joy-to-gods, refs: ["SAA 03 034 o:60"]}
+      - {motif: god-held-captive-in-mountain, refs: ["SAA 03 034 o:38", "SAA 03 034 o:68-69"], note: "ša ištu libbi hursān illikūni; daltu ... ilāni ēsirūšu ina bīti ētarba daltu ina pānišu ētedil ... hurrāte ina libbi dalti uptallišu qarābu ina libbi uppušu"}
+      - {motif: chariot-without-its-lord, refs: ["SAA 03 034 o:66"], note: "narkabtu ... bēlša laššu 'its lord is not there' (it goes empty)"}
+      - {motif: wailing-woman-circles-city, refs: ["SAA 03 034 o:67"], note: "Sakkukūtu ... bākītu šī ištu āli talabbi"}
+      - {motif: tablet-curse-against-erasing-or-showing, refs: ["SAA 03 034 o:70-71"], note: "mannu ša ṭuppu anniu emarraqūni lū ina mê ikarrarūni ... ana ša lā udûni lā ušašmûni"}
+      - {motif: curse-flesh-to-dogs-name-and-seed-destroyed, refs: ["SAA 03 034 o:75-76"], note: "arrat lā napšuri ... šumšu zēršu ina māti lišēlû šīrēšu ina pî ša kalbi liškunū"}
+      - {motif: dynasty-dead-eaten-by-dogs-and-birds, refs: ["SAA 03 034 o:76"]}
+    hints:
+      - "Before heaven and earth: Prov 8:22-26, Ps 90:2. Name and seed cut off, flesh to dogs: 1 Kgs 14:10-11, 2 Kgs 9:36, Ps 109:13. Curse on altering a text: Deut 4:2, Rev 22:18-19."
