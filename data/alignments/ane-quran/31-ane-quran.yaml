@@ -1,0 +1,1238 @@
+# ANE x Quran side-by-side pass, chunk 31 (Hittite: CTH 404-418 and 757 rituals; Northwest Semitic inscriptions: Arad, Elephantine, KAI Phoenician, Moabite, Aramaic and Hebrew, Ketef Hinnom, Khirbet el-Qom, Kuntillet Ajrud). Judged blind, from the originals.
+new_motifs:
+  deed-disclaimed-and-ascribed-to-another:
+    label: 'A speaker denies having done the deed himself and ascribes it to a higher agent: ''not I (we) did it, but X did it'''
+    cluster: deity
+  iron-brought-down-from-heaven:
+    label: Iron is said to have been brought or sent down from heaven
+    cluster: creation
+  bird-sent-out-returns-with-report:
+    label: A bird at a ruler's command goes out to a far place, looks, and comes back to report what it saw there
+    cluster: animals
+  tree-rooted-below-branching-above-likened-to-words:
+    label: A tree with roots below and shoots or branches above, ever bearing, is the likeness for words (or persons) that endure
+    cluster: nature
+  sacred-place-admits-no-other-god:
+    label: 'A sanctuary or place of worship belongs to one deity: no other god is to be admitted or invoked there'
+    cluster: cult
+  locusts-and-lice-sent-as-punishment:
+    label: Locusts and lice (ʾrbh, qml / jarād, qummal) are sent on a land as punishment
+    cluster: judgment
+  dwelling-turned-upside-down:
+    label: A dwelling or town is overturned so that its top and bottom are exchanged
+    cluster: judgment
+  mountains-crushed-when-god-appears:
+    label: When God shines forth or appears, the mountains are crushed (d-k-k)
+    cluster: deity
+  orphan-and-who-cares-for-him:
+    label: A speaker or addressee is an orphan; who (if anyone) cares for him [shared matter]
+    cluster: family
+  god-sends-foreign-oppressor-on-own-people-then-restores:
+    label: Because of his people's offence their own god lets a foreign power oppress them for a time, and later gives the land (or the upper hand) back
+    cluster: history
+  divine-command-to-go-and-take-a-land:
+    label: God commands a leader or people to go and take a city or land [shared matter]
+    cluster: history
+  marrying-a-slave-woman-with-her-owners-consent:
+    label: A man marries a slave woman by leave of her owner and with a payment
+    cluster: law
+  payment-when-a-marriage-is-dissolved:
+    label: What is paid, kept or given back when a marriage is dissolved, and by whom [shared matter]
+    cluster: law
+  night-evil-set-against-daybreak:
+    label: Protection against beings or evil of the night, invoked with the coming of dawn
+    cluster: magic
+  harmful-eye:
+    label: The eye (gaze) as a harmful force against a person
+    cluster: magic
+  fear-not-i-am-with-you:
+    label: God tells the threatened one 'do not fear, I am with you' (and will deliver you)
+    cluster: deity
+  besieged-appeal-to-god-and-are-answered:
+    label: Hard pressed by a superior enemy, a leader or army calls on God and God answers
+    cluster: deity
+  whatever-was-asked-was-given:
+    label: '''Whatever I (you) asked, God (the gods) gave'''
+    cluster: deity
+  stretching-out-the-hand-to-kill-a-kinsman:
+    label: Stretching out the hand to kill a kinsman or brother
+    cluster: family
+  lowly-substance-of-mortal-man:
+    label: Man described by the lowly bodily substance he is made of [shared matter]
+    cluster: creation
+reviewed:
+- unit: ane-cth-404-1-1-mashtigga-vessels-salamander-carrier
+  checked:
+  - quran-37-sacrifice-of-son
+  - quran-53-najm-goddesses-and-scrolls
+  - quran-2-the-cow
+  - quran-37-hell-and-garden
+  matches: []
+- unit: ane-cth-404-1-1-mashtigga-fire-vessels-seal
+  checked:
+  - quran-21-abraham-idols-fire
+  - quran-18-companions-of-the-cave
+  - quran-5-ablution-covenant-justice
+  - quran-37-hell-and-garden
+  matches: []
+- unit: ane-cth-404-1-2-mashtigga-version-ii-a
+  checked:
+  - quran-37-sacrifice-of-son
+  - quran-6-pagan-offerings-cattle
+  - quran-2-food-piety
+  - quran-37-hell-and-garden
+  matches: []
+- unit: ane-cth-404-1-2-mashtigga-version-ii-b
+  checked:
+  - quran-18-companions-of-the-cave
+  - quran-5-ablution-covenant-justice
+  - quran-37-hell-and-garden
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-cth-404-1-3-mashtigga-version-iii
+  checked:
+  - quran-5-ablution-covenant-justice
+  - quran-37-hell-and-garden
+  - quran-20-moses-call
+  matches: []
+- unit: ane-cth-406-1-paskuwatti-gate-spindle-bow
+  checked:
+  - quran-42-shura-judgment-and-divine-speech
+  - quran-3-imran-mary-zechariah
+  - quran-2-war-pilgrimage
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-cth-406-2-paskuwatti-invocation-uliliyassi
+  checked:
+  - quran-32-sajda
+  - quran-80-frowned
+  - quran-7-single-soul-idols
+  - quran-16-daughters-and-the-bee
+  matches:
+  - with: quran-32-sajda
+    motif: lowly-substance-of-mortal-man
+    refs:
+    - CTH 406 §6:36
+    with_refs:
+    - '32:8'
+    relation: divergence
+    record:
+      agent:
+      - the mortal man
+      - his progeny
+      object:
+      - excrement and urine
+      - a despised fluid
+      quoted:
+      - tandukešnaš DUMU-aš šaknaš šeḫunaš
+      - min sulālatin min māʾin mahīnin
+    note: '§6:36 kāš tandukešnaš DUMU-aš šaknaš šeḫunaš, ''this mortal is of excrement and urine''; 32:8 thumma jaʿala naslahu min sulālatin min māʾin mahīnin, ''then he made his progeny from an extract of a despised fluid''. The same move, naming man by the base bodily substance he is made of; the substance differs: excrement and urine against semen (māʾ mahīn).'
+- unit: ane-cth-406-3-paskuwatti-incubation-dream
+  checked:
+  - quran-21-abraham-idols-fire
+  - quran-7-idol-request
+  - quran-71-noah
+  - quran-72-jinn
+  matches: []
+- unit: ane-cth-407-pulisa-plague-substitutes
+  checked:
+  - quran-7-moses-pharaoh
+  - quran-37-sacrifice-of-son
+  - quran-6-final-reckoning
+  - quran-40-throne-bearers
+  matches: []
+- unit: ane-cth-410-uhhamuwa-wreathed-ram
+  checked:
+  - quran-5-contracts-food-laws
+  - quran-22-abraham-house-pilgrimage
+  - quran-3-badr-uhud
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  matches: []
+- unit: ane-cth-411-uruwanda-slander-tongue
+  checked:
+  - quran-24-ifk-slander
+  - quran-49-hujurat-etiquette-and-brotherhood
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-102-104-rivalry-time-slanderer
+  matches: []
+- unit: ane-cth-413-1-foundation-deposits
+  checked:
+  - quran-2-abraham-kaaba
+  - quran-9-forerunners-dirar
+  - quran-57-hadid-iron-and-monasticism
+  - quran-8-badr-help
+  matches:
+  - with: quran-8-badr-help
+    motif: deed-disclaimed-and-ascribed-to-another
+    refs:
+    - CTH 413.1 §7:30
+    - CTH 413.1 §7:31
+    with_refs:
+    - '8:17'
+    relation: echo
+    record:
+      agent:
+      - the builders
+      - the believers; the Prophet
+      action:
+      - deny having built the temple
+      - are told they did not kill, he did not throw
+      name:
+      - all the gods
+      - God
+      quoted:
+      - UL anzāš uetummen, DINGIR.MEŠ=wa=rat ḫūmanteš ueter
+      - fa-lam taqtulūhum wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā
+    note: '§7:30-31 nu-wa-ra-at Ú-UL an-za-a-aš ú-e-tum-me-en / DINGIR{MEŠ}-wa-ra-at ḫu-u-ma-an-te-eš ú-e-te-er, ''not we built it; all the gods built it''; 8:17 fa-lam taqtulūhum wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā, ''you did not kill them, God killed them; you did not throw when you threw, God threw''. The same two-part formula: the human doers deny the deed they plainly did and ascribe it to the divine. The deed differs: building a temple, killing and throwing at Badr; and the gods (plural) against God.'
+  - with: quran-57-hadid-iron-and-monasticism
+    motif: iron-brought-down-from-heaven
+    refs:
+    - CTH 413.1 §9:44
+    with_refs:
+    - '57:25'
+    relation: echo
+    record:
+      object:
+      - black iron
+      - iron
+      action:
+      - is brought from heaven
+      - is sent down
+      quoted:
+      - AN.BAR GE₆ nepišaš nepišaz uter
+      - wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun
+    note: §9:44 AN.BAR GE₆ ne-pí-ša-aš ne-pí-ša-az ú-te-er, 'black iron of heaven they brought from heaven' (meteoric iron) among the temple's materials, each from its land; 57:25 wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun wa-manāfiʿu li-n-nās, 'and we sent down iron, in which is great might and uses for people'. Of all the metals only iron is said to come down from above, in both.
+- unit: ane-cth-413-1-pegs-models-under-hearth-and-door
+  checked:
+  - quran-34-david-solomon
+  - quran-9-forerunners-dirar
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-52-tur-oaths-and-judgment
+  matches: []
+- unit: ane-cth-413-2-azu-priest-bow-oath
+  checked:
+  - quran-16-parables-and-justice
+  - quran-5-oaths-wine-game
+  - quran-22-abraham-house-pilgrimage
+  - quran-74-cloaked
+  matches: []
+- unit: ane-cth-413-3-azu-priest-gods-seven-oaths
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-21-against-other-gods
+  - quran-16-parables-and-justice
+  - quran-3-abraham-people-of-book
+  matches: []
+- unit: ane-cth-413-4-building-fragment
+  checked:
+  - quran-3-food-bakka
+  - quran-26-hud-ad
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-cth-414-1-1-plaster-long-years
+  checked:
+  - quran-2-abraham-kaaba
+  - quran-9-forerunners-dirar
+  - quran-79-pharaoh-and-cosmos
+  - quran-10-opening-creation
+  matches: []
+- unit: ane-cth-414-1-3-king-throne-timber
+  checked:
+  - quran-3-sovereignty
+  - quran-2-talut-jalut
+  - quran-34-david-solomon
+  - quran-27-solomon-ants-hoopoe-sheba
+  matches: []
+- unit: ane-cth-414-1-15-eagle-spinners-renewal
+  checked:
+  - quran-35-originator
+  - quran-7-children-of-adam
+  - quran-3-badr-uhud
+  - quran-36-trumpet-and-judgment
+  - quran-27-solomon-ants-hoopoe-sheba
+  matches:
+  - with: quran-27-solomon-ants-hoopoe-sheba
+    motif: bird-sent-out-returns-with-report
+    refs:
+    - CTH 414.1 §15:67
+    - CTH 414.1 §15:70
+    - CTH 414.1 §16:73
+    - CTH 414.1 §16:74
+    - CTH 414.1 §17:76
+    - CTH 414.1 §17:78
+    with_refs:
+    - '27:20'
+    - '27:22'
+    - '27:23'
+    - '27:24'
+    relation: parallel
+    record:
+      agent:
+      - the eagle
+      - the hoopoe
+      recipient:
+      - the throne (Ḫalmašuitt)
+      - Solomon
+      action:
+      - goes out to spy and reports what it saw
+      - comes back and reports what it saw
+      object:
+      - the ancient goddesses kneeling and spinning
+      - a woman ruling, with a mighty throne, worshipping the sun
+      quoted:
+      - šuwayaun=wa ... ašanzi
+      - aḥaṭtu bi-mā lam tuḥiṭ bihi ... innī wajadtu mraʾatan tamlikuhum
+    note: '§15:67-71 the throne calls the eagle: ''come, I send you to the sea; spy into the green forest (šu-ú-wa-ya) who is there''; §16:73-74 the eagle answers šu-wa-ya-u-un-wa, ''I watched: Išduštaya and Papaya, the ancient goddesses, kneel there'', and asked ''what are they doing?'' (§17:76) reports ''she holds a distaff, they hold full spindles''. 27:20-24: Solomon misses the hoopoe; it returns: aḥaṭtu bi-mā lam tuḥiṭ bihi wa-jiʾtuka min sabaʾin bi-nabaʾin yaqīn ... innī wajadtu mraʾatan tamlikuhum ... wa-lahā ʿarshun ʿaẓīm, ''I found a woman ruling them... she has a mighty throne''. A bird in the service of a throne goes far, looks, and reports female figures (goddesses spinning; a queen) to its master, with a throne on each side (the speaking throne; the queen''s ʿarsh). In the Hittite the bird is sent, in the Quran it goes unbidden and is missed.'
+- unit: ane-cth-414-1-34-foundation-hearth-analogies
+  checked:
+  - quran-14-parables-and-satans-speech
+  - quran-56-waqia-three-classes-and-the-garden
+  - quran-80-frowned
+  - quran-55-rahman-judgment-and-the-four-gardens
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: tree-rooted-below-branching-above-likened-to-words
+    refs:
+    - CTH 414.1 §50:209
+    - CTH 414.1 §50:210
+    - CTH 414.1 §51:213
+    - CTH 414.1 §51:214
+    - CTH 414.1 §51:215
+    - CTH 414.1 §51:216
+    with_refs:
+    - '14:24'
+    - '14:25'
+    relation: echo
+    record:
+      object:
+      - the vine; the evergreen eya-tree
+      - a good tree
+      action:
+      - sends roots down and shoots up; never sheds its leaves
+      - root firm, branch in the sky; gives its fruit every season
+      recipient:
+      - the king and queen and their words
+      - a good word
+      quoted:
+      - katta šurkuš šarā=ma=wa maḫluš ... uddār ... uktūri ēšdu
+      - aṣluhā thābitun wa-farʿuhā fī s-samāʾi tuʾtī ukulahā kulla ḥīnin
+    note: '§50:209 ''as the vine sends roots downward (katta šurkuš) and shoots upward (šarā ... maḫluš)'', so the king and queen; §51:213-216 ''as the eya-tree is ever growing and does not shed its leaves, so may they flourish and may their words (uddār) be ever-lasting (uktūri)''. 14:24-25 kalimatan ṭayyibatan ka-shajaratin ṭayyibatin aṣluhā thābitun wa-farʿuhā fī s-samāʾi tuʾtī ukulahā kulla ḥīnin, ''a good word is like a good tree: its root firm, its branch in the sky, it gives its fruit at every season''. The same likeness: roots below and growth above, never failing, applied to words. In the Hittite it is a building blessing on the royal couple; in the Quran a parable of the good word.'
+- unit: ane-cth-414-2-duplicate-analogies
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-22-abraham-house-pilgrimage
+  - quran-56-waqia-three-classes-and-the-garden
+  - quran-14-parables-and-satans-speech
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: tree-rooted-below-branching-above-likened-to-words
+    refs:
+    - CTH 414.2 §4:9
+    with_refs:
+    - '14:24'
+    relation: echo
+    record:
+      object:
+      - the vine
+      - a good tree
+      action:
+      - sends roots down and shoots up
+      - root firm, branch in the sky
+      quoted:
+      - katta šur[kuš] šarā=ma=wa maḫlan šiyaizzi
+      - aṣluhā thābitun wa-farʿuhā fī s-samāʾi
+    note: 'Duplicate of CTH 414.1 §50: §4:9 {GIŠ}GEŠTIN-wa ma-aḫ-ḫa-an kat-ta šur-x[...] ša-ra-a-ma-wa {GIŠ}ma-aḫ-la-an ši-[i-ya-iz-zi], ''as the vine sends roots downward and shoots upward''; 14:24 aṣluhā thābitun wa-farʿuhā fī s-samāʾ.'
+- unit: ane-cth-414-3-festival-fragment
+  checked:
+  - quran-22-abraham-house-pilgrimage
+  - quran-33-marriage-rules
+  - quran-6-pagan-offerings-cattle
+  matches: []
+- unit: ane-cth-414-4-sun-god-tabarna-fragment
+  checked:
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-46-ahqaf-hud-and-the-jinn
+  matches: []
+- unit: ane-cth-414-5-palace-fragment
+  checked:
+  - quran-56-waqia-three-classes-and-the-garden
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-18-two-gardens
+  - quran-14-parables-and-satans-speech
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: tree-rooted-below-branching-above-likened-to-words
+    refs:
+    - CTH 414.5 §7:19
+    - CTH 414.5 §7:20
+    with_refs:
+    - '14:24'
+    relation: echo
+    record:
+      object:
+      - the vine
+      - a good tree
+      action:
+      - roots down, shoots up
+      - root firm, branch in the sky
+      quoted:
+      - '[šu]rkuš šara=ma=wa ... katta šurku[š]'
+      - aṣluhā thābitun wa-farʿuhā fī s-samāʾi
+    note: 'Fragmentary third copy of the vine analogy: §7:19-20 ''[...ro]ots, upward but [...], [the queen] downward roots''; 14:24 aṣluhā thābitun wa-farʿuhā fī s-samāʾ.'
+- unit: ane-cth-415-1-keldi-ritual-for-place
+  checked:
+  - quran-72-jinn
+  - quran-2-abrogation-polemic
+  - quran-22-abraham-house-pilgrimage
+  - quran-5-oaths-wine-game
+  matches:
+  - with: quran-72-jinn
+    motif: sacred-place-admits-no-other-god
+    refs:
+    - CTH 415 §6:41
+    - CTH 415 §7:43
+    - CTH 415 §8:47
+    - CTH 415 §12:71
+    with_refs:
+    - '72:18'
+    relation: echo
+    record:
+      place:
+      - the temple place (pedan)
+      - the places of prostration (al-masājid)
+      action:
+      - must let no other god enter; no god is invoked aloud
+      - do not invoke anyone with God
+      quoted:
+      - tamain=ma=za=an DINGIR-LAM ... anda lē tarnatti
+      - fa-lā tadʿū maʿa llāhi aḥadan
+    note: §6:41 (= §12:71) ta-ma-i-in-ma-za-an DINGIR-LAM ḪUL-lu-u[n-n]a ša-ga-in an-da le-e tar-na-at-ti, 'do not let another god or an evil sign in', §7:43 'watch over that very god (apūn=pát DINGIR-LAM) to whom you are assigned', §8:47 'but no deity is invoked aloud by mouth'. 72:18 wa-anna l-masājida lillāhi fa-lā tadʿū maʿa llāhi aḥadan, 'the places of prostration are God's, so do not invoke anyone with God'. The place of worship is bound to one deity and no other is to be called on there.
+- unit: ane-cth-415-14-foundation-deposit
+  checked:
+  - quran-21-abraham-idols-fire
+  - quran-22-abraham-house-pilgrimage
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-16-blessings-of-creation
+  matches: []
+- unit: ane-cth-416-1-iron-tongues-hantasepa
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-5-ablution-covenant-justice
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-cth-416-20-eagle-ritual
+  checked:
+  - quran-2-four-birds
+  - quran-27-solomon-ants-hoopoe-sheba
+  - quran-11-judgment-day
+  - quran-7-moses-pharaoh
+  - quran-8-badr-help
+  matches:
+  - with: quran-8-badr-help
+    motif: deed-disclaimed-and-ascribed-to-another
+    refs:
+    - CTH 416 §29:150
+    - CTH 416 §29:151
+    with_refs:
+    - '8:17'
+    relation: echo
+    record:
+      agent:
+      - the ritual expert
+      - the Prophet
+      action:
+      - releases the eagle
+      - throws
+      name:
+      - the king and the queen
+      - God
+      quoted:
+      - natta=an ūk tarnaḫḫun LUGAL-ša=an MUNUS.LUGAL-ša tarnaš
+      - wa-mā ramayta idh ramayta wa-lākinna llāha ramā
+    note: '§29:148-151: the expert releases the eagle to the sky and says behind it na-at-ta-an ú-uk t[ar-na-aḫ]-ḫu-un / LUGAL-ša-an MUNUS.LUGAL-ša tar-na-aš, ''not I released it; the king and queen released it''; 8:17 wa-mā ramayta idh ramayta wa-lākinna llāha ramā, ''you did not throw when you threw, but God threw''. The same disclaimer of a just-performed act of sending something off, ascribed to the one on whose behalf it was done: the royal couple, God.'
+- unit: ane-cth-416-33-goat-threads-birds
+  checked:
+  - quran-6-final-reckoning
+  - quran-112-114-unity-and-refuge
+  - quran-7-moses-pharaoh
+  - quran-7-adam-iblis
+  matches: []
+- unit: ane-cth-417-1-figurines-with-enemys-name
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-2-harut-marut
+  - quran-7-single-soul-idols
+  - quran-25-furqan-and-objections
+  matches: []
+- unit: ane-cth-417-2-name-incised
+  checked:
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-37-ranks-and-guarded-heaven
+  - quran-100-chargers
+  matches: []
+- unit: ane-cth-417-3-oath-breakers-enemy-field
+  checked:
+  - quran-16-parables-and-justice
+  - quran-2-call-to-worship
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-100-chargers
+  matches: []
+- unit: ane-cth-418-1-substitutes-burnt-washing
+  checked:
+  - quran-2-israel-favor
+  - quran-55-rahman-judgment-and-the-four-gardens
+  - quran-5-ablution-covenant-justice
+  - quran-39-sincere-servant
+  matches: []
+- unit: ane-cth-418-14-hearths-arrows-foreigner
+  checked:
+  - quran-67-mulk-earth-birds-and-water
+  - quran-17-prayer-spirit-and-challenge
+  - quran-85-constellations
+  - quran-100-chargers
+  matches: []
+- unit: ane-cth-757-1-zarpiya-oath-with-demons
+  checked:
+  - quran-2-exodus-calf
+  - quran-6-slaughter-chest-jinn
+  - quran-34-affluent-and-angels
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-cth-757-16-zarpiya-luwian-door
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-37-sacrifice-of-son
+  - quran-3-misers-mockers
+  - quran-54-qamar-ad-thamud-lot-pharaoh
+  matches: []
+- unit: ane-arad-w1-eliashib-rations-kittim
+  checked:
+  - quran-12-joseph-full
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-83-defrauders
+  - quran-48-fath-clear-victory-and-pledge
+  matches: []
+- unit: ane-arad-w8-yhwh-ask-welfare-temple
+  checked:
+  - quran-6-poor-keys-of-unseen
+  - quran-24-household-etiquette
+  - quran-38-job
+  - quran-4-kindness-misers-atom
+  matches: []
+- unit: ane-arad-w10-edom-threat
+  checked:
+  - quran-8-fifth-and-badr-vision
+  - quran-8-badr-help
+  - quran-9-shirkers-excuses
+  matches: []
+- unit: ane-elephantine-w1-passover-letter
+  checked:
+  - quran-2-fasting
+  - quran-2-sabbath-apes
+  - quran-3-food-bakka
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-elephantine-w2-temple-spared-by-cambyses
+  checked:
+  - quran-22-permission-to-fight
+  - quran-7-shuayb-midian
+  - quran-9-hunayn-jizya
+  - quran-10-moses-pharaoh
+  matches: []
+- unit: ane-elephantine-w3-marriage-ananiah-tamet
+  checked:
+  - quran-2-oaths-divorce
+  - quran-4-marriage-forbidden-degrees
+  - quran-2-debt-contract
+  - quran-4-wealth-household
+  matches:
+  - with: quran-4-marriage-forbidden-degrees
+    motif: marrying-a-slave-woman-with-her-owners-consent
+    refs:
+    - Elephantine (selection) W3:2
+    - Elephantine (selection) W3:3
+    - Elephantine (selection) W3:13
+    - Elephantine (selection) W3:14
+    with_refs:
+    - '4:25'
+    relation: parallel
+    record:
+      agent:
+      - Ananiah
+      - a man who cannot afford a free wife
+      action:
+      - marries a handmaid by agreement with her master
+      - marries a slave woman by leave of her people
+      recipient:
+      - Meshullam, Tamet's master
+      - her people (ahluhunna)
+      quoted:
+      - ʾtyt ʿlyk lmntn ly ltmt šmh zy ʾmtk lʾntw
+      - fa-nkiḥūhunna bi-idhni ahlihinna wa-ātūhunna ujūrahunna
+    note: W3:2-3 ʿnnyh ... lmšlm ... ʾnh ʾtyt ʿlyk lmntn ly ltmt šmh zy ʾmtk lʾntw, 'I came to you that you give me Tamet by name, your handmaid (ʾmtk), for wifehood'; the master renounces any claim (W3:13-14). 4:25 fa-min mā malakat aymānukum min fatayātikumu l-muʾmināt ... fa-nkiḥūhunna bi-idhni ahlihinna wa-ātūhunna ujūrahunna bi-l-maʿrūf, 'marry them by leave of their people and give them their dues'. In both a man marries another's slave woman by leave of her owner and with goods given (the listed bride goods; ujūr).
+  - with: quran-2-oaths-divorce
+    motif: payment-when-a-marriage-is-dissolved
+    refs:
+    - Elephantine (selection) W3:7
+    - Elephantine (selection) W3:8
+    - Elephantine (selection) W3:9
+    - Elephantine (selection) W3:10
+    with_refs:
+    - 2:229
+    relation: divergence
+    record:
+      agent:
+      - either spouse who declares hate
+      - the wife who fears the bounds will not be kept
+      action:
+      - pays the silver of hatred, 7 shekels
+      - gives a ransom (iftadat)
+      object:
+      - she leaves with all she brought, from straw to thread
+      - the husband may take nothing of what he gave, except what she ransoms herself with
+      quoted:
+      - šnʾt lbʿly ksp šnʾh brʾšh ... wkl zy hnʿlt bydh thnpq mn ḥm ʿd ḥwṭ
+      - lā yaḥillu lakum an taʾkhudhū mimmā ātaytumūhunna shayʾan ... fa-lā junāḥa ʿalayhimā fīmā ftadat bihi
+    note: 'W3:7-10: if Ananiah rises in the assembly and says šnʾt ltmt ʾntty, ''I hate Tamet my wife'', the silver of hatred (ksp šnʾ) is on his head; if Tamet says šnʾt lbʿly, ''I hate my husband'', the silver of hatred is on her head; either way she goes out with all she brought mn ḥm ʿd ḥwṭ, ''from straw to thread''. 2:229 wa-lā yaḥillu lakum an taʾkhudhū mimmā ātaytumūhunna shayʾan illā an yakhāfā ... fa-lā junāḥa ʿalayhimā fīmā ftadat bihi, ''it is not lawful for you to take back anything you gave them ... unless ... then there is no blame on them for what she ransoms herself with''. Both regulate what passes when a marriage ends and let the wife buy her way out; the contract fixes a sum for whichever spouse repudiates, the Quran forbids the husband to take back his gifts except as her ransom.'
+- unit: ane-kai-1-ahiram-coffin-curse
+  checked:
+  - quran-102-104-rivalry-time-slanderer
+  - quran-2-sleeper-hundred-years
+  - quran-7-moses-pharaoh
+  - quran-89-dawn
+  matches: []
+- unit: ane-kai-4-yehimilk-just-king
+  checked:
+  - quran-37-ranks-and-guarded-heaven
+  - quran-38-david-ewe-parable
+  - quran-3-sovereignty
+  - quran-17-polemic-and-resurrection
+  matches: []
+- unit: ane-kai-5-abibaal-statue-from-egypt
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-10-moses-pharaoh
+  - quran-28-pharaohs-tower-and-end
+  matches: []
+- unit: ane-kai-6-elibaal-statue
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-10-moses-pharaoh
+  - quran-28-pharaohs-tower-and-end
+  matches: []
+- unit: ane-kai-7-shipitbaal-wall
+  checked:
+  - quran-2-polemic-israel
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-10-moses-pharaoh
+  - quran-3-sovereignty
+  matches: []
+- unit: ane-kai-10-yehawmilk-lady-heard-voice
+  checked:
+  - quran-2-fasting
+  - quran-40-call-on-me
+  - quran-20-moses-favors-recalled
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-kai-13-tabnit-do-not-open
+  checked:
+  - quran-6-prophets-lineage-torah-sheets
+  - quran-19-resurrection-and-the-son
+  - quran-89-dawn
+  - quran-44-dukhan-zaqqum-and-garden
+  matches: []
+- unit: ane-kai-14-eshmunazar-died-young-curse
+  checked:
+  - quran-14-parables-and-satans-speech
+  - quran-3-badr-uhud
+  - quran-93-94-forenoon-and-expansion
+  - quran-89-dawn
+  matches:
+  - with: quran-93-94-forenoon-and-expansion
+    motif: orphan-and-who-cares-for-him
+    refs:
+    - KAI 14 Lid:3
+    - KAI 14 Lid:12
+    - KAI 14 Lid:13
+    with_refs:
+    - '93:3'
+    - '93:6'
+    relation: divergence
+    record:
+      agent:
+      - Eshmunazar (speaking of himself)
+      - the Prophet (addressed)
+      name:
+      - ytm bn ʾlmt
+      - yatīm
+      quoted:
+      - ngzlt bl ʿty ... ytm bn ʾlmt ... ʾnk nḥn
+      - a-lam yajidka yatīman fa-āwā
+      outcome:
+      - snatched away before his time; asks for pity
+      - found an orphan and sheltered; not forsaken
+    note: Lid:3, 12-13 ngzlt bl ʿty bn msk ymm ʾzrm ytm bn ʾlmt, 'I was snatched away before my time, of few days, an orphan, son of a widow', with ʾnk nḥn 'I who am to be pitied'; 93:6 a-lam yajidka yatīman fa-āwā, 'did he not find you an orphan and give you shelter?', with 93:3 mā waddaʿaka rabbuka wa-mā qalā, 'your Lord has not forsaken you'. Both texts make a royal or prophetic figure an orphan (ytm / yatīm); the king lies cut off in his coffin, and the prophet is reminded that he was sheltered.
+- unit: ane-kai-14-eshmunazar-temples-dor-joppa
+  checked:
+  - quran-28-pharaohs-tower-and-end
+  - quran-10-moses-pharaoh
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-kai-24-kilamuwa
+  checked:
+  - quran-33-adoption-and-zihar
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-kai-27-arslan-tash-fliers
+  checked:
+  - quran-112-114-unity-and-refuge
+  - quran-72-jinn
+  - quran-37-ranks-and-guarded-heaven
+  - quran-74-cloaked
+  matches:
+  - with: quran-112-114-unity-and-refuge
+    motif: night-evil-set-against-daybreak
+    refs:
+    - KAI 27 W1:19
+    - KAI 27 W1:20
+    - KAI 27 W1:26
+    - KAI 27 W1:27
+    - KAI 27 W1:28
+    - KAI 27 W1:29
+    with_refs:
+    - '113:1'
+    - '113:3'
+    - '113:4'
+    relation: echo
+    record:
+      agent:
+      - the incantation speaker
+      - the one told to say it
+      object:
+      - the Fliers in the dark chamber, this night
+      - the evil of darkness when it settles; the women who blow on knots
+      time:
+      - this night; the sun is rising
+      - daybreak (al-falaq)
+      quoted:
+      - lʿptʾ bḥdr ḥšk ... yṣʾ šmš kssm ḥlp
+      - aʿūdhu bi-rabbi l-falaqi ... min sharri ghāsiqin idhā waqab
+    note: 'Arslan Tash 1, W1:19-20 lʿptʾ bḥdr ḥšk ʿbr pʿm pʿm ll z, ''to the Fliers in the dark chamber: pass by at once, this night'', W1:26-29 yṣʾ šmš kssm ḥlp wldr ʿp, ''the sun is rising: like a moth vanish and fly away forever''; 113:1-4 qul aʿūdhu bi-rabbi l-falaqi ... wa-min sharri ghāsiqin idhā waqab wa-min sharri n-naffāthāti fī l-ʿuqad, ''I take refuge with the Lord of daybreak ... from the evil of darkness when it settles, and from the evil of the (women) who blow on knots''. A protective formula set the dawn against night beings, female in both (the Fliers; the blowers on knots); the amulet banishes them by the sun, the sura seeks refuge with the Lord of daybreak.'
+- unit: ane-kai-27-arslan-tash-eye
+  checked:
+  - quran-68-qalam-shin-and-jonah
+  - quran-84-splitting
+  - quran-20-moses-pharaoh-magicians
+  - quran-79-pharaoh-and-cosmos
+  matches:
+  - with: quran-68-qalam-shin-and-jonah
+    motif: harmful-eye
+    refs:
+    - KAI 27 W2:7
+    - KAI 27 W2:8
+    - KAI 27 W2:9
+    with_refs:
+    - '68:51'
+    relation: echo
+    record:
+      object:
+      - the Eye
+      - the eyes of the disbelievers
+      recipient:
+      - the head of the sleeper
+      - the Prophet
+      quoted:
+      - nʿlt mnʿl brḥ ʿyn
+      - la-yuzliqūnaka bi-abṣārihim
+    note: 'Arslan Tash 2, W2:7-9 nʿlt mnʿl brḥ ʿyn bdd brʾš ..., ''I have bolted the bolt: flee, Eye! retreat from the head of ...''; 68:51 wa-in yakādu lladhīna kafarū la-yuzliqūnaka bi-abṣārihim, ''those who disbelieve would almost make you slip with their eyes''. The gaze as a force that harms the one it falls on; the amulet drives the Eye off, the verse says the hostile eyes nearly toppled the Prophet.'
+- unit: ane-kai-181-mesha-chemosh-saved-me
+  checked:
+  - quran-7-idol-request
+  - quran-20-moses-pharaoh-magicians
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-kai-181-mesha-omri-chemosh-angry
+  checked:
+  - quran-17-night-journey-and-israel
+  - quran-7-sabbath-town
+  - quran-79-pharaoh-and-cosmos
+  - quran-3-sovereignty
+  - quran-5-holy-land-refusal
+  matches:
+  - with: quran-17-night-journey-and-israel
+    motif: god-sends-foreign-oppressor-on-own-people-then-restores
+    refs:
+    - KAI 181 main:5
+    - KAI 181 main:6
+    - KAI 181 main:8
+    - KAI 181 main:9
+    with_refs:
+    - '17:4'
+    - '17:5'
+    - '17:6'
+    relation: parallel
+    record:
+      agent:
+      - Chemosh
+      - God
+      action:
+      - is angry and lets Omri oppress Moab many days
+      - sends against Israel servants of great might
+      recipient:
+      - Moab
+      - the Children of Israel
+      outcome:
+      - Chemosh restored it in my days
+      - we gave you back the turn against them
+      quoted:
+      - wyʿnw ʾt mʾb ymn rbn ky yʾnp kmš bʾrṣh ... wyšbh kmš bymy
+      - baʿathnā ʿalaykum ʿibādan lanā ulī baʾsin shadīdin ... thumma radadnā lakumu l-karrata ʿalayhim
+    note: 'Mesha 5-9: ʿmry mlk yśrʾl wyʿnw ʾt mʾb ymn rbn ky yʾnp kmš bʾrṣh, ''Omri king of Israel oppressed Moab many days, for Chemosh was angry with his land''; Israel dwelt in Medeba forty years, wyšbh kmš bymy, ''and Chemosh restored it in my days''. 17:4-6: because Israel will corrupt the land, baʿathnā ʿalaykum ʿibādan lanā ulī baʾsin shadīd fa-jāsū khilāla d-diyār, ''we sent against you servants of ours of great might who ranged through the homes'', thumma radadnā lakumu l-karrata ʿalayhim, ''then we gave you back the turn against them''. The same sequence: a people''s own god hands them to a foreign oppressor for their offence and later turns it back (šwb / radda). The roles are reversed: in Mesha Israel is the oppressor, in the Quran the oppressed.'
+- unit: ane-kai-181-mesha-ataroth-nebo-herem
+  checked:
+  - quran-2-war-pilgrimage
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-5-holy-land-refusal
+  - quran-2-talut-jalut
+  matches:
+  - with: quran-5-holy-land-refusal
+    motif: divine-command-to-go-and-take-a-land
+    refs:
+    - KAI 181 main:14
+    - KAI 181 main:15
+    - KAI 181 main:16
+    - KAI 181 main:17
+    with_refs:
+    - '5:21'
+    - '5:24'
+    - '5:26'
+    relation: divergence
+    record:
+      agent:
+      - Chemosh
+      - Moses for God
+      recipient:
+      - Mesha
+      - the people of Moses
+      action:
+      - '''go, seize Nebo from Israel'''
+      - '''enter the holy land which God has written for you'''
+      outcome:
+      - Mesha goes by night, takes it and devotes it (ḥrm)
+      - they refuse; the land is forbidden (muḥarrama) to them forty years
+      quoted:
+      - lk ʾḥz ʾt nbh ... ky lʿštr kmš hḥrmth
+      - udkhulū l-arḍa l-muqaddasa ... fa-dhhab anta wa-rabbuka fa-qātilā ... muḥarramatun ʿalayhim
+    note: 'Mesha 14-17 wyʾmr ly kmš lk ʾḥz ʾt nbh ʿl yśrʾl, ''Chemosh said to me: go, seize Nebo from Israel''; he goes by night, fights from dawn to noon and slays all ''for I had devoted it (hḥrmth) to Ashtar-Chemosh''. 5:21 udkhulū l-arḍa l-muqaddasa llatī kataba llāhu lakum; 5:24 innā lan nadkhulahā abadan ... fa-dhhab anta wa-rabbuka fa-qātilā, ''go you and your Lord and fight''; 5:26 fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan. The same divine order to go and take a land: Mesha obeys and wins; Israel refuses, so the land is made forbidden to them. The root ḥ-r-m closes both: the city devoted to destruction, the land forbidden.'
+- unit: ane-kai-181-mesha-building-cisterns-horonen
+  checked:
+  - quran-2-talut-jalut
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-28-pharaohs-tower-and-end
+  matches: []
+- unit: ane-kai-182-gezer-calendar
+  checked:
+  - quran-6-pagan-offerings-cattle
+  - quran-9-months-nasi
+  - quran-10-opening-creation
+  - quran-80-frowned
+  matches: []
+- unit: ane-kai-189-siloam-tunnel
+  checked:
+  - quran-2-exodus-calf
+  - quran-34-david-solomon
+  - quran-20-sea-crossing-sinai
+  - quran-2-talut-jalut
+  matches: []
+- unit: ane-kai-192-lachish-1-names
+  checked:
+  - quran-19-prophets-remembered
+  - quran-27-salih-nine-plotters
+  - quran-85-constellations
+  matches: []
+- unit: ane-kai-192-lachish-2-servant-dog
+  checked:
+  - quran-4-kindness-misers-atom
+  - quran-3-closing
+  - quran-38-job
+  matches: []
+- unit: ane-kai-192-lachish-3-reading-letters-egypt-prophet
+  checked:
+  - quran-7-unlettered-prophet
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-68-qalam-the-pen-and-the-slanderer
+  - quran-29-recite-and-dispute
+  - quran-15-abraham-guests-lot
+  matches:
+  - with: quran-15-abraham-guests-lot
+    motif: oath-by-the-life-of
+    refs:
+    - KAI 192-199 W3:9
+    with_refs:
+    - 15:72
+    relation: divergence
+    record:
+      agent:
+      - Hoshayahu, the officer
+      - God
+      action:
+      - swears by the life of
+      - swears by the life of
+      name:
+      - YHWH
+      - the Prophet ("your life")
+      quoted:
+      - ḥyhwh
+      - laʿamruka
+    note: 'W3:9 ḥyhwh ʾm nsh ʾyš lqrʾ ly spr lnṣḥ, ''as YHWH lives, no one has ever tried to read me a letter''; 15:72 laʿamruka innahum la-fī sakratihim yaʿmahūna, ''by your life, they wander blindly in their intoxication''. An oath by the life (ḥy / ʿamr) of someone: a man swears by the life of God, God swears by the life of the one addressed.'
+- unit: ane-kai-192-lachish-4-signals-azekah
+  checked:
+  - quran-26-hud-ad
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-46-ahqaf-hud-and-the-jinn
+  matches: []
+- unit: ane-kai-192-lachish-5-6-weaken-hands
+  checked:
+  - quran-9-stayers-exempt
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-38-job
+  - quran-69-haqqa-books-in-right-and-left-hands
+  matches: []
+- unit: ane-kai-192-lachish-fragments
+  checked:
+  - quran-62-jumua-unlettered-donkey-and-friday
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-20-moses-call
+  matches: []
+- unit: ane-kai-200-yavne-yam-garment
+  checked:
+  - quran-83-defrauders
+  - quran-4-women-orphans-justice
+  - quran-38-job
+  - quran-74-cloaked
+  matches: []
+- unit: ane-kai-202-zakkur-baalshamayn-answers
+  checked:
+  - quran-20-moses-pharaoh-magicians
+  - quran-9-cave-and-call
+  - quran-8-badr-help
+  - quran-51-dhariyat-abrahams-guests-and-the-peoples
+  matches:
+  - with: quran-20-moses-pharaoh-magicians
+    motif: fear-not-i-am-with-you
+    refs:
+    - KAI 202 W1:13
+    - KAI 202 W1:14
+    - KAI 202 W1:15
+    with_refs:
+    - '20:46'
+    relation: parallel
+    record:
+      agent:
+      - Baalshamayn
+      - God
+      recipient:
+      - Zakkur, besieged by the kings
+      - Moses and Aaron, sent to Pharaoh
+      quoted:
+      - ʾl tzḥl ... wʾnh ʾqm ʿmk wʾnh ʾḥṣlk
+      - lā takhāfā innanī maʿakumā asmaʿu wa-arā
+    note: 'W1:13-15 ʾl tzḥl ky ʾnh hmlktk wʾnh ʾqm ʿmk wʾnh ʾḥṣlk mn kl mlkyʾ ʾl zy mḥʾw ʿlyk mṣr, ''do not fear, for I made you king, and I will stand with you and I will deliver you from all these kings who have set a siege against you''; 20:46 qāla lā takhāfā innanī maʿakumā asmaʿu wa-arā, ''do not fear, I am with you both, I hear and see''. The same oracle form: ''do not fear'' followed by ''I (am) with you''. Zakkur hears it through seers when besieged, Moses and Aaron directly when afraid of Pharaoh.'
+  - with: quran-8-badr-help
+    motif: besieged-appeal-to-god-and-are-answered
+    refs:
+    - KAI 202 W1:4
+    - KAI 202 W1:9
+    - KAI 202 W1:11
+    with_refs:
+    - '8:9'
+    relation: parallel
+    record:
+      agent:
+      - Zakkur
+      - the believers at Badr
+      action:
+      - lifts his hands to Baalshamayn
+      - call on their Lord for help
+      outcome:
+      - Baalshamayn answered me
+      - 'he answered you: a thousand angels'
+      quoted:
+      - wʾšʾ ydy ʾl bʿlšmyn wyʿnny bʿlšmyn
+      - idh tastaghīthūna rabbakum fa-stajāba lakum
+    note: 'W1:4-11: Bar-Hadad and sixteen kings besiege Hazrach; wʾšʾ ydy ʾl bʿlšmyn wyʿnny bʿlšmyn, ''I lifted my hands to Baalshamayn and Baalshamayn answered me''; 8:9 idh tastaghīthūna rabbakum fa-stajāba lakum annī mumiddukum bi-alfin mina l-malāʾikati murdifīn, ''when you called on your Lord for help and he answered you: I will reinforce you with a thousand angels''. Facing a superior enemy, a call to God and the formula ''he answered (ʿny / istajāba)''.'
+- unit: ane-kai-202-zakkur-building-curse
+  checked:
+  - quran-3-sovereignty
+  - quran-20-moses-pharaoh-magicians
+  - quran-7-moses-pharaoh
+  matches: []
+- unit: ane-kai-214-hadad-statue-panamuwa
+  checked:
+  - quran-3-badr-uhud
+  - quran-5-two-sons-of-adam
+  - quran-3-sovereignty
+  - quran-43-zukhruf-abraham-and-silver-roofs
+  - quran-14-parables-and-satans-speech
+  matches:
+  - with: quran-14-parables-and-satans-speech
+    motif: whatever-was-asked-was-given
+    refs:
+    - KAI 214 main:4
+    - KAI 214 main:12
+    with_refs:
+    - '14:34'
+    relation: echo
+    record:
+      agent:
+      - my gods
+      - God
+      recipient:
+      - Panamuwa
+      - you (mankind)
+      quoted:
+      - wmz ʾšʾl mn ʾlhy ytnw ly
+      - wa-ātākum min kulli mā saʾaltumūhu
+    note: KAI 214 4 wmz ʾšʾ[l mn] ʾlhy ytnw ly, 'and whatever I asked of my gods they gave me', again in line 12 wmh ʾšʾl mn ʾlhy; 14:34 wa-ātākum min kulli mā saʾaltumūhu wa-in taʿuddū niʿmata llāhi lā tuḥṣūhā, 'and he gave you of all that you asked of him; if you counted God's favour you could not number it'. The same formula of asking (šʾl / saʾala) and giving (ntn / ātā); the king boasts of it, the Quran reminds mankind of it.
+  - with: quran-5-two-sons-of-adam
+    motif: stretching-out-the-hand-to-kill-a-kinsman
+    refs:
+    - KAI 214 main:25
+    - KAI 214 main:26
+    - KAI 214 main:27
+    with_refs:
+    - '5:28'
+    relation: echo
+    record:
+      agent:
+      - one of my sons who takes the sceptre
+      - the son of Adam (to his brother)
+      action:
+      - stretches out his hand with the sword to kill
+      - stretches his hand to kill
+      recipient:
+      - his kinsmen
+      - his brother
+      quoted:
+      - wyšlḥ ydh bḥrb ... ʾyḥyh
+      - la-in basaṭta ilayya yadaka li-taqtulanī
+    note: 'KAI 214 25-27: the heir who takes the sceptre wyšlḥ ydh bḥrb ... ʾw ḥms ... ʾw ... šḥt bʾšr ḥd ʾyḥyh, ''stretches out his hand with the sword ... or violence ... destruction on one of his kinsmen'', is cursed; 5:28 la-in basaṭta ilayya yadaka li-taqtulanī mā ana bi-bāsiṭin yadiya ilayka li-aqtulaka, ''if you stretch your hand to me to kill me, I will not stretch my hand to you to kill you''. The same idiom of the stretched hand for killing a brother or kinsman; Panamuwa curses it, Abel refuses it.'
+- unit: ane-kai-215-panamuwa-ii-bar-rakib
+  checked:
+  - quran-43-zukhruf-pharaoh-claims
+  - quran-2-talut-jalut
+  - quran-37-sacrifice-of-son
+  matches: []
+- unit: ane-kai-222-sefire-a-parties-witnesses
+  checked:
+  - quran-3-covenant-of-prophets
+  - quran-99-earthquake
+  - quran-9-baraa-treaties
+  - quran-2-patience-signs
+  matches: []
+- unit: ane-kai-222-sefire-a-curses
+  checked:
+  - quran-2-call-to-worship
+  - quran-5-covenant-twelve-chiefs
+  - quran-7-moses-pharaoh
+  - quran-22-destroyed-towns-satanic-insinuation
+  matches:
+  - with: quran-7-moses-pharaoh
+    motif: locusts-and-lice-sent-as-punishment
+    refs:
+    - KAI 222 W1:26
+    - KAI 222 W1:29
+    - KAI 222 W1:30
+    with_refs:
+    - 7:133
+    relation: echo
+    record:
+      agent:
+      - the gods
+      - God
+      action:
+      - send devourers on Arpad
+      - send on Pharaoh's people
+      object:
+      - hail, locust, worm, snake, scorpion, moth, louse
+      - flood, locusts, lice, frogs, blood
+      quoted:
+      - ʾrbh ... wyšlḥn ʾlhn ... ss wqml
+      - fa-arsalnā ʿalayhimu ṭ-ṭūfāna wa-l-jarāda wa-l-qummala
+    note: 'Sefire curses: wysk ʿl ʾrpd ʾbny brd wšbʿ šnn yʾkl ʾrbh, ''may Hadad pour hailstones on Arpad and for seven years may the locust (ʾrbh) eat'' (W1:25-26), wyšlḥn ʾlhn mn klmh ʾkl ... pm ḥwh wpm ʿqrb ... wss wqml, ''may the gods send every devourer ... the moth and the louse (qml)'' (W1:29-30). 7:133 fa-arsalnā ʿalayhimu ṭ-ṭūfāna wa-l-jarāda wa-l-qummala wa-ḍ-ḍafādiʿa wa-d-dam, ''we sent on them the flood, locusts, lice (qummal), frogs and blood''. The same verb of sending (šlḥ / arsala) and the same rare word for louse, qml / qummal, beside locusts, in a list of afflictions sent on a land: a curse against an oath-breaker; signs against Pharaoh.'
+- unit: ane-kai-222-sefire-b-stipulations
+  checked:
+  - quran-2-israel-favor
+  - quran-48-fath-clear-victory-and-pledge
+  - quran-9-baraa-treaties
+  - quran-8-fifth-and-badr-vision
+  matches: []
+- unit: ane-kai-222-sefire-c-blessing-overturned
+  checked:
+  - quran-9-hypocrites-mockery
+  - quran-11-lot
+  - quran-2-retaliation-bequest
+  - quran-3-sovereignty
+  matches:
+  - with: quran-11-lot
+    motif: dwelling-turned-upside-down
+    refs:
+    - KAI 222 W3:21
+    - KAI 222 W3:22
+    - KAI 222 W3:23
+    - KAI 222 W3:24
+    with_refs:
+    - 11:82
+    relation: echo
+    record:
+      agent:
+      - the gods
+      - God
+      action:
+      - overturn and set its lowest part highest
+      - set its highest part lowest
+      object:
+      - the effacer's house
+      - the town of Lot's people
+      quoted:
+      - yhpkw ʾlhn ... wyšmw tḥtyth lʿlyth
+      - jaʿalnā ʿāliyahā sāfilahā
+    note: Sefire C 21-24 kn yhpkw ʾlhn ʾšʾ hʾ wbyth ... wyšmw tḥtyth lʿlyth, 'so may the gods overturn (hpk) that man and his house ... and set its lowest (part) as its highest'; 11:82 fa-lammā jāʾa amrunā jaʿalnā ʿāliyahā sāfilahā, 'when our command came we made its highest its lowest'. The same overturning in the same pair of terms, top and bottom exchanged; Sefire puts the lowest on top, the Quran the highest below, and Sefire's object is a house, the Quran's a town.
+- unit: ane-kai-223-sefire-ii-curses
+  checked:
+  - quran-19-resurrection-and-the-son
+  - quran-59-hashr-banu-nadir-and-fay
+  - quran-7-towns-pattern
+  - quran-9-closing
+  matches: []
+- unit: ane-kai-277-pyrgi-astarte
+  checked:
+  - quran-25-signs-shadow-seas
+  - quran-79-pharaoh-and-cosmos
+  - quran-22-abraham-house-pilgrimage
+  matches: []
+- unit: ane-kai-310-tel-dan-house-of-david
+  checked:
+  - quran-2-talut-jalut
+  - quran-8-badr-help
+  - quran-26-hud-ad
+  - quran-43-zukhruf-pharaoh-claims
+  matches: []
+- unit: ane-kai-312-deir-alla-balaam
+  checked:
+  - quran-7-dog-parable
+  - quran-81-folding-up
+  - quran-21-against-other-gods
+  - quran-7-names-and-hour
+  matches: []
+- unit: ane-kh-1-great-god-keeper-of-covenant
+  checked:
+  - quran-2-israel-favor
+  - quran-2-abrogation-polemic
+  - quran-13-covenant-and-paradise
+  - quran-76-the-human
+  matches: []
+- unit: ane-kh-2-priestly-blessing
+  checked:
+  - quran-59-hashr-hypocrites-and-the-names
+  - quran-112-114-unity-and-refuge
+  - quran-6-poor-keys-of-unseen
+  - quran-1-fatiha
+  matches: []
+- unit: ane-khirbet-el-qom-uriyahu-asherah
+  checked:
+  - quran-6-signs-in-nature
+  - quran-4-satan-vows-share
+  - quran-72-jinn
+  - quran-53-najm-goddesses-and-scrolls
+  matches: []
+- unit: ane-kuntillet-ajrud-pithos-a-samaria
+  checked:
+  - quran-6-signs-in-nature
+  - quran-20-samiri-calf
+  - quran-2-patience-signs
+  - quran-109-111-disbelievers-help-flame
+  matches: []
+- unit: ane-kuntillet-ajrud-pithos-b-teman
+  checked:
+  - quran-6-signs-in-nature
+  - quran-40-call-on-me
+  - quran-41-steadfast-and-repel-evil
+  - quran-2-patience-signs
+  - quran-14-parables-and-satans-speech
+  matches: []
+- unit: ane-kuntillet-ajrud-plaster-theophany
+  checked:
+  - quran-7-sinai-theophany
+  - quran-69-haqqa-destroyed-peoples-and-the-throne
+  - quran-37-moses-aaron-elias
+  - quran-95-fig
+  matches:
+  - with: quran-7-sinai-theophany
+    motif: mountains-crushed-when-god-appears
+    refs:
+    - Kuntillet Ajrud W8:2
+    - Kuntillet Ajrud W8:3
+    - Kuntillet Ajrud W14:1
+    - Kuntillet Ajrud W14:2
+    - Kuntillet Ajrud W14:3
+    with_refs:
+    - 7:143
+    relation: echo
+    record:
+      agent:
+      - El
+      - God
+      action:
+      - shines forth
+      - manifests himself to the mountain
+      object:
+      - the mountains and peaks
+      - the mountain
+      outcome:
+      - melt and are crushed
+      - crushed flat
+      quoted:
+      - wbzrḥ ʾl ... wymsn hrm wydkn gbnm
+      - fa-lammā tajallā rabbuhu li-l-jabali jaʿalahu dakkan
+    note: 'W8:2-3 / W14:1-3 wbzrḥ ʾl ... wymsn hrm wydkn gbnm, ''and when El shone forth ... the mountains melted and the peaks were crushed (ydkn, root dkk)''; 7:143 fa-lammā tajallā rabbuhu li-l-jabali jaʿalahu dakkan, ''when his Lord manifested himself to the mountain he made it crushed flat (dakk)''. The same theophany: God appears and the mountain is crushed, with the same root d-k-k; at Kuntillet the mountains also melt, in the Quran Moses falls senseless.'
+  - with: quran-69-haqqa-destroyed-peoples-and-the-throne
+    motif: mountains-crushed-when-god-appears
+    refs:
+    - Kuntillet Ajrud W8:2
+    - Kuntillet Ajrud W8:3
+    - Kuntillet Ajrud W14:1
+    - Kuntillet Ajrud W14:2
+    - Kuntillet Ajrud W14:3
+    with_refs:
+    - '69:14'
+    relation: echo
+    record:
+      agent:
+      - El
+      - null
+      action:
+      - shines forth
+      - the earth and mountains are lifted
+      object:
+      - the mountains and peaks
+      - the earth and the mountains
+      outcome:
+      - melt and are crushed
+      - crushed with one crushing
+      quoted:
+      - wbzrḥ ʾl ... wymsn hrm wydkn gbnm
+      - fa-dukkatā dakkatan wāḥidatan
+    note: W8:2-3 / W14:1-3 wbzrḥ ʾl ... wymsn hrm wydkn gbnm, 'and when El shone forth ... the mountains melted and the peaks were crushed (ydkn, root dkk)'; 69:14 wa-ḥumilati l-arḍu wa-l-jibālu fa-dukkatā dakkatan wāḥidatan, 'the earth and the mountains are lifted and crushed with a single crushing'. The same verb d-k-k for the mountains; Kuntillet ties it to El's shining forth, 69:14 to the Day.
+- unit: ane-kuntillet-ajrud-fragments-poor-sword
+  checked:
+  - quran-20-sea-crossing-sinai
+  - quran-2-exodus-calf
+  - quran-25-destroyed-peoples
+  - quran-51-dhariyat-oaths-and-the-righteous
+  matches: []
