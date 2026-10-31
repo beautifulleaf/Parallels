@@ -1,0 +1,136 @@
+# Full read of the ANE corpus, chunk 38: Ugarit RS 17.0079 ... RS 94.2445 (in the order of `aneread.py texts 38`).
+# Read from ORACC aemw/ugarit lemmatized transliterations (word glosses only, no translation).
+# One unit per text: Hittite treaties and edicts for Ugarit, Carchemish verdicts, legal deeds of the Ugaritic kings,
+# and letters in Akkadian and in alphabetic Ugaritic.
+new_motifs:
+  letter-greeting-gods-guard-you: {label: "Letter greeting: 'may the gods (the thousand gods, the gods of Ugarit) guard you in well-being' (ilānū ana šulmāni liṣṣurūka; Ugaritic ilm tġrk tšlmk)", cluster: letters}
+  treaty-oathbreaker-destroyed-with-household: {label: "Treaty curse: the oath gods are to destroy the oath-breaker together with his person, wives, sons, grandsons, house, city, land and all his possessions", cluster: treaty}
+  treaty-keeper-guarded-with-household: {label: "Treaty blessing: if the vassal keeps the words written on the tablet, the oath gods guard him with his person, wives, sons, grandsons, house, city and land", cluster: treaty}
+  treaty-vassal-may-not-plead-ignorance: {label: "The vassal may not excuse inaction by saying 'I am bound by oath and treaty; whether the enemy kills them or they kill him, I do not know'", cluster: treaty}
+  treaty-keep-kings-secret-words: {label: "Words the overlord tells the vassal in secret must be kept secret; revealing them breaks the oath", cluster: treaty}
+  treaty-vassal-must-aid-overlord-at-once: {label: "When an enemy rises or a revolt breaks out against the overlord, the vassal must go at once with his troops and chariots (or send his son or brother) to help", cluster: treaty}
+  treaty-overlord-promises-military-help: {label: "The overlord promises that if anyone presses the vassal, he himself, a prince or a great lord will come with troops and chariots and kill the enemy", cluster: treaty}
+  thousand-gods-of-hatti: {label: "The 'thousand gods' (līm ilānī) of Hatti are summoned to assemble and hear the oath, or invoked in a greeting", cluster: theology}
+  mountains-rivers-sea-winds-clouds-as-witnesses: {label: "Mountains, rivers, springs, the great sea, heaven and earth, winds and clouds are named among the witnesses of a treaty or oath", cluster: treaty}
+  gods-of-ugarit-sworn-alongside-overlords-gods: {label: "The male and female gods of the vassal land (Ugarit) are named as witnesses alongside the overlord's own gods", cluster: treaty}
+  overlord-restores-vassals-land-and-throne: {label: "The overlord seats the vassal on his father's throne and returns to him the land of his father, making him his servant", cluster: kingship}
+  tablet-prevails-over-future-claimant: {label: "Closing clause of a deed or verdict: whoever raises the claim again, 'this tablet will prevail over him'", cluster: law}
+  party-refuses-oath-forfeits-claim: {label: "In a lawsuit one party is assigned to swear but refuses the oath, and so the disputed goods remain with (or pass to) the other party", cluster: law}
+  judicial-oath-decides-case: {label: "A king's verdict assigns one party an oath; by swearing (or by being released from the oath through settlement) the case is decided", cluster: law}
+  merchants-murdered-blood-compensation: {label: "When a king's merchants are murdered in another land, the people of that land must pay compensation (three minas of silver per man) and restore the goods", cluster: law}
+  town-swears-it-does-not-know-killers: {label: "When the killers of a man are not caught, the people of the town where he died swear an oath before his kinsmen that they do not know the killers, and pay compensation", cluster: law}
+  treaty-curse-on-whoever-alters-it: {label: "The treaty tablet ends: whoever changes this treaty, may the named gods (storm god, sun god, city goddesses) be the lords of his oath (avenge it)", cluster: treaty}
+  kings-call-each-other-brothers-sons-of-one-man: {label: "Two rulers or officials call each other brothers, 'sons of one man', 'men of one house', and ask why there is not good feeling between them", cluster: letters}
+  vassal-king-calls-overlord-father: {label: "A lesser king addresses the king of Ugarit (or another king) as 'my father' and calls himself 'your son'", cluster: letters}
+  offending-wife-sent-back-to-her-brothers: {label: "A woman who wronged her husband and slandered another is taken away and sent back to her brothers", cluster: law}
+  overlord-promises-sealed-treaty-tablet: {label: "The overlord promises the vassal that, once victorious, he will give him a sealed tablet of treaty", cluster: treaty}
+  vassal-keeps-booty-from-rebel-neighbours: {label: "The overlord grants the vassal that whatever troops or fugitives of the rebel neighbouring lands he captures no one may take from his hand", cluster: treaty}
+  gift-request-luxury-goods-between-officials: {label: "Officials or kings exchange gifts and requests by letter: horses, mules, iron dagger, linen, gold, glass, bronze cauldrons", cluster: trade}
+  overlord-tells-vassal-do-not-fear: {label: "The overlord tells the vassal 'do not fear' the hostile neighbouring kings and promises to deal with them", cluster: treaty}
+  treaty-breakers-made-example: {label: "The overlord points the vassal to neighbouring kings who abandoned the treaty: 'later you will see what the great king does to them'", cluster: treaty}
+  lawsuit-between-subjects-of-two-kings: {label: "Subjects of two kingdoms in dispute are sent with a letter so that their case may be heard before the other king or his officials, or settled 'on the road'", cluster: law}
+units:
+  - id: ane-ugarit-rs-17-0079-mursili-niqmepa-treaty
+    tradition: ane-akkadian
+    title: "Treaty of Muršili II of Hatti with Niqmepa of Ugarit: loyalty, mutual help, fugitives, secrecy; the thousand gods as witnesses; curse and blessing (RS 17.0079+)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Hittite vassal treaty, Ugarit"
+    read: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338"]
+    tags:
+      - {motif: overlord-restores-vassals-land-and-throne, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:2-4"], note: "ana kussî abika ultēšibka māt abika utterakka ... qadu mātika wardu: 'I seated you on your father's throne, returned your father's land to you'"}
+      - {motif: treaty-binds-future-generations, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:4-9"], note: "ištu ūmi annî ina warki ūmi ... ša mārī šarri ša mār mārī šarri ... ana dārâti: loyalty to the king, his sons and grandsons for ever"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:6-7", "Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:13"], note: "The king's person must be as precious to him as his own (aqrata); itti salmīya lū salmāta itti nakrīya lū nakrāta: 'be at peace with my friend, hostile to my enemy'"}
+      - {motif: treaty-fight-kings-enemy, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:14-25"], note: "Hostile lands named: Hanigalbat, Egypt, Babylonia (Karduniaš), Alše; Mukiš, Aleppo, Nuhašše if they turn hostile; ina kalû libbika 'with all your heart'"}
+      - {motif: treaty-vassal-may-not-plead-ignorance, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:25-29"], note: "anāku ša māmīti u ša riksi-mi šumma nakru lidukšunu-mi ... lū lā īde: forbidden excuse"}
+      - {motif: treaty-vassal-must-aid-overlord-at-once, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:30-34"]}
+      - {motif: treaty-overlord-promises-military-help, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:35-38"]}
+      - {motif: treaty-return-fugitives, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:45-50", "Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:10-18"], note: "Deportees (NAM.RA) from Hanigalbat, Kadesh, Niya, Nuhašše, Mukiš who flee into Ugarit must be seized and returned; fugitives (munnabtu) both ways"}
+      - {motif: treaty-report-sedition-even-from-kin, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:51-53"], note: "awâtē lā banâti ... lū mār Ḫatti lū mār Ugarit lū wardu: whoever speaks evil words to Niqmepa must be sent to the king"}
+      - {motif: treaty-keep-kings-secret-words, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 o:58-60"], note: "awâtē ina puzri ... lā tanaṣṣar"}
+      - {motif: treaty-no-other-king-or-lord, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:22-25"], note: "If he seeks the well-being (šulmu) of Hanigalbat or Egypt or the hand of another great king, he has transgressed the oath"}
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:26"], note: "līm ilānī lipḫurū lištemû u lū šībūtu: 'let the thousand gods assemble, hear and be witnesses'"}
+      - {motif: gods-listed-as-treaty-witnesses, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:27-49"], note: "Sun of heaven, Sun of Arinna, Storm-god of heaven and of Hatti, the bulls Šeri and Hurri, mountains Nanni and Hazzi (Ṣapon), storm-gods of many cities incl. Aleppo and Ugarit, Kušuh 'lord of the oath', Išhara 'queen of the oath', Hebat queen of heaven, Ištar of Nineveh, the Habiru gods, Ereškigal, the primeval gods Nara, Namšara, Minki, Ammunki, Alalu, Anu, Enlil"}
+      - {motif: gods-of-ugarit-sworn-alongside-overlords-gods, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:46-47"], note: "ilānū awīlū ilānū sinnišātu gabbišunu ša māt Ugarit"}
+      - {motif: mountains-rivers-sea-winds-clouds-as-witnesses, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:49-51"], note: "šadû nārātu būrātu tiāmtu rabītu šamû u erṣetu šāru u erpetu ... lū šībūtu"}
+      - {motif: heaven-and-earth-as-witnesses, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:50-51"]}
+      - {motif: treaty-oathbreaker-destroyed-with-household, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:52-55"], note: "nīš ilānī annûti Niqmepa qadu qaqqadišu aššātišu mārīšu mār mārīšu bītišu ālišu mātišu u mimmûšu liḫalliqūšu"}
+      - {motif: treaty-keeper-guarded-with-household, refs: ["Ugarit RS 17.0079 + RS 17.0374 + RS 17.0338 r:56-59"], note: "... liṣṣurūšu"}
+    hints:
+      - "The blessing-and-curse close conditioned on keeping 'the words written in this tablet' compare Deut 28:1-68 and Deut 29:19-20 (the curses written in this book); Lev 26."
+      - "Heaven and earth (with mountains) as witnesses compare Deut 4:26, 30:19, 31:28, 32:1; Isa 1:2; Mic 6:1-2; Ps 50:4."
+      - "Mount Hazzi (Ṣapon, Jebel Aqraʿ) among the divine witnesses: compare Ps 48:3 (Zion 'the heights of Zaphon') and Isa 14:13."
+      - "Friend of my friend, enemy of my enemy compare Exod 23:22 (I will be an enemy to your enemies) and Gen 12:3."
+      - "Return of fugitives: contrast Deut 23:16-17 (do not hand back an escaped slave) and 1 Kgs 2:39-40 (Shimei's slaves at Gath)."
+      - "Punishment extending to wife, sons and grandsons and house compare Exod 20:5, Josh 7:24-25 (Achan with his sons and daughters and all he had)."
+
+  - id: ane-ugarit-rs-17-0083-ari-teshub-father
+    tradition: ane-akkadian
+    title: "Letter of Ari-Tešub king of Ušnatu to the king of Ugarit, 'my father': let the servants' case be judged on the road (RS 17.0083)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, Ušnatu to Ugarit"
+    read: ["Ugarit RS 17.0083"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 17.0083 o:1-3"], note: "ana šar māt Ugarit abīya qibīma umma Ari-Tešub"}
+      - {motif: vassal-king-calls-overlord-father, refs: ["Ugarit RS 17.0083 o:2", "Ugarit RS 17.0083 o:4", "Ugarit RS 17.0083 r:5"]}
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0083 o:5-7"], note: "līm ilānī ana šulmāni liṣṣurūka: 'may the thousand gods guard you in well-being'"}
+      - {motif: thousand-gods-of-hatti, refs: ["Ugarit RS 17.0083 o:6"]}
+      - {motif: lawsuit-between-subjects-of-two-kings, refs: ["Ugarit RS 17.0083 o:8-r:11"], note: "The men are to come and stand with the lords; dīnīšunu ina ḫarrāni luškun: 'let me settle their cases on the road'; all cases spoken before ʾAbi-manu and Yabni-Addu"}
+    hints:
+      - "Kings addressing each other as father and son compare 2 Kgs 16:7 (Ahaz to Tiglath-pileser: 'I am your servant and your son') and 1 Kgs 20:32-33 ('my brother')."
+
+  - id: ane-ugarit-rs-17-0116-brothers-one-man
+    tradition: ane-akkadian
+    title: "Letter to a 'brother': the wife who wronged her husband sent back to her brothers; 'we are brothers, sons of one man' (RS 17.0116)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Letter, fragmentary beginning"
+    read: ["Ugarit RS 17.0116"]
+    tags:
+      - {motif: letter-greeting-gods-guard-you, refs: ["Ugarit RS 17.0116 o:1'-4'"], note: "ilānū ša māt Ugarit, Baʿlu, [...] Ribani(?), Pidrayu u līm ilānī liṣṣurūka: the greeting names Baal and his daughter Pidray"}
+      - {motif: offending-wife-sent-back-to-her-brothers, refs: ["Ugarit RS 17.0116 o:8'-r:2"], note: "sinništu šâši ištu pānānu ana kâša tiḫtaṭi ... itti aḫḫīša altakanšu: the woman had sinned (ḫaṭû) against you and spoken evil words about me; I took her and placed her with her brothers"}
+      - {motif: kings-call-each-other-brothers-sons-of-one-man, refs: ["Ugarit RS 17.0116 r:3-12"], note: "anāku u attā aḫḫū mārū ša 1 awīli aḫḫū nīnu ... ammīni lā ṭābni ... awīlū 1 bīti nīnu"}
+    hints:
+      - "'We are brothers, sons of one man' compare Gen 42:11, 13 ('we are all sons of one man') and Gen 13:8 ('let there be no strife between us, for we are brothers')."
+      - "A wife returned to her family compare Judg 19:2 and Deut 24:1-4."
+
+  - id: ane-ugarit-rs-17-0129-amar-baal-refuses-oath
+    tradition: ane-ugaritic
+    title: "Verdict of Ini-Tešub of Carchemish: ʿAmmistamru of Ugarit v. ʾAmar-Baʿlu; Amar-Baal refuses the oath and the goods stay with the king's side (RS 17.0129)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Legal verdict of Carchemish (the text is Akkadian, though listed as ane-ugaritic)"
+    read: ["Ugarit RS 17.0129"]
+    tags:
+      - {motif: judicial-oath-decides-case, refs: ["Ugarit RS 17.0129 o:3-7"], note: "Pululu itmâ-mi ... šar Ugarit itmâ-mi: both sides swear concerning 2 talents of silver and the house of Aru"}
+      - {motif: party-refuses-oath-forfeits-claim, refs: ["Ugarit RS 17.0129 o:16-19"], note: "Enuya his daughter-in-law was given to the oath; ʾAmar-Baʿlu ana tummî lā imangur: he would not consent to the oath; all the goods remained (irtiḫū) to ʾAmar-Baʿlu? -- the verb with ana ʾAmar-Baʿlu is ambiguous in the glosses"}
+      - {motif: inventory-of-seized-goods, refs: ["Ugarit RS 17.0129 o:10-16"], note: "4,920 shekels of silver, bronze vessels, 3 talents of copper, 80 cows, 16 work oxen, 250 sheep, 7 slaves, 6 slave-women, boxwood tables, beds, chairs, footstools, donkeys, the house of Tewa with threshing floor, orchard, olive grove and vineyards"}
+      - {motif: tablet-prevails-over-future-claimant, refs: ["Ugarit RS 17.0129 o:20-r:5"], note: "urram šēram ... lā iraggum ... ša iraggum ṭuppu annû ileʾʾēšu: 'tomorrow or later' neither may claim; this tablet prevails over the claimant"}
+    hints:
+      - "An oath imposed when evidence is lacking compare Exod 22:7-10 (the oath of YHWH between the two) and 1 Kgs 8:31-32."
+      - "Estate with olive grove and vineyard compare 1 Kgs 21 (Naboth's vineyard) and 1 Sam 8:14."
+
+  - id: ane-ugarit-rs-17-0132-suppiluliuma-niqmaddu
+    tradition: ane-akkadian
+    title: "Šuppiluliuma I to Niqmaddu of Ugarit: do not fear Nuhašše and Mukiš; keep the treaty, and the booty and fugitives you take are yours (RS 17.0132)"
+    corpus: ane
+    original: true
+    tagger: "Claude Opus 5.5, reading the Akkadian"
+    version: "Hittite royal letter / edict"
+    read: ["Ugarit RS 17.0132"]
+    tags:
+      - {motif: letter-opening-say-to-my-lord, refs: ["Ugarit RS 17.0132 o:1-2"], note: "umma dŠamši šarru rabû Šuppiluliuma ana Niqmaddu qibīma: the Hittite king styles himself 'the Sun'"}
+      - {motif: treaty-love-king-hate-his-enemy, refs: ["Ugarit RS 17.0132 o:10-13"], note: "itti nakrīya lū nakrāta u itti salāmīya lū salmāta"}
+      - {motif: hereditary-servitude-like-fathers, refs: ["Ugarit RS 17.0132 o:7-9"], note: "kī ša ultu maḫrî abbūka itti māt Ḫatti salmū: as your fathers were at peace with Hatti from of old"}
+      - {motif: treaty-breakers-made-example, refs: ["Ugarit RS 17.0132 o:22-27"], note: "warkānu tammar šarrānī Nuḫašše u šar Mukiš ša riksa u salāma ... umtašširū ... kīkīmê šarru rabû ippuššunūti"}
+      - {motif: vassal-keeps-booty-from-rebel-neighbours, refs: ["Ugarit RS 17.0132 r:8-21"]}
+      - {motif: overlord-promises-sealed-treaty-tablet, refs: ["Ugarit RS 17.0132 r:22-25"], note: "šarru rabû ṭuppa kanka ša riksi inaddinakku"}
+      - {motif: overlord-tells-vassal-do-not-fear, refs: ["Ugarit RS 17.0132 o:5", "Ugarit RS 17.0132 r:5"], note: "lā tapallaḫšunu"}
+    hints:
+      - "'Do not fear them' addressed by a great king to an ally compare the divine 'fear not' in Deut 3:2, Josh 10:8, Isa 41:10, and Ahaz in Isa 7:4."
+      - "Neighbouring kings who abandoned the treaty compare Ezek 17:15-19 (Zedekiah broke the covenant)."

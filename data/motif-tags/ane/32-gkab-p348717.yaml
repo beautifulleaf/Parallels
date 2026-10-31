@@ -59,7 +59,6 @@ new_motifs:
   eclipse-ritual-lament-until-moon-clears: {label: "During a lunar eclipse a brazier is lit at the temple gates and the lamentation priest performs laments until the moon becomes bright again", cluster: cult}
   lamenting-god-without-food-or-water: {label: "In a lament the god (or his mourner) says: I am the one who roams and does not sleep, who ate no food and drank no water in his weariness", cluster: lament}
   sunken-ship-of-dilmun-lament: {label: "Lament: I am the Dilmunite whose ship sank in the reed thicket", cluster: lament}
-  storm-is-word-of-anu-and-enlil: {label: "The destroying storm is the word of Anu, the word of Enlil, the rage of Anu's heart", cluster: lament}
   evil-portent-kept-from-city: {label: "Prayer refrain: may confinement, murder, rebellion and (the evil of) the eclipse not come near the city and its temples", cluster: omen}
   mourners-smeared-with-river-mud: {label: "Mourners smear their faces, hands and feet with river mud and hang a dagger at the collarbone", cluster: lament}
   ritual-remains-thrown-into-river: {label: "After the rite the remains (brazier and ashes, magic circle, twine, purification materials) are thrown into the river", cluster: cult}
@@ -101,6 +100,35 @@ new_motifs:
   god-bringer-of-flood-and-abundance: {label: "The god brings the river flood and abundance, makes plenty sprout in seas and reed-beds, and creates grain, the life of the people", cluster: fertility}
   my-speech-pleasing-to-god-and-king: {label: "Prayer: may my speech please god and king; may god and king do what I say; may my mouth and tongue counsel me well", cluster: prayer}
   bonds-of-sorcerer-loosened: {label: "Prayer that the god loosen the evil bonds tied by sorcerer and sorceress", cluster: magic}
+  goddess-creator-of-gods-kings-and-mankind: {label: "The goddess is hailed as creator of god, king and humankind", cluster: creation}
+  goddess-sent-to-reconcile-angry-god: {label: "The supplicant sends the goddess, 'reconciler of the angry god and angry goddess', to make peace for him", cluster: prayer}
+  sins-loosed-and-forgotten: {label: "Prayer that the supplicant's guilt be loosed, his sins forgotten, his bond undone and his constraint slackened", cluster: prayer}
+  vow-to-proclaim-gods-praise: {label: "The supplicant vows that, if helped, he will proclaim the deity's praise (dalīlī ludlul)", cluster: prayer}
+  goddess-of-grain-and-abundance: {label: "The grain goddess (Nisaba) is goddess of abundance who doubles plenty for Enlil", cluster: fertility}
+  without-deity-no-life-created: {label: "Without the goddess no people are begotten and no living being created; all the black-headed people and everything that exists are hers", cluster: creation}
+  goddess-judges-and-decides: {label: "The goddess judges cases and makes decisions, establishes god and king and exercises kingship", cluster: kingship}
+  earth-mother-heaven-raiser: {label: "Of a goddess: the earth gave birth to you, the heavens raised you", cluster: creation}
+  prostration-with-nose-to-ground: {label: "Prayer posture: prostration with the nose stroked to the ground (labān appi)", cluster: prayer}
+  incense-offered-to-personal-god: {label: "Rubric: incense is lit in a censer and strewn to the supplicant's personal god", cluster: cult}
+  who-is-your-rival-incomparability: {label: "Hymnic question of incomparability: who is your rival? your greatness surpasses all the gods", cluster: hymn}
+  goddess-fate-decreed-by-anu-name-exalted: {label: "Anu her father decreed her fate, in the assembly of the gods her name was exalted, Enlil gave her kingship of heaven and earth", cluster: hymn}
+  king-kneels-before-goddess: {label: "The king squats (kneels) before the goddess and waits attentively on her", cluster: kingship}
+  grasping-the-hem-in-supplication: {label: "The supplicant seizes the hem (sissiktu) of the deity's garment in supplication", cluster: prayer}
+  goddess-of-love-lady-of-lovers: {label: "The goddess is goddess of allure and love, lady of lovers", cluster: love}
+  distant-lands-bow-to-goddesss-word: {label: "Anu, Enlil and Marduk granted the goddess hearing and peace; she makes the insubmissive and distant lands bow to her word", cluster: hymn}
+  illness-and-sorcery-banished-litany: {label: "Litany: may the illness of my body go far, the groaning of my flesh be driven off, the asakku of my veins be carried away, sorcery be loosed, the curse go far", cluster: magic}
+  goddess-who-hears-prayer-soothes-anger: {label: "The goddess is lady of hearing, who makes the settlements heard and soothes the anger of god and king", cluster: prayer}
+  goddess-shaper-of-all-creation-midwife: {label: "The goddess is shaper of all creation who brings living beings safely to birth", cluster: creation}
+  catalogue-of-prayers-by-incipit: {label: "A catalogue lists prayers (šuʾilas) by incipit and the god each is addressed to", cluster: scribal}
+  god-soothes-monster-with-incantation: {label: "A god is sent to calm the raging monster with his incantation, but turns back", cluster: myth}
+  god-angry-by-night-gentle-by-day: {label: "Hymn: the god is furious by night but relents by day; his rage is a storm and a flood, his breath a gentle morning breeze; his heart turns back", cluster: hymn}
+  gods-hand-heaven-cannot-bear-soft-hand-saves: {label: "The weight of the god's hand the heavens cannot bear, yet his soft palm rescues the dying", cluster: hymn}
+  god-turns-like-cow-to-calf: {label: "The god relents quickly like a mother and keeps turning back like a cow to its calf", cluster: hymn}
+  sufferer-vows-to-teach-people-gods-mercy: {label: "The rescued sufferer resolves to proclaim the god's anger and his quick mercy and to teach it to the people", cluster: prayer}
+  sufferers-property-divided-by-rabble: {label: "The sufferer's property is shared out among the riffraff, his canal silted up, the harvest song silenced, his city made silent like an enemy's", cluster: lament}
+  sufferers-office-given-to-another: {label: "The sufferer's office is given to another and a stranger installed in his cultic duties", cluster: lament}
+  prayer-blazes-like-fire-lips-stiff: {label: "The sufferer's heart burns like fire as he prays, his prayers are a squabble, his lips stiff as in gloom", cluster: lament}
+  hope-each-dawn-for-good-year-passes: {label: "Each morning the sufferer hopes for good; a month passes, the sun shines; a whole year passes to its term", cluster: lament}
 units:
   - id: ane-gkab-p348717-r-ii-enkidu-warns
     tradition: ane-akkadian
@@ -504,7 +532,7 @@ units:
       - {motif: perpetual-altar-fire-never-extinguished, refs: ["GKAB P363407 o:18'", "GKAB P363407 o:29'"], note: "adi antalû unammar išātu ina muḫḫi garakki lā tebelle; afterwards the fire is quenched with beer"}
       - {motif: lamenting-god-without-food-or-water, refs: ["GKAB P363407 o:5'-6'"], note: "bēlka ša idullū-ma lā iṣallal anāku ... akala lā īkul anāku, ina mānaḫtīšu mê lā išt[û] anāku"}
       - {motif: sunken-ship-of-dilmun-lament, refs: ["GKAB P363407 o:10'"], note: "dilmunnû ša ina ṣuṣê eleppašu iṭbû anāku"}
-      - {motif: storm-is-word-of-anu-and-enlil, refs: ["GKAB P363407 o:9'"], note: "ūmu amāt anu, ūmu amāt ellil, ūmu uggat libbi ša anu rabî"}
+      - {motif: gods-word-and-angry-heart-destroy, refs: ["GKAB P363407 o:9'"], note: "ūmu amāt anu, ūmu amāt ellil, ūmu uggat libbi ša anu rabî"}
       - {motif: temple-cult-and-festivals-cease, refs: ["GKAB P363407 o:12'-13'"], note: "makurru ša nindabû izbil tānēḫa izzabil; ša nindabê nindabê ul ušērib, ša nīqê nīqê ul ušērib"}
       - {motif: funerary-offering-to-netherworld-gods, refs: ["GKAB P363407 o:19'-20'"], note: "kispī ana ugāri ... ana nārāti ša mê lā ubbalā ... ana anunnakī takassip"}
       - {motif: head-covered-in-shame, refs: ["GKAB P363407 o:21'"], note: "nišē māti ṣubāt qaqqadīšunu šaḫṭu ina lubārīšunu qaqqassunu katmu"}
@@ -757,3 +785,186 @@ units:
     hints:
       - "God who gives life to the dead by his word: Deut 32:39; Ps 30:4; 'the lifter of my head': Ps 3:4."
       - "Finding favour before God and king: Prov 16:7, 22:11; Neh 2:5."
+
+  - id: ane-gkab-p363582-nisaba-reconciler
+    tradition: ane-akkadian
+    title: "Šuʾila to Nisaba, creator of god, king and mankind, reconciler of the angry god and goddess (CTN 4, 168, prayer 1)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363582 o.i:1-15"]
+    tags:
+      - {motif: goddess-creator-of-gods-kings-and-mankind, refs: ["GKAB P363582 o.i:1-3"], note: "nisaba šarrat ḫumālītu, bānât ili u šarri u amīlūti, sapar anunnakî ilī ekdūti: net of the Anunnaki, the wild gods"}
+      - {motif: goddess-sent-to-reconcile-angry-god, refs: ["GKAB P363582 o.i:4-7"], note: "musallimat ili zenê ištari zeniti: lušpurki ana ili zenê ... sullimīm-ma"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["GKAB P363582 o.i:4-7", "GKAB P363582 o.i:14"], note: "rubric: diŋir šag₄ dib-ba gur-ru-da-kam: to turn back an angry god"}
+      - {motif: sins-loosed-and-forgotten, refs: ["GKAB P363582 o.i:8-11"], note: "annūa lippaṭrū gillātūa ... ḫiṭâtūa limmašâ; eʾilti lippaṭir kasīti lirtammi"}
+      - {motif: vow-to-proclaim-gods-praise, refs: ["GKAB P363582 o.i:12"], note: "dalīl ilūtiki lušāpi"}
+    hints:
+      - "Sins forgotten and not remembered: Ps 25:7, 103:12; Isa 43:25; Jer 31:34; Mic 7:19."
+
+  - id: ane-gkab-p363582-nisaba-ninlil
+    tradition: ane-akkadian
+    title: "Šuʾila to Nisaba-Ninlil, goddess of abundance: without you no people are begotten; all the black-headed are yours (CTN 4, 168, prayer 2)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363582 o.i:16-50"]
+    tags:
+      - {motif: goddess-of-grain-and-abundance, refs: ["GKAB P363582 o.i:16-21", "GKAB P363582 o.i:27-29"], note: "iltu nuḫše nisaba šarratu mārat ea ... kallat ellil ... ummu ālittu šamuḫtu ... ninlil; attī-ma ana ellil tuštanni ḫegalla"}
+      - {motif: healing-goddess-revives-the-moribund, refs: ["GKAB P363582 o.i:22", "GKAB P363582 o.i:40"], note: "muballiṭat napšat tenēšēti ... muballiṭat šiknat napišti attī-ma"}
+      - {motif: without-deity-no-life-created, refs: ["GKAB P363582 o.i:35-36"], note: "ela kâši nišū ul irreḫâ šiknat napišti ul ibbanâ; ṣalmat qaqqadi kala mala ibbanâ mimma šumšu kumma"}
+      - {motif: goddess-judges-and-decides, refs: ["GKAB P363582 o.i:32-34"], note: "ana dīni diāni purussâ parāsi ... tukannī-ma ilu u šarru, iltu šarratu, tušēpiši šarrūta"}
+      - {motif: goddess-sent-to-reconcile-angry-god, refs: ["GKAB P363582 o.i:39", "GKAB P363582 o.i:43-45"], note: "musallimat ili zenê ištari zeniti; ana ilī ... abbūti ṣabtī qibî damiqti; sullimī-ma ila šabsa"}
+      - {motif: earth-mother-heaven-raiser, refs: ["GKAB P363582 o.i:41-42"], note: "anu ellil ea bēlet-ilī, erṣetu ālittaki, šamāmī murabbûki: the earth bore you, the heavens raised you"}
+      - {motif: prostration-with-nose-to-ground, refs: ["GKAB P363582 o.i:46-47"], note: "ina ikribī šukinnī laban appi"}
+      - {motif: incense-offered-to-personal-god, refs: ["GKAB P363582 o.i:48-50"], note: "rubric: ina nignakki ana ilīšu unammar ... ana ili ša libbīšu tasarraq"}
+    hints:
+      - "Without him nothing was made: Ps 104:29-30; Job 34:14-15; prostration with face to ground: Neh 8:6."
+
+  - id: ane-gkab-p363582-ishtar-lady-of-cities
+    tradition: ane-akkadian
+    title: "Šuʾila to Ištar, lady of cities, creator of people; ritual before the evening star with a bent stick (CTN 4, 168, prayer 3)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363582 o.i:51-o.ii:38"]
+    tags:
+      - {motif: who-is-your-rival-incomparability, refs: ["GKAB P363582 o.i:51-55"], note: "ištar bēlet ālāni bānât tenēšēti, ḫāmimat parṣī ... šāninki mannu; šūpû narbûki eli kal ilī atru"}
+      - {motif: goddess-fate-decreed-by-anu-name-exalted, refs: ["GKAB P363582 o.i:57-61"], note: "anu abūki išīmki šīmtu, ina puḫur igigi šumki ulli ... šarrūt šamê u erṣeti iqīški ellil"}
+      - {motif: deity-holds-nose-rope-of-peoples, refs: ["GKAB P363582 o.i:60"], note: "tenēšēti ṣerressunu tukallī imnuki"}
+      - {motif: king-kneels-before-goddess, refs: ["GKAB P363582 o.i:63"], note: "šarru kamsu maḫraki upaqqu ana kâši"}
+      - {motif: justice-at-right-hand-favour-at-left, refs: ["GKAB P363582 o.i:64"], note: "kittu mīšaru maḫriki kunnū"}
+      - {motif: goddess-asked-to-intercede-with-husband, refs: ["GKAB P363582 o.ii:4-10"], note: "nisaba musallimat ili zenê ... rēmnī-ma bēltu leqê unnīnīya ... ilū šūt parṣī likīšu murṣa ša zumrīya ... lipaṭṭir arnī, dalīlīki ludlul"}
+      - {motif: ritual-before-venus-star, refs: ["GKAB P363582 o.ii:12-31"], note: "lū ina šimītān lū ina šērēti inūma ištar ina šamê napḫat ... roof swept, pure water, 7 rations of emmer, 12 pots, dates, flour, mersu, honey, ghee, 7 flasks of beer, milk, wine; garden fruit pressed; 7 and 7 censers; the sick man holds a bent stick (gamlu) in his left hand, flour in his right"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["GKAB P363582 o.ii:32-34", "GKAB P363582 o.ii:38"], note: "rikis ipaṭṭar-ma ilu u šarru ittīšu isallimū adi ūmī balāṭi mimma lemnu ul iṭeḫḫêšu; kimiltu ili u ištari"}
+    hints:
+      - "Who is like you among the gods?: Exod 15:11; Ps 89:7-9; offerings to the Queen of Heaven on the roofs: Jer 19:13, 44:17-19; Zeph 1:5."
+
+  - id: ane-gkab-p363582-tashmetu-1
+    tradition: ane-akkadian
+    title: "Šuʾilas to Tašmētu: she raises the lowly above princes; 'I have seized your hem'; ask Nabû your husband for me (CTN 4, 168, prayers 4-5)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363582 o.ii:39-r.i:50"]
+    tags:
+      - {motif: deity-changes-fates-raises-lowly, refs: ["GKAB P363582 o.ii:47-52"], note: "šarru pāliḫša ibêl gimirtu, tanamdinšu ūmē ša lubūri ...; amēlu tappalsūšu šīmāti umaššil; tašarrakšu aplu u zēršu mādūti; aḫurrâ šušpula eli malki ušrabbâ"}
+      - {motif: grasping-the-hem-in-supplication, refs: ["GKAB P363582 o.ii:54-55"], note: "kīma šurbâti-ma bēltī assaḫur ilūtki, u šarrat aṣbat sissiktaki"}
+      - {motif: goddess-asked-to-intercede-with-husband, refs: ["GKAB P363582 r.i:28-31"], note: "ana nabû ḫāʾirīki mār rēštî ša esagil abbūti ṣabtī, lišme zikrīya ... lilqe utnēnīya"}
+      - {motif: goddess-of-love-lady-of-lovers, refs: ["GKAB P363582 r.i:25"], note: "tašmētu ilat kuzbi u dādī bēlet murtâmī"}
+      - {motif: distant-lands-bow-to-goddesss-word, refs: ["GKAB P363582 r.i:16-24"], note: "anu ... tašmâ u salīma išruk ana kâši ... kullat lā māgirī tušaknašī ... mātāti rūqūti tušaknašī qibītukki"}
+      - {motif: illness-and-sorcery-banished-litany, refs: ["GKAB P363582 r.i:32-39"], note: "linnisi murṣu ša zumrīya, liṭṭarid tānēḫu ša šīrīya, littabil asakku ša šerʾānīya, lippašrū kišpū ruḫû rusû ... linnisi māmīt ... liṭṭapir namtaru"}
+      - {motif: personal-god-and-goddess-reconciled, refs: ["GKAB P363582 r.i:32", "GKAB P363582 r.i:49-50"], note: "kišpū paṭrū māmītu pašrat"}
+      - {motif: prayer-recited-three-times, refs: ["GKAB P363582 r.i:45-48"], note: "minûtu annītu 3-šu tamannu uškên-ma"}
+    hints:
+      - "He raises the poor from the dust to sit with princes: 1Sam 2:7-8; Ps 113:7-8; Luke 1:52."
+      - "Seizing the hem of a robe in supplication: 1Sam 15:27, 24:5; Zech 8:23; Matt 9:20."
+
+  - id: ane-gkab-p363582-tashmetu-2
+    tradition: ane-akkadian
+    title: "Šuʾila to Tašmētu, lady of hearing, who soothes the anger of god and king (CTN 4, 168, prayer 6)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363582 r.i:51-r.ii:30"]
+    tags:
+      - {motif: goddess-who-hears-prayer-soothes-anger, refs: ["GKAB P363582 r.i:51-53"], note: "bēlet tašmê ... muštešmat dadmē, šākinat annunti, mušniḫat uzzi ili u šarri"}
+      - {motif: distant-lands-bow-to-goddesss-word, refs: ["GKAB P363582 r.ii:10-18"]}
+      - {motif: goddess-asked-to-intercede-with-husband, refs: ["GKAB P363582 r.ii:22-26"], note: "ana nabû ḫāmirīki ... abbūti ṣabtī qibî banīti"}
+      - {motif: illness-and-sorcery-banished-litany, refs: ["GKAB P363582 r.ii:27-29"]}
+      - {motif: goddess-of-love-lady-of-lovers, refs: ["GKAB P363582 r.ii:19"], note: "bēlet murtâmī dadmē"}
+
+  - id: ane-gkab-p363582-nanaya
+    tradition: ane-akkadian
+    title: "Šuʾila to Nanaya, queen of the regions, beloved of Nabû, shaper of all creation; incipit to Išḫara; colophon (CTN 4, 168, prayer 7)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363582 r.ii:31-60", "GKAB P363582 l.e:1"]
+    tags:
+      - {motif: queen-of-all-the-gods-epithet, refs: ["GKAB P363582 r.ii:31-35"], note: "šarrat kibrāti ilat bēlēti ... nanaya šarḫat ilī, kanût ayakki ... narāmti bēlī nabû"}
+      - {motif: goddess-shaper-of-all-creation-midwife, refs: ["GKAB P363582 r.ii:36-37"], note: "ḫassu pātiqat kala nabnīti, muštēšerat šiknat napišti: shaper of all creation, who brings the living to birth"}
+      - {motif: goddess-asked-to-intercede-with-husband, refs: ["GKAB P363582 r.ii:49"]}
+      - {motif: vow-to-proclaim-gods-praise, refs: ["GKAB P363582 r.ii:50-52"], note: "alsīki bēltī šimê suppēya, usḫī lumna ša zumrīya, gimlīnī-ma dalīlīki ludlul"}
+      - {motif: prayer-recited-three-times, refs: ["GKAB P363582 r.ii:54-55"]}
+      - {motif: scribal-colophon, refs: ["GKAB P363582 r.ii:59", "GKAB P363582 l.e:1"], note: "ṭupšarru ṣeḫru 'junior scribe'; ŠU.IL₂.LA₂ ... ištarāti rabâti u ṣīrāti: šuʾilas of the great and exalted goddesses"}
+    hints:
+      - "God who forms in the womb: Ps 139:13-16; Jer 1:5."
+
+  - id: ane-gkab-p363593-shuila-catalogue
+    tradition: ane-akkadian
+    title: "Catalogue of šuʾilas: to Anu, Papsukkal, the Arrow star (Sirius), Nergal (CTN 4, 179)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    read: ["GKAB P363593"]
+    tags:
+      - {motif: catalogue-of-prayers-by-incipit, refs: ["GKAB P363593 o:2-10"], note: "ŠU.IL₂.LA₂ d.PAP.SUKKAL-KAM; ŠU.IL₂.LA₂ mul.KAK.SI.SA₂-KAM (the star Šukūdu, Sirius); d.NERGAL-KAM; incipit epithets ṣīrūti, gitmālu, tizqāru"}
+      - {motif: works-attributed-to-named-authors, refs: ["GKAB P363593 o:2-10"], note: "loose: a catalogue of compositions by incipit and rubric, without authors"}
+
+  - id: ane-gkab-p363614-enuma-elish-2
+    tradition: ane-akkadian
+    title: "Enūma eliš II (Nimrud fragment): Marduk answers his father: 'If I am to be your avenger and keep you alive' (CTN 4, 200)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Nimrud manuscript)
+    read: ["GKAB P363614"]
+    tags:
+      - {motif: champion-demands-supremacy-as-price, refs: ["GKAB P363614 flake:6'-11'"], note: "[ib]tu bēlu ana amāt abīšu ... libbašū-ma ana abīšu izakkar: ... ilī šīmat ilī rabûti, [šumma-ma] anāku mutīr gimillikun [akammi tiāmat-ma] uballaṭ kâšun ... šūtera ibâ [...]: the restoration of the condition clause is from the composite"}
+      - {motif: god-soothes-monster-with-incantation, refs: ["GKAB P363614 flake:1'-5'"], note: "urruḫiš takabbas ... mūdû gimri ... šupšiḫa ina têka ... urruḫiš šutardī-ma ... uttakkaša tēr arkānuš: go quickly, calm (Tiāmat) with your spell; (he) went and turned back"}
+    hints:
+      - "The divine warrior against the sea: Ps 74:13-14, 89:10-11; Isa 51:9-10; Job 26:12-13."
+
+  - id: ane-gkab-p363615-ludlul-hymn
+    tradition: ane-akkadian
+    title: "Ludlul bēl nēmeqi I: hymn to Marduk, lord of wisdom, whose hand heaven cannot bear and whose soft hand saves the dying (CTN 4, 201, obverse 1-40)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Nimrud manuscript)
+    read: ["GKAB P363615 o:1-40"]
+    tags:
+      - {motif: god-angry-by-night-gentle-by-day, refs: ["GKAB P363615 o:1-8"], note: "bēl nēmeqi ilu muštālu, [ēziz mūši] muppašir urri ... ūmu meḫê nāmû uggatsu ... mānit šērēti zīqšu ṭābu, uzzuššu lā maḫār abūbu rubšu, mussaḫḫir karassu kabattašu tayyārat"}
+      - {motif: gods-hand-heaven-cannot-bear-soft-hand-saves, refs: ["GKAB P363615 o:9-12"], note: "ša nakbat qātīšu lā inaššû šamāʾī, rittuš rabbat ukaššu mīta"}
+      - {motif: god-kills-and-makes-alive, refs: ["GKAB P363615 o:13-14"], note: "ina libbāti upta[tta]â qabrātu, inūšu ina karašê ušatbi maqtu: in his rage graves are opened; in catastrophe he raises the fallen"}
+      - {motif: personal-god-and-protective-spirits-desert-sufferer, refs: ["GKAB P363615 o:15-16"], note: "ikkelemmû-ma innessû lamassu u šēdu; ippallas-ma ana ša iskipūšu ilšu isaḫḫuršu"}
+      - {motif: god-turns-like-cow-to-calf, refs: ["GKAB P363615 o:17-20"], note: "akṣat ana surri ennittašu ... ikkarriṭ-ma zamar-ma itār ālittuš ... u kī arḫi būri ittanasḫara arkīšu: he turns quickly like a mother, like a cow keeps turning back to its calf"}
+      - {motif: god-wounds-with-scourge-heals-with-bandage, refs: ["GKAB P363615 o:21-22"], note: "zaqtā niṭâtušu usaḫḫalā zumra, pašḫū ṣimdūšu uballaṭū namtara"}
+      - {motif: god-releases-guilt-and-changes-evil-fate, refs: ["GKAB P363615 o:23-28"], note: "iqabbī-ma gillata ušrašši, ina ūm išartīšu uptaṭṭarū eʾiltu u annu ... mušmanṭi riḫiṣti adad miḫiṣti erra, musallim ili ištari šabbasûti"}
+      - {motif: gods-ways-inscrutable-own-counsellor, refs: ["GKAB P363615 o:29-32"], note: "bēlu mimma ina libbi ilī ibarri, manāma alaktašu ul īde ... ilu ayyumma ul ilammad ṭēnšu"}
+      - {motif: who-but-ea-can-calm-you, refs: ["GKAB P363615 o:33-36"], note: "loose: kī kabtat qāssu libbašu rēmēnî ... ša lā libbīšu mannu miḫiṣtašu lišapšiḫ, ela kabattīšu ayyu liqallil: without his will who could cool his blow?"}
+      - {motif: sufferer-vows-to-teach-people-gods-mercy, refs: ["GKAB P363615 o:37-40"], note: "lušāpi uggatsu ša kīma nūni akkulu, inunam-ma zamar kī uballiṭu, lušalmid-ma nišī qitruba ...: I will proclaim his anger, which consumed me like a fish, ... let me teach the people"}
+    hints:
+      - "He wounds and binds up, smites and his hands heal: Job 5:18; Hos 6:1; Deut 32:39; 1Sam 2:6."
+      - "His anger is for a moment, his favour for a lifetime: Ps 30:6; Isa 54:7-8."
+      - "His ways past finding out: Isa 40:13-14, 55:8-9; Rom 11:33-34; Job 11:7-8."
+      - "I will teach transgressors your ways: Ps 51:15."
+
+  - id: ane-gkab-p363615-ludlul-sufferer
+    tradition: ane-akkadian
+    title: "Ludlul bēl nēmeqi I: the sufferer abandoned by his gods, omens confused, seven courtiers plot, friends turn, property divided, tears day and night (CTN 4, 201, obverse 41-reverse 54)"
+    corpus: ane
+    original: true
+    tagger: "Claude (model), reading the Akkadian"
+    version: Standard Babylonian (Nimrud manuscript)
+    read: ["GKAB P363615 o:41-r:54"]
+    tags:
+      - {motif: personal-god-and-protective-spirits-desert-sufferer, refs: ["GKAB P363615 o:41-46"], note: "iddanni ilī ... ipparku ištarī ... šēdu damqu ... lamassī-ma"}
+      - {motif: omens-and-dreams-confused-for-sufferer, refs: ["GKAB P363615 o:50-54"], note: "dalḫā têrētūa ... itti bārî u šāʾili ... pî sūqi ... attīl-ma ina šāt mūši"}
+      - {motif: king-turns-against-loyal-courtier, refs: ["GKAB P363615 o:55-57"], note: "šarru šīr ilī ... libbuš ikṣura ... nanzāzū taslītu: the king, flesh of the gods, his heart was tied (against me), the courtiers [plot] slander"}
+      - {motif: seven-courtiers-conspire, refs: ["GKAB P363615 o:58-68"], note: "paḫrū-ma ramānšunu ... šumma ištēn-ma napištašu ... iqabbi šanû ušatba ... kīma šalši qīptašu ... errub bītuššu rebû ... ḫaššu pî ḫanšê šubalkut ... u sebû iredû šēdu; ikṣurūnim-ma rikis sebet illatsun ūmiš lā pādû utukkiš"}
+      - {motif: proud-man-humbled-to-servility, refs: ["GKAB P363615 r:2-10"], note: "muttallu pîya appatiš ... šapūtu rimmati šaqummiš; šaqâtu rēšāya iknuš ...; rapaštu irāti agašgû ...; ša etelliš attallaku ... šarraḫākū-ma"}
+      - {motif: friend-turns-false-to-sufferer, refs: ["GKAB P363615 r:11-15"], note: "ana rapši kimāti ... sūqa abâʾ-ma ... errub ēkalliš ... ālī kī ayyābi ... tušā-ma nakrāti: my wide family made me a stranger; my city like an enemy"}
+      - {motif: no-helper-at-side, refs: ["GKAB P363615 r:24-30"], note: "ana qābi damiqtīya petassu ... mūtamû ṭapiltīya šakin ... dābib nullātīya ilu rēṣušu ... ul aršī ālik idi gāmila ul āmur"}
+      - {motif: sufferers-property-divided-by-rabble, refs: ["GKAB P363615 r:31-34"], note: "ana ṣindi u birti uzaʾʾizū mimmâya, pî nārīya umanṭiṭū sakīka, ina qerbētīya ušessû alāla, kī āl nakiri ušqammimū ālī"}
+      - {motif: sufferers-office-given-to-another, refs: ["GKAB P363615 r:35-36"], note: "parṣīya ušalqû šanâm-ma, u ina pilludêya aḫâ ušzizzū: my office was given to another, a stranger installed in my rites"}
+      - {motif: moaning-like-a-dove, refs: ["GKAB P363615 r:37-40"], note: "ūmu šutānuḫu mūšu gerrāni, arḫī qitayyulu idirtu šattu; kīma summi admum-ma gimir ūmīya"}
+      - {motif: eyes-worn-out-from-weeping, refs: ["GKAB P363615 r:41-45"], note: "ina bitakkî šubrâ īnāya ... dimāti ṣurrupā usukkāya; uṣṣallim pānīya adirāt libbīya, maškīya utarriqū pirittu u ḫattu"}
+      - {motif: prayer-blazes-like-fire-lips-stiff, refs: ["GKAB P363615 r:46-50"], note: "kīma ṣarāp išāti ... muštaḫmiṭi amāt teslīti ... puḫpuḫḫû supûya; šaptīya kī daʾīmi ašṭā"}
+      - {motif: hope-each-dawn-for-good-year-passes, refs: ["GKAB P363615 r:51-53"], note: "tušā-ma ina urri iššira dameqtu, arḫu innammarū inammirā šamši, šattam-ma ana balāṭ adanni ētiq: a whole year passed to its term"}
+      - {motif: scribal-colophon, refs: ["GKAB P363615 r:54"], note: "ṭuppu 1-kam ludlul bēl [nēmeqi]"}
+    hints:
+      - "Job's lament: friends and kin estranged, household strangers (Job 19:13-19); months of misery, nights of toil (Job 7:3-4); eyes dim from grief (Job 16:16, 17:7); Ps 31:10-14 (terror on every side, they plot to take my life), Ps 38:12, 88:9, 19."
+      - "Moaning like a dove: Isa 38:14, 59:11; Ezek 7:16; Nah 2:8."
+      - "Another takes his office: Ps 109:8."
